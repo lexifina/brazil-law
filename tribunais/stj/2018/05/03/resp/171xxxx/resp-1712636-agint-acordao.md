@@ -1,0 +1,117 @@
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO OU SEGURO DE ASSISTÊNCIA À SAÚDE. REEMBOLSO DE DESPESAS MÉDICAS. RECUSA INDEVIDA. PRESCRIÇÃO TRIENAL. ART. 206, § 3º, IV, DO CC/2002. MANUTENÇÃO DO ACÓRDÃO RECORRIDO POR FUNDAMENTO DIVERSO. POSSIBILIDADE. ART. 257 DO RISTJ. DECISÃO MANTIDA.
+1. "Aplica-se o mesmo prazo prescricional de três anos à pretensão de reembolso, pela operadora do plano ou seguro de saúde, das despesas médicas que o usuário teve de fazer como decorrência da injusta recusa de cobertura, por não se tratar de contrato típico de seguro" (REsp 1608809/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/11/2017, DJe 24/11/2017).
+2. A norma do art. 257, parte final, do RISTJ, a qual permite a aplicação do direito à espécie, não autoriza que esta Corte Superior dê provimento a recurso especial e reforme acórdão da instância local com base em dispositivo legal - no caso, o art. 206, § 3º, IV, do CC/2002 - não invocado pelos recorrentes. Compete ao insurgente não só o ônus de viabilizar o prequestionamento, como também de cuidar expressamente, na peça recursal, das questões jurídicas que lhe interessarem e indicar os dispositivos legais específicos supostamente contrariados.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 371/515) interposto contra decisão desta relatoria que negou provimento ao recurso especial.
+Em suas razões, os agravantes alegam que o caso em estudo é diferente do analisado nos recursos repetitivos citados na decisão (REsps n. 1.360.969/RS e 1.361.182/RS). Aduzem que, nos repetitivos, objetivava-se a declaração de nulidade de cláusula contratual de reajuste e a consequente repetição de indébito, enquanto, no caso dos autos, busca-se o reembolso de despesas médicas, em virtude da negativa de cobertura por parte da agravada.
+Entendem que deve ser aplicado o prazo de dez anos, previsto no art. 205 do CC/2002, e afirmam que, inclusive, na monocrática foi citada ementa em que tal entendimento teria sido aplicado.
+Asseveram ter invocado, ainda, violação da Súmula n. 469/STJ, do art. 27 do CDC e do art. 206, § 3º, IX, do CC/2002.
+Defendem ser inaplicável ao caso a Súmula n. 284/STF porque não teria havido deficiência na fundamentação recursal que impedisse o julgador de compreender a controvérsia.
+Sustentam, por fim, que deve ser levado em conta o princípio da fungibilidade recursal.
+Ao final, pedem a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A agravada não apresentou contrarrazões (e-STJ fl. 518).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO OU SEGURO DE ASSISTÊNCIA À SAÚDE. REEMBOLSO DE DESPESAS MÉDICAS. RECUSA INDEVIDA. PRESCRIÇÃO TRIENAL. ART. 206, § 3º, IV, DO CC/2002. MANUTENÇÃO DO ACÓRDÃO RECORRIDO POR FUNDAMENTO DIVERSO. POSSIBILIDADE. ART. 257 DO RISTJ. DECISÃO MANTIDA.
+1. "Aplica-se o mesmo prazo prescricional de três anos à pretensão de reembolso, pela operadora do plano ou seguro de saúde, das despesas médicas que o usuário teve de fazer como decorrência da injusta recusa de cobertura, por não se tratar de contrato típico de seguro" (REsp 1608809/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/11/2017, DJe 24/11/2017).
+2. A norma do art. 257, parte final, do RISTJ, a qual permite a aplicação do direito à espécie, não autoriza que esta Corte Superior dê provimento a recurso especial e reforme acórdão da instância local com base em dispositivo legal - no caso, o art. 206, § 3º, IV, do CC/2002 - não invocado pelos recorrentes. Compete ao insurgente não só o ônus de viabilizar o prequestionamento, como também de cuidar expressamente, na peça recursal, das questões jurídicas que lhe interessarem e indicar os dispositivos legais específicos supostamente contrariados.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+Os agravantes não trouxeram nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 363/367):
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão proferido pelo TJPE assim ementado (e-STJ fl. 223):
+DIREITO CIVIL. RECUSA DE HOSPITAL. CIRURGIA DF CÂNCER DE PRÓSTATA. PLANO DE SAÚDE. REEMBOLSO PARCIAL. PRESCRIÇÃO ÂNUA. PLEITO PROCEDENTE. APELO PROVIDO.
+1. O reembolso pretendido tem causa no contrato e surge a partir de sua interpretação e aplicação, não se configurando, portanto, reparação de danos causados por fato do produto ou serviço.
+2. A prescrição será Anua quando se tratar de pedido de reembolso, a contar da data em que surge a pretensão.
+3. Inaplicável ao caso a prescrição qüinqüenal estabelecida no art 27 do CDC.
+4. Preliminar acolhida.
+5. Apelo da empresa ré provido. Decisão Unânime.
+Os embargos de declaração opostos foram parcialmente acolhidos, "a fim de determinar o desentranhamento da peça às fls. 216/223" (e-STJ fls. 271/276).
+Em suas razões (e-STJ fls. 282/292), os recorrentes alegam, além de dissídio jurisprudencial, ofensa aos arts. 205 e 206, § 3º, inciso IX, do CC/2002, 27 do CDC e à Súmula n. 469 do STJ.
+Sustentam, em síntese, que (e-STJ fl. 289):
+Diante dessas considerações, seja por qualquer ângulo que se analise, temos que o direito dos recorrentes não se encontra fulminado pela prescrição, devendo tal prejudicial ser totalmente afastada, logo, o E. Tribunal a quo ao decidir que o direito dos recorrentes se encontra prescrito viola o disposto no artigo 205 do Código Civil; o art. 27 do Código de Defesa do Consumidor, aliado à Súmula 469 do STI; além do art. 206, §3º, inciso IX do Código Civil, motivo pelo qual o acórdão deve ser cassado.
+Foram apresentadas contrarrazões (e-STJ fls. 317/329).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+De início, não é possível o exame da alegada contrariedade à Súmula n. 469/STJ nesta via recursal, visto que enunciado de súmula não se enquadra no conceito de lei federal do permissivo constitucional. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO EX EMPTO. PRESCRIÇÃO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL E DE SÚMULA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 458 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+(..)
+6. Agravo não provido.
+(AgRg no AREsp n. 363.347/DF, Relator Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/11/2013, DJe 20/11/2013.)
+De outra parte, o Tribunal de origem concluiu que a pretensão de restituição de despesas médico-hospitalares estaria sujeita ao prazo prescricional anual. Confira-se (e-STJ fls. 224/228):
+A hipótese aqui tratada diz respeito ao eventual direito da autora a receber a diferença do valor das despesas médicas reembolsadas pela seguradora, ora apelante, em quantia menor que a apresentada. E, ainda, se a pretensão desse direito foi ou não fulminada pelo transcurso do lapso prescricional de 01 (um) ano, previsto no artigo 206, §1º, inciso II do CC.
+A autora pretende a restituição de despesas médico-hospitalares em procedimento de cirurgia de câncer de próstata efetuado no Hospital Português. A referida diferença perfaz o montante total de RS 6.986,00 (seis mil, novecentos e oitenta e seis reais).
+No caso em exame, embora não tenha havido negativa expressa quanto à parte das despesas apresentadas, é certo que o reembolso do valor de R$ 3.759,68 (três mil, setecentos e cinqüenta e nove reais e sessenta e oito centavos), conforme fls. 59 e 157, bem menor que o pretendido, na data de 04/02/2013, é o que deve ser considerado para efeito de negativa e, de conseguinte, o termo inicial para a fluência do prazo prescricional.
+Assim, cumpre ressaltar que o reembolso pretendido tem causa no contrato e surge a partir de sua interpretação e aplicação, não se configurando, portanto, reparação de danos causados por fato do produto ou serviço. Deste modo, requerer a integralidade da restituição é o mesmo que questionar a cláusula contratual que prevê sua parcialidade.
+Ante as características da demanda, incide sobre ela a prescrição ânua, de acordo com entendimento apregoado pelo STJ, a contar da data em que surge a pretensão, isto é, do reembolso a menor.
+(..)
+O serviço foi prestado pela seguradora, a seu entender, nos exatos termos do contrato celebrado, todavia, não atendeu as expectativas da segurada. Dita hipótese reclamaria discussão sobre as cláusulas do contrato, não acidente de consumo.
+Desse modo, inaplicável ao caso a prescrição qüinqüenal estabelecida no art 27 do CDC.
+Em assim sendo, considerando que a ação só foi ajuizada em 01/06/2015, ou seja, 02 anos e 04 meses após o reembolso a menor, cuja data foi 04/02/2013, de fato, operou-se a prescrição ânua prevista no artigo 206, § 1º, II, do CC.
+Muito embora a jurisprudência do STJ entenda que a referida pretensão está sujeita à prescrição trienal, tal entendimento está fundamentado na interpretação do inciso IV do § 3º do art. 206 do CC/2002. Nesse sentido:
+RECURSO ESPECIAL. PLANO DE SAÚDE. REEMBOLSO DE DESPESAS MÉDICAS. SEGURO-SAÚDE. DISTINÇÃO. NÃO EXISTÊNCIA. PRESCRIÇÃO. PRAZO. TRÊS ANOS.
+1. A Segunda Seção, ao examinar os RESPs 1.360.969/RS e 1.361.182/RS submetidos ao rito dos recursos repetitivos, consolidou a orientação de que é de três anos o prazo de prescrição das ações que têm objeto a restituição de prestações pagas a maior decorrente de abusividade de cláusula contratual que prevê aumento de mensalidade de plano ou seguro de saúde por mudança de faixa etária, nos termos do CC/2002, art. 206, § 3º, inc. IV, do CC/2002.
+2. A Lei 9.656/1998, com a redação da Medida Provisória 2.177-44/2001, não mais faz distinção de disciplina jurídica entre "seguro-saúde" e "plano de saúde".
+3. Aplica-se o mesmo prazo prescricional de três anos à pretensão de reembolso, pela operadora do plano ou seguro de saúde, das despesas médicas que o usuário teve de fazer como decorrência da injusta recusa de cobertura, por não se tratar de contrato típico de seguro.
+8. Recurso especial a que se nega provimento.
+(REsp 1608809/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/11/2017, DJe 24/11/2017.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. REEMBOLSO. PRESCRIÇÃO ÂNUA. INAPLICABILIDADE. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. "A Segunda Seção deste Tribunal Superior, quando do julgamento do REsp nº 1.360.969/RS e do REsp nº 1.361.182/RS, submetidos ao rito dos recursos repetitivos, consagrou o entendimento de que não incide a prescrição ânua, própria das relações securitárias (arts. 178, § 6º, II, do CC/1916 e 206, § 1º, II, do CC/2002), nas ações que discutem direitos oriundos de planos de saúde ou de seguros saúde, dada a natureza sui generis desses contratos" (AgInt no AREsp 986.708/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/04/2017, DJe 12/05/2017).
+2. Agravo interno não provido.
+(AgInt no REsp 1663710/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/10/2017, DJe 07/11/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. ASSISTÊNCIA MÉDICA. MANUTENÇÃO. ART. 31 DA LEI Nº 9.656/1998. PRESCRIÇÃO ÂNUA. INAPLICABILIDADE. PRECEDENTES.
+1. A Segunda Seção deste Tribunal Superior, quando do julgamento do REsp nº 1.360.969/RS e do REsp nº 1.361.182/RS, submetidos ao rito dos recursos repetitivos, consagrou o entendimento de que não incide a prescrição ânua, própria das relações securitárias (arts. 178, § 6º, II, do CC/1916 e 206, § 1º, II, do CC/2002), nas ações que discutem direitos oriundos de planos de saúde ou de seguros saúde, dada a natureza sui generis desses contratos.
+2. Agravo interno não provido.
+(AgInt no AREsp 986.708/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/04/2017, DJe 12/05/2017.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. MANUTENÇÃO DE COBERTURA DO CONTRATO NAS MESMAS CONDIÇÕES DA ÉPOCA DO VÍNCULO EMPREGATÍCIO. PRESCRIÇÃO DECENAL. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Segundo a jurisprudência do STJ, a prescrição anual (art. 206, § 1º, II, do CC/2002) é inaplicável às pretensões baseadas nos denominados contratos de seguro saúde porque estes também se enquadram como planos privados de assistência à saúde, nos termos do art. 2º da Lei n. 10.185/2001. Além disso, é decenal o prazo prescricional da pretensão de manutenção das mesmas condições do contrato de seguro da época do vínculo empregatício.
+2. Agravo regimental desprovido.
+(AgRg no REsp 1580619/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/03/2017, DJe 21/03/2017.)
+Observa-se, dessa maneira, que os dispositivos de lei invocados pelos recorrentes (arts. 205 e 206, § 3º, inciso IX, do CC/2002 e 27 do CDC) não amparam a pretensão recursal.
+Incide, portanto, a Súmula n. 284/STF. Sobre o tema:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. DESPESAS COM DEPÓSITO E ESTADIA DE VEÍCULOS. CONSTRIÇÃO JUDICIAL. DISPOSITIVO LEGAL QUE NÃO AMPARA A TESE SUSTENTADA PELA INSURGENTE. INCIDÊNCIA DA SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Alegação de incidência de dispositivos legais que não se referem à matéria tratada nos autos. A indicação de dispositivo legal que não ampara a pretensão recursal atrai a incidência da Súmula 284/STF.
+2. Para comprovação do dissídio jurisprudencial é imperioso o cumprimento das exigências dos arts. 541, parágrafo único, do Código de Processo Civil, e 255, § 1º, a, e § 2º, do RISTJ. Ausência de similitude fática entre o acórdão recorrido e o acórdão paradigma.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 616.268/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/08/2015, DJe 17/08/2015.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO MATERIAL E MORAL. VIOLAÇÃO AO ART. 48 DO CPC. INCIDÊNCIA DA SÚMULA 284/STF E 7/STJ.
+1. Verifica-se que o art. 48 do CPC não ampara a pretensão recursal da parte recorrente, o que atrai a aplicação, por analogia, da Súmula nº 284/STF.
+2. Ademais, constata-se que a análise da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 224.845/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014.)
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Embora o recurso especial tenha sido interposto na vigência do CPC/2015 (e-STJ fl. 282), sendo-lhe aplicável a disposição inserta no art. 85, § 11, da nova lei processual (conforme orientação emanada do Enunciado n. 7, aprovado na Seção Plenária do STJ em 16/3/2016, segundo a qual somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais na forma do art. 85, § 11, do novo CPC), deixo de majorar os honorários advocatícios fixados pelas instâncias ordinárias, em virtude de seu montante ter atingido a porcentagem legal máxima anteriormente.
+Publique-se e intimem-se.
+A atual jurisprudência do STJ entende pela aplicação do prazo prescricional trienal previsto no art. 206, § 3º, IV, do CC/2002 mesmo para os casos de reembolso de despesas médicas, em razão de recusa injustificada da operadora de plano de saúde. Nesse sentido, ainda:
+RECURSO ESPECIAL. CIVIL. SAÚDE SUPLEMENTAR. SEGURO SAÚDE. PRETENSÃO DE REEMBOLSO DE DESPESAS MÉDICAS. PROCEDIMENTO COBERTO. PRESCRIÇÃO. PRAZO ÂNUO. INAPLICABILIDADE. RELAÇÕES SECURITÁRIAS. ESPECIFICIDADE. TIPO CONTRATUAL. CLASSIFICAÇÃO. PLANO PRIVADO DE ASSISTÊNCIA À SAÚDE. NATUREZA SUI GENERIS. AÇÃO JUDICIAL. PRETENSÃO DE RESSARCIMENTO DE ENRIQUECIMENTO SEM CAUSA. ENQUADRAMENTO. PRAZO TRIENAL.
+(..)
+5. É entendimento firmado no âmbito da Segunda Seção deste Tribunal Superior que a pretensão de nulidade de cláusula de reajuste de mensalidade de contrato de plano ou seguro de assistência à saúde ainda vigente, cumulada com a repetição do indébito, sujeita-se ao prazo prescricional trienal, pois a ação ajuizada funda-se no enriquecimento sem causa. Incidência do art. 206, § 3º, IV, do CC.
+6. As hipóteses de reembolso do usuário de seguro saúde podem ser inseridas, para fins prescricionais, no gênero "pretensão de ressarcimento de enriquecimento sem causa" (art. 206, § 3º, IV, do CC), pois também visam, ao lado da repetição do indébito (ou restituição de valores indevidamente pagos), evitar o locupletamento ilícito da operadora, que lucraria ao reter arbitrariamente valores destinados ao contratante. Precedente da Quarta Turma.
+7. O prazo prescricional de 3 (três) anos deve reger as ações fundadas no inadimplemento contratual da operadora que se nega a reembolsar o usuário de seguro saúde ou de plano de saúde por despesas médicas realizadas em procedimento médico coberto.
+8. Recurso especial não provido.
+(REsp 1597230/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/03/2018, DJe 23/03/2018.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. SEGURO SAÚDE. NULIDADE DE CLÁUSULA LIMITATIVA DO NÚMERO DE SESSÕES DE FISIOTERAPIA. REEMBOLSO DOS VALORES DESPENDIDOS. PRESCRIÇÃO TRIENAL. RECURSO ESPECIAL REPETITIVO Nº 1.361.182. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A eg. Segunda Seção desta Corte, no julgamento do REsp 1.361.182/RS, segundo a sistemática dos recursos especiais repetitivos, firmou orientação de que, na vigência dos contratos de plano ou de seguro de assistência à saúde, a pretensão condenatória decorrente da declaração de nulidade de cláusula de reajuste nele prevista prescreve em 20 anos (art. 177 do CC/1916) ou em 3 anos (art. 206, § 3º, IV, do CC/2002), observada a regra de transição do art. 2.028 do CC/2002.
+3. Naquela oportunidade, este Tribunal Superior afastou, de modo expresso, a prescrição anual para as pretensões deduzidas nos denominados contratos de seguro saúde, por se enquadrar como plano privado de assistência à saúde, nos termos do art. 2º da Lei n. 10.185/2001, bem como a aplicação do prazo prescricional disposto no art. 27 do Código de Defesa do Consumidor, haja vista não se tratar, na espécie, de acidente de consumo.
+4. Embora a demanda subjacente ao presente recurso especial não envolva cláusula de reajuste, é de ser aplicado o prazo prescricional de três anos, previsto no art. 206, § 3º, IV, do CC/02, em atenção ao brocardo jurídico ubi eadem ratio, ibi eadem legis dispositivo (onde existe a mesma razão, aplica-se o mesmo direito).
+5. Isso porque se trata de ação na qual se pleiteia a nulidade de cláusula limitativa do número de sessões de fisioterapia e restituição de despesas médicas advindas da conduta da operadora que, baseada na referida disposição contratual, constante em contrato de seguro saúde, negou-se a reembolsar a quantia despendida com o tratamento fisioterápico.
+6. Todavia, mesmo considerando o prazo trienal, verifica-se que a hipótese dos autos não é de extinção do feito ante o reconhecimento da prescrição, haja vista que entre a recusa da operadora de reembolsar as despesas (20/2/2013) e a propositura da demanda (23/10/2014) não transcorram três anos.
+7. A operadora não apresentou argumento novo capaz de modificar a conclusão adotada, que se apoiou em entendimento aqui consolidado para negar provimento ao recurso especial por ela manejado.
+8. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+9. Agravo interno não provido, com imposição de multa.
+(AgInt no AgInt no AREsp 948.199/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/10/2017, DJe 31/10/2017.)
+Com relação ao precedente que, segundo os agravantes, defende a tese da prescrição decenal e que seria contraditório ao entendimento desenvolvido na monocrática (AgRg no REsp n. 1.580.619/SP), registre-se que tal julgado foi citado apenas para ratificar que esta Corte afasta a prescrição anual tanto nos casos de plano de assistência à saúde quanto nos de seguro saúde. Com efeito, o acórdão não foi mencionado para estabelecer o prazo a ser aplicado, uma vez que trata de questão diversa, qual seja, manutenção de cobertura nas mesmas condições do contrato vigente quando do vínculo empregatício.
+No caso dos autos, de reembolso de despesas médicas, os recorrentes, para defender seu direito, suscitam a violação dos arts. 205 do CC/2002 e 206, § 3º, IX, do CC/2002, dispositivos que não se aplicam ao caso, dada a tese desenvolvida para se chegar à conclusão do prazo a ser aplicado.
+Desse modo, ainda que o entendimento da Corte local esteja em dissonância com o do STJ, não houve ofensa aos dispositivos legais invocados pelos recorrentes, de modo que o recurso especial não merece prosperar.
+Nesse ponto, importa destacar que a norma do art. 257, parte final, do RISTJ, que permite a aplicação do direito à espécie, não autoriza que esta Corte Superior dê provimento a recurso especial e reforme acórdão da instância local com base em dispositivo legal - no caso, o art. 206, § 3º, IV, do CC/2002 - não invocado pelos recorrentes. Compete ao insurgente não só o ônus de viabilizar o prequestionamento, como também de cuidar expressamente, na peça recursal, das questões jurídicas que lhe interessarem e indicar os dispositivos legais específicos supostamente contrariados.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
