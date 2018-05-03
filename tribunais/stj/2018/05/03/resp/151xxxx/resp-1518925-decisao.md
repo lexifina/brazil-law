@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIVERSIDADE FEDERAL DA PARAÍBA, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (e-STJ fl. 131):
+EMENTA: Administrativo. Ensino superior. Matricula. Candidato aprovado que não apresentou o certificado de conclusão do ensino médio na data aprazada. Apresentação de Declaração da Escola atestando a conclusão do ensino médio através de Exame Supletivo. Aluno com mais de 18 anos. Liminar e sentença concessivas. Razoabilidade. Certificado juntado aos autos. Apelação e remessa oficial improvidas.
+Os embargos de declaração opostos foram rejeitados.
+A recorrente aponta violação dos arts. 535, II, do CPC/1973; 44, II, da Lei n. 9.394/1996; e 41 da Lei n. 8.666/1993.
+Sustenta, preliminarmente, que o acórdão recorrido deve ser anulado, pois não sanou o vício nos embargos de declaração. Alega, em síntese, que a matrícula sem a apresentação do diploma de conclusão do ensino médio desrespeita a autonomia universitária e o princípio da vinculação ao edital.
+Sem contrarrazões.
+Manifestação do Parquet federal pelo desprovimento do recurso especial.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Dito isso, considera-se deficiente a fundamentação do recurso especial em que se aponta, genericamente, ofensa ao art. 535 do Código de Processo Civil sem a indicação clara e precisa do vício contido no acórdão acoimado, atraindo, nesse ponto, a aplicação da Súmula 284 do STF.
+A propósito, destaco precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. IMPORTAÇÃO. NÃO INCIDÊNCIA. ARRENDAMENTO MERCANTIL. INEXISTÊNCIA DE CIRCULAÇÃO DE MERCADORIAS. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME NO RECURSO ESPECIAL. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF. VIOLAÇÃO DO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+1.  ..
+3. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF. 4. É inadmissível Recurso Especial quanto a questão inapreciada pelo Tribunal de origem (arts. 2º, § 1º, I, 4º, I, 12, IX, da Lei 87/1996), a despeito da oposição de Embargos Declaratórios. Incidência da Súmula 211/STJ.
+ ..
+6. Agravo Regimental não provido.
+(AgRg no AREsp 779.123/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 05/02/2016).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. COBRANÇA POR ESTIMATIVA. IMPOSSIBILIDADE. SÚMULA 83/STJ. AFERIÇÃO ACERCA DA EXISTÊNCIA DE HIDRÔMETRO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. SUSPENSÃO DO FORNECIMENTO DE ÁGUA. DÍVIDAS PRETÉRITAS. IMPOSSIBILIDADE. SÚMULA 83/STJ.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 391.884/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 03/09/2015).
+Por outro lado, verifica-se que o art. 44, II, da Lei n. 9.394/1996, que trata das diretrizes do sistema universitário superior, respectivamente, não contém comando para infirmar os fundamentos do acórdão recorrido, que versou sobre a comprovação de conclusão do ensino superior. Aplicável, no ponto, a Súmula 284 do STF, por deficiência na fundamentação.
+Nessa linha de raciocínio:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. LIMITAÇÃO. EXECUÇÃO E EMBARGOS. COMPENSAÇÃO. NÃO VIOLAÇÃO AOS ARTIGOS 458 E 535 DO CPC. VALOR DOS HONORÁRIOS RAZOÁVEIS. ART. 20, § 4º DO CPC. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. ARTIGOS 2º, 22, §2º, 23 e 24 DA LEI 8.906/1994. SÚMULA 284 DO STF.
+1. Da análise do acórdão recorrido, verifica-se que o Tribunal de origem manifestou-se de maneira clara e fundamentada sobre as questões postas a julgamento, dentro dos limites que lhe são impostos por lei, apenas não adotando a tese defendida pela recorrente.
+2. O Tribunal a quo analisou os elementos fáticos para concluir pela limitação dos honorários advocatícios da execução por exequente em patamar razoável, situação que impede a revisão nesta Corte, pois somente valores que fogem da razoabilidade são viáveis a flexibilizar o óbice da Súmula n. 7/STJ.
+3. Em relação à suposta violação aos artigos 2º, 22, §2º, 23 e 24 da Lei 8.906/1994, verifica-se a carência de fundamentação. Além disso, os artigos apontados como malferidos não contém comando normativo capaz de infirmar o fundamento do acórdão atacado, porquanto não induzem ao direito pleiteado, o que atrai a aplicação, por analogia, da Súmula 284 do STF: 4. Agravo regimental não provido.
+(AgRg no AREsp 622.518/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 28/04/2015, DJe 12/05/2015)
+PROCESSUAL CIVIL. TRIBUTÁRIO. HABILITAÇÃO DE CRÉDITO. INTERPRETAÇÃO DA INSTRUÇÃO NORMATIVA DA SRF N. 600/2005. RAZÕES RECURSAIS DISSOCIADAS DA FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA. ÓBICE NAS SÚMULAS 283 E 284 DO STF.
+1. O artigo 74, § 14, da Lei n. 9.430/96, apontado como violado pela Fazenda Nacional, bem como a tese a ele referente, superficialmente defendida, não são capazes de desconstituir e refutar os termos do aresto, que, na realidade, interpretou a Instrução Normativa da Secretaria de Receita Federal quanto ao excessos nos requisitos para habilitação de crédito tributário.
+2. A fundamentação do acórdão não foi atacada pela parte recorrente, que, como é apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Agravo regimental improvido.
+(AgRg no REsp 1405522/ES, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 13/05/2014, DJe 19/05/2014)
+Quanto à dita violação do art. 41 da Lei n. 8.666/93, esta Corte entende que o referido dispositivo estabelece normas gerais sobre licitações e contratos administrativos, não se aplicando à hipótese dos autos, atraindo o óbice da Súmula 284 do STF.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. LEI 8.666/1993. LEI DE LICITAÇÕES E CONTRATOS. IMPERTINÊNCIA TEMÁTICA. SÚMULA 284/STF.
+1. No tocante à suposta violação aos artigos 3º e 41 da Lei 8.666/1993, verifica-se que o dispositivo alude a licitações e contratos, de forma que não guarda pertinência com o caso em tela, que trata de concurso público, atraindo o óbice da Súmula 284/STF, segundo a qual é inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Precedentes do STJ: AgRg no REsp 1.5274.17/CE, Rel. Ministra Assusete Magalhães, segunda turma, DJe 21/6/2016; AgRg no REsp 1.529.923/AC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/8/2015; AgInt no AgInt no AgInt no AREsp 850.934/CE, Rel.Ministro Herman Benjamin, Segunda Turma, DJe 8/11/2016.
+2. O Superior Tribunal de Justiça entende pela inaplicabilidade do art. 41 da Lei 8.666/1991 a concursos públicos.  ..
+(REsp 1661783/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/05/2017, DJe 16/06/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. JULGAMENTO EXTRA PETITA (SÚMULA 282/STF). LITISPENDÊNCIA (SÚMULAS 283/STF E 7/STJ). LEI 8.666/93. IMPERTINÊNCIA TEMÁTICA (SÚMULA 284/STF). ARESTO COM FUNDAMENTAÇÃO CONSTITUCIONAL. VIOLAÇÃO AO ART. 535 DO CPC (SUMULA 284/STF)  ..
+4. No mérito, é entendimento pacífico desta Corte de que "a Lei 8.666/93, que estabelece normas gerais sobre licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, não guarda pertinência com as questões envolvendo concursos para preenchimento de cargos públicos efetivos". (AgRg no REsp 1.292.947/MG, Rel.Ministra Assusete Magalhães, Segunda Turma, julgado em 16/02/2016, DJe 24/02/2016).  ..  (AgRg no AREsp 327.109/PA, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/05/2016, DJe 19/05/2016)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (Súmula 105 do STJ).
+Publique-se. Intimem-se.
