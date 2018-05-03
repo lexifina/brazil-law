@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por ARTHUR CARLOS LOPES GARCIA JUNIOR, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+No primeiro grau de jurisdição, o ora recorrente foi condenado, como incurso nas sanções do artigo 155, caput, do Código Penal, ao cumprimento de 1 (um) ano de reclusão, em regime inicial aberto, e ao pagamento de 10 (dez) dias-multa, no valor unitário mínimo, substituída a pena privativa de liberdade por prestação de serviço à comunidade e multa.
+O Tribunal de origem deu parcial provimento ao apelo da defesa para afastar a pena de multa fixada em substituição à privativa de liberdade, remanescendo apenas a de prestação de serviços à comunidade (e-STJ fls. 192/200).
+Daí o recurso especial, no qual a defesa apontou violação do art. 44, § 2º, do Código Penal, postulando a substituição da pena restritiva de direitos (prestação de serviços à comunidade) pela de multa.
+O Ministério Público Federal manifestou-se, às e-STJ fls. 243/247, pelo não provimento do recurso.
+É o relatório. Decido.
+Esta Corte Superior já se manifestou no sentido de que, "Malgrado o art. 44, § 2º, do Código Penal reconheça a possibilidade de substituição da pena corporal por restritiva de direitos ou multa na condenação inferior ou igual a 1 (um) ano, compete ao julgador eleger qual medida é cabível e suficiente à reprovação do crime, baseando-se em elementos constantes dos autos" (HC n. 398.211/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017).
+Todavia, a escolha da opção mais gravosa ao sentenciado exige fundamentação adequada, baseada nas peculiaridades do caso concreto.
+Nesse sentido:
+RECURSO ESPECIAL. PENAL. FURTO SIMPLES. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. EXIGÊNCIA DE FUNDAMENTAÇÃO PARA A ESCOLHA DA SANÇÃO SUBSTITUTIVA. CONVERSÃO POR MULTA. POSSIBILIDADE. PENA INFERIOR A UM ANO E CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS.
+1. Este Superior Tribunal de Justiça assentou sua jurisprudência no sentido de que a substituição da pena privativa de liberdade igual ou inferior a 1 (um) ano deve acompanhar a literalidade da disposição normativa contida na primeira parte do parágrafo 2º do art. 44 do Código Penal, ou seja, a substituição deve se dar por multa ou por uma pena restritiva de direitos.
+2. Existindo duas possibilidades de sanções substitutivas e não havendo o legislador definido os critérios a serem adotados na escolha, compete ao magistrado realizar a opção no exercício do seu juízo discricionário, que não dispensa a devida fundamentação de modo individualizado nas circunstâncias do fato e do processo, em obséquio ao princípio do livre convencimento motivado e ao mandamento constitucional inserto no artigo 93, inciso IX da Carta da República.
+3. Realizada a conversão pela sanção substitutiva menos favorável, sem motivação concreta, deve ser acolhido o pleito recursal para determinar a substituição da pena por multa, mormente porque foram consideradas favoráveis todas as circunstâncias judiciais, tanto que a pena-base restou fixada no mínimo legal.
+4. Recurso provido (REsp 1546553/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 1º/10/2015, DJe 23/10/2015).
+Assim sendo, considerando que, no caso em apreço não foi apresentada fundamentação idônea para a escolha de restritivas de direitos em detrimento da multa, destoou o aresto recorrido da orientação jurisprudencial do Superior Tribunal de Justiça.
+Ante o exposto, dou provimento ao recurso especial para substituir a condenação à pena de 1 ano de reclusão por multa a ser fixada pelo Juízo das Execuções.
+Publique-se. Intimem-se.
