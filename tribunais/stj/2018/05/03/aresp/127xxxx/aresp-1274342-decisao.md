@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. COLISÃO NA TRASEIRA. CULPA DO MOTORISTA DO COLETIVO DA EMPRESA DEMANDADA. DEVER DE INDENIZAR OS PREJUÍZOS CONFIGURADO. ATRASO NO CONSERTO DO VEÍCULO. ALEGAÇÃO DE CULPA EXCLUSIVA DA AUTORA. NÃO COMPROVAÇÃO. REVISÃO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por Sogil-Sociedade de Ônibus Gigante Ltda. contra decisão do Tribunal de Justiça do Rio Grande do Sul que não admitiu recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal.
+Na origem, [NOME] ajuizou ação indenizatória contra a ora insurgente, em razão de acidente de trânsito ocasionado por culpa do motorista do coletivo da requerida.
+O Juízo de primeiro grau julgou procedente o pedido para "condenar a primeira ré a pagar ao pagamento de R$ 6.250,00, corrigidos monetariamente pelo IGP-M desde 06.09.14; R$ 7.500,00, corrigidos monetariamente pelo IGP-M a contar de 17.10.14; e R$ 5.032,66 e R$ 638,00, corrigidos monetariamente pelo mesmo índice a partir de 22.01.15, devendo todos os valores serem acrescidos de juros de mora de 12% ao ano desde 29.07.14" (e-STJ, fl. 224).
+Interposta apelação pela ré, a Décima Primeira Câmara Cível do Tribunal de origem negou provimento ao recurso em acórdão assim ementado (e-STJ, fl. 255):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. COLISÃO NA TRASEIRA.
+Havendo necessidade de locação de outro veículo durante o período de conserto do micro-ônibus, devem as despesas a tal título ser ressarcidas.
+As despesas com o conserto do veículo, que não foram abarcadas pelos reparos custeados pela empresa transportadora causadora do sinistro, também devem ser ressarcidas, eis que guardam relação com o acidente e foram comprovadas nos autos.
+APELAÇÃO DESPROVIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 271-278).
+Nas razões do recurso especial, Sogil-Sociedade de Ônibus Gigante Ltda. apontou divergência jurisprudencial e ofensa aos arts. 188, 930 e 945 do Código Civil; 14, § 3º, do Código de Defesa do Consumidor; e 373, I, do Código de Processo Civil de 2015.
+Defendeu, além da inexistência de ato ilícito, a culpa exclusiva da recorrida pelo sinistro ocorrido, ou no mínimo, concorrente. Ressaltou que cobriu todos os custos do conserto do veículo da autora, não havendo dano a reparar.
+Contrarrazões apresentadas às fls. 315-320 (e-STJ).
+O Terceiro Vice-Presidente da Corte estadual negou seguimento ao apelo sob o fundamento de incidência da Súmula n. 7 do STJ.
+Irresignada, a recorrente apresenta agravo refutando o óbice apontado pela Corte estadual.
+Sem contraminuta.
+Brevemente relatado, decido.
+Com efeito, as instâncias ordinárias, com amparo nas provas produzidas nos autos, consignaram o dever de indenizar por parte da recorrente, em razão da culpa do condutor do ônibus de sua propriedade. Ademais, a Corte estadual ainda asseverou que não ficou demonstrada nos autos a existência de culpa exclusiva da recorrida pela demora na retirada do veículo da oficina.
+A propósito, confiram-se os fundamentos do acórdão estadual (e-STJ, fls. 257-259):
+Principio ressaltando que é incontroverso nos autos que o motorista do coletivo da SOGIL - Sociedade de Ônibus Gigante Ltda. causou o acidente de trânsito ocorrido no dia 29/7/2014, pela manhã, na BR -290, em Porto Alegre/RS, no qual o micro -ônibus da autora foi abalroado na traseira.
+Na petição inicial, a demandante narrou que a demandada indicou a oficina Nazário e Nascimento Ltda. - ME para o conserto do veículo, se comprometendo a pagar o custo do serviço. Disse, porém, que a oficina estava se recusando a entregar o micro-ônibus, sob o argumento de que a SOGIL - Sociedade de Ônibus Gigante Ltda. não realizou o pagamento do conserto. Aduziu que a transportadora lhe informou que somente quitaria o serviço de reparação para a oficina, se a vítima firmasse um termo de compromisso renunciando ao direito de postular o reembolso das despesas que estava tendo com a locação de outro veículo. Frisou que o veículo sinistrado era utilizado para auferir renda com transporte escolar e, em razão das avarias, precisou locar outro microônibus para cumprir seus compromissos profissionais.
+Postulou, assim, em antecipação de tutela, a busca e apreensão do veículo e, ao cabo, a condenação da SOGIL - Sociedade de Ônibus Gigante Ltda. ao pagamento de indenização pelos danos emergentes e lucros cessantes.
+A declaração firmada pelo representante legal da oficina Nazário e Nascimento Ltda. - ME denota que o veículo da autora lhe foi entregue para ser consertado, "sendo que todas as despesas devidamente mencionadas e relacionadas, ficaram a cargo da empresa SOGIL - Sociedade de Ônibus Gigante Ltda." (fl. 15).
+As rés, na contestação contestação, alegaram que a SOGIL - Sociedade de Ônibus Gigante Ltda. se comprometeu a consertar o veículo da requerente. Referiram que, "tão logo o veículo foi consertado, a autora foi chamada para buscar o carro na oficina. No entanto, esta se recusou a assinar o termo de retirada" (fl. 81). Assim, gizaram que houve desídia da demandante para a retirada do veículo, argumentado que não podem ser responsabilizadas na situação em comento.
+Nesse passo, sendo inconteste a culpa do motorista do coletivo da SOGIL - Sociedade de Ônibus Gigante Ltda. pelo evento danoso, deve a transportadora indenizar os prejuízos dele decorrentes, nos termos do art. 927 do Código Civil vigente.
+Dessa forma, evidente que a demandada é responsável pelas despesas havidas com a necessidade de locação de veículo, pelo tempo em que o mesmo ficou na oficina para ser consertado, pois decorrentes do acidente de trânsito que seu motorista deu causa.
+Em outras palavras: diante da responsabilidade da ré SOGIL - Sociedade de Ônibus Gigante Ltda. pelo acidente de trânsito que causou prejuízos à autora, deve ela ressarcir todos os danos advindos do sinistro.
+Ademais, a tese defensiva, de que teria ocorrido um atraso extraordinário na entrega do veículo para a autora porque esta teria se recusado a assinar o termo de retirada da oficina, não restou comprovada nos autos, ônus que era das demandadas, nos termos do art. 333, II, do CPC/1973, vigente ao tempo da instrução.
+Não há falar em culpa exclusiva da vítima, portanto.
+A utilização do veículo pela demandante para o transporte escolar restou demonstrada nos autos, assim como a necessidade de locação de outro micro-ônibus para a continuidade de suas atividades (fls. 19 e 137).
+De maneira que, sendo certo que houve a locação de outro veículo pelo período do conserto, não há falar em ausência do dever de pagamento das despesas suportadas pela autora, em conformidade com os recibos de pagamento acostados aos autos.
+Ainda, as despesas extraordinárias com o conserto do veículo foram comprovadas na réplica pela demandante, cujos documentos, como dito na sentença, não foram impugnados (fls. 127/135).
+Sendo assim, comprovado que a requerente desembolsou valores para o conserto do veículo, que não foram abrangidos pelos reparos feitos pela Nazário e Nascimento Ltda. - ME, devem ser ressarcidos, tal como determinado pelo 12 Grau.
+Desse modo, não há como acolher as teses recursais sem proceder ao reexame dos fatos e provas, procedimento vedado no âmbito do recurso especial nos termos da Súmula n. 7 do STJ.
+Ademais, quanto ao dissídio jurisprudencial, tendo o Tribunal local concluído com base no conjunto fático-probatório, impossível se torna o confronto entre o paradigma e o acórdão recorrido em relação ao valor da verba indenizatória, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fática própria de cada julgamento, o que não é possível de ser feito nesta via excepcional, por força da Súmula 7 desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, nos termos do art. 85, § 11, do CPC/2015, em razão de já terem sido fixados em seu patamar máximo pela Corte a quo.
+Publique-se.
