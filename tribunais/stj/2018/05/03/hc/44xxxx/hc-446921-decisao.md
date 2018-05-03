@@ -1,0 +1,25 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA DO TRÁFICO PRIVILEGIADO. POSSIBILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA. FUNDAMENTAÇÃO INIDÔNEA. PRESENÇA DE CONSTRANGIMENTO ILEGAL.
+Ordem concedida liminarmente.
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME], apontando-se como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul (Apelação Criminal n. [CPF]).
+Narram os autos que o Juízo da 1a Vara Criminal da Comarca de Sapucaia do Sul/RS (Autos n. 035/2.17.0002944-4) condenou o paciente a 1 ano e 10 meses de reclusão pelo crime de tráfico de drogas privilegiado, a 3 anos de reclusão pelo crime previsto no art. 16, parágrafo único, IV, da Lei n. 10.823/2006, a 1 ano de reclusão pelo crime previsto no art. 180, caput, do Código Penal e a 3 anos de reclusão pelo crime previsto no art. 311 do Código Penal. Foi fixado o regime inicial fechado.
+A defesa e a acusação interpuseram recursos. Contudo, o Tribunal estadual negou provimento ao apelo defensivo e deu provimento ao recurso do Ministério Público para afastar a causa especial de diminuição de pena do tráfico, redimensionando a pena do paciente para 5 anos e 6 meses de reclusão.
+Daí o presente mandamus, em que a Defensoria Pública sustenta que nada há nos autos que possa afastar a aplicação da minorante prevista junto ao § 4º do art. 33, da Lei 11.343/06. Assim, padece a decisão proferida pela Colenda Primeira Câmara Criminal de vício diante da ausência de fundamentação adequada (fl. 2).
+Requer, inclusive liminarmente, o reconhecimento da minorante prevista no art. 33, § 4º, da Lei 11.343/06 (fl. 4).
+É o relatório.
+In casu, da análise dos autos, observo que a ordem comporta concessão in limine.
+Ao dosar a pena do crime de tráfico de drogas, disse a Magistrada o seguinte (fl. 243 - grifo nosso):
+ ..
+Culpabilidade se fixa em grau ordinário, sendo o acusado apto a entender o caráter reprovável da conduta que adotou. O denunciado não registra antecedente (fl. 158). Personalidade e a conduta social sem elementos nos autos. Os motivos, muito embora reprováveis, são inerentes ao tipo penal. Circunstâncias negativas, pois trazia consigo grande quantidade de cocaína e maconha, drogas com alto poder de disseminação do vício e de severos malefícios que causa à saúde dos usuários, demonstrando forma mais contundente de ataque á saúde pública, aumentando, sobremodo, a reprovabilidade da conduta. Conseqüências comuns à espécie. Não há que se falar de participação da vítima que é o Estado.
+Considerando os vetores do artigo 59 do Código Penal e do art. 42 da Lei nº 11.343/06, fixo a pena-base em 05 anos e 06 meses de reclusão.
+Reconheço a redutora prevista no art. 33, § 4º da Lei nº 11.343/06 e reduzo a pena em 2/3, resultando em 01 (um) ano e 10 (dez) meses de reclusão, que tomo definitiva, em face da ausência de outros elementos modificadores.
+Condeno-o, ainda, à pena de multa no valor de 200 (duzentos) dias-multa. considerando as circunstâncias judiciais previstas no artigo 59 do Código Penal, á razão de 1/30 sobre o valor do salário maior mínimo vigente na época do fato, em face da condição econômica do réu.
+ ..
+O Tribunal de Justiça, por sua vez, afastou o § 4º do art. 33 da Lei de Drogas sob o argumento de que não estão preenchidos os requisitos daquele parágrafo que exige, entre outras situações, que o acusado não se dedica a atividades criminosas. Ora, no caso, o apelado respondeu e foi condenado por mais três outros crimes, ou seja, porte ilegal de arma de fogo, receptação de veículo e adulteração de sinal identificador. Não faz jus ao benefício referido, devendo as suas penas voltarem ao patamar anterior de cinco anos e seis meses de reclusão e quinhentos dias-multa (fl. 342 - grifo nosso).
+Contudo, não obstante os argumentos apresentados pela Corte estadual, apenas diante da efetiva comprovação de que o réu se dedica a atividades criminosas é que se poderia afastar a causa especial de diminuição de pena prevista no § 4º do art. 33, da Lei nº 11.343/06.
+No caso dos autos, o Tribunal a quo não apontou prova concreta da dedicação do paciente à atividade criminosa, limitando-se a dizer que ele, na mesma sentença, também foi condenado por outros crimes, tampouco cogitou sua participação em organização criminosa.
+Assim, diante da primariedade e dos bons antecedentes do réu, é de rigor a incidência da referida minorante.
+A propósito, sendo o réu primário e inexistindo circunstâncias concretas que indiquem a sua dedicação a atividades ilícitas ou a sua participação em organização criminosa, é certo que deve lhe ser concedida a minorante prevista no art. 33, § 4º, da Lei n. 11.343/06 (HC n. 414.117/SP, Ministro Jorge Mussi, Quinta Turma, DJe 6/3/2018).
+Ante o exposto, concedo liminarmente a ordem para restabelecer a sentença condenatória no ponto em que aplicou o § 4º do art. 33, da Lei nº 11.343/06 e fixou a pena do paciente para o crime de tráfico de drogas em 1 ano e 10 meses de reclusão.
+Publique-se.
