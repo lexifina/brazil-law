@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. SINISTRO. NEGATIVA DE COBERTURA. AUSÊNCIA DE COMPROVAÇÃO DE MÁ-FÉ DA MUTUÁRIA. SEGURADORA QUE NÃO EXIGIU A REALIZAÇÃO DE EXAMES PRÉVIOS À CONTRATAÇÃO DO SEGURO. IMPOSSIBILIDADE DE RECUSA SOB O FUNDAMENTO DE DOENÇA PREEXISTENTE. COMPROVADA A INEXISTÊNCIA DE RELAÇÃO CAUSAL ENTRE A DOENÇA E O ÓBITO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+[NOME] e outro ajuizaram ação de conhecimento em desfavor de Companhia Excelsior de Seguros e outra postulando a declaração da inexistência de débito referente a contrato de financiamento de imóvel, haja vista a cláusula contratual que prevê a quitação do débito em caso de morte da contratante (genitora dos autores), devendo a seguradora arcar com o saldo devedor.
+O Magistrado de primeiro grau julgou procedente o pedido para declarar a inexigibilidade do débito contratual, imputando à seguradora a responsabilidade pela sua quitação. Interpostas apelações pelas rés, a Sétima Câmara Cível do Tribunal de Justiça do Paraná negou provimento às insurgências, em acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. CONTRATO DE VENDA E COMPRA DE BEM IMÓVEL.CLÁUSULA DE COBERTURA SECURITÁRIA PARA A HIPÓTESE DE MORTE OU INVALIDEZ PERMANENTE DA ADQUIRENTE/MUTUÁRIA. SENTENÇA DE PROCEDÊNCIA DA AÇÃO. 1. APELAÇÃO 01. 1.1. CONDENAÇÃO DA COHAB-LD NO PAGAMENTO DA VERBA DE SUCUMBÊNCIA. PEDIDO DE ISENÇÃO, SOB O ARGUMENTO DE NÃO TER DADO CAUSA À AÇÃO. TEMA NÃO ARGUIDO EM PRIMEIRO GRAU. INOVAÇÃO NÃO PERMITIDA, SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. APELO NÃO CONHECIDO NESTE PARTICULAR. 1.2.HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. PRETENSÃO NÃO ACOLHIDA. MONTANTE ARBITRADO (R$ 1.500,00) QUE BEM ATENDE AOS PARÂMETROS DE EQUIDADE E JUSTIÇA DO ART.20 E §§ DO CPC. 2. APELAÇÃO 02. PEDIDO DE EXCLUSÃO DA COBERTURA SECURITÁRIA DEVIDO A DOENÇA PRÉ-EXISTENTE.LAUDO TÉCNICO QUE CONCLUIU NÃO EXISTIR RELAÇÃO CAUSAL ENTRE A DOENÇA PRÉ-EXISTENTE E O ÓBITO DA SEGURADA. COBERTURA DEVIDA. INEXIGIBILIDADE DA DÍVIDA AOS SUCESSORES DA ADQUIRENTE/SEGURADA. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+A seguradora interpôs recurso especial fundamentado na alínea a do permissivo constitucional, apontando violação aos arts. 757 e 760 do CC. Sustentou, em síntese, a inexistência de sua responsabilidade para quitação da dívida, haja vista que a mutuária era portadora de doença preexistente.
+Sem contrarrazões.
+O Tribunal de origem negou seguimento ao recurso sob o fundamento de incidir a Súmula 211/STJ.
+Irresignada, a recorrente apresenta agravo refutando o óbice apontado pela Corte estadual.
+Contraminuta não apresentada.
+Brevemente relatado, decido.
+Com efeito, nos termos do entendimento jurisprudencial desta Corte, a simples constatação de existência de doença previamente à contratação do seguro não é suficiente para a negativa do pagamento da indenização, sendo necessária a omissão intencional dessa situação, a fim de caracterizar a má-fé do segurado, apta a causar a negativa de cobertura, o que não ficou comprovado nos autos.
+Ademais, em casos como este, em que a seguradora não exigiu exames prévios à contratação do seguro, não pode esta recusar o pagamento do seguro com base na alegação de doença preexistente.
+Outrossim, as instâncias ordinárias, amparadas em laudo técnico, concluíram que não existiu nenhuma relação causal entre a doença preexistente e o óbito da segurada, sendo que, para infirmar tais conclusões, seria imprescindível o reexame de provas, atraindo o óbice da Súmula 7/STJ
+Nesse sentido, confiram-se os recentes julgados desta Corte:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. SEGURO DE VIDA. DOENÇA PREEXISTENTE. MÁ-FÉ NÃO COMPROVADA. REEXAME DE CLÁUSULAS CONTRATUAIS E DE PROVAS. SÚMULAS N. 5 E 7/STJ.
+1. Não comprovada a má-fé do segurado quando da contratação do seguro saúde e, ainda, não exigida, pela seguradora, a realização de exames médicos, não pode a cobertura securitária ser recusada com base na alegação da existência de doença pré-existente. Precedentes.
+2. Recurso especial cuja pretensão demanda reexame de cláusulas contratuais e de matéria fática da lide, o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento (AgInt no REsp 1280544/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 02/05/2017, DJe 09/05/2017)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SEGURO DE VIDA. DOENÇA PREEXISTENTE. AUSÊNCIA DE EXAMES. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência do STJ: "Não comprovada a má-fé do segurado quando da contratação do seguro saúde e, ainda, não exigida, pela seguradora, a realização de exames médicos, não pode a cobertura securitária ser recusada com base na alegação da existência de doença pré-existente" (AgRg no AREsp 177.250/MT, Relator Ministro LUIS FELIPE SALOMÃO, DJe de 30/10/2012).
+2. No caso dos autos, a seguradora assumiu o risco do negócio ao não exigir atestado de saúde ou submeter o segurado a exames quando da assinatura do contrato, razão pela qual não pode se eximir de pagar a indenização devida aos dependentes.
+3. Agravo interno a que se nega provimento (AgInt nos EDcl no AgRg no REsp 1594799/SP, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 06/04/2017, DJe 27/04/2017)
+Dessa forma, não comprovada a má-fé da segurada e a relação entre a doença preexistente e o óbito, bem como ausente a exigência de realização de exames prévios pela seguradora, de rigor a manutenção do acórdão estadual, porquanto em harmonia com a jurisprudência desta Corte.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários fixados em favor do patrono da parte recorrida em R$ 500,00 (quinhentos reais).
+Publique-se.
