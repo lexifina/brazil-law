@@ -1,0 +1,23 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ADVOCACIA. IMUNIDADE PROFISSIONAL. CONCLUSÃO DO ACÓRDÃO PELO EXCESSO NA ATUAÇÃO. DEVER DE INDENIZAR. REVER O JULGADO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por [NOME], com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 182):
+APELAÇÃO CÍVEL - ADVOGADOS - IMUNIDADE PROFISSIONAL - RELATIVA - ATUAÇÃO COM EXCESSO - PREJUÍZO CAUSADO A TERCEIRO - MANDANTE - RESPONSABILIDADE - DANO MORAL - VALOR - ARBITRAMENTO - PARÂMETROS.
+1. A imunidade profissional, concedida aos advogados pelo artigo 133 da Constituição Federal e pelo § 2o do artigo 7o do Estatuto da Ordem dos Advogados, é relativa e não os isenta de responsabilidade quando atuam com excesso.
+2. O mandante responde pelos prejuízos causados a terceiro pelo mandatário, no exercício do mandato.
+3. O valor da indenização por dano moral deve ser fixado examinando-se as peculiaridades de cada caso e, em especial, a gravidade da lesão, a intensidade da culpa do agente, a condição socioeconômica das partes e a participação de cada um nos fatos que originaram o dano a ser ressarcido, de tal forma que assegure ao ofendido satisfação adequada ao seu sofrimento, sem o seu enriquecimento imotivado, e cause no agente impacto suficiente para evitar novo e igual atentado.
+Na origem, consta dos autos que [NOME] ajuizou ação de indenização por danos morais contra [NOME], ora agravante, e Serra Verde Empreendimentos Imobiliários Ltda., que ora figura como interessada no feito, tendo a sentença julgado improcedente o pedido inicial (e-STJ, fls. 154-155).
+O Tribunal de Justiça deu provimento ao recurso de apelação do autor para, julgando procedente o pedido inicial, condenar as rés ao pagamento de indenização por danos morais, no valor de R$ 10.000,00 (dez mil reais) nos termos da ementa supracitada (e-STJ, fls. 178-188).
+Nas razões do recurso especial (e-STJ, fls. 191-197), a recorrente alegou violação aos arts. 932, III e 933 do Código Civil.
+Insurgiu-se contra a conclusão do acórdão em condená-la, juntamente com a empresa Serra Verde Empreendimentos Imobiliários Ltda., ao pagamento de indenização por danos morais no valor de R$ 10.000,00 (dez mil reais) ao recorrido.
+Sustentou, em síntese, que não foi parte na ação n. 0284.13.000496-3, não podendo, portanto, ser responsabilizada pelo ato jurídico.
+A decisão da Terceira Vice-Presidência do Tribunal de Justiça do Estado de Minas Gerais deixou de admitir o recurso especial por incidência da Súmula 7/STJ (e-STJ, fls. 205-206).
+Foi interposto agravo em recurso especial às fls. 191-197 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Dito isso, com fundamento no art. 99, § 3º, do CPC/2015, bem como na condição de desempregada da agravante (e-STJ, fls. 198-199), defiro a concessão da gratuidade da justiça por ela formulada, a qual não retroage para suspender a exigibilidade da sucumbência anteriormente suportada (v.g. AgInt no AREsp 887.871/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/12/2016, DJe 19/12/2016).
+O Tribunal de Justiça, ao analisar a alegação da recorrente de que não era parte no processo que deu causa à presente ação, foi enfático ao consignar que "as rés, que outorgaram procuração ao Advogado que elaborou e subscreveu as peças do processo em que houve as excessivas acusações, respondem pelo dano moral sofrido por [NOME] "(e-STJ, fl. 187), concluindo, assim, pela responsabilidade do mandante pelos prejuízos causados a terceiro pelo mandatário, no exercício do mandato.
+Nesse contexto, toda a controvérsia foi apreciada e solvida com base nos elementos de fato e prova colhidos dos autos, assim, qualquer alteração nesse quadro delineado esbarraria na Súmula n. 7 do STJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% sobre o valor da condenação, suspensa a exigibilidade desse acréscimo em razão da gratuidade da justiça ora deferida.
+Publique-se.
