@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Apelação n. 0053469-81.2012.8.24.0038).
+Depreende-se dos autos que o paciente foi condenado a 2 anos de detenção, em regime aberto, que foi substituída por penas restritivas de direitos, pelo cometimento do delito tipificado no art. 302 do Código de Trânsito Brasileiro (e-STJ fl. 140).
+Narra a denúncia que, "agindo com imprudência, pela desatenção e velocidade excessiva em que trafegava (aproximadamente 85,77 km/h), o denunciado atropelou a vitima,  W S , o qual fazia a travessia da rua com uma bicicleta, tracionando uma carretinha na qual transportava materiais recicláveis" (e-STJ fl. 8).
+Irresignada, a defesa apelou. O recurso foi desprovido em acórdão assim ementado (e-STJ fl. 175):
+APELAÇÃO CRIMINAL CRIME DE TRÂNSITO. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR (ART. 302, "CAPUT", DO CÓDIGO DE TRÂNSITO BRASILEIRO). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA.
+PRETENDIDA ABSOLVIÇÃO, SOB O ARGUMENTO DE CULPA EXCLUSIVA DA VÍTIMA INACOLHIMENTO. MATERIALIDADE E AUTORIA COMPROVADAS PELA CONFISSÃO DO APELANTE, CORROBORADA PELOS DEPOIMENTOS DE TESTEMUNHAS E DEMAIS ELEMENTOS PROBATÓRIOS. DISCUSSÃO ACERCA DA CULPA. IMPRUDÊNCIA DO CONDUTOR QUE TRAFEGOU NA VIA URBANA ACIMA DA VELOCIDADE PERMITIDA E ATROPELOU PEDESTRE. LEVANDO-O A ÓBITO. INEXISTÊNCIA DE COMPENSAÇÃO DE CULPAS NO ÂMBITO DO DIREITO PENAL. PRECEDENTES. CONDENAÇÃO MANTIDA PLEITO DE CONCESSÃO DE JUSTIÇA GRATUITA. FALTA DE INTERESSE RECURSAL. MATÉRIA JÁ ANALISADA PELO JUÍZO DE PRIMEIRO GRAU. NÃO CONHECIMENTO NO PONTO.
+EXECUÇÃO PROVISÓRIA DA PENA NOVA ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL (AGRAVO REGIMENTAL EM "HABEAS CORPUS* N. 142.750/RJ) ADOTADA POR ESTA CÂMARA CRIMINAL (AUTOS N. 0003032 10.2015.8.24 0045). IMEDIATO CUMPRIMENTO DA PENA RESTRITIVA DE DIREITOS E SUSPENSÃO DA HABILITAÇÃO PARA DIRIGIR VEÍCULO AUTOMOTOR QUE SE IMPÕE.
+RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+Alega-se na presente impetração que o Tribunal de origem, ao julgar o recurso de apelação, não poderia determinar a execução provisória das penas restritivas de direitos, antes do trânsito em julgado da condenação.
+Requer-se, liminarmente e no mérito, a suspensão do início da execução provisória das penas restritivas de direito até o trânsito em julgado da sentença penal condenatória.
+Liminar deferida às e-STJ fls. 192/195.
+Prestadas as informações, o Ministério Público Federal opinou pela concessão da ordem (e-STJ fls. 244/245).
+É, em síntese, o relatório.
+Pois bem. A nova orientação consolidada pelo Supremo Tribunal Federal é a de possibilitar a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário (HC n. 126.292/SP, Rel. Ministro Teori Zavascki, Tribunal Pleno, DJe 17/5/2016).
+Observe-se que, naquele julgamento, o STF deixou assentado que a execução de sentença penal condenatória confirmada por Tribunal de segundo grau de jurisdição "não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal".
+Referido entendimento estendia-se às penas restritivas de direitos em virtude da compreensão da Sexta Turma desta Corte de que, "muito embora o Supremo Tribunal Federal, em outra época, quando também admitia a execução provisória, ressalvasse o entendimento de que as penas restritivas de direitos só poderiam começar a ser cumpridas após o trânsito em julgado da condenação, a atual jurisprudência do pretório excelso não faz, ao menos expressamente, essa ressalva" (HC n. 380.104/AM, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 14/2/2017, DJe 22/2/2017).
+No entanto, recentemente, a Terceira Seção do Superior Tribunal de Justiça, no julgamento do EREsp n. 1.619.087/SC, publicado em 24/8/2017, firmou a compreensão de que a execução das reprimendas restritivas de direitos somente pode ocorrer quando transitada em julgado a condenação, em observância ao comando legal contido no art. 147 da Lei de Execução Penal. Eis a ementa do aludido julgado:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. EXECUÇÃO PROVISÓRIA. IMPOSSIBILIDADE. ART. 147 DA LEI DE EXECUÇÃO PENAL. PROIBIÇÃO EXPRESSA. AUSÊNCIA DE MANIFESTAÇÃO DO STF. EMBARGOS REJEITADOS.
+1. Embora o Supremo Tribunal Federal tenha decidido pela viabilidade da imediata execução da pena imposta ou confirmada pelos tribunais locais após esgotadas as respectivas jurisdições, não analisou tal possibilidade quanto às reprimendas restritivas de direitos.
+2. Considerando a ausência de manifestação expressa da Corte Suprema e o teor do art. 147 da LEP, não se afigura possível a execução da pena restritiva de direitos antes do trânsito em julgado da condenação.
+3. Embargos de divergência rejeitados.
+(Rel. Ministro JORGE MUSSI, julgado em 14/6/2017, DJe 24/8/2017, grifei.)
+No caso, informações prestadas pelo Tribunal de origem dão conta de que contra o acórdão proferido na Apelação Criminal n. 00534469-81.2012.8.24.0038 foram opostos embargos de declaração.
+Sendo assim, mostra-se de rigor seja obstada a execução provisória das penas restritivas de direitos.
+À vista do exposto, ratifico a liminar e concedo a ordem para assegurar que a execução das reprimendas restritivas de direitos impostas ao paciente apenas ocorra após o trânsito em julgado da condenação.
+Publique-se. Intimem-se.
