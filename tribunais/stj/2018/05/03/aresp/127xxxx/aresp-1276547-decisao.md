@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por EDER ALBUQUERQUE contra decisão que não admitiu recurso especial fundado no art. 105, III, alínea "a", da Constituição Federal, em oposição a acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO-CRIME. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. ART. 16, CAPUT, DA LEI Nº 10.826/03. NULIDADE DA PROVA. REVISTA SEM FUNDADA SUSPEITA. INOCORRENTE. ATIPICIDADE DA CONDUTA. ARMA DESMONTADA. DESCARACTERIZADA. MATERIALIDADE E AUTORIA. DEMONSTRADAS. DESCLASSIFICAÇÃO DO DELITO. ACESSÓRIOS NÃO PERICIADOS. DESCABIDA. REINCIDÊNCIA. BIS IN IDEM. DESFIGURADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. INVIÁVEL.
+1. No caso concreto, o relato dos policiais evidencia que a abordagem e a revista do recorrente aconteceram depois de ele, ao perceber a barreira e iminente interpelação, ter decidido estacionar seu veículo. Ademais, a localização e a apreensão do armamento ocorreu depois de ele próprio admitir o porte/transporte.
+2. O porte irregular de arma de fogo e acessórios é crime de mera conduta e de perigo abstrato, de modo, que é irrelevante, para a concretização da figura típica em questão, a circunstância de o armamento estar desmontado, além de desnecessário seu periciamento a atestar a funcionalidade.
+3. As condenações prévias transitadas em julgado podem servir à pena-base, com valoração negativa de circunstâncias judiciais (art. 59, do CP), tal como os antecedentes, e, também, à pena provisória, com incidência da agravante da reincidência (art. 61, inc. I, do CP), sem implicar violação do postulado do non bis in idem, desde que não tenham como base fática a mesma condenação, conforme o enunciado da súmula nº 241 do STJ. É o que ocorreu no caso concreto.
+4. A substituição da pena privativa de liberdade não é cabível em razão de o réu não atender aos requisitos legais atinentes à espécie, dada sua reincidência em crime doloso, inclusive relacionado ao porte legal de arma de fogo. PRELIMINAR REJEITADA. APELO DEFENSIVO DESPROVIDO." (e-STJ, fl. 437).
+Os embargos de declaração opostos foram rejeitados nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. ART. 16, CAPUT, DA LEI Nº 10.826/03. OMISSÃO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA PARA O INDEFERIMENTO DA SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. CONTRADIÇÃO. DUPLA UTILIZAÇÃO DA REINCIDÊNCIA, PARA VEDAR A SUBSTITUIÇÃO DA PENA E FIXAR O REGIME DE CUMPRIMENTO MAIS GRAVOSO. VÍCIOS INOCORRENTES. PREQUESTIONAMENTO. EMBARGOS DESACOLHIDOS." (e-STJ, fl. 463).
+A defesa aponta negativa de vigência "ao artigo 44, §3º, do Código Penal, pois o recorrente não é reincidente específico, já que, da análise de sua certidão de antecedentes judiciais, a primeira condenação é porte ilegal de arma de fogo de uso permitido, cujo tipo penal específico é descrito no art. 14, da Lei 10.826/2003, ao passo que, a presente condenação é porte ilegal de arma de fogo de uso restrito, cujo tipo penal específico é descrito no artigo 16, da Lei 10.826/2003" (e-STJ, fl. 474).
+Ressalta que, caso seja "utilizado o fundamento de que a matéria não constou especificamente no acórdão recorrido para negar seguimento ao Recurso Especial, esse entendimento não pode ser aceito à luz do artigo 619 do Código de Processo Penal, pois não pode a parte ser prejudicada, quando expressamente aborda a matéria nas razões da apelação, interpondo embargos declaratórios, inclusive apontando o artigo prequestionado, e mesmo assim, tem contra si a inadmissão do Recurso Especial por falta de prequestionamento" (e-STJ, fl. 475).
+Foram apresentadas as contrarrazões (e-STJ, fls. 482-487).
+O recurso foi inadmitido por incidência do óbice da Súmula 83/STJ e também porque não ficou demonstrada a suscitada ofensa ao art. 619 do CPP (e-STJ, fl. 489-496). Daí este agravo (e-STJ, fls. 500-507).
+O Ministério Público Federal manifestou-se no sentido de conhecer do agravo para não conhecer do recurso especial (e-STJ, fls. 525-527).
+É o relatório.
+Decido.
+A pretensão recursal não merece acolhimento.
+Inicialmente, não se verifica a ocorrência da alegada omissão do acórdão impugnado.
+Com efeito, o Tribunal de origem referiu-se expressamente à questão da impossibilidade de substituição da pena privativa de liberdade pela restritiva de direitos, de modo que não há falar em omissão do aresto quanto ao ponto.
+De outra parte, no que toca à alegação de ofensa ao art. 44, §3º, do Código Penal, oportuna a transcrição do seguinte trecho da decisão da Corte de origem:
+"Finalmente, no que diz respeito à substituição da pena privativa de liberdade, esta não é cabível, como bem apontou a sentença, em razão de o suplicante não atender aos requisitos legais atinentes à espécie, dada sua reincidência em crime doloso, inclusive relacionado ao porte legal de arma de fogo." (e-STJ, fl. 443).
+Consoante dispõe o artigo 44, §3º, do CP, "se o condenado for reincidente, o juiz poderá aplicar a substituição, desde que, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime".
+Como se vê o referido dispositivo legal exige, para a conversão da pena corporal por restritiva de direitos - mesmo em caso de reincidência por crime doloso -, dois requisitos: I) que a medida seja socialmente recomendável; e II) que a reincidência não se tenha operado em virtude da prática do mesmo crime (reincidência específica).
+Portanto, o não preenchimento de um deles impossibilita a almejada substituição.
+No caso do acusado, o Tribunal a quo, soberano na análise dos elementos fáticos e probatórios dos autos, entendeu que a medida não é socialmente recomendável, razão pela qual não procedeu à substituição da pena privativa de liberdade pela restritiva de direitos, motivo pelo qual não se verifica a apontada violação legal.
+A corroborar esse entendimento:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIÇO DE COMUNICAÇÃO MULTIMÍDIA (INTERNET VIA RÁDIO). ATIPICIDADE. IMPOSSIBILIDADE. CRIME CONSUMADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO. [NOME]. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, "a conduta de transmitir sinal de internet, via rádio, de forma clandestina, caracteriza, a princípio, o delito insculpido no art.
+183, da Lei 9.472/97" (AgRg no CC n. 111.056/SP, Rel. Ministro Og Fernandes, 3ª S., DJe 16/9/2010).
+2. Não há como falar em violação do art. 44, § 3º, do CP se os elementos destacados nas decisões prolatadas pelas instâncias de origem indicarem claramente que a substituição da pena privativa de liberdade por restritivas de direitos não seria socialmente recomendável.
+3. Agravo regimental não provido.
+(AgRg no AREsp 941.989/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/03/2017, DJe 07/04/2017).
+Ressalte-se, ainda, que a alteração do julgado, com o fim de concluir pelo desacerto da decisão que não procedeu à substituição da pena, encontra óbice na Súmula 7/STJ, haja vista a necessidade de revolvimento dos elementos fáticos e probatórios dos autos.
+Nesse sentido:
+"AGRAVO REGIMENTAL. EMBRIAGUEZ AO VOLANTE. SUBSTITUIÇÃO DA PENA. MAUS ANTECEDENTES E REINCIDÊNCIA. CASO CONCRETO. FUNDAMENTAÇÃO SUFICIENTE. SÚM. 7/STJ.
+1. O art. 44, § 3º, do Código Penal, possibilita a substituição da pena ao condenado reincidente, desde que a medida seja socialmente recomendável, em face de condenação anterior, e a reincidência não se tenha operado em virtude da prática do mesmo crime.
+2. As instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, concluíram que a substituição da pena não era recomendável à ressocialização do recorrente - que, além de reincidente e portador de maus antecedentes, já foi beneficiado com a transação penal e com a suspensão condicional do processo. A desconstituição de tal entendimento encontra óbice na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento."
+(AgRg nos EDcl no AREsp 608.401/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/06/2015, DJe 25/06/2015).
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
