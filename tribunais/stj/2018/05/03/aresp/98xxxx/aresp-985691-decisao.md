@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, inciso III, "a" e "c", da Constituição Federal.
+De início, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Dito isso, mediante análise dos autos, verifico que a inadmissão do especial se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha a parte agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, conforme ressaltado na decisão agravada, esbarrando, pois, no mencionado óbice.
+De fato, na hipótese dos autos, o Tribunal de origem, por falta de comprovação, deixou de enquadrar como especiais, algumas das atividades que o recorrente afirma ter exercido.
+Na ocasião do julgamento, restou consignado no voto condutor do acórdão recorrido (e-STJ fls. 289/291):
+As anotações de vínculos empregatícios em CTPS, por si sós, não são suficientes para comprovar a atividade urbana em condições especiais nos períodos arrolados na inicial como motorista, exigindo-se a apresentação de documentação complementar ratificando o teor das informações constantes da carteira profissional.
+(..)
+A prova oral produzida durante a instrução (fls.161) não é suficiente para comprovar as condições especiais nos períodos de 23/07/1986 a 14/08/1986 e de 15/08/1986 a 26/01/1987.
+Por sua vez, inviável o reconhecimento da natureza especial da atividade exercida nos períodos de 01/06/1981 a 33/05/1986, de 01/04/1987 a 07/07/1987, de 13/03/1989 a 11/12/1989 e de 13/06/1991 a 01/07/2009, considerando a ausência de efetiva comprovação à exposição dos agentes nocivos descritos na inicial.
+Mais especificamente no tocante ao período de 13/06/1991 a 01/07/2009 o laudo técnico de fls. 170/181 mostrou-se imprestável para comprovar o alegado pela parte autora, pois, além de se mostrar extemporâneo aos fatos a análise feita pelo expert embasou-se nas condições de trabalho a que se submetem os técnicos em radiologia, função diversa da exercida pelo autor (auxiliar de radiologia), o que eqüivale à prova indireta.
+Por outro lado, o PPP de fls. 165/168 indica que a parte autora não esteve exposta aos agentes nocivos descritos na inicial.
+(..)
+Logo, tendo em vista o não reconhecimento como especial dos períodos de 01/06/1981 a 31/05/1986, de 23/07/1986 a 14/08/1986, de 15/08/1986 a 26/01/1987, de 01/04/1987 a 07/07/1987, de 13/03/1989 a 11/12/1989 e de 13/06/1991 a 01/07/2009, inviável se torna a concessão da aposentadoria especial pleiteada na inicial.
+A alteração dessas conclusões do julgado demandaria o reexame do material fático-probatório dos autos, inviável em sede de recurso especial diante da vedação contida na Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. EXERCÍCIO DE TRABALHO SOB CONDIÇÕES ESPECIAIS. AUSÊNCIA DE COMPROVAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - In casu, rever o entendimento do Tribunal de origem, que consignou que a parte autora não comprovou o exercício de trabalho sob condições especiais, durante todos os períodos laborados, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, sob a luz do óbice contido na Súmula n. 7/STJ.
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno improvido.
+(AgInt no AREsp 883.555/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 20/10/2016, DJe 09/11/2016)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. EXPOSIÇÃO A AGENTES NOCIVOS. NÃO COMPROVAÇÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. PARADIGMA DO MESMO TRIBUNAL. SÚMULA 13/STJ.
+1.Hipótese em que o Tribunal de origem entendeu que: a) "o perfil profissiográfico coligido padece de inconsistência porque traz a presença de fatores de risco apenas de período posterior à data de sua emissão (16/3/2011)"; b) "o PPP apresentado é insuficiente para comprovar a efetiva sujeição do segurado a condições especiais prejudiciais a sua saúde ou integridade física (..), por não trazer elementos que possibilitem aferir a exposição a derivados do petróleo".
+2. Os fundamentos não foram atacados pelo recorrente e são aptos, por si sós, para manter o decisum combatido. Permite-se aplicar na espécie, por analogia, o óbice da Súmula 283/STF, ante a ausência de impugnação de fundamento autônomo.
+3. Ainda que superado tal óbice, a insurgência não mereceria acolhida. Isso porque a revisão do entendimento da Corte regional quanto à ausência de comprovação da exposição a agentes nocivos somente seria possível por meio do reexame do acervo fático-probatório existente nos autos, o que não se permite em Recurso Especial, ante o óbice da Súmula 7/STJ.
+4. No que se refere ao alegado dissídio jurisprudencial, cabe ressaltar que os paradigmas apresentados, de origem no mesmo Tribunal, não permitem a análise do Recurso Especial pela alínea "c" do permissivo constitucional, por incidir o óbice da Súmula 13/STJ.
+5. Recurso Especial não conhecido.
+(REsp 1697891/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2017, DJe 19/12/2017)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. EXERCÍCIO DE ATIVIDADE ESPECIAL. NÃO COMPROVAÇÃO. ENTENDIMENTO DA CORTE DE ORIGEM. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ.
+1. O Tribunal de origem, com base no conjunto probatório dos autos, reconheceu apenas parte do período de labor alegado, pois considerou que não foi devidamente comprovado o exercício de atividade em condições especiais pelo autor em todos os períodos indicados.
+2. A alteração destas conclusões, no que diz respeito à comprovação do exercício de atividade laboral sujeita a condições insalubres, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1103362/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/09/2017, DJe 06/10/2017)
+Impende acrescentar que não cabe o apelo nobre, mesmo pela alínea "c" do permissivo constitucional, quando o exame da questão demandar o revolvimento do conjunto fático-probatório acostado aos autos, porquanto o citado recurso é admitido apenas para a análise de questões atinentes à interpretação de normas infraconstitucionais.
+Ilustrativamente:
+PROCESSUAL CIVIL. SÚMULA 106/STJ. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. VEDADA ANÁLISE NO ÂMBITO DO STJ. AUSÊNCIA DE INDICAÇÃO DA NORMA VIOLADA. APLICAÇÃO. ANALOGIA. SÚMULA 284/STF. SÚMULA 106/STJ. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA E NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO.
+ ..
+3. Descabe examinar a tese defendida no Recurso Especial - incidência da Súmula 106/STJ ao caso dos autos - porque necessário o revolvimento de matéria fático-probatória. Aplicação da Súmula 7/STJ.
+4. O STJ tem entendimento de que "a incidência da referida Súmula 7 impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (AgInt no AREsp 866.679/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 26/4/2016, DJe 2/5/2016).
+5. Agravo Interno não provido (AgInt no AREsp 877.761/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/10/2016, DJe 28/10/2016).
+Registro, por oportuno, que o marco inicial de aplicação do Novo Código de Processo Civil é a intimação do decisum recorrido, a qual, no presente caso, foi realizada sob a égide do antigo Codex Processual. Assim, nos termos do Enunciado Administrativo nº 2 do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Por fim, não haverá arbitramento de honorários recursais, por se tratar de recurso interposto na vigência do Código de Processo Civil de 1973.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
