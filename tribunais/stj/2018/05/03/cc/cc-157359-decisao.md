@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de conflito negativo de competência em que figuram, como suscitante, o Juízo Federal da 1ª Unidade Avançada de Atendimento em Vacaria - RS e, suscitado, o Juízo de Direito da Vara Adjunta do Juizado Especial Cível de Vacaria - RS.
+Narram os autos que [NOME] ajuizou ação de inexigibilidade de Imposto de Renda e repetição de indébito em desfavor da União e do Ministério da Fazenda em razão de ser acometido de Hepatite tipo C viral.
+O Juízo de Direito extinguiu o feito, sem exame de mérito, tendo em vista a presença da União no polo passivo da demanda, o que atrairia a competência da Justiça Federal.
+Por seu turno, o Juízo Federal instaurou o presente incidente ao fundamento de que o tributo se incorporaria ao patrimônio do Estado do Rio Grande do Sul, não havendo legitimidade da União.
+Instado a manifestar-se, o Ministério Público Federal opinou pelo conhecimento do conflito para declarar a competência do Juízo suscitado.
+É o relatório.
+A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 989.419/RS, sob a sistemática do art. 543-C do CPC/1973, definiu que os Estados da Federação são partes legítimas para figurar no polo passivo de ações ajuizadas por servidores públicos estaduais pleiteando a isenção de Imposto de Renda Retido na Fonte, tendo em vista a destinação constitucional deste recurso, consoante o art. 157, I, da CF/1988.
+A propósito, a ementa do julgado:
+PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C, DO CPC. RESTITUIÇÃO. IMPOSTO DE RENDA RETIDO NA FONTE. LEGITIMIDADE PASSIVA DO ESTADO DA FEDERAÇÃO. REPARTIÇÃO DA RECEITA TRIBUTÁRIA.
+1. Os Estados da Federação são partes legítimas para figurar no pólo passivo das ações propostas por servidores públicos estaduais, que visam o reconhecimento do direito à isenção ou à repetição do indébito relativo ao imposto de renda retido na fonte. Precedentes: AgRg no REsp 1045709/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/09/2009, DJe 21/09/2009; REsp 818709/RO, Rel. Ministro Herman Benjamin, DJe 11/03/2009; AgRg no Ag 430959/PE, Rel. Ministro Humberto Martins, DJe 15/05/2008; REsp 694087/RJ, Rel. Ministro João Otávio de Noronha, DJ 21/08/2007; REsp 874759/SE, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 07/11/2006, DJ 23/11/2006; REsp n. 477.520/MG, rel. Min. Franciulli Netto, DJ de 21.03.2005; REsp n. 594.689/MG, rel. Min. Castro Meira, DJ de 5.9.2005.
+2. "O imposto de renda devido pelos servidores públicos da Administração direta e indireta, bem como de todos os pagamentos feitos pelos Estados e pelo Distrito Federal, retidos na fonte, irão para os cofres da unidade arrecadadora, e não para os cofres da União, já que, por determinação constitucional "pertencem aos Estados e ao Distrito Federal." (José Cretella Júnior, in Comentários à Constituição Brasileira de 1988, Forense Universitária, 2a edição, vol. VII, arts. 145 a 169, p. 3714).
+3. Recurso especial desprovido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 08/2008.
+(REsp 989.419/RS, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 25/11/2009, DJe 18/12/2009)
+Em homenagem ao mencionado precedente, foi editada a Súmula 447/STJ, que assim orienta: "Os Estados e o Distrito Federal são partes legítimas na ação de restituição de imposto de renda retido na fonte proposta por seus servidores."
+Nesse contexto, impende reconhecer que é da competência da Justiça estadual o conhecimento e processamento de ação voltada contra a retenção do Imposto de Renda incidente sobre os proventos de servidor público estadual, tendo em vista que a arrecadação a tal título é destinada à composição do erário do respectivo ente federativo.
+Ante o exposto, na esteira do parecer ministerial, conheço do conflito para declarar competente o Juízo de Direito da Vara Adjunta do Juizado Especial Cível de Vacaria - RS, o suscitado.
+Publique-se. Intimem-se.
