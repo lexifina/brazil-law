@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo contra inadmissão de recurso especial interposto por [NOME]. O apelo extremo, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul assim ementado:
+"APELAÇÕES CÍVEIS - AÇÃO DE INDENIZAÇÃO POR DANOS E MATERIAIS - ACIDENTE DE TRÂNSITO - DEBILIDADE DE CARÁTER PERMANENTE - DANOS MORAIS DEVIDOS - QUANTUM INDENIZATÓRIO - FIXAÇÃO DENTRO DOS PATAMARES DA RAZOABILIDADE E PROPORCIONALIDADE - QUANTUM MANTIDO - LUCROS CESSANTES - PERCEPÇÃO DE AUXÍLIO-DOENÇA - NÃO CUMULAÇÃO SOB PENA DE ENRIQUECIMENTO ILÍCITO - PENSÃO MENSAL - CABIMENTO - TERMO INICIAL DOS JUROS E CORREÇÃO MONETÁRIA COM RELAÇÃO AOS DANOS MORAIS - PEDIDO CONTRAPOSTO - RITO ORDINÁRIO - IMPOSSIBILIDADE - SUCUMBÊNCIA RECURSAL - ARBITRAMENTO DE HONORÁRIOS - RECURSO DO AUTOR PARCIALMENTE PROVIDO E DO RÉU DESPROVIDO.
+Verificado que o veículo conduzido pelo requerido invadiu a preferencial do autor, vindo a colidir com este, causando-lhe debilidade de caráter permanente, impõe-se o dever de indenizar.
+Para a fixação do quantum da indenização pelo dano moral causado, o julgador deve aproximar-se criteriosamente do necessário a compensar a vítima pelo abalo sofrido e do valor adequado ao desestímulo da conduta ilícita, atendo sempre ao princípio da razoabilidade e proporcionalidade.
+Verificado que o autor recebeu auxílio-doença do INSS durante o período em que esteve afastado do seu trabalho, como forma de garantir a manutenção da sua renda, não há falar em indenização por lucros cessantes, sob pena de enriquecimento ilícito.
+A vítima de evento danoso que sofre redução parcial e permanente da capacidade laborativa tem direito a pensão mensal prevista no art. 950 do Código Civil.
+Na hipótese de condenação em danos morais decorrente de responsabilidade extracontratual, os juros de mora devem fluir a partir do evento danoso (Súmula 54 do STJ), e a correção monetária a partir da data do arbitramento (Súmula 362 do STJ).
+Tendo a presente demanda sido processada sob o rito ordinário, o meio adequado para o réu deduzir pedido em face do autor não é o pedido contraposto e sim a reconvenção, de forma que merece ser mantida a sentença que reconheceu a inadequação da via eleita.
+Tratando-se de recurso interposto sob a égide do novo Código de Processo Civil, impõe-se a majoração dos honorários advocatícios fixados na origem, nos termos do §11 do artigo 85.
+A sucumbência parcial recursal da parte autora implica na automática fixação de honorários em favor da parte requerida, mas em percentual razoável e proporcional, a fim de evitar que a verba honorária seja mais vantajosa do que o próprio direito material pretendido na demanda originária" (fls. 237/238 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões recursais, o agravante sustenta, além da divergência jurisprudencial, violação dos artigos 950 do Código Civil e 85, § 2º, do Código de Processo Civil de 2015.
+Pleiteia que a pensão vitalícia mensal determinada seja paga em parcela única.
+Aduz que "prefere que o pagamento das pensões seja realizado de uma só vez no importe de 50% de 1,4 salário mínimo desde a data do acidente até o dia em que o mesmo completar 75 anos de idade, devendo a referida quantia ser paga de uma só vez" (fl. 299 e-STJ).
+Afirma, por fim, que "é visível que a quantia fixada a título de honorários advocatícios se mostra injusta e desproporcional (R$ 2.300,00), não correspondendo sequer a 5% da referida quantia a ser recebida pelo recorrente" (fl. 302 e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência merece prosperar em parte.
+De início, quanto ao artigo 950 do Código Civil, esta Corte de Justiça firmou entendimento no sentido de que o valor das parcelas pode ser arbitrado e pago de uma só vez, a critério do magistrado, que deverá avaliar a conveniência da aplicação da regra ao caso concreto.
+A propósito:
+"RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. TRANSPORTE DE MERCADORIAS. FRETE. RESPONSABILIDADE SOLIDÁRIA DA TOMADORA E PRESTADORA DE SERVIÇOS. EXISTÊNCIA DE INTERESSE ECONÔMICO NO TRANSPORTE. PENSÃO VITALÍCIA. PEDIDO DE PAGAMENTO EM COTA ÚNICA. IMPOSSIBILIDADE. ART. 950, PARÁGRAFO ÚNICO, DO CC/2002. MAJORAÇÃO DO VALOR DA INDENIZAÇÃO POR DANO MORAL. LESÕES GRAVES. RECURSO PARCIALMENTE PROVIDO.
+1. Diante da existência de interesse econômico no serviço, consistente no lucro decorrente da entrega dos produtos a seus destinatários, exsurge, em regra, a responsabilidade solidária entre a tomadora e a empresa de transporte de cargas, devendo ambas responderem perante terceiros no caso de acidente ocorrido durante o deslocamento da mercadoria.
+2. O parágrafo único do art. 950 do Código Civil de 2002, que prevê a possibilidade de pagamento de cota única de pensão decorrente de ato ilícito, não se aplica aos casos de pensão vitalícia.
+3. O pagamento, em parcela única, implica, em tese, a desnaturação do próprio instituto da vitaliciedade, pois a vítima do acidente pode ficar desamparada em determinado momento de sua vida ou provocar o enriquecimento sem causa do credor, caso este faleça de forma prematura.
+4. A regra de constituição de capital, aplicada pelo aresto impugnado, nos moldes da Súmula 313 do STJ e do art. 475-Q do Código de Processo Civil de 1973, segue os interesses de ambas as partes e garante o pagamento mensal da pensão vitalícia.
+5. No caso, o autor experimentou lesões graves com o acidente, consistente em diversas fraturas nas pernas e no quadril, levando-o à incapacidade no percentual de 70% (setenta por cento), justificando-se, portanto, a majoração da indenização para R$ 65.000,00.
+6. Recurso especial parcialmente provido" (REsp 1.282.069/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/5/2016, DJe 7/6/2016).
+"CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E ESTÉTICOS. ACIDENTE DE TRÂNSITO QUE DEIXOU O AUTOR PARAPLÉGICO. EMPRESA DE TRANSPORTE CONCESSIONÁRIA DE SERVIÇO PÚBLICO. OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. MAJORAÇÃO DO VALOR DAS INDENIZAÇÕES POR DANOS MORAIS E ESTÉTICOS. CABIMENTO. PENSIONAMENTO MENSAL. PAGAMENTO EM PARCELA ÚNICA. ART. 950, PARÁGRAFO ÚNICO, DO CC. DESCABIMENTO, NO CASO. NECESSIDADE DA CONSTITUIÇÃO DE CAPITAL. SÚMULA 313/STJ. JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. PROVIMENTO PARCIAL APENAS DO RECURSO DO AUTOR.
+(..)
+3. A regra prevista no art. 950, parágrafo único, do CC, que permite o pagamento da pensão mensal de uma só vez, não deve ser interpretada como direito absoluto da parte, podendo o magistrado avaliar, em cada caso concreto, sobre a conveniência de sua aplicação, a fim de evitar, de um lado, que a satisfação do crédito do beneficiário fique ameaçada e, de outro, que haja risco de o devedor ser levado à ruína. Na espécie, a fim de assegurar o efetivo pagamento das prestações mensais estipuladas, faz-se necessária a constituição de capital ou caução fidejussória para esse fim, nos termos da Súmula 313 deste Tribunal.
+4. Nos casos de responsabilidade contratual, o termo inicial para a incidência dos juros de mora é a data da citação.
+5. Recurso especial do autor provido parcialmente e desprovido o recurso da ré" (REsp 1.349.968/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/04/2015, DJe 04/05/2015).
+"RESPONSABILIDADE CIVIL CONTRATUAL. AGRAVO REGIMENTAL. QUEDA DE PASSAGEIRO DO TREM. PERDA DE DA CAPACIDADE LABORATIVA E DANO ESTÉTICO EM GRAU MÁXIMO.
+1. Com o advento do Novo Código Civil (art. 950, parágrafo único), o legislador foi expresso em admitir a percepção de indenização imediata e única dos danos materiais nos casos de responsabilidade civil derivada da incapacitação da vítima para o trabalho.
+2. No caso em apreço, foi pleiteado o pagamento em parcela única das despesas com medicamentos e tratamentos médicos, nos termos do laudo pericial.
+(..)" (AgRg no REsp 1.221.896/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/08/2013, DJe 14/08/2013).
+No caso dos autos, o acórdão recorrido foi fundamentado nos seguintes termos:
+"(..)
+Contudo, no tocante às parcelas vincendas, não há falar em pagamento em parcela única, tendo em vista que o pensionamento é periódico, isto é, mensal, justamente porque se trata de uma verba substitutiva do trabalho para qual o indivíduo se inabilitou, conforme preceitua o art. 950 do CC" (fl. 285 e-STJ).
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+A esse respeito:
+"RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO.
+DANOS MATERIAIS, MORAIS E ESTÉTICOS. PENSIONAMENTO MENSAL. INDENIZAÇÃO. MAJORAÇÃO. SÚMULA Nº 7/STJ. DISSÍDIO NÃO CONFIGURADO. ARTIGO 950, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL. PAGAMENTO EM ÚNICA PARCELA. MANUTENÇÃO DO ACÓRDÃO. SÚMULA Nº 7/STJ.
+1. Cuida-se, na origem, de ação indenizatória em virtude de acidente de trânsito causador de sequelas graves à vítima que resultaram em perda da capacidade laboral (agente de segurança) e sensorial (visão e olfato).
+2. Tendo em vista que, no caso específico, o valor da indenização fixada a título de danos morais e estéticos não se apresenta flagrantemente irrisório (R$ 30.000,00 - trinta mil reais), não há como se afastar o óbice na Súmula nº 7/STJ quanto à pretensão de majorá-lo. Precedentes do STJ.
+3. A teor do artigo 950, parágrafo único, do Código Civil, nos casos de redução da capacidade laboral ou incapacitação total da vítima, esta poderá optar pelo pagamento da indenização de uma só vez, no lugar do pensionamento mensal.
+4. O pagamento de indenização em parcela única não se configura em um direito absoluto da vítima, mas, caso requerido, deve ser apreciado pelo julgador, que ponderará as circunstâncias do caso, em especial, a capacidade econômica do ofensor.
+5. Inviável modificar o acórdão que, à luz do acervo probatório, rejeitou o pleito de pagamento indenizatório em parcela única, mantendo o pensionamento mensal. Incidência da Súmula nº 7/STJ.
+6. Recurso especial não provido" (REsp 1.531.096/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/05/2016, DJe 23/05/2016)
+Por fim, merece guarida a matéria referente aos honorários advocatícios em percentual incidente sobre o valor da condenação.
+Na hipótese, os honorários advocatícios foram fixados no valor certo de R$ 2.300,00 (dois mil e trezentos reais), sem a observância, portanto, dos termos do artigo 85, § 2º, do Código de Processo Civil de 2015.
+Confira-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL. ANÁLISE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. 1. A jurisprudência do STJ entende que, quando a sentença for de natureza condenatória, para fins de arbitramento dos honorários advocatícios, devem ser aplicados os limites percentuais previstos no parágrafo 3º do artigo 20 do Código de Processo Civil de 1973 ( art. 85, § 2º, do CPC/15).
+2. Não cabe, em recurso especial, reexaminar matéria de fato (Súmula 7 do STJ).
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 991.137/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/12/2017, DJe 14/12/2017).
+Desse modo, afastado o critério esposado pelas instâncias de cognição plena para impor à parte vencida o ônus do pagamento de R$ 2.300,00 (dois mil e trezentos reais) a título de honorários advocatícios de sucumbência, afigura-se adequado o percentual de 10% (dez por cento) da condenação para tal finalidade, visto que se mostra suficiente para remunerar com justiça o trabalho realizado pelo procurador da parte autora, considerando-se aí não só a qualidade deste como o tempo de tramitação do feito e a sua complexidade.
+ Ante o exposto, conheço do agravo e dou parcial provimento ao recurso especial para condenar a parte adversa ao pagamento, a título de honorários advocatícios sucumbenciais, de 10% (dez por cento) do valor da condenação a ser apurada em liquidação, observando-se a justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
