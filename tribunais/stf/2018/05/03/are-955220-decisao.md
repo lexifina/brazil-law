@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. Eis a síntese da decisão prolatada pelo Colegiado de origem:
+    MANDADO DE SEGURANÇA MINISTÉRIO PÚBLICO DE CONTAS – ALTERAÇÃO DO REGIMENTO INTERNO DO TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ - RESTRIÇÃO DA CAPACIDADE POSTULATÓRIA DOS PROCURADORES DE CONTAS, SUJEIÇÃO DOS MEMBROS À COMISSÃO DE ÉTICA E DISCIPLINA COMPOSTA POR AUDITORES E CONSELHEIROS E SUBMISSÃO DO REGIMENTO INTERNO MINISTERIAL À APROVAÇÃO DO TRIBUNAL DE CONTAS – AUSÊNCIA DE AUTONOMIA ADMINISTRATIVA E FINANCEIRA – RESGUARDADAS AS GARANTIAS DE ORDEM SUBJETIVA E A ATUAÇÃO FUNCIONAL INDEPENDENTE PERANTE A CORTE DE CONTAS - ALTERAÇÕES IMPORTAM EM RESTRIÇÃO DAS GARANTIAS CONSTITUCIONAIS DOS MEMBROS, RESTRINGINDO A CAPACIDADE POSTULATÓRIA E A INDEPENDÊCIA FUNCIONAL DOS IMPETRANTES – IMPOSSIBILIDADE DE SUJEIÇÃO DOS MEMBROS AO PODER CORREICIONAL DA COMISSÃO – PODER DISCIPLINAR É EXERCIDO PELO PROCURADOR GERAL, CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO DE CONTAS E PELO CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO - ARTIGOS 127, §§ 1º E 3º E 130, DA CONSTITUIÇÃO FEDERAL – DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE - ORDEM CONCEDIDA.
+    1. Reconhecida a capacidade postulatória do Ministério Público de Contas para defender suas prerrogativas funcionais.
+    2. Não reconhecida a decadência do direito de impetrar mandado de segurança - contagem do prazo inicia-se no primeiro dia útil subsequente.
+    3. Submissão do regimento interno ministerial à aprovação da Corte de Contas - impossibilidade – o Ministério Público de Contas é uma instituição independente, que não pertence e não integra o Tribunal de Contas.
+    4. Restrição da propositura de medidas cautelares e a interposição de recursos ao Procurador-Geral – violação à independência funcional dos membros – prerrogativa de se utilizar de todos os meios que lhe são postos pelo ordenamento jurídico para bem exercerem seu ofício.
+    5. Submissão dos membros do Ministério Público do Tribunal de Contas à Comissão de Disciplina e Ética do Tribunal de Contas – impossibilidade – poder disciplinar pressupõe relação hierárquica – os membros do Ministério Público de Contas não são membros do Tribunal de Contas e não estão subordinados hierarquicamente aos Conselheiros e Auditores do órgão de Contas - os Procuradores do Ministério Público de Contas, nos termos do artigo 150 e incisos da Lei Orgânica do Tribunal de Contas, estão hierarquicamente subordinados, do ponto de vista administrativo e não funcional, ao seu Procurador Geral, o qual terá o dever de exercer a atividade correcional sobre aqueles, assim como o Conselho Superior do Ministério Público de Contas. Ministério Público de Contas sujeito à atividade correcional do Conselho Nacional do Ministério Público.
+    No extraordinário cujo trânsito busca alcançar, o recorrente aponta transgressão aos artigos 127 e 130 da Constituição Federal. Afirma não extensíveis ao Ministério Público atuante perante o Tribunal de Contas as disposições referentes ao Ministério Público comum, salvo nos casos expressos na Constituição. Diz se impor a observância das normas internas do Tribunal de Contas.
+    2. Colho da decisão recorrida os seguintes trechos:
+    A Lei Complementar Estadual nº 113/2005 (Lei Orgânica do Tribunal de Contas do Estado do Paraná) disciplina em capítulo próprio o Ministério Público junto ao Tribunal de Contas (artigos 148 a 152), no qual expressamente resguarda a independência funcional de seus membros:
+    “Art. 148. O Ministério Público junto ao Tribunal de Contas, ao qual se aplicam os princípios institucionais da unidade, da indivisibilidade e da independência funcional, é integrado por onze procuradores, sendo chefiado pelo Procurador-Geral escolhido pelo Governador do Estado em lista tríplice formada entre seus membros, para mandato de dois anos, permitida uma recondução pelo mesmo processo.
+    § 1º O ingresso na carreira far-se-á mediante concurso
+    público de provas e títulos, dentre bacharéis de direito, que possuam, no mínimo, 3 (três) anos de atividade jurídica regularmente comprovada, observada nas nomeações a ordem de classificação. (...)”
+    […]
+    Observa-se que o fato de haver previsão (art. 142 da Lei Orgânica do Tribunal de Contas - Lei Complementar n. 113/2005) no sentido de que o Procurador Geral integre a Comissão de Ética e Disciplina não afasta a ilegalidade da norma diante da impossibilidade do exercício do poder disciplinar pelos Auditores e Conselheiros sobre os membros do Ministério Público de Contas.
+    Há que destacar o que dispõe o artigo 150 e seus incisos da Lei Orgânica do Tribunal de Contas:
+    “Art. 150. Compete ao Procurador-Geral junto ao Tribunal de Contas:
+    I - chefiar o Ministério Público junto ao Tribunal de Contas;
+    II - delegar atribuições a membro do quadro de Procuradores, e aos servidores integrantes do serviço administrativo do Ministério Público junto ao Tribunal de Contas;
+    III - solicitar nova audiência ao Ministério Público junto ao Tribunal de Contas dos processos submetidos a julgamento;
+    IV - propor ao Presidente medidas administrativas de interesse do Ministério Público junto ao Tribunal de Contas;
+    V - expedir instruções e atos disciplinando as atividades administrativas dos membros do Ministério Público junto ao Tribunal de Contas e dos servidores lotados na respectiva unidade, conforme art. 151, desta lei;
+    VI - solicitar diárias, e encaminhar os pedidos de licença, férias, ou autorização para afastamento de membros do Ministério Público junto ao Tribunal de Contas e de servidores lotados na respectiva unidade; (...)”.
+    Da leitura do acórdão impugnado mediante o extraordinário depreende-se ter o Colegiado de origem julgado o mandado de segurança a partir de interpretação conferida a normas locais. Procedeu à análise da Lei Complementar Estadual nº 113/2005. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 3 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
