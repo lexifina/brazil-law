@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZATÓRIA. IMPROCEDÊNCIA. ÔNUS DA PROVA. DEMONSTRAÇÃO, POR PARTE DA REQUERIDA, DO QUE LHE CABIA PROVAR. REQUERENTE QUE NÃO SE DESINCUMBIU DO ÔNUS PROBATÓRIO DE FORMA SATISFATÓRIA. DUPLICATAS ACOMPANHADAS DAS NOTAS FISCAIS ENSEJADORAS DA COBRANÇA. REVISÃO DAS CONCLUSÕES DA CORTE ESTADUAL. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto por [NOME] contra a decisão do Tribunal de Justiça de São Paulo que inadmitiu o recurso especial de fls. 501-514 (e-STJ), fundamentado na alínea a do permissivo constitucional.
+Na origem, a ora insurgente ajuizou ação declaratória de inexistência de débito cumulada com indenizatória contra PIN - TOR Artefatos de Cimento Ltda - Epp, alegando, em síntese, "que recebeu intimação do Tabelionato de Protestos Cambias local de que se encontra inadimplente em relação às duplicatas mercantis de n. 512, 513, 514, 530, 531 e 539 apresentadas pela ré, totalizando o valor de R$ 15.460,00, sem que, todavia, tivesse ciência da dívida. Asseverou a ilegalidade dos títulos, eis que alegou nunca ter mantido qualquer relação comercial com a requerida de compra e venda ou prestação de serviços" (e-STJ, fl. 359).
+O Magistrado de primeiro grau julgou improcedentes os pedidos.
+Interposta apelação pela requerente, a Vigésima Segunda Câmara da Seção de Direito Privado do TJSP, por maioria dos votos, negou provimento ao apelo em acórdão assim ementado (e-STJ, fl. 487):
+APELAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C PEDIDO DE DANO MORAL. SENTENÇA DE PRIMEIRO GRAU TOTALMENTE IMPROCEDENTE. ALEGAÇÃO DE DISTRIBUIÇÃO DESIGUAL DO ÔNUS DA PROVA. INADMISSIBILIDADE. A PARTE RÉ DEMONSTROU NOS AUTOS 0 QUE LHE CABIA PROVAR, ENQUANTO QUE A PARTE AUTORA NÃO SE DESINCUMBIU DO ÔNUS PROBATÓRIO DE FORMA SATISFATÓRIA. DUPLICATAS ACOMPANHADAS DAS NOTAS FISCAIS ENSEJADORAS DA COBRANÇA. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Nas razões do recurso especial, [NOME] apontou violação ao art. 373, § 1º, do Código de Processo Civil de 2015, ao argumento de que "a vitória foi dada ao demandado mesmo tendo ele apresentado provas dúbias, em detrimento do autor, ora recorrente, que provou não ter comprado nem recebido a mercadoria" (e-STJ, fl. 505).
+Afirmou que o recorrido é que deveria provar a existência de relação comercial entre as partes, ônus do qual não se desincumbiu. Não provou, nem sequer, que tenha entregue a mercadoria ao recorrente ou a qualquer pessoa por ele autorizada (e-STJ, fl. 507). Ressaltou, ainda, a impossibilidade de fazer prova de fato negativo.
+Não foram apresentadas contrarrazões.
+O Tribunal de origem inadmitiu o recurso especial sob os fundamentos de não demonstração da alegada ofensa aos dispositivos legais arrolados e de incidência da Súmula 7/STJ.
+Irresignada, a recorrente apresenta agravo refutando os óbices apontados pela Corte.
+Sem contraminuta.
+Brevemente relatado, decido.
+Com efeito, não obstante a recorrente afirme que comprovou suas alegações, sobretudo no que concerne à inexistência de relação jurídica entre as partes, e que a parte recorrida não se desincumbiu do seu ônus probatório, as instâncias ordinárias julgaram improcedentes os pedidos iniciais, conforme se verifica do aresto combatido (e-STJ, fls. 488-491):
+A duplicata é título de crédito causal, uma vez que pode ser extraída no ato da emissão da fatura que discrimina os produtos ou serviços prestados, conforme a regra do art. 2º da Lei n. 5.474/1968.
+Assim, deve haver uma relação jurídica preexistente entre o credor e o devedor, como uma compra e venda ou uma prestação de serviços.
+A autora propôs duas demandas contra a ré: uma ação declaratória de inexistência de débito c/c pedido de indenização por danos morais e uma ação cautelar de sustação de protesto, posteriormente apensada aos autos da primeira.
+Em ambas, a autora afirma que jamais firmou relação jurídica com a ré e que desconhece a origem dos títulos levados a protesto.
+Em sede de contestação, a ré afirmou que, em 25.10.2011, uma pessoa de nome [NOME] se identificou como funcionária da empresa autora, solicitando a compra de equipamentos para uma construção. Juntou cópias dos e-mails e extratos telefônicos (fls. 81/99), o demonstrando a comunicação entre as partes.
+Prossegue a ré, afirmando que foi firmado contrato de compra e venda de mercadorias entre as empresas, no valor de R$ 150.750 00 dos quais R$ 44.600 foi adimplido, restando saldo devedor de R$ 106.1502,00.
+Por fim, sustenta que a autora adimpliu parte das duplicatas emitidas, sendo que algumas delas de forma espontânea e outras após o protesto em cartório (conforme comprovantes às fls. 102-112, relativos às primeiras 18 notas ficais), e que a dívida restante está representada por 15 (quinze) notas fiscais (planilha às fls.100/101).
+Em réplica, a autora alega que nunca teve em seu quadro de funcionários uma pessoa de nome [NOME], que o endereço de cobrança nunca foi da empresa e que nunca firmou contrato para realizar obra no local indicado para entrega da mercadoria, muito menos conhece as ó pessoas que receberam as mercadorias e assinaram as duplicatas.
+O recurso não comporta provimento.
+Todo o trâmite entre as empresas foi realizado por dois funcionários, de nome [NOME] e Toninho.
+As duplicatas estão acompanhadas das respectivas notas fiscais (fls. 113/254) e foram aceitas por [NOME], [NOME] e [NOME], os quais se identificaram como funcionários da empresa e apuseram suas assinaturas e números de RG nos títulos.
+Depreende-se da inicial que a autora desconhece as assinaturas e as pessoas que teriam rubricado os documentos encartados a fls. 113/254, bem como as mercadorias ali dispostas.
+Em seu favor, a credora demonstrou ter tomado todas as medidas necessárias antes da venda, pesquisando sobre a idoneidade da empresa, seus fornecedores e sua conduta regular de pagamento.
+Além disso, trouxe aos autos comprovação por meio de e-mails, fax e contatos telefônicos de que se comunicou com a empresa autora durante as negociações e após a entrega das mercadorias.
+Por fim, provou que houve pagamento parcial da divida por parte da empresa devedora, tanto de forma voluntária quanto em cartório após o protesto do titulo, desincumbindo-se do ônus do que lhe cabia provar Por outro lado, a empresa autora/devedora não se desincumbiu de seu ônus ao não apresentar documentos comprobatórios de que jamais firmou contrato com o governo para trabalhar na referida obra.
+Muito menos provou que não possui em seu quadro de funcionários as pessoas de nome [NOME], Toninho, [NOME], [NOME] e [NOME], o que poderia ter sido demonstrado juntando comprovantes de registro junto ao Ministério do Trabalho de todos os funcionários, no qual não estariam as pessoas em questão.
+A empresa autora limitou-se a alegar a inexistência de relação jurídica e rebater cada argumento da ré por negativa geral.
+Desta forma, incabível o pedido de declaração de inexigibilidade dos títulos, visto que restou demonstrada a relação jurídica entre as partes.
+Desse modo, constata-se que a questão foi decidida com amparo nas provas juntadas aos autos, e, para infirmar as conclusões das instâncias ordinárias, seriam imprescindíveis o reexame de provas, o que é vedado nesta instância extraordinária, atraindo a incidência da Súmula n. 7 do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do advogado da parte recorrida em 3% (três por cento) sobre o valor da causa.
+Publique-se.
