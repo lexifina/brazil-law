@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial, em virtude da incidência da Súmula n. 83/STJ (e-STJ fls. 396/398).
+O acórdão recorrido está assim ementado (e-STJ fl. 343):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO - FINANCIAMENTO DE AUTOMÓVEL - INCAPACIDADE MENTAL E PSICOLÓGICA NÃO COMPROVADA - VALIDADE DO NEGÓCIO JURÍDICO - SENTENÇA MANTIDA - RECURSO IMPROVIDO.
+1. O negócio jurídico celebrado entre as partes capazes, com objeto lícito e forma prescrita em lei, deve ser mantido em sua integralidade, não se desincumbindo os apelantes do ônus de demonstrar alguma irregularidade ou ilicitude, nos termos do artigo 333, I, do Código de Processo Civil.
+2. Constata-se, através dos depoimentos prestados pelas testemunhas arroladas pelo autor, que o mesmo, apesar de triste com o falecimento de sua esposa, manteve sua rotina normal, sendo certo que à época da formalização do negócio jurídico, realizava suas atividades cotidianas, normalmente, tais como:
+alimentar-se, dirigir veículo automotor, conversar com terceiros de maneira inteligível, o que demonstra que possuía o discernimento necessário para a prática dos seus atos civis.
+3. Diante da inexistência de qualquer indício de demência ou outro estado que pudesse comprometer sua integridade psíquica e, em última análise, sua vontade é de se ter como verdadeiro o fato de que o apelante estava lúcido e capaz quando da assinatura do contrato.
+4. Recurso Improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 364/368).
+Nas razões do recurso especial (e-STJ fls. 373/386), interposto com fundamento no art. 105, III, "a", da CF, o recorrente alegou ofensa ao art. 535 do CPC/1973 (art. 1.022 do CPC/2015).
+Sustentou, em síntese, que o Tribunal de origem não teria se pronunciado sobre: (i) a divergência entre a renda real do recorrente (R$ 1.903,60 - mil, novecentos e três reais e sessenta centavos) e aquela informada no contrato (R$ 7.500,00 - sete mil e quinhentos reais) e (ii) a alegação de que o recorrente não poderia, no gozo de suas faculdades mentais, ter celebrado um contrato cuja parcela mensal (R$ 2.154,33 - dois mil, cento e cinquenta e quatro reais e trinta e três centavos) é superior aos seus rendimentos mensais.
+No agravo (e-STJ fls. 402/409), afirma a presença de todos os requisitos de admissibilidade do especial.
+O recorrido apresentou contraminuta (e-STJ fls. 412/417).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+O Tribunal de origem, de forma clara e fundamentada e com base no contexto fático-probatório dos autos, concluiu que: (i) o recorrente, no momento em que celebrou o contrato de financiamento com o recorrido, possuía plena capacidade de praticar qualquer ato da vida civil, (ii) não existiria qualquer indício de demência ou outro estado que pudesse comprometer a integridade psíquica do recorrente e (ii) o recorrente estava lúcido e capaz quando da assinatura do contrato. Confira-se (e-STJ fls. 347/348):
+A controvérsia, contudo, cinge-se em saber se o autor, no momento em que celebrou o contrato de financiamento com ré, possuía plena capacidade de praticar qualquer ato da vida civil.
+Sabe-se que para que um negócio jurídico exista e produza efeitos no mundo jurídico, deverá, além de ter os elementos essenciais, ser considerado válido.
+Cumpre salientar que o Código Civil de 2002, art. 104, elenca os requisitos necessários para que um negócio jurídico seja válido: agente capaz, objeto lícito, possível, determinado ou indeterminável.
+Nessa linha de raciocínio, vale dizer que o elemento essencial é a existência da vontade. Mas para ser considerado válido, um negócio jurídico deverá apresentar um agente capaz para que possa expressar esse consentimento.
+Considera-se capaz toda pessoa que é apta a ser sujeito de direitos e obrigações.
+Na hipótese, ao contrário do que alega o autor, constata-se, através dos depoimentos prestados pelas testemunhas [NOME] e [NOME], arroladas pelo autor, que o mesmo, apesar de triste com o falecimento de sua esposa, manteve sua rotina normal, sendo certo que à época da formalização do negócio jurídico, realizava suas atividades cotidianas, normalmente, tais como:
+alimentar-se, dirigir veículo automotor, conversar com terceiros de maneira inteligível, o que demonstra que possuía o discernimento necessário para a prática dos seus atos civis.
+Assim, diante da inexistência de qualquer indício de demência ou outro estado que pudesse comprometer sua integridade psíquica e, em última análise, sua vontade é de se ter como verdadeiro o fato de que o apelante estava lúcido e capaz quando da assinatura do contrato.
+Neste sentido, esclareceu no juiz singular:
+"Ademais, pelo que ficou evidenciado nos autos, através dos depoimentos de fls. 269/276 e 278/282, o autor aparentava uma tristeza comum àquele que perdeu um ente querido, nada que extrapolasse a normalidade, tanto que continuou a realizar suas atividades habituais.
+Não há como se admitir, portanto, que o requerente continuasse a realizar todas as suas atividades habituais, de forma plena e regular, e somente no dia em que assinou o contrato junto a ré, tenha apresentado incapacidade mental suficiente para viciar o negócio jurídico entabulado.
+Ressalta-se que sequer a alegação de que o autor era ébrio habitual, fazendo uso de bebidas alcoólicas diariamente, restou evidenciada nos autos. Primeiro, porque os documentos médicos colacionados pelo autor às fls. 81/137 dos autos, além de não indicarem a presença de tratamento para alcoolismo e/ou depressão, não são datados da época em que houve a contratação entre as partes, qual seja, 24/08/2009 (fl. 34/35).
+Ora, o histórico médico colacionado pelo requerente (fls. 81/137), apesar de referir-se ao período entre 25/03/1997 05/08/2013, não indica qualquer tratamento realizado por este durante o ano de 2009, ano em que houve a contratação do financiamento junto à ré.
+Além disso, é imperioso destacar que as testemunhas arroladas nos autos sequer presenciaram a assinatura do contrato objurgado, não sendo hábil, portanto, a demonstrarem que o requerente, no dia em que foi entabulado o contrato entre as partes, estava com a capacidade civil prejudicada." (fls. 310/311)
+Noutras palavras, o negócio jurídico celebrado entre as partes capazes, com objeto lícito e forma prescrita em lei, deve ser mantido em sua integralidade, não se desincumbindo os apelantes do ônus de demonstrar alguma irregularidade ou ilicitude, nos termos do artigo 333, I, do Código de Processo Civil.
+(..)
+Neste contexto, não restou provado que o autor, à época da assinatura do contrato, estava incapacitado para a formalização do negócio jurídico firmado com a ré, de forma que não está presente qualquer hipótese que autorize a anulação do contrato de financiamento discutido nos autos.
+Dessa maneira, por não ser capaz de, em tese, infirmar a conclusão adotada pelo julgador, a Corte local não estava obrigada a se pronunciar sobre os argumentos da parte relativos à suposta: (i) divergência entre a renda real do recorrente e aquela informada no contrato e (ii) impossibilidade de o recorrente, no gozo de suas faculdades mentais, ter celebrado um contrato cuja parcela mensal seria superior aos seus rendimentos mensais, não havendo falar em omissão e, consequentemente, violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015).
+Ressalte-se que o fato de o Colegiado estadual ter decidido de forma contrária aos interesses do recorrente não configura contradição, obscuridade, omissão ou negativa de prestação jurisdicional.
+Ademais, para esta Corte Superior, "não configura ofensa ao art. 535 do Código de Processo Civil o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela parte, adotar fundamentação contrária à pretensão da recorrente, suficiente para decidir integralmente a controvérsia". Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. PROVA CONTÁBIL. DESNECESSIDADE. PARÂMETROS DE CÁLCULOS JÁ DETERMINADOS. PRECLUSÃO PRO JUDICATO. OCORRÊNCIA. LITIGÂNCIA DE MÁ-FÉ. NÃO COMPROVAÇÃO SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não configura ofensa ao art. 535 do Código de Processo Civil o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela parte, adotar fundamentação contrária à pretensão da recorrente, suficiente para decidir integralmente a controvérsia.
+2. A matéria referente aos arts. 467, 468, 472, 475-I c/c 461, 504 c/c 522, do CPC não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ)
+3. Analisar a tese firmada pelo Tribunal de origem no sentido de que os parâmetros de cálculo encontravam-se devidamente expressos dos autos, demandaria a análise de fatos e provas, o que é vedado nesta seara (Súm. 7/STJ).
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 807.418/DF, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2015, DJe 1/2/2016.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. EMBARGOS DO DEVEDOR. SEGURO. INDENIZAÇÃO. LIMITAÇÃO. VALOR DA APÓLICE. EXCESSO DE EXECUÇÃO. DOCUMENTO JUNTADO EXTEMPORANEAMENTE. POSSIBILIDADE. PRAZO DILATÓRIO. BOA-FÉ DA SEGURADORA. CARACTERIZAÇÃO.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. É possível a apresentação de prova documental em outra fase do processo, mesmo na recursal, desde que não essencial para o ajuizamento da ação, caracterizada a boa-fé e observado o contraditório. Precedentes.
+3. O prazo assinalado pelo julgador para a juntada de documentação tem natureza dilatória e não peremptória, de forma que poderá ser prorrogado ou, ainda, a diligência poderá ser cumprida mesmo após o termo final, desde que o magistrado não tenha, até então, reconhecido os efeitos da preclusão e não tenha havido comportamento desidioso do litigante.
+4. A responsabilidade da seguradora, na cobertura contratual de responsabilidade civil, restringe-se aos limites avençados, não podendo indenizar por valores superiores aos previstos na apólice.
+5. Agravo regimental não provido.
+(AgRg no REsp n. 1.343.486/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/4/2016, DJe 19/4/2016.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a Gratuidade da Justiça na instância anterior, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
