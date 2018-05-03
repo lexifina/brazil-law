@@ -1,0 +1,27 @@
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DO REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ANÁLISE QUE DEMANDARIA REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. REGIME PRISIONAL FECHADO. FUNDAMENTAÇÃO CONCRETA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. AUSÊNCIA DO REQUISITO OBJETIVO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que indeferiu liminarmente o habeas corpus quanto à aplicação do § 4º do art. 33 da Lei de Drogas, uma vez que as instâncias originárias afastaram sua incidência por entender que o réu se dedicava a atividades criminosas. Assim, a pretensão em sentido contrário, a infirmar a conclusão do Tribunal a quo, implicaria o revolvimento do conjunto fático-probatório, inviável na sede estreita do habeas corpus. Precedentes.
+2. A não aplicação do redutor previsto na Lei n. 11.343/2016 torna inviável a fixação de regime inicial diverso do fechado, ante a existência de fundamentos concretos para tanto, assim como inviabiliza a substituição da pena privativa de liberdade por restritiva de direitos, uma vez que a pena final permanece superior a 4 anos.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão monocrática que indeferiu liminarmente o habeas corpus impetrado em seu favor.
+Sustenta o agravante que  ..  o tribunal de origem valorou inadequadamente os elementos contidos nos autos quando desconsiderou a benesse do art. 33, § 4º, da Lei n. 11.343/2006, mas de forma alguma quis sugerir a esse Superior Tribunal de Justiça um novo juízo de convicção acerca das provas c dos fatos (fl. 402).
+Reitera que é primário, possui bons antecedentes, não se dedica a atividades criminosas nem integra organização criminosa.
+Destaca, ainda, que a quantidade e variedade de droga não podem fundamentar o regime prisional mais gravoso.
+Requer o provimento do recurso a fim de que a decisão seja reconsiderada para se aplicar a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, no percentual de 2/3 e, por consequência, readequar o regime prisional.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): O agravo regimental não merece provimento, tendo em vista que a decisão ora agravada se revela consentânea com a jurisprudência desta Corte Superior, devendo ser mantida por seus próprios fundamentos.
+Quanto à aplicação do § 4º do art. 33 da Lei n. 11.343/2006, assim dispôs o Tribunal de Justiça (fl. 365):
+ ..
+Verifica-se que o apelado Antonio é primário e não registra antecedentes criminais, contudo, diante da grande quantidade e diversidade de drogas transportadas (mais de uma tonelada de maconha e 73,5 gramas de cocaína) e da dinâmica do fato delituoso (afirma que foi contratado por "Galego" para transportar a droga da Comarca de Amambai/MS até esta Capital, em troca do pagamento de R$ 1.000,00 (um mil reais) e convidou O corréu Sérgio para ajudá-lo na empreita, o qual receberia o mesmo valor em pagamento; além disso, o veículo Citroen C4, de cor prata, foi preparado para o transporte da droga, pois os bancos traseiros foram retirados e em seus lugares havia centenas de tabletes de droga, bem como no porta-malas e no porta-luvas; ademais, a suspensão estava levantada em altura certa, para não levantar suspeitas, conforme declararam as testemunhas policiais [NOME], [NOME] e [NOME] - fl. 145 - sistema audiovisual), conclui-se que integrava organização criminosa.
+Portanto, não preenche os requisitos legais, devendo ser afastada a aplicação da minorante do tráfico privilegiado.
+ ..
+Dessa forma, não obstante o ora agravante seja primário e possuidor de bons antecedentes, infere-se que a Corte estadual deixou de aplicar o § 4º do art. 33 da Lei n. 11.343/2006 por levar em consideração fatos do caso concreto, tais como a quantidade e diversidade da droga e a forma como o crime aconteceu.
+A pretensão em sentido contrário, a infirmar a conclusão do Tribunal de Apelação, implicaria o revolvimento do conjunto fático-probatório, inviável na sede estreita do habeas corpus.
+No sentido da decisão impugnada, encontram-se os seguintes precedentes: HC n. 387.255/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 7/4/2017; HC n. 373.000/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 5/4/2017; e AgRg no HC n. 387.332/SC, de minha relatoria, Sexta Turma, DJe 22/3/2017.
+Assim, a não aplicação da minorante prevista na Lei n. 11.343/2006 torna inviável a fixação de regime inicial diverso do fechado, uma vez que há fundamentação concreta para o regime fechado. Pela mesma razão, o pleito de substituição da pena fica prejudicado em razão da ausência do requisito objetivo, qual seja, pena inferior a 4 anos.
+A propósito: HC n. 432.653/RS, Ministro Felix Fisher, Quinta Turma, DJe 26/4/2018; e HC n. 434.880/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 9/4/2018.
+Assim, nego provimento ao agravo regimental.
