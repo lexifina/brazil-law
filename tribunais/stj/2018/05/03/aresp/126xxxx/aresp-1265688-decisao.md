@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO ESTADUAL. CONCURSO. PROCESSO SELETIVO DO CURSO DE FORMAÇÃO. VÍCIO NA PROVA OBJETIVA. ART. 31 DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de EVALDO PEREIRA FARIAS fundado nas alíneas "a" e "c" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado de Rondônia, assim ementado:
+Apelação cível em mandado de segurança. Concurso. Prova objetiva. Vício. Patente Ilegalidade. Inexistência. Manutenção da sentença.
+1. Não compete ao Poder Judiciário adentrar no mérito das questões de provas de concurso público, somente quando verificado excepcional desatendimento ao edital, erro material incontroverso, vício na formulação de questões, ilegalidade ou outras situações análogas, o que não se observa neste caso.
+2. Negado provimento ao recurso.
+No recurso especial, a parte recorrente aponta violação do art. 31 do Código de Processo Penal, aduzindo que houve erro por parte da banca ao acrescentar o texto que causou confusão na interpretação, haja vista que doutrinadores ensinam quanto à observância taxativa da ordem de sucessão referida, apesar de não haver tal redação no art. 31 do CPP. No mais, aponta existência de divergência jurisprudencial quanto ao tema.
+Houve contrarrazões.
+Sobreveio juízo negativo de admissibilidade fundado na incidência das Súmulas 282 e 356/STF.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Conheço do agravo, porquanto refutada a motivação utilizada no juízo de admissibilidade.
+A parte recorrente alega malferimento do artigo supramencionado, que diz respeito ao item da prova objetiva do qual se pretende alterar o gabarito.
+No caso dos autos, não houve apreciação pelo Tribunal de origem sobre o dispositivo supostamente violado, o que impossibilita o julgamento do recurso neste aspecto, por ausência de prequestionamento, nos termos das Súmulas 282/STF e 356/STF, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"; "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Efetivamente, para a configuração do questionamento prévio não é necessário que o Tribunal de origem mencione expressamente o dispositivo infraconstitucional tido como violado. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não-preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso especial. Tal medida se justifica pelo simples fato de que não poderia o Tribunal de origem ter contrariado lei quanto a matéria que sequer tratou. A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONCURSO PÚBLICO. TESTE FÍSICO. ELIMINAÇÃO DO CANDIDATO. ART. 2º DA LEI 9.784/99. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. IMPUGNAÇÃO GENÉRICA DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. CLÁUSULA EDITALÍCIA E MATÉRIA FÁTICA. EXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO.
+1. A menção contida no acórdão recorrido aos "princípios" da proporcionalidade e da razoabilidade não importam, necessariamente, em prequestionamento do art. 2º da Lei 9.784/99, uma vez que se trata, na lição de Humberto ÁVILA, de verdadeiros postulados cuja finalidade é estruturar outras normas, princípios e regras (In "Teoria dos princípios: da definição à aplicação dos princípios jurídicos", 6. ed., São Paulo: Malheiros Editores, 2006, p. 138-139 e 149).
+2. Hipótese em que a insurgência contra o resultado do teste físico mostra-se genérica, uma vez que o agravante não demonstrou no recurso especial de que forma os requisitos impostos pela Administração estariam desvinculados da realidade e fora da presunção de normalidade implícita na regra editalícia. Incidência da Súmula 284/STF.
+3. A tese deduzida no recurso especial vincula-se, em última análise, à impugnação de critério objetivo previsto no edital do concurso público quanto ao teste físico aplicado aos candidatos, de modo que a revisão do entendimento firmado pelo Tribunal de origem esbarra nas Súmulas 5 e 7/STJ.
+4. Agravo regimental não provido.
+(AgRg no REsp 1375729/PE, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 13/08/2013, DJe 21/08/2013)
+Por fim, resta prejudicada a análise do dissídio jurisprudencial em virtude do óbice sumular aplicado à alínea "a" do permissivo constitucional.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
