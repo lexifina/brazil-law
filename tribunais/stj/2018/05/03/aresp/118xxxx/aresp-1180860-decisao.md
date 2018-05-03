@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manejado pela UNIÃO, desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 2ª Região, que não admitiu recurso especial com base na aplicação da Súmula 83/STJ, ao fundamento de que o acórdão recorrido foi proferido em consonância com a jurisprudência do Superior Tribunal de Justiça.
+Neste agravo, a parte agravante sustenta, em síntese, que "não se vislumbra a hipótese de incidência da Súmula nº 83 dessa Corte de Justiça, eis que o recurso interposto se fundamenta na alínea "a" do artigo 105, III, da Constituição Federal, além da matéria sub examine ser, no mínimo, de interpretação bastante controvertida" (fl. 327) e, desse modo, a inadmissão do recurso especial não pode prosperar.
+É o relatório.
+Inicialmente, consigna-se que não assiste razão à parte recorrente ao alegar que a instância de origem, ao realizar o juízo de admissibilidade do recurso especial, usurpou a competência do Superior Tribunal de Justiça. Isso porque, nos termos da Súmula 123/STJ ("A decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais."), é atribuição do Tribunal a quo, naquele momento processual, analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia. Confiram-se, nesse mesmo sentido, os seguintes precedentes: RCDESP no AREsp 211.716/SP, Rel. Ministro Raul Araújo, Quarta Turma DJe 25/9/2012; AgRg no Ag 1.424.298/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 27/10/2011; AgRg no Ag 1.147.395/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 12/11/2010; e AgRg no Ag 1.134.224/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe 2/2/2010.
+De outro lado, verifica-se que o inconformismo sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, como o recurso especial foi inadmitido tendo por base também a Súmula 83/STJ, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos. Nesse sentido: AgRg no REsp 1.254.077/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/11/2011. Ressalto que tal fundamento é autônomo e suficiente para a manutenção da decisão ora agravada.
+Insta destacar que o enunciado da Súmula 83/STJ é aplicável também nos recursos fundamentados na alínea "a".
+À propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182 DO STJ. SÚMULA 83 DO STJ. RECURSO INTERPOSTO COM BASE NA ALÍNEA "A" DO INCISO III DO ART. 105 DA CF. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de impugnação específica da fundamentação da decisão que não admite o recurso especial atrai a incidência, por analogia, do óbice previsto no enunciado da Súmula 182 do Superior Tribunal de Justiça.
+2. O enunciado da Súmula 83 do Superior Tribunal de Justiça é aplicável ao recurso especial fundado tanto na alínea "a" como na alínea"c" do inciso III do artigo 105 da Constituição Federal.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 290.413/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 19/6/2013)
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, não conheço do agravo.
+Publique-se.
