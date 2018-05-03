@@ -1,0 +1,10 @@
+DECISÃO
+KARLA MORGANA DE OLIVEIRA PAIVA e DANILO DA SILVA SANTOS, pacientes neste habeas corpus, alegam sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou o HC n. 2129439-74.2016.8.26.0000.
+Consta dos autos que, em 16/1/2016, os pacientes foram presos em flagrante e, posteriormente, denunciados pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, porque mantinham em depósito, com o objetivo de venderem a terceiros, 9,4 g de crack e 10,2 g de cocaína. Em 17/1/2016, a custódia foi convertida em preventiva.
+A impetrante sustenta a ocorrência de constrangimento ilegal, decorrente de excesso de prazo na custódia cautelar, porquanto os pacientes estão presos há quase 10 meses sem que a fase instrutória ainda tenha sido iniciada. Ainda, considera que "a r. decisão de primeira instância e o v. acórdão que negaram a revogação da prisão preventiva o fizeram sem expor fundamentação idônea e atrelada ao caso concreto, baseando-se exclusivamente na hediondez e na gravidade abstrata do delito" (fl. 3).
+Requer, liminarmente e no mérito, seja assegurado aos pacientes o direito de responderem em liberdade ao processo.
+Decido.
+Em atenção ao despacho de fl. 95, o Juízo da 3ª Vara Criminal da Comarca de Limeira - SP noticiou que, em 24/3/2018, sobreveio a prolação de sentença nos autos do processo objeto deste writ, havendo os pacientes sido condenados, cada um, à pena de 3 anos e 9 meses de reclusão, em regime inicial fechado, mais multa, como incursos no art. 33, caput e § 4º, da Lei n. 11.343/2006. Na ocasião, o Juiz sentenciante concedeu-lhes o direito de recorrer em liberdade.
+Assim, uma vez que os pacientes foram restituídos ao seu status libertatis, fica esvaída a análise da alegação de que não está evidenciada nenhuma das hipóteses previstas no art. 312 do Código de Processo Penal, bem como a de que estaria havendo excesso de prazo injustificado no trâmite do processo.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado este habeas corpus, pela perda do seu objeto.
+Publique-se e intimem-se.
