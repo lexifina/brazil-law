@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, inciso III, "a", da Constituição Federal.
+O Ministério Público Federal opinou pelo não provimento do recurso especial (e-STJ fls. 242/245).
+De início, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Dito isso, mediante análise dos autos, verifico que a inadmissão do especial se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha a parte agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, conforme ressaltado na decisão agravada, esbarrando, pois, no mencionado óbice.
+De fato, o Tribunal de origem consignou que foram preenchidos os requisitos necessários à concessão do benefício pensão por morte, inclusive a comprovação da qualidade de dependente da parte autora (e-STJ fl. 164). A revisão dessa conclusão demandaria o reexame do material fático-probatório dos autos, providência inviável em sede de recurso especial, diante do óbice da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. PENSÃO POR MORTE. COMPROVAÇÃO DA DEPENDÊNCIA ECONÔMICA DA GENITORA EM RELAÇÃO AO FILHO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Hipótese na qual a agravante objetiva o reconhecendo da sua condição de dependente em relação ao filho falecido e a consequente concessão de pensão por morte.
+2. Não há que se falar em violação do artigo 535 do CPC/1973, visto que o Tribunal de origem enfrentou devidamente as questões importantes para o deslinde da controvérsia, não se confundindo decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+3. Na espécie, o Tribunal de origem com base no acervo fático concluiu que a agravante não dependia economicamente do filho, mas de seu cônjuge. Assim, a reforma do acórdão recorrido demanda o revolvimento fático-probatório dos autos, o que encontra óbice no
+teor da Súmula 7/STJ.
+4. Agravo interno não provido. (AgInt no REsp 1.456.190/ES, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 10/11/2017)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. PENSÃO POR MORTE. QUALIDADE DE SEGURADO NÃO COMPROVADA. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC. 2. Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, assentou que o recorrido faz jus pensão por morte visto que não foi comprovada a qualidade de segurado do falecido: "No caso dos autos, observa-se que o último vínculo de atividade laborativa do falecido findou em 20/03/1991 (fl. 75), tendo sido mantida a qualidade de segurado até 15/04/1992, ou seja, 12 meses após a cessação da última contribuição. Dessa forma, o falecido perdera a qualidade de segurado em 15/05/1992, nos termo do art. 15, § 4º, da Lei 8.213/91" (e-STJ, fl. 140). Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ).
+3. Recurso Especial parcialmente conhecido e, nesta parte, não provido.
+(REsp 1659678/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/04/2017, DJe 11/05/2017)
+Registro, por oportuno, que o marco inicial de aplicação do Novo Código de Processo Civil é a intimação do decisum recorrido, a qual, no presente caso, foi realizada sob a égide do antigo Codex Processual. Assim, nos termos do Enunciado Administrativo nº 2 do STJ, "aos recursos interpostos com fundamento no CPC de 1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Por fim, não haverá arbitramento de honorários recursais, por se tratar de recurso interposto na vigência do Código de Processo Civil de 1973.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se.
+Intimem-se.
