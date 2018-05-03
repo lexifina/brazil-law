@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial, interposto por COMPANHIA EXCELSIOR DE SEGUROS, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São paulo, cujo teor ficou assim sintetizado (fls. 828/844, e-STJ):
+Ação de indenização securitária - Contratação imobiliária, vinculada ao SFH - Decisão saneadora que rejeitou questões processuais - Inconformismo - Não acolhimento - Expressa manifestação da CEF, indicando que não há interesse jurídico - Apólice privada - Petição inicial que não é inepta - Prescrição ânua afastada - Decisão mantida - Recurso desprovido.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial, a seguradora aponta, além de dissídio jurisprudencial, violação aos arts. 535 do CPC/73 e 1.º da Lei n.º 12.409/11. Sustenta, em síntese: a) negativa de prestação jurisdicional, ante a ausência de exame das questões alegadas quanto a legitimidade passiva da Caixa Econômica Federal - CEF e, por consequência, sua inclusão no feito; b) a incompetência da justiça estadual para julgar e processar o feito, porquanto a apólice segurada seria pública.
+Contrarrazões às fls. 988/999 (e-STJ).
+Após juízo positivo de admissibilidade (fls. 1.042/1.044, e-STJ), ascenderam os autos a esta Corte Superior de Justiça.
+É o relatório.
+Decido.
+O inconformismo não prospera.
+1. Quanto à apontada violação do artigo 535 do CPC/73, não assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia. (Precedentes: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01.09.2011, DJe 06.09.2011; REsp 1.264.044/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 01.09.2011, DJe 08.09.2011; AgRg nos EDcl no Ag 1.304.733/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23.08.2011, DJe 31.08.2011; AgRg no REsp 1.245.079/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16.08.2011, DJe 19.08.2011; e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09.08.2011, DJe 22.08.2011).
+2. Consoante se depreende dos autos, a Corte Estadual consignou que a Caixa Econômica Federal - CEF, por duas vezes no feito, tanto em primeiro quanto em segundo grau de jurisdição, expressamente se manifestou aduzindo, em ambas as oportunidades, que não possui interesse em integrar a presente demanda.
+É, aliás, o que se extrai do seguinte excerto do acordo recorrido (fl. 843, e-STJ):
+Com efeito, esvaziada a pretensão da agravante, no tocante ao deslocamento da competência, por conta da necessidade de intervenção da Caixa Econômica Federal, visto que houve expressa manifestação do agente financeiro, tanto na origem (fls. 582/583) como neste via recursal (fls. 806/810), dando conta da ausência de interesse jurídico, visto que não se trata de apólice pública.
+Em consonância com a observação registrada pela instância ordinária, verifica-se que a casa bancária objetivamente que "informamos que para o agravado [NOME] não há interesse da CAIXA na lide, por não haver enquadramento nas hipóteses previstas na Resolução do CCFCVS n.º 364/14" (fl. 810, e-STJ).
+Ora, diante do explícito desinteresse da empresa pública em integrar a demanda, não há que se falar em competência da justiça federal, nos termos do art. 109, I, CF.
+Concluindo, para derruir os sólidos e esclarecedores fundamentos acima alinhavados, seria imprescindível, para se reconhecer a competência da justiça federal, o revolvimento de todo o conjunto fático-probatório dos autos, o que é vedado pelo óbice insculpido na Súmula 07 do STJ.
+3. Ante o exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, nego provimento recurso especial.
+Publique-se. Intimem-se.
