@@ -1,0 +1,69 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. DIMINUIÇÃO DA PENA-BASE. FUNDAMENTO DA DECISÃO. SÚMULA N. 284/STF. NÃO IMPUGNAÇÃO. INCIDÊNCIA DA SÚMULA 182/STJ. CONFISSÃO ESPONTÂNEA. QUANTUM DE REDUÇÃO. PRESTAÇÃO PECUNIÁRIA. HIPOSSUFICIÊNCIA ECONÔMICA DO RÉU. SÚMULA 7/STJ. INABILITAÇÃO PARA DIRIGIR. UTILIZAÇÃO DO VEÍCULO PARA PRÁTICA DE CRIMES. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. "O agravo regimental que não infirma todos os fundamentos da decisão agravada não pode ser conhecido (Súmula 182 do STJ)." (AgRg no REsp 1.419.640/RN, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 2/5/2017, DJe 24/5/2017).
+2. Verificar o quantum de diminuição da pena adequado para o caso concreto em razão da confissão espontânea bem como reduzir a prestação pecuniária ante a hipossuficiência econômica do réu exigem o reexame do acervo fático-probatório. Súmula n. 7/STJ.
+3. "No caso, a sanção de inabilitação para dirigir veículo, como efeito secundário da condenação, encontra-se devidamente motivada, com amparo no Estatuto Repressor (art. 92, III), bem assim na jurisprudência desta Corte." (AgRg no REsp 1.497.218/PR, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 9/6/2015, DJe 19/6/2015)
+4. Agravo regimental parcialmente conhecido e, nessa extensão, não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, conhecer parcialmente do agravo regimental e, nessa parte, negar-lhe provimento. Os Srs. Ministros Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por [NOME] contra decisão monocrática proferida por esta Relatoria, às fls. 274-278 (e-STJ), que conheceu parcialmente do recurso especial, para, nessa extensão, negar-lhe provimento.
+Irresignado, o agravante sustenta a não incidência do óbice da Súmula 284/STF, aplicada por analogia, e daquele previsto na Súmula 7/STJ.
+Além disso, requer: (a) a redução em 1/6 da pena, pela confissão espontânea; (b) a fixação da pena pecuniária no mínimo legal; e (c) o afastamento da incidência do art. 92, III, do CP.
+Assim, pleiteia o provimento do agravo.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. DIMINUIÇÃO DA PENA-BASE. FUNDAMENTO DA DECISÃO. SÚMULA N. 284/STF. NÃO IMPUGNAÇÃO. INCIDÊNCIA DA SÚMULA 182/STJ. CONFISSÃO ESPONTÂNEA. QUANTUM DE REDUÇÃO. PRESTAÇÃO PECUNIÁRIA. HIPOSSUFICIÊNCIA ECONÔMICA DO RÉU. SÚMULA 7/STJ. INABILITAÇÃO PARA DIRIGIR. UTILIZAÇÃO DO VEÍCULO PARA PRÁTICA DE CRIMES. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. "O agravo regimental que não infirma todos os fundamentos da decisão agravada não pode ser conhecido (Súmula 182 do STJ)." (AgRg no REsp 1.419.640/RN, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 2/5/2017, DJe 24/5/2017).
+2. Verificar o quantum de diminuição da pena adequado para o caso concreto em razão da confissão espontânea bem como reduzir a prestação pecuniária ante a hipossuficiência econômica do réu exigem o reexame do acervo fático-probatório. Súmula n. 7/STJ.
+3. "No caso, a sanção de inabilitação para dirigir veículo, como efeito secundário da condenação, encontra-se devidamente motivada, com amparo no Estatuto Repressor (art. 92, III), bem assim na jurisprudência desta Corte." (AgRg no REsp 1.497.218/PR, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 9/6/2015, DJe 19/6/2015)
+4. Agravo regimental parcialmente conhecido e, nessa extensão, não provido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Inicialmente, observe-se que a decisão impugnada fundamentou a incidência do óbice da Súmula n. 284/STF, argumentando que o recorrente não demonstrou qual dispositivo da legislação federal havia sido supostamente violado. Confira-se:
+"Em relação à primeira fase da dosimetria, anote-se que a parte recorrente, nada obstante apontar a contradição do acórdão recorrido com precedentes do TJ/MS, não demonstra qual dispositivo da legislação federal foi violado pelo decisum impugnado. Com efeito, torna-se imperioso salientar que este Superior Tribunal de Justiça tem a função primordial, por meio do recurso especial, de uniformizar a interpretação e aplicação do direito federal infraconstitucional. Dessa forma, o conhecimento do recurso, seja ele interposto pela alínea "a", seja ele interposto pela alínea "c", do permissivo constitucional, exige, necessariamente, a indicação do dispositivo de lei federal que se entende por contrariado.
+ ..
+Portanto, na espécie, incide o óbice da Súmula 284/STF." (e-STJ, fls. 275-276)
+Nada obstante tal fundamento, o agravante apenas reiterou as razões que já havia apresentado no recurso especial, sem se insurgir contra o argumento principal do decisum, qual seja a ausência de demonstração de violação a dispositivo de lei. Para não haver dúvidas, confira-se as razões do agravo sobre o tema:
+"Em sede de decisão monocrática, o Ministro Relator não analisou o alegado pela defesa quanto ao aumento da pena-base em 4 (quatro) meses realizado pelo juízo de primeiro grau, sob o fundamento de incidência do óbice da súmula 284/STF.
+No entanto, tal entendimento não deve prosperar, pois, ao contrário do que afirma em seu bojo, o ora agravante fundamentou os pontos da decisão agravada, sem deixar dúvidas quanto a exata compreensão da controvérsia. Conforme se extrai do fragmento do recurso especial a seguir (c-STJ fl. 222):
+"O acórdão ora hostilizado entendeu como correta a dosimetria da pena realizada pelo douto juiz sentenciante, cuja realização deu preponderância à quantidade de tributos supostamente sonegada pelo assistido autorizando a negativização vetorial no patamar elevado na peba-base pela sentença recorrida tendo em vista, que ao contrário do que argumenta o Ministério Público, a soma dos tributos não ultrapassa o valor de RS 100.000,00".
+Evidencia, assim, a não incidência da Súmula 284/STF.
+Com efeito, preenchendo o recurso especial todos os requisitos legais requer que seja analisado o mérito pelo colegiado, em razão da visível desproporcional idade na incidência da vetorial que trouxe como conseqüência o aumento da pena-base em 4 (quatro) meses.
+De fato, este E. STJ entende que é possível a exasperação da pena-base pela análise do montante de crédito tributário suprido ou reduzido a partir da ação delituosa. Conforme se extrai da ementa a seguir, no entanto, veja que para se aumentar em tal monta, o valor tem que ser bem maior que o valor in casu :
+ ..
+Nota-se que no AgRg nos EDcl no REsp 1430089/GC), acima colacionado, a pena-base foi exasperada em 1 (um), tendo em vista o valor expressivo do prejuízo causado aos cofres públicos (6.000.000,00). O ora agravante teve a pena-base exasperada em 4 (quatro) meses, porém, a soma dos tributos não ultrapassa o valor de R$ 100.000,00.
+Desse modo, o aumento da pena-base em 4 (quatro) meses soa totalmente desproporcional, uma vez que o montante devido pelo ora agravante não é tão expressivo, não gerando graves conseqüências. Portanto, a valoração negativa do vetorial "circunstâncias do crime" é indevida." (e-STJ, fls. 285-287)
+Com efeito, como o agravante não impugnou, nesse ponto, o fundamento principal da decisão monocrática, conforme acima demonstrado, incide, na espécie o Enunciado n. 182 da Súmula do STJ. Nesse sentido: "o agravo regimental que não infirma todos os fundamentos da decisão agravada não pode ser conhecido (Súmula 182 do STJ)." (AgRg no REsp 1419640/RN, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 2/5/2017, DJe 24/5/2017).
+No que toca à Súmula n. 7/STJ, observe-se que, também aqui, a decisão recorrida não merece reforma.
+Conforme já asseverado, por esta Relatoria, em outra assentada, "o quantum de diminuição pelo reconhecimento da atenuante da confissão espontânea não está estipulado no Código Penal, de forma que devem ser observados os princípios da proporcionalidade, da razoabilidade, da necessidade e da suficiência à reprovação e à prevenção do crime, informadores do processo de aplicação da pena." (AgRg no HC 406.861/ES, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 10/10/2017, DJe 17/10/2017). No caso concreto, o Tribunal local anotou:
+"1.2 - Valoração da atenuante de confissão espontânea.
+Não há qualquer controvérsia acerca da incidência da atenuante da confissão espontânea na hipótese dos autos, porquanto a própria sentença determinou a redução da pena, na segunda fase da dosimetria, sob tal argumento. O debate recai sobre o quantum a ser valorado em razão de tal circunstância atenuante.
+No ponto, é importante considerar que não há fórmulas matemáticas rígidas para a fixação da pena. Tenho que decidiu de modo razoável o magistrado ao reduzir em 2 (dois) meses a pena que já era bastante comedida, não merecendo qualquer censura." (e-STJ, fl. 206)
+Assim, "a pretensão recursal  no sentido de se alterar o patamar da atenuante da confissão espontânea aplicado pelas instâncias ordinárias demandaria o revolvimento do acervo fático-probatório delineado nos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula n. 7/STJ." (AgRg no AREsp 1.205.861/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 6/3/2018, DJe 14/3/2018).
+Essa mesma sorte segue o pleito atinente à pena de prestação pecuniária. O Tribunal recorrido entendeu que o montante fixado em primeiro grau revelava-se adequado para a hipótese, apresentando a seguinte fundamentação:
+"1.3 - Prestação pecuniária.
+Pugna a defesa pela redução da prestação pecuniária, fixada em 3 (três) salários mínimos, ao argumento de que a penalidade afronta o princípio da proporcionalidade, haja vista sua hipossuficiência econômica do réu.
+Sem razão, contudo.
+Há que se ressaltar que a pena substitutiva de prestação pecuniária mantém a finalidade de prevenção e reprovação do delito, devendo guardar proporção ao dano causado pelo agente e sua condição financeira. Tendo em vista os parâmetros fixados no art. 45, § Io, do Código Penal, entendo que o valor arbitrado pelo magistrado de primeiro grau afigura-se plenamente adequado.
+Observo, por oportuno, que cabe ao juízo da execução dispor sobre as condições de cumprimento da pena, podendo, inclusive, autorizar o parcelamento do valor devido ou analisar eventual impossibilidade de adimplemento da obrigação." (e-STJ, fl. 206)
+Nestes termos, rever as conclusões a que chegou as instâncias ordinárias, nos moldes como requerido no presente recurso, demandaria, necessariamente, reexame do acervo fático-probatório dos autos, o que encontra óbice no enunciado da Súmula 7/STJ.
+Por derradeiro, o Tribunal local destacou que o recorrente utilizava-se de veículo automotor para a prática delitiva. Por isso, determinou-se a inabilitação:
+"No caso sob julgamento, está-se diante da prática de crime doloso cometido mediante a utilização de veículo automotor e do exercício irregular de um direito (habilitação para dirigir), o que atrai a aplicação do art. 92, III, do CP. A medida, além de sua adequação legal, encontra adequação social inegável, especialmente na região em comento, em que se verifica que o contrabando de mercadorias tem-se revelado altamente lucrativo para as organizações criminosas que se dedicam a essa atividade ilícita." (e-STJ, fl. 207, grifou-se).
+Assim, não merece censura o acórdão. Nesse sentido:
+"RECURSO ESPECIAL. EFEITOS EXTRAPENAIS DA CONDENAÇÃO. INABILITAÇÃO PARA DIRIGIR VEÍCULO AUTOMOTOR. NECESSIDADE DE FUNDAMENTAÇÃO DA MEDIDA.
+1. São requisitos objetivos para a imposição de inabilitação para dirigir veículo automotor a prática de crime doloso e a utilização do automóvel como meio para a realização do delito.
+2. Além dos requisitos objetivos e por não guardar necessariamente um efeito retributivo (por isso não tem aplicação automática), é exigido, também, que o juiz justifique a conveniência de sua imposição no caso específico.
+3. Na espécie, o Tribunal, além de apontar os requisitos objetivos, fundamentou a necessidade de aplicação da medida no caso concreto no fato de o réu fazer uso do veículo para transportar grande quantidade de mercadorias internalizadas ilegalmente, acrescentando que, devido à elevada quantidade, o transporte deveria ser feito por automóvel, bem como também indicaria uma destinação comercial para o produto ilegal.
+4. Recurso especial não provido."
+(REsp 1.505.722/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/3/2015, DJe 6/4/2015).
+"PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DESCAMINHO. ATENUANTE DE CONFISSÃO. INOVAÇÃO RECURSAL. INABILITAÇÃO PARA DIRIGIR VEÍCULO. POSSIBILIDADE.
+1. No que diz respeito à incidência da atenuante de confissão, prevista no art. 65, III, "d", do Código Penal, observa-se que a matéria não foi suscitada nas razões do apelo especial, constituindo pois, inovação recursal, o que inviabiliza o seu exame.
+2. Compete ao magistrado deliberar sobre a aplicação dos efeitos secundários da condenação, previstos no art. 92 do Código Penal, devendo, contudo, declinar os fundamentos para a adoção dessas medidas.
+3. No caso, a sanção de inabilitação para dirigir veículo, como efeito secundário da condenação, encontra-se devidamente motivada, com amparo no Estatuto Repressor (art. 92, III), bem assim na jurisprudência desta Corte.
+4. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1.497.218/PR, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 9/6/2015, DJe 19/6/2015).
+Ante o exposto, conheço parcialmente do agravo regimental, para, nessa extensão, negar-lhe provimento.
+É o voto.
