@@ -1,0 +1,27 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da Primeira Turma Cível e Criminal do Colégio Recursal de Bragança Paulista do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 9, p. 3):
+    “SERVIDOR ESTADUAL – POLICIAL MILITAR INATIVO – Preliminar de incompetência do Juízo afastada – matéria versa sobre averbação e apostilamento de tempo de serviço. Cômputo do tempo de serviço prestado na iniciativa privada para fins de revisão dos proventos proporcionais – admissibilidade – Art. 42 da CF e art. 132 da Constituição Estadual asseguram a contagem desse tempo para efeito de aposentadoria – incabível distinguir entre aposentadoria a pedido e compulsória. Sentença mantida.
+    Recurso IMPROVIDO.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 201, § 9º, da Constituição Federal.
+    Nas razões recursais, sustenta-se que “o ordenamento legal aplicável é expresso ao estabelecer que a autorização do cômputo de tempo de serviço prestado a empresas privadas restringe-se à hipótese de reforma à pedido e não à hipótese de reforma ex officio, como é o caso aqui tratado.” (eDOC 10, p. 6-7).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento do recurso inominado, manteve a sentença por seus próprios fundamentos. Reproduzo alguns trechos da referida sentença (eDOC 6, p. 1-3):
+    “O ponto controvertido na lide é pelo reconhecimento do tempo de contribuição previdenciária recolhido na iniciativa privada, para fins de aposentadoria no serviço público, inclusive “ex officio”, com percebimento de proventos integrais e não proporcionais.
+    (…)
+    É inadmissível conceder tratamento diferenciado e mais favorável ao policial que requereu sua aposentadoria voluntariamente, permitindo para ele a contagem recíproca, em detrimento daquela que foi reformado “ex officio” por ter atingido a idade-limite.
+    A distinção mostra-se incompatível com o art. 201, parágrafo 9º da Constituição Federal, que assim dispõe:
+    Art. 201: A previdência social será organizada sob a forma de regime geral, de caráter contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio financeiro e atuarial, e atenderá, nos termos da lei, a:
+    (…)
+    § 9º Para efeito de aposentadoria, é assegurada a contagem recíproca do tempo de contribuição na administração pública e na atividade privada, rural e urbana, hipótese em que os diversos regimes de previdência social se compensarão financeiramente, segundo critérios estabelecidos em lei.
+    Na ordem estadual, o direito também se verifica:
+    Art. 132: Os servidores titulares de cargos efetivos do Estado, incluídas suas autarquias e fundações, desde que tenham completado cinco anos de efetivo exercício, terão computado, para efeito de aposentadoria, nos termos da lei, o tempo de contribuição ao regime geral de previdência social decorrente de atividade de natureza privada, rural ou urbana, hipótese em que os diversos sistemas de previdência social se compensarão financeiramente, segundo os critérios estabelecidos em lei.
+    Neste caso, a parte autora trabalhou em período anterior ao ingresso na Corporação, na iniciativa privada, com o devido recolhimento da contribuição previdenciária, devendo ser considerado esse período para fins de aposentadoria, em consonância ao dispositivo constitucional, pouco importando se a reforma ocorreu “ex officio”, uma vez que não existe óbice legal.”
+    Na espécie, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Constituição Estadual) e por meio do exame de fatos e provas. Desse modo, a controvérsia relativa ao entendimento de que é devido ao recorrido, para fins de aposentadoria, o cômputo do tempo de serviço prestado na administração pública e na atividade privada independentemente de a reforma ter sido realizada a pedido ou ex officio revela-se adstrita ao âmbito da legislação local, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Nesse sentido:
+    "Agravo regimental em recurso extraordinário. 2. Direito Previdenciário. 3. Conversão do tempo de serviço comum em especial. Cômputo para fins de aposentadoria. Violação ao direito adquirido. Não ocorrência. 4. Impossibilidade de análise de legislação infraconstitucional e de reexame de matéria fático-probatória. Súmula 279. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento." (RE 1.027.221-AgR, Min. Rel. Gilmar Mendes, Segunda Turma, DJe 13.9.2017).
+      "DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AVERBAÇÃO DE TEMPO DE SERVIÇO. SÚMULA 279/STF. PRECEDENTES. 1. Hipótese em que a resolução da controvérsia demandaria o reexame dos fatos e do material probatório constantes nos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. Precedentes. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973." (ARE 770.766-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 24.10.2016).
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+    Publique-se.
+    Brasília, 03 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
