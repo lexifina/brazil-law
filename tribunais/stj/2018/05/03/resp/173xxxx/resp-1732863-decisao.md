@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no artigo 105, III, a, da Constituição da República, contra acórdão proferido pela Sétima Câmara Criminal Extraordinária do Tribunal de Justiça do Estado de São Paulo, que negou provimento à apelação da defesa para manter a condenação do recorrente às penas de 5 (cinco) anos e 6 (seis) meses de reclusão, no regime inicial fechado, e pagamento de 13 (treze) dias-multa, pela prática do crime descrito no artigo 157, § 2º, incisos I e II, do Código Penal.
+O recorrente defende, em resumo, ter havido violação dos artigos 33, § 2º, e 59 do Código Penal, pois o regime inicial mais rigoroso foi fixado com fundamento apenas na gravidade abstrata do delito.
+Requer, ao final, o provimento do apelo para que seja adotado o regime prisional semiaberto.
+Contrarrazoado o recurso (fls. 581/586) e após o Juízo prévio de admissibilidade (fl. 589), os autos ascenderam a esta Corte Superior de Justiça.
+Instada a se manifestar na condição de curadora da lei, a Procuradoria-Geral da República opinou pelo desprovimento do apelo nobre (fls. 606/609).
+É o relatório.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame do recurso.
+Acerca da questão relativa ao modo de cumprimento da pena de privação de liberdade, a Sétima Câmara Criminal Extraordinária do TJSP assim decidiu:
+No que concerne ao regime prisional imponível à espécie, insta conservar-se a adoção da modalidade inicial fechada, haja vista o montante de reprimenda privativa de liberdade imposto ao recorrente e a gravidade concreta da hipótese vertente (sobretudo a grave ameaça empregada contra a vítima) - ex vi do disposto no artigo 33, § 3º, do Código Penal. (fl. 543/544)
+Do trecho acima, depreende-se que a Colegiado estadual determinou o cumprimento inicial da reprimenda corporal no regime fechado, considerando apenas a gravidade abstrata do crime de roubo - uma vez que a grave ameaça constitui elementar desse delito -, sem discorrer sobre qualquer circunstância concreta dos fatos elucidados que autorizaria a imposição do modo mais gravoso.
+Essa decisão diverge do entendimento sedimentado no STJ acerca da questão, o qual veda a fixação do regime inicial mais gravoso com base tão-somente na gravidade abstrata do delito, sobretudo quando a pena-base for estabelecida no mínimo legal.
+A propósito, transcreve-se o enunciado da Súmula 440 do STJ:
+Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Cumpre destacar que a mera opinião em abstrato do julgador acerca do crime não constitui justificativa idônea para a fixação de regime prisional mais gravoso, sobretudo na hipótese dos autos, em que o condenado é primário, não possui maus antecedentes e a pena-base foi fixada no mínimo legal.
+Esse entendimento tem sido reforçado em diversos julgados do STJ, dos quais destaca-se:
+CONSTITUCIONAL. PROCESSUAL PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. ROUBO DUPLAMENTE CIRCUNSTANCIADO. CRITÉRIO MATEMÁTICO DE AUMENTO NA TERCEIRA FASE DA DOSIMETRIA. FUNDAMENTAÇÃO INIDÔNEA. SÚMULA 443 DO STJ. PENA-BASE FIXADA NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. REGIME INICIAL DE CUMPRIMENTO DA PENA. SÚMULA 440 DO STJ E SÚMULAS 718 E 719 DO STF. HABEAS CORPUS NÃO CONHECIDO. CONCESSÃO DA ORDEM, DE OFÍCIO, PARA REDUZIR AS SANÇÕES APLICADAS AOS PACIENTES E PARA FIXAR O REGIME SEMIABERTO DE CUMPRIMENTO DA PENA PARA UM DELES.  ..
+3. "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito" (STJ, Súmula 440; STF, Súmulas 718 e 719).
+4. Habeas corpus não conhecido. Concessão da ordem, de ofício, para redimensionar as penas aplicadas aos pacientes e para fixar o regime semiaberto para cumprimento inicial da pena de [NOME].
+(HC 297.604/RJ, Rel. Min. NEWTON TRISOTTO (DES. DO TJ/SC), QUINTA TURMA, julgado em 2/10/2014, DJe 10/10/2014 - negritou-se)
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. DESVIRTUAMENTO. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Compete ao juiz natural da causa indicar, à luz do artigo 33 do Código Penal, motivadamente, qual o regime inicial para o cumprimento da reprimenda, não sendo possível coarctar-lhe a consideração de fatores que, associados e complementares à dogmática penal, indiquem como necessária, para o alcance dos fins da pena, a imposição de regime mais gravoso do que indicaria a mera correspondência da quantidade da pena à previsão legal.
+2. A fixação do regime inicial fechado teve fundamentação inidônea, visto que, apesar da primariedade da condenada, das circunstâncias judiciais favoráveis e do quantum de pena (5 anos e 4 meses de reclusão), o regime carcerário inicial foi estabelecido com base na gravidade abstrata do delito, em afronta aos enunciados das Súmulas n. 440 do STJ e n. 718 e 719 do STF.
+3. Na hipótese dos autos, tanto na sentença quanto no acórdão, a imposição do regime prisional fechado está motivada na gravidade abstrata do delito e em erro quanto à premissa sobre a qual se desenvolveu a motivação judicial, qual seja, o emprego de arma de fogo, haja vista ter sido o roubo cometido com uso de uma faca.
+4. Habeas corpus não conhecido. Ordem concedida de ofício para fixar o regime inicial semiaberto ao paciente.
+(HC 278.204/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/9/2014, DJe 15/9/2014 - negritou-se)
+O Supremo Tribunal Federal também possui jurisprudência no mesmo sentido, consolidada nas Súmulas 718 e 719, que assim determinam, respectivamente:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Dessa forma, necessária a reforma do acórdão recorrido, uma vez que definição do modo prisional mais gravoso careceu de fundamentação idônea.
+Diante dos elementos concretos acima apresentados e a teor do disposto no artigo 33, § 2º, b, do Código Penal, tratando-se de acusado primário e tendo sido fixada a pena-base no mínimo legal, o regime inicial semiaberto é o que se revela mais adequado.
+Diante do exposto, com fundamento no artigo 255, § 4º, III, do Regimento Interno do Superior Tribunal de Justiça, dá-se provimento ao recurso especial para fixar o modo semiaberto para o resgate inicial da pena privativa de liberdade.
+Publique-se. Intimem-se.
