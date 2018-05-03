@@ -1,0 +1,36 @@
+EMENTA
+ADMINISTRATIVO. PENSÃO ESPECIAL. EX-COMBATENTE. EXAME DE VIOLAÇÃO À NORMA CONSTITUCIONAL. DESCABIMENTO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL TIDO COMO VIOLADO. SÚMULA 284/STF. ALTERAÇÃO DO JULGADO QUE DEMANDA O REEXAME DOS ASPECTOS FÁTICOS DA CAUSA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Descabe a interposição de Recurso Especial quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de Lei Federal, conforme comandos exarados dos arts. 102, III, e 105, III, da CF/1988.
+2. Consoante a jurisprudência assentada pelo Superior Tribunal de Justiça, a interposição do Recurso Especial, tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional, não dispensa a indicação do dispositivo de Lei Federal que o Tribunal de origem teria violado ou ao qual teria dado interpretação divergente daquela firmada por outros tribunais. O não cumprimento de tal requisito, como no caso em apreço, importa deficiência de fundamentação, atraindo a incidência do óbice previsto na Súmula 284/STF.
+3. Acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos fáticos da causa, o que é obstado, em Recurso Especial, pela Súmula 7/STJ.
+4. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+Exmo. Sr. MINISTRO HERMAN BENJAMIN - Relator: Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, objetivando a reforma do acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+ADMINISTRATIVO. PENSÃO ESPECIAL. CONDIÇÃO DE EX-COMBATENTE. NÃO COMPROVAÇÃO. ZONA DE GUERRA.
+1. A pensão especial de ex-combatente pode ser requerida a qualquer tempo, nos termos do art. 53, II, do ADCT da CF de 1988, o que permite concluir pela imprescritibilidade do fundo de direito.
+2. A condição de ex-combatente é ostentada não apenas por aqueles que participaram da Segunda Guerra Mundial no Teatro de Operações da Itália, mas também por quem que fora deslocado para cumprimento de missão de vigilância do litoral em solo pátrio, afastando-se de sua base, assim como pelos integrantes da marinha mercante que realizaram viagens a zonas de ataques de submarinos.
+3. Para a comprovação da referida condição, deve-se atentar para os ditames do artigo 1º da Lei 5.315/67, que estabelece os documentos hábeis para a referida caracterização. Com efeito, o seu § 3º estabelece que mesmo o registro de serviço em Zona de Guerra, isoladamente, é insuficiente ao reconhecimento do pleito (fl. 235, e-STJ).
+Nas razões do Recurso Especial (fls. 242-266, e-STJ), a parte recorrente sustenta, além de divergência jurisprudencial, violação do art. 53 da ADCT e da Lei 5.315/1967. Defende, em suma, o reconhecimento da condição de ex-combatente do falecido e, por consequência, o direito à pensão especial, na condição de sua companheira.
+Apresentadas as contrarrazões (fls. 279-288, e-STJ), o recurso foi inadmitido na origem (fl. 291-292, e-STJ), o que ensejou a interposição de Agravo (fls. 301-329, e-STJ).
+Para melhor análise da controvérsia, foi dado provimento ao Agravo, determinando-se sua conversão em Recurso Especial (fl. 354, e-STJ).
+É o relatório.
+VOTO
+Exmo. Sr. MINISTRO HERMAN BENJAMIN - Relator: Os autos foram recebidos neste gabinete em 2 de março de 2018.
+A irresignação não merece prosperar.
+De início, consigne-se que não cabe ao Superior Tribunal de Justiça, em Recurso Especial, examinar suposta violação a dispositivos constitucionais, conforme comandos exarados dos arts. 102, III, e 105, III, da CF/1988.
+No mais, verifica-se da leitura das razões recursais que a parte recorrente deixou de apontar qual o dispositivo da Lei 5.315/1967 que teria sido maculado.
+Consoante a jurisprudência assentada por esta Corte Superior, a interposição do Recurso Especial, tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional, não dispensa a indicação do dispositivo de Lei Federal que o Tribunal de origem teria violado ou ao qual teria dado interpretação divergente daquela firmada por outros tribunais. O não cumprimento de tal requisito, como no caso em apreço, importa deficiência de fundamentação, atraindo a incidência do óbice previsto na Súmula 284/STF.
+A propósito, confiram-se os seguintes precedentes:
+PROCESSO CIVIL E ADMINISTRATIVO. EMBARGOS DE DIVERGÊNCIA. DIVERGÊNCIA NOTÓRIA. NÃO DEMONSTRAÇÃO. FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO.
+1. Três foram os motivos para o não conhecimento do recurso especial interposto pela alínea "c" do permissivo constitucional: a) inexistência de dissídio notório em torno do quantum indenizatório fixado em razão dos danos morais; b) simples transcrição de ementas não serve para comprovar divergência; c) não indicação do dispositivo legal para configuração do dissídio jurisprudencial.
+2. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados, é imprescindível a indicação do dispositivo de lei tido por violado quer recurso tenha sido interposto pela alínea "a" ou pela "c" do permissivo constitucional. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial (AgRg no REsp 1.346.588/DF, Rel. Min. Arnaldo Esteves Lima, DJe 17.3.2014).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PEÇA OBRIGATÓRIA. ART. 525, I, DO CPC. NÃO CONHECIMENTO.
+I - A jurisprudência desta Corte considera deficiente a fundamentação do recurso que não aponta o dispositivo de lei federal violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+(..).
+V - Agravo Regimental improvido (AgRg no REsp 1.365.477/MS, Rel. Min. Regina Helena Costa, DJe 4.2.2016).
+Não obstante isso, o entendimento da Corte de origem está fundamentado no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, em razão da incidência do enunciado da Súmula 7 do STJ.
+Diante do exposto, não conheço do Recurso Especial.
+É o voto.
