@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício próprio por WAGNER ROGERIO NEVES DE SOUZA, contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, no julgamento do (HC n. 42423/2016).
+Infere-se dos autos que o recorrente foi preso preventivamente e pronunciado pela suposta prática do delito tipificado no art. 121, § 2º, incisos I e IV, do Código Penal (homicídio duplamente qualificado).
+Irresignada, a defesa impetrou mandamus perante o Tribunal de origem, que denegou a ordem, em acórdão assim ementado:
+HABEAS CORPUS- HOMICÍDIO QUALIFICADO - PRISÃO PREVENTIVA - INCONFORMISMO - NEGATIVA DE AUTORIA - IMPROPRIEDADE DA VIA ELEITA - PRESENTES INDÍCIOS MÍNIMOS DE AUTORIA - PACIENTE JÁ PRONUNCIADO PELO DELITO DE HOMICÍDIO QUALIFICADO - RÉU ADVOGADO - ADUZIDA A INEXISTÊNCIA DE SALA DE ESTADO MAIOR  ART. 7, V, ESTATUTO DO ADVOGADO  - ALMEJADA A TRANSFERÊNCIA OU PRISÃO DOMICILIAR - DESCABIMENTO - DETERMINADA A TRANSFERÊNCIA PARA ESTABELECIMENTO CONDIGNO - AVENTADO EXCESSO DE PRAZO - INOCORRÊNCIA - MARCHA COMPATÍVELCOM A COMPLEXIDADE DO FEITO - CONTRIBUTO DA DEFESA AO ELASTÉRIO - ASSERIDA A INEXISTÊNCIA DE FUNDAMENTAÇÃO E DOS REQUISITOS AUTORIZADORES DA SEGREGAÇÃO CAUTELAR  ART. 312, CPPJ - IMPROCEDÊNCIA - GARANTIA DA ORDEM PÚBLICA, DA APLICAÇÃO DA LEI PENAL E DA INSTRUÇÃO PROCESSUAL - DEMONSTRADA A NECESSIDADE DA CUSTQDIA - IMPOSSIBILIDADE DE SUBSTITUIÇÃO DO CLAUSTRO POR MEDIDA CAUTELAR MENOS GRAVOSA - EXISTÊNCIA DE PREDICADOS - IRRELEVÂNCIA - ORDEM DENEGADA (fl. 52).
+Na presente mandamus, o impetrante informa que foi preso preventivamente em 9/10/2015. Sustenta a existência de constrangimento ilegal consistente na manutenção da prisão do paciente em cela comum. Alega afronta ao art. 7º, V, da Lei 8.906/94, que assegura a prerrogativa de prisão em Sala de Estado Maior ao advogado.
+Salienta que, na ausência de estabelecimento condigno com as instalações asseguradas para recolhimento de advogado, deve ser deferida a prisão domiciliar ou, alternativamente, em unidade militar, sendo inadmissível sua manutenção em cela comum, misturado com outros presos civis e criminais.
+Ressalta as condições pessoais favoráveis, requerendo, assim, em liminar e no mérito, a determinação do cumprimento da prisão preventiva em regime domiciliar e, alternativamente, a revogação da prisão preventiva, com expedição de alvará de soltura e aplicação de medidas cautelares diversas, se for o caso.
+O pedido de liminar foi indeferido (fls. 296). As informações foram prestadas pelas instâncias ordinárias (fls. 304/309 e 311/728).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fl. 737/743).
+É o relatório.
+Decido.
+Verifico que há pedido idêntico formulado no RHC 87.700/MT de minha relatoria, julgado prejudicado ante a superveniência de sentença absolutória. Em ambos os processos o paciente é o mesmo, a ação penal originária é a mesma e a defesa também pleiteia o deferimento de prisão domiciliar.
+Nesse contexto, é inadmissível o conhecimento do writ, tendo em vista a impossibilidade de reiteração de pedidos, conforme a jurisprudência pacífica deste Tribunal, consoante se extrai dos seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA DA PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. RECURSO ORDINÁRIO NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+I - Impossibilidade de conhecimento do recurso ordinário em habeas corpus, quanto à alegação de inidoneidade na fundamentação da segregação cautelar, por se tratar de reiteração de pedido já apreciado no julgamento do HC n. 364.576/SP. Naquela oportunidade, embora o writ não tenha sido conhecido por se tratar de substitutivo de recurso próprio, a tese foi examinada pela Quinta Turma, uma vez que, caso houvesse flagrante ilegalidade, seria possível a concessão da ordem de ofício, conforme jurisprudência pacífica desta Corte Superior.
+II - Pronunciado o réu, resta superada a alegação de constrangimento ilegal da prisão por excesso de prazo na instrução (Súmula n.
+21/STJ).
+III - Ademais, "não constitui constrangimento ilegal o excesso de prazo na instrução, provocado pela defesa" (Súmula n. 64/STJ).
+Agravo regimental desprovido.
+(AgRg no RHC 76.470/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 03/04/2017)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO. REITERAÇÃO DE PEDIDO. NÃO CONHECIMENTO. EXCESSO DE PRAZO NÃO CARACTERIZADO. INCIDÊNCIA DA SÚMULA 52/STJ. RECURSO PARCIALMENTE CONHECIDO E, NESTA PARTE, DESPROVIDO.
+1. A tese relativa à legalidade do decreto de prisão preventiva já foi analisada por esta Corte, por ocasião do julgamento do RHC 66.086/MG, o que impede o conhecimento do recurso no ponto, por se tratar de mera reiteração de pedido.
+2. Inexiste excesso de prazo no caso dos autos, pois o processo segue sua marcha regular, não havendo falar em desídia por parte do Poder Judiciário. Eventual retardo no término da instrução processual deveu-se à complexidade do feito, que conta com 2 réus, denunciados por 2 crimes, e à necessidade de expedição de carta precatória para oitiva de 9 (nove) testemunhas.
+3. "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade, não se ponderando a mera soma aritmética dos prazos para a realização dos atos processuais" (RHC 58.140/GO, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 17/09/2015, DJe 30/09/2015).
+4. Ademais, verifica-se que as alegações finais já foram apresentadas, o que atrai a incidência da Súmula 52 do STJ, que dispõe: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+5. Recurso ordinário em habeas corpus parcialmente conhecido e, nesta parte, desprovido.
+(RHC 70.025/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 17/06/2016)
+Ante o exposto, nos termos do art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Ficam prejudicados o agravo regimental interposto às fls. 894/969 e o pedido de reconsideração de fl. 973/997.
+Publique-se.
+Intime-se.
