@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo interno, interposto por [NOME], contra decisão monocrática (fls. 460/462, e-STJ), da lavra deste signatário, que negou provimento ao agravo (art. 1042 do CPC/2015), mantendo a inadmissibilidade do recurso especial.
+O apelo nobre, de sua vez, foi interposto com fundamento no artigo 105, inciso III, alínea "c" da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de [NOME] Catarina, assim ementado (fl. 397/398, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. SENTENÇA DE PARCIAL PROCEDÊNCIA. PEDIDO PRELIMINAR DE JUSTIÇA GRATUITA. INDEFERIMENTO EM PRIMEIRO GRAU. COMPROVANTE DE RENDIMENTOS QUE DENOTA A HIPOSSUFICIÊNCIA FINANCEIRA DO APELANTE. DEFERIMENTO. MÉRITO. CONVERSÃO À ESQUERDA. TRAJETÓRIA DE MOTOCICLETA QUE VINHA NA DIREÇÃO CONTRÁRIA INTERCEPTADA. RESPONSABILIDADE CIVIL SUBJETIVA. EXEGESE DO ART. 186 DO CÓDIGO CIVIL. SUSCITADA TEORIA DA CAUSALIDADE. ALEGADA CULPA EXCLUSIVA DO AUTOR. NÃO ACOLHIMENTO. EVENTUAL EXCESSO DE VELOCIDADE QUE NÃO AFASTA A RESPONSABILIZAÇÃO DO CAUSADOR DO DANO. FATOR NÃO PREPONDERANTE. CULPA EXCLUSIVA DO APELANTE. OBRIGAÇÃO DE INDENIZAR.
+I - Em ações de reparação de danos decorrentes de acidente de trânsito, com supedâneo no art. 186 do Código Civil, a culpa dá-se na modalidade in committendo, daí nascendo a obrigação de ressarcir os prejuízos causados por ato imprudente.
+II - A realização de manobra de cruzamento, por si só, é considerada perigosa, exigindo a cautela do motorista, o qual deve se ater às condições do tempo e da via, assim como a velocidade empregada por veículos que transitam pela outra faixa de circulação. No caso concreto, vislumbra-se a imprudência do apelante, que prepondera, inclusive, sobre eventual excesso de velocidade por parte do apelado, que não pode ser considerada causa determinante do sinistro.
+DANOS MATERIAIS, MORAIS E ESTÉTICOS COMPROVADOS. PLEITO DE MINORAÇÃO. MANUTENÇÃO DO VALOR ARBITRADO. ATENDIMENTO DO BINÔMIO RAZOABILIDADE E PROPORCIONALIDADE. PENSÃO MENSAL VITALÍCIA DEVIDA. CONFIRMADA REDUÇÃO DA CAPACIDADE POR LAUDO PERICIAL. RECURSO PARCIALMENTE PROVIDO APENAS PARA PARA DEFERIR O BENEFÍCIO DA JUSTIÇA GRATUITA AO APELANTE.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (fls. 412/422, e-STJ), o ora agravante apontou dissídio jurisprudencial, sob a alegação de ofensa ao artigo 950 do Código Civil.
+Alegou que o pensionamento é devido apenas quando comprovada a incapacidade para o trabalho. Sustentou que não ficou demonstrado que à época do evento o recorrido estava trabalhando e qual a sua profissão. Afirmou que não foi levada em conta sua capacidade financeira.
+Não foram apresentadas contrarrazões.
+Inadmitido o apelo nobre, adveio o agravo (fls. 437/447, e-STJ), visando destrancar a insurgência, no qual a agravante refutou os óbices aplicados pelo Tribunal de origem.
+Sem contraminuta.
+Em decisão monocrática (fls. 460/462, e-STJ), este signatário negou provimento ao reclamo em razão da ausência de demonstração do dissídio jurisprudencial.
+Irresignada, a insurgente interpõe agravo interno (fls. 466/473, e-STJ) aduzindo, em síntese, que o dissídio jurisprudencial foi comprovado.
+Sem impugnação.
+É o relatório.
+Ante as razões expendidas no agravo interno, reconsidero a decisão monocrática anteriormente proferida (fls. 460/462, e-STJ) e, ato contínuo, passo a novo exame do agravo em recurso especial.
+1. Ainda que reconsiderada a decisão anterior, o recurso especial não merece provimento. Defende o recorrente a tese de que o pensionamento não é devido pois o recorrente não foi declarado incapaz para o trabalho. Com relação ao pensionamento, o acórdão assim consignou (fl. 408, e-STJ):
+A sentença de origem arbitrou pensão mensal em favor do apelado no patamar de 70% do salário mínimo até o seu óbito, levando em consideração a conclusão da perícia, depois de constatada redução da capacidade em razão do sinistro, no percentual de 25% (vinte e cinco por cento) do fêmur e 50% (cinquenta por cento) do joelho.
+De acordo com o apelante, a referida lesão não justifica tamanha condenação, até porque o apelado não ficou incapaz para o trabalho ou exercício do cotidiano.
+Sobre o assunto, a Corte de Justiça Catarinense tem entendido que "a legislação não exige a incapacidade total do lesionado para o trabalho. Basta que as conseqüências da lesão resultem em prejuízo duradouros à capacidade laborativa do acidentado, impossibilitando-lhe de auferir o mesmo padrão que possuía antes do evento danoso" (Apelação Cível n. 2002.020029-3, de São Bento do Sul, rela. Desa. [NOME], j. 31-5-2005).
+Em que pese não ter ficado demonstrada a atividade de pedreiro do apelado, tal situação não é capaz, por si só, de afastar o pensionamento, já que, na época do acidente, a vítima possuía 19 anos de idade e, por óbvio, alguma atividade laboral exercia ou viria a exercer ao longo da vida, de tal forma que o sinistro poderá influenciar, inclusive, o leque de oportunidades laborativas, diante das limitações ocasionadas pelo acidente.
+De outra banda, considerando que não há provas nos autos dos valores que o apelado auferia na época em que ocorreu o acidente, agiu com acerto magistrado a quo em fixar a pensão com base no salário mínimo.
+E, ainda, considerando que a perícia foi conclusiva em redução da capacidade laborativa em grau leve para os trabalhos que vinha e vem realizado (fl. 227), entende-se que a manutenção do patamar de 70% (setenta por cento) do salário mínimo é medida que se impõe.
+Com efeito, o Superior Tribunal de Justiça já decidiu que "A pensão mensal é devida pela diminuição da capacidade laborativa, ainda que a vítima, em tese, esteja capacitada para exercer outras atividades" (REsp 1433566/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/05/2017, DJe 31/05/2017).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CULPA. SÚMULA 7/STJ. DANOS MORAIS. REVISÃO DO VALOR. DISSÍDIO JURISPRUDENCIAL. NÃO CARACTERIZADO. REDUÇÃO DA CAPACIDADE PARA O TRABALHO. PENSÃO MENSAL DEVIDA. ART. 475-Q DO CPC.
+PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF.
+1. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+2. Em sede de recurso especial, é possível reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Precedentes.
+3. O recurso especial, interposto com base na alínea "c", do artigo 105, da Constituição Federal, deve conter a comprovação da similitude fática dos julgados e o cotejo analítico entre os acórdãos.
+4. É devido o pensionamento vitalício pela diminuição da capacidade laborativa decorrente das sequelas irreversíveis, mesmo estando a vítima, em tese, capacitada para exercer alguma atividade laboral, pois a experiência comum revela que o portador de limitações físicas tem maior dificuldade de acesso ao mercado de trabalho, além da necessidade de despender maior sacrifício no desempenho do trabalho.
+5. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 295.985/ES, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/10/2013, DJe 13/11/2013; grifou-se)
+Logo, a decisão exarada pela Corte estadual está em consonância com o entendimento deste Tribunal, incidindo, na hipótese, a Súmula 83/STJ.
+2. No que diz respeito à suposta falta de condição financeira do recorrente para o pagamento das indenizações, que teriam sido fixadas em caráter exorbitante, não há, na fundamentação do recurso especial, a indicação adequada da questão federal controvertida, tendo deixado a parte recorrente de apontar os dispositivos de lei federal tidos por violados, bem como de informar de que modo a legislação federal foi violada ou teve negada sua aplicação, incidindo, na espécie, o óbice da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Ressalte-se que o único dispositivo legal que foi apontado como violado foi o artigo 950 do Código Civil, que trata da pensão.
+Sobre o tema:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MÉDICO. RESPONSABILIDADE. DANOS MORAIS. VALOR DA INDENIZAÇÃO. PENSÃO. HONORÁRIOS ADVOCATÍCIOS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. ATUALIZAÇÃO MONETÁRIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO OU OBJETO DE INTERPRETAÇÃO DIVERGENTE. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+ ..
+4. O conhecimento do recurso especial, fundamentado na alínea "a" ou na alínea "c" do permissivo constitucional, exige a indicação dos dispositivos legais supostamente violados ou que foram objeto de interpretação divergente. Ausente tal requisito, incide a Súmula n. 284/STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1034448/AM, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/06/2017, DJe 16/06/2017; grifou-se)
+2. Do exposto, dou provimento ao presente agravo interno a fim de reconsiderar a decisão monocrática anteriormente proferida (fls. 460/462, e-STJ) para, de plano, negar provimento ao agravo (art. 1042 do CPC/15) por outros fundamentos.
+Publique-se.
+Intimem-se.
