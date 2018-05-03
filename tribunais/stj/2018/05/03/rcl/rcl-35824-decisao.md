@@ -1,0 +1,18 @@
+EMENTA
+RECLAMAÇÃO. RECURSO ESPECIAL SUSPENSO COM BASE EM AFETAÇÃO DE RECURSO ESPECIAL COMO REPRESENTATIVO DA CONTROVÉRSIA. CABIMENTO. NÃO CARACTERIZAÇÃO.
+Reclamação não conhecida.
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, ajuizada por Empresas FM - Agropecuária, Indústria, Comércio e Serviços Ltda. (sucessora de Kenilworth Assessoria, Empreendimentos e Participações Ltda.), com fundamento no art. 988, I e IV, do CPC/2015, contra a manutenção do sobrestamento, pelo Tribunal Regional Federal da 1ª Região, por meio do seu Presidente, do recurso especial interposto pela União, haja vista que o tema, objeto de recurso repetitivo e que deu azo à suspensão do processamento do feito, já foi apreciado por esta Corte Superior.
+Alega a reclamante, em síntese, que o sobrestamento do recurso especial, ocorrido em 20/05/2015, justificado pela inclusão dos temas subjacentes (juros e correção monetária) no rito dos recursos repetitivos, não mais se justifica, porquanto já apreciada a questão por esta Corte.
+Sustenta, diante disso, que a "excessiva demora no deslinde final da ação originária não comporta mais respaldo legal, posto o STJ já ter enfrentado a matéria" (e-STJ, fl. 8) e que esta reclamação não se trata de substituto recursal, mas se destina à garantia da decisão proferida em repetitivo.
+Em razão disso, requer, em liminar, que seja aplicado incontinenti o comando do Tema 905/STJ e, consequentemente, inadmitido o recurso especial, e, no mérito, seja confirmada a decisão inicial.
+Brevemente relatado, decido.
+Além das hipóteses constitucionais de cabimento da reclamação (art. 105, I, f), é cabível o referido instrumento processual, conforme dicção do art. 988 do CPC/2015, para garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência, bem como para garantir a observância de acórdão proferido em julgamento de recursos especial repetitivos, quando esgotadas as instâncias ordinárias.
+No caso, observo que a reclamação é manifestamente incabível. Isso porque a utilização desse instrumento processual se condiciona à existência de decisão que, em alguma medida, se revele incompatível com a orientação firmada em recurso repetitivo.
+No caso, a pretensão da reclamante, sob o argumento de garantia da decisão proferida em repetitivo, é a de utilizar a reclamação para compelir o Tribunal de origem a examinar o recurso que ainda se encontra sobrestado. Vale dizer, seu intuito é, na verdade, o de agilizar o exame do recurso em face da decisão que julgou o representativo da controvérsia.
+Entretanto, a reclamação não se presta para tal finalidade, restringindo-se às hipóteses elencadas linhas atrás, as quais pressupõem a existência de decisão que possa ser enquadrada em uma delas.
+Nesse sentido:
+AGRAVO INTERNO NA RECLAMAÇÃO - RECURSO ESPECIAL SUSPENSO COM BASE NO ART. 543-C DO CPC/73 - HIPÓTESE DE CABIMENTO - NÃO CARACTERIZAÇÃO - DELIBERAÇÃO MONOCRÁTICA QUE NÃO CONHECEU DA RECLAMAÇÃO. INSURGÊNCIA DA RECLAMANTE.
+1. "Não é cabível reclamação contra decisão do Tribunal de origem que tenha determinado a suspensão do recurso especial com base no art. 543-C do CPC." (ut. AgRg na Rcl 29.267/SP, Rel. Min. Luis Felipe Salomão, DJe 16/05/2016). Precedentes do STJ: AgInt nos EDcl na Rcl 32.709/MG, Rel. Min. Ricardo Villas Bôas Cueva, DJe 2/5/2017; AgRg na Rcl 29238/SP, Rel. Min. Antonio Carlos Ferreira, DJe de 29/08/2016; AgRg na Rcl 11.561/RS, Rel. Min. Luis Felipe Salomão, DJe 3/6/2014. 2. Agravo interno desprovido. (AgInt na Rcl 34.233/MG, Relator o Ministro Marco Buzzi, DJe de 1º/3/2018)
+À vista do exposto, não conheço da reclamação, conforme art. 34, XVIII, a, do RISTJ.
+Publique-se.
