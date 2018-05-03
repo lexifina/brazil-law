@@ -1,0 +1,20 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto com base no art. 102, III, da Constituição Federal, em face de acórdão proferido pelo Tribunal Superior do Trabalho que possui a seguinte ementa (Doc. 35):
+    “AGRAVO DE INSTRUMENTO – RECURSO DE REVISTA INTERPOSTO NA VIGÊNCIA DA LEI Nº 13.015/2014 – INCOMPETÊNCIA MATERIAL DA JUSTIÇA DO TRABALHO
+    A Justiça do Trabalho é competente para processar e julgar pedido de complementação de aposentadoria que tem origem no contrato de trabalho e é paga sem intervenção de entidade de previdência privada.
+    PRECRIÇÃO – DIFERENÇAS DE COMPLEMENTAÇÃO DE APOSENTADORIA
+    Trata-se de discussão sobre o direito a diferenças de complementação de aposentadoria pela inobservância da paridade entre os salários pagos aos empregados em atividade e os proventos de aposentadoria dos inativos. Uma vez que o pedido decorre do pagamento díspar entre ativos e inativos, aplica-se a prescrição parcial da pretensão, na forma da Súmula 327 do TST. Precedentes.
+    Agravo de Instrumento a que se nega provimento.”
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a recorrente sustenta, em síntese, que o julgado ofendeu os artigos 109, I e § 3º, e 114, I, CF/88, bem como afronta o entendimento do STF adotado no julgamento da ADI 3395-6.
+    Em contrarrazões, a parte recorrida sustenta ausência de Repercussão Geral e defende a competência da justiça laboral para processamento e julgamento da causa.
+    É o relatório. Decido.
+    O apelo extremo merece provimento, uma vez que esta CORTE fixou o entendimento no sentido de reconhecer a competência da justiça federal para processar e julgar as causas como a presente, conforme decisão do Plenário na ADI 3.395-MC, Rel. Min. CEZAR PELUSO. Nesse sentido, vejam-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Complementação de benefícios. Ex-ferroviários e seus pensionistas. Competência da Justiça comum. Precedentes. 1. O Plenário da Corte, no exame do ADI nº 3.395-MC/DF, definiu que compete à Justiça comum o processamento e julgamento dos feitos nos quais se discutem questões instauradas entre o Poder Público e o servidor que lhe seja vinculado por relação jurídico-estatutária. 2. A jurisprudência do Supremo Tribunal Federal também tem firme entendimento de que as ações de complementação de benefícios previdenciários movidas contra a União por servidores da extinta RFFSA devem ser processadas perante a Justiça Comum. 3. Inaplicabilidade ao caso da modulação de efeitos determinada quando do julgamento do nº 586.453-RG/SE, porque não se cuida de ação ajuizada contra entidade de previdência privada. 4. Agravo regimental não provido.” (ARE 665.744-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 5/11/2013).
+    “EMBARGOS DECLARATÓRIOS EM RECLAMAÇÃO. DECISÃO MONOCRÁTICA. EMBARGOS DECLARATÓRIOS RECEBIDOS COMO AGRAVO REGIMENTAL. EMPREGADO APOSENTADO DA EXTINTA REDE FERROVIÁRIA FEDERAL (RFFSA). COMPLEMENTAÇÃO DE APOSENTADORIA. COMPETÊNCIA PARA JULGAMENTO. JUSTIÇA COMUM. ADI 3.395/MC. 1. Na ADI-MC 3.395, o STF firmou entendimento de que as causas instauradas entre o Poder Público e seus servidores estatutários são da competência da Justiça Comum. 2. A Lei 11.483/2007 dispôs que a União sucedeu à RFFSA. Competência da Justiça Comum julgar causa que envolveu empregado da antiga empresa o qual requereu complementação de aposentadoria. 3. Agravo regimental a que se nega provimento.” (Rcl 21.137-ED, Rel. Min. EDSON FACHIN, Primeira Turma, DJe 14/3/2016)
+    Confiram-se, ainda, as recentes decisões monocráticas, transitadas em julgado: RE 1.034.878, Rel. Min. LUIZ FUX, DJe de 14/5/2017; RE 1.034.935, Rel. Min. GILMAR MENDES, DJe de 4/5/2017; e RE 1.035.121, Rel. Min. RICARDO LEWANDOWSKI, DJe de 26/4/2017.
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, DOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO para fixar a competência da Justiça Federal para a causa.
+    Publique-se.
+    Brasília, 3 de maio de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
