@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que é suscitante o JUÍZO DA 5ª VARA DO TRABALHO DE NOVO HAMBURGO - RS e suscitado o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE NOVO HAMBURGO - RS.
+O suscitante alega que a competência pertence à Justiça comum, pois não envolveria a lide matéria trabalhista (e-STJ fl. 231).
+O suscitado, por sua vez, considerou que a matéria diz respeito ao acidente de trabalho, o que atrairia a competência da Justiça laboral (e-STJ fl. 167).
+O Ministério Público Federal manifestou-se pela competência da Justiça Comum (e-STJ fls. 281/285).
+É o relatório.
+Decido.
+Inicialmente, os pedidos e a causa de pedir definem a quem caberá apreciar e julgar o feito, segundo a competência material, conforme a jurisprudência desta Corte Superior, in verbis:
+CONFLITO NEGATIVO DE COMPETÊNCIA. [NOME] E TRABALHISTA. RESPONSABILIDADE CIVIL. ACIDENTE DURANTE A JORNADA DE TRABALHO. EMPRESA RÉ ESTRANHA À RELAÇÃO LABORAL. CAUSA DE PEDIR IMEDIATA. DEVER DE INDENIZAR DECORRENTE DA LEGISLAÇÃO CIVIL. ARTS. 186, 927 E 950 DO CÓDIGO CIVIL. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Consoante a jurisprudência sedimentada nesta Corte Superior, a competência em razão da matéria se define a partir da natureza jurídica da controvérsia, que se afere da análise do pedido e da causa de pedir veiculados na inicial.
+2. A delimitação da causa petendi, para fins de definição da competência ratione materiae, não pode resultar apenas da análise da causa de pedir mediata (ou remota) da ação, mas especialmente de sua causa de pedir imediata (ou próxima), ou seja, da aferição da natureza dos fundamentos jurídicos que justificam o pedido.
+3. Compete à Justiça Comum, e não à Justiça especializada, processar e julgar a ação reparatória proposta contra parte com a qual o autor não possua nenhuma relação trabalhista, quando fundada na existência do dever de indenizar decorrente das disposições da legislação civil ou das normas de proteção ao consumidor, ainda que, em tese, os fatos narrados na inicial possam corresponder a acidente laboral.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da 2ª Vara Cível da Comarca de São Mateus/ES, o suscitado.
+(CC n. 121.723/ES, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 26/2/2014, DJe 28/2/2014.)
+Na hipótese dos autos, conforme se extrai do pedido e da causa de pedir da exordial (e-STJ fls. 13/24), discute-se apenas a responsabilidade de [NOME] S.A e VINENTOU LUIZ BENDER pela morte de PEDRO ROBERTO LOPES MACHADO, marido e pai dos autores.
+Os autores requerem indenização sob alegação de que o falecido prestava serviços de jardinagem como trabalhador autônomo aos réus, os quais teriam sido negligentes durante a execução, pelo de cujus, de podas das árvores na residência do segundo réu.
+Nesse sentido, extrai-se da causa de pedir e do pedido que os autores não requerem qualquer verba trabalhista, nem suscitam discussão em torno de direitos laborais, sequer havendo, na exordial, alegação de vínculo laboral entre a vítima do acidente e os réus da ação indenizatória, exsurgindo a natureza civil da pretensão. A propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS ESTADUAL E TRABALHISTA. MEDIDA CAUTELAR DE ARRESTO PARA GARANTIR PAGAMENTO DE DÍVIDA CONTRAÍDA PELO AUTOR EM NOME DA RÉ, EMPRESA PARA A QUAL PRESTAVA SERVIÇO AUTÔNOMO DE MOTORISTA. RELAÇÃO DE DIREITO CIVIL. ART. 114 DA CF. INAPLICABILIDADE. COMPETÊNCIA DO JUÍZO COMUM. (CC 112.354/MG, Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 9/2/2011, DJe 15/2/2011.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. [NOME] ESTADUAL E DO TRABALHO. AÇÃO DE COBRANÇA. VALORES SUPOSTAMENTE DEVIDOS PELA PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE EM AUTOMÓVEL DE PROPRIEDADE DO AUTOR. ÍNDOLE CIVIL DA DEMANDA. EMENDA CONSTITUCIONAL Nº 45/04. RELAÇÃO DE TRABALHO. NÃO CARACTERIZAÇÃO. COMPETÊNCIA. JUSTIÇA ESTADUAL.
+1. Mesmo com a ampliação da competência da Justiça do Trabalho em decorrência da alteração da expressão "relação de emprego" para "relação de trabalho", a Emenda Constitucional nº 45/04 não retirou a atribuição da Justiça estadual para processar e julgar ação alusiva a relações contratuais de caráter eminentemente civil, diversa da relação de trabalho.
+2. A competência ratione materiae define-se pela natureza jurídica da controvérsia, delimitada pelo pedido e pela causa de pedir.
+3. A presente ação de cobrança objetiva compelir o Município réu a pagar diferenças contratuais, não adimplidas espontaneamente, decorrentes da prestação de serviços de transporte em veículo de propriedade do autor. Observa-se que não há, na petição inicial, qualquer pretensão de natureza trabalhista, como adicionais, férias, décimo terceiro ou FGTS, mas apenas o pagamento de duas parcelas de R$ 1.500,00 (mil e quinhentos reais) cada, tal como previsto no próprio contrato celebrado.
+4. Assim, não há relação de trabalho, no caso, mas simples obrigação de natureza civil, decorrente de contrato de prestação de serviços de transporte.
+5. Conflito de competência conhecido para declarar competente o Juízo de Direito da Vara Cível de Jaguarari/BA, o suscitante."
+(CC 117.722/BA, Relator Ministro CASTRO MEIRA, PRIMEIRA SEÇÃO, julgado em 23/11/2011, DJe 2/12/2011.)
+Diante do exposto, CONHEÇO do presente conflito negativo de competência para DECLARAR COMPETENTE o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE NOVO HAMBURGO - RS.
+Publique-se e intimem-se.
