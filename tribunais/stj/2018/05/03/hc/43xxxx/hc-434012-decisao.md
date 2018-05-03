@@ -1,0 +1,21 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Agravo n. 9000286-95.2017.8.26.0269).
+A Defensoria Pública se insurge contra o cassação do indulto concedido pelo Juízo das Execuções. Requer o restabelecimento do benefício, previsto no Decreto Presidencial n. 8.940/2016.
+O Ministério Público Federal opinou pela concessão da ordem.
+Decido.
+Nos Autos n. 1.039.030, insurgiu-se o Ministério Público contra a decisão, prolatada em 3/3/2017, que deferiu ao paciente o indulto (Execução n. 1) fundado no art. 2º do Decreto Presidencial n. 8.940/2016.
+O Tribunal de Justiça, por maioria, cassou o benefício, ante a ausência do requisito subjetivo. Confira-se o acórdão:
+Contudo, verifico que o requisito de ordem subjetiva não se encontra preenchido, tal como alegado pelo recorrente.
+Com efeito, o recorrido é portador de personalidade deformada, cumprindo pena de 7 anos e 20 dias de reclusão, pela prática de roubo qualificado e tentativa de furto qualificado, com término previsto para 22/03/2019, circunstância que, por si só, exige maior cuidado na análise do requisito subjetivo (fls. 5/10).
+Não bastasse, o agravado praticou duas faltas graves por abandono, culminando com sua recaptura, uma por força de prisão em flagrante por roubo qualificado e a outra pelo cumprimento de mandado de prisão (fl. 5/10), evidenciando que se trata de preso de difícil recuperação, corrompido pelo submundo do crime, que não se encontra engajado no processo de reeducação penal (fl. 85).
+O Tribunal considerou não estar adstrito aos requisitos do decreto, pois o indulto "não se constitui em direito absoluto do preso, mas está condicionado à segurança da vida em sociedade, cumprindo ao Magistrado, assim, fazer uma criteriosa análise das condições subjetivas do sentenciado antes de deferir o pedido por ele formulado" (fl. 87).
+O entendimento é manifestamente contrário à jurisprudência desta Corte Superior, firme em assinalar que na "análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República" (HC n. 421.701/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 16/2/2018).
+Faltas disciplinares praticadas fora do período abrangido no decreto presidencial não podem ser entendidas como interruptivas do requisito temporal (Súmula n. 535 do STJ), tampouco como desabonadoras do comportamento do sentenciado. Confira-se:
+ ..  as faltas graves cometidas fora dos doze meses anteriores à data da publicação do Decreto Presidencial não podem ser utilizadas para justificar o indeferimento da comutação de pena, porquanto não é dado ao Poder Judiciário estabelecer condições não previstas na aludida norma para conceder benefícios nela definidos, sob pena de usurpação da competência atribuída ao Presidente da República no art. 84, XII, da Constituição Federal.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 300.533/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 28/8/2017).
+Da mesma forma, a gravidade dos crimes cometidos pelo sentenciado e a longa pena a cumprir são inaptas a lastrear a cassação do indulto, por falta de requisito subjetivo, uma vez que o Presidente da República não mencionou essas restrições no decreto de regência.
+Assim, conforme assinalado pelo Subprocurador-Geral da República [NOME], "tendo em vista que não há interrupção do prazo e que a data do cometimento da falta grave (21/5/2015) é anterior aos doze meses exigidos no referido decreto, o paciente cumpre o requisito subjetivo" previsto no art. 9º, do Decreto Presidencial n. 8.940/2016.
+É de rigor a concessão do habeas corpus, visto ser vedada a interpretação extensiva do decreto presidencial para se estabelecer novos requisitos subjetivos, uma vez que, conforme disposto no art. 84, XII da Constituição Federal, compete privativamente ao Presidente da República estabelecer o indulto e a comutação de penas.
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, concedo o habeas corpus para restabelecer a decisão do Juízo das Execuções.
+Publique-se e intimem-se.
