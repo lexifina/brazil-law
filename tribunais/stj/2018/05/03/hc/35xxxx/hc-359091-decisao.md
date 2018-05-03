@@ -1,0 +1,47 @@
+EMENTA
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. AGRAVO EM EXECUÇÃO. FALTAS GRAVES. FUGA E COMETIMENTO DE 5 NOVOS DELITOS. DECISÃO FUNDAMENTADA. ALEGAÇÃO DE ILEGALIDADE PELA REGRESSÃO DO REGIME ANTES DO TRÂNSITO EM JULGADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ALEGAÇÃO DE PRESCRIÇÃO. NÃO OCORRÊNCIA. PRAZO INFERIOR A 3 ANOS ENTRE A RECAPTURA E A HOMOLOGAÇÃO DA FALTA GRAVE.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora a Sétima Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul.
+Narram os autos ter sido proferida decisão pelo Juízo da Vara de Execuções Criminais da comarca de Pelotas, que reconheceu as faltas graves - prática de crime no curso da execução e fuga -, determinou a regressão de regime, alterou a data-base para o dia da recaptura e rebaixou a conduta do apenado para "péssima" (fls. 33/36).
+Inconformada, a defesa interpôs agravo em execução e alegou a ocorrência de prescrição em relação à instauração do Processo Administrativo Disciplinar - PAD e ofensa ao princípio da presunção de inocência, por inexistir sentença condenatória quanto aos crimes supostamente praticados em execução. Aduziu que a conduta teria sido justificada, não caracterizando, portanto, a fuga. A Sétima Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul negou provimento ao recurso (n. 00615018620168217000). Esta, a ementa do julgado (fl. 82):
+AGRAVO EM EXECUÇÃO. FUGA E PRÁTICA DE CRIME DOLOSO NO CURSO DA EXECUÇÃO. FALTAS GRAVES. AUSÊNCIA DE PAD. PRESCRIÇÃO. INOCORRÊNCIA. REGRESSÃO DE REGIME. ALTERAÇÃO DA DATA-BASE PARA FUTUROS BENEFÍCIOS E REBAIXAMENTO DE CONDUTA. REMIÇÃO.
+1. A instauração de procedimento administrativo disciplinar para apurar falta grave é dispensável, desde que o apenado tenha sido ouvido em juízo, na presença de defensor. A observância do prazo previsto no art. 36 do Regimento Disciplinar Penitenciário é irrelevante.
+2. A fuga e a prática de fato definido como crime doloso no curso da execução configuram infração disciplinar. Seu reconhecimento implica na regressão do regime carcerário, na alteração da data-base para futuros benefícios, que deve ser fixada no dia da recaptura e em rebaixamento de conduta. Incidência dos artigos 50, inciso II, 52. caput e 118, inciso I, todos da LEP e art. 14, §5º, do RDP.
+Preliminar rejeitada.
+Recurso desprovido, com correção de erro material.
+No presente writ, aponta-se, inicialmente, a prescrição do PAD, que foi concluído muito após o lapso de 30 dias para a sua instauração. Sustenta-se, ainda, ilegalidade na regressão de regime, feita de forma automática e sem que houvesse o trânsito em julgado.
+Requer-se, assim, a cassação do acórdão estadual para que se reconheça a prescrição punitiva, com a declaração de nulidade do PAD 241/15 ou, subsidiariamente, se válido tal processo, que se declare absolvido o paciente.
+Decisão deste Relator indeferindo a liminar (fls. 98/100).
+Parecer ministerial opinando pela denegação da ordem (fls. 120/122).
+É o relatório.
+Inicialmente, quanto à alegação de ilegalidade na regressão do regime, feita de forma automática e sem que houvesse o trânsito em julgado, verifica-se que o acórdão proferido no julgamento do agravo em execução está de acordo com a jurisprudência desta Corte. Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. FALTA GRAVE. PRÁTICA DE CRIME DOLOSO NO CURSO DA EXECUÇÃO DA PENA (FURTO). PAD. INSTAURAÇÃO. TRAMITAÇÃO REGULAR. HOMOLOGAÇÃO JUDICIAL. ILEGALIDADE NÃO CONFIGURADA. FALTA GRAVE CARACTERIZADA. ART. 52 DA LEP. REGRESSÃO DE REGIME. NOVA DATA-BASE PARA BENEFÍCIOS. PERDA DOS DIAS REMIDOS. CONSECTÁRIOS LEGAIS. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+III - Nos termos do art. 118, I, da Lei de Execução Penal, a prática de falta grave autoriza a regressão de regime prisional.
+IV - A prática de falta grave importa na perda dos dias remidos e alteração da data-base do prazo para a concessão de benefícios executórios, salvo para fins de livramento condicional (Súmula 441/STJ), comutação de pena ou indulto (Súmula 535/STJ).
+Precedentes.
+Habeas corpus não conhecido.
+(HC n. 428.377/RS, Ministro Felix Fischer, Quinta Turma, DJe 10/4/2018)
+Com efeito, o paciente cumpria pena e fugiu do estabelecimento prisional em 29/9/2014, sendo recapturado em 17/10/2014, e, ainda, nesse período, cometeu 5 novos crimes. Então, cuidando-se de crimes praticados após o início da execução, a superveniência do trânsito em julgado da condenação só pode ensejar a adequação da pena e o ajuste do regime. Isso porque a prática de crime durante a execução da pena é considerada falta grave, o que acarreta a regressão de regime de cumprimento da pena e a interrupção do prazo para obtenção dos benefícios da execução, fixando-se, então, a nova data-base.
+Em relação à apontada prescrição do PAD, por ter sido concluído após o lapso de 30 dias para a sua instauração, confira-se o teor do acórdão hostilizado (fl. 84):
+ ..
+Inicialmente, observo que a teor do art. 22, inc. III, do RDP, a instauração de procedimento administrativo para reconhecimento de falta grave é dispensável, desde que o apenado tenha sido ouvido em juízo, na presença de defensor, o que ocorreu no caso dos autos (fl. 02), de modo que irrelevante a observância ou não do prazo previsto nos artigos 36 e 37 do RDP.
+Não se desconhece a edição recente da súmula 533 do STJ, no entanto, ela não tem efeito vinculante, no sentido de atrelar os julgadores ao entendimento adotado pela Corte Superior, de forma que não possam contrariá-la.
+Nesse sentido, em observância ao princípio do livre convencimento motivado, mantenho meu posicionamento acerca da dispensabilidade de PAD para o reconhecimento de falta grave, até porque, de acordo com o art. 60 da LEP1, o procedimento administrativo tem por objetivo validar a aplicação das sanções administrativas decorrentes da falta (isolamento em cela individual e suspensão ou restrição de direitos), ao passo que a imposição dos consectários legais previstos na LEP, compete exclusivamente ao juízo das execuções.
+ ..
+Ainda que a Corte Local não tenha, em princípio, observado o teor da Súmula 533/STJ e tenha relevado a tese da dispensabilidade do PAD, o pleito da defesa esbarra na jurisprudência desta Corte, que reconhece a aplicação, por analogia, do prazo prescricional do art.109, VI, do Código Penal, às faltas graves praticadas no curso da execução penal (HC n. 347.507/RS, Quinta Turma, Ministro Joel Ilan Paciornik, DJe 18/5/2016).
+No caso, foram duas as faltas graves - a fuga e o cometimento de novos delitos - e o apenado foi rebaixado em sua conduta por 90 dias, sendo determinada a data de sua recaptura, 17/10/2014, como novo marco aquisitivo de benefícios da LEP, exceto para fins de livramento condicional. Instaurado o PAD, o paciente foi devidamente ouvido e o Juízo da Execução Penal homologou a falta grave em 28/12/2014, portanto, dentro do prazo prescricional do art.109, VI, do Código Penal, relacionado às faltas graves praticadas no curso da execução penal.
+A seguir, parte do julgamento do agravo (fls. 85/86):
+ ..  Quanto ao mais, o apenado cumpre pena de 16 anos e 4 meses de reclusão, decorrente da prática de duas condenações (porte de arma e roubo majorado). Iniciou em 7.12.12 no regime fechado. Progrediu ao semiaberto em 12.12.13. No dia 29.9.14 fugiu, sendo recapturado em 17.10.14. Durante o período da fuga foi acusado da prática de cinco delitos.
+As condutas praticadas pelo recorrido configuram faltas de natureza grave, conforme previsto nos arls. 50, inc. II e 52, caput, da LEP.
+Em juízo, o recorrente admitiu a fuga, alegando que "ao chegar em casa viu suas filhas passando por necessidades, decidiu permanecer trabalhando em serviços rurais." No que diz com os delitos, negou a autoria, ou seja, afirmou ter fugido deliberadamente e sequer mencionou por qual motivo estaria sendo acusado da prática de outros delitos, de modo que sua responsabilização é impositiva.
+No caso, a condenação definitiva para a configuração da falta disciplinar é desnecessária, sendo suficiente apenas a prática do fato delituoso, sem que isso viole o princípio da presunção da inocência, nos termos do artigo 52, caput, combinado com o artigo 118, inciso I, da LEP.
+ ..
+De acordo com o artigo 118, inciso I, da Lei de Execução Penal , a prática de falta grave acarreta regressão do regime carcerário. Na presente hipótese, tenho que é medida adequada. Veja-se que durante a fuga praticou cinco crimes, o que demonstra não estar apto a usufruir de regime mais brando neste momento.
+No tocante à data-base, é entendimento dominante nos tribunais superiores que o cometimento de falta grave no curso da execução enseja a interrupção do prazo para a concessão de benefícios. De modo que deve ser reiniciada a contagem do novo prazo sobre o saldo de pena por cumprir, a partir da data da recaptura. Nesse ponto, corrijo erro material de decisão, esclarecendo que se trata do dia 17.10.14 e não 17.10.15 como constou.
+Quanto ao mais, de acordo o art. 14, § 5º, do RDP, a conduta carcerária do apenado que comete falta grave deve ser classificada como "péssima". Logo, na situação em tela, o rebaixamento de conduta do reeducando é sanção legal que se impõe.
+ ..
+Diante disso, tendo em vista a fundamentação mencionada acima, nada há de ser reformado, tanto em relação à regressão do regime quanto ao prazo prescricional, visto que este se encontra de acordo com o prazo de 3 anos.
+Ante o exposto, denego a ordem.
+Publique-se.
