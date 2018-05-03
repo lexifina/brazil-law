@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO ITAUCRED FINANCIAMENTOS S.A., com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, impugnando acórdão da seguinte forma ementado:
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. ADIMPLEMENTO SUBSTANCIAL CARACTERIZADO.
+Considerando que o devedor quitou mais de 70% das prestações contratadas, resta caracterizado o adimplemento substancial do contrato no caso concreto.
+RECURSO IMPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do especial, a parte recorrente aponta, além do dissídio jurisprudencial, violação dos arts. 2º, § 3º, e 3º, do Decreto-Lei n. 911/1969, alegando seu direito à busca e apreensão do bem ante a configuração da mora e não pago o valor devido pelo devedor no prazo legal, não havendo que se falar em adimplemento substancial ao caso.
+O recurso foi admitido na origem, nos termos da decisão de fls. 195-202 (e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+O acórdão recorrido, ao analisar o recurso de apelação, confirmou a sentença que julgou extinta a busca e apreensão de veículo, sob o entendimento de que, diante do adimplemento substancial do contrato de alienação fiduciária pelo devedor fiduciante, deve-se manter hígido o contrato celebrado, impedindo a busca e apreensão do bem, e remetendo o credor a outras vias para satisfação de seu crédito.
+Observo que, no presente caso, foram quitadas 47 das 56 parcelas contratadas, o que representa aproximadamente 83,92% (oitenta e três inteiros e noventa e dois centésimos por cento) da dívida assumida (e-STJ, fl. 39).
+Ocorre que a Segunda Seção desta Corte, no julgamento do REsp repetitivo 1.418.593/MS (Tema 722), sob a relatoria do Ministro LUIS FELIPE SALOMÃO, entendeu que, para afastar a mora nas ações de ação de busca e apreensão, deve o devedor pagar a integralidade da dívida. Confira-se sua ementa:
+ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. AÇÃO DE BUSCA E APREENSÃO. DECRETO-LEI N. 911/1969. ALTERAÇÃO INTRODUZIDA PELA LEI N. 10.931/2004. PURGAÇÃO DA MORA. IMPOSSIBILIDADE. NECESSIDADE DE PAGAMENTO DA INTEGRALIDADE DA DÍVIDA NO PRAZO DE 5 DIAS APÓS A EXECUÇÃO DA LIMINAR.
+1. Para fins do art. 543-C do Código de Processo Civil: "Nos contratos firmados na vigência da Lei n. 10.931/2004, compete ao devedor, no prazo de 5 (cinco) dias após a execução da liminar na ação de busca e apreensão, pagar a integralidade da dívida - entendida esta como os valores apresentados e comprovados pelo credor na inicial -, sob pena de consolidação da propriedade do bem móvel objeto de alienação fiduciária".
+2. Recurso especial provido. (DJe de 27.5.2014)
+Após alguns precedentes firmados nesta Corte privarem o credor do direito à busca e apreensão, em razão do pequeno resíduo de prestações, a Segunda Seção, no recente julgamento do REsp 1.622.555/MG, de relatoria do MINISTRO MARCO BUZZI, publicado em 16.3.2017, abordou a questão do adimplemento substancial nas ações de busca e apreensão, mormente ante o entendimento firmado em sede de recurso repetitivo acerca da impossibilidade de purgação da mora, concluindo que há contradição entre a aplicação da teoria do adimplemento substancial com a disposição da lei e com o próprio posicionamento adotado no REsp repetitivo n. 1.418.593/MS.
+Diante do precedente citado e do saldo de cerca de 16% (dezesseis por cento) do total do crédito concedido, não há como afastar o exercício regular do direito do credor na busca e apreensão do bem.
+Em face do exposto, dou provimento ao recurso especial para deferir a liminar e determinar que os autos retornem ao Juízo de origem, para regular prosseguimento da ação de busca e apreensão, na esteira do devido processo legal.
+Intimem-se.
