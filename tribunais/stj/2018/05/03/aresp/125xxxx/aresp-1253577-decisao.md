@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Acidente de veículo  Morte da vítima - Responsabilidade solidária dos réus  Caracterização  Culpa "in eligendo" e culpa "in vigilando"  Condução do veículo em velocidade incompatível com o local e sob a influência de álcool  Danos materiais comprovados - Indenização por danos morais  Deferimento à progenitora  Confirmação  Jurisprudência - "Quantum" reduzido  Duzentos salários mínimos para os genitores e cem salários mínimos para a progenitora - Verba honorária mantida - Divergência  Julgamento pelo Colegiado ampliado - Agravos retidos não conhecidos, apelos parcialmente providos.
+Não foram opostos embargos de declaração.
+Nas razões de recurso especial, alega a agravante, em suma, violação ao artigo 1.829 do Código Civil.
+Sustenta a necessidade de redução do valor da condenação em danos morais para os três requerentes, que foi fixada em R$ 260.000,00 (duzentos e sessenta mil reais) para cada um dos genitores, e R$ 130.000,00 (cento e trinta mil reais) para a avó de vítima fatal em decorrência de atropelamento ocasionado por motorista alcoolizado.
+Defende não ser devida a indenização moral para a avó da vítima, sob pena de violação ao mencionado artigo 1.829 do CC.
+Não foram apresentadas contrarrazões.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 1.736 - 1.737, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Com relação à pretensão de redução dos valores indenizatórios ante os danos morais causados, verifica-se que a agravante não alegou violação a qualquer dispositivo de lei federal a embasar a tese arguida. Fato que culmina na incidência da Súmula 284 do STF, ante a deficiência de fundamentação no ponto em apreço.
+Ainda que não esbarrasse no óbice supra, a pretensão não comportaria procedência em vista da maciça jurisprudência desta Corte Superior de que a revisão do valor de condenação em danos morais na presente via é medida que importa em necessário reexame de fatos e provas, sendo portanto, vedada pelo teor da Súmula 7 do STJ.
+É certo que o Superior Tribunal de Justiça considera, excepcionalmente, cabível, em recurso especial, o reexame do valor arbitrado a título de danos morais, quando excessivo ou irrisório (AgRg no REsp 959.712/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 30.11.2009 e AgRg no Ag 939.482/RJ, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, DJe de 20.10.2008, entre outros). Observo, todavia, que a quantia arbitrada pelo Tribunal Estadual mostra-se dentro dos padrões da razoabilidade e proporcionalidade, não se mostrando desproporcional de modo a ensejar sua alteração em grau de recurso especial.
+Com relação à alegada afronta ao artigo 1.829 do CC em face da condenação em danos morais para a avó da vítima, verifica-se que o aludido dispositivo de Lei trata de sucessão hereditária não se aplicando sob qualquer perspectiva, ao caso em apreço, eis que da lide enquadra direito obrigacional derivado de responsabilidade civil indenizatória. Incide novamente a Súmula 284 do STF por deficiência de fundamentação.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
