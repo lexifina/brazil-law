@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado (fl. 191-198):
+PREVIDENCIÁRIO. MANDADO DE SEGURANÇA. AGRAVOS. MINISTÉRIO PÚBLICO FEDERAL. INSS. PENSÃO POR MORTE. DEPENDÊNCIA ECONÔMICA. FILHO MAIOR DE 21 ANOS NÃO INVÁLIDO. IMPOSSIBILIDADE. RECURSO REPETITIVO. ART. 16 DA LEI 8.213/91. DENEGAÇÃO DA SEGURANÇA. RESTITUIÇÃO DOS VALORES PERCEBIDOS. INVIABILIDADE. NATUREZA ALIMENTAR DO BENEFICIO. PRINCÍPIO DA IRREPETIBILIDADE DOS ALIMENTOS.
+I - Em relação aos filhos menores de 21 anos, desde que não emancipados, de qualquer condição, e aos filhos inválidos, a dependência econômica é presumida, a teor do § 4" do artigo 16 da Lei n.º 8.213/91, regulamentada pelo Decreto n." 3.048/99 e posteriormente pelo Decreto n" 4.032/01.
+II - Todavia, conforme se verifica dos autos, a parte impetrante não é inválida e completou 21 anos de idade em 23-06-2012, não se encontrando, por isso, no rol do artigo 16 da Lei nº 8.213/91.
+III - Não obstante o entendimento pessoal deste relator, curvo-me à decisão proferida pela Primeira Seção do Superior Tribunal de Justiça, no Recurso Especial n.º 1.369.832/SP, em 12-06-2013, pela sistemática de recursos repetitivos, de relatoria do Ministro Arnaldo Esteves Lima, que pacificou a jurisprudência no sentido de que é indevida a prorrogação do benefício de pensão por morte aos filhos não inválidos que completam 21 (vinte e um) anos, ante a inexistência de autorização legal.
+IV - A jurisprudência é pacífica no sentido de ser indevida a restituição das verbas de caráter alimentar percebidas de boa -fé, indiscutível no caso dos autos, e em respeito ao princípio da irrepetibilidade dos alimentos.
+V - Não se trata de propiciar o enriquecimento sem causa, mas sim de, em obediência ao princípio constitucional da proporcionalidade, render-se aos ditames da dignidade da pessoa humana.
+VI - Agravos a que se nega provimento.
+E a respeito da repetição dos valores pagos em razão de liminar, ficou consingnado no acórdão, in verbis:
+Com efeito, esclareço que é incabível devolução dos valores já pagos pelo INSS, em virtude da liminar deferida pelo MM Juiz a quo.
+Ressalto que a jurisprudência é pacífica no sentido de ser indevida a restituição das verbas de caráter alimentar percebidas de boa-fé, indiscutível no caso dos autos, e em respeita ao princípio da irrepetibilidade dos alimentos.
+Opostos embargos de declaração, estes foram rejeitados.
+No Recurso Especial o recorrente alegou, inicialmente, violação ao art. 1.022 do CPC/15, porquanto, mesmo ante a oposição dos embargos de declaração, diversos pontos suscitados pela autarquia em apelação não teriam sido objeto de decisão.
+Alega, ainda, violação dos arts. 297, § único, e 520, I e II do CPC/15, e dos arts. 876, 884, 885 e 886 do Código Civil e 115 da Lei 8.213/91.
+Aduz, que o benefício previdenciário recebido por tutela antecipada tem natureza precária, sendo de rigor a devolução dos valores recebidos quando a decisão final é contrária ao segurado e cassa a tutela antes deferida, na forma dos dispositivos tidos por violados.
+É o relatório. Decido.
+Em relação à alegada violação ao art. 1.022, do CPC/15, verifica-se que o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca das questões apresentadas nos embargos de declaração, o fazendo de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula e a sua importância no julgamento da lide.
+Nesse panorama, a apresentação genérica de ofensa ao art. 535, II, do CPC/73 atrai o comando do enunciado sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal.
+Sobre o assunto, confiram-se:
+ADMINISTRATIVO. REDIRECIONAMENTO DE EXECUÇÃO FISCAL DE NATUREZA NÃO TRIBUTÁRIA. DISSOLUÇÃO IRREGULAR NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF.
+I - Não se conhece do recurso especial com alegação genérica de violação do art. 535 do Código de Processo Civil de 1973. Incidência do enunciado n. 284 da Súmula do STF. Necessidade de reexame de fatos e provas para modificar o entendimento do Tribunal de origem quanto à regularidade da dissolução da sociedade empresária.
+Incidência do enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp 962.465/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 6/4/2017, DJe 19/4/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CSLL. MAJORAÇÃO DE ALÍQUOTA. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. Quanto à elevação da alíquota da CSLL, o aresto recorrido está em conformidade com a jurisprudência deste Tribunal Superior, que considera que a Instrução Normativa n. 81/99 não desbordou dos limites da MP 1.807/99.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp 446.627/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 6/4/2017, DJe 17/4/2017).
+No mais, tenho que assiste razão à autarquia.
+A jurisprudência mais recente deste Tribunal Superior é no sentido de que os valores de benefícios previdenciários recebidos por força de tutela antecipada posteriormente revogada devem ser devolvidos, haja vista a reversibilidade da medida antecipatória, a ausência de boa-fé objetiva do beneficiário e a vedação do enriquecimento sem causa.
+Nesse sentido, o seguinte precedente proferido sob o rito do art. 543-C do CPC/73, in verbis:
+PREVIDÊNCIA SOCIAL. BENEFÍCIO PREVIDENCIÁRIO. ANTECIPAÇÃO DE TUTELA. REVERSIBILIDADE DA DECISÃO.
+O grande número de ações, e a demora que disso resultou para a prestação jurisdicional, levou o legislador a antecipar a tutela judicial naqueles casos em que, desde logo, houvesse, a partir dos fatos conhecidos, uma grande verossimilhança no direito alegado pelo autor. O pressuposto básico do instituto é a reversibilidade da decisão judicial. Havendo perigo de irreversibilidade, não há tutela antecipada (CPC, art. 273, § 2º). Por isso, quando o juiz antecipa a tutela, está anunciando que seu decisum não é irreversível. Mal sucedida a demanda, o autor da ação responde pelo recebeu indevidamente. O argumento de que ele confiou no juiz ignora o fato de que a parte, no processo, está representada por advogado, o qual sabe que a antecipação de tutela tem natureza precária.
+Para essa solução, há ainda o reforço do direito material. Um dos princípios gerais do direito é o de que não pode haver enriquecimento sem causa. Sendo um princípio geral, ele se aplica ao direito público, e com maior razão neste caso porque o lesado é o patrimônio público. O art. 115, II, da Lei nº 8.213, de 1991, é expresso no sentido de que os benefícios previdenciários pagos indevidamente estão sujeitos à repetição. Uma decisão do Superior Tribunal de Justiça que viesse a desconsiderá-lo estaria, por via transversa, deixando de aplicar norma legal que, a contrario sensu, o Supremo Tribunal Federal declarou constitucional. Com efeito, o art. 115, II, da Lei nº 8.213, de 1991, exige o que o art. 130, parágrafo único na redação originária (declarado inconstitucional pelo Supremo Tribunal Federal - ADI 675) dispensava.
+Orientação a ser seguida nos termos do art. 543-C do Código de Processo Civil: a reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos.
+Recurso especial conhecido e provido.
+(REsp 1401560/MT, Rel. Ministro SÉRGIO KUKINA, Rel. p/ Acórdão Ministro ARI PARGENDLER, PRIMEIRA SEÇÃO, julgado em 12/02/2014, DJe 13/10/2015)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RI/STJ, dou provimento ao recurso especial para reconhecer que há a obrigatoriedade de devolução de valores recebidos em razão de beneficio previdenciário recebido por força tutela antecipada, quando posteriormente a decisão provisória é revogada.
+Publique-se. Intimem-se.
