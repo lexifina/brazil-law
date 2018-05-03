@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão proferida pelo Tribunal de Justiça do Estado da Bahia que não admitiu seu apelo nobre.
+Consta dos autos que o agravante foi condenado à pena de 21 anos de reclusão, em regime inicial fechado, e pagamento de 100 dias-multa, como incurso nas sanções do art. 157, § 3º, segunda parte, do Código Penal.
+Interposto recurso especial, este não foi admitido pela Instância de origem, ensejando a presente insurgência, na qual o agravante sustenta que o óbice indicado na decisão objurgada não incidiria in casu.
+Requer o acolhimento do agravo a fim de que seja admitido e provido o apelo nobre.
+Parecer do Ministério Público Federal às e-STJ fls. 1.979/1.988 pelo desprovimento do inconformismo.
+É o relatório.
+No recurso especial, a parte pretende, em síntese, o reconhecimento da inépcia da denúncia, a absolvição quanto à prática da conduta imputada ou a desclassificação para o delito tipificado no art. 180, caput, do Estatuto Repressivo.
+Inicialmente, no que se refere ao vício na exordial acusatória, cumpre consignar que se firmou nesta Corte Superior de Justiça o entendimento no sentido de que a discussão acerca da inépcia da denúncia perde força diante de um édito repressivo, no qual houve exaustivo juízo de mérito acerca dos fatos delituosos denunciados.
+Nesse vértice:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA. ANÁLISE DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL. INADMISSIBILIDADE. INÉPCIA DA DENÚNCIA NÃO CARACTERIZADA. AUSÊNCIA DE PARTICULARIZAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. SÚMULA 284/STF. DOLO ESPECÍFICO. DESNECESSIDADE. PRETENSÃO ABSOLUTÓRIA. SÚMULA 7/STJ. CONTINUIDADE DELITIVA. NÚMERO DE INFRAÇÕES. PRESCRIÇÃO. ART. 115 DO CP. IDADE DO RÉU QUE DEVE SER VERIFICADA POR OCASIÃO DA PROLAÇÃO DA PRIMEIRA DECISÃO CONDENATÓRIA, QUE, NO CASO, FOI A SENTENÇA. PRECEDENTE DA TERCEIRA SEÇÃO. VALOR DO DIA-MULTA E DA PRESTAÇÃO PECUNIÁRIA. SITUAÇÃO ECONÔMICO-FINANCEIRA DO ACUSADO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO REGIMENTAL DESPROVIDO.  ..
+3. A superveniência da sentença penal condenatória torna esvaída a análise do pretendido reconhecimento de inépcia da denúncia, isso porque o exercício do contraditório e da ampla defesa foi viabilizado em sua plenitude durante a instrução criminal (AgRg no AREsp 537.770/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 4/8/2015, DJe 18/08/2015).  ..
+11. Agravo Regimental desprovido.
+(AgRg no REsp 1574813/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/06/2016, DJe 01/08/2016 - grifou-se)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL. CRIME TRIBUTÁRIO. INÉPCIA DA DENÚNCIA. SENTENÇA CONFIRMADA EM GRAU DE APELAÇÃO. ALEGAÇÃO PREJUDICADA. ALEGAÇÃO DE INEXISTÊNCIA DE DOLO NA CONDUTA. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. AGRAVO DESPROVIDO.
+1. Sobrevindo sentença condenatória, resta atestada a plena aptidão da inicial acusatória, fica prejudicado o exame da violação do art. 41 do CPP.
+2. Pelas mesmas razões, prejudicada a alegação de violação ao artigo 396-A do CPP, em razão de se ter por preclusa a possibilidade de apreciação posterior do argumento de inépcia da denúncia.  ..
+4. Agravo desprovido.
+(AgRg no REsp 1594660/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/06/2016, DJe 30/06/2016 - grifou-se)
+ Quanto às demais questões submetidas ao crivo deste Sodalício, o Tribunal a quo assim se manifestou (e-STJ fls. 1.837/1.841):
+Nas razões recursais, consigna-se que o Embargante faz jus ao reconhecimento do benefício previsto no artigo 29, § 2o, do Código Penal, posto que tinha a intenção de participar de crime menos grave.  ..
+Com efeito, encontra-se exaustivamente comprovado nos autos que o Embargante participou ativamente de todas as fases do delito cometido, tendo idealizado previamente o modus operandi a ser empregado, inclusive com a utilização de armas de fogo.
+Destaca-se, também, que o Embargante já tinha programado, há aproximadamente três dias, a destinação das cargas e, até mesmo, do caminhão após a consumação da prática delitiva.
+Ademais, o elevado grau de envolvimento em toda operação resta ainda mais evidenciado pelo fato de o Embargante ser o responsável pela negociação e recebimento dos valores obtidos com o produto do crime.
+O vínculo subjetivo do Embargante com o crime de latrocínio ficou devidamente demonstrado no Acórdão objurgado, a saber: "tendo participado desde a fase de ideação do evento delitivo, possuía o Apelante o conhecimento do modo e das circunstâncias em que o mesmo seria praticado, devendo responder pelo resultado mais gravoso decorrente da utilização dos referidos métodos, porquanto considerado desdobramento causai da conduta perpetrada.".
+De fato, tendo o Embargante participado de toda fase preparatória e tendo pleno conhecimento, no mínimo, do emprego de armas de fogo, mesmo sem participar diretamente da execução do resultado morte, não há como se afastar seu vínculo subjetivo em relação ao crime de latrocínio, visto que se trata de mero desdobramento da ação delituosa.
+Com efeito, para a consumação do crime de latrocínio não se pressupõe que o resultado morte tenha ocorrido dolosamente, bastando, para tanto, o reconhecimento da conduta culposa.  ..
+Diante de tudo, VOTO no sentido de CONHECER e NEGAR PROVIMENTO aos Embargos Infringentes.
+Da leitura do excerto transcrito, infere-se que o Tribunal de origem, após o reexame dos elementos colhidos no curso da instrução criminal, concluiu pela existência, nos autos, de elementos concludentes para fundamentar o decreto condenatório, salientando que o agravante, em razão de sua destacada posição na empreitada delitiva, a qual idealizou e conhecia o modus operandi, tinha ciência do emprego de arma de fogo pelos demais agentes e do possível desdobramento mais grave da conduta.
+Dessarte, constata-se que o aresto impugnado vai ao encontro de entendimento assente nesta Corte segundo o qual nos delitos de roubo respondem pelo resultado morte aqueles que contribuem para a prática do crime, acaso cientes dos riscos concretos da ação e de seus desdobramentos, mesmo que não participem diretamente dos atos executórios.
+Na mesma linha:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO COM FULCRO NA ALÍNEA "C", INCISO II, ART. 105, CF. AUSÊNCIA DE COTEJO ANALÍTICO E DE SIMILITUDE FÁTICA ENTRE OS PRECEDENTES COMPARADOS E O CASO CONCRETO. NÃO DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL. HIPÓTESE DE NÃO CONHECIMENTO DO RECURSO. LATROCÍNIO. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. PLEITO DE DESCLASSIFICAÇÃO PARA ROUBO DA CONDUTA DAQUELE CUJA PARTICIPAÇÃO SE LIMITOU A EMPRESTAR A ARMA: INVIÁVEL.HIPÓTESE DE DOLO EVENTUAL.  ..
+2. Se as instâncias ordinárias concluíram pela existência de provas suficientes da autoria e materialidade do delito, o exame do pedido de absolução por ausência de provas demandaria o revolvimento de todo o arcabouço fático-probatório a fim de perquirir se haveria outras evidências que apontassem em sentido contrário, o que é vedado nesta instância especial a teor da súmula 7/STJ.
+3. A jurisprudência desta Corte tem entendido que o ato de emprestar a arma de fogo para a prática de roubo evidencia que o agente assume o risco de se produzir um resultado mais grave, uma vez que o evento morte se trata de mero desdobramento causal da ação delituosa praticada com o uso do artefato bélico.
+Inviável, assim, o reconhecimento da situação do recorrente como sendo de cooperação dolosamente distinta, sob o pretexto de que o réu apenas consentira com o crime de roubo.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1205699/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/03/2018, DJe 21/03/2018)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 619 DO CPP. OMISSÃO NO JULGADO. INEXISTÊNCIA. ABSOLVIÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. NULIDADE DO RECONHECIMENTO PESSOAL. SÚMULA 283 E 284 DO STF. COOPERAÇÃO DOLOSAMENTE DISTINTA. NÃO INCIDÊNCIA AOS CO-AUTORES. MODIFICAÇÃO DO JULGADO. SÚMULA 7/STJ. CONSUMAÇÃO DO CRIME DE LATROCÍNIO. SÚMULA 610/STF. PENA-BASE. EXASPERAÇÃO. POSSIBILIDADE. GRAVIDADE CONCRETA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.  ..
+6. A reversão do julgado quanto a ser a conduta do recorrente essencial ou de simples ajuda, instigação ou auxílio para o crime, encontra óbice no verbete sumular n.º 7 desta Corte.
+7. Num crime de roubo praticado com arma de fogo, em tendo os agentes conhecimento da utilização desta, todos respondem, como regra, pelo resultado morte, eis que este se encontra dentro do desdobramento causal normal da ação delitiva, contribuindo todos para o fato típico. Precedentes.
+8. O crime de latrocínio resta consumado com a morte da vítima ainda que não tenham os agentes obtido êxito na subtração dos bens do ofendido. Súmula n.º 610/STF.
+9. A gravidade concreta da infração enseja maior reprovabilidade da conduta a autorizar a fixação da pena-base acima do mínimo legal.
+Precedentes.
+10. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1417364/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 18/12/2014, DJe 04/02/2015)
+Nesse aspecto, desconstituir o julgado, por suposta violação à lei federal, no intuito de abrigar o pleito absolutório ou de desclassificação para o crime tipificado no art. 180 do Código Penal, não encontra espaço na via eleita, porquanto seria necessário a este Sodalício aprofundado revolvimento do contexto fático-probatório, providência exclusiva das instâncias ordinárias, incabível em sede de recurso especial, conforme já assentado pelo Enunciado n.º 7 da Súmula desta Corte.
+A propósito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO (ART. 157, § 3º, DO CP). AUTORIA E MATERIALIDADE COMPROVADAS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DOSIMETRIA. PLEITO DE FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL. AUSÊNCIA DE INTERESSE RECURSAL. AGRAVO IMPROVIDO.
+1. Rever o entendimento da instância de origem, no sentido de que a autoria e a materialidade do crime de latrocínio foram devidamente comprovadas, implicaria necessário reexame de provas, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula 7 desta Corte.
+2. Quanto ao pleito subsidiário de fixação da pena-base em seu mínimo legal, verifica-se que a sanção já foi imposta em tal patamar, carecendo o agravante, portanto, de interesse recursal.
+3. Agravo regimental improvido.
+(AgRg no AREsp 1148564/CE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/11/2017, DJe 01/12/2017)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO SUFICIENTE DA DECISÃO RECORRIDA. SÚMULA N. 283 DO STF. ROUBO TENTADO. DESCLASSIFICAÇÃO PARA LATROCÍNIO TENTADO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ.
+1. Em observância ao princípio da dialeticidade recursal, é dever do recorrente impugnar todos os fundamentos que sejam, por si sós, suficientes para manter a decisão recorrida, sob pena de incidência da Súmula 283 do STF.
+2. Com base nas provas coligidas aos autos, o Tribunal de origem concluiu pela inexistência do animus necandi, de modo que rever tal entendimento demandaria a inevitável incursão no acervo fático-probatório, o que se sabe inviável em sede especial, conforme dispõe a Súmula n. 7 do STJ.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1675268/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 14/09/2017, DJe 22/09/2017)
+PENAL E PROCESSUAL. DOSIMETRIA. LATROCÍNIO TENTADO. DIMINUIÇÃO DA PENA (ART. 14, PARÁGRAFO ÚNICO, DO CP). JUÍZO REFERENTE AO ITER CRIMINIS PERCORRIDO. REVISÃO. IMPOSSIBILIDADE PELA VIA DO RECURSO ESPECIAL. SÚMULA 7 DO STJ.
+1. A avaliação do iter criminis percorrido no latrocínio tentado está relacionada diretamente com a proximidade da ocorrência do evento morte, que é o resultado naturalístico estabelecido pela norma para agravar o tipo penal.
+2. Na hipótese dos autos, o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, assentou que, apesar de o agente ter atentado contra a vida da vítima, os disparos de arma de fogo não chegaram a atingi-la, em virtude do erro de pontaria. Diante disso, concluiu que os atos de execução praticados pelo ora agravado ficaram distantes da consecução do resultado morte, motivo pelo qual decidiu aplicar o redutor do art. 14, II, do Código Penal, no patamar máximo de 2/3 (dois terços).
+3. A revisão desse juízo de valor exigiria o reexame do acervo-probatório, notadamente para mensurar o risco de vida que os atos de execução levados a efeito pelo agente efetivamente impingiram à vitima, o que é inviável na sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 483.758/DF, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 03/09/2015, DJe 22/09/2015)
+Por tais razões, afigurando-se inadmissível o apelo nobre, conhece-se do agravo para não conhecer o recurso especial, nos termos do artigo 34, VII, combinado com o artigo 253, parágrafo único, inciso II, alínea a, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intime-se.
+Cientifique-se o Ministério Público Federal.
