@@ -1,0 +1,103 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544), interposto contra decisão que inadmitiu o recurso especial, sob os seguintes fundamentos: (a) incidência das Súmulas n. 5, 7, 13, 83 e 211 do STJ e 282/STF e (b) não comprovação do dissídio jurisprudencial, por falta de similitude fática (e-STJ fls. 1.094/1.097).
+O acórdão do TJPR traz a seguinte ementa (e-STJ fls. 925/926):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE CONTRATO. PEDIDO JULGADO IMPROCEDENTE. AÇÃO DE RESOLUÇÃO DE CONTRATO. PEDIDO JULGADO PARCIALMENTE PROCEDENTE. AGRAVO RETIDO NÃO CONHECIDO. INTELIGÊNCIA DO ART.523, §1º, DO CPC. APELAÇÃO. CORRETA APLICAÇÃO DO CDC E DO ÔNUS DA PROVA. QUESTÕES DE FATO DEVIDAMENTE ESCLARECIDAS NOS AUTOS. ABUSIVIDADE E ONEROSIDADE INEXISTENTES. CONTRATO CELEBRADO POR LIVRE INICIATIVA DAS PARTES. PREÇO CONSTANTE DO CONTRATO. INTERFERÊNCIA DO JUDICIÁRIO QUE NÃO SE ADMITE. PAGAMENTO DE "ALUGUÉIS" PELA FRUIÇÃO DO IMÓVEL. CABIMENTO. INDENIZAÇÃO POR BENFEITORIAS E RETENÇÃO DO IMÓVEL. IMPOSSIBILIDADE. AUSÊNCIA DE COMPROVAÇÃO DE SUA EXISTÊNCIA. DEVOLUÇÃO EM DOBRO. IMPOSSIBILIDADE. AUSÊNCIA DE COBRANÇA INDEVIDA. INCIDÊNCIA DE JUROS DE 1% AO MÊS. PLEITO ATENDIDO NA SENTENÇA. RECURSO NÃO CONHECIDO NESTE PONTO. RECURSO ADESIVO. ALUGUERES PELA FRUIÇÃO DO IMÓVEL. VALOR. APURAÇÃO EM LIQUIDAÇÃO DE SENTENÇA. TERMO INICIAL DA COBRANÇA. CONSTITUIÇÃO EM MORA DO DEVEDOR. SENTENÇA MANTIDA. AGRAVO RETIDO NÃO CONHECIDO. RECURSO DE APELAÇÃO CONHECIDO EM PARTE E NÃO PROVIDO. RECURSO ADESIVO CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 954/957).
+Nas razões do recurso especial (e-STJ fls. 961/1.008), interposto com base no art. 105, III, "a" e "c", da CF, o recorrente alegou, além de dissídio jurisprudencial, violação:
+(a) do art. 5º, LV, da CF, ante o cerceamento de defesa oriundo do indeferimento da perícia que comprovaria a desproporcionalidade das prestações no contrato,
+(b) dos arts. 4º, I, 6º, V e VIII, 39, X, 51, IV, X e XV, §§ 1º, III, e 4º, 53 e 54 do CDC, 422 e 2.035 do CC/2002 e 5º, XXII e XXXV, 170, caput, II e IV, 173, 177, 193 e 219 da CF, argumentando que existiria desproporcionalidade nas prestações do imóvel, o que justificaria a revisão judicial da avença no ponto,
+(c) do art. 396 do CC/2002, pois o mero ajuizamento da demanda revisional excluiria sua mora, inexistindo, dessa maneira, justificativas para a rescisão contratual,
+(d) do art. 26, V, da Lei n. 6.766/1979, pois seria descabido a cumulação da multa rescisória com a indenização por taxa de ocupação do imóvel, na hipótese de rescisão culposa da avença, e
+(e) dos arts. 51, XVI, do CDC, 34 da Lei n. 6.766/1979 e 1.219 do CC/2002, porque faria jus à indenização pelas benfeitorias erguidas no imóvel, bem como lhe assistiria o direito de retenção por seu valor.
+Ao final, renovou o pedido de concessão da assistência judiciária gratuita.
+Foram apresentadas contrarrazões (e-STJ fls. 1.046/1.087).
+No agravo (e-STJ fls. 1.103/1.113), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.118/1.113).
+É o relatório
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, por isso devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Da impropriedade de arguir ofensa à Constituição Federal no recurso
+Inviável a análise de ofensa a dispositivos constitucionais em sede de recurso especial, sob pena de usurpação da Suprema Corte. A propósito: AgInt no REsp n. 1.542.764/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/9/2016, DJe 22/9/2016.
+Do alegado dissídio jurisprudencial
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973, ônus dos quais a recorrente não se desincumbiu.
+Registre-se, ademais, que "a divergência entre julgados do mesmo Tribunal não enseja recurso especial", conforme prevê o enunciado de Súmula n. 13/STJ.
+Da alegada desproporção e onerosidade excessiva do valor das prestações do imóvel
+O Tribunal de origem, soberano na análise das provas, concluiu que, no caso concreto, não se revestiu de abusividade e de onerosidade excessiva o valor pactuado do preço do imóvel, nos seguintes termos (e-STJ fls. 929/931):
+O julgador bem entendeu ser aplicável ao caso o Código de Defesa do Consumidor com inversão do ônus da prova. Todavia, ao contrário do que alega o apelante, não há que se falar em não aplicação dos efeitos da inversão do ônus da prova, uma vez que as questões de fato restaram todas devidamente esclarecidas nos autos.
+E, muito embora seja correta a aplicação do CDC ao caso, uma vez que se trata de contrato de compromisso de compra e venda de bem imóvel (empresa que oferta terrenos para loteamento), mostra-se imprescindível para haver revisão contratual a existência de desequilíbrio na celebração ou na execução do contrato. Portanto, acaso demonstrada onerosidade excessiva, o Poder Judiciário deve interferir para restabelecer o equilibro na relação.
+No que tange a alteração do preço do imóvel pretendida pelo apelante, porque em desconformidade com o praticado no mercado, tem-se que é inviável, pois sua fixação fica sujeita à livre negociação entre as partes. É importante frisar que, o fato de o apelante não conseguir cumprir suas obrigações (pagamento), não invalida o contrato e nem o torna abusivo. Ora, tanto o valor como a forma de pagamento estavam expressamente previstos no contrato de compromisso compra e venda, possibilitando a exata compreensão e livre análise acerca dos benefícios ou não do negócio (fls.48 e 55). O apelante não foi obrigado a aceitar o preço estabelecido pelas empresas rés, muito menos, assinar o contrato. Tal conduta foi realizada de livre e espontânea vontade, não podendo ser alegada, neste caso, ignorância a respeito do fato. Se o preço exigido não estava condizente com a estrutura oferecida pelo residencial (local, infra-estrutura, regularização municipal, etc), ou, ainda, com as condições financeiras do apelante, cabia a este se abster de firmar o contrato em questão. Desse modo, não tendo o apelante comprovado a existência de defeito no negócio jurídico, como por exemplo: erro, dolo ou coação, presume-se que houve consenso, logo, o negócio é plenamente válido e eficaz, não sendo possível a revisão do preço ajustado.
+Desse modo, revela-se descabida a intervenção do Poder Judiciário para a modificação do preço livremente ajustado pelas partes, prevalecendo aqui, o princípio da pacta sunt servanda, mesmo porque não há qualquer indício de prática abusiva que pudesse subtrair do consumidor a opção de não aderir a pacto se não lhe afigurasse conveniente.
+Também, como já mencionado, o Judiciário pode intervir no contrato fruto de relação consumerista quando o contratante, tido por hipossuficiente na relação, sofrer lesões por conta de cláusulas abusivas típicas dos contratos de adesão e que trazem desequilíbrio contratual, isto a doutrina e a jurisprudência chamam, de "relativização dos contratos". Contudo, não basta alegar irregularidades de toda sorte, é necessário que sejam elas demonstradas como efetivamente abusivas, permitindo a interferência estatal na relação.
+Nesse sentido, quanto aos princípios constitucionais e de direito privado que limitam a atuação do particular na ordem econômica e que, conforme alega o apelante, deveriam forçar a intervenção do Judiciário no contrato, esta Corte tem se posicionado contrariamente à possibilidade de que, sob o manto desses princípios, sem demonstração clara da abusividade, seja imposto ao vendedor o preço que o comprador entende adequado após a contratação já feita.
+A propósito:
+(..)
+Assim, impossível no caso em espécie, haver intervenção do Poder Judiciário para alterar aquilo que foi avençado pelas partes, uma vez que inexistente a alegada abusividade do preço do imóvel.
+É inviável alterar as conclusões da Corte local quanto à abusividade e à onerosidade excessiva de tal pactuação, por óbice das Súmulas n. 5 e 7 do STJ, a fim de revisar o valor acordado das prestações do imóvel, uma vez que tal providência acarretaria o revolvimento do conteúdo fático e nova interpretação das cláusulas do contrato de compra e venda. A respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+REVISÃO CONTRATUAL. COMPARTILHAMENTO DE POSTES POR EMPRESA DE TV A CABO. ONEROSIDADE EXCESSIVA. AUSÊNCIA DE DEMONSTRAÇÃO. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO DESPROVIDO.
+1. A verificação da configuração da onerosidade excessiva do contrato enseja sua análise e das circunstâncias fáticas inerentes, o que atrai os óbices das Súmulas 5 e 7/STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 140.808/SP, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 15/3/2018, DJe 23/3/2018.)
+Da falta de prequestionamento
+A Corte local não se manifestou quanto ao art. 396 do CC/2002. Dessa forma, sem ter sido objeto de debate na decisão recorrida, apesar da oposição de aclaratórios, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho da Súmula n. 211/STJ.
+Ademais, segundo a jurisprudência do STJ, "A simples propositura de ação revisional não é suficiente para descaracterização da mora, a teor da Súmula 380/STJ. 3.1. O afastamento da mora reclama a presença concomitante dos seguintes requisitos: (i) ação proposta pelo devedor contestando a existência integral ou parcial do débito; (ii) efetiva demonstração da plausibilidade da pretensão (consonância com a jurisprudência do STF ou do STJ); e (iii) depósito ou prestação de caução idônea do valor referente à parcela incontroversa, para o caso de a contestação ser apenas de parte do débito" (AgRg no AREsp n. 377.706/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/8/2017, DJe 4/9/2017).
+Na mesma linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. MORA. COMPROVAÇÃO. NOTIFICAÇÃO EXTRAJUDICIAL. OCORRÊNCIA. REVISÃO DO JULGADO. APLICAÇÃO DA SÚMULA 7/STJ. O MERO AJUIZAMENTO DA AÇÃO REVISIONAL NÃO DESCARACTERIZA A MORA. ENTENDIMENTO JURISPRUDENCIAL DESTA CORTE ESTABELECIDO NO RESP N. 1.061.530/RS. AGRAVO IMPROVIDO.
+(..)
+4. "O simples ajuizamento de ação revisional não descaracteriza a mora, nem mesmo quando o reconhecimento de abusividade incidir sobre os encargos inerentes ao período de inadimplência contratual.
+Precedentes." (AgInt no AREsp 863.320/MS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/3/2017, DJe 4/4/201).
+(..)
+6. Agravo interno improvido.
+(AgInt no AREsp n. 894.433/MS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 6/6/2017, DJe 16/6/2017.)
+Em tais condições, constata-se que a pretensão do recorrente de descaracterizar sua mora contratual, com fundamento no mero ajuizamento de demanda revisional do débito controvertido, não encontra amparo na jurisprudência desta Corte Superior.
+Da alegada impossibilidade de cumulação de multa rescisória com taxa de ocupação do imóvel
+Conforme jurisprudência pacífica desta Casa, é possível a cumulação de multa contratual com o pagamento da taxa de fruição do imóvel, devido à ocupação do bem pelo adquirente no período de inadimplência. A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE "RESCISÃO CONTRATUAL C/C PERDAS E DANOS E REINTEGRAÇÃO DE POSSE". INSTRUMENTO PARTICULAR DE PROMESSA DE COMPRA E VENDA. INDENIZAÇÃO POR PERDAS E DANOS EM RAZÃO DA FRUIÇÃO DO IMÓVEL APÓS OCORRIDA A INADIMPLÊNCIA. CUMULAÇÃO COM A MULTA PREVISTA EM CLÁUSULA PENAL COMPENSATÓRIA. POSSIBILIDADE.
+1. Em se tratando de promessa de compra e venda de imóvel, a jurisprudência desta Corte afasta qualquer ilação no sentido da caraterização de bis in idem na hipótese de condenação do promissário comprador ao pagamento cumulativo da cláusula penal compensatória e da indenização por perdas e danos a título de fruição do bem.
+2. A cláusula penal, consistente na retenção de percentual sobre o valor das prestações pagas, visa, entre outras coisas, ao ressarcimento do promitente vendedor pela utilização do imóvel durante o período em que o contrato foi cumprido (REsp 963.073/DF, Rel. Ministro Sidnei Beneti, Rel. p/ Acórdão Ministra Nancy Andrighi, Terceira Turma, julgado em 22.03.2011, DJe 16.04.2012).
+Por outro lado, caso o promissário comprador continue na posse do bem após a mora, será devida, ao credor, indenização por perdas e danos, a título de aluguéis, o que não se confunde com a pena convencional.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.179.783/MS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/4/2016, DJe 26/4/2016.)
+CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. COMPRA E VENDA.
+INADIMPLEMENTO DO COMPRADOR. CLÁUSULA PENAL. FRUIÇÃO DO IMÓVEL.
+INDENIZAÇÃO.
+1. É cabível a indenização pela utilização do imóvel pelo comprador inadimplente, ainda que haja previsão contratual de cláusula penal.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.212.273/MS, Relator Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/2/2016, DJe 19/2/2016.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C.C. PERDAS E DANOS - COMPROMISSO DE COMPRA E VENDA - INADIMPLEMENTO DO COMPRADOR - CLÁUSULA PENAL - TAXA DE FRUIÇÃO - CUMULAÇÃO - POSSIBILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça entende que a multa prevista pela cláusula penal não deve ser confundida com a indenização por perdas e danos pela fruição do imóvel, que é legítima e não tem caráter abusivo quando há uso e gozo do imóvel. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 1.285.565/MS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 1º/10/2015, DJe 8/10/2015.)
+O TJPR concluiu que (e-STJ fls. 932/933):
+Ao contrário do que alega o apelante, a partir da rescisão do contrato e determinada a reintegração da posse, cabível também a cobrança de alugueis pelo período de ocupação do imóvel, evitando-se enriquecimento ilícito do devedor.
+Imperioso destacar que a retenção de parte das parcelas pagas, a título de multa (no caso, 10%), não prejudica o direito de percepção de alugueres, pelo tempo de ocupação do imóvel, devidos, até a reintegração na posse. Isso porque a retenção de percentual sobre o valor das parcelas pagas a título de indenização visa fazer frente às despesas administrativas e os alugueres visam recompor os prejuízos pela indisponibilidade do imóvel, constituindo-se parte integrante da recomposição sem enriquecimento ilícito por uma das partes.
+(..)
+Assim sendo, lícita é a cobrança a título de alugueres pela utilização do bem, pois não se pode admitir que o comprador, inadimplente com o estipulado no contrato, continue a utilizá-lo graciosamente.
+Estando o acórdão impugnado em sintonia com a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Do requerimento de indenização pelas benfeitorias erguidas no imóvel, bem como do alegado direito de retenção quanto ao valor de tais construções
+O TJPR afastou, no caso concreto, o direito do recorrente ao reembolso do valor das benfeitorias erguidas no bem, tendo em vista que (e-STJ fls. 933/934):
+O pedido de indenização pelas benfeitorias e retenção do imóvel não merece prosperar, posto que o apelante não comprovou a existência de qualquer benfeitoria sobre o imóvel em questão. Desse modo, inexistindo prova da existência de benfeitorias realizadas, deve ser mantida a r. sentença neste ponto.
+Todavia, nada impede que o apelante por meio de ação própria comprove a existência de benfeitorias e exija a devida indenização.
+Segue jurisprudência desta Corte sobre o assunto:
+Alterar as conclusões da Corte de origem, a fim de condenar a recorrida ao reembolso do valor das benfeitorias supostamente erguidas pela recorrente no bem e, por consequência, reconhecer o seu direito de retenção pelo valor de tais construções, demandaria nova incursão no acervo fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor da Súmula n. 7/STJ. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE IMISSÃO NA POSSE - TUTELA ANTECIPADA - REQUISITOS PRESENTES - DELIBERAÇÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO.
+1. É clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia tendo enfrentado de maneira expressa e objetiva o questionamento acerca da presença dos requisitos para concessão do pedido liminar de imissão de posse.
+2. A inversão do que ficou decidido pelo acórdão recorrido quanto ao cumprimento dos requisitos da proteção possessória ao agravado, bem como o direito à indenização das benfeitorias demandaria reexame dos elementos fáticos-probatório dos autos, o que é vedado em sede de recurso especial. Incidência da Súmula 7 do STJ. Precedentes do STJ: AgRg no AREsp 641527/RS, Rel. Min. Luis Felipe Salomão, DJe de 02/06/2015; AgRg no AREsp 778999/RS, Rel. Min. Marco Aurélio Belizze, Dje de 22/02/2016.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.444.659/MS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/3/2017, DJe 30/3/2017.)
+AGRAVO INTERNO. INTERPOSIÇÃO SOB A ÉGIDE DO CPC/2015. AÇÃO DE INDENIZAÇÃO C/C MANUTENÇÃO NA POSSE. CONTRATO DE ARRENDAMENTO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 211 DO STJ E 282 DO STJ. INDENIZAÇÃO DE BENFEITORIAS. NÃO CABIMENTO. REVISÃO DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 DO STJ.
+(..)
+3. Incidem as Súmulas n. 5 e 7 do STJ se a tese defendida no recurso especial reclamar a análise de cláusula contratual e de elementos probatórios produzidos ao longo da demanda.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 193.114/MS, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 2/8/2016, DJe 18/8/2016.)
+Por fim, de acordo com a jurisprudência do STJ, nos termos do julgamento proferido pela Corte Especial no AgRg no EARESp n. 86.915/SP, de relatoria do Ministro RAÚL ARAÚJO, a decisão que defere o benefício da gratuidade de justiça somente perde sua eficácia em caso de expressa revogação pelo Juiz ou Tribunal, sendo prescindível renovar o pedido, quando da interposição do recurso. A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUSTIÇA GRATUITA (LEI 1.060/50, ARTS. 4º, 6º E 9º). CONCESSÃO. EFICÁCIA EM TODAS AS INSTÂNCIAS E PARA TODOS OS ATOS DO PROCESSO. RENOVAÇÃO DO PEDIDO NA INTERPOSIÇÃO DO RECURSO. DESNECESSIDADE. AGRAVO PROVIDO.
+1. Uma vez concedida, a assistência judiciária gratuita prevalecerá em todas as instâncias e para todos os atos do processo, nos expressos termos do art. 9º da Lei 1.060/50.
+2. Somente perderá eficácia a decisão deferitória do benefício em caso de expressa revogação pelo Juiz ou Tribunal.
+3. Não se faz necessário para o processamento do recurso que o beneficiário refira e faça expressa remissão na petição recursal acerca do anterior deferimento da assistência judiciária gratuita, embora seja evidente a utilidade dessa providência facilitadora. Basta que constem dos autos os comprovantes de que já litiga na condição de beneficiário da justiça gratuita, pois, desse modo, caso ocorra equívoco perceptivo, por parte do julgador, poderá o interessado facilmente agravar fazendo a indicação corretiva, desde que tempestiva.
+4. Agravo interno provido, afastando-se a deserção.
+(AgRg nos EAREsp n. 86.915/SP, Relator Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 26/2/2015, DJe 4/3/2015.)
+Ainda nesse sentido: AgInt no AREsp n. 718.958/PR, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 16/3/2017, DJe 27/3/2017, e AgInt no Ag n. 1.336.592/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/12/2016, DJe 19/12/2016.
+Verifica-se que a benesse foi concedida ao agravante na sentença (e-STJ fl. 710), motivo por que fica prejudicada a análise do pedido formulado na petição do especial, na linha dos precedentes acima expostos.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
