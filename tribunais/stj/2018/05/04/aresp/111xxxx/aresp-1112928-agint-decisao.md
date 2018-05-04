@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CAUTELAR DE SUSTAÇÃO DE PROTESTO. DUPLICATA. DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA. EXISTÊNCIA DE PREQUESTIONAMENTO IMPLÍCITO. REQUISITOS DA DUPLICATA E PROCURAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO, EM JUÍZO DE RETRATAÇÃO, PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interno interposto por BRPlast Embalagens Flexíveis LTDA. contra decisão monocrática desta relatoria que conheceu do agravo para não conhecer do recurso especial assim ementada (e-STJ, fl. 277):
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CAUTELAR DE SUSTAÇÃO DE PROTESTO. DUPLICATA. DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A agravante, em suas razões (e-STJ, fls. 416-420), sustenta que a matéria referente aos arts. 2º e 3º da Lei n. 5.474/1968 foi prequestionada implicitamente no acórdão recorrido, transcrevendo o seguinte excerto:
+(..)
+Ademais, a alegação de inexigibilidade das duplicatas evidenciada pela suposta falta de correção entre o valor das notas fiscais e o valor constante dos títulos levados a protesto, suscitada nos apelos e renovadas nos presentes recursos de agravo, tal como registrado na decisão terminativa atacada, também não merece guarida.
+Isso porque cabia à Autora, ao propor as demandas, comprovar os fatos constitutivos do seu direito, na forma do art. 333, I do CPC, trazendo, especificamente, elementos que atestassem o desfazimento do contrato de compra e venda dessas mercadorias como forma de comprovar a inexigibilidade das duplicatas.
+Aduz, ainda, a não incidência da Súmula n. 7 do STJ, uma vez que a questão - procuração outorgada pela recorrida aos seus patronos - é exclusivamente de direito.
+Busca, assim, o provimento do agravo interno.
+É o relatório, decido.
+Preliminarmente, quanto à questão referente ao prequestionamento dos arts. 2º e 3º da Lei n. 5.474/1968, razão assiste à recorrente.
+De fato, compulsando os autos com maior acuidade, verifica-se à ocorrência do prequestionamento implícito da matéria.
+Entretanto, no que se refere às demais alegações, tanto em relação a ausência de representação da recorrida no feito originário quanto à exigibilidade das duplicatas levadas a protesto pela recorrida (provar a existência dos fatos modificativos da demanda), melhor sorte não socorre à ora agravante. Conforme consignado no acórdão recorrido (e-STJ, fls. 281-282):
+Noutro plano, não merece reparos a decisão terminativa atacada na parte em que afastou o alegado vício de representação da Agravada nos autos da ação ordinária, fato que, no seu entender, acarretaria a sua revelia nos autos da ação ordinária e a extinção da reconvenção por ela intentada. Isso porque, como bem registrou-se no decisum ora guerreado, a Agravada acostou procuração tanto no feito cautelar preparatório (fls. 64) como na ação ordinária (fls. 60) e esse instrumento de mandato foi outorgado com a cláusula ad judicia, para foro em geral, sem indicar uma demanda específica.
+Ademais, a alegação de inexigibilidade das duplicatas evidenciada pela suposta falta de correção entre o valor das notas fiscais e o valor constante dos títulos levados a protesto, suscitada nos apelos e renovadas nos presentes recursos de agravo, tal como registrado na decisão terminativa atacada, também não merece guarida.
+Isso porque cabia à Autora, ao propor as demandas, comprovar os fatos constitutivos do seu direito, na forma do art. 333, I do CPC, trazendo, especificamente, elementos que atestassem o desfazimento do contrato de compra e venda dessas mercadorias como forma de comprovar a inexigibilidade das duplicatas.
+Ocorre que, apesar da Recorrente ter trazido ao feito cópia das notas fiscais que teriam sido emitidas com a finalidade de devolver as mercadorias (fls. 23/25 da cautelar e da ordinária), não trouxe prova contundente de que teria comunicado formalmente a Agravada do desfazimento do contrato de compra e venda. Não há nos autos prova da entrega da notificação acostada às fls. 33, e a Autora/Agravante não comprovou que o fax para o qual teria sido enviada essa notificação era de fato da Recorrida.
+(..)
+Diante de todos esses fatos, é de se considerar legítima a emissão das duplicatas, a exigibilidade da dívida e o protesto desses títulos, haja vista o inadimplemento. Portanto, mostrou-se igualmente acertada a sentença também na parte que julgou procedente a reconvenção.
+Nesse contexto, a revisão do entendimento adotado pelo Tribunal de origem implicaria o reexame do conjunto fático-probatório, o qual é vedado pela Súmula n. 7 deste Tribunal.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA E INEXIGIBILIDADE DE TÍTULOS. DUPLICATAS. PRESENÇA DOS REQUISITOS NECESSÁRIOS PARA PROTESTO E COBRANÇA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal local, mediante o exame dos elementos informativos da demanda, entendeu que a cobrança das duplicatas era legítima, uma vez que foram observados todos os requisitos exigidos pelos arts. 2º e 3º da Lei 5.474/68.
+2. A alteração da conclusão a que chegou a Corte a quo demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra vedação na Súmula 7 do Superior Tribunal de Justiça.
+3.Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.021.594/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/8/2017, DJe 29/8/2017).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DEVEDOR. DUPLICATAS. VIOLAÇÃO AO ART. 535 DO CPC/73. INEXISTÊNCIA. VIOLAÇÃO AOS ARTS. 1º E 20 DA LEI Nº 5.474/68 E DISSÍDIO JURISPRUDENCIAL. SÚMULAS 5 E 7 DO STJ.
+1. Não há falar em violação ao art. 535 do CPC de 1973 quando houve análise das matérias relevantes à lide e sobre elas o julgador emitiu pronunciamento, ainda que em desconformidade com a vontade da parte recorrente.
+2. A Corte local, com base nos elementos fático-probatórios e na interpretação do contrato firmado entre as partes, afastou a alegação de nulidade, bem como afastou a existência de qualquer irregularidade na duplicata, concluindo restar demonstrados os requisitos de liquidez, certeza e exigibilidade dos títulos, de modo que, para rever esse entendimento exposto pelo Tribunal local e acolher a pretensão recursal seria imprescindível o reexame de provas e a interpretação de cláusulas contratuais, o que é defeso nesta instância especial (Súmulas n. 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 934.108/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/9/2016, DJe 7/10/2016).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. DEFEITO NA REPRESENTAÇÃO PROCESSUAL. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Rever as conclusões do tribunal recorrido demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+2. Agravo regimental não provido.
+(AgRg nos EDcl nos EDcl no Ag n. 1.382.732/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/8/2013, DJe 29/8/2013).
+Ante o exposto, conheço do agravo para, em juízo de retratação, reconsiderar a decisão de fls. 408-412 (e-STJ) e não conhecer do recurso especial pela incidência da Súmula n. 7/STJ.
+Publique-se.
