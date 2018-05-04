@@ -1,0 +1,32 @@
+Decisão: Trata-se de habeas corpus impetrado pela Defensoria Pública da União, em favor de Flavio Cardoso Souza, contra acórdão da Sexta Turma do Superior Tribunal de Justiça (STJ), nos autos do Agravo Regimental no Habeas Corpus 424.752/SP.
+    Consta dos autos que o paciente foi condenado pela prática do delito descrito no artigo 289, § 1º, do Código Penal (crime de moeda falsa) à pena de 5 anos e 3 meses de reclusão, a ser cumprida inicialmente em regime semiaberto, além de 20 dias-multa (eDOC 2, p. 17).
+    Irresignada, a defesa interpôs apelação criminal no Tribunal de Justiça paulista. O recurso foi parcialmente provido, reduzindo-se a pena para 4 anos e 6 meses de reclusão, mantendo-se o regime inicial semiaberto. Foi determinado o início da execução da pena (eDOC 2, p. 41).
+    Sobreveio recurso especial, o qual foi obstado na origem (eDOC 2, p. 43-48).
+    Impugnou-se a decisão por meio de agravo endereçado ao Superior Tribunal de Justiça. Na oportunidade, pleiteou-se a reforma da decisão que determinou a execução provisória da pena (eDOC 2, p. 57-65).
+    O Ministro relator do AREsp 1.247.251/SP negou provimento ao recurso (eSTJ).
+    A defesa impetrou habeas corpus no STJ. Em decisão monocrática, o Ministro Antonio Saldanha Palheiro, denegou a ordem, atestando que, “nos moldes da jurisprudência desta Corte e do Supremo Tribunal Federal, não há falar, na hipótese, em vedação à execução provisória da pena” (eSTJ).
+    Contra essa decisão, a defesa interpôs agravo regimental. Requereu-se que o paciente aguarde a prolação da decisão definitiva em liberdade. A Sexta Turma negou provimento ao recurso (eDOC 2, p. 66).
+    Nesta Corte, o impetrante postula a suspensão da execução provisória da pena até o trânsito da sentença, sob pena de violação ao princípio da presunção de inocência.
+    É o relatório.
+    Passo a decidir.
+    Conforme asseverei ao apreciar o pedido de liminar no HC 146.818 MC/ES, DJe 20.9.2017, os Ministros do STF, monocraticamente, têm aplicado a jurisprudência do Supremo no sentido de que a execução provisória da sentença já confirmada em sede de apelação, ainda que sujeita a recurso especial e extraordinário, não ofende o princípio constitucional da presunção de inocência, conforme decidido no HC 126.292/SP. Esse posicionamento foi mantido pelo STF ao indeferir medidas cautelares nas Ações Declaratórias de Constitucionalidade 43 e 44, e no julgamento do Recurso Extraordinário com Agravo 964.246/SP, com repercussão geral reconhecida pelo Plenário Virtual.
+    Todavia, no julgamento do HC 126.292/SP, o Ministro Dias Toffoli votou no sentido de que a execução da pena deveria ficar suspensa com a pendência de recurso especial ao STJ, mas não de recurso extraordinário ao STF. Para fundamentar sua posição, sustentou que a instituição do requisito de repercussão geral dificultou a admissão do recurso extraordinário em matéria penal, que tende a tratar de tema de natureza individual e não de natureza geral ao contrário do recurso especial, que abrange situações mais comuns de conflito de entendimento entre tribunais.
+    Dessa forma, no julgamento do HC 142.173/SP (de minha relatoria, Segunda Turma, DJe 6.6.2017), manifestei minha tendência em acompanhar o Ministro Dias Toffoli no sentido de que a execução da pena com decisão de segundo grau deve aguardar o julgamento do recurso especial pelo STJ.
+    Entretanto, tenho que o entendimento não deve ser aplicado indistintamente.
+    Isso porque, consoante asseverei no julgamento do citado HC 126.292/SP, em que pese à presunção de não culpabilidade ser direito fundamental que impõe o ônus da prova à acusação e impede o tratamento do réu como culpado até o trânsito em julgado da sentença, ainda assim, não impõe que o réu seja tratado da mesma forma durante todo o processo.
+    Conforme se avança e a culpa vai ficando demonstrada, a lei poderá impor tratamento de algo diferenciado.
+    A presunção de inocência deve ser vista como princípio relevantíssimo para a ordem jurídica ou constitucional, mas princípio suscetível de ser devidamente conformado, tendo em vista, inclusive, as circunstâncias de aplicação no caso do Direito Penal e Processual Penal.
+    Por isso, entendo que, nesse contexto, não é de considerar-se que prisão, após a decisão do tribunal de apelação, haja de ser considerada violadora desse princípio.
+    A própria credibilidade das instituições em geral, e da justiça em particular, fica abalada se o condenado por crime grave não é chamado a cumprir sua pena em tempo razoável.
+    Em suma, a garantia da ordem pública autoriza a prisão, em casos graves, após o esgotamento das vias ordinárias.
+    Ademais, destaco os seguintes trechos da decisão do STJ (HC 424.752/SP) que confirmou a possibilidade de execução provisória determinada pelo TJSP:
+    “Conforme relatado, busca a defesa possa o paciente aguardar em liberdade o trânsito em julgado do acórdão condenatório. Contudo, razão não lhe assiste. Isso porque a nova orientação consolidada pelo Supremo Tribunal Federal é a de possibilitar a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário (HC n. 126.292/SP, Rel. Ministro Teori Zavascki, Tribunal Pleno, DJe 17/5/2016). Observe-se que, naquele julgamento, o STF deixou assentado que a execução de sentença penal condenatória confirmada por Tribunal de segundo grau de jurisdição ‘não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal’.
+    (…)
+    Na espécie, consoante se verifica das peças trazidas com a inicial da presente impetração, na data de 16/10/2017 foi interposto recurso especial (e-STJ fls. 170/176), o que demonstra o esgotamento da jurisdição ordinária. Sendo assim, nos moldes da jurisprudência desta Corte e do Supremo Tribunal Federal, não há falar, na hipótese, em vedação à execução provisória da pena.
+    (…) À vista do exposto, denego a ordem”. (eDOC 2, p. 202-206)
+    Dito isto, tenho que o caso dos autos não comporta concessão da ordem. Isso porque o AREsp 1.247.251/SP, interposto pela defesa, foi julgado pelo Superior Tribunal de Justiça (consulta ao sítio eletrônico do STJ).
+    Desse modo, com fundamento no artigo 192, caput, do RISTF, denego a ordem.
+    Brasília, 4 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
