@@ -1,0 +1,42 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquele Estado (Agravo de Execução Penal n. 0003017-54.2014.8.19.0000).
+Consta dos autos que o Juízo das Execuções Criminais julgou improcedente o pedido do Ministério Público de elaboração de cálculo da pena, para fins de progressão de regime prisional, a partir do cometimento da última falta grave pelo apenado (fl. 51).
+O Ministério Público estadual interpôs agravo em execução ao Tribunal de origem, por entender que a prática de falta grave acarretaria a interrupção do lapso temporal para a pretendida progressão. O colegiado, por maioria, negou provimento ao recurso, ao fundamento de que, transcorrido 1 (um) ano do cometimento da falta, esta não poderia interromper o prazo para a progressão de regime.
+Nas razões do recurso especial, o recorrente alega violação dos arts. 50, 112 e 118 da Lei de Execuções Penais, ao argumento de que, "em interpretação sistemática da legislação em vigor, e nos termos da pacífica jurisprudência desse E. Superior Tribunal de Justiça, a prática de falta grave acarreta a recontagem de novo lapso sobre o remanescente da pena para fins de progressão de regime" (fl. 126).
+Aduz, também, ofensa ao art. 109, VI, do Código Penal, por entender que o prazo prescricional para a homologação da falta grave é de 3 anos, pois aplica-se o art. 109, VI, do Código Penal (menor prazo prescricional nele previsto, observada a redação dada pela Lei n. 12.234/2010, aplicável ao caso dos autos).
+Requer o provimento do recurso, "determinando-se a permanência do detento no regime fechado e a elaboração de cálculo da fração da pena remanescente a partir da última falta grave praticada, para efeito de progressão de regime" (fl. 136).
+Contrarrazões às fls. 141-148 e decisão de admissibilidade às fls. 151-152.
+O Ministério Público Federal manifestou-se pelo provimento do recurso.
+Na MC n. 23.492/RJ, deferi o pedido para atribuir efeito suspensivo ao recurso especial do Ministério Público, de modo a determinar a suspensão do cumprimento do v. acórdão do Tribunal a quo, a fim de que fosse elaborado novo cálculo de pena, observadas as frações correspondentes do remanescente da reprimenda do requerido JONAS TEIXEIRA CARNEIRO, para futura progressão de regime, a partir da data do cometimento da última falta grave.
+Decido.
+É certo que não há, no nosso ordenamento jurídico, previsão de prazo prescricional específico para a apuração da falta disciplinar no curso da execução da pena.
+No entanto, este Superior Tribunal de Justiça firmou o entendimento de que, diante da ausência constatada, deve-se adotar o menor lapso estabelecido no art. 109 do Código Penal, a fim de regular o prazo prescricional para a apuração de falta disciplinar.
+Importa evidenciar, ainda, a alteração dada pela Lei n. 12.234/2010, que elevou para 3 anos o menor prazo prescricional. Assim sendo, para as faltas praticadas posteriormente à publicação da referida lei, deve-se observar o prazo de 3 anos.
+Nesse sentido, menciono:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. DIREITO PENAL. FALTA GRAVE. PRESCRIÇÃO. ART. 109 DO CP. LAPSO NÃO TRANSCORRIDO ENTRE A DATA DO FATO E A PRESENTE DATA.
+ ..
+2. O entendimento pacificado no Superior Tribunal de Justiça é no sentido de que - diante da ausência de um prazo prescricional específico para apuração de falta disciplinar - deve ser adotado o menor prazo prescricional previsto no art. 109 do Código Penal, ou seja, o de 3 anos para fatos ocorridos após a alteração dada pela Lei n. 12.234, de 5/5/2010, ou de 2 anos se a falta tiver ocorrido antes dessa data.
+ ..
+4. Agravo regimental improvido.
+(AgRg no REsp n. 1.414.267/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 25/11/2013).
+ ..
+3. A jurisprudência desta Corte reconhece a aplicação, por analogia, do prazo prescricional do art. 109, inciso VI, do Código Penal às faltas graves praticadas no curso da execução penal. Desde a publicação da Lei n. 12.234, de 5/5/10, o prazo para que a falta grave seja apurada em Processo Administrativo Disciplinar - PAD e homologada em juízo é de 3 anos, a contar do cometimento da referida falta disciplinar. Precedentes. No caso em apreço, não tendo transcorrido 3 anos desde o cometimento da falta grave, não há que se falar em prescrição.
+ ..
+5. Habeas corpus não conhecido.
+(HC n. 361.603/RS, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 24/11/2016).
+Dessa forma, uma vez que não transcorreu lapso superior a 3 anos entre a data em que praticada a falta disciplinar mencionada (1º/8/2012 - fl. 37) e a decisão judicial que reconheceu o seu cometimento, dúvidas não há de que não ocorreu a prescrição da pretensão de apuração da falta disciplinar mencionada.
+Ademais, a decisão impugnada também não está alinhada à jurisprudência desta Corte e do Supremo Tribunal Federal de que a prática de falta grave resulta em novo marco interruptivo para a concessão de benefícios, exceto o livramento condicional, o indulto e a comutação de pena.
+O Tribunal de origem negou provimento ao agravo em execução interposto pelo Ministério Público, com base nos seguintes fundamentos (fls. 99-102, destaquei):
+Os autos revelam na página digitalizada n. 47, que aos 08/08/2013, foi aplicado ao agravado a sanção disciplinar de 30 dias de isolamento, a suspensão dos direitos por igual período, na forma do artigo 53, III e IV da LEP, além do rebaixamento de índice de aproveitamento para negativo, por 180 dias (artigo 62, III do RPERJ).
+Por conseguinte já obteve punição disciplinar por aquela sanção.
+E, nos doze meses que se seguiram, não praticou qualquer infração administrativa.
+ ..
+Portanto, se possível a concessão de indulto, no lapso de 12 (doze) meses sem o cometimento de falta grave, adequa-se ao princípio da proporcionalidade que, seja conferida a progressão, a quem já alcançou o lapso objetivo legal, e o mérito carcerário, este pelo incremento de doze meses após a última punição administrativa.
+ ..
+Desta feita, retornando o tópico recursal, ultrapassados os doze meses da falta disciplinar, em que foi o agravado punido, correta a decisão que defere o benefício à progressão, se alçado o lapso objetivo. Ao que se adiciona com a falta de previsão legal à interrupção, em se encontrando o apenado no regime mais gravoso.
+Consoante entendimento sedimentado pela Terceira Seção desta colenda Corte Nacional, no julgamento do EREsp n. 1.176.486/SP, a prática de falta grave resulta em novo marco interruptivo para concessão de novos benefícios, exceto indulto, comutação e livramento condicional (Rel. Ministro Napoleão Nunes Maia, 3ª S., DJe 1º/6/2012, reiterado no REsp. Representativo de Controvérsia n. 1.364.192/RS, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 17/9/2014).
+A jurisprudência do STF também entende que "o cometimento de falta grave, durante a execução da pena privativa de liberdade, implica  o  recomeço da contagem do prazo para a obtenção de benefícios executórios" (HC n. 106.865/SP, Rel. Ministro Ricardo Lewandowski, 1ª T., DJe 15/3/2011). Nesse sentido, destaco precedentes de ambas as Turmas do STF: HC n. 114.192/RS, Rel. Ministro Dias Toffoli, 1ª T., DJe 19/12/2012; RHC n. 116.203/DF, Rel. Ministro Dias Toffoli, 1ª T., DJe 8/5/2013; HC n. 97.659/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 20/11/2009; HC n. 94.652/RS, Rel. Ministro Menezes Direito, 1ª T., DJe 5/9/2008; HC n. 94.820/MS, Rel. Ministra Ellen Gracie, 1ª T., DJe 26/9/2008; HC n. 86.990/SP, Rel. Ministro Ricardo Lewandowski, 1ª T., DJe 9/6/2006 e RHC n. 85.605/SP, Rel. Ministro Gilmar Mendes, 2ª T., DJe 14/10/2005.
+Portanto, na hipótese, sendo incontroversa a falta grave praticada pelo recorrido, deve ser reformado o acórdão do Tribunal de origem para reconhecer que a falta grave interrompeu o prazo para concessão de novos benefícios (excetos o livramento condicional, o indulto e a comutação da pena), entre eles a progressão de regime.
+À vista do exposto, com fundamento no art. 932, V, "b" e VIII, do Código de Processo Civil de 2015, c/c o art. 34, XVIII, "c", do RISTJ, dou provimento ao recurso especial, para reconhecer a apontada violação legal, afastar a incidência da prescrição e, consequentemente, reconhecer que a prática de falta grave representa marco interruptivo para a progressão do regime de cumprimento de pena.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
