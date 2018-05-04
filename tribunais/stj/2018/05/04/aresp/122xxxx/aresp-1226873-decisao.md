@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 1.042 do CPC/2015) interposto contra decisão (e-STJ fls. 318/321) que inadmitiu o recurso especial em virtude de: (a) impossibilidade de análise de matéria fático-probatória (Súmula n. 7/STJ) e (b) incidência da Súmula n. 83/STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 252):
+APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS COM PEDIDO DE ANTECIPAÇÃO DE TUTELA. CONTRATO DE FINANCIAMENTO. AUTORA QUE ADUZ NÃO POSSUIR RELAÇÃO JURÍDICA COM A RÉ. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES. AUSÊNCIA DE PROVA DA CONTRATAÇÃO. UTILIZAÇÃO DE DADOS PESSOAIS DA AUTORA POR TERCEIRO FRAUDADOR. FALSIFICAÇÃO DA ASSINATURA CONSTATADA EM PARECER TÉCNICO PRODUZIDO PELA PRÓPRIA RÉ. NEGLIGÊNCIA DA FINANCEIRA. INSCRIÇÃO INDEVIDA. ATO ILÍCITO CONFIGURADO. DANOS MORAIS PRESUMIDOS (IN RE IPSA). REPARAÇÃO DEVIDA. INSURGÊNCIA DE AMBAS AS PARTES QUANTO AO VALOR DE INDENIZAÇÃO. AUTORA QUE, NA INICIAL, PUGNOU PELA FIXAÇÃO DA INDENIZAÇÃO CONFORME OS CRITÉRIOS A SEREM ADOTADOS PELO MAGISTRADO. FATO QUE NÃO OBSTA A INTERPOSIÇÃO DE RECURSO PLEITEANDO A MAJORAÇÃO DO MONTANTE ARBITRADO EM SENTENÇA. INTERESSE RECURSAL EVIDENCIADO. INDENIZAÇÃO FIXADA NA ORIGEM EM R$ 20.000,00. VALOR QUE ATENDE AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE E, PORTANTO, DEVE SER MANTIDO. INCIDÊNCIA DE CORREÇÃO MONETÁRIA PELO INPC DESDE A DATA DO ARBITRAMENTO (SÚMULA 362 DO STJ). JUROS DE MORA DE 1% AO MÊS A CONTAR DO EVENTO DANOSO (SÚMULA 54 DO STJ). HONORÁRIOS DE SUCUMBÊNCIA FIXADOS EM 10% SOBRE O VALOR DA CONDENAÇÃO. PERCENTUAL QUE REMUNERA DE FORMA ADEQUADA E CONDIGNA O ADVOGADO. SENTENÇA MANTIDA. RECURSOS CONHECIDOS E DESPROVIDOS.
+Nas razões do recurso especial (e-STJ fls. 269/282), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de dissídio jurisprudencial, violação do art. 14, § 3º, II, do CDC, sustentando a "exclusão da responsabilidade da requerida por culpa exclusiva de terceiros (estelionatário)" (e-STJ fl. 272).
+No agravo (e-STJ fls. 324/331), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida não apresentou contraminuta (e-STJ fl. 335).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Cuida-se, na origem, de ação declaratória de inexistência de débito c/c de indenização por danos morais decorrente da indevida inscrição do nome da autora em cadastro de inadimplentes em virtude de fraude praticada por terceiro junto à instituição financeira ré.
+O Ministro LUIS FELIPE SALOMÃO, quando da afetação do REsp n. 1.199.782/PR, assim delimitou a controvérsia:
+2. Verifico que há multiplicidade de recursos que ascendem a esta Corte a versar, de um modo geral, acerca da responsabilidade civil de fornecedores de serviços ou produtos, por inclusão indevida do nome de consumidores em cadastros de proteção ao crédito, em decorrência de fraude praticada por terceiros. Por isso, afeto o julgamento do presente recurso especial à e. Segunda Seção, nos termos do art. 543-C do CPC, bem como da Resolução n. 08/2008. (Grifos no original.)
+O julgamento do recurso representativo recebeu a seguinte ementa:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. JULGAMENTO PELA SISTEMÁTICA DO ART. 543-C DO CPC. RESPONSABILIDADE CIVIL. INSTITUIÇÕES BANCÁRIAS. DANOS CAUSADOS POR FRAUDES E DELITOS PRATICADOS POR TERCEIROS. RESPONSABILIDADE OBJETIVA. FORTUITO INTERNO. RISCO DO EMPREENDIMENTO.
+1. Para efeitos do art. 543-C do CPC: As instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros - como, por exemplo, abertura de conta-corrente ou recebimento de empréstimos mediante fraude ou utilização de documentos falsos -, porquanto tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno.
+2. Recurso especial provido.
+(REsp n. 1.199.782/PR, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 24/8/2011, DJe 12/9/2011.)
+Dessa forma, percebe-se que a situação fática dos presentes autos está em consonância com aquela constante no REsp n. 1.199.782/PR, uma vez que, conforme asseverado pela Corte a quo, houve inscrição do nome da autora em cadastros de restrição ao crédito em decorrência de fraude praticada por terceiros.
+O Tribunal de origem ao apreciar a questão atinente à responsabilidade da instituição financeira decidiu em conformidade com a orientação desta Corte, incidindo, portanto, a Súmula n. 83/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
