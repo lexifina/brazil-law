@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIVERSIDADE FEDERAL DE SANTA CATARINA - UFSC com fundamento na(s) alínea(s) "a" do permissivo constitucional contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. PREGÃO. LEI Nº 10.520/02. FRAUDE. PENALIDADE. AUSÊNCIA DE AMPLA DEFESA E CONTRADITÓRIO. SEGURANÇA CONCEDIDA.
+A administração, ao aplicar penalidade em razão de constatada fraude no certame, deve obrigatoriamente observar os princípios do contraditório e ampla defesa. O princípio do contraditório apenas é concretizado quando garantida a ciência e participação no processo (perspectiva formal), com a possibilidade de influenciar no resultado do processo (perspectiva material). Sonegado o direito ao contraditório, imperiosa a declaração de nulidade do ato que aplicou a penalidade.
+O(a) recorrente alega violação do disposto nos arts. 535 do CPC/1973; 3º, 41 e 90, todos da Lei n. 8.666/1993. Aduz negativa de prestação jurisdicional e, no mérito, defende a manutenção da sanção aplicada, ao argumento de "que ficou comprovado que os sócios das duas empresas conheciam o conteúdo das propostas apresentadas."
+Contrarrazões (e-STJ fls. 263/267).
+Parecer do MPF pelo desprovimento do recurso (e-STJ fls. 294/296).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Isso considerado, impõe-se afastar, desde logo, a indigitada ofensa ao art. 535 do CPC/1973, visto que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, qualquer contrariedade à norma invocada.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Sobre a hipótese: AgRg no AREsp 750650 / RJ, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 30/9/2015 e AgRg no AREsp 493652/RJ, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 20/6/2014.
+Quanto ao mérito recursal, o Regional manteve a sentença que concedeu a segurança para declarar a nulidade da penalidade imposta à recorrida - de impedimento de licitar e contratar com a União pelo prazo de dois anos, com o descredenciamento do SICAF pelo mesmo período, porque se convenceu de que houve afronta ao devido processo legal.
+Para tanto, escudou-se em dispositivos da Constituição Federal, como demonstra o seguinte excerto (e-STJ fls. 195/196):
+"Verifico, preliminarmente, que a autoridade coatora aplicou penalidade sem proporcionar prazo para defesa, ofendendo o Devido Processo Legal.
+Com efeito, ao constatar irregularidade no processo de licitação, deveria a UFSC ter proporcionado o direito de defesa à impetrante. Com efeito, tal prazo de defesa revela-se importante, pois se poderá aquilatar melhor a gravidade do fato e a intenção dos supostos fraudadores. A autora poderia produzir provas para demonstrar ser inocente e que não teve intenção de causar a irregularidade.
+Assim sendo, tenho que não houve a garantia do Devido Processo Legal, vigente também na seara administrativa, prevista nos incisos LIV e LV do artigo 5º Constituição Federal.
+Saliente-se que a autoridade coatora deverá fundamentar e especificar qual a irregularidade cometida, a fim de que a impetrante possa exercer seu direito de defesa. A UFSC deverá
+também explicitar porque aplicou uma pena e não aplicou outra, a fim de mostrar que a pena aplicada foi razoável e proporcional para a irregularidade cometida.
+Como anotado no parecer, o Tribunal Regional decidiu a controvérsia sob o enfoque eminentemente constitucional, "a ausência de contraditório e ampla defesa no processo administrativo" (e-STJ fl. 296), o que torna inviável a análise da questão em sede de Recurso Especial, sob pena de usurpação da competência do STF.
+Acerca da hipótese, conferir: AgInt no AREsp 964.987/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/10/2016, DJe 23/11/2016, eAgInt no REsp 1592093/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/10/2016, DJe 17/10/2016.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
