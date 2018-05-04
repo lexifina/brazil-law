@@ -1,0 +1,27 @@
+DECISÃO
+SANDRA RODRIGUES RAMOS agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, na Apelação n. 0012980-38.2013.8.07.006.
+Depreende-se dos autos que a agravante foi condenada, pela prática do crime previsto no art. 331 do Código Penal, à pena de 10 dias-multa. A sentença foi mantida, na íntegra, pelo Tribunal a quo, ao negar provimento à apelação criminal interposta pela defesa.
+Nas razões recursais, a defesa suscita violação do art. 13 do Pacto de São José da Costa Rica, ao argumento de que a condenação pelo crime de desacato é incompatível com mencionado tratado.
+Requer, dessa forma, o provimento do recurso especial, para absolver a agravante.
+A Corte local não admitiu o recurso, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo improvimento do agravo.
+Decido.
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade. Quanto ao recurso especial, também observo o preenchimento dos requisitos de admissibilidade.
+Em 24/5/2017, a Terceira Seção do Superior Tribunal de Justiça, nos autos do HC n. 379.269, por maioria, decidiu que desacatar funcionário público no exercício da função ou em razão dela continua a ser crime, conforme previsto no art. 331 do Código Penal.
+Em voto ali proferido, sustentei a vigência e validade do art. 331 do Código Penal, que pune a conduta do crime de desacato.
+Assinalei a convicção de que o art. 13, II, da Convenção - dispositivo que teria sido, segundo a defesa, desrespeitado pelo Tribunal de origem - cuida do direito à informação e destaquei que o preceito em apreço, após definir aquele direito, dispõe o seguinte:
+ ..
+O exercício do direito previsto no inciso precedente não pode estar sujeito à censura prévia, mas a responsabilidades ulteriores, que devem ser expressamente fixadas pela lei e ser necessárias para assegurar:
+a - o respeito aos direitos ou à reputação das demais pessoas; ou
+b - a proteção da segurança nacional, da ordem pública, ou da saúde ou da moral públicas.  ..
+Resulta evidente, como pontuei, que esse dispositivo permite a criação de tipos penais que objetivem proteger, como bem jurídico digno de proteção, a honra subjetiva da pessoa humana, bem como o respeito à ordem e à moral públicas, de que devem ser destinatários os serviços prestados pelo Estado ao público em geral. Ademais, qualquer servidor, no exercício de uma função pública, ao tratar com o particular, deve merecer essa proteção, não tanto para tutelar a sua honra subjetiva - porque essa proteção já encontra guarida nos crimes contra a honra - mas para garantir o respeito que se deve destinar aos funcionários que representam e presentam o estado nos variados tipos de serviços públicos que são prestados.
+A Corte Interamericana permite, em casos de extrema gravidade do abuso da liberdade de expressão, a utilização do direito penal para a proteção da honra, devendo a aplicação dessas medidas ser avaliada com especial cautela. Nesse sentido: Caso Ricardo Canese vs. Paraguai. Sentença de 31 de agosto de 2004. § 104; Caso Kimel vs. Argentina. Sentença de 2 de maio de 2008. par. 71 e 76 e Caso Herrera Ulloa vs. Costa Rica. Sentença de 2 de julho de 2004.
+A Corte Interamericana,  ao tratar de casos concretos sobre o conflito entre o direito à liberdade de expressão e o direito à honra, propõe analisar, segundo as circunstâncias de cada hipótese, se a aplicação desses tipos penais (difamação, injúria, calúnia ou desacato) enseja contrariedade à Convenção Americana ao impor penas desnecessárias e desproporcionais.
+Essa compreensão assemelha-se, aliás, ao entendimento esposado pela homóloga Corte Europeia de Direitos Humanos:
+ ..  o valor preponderante da liberdade de expressão, especialmente em questões de interesse público, não pode prevalecer sempre em todos os casos sobre a necessidade de proteger a honra e a reputação de outros, seja de pessoas privadas ou de funcionários públicos. (Caso Mam re v. France, n. 12697, § 27)
+ ..  permanece aberta a possibilidade para as autoridades competentes do Estado de adotar, em sua condição de garantes da ordem pública, medidas, ainda que de natureza penal, destinadas a reagir de maneira adequada e não excessiva frente a imputações difamatórias desprovidas de fundamento ou formuladas de má fé. (Caso Castells v. Spain, 23/4/1992, n. 236, § 46)
+Portanto, forçoso concluir pela ausência de violação do art. 13 do Pacto de São José da Costa Rica.
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Por fim, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena imposta. A determinação deve ser desconsiderada caso a agravante já cumpra a reprimenda.
+Publique-se e intimem-se.
