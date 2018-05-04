@@ -1,0 +1,27 @@
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. MERO DESCUMPRIMENTO CONTRATUAL. INEXISTÊNCIA DE CIRCUNSTÂNCIAS EXCEPCIONAIS. NÃO CONFIGURAÇÃO.
+1. O dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação a direito da personalidade dos promissários compradores. Precedentes do STJ.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+O EXMO. SR. MINISTRO NANCY ANDRIGHI:
+Cuida-se de agravo interno interposto por GIOVANNI COSTA PINTA OLIVEIRA e OUTRA contra decisão unipessoal de fls. 537/539 (e-STJ).
+Ação: de indenização ajuizada por GIOVANNI COSTA PINA OLIVEIRA e OUTRA, em face das recorridas, na qual requer o pagamento de indenização por danos morais em decorrência do atraso na entrega do imóvel.
+Sentença: julgou procedente o pedido inicial formulado pelos recorridos.
+Acórdão: negou provimento ao recurso de apelação das recorridas, nos termos da ementa a seguir:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR - ATRASO NA ENTREGA DO IMÓVEL POR FATO ATRIBUÍDO À CONSTRUTORA - INEXISTÊNCIA DE CASO FORTUITO OU FORÇA MAIOR - DIREITO À INDENIZAÇÃO POR DANO MORAL - INTELIGÊNCIA DA SÚMULA 12 DESTA CORTE DE JUSTIÇA - MANUTENÇÃO DA SENTENÇA - RECURSO DAS REQUERIDAS CONHECIDO E IMPROVIDO - POR UNANIMIDADE (e-STJ fl. 366).
+Decisão agravada: deu provimento ao recurso especial interposto pelas agravadas para afastar a fixação do dano moral, visto que ela está justificada apenas no mero descumprimento contratual, não teria sido demonstradas pelo Tribunal de origem as circunstâncias específicas que permitam aferir a violação de algum direito da personalidade dos ora agravantes, tendo sido justificada no mero descumprimento contratual.
+Agravo Interno: os agravantes, em suas razões recursais, defendem que a demora na entrega do imóvel foi o motivo pelo qual a presente ação foi ajuizada, não se tratando de mero descumprimento contratual; que a Súmula 12 do TJ/SE é clara, no sentido de que, em não havendo caso fortuito ou força maior, devidamente comprovado, será cabível a indenização por dano moral em razão do atraso na entrega do imóvel.
+Aduz ainda que a recorrente encontrava-se grávida no período em que deveria ter sido entregue o imóvel, sendo esse fato incontroverso para o deferimento do dano moral.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NANCY ANDRIGHI(RELATOR):
+O agravo interno não merece acolhida, porquanto os argumentos deduzidos nas razões recursais pelos agravantes são incapazes de alterar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+Conforme restou consignado na decisão agravada, esta Corte tem entendido que, na hipótese de atraso na entrega de imóvel adquirido na planta, a lesão extrapatrimonial se caracteriza quando, na situação concreta, houver a confluência de outros fatores capazes de causar sofrimento, dor, constrangimento, angústia ou desconforto espiritual nos promitentes compradores. Isso porque a demora da construtora e/ou incorporadora, por si só, não importa em dano moral indenizável.
+Nesse sentido, confira-se os seguintes precedentes: REsp 1.637.627/RJ, 3ª Turma, DJe de 14/12/2016; REsp 1.633.274/SP, 3ª Turma, DJe de 11/11/2016; REsp 1.536.354/DF, 3ª Turma, DJe de 20/06/2016.
+Assim, cuidando-se de atraso na entrega de imóvel, o dano moral não se presume, isto é, não se caracteriza in re ipsa, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em considerável e anormal violação a direito da personalidade dos promissários-compradores.
+Na hipótese dos autos, observa-se da leitura do acórdão a quo que o Tribunal de origem ao apreciar a questão, limitou-se a aduzir que a responsabilidade das recorridas estaria caracterizada em virtude da não entrega do imóvel no prazo estabelecido (e-STJ fl.369), deixando de tecer quaisquer considerações acerca das circunstâncias que permitam aferir a violação de algum direito da personalidade dos agravantes.
+No mais, também não se observa, qualquer menção pelo Tribunal de origem, no sentido de que a demora na entrega do imóvel tivesse trazido qualquer constrangimento à personalidade da recorrente que se encontrava em estado gravídico, questão que não é passível de apreciação nesta via recursal por se constituir em inovação recursal e ensejar o reexame de fatos e provas, o que não é permitido pela Súmula 7 desta Corte.
+Por fim, importa salientar que os recorrentes alegam que a Corte de origem teria aplicado a Súmula 12 daquele Tribunal à hipótese dos autos, a qual deve ser observada por esta Corte. No entanto, tal tese não merece guarida, haja vista que a aplicação de enunciados sumulares de outros tribunais não vincula as decisões deste Sodalício, principalmente quando se tem jurisprudência pacífica acerca do tema.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
