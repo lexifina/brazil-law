@@ -1,0 +1,42 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Engenheiros Associados Ferri Ltda., com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 2ª Região, publicado na vigência do CPC/1973, assim ementado (e-STJ, fl. 207):
+AÇÃO DE COBRANÇA. DÍVIDA DO EXTINTO INAMPS. PRESCRIÇÃO. OCORRÊNCIA. ART. 2º DO DECRETO 20.910/32. HONORÁRIOS ADVOCATÍCIOS REDUZIDOS. ART. 20, § 4º DO CPC.
+- O autor postula o pagamento de faturas relativas à prestação de serviços de assistência técnica, manutenção corretiva e preventiva em equipamentos instalados no Hospital do Andaraí e no Hospital dos Servidores do Estado - HSE, em razão de contrato celebrado com o extinto INAMPS, sucedido pela União Federal.
+- Mas a ação só foi ajuizada após o decurso do prazo qüinqüenal previsto no art. 1º do Decreto nº 20.910/32. De outro lado, não restou configurada a situação descrita no art. 4º do Decreto nº 20.910/32.
+- Na inicial, o autor não mencionou a existência de processo administrativo em que tenha eventualmente sido discutida a dívida. É dever do autor instruir a petição inicial com os documentos indispensáveis à demanda, nos termos do art. 283 do CPC. Noutro giro, entre a réplica e a conclusão dos autos para sentença decorreu tempo muito superior aos 30 dias requeridos pelo autor para juntar aos autos cópia dos referidos processos administrativos.
+Quanto à prova testemunhal requerida, o autor afirmou que a sua finalidade era comprovar que os serviços que motivam a presente cobrança foram efetivamente prestados, o que não guarda pertinência com os motivos alegados para a suspensão da prescrição. Em suma, não houve cerceamento de defesa.
+- Com o reconhecimento da prescrição, não há que se falar em condenação, pelo que os honorários advocatícios devem ser fixados com base no artigo 20, § 4º do CPC, sendo reduzidos para 5% sobre o valor da causa corrigido.
+- Apelarão parcialmente provida.
+Sem embargos de declaração.
+Alega a recorrente violação do art. 4º do Decreto n. 20.910/1932, pois não ocorreu a prescrição, uma vez que o prazo prescricional ficou suspenso em razão do envio à recorrida das faturas e correspondentes relatórios a fim de que tomasse providências para liquidação do débito.
+Sustenta contrariedade ao art. 284 do CPC/1973, porquanto a insurgente deveria ter sido intimada para juntar aos autos os documentos necessários para fundamentar o direito pleiteado.
+Contrarrazões às e-STJ. fls. 239/243.
+Parecer do Ministério Público Federal às e-STJ, fls. 262/265, em que opina pelo não conhecimento do apelo nobre.
+É o relatório.
+A irresignação não merece prosperar.
+Com efeito, o Tribunal a quo, soberano na análise de fatos e provas, consignou que a notificação feita pela recorrente para a cobrança da dívida ocorreu após o decurso do prazo prescricional e que, mesmo após transcorridos em muito os 30 dias por ela requeridos, não foram juntados aos autos cópia dos processos administrativos (e-STJ, fl. 205), confira-se:
+Ou seja, o autor nem sequer comprovou que efetivamente ocorreu a alegada notificação extrajudicial dos administradores dos hospitais. De qualquer forma, ele alega que tal notificação ocorreu em 26/01/2001, ou seja, após o decurso do prazo qüinqüenal, pelo que não há que se falar em suspensão da prescrição. Ressalto que as faturas foram emitidas à vista (fls. 30/40 e 45/68), pelo que não havia necessidade de constituição em mora através de notificação (art. 960 do Código Civil de 1916).
+Na réplica, o autor requereu a juntada do processo administrativo nº 15809/91, referente ao Hospital do Andaraí, e dos processos nº 300275-0/91, E-08/3016310/92 e E-08/3013790/93, relativos ao Hospital dos Servidores do Estado, para tanto postulando prazo de 30 dias (fls. 107/108). Tendo sido determinada a especificação de provas (fl. 113), o autor protocolou petição requerendo a produção de prova testemunhai, para comprovar que os serviços que motivam a presente cobrança foram efetivamente prestados, bem como a requisição dos autos dos referidos processos administrativos (fl. 15).
+Ocorre que, na inicial, o autor não mencionou a existência de qualquer processo administrativo em que tenha eventualmente sido discutida a dívida, o que implica inovação na causa de pedir, em afronta ao art. 264 do CPC, mormente quando os números dos processos mostram que se referem a anos anteriores ao vencimento das faturas.
+E, ainda que assim não o fosse, não haveria que se falar cm cerceamento de defesa.
+Ora, é dever do autor instruir a petição inicial com os documentos indispensáveis à demanda, nos termos do art. 283 do CPC.
+No caso, ao contrário do que alega o autor, cabia a ele comprovar que, não obstante o decurso de mais de 5 anos desde a emissão da última fatura, não teria ocorrido a prescrição, em razão da alegada suspensão, o que não ocorreu.
+Noutro giro, observo que a réplica foi protocolada em 15/07/2002 (fl. 104) e os autos só foram conclusos para sentença em 31/01/2003 (fl. 117), tendo decorrido tempo muito superior aos 30 dias requeridos pelo autor para juntar aos autos cópia dos referidos processos administrativos. Isso basta, e afasta a tese de cerceamento.
+Dessa forma, para rever as conclusões da Corte de origem da forma como pretende a recorrente, seria necessário o reexame do conjunto fático-probatório dos autos, o que é inviável na via eleita, em razão do óbice da Súmula 7/STJ.
+No ponto:
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO DE DISPOSITIVO DA CF. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. ENRIQUECIMENTO ILÍCITO. ART. 884 DO CC. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 59 DA LEI N. 8.666/93. SÚMULA 284/STF. ALÍNEA "C". AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR DIVERGENTE. SÚMULA 284/STF.
+1. A tese defendida pelo agravante é a de que o município não tem a obrigação de realizar os pagamentos dos contratos, ante a ausência de licitação. Verifica-se, pois, que a impertinência do dispositivo legal apontado como violado, no sentido de ser incapaz de infirmar o aresto recorrido, revela a deficiência das razões do recurso especial, fazendo incidir a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+2. O Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, ao negar provimento à apelação, entendeu o agravado comprovou efetivamente que fazia jus ao recebimentos dos valores pleiteados e que havia declaração assinada pelo representante do município acerca do recebimento da obra.
+Portanto, modificar o acórdão recorrido, como pretende o recorrente, no sentido de que a agravada "não demonstrou a realização de todos os serviços, sendo que os realizados foram mal prestados", demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte em vista do óbice da Súmula 7/STJ.
+3. A jurisprudência desta Corte é assente no sentido de que a ausência de indicação dos dispositivos em torno dos quais teria havido interpretação divergente por outros Tribunais não autoriza o conhecimento do recurso especial, quando interposto com base na alínea "c" do permissivo constitucional.
+Agravo regimental improvido.
+(AgRg no AREsp 446.728/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 25/2/2014, DJe 7/3/2014)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/1973. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. REEXAME DE ELEMENTOS PROBATÓRIOS PRODUZIDOS AO LONGO DA DEMANDA. SÚMULA N. 7/STJ.
+1. Afasta-se a alegada violação do art. 535 do CPC quando o acórdão recorrido, integrado pelo julgado proferido nos embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+2. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356/STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+3. Aplica-se a Súmula n. 7 do STJ quando o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 129.913/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 17/5/2016, DJe 23/5/2016)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
