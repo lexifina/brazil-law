@@ -1,0 +1,22 @@
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. SÚMULA 182/STJ.
+1. Inviável a apreciação do agravo interno que deixa de atacar especificamente os fundamentos da decisão ora agravada, incidindo na espécie a Súmula 182/STJ.
+2. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno fundado no novo CPC/2015, interposto pela Sociedade Cooperativa Agrícola de Bastos e [NOME], desafiando decisão que não conheceu do recurso especial, sob os seguintes fundamentos: (I) a análise da pretensão recursal sobre a aplicação do princípio da causalidade demandaria o reexame do conjunto fático-probatório dos autos, procedimento este inviável em sede de recurso especial, a atrair o óbice contido na Súmula 7/STJ; e (II) o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF.
+A parte agravante, em suas razões, sustenta que: (I) é possível o recebimento da sucumbência pelo advogado como pessoa física; (II) restou comprovada a existência de divergência jurisprudencial entre o acórdão combatido e o posicionamento do STJ; III) o caráter alimentar dos honorários não foi apreciado na decisão agravada.
+Transcorreu in albis o prazo para impugnação (fl. 259).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Da simples leitura do relatório antes realizado, verifica-se que as agravantes deixaram de refutar especificamente os fundamentos da decisão agravada.
+Com efeito, as razões do agravo interno se limitam a afirmar que "O pedido do agravante ora advogado [NOME] é claro no sentido de se fazer a execução da sucumbência em seu nome, COM A POSTERIOR EXPEDIÇÃO DE PRECATÓRIO, porque a exceção é justamente a expedição a sociedade de advogados, como constou na decisão do RESP 437.853" (fl. 248), assim como "Esquece de apreciação pelo relator a questão DA NATUREZA ALIMENTAR DOS HONORÁRIOS ADVOCATÍCIOS, INCLUÍDO O DE SUCUMBÊNCIA, O QUE REVELA MAIS UMA VERTENTE AUTORIZANDO O PEDIDO DE EXECUÇÃO COM BASE NA PROCURAÇÃO E EM NOME DO ADVOGADO ORA PESSOA FÍSICA, QUE CONSTA TANTO O NOME COMO NÚMERO DO OAB" (fl. 251).
+De fato, verifica-se que a argumentação trazida não infirma os alicerces da decisão agravada de que: (I) a questão da condenação da verba honorária foi decidida com base em matéria fático-probatória, inviável de ser conhecida na via do recurso especial pelo óbice da Súmula 7/STJ; e (II) "o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, de que "a mandatária é a pessoa jurídica, a sociedade de advogados, por vontade expressa de seu constituinte, àquela é que endereçados evidentemente os sucumbenciais honorários nos autos conquistados" (fl. 148), esbarrando, pois, no obstáculo da Súmula 283/STF" (fl. 242).
+Assim, a falta de refutação objetiva aos fundamentos da decisão ora impugnada faz incidir ao caso a Súmula 182/STJ.
+Nesse mesmo sentido, destacam-se os seguintes precedentes desta Corte:
+ADMINISTRATIVO. CONCURSO PÚBLICO. NOMEAÇÃO. COISA JULGADA MATERIAL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE PROCESSAMENTO DO RECURSO ESPECIAL. SÚMULA 182/STJ.
+1. É inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência, por analogia, da Súmula 182 do STJ. 2. No presente agravo regimental, o agravante deixou de impugnar o fundamento central da decisão agravada, de incidência no caso da Súmula 7/STJ. Agravo regimental não conhecido. (AgRg no AREsp 265.028/CE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 19/2/2013)
+PROCESSO CIVIL. AGRAVO REGIMENTAL. Razões que não atacam os fundamentos da decisão agravada (STJ, Súmula nº 182). Agravo regimental não conhecido. (AgRg no AREsp 139.524/CE, Rel. Ministro Ari Pargendler, Primeira Turma, DJe 13/11/2012)
+Em face do exposto, não conheço do agravo interno.
+É o voto.
