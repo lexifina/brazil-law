@@ -1,0 +1,32 @@
+EMENTA
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA. REAFIRMAÇÃO DA DER. POSSIBILIDADE. PRECEDENTES. RECURSO A QUE SE DÁ PROVIMENTO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 311):
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. REAFIRMAÇÃO DA DER. IMPOSSIBILIDADE NO CASO.
+Havendo coisa julgada acerca da impossibilidade de concessão do benefício com base em determinado requerimento administrativo, inviável a propositura de nova demanda objetivando uma reafirmação da DER que não foi objeto de postulação ou análise naqueles autos.
+Embargos de declaração parcialmente providos, para agregar fundamentos ao julgado e para fins de prequestionamento.
+No apelo especial, a parte recorrente alega violação dos seguintes artigos: a) 535, I e II, do CPC/1973, na medida que o Tribunal a quo não teria enfrentado a questão referente a inexistência de coisa julgada; b) 467 e seguintes do CPC/1973, defendendo ser possível a reafirmação da DER também em sede judicial, inexistindo coisa julgada na hipótese, porque os pedidos são diversos.
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 415.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No mais, a irresignação prospera.
+O Entendimento firmado nesta Corte é o de que é possível a consideração de contribuições posteriores ao requerimento administrativo e ao ajuizamento da ação, reafirmando a DER para a data de implemento das contribuições necessárias à concessão do benefício.
+Confiram-se:
+"PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. IMPLEMENTAÇÃO DA CARÊNCIA APÓS O AJUIZAMENTO DA AÇÃO. FATO SUPERVENIENTE. RECURSO ESPECIAL PROVIDO.
+1. O Superior Tribunal de Justiça tem entendimento consolidado de que não constitui
+julgamento extra ou ultra petita a decisão que, verificando a inobservância dos pressupostos para concessão do benefício pleiteado na inicial, concede benefício diverso por entender preenchidos seus requisitos.
+2. O art. 687 e 690 da Instrução Normativa INSS/PRES 77, de 21 de janeiro de 2015, que repete as já consagradas proteções ao segurado dispostas em Instruções Normativas anteriores, dispõe que, se o postulante de uma prestação previdenciária preenche os requisitos legais somente após o pedido, o ente autárquico reconhece esse fato superveniente para fins de concessão do benefício, fixando a DIB para o momento do adimplemento dos requisitos legais.
+3. Essa mesma medida deve ser adotada no âmbito do processo judicial, nos termos do art. 462 do CPC, segundo o qual a constatação de fato superveniente que possa influir na solução do litígio deve ser considerada pelo Tribunal competente para o julgamento, sendo certo que a regra processual não se limita ao Juízo de primeiro grau, porquanto a tutela jurisdicional, em qualquer grau de jurisdição, deve solucionar a lide na forma como se apresenta no momento do julgamento.
+4. As razões dessa proteção se devem ao fato de que os segurados não têm conhecimento do complexo normativo previdenciário, sendo certo que a contagem do tempo de serviço demanda cálculo de difícil compreensão até mesmo para os operadores da área. Além disso, não é razoável impor aos segurados, normalmente em idade avançada, que intentem novo pedido administrativo ou judicial, máxime quando o seu direito já foi adquirido e incorporado ao seu patrimônio jurídico.
+5. Diante dessas disposições normativas e dos princípios da economia e da celeridade processual, bem como do caráter social das normas que regulamentam os benefícios previdenciários, não há óbice ao deferimento do benefício, mesmo que preenchidos os requisitos após o ajuizamento da ação.
+6. Recurso Especial provido para julgar procedente o pedido de concessão de aposentadoria a partir de agosto de 2006." (REsp. 1296267/RS, Rel. Min. Napoleão Nunes Maia Filho, DJe 11/12/2015 - destacamos).
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. FATO SUPERVENIENTE. ART. 462 DO CPC/1973. REAFIRMAÇÃO DA DER. POSSIBILIDADE.
+1. Hipótese em que o Tribunal de origem consignou que "para a reafirmação da DER, somente é possível o cômputo de tempo de contribuição, especial ou comum, até a data do ajuizamento da ação."
+2. O STJ firmou orientação de que "o fato superveniente contido no artigo 462 do CPC deve ser considerado no momento do julgamento a fim de evitar decisões contraditórias e prestigiar os princípios da economia processual e da segurança jurídica" (EDcl no AgRg nos EDcl no REsp 621.179/SP, Terceira Turma, Relator Ministro Ricardo Villas Bôas Cueva, DJe 5/2/2015).
+3. Especificamente no que se refere ao cômputo de tempo de contribuição no curso da demanda, a Primeira Turma do STJ, ao apreciar situação semelhante à hipótese dos autos, concluiu ser possível a consideração de contribuições posteriores ao requerimento administrativo e ao ajuizamento da ação, reafirmando a DER para a data de implemento das contribuições necessárias à concessão do benefício. No mesmo sentido: REsp 1.640.903/PR, de relatoria do Ministro Mauro Campbell Marques, DJe 15.2.2017.
+4. Recurso Especial provido para determinar o retorno dos autos à origem para que sejam contabilizadas as contribuições realizadas até o momento da entrega da prestação jurisdicional. (REsp 1640310/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 27/04/2017 - destacamos)
+Assim, estando o acórdão recorrido em dissonância com a orientação desta Corte superior o mesmo deve ser revisto.
+Diante do exposto, dou provimento ao recurso especial e determino o retorno dos autos à origem para que sejam contabilizadas as contribuições realizadas para a data de implemento das contribuições necessárias à concessão do benefício.
+Publique-se. Intimem-se.
