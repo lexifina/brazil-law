@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], fundamentado na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia que negou provimento ao agravo em execução defensivo, mantendo a decisão que indeferiu a retificação de cálculo de penas.
+Os elementos existentes nos autos indicam que o recorrente cumpre pena regularmente, tendo a defesa formulado pedido de retificação dos cálculos de pena perante o Juízo da Execução, que indeferiu o pedido sob o fundamento de que a reincidência deve ser considerada em relação à soma total das penas, devendo-se incidir a fração de 1/2 para fins de livramento condicional.
+A decisão foi mantida pelo Tribunal de origem.
+Nas razões do presente apelo nobre, a defesa alega violação aos artigos 83, inciso I, do Código Penal, uma vez que foram desconsideradas as condenações em que o recorrente era primário para o cômputo da fração exigida para a concessão de livramento condicional.
+Sustenta que a unificação de penas não interfere nos cálculos para a concessão do livramento condicional, não devendo, portanto interferir no prazo para o deferimento da benesse.
+Requer, ao final, o provimento do recurso especial para que seja reformado o acórdão impugnado e concedido o benefício do livramento condicional.
+Contrarrazoada a insurgência (fls. 115/119), após o Juízo prévio de admissibilidade (fl. 122), os autos ascenderam a este Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal, na condição de custos legis, ofertou parecer pelo não conhecimento do inconformismo (fls. 132/137).
+É o relatório.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+Acerca do tema trazido à discussão no apelo nobre, assim restou assentado pela Corte a quo, litteris:
+Depreende-se dos autos que o apenado foi condenado pela prática dos seguintes crimes: art. 157, § 2º, I, do CP (condenação nº 1); art. 155, caput, do CP (condenação nº 2); art. 155, caput, do CP (condenação nº 3); art. 157, § 2º, I, do CP (condenação nº 4) e; art. 157, § 2º, I, CP (condenação 5).
+De acordo com os cálculos de pena, o juízo da execução considerou para fins de livramento condicional, a fração de 1/2 (metade) para todos os crimes comuns, independente da primariedade do apenado nas condenações 1, 2, 3, e 4.
+Pois bem. O livramento condicional é um benefício que permite ao condenado à pena restritiva de liberdade superior a 2 anos, a liberdade antecipada, de forma condicional e precária.
+Na dicção do art. 131 da Lei de Execução Penal, o livramento condicional poderá ser concedido pelo juiz da execução, se presentes os requisitos do art. 83, incisos e parágrafo único, do Código Penal, in verbis:
+Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:
+I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes;
+II - cumprida mais da metade se o condenado for reincidente em crime doloso;
+III - comprovado comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover à própria subsistência mediante trabalho honesto;
+IV - tenha reparado, salvo efetiva impossibilidade de fazê- lo, o dano causado pela infração;
+V - cumpridos mais de dois terços da pena, nos casos de condenação por crime hediondo, prática de tortura, tráfico ilícito de entorpecentes e drogas afins, tráfico de pessoas e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza.
+Parágrafo único - Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinqüir. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Assim, para fazer jus ao referido benefício, o condenado primário deve cumprir mais de 1/3 da pena e ter bons antecedentes, já o condenado reincidente deve cumprir mais da 1/2 (metade), além dos demais requisitos previstos no citado artigo.
+Veja-se que a primariedade ou reincidência é circunstância de natureza pessoal e deve se estender a todas condenações.
+ ..
+Destarte, reincidência relaciona-se com a pessoa do condenado e não com as condenações que ostente, de modo, que sendo reincidente, a fração respectiva (1/2 para crimes comuns) deve incidir no total das condenações.
+Não se pode olvidar que o livramento condicional é um estímulo à ressocialização do condenado, atuando como importante instrumento no sistema progressivo da pena. Em outras palavras, é um prêmio estatal aquele que cumpriu com rigor a pena aflitiva imposta.
+Indubitável que o condenado reincidente reclama maior rigor da norma, pois revela, em tese, maior periculosidade, vez que a condenação anterior não atendeu a sua tríplice finalidade: prevenção, punição e ressocialização. (fls. 100/102)
+Verifica-se, pois, que a instância de origem decidiu que sendo o apenado reincidente, a fração de 1/2 para fins de livramento condicional deve incidir sobre o total das condenações.
+Sobre o assunto, este Superior Tribunal de Justiça firmou entendimento no sentido de que havendo pluralidade de condenações deve-se proceder a unificação das penas e realizado o cálculo de eventuais benefícios prisionais sobre o montante obtido, descontado eventual tempo já cumprido.
+Isso porque o art. 84 do Código Penal estabelece: "As penas que correspondem a infrações diversas devem somar-se para efeito do livramento condicional".
+Cumpre destacar que sendo o paciente reincidente deve ser adotado o lapso preconizado no art. 83, inciso II, do Código Penal, impondo-se o transcurso do lapso de 1/2 (um meio) para a obtenção de livramento condicional. Desse modo, não há de se cogitar na aplicação concomitante do patamar de 1/3 (um terço) para a execução de pena de crime que ao tempo do seu cometimento o réu ostentava a primariedade, e de 1/2 (um meio) para as demais execuções as quais não se verifica essa condição.
+Neste sentido, ressalta-se o entendimento de SIDIO ROSA DE MESQUITA JÚNIOR, em sua obra Execução Criminal:
+"O requisito temporal, se o condenado for reincidente em crime doloso, será de metade. Assim, se o mesmo for primário em um crime e reincidente em outro, o requisito para obtenção do livramento condicional será de metade do total das penas aplicadas, não sendo feita a soma de 1/3 da pena de um crime, somando com a metade de 1/2 da outra pena, tendo em vista que a lei fala em condenado reincidente." (4ª edição, Editora Atlas, São Paulo, 2005, p. 266)
+A propósito, confiram-se os seguintes julgados de ambas as Turmas que compõem a Terceira Seção deste sodalício:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. CRIMES DE FURTO E ROUBO. LIVRAMENTO CONDICIONAL.
+RETIFICAÇÃO DO CÁLCULO DE PENAS. APENADO REINCIDENTE. FRAÇÃO DE METADE QUE DEVE INCIDIR SOBRE A TOTALIDADE DAS REPRIMENDAS UNIFICADAS. CORREÇÃO. REQUISITO SUBJETIVO. HISTÓRICO DE FALTAS DISCIPLINARES GRAVES. NÃO CUMPRIMENTO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+I - Não mais se admite, perfilhando o entendimento do col. Pretório Excelso e da eg. Terceira Seção deste Superior Tribunal de Justiça, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não conhecimento da impetração.
+Contudo, no caso de se verificar configurada flagrante ilegalidade, recomenda a jurisprudência a concessão da ordem, de ofício.
+II - Por determinação expressa do art. 84 do Código Penal, as penas que correspondem a infrações diversas devem somar-se para efeito do livramento condicional.
+III - Na hipótese, sendo o apenado reincidente em crime doloso, e consistindo a reincidência em condição pessoal que, uma vez adquirida pelo sentenciado, influi sobre o requisito objetivo dos benefícios da execução, com relação a todas as sanções a ele aplicadas, deve o percentual de 1/2 (metade), exigido como lapso temporal para o livramento condicional, nos termos do art. 83, inciso II, do Código Penal, incidir sobre a totalidade das reprimendas unificadas. (Precedentes).
+IV - Para a concessão do benefício do livramento condicional, nos termos do art. 83 do Código Penal, deve o reeducando preencher também os requisitos de natureza subjetiva (comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover ao próprio sustento de maneira lícita), podendo as instâncias ordinárias, excepcionalmente, diante das peculiaridades do caso concreto, determinar a realização de exame criminológico para aferir o mérito do apenado, desde que essa decisão seja adequadamente motivada. (Súmula n. 439/STJ; Súmula vinculante n. 26/STF; v.g.).
+V - In casu, a eg. Corte estadual afastou a configuração do requisito subjetivo com fundamentação idônea, fazendo remissão a fatos concretos ocorridos no curso do desconto da reprimenda pelo paciente, notadamente, às anotações, constantes de seu histórico carcerário, da prática de faltas disciplinares de fuga - datadas de 4/4/2009, 4/4/2012 e 14/9/2013 - e à notícia de que o livramento condicional que lhe fora concedido, em primeira instância, foi cautelarmente suspenso em razão do cometimento de novo crime doloso.
+Habeas corpus não conhecido.
+(HC 379.007/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/02/2017, DJe 15/03/2017)
+RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. CÁLCULO DO BENEFÍCIO. MONTANTE OBTIDO PELA UNIFICAÇÃO DAS PENAS. ART. 84 DO CP. REINCIDÊNCIA EM CRIME DOLOSO. ART. 83, II, DO CP. LAPSO TEMPORAL DE 1/2.
+1. Havendo pluralidade de condenações, as penas devem ser unificadas, realizando-se o cálculo do livramento condicional sobre o montante obtido, nos termos do art. 84 do CP.
+2. Reconhecida a reincidência, o apenado passa a ostentar a condição de reincidente, gerando efeitos, de imediato, no cálculo dos futuros benefícios da execução criminal, inclusive quanto à incidência da fração de 1/2 para a concessão do livramento condicional (art. 83, II, do CP). Não há falar na aplicação concomitante do patamar de 1/3 para a execução de pena aplicada ao tempo em que era primário e de 1/2 para as demais execuções.
+3. Recurso especial provido.
+(REsp 1492726/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/04/2015, DJe 24/04/2015)
+Dessarte, constata-se que o Tribunal local ao decidir que, verificada a reincidência do apenado, deve-se exigir o cumprimento de 1/2 do somatório das penas para fins de livramento condicional, alinhou-se à jurisprudência desta Corte Superior de Justiça sobre o tema.
+Ante o exposto, com fundamento no artigo 255, § 4º, inciso II, do Regimento Interno do Superior Tribunal de Justiça, nega-se provimento ao recurso especial.
+Publique-se. Intimem-se.
