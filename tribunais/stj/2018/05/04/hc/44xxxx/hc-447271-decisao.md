@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente se encontra preso preventivamente, por ter, em tese, cometido o crime previsto no Código Penal no art. 157, § 2º, incisos I e II.
+Irresignada com a prisão, a defesa impetrou habeas corpus perante o Tribunal de origem, alegando inocência do paciente e irregularidades no procedimento de reconhecimento realizado por uma testemunha. O pleito liminar foi, contudo, indeferido pelo Tribunal a quo, nos termos do seguinte excerto (e-STJ fls. 88/89):
+Segundo a denúncia, "na data dos fatos (29/1/17) os denunciados decidiram praticar um assalto. Sérgio se municiou com um revólver calibre 38 e Eduardo, por sua vez, se armou com um revólver calibre 22. Ato contínuo, se dirigiram até o Posto Lambari, exibiram suas armas de fogo e anunciaram o assalto para a vítima [NOME], que trabalhava no caixa do estabelecimento comercial. Exigiram quantia em dinheiro e a chave do veículo do ofendido. A vítima prontamente entregou a quantia de R$ 27.024,15 assim como a chave de seu veículo Corsa Classic/GM, placas [PLACA], Miracatu-SP. Em seguida, os denunciados levaram consigo a quantia em dinheiro e saíram em fuga com o veículo subtraído. (..).
+Durante as investigações, uma das testemunhas que estava no estabelecimento comercial reconheceu sem sombra de dúvidas os denunciados como sendo autores do crime" (fls. 31/32), o que sugere, pelo menos a princípio, ser detentor de personalidade fora dos padrões sociais, justificando-se a manutenção da prisão cautelar para garantia da ordem, conveniência da instrução e aplicação da lei penal, nos termos do CPP, art. 312, reservando-se, à Douta Turma Julgadora, a solução da questão em toda a sua extensão.
+Na presente impetração, a defesa reafirma as alegações originárias, pleiteando a revogação da constrição provisória, uma vez que superado o enunciado 691 da Súmula do Supremo Tribunal Federal (e-STJ fls. 1/19).
+É, em síntese, o relatório.
+O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus impetrado ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do STF), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido. (AgRg no HC 349.925/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido. (AgRg no HC 345.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+A questão em exame necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar a argumentação da impetração e as provas juntadas ao habeas corpus no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
