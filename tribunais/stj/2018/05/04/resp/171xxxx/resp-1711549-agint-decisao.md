@@ -1,0 +1,16 @@
+DECISÃO
+A hipótese é de agravo interno interposto pela Fundação Habitacional do Exército contra decisão que não conheceu do recurso especial (fls. 136/140).
+Inconformada, a agravante afirma que foi demonstrado de forma expressa e evidente a violação a previsão legal da Medida Provisória nº 2.215-10/2010, de 31 de agosto de 2001, bem como as demais leis pertinentes.
+Aduz que o cabimento do recurso é patente face a não observância de disposição legal, bem como ante a divergência jurisprudencial, consoante se demonstrará adiante.
+Reitera as razões anteriormente deduzidas no recurso especial, defendendo a legalidade e o restabelecimento da consignação em folha de pagamento na razão de 30% dos vencimentos do militar, na forma contratada.
+Insurge-se contra a aplicação do verbete nº 7/STJ, argumentando que não é necessário analisar os fatos para reconhecer a infringência a legislação acerca da consignação na folha de pagamento do Agravado. Alega que o dissídio jurisprudencial restou configurado.
+É o relatório.
+Examinando hipótese semelhante a dos presentes autos, a Primeira Turma, por unanimidade, acolheu questão de ordem resumida nos seguintes termos:
+QUESTÃO DE ORDEM. COMPETÊNCIA INTERNA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE EMPRÉSTIMO SIMPLES. INADIMPLEMENTO. CONSIGNAÇÃO EM FOLHA DE PAGAMENTO. IMPENHORABILIDADE PREVISTA NO ART. 649, IV, DO CPC/73.
+1 - A controvérsia diz respeito à possibilidade de penhora de salários em decorrência de dívida originada de "contrato de adesão de empréstimo simples", firmado entre a parte executante/agravante e a parte ora recorrida.
+2 - A circunstância de o executado cuidar-se de servidor público não determina que o presente feito seja examinado pela Primeira Seção, pois o precedente firmado pela Corte Especial, no julgamento da Questão de Ordem no EREsp 1.163.337/RS, Relator o Ministro Sidnei Benediti, DJe de 12/08/2014, estabeleceu a competência das Turmas que integram a Seção de Direito Público para o julgamento de "recursos referentes a limite percentual de desconto em pagamento de empréstimo consignado feito por servidor público, com débito em conta-corrente e desconto na folha de pagamento", hipótese não versada nos presentes autos.
+3 - A leitura mais restritiva do aludido precedente mostra-se consentânea com a regra prevista no artigo 9º, § 2º, II, que dispõe competir à Segunda Seção processar e julgar os feitos relativos a "obrigações em geral de direito privado mesmo quando o Estado participar do Contrato", dispositivo que torna despicienda a discussão sobre a natureza jurídica da parte ora recorrente (Fundação Habitacional do Exército - FHE). Noutro giro, não se revela adequado elastecer o alcance da questão de ordem submetida à Corte Especial, sob pena de restar desprestigiado o critério da especialização adotado pelo artigo 8º do RISTJ.
+4 - Questão de ordem acolhida para determinar a redistribuição do feito a um dos Ministro integrantes da Segunda Seção do Superior Tribunal de Justiça.
+Nessa mesma linha, confiram-se, a propósito, as seguintes decisões: AREsp 808.238/SE, DJe de 24/6/2016; REsp 1.470.146/PE, DJe de 24/8/2015 e REsp 1.463.359/SE, DJe de 21/8/2015, todos de que fui relator.
+Ante o exposto, torno sem efeito a decisão de fls. 136/140 e determino a redistribuição dos autos a um dos Ministros integrantes da Segunda Seção.
+Publique-se.
