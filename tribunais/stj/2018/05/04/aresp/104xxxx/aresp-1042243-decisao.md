@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE CAMPINAS, pretendendo a admissão de recurso especial, o qual desafia acórdão ementado (e-STJ fl. 85/86):
+PROCESSO CIVIL. APELAÇÃO. DECISÃO MONOCRÁTICA. JURISPRUDÊNCIA. ARTIGO 557 CÓDIGO DE PROCESSO CIVIL. AGRAVO INOMINADO. NÃO PROVIMENTO.
+1. A decisão proferida tem embasamento legal, já que o Código de Processo Civil permite a prolação de decisão definitiva pelo Relator do processo, quando a jurisprudência já se posicionou a respeito do assunto em debate.
+2.Quanto ao mérito, mantida a decisão proferida, já que não foram trazidos no agravo inominado argumentos suficientes para a mudança de posicionamento.
+3. Agravo inominado não provido.
+Passo a decidir.
+A questão objeto do apelo extremo interposto na origem (Tema 884: "Imunidade tributária recíproca em relação ao IPTU incidente sobre bens imóveis mantidos sob a proprietária fiduciária da Caixa Econômica Federal, mas que não se comunicam com o patrimônio desta, porque integrados ao Programa de Arrendamento Residencial PAR, criado e mantido pela União, nos termos da Lei n. 10.188/2001") teve a repercussão geral reconhecida pelo Supremo Tribunal Federal, no RE n. 928.902/SP, Relator o em. Ministro Alexandre de Moraes.
+Encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1456224/MS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153.829/PI, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012. Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, Rel. Min. Regina Helena Costa, DJe 17/03/2016; REsp 1.533.443/RS, Rel. Min. Benedito Gonçalves, DJe 17/03/2016.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados a esta Corte Superior, para que, se for o caso, aqui possam ser analisadas as questões jurídicas suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que sejam aplicadas as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
