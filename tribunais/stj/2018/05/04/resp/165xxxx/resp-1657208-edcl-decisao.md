@@ -1,0 +1,15 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRARIEDADE. MERO INCONFORMISMO DA PARTE. NÃO CABIMENTO DOS DECLARATÓRIOS. EMBARGOS DE DECLARAÇÃO OPOSTOS PELA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Embargos Declaratórios no Recurso Especial opostos por FAZENDA NACIONAL, contra decisão monocrática da minha lavra, cuja ementa abaixo se transcreve:
+TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO. OCORRÊNCIA. CONTROVÉRSIA SOBRE A COMPROVAÇÃO DO PARCELAMENTO. INCURSÃO EM MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+2. A parte embargante sustenta, em síntese, que houve omissão na decisão recorrida, porquanto não houve manifestação quanto ao art. 535 do CPC/1973.
+3. Impugnação não apresentada.
+4 É o relatório.
+5. O art. 1.022 do Código Fux - CPC/2015 - (art. 535 do CPC/1973) é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição ou omissão.
+6. Destarte, infere-se que, não obstante pacífica a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum em casos, justamente, nos quais eivado de obscuridade, contradição ou omissão; não têm, pois, de regra, caráter substitutivo ou modificativo, é dizer, o condão de alterar, livre e substancialmente, o decisório em seu dispositivo, mas aclaratório ou integrativo, daí não sendo seu processamento norteado pelos princípios do contraditório e da igualdade.
+7. Com efeito, e apenas por amor ao debate, veja-se o que se depreende do acórdão de origem:
+Cumpre ressaltar que os documentos às fls. 155/165 e 225/229 não são aptos a comprovar a suspensão da exigibilidade do crédito tributário, tratando-se de meros resultados de consulta de inscrição produzida pela própria exeqüente.
+Com efeito, através do documento à fl. 155 constata-se a inexistência de parcelamento e o documento à fl. 156 dá conta que a única ocorrência relacionada a parcelamento ocorreu em 21/04/07. O documento à fl. 158, por sua vez, apenas corrobora a conclusão obtida da sentença, vez que, através dele se verifica que a inscrição derivada da adesão ao programa de parcelamento instituído pela MP nº 303/06 ocorreu em abril de 2007, após a consumação do prazo prescricional (fl. 324).
+8. Do trecho acima transcrito, verifica-se que a Corte local se manifestou, expressamente, sobre a tese apontada pela Fazenda Pública como omissa. Desse modo, deve a alegação de violação ao art. 535 do CPC, ser afastada de plano, porquanto se trata de mero inconformismo da parte recorrente, diante do resultado desfavorável a sua pretensão.
+9. Diante do exposto, nega-se provimento aos Embargos Declaratórios, regularmente interpostos pela Fazenda Nacional.
+10. Publique-se. Intimações necessárias.
