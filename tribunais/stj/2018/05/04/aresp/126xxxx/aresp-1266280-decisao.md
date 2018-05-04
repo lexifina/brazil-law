@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento na Súmula 83/STJ.
+Nas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, aponta, além de divergência jurisprudencial, violação do art. 67 do Código Penal, ao argumento de ser a atenuante da confissão preponderante à agravante da reincidência.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+É o relatório.
+Decido.
+Insurge-se o recorrente contra o acórdão que reconheceu a atenuante da confissão espontânea e a compensou, de forma parcial, com a agravante da reincidência.
+Com efeito, a Terceira Seção desta Corte, em 23/05/2012, por ocasião do julgamento do EREsp n. 1.154.752/RS, de relatoria do Ministro SEBASTIÃO REIS JÚNIOR, pacificou o entendimento segundo o qual a atenuante da confissão espontânea, na medida em que compreende a personalidade do agente, é circunstância preponderante, devendo ser compensada com a agravante da reincidência, igualmente preponderante.
+Tal entendimento, contudo, sofre alteração na hipótese de réu multirreincidente, em que não se permite a compensação integral entre a confissão e a reincidência, por evidenciar maior reprovabilidade da conduta, conforme precedentes dessa Corte, no sentido de que muito embora se reconheça a compensação da confissão espontânea com a reincidência, em se tratando de réu multireincidente, a compensação integral implicaria ofensa aos princípios da individualização da pena e da proporcionalidade, mormente porque a multireincidência exige maior reprovação, devendo, pois, prevalecer sobre a atenuante (AgRg no AREsp 585.654/DF, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/02/2016, DJe 26/02/2016). Nesse mesmo sentido: AgRg no REsp 1493053/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/11/2015, DJe 03/12/2015.
+No presente caso, destaque-se, que embora duas das condenações anteriores tenham sido consideradas na primeira fase, para exasperação da pena-base, as duas outras restantes foram utilizadas na segunda fase, para agravar a pena, motivo pelo qual o magistrado a compensou parcialmente, conforme se observa no acórdão recorrido (fls. 249/250):
+Pena-base fixada em 02 anos e 06 meses de reclusão, tendo em conta os operadores do art. 59 do Código Penal, como examinados na sentença, desfavoráveis os antecedentes - o réu registra quatro condenações com trânsito em julgado, duas delas consideradas nesta fase. Aumentada em 06 meses, em face da reincidência - considerados os outros dois processos. Reconhecida atenuante da confissão, foi reduzida a pena em 04 meses, restando definitiva em 02 anos e 08 meses de reclusão.
+Estando, portanto, o acórdão recorrido em consonância com o entendimento firmado pelo Superior Tribunal de Justiça, impõe-se a incidência da Súmula 83/STJ, a obstar o processamento do recurso especial.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
