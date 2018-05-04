@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de embargos declaratórios, opostos à decisão desta relatoria que conheceu e deu provimento ao recurso especial da parte embargada, para determinar o retorno dos autos à instância de origem para que seja analisada se, na época da ativa, o beneficiário contribuía diretamente para o plano de saúde coletivo.
+Em suas razões, alega a parte embargante que a decisão apresenta erro material, pois o acórdão recorrido teria sido omisso acerca da modalidade de custeio do plano de saúde, "fato fundamental para aplicação do direito à espécie", não tendo a empresa de saúde oposto aclaratórios para sanar tal vício, inexistindo também preliminar de nulidade no recurso especial, o qual, por isso, estaria prejudicado, não podendo ser conhecido (e-STJ fls. 380).
+Ao final, requer o acolhimento dos presentes embargos a fim de não conhecer do recurso especial (e-STJ fl. 280).
+A parte embargada, intimada, apresentou impugnação (e-STJ fls. 402/406).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os aclaratórios, em regra, não permitem rejulgamento da causa, sendo certo que o efeito modificativo somente é possível em hipóteses excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado.
+Sob esse enfoque, confiram-se os seguintes precedentes da Corte Especial:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. DECISÃO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. EMBARGOS REJEITADOS.
+I - Os embargos de declaração devem atender aos seus requisitos, quais sejam, suprir omissão, contradição ou obscuridade. Não havendo qualquer um desses pressupostos, rejeita-se o recurso integrativo.
+II - Consoante jurisprudência firmada por esta Corte Superior, a tempestividade dos recursos é aferida quando do protocolo na secretaria do Tribunal e não da entrada na agência dos correios.
+III - Ademais, embora o embargante tenha juntado comprovante da entrega em Brasília, no dia 14/01/2013, não há comprovação de que tenha sido, na mesma data, entregue na secretaria deste Tribunal. Não tendo sido, inclusive, juntado até o presente momento os originais do recurso interposto.
+IV - Embargos rejeitados.
+(EDcl no AgRg no ARE no AgRg nos EDcl no RE no Ag n. 1.423.681/BA, Relator Ministro GILSON DIPP, CORTE ESPECIAL, julgado em 16/9/2013, DJe 25/9/2013.)
+SEGUNDOS EMBARGOS DECLARATÓRIOS. EMBARGOS DE DIVERGÊNCIA. TELEFONIA. APLICAÇÃO DA SÚMULA 182. AUSÊNCIA DE ATAQUE AOS FUNDAMENTOS DA DECISÃO. PEDIDO DE EFEITOS INFRINGENTES. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO.
+À mingua dos vícios previstos no art. 535 do CPC e não sendo a via escolhida meio de resposta a questionamentos da partes, é de se ter como inviável a oposição, alertando ao embargante para a aplicação de multa processual caso persista o intuito de adiar a conclusão da causa.
+Embargos rejeitados.
+(EDcl nos EDcl no AgRg nos EAREsp n. 220.572/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 1º/7/2013, DJe 1º/8/2013.)
+Na decisão embargada, foi indicado de maneira clara e expressa o fundamento pelo qual o recurso especial da parte ora embargante foi conhecido e parcialmente provido, nos seguintes termos (e-STJ fls. 375/376):
+As instâncias de origem reconheceram que o empregado demitido tinha direito a ser mantido no plano de saúde vigente na época da ativa, considerando irrelevante se fazia contribuição direta ou indireta para o custeio (e-STJ fl. 300).
+Nesse ponto, constata-se que o entendimento adotado pelo Tribunal de origem diverge da jurisprudência do STJ, segundo a qual o direito à manutenção, nos planos de saúde empresariais do ex-empregado demitido ou aposentando, está condicionado à existência de contribuição do beneficiário para o prêmio mensal, não se aplicando em casos de coparticipação. Desse modo:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PLANO DE SAÚDE. ARTIGO 31. DA LEI 9656/98. COPARTICIPAÇÃO. SALÁRIO INDIRETO. NÃO CONFIGURAÇÃO. MANUTENÇÃO EX-EMPREGADO. IMPOSSIBILIDADE. PRECEDENTES.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Nos termos da jurisprudência já consolidada desta Corte, o direito à manutenção nos planos de saúde coletivos empresariais dos ex-empregados demitidos sem justa causa ou aposentados restringe-se aos casos em que os beneficiários contribuíam para o pagamento do prêmio ou da contribuição mensal, não se aplicando nas hipóteses de custeio integral das mensalidades pela empresa, cabendo aos empregados a participação em eventuais serviços médicos por eles utilizados. Precedentes.
+3. O plano de saúde custeado pelo empregador não ostenta natureza salarial, ainda que indireta.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp 1.601.638/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. DEPENDENTE DE EMPREGADO APOSENTADO FALECIDO NA CONDIÇÃO DE BENEFICIÁRIO DO PLANO. CONTRIBUIÇÃO EXCLUSIVA DO EMPREGADOR DURANTE O CONTRATO DE TRABALHO. COPARTICIPAÇÃO DO USUÁRIO. MANUTENÇÃO DO PLANO. INVIABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Em se tratando de plano privado de assistência à saúde integralmente custeado pelo empregador/estipulante, as quantias despendidas pelo ex-empregado, única e exclusivamente, a título de coparticipação (percentual incidente sobre as despesas médicas/odontológicas efetivamente realizadas pelo usuário), como fator de moderação na utilização dos serviços, não caracterizam contribuição a ensejar a incidência da benesse legal. Exegese defluente do § 6º do artigo 30 da Lei 9.656/98.
+2. Ademais, o custeio do plano de saúde coletivo empresarial pelo empregador/estipulante não se subsume ao conceito de salário-utilidade (salário in natura), por não ostentar a característica da comutatividade, ou seja, não configura retribuição ao trabalho prestado pelo empregado. Cuida-se de incentivo de caráter assistencial concedido por alguns empregadores com o objetivo de garantir a assiduidade, a eficiência e a produtividade dos empregados, não podendo, portanto, ser considerado salário indireto.
+3. Na hipótese, as instâncias ordinárias consignaram que houve tão somente a coparticipação do empregado, ora agravante, quando utilizado o plano de saúde; sendo assim, não há falar em contribuição e, portanto, não há falar em direito à permanência como beneficiário do plano de saúde.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.653.561/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017.)
+DIREITO CIVIL E DO CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EMPREGADO APOSENTADO. DEMITIDO SEM JUSTA CAUSA. PARTICIPAÇÃO FINANCEIRA DO SEGURADO. CONTRIBUIÇÃO. NECESSIDADE. SALÁRIO IN NATURA. IMPOSSIBILIDADE. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Nos planos de saúde coletivos custeados exclusivamente pelo empregador, não há direito de permanência do ex-empregado aposentado ou demitido sem justa causa como beneficiário, salvo disposição contrária expressa prevista em contrato ou em convenção coletiva de trabalho, sendo irrelevante tão só a existência de coparticipação, pois esta não se confunde com contribuição.
+2. Os benefícios do §2º do art. 458 da CLT, entre os quais estão o oferecimento de planos de assistência médica e odontológica, não devem ser tratados como salário in natura, mas sim como um incentivo aos empregadores para colaborar com o Estado na garantia mínima dos direitos sociais dos trabalhadores.
+3. Agravo interno no recurso especial não provido.
+(AgInt no REsp 1653212/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.)
+As instâncias de origem não reconheceram que a parte recorrida, na época da ativa, não contribuía diretamente para o plano, apenas afirmaram ser irrelevante essa circunstância para decidir sobre o direito à manutenção.
+Esta Corte Superior, conforme explicitado acima, exclui o direito à manutenção do convênio apenas quando não houver contribuição direta, a qual, se tiver existido, garante ao aposentado ou demitido sua inclusão no plano de saúde da época da ativa, desde que arque com todo o valor da mensalidade.
+A propósito, a seguinte decisão monocrática: REsp n. 1.627.243/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, Publicada em 20/10/2017.
+Nesse contexto, ante a impossibilidade de ser reexaminar fatos e provas nesta instância especial, afastada a tese aplicada na origem, devem os autos retornar às instâncias ordinárias, para que seja novamente apreciada a demanda, nos termos da jurisprudência do STJ, e averiguada a existência de contribuição direta do beneficiário que albergue sua pretensão inicial.
+Diante do exposto, DOU PARCIAL PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que seja novamente julgada a demanda, nos termos da jurisprudência do STJ, e averiguada se, na época da ativa, o beneficiário contribuía diretamente para o plano de saúde.
+Publique-se e intimem-se.
+Na presente hipótese, não se constata nenhuma das hipóteses ensejadoras dos embargos de declaração. Ao contrário, verifica-se a mera pretensão de alterar a admissibilidade do agravo em recurso especial.
+Com efeito, a decisão embargada não apresenta erro material e o acórdão da origem não é obscuro, porque entendeu que era dispensável o exame da modalidade de contribuição para o plano de saúde, a fim de garantir a manutenção do beneficiário, aposentado ou demitido sem justa causa, no convênio vigente durante a ativa.
+Esse entendimento, apesar de contrariar a orientação do STJ - o que ensejou o provimento parcial do recurso da parte embargada -, demonstra a ausência de vícios do art. 1.022 do CPC/2015 no acórdão recorrido, sendo desnecessária a oposição de embargos declaratórios para viabilizar o conhecimento do recurso especial.
+Ante o exposto, REJEITO os embargos declaratórios.
+Publique-se e intimem-se.
