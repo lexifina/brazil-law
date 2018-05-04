@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544), interposto contra decisão que inadmitiu o recurso especial, sob os seguintes fundamentos: (a) inexistência de negativa de prestação jurisdicional, (b) ausência de ofensa aos artigos de lei indicados, (c) aplicação das Súmulas n. 5 e 7 do STJ e (d) não comprovação do dissídio jurisprudencial, por falta de cotejo analítico (e-STJ fls. 867/869).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 772):
+CONTRATO - Compromisso de compra e venda de imóvel - Cooperativa habitacional - Rescisão - Ilegitimidade passiva da empresa que somente assumiu o ônus de edificar a obra - Aplicabilidade do Código de Defesa do Consumidor - Hipótese em que não se trata de ato cooperativo próprio v Pedido de demissão - Abusividade da cláusula de retenção de parcelas - Possibilidade de que a ré detenha parte dos valores pagos pelo autor - Súmula 1 da Seção de Direito Privado desta Corte v Devida a restituição em parcela única, de imediato, com incidência de correção monetária pelos índices oficiais e de juros de mora a partir da citação, no percentual de 90% - Súmula 2 da Seção de Direito Privado deste Tribunal Indenização a título de ocupação indevida - Cabimento - Valores referentes ao seguro-MIP - Ausência de demonstração de que o seguro foi efetivamente pago - Benfeitorias - Menção genérica - Indenização indevida - Honorários advocatícios - Observância dos comandos pertinentes da lei processual civil - Recurso da ré parcialmente provido e recurso do autor desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 793/797).
+Nas razões do recurso especial (e-STJ fls. 800/824), interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, o recorrente apontou violação dos arts. 165, 458 e 535, I e II, do CPC/1973, argumentando que a Corte local teria sido omissa devido à ausência do exame das teses de culpa da recorrida pela rescisão contratual e da legitimidade passiva da empresa PRINCIPAL ADMINISTRAÇÃO E EMPREENDIMENTOS S/C LTDA. para a demanda.
+Afirmou existir contradição no julgado, por existir o reconhecimento do seu desligamento da cooperativa e da incidência das disposições do CDC ao caso, além de condená-lo a perda de 10% (dez por cento) das parcelas pagas e a indenizar taxa de ocupação do imóvel à recorrida.
+Sustentou, além de divergência interpretativa, contrariedade aos arts. 3º, 7º, parágrafo único, e 28 do CDC, aduzindo que existiria solidariedade entre os integrantes da cadeia de fornecimento de bens, motivo por que a empresa PRINCIPAL ADMINISTRAÇÃO E EMPREENDIMENTOS S/C LTDA. seria parte legítima para responder solidariamente com a cooperativa pela reparação dos seus prejuízos.
+Alegou, além de dissídio jurisprudencial, desrespeito aos arts. 389, 475 e 476 do CC/2002 e 6º, II, IV, V e VI, 35, III, 47, 51, II, 53 e 54, §§ 1º, 2º, 3º e 4º, do CDC, argumentando que a recorrida não faria jus a retenção de nenhum percentual sobre as parcelas pagas, nem à indenização a título de taxa de ocupação do imóvel, devido à sua culpa pela rescisão do compromisso de compra e venda imobiliário celebrado entre as partes.
+Acrescentou que, só após constituir a recorrida em mora, teria deixado de efetuar os pagamentos devidos, o que descaracterizaria seu inadimplemento.
+Foram apresentadas contrarrazões (e-STJ fls. 860/865).
+No agravo (e-STJ fls. 874/882), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 885/889).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, por isso devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Da alegada negativa de prestação jurisdicional
+Não assiste razão ao recorrente quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo decidiu a matéria controvertida, não incorrendo em omissão, contradição ou obscuridade (e-STJ fls. 769/777 e 793/797).
+Ressalte-se que o fato de o julgamento ser contrário aos interesses das partes não configura nenhum dos vícios do art. 1.022 do CPC/2015 (CPC/1973, art. 535), tampouco hipótese de cabimento dos aclaratórios.
+Da tese de legitimidade passiva da empresa PRINCIPAL ADMINISTRAÇÃO E EMPREENDIMENTOS S/C LTDA. para a demanda
+O Tribunal a quo concluiu pela ilegitimidade da empresa PRINCIPAL ADMINISTRAÇÃO E EMPREENDIMENTOS S/C LTDA. para a demanda, nos seguintes termos (e-STJ fls. 773/774):
+De imediato, cumpre ressaltar ter sido corretamente excluída do polo passivo da demanda a empresa Principal Administração e Empreendimento S/C Ltda., já que "simplesmente assumiu o ônus contratual da edificação da obra levada a cabo pela Cooperativa, não havendo vínculo jurídico direto entre o cooperado e a coré" (fls. 639).
+Constata-se, portanto, que a Corte local não se manifestou quanto aos arts. 3º, 7º, parágrafo único, e 28 do CDC, sob o enfoque pretendido pelo recorrente. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria relacionada aos dispositivos carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Ultrapassar os fundamentos do aresto impugnado, a fim de acolher a tese de que a empresa alhures seria parte legítima para responder solidariamente pela reparação dos danos alegados pelo recorrente, demandaria a interpretação de cláusulas do contrato discutido e o revolvimento do conjunto fático-probatório dos autos, medidas vedadas pelas Súmulas n. 5 e 7 do STJ. A esse respeito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MORAIS E MATERIAIS. ILEGITIMIDADE PASSIVA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 07/STJ. SOCIEDADES COOPERATIVAS UNIMED. LEGITIMIDADE PASSIVA AD CAUSAM. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. Para afastar as conclusões do aresto estadual no tocante à questão da ilegitimidade passiva demandaria a análise do substrato fático da demanda, providência inviável nesta sede. incidência da Súmula 7 do STJ.
+(..)
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 751.556/MS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/9/2015, DJe 25/9/2015.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO BEM. REEXAME DE PROVAS. VEDAÇÃO EM RECURSO ESPECIAL. SÚMULAS NºS 5 E 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DANOS MATERIAIS. LUCROS CESSANTES. CONFIGURAÇÃO. PREJUÍZO PRESUMIDO. DISSÍDIO NÃO DEMONSTRADO.
+1. Rever o que decidido pelo tribunal de origem quanto à responsabilidade da agravante pelo atraso na entrega da obra e legitimidade na relação processual esbarra necessariamente no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+2. Reapreciar a conclusão do aresto impugnado acerca da abusividade da cláusula contratual em debate encontra óbice, no caso concreto, nas Súmulas nºs 5 e 7 do Superior Tribunal de Justiça.
+(..)
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.059.699/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8/8/2017, DJe 18/8/2017.)
+A incidência do óbice das Súmulas n. 5 e 7 do STJ obsta o conhecimento do especial pela alínea "c" do permissivo constitucional, pois impede a verificação da similitude fática entre os acórdãos. A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. PRAZO PRESCRICIONAL. TERMO INICIAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Inviável o conhecimento do recurso pela alínea "c" do permissivo constitucional, se a análise do dissenso pretoriano depender do revolvimento de matéria fático probatória.
+3. Agravo interno não provido.
+(AgInt no AREsp 1088229/MS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/9/2017, DJe 15/9/2017.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. AGRAVO DE INSTRUMENTO. MULTA DIÁRIA. REDUÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte. 2. Impossível alterar o acórdão recorrido para reduzir o valor das astreintes, que não se mostra manifestamente exorbitante ou desarrazoado.
+3. Rever a conclusão do aresto impugnado encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1550044/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/8/2017, DJe 31/8/2017.)
+Inviável, portanto, o conhecimento do alegado dissídio jurisprudencial, no ponto.
+Da alegada abusividade da retenção de percentual de valores das parcelas pagas e do pedido de afastamento da incidência da taxa de ocupação do imóvel
+A jurisprudência do Superior Tribunal de Justiça tem considerado razoável que o percentual de retenção dos valores pagos pelo promitente comprador - que deu causa à rescisão contratual - , seja arbitrado entre 10% (dez por cento) e 25% (vinte e cinco por cento), conforme as circunstâncias de cada caso.
+Para tanto, devem ser avaliados os prejuízos suportados, notadamente com "as despesas administrativas havidas com a divulgação, comercialização e corretagem, o pagamento de tributos e taxas incidentes sobre o imóvel e a eventual utilização do bem pelo comprador" (REsp n. 1.224.921/PR, Relatora Ministra Nancy Andrighi, TERCEIRA TURMA, julgado em 26/4/2011, DJe 11/5/2011). No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO. RETENÇÃO. PERCENTUAL DE 10%. RAZOABILIDADE. ACÓRDÃO RECORRIDO DE ACORDO COM A JURISPRUDÊNCIA DESTE TRIBUNAL SUPERIOR. SÚMULA 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte de Justiça, nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por inadimplemento do comprador, tem admitido a flutuação do percentual de retenção pelo vendedor entre 10% e 25% do total da quantia paga.
+2. Em se tratando de resolução pelo comprador de promessa de compra e venda de imóvel em construção, ainda não entregue no momento da formalização do distrato, bem como em se tratando de comprador adimplente ao longo de toda a vigência do contrato, entende-se razoável o percentual de 10% a título de retenção pela construtora dos valores pagos, não se distanciando do admitido por esta Corte Superior.
+3. É abusiva a disposição contratual que estabelece, em caso de resolução do contrato de compromisso de compra e venda de imóvel pelo comprador, a restituição dos valores pagos de forma parcelada.
+4. Agravo interno não provido.
+(AgRg no AREsp n. 807.880/DF, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/4/2016, DJe 29/4/2016.)
+Conforme excertos transcritos (e-STJ fls. 774/775), a Corte local concluiu que a rescisão da avença ocorreu por responsabilidade do comprador.
+Diante da premissa acima referida, insuscetível de ser revista nesta sede especial, ante a incidência da Súmula n. 7/STJ, o Tribunal de origem, soberano na análise do material cognitivo dos presentes autos, concluiu que o percentual de retenção de 10% (dez por cento), sobre os valores pagos, bastaria para indenizar a recorrida pelos prejuízos oriundos da resilição contratual (e-STJ fls. 774/775).
+Alterar tal entendimento exigiria nova incursão no conjunto fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7/STJ. Sobre o tema:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESCISÃO POR INICIATIVA DO COMPRADOR. DEVOLUÇÃO DOS VALORES PAGOS. PERCENTUAL DE RETENÇÃO POR PARTE DO VENDEDOR. ABUSIVIDADE DA CLÁUSULA. APLICAÇÃO DAS SÚMULAS 5 E 7/STJ.
+1. Em face da desistência do comprador, impõe-se a devolução dos valores pagos, com a retenção de percentual destinado à indenização da empresa vendedora, arbitrado na origem dentro dos parâmetros aceitos pela jurisprudência da Corte e cujo reexame encontra óbice nas Súmulas 5 e 7/STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 791.197/DF, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/11/2015, DJe 3/12/2015.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPRA E VENDA. RESCISÃO DE CONTRATO. RETENÇÃO DOS VALORES PAGOS. PERCENTUAL DENTRO DOS PARÂMETROS DA JURISPRUDÊNCIA DO STJ. REEXAME. INCIDÊNCIA DAS SÚMULA 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 701.969/PR, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 16/2/2017, DJe 2/3/2017.)
+Em tais condições, o Tribunal a quo, ao fixar o percentual de retenção em 10% (dez por cento) dos valores pagos pelo recorrente - considerando as peculiaridades da causa -, observou os parâmetros jurisprudenciais adotados nesta Corte Superior.
+Estando o acórdão impugnado em sintonia com a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Conforme jurisprudência desta Corte Superior, "a rescisão de contrato de promessa de compra e venda de imóvel, na hipótese em que o promitente-comprador deixa de pagar a prestação e continua usufruindo do imóvel, enseja ao promitente-vendedor o direito de indenização pelo uso do imóvel durante o período de inadimplência" (AgRg no AREsp n. 199.817/MS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 05/11/2013, DJe 11/11/2013).
+No mesmo sentido:
+DIREITO CIVIL. RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO. DENÚNCIA PELO COMPROMISSÁRIO COMPRADOR EM FACE DA INSUPORTABILIDADE NO PAGAMENTO DAS PRESTAÇÕES. POSSIBILIDADE. DEVOLUÇÃO PARCIAL DO VALORES PAGOS. TAXA DE OCUPAÇÃO DEVIDA POR TODO O PERÍODO DE POSSE SOBRE O IMÓVEL. ENTENDIMENTO ADOTADO PARA EVITAR O ENRIQUECIMENTO SEM CAUSA DO COMPRADOR. JUROS MORATÓRIOS. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO. RECURSO ESPECIAL PROVIDO.
+(..)
+2. Ocorrendo a resolução do compromisso por culpa do promissário comprador, este deverá ser ressarcido parcialmente sobre o valor pago.
+3. No caso em julgamento, considerando suas peculiaridades, a taxa de ocupação deve incidir desde o início da permanência no imóvel até sua efetiva devolução, tendo em vista a necessidade de não gerar enriquecimento sem causa por parte do promissário comprador.
+4. Na hipótese de resolução contratual do compromisso de compra e venda por desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios serão computados a partir do trânsito em julgado da decisão.
+5. Recurso especial provido.
+(REsp n. 1.211.323/MS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 1/10/2015, DJe 20/10/2015.)
+A Corte local concluiu que a recorrida faria jus à indenização por aluguéis, devido à ocupação do imóvel pelo recorrente, nos seguintes termos (e-STJ fl. 776):
+Insta ressaltar que, do valor a ser restituído ao autor, deverão ser descontados aqueles devidos a título de retribuição pelo período de ocupação do imóvel, correspondente a 0,6% do seu valor de mercado por mês de ocupação indevida (vale dizer, a partir da interrupção dos pagamentos até a efetiva desocupação do imóvel), além de eventual débito pertinente a despesas de impostos e de taxas incidentes sobre o imóvel, observado o limite do montante devido ao autor a título de restituição, admitida a compensação.
+Estando o acórdão recorrido alinhado com a jurisprudência assente neste Tribunal Superior, incide, mais uma vez, a Súmula n. 83/STJ, por ambas as alíneas do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
