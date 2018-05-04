@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 377):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. AUTOR POLICIAL MILITAR. COBRANÇA DE DIFERENÇAS SALARIAIS DECORRENTES DA APLICAÇÃO DA LEI Nº 8.880/94. URV. SENTENÇA DE IMPROCEDÊNCIA MANTIDA PELA DECISÃO MONOCRÁTICA EMBARGADA, JÁ QUE, EM SE TRATANDO DE POLICIAL E BOMBEIRO MILITAR, INCIDE DECRETO ESTADUAL Nº 20.153/1994, POSTO QUE QUE RECEBIAM SEUS VENCIMENTOS NO ÚLTIMO DIA DO MÊS. NEGADO PROVIMENTO AO RECURSO.
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 283, 396, 397 e 535, I e II, do CPC/1973, sustentando negativa de prestação jurisdicional e necessidade de pagamento de diferença remuneratória resultante de inadequada conversão de padrão monetário.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de suficiente prestação jurisdicional, irregularidade formal e incidência da Súmula 7 do STJ (e-STJ fls. 442/445).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+Contraminuta às e-STJ fls. 574/581.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Em relação ao art. 535, II, do CPC/1973, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (AgRg no AREsp 719.983/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/04/2016, DJe 26/04/2016, e AgRg no AREsp 811.706/PR, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 07/04/2016, DJe 15/04/2016).
+Com efeito, o suposto vício não sanado após manejos de aclaratórios, decorrente da ausência de envio dos autos ao contador judicial, sequer consta dos embargos manejados no Tribunal de Justiça.
+Quanto à alegação de contrariedade aos arts. 283, 396 e 397 do CPC/1973, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ademais, a decisão de relator mantida pelo Tribunal de origem entendeu que " ..  de acordo com o Decreto Estadual nº 20.153/1994, de 30/06/1994, foi aplicada a URV às folhas de pagamentos dos policiais e bombeiros militares, sendo este o último dia do mês, portanto, não há que se falar em diferença a ser paga" (e-STJ fl. 290).
+Assim, a revisão das razões de decidir do acórdão recorrido, nesse aspecto, encontra óbice na Súmula 280 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem honorários recursais sucumbenciais (art. 85, § 11, do CPC/2015), à vista do Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
