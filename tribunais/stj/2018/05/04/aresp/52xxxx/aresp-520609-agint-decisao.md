@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão que negou provimento ao agravo, mantendo a inadmissibilidade do recurso especial (e-STJ fls. 350/352).
+Nas razões do agravo (e-STJ fls. 358/360), o recorrente sustentou, em síntese, omissão na decisão recorrida, uma vez que o Tribunal de origem não se manifestou expressamente sobre o fato de que as parcelas liberadas deveriam ser atualizadas monetariamente, pois sofreram corrosão inflacionária, consoante disposto na sexta cláusula do contrato em questão. Assim, argumentou que mencionado tema jamais foi objeto de discussão nos autos, uma vez que em nenhum momento foi alegado pela parte adversa que as parcelas liberadas com atraso não haviam sido corrigidas monetariamente.
+Não foi apresentada impugnação ao recurso (e-STJ fl. 363).
+É o relatório.
+Decido.
+Merece acolhida a pretensão recursal no que diz respeito à alegada violação do art. 535 do CPC/1973 (atual art. 1.022 do CPC/2015).
+Nos embargos declaratórios opostos (e-STJ fls. 211/214), sustentou o agravante seu inconformismo diante da existência de omissão no acórdão recorrido, pois o Colegiado local não teria se pronunciado devidamente sobre a circunstância relevante de que as parcelas liberadas eram calculadas em OTNs e que (cláusula 6ª) o valor dessas parcelas seria reajustado, quando de sua utilização, com base nos percentuais de variação do valor unitário da OTN vigente nesta data e naquelas em que se der a liberação dos recursos. Consequentemente, afirmou que as parcelas eram atualizadas monetariamente no momento de sua liberação. Assim, argumentou que deveria ser modificada a conclusão do acórdão recorrido, mostrando-se necessário o esclarecimento pela Corte estadual de como se procederá a liquidação da sentença, apontando que, caso se tome o valor nominal das parcelas na data contratação, elas devem ser atualizadas até a data da liberação por outro índice que não a OTN, cumprindo anotar que tal procedimento poderá resultar elevação da dívida.
+No entanto, o Colegiado local, ao examinar o recurso, abordou apenas de forma sucinta a questão, sem enfrentar, a contento, as omissões apontadas nos embargos declaratórios.
+Nesse sentido, como a Corte de origem, ao julgar a causa, deixou de refutar os argumentos apresentados pelo recorrente, nos embargos declaratórios ora opostos, há que se reconhecer a contrariedade ao art. 535 do CPC/1973 (atual art. 1.022 do CPC/2015).
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios concernente a pontos relevantes, impõe-se a anulação do acórdão recorrido, para que o recurso seja novamente apreciado. Sobre o assunto, a título de exemplificação, os seguintes precedentes:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. NATUREZA DO CONTRATO FIRMADO ENTRE A RECORRENTE E A CORRÉ. EXPLICITAÇÃO. NECESSIDADE. ART. 535, II, DO CPC. VIOLAÇÃO CONFIGURADA.
+1. Há ofensa ao art. 535, II, do CPC quando o Tribunal a quo, a despeito da omissão existente no acórdão e da oposição de embargos declaratórios, deixa de emitir juízo de valor especificamente sobre questão desenvolvida nos autos e relevante para o deslinde da controvérsia.
+(..)
+3. Recurso especial provido.
+(REsp n. 1.130.311/RJ, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 4/8/2011, DJe 15/8/2011.)
+PROCESSO CIVIL. DIREITO DAS OBRIGAÇÕES. NOVAÇÃO. POSSIBILIDADE DE ANÁLISE DO NEGÓCIO JURÍDICO ANTECEDENTE. MITIGAÇÃO DO PRINCÍPIO PACTA SUNT SERVANDA. SÚMULA 286 DO STJ. VIOLAÇÃO DO ART. 535 DO CPC CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A violação do art. 535 do CPC configurou-se, no caso dos autos, uma vez que, a despeito da oposição de embargos de declaração, nos quais os recorrentes apontam a existência de omissões, mormente no tocante à possibilidade de exame judicial de supostas ilegalidades substanciais nos contratos celebrados anteriormente à alegada novação com a instituição financeira (fls. 1.052-1.053), o Tribunal não se manifestou de forma satisfatória sobre o apontado vício, consoante se infere do voto condutor às fls. 1.061-1.066.
+(..)
+3. Recurso especial provido para determinar o retorno dos autos ao Tribunal de origem.
+(REsp n. 866.343/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/6/2011, DJe 14/6/2011.)
+Diante do exposto, CONHEÇO do agravo para reconsiderar a decisão de fls. 350/352 e DAR PROVIMENTO ao recurso especial interposto pelo ora agravante, a fim de anular o acórdão proferido no julgamento dos embargos de declaração e determinar o retorno dos autos ao Tribunal de origem, para exame das omissões apontadas.
+Publique-se e intimem-se.
