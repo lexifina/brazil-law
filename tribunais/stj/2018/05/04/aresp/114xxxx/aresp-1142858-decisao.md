@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544), interposto contra decisão que inadmitiu o recurso especial, sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 1.022/1.023).
+O acórdão do TJSP está assim ementado (e-STJ fl. 1.000):
+Agravo de instrumento. Dissolução de sociedade. Laudo pericial homologado. Decisão mantida. O cerne da perícia era a apuração de haveres da sociedade empresarial Sete Veículos Comércio Sorocaba Ltda. Agravantes foram instados a apresentar documentos, com dilação de prazo, no entanto, quedaram inertes. A declaração de nulidade do laudo pericial contábil implicaria em retrocesso, sobretudo porque não se vislumbra nenhum fundamento para tal declaração. Ausência de violação ao devido processo legal. Agravo desprovido.
+Nas razões do recurso especial (e-STJ fls. 1.005/1.013), interposto com base no art. 105, III, "a", da CF, os recorrentes apontaram violação do art. 437 do CPC/2015, alegando que o laudo pericial seria inválido, porque o perito, mesmo tendo os documentos necessários à perícia colocados a sua disposição, não os teria analisado, concluindo, de forma contraditória, que a documentação seria insuficiente para responder aos quesitos complementares dos recorrentes, por necessitar dos documentos anteriormente entregues (e-STJ fl. 1.007).
+Argumentaram que o laudo pericial seria falho, uma vez que, por se basear em documentação incompleta, estaria fundado em premissas errôneas e com inconsistências, segundo apontado, razão por que deveria ser anulado, deferindo-se a realização de nova perícia para corrigir omissão ou inexatidão apontada na anterior.
+Foram apresentadas contrarrazões (e-STJ fls. 1.017/1.021).
+No agravo (e-STJ fls. 1.025/1.037), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 1.039/1.044).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O TJSP rejeitou o pedido de nulidade do laudo pericial contábil, ao reconhecer que o pedido não possuía fundamento e que implicaria em retrocesso à marcha processual, não podendo os recorrentes, após a dilação de prazo concedida, atrasar o andamento do processo, pois não disponibilizaram, no prazo concedido, a documentação necessária à elaboração do laudo para apuração dos haveres societários pelo perito, tendo em vista que (e-STJ fls. 1.001/1.002):
+Conforme se depreende do instrumento, o Juízo a quo concedera prazo de 30 dias para os agravantes apresentarem documentos; oportunamente, postularam prazo adicional de 30 dias. Em seguida, informaram que os documentos estavam disponíveis no Escritório Sercon. Ocorre, no entanto, que o perito declarou que os contatos com o citado escritório restaram infrutíferos.
+Assim sendo, não podem os agravantes atrasar o curso do processo sem qualquer justificativa e ainda pleitearem nulidades, como se tivessem sido tolhidos do devido processo legal.
+3. O cerne da perícia era a apuração de haveres da sociedade empresarial Sete Veículos Comércio Sorocaba Ltda. com base nos documentos constantes nos autos.
+O laudo pericial foi técnico, pontual, esclarecedor e detalhista. Fora calculado a média dos valores apresentados pelas partes e utilizado o saldo em conta corrente da empresa para chegar ao valor da participação.
+O perito utilizou-se das planilhas oferecidas pelas partes, que demonstram, praticamente, os mesmos veículos em estoque, bem como o valor informado em conta corrente, fls. 926.
+O expert esclareceu, ainda, que incluíra nos cálculos os veículos vendidos ou apreendidos, pois não havia determinação do Juízo para excluí-los, bem como ele entendia que fazia parte do estoque da empresa.
+Nas planilhas, as partes informaram os veículos mantidos em estoque á época, tendo o perito arbitrado 10% do total apurado com a média dos valores obtidos, como possíveis custos pela manutenção do estoque dos veículos mencionados. As médias e o saldo da conta foram corrigidos pela Tabela do Tribunal.
+Destarte, não se vislumbra nenhuma discrepância no laudo pericial judicial homologado, sendo mantida a decisão agravada.
+Ultrapassar os fundamentos do acórdão impugnado, para acolher a tese de que teriam colocado à disposição do perito, no endereço de fl. 916 (e-STJ), os documentos necessários à perícia, segundo sustentado pelos recorrentes, a fim de anular o laudo pericial, exigiria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
