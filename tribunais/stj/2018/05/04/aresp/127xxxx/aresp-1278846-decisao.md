@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Iara Monteiro Sampaio de Souza Garms & Cia Ltda. e outros contra decisão que não admitiu o recurso especial com base no óbice da Súmula 7 do STJ.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo na alínea "a" do permissivo constitucional em oposição a acórdão assim ementado (e-STJ, fl. 464):
+Apelação Cível. Mandado de segurança. Suspensão preventiva aplicada a contribuintes que causaram embaraço à fiscalização. Fundada suspeita de utilização de diversas inscrições estaduais por única para obtenção de benefícios fiscais e participação em licitações. Medida preventiva que consubstancia poder de polícia. Art. 3º, § 1º, 3, da Portaria CAT nº 95/2006 cc. art. 31, II, § 2º, 2 e 3 do RICMS. Ausência de demonstração de violação a direito líquido e certo. Ação fiscal que se presume legítima, ante minucioso relato do procedimento. Acompanhamento integral por agentes encarregados da segurança pública. Ação mandamental que não pode ser manejada como instrumento para obstar a fiscalização. Recursos oficial e voluntário providos, prejudicado o recurso dos impetrantes.
+Os recorrentes alegam violação dos arts. 5º, LXIX, 170, parágrafo único, da Constituição Federal e da Lei n. 12.016/2009, porquanto não é possível a dilação probatória em mandado de segurança.
+Apontam malferimento da Portaria CAT n. 95/2006, uma vez que a suspensão cautelar por "embaraço à fiscalização" ocorre apenas nas situações específicas do rol taxativo.
+É o relatório.
+Inicialmente, em recurso especial não se analisa suposta afronta a dispositivo constitucional, sob pena de usurpação da competência atribuída ao eg. Supremo Tribunal Federal.
+De outro lado, o Tribunal de origem, com base nos documentos dos autos, entendeu que houve violação do direito líquido e certo da recorrida (e-STJ, fls. 471-472):
+Ademais, o mandado de segurança é remédio constitucional vocacionado a resguardar direitos contra as violações de arbítrio. Admite-se a ação mandamental para proteger direito líquido e certo, quando a ilegalidade ou abuso de poder já se consumou ou quando haja ameaça ou justo receio. Não se pode admitir que seja manejado como ardil para obstar a fiscalização tributária e a apuração de ilícitos.
+De rigor reconhecer que a ação fiscal foi conduzida de forma escorreita, dentro dos limites da legalidade e mediante devida formalização dos atos, o que se afere pela prévia emissão das OSFs (fls. 112, 113 e 115), lavratura de boletim de ocorrência perante a autoridade policial (fls. 119/120) e de boletim de ocorrência da Polícia Militar (fls. 180/184), auto de apreensão de livros e documentos (fls. 231), relatório de comunicação fiscal (fls. 153/158), despacho de autoridade (fls. 158).
+Por esses termos, não resta evidenciada a violação de direito líquido e certo do impetrante DURVAL GARMS JUNIOR. Presume-se legítima a ação fiscal que se desenvolveu na presença de dois policiais militares, que permaneceram no local até a chegada da testemunha responsável pelo estabelecimento, conforme relato constante do boletim de ocorrência militar:
+ ..
+E de fato, o estado em que encontrada a mesa do impetrante pode ser aferido pelas fotos (fls. 324) e pelo minucioso relato de servidores públicos, merecedor de credibilidade, ante a presunção de legitimidade dos atos da Administração. - grifos acrescidos
+Como se verifica, rever o entendimento da Corte local nesse ponto, implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, ante o que preceitua a Súmula 7 do STJ.
+Por fim, não se pode analisar violação da Portaria CAT n. 95/2006 em recurso especial, pois tal espécie de ato normativo não equivale à lei federal para fins de interposição do apelo especial.
+No aspecto:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DA VALORIZAÇÃO DO MAGISTÉRIO (FUNDEF).
+LEGALIDADE DA PORTARIA 400/04. INADMISSIBILIDADE DE ANÁLISE POR ESTA EGRÉGIA CORTE SUPERIOR. ESPÉCIE DE ATO NORMATIVO QUE NÃO SE EQUIVALE A LEI FEDERAL. AGRAVO REGIMENTAL DA UNIÃO FEDERAL DESPROVIDO.
+1. No tocante à omissão no decisum recorrido quanto à alegada violação ao artigo 3o., § 6o. do Decreto 2.264/97 regulamentador da Lei 9.424/96, não há como acolher a alegada violação ao art. 535, visto que a lide foi resolvida com a devida fundamentação, ainda que sob ótica diversa daquela almejada pelo ora recorrente. Todas as questões postas em debate foram efetivamente decididas, não tendo havido vício algum que justificasse o manejo dos Embargos Declaratórios. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+2. Destaca-se ainda que, tendo encontrado motivação suficiente para fundar a decisão, não fica o órgão julgador obrigado a responder, um a um, os questionamentos suscitados pelas partes, mormente se notório seu caráter de infringência do julgado.
+3. No mais, esta egrégia Corte Superior não é competente para analisar questões referente à legalidade da Portaria 400/04 do Ministério da Fazenda, tendo em vista que tal espécie de ato normativo não equivale à lei federal para fins de interposição do Apelo Especial.
+4. Agravo Regimental desprovido.
+(AgRg nos EDcl no Ag 1.236.086/BA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 7/3/2013)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
