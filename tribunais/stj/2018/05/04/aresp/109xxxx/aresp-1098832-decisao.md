@@ -1,0 +1,27 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXCESSO DE EXECUÇÃO. ANÁLISE QUE DEMANDA A INCURSÃO NO ACERVO FÁTICO PROBATÓRIO DOS AUTOS. HONORÁRIOS ADVOCATÍCIOS RELATIVOS A FASE DE EXECUÇÃO DO JULGADO. AGRAVO DA FAZENDA DO ESTADO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO, com fundamento na alínea a do art. 105, III, da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio TJSP, assim ementado:
+EMBARGOS À EXECUÇÃO  ALEGAÇÃO DE ó EXCESSO  PRETENSÃO À APLICAÇÃO DA LEI FEDERAL 11.960/09. Juros de mora e correção monetária  Aplicação imediata da nova redação do artigo 1o.-F, dada pela Lei 11.960/2009, sem, contudo, retroagir a período anterior à sua vigência. Entendimento adotado pelo Superior Tribunal de Justiça. Recurso da Fazenda do Estado de São Paulo parcialmente provido e recurso da autora provido (fls. 96).
+2. Opostos Embargos Declaração e foram rejeitados (fls. 116/120).
+3. Nas razões do seu Apelo Nobre, a parte recorrente aponta violação do art. 586 do CPC, aduzindo que a obrigação em tela, referente a honorários advocatícios, carece de certeza quanto a sua existência, pois não consta da decisão exeqüenda.
+4. O Apelo Raro foi inadmitido pela Presidência do Tribunal de origem (fls. 135), sobrevindo interposição de Agravo (fls. 138/142).
+5. É o relatório, em síntese. Decido.
+6. O inconformismo não merece prosperar.
+7. A questão em debate cinge-se à existência de título executivo relativo à verba honorária exigida no montante de 10% do valor da execução.
+8. Acerca do tema, a Corte de origem teceu as seguintes considerações:
+O título executivo judicial em que se funda a presente ação de execução individual decorre de habilitação promovida no mandado de segurança coletivo 1184100, no qual se reconheceu o direito dos autores à percepção da gratificação denominada "gratificação por trabalho educacional"  GTE, acrescidas de correção monetária e juros de 6% ao ano.
+Entretanto, ocorre que a ordem não foi voluntariamente cumprida pelo Estado, assim, após o trânsito em julgado, as partes passaram a promover suas habilitações individuais, tendo ocorrido o apostilamento em julho de 2007, no bojo do referido mandado de segurança.
+O recurso da Fazenda do Estado de São Paulo merece parcial provimento (fls. 97/98).
+9. In casu, o Tribunal a quo concluiu que, diante da inércia do Estado em cumprir a determinação contida no título judicial, dando causa à instauração da fase executória, seriam devidos honorários advocatícios nesta fase, não reconhecendo o excesso de execução apontado.
+10. Dessa forma, a alteração do entendimento da Corte de origem no tocante à ausência de excesso de execução, na forma pretendida, demandaria necessariamente a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7/STJ. A propósito, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGADO EXCESSO DE EXECUÇÃO. NECESSIDADE DE REEXAME DE PROVAS E FATOS. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Hipótese em que o acórdão recorrido, à luz dos elementos fáticos dos autos, concluiu que inexiste excesso de execução, no caso, porquanto "a conta impugnada apenas deu cumprimento às determinações do título executivo". Incidência, no caso, da Súmula 7/STJ.
+II. Segundo jurisprudência desta Corte, "não é possível o conhecimento do recurso especial que pretende rever a conclusão do Tribunal de origem acerca do excesso de execução, porque a convicção a que chegou o acórdão recorrido decorreu da análise do conjunto fático-probatório dos autos. O acolhimento da pretensão recursal demanda o reexame desse suporte, obstando a admissibilidade do especial, a teor da Súmula 7 do STJ" (STJ, AgRg no AREsp 182.876/RJ, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 05/03/2013). No mesmo sentido: STJ, AgRg no AREsp 486.087/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 13/05/2014; STJ, AgRg no AREsp 343.531/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 10/04/2014.
+III. Agravo Regimental improvido (AgRg no AREsp. 689.275/RJ, Rel. Min. ASSUSETE MAGALHÃES, DJe 28.8.2015).
+
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. OMISSÃO DO JULGADO RECORRIDO AFASTADA. AUSÊNCIA DE INÉRCIA DO CREDOR. ILIQUIDEZ DO TÍTULO EXECUTIVO. EXCESSO DE EXECUÇÃO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Afasta-se a alegada ofensa ao art. 535 do CPC, porquanto o Tribunal de origem dirimiu, de forma clara e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos. Não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. No que se refere às alegações de prescrição, iliquidez do título executivo e excesso de execução, a alteração das conclusões adotadas pela Corte de origem exigiria novo exame do acervo fático- probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto no enunciado nº 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo regimental a que se nega provimento (AgRg no REsp. 1.392.202/PI, Rel. Min. SÉRGIO KUKINA, DJe 14.8.2014).
+11. Com essas considerações, nega-se provimento ao Agravo em Recurso Especial.
+12. Publique-se. Intimações necessárias.
