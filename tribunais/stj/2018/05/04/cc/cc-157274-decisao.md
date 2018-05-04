@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, instaurado por [NOME] e JEANS COMPANY LTDA - ME - EM RECUPERAÇÃO JUDICIAL, envolvendo o Juízo de Direito da 4.ª Vara Cível da Comarca de Petrolina/PE, no qual se processa a recuperação judicial da suscitante (processo n.º 0017197-66.2016.8.17.1130), e o Juízo Federal da 8ª Vara Federal de Petrolina- SJ/PE, onde tramita a execução de título extrajudicial n.º 0801309-56.2017.4.05.8308.
+A suscitante afirma que foi deferido seu pedido de recuperação judicial pelo Juízo da 4ª Vara Cível da Comarca de Petrolina/PE que, além de determinar a suspensão das ações e execuções movidas contra a recuperanda, consignou, de forma expressa, na linha da jurisprudência do Superior Tribunal de Justiça, a suspensão de todo e qualquer ato que importe em constrição patrimonial desta empresa.
+Sustenta, contudo, que o r. juízo suscitado determinou o prosseguimento da execução extrajudicial em apreço, embora caiba ao juízo universal, com exclusividade, a deliberação de definição acerca do caráter concursal ou extraconcursal de créditos em processos de recuperação judicial.
+Postula, liminarmente, a fixação da competência do Juízo da 4ª Vara Cível da Comarca de Petrolina/PE, para decidir sobre as questões que afetam o patrimônio da suscitante, bem como a suspensão do curso da execução extrajudicial n.º 0801309.56.2017.4.05.8308.
+No mérito, requer a confirmação da liminar, no tocante à competência do magistrado recuperacional. (fls. 1/16)
+Às fls. 84/86 este signatário indeferiu o pedido liminar.
+Prestadas as informações (fls. 95/97 e 100/113), o MPF opinou pelo reconhecimento da competência do r. juízo da recuperação judicial. (fls. 115/118)
+É o relatório.
+Decide-se.
+1. Destaca-se, inicialmente, a competência deste Superior Tribunal de Justiça e da Segunda Seção para o conhecimento e processamento do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, I, "d", da Constituição Federal. Nesse sentido, confira-se: AgRg no CC n.º 123.474/DF, Rel,ª Min.ª NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe de 26/10/2012.
+2. A jurisprudência desta eg. Corte Superior caminha no sentido de que o "A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005" (ut. REsp 1.333.349/SP, Segunda Seção, Rel. Min. Luis Felipe Salomão, DJe 2.2.2015)
+E ainda, na mesma linha:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. AS AÇÕES E EXECUÇÕES MOVIDAS CONTRA OS AVALISTAS NÃO SE SUSPENDEM POR FORÇA DO DEFERIMENTO DA RECUPERAÇÃO JUDICIAL DA COOBRIGADA.
+1. Decorre do art. 6º da Lei 11.101/05 a suspensão das ações e execuções que se voltem contra o patrimônio da sociedade em recuperação.
+2. O art. 49, § 1º, da Lei 11.101/2005, prevê que os credores do devedor em recuperação judicial conservam seus direitos e privilégios contra os coobrigados, fiadores e obrigados de regresso.
+3. A obrigação que decorre do aval é autônoma, não tendo a sua eficácia suspensa pelo deferimento da recuperação judicial da sociedade garantida. Precedentes.
+4. AGRAVO REGIMENTAL DESPROVIDO.
+AgRg no CC 116.173/AL, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 10/04/2013, DJe 15/04/2013.
+AGRAVO REGIMENTAL. DIREITO EMPRESARIAL E PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO AJUIZADA EM FACE DE SÓCIO-AVALISTA DE PESSOA JURÍDICA EM RECUPERAÇÃO JUDICIAL. SUSPENSÃO DA AÇÃO. IMPOSSIBILIDADE.
+1. O caput do art. 6º da Lei n. 11.101/05, no que concerne à suspensão das ações por ocasião do deferimento da recuperação, alcança apenas os sócios solidários, presentes naqueles tipos societários em que a responsabilidade pessoal dos consorciados não é limitada às suas respectivas quotas/ações.
+2. Não se suspendem, porém, as execuções individuais direcionadas aos avalistas de título cujo devedor principal é sociedade em recuperação judicial, pois diferente é a situação do devedor solidário, na forma do § 1º do art. 49 da referida Lei. De fato, " a  suspensão das ações e execuções previstas no art. 6º da Lei n. 11.101/2005 não se estende aos coobrigados do devedor" (Enunciado n. 43 da I Jornada de Direito Comercial CJF/STJ).
+3. Agravo regimental não provido.
+AgRg no REsp 1342833/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/05/2014, DJe 21/05/2014.
+No mesmo sentido: AgRg no REsp 1378984/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/08/2013, DJe 19/08/2013; REsp 1095352/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 09/11/2010, DJe 25/11/2010.
+Na hipótese, o r. juízo federal, em suas informações esclareceu, na linha do entendimento supramencionado, que "(..) Diante dessas informações trazidas pela executada, foi cancelada a Audiência de Conciliação designada para o dia 13 de dezembro de 2017, e proferida decisão determinando a inclusão de [NOME] [NOME] E [NOME] no polo passivo da execução, suspendendo o curso processual em relação à empresa devedora principal JEANS COMPANY LTDA - ME e determinando a continuidade do feito em relação aos coobrigados [NOME] [NOME] E SILAV E ADRIANA ALVES [NOME] com a devida citação, nos termos do art. 829 do Código de Processo Civil (CPC)." (fl. 96)
+3. Do exposto, com fundamento no art. 957, do NCPC c/c Súmula 568/STJ não conheço do presente conflito de competência.
+Publique-se. Intimem-se. Oficie-se.
