@@ -1,0 +1,27 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. TRIBUTÁRIO. ENCARGO LEGAL DE 20% PREVISTO NO DL 1.025/1969. BASE DE CÁLCULO DO ENCARGO QUE DEVE SER FEITA COM A EXCLUSÃO DA MULTA E JUROS PARA APURAÇÃO DO MONTANTE TOTAL DO DÉBITO. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fulcro no art. 105, III, alínea a da Constituição Federal, objetivando a reforma do acórdão proferido pelo egrégio TRF da 3a. Região, assim ementado:
+EXECUÇÃO FISCAL. MP 38/2002. PARCELAMENTO. ENCARGO PREVISTO NO DECRETO-LEI 1.025/69. INCIDÊNCIA
+SOBRE O VALOR ALTERADO PELOS BENEFÍCIOS FISCAIS.
+I - A MP 38/02 previu o parcelamento de débitos relativos a tributos e contribuições administrados pela Secretaria da Receita Federal, dispensando a incidência de acréscimos legais, cujo âmbito alcança multas, de caráter punitivo e moratório, e juros de mora até o mês de janeiro de 1999.
+H - Em que pese a MP 38/02 tenha perdido eficácia, à falta de sua conversão em lei no prazo constitucionalmente previsto, as relações jurídicas constituídas e decorrentes de atos praticados durante sua vigência conservar-se-ão por ela regidas, ou seja, a perda de eficácia será ex nunc, porquanto não tenha sido publicado decreto legislativo previsto no artigo 62, § 11, da CF/88, com a redação conferida pela EC 32/2001.
+III - Com a adesão do contribuinte ao parcelamento indicado na Medida Provisória 38/2002, resta minorada a base de cálculo do encargo legal previsto no Decreto-Lei 1.025/69, cuja natureza jurídica é de taxa retributiva, restrita ao valor do pagamento, calculada sem a incidência de juros e multa de mora.
+IV - Remessa oficial e apelação improvidas. (fls. 283).
+2. Nas razões de seu Recurso Especial, a parte recorrente aponta violação do art. 11 da MP 38/2002 e art. 1o. da Portaria Conjunta SRF/PGF 900/2002, asseverando que a norma instituidora do encargo legal do Decreto-Lei 1.025/1969 tem por base de cálculo o montante total do débito ao tempo de sua incidência (incidência esta que se deu, repita-se, antes da remissão ou anistia), incluindo-se neste as multas e os juros de mora então devidos (fls. 300).
+3. Apresentadas Contrarrazões, o recurso foi admitido na origem.
+4. Às fls. 348/351, o Ministério Público Federal opinou pelo desprovimento do Apelo Nobre.
+5. É o relatório.
+6. Cinge-se a controvérsia em saber se o percentual de 20%, previsto no DL 1.025/1969, incide sobre o valor efetivamente pago (após a redução da multa e juros) ou sobre o montante total do débito antes dos abatimentos legais.
+7. A Súmula 168 do TFR reza que o encargo de 20% (vinte por cento), do Decreto-Lei 1.025, de 1969, é sempre devido nas execuções fiscais da União e substitui, nos embargos, a condenação do devedor em honorários advocatícios.
+8. O art. 1o. do DL 1.025/1969 prevê que a taxa, no total de 20%, deve ser recolhida pelo executado aos cofres públicos, como renda da União.
+9. Com o passar do tempo, esta norma foi parcialmente alterada pelo art. 3o. do DL 1.569/1977, que previu a redução da multa em 10% nos casos de débito inscrito em Dívida Ativa da União, pago antecipadamente ao ajuizamento da ação; e também pelo o art. 3o. do DL 1.645/1978, que acrescentou o parág. único para dispor que o encargo do art. 1o. do DL 1.025/1969, deveria ser calculado sobre o montante do débito, inclusive multas, monetariamente atualizado e acrescido de juros de mora.
+10. Verifica-se, portanto, que o encargo legal do DL 1.025/1969 leva em conta o montante total do débito, acrescido de multas.
+11. Interpretando-se a norma, pode-se dizer que o encargo aplica-se sobre a multa somado ao montante devido; se a multa fora anistiada, por dedução lógica, tem-se que o montante total devido, que incidirá o encargo, se dará após a exclusão da multa.
+12. Assim, correto o entendimento proferido pelo Tribunal de origem que delimitou o encargo de 20%, previsto no DL 1.025/1969 ao montante total devido, excluindo-se desse valor total a multa e juros de mora. A propósito, cita-se o seguinte julgado:
+TRIBUTÁRIO. ENCARGO LEGAL DE 20% PREVISTO NO DL 1.025/69. MULTA ANISTIADA. BASE DE CÁLCULO DO ENCARGO QUE DEVE SER FEITA COM A EXCLUSÃO DA MULTA PARA APURAÇÃO DO MONTANTE TOTAL DO DÉBITO. RECURSO ESPECIAL PROVIDO.
+1. O art. 1o. do DL 1.025/69 prevê que a taxa, no total de 20% (vinte por cento), deve ser recolhida pelo executado aos cofres públicos, como renda da União.
+2. Com o passar do tempo, esta norma foi parcialmente alterada pelo art. 3o. do DL 1.645/1978, que acrescentou o parág. único, para dispor que o encargo do art. 1o. do DL 1.025/69, deveria ser calculado sobre o montante do débito, inclusive multas, monetariamente atualizado, e acrescido de juros de mora.
+3. Interpretando-se a norma, pode-se dizer que o encargo se aplica sobre a multa somado ao montante devido; se a multa fora anistiada, por dedução lógica, tem-se que o montante total devido, no qual incidirá o encargo, se dará após a exclusão da multa, e não antes, como decidido pelo Tribunal de origem.
+4. Recurso Especial provido para reformar o acórdão proferido pelo Tribunal de origem, delimitando-se que o encargo de 20%, previsto no DL 1.025/69, tem por base de cálculo o montante total devido, excluindo-se desse valor total a multa que fora anistiada. (REsp. 1.217.709/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 23.6.2016).
+13. Diante do exposto, nega-se seguimento ao Recurso Especial.
+14. Publique-se. Intimações necessárias.
