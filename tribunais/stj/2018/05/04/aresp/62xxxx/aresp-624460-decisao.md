@@ -1,0 +1,24 @@
+DECISÃO
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. REAJUSTE DE 28,86%. REESTRUTURAÇÃO DA CARREIRA. VPNI. ABSORÇÃO. REVISÃO. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por [NOME], com base nas alíneas a e c do art. 105, III da Carta Magna, contra acórdão do TRF da 4a. Região, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. SERVIDORES. REAJUSTE DE 28,86%. REESTRUTURAÇÃO DA CARREIRA. OFENSA À COISA JULGADA NÃO CONFIGURADA.
+Por força da Medida Provisória 431/2008 (Lei 11.784/2008), houve a absorção dos reajustes postulados pelos agravantes, em face da reestruturação que instituiu novos vencimentos.
+Não há violação da coisa julgada, pois a decisão proferida no embargos de devedor versou sobre o pagamento de diferenças pretéritas (obrigação de dar), e não sobre o pedido de implementação do reajuste em folha de pagamento (obrigação de fazer) (fls. 165).
+2. No Apelo Especial, os recorrentes apontam violação dos arts. 125, 126, 128, 300, 459, 460, 462, 467, 469; 474, 475-G e 794, I, todos do CPC, além de contrariedade à Súmula 85/STJ. Defendem que o erro material existente no decisum está em negar o consubstanciado no título judicial, o qual determina o pagamento das diferenças provenientes da incorporação do índice de 28,86% o qual só foi aperfeiçoado no curso dos Embargos à Execução processo 99.0002165-7, após a reestruturação da carreira a qual estão vinculados os Apelantes/Exequentes. Em fim, o aresto recorrido não observou os limites impostos pela coisa julgada e quedou-se em exercer a efetiva prestação jurisdicional (fls. 191).
+3. É o relatório.
+4. No tocante ao art. 535, I e II do CPC, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+5. No mérito, a Corte de origem não reconheceu direito dos Servidores pelas seguintes razões:
+Segundo consta nos autos, por força da Medida Provisória 431/2008 (Lei 11.784/2008), houve a absorção dos reajustes postulados pelos agravantes, em face da reestruturação que instituiu novos vencimentos, conforme asseverado pelo magistrado monocrático (fls. 161).
+6. A alteração das conclusões da Corte de origem demandaria, necessariamente, a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual, a pretensão de simples reexame de prova não enseja Recurso Especial.
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 535 DO CPC. AUSÊNCIA DE VIOLAÇÃO. SERVIDORES PÚBLICOS. VPNI. ABSORÇÃO. REVISÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ.
+1. Ausente a violação do art. 535 do CPC, porquanto o acórdão de origem fundamentou, claramente, o posicionamento por ele assumido, resolvendo todas as questões levantadas pela agravante.
+2. A análise da tese suscitada esbarra na impossibilidade de incursão na seara probatória na via especial, conforme disposto na Súmula 7/STJ, uma vez que o Tribunal de origem, com base nos elementos probatórios, concluiu que os servidores somente tiveram sua carreira reestruturada pela Medida Provisória 431/08, posteriormente convertida na Lei 11.784/08, que instituiu novas tabelas remuneratórias, sendo devidas as diferenças até o advento da MP 431/08.
+3. Agravo interno a que se nega provimento (AgInt no AREsp. 633.019/SC, Rel. Ministro OG FERNANDES, DJe 19.9.2016).
+
+PROCESSUAL CIVIL. LITISPENDÊNCIA. COISA JULGADA. LITIGÂNCIA DE MÁ-FÉ. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7. INCIDÊNCIA.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+2. A análise da tese recursal de existência de litispendência/coisa julgada depende do reexame do conjunto fático-probatório dos autos, o que é inviável no âmbito do recurso especial. Incidência do óbice da Súmula 7.
+3. O Tribunal de origem, para aplicar a multa por litigância de má-fé, reconheceu que a recorrente agiu de forma temerária, "atentando contra a credibilidade do Poder Judiciário", de modo que a revisão desse entendimento demandaria o reexame de matéria fático-probatória, providência vedada na sede especial, por força da Súmula 7 do STJ.
+4. Agravo interno desprovido (AgInt no AREsp. 872.521/SP, Rel. Min. GURGEL DE FARIA, DJe 16.2.2018).
+7. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial.
+8. Publique-se. Intimações necessárias.
