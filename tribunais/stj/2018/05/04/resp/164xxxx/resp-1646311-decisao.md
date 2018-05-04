@@ -1,0 +1,74 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO CPC/73. LOCAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. UNIÃO SUCESSORA DA EXTINTA REDE FERROVIÁRIA FEDERAL S.A. COMPETÊNCIA RATIONAE PERSONAE. ART. 109, I, DA CF/88. ABSOLUTA. JUSTIÇA FEDERAL. INCIDÊNCIA DA SÚMULA Nº 365 DO STJ. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+REDE FERROVIÁRIA FEDERAL S.A. (RFFSA) ajuizou ação de despejo por falta de pagamento cumulada com cobrança de aluguéis contra ROSEMARI APARECIDA COLIN (ROSEMARI), cujos pedidos foram julgados procedentes, em sentença proferida por Juízo estadual (e-STJ, fls. 111/115).
+ROSEMARI interpôs apelação, tendo o Tribunal Regional Federal da Primeira Região reconhecido sua incompetência e determinado a remessa dos autos a uma das Turmas do Tribunal de Justiça do Estado de Mato Grosso do Sul, nos termos da seguinte ementa:
+PROCESSO CIVIL: AGRAVO LEGAL. ARTIGO 557 DO CPC. DECISÃO TERMINATIVA. CONFLITO NEGATIVO DE COMPETÊNCIA. ARTIGO 113 E § 2o DO CPC. BENS DA REDE FERROVIÁRIA FEDERAL S/A. INTELIGÊNCIA DA SÚMULA 367 DO C. STJ. EC Nº 45/2004. ART. 105, INC. I, "D", DA CONSTITUIÇÃO FEDERAL. RECURSO IMPROVIDO.
+I - O agravo cm exame não reúne condições de acolhimento, visto
+desafiar decisão que, após exauriente análise dos elementos constantes dos autos, alcançou conclusão no sentido do não acolhimento da insurgência aviada através do recurso interposto contra a r. decisão de primeiro grau.
+II - Nos termos do artigo 113 e §2º do CPC deve o magistrado reconhecer, de ofício, a sua incompetência absoluta para apreciar o feito e, neste caso, remeter os autos ao juízo competente.
+III - No caso em tela, constata-se que a decisão impugnada foi proferida no âmbito da Justiça Estadual, de modo que a competência funcional - e, portanto, absoluta - para apreciar o presente apelo é do respectivo Tribunal de Justiça, máxime porque, quando da prolação da sentença, ainda não havia se operado a causa modificativa de competência.
+IV - Destaque-se, por oportuno, que a sentença foi proferida em 22.05.2006 e que a sucessão da Rede Ferroviária Federal só veio a ser sucedida pela União em 22.01.2007, donde se conclui que o Juízo estadual, quando proferiu a sentença, era competente para tanto.
+V - Considerando, portanto, que, quando ocorreu a causa modificativa da competência (sucessão da rede Ferroviária pela União), o processo já se encontrava sentenciado, não havendo de se falar em deslocamento de competência, in casu, sendo incabível a remessa do presente feito para a Justiça Federal, devendo o recurso ser apreciado pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, em razão da sua competência funcional (absoluta). Essa é a inteligência da Súmula 367 do C. STJ - A competência estabelecida pela EC nº 45/2004 não alcança os processos já sentenciados - e da jurisprudência consolidada em referida Corte: (CC 61588 / RJ Conflito de Competência 2006/0021673-5 Maria Thereza de Assis Moura (1131) S3 - Terceira Seção). Outro não é o entendimento desta Corte: (TRF3 Primeira Turma AC 00441122619914039999 AC - Apelação Cível - 62189 Desembargador Federal Johonsom Di Salvo).
+VI - Posto isso, com base no artigo 113, caput e §2º, do CPC, de ofício, reconhece-se a incompetência deste Regional e determine-se a remessa dos autos para que eles sejam redistribuídos para uma das Turmas do Tribunal de Justiça do estado do Mato Grosso do Sul.
+VII - A recorrente não trouxe nenhum elemento capaz de ensejar a reforma da decisão guerreada, limitando-se a mera reiteração do quanto já expendido nos autos. Na verdade, a agravante busca reabrir discussão sobre a questão de mérito, não atacando os fundamentos da decisão, lastreada em jurisprudência dominante.
+VIII - Agravo legal improvido (e-STJ, fls. 224/225 - sem destaques no original).
+Os embargos de declaração interpostos pela UNIÃO, na qualidade se sucessora da RFFSA, foram rejeitados (e-STJ, fls. 246/252).
+Inconformada, a UNIÃO manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando violação dos arts. (1) 535, II, do CPC/73, sob o argumento de negativa de prestação jurisdicional; e (2) 2º da Lei nº 11.483/07, ao sustentar que, nos termos da Súmula nº 365 do STJ, a extinção da RFFSA e a sucessão processual pela UNIÃO deslocam a competência para a Justiça Federal, independentemente do momento processual em que se encontra o feito, por força do art. 109, I, da CF.
+As contrarrazões não foram apresentadas (e-STJ, fl. 310).
+O apelo nobre foi admitido na origem.
+É o relatório.
+Decido.
+O apelo merece prosperar, em parte.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+(1) Da alegada existência de omissão
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado, devido à desarmonia entre a fundamentação e as conclusões da própria decisão. Já a omissão que enseja a apresentação de embargos declaratórios, consiste na falta de manifestação expressa sobre algum fundamento, de fato ou de direito, apresentado pelas partes.
+Na hipótese dos autos, embora rejeitado o recurso integrativo interposto, a matéria em exame foi enfrentada pela Corte local de modo fundamentado e coerente, não se evidenciando o alegado vício. Houve, na realidade, julgamento contrário à pretensão da UNIÃO, sem que se lhe possa atribuir, contudo, a pecha de omissão.
+Como consectário, afasta-se a existência do vício referido no arrazoado especial.
+(2) Da competência
+Nos termos da Súmula nº 365 desta Corte Superior, A intervenção da União como sucessora da Rede Ferroviária Federal S/A (RFFSA) desloca a competência para a Justiça Federal ainda que a sentença tenha sido proferida por Juízo estadual (CORTE ESPECIAL, julgado em 19/11/2008, DJe 26/11/2008).
+Nessa orientação, sobrevieram os precedentes:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. INGRESSO DA UNIÃO NO POLO ATIVO DA LIDE, COMO SUCESSORA DA EXTINTA REDE FERROVIÁRIA FEDERAL S/A. COMPETÊNCIA RATIONAE PERSONAE. ART. 109, I, DA CF/88. COMPETÊNCIA ABSOLUTA DO JUÍZO FEDERAL. INCIDÊNCIA DA SÚMULA 365/STJ. PRECEDENTES.
+I. Cuida-se de Ação Reivindicatória, inicialmente proposta pela Fazenda Pública do Estado de São Paulo contra Palestra Futebol Clube, que teria por objeto terreno estadual, anteriormente desapropriado de particular e supostamente esbulhado pelo réu.
+II. Ingressando no feito, como autora, a Ferrovia Paulista S/A - FEPASA, incorporada pela extinta RFFSA, que foi sucedida pela União, consoante o disposto no art. 2º da Lei 11.483, de 31/05/2007, a competência para processar e julgar o feito é da Justiça Federal, a teor do art. 109, I, da CF/88.
+III. No enfrentamento entre a competência funcional, prevista no art. 575, II, do Código de Processo Civil, e a competência rationae personae, consubstanciada no art. 109, I, da Constituição Federal, prevalece a estabelecida em sede constitucional, de natureza absoluta. Precedentes do STJ.
+IV. Conforme a jurisprudência, "o ingresso da União no feito, na qualidade de sucessora da RFFSA - Rede Ferroviária Federal S/A, desloca a competência para a Justiça Federal, nos termos do art. 109, I, da, Constituição Federal (súmula 365/STJ). No confronto da competência funcional estabelecida pelo art. 575, II, do Código de Processo Civil, que determina a competência do juízo prolator da decisão em primeiro grau de jurisdição para a execução de seus julgados, e a competência ratione personae da Justiça Federal, prevista no art. 109, I, da Constituição Federal, deve prevalecer esta última, pois inserida em norma hierarquicamente superior" (STJ, EDcl no CC 83.326/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, DJe de 04/06/2010). No mesmo sentido: STJ, CC 33.111/RJ, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, SEGUNDA SEÇÃO, DJU de 23/06/2003.
+V. Incide, ainda, na espécie, o enunciado da Súmula 365 do Superior Tribunal de Justiça: "A intervenção da União como sucessora da Rede Ferroviária Federal S/A (RFFSA) desloca a competência para a Justiça Federal ainda que a sentença tenha sido proferida por Juízo estadual".
+VI. Conflito conhecido, para declarar competente o Juízo Federal da 4ª Vara de São José do Rio Preto/SP, o suscitante.
+(CC 129.766/SP, Rel. Ministra ASSUSETE MAGALHÃES, Primeira Seção, DJe 20/6/2014 - sem destaques no original)
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. EMBARGOS À EXECUÇÃO. AÇÃO REVISIONAL. PENSÃO RECEBIDA DA RFFSA. LEGITIMIDADE DA UNIÃO. ACORDO ENTRE A UNIÃO E O ESTADO DE SÃO PAULO. PREVALÊNCIA DA LEI FEDERAL N. 11.483/2007. COMPETÊNCIA DA JUSTIÇA FEDERAL. INCIDÊNCIA DO ART. 109, I, DA CF/88 E DA SÚMULA N. 365/STJ.
+1. A Lei n. 11.483/2007 estabelece a União como sucessora da Rede Ferroviária Federal S/A nos direitos, obrigações e ações judiciais nos quais a mencionada sociedade de economia mista seja autora, ré, assistente, opoente ou terceira interessada, ressalvadas, tão somente, as ações relativas aos empregados ativos da RFFSA e da Ferrovia Paulista S/A, nos termos do art. 17, II, do mencionado diploma legal.
+2. Tratando os autos de embargos à execução opostos contra ação revisional de pensão instituída por servidor da RFFSA, necessário o ingresso da União na lide, nos termos do mencionado diploma legal, não se podendo opor à legislação federal reguladora do tema contrato firmado entre a União e o Estado de São Paulo.
+3. Incidência do art. 109, I, da Constituição Federal e da Súmula n. 365/STJ, para declarar-se a competência da Justiça Federal.
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no CC 111.325/SP, Rel. Ministro JORGE MUSSI, Terceira Seção, DJe 17/5/2013 - sem destaques no original)
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDORES PÚBLICOS. DEMISSÃO. ANISTIA CONCEDIDA PELA LEI 8.878/1994. CASSAÇÃO. ANULAÇÃO. REINTEGRAÇÃO. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. INOVAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INTERVENÇÃO DA UNIÃO NO FEITO. DESLOCAMENTO DA COMPETÊNCIA PARA A JUSTIÇA FEDERAL.
+(..)
+4. A intervenção da União no feito, como sucessora processual da extinta RFFSA (Rede Ferroviária Federal S/A), enseja o deslocamento da competência para a Justiça Federal (art. 109, I, da Constituição da República).
+(..)
+6. Agravo Regimental não provido.
+(AgRg no REsp 1271281/RS, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 15/2/2013 - sem destaques no original)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. SUCESSÃO LEGAL DA RFFSA. INGRESSO DA UNIÃO NO FEITO. DESLOCAMENTO DA COMPETÊNCIA DO FEITO PARA A JUSTIÇA FEDERAL. COMPETÊNCIA RATIONE PERSONAE. ART. 109, I, DA CF/88. SÚMULA 365/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+(..)
+2. A Lei nº 11.483/07 estabeleceu que a União é sucessora da extinta RFFSA, que havia incorporada a FEPASA, ressalvando apenas as causas envolvendo pessoal da ativa.
+(..)
+4. Assim, considerando a legitimidade da União para atuar no feito como sucessora legal da extinta RFFSA, impõe-se reconhecer a competência da Justiça Federal, nos termos do art. 109, I, da CF/88, bem como do enunciado nº 365 da Súmula desta Corte.
+5. Agravo regimental a que se nega provimento.
+(EDcl no CC 105.228/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Terceira Seção, DJe 6/5/2011 - sem destaques no original)
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO RESCISÓRIA. REDE FERROVIÁRIA FEDERAL - RFFSA. UNIÃO. SUCESSORA NOS DIREITOS, OBRIGAÇÕES E AÇÃO JUDICIAL. COMPETÊNCIA DA JUSTIÇA FEDERAL DE SEGUNDO GRAU.
+1. Debate-se acerca da competência para processar e julgar ação rescisória por meio da qual se busca desconstituir acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo nos autos de ação ordinária que tinha como parte ré a Rede Ferroviária Federal S/A - RFFSA, atualmente extinta por força da Lei 11.483, de 31.05.07 (conversão da Medida Provisória 353, de 22.01.07), e que foi sucedida nos direitos, obrigações e ação judiciais pela União (Lei 11.483/07, art. 2º, I).
+2. A Primeira Turma do Supremo Tribunal Federal, nos autos do RE 106.819-DF, Relator o eminente Ministro Sydney Sanches (DJ de 10.04.87), sob a égide da Constituição anterior, entendeu ser o Tribunal Federal de Recursos competente para julgar ação proposta pela União, visando, como terceira prejudicada, a rescisão de acórdão do Tribunal de Justiça do Distrito Federal.
+3. O foro legalmente previsto para ação rescisória - o da Justiça Estadual em que foi proferido o julgado rescindendo - cede sua competência ao foro privilegiado - da Justiça Federal -, surgido posteriormente em razão de a União ter sucedido a RFFSA na relação processual.
+4. O Tribunal Estadual perde a jurisdição, pois, consoante norma de competência prevista constitucionalmente, compete aos juízes federais processar e julgar as causas em que a União for interessada na condição de autora, ré, assistente ou oponente, excetuadas hipóteses específicas, não aplicáveis na hipótese (CF/88, art. 109, I). Como consequência lógica, a competência passa ao Tribunal Regional Federal por ser hierarquicamente superior.
+5. Precedentes, na mesma linha, da Segunda Turma desta Corte de Justiça.
+6. Conflito de competência conhecido para declarar competente o Tribunal Regional Federal da 3ª Região, o suscitante.
+(CC 108.030/SP, Rel. Ministro CASTRO MEIRA, Primeira Seção,
+DJe 18/3/2010 - sem destaques no original)
+Na hipótese, o TRF da Terceira Região compreendeu que, quando ocorreu a causa modificativa da competência, o feito já havia sido sentenciado por magistrado estadual e, por isso, não seria o caso de deslocamento de competência.
+Dessarte, o Tribunal de origem proferiu julgamento não consentâneo com a jurisprudência desta Corte Superior e, por essa razão, o aresto combatido não deve subsistir.
+Ressalta-se, ainda, que consoante a Súmula nº 568 do STJ, O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema (Corte Especial, DJe 17/3/2016).
+Nessas condições, DOU PROVIMENTO ao recurso especial e determino a remessa dos autos ao Tribunal de origem para julgamento da apelação, como entender de direito.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se.
+Intime-se.
