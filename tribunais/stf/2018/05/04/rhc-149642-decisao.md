@@ -1,0 +1,27 @@
+Decisão: 1. Trata-se de recurso em habeas corpus interposto contra acórdão, proferido no âmbito do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL. HABEAS CORPUS NÃO CONHECIDO. HOMICÍDIO PRATICADO NA CONDUÇÃO DE VEÍCULO AUTOMOTOR. DESCLASSIFICAÇÃO PARA O DELITO DO ART. 302 DO CTB. DEBATE ACERCA DO ELEMENTO VOLITIVO DO AGENTE. REEXAME DE PROVAS. IMPOSSIBILIDADE. PARECER ACOLHIDO NO PONTO. EXISTÊNCIA DE CONTRADIÇÃO NO JULGADO. QUESTÃO NÃO APRECIADA PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA.
+    1. A pretensão de desclassificar o crime de homicídio doloso para a modalidade culposa esbarra na necessidade de se aprofundar no exame do conjunto fático-probatório que deu ensejo à condenação, o que é vedado na via estreita do habeas corpus. Precedentes.
+    2. A questão relativa à existência de contradição no julgado pela condenação simultânea por homicídio doloso e lesão corporal culposa não foi apreciada pelo Tribunal a quo, o que impede o seu exame diretamente por esta Corte Superior, sob pena de indevida supressão de instância.
+    3. Agravo regimental improvido.”
+    (AgRg no HC 356.380/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 08/08/2017, DJe 16/08/2017)
+    Narra-se, em síntese, que: a) o paciente foi condenado pelo Tribunal do Júri pela prática do crime de homicídio e do delito previsto no art. 303 do Código de Trânsito Brasileiro; b) não restou comprovado que a conduta do paciente foi dolosa; c) é o caso de aplicação retroativa da Lei n. 12.971/14, por ser, supostamente, favorável ao acusado.
+    Por tais razões, requer-se “o provimento do presente recurso a fim de que seja para desclassificada a conduta de homicídio doloso para culposo, nos termos do artigo 302 do Código de Trânsito Brasileiro, eis que a conduta culposa – SEM INTENÇÃO DE MATAR - já foi reconhecida em relação a outra vítima”.
+    A PGR oficiou pelo desprovimento do recurso.
+    É o relatório. Decido.
+    No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    2. De fato, a Constituição assegura, no capítulo dos direitos e garantias fundamentais, a soberania dos vereditos proferidos pelo Tribunal do Júri (art. 5°, XXXVIII, c). Essa parcela de competência jurisdicional, contudo, como todas as outras, não se compatibiliza com qualquer noção de poder supremo incontrastável. Em outras palavras: a instituição do Tribunal do Júri deve ser concebida de acordo com o todo em que está inserida e que contempla, como essência, os ideais republicanos e a limitação do exercício do poder.
+    De outro norte, é a soberania dos vereditos que exige que a desconformidade entre a decisão dos jurados e as provas contidas nos autos seja manifesta, circunstância que impede mera revisão ordinária. Não bastasse, a eventual procedência do recurso acarretará, tão somente, a renovação do julgamento pelo Tribunal do Júri, oportunidade em que será novamente exercida a soberania da instituição.
+    Nesse contexto, a soberania das decisões tomadas pelo Tribunal do Júri se submete a uma espécie de juízo de cassação, implementado por meio de instrumento recursal limitado à aferição da razoabilidade da conclusão do Conselho de Sentença frente ao mosaico probatório que lhe fora apresentado.
+    Note-se que essa estrutura processual, calcada na recorribilidade da decisão do Tribunal do Júri, rechaça a possibilidade de onipotência jurisdicional arbitrária e se compatibiliza, de forma evidente, com a ordem constitucional.
+    Destaque-se que o sistema de convencimento íntimo guarda nítida relação com a inexigência de motivação. A ausência de exteriorização dos fundamentos, contudo, não assegura ao julgador a prerrogativa de formar o seu convencimento de forma desvinculada do arcabouço probatório. Sendo assim, ainda que fazendo uso de critérios valorativos que lhe são próprios e individuais, o jurado deve responder aos quesitos com base nas provas carreadas aos autos, em evidente hipótese de impedimento de julgamento ilimitado e tirano. Em outras palavras: a liberdade de julgar do jurado deve ser exercitada dentro e de acordo com os autos.
+    Aponto, no entanto, que a conclusão fática extraída pelo Conselho de Sentença e mantida pelo Tribunal de Justiça não pode ser revista por meio da via do habeas corpus. Precedentes:
+    “A discussão sobre o acerto ou o desacerto do acórdão do Tribunal que cassa decisão dos jurados contrária às provas dos autos demanda o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de habeas corpus.” (RHC nº. 118.273/ES, Rel. Ricardo Lewandowski, Dje 19.11.2013)
+    “Concluir que o julgamento do Tribunal do Júri que condenou o Recorrente teria sido contrário à prova dos autos impõe, na espécie vertente, revolvimento do conjunto probatório, o que ultrapassa os limites do procedimento sumário e documental do habeas corpus.” (HC nº. 118.628/MT, Rel. Min. Cármen Lúcia, DJe 02.12.2013)
+    3. Acrescento que não é o ato de aplicação retroativa da Lei n. 12.971/14 ao caso concreto. É que a novel legislação cinge-se a robustecer, em determinados casos, a reposta penal em caso de crimes culposos.
+    Ocorre que o Tribunal do Júri assentou o caráter doloso da conduta atribuída ao paciente, o que é incompatível com a aplicação do mencionado diploma normativo.
+    4. Posto isso, com fulcro no art. 21, §1º, do RI/STF, nego provimento ao recurso em habeas corpus.
+    Publique-se.
+    Brasília, 4 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
