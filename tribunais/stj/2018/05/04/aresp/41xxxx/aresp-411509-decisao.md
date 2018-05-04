@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DE MINAS GERAIS, pretendendo a admissão de recurso especial que desafia acórdão assim ementado (e-STJ fl. 384):
+DIREITO TRIBUTÁRIO - APELAÇÃO - EXECUÇÃO FISCAL - EMBARGOS - ICMS - MERCADORIA QUE INGRESSOU NO ESTABELECIMENTO DO IMPORTADOR - AQUISIÇÃO PELO IMPORTADOR E POSTERIOR REVENDA - IMPORTAÇÃO INDIRETA - AUSÊNCIA DE HIPÓTESE - RECURSO PROVIDO.
+- O fato do desembaraço aduaneiro ter ocorrido após a alienação da mercadoria importada não é suficiente para caracterizar a importação indireta, quando se constata que tal mercadoria foi previamente adquirida pelo importador que, posteriormente, a revendeu a contribuinte localizado no Estado de Minas Gerais. Tratando-se, portanto, de simples operação interestadual.
+Rejeitados os aclaratórios (e-STJ fls. 393/397).
+No apelo nobre (e-STJ fls. 400/410), o recorrente, apontando divergência jurisprudencial e violação dos arts. 535, II, do CPC/1973 e 11, I, "d", da LC n. 87/1996, sustentou estar caracterizada a importação indireta de bem destinado a contribuinte sediado no Estado de Minas Gerais, que, por isso, faz jus ao ICMS incidente sobre a operação.
+Contrarrazões às e-STJ fls. 465/480.
+O Tribunal de origem obstou o recurso especial por entender inocorrente a indicada infringência do art. 535 do CPC/1973 e aplicáveis as Súmulas 7 do STJ e 284 do STF (e-STJ fls. 510/512), não concordando o agravante com essa fundamentação (e-STJ fls. 521/528).
+Contraminuta às e-STJ fls. 545/551.
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Isso considerado, registro que o acolhimento de recurso especial por violação do art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+É bem verdade que a jurisprudência desta Corte Superior orienta que "o ICMS, nos casos de importação indireta, deve ser recolhido no Estado onde se localiza o destinatário do bem importado, sendo irrelevante o fato de a internalização ter ocorrido em estabelecimento intermediário situado em outra Unidade de Federação" (AgRg no REsp 1.234.952/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 22/11/2016).
+Ocorre que, na espécie, o acórdão recorrido, após análise das provas carreadas no processo, entendeu não estar caracterizada a figura da importação indireta, assentando a sua compreensão de que a sociedade empresária que procedeu ao desembaraço aduaneiro no Estado de Santa Catarina adquiriu a mercadoria para si e somente depois dessa importação é que a revendeu para a contribuinte estabelecida no Estado de Minas Gerais. Confira-se (e-STJ fls. 385/:
+Em se tratando de mercadoria importada, o fato gerador do ICMS se consuma no momento do recebimento da mercadoria pelo seu destinatário, após o respectivo desembaraço aduaneiro.
+No caso, o fato gerador do tributo exigido pelo Estado de Minas Gerais se refere à importação de equipamento médico, pela apelante. Nesse ponto, ressalto que, embora a sentença tenha desconsiderado a fatura proforma de fl. 46, entendo que a mesma deve ser levada em conta, porque o Estado de Minas Gerais não a impugnou.
+Assim, a referida fatura indica que a alienação do equipamento médico ocorreu em 24/03/2006, nela constando como adquirente a empresa apelante.
+Por outro lado, o contrato de fls. 251/260, firmado entre a recorrente e os médicos, teve as firmas reconhecidas em 30/03/2006. Ou seja, após a aquisição do equipamento pela apelante.
+Além disso, embora o Conselho de Contribuintes tenha entendido que a autuação fiscal era devida, porque constou na DI o nome do contribuinte mineiro, a leitura dos documentos de importação (fls. 41/45) permite constatar que tais contribuintes ([NOME], [NOME] e [NOME]) não tiveram seus nomes citados.
+No mais, há uma nota fiscal de entrada da mercadoria no estabelecimento da apelante (fl. 84), sendo certo que a mesma foi contabilizada em seu livro registro de entradas (fl. 91). Da mesma forma, as notas fiscais de fls. 48/50 indicam a saída do equipamento.
+Logo, não restou caracterizada a denominada "importação indireta", porque a prova dos autos demonstra que o equipamento foi previamente adquirido pela apelante e, somente após a entrada em seu estabelecimento, foi encaminhado para os contribuintes situados no Estado de Minas Gerais.
+O fato do desembaraço aduaneiro ter ocorrido após a alienação da mercadoria não é suficiente para caracterizar a importação indireta, porque, como mencionado, houve prévia aquisição da mercadoria pela recorrente. Trata-se, portanto, de simples operação interestadual.
+Afasto, pois, a alegada violação do art. 535 do CPC/1973.
+Quanto ao juízo de reforma, melhor sorte não socorre ao recorrente, visto que a revisão da conclusão a que chegou o julgado estadual, pela não configuração da importação indireta, pressupõe amplo reexame do acervo fático-probatório dos autos, o que é inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+Nesse mesmo sentido, colaciono o seguinte aresto:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO. RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. TRIBUTÁRIO. ICMS. ALEGADA OCORRÊNCIA DE IMPORTAÇÃO INDIRETA. TESE RECHAÇADA PELAS INSTÂNCIAS ORDINÁRIAS, COM BASE NO CONTEXTO FÁTICO DOS AUTOS. ÓBICE DA SÚMULA 7/STJ.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caraterizada ofensa ao art. 535 do CPC.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo regimental não provido.
+(AgRg no AREsp 259.630/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02/04/2013, DJe 09/04/2013)
+Por fim, cumpre salientar que "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 09/03/2016), o que não é o caso dos autos.
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO (art. 253, parágrafo único, II, "a" e "b", do RISTJ).
+Publique-se. Intimem-se.
