@@ -1,0 +1,19 @@
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO DA PENA. PEDIDO DE TRANSFERÊNCIA PARA OUTRO ESTADO DA FEDERAÇÃO. PROXIMIDADE A FAMILIARES. QUESTÃO NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+Recurso não conhecido.
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por [NOME] - cumprindo pena em razão de condenação pelo crime de tráfico de drogas -, contra acórdão do Tribunal de Justiça de São Paulo, que não conheceu da ordem ali impetrada (Habeas Corpus n. 2219631-19.2017.8.26.0000 - fls. 209/215).
+Pretende o recorrente, em síntese, a transferência do local de cumprimento da pena, em razão da proximidade de seus familiares. Alega que não fora interesse do mesmo em abandonar o cumprimento de pena naquele local, mas sim em razão dos sérios problemas financeiros e por encontrar-se longe de sua família, sem ninguém naquela Comarca. No mais, o estopim que culminou em seu deslocamento a esta Comarca fora o fato de uma rebelião que aconteceu na unidade prisional que estava, pelo que sua integridade física encontrava-se comprometida (fl. 225).
+Postula, ao final, o conhecimento e provimento do recurso, a fim de que seja determinada a revogação do mandado de prisão e a transferência da execução da pena para a Comarca de Cuiabá/MT.
+Liminar indeferida (fls. 265/266), informações prestadas (fls. 295/296), o Ministério Público Federal opinou pelo não conhecimento do recurso, em parecer assim ementado (fl. 298):
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO DA PENA. TRÁFICO. PLEITO DE TRANSFERÊNCIA. QUESTÃO NÃO CONHECIDA PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. COMPETÊNCIA DO JUIZ DAS EXECUÇÕES. PARECER PELO NÃO CONHECIMENTO.
+É o relatório.
+Está sob discussão no presente recurso, o direito de o sentenciado cumprir pena em estabelecimento penal próximo ao seu meio social e familiar.
+Todavia, o Tribunal de origem não conheceu do writ ali impetrado, nos seguintes termos (fls. 213):
+Questões referentes à transferência do paciente para outro presídio não constitui direito subjetivo, já que sujeito às regras da segurança pública, cabendo à autoridade administrativa averiguar a conveniência e a possibilidade da transferência, como já proclamado em jurisprudência, pois o sentenciado não tem direito líquido e certo de escolher em qual presídio deverá cumprir a pena imposta. A opção está subordinada aos interesses administrativos.
+Com efeito, conforme posicionamento adotado por esta Relatoria, a transferência de presos no âmbito do Sistema Penitenciário compete ao Coordenador dos Estabelecimentos Prisionais.
+Por seu turno, o Juízo das Execuções Criminais, ao prestar informações, esclareceu que em 20/10/2017 houve pedido da Defesa solicitando transferência de local de cumprimento de pena por aproximação familiar  .. , sendo que, em 27/10/2017, determinou o aguardo do cumprimento do mandado de recaptura para analise do pedido de aproximação familiar (fl. 295).
+Ou seja, o pedido de transferência do paciente para a Comarca de Cuiabá - MT nem chegou a ser analisado pelas instâncias ordinárias, razão pela qual não pode ser, nesta ocasião, apreciado, sob pena de indevida supressão de instância.
+Ressalte-se que a deprecação da pena privativa de liberdade aplicada pela Justiça de um estado (art. 86 da LEP) para ser executada em outra unidade federativa não constitui direito absoluto do réu, ainda que sob o fundamento de proximidade com a família. Cabe ao Juízo das Execuções analisar a viabilidade da transferência, fundada a decisão não somente nas conveniências pessoais do apenado, mas também nas da administração pública. As circunstâncias de cada caso é que devem justificar a medida. (AgRg no RHC n. 58.528/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/03/2017).
+Ante o exposto, não conheço do recurso.
+Publique-se.
