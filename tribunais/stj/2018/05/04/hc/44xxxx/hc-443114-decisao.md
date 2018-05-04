@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado do Ceará.
+Consta dos autos que o paciente foi denunciado pela suposta prática das condutas descritas nos arts. 33 e 35, ambos da Lei n. 11.343/2006, no art. 16 da Lei n. 10.826/2003 e nos arts. 180 e 329, § 1º, ambos do Código Penal.
+A defesa impetrou habeas corpus perante o Tribunal de Justiça, alegando a nulidade da audiência de oitiva de testemunhas de acusação, por precatória, em virtude da ausência de intimação do advogado do paciente. A ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 57):
+PROCESSUAL PENAL. HABEAS CORPUS. ARTIGOS 33 E 35 DA LEI DE DROGAS, ART. 16 DA LEI  . 10.826/03 E ART. 329, §1º E ART.180, AMBOS DO CÓDIGO PENAL BRASILEIRO. ALEGAÇÃO DE OCORRÊNCIA DE NULIDADE PROCESSUAL. PRETENSÃO DE NULIFICAÇÃO DA AÇÃO PENAL COM RETORNO Ã FASE DE INTERROGATÓRIO DE TESTEMUNHAS DA ACUSAÇÃO. O paciente passou grande parte do iter processual furtando-se a comparecer em juízo e prestar contas sobre as severas acusações existentes contra a sua pessoa, só o fazendo depois de ser preso. O ato impugnado no presente writ, diz respeito ao interrogatório de testemunhas por precatória, sem a intimação do advogado do réu. A respeito, pertinente o teor da Súmula nº 155, STF: "É relativa a nulidade do processo criminal por falta de intimação da expedição de precatória para inquirição de testemunha". Na linha da jurisprudência dominante, eventual nulidade, por ser relativa, dependeria da demonstração de efetivo prejuízo, o que não se observa no caso em exame ante a constatação de que, na audiência deprecada, houve a designação e efetiva atuação de Defensor Público patrocinando os interesses do réu. ORDEM NÃO CONCEDIDA.
+A presente impetração repisa a nulidade da audiência de oitiva de testemunhas de acusação, por precatória, em virtude da ausência de intimação do advogado do paciente, o que violaria os princípios da ampla defesa e do contraditório (e-STJ fl. 7).
+Diante disso, pleiteia a defesa, em tema liminar e no mérito, a nulidade dos depoimentos referenciados e a determinação de que o ato processual seja refeito (e-STJ fl. 15).
+O pedido liminar foi indeferido (e-STJ fls. 66/68).
+Informações prestadas às e-STJ fls. 72/77 e 80/83.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ em parecer assim ementado (e-STJ fl. 85):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. TRÁFICO DE DROGAS E OUTROS CRIMES. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. AUSÊNCIA DO RÉU E/OU SEU DEFENSOR NA AUDIÊNCIA DE OITIVA DAS TESTEMUNHAS DE ACUSAÇÃO. CARTA PRECATÓRIA. NULIDADE RELATIVA. SÚMULA 155 DO STF. NÃO DEMONSTRAÇÃO DO PREJUÍZO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE A SUPERAR A IMPROPRIEDADE DA VIA ELEITA.
+- Parecer pelo não conhecimento do habeas corpus.
+É, em síntese, o relatório.
+Depreende-se dos autos que o presente recurso ordinário impugna o acórdão proferido pelo Tribunal de origem no habeas corpus n. 0627476-29.2017.8.06.0000 (e-STJ fls. 57/61), tendo sido distribuído a este relator em 2/4/2018.
+Ocorre que a causa de pedir e o pedido deste reclamo são idênticos àqueles pleiteados no RHC n. 94.557/CE, interposto nesta Corte, distribuído a esta relatoria em 5/2/2018.
+Naquele feito (RHC n. 94.557/CE), que também impugna o mesmo acórdão proferido no habeas corpus originário n. 0627476-29.2017.8.06.0000, proferido pelo Tribunal de Justiça do Estado do Ceará, o Parquet Federal já apresentou parecer.
+Ante o exposto, diante da constatação de que a presente irresignação é mera reiteração do Recurso em Habeas Corpus n. 94.557/CE, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
