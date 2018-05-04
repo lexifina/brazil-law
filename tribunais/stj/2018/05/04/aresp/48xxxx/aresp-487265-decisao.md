@@ -1,0 +1,13 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. OMISSÃO NÃO CONFIGURADA. INOCORRÊNCIA DE JULGAMENTO EXTRA PETITA. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO, EM CONFORMIDADE COM O PARECER DO MINISTÉRIO PÚBLICO FEDERAL.
+1. Trata-se de Agravo em face de decisão que inadmitiu Recurso Especial interposto por SANTANDER LEASING S.A. ARRENDAMENTO MERCANTIL, com fundamento no art. 105, III, a da Constituição Federal, em face de acórdão do TRF da 3a. Região, assim ementado:
+CONSTITUCIONAL. TRIBUTÁRIO. PIS. EC 17/97. CONSTITUCIONALIDADE DECLARADA PELO C. ÓRGÃO ESPECIAL EM SEDE DE A. 1 DE n. 0057589- 66.1 997.4.03.6IOOISP. PIS. MP 517. CONSTITUCIONALIDADE CONFORME ENTENDIMENTO DO EXCELSO PRETÓRIO (RE 346983 / Ri. 2" Turma, Rei. Mm. CEZAR PELUSO, DJe-086 DIVULG 13-05-2010). AGRAVO PROVIDO. EMBARGOS DECLARATÓRIOS PREJUDICADO (fls. 241).
+2. Os Embargos de Declaração opostos foram rejeitados.
+3. Nas razões recursais, a recorrente aponta violação dos arts. 128, c/c 460, 535, II do CPC/1973, afirmando que (a) o Tribunal de origem não sanou as omissões apontadas na petição de Embargos de Declaração; e (b) é extra petita o acórdão de origem, visto que, após a homologação do pedido parcial de desistência/renúncia ao direito em que se funda a ação, o objeto da demanda se limitou à necessidade do recolhimento da exação nos termos da LC 7/1970 no período compreendido entre julho de 1997 a fevereiro de 1998.
+4. Apresentadas as contrarrazões, o Recurso Especial foi inadmitido na origem.
+5. Por parecer de fls. 450/455, o Ministério Público Federal opinou pelo não provimento do Apelo Nobre.
+6. É o relato do essencial.
+7. De início, cumpre destacar que a alegada violação ao art. 535, II do CPC/1973 não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas com clareza, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+8. No pertinente à violação dos arts. 128 e 460 do CPC/1973, tampouco prospera a pretensão recursal, porquanto, conforme consta do acórdão de origem, a sentença monocrática concedeu parcialmente a ordem, para afastar as alterações promovidas pela EC 17/1997 durante o lapso nonagesimal e declarar a inconstitucionalidade da MP 517/1994 e sucessivas reedições, questões essas que foram apreciadas em sede de Apelação e Reexame Necessário, não havendo se falar em julgamento extra petita.
+9. Pelas considerações expostas, nega-se seguimento ao Recurso Especial da Contribuinte.
+10. Publique-se. Intimações necessárias.
