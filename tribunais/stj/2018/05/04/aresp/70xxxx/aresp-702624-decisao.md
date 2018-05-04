@@ -1,0 +1,20 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO COLETIVA. REAJUSTE DE 28,86%. DIREITO DOS SUBSTITUÍDOS AO RECÁLCULO DO MONTANTE DEVIDO NO PERÍODO DE JANEIRO/1993 A JUNHO/1998. PRODUÇÃO DE PROVA PERICIAL. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. AGRAVO EM RECURSO ESPECIAL DA AUTARQUIA A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo INSTITUTO FEDERAL SULRIOGRANDENSE, com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio TRF da 4a. Região, assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO COLETIVA - FASE DE CONHECIMENTO - RECÁLCULO DO MONTANTE DEVIDO A TÍTULO DE 28,86% AOS SUBSTITUÍDOS. PROVA PERICIAL - INDEFERIMENTO - POSTERGAÇÃO DA SUA PRODUÇÃO À FASE DE CUMPRIMENTO DA SENTENÇA. PROVIMENTO DO RECURSO À PROLAÇÃO DE SENTENÇA LÍQUIDA.
+Agravo de instrumento provido (fls. 331).
+2. Aos Embargos de Declaração opostos (fls. 337/341) foram dados provimento, por unanimidade (fls. 346/348), restando assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. OCORRÊNCIA DE SEUS LEGAIS PRESSUPOSTOS. AÇÃO COLETIVA - FASE DE CONHECIMENTO - REAJUSTE DE 28,86% - AVERIGUAÇÃO DA HIGIDEZ DOS PAGAMENTOS ADMINISTRATIVOS EFETUADOS - NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL.
+Embargos de declaração acolhidos à integração do julgado (fls. 348).
+3. Em suas razões recursais sustenta a parte agravante violação dos arts. 535, I, II, 420, parágrafo único, II, III do CPC/1973 ao argumento de que é descabida a perícia por se tratar de ação coletiva.
+4. O Apelo Raro foi inadmitido pela Presidência do Tribunal de origem (fls. 264/268), sobrevindo a interposição de Agravo (fls. 277/286).
+5. É o relatório, em síntese. Decido.
+6. Inicialmente, cumpre asseverar que não há a apontada contrariedade ao art. 535 do CPC/1973, tendo em vista que a lide foi solvida nos limites necessários, com a devida fundamentação e coerência, ainda que sob ótica diversa da almejada pela parte agravante. O Tribunal de origem apreciou, fundamentadamente, a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Ademais, julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada. Precedentes desta Corte: AgInt no REsp. 1.589.707, Rel. Min. MARIA ISABEL GALLOTTI, DJe 14.3.2017; AgInt no REsp. 1.598.299/SC, Rel. Min. FRANCISCO FALCÃO, DJe 16.3.2017; AgInt no REsp. 1.543.061/RS, Rel. Min. FRANCISCO FALCÃO, DJe 16.3.2017; AgInt no REsp. 1.596.392/SC, Rel. Min. HERMAN BENJAMIN, DJe 6.3.2017.
+7. No mérito, o Tribunal de origem, em acórdão exarado em sede de Embargos de Declaração consignou que vale ressaltar, dadas as peculiaridades da lide, a prolação dessa sentença depende necessariamente da averiguação acerca do escorreito cumprimento das diretrizes fixadas na legislação que rege a espécie, de maneira que a necessidade de realização de prova pericial no caso dos autos afigura-se-me inafastável.
+8. É entendimento desta Corte Superior de que o Tribunal de origem é soberano na análise das provas, podendo, portanto, concluir pela necessidade ou desnecessidade da produção de provas periciais e documentais. Isso porque, o art. 130 do CPC/1973 consagra o princípio do livre convencimento motivado, segundo o qual o Magistrado fica habilitado a valorar, livremente as provas trazidas à demanda. A esse propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRODUÇÃO PROBATÓRIA. NECESSIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Esta Corte possui entendimento assente de que é o magistrado o destinatário final das provas, podendo, com base em seu livre convencimento motivado, indeferir aquelas que considere dispensável à solução da lide.
+(..).
+3. Agravo interno não provido (AgInt no AREsp. 821.225/CE, Rel. Min. BENEDITO GONÇALVES, DJe 8.5.2017).
+9. Ante o exposto, nego provimento ao Agravo em Recurso Especial da Autarquia.
+10. Publique-se. Intimações necessárias.
