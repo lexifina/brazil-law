@@ -1,0 +1,8 @@
+DECISÃO
+DIREITO PROCESSUAL CIVIL. REQUERIMENTO DE LIBERAÇÃO DE MEDIDA DE INDISPONIBILIDADE QUANTO A IMÓVEL ARREMATADO EM OUTRO PROCESSO. POSTULAÇÃO QUE DEVE SER ENDEREÇADA NO JUÍZO DE ORIGEM QUE PROFERIU A MEDIDA CAUTELAR. PETIÇÃO NÃO CONHECIDA.
+1. Em petição de fls. 2.476/2.498, a parte [NOME] vindica liberação de baixa de restrição referente a imóvel que, na ACP de origem, estaria sob indisponibilidade.
+2. Para tanto, alega que consta na matrícula do imóvel arrematado, algumas averbações de restrições judiciais, acerca de demandas que foram propostas contra o antigo proprietário [NOME], mas, o arrematante, irá solicitar a respectiva baixa em cada processo, respectivamente, haja vista, a arrematação formalizada e ao fato de que já se encontra na posse do imóvel (fls. 2.476/2.477). Sustenta que arrematou o imóvel em leilão judicial promovido pelo IBAMA em desfavor da parte que é demandada na presente ação.
+3. A postulação, contudo, deve ser endereçada ao Juízo de origem, competente para avaliar com percuciência se a medida cautelar pode ser retirada em relação ao imóvel em questão, especialmente porque, a uma breve vista da certidão registral de fls. 2.481/2.484, consta que houve já houve determinação de liberação de indisponibilidade em relação aos autos da Ação Cautelar 001.1995.0198774 (fls. 2.483).
+4. Como a referida ação cautelar não está apensada eletronicamente ao processado presente, não se tendo convicção acerca do vínculo com este ou outra demanda, é no correspondente feito assecuratório constrictivo de origem que a postulação deve ser dirigida.
+5. Pelo exposto, não se conhece da Petição 468.291/2017.
+6. Publique-se. Intimações necessárias.
