@@ -1,0 +1,26 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. [NOME]. TERMO INICIAL DA PRESCRIÇÃO. CIÊNCIA INEQUÍVOCA DO CARÁTER PERMANENTE DA INVALIDEZ. NECESSIDADE DE LAUDO MÉDICO. PRESCRIÇÃO NÃO CONSUMADA.
+1. O termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca do caráter permanente da invalidez.
+2. Exceto nos casos de invalidez permanente notória, a ciência inequívoca do caráter permanente da invalidez depende de laudo médico, sendo relativa a presunção de ciência.
+ 3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, retifica-se a decisão proferida na sessão do dia 10/04/2018 para, por unanimidade, negar provimento ao agravo interno. Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+O EXMO. SR. MINISTRO NANCY ANDRIGHI:
+Cuida-se de agravo interno interposto por PORTO SEGURO COMPANHIA DE SEGUROS GERAIS contra decisão unipessoal de fls. 345/347 (e-STJ).
+Ação: de cobrança do seguro obrigatório - [NOME], ajuizada por [NOME], em face da agravante, na qual requer o pagamento da indenização securitária em razão de acidente de trânsito.
+Sentença: julgou procedente o pleito do recorrido, reconhecendo o seu direito de receber a indenização a título de seguro [NOME].
+Acórdão: deu provimento à apelação interposta pela recorrida, nos termos do acórdão, assim ementado:
+APELAÇÃO CÍVEL  SEGURO OBRIGATÓRIO ([NOME]) - Interposição contra a sentença que julgou procedente a ação de cobrança securitária, [NOME], invalidez permanente. Ocorrência da prescrição trienal nos termos do artigo 206, § 3º, IX, do Código Civil em vigor. Demais questões de mérito prejudicadas. Sentença reformada: Agravo retido e apelação providos (e-STJ fl. 186).
+Decisão: conheceu do recurso especial interporto pelo recorrido para dar-lhe provimento, no sentido de para afastar a prescrição, haja vista que o termo inicial do prazo prescricional é a data em que a vítima teve ciência inequívoca da sua invalidez, a qual não pode ser presumida.
+Agravo Interno: a agravante, em suas razões recursais, defende que deve ser aplicado ao presente caso a exceção contida na tese fixada no REsp n. 1.388.030/MG, segundo a qual, uma vez que o Tribunal de origem teria entendido que a fratura da coluna lombar era caso de invalidez permanente notória, não devendo ser observado o laudo médico como termo inicial para a contagem do prazo prescricional.
+É O RELATÓRIO.
+VOTO
+O EXMO. SR. MINISTRO NANCY ANDRIGHI(RELATOR):
+O agravo interno não merece acolhida, porquanto os argumentos deduzidos nas razões recursais pela agravante são incapazes de alterar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+Conforme consignado na decisão agravada, a Segunda Seção desta Corte Especial, sob o rito dos recursos especiais repetitivos, consolidou o entendimento no REsp n. 1.388.030/MG, de relatoria do Min. Paulo de Tarso Sanseverino, no sentido de que o termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca do caráter permanente da invalidez, e que exceto nos casos de invalidez permanente notória, ou naqueles em que o conhecimento anterior resulte comprovado na fase de instrução, a ciência inequívoca do caráter permanente da invalidez depende de laudo médico.
+No mais, da leitura do voto condutor do mencionado recurso repetitivo, percebe-se claramente que o entendimento pacificado neste Superior Tribunal de Justiça é no sentido de que o termo inicial do prazo prescricional é a data em que a vítima tem ciência inequívoca da sua invalidez que, todavia, nos termos do art. 334 do CPC/1973, não pode ser presumida.
+Assim, a data de emissão de laudo médico atestando a invalidez permanente é considerada como prova do referido conhecimento inequívoco. Demais conjecturas fáticas que levam à presunção deste conhecimento não são aceitas pela jurisprudência consolidada nesta Corte Superior, à exceção da invalidez notória em hipóteses como amputação de membros ou quando o conhecimento anterior resulte comprovado na fase de instrução.
+Diante de tais considerações, tem-se que a irresignação da recorrente não merecer prosperar, visto que ainda que o Tribunal de origem entenda que a fratura na coluna lombar se constituiria em invalidez permanente notária, tem-se que o entendimento excepcional previsto no REsp n. 1.388.030/MG, refere-se à invalidez notória, a qual é observada quando há amputação de membros, não se constituindo na hipótese dos autos.
+Assim, tendo o Tribunal de origem decidido de forma contrária à orientação desta Corte, ao considerar a data do evento danoso como termo inicial do prazo prescricional, presumindo que a ciência inequívoca da invalidez permanente tenha ocorrido em data anterior ao laudo médico pericial, deve ser a decisão ora hostilizada não comporta qualquer reparo.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
