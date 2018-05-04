@@ -1,0 +1,24 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Agravo n. 7002883-14.2017.8.26.0482).
+O Juízo das Execuções reconheceu a prática de falta grave pelo paciente. A Defensoria Pública sustenta, preliminarmente, a nulidade da decisão por ausência de fundamentação e de nova oitiva judicial do sentenciado. No mérito, busca desclassificar os fatos para falta média Alega não haver individualização da conduta do paciente, mas sim sanção coletiva.
+Requer o afastamento da falta grave; "a absolvição por atipicidade de conduta ou a desclassificação da falta grave para de natureza média. Outrossim, postula-se pela absolvição por se tratar de evidente sanção coletiva" (fl. 14).
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+O Juízo das Execuções reconheceu a prática de falta grave pelo paciente, consistente "em subversão à ordem e disciplina e desobediências às ordens e procedimentos da unidade prisional" (fl. 76). Não houve regressão de regime ou perda de dias remidos, apenas retificação de cálculos penais.
+I. Preliminar de nulidade
+A decisão do Juízo das Execuções não padece do vício de falta de motivação. Confira-se as razões de decidir: "a conduta do sentenciado foi apurada através de procedimento administrativo disciplinar sem irregularidades e sua conclusão está de acordo com a prova produzida e com as disposições legais pertinentes" (fl. 77).
+O Magistrado também afastou as nulidades apontadas pela defesa, lembrou que os fatos foram devidamente apurados em PAD, dentro do prazo legal, e que a "subversão à ordem e disciplina e desobediência" são graves e extremamente lesivas "à ordem e à disciplina da unidade prisional" (fl.. 77).
+Não há falar, ainda, de imprescindibilidade e nova oitiva judicial do paciente para a homologação da falta grave. Conforme a jurisprudência desta Corte Superior, "é prescindível a nova oitiva do condenado, perante o Juízo, se já realizada, com a presença de defesa técnica, durante o procedimento administrativo que apurou a falta disciplinar" (AgRg no HC 390.311/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 15/2/2018).
+Durante todo o procedimento administrativo, o paciente "foi acompanhado por um dos advogados da FUNAP, de modo a lhe garantir o princípio constitucional do contraditório e da ampla defesa". A "oitiva do sentenciado foi realizada na presenta de defesa técnica e nos termos do Comunicado CG 231/2007 da Corregedoria Geral da Justiça" (fl. 76).
+O apenado não foi regredido de regime e "Ouvido  ..  em momento anterior à homologação da falta disciplinar, por meio da instauração de sindicância, faz-se desnecessária sua oitiva judicial" (AgRg no HC 393.013/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/5/2017).
+II. Desclassificação
+Consoante o apurado, agentes penitenciários determinaram ao paciente e à outros detentos responsáveis pela faxina, que "fossem para a tranca" (fl 48). Ele e os demais presos "disseram que não iriam para a tranca enquanto não terminassem as chamadas "correrias"" (fl. 48). Mesmo advertidos pelos funcionários, resolveram "falar com os presos que seriam os líderes do Pavilhão" e foram ao "encontro dos reeducandos que "exerceriam liderança negativa sobre es demais presos". Depois de "terem conversado com estes sentenciados", retornaram "à gaiola" e comunicaram que "não obedeceriam a ordem, porque quem manda no raio seriam os presos" (fl. 48).
+A conduta se amolda ao art. 50, VI, c/c o art. 39, II, da LEP, sendo incabível sua desclassificação para falta média.
+Ademais: "O habeas corpus não é a via adequada para apreciar o pedido de absolvição/desclassificação de falta grave, tendo em vista que, para se desconstituir o decidido pelo Juízo das Execuções Criminais, mostra-se necessário o reexame aprofundado dos fatos e provas constantes dos autos da execução, procedimento vedado pelos estreitos limites do remédio heroico, caracterizado pelo rito célere e por não admitir dilação probatória" (AgRg no HC n. 377.302/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 23/5/2017).
+Finalmente, não se verifica sanção coletiva, apenas autoria coletiva. Somente os detentos responsáveis pela faxina, todos nominados, e que desobedeceram as ordens dos agentes penitenciários foram responsabilizados. As testemunhas destacaram que "puderam ver claramente cada preso" e "distinguir pefeitamente cada reeducando" (fl. 55).
+Ilustrativamente:
+Se o eg. Tribunal de origem entendeu que as provas, consubstanciadas pelos depoimentos dos agentes penitenciários, foram suficientes para indicar a prática da falta grave pelo paciente em conjunto com outros apenados, configura-se a "autoria coletiva" que não se confunde com "sanção coletiva".
+(HC n. 389.718/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 15/8/2017).
+III. Dispositivo
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
