@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por AQUI-VERES TRANSPORTES EIRELI e outros à decisão que deu provimento, em parte, ao seu recurso especial, para fixar em R$ 100.000,00, para cada autora, o valor da indenização por danos morais.
+Em suas razões, os embargantes apontam omissão no julgado quanto ao termo inicial da correção monetária e dos juros de mora, bem como no tocante ao termo final da pensão mensal à embargante [NOME] (fls. 1098/1100).
+É o relatório.
+Nos termos do art. 1.022 do CPC/15, é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+Verificada a omissão apontada, os aclaratórios merecem ser acolhidos.
+A teor da Súmula 362/STJ: "A correção monetária do valor da indenização do dano moral incide desde a data do arbitramento".
+Ademais, tratando-se de dano decorrente de responsabilidade extracontratual, aplica-se a Súmula 54/STJ: "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual".
+Quanto ao termo final para pagamento da pensão mensal à autora [NOME], o recurso especial não prospera. A insurgência recursal está fundada em dissídio jurisprudencial, todavia, não foram atendidos os requisitos previstos nos arts. 541, parágrafo único, do CPC e 255, § 2º, do RISTJ.
+Para a caracterização da aludida divergência, devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados. É imprescindível que exista similitude fático-jurídica entre os julgados em comparação. Por sua vez, a aludida similitude exige que o acórdão recorrido e o paradigma possuam situação fáticas semelhantes e tenham sido julgados com fundamento nos mesmos dispositivos legais de lei federal. Ademais, o recorrente deve apontar o artigo de lei federal em torno do qual teria se dado a divergência jurisprudencial. A propósito: AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17.3.2014; AREsp 467.621/SC, rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe, 13.5.2014; AgInt no AREsp 675.273/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe. 14.3.2017.
+Ante o exposto, acolho os embargos de declaração para, suprindo a omissão apontada, determinar a correção monetária a partir do arbitramento definitivo da verba indenizatória (Súmula 362/STJ) e a incidência dos juros de mora, a partir do evento danoso (Súmula 54/STJ).
+Publique-se.
