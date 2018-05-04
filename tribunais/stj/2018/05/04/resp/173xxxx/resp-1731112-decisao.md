@@ -1,0 +1,66 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. RECONHECIMENTO A QUALQUER TEMPO. MATÉRIA DE ORDEM PÚBLICA. NÃO OCORRÊNCIA DA PRECLUSÃO. PRECEDENTES. JUÍZO DE ADMISSIBILIDADE PRECEDE AO EXAME DO MÉRITO.
+1. O entendimento jurisprudencial desta Corte Superior é no sentido de que a intempestividade recursal possui natureza de ordem pública, razão pelo qual pode ser conhecida de ofício em qualquer grau de jurisdição, porquanto não sujeita à preclusão. Precedentes.
+2. O juízo de admissibilidade é sempre um antecedente lógico do juízo de mérito.
+3. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por L.J. COMERCIO E CONSTRUCOES LTDA - EPP E OUTRO, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Laudo - Perícia contábil Impugnação Homologação - Fundamentação. Padece de vício de nulidade a decisão homologatória proferida sem prévia manifestação do perito e sem análise dos argumentos lançados na impugnação ao laudo pericial.
+Decisão anulada - Recurso prejudicado. (e-STJ, fl. 257)
+No recurso especial, as partes recorrentes alegam violação aos artigos 535, 522, caput, 267, § 3º, do CPC/73, sustentando que é patente a intempestividade do recurso de agravo de instrumento interposto pela parte contrária, ou seja, apesar de anotar-se corretamente que o decêndio teve início em 27.08.2014 concluiu erroneamente que o prazo findou em 8.09.2014, uma segunda-feira, mas, na verdade, seu término verificou-se no dia 5 do mesmo mês e ano.
+Aduz que a decisão agravada não poderia ter alegado a irrelevância da intempestividade do recurso de agravo de instrumento, mesmo diante da matéria de ofício examinada.
+Colaciona julgados desta Corte Superior referentes ao tema e defende, por fim, a necessidade do reconhecimento da intempestividade do agravo interposto no Tribunal de origem.
+É o relatório.
+Passo a decidir.
+O recurso especial merece prosperar.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 2/STJ.
+Em que pese a CF prelecione como princípio fundamental a inafastabilidade da jurisdição (art. 5º, XXXV), a própria lei, com o intuito de produzir decisões mais justas, impõe certos requisitos indispensáveis e necessários para apreciação do pedido formulado ao Judiciário pelo jurisdicionado.
+De igual maneira, a mesma Lei prima pela redução do desperdício de cognição, com pedidos infundados, impossíveis e manifestamente ilegítimos. Fala-se, respectivamente, dos pressupostos processuais de existência e validade e das condições da ação.
+Certo é que a análise desses pressupostos recursais são sempre anteriores à apreciação das razões do recurso. Denota-se, assim, ao exame preliminar desses requisitos: o juízo de admissibilidade, e ao exame dos fundamentos do recurso: o juízo de mérito. (BARBOSA MOREIRA, José Carlos. O juízo de admissibilidade no sistema dos recursos cíveis. Rio de Janeiro, 1968. p. 93)
+Nesse sentido, [NOME] confirma que o juízo de admissibilidade é sempre um antecedente lógico do juízo de mérito. Uma questão prévia de modalidade preliminar.
+A partir dessas premissas, o juízo de admissibilidade é "a verificação da existência ou a inexistência dos requisitos necessários para que o órgão competente possa legitimamente exercer sua atividade cognitiva, no tocante ao mérito do recurso"
+Em outras palavras, busca-se em um juízo prévio, identificar a presença de requisitos indispensáveis, definidos por lei, para a apreciação do mérito recursal.
+Na hipótese, a parte agravada interpôs agravo de instrumento no Tribunal de origem contra decisão que, em cumprimento de sentença, homologou o laudo pericial contábil.
+O Tribunal de origem reconheceu a tempestividade do recurso e julgou-o prejudicado, anulando a decisão agravada, em virtude de vício examinado.
+Os ora agravantes recorreram da decisão, apontando a intempestividade do recurso de agravo de instrumento interposto, e assim decidiu o Tribunal de origem:
+De qualquer modo, não há falar-se de erro material, já que o recurso de agravo de instrumento foi considerado prejudicado e a r. decisão judicial recorrida anulada de ofício, uma vez que, conforme anotado, "não obstante tenha a instituição financeira, por meio de parecer técnico contábil, revelado seu descontentamento (cf. p. 218/222), o juízo homologou o laudo pericial, sem, anteriormente, determinar que o perito se manifestasse sobre a mencionada impugnação", ou seja, em evidente cerceamento de defesa desconsiderou-se que o artigo 453 do Código de Processo Civil autoriza a parte a apresentar quesitos complementares, a fim de elucidar a matéria atinente ao exame técnico feito após a apresentação do laudo. (e-STJ, fl. 271)
+A propósito do tema, há inúmeros precedentes desta Corte no sentido de que a tempestividade, como um dos pressupostos recursais extrínsecos, é matéria de ordem pública, e, portanto, sua ausência pode ser reconhecida a qualquer tempo pelo órgão julgador, não se sujeitando à preclusão (art. 267, § 3º, do CPC/73).
+Nesse sentido: AgRg no AREsp 182.998/MG, Rel. Min. Napoleão Nunes Maia Filho, 1ª Turma, DJe de 05/02/2013; REsp 1.240.444/MA, Rel. Min. Mauro Campbell Marques, 2ª Turma, DJe de 19/12/2011; EDcl no AgRg nos 25/10/2010; AgRg na RCDESP no Ag 1294866/SC, Rel. Min. Sebastião ReisJúnior, 6ª Turma, DJe de 06/03/2013.
+Efetivamente, os pressupostos recursais, tais como os pressupostos processuais, possibilitam o desenvolvimento válido e regular do recurso e, afinal, do processo em si, razão por que ao Julgador incumbe zelar pelo seu fiel atendimento, porquanto "essencial para a manutenção da ordem idealizada pelo constituinte e pelo legislador" (Dinamarco, Cândido Rangel. Instituições de Direito Processual Civil. São Paulo: Malheiros, 2001. p. 69).
+Logo, não caberia ao Tribunal de origem, mesmo diante da intempestividade do recurso, partir para o exame do mérito da demanda, pois o juízo prévio de admissibilidade de qualquer recurso é pressuposto para verificar o mérito em discussão.
+Aliás, são nesse mesmo sentido os julgados que tratam de situações análogas a dos autos, vejamos:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO INTERPOSTOS FORA DO PRAZO LEGAL. RECURSO CONHECIDO E JULGADO PELO JUÍZO DE 1º GRAU. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. RECONHECIMENTO PELO TRIBUNAL, DE OFÍCIO, DA INTEMPESTIVIDADE DOS EMBARGOS DE DECLARAÇÃO. POSSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA.
+1. A tempestividade é um dos pressupostos recursais extrínsecos e, tratando-se de matéria de ordem pública, pode ser reconhecida a qualquer tempo pelo órgão julgador, não se sujeitando à preclusão.
+2. Verificada pelo Tribunal a intempestividade dos embargos de declaração julgados em 1º grau, e, portanto, a ausência de interrupção do prazo para interposição do agravo de instrumento, correta a decisão que negou seguimento a este recurso porque extemporâneo.
+3. Embargos de divergência no agravo de instrumento conhecidos e desprovidos.
+(EAg 1297346/MG, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 14/08/2013, DJe 21/08/2013 - grifou-se)
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. APONTADA VIOLAÇÃO AO ART. 535, DO CPC. OMISSÃO VERIFICADA EM RELAÇÃO À SUPOSTA INTEMPESTIVIDADE RECURSAL.
+1. O recorrente aponta as seguintes omissões e contradição presentes no acórdão a quo: - i. análise da intempestividade do agravo de instrumento interposto na instância de origem por tratar-se de matéria de ordem pública e não sujeitar-se à preclusão; - ii. contradição do acórdão recorrido no que se refere à inclusão da "Fazenda Morro Fino", a qual não faz parte da demanda; e - iii. análise da questão da indisponibilidade de bens à luz dos arts. 7º, pár. ún., e 37, §4º, da Constituição da República/CR.
+2. Em relação à suposta contradição, esclareça-se que a contradição que autoriza o manejo dos embargos de declaração é aquela existente entre sua fundamentação e a parte dispositiva. A pretensão nesse caso nos embargos de declaração não pode ser acolhida, porque não há qualquer contradição a ser sanada, motivo pelo qual não se pode invocar a regra do art. 535, inciso II, do Código de Processo Civil.
+3. No tocante às omissões apontadas pelo recorrente, o Tribunal de origem, apesar de claramente tratar da análise da questão da indisponibilidade de bens, não se manifestou acerca da intempestividade do recurso de agravo de instrumento interposto na instância de origem. Trechos do acórdão recorrido.
+4. O Tribunal de origem menciona a questão da intempestividade recursal, mas, no entanto, não a analisa, e, muito embora a questão referente a suposta intempestividade não tenha sido levantada pela parte recorrida na contraminuta ao agravo de instrumento, esta Corte já decidiu a análise da tempestividade recursal é matéria cognoscível de ofício, insuscetível de preclusão. Precedentes.
+5. Recurso especial parcialmente provido apenas por violação ao art.
+535 do CPC, para que o Tribunal de origem manifeste-se acerca da alegada intempestividade recursal.
+(REsp 1240444/MA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 06/12/2011, DJe 19/12/2011 - grifou-se)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. QUESTÃO DE ORDEM PÚBLICA PREJUDICIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. RECONHECIMENTO ULTERIOR. ADMISSIBILIDADE.
+1. A tempestividade é um dos pressupostos recursais extrínsecos e, tratando-se de matéria de ordem pública, pode ser reconhecida a qualquer tempo pelo órgão julgador, inexistindo preclusão a respeito.
+2. Verificada a intempestividade do recurso especial em petição prejudicial aos embargos de declaração, impõe-se a anulação da decisão que analisou o mérito recursal. Por consequência, resta prejudicada a análise dos embargos declaratórios.
+3. Embargos de declaração prejudicado em razão do reconhecimento da intempestividade do recurso especial.
+(EDcl no REsp 884.009/RJ, 3ª Turma, DJe de 30/09/2011)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. EMBARGOS DECLARATÓRIOS NO AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. RECONHECIMENTO. MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO. NÃO OCORRÊNCIA. VIOLAÇÃO À COISA JULGADA. NÃO INCIDÊNCIA. SITUAÇÃO EXCEPCIONAL. EMBARGOS ACOLHIDOS. EFEITOS INFRINGENTES.
+I. Como a tempestividade do recurso é matéria de ordem pública, sendo cognoscível de ofício em qualquer tempo ou grau de jurisdição, não se há que falar em preclusão para o exame de sua ocorrência, nem violação à coisa julgada, sendo de rigor o reconhecimento de que os Embargos Declaratórios opostos contra decisão proferida em sede de Agravo de Instrumento eram intempestivos, pois foram interpostos fora do prazo legal.
+II. Embargos de Declaração acolhidos, com efeitos infringentes, para reconsiderar os julgados proferidos anteriormente, restando em consequência, improvido o Agravo de Instrumento interposto pelo Banco Itaú S/A.
+(EDcl no AgRg nos EDcl no Ag 1205584/SP, Rel. Min. Sidnei Beneti, 3ª Turma, DJe de 17/12/2010 - grifou-se)
+RECURSO ESPECIAL - PROCESSUAL CIVIL - DESCUMPRIMENTO DO TRÍDUO PREVISTO NO ART. 526 DO CPC - REVOLVIMENTO DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS - IMPOSSIBILIDADE - INCIDÊNCIA DA SÚMULA Nº 7/STJ - FORÇA PROBATÓRIA DE DOCUMENTO JUNTADO AOS AUTOS - QUESTÃO NÃO LEVADA EM CONSIDERAÇÃO PELO TRIBUNAL DE ORIGEM - AUSÊNCIA DE PREQUESTIONAMENTO - APLICAÇÃO DAS SÚMULAS NS. 282 E 356 DO STF - EMBARGOS DE DECLARAÇÃO - INTERRUPÇÃO DO PRAZO RECURSAL - OCORRÊNCIA - EFEITO INTERRUPTIVO DOS ACLARATÓRIOS - QUESTÃO DE ORDEM PÚBLICA - PRECLUSÃO - INEXISTÊNCIA - RECURSO ESPECIAL NÃO CONHECIDO.
+(..)
+3. Salvo em situações peculiares (como a de intempestividade), os embargos de declaração interrompem o prazo de interposição de qualquer outro recurso cabível, mesmo se não conhecidos.
+4. A questão do efeito interruptivo dos aclaratórios, por influenciar decisivamente na aferição da tempestividade do recurso posterior, é matéria de ordem pública e, portanto, insuscetível de preclusão nas Instâncias ordinárias.
+5. Recurso especial não conhecido.
+(REsp 828.288/SC, Rel. Ministro Massami Uyeda, Terceira Turma, julgado em 26/08/2008, DJe 26/09/2008 - grifou-se)
+Na espécie, a decisão agravada que gerou a interposição do recurso na origem foi publicada em 26/08/2014 (terça-feira). O prazo iniciou-se no dia 27/08/2014 (quarta-feira), findando-se no dia 05/09/2014 (sexta-feira).
+Logo a interposição do agravo de instrumento no dia 08/09/2014 (segunda-feira) não pode ser admitida, pois está intempestivo.
+Sob esta perspectiva, deve ser dado provimento ao presente recurso especial.
+Advirta-se, por fim, que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, conforme Enunciado Administrativo n. 3/STJ.
+Ante o exposto, dou provimento ao recurso especial para declarar intempestivo o agravo de instrumento interposto na origem pela parte agravada, determinando o retorno dos autos ao Tribunal de origem para que prossiga no cumprimento de sentença, conforme entender de direito.
+Intimem-se.
