@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 408/414).
+O acórdão recorrido está assim ementado (e-STJ fls. 337/338):
+CUMPRIMENTO DE SENTENÇA - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - ALEGAÇÃO DE INEXISTÊNCIA DO TÍTULO NO PONTO AFETO A DESPESA INCLUÍDA NO CÁLCULO - NECESSIDADE DE DILAÇÃO PROBATÓRIA PARA A VERIFICAÇÃO DE EVENTUAL EXCESSO - FATO QUE DEMANDA APRESENTAÇÃO DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - IMPOSSIBILIDADE DE PROVAR PELA VIA DA EXCEÇÃO - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+A exceção de pré-executividade só pode ser aceita em casos excepcionais e diante de elementos manifestos, e tem o seu cabimento quando a matéria invocada for suscetível de conhecimento de ofício pelo juiz e seja desnecessária a dilação probatória, o que não se verifica na espécie, ante a necessidade de se provar a existência do alegado excesso de execução.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1.554/1.558).
+No especial (e-STJ fls. 368/378), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alegou, além de divergência jurisprudencial, ofensa ao art. 1.022 do CPC/2015 por negativa de prestação jurisdicional.
+Apontou ainda afronta aos arts. 374, II e III, 783 e 786 do CPC/2015, sustentando, em síntese, a desnecessidade de dilação probatória. Destacou que (e-STJ fl. 372):
+12. Ocorre que, a parcela que está sendo questionada somente foi incluída na Execução em um segundo momento e em rubrica separada do valor que é objeto da condenação, sendo que ambas as partes reconhecem e admitem que pelas supostas despesas está sendo pleiteado o valor de R$ 822.073,97 (oitocentos e vinte e dois mil e setenta e três reais e noventa e sete centavos).
+13. Assim, data venia, não há se falar em perícia ou dilação probatória, uma vez que a teor do disposto no art. 374, II e III do CPC, não dependem de provas os fatos afirmados por um parte e confessados pela parte contrária, bem como aqueles admitidos no processo como incontroversos.
+No agravo (e-STJ fls. 416/423), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida não apresentou contraminuta (e-STJ fl. 426).
+É o relatório.
+Decido.
+Não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o conhecimento do recurso especial nessa parte.
+No que diz respeito aos arts. 374, II e III, 783 e 786 do CPC/2015, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 343):
+Todavia, o agravante deixa suficientemente claro nas suas razões recursais que o seu objetivo é excluir do cálculo apresentado pela agravada a quantia de R$ 822.073,97 (oitocentos e vinte e dois mil, setenta e três reais e noventa e sete centavos), referente à despesa com o zelo das reses, cujo valor supostamente não consta da r. sentença.
+Nesse passo, para que o judiciário possa fazer uma análise justa e zelosa dos cálculos apresentados pela agravada, até porque é fato incontroverso a existência da r. sentença executada, mostra-se imprescindível a dilação probatória, com possibilidade inclusive de realização de cálculo judicial e manifestações das partes para, como já dito, o julgador poder efetuar o juízo correto de convencimento.
+Assim, se há possibilidade de produção de prova, torna-se inadmissível a discussão através de exceção de pré-executividade, mormente ante a complexidade da matéria controvertida.
+Não obstante, mesmo que as razões tratadas na exceção digam respeito a inexistência do título no ponto afeto à suposta inclusão de montante referente às despesas com as reses, para que seja reconhecido o aludido excesso é necessário que as partes produzam provas de maneira eficiente, procedimento que é inadequado em via de exceção de pré-executividade, admitindo-se somente na via da impugnação ao cumprimento de sentença.
+Dissentir das conclusões do acórdão impugnado e afastar a necessidade de dilação probatória para fins de cabimento da exceção de pré-executividade implicaria análise das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
