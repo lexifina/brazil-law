@@ -1,0 +1,38 @@
+DECISÃO
+Vistos, etc.
+Trata-se de reclamação, com pedido de tutela provisória de urgência, formulada pelo Ministério Público do Estado de Alagoas com a finalidade de desconstituir efeito suspensivo ativo conferido a recursos especiais pelo Tribunal de Justiça alagoano.
+Narra o requerente que o Desembargador Vice-Presidente do TJ/AL, em análise de admissibilidade dos recursos especiais, concedeu efeito suspensivo aos recursos de [NOME], [NOME] e [NOME], nos autos do processo n. 0042688-60.2011.8.02.0001, em que foram condenados pela prática de atos de improbidade administrativa.
+Aduz que, em virtude do contido no art. 26-C da Lei n. 64/1990, dispositivo incluído pela Lei Complementar n. 135, de 2010, a competência para afastar a impossibilidade de concorrer a pleito eleitoral em razão de condenação por órgão colegiado por ato de improbidade administrativa que cause lesão ao erário é do órgão colegiado do Superior Tribunal de Justiça, detentor de competência para apreciar os recursos especiais dos condenados citados.
+Em razão disso, afirma que a Corte local usurpou a competência deste colendo Tribunal Superior, sendo a presente reclamação o remédio jurídico hábil a sanar a ilegalidade.
+Requer seja julgada procedente a reclamação para anular-se o decisum questionado, que concedeu o efeito suspensivo aos recursos especiais referidos.
+É o relatório.
+O CPC/2015, diferentemente do diploma processual revogado, trouxe regramento expresso a respeito do processamento dos pedidos de atribuição de efeito suspensivo a recurso especial, apontando, inclusive, o juízo competente para o exame dos pleitos dessa natureza.
+O art. 1.029, § 5º, III, do CPC/2015 preconiza que o pedido de atribuição de efeito suspensivo a recurso especial será realizado perante o Presidente ou Vice-Presidente do Tribunal de origem, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o apelo ter sido sobrestado para aguardar o julgamento de recurso representativo de controvérsia.
+Confira-se:
+Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+I - a exposição do fato e do direito;
+II - a demonstração do cabimento do recurso interposto;
+III - as razões do pedido de reforma ou de invalidação da decisão recorrida.
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037.
+Na situação dos autos, os recursos especiais foram interpostos perante o Tribunal alagoano, com os quais se deduziu pedido de atribuição de efeito suspensivo dirigido ao Presidente/Vice-Presidente daquela Corte.
+Assim, a Corte local, consoante se observa da decisão de e-STJ, fls. 11/32, concomitantemente à realização do juízo de admissibilidade dos recursos especiais, analisou o pedido de atribuição de efeito suspensivo aos recursos, providência esta em consonância com o previsto no novo Código de Processo Civil, conforme destacado acima.
+Cumpre registrar, ainda, que, nos termos das Súmulas 634 e 635 do STF, não cabe ao STJ conhecer de medida cautelar que tenha por objetivo a concessão de efeito suspensivo a recurso raro ainda condicionado à admissibilidade no Juízo a quo, sendo certo que, nesse caso, a competência para deliberar acerca do eventual pedido cautelar pertence ao Presidente do respectivo Tribunal.
+Nesse sentido:
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DO REQUISITO DO FUMUS BONI JURIS. INEXISTÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. COMPROVAÇÃO DE CERTEZA, LIQUIDEZ E EXIGIBILIDADE DO TÍTULO EXECUTIVO. REEXAME DE PROVAS. AGRAVO INTERNO IMPROVIDO.
+1. Consoante estabelece o art. 1.029, § 5º, III, do Código de Processo Civil de 2015, a competência desta eg. Corte Superior para apreciar pedido de concessão de efeito suspensivo a recurso especial se inicia após a realização de juízo de admissibilidade pelo eg. Tribunal de Justiça.
+2. O deferimento da tutela de urgência somente é possível quando presentes, concomitantemente, o fumus boni iuris e o periculum in mora. Ausente um desses requisitos, como no caso, o pedido não comporta deferimento.
+3. Agravo interno a que se nega provimento.
+(AgInt no TP 1.157/SP, Rel. Ministro LÁZARO GUIMARÃES - DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO, QUARTA TURMA, julgado em 6/3/2018, DJe 9/3/2018)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. RECURSO ORDINÁRIO PENDENTE DE ADMISSIBILIDADE. DESCABIMENTO DA MEDIDA. SÚMULAS 634 E 635 DO STF. INDEFERIMENTO DE LIMINAR. FUMUS BONI IURIS. APROFUNDAMENTO EM SEDE DE LIMINAR. INVIABILIDADE. AGRAVO NÃO PROVIDO.
+1. Não se conhece de medida cautelar que objetiva dar efeito suspensivo a recurso ordinário pendente de juízo de admissibilidade. Incidência, por analogia, das Súmulas 634 e 635 do STF.
+2. Somente em casos excepcionalíssimos, em que seja demonstrado iminente perigo de dano irreparável ou de difícil reparação, admite-se a apreciação de liminar para conceder efeito suspensivo a recurso em relação ao qual não foi exercido o prévio juízo de admissibilidade.
+3. A concessão de provimento de natureza cautelar de competência dos Tribunais Superiores demanda que a parte requerente faça prova conjunta dos requisitos: plausibilidade jurídica da pretensão invocada e risco de dano irreparável ou de difícil reparação.
+4. Mesmo que se vislumbre a ocorrência de eventual periculum in mora, não há como antever a presença do fumus boni iuris, tendo em vista que o pleito lançado na ação - direito à licença para exercer mandato em associação militar - confunde-se com o mérito do recurso ordinário, sendo certo que a análise da quaestio, como um todo, só poderá ser realizada, no processo principal, que sequer deu entrada no Superior Tribunal de Justiça.
+5. Agravo regimental não provido.
+(AgRg na MC 18.766/PE, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe 4/5/2012)
+Verifica-se, pois, que, no caso em exame, não houve usurpação da competência desta Corte de Justiça pelo Tribunal de origem, na medida em que o pedido de efeito suspensivo, antes de realizado o juízo de admissibilidade, na verdade, deveria ser endereçado à Corte a quo e por ela analisado, tal qual se deu na hipótese em comento.
+Ademais, apenas em situações excepcionalíssimas, este Tribunal Superior tem admitido a medida cautelar destinada a atribuir efeito suspensivo ou a antecipar tutela em recurso especial ou ordinário ainda não admitido, desde que a decisão recorrida seja teratológica.
+De fato, eventual alteração do entendimento sufragado pelo Tribunal local, no âmbito do Superior Tribunal de Justiça, somente poderia ocorrer na hipótese em que demonstrada a teratologia do aresto impugnado ou a manifesta contrariedade deste à orientação jurisprudencial pacífica do STJ, aliada a um patente risco de dano de difícil reparação, circunstâncias que não ficaram evidenciadas pelo ora requerente, o qual nem sequer combateu as razões que levaram a Corte a quo a atribuir efeito suspensivo aos recursos especiais referidos.
+Ante o exposto, com fulcro no art. 34, XVIII, "a", do RISTJ, nego seguimento à reclamação.
+Publique-se. Intimem-se.
