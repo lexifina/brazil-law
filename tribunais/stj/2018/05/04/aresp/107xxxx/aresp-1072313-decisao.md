@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 544 do CPC/1973), interposto contra decisão que inadmitiu o recurso especial, sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados, (b) aplicação da Súmula n. 7 do STJ e (c) falta de comprovação do dissídio jurisprudencial alegado.
+O TJSP deu provimento ao recurso, em acórdão assim ementado (e-STJ fl. 157):
+SEGURO. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER CUMULADA COM PLEITO INDENIZATÓRIO. HIPÓTESE EM QUE BUSCA A AUTORA UTILIZAR-SE DOS SERVIÇOS DE HOSPITAL DESCREDENCIADO. COBERTURA DE DESPESAS QUE O CONTRATO CELEBRADO COM A CORRÉ UNIMED PAULISTANA NÃO AUTORIZA. DISPONIBILIZAÇÃO, OUTROSSIM, POR ESSA DEMANDADA, DE OUTROS ESTABELECIMENTOS PARA MANUTENÇÃO DO TRATAMENTO. DESCREDENCIAMENTO, ADEMAIS, EFETIVADO À PEDIDO DO HOSPITAL CONTRATADO, E NOTICIADO NA IMPRENSA. IMPOSSIBILIDADE DE SE IMPOR A COBERTURA DO TRATAMENTO. DANOS MORAIS AFASTADOS, DIANTE DA AUSÊNCIA DE SEUS REQUISITOS. SENTENÇA REFORMADA PARA JULGAR A AÇÃO IMPROCEDENTE. RECURSO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 197/202).
+Nas razões do recurso especial (e-STJ fls. 204/217), interposto com base no art. 105, III, "a" e "c", da CF, a recorrente apontou violação do art. 6º, II, do CDC, afirmando que qualquer alteração no contrato de seguro deveria ser informada ao segurado de maneira clara e individualizada.
+Acrescentou ofensa aos arts. 6º, III, e 46 do CDC e 17 da Lei n. 9.656/1998, apontando que o acórdão deixou de considerar o prazo estabelecido em lei para comunicação prévia aos segurados de substituição e descredenciamento de serviços de saúde oferecidos.
+Alegou, por fim, divergência jurisprudencial do acórdão recorrido.
+Não foram apresentadas contrarrazões (e-STJ fl. 222).
+No agravo (e-STJ fls. 230/237), afirma-se a presença de todos requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 280/284).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Conforme entendimento firmado por esta Corte, faz-se necessária a comunicação individualizada de cada associado sobre o descredenciamento de médicos e hospitais. A propósito:
+CONSUMIDOR. PLANO DE SAÚDE. REDE CONVENIADA. ALTERAÇÃO. DEVER DE INFORMAÇÃO ADEQUADA. COMUNICAÇÃO INDIVIDUAL DE CADA ASSOCIADO. NECESSIDADE.
+1. Os arts. 6º, III, e 46 do CDC instituem o dever de informação e consagram o princípio da transparência, que alcança o negócio em sua essência, na medida em que a informação repassada ao consumidor integra o próprio conteúdo do contrato. Trata-se de dever intrínseco ao negócio e que deve estar presente não apenas na formação do contrato, mas também durante toda a sua execução.
+2. O direito à informação visa a assegurar ao consumidor uma escolha consciente, permitindo que suas expectativas em relação ao produto ou serviço sejam de fato atingidas, manifestando o que vem sendo denominado de consentimento informado ou vontade qualificada. Diante disso, o comando do art. 6º, III, do CDC, somente estará sendo efetivamente cumprido quando a informação for prestada ao consumidor de forma adequada, assim entendida como aquela que se apresenta simultaneamente completa, gratuita e útil, vedada, neste último caso, a diluição da comunicação efetivamente relevante pelo uso de informações soltas, redundantes ou destituídas de qualquer serventia para o consumidor.
+3. A rede conveniada constitui informação primordial na relação do associado frente à operadora do plano de saúde, mostrando-se determinante na decisão quanto à contratação e futura manutenção do vínculo contratual.
+4. Tendo em vista a importância que a rede conveniada assume para a continuidade do contrato, a operadora somente cumprirá o dever de informação se comunicar individualmente cada associado sobre o descredenciamento de médicos e hospitais.
+5. Recurso especial provido.
+(REsp 1144840/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/03/2012, DJe 11/04/2012)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEGATIVA DE TRATAMENTO. HOSPITAL NÃO CREDENCIADO. AUSÊNCIA DE INFORMAÇÃO. ABUSIVIDADE. DANO MORAL.SÚMULA Nº 83/STJ. SÚMULAS NºS 5 E 7/STJ. INCIDÊNCIA. DEVER DE INFORMAÇÃO.
+1. A jurisprudência do STJ é no sentido de que a recusa indevida ou injustificada, pela operadora de plano de saúde, de autorizar a cobertura financeira de tratamento médico, a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário
+2. Incide, na espécie, a Súmula nº 83/STJ, segundo a qual "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", aplicável a ambas as alíneas autorizadoras.
+3. Rever as condições da recusa da cobertura financeira de tratamento em hospital e por médico não conveniados/credenciados encontra óbice nas Súmulas nºs 5 e 7 desta Corte.
+4. A rede conveniada constitui informação primordial na relação entre o associado e a operadora do plano de saúde, mostrando-se determinante na decisão quanto à contratação e à futura manutenção do vínculo contratual.
+5. Tendo em vista a importância que a rede conveniada assume para a continuidade do contrato, a operadora somente cumprirá o dever de informação se comunicar individualmente cada associado sobre o descredenciamento de médicos e hospitais (REsp nº 1.144.840/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 11/4/2012).
+6. Agravo regimental não provido.
+(AgRg no AREsp 431.999/MA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/06/2014, DJe 17/06/2014)
+No caso dos autos, o acórdão recorrido decidiu de forma contrária ao entendimento desta Corte, ao considerar que a "veiculação de nota de esclarecimento da imprensa escrita na qual a requerida comunica a seus segurados a respeito do descredenciamento e os informa a respeito de outros estabelecimentos aptos a atendê-los" (e-STJ fl. 159) seria apta a configurar a comunicação prévia aos segurados exigida por lei.
+Diante do exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial, para restabelecer a sentença que condenou o agravado ao pagamento de indenização por danos morais, em razão da falta de notificação do descredenciamento da rede hospitalar.
+Publique-se e intimem-se.
