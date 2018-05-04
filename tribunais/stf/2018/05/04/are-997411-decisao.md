@@ -1,0 +1,20 @@
+DESPACHO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. NOVA REMESSA DO TRIBUNAL DE ORIGEM. FUNDAMENTO PLAUSÍVEL. DISTRIBUIÇÃO NOS TERMOS REGIMENTAIS.
+Relatório
+    1. Em 10.10.2016, determinei a devolução dos autos ao Tribunal de origem por ter este Supremo Tribunal submetido à sistemática da repercussão geral as questões trazidas no recurso (Recurso Extraordinário n. 598.099, Tema 161, Agravo de Instrumento n. 791.292, Tema 339, e Recurso Extraordinário com Agravo n. 748.371, Tema 660).
+    2. Em 5.4.2018, estes autos retornaram ao Supremo Tribunal Federal com o seguinte despacho da Segunda Vice-Presidência do Tribunal de Justiça da Bahia:
+    “Remetidos os autos ao Supremo Tribunal Federal, estes foram devolvidos à Corte Estadual, em cumprimento à decisão proferida pela Min. Cármen Lúcia (fls. 341), firmada no sentido de que o assunto versado no Recurso Extraordinário corresponde aos Temas 161, 339 e 660 da sistemática da repercussão geral, devendo ser observado o disposto nos arts. 1.036, caput, §1º, 1.039, caput, § único, e art. 1.040, do Novo Cód. de Proc. Civil, e o art. 543-B do Cód. de Proc. Civil anterior, e, por fim, o art. 13, inc. V, al. ´c`, do Regimento Interno do Supremo Tribunal Federal.
+    Sucede, entretanto, que a indicação dos paradigmas feita pela decisão supramencionada gera dúvida quanto à correta destinação do agravo em Recurso Extraordinário, tendo em vista que o acórdão recorrido discutiu a matéria sobre outro enfoque jurídico, não havendo identidade entre os temas tratados, salvo melhor juízo.
+    O paradigma Recurso Extraordinário nº 598.099MS/RG, correspondente ao Tema 161 da sistemática da repercussão geral, discute acerca da ´Nomeação de candidato classificado entre as vagas previstas no edital de concurso público´. Por outro lado, o processo em tela (Ag em Resp nº 997.411/BA) versa sobre a preterição do candidato aprovado fora das vagas de forma arbitrária e imotivada por parte da administração.
+    Aliás, por não despiciendo, transcreve-se, por oportuno, excerto do julgado recorrido referente a matéria em foco.
+    ´... Consoante o referido documento de fls. 190/191, que acompanha as informações da autoridade impetrada, após aprovação em todas as fases do concurso em questão, inclusive no curso de Formação Profissional, o impetrante obteve a colocação nº. 241, relacionada ao cargo efetivo de Agente de Polícia Civil do Estado da Bahia, com lotação na Região de Salvador: (…)
+    Conforme noticiado pela autoridade impetrada, a convocação do impetrante para exames médicos, exames de aptidão física e psicoteste somente ocorreu no ano de 2008, tendo ele concluído também o curso de formação profissional. Logo, a preterição na ordem de classificação está devidamente demonstrada, posto que foram realizadas, em 07.05.1998, nomeações para todas as 189 (cento e oitenta e nove) vagas disponibilizadas no edital, muito antes da convocação do impetrante para etapas intermediárias do certame. Em resumo, a preterição está caracterizada, porque todas as vagas disponibilizadas no edital foram preenchidas, antes mesmo que a impetrante tivesse obtido nota e classificação final...´
+    (Acórdão, fls. 284/286)
+    Isto posto, encaminhem-se, ainda uma vez, os autos ao Supremo Tribunal Federal, a fim de que, examinando o teor do presente despacho, adote o posicionamento que entender o mais correto para solução da controvérsia que fora estabelecida.” (e-doc. 11, fls. 19/20).
+    Analisada a questão trazida na espécie, DECIDO.
+    3. O Vice-Presidente do Tribunal de Justiça da Bahia suscita óbice à aplicação do Tema 161 da repercussão geral indicado no despacho de devolução, havendo plausibilidade jurídica na fundamentação apresentada a impor o prosseguimento da tramitação do feito neste Supremo Tribunal para evitar-se desnecessária devolução do processo ao Tribunal de Justiça.
+    4. Pelo exposto, torno sem efeito a devolução dos autos à origem e determino à Secretaria Judiciária a distribuição deste processo na forma regimental.
+    Publique-se.
+    Brasília, 4 de maio de 2018.
+Ministra CÁRMEN LÚCIA
+Presidente
