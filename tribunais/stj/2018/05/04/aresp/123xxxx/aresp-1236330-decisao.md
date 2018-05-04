@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo ESTADO DE MINAS GERAIS, em 20/10/2017, contra decisão do Tribunal de Justiça do Estado de Minas Gerais, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO - TUTELA ANTECIPADA - TRANSFERÊNCIA DE RECÉM NASCIDO PARA REALIZAÇÃO DE CIRURGIA - DIREITO À VIDA - CASSAÇÃO DA DECISÃO - IMPOSSIBILIDADE - POSIÇÃO DO STF. O deferimento de tutela antecipada para imposição de transferência de recém-nascido e realização de cirurgia de garantir o meio curativo integral, se amolda às decisões do Supremo Tribunal Federal e Superior Tribunal de Justiça que alerta para a necessidade de preservação da própria vida do pleiteante, estando patente a verossimilhança entre o fato alardeado, cuja prova inequívoca da necessidade encontra-se nos autos e o direito aplicável, já que a lesão ao direito do agravado mostra-se de impossível reparação, não havendo espaço para se afastar a tutela. Recurso não provido" (fl. 233e).
+Sustenta a parte agravante, nas razões do Recurso Especial, ofensa ao artigo 461,§§4º e 6º, do CPC/73, sob os seguintes fundamentos: a) "o acórdão recorrido, ao fixar multa para o caso de descumprimento da ordem judicial, violou dispositivos contidos na Lei Federal n. 5.869/73 (Código de Processo Civil), mais especificamente o artigo 461 § 4º - cuja exegese não permite concluir pela possibilidade de imposição de multa cominatória à Fazenda Pública" (fl. 244e); b) deve ser reduzida o valor da multa aplicada, tendo em vista a necessidade de observância aos princípios da razoabilidade e proporcionalidade.
+Requer, ao final, "seja dado provimento ao presente recurso especial, para o fim de afastar a fixação da multa cominatória ou, pela eventualidade, reduzi-la" (fl. 246e).
+Em contrarrazões, a parte ora agravada assevera que deve ser negado seguimento ao Recurso Especial.
+Negado seguimento ao Recurso Especial (fl. 259e), foi interposto o presente Agravo (fls. 275/282e).
+Em contraminuta, a parte agravada afirma que o Agravo não deve ser conhecido.
+O Ministério Público Federal, por meio do parecer de fls. 299/301e, opina pelo não conhecimento do Agravo, tendo em vista a sua prejudicialidade, por perda do objeto.
+A irresignação não merece acolhimento.
+Com efeito, segundo andamento processual disponível no sítio eletrônico do Tribunal de origem, houve o trânsito em julgado, em 1º/06/2017, da Ação Civil Pública 0005681-89.2016.8.13.0312, de que tratam estes autos.
+Ressalte-se que a jurisprudência desta Corte superior é no sentido de que, "a superveniência do trânsito em julgado da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento" (STJ, AgRg no AREsp 250.385/AL, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 08/05/2015).
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. SENTENÇA E TRÂNSITO EM JULGADO DO PROCESSO PRINCIPAL. PERDA DE OBJETO DO RECURSO ESPECIAL. EMBARGOS ACOLHIDOS, COM EFEITOS INFRINGENTES, PARA DAR PROVIMENTO AO AGRAVO REGIMENTAL E DECRETAR A PERDA DE OBJETO DO RECURSO ESPECIAL.
+1. Cuida-se, na origem, de Agravo de Instrumento interposto contra decisão interlocutória que deferiu a tutela liminar, determinando a indisponibilidade de bens. Irresignada, a ora embargante interpôs Agravo de Instrumento, sustentando que a decisão impugnada recebeu o pedido inicial e ordenou a citação sem antes promover a sua notificação para manifestação preliminar, configurando-se ofensa ao art. 17, § § 7º, 8º e 9º da Lei 8.429/92, na medida em que deixou de observar o devido processo legal, suprimindo o direito ao contraditório e à ampla defesa.
+2. (..)
+5. Verifica-se que o processo principal foi julgado extinto sem resolução do mérito, e que já ocorreu o trânsito em julgado.
+6. É entendimento assente no STJ que, proferida sentença no processo principal, perde o objeto o recurso de Agravo de Instrumento interposto contra decisão interlocutória.
+7. Assim ocorreu a perda do objeto do Recurso Especial, em face do trânsito em julgado da sentença no processo principal.
+8. Embargos Declaratórios acolhidos, com efeitos infringentes, para, em seguida, prover o Agravo Regimental e decretar a perda de objeto do Recurso Especial" (STJ, EDcl no AgRg no REsp 1.336.055/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 27/11/2014).
+"PROCESSUAL CIVIL. ANTECIPAÇÃO DE TUTELA. AGRAVO DE INSTRUMENTO. JULGAMENTO DA AÇÃO PRINCIPAL. TRÂNSITO EM JULGADO. PERDA DO OBJETO.
+1. Nos termos da jurisprudência pacífica do STJ, a superveniência da sentença de mérito que defere ou indefere medida liminar ou antecipação de tutela ocasiona a perda do objeto do recurso especial.
+2. Precedentes: EDcl no AgRg no AgRg no Ag 1244483/SP, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 2.2.2012, DJe 24.2.2012; AgRg no REsp 1222174/RS, Rel. Min. João Otávio de Noronha, Quarta Turma, julgado em 5.5.2011, DJe 12.5.2011.
+Agravo regimental improvido" (STJ, AgRg no AgRg no Ag 1.424.810/BA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 20/11/2012).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+I.
