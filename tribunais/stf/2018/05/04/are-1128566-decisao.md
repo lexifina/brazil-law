@@ -1,0 +1,32 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 100, §§ 1º, 1º-A e 8º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Deixou a parte agravante de impugnar, de forma específica, os fundamentos pelos quais inadmitido o apelo extremo, ensejando o entendimento jurisprudencial vertido na Súmula 287/STF: “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”. Nesse sentido:
+    “(...) AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287/STF. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. DEFICIÊNCIA DE FUNDAMENTAÇÃO DA PRELIMINAR DE REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 543-A, § 2º, DO CPC/1973. REPERCUSSÃO GERAL PRESUMIDA OU RECONHECIDA EM OUTRO RECURSO NÃO VIABILIZA APELO SEM A DEMONSTRAÇÃO DA REPERCUSSÃO GERAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. A jurisprudência desta Suprema Corte é firme no sentido de que inadmissível o agravo que não ataca especificamente os fundamentos da decisão que inadmitiu o recurso extraordinário. Incidência da Súmula 287/STF.
+    (...)
+    3. Deficiência da fundamentação da preliminar de repercussão geral no recurso extraordinário, interposto sob a égide do Código de Processo Civil de 1973. Inobservância do art. 543-A, § 2º, do CPC/1973, c/c art. 327, § 1º, do RISTF.
+    4. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+    5. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    6. Em se tratando de mandado de segurança, inaplicável o art. 85, § 11, do CPC/2015.
+    7. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa.” (ARE 1082626-AgR, de minha lavra, 1ª Turma, DJe 21.3.2018)
+    “(...) NÃO DEMONSTRAÇÃO DO REQUISITO DE REPERCUSSÃO GERAL. NÃO IMPUGNAÇÃO DA DECISÃO AGRAVADA. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I - Nos termos do art. 1.021, § 1°, do CPC e do art. 317, § 1°, do RISTF, é requisito de admissibilidade do agravo regimental a impugnação específica de todos os fundamentos nos quais se baseou a decisão agravada, sob pena de incidência do óbice previsto nas Súmulas 284 e 287/STF.
+    II - Agravo regimental a que se nega provimento.” (ARE 1099336 AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 11.4.2018)
+    De outra parte, as razões do recurso extraordinário não se mostram aptas a infirmar os fundamentos do acórdão recorrido. Incide, na espécie, o óbice das Súmulas 283 e 284/STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles” e “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”.
+    Ainda que não se ressentisse o recurso quanto aos pressupostos, melhor sorte não colheria, porquanto compreensão diversa do entendimento adotado pelo Tribunal de origem demandaria a análise prévia da legislação infraconstitucional aplicável, bem como o revolvimento da moldura fática delineada no acórdão recorrido, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL PESSOA FÍSICA. SOCIEDADE EMPRESÁRIA. FORMAS DE ORGANIZAÇÃO CONCOMITANTES. PLANEJAMENTO FISCAL ABUSIVO.
+    1. A análise do preenchimento de requisitos que propiciam o recolhimento de salário-educação cinge-se ao âmbito infraconstitucional. Súmula 279 do STF.
+    2. Agravo regimental a que se nega provimento.” (RE 913.270-AgR, Rel. Min. Edson Fachin, 1ª Turma, DJe 25.11.2015)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Contribuição Previdenciária. Salário-educação. Produtor rural Pessoa Física. Matéria de índole infraconstitucional. ARE-RG 979.764 (tema 910). 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento.” (ARE 958.339-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 04.8.2017)
+    “Recurso extraordinário com agravo. Salário educação. Sujeição passiva. Produtor rural pessoa física. Equiparação a empresa. Matéria infraconstitucional. Afronta reflexa. Efeitos da ausência de repercussão geral.” (ARE 979.764-RG, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 13.9.2016)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 04 de maio de 2018.
+Ministra Rosa Weber
+Relatora
