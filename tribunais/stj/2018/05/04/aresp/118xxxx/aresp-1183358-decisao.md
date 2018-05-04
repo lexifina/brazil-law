@@ -1,0 +1,40 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. CRIME DE DESOBEDIÊNCIA. TRANCAMENTO DA AÇÃO PENAL PELO TRIBUNAL A QUO. RECURSO MINISTERIAL. PODER REQUISITÓRIO DO PARQUET. REQUISIÇÃO DE DOCUMENTOS. DESCUMPRIMENTO. IMPOSSIBILIDADE. PRECEDENTES. SÚMULA N. 568/STJ. INCIDÊNCIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS manejado contra a decisão que inadmitiu o recurso especial interposto perante o eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o eg. Tribunal de origem concedeu a ordem de habeas corpus em favor da ora recorrida para determinar o trancamento da ação penal a que respondia (fls. 468-473). Eis a ementa do acórdão:
+"HABEAS CORPUS. CRIME DE DESOBEDIÊNCIA. TRANCAMENTO DA AÇÃO PENAL. CABIMENTO. AUSÊNCIA DE REQUERIMENTO EXPRESSO DOS PACIENTES PARA A EXIBIÇÃO DO PRONTUÁRIO. AUSÊNCIA DE REQUISIÇÃO JUDICIAL. PREVISÃO LEGAL. ARTIGOS 73 E 89 DA LEI 3268/57. CONSTRANGIMENTO ILEGAL CONFIGURADO. ORDEM CONCEDIDA. Levando-se em consideração a ausência de autorização expressa do Paciente ou seu representante legal para a a exibição do prontuário, bem como ausência de requisição judicial, imperativo a concessão da ordem, para o fim de trancar a Ação Penal instaurada em desfavor da Paciente. Ordem concedida."
+Opostos embargos de declaração, pelo ora recorrente, foram eles rejeitados, à unanimidade de votos (fls. 484-488).
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, a defesa alega ofensa ao art. 26, inciso I, b, da Lei n. 8.625/1993, ao art. 47, caput, do Código de Processo Penal, e ao art. 330, caput, do Código Penal. Para tanto, argumenta que: "o Ministério Público dispõe de atribuição legal para instaurar procedimentos investigatórios criminais e para instruí-los, podendo requisitar documentos, sendo o que deflui de suas atribuições constitucionais, ademais, do que estabelece, dentre outros, os artigos 26, I, "b", da Lei n. 8.625/93 e art. 47, do CPP  .. " (fl. 502).
+Contrarrazões às fls. 508-521.
+O recurso especial foi inadmitido pelo Tribunal de origem em razão do óbice da Súmula n. 7/STJ (fls. 523-524).
+Nas razões do presente agravo, a parte alega que não incide o referido óbice e reitera os argumentos expendidos no apelo nobre (fls. 527-537).
+O Ministério Público Federal, em seu d. parecer, manifestou-se pelo provimento do agravo (fls. 559-561).
+É o relatório.
+Decido.
+Tendo em vista os relevantes fundamentos apontados pela parte agravante, conheço do agravo e passo a examinar os requisitos do recurso especial.
+No que concerne à alegação de violação ofensa ao art. 26, inciso I, b, da Lei n. 8.625/1993, ao art. 47, caput, do Código de Processo Penal, e ao art. 330, caput, do Código Penal, no sentido de que "o Ministério Público dispõe de atribuição legal para instaurar procedimentos investigatórios criminais e para instruí-los, podendo requisitar documentos, sendo o que deflui de suas atribuições constitucionais, ademais, do que estabelece, dentre outros, os artigos 26, I, "b", da Lei n. 8.625/93 e art. 47, do CPP  .. " (fl. 502), identifico que o recurso merece prosperar.
+Ao conceder a ordem de habeas corpus ali impetrada pela Defesa, sobre a quaestio, no que importa ao caso, consignou o eg. Tribunal a quo, verbis:
+"Dentro desse especial contexto, a Paciente, como representante da Santa Casa de Ouro Preto, demonstrou que, não poderia violar as regras contidas no Código de Ética Médica. A propósito, tenho que a princípio, não houve negativa por parte da Paciente em fornecer os Prontuários, ela impôs apenas condições, as quais estão previstas no já mencionado Código de Ética Médica, in verbis:
+ ..
+Portanto, a persecução penal pelo crime previsto no artigo 330 do Código Penal não tem como prosseguir, o que justifica o acolhimento da impetração.
+Posto isso, CONCEDO A ORDEM IMPETRADA, a fim de ratificando a liminar conferida às fls. 399/400-TJ para determinar o trancamento da Ação Penal nº 0461.15.008190-3." (fls. 292-311, grifei).
+Diante dos excertos acima transcritos, mostra-se incorreto o v. acórdão objurgado, tendo em vista que se encontra em consonância com o entendimento estabelecido nesta Corte Superior de Justiça, no sentido de que "O Ministério Público, por expressa previsão constitucional e legal (art. 129, VI e VIII, da Constituição Federal, art. 26, I, b e II, da Lei Complementar n. 75/90 e art. 47 do Código de Processo Penal), possui a prerrogativa de conduzir diligências investigatórias, podendo requisitar diretamente documentos e informações que julgar necessários ao exercício de suas atribuições de dominus litis" (AgRg no RMS n. 555.946/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, Dje de 14/3/2018, grifei).
+A propósito, confira-se o seguinte precedente:
+"RECURSO EM HABEAS CORPUS. PODER INVESTIGATIVO DO MINISTÉRIO PÚBLICO. REQUISIÇÃO DE DOCUMENTOS PRÓPRIOS DA ADMINISTRAÇÃO MILITAR PARA INSTRUIR PROCEDIMENTO ADMINISTRATIVO CÍVEL. CARACTERIZAÇÃO DE CRIME EM CASO DE DESCUMPRIMENTO.
+1. São válidos os atos investigatórios realizados pelo Ministério Público, cabendo-lhe ainda requisitar informações e documentos, a fim de instruir seus procedimentos administrativos.
+ ..
+4. Recurso em habeas corpus improvido. Liminar cassada." (RHC n. 29.127/RS, Sexta Turma, Rel. Min. Sebastião Reis Júnior, Dje de 18/4/2016, grifei).
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. PECULATO, CORRUPÇÃO ATIVA, CORRUPÇÃO PASSIVA, DISPENSA INDEVIDA DE LICITAÇÃO, ENTRE OUTROS. OPERAÇÃO "RODIN". ILICITUDE DE PROVA DECORRENTE DE TROCA DE INFORMAÇÕES ENTRE MINISTÉRIO PÚBLICO FEDERAL E MINISTÉRIO PÚBLICO JUNTO AO TRIBUNAL DE CONTAS. INOCORRÊNCIA. ALEGAÇÃO DE AUSÊNCIA DE AUTORIZAÇÃO DA CORTE DE CONTAS. PRESCINDIBILIDADE. RECURSO ORDINÁRIO DESPROVIDO.
+I - Embora o Ministério Público perante Tribunal de Contas não possua autonomia administrativa e financeira, são asseguradas, aos seus membros, as mesmas garantias e prerrogativas dos membros do Ministério Público, tais como requisição de documentos, informações e diligências, sem qualquer submissão à Corte de Contas.
+ ..
+Recurso ordinário desprovido." (RHC n. 35.556/RS, Quinta Turma, de minha relatoria, Dje de 28/11/2014, grifei).
+"CONSTITUCIONAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CERTIDÃO DE ANTECEDENTES CRIMINAIS. REQUISIÇÃO DE DILIGÊNCIA PELO PARQUET. INDEFERIMENTO PELO JUIZ. POSSIBILIDADE DE OBTENÇÃO DOS DADOS POR MEIOS PRÓPRIOS. ART. 129, VI E VIII, CF/88. ART. 26, I E II, LEI COMPLEMENTAR N. 75/90. ART. 47 DO CPP. INCAPACIDADE DE REALIZAR A DILIGÊNCIA NÃO DEMONSTRADA. INEXISTÊNCIA DE VIOLAÇÃO A DIREITO LÍQUIDO E CERTO.
+1. O Ministério Público, por expressa previsão constitucional e legal (art. 129, VI e VIII, da Constituição Federal, art. 26, I, b e II, da Lei Complementar n. 75/90 e art. 47 do Código de Processo Penal), possui a prerrogativa de conduzir diligências investigatórias, podendo requisitar diretamente documentos e informações que julgar necessários ao exercício de suas atribuições de dominus litis.
+ ..
+4. Não demonstrada a real necessidade de intermediação do Poder Judiciário, não se vislumbra direito líquido e certo ao deferimento obrigatório das diligências requeridas pelo Ministério Público.
+5. Agravo regimental a que se nega provimento." (AgRg no RMS n. 55.946/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, Dje de 14/3/2018, grifei).
+Assim, considerando que o acórdão recorrido não está em conformidade com a jurisprudência desta Corte Superior de Justiça acerca do tema, incide, in casu, a Súmula n. 568/STJ, que assim dispõe, verbis:
+"O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, cassar o acórdão recorrido e determinar o prosseguimento da Ação Penal n. 0461.15.008190-3.
+P. e I.
