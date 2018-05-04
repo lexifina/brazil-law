@@ -1,0 +1,11 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDORA MUNICIPAL. APOSENTADORIA POR INVALIDEZ. POSSÍVEL ILEGALIDADE NA EXONERAÇÃO E POSTERIOR NOMEAÇÃO PARA NOVO CARGO COM REMUNERAÇÃO MENOR. VIOLAÇÃO DOS ARTS. 7o., VI E 37, XV DA CONSTITUIÇÃO FEDERAL. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. AGRAVO DA SERVIDORA A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto por MARLÚCIA FREITAS VIEIRA, com fulcro na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo TJSP, assim ementado:
+APELAÇÃO - ação declaratória com pedido de tutela antecipada - servidora municipal - aposentadoria por invalidez reconhecida  exoneração do cargo em comissão quando gozava licença saúde - admissibilidade - cargo de caráter precário, sendo de livre nomeação e exoneração - responsabilidade do pagamento da aposentadoria pelo IPREF - cargo sob regime estatutário e contribuições mensais ao instituto - sucumbência recíproca mantida - Recursos desprovidos (fls. 661).
+2. Nas razões de seu Apelo Nobre, a parte Recorrente alega violação aos arts. 7o. VI e 37, XV da CF. Aduz que houve redução de salário quando estava a Recorrente afastada de seu cargo (..) reiterando-se, portanto, a imediata decretação de nulidade do ato exoneratório e de nomeação para o cargo de Recepcionista, retornando a Recorrente ao cargo de Escriturário, ou, no mínimo, que à Recorrente seja garantido os mesmos vencimentos do período anterior ao afastamento, condenando-se o Recorrido a pagar as diferenças salariais que deixaram de ser pagas diante da indevida nomeação ao novo cargo, em 17 de dezembro de 2001 (fls. 732).
+3. É o relatório.
+4. No que se refere à alegação de violação dos arts. 7o. VI e 37, XV da CF, cumpre esclarecer que a análise de matéria de cunho constitucional é, por força do art. 102, III da própria Constituição, competência reservada à Suprema Corte, sendo, portanto, vedado a este Superior Tribunal de Justiça conhecer da suposta infringência.
+5. Deixo de analisar o Agravo em Recurso Especial do INSTITUTO DE PREVIDÊNCIA DOS FUNCIONÁRIOS PÚBLICOS MUNICIPAIS DE GUARULHOS na medida em que não há Recurso Especial interposto por este.
+6. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial.
+7. Publique-se.
+8. Intimações necessárias.
