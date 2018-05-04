@@ -1,0 +1,23 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. OCORRÊNCIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por Caixa de Previdência dos Funcionários do Banco do Brasil contra decisão que não admitiu o processamento do recurso especial.
+Perscrutando os autos, verifica-se que a recorrente interpôs agravo de instrumento contra decisão interlocutória que determinou que os honorários advocatícios incidam, inclusive, sobre os valores do benefício previdenciário percebidos a título de antecipação de tutela.
+Analisando esse agravo, a Sexta Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul negou-lhe provimento, consoante a ementa assim redigida (e-STJ, fl. 570):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. CUMPRIMENTO DE SENTENÇA.
+- BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS. VALOR BRUTO DA CONDENAÇÃO.
+O valor da condenação é o que efetivamente a parte executada terá que despender em face do comando judicial condenatório, ou seja, o valor bruto. Assim a base de cálculo dos honorários advocatícios deve corresponder à totalidade dos valores devidos, incluídos aí até mesmo as importâncias deferidas a título de tutela antecipada.
+NEGARAM PROVIMENTO AO AGRAVO DE INSTRUMENTO. UNÂNIME.
+Os embargos de declaração opostos pela demandante foram rejeitados.
+Em suas razões de apelo nobre, a recorrente apontou a existência de afronta ao art. 1.022, II, do Código de Processo Civil de 2015, sustentando, em síntese, a ocorrência de negativa de prestação jurisdicional fundada em omissão a respeito dos seguintes pontos: i) observância à Súmula 111/STJ; ii) impossibilidade de enriquecimento ilícito; e iii) necessidade de preservação da fonte de custeio.
+Contrarrazões às fls. 665-671 (e-STJ).
+Denegado o processamento do apelo extremo na origem, a parte insurgente interpõe o presente agravo.
+Contraminuta apresentada (e-STJ, fls. 716-721).
+Brevemente relatado, decido.
+Com efeito, os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme disposto no art. 1.022, I, II e III, do CPC/2015.
+Na hipótese ora em foco, com razão a recorrente, no que se refere às questões delineadas no apelo nobre (acerca da incidência da Súmula 111/STJ, do enriquecimento ilícito e da preservação da fonte de custeio), pois, embora suscitadas no bojo do agravo de instrumento e dos embargos de declaração, o TJRS limitou-se a repetir a fundamentação do aresto combatido e a afirmar que tal decisum não contém nenhuma "omissão, contradição ou obscuridade, o que, por ser de rigor, impõe a mantença do julgado embargado e, além do mais, estando supridas todas as alegações apresentadas pela embargante, não há que se falar em irregularidades a serem sanadas via embargos de declaração" (e-STJ, fl. 623).
+Assim, o Tribunal a quo deixou de sanar a omissão sobre as questões federais suscitadas nos autos, as quais são relevantes para o deslinde da controvérsia, impondo-se o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação das questões jurídicas neles suscitadas.
+A propósito:
+RECURSO ESPECIAL. QUESTÕES SUSCITADAS EM EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PRONUNCIAMENTO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 535 DO CPC CONFIGURADA. AGRAVO NO RECURSO ESPECIAL PREJUDICADO. 1.- Negativa de prestação jurisdicional configurada no caso, por infringência ao artigo 535 do Código de Processo Civil, voltando o caso à origem para novo julgamento dos Embargos de Declaração. 2.- Em processo em que recebido pedido de reconsideração do Acórdão, posterior à interposição de Recurso Especial, como Agravo Regimental, para não conhecê-lo, o Acórdão, embora fundamentado, não enfrentou todas as questões, conquanto reclamado o exame por Embargos de Declaração. Impossível, nesta instância, reexaminar todas essas matérias interligadas, de interesse para o deslinde do caso. De rigor o provimento do Recurso Especial, para anular o julgamento dos Embargos de Declaração, com retorno à origem. 3.- Recurso Especial provido, anulando-se o Acórdão dos Embargos de Declaração, para que outro seja proferido, com expresso julgamento da questão assinalada. 4.- Agravo no Recurso Especial prejudicado pela perda do objeto. (REsp n. 1.424.420/CE. Relator Ministro Sidnei Beneti, Terceira Turma, julgado em 11/2/2014, DJE 28/2/2014)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de determinar o retorno dos autos à Corte estadual para que, em novo julgamento dos embargos de declaração, supra o vício apontado.
+Publique-se.
