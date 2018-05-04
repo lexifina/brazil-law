@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de reclamação na qual se sustenta que o ato de nomeação do ora interessado para o cargo de Secretário Municipal de Assuntos Estratégicos (Ato nº 017/2017) – emanado da Senhora Prefeita do Município de Várzea Grande/MT – teria desrespeitado a autoridade da Súmula Vinculante nº 13/STF, que possui o seguinte teor:
+    “A nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para o exercício de cargo em comissão ou de confiança ou, ainda, de função gratificada na administração pública direta e indireta em qualquer dos poderes da União, dos Estados, do Distrito Federal e dos Municípios, compreendido o ajuste mediante designações recíprocas, viola a Constituição Federal.” (grifei)
+    A parte ora reclamante, para justificar a alegada transgressão ao referido enunciado sumular vinculante, aduz, em síntese, as seguintes considerações:
+    “1.1. Ao ser reeleita para o cargo de Prefeita Municipal de Várzea Grande/MT, a Reclamada exarou o ato nº. 017/2017, em 02 de janeiro de 2017, com o fito de nomear seu cônjuge, JAYME VERÍSSIMO DE CAMPOS, para o cargo de Secretário Municipal de Assuntos Estratégicos.
+    1.2. Vale salientar que essa Secretaria Municipal foi criada no apagar das luzes do ano de 2016 pela Lei nº. 4.182/2016, publicada no dia 30 de dezembro de 2016, ficando evidente o propósito de acomodação do cônjuge da Prefeita reeleita.
+    1.3. Tal atitude conflita frontalmente com a Súmula Vinculante nº 13 deste Pretório Excelso, como aliás já vem sendo amplamente reconhecido por decisões monocráticas amplamente divulgadas na imprensa local, resultando daí o porquê da presente medida.” (grifei)
+    Sendo esse o contexto, passo ao exame do pedido formulado nesta sede reclamatória. E, ao fazê-lo, verifico a ocorrência, na espécie, de hipótese configuradora de perda superveniente de objeto da reclamação.
+    Com efeito, o Jornal Oficial Eletrônico dos Municípios do Estado de Mato Grosso, edição de 05 de abril de 2018, publicou, na página 467, o Ato nº 127/2018, da Senhora Prefeita Municipal de Várzea Grande, que exonerou, a pedido, Jayme Veríssimo de Campos do cargo em comissão de Secretário Municipal de Assuntos Estratégicos a partir de 04 de abril de 2018.
+    A ocorrência desse fato assume relevo processual, eis que faz instaurar, no caso, situação de prejudicialidade, apta a gerar a extinção desta ação reclamatória, em face da superveniente perda de seu objeto, conforme reconhecido pelo Ministério Público Federal, em parecer da lavra do ilustre Subprocurador-Geral da República Dr. CARLOS ALBERTO VILHENA.
+    Sendo assim, e tendo em consideração as razões expostas, julgo prejudicada a presente reclamação, em virtude da perda superveniente de seu objeto.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 04 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
