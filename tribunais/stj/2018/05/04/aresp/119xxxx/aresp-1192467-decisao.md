@@ -1,0 +1,35 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PENSÃO ESPECIAL DE EX-COMBATENTE. SOLDO EQUIVALENTE A DE SEGUNDO TENENTE. PRESCRIÇÃO DO FUNDO DE DIREITO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. ART. 4o. DA LEI 8.059/1990. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO EM RECURSO ESPECIAL DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pela UNIÃO, com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio TRF da 4a. Região, assim ementado:
+ADMINISTRATIVO. MILITAR. PENSÃO DE EX-COMBATENTE. CONDIÇÃO DE VIÚVA. PRESCRIÇÃO. SÚMULA 85.
+1) Reconhecida a prescrição da pretensão de recebimento das parcelas anteriores aos cinco anos do ajuizamento da presente ação (artigos 1o. e 2o. do Decreto 20.910/1932 e Súmula 85 do STJ).
+2) A concessão da pensão de ex-combatente regula-se pela legislação vigente na data do óbito do instituidor.
+3) Reconhecida a autora como viúva do ex-combatente, faz jus à concessão da pensão nos termos do art. 5o., inciso I, da Lei 8.059/1990.
+4) A pensão especial de ex- combatente somente é devida a partir do requerimento administrativo do interessado ou, no caso de ação judicial, a partir da citação (fls. 159).
+2. Opostos Embargos de Declaração por MARIA SCOZ LENZI (fls. 165/167).
+3. Em suas razões recursais sustenta a parte agravante violação dos arts. 1o., 9o. do Decreto 20.910/1932; 4o. da Lei 8.059/1990, aos seguintes fundamentos: (a) ocorrência a prescrição do fundo de direito, pelo fato de o pedido de reversão da pensão especial haver sido indeferido em 6.4.2009 e a ação ajuizada somente em 13.10.2014; (b) é vedada a cumulação de pensão de ex-combatente com quaisquer rendimentos recebidos dos cofres públicos, exceto os benefícios previdenciários.
+4. O Apelo Raro foi inadmitido pela Presidência do Tribunal de origem (fls. 229/230), sobrevindo a interposição de Agravo (fls. 239/243).
+5. É o relatório, em síntese. Decido.
+6. Inicialmente, quanto à alegação de ocorrência de prescrição do fundo de direito, o Tribunal de origem assim consignou:
+A autora sustenta que a Administração Militar fundamentou a negativa do pedido administrativo na impossibilidade de conceder administrativamente a pensão de ex- combatente, ante a ausência de trânsito em julgado no STJ de ação na qual o ex-militar buscava justamente o reconhecimento desta condição. Por este motivo, não se poderia aplicar a data da negativa da administração como termo inicial para contagem do prazo prescricional.
+De fato, a própria condição de ex-combatente do marido da autora estava sendo objeto de discussão no STJ, - Recurso Especial 917.795 - SC (2007/0012220-7) - motivo pelo qual foi negado administrativamente o pedido de pensão, pois não se poderia habilitar a autora como pensionista havendo pendência de ação judicial, ainda não transitada em julgado. Ademais, a negativa da administração em momento algum adentrou o mérito da possibilidade ou não do pagamento de pensão a autora, como bem referido nas razões de apelo.
+Entretanto, sobreveio trânsito em julgado daquela da ação no STJ em 31.10.2012, considerando que o autor preenchia a condição de ex-combatente e aplicou a prescrição qüinqüenal, na forma do art. 85. O acórdão foi assim ementado:
+(..).
+Tendo o militar falecido no curso daquela demanda - em 30.11.2008 - a autora formulou o requerimento administrativo para ver reconhecido seu direito à pensão do marido, ex-combatente.
+Portanto, tenho que existe, no caso, uma prejudicial de mérito na presente ação, pois não se pode decidir sobre pensão de ex-combatente se a própria condição de ex-combatente do instituidor da pensão estava sendo discutida judicialmente, em outra ação.
+Reconhecida naquela ação a condição de ex-combatente do autor e transitada em julgado a decisão, existem subsídios suficientes para decidir sobre o cabimento ou não da pensão de ex-combatente.
+Por este motivo, afasto a prescrição do fundo de direito, reconhecendo solvida questão prejudicial de mérito em relação a esta demanda, qual seja, a pendência de trânsito em julgado de ação na qual se buscava reconhecimento da condição de ex-combatente (fls. 154/155).
+7. Com efeito, os benefícios previdenciários envolvem relações de trato sucessivo e atendem necessidades de caráter alimentar, razão pela qual não se admite a tese de prescrição do fundo de direito, como sustentado pela parte agravante. As prestações previdenciárias tem características de direitos indisponíveis, daí porque o benefício previdenciário em si não prescreve, somente as prestações não reclamadas no lapso de cinco anos é que prescreverão, uma a uma, em razão da inércia do beneficiário. Incide, na hipótese, a Súmula 85/STJ. A esse propósito:
+ADMINISTRATIVO E PROCESSO CIVIL. EX-COMBATENTE. PARCELAS ATRASADAS. SÚMULA 85/STJ.
+1. O Superior Tribunal de Justiça entende que a pensão especial poderá ser requerida a qualquer tempo e, nessas hipóteses, a prescrição atingirá tão somente as prestações vencidas há mais de cinco anos da propositura da ação, por se tratar de relação jurídica de trato sucessivo, atraindo a incidência do enunciado 85 da Súmula do STJ. Todavia, na ausência de requerimento administrativo, o termo inicial do benefício deve ser fixado a partir da citação.
+2. Agravo Regimental não provido (AgRg no AREsp. 543.446/SC, Rel. Min. HERMAN BENJAMIN, DJe 9.12.2014).
+(..)
+2. É firme o entendimento do STJ de que a pensão especial de ex-combatente pode ser percebida cumuladamente com outro benefício de natureza previdenciária, desde que não tenham o mesmo fato gerador.
+3. Agravo Regimental não provido (AgRg no AgRg no
+8. Por fim, verifica-se que a matéria ventilada no art. 4o. da Lei 8.059/1990, a despeito da oposição dos Embargos de Declaração, não foi debatida pelo Tribunal de origem, aplicando-se, na espécie, o óbice da Súmula 211/STJ, por ausência de prequestionamento. Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. CUMULAÇÃO COM APOSENTADORIA. LEI 6.367/1976. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O debate proposto no Recurso Especial não foi apreciado pelo Tribunal de origem. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. Ademais, a instância de origem decidiu a controvérsia com fundamento no suporte fático-probatório dos autos. Desse modo, verifica-se que a análise da controvérsia demanda o reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: A pretensão de simples reexame de prova não enseja Recurso Especial.
+3. Recurso Especial não conhecido (REsp. 1.650.710/RJ, Rel. Min. HERMAN BENJAMIN, DJe 20.4.2017).
+9. Ante o exposto, nego provimento ao Agravo em Recurso Especial da UNIÃO.
+10. Publique-se. Intimações necessárias.
