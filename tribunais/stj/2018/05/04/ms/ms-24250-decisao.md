@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de concessão de medida liminar, impetrado pela Companhia de Água e Esgoto do Ceará - CAGECE, apontando como autoridade coatora o Ministro de Estado do Trabalho.
+A controvérsia pode ser sintetizada pelos seguintes trechos da exordial (fls. 2/4):
+ ..
+A impetrante está inscrita no Programa de Alimentação do Trabalhador - PAT.
+Aos seus empregados fornece vale-alimentação, que é administrado pela SODEXO PASS DO BRASIL SERVIÇOS E COMÉRCIO S/A. A relação entre as partes é regulada pelo contrato administrativo nº. 120/2017-DJU- CAGECE.
+O presente contrato foi precedido do Pregão Eletrônico nº. 20170092, Processo nº. 4458843/2017 (doc.04), no qual o critério de julgamento foi o menor valor da taxa de administração, sendo aceito o oferecimento de taxa zero ou negativa (item 16.1;
+16.2; 16.2.1 do edital de licitação), sendo consagrado vencedora a empresa Sodexo Pass do Brasil Serviços e Comércio S/A (doc.03).
+O objeto da licitação era serviço de administração, gerenciamento e fornecimento de vale alimentação e vale refeição que adjudicado à SODEXO PASS, haja vista que ofertou a taxa de administração igual a -4,71%, conforme Cláusula 5.3 do Contrato (doc.03).
+ ..
+O contrato administrativo nº. 120/2017-DJU- CAGECE celebrado com a SODEXO PASS, possui prazo de vigência de 12 meses podendo ser prorrogado por até 60 meses, assim o contrato foi assinado em 28/09/2017 tendo prazo até 28/09/2018, podendo haver prorrogações sucessivas.
+Em 28/12/2017, foi publicada a Portaria nº. 1.287/2017, de 27 de Dezembro de 2017, do Ministro de Estado do Trabalho (doc.05), que proíbe a exigência da cobrança de taxa administrativa negativa nos contratos firmados entre as empresas beneficiárias do Programa de Alimentação do Trabalhador (PAT) e as empresas operadoras dos vales alimentação e refeição  ..
+No dia 16/03/2018, a impetrante foi comunicada pela empresa contratada acerca da Nota Técnica nº.45/2018/DIPAT/CGFIP/DSST/SIT/MTB (doc.06) e requerendo a elaboração de aditivo ao contrato com o reequilíbrio da taxa de administração para adequação a Portaria nº. 1.287/2017  ..
+Do conteúdo do Comunicado e da Nota Técnica nº 45/2018 extrai-se a orientação, pautada no Regulamento de Inspeção do Trabalho (RIT), aprovado pelo decreto Presidencial nº 4.552 de 27.12.2002, que prevê que transcorridos 90 (noventa) dias da publicação da Portaria nº 1287/2017, as determinações nela contidas deverão ser imediatamente implementadas pelas empresas beneficiárias e contratadas, cadastradas no PAT, sob pena de sujeição às penalidades cabíveis, como lavratura de auto de infração, perda do incentivo fiscal previsto no art. 8º do Decreto nº 5/91, além do cancelamento da inscrição ou registro, previsto no art. 19 da Portaria nº 03/2002.
+A impetrante por sua vez está sendo compelida a modificar os termos do seu contrato administrativo nº. 120/2017-DJU- CAGECE celebrado com a SODEXO PASS, que encontra-se em vigor desde 18/09/2017 em razão da edição da Portaria nº. 1.287/2017, de 27 de Dezembro de 2017, do Ministro de Estado do Trabalho (doc.05), que está impondo a vedação da cobrança de taxas de serviço negativas às empresas beneficiárias dos serviços de administração e gerenciamento dos benefícios de auxílio alimentação, de forma imediata inclusive a contratos já celebrados em completa violação ao ato jurídico perfeito e ao princípio da irretroatividade das leis.
+ ..
+Nesse diapasão, a impetrante requer seja deferida medida liminar, para que seja suspensa a Portaria nº 1.287/2017, do Ministério do Trabalho. No mérito, requer a concessão da segurança, com a consequente suspensão definitiva da eficácia da citada portaria.
+É o relatório. Passo a decidir.
+O presente writ se volta contra ato normativo que veda, de modo genérico e abstrato, a cobrança, pelas empresas prestadoras, de taxas de serviço negativas às empresas beneficiárias do Programa de Alimentação do Trabalhador. Nesse contexto, incide, na espécie, a Súmula 266/STF, assim redigida: "Não cabe mandado de segurança contra lei em tese".
+Nessa linha de percepção, menciono as decisões monocráticas proferidas no MS 24.128/DF, Relator Ministro Benedito Gonçalves, DJe 19/4/2018; e no MS 24.195/DF, Relatora Ministra Regina Helena Costa, DJe 11/4/2018, ambas envolvendo o mesmo ato normativo impugnado por meio da presente impetração.
+Ante o exposto, denego o mandado de segurança, com base no art 6º, § 5º, da Lei nº 12.016/09.
+Publique-se.
