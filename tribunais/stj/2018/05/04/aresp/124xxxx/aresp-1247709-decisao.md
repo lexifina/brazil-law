@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. DIFERENÇA ACIONÁRIA. OMISSÃO NÃO CONFIGURADA. RAZÕES RECURSAIS DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por TELEFÔNICA BRASIL S.A. contra a decisão de fls. 426-428 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao seu recurso especial.
+O apelo nobre se insurgiu contra acórdão do Tribunal de Justiça do Estado de São Paulo, ementado às fls. 349-359 (e-STJ), nos seguintes termos:
+RECURSO - APELAÇÃO CÍVEL - TELEFONIA - CONTRATO DE PARTICIPAÇÃO FINANCEIRA E INVESTIMENTO TELEFÔNICO. Ação de Indenização de diferencial de participação acionária cumulada com pedido de exibição de documentos. 1. Prescrição. O direito à complementação de ações subscritas decorrentes de instrumento contratual firmado com sociedade anônima é de natureza pessoal, e, consequentemente, a respectiva pretensão prescreve nos prazos previstos nos arts. 177 do Código Civil/1916 ( 20 anos) e 205 do atual Código Civil (10 anos )" ( REsp nº 829.835/RS ). Prescrição verificada com relação ao coautor [NOME], e não com relação aos demais demandantes. Questão já apreciada anteriormente por esta Câmara Julgadora. 2. Nos contratos de participação financeira para aquisição de linha telefônica, o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização" ( Súmula nº 371 do Egrégio Superior Tribunal de Justiça ). Inadimplemento configurado. Complementação acionária devida com todos os consectários incidentes, inclusive dividendos. Decreto de extinção. Sentença mantida. Recurso de apelação não provido.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 375-381).
+Em suas razões de recurso especial, a parte insurgente indicou, além de divergência jurisprudencial, violação do disposto nos arts. 535, I e II, do CPC/1973, 884 do Código Civil. Alegou que, apesar da oposição de aclaratórios, o Tribunal estadual foi omisso quanto ao critério a ser utilizado para a apuração da indenização e ao termo inicial para a incidência da correção monetária. Sustentou, ademais, que, para ser calculada a diferença acionária, devem ser considerados os eventos acionários ocorridos entre a data de emissão das ações e o trânsito em julgado da fase de conhecimento do processo.
+Sem contrarrazões (e-STJ, fl. 425).
+O apelo nobre não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+No que tange à alegação de negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Observo, inicialmente, que a alegada omissão quanto ao termo inicial dos juros moratórios não foi suscitada nos aclaratórios opostos na origem, que versaram apenas sobre: a) a repercussão dos eventos societários no cálculo da diferença acionária; e b) pagamento de indenização referente a período no qual as acionistas não mais participavam da empresa.
+Considerando que a alegação de negativa de prestação jurisdicional deve ser precedida da oposição de embargos de declaração, sem cabimento a irresignação, no ponto.
+Por outro lado, verifica-se que o acórdão recorrido enfrentou a questão relativa ao critério de apuração da indenização nos seguintes termos (e-STJ, fl. 357):
+Nesse contexto, os autores tem direito a receber o valor correspondente em dinheiro à diferença entre as ações que recebeu na data da integralização do capital e as que lhes eram devidas, que será apurado em fase de liquidação do julgado.
+Ademais, instado a se manifestar sobre o assunto por meio dos embargos de declaração, assim se pronunciou a Corte estadual (e-STJ, fl. 380):
+Assim, decidido o mérito, ao finalizar, o Acórdão embargado remeteu a apuração das diferenças para a fase de liquidação de sentença.
+Com isso, toda os argumentos da embargante que envolvem a aferição dos valores pelo qual foi condenada, serão, à evidencia, analisados e decididos na faz de liquidação de sentença.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual não viola o artigo 1.022 do Código de Processo Civil de 2015 nem importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+Nesse sentido:
+RESPONSABILIDADE CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022, I E II, DO ATUAL CPC. AUSÊNCIA DE OMISSÕES. ABALROAMENTO DE VEÍCULOS CAUSADO POR EMPRESA DE ÔNIBUS. RESPONSABILIDADE OBJETIVA. FORTUITO INTERNO. LESÕES SOFRIDAS PELA VÍTIMA. DANO MORAL CONFIGURADO. REVISÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela alegada violação ao art. 1.022, I e II, do Novo CPC. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.042.632/RJ. Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 26/5/2017).
+Por fim, quanto ao valor da indenização, verifica-se dos excertos acima transcritos que a Corte estadual assentou que os respectivos critérios serão analisados e decididos na fase de liquidação de sentença.
+Ocorre que, nas razões do especial, a recorrente não infirmou o acórdão recorrido, mas, sim, limitou-se a defender que os eventos societários devem ser considerados no cálculo da diferença acionária. Logo, o argumento recursal está dissociado do fundamento da decisão recorrida, incidindo a Súmula 284/STF a obstar o conhecimento do recurso.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Publique-se.
