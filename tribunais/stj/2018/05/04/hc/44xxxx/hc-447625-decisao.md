@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], [NOME] e SILAS HENRIQUE DE OLIVEIRA contra decisão por meio da qual o Desembargador do Tribunal de Justiça do Estado de São Paulo indeferiu o writ pleiteado perante aquela instância, nos autos de n. 2075918-49.2018.8.26.0000 (e-STJ fls. 18/22).
+A defesa alega, em síntese, que a segregação cautelar é ilegítima, ante a ausência de indícios suficientes de autoria e de materialidade do delito, argumentando que o fato de a vítima ter apresentado prova potencialmente ilícita ou ilegítima à autoridade policial, conforme reconhecido pela decisão que determinou a soltura dos corréus Mirele e Nivaldo (e-STJ fls. 261/262 e 294/295), põe em xeque a veracidade da sua versão testemunhal, que serviu de base para a prisão preventiva dos três pacientes deste habeas corpus.
+Em liminar e no mérito, pede o relaxamento da prisão preventiva.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado (HC n. 318.415/SP, Rel. Min. REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/15, DJe 12/8/15).
+No caso destes autos, não há ilegalidade flagrante, abuso de poder ou teratologia a autorizar a concessão da ordem de ofício, haja vista que analisar a alegada fragilidade dos indícios de autoria e de materialidade demandaria incursão no acervo fático-probatório da causa, expediente vedado no âmbito do habeas corpus.
+É certo, de todo modo, que as questões suscitadas pela defesa serão tratadas oportunamente pela instância de origem, por ocasião do julgamento de mérito do mandamus, sem o qual esta Corte fica impedida de apreciar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Em resumo, entendo não configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula n. 691 do Supremo Tribunal Federal, resultando incabível a presente impetração.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente a petição inicial do presente habeas corpus.
+Publique-se. Intime-se.
+Cientifique-se o Ministério Público Federal.
