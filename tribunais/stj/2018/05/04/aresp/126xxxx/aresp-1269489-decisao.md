@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo interposto por [NOME] contra decisão proferida pelo Juízo Prévio de Admissibilidade, que inadmitiu seu recurso especial, ante o óbice da Súmula 83/STJ.
+Alega o agravante, em síntese, divergência jurisprudência quanto ao tema, inexistindo impedimento na propositura do recurso.
+Instado a se manifestar, o Ministério Público Federal ofertou parecer pelo acolhimento.
+É o relatório.
+Nas razões do apelo nobre, sustentou a defesa divergência jurisprudencial quanto ao marco para concessão dos benefício durante a execução, quando unificada a pena, asseverando que deve ser considerada a data da última prisão.
+Acerca do tema, este Superior Tribunal possuía entendimento pacificado no sentido de que, sobrevindo nova condenação ao apenado no curso do resgate da pena, interrompe-se o cômputo do prazo necessário à concessão dos benefícios da execução, passando a ser calculado a partir do somatório das penas restantes e tendo como termo a quo a data do trânsito em julgado da última sentença condenatória.
+Todavia, a Terceira Seção, nos autos do Habeas Corpus n. 381.248/MG, em julgamento realizado no dia 22 de fevereiro de 2018, por maioria, alterou o esse entendimento, para definir a data da última prisão como marco temporal a ser considerado para a verificação de existência de benefícios da execução penal.
+Naquela assentada, o Excelentíssimo Sr. Ministro Sebastião Reis Júnior, Relator para o acórdão, considerou-se que diante da inexistência de previsão legal para a alteração da data-base para a concessão de futuros benefícios da execução, em razão da unificação de penas, além da possibilidade de prisão cautelar, e, em especial, do entendimento do Supremo Tribunal Federal quanto à possibilidade de execução provisória da pena quando esgotadas as instâncias ordinárias, a desconsideração do tempo de prisão antes do trânsito em julgado da nova condenação acarretaria evidente excesso de execução.
+Destarte, a orientação do Tribunal de origem para que, "procedendo-se a unificação das penas no curso da execução penal, com a inclusão de nova condenação, deve ser fixada como marco inicial para a concessão de futuros benefícios, inclusive para o livramento condicional, a data da publicação da última condenação" (fl.73), diverge do novel entendimento firmado por esta Corte Superior.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial, nos termos do artigo 253, parágrafo único, inciso II, alínea c, do Regimento Interno do Superior Tribunal de Justiça, para definir a data da última prisão como marco temporal a ser considerada para a verificação de existência de benefícios da execução penal.
+Publique-se e intimem-se.
+Cientifique-se o Ministério Público Federal.
