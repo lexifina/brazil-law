@@ -1,0 +1,34 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da 9ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC 5, p. 33):
+    “DIREITO CONSTITUICIONAL. DIREITO ADMINISTRATIVO. UTILIZAÇÃO DE AGUA DE LENÇOL FREATICO. LOCAL PROVIDO DE ABASTECIMENTO PÚBLICO. OUTORGA DA AUTORIDADE COMPETENTE. PROIBIÇÃO DA UTILIZAÇÃO DE ÁGUA PROVIDA POR SISTEMA ALTERNATIVO PARA CONSUMO E HIGIENE HUMANA. DECRETO ESTADUAL 40.156/2006. LIMITES DO PODER REGULAMENTAR. ILEGALIDADE. COMPROVAÇÃO DA POTABILIDADE DA ÁGUA. ABSTENÇÃO DE INTERDIÇÃO DE POÇO ARTESIANO. Compete privativamente à União legislar sobre os critérios gerais de outorga de direitos do uso da água, não cabendo ao Estado inovar em matéria de âmbito federal. Da leitura das disposições da Lei 9.433/97 e da Lei Estadual n° 3.239/99, que tratam da matéria, não se verifica qualquer restrição de uso de recursos hídricos alternativos para o consumo e higiene humana. O art. 11 do Decreto Estadual n° 40.156/2006, quando condiciona a eficácia das outorgas as exigências constantes de seus dispositivos e proíbe a utilização da água provida pelo sistema alternativo para consumo e higiene humana (inciso IV), está extrapolando os limites do seu poder regulamentar. Sentença correta. Manutenção. Conhecimento e desprovimento do recurso.”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 24, VI, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma:
+    “15. (...) a decisão recorrida incorre em flagrante violação ao preceito do art. 24, VI, da CF/88 que determina que a competência é concorrente dos entes federados para dispor acerca de seus recursos naturais.
+    (...)
+    17. Registra, ainda, que as águas subterrâneas são bens dos Estados-membros, sendo legítima, em regra, a sua cobrança, na forma do art. 26, I da CF. Sendo assim, tem o poder de conceder outorga ou não à utilização de águas adquiridas através de fontes alternativas...” (eDOC 5, p. 88)
+    A Terceira Vice-Presidência do TJ/RJ inadmitiu o recurso mediante aplicação das Súmulas 284 e 279 do STF (eDOC 6, pp. 7-13).
+    Em 4.12.2017, abri vista dos autos à Procuradoria-Geral da República, a qual se manifestou por meio de parecer assim ementado (eDOC 9):
+    “Recurso Extraordinário com Agravo. Uso de fontes alternativas de água. Lençol freático. Competência para legislar e regulamentar. Análise de legislação infraconstitucional. Questão constitucional indireta. Parecer pelo desprovimento do agravo.”
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, assim asseverou (eDOC 5, p. 39/40):
+    “Assim, sendo da competência privativa da União legislar sobre os critérios gerais de outorga de direitos do uso da água, não cabe ao Estado inovar em matéria de âmbito federal.
+    Conforme referido acima, da leitura das disposições da Lei 9.433/97, bem como da Lei Estadual nº 3.239/99, que tratam da matéria, não se verifica qualquer restrição de uso de recursos hídricos alternativos para o consumo e higiene humana.
+    Assim, quando o art. 11 do Decreto Estadual nº 40.156/2006, além de condicionar a eficácia das outorgas as exigências constantes de seus dispositivos, proíbe a utilização da ague provida pelo sistema alternativo para consumo e higiene humana (inciso IV), está extrapolando os limites do seu poder regulamentar.
+    (…)
+    Com efeito, o decreto regulamentar é ato normativo secundário, cujo fundamento de validade é lei, ato normativo primário. Assim, seus limites são ditados pela lei que visa regular, no caso, a Lei Estadual n° 3.239/99 que, a seu turno, não apresenta qualquer vedação ao uso de recurso hídricos para a finalidade de consumo ou higiene humana.
+    Por fim, a Lei n° 11.445/2007, que trata do saneamento básico, apesar de dispor que a instalação hidráulica predial ligada à rede pública de abastecimento de água não poderá ser também alimentada por outras fontes, faz expressa ressalva, permitindo regulamentações diferentes por parte dos titulares dos serviços públicos de saneamento básico.
+    (…)
+    Na hipótese, tal autorização já é dada pela legislação estadual, mediante outorga, razão pela qual, tal dispositivo não pode servir de fundamento para o decreto estadual, mormente quando o mesmo foi editado em data anterior a entrada em vigor da referida Lei.”
+    Na espécie, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Leis Federais 9.433/1997 e 11.445/2007, Lei Estadual 3.239/1999 e Decreto Estadual 40.156/2006). Desse modo, a discussão referente à possibilidade de restrição de uso de recursos hídricos alternativos para o consumo e higiene humana, bem como o exame de possível ofensa à competência legislativa estadual, revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Ademais, a jurisprudência desta Corte possui entendimento pacificado no sentido de que caracteriza típica crise de legalidade, e não de constitucionalidade, a discussão acerca de eventual extravasamento, pelo ato regulamentar, dos limites a que materialmente deveria estar adstrito.
+    Confira-se, a propósito, o seguinte acórdão:
+    “ADIN - SISTEMA NACIONAL DE DEFESA DO CONSUMIDOR (SNDC) - DECRETO FEDERAL N. 861/93 - CONFLITO DE LEGALIDADE - LIMITES DO PODER REGULAMENTAR - AÇÃO DIRETA NÃO CONHECIDA.
+    - Se a interpretação administrativa da lei, que vier a consubstanciar-se em decreto executivo, divergir do sentido e do conteúdo da norma legal que o ato secundário pretendeu regulamentar, quer porque tenha este se projetado ultra legem, quer porque tenha permanecido citra legem, quer, ainda, porque tenha investido contra legem, a questão caracterizará, sempre, típica crise de legalidade, e não de inconstitucionalidade, a inviabilizar, em conseqüência, a utilização do mecanismo processual da fiscalização normativa abstrata.
+    - O eventual extravasamento, pelo ato regulamentar, dos limites a que materialmente deve estar adstrito poderá configurar insubordinação executiva aos comandos da lei. Mesmo que, a partir desse vício jurídico, se possa vislumbrar, num desdobramento ulterior, uma potencial violação da Carta Magna, ainda assim estar-se-á em face de uma situação de inconstitucionalidade reflexa ou oblíqua, cuja apreciação não se revela possível em sede jurisdicional concentrada.” (ADI 996-MC, Rel. Min. Celso de Mello, Plenário, DJ de 6.5.1994)
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a e b, do CPC.
+    Publique-se.
+    Brasília, 4 de maio de 2018.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
