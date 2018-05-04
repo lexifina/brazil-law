@@ -1,0 +1,41 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENSINO SUPERIOR. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INVERSÃO DO JULGADO. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. PEDIDO DE REDUÇÃO DO VALOR DA INDENIZAÇÃO POR DANOS MORAIS, FIXADA EM R$ 8.000,00. RAZOABILIDADE. AGRAVO EM RECURSO ESPECIAL DA ASSOCIAÇÃO EDUCACIONAL NOVE DE JULHO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto pela ASSOCIAÇÃO EDUCACIONAL NOVE DE JULHO com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+EMENTA: PRESTAÇÃO DE SERVIÇOS. REPARAÇÃO POR DANOS MATERIAIS E MORAIS. 1. Cabe a ré demonstrar a ocorrência de fatos modificativos, impeditivos ou extintivos do direito da autora. Aplicação do artigo 333, II do CPC/73. 2. Comprovado que os transtornos sofridos pela autora geraram inconteste abalo moral, justifica-se a reparação do dano daí decorrente e oriundo do agir indiligente da ré. 3. Na fixação da indenização pelo dano moral cabe ao juiz nortear-se pelo princípio da razoabilidade, estabelecendo-a em valor nem tão grande que se converta em fonte de enriquecimento, nem tão pequena que se torne inexpressiva. Recurso da ré desprovido, provido em parte o apelo da autora para condenar a demandada ao pagamento de indenização por danos morais no valor de RS 8.000,00 (oito mil reais) (fls. 179).
+2. No Recurso Especial, aduziu-se violação dos arts. 44 e 53 da Lei 9.394/1996; e dos arts. 186, 188, 927 e 944 do CC. Sustenta, em síntese, que agiu no exercício regular de direito e que a conduta da parte recorrente foi lícita, não havendo se falar em danos morais. Aduz, ainda, que a verba indenizatória a título de danos morais foi fixada em patamar exorbitante.
+3. Inadmitido o Recurso Especial às fls. 214/215, sobreveio o Agravo de fls. 218/221.
+4. É o relatório do essencial.
+5. A irresignação não merece prosperar.
+6. Na hipótese dos autos, o Tribunal de origem consignou:
+De plano, cumpre apreciar o apelo da ré. Neste passo, temos que a recusa em expedir o diploma por parte da instituição de ensino não encontra amparo no conjunto probatório formado nos autos.
+(..).
+Assim, deve ser reconhecida a validade da documentação apresentada pela aluna, de modo que cabe a instituição ré fornecer os certificados de conclusão do curso, sendo de rigor a procedência do pedido formulado.
+A afirmação de que a aluna não cumpriu com as determinações legais e que a ré agiu em estrito cumprimento do seu dever legal não encontram amparo nos autos. E, como é cediço, o ônus da prova incumbe ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor (CPC/2015, art. 373, II).
+(..).
+Assim, o réu não demonstrou que a autora descumpriu a obrigação que lhe cabia.
+Com relação aos danos morais perseguidos pela autora, respeitado o entendimento da ilustre magistrada sentenciante temos que não estamos diante de caso de meros aborrecimentos.
+Ora, certo que a autora ingressou no curso oferecido pela ré no ano de 2008 tendo concluído a graduação em 2010, e, a partir de então não conseguiu obter os documentos que comprovam a conclusão do curso.
+Inegável o abalo moral sofrido pela autora, ao ver o seu sonho de obtenção de diploma de curso superior com tantos obstáculos impostos por conta da conduta indevida da ré.
+Dessa forma, merece ser ressarcida pelos danos e infortúnios sofridos, restando claro está que os transtornos sofridos ultrapassam o mero dissabor, gerando inconteste abalo moral e justificando a reparação do dano daí decorrente e oriundo do agir indiligente da ré.
+Quanto ao montante a ser arbitrado, temos que na fixação da indenização pelo dano moral, como já tivemos a oportunidade de decidir1, cabe ao juiz nortear-se pelo princípio da razoabilidade, para não aviltar a pureza essencial do sofrimento que é do espírito, evitando a insignificância que o recrudesce ou o excesso que poderia masoquisá-lo.
+(..).
+Assim, levando-se em consideração as circunstâncias do caso concreto, com as repercussões pessoais e sociais e os inconvenientes suportados pela autora, seu nível socioeconômico, e, ainda o porte da instituição recorrente, a indenização por danos morais deve ser arbitrada em R$ 8.000,00 (oito mil reais), valor este suficiente para confortar o abalo indevidamente experimentado pela autora e, ao mesmo tempo, desestimular a conduta indiligente da ré (fls. 180/182).
+7. Nesse contexto, tendo o Tribunal de origem, diante das circunstâncias fáticas dos autos, concluído pela validade da documentação apresentada pela autora e que caberia a ré fornecer os certificados de conclusão de curso, bem como que a ré não demonstrou a existência de nenhum fato impeditivo, modificativo ou extintivo do direito da autora, é inviável o acolhimento das alegações deduzidas no Apelo Nobre, porquanto demandaria a incursão no acervo fático-probatório da causa, medida vedada em sede de Recurso Especial.
+8. No tocante ao valor danos morais, o quantum fora determinado em razão das peculiaridades do caso concreto, levando em consideração o grau da lesividade da conduta ofensiva e a capacidade econômica da parte pagadora, a fim de cumprir dupla finalidade: amenização da dor sofrida pela vítima e punição do causador do dano, evitando-se novas ocorrências.
+9. Assim, a revisão do valor a ser indenizado somente é possível quando exorbitante ou irrisória a importância arbitrada, em violação dos princípios da razoabilidade e da proporcionalidade, o que não se observa in casu diante da quantia fixada pelo Tribunal a quo em R$ 8.000,00.
+10. Por fim, o Recurso Especial foi interposto já na vigência do CPC/2015. Desse modo, mostra-se evidente o direito à majoração dos honorários sucumbenciais recursais.
+11. Tendo em vista o disposto no art. 85, § 11 do CPC/2015 e o Enunciado 241 do Fórum Permanente de Processualistas Civis, os honorários de sucumbência recursal serão somados aos honorários pela sucumbência em primeiro grau, observados os limites legais. Assim, fixam-se os honorários recursais em 1% sobre o proveito econômico, que deverão ser acrescidos ao montante total. Precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. DOCUMENTO NOVO. NÃO CARACTERIZAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. APLICAÇÃO. MULTA.
+(..).
+4. Nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC (Enunciado Administrativo 7 do Plenário do STJ).
+5. Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa (art. 1.021, § 4o, do CPC/2015).
+6. Agravo interno desprovido, com a majoração da verba honorária e aplicação de multa (AgInt no AREsp. 236.269/SC, Rel. Min. GURGEL DE FARIA, DJe 20.10.2016).
+
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ONEROSIDADE EXCESSIVA. TEORIA DA IMPREVISÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO. INCIDÊNCIA DA SÚMULA 7 DO STJ. REVALORAÇÃO DAS PROVAS. HIPÓTESE NÃO CONFIGURADA. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC/15.
+(..).
+3. O § 11 do art. 85 do Código de Processo Civil de 2015 tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos provenientes de decisões condenatórias antecedentes.
+4. Atendidos os limites legais dos §§ 2o e 3o do art. 85 do CPC/15, a majoração da verba honorária a título de honorários recursais é medida que se impõe.
+5. Agravo interno conhecido e desprovido (AgInt no AREsp. 196.789/MS, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe 18.8.2016).
+12. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial da ASSOCIAÇÃO EDUCACIONAL NOVE DE JULHO.
+13. Em observância ao disposto no art. 85, § 11 do CPC/2015, fixam-se os honorários recursais em 1% sobre o proveito econômico do presente recurso.
+14. Publique-se. Intimações necessárias.
