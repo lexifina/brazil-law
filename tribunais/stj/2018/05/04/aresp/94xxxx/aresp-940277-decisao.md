@@ -1,0 +1,35 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. CDA. REQUISITOS LEGAIS. ALEGAÇÃO DE QUE A CDA NÃO PREENCHE OS REQUISITOS DE VALIDADE, CERTEZA E LIQUIDEZ, QUE FOI RECHAÇADA PELO TRIBUNAL A QUO, COM BASE NO EXAME DE FATOS E PROVAS. PRETENSÃO RECURSAL INVIÁVEL, ANTE A NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo BANCO DO BRASIL S/A, com fundamento nas alíneas a e c do art. 105, III, da CF, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de Sergipe, assim ementado:
+Tributário e Processo Civil - Embargos à Execução Fiscal. ISS. Nulidade da CDA. Não configurada. Art. 202 do CTN. Preenchimento dos requisitos de validade da CDA. Indicação do fato gerador nos itens 15.01 a 15.18 da lista de serviços da LC 116/2003. Prévio procedimento administrativo. Observância do contraditório e da ampla defesa. Laudo pericial que confirma a regularidade do crédito tributário. Desnecessidade de realização de nova perícia. Supressão de instância. Inocorrência. Incidência do disposto no art. 515, caput e §§1º e 2º do CPC. Reforma da sentença. Inversão do ônus sucumbencial.
+I - Não prevê o art. 202 do CTN a necessidade de descrição do fato gerador como requisito de validade da CDA, estando preenchidos os requisitos de validade da CDA, a qual indica a origem, qual seja, o recolhimento a menor do ISS, e a natureza do crédito, mencionando a disposição da lei em que se funda;
+II - Ademais, embora não discriminado o exato serviço tributado, houve um procedimento administrativo constitutivo do crédito, com a devida notificação do apelado e oportunização de conhecimento e oferecimento de impugnação, pelo que restam observados os princípios do contraditório e da ampla defesa;
+III - A pretensão do Apelado de se realizar nova perícia para determinar se os serviços objeto de cobrança do tributo se enquadram na lista de serviços prevista na Lei Complementar 116/2003 já foi alcançada pela preclusão, uma vez que, não bastasse já ter sido produzida a aludida prova técnica, o Juízo a quo indeferiu o pedido de seu refazimento, decisão esta que não foi objeto de qualquer recurso pelo Apelado;
+IV - Também não se mostra adequado o pedido formulado pelo Apelado de remessa dos autos para o Juízo de origem para que se manifeste a respeito das matérias não enfrentadas haja vista o disposto no art. 515, caput e §§1º e 2º, do CPC, que tratam do efeito devolutivo do Recurso de Apelação;
+V - Com a reforma da sentença, impõe-se a inversão do ônus de sucumbência a fim de adequá-lo ao que prevê o art. 20 do CPC;
+VI - Apelo conhecido e provido (fls. 330).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 1.481/1.486).
+3. Nas razões de seu Apelo Nobre inadmitido, alegou a parte recorrente, além de divergência jurisprudencial, violação dos arts. 463 e 535, I e II do CPC, porquanto a Corte de origem não teria se manifestado sobre questões relevantes ao deslinde da controvérsia; sustentou, ainda, ofensa ao art. 2o., § 5o., III e § 6o. da Lei 6.830/1980 e ao art. 202 do CTN, defendendo, em suma, a nulidade da CDA, em razão da ausência de requisitos formais de validade.
+4. Com contrarrazões (fls. 1.394/1.400), o recurso foi inadmitido na origem (fls. 1.405/1.408).
+5. É o relatório. Decido.
+6. O inconformismo não merece acolhimento.
+7. Preliminarmente, não se vislumbra qualquer vício na prestação jurisdicional, pelo Tribunal a quo, visto que a lide foi resolvida nos limites necessários e com a devida fundamentação, ainda que sob ótica diversa daquela almejada pela parte recorrente.
+8. Destaca-se, ainda, que, tendo encontrado motivação suficiente para fundar a decisão, não fica o Órgão Julgador obrigado a responder, um a um, os questionamentos suscitados pelas partes, mormente quando desinfluentes para a solução da lide ou se notório o caráter de infringência do julgado. Nesse sentido: AgRg no AREsp. 12.346/RO, Rel. Min. ARNALDO ESTEVES LIMA, DJe 26.8.2011.
+9. Quanto à nulidade da CDA, o acórdão recorrido não merece reparo. Consoante tem entendido esta Corte Uniformizadora, o enfrentamento de questão relacionada à verificação da liquidez e certeza da Certidão de Dívida Ativa - CDA demanda, necessariamente, o revolvimento do acervo fático-jurídico dos autos, o que encontra óbice na Súmula 7 do STJ. É o caso dos autos, porquanto, contrastando as alegações do recorrente com a legislação que estabelece os requisitos de validade da CDA, entendeu o Tribunal a quo que o título executivo em comento cumpriu os requisitos necessários à sua constituição válida.
+10. Confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CDA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. CDA. REQUISITOS DE VALIDADE. REEXAME DE PROVA. SÚMULA 7/STJ. COBRANÇA DE JUROS E MULTA. INDICAÇÃO DA LEGISLAÇÃO NA CDA. NULIDADE. INOCORRÊNCIA. DESNECESSIDADE DA JUNTADA DO PROCESSO ADMINISTRATIVO. MULTA. CARÁTER CONFISCATÓRIO. INOVAÇÃO DE FUNDAMENTO. AGRAVO IMPROVIDO.
+(..).
+2. A questão relacionada à verificação da liquidez e certeza da Certidão de Dívida Ativa - CDA, bem como ao preenchimento dos seus requisitos de validade, implica, para o seu deslinde, o reexame do conjunto fático-probatório constante dos autos, vedado na instância excepcional.
+3. Indicada na Certidão de Dívida Ativa - CDA a legislação em que se funda a cobrança da multa e dos juros, não há falar em nulidade do título executivo fiscal.
+(..).
+6. Agravo regimental improvido (AgRg no Ag 1.308.488/MG, Rel. Min. HAMILTON CARVALHIDO, DJe 2.9.2010).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ART. 544 DO CPC. TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CABIMENTO. ALEGADA NULIDADE DA CDA. AUSÊNCIA DE PROCESSO ADMINISTRATIVO FISCAL. SÚMULA No. 07/STJ. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. DECADÊNCIA DO DIREITO DE O FISCO CONSTITUIR O CRÉDITO TRIBUTÁRIO. TERMO INICIAL. ARTIGO 173, I, DO CTN. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ARTIGO 543-C, DO CPC.
+(..).
+5. A CDA quando demanda análise de seus requisitos implica exame de matéria fático-probatória, providência inviável em sede de Recurso Especial. Aplicação da Súmula 07/STJ. O Tribunal de Apelação é soberano no exame dos fatos e provas nos quais a lide se alicerça. Tendo decidido a Eg. Corte Estadual que A Certidão da Dívida Ativa (fls. 03 do apenso) preenche os requisitos legais (art. 2o., § 6o. da Lei no. 6.830/80 c/c art. 202 do CTN)(ACno. 170.654.5/9- v.u. j. de 11.08.03 - de que fui relator), não cabe ao Superior Tribunal de Justiça o reexame dessa inferência.
+(..).
+9. Agravo regimental desprovido (AgRg no Ag 1.199.147/SC, Rel. Min. LUIZ FUX, DJe 30.6.2010).
+11. No tocante à interposição do Apelo Especial pela alínea c, do permissivo constitucional, verifica-se que não foram atendidas as exigências do art. 541 do CPC e 255 do RISTJ.
+12. Ante o exposto, nega-se provimento ao Agravo.
+13. Publique-se.
+14. Intimações necessárias.
