@@ -1,0 +1,28 @@
+DECISÃO
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECUSO ESPECIAL. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. DIREITO ÀS PARCELAS ANTERIORES AO QUINQUÊNIO QUE PRECEDEU O AJUIZAMENTO DA AÇÃO. ENTENDIMENTO JURISPRUDENCIAL DO STJ CONSOLIDADO. SÚMULA 85/STJ. RECURSO ESPECIAL DO INSS A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pelo INSS, com fundamento na alínea a do art. 105, III da Constituição Federal, que objetiva a reforma do acórdão do Tribunal de origem.
+2. Nas razões do Apelo Nobre, sustenta o recorrente violação dos arts. 535 do CPC; bem como 35 e 37 da Lei 8.213/91, aos seguintes fundamentos: (a) o acórdão recorrido, a despeito da oposição de Embargo de Declaração, permaneceu omisso; e (b) impossibilidade da prescrição quinquenal das parcelas anteriores ao ajuizamento da presente ação.
+3. É o relatório. Decido.
+4. No tocante ao art. 535 do CPC, inexiste a violação apontada. O Tribunal a quo apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+5. Quanto ao mais, é firme o entendimento desta Corte Superior de que, nas relações jurídicas de trato sucessivo, como ocorre in casu, as parcelas vencidas no quinquênio anterior à propositura da ação e/ou do requerimento administrativo são atingidas pela prescrição, nos termos da Súmula 85/STJ.
+6. A propósito, os seguintes julgados:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENSÃO POR MORTE. PRESCRIÇÃO. SÚMULA 85/STJ. REQUERIMENTO ADMINISTRATIVO. SUSPENSÃO DO PRAZO PRESCRICIONAL.
+1. A existência de requerimento administrativo suspende a contagem do prazo prescricional, que só se reinicia após a decisão final da Administração. Precedentes.
+2. A pensão por morte possui por termo inicial a data do requerimento administrativo e não o falecimento do autor.
+3. Agravo Regimental improvido (AgRg no REsp. 1.103.130/SC, Rel. Min. NEFI CORDEIRO, DJe 27.4.2015).
+
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIOS. RENDA MENSAL INICIAL. ART. 103 DA LEI N.º 8.213/91. ALTERAÇÃO LEGISLATIVA. PRAZO DECADENCIAL. APLICAÇÃO ÀS SITUAÇÕES JURÍDICAS CONSTITUÍDAS A PARTIR DA NOVA REDAÇÃO DADA PELA MEDIDA PROVISÓRIA N.º 1.523/97. PRESCRIÇÃO DE TRATO SUCESSIVO. APLICAÇÃO DA SÚMULA N.º 85 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ACÓRDÃO RECORRIDO. FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. IMPOSSIBILIDADE DE DISCUSSÃO NA VIA ELEITA. APLICAÇÃO CONJUGADA DA LEI N.º 6.950/81 COM O ART. 144 DA LEI N.º 8.213/91. POSSIBILIDADE. PRECEDENTES. PRETENSÃO DE PREQUESTIONAR DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE NA VIA ESPECIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o prescrito no art. 543-B do Código de Processo Civil, o sobrestamento do feito apenas deverá ser cogitado por ocasião do exame de eventual recurso extraordinário a ser interposto contra decisão desta Corte.
+2. A Medida Provisória n.º 1.523, de 27 de junho de 1997, instituiu um prazo decadencial para o ato de revisão dos benefícios e, não prevendo a retroação de seus efeitos, somente deve atingir os benefícios previdenciários concedidos após o advento do aludido diploma legal.
+3. Tratando-se de revisão de benefícios previdenciários, a prescrição atinge tão-somente as prestações vencidas no qüinqüênio anterior ao ajuizamento da ação, por caracterizar-se como relação jurídica de trato sucessivo, ou seja, renova-se periodicamente, mês a mês.
+4. A Corte de origem decidiu a controvérsia acerca do direito ora vindicado sob enfoque eminentemente constitucional, motivo pelo qual não se mostra possível a revisão do julgado na via do apelo nobre, destinada à uniformização da interpretação do direito federal.
+5. A Terceira Seção - na assentada do dia 14/12/2011, no julgamento do EREsp 1.241.750/SC (DJe de 29/03/2012), relatado pelo eminente Ministro GILSON DIPP, revendo a jurisprudência deste Superior Tribunal de Justiça, alinhou-a no sentido de que, "reconhecido o direito adquirido, como postulado, ao cálculo da RMI em data anterior ao advento da sistemática instituída pela Lei n.º 7787/89 e, tendo sido o benefício concedido no denominado "Buraco Negro", não se pode negar a possibilidade de aplicação do citado art. 144 que, por sua vez, determina a realização do novo cálculo da RMI, do benefício agora em manutenção, de acordo com as regras estabelecidas na Lei nº 8.213/91, inclusive com a incidência dos limitadores instituídos pelo novo regime de cálculo."
+6. A esta Corte é vedada a análise de dispositivos constitucionais em sede de recurso especial, ainda que para fins de prequestionamento, sob pena de usurpação da competência da Suprema Corte.
+7. Agravo regimental desprovido. (AgRg no REsp 1.231.826/PR, Rel. Min. LAURITA VAZ, DJe 13.8.2012)
+
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. ADMINISTRATIVO. GRATIFICAÇÃO POR TITULAÇÃO. DECRETO-LEI 20.910/32. PRESCRIÇÃO. NÃO OCORRÊNCIA. SÚMULA 85/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nas relações de trato sucessivo, a prescrição que incide é aquela prevista na Súmula 85/STJ.
+2. Sendo a Lei Complementar n. 16 de 28 de dezembro de 1994 - fato pelo qual se originou o direito, o requerimento administrativo, que suspende o prazo prescricional, no presente caso, protocolado em março de 1998, e a resposta da Administração Pública dada somente em março de 2003, não há falar-se em prescrição das parcelas compreendidas entre março de 1995 e julho de 2000.
+3. Agravo regimental improvido (AgRg no REsp. 903.063/SE, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 30.8.2010).
+7. Com essas considerações, nega-se seguimento ao Recurso Especial do INSS.
+8. Publique-se. Intimações necessárias.
