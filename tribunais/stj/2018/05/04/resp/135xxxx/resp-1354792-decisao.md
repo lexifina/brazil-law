@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSUAL. VIOLAÇÃO DO ART. 535 DO CPC/1973 CONFIGURADA. OMISSÃO OCORRIDA NO ACÓRDÃO DE ORIGEM E NÃO SANADA PELO TRIBUNAL DE ORIGEM NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL PROVIDO PARA, ANULANDO O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO, DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM, A FIM DE QUE SUPRA O VÍCIO INDICADO.
+1. Trata-se de Recurso Especial interposto por CONSTRUTORA LIX DA CUNHA S.A. E OUTROS contra acórdão do TRF da 3a. Região assim ementado:
+PROCESSO CIVIL - AÇÃO CAUTELAR - JULGAMENTO DA AÇÃO PRINCIPAL - PERDA DE OBJETO - HONORARIOS ADVOCATICIOS - CONDENAÇÃO INDEVIDA.
+- A solução da controvérsia no processo principal esvazia o conteúdo da pretensão cautelar, exsurgindo a ausência de interesse processual das autoras.
+- Tendo em vista o julgamento simultâneo da ação principal, há que se reconhecer a perda do objeto da presente cautelar.
+- Extinta a cautelar pela perda do objeto, indevida a condenação em honorários advocatícios (fls. 336).
+2. Aos Embargos de Declaração opostos, negou-se provimento.
+3. Em seu Apelo Nobre, fundado no art. 105, III, a da Constituição Federal, a recorrente alega ofensa dos arts. 535, 807 e 475, § 2o. do CPC/1973, asseverando que (a) o Tribunal de origem não se posicionou sobre questões essenciais ao deslinde da controvérsia; (b) a Medida Cautelar remanesce vigente enquanto não transitar em julgado o processo principal; e (c) não cabe Reexame Necessário quando o valor da causa não exceder sessenta salários mínimos.
+4. Apresentadas Contrarrazões (fls. 392/404), sobreveio juízo positivo de admissibilidade recursal.
+5. É o relatório. Decido.
+6. Quanto à alegação de violação do art. 535 do CPC/1973, por vício de omissão não suprido pelo Tribunal de origem, adianta-se que a irresignação merece prosperar.
+7. Prefacialmente, é bem verdade que, por um lado, o Julgador não é obrigado a se debruçar sobre todas as teses levantadas pelas partes, respondendo, um a um, os argumentos nelas deduzidos, estando vinculado apenas ao imperativo constitucional da fundamentação suficiente para a efetiva solução da controvérsia.
+8. Lado outro, dúvida não há de que, constatados vícios de omissão, contradição ou obscuridade no julgado - expressamente ventilados pelo Recorrente em sede de Embargos de Declaração, e cuja elucidação é indispensável ao deslinde da controvérsia -, impõe-se a manifestação do órgão julgador, sob pena de nulidade do julgado.
+8. Na vertente hipótese, a leitura atenta dos autos revela a ocorrência de omissão do Aresto que apreciou os Embargos Aclaratórios. Isso porque, diante da extinção do processo sem resolução, a parte sucumbente questionou o cabimento de Reexame Necessário quando o valor da causa não exceder a 60 salários mínimos, nos termos do § 2o. do art. 475 do CPC/1973.
+9. Como consequência, verifica-se essencial para a inteira prestação jurisdicional que o órgão julgador a quo aprecie os pontos indicados nos Aclaratórios, sanando os vícios em referência. Todavia, ao rejeitar os Aclaratórios, de fato, incorreu em violação do art. 535, I do CPC, o que resulta em declaração de nulidade do acórdão de aclaratórios da Corte Regional.
+10. Por ter o acórdão recorrido deixado de sanar os vícios constatados no acórdão de fls. 236/243, e tendo a parte recorrente alegado violação ao art. 535 do CPC, merece prosperar o presente recurso para anular o acórdão proferido nos Embargos de Declaração, determinando-se o retorno dos autos ao Tribunal de origem para completa prestação jurisdicional.
+11. Diante dessas considerações, dá-se provimento ao Recurso Especial para anular o Acórdão proferido nos Embargos de Declaração e determinar o retorno dos autos ao Tribunal Regional Federal da 3a. Região, a fim de que sejam sanados os vícios acima explicitados, como entender de direito.
+12. Publique-se. Intimações necessárias.
