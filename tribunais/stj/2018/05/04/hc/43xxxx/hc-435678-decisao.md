@@ -1,0 +1,20 @@
+DECISÃO
+[NOME] [NOME] DE OLIVEIRA COSTA e SILVA FELIX FERREIRA alegam sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (Apelação n. 1.0024.15.224029-7/001).
+Narra a impetração que as paciente foram condenadas por incursão no art. 157, § 3º c/c o art. 14, II, ambos do CP. A Defensoria Pública requer a desclassificação do crime de latrocínio na forma tentada para o de roubo majorado, pois "a conduta não resultou, para a vítima, morte nem lesões corporais de natureza grave" e o "latrocínio na modalidade preterdolosa não admite a tentativa, somente sendo responsabilizado o agente por tal delito quando da conduta culposa resultar morte da vítima ou lesões corporais de natureza grave, o que não se deu no presente caso" (fl. 10).
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Quanto ao crime de latrocínio na forma tentada, ambas as Turmas que compõem a Terceira Seção deste Superior Tribunal são firmes em assinalar que está configurado o crime de tentativa de latrocínio quando há dolo de subtrair e dolo de matar. Confira-se:
+ ..  "embora haja discussão doutrinária e jurisprudencial acerca de qual delito é praticado quando o agente logra subtrair o bem da vítima, mas não consegue matá-la, prevalece o entendimento de que há tentativa de latrocínio quando há dolo de subtrair e dolo de matar, sendo que o resultado morte somente não ocorre por circunstâncias alheias à vontade do agente" (Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/4/2013, DJe 8/5/2013).
+ ..
+(HC n. 315.576/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 12/3/2018).
+Confira-se, nesse sentido, antigo e elucidativo precedente do Supremo Tribunal Federal:
+1. Responde por tentativa de latrocínio, na forma do art. 157, § 3º , última figura, c.c. o art. 14, II, ambos do Código Penal, quem comete homicídio tentado cumulado com roubo tentado.
+2. Para configurar a tentativa de latrocínio é irrelevante que a lesão corporal causada à vítima tenha sido de natureza leve, bastando comprovado que o réu agiu com dolo de matar para subtrair mas que por circunstâncias alheias à sua vontade não se consumaram os eventos morte e subtração.  ..
+(HC n. 74.155, Rel. Ministro Maurício Corrêa, 2ª T., DJ 11/10/1996).
+Na hipótese, no dia 5/12/2015, as paciente solicitaram à vítima a prestação de serviço de táxi. Uma vez dentro do veículo, [NOME] apontou a arma de fogo na direção do ofendido e exigiu dele a entrega de todo o dinheiro disponível. [NOME] deu cobertura à comparsa e tentou retirar a chave da ignição do carro. O ofendido, diante da abordagem, abriu a porta do veículo e se abaixou. Neste momento, [NOME] apertou o gatilho do revólver, mas o disparo falhou.
+Em Juízo, disse o ofendido que o revólver estava apontado em sua direção quando uma das rés atirou e, depois da falha, "ao puxar a retaguarda novamente, pronta para  outro  disparo, a vítima já havia corrido" (fl. 348, destaquei).
+O Tribunal de Justiça decidiu a controvérsia de acordo com sua livre convicção motivada, com lastro nas provas produzidas sob contraditório. O acórdão está em conformidade com a jurisprudência desta Corte, pois o TJMG reconheceu o latrocínio na modalidade tentada porque houve dolo de subtrair e dolo de matar, e o resultado morte somente não ocorreu por circunstâncias alheias à vontade das pacientes.
+Consta do acórdão: a) laudo de eficiência e prestabilidade de munições constata que foram efetuados disparos com a arma, que dispunha de projéteis com potencial para ofender a integridade física de alguém; b) a efetuação do disparo diretamente contra o ofendido evidencia o animus necandi das agentes (fl. 358).
+Nesse cenário, não existe teratologia jurídica no acórdão estadual e é incabível novo juízo factual sobre o elemento subjetivo do tipo, uma vez que o reconhecimento de eventual culpa das pacientes demandaria reexame de fatos e provas, providência inadmissível em sede de habeas corpus.
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, denego este habeas corpus.
+Publique-se e intimem-se.
