@@ -1,0 +1,12 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por [NOME] em face da decisão que não conheceu do agravo em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial.
+Em suas razões, sustenta a parte Embargante, em síntese, que "sobreveio a decisão que em sua parte dispositiva, embora tenha mencionado que deveria haver majoração dos honorários no importe de 15% sobre o valor já arbitrado na instância de origem nos termos §11 do artigo 85 do Novo Código de Processo Civil), ou seja, neste momento, e salvo melhor interpretação, os honorários passaram ao singelo valor de R$ 450,00 reais, pois a base de cálculo seria o valor de R$ 3.000,00 reais, fixado na 2ª instância (R$ 3.000,00 x 15% = R$ 450,00 reais) " (fl. 276).
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+O novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n.º 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Ressalte-se que os honorários recursais foram majorados em desfavor da parte Recorrente no importe de 15% sobre o montante já arbitrado, nos termos do § 11 do art. 85 do Código de Processo Civil, respeitado, conforme constou expressamente na decisão embargada, os limites estabelecidos no § 2.º do art. 85 do Código de Processo Civil ("Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa". Sem grifos no original).
+Desta forma, se os honorários sucumbenciais já foram arbitrados no máximo permitido por lei (20% sobre o valor da condenação, conforme folha 207), indevida será qualquer majoração dos honorários advocatícios, razão pela qual não deve haver qualquer majoração nesta instância.
+Ante o exposto, ACOLHO os embargos de declaração apenas para retirar da decisão embargada a condenação em honorários recursais, mantida quanto às demais questões.
+Publique-se. Intimem-se.
