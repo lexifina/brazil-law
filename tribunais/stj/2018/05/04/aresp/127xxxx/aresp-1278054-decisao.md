@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo desafiando decisão que inadmitiu recurso especial, fundamentado no art. 105, III, "a" da Constituição Federal, este interposto contra acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"AÇÃO DE ENRIQUECIMENTO SEM CAUSA- RESTITUIÇÃO DE VALORES - INVERSÃO DOS ÔNUS DA PROVA - DESIGUALDADE INEXISTENTE - INDEFERIMENTO - DEPOSITOS EFETIVADOS PELOS AUTORES - COMPROVAÇÃO POR PERICIA - DEVOLUÇÃO DEVIDA - ÔNUS SUCUMBENCIAIS - PROCEDÊNCIA PARCIAL - REFORMA. Se os litigantes estão em situação de equidade, ou seja, sem nenhuma desigualdade jurídica entre eles que os impeçam de produzir suas provas, correta a decisão que indefere a inversão do ônus da prova, como aqui ocorreu. Se a prova pericial realizada comprovou os depósitos naqueles valores pelos apelados e como disse o MM. Juiz em sua decisão, (..) "como a causa de pedir é a reposição do capital despendido para os réus, em contas destes e não devolvido a tempo e modo..", outro caminho não restou senão a determinação de restituição daqueles valores depositados pelos autores em contas dos réus, sob pena de efetivamente existir o enriquecimento sem causa alegado na inicial. Comprovado o depósito parcial,pelos devedores, em conta da autora, é de ser descontado do valor total devido aos autores esse valor comprovado nos autos e confirmado pela prova técnica. Se os requeridos decaíram de maior parte do pedido devem ser condenados em maior parte aos ônus sucumbenciais." (e-STJ, fl 565)
+Opostos embargos declaratórios pelos promovidos, foram rejeitados (fls. 592/596).
+Nas razões do recurso especial, os promoventes alegam negativa de vigência dos arts. 492 e 1013 do CPC/15, questionando a decisão recorrida no ponto em que determinou o abatimento, do valor condenatório, da quantia de R$ 30.000,00 (trinta mil reais). Alegam que "uma vez que só se pode devolver ao Tribunal matéria abordada em sentença, e uma vez que a sentença só pode julgar procedente ou improcedente os pedidos formulados pelas partes, torna-se processualmente impossível recorrer de matéria sobre a qual nada se decidiu em sentença, justamente porque sobre ela nenhum pedido foi formulado".
+Pugnam, outrossim, pelo reconhecimento da legitimidade ativa do recorrente [NOME].
+É o relatório.
+A irresignação não merece prosperar.
+De início, quanto à alegada violação dos arts. 492 e 1013 do CPC/15, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciado pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Quanto à questão da legitimidade ativa, a parte recorrente não indica qual ou quais dispositivos entende violados, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. QUEIMA DE CANA DE AÇÚCAR - REEXAME DE PROVA. SÚMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SUMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reforma do julgado quanto à ocorrência ou não do dano, que gerou a obrigação de indenizar, demanda inegável necessidade de incursão nas provas constantes dos autos, o que é vedado em sede de recurso especial. Incidência do óbice da Súmula 7 desta Corte.
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o enunciado da Súmula 284/STF.
+3. A admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano a violação do dispositivo legal pela decisão recorrida, a fim de demonstrar a vulneração existente, o que não ocorreu na hipótese da alegada violação ao art.
+38, § 4º, da Lei 12.651/12.
+4. Agravo regimental não provido." (AgRg no AREsp 721.287/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe de 27/08/2015)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
