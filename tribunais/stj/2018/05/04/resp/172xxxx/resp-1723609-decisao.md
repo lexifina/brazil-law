@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região.
+Consta dos autos que o recorrente foi condenado, pela prática do crime previsto no art. 1º, VI, e §§ 1º, I e II, e 2º, I, da Lei n. 9.613/1998, à pena de 3 anos de reclusão, em regime aberto, com a consequente substituição da pena privativa de liberdade por duas restritivas de direitos, sendo a execução provisória iniciada na primeira instância.
+Irresignada, a defesa interpôs agravo de execução, tendo a Corte de origem negado provimento ao recurso, em acórdão cuja ementa transcrevo a seguir (e-STJ fl. 377):
+EXECUÇÃO PROVISÓRIA DAS PENAS. TEMA DECIDIDO PELO STF EM SEDE DE REPERCUSSÃO GERAL E NO HC 126.292/SP. RESTRITIVAS DE DIREITOS. EXAURIMENTO DA JURISDIÇÃO DA CORTE DA VIA ORDINÁRIA.
+1. A orientação consolidada pelo Supremo Tribunal Federal, é no sentido de possibilitar a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário (HC n. 126.292/SP, relator o Ministro Teori Zavascki, Tribunal Pleno, DJe 17/5/2016).
+2. A partir deste entendimento que, inclusive, foi reafirmado em sede de repercussão geral no ARE nº 964246/SP (julgado em 10-11-2016) esta Corte Regional, por meio da 4ª Seção, nos embargos infringentes e de nulidade nº 5005572-31.2012.404.7002 estabeleceu que para o cumprimento das sanções corporais e/ou das penas restritivas de direito, adota-se como critério, quando se completar o julgamento da apelação criminal, que se dará após o julgamento dos eventuais embargos de declaração interpostos do acórdão que a tiver julgado.
+3. Assim, exaurida a jurisdição desta Corte na via ordinária, deve ser procedida a imediata comunicação ao Juízo de origem para que proceda à formação do processo de execução provisória das penas impostas aos réus condenados.
+4. O direito de recorrer em liberdade, um dos fundamentos invocados pelo impetrante do HC nº 126.292, não foi compreendido, pela maioria do Pleno do Supremo Tribunal Federal, como entrave à execução provisória da pena.
+5. O entendimento fixado pelo STJ no julgamento dos Embargos de Divergência em Recurso Especial nº 1.619.087 - SC, não tem o condão de desautorizar o sentido da orientação que promana do Supremo Tribunal Federal acerca da possibilidade de executar provisoriamente as penas restritivas de direitos antes do trânsito em julgado.
+No presente recurso especial, a defesa apontou violação dos arts. 283 do Código de Processo Penal e 147 da Lei de Execução Penal, sustentando a impossibilidade de execução provisória da pena restritiva de direitos.
+O Ministério Público Federal opinou pelo desprovimento do recurso especial (e-STJ fls. 531/535).
+É o relatório. Decido.
+O recurso encontra-se prejudicado.
+Concomitantemente ao presente recurso foi impetrado em favor do ora recorrente o HC n. 427.701/PR. No julgamento desse writ, ocorrido em 20/2/2018, as questões apresentadas neste recurso especial foram analisadas, e a ordem de habeas corpus almejada foi concedida para "assegurar que a execução das reprimendas restritivas de direitos impostas ao paciente apenas ocorra após o trânsito em julgado da condenação", não remanescendo, portanto, interesse no julgamento do presente recurso. A referida decisão transitou em julgado em 12/3/2018.
+Ante o exposto, julgo prejudicado o recurso especial.
+Publique-se. Intimem-se.
