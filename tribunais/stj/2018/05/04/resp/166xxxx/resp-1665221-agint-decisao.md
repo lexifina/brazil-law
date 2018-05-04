@@ -1,0 +1,13 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. PRECEDENTE DA CORTE ESPECIAL: AGRG NO ARESP. 137.141/SE, REL. MIN. ANTONIO CARLOS FERREIRA, DJE 15.10.2012. DECISÃO RECONSIDERADA PARA AFASTAR A INTEMPESTIVIDADE.
+1. Cuida-se de Agravo Interno interposto por OI MÓVEL S.A. contra decisão proferida pela Presidência do STJ que negou seguimento ao Recurso Especial, considerando-o intempestivo.
+2. Sustenta a parte agravante que tanto o Supremo Tribunal Federal quanto o Superior Tribunal de Justiça possuem entendimento que se admite a juntada posterior de documento que comprove a tempestividade recursal.
+3. Não foi apresentada impugnação.
+4. É o relatório. Decido.
+5. Verifica-se que a publicação do acórdão recorrido ocorreu em 29.10.2015 (quinta-feira) (fls. 497), iniciando-se o prazo recursal de 15 dias apenas no dia 3.11.2015, em razão da suspensão do expediente forense no dia 30.10.2015 (sexta-feira) através da Portaria TRF2-[PLACA]/00485 (fls. 624), assim como do Feriado de Finados - dia 2.11.2015. Assim, impõe-se reconhecer a tempestividade do Recurso Especial protocolado no dia 17.11.2015.
+6. Seguindo orientação do STF, a Corte Especial do STJ decidiu que, nos casos de feriado local ou de suspensão do expediente forense no Tribunal de origem que resulte na prorrogação do termo final para interposição do recurso, a comprovação da tempestividade do recurso especial pode ser realizada posteriormente, quando da interposição do agravo regimental contra a decisão monocrática do relator que não conheceu do recurso por considerá-lo intempestivo. Precedentes citados do STF: AgRg no RE 626.358/MG, DJe 23.8.2012; HC 108.638/SP, DJe 23.5.2012; do STJ: AgRg no REsp 1.080.119/RJ, DJe 29.6.2012. A saber, veja-se o referido julgado:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. MUDANÇA DE ENTENDIMENTO.
+1. A comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental. Precedentes do STF e do STJ.
+2. Agravo regimental provido, para afastar a intempestividade do recurso especial (AgRg no AREsp. 137.141/SE, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 15.10.2012).
+7. Ante o exposto, reconsidero a decisão de fls. 544/545, para conhecer do Recurso Especial, afastando a declaração de intempestividade. Após, retornem os autos à conclusão para a apreciação do mérito.
+8. Publique-se. Intimações necessárias.
