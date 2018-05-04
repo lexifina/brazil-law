@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SENTENÇA QUE JULGOU PROCEDENTES OS EMBARGOS À EXECUÇÃO. INEXISTÊNCIA DE TRÂNSITO EM JULGADO. RECORRIDO QUE AJUIZOU A EXECUÇÃO EM RAZÃO DA CERTIDÃO DE TRÂNSITO EM JULGADO LANÇADA EQUIVOCADAMENTE PELO CARTÓRIO. COMPORTAMENTO LEAL DO RECORRIDO, DE ACORDO COM OS PRINCÍPIOS DA COOPERAÇÃO E DA BOA-FÉ PROCESSUAL. CORRETO O ENTENDIMENTO QUE DEIXOU DE CONDENAR O EMBARGADO AO PAGAMENTO DAS VERBAS SUCUMBENCIAIS. AGRAVO EM RECURSO ESPECIAL DO MUNICÍPIO DE NOSSA SENHORA DO SOCORRO/SE A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pelo MUNICÍPIO DE NOSSA SENHORA DO SOCORRO/SE, com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurgiu contra acórdão proferido pelo egrégio TJSE, assim ementado:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - INEXISTÊNCIA DE TRÂNSITO EM JULGADO - INEXIGIBILIDADE DO TÍTULO - SENTENÇA QUE JULGOU PROCEDENTES OS EMBARGOS À EXECUÇÃO - AUSÊNCIA DE CONDENAÇÃO DO EXEQUENTE AO PAGAMENTO DAS CUSTAS E HONORÁRIOS - RECURSO DA MUNICIPALIDADE VISANDO A CONDENAÇÃO DO EMBARGADO AO PAGAMENTO DAS VERBAS SUCUMBENCIAIS - IMPOSSIBILIDADE - APELADO QUE AJUIZOU EXECUÇÃO EM RAZÃO DA CERTIDÃO DE TRÂNSITO EM JULGADO LANÇADA EQUIVOCADAMENTE - MANUTENÇÃO DA SENTENÇA - RECURSO CONHECIDO E IMPROVIDO.
+1. A presente execução foi extinta em razão da ausência de exigibilidade do título executivo.
+2. Correta a não condenação do exequente ao pagamento das custas e honorários advocatícios, vez que no processo principal constava equivocadamente a certidão de trânsito em julgado, e, assim sendo, o apelado não pode ser condenado em virtude de erro cartorários (fls. 136/137).
+2. Em seu Apelo Nobre (fls. 145/155), o recorrente aponta ofensa ao art. 20 do CPC. Sustenta, em suma, que o acórdão recorrido deixou de condenar o agravado ao pagamento das custas e dos honorários advocatícios, a despeito de ele haver sido sucumbente na ação de Embargos à Execução. Aduz que o recorrido ajuizou a execução contra a Fazenda Pública fundamentada em título consistente em decisão judicial sem o trânsito em julgado, o que demonstra a ausência da exigibilidade do título e, por consequência, a procedência dos Embargos à Execução.
+3. Sobreveio juízo negativo de admissibilidade (fls. 162/164), o que ensejou a interposição do presente Agravo.
+4. Era o que havia para relatar.
+5. A irresignação não merece prosperar.
+6. A propósito da questão em discussão, o aresto recorrido explicitou o seguinte, no que interessa:
+Não vislumbro que razão existe ao Apelante. Condenar o Embargado ao pagamento dos ônus de sucumbência seria penalizá-lo por ter cumprido o poder-dever que lhe competia - qual seja, o de demandar, em juízo, a cobrança do crédito devido.
+Assim, embora o processo não tenha, em verdade, transitado em julgado, havia certidão da Escrivania dando pelo trânsito. Assim, não há como condenar o Apelado ao pagamento dos honorários advocatícios.
+Restou claro que o Apelado só ingressou com a Execução posto que havia a certidão do trânsito em julgado, não agindo, destarte, de má-fé. Como bem pontuou a magistrada de 1o. grau, o Apelado foi claramente induzido a erro, motivo pelo qual não deve ser penalizado.
+(..).
+Portanto, como houve equivocadamente o lançamento da certidão de trânsito em julgado, e em razão disto o Exeqüente foi levado a erro, não se pode a ele impor o pagamento dos ônus sucumbenciais (fls. 141/142).
+7. Verifica-se, assim, que a decisão objurgada está correta em não impor ao recorrido a condenação ao ônus da sucumbência.
+8. Com efeito, não se mostra viável a condenação do exequente que foi indevidamente induzido a erro. No caso, somente ingressou com a ação executiva, pois havia certidão de trânsito em julgado, que, contudo, foi equivocadamente lançada pelo cartório.
+9. A jurisprudência desta Corte Superior, amparada pelo princípio da boa-fé processual, entende não ser possível a responsabilização do particular que, agindo de boa-fé, é induzido a erro por falha cartorária. Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. FUNGIBILIDADE RECURSAL. EMBARGOS RECEBIDOS COMO AGRAVO REGIMENTAL. DEFICIÊNCIA DE FORMAÇÃO DO AGRAVO DE INSTRUMENTO. NÃO OCORRÊNCIA. REITERAÇÃO DO RESP. EXISTÊNCIA. TEMPESTIVIDADE. AFERIÇÃO. FALHA DO CARTÓRIO JUDICIAL. LEI 11.960/09. INOVAÇÃO LEGISLATIVA POSTERIOR À INTERPOSIÇÃO DO RESP. APLICAÇÃO. POSSIBILIDADE. ART. 257 DO RISTJ E SÚMULA 456/STF. INCONSTITUCIONALIDADE AFASTADA PELA CORTE ESPECIAL. AGRAVO NÃO PROVIDO.
+(..).
+5. A orientação prevalente nesta Corte é no sentido de que a parte que agiu de boa-fé não pode ser responsabilizada por inequívoca falha do cartório (REsp 956.978/SC, Rel. Min. MAURO CAMPBELL MARQUES, Segunda Turma, DJe 12/12/12).
+6. Hipótese em que a data da reiteração do recurso especial realizada diretamente nos autos pelo Advogado da União, de próprio punho, deve ser tida como exata para fins de aferição da tempestividade, em homenagem aos princípios da lealdade e da boa-fé processual, mormente porque constatada a falha do cartório judicial, que deixou de certificar a veracidade daquela informação.
+(..).
+10. Embargos declaratórios recebidos como agravo regimental, ao qual se nega provimento (EDcl no AgRg no Ag 1.404.513/RS, Rel. Min. ARNALDO ESTEVES LIMA, DJe 26.3.2013).
+10. Ressalte-se que a parte exequente se comportou de forma leal, atendendo aos princípios da cooperação e da boa-fé processual, pois, segundo consta no relatório da sentença, em resposta aos Embargos à Execução do Município, o Recorrido concordou com a tese de inexigibilidade do título executivo judicial, apontando o erro promovido pelo cartório que certificou o trânsito em julgado e acabou induzindo a erro. A propósito:
+PROCESSUAL CIVIL. ACÓRDÃO QUE ANULA DECISÃO. PEDIDO MODIFICADO PARA DIMINUIR O VALOR COBRADO.
+1. É de se manter acórdão que anulou decisão monocrática, impondo novo apanhado de provas, caso o juiz entenda necessário, para que sejam considerados os valores, a menor, declinado pelo autor.
+2. Pedido inicial cobrando R$ 382.154,67, que, no curso da demanda, foi reduzido para R$ 9.447,48, por reconhecimento da parte autora que já havia recebido as diferenças apontadas.
+3. A autora, ao identificar equívoco cometido na formulação do seu pedido, comunicou-o ao juiz em atitude reconhecida de boa-fé.
+4. Recurso especial improvido (REsp. 1.028.555/PR, Rel. Min. JOSÉ DELGADO, DJe 23.6.2008).
+11. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial do MUNICÍPIO DE NOSSA SENHORA DO SOCORRO/SE.
+12. Publique-se. Intimações necessárias.
