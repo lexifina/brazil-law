@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MAX PRECISION INDÚSTRIA METALÚRGICA LIMITADA contra decisão por mim proferida, às e-STJ fls. 621/622, em que conheci do agravo para não conhecer do recurso especial.
+Nas suas razões (e-STJ fls. 625/629), a embargante alega que a decisão ora impugnada incorreu em omissão, contradição e obscuridade. Aduz, para tanto, que: (a) o conhecimento da suscitada infringência aos arts. 458, II, 473, 522 e 620 do CPC/1973 dispensa reexame de prova; (b) os arts. 17, 18, 165, 267 e 284 do CPC/1973 estão prequestionados na decisão monocrática que julgou o recurso de apelação; e (c) "as questões suscitadas estão implicitamente prequestionadas em todas da decisões proferidas neste processo".
+Transcorreu in albis o prazo para a apresentação de impugnação (e-STJ fl. 635).
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022-CPC/2015), o que não se verifica na espécie.
+Com efeito, a decisão agravada, ao não conhecer do recurso especial, foi clara ao assentar que (i) a via eleita é inadequada para analisar suposta violação de dispositivo constitucional e (ii) os dispositivos de lei federal tido por violados (arts. 11,15, I, e 16 da LEF, 128, 219, 460, 567, II, 620 do CPC/1973 e 104, 209, 286 e 654, § 1º, do Código Civil) não foram prequestionados, assentando, expressamente, que o "julgado estadual limitou-se a dizer que a pretensão deduzida pela empresa estaria acobertada pela preclusão e, por isso, não fez novo juízo quanto à possibilidade de garantir a execução fiscal com precatório vencido e não pago".
+Cumpre lembrar que o juízo negativo de admissibilidade do recurso impede a análise das questões de mérito nele suscitadas.
+Acresço, ainda, que as razões dos presentes embargos mostram-se genéricas e, portanto, deficientes, porquanto, a par de não indicarem os supostos trechos do acórdão recorrido que revelariam o prequestionamento dos dispositivos apontados como afrontados no recurso especial, inovam a lide ao mencionar como prequestionados os arts. 17 e 18 do CPC/1973.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
