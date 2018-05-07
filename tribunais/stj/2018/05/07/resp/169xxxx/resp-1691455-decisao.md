@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 216):
+AGRAVO INTERNO. DECISÃO TERMINATIVA. REMESSA NECESSÁRIA. NÃO CONHECIDA. CONDENAÇÃO INFERIOR AO LIMITE LEGAL DE DISPENSA DO DUPLO GRAU DE JURISDIÇÃO.
+Inexistindo condenação a pagamento de valores atrasados acima do limite legal de dispensa do duplo grau de jurisdição, a remessa necessária não deve ser conhecida nesta Corte.
+Nas suas razões, o recorrente aponta violação do art. 496 do CPC de 2015 (475 do CPC de 1973), ao argumento de que é obrigatório o reexame de sentença ilíquida proferida contra a União, os Estados, o Distrito Federal, os Municípios e as respectivas autarquias e fundações de direito público.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 224/225.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito tal esclarecimento, verifico que razão assiste à autarquia previdenciária.
+A sentença julgou procedente a ação em que a parte autora pleiteia a averbação de atividade especial, bem como a concessão de aposentadoria por tempo de serviço e entendeu viável a remessa necessária, tendo em vista se tratar de sentença ilíquida (e-STJ fls. 169).
+O acórdão ora impugnado, entretanto, decidiu negar seguimento à remessa necessária, ao fundamento de que o valor da condenação não excede os 60 (sessenta) salários mínimos (e-STJ fl. 216).
+Sobre o tema, a Corte Especial do STJ, no julgamento do REsp n. 1.101.727/PR, proferido sob o rito do art. 543-C do CPC de 1973, firmou o entendimento segundo o qual é obrigatório o reexame da sentença ilíquida proferida contra a União, os Estados, o Distrito Federal, os Municípios e as respectivas autarquias e fundações de direito público.
+Na esteira da aludida compreensão foi editada a Súmula 490 do STJ: "A dispensa de reexame necessário, quando o valor da condenação ou do direito controvertido for inferior a sessenta salários mínimos, não se aplica a sentenças ilíquidas."
+A propósito:
+ PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. INEXISTÊNCIA. SENTENÇA SUJEITA A REEXAME NECESSÁRIO. FALTA DE JULGAMENTO. INEFICÁCIA DO TÍTULO JUDICIAL. NULIDADE CONSTATADA PELO TRIBUNAL DE ORIGEM. SÚMULA 423/STF. MATÉRIA DE ORDEM PÚBLICA. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DO STJ. RECURSO NÃO PROVIDO.
+1. Não se viabiliza o Recurso Especial pela alegada violação do art. 1.022 do CPC. Isso porque, embora rejeitados os Embargos de Declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. 2. Afigura-se acertado o acórdão recorrido que, com fundamento na Súmula 423/STF, declarou nula a execução contra a Fazenda Pública, porquanto foi constatada a ausência de título executivo (sentença não submetida ao reexame necessário).
+3. Consigne-se que a questão concernente ao reexame necessário consiste em matéria de ordem pública, cognoscível de ofício em qualquer tempo e grau de jurisdição.
+4. O STJ possui o entendimento de que somente ser dispensado o reexame necessário com base no § 2º do art. 475 do CPC/1973 somente em casos em que a sentença seja líquida e o valor nela quantificado não exceda a 60 (sessenta) salários mínimos, o que não ocorre no caso, porque a sentença é ilíquida. Aplicação da Súmula 490/STJ.
+5. Recurso Especial não provido. (REsp 1.680.899/SC, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 09/10/2017)
+PROCESSO CIVIL. REEXAME NECESSÁRIO. SENTENÇA ILÍQUIDA. A sentença ilíquida proferida contra a União, o Estado, o Distrito Federal, o Município e as respectivas autarquias e fundações de direito público está sujeita ao duplo grau de jurisdição, não produzindo efeito senão depois de confirmada pelo tribunal; a exceção contemplada no § 2º do art. 475 do Código de Processo Civil supõe, primeiro, que a condenação ou o direito controvertido tenham valor certo e, segundo, que o respectivo montante não exceda de 60 (sessenta) salários mínimos. Recurso especial provido. (REsp 1.300.505/PA, Relator Ministro ARI PARGENDLER, PRIMEIRA TURMA, DJe 01/09/2014).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, a fim de, anulando o acórdão recorrido, reconhecer o cabimento da remessa necessária, determinando o retorno dos autos ao Tribunal de origem a fim de que prossiga no julgamento como entender de direito.
+Publique-se.
+Intimem-se.
