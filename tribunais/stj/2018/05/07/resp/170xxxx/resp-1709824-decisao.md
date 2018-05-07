@@ -1,0 +1,23 @@
+DECISÃO
+
+Trata-se de recurso especial interposto por REGINA CHIQUINI e OUTROS, com respaldo nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 494)
+FUNCIONÁRIOS PÚBLICOS - VENCIMENTOS - CONVERSÃO EM URVs, NOS TERMOS DA LEI 8.880/1994 - PRESCRIÇÃO DO FUNDO DE DIREITO - PRELIMINAR ACOLHIDA - RECONHECIMENTO NOS TERMOS DO VOTO PROFERIDO PELO EXMO. SENHOR DES. RICARDO DIP - APELAÇÃO CÍVEL Nº 930.743-5/5, ACOLHIDO COMO RAZÃO DE DECIDIR - RETIFICAÇÃO DESSA RELATORIA DE POSIÇÃO ANTERIOR QUE ADMITIA APENAS A PRESCRIÇÃO QUINQUENAL DAS PARCELAS. SUCESSIVAS - "Ora, quando o Poder Público , de modo expresso, define a situação jurídica fontal de que emergem as prestações remuneratórias, é da definição administrativa inaugural que nasce a pretensão, e é dela que tem curso o prazo prescricional, valendo aqui lembrar o paradigmático voto do Ministro Moreira Alves , do egrégio Supremo Tribunal Federal, no RE 110.419 ( rel. Min. Octávio Gallotti): "Fundo de direito é a expressão utilizada para significar que o direito de ser funcionário (situação jurídica fundamental) ou os direitos a modificações que se admitem com relação a esta situação fundamental, como reclassificações, reenquadramentos, direito a adicionais por tempo de serviço, direito a gratificação por prestação de serviço especial etc. A pretensão do fundo de direito prescreve, em direito administrativo, em cinco anos a partir da data da violação dele, pelo seu não reconhecimento inequívoco." - EXTINÇÃO DO FEITO DECRETADA, NA FORMA DO ART. 269, IV, DO CPC.
+No especial, a parte recorrente apontou violação aos arts. 1º e 3º, do Decreto n. 20.910/1932, sustentando a inexistência da prescrição do fundo de direito, haja vista que a relação jurídica, por se configurar como de trato sucessivo, estaria sujeita apenas à prescrição das parcelas, devendo incidir a Súmula 85 do STJ. Alegou, também, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 534/546.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal, no tocante à prescrição, merece prosperar.
+Com efeito, é firme o entendimento desta Corte no sentido de que a relação jurídica em questão se mostra como sendo de trato sucessivo, a qual se renova mês a mês, incidindo, assim, a Súmula 85 do STJ.
+Nessa esteira:
+AGRAVO INTERNO. SERVIDOR PÚBLICO. COMPLEMENTAÇÃO DE APOSENTADORIA. FEPASA. CONVERSÃO DE SALÁRIOS EM URV. LEI N.º 8.880/94. PRESCRIÇÃO QUINQUENAL. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. A orientação jurisprudencial desta Corte é firme no sentido de que, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85 do STJ)
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1105922/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 24/08/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE VENCIMENTOS. URV. LEI N. 8.880/1994. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. PARCELAS DE TRATO SUCESSIVO. INCIDÊNCIA DA SÚMULA 85/STJ. DECISÃO MANTIDA.
+1. A controvérsia relaciona-se ao recálculo de proventos de aposentadoria, afetados pela inadequada conversão dos salários em URV, nos moldes determinados pela Lei n. 8.880/1994.
+2. Nos casos em que se visa à obtenção do reajuste relativo à perda remuneratória oriunda da conversão de cruzeiros reais em URV realizada pelo Estado em desacordo com a Lei n. 8.880/1994, não ocorre a prescrição do fundo de direito, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação. Incidência do disposto na Súmula 85/STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1447911/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 05/06/2014, DJe 13/06/2014)
+Considerando que o acórdão do Tribunal de origem encontra-se em dissonância do posicionamento do Superior Tribunal de Justiça, merece amparo a pretensão formulada.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para afastar a prescrição do próprio fundo de direito e determinar que o Tribunal de origem prossiga no julgamento da apelação, dando-lhe a solução que entender cabível.
+Publique-se. Intimem-se.
