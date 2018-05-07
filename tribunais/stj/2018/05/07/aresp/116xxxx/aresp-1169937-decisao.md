@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. ATO NORMATIVO ESTRANHO À LEGISLAÇÃO FEDERAL. EXAME. IMPOSSIBILIDADE. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 284 do STF.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 249):
+APELAÇÕES E REEXAME NECESSÁRIO Ação anulatória e declaratória de inexistência de relação jurídica Alegação de débitos referentes à multa por infração de trânsito e por despesas decorrentes de apreensão de veículo objeto de contrato de arrendamento mercantil, exigidos apenas da entidade financeira Ausência de responsabilidade da entidade financeira Sentença mantida. RECURSOS VOLUNTÁRIOS E REEXAME NECESSÁRIO DESPROVIDOS.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente sustenta ofensa aos artigos 4º, parágrafo 2º, da Lei nº 6.575/1978 e no artigo 4º da Resolução do Contran nº 331/2000, ao fundamento de que " ..  o teor da notificação encaminhada pelo Recorrente ao Recorrido limita-se a dar ciência sobre o leilão a ser realizado pela Administração Pública, o que implica na falta de interesse processual do banco em declarar a inexistência de algo que não existe  .. " (fl. 285).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Ainda preliminarmente, no que diz respeito aos 4º, parágrafo 2º, da Lei nº 6.575/1978 e no artigo 4º da Resolução do Contran nº 331/2000 (e a tese a ele vinculada), verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação dos aludidos dispositivos legais.
+No que tange ao art. 4º da Resolução do Contran nº 331/2000, igualmente ocorre quanto a dispositivos constitucionais, o recurso especial não se presta ao exame de atos normativos estranhos à legislação federal, aplicando-se a Súmula 284/STF. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE REINTEGRAÇÃO DE POSSE. CUMPRIMENTO DE SENTENÇA. ACORDO JUDICIAL. ALEGADO INADIMPLEMENTO DO AJUSTE. VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA. ALEGAÇÃO DE OFENSA AOS ARTS. 475-G, 475-N, III, 463, 467, 468 E 474 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ACÓRDÃO RECORRIDO QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELO CUMPRIMENTO DO ACORDO JUDICIAL, PELO EXECUTADO. REEXAME DE PROVAS E DO ACORDO CELEBRADO ENTRE AS PARTES. SÚMULAS 5 E 7/STJ. IMPOSSIBILIDADE DE EXAMINAR OFENSA A RESOLUÇÃO DO CONAMA E DO CONSEMA. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+V. Ademais, rever a conclusão do acórdão recorrido demandaria, necessariamente, o exame de Resoluções do CONAMA e do CONSEMA, normas insuscetíveis de apreciação, em sede de Recurso Especial, por não se inserirem no conceito de lei federal.
+ ..  (AgRg no AREsp 716049/RS, Segunda Turma, Rel. Ministra ASSUSETE MAGALHÃES, DJe 29/03/2016)
+Noutro passo, a respeito, novamente, de ambos os artigos, não é possível conhecer do recurso especial, pois os dispositivos indicados como malferidos não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+Outrossim, o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa aos referidos artigos, e que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso. Aplica-se, em ambos os casos, a Súmula 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
