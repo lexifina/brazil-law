@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso manejado por VERA LUCIA CANO MARTINS com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 609):
+RECURSOS DE APELAÇÃO E EX OFFICIO EM AÇÃO ORDINÁRIA. ADMINISTRATIVO. SERVIDORA PÚBLICA ESTADUAL.
+1. CONVERSÃO DE VENCIMENTOS PELA URV. Competência constitucional privativa da União para legislar acerca de matéria relacionada a sistema monetário. Compulsoriedade de aplicação da Lei nº 8.884/94 pelos entes federados. Matéria analisada nos termos do art. 543-C do Código de Processo Civil. Recurso Representativo de Controvérsia no STJ. REsp. 1.101.726/SP. Matéria pacificada. Todavia, no caso concreto, a servidora somente ingressou no serviço público em 29.09.94, de modo que não sofreu prejuízo com redução de seus vencimentos diante da não conversão prevista na Lei nº 8.880/94.
+2. SENTENÇA REFORMADA para julgar a demanda improcedente. Recursos ex officio e do Município de Lins providos e recurso da particular prejudicado
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte recorrente aponta violação ao art. 22 da Lei nº 8.880/94. Sustenta, em síntese, que: (I) a não ocorrência da prescrição do fundo de direito e; (II) "em que pese o respeito ao entendimento diverso, não procede a tese de que não houve prejuízo a Parte Recorrente, ao argumento de que a Administração, no exercício de sua autonomia, teria realizado e conversão dos salários de seus servidores por meio da concessão de reajustes voluntários em seus vencimentos (prévios ou posteriores à edição da Lei nº 8.880/94).  ..  Ora, uma vez não respeitado o correto critério previsto no artigo 22 da Lei 8.880/94, mostra-se manifesta e independente de prova a ocorrência prejuízo, tendo em vista que este decorre do próprio fato do cálculo ter se dado em divergência ao determinado pela Lei Federal (in re ipsa)." (fl. 625/626).
+É o relatório.
+A irresignação não comporta acolhida.
+Inicialmente, o Tribunal de origem não se afastou da orientação jurisprudencial, segundo a qual, nas hipóteses de pedido de diferenças salariais decorrente da conversão em URV, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão-somente das parcelas anteriores ao qüinqüênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85/STJ).
+Confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDORES PÚBLICOS ESTADUAIS. REAJUSTE DE VENCIMENTOS. URV. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. PARCELAS DE TRATO SUCESSIVO. INCIDÊNCIA DA SÚMULA 85/STJ. DECISÃO MANTIDA.
+1. A pretensão dos agravados é o recálculo de seus vencimentos em virtude da não conversão adequada dos salários em URV, nos moldes determinados pela Lei n. 8.880/1994. Trata-se de parcelas de trato sucessivo, em que se renova mês a mês a violação do suposto direito.
+2. Nos casos em que se visa à obtenção do reajuste relativo à perda remuneratória oriunda da conversão de cruzeiros reais em URV realizada pelo Estado em desacordo com a Lei n. 8.880/1994, não ocorre a prescrição do fundo de direito, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação. Incidência do disposto na Súmula 85/STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1.433.914/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 01/04/2014, DJe 07/04/2014).
+No mérito, a Corte a quo afastou a pretensão autoral, sob as seguintes considerações (fls. 611/615):
+A questão do recálculo dos vencimentos mediante conversão da URV encontra-se pacificada nos Tribunais Superiores, tendo sido reconhecido o direito dos servidores públicos à correta conversão dos vencimentos, com base na aplicação da Lei nº 8.880/94, observando-se a prescrição quinquenal, quanto ao pagamento das diferenças apuradas.
+ ..
+Portanto, não restam dúvidas acerca da compulsoriedade da aplicação do disposto na Lei nº 8.880/94 pelos Estados e Municípios, de sorte que a competência para legislar sobre sistema monetário é privativa da União, nos termos da Constituição Federal.
+Assim, os entes federados têm que observar as normas elaboradas pela União em matérias sobre sistema monetário, de forma que não têm competência legislativa sobre a matéria, devendo operar a conversão dos vencimentos dos servidores pela URV, conforme disposto na Lei nº 8.880/94.
+ ..
+Todavia, registre-se que têm direito à conversão de seus vencimentos pela URV apenas os servidores que integravam os quadros do serviço público por ocasião da conversão da moeda, já que apenas estes sofreram prejuízo com redução de seus vencimentos diante da não conversão prevista na Lei nº 8.880/94. Desta forma, não se reconhece o direito à conversão aos servidores que ingressaram após 1º de março de 1994, data da entrada em vigor da Lei 8.880/94.
+No caso concreto, a servidora pública ingressou no serviço público em 29.09.94, de modo que não tem direito à conversão, pois não sofreu qualquer prejuízo (fl. 293).
+Por tais motivos, a r. sentença comporta reparos, para que a demanda seja julgada improcedente.
+Diante desse contexto, a alteração das conclusões adotadas pelo Tribunal de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ, o que impede, também, o conhecimento da divergência jurisprudencial.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. MUNICÍPIO DE SANTOS. CONVERSÃO SALARIAL EM URV. APLICAÇÃO DA LEI FEDERAL 8.880/1994. PERDA SALARIAL NÃO COMPROVADA. SÚMULA 7/STJ.
+1. Cuida-se de Ação que objetiva o recálculo e o pagamento de diferenças salariais decorrentes da não aplicação do disposto na Lei 8.880/1994.
+2. In casu, o Tribunal a quo entendeu que os agravantes não conseguiram comprovar a existência de prejuízo salarial - é a recomposição deste o que pleiteiam - e ressaltou a impropriedade da fórmula adotada pelos autores na elaboração dos cálculos.
+3. Diante das conclusões das instâncias ordinárias pela ausência de comprovação da perda salarial e inadequação dos cálculos, a reforma do acórdão recorrido exige o revolvimento fático-probatório, procedimento vedado pela Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. Agravo Regimental não provido.
+(AgRg no AREsp 88.387/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/3/2012, DJe 13/4/2012)
+Ante o exposto, não conheço do recurso especial. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015), observando-se, contudo, o disposto no art. 98, § 3º, do CPC/2015, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
