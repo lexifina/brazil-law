@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por DIRCEU RIBEIRO, com base na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fl. 186):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. ALTERAÇÃO DO TETO PELAS EC N" 20/98 E 41/03. REEXAME NECESSÁRIO. DECADÊNCIA. PRESCRIÇÃO.
+- Não há que se falar na ocorrência da decadência, eis que o E. STJ, no julgamento do RE 1.441.277/PR, com trânsito em julgado em 01/08/2014, decidiu que o termo inicial do prazo decadencial decenal para o segurado revisar seu benefício, adequando-o às Emendas Constitucionais 20/1998 e 41/2003, deve ser fixado na data de publicação da sentença proferida na ação civil pública, considerando os limites subjetivos da coisa julgada (REsp 1.243.887/PR, julgado pela Corte Especial sob o rito do art. 543-C do CPC).
+- O valor da condenação verificado no momento da prolação da sentença não excede a 1000 salários mínimos, de modo que não é caso de submissão da sentença ao reexame necessário, nos termos do art. 496, § 3º, inciso I, do novo Código de Processo Civil, não obstante tenha sido produzida no advento do antigo CPC.
+- O benefício da parte autora teve DIB em 01/01/1989, no "Buraco Negro", e, conforme o parecer e cálculos da Contadoria do Juízo a quo, elaborados segundo o teor do RE 564.364, a readequação dos valores percebidos ao novo teto das ECs nº 20/98 e 41/03, lhe é favorável.
+- Em julgamento do RE 564/354/SE, realizado em 08.09.2010, na forma do art. 543-B, do CPC, o STF assentou entendimento no sentido da possibilidade de aplicação dos tetos previstos nas referidas Emendas Constitucionais aos benefícios previdenciários concedidos anteriormente a tais normas, reduzidos ao teto legal, por meio da readequação dos valores percebidos aos novos tetos, de modo que o autor faz jus à revisão pretendida.
+- A existência de ação civil pública não implica a suspensão da prescrição, uma vez que a autora não pretende aderir ao feito coletivo (ACP nº 0004911-28.2011.4.03.6183).
+- O ajuizamento da presente ação individual e a ausência de interesse em aderir à ACP tiveram o condão de obstar o aproveitamento dos efeitos positivos de eventual coisa julgada erga omnes, haja vista a opção pelo prosseguimento de ação própria, afastando a tutela promovida na ação coletiva, ex vi do art. 21 da Lei nº 7.347/85 c/c art. 104 da Lei nº 8.078/90.
+- Apelos improvidos.
+Os embargos de declaração foram rejeitados (e-STJ fls. 198/207).
+Sustenta o recorrente violação dos arts. 240, § 1º, do Código de Processo Civil de 2015 e 203 do Código Civil, postulando o reconhecimento da prescrição a partir da Ação Civil Pública n. 0004911-28.2011.4.03.6183.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às e-STJ fls. 230/232.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito tal esclarecimento, verifico que o acórdão recorrido considerou a interrupção do curso prescricional a contar da data do ajuizamento da ação em curso (e-STJ fl. 185).
+Ao assim decidir, o julgado aquiesceu com a orientação desta Corte, segundo a qual "em relação ao pagamento de parcelas vencidas, a prescrição quinquenal tem como marco inicial o ajuizamento da ação individual" (AgInt no REsp 1642625/ES, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/06/2017, DJe 12/06/2017).
+Com efeito, "a propositura de ação coletiva com o mesmo objeto de ação individual tem o condão de interromper a prescrição. Ocorre que a prescrição é interrompida apenas para os fins de ajuizamento de ação individual e não para pagamento de parcelas vencidas  ..  a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da presente Ação Individual, nos termos da Súmula 85/STJ" (AgRg no REsp 1559883/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/02/2016, DJe 23/05/2016).
+Dessa forma, incide o óbice da Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", cabível mesmo quando o recurso especial é interposto com base na alínea "a" do permissivo constitucional.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
