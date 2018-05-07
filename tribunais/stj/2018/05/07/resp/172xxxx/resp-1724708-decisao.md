@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+Apelações Cíveis - Indenização por danos materiais e morais decorrentes de atraso na entrega do imóvel - Ilegitimidade passiva da construtora, primeira requerida, afastada - Aplicação do CDC - Ilegitimidade passiva - Rejeição - Empresas requeridas que formaram uma para a realização do joint venture empreendimento em questão - Divisão de Lucros e riscos - Preliminar rejeitada - Inaplicabilidade da teoria da imprevisão - Cláusula penal - Cabimento - - Caso fortuito e força maior não observado - Atraso superior ao prazo de tolerância de 180 dias previsto no contrato - Cláusula penal moratória e não compensatória - Valor insuficiente para abarcar as perdas e danos - Possibilidade de cumulação da cláusula penal com os danos emergentes - Danos morais evidenciados - Incidente de Uniformização julgado pelo Tribunal Pleno - Precedentes do STJ - Redução do quantum indenizatório para R$ 4.000,00 (quatro mil reais) - Lucros Cessantes - Condenação que deve se limitar ao período de julho/2013 a maio/2014 - Sentença parcialmente reformada- Recursos conhecidos e parcialmente providos.
+Os embargos de declaração opostos foram rejeitados (fls. 395 - 399, e-STJ).
+Nas razões de recurso especial, alega a ora recorrente, em suma, divergência jurisprudencial e violação aos artigos 186 e 927 do Código Civil, e 5º da Lei 1.060/50.
+Sustenta não ser possível a condenação em danos morais por mero descumprimento contratual.
+Não foram apresentadas contrarrazões.
+O recurso foi admitido na origem, nos termos da decisão de fls. 490 - 501, e-STJ.
+Assim posta a questão, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Assiste razão ao recorrente.
+O Tribunal de origem, confirmando sentença do juízo singular, condenou a recorrente ao pagamento de danos morais à ordem de R$ 4.000,00 (quatro mil reais), sob os seguintes fundamentos:
+Dessarte, o Judiciário não pode julgar as conseqüências de tal atraso como meros aborrecimentos decorrentes de inadimplemento contratual, até porque as construtoras, de uma maneira geral, vêm, rotineiramente, atrasando as entregas dos imóveis que constroem ou incorporam, não podendo se perpetuar tais atrasos indefinidamente, ao alvedrio dessas espécies de empresas, uma vez que essa forma de agir exorbita os limites da boa-fé e viola o direito do consumidor.
+Assim, não há dúvida de que os desgastes emocionais sofridos pela autora, ora apelada, ultrapassaram aqueles dissabores decorrentes de um mero inadimplemento contratual, devendo a ré, ora apelante, ser responsabilizada pelos danos morais causados à compradora do imóvel.
+Configurada, portanto, a conduta ilícita da apelada, exsurge o dever de indenizar, e necessário ponderar o indenizatório fixado na quantum sentença.
+A quantificação do dano moral permanece a cargo da doutrina e da jurisprudência, predominando no Direito Brasileiro o critério do arbitramento judicial (art. 944 do CC), tendo-se em conta que a reparação do dano moral tem duplo caráter: compensatório para a vítima e punitivo para o ofensor.
+A fixação deve ocorrer com prudente arbítrio, para que não haja enriquecimento à custa do empobrecimento alheio, mas também para que o valor não seja irrisório.
+Nessa linha de ideias, essa Corte vem deliberando sobre o valor do dano moral em casos assemelhados, com embasamento no contexto fático comprovado de cada caso concreto, dependendo do lapso de tempo de atraso, da finalidade do uso do imóvel, e outras circunstâncias que necessitem ser ponderadas.
+Do contexto trazido ao processo, observa-se que o valor do imóvel é, em média, de R$120.000,00 (cento e vinte mil reais), enquanto que o atraso na entrega durou desde 30/07/2012, e até quando a sentença, ora combatida, foi proferida (20/05/2015), ainda não havia notícia nos autos sobre a data da entrega.
+Sendo assim, atentando ainda para que o imóvel foi comprado com finalidade residencial, reputo que o importe de R$ 4.000,00 (quatro mil reais) atende a situação posta em exame, em que a entrega foi superior a um ano, comportando a redução do quantum indenizatório.
+ (e-STJ, fl 399).
+A jurisprudência desta Corte, contudo, entende que não é cabível a condenação em indenização por danos morais na hipótese em que há simples atraso na entrega do imóvel pela incorporadora, pois o dissabor inerente à expectativa frustrada decorrente de simples inadimplemento contratual se insere no cotidiano das relações comerciais e não implica lesão à honra ou violação da dignidade humana. Orienta, ainda, a jurisprudência que deve haver uma consequência decorrente do descumprimento contratual para caracterização dos danos extrapatrimoniais indenizáveis.
+Confiram-se, a propósito, os seguintes precedentes:
+CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO C/C INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. ABORRECIMENTO E DISSABOR. EXAME DAS PREMISSAS FÁTICAS DO ACÓRDÃO RECORRIDO. ENUNCIADO N. 7 DA SÚMULA DO STJ. NÃO INCIDÊNCIA.
+1. O simples descumprimento contratual, por si, não é capaz de gerar danos morais, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável pela sua gravidade.
+2. A Corte local, para reformar a sentença e julgar procedente o pedido de indenização por danos morais, concluiu que o atraso na entrega do imóvel, de aproximadamente 9 (nove) meses, por si, frustrou a expectativa do casal de ter um lar, causando, consequentemente, transtornos por não ter domicílio próprio. Com efeito, o Tribunal de origem apenas superestimou o desconforto, o aborrecimento e a frustração da autora, sem apontar, concretamente, situação excepcional específica, desvinculada dos normais aborrecimentos do contratante que não recebe o imóvel no prazo contratual.
+3. A orientação adotada na decisão agravada não esbarra no óbice contido no enunciado n. 7 da Súmula do STJ, tendo em vista que foram consideradas, apenas, as premissas fáticas descritas no acórdão recorrido.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1408540/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 19.2.2015);
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPROMISSO DE COMPRA E VENDA. ENTREGA. ATRASO. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INEXISTÊNCIA. PRECEDENTES.
+1. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais.
+2. Na hipótese dos autos, a construtora recorrida foi condenada ao pagamento de danos materiais e morais, sendo estes últimos fundamentados apenas na demora na entrega do imóvel, os quais não são, portanto, devidos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 570.086/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 27.10.2015);
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. DECISÃO MANTIDA.
+1. "Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais" (AgRg no AREsp n. 570.086/PE, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/10/2015, DJe 27/10/2015).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1076228/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 15.12.2017).
+No caso em exame, considerando que o único fundamento utilizado pelo acórdão recorrido para deferimento da indenização foi a frustração da expectativa de usufruir do imóvel, fica descaracterizado o dano extrapatrimonial.
+Em face do exposto, dou provimento ao recurso especial, para afastar a condenação em danos morais estabelecida na origem, mantendo-se o acórdão quanto aos demais termos.
+Intimem-se.
