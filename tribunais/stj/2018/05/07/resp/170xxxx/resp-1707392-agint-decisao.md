@@ -1,0 +1,41 @@
+DECISÃO
+Vistos.
+Trata-se de Agravo Interno (art. 1.021, do CPC) interposto contra decisão monocrática, mediante a qual, com fundamento no art. nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, o Recurso Especial não foi conhecido (fls. 477/480e).
+Feito breve relato, decido.
+Em juízo de retratação, consoante o disposto no § 2º, do art. 1.021, do Código de Processo Civil, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor sua reconsideração, a fim de que, oportunamente, o recurso seja novamente analisado.
+Isto posto, nos termos do § 2º, art. 1.021, do Código de Processo Civil, RECONSIDERO a decisão de fls. 477/481e, restando, por conseguinte, PREJUDICADO o agravo interno de fls. 486/495e, DETERMINO.
+Passo doravante ao ao movo exame do recurso especial.
+Vistos.
+Trata-se de Recurso Especial interposto por WILLY HAAS FILHO, contra acórdão prolatado, por unanimidade, pela 5ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo no julgamento de apelação, assim ementado (fls. 357e):
+RECURSO DE APELAÇÃO. TRIBUTÁRIO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. IPVA. INADMISSIBILIDADE. CONFIGURADO DESCUMPRIMENTO DE OBRIGAÇÃO TRIBUTÁRIA ACESSÓRIA.
+1. Ação proposta pelo proprietário-vendedor do veículo automotor para anular o lançamento do IPVA feito em seu nome após a venda do referido bem.
+2. Falta de comunicação do negócio jurídico de compra e venda ao DETRAN. Inadimplemento de obrigação tributária acessória que implica a responsabilidade solidária entre o adquirente e o vendedor do bem.
+3. Validade do lançamento tributário.
+4. Exegese do artigo 123 do Código de Trânsito Nacional, artigos 123 e 124, inciso II do Código Tributário Nacional e dos artigos 4o, inciso III e 16, parágrafo Io, da Lei Estadual nº 6.606/89.
+Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados (fls. 385/389e).
+Com amparo no art. 105, III, c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 134 do Código de Trânsito Brasileiro - "(..) nesse cotejo fica evidenciado o atual entendimento dessa C. Corte Superior pela ilegalidade da cobrança do imposto sobre a propriedade de veículo automotor (IPVA) do antigo proprietário, independentemente da comunicação de transferência da propriedade ao órgão de trânsito" (fl. 420e).
+Com contrarrazões (fls. 460/467e), o recurso foi admitido (fls. 460/467e).
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, b, e 255, II, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Com efeito, esta Corte firmou posicionamento no sentido da responsabilidade tributária do alienante de veículo pelo pagamento do IPVA, quando ausente comunicação da transmissão ao órgão de trânsito responsável e existindo previsão expressa em lei estadual, consoante mostram os precedentes de ambas as Turmas que a compõem a 1ª Seção deste Tribunal, os quais destaco:
+TRIBUTÁRIO. IPVA. RESPONSABILIDADE TRIBUTÁRIA SOLIDÁRIA. EX-PROPRIETÁRIO DO VEÍCULO, CUJA ALIENAÇÃO NÃO FORA COMUNICADA AO DEPARTAMENTO DE TRÂNSITO. LEI ESTADUAL. OBSERVÂNCIA.
+1. O art. 134 da Lei n. 9.503/1997 (Código de Trânsito Brasileiro) não trata de responsabilidade tributária, sendo restrito à responsabilização pelas penalidades administrativas do veículo cuja alienação não foi comunicada ao departamento de trânsito, conforme entendimento sedimentado pela Primeira Seção na Súmula 585 do STJ, segundo a qual "a responsabilidade solidária do ex-proprietário, prevista no art. 134 do Código de Trânsito Brasileiro - CTB, não abrange o IPVA incidente sobre o veículo automotor, no que se refere ao período posterior à sua alienação".
+2. Nos termos do art. 124 do CTN, somente por lei específica pode ser instituída a solidariedade quanto à responsabilidade pelo pagamento de tributos, de modo que a atribuição da responsabilidade solidária, por débitos de IPVA, ao ex-proprietário do veículo é condicionada à previsão da lei estadual.
+3. Hipótese em que o acórdão a quo deve ser mantido, pois, embora o Tribunal de origem, na solução da controvérsia, tenha citado como fundamento o art. 134 do Código de Trânsito Brasileiro, também mencionou o estabelecimento da responsabilidade tributária solidária por meio de lei estadual.
+4. Recurso especial não provido.
+(REsp 1640978/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 06/04/2017, DJe 12/05/2017)
+TRIBUTÁRIO. IPVA. RESPONSABILIDADE TRIBUTÁRIA. EX-PROPRIETÁRIO. DÉBITOS POSTERIORES À ALIENAÇÃO, MAS ANTERIORES À COMUNICAÇÃO DA TRANSFERÊNCIA DA PROPRIEDADE ÀS AUTORIDADES DE TRÂNSITO. SÚMULA 585/STJ. LEI ESTADUAL. OBSERVÂNCIA. PRECEDENTES DO STJ.
+1. A controvérsia envolve a responsabilidade tributária do ex-proprietário de veículo automotor pelo IPVA devido posteriormente à alienação enquanto não comunicada a transferência da propriedade às autoridades de trânsito.
+2. O Tribunal de origem entendeu da responsabilidade da recorrente, por ser ônus do vendedor comunicar a alienação do veículo automotor ao Órgão de Trânsito, sob pena de responsabilização solidária pelas obrigações de natureza tributária e demais encargos, conforme previsto no art. 6º, II, da Lei Estadual 13.296/2008 e art. 134 do CTB.
+3. Fundamentou a decisão ainda no art. 4º, I, da Lei Estadual 6.606/1989, que dispõe ser solidariamente responsável "o adquirente, em relação ao veículo adquirido sem o pagamento do imposto do exercício ou exercício anteriores". Tudo para considerar a recorrente responsável pelos créditos tributários relativamente "aos exercícios do período compreendido entre a data da alienação e a efetiva comunicação".
+4. O STJ recentemente editou a Súmula 585 sobre o tema: "A responsabilidade solidária do ex-proprietário, prevista no art. 134 do Código de Trânsito Brasileiro _ CTB, não abrange o IPVA incidente sobre o veículo automotor, no que se refere ao período posterior à sua alienação". (Súmula 585, Primeira Seção, julgado em 14/12/2016, DJe 1º/2/2017) 5. Nada obstante isso, o entendimento do STJ posterior à edição da Súmula tem sido manter o acórdão impugnado quando, apesar de citar o art. 134 do Código de Trânsito Brasileiro, também adotar como fundamento regra prevista na legislação local para o estabelecimento da responsabilidade tributária solidária.
+Nesse sentido: REsp 1.640.978/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 6/4/2017, DJe 12/5/2017; REsp 1.543.304/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 6/4/2017, DJe 12/5/2017.
+6. Na hipótese em liça, o julgado combatido se baseou em dispositivos de lei estadual para decidir desfavoravelmente à parte recorrente. É o quanto basta para afastar a alegação de violação aos arts. 1.226 e 1.227 do CC/2002 e aos arts. 124, 134 e 121, I, do CTN.
+(..)
+9. Recurso Especial conhecido em parte e, nessa parte, não provido.
+(REsp 1683275/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/09/2017, DJe 09/10/2017)
+Isto posto, nos termos do § 2º, art. 1.021, do Código de Processo Civil, RECONSIDERO a decisão de fls. 477/481e, restando, por conseguinte, PREJUDICADO o agravo interno de fls. 486/495e; e com fundamento nos arts. 932, IV, do Código de Processo Civil de 2015 e 34, XVIII, b, e 255, II, ambos do RISTJ, NEGO PROVIMENTO ao Recurso Especial.
+Publique-se e intime-se.
