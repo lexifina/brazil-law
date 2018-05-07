@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manejado contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 253):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C/C OBRIGAÇÃO DE FAZER. FORNECIMENTO DE ÁGUA. SUSPENSÃO. RESTABELECIMENTO DO SERVIÇO. CONFISSÃO DE DÍVIDA. NULIDADE. VALORES APURADOS MEDIANTE DOCUMENTOS UNILATERAIS. DESPROVIMENTO DO RECURSO.
+Opostos embargos declaratórios, estes foram rejeitados (fls. 279/282).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, § 1º, I e IV, e 1.022, II, do CPC/2015; 360, I, e 361, do CC, 6º, § 3º, II, da Lei 8.987/95; e 4º, V, da Lei 11.445/07. Sustenta que: (I) o aresto integrativo deve ser anulado, pois não teria sanado omissão indicada em embargos de declaração; (II) o acórdão recorrido não observou que a interrupção do serviço por inadimplência dos consumidores encontra respaldo na doutrina e na jurisprudência; (III) o contrato de confissão de dívida firmado é lícito e exigível, eis que realizado por agentes capazes e legítimos, além de possuir objeto lícito, assim, não há falar em nulidade.
+Foram apresentadas contrarrazões às fls. 315/321.
+É o relatório.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, II, III, e 1.022, I, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa, ausência de prestação jurisdicional ou contradição.
+O Tribunal de origem, ao analisar a controvérsia, dirimiu a tese sob a seguinte fundamentação (fls. 254/256):
+Cabe salientar que a relação discutida nestes autos é de consumo e, tendo sido decretada a inversão do ônus da prova, caberia à apelante ter comprovado o fato constitutivo do seu direito, o que não foi feito.
+Com relação à nulidade da confissão de dívida, tem-se que a celebração da mesma é fato incontroverso nos autos. Não obstante, o apelado alega que teria sido compelido a assinar o documento, a fim de obter o restabelecimento do fornecimento de água.
+Com efeito, levando-se em consideração que um bloco inteiro, composto por diversos moradores, estava com o serviço suspenso, o que acaba por ocasionar uma série de inconvenientes, bem como a prática comum no mercado de condicionar o restabelecimento do serviço ao pagamento da dívida, tem-se que a assinatura da confissão de dívida era impositiva para a rápida solução do problema.
+Não obstante, o referido documento fundamenta-se em cobranças irregulares, sem comprovação de sua origem nos autos, razão pela qual não podem ser consideradas legítimas. Em hipóteses como essa, a jurisprudência tem reconhecido a nulidade do pacto celebrado.
+ ..
+Importante salientar que a apelante não trouxe aos autos o original da confissão de dívida assinado, sendo certo que a cópia existente nos autos foi trazida pelo autor, ora apelado, e nela não consta assinatura alguma, o que demonstra, desde o início, a sua relutância em reconhecer a dívida cobrada.
+Por todo o exposto, percebe-se que a sentença recorrida analisou corretamente o conjunto probatório existente nos autos e deu à lide a melhor solução, não merecendo qualquer reparo.
+Frise-se que o Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos e teses que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+O trecho acima citado também indica que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
