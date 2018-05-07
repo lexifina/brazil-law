@@ -1,0 +1,26 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO. RECURSO ESPECIAL. PREPARO. NECESSIDADE DE SEU RECOLHIMENTO, NO ATO DA INTERPOSIÇÃO DO RECURSO. NÃO COMPROVAÇÃO DO PREPARO. DESERÇÃO. ART. 511 DO CPC/1973. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA. AUSÊNCIA DE PETIÇÃO AVULSA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão de sua deserção.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 95):
+AGRAVO REGIMENTAL - DECISÃO MONOCRÁTICA QUE NEGA SEGUIMENTO A RECURSO DE APELAÇÃO MANIFESTAMENTE INADMISSÍVEL - EXCEÇÃO DE SUSPEIÇÃO - REJEIÇÃO - DECISÃO INTERLOCUTóRIA - RECURSO CABÍVEL, - AGRAVO DE INSTRUMENTO - INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL - AGRAVO REGIMENTAL DESPROVIDO - DECISÃO MANTIDA.
+É interlocutória a decisão que resolve Exceção de Suspeição, impugnável, pois, por recurso de Agravo de Instrumento, mostrando-se correta a decisão que nega seguimento a recurso de apelação.
+Tratando-se de erro grosseiro, patente a inaplicabilidade do princípio da fungibilidade recursal.
+Embargos de declaração rejeitados com aplicação de multa.
+No recurso especial requer a concessão do benefício de assistência judiciária gratuita, nos termos do art. 4º da Lei nº 1.060/01950.
+Quanto às questões de fundo, sustenta ofensa aos artigos 135 e 244 do CPC/1973 e dissídio jurisprudencial.
+Sustenta que "muito embora haja algumas decisões de que o recurso cabível contra decisão que põe fim a exceção de suspeição seja o agravo de instrumento, imperioso destacar que não se trata de motivo excludente do princípio da fungibilidade recursal, tal como prevê o art. 244 do CPC, dispositivo violado" (fl. 140).
+Aduz a suspeição do juiz, pois "O Excepto foi designado para atuar, em regime de exceção, perante a Vara Especializada em Ação Civil Pública e Ação Popular da Comarca de Cuiabá, instituído pelo Presidente do Conselho da Magistratura do Estado de Mato Grosso, Des. Orlando de Almeida Perri, por meio do Provimento n. 19/2013/CM num real a cristalino intuito de tão, somente condenar, tal como denunciado pela imprensa" (fl. 143).
+Requer o afastamento da multa aplicada, tendo em vista que os embargos de declaração não são protelatórios.
+Sem contrarrazões.
+Parecer do MPF às fls. 190/193.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+A jurisprudência pacífica do Superior Tribunal de Justiça orienta-se no sentido de que, no ato de interposição do Recurso Especial, deve o recorrente comprovar o preparo, com o recolhimento das custas judiciais, bem como dos valores locais, estipulados pela legislação estadual, sob pena de deserção (art. 511 do CPC/1973).
+Embora o pedido de assistência judiciária possa ser formulado a qualquer tempo, quando a ação está em curso, no caso desta instância especial deverá ser veiculado em petição avulsa, que será processada em apenso aos autos principais, segundo os termos do art. 6º da Lei 1.060/1950. Nesse sentido: STJ, AgRg no AREsp 653.493/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 12/08/2015; AgRg no REsp 1.496.256/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 26/06/2015; AgRg no AREsp 625.304/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 11/06/2015; AgRg no AREsp 610.966/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/08/2015.
+No que diz respeito ao artigo 135 do CPC/1973, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+"Nos termos da jurisprudência desta Corte, a interpretação cabível à expressão "definitivamente julgada", constante do art. 306 do CPC, que se refere à própria exceção, pressupõe que rejeitada pelo juiz de primeiro grau a Exceção de Suspeição e interposto agravo de instrumento contra tal decisão, ficam os autos principais suspensos até julgamento do recurso pelo Tribunal. Precedentes: MC 17.282/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 08/02/11; REsp 1.226.050/RS, Min. Mauro Campbell Marques, Segunda Turma, 15/3/11; REsp 745.947/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 1/10/08; Resp 790.567/SP, Rel. Min. Humberto Gomes de Barros, DJ 14/05/07; REsp 763.762/GO, Rel. Min. Eliana Calmon, Segunda Turma, DJ 10/10/05; REsp 508.068/SP, Rel. Min. Eliana Calmon, Segunda Turma, DJ 13/12/04" (REsp 1349895/MT, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 04.02.2013).
+Incidência da Súmula 83/STJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
