@@ -1,0 +1,43 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AÇÃO ANULATÓRIA DE CONTRATO C/C RESTITUIÇÃO DE VALORES. RECUSO DA PARTE AUTORA. HONORÁRIOS RECURSAIS. MAJORAÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. DANO MORAL. VALOR INDENIZATÓRIO. MAJORAÇÃO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO NÃO CONFIGURADO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+VITOR KONIG LIRA (VICTOR) ajuizou ação de indenização por danos morais cumulado com cobrança e perdas e danos contra AKATUS MEIOS DE PAGAMENTO S.A. (AKATUS).
+Em primeira instância, o pedido foi julgado procedente a fim de condenar AKATUS ao pagamento (1) da quantia de R$ 10.440,00 (dez mil quatrocentos e quarenta reais), atualizada desde o inadimplemento contratual e acrescidos de juros de 1% (um por cento) ao ano, a partir a citação, até o efetivo pagamento; (2) das custas, despesas processuais e dos honorários que fixados em 10% do valor atualizado da condenação.
+O Tribunal a quo negou provimento aos recurso interpostos e, de ofícios, declarou que AKATUS ficou condenada à restituição do valor de R$ 10.440,00 (dez mil quatrocentos e quarenta reais), com correção monetária desde 22/8/2013, e juros moratórios de 1% ao mês, desde 11/6/2014, além do pagamento da indenização por danos morais fixados em R$ 2.000,00, e das verbas da sucumbência, nos termos da sentença.
+O referido acórdão foi ementado nos seguintes termos:
+COMPRA E VENDA DANOS MATERIAIS E MORAIS Caracterizada a legitimidade passiva Caracterizada a relação de consumo Nula a cláusula que estabelece prazo para comunicar a falta de entrega do bem para a retenção e devolução dos valores Incontroverso o inadimplemento Caracterizados os danos morais SENTENÇA DE PROCEDÊNCIA, para condenar a Requerida à restituição do valor de R$ 10.440,00 (com correção monetária desde o "inadimplemento contratual" e juros moratórios de 1% ao mês desde 11 de junho de 2014) e ao pagamento de indenização por danos morais no valor de R$ 2.000,00 RECURSOS IMPROVIDOS E DECLARADO (DE OFÍCIO), QUE CONDENADA A REQUERIDA À RESTITUIÇÃO DO VALOR DE R$ 10.440,00 (COM CORREÇÃO MONETÁRIA DESDE 22 DE AGOSTO DE 2013 E JUROS MORATÓRIOS DE 1% AO MÊS DESDE 11 DE JUNHO DE 2014), ALÉM DO PAGAMENTO DA INDENIZAÇÃO POR DANOS MORAIS E DAS VERBAS DA SUCUMBÊNCIA (NOS TERMOS DA SENTENÇA) (e-STJ, fls. 299).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 327/328).
+No recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, VITOR alegou, a par de dissídio jurisprudencial, violação dos arts. arts. 11, 85, § 11, 489, II, 927, III, NCPC; 186, 927, 932, III, e 944, CC/02; e 6º, IV, V, CDC.
+Sustentou em suma: (1) ser devida a majoração dos honorários em sede recursal, sendo tal matéria ventilada em embargos de declaração e não apreciada pelo Tribunal a quo; (2) que foi vítima de propaganda enganosa, e reconhecido o dever indenizar, mostra-se necessária a majoração da indenização por danos morais.
+Após apresentadas as contrarrazões, o recurso foi inadmitido na origem, ante a inexistência de violação a dispositivo de lei federal, pela incidência da Súmula nº 7 do STJ e porque não comprovado o dissídio jurisprudenical (e-STJ, fls. 411/426 e 448/449).
+Houve, então, agravo em recurso especial, em cujas razões, além de reiterar o apelo nobre, VITOR aduziu, em resumo, que (1) seu recurso merece trânsito, uma vez que preencheu os requisitos necessários a sua admissibilidade; e, (2) a análise de suas razões recursais não importam em reexame de matéria fática, razão pela qual deve ser afastado o óbice sumular aplicado na origem; e (3) o recurso especial foi devidamente comprovado (e-STJ, fls. 452/475).
+A contraminuta foi apresentada (e-STJ, fls. 669/677).
+É o relatório.
+DECIDO.
+De início, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+ Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Presentes os requisitos de admissibilidade do agravo, passo ao exame das razões do apelo especial.
+O recurso não merece prosperar.
+(1) Da ofensa aos arts. 11, 85, § 11, 489, II, 927, III, NCPC
+VITOR afirmou ser devida a majoração dos honorários em sede recursal, sendo tal matéria ventilada em embargos de declaração, porém, não apreciada pelo Tribunal a quo.
+Entretanto, a matéria contida nos arts. arts. 11, 85, § 11, 489, II, 927, III, NCPC, tidos por ofendidos, não foi enfrentada pelo Tribunal de origem nem mesmo depois da oposição dos embargos de declaração.
+Assim, com base no que dispõe a Súmula nº 211 do STJ, o recurso especial não poderia ter sido analisado neste Tribunal Superior: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Cumpre ainda destacar que caberia à parte, nas razões do seu especial, alegar a violação do art. 1022 do NCPC, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+(2) Do valor indenizatório por dano moral (arts. 186, 927, 932, III, e 944, CC/02)
+No que tange ao pleito de redução da verba reparatória, é certo que a lei não fixa valores ou critérios para a quantificação do dano moral, que, entretanto, deve ter assento na regra do art. 944 do CC/02.
+Por isso, esta Corte tem se pronunciado reiteradamente no sentido de que o valor de reparação do abalo moral deve ser arbitrado em montante que desestimule o ofensor a repetir a falta, sem constituir, de outro lado, enriquecimento indevido para a vítima.
+No caso dos autos, a Corte de origem, ao acolher o pedido de reparação moral de VITOR, fixou referida verba com base nas seguintes razões:
+Por fim, decido acerca dos danos morais. A jurisprudência hodierna firma entendimento no sentido de que os danos morais constituem-se a partir do momento em que há comprovação ou evidências de dano íntimo ou abalo psíquico na vítima. In casu, restou comprovado nos autos que o autor, após inúmeras solicitações e trocas de e-mails com a requerida, sofreu frustração e transtornos em sede moral que fogem à normalidade, posto que a ré permaneceu inerte e indiferente com o problema apresentado. No entanto, o quantum indenizatório pleiteado na exordial se distancia do princípio da normalidade e razoabilidade, de forma que o valor de R$ 2.000,00 é pertinente à reparação do dano, evitando-se o que se denomina "industrialização do dano moral" (e-STJ, fls. 187/188).
+Desse modo, para acolher o pleito de VITOR a fim de reconhecer a insuficiência do valor fixado na origem e promover a majoração do quantum, seria necessário o reenfrentamento do conjunto fático da causa, o que encontra óbice no enunciado nº 7 da Súmula do STJ.
+A esse respeito, veja-se precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/73). AÇÃO DE INDENIZAÇÃO. ATRASO NA ENTREGA DE IMÓVEL. DANOS MATERIAIS E MORAIS. DANO MORAL. MAJORAÇÃO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.  .. .OCORRÊNCIA DE DANOS MORAIS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+1. O valor fixado a título de indenização por danos morais baseia-se nas peculiaridades da causa. Assim, afasta-se a incidência do Enunciado n.º 7/STJ, somente quando irrisório ou exorbitante, o que não ocorreu na hipótese dos autos.
+ .. .
+7. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1651964/RJ, Rel. Ministro PAULO DE TARSO Sanseverino, Terceira Turma, j. 15/3/2018, DJe 27/3/2018).
+(3) Do dissídio jurisprudencial
+A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c, do permissivo constitucional. Precedente: AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO (Desembargador Convocado do TJ/BA), DJe 30/6/2010.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Deixo de majorar os honorários advocatícios (art. 85, § 2º, e 11 do NCPC) por ser inaplicável ao caso.
+Advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
