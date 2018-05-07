@@ -1,0 +1,18 @@
+Decisão: Trata-se de pedido de extensão de liminar deferida nos autos em epígrafe (eDOC 54, p. 1-9), formulada por Willian Francisco Silva de Oliveira (Pet. STF 16.445/2018; eDOC 162, p. 1-9).
+    O requerente sustenta, em síntese, com fundamento no art. 580 do CPP, o seguinte:
+    “(...) igualdade de condições processuais, eis que nos autos do processo criminal n.º 0001223-93.2011.8.26.0586, que tramitou perante a 1ª Vara Criminal de São Roque, SP, e que transitou em julgado para a acusação aos 22.07.2011, sem qualquer oposição do Órgão Ministerial quanto ao ora Requerente recorrer em liberdade. O Requerente sempre respondeu ao referido processo em liberdade E AINDA SE ENCONTRA PENDENTE DE JULGAMENTO O COMPETENTE RECURSO ESPECIAL INTERPOSTO PERANTE O E.TJ/SP.” (eDOC 162, p. 1)
+    Ademais, alega o cabimento do pedido de extensão de liminar a condenados que não ostentam a qualidade de litisconsortes (corréus) no feito principal, bem como o julgamento da Segunda Turma desta Corte em writ coletivo (HC 143.641/SP), “que deferiu ordem coletiva em favor de determinadas pessoas do sexo feminino submetidas ao sistema carcerário nacional” (eDOC 162, p. 3).
+    É o breve relatório.
+    Passo a decidir.
+    Preliminarmente, assevere que o requerente sequer é corréu na ação penal originária (Proc. 0004975.61.2007.4.02.5001), que tramitou no Juízo da 1ª Vara Federal do Estado do Espírito Santo/ES (eDOC 20, p. 1-111), tampouco no ato coator objeto deste HC 146.818 MC/ES (eDOC 36, p. 1-7). Ao contrário, consta que o peticionário foi condenado pelo Juízo da 1ª Vara Criminal da Comarca de São Roque/SP (Proc. 0001223-93.2011.8.26.0586; eDOC 162, p. 1).
+    Ademais, a extensão da decisão de liminar, com fundamento no art. 580 do CPP, “no caso de concurso de agentes”, somente é possível “se fundado em motivos que não sejam de caráter exclusivamente pessoal”, o que não ocorre na espécie, evidentemente, diante da diversidade de ações penais, conforme acima visto.
+    No caso dos autos, o Juízo da 1ª Vara Federal Criminal da Seção Judiciária do Espírito Santo, acolhendo manifestação do Ministério Público, determinou a execução antecipada da pena imposta aos condenados José Carlos Gratz, Marcelo Abreu Lima e Raimundo Benedito de Souza Filho (Ação Penal 0004975-61.2007.4.02.5001), mas não houve determinação nesse sentido em relação ao ora peticionante.
+    Dessa forma, tenho que a situação do requerente da extensão não é similar àquela do paciente, conforme dispõe o artigo 580 do CPP.
+    Finalmente, frise-se que no autos do ARE 989.351/SP, interposto pelo ora requerente, o Relator, Ministro Edson Fachin, em 1º.8.2017, DJe 4.8.2017, trânsito em julgado aos 30.8.2017, proferiu a seguinte decisão:
+    “4. Posto isso, com fulcro no art. 21, § 1º, do RISTF, nego provimento ao agravo proveniente do STJ e não conheço do agravo interposto no TJSP. Contudo, nos termos do art. 654, § 2º, do CPP, concedo a ordem de habeas corpus, de ofício, para: a) determinar que o Tribunal de Justiça refaça a dosimetria da pena de modo a considerar a quantidade e a natureza da droga apenas na 1ª ou na 3ª fase e, b) consequentemente, avalie o impacto da nova reprimenda estabelecida na fixação do regime inicial, pautando-se para tanto, pelos critérios previstos no art. 33, § 2º e 3º, do CP (total de pena fixada e observância aos critérios do art. 59 do CP), bem como na possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, à luz do preconizado no art. 44 do CP.”
+    Do exposto, indefiro o presente pedido de extensão de liminar.
+    Publique-se.
+    Brasília, 7 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
