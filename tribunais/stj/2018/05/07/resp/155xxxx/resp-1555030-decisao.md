@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial manejado por [NOME] com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 243):
+EMBARGOS À EXECUÇÃO. REAJUSTE DE 28,86%. INTEGRALIZAÇÃO. INEXISTÊNCIA DE OBRIGAÇÃO DE FAZER.
+1. O procedimento adequado para verificar se o reajuste de 28,86% foi integralmente implementado aos vencimentos dos servidores é a análise de suas fichas financeiras, que demonstram os reajustes efetivamente percebidos por cada servidor a contar de janeiro/1993.
+2. Caso em que a contadoria judicial, após análise das fichas financeiras do embargado, concluiu ter havido a integralização dos 28,86%, de modo que não subsiste obrigação de fazer a ser cumprida.
+Opostos embargos declaratórios, foram rejeitados (fls. 273/276).
+Nas razões do recurso especial, a parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 333, I e II, 458, II, 467, 468, 471 e 535, II, do CPC. Sustenta tese de negativa de prestação jurisdicional. Afirmam, em síntese, que "reformar o julgado regional, para reconhecer o integral acerto da pretensão executória, tendo em vista que a Corte Regional não exigiu do INSS a demonstração da integralização do reajuste de 28,86%  ..  em evidente desatenção à regra de julgamento que decorre da distribuição do ônus da prova contida no art. 333 do CPC, que, na caso, redundou em vilipêndio da coisa julgada formada na decisão exequenda." (fls. 308/309).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+O inconformismo não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 458, II, e 535, II do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Com relação ao mérito, destaca-se a seguinte fundamentação (fl. 241/242):
+Em que pese tenha havido a edição da MP nº 1.704/98, regulamentada pelo Decreto nº 2.693/98 e pela Portaria MARE nº 2.179/98, prevendo a extensão administrativa do reajuste de 28,86% concedido aos militares aos servidores civis, tal não implica certeza quanto à inexistência de diferenças devidas aos servidores a partir de junho/1998, ou seja, não há presunção absoluta de que houve reajustamento da remuneração das carreiras a ponto de restar complemente implementado o reajuste de 28,86%.
+O procedimento adequado para verificar se o reajuste de 28,86% foi integralmente implementado aos vencimentos dos servidores é a análise de suas fichas financeiras, que demonstram os reajustes efetivamente percebidos pelo servidor a contar de janeiro/1993.
+No caso em tela, verifico ter sido este o procedimento adotado pela contadoria judicial, que concluiu a respeito o seguinte:
+ ..
+Portanto, ao contrário do que sustenta o apelante, não houve mera aplicação dos índices previstos abstratamente na Portaria MARE nº 2.179/98. O que se verificou é que efetivamente ocorreram reajustes suficientes a integralizar os 28,86%.
+Assim, com base no parecer da contadoria judicial, órgão isento e qualificado de auxílio ao juízo, não há obrigação de fazer a ser cumprida neste momento, devendo ser mantida a sentença que julgou procedentes os embargos e determinou a extinção da execução.
+Diante desse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, no sentido da distribuição do ônus da prova, bem como ofensa à coisa julgada, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ, o que impede, também, a comprovação do dissídio jurisprudencial.
+À propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. PORTARIA MARE 2.179/98. COISA JULGADA. ALTERAÇÃO DO ENTENDIMENTO. REVOLVIMENTO DE MATÉRIA FÁTICA. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7/STJ.
+1. O acórdão recorrido não padece de omissão, contradição ou obscuridade, tendo em vista que analisou de maneira suficiente e fundamentada todas as questões relevantes à solução da controvérsia, não sendo os embargos de declaração veículo adequado para mero inconformismo da parte.
+2. As instâncias ordinárias concluíram que a sistemática de cálculo adotada pela Contadoria atende rigorosamente ao título judicial e constitui a forma matemática mais exata para apurar a defasagem de 28,86%.
+3. A verificação acerca da desconformidade com o que preconiza o título executivo, bem como se ocorreu ou não eventual afronta à coisa julgada, em decorrência da aplicação da Portaria MARE 2.179/98, é pretensão inviável no recurso especial, pois exige o exame de matéria fática.
+4. Quanto ao dissídio jurisprudencial incide o óbice contido na Súmula 7/STJ.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 192.336/PR, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 02/02/2016, DJe 12/02/2016)
+Ante o exposto, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
