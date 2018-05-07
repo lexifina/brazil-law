@@ -1,0 +1,21 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 476, Vol. 3):
+    “AÇÃO CIVIL PÚBLICA.  AUSÊNCIA DE LICITAÇÃO PARA AQUISIÇÃO DE CAMINHÃO PARA PREFEITURA. AUSENTE PROVA DA URGÊNCIA DA MEDIDA E ENQUADRAMENTO NAS HIPÓTESES DE EXCEÇÃO AO PROCEDIMENTO LICITATÓRIO. AÇÃO PROCEDENTE. APELO DOS CO-RÉUS CONDENADOS DESPROVIDO.
+    LICITAÇÃO. A EXIGÊNCIA DE LICITAÇÃO É DE ÍNDOLE CONSTITUCIONAL E AS EXCEÇÕES À REGRA GERAL NÃO ADMITEM INTERPRETAÇÃO EXTENSIVA. AQUISIÇÃO DE CAMINHÃO USADO SEM PROCEDIMENTO LICITATÓRIO, SOB ARGUMENTO DE QUE NÃO HAVIA INTERESSADOS E A EXIGÊNCIA DE AQUISIÇÃO ERA URGENTE. URGÊNCIA NÃO COMPROVADA. APELO DOS CO-RÉUS DESPROVIDO.
+    É missão inconstitucional do Ministério Público promover ação civil pública para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos e a tese de sua ilegitimidade de parte está superada e já não é acolhida pelo tribunais brasileiros, inclusive os Superiores.
+    Incabível invocar-se a nulidade do inquérito civil público para invalidar ação civil pública subseqüente, pois o procedimento investigativo de caráter inquisitivo não reclama incidência do contraditório e da ampla defesa.”
+    No apelo extremo, alega-se, com amparo no art. 102, III, a, da Constituição Federal, violação aos arts. 37, § 4º, 65, caput, e 93, IX da Carta Magna, sustentando, em síntese, a inconstitucionalidade da Lei 8.429/92.
+    É o relatório. Decido.
+    Não merecem ser acolhidas as razões da parte recorrente. Em relação à suscitada ofensa ao art. 93, IX, da Carta Magna, o Juízo de origem não destoou do entendimento firmado por esta Corte no julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339).
+    Nessa oportunidade, o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da Constituição Federal de 1988 “exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    No caso em apreço, a fundamentação do acórdão recorrido alinha-se às diretrizes desse precedente.
+    No mais, o Plenário do SUPREMO TRIBUNAL FEDERAL, na análise da ADI 2.182 (Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. CÁRMEN LÚCIA, DJe de 10/9/2010), assentou que não há inconstitucionalidade formal na elaboração da Lei 8.429/92. Confira-se a ementa do precedente:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. 1. QUESTÃO DE ORDEM: PEDIDO ÚNICO DE DECLARAÇÃO DE INCONSTITUCIONALIDADE FORMAL DE LEI. IMPOSSIBILIDADE DE EXAMINAR A CONSTITUCIONALIDADE MATERIAL. 2. MÉRITO: ART. 65 DA CONSTITUIÇÃO DA REPÚBLICA. INCONSTITUCIONALIDADE FORMAL DA LEI 8.429/1992 (LEI DE IMPROBIDADE ADMINISTRATIVA): INEXISTÊNCIA. 1. Questão de ordem resolvida no sentido da impossibilidade de se examinar a constitucionalidade material dos dispositivos da Lei 8.429/1992 dada a circunstância de o pedido da ação direta de inconstitucionalidade se limitar única e exclusivamente à declaração de inconstitucionalidade formal da lei, sem qualquer argumentação relativa a eventuais vícios materiais de constitucionalidade da norma. 2. Iniciado o projeto de lei na Câmara de Deputados, cabia a esta o encaminhamento à sanção do Presidente da República depois de examinada a emenda apresentada pelo Senado da República. O substitutivo aprovado no Senado da República, atuando como Casa revisora, não caracterizou novo projeto de lei a exigir uma segunda revisão. 3. Ação direta de inconstitucionalidade improcedente.” (ADI 2.182, Rel. Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe de 10/9/2010)
+    Assim, por defender tese já afastada pelo Plenário desta CORTE, o apelo extremo não possui chances de prosperar.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+     Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 7 de maio de 2018.
+Ministro Alexandre de Moraes
+Relator
+  Documento assinado digitalmente
