@@ -1,0 +1,10 @@
+DECISÃO
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. RECURSO ESPECIAL. ATIVIDADE ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. INOVAÇÃO RECURSAL. PRECLUSÃO. IMPOSSIBILIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão do Tribunal Regional Federal da 4a. Região.
+2. Alega o recorrente violação dos arts. 535 do CPC; 57 e 58 da Lei 8.213/91; bem como Anexo IV do Decreto 2.172/97, aos seguintes fundamentos: (a) o acórdão recorrido, a despeito da oposição de Embargos de Declaração, permaneceu omisso; e (b) impossibilidade de reconhecimento de tempo especial por sujeição a umidade em período posterior a 5.3.1997.
+3. É o relatório. Decido.
+4. No tocante ao art. 535 do CPC, inexiste a violação apontada. O Tribunal a quo apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+5. Ademais, a alegação de suposta violação dos referidos artigos infraconstitucionais a embasar sua tese nem foi trazida no bojo da Apelação, o que caracteriza inovação, sendo sua análise defesa na oportunidade dos Embargos de Declaração ou do Recurso Especial, em face da preclusão consumativa.
+6. Ainda que fosse possível superar esses óbices, constata-se que as questões suscitadas pelo Recorrente envolvem exame de matéria fática e que o acórdão recorrido decidiu com base nos elementos fáticos constantes dos autos, como se pode depreender de uma simples leitura da ementa. O revolvimento dessa matéria em sede de recorribilidade extraordinária demandaria a análise de fatos e provas, o que atrai o óbice da Súmula 7 desta egrégia Corte.
+7. Com essas considerações, nega-se seguimento ao Recurso Especial do INSS.
+8. Publique-se. Intimações necessárias.
