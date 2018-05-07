@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial manejado em face de acórdão negando provimento à apelação, para manter, na íntegra, a sentença que condenou [NOME] à pena de 3 (três) anos e 6 (seis) meses de reclusão, em regime aberto, por infração ao art. 16, caput, da Lei n. 10.826/2003, nos termos da seguinte ementa (e-STJ fl. 261):
+PENAL. PROCESSO PENAL. APELAÇÃO CRIMINAL. POSSE ILEGAL DE ARMA DE FOGO. PRELIMINAR. GRATUIDADE JUDICIÁRIA. POSSIBILIDADE. ATENUANTE DA CONFISSÃO. INOCORRÊNCIA. REDUÇÃO PENA-BASE. INVIABILIDADE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. DESPROVIMENTO.
+1.A simples contratação de advogado particular não impede a concessão do beneficio da justiça gratuita.
+2. A atenuante da confissão espontânea deverá ser reconhecida somente quando a manifestação do réu concorrer para a formação do juízo condenatório.
+3. A existência de circunstância judicial desfavorável justifica a fixação da pena-base acima do mínimo legal.
+4. Apelo conhecido e desprovido.
+Nas razões do especial, fulcrado nas alíneas "a" e "c" do permissivo constitucional, sustenta violação do art. 65, III, "d", do Código Penal, além de divergência jurisprudencial.
+Pretendendo o reconhecimento da atenuante da confissão espontânea (art. 65, III, "d", do CP), alega que a acusada, embora tenha afirmado não ter ciência da arma, confirmou que a mesma estava na sua casa e lá foi encontrada.
+Pugna, ao final, pelo provimento do recurso, reconhecendo a atenuante da confissão, compensando-a, em seguida, com a agravante da reincidência.
+Contra-arrazoado (e-STJ fls. 294/298), o recurso foi inadmitido (e-STJ fls. 299/300), motivando o presente agravo.
+Contraminuta às e-STJ fls. 317/327 e manifestação ministerial pelo não conhecimento do agravo, em parecer assim ementado (e-STJ fl. 338):
+AGRAVO EM RECURSO ESPECIAL PROCESSO PENAL. CRIME DE POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO (ART. 16, CAPUT, DA LEI N. 10.826/2003). ALEGAÇÃO DE USURPAÇÃO DA COMPETÊNCIA DO STJ). NÃO OCORRÊNCIA. A DECISÃO AGRAVADA ESTA ASSENTADA NOS LIMITES AUTORIZADOS PELA LEGISLAÇÃO PROCESSUAL PENAL ACERCA DO EXERCÍCIO DO JUÍZO DF. ADMISSIBILIDADE. AUSÊNCIA DF. IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE. ART. 932, III DO CPC PARECER PELO NÃO CONHECIMENTO DO AGRAVO.
+É o relatório. Decido.
+Inicialmente, destaco que "conforme jurisprudência já pacificada no âmbito do Superior Tribunal de Justiça, é possível a incursão no mérito da lide pelo Tribunal local quando necessária à análise dos pressupostos constitucionais de admissibilidade do recurso especial, sem que isso configure usurpação de competência, ou supressão de instância recursal" (AgRg no AREsp 753.006/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/10/2015, DJe 21/10/2015).
+Por outro lado, não vejo como reconhecer a atenuante da confissão espontânea.
+De fato, quando a confissão do agente for utilizada como fundamento para embasar a sentença condenatória, deve ser aplicada a atenuante do art. 65, inciso III, alínea "d", do CP, pouco importando se a admissão da prática do ilícito foi espontânea ou não, integral ou parcial ou se houve retratação posterior em juízo.
+No caso, contudo, veja o que consignou o Magistrado, à oportunidade da prolação da sentença condenatória (e-STJ fl. 213):
+A acusada [NOME], em seu interrogatório, limitou-se a dizer que não tinha ciência de que as armas estavam dentro de sua casa, versão que não se coaduna com o conjunto probatório carreado aos autos. Digo isto pois os policiais civis ouvidos em Juízo informaram que cumpriram o mandado de busca e apreensão na residência da acusada, eis que ela era suspeita de fazer de sua casa uma boca de fumo e de guardar armas para seu marido que estava preso. Após o cumprimento do mandado a suspeita foi, ao menos em parte, confirmada.
+Assim sendo, as provas que subsistiram ao final deste apuratório são robustas o suficiente e dão toda a segurança e tranqüilidade para a prolação de um decreto condenatório em desfavor de [NOME], sendo desnecessário discorrer algo mais sobre fato completamente elucidado.
+A acusada não confessou o crime, não fazendo jus à atenuante da confissão espontânea, conforme requereu a defesa. Não há, com isso, circunstâncias qualificadoras, nem agravantes e/ou atenuantes a se valorar.
+E ratificou o Tribunal a quo (e-STJ fl. 266):
+Ora, o pleito da Apelante não deve ser considerado, eis que esta não confessou o delito, limitou-se, apenas, a dizer "que não tinha ciência de que as armas estavam dentro de sua casa". E, como bem expressou o Magistrado a quo, "A acusada não confessou o crime, não fazendo jus à atenuante da confissão espontânea, conforme requereu a defesa".
+A jurisprudência desta Corte firmou o entendimento de que, apenas, quando a confissão embasar a condenação é que incidirá a atenuante prevista no art. 65, III, "d", do Código Penal, o que não é o caso dos autos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA. DOSIMETRIA PENA-BASE ACIMA DO MÍNIMO. CIRCUNSTÂNCIAS DO DELITO. ELEVADO PREJUÍZO AOS COFRES PÚBLICOS. IDONEIDADE DA FUNDAMENTAÇÃO. CONFISSÃO. CIRCUNSTÂNCIA NÃO UTILIZADA NA CONVICÇÃO DO MAGISTRADO. NÃO INCIDÊNCIA DA ATENUANTE PREVISTA NO ARTIGO 65, III, D, DO CP. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. INCIDÊNCIA DO ENUNCIADO N.º 83 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Demonstrada, através de dados concretos, a maior reprovabilidade da conduta praticada pelo acusado, que causou elevado prejuízo ao Erário, não se afigura ilegal o aumento da pena-base em razão da valoração negativa das circunstâncias do delito na primeira fase da dosimetria.
+2. Se a confissão do agente é utilizada como fundamento para embasar a conclusão condenatória, a atenuante prevista no art. 65, inciso III, alínea d, do CP, deve ser aplicada em seu favor (Enunciado Sumular n.º 545/STJ), circunstância inexistente na hipótese.
+3. Incidência do óbice do Enunciado n.º 83 da Súmula do STJ, também aplicável ao recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+4. Não tendo o insurgente apontado qualquer julgado recente desta Corte Superior capaz de desconstituir a conclusão da decisão ora objurgada, esta deve ser mantida por seus próprios fundamentos.
+5. Insurgência desprovida. (AgRg no AREsp 934.677/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/10/2016, DJe 26/10/2016)
+Diante do exposto, nos termos do art. 932, VIII, do CPC, c/c o art. 255, §4º, II, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
