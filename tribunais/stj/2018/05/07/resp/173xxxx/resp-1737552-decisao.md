@@ -1,0 +1,49 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE SÃO PAULO, contra acórdão prolatado pela 6ª Turma do Tribunal Regional Federal da 3ª Região no julgamento de apelação, assim ementado (fl. 285e):
+DIREITO CONSTITUCIONAL - LIVRE INICIATIVA - NORMA E INTERPRETAÇÃO: QUESTÃO CONSTITUCIONAL - SUPREMO TRIBUNAL FEDERAL: RE 562276, PLENÁRIO, SOB O REGIME DE REPERCUSSÃO GERAL - EXECUÇÃO FISCAL CONTRA SOCIEDADE EMPRESÁRIA - REGISTRO DO DISTRATO SOCIAL, NA JUNTA COMERCIAL - RESPONSABILIZAÇÃO PATRIMONIAL DE SÓCIO E ADMINISTRADOR: IMPOSSIBILIDADE.
+1.No RE 562276, sob o regime da repercussão geral, o Plenário do Supremo Tribunal Federal decidiu que a norma jurídica - ou a sua interpretação -, sem causa legítima, não pode criar nova espécie de responsabilização patrimonial de terceiro, por débito da pessoa jurídica.
+2.Dissolução, liquidação e extinção da empresa são institutos distintos.
+3.A dissolução é causa de modificação da exploração da atividade empresarial. Até a sua ocorrência, a empresa tem, como função, o lucro. Depois, "negócios inadiáveis, vedadas novas operações" (artigo 1.036, "caput", do Código Civil).
+4.A liquidação é o encontro de contas entre o ativo e o passivo e a atribuição, a cada qual - inclusive aos sócios, se positivo o saldo -, segundo o título jurídico, da parte cabível.
+5.Ocorrida a dissolução, com o registro do distrato social, na Junta Comercial, a credora, com privilégio no concurso de créditos, legitimidade para a execução judicial forçada e foro privativo, tem o direito de expropriação do patrimônio da empresa, seja realizada, ou não, a liquidação societária.
+6.Afronta a decisão plenária do Supremo tribunal Federal a pretensão à criação de novo modo de responsabilidade tributária, com a expropriação, pela credora, do patrimônio de sócio ou administrador, porque a sociedade empresária praticou o ato lícito da dissolução.
+7.Agravo de instrumento improvido.
+Opostos embargos de declaração, foram rejeitados (fls. 303/310e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 4º da Lei n. 6.830/80; 779 do Código de Processo Civil de 2015; 134 e 135 do Código Tributário Nacional; e 10 do Decreto n. 3.708/19; alegando-se, em suma, que estão presentes os requisitos para a responsabilidade do sócio gerente pelos débitos presentes na execução fiscal.
+Sem contrarrazões, o recurso foi admitido (fls. 332/337e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Ao analisar a questão referente à responsabilização do sócio gerente/administrador pelas dívidas fiscais da empresa, o tribunal de origem assim consignou (fls. 278/279e, destaques meus):
+Qualquer norma ou interpretação de norma deve preservar o postulado constitucional da livre iniciativa, cuja conceituação irredutível depende da separação patrimonial entre as pessoas físicas e jurídicas.
+Sob o regime da repercussão geral, no RE 562276, no Supremo Tribunal Federal, a Relatora, a Ministra Ellen Gracie, lembrou que "a censurada confusão patrimonial não apenas não poderia decorrer de interpretação do art. 135, III, c, do Código Tributário, como também não poderia ser estabelecida por nenhum outro dispositivo legal.".
+Sua Excelência explicou o caráter constitucional da questão:
+"Não há como deixar de reconhecer, ademais, que a solidariedade estabelecida pelo art. 13 da Lei 8.620/93 também se reveste de evidente inconstitucionalidade material.
+Isso porque não é dado ao legislador estabelecer simples confusão entre os patrimônios de pessoa, física e jurídica, ainda que para fins de garantia dos débitos da sociedade perante a Seguridade Social.
+Aliás, após o surgimento de precedente no sentido de que tal decorreria do próprio art. 135, III, do CTN, ou seja, de que bastaria o inadimplemento para caracterizar a responsabilidade dos sócios, o Superior Tribunal de Justiça aprofundou a discussão da matéria; acabando por assentar, com propriedade, que interpretação desse jaez violaria a Constituição, sendo, por isso, inaceitável.
+Lembro que o Min. José Delgado, em 2005, por ocasião do julgamento do Resp 717.717/SP, assim se pronunciou:
+"Deve-se.. buscar amparo em interpretações sistemática e teleológica, adicionando-se os comandos da Constituição Federal, do Código Tributário Nacional e do Código Civil para, por fim, alcançar-se uma resultante legal que, de forma coerente e juridicamente adequada, não desnature as Sociedades Limitadas e, mais ainda, que a bem do consumidor e da própria livre iniciativa privada (princípio constitucional) preserve os fundamentos e a natureza desse tipo societário".
+A censurada confusão patrimonial não apenas não poderia decorrer de interpretação do art. 135, III, c, da CF, como também não poderia ser estabelecida por nenhum outro dispositivo legal.
+É que impor confusão entre os patrimônios da pessoa jurídica e da pessoa física no bojo de sociedade em que, por definição, a responsabilidade dos sócios é limitada compromete um dos fundamentos do Direito de Empresa, consubstanciado na garantia constitucional da livre iniciativa, entre cujos conteúdos está a possibilidade de constituir sociedade para o exercício de atividade econômica e partilha dos resultados, em conformidade com os tipos societários disciplinados por lei, o que envolve um regime de comprometimento patrimonial previamente disciplinado e que delimita o risco da atividade econômica.
+A garantia dos credores, frente ao risco da atividade empresarial, está no capital e no patrimônio sociais. Daí a referência, pela doutrina, inclusive, ao princípio da "intangibilidade do capital social" a impor que este não pode ser reduzido ou distribuído em detrimento dos credores.
+Tão relevante é a delimitação da responsabilidade no regramento dos diversos tipos de sociedades empresárias que o Código Civil de 2002 a disciplina, invariavelmente, no primeiro artigo do capítulo destinado a cada qual. Assim é que, abrindo o capítulo "Da Sociedade Limitada", o art. 1.052, dispõe: "Na sociedade limitada, a responsabilidade de cada sócio é restrita ao valor de suas quotas, mas todos respondem solidariamente pela integralização do capital social".
+Trata-se de dispositivo de lei ordinária, mas que regula a limitação do risco da atividade empresarial, inerente à garantia de livre iniciativa.
+[NOME], no artigo Responsabilidade de terceiros e crédito tributário: três temas atuais, publicado na Revista Fórum de Direito Tributário n.º 28/235, aborda O art. 13 da Lei 8.620/93, tendo em consideração justamente a garantia da liberdade de iniciativa:
+(..)
+Submeter o patrimônio pessoal do sócio de sociedade limitada à satisfação dos débitos da sociedade para com a Seguridade Social, independentemente de exercer ou não a gerência e de cometer ou não qualquer infração, inibiria demasiadamente a iniciativa privada, descaracterizando tal espécie societária e afrontando os arts. 5º, XIII, e l70, parágrafo único, da Constituição, de modo que o art. 13 da, Lei 8.620/93 também se ressente de vício material."
+No caso concreto, a observância das normas constitucionais e de sua interpretação, pelo Supremo Tribunal Federal, não permitem que o patrimônio da pessoa física possa responder pelo débito da sociedade empresária.
+Consoante depreende-se do julgado, o acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz dos arts. 5º, XIII, e 170 da CF/88.
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+Nesse sentido, confiram-se:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IPTU. ISENÇÃO. ÁREA DESAPROPRIADA. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE.
+1. Na hipótese, o Tribunal de origem decidiu a controvérsia com base em fundamentos eminentemente constitucionais, escapando sua revisão, assim, à competência desta Corte em sede de recurso especial.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 537.171/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/09/2014, DJe 16/09/2014, destaque meu).
+REAJUSTE CONCEDIDO. VANTAGEM PECUNIÁRIA INDIVIDUAL. NATUREZA DIVERSA. CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE.
+1. A Corte local concluiu pela diversidade da natureza jurídica da VPNI, instituída pela Lei 10.698/2003 em relação à Revisão Geral Anual, prevista no art. 37, X, da CF/1988.
+2. Verifica-se que o acórdão recorrido contém fundamento exclusivamente constitucional, sendo defeso ao STJ o exame da pretensão deduzida no recurso especial, sob pena de usurpação da competência do STF.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 467.850/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/04/2014, DJe 22/04/2014, destaques meus).
+Isto posto, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
