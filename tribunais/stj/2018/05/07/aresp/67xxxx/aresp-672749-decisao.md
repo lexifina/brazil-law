@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado pelo MINISTÉRIO PÚBLICO DO ESTADO DO MATO GROSSO DO SUL contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, inciso III, da Constituição Federal, aviado contra acórdão assim ementado:
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA - RECURSO QUE NÃO INFIRMA A DECISÃO RECORRIDA - INCONFORMISMO COM O RESULTADO QUE NÃO ENSEJA A REFORMA DA DECISÃO HOSTILIZADA - REGIMENTAL NÃO PROVIDO.
+Não trazendo o agravo regimental qualquer argumento capaz de ensejar a modificação do entendimento proferido, a manutenção da decisão agravada é medida que se impõe.
+Sustenta o MP/MS, em síntese, que o julgado recorrido vulnerou os arts. 11 e 12, I, da Lei n. 8.429/1992.
+Inadmissão do apelo nobre (e-STJ fls. 1398/1401).
+Manifestação ministerial pelo provimento do recurso (e-STJ fls. 1437/1440).
+Passo a decidir.
+De início, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Dito isso, mediante análise dos autos, verifico que a inadmissão do especial se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha o agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, conforme ressaltado na origem, esbarrando, pois, no mencionado óbice.
+Com efeito, tendo o Tribunal de origem reconhecido que o conjunto probatório não foi hábil a demonstrar o enquadramento do recorrido [NOME] no ato de improbidade administrativa previsto no art. 11 da Lei n. 8.429/1992, à vista da inexistência do dolo, a reforma de tal julgado demandaria o reexame fático-probatório dos autos, inviável em sede de recurso especial. Igual se diga com relação à condenação imposta ao agravado [NOME], consubstanciada na restituição da quantia de R$ 20.182,00, montante esse "devidamente comprovado nos autos", conforme declinado no acórdão recorrido.
+Registro, por oportuno, que o marco inicial de aplicação do Novo Código de Processo Civil é a intimação do decisum recorrido, a qual, no presente caso, foi realizada sob a égide do antigo Codex Processual. Assim, nos termos do Enunciado Administrativo nº 2 do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se.
+Intimem-se.
