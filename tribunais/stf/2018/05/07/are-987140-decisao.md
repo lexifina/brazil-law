@@ -1,0 +1,19 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+    No apelo extremo, alega-se, com amparo no art. 102, III, a, da CF/88, violação a dispositivos da Constituição Federal.
+    É o relatório. Decido.
+    O acórdão recorrido firmou-se na ausência de pressuposto para acolhimento da ação rescisória. Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à Constituição são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. Nesse sentido, confiram-se os seguintes julgados:
+    “Ementa: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO RESCISÓRIA. CONCURSO PÚBLICO ANULADO. EXONERAÇÕES. EXISTÊNCIA DE FRAUDE. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. PREENCHIMENTO DOS REQUISITOS PARA AJUIZAMENTO DE AÇÃO RESCISÓRIA. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+(ARE 1094366 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, DJe de 12/4/2018)”
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DA AÇÃO RESCISÓRIA. MATÉRIA INFRACONSTITUCIONAL. IMPUGNAÇÃO DO TEMA DE FUNDO DO ACÓRDÃO RESCINDENDO. INADMISSIBILIDADE. INEXISTÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Conforme dispõe o Art. 1.021, § 1º, CPC, é ônus do recorrente impugnar especificadamente os fundamentos da decisão agravada. 2. Na hipótese dos autos, a parte agravante não impugnou todos fundamentos da decisão agravada, limitando-se discorrer acerca do caráter constitucional da controvérsia. 3. Agravo regimental a que se nega provimento.
+(RE 607422 AgR, Relator(a): Min. EDSON FACHIN, Primeira Turma, DJe de 9/12/2016)”
+    “EMENTA EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO. DIREITO PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. REQUISITOS DE ADMISSIBILIDADE. VIOLAÇÃO REFLEXA. REPERCUSSÃO GERAL REJEITADA. AI 751478-RG. REITERAÇÃO DO VÍCIO DE OMISSÃO JÁ APONTADO NOS ANTERIORES DECLARATÓRIOS. MANIFESTO CARÁTER PROCRASTINATÓRIO. APLICAÇÃO DA MULTA DE 1%. 1. Firme é o entendimento desta Suprema Corte, observada a dicção do art. 1022 do CPC, de que não são hábeis os aclaratórios à veiculação de vícios já apontados em anteriores embargos de declaração e apreciados pelo órgão julgador. 2. Os vícios – omissão, contradição ou obscuridade – suscetíveis de ataque em novos embargos de declaração são apenas os acaso surgidos na última decisão que se ataca. 3. Imposição de multa de 1% sobre o valor atualizado da causa, nos termos do disciplinado no art. 1026, § 2º, do CPC, manifesto o caráter protelatório. Precedentes. 4. Embargos declaratórios não conhecidos.
+(ARE 919521 AgR-ED-ED, Relator(a): Min. ROSA WEBER, Primeira Turma, DJe de 25/8/2016) “
+    Por fim, a reversão do julgado impõe a análise de legislação local, inviável na sede recursal extraordinária nos termos da Súmula 280/STF.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+     Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 7 de maio de 2018.
+Ministro Alexandre de Moraes
+Relator
+  Documento assinado digitalmente
