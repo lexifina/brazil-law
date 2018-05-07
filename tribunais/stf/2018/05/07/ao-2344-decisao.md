@@ -1,0 +1,45 @@
+Decisão
+    Trata-se de ação proposta, na origem, por Leandro Cadenas Prado, juiz federal substituto do Tribunal Regional Federal da 4ª Região, contra a União, com o objetivo de condená-la ao pagamento de verbas indenizatórias a título de auxílio-moradia.
+    A parte Autora alega, em síntese, (a) o não recebimento da verba indenizatória de auxílio-moradia durante o período de 1/6/2011 a 31/12/2012, em que residiu na cidade de Foz do Iguaçu-PR; (b) o direito à percepção da referida verba com fundamento no art. 227, VIII, da Lei Complementar 75/1993, em razão da simetria constitucional entre as carreiras da Magistratura e do Ministério Público; (c) a previsão constitucional da simetria no art. 129, § 4º, da Constituição Federal e o seu reconhecimento pelo Conselho Nacional de Justiça (CNJ) no Pedido de Providências 0002043-22.2009.2.00.0000.
+    Nesse sentido, sustenta o direito à percepção do auxílio-moradia pelos magistrados, com base nas disposições da Portaria 484/2006 expedida pela Procuradoria-Geral da República.
+    O Autor observa, ainda, que foi lotado na 3ª Vara Federal de Foz do Iguaçu-PR, onde permaneceu até 2015. Defende que o Município é classificado como localidade inóspita ou de precária condições de vida, pois está localizado na faixa de fronteira terrestre.
+    Apresenta o Anexo à Portaria PGR 484-2006, no qual está disposto que a cidade de Foz do Iguaçu-PR é faixa de fronteira. Declara também que, no período em destaque, não era possuidor de imóvel residencial na localidade e que não havia imóveis funcionais disponíveis no município. Como consequência, o Magistrado possuiria direito ao benefício pleiteado.
+    Em peça contestatória, a União suscitou, preliminarmente, a prescrição da ação, com base no art. 1º do Decreto 20.910/1930. No mérito, alega que o CNJ não estendeu a simetria constitucional entre os membros da Magistratura e do Ministério Público ao benefício de auxílio-moradia independentemente das condições da localidade.
+    Ademais, afirma que a Portaria PGR 484/2006 foi revogada pela Portaria 657/2012 e que a concessão de ajuda de custo para moradia aos membros do Ministério Público é atualmente disciplinada pela Portaria 71/2014.
+    Por fim, assevera que o “autor interpreta de modo equivocado os atos normativos que determinaram que o pagamento do auxílio-moradia só geraria efeitos financeiros a partir de 15 de setembro de 2014, não havendo qualquer previsão em norma jurídica que autorize seu pagamento retroativo”.
+    Em 18/7/2017, o Juízo Federal da 24ª Vara Federal do Distrito Federal determinou a remessa dos autos ao SUPREMO TRIBUNAL FEDERAL, alegando incompetência absoluta da Justiça Federal para apreciar a presente causa, por envolver o pagamento de benefício de “ajuda de custo, para despesas de transporte e mudança” (art. 65, I, da Lei Complementar 35/1979) aos magistrados federais.
+    Na decisão, o Juízo de 1º grau reconheceu a competência originária desta CORTE, visto que a Ação envolveria interesse de toda a Magistratura nacional. Ressalvou, contudo, que há jurisprudência recente deste SUPREMO TRIBUNAL no sentido de que compete à Justiça Comum apreciar a matéria da verba indenizatória de auxílio-moradia.
+    É o relatório.
+    Segundo dispõe o art. 102, I, n, da Carta Magna, compete ao SUPREMO TRIBUNAL FEDERAL, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    (...)
+    n) a ação em que todos os membros da magistratura sejam direta ou indiretamente interessados, e aquela em que mais da metade dos membros do tribunal de origem estejam impedidos ou sejam direta ou indiretamente interessados;
+    Cumpre destacar, no entanto, que esta CORTE firmou entendimento no sentido de que falecerá competência originária ao Supremo Tribunal Federal quando o objeto da causa não envolver direitos, interesses ou vantagens que digam respeito, unicamente, à própria Magistratura (AO 2.136, Rel. Min. CELSO DE MELLO, DJe de 8/6/2017).
+    Em igual sentido cito os seguintes precedentes:
+    AGRAVO REGIMENTAL EM RECLAMAÇÃO. ART. 102, I, N, DA CONSTITUIÇÃO FEDERAL. USURPAÇÃO DA COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. INOCORRÊNCIA. AJUDA DE CUSTO. REMOÇÃO. CONTROVÉRSIA NÃO FUNDADA EM PRERROGATIVA ESPECÍFICA E EXCLUSIVA DA MAGISTRATURA. PRECEDENTES. RECURSO MANEJADO EM 21.02.2014.
+    1. O art. 102, I, n, da Carta Política não comporta exegese que desloque para o Supremo Tribunal Federal o julgamento de toda e qualquer ação ajuizada por magistrados.
+    2. Não amoldada a espécie ao art. 102, I, n, da Carta Política, incabível a reclamação (art. 102, I, l, da Carta Política). Precedentes: AO 1.893-AgR/PA, Rel. Min. Luiz Fux, Primeira Turma, DJE de 17.9.2014; Rcl 15.637-AgR/CE, Rel. Min. Teori Zavascki, Segunda Turma, DJE de 26.8.2014; e Rcl 17.796-AgR/RJ, Rel. Min. Celso de Mello, Segunda Turma, DJE de 06.10.2014.
+    3. Agravo regimental conhecido e não provido (RCL 16.971-AgR/MT, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 16/5/2016). (sem destaques no original)
+    DIREITO PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECLAMAÇÃO. ALEGADA USURPAÇÃO DE COMPETÊNCIA. AUXÍLIO MORADIA. INTERESSE DA MAGISTRATURA.
+A jurisprudência do STF firmou-se no sentido de que o art. 102, I, n, da Constituição não incide quando os interesses debatidos não sejam exclusivos dos magistrados.
+Agravo regimental a que se nega provimento (RCL 18.471-AgR/PR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 10/11/2016). (sem destaques no original)
+    CONSTITUCIONAL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGADA USURPAÇÃO DE COMPETÊNCIA DO STF. NÃO CONFIGURAÇÃO. AJUDA DE CUSTO EM RAZÃO DE REMOÇÃO A PEDIDO. AUSÊNCIA DE INTERESSE EXCLUSIVO DA MAGISTRATURA. PRETENSÃO COMUM A OUTROS SERVIDORES PÚBLICOS. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO (RCL 15.637-AgR/CE, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 26/8/2014). (sem destaques no original)
+    É o ocorre na presente hipótese, ante a não instauração de litígio concernente à interesse específico e exclusivo da Magistratura.
+    A análise desta causa revela a existência, na origem, de ação ordinária proposta por juiz federal substituto do Tribunal Regional Federal da 4ª Região, contra a União, com o objetivo de condená-la ao pagamento de verbas indenizatórias a título de auxílio-moradia.
+    Sobre o tema, esta CORTE já decidiu, recentemente, por sua incompetência para apreciação de tais causas:
+    Ementa: AGRAVO REGIMENTAL. AÇÃO ORIGINÁRIA. MAGISTRADO. AUXÍLIO MORADIA. LOCALIDADE DE DIFÍCIL ACESSO. SIMETRIA COM MINISTÉRIO PÚBLICO FEDERAL. LC 75/93. CIRCUNSTÂNCIA EXCEPCIONAL. INEXISTÊNCIA DE DIREITO EXCLUSIVO DA MAGISTRATURA. AUSÊNCIA DE MANIFESTAÇÃO FORMAL DE MAIS DA METADE DOS MEMBROS DO TRIBUNAL DE ORIGEM. INCOMPETÊNCIA ORIGINÁRIA DO SUPREMO TRIBUNAL FEDERAL.
+    1. A instauração de competência originária do Supremo Tribunal Federal com fundamento no art. 102, I, “n”, da Constituição Federal depende da existência de interesse (direto ou indireto) da totalidade da magistratura nacional no julgamento da causa e que este não revele pretensão passível de ser repetida por outras carreiras do serviço público. Precedentes: AO 2.126, redator para acórdão Min. Edson Fachin, DJe 9.3.2017; Rcl 16.597, Rel. Min. Teori Zavascki, Dje 19.02.2014.
+    2. Na espécie, pleiteia-se o pagamento de auxílio-moradia com fundamento no art. 227, VIII, da LC 75/93 e na simetria entre as carreiras da Magistratura e do Ministério Público Federal, em razão do exercício de funções em município classificado pela Portaria-PGR 484/2006 como localidade de difícil acesso.
+    3. A causa de pedir revela circunstância excepcional que interessa apenas a magistrados lotados em municípios considerados de difícil acesso, e não a toda a magistratura. Agravo regimental a que se nega provimento.
+    (AO 2059 AgR, Rel. Min. EDSON FACHIN, 2ª Turma, DJe de 20/9/2017). (sem destaques no original)
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO.
+    2. Magistrado. Auxilio moradia. Competência do Supremo Tribunal Federal. Não ocorrência. Prerrogativa de outras carreiras do serviço público. Ausência de interesse exclusivo da magistratura. Precedente: RCL 16.597/CE.
+    3. Agravo regimental a que se nega provimento.
+    (ARE 862052 AgR, Rel. Min. GILMAR MENDES, 2ª Turma, DJe de 17/4/2015). (sem destaques no original)
+    A pretensão aqui formulada é individual, ao passo que a competência originária desta CORTE, estabelecida no artigo 102, I, alínea ‘n’, da Constituição Federal, depende de interesse – direto ou indireto – de todos os membros da Magistratura, o que não ocorre no presente caso.
+     Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NÃO CONHEÇO DA PRESENTE AÇÃO ORIGINÁRIA, em face da manifesta incompetência desta CORTE para a apreciação da causa. Devolva-se o processo ao Juízo da 24ª Vara Federal Cível da Seção Judiciária do Distrito Federal.
+    Publique-se.
+    Brasília, 7 de maio de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
