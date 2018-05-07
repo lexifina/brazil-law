@@ -1,0 +1,49 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. CONSUMIDORA. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AÇÃO ANULATÓRIA DE CONTRATO C/C RESTITUIÇÃO DE VALORES. RECUSO DA RÉ AKATUS. APLICAÇÃO DO CDC. DESTINATÁRIO FINAL. SUMULA Nº 568 DO STJ. ILEGITIMIDADE PASSIVA. PROVA DO DANO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO NÃO CONFIGURADO. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+VITOR KONIG LIRA (VICTOR) ajuizou ação de indenização por danos morais cumulado com cobrança e perdas e danos contra AKATUS MEIOS DE PAGAMENTO S.A. (AKATUS).
+Em primeira instância, o pedido foi julgado procedente a fim de condenar AKATUS ao pagamento (1) da quantia de R$ 10.440,00 (dez mil quatrocentos e quarenta reais), atualizada desde o inadimplemento contratual e acrescidos de juros de 1% (um por cento) ao ano, a partir a citação, até o efetivo pagamento; (2) das custas, despesas processuais e dos honorários que fixados em 10% do valor atualizado da condenação.
+O Tribunal a quo negou provimento aos recurso interpostos e, de ofícios, declarou que AKATUS ficou condenada à restituição do valor de R$ 10.440,00 (dez mil quatrocentos e quarenta reais), com correção monetária desde 22/8/2013, e juros moratórios de 1% ao mês, desde 11/6/2014, além do pagamento da indenização por danos morais fixados em R$ 2.000,00, e das verbas da sucumbência, nos termos da sentença.
+O referido acórdão foi ementado nos seguintes termos:
+COMPRA E VENDA DANOS MATERIAIS E MORAIS Caracterizada a legitimidade passiva Caracterizada a relação de consumo Nula a cláusula que estabelece prazo para comunicar a falta de entrega do bem para a retenção e devolução dos valores Incontroverso o inadimplemento Caracterizados os danos morais SENTENÇA DE PROCEDÊNCIA, para condenar a Requerida à restituição do valor de R$ 10.440,00 (com correção monetária desde o "inadimplemento contratual" e juros moratórios de 1% ao mês desde 11 de junho de 2014) e ao pagamento de indenização por danos morais no valor de R$ 2.000,00 RECURSOS IMPROVIDOS E DECLARADO (DE OFÍCIO), QUE CONDENADA A REQUERIDA À RESTITUIÇÃO DO VALOR DE R$ 10.440,00 (COM CORREÇÃO MONETÁRIA DESDE 22 DE AGOSTO DE 2013 E JUROS MORATÓRIOS DE 1% AO MÊS DESDE 11 DE JUNHO DE 2014), ALÉM DO PAGAMENTO DA INDENIZAÇÃO POR DANOS MORAIS E DAS VERBAS DA SUCUMBÊNCIA (NOS TERMOS DA SENTENÇA) (e-STJ, fls. 299).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 327/328).
+No recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, AKATUS alegou, a par de dissídio jurisprudencial, violação dos arts. 2º, 3º e 14, § 3º, I e II, do CDC; 186 e 927 do CC/02, 374, II e II, do NCPC.
+Sustentou em suma: (1) a impossibilidade de aplicação do CDC ao caso concreto, pois, em momento algum participou do negócio jurídico realizado entre VITOR e a WINNER MANAGER; (2) a natureza eminentemente civil da relação jurídica firmada entre as partes; (3) a sua ilegitimidade passiva; e, (4) a inexistência de prova do dano.
+Após transcorrer in albis o prazo para apresentar as contrarrazões, o recurso foi inadmitido na origem, ante a inexistência de violação a dispositivo de lei federal, pela incidência da Súmula nº 7 do STJ e porque não comprovado o dissídio jurisprudenical (e-STJ, fls. 427 e 446/447).
+Houve, então, agravo em recurso especial, em cujas razões, além de reiterar o apelo nobre, AKATUS aduziu, em resumo, que (1) seu recurso merece trânsito, uma vez que preencheu os requisitos necessários a sua admissibilidade; e, (2) a análise de suas razões recursais não importam em reexame de matéria fática, razão pela qual deve ser afastado o óbice sumular aplicado na origem; e (3) o recurso especial foi devidamente comprovado (e-STJ, fls. 452/475).
+A contraminuta foi apresentada (e-STJ, fls. 669/677).
+É o relatório.
+DECIDO.
+De início, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+ Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Presentes os requisitos de admissibilidade do agravo, passo ao exame das razões do apelo especial.
+O recurso não merece prosperar.
+(1) (2) (3) e (4) Da alegada impossibilidade de aplicação do CDC ao caso concreto; da natureza eminentemente civil da relação jurídica firmada entre as partes, da ilegitimidade passiva e da prova do dano
+A jurisprudência desta Corte tem atenuado a incidência da teoria finalista (do Código Civil), aplicando o Código de Defesa de Consumidor à pessoa física ou jurídica que, mesmo não sendo destinatária final do produto ou serviço, tenha reconhecida sua situação de vulnerabilidade ou de submissão de prática abusiva.
+A respeito, confiram-se os julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECURSO INTERPOSTO NA ÉGIDE NO NCPC. AÇÃO DE RESCISÃO CONTRATUAL C.C. INDENIZAÇÃO POR DANOS MORAIS. AÇÃO PROPOSTA POR CONSUMIDOR CONTRA EMPRESA. TEORIA FINALISTA. MITIGAÇÃO. APLICABILIDADE DO CDC. POSSIBILIDADE. VULNERABILIDADE VERIFICADA. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITADO.
+ .. .
+2. Esta Corte firmou posicionamento no sentido de que a teoria finalista deve ser mitigada nos casos em que a pessoa física ou jurídica, embora não tecnicamente destinatária final do produto ou serviço, apresenta-se em estado de vulnerabilidade ou de submissão da prática abusiva, autorizando a aplicação das normas prevista no CDC.
+3. No caso dos autos, porque reconhecida a vulnerabilidade da autora na relação jurídica estabelecida entre as partes, é competente o Juízo Suscitado para processar e julgar a ação.
+4. Agravo interno não provido.
+(AgInt no CC 146.868/ES, Rel. Ministro MOURA RIBEIRO, Segunda Seção, j. 22/03/2017, DJe 24/03/2017)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. INCIDÊNCIA DO CDC. DESTINATÁRIO FINAL. SÚMULA N. 83 E 7/STJ. QUEBRA DA REGRA DE GARANTIA. LUCROS CESSANTES. OCORRÊNCIA DE ATO ILÍCITO. SÚMULA N. 7/STJ.
+ .. .
+2. É possível a aplicação das normas de proteção ao consumidor à pessoa física ou jurídica que, mesmo não sendo destinatária final do produto ou serviço, tenha reconhecida sua situação de vulnerabilidade.
+3. A condição de vulnerabilidade firmada a partir dos elementos de convicção constantes dos autos não pode ser revista em sede de recurso especial por demandar a necessária incursão ao acervo fático-probatório dos autos.
+4. Inviável rever o entendimento firmado pela instância de origem se sua análise reclamar a revisão do conjunto instrutório dos autos.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 694.717/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 24/11/2015, DJe 30/11/2015)
+E quanto à legitimidade passiva da AKATUS e da comprovação do dano a VITOR, a Corte de origem assim se manifestou:
+A Requerida presta serviço de gerenciamento de pagamentos e não é responsável pela entrega do produto, mas apenas pela retenção do pagamento e devolução do valor ao comprador (se informada a falta de entrega do bem no prazo estipulado no contrato).
+O contrato de prestação de serviços (apresentado pelo Autor - fls. 32/48) estatui, na cláusula 6.5, que "Caso, no momento em que AKATUS receber, de qualquer COMPRADOR, na forma prevista neste Termo, a informação sobre a falta de entrega do bem ou serviço adquirido, o Pagamento ainda não tenha sido realizado, a AKATUS terá o direito de bloquear o Pagamento e estornar os valores referentes à Transação denunciada ao COMPRADOR, sem que haja possibilidade de estorno ou suspensão dos pagamentos devidos pelo USUÁRIO À AKATUS referente à Transação".
+ .. .
+Caracterizada a relação de consumo, incumbia à Requerida comprovar que não reteve o pagamento, repassando-o à empresa Winner Manager ou, ao menos, que o bem foi entregue (caso em que os valores retidos seriam devidos à empresa Winner Manager) o que não fez (incontroverso que o bem não foi entregue e os documentos apresentados - fls. 148/156 - não comprovam o repasse), presumindo-se que reteve os valores, que não lhe pertencem.
+Dessa forma, correta a condenação à restituição do valor retido (e-STJ, fls. 300/302)
+Desse modo, tendo sido reconhecida a condição de vulnerabilidade do VITOR na relação estabelecida entre as partes, a legitimidade da AKATUS para responder pelo dano e configurado o dever de indenizar, tem-se que a revisão do julgado importaria no reexame do acervo fático-probatório dos autos, vedado na via especial ante o óbice da Súmula nº 7 do STJ.
+(5) Do dissídio jurisprudencial
+A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c, do permissivo constitucional. Precedente: AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO (Desembargador Convocado do TJ/BA), DJe 30/6/2010.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de AKATUS MEIOS DE PAGAMENTO S.A., de 10% para 15% sobre o valor da condenação, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
