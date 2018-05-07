@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manejado pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a da CF, desafiando acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 414):
+AGRAVO DE INSTRUMENTO - TÍTULO JUDICIAL - EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA - HONORÁRIOS ADVOCATÍCIOS - ADMISSIBILIDADE. SÚMULA 345/STJ.
+Agravo de instrumento não provido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73 (fls. 428/431).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 25 da Lei n.º 12.016/09; 1.º- D da Lei n.º 9.494/97 e 20, §§ 3º e 4º, 463 e 535 do CPC/73. Sustenta não ser cabível a condenação da Fazenda Pública em honorários advocatícios em sede de mandado de segurança, inclusive o coletivo, nas execuções não embargadas. Alega, ainda, que "não se ignora o entendimento do E. Superior Tribunal de Justiça de que as execuções individuais em sede de ações coletivas seriam exceção à regra geral segundo a qual não cabem honorários em execuções não embargadas pela Fazenda. Entretanto, não se pode ignorar a literalidade do artigo 25 da Lei Federal 12.016/09 editada em momento posterior ao da edição da citada Súmula" (fl. 441).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, o acórdão recorrido está em conformidade com a jurisprudência pacífica desta Corte Superior, no sentido de que "nas execuções individuais procedentes de sentença genérica prolatada em ação coletiva promovida por sindicato ou entidade de classe, é cabível a condenação da Fazenda Pública ao pagamento de honorários advocatícios, ainda que não embargada a execução. Esse entendimento encontra-se cristalizado no enunciado 345 da Súmula deste Tribunal Superior, in verbis: "São devidos os honorários advocatícios pela Fazenda Pública nas Execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas" (AgRg no AREsp 48.204/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 17/11/2011, DJe 23/11/2011).
+Ainda na linha de nossa jurisprudência, esse entendimento também deve ser aplicado em execução de mandado de segurança coletivo. Nesse mesmo sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO INDIVIDUAL DE SENTENÇA. MANDADO DE SEGURANÇA COLETIVO CONTRA A FAZENDA PÚBLICA. HONORÁRIOS. CABIMENTO. SÚMULA 345/STJ.
+1. De acordo com o enunciado da Súmula 345/STJ, "são devidos honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas".
+2. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte, razão pela qual não merece reforma.
+3. Agravo Interno não provido.
+(AgInt no AREsp 919.265/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/12/2016, DJe 01/02/2017)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
