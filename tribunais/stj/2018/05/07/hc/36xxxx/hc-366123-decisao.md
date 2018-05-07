@@ -1,0 +1,23 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. ALEGAÇÃO DE DEFESA TÉCNICA REALIZADA POR SERVIDOR DA UNIDADE PRISIONAL. CONSTRANGIMENTO ILEGAL. SÚMULA 533/STJ. NECESSIDADE DE ADVOGADO OU DEFENSOR PÚBLICO NOMEADO.
+Ordem concedida.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], em que se aponta como autoridade coatora a Quarta Câmara Criminal do Tribunal de Justiça de Minas Gerais.
+Narram os autos que o paciente foi condenado à pena de 6 anos, 5 meses e 23 dias de reclusão, e pagamento de 23 dias-multa, por ter sido incurso nos arts. 157, § 2º, I e II, c/c o 14, II, na forma do art. 70, caput, todos do Código Penal.
+Em execução, foi proferida decisão que reconheceu o cometimento de falta grave, na data de 27/10/2014, consistente em atear fogo ao colchão da cela onde cumpria pena, em regime fechado, além de ofender agentes penitenciários por meio de palavras de baixo calão, sendo determinada a interrupção da contagem de tempo para fins de progressão de regime, estabelecendo-se a data da falta como marco para a concessão de novos benefícios (fls. 125/127).
+Inconformada, a defesa interpôs agravo em execução, em que alegou que a defesa do sentenciado teria sido realizada por analista técnico-jurídico vinculado à penitenciária e que é devida a desconstituição da falta grave por ausência de comprovação dos fatos. A Quarta Câmara Criminal do Tribunal de Justiça de Minas Gerais negou provimento ao recurso (fls. 188/195).
+Opostos embargos de declaração, esses foram rejeitados (fls. 203/206).
+No presente habeas corpus, pretende-se que seja declarado nulo o procedimento administrativo disciplinar em que se reconheceu a prática de falta grave por [NOME] no dia 27/10/2014, em razão de a defesa do executado ter sido realizada por servidor da unidade prisional e não por defensor público nomeado.
+Decisão deste Relator indeferindo a liminar (fls. 217/218).
+Parecer ministerial opinando pela denegação da ordem (fls. 255/258).
+É o relatório.
+Aqui, busca-se que seja declarado nulo o procedimento administrativo disciplinar em que se reconheceu a prática de falta grave por parte do paciente, tendo em vista que a defesa do executado foi realizada por servidor da unidade prisional e não por defensor público nomeado. Confira-se, nesse ponto, o teor do acórdão hostilizado (fl. 193):
+ ..
+Inicialmente, deve-se destacar a independência das esferas judicial e administrativa na apuração de faltas por detentos. Até mesmo eventual punição administrativa (como o isolamento, por exemplo) não se confunde com o reconhecimento judicial de falta grave e conseqüente regressão de regime, uma vez que se trata de duas esferas completamente distintas e autônomas, consoante inteligência do parágrafo único, do art. 48, da LEP.
+Portanto, data venia ao combativo Defensor Público, nem mesmo a ausência de procedimento administrativo disciplinar não impede o reconhecimento de faltas graves, muito menos o fato de haver sido a defesa do reeducando realizada por analista técnico-jurídico vinculado à Penitenciária, conforme alega.
+Ademais, não há qualquer nulidade a ser sanada quanto à fundamentação ou motivação da decisão guerreada, pois preenchidos todos os requisitos dos artigos 381, do CPP, e 93, IX, da CR/88.
+ ..
+O Julgador local afirma que o paciente teve sua defesa técnica realizada por analista técnico-jurídico vinculado à penitenciária, o que representa flagrante desrespeito à ampla defesa e ao contraditório. Nesse cenário, verifico a ilegalidade do PAD, com prejuízo evidente para o apenado, haja vista a ausência de defesa técnica na sindicância que culminou em consequências para o modo de cumprimento da pena. O acórdão estadual está em desacordo com a Súmula 533/STJ:  ..  Para o reconhecimento da prática de falta disciplinar no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o direito de defesa, a ser realizado por advogado ou defensor público nomeado  .. , o que não ocorreu na hipótese, uma vez que o paciente foi assistido por analista técnico-jurídico da própria penitenciária.
+De fato, o procedimento administrativo disciplinar na área penal para apurar a prática de falta grave, por envolver a liberdade de ir e vir, deve, obrigatoriamente, observar o contraditório e a ampla defesa, sendo imprescindível a presença de advogado ou defensor nomeado.
+Ante o exposto, concedo a ordem para anular o PAD que apurou a falta grave cometida pelo paciente em 27/10/2014 (Processo n. 0261.15.001419-7).
+Publique-se.
