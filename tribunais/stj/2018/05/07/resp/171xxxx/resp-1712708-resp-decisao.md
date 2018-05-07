@@ -1,0 +1,4 @@
+DECISÃO
+DÁRCIO JOSÉ DA MOTA, [OAB], em nome da interessada CONCESSIONÁRIA DO SISTEMA ANHANGUERA BANDEIRANTES S.A., apresentou a petição protocolizada sob o n. 00188389/2018 (e-STJ fls. 1.244/1.246), informando celebração de acordo nos termos ali descritos e requerendo a "remessa à Vara de Origem para posterior homologação e após comprovação do pagamento integral do valor aqui acordado, seja determinada a extinção do processo em relação a concessionária do Sistema Anhanguera Bandeirantes S.A. com a devida baixa e o cancelamento do feito na distribuição, conforme artigo 487, III, "b", do Código de Processo Civil".
+Intime-se a recorrente, IRB BRASIL RESSEGUROS S.A., para, no prazo de dez dias, esclarecer, fundamentadamente, se persiste o interesse no julgamento do seu recurso especial (e-STJ fls. 1.178/1.199).
+Publique-se.
