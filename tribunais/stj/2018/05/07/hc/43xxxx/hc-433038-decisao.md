@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 0010561-58.2015.8.26.0099).
+Consta dos autos que o paciente foi preso em flagrante em 16/11/2015 e condenado, em primeiro grau, pela prática do ilícito tipificado no art. 33, caput, c/c o § 4º, da Lei n. 11.343/2006, à pena de 05 anos de reclusão, em regime inicial fechado, e ao pagamento de 500 dias-multa, em virtude de que trazia consigo, para consumo de terceiros, 53 pinos de cocaína, pesando 96g (noventa e seis gramas) - e-STJ fl. 21.
+Irresignada, a defesa interpôs recurso de apelação.
+O Tribunal deu parcial provimento ao recurso defensivo para reduzir a pena imposta ao paciente para 2 anos e 11 meses de reclusão, mais pagamento de 291 dias-multa, mantida, no mais, a sentença (e-STJ fls. 31/41).
+No Superior Tribunal de Justiça, a impetrante alega constrangimento ilegal imposto ao paciente na manutenção do regime prisional fechado uma vez que "a decisão traz somente um argumento genérico para fixar o regime fechado, que em nada justifica o regime mais gravoso e ainda veda a substituição da pena privativa de liberdade divorciando-se de qualquer embasamento concreto, sem motivação idônea." (fls. 7/8). Defende, por fim, a substituição da pena privativa de liberdade pela restritiva de direitos.
+Requer, liminarmente e no mérito, a alteração para o regime inicial aberto ou, subsidiariamente, a substituição da pena pela restritiva de direitos.
+A liminar foi parcialmente deferida (e-STJ fl. 48).
+O Ministério Público opinou pelo não conhecimento do writ (e-STJ fls. 106/110).
+É, em síntese, o relatório.
+O Pleno do Supremo Tribunal Federal, no julgamento do HC n. 111.840/ES, por maioria de votos, declarou, incidentalmente, a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a nova redação dada pela Lei n. 11.464/2007, por ofender a garantia constitucional de individualização da pena (art. 5º, XLVI, da Constituição Federal). Afastou, dessa forma, a obrigatoriedade de imposição do regime inicial fechado para os condenados pela prática de crimes hediondos e dos demais delitos a eles equiparados.
+Em tal contexto, nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006).
+Na hipótese, o Tribunal local, reformando a sentença, fixou o regime inicial fechado e negou a substituição da pena privativa de liberdade em razão da hediondez e da gravidade abstrata do delito (e-STJ fls. 37/40):
+Quanto ao regime prisional inicial fechado, este foi fixado com absoluto acerto, não só por previsão legal artigo 2º, § 1º, da Lei nº 8.072/90, com a redação dada pela Lei nº 11.464/07 como, também, pela gravidade do crime, de catastróficas consequências à saúde pública, e responsável, também, pela desagregação familiar e social. Tanto é que o delito é equiparado aos hediondos.
+O crime de tráfico de entorpecentes é equiparado aos delitos hediondos, portanto os mais graves dentre os elencados no Código Penal e em Leis Especiais.
+Logo, soa, no mínimo, incongruente a fixação de regime diverso do fechado para o crime de tráfico de drogas.
+Há, como é de sabença, crimes graves, mas que não são tidos como hediondos, como, por exemplo, o de roubo agravado, o de homicídio simples, dentre outros. Mesmo o tráfico de drogas, considerado o § 4º, do artigo 33 da respectiva Lei Especial, é, sem dúvida, crime grave.
+Mas há os considerados hediondos.
+Hediondo quer significar horrendo, gravíssimo, repulsivo, absolutamente intolerável.
+Ora, sendo assim, como aplicar-se para um crime hediondo, como o tráfico de entorpecentes, regime que não o inicial fechado
+O traficante, perante a lei penal tal como está em vigor, é tido como um pária da sociedade, que destrói, não só a saúde das pessoas, especialmente a dos jovens, deixando muitos deles incapacitados para estudar ou mesmo trabalhar, pois é sabido que a cocaína e o "crack", por exemplo, além de causarem dependência, destroem os neurônios, como ainda arrasam os patrimônios das famílias, com gastos desmesurados com tratamentos e internações, e o que é pior: com mínimas chances de recuperação.
+Bem porisso que se trata de crime hediondo.
+A sociedade não tolera o traficante, não podendo o Poder Judiciário fazer ouvidos moucos ao clamor social.
+O legislador, com a edição da Lei nº 11.343/06, passou a punir o tráfico de forma mais severa exatamente porque o Poder Legislativo percebeu, sentiu que o tecido social estava se esgarçando cada vez mais e que os valores deveriam ser preservados.
+Uma sociedade repleta de viciados e dependentes é uma sociedade que caminha a passos largos para sua própria destruição com o prejuízo de todos, menos dos traficantes que, com o dinheiro e patrimônio amealhados de forma criminosa, poderão deixar o País e mudarem-se para outros lugares, onde, com certeza, passarão a destroçar outras sociedades, outras inúmeras famílias.
+Em suma, a sociedade e o Brasil como um todo é o que menos os preocupa.
+O Poder Judiciário tem que, igualmente, dar o exemplo, tal como procedeu o Legislativo.
+Bem por isso que a substituição por restritivas de direito é absolutamente inadmissível.
+Como aplicar ao traficante, por exemplo, a prestação de serviços à comunidade se ele, exatamente, não presta serviço social algum. Ao contrário, só destrói a sociedade em que ele vive!
+O tráfico de entorpecentes, por se tratar de crime equiparado aos hediondos, não admite a pretendida substituição.
+Tanto é que a lei penal até previa o regime inicial fechado, numa demonstração de que se trata de crime gravíssimo.
+Mas, mesmo que, em alguns casos, possa não ser mais considerado hediondo, ainda assim o crime de tráfico é sempre muito grave, comportando, dessarte, o regime inicial fechado. Em liberdade, ou mesmo em regime prisional mais ameno, especialmente o aberto, óbvio que o agente irá continuar exercendo o nefando comércio. Nem a mais ingênua das pessoas iria acreditar no contrário!
+Depreende-se que as instâncias ordinárias assim decidiram com esteio apenas na gravidade em abstrato do delito, deixando de indicar elementos concretos dos autos que demonstrassem a real necessidade de imposição de regime prisional mais gravoso, o que vai de encontro ao teor dos enunciados n. 718 e 719 da Súmula do STF, bem como do enunciado n. 440 da Súmula do STJ, que assim dispõem:
+Enunciado 718/STF: "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada".
+Enunciado 719/STF: "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Enunciado 440/STJ: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+Sob tal perspectiva e diante dos parâmetros acima aludidos, entendo que o paciente deve ser submetido ao regime aberto para o início do cumprimento da reprimenda que lhe foi imposta.
+Por fim, afastada a hediondez ou a gravidade abstrata do crime como critério para obstar a substituição das penas e preenchidos os pressupostos previstos no art. 44 do Código Penal, resulta cabível a conversão das penas privativas de liberdade em medidas restritivas de direitos, a serem definidas pelo Juízo das Execuções Criminais.
+Ante o exposto, concedo a ordem, para assegurar ao paciente o regime aberto para o cumprimento da pena, bem como a fim de substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Publique-se. Intimem-se.
