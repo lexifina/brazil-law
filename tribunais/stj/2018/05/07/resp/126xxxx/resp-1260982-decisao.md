@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO (FAZENDA NACIONAL) contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 63):
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. REFIS. TERMO DE OPÇÃO FIRMADO ANTERIORMENTE AO AJUIZAMENTO DA AÇÃO. EXTINÇÃO DA FEITO. MANUTENÇÃO.
+- Uma vez suspensa a exigibilidade do crédito tributário em decorrência da adesão do contribuinte ao REFIS (art. 151, VI. do CTN), não poderia a Fazenda Nacional praticar qualquer procedimento executório no curso do referido parcelamento.
+- Nesse diapasão, correta a decisão monocrática que extinguiu a execução fiscal ajuizada em data posterior ao parcelamento, em face da inexigibilidade do título executivo.
+- Precedentes.
+- Apelação e remessa oficial improvidas.
+Houve a oposição de embargos declaratórios, que foram rejeitados (e-STJ fls. 74/80).
+Em suas razões, a recorrente alega violação dos arts. 267, IV e VI, 535, II e 618 do CPC/73, e 151, IV, do CTN (e-STJ fls. 85/92). Para tanto, defende que a CDA está revestida dos requisitos legais, por isso, deve ser considerada título executivo líquido e certo. Ainda, alega que o parcelamento suspende a exigibilidade do crédito tributário e não a sua extinção. Afirma que o parcelamento do débito tributário se deu em período posterior à inscrição em dívida ativa da União, que ocorreu em agosto de 2005. Aduz que o processo deveria ter sido extinto sem julgamento de mérito por falta de interesse processual pois, como a executada parcelou o débito, não poderia, ao mesmo tempo, insurgir-se contra ele. Requer, por fim, que o processo seja extinto sem julgamento do mérito por ausência de interesse processual ou que seja reconhecida a regularidade da CDA, determinando-se o prosseguimento da execução fiscal, ou, que, no máximo, ela seja suspensa.
+Contrarrazões às e-STJ fls. 99/106.
+Recurso admitido (e-STJ fls. 120/126).
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+Primeiramente, cumpre observar que é firme a orientação jurisprudencial desta Corte acerca da incidência da Súmula 284 do STF quando a parte recorrente limita-se a sustentar violação ao art. 535, II, do CPC/1973 de forma genérica, sem especificar "em que consistiria a real ausência de pronunciamento e qual seria a relevância da tese suscitada apta a promover a alteração do julgado" (AgRg no REsp 1.318.004/AM, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 02/04/2013). A esse respeito, confira-se ainda: EDcl no AREsp 310.038/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 12/04/2016, DJe 20/04/2016; REsp 1408195/CE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/05/2015, DJe 01/06/2015, e AgRg nos EDcl no REsp 1345760/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14/04/2015, DJe 16/04/2015.
+In casu, a recorrente, no recurso extremo, descurou de explicitar os pontos em que o julgado recorrido incorreu em omissão, contradição ou obscuridade, limitando-se a apontar ofensa genérica àquele preceito legal, o que atrai a incidência da referida súmula do STF.
+No mais, extrai-se do acórdão recorrido (e-STJ fls. 57 e seguintes):
+O cerne da presente lide consiste na possibilidade de extinção de processo de execução fiscal, em face da adesão do apelado ao REFIS.
+O Programa de Recuperação Fiscal - REFIS foi instituido pela lei 9.964/2000, visando promover a regularização de créditos da União, decorrentes de débitos de pessoas jurídicas, relativos a tributos e contribuições, administrados pela SRF e pelo INSS, com vencimento até 29/02/2000, constituídos ou não, inscritos ou não em dívida ativa, ajuizados ou a ajuizar, com exigibilidade suspensa ou não, inclusive os decorrentes de falta de recolhimento de valores retidos.
+In casu, o executado aderiu ao REFIS em 31.05.2005, momento que formalizou o Termo de Opção (fl. 17/19), instrumento que proporciona o ingresso do contribuinte ao programa, nos moldes do art. 2º da Lei 9964/2000:
+"Art. 2º O ingresso no Refis dar-se-á por opção da pessoa jurídica. que fará jus a regime especial de consolidação e parcelamento dos débitos fiscais a que se refere o art. 1º .
+Neste diapasão, havendo a confirmação da opção pelo REFIS, independentemente de homologação, ocorre a suspensão da exigibilidade do titulo executivo, conforme dispõe o art. 4º, § 4, do Decreto 3431/2000:
+Art 4-" § 4".- A opção pelo REFIS, independentemente de sua homologação, implica:
+11 após a confirmação da opção, nos termos estabelecidos pelo Comitê Gestor, suspensão da exigibilidade dos débitos não ajuizados, ou, quando ajuizados, integralmente garantidos.
+Uma vez suspensa a exigibilidade do crédito tributário em virtude do parcelamento (art. 151, VI, do CTN), não poderia ser iniciado qualquer procedimento executório, o qual se mostra eivado de nulidade.
+ ..
+Desta feita, na época da propositura da execução fiscal em tela (29/09/2005), a exigibilidade dos créditos da FAZENDA PÚBLICA para com o apelado estava suspensa, em virtude da adesão anterior do executado ao REFIS (28/08/2005).
+Irreprocháveis, assim, os argumentos adotados pelo douto sentenciante ao extinguir a presente execução fiscal, em face da inexigibilidade do título executivo no momento da propositura da ação.
+Ressalte-se que a posterior exclusão da executada do programa REFIS, acaso havida, não tomaria válida a execução fiscal ajuizada quando a exigibilidade do título executivo estava suspensa. Se a Fazenda Nacional desejasse cobrar débito decorrente dessa exclusão, deve emitir novo título e interpor uma nova Execução e não se utilizar de execução fiscal nula.
+ ..
+Como se verifica, o Tribunal de origem afirmou que a execução fiscal foi proposta após o executado ter aderido ao parcelamento e, por isso, o crédito tributário era inexigível. Rever tal conclusão, a fim de considerar a CDA válida, bem como afirmar que a execução foi proposta antes da inclusão do recorrido no Refis, importaria no reexame de matéria fático-probatória, o que é descabido em recurso especial, nos moldes da Súmula 7 do STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
