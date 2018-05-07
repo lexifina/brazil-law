@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pela Fazenda Nacional contra decisão do Tribunal de Justiça do Estado do Amazonas que não admitiu o recurso especial com base nos seguintes fundamentos: i) ausência de violação do art. 1.022 do CPC/2015; ii) ausência de prequestionamento; iii) óbice da Súmula 83/STJ (e-STJ, fls. 456/458).
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo na alínea "a" do permissivo constitucional contra acórdão assim ementado (e-STJ, fl. 370):
+PROCESSUAL CIVIL. TRIBUTÁRIO. INEXIGIBILIDADE. PIS/COFINS. MERCADORIAS IMPORTADAS. VENDAS REALIZADAS ENTRE PESSOAS SITUADAS NA ZONA FRANCA DE MANAUS. INEXIGIBILIDADE.
+1. É assente na jurisprudência desta colenda Sétima Turma que: "no benefício da exclusão da base de cálculo do PIS e da COFINS devem ser incluídos os valores resultantes de vendas de produtos por empresa localizada na Zona Franca de Manaus para outra da mesma localidade, sob pena de ofensa ao disposto no Decreto-lei n. 288/67, aos arts. 40 e 92 do ADCT da CF/88, bem como ao princípio da isonomia", sem que implique ofensa aos art. 110 e 111, II, ambos do CTN" (AC 0019930-85.2013.4.01.3200/AM, Sétima Turma, Rel. Desemb. Federal Reynaldo Fonseca, e- DJF1 15.08.2014).
+2. "A jurisprudência desta Corte é firme no sentido de que a venda de mercadorias para empresas situadas na Zona Franca de Manaus equivale à exportação de produto brasileiro para o estrangeiro, em termos de efeitos fiscais, segundo interpretação do Decreto-lei n. 288/67, não incidindo a contribuição social do PIS nem da Cofins sobre tais receitas. 3. Agravo regimental não provido." (AgRg no REsp 1550849/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/10/2015, DJe 16/10/2015).
+3. O Decreto Lei nº 288/1967, que criou a Zona Franca de Manaus, determina no art. 4º que "a exportação de mercadorias de origem nacional para consumo ou industrialização na Zona Franca de Manaus, ou reexportação para o estrangeiro, será para todos os efeitos fiscais, constantes da legislação em vigor, equivalente a uma exportação brasileira para o estrangeiro".
+4. Assim, como bem reconheceu o MM. Juízo a quo, as vendas realizadas pela impetrante encontram subsunção integral às normas jurídicas que tratam da matéria sub examine.
+5. Apelação e remessa oficial não providas. Sentença mantida.
+Os embargos de declaração opostos foram rejeitados.
+Alega a recorrente violação dos arts. 1.022 do CPC/2015; 110, 111, 175, 176  e  177 do CTN; 2º, § 1º, da Lei n. 10.996/2004;  5º-A da Lei n. 10.637/2002. Aduz, em síntese, que (e-STJ, fl. 450):
+O acórdão rechaçado declarou a inexistência de relação jurídico-tributária, determinando a não-incidência do PIS e da COFINS sobre as receitas de operações de vendas de mercadorias realizadas pela recorrida (e filiais) dentro do limite geográfico da Zona Franca de Manaus, bem como não recolher as parcelas vincendas do PIS e da COFINS sobre as receitas decorrentes das vendas de mercadorias realizadas dentro da Zona Franca de Manaus, para consumidor final (pessoas físicas ou jurídicas). |
+Ocorre que não deve ser afastada a incidência de PIS e COFINS sobre o faturamento decorrente das vendas internas de mercadorias realizadas pela parte na ZFM, possuindo como destinatários pessoas físicas.
+Prossegue afirmando que "a concessão de incentivo fiscal para quem não foi contemplado pelo legislador importa em ato do Juiz como legislador positivo, propiciando desoneração fiscal desarrazoada porquanto sem previsão legal" (e-STJ, fl. 452.)
+Requer, por fim, que "se restrinja o alcance da isenção à receita referente às vendas realizadas a pessoas jurídicas situadas na ZFM" (e-STJ, fl. 452.)
+É o relatório.
+Preenchidos os requisitos legais, bem como impugnados especificamente os despachos de inadmissão, dou provimento ao agravo e determino a reautuação como recurso especial para melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do apelo nobre, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
