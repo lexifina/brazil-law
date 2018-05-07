@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base neste(s) fundamento(s): Súmula 284/STF ("a alegação de violação aos artigos 2º e 3º do Decreto-Lei 911/69 não guarda pertinência com a tese recursal de impossibilidade de aplicação da tabela Fipe"), ausência de indicação de artigo de lei federal que teria recebido interpretação jurisprudencial divergente - Súmula 284/STF), Súmula 282/STF (artigo 1.228 do Código Civil), Súmula 356/STF (artigo 1.228 do Código Civil), Súmula 83/STJ (em relação à mora.) e Súmula 83/STJ (no tocante aos juros remuneratórios).
+Entretanto, a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do(s) seguinte(s) óbices: ausência de indicação de artigo de lei federal que teria recebido interpretação jurisprudencial divergente - Súmula 284/STF), Súmula 282/STF (artigo 1.228 do Código Civil) e Súmula 356/STF (artigo 1.228 do Código Civil).
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 253, parágrafo único, I, do RISTJ.
+Publique-se. Intimem-se.
