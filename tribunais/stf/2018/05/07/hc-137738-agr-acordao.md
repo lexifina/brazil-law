@@ -1,0 +1,764 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 17
+
+07/05/2018
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 137.738 RIO DE JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. ROBERTO BARROSO
+: ANTÔNIO CARLOS MAIA DE PÁDUA
+: DIOGO TEBET DA CRUZ
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+
+EMENTA: PROCESSUAL PENAL. AGRAVO REGIMENTAL EM
+HABEAS CORPUS. CRIMES CONTRA A ORDEM TRIBUTÁRIA.
+TRANCAMENTO DE AÇÃO PENAL. INÉPCIA DA DENÚNCIA.
+1.
+O trancamento da ação penal, por meio do habeas corpus, só
+é possível quando estiverem comprovadas, de plano, a atipicidade da
+conduta, a extinção da punibilidade ou a evidente ausência de justa causa
+(HC 103.891, Redator para o acórdão o Min. Ricardo Lewandowski; HC
+86.656, Rel. Min. Ayres Britto; HC 81.648, Rel. Min. Ilmar Galvão; HC
+118.066-AgR, Relª. Minª. Rosa Weber, e HC 104.267, Rel. Min. Luiz Fux).
+2.
+No caso de que se trata, inexiste razão para a superação
+dessa orientação restritiva. Da leitura da denúncia e das demais peças de
+informação que instruem o recurso, não se visualiza, de plano, a alegada
+inépcia da inicial acusatória.
+3.
+Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Primeira Turma do Supremo Tribunal Federal, em Sessão Virtual, na
+conformidade da ata de julgamento, por maioria de votos, em negar
+provimento ao agravo regimental, nos termos do voto do Relator, vencido
+o Ministro Marco Aurélio.
+Brasília, 27 de abril a 4 de maio de 2018.
+MINISTRO LUÍS ROBERTO BARROSO - RELATOR
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14839721.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 17
+
+07/05/2018
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 137.738 RIO DE JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. ROBERTO BARROSO
+: ANTÔNIO CARLOS MAIA DE PÁDUA
+: DIOGO TEBET DA CRUZ
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+RE LAT Ó RI O
+
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO (RELATOR):
+1.
+Trata-se de agravo regimental interposto contra decisão
+monocrática em que neguei seguimento ao habeas corpus, nos seguintes
+termos:
+“1.
+Trata-se de habeas corpus, com pedido de concessão
+de liminar, impetrado contra acórdão unânime da Sexta Turma
+do Superior Tribunal de Justiça, da Relatoria do Ministro
+Antonio Saldanha Palheiro, assim ementado:
+‘RECURSO ORDINÁRIO EM HABEAS CORPUS.
+CRIMES CONTRA A ORDEM TRIBUTÁRIA (ART. 3º, II,
+DA LEI N. 8.137/1990). PEDIDO DE TRANCAMENTO DA
+AÇÃO PENAL. INÉPCIA DA DENÚNCIA. VÁRIOS
+FATOS DELITUOSOS. AUSÊNCIA DE DESCRIÇÃO DA
+VANTAGEM INDEVIDA SUPOSTAMENTE RECEBIDA
+EM RELAÇÃO A UM DOS DELITOS. DEMONSTRAÇÃO
+DOS
+INDÍCIOS
+MÍNIMOS
+DE
+AUTORIA
+E
+MATERIALIDADE RELATIVAMENTE AOS DEMAIS.
+1. De acordo com a jurisprudência desta Casa, o
+trancamento da ação penal é medida de exceção, sendo
+cabível, tão somente, quando, de forma inequívoca,
+emergirem dos autos a atipicidade da conduta, a inocência
+do acusado ou, ainda, quando for impedida a
+compreensão da acusação, em flagrante prejuízo à defesa.
+2. No tocante ao primeiro fato delituoso, relatou o
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14839722.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 17
+
+HC 137738 A GR / RJ
+Ministério Público o recebimento pelo recorrente, a título
+de suborno, da quantia de R$ 350.000,00 (trezentos e
+cinquenta mil reais) para que deixasse de lançar auto de
+infração, visando favorecer P. R. de S. B., representante da
+Sclel – Sociedade Comercial de Coleta de Lixo e
+Equipamentos Ltda.
+3. No ponto, os fatos e conclusões apontados na
+inicial descreveram, suficientemente, o modo de atuação
+do recorrente, anunciando o titular da ação penal pública
+o recebimento da vantagem indevida e as demais
+elementares do delito, não se exigindo, neste momento, a
+descrição dos tributos não lançados ou lançados apenas
+parcialmente, mero exaurimento do crime. Doutrina.
+4. Sobre o segundo fato criminoso, esclareceu o órgão
+acusatório que o recorrente, em razão de amizade ou
+mesmo agraciado pelo pagamento de propina, infringiu
+seu dever funcional, ao violar as atividades inerentes de
+seu cargo de auditor fiscal, promovendo a defesa do
+contribuinte M. C. B., ao prestar-lhe ajuda na elaboração
+de impugnação a auto de infração lavrado pelo próprio
+recorrente.
+5. Para a subsunção perfeita da conduta praticada
+pelo agente ao modelo abstrato previsto na lei deve o
+órgão acusatório minudenciar a vantagem indevida
+exigida, solicitada, recebida ou prometida ao funcionário
+público. Nesse contexto, faltando a indicação do elemento
+normativo do tipo e não apresentando o Ministério
+Público nenhum dado preciso por meio do qual se permita
+a conclusão pela existência das características essenciais
+do delito contra a ordem tributária, carece a denúncia, no
+pormenor, de aptidão formal. Precedente.
+6. A respeito do terceiro fato, elucidou o Ministério
+Público que, no dia 16 de outubro de 2013, no
+estacionamento do Terminal Rodoviário Roberto da
+Silveira, o recorrente recebeu embrulho, contendo R$
+20.000,00 (vinte mil reais) em espécie, do empresário R. D.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14839722.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 17
+
+HC 137738 A GR / RJ
+C. Destacou que o referido valor foi recebido a título de
+suborno para que o auditor fiscal promovesse
+Representação para Inaptidão, favorecendo a empresa
+Cant Rio Matadouro e Distribuidora Ltda.
+7. No ponto, delineou o órgão acusatório, o
+recebimento de vantagem indevida pelo auditor fiscal
+para afastar da empresa a responsabilidade pelo
+pagamento de tributos. Os fatos e as circunstâncias
+necessários ao exercício do direito de defesa foram
+descritos na peça acusatória, sendo descabido o nível de
+detalhamento requerido pela defesa.
+8. Por fim, narrou o órgão acusatório que o
+recorrente aceitou suborno para beneficiar A. S. de S. e seu
+filho., B. M. de S., ambos empresários, auxiliados por seu
+contador F. G. de A. F., em procedimento de fiscalização.
+9. No tópico, contém a peça acusatória todas as
+circunstâncias necessárias à compreensão dos fatos,
+descrevendo o Ministério Público o recebimento de
+benefício indevido pelo recorrente para beneficiar
+empresários em procedimento fiscal. Narra o contexto no
+qual inseridos o recorrente e as pessoas ligadas a ele,
+elucidando os vínculos entre os envolvidos e
+apresentando indícios suficientes da prática das condutas
+delituosas.
+10. Recurso ordinário parcialmente provido para
+reconhecer, relativamente ao recorrente A. C. M. de P., a
+nulidade parcial da peça acusatória, no tocante ao ‘fato
+delituoso n. 2’.’
+2.
+Extrai-se dos autos que o paciente foi denunciado
+pelos crimes previstos no artigo 3º, II, (4 vezes), e no artigo 3º,
+III, ambos da Lei 8.137/90, c/c o artigo 29 do Código Penal.
+3.
+A peça acusatória narra a prática dos seguintes
+fatos delituosos:
+‘[...]
+1.1 Fato delituoso 1:
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14839722.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 17
+
+HC 137738 A GR / RJ
+1. O primeiro denunciado, senhor A. C. M. de P.,
+auditor-fiscal da Receita Federal do Brasil em Niterói-RJ,
+com lotação nesta cidade de Niterói, na Rua Almirante
+Tefé, número 668, Centro, Niterói – RJ, recebeu a titulo de
+suborno por ato de corrupção a quantia de R$ 350.000.00
+(trezentos e cinqüenta mil reais) para que deixasse de
+lançar auto de infração no valor de R$ 776.307.51
+(setecentos e setenta e seis mil trezentos e sete reais e
+cinqüenta e um centavos) em desfavor da empresa SelelSocied Comerical de Coleta de Lixo e Eq., visando
+favorecer o segundo denunciado, o empresário P. R. de S.
+B. (segundo denunciado), este auxiliado por seus
+contadores/administradores, o terceiro denunciado,
+senhor J. C. de H., e quarto denunciado, senhor F. G. de A.
+F., representantes da referida sociedade (fl. 251 do apenso
+I, volume I do processo 0008242-19.2013.4.02.5102 e fls.
+102/104 do apenso 4 – Resposta ao ofício
+OCR.0104.000356-0/2013
+ao
+processo
+000824219.2013.4.02.5102).
+2. A materialidade do delito encontra respaldo
+robusto nos termos do anexo III do ofício n. 140/2013RFB/Coger/Escor07 (apenso 4 - resposta ao oficio
+OCR.0104.000356-0/2013), na medida em que o primeiro
+denunciado foi o responsável pela fiscalização da
+sociedade Selel-Socied Comerical de Coleta de Lixo e Eq.,
+com início em 05.09.2011 e encerramento em 12.04.2013.
+consoante registro de procedimento fiscal n. 07.1.02.002011-00617-1 (fl. 1 do referido oficio), o qual aponta para a
+aplicação incorreta de coeficiente de determinação do
+lucro, lendo em vista que o denunciado apurou um lucro
+presumido á alíquota de 8% quando deveria utilizar a
+alíquota de 32% em razão da natureza da atividade
+empresarial.
+3. Com efeito, a autoria delituosa deste primeiro fato
+quedou
+inexoravelmente
+demonstrada,
+consoante
+declaração do chefe da equipe de fiscalização 01 da
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14839722.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 17
+
+HC 137738 A GR / RJ
+DRF/Niterói (fls. 120/123 do aludido oficio n° 140/2013RFB/Coger/Escor07), pois o primeiro denunciado
+submeteu uma proposta de encerramento da ação fiscal
+com lançamento de crédito tributário em tomo de apenas
+R$ 500,00 (quinhentos reais), utilizando para fins de
+cálculo a alíquota incorreta de 8%, obviamente visando
+favorecer ilicitamente a empresa Selel-Socied Comerical
+de Coleta de Lixo e Eq., todavia, após oposição da chefia
+de equipe de fiscalização através do AFRFB B. B., que lhe
+mostrou diversos precedentes administrativos pela
+aplicação da alíquota de 32% em razão da natureza da
+atividade empresarial, o primeiro denunciado acolheu
+essa orientação e alterou o auto de infração, porém já
+havia recebido a propina mencionada no item 1.
+4. A ilicitude veio à lona lendo em vista que o
+primeiro denunciado saiu de férias e não comunicou a
+alteração do auto de infração ao segundo, terceiro e quarto
+denunciados (sócio e contador da empresa citada), em
+sendo que o AFRFB B. B. entrou em contato com o
+contribuinte, representado pelo sócio P. R. de S. B.
+(segundo denunciado), o qual lhe esclareceu que pagou
+quantia de R$ 350.000.00 (trezentos e cinqüenta mil reais)
+para que não fosse lavrado o auto de infração em desfavor
+de sua empresa.
+5. O monitoramento telefônico, deferido na medida
+cautelar n. 0001352-98.2012.4.02.5102. corroborou o
+recebimento de vantagem indevida por parte do servidor
+denunciado, consoante relatado no auto circunstanciado
+n. 6, no qual o contador J. C. de H. (terceiro denunciado),
+um dos representantes da referida sociedade participou
+intensamente das tratativas (fls. 655/723, grifos do MPF):
+[...]
+6. Assim que tomou ciência da declaração de P. B.
+(segundo denunciado) ao AFRFB B. B, o primeiro
+denunciado promoveu contato com J., contador da
+empresa e terceiro denunciado, com quem mantém
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14839722.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 17
+
+HC 137738 A GR / RJ
+vinculo de amizade, demonstrando toda sua preocupação
+com a revelação de sua conduta criminosa (fls. 798/847 do
+processo n. 0001352-98.2012.4.02.5102, grifos do MPF):
+[…]
+7. Tendo em vista que o primeiro denunciado não
+pôde levar adiante seu plano de lançar apenas o valor de
+R$ 500,00 (quinhentos reais) em desfavor da referida
+empresa, restou ao auditor fiscal ora denunciado devolver,
+ironicamente, a quantia paga a titulo de propina,
+conforme demonstra o áudio interceptado em face do
+empresário P. R. de S. B., que comprova, outrossim, a
+materializarão do aludido pagamento indevido, nos
+termos do relatado no auto circunstanciado n. 7 (fls.
+798/847 do processo n. 0001352-98.2012.4.02.5102):
+[...]
+1.2. Fato delituoso 2:
+12. No mês de novembro e 2012, o primeiro
+denunciado, na condição de auditor-fiscal da Receita
+Federal em Niterói - RJ, em razão de estreita amizade ou
+mesmo agraciado pelo pagamento de propina, infringiu
+gravemente seu dever funcional ao violar as atividades de
+seu cargo de auditor-fiscal da Receita Federal do Brasil em
+Niterói-RJ, promovendo a defesa do contribuinte M. C. B.,
+quinto denunciado, ao prestar-lhe valiosa ajuda na
+elaboração de impugnação ao aulo de infração que o
+próprio denunciado/auditor o lavrou anteriormente, no
+valor de R$ 224.096,59 (duzentos e vinte e quatro mil e
+noventa e seis reais e cinqüenta e nove centavos),
+porquanto foi o responsável por fiscalizar a pessoa física
+M. C. B., iniciada por meio do mandado de procedimento
+fiscal nº 0710200/00413/11.
+13. A materialidade do delito veio à tona, consoante
+os termos do oficio n. 34/2013 - RFB/Coger/Escor07
+(apenso I, volume II, dos autos principais), revelando que
+a fiscalização sobredita foi finalizada em 24 de outubro de
+2012, conforme é possível observar abaixo em que a
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14839722.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 17
+
+HC 137738 A GR / RJ
+degravação do auto circunstanciado n. 2 apresenta um
+diálogo entre o denunciado e M. C. B., no dia 19 de
+novembro de 2012, onde ambos combinam um data para
+agendar uma reunião, restando marcada para o dia 21 de
+novembro de 2012 (grifos do MPF):
+[…]
+14. As informações do referido ofício do Escor07
+informam que M. C. B. protocolou a impugnação ao auto
+de infração no dia 23 de novembro de 2012, apenas dois
+dias depois do encontro agendado para entrega do
+trabalho mencionado na interceptação telefônica, em
+sendo importante ressaltar que esse contato ocorreu
+depois de lavrado o auto de infração pelo
+auditor/denunciado, ou seja, depois de encerrado
+qualquer vínculo entre o auditor-fiscal e o contribuinte, e,
+além disso, o primeiro denunciado é muito claro em sua
+pretensão de criar algum tipo de laço além da esfera
+estritamente ética com o contribuinte quando diz: '[...] ai o
+senhor tomaria café da manhã comigo, conheceria lá o
+meu ambiente, a gente estreitaria mais os nossos laços,
+compreendeu'.
+15. O quinto denunciado, senhor M. C. B.,
+dolosamente, no mês de novembro de 2012, conforme
+degravação extraída do contato telefônico mantido nesta
+cidade de Niterói - RJ, recebeu total apoio espúrio do
+primeiro denunciado/auditor fiscal, na elaboração de
+recurso á impugnação ao auto de infração que o próprio
+denunciado/auditor
+o
+lavrou
+contra
+o
+denunciado/contribuinte, no valor de RS 224.096.59
+(duzentos e vinte e quatro mil e noventa e seis reais e
+cinqüenta e nove centavos), porquanto este foi por meio
+do mandado de procedimento fiscal n. 0710200/00413/11 o
+responsável por fiscalizar a sua condição de contribuinte
+pessoa física M. C. B.
+[...]
+1.3. Fato delituoso 3:
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14839722.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 17
+
+HC 137738 A GR / RJ
+18. No dia 16 de outubro de 2013, às 12 horas, no
+estacionamento da Terminal Rodoviário Roberto da
+Silveira, nesta cidade de Niterói RJ, estando no interior do
+veiculo Citroen C4, o auditor fiscal, primeiro denunciado,
+recebeu um embrulho contendo R$ 20.000 (vinte mil reais)
+em espécie, das mãos do quinto denunciado, o empresário
+R. D. C., conforme o auto circunstanciado n. 12 e relatório
+de vigilância policial n. 8/2013 de 16/10/2013, se
+constatando, inequivocamente, a posteriori, que o aludido
+valor recebido era a título de suborno para promover
+Representação para Inaptidão favorecendo a empresa
+Cant Rio Matadouro e Distribuidora Ltda. - EPP, CNPJ
+número 10.535.982/0001-70, documento fiscal datado de 7
+de agosto de 201, consoante Anexo III do oficio 185/2014RFB/Coger/Escor07 (apenso II, volume XII, processo nº
+0001352-98.2012.4.02.5102), assinado pelo primeiro
+denunciado (vide RPF n. 07.1.02.002012-00016-9), cuja
+empresa tem como sócio de fato o senhor R. D. C., sexto
+denunciado.
+19. A autoria delituosa restou categórica na medida
+em que o primeiro denunciado, senhor A. C. M. de P., era
+o
+responsável
+pelo
+andamento
+da
+auditoria
+supramencionada em face da Cant Rio Matadouro e
+Distribuidora Ltda. (anexo II do oficio 185/2014RFB/Coger/Escor07 - apenso II, volume XII, ao processo n
+0001352-98.2012.4.02.5102), que mantinha expressiva
+omissão presumida de receitas ante a constatação de
+créditos bancários sem a comprovação devida, conforme
+apurou o próprio auditor-fiscal ora denunciado, e
+naturalmente, o pagamento daquela propina propiciava
+afastar a empresa da responsabilidade do pagamento dos
+tributos ao declará-la INAPTA, e o quinto denunciado,
+senhor R. D. C., favorecido pelo conluio, se apresentava
+como preposto da empresa favorecida nos autos do
+procedimento fiscal.
+20. Efetivamente, os contatos atendiam aos interesses
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14839722.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 10 de 17
+
+HC 137738 A GR / RJ
+do corrupto e corruptor (sexto denunciado), conforme
+registram os diálogos abaixo, além de corroborar o forte
+entrosamento amigável, conforme se apurou, exatamente,
+frise-se, no mesmo dia em que foi pago o suborno ao
+auditor fiscal, em 16 de outubro de 2013:
+[…]
+21. Finalmente se constatou por meio do oficio n.
+185/2014-RFB-Escor07, que a empresa Cant Rio
+Matadouro Ltda., que tinha como responsável de falo o
+sexto denunciado, foi beneficiada pelo auditor-fiscal,
+primeiro denunciado, ao lavrar no âmbito do
+procedimento fiscal a representação para inaptidão do
+CNPJ, sob alegação de que a referida funcionou em
+terreno de propriedade do sexto denunciado enquanto
+este seria supostamente um mero empregado da empresa,
+sendo que, as atividades teriam sido encerradas um ano e
+meio antes do procedimento fiscal, ensejando na inaptidão
+do CNPJ.
+22. Desse modo, os elementos colhidos durante a
+instrução criminal do inquérito apontam que a referida
+representação para inaptidão do CNPJ da empresa Cant
+Rio Matadouro Ltda., é a razão pela qual motivou o
+pagamento, pelo sexto denunciado, dos R$ 20,000.00
+(vinte mil reais) mencionados anteriormente.
+[...]
+1.5. Fato delituoso 5:
+28.
+Além
+dos
+fatos
+delituosos
+narrados
+anteriormente, o primeiro denunciado aceitou de suborno
+por ato de corrupção para beneficiar os senhores A. S. de
+S. e seu filho B. M. de S., sétimo e oitavo denunciados
+respectivamente, ambos empresários e auxiliados por seu
+contador, senhor F. G. de A. F., quarto denunciado.
+29. Autoria e materialidade do delito encontram
+respaldo robusto nos autos da medida cautelar de
+interceptarão telefônica, onde se constata claramente em
+diversos diálogos que o primeiro denunciado aceitou
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14839722.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 11 de 17
+
+HC 137738 A GR / RJ
+receber quantia em dinheiro para beneficiar o senhor A. S.
+de S. e B. em procedimento de fiscalização, sendo de
+amplo conhecimento por parte dos interlocutores a prática
+corrupta do servidor.
+[...]
+32. As investigações conduzidas pela policia indicam
+que A. também é administrador da Sclel-Socied Comercial
+de Coleta De Lixo e Equip Ltda., já citada nesta denúncia,
+sendo possível afirmar que o quarto denunciado
+funcionou de elo entre o auditor-fiscal imputado e o
+sétimo e oitavo denunciados.
+[...]
+33. No trecho do diálogo destacado acima se
+constata, cabalmente, a participação de todos os
+envolvidos na prática delituosa: o primeiro denunciado é
+contratado pelos empresários A. (sétimo denunciado) e B.
+(oitavo denunciado) para redigir um recurso em
+procedimento fiscal, sendo que o contador G. (quarto
+denunciado) cuida de rever o ato com base na técnica
+contábil.
+[…].’
+4.
+O Juízo da Segunda Vara Federal de Niterói/RJ
+recebeu a denúncia e determinou a citação do acusado para
+oferecer resposta à acusação, nos termos do artigo 514 do
+Código de Processo Penal.
+5.
+Após o oferecimento da defesa prévia, o Juízo de
+origem absolveu sumariamente o paciente do crime previsto no
+artigo 3º, III, da Lei 8.137/90, com fundamento no artigo 397, III,
+do Código de Processo Penal, e, na sequência, designou
+audiência de instrução e julgamento.
+6.
+Dessa decisão, foi impetrado habeas corpus no
+Tribunal Regional Federal da 2ª Região. Denegada a ordem, foi
+interposto recurso ordinário no Superior Tribunal de Justiça. O
+recurso foi parcialmente provido ‘para reconhecer […] a nulidade
+parcial da peça acusatória, no tocante ao ‘fato delituoso n. 2’’.
+7.
+Neste habeas corpus, a parte impetrante reitera a
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14839722.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 12 de 17
+
+HC 137738 A GR / RJ
+tese de inépcia da denúncia, sob o argumento de que a peça
+acusatória não descreveria: ‘(i) qual e quanto foi o suborno
+supostamente aceito pelo Paciente; (ii) qual ato de corrupção
+perpetrado pelo mesmo; (iii) em que consistia o benefício a ser atingido
+aos codenunciados; (iv) em qual procedimento fiscal seria praticado tal
+ato; (v) em que consistiria tal recurso (data, objeto); (vi) por quanto o
+Paciente fora ‘contratado’; (vii) como tal recurso e procedimento fiscal
+representavam interesses conflitantes; (viii) em que consistia o tal
+‘procedimento fiscal’ e (ix) por quem fora lavrado’. Daí o pedido de
+concessão da ordem a fim de determinar o trancamento da ação
+penal.
+Decido.
+8.
+A Primeira Turma do Supremo Tribunal Federal
+consolidou entendimento no sentido da inadmissibilidade da
+impetração de habeas corpus em substituição ao recurso
+extraordinário, previsto no art. 102, III, da Constituição Federal
+(HC 110.055, Rel. Min. Marco Aurélio, HC 106.158, Rel. Min.
+Dias Toffoli, e HC 118.568, Rel.ª Min.ª Rosa Weber). A hipótese,
+portanto, é de extinção do processo sem resolução do mérito
+por inadequação da via eleita.
+9.
+Não é caso de concessão da ordem de ofício. O
+acórdão impugnado alinha-se à orientação jurisprudencial do
+Supremo Tribunal Federal no sentido de que o trancamento de
+ação penal só é possível quando estiverem comprovadas, de
+logo, a atipicidade da conduta, a extinção da punibilidade ou a
+evidente ausência de justa causa (v.g HC 103.891, Redator para
+o acórdão o Min. Ricardo Lewandowski; HC 86.656, Rel. Min.
+Ayres Britto; HC 81.648, Rel. Min. Ilmar Galvão; HC 118.066AgR, Rel.ª Min.ª Rosa Weber, e HC 104.267, Rel. Min. Luiz Fux).
+10.
+No caso de que se trata, inexiste razão para a
+superação dessa orientação restritiva. De início, verifico que a
+petição inicial do writ não foi instruída com cópia do ato
+impugnado e do acórdão do Tribunal Estadual, o que atrai a
+incidência da orientação de que constitui ônus do impetrante
+instruir a petição do habeas corpus com as peças necessárias ao
+exame da pretensão nela deduzida (HC 95.434, Relator o Min.
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14839722.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 13 de 17
+
+HC 137738 A GR / RJ
+Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC
+100.994, Rel. Min. Ellen Gracie; HC 94.219, Rel. Min. Ricardo
+Lewandowski).
+11.
+No mais, da leitura da denúncia e das demais
+peças de informação que instruem a impetração não se
+visualiza, de plano, a alegada inépcia da acusação.
+12.
+Diante do exposto, com base no art. 21, § 1º, do
+RI/STF, nego seguimento ao habeas corpus.”
+
+2.
+No presente agravo regimental, a defesa afirma que “deve
+ser esclarecido que a impetração não ataca toda a extensão da decisão do Superior
+Tribunal de Justiça, mas apenas uma parte”, na medida em que “A inépcia da
+denúncia ante a ausência de descrição da conduta tida como criminosa do
+Agravante, frente às elementares do tipo penal do art. 3º, inciso II, da Lei nº
+8.137/90, apresenta-se como único fundamento do writ”. Destaca que “não
+houve qualquer pedido de trancamento, mas tão somente a impugnação da
+decisão no que toca unicamente ao fato delituoso n° 5, pleiteando-se a evidente
+inépcia da denúncia nesse ponto”.
+3.
+Prossegue a narrativa para sustentar que, “apesar da
+narrativa incisiva, com contornos contundentes, a denúncia peca por não
+individualizar precisa e corretamente as condutas imputadas ao Agravante,
+falhando especificamente em operar a adequação típica frente à figura delituosa
+capitulada”.
+4.
+Com essa argumentação, a defesa requer o provimento do
+agravo “para declarar a inépcia do fato delituoso n° 5”.
+5.
+O Ministério Público Federal opinou pelo não provimento
+do agravo regimental.
+6.
+
+É o relatório.
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14839722.
+
+Supremo Tribunal Federal
+Voto - MIN. ROBERTO BARROSO
+
+Inteiro Teor do Acórdão - Página 14 de 17
+
+07/05/2018
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 137.738 RIO DE JANEIRO
+VOTO
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO (RELATOR):
+1.
+
+O agravo regimental não deve ser provido.
+
+2.
+De início, tal como apontou a decisão agravada, verifico
+que a petição inicial do writ não foi instruída com cópia do inteiro teor do
+acórdão impugnado e do aresto do Tribunal estadual, o que atrai a
+incidência da orientação de que constitui ônus do impetrante instruir a
+petição do habeas corpus com as peças necessárias ao exame da pretensão
+nela deduzida (HC 95.434, Rel. Min. Ricardo Lewandowski; HC 116.523,
+Rel. Min. Dias Toffoli; HC 100.994, Relª. Minª. Ellen Gracie; HC 94.219,
+Rel. Min. Ricardo Lewandowski).
+3.
+Ademais, a jurisprudência do Supremo Tribunal Federal é
+firme no sentido de que o trancamento da ação penal, por meio do habeas
+corpus, só é possível quando estiverem comprovadas, de plano, a
+atipicidade da conduta, a extinção da punibilidade ou a evidente ausência
+de justa causa (HC 103.891, Redator para o acórdão o Min. Ricardo
+Lewandowski; HC 86.656, Rel. Min. Ayres Britto; HC 81.648, Rel.
+Min.Ilmar Galvão; HC 118.066-AgR, Relª. Minª. Rosa Weber; e HC
+104.267, Rel. Min. Luiz Fux).
+4.
+No caso de que se trata, inexiste razão para a superação
+dessa orientação restritiva. Da leitura da denúncia e das demais peças de
+informação que instruem o recurso, não se visualiza, de plano, a alegada
+inépcia da inicial acusatória. Tal como apontou o acórdão do TRF da 2ª
+Região, considerando que “a denúncia logrou apontar liame entre o delito
+narrado na denúncia e a conduta do Agravante, possibilitando ao mesmo o pleno
+exercício do direito de defesa, não há que se falar em inépcia da inicial”.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14839723.
+
+Supremo Tribunal Federal
+Voto - MIN. ROBERTO BARROSO
+
+Inteiro Teor do Acórdão - Página 15 de 17
+
+HC 137738 AGR / RJ
+
+5.
+
+Diante do exposto, nego provimento ao agravo regimental.
+
+6.
+
+É como voto.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14839723.
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 16 de 17
+
+AG.REG. NO HABEAS CORPUS 137.738 RIO DE JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. ROBERTO BARROSO
+: ANTÔNIO CARLOS MAIA DE PÁDUA
+: DIOGO TEBET DA CRUZ
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+VOTO
+
+O SENHOR MINISTRO MARCO AURÉLIO – O habeas corpus é ação
+constitucional voltada a preservar a liberdade de ir e vir do cidadão. O
+processo que o veicule, devidamente aparelhado, deve ser submetido ao
+julgamento de Colegiado. Descabe observar quer o disposto no artigo 21
+do Regimento Interno, no que revela a possibilidade de o relator negar
+seguimento a pedido manifestamente improcedente, quer o artigo 932 do
+Código de Processo Civil. Provejo o agravo para que o habeas corpus tenha
+sequência.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14759792.
+
+Supremo Tribunal Federal
+Extrato de Ata - 07/05/2018
+
+Inteiro Teor do Acórdão - Página 17 de 17
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO HABEAS CORPUS 137.738
+PROCED. : RIO DE JANEIRO
+RELATOR : MIN. ROBERTO BARROSO
+AGTE.(S) : ANTÔNIO CARLOS MAIA DE PÁDUA
+ADV.(A/S) : DIOGO TEBET DA CRUZ (0127188/RJ)
+AGDO.(A/S) : SUPERIOR TRIBUNAL DE JUSTIÇA
+Decisão: A Turma, por maioria, negou provimento ao agravo
+regimental, nos termos do voto do Relator, vencido o Ministro
+Marco Aurélio. Primeira Turma, Sessão Virtual de 27.4.2018 a
+4.5.2018.
+Composição: Ministros Alexandre de Moraes (Presidente), Marco
+Aurélio, Luiz Fux, Rosa Weber e Luís Roberto Barroso.
+Disponibilizou processo para esta Sessão o Ministro Dias
+Toffoli, não tendo participado do julgamento desse feito o
+Ministro Alexandre de Moraes em razão da ordem de sucessão na
+Primeira Turma.
+Carmen Lilian Oliveira de Souza
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 14828863
