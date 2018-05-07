@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO DE DANOS MORAIS. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. Fundamento do acórdão não impugnado. Súmula 283/STF. DANO MORAL. ALTERAÇÃO DO VALOR FIXADO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Não há que se falar em violação do art. 535 do CPC/73 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. A alteração do valor fixado a título de compensação por danos morais somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada.
+5. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+DECISÃO
+Cuida-se de recurso especial interposto por FALE FACIL COMUNICACOES IP LTDA, fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 05/12/2013.
+Atribuído ao Gabinete em: 26/08/2016.
+Ação: de compensação de danos morais, ajuizada por [NOME] DE [NOME] LIMA, em desfavor da recorrente, tendo em vista a inclusão de seu nome em anúncio de oferta de serviços de acompanhante, na página dos "classificados" em portal de jornal eletrônico por este mantido.
+Sentença: julgou procedente o pedido, para condenar a recorrente ao pagamento de R$ 5.000,00 (cinco mil reais) a título de danos morais.
+Acórdão: negou provimento à apelação interposta pela recorrente e deu provimento à apelação interposta pela recorrida, para majorar o quantum compensatório para R$ 50.000,00 (cinquenta mil reais), nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - LEGITIMIDADE DA EMPRESA DE COMUNICAÇÃO - JORNAL ELETRÔNICO - CONGLOMERADO ECONÔMICO - PUBLICAÇÃO DE ANÚNCIO COMO ACOMPANHANTE - DANO MORAL PURO - DEVER DE INDENIZAR - MAJORAÇÃO DO QUANTUM - RECURSO PROVIDO. 1. Anúncio publicado nos classificados de jornal que faz parte de um conglomerado econômico, consoante a teoria da aparência, os constituintes se confundem. Não se pode exigir da parte autora o conhecimento pormenorizado da constituição de cada parte do conglomerado econômico, com as suas aludidas razões sociais. 2. Natureza da publicação, que sugere ser a autora acompanhante, com clara conotação sexual, exige do Jornal Eletrônico a necessária cautela no sentido da identificação do anunciante e da responsabilidade sobre o teor da divulgação. 3. Caso concreto em que a empresa jornalística, em evidente comportamento negligente, não adotou as mínimas cautelas nesse sentido. Dever de indenizar que se mostra impositivo. 4. Deverá ser majorado indenização levando em conta a natureza da lesão e a extensão do dano, as condições pessoais do ofendido e do responsável, a gravidade da culpa, a natureza e a finalidade da indenização, o caráter compensatório, pedagógico e punitivo. Sentença reformada (e-STJ fls. 187/188).
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 267, IV, VI, 283, 333, 396 e 535 do CPC/73; 884 e 944 do CC/02. Além de negativa de prestação jurisdicional, sustenta a recorrente a sua ilegitimidade para figurar no polo passivo da lide. Aponta a ausência de documentos essenciais à propositura da ação, uma vez que os documentos acostados aos autos não demonstram a existência de direito à indenização. Por fim, pugna pela redução do quantum compensatório fixado, por considerá-lo exorbitante.
+Relatado o processo, decide-se.
+Julgamento: CPC/73
+- Da violação do art. 535 do CPC/73
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 535 do CPC/73 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no REsp 1.469.906/MG, 3ª Turma, DJe 16/02/2018; e AgInt no AREsp 808.418/SP, 4ª Turma, DJe 13/12/2017.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da legitimidade passiva da recorrente, do ônus probatório e da razoabilidade do quantum compensatório arbitrado, de maneira que os embargos de declaração por ela opostos, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 535 do CPC/73, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à legitimidade da recorrente para figurar no polo passivo da ação, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da existência de fundamento não impugnado
+A recorrente, em relação à alegada ausência de juntada de documentação comprobatória por parte da autora, não impugnou o seguinte fundamento utilizado pelo TJ/PI:
+A análise dos autos verifica-se que o site da internet proporcionava aos usuários a possibilidade de fazer anúncios de forma anônima, sem o pagamento de qualquer remuneração, o que não exime da responsabilidade do réu sendo que a atitude correta, nestes tipos de anúncios, acompanhantes, seria colher a assinatura da anunciante, até mesmo requerendo que esta assinasse uma declaração que eximisse a empresa jornalística da responsabilidade por eventuais danos morais decorrentes de tal anúncio. Ainda mais porque o nome de terceira pessoa ([NOME]) estava mencionado de forma expressa na publicação.
+Elenco que, atualmente, dispomos de meios tecnológicos aptos a elucidar quem enviou ou de onde originou mensagens eletrônicas. Sendo ônus da parte ré demonstrar a existência de fato extintivo de direito do autor, consoante dispõem o art. 333, II, do CPC, o que não foi feito, logo a alegação desta, às fls. 98, de que a própria parte autora poderia ter forjado o anúncio por se tratar de área de livre acesso, analisando o acervo probatório anexado, constata-se carecer de substrato fático jurídico vergastada alegação (e-STJ fls. 190/191).
+Assim, não impugnado esse fundamento, deve-se manter o acórdão recorrido. Aplica-se, neste caso, a Súmula 283/STF.
+- Do pedido de revisão do valor da compensação por danos morais
+A jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
