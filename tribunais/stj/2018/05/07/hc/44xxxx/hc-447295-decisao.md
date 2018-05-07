@@ -1,0 +1,16 @@
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. EXCESSO DE PRAZO. NEGATIVA DE AUTORIA. AUSÊNCIA DA CÓPIA DO ACÓRDÃO IMPUGNADO. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+Inicial indeferida liminarmente.
+DECISÃO
+Com a alegação de excesso de prazo para formação da culpa e ausência de fundamentação idônea a amparar a custódia cautelar de [NOME] - denunciado pela prática do crime inscrito no art. 121, § 2º c/c art. 14, II, e art. 288, todos do Código Penal -, impetrou-se este habeas corpus contra o acórdão proferido pelo Tribunal de Justiça de Pernambuco no HC n. 0000248-88.2018.8.17.0000.
+Requer-se, inclusive em liminar, a concessão da ordem para que seja revogada a prisão cautelar.
+É o relatório.
+O presente writ não merece seguimento.
+Isso porque, não consta dos autos cópia do acórdão ora atacado e tal deficiência prejudica a compreensão exata do caso, inviabilizando, assim, o exame do apontado constrangimento ilegal.
+Ora, é consabido que o habeas corpus não comporta dilação probatória e exige prova pré-constituída das alegações. Cabe ao impetrante, em especial, quando se tratar de advogado, o ônus processual de produzir elementos documentais consistentes, destinados a comprovar as alegações suscitadas no writ. Nesse sentido, por exemplo: HC n. 317.882/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 31/8/2015; e RHC 45789/RJ, Ministro Newton Trisotto (Desembargador convocado do TJ/SC), Quinta Turma, DJe 30/9/2015).
+De mais a mais, não verifico a existência de ilegalidade manifesta.
+Pelo que consta da decisão que indeferiu o pedido liminar no acórdão ora atacado e das informações prestadas às fls. 32/40, ao contrário do que afirma o impetrante (fl. 2), o paciente teve a prisão decretada em 16/5/2016 e, em 27/6/2016, deu-se cumprimento ao mandado de prisão preventiva, que já se encontrava custodiado em estabelecimento prisional pernambucano, desde o dia 20/05/2016, por força de prisão em flagrante delito e ordem judicial da 2ª Vara do Tribunal do Júri desta Comarca nos autos do processo NPU 013601-64.2016.8.17.0810 (fl. 38). E, em 13/11/2017, o paciente e os demais corréus foram pronunciados, tendo sido a prisão cautelar mantida nos seguintes termos (fl. 38):
+ ..  Sobreleva destacar que o caso em concreto evidencia necessidade da prisão, notadamente para garantia da ordem pública e por conveniência da instrução criminal, considerando que constam dos autos informações de que todos acusados são contumazes na prática delitiva, inclusive figurando no polo passivo de outras ações penais, nos termos do quanto miudamente exposto nas referidas decisões, sem olvidar da vitima ser sobrevivente e apontamentos de que os acusados ceifaram a vida de outras pessoas por serem testemunhas de crimes praticados por eles, além de relatos da vítima de que houve ameaças contra a sua pessoa e a seus familiares após o crime.  ..
+Por fim, na via do habeas corpus, não há como discutir a negativa de autoria, pois demandaria o reexame aprofundado do conjunto fático-probatório que compõe o processo principal.
+Por tais razões, indefiro liminarmente o pedido de habeas corpus (art. 210 do RISTJ).
+Publique-se.
