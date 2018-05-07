@@ -1,0 +1,18 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA CONDENATÓRIA. GRAVIDADE ABSTRATA. MOTIVAÇÃO AGREGADA PELO TRIBUNAL ESTADUAL. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PARECER ACOLHIDO. LIMINAR CONFIRMADA.
+Ordem concedida.
+DECISÃO
+Reforçando o que foi por mim afirmado na decisão de fls. 79/81, mediante a qual concedi medida liminar em favor de [NOME], veio o parecer do Ministério Público Federal, o qual também adoto como razão de decidir.
+Eis as palavras do Subprocurador-Geral da República [NOME] com as quais estou de pleno acordo (fls. 89/91):
+10. Depreende-se do artigo 312 do Código de Processo Penal que os requisitos para a decretação da prisão preventiva são: I) garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal, ou para assegurar a aplicação da lei penal; II) prova da existência do crime; e III) indício suficiente de autoria.
+11. No caso vertente, em que pese a prova da materialidade do delito e a presença de indícios suficientes da autoria, não restou demonstrado quaisquer dos requisitos legais listados no item I.
+12. É ressabido que a decretação da prisão preventiva depende da demonstração concreta de que tal medida é necessária, a teor do artigo 312 do Código de Processo Penal, sob pena de ocasionar constrangimento ilegal ao direito de liberdade do réu.
+13. In casu, as instâncias ordinárias desatenderam ao comando do artigo 312 do CPP e contrariaram a orientação consagrada pelos Tribunais Superiores, uma vez que a segregação cautelar foi decretada com base na gravidade abstrata do crime, sem o cotejo de elementos concretos hábeis a configurar a imprescindibilidade da prisão preventiva.
+14. Verifica-se que a decisão do Juiz singular adotou fundamentos abstratos para a manutenção da prisão preventiva, negando ao paciente o direito de recorrer em liberdade. Confira-se:
+"O Réu respondeu ao processo preso, de maneira que deverá nessa condição aguardar o desfecho de eventual recurso, subsistentes as razões da custódia cautelar"
+15. No mesmo sentido, foi a decisão que converteu o flagrante em prisão preventiva. Embora o TJSP tenha mencionado o fato de o paciente possuir outra condenação pelo crime de tráfico de drogas imposta pelo Juízo da 2ª Vara Criminal de Itapetininga/SP, o Magistrado singular, por ocasião da audiência de custódia, ocorrida em 15.11.2017, ao contrário, não trouxe motivação concreta para a custódia cautelar. (fls. 32/33)
+16. Nesse contexto, a gravidade abstrata do delito e ilações genéricas sobre a periculosidade social do réu são circunstâncias insuficientes a configurar a necessidade da prisão preventiva.
+17. A avaliação das especificidades do caso vertente não permite atestar a periculosidade social do paciente, tampouco sua intenção de obstaculizar o processo ou de furtar-se à aplicação da lei penal.
+Posto isto, o Ministério Público Federal manifesta-se pelo não conhecimento do recurso, mas pela concessão da ordem de oficio para revogar a prisão preventiva do paciente, se por outro motivo não estiver preso, confirmando-se a liminar deferida por essa Corte Especial.
+Por tudo já exposto, confirmo a decisão liminar e, acolhendo o parecer ministerial, concedo a ordem de habeas corpus a fim de revogar a prisão preventiva de [NOME] no Processo n. 0001033-68.2017.8.26.0571, 2ª Vara Criminal da comarca de Itapetininga/SP, mantida na sentença proferida em 3/4/2018, se por outro motivo não estiver preso. Ressalvo a possibilidade de nova decretação da custódia cautelar, caso demonstrada a necessidade, sem prejuízo, ainda, da fixação de medidas cautelares alternativas pelo Juiz processante, nos termos da Lei n. 12.403/2011.
+Publique-se.
