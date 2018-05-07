@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2073365-29.2018.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante, custódia essa convertida em preventiva, pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006, ante a apreensão de 33 porções de crack, pesando aproximadamente 31g (trinta e um gramas), e de 6 (seis) micropontos de LSD - e-STJ fl. 51.
+Impetrado habeas corpus no Tribunal de origem, o pedido liminar foi indeferido pelo desembargador relator (HC n. 2073365-29.2018.8.26.0000, e-STJ fls. 19/21).
+Em 26/4/2018 indeferi liminarmente o writ (e-STJ fls. 188/190).
+Na presente petição, informa o impetrante, ora requerente, que por equívoco enviou a esta Casa a inicial do habeas corpus manejado na origem, motivo pelo qual junta a inicial correta, dirigida ao Superior Tribunal de Justiça, e requer o afastamento do disposto no enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+É, em síntese, o relatório.
+Pois bem. A despeito da juntada da nova inicial pela defesa, verifico que inexistem razões para a alteração da decisão por mim proferida às e-STJ fls. 188/190.
+É que, consoante consignei naquela oportunidade, o Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus contra decisão que indefere o pedido liminar no writ originário, a não ser que fique demonstrada flagrante ilegalidade (enunciado n. 691 da Súmula do STF), o que não ocorre na espécie, pois, apesar dos laudos negativos para maconha e cocaína, consta da decisão monocrática de origem que o "exame resultou positivo para MDMA" (e-STJ fl. 20). Ademais, a prisão processual, ao que parece, foi mantida em razão de o paciente "já possuir passagens pelo crime de tráfico de drogas" (e-STJ fl. 146).
+Assim, as questões formuladas, notadamente diante das peculiaridades do caso, necessitam de averiguação mais aprofundada pelo Tribunal estadual, que deverá apreciar a argumentação contida na impetração no momento adequado. Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Ante o exposto, mantenho a decisão que indeferiu liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
