@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. SEGURO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COBERTURA SECURITÁRIA. ANÁLISE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS NºS 5 E 7, AMBAS DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO, EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+DIAS - COMÉRCIO DE PNEUS E PEÇAS LTDA. - ME (DIAS) ajuizou ação de cobrança contra BRASILVEÍCULOS COMPANHIA DE SEGUROS (BRASILVEÍCULOS), atual denominação de BB SEGURO AUTO BRASIL VEÍCULOS COMPANHIA DE SEGUROS, cujos pedidos foram julgados improcedentes (e-STJ, fls. 124/127).
+A apelação interposta por DIAS não foi provida pelo Tribunal de origem, nos termos da seguinte ementa:
+SEGURO DE VEÍCULO. Equipamentos que se encontravam no interior do veículo segurado, com cobertura prevista no contrato, furtados. Inexistência de cláusula de renovação automática. Autora que não realizou qualquer pagamento a justifica-la. Sentença de improcedência mantida. Recurso negado (e-STJ, fl. 175 - sem destaque no original).
+Os embargos de declaração interpostos foram rejeitados (e-STJ, fls. 192/196).
+Inconformada, a empresa DIAS manejou recurso especial com fundamento no art. 105, III, a e c, da CF, alegando violação dos arts. (1) 489, § 1º, IV, do NCPC, sob o fundamento de negativa de prestação jurisdicional; (2) 421, 422 e 423, do CC/02, 4º, I, 48, 51, IV e VI, do CDC, bem como dissídio interpretativo, ao sustentar que, consoante precedentes do STJ, o pagamento de parcela do seguro implica renovação do contrato securitário, com as mesmas cláusulas até então em vigor. Aduziu ser incontroversa a renovação, porém, a BRASILVEÍCULOS negou a indenização sob o fundamento de que os equipamentos do guincho, que foram furtados, não haviam sido objeto desse renovamento contratual (e-STJ, fl. 205). Acrescentou que invocar a falta de pagamento para afastar o pleito indenizatório afronta a boa-fé objetiva, porquanto a BRASILVEÍCULOS, em documento de fl. 18, reconheceu, expressamente, a renovação do seguro, mas disse que não teria abrangido os equipamentos do guincho, apenas o caminhão (e-STJ, fl. 209).
+As contrarrazões foram apresentadas (e-STJ, fls. 221/214).
+O apelo nobre não foi admitido em virtude da inexistência de negativa de prestação jurisdicional, incidência da Súmula nº 7 do STJ e por não ter sido demonstrado o dissídio interpretativo.
+Nas razões do presente agravo em recurso especial, DIAS sustentou que (i) o julgamento da origem foi omisso; (ii) não há necessidade de revolver fatos; e, (iii) se o acórdão recorrido é omisso quanto à tese de fundo, mesmo ante os embargos declaratórios, essa exigência (transcrição das partes conflitantes entre os arestos recorrido e paradigma) se mostra totalmente ilegal porque fere o princípio da dialeticidade processual (e-STJ, fl. 241).
+A contraminuta foi apresentada (e-STJ, fls. 245/249).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada existência de omissão
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado, devido à desarmonia entre a fundamentação e as conclusões da própria decisão. Já a omissão que enseja a apresentação de embargos declaratórios, consiste na falta de manifestação expressa sobre algum fundamento, de fato ou de direito, apresentado pelas partes.
+Na hipótese dos autos, embora rejeitado o recurso integrativo interposto, a matéria em exame foi enfrentada pela Corte local de modo fundamentado e coerente, não se evidenciando o alegado vício. Houve, na realidade, julgamento contrário à pretensão da empresa DIAS, sem que se lhe possa atribuir, contudo, a pecha de omissão.
+Como consectário, afasta-se a existência do vício referido no arrazoado especial.
+(2) Da cobertura securitária
+A Corte de origem compreendeu que a BRASIL VEÍCULOS não estava obrigada a pagar a indenização para a empresa DIAS, firme nesses fundamentos:
+Alega a Autora haver renovado, provisoriamente, a apólice sob nº 1476879, entretanto, inexiste nos autos qualquer documento corroborando essa assertiva.
+No caso, o contrato de seguro veicular firmado com a seguradora Brasil Veículos Companhia de Seguros (BB Seguro Auto Brasil Veículos Companhia de Seguros) não dispõe de cláusula de renovação automática, e a continuidade do contrato prescindia de expressa manifestação da parte interessada, o que não ocorreu.
+Igualmente, não trouxe a lume comprovante do pagamento do prêmio.
+(..)
+Portanto, ausente prova nesse sentido, outra não poderia ser a solução, senão a conferida pelo Magistrado (e-STJ, fls. 176/177 - sem destaques no original).
+Dessarte, para acolher o pedido de DIAS, seria necessário confrontar (1) a alegação recursal, de que o pagamento de parcela do seguro implica renovação do contrato securitário, em confronto com o aresto combatido, que foi expresso ao consignar a ausência de comprovante de pagamento do prêmio; e, (2) as afirmações, contidas no apelo nobre, de que ser incontroversa a renovação, bem como que esta teria sido expressamente reconhecida pela BRASILVEÍCULOS, com o contido no acórdão impugnado, de que o contrato de seguro veicular (..) não dispõe de cláusula de renovação automática. Todavia, para realizar esses cotejos, seria imprescindível o reexame do substrato fático probatório, procedimento vedado na via especial, por força das Súmulas nºs 5 e 7 do STJ.
+(3) Da não comprovação da divergência jurisprudencial (art. 105, III, c, da CF)
+Quanto ao dissídio interpretativo invocado, DIAS nem sequer realizou o cotejo analítico para demonstrar a similitude fática, no escopo de comprovar o dissídio jurisprudencial. Dessa forma, não cumpridos os requisitos do art. 1.029, § 1º, do NCPC, e 255 do RISTJ, o que inviabiliza o exame da apontada divergência interpretativo.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de DIAS de R$ 2.000 (Dois mil reais) para R$ 2.500,00 (Dois mil e quinhentos reais), nos termos do art. 85, §§ 2º e 11, do NCPC. Ressalta-se não ser aplicável, no caso, o limite previsto no § 2º do mesmo artigo, porque a verba honorária foi fixada com base na equidade.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se.
+Intime-se.
