@@ -1,0 +1,33 @@
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+ O SENHOR MINISTRO SÉRGIO KUKINA: Cuida-se de embargos de declaração opostos pela Fazenda Nacional, contra acórdão proferido pela Eg. Primeira Turma deste STJ, assim ementado (fl. 679):
+TRIBUTÁRIO E PROCESSUAL CIVIL. INCIDÊNCIA DE ICMS NA BASE DE CÁLCULO DO PIS E DA COFINS. SÚMULAS 68/STJ E 94/STJ. JULGAMENTO DO TEMA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL RECONHECIDA. JUÍZO DE RETRATAÇÃO PELO PRÓPRIO STJ. ADEQUAÇÃO AO DECIDIDO PELO STF.
+1. Considerando que o Supremo Tribunal Federal adotou entendimento diverso da jurisprudência firmada por esta Corte Superior nas Súmulas 68 e 94/STJ e em seu anterior repetitivo (REsp 1.144.469/PR, Rel. p/ Acórdão Ministro Mauro Campbell Marques, DJe 02/12/2016), de rigor que o juízo de retratação seja feito pelo próprio Superior Tribunal de Justiça.
+2. O Plenário do Supremo Tribunal Federal, no julgamento do 574.706-RG/PR (Rel. Min. Cármen Lúcia, DJe 02-10-2017), com repercussão geral reconhecida, firmou a tese de que "O ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS." (Tema 69 da Repercussão Geral).
+3. Juízo de retratação exercido nestes autos (artigo 1040, II, do CPC), para dar provimento ao recurso especial da parte contribuinte, observado o prazo prescricional quinquenal (RE 566.621-RG/RS).
+A parte embargante, em suas razões recursais, aduz que "em nome da segurança jurídica, é altamente recomendável aguardar-se ao menos o julgamento dos embargos de declaração pela Colenda Suprema Corte, passível que é de modificação e/ou modulação de efeitos" (fl. 695).
+Aberta vista à parte agravada, a Companhia Siderúrgica Nacional apresentou a impugnação de fls. 709/714, postulando o desprovimento do recurso e a aplicação da multa do art. 1.026, § 2º, do CPC/2015.
+É o relatório.
+VOTO
+ O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): De início, verifica-se que a parte recorrente opôs dois embargos declaratórios em face da mesma decisão (fls. 689/697 e 698/706). Assim, em razão da preclusão consumativa, não será conhecido o segundo recurso interposto (fls. 698/706). Nesse sentido: PET no AgRg no AREsp 1.052.045/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 20/03/2018, DJe 23/03/2018 e EDcl nos EAREsp 519.194/AM, Rel. Ministro Og Fernandes, Primeira Seção, DJe 01/02/2018.
+Adiante, da simples leitura do relatório antes realizado, extrai-se o intento da parte de infringir o julgado, o que não se coaduna com a via integrativa.
+Realmente, conforme dispõe o artigo 1.022 do CPC/2015, os embargos de declaração somente são cabíveis nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. No caso, não se verifica a existência de quaisquer das referidas deficiências.
+Com efeito, no caso concreto, em juízo de retratação, a Primeira Turma do STJ aplicou o entendimento firmado pela Suprema Corte em sede de repercussão geral, no sentido de que "O ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS." (Tema 69/STF).
+Além disso, no tocante ao pleito de sobrestamento, "a jurisprudência do STJ firmou entendimento no sentido de ser desnecessário aguardar o trânsito em julgado para a aplicação do paradigma firmado em sede de Recurso Repetitivo ou de Repercussão Geral" (AgRg nos EDcl no AREsp 706.557/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 13/10/2015).
+Nessa linha de entendimento:
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DECISÃO RECORRIDA QUE APLICOU TESE FIRMADA EM ARESTO PARADIGMA. ART. 1.040 DO CPC/2015. INTERPOSIÇÃO DE ACLARATÓRIOS EM FACE DO JULGADO PARADIGMA. DESNECESSIDADE DE SE AGUARDAR O DESLINDE DOS EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência deste STJ e do STF é no sentido de que a pendência de embargos declaratórios não impede a aplicação imediata da tese firmada no precedente paradigma, o que vem ao encontro da redação do art. 1.040 do CPC/2015. Precedentes: STF, AgRg no ARE 673.256/RS, Rel. Ministra Rosa Weber, Primeira Turma, DJe 22/10/2013; STJ, AgInt no AREsp 838.061/GO, Rel. Ministra Diva Malerbi (Desembargadora Federal Convocada do TRF/3ª Região), Segunda Turma, DJe 8/6/2016; AgRg nos EDcl no AREsp 706.557/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 13/10/2015.
+2. É que, de acordo com o Pretório Excelso, "a existência de decisão de mérito julgada sob a sistemática da repercussão geral autoriza o julgamento imediato de causas que versarem sobre o mesmo tema, independente do trânsito em julgado do paradigma" (ARE 977.190 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 23/11/2016).
+3. Assim, descabe o pleito contido neste agravo interno, o qual diz respeito à alegada necessidade de se aguardar o julgamento dos embargos de declaração opostos ao acórdão paradigma prolatado no julgamento do REsp 1.131.360/RJ, cuja tese firmada foi aplicada ao caso em exame.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EREsp 536.148/RS, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 06/12/2017, DJe 14/12/2017)
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+Registre-se, por fim, que esta Corte já decidiu que "A oposição de embargos de declaração contra acórdão fundado na aplicação ao caso concreto de precedente firmado pelo Supremo Tribunal Federal sob o regime de repercussão geral, sem a devida demonstração da sua inaplicabilidade à controvérsia, evidencia propósito de protelação recursal a exigir a devida reprimenda pecuniária" (EDcl no RMS 54.191/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 15/09/2017).
+Ante o exposto, rejeitam-se os embargos de declaração.
+É como voto.
