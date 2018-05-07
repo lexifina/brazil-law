@@ -1,0 +1,48 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/1973. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISPOSITIVOS LEGAIS TIDOS POR VIOLADO SEM COMANDO PARA ALTERAR O JULGADO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO RECORRIDO INATACADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO. PREENCHIMENTO DOS REQUISITOS. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da falta de prequestionamento do art. 1º da Lei n. 10.741/03.
+O apelo nobre obstado enfrenta acórdão do TRF da 3ª Região, assim ementado (fls. 209/210):
+AGRAVO (ART. 557, § 1º, DO CPC). PROCESSUAL CIVIL. ASSISTÊNCIA SOCIAL. BENEFÍCIO PREVISTO NO ART. 203, INC. V, DA CONSTITUIÇÃO FEDERAL. PESSOA PORTADORA DE DEFICIÊNCIA. AUSÊNCIA DE INCAPACIDADE. REQUISITO ETÁRIO.
+I- In casu, a parte autora não é portadora de deficiência (art. 20, § 2º, da Lei nº 8.742/93).
+II- No tocante ao requisito etário para a concessão do benefício assistencial, observo que a idade de 70 (setenta) anos prevista no caput do art. 20, da Lei n.º 8.742/93, foi reduzida para 67 (sessenta e sete), conforme a Lei n.º 9.720/98 e, posteriormente, para 65 (sessenta e cinco), nos termos do art. 34 da Lei n.º 10.741/2003. À época do ajuizamento da ação, em 6/6/12, a parte autora contava com 61 anos.
+III- Não preenchidos os requisitos necessários para a concessão do benefício previsto no art. 203 da Constituição Federal, consoante dispõe a Lei nº 8.742/93, não há de ser o mesmo concedido.
+IV- O art. 557, caput, do CPC, confere poderes ao Relator para, monocraticamente, negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior, sendo que o § 1º-A, do mencionado art. 557, confere poderes para dar provimento ao recurso interposto contra o decisum que estiver em manifesto confronto com súmula ou jurisprudência das Cortes Superiores. Considerando que, no agravo, não foi apresentado nenhum fundamento apto a alterar a decisão impugnada, forçoso manter-se o posicionamento adotado, o qual se encontra em consonância com a jurisprudência dominante do C. STJ.
+V- Agravo improvido.
+Embargos de declaração não providos.
+No recurso especial o recorrente sustenta ofensa ao artigo 1º do Estatuto do Idoso (Lei n. 10.741/2003) e 4º da Lei de Introdução do Código Civil, visto que não há distinção entre direitos para idosos com 60 ou com 65 anos de idade para a concessão do benefício assistencial previsto no art. 203 da CF.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Trata-se na origem, de ação ajuizada contra o INSS em que se pleiteia benefício assistencial da prestação continuada desde a data do requerimento administrativo, em virtude de a autora ser pessoas deficiente com mais de 61 anos à época do ajuizamento da ação e não possuir meios de prover a própria subsistência.
+Sentença de improcedência do pedido autoral sob o fundamento de que o requisito da deficiência não foi comprovado. A Corte de origem manteve a sentença e negou provimento à apelação em face da não comprovação do cumprimento do requisito exigido pelo §2º, do art. 20, da Lei n. 8.742/93,conforme excerto que se transcreve (fls. 206/207):
+Dispõe o art. 203, inc. V, da Constituição Federal, in verbis:
+(..)
+Para regulamentar o dispositivo constitucional retro transcrito, foi editada a Lei n.º 8.742 de 7/12/1993 que, em seu art. 20, dispôs:
+(..)
+Cumpre ressaltar, ainda, que em 08/12/95 sobreveio o Decreto n.º 1.744 regulamentando a Lei da Assistência Social supra mencionada.
+Da leitura dos dispositivos legais, depreende-se que o benefício previsto no art. 203, inc. V, da CF é devido à pessoa portadora de deficiência ou considerada idosa e, em ambas as hipóteses, que não possua meios de prover a própria subsistência ou de tê-la provida por sua família.
+Com relação ao requisito etário, observo que a idade de 70 (setenta) anos prevista no caput do art. 20, da Lei n.º 8.742/93, foi reduzida para 67 (sessenta e sete), conforme a Lei n.º 9.720/98 e, posteriormente, para 65 (sessenta e cinco), nos termos do art. 34 da Lei n.º 10.741/2003.
+Passo à análise do caso concreto.
+In casu, a alegada incapacidade da parte autora - com 61 anos, à época do ajuizamento da ação - não ficou caracterizada no presente feito, conforme parecer técnico elaborado pelo Perito. Afirmou o esculápio encarregado do exame que a parte autora possui Hipertensão Arterial, diabetes, hipotireoidismo não especificado, dislipidemia, obesidade, osteoporose, poliartrose e transtorno misto ansioso/depressivo concluindo que: "entende este perito que a autora mantem a sua capacidade laboral preservada, para a função habitual, ou seja, "do lar". Afirmou que: "A autora não possui deficiência, possui adoecimentos de vários sistemas" (fls. 69). Assim sendo, não comprovando a parte autora o cumprimento do requisito exigido pelo §2º, do art. 20, da Lei n.º 8.742/93, não há como conceder-lhe o benefício pretendido.
+No tocante à miserabilidade, entendo ser tal discussão inteiramente anódina, tendo em vista a circunstância de que, conforme o acima exposto, a parte autora não comprovou ser pessoa portadora de deficiência, requisito indispensável para a concessão do benefício.
+Ante o exposto, e com fundamento no art. 557, do CPC, nego seguimento à apelação.
+Decorrido in albis o prazo recursal, baixem os autos à Vara de Origem. Int." (grifos existentes)
+Nas razões recursais, a parte recorrente sustenta que os arts. 1º e e 4º da Lei n. 10.741/03 reconhece como pessoa idosa aquele que completou a idade de 60 anos. Contudo, tais artigos não foram objeto de debate no acórdão recorrido, e mesmo que assim não fosse os dispositivos legais tidos por violados, de per si, não possuem comando suficiente para reformar o julgado. Incidindo as Súmulas 211/STJ e 284/STF.
+Ainda, o acórdão recorrido consignou que não restou comprovado o cumprimento do requisito exigido pelo §2º, do art. 20 da Lei n. 8.742/93, e este fundamentos não restou combatido pela parte recorrente. Incidindo a Súmula 283/STF.
+Ademais, no que diz respeito ao art. 20 da Lei n. 8.742/1993, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que não há nos autos elementos de prova que ratifiquem que o recorrente preenchia todos os requisitos à concessão do benefício assistencial na data do requerimento administrativo, diga-se que o benefício pleiteado administrativamente é àquele destinado à pessoa portadora de deficiência. In casu, verifica-se que o benefício pleiteado foi indeferido em virtude de não ter sido constatada a deficiência alegada e/ou incapacidade de prover seu próprio sustento.
+Destarte, a análise do recurso especial enseja obrigatoriamente o reexame do conjunto fático-probatório, o que não é admissível em sede de recurso especial por força da Súmula 7 do STJ. Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL DE PRESTAÇÃO CONTINUADA. ALEGADO NÃO PREENCHIMENTO DOS REQUISITOS À CONCESSÃO DO BENEFÍCIO. INCIDÊNCIA DA SÚMULA N.º 7.
+PRECEDENTES.
+1. O eg. Tribunal a quo, entendendo preenchidos os requisitos legais pelo recorrido, nesses incluída a incapacidade de prover o próprio sustento, concedeu-lhe o benefício assistencial de prestação continuada.
+2. Rever esse entendimento, por sua vez, requererá necessariamente o revolvimento do material fático-probatório dos autos, impossível em sede de recurso especial a teor da Súmula n.º 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial"). Precedentes.
+3. Agravo regimental a que nega provimento.
+(AgRg no REsp 903.713/PB, Sexta Turma, Rel. Min. Desembargadora Convocada do TJ/PE Alderita Ramos de Oliveira, DJe 26/3/2013)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. RECONHECIMENTO PELAS INSTÂNCIAS DE ORIGEM DA INCAPACIDADE DA BENEFICIÁRIA PARA O TRABALHO E PARA A VIDA INDEPENDENTE. ART. 20, § 2o., DA LEI 8.742/93. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL DO INSS DESPROVIDO.
+1. A Lei 12.435/2011, que alterou o art. 20, § 2º. da Lei 8.742/93, determina que a incapacidade da pessoa portadora de deficiência, para fins de reconhecimento do direito à Assistência Social, seja analisada conjuntamente com os fatores profissional e cultural do benefíciário.
+2. Tendo o Tribunal a quo concluído, com base nas provas dos autos, a incapacidade para o trabalho, bem como para a vida independente é devida a concessão do benefício assistencial.
+3. A alteração dessa conclusão, na forma pretendida, demandaria necessariamente a incursão no acervo fático-probatório dos autos, o que encontra óbice na Súmula 7 do STJ.
+4. Agravo regimental do INSS desprovido. (AgRg no AREsp 147.558/RO, Primeira Turma, Rel. Min. Napoleão Nunes Maia Filho, DJe 30/8/2013)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
