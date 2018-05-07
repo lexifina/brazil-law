@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO (FAZENDA NACIONAL) contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 74):
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO EXECUÇÃO FISCAL. RECURSO DE APELAÇÃO NÃO RECEBIDO. SENTENÇA EM CONFORMIDADE COM A SÚMULA 314 DO STJ. ART. 518, PARAG. 1o. DO CPC.
+1 . Hipótese em que o juiz negou seguimento ao recurso de apelação, pois a sentença estava em conformidade com a Súmula 314 do STJ, conforme dispõe o art. 518, §. lo. do CPC, introduzido pela Lei 11.276/2006.
+2. A sentença apelada, ín casu, reconheceu a prescrição intercorrente em feito executivo que estava arquivado por força do disposto no art.
+40, § 20. da Lei 6.830/80, que autoriza o arquivamento de execuções fiscais, após decorrido o prazo de um ano sem que fossem localizados bens penhoráveis, de acordo com o disposto na Súmula 314, do STJ, sendo, entretanto, imprescindível a intimação prévia da parte exeqúente para que esta se manifeste sobre eventuais causas interruptivas ou suspensivas da prescrição, sob pena de nulidade da sentença;
+O 3. Agravo de instrumento improvido.
+Houve a oposição de embargos declaratórios, que foram rejeitados (e-STJ fls. 84/88).
+Em suas razões, a recorrente alega violação dos arts. 518, § 1º e 535, II, do CPC/73. Para tanto, defende que o acórdão recorrido foi omisso e que "no caso dos autos, o feito foi suspenso em 21 de fevereiro de 2006 (fls. 47), concluímos, portanto, que não transcorreu o prazo de 6 anos (um ano de suspensão mais cinco anos de arquivamento). Provada a não aplicação da súmula 314 do STJ, a apelação merecia seguimento, não podendo ser aplicado o § 1º do art. 518 do CPC/73"
+Sem contrarrazões (e-STJ fl. 100).
+Recurso admitido (e-STJ fl. 101).
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+Primeiramente, cumpre observar que é firme a orientação jurisprudencial desta Corte acerca da incidência da Súmula 284 do STF quando a parte recorrente limita-se a sustentar violação do art. 535, II, do CPC/1973 de forma genérica, sem especificar "em que consistiria a real ausência de pronunciamento e qual seria a relevância da tese suscitada apta a promover a alteração do julgado" (AgRg no REsp 1.318.004/AM, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 02/04/2013). A esse respeito, confira-se ainda: EDcl no AREsp 310.038/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 12/04/2016, DJe 20/04/2016; REsp 1408195/CE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/05/2015, DJe 01/06/2015, e AgRg nos EDcl no REsp 1345760/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14/04/2015, DJe 16/04/2015.
+In casu, a recorrente, no recurso extremo, descurou de explicitar os pontos em que o julgado recorrido incorreu em omissão, contradição ou obscuridade, limitando-se a apontar ofensa genérica àquele preceito legal, o que atrai a incidência da referida súmula do STF.
+No mais, extrai-se do acórdão recorrido (e-STJ fl. 71):
+Cuida-se de agravo de instrumento interposto pela FAZENDA NACIONAL contra decisão interlocutória, que em Execução Fiscal, negou seguimento à apelação, fundamentado no art. 518, §. 1º do CPC, introduzido pela Lei 11.276/2006.
+Sem razão a agravante. Explico.
+Observa-se que o dispositivo legal citado autoriza o Juiz a negar seguimento ao recurso de apelação quando a sentença estiver em conformidade com súmula do STJ ou STF.
+A sentença apelada, in casu, reconheceu a prescrição intercorrente em feito executivo que estava arquivado por força do art. 40 § 2º da Lei 6.830/80, que autoriza o arquivamento da execução fiscal, após decorrido um ano sem que fossem localizados bens penhoráveis, estando em total consonância com a Súmula 314 do STJ, in verbis:
+"Súmula 314 - Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo quinquenal da prescrição intercorrente"
+Entretanto é imprescindível a intimação prévia da parte exequente para que esta se manifeste sobre eventuais causas interruptivas ou suspensivas da prescrição, sob pena de nulidade da sentença.
+Penso que decidiu corretamente o magistrado de primeiro grau, ao negar seguimento à apelação.
+ ..
+Como se verifica, o Tribunal de origem afirmou que a decisão do MM. Juiz Federal que negou seguimento à apelação, com base no art. 518, § 1º, do CPC/73, estava correta porque era mesmo o caso de aplicação da Súmula 314/STJ. Rever tal posicionamento, no ponto, implicaria o revolvimento fático-probatório, inviável no âmbito do recurso especial.
+Importante observar também que a premissa fática aduzida pela recorrente nas razões do seu apelo extremo - de que "no caso dos autos, o feito foi suspenso em 21 de fevereiro de 2006 (fls. 47), concluímos, portanto, que não transcorreu o prazo de 06 anos (um ano de suspensão mais cinco anos de arquivamento)" (e-STJ fl. 95) - não foi examinada pela Corte de origem, o que atrai o óbice contido na Súmula 282/STF, ante a ausência de prequestionamento. Além disso, não obstante o vício apresentado na petição do recurso especial quanto à alegada violação do art. 535 do CPC/73 (Súmula n. 284), observa-se que matéria aventada pela recorrente não foi ventilada na petição de embargos de declaração opostos às e-STJ fls. 78/81.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
