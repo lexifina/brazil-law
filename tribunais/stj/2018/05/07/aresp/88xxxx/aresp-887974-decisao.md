@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado do Amapá que não admitiu recurso especial com base nos seguintes fundamentos: (I) não foi comprovado o correto recolhimento do preparo, uma vez que a juntada do agendamento de pagamento de títulos não se presta ao preenchimento do requisito em análise, encontrando-se o recurso deserto; (II) ainda que superado esse entendimento, a matéria alegada no recurso padece de prequestionamento, atraindo a Súmula 211/STJ à espécie.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Verifica-se, a seguir, que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foram impugnados todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, qual seja, a aplicação do óbice previsto na Súmula 211/STJ, fundamento autônomo e suficiente para a manutenção da decisão ora agravada.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, não conheço do agravo.
+Publique-se.
