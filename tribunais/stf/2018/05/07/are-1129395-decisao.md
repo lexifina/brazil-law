@@ -1,0 +1,20 @@
+DECISÃO
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro.
+    No apelo extremo, interposto com base no art. 102, III, a, da Constituição Federal, a parte recorrente sustenta que houve violação ao art. 150, VI, “c”, e § 4º, à Súmula 724/STF e à Súmula Vinculante 52.
+    É o relatório. Decido.
+    O Tribunal de origem, com base nos fatos da causa, reconheceu a imunidade em relação ao IPTU sobre o imóvel alugado à entidade sem fins lucrativos. Colhe-se do acórdão o seguinte excerto (fls. 254-256, e-STJ, Vol. 3 ):
+    “Evidenciado o caráter educacional e assistencial da executada, ora apelante, não há que se exigir, para reconhecimento de imunidade, demonstre ele estar o imóvel relacionado com suas finalidades essenciais. Cabe ao Município o ônus da prova do fato desconstitutivo do direito da parte contrária (artigos 333, II, e 334, I, do CPC/1973) (...).
+    (...)
+    Assim, diante de vedação constitucional a incidência de imposto sobre o patrimônio relacionado com as finalidades essenciais de entidades de educação e de assistência social, impunha-se afastar a cobrança do aludido tributo.
+     Sobre a matéria, a jurisprudência do SUPREMO TRIBUNAL FEDERAL, é firme no sentido de que há presunção que milita em favor das entidades beneficiadas no tocante à regra imunizante contida na supracitada norma constitucional. Desse modo, cabe ao Fisco afastá-la com a finalidade de cobrar os impostos que lhe são devidos. Confira-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. IPTU. Imunidade recíproca. Destinação dos bens. Revolvimento de fatos e provas. Súmula nº 279/STF. Ônus da prova. 1. Para ultrapassar o entendimento do Tribunal de origem e acolher a pretensão da recorrente, especialmente para verificar a destinação dos bens, seria necessário o reexame de fatos e provas, o que é inviável em sede de recurso extraordinário. Incidência da Súmula nº 279/STF. 2. A presunção sobre o enquadramento originalmente conferido deve militar a favor do contribuinte e, caso já tenha sido deferido o status de imune, o afastamento dessa imunidade só pode ocorrer mediante a constituição de prova em contrário produzida pela administração tributária. 3. Agravo regimental não provido.” (ARE 758.289-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 10/4/2014).
+    “Agravo regimental no recurso extraordinário. Tributário. Imunidade. Presunção. Ônus da Prova. 1. A decisão agravada está em consonância com a jurisprudência de ambas as Turmas da Corte no sentido de que a regra de imunidade se traduz em um decote na regra de competência, limitando, a priori, o poder impositivo do Estado. 2. Na regra imunizante, como a garantia decorre diretamente da Carta Política, mediante decote de competência legislativa, as presunções sobre o enquadramento originalmente conferido devem militar a favor das pessoas ou das entidades que apontam a norma constitucional. O ônus de elidir a presunção de vinculação às atividades essenciais é do Fisco. 3. Agravo regimental ao qual se nega provimento.” (RE 635.199-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 24/9/2015).
+    O acórdão impugnado não divergiu desse entendimento, razão pela qual não merece ser reformado.
+    Ademais, mesmo que fosse possível superar todos esses graves óbices, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 7 de maio de 2018.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
