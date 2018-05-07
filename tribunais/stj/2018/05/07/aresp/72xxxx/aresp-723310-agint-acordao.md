@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. INADMITIDO NA ORIGEM DIANTE DA APLICAÇÃO DOS ARTS. 543-B OU 543-C DO CPC/1973. AGRAVO REGIMENTAL JULGADO E DESPROVIDO NA ORIGEM. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE PREVISÃO LEGAL DE CABIMENTO DE RECURSO. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. A Corte Especial afirmou o entendimento de que são manifestamente incabíveis recursos direcionados a esta Corte, quando o Tribunal a quo fundamenta em recurso julgado como representativo de controvérsia, como na hipótese dos autos.
+2. É firme o entendimento desta Corte de que o único recurso cabível para impugnação sobre possíveis equívocos na aplicação do art. 543-B ou 543-C é o Agravo Interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual.
+3. Agravo Interno da UNIÃO desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pela UNIÃO, em face da decisão monocrática da minha lavra cuja ementa abaixo se transcreve:
+AGRAVO EM RECURSO ESPECIAL INADMITIDO NA ORIGEM DIANTE DA APLICAÇÃO DOS ARTS. 543-B OU 543-C DO CPC/1973. AGRAVO REGIMENTAL JULGADO E DESPROVIDO NA ORIGEM. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE PREVISÃO LEGAL DE CABIMENTO DE RECURSO. EMBARGOS NÃO CONHECIDO.
+2. A parte agravante afirma, em síntese, que não se levou em consideração que o Recurso Especial também foi interposto com a alegação de violação ao art. 535 do CPC/73.
+3. Impugnação apresentada (fls. 669/671).
+4 É o relatório.
+VOTO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. INADMITIDO NA ORIGEM DIANTE DA APLICAÇÃO DOS ARTS. 543-B OU 543-C DO CPC/1973. AGRAVO REGIMENTAL JULGADO E DESPROVIDO NA ORIGEM. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE PREVISÃO LEGAL DE CABIMENTO DE RECURSO. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. A Corte Especial afirmou o entendimento de que são manifestamente incabíveis recursos direcionados a esta Corte, quando o Tribunal a quo fundamenta em recurso julgado como representativo de controvérsia, como na hipótese dos autos.
+ 2. É firme o entendimento desta Corte de que o único recurso cabível para impugnação sobre possíveis equívocos na aplicação do art. 543-B ou 543-C é o Agravo Interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual.
+3. Agravo Interno da UNIÃO desprovido.
+1. Esta Corte já havia pacificado o entendimento, no julgamento da Questão de Ordem no Ag 1.154.599/SP, de que o único recurso cabível para impugnação sobre possíveis equívocos na aplicação do art. 543-B ou 543-C é o Agravo Interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual.
+2. Eis a ementa desse julgado
+QUESTÃO DE ORDEM. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CABIMENTO. EXEGESE DOS ARTS. 543 E 544 DO CPC.AGRAVO NÃO CONHECIDO.
+1. Não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543, parág. 7o., inciso I, do CPC.
+2. Agravo não conhecido (QO no Ag 1.154.599/SP, CE, Rel. Min. CESAR ASFOR ROCHA, DJe 12.5.2011).
+3. O mesmo entendimento foi confirmado pelo Supremo Tribunal no julgamento da Questão de Ordem no Agravo de Instrumento 760.358-7, que reconheceu inadequada a utilização da reclamação para correção de equívocos na aplicação da jurisprudência do STF aos processos sobrestados na origem pela repercussão geral, asseverando que o único instrumento possível a tal impugnação seria o agravo interno.
+4. A Corte Especial, analisando a questão posta nos autos, afirmou o entendimento de que não é cabível a interposição de Agravo de Instrumento contra decisão que, aplicando a sistemática da repercussão geral, julgou prejudicado o recurso extraordinário dirigido ao Supremo Tribunal Federal. Isso porque o Supremo Tribunal Federal considerou inadmissível a interposição de Agravo de Instrumento ou Reclamação contra decisão do Tribunal a quo que aplica a sistemática da repercussão geral, nos termos do art. 543-A e art. 543-B, ambos do CPC, sendo a única hipótese de remessa de recurso ao STF a negativa de retratação pelo Tribunal de origem de decisão contrária ao entendimento firmado no julgamento da repercussão geral, nos termos do § 4º do art. 543-B do Código de Processo Civil.
+5. Eis a ementa desse julgado:
+AGRAVO REGIMENTAL NO AGRAVO NO RECURSO EXTRAORDINÁRIO. DECISÃO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. DESCABIMENTO DE AGRAVO DE INSTRUMENTO, AGRAVO NOS PRÓPRIOS AUTOS OU RECLAMAÇÃO. FUNGIBILIDADE INAPLICÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+I - Consoante entendimento do Supremo Tribunal Federal, descabida a interposição de agravo de instrumento, agravo nos próprios autos (Lei n.º 12.322/2010), ou mesmo de reclamação, em face de decisões que aplicam a nova sistemática da repercussão geral. Em tais casos, na verdade, o recurso correspondente haveria de ser, se fosse o caso, o agravo regimental, a ser decidido pelo próprio Tribunal responsável pelo juízo de admissibilidade do recurso extraordinário.
+II - A conversão do agravo dirigido ao Supremo Tribunal Federal em agravo regimental, aplicando-se o Princípio da Fungibilidade Recursal, apenas foi admitida para os agravos ou reclamações propostos em data anterior a 19/11/2009, quando a Corte Suprema consolidou a sua jurisprudência acerca do recurso cabível, restando dirimida eventual dúvida a respeito do veículo processual adequado. Precedentes.
+III - Agravo regimental desprovido (AgRg no ARE no RE nos EDcl no AgRg no Ag 1.209.050/ES, CE, Rel. Min. GILSON DIPP, DJe 25.2.2014).
+6. Desse modo, não cabe a análise de ofensa a qualquer dispositivo de lei, tampouco o art. 535 do CPC, porquanto não há previsão legal para cabimento do recurso, já que a decisão de inadmissibilidade e o Agravo Regimental julgado na origem teve como fundamento o art. 543-C do CPC/73.
+7. Registro, ainda, que a oposição de novos recursos incabíveis a fim de protelar o trânsito em julgado do feito, será passível de multa por litigância de má-fé.
+8. Diante do exposto, nega-se provimento ao Agravo Interno da União. É como voto.
