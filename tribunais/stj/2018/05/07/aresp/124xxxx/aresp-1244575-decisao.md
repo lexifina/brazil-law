@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 89):
+AGRAVO DE INSTRUMENTO Execução de sentença contra a Fazenda Pública Pretensão de compelir o Estado a apresentar os cálculos com os valores devidos Impossibilidade - Ônus que compete ao credor Ausência de previsão legal para a inversão - Precedentes Não provimento do recurso.
+Rejeitados os aclaratórios (e-STJ fls. 101/104).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 5º, LV, da Constituição Federal, 475-B, § 1º, e 535, II, do CPC/1973, sustentando negativa de prestação jurisdicional e necessidade de envio de ofício a fim de que a parte adversa forneça informações imprescindíveis à continuidade da execução.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de ausência de ofensa à legislação e de incidência da Súmula 7 do STJ (e-STJ fl. 122).
+Na presente irresignação, a parte agravante alega, em resumo, a inaplicabilidade de referidos óbices ao caso.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+De início, no que diz respeito à suposta contrariedade ao art. 5º, LV, da Constituição Federal, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+Em relação ao art. 535, II, do CPC/1973, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (AgRg no AREsp 719.983/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/04/2016, DJe 26/04/2016, e AgRg no AREsp 811.706/PR, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 07/04/2016, DJe 15/04/2016).
+Quanto ao mais, o aresto hostilizado entendeu que, " ..  no julgamento do Agravo de Instrumento nº 0054604-91.2012.8.26.0000 foi determinada a apresentação das informações relativas aos pagamentos realizado à agravante, tendo rematado que "tal decisão foi cumprida por meio da apresentação dos documentos de fls. 59/63 (fls. 204/208 dos autos originais)" (e-STJ fl. 91).
+Assim, verifica-se no acórdão recorrido que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem honorários recursais sucumbenciais (art. 85, § 11, do CPC/2015), à vista do Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
