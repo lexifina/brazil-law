@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. NECESSIDADE DE INTERPRETAÇÃO DE INSTRUÇÃO NORMATIVA. DIPLOMA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. OFENSA MERAMENTE REFLEXA.
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 139/140):
+CONSTITUCIONAL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. LEILOEIRO OFICIAL. MATRÍCULA. LIMITAÇÃO DO NÚMERO DE VAGAS. OFENSA AO ART. 5º, XIII DA CONSTITUIÇÃO FEDERAL. RESTRIÇÃO À LIBERDADE PROFISSIONAL. CUMPRIMENTO DOS REQUISITOS LEGAIS PARA O EXERCÍCIO DE LEILOEIRO. ADMITIDO CONTROLE JURISDICIONAL DO ATO ADMINISTRATIVO. ADOÇÃO DA TÉCNICA DE JULGAMENTO PER RELACIONEM.
+1. Sentença que determinou à JUCEPE que proceda à matrícula dos profissionais que preencherem os requisitos legais, previstos nos arts. 2º e 3º do Decreto 21.981/32, para o exercício da profissão de leiloeiro oficial ou preposto de leiloeiro oficial, independentemente de possuírem outra matrícula em unidade federativa distinta daquela onde o profissional pretenda se matricular.
+2. "Apenas mediante edição de lei, em sentido formal, se regulamentará o exercício profissional, inclusive mediante estatuição das limitações pertinentes. A Lei Maior, portanto, não deferiu a entes administrativos a prerrogativa de criar, de maneira autônoma, óbices normativos ao desempenho de qualquer profissão".
+3. "Os arts. 2º e 3º, X, da Instrução Normativa nº 110/2009 - que regulamenta o Dec. nº 21.981/32 - preveem, como condição para o deferimento de matrícula do leiloeiro, que este não esteja matriculado em unidade da Federação diversa da que pretenda se matricular, ou seja, o requisito da matrícula em um único domicílio restringe a atuação do leiloeiro no espaço, a despeito de inexistir na legislação qualquer restrição dessa espécie".
+4. "A Administração Pública agiu ilicitamente, extrapolando seu poder regulamentar, na medida em que criou restrição à liberdade profissional, à revelia de necessária previsão em lei".
+5. "Desde que o leiloeiro atenda as condições previstas nos arts. 2º e 3º do Dec. 21.981/32, caberá ao órgão administrativo competente, de maneira vinculada, deferir a matrícula do profissional requerente".
+6. É patente a ilegalidade do ato administrativo por exorbitar do seu poder regulamentar, o que é hipótese de intervenção necessária do controle jurisdicional, se provocado, como foi.
+7. Apelação e remessa oficial não providas.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 1º, III, 3º e 4º da Lei nº 8.934/1994, 2º e 3º do Decreto nº 21.981/1932, 63 do Decreto 1.800/1996 e 1º da Lei nº 7.347/1985, sob os seguintes argumentos:
+(a) a ilegitimidade ativa do MPF para propor a presente ação civil pública, por tratar-se de direito individual, subjetivo de cada leiloeiro.
+(b) "a Administração Pública tem o dever de zelar pela legalidade e moralidade na estipulação de regras que visem a garantir o regular exercício das atividades profissionais, exercendo maior efetividade do controle dos atos dos leiloeiros. Assim, verificado determinado pedido de inscrição em desconformidade com a instrução normativa, nasce a obrigação de vedar a pretensão por expressa proibição normativa" (fl.262).
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 327.
+Parecer do MPF às fls. 401/405.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+No que diz respeito ao artigo 1º da Lei nº 7.347/1985, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+O acórdão recorrido enfrentou a controvérsia à luz da Instrução Normativa DNRC nº 110/2009. Confira-se (fl. 135):
+"Ocorre que os arts. 2º e 3º, X, da Instrução Normativa nº 110/2009 - que regulamenta o Dec. nº 21.981/32 - preveem, como condição para o deferimento de matrícula do leiloeiro, que este não esteja matriculado em unidade da Federação diversa da que pretenda se matricular, ou seja, o requisito da matrícula em um único domicílio restringe a atuação do leiloeiro no espaço, a despeito de inexistir na legislação qualquer restrição dessa espécie. Destarte, conclui-se que a Administração Pública agiu ilicitamente, extrapolando seu poder regulamentar, na medida em que criou restrição à liberdade profissional, à revelia de necessária previsão em lei".
+Embora a recorrente tenha indicado violação dos arts. 1º, III, 3º e 4º da Lei nº 8.934/1994, 2º e 3º do Decreto nº 21.981/1932, 63 do Decreto 1.800/1996 e 1º da Lei nº 7.347/1985, para analisar a tese por ela defendida, seria imprescindível o estudo da Instrução Normativa DNRC nº 110/2009 para o deslinde da causa.
+Consoante pacífica jurisprudência do Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, III, "a", da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de tribunais, bem como atos administrativos normativos e instruções normativas.
+Desse modo, impõe-se o não conhecimento do recurso especial quanto à alegação de ofensa ao art. 2º, § 1º, da LINDB, porquanto esta ocorreria apenas de forma reflexa.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 59 E 60 DO DECRETO 70.235/72. ANÁLISE. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO PRÉVIA DE PORTARIA DA SECRETARIA DA RECEITA FEDERAL. DIPLOMA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. OFENSA MERAMENTE REFLEXA.
+1. O conhecimento da pretensão recursal perpassa necessariamente pela interpretação do art. 7º da Portaria SRF nº 3.007/2001, motivo pelo qual eventual violação dos arts. 59 e 60 do Decreto nº 70.235/72, caso existente, seria meramente reflexa e, portanto, inviável de ser analisada pela estreita via do recurso especial.
+2. Agravo regimental não provido. (AgRg no REsp 1248251/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/12/2013, DJe 16/12/2013).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
