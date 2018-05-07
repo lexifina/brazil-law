@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo manejado pelo MUNICÍPIO DE CAMOCIM contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fl. 77):
+EMENTA: DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTATUTÁRIO. VANTAGENS PECUNIÁRIAS. PUBLICAÇÃO DE LEI MUNICIPAL ATRAVÉS DA AFIXAÇÃO EM LOCAL PÚBLICO (ÁTRIO DA PREFEITURA). POSSIBILIDADE. ADICIONAL POR TEMPO DE SERVIÇO (ANUÊNIO). EXPRESSA PREVISÃO LEGAL (ART. 69 DA LEI MUNICIPAL Nº 537, DE 02 DE AGOSTO DE 1993 - ESTATUTO DO SERVIDOR DO MUNICÍPIO DE CAMOCIM). VERBA DEVIDA. DIFICULDADE FINANCEIRA OU ORÇAMENTÁRIA NÃO ELIDE O DIREITO DO SERVIDOR À VANTAGEM ASSEGURADA POR LEI.
+1. Não havendo órgão de imprensa oficial no município, tem-se como válida a divulgação de Lei e de atos administrativos através da afixação em local público a tanto destinado.
+2. Implementadas as condições para o recebimento do adicional de tempo de serviço (anuênio), previsto no art. 69 da Lei Municipal nº 537, de 02 de agosto de 1993 - Estatuto do Servidor do Município de Camocim, a verba correspondente a 1% (um por cento) por ano de serviço público efetivo, incidente sobre o vencimento, incorpora-se, ex vi legi, ao patrimônio jurídico dos seus servidores, constituindo-se em direito adquirido.
+3. O Superior Tribunal de Justiça possui jurisprudência iterativa no sentido de que empecilhos de ordem financeira ou orçamentária não podem ser utilizados para elidir o direito de servidores públicos ao percebimento de vantagem legitimamente assegurada por lei.
+4. Apelação cível desprovida.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1º, do Decreto n.º 20.910/32 e 995 do CPC/15. Sustenta, em resumo: (I) "o valor pretendido pela parte não pode prosperar, tendo em vista que se mostra em desconformidade com o prazo prescricional de 05 (cinco) anos  .. " (fl. 89) e; (II) "o acórdão ora recorrido mostra-se equivocado, tendo em vista que o dispositivo legal, previsto no art. 47 da Lei Municipal nº. 547 (que versa sobre o adicional por tempo de serviço), não se coaduna com A LEI FEDERAL 8.112/90 (ESTATUDO DOS SERVIDORES FEDERAIS)  .. " (fl. 90).
+É o relatório.
+A irresignação não comporta acolhida.
+Inicialmente, a matéria pertinente ao art. 995 do CPC/15 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, o Tribunal de origem concedeu ao recorrido o direito pleiteado, com base nas seguintes razões (fls. 79/80):
+Sendo assim, afasta-se alegação recursal no sentido de que a Lei Municipal nº 537/1993 (Estatuto dos Servidores do Município de Camocim) não estaria em vigor no período anterior a 6 de junho de 2008.
+Mais a mais, tendo a sentença reconhecido a prescrição das parcelas vencidas no quinquênio anterior à propositura da presente ação, em 25 de junho de 2013, carece de interesse prático a discussão acerca da data em que a referida Lei entrou em vigor - agosto de 1993 ou junho de 2008 -, pois todas as parcelas anteriores a 25 de junho de 2008 já se encontram prescritas.
+Também não procede a assertiva recursal de que o art. 69 Lei Municipal nº 537/1993 não disciplina, verbis: "o limite em termos numéricos/percentuais para a sua concessão", a impedir a sua imediata aplicação, à míngua de posterior edição de lei regulamentadora.
+Com efeito, dispõe a referida norma legal, verbis:
+ ..
+Desse modo, implementadas as condições para o recebimento do adicional de tempo de serviço (anuênio), a verba correspondente a 1% (um por cento) por ano de serviço público efetivo, incidente sobre o vencimento, incorpora-se, ex vi legi, ao patrimônio jurídico dos seus servidores, constituindo-se em direito adquirido.
+Na espécie, é fato incontroverso que o apelado ingressou no serviço público municipal em 25 de fevereiro de 2003, devendo, portanto, ser reconhecido o seu direito de ter incorporado, ano a ano, o adicional pretendido.
+Desse modo, agiu com acerto o Magistrado sentenciante ao assim fundamentar a sua decisão:
+ ..
+Assim, o julgado estadual não se afastou da jurisprudência deste Superior Tribunal, segundo a qual, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão-somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo da (Súmula nº 85/STJ).
+Por fim, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Ante o exposto, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
