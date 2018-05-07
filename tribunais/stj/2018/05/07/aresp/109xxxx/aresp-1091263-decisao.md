@@ -1,0 +1,9 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE TÍTULO JUDICIAL. PRESCRIÇÃO INTERCORRENTE. DIVERGÊNCIA JURISPRUDENCIAL. DISSÍDIO NÃO CARACTERIZADO. AGRAVO DO SERVIDOR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto por [NOME] com fundamento no art. 105, III, c da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+RECURSO DE APELAÇÃO - EXECUÇÃO DE TÍTULO JUDICIAL - PRESCRIÇÃO INTERCORRENTE - RECONHECIMENTO - INTELIGÊNCIA DO ARTIGO 269, INCISO IV DO CPC - INCIDÊNCIA DA SÚMULA 383 DO E. STF - POSSIBILIDADE. 1. Aplicar-se-á o dispositivo legal, em conjunto com a referida Súmula. 2. O prazo prescricional não pode ser reduzido, aquém de cinco anos. 3. O requerimento de desarquivamento dos autos foi protocolizado quando já consumada a prescrição. 4. Ausência de qualquer diligência da parte credora, para a interrupção da fluência do lapso prescricional. 5. Sentença de extinção da execução de título judicial, com fundamento no artigo 269, inciso IV, do CPC, mantida. 6. Recurso de apelação, desprovido (fls. 176).
+2. Nas razões do Recurso Especial inadmitido, a parte recorrente afirma haver divergência jurisprudencial no tocante à aplicação do disposto no art. 3o. do Decreto-Lei 4.597/1942 ao caso dos autos, referente à prescrição intercorrente.
+3. É o relatório do essencial.
+4. Cumpre reconhecer que o presente recurso, conquanto fundado na alínea c do inciso III do art. 105 da Constituição Federal, não pode ser conhecido. Com efeito, o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 541, parág. único do CPC/1973 e 255, §§ 1o. e 2o. do RISTJ, haja vista a ausência de cotejo analítico entre os julgados confrontados, tendo o recorrente se limitado à transcrição de ementas.
+5. Ante o exposto, nega-se provimento ao Agravo do servidor.
+6. Publique-se. Intimações necessárias.
