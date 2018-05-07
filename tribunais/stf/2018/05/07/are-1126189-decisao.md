@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDORA PÚBLICA MUNICIPAL. PROMOÇÃO POR ACESSO DENTRO DA CARREIRA DO MAGISTÉRIO. CONCLUSÃO DE CURSO DE PÓS-GRADUAÇÃO. LEI 5.895/1984 DO MUNICÍPIO DE FORTALEZA – CE. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. PRECEDENTES. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “CONSTITUCIONAL E ADMINISTRATIVO. REEXAME NECESSÁRIO. APELAÇÃO CÍVEL. SERVIDORA PÚBLICA DO MUNICÍPIO DE FORTALEZA. MAGISTÉRIO. CONCLUSÃO DO CURSO DE PÓS-GRADUAÇÃO. PROMOÇÃO POR ACESSO. LEI MUNICIPAL Nº 5.895/84. POSSIBILIDADE. APELO E REEXAME CONHECIDOS E NÃO PROVIDOS. SENTENÇA MANTIDA.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 37, II, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que se trataria, na espécie, de matéria infraconstitucional e que encontraria óbice na Súmula 280 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    A matéria relativa à promoção por acesso de servidor público dentro da carreira do magistério, quando sub judice a controvérsia, implica a análise de legislação infraconstitucional aplicável à espécie (Lei 5.895/1984 do Município de Fortaleza – CE), o que encontra óbice na Súmula 280 do STF, de seguinte teor: “Por ofensa a direito local não cabe recurso extraordinário". À guisa de exemplo, cito acórdão proferido em caso semelhante ao presente:
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO DO ESTADO DE MINAS GERAIS: LEI 7.109/77. NECESSIDADE DE REEXAME DE NORMA INFRACONSTITUCIONAL LOCAL E DE MATÉRIA DE FATO. IMPOSSIBILIDADE: SÚMULAS 280 E 279/STF.
+    I. - O Tribunal do Estado-membro, interpretando norma local, entendeu que o acesso é uma promoção dentro da mesma carreira, não se tratando de ascensão à carreira diversa daquela para a qual o servidor ingressou no serviço público. A interpretação de normas locais, pelo Tribunal local, é feita de forma soberana (Súmula 280-STF).
+    II. - Hipótese em que a apreciação do recurso extraordinário não prescinde do reexame da prova, o que não é possível. Súmula 279-STF.
+    III. - Agravo não provido.” (RE 446.077-AgR, Rel. Min. Carlos Velloso, Segunda Turma, DJ de 14/10/2005, grifos meus)
+    No mesmo sentido foi a decisão proferida no ARE 764.107, Rel. Min. Ricardo Lewandowski, DJe de 8/8/2014, caso igual ao presente, também interposto pelo Município de Fortaleza.
+    A propósito, menciono as lições do ilustre professor Roberto Rosas sobre a Súmula 280 desta Corte:
+    “A interpretação do direito local ou então a violação de direito local para possibilitar o recurso extraordinário é impossível, porque o desideratum do legislador e a orientação do STF são no sentido de instituir o apelo final no âmbito da lei federal, mantendo a sua supremacia. A Súmula 280, seguindo nessa esteira, afirma que por ofensa a direito local não cabe recurso extraordinário. Ressalte-se que, quando as leis estaduais conflitam no tempo, a matéria já está no plano do direito federal, porquanto o Direito Intertemporal é do âmbito da lei federal (RE 51.680, Rel. Min. Luiz Gallotti, DJU 1.8.1963). Quanto às leis municipais adota-se o mesmo ponto concernente às leis estaduais. As Leis de Organização Judiciária são locais, estaduais, portanto não podem ser invocadas para a admissão de recurso extraordinário, sendo comum os casos onde surgem problemas no concernente ao julgamento da causa pelo tribunal a quo, discutindo-se a sistemática nos julgamentos: juízes impedidos, convocação de juízes etc. (RE 66.149, RTJ 49/356).” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 138)
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do RISTF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao dobro do valor fixado pela origem (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 7 de maio de 2018.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
