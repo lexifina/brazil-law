@@ -1,0 +1,32 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. IMPOSTO DE RENDA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. DECADÊNCIA E PRESCRIÇÃO. OCORRÊNCIA NA ESPÉCIE. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por [NOME] [NOME]-ESPÓLIO, com fundamento na alínea a do art. 105, III da Constituição Federal, no qual objetiva a reforma do acórdão proferido pelo egrégio TRF da 4a. Região, assim ementado:
+AÇÃO DECLARATÓRIA. IMPOSTO DE RENDA. APURAÇÃO DE DIFERENÇAS ENTRE O VALOR DECLARADO E O VALOR DEVIDO. LANÇAMENTO DE OFÍCIO. DECADÊNCIA. ART. 173, I, DO CTN. PRESCRIÇÃO. RECONHECIMENTO JUDICIAL DE NULIDADE DO LANÇAMENTO POR VÍCIO FORMAL PRAZO DECADENCIAL. ART. 173,
+II, DO CTN.
+1 - Em se tratando de tributo sujeito a lançamento por homologação, quando apurada divergência entre o valor devido e o declarado, dispõe o Fisco do prazo de 5 anos do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado pra constituir seu crédito, nos termos do art. 173, I, do CTN.
+2 - Nos casos em que o crédito se sujeita ao lançamento de ofício efetuado pela autoridade administrativa, o prazo prescricional inicia-se após esgotados os meios de impugnação administrativa e expirado o prazo para o pagamento do tributo ou, inexistindo defesa, depois de decorrido o prazo para tanto, qual seja, 30 dias contados da notificação do lançamento.
+3 - Nas demandas ajuizadas na vigência da LC nº 118/2005, considera-se interrompida a prescrição com o despacho que determina a citação do executado.
+4 - Reconhecida a nulidade dos atos de lançamento e constituição do crédito tributário, por vício formal, aplica-se o disposto no art. 173, II, do Código Tributário Nacional, dispondo o fisco de cinco anos contados da data em que se tornar definitiva a decisão que houver anulado o lançamento anteriormente efetuado (fls. 113).
+2. Nas razões do seu Apelo Nobre inadmitido, a parte recorrente aponta violação dos arts. 173, I e II do CTN e 207 do CC, sob os seguintes argumentos:
+Assim, a despeito dos abalizados fundamentos e julgados colacionados pelo Julgador de origem, confirmados- por unanimidade- pelo TRF da 4a. Região, entende-se que não havendo em face do espólio de [NOME] nenhuma notificação ou sequer informação fiscal no sentido de que fosse oportunizada a contrariedade ao lançamento e ou do valor do imposto, considerando o falecimento do contribuinte em 2004, tendo-se assim, que só a partir janeiro de 2005 iniciou-se a contagem do prazo decadencial para lançamento fiscal e somente em face do espólio do contribuinte [NOME], de modo que, agora, passados atualmente mais de 9 (nove) anos, tal crédito tributário foi atingido pela decadência e ou prescrição, e assim deve ser reconhecido pelo Poder Judiciário, isto é, deve ser declarado extinto.
+Não há que se falar em validade do lançamento tributário até a declaração judicial de nulidade do mesmo ocorrido no anterior processo de execução fiscal, e muito menos se aceitar a recontagem do prazo de 5 anos para lançamento a partir do trânsito em julgado da ação de execução que declarou a nulidade formal do referido ato fiscal.
+O recorrente reafirma que a contagem do prazo de lançamento fiscal parte (começa) de quando deveria o Fisco corretamente endereçar a cobrança fiscal, seja no caso a partir do mês de janeiro de 2005 em relação ao efetivo devedor, seja ele o espólio de [NOME], a teor do § 4o. do art. 150 do CTN.
+Não há que se falar em suspensão ou interrupção do prazo de decadencial, a pretexto do lançamento por homologação e ajuizamento ter sido feito contra a pessoa física de [NOME] até o ano de 2009, e não contra o seu espólio (fls. 124).
+3. Apresentadas as contrarrazões (fls. 133/136), o recurso foi inadmitido na origem (fls. 139/140).
+4. É o que havia de relevante para relatar.
+5. A insurgência não merece prosperar.
+6. Quanto à violação do art. 207 do CC, o recurso não comporta cognição, uma vez que o mencionado dispositivo não foi objeto de debate no âmbito do acórdão recorrido, e a parte interessada não opôs Embargos de Declaração com o fim de obter um pronunciamento da questão pelo Tribunal. Incide, pois, o disposto na Súmula 282/STF, por ausência de prequestionamento.
+7. De outro lado, o Tribunal de origem concluiu não ter havido a decadência e a prescrição, com base nestes argumentos:
+Da análise dos autos, verifica-se que o Fisco constituiu o crédito, e intentou o processo executivo-fiscal ainda no ano de 2009, respeitados, pois, os prazos decadencial e prescricional.
+Não obstante, nos autos da execução fiscal nº 2009.71.17001155-7 (autos digitalizados nº 5003493-51.2011.404.7117) foi reconhecida a nulidade da execução fiscal e consequentemente dos atos de lançamento e constituição do crédito tributário, por vício formal.
+Insta destacar que, embora anulado o lançamento por vício formal, este é ato que existiu, tanto assim que foi anulado por vício de forma. Até a data de sua anulação, gozava dos atributos de legalidade e veracidade, ínsito aos atos administrativos.
+Destarte, em casos de anulação do crédito tributário por vício formal, aplica-se o disposto no art. 173, II, do Código Tributário Nacional, in verbis:
+Art. 173. O direito de a Fazenda Pública constituir o crédito tributário extingue-se após 5 (cinco) anos, contados:
+I - do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado;
+II - da data em que se tornar definitiva a decisão que houver anulado, por vício formal, o lançamento anteriormente efetuado.
+Da leitura do dispositivo supra, denota-se que a Fazenda possui novo prazo para realizar o lançamento, prazo este autônomo e independente do anterior.
+(..).
+Assim, considerando-se que a decisão que anulou o executivo fiscal, e em consequência, o lançamento e constituição do crédito, transitou em julgado em 18/01/2013 (evento 4 dos autos nº 5003493-51.2011.404.7117), não há a ocorrência do lapso decadencial, muito menos prescricional (fls. 111).
+8. Assim, a análise referente à ausência de notificação do espólio a respeito do lançamento fiscal enseja o revolvimento de matéria fático-probatória, o que é vedado em Recurso Especial.
+9. Ante o exposto, conhece-se do Agravo para negar provimento ao Recurso Especial.
+10. Publique-se. Intimações necessárias.
