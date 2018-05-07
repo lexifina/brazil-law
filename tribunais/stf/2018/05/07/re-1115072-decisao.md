@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região, ementado nos seguintes termos:
+    “CONSTITUCIONAL E ADMINISTRATIVO – SERVIDOR PÚBLICO REQUISITADO DO PODER EXECUTIVO – INCORPORAÇÃO DE QUINTOS RELATIVOS AO EXERCÍCIO DE FUNÇÃO COMISSIONADA NO PODER JUDICIÁRIO – ART. 62 DA LEI N. 8.112/90 – PEDIDO DE RECEBIMENTO DAS PARCELAS NOMINALMENTE IDENTIFICADAS NO MESMO VALOR PAGO NO PODER EM QUE EFETIVADA A INCORPORAÇÃO – IMPROCEDÊNCIA DO PEDIDO – LEIS N.S 8.911/94, 9.421/96 E 9.527/97 – IMPOSSIBILIDADE DE INCORPORAÇÃO DE REGIME JURÍDICO.
+    1. Consoante entendimento firmado na doutrina e jurisprudência, o servidor não adquire direito a regime jurídico.
+    2. A Lei n. 8.911/94 reconheceu a possibilidade de recebimento da incorporação pelo servidor, entretanto, a partir da conversão em parcelas que, no poder de origem, sejam equivalentes o que, no caso em exame, resulta, lamentavelmente, em parcelas de valor nominal menor do que a paga pelo Poder Judiciário.
+    3. Limitada a atuação da autoridade administrativa a modificar o sistema de cálculo do valor incorporado de vantagem nominalmente identificada, nos vencimentos de servidor do Poder Executivo, decorrente do exercício de função comissionada perante o Pode Judiciário, consoante os ditames do art. 15 da Lei n. 9.527/97, inexiste ofensa a direito adquirido ou violação a ato jurídico perfeito.
+    4. Precedente: AC 2001.34.00.024483-6/DF, Rel. Des. Federal TOURINHO NETO, 2ª Turma, DJ 16/05/2003; AMS 2001.34.00.024478-8/DF, Relator DESEMBARGADOR FEDERAL LUIZ GONZADA BARBOSA MOREIRA, DJ de 29/11/2004; AMS 2000.34.00.008172-7/DF, Relator DESEMBARGADOR FEDERAL ANTONIO SÁVIO DE OLIVEIRA CHAVES, DJ de 11/10/2004.
+    5. Apelações e remessa providas. Sentença reformada.” (eDOC 1, p. 129)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alínea “a”, da Constituição Federal, aponta-se violação aos arts. 37, XV, e 5º, XXXVI, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, ofensa ao direito adquirido, bem como violação ao princípio da irredutibilidade dos vencimentos.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Leis 8.911/94, 9.421/96 e 9.527/97), consignou que os autores não fazem jus ao percebimento de suas incorporações nos valores pagos ao Poder Judiciário. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Nestes termos, os impetrantes, ao que entendo, data venia, não têm direito ao recebimento de suas incorporações nos valores pagos ao Poder Judiciário, devendo sê-lo nos mesmos valores recebidos no Poder de origem, onde efetivada a incorporação” (eDOC 1, p. 124)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “EMBARGOS DE DECLARAÇÃO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MILITAR. FUNÇÃO COMISSIONADA. QUINTOS. INCORPORAÇÃO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. OMISSÃO INOCORRENTE. CARÁTER INFRINGENTE. DECLARATÓRIOS OPOSTOS SOB A VIGÊNCIA DO CPC/1973. 1. Não se prestam os embargos de declaração, não obstante sua vocação democrática e a finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas no acórdão embargado. 2. Ausente omissão justificadora da oposição de embargos declaratórios, nos termos do art. 535 do CPC, a evidenciar o caráter meramente infringente da insurgência. 3. Embargos de declaração rejeitados.” (RE-AgR 633.527, Rel. Min. Rosa Weber, Primeira Turma, DJe 14.12.2016)
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Administrativo. 3. Servidor público. 4. Quintos. Incorporação. Exercício de função comissionada. 5. Lei 8.112/90 e Lei Distrital 1.864/98. Matéria restrita à legislação infraconstitucional. Precedentes do STF. 6. Agravo regimental a que se nega provimento.” (ARE-AgR 756.731, de minha relatoria, Segunda Turma, DJe 13.11.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. MILITAR. INCORPORAÇÃO DE QUINTOS. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 279 E 280 DO STF. AGRAVO REGIMENTAL DESPROVIDO.” (RE-AgR 722.114, Rel. Min. Luiz Fux, Primeira Turma, DJe 17.6.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 7 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
