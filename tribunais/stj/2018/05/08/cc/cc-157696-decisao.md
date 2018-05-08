@@ -1,0 +1,15 @@
+DECISÃO
+1. Trata-se de conflito de competência, com pedido de liminar, com vistas à suspensão das decisões proferidas pelo Juízo da Vara do Trabalho de Nanuque/MG, nos autos da reclamação n. 0000646-29.2015.5.03.0146 e, por conseguinte, ao desfazimento de todas as determinações de liberação dos valores referentes aos depósitos recursais, com ordem de imediata transferência para as contas das suscitantes ou para conta vinculada ao Juízo da recuperação; e à designação do Juízo da 1ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo/SP para deliberar sobre as questões urgentes.
+Informam as suscitantes - sociedades pertencentes ao Grupo Heber - que, em 16/8/2017, formularam pedido de recuperação judicial, que foi deferido em 24/8/2017 (fls. 63-71).
+Aduzem que o Juízo laboral, nos autos da referida reclamação, deu-lhe prosseguimento, autorizando a liberação dos depósitos recursais ao credor (fls. 73-74), requerendo que (fl. 12):
+ ..  sejam imediatamente suspensos os efeitos da r. decisão proferida pelo d. Juízo suscitado da Vara do Trabalho de Nanuque/MG nos autos da reclamação trabalhista nº 0000646- 29.2015.5.03.0146 promovida por [NOME] e desfeitas todas as determinações de liberação dos depósitos recursais realizados pelas Suscitantes, com sua transferência para as contas das Suscitantes ou, subsidiariamente, para conta vinculada MM. Juízo da 1ª Vara de Falências e Recuperações Judiciais da Comarca de São Paulo/SP.
+Da leitura da decisão proferida pelo Juízo trabalhista, verificou-se a existência de verbas que já tinham sido levantadas e outras que ainda se encontram depositadas (fl. 74), razão pela qual se intimou a suscitante para esclarecer se o depósito recursal há havia sido recolhido pelo reclamante.
+Em resposta, informou que tal verba já havia sido levantada, mas que ainda se encontrava depositado nos autos o montante de R$ 46.339,30, oriundo de valores que se encontravam depositados em outras reclamações trabalhistas, cujos créditos já haviam sido quitados (fls. 84-88), sendo certa a utilização desse numerário para o pagamento do credor da reclamação a que se referem estes autos.
+É o relatório.
+2. De fato, o Juízo laboral, nos autos da referida reclamação, proferiu decisão autorizando a liberação dos depósitos recursais como forma de pagamento, em benefício do credor.
+ Contudo, os valores depositados a esse título - o que constitui o objeto deste conflito, nos termos do pedido formulado pela parte - já foram levantados (fl.74).
+Outrossim, conforme se verifica da decisão acostada pela suscitante à fl. 88, não apenas o valor do depósito recursal foi levantado, como também foram quitados os créditos da reclamação que deu ensejo ao ajuizamento deste incidente:
+Inicialmente, lance no sistema o valor comprovadamente recebido pelo reclamante - id 93a28c6. Seu crédito encontra-se integralmente satisfeito.
+Dessarte, ressoa evidente a perda do objeto do conflito de competência.
+3. Ante o exposto, julgo extinto o conflito de competência, por perda do objeto. Prejudicado o pedido de
+Publique-se. Intime-se. Oficiem-se.
