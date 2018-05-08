@@ -1,0 +1,13 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CONVERSÃO EM URV. DIVERGÊNCIA JURISPRUDENCIAL. DISSÍDIO NÃO CARACTERIZADO. AGRAVO DA UNIVERSIDADE A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto por UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO com fundamento no art. 105, III, c da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO E RECURSO ADESIVO Servidor público estadual ativo Vencimentos com reflexos posteriores em seus proventos Conversão em URV Artigo 22 da Lei 8.880/94, a partir de março a julho de 1994 Viabilidade das diferenças remuneratórias reclamadas, anotado o trato sucessivo da relação funcional e a observância da Súmula 85 do E. STJ Sentença de improcedência reformada Inocorrência de sucumbência recíproca Inadmissibilidade de interposição de recurso adesivo Inteligência do art. 500, caput segunda parte do CPC - RECURSO ADESIVO NÃO CONHECIDO, RECURSO VOLUNTÁRIO PROVIDO.
+1. Pretensão à diferença de vencimentos por decorrência de conversão em URV, na forma do art. 22 da Lei 8.880/94, a partir de 1o. de março de 1994, não afeta a causa ou o fundo do direito à remuneração, pois fundada em lei nacional de ordem monetária, sem inovação substancial alguma da situação jurídica funcional, observada a prescrição quinquenal das prestações vencidas antes da propositura da ação (Súmula 85 do E. STJ).
+2. Conversão de vencimentos em URV, a partir de 1o. de março de 1994, é imperativo legal de ordem pública e projeção futura no cálculo remuneratório, por aplicação de lei nacional (Lei 8.880/1994, art. 22), destinada aos entes da federação e, portanto, em favor de todas as categorias de servidores públicos (fls. 226).
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Nas razões do Recurso Especial inadmitido, a parte recorrente alega divergência jurisprudencial quanto à reestruturação do plano de carreira dos servidores como causa de cessação das diferenças da conversão da URV.
+4. É o relatório do essencial.
+5. Cumpre reconhecer, que o presente recurso conquanto fundado na alínea c do inciso III do art. 105 da Constituição Federal não pode ser conhecido. Com efeito, o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 541, parág. único do CPC/1973 e 255, §§ 1o. e 2o. do RISTJ, haja vista a ausência de cotejo analítico entre os julgados confrontados, tendo o recorrente se limitado à transcrição de ementas.
+6. Ante o exposto, nega-se provimento ao Agravo da Universidade.
+7. Publique-se.
+8. Intimações necessárias.
