@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de PAULO ROBERTO DA SILVA, apontando como autoridade coatora o eg. Tribunal de Justiça do Estado de São Paulo.
+Segundo se depreende da inicial, na unificação das penas, o d. Juízo das Execuções regrediu o paciente para o regime fechado e interrompeu os lapsos para progressão de regime e livramento condicional. Informa a Defesa que interpôs agravo em execução, porém a decisão foi mantida.
+Daí o presente writ, no qual a Defensoria Pública estadual, ora impetrante, argumenta que a interrupção do prazo para novos benefícios da execução não encontra fundamento legal. Ressalta o entendimento sumulado desta Corte, no enunciado n. 441 segundo o qual não há interrupção do prazo para o livramento condicional.
+Requer a concessão de ordem, a fim de se reconhecer que a unificação das penas não determina a interrupção de lapsos necessários para a progressão de regime e tampouco para o livramento condicional.
+O pedido liminar foi indeferido (fls. 112-115)
+Informações às fls.121-126 e 130-136.
+O Ministério Público Federal manifestou-se às fls. 138-142 pelo não conhecimento do writ. Oficiou pela concessão parcial da ordem, a fim de que o cometimento de falta grave não seja considerado marco interruptivo para a concessão de livramento condicional.
+É o relatório.
+Decido.
+Ressalte-se, ab initio, que no habeas corpus, dada a possibilidade de impetração por qualquer pessoa, não se exige que a petição inicial preencha requisitos pré-determinados ou esteja de acordo com o tecnicismo jurídico. Contudo, tal circunstância não impede o indeferimento do mandamus quando da leitura da exordial não se mostra possível averiguar a suposta ilegalidade.
+No caso, é inviável a compreensão da controvérsia, nos termos postos na inicial e tendo-se em conta as decisões acostadas.
+Da leitura da inicial, extrai-se que a impetração se refere a suposta decisão que teria, após a unificação das penas, determinado a regressão de regime e estabelecido novo marco para a progressão e para o livramento condicional.
+Contudo, dos documentos acostados, não se verifica a prolação de decisão alguma com tal conteúdo. A decisão acostada, proferida pelo d. Juízo da Execução e mantida pelo eg. Tribunal de origem, diz respeito à prática de falta grave no curso da execução e seus consectários.
+De outra sorte, foi acostado parecer do Ministério Público estadual acerca de suposto agravo em execução que, em tese, trataria da questão apresentada na inicial do writ. Ocorre que, repita-se, não foi juntada qualquer decisão sobre referida matéria.
+Conclui-se, desta forma, pela inviabilidade de compreensão da controvérsia, considerando que a inicial não apresenta pedido adequado porquanto não refuta os argumentos proferidos nas decisões acostadas.
+Ora, firmou-se no âmbito desta eg. Corte a orientação segundo a qual constitui ônus do impetrante possibilitar o devido exame da controvérsia, por meio de inicial com mínima adequação, instruída com os documentos necessários ao devido exame da quaestio, sob pena de não conhecimento no mandamus.
+Neste sentido, os seguintes precedentes:
+"PROCESSUAL PENAL. HABEAS CORPUS. PETIÇÃO INICIAL ININTELIGÍVEL. INÉPCIA. IMPOSSIBILIDADE DE COMPREENSÃO. AUSÊNCIA DE PEDIDO.
+No habeas corpus, dado a possibilidade de impetração por qualquer pessoa, não é exigido que a petição inicial preencha requisitos pré-determinados ou esteja de acordo com o tecnicismo jurídico.
+Contudo, tal circunstância não impede o indeferimento do mandamus quando da leitura da exordial não é possível extrair qualquer raciocínio lógico ou concluir qual a pretensão objetivada com a impetração. (Precedentes do STJ).
+Habeas corpus não-conhecido." (HC 145.648/PE,Quinta Turma, de minha relatoria, DJe 14/06/2010)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO-CABIMENTO (RESSALVADO O ENTENDIMENTO PESSOAL DA RELATORA). TRÁFICO DE INFLUÊNCIA. ATIPICIDADE DA CONDUTA. REAVALIAÇÃO DOS ELEMENTOS DE AUTORIA E MATERIALIDADE. VIA ELEITA INADEQUADA. DELITO QUE, DE QUALQUER FORMA, CONSUMA-SE COM A MERA PRÁTICA DE SUAS ELEMENTARES. IMPOSSIBILIDADE DE SE ANALISAR PEDIDO E FUNDAMENTO ININTELIGÍVEIS. AUSÊNCIA DE PATENTE CONSTRANGIMENTO ILEGAL QUE PERMITA A CONCESSÃO DE ORDEM EX OFFICIO. ORDEM DE HABEAS CORPUS NÃO CONHECIDA.
+ ..
+5. Não se pode analisar fundamento ininteligível, cujo constrangimento ilegal não seja de possível compreensão e conclusão não corresponda com o pedido formulado na inicial.
+6. Ausência de constrangimento ilegal que imponha a concessão de ordem de ofício.
+7. Ordem de habeas corpus não conhecida." (HC 202.519/DF, Quinta Turma, Rel. Min. Laurita Vaz, DJe 03/02/2014)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME TRIBUTÁRIO. CAUSA DE AUMENTO PREVISTA NO ART. 12, I, DA LEI N. 8.137/90. MERA REITERAÇÃO DE PEDIDO CONTIDO EM AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. RECURSO JÁ JULGADO. INSTRUÇÃO DEFICIENTE. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. RECURSO DESPROVIDO.
+1. É inadmissível a análise de impetração cujo objeto é idêntico ao contido em Agravo em Recurso Especial, que, inclusive, já foi julgado, tendo em vista a impossibilidade de reiteração de pedidos nesta Corte Superior.
+2. Considerando a celeridade do rito do habeas corpus, toda a prova do direito alegado deve estar pré-constituída e disponível no momento e nos autos da impetração, sob pena de não conhecimento do mandamus.
+Agravo regimental desprovido." (AgRg no HC 381.729/SP, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 06/06/2017)
+"PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE PEÇAS ESSENCIAIS À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE AO IMPETRANTE. PEÇA NÃO JUNTADA AOS AUTOS. AGRAVO NÃO PROVIDO.
+1. O procedimento do habeas corpus é sumário, logo sua instrução deve permitir, de plano e minimamente, a compreensão do constrangimento ilegal apontado, motivo pelo qual a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado. 2. Não se desconhece que é inerente ao rito procedimental do habeas corpus a requisição de informações à autoridade coatora (RISTJ, art. 201), para fins de complementação da instrução do processo, possibilitando seu julgamento (RISTJ. art. 202). Isso, contudo, não retira o ônus do impetrante de colacionar prova semiplena, de modo a possibilitar ao julgador antever, ao menos, a questão posta e, eventualmente, se houver probabilidade do direito do impetrante, conceder liminar. Em um segundo momento, desde que vislumbrada a questão debatida, poderá o relator pedir esclarecimentos da autoridade coatora, apenas para complementar a instrução - que, já se disse, é do impetrante - e, desse modo, propiciar o julgamento do writ com mais segurança.
+3. Não é possível atribuir a esta Corte a instrução inicial de todos os habeas corpus, sob pena de inviabilizar os trabalhos judiciais e cartorários. Mais do que isso, ao assim propor, a Defensoria Pública pretende transferir ônus próprio, que é o de prestar serviço adequado.
+4. Hipótese em que a impetrante não instruiu o habeas corpus com nenhuma peça processual, de forma que é impossível a compreensão da existência de ato ilegal. Tal vício não restou sanado por ocasião da interposição deste agravo regimental pela Defensoria Pública, vedando a incidência do efeito regressivo, pela reconsideração.
+5. Agravo regimental não provido." (AgRg no HC 381.322/MS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 25/05/2017, grifei)
+"AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AGRAVO NÃO PROVIDO.
+1. A defesa deixou de juntar aos autos da cópia da decisão que indeferiu o pedido de revogação da prisão preventiva, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+3. Agravo regimental não provido." (AgRg no RHC 82.676/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 01/08/2017, grifei)
+"PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DO ACÓRDÃO QUE ENFRENTOU O MÉRITO. HABEAS CORPUS ORIGINÁRIA INDEFERIDO POR SER REITERAÇÃO DE OUTRO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Identificada a falta de juntada aos autos do acórdão da Corte Estadual que efetivamente abordou o mérito constante no presente habeas corpus, resta evidenciada instrução deficiente a impedir continuidade na análise do pleito liberatório.
+2. Agravo regimental improvido." (AgInt no HC 388.816/MA, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 13/06/2017)
+Ante o exposto, inviabilizada a compreensão da controvérsia, não conheço do habeas corpus.
+[NOME]
