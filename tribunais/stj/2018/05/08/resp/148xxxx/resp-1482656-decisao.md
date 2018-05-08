@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJMG, assim ementado (fls. 1.462):
+EMENTA: AÇÃO POPULAR - ADMINISTRATIVO LICITAÇÃO - LESIVIDADE - ILEGALIDADE - AUSÊNCIA DE DEMONSTRAÇÃO - ART. 333, INC. I, DO CPC - IMPROCEDÊNCIA - MULTA - ABUSO DO DIREITO POSTULATÕRIO - UNIFORMIZAÇÃO DE JURISPRUDÊNCIA - NAº CONHECIMENTO. i - Não se conhece do incidente de uniformização de jurisprudência se os acórdãos trazidos à colação apreciaram a situação de demandas populares distintas, não se configurando, pois, divergência de interpretação das mesmas normas jurídicas. 2 - Ausente a demonstração das ilegalidades apontadas na inicial em procédimento licitatório promovido pela COPASA/MG, impõe-se confirmar a sentença deimprocedência proferida nos autos de ação popular. 3 - Não há falar em cerceamento de defesa se a prova oral que o recorrente pretende produzir não se adequa A controvérsia Mica posta nos autos. 4 - Configurado o abuso do direito postulatório do autor, ajuizando dezenas de ação populares para a impugnação, em série, de procedimentos licitatórios, sem os indícios mínimos da lesividade, manté m-se, no caso concreto, a condenação por litigáncia de má-fé. 5 - Agravo retido não provido, incidente de uniformização de jurisprudência não conhecido, sentença confirmada, em reexame necessário, e recurso voluntário prejudicado.
+Embargos de declaração acolhidos parcialmente.
+Em suas razões, o recorrente alega violação aos artigos 244, 332, 515, 535, II, do Código de Processo Civil, 1º da Lei n. 9.265196, 7º, §8º, 15, §6º, 23, §1º, 40, §2º, II; 113 da Lei n. 8.666/93, 4º, 7º, I, "b", 9º e 18, da Lei no 4.717/65.
+Com contrarrazões.
+É o relatório.
+Com efeito, compulsando os autos e consultando o sítio do Tribunal de Justiça de Minas Gerais, verifica-se que houve trânsito em julgado na referida ação nº 6966179-98.2005.8.13.0024, em 19/07/2016, sendo arquivado definitivamente em 14/02/2017.
+Ante o exposto, julgo prejudicado o Recurso Especial.
+Publique-se. Intimem-se.
