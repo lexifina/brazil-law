@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 02/STJ. SUPOSTA OFENSA AO ART. 535 DO CPC/1973. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONFLITO ENTRE COISAS JULGADAS. DUPLICIDADE. PREVALÊNCIA DA PRIMEIRA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal Regional Federal da 2ª Região cuja ementa é a seguinte:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. COISA JULGADA ANTAGÔNICA. PREVALÊNCIA DA PRIMEIRA COISA JULGADA.
+I - Havendo duas sentenças, ambas passadas em julgado, que se contradizem, deve prevalecer a coisa julgada anterior sobre a segunda, visto que a última decisão foi proferida com violação da primeira, sendo certo que o direito do agravado, anteriormente, não estava prescrito.
+II - Agravo de Instrumento improvido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa ao art. 535, II, do CPC/1973, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas.
+No mérito, alega violação aos arts. 468 e 485, IV, do CPC/1973, asseverando que: a) "não é possível simplesmente desconsiderar a existência da sentença prolatada em um segundo momento nos autos do mandado de segurança 2000.50.01.007575-2 (fl. 186); b) "havendo conflito entre coisas julgadas, a segunda deve prevalecer sobre a primeira, desde que, obviamente, a sentença em que a mesma se formou não tenha sido desconstituída por meio de ação rescisória" (fl. 188); c) "enquanto não rescindida, a sentença proferida em ofensa à coisa julgada tem exatamente a mesma força e produz os mesmos efeitos de qualquer outra sentença que não contenha vícios" (fl. 189); e d) "superado o prazo para ajuizamento da ação rescisória ou em caso de simples inércia do interessado, a prevalência da segunda coisa julgada tem como fundamento o reconhecimento de resignação com a nova decisão" (fl. 192).
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 207/208, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 2/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC/1973.
+De outra parte, extrai-se do aresto impugnado que a recorrida, PASOLA AUTO PEÇAS LTDA., obteve "dois pronunciamentos jurisdicionais sobre o mesmo pedido diametralmente opostos" (fl. 153).
+Na hipótese, ante a existência de coisas julgadas antagônicas, a UNIÃO defende a prevalência da segunda (formada no MS nº 2000.50.01.007575-2) em detrimento da primeira (originada no MS nº 2000.50.01.004746-0).
+Esclareça-se que a sentença proferida no MS nº 2000.50.01.007575-2 denegou a segurança, reconhecendo a prescrição do direito à compensação tributária pleiteada pela recorrida, ao passo que no primeiro writ impetrado (de nº 2000.50.01.004746-0), o pedido foi julgado procedente, com reconhecimento do direito ao encontro de contas pleiteado.
+Ao dirimir a questão referente ao conflito entre duas coisas julgadas, a fim de perquirir qual há de prevalecer, o Tribunal de origem registrou o seguinte (fls. 155/156):
+"A sentença do primeiro mandado de segurança decidiu a lide com reconhecendo o direito da autora, ora agravada, em compensar importâncias pagas, a maior, a título de contribuição social incidente sobre as remunerações pagas a administradores, autônomos e avulsos com débitos vencidos ou vincendos da contribuição social sobre a folha de salários dos empregados e da contribuição instituída pela LC nº 84/96, de tal forma que esta foi a questão decidida e alcançada pelos limites objetivos de coisa julgada, ex vi do art. 468 do CPC.
+Ademais, na segunda sentença o mérito foi pela prescrição, quando na primeira sentença, foi reconhecido o direito do impetrante, configurando-se o conflito entre duas coisas julgadas, com prevalência da primeira, visto que a última decisão a transitar em julgado foi proferida com violação da primeira.
+E ainda que se buscasse a prevalência da segunda coisa julgada esta tratou somente da prescrição, e, anteriormente, na primeira sentença o seu direito à compensação foi reconhecido, não se podendo falar então em prescrição da sua pretensão, já que o direito lhe foi garantido." (grifou-se)
+Ao assim fazê-lo, observa-se que o acórdão recorrido guardou plena consonância com a jurisprudência desta Corte Superior, no sentido da validade da primeira coisa julgada em detrimento da segunda, esta reputada inválida e ineficaz.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. OMISSÃO. OCORRÊNCIA. EFEITOS INFRINGENTES. POSSIBILIDADE. CONFLITO DE COISA JULGADA - DUPLICIDADE. PREVALÊNCIA DA PRIMEIRA. ACLARATÓRIOS RECEBIDOS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Inaplicáveis as disposições do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. É possível a concessão de efeitos infringentes aos aclaratórios no caso em que seu suprimento acarrete, inevitavelmente, a modificação do julgado recorrido.
+3. No conflito entre duas coisas julgadas deve prevalecer a que se formou em primeiro lugar.
+4. Embargos de declaração acolhidos com efeitos infringentes.
+(EDcl no AgRg no AREsp 531.918/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 01/12/2016, DJe 12/12/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONFLITO ENTRE COISAS JULGADAS. PREVALÊNCIA DA PRIMEIRA SENTENÇA. PRECEDENTE DA TERCEIRA TURMA.
+1. Controvérsia doutrinária acerca da existência da segunda sentença ou, caso existente, da natureza rescisória ou transrescisória do vício da coisa julgada. Sendo assim, demonstra-se a inexistência de interesse jurídico no ajuizamento da segunda demanda.
+2. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 600.811/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 06/10/2016, DJe 13/10/2016)
+Diante do exposto, com fundamento no art. 932, IV, do CPC/2015, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
