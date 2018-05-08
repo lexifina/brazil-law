@@ -1,0 +1,23 @@
+DECISÃO
+IMUNIDADE – “LIVROS, JORNAIS, PERIÓDICOS E O PAPEL DESTINADO A SUA IMPRESSÃO” – ICMS – ARTIGO 150, INCISO VI, ALÍNEA “D”, DA CONSTITUIÇÃO FEDERAL – REVISTA INFANTIL – KIT COMPLEMENTAR – INTELIGÊNCIA – PRECEDENTES: RECURSOS EXTRAORDINÁRIOS Nº 330.817/RJ, PLENO, RELATOR MINISTRO DIAS TOFFOLI, ACÓRDÃO PUBLICADO NO DIÁRIO DA JUSTIÇA DE 31 DE AGOSTO DE 2017, E Nº 595.676/RJ, PLENO, DE MINHA RELATORIA, ACÓRDÃO VEICULADO NO DIÁRIO DA JUSTIÇA DE 18 DE DEZEMBRO DE 2017 – PROVIMENTO.
+    1. Afasto o sobrestamento anteriormente determinado.
+    2. Atentem para o assentado na origem. O Tribunal de Justiça do Estado de São Paulo concluiu pela incidência do Imposto sobre Circulação de Mercadorias e Serviços – ICMS relativo à importação de materiais editoriais complementares a revistas infantis, consubstanciados em minigibis e réplicas de personagens de histórias em quadrinhos.
+    Provejo o recurso extraordinário, ante o descompasso entre a conclusão do Colegiado de origem e a atual jurisprudência do Supremo. Está em jogo o alcance da imunidade tributária prevista na alínea “d” do inciso VI do artigo 150 da Constituição Federal. O dispositivo obsta a instituição de impostos sobre livros, jornais, periódicos e o papel destinado à impressão. A vedação apanha os itens complementares que acompanham os produtos difusores da educação e cultura.
+    A óptica abrangente da imunidade foi recentemente acolhida pelo Plenário, que fixou as seguintes teses sob o regime da repercussão geral:
+    A imunidade tributária constante do art. 150, VI, d, da CF/88 aplica-se ao livro eletrônico (e-book), inclusive aos suportes exclusivamente utilizados para fixá-lo.
+    (Recurso extraordinário nº 330.817/RJ, relator ministro Dias Toffoli, acórdão publicado no Diário da Justiça de 31 de agosto de 2017)
+    A imunidade da alínea d do inciso VI do artigo 150 da Constituição Federal alcança componentes eletrônicos destinados, exclusivamente, a integrar unidade didática com fascículos.
+    ( Recurso extraordinário nº 595.676/RJ, de minha relatoria, acórdão veiculado no Diário da Justiça de 18 de dezembro de 2017)
+    No julgamento dos paradigmas, reafirmei visão quanto à extensão do benefício constitucional a qualquer insumo e, até, a ferramenta indispensável à edição desses veículos de comunicação. A imunidade tributária alusiva a livros, jornais e periódicos é ampla, total, abrangendo produto, maquinário e insumos. A referência a papel, no preceito, é exemplificativa, não exaustiva.
+    Vale ressaltar ter a Primeira Turma acolhido a interpretação finalística da imunidade em caso idêntico a este, a versar produtos similares e a mesma empresa. Eis a síntese do acórdão:
+    DIREITO TRIBUTÁRIO. ICMS. IMUNIDADE TRIBUTÁRIA. ART. 150, VI, “D”, DA LEI MAIOR. REVISTA INFANTIL. DIFUSÃO DA INFORMAÇÃO E CULTURA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. RECURSO MANEJADO EM 08.4.2016.
+    1. O entendimento adotado pela Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que “a imunidade tributária sobre livros, jornais, periódicos e o papel destinado à sua impressão tem por escopo evitar embaraços ao exercício da liberdade de expressão intelectual, artística, científica e de comunicação, bem como facilitar o acesso da população à cultura, à informação e à educação” (RE 221.239/SP, Rel. Min. Ellen Gracie, Segunda Turma).
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido.
+    (Agravo regimental no recurso extraordinário nº 910.572, Primeira Turma, relatora ministra Rosa Weber, com acórdão publicado no Diário da Justiça de 14 de junho de 2016)
+    Continuo convencido do que assentei anteriormente. Descabe limitar o alcance do artigo 150, inciso VI, alínea “d”, apenas ao produto final, acabado; apanha, também, os insumos, os complementos e o maquinário necessários à produção de livros, jornais e periódicos. Cabe potencializar o objetivo maior da norma, que é o de facilitar a publicação.
+    3. Ante os precedentes, aciono o disposto nos artigos 544, parágrafos 3º e 4º, e 557, § 1º-A, do Código de Processo Civil de 1973 e julgo, desde logo, o extraordinário, dele conhecendo e o provendo para declarar a imunidade referente ao Imposto sobre Circulação de Mercadorias e Serviços – ICMS quanto à importação de materiais complementares a revista infantil.
+    4. Publiquem.
+Brasília, 8 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
