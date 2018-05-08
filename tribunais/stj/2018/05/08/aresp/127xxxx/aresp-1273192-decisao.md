@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRB BANCO DE BRASILIA S.A., contra decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal. O apelo extremo insurge-se contra acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. EMPRÉSTIMOS BANCÁRIOS. LIMITAÇÃO ATÉ 30% DO RENDIMENTO PERCEBIDO PELO AUTOR. DEPÓSITO JUDICIAL. CAUÇÃO. INSCRIÇÃO ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. MULTA.
+1 - Muito embora o desconto para pagamento de empréstimo bancário em folha de pagamento ou débito em conta bancária seja lícito, a redução (de ordem provisória) dos valores a esse título pagos, justifica-se quando extrapolam o limite da margem de consignação de 30% do rendimento líquido salarial, consoante orientação jurisprudencial existente sobre o tema.
+2 - A prestação de caução é uma faculdade conferida ao juiz, não havendo que se falar na sua exigência para deferimento da tutela provisória. Ademais, é vedado ao Tribunal de Justiça apreciar, originariamente, em sede de agravo de instrumento, matéria não decidida pelo magistrado singular, sob pena de supressão de instância, uma vez que o agravo de instrumento é um recurso secundum eventum litis.
+3 - Diante da discussão acerca do limite dos descontos decorrentes dos empréstimos, revela-se pertinente e adequada a proibição de o agravante inscrever o nome do agravado nos órgãos de proteção ao crédito até decisão final.
+4 - Verificado que o valor (R$ 10.000,00) da multa fixada para a hipótese de descumprimento da decisão judicial se mostra excessiva, em atenção aos princípios da razoabilidade e proporcionalidade frente a obrigação, impõe-se a sua redução (R$ 3.000,00). AGRAVO CONHECIDO E PARCIALMENTE PROVIDO" (fl. 140 e-STJ).
+Nas razões recursais (fls. 149-165 e-STJ), o recorrente sustentou violação dos artigos 250, 280 e 300 do Código de Processo Civil de 2015; 336, 394, 395, 442, 884 e 1.425 do Código Civil, 4º e 7º da Lei nº 9.507/1997.
+Sustentou, em síntese, que a mora do recorrido é anterior ao ajuizamento da ação de revisão contratual, existindo previsão legal para amparar a restrição em cadastro de inadimplentes. Destacou, ainda, que os descontos em folha de pagamento foram expressamente contratados devendo ser mantidos. Por fim, afirmou ser ilegal a imposição de multa sem a concessão de prazo razoável para o cumprimento da determinação judicial.
+Com fulcro nos argumentos expostos, pleiteou o provimento do recurso para obter a revogação da liminar deferida pelo magistrado singular.
+Sem contrarrazões (fl. 174 e-STJ).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De início, registra-se que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Quanto ao cerne da controvérsia, os magistrados da instância ordinária mantiveram a antecipação de tutela concedida pelo julgador de piso com base nos seguintes argumentos:
+"(..)
+O entendimento, de fato, encontra amplo respaldo na jurisprudência deste Tribunal, bem como do Superior Tribunal de Justiça, uma vez que trata-se de verba alimentar e o seu comprometimento deve observar o limite de 30 % (trinta por cento) do vencimento.
+Desse modo, a redução dos valores oriundos de empréstimo bancário deve ser mantida, porquanto extrapolam o limite da margem consignável.
+Não obstante o arrazoado transposto, tenho que o recurso merece parcial provimento, notadamente no que pertine à suspensão dos descontos decorrentes dos empréstimos contraídos do contracheque e da conta-corrente onde é depositado o salário do ora recorrido, uma vez que o contrato não exala qualquer ranço de ilegalidade nesse particular, não se justificando o afastamento da cláusula que autoriza o desconto para aplicar a consignação em juízo.
+Noutro vértice, não há falar em exigência de caução prevista no artigo 300, § 1º, do CPC, já que ela não é obrigatória para deferimento da tutela provisória, mas uma faculdade conferida ao juiz.
+(..)
+Registro, também que, uma vez evidenciado que os descontos na folha de pagamento/conta-corrente decorrentes dos empréstimos ultrapassam o limite legal, e a sua redução, determinada pelo juízo a quo, afasta a configuração da mora, revela-se pertinente e adequada a proibição (provisória) de o agravante solicitar a inscrição do nome do agravado nos órgãos de proteção ao crédito, até final julgamento do feito.
+No que se refere à fixação da multa, registro que não há incorreção na sua estipulação, uma vez que tem a finalidade de garantir o cumprimento da obrigação, conforme estabelece o artigo 537 do CPC/15" (fls. 138-139 e-STJ).
+Como visto, as questões pertinentes à concessão de prazo para cumprimento da medida e caracterização da mora do recorrido não foram exauridas, bem como não houve interposição de embargos de declaração, carecendo a matéria do efetivo prequestionamento.
+Ademais, o acolhimento da pretensão recursal, nos termos em que posta, demandaria o reexame de matéria fática e das demais provas constantes dos autos, o que é inviável em recurso especial, consoante óbice da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Sem prejuízo do exposto, convém destacar que a leitura do acórdão, somada à apreciação perfunctória da questão, única viável na atual fase do processo, indicam que o posicionamento do Tribunal de origem está em aparente consonância com a jurisprudência desta Corte, firmada no sentido da legalidade dos descontos em folha de pagamento decorrentes de empréstimo consignado, devendo ser obedecido o limite de 30% dos rendimentos brutos (excetuados os descontos obrigatórios), em virtude da natureza alimentar de tais verbas.
+Por fim, ressalta-se que a jurisprudência do STJ, à luz do disposto na Súmula 735/STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+Confira-se:
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO E CONSIGNAÇÃO EM PAGAMENTO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO.
+1. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. (AgInt no REsp 1253947/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017).
+2. Na hipótese dos autos, o Tribunal de origem, com base nas provas carreadas aos autos, concluiu não estarem presentes os requisitos ensejadores da concessão de tutela antecipada. Alterar tal conclusão demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+(..)
+4. Agravo regimental desprovido" (AgRg no AREsp 348.724/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 29/08/2017).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
