@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. LICITAÇÃO. TOMADA DE PREÇOS. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. APLICABILIDADE DE MULTA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. PRETENSÃO RECURSAL CUJA ANÁLISE DEPENDE DO REEXAME FÁTICO-PROBATÓRIO. SÚMULAS N. 5 E N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª REgião, assim ementado (fl. 717):
+ADMINISTRATIVO. TOMADA DE PREÇOS Nº 004/2011. CONTRATAÇÃO DE SERVIÇOS ESPECIALIZADOS PARA A ELABORAÇÃO DE PROJETOS PARA O SISTEMA GESTOR DE ESTACIONAMENTO DO AEROPORTO SALGADO FILHO. IMPOSSIBILIDADE DE APLICAÇÃO DE MULTAS DE FORMA CUMULATIVA COM A MULTA POR MORA. A ADMINISTRAÇÃO SÓ PODE FAZER O QUE A LEI PERMITE. ARTS. 86 E 87 DA LEI Nº 8.666/93. Improvimento da apelação.
+A recorrente alega ofensa aos artigos 3º; 41; 55, VII; 77 e 87, II, da Lei 8.666/93 e 408 do Código Civil, e divergência jurisprudencial. Defende, em síntese, que o afastamento da aplicação da penalidade na forma ocorrida acaba por ferir o Princípio da Vinculação ao Instrumento Convocatório, além da interpretação ser divergente acerca da obrigatoriedade da aplicação das cláusulas editalícias e contratuais para a penalização da autora.
+Sem contrarrazões.
+Juízo positivo de admissibilidade na fl. 778.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+No que diz respeito aos artigos 3º, da Lei 8.666/93 e 408 do Código Civil (e a tese a eles vinculada), verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+No que diz respeito à alegação de ofensa aos demais dispositivos e dissídio jurisprudencial, a pretensão é inadmissível, pois a recorrente não impugnou o fundamento do acórdão recorrido segundo o qual entendeu que "Na multa que resta, essa pela impontualidade, a alegação autoral de que a mora seria atribuível à própria INFRAERO, especialmente em virtude de confusão de objetos de sua contratação com a de outra empresa, não prescindiria de perícia. Sem embargo, o autor expressamente renunciou a sua produção, em análise de custo e benefício. Deve assim arcar com as conseqüências de sua estratégia processual, conforme comando do
+art. 333, I, do CPC" (fls. 714). Essa situação enseja a aplicação da Súmula 283/STF.
+Ainda que assim não fosse, se vê que a convicção a que chegou o acórdão recorrido decorreu da análise do conjunto fático-probatório e da interpretação das cláusulas contratuais, de forma que o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz das Súmulas 5 e 7 desta Corte.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
