@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. PENAL. PROCESSO PENAL. HOMICÍDIO PRATICADO POR POLICIAL MILITAR EM SERVIÇO CONTRA CIVIL. COMPETÊNCIA CONSTITUCIONAL AFETA AO TRIBUNAL DO JÚRI. DECLINAÇÃO QUE NÃO SE CONFUNDE COM PEDIDO DE ARQUIVAMENTO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE.
+1. Não há como abrigar agravo regimental que não logra desconstituir os fundamentos da decisão atacada.
+2. Não cabe à Justiça Militar determinar o arquivamento do feito, ainda que entenda ser o caso de excludente de ilicitude, mas, sim, encaminhar os autos à Justiça Comum, conforme previsto no art. 82, § 2º, do Código de Processo Penal Militar (nos crimes dolosos contra a vida, praticados contra civil, a Justiça Militar encaminhará os autos do inquérito policial militar à justiça comum) (HC n. 385.778/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 30/6/2017)
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão assim resumida (fl. 386):
+PENAL. PROCESSO PENAL. RAZÕES QUE NÃO INDICAM O DISPOSITIVO DE LEI FEDERAL TIDO POR VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. HOMICÍDIO PRATICADO POR POLICIAL MILITAR EM SERVIÇO CONTRA CIVIL. COMPETÊNCIA CONSTITUCIONAL AFETA AO TRIBUNAL DO JÚRI. DECLINAÇÃO QUE NÃO SE CONFUNDE COM PEDIDO DE ARQUIVAMENTO.
+Recurso especial desprovido.
+Alega o agravante ter indicado nas razões do especial  ..  os dispositivos legais que entendeu restarem ofendidos pela decisão do Tribunal local (fl. 400).
+Sustenta que o acórdão paradigma indicado na decisão (CC n. 145.660/SP) não está inserido no rol dos julgados que servem para indicar o entendimento firmado na Corte, capazes de demonstrar a conformidade do acórdão recorrido.
+Defende que, mesmo considerando a existência de um entendimento majoritário,  ..  o julgado utilizado como demonstrativo  ..  não está inserido no rol do artigo interno supracitado (255, § 4º, do RISTJ). (fl. 401).
+Aponta a existência de divergência interna no Superior Tribunal de Justiça, quanto ao tema, argumentando o que se segue (fls. 401/402):
+ ..
+Nesse sentido, cumpre ressaltar que o próprio precedente citado se refere no respectivo acórdão sobre a divergência existente, reconhecendo que há decisões deste Tribunal Superior no sentido de reconhecer que é da Justiça Castrense a competência para arquivamento de inquérito quando evidenciada, de forma incontestável, que a prática do crime de homicídio por Policiais Militares de serviço contra civil se deu claramente em legítima defesa, como efetivamente ocorre no caso em espécie (vide CC n. 145.710/MG, Rel. Ministro Lázaro Guimarães - Desembargador convocado do TRF 5ª, DJe 31/3/2016 - decisão monocrática; AgRg no CC n. 133.875, Rel. Ministra Laurita Vaz, DJe 25/8/2014 AgRg no CC n. 133.875/SP, Rel. Ministra Laurita Vaz, DJe 25/8/2014; CC n.
+ ..
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento principal, motivo pelo qual trago à apreciação da Sexta Turma.
+De acordo com o afirmado anteriormente, o Tribunal de origem destoou da jurisprudência desta Corte no sentido de que  ..  não é conforme ao direito a iniciativa do juiz militar que, em face de pedido do Ministério Público para a declinação de competência para a jurisdição criminal comum, arquiva o IPM, sem a observância do procedimento previsto no art. 397 do CPPM (Decreto-Lei Nº 1.002, de 21 de outubro de 1969), em tudo similar ao mecanismo previsto no art. 28 do CPP, que determina a remessa dos autos ao Procurador-Geral em caso de discordância judicial das razões apresentadas pelo órgão de acusação (arquivamento indireto). (CC n. 145.660/SP, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 17/5/2016).
+Não obstante constar do voto condutor do referido acórdão menção sobre a jurisprudência no sentido das razões do agravante, certo é que a controvérsia foi decidida pela Terceira Seção do Superior Tribunal de Justiça, quando do julgamento do citado CC n. 145.660/SP, conferindo-se nova compreensão ao tema, cuja orientação passou a ser adotada pelos seus órgãos fracionários.
+Por conseguinte, ainda que apreciada em sede de conflito de competência, a quaestio iuris foi definida pela Terceira Seção à luz da melhor compreensão da interpretação da lei federal, motivo pelo qual deve ser seguida pelos seus órgãos fracionários, o que, de fato, vem ocorrendo.
+A título de ilustração, destaco as seguintes decisões monocráticas: REsp n. 1.718.784/SP, Ministro Jorge Mussi, DJe 7/3/2018; REsp n. 1.695.077/SP, Ministro Joel Ilan Paciornik, DJe 19/12/2017; REsp n. 1.694.553, Ministro Reynaldo Soares da Fonseca, DJe 17/10/2017 e REsp n. 1.684.887/SP, Ministro Nefi Cordeiro, DJe 21/9/2017.
+Em reforço, corroborando a compreensão de que a matéria foi consolidada no sentido em que definido pela Terceira Seção no julgamento do mencionado conflito de competência, trago à colação o seguinte julgado:
+HABEAS CORPUS. HOMICÍDIO SUPOSTAMENTE PRATICADO POR MILITAR CONTRA CIVIL. EXCLUDENTE DE ILICITUDE. COMPETÊNCIA PARA AVERIGUAÇÃO. JUSTIÇA COMUM ESTADUAL. ORDEM DENEGADA.
+1. Em se tratando de crime doloso contra a vida de civil, praticado por militar, a competência para o processamento e o julgamento da causa é da Justiça Criminal Comum, na vara do Tribunal do Júri do local onde o crime foi praticado.
+2. Assim, não cabe à Justiça Militar determinar o arquivamento do feito, ainda que entenda ser o caso de excludente de ilicitude, mas, sim, encaminhar os autos à Justiça Comum, conforme previsto no art. 82, § 2º, do Código de Processo Penal Militar ("nos crimes dolosos contra a vida, praticados contra civil, a Justiça Militar encaminhará os autos do inquérito policial militar à justiça comum").
+3. Ordem denegada.
+(HC n. 385.778/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 30/6/2017)
+Ante o exposto, nego provimento ao agravo regimental.
