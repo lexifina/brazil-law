@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] E ROMARIO VAZ DA [NOME], com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Amazonas (n. 0226267-49.2014.8.04.0001) assim ementado (e-STJ, fls. 628-629):
+PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO. APELAÇÃO CRIMINAL DO RÉU [NOME] [NOME] RIBEIRO. ALEGAÇÃO DE DECISÃO MANIFESTAMENTE CONTRÁRIA ÀS PROVAS DOS AUTOS. NÃO OCORRÊNCIA. CONSELHO DE SENTENÇA ACOLHEU UMA DAS TESES DA ACUSAÇÃO. ALEGAÇÃO DE ERRO NA APLICAÇÃO DA PENA. DOSIMETRIA REFORMADA, PARA, TÃO SOMENTE, AFASTAR A CIRCUNSTÂNCIA AGRAVANTE, PREVISTA NO ART. 61, INCISO II, ALÍNEA "C", DO CÓDIGO PENAL. PRECEDENTES. APELAÇÕES CRIMINAIS DOS RÉUS [NOME] VAZ DA [NOME] E [NOME] [NOME] DE [NOME], SEM A INDICAÇÃO DAS HIPÓTESES DE FUNDAMENTO. CONHECIMENTO DA MATÉRIA SOB A PERSPECTIVA DO ART. 593, INCISO III, ALÍNEAS "A", "B", "C" e "D", DO CÓDIGO DE PROCESSO PENAL. INCIDÊNCIA DA ALÍNEA "C", DO INCISO III, DO ARTIGO ALHURES MENCIONADO. ERRO NA APLICAÇÃO DA PENA. DOSIMETRIA REFORMADA, PARA, TÃO SOMENTE, AFASTAR A CIRCUNSTÂNCIA AGRAVANTE, PREVISTA NO ART. 61, INCISO II, ALÍNEA "C", DO CÓDIGO PENAL. APELAÇÕES CRIMINAIS CONHECIDAS E, PARCIALMENTE, PROVIDAS.
+1. Em respeito ao princípio constitucional da Soberania dos Vereditos, previsto no art. 5.2, inciso XXXVIII, alínea "c", da Constituição Federal, a matéria de competência dos jurados só poderá ser analisada, pelo Juízo ad quem, de forma restrita, como é o caso de sentença manifestamente contrária às provas dos autos, consoante dispõe o art. 593, inciso III, alínea "d", do Código de Processo Penal, hipótese em que a decisão anterior é cassada, remetendo-se a causa a novo julgamento. Todavia, caberá ao Juízo ad quem a análise, de forma ampla, da matéria de competência do Juiz Presidente do Júri, como é o caso de erro na aplicação da pena, conforme o disposto no art. 593, inciso III, alínea "c", do Código de Processo Penal.
+2. In casu, não há que se falar em julgamento manifestamente contrário às provas dos autos, já que os fatos narrados caminham para o reconhecimento do crime de Homicídio Qualificado. Além disso, é certo que a decisão manifestamente contrária às provas dos autos é aquela que não encontra amparo nas provas produzidas, destoando de todo o acervo probatório, situação que não se enquadra no presente caso, pois o Conselho de Sentença acolheu uma das teses da Acusação, apresentada pelo Ministério Público.
+3. No que tange à dosimetria aplicada, merece prosperar a afirmação do [NOME], de que a reprimenda de 17 (dezessete) anos de reclusão foi, erroneamente, fixada, tendo em vista a indevida incidência da circunstância agravante, prevista pelo art. 61, inciso II, alínea "c", do Código Penal, de modo que a sua pena, concreta e definitiva, deve ser fixada no quantum de 16 (dezesseis) anos de reclusão.
+4. Noutro giro, em relação aos Recursos de Apelação interpostos por [NOME] e [NOME], a ausência de indicação das alíneas do inciso III, do art. 593, do Código de Processo Penal, em Apelações Criminais do Tribunal do Júri, não obsta o seu conhecimento, em respeito ao Princípio Constitucional da Ampla Defesa, à luz do que instrui o art. 5.º, inciso LV, da Constituição Federal.
+5. No vertente episódio, os [NOME] e [NOME] foram condenados, cada um, às penas de 10 (dez) anos, 04 (quatro) meses e 24 (vinte e quatro) dias de reclusão, em regime fechado, pela prática de Homicídio Qualificado, nos termos do art. 121, § 2 º, incisos I e IV, do Código Penal, com a incidência da causa de diminuição de pena prevista no art. 29, § 1 º, do Código Penal.
+6. Muito embora não haja sido constatada qualquer violação às alíneas "a", "b" e "d", do inciso III, do art. 593, da Lei Adjetiva Penal, infiro que merecem ser acolhidos os Apelos dos Acusados [NOME] e [NOME], no que diz respeito à alínea "c", do inciso III, do artigo alhures mencionado. Isso porque, deve ser afastada a aplicação da circunstância agravante, prevista pelo art. 61, inciso II, alínea "c", do Código Penal.
+7. Dessa forma, ao reformar a dosimetria dos Recorrentes [NOME] Vaz da [NOME] e [NOME], em sua segunda fase, e ao aplicar a causa de diminuição de pena prevista no art. 29, § 1.º, do Código Penal, conforme decisão do Conselho de Sentença do Tribunal do Júri, as penas atribuídas aos [NOME] e [NOME] devem ser fixadas, cada uma, no quantum de 09 (nove) anos, 07 (sete) meses e 07 (sete) dias de reclusão, em regime inicialmente fechado.
+8. Apelações Criminais CONHECIDAS E, PARCIALMENTE, PROVIDAS.
+Opostos aclaratórios (e-STJ, fls. 681-685), foram rejeitados (e-STJ, fls. 699-717).
+Nas razões do apelo nobre (e-STJ, fls. 723-729), os insurgentes apontam violação ao art. 593, III, b, do CPP.
+Em síntese, alega que o juízo condenatório não foi robusto, pois a decisão dos jurados não foi unânime.
+Sustenta ter sido o julgamento contrário a prova dos autos, uma vez que o veredicto do Tribunal do Júri foi realizado por maioria.
+Requer a reforma do acórdão recorrido.
+Contrarrazões às fls. 733-741 (e-STJ).
+Após juízo de admissibilidade (e-STJ, fls. 742-744), os autos ascenderam a esta Corte Superior.
+A Subprocuradora-Geral da República, [NOME], opinou pelo não provimento do inconformismo (e-STJ, fls. 758-761).
+É O RELATÓRIO.
+A irresignação não merece prosperar.
+O Tribunal de origem asseverou que o julgamento dos jurados não foi contrário a prova dos autos, uma vez que eles adotaram versão apresentada pela acusação e com arrimo na prova dos autos (e-STJ, fls. 640):
+Dessa feita, concluo que a hipótese prevista no art. 593, inciso III, alínea "d", do Código de Processo Penal, que trata de decisão dos jurados, manifestamente, contrária às provas dos autos, não encontra amparo, uma vez que a tese de Homicídio Qualificado, nos termos do art. 121, § 2.2, incisos I e IV, da Lei Substantiva Penal, que prosperou no julgamento do Tribunal do Júri, coaduna-se com o conjunto fático-probatório apresentado aos Jurados.
+In casu, infiro, tão somente, a escolha de uma das teses levadas ao Conselho de Sentença, pelo Parquet estadual.
+Desse modo, o acolhimento do inconformismo, segundo as alegações vertidas nas razões do especial, demanda o revolvimento do acervo fático-probatório dos autos, situação vedada pela Súmula 7 do STJ.
+Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DUPLAMENTE QUALIFICADO. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. SÚMULA n. 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Não é manifestamente contrária à prova dos autos a decisão dos jurados que acolhe uma das versões respaldadas no conjunto probatório produzido.
+2. Assim, demonstrada, pela simples leitura do acórdão impugnado, a existência de duas versões, não há que se falar em decisão manifestamente contrária à prova dos autos, sob pena de afronta à soberania dos veredictos.
+3. Para afastar a conclusão do Tribunal de origem de que a sentença condenatória não é manifestamente contrária às provas dos autos, necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada em recurso especial, consoante o disposto na Súmula n. 7 do STJ. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no AREsp 942.077/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/06/2017, DJe 13/06/2017)
+Ademais, não se exige que o veredicto do Tribunal do Júri seja alcançado por votação unânime, sendo suficiente a maioria de votos.
+A propósito:
+Júri (processo de sua competência). Homicídio doloso (desclassificação para culposo). Apelação ministerial (interposição). Decisão contrária à prova dos autos (alegação). Existência de mais de uma tese (caso).
+ ..
+2. Havendo, como no caso dos autos, em plenário, mais de uma tese sobre o resultado morte da vítima e tendo os jurados escolhido uma delas, não há, aos olhos do relator, juridicamente, como encontrar perfeito lugar para o adjunto adverbial (manifestamente).
+3. Tendo o júri decidido, entre as teses existentes, ainda que por maioria de um voto, acolher a do homicídio culposo sustentado pela defesa, bem ou mal, foi o que o júri resolveu. Assim, existindo prova a sustentar a tese adotada em plenário, não é possível o Tribunal vir a afastá-la, sob pena de ferir a soberania dos vereditos.
+4. Habeas corpus concedido. (HC 120.967/MS, Rel. Ministro NILSON NAVES, SEXTA TURMA, julgado em 03/12/2009, DJe 24/05/2010)
+Agravo de instrumento (não-provimento). Falta de provas para justificar a condenação (não-reconhecimento). Ofensa ao art. 489 do Cód. de Pr. Penal (não-ocorrência).
+1. Só se anula decisão de tribunal do júri que não encontre amparo algum nas provas dos autos ou que se evidencie totalmente adversa ao conjunto probatório. No caso, a decisão do Conselho de Sentença firmou-se em uma das versões apresentadas nos autos.
+2. Inexiste previsão legal para a exigência de unanimidade nas respostas dos jurados aos quesitos, tomadas que são por maioria de votos. Quando verificada de forma minoritária, a contradição havida nas respostas não influencia o veredicto, o qual permanece coerente.
+3. Não reconhecidas as ilegalidades apontadas, não há falar em anulação do julgamento.
+4. Agravo regimental improvido. (AgRg no Ag 680.600/GO, Rel. Ministro NILSON NAVES, SEXTA TURMA, julgado em 22/08/2006, DJ 25/09/2006, p. 320)
+HABEAS CORPUS. ARTIGO 121, § 2º, III E IV, DO CÓDIGO PENAL. CONTRADIÇÃO NOS QUESITOS. NULIDADE NÃO CONFIGURADA. DECISÕES DO JÚRI: MAIORIA. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. TESE DA ACUSAÇÃO COM RESPALDO EM ELEMENTOS COLHIDOS NA INSTRUÇÃO CRIMINAL.
+1. Não é nulo o julgamento o Tribunal do Júri quando o jurados vencidos na votação de um quesito rejeitado, respondem diversamente em outro, se adequando à maioria.
+2. Decisão manifestamente contrária à prova dos autos é aquela que se dissocia do conjunto probatório. Não há que falar de anulação se os jurados acataram uma das teses expostas ao Conselho de Sentença.
+Ausência de constrangimento ilegal.
+3. Ordem denegada. (HC 41.715/MS, Rel. Ministro HÉLIO QUAGLIA BARBOSA, SEXTA TURMA, julgado em 03/11/2005, DJ 21/11/2005, p. 307)
+Ante o exposto, com fulcro no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
