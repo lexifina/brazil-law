@@ -1,0 +1,48 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu o recurso especial com base no óbice da Súmula 284 do STF.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo na alínea "a" do permissivo constitucional contra acórdão assim ementado (e-STJ, fl. 685):
+Agravo Interno. Decisão que nega seguimento aos declaratórios opostos pelo agravante, em razão de ter perdido objeto, o mandado de segurança então impetrado. Desnecessidade do rejulgamento dos declaratórios opostos ao acórdão que confirmou a sentença de negativa da segurança.
+Recurso desprovido.
+Opostos embargos de declaração, estes foram desprovidos, nos termos do acórdão de e-STJ, fls. 720/726.
+Nas razões do especial, alega a parte recorrente ofensa ao art. 3º do CPC/1973, aduzindo, em síntese, que persiste o interesse processual para o prosseguimento da ação mandamental ajuizada na origem, sob o argumento de que a Corte de origem "restringiu os efeitos da decisão que anulou a demissão do recorrente ao PAD 11/000.407/2004" (e-STJ, fl. 742).
+Sustenta que, "considerando que a Resolução "PGM" 510/2004 é o ato administrativo por meio do qual foi instaurado o PAD 11/001.408/2004, constitui verdadeiro absurdo a afirmação de que o writ of mandamus teria perdido seu objeto em razão do que fora decidido pela DÉCIMA PRIMEIRA CÂMARA CÍVEL no PAD 11/000.407/2004" (e-STJ, fl. 755).
+Prossegue afirmando que "nesta ação mandamental o recorrente pretende anular o ato inaugural do PAD 11/001.408/2004. Diversamente, na ação de conhecimento 0080913-15.2010.8.19.0001, por meio de seu PEDIDO EVENTUAL o recorrente pretende desconstituir a demissão que lhe foi imposta naquele processo disciplinar, ou seja, o ato final do PAD 11/001.408/2004" (e-STJ, fl. 755).
+Defende, ao final, que, "ao contrário do que entendeu a DÉCIMA CÂMARA ClVEL no acórdão recorrido, a existência da ação de conhecimento 0080913-15.2010.8.19.0001 ajuizada pelo recorrente para anular a demissão que lhe foi imposta no PAD 11/001.408/2004 não implica perda do objeto desta ação mandamental onde se pretende anular ato administrativo diverso" (e-STJ, fl. 755).
+Contrarrazões, às e-STJ, fls. 771-780.
+Parecer do Ministério Público Federal (e-STJ, fls. 243/249) pelo não provimento do recurso, ante a incidência da Súmula 7/STJ.
+É o relatório.
+No caso, sustenta o ora insurgente a não ocorrência de perda do objeto, sob a justificativa de que o acórdão proferido nos autos da Apelação 0118830-78.2004.8.19.0001 (2006.001.01392) não produziu efeito no PAD 11/001.408/2004, no qual se encontra a Resolução "PGM" n. 510/2004 que se pretende anular nesta ação mandamental, o que, segundo o recorrente, demonstraria a subsistência do seu interesse processual no processamento do feito.
+A respeito da controvérsia ora em análise, confiram-se os fundamentos assentados pela Corte de origem (e-STJ, fls. 721-726):
+1. Com efeito, o que se verifica destes autos, é que em certa ocasião, o ora embargante se viu indiciado em certo Inquérito administrativo, que foi instaurado em decorrência de 2 processos administrativos mencionados na inicial, que teriam sido abertos em razão de certa Resolução editada pela Procuradoria Geral do Município do Rio de Janeiro (fl. 33);
+2. Neste mandado de segurança, pretendia a impetrante, ora embargante, provimento liminar para a suspensão dos tais PAs, bem como a suspensão do inquérito administrativo, e do que parece também, a anulação de ato administrativo que teria dado origem aos tais PAs;
+3. É certo que na precisa decisão de fl. 72, a qual nos reportamos, não foi concedida qualquer liminar;
+4. Daí que este "mandamus", teve o seu regular processamento, após o que, foi encerrado com a acertada sentença de fls. 257/263, cuja fundamentação endosso, a qual denegou a segurança pretendida;
+5. Foi então interposto o recurso de apelação, o qual foi desprovido pelo acórdão de fls. 372/374, devidamente fundamentado, ainda que se reportasse a sentença e ao bem lançado parecer ministerial, cujos fundamentos não costumamos repetir, para não sermos tautológicos;
+6. Como era de se esperar, foram opostos os declaratórios, que como não podia deixar de ser, sob o inconsistente fundamento de alegada omissão, pretendiam o reexame do que fora decidido;
+7. Tais declaratórios acabaram sendo rejeitados (fls. 396/399), e repetidos, foram novamente rejeitados (fls. 407/408);
+8. Interposto o recurso especial, o E. STJ, achou por bem em anular o acórdão embargado, por entender ter ocorrido o vício de omissão;
+9. Baixados os autos, proferimos então a decisão de fls. 507/508, vindo aos autos, informações quanto a que o inquérito administrativo objeto desta demanda fora concluído, no que resultou na então demissão do ora embargante, fato anteriormente denunciado (fls. 254/255);
+10. Todavia, aquela penalidade teria sido revertida em razão de acórdão então proferido pela 11a Câmara Cível (fl. 517);
+11. Era informado ainda, que o ora embargante movera ação para se ver reintegrado no cargo do qual fora demitido (fls. 517/519), cujo julgamento de mérito teria sido suspenso (fl. 592);
+12. Por estas razões é que viemos a proferir a decisão de fls. 600/602, negando seguimento aos declaratórios então opostos, posto que o objetivo do "mandamus" era a impugnação de ato do qual resultou a instauração dos aludidos PAs e o conseqüente Inquérito administrativo, e como todos os procedimentos se concluíram, nada mais havia o que suspender ou impedir;
+13. De mais a mais, todos os questionamentos aqui deduzidos e muito mais outros, foram objetos de demandas jurídicas que se seguiram a demissão do
+embargante;
+14 Se a segurança não fora concedida, consoante os bem lançados termos da d. sentença de fls. 257/263, com a qual estamos inteiramente de acordo, não haveria mais qualquer razão jurídica e racional, de se prosseguir julgando os eventuais declaratórios opostos ao acórdão que manteve a sentença, pouco importando seja este ou aquele PA, já que ambos instruíram o inquérito administrativo;
+15. Inconformado, o embargante manejou o agravo interno de fls. 607/630, insistindo em teses de matérias já superadas, no que diz respeito aos PAs, já que seja este ou aquele, foram objeto do mesmo inquérito administrativo;
+16. Aquele agravo interno veio a ser desprovido, conforme o acórdão de fls. 667/668;
+17 Mais uma vez o embargante retorna as suas inconsistentes teses já superadas, com os declaratórios de fls. 670/698, em que insiste em manter acesa, uma chama que nestes autos já deveria ter se apagado, por ocasião da petição de fls. 254/255;
+18. O embargante é useiro e vezeiro em utilizar maçante argumentação, que nada tem a ver com o ponto nodal da questão, que é a flagrante perda do objeto da presente impetração, como já exemplificado na decisão copiada às fls. 653/654 e 659/662;
+19. É preciso de uma vez por todas, que o embargante se convença de que com o encerramento do inquérito administrativo, objeto deste ou daquele PA, nenhum pronunciamento judicial deve ser exarado, acerca dos fatos que motivaram a instauração do tal inquérito mencionado na inicial, que acabou concluído.
+20. Para encerrar, ainda que esta impetração, como introdução na inicial, objetivasse desconstituir a tal Resolução, também ficou ela prejudicada, na medida em que os PAs e o tal inquérito tiveram regular prosseguimento e encerramento;
+21. Ao embargante só caberia então, a utilização de outras vias processuais, para impugnar aqueles resultados administrativos, como de fato veio a se utilizar.
+Das razões apresentadas pela instância ordinária, observa-se que, para perquirir acerca da alegada persistência do interesse processual do recorrente para o processamento e julgamento da demanda postulada na origem, demandaria, inequivocamente, no reexame do conjunto fático-probatório dos autos, providência vedada, nesta via, pela Súmula 7/STJ.
+Com efeito, os fatos são aqui recebidos tal como estabelecidos pelo Tribunal a quo. E, se a violação do dispositivo legal invocado perpassa pela necessidade de se fixar premissa fática diversa da que consta do acórdão impugnado, inviável o apelo nobre.
+A propósito, esse, também, foi o entendimento alcançado pelo Ministério Público Federal, o qual revelou que a pretensão buscada no presente recurso especial está baseada na premissa de que "na Ação Ordinária n. 0080913-15.2010.8.19.0001 teria requerido a anulação do ato administrativo que lhe impôs a pena de demissão no PA n. 11/001.408/2004 e que a referida ação, até o momento da interposição deste recurso, ainda não teria sido julgada - fls. 746" (e-STJ, fl. 837).
+Na ocasião, concluiu o Parquet que, "para se acolher os argumentos do recorrente e ilidir as conclusões do acórdão, alcançadas com fundamento na documentação carreada aos autos, seria imprescindível revolver o conteúdo fático-probatório do processo, o que a teor do Enunciado Sumular n. 7/STJ é defeso na via do recurso especial".
+Transcrevo precedente desta E. Corte Superior acerca da incidência da Súmula 7/STJ:
+Recurso especial.
+Não ofende o princípio da Súmula 7 emprestar-se, no julgamento do especial, significado diverso aos fatos estabelecidos pelo acórdão recorrido. Inviável é ter como ocorridos fatos cuja existência o acórdão negou ou negar fatos que se tiveram como verificados. (AgRg nos EREsp 134.108/DF, Rel. Ministro EDUARDO RIBEIRO, CORTE ESPECIAL, julgado em 2/6/1999, DJ 16/8/1999, p. 36)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
