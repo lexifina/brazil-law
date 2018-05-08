@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA, CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS E INDENIZAÇÃO POR DANOS MATERIAIS. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Recurso especial não conhecido.
+DECISÃO
+Cuida-se de recurso especial interposto por VIAÇÃO GATO PRETO LTDA., fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Ação: de cobrança, cumulada com indenização por danos materiais e compensação por danos morais, ajuizada por ELOIZA DA CONCEICAO CAVALCANTE, em face da recorrente, em virtude de lesões decorrentes de manobra brusca de ônibus em que a recorrida era transportada.
+Sentença: julgou parcialmente procedente o pedido, para condenar a recorrente ao pagamento dos danos materiais no valor de R$ 4.322,00 (quatro mil, trezentos e vinte e dois reais), e de R$ 20.000,00 (vinte mil reais) para compensar os danos morais.
+Acórdão: manteve a decisão unipessoal do Relator que deu parcial provimento à apelação interposta pela recorrida, a fim de majorar o valor fixado a título de compensação por danos morais para R$ 30.000,00 (trinta mil reais), e negou provimento ao apelo da recorrente. O acórdão foi assim ementado:
+RECURSO - Apelação - Manifesta improcedência, que permite ao relator negar provimento desde logo - Inteligência do disposto no art. 932 do Cód. de Proc. Civil - Aplicação, outrossim, do art. 252 do Regimento Interno deste E. Tribunal de Justiça - Caso, ademais, em que a interposição do regimental permite à ré levar a matéria ao conhecimento do colegiado, com o que de nenhum prejuízo pode se queixar.
+RESPONSABILIDADE CIVIL - Transporte terrestre - Danos materiais - Caso em que a autora não fez prova da sua ocorrência - Ônus imposto pelo inciso II do art. 373 do Cód. de Proc. Civil, do qual não se desincumbiu - Dano moral - Ocorrência - Majoração para R$-30.000,00 que se mostra adequada no caso concreto.
+HONORÁRIOS DE ADVOGADO - Aplicação do disposto no art. 21 do Cód. de Proc. Civil anterior - Adequação, ante a ocorrência de sucumbência recíproca - Solução adequada ao REsp 1465535 - Decisão que deu parcial provimento à apelação da autora e negou provimento à da ré mantida - Agravos regimentais improvidos. (e-STJ fl. 514)
+Recurso especial: alega dissídio jurisprudencial. Argumenta que a correção monetária deve incidir desde a data do arbitramento, e pugna pela redução do valor fixado para compensar os danos morais, por considerá-lo elevado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que, quanto à alegada divergência jurisprudencial, a recorrente não indica violação a qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Não é possível o conhecimento do recurso especial fundado no dissídio jurisprudencial na hipótese em que não há a devida indicação de qual dispositivo de lei teria sido ofendido. Isso porque o entendimento do Superior Tribunal de Justiça preconiza que o apelo excepcional sustentado na dissidência pretoriana depende do apontamento do artigo de lei violado, sob pena de incidência da mencionada súmula, como ocorreu na hipótese. Precedentes: AgRg no AREsp 637.381/SP, 4ª Turma, DJe de 02/03/2016, e EDcl no AREsp 806.419/SP, 3ª Turma, DJe de 22/02/2016.
+Ademais, ressalte-se que, tratando-se de valor da indenização por danos morais, é inviável a análise do recurso com base em dissídio jurisprudencial, pois, ainda que aparentemente possa haver similitude nas características objetivas das lides cotejadas, na dimensão subjetiva, os acórdãos serão sempre distintos, em face das peculiaridades de cada ato ilícito (AgRg no REsp n. 918.829/ES, 3ª Turma, DJe de 16/12/2010; AgInt no AREsp 1.155.188/RS, 3ª Turma, DJe de 23/02/2018; e AgInt no AREsp 1.158.356/DF, 4ª Turma, DJe de 19/12/2017).
+Por fim, verifica-se que entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC/73 e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Publique-se. Intimem-se.
