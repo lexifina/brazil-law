@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo (art. 544 do CPC/73), interposto por COLETIVOS SÃO CRISTÓVÃO LTDA, contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado nas alíneas "a" e "c", do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerias, assim ementado (fl. 337, e-STJ):
+ORDINÁRIA. MULTA CONTRATUAL. PRESTAÇÃO DE SERVIÇOS. ENCERRAMENTO IMOTIVADO. CANCELAMENTO. REDUÇÃO, A multa estabelecida para o caso de encerramento imotivado do contrato de prestação de serviços, comprovado seu fato gerador, não pode ser declarada indevida; a redução também não se mostra possível, quando razoável à importância do serviço contratado, interrompido sem o pré-aviso necessário a impedir seu fato gerador.
+Opostos embargos declaratórios (fls. 344/347, e-STJ), esses foram rejeitados.
+Em suas razões de recurso especial (fls. 361/358, e-STJ), a recorrente apontou, além de dissídio jurisprudência, violação aos artigos 126, 165, 458, inciso Ii e 535, inciso II do Código de Processo Civil/73; 51, inciso IV e 52 § 1º do Código de Defesa do Consumidor; 413 e 427 do Código Civil e 59, inciso VII da Resolução/ANATEL n. 272/2001, sustentando, em síntese: i) negativa de prestação jurisdicional, por não terem sido supridas as omissões suscitadas nos aclaratórios em relação ao pedido de cancelamento ou interrupção dos serviços contratados; ii) ser indevida a multa, tendo em vista ter havido o pedido de cancelamento do contrato.
+Contrarrazões às fls. 381/387, e-STJ.
+Em juízo de admissibilidade (fls. 398/401, e-STJ), negou-se o processamento do recurso especial, sob os seguintes fundamentos: i) ausência de negativa de prestação jurisdicional; ii) incidência da Súmula 7 do STJ; iii) ausência de comprovação do dissídio jurisprudencial nos moldes legais exigidos.
+Daí o agravo (fls. 404/410, e-STJ), buscando destrancar o processamento do apelo especial, no qual a insurgente alega ter preenchido os pressupostos de admissibilidade. Refuta os óbices supracitados.
+Contraminuta às fls. 424/436, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Inicialmente, destaca-se que o acórdão e a decisão recorridos foram publicados antes da entrada em vigor da Lei n. 13.105 de 2015, estando os recursos sujeitos aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+2. Quanto à alegada violação às Resoluções da ANATEL, cabe destacar que, consoante a jurisprudência do Superior Tribunal de Justiça, "o recurso especial não constitui via adequada para a análise de eventual ofensa a Resoluções, Portarias ou Instruções Normativas, por não estarem tais atos normativos inseridos no conceito de lei federal, nos termos do art. 105, III, a, da Constituição Federal" (STJ, AgRg no AREsp 10.587/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 11.6.2014)
+A propósito:
+PROCESSUAL CIVIL E CONSUMIDOR. AÇÃO CIVIL PÚBLICA. DIREITO À INFORMAÇÃO. IMPLANTAÇÃO DE SINAL SONORO QUE PERMITA AO CONSUMIDOR IDENTIFICAR QUE A CHAMADA DE DESTINO É DE SUA OPERADORA. ANÁLISE DE RESOLUÇÃO DA ANATEL EM RECURSO ESPECIAL. IMPOSSIBILIDADE.
+1. Trata-se, na origem, de Ação Civil Pública proposta pelo Parquet contra Telefônica S/A visando, além de outros pedidos, compelir a empresa recorrida a implantar sinal sonoro que permita ao consumidor identificar que a chamada de destino pertence à sua própria operadora.
+2. A tese defendida não pode ser analisada somente com base do Código de Defesa do Consumidor, pois o direito à informação previsto no art. 31 do CDC, nesse caso específico, foi regulamentado pela Resolução 460/2007 da Anatel, órgão que detém competência para essa finalidade.
+3. Portando, o objeto do Recurso Especial demanda interpretação de Resolução da Anatel, o que é incabível nesta via estreita.
+Ressalte-se que, de acordo com o art. 105, III, alínea "a", da Constituição Federal, não se pode analisar eventual ofensa a regulamentos, portarias ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal".
+Precedentes do STJ.
+4. Recurso Especial não provido.
+(REsp 1541706/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/09/2015, DJe 17/11/2015)
+3. Com efeito, no que tange à alegada violação ao artigo 535 do CPC/73, não merece acolhimento a insurgência da recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem.
+Aduz a ora agravante a ocorrência de negativa de prestação jurisdicional, ao argumento de que o Tribunal de origem teria sido omisso, contraditório no que se refere ao pedido de cancelamento ou interrupção dos serviços contratados.
+Contudo, da leitura dos autos, constata-se que referida matéria foi expressamente examinada pela Corte a quo, consoante se denota dos seguintes trechos (fl. 356, e-STJ):
+A Embargante, em suas razões, bate-se pelo pronunciamento dessa Turma acerca de omissão que alega existir no julgado em relação à alegação de que teria provado a manifestação do seu desejo de dar continuidade ao contrato sem razão, posto que, na verdade, o que se conclui da leitura dos documentos mencionados nas razões é que ela vinha fazendo pesquisa de mercado, com o objetivo de escolher o serviço que melhor lhe conviesse, sendo essa, a toda evidência, a razão do envio de novas propostas, pela Embargada.
+Assim que, não tendo sido manifestado, pelo menos claramente, em nenhum momento o desejo de interromper a prestação de serviço, não há como acolher os embargos neste particular.
+Dessa forma, não há que se falar em negativa de prestação jurisdicional pelo Tribunal local, que apreciou todas as questões que lhe foram postas de forma suficiente.
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E ESTÉTICO. ART. 535, II, DO CPC/1973. AUSÊNCIA DE OMISSÃO. INVERSÃO DO ÔNUS DA PROVA E DEVER DE INDENIZAR. REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela alegada violação ao art. 1.022, I e II, do Novo CPC (art. 535, I e II, do CPC/73). Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+ ..
+(AgInt no AgInt no AREsp 955.180/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/02/2017, DJe 20/02/2017)
+Desta forma, considerando que a questão trazida à discussão foi dirimida pelo Tribunal de origem de forma fundamentada e sem omissões ou contradições, merece ser afastada a alegada negativa de prestação jurisdicional.
+4. Quanto ao mérito, melhor sorte não socorre ao recorrente, uma vez que o Tribunal a quo constatou que não houve pedido de cancelamento do contrato de prestação de serviço, consoante se observa nos seguintes trechos do acórdão recorrido (fls. 239/240, e-STJ):
+Os autos provam que a apelante aderiu proposta técnica comercial da apelada, com prazo de vigência de 36 (trinta e seis) meses (f. 42, item 4.1), vinculada às condições estabelecidas no contrato de adesão, devidamente registrado no 3º Ofício de Registro de Títulos e documentos da Cidade do Rio de Janeiro (f. 44, item 08).
+No item 12.2 deste contrato de adesão consta que o serviço contrato por prazo determinado será automaticamente renovado por período iguais e sucessivos, a menos que o cliente notifique por escrito, sua intenção de cancelar o serviço, com antecedência mínima de 30 (trinta) dias da data prevista para o término (f. 141).
+Visto que a apelante não provou ter cumprido a obrigação de interruptiva da renovação automática do contrato de prestação de serviço a que aderiu, e não se tratando de pessoa jurídica desprovida de assessoria jurídica e contábii qualificada, a ponto de não compreender os ajustes empresariais e alcance dos mesmos, sobretudo lançados em contratos de adesão, onde visível é paridade de armas, deu causa à multa contratual pelo cancelamento antecipado do contrato, pelo que legitima a nota de débito gerada pela apelada.
+ Com efeito, o recurso especial não se presta ao reexame de fatos e provas, tampouco à interpretação de cláusulas contratuais, conforme a dicção das Súmulas 5 e 7/STJ.
+No caso concreto, verifica-se que o Tribunal a quo solucionou a controvérsia à luz do conjunto fático probatório encartado nos autos, bem como do contrato firmado entre as partes, de sorte que, para afastar tal entendimento, seria necessária a interpretação das cláusulas contratuais, bem como o revolvimento do conjunto fático-probatório encartado nos autos, o que é vedado em sede de recurso especial em razão da incidência das Súmulas 5 e 7/STJ, respectivamente. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu que os agravantes não comprovaram o alegado fato impeditivo do direito dos autores, de modo que a rescisão contratual, com a condenação ao pagamento da multa, era mesmo de rigor. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A incidência da referida súmula também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte. 4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1024382/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 02/05/2017, DJe 05/05/2017)
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. OFENSA AO ART. 535 DO CPC/73 NÃO CONFIGURADA. DEFICIÊNCIA DE SERVIÇO DE TELEFONIA. AUSÊNCIA DE COMPROVAÇÃO. NECESSIDADE DE REEXAME DOS FATOS DA CAUSA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inaplicabilidade do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Não fica caracterizada ofensa ao art. 535 do CPC/73 pelo fato de o acórdão ter decidido de forma contrária aos interesses da parte, desde que apresente, como no caso concreto, os fundamentos fáticos e jurídicos que nortearam suas conclusões.
+3. Para ultrapassar a conclusão a que chegou o Tribunal estadual no sentido de que não ficou comprovada a falha dos serviços contratados a possibilitar a rescisão antecipada do contrato sem aplicação da multa e o arbitramento do dano moral, seria necessária a revisão do contexto fático-probatório dos autos, inviável no âmbito do recurso especial conforme a Súmula nº 7 do STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp 760.498/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/09/2016, DJe 07/10/2016)
+5. Importante consignar, ainda, que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas e interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+6. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido.
+(AgInt no AREsp 1052768/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/02/2018, DJe 23/02/2018)
+6. Do exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
