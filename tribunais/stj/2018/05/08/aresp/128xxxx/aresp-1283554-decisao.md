@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de Agravo, interposto pela UNIVERSIDADE FEDERAL DE PELOTAS, em 02/04/2018, contra decisão do Tribunal Regional Federal da 4ª Região, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"ADMINISTRATIVO. SERVIDOR PÚBLICO. AUXILIAR DE ENFERMAGEM. DESEMPENHO DE ATIVIDADES PRÓPRIAS DE TÉCNICO DE ENFERMAGEM. DESVIO DE FUNÇÃO.
+. A legislação de regência prevê atividades semelhantes para Auxiliares e Técnicos de Enfermagem, mas as atividades daqueles são tarefas de menor complexidade do que as dos Técnicos.
+. Hipótese em que a prova testemunhal evidencia a prática de funções típicas do Técnico em Enfermagem de forma habitual e demonstra que não havia distinção entre os servidores Auxiliares e Técnicos nas equipes de trabalho do hospital.
+. Reconhecido o desvio de função, tem a parte autora direito às diferenças remuneratórias decorrentes de equiparação salarial com o cargo de Técnico em Enfermagem" (fl. 363e).
+Opostos Embargos de Declaração, foram acolhidos para fins de prequestionamento, nos seguintes termos:
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. HIPÓTESES DE CABIMENTO. IMPOSSIBILIDADE DE REDISCUSSÃO DOS FUNDAMENTOS DO ACÓRDÃO EMBARGADO.
+1. Os embargos de declaração são cabíveis para o suprimento de omissão, saneamento de contradição, esclarecimento de obscuridade ou correção de erro material no julgamento embargado. A jurisprudência também os admite para fins de prequestionamento.
+2. Os embargos declaratórios não se prestam à reforma do julgado proferido, nem substituem os recursos previstos na legislação processual para que a parte inconformada com o julgamento possa buscar sua revisão ou reforma.
+3. Embargos declaratórios parcialmente providos apenas para fins de prequestionamento" (fl. 393e).
+Nas razões do Recurso especial, sustenta a parte recorrente que:
+"Negativa de vigência aos arts. 12 e 13 da Lei 7.498/86, c/c os artigos 10 e 11 do Decreto n. 94.406/87; e 3º da Lei 8.112/90.
+O acórdão merece reforma porque declara o direito às diferenças remuneratórias do cargo de técnico em enfermagem, sem atentar que as atividades elencadas no Decreto 94.406/87, arts. 10 e 11 são de grande similaridade. E, para configurar o desvio de função necessário que as tarefas desempenhadas sejam permanentemente do cargo em desvio.
+Assim, conquanto as atividades realizadas pela autora possam, em parte, ser enquadradas como próprias do cargo de Técnico em Enfermagem, não se pode, de outro, excluí-las peremptoriamente das atribuições típicas de Auxiliar de Enfermagem, uma vez que há parcial identidade entre elas. De fato, as atribuições previstas para o Auxiliar envolvem, como se viu, atividades como: a) ministrar medicamentos; b) fazer curativos; c) colher material para exames laboratoriais; d) prestar cuidados de Enfermagem pré e pós- operatórios; etc.
+Trata-se, pois, de identidade parcial estabelecida pela própria legislação, que restou violada.
+(..)
+Portanto, o acórdão outorga o direito às diferenças remuneratórias havendo sem que haja prova de tarefas desempenhadas permanentemente que sejam exclusivas do cargo de técnico em enfermagem, violando o disposto na Lei 8.112/90, e nos artigos 12 e 13 da Lei 7.498/86 (arts. 12 e 13), que estabelecem as funções dos cargos de técnico em enfermagem e auxiliar, esmiuçadas no Decreto 94.406/87 (arts. 10 e 11), in verbis:
+(..)
+De outra banda, ad argumentandum, também incorre em violação ao Estatuto do Servidor Público. O acórdão viola o artigo 117, XVII, XVIII, da Lei 8.112/90, que veda o exercício de atividades estranhos ao do cargo efetivo.
+Permitir que servidor receba diferença salarial, entre o cargo ilegalmente ocupado e cargo derivado de concurso público, vai de encontro à legislação referida e ofende os princípios norteadores da administração pública, em especial a probidade administrativa e legalidade. Ora, conceder tais vantagens significa aprovar investidura diversa a que a servidora foi investida.
+(..)
+A parte recorrida, ao supostamente exercer cargo em desvio de função, deveria ter-se utilizado dos meios legais para fazer cessar a ilegalidade, sendo inadmissível que se mantivesse em silêncio, para após o decurso de certo tempo obter vantagens pecuniárias" (fls. 401/413e).
+Requer, ao final, o provimento do Recurso Especial.
+Apresentadas contrarrazões (fls. 418/424e), negado seguimento ao Recurso Especial (fls. 427/429e), foi interposto o presente Agravo (fls. 438/445e).
+Apresentada a contraminuta (fls. 449/454e).
+A irresignação não merece acolhimento.
+Na origem, trata-se de ação na qual a autora, servidora pública federal requer a condenação da Universidade Federal de Pelotas, ao pagamento de diferença de remuneração existente entre os cargos de Auxiliar de Enfermagem e Técnico em Enfermagem, decorrentes de alegado desvio de função.
+Quanto ao cerne da controvérsia, assim decidiu o Tribunal de origem:
+"No que interessa ao presente processo, em que servidor público federal (Auxiliar de Enfermagem) busca as diferenças decorrentes do alegado desvio de função (pelo exercício das atribuições do cargo de Técnico de Enfermagem), os requisitos para procedência da ação seriam: (a) comprovar a ocorrência do desvio de função; (b) comprovar existirem diferenças remuneratórias decorrentes do exercício das outras atribuições que não eram típicas nem previstas para seu cargo.
+Passo a examinar o direito vigente.
+A Lei nº 7.498/86 elenca algumas das atividades previstas para o desempenho das carreiras de Auxiliar de Enfermagem e Técnico em Enfermagem, definido-as da seguinte forma:
+(..)
+Da leitura desses dispositivos, percebe-se que Auxiliares e Técnicos de enfermagem exercem, por vezes, as mesmas atividades, até mesmo porque ambos integram a equipe de saúde e contam com escolaridade de nível médio.
+No entanto, existem atividades que devem ser exercidas exclusivamente pelos Técnicos de Enfermagem, os quais realizam funções mais parecidas com as desempenhadas pelos enfermeiros. Aos Técnicos a legislação de regência atribuiu a execução de atividade de programar a assistência de enfermagem (art. 12, I, Lei nº 7.498/86), excetuadas as privativas de enfermeiro. Já aos auxiliares foram designadas tarefas operacionais, relacionadas à higiene e ao conforto do paciente, bem como ações de tratamento simples, excluindo o cuidado direto dos pacientes em estado grave.
+Ademais, quanto às atividades atribuídas à equipe de enfermagem, optou o legislador por especificar aquelas que poderiam ser exercidas pelos Auxiliares, na medida em que elencou o rol do artigo 11 do Decreto nº 94.406/87. No entanto, deixou de adotar essa técnica de especificação das atividades para os Técnicos, aos quais coube, de forma genérica, "executar atividades de assistência de Enfermagem, excetuadas as privativas do Enfermeiro e as referidas no Art. 9º" do Decreto (art. 10, II, Decreto nº 94.406).
+Por outro lado, ressalta-se que o Técnico participa da orientação e supervisão do trabalho de enfermagem em grau auxiliar, enquanto o Auxiliar de Enfermagem não orienta e nem supervisiona nenhum outro profissional, apenas observa, reconhece e descreve sinais e sintomas, executando ações de tratamento simples.
+Observa-se que as tarefas dos dois cargos assemelham-se, mas as atividades dos Auxiliares de Enfermagem são tarefas de menor complexidade do que as dos Técnicos. As diferenças entre as atividades dos profissionais devem ser observadas nas rotinas do ambiente hospitalar, sob pena de restar configurado o desvio de função.
+No caso concreto, a prova testemunhal evidencia que não havia distinção, nas equipes de trabalho do hospital, entre Técnicos e Auxiliares, apenas entre estes e os enfermeiros.
+Com efeito, na audiência realizada em 13/11/2014, foram ouvidos colegas da autora, cujos depoimentos (processo originário, evento 38) das testemunhas Patrícia e Tomás evidenciam que, na prática, não há diferença entre as funções desempenhas por Auxiliares de Enfermagem e Técnicos de Enfermagem e que o hospital nunca deu tratamento distinto em relação às atividades dos Técnicos e dos Auxiliares.
+Ressalto também que a diferença de remuneração entre os dois cargos, no mês de julho de 2013, era de cerca de R$ 400,00 (conforme evento 1-tab 8). Portanto, existe diferença remuneratória entre os dois cargos, sendo que a parte autora desempenha atribuições do cargo mais remunerado, embora ocupe e receba pelo cargo menos remunerado.
+Considerando os fatos provados, chego à conclusão da existência de direito ao pagamento de diferenças remuneratórias por desvio de função pelos seguintes motivos:" (fls. 355/362e).
+Nesse contexto, observa-se que, tendo o Tribunal de origem, soberano na análise fática da causa, reconhecido o desvio de função e o direito ao pagamento das diferenças salariais, rever a conclusão do aresto combatido é inviável, nesta seara recursal, nos termos da Súmula 7/STJ.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.
+1. Cuida-se, na origem, de Ação contra o INSS, objetivando a condenação ao pagamento das diferenças remuneratórias apuradas entre os cargos de Técnico Previdenciário e de Analista Previdenciário, porquanto, embora a recorrente seja ocupante do cargo de nível médio, exerceu atividades previstas para o cargo de Analista do Seguro Social.
+2. O Tribunal a quo deu provimento à apelação do INSS, ora recorrido, para julgar improcedente o pedido e assim consignou:
+" No caso, não se vislumbra que as tarefas desempenhadas pela parte autora eram, de modo permanente, exclusivas do cargo de analista previdenciário. Logo, considerando que a caracterização do desvio de função é situação excepcional em face do princípio da legalidade, não se pode reconhecer o direito postulado" (fl. 428).
+3. Modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese da recorrente, demandaria reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+4. Constato que não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+5. Agravo Regimental não provido" (STJ, AgRg no AREsp 560.547/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2014).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO ESTADUAL. DESVIO DE FUNÇÃO. PRESCRIÇÃO. ACÓRDÃO FUNDAMENTADO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+(..)
+2. Observa-se que a instância de origem decidiu a controvérsia com fundamento no suporte fático-probatório dos autos. Desse modo, verifica-se que a análise da controvérsia demanda reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+3. Agravo Regimental não provido" (STJ, AgRg no REsp 1.474.147/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 28/11/2014).
+Ademais, a jurisprudência desta Corte consolidou-se no sentido de que, "Reconhecido o desvio de função, o servidor faz jus às diferenças salariais decorrentes" (Súmula 378/STJ).
+No mesmo sentido:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESVIO DE FUNÇÃO RECONHECIDO NA INSTÂNCIA ORDINÁRIA. DIFERENÇAS DEVIDAS. ART. 458, II, DO CPC NÃO VIOLADO. INCIDÊNCIA DA MP 2.180/01. INOVAÇÃO. DESCABIMENTO. 1º-F DA LEI 9.497/97. REDAÇÃO DA LEI 11.960/09. INCIDÊNCIA A PARTIR DE SUA ENTRADA EM VIGOR. RECURSO ESPECIAL REPETITIVO 1.205.946/SP. AGRAVOS REGIMENTAIS NÃO PROVIDOS.
+1. Consoante reiterada jurisprudência do Superior Tribunal de Justiça, o servidor que desempenha função diversa daquela inerente ao cargo para o qual foi investido, embora não faça jus ao reenquadramento, tem direito de perceber as diferenças remuneratórias relativas ao período, sob pena de se gerar locupletamento indevido em favor da Administração. Inteligência da Súmula 378 do STJ.
+(..)
+6. Agravos regimentais não providos".
+(AgRg no AREsp 8.409/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 19/04/2012, DJe 02/05/2012)
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios, anteriormente fixados em 10% (dez por cento) sobre o valor da condenação, para 11% (onze por cento) sobre o valor da condenação, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
