@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98089, de 17 de abril de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 7018.20.00 Mercadoria: Microesferas de vidro, com diâmetros não superiores a um milímetro, próprias para serem misturadas diretamente à tinta para pintura de faixas horizontais de sinalização viária. DISPOSITIVOS LEGAIS: (RGI/SH) 1 (texto da posição 70.18) e 6 (texto da subposição 7018.20.00) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e Tipi aprovada pelo Decreto 8.950, de 2016, e subsídios das NESH, aprovadas pelo Decreto nº 435/92, atualizadas IN/RFB nº 1.788, de 2018.
+[arquivo anexo: SC Cosit nº 98.089-2018.pdf]
