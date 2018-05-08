@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal Regional Federal da 4ª Região, assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. ACP Nº 94.00.08514-1. CRÉDITO RURAL. SUBSTITUIÇÃO DO ÍNDICE CORREÇÃO MONETÁRIA. IPC (84,32%) PELO BTNF (41,28%). LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA. DESNECESSIDADE. PROVA DA QUITAÇÃO DO CONTRATO. INVERSÃO DO ÔNUS DA PROVA. COMPROVAÇÃO DE ELEMENTOS MÍNIMOS DA EXISTÊNCIA DA RELAÇÃO CONTRATUAL.
+1. Verificada a existência de critérios definidos para a confecção dos cálculos, a execução do julgado, mesmo que de forma provisória, há de ser feita por cumprimento de sentença, na forma prevista no § 2º do art. 509 do CPC. Ademais, não procede a alegação de impossibilidade de feitura de cálculos pela ausência de extratos vinculados às cédulas rurais, eis que o § 3º do art. 524 do CPC expressamente prevê a possibilidade de o Juiz requisitar os dados existentes em poder do devedor, se o caso.
+2. Deve ser invertido o ônus da prova, a teor do disposto no art. 6º, VIII do CDC, para determinar que o Banco do Brasil apresente, oportunamente, os comprovantes de quitação e/ou pagamento das cédulas rurais pignoratícias, bem como os extratos da operação necessários à elaboração dos cálculos, desde que o exeqüente tenha apresentado elementos mínimos acerca da relação contratual entabulada entre as partes, o que ocorreu no caso dos autos. "
+(e-STJ, fl. 222)
+Nas razões do recurso especial, a parte agravante alega sustenta, em síntese: (a) a necessidade de suspensão do presente feito; (b) que prescreve em vinte anos a pretensão relativa a cédulas de crédito rural; (c) a inaplicabilidade do Código de Defesa do Consumidor aos contratos firmados antes da sua vigência.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado nº 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O apelo nobre fundado na alínea "a" do permissivo constitucional requer, obrigatoriamente, que o recorrente particularize de forma inequívoca os dispositivos legais que entenda tenham sido contrariados ou aos quais o Tribunal de origem lhes tenha negado vigência, sob pena de se configurar fundamentação deficiente, inviabilizando a abertura da via especial.
+In casu, o recorrente não se desincumbiu deste ônus, impedindo, por conseguinte, a exata compreensão da controvérsia a ser dirimida. Incide, assim, o óbice da Súmula 284/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. PENSÃO POR MORTE. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO À LEI FEDERAL. SÚMULA 284 DO STF. ALEGADA AFRONTA AO EQUILÍBRIO ATUARIAL. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA 211/STJ. RECURSO NÃO PROVIDO.
+1. Quanto ao tema relativo à alegada inaplicabilidade do CDC e inversão do ônus da prova, a parte recorrente não indica expressamente dispositivo de lei federal violado ou a que se tenha dado interpretação divergente pelo acórdão recorrido, circunstância que caracteriza a deficiência de fundamentação a inviabilizar a abertura da instância especial, atraindo a incidência da Súmula n. 284 do STF.
+(..)
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 719.546/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/02/2017, DJe 23/02/2017)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. QUEIMA DE CANA DE AÇÚCAR - REEXAME DE PROVA. SÚMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SUMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o enunciado da Súmula 284/STF.
+3. A admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano a violação do dispositivo legal pela decisão recorrida, a fim de demonstrar a vulneração existente, o que não ocorreu na hipótese da alegada violação ao art.
+38, § 4º, da Lei 12.651/12.
+4. Agravo regimental não provido". (AgRg no AREsp 721.287/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 27/08/2015)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ADMISSIBILIDADE. SÚMULA Nº 284/STF. INDICAÇÃO GENÉRICA DA LEI FEDERAL E AUSÊNCIA DE PARTICULARIZAÇÃO DO DISPOSITIVO LEGAL E DA NORMA LEGAL.  ..
+1. Considera-se deficiente de fundamentação o recurso especial que não indica quais dispositivos legais teriam sido violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, da Súmula nº 284/STF.  .. "
+(AgRg no REsp 793.488/RS, TERCEIRA TURMA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, julgado em 23/4/2013, DJe 2/5/2013)
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA.  ..  AUSÊNCIA DE INDICAÇÃO ESPECÍFICA DO DISPOSITIVO DE LEI FEDERAL QUE TERIA SIDO VIOLADO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO DESPROVIDO.
+1. O Recurso Especial encontra-se deficientemente fundamentado, porquanto a agravante não indicou expressamente quais dispositivos legais teriam sido contrariados pelo acórdão recorrido. Tal circunstância consubstancia deficiência na fundamentação recursal, motivo pelo qual não pode ser conhecido o Recurso Especial. Incide, por analogia, a Súmula 284 do STF.
+ .. "
+(AgRg no AREsp 272.161/MS, PRIMEIRA TURMA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, julgado em 19/3/2013, DJe 3/4/2013)
+"AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF.  ..
+1. Alegação genérica, sem a indicação incisiva do dispositivo, supostamente, ofendido, além de não atender à técnica própria de interposição do recurso especial, configura deficiência de fundamentação. Inteligência da Súmula 284/STF.
+ .. "
+(AgRg no Ag 1.363.434/PR, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 28/6/2011, DJe 1/7/2011).
+Na mesma direção: REsp 1.326.201/RJ, TERCEIRA TURMA, Rel. Ministra NANCY ANDRIGHI, julgado em 7/5/2013, DJe 16/5/2013; AgRg no AREsp 165.318/DF, QUARTA TURMA, Rel. Ministra MARIA ISABEL GALLOTTI, julgado em 19/3/2013, DJe 3/4/2013; AgRg no AREsp 278.349/RS, QUARTA TURMA, Rel. Ministro ANTONIO CARLOS FERREIRA, julgado em 2/4/2013, DJe 5/4/2013.
+Acrescente-se, ainda, que os dispositivos legais eventualmente citados no corpo da petição recursal figuram apenas como recurso de argumentação jurídica. Contudo, tal fórmula não se presta para viabilizar a abertura da via especial, na medida em que não configura preenchimento de requisito constitucionalmente exigido pelo art. 105, III, "a", da Constituição Federal, qual seja, a indicação da legislação federal violada. Confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. SÚMULA 284/STF.
+1. O apelo nobre fundado na alínea "a" do permissivo constitucional requer, obrigatoriamente, que o recorrente particularize de forma inequívoca os dispositivos legais que entenda tenham sido contrariados ou aos quais o Tribunal de origem lhes tenha negado vigência, sob pena de inviabilizar a abertura da via especial.
+2. O mero inconformismo, caso dos autos, sem a demonstração do dispositivo legal supostamente violado constitui argumentação deficiente, impedindo, por conseguinte, a exata compreensão da controvérsia a ser dirimida, apta a atrair, por analogia, o teor da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+3. Dispositivos legais citados ao longo da petição recursal, como recurso de argumentação jurídica, não se prestam para viabilizar a abertura da via especial, na medida em que tal fórmula não preenche requisito constitucionalmente exigido pelo art. 105, III, "a", da Constituição Federal, qual seja a indicação da legislação federal violada.
+4. Agravo regimental não provido.
+(AgRg no AREsp 539.126/ES, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/08/2014, DJe 01/10/2014)
+"RECURSO ESPECIAL DA FAZENDA NACIONAL: PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO AO ART. 535, DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF.  ..  RECURSO ESPECIAL DO PARTICULAR: ARTIGOS DE LEI MENCIONADOS DE PASSAGEM NA PETIÇÃO DE RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF.
+1. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto. Incide na espécie, por analogia, o enunciado n. 284, da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. Recurso especial do PARTICULAR não conhecido. "
+(REsp 1.218.260/RS, SEGUNDA TURMA, Rel. Ministro MAURO CAMPBELL MARQUES, julgado em 16/4/2013, DJe 23/4/2013)
+Diante do exposto, nos termos do art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.
