@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA CATARINENSE DE ÁGUAS E SANEAMENTO CASAN contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSOS DE AMBAS AS PARTES. 1. APELO DA RÉ. 1.1. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. NEGATIVA DE INSTALAÇÃO DE ÁGUA NA RESIDÊNCIA DOS AUTORES. REQUERIDA QUE ALEGA DÉBITO PRETÉRITO DE UM DOS REQUERENTES. AUSÊNCIA DE PROVAS DE SOLICITAÇÃO DOS SERVIÇOS NO PASSADO, TAMPOUCO DE INADIMPLEMENTO POR PARTE DO CONSUMIDOR. ATO ILÍCITO CONFIGURADO. 1.2. PREQUESTIONAMENTO. DESNECESSIDADE DE MANIFESTAÇÃO EXPRESSA SOBRE TODOS OS DISPOSITIVOS LEGAIS INVOCADOS PELAS PARTES. 2. RECURSO ADESIVO DOS AUTORES. 2.1. DANOS MORAIS. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA COM O RECLAMO PRINCIPAL. TESE JURÍDICA FIXADA EM INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. IMPERIOSA ANÁLISE DA QUESTÃO. 2.2. FALTA DE ÁGUA. ABALO ANÍMICO CONFIGURADO. SERVIÇO PÚBLICO CONSIDERADO ESSENCIAL PARA A SATISFAÇÃO DAS NECESSIDADES BÁSICAS. 3. RECURSOS CONHECIDOS, DESPROVIDO O DA RÉ E PROVIDO O DOS AUTORES" (fl. 158 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 195/201 e-STJ).
+No recurso especial, foi alegada violação dos artigos 186, 944 e 945 do Código Civil sob o argumento de que, no caso de culpa recíproca, o montante indenizatório há de ser reduzido.
+A recorrente apontou, ainda, precedente desta Corte que, em caso de suspensão indevida no fornecimento de água, reduziu-se a indenização por danos morais para o montante de R$ 5.000,00 (cinco mil reais).
+Após a apresentação das contrarrazões (fls. 226/231 e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+Distribuídos os autos originariamente para o Ministro Francisco Falcão, à fl. 264 (e-STJ) foi determinada a redistribuição a uma das Turmas que compõem a Segunda Seção, vindo-me então conclusos.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+ Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Aplica-se o óbice da Súmula nº 284/STF, por deficiência na fundamentação, ao recurso que se embasa em premissa fática não constatada no caso concreto.
+No caso, a recorrente alega que a indenização merece ser reduzida, aduzindo tratar-se de culpa recíproca, mas o Tribunal de origem, mediante a análise do contexto fático-probatório, descartou totalmente qualquer culpa da parte autora.
+Esclareça-se, ainda, que Superior Tribunal de Justiça somente mitiga a incidência da Súmula nº 7/STJ e intercede no montante indenizatório, promovendo sua revisão, quando este se apresenta, de forma patente, fixado em patamar irrisório ou exorbitante, não sendo nenhuma destas a hipótese dos autos.
+Importante frisar, por oportuno, que "tratando-se de danos morais, é incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos são distintos" (AgRg no AREsp 675.092/SP, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 1º/9/2015, DJe 4/9/2015).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 500,00 (quinhentos reais), os quais devem ser majorados para o patamar de R$ 1.000,00 (mil reais) em favor do advogado da parte recorrida, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se. Intimem-se.
