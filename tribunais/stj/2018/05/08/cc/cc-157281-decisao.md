@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO FEDERAL DA VARA DE LINHARES - SJ/ES, suscitante, e o JUÍZO DE DIREITO DA 3A VARA CRIMINAL DE LINHARES - ES, suscitado.
+Extrai-se dos autos que os interessados [NOME] e [NOME] foram denunciados pela prática dos crimes previstos no art. 29, §4º, III, da Lei 9.605/98 e art. 12 da Lei 10.826/03.
+O Juízo suscitante sustenta que o suposto delito não foi praticado no interior da reserva administrada pelo ICMBio, inexistindo, portanto, interesse da União a justificar a tramitação da ação penal perante o Juízo Federal (fl. 26).
+O suscitado, acolhendo a manifestação do Ministério Público, entendeu que embora os fatos tenham ocorrido em propriedade particular, as ações se deram em zona de amortecimento da Reserva de Sooretama e, por esse motivo remeteu os autos à Vara Federal de Linhares (fl. 29).
+Os autos, então, vieram a esta instância, tendo o Ministério Público Federal ofertado parecer pela competência do JUÍZO DE DIREITO DA 3A VARA CRIMINAL DE LINHARES - ES, suscitado.
+É o relatório.
+DECIDO.
+O presente incidente foi instaurado nos autos de ação penal que imputa aos interessados a prática de crime contra a fauna e posse de arma de fogo de uso permitido.
+Segundo consta da denúncia, os acusados foram flagrados efetuando a limpeza de 4 pacas abatidas em propriedade particular situada no entorno de Reserva Natural administrada pela Vale S/A, além de terem sido apreendidas armas e apetrechos de caça na residência de um dos denunciados (fl. 6).
+O art. 2º, XVIII, da Lei n. 9.985/00, define zona de amortecimento como o entorno de uma unidade de conservação, onde as atividades humanas estão sujeitas a normas e restrições específicas, com o propósito de minimizar os impactos negativos sobre a unidade.
+A definição da competência da Justiça Federal para processar e julgar crime contra a fauna exige que a conduta tenha sido praticada em detrimento de bens e interesses da União, nos moldes do art. 109, IV, da CF/88, o que se verifica na espécie, uma vez que a propriedade particular localiza-se dentro da zona de amortecimento que circunda a Reserva Natural de Sooretama, unidade de conservação criada pela União, sendo, portanto, também área de interesse federal.
+Veja-se, à propósito, julgado da Terceira Seção em caso semelhante:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL X JUSTIÇA ESTADUAL. INQUÉRITO POLICIAL. PORTE ILEGAL DE ARMA DE FOGO (ART. 14 DA LEI 10.826/2003) E ENTRADA EM UNIDADES DE CONSERVAÇÃO CONDUZINDO INSTRUMENTOS PRÓPRIOS PARA CAÇA, SEM A DEVIDA AUTORIZAÇÃO DA AUTORIDADE COMPETENTE (ART. 52 DA LEI 9.605/98). RESERVA NATURAL MANTIDA PELA EMPRESA VALE S/A: ZONA DE AMORTECIMENTO DE UNIDADE DE CONSERVAÇÃO FEDERAL (RESERVA BIOLÓGICA DE SOORETAMA). INTERESSE DIRETO DA UNIÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A preservação do meio ambiente é matéria de competência comum da União, dos Estados, do Distrito Federal e dos Municípios, nos termos do art. 23, incisos VI e VII, da Constituição Federal.
+2. Com o cancelamento do enunciado n. 91 da Súmula STJ, após a edição da Lei n. 9.605/98, esta Corte tem entendido que a competência federal para julgamento de crimes contra a fauna demanda demonstração de que a ofensa atingiu interesse direto e específico da União, de suas entidades autárquicas ou de empresas públicas federais. Precedentes.
+3. O art. 2º, XVIII, da Lei n. 9.985/00 define zona de amortecimento como "o entorno de uma unidade de conservação, onde as atividades humanas estão sujeitas a normas e restrições específicas, com o propósito de minimizar os impactos negativos sobre a unidade".
+4. Situação em que quatro investigados foram flagrados, às 2h da madrugada de 26/07/2017, no interior da Reserva Natural mantida pela empresa Vale S/A, localizada em zona de amortecimento de Unidade de Conservação Federal (a Reserva Biológica de Sooretama), cada um portando uma espingarda, munição, uma faca e um facão, além de outros artefatos destinados à prática da caça, tendo alguns admitido, diante da autoridade policial, que sua intenção era caçar pacas para consumo próprio.
+5. A despeito de constituir área privada, a Reserva Natural mantida pela empresa VALE S/A, localiza-se dentro da zona de amortecimento que circunda a Reserva Biológica de Sooretama, unidade de conservação criada pela União, sendo, portanto, também área de interesse federal.
+6. Definida a competência da Justiça Federal para a condução do inquérito em relação ao delito ambiental, por força do disposto na Súmula 122/STJ, será ela competente também para a investigação do delito conexo, de porte ilegal de arma de fogo.
+7. Conflito conhecido, para declarar a competência do Juízo Federal da Vara de Linhares - SJ/ES, o suscitante, para conduzir o inquérito policial.
+(CC 154.889/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 22/11/2017, DJe 29/11/2017)
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO FEDERAL DA VARA DE LINHARES - SJ/ES, ora susciante.
+Publique-se.
+Intimem-se.
