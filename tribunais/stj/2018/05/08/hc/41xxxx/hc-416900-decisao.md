@@ -1,0 +1,27 @@
+DECISÃO
+RICARDO ALEXANDRE FERREIRA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 7012924-11.2015.8.26.0482.
+Consta dos autos que o Juízo de primeiro grau indeferiu o livramento condicional requerido pelo paciente. A Defensoria Pública sustenta não haver elementos idôneos a demonstrar o não atendimento do requisito subjetivo.
+Requer a concessão do benefício ao paciente.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+O Juiz das Execuções assim justificou o não preenchimento do requisito subjetivo (fl. 33):
+Infere-se dos autos que o sentenciado embora preencha o requisito objetivo, visto que cumpriu 2/3 da pena imposta no regime fechado, não demonstra méritos subjetivos para retornar à sociedade.
+Anoto, por oportuno, que o sentenciado possui considerável pena por cumprir (08.09.2019) e histórico prisional desfavorável à imediata liberdade, eis que praticou falta disciplinar de natureza grave em 13.07.2011, evidenciando a ausência de senso de responsabilidade e inadequação à terapêutica penal aplicada.
+Sendo que diante da situação específica do sentenciado, apesar do atestado de bom comportamento carcerário, não se pode dizer somente com base nele que está preenchido o requisito subjetivo, pois a falta disciplinar anotada em seu prontuário demonstra com fato concreto que o sentenciado ainda não desenvolveu meios próprios de autocensura.
+Por derradeiro, não cabe - por ora - o livramento, pois recomendável o postulante vivenciar primeiramente o regime intermediário, como prova de que irá absorver a terapia penal para, posteriormente, fazer jus à condicional.
+A Corte estadual, por sua vez, ressaltou: " ..  recomenda-se maior cautela no que toca ao requisito subjetivo, sendo prematuro já deferir-lhe o livramento condicional, notadamente levando-se em conta não se tratar de reeducando que cumpre suas penas sem nenhuma intercorrência, já que ele praticou falta grave consistente em danos ao patrimônio, o que leva a crer que não absorveu a terapêutica prisional" (fl. 67).
+Estabelece o 112, § 2º, da LEP que, para a concessão do livramento condicional, deve o apenado satisfazer requisitos objetivo e subjetivo, este último relacionado ao comportamento satisfatório durante a execução da pena.
+Para indeferir o benefício por inadimplemento do requisito subjetivo, o julgador deve mencionar elementos desabonadores recentes, relacionados ao histórico carcerário do apenado. Por isso, a gravidade abstrata dos crimes objeto da execução penal, a longa pena a cumprir e a existência de falta grave longínqua, reabilitada há muitos anos, não constituem fundamento idôneo para indeferir o livramento condicional.
+Em casos pontuais, aludidas circunstâncias podem até ser sopesadas conjuntamente, mas sempre com a necessária indicação de sinais recentes de periculosidade do sentenciado, o que não ocorreu in casu.
+Mutatis mutandis:
+ ..
+II - Para a concessão do benefício do livramento condicional, nos termos do art. 83 do Código Penal, deve o reeducando preencher, além do requisito de natureza objetiva, os de natureza subjetiva (comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover ao próprio sustento de maneira lícita), podendo as instâncias ordinárias, excepcionalmente, diante das peculiaridades do caso concreto, determinar a realização de exame criminológico para aferir o mérito do apenado, desde que essa decisão seja adequadamente motivada. (Súmula n. 439/STJ; Súmula vinculante n. 26/STF; v.g.).
+III - Na hipótese, o juiz da execução e a eg. Corte estadual afastaram a configuração do requisito subjetivo, fazendo remissão a fatos concretos ocorridos no curso do desconto da reprimenda pelo paciente, notadamente, às anotações, constantes de seu histórico carcerário, da prática de faltas disciplinares graves e de natureza média.
+IV - In casu, contudo, a última falta grave foi praticada em junho de 2012, ou seja, há quase 5 (cinco) anos atrás, não podendo os seus efeitos se perpetuarem ao longo de toda a execução penal, sob pena de ofensa aos princípios da razoabilidade e da ressocialização da pena. Ademais, o paciente ostenta bom comportamento carcerário.
+Precedentes.
+V - O histórico de falta disciplinar, por si só, não pode ser levado em consideração isoladamente para impedir a liberdade condicional.
+Habeas corpus não conhecido. Ordem concedida de ofício para cassar o v. acórdão impugnado e determinar que o juízo da execução penal analise o pedido de livramento condicional, sem utilizar as faltas graves como impedimento subjetivo para seu pleito.
+(HC n. 386.558/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 8/5/2017).
+A falta grave praticada em 13/7/2011, - há quase 7 anos atrás - não pode ser utilizada para indeferir o livramento condicional, sob pena de perpetuação de seus efeitos durante toda a execução, o que vai de encontro ao objetivo de ressocialização do preso à luz da Lei de Execução Penal.
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, concedo o habeas corpus, in limine, para que o Juiz de primeiro grau reexamine o pedido de livramento condicional com lastro em elementos recentes do histórico carcerário do paciente, afastada a fundamentação anterior (longa pena a cumprir e falta grave longínqua, cometida no ano de 2011).
+Publique-se e intimem-se.
