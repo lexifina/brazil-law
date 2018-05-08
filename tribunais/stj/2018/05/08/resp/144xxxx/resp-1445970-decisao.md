@@ -1,0 +1,42 @@
+DECISÃO
+PREVIDENCIÁRIO. RECURSO ESPECIAL. CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIOS ENVOLVEM RELAÇÕES DE TRATO SUCESSIVO E ATENDEM NECESSIDADES DE CARÁTER ALIMENTAR, RAZÃO PELA QUAL A PRETENSÃO À OBTENÇÃO DE UM BENEFÍCIO É IMPRESCRITÍVEL. RECURSO ESPECIAL DO PARTICULAR PROVIDO.
+1. Trata-se de Recurso Especial interposto por LEONÍDIO DE SOUZA PINTO com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão do Tribunal Regional Federal da 3a. Região que julgou improcedente o pedido de concessão de benefício previdenciário.
+2. Alega a recorrente, em síntese, que as prestações previdenciária não são alcançadas pela prescrição de fundo de direito, devendo-se reconhecer o pagamento, aplicando a prescrição quinquenal.
+3. É o relatório. Decido.
+4. A questão central dos autos não é a revisão de benefício já concedido, e, sim, a concessão de benefício de pensão por morte.
+5. Cumpre registrar que as normas previdenciárias primam pela proteção do Segurado e seus dependentes, motivo pelo qual os pleitos previdenciários devem ser julgados no sentido de amparar a parte hipossuficiente e que, por esse motivo, possui proteção legal que lhe garante a flexibilização dos rígidos institutos processuais.
+6. Com efeito, os benefícios previdenciários envolvem relações de trato sucessivo e atendem necessidades de caráter alimentar, razão pela qual não se admite a tese de prescrição do fundo de direito. As prestações previdenciárias tem características de direitos indisponíveis, daí porque o benefício previdenciário em si não prescreve, somente as prestações não reclamadas no lapso de cinco anos é que prescreverão, uma a uma, em razão da inércia do beneficiário.
+7. Nesse mesmo sentido, aliás, é a lição do ilustre [NOME]:
+A situação jurídica fundamental em direito previdenciário é, evidentemente, o direito ao benefício previdenciário integralmente considerado. De sua parte, o direito a perceber as diferenças devidas que decorem de uma situação jurídica fundamental (direito ao benefício) "renasce cada vez" em que o direito é devido, conforme a periodicidade de seu pagamento, e, "por isso se restringe às prestações vencidas há mais de cinco anos".
+Nas obrigações previdenciárias, por se traduzirem em obrigações de trato sucessivo, o direito aos valores devidos se renova de tempo em tempo, pois o prazo prescricional renasce a cada vez que se torna exigível a prestação seguinte (Direito Processual Previdenciário. Curitiba: Juruá, 2012, p. 310).
+8. No mesmo sentido, os seguintes julgados:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. BENEFÍCIO DE AMPARO ASSISTENCIAL À PESSOA PORTADORA DE DEFICIÊNCIA. DECADÊNCIA E PRESCRIÇÃO. INDEFERIMENTO DE BENEFÍCIO. NEGATIVA EXPRESSA DO INSS. INTERPRETAÇÃO DO ART. 103 DA LEI 8.213/1991.
+1. A interpretação contextual do caput e do parágrafo único do art. 103 da Lei 8.213/1991 conduz à conclusão de que o prazo que fulmina o direito de revisão do ato de concessão ou indeferimento de benefício previdenciário é o decadencial de dez anos (caput), e não o lapso prescricional quinquenal (parágrafo único) que incide apenas sobre as parcelas sucessivas anteriores ao ajuizamento da ação.
+2. Não fosse assim, a aplicação do entendimento de que a prescrição quinquenal prevista no parágrafo único do art. 103 da Lei 8.213/1991 pode atingir o fundo de direito tornaria inócuo o instituto da decadência previsto no caput do mesmo artigo, que prevê prazo de dez anos para o exercício do direito de revisão de ato de indeferimento ou de concessão de benefício previdenciário.
+3. Na hipótese dos autos, conforme se extrai do acórdão recorrido, houve negativa do benefício em 10.6.2008 e a ação foi proposta em 6.6.2016, não havendo falar em decadência, tampouco prescrição, do direito de rever o ato que indeferiu o benefício de amparo assistencial à pessoa portadora de deficiência.
+4. Recurso Especial provido (REsp. 1.697.578/PB, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2017).
+
+PREVIDENCIÁRIO. CONCESSÃO DE PENSÃO POR MORTE. BENEFÍCIO DE RENDA MENSAL VITALÍCIA CONCEDIDO ERRONEAMENTE PELA ADMINISTRAÇÃO ANTES DA MEDIDA PROVISÓRIA. TRIBUNAL CONSIDEROU CORRETA A CONCESSÃO DE APOSENTADORIA POR INVALIDEZ. DECADÊNCIA NÃO CONFIGURADA.
+1. Caracterizado o benefício previdenciário como de caráter eminentemente alimentar, constituindo obrigação periódica e de trato sucessivo, não admite a pretendida prescrição do fundo do direito, mas tão somente das parcelas vencidas há mais de cinco anos, consoante já fixado pela Súmula 85/STJ.
+2. O caput do art. 103 da Lei 8.213/1991 está voltado tão somente para o ato revisional de concessão do benefício. Não há que falar em prescrição do fundo de direito quando se trata de concessão de benefício previdenciário, inserido no rol dos direitos fundamentais.
+3. O Tribunal de origem, mediante análise das provas dos autos, acolheu a argumentação da autora de que seu falecido cônjuge fazia jus à aposentadoria por invalidez, e não à Renda Mensal Vitalícia.
+Agravo regimental improvido (AgRg no REsp. 1.502.460 PR, Rel. Min. HUMBERTO MARTINS, DJe 11.3.2015).
+
+PREVIDENCIÁRIO. CONCESSÃO DE BENEFÍCIO. APOSENTADORIA RURAL. PRESCRIÇÃO DO FUNDO DO DIREITO. NÃO OCORRÊNCIA. ART. 103 DA LEI N. 8.213/91.
+1. Na hipótese de concessão de benefício previdenciário, é sabido que a prescrição não atinge o direito ao benefício, mas somente as prestações não pagas, conforme se infere da leitura das redações, a antiga e a atual, do art. 103 da Lei n. 8.213/91.
+2. "Em matéria de previdência social, a prescrição só alcança as prestações, não o direito, que pode ser perseguido a qualquer tempo." (REsp 1.319.280/SE, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 6/8/2013, DJe 15/8/2013.)
+Agravo regimental improvido (AgRg no REsp. 1.384.787/CE, Rel. Min. HUMBERTO MARTINS, DJe 10.12.2013).
+
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENSIONISTA DE EX-FERROVIÁRIO, ADMITIDO ATÉ 31/10/1969. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. DIREITO À COMPLEMENTAÇÃO DE PENSÃO. LEI 8.186/91. RECONHECIMENTO. ENTENDIMENTO CONSOLIDADO NO RESP 1.211.676/RN, JULGADO SOB O RITO DOS RECURSOS REPETITIVOS. AGRAVO REGIMENTAL IMPROVIDO.
+I. Nas ações ajuizadas com o objetivo de obter revisão de benefício previdenciário, relação de trato sucessivo e de natureza alimentar, a prescrição incide apenas sobre as prestações vencidas antes do quinquênio anterior à propositura da ação, não ocorrendo a chamada prescrição do fundo de direito, nos termos da Súmula 85/STJ. Precedentes do STJ.
+II. A Primeira Seção do STJ, no julgamento do REsp 1.211.676/RN (Rel. Ministro ARNALDO ESTEVES LIMA, DJe de 17/08/2012), submetido ao rito do art. 543-C do CPC, firmou entendimento no sentido de que o art. 5º da Lei 8.186/91 estendeu aos pensionistas dos ex-ferroviários da Rede Ferroviária Federal - RFFSA, admitidos até 31/10/1969, o direito à complementação da pensão, nos termos do parágrafo único do art. 2º do citado diploma legal, que, de sua parte, garante a permanente igualdade de valores entre ativos e inativos.
+III. Agravo Regimental improvido (AgRg no REsp. 1.096.216/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 2.12.2013).
+
+ADMINISTRATIVO E PREVIDENCIÁRIO. CUMULAÇÃO DE PENSÃO ESPECIAL DE EX-COMBATENTE COM BENEFÍCIO PREVIDENCIÁRIO.
+ A prescrição nas relações de trato sucessivo não alcança o fundo de direito (STJ - Súmula nº 85).
+ A viúva não precisa renunciar ao benefício previdenciário para se habilitar à pensão de ex-combatente.
+Agravo regimental desprovido (AgRg no AREsp. 50.048/PE, Rel. Min. ARI PARGENDLER, DJe 12.3.2013).
+9. Vale lembrar que o Supremo Tribunal Federal, quando do julgamento do RE 626.489/SE, com repercussão geral reconhecida, firmou entendimento no sentido de que o direito fundamental ao benefício previdenciário pode ser exercido a qualquer tempo, sem que se atribua qualquer consequência negativa à inércia do beneficiário.
+10. Ante o exposto, dá-se provimento ao Recurso Especial para afastar a prescrição de fundo de direito, determinando-se o retorno dos autos à origem para que prossiga no julgamento do feito.
+11. Publique-se.
+12. Intimações necessárias.
