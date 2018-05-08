@@ -1,0 +1,15 @@
+DECISÃO
+Vistos, etc.
+Trata-se de AGRAVO EM RECURSO ESPECIAL interposto contra decisão que inadmitiu recurso especial.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verifica-se que o recurso especial não foi instruído com as guias de custas e de porte de remessa e retorno dos autos e os respectivos comprovantes de pagamento, em razão da greve bancária. Após, foi recolhido o preparo.
+Ressalte-se que "a greve dos bancários constitui justo impedimento ao recolhimento do preparo, desde que efetivamente impeça a parte de assim proceder, circunstância que deve ser manifestada e comprovada no ato da interposição do respectivo recurso, com o posterior pagamento das custas e a juntada da respectiva guia aos autos, no dia subsequente ao término do movimento grevista (ou no prazo eventualmente fixado pelo respectivo Tribunal via portaria), sob pena de preclusão" (AgRg nos EREsp 1.002.237/SP, 2.ª Seção, Rel. Min. Nancy Andrighi, DJe de 20/11/2012).
+No caso dos autos, porém, apesar de a parte ter juntado os comprovantes posteriormente, não há como se verificar a tempestividade do referido recolhimento, uma vez que não foi carreado aos autos documento comprovando o término do movimento paredista, tampouco portaria do tribunal de origem regulamentando o recolhimento, razão pela qual, não se pode considerar o recolhimento efetuado, em razão da preclusão.
+Assim, incide na espécie o disposto na Súmula n.º 187 deste Tribunal, o que leva à deserção do recurso.
+Ademais, percebeu-se, nessa Corte, a irregularidade no recolhimento do preparo, razão pela qual houve a intimação da parte Recorrente para que o referido vício fosse sanado. Apesar disso, mesmo tendo sido regularmente intimada para efetuar o saneamento, a parte não regularizou.
+Ressalte-se que os documentos juntados na petição de fls. 557/639 não tem o condão de comprovar o efetivo término da greve bancária, tendo em vista que não se trata de documento idôneo, que não tem fé pública.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do recurso.
+Publique-se. Intimem-se.
