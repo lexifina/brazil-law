@@ -1,0 +1,19 @@
+DECISÃO: A parte ora recorrente interpôs recurso de agravo de instrumento (CPC, art. 1.019) contra acórdão que, proferido pelo E. Superior Tribunal de Justiça, está assim ementado:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+    1. Os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e ou corrigir erro material.
+    2. Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada e decidida a controvérsia de acordo com tese distinta.
+    3. A interposição do recurso ordinário, na hipótese dos autos, configura erro grosseiro, razão pela qual é impossível a incidência do princípio da fungibilidade recursal.
+    Embargos de declaração rejeitados.”
+    O agravo de instrumento em questão, dirigido a esta Suprema Corte, busca dar trânsito a recurso ordinário deduzido contra julgamento emanado do E. Superior Tribunal de Justiça que negou provimento a agravo em recurso especial.
+    Passo a apreciar a postulação recursal em questão. E, ao fazê-lo, devo considerar a existência, na espécie, de questão preliminar insuperável que torna incognoscível o pleito em causa.
+    Com efeito, a inadequação da via recursal escolhida torna insuscetível de conhecimento o “agravo de instrumento” em referência, pois revela a utilização de espécie recursal evidentemente inadmissível.
+    Nem se invoque, para justificar a pretendida cognoscibilidade do recurso em questão, o princípio da fungibilidade recursal (RTJ 105/792 – RTJ 105/1275 – RTJ 120/458), eis que a hipótese destes autos evidencia a ocorrência de erro grosseiro por parte da ora recorrente (RTJ 132/1374).
+    Como se sabe, os Tribunais sempre recusaram aplicabilidade ao postulado da fungibilidade recursal nos casos em que a errônea interposição de um recurso por outro revelasse desconhecimento inescusável, por parte do recorrente, da existência de norma legal expressa, indicativa da espécie recursal cabível e adequada (RF 148/176 – RF 148/179 – RF 163/215 – RT 489/105 – Revista de Processo, vols. 1/196 – 1/210 – 4/393).
+    É certo que o magistério da doutrina, ao admitir o recurso indiferente, consagra a fungibilidade recursal como uma das mais expressivas projeções do princípio da instrumentalidade das formas no âmbito da teoria do processo, desde, porém, que não se registre a hipótese de má-fé ou de erro grosseiro (MILTON SANSEVERINO, “Fungibilidade dos Recursos”, “in” Revista de Processo, vol. 25/181; JOSÉ FREDERICO MARQUES, “Manual de Direito Processual Civil”, vol. III/128, item n. 606, 1975, Saraiva; JOSÉ CARLOS BARBOSA MOREIRA, “Comentários ao Código de Processo Civil”, vol. V/247-249, item n. 141, 7ª ed., 1998, Forense; MOACYR AMARAL SANTOS, “Primeiras Linhas de Direito Processual Civil”, vol. 3/82, 1979, Saraiva; SÉRGIO BERMUDES, “Comentários ao Código de Processo Civil”, vol. VII/44, item n. 26-A, 2ª ed., 1977, RT, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do agravo de instrumento, por manifestamente inadmissível (CPC, art. 932, III).
+    2. Considerada a prática, por parte da ora agravante, de erro grosseiro, o que, como se sabe, não se reveste de eficácia interruptiva ou suspensiva dos prazos recursais (RTJ 123/470 – RT 477/122 – RT 481/102 – RT 595/201), publicada a presente decisão, devolva-se, imediatamente, os presentes autos ao E. Superior Tribunal de Justiça, eis que os atos decisórios dele emanados já transitaram em julgado.
+    Publique-se.
+    Brasília, 08 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
+    (
