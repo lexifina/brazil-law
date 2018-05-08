@@ -1,0 +1,15 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. AUSÊNCIA DE OBSCURIDADE OU CONTRARIEDADE. MERO INCONFORMISMO DA PARTE. NÃO CABIMENTO DOS DECLARATÓRIOS. EMBARGOS DE DECLARAÇÃO OPOSTOS PELA CONTRIBUINTE REJEITADOS.
+1. Trata-se de Embargos de Declaração opostos pela AFRIB-ABATEDOURO E FRIGORIFICO BIONDO LTDA., em adversidade à decisão concedeu parcial provimento ao Recurso Especial, nos termos da seguinte ementa:
+RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSUAL CIVIL. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE AS PARCELAS RECEBIDAS A TÍTULO DE 13o. (DÉCIMO TERCEIRO) SALÁRIO, AUXÍLIO-MATERNIDADE, HORAS-EXTRAS, ADICIONAIS DE INSALUBRIDADE, NOTURNO E PERICULOSIDADE, REPOUSO SEMANAL. AUXÍLIO-ALIMENTAÇÃO PAGO EM ESPÉCIE. ACÓRDÃO PARADIGIMAS: RESP. 1.358.281/SP, REL. MIN. HERMAN BENJAMIN, DJE 5.12.201 E RESP. 1.230.957/RS, REL. MIN. MAURO CAMPBELL MARQUES, DJE 18.3.2014, SUBMETIDOS AO RITO DO ART. 543-C DO CPC. NÃO INCIDÊNCIA SOBRE O ABONO ASSIDUIDADE CONVERTIDO EM PECÚNIA. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+2. Nas razões recursais, a parte embargante sustenta omissão no julgado, aduzindo que a v. decisão não julgou a ofensa à legislação oriunda da tributação das verbas, quais sejam férias usufruídas, trabalho em feriados, domingos e intervalos intrajornadas, abono permanência e supressão de intervalo para descanso e alimentação.
+3. Às fls. 1.910, certificou-se o decurso de prazo para impugnação pela FAZENDA NACIONAL.
+4. É o relatório.
+5. A despeito das alegações da parte embargante, razão não lhe assiste.
+6. Os Embargos de Declaração não merecem acolhimento, pois a decisão embargada não padece de quaisquer dos vícios elencados no art. 1.022 do CPC/2015, porquanto decidiu toda a questão posta em debate, com a devida fundamentação, coerência e clareza, nos limites necessários ao deslinde do feito.
+7. Cumpre esclarecer que o art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; destinam-se a suprir omissão, esclarecer obscuridade ou eliminar contradição existente no julgado ou corrigir erro material.
+8. No caso em apreço, não se constata a presença de qualquer eiva a macular o acórdão embargado que, de forma clara e expressa, decidiu todas as questões postas em debate.
+9. Ressalte-se que os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+10. Assim, não havendo a presença de quaisquer dos vícios elencados no art. 1.022 do CPC/2015; a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, e não podem ser ampliados.
+11. Com base nessas considerações, rejeitam-se os Embargos de Declaração da Contribuinte.
+12. Publique-se. Intimações necessárias.
