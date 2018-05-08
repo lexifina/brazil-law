@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de WANDERSON DE ABREU CARDOSO, no qual se aponta como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios.
+Consta dos autos que o paciente foi condenado à pena de 12 anos de reclusão, em regime prisional fechado, pela prática do delito previsto no art. 121, § 2º, II, do Código Penal (e-STJ, fls. 18-19).
+Da sentença, ambas as partes apelaram ao Colegiado de origem, que desproveu o apelo defensivo e deu provimento àquele interposto pelo Parquet, tendo exasperado a pena para 14 anos e 3 meses de reclusão, nos moldes da seguinte ementa:
+"APELAÇÃO CRIMINAL. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO CONSUMADO. DECISÃO DOS JURADOS MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. INOCORRÊNCIA. PENA-BASE. MAJORAÇÃO. CIRCUNSTÂNCIAS GRAVES. RECURSO DO RÉU IMPROVIDO E PROVIDA A APELAÇÃO DO MINISTÉRIO PÚBLICO.
+1. Inexiste decisão manifestamente contrária à prova dos autos quando o Conselho de Sentença escolhe a versão apresentada pela acusação amparado no acervo probatório nos autos. A contrariedade à prova dos autos somente se evidencia quando a decisão não se apoia em lastro probatório mínimo, decorrendo de mera construção mental ou flagrante arbitrariedade dos jurados, o que não ocorreu no caso vertente.
+2. No caso, os jurados escolheram não acolher a tese de homicídio privilegiado, por entender que o réu teve tempo mais que suficiente para desistir da prática do crime.
+3. A majoração da pena-base se justifica quando comprovada a gravidade das circunstâncias do crime praticado entre familiares e contra pessoa de seu conhecimento há vários anos.
+4. Recursos conhecidos. Improvido o recurso do e provido o apelo do Ministério Público" (e-STJ, fls. 20-21).
+Neste writ, a Defensoria Pública sustenta, em síntese, que: a) "ao majorar a pena-base em 2 (dois) anos e 3 (três) meses ou em 27 meses, a instância revisora utilizou-se de vetor impróprio, qual seja o comportamento da vitima, apesar de reconhecer que a mesma colaborou para o desfecho do evento"; b) "o comportamento da vítima é circunstância judicial ligada à vitimologia, que deve ser necessariamente neutra ou favorável ao réu, sendo inviável sua utilização de forma desfavorável ao réu" (e-STJ, fls. 1-14).
+Pugna, ao final, pela concessão da ordem para que seja afastada a valoração negativa do vetor "comportamento da vítima" na primeira fase do procedimento dosimétrico.
+A Subprocuradoria-Geral da República manifestou-se pela concessão da ordem (e-STJ, fls. 41-45).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Para permitir a análise dos critérios utilizados na dosimetria da pena, faz-se necessário expor excertos do acórdão ora impugnado:
+" ..  Na primeira fase da individualização da pena, o d. Juiz presidente considerou todas as circunstâncias judiciais favoráveis ao acusado, fixando a pena-base corretamente no mínimo legal, qual seja, 12 (dozes) anos de reclusão.
+Contudo, esta não atende a proporcionalidade que se espera. As circunstâncias e culpabilidade são graves. O réu conhecia a vítima há mais de 20 anos e fazia parte de seu convívio familiar. Em seu próprio depoimento, esclareceu que já teria saído com a vítima para pescar e beber. Portanto, sua culpabilidade não pode ser tida dentro da normalidade, pois na normalidade não se mata um conhecido de mais de 20 anos por conta de uma brincadeira, ainda que esta seja de mal gosto.
+Ademais, é circunstância do crime o fato deste ter sido premeditado pois entre a suposta brincadeira e a consumação passaram-se mais de uma hora oportunidade em que o réu saiu para buscar uma faca e retornou para dar cabo sua pretensão homicida. Ou seja, teve tempo suficiente para pensar melhor e mesmo assim, resolveu matar a vítima, demonstrando seu intenso dolo.
+Ainda, não há como desconsiderar que o crime foi praticado em uma festa de família com alguns vizinhos, o que obviamente traz surpresa, já que todos imaginam que estando presentes familiares e vizinhos, ninguém se proporá a cometer crime tão grave.
+De outro lado, a vítima contribuiu para a prática do crime ao insistir em brincadeira vexatória que, de certo modo, ofendia a honra do réu.
+Desta forma, considerando de as circunstâncias do crime, a culpabilidade e o comportamento da vítima, majoro a pena-base para o importe de 14 (quatorze) anos e 3 (três) meses de reclusão, a qual se torna definitiva, diante da ausência de agravantes e atenuantes, bem como de causas de aumento e diminuição da pena" (e-STJ, fls. 29-30).
+Como cediço, a individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+O comportamento da vítima é circunstância judicial ligada à vitimologia, que deve ser necessariamente neutra ou favorável ao réu, sendo descabida sua utilização para incrementar a pena-base. Com efeito, se não restar evidente a interferência da vítima no desdobramento causal, como ocorreu na hipótese em análise, tal circunstância deve ser considerada neutra.
+Confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. PENA-BASE. COMPORTAMENTO DA VÍTIMA. VALORAÇÃO NEGATIVA. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. De acordo com o entendimento desta Corte Superior, o comportamento da vítima é circunstância judicial que nunca será avaliada desfavoravelmente: ou será positiva, quando a vítima contribui para a prática do delito, ou será neutra, quando não há contribuição. Precedentes.
+2. Agravo regimental não provido"
+(AgInt no REsp 1710287/AL, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 6/2/2018, DJe 15/2/2018, grifou-se).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA. COMPORTAMENTO NEUTRO DA VÍTIMA. EXASPERAÇÃO DA PENA-BASE. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. Conforme a jurisprudência pacificada nesta Corte, o comportamento da vítima, que em nada concorreu para a prática delitiva, não poderá ser sopesado para fins de exasperação da pena-base, tratando-se de circunstância neutra ou favorável. Portanto, na hipótese em que não houver interferência da vítima no desdobramento causal, como ocorrido na hipótese em análise, essa circunstância judicial deve ser considerada neutra.
+2. Agravo regimental a que se nega provimento"
+(AgInt no AREsp 443.079/AL, da minha relatoria, QUINTA TURMA, julgado em 12/12/2017, DJe 19/12/2017, grifou-se).
+Ante o exposto, não conheço do writ, mas concedo habeas corpus, de ofício, a fim de que determinar que o Juízo das Execuções proceda à nova dosimetria da reprimenda, decotando o incremento da pena-base pelo vetor "comportamento da vítima".
+Publique-se. Intimem-se.
