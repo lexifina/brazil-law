@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO CONTRATUAL. COMPARTILHAMENTO DE POSTES POR EMPRESA DE TV A CABO. ONEROSIDADE EXCESSIVA. AUSÊNCIA DE DEMONSTRAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. A verificação da configuração da onerosidade excessiva do contrato enseja sua análise e das circunstâncias fáticas inerentes, o que atrai o óbice da Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O SENHOR MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO):
+Cuida-se de agravo interno interposto por Claro S/A, inconformada com a decisão que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões, a agravante aponta erro material do julgado ao conhecer do agravo para negar provimento ao recurso especial, pois o que está em julgamento é o próprio recurso especial.
+Discorre, ainda, sobre a violação ao art. 73 da Lei 9.472/97 e a inaplicabilidade da Súmula 7 do STJ.
+Indica, também, fato superveniente consistente na aplicação da Lei 13.116/2015.
+Impugnação às fls. 1.982-1.997.
+É o relatório.
+VOTO
+O SENHOR MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - RELATOR:
+No presente agravo interno, em que pesem as alegações trazidas, o recurso especial efetivamente não merecia prosperar.
+De fato, acerca dos valores cobrados em razão do compartilhamento da infraestrutura, o acórdão recorrido, com base no acervo probatório dos autos, afirmou a razoabilidade dos valores cobrados pela utilização compartilhada dos postes. Eis o excerto:
+Desse modo, a perícia oficial apresentou subsídios relevantes que demonstram que não há no preço praticado pela requerida algum tipo de excesso ou ilegalidade, atentando-se ao fato de que não há lei que fixe o exato valor a ser cobrado no compartilhamento de postes. Ademais, em termos comparativos, o preço cobrado à autora mostra-se dentro da média, inclusive em valores menores que o de outras empresas, vale dizer, R$ 5,56 poste/mês para a Directnet Telecomunicações; R$ 5,30 poste/mês para Pegasus Telecom; e R$ 4,96 poste/mês para a Vesper (fls. 1089).
+Desse modo, a revisão desse entendimento esbarra no óbice da Súmula 7/STJ. Nesse sentido, os precedentes desta Corte:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESAPROPRIAÇÃO. ACÓRDÃO FUNDAMENTADO EM LAUDO PERICIAL PARA O CÁLCULO DO MONTANTE DA INDENIZAÇÃO. IMPOSSIBILIDADE DE REVISÃO. NECESSIDADE DE REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Sobre o laudo pericial, a revisão da conclusão a que chegou o Tribunal a quo acerca do valor do imóvel, demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ. 2. Agravo interno não provido." (AgInt no AREsp 478.432/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/11/2016, DJe de 07/12/2016)
+"PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDÃO ADMINISTRATIVA. PASSAGEM DE LINHA DE ELETRICIDADE. LAUDO PERICIAL QUE INDICA O VALOR DA JUSTA INDENIZAÇÃO. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. Hipótese em que o Tribunal a quo concluiu, com base na prova dos autos e no laudo produzido, ser devida a indenização no valor de R$ 395.518,00 (trezentos e noventa e cinco mil e quinhentos e dezoito reais) pela passagem da linha de eletricidade e torres de transmissão. Assentou a Corte de origem que: "Neste contexto, apesar das argumentações da apelante, o Perito apresentou provas de que o local da servidão encontra-se no interior do loteamento denominado Parque das Torres, impactando diretamente as quadras "A" e "D" do projeto original , fl. 277/278 e 283, atingindo 20 lotes dos 57 anteriormente existentes". Ainda: "A localidade é dotada de infra-estrutura urbana e de serviços públicos, tais como: iluminação, redes de água, esgoto, telefone, coleta de lixo, etc. As vias principais são pavimentadas. Nas proximidades, a ocupação é residencial e comercial com construções em padrão popular. Outrossim, ressalta que a área atingida pela faixa de servidão não pode ser edificada, sob qualquer forma, apontando a metodologia utilizada para o arbitramento do valor da indenização, fl. 280. O valor da indenização, pela presença de servidão, corresponde à perda do valor do imóvel decorrente das restrições a ele impostas, calculada pela diferença entre as avaliações do imóvel original e do imóvel serviente, na mesma data de referência (critério í(antes e depois), com consideração de circunstâncias especiais, tais como alterações de uso, ocupação, acessibilidade e aproveitamento" (fls. 630-631, e-STJ).
+3. A revisão desse entendimento implica reexame de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+4. Agravo Regimental não provido." (AgRg no AREsp 277.922/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/03/2013, DJe de 08/05/2013)
+Ademais, a conclusão também encontra amparo em outros precedentes do STJ que analisaram a mesma temática aqui apresentada. Eis os precedentes: AREsp 617.815/SP (Min. Antonio Carlos Ferreira, DJ de 21/03/2016); AREsp 648.695 (Min. Maria Isabel Gallotti, DJ de 31.03.2015); AREsp 624.777 (Min. Luis Felipe Salomão, DJ de 02.02.2015).
+Quanto à tese relativa à possibilidade de revisão do contrato em razão do advento da Lei 13.116/2015, além do dever de observância ao princípio tempus regit actum, a alegação não altera a fundamentação da decisão agravada acerca da necessidade de reexame do conjunto fático.
+Por oportuno, registre-se que a Corte Especial do Superior Tribunal de Justiça, ao interpretar o art. 1.021, § 3º, do CPC/2015, assentou que o dispositivo não impõe ao julgador a obrigação de reformular a decisão agravada para, em outros termos, reiterar os seus fundamentos, notadamente diante da falta de argumento novo deduzido pela parte recorrente (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, julgado em 15/06/2016, DJe de 03/08/2016).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
