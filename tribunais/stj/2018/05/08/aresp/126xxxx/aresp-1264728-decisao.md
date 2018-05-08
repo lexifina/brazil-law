@@ -1,0 +1,13 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. CARGO DE AGENTE DE POLÍCIA CIVIL DO DISTRITO FEDERAL. PROVA DE CAPACIDADE FÍSICA. [NOME]. REPROVAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo DISTRITO FEDERAL com fundamento na alínea a do art. 105, III da Constituição Federal, que objetiva a reforma do acórdão do TJDFT, assim ementado:
+CONSTITUCIONAL. ADMINISTRATIVO. REEXAME NECESSÁRIO E APELAÇÃO. AÇÃO ORDINÁRIA E AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. JULGAMENTO CONJUNTO. CONCURSO PÚBLICO. CARGO DE AGENTE DE POLÍCIA CIVIL DO DISTRITO FEDERAL. EDITAL 1 - PCDF/AGENTE, DE 1.8.2013. PROVA DE CAPACIDADE FÍSICA. [NOME]. REPROVAÇÃO. CONTROLE DA LEGALIDADE PELO PODER JUDICIÁRIO. POSSIBILIDADE. REALIZAÇÃO DE PERÍCIA JUDICIAL. EXECUÇÃO DOS MOVIMENTOS DE ACORDO COM AS REGRAS DO EDITAL. ELIMINAÇÃO DO CANDIDATO AFASTADA. PROSSEGUIMENTO NAS DEMAIS ETAPAS DO CERTAME. HONORÁRIOS DE SUCUMBÊNCIA. PATAMAR RAZOÁVEL. CUSTAS. ISENÇÃO. HONORÁRIOS RECURSAIS. DESCABIMENTO. REEXAME NECESSÁRIO E RECURSO DE APELAÇÃO DESPROVIDOS. SENTENÇA MANTIDA (fls. 229).
+2. Em seu Apelo Especial, sustenta a parte recorrente violação ao art. 9o. da Lei 4.878/1965, ao argumento de que a parte recorrida não preencheu as condições do edital e além da norma legal retrotranscrita, foi desprezado, objetivamente, o princípio da isonomia, atentando-se contra os princípios básicos do Estado de Direito, dentre eles, ao qual está sujeito o D.F., o da legalidade (fls. 261).
+3. É o relatório.
+4. Quanto ao art. 9o. da Lei 4.878/65, tem-se que não foi debatido pelo Tribunal de origem e não foram opostos Embargos de Declaração com o objetivo de sanar eventual omissão. Carece, portanto, de prequestionamento, requisito indispensável ao acesso às instâncias excepcionais. Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+5. Ademais, a apreciação de dispositivos e princípios constitucionais não é possível em sede de Recurso Especial, porquanto, nos termos do disposto no art. 102 da CF, compete ao STF (AgRg no REsp. 1.543.346/PR, Rel. Min. HUMBERTO MARTINS, Dje 30.9.2015).
+6. Tendo em vista o disposto no art. 85, § 11 do CPC/2015 e o Enunciado 241 do Fórum Permanente de Processualistas Civis, os honorários de sucumbência recursal serão somados aos honorários devidos em razão da sucumbência em primeiro grau, observados os limites legais.
+7. Assim, fixam-se os honorários recursais em R$100,00, que deverão ser acrescidos ao montante total.
+8. Diante dessas considerações, nega-se provimento ao Agravo em Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
