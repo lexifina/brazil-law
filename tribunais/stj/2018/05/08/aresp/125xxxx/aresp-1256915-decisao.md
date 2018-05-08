@@ -1,0 +1,74 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. INDEFERIMENTO DE PEDIDO DE NOVO EXAME PERICIAL. I) ATO DEVIDAMENTE MOTIVADO PELO MAGISTRADO. DISCRICIONARIEDADE REGRADA DO JULGADOR. ACÓRDÃO RECORRIDO DE ACORDO COM O ENTENDIMENTO DO STJ. SÚMULA 568/STJ. NECESSIDADE DA PROVA. II) REEXAME DE MATÉRIA FÁTICO E PROBATÓRIA. INADMISSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME], contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Paraná, ementado verbis (fls. 492/493):
+"APELAÇÃO CRIME - Homicídio culposo na condução de veículo automotor - Nulidade - Cerceamento de defesa - Indeferimento de pedido de novo exame pericial para definir a velocidade - Possibilidade, uma vez que já existia no processo um laudo oficial esclarecendo tal particularidade - Inteligência do art. 184 do CPP - Atropelamento de pedestre  Alegação de culpa exclusiva da vítima - Inocorrência - Conduta do réu que afronta o disposto no art. 29, § 2º, do CTB, e velocidade excessiva - Imprudência bem delineada no processo - Condenação mantida - Recurso desprovido".
+Foram, então, opostos embargos de declaração, os quais foram rejeitados com a seguinte ementa (fls. 558/559):
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO E CONTRADIÇÃO NÃO VERIFICADAS. PRETENSA REDISCUSSÃO DA MATÉRIA. DECISÃO DO COLEGIADO CLARA AO ANALISAR AS TESES DEFENSIVAS. AUSÊNCIA DOS REQUISITOS DISPOSTOS NOS ARTIGOS 619 E 620 DO CÓDIGO DE PROCESSO PENAL. PREQUESTIONAMENTO IMPLÍCITO. EMBARGOS REJEITADOS.
+1. Inexistindo ambiguidade, obscuridade, contradição ou omissão, a rejeição dos embargos declaratórios é medida que se impõe, nos termos do artigo 620, §2º do Código de Processo Penal.
+2. Para fins de prequestionamento, é imperioso que o tema federal ou constitucional tenha sido abordado, ainda que implicitamente pelo tribunal, tratando o julgamento em questão sobre o tema objeto da norma que nele se contenha".
+Em seu recurso especial, às fls. 571/582, sustentou o recorrente afronta ao artigo 184 do Código de Processo Penal, ante o "indeferimento de produção de prova pericial que esclareceria dúvida acerca da velocidade empreendida pelo ora recorrente no momento do acidente" (fl. 578).
+Destacou que "a constatação da velocidade desenvolvida pelo veículo é de crucial importância para o esclarecimento dos fatos haja vista que a denúncia funda-se em eventual excesso de velocidade empregado pelo veículo" (fl. 578).
+Ressaltou que "A perícia pleiteada em primeiro grau de jurisdição consiste em medida essencial para o deslinde do caso em tela. A realização da perícia é imprescindível para averiguar tecnicamente o que as testemunhas [NOME] e [NOME] e o acusado [NOME] afirmaram em juízo. o Indeferimento da produção desta prova configura claramente em cerceamento de defesa e afronta ao Art. 184 do CPP, pois não se trata de prova desnecessária para a elucidação da verdade dos fatos" (fl. 581).
+Desse modo, requereu a declaração de nulidade do processo "a partir do indeferimento de produção de prova pericial essencial para o esclarecimento dos fatos" (fl. 582).
+O Tribunal de origem, entretanto, negou seguimento ao recurso, às fls. 599/600, ante a incidência da Súmula nº 83 do Superior Tribunal de Justiça.
+Em seu agravo, às fls. 605/613, assevera o recorrente, em síntese, que "a decisão que não admitiu o Recurso Especial manifestado pelo ora Agravante deve ser reformada a fim de se conhecer a matéria jurídica impugnada pela via eleita e adequada, vez que os precedentes trazidos pela decisão não se enquadram no caso em tela" (fl. 608).
+O Ministério Público Federal manifestou-se às fls. 632/637, nos seguintes termos:
+
+"AGRAVO EM RECURSO ESPECIAL. CRIME DE HOMICÍDIO CULPOSO NA CONDUÇÃO DE VEÍCULO AUTOMOTOR. INDEFERIMENTO DE PEDIDO DE NOVO EXAME PERICIAL PARA DEFINIR A VELOCIDADE. POSSIBILIDADE. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. SÚMULA 83/STJ. ALTERAÇÃO DA CONCLUSÃO ACERCA DA IMPRESCINDIBILIDADE DA PRODUÇÃO DE DETERMINADA PROVA EXIGIRIA O REEXAME CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+- Parecer pelo conhecimento do agravo em recurso especial para não conhecer do recurso especial".
+É o relatório.
+A insurgência não merece prosperar.
+No que tange à aventada afronta ao artigo 184 do Código de Processo Penal, sob o pleito de reconhecimento da nulidade ante o indeferimento do pedido de nova prova pericial, observa-se que a Corte de origem afastou à alegada nulidade com base nos seguintes argumentos (fls. 494/497):
+"4. Segundo a lição de Mirabete, para evitar "a realização de perícias desnecessárias, impertinentes e procrastinatórias, a lei deixa ao prudente arbítrio do juiz sua realização, devendo a parte que a deseje convencê-lo fundamentadamente da sua conveniência" (CPP Interpretado, Editora Atlas, edição, página 508).
+No caso, a perícia realizada pelo Instituto de Polícia Técnica, ao examinar o tacógrafo, já havia determinado a velocidade com que trafegava o pesado veículo - 45 quilômetros por hora (fls. 55) -, de modo que, considerando a orientação acima, a douta defesa, para postular a realização de outro exame, deveria apresentar argumentos que desconsiderassem o número acima registrado, o que não ocorreu, pois a parte limitou-se a dizer que "não era possível o veículo atingir a velocidade de 45 km por hora, em 50 metros" (fls. 147).
+Assim, agiu corretamente o magistrado singular ao sustentar que, "já existindo perícia oficial, com base em prova material, entendo que tal perícia é absolutamente desnecessária" (fls. 147), como, de fato, o é.
+O E. Tribunal de Justiça de Santa Catarina tem um precedente que se amolda inteiramente ao processo em exame, a saber:
+"Não há que falar em cerceamento de defesa se a lei deixa ao prudente arbítrio do Juiz a realização de nova perícia e este, fundamentadamente, indefere o pedido, com o objetivo de evitar a realização de perícias desnecessárias, impertinentes e procrastinatórias, inexistente qualquer fato que coloque em dúvida ou suspeita o laudo já confeccionado, que possui presunção de veracidade e boa-fé (RT. 761/705" (compendiado na obra acima citada, mesma página.
+Do E. Superior Tribunal de Justiça, veja-se:
+"PROCESSO PENAL. INDEFERIMENTO DE PROVA PERICIAL. CPP, ARTS. 184 E 499.
+1. Diante do princípio da livre apreciação da prova, é possível que o Juiz, mediante decisão devidamente fundamentada, indefira pedido de perícia, por considerá-la desnecessária para a elucidação dos fatos, sem restar configurado por isso cerceamento de defesa.
+2. Recurso a que se nega provimento" (RHC nº 10.678-PR, relator Ministro Edson Vidigal).
+Rejeito, nestas condições, a preliminar arguida".
+Desse modo, percebe-se que a linha de intelecção jurídica utilizada pelo Tribunal de origem possui ressonância na jurisprudência remansosa deste Superior Tribunal de Justiça que manifesta-se no sentido de que "o Magistrado, que é o destinatário da prova, pode indeferir, de forma fundamentada, a realização de perícias e diligências que entender desnecessárias ou protelatórias" (HC 275.487/MA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 08/02/2018, DJe 15/02/2018).
+No mesmo sentido, os seguintes precedentes:
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. DIREITO PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. IRPF. ART. 1º DA LEI N. 8.137/1990. OMISSÃO DE RENDIMENTO. ART. 400, § 1º, DO CPP. ART. 1º DA LEI N. 8.137/1990. DEPÓSITOS BANCÁRIOS. ELEMENTOS DO DELITO DEMONSTRADOS PELO ACÓRDÃO REGIONAL. FUNDAMENTAÇÃO ADEQUADA. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. ACÓRDÃO A QUO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTE TRIBUNAL. SÚMULAS 7 E 83/STJ. MATÉRIA CONSTITUCIONAL. STF.
+1. O indeferimento fundamentado de pedido de perícia não caracteriza constrangimento ilegal, pois cabe ao juiz, na esfera de sua discricionariedade, negar motivadamente às diligências que considerar desnecessárias ou protelatórias (art. 400, § 1º, do CPP).
+2. O acervo documental existente nos autos - representação fiscal para fins penais e declarações de rendimentos de pessoa física e pessoa jurídica - constitui prova robusta acerca da materialidade delitiva relativa ao crime contra a ordem tributária, e a produção de prova pericial somente procrastinaria o andamento da ação penal (art. 1º da Lei n. 8.137/1990).
+3. A pretensão, na via especial, firmada em revolvimento fático-probatório disposto no autos faz-se inadequada em razão da do óbice da Súmula 7/STJ.
+4. (..)
+8. Agravo regimental improvido".
+(AgRg no REsp 1.370.302/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, Julgado em 05/09/2013, DJe 27/09/2013).
+"HABEAS CORPUS. HOMICÍDIO QUALIFICADO. SOLICITAÇÃO DE JUNTADA DE MÍDIA. INDEFERIMENTO. ALEGADO CERCEAMENTO DE DEFESA. DECISÃO JUDICIAL MOTIVADA. DEVIDO PROCESSO LEGAL. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. EXPRESSA AUSÊNCIA DE INTERESSE NA PRODUÇÃO DE PROVA TESTEMUNHAL. NÃO COMPROVAÇÃO DA RELEVÂNCIA DA PROVA PARA O ESCLARECIMENTO DO FATO DELITUOSO E DE SUA AUTORIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+1. O indeferimento fundamentado de pedido de realização de prova não caracteriza constrangimento ilegal, pois cabe ao juiz, na esfera de sua discricionariedade, negar motivadamente as diligências que considerar desnecessárias ou protelatórias. Doutrina. Precedentes do STJ e do STF.
+2. Nos termos do art. 184 do CPP, o juiz ou a autoridade policial negará a perícia requerida pelas partes, quando não for necessária para o esclarecimento da verdade. Ressalva-se o indeferimento da prova pelo juiz somente quando se tratar de exame de corpo de delito.
+3. No caso dos autos, em observância ao princípio do livre convencimento motivado, restou devidamente fundamentada a negativa da juntada da mídia pelo magistrado de primeiro grau, soberano na análise dos fatos e das provas.
+4. (..)
+5. (..)
+6. Ordem denegada."
+(HC 196.780/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 29/08/2011).
+Dessa forma, estando o acórdão recorrido em conformidade com a jurisprudência dominante desta Corte Superior de Justiça acerca do tema, de rigor a aplicação da orientação prevista na Súmula nº 568 do Superior Tribunal de Justiça, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ademais, para alterar o entendimento das instâncias de origem, que com base em dados concretos dos autos afastaram a alegação de cerceamento de defesa por entenderem que a prova pericial requerida e indeferida era prescindível, seria necessário a incursão no arcabouço fático e probatório, procedimento incabível nas vias excepcionais.
+Nesse contexto, verifica-se não possuir esta senda eleita espaço para a análise das matérias suscitadas pelo recorrente, cuja missão pacificadora restara exaurida pelas instâncias anteriores.
+Com efeito, não se mostra plausível nova análise do contexto probatório por parte desta Corte Superior, a qual não pode ser considerada uma terceira instância recursal. No mais, referida vedação encontra respaldo no enunciado nº 7 da Súmula desta Corte, verbis: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Confiram-se, nesse sentido, os precedentes da Corte:
+"PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL GRAVE. ALEGAÇÃO DE HIPOSSUFICIÊNCIA. ANÁLISE A SER FEITA PELO JUÍZO DA EXECUÇÃO. SÚMULA 284/STF. CERCEAMENTO DE DEFESA. PERÍCIA. AVALIAÇÃO DO JULGADOR POR DESNECESSIDADE. REEXAME FÁTICO. SÚMULA 7/STJ. DESCLASSIFICAÇÃO DO DELITO. CONJUNTO PROBATÓRIO. SÚMULA 7/STJ.
+1. Em relação ao pleito de desclassificação do delito para o crime de lesão corporal simples, por inexistência de provas quanto à deformidade permanente na vítima, aplica-se a Súmula 7/STJ.
+2. Concluído ser desnecessária a realização de perícia técnica, por estar comprovada, segundo as provas dos autos, a debilidade permanente da função mastigatória da vítima, o reexame desses fatos também encontra o óbice da Súmula 7/STJ.
+3. Agravo regimental improvido.
+(AgRg no AREsp 761.260/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/10/2015, DJe 26/10/2015)
+"(..)
+PRODUÇÃO DE PROVAS TESTEMUNHAIS, PERICIAIS E DOCUMENTAIS. INDEFERIMENTO DEVIDAMENTE MOTIVADO. CONCLUSÃO EM SENTIDO CONTRÁRIO. SÚMULA N.º 7/STJ.
+6. O legislador brasileiro adotou o sistema do livre convencimento motivado, cabendo ao juiz extrair sua convicção das provas produzidas legalmente no processo em decisão devidamente fundamentada.
+7. Reconhecendo a suficiência das provas já produzidas nos autos, pode o Magistrado, fundamentadamente, indeferir a produção de novos elementos probatórios quando reputa-las desnecessárias ou impertinentes, estando referido ato dentro de seu âmbito discricionário.
+8. In casu, o Juiz de Primeiro Grau indeferiu a reinquirição de testemunhas, a produção de novas provas periciais e documentais, por não guardarem correlação com os fatos objetos da presente ação penal. Assim, conclusão em sentido contrário quanto à necessidade ou pertinência de tais provas demandaria revolvimento do material fático/probatório dos autos, inviável na presente seara recursal - Súmula n.º 7/STJ -.
+(..)
+16. Agravos regimentais aos quais se negam provimento".
+(AgRg no REsp 1.168.353/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, Julgado em 04/09/2012, DJe 14/09/2012).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ACÓRDÃO RECORRIDO. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO-OCORRÊNCIA. PROVA PERICIAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não há ofensa aos arts. 165 e 458 do CPC se o acórdão recorrido apresentou motivos aptos a rejeitar a preliminar de cerceamento de defesa, afastando-se, portanto, qualquer ausência ou deficiência de fundamentação.
+2. É firme nesta Corte o entendimento de que a análise quanto à ocorrência de cerceamento de defesa em virtude do indeferimento de produção de prova pericial esbarra no óbice da Súmula 7/STJ, porquanto seria necessário reexaminar as circunstâncias fáticas e o conjunto probatório constante dos autos para concluir se a produção das provas almejadas pelos recorrentes seria, ou não, imprescindível para o julgamento da demanda.
+3. Agravo regimental improvido".
+(AgRg no Ag 942.268/MG, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, Julgado em 28/02/2008, DJe 05/05/2008).
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea "b", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
