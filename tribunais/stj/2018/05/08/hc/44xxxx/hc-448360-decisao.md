@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] contra o acórdão proferido pelo Tribunal de Justiça de Santa Catarina no HC n. 4004841-97.2018.8.24.0000.
+Infere-se dos autos que o paciente, preso em flagrante pela suposta prática do delito previsto no art. 33, caput, c/c art. 40, VI, ambos da Lei n. 11.343/2006, teve e prisão preventiva decretada em 8/3/2018 (Processo n. 0001143-16.2018.8.24.0045, em curso na 1ª Vara Criminal da comarca de Palhoça/SC).
+Daí o presente writ, no qual se alega ausência de fundamentação idônea para a prisão preventiva. Ressalta-se que o paciente é primário, possuí vínculo com o distrito da culpa, bem como é pai de uma criança com menos de 1 ano de idade (fl. 4).
+Aduz-se, ainda, que não foi realizada audiência de custódia, o que torna a conversão da prisão nula, uma vez que o Paciente depois de preso sequer foi ouvido pelo Judiciário, estando a segregação fundamentada tão somente nos indícios colhidos em sede policial de forma unilateral (fl. 4).
+Pleiteia-se, inclusive em liminar, concessão da ordem para que seja revogada a prisão provisória do paciente ou, subsidiariamente, determinada a prisão domiciliar ou aplicadas medidas previstas no art. 319 do Código de Processo Penal.
+É o relatório.
+Neste exame preliminar, não percebo a presença concomitante dos pressupostos autorizadores do pedido liminar.
+Aparentemente, há motivação idônea para a manutenção do decreto prisional pois, além da quantidade de droga apreendida (20 pedras de Crack, 20g de maconha, e 10 petecas de cocaína), o Tribunal local destacou a variedade e o fato de que o paciente responde a dois outros processos criminais, suspensos por força do art. 366 do Código de Processo Penal, evidenciando, como argumentou a juíza a quo, que, solto, poderá se evadir do distrito da culpa, circunstância que reforça a manutenção do decreto para assegurar a aplicação da lei penal (fl. 91).
+Com efeito, aqui, há a compreensão de que o histórico criminal do agente (que pode ser extraído inclusive de inquéritos e ações penais em curso), a revelar fundado receio de reiteração na prática criminosa, autoriza, por si só, o decreto de prisão preventiva como forma de garantir a ordem pública, nos termos do art. 312 do Código de Processo Penal (HC n. 327.626/SP, da minha relatoria, Sexta Turma, DJe 25/11/2015).
+Ademais, há nesta Corte o entendimento de que a não realização de audiência de custódia não é suficiente, por si só, para ensejar a nulidade da prisão preventiva, quando evidenciada a observância das garantias processuais e constitucionais (AgRg no HC n. 353.887/SP, da minha relatoria, Sexta Turma, DJe 29/8/2016).
+Com essas considerações, não tendo, por ora, como configurado constrangimento ilegal passível de ser afastado mediante o deferimento da liminar pretendida, indefiro-a.
+Solicitem-se, por malote digital, no prazo de 20 dias, informações ao Juízo de origem quanto à atual situação do paciente e dos Autos n. 0001143-16.2018.8.24.0045.
+Após, encaminhem-se os autos ao Ministério Público Federal.
+Publique-se.
