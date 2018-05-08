@@ -1,0 +1,8 @@
+DECISÃO
+[NOME] [NOME] TOMAZ estaria sofrendo coação ilegal em seu direito de locomoção, em decorrência de acórdão do Tribunal Regional Federal da 1ª Região, que recebeu a denúncia oferecida no IPL n. 0021428-58.2009.4.01.0000, pela inexecução do Convênio n. 1.446/1999 celebrado com a Funasa, para construção de dois poços artesianos (art. 1º, I, do Decreto-lei n. 201/1967).
+Decido.
+Em consulta ao sítio eletrônico do Tribunal a quo, verifico que, em 10/6/2013, o Desembargador Federal relator acolheu pedido do MPF e determinou a remessa dos autos à Seção Judiciária do Amazonas, com baixa na distribuição, uma vez que o réu, ora paciente, não mais ocupava o cargo de Prefeito Municipal.
+Constato, ainda, que, em 22/10/2014, a ação penal n. 0016010-06.2013.4.01.3200 foi julgada, tendo sido o paciente condenado a pena privativa de liberdade substituída por restritiva de direito, pela prática da conduta tipificada no art. 1º, I, do Decreto-lei n. 201/1967. O processo encontra-se na 3ª Turma do TRF 1ª Região para julgamento de apelação.
+Assim, forçoso reconhecer a perda de objeto da presente impetração, pois o ato apontado coator não mais subsiste. Neste sentido, vide as seguintes decisões monocráticas: HC n. 128.232/BA, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 14/12/2017; HC n. 334.562/MA, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 27/10/2015 e HC n. 214.472/TO, Rel. Ministra Laurita Vaz, 5ª T., DJe 29/4/2013.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus, por ausência de interesse de agir.
+Publique-se e intimem-se.
