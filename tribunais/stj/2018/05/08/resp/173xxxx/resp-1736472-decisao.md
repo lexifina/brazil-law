@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Recurso Especial, fundamentado na alínea a do permissivo constitucional, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, na vigência do CPC/73, contra acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado:
+"APELAÇÃO CÍVEL. PREVIDENCIÁRIO. INSS. ACIDENTE DE TRABALHO. APOSENTADORIA POR INVALIDEZ. LAUDO PERICIAL CONCLUSIVO PELA INCAPACIDADE PARCIAL DO SEGURADO. CONDIÇÕES ATUAIS E PESSOAIS DO ACIDENTADO. RECURSO CONHECIDO E IMPROVIDO.
+1. O benefício da aposentadoria por invalidez será devido ao segurado que for considerado incapaz e insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência e ser-lhe-á paga enquanto permanecer nesta condição, conforme dispõe a Lei nº 8.213/91.
+2. Os laudos periciais disponíveis nos autos (fls. 17/19 e 118/122) atestam a incapacidade permanente e parcial do segurado, entretanto as condições pessoais deste, como idade e instrução, evidenciam que tal redução da capacidade laborativa priva-lhe do sustento digno. Precedentes do STJ.
+3. Ausência de emissão de certificado individual de conclusão ao Programa de Reabilitação Profissional. Desobediência ao disposto no art. 92 da Lei nº 8.213/91.
+4. No tocante à data de início do benefício decorrente de incapacidade definitiva para o trabalho, como é o caso da aposentadoria por invalidez, o marco inicial para o seu pagamento, não havendo requerimento administrativo, será a convalidação da incapacidade laborativa, consagrada na data da juntada do laudo pericial nos autos, qual seja, em 01 de dezembro de 1998 (fls. 118). Precedentes do STJ.
+5. Apelação conhecida para, entretanto, negar-lhe provimento, mantendo in totum a sentença apelada" (fl. 385e).
+Alega-se, nas razões do Recurso Especial, violação ao art. 42 da Lei 8.213/91. Para tanto, sustenta, in verbis:
+"A APOSENTADORIA POR INVALIDEZ somente deve ser concedida se verificada incapacidade laborativa total (grau de incapacidade que não permita o exercício do trabalho), definitiva (irreversibilidade que não permita reabilitação profissional) e absoluta (ominiprofissional).
+Vale dizer, a incapacidade laborativa autorizante da concessão de aposentadoria por invalidez deve ser irreversível e ominiprofissional, ou seja, deve o segurado estar inválido para todo e qualquer exercício de atividade laboral irreversivelmente.
+Nesse diapasão, a concessão do benefício de Aposentadoria por Invalidez exige que a incapacidade seja permanente, e para todas as atividades desenvolvidas pelo beneficiário, consoante inteligência do art. 44 do Decreto 3048/1999.
+A incapacidade deve ser tal que impeça o exercício - permanente - de toda e qualquer atividade laborai do segurado e. ainda, que o mesmo seja considerado incapaz e insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência.
+Pois bem. Conforme conclusão da perícia médica do juízo, em especial as respostas aos quesitos do Juízo, o autor apresenta incapacidade definitiva, mas apenas PARCIAL, podendo ser reabilitado para o desempenho de diversas outras atividades laborativas.
+Observe-se que, nos termos do art. 42 da Lei 8.213/91, não basta que a incapacidade seja apenas permanente, como equivocadamente entenderam os Desembargadores do Tribunal de Justiça, é preciso que a mesma seja, também, total e insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência, o que não é o caso dos autos, conforme visto alhures.
+(..)
+Como se vê, por não estar o autor incapacitado para o exercício de toda e qualquer atividade laborativa, indevida a concessão da aposentadoria por invalidez.
+Ainda assim, os julgadores da instância ordinária entenderam que o autor faz jus à aposentadoria por invalidez, em flagrante violação ao citado dispositivo.
+A propósito, o argumento da dificuldade de obtenção de outro emprego, em face da idade avançada ou baixo nível intelectual, não pode ser utilizado para a concessão do benefício, por falta de previsão legal.
+Nesse sentido, já se manifestou esta e. Corte Superior:
+(..)
+Dessa feita, revela-se a necessidade de reforma da decisão impugnada, para que não haja concessão de beneficio indevido, dada a ausência de preenchimento do requisito legal incapacidade total" (fls. 399/405e).
+Requer, ao final, "a) que seja conhecido e provido integralmente o presente Recurso Especial, para o fim de reformar a sentença e o acórdão que a confirmou na íntegra. b) que o autor seja condenado ao pagamento das custas e honorários advocatícios" (fl. 405e).
+Foram apresentadas contrarrazões (fl. 414/421e).
+A irresignação não merece acolhimento.
+Destaco, de plano, que deixo de apreciar a alegação de que "o argumento da dificuldade de obtenção de outro emprego, em face da idade avançada ou baixo nível intelectual, não pode ser utilizado para a concessão do benefício, por falta de previsão legal" (fl. 401e), pois não foi objeto de apreciação pelo acórdão guerreado. Tendo o Tribunal a quo deixado de examinar explicitamente a matéria objeto do especial, incide, por analogia, a Súmula 282/STF.
+Quanto ao mais, o Tribunal de origem, para decidir a controvérsia dos autos, deixou consignado, no que interessa:
+"No presente caso, o apelante nasceu em 28/05/1944; possui pouca escolaridade e precárias condições sócio-econômicas. A reabilitação profissional para o exercício de outra profissão, apesar de não ser impossível, mostra-se pouco provável. O apelante sofreu o acidente aos 41 (quarenta e um) anos de idade, e ora já se encontra com setenta anos e, com a deficiência que restringe sua locomoção, não tem mais condições de competir no atual e exigente mercado do trabalho, composto, essencialmente, por pessoas mais jovens, sadias e qualificadas.
+Conclui-se, assim, ser remota a perspectiva de sua reabilitação profissional.
+No tocante ao Programa de Reabilitação Profissional, como bem realça a Procuradoria Geral de Justiça, o apelante não cumpriu com as exigências dispostas no art. 92 da Lei nº 8.213/91, qual seja, não assistiu o acidentado com o programa de reabilitação profissional.
+É forçoso, ainda, reconhecer o agravamento da debilidade física do apelado, pelo tempo de tramitação do processo, ajuizado em 02 de novembro de 1993 - há mais de vinte anos - ainda pendente de julgamento definitivo.
+Dentro desse contexto, sopesado na sua integralidade, entende-se que a r. sentença de fls. 305/308 deve ser mantida para confirmar o benefício de aposentadoria por invalidez ao autor/apelado" (fl. 382e).
+O Tribunal a quo, ao concluir pela invalidez, com fundamento nas condições pessoais do segurado, não dissentiu dos precedentes desta Corte a respeito da matéria. A propósito, destaco:
+"PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. REQUISITOS. ASPECTOS SOCIOECONÔMICOS, PROFISSIONAIS E CULTURAIS. NECESSIDADE DE AVALIAÇÃO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A concessão da aposentadoria por invalidez deve considerar, além dos elementos previstos no art. 42 da Lei 8.213/91, os aspectos socioeconômicos, profissionais e culturais da segurada, ainda que o laudo pericial apenas tenha concluído pela sua incapacidade parcial para o trabalho. Precedentes.
+2. Na hipótese dos autos, o Tribunal a quo, ao dar provimento ao apelo do INSS para julgar improcedente a ação, limitou-se a avaliar a perícia médica e apenas considerou que os atestados médicos acostados não seriam capazes de ilidir a conclusão do perito.
+3. Nesse contexto, necessário se faz o retorno dos autos ao Tribunal de origem, a quem é dada a análise das provas dos autos, assim como das circunstâncias sócioeconômicas, profissionais e culturais relacionadas à segurada.
+Recurso especial provido, em menor extensão" (STJ, REsp 1.568.259/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 01/12/2015).
+"PROCESSUAL. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. ACÓRDÃO EMBASADO EM OUTROS ELEMENTOS ALÉM DO LAUDO PERICIAL. POSSIBILIDADE.
+1. A concessão da aposentadoria por invalidez deve considerar, além dos elementos previstos no art. 42 da Lei nº 8.213/91, os aspectos socioeconômicos, profissionais e culturais do segurado, ainda que o laudo pericial apenas tenha concluído pela sua incapacidade parcial para o trabalho. Precedentes.
+2. O Tribunal a quo entendeu existir comprovação de que a ora agravada ficou incapacitada de maneira permanente e definitiva para exercer suas atividades laborativas, nada obstante o laudo pericial ter concluído pela incapacidade apenas parcial. Inteligência da Súmula 83/STJ.
+3. A revisão das premissas fáticas de julgamento esbarra na Súmula 7/STJ.
+4. Agravo regimental não provido" (STJ, AgRg no AREsp 318.761/PR, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 05/06/2013).
+Firmada essa tese, considerando a fundamentação adotada, o acórdão recorrido, que concluiu pela existência dos requisitos para concessão do benefício previdenciário, somente poderia ser modificado mediante o necessário revolvimento dos aspectos concretos da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
