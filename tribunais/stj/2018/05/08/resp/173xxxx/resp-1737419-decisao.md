@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial fundado no art. 105, III, "a", do permissivo constitucional, interposto contra acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+AÇÃO DE COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA. Prescrição intercorrente verificada. Prescrição quinquenal, nos termos do Artigo 206, §5º, 1, do CC. Aplicação da Súmula 150 do C. STF. Impossibilidade de o feito permanecer indefinidamente arquivado, devendo ser observada a razoável duração do processo, de acordo com o art. 5º, inciso LXXVIII, da Constituição Federal. Desnecessária a intimação do patrono da parte para dar andamento ao feito, eis que não se trata de extinção do processo por abandono. Sentença mantida. RECURSO DESPROVIDO.
+Embargos de declaração rejeitados.
+Nas razões do recurso especial a parte recorrente alega ofensa ao art. 240 do CPC, sob o argumento de que para que fique caracterização a prescrição intercorrente seria necessária a intimação do credor antes do início do cômputo da desídia.
+É o relatório. Passo a decidir.
+No tocante à prescrição, o col. Tribunal de origem, mediante análise soberana do contexto fático-probatório dos autos, entendeu pela desídia da parte credora com a seguinte fundamentação, verbis:
+Assim, tendo os autos permanecido no arquivo desde julho de 2010 e não tendo o exequente diligenciado para o prosseguimento da execução até julho de 2015, evidente a ocorrência da prescrição. Anoto ser desnecessária a intimação pessoal da parte, uma vez que o processo não foi extinto por abandono da causa. Nesse contexto, deve a r. sentença ser confirmada por seus próprios fundamentos.
+Nesse contexto, o acórdão recorrido está em desarmonia com a jurisprudência desta Corte firmada no estatuto processual de 1973 no sentido de que o reconhecimento da prescrição intercorrente exige a inércia do exequente tendo como inicio do cômputo prescricional o descumprimento de sua intimação para dar andamento ao feito.
+Sirvam de ilustração os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. NEGATIVA DA PRESCRIÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. NÃO CABIMENTO. ACÓRDÃO RECORRIDO RECONHECE A INTERRUPÇÃO DA PRESCRIÇÃO E AFIRMA A AUSÊNCIA DE INTIMAÇÃO PARA INÍCIO DO CÔMPUTO DA PRESCRIÇÃO INTERCORRENTE. ENTENDIMENTO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83 DO STJ.ALTERAÇÃO DAS PREMISSAS ADOTADAS. SÚMULA 7 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO. (..)
+3. Quanto ao mérito, o col. Tribunal a quo, mediante análise do contexto fático-probatório dos autos, concluiu pela interrupção da prescrição e pela ausência de intimação do exequente para cômputo do início da prescrição intercorrente, afastando, assim, a alegação da recorrente de extinção do feito pela ocorrência da prescrição.
+4. É entendimento da jurisprudência do Superior Tribunal de Justiça que o reconhecimento da prescrição intercorrente exige, para o seu início, a intimação do exequente para dar andamento ao feito. Incidência da Súmula 83 do STJ. Precedentes.
+5. A modificação das premissas lançadas no acórdão recorrido, quanto a intimação e interrupção da prescrição, nos moldes ora postulados, demandaria o revolvimento de suporte fático-probatório dos autos, o que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 880.839/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/03/2018, DJe 04/04/2018, n.g)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DO EXECUTADO.
+1. "Consoante entendimento consolidado das Turmas que compõem a Segunda Seção desta Corte, não flui o prazo da prescrição intercorrente no período em que o processo de execução fica suspenso por ausência de bens penhoráveis. Ademais a prescrição intercorrente pressupõe desídia do credor que, intimado a diligenciar, se mantém inerte." (cf. AgRg no AREsp 277.620/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/12/2013, DJe 03/02/2014).
+1.1. Na hipótese dos autos, o Tribunal local assentou ser necessária a intimação pessoal do exequente para promover o andamento do feito como condição para retornar o curso do prazo prescricional, o que não ocorreu. Súmula 83/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 802.795/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 08/02/2018, DJe 23/02/2018, n.g)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO EXEQUENTE PARA DAR ANDAMENTO AO PROCESSO.
+1. A jurisprudência do STJ firmou o entendimento no sentido de que, para ser reconhecida a prescrição intercorrente, é necessária a intimação pessoal do exequente, o que não ocorreu na hipótese dos autos.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1032107/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/10/2017, DJe 19/10/2017, n.g)
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para afastar a prescrição intercorrente, anulando-se o acórdão recorrido para que outro seja proferido nos termos da jurisprudência acima destacada.
+Publique-se.
