@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo - Conselheiro Furtado assim ementado:
+"Contrato de Adesão a Produtos de Pessoa Jurídica - Relação de consumo configurada - Juros remuneratórios - Juntada de parte do contrato que não informa as taxas de juros pactuadas - Prevalência da taxa média de mercado, salvo se a taxa cobrada for mais vantajosa para a correntista, ante a ausência de comprovação da taxa de juros contratada (Súmula 530/STJ) - Impossibilidade da capitalização mensal dos juros, diante da ausência de demonstração de sua contratação - Incidência da capitalização anual - Tarifas e taxas debitadas na conta - Alegação genérica e sem comprovação da abusividade - Restituição em dobro do montante comprovadamente pago em excesso pelo financiado - Descabimento - Propósito doloso ou má-fé da instituição financeira não evidenciados - Descaracterização da mora - Sentença reformada - Recurso parcialmente provido" (fl. 734 e-STJ).
+No recurso especial, foi defendido que, em homenagem ao princípio do pacta sunt servanda, não há razão para ser questionada a validade do contrato de crédito rotativo empresarial, que apesar de caracterizar-se como contrato de adesão, não foi tolhida a manifestação de vontade de nenhuma das partes.
+O recorrente alegou que
+"(..) o entendimento exposto pelo Tribunal "a quo" está em conflito com o esposado pelo Superior Tribunal de Justiça (STJ), notadamente quanto ao reconhecimento da abusividade na cobrança dos juros e encargos financeiros, sem consignar em substituição ao da aplicação da taxa de juros pela média de mercado do BACEN e, ainda, quanto ao afastamento da capitalização, que é perfeitamente aceito pela Jurisprudência predominantes dos Tribunais da Federação" (fl. 759 e-STJ).
+Sem que fossem apresentadas as contrarrazões (fl. 827 e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+ Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Da leitura minuciosa das razões recursais, observa-se que o recorrente, em momento algum, apontou objetivamente como violado qualquer dispositivo da legislação federal. Igualmente, não foi apresentada nenhuma divergência jurisprudencial de forma válida, conforme exigem os artigos 1.029, § 1º, do Código de Processo Civil de 2015 e do 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, haja vista que não foi efetuado o indispensável cotejo analítico entre o acórdão recorrido e os paradigmas mencionados.
+Caracterizada, portanto, a deficiência na fundamentação do recurso, tem aplicação o óbice da Súmula nº 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 2.000,00 (dois mil reais), os quais devem ser majorados para o patamar de R$ 3.000,00 (três mil reais) em favor do advogado da parte recorrida, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
