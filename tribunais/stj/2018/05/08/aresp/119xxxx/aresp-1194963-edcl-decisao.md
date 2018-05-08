@@ -1,0 +1,24 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por ROSANGELA APARECIDA DOS SANTOS em face da decisão que não conheceu do agravo em razão da ausência de impugnação específica dos fundamentos de inadmissão do recurso especial.
+Em suas razões, requer a parte Embargante, em síntese, "seja esclarecido que o valor dos honorários advocatícios majorados para 15% incide sobre o valor atualizado da causa" (fl. 267).
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+Em razão da certidão de fl. 268 que afirmava que "o prazo para interposição de recurso findou em 13/12/2017" e que "a petição de Embargos de Declaração nº 691891/2017 foi protocolizada em 18/12/2017", concedi o prazo de 5 (cinco) dias para juntada aos autos documento apto a justificar o prazo em dobro para oposição dos embargos declaratórios (fl. 273).
+A Embargante juntou a petição e documentos de fls. 276/278.
+É o relatório. Decido.
+Tendo em vista a juntada de documento que comprova a existência de convênio entre a o escritório de prática jurídica da Faculdade de Direito da Pontifícia Universidade Católica de São Paulo e a Defensoria Pública do Estado de São Paulo, nos termos do § 3.º do art. 186 do Código de Processo Civil, revela-se tempestivo o recurso de embargos de declaração oposto às fls. 263/267, razão pela qual deles conheço e prossigo em sua análise.
+No mérito, os embargos não comportam acolhimento.
+O novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Veja-se que, no presente caso, não há omissão uma vez que o dispositivo da decisão embargada é claro no sentido de que os honorários recursais somente serão majorados se houver "prévia fixação de honorários de advogado pelas instâncias de origem". Assim, a contrario senso, se não houve prévia fixação em razão da sucumbência recíproca, não haverá, também, qualquer majoração nesta instância recursal.
+A propósito, este é o entendimento já firmado pelo Supremo Tribunal Federal:
+"AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. SALÁRIO-EDUCAÇÃO. ART. 15 DA LEI 9.424/1996. EXIGIBILIDADE DO TRIBUTO. PRESENÇA DE TODOS OS ELEMENTOS NECESSÁRIOS PARA A COBRANÇA. ADC 3. SUJEITO PASSIVO. ABRANGÊNCIA DAS EMPRESAS DE TRABALHO TEMPORÁRIO. QUESTÃO DE ÍNDOLE INFRACONSTITUCIONAL. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. APLICABILIDADE. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. SUCUMBÊNCIA RECÍPROCA. DETERMINAÇÃO DE COMPENSAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS NA ORIGEM. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO."
+(ARE 964930 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 02/06/2017, PROCESSO ELETRÔNICO DJe-130 DIVULG 16-06-2017 PUBLIC 19-06-2017)
+No mesmo sentido, o seguinte julgado deste Superior Tribunal de Justiça:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO QUE, EM PROCESSO DE EXECUÇÃO, ACOLHEU PARCIALMENTE A EXCEÇÃO DE PRÉ-EXECUTIVIDADE E DECLAROU A PRESCRIÇÃO DE PARTE DA DÍVIDA EXECUTADA, SEM POR FIM AO PROCESSO. NATUREZA DE DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+VII. Não procede o pedido formulado, pela parte agravada - com fundamento no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ -, para que haja condenação da agravante em honorários advocatícios recursais, porquanto aquele dispositivo legal prevê que "o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente". Porém, nos presentes autos, não foram anteriormente fixados honorários de advogado, em face da sucumbência recíproca, seja na decisão de 1º Grau, seja no acórdão recorrido.
+VIII. Agravo interno improvido."
+(AgInt no REsp 1517815/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/08/2016, DJe 01/09/2016).
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
