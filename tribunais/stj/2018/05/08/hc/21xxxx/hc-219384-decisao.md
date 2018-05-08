@@ -1,0 +1,15 @@
+DECISÃO
+CLÁUDIO DA CUNHA BARBOSA e AURELINO PEREIRA DE BRITO FILHO, respectivamente, estariam sofrendo coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, que denegou a ordem do HC n. 46.976/2011.
+Consta dos autos que o Ministério Público ofereceu denúncia contra os pacientes, pela prática da conduta tipificada no art. 1º, do Decreto-lei n. 201/1967 c/c os arts. 69 e 71 do Código Penal, porque, na época em que ocupavam, respectivamente, o cargo de Prefeito e de Secretário Geral da Prefeitura Municipal de Novo Mundo, fraudaram a Carta Convite n. 3/1999, realizada para contratação de empresa especializada em uso e manutenção de sistema de contabilidade pública, tributação e folha de pagamento.
+Segundo os impetrantes, a denúncia seria inepta, por ausência de descrição da conduta dos pacientes, e as provas que a instruíram seriam imprestáveis para comprovar a prática delituosa. Além disso, a decisão do Juízo da Vara Única da Comarca de Guarantã do Norte, que recebeu a denúncia da Ação Penal n. 001802-76.2006.811.0087, padeceria de nulidade, por ausência de fundamentação. Por fim, a punibilidade dos pacientes estaria extinta, pela ocorrência da prescrição virtual.
+Decido.
+Em consulta processual realizada na página eletrônica deste Tribunal Superior, constato existir anterior impetração, de relatoria do Ministro Nefi Cordeiro, em que se discutia, também, a validade da decisão que recebeu a denúncia da Ação Penal n. 001802-76.2006.811.0087 (fls. 489 e 585-587 do feito original). Esse writ já foi decidido, tendo transitado em julgado, em 18/8/2015.
+Nesse sentido, confira-se o seguinte julgado, mutatis mutandis:
+ ..
+1. Nos termos da jurisprudência desta Corte Superior de Justiça, a impetração de habeas corpus com objeto idêntico ao de recurso especial anteriormente interposto perante este Sodalício caracteriza indevida reiteração de pedido, o que obstaculiza o conhecimento do writ. (AgRg no HC 118.517/AC, Rel. Min. Jorge Mussi, DJe 25.04.2011)
+2. Habeas corpus não conhecido (HC n. 217.454/SE, Rel. Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), 6ª T., DJe 27/6/2012).
+Constato, ainda, que com a inicial deste mandamus, os impetrantes colacionaram cópia de decisão do Juízo da Vara Única da Comarca de Guarantã do Norte (fls. 30-32), proferida em 12/4/2011, posterior àquela cuja validade se questiona (fls. 24 e 26-28, destes autos), e que versa sobre as demais nulidades aqui arguidas.
+Ressalto, no entanto, que esse superveniente julgado não foi impugnado pelo habeas corpus impetrado no Tribunal de origem nem nesta instância.
+Dessarte, tendo em vista que parte do objeto desta impetração se trata de reiteração de pedido anterior e a outra parte é objeto de decisum posterior do juízo da causa (e o exame por esta Corte superior caracterizaria indevida supressão de instância), não se pode dele conhecer.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço deste habeas corpus.
+Publique-se e intimem-se.
