@@ -1,0 +1,22 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE DO § 4º DO ART. 33 DA LEI N. 11.343/2006. NEGATIVA EM RAZÃO DA QUANTIDADE DA DROGA ALIADA A OUTROS ELEMENTOS. POSSIBILIDADE. REVISÃO. VIA IMPRÓPRIA. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Tendo o Tribunal de origem negado a aplicação da minorante do § 4º do art. 33 da Lei 11.343/06 pelas circunstâncias do caso, em especial a quantidade de droga apreendida, as quais evidenciariam a dedicação a atividades criminosas, a pretendida revisão do julgado implicaria reexame do material cognitivo dos autos, o que encontra óbice na Súmula 7/STJ. Precedentes.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo interno interposto por MARINA LIMA MORANDO contra decisum que não conheceu do recurso especial pela incidência da Súmula 7/STJ.
+Insurge-se o agravante contra o entendimento firmado na decisão agravada, alegando, em suma, que não incide, na espécie, o óbice do mencionado enunciado, na medida em que o debate proposto pelo Recurso Especial está cingido à ocorrência ou não da vulneração ao art. 33, § 4º, da Lei de Drogas (fl. 1417).
+Intimada a parte agravada, consta manifestação às fls. 1430/1436.
+Requer, desse modo, o provimento do agravo regimental, com a reforma da decisão agravada, ou a submissão do recurso a julgamento pela Turma.
+É o relatório.
+VOTO
+O EXMO SR. MINISTRO NEFI CORDEIRO (Relator):
+Pela simples leitura da decisão ora agravada, vê-se que em Recurso Especial sustentou a recorrente, primeiramente, contrariedade ao art. 33, § 4º, da Lei n. 11.343/06, ante a necessidade de aplicação da minorante do tráfico privilegiado no caso dos autos, in verbis:
+Quanto à alegada ilegalidade por ausência de fundamentação no que toca à não aplicação da redutora do § 4º do art. 33, as instâncias fundamentaram a sua negativa em razão da elevada quantidade de droga (250g de maconha) e das circunstâncias concretas do flagrante, o que evidencia a dedicação dos recorrentes a atividades criminosas.
+Nesse contexto, para se chegar à conclusão adversa, ao contrário do que pretende o agravante, seria necessário o reexame de todo o conjunto fático-probatório e não de mera revaloração das provas, o que é vedado na via do recurso especial, tendo em vista o óbice do enunciado sumular n. 7 deste Superior Tribunal de Justiça. Nesse sentido:
+ PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO § 4º DO ART. 33 DA LEI N. 11.343/2006. DEDICAÇÃO À ATIVIDADE CRIMINOSA. APLICAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DO VERBETE N. 7 DO STJ. REGIME INICIAL FECHADO. GRAVIDADE CONCRETA. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. A Corte de origem não aplicou o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, considerando que o sentenciado se dedica à atividade criminosa do tráfico, estando devidamente justificado o afastamento da causa de diminuição. Entender de forma diversa demandaria o reexame das provas, o que é vedado em recurso especial a teor do verbete n. 7 da Súmula do STJ. 2. O regime fechado foi fixado com base na gravidade concreta do delito, revelada especialmente pelas remessas de droga, bem como pelas circunstâncias do flagrante delito. Agravo regimental desprovido. (AgRg no AREsp 728.261/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/06/2016, DJe 29/06/2016 - com destaque) (fl.
+Quanto ao ponto, a Instância a quo fundamentou a negativa do benefício em razão da elevada quantidade de droga (230g de maconha) e das circunstâncias concretas do flagrante, as quais evidenciariam a dedicação dos recorrentes a atividades criminosas, sendo imprópria a via do especial à revisão do entendimento, nos termos da Súmula 7/STJ.
+Nesse contexto, deve a decisão agravada ser mantida por seus próprios fundamentos.
+Ante o exposto, voto por negar provimento ao agravo regimental.
