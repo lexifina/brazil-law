@@ -1,0 +1,34 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DE REINTEGRAÇÃO DE POSSE. SENTENÇA DE EXTINÇÃO SEM JULGAMENTO DE MÉRITO. CASSAÇÃO. DILAÇÃO PROBATÓRIA. CABIMENTO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+[NOME] ([NOME]) promoveu contra [NOME] (JOAQUIM) ação de reintegração de posse com pedido de liminar sob a alegação de que o demandado invadiu gleba de terra de posse do autor e instalou uma cerca.
+O feito foi extinto sem resolução do mérito por falta de interesse de agir após audiência de de justificação. Na ocasião, testemunhas afirmaram que a área objeto do litígio pertenceria à represa de Furnas, e atualmente se encontra alagada pelo nível da represa que subiu com as cheias (e-STJ, fl. 26).
+[NOME] apelou e o Tribunal de Justiça do Estado de Minas Gerais deu provimento ao recurso em acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE REINTEGRAÇÃO DE POSSE - PRODUÇÃO DE PROVAS - REQUERIMENTO - EXTINÇÃO SEM RESOLUÇÃO MERITÓRIA - CERCEAMENTO DE DEFESA - SENTENÇA CASSADA. A extinção da ação, sem análise de todas as questões postas pelas partes, após a pertinente produção das provas requeridas, viola os princípios constitucionais da ampla defesa e do devido processo legal, impondo-se a cassação da decisão monocrática (e-STJ, fl. 59).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 76/77).
+Inconformado, JOAQUIM interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, por violação dos arts. 370, parágrafo único, e 371, do NCPC. Alegou, em síntese, que na ordem jurídica brasileira vigora o sistema da persuasão racional ou do livre convencimento motivado, em que não há hierarquia de provas; que é descabida a determinação da realização de prova pericial com a finalidade de corroborar provas testemunhais; que cabe ao juiz indeferir diligências inúteis - no caso, para constatar que o objeto da demanda, a gleba de terra, encontra-se mesmo submersa. Pugnou pelo restabelecimento da sentença (e-STJ, fls. 80/85)
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta não apresentada (e-STJ, fls. 120).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, no sentido de que caberia dilação probatória para a produção de laudo pericial para o exame da área objeto da lide, indispensável seria o reexame de fatos e provas dos autos, aplicando-se, portanto, a Súmula nº 7 do STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO POSSESSÓRIA. RECONVENÇÃO. 1. PRESSUPOSTOS DE ADMISSIBILIDADE DA RECONVENÇÃO. POSSIBILIDADE. EXISTÊNCIA DE CONEXÃO. SÚMULAS 7 E 83/STJ. 2. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 3. ESBULHO POSSESSÓRIO. NÃO CARACTERIZADO. RETENÇÃO DAS MERCADORIAS. AUSÊNCIA DE GRATUIDADE. DESISTÊNCIA DO CONTRATO DE TRANSPORTE. REVISÃO. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. 4. DISSÍDIO PREJUDICADO. 5. AGRAVO IMPROVIDO.
+1. No caso dos autos, o Tribunal de origem, com base no acervo fático-probatório do respectivo processo, afastou a suscitada carência de ação, por entender pela existência de conexão, uma vez que a matéria deduzida pela ré reconvinte tem relação íntima e direta com aquela formulada na petição inicial da ação principal.
+1.1. Assim, para desconstituir o entendimento da instância ordinária (acerca da existência de conexão entre a reconvenção e a ação principal), seria necessário o revolvimento do conjunto de fatos e provas dos autos, o que é vedado na seara do apelo extremo, haja vista o disposto na Súmula 7/STJ.
+2. É firme a jurisprudência desta Corte no sentido de que compete às instâncias ordinárias exercer juízo acerca da necessidade ou não de dilação probatória, haja vista sua proximidade com as circunstâncias fáticas da causa, cujo reexame é vedado no âmbito do recurso especial, consoante o enunciado n. 7 da Súmula deste Tribunal.
+ ..
+(AgInt no REsp 1689124/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 20/2/2018, DJe 5/3/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ANTECIPAÇÃO DE TUTELA. AUSÊNCIA DE ELEMENTOS PARA O DEFERIMENTO. NECESSIDADE DE MAIOR DILAÇÃO PROBATÓRIA. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. O Tribunal de origem concluiu que não existe nos autos prova inequívoca apta a deferir o pedido de reintegração de posse liminarmente, sendo necessária a realização de uma maior dilação probatória.
+2. Nesse contexto, a modificação de tal entendimento lançado no v.
+acórdão recorrido, nos moldes em que ora postulada, demandaria o revolvimento de suporte fático-probatório dos autos, o que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+(AgRg no AREsp 658.882/ES, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 18/6/2015, DJe 03/08/2015)
+Quanto à interposição do apelo nobre pela alínea c do inciso III do art. 105 da Constituição, verifica-se que o recorrente não arrazoou o recurso, tampouco colacionou julgado paradigma, pressuposto essencial para a demonstração do dissídio jurisprudencial, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil, e 255, §§ 1º e 2º, do RISTJ. Incide, portanto, caso em tela, o óbice da Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários advocatícios porque não são aplicáveis no presente caso.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
