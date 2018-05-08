@@ -1,0 +1,46 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA C/C OBRIGAÇÃO DE FAZER. COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL E JUSTIÇA ESPECIALIZADA DO TRABALHO. MANUTENÇÃO DE EX-EMPREGADO APOSENTADO EM PLANO DE SAÚDE COLETIVO DE ENTIDADE DE AUTOGESTÃO VINCULADA AO EMPREGADOR. NATUREZA PREDOMINANTEMENTE CIVIL DO LITÍGIO.
+1. Ação ajuizada em 05/03/14. Recurso especial atribuído ao gabinete em 21/09/16. Julgamento CPC/73.
+2. O propósito recursal consiste em definir a competência para julgar controvérsias estabelecidas entre ex-empregados (nas hipóteses de aposentadoria, rescisão ou exoneração do contrato de trabalho sem justa causa) e operadoras de plano de saúde na modalidade autogestão vinculadas ao empregador, acerca do direito de manter a condição de beneficiário, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho.
+3. Se a demanda é movida com base em conflitos próprios da relação empregatícia ou do pagamento de verbas dela decorrentes, então a competência para seu julgamento será da Justiça do Trabalho, de acordo com o art. 114, IX da CF/88.
+4. Plano de saúde coletivo disponibilizado pelo empregador ao empregado não é considerado salário, conforme disposto no art. 458, §2º, IV da Consolidação das Leis Trabalhistas, em redação dada pela Lei 10.243/01.
+5. A operadora de plano de saúde de autogestão, vinculada à instituição empregadora, é disciplinada no âmbito do sistema de saúde suplementar, conforme disposto em Resolução Normativa nº 137/06 da ANS.
+6. O fundamento jurídico para avaliar a procedência ou improcedência do pedido está estritamente vinculado à interpretação da Lei dos Planos de Saúde, sobretudo dos arts. 30 e 31.
+7. Essas razões permitem concluir pela inexistência de discussão sobre o contrato de trabalho ou de direitos trabalhistas, mas um litígio acerca da manutenção ou não do ex-empregado em plano de saúde coletivo, cuja natureza é preponderantemente civil e não trabalhista.
+8. Recurso especial conhecido e provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, dar provimento ao recurso especial interposto por ambas as partes, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora. Ausente, ocasionalmente, o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de recurso especial interposto por ambas as partes do litígio, [NOME] ROSA e VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA, com fundamento unicamente na alínea "c" do permissivo constitucional.
+Recurso especial interposto em: 16/01/2015, por VOLKSWAGEN; em 18/02/2015, por [NOME].
+Atribuído ao Gabinete em: 21/09/2016.
+Ação: declaratória c/c obrigação de fazer, ajuizada por [NOME], em face de VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA, devido à irregular disponibilização do plano de saúde após sua aposentadoria, na qual requer a manutenção do contrato e a revisão dos valores de sua cobrança (e-STJ fls. 1-12).
+Sentença: julgou improcedente o pedido (e-STJ fls. 290-298).
+Acórdão: julgou prejudicada a apelação interposta por [NOME] e, de ofício, anulou a sentença e determinou a remessa dos autos à Justiça do Trabalho, nos termos da seguinte ementa (e-STJ fls. 370-374):
+Competência. Ação que visa assegurar a manutenção de ex-empregado em plano de saúde coletivo, contratado pela ex-empregadora. Demissão por adesão a plano para tanto estabelecido nos termos de convenção laboral coletiva. Discussão de questão afeta ao extinto contrato de trabalho. Competência da Justiça Trabalhista. Sentença anulada de ofício, determinada a remessa do feito à Justiça do Trabalho. Recurso prejudicado.
+Embargos de declaração: opostos por [NOME], foram rejeitados.
+Recurso especial interposto por [NOME] ROSA: alega violação do art. 31, da Lei 9.656/98 em sede de dissídio jurisprudencial. Sustenta que o direito postulado na petição inicial decorre do rompimento do contrato de trabalho, contudo sem se discutir a relação trabalhista, mas sim direito próprio do beneficiário do plano de saúde. Assevera que a demanda não busca verbas trabalhistas, indenizatórias, nem quanto à cláusula de rescisão de contrato, mas apenas quanto ao direito do ex-empregado em ser mantido no plano de saúde (e-STJ fls. 419-430).
+Recurso especial interposto por VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA: alega violação dos arts. 30, 31, da Lei 9.656/98 em dissídio jurisprudencial. Sustenta que a pretensão de permanecer no plano de saúde coletivo, nos termos dos arts 30 e 31 da Lei 9.656/98, sem guardar vínculo com a antiga empregadora ou com o contrato rescindido, não deixa dúvida de que a demanda tem natureza cível e não trabalhista. Afirma que a manutenção no plano de saúde não foi assegurada em regulamento ou norma do contrato de trabalho, mas na Lei dos Planos de Saúde, de modo que deve ser reconhecida a incompetência da justiça especializada para análise do processo (e-STJ fls. 390-415).
+Admissibilidade: os recursos foram admitidos pelo TJ/SP (e-STJ fls. 467-468).
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+- Julgamento: CPC/73.
+O propósito recursal consiste em definir a competência para julgar controvérsias estabelecidas entre ex-empregados (nas hipóteses de aposentadoria, rescisão ou exoneração do contrato de trabalho sem justa causa) e operadoras de plano de saúde na modalidade autogestão vinculadas ao empregador, acerca do direito de manter a condição de beneficiário, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho.
+Da fixação de competência para julgar controvérsias relativas a plano de saúde coletivo de ex-empregados
+Inicialmente, vale destacar que a causa de pedir e o pedido delineados na petição inicial definem a competência para processar e julgar a controvérsia.
+Assim, se a demanda é movida com base em conflitos próprios da relação empregatícia ou do pagamento de verbas dela decorrentes, então a competência para seu julgamento será da Justiça do Trabalho, de acordo com o art. 114, IX da CF/88
+Por outro lado, não havendo discussão sobre o contrato de trabalho nem direitos trabalhistas, destaca-se a natureza eminentemente civil do pedido, o que atrai a competência da Justiça comum.
+Essas premissas estão sedimentadas em diversos precedentes da Segunda Seção do STJ: AgInt no CC 148.647/RS, DJe 19/10/2017; AgInt no CC 146.894/RJ, DJe 04/11/2016; AgInt no CC 146.394/SP, DJe 21/09/2016; AgRg no CC 139.479/RJ, DJe 18/08/2016; AgRg no CC 131.832/SP, DJe 13/06/2016.
+No particular, a controvérsia foi estabelecida entre ex-empregado aposentado e a operadora de plano de saúde gerida pela empregadora VOLKSWAGEN, gerando uma zona de aparente penumbra acerca da natureza da relação jurídica litigiosa e o vínculo de trabalho.
+Ao analisar a causa de pedir e o pedido formulados na petição inicial, observa-se que o autor, em síntese, pretende a manutenção do plano de saúde coletivo, para si e para sua esposa, após sua aposentadoria, nos termos do art. 31 da Lei 9.656/98 (e-STJ fls. 1-12).
+Aqui, devem ser registradas algumas anotações sobre a natureza do litígio em demandas desse jaez.
+Primeiro, plano de saúde coletivo disponibilizado pelo empregador ao empregado não é considerado salário, conforme disposto no art. 458, §2º, IV da Consolidação das Leis Trabalhistas, em redação dada pela Lei 10.243/01.
+Segundo, a operadora de plano de saúde de autogestão, vinculada à instituição empregadora, é disciplinada no âmbito do sistema de saúde suplementar, conforme disposto em Resolução Normativa nº 137/06 da ANS. Inclusive, a recorrente VOLKSWAGEN DO BRASIL está devidamente registrada na ANS como operadora de saúde na modalidade autogestão (registro nº 31163-4).
+Terceiro, o fundamento jurídico para avaliar a procedência ou improcedência do pedido está estritamente vinculado à interpretação da Lei dos Planos de Saúde, sobretudo dos arts. 30 e 31.
+Essas razões permitem concluir pela inexistência de discussão sobre o contrato de trabalho ou de direitos trabalhistas, mas um litígio acerca da manutenção ou não do ex-empregado em plano de saúde coletivo, cuja natureza é preponderantemente civil e não trabalhista.
+Via de consequência, há de se reconhecer a competência da Justiça comum Estadual para processar e julgar a demanda, como, curiosamente, ambos os recorrentes concordam.
+A propósito, vale mencionar que esta conclusão foi alcançada em precedente firmado na Terceira Turma, quando do julgamento do REsp 1695986/SP, DJe 06/03/2018.
+Reconhecida, portanto, a competência do TJ/SP para julgar a controvérsia dos autos, deve o acórdão recorrido ser reformado para possibilitar o regular julgamento da apelação interposta pelo ex-empregado aposentado.
+Forte nessas razões, DOU PROVIMENTO ao recurso especial interposto por ambas as partes, para anular o acórdão recorrido e determinar o regular julgamento pelo TJ/SP da apelação interposta contra a sentença, na forma do devido processo legal.
