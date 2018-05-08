@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento do HC n. 1.0000.17.0104337-5/000.
+Depreende-se dos autos que o recorrente foi preso em flagrante, em 29/11/2017, por ter sob sua guarda em sua casa uma porção de cocaína pesando 69g (sessenta e nove gramas) e duas porções de maconha pesando 11,50g (onze gramas e cinquenta centigramas). Consta, também, que ele teria se associado a outros indivíduos para o fim de praticar reiteradamente ou não o tráfico de drogas na cidade de Belo Horizonte/MG. A prisão em flagrante foi convertida em preventiva (e-STJ fls. 183/184) e, posteriormente, o recorrente foi denunciado como incurso nas sanções dos arts. 33 e 35, ambos da Lei n. 11.343/2006 (e-STJ fls. 119/128).
+Irresignada, a defesa impetrou writ na origem buscando a revogação da custódia cautelar, entretanto a ordem foi denegada, conforme evidencia o acórdão de e-STJ fls. 198/218.
+Daí o presente recurso (e-STJ fls. 222/233), no qual a defesa aduziu que "não houve violência ou ameaça à pessoa, o paciente assumiu informalmente perante a autoridade policial que é usuário de drogas e que a droga apreendida era para seu consumo e, na situação fática de sua prisão, dentro de sua casa dormindo antes das 6 horas da manhã, não se pode deduzir de nenhuma forma que iria praticar o tráfico de drogas" (e-STJ fl. 224), de forma que a prisão se mostrava manifestamente ilegal.
+Requereu, liminarmente e no mérito, a revogação da prisão preventiva, concedendo-se ao recorrente o direito de aguardar o julgamento da ação penal em liberdade, com a aplicação das medidas cautelares previstas no art. 319 do Código de Processo Penal, se necessário.
+O pleito urgente foi indeferido (e-STJ fls. 244/247).
+Prestadas informações pelo Juízo de primeiro grau e pelo Tribunal a quo, opinou o Ministério Público Federal pela prejudicialidade do recurso (e-STJ fls. 251/259, 273/275 e 261/271, respectivamente).
+É, em síntese, o relatório.
+Consoante informações prestadas pelo Juízo da 3ª Vara de Tóxicos da Comarca de Belo Horizonte/MG, o recorrente, em 11 de abril de 2018, foi beneficiado com a concessão da liberdade provisória, por decisão de seguintes termos (e-STJ fls. 256/257):
+Desta feita, pelas razões expostas, e estando os denunciados [NOME], MATHEUS BUCKER MONTEIRO, [NOME] e [NOME] [NOME] DE LIMA RIBEIRO, presos por lapso temporal considerável, hei por bem relaxar as suas prisões, com o fito de evitar possíveis ilegalidades ou constrangimentos.
+Expeçam-se os competentes alvarás de soltura em favor dos referidos acusados, que deverá ser cumprido se por outro motivo não estiverem presos.
+Nessas circunstâncias, havendo a superveniência de decisão judicial concedendo ao ora recorrente o benefício da liberdade provisória, o presente recurso - que objetivava, justamente, a liberdade do recorrente - perdeu seu objeto.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
