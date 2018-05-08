@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CIVIL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. MANUTENÇÃO. ART. 31 DA LEI Nº 9.656/1998. CONTRIBUIÇÃO EXCLUSIVA DO EMPREGADOR. 1. Nos planos de saúde coletivos custeados exclusivamente pelo empregador, não há direito de permanência do ex-empregado aposentado ou demitido sem justa causa como beneficiário - salvo disposição contrária expressa, prevista em contrato ou em convenção coletiva de trabalho - sendo irrelevante a existência de coparticipação, pois esta não se confunde com contribuição.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi e Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Cuida-se de agravo interno manifestado em face da decisão de fls. 266/269 e-STJ, que negou seguimento ao recurso especial.
+O recorrente sustenta que o convênio médico, concedido ao trabalhador enquanto mantido seu vínculo empregatício, quando não descontado em sua folha de pagamento, constitui salário in natura, restando clara sua contribuição, ainda que ausente o desconto de sua quota parte em holerite.
+A parte agravada ofereceu impugnação às fls. 286/290 e-STJ.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): A decisão recorrida julgou recurso especial interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Plano de saúde. Natureza jurídica da participação do empregado no custeio do contrato, se a título de contribuição ou participação, que é irrelevante.
+Cota do empregado, que sempre foi paga pelo empregador, que configura contribuição indireta. Precedentes.
+Argumentou a parte recorrente, ora agravada, que o autor não possuía direito de ser mantido no plano de saúde que era custeado integralmente pelo empregador.
+O Tribunal de origem assim se manifestou sobre a controvérsia (fls. 234/235 e-STJ):
+O apelado foi funcionário da empresa FTA Negócios Imobiliários por mais de vinte anos, tendo, mesmo após a sua aposentadoria, mantido o vínculo empregatício até a sua demissão em 22/04/1994 (fls. 43).
+Irrelevante, outrossim, o fato de nunca ter contribuído diretamente com o valor das mensalidades do plano, sob o argumento de que a coparticipação, como fator de moderação pelo uso dos serviços, não se confunde com a contribuição prevista no art. 31 da Lei dos Planos de Saúde, pois o que a lei exige é que ao aposentado tenha sido custeado um plano de saúde por mais de dez anos, independente de quem tenha tomado a iniciativa de sua contribuição, se o empregador ou o empregado.
+No mais, a jurisprudência já definiu que a cota do empregado que sempre foi paga pelo empregador é considerada parcela salarial indireta.
+O entendimento do STJ, todavia, não é esse: somente quando o ex-empregado contribuísse diretamente com o seguro-saúde, desconsiderada eventual coparticipação no custeio dos procedimentos, é que teria direito a se manter vinculado aos serviços.
+Vejam-se:
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. MANUTENÇÃO DO EX-EMPREGADO DEMITIDO SEM JUSTA CAUSA (E SEUS DEPENDENTES) NA CONDIÇÃO DE BENEFICIÁRIOS DO PLANO DE SAÚDE COLETIVO EMPRESARIAL. HIPÓTESE EM QUE A CONTRIBUIÇÃO FORA CUSTEADA INTEGRALMENTE PELO EMPREGADOR/ESTIPULANTE.
+1. O ex-empregado aposentado ou demitido sem justa causa que contribuiu para plano privado de assistência à saúde - em decorrência de vínculo empregatício -, tem direito a ser mantido na condição de beneficiário, nas mesmas condições da cobertura assistencial que gozava quando da vigência do contrato de trabalho, desde que assuma o pagamento integral da contribuição (mensalidade/prêmio) devida à operadora (artigos 30 e 31 da Lei 9.656/98).
+2. O conceito de contribuição abrange apenas as quantias destinadas ao custeio, parcial ou integral, da própria mensalidade ou do prêmio cobrado pela operadora de plano de saúde, independentemente da efetiva utilização de serviços médicos ou odontológicos. Tal definição alcança ainda o pagamento fixo mensal realizado pelo ex-empregado com o intuito de upgrade, isto é, acesso a rede assistencial superior em substituição ao plano originalmente disponibilizado pelo empregador, para o qual não havia participação financeira do usuário.Inteligência dos artigos 2º e 6º da Resolução Normativa ANS 279/2011 e da Súmula Normativa ANS 8/2005.
+3. De outro lado, em se tratando de plano privado de assistência à saúde integralmente custeado pelo empregador/estipulante, as quantias despendidas pelo ex-empregado, única e exclusivamente, a título de coparticipação (percentual incidente sobre as despesas
+médicas/odontológicas efetivamente realizadas pelo usuário), como fator de moderação na utilização dos serviços, não caracterizam contribuição a ensejar a incidência da benesse legal. Exegese defluente do § 6º do artigo 30 da Lei 9.656/98.
+4. Ademais, o custeio do plano de saúde coletivo empresarial pelo empregador/estipulante não se subsume ao conceito de salário-utilidade (salário in natura), por não ostentar a característica da comutatividade, ou seja, não configura retribuição ao trabalho prestado pelo empregado. Cuida-se de incentivo de caráter assistencial concedido por alguns empregadores com o objetivo de garantir a assiduidade, a eficiência e a produtividade dos empregados, não podendo, portanto, ser considerado salário indireto.
+5. Nesse contexto, os ex-empregados não contributários - aqueles que não realizam pagamento sequer parcial de prêmio ou mensalidade do plano de saúde coletivo empresarial, limitando-se ao pagamento de coparticipação - não fazem jus ao direito de continuidade da cobertura assistencial após o término do vínculo empregatício. Precedente da Terceira Turma: REsp 1.594.346/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 09.08.2016, DJe 16.08.2016.
+6. Recurso especial provido para julgar improcedente a pretensão deduzida na inicial. (REsp 1608346/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/10/2016, DJe 30/11/2016).
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. ASSISTÊNCIA MÉDICA. MANUTENÇÃO. ART. 31 DA LEI Nº 9.656/1998. REQUISITOS NÃO PREENCHIDOS. CONTRATO DE TRABALHO. VIGÊNCIA. CONTRIBUIÇÃO EXCLUSIVA DO EMPREGADOR. ALTERAÇÃO DE JURISPRUDÊNCIA. APLICAÇÃO IMEDIATA. PRINCÍPIO DA SEGURANÇA JURÍDICA. AUSÊNCIA DE VIOLAÇÃO.
+1. É assegurado ao trabalhador demitido sem justa causa ou ao aposentado que contribuiu para o plano de saúde em decorrência do vínculo empregatício o direito de manutenção como beneficiário nas
+mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral (arts. 30 e 31 da Lei nº 9.656/1998).
+2. Nos planos de saúde coletivos custeados exclusivamente pelo empregador, não há direito de permanência do ex-empregado aposentado ou demitido sem justa causa como beneficiário, salvo disposição contrária expressa, prevista em contrato ou em convenção coletiva de trabalho, sendo irrelevante a existência de coparticipação, pois esta não se confunde com contribuição.
+3. Não fere o princípio da segurança jurídica a aplicação imediata de novo entendimento jurisprudencial, visto não se tratar de alteração normativa.
+4. Agravo interno não provido. (AgInt no REsp 1595438/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/12/2016, DJe 2/2/2017).
+Correta, portanto, a decisão que julgou improcedente o pedido inicial.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
