@@ -1,0 +1,60 @@
+EMENTA
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. CONCURSO PÚBLICO. AGENTE DE SEGURANÇA PENITENCIÁRIO. TESTE DE APTIDÃO FÍSICA. BARRA FIXA. INADEQUAÇÃO DO EQUIPAMENTO EM QUE FORAM EXECUTADOS OS TESTES. DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA.
+1. O pedido de dilação probatória, como o requerido na peça vestibular, é incompatível com a via mandamental. Precedentes.
+2. O leito do mandado de segurança, por incompatível que é com a dilação probatória, reclama prévia e inequívoca prova, mediante documentos idôneos, das alegações assestadas na exordial da ação, de onde não merecer prosperar a estratégia de colocar em dúvidas, à míngua de provas convincentes, a correção do certame ao qual se submeteu o candidato.
+3. Ademais, gozam os atos administrativos de presunção de veracidade, cabendo a quem os contesta o dever de apresentar prova inequívoca da ilicitude alegada, tarefa da qual, neste caso, não se desincumbiu o impetrante.
+4. Recurso ordinário a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso ordinário em mandado de segurança, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Cuida-se de recurso ordinário em mandado de segurança interposto por [NOME] contra acórdão unânime da 6ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, fls. 96 a 101, resumido na seguinte ementa:
+AGRAVO INTERNO - PROCESSUAL CIVIL - MANDADO DE SEGURANÇA - PEDIDO DE REAVALIAÇÃO EM CONCURSO PÚBLICO - ILEGALIDADES NA REALIZAÇÃO DE PROVA FÍSICA - NECESSIDADE DE DILAÇÃO PROBATÓRIA - DIRETO NÃO DEMONSTRADO DE PLANO POR PROVA PRÉ-CONSTITUÍDA - INDEFERIMENTO DA PETIÇÃO INICIAL - DECISÃO MANTIDA.
+- Mostrando-se necessária a realização de dilação probatória, voltada à perquirição jurisdicional das informadas ilegalidades na condução de exame físico em concurso público para o provimento de cargos de agente penitenciário, afigura-se inviabilizado o manejo da pretensão na estreita via do mandado de segurança.
+- Petição inicial indeferida, nos termos do artigo 10, da Lei n. 12.016/09.
+- Ausentes da pretensão recursal fundamentos suficientes a ocasionara retratação do julgado, mantém-se a decisão que indeferiu a inIcial impetrada. Agravo interno improvido. (fl. 96)
+Nas razões recursais, às fls. 104 a 116, o recorrente sustenta, em síntese, que participou do concurso público destinado ao provimento de cargos da carreira de Agente de Segurança Penitenciário - Nível I - Grau A, conforme Edital SEPLAG/SEDS nº 03/2012 e, após aprovação na primeira etapa, constituída de prova objetiva e redação, foi eliminado na prova de condicionamento físico por testes específicos.
+Aponta que foi eliminado do certame por não ter obtido o índice mínimo de 3 (três) repetições do exercício de barra fixa, em virtude de ter executado o teste em uma barra incompatível com a sua estatura, bem como por não ter recebido auxílio para alcançar a barra, conforme previsão no edital, o que afronta os princípios da razoabilidade e da isonomia.
+Assevera que "enviou uma notificação com aviso de recebimento para a Secretaria de Estado de Defesa Social com objetivo de obter seu laudo de inaptidão física e cópia da filmagem da sua prova, ou seja, os documentos necessários à prova do alegado. estabelecimento público sequer se dignou a manifestar-se sobre o requerimento do recorrente" (fl. 114).
+Requer, por fim, o provimento do recurso para: (i) cassar o acórdão recorrido; (ii) determinar a exibição de documentos (laudo de inaptidão física e cópia da filmagem da prova de barra fixa que realizou) por parte da Admnistração Pública; (iii) conceder liminar para imediata declaração da ilegalidade do exame físico aplicado, bem como anular o ato que o considerou inapto, garantindo seu direito de repetir a prova física em comento; (iv) suspender o concurso público até o final da decisão, caso a liminar seja negada; e (v) conceder a segurança, com objetivo de se tornarem definitivos os efeitos da liminar pleiteada, assegurando-lhe o direito de permanecer no certame.
+Contrarrazões ao recurso foram apresentadas pelo Estado de Minas Gerais, fls. 129 a 132, defendendo a manutenção integral do acórdão recorrido.
+O Ministério Público Federal, pela Subprocuradora-Geral da República [NOME], manifestou-se pelo não provimento do presente recurso nos termos do Parecer às fls. 150 a 153, resumido na seguinte ementa:
+RECURSO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. CONCURSO PÚBLICO PARA O CARGO DE AGENTE DE SEGURANÇA PENITENCIÁRIO. I - ALEGADAS ILEGALIDADES NA REALIZAÇÃO DE PROVA DE APTIDÃO FÍSICA. II - PEDIDO PRELIMINAR DE EXIBIÇÃO DE DOCUMENTOS. AUSÊNCIA DE COMPROVAÇÃO DA NEGATIVA DE FORNECIMENTO POR PARTE DA AUTORIDADE COATORA. III - INEXISTÊNCIA DE PROVA PRÉ-CONSTITUÍDA. IV - PARECER PELO DESPROVIMENTO DO RECURSO. (fl. 150)
+É o relatório.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): A presente irresignação não merece prosperar.
+É que, a teor do disposto no art. 1º da Lei n. 12.016/2009, a concessão da segurança - e, por extensão, o êxito do recurso ordinário interposto contra o acórdão que a denega - pressupõe ilegalidade ou abuso de poder, a violar direito líquido e certo, suficientemente demonstrado pelo acervo probatório que deve seguir a inicial.
+No caso, ao examinar as provas apresentadas, entendeu a Corte de origem que elas não evidenciam a liquidez e certeza do direito vindicado, impossibilitando a concessão da segurança.
+Confira-se o que, nesse sentido, consta do acórdão recorrido:
+De acordo com o posicionamento consolidado pela jurisprudência pátria, direito líquido e certo é aquele de plano demonstrado, mediante a apresentação de prova pré-constituida do direito invocado.
+Desta feita, para se valer da estreita via do writ, deve o demandante trazer ao conhecimento jurisdicional, ab initio. A integralidade do conteúdo probatório que entende necessário á demonstração de seu direito, tendo em vista a impossibilidade de se imprimir dilação probatória no célere e simplificado procedimento do mandado de segurança.
+ ..
+In casu, vê-se das causas de pedir justifícadoras do pedido sub examine que o pleito de renovação do exame físico realizado imprescinde da efetiva demonstração da prática, pelo órgão gestor do certame, dos atos reputados pelo impetrante como inviabilizadores do exercício exigido.
+A corroborar a conclusão que se alcança, pugna o demandante pela apresentação incidental de prova, consistente nas imagens gravadas e no laudo de inabilitação.
+Ora, necessitando o case de perquirição fática, deixa de ser admitida a veiculação do pedido inicial por meio do presente remédio heróico. (fls. 98 a 100)
+Ora, nesse ponto, o entendimento da Corte estadual não destoa da jurisprudência desta Corte, consolidada no sentido de que a dilação probatória, como a requerida na peça vestibular, é incompatível com a via mandamental. Ilustrativamente:
+PROCESSO ADMINISTRATIVO DISCIPLINAR. CONVERSÃO DE EXONERAÇÃO EM DESTITUIÇÃO DO CARGO COMISSIONADO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA NÃO CONFIGURADA. CGU. ATRIBUIÇÃO PARA INSTAURAR OU AVOCAR PROCESSOS E APLICAR SANÇÕES ADMINISTRATIVAS. DANO AO ERÁRIO. MÉRITO ADMINISTRATIVO. IMPOSSIBILIDADE DE EXAME PELO JUDICIÁRIO. TERMO DE INDICIAMENTO. DESCRIÇÃO DOS FATOS E PROVAS, POSSIBILITANDO A APRESENTAÇÃO DE DEFESA PELO INDICIADO. OFENSA À AMPLA DEFESA E AO CONTRADITÓRIO NÃO CONSTATADA. A LEITURA DA PEÇA INAUGURAL E DOS DOCUMENTOS CARREADAS AOS AUTOS NÃO FORAM SUFICIENTES PARA COMPROVAR DE PLANO AS ALEGAÇÕES DE FALTA DE PROVA E INCONGRUÊNCIA DA PENALIDADE APLICADA. ORDEM DENEGADA, RESSALVADA AS VIAS ORDINÁRIAS.
+ ..
+7. Em virtude do seu perfil de remédio constitucional de eficácia prontíssima contra ilegalidades e abusos, o Mandado de Segurança não comporta instrução ou dilação probatória, por isso a demonstração objetiva e segura do ato vulnerador ou ameaçador de direito subjetivo há de vir prévia e documentalmente apensada ao pedido inicial, sem o que a postulação não poderá ser atendida na via expressa do writ of mandamus.
+ ..
+10. Ordem denegada, com ressalva das vias ordinárias.
+(MS 20.529/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 13/12/2017, DJe 02/02/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. EXCLUSÃO DO PARCELAMENTO POR INADIMPLEMENTO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+1. Tratando-se de mandado de segurança, cuja finalidade é a proteção de direito líquido e certo, não se admite dilação probatória, porquanto não comporta a fase instrutória, sendo necessária a juntada de prova pré-constituída apta a demonstrar, de plano, o direito alegado.
+ ..
+3. Agravo regimental não provido.
+(AgRg no RMS 47.997/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 09/09/2015)
+Ainda quanto ao pedido de produção de provas para sustentar a alegada inadequação do equipamento onde foi executado o teste físico, bem anotou o Parquet Federal em seu parecer à fl. 153:
+Ocorre que inexiste nos autos prova dessa alegação. Nada há que comprove a recusa ao fornecimento dos pretendidos documentos. Se o impetrante tivesse logrado provar que diligenciou, sem êxito, no sentido de obter as certidões que, a seu ver, embasariam seu direito líquido e certo a realizar novamente o teste de aptidão física, poder-se-ia cogitar na aplicação do art. 6º e seus parágrafos da Lei nº 12.016/2009.
+Com efeito, o leito do mandado de segurança, por incompatível que é com a dilação probatória, reclama prévia e inequívoca prova, mediante documentos idôneos, das alegações assestadas na exordial da ação, de onde não merecer prosperar a estratégia de colocar em dúvidas, à míngua de provas convincentes, a correção do certame ao qual se submeteu o candidato.
+Ademais, gozam os atos administrativos de presunção de veracidade, cabendo a quem os contesta o dever de apresentar prova inequívoca da ilicitude alegada, tarefa da qual, neste caso, não se desincumbiu o impetrante.
+A propósito, já decidiu a Primeira Seção desta Corte,
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. PROCESSO DISCIPLINAR. AUDITORA-FISCAL DO TRABALHO. DEMISSÃO. OPERAÇÃO PARALELO 251. IMPUTAÇÃO DE FAVORECIMENTO E PROTEÇÃO A EMPRESAS FISCALIZADAS E IRREGULARIDADES NA HOMOLOGAÇÃO DE RESCISÃO DE CONTRATOS DE TRABALHO. PREJUDICIAL DE PRESCRIÇÃO ADMINISTRATIVA DA PRETENSÃO PUNITIVA. REJEIÇÃO. ALEGAÇÕES DE VÍCIOS FORMAIS E DE VIOLAÇÃO DE GARANTIAS PROCESSUAIS (CONTRADITÓRIO, AMPLA DEFESA E EMPREGO DE PROVA ILÍCITA). NÃO OCORRÊNCIA. LEGALIDADE DO PROCEDIMENTO INVESTIGATIVO DISCIPLINAR. DENEGAÇÃO DA ORDEM.
+ ..
+11. O leito do mandado de segurança, por incompatível que é com a dilação probatória, reclama pronta, prévia e inequívoca prova documental das alegações assestadas na exordial da ação. Por essa razão, a estratégia de colocar em dúvida, à míngua de provas convincentes, as conclusões do trio processante, não se faz idônea para demonstrar a existência de afirmada violação a direito líquido e certo, que fosse reparável pelo writ.
+12. Os atos oficiais gozam de presunção de legitimidade, cabendo a quem contesta essa presunção apresentar prova inequívoca da ilicitude alegada, de cuja tarefa, no caso concreto, não se desincumbiu a parte impetrante.
+13. Ordem denegada.
+(MS 17.900/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe 29/08/2017)
+Assim, por conta da manifesta inadequação da via eleita e ante a insuficiência das provas para afastar dúvida razoável quanto ao direito vindicado, impunha-se mesmo a denegação da ordem.
+Portanto, porque harmônico com a jurisprudência desta Corte e do STF, não se vislumbra, no acórdão recorrido, erro reparável nessa instância. Deve, pois, ser mantido íntegro, em seus próprios fundamentos.
+Dessarte, conheço do presente recurso ordinário mas, no mérito, nego-lhe provimento.
+É como voto.
