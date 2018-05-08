@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMAR INDUSTRIAL SA E OUTROS, fundamentado nas alíneas "a" e "c" do permissivo constitucional, em face de acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 328):
+PROCESSUAL CIVIL - EMBARGOS À EXECUÇÃO - PRELIMINAR DE PRESCRIÇÃO. INOCORRÊNCIA. EXCESSO. COBRANÇA DE JUROS CAPITALIZADOS. POSSIBILIDADE. PRECEDENTES DO C. STJ. IMPROVIMENTO DO APELO.
+- A citação no processo cautelar ocorreu em 12/08/2008, portanto, como é cediço, a citação válida interrompe, efetivamente, a prescrição, a qual retroagirá à data da propositura da ação, conforme o disposto no art. 219, § 1º, do CPC. Na hipótese, não ouve o decurso do lapso prescricional quinquenal entre a data em vigor do CC/02 e a data da citação na ação cautelar, já que a retroação, da data do ato citatório, até a do ajuizamento da ação cautelar.
+- Ainda que ordenada por juízo incompetente, à guisa do teor do art. 219, caput, do CPC, ainda que ordenada por juízo incompetente, há a interrupção do prazo prescricional, conforme precedentes. Preliminar rejeitada à unanimidade. (sic)
+- Em se tratando de um financiamento industrial resta cabível a cobrança do anatocismo, pois, tendo sido o financiamento concedido com recursos do o exame da pretensão demanda a reanálise do suporte fático dos autos - Súmula 7/STJ e do PIS/PASEP, há previsão legal e contratual expressas para sua cobrança.
+- O art. 4º da Lei n. 9.365/96, que trata da reedição da Medida Provisória 684, de 31/10/1991, anterior ao contrato, que remonta ao ano de 1995, prevê a capitalização dos juros nos valores que o BNDES há de devolver ao o exame da pretensão demanda a reanálise do suporte fático dos autos - Súmula 7/STJ e ao fundo do PIS/PASEP, devendo, portanto, sua cobrança ser necessariamente repassada para o tomador do financiamento, inexistindo, dessa forma, qualquer excesso de execução em sua cobrança.
+Apelação improvida.
+Em suas razões recursais (fls. 359/382), os recorrentes apontam, além de dissídio jurisprudencial, ofensa aos arts. 489, § 1º, IV, e VI, 927, 1.022 do NCPC; 172, V, do Código Civil de 1.916; 2.028 e 202 do Código Civil; e 5º da Medida Provisória n. 1.963-17/2000.
+Sustentam, em síntese: a) omissão do acórdão recorrido, porque não teria enfrentado os fundamentos trazidos na apelação relativos à i) prescrição; ii) cumulação ilegal dos juros moratórios com comissão de permanência; iii) impossibilidade de capitalização dos juros remuneratórios; e iv) descaracterização da mora do devedor; b) prescrição da demanda, seja porque não foi interrompida na forma da legislação aplicável, seja porque não é permitida mais de uma interrupção do prazo prescricional; c) é vedada a cobrança cumulativa de juros moratorios com comissão de permanência; d) é ilegítima a capitalização de juros em periodicidade inferior a um ano antes da edição da Medida Provisória n. 1.963-17/2000; e e) a abusividade de encargos de normalidade contratual afasta a mora do devedor.
+Contrarrazões às fls. 576/586.
+É o relatório.
+Decido.
+A irresignação merece prosperar, em parte.
+1. Na forma do art. 535 do CPC/1973, cabem embargos de declaração quando "for omitido ponto sobre o qual devia pronunciar-se o juiz o tribunal".
+Nesse aspecto, o NCPC considera omissa a decisão que "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador" (art. 489, § 1º, IV).
+Segundo a parte recorrente, o Tribunal de origem teria sido omisso por que:
+(i) Não enfrentou o afastamento da prescrição com base nos fundamentos contidos no acórdão do AgRg no REsp 1125028/RS;
+(ii) Não enfrentou devidamente a argumentação de indevido acúmulo de juros de mora com comissão de permanência, fundado com base no julgado sob regime de recurso repetitivo do REsp 973.827/RS e Súmula nº 472/STJ;
+(iii) Não demonstrou a distinção entre a impossibilidade de capitalização dos juros (anatocismo) contido no caso do recurso repetitivo do REsp nº 973.827/RS e o do caso em comento; e
+(iv) Restou silente quanto à descaracterização da mora dos Recorrentes por clara mora do credor, aplicando-se o entendimento do recurso julgado em sede de repetitivo do REsp 1.061.530/RS.
+De fato, houve omissão no acórdão recorrido, mas tão somente quanto a um dos temas listados.
+Embora não tenha arguido tal tese em sede de apelação, a parte recorrente, nas razões dos embargos de declaração, provocou o Tribunal de origem a se manifestar sobre a impossibilidade de se interromper o curso da prescrição da demanda mais de uma vez, conforme prescrito no caput do art. 202 do Código Civil de 2002. Conforme arrazoado, os devedores teriam promovido reconhecimento de dívida em 29/12/1995 mediante a assinatura do 2º termo aditivo ao contrato de financiamento, evento que, previsto no art. 202, VI, do Código Civil, interromperia o curso do prazo prescricional.
+Caso essa tese tivesse sido examinada e acolhida pelo Tribunal de origem, o resultado da demanda poderia ser alterado, uma vez que, interrompida a prescrição em 29/12/1995, a contagem do prazo de 5 (cinco) anos a partir da data de entrada em vigor do Código Civil de 2002 implicaria a extinção da ação executiva ajuizada tão somente em 25/07/2013 (11 anos depois), dada a impossibilidade de a demanda cautelar ter interrompido (pela segunda vez) o curso do prazo prescricional.
+Isto é, não obstante não seja de competência desta Corte Superior ingressar no mérito da controvérsia, sob pena de supressão de instância, a tese alegada possui o condão de alterar o resultado da lide, razão pela qual é necessário o retorno dos autos ao TRF 5ª Região para novo julgamento dos embargos de declaração.
+Cabe anotar, ademais, que o tema da prescrição constitui matéria de ordem pública, cognoscível de ofício e sujeita à alegação a qualquer tempo e em qualquer grau de jurisdição, nas instâncias ordinárias. Seria impróprio, desse modo, cogitar a ocorrência de inovação recursal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE ASTREINTES. IMPUGNAÇÃO. MULTA FIXADA EM CUMPRIMENTO DE SENTENÇA DE HOMOLOGAÇÃO DE ACORDO DE ALIMENTOS. ENTREGA DE BEM IMÓVEL. OBRIGAÇÃO INCERTA. AUSÊNCIA DE INDIVIDUALIZAÇÃO DA COISA. INEXIGIBILIDADE DA MULTA. MATÉRIA SUSCITADA EM EMBARGOS DE DECLARAÇÃO. PRECLUSÃO. INEXISTÊNCIA. QUESTÃO DE ORDEM PÚBLICA. EXIGIBILIDADE DO TÍTULO EXECUTIVO. CONDIÇÃO DA AÇÃO EXECUTIVA. OMISSÃO RELEVANTE (CPC/73, ART. 535). AGRAVO PROVIDO.
+(..)
+2. As matérias de ordem pública, conhecíveis de ofício pelas instâncias ordinárias, ainda que suscitadas apenas em embargos de declaração, devem ser examinadas pelo Tribunal de origem, sob pena de omissão.
+3. Agravo interno provido, para dar provimento ao recurso especial.
+(AgInt no AREsp 660.837/CE, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/03/2017, DJe 16/05/2017)
+As demais omissões apontadas não ocorreram.
+A tese de inacumulação de comissão de permanência com juros moratórios, com fundamento no Recurso Especial Repetitivo n. 973.827/RS, constituiu inovação recursal, pois inaugurada apenas nos embargos de declaração.
+Com relação à capitalização de juros remuneratórios, o TRF 5ª Região a considerou lícita, pois a legislação que rege o financiamento industrial com recursos do Fundo de Amparo ao Trabalhador - o exame da pretensão demanda a reanálise do suporte fático dos autos - Súmula 7/STJ a autoriza desde 1994, anteriormente, portanto, à data da celebração do negócio jurídico.
+2. Ante o exposto, com fundamento no art. 932 do NCPC e na Súmula 568/STJ, dou parcial provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de 2º grau, onde deverá haver novo julgamento dos embargos de declaração de fls. 338/349, com expressa manifestação sobre a matéria acima destacada.
+Consideram-se prejudicadas as demais teses do recurso.
+Publique-se.
+Intimem-se.
