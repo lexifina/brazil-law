@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], fundado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região, cujo voto condutor assim consignou (e-STJ fls. 125/126):
+Por primeiro, a propositura de ação civil pública não prejudica o interesse a ser tutelado pelo segurado, no caso de optar por ajuizar demanda individual. Assim, ao optar por ação individual, a prescrição quinquenal atinge as parcelas anteriores ao quinquênio que precedeu ao ajuizamento da ação individual, nos termos do art. 103, parágrafo único, da Lei 8.213/91, e da Súmula 85 do STJ. Não se aplica a interrupção da prescrição em face da ação civil pública, uma vez que o presente feito não objetiva a execução daquele julgado, mas o reconhecimento de direito próprio em ação própria.
+O recorrente aponta, além de dissídio jurisprudencial, violação do art. 240, § 1º, do Código de Processo Civil de 2015, alegando a possibilidade de interrupção da prescrição pela Ação Civil Pública n. 0004911-28.2011.4.03.6183.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às e-STJ fls. 151/152.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito tal esclarecimento, verifico que não tem razão o recorrente.
+A decisão singular do Tribunal de origem, confirmada pelo acórdão recorrido, considerou que as parcelas deveriam ser pagas observadas a prescrição quinquenal a contar do ajuizamento da ação individual (e-STJ fls. 125/126).
+Ao assim decidir, o julgado o fez em consonância com a orientação desta Corte, segundo a qual "em relação ao pagamento de parcelas vencidas, a prescrição quinquenal tem como marco inicial o ajuizamento da ação individual" (AgInt no REsp 1.642.625/ES, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/06/2017, DJe 12/06/2017).
+Com efeito, "a propositura de ação coletiva com o mesmo objeto de ação individual tem o condão de interromper a prescrição. Ocorre que a prescrição é interrompida apenas para os fins de ajuizamento de ação individual e não para pagamento de parcelas vencidas  ..  a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da presente Ação Individual, nos termos da Súmula 85/STJ" (AgRg no REsp 1559883/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/02/2016, DJe 23/05/2016).
+Dessa forma, incide o óbice da Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", cabível mesmo quando o recurso especial é interposto com base na alínea "a" do permissivo constitucional.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
