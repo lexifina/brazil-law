@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. PEDIDO DE JUSTIÇA GRATUITA FORMULADO NA PETIÇÃO DE RECURSO ESPECIAL. AUSÊNCIA DE PETIÇÃO AVULSA. DESNECESSIDADE. NOVA ORIENTAÇÃO DA CORTE ESPECIAL. CONTRIBUIÇÃO DO PRODUTOR RURAL PESSOA FÍSICA INCIDENTE SOBRE A COMERCIALIZAÇÃO DE PRODUTOS RURAIS. FUNRURAL. EXIGIBILIDADE. REPERCUSSÃO GERAL RECONHECIDA PELO PRETÓRIO EXCELSO. PRONUNCIAMENTO PELA CONSTITUCIONALIDADE (RE n. 718.874/RS). AGRAVO CONHECIDO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão do Tribunal de origem que inadmitiu recurso especial em face da deserção do recurso.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 163):
+TRIBUTÁRIO. PRODUTOR RURAL. CONTRIBUIÇÃO PREVIDENCIÁRIA INCIDENTE SOBRE A RECEITA BRUTA DA PRODUÇÃO RURAL. PERÍODO ANTERIOR À EC 20/98. INEXIGIBILIDADE DO TRIBUTO, POR VÍCIO DE INCONSTITUCIONALIDADE. EXIGIBILIDADE A PARTIR DA LEI 10.256/01, QUE CONFERIU NOVA REDAÇÃO AO ART. 25 DA LEI 8.212/91.
+Os embargos de declaração foram rejeitados, conforme fls. 181-186.
+No apelo especial (e-STJ fls. 200-211), o recorrente alega violação a diversos dispositivos legais, além de divergência jurisprudencial. Argumenta que "a cobrança da contribuição previdenciária dos produtores rurais pessoas físicas de trata o art. 25 da Lei 8.212/1991, com redação alterada pela Lei 8.540/1992 é inconstitucional e, mesmo após a edição da EC 20/98 e da Lei 10.256/2001 não deve ser exigida dos empregadores rurais pessoas físicas".
+Decisão de inadmissibilidade à fl. 231.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Com contraminuta.
+É o relatório. Decido.
+Registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+A insurgência não merece prosperar.
+De início, a Corte Especial, por ocasião do julgamento do AgRg nos EREsp 1222355/MG, (Rel. Ministro Raul Araújo, Corte Especial, julgado em 04/11/2015), superou anterior interpretação do Superior Tribunal de Justiça, passando-se a entender que: "É viável a formulação, no curso do processo, de pedido de assistência judiciária gratuita na própria petição recursal, dispensando-se a exigência de petição avulsa, quando não houver prejuízo ao trâmite normal do feito."
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PEDIDO DE JUSTIÇA GRATUITA FORMULADO NA PETIÇÃO DE RECURSO ESPECIAL. AUSÊNCIA DE PETIÇÃO AVULSA. NOVA ORIENTAÇÃO DA CORTE ESPECIAL.
+1. Hipótese em que o acórdão embargado de divergência considerou deserto o Recurso Especial, por haver sido formulado requerimento de Justiça Gratuita na própria peça recursal, não em petição avulsa. Acórdão paradigma que dispensa a petição avulsa, admitindo seja o requerimento de Justiça Gratuita formulado na peça recursal.
+2. A Corte Especial, por ocasião do julgamento do AgRg nos EREsp 1222355/MG, (Rel. Ministro Raul Araújo, Corte Especial, julgado em 04/11/2015), superou anterior interpretação do Superior Tribunal de Justiça, passando-se a entender que: "É viável a formulação, no curso do processo, de pedido de assistência judiciária gratuita na própria petição recursal, dispensando-se a exigência de petição avulsa, quando não houver prejuízo ao trâmite normal do feito.".
+3. Orientação que, partindo do órgão responsável por uniformizar jurisprudência em matérias comuns a mais de uma Seção no âmbito do Superior Tribunal de Justiça, deve ser seguida.
+4. Embargos de divergência providos (EAREsp 754086/SP, Corte Especial, Rel. Min. Benedito Gonçalves, DJe 23/05/2017, grifo nosso).
+Quanto ao mérito, a Primeira Turma deste Superior Tribunal, no julgamento do REsp 1.070.441/SC, decidiu que a contribuição incidente sobre a comercialização da produção rural do empregador rural pessoa física foi extinta desde 25/07/91 e é inexigível independentemente da Lei 10.256/01, exegese lastreada no Recurso Extraordinário nº 596.177/RS, processado sob o rito do art. 543-B do CPC (DJe 29/8/2011)
+Todavia, o Pleno do Supremo Tribunal Federal, ao analisar o RE n. 718.874/RS, pacificou a questão aqui posta no sentido de que "é constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/01, incidente sobre a receita bruta obtida com a comercialização de sua produção" (RE 718.874/RS).
+Ante o exposto, conheço do agravo para negar seguimento ao Recurso Especial.
