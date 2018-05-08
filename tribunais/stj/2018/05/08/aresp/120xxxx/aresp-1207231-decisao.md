@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] MESSIAS contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça de Sergipe.
+A defesa alega violação do artigo 59, do Código Penal além de divergência jurisprudencial.
+No recurso especial defende que: a) "no caso em tela foi justificada a valoração dos motivos do crime com os dizeres "vez que a apelada tão somente visou surrupiar bens de terceiros", porém não há que se valorar de forma negativa com tal justificativa, por esta ser elementar do tipo penal, uma vez que a "subtração" é núcleo do tipo penal" e b) "assim como a obtenção do lucro fácil, a intenção de surrupiar não justifica a valoração negativa dos motivos do crime, pois o primeiro é simplesmente a consequência resultante do segundo, sendo ambos inerentes ao tipo penal, não fazendo portanto jus a valoração que foi feita equivocadamente pelo Tribunal de justiça do estado de Sergipe."
+Requer seja diminuída a pena-base.
+Apresentadas as contrarrazões (fls. 216-222), o recurso foi inadmitido com fundamento na Súmula 7/STJ (e-STJ fls. 230-232).
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 262-263).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+O Tribunal de origem analisou a dosimetria da pena nos seguintes termos:
+"Nesse desiderato, anoto, inicialmente, quanto à culpabilidade: reprovável, com plena consciência dos seus atos e das consequências do delito; possui várias outras condenações criminais, logo é portadora de maus antecedentes; no que diz respeito a sua conduta social, não há nos autos elementos a serem valorados; quanto à personalidade, inexistem elementos que a caracterizem; quanto aos motivos do crime, tenho-os como desfavoráveis, vez que a Apelada tão-somente visou surrupiar bens de terceiros; as circunstâncias do crime ficaram aparentes nos autos; as consequências "extrapenais" não foram graves e o comportamento da vítima, em nada contribuiu para o delito.
+Diante do exposto, fixo a pena-base em 02 (dois) anos e 06 (seis) meses de reclusão e 30 (trinta) dias-multa.
+Fixada a pena-base, passa-se à segunda fase. É a análise da presença de circunstâncias atenuantes e agravantes. O objetivo desta fase é determinar a pena intermediária. Compulsando-se os autos, considerando a incidência da atenuante de confissão e a agravante da reincidência, compenso-as e mantenho a pena-base aplicada.
+Passe-se agora terceira fase da aplicação da pena. Nela analisam-se as causas gerais de aumento e diminuição de pena. No caso em liça, face ao contido no art. 14, inciso II do CP, diminuo a pena em 1/3 (um terço) totalizando-a, em definitivo, em 01 (um) ano e 08 (oito) meses de reclusão, a ser cumprida, inicialmente, em regime aberto." (e-STJ, fl. 162).
+Como é cediço, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+No tocante à culpabilidade, para fins de individualização da pena, tal vetorial deve ser compreendida como o juízo de reprovabilidade da conduta, ou seja, a maior ou menor censura do comportamento do réu, não se tratando de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito.
+A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que "a potencial consciência da ilicitude ou a exigibilidade de conduta diversa são pressupostos da culpabilidade em sentido estrito, não fazendo parte do rol das circunstâncias judiciais do art. 59 do Código Penal, logo, não constitui elemento idôneo a justificar a exacerbação da pena-base" (RHC 41.883/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/04/2016, DJe 13/04/2016).
+Os motivos apontados pela Corte de origem (visar surrupiar bens de terceiros) não desborda do tipo incriminador.
+Assim, o acórdão hostilizado não apresentou motivação válida para a exasperação da reprimenda, em virtude da maior culpabilidade da ré e motivos do crime, considerando elementos inerentes ao tipo penal.
+Passo à readequação da dosimetria da pena.
+Na primeira fase, considerando apenas 1 circunstância desfavorável dos maus antecedentes a reprimenda deve ser majorada proporcionalmente em 4 meses e dias dias, ficando a pena em 1 ano, 4 meses e 15 dias de reclusão.
+Na segunda fase, presente a atenuante da confissão e a agravante da reincidência, e, sopesando-as igualmente, compenso uma pela outra, mantendo a pena de 1 ano, 4 meses e 15 dias de reclusão.
+Na terceira fase incidindo a causa de diminuição do art. 14, II do CP, mantenho a fração de 1/3 fixo a pena definitiva em 11 meses de reclusão mais o pagamento de 11 dias-multa.
+Ante o exposto, nos termos do art. 932, VIII, do Código de Processo Civil de 2015, c/c o art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo, para dar provimento ao recurso especial, fixando a pena definitiva da agravante em 11 meses de reclusão mais o pagamento de 11 dias-multa.
+Publique-se. Intimem-se.
