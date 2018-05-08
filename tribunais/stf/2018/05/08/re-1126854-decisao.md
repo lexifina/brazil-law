@@ -1,0 +1,22 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Ministério Público do Estado de Minas Gerais. Aparelhado o recurso na afronta ao art. 37, V, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    As razões do extraordinário não se mostram aptas a infirmar os fundamentos do acórdão recorrido, ensejando o entendimento jurisprudencial vertido nas Súmulas 283 e 284/STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles” e “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”.
+    Ainda que não se ressentisse o recurso quanto aos pressupostos, melhor sorte não colheria, porquanto compreensão diversa do entendimento adotado pelo Tribunal de origem demandaria a análise prévia da legislação infraconstitucional aplicável, bem como o revolvimento da moldura fática delineada no acórdão recorrido, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”.
+    Na esteira da Súmula 636/STF: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Colho Precedentes:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. LEI MUNICIPAL. CRIAÇÃO DE CARGOS EM COMISSÃO. ALEGAÇÃO DE OFENSA AO ART. 37 DA CONSTITUIÇÃO DA REPÚBLICA. VERIFICAÇÃO DA EXISTÊNCIA DE RELAÇÃO DE CONFIANÇA. ANÁLISE DAS ATRIBUIÇÕES E DO QUANTITATIVO. IMPOSSIBILIDADE. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta.
+    2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República.
+    3. Ausente condenação anterior em honorários, inaplicável o art. 85, § 11, do CPC/2015.
+    4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa.” (RE 998.083-AgR, de minha lavra, 1ª Turma, DJe 15.02.2018)
+    “Agravo regimental em recurso extraordinário. 2. Direito Constitucional e Administrativo. 3. Cargos em comissão. Percentual mínimo de cargos ocupados por servidores efetivos. 4. Art. 37, V, da Constituição Federal. Norma de eficácia contida. 5. Legislação Municipal. Regulamentação do dispositivo constitucional. Competência. Art. 39 da Constituição Federal. 6. Proporcionalidade e razoabilidade. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE 1069936-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 23.4.2018)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 08 de maio de 2018.
+Ministra Rosa Weber
+Relatora
