@@ -1,0 +1,82 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por RESTAURANTE FLORESTAL DOS DEMARCHI LTDA E OUTROS, em 30/04/2018, por meio dos quais se impugna decisão, de minha lavra, assim fundamentada:
+"Trata-se de Embargos de Divergência, interpostos por RESTAURANTE FLORESTAL DOS DEMARCHI LTDA E OUTROS, em 29/01/2018, contra acórdão da Primeira Turma do STJ, da relatoria do Ministro SÉRGIO KUKINA, assim ementado:
+"RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL. INTEMPESTIVIDADE. COMPROVAÇÃO DE FERIADO LOCAL. NECESSIDADE. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. Em se tratando de recurso especial já interposto na vigência do novo CPC/2015, a interpretação sistemática dos arts. 1.029, § 3º, e 1.003, § 6º, do novo CPC/2015 impossibilita a mitigação ao conhecimento de recurso intempestivo. Assim, quando a parte recorrente não comprovar, no momento da interposição do apelo nobre, o feriado alegado, opera-se a preclusão consumativa, não havendo como afastar a intempestividade de tal recurso. Precedentes.
+2. Agravo interno a que se nega provimento" (fl. 849e).
+Nos Embargos de Divergência, a parte recorrente aponta divergência com o acórdão proferido pela Segunda Turma do STJ, no AgRg no REsp 1.442.460/PE, da relatoria do Ministro HERMAN BENJAMIN, e apresenta as seguintes razões recursais:
+"Cediço que , quando da interposição, os Recursos encaminhados às Superiores Instâncias têm severa apreciação no Tribunal de origem, os quais, inclusive, detém competência para aferir critérios de admissibilidade.
+Inequívoco, então, que a ele - Tribunal Regional - cabe análise acerca da tempestividade, condição inarredável ao acolhimento.
+No caso em foco, observa-se em fls. 736, que o Eg. Tribunal Regional Federal lançou certidão aferindo tempestividade do Recurso Especial. Logo, em absoluto poderia haver qualquer dúvida acerca do tema, inclusive por implicar invasão de competência.
+Nesse diapasão, o tardio afastamento sob argumento de intempestividade, quando certificado sem ressalvas tratar-se de recurso interposto dentro do prazo, revela afronta ao processado já que desautoriza pertinente conduta do Tribunal "a quo".
+Implica destacar que o afastamento do Reclamo, a despeito da Certidão exarada, diverge da interpretação das demais Turmas.
+À guisa de ilustração, cumpre destacar que o Em.
+Ministro HERMAN BENJAMINN , da 2ª Turma , no AgRg no Recurso Especial 1.442.460 - PE, assim decidiu em matéria análoga à presente:
+"Quanto à alegação de intempestividade, o Tribunal de origem, em decisão de admissibilidade (fl. 234/STJ), atestou a tempestividade do Recurso Especial interposto, reconhecendo, logicamente, a existência do feriado local. Por tal razão, não há que falar em ausência de documento idôneo que comprove a tempestividade."
+Não se pode perder de vista, ademais, que mesmo no V. Acórdão o entendimento foi por MAIORIA DE VOTOS, vencido o Em. Ministro NAPOLEÃO NUNES MAIA FILHO.
+Por tais razões, à evidência o posicionamento adotado no V. Aresto comporta modificação, no sentido de autorizar o destrancamento do Recurso, que ao final haverá de ser julgado totalmente procedente, principalmente para afastar ignóbil imputação de multa" (fls. 863/864e).
+Ao final, requer, "admissão dos Embargos eis que presentes os pressupostos e, no mérito, sejam julgados totalmente procedentes, único meio de restabelecer direito inconcusso dos Embargantes, de ver apreciadas questões cruciais ao deslinde do feito" (fls. 864/865e).
+Os Embargos de Divergência devem ser liminarmente indeferidos.
+De acordo com o art. 1.043 do CPC/2015, os Embargos de Divergência são cabíveis quando o acórdão de órgão fracionário, em recurso especial, divergir de qualquer outro órgão do STJ. Em conformidade, ainda, com o art. 1.044 do CPC/2015, observar-se-á, no recurso de Embargos, o procedimento estabelecido no Regimento Interno.
+Por sua vez, o Regimento Interno do STJ, em seu art. 266, § 4º, estabelece que a comprovação da divergência deve ser feita por certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, em que foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na internet, indicando a respectiva fonte. Em qualquer caso, o embargante deverá demonstrar a divergência, mediante transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+In casu, nota-se que a embargante deixou de demonstrar a alegada divergência, como exige a legislação processual e regimental, limitando-se a transcrever trecho da ementa do acórdão apontado como paradigma. Não foi realizado o indispensável cotejo analítico entre os acórdãos embargado e paradigma, de forma a evidenciar a semelhança fático-jurídica entre eles e o suposto dissenso das teses jurídicas adotadas.
+A propósito, já decidiu a Corte Especial do STJ:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. APLICAÇÃO DE MULTA. ART. 538, PARÁGRAFO ÚNICO, DO CPC. CONDICIONAMENTO DE DEPÓSITO DO VALOR DA MULTA IMPOSTA. DESCUMPRIMENTO. AUSÊNCIA DE COTEJO ANALÍTICO. MERA TRANSCRIÇÃO DE EMENTAS. DISSÍDIO NÃO DEMONSTRADO. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+(..)
+3. "Segundo o entendimento firme desta Corte, o manejo dos embargos de divergência deve atender ao disposto no art. 255 do RISTJ, com a caracterização do dissídio jurisprudencial a partir do cotejo analítico, não servindo a mera transcrição de ementas". (AgRg nos EREsp 1196175/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 02/05/2012, DJe 15/05/2012).
+4. Agravo regimental a que se nega provimento" (STJ, AgRg nos EREsp 1.318.306/PR, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 02/02/2015).
+"PROCESSO CIVIL. AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE COTEJO ANALÍTICO. NÃO DEMONSTRAÇÃO DA SIMILITUDE FÁTICA ENTRE OS ACÓRDÃO CONFRONTADOS.
+1. A embargante, ora agravante,- deixou de realizar o necessário cotejo analítico entre os acórdãos em comparação, com a demonstração dos trechos que eventualmente os identificassem, limitando-se à mera transcrição de ementas e à reprodução do teor dos acórdão, o que é insuficiente à comprovação do dissídio jurisprudencial invocado, nos termos do art. 266, § 1º, combinado com o art. 225, §§ 1º e 2º, do RISTJ.
+2. Não ficou configurada a similitude fática entre os acórdãos confrontados, obstando o conhecimento do dissídio jurisprudencial. No mesmo sentido: AgRg nos EAREsp 363.083/RS, Rel. Ministro Gilson Dipp, Corte Especial, julgado em 4/6/2014, DJe 10/6/2014; AgRg nos EAg 924.119/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 4/6/2014, DJe 17/6/2014; AgRg nos EAREsp 329.059/PR, Rel. Ministra Nancy Andrighi, Corte ESPECIAL, julgado em 21/5/2014, DJe 27/5/2014. Agravo regimental improvido" (STJ, AgRg nos EREsp 1.367.338/DF, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe de 02/02/2015).
+No mesmo sentido, o entendimento da Primeira Seção do STJ:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. INTERPOSIÇÃO DE EMBARGOS INFRINGENTES INCABÍVEIS. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE COTEJO ANALÍTICO E DE SIMILITUDE FÁTICA.
+1. Os embargos de divergência têm por escopo uniformizar a jurisprudência do Superior Tribunal de Justiça ante a adoção de teses conflitantes pelos seus órgãos fracionários.
+2. No caso concreto, o presente recurso não merece seguimento, haja vista que a embargante deixou de realizar o cotejo analítico entre os acórdãos em comparação, com a demonstração dos trechos que eventualmente os identificassem, limitando-se a mera transcrição de ementas, o que é insuficiente à comprovação do dissídio jurisprudencial invocado.
+3. Ademais, não se demonstrou a similitude fática nem a diversidade entre as teses confrontadas, pois enquanto o acórdão recorrido tratou da impossibilidade de interrupção do prazo recursal pela interposição de embargos infringentes incabíveis, o paradigma se refere à tese de que os declaratórios interrompem o prazo recursal.
+4. Os embargos de divergência não comportam a discussão a respeito de eventual erro fático cometido pelo Tribunal de origem, em face de seus estritos limites de conhecimento.
+5. Agravo regimental não provido" (STJ, AgRg nos EAREsp 522.829/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 17/03/2015).
+"TRIBUTÁRIO E PROCESSUAL CIVIL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS MOLDES LEGAIS E REGIMENTAIS. REJULGAMENTO DO RECURSO ESPECIAL. IMPOSSIBILIDADE.
+1. A comprovação da divergência jurisprudencial exige o cotejo analítico entre os julgados confrontados e a demonstração da similitude fática, partindo-se de quadro fático semelhante, ou assemelhado, para conclusão dissonante de julgamento quanto ao direito federal aplicável. No caso dos autos, o embargante não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa, limitando-se à mera transcrição das ementas.
+(..)" (STJ, AgRg nos EREsp 1.292.889/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe de 05/03/2015).
+Ante o exposto, com fundamento no art. 932, III, do CPC/2015, c/c os arts. 34, XVIII, a, e 266-C do Regimento Interno do STJ, indefiro liminarmente os Embargos de Divergência.
+I." (fls. 889/893e).
+Inconformada, a embargante sustenta o seguinte:
+"De início, comporta ressaltar que, nos moldes do contido no artigo 1.022, do CPC, também no artigo 263 do Regimento Interno desse C. Tribunal, está consignado:
+(..)
+Pois bem.
+Segundo prevê o artigo 266, do regimento Interno desse Eg. Superior Tribunal, está sedimentada a oportunidade de Embargos de Divergência quando a decisão guerreada divergir do entendimento exarado em Acórdão paradigma.
+No caso em foco, os Embargantes interpuseram Recurso autorizado pelo permissivo, intuindo alertar o D. Colegiado que o veredicto proferido afrontava entendimento unânime do Eg. Superior Tribunal, principalmente no pertinente a que a certidão aferindo tempestividade pelo Tribunal que recebe o Recurso, é bastante para esgotamento da matéria.
+Para o mister, destacou e juntou Arestos extraídos de site da própria Corte.
+Nada obstante, a R. Decisão usou como razão de decidir:
+"  Os embargos de Divergência devem ser liminarmente indeferidos.  "
+ainda que noticiado e comprovado que o Tribunal "a quo" certificou a tempestividade, o veredicto incorreu em erro material, pelo que cabível a revisão mediante Declaratórios.
+Com efeito pois, se o Egrégio Superior Tribunal, curvando-se a posicionamento adotado pela Corte Suprema, pela pena do Em. Ministro BENEDITO GONÇALVES, decidiu:
+(..)
+o afastamento liminar dos Embargos de Divergência utilizando como suporte precedentes anteriores ao aqui destacado, proferido em consonância com o Egrégio Supremo Tribunal, revela existência de erro material no julgado, motivo pelo qual comporta enfrentamento mediante os presentes Embargos Declaratórios" (fls. 331/332e).
+Requer, ao final, "o aclaramento da questão aqui suscitada, eis que essencial ao deslinde do feito, principalmente tomando por cerne os dispositivos que almejam ampliar e facilitar acesso à prestação jurisdicional" (fl. 899e).
+Os Embargos de Declaração não merecem ser conhecidos.
+Com efeito, seja à luz do art. 535 do CPC/73, ou nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Na espécie, contudo, a parte embargante não demonstrou haver contradição, obscuridade, omissão ou erro material a justificarem a oposição dos presentes Embargos de Declaração, vícios que não foram, sequer, apontados, como exige o art. 1.023, caput, do CPC/2015, ao assim dispor:
+"Art. 1.023. Os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo".
+Ressalte-se que a parte ora afirma "a ocorrência de omissão e também contradição na R. Decisão" (fl. 896e), ora a "existência de erro material no julgado (fl. 899e), sem demonstrar, no entanto, em que consistiriam tais vícios na decisão embargada.
+Vale observar que a ausência de indicação dos vícios que justificariam a oposição dos Embargos de Declaração, além de inobservar a exigência do art. 1.023 do CPC/2015, impede a exata compreensão da controvérsia, atraindo a incidência da Súmula 284 do STF, por analogia.
+A propósito, já decidiu a Corte Especial do STJ:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. NÃO DEMONSTRAÇÃO DE NENHUM DOS VÍCIOS PREVISTOS NO ART. 1.022 DO NOVO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO CONHECIMENTO.
+1. A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF.
+2. Embargos de declaração não conhecidos" (STJ, EDcl no AgInt nos EAREsp 635.459/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 15/03/2017).
+No mesmo sentido:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE DO ESTADO. RECURSO ESPECIAL INTEMPESTIVO. JULGAMENTO DE AGRAVO INTERNO QUE MANTÉM A DECISÃO. EMBARGOS DE DECLARAÇÃO SEM INDICAÇÃO DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida, atraindo a incidência, por analogia, do enunciado n. 284 da Súmula do STF.
+II - Embargos de declaração não conhecidos" (STJ, EDcl no AgInt no AREsp 865.398/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 08/03/2017).
+Cumpre destacar, por outro lado, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, em regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Com efeito, seja à luz do CPC/73 ou do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECLAMAÇÃO. RESOLUÇÃO STJ N. 12/2009. OMISSÃO. ACOLHIMENTO.
+1. Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como quando há erro material a ser sanado.
+2. Embargos declaratórios acolhidos sem efeitos infringentes" (STJ, EDcl nos EDcl na Rcl 28.977/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, DJe de 11/03/2016).
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA. HIPÓTESES DO ART. 535 DO CPC. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também esse recurso para se corrigir eventuais erros materiais constantes do pronunciamento jurisdicional.
+2. No caso, está evidenciado o intuito do embargante em rediscutir a matéria já integralmente decidida pelo órgão judicial recorrido, o que não se admite nos estreitos limites do art. 535 do CPC.
+3. Embargos de declaração rejeitados" (STJ, EDcl no AgRg nos EAREsp 540.453/RS, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada do TRF/3ª Região), PRIMEIRA SEÇÃO, DJe de 04/03/2016).
+Ante o exposto, não conheço dos Embargos de Declaração.
+I.
