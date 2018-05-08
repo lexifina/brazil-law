@@ -1,0 +1,12 @@
+Decisão: Trata-se de embargos de declaração em habeas corpus (eDOC 12) opostos em face da decisão monocrática de minha lavra que concedeu a ordem para determinar ao Juízo da 2ª Vara Criminal da Comarca de Piracicaba/SP que procedesse a nova individualização da pena, nos termos do artigo 192 do RISTF (eDOC 5).
+    Nos presentes embargos, a defesa alega omissão, porquanto não houve deliberação acerca do status libertatis do paciente. Requer, assim, seja assegurado a ele o direito de aguardar solto o exaurimento da instância ordinária, a ser eventualmente aberta após a nova decisão que será tomada pela magistrada de primeiro grau. (eDOC 12, p. 1-2)
+    Decido.
+    Em consulta ao sítio eletrônico do TJ/SP, verifico que, na data de 22.9.2017, o Juízo da 2ª Vara Criminal da Comarca de Piracicaba, em cumprimento ao que determinado nestes autos, proferiu nova sentença nos autos da Ação Penal 0000585-38.2015.8.26.0451, nos seguintes termos:
+    “Pena final para Renan, com extensão ao réu Paulo Ricardo: reclusão de 02 anos e 06 meses, em regime inicial aberto, e 250 dias-multa, diária mínima. Diante do exposto, JULGO PROCEDENTE a ação penal e o faço para CONDENAR RENAN FERNANDES RICOBELLO QUERO e PAULO RICARDO DA COSTA TOLEDO PIZA, qualificados nos autos, como incurso nas penas do artigo 33, caput, da Lei nº 11.343/06, cada um à pena de reclusão de 02 anos e 06 meses, em regime inicial aberto, e 250 dias-multa, diária mínima. Tendo em vista as novas orientações jurisprudenciais, mesmo diante de meu posicionamento pessoal, como os réus Renan e Paulo são primários e o crime não foi praticado mediante violência ou grave ameaça à pessoa, fazem jus à substituição da pena privativa de liberdade pelas penas restritivas de direitos consistentes em prestação de serviços à comunidade e prestação pecuniária de 01 salário mínimo. Expeça-se o competente alvará de soltura em favor do réu Paulo Ricardo da Costa Toledo Piza, oficiando-se à Vara das Execuções Criminais competente. Expeça-se contramandado de prisão em favor do réu Renan Ricobello Quero. (Entrementes, diga a defesa do réu Renan se tem interesse no manejo do recurso especial interposto).”
+    Diante disso, não mais subsiste o objeto deste recurso.
+    Ante o exposto, julgo prejudicado o presente recurso pela perda de objeto (RI/STF, artigo 21, inciso IX).
+    Publique-se.
+    Brasília, 8 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
