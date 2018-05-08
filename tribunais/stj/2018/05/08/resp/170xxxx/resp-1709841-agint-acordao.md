@@ -1,0 +1,68 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU O RECLAMO. IRRESIGNAÇÃO DO AGRAVADO.
+1. A Corte Especial, ao apreciar o AgInt no AREsp 957.821/MS, concluiu que a comprovação do feriado local deve ocorrer no ato da interposição do recurso, nos termos do art. 1.003, § 6º, do CPC/15. 1.1 Essa comprovação deve ser realizada por meio da apresentação de documento idôneo, no ato da interposição do recurso, de forma que a cópia de informações extraídas da internet, não é apta, por si só, a comprovar a tempestividade do recurso. Precedentes.
+2. A certidão de tempestividade expedida por servidor na instância ordinária não vincula o STJ, Corte competente para analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial. Precedentes.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno, interposto por [NOME], em face de decisão (fls. 145/146, e-STJ), da lavra da Presidência do STJ, que não conheceu recurso especial interposto pelo ora insurgente por considerá-lo intempestivo.
+Irresignado, o insurgente interpõe agravo interno (fls. 150/155, e-STJ), aduzindo, em síntese: i) a tempestividade foi certificada pela instância ordinária; ii) comprovou, no ato de interposição, a tempestividade do recurso, por meio dos documentos de fls. 113 e 114 (e-STJ), nos quais constam "hiperlink do TJRJ".
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU O RECLAMO. IRRESIGNAÇÃO DO AGRAVADO.
+1. A Corte Especial, ao apreciar o AgInt no AREsp 957.821/MS, concluiu que a comprovação do feriado local deve ocorrer no ato da interposição do recurso, nos termos do art. 1.003, § 6º, do CPC/15. 1.1 Essa comprovação deve ser realizada por meio da apresentação de documento idôneo, no ato da interposição do recurso, de forma que a cópia de informações extraídas da internet, não é apta, por si só, a comprovar a tempestividade do recurso. Precedentes.
+2. A certidão de tempestividade expedida por servidor na instância ordinária não vincula o STJ, Corte competente para analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial. Precedentes.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de derruir a fundamentação expedida no decisum monocrático.
+1. Na presente hipótese, a Presidência do STJ reconheceu a intempestividade do recurso especial, pois o acórdão recorrido foi publicado em 6/2/2017 e o apelo nobre, interposto somente em 2/3/2017, fora, portanto, do prazo de 15 (quinze) dias úteis previsto no art. 1.003, § 5º, do CPC/2015.
+Acerca da tempestividade recursal na vigência do CPC/2015, a Corte Especial, ao apreciar o AgInt no AREsp 957.821/MS, consignou que a comprovação do feriado local deve ocorrer no ato da interposição do recurso, nos termos do art. 1.003, § 6º, do CPC/2015.
+Por oportuno, confira-se a ementa do aludido leading case:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+(AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe 19/12/2017)
+1.1. O insurgente alega ter comprovado, no ato de interposição, a tempestividade do recurso, por meio dos documentos de fls. 113 e 114 (e-STJ), nos quais constam "hiperlink do TJRJ".
+Nos termos do § 6º do art. 1.003 do CPC/2015, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso.
+Verifica-se que às fls. 113 e 114 (e-STJ), a parte juntou um "Relatório de Simulação de Prazo", extraído da internet, no qual indica endereço eletrônico do site do TJ/RJ, sem, contudo, juntar o documento idôneo necessário à comprovação do alegado feriado local.
+A jurisprudência do STJ firmou-se no sentido de que a cópia de informações extraídas da internet, não é apta, por si só, a comprovar a tempestividade do recurso.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO ESPECIAL. INTEMPESTIVO. ART. 508 DO CPC/73. CÓPIA EXTRAÍDA DA INTERNET. TEMPESTIVIDADE. NÃO EVIDENCIADA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. A simples juntada de cópia de informações extraídas da internet não tem o condão, por si só, de comprovar a interposição tempestiva do recurso.
+4. Agravo interno não provido.
+(AgInt no AREsp 868.099/BA, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/08/2016, DJe 26/08/2016)
+2. Ressalte-se, ainda, que a certidão de tempestividade expedida por servidor na instância ordinária não vincula o STJ, Corte competente para analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO. INTEMPESTIVIDADE DO RECURSO ESPECIAL. SUSPENSÃO DOS PRAZOS PROCESSUAIS NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. ART. 1003. § 6º, CPC/2015. FERIADO LOCAL. RECURSO NÃO PROVIDO.
+1. O juízo de admissibilidade do recurso especial é bifásico. A decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade. Precedentes.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp 1684240/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/02/2018, DJe 28/02/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO CPC/2015. INTERPOSIÇÃO ALÉM DO PRAZO LEGAL. ARTS. 1.070 E 183 DO CPC/2015. INTEMPESTIVIDADE. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. Na forma da jurisprudência, "a certidão de tempestividade expedida por servidor na instância de origem, não vincula a análise dos requisitos realizada por esta Corte Superior" (STJ, AgRg no REsp 1.504.502/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 25/05/2015). No mesmo sentido: STJ, AgRg no AREsp 703.592/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 26/08/2015; AgRg nos EDcl no AREsp 737.702/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 06/04/2016; AgRg no REsp 1.517.786/CE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 07/03/2016.
+V. Agravo interno improvido.
+(AgInt no REsp 1670736/AM, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 07/12/2017, DJe 15/12/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE DO APELO ESPECIAL. NOVO CPC/2015. APLICABILIDADE. CONTAGEM DO PRAZO RECURSAL EM DIAS ÚTEIS. JUÍZO DE ADMISSIBILIDADE BIFÁSICO.
+ ..
+2. A existência de certidão do Tribunal de Origem atestando a tempestividade do recurso não tem o condão de vincular o Superior Tribunal de Justiça, a quem compete examinar, em definitivo, os requisitos de admissibilidade do apelo especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1673508/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/09/2017, DJe 13/10/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. ART. 1.003, § 6º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NOVO REGRAMENTO PROCESSUAL EXPRESSO. JUÍZO DE ADMISSIBILIDADE. CONTROLE BIFÁSICO.
+ ..
+4. O juízo de admissibilidade do recurso especial é bifásico, por isso, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar, novamente, o preenchimento dos pressupostos recursais.
+5. Agravo interno não provido.
+(AgInt no AREsp 1046973/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/06/2017, DJe 28/06/2017)
+É de rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
