@@ -1,0 +1,31 @@
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO PELO CONCURSO DE AGENTES. PRIMARIEDADE. PENA-BASE FIXADA NO MÍNIMO LEGAL. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. PENA ACIMA DE 4 E INFERIOR A 8 ANOS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO INIDÔNEA. ELEMENTOS INTRÍNSECOS AO TIPO PENAL VIOLADO. CONSTRANGIMENTO ILEGAL CONFIGURADO. SÚMULAS 718 E 719/STF E 440/STJ. APLICAÇÃO DO ART. 33. § 2º, b, DO CP.
+Ordem concedida de pronto.
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de [NOME] e de [NOME], ambos por incursos nas sanções do delito descrito no art. 157, § 2º, II, do Código Penal, a 5 anos e 4 meses de reclusão, regime inicial fechado, e 13 dias-multa, no piso (Processo n. 0009778-32.2014.8.26.0348, da 2ª Vara Criminal da comarca de Mauá/SP).
+Aponta-se constrangimento ilegal decorrente da manutenção, pelo Tribunal de Justiça de São Paulo, no julgamento da apelação, do regime fechado para início do cumprimento da pena privativa de liberdade.
+Argumenta-se que a "grave ameaça", o "concurso de agentes" e o "despojamento da vítima de seus bens" são circunstâncias inerentes ao tipo de roubo (fl. 8).
+Requer-se pronta a alteração do regime inicial para semiaberto.
+É o relatório.
+É manifesto o constrangimento ilegal sofrido pelos pacientes.
+Para o Tribunal paulista, o regime para cumprimento inicial da pena foi fixado com acerto. Isto porque em crimes que revelam ataque direto ao fundamento da dignidade da pessoa humana, havendo assim, gravidade concreta, o regime deve ser o fechado (fl. 24). No caso concreto, os acusados despojaram a vítima de seus bens, além de seu veículo, mediante grave ameaça e em concurso de pessoas, o que extrapola o corriqueiro e revela periculosidade ínsita a ponto de afastar o regime semiaberto (fl. 25).
+Sucede, no entanto, que, no caso, a Corte de origem entendeu pela determinação do regime fechado, utilizando, tão somente, fundamento genérico, sem apresentar elementos que realmente viabilizassem o início da reprimenda carcerária no regime mais gravoso do que a pena comporta, em contrariedade às disposições das Súmulas 718 e 719/STF e 440/STJ.
+A configuração do roubo circunstanciado, como na espécie, pelo concurso de dois agentes não se revela, por si só, como condição suficiente para agravar o regime inicial da pena, haja vista tal elemento ser intrínseco ao tipo penal violado.
+A propósito, colaciono precedentes de ambas as turmas da Terceira Seção desta Corte:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. REGIME INICIAL SEMIABERTO. POSSIBILIDADE. PENA-BASE FIXADA NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. VERBETE N. 440 DA SÚMULA DO STJ.
+1. É inidônea a fixação de regime inicial mais severo com apoio apenas na opinião em abstrato do julgador quanto ao crime de roubo majorado, sobretudo quando o apenado é primário e a pena-base não vai além do mínimo legal, como na espécie. Súmula n. 440 do STJ.
+2. A grave ameaça ou violência, o emprego de arma de fogo e o concurso de agentes são elementos inerentes ao tipo penal e à causa de aumento, não servindo para impor modo de resgate mais gravoso do que aquele previsto no artigo 33, § 2º, do CP, haja vista tais circunstâncias já terem sido sopesadas pelo legislador quando da definição das penas em abstrato.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.563.247/SP, Ministro Jorge Mussi, Quinta Turma, DJe 11/3/2016 - grifo nosso)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. VIOLAÇÃO DOS ARTS. 33, § 2º E § 3º, E 59, AMBOS DO CP. CONSTATADA PRIMARIEDADE. PENA-BASE FIXADA NO MÍNIMO LEGAL. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA DO DELITO. SÚMULAS 718 E 719/STF. SÚMULA 440/STJ. PENA DEFINITIVA ESTIPULADA EM 6 ANOS E 3 MESES DE RECLUSÃO. APLICAÇÃO DO ART. 33. § 2º, B, DO CP.
+1. A questão veiculada no recurso especial diz respeito à verificação da ofensa aos arts. 33, § 2º e § 3º, e 59, ambos do Código Penal, notadamente porque desconsiderada a individualização da pena, ao ser fixado regime mais gravoso a condenado primário e sem circunstâncias judiciais negativadas.
+2. A Corte de origem entendeu pela determinação do regime fechado, utilizando, tão somente, de fundamento genérico, sem apresentar elementos do caso em concreto que viabilizassem o início da reprimenda carcerária no regime fechado, em contrariedade às Súmulas 718 e 719/STF e Súmula 440/STJ.
+3. A configuração do roubo circunstanciado, no caso, pelo emprego de arma de fogo, não se revela, por si só, como condição suficiente para agravar o regime inicial da pena, haja vista tal elemento ser intrínseco ao tipo penal violado.
+4. A grave ameaça ou violência, o emprego de arma de fogo e o concurso de agentes são elementos inerentes ao tipo penal e à causa de aumento, não servindo para impor modo de resgate mais gravoso do que aquele previsto no artigo 33, § 2º, do CP, haja vista tais circunstâncias já terem sido sopesadas pelo legislador quando da definição das penas em abstrato (AgRg no REsp n. 1.563.247/SP, Ministro Jorge Mussi, Quinta Turma, DJe 11/3/2016).
+5. Fixada a pena-base no mínimo legal (4 anos - art. 157, caput, do CP) e não ostentando o agravado antecedentes criminais, é descabida a fixação de regime mais gravoso sem a existência de fundamentação idônea.
+6. Agravo regimental improvido.
+(AgRg no REsp n. 1.666.458/SP, de minha relatoria, Sexta Turma, DJe 9/10/2017)
+Ora, fixada a pena-base no mínimo legal (4 anos - art. 157, caput, do CP) e não ostentando os pacientes antecedentes criminais, é descabida a fixação de regime mais gravoso sem a existência de fundamentação suficiente para tanto, nos termos das referidas súmulas.
+Logo, o acórdão originário está em confronto com a jurisprudência dominante desta Corte Superior e, levando-se em consideração a penal final cominada aos réus (5 anos e 4 meses de reclusão), é permitida a imposição do regime semiaberto, conforme disposto no art. 33, § 2º, b, do Código Penal.
+Pelo exposto, concedo a ordem liminarmente a fim de alterar o regime prisional inicial de [NOME] e de [NOME], relativamente à pena privativa de liberdade aplicada no Processo n. 0009778-32.2014.8.26.0348, da 2ª Vara Criminal da comarca de Mauá/SP, para semiaberto.
+Publique-se.
