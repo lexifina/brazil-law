@@ -1,0 +1,52 @@
+EMENTA
+RECURSO ESPECIAL. PENAL E PROCESSO PENAL. ROUBO. INVERSÃO DA POSSE DO BEM. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. FIXAÇÃO DE REGIME MAIS GRAVOSO PARA O INÍCIO DE CUMPRIMENTO DA PENA. FECHADO. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. IMPOSSIBILIDADE. PRECEDENTES. RECURSO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por LUIS [NOME], com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 256):
+APELAÇÃO CRIMINAL - Roubo majorado - Roubo consumado - Súmula n. 582, do Superior Tribunal de Justiça - Teoria da apprehensio - A consumação do roubo se dá com o mero emprego da grave ameaça e/ou violência e respectiva inversão da posse da res - readequação da pena - regime fechado mais adequado - Recursos defensivo desprovido e recurso ministerial provido.
+Em seu recurso especial, o recorrente alega violação ao artigo 157 do Código Penal, ao argumento de que "no momento da entrega da pecúnia, um cliente e amigo da Vítima, imobilizou o Recorrente impedindo que o roubo se consumasse. Não houve o contato do Apelado com a coisa, tampouco a inversão da posse, ainda que por breve tempo" (fl. 277).
+Sustenta negativa de vigência ao artigo 33, §§ 2º e 3º, do Código Penal. Para tanto, afirma que "a decisão que fixou o início de cumprimento de pena no regime fechado carece de fundamentação" (fl. 278).
+Requer, ao final, o provimento do recurso para que seja reconhecida a modalidade tentada do delito e estabelecido o regime aberto para início de cumprimento da pena.
+Apresentadas as contrarrazões e admitido o recurso especial, opina o Ministério Público Federal pelo provimento do apelo nobre.
+É o relatório.
+O Tribunal de origem, ao reconhecer a consumação do delito, afirmou que houve a inversão da posse do bem objeto do delito sob a seguinte fundamentação (fl. 257/258):
+Não há que se falar em roubo em sua modalidade tentada.
+Conforme Súmula recente do Colendo Superior Tribunal de Justiça, uniformizando o entendimento de que ao roubo se aplica a teoria da apprehensio para a consumação:
+Súmula n. 582. "Consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada".
+Ou seja, com a grave ameaça e inversão da posse da res, o delito já estava consumado.
+Assim, uma vez que restou comprovado através da confissão e depoimento da vítima, o emprego da grave ameaça e a posse do dinheiro pelo Réu, mesmo que ele tenha sido detido ainda no local, consumou-se o roubo.
+Dessarte, tendo as instâncias ordinárias concluído, de maneira devidamente fundamentada, que houve a inversão da posse do bem, rever esse entendimento não é cabível a este Superior Tribunal de Justiça porque demanda o reexame das premissas fático-probatórias estabelecidas na origem, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7/STJ.
+Nessa linha de raciocínio, confiram-se:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. ALEGADA INEXISTÊNCIA DE ELEMENTOS COMPROBATÓRIOS ABSOLVIÇÃO OU REDUÇÃO DA PENA. NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO. VEDAÇÃO DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A desconstituição do entendimento firmado pelo Tribunal de piso diante de suposta contrariedade a lei federal, buscando a absolvição por ausência de provas da autoria ou a mera redução da pena, não encontra campo na via eleita, dada a necessidade de revolvimento do material probante, procedimento de análise exclusivo das instâncias ordinárias - soberanas no exame do conjunto fático-probatório -, e vedado ao Superior Tribunal de Justiça, a teor da Súmula 7/STJ.
+2. Agravo regimental não provido.
+(AgRg no AREsp 190.162/RR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/06/2013, DJe 01/08/2013)
+AGRAVO DE INSTRUMENTO. ART. 157, § 3º, E 29 DO CP. LATROCÍNIO. CONCURSO DE AGENTES. PROVAS SUFICIENTES A RESPALDAR A AUTORIA E MATERIALIDADE DO DELITO. ACÓRDÃO A QUO FIRMADO EM MATÉRIA FÁTICA. FUNDAMENTOS DO DECISUM AGRAVADO NÃO INFIRMADOS EM SUA TOTALIDADE PELOS AGRAVANTES. SÚMULAS 7 E 182/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. O Tribunal a quo concluiu que o conjunto de testemunhos revela, de forma insofismável, a autoria do delito de latrocínio. Na via especial, revisar tal conclusão - em particular acerca da pretensão relativa à absolvição dos condenados por ausência de provas - não se faz possível, em razão do óbice da Súmula 7/STJ.
+2. Incidência da Súmula 182/STJ.
+3. O agravo regimental não merece prosperar, porquanto as razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada.
+4. Agravo regimental improvido.
+(AgRg no Ag 1427158/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/09/2012, DJe 01/10/2012)
+Quanto ao regime de cumprimento de pena, o magistrado de primeiro grau asseverou que (fl. 121):
+O regime de cumprimento de pena é o fechado, em face da conduta antissocial do réu, que desafia a vida humana para a violação do patrimônio alheio sem qualquer respeito às normas de convívio social.
+O Tribunal de origem, por sua vez, consignou que (fls. 259):
+Por fim, o regime inicial de cumprimento da pena é o fechado e não poderia ser outro, dada a evidente periculosidade do Réu, bem como pela necessidade de garantir-se a ordem pública que, evidentemente fica exposta e casos como o dos autos.
+Conforme se observa dos trechos acima citados, as instâncias ordinárias fixaram o regime inicial fechado sem apontar qualquer fundamentação idônea.
+Destaca-se que o recorrente foi condenado à pena de 4 anos de reclusão, como incurso no artigo 157, caput, do Código Penal, o que implicaria na fixação do regime aberto, à luz do que dispõe o artigo 33, § 2º, alínea "c", do Código Penal. Entretanto, o regime inicial fechado para o cumprimento da pena imposta foi estabelecido sem fundamentação concreta, apesar de a pena-base ter sido fixada no mínimo legal.
+Já foi decidido inúmeras vezes por esta Corte que a fundamentação abstrata, como "a gravidade dos fatos" não é idônea a legitimar a fixação de regime prisional mais rigoroso do que o permitido por lei. Ademais, causa espécie fixar-se a pena-base no mínimo legal e, posteriormente, deixar-se de estabelecer o regime inicial menos gravoso aplicável ao caso, conforme o disposto no artigo 33, §§ 2º e 3º, do Código Penal.
+Portanto, os argumentos das instâncias ordinárias são inidôneos, não servindo de fundamentação apta para fixar o regime inicial diverso do aberto. Nessa linha de raciocínio, confiram-se o seguinte julgado deste Sodalício:
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. INADEQUAÇÃO DA VIA ELEITA. ROUBO CIRCUNSTANCIADO. REGIME. PENA-BASE FIXADA NO MÍNIMO LEGAL. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA PARA A FIXAÇÃO DE REGIME INICIAL MAIS GRAVOSO. ENUNCIADOS N. 440 DA SÚMULA DO STJ E N. 718 E 719 DA SÚMULA DO STF. ILEGALIDADE DEMONSTRADA. HABEAS CORPUS NÃO CONHECIDO. CONCESSÃO DA ORDEM, DE OFÍCIO.
+1. O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito (enunciado n. 440 da Súmula do STJ) e, no mesmo sentido, os enunciados n. 718 e 719 da Súmula do STF.
+3. No caso dos autos, ao paciente primário, após a pena-base ter sido fixada no mínimo legal, em razão da ausência de circunstâncias judiciais desfavoráveis, e a pena definitiva ter ficado nos patamares definidos no art. 33, § 2º, "c", do Código Penal, o regime inicial mais gravoso foi fixado sem fundamentação idônea, a atrair a incidência dos referidos enunciados sumulares.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime aberto.
+(HC 375.701/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 14/02/2017, DJe 17/02/2017)
+De fato, a gravidade genérica do crime, tampouco elementares do próprio delito, justificam a imposição de regime prisional mais gravoso por não constituir fundamentação idônea. Este entendimento está pacificado nesta Corte Superior conforme enunciado 440 da Súmula deste STJ que aduz que "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+Outro não é o entendimento do Supremo Tribunal Federal, sumulado nos enunciados 718 e 719:
+Enunciado n.º 718: "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+Enunciado n.º 719: "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+Assim, verifica-se que o Tribunal a quo fixou o regime inicial equivocadamente, pois tendo o recorrente sido condenado à pena de 4 anos de reclusão, e não havendo fundamentação idônea que justifique a imposição do regime fechado, o recorrente faz jus ao regime inicial aberto, pois preenchidos os requisitos do artigo 33, § 2º, alínea "c", do Código Penal.
+Do exposto resulta que o acórdão recorrido está em sentido contrário à jurisprudência desta Corte Superior de Justiça acerca do tema, cabendo a esta relatora dar provimento ao recurso nos termos do enunciado nº 568 da Súmula desta Corte, verbis:
+O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com base no artigo 932, inciso V, alínea "a" do novo Código de Processo Civil, conheço parcialmente do recurso especial, e nesta extensão dou provimento ao apelo nobre para fixar o regime aberto para o início de cumprimento da reprimenda.
+Publique-se.
+Intimem-se.
