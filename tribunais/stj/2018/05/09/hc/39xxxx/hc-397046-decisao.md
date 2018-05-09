@@ -1,0 +1,6 @@
+DECISÃO
+LUCIANO PENTEADO, paciente neste habeas corpus, estaria sofrendo constrangimento ilegal ao seu direito de locomoção, em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo, que denegou a ordem postulada no HC n. 2022209-36.2017.8.26.0000, lá impetrado com vistas à revogação de sua custódia cautelar
+Deferi liminar para, até o julgamento final deste writ, substituir a prisão preventiva do paciente por medidas cautelares diversas do cárcere, a serem instituídas pelo Juízo de primeiro grau de forma a permitir a manutenção de seu emprego, nada obstando que novo édito segregatório viesse a ser proferido por aquela instância, mas desde que atendidos os requisitos constitucionais e legais (fls. 760-763).
+Em consulta à Corte de origem, verifica-se, todavia, que, em 25/1/2018, foi prolatada sentença condenatória em desfavor do paciente, oportunidade em que o Juízo de primeiro grau, no entanto, concedeu-lhe o direito de apelar em liberdade, o que, inequivocamente, a teor do que dispõe o art. 387, § 1º, do Código de Processo Penal, evidencia a prejudicialidade deste habeas corpus.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado este habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
