@@ -1,0 +1,36 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto pelo MUNICÍPIO DE ARANDU, com base no art. 105, II, b, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 234e):
+MANDADO DE SEGURANÇA - Impetração contra ato judicial que extinguiu ação de execução fiscal, em virtude de ter a mesma valor antieconômico a ensejar o reconhecimento de falta de interesse de agir - Não cabimento de mandado de segurança como sucedâneo de recurso que não foi interposto - Inteligência das Súmulas nºs. 640 e 267 do STF - Posição recente da Primeira Turma do STJ sobre o tema - Denegação da ordem que se impõe, nos termos do artigo 6º, § 5º, da Lei nº 12.016/2009 - Mandado de segurança denegado.
+Nas razões recursais, alega-se, em síntese (fl. 247e):
+Por outro lado, a análise a respeito do interesse de agir, tendo por base o custo para o manejo da ação executiva e o valor do crédito tributário, cabe ao sujeito ativo da relação tributária, constituido questão de mérito administrativo, devendo ser ressaltado que o custo apontado pelo mencionado estudo é suportado pelo Poder Judiciário Estadual, não pela Fazenda Municipal. Destarte, ao extinguir os processos de execução fiscal, o MM. Juiz de Direito do Serviço de Anexo Fiscal da Comarca de Avaré está interferiu na esfera de autonomia do Poder Executivo Municipal, ingerência inaceitável em face dos ditames constitucionais.
+Outro aspecto a ser ressaltado é que na prática a extinção de execuções fiscais de valor inferior a R$ 576,40 sem previsão legal equivale a recusa de prestação jurisdicional, tendo em vista que digreções a respeito do custo com a tramitação processual não constituem causa legal para a extinção de qualquer espécie de processo.
+Além disso, o município não dispõe de outro meio para receber seus créditos tributários em atraso a não ser promovendo a execução judicial de seus méritos.
+Nessa esteira, como ressaltado, a análise sobre a conveniência ou não de propor a medida judicial constitui questão de mérito administrativo, cuja análise é vedada ao judiciário, na qual deve ser considerada os custos suportados pelo ente público titular do crédito tributário, não do órgão responsável pela prestação jurisdicional.
+Sem contrarrazões, subiram os autos a esta Corte, admitido o recurso na origem (fl. 253e)
+O Ministério Público Federal manifestou-se às fls. 349/352e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Preenchidos os pressupostos de admissibilidade, passo ao exame do recurso.
+O tribunal de origem denegou a segurança nos seguintes termos (fl. 235e):
+Com efeito, entende-se imperiosa a incidência, in casu, da Súmula nº 640 do C. Supremo Tribunal Federal, que dispõe sobre o cabimento de recurso extraordinário contra decisão de juiz de primeiro grau nas causas que envolvem valor de alçada (a exemplo do que se verifica nas decisões proferidas nos embargos infringentes do art. 34 da Lei n. 6.830/1980), bem como da Súmula nº 267 do mesmo Tribunal ("Não cabe mandado de segurança contra ato judicial passível de recurso ou correição").
+Nas razões do Recurso Ordinário, tal fundamentação não foi refutada, repercutindo na inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ACÓRDÃO RECORRIDO. FUNDAMENTO NÃO IMPUGNADO. APLICABILIDADE DA SÚMULA 283/STF.
+1. A jurisprudência do STJ é pacífica quanto à aplicabilidade da Súmula 283/STF nos julgamentos de Recursos Ordinários em Mandado de Segurança.
+2. Hipótese na qual o Tribunal a quo denegou a Segurança, por entender que a verba controvertida possui natureza de gratificação de caráter temporário e que a incorporação desse tipo de parcela remuneratória aos proventos de aposentadoria passou a ser vedada pelo art. 7º da LC Estadual 64/2002.
+3. Por seu turno, o recorrente não combateu especificamente o fundamento autônomo relativo ao art. 7º da LC 64/2002, o que atrai o incidência da Súmula 283/STF, aplicável por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. Agravo Regimental não provido.
+(AgRg no RMS 45.594/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/02/2015, DJe 20/03/2015).
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO ATACADO. INCIDÊNCIA ANALÓGICA DO VERBETE SUMULAR 283/STF. RECURSO NÃO PROVIDO.
+1. Nos termos do enunciado sumular 283/STF, de aplicação analógica ao recurso ordinário, deve o recorrente impugnar especificamente todos os fundamentos do pronunciamento judicial que pretende reverter, sob pena de, não o fazendo, vê-lo mantido.
+2. Recurso ordinário não provido.
+(RMS 37.941/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 18/12/2012, DJe 04/02/2013).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. APOSTILAMENTO. INTERPRETAÇÃO SISTÊMICA DA LEGISLAÇÃO DE REGÊNCIA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. INCIDÊNCIA.
+1. A Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido.
+2. Agravo regimental a que se nega provimento.
+(AgRg no RMS 30.555/MG, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 26/06/2012, DJe 01/08/2012).
+Com efeito, à luz do princípio da dialeticidade, constitui ônus do Recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, NEGO SEGUIMENTO ao Recurso Ordinário em Mandado de Segurança.
+Publique-se e intimem-se.
