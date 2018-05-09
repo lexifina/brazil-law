@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] GARCIA MATTOS FILHO, apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Consta nos autos que o Juízo da Vara de Execuções Criminais determinou a data da prisão provisória como marco inicial para o cálculo dos benefícios executórios (e-STJ, fl. 29-33).
+Inconformado, o Ministério Público interpôs agravo em execução, ao qual foi dado provimento nos termos da seguinte ementa (e-STJ, fl. 72):
+"AGRAVO EM EXECUÇÃO - CONDENAÇÃO SUPERVENIENTE - UNIFICAÇÃO DAS PENAS - MARCO INICIAL PARA A CONTAGEM DE BENEFÍCIOS - INEXISTÊNCIA DE TRÂNSITO EM JULGADO DA ÚLTIMA CONDENAÇÃO - DATA DA PUBLICAÇÃO DA SENTENÇA - RECURSO PROVIDO.
+- Sobrevindo nova condenação no curso da execução da pena, o marco inicial para cômputo de benefícios deve coincidir com o da data do trânsito em julgado da superveniente sentença condenatória do apenado. Contudo, tratando-se de execução provisória, inexistindo trânsito em julgado para ambas as partes, deve ser adotado como marco inicial para a contagem de benefícios a data da publicação da sentença penal condenatória.
+- Recurso provido."
+Neste writ, alega a impetrante, em suma, a ocorrência de constrangimento ilegal, tendo em vista que a Corte Estadual considerou como marco inicial para a contagem de benefícios a data da publicação da sentença após unificação da pena pela prática de outro delito, porém, afirma o defensor que no caso não houve unificação de penas (e-STJ, fls. 1-11).
+Assevera que "o recorrente cumpre pena por um único crime, recolhido em regime fechado, pela prisão preventiva, desde 01.12.2014.  ..  in casu, não há unificação de penas, visto que o recorrente cumpre pena por apenas 01 delito (e-STJ, fl. 9).
+Requer "seja concedido o habeas corpus, a fim de reformar o r. acórdão objurgado, pugnando a defesa pela manutenção da decisão do juízo primevo" (e-STJ, fl. 129).
+A liminar foi indeferida (e-STJ, fl. 97).
+Prestadas informações às fls. 104-122 (e-STJ), manifestou-se o Ministério Público Federal pela denegação da ordem (e-STJ, fls. 128-130).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+Consta dos autos que o Ministério Público estadual requereu a retificação do atestado de pena do paciente, de modo a alterar o marco inicial para a contagem de benefícios da execução penal para a data da publicação da sentença condenatória, uma vez que se encontrava estabelecido no dia da prisão em flagrante do sentenciado.
+O Juízo das Execuções Criminais indeferiu o pedido ministerial, mantendo o referido marco inalterado (e-STJ, fls. 29-33).
+Inconformado, o Parquet interpôs agravo em execução penal perante o Tribunal a quo, que por sua vez foi julgado procedente para estabelecer como marco inicial para obtenção de benefícios futuros a data da publicação da sentença condenatória. Eis os fundamentos do acórdão:
+" ..
+Cinge-se a questão, aparentemente simplória, em se aferir se a data fixada como novo marco para a obtenção de benefícios, em razão da unificação das penas, seria a da última prisão em flagrante do reeducando, ou a da data da decisão de unificação, ou ainda a do trânsito em julgado da última condenação.
+Em termos gerais, sem delongas, a nova data-base deverá ser a do trânsito em julgado da última condenação.
+Isso porque a partir da data do trânsito em julgado é que ficou reconhecido em desfavor do recuperando a existência do outro crime, o que deve gerar reflexos em sua vida prisional, pois nessa data a sua responsabilidade foi sedimentada.
+(..)
+Contudo, há uma peculiaridade no caso em tela, que fora apontada pelo próprio agravante (f. 08), eis que tratando-se de execução provisória de pena, inexiste registro de trânsito em julgado para a acusação e para a defesa, conforme se vê à f. 11.
+Nesses casos, a jurisprudência tem caminhado no sentido de fixar a data da publicação do édito condenatório como o marco para a contagem dos benefícios.
+(..)
+Em face do exposto, DOU PROVIMENTO AO RECURSO, para fixar a data da publicação da sentença condenatória pela prática do novo crime (31/08/2015 - f. 11) como o marco inicial para a obtenção de novos benefícios referentes à execução da pena.
+ .. " (e-STJ, fls. 73-76)
+Com efeito, muito embora conste do habeas corpus originário, que o presente caso versaria sobre a alteração do marco interruptivo para fins de benefícios em decorrência da unificação de penas, de fato, como ressaltado pela Defensoria Pública, cuida-se de execução de um único crime e não de unificação de penas.
+Sobre o tema em debate, ressalte-se, desde logo, que as Turmas que compõem a Terceira Seção desta Corte têm, ambas, pacífico entendimento de que, em caso de superveniente condenação definitiva imposta ao sentenciado, decorrente de fato anterior ou posterior ao início da execução penal, a contagem do prazo para concessão de benefícios é interrompida e deve ser feito novo cálculo, com base no somatório das penas.
+Tal posicionamento, contudo, estabelecia, como termo a quo para concessão de futuros benefícios, a data do trânsito em julgado da última sentença condenatória.
+Entretanto, no julgamento do Recurso Especial n. 1.557.461/SC, de relatoria do Ministro ROGERIO SCHIETTI CRUZ, publicado em 15/3/2018, a Terceira Seção deste Superior Tribunal modificou sua linha jurisprudencial sobre a matéria, passando a adotar parâmetro distinto, conforme revela a ementa do aludido precedente:
+"RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto.
+Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado.
+As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido". (REsp 1.557.461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/2/2018, DJe 15/3/2018).
+Naquela oportunidade, proferi voto vogal - abaixo parcialmente transcrito - que delineia as balizas da nova diretriz pretoriana, no que tange à fixação da data-base para a aquisição de benesses na execução, após a unificação de penas:
+" ..  Existem pelo menos quatro modalidades de fixar a data-base que aparecem de forma recorrente em decisões nos tribunais, adotados de acordo com o caso concreto: a) data da última prisão; b) data da soma de penas; c) data do cometimento do delito ou d) data do trânsito em julgado da última condenação.
+Entendo que a questão requer estudo detalhado, uma vez que, a depender do marco considerado para progressões futuras, pode-se alongar, e muito, o tempo de prisão em um regime mais gravoso, violado o sistema progressivo da execução e contribuindo sobremaneira para a superlotação carcerária, mantendo-se por mais tempo o encarceramento.
+Assim, diante das várias interpretações possíveis, deve-se optar, no caso concreto, por aquela que mais garante o direito à liberdade do reeducando.  ..
+Importante consignar que prática de falta grave no curso da execução interrompe o prazo para a progressão de regime na data do fato e não na data posterior que reconhece a infração. Entendimento já firmado no enunciado da Súmula 543 do STJ:
+"A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração".
+Esse entendimento foi sintetizado pela Terceira Seção do Superior Tribunal de Justiça no julgamento do EREsp 1.176.486, o qual consignou que " ..  o cometimento de falta grave pelo sentenciado no curso da execução da pena, nos termos do art. 127 da Lei 7.210/84, implica  ..  nova fixação da data-base para concessão de benefícios, exceto livramento condicional e comutação de pena" (EREsp 1.176.486, Rel. ministro Napoleão Nunes Maia Filho, 3ª S., DJe 1º/6/2012).
+Quanto ao tema, rememoramos as Súmulas n. 441 e 535 do STJ, a seguir reproduzidas, respectivamente:
+"A falta grave não interrompe o prazo para obtenção de livramento condicional".
+"A prática de falta grave não interrompe o prazo para fim de comutação de penas ou indulto".
+Dessa forma, se a data-base para a progressão de regime é a data cometimento da infração, idêntico entendimento deve ser aplicado à hipótese de cometimento de crime no curso da execução, já que também constitui falta disciplinar de natureza grave.
+Logo, a prática de fato definido como crime doloso no curso da execução constitui falta grave e ocasiona a alteração da data-base, configurando constrangimento ilegal nova alteração da data-base em razão da superveniência do transito em julgado de sentença condenatória.
+Diante do exposto, pedindo vênia à divergência, acompanho o relator para negar provimento ao recurso especial, entendendo que se deve fixar a data da última prisão como marco interruptivo para concessão de benefício, no caso de crimes cometidos antes da execução da pena, e, nos casos de delitos cometidos no curso da execução, a data do cometimento da última infração disciplinar (último fato criminoso)."
+No caso dos autos, o acórdão impugnado entendeu que data-base para a concessão de futuros benefícios seria a data da sentença, o que diverge da orientação firmada pela Terceira Seção do STJ.
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus, mas concedo a ordem, de ofício, para restabelecer a decisão do Juízo de Direito da Vara de Execuções Criminais da Comarca de Muriaé/MG (e-STJ, fls. 29-33), nos autos do processo de execução criminal n. 0439.15.013224-9.
+
+Publique-se. Intime-se.
