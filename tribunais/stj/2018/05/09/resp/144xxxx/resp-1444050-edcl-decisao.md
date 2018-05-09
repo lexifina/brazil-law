@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Fedex Brasil Logistica e Transporte Ltda., contra decisão de fls. 1.104/1.110, que determinou a devolução dos autos ao Tribunal de origem porquanto a questão trazida nos presentes autos coincidiria com aquela afetada no repetitivo REsp 1.221.170/PR - Tema 780/STJ.
+Sustenta a parte embargante, em resumo: (I) a necessidade de julgamento imediato do agravo em recurso especial da Fazenda pelo STJ, uma vez que o mérito deste não teria semelhança com o repetitivo; e (II) que o agravo deve ser desprovido, por intempestividade ou por versar sobre matéria constitucional.
+Requer o acolhimento dos presentes aclaratórios para que seja sanado o vício apontado.
+Intimada, a Fazenda Nacional apresentou a impugnação de fls. 1.132/1.136, postulando a rejeição dos aclaratórios.
+É o relatório.
+Não prospera a irresignação da parte embargante.
+De acordo com o estatuído no art. 1022 do CPC/15, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado decidiu com fundamentação suficiente a controvérsia posta no recurso.
+Ademais, a fim de afastar qualquer dúvida quanto à necessidade de devolução dos autos ao Tribunal de origem, verifica-se que, em razão de economia processual e para se evitar a prolação pelo STJ de provimentos jurisdicionais em desconformidade com o que foi definitivamente decidido pela Corte Suprema, conveniente que a apreciação do recurso especial fique sobrestada até o exaurimento da competência do Tribunal de origem, com o rejulgamento da apelação para fins de realização do juízo de retratação ou de conformação, a ser realizado pela instância ordinária, após o julgamento do mencionado recurso extraordinário em repercussão geral, nos moldes dos arts. 1.040 e 1.041 do CPC/2015.
+Dessa forma, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo.
+Nesse contexto, havendo questões impugnadas no agravo da Fazenda distintas daquela objeto da afetação pelo STJ, aplicável se mostra, mutatis mutandis, o comando previsto no art. 1.037, § 7º, do CPC/2015, que determina seja julgada em primeiro lugar a matéria afetada, para apenas depois se prosseguir na resolução do resíduo não alcançado pela afetação. Ademais, a posterior decisão do STJ no repetitivo poderá afetar o julgamento da matéria veiculada no agravo fazendário.
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se.
