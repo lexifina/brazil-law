@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 284/STF.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 120):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. CADIN E SERASA. CRÉDITO TRIBUTÁRIO COM EXIGIBILDIADE SUSPENSA. COMPROVAÇÃO. INOCORRÊNCIA.
+Inexiste prova de que os valores depositados correspondam, integralmente, ao valor cobrado pela Fazenda Pública Estadual e, portanto, se afira que se estivesse diante de cobrança com exigibilidade suspensa, a teor do disposto no art. 151, II, do CTN.
+Considerando que o recorrente não comprovou ônus que lhe incumbe - ato ilícito - inexiste fato basilar à triangulação necessária (ilícito - nexo causal - dano) ao pagamento indenizatório.
+APELO DESPROVIDO.
+No recurso especial, a recorrente alega o seguinte: a) a recorrente, por exclusivo desentendimento do Município de Caxias do Sul/RS com o Estado do Rio Grande do Sul no que se refere à tributação dos bens que produz, um exigindo o recolhimento do ISS e o outro o recolhimento do ICMS sobre os mesmos fatos, criando-lhes incalculáveis transtornos, inclusive com os seus próprios clientes, obrigou-se a ajuizar ação de consignação em pagamento, com dissabores, gastos e custas, contra ambos os entes públicos, postulando autorização judicial para os fins de depósito judicial do valor do ICMS até que haja decisão a respeito da titularidade ativa da tributação, depósito este que foi deferido, mês a mês; b) apesar disso, o Estado do Rio Grande do Sul passou a inscrever a recorrente no SERASA EXPIRIAM e no CADIN, sob o argumento de que os depósitos não suspendem a exigibilidade dos débitos; c) os valores depositados, por guias de depósitos judicial remunerado, emitidas pelo Cartório Judicial, com número de processo e tudo mais, não podem ser omitidas nesse grau, dispensando qualquer outra prova em homenagem ao disposto no art. 374, inc. I, do NCPC, a exemplo do antigo CPC, sendo que suspendem a exigibilidade do crédito tributário, na forma do art. 151, inc. II, do CTN; d) o Estado do Rio Grande do Sul, além das inscrições no CADIN, no SERASA EXPIRIAM e em dívida ativa, lançou, ainda, multas e juros sobre todos os valores depositados, razão da discrepância entre valores depositados e valores inscritos por ele inscritos; e) havendo o deferimento do depósito, como houve, o efeito da suspensão da exigibilidade é da lei e, nesse caso, não pode haver incidência de qualquer acréscimo, muito menos de multa.
+Com contrarrazões.
+Neste agravo, afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontra presente o óbice apontado na decisão agravada.
+É o relatório. Decido.
+No caso dos autos, a recorrente não individualizou qual dispositivo de lei federal ou tratado se apresenta malferido.
+Ora, revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica claramente qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
