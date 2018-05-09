@@ -1,0 +1,26 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CONCURSO. CURSO DE FORMAÇÃO. MILITAR. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E AMPLA DEFESA. FUNDAMENTAÇÃO EXCLUSIVAMENTE CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE POR ESTA CORTE. COMPETÊNCIA DO STF. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto pelo ESTADO DO AMAZONAS com fundamento no art. 105, III, a e c da Constituição Federal, contra acórdão proferido pelo TJAM, assim ementado:
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO INTERNO EM APELAÇÃO CÍVEL. ALEGAÇÃO DE OFENSA AO CONTRADITÓRIO. INEXISTÊNCIA. ARGUMENTOS DEDUZIDOS NA CAUSA DE PEDIR. MANUTENÇÃO DA DECISÃO RECORRIDA. ATUAÇÃO ADMINISTRATIVA EM DESCONFORMIDADE COM O DEVIDO PROCESSO LEGAL. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+I. Muito embora não haja menção à Portaria 48/2013 na exordial, a causa de pedir foi perfeitamente delineada: ora, foi a preterição do autor no concurso público pela convocação de candidatos sub judice que motivou a presente ação; tal convocação de candidatos sub judice foi efetivada mediante a desconvocação de candidatos regularmente convocados, dentre os quais se encontra o autor.
+II. Portanto, não há que se falar em ofensa ao contraditório neste ponto, vez que a causa de pedir foi devidamente descrita na inicial.
+III. Agravo Interno conhecido e desprovido (fls. 297).
+2. No Recurso Especial, sustenta a parte recorrente violação aos arts. 10, 11, 141, 329, 489, §1o., IV, 492 e 1.022, II do CPC, ao argumento de que a violação ao Princípio do Contraditório e ampla defesa ocorreu neste momento, pois dado provimento a recurso em sede de apelação sob fundamento sem qualquer discussão nos autos (fls. 383).
+3. Inadmitido o Recurso Especial, sobreveio o Agravo de fls. 394/398.
+4. É o relatório.
+5. Na hipótese dos autos, o Tribunal de origem consignou:
+Portanto, não há que se falar em ofensa ao contraditório neste ponto, vez que a causa de pedir foi devidamente descrita na inicial. No mais, não se afigura correta a atuação do poder público. Como se constata dos autos, o ato administrativo que desconvocou o agravante do concurso público não respeitou o contraditório, a teor do artigo 5o., LV, da Constituição da República. Da feita em que a convocação do agravante para a 2o. fase do certame representasse um ato administrativo benéfico, sua revogação deve observância ao contraditório entre o particular e o poder público, o que não se observou no caso em exame (fls. 300/301).
+6. Portanto, verifica-se que o acórdão recorrido se fundamentou na interpretação sistemática do art. 5o., LV da Constituição.
+7. Assim, toda a fundamentação que conduziu a conclusão do julgamento de segunda instância pautou-se sobre a análise de dispositivos e princípios constitucionais, o que impede a sua revisão nesta seara especial, sob pena de usurpação de competência do Colendo Supremo Tribunal Federal.
+8. Nesse sentido é a jurisprudência do STJ:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO SOCIAL SOBRE LUCRO LÍQUIDO (CSSL). MAJORAÇÃO DE ALÍQUOTA. MP 1.807/99 E REEDIÇÕES. ARTS. 195, I e 246, da CF/88 E EC 20/98. MATÉRIA DE CUNHO EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE PELO STJ. PRECEDENTES.
+1. Não cabe a esta Corte examinar recurso especial interposto contra acórdão proferido com fundamento essencialmente constitucional - interpretação dos arts. 195, I e 246 da CF/88 e EC 20/98 -, sob pena de usurpação de competência do Supremo Tribunal Federal.
+2. Agravo regimental a que se nega provimento (AgRg no AREsp 389.123/MG, Rel. Min. OG FERNANDES, DJe 5.2.2014).
+
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. SERVIÇOS NOTARIAIS E REGISTRAIS. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. TRANSPOSIÇÃO DO SISTEMA PREVIDENCIÁRIO ESTADUAL PARA O FEDERAL. VINCULAÇÃO AO REGIME GERAL DE PREVIDÊNCIA. PRETENSÃO DE CONTINUAR A VINCULAÇÃO COM O IPERGS. ACÓRDÃO DE SEGUNDO GRAU. CONCLUSÕES DO ARESTO RECORRIDO PAUTADAS EM MATÉRIA EMINENTEMENTE CONSTITUCIONAL.
+1. O agravante não trouxe argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, razão que enseja a negativa de provimento ao agravo regimental.
+2. É vedada a fruição das benesses de um sistema sem a sujeição aos seus ônus. Não há como manter o vínculo previdenciário ou conceder aposentadoria com proventos integrais, por contrariedade ao regime atual de previdência (art. 40 da Constituição) e falta de implementação de requisitos normativos (EC 20/98). Ausência de direito adquirido a regime jurídico anterior. Precedentes do STF."
+3. Verifica-se que toda a fundamentação que conduziu a conclusão do julgamento de segundo grau pautou-se sobre a análise de dispositivos e princípios constitucionais (EC 20/98, arts. 40, 235, 236 da CF/88), o que não pode ser revisto nesta seara especial, sob pena de usurpação de competência do Colendo Supremo Tribunal Federal.
+4. Agravo regimental não provido (AgRg no AREsp. 133.167/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 3.5.2012).
+9. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial. Honorários recursais fixados em R$ 200,00.
+10. Publique-se. Intimações necessárias.
