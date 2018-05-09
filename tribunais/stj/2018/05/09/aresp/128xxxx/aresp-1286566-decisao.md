@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO ESTADUAL. PROFESSOR. JORNADA DE TRABALHO. VIOLAÇÃO AO ART. 1022 DO CPC/2015. NÃO CONFIGURAÇÃO. DESLINDE DA CONTROVÉRSIA DEMANDA ANÁLISE DE LEI LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de MONICA FACCIOLI E OUTROS fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AÇÃO ORDINÁRIA - PROFESSOR DE EDUCAÇÃO BÁSICA I E II - JORNADA DE TRABALHO - Alegação de incompatibilidade da Resolução SE nº 08/2012 e a Lei Federal nº 11.738/2008 - Inocorrência - Carga máxima horária para trabalhos de interação com alunos, nos termos da Resolução, dentro do limite de 2/3 previsto disciplinado na Lei - Sentença de parcial procedência da ação reformada - Precedentes deste E. Tribunal e desta C. 8ª Câmara de Direito Público. Reexame necessário e recurso de apelação da Fazenda Estadual providos, prejudicado o apelo dos autores.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte recorrente aponta violação dos seguintes dispositivos: (a) art. 1.022, aduzindo que não foram sanados os vícios apontados nos embargos de declaração, deixando de enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; (b) arts. 489, §1º, III e IV, 1.022, II e parágrafo único, inciso II, todos do CPC, art. 2º, § 4º, da Lei Federal nº 11.738/08, art. 67, V, da Lei Federal nº 9.394/96, art. 11, III, alínea "c", da Lei Complementar Federal nº 95/98, alegando que não se dá o correto cumprimento da legislação federal, ressaltando que a Resolução Estadual - SE n. 8/2012 adequou a jornada de trabalho dos docentes, bem como que a Lei Complementar Paulista n. 836/1997 encontra-se em dissonância com a Lei do Piso Nacional.
+Houve contrarrazões.
+Sobreveio juízo negativo de admissibilidade fundado na incidência das Súmulas 7 e 280/STJ.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Conheço do agravo, porquanto refutada a motivação utilizada no juízo de admissibilidade.
+A insurgência não prospera.
+A alegada ofensa ao art. 1.022 do CPC não merece prosperar, eis que o Tribunal de origem já havia se manifestado de forma clara e fundamentada sobre alegação a insurgência da recorrente.
+Ademais, a bem da verdade, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater, um a um, os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia (EDcl no AgRg no AREsp 195.246/BA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 04/02/2014).
+Quanto ao mais, verifica-se que, não obstante tenha sido apontada suposto malferimento dos artigos supramencionados, a argumentação do apelo nobre centra-se na necessidade de apreciação de legislação estadual.
+Da mesma forma, vê-se que as conclusões do aresto hostilizado demandam prévia análise de legislação local - Lei Complementar estadual n. 836/1997 e Resolução SE n. 8/2012 -, o que é inviável em sede de recurso especial, ante o óbice da Súmula 280 do STF.
+No mesmo sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. AÇÃO DE COBRANÇA. PISO NACIONAL DOS PROFESSORES. LEI 11.738/2008. PAGAMENTO PROPORCIONAL À JORNADA DE TRABALHO. LEI LOCAL CONTESTADA EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF. AGRAVO INTERNO DO SERVIDOR A QUE SE NEGA PROVIMENTO.
+1. A questão atinente à carga horária e ao piso salarial dos profissionais do magistério público do Município de Uiraúna/PB foi decidida com base na interpretação das Leis Municipais 646/2008 e 712/2012, o que afasta a competência desta Corte para apreciação da demanda, ante a incidência, por analogia, da Súmula 280/STF. Precedentes: AgInt no AREsp. 933.842/MG, Rel. Min. REGINA HELENA COSTA, DJe 21.11.2016; AgInt no AREsp. 935.121/PB, Rel. Min. HERMAN BENJAMIN, DJe 17.10.2016.
+2. Além do mais, das razões invocadas no Apelo Nobre, verifica-se que a pretensão da parte é contestar a validade das Leis 646/2008 e 712/2012 do Município de Uiraúna/PB, em face do art. 2o., § 4o. da Lei Federal 11.738/2008, medida inviável em sede de Recurso Especial, por se tratar de competência privativa do STF. Precedentes: REsp. 1.325.907/DF, Rel. Min. BENEDITO GONÇALVES, DJe 25.3.2015; AgRg no REsp. 1.454.182/SP, Rel. Min. OG FERNANDES, DJe 12.3.2015.
+3. Agravo Interno do Servidor a que se nega provimento. (AgInt no AREsp n. 926.975/PB, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 09/03/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. PROFESSORES DE EDUCAÇÃO BÁSICA. JORNADA DE TRABALHO. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. OFENSA A PORTARIAS E RESOLUÇÕES. RECURSO ESPECIAL. NÃO CABIMENTO.
+1. O deslinde da causa, na origem, foi lastreado na interpretação da Resolução SE 08/2012 e da Lei Complementar Estadual 836/1997.
+2. Em Recurso Especial, a parte insurgente pretende discutir a adequação da citada Resolução com os ditames da Lei Federal 11.738/2008, providência vedada pela Súmula 280/STF.
+3. Ressalte-se que, de acordo com o art. 105, III, alínea "a", da Constituição Federal, não se pode analisar eventual ofensa a regulamentos, portarias ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal".
+4. Recurso Especial não conhecido. (REsp n. 1.651.567/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/04/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
