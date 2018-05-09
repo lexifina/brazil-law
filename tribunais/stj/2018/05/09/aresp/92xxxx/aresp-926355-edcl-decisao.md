@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Sperafico Agroindustrial Ltda. em face de decisão monocrática pela qual determinou o retorno dos autos em razão da existência de repercussão geral reconhecida pelo Supremo Tribunal Federal no RE 718.874/RS, Tema 669.
+A parte embargante sustenta que a decisão padece de contradição e omissão, tendo em vista que não foram analisadas as demais questões infraconstitucionais do apelo especial.
+Aberta vista à parte embargada (fl. 1.386), transcorreu in albis o prazo para impugnação (fls. 1.390).
+É o relatório.
+Não prospera a irresignação da parte embargante. De acordo com o estatuído no art. 1022 do CPC/15, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado decidiu com fundamentação suficiente a controvérsia posta no recurso.
+Ademais, a fim de afastar qualquer dúvida quanto à devolução dos autos ao Tribunal de origem, verifica-se que, em razão de economia processual e para se evitar a prolação pelo STJ de provimentos jurisdicionais em desconformidade com o que vier a ser definitivamente decidido pela Corte Suprema, conveniente que a apreciação do recurso especial fique sobrestada até o exaurimento da competência do Tribunal de origem, com o rejulgamento da apelação para fins de realização do juízo de retratação ou de conformação, a ser realizado pela instância ordinária, após o julgamento do mencionado recurso extraordinário em repercussão geral, nos moldes dos arts. 1.040 e 1.041 do CPC/2015.
+Nesse contexto, caso remanesçam questões impugnadas no recurso especial da agravante distintas daquela objeto da afetação pelo STF, aplicável se mostra, mutatis mutandis, o comando previsto no art. 1.037, § 7º, do CPC/2015, que determina seja julgada em primeiro lugar a matéria afetada, para apenas depois se prosseguir na resolução do resíduo não alcançado pela afetação.
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se.
