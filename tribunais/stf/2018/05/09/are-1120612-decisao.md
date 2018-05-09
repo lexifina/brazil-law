@@ -1,0 +1,12 @@
+DECISÃO: O presente agravo foi interposto contra decisão que negou trânsito ao apelo extremo deduzido nestes autos, no qual sustentou que o acórdão proferido pelo E. Tribunal de Justiça do Estado de São Paulo teria transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, ao julgar o  RE 1.039.644-RG/SC, Rel. Min. ALEXANDRE DE MORAES, reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa, e, na mesma oportunidade, reafirmou  a jurisprudência desta Corte sobre o tema, fazendo-o em acórdão assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO. APOSENTADORIA ESPECIAL DOS PROFESSORES (CONSTITUIÇÃO, ART. 40, § 5º). CONTAGEM DE TEMPO EXERCIDO DENTRO DA ESCOLA, MAS FORA DA SALA DE AULA.
+    1. Revela especial relevância, na forma do art. 102, § 3º, da Constituição, a questão acerca do cômputo do tempo de serviço prestado por professor na escola em funções diversas da docência para fins de concessão da aposentadoria especial prevista no art. 40, § 5º, da Constituição.
+    2. Reafirma-se a jurisprudência dominante desta Corte nos termos da seguinte tese de repercussão geral: Para a concessão da aposentadoria especial de que trata o art. 40, § 5º, da Constituição, conta-se o tempo de efetivo exercício, pelo professor, da docência e das atividades de direção de unidade escolar e de coordenação e assessoramento pedagógico, desde que em estabelecimentos de educação infantil ou de ensino fundamental e médio.
+    3. Repercussão geral da matéria reconhecida, nos termos do art. 1.035 do CPC. Jurisprudência do SUPREMO TRIBUNAL FEDERAL reafirmada, nos termos do art. 323-A do Regimento Interno.”
+    Cabe salientar, por oportuno, que os eminentes Ministros desta Suprema Corte têm determinado a incidência da sistemática da repercussão geral, inclusive quando houver julgamento sobre o mérito da matéria cuja transcendência foi reconhecida (ARE 855.723-AgR-Segundo-ED/RJ, Rel. Min. GILMAR MENDES – RE 606.915/SP, Rel. Min. DIAS TOFFOLI – RE 607.501/SE, Rel. Min. LUIZ FUX – RE 907.942/RS, Rel. Min. EDSON FACHIN – RE 1.029.168/PR, Rel. Min. GILMAR MENDES, v.g.).
+    Isso significa que se impõe, quanto ao Tema nº 965/RG, nos  termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal “a quo”.
+    Publique-se.
+    Brasília, 09 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
