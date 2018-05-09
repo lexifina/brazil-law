@@ -1,0 +1,63 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. RECURSO ESPECIAL. PREVIDENCIÁRIO. AÇÃO REVISIONAL DE PENSÃO. DECADÊNCIA. PRAZO DE 10 (DEZ) ANOS. INCIDÊNCIA EM RELAÇÃO AOS BENEFÍCIOS CONCEDIDOS ANTES DA EDIÇÃO DA MEDIDA PROVISÓRIA N. 1.523-9/1997 CONVERTIDA NA LEI N. 9.528/1997. INEXISTÊNCIA DE ILEGALIDADE OU TERATOLOGIA. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos limites estabelecidos pelo artigo 1.022 do CPC/2015, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material. Precedentes da Corte Especial.
+2. Na espécie, não se verifica nenhum dos vícios que permitam o manejo da insurgência, situação impeditiva de seu acolhimento. Em seu longo arrazoado o ora embargante sequer se reporta a trechos específicos do acórdão impugnado para demonstrar a eventual existência de alguma das hipóteses de embargabilidade previstas no referido artigo 1.022 do CPC/2015, discorrendo de forma genérica sobre precedentes desta Corte Superior e do Supremo Tribunal Federal sem, contudo, particularizar seus argumentos quanto ao caso examinado pela Quinta Turma.
+3. Constata-se, em verdade, mero inconformismo do ora embargante com o deslinde da controvérsia, pois se busca a rediscussão da matéria devidamente examinada pela Quinta Turma.
+4. Embargos declaratórios rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Felix Fischer votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: Cuida-se de embargos declaratórios opostos por WALTER ENNIO BARROS FLORES em face de acórdão dessa Quinta Turma, assim ementado:
+DIREITO PREVIDENCIÁRIO. PROCESSUAL CIVIL. AÇÃO REVISIONAL DE PENSÃO. DECADÊNCIA. PRAZO DE 10 (DEZ) ANOS. INCIDÊNCIA EM RELAÇÃO AOS BENEFÍCIOS CONCEDIDOS ANTES DA EDIÇÃO DA MEDIDA PROVISÓRIA N. 1.523-9/1997 CONVERTIDA NA LEI N. 9.528/1997.
+1. O Supremo Tribunal Federal  em repercussão geral no julgamento do Recurso Extraordinário 626.489/SE  interpretando o caput do artigo 103 da Lei 8.213/1991, introduzido pela Medida Provisória n. 1.523-9, de 27 de junho de 1997, convertida na Lei n. 9.528 de 10 de dezembro de 1997, fixou tese no sentido da legitimidade da instituição de prazo decadencial de 10 (dez) anos para a revisão de benefício já concedido com fundamento no princípio da segurança jurídica, no interesse de evitar a eternização dos litígios e na busca do equilíbrio financeiro e atuarial para o Sistema Previdenciário.
+2. Nessa linha de raciocínio, a Corte Maior decidiu que o prazo decadencial mencionado, instituído pela Medida Provisória n. 1.523/1997, tem como termo inicial o dia 1º de agosto de 1997, por força de disposição nela expressamente prevista, incidindo tal regra, inclusive, sobre benefícios concedidos anteriormente à edição do referido diploma legal, sem que isso importe em irretroatividade vedada pela Constituição.
+3. Este Superior Tribunal de Justiça já vinha se alinhando ao posicionamento do Supremo Tribunal Federal, tendo decidido a matéria em dois recursos especiais repetitivos, julgados em 28/11/2012 na Primeira Seção  REsp 1.309.529/PR e REsp 1.326.114/SC  , relatados pelo Excelentíssimo Ministro Herman Benjamin.
+4. No exercício do juízo de retratação, previsto no inciso II do artigo 1.030 do CPC/2015, verifica-se que, no caso dos autos, o benefício previdenciário foi concedido antes da edição da Medida Provisória n. 1.523/1997, de forma que o prazo decadencial tem como termo inicial o dia 1º/08/1997, segundo o entendimento da Suprema Corte, acima referido.
+5. Contudo, a ação revisional foi ajuizada somente em 28/07/2009, quando já transcorridos mais de 10 (dez) anos, estando, por isso, extinto pela decadência o direito pleiteado.
+6. Recurso especial do Instituto Nacional do Seguro Social - INSS ao qual se dá provimento.
+Defende o ora embargante, em longo arrazoado, a reforma do julgado Colegiado, argumentando, em síntese (fls. 306/308):
+a) A ação em comentário busca a concessão da melhor data para a aposentadoria da parte autora, sempre observadas às datas em que já se configuraria o direito adquirido a tal prestação previdenciária nos termos da fundamentação acima explanada;
+b) Ao tempo em que o acórdão recorrido não se atentou para a configuração acima, destoando, especialmente, do que decidiu este Superior Tribunal de Justiça, apresenta-se a conjuntura fático jurídica a apontar a necessidade de uniformização no âmbito nacional;
+c) Ademais, e é salutar que se faça registrar tal assertiva, em consonância com a jurisprudência deste próprio STJ, o artigo 103 permite várias exceções às hipóteses revisionais, mormente aquelas estampadas na Instrução Normativa do próprio INSS, cuja diferenciação deve ser observada igualmente na via judicial;
+d) Embora o STF tenha julgado pela inexistência de prazo decadencial nos autos do julgamento da ação de concessão de melhor benefício, apontando a inexistência, para o caso concreto, de prazo decadencial, a Corte Nacional responsável pela interpretação de tal alcance é o Superior Tribunal de Justiça - STJ, entendimento este, até mesmo - como vimos - externado em várias decisões do próprio STF.
+e) Vê-se que, tanto na tese do melhor benefício / Tema 334 - STF, como na da desaposentação ( que já teve afastada a incidência do prazo do artigo 103 pela Seção do STJ ), não se discute a RMI Original ( leia-se, ato de concessão ).
+f) A única diferença entre a tese do melhor benefício ( presente nesta ação ) e a tese da desaposentação, é que na ação concessória do melhor benefício, o supedâneo jurídico normativo que lhe permite retroagir a data pretérita mais benéfica, é o direito adquirido constitucionalmente previsto no artigo 5º inciso XXXVI, e na desaposentação é possibilidade da renúncia frente às contribuições vertidas após a concessão original. Ou seja, a concessão, forte no direito ao melhor beneficio, busca data pretérita mais benéfica, e a desaposentação, data futura;
+g) O reconhecimento do direito ao melhor beneficio só ocorreu em 08/2013, quando do transito em julgado da decisão plenária do STF.
+h) Se o INSS EM PLENO ANO DE 2016 NÃO TEM CONDIÇÕES OPERACIONAIS E TÉCNICAS ( leia-se, programa de cálculos e servidores ) não é cabível, razoável, moral, correto, legal, coerente, juridicamente falando, as declarações judiciais de que estariam decaídas as ações concessórias do melhor;
+i) Por fim, não podemos olvidar que, estabelecendo a autarquia previdenciária, em instrução normativa, judicialmente há de se dar a mesma solução administrativa, sob pena de tratar com desigualdade segurados que se encontram em situações idênticas.
+j) No caso em tela, mais precisamente em sua IN/77, artigo 801, parágrafo 1º assegura o direito de opção pelo melhor benefício sendo possível tal alteração desde a DER do benefício concedido originariamente, observada tão SOMENTE a prescrição quinquenal !
+Ao final, sustenta a não aplicabilidade do prazo decadencial nas ações do melhor benefício (Tema 334 - STF / RE 630.501).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Nos limites estabelecidos pelo artigo 1.022 do CPC/2015, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+Neste sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO ART. 93, INCISO IX, DA CONSTITUIÇÃO FEDERAL. NÃO OCORRÊNCIA. AUSÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 1.022 DO CPC/2015.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual se deveria pronunciar o juiz, de ofício ou a requerimento, e/ou corrigir erro material.
+2. Não subsiste a alegação de ofensa ao art. 93, inciso IX, da CF, porquanto o acórdão recorrido, não obstante tenha adotado entendimento contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição Federal, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF) .
+3. No caso em exame, não há nenhuma irregularidade ensejadora dos embargos de declaração, visto que a causa foi satisfatoriamente decidida, em consonância com a jurisprudência do Supremo Tribunal Federal.
+Embargos de declaração rejeitados.
+(EDcl no AgInt no RE nos EDcl no AgInt no AREsp 846.923/RJ, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 17/05/2017, DJe 24/05/2017)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. OMISSÃO. VÍCIO INEXISTENTE. PRETENSÃO DE REDISCUSSÃO DA CAUSA E PREQUESTIONAMENTO EXPLÍCITO DE DISPOSITIVOS CONSTITUCIONAIS. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do novo Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+2. O acórdão combatido, ao contrário do alegado nos aclaratórios, não incorreu em nenhuma omissão, restando solucionada, em todos os aspectos, a controvérsia apresentada nas razões do recurso extraordinário.
+3. Os embargos de declaração não se prestam à rediscussão de matéria devidamente abordada e decidida no acórdão embargado, tampouco ao prequestionamento explícito de dispositivos constitucionais.
+4. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgRg no RE nos EDcl no AgRg no REsp 1464793/DF, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 15/03/2017, DJe 19/05/2017)
+Na espécie, não se verifica nenhum dos vícios que permitam o manejo da insurgência, situação impeditiva de seu acolhimento.
+Em seu longo arrazoado o ora embargante sequer se reporta a trechos específicos do acórdão impugnado para demonstrar a eventual existência de alguma das hipóteses de embargabilidade previstas no referido artigo 1.022 do CPC/2015, discorrendo de forma genérica sobre precedentes desta Corte Superior e do Supremo Tribunal Federal sem, contudo, particularizar seus argumentos quanto ao caso examinado pela Quinta Turma.
+Indubitavelmente, possui este recurso intuito nitidamente infringente, objetivo que não coaduna com a via eleita, conforme a pacífica jurisprudência desta Corte Superior, da qual se destaca:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. MÉRITO RECURSAL NÃO DEBATIDO NO ACÓRDÃO IMPUGNADO. EMBARGOS DE DIVERGÊNCIA INADMISSÍVEIS. INCIDÊNCIA DO ENTENDIMENTO SEDIMENTADO NA SÚMULA N. 315 DO SUPERIOR TRIBUNAL DE JUSTIÇA. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO INEXISTENTE.
+ ..
+III - Os embargos de declaração somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+IV - Aclaratórios não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+V - Embargos de declaração rejeitados.
+(EDcl no AgRg nos EAREsp 680.286/RJ, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 02/08/2017, DJe 10/08/2017)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. PROCESSUAL CIVIL. REPETIÇÃO DE FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE OMISSÕES. EFEITOS INFRINGENTES. INVIABILIDADE. REJEIÇÃO DOS EMBARGOS DECLARATÓRIOS.
+1. A atribuição de efeitos infringentes, em sede de embargos de declaração, somente é admitida em casos excepcionais, os quais exigem, necessariamente, a ocorrência de qualquer dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EAREsp 324.542/SP, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 15/03/2017, DJe 21/03/2017)
+Assim, inexistindo os requisitos autorizadores dos embargos de declaração, não cabe, nesta sede, rediscutir o entendimento adotado pela decisão ora hostilizada.
+Ante o exposto, rejeitam-se os embargos de declaração.
+É o voto.
