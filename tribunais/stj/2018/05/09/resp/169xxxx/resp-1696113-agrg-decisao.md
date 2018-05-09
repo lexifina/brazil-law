@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por [NOME] contra a decisão de e-STJ fls. 368/372, que deu provimento ao recurso especial do Ministério Público para fazer incidir sobre a pena, aplicada pela prática de furto qualificado, a causa de aumento do § 1º do art. 155 do Código Penal.
+A defesa alerta para a inexistência de apresentação das contrarrazões do ora agravante, que possui advogado constituído nos autos.
+Explica que o advogado constituído pelo agravante foi "intimado para apresentar contrarrazões ao recurso especial no dia 14 de Julho de 2016. Com a inércia do patrono, o Tribunal de Justiça determinou a intimação do sentenciado para nomear outro patrono. Após, constou que a carta de ordem poderia ter sido extraviada (e-STJ fl. 321). Carta de ordem reenviada, conforme e-STJ FL. 326. A fl. 333 constou que o sentenciado estaria internado, não sendo cumprida a intimação" (e-STJ fl. 388).
+E continua, asseverando que "a mãe do sentenciado informou que ele estaria em clínica para tratamento de dependentes químicos na cidade de Limeira/SP. Portanto, não estava em lugar incerto e não sabido. Poderia ter sido intimado por carta precatória. Mesmo sem a intimação do sentenciado, e depois de vários erros por parte de extravio pelo próprio TRIBUNAL DE JUSTIÇA DE MINAS GERAIS, os autos foram encaminhados para o Superior Tribunal de Justiça SEM AS CONTRARRAZÕES" (e-STJ fl. 388).
+Frisa, ainda, que nem sequer a Defensoria Pública foi intimada para proceder à feitura da peça.
+Conclui que a decisão agravada está eivada de vício insanável, e, por isso, pleiteia a intimação do agravante para nomear novo patrono ou, caso não o faça, pede seja intimada a Defensoria Pública para apresentar as contrarrazões ao recurso especial.
+É o relatório. Decido.
+Infere-se dos autos, especialmente do contido nas e-STJ fls. 308/333, que houve verdadeiro empenho do Tribunal de Justiça local em ensejar ao ora agravante a oportunidade de apresentar contrarrazões ao recurso especial do Ministério Público. Contudo, não obteve êxito.
+Além disso, verifica-se que as contrarrazões constantes das e-STJ fls. 340/345 dizem respeito, exclusivamente, ao corréu [NOME].
+Por conseguinte, torno sem efeito a decisão de e-STJ fls. 368/372 tão somente em relação ao ora agravante [NOME], devendo ser mantida intacta quanto ao [NOME].
+Em homenagem ao direito à ampla defesa, com todos os meios e recursos a ela inerentes, entre os quais a resposta do réu às impugnações recursais, determino a intimação do ora agravante [NOME] para que se manifeste acerca da ausência das contrarrazões e da pretensão de constituir novo defensor.
+Descumprida a determinação, ou em caso de resposta negativa, que sejam os autos remetidos à Defensoria Pública para oferecimento de resposta ao recurso especial.
+Publique-se. Intimem-se.
