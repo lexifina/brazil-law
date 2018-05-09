@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado do Mato Grosso confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime de tráfico de entorpecentes, previsto no artigo 33 da Lei nº 11.348. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação dos artigos 5º, incisos XXXV, XLVI, LIII, LV e LVII, 93, inciso IX, da Constituição Federal. Argui a nulidade do processo por ausência de fundamentação e cerceamento de defesa no tocante à falta de exame toxicológico. Diz ter sido condenado com base em provas insuficientes, adentrando nos contornos da situação fática. Requer a desclassificação do tipo penal para o do artigo 28 da mencionada lei, tendo como insignificante a quantidade da droga apreendida.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, versando, detalhadamente, sobre as razões pelas quais manteve a sentença, deixando clara a existência de provas aptas a embasar a condenação.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão proferida os seguintes trechos:
+    No tocante a primeira preliminar, é cediço que para apurar a sanidade mental do dependente de substância entorpecente é necessário submetê-lo ao exame toxicológico. Todavia, a realização da perícia técnica é casuística, a ser aferida pelo magistrado à vista do caso concreto.
+    […]
+    Ora, no caso, apesar da recorrente ter se declarado dependente de maconha quando interrogada em juízo (CD-ROM, fls. 167), não restou comprovado, tanto quando da sua prisão, quando do seu interrogatório o menor indício de falta de autodeterminação.
+    […]
+    A materialidade do tráfico de entorpecentes está estampada no auto de prisão em flagrante delito de fl. 09, boletim de ocorrência de fls. 28-28v, laudo de constatação (fls. 40-42), auto de apreensão (fls. 43) e laudo definitivo (fls. 189-191).
+    De seu turno, a autoria é certa e induvidosa, estando corroborada pelos testemunhos firmes e coerentes colhidos tanto na fase extrajudicial quanto em juízo, em perfeita harmonia com o disposto no art. 155, capta, do Código de Processo Penal.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 9 de maio de 2018.
+ Ministro MARCO AURÉLIO
+Relator
