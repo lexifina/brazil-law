@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto por Space Minas Distribuidora LTDA, desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado de Minas Gerais que não admitiu recurso especial, ao seguintes fundamentos: (I) incidência da Súmula 284/STF, eis que a recorrente não apontou o dispositivo legal tido por malferido nas razões do recurso especial; e (II) incidência da Súmula 7/STJ, ante a necessidade de reexame do conjunto fático-probatório dos autos.
+Nas razões de agravo em recurso especial, a parte agravante reproduz, ipsis litteris, as razões do recurso especial interposto às fls. 428/464, sustentando, em síntese, que preencheu os requisitos necessários à aplicação do instituto da denúncia espontânea no caso dos autos, na forma do art. 138 do CTN.
+É o relatório.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foram impugnados todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, a saber, a incidência da Súmula 284/STF, porquanto a recorrente não teria apontado o dispositivo legal tido por malferido nas razões do recurso especial; a aplicação da Súmula 7/STJ, ante a necessidade de reexame de fatos e provas, fundamentos autônomos e suficientes para a manutenção da decisão ora agravada.
+Assim, como o agravante não rebateu, de modo específico, todos os fundamentos adotados pela decisão recorrida para negar trânsito ao apelo especial, limitando-se a reproduzir as razões do recurso inadmitido, incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Ante do exposto, não conheço do agravo.
+Publique-se.
