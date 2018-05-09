@@ -1,0 +1,11 @@
+DECISÃO
+AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDORES PÚBLICOS ESTADUAIS. POLICIAIS MILITARES. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. AGRAVO EM RECURSO ESPECIAL DO INSTITUTO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES MUNICIPAIS DE SANTOS A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo INSTITUTO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES MUNICIPAIS DE SANTOS, com fundamento no art. 105, III, alíneas a e c da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+SERVIDORES PÚBLICOS ESTADUAIS - POLICIAIS MILITARES - Reajuste de VENCIMENTOS OU PROVENTOS decorrente da conversão em URV - Cabimento - Inteligência da Lei Federal 8.880/94 - Competência Privativa da União para legislar sobre Sistema monetário (art.. 22, VI, da CF) - Admissibilidade ante posição do Superior Tribunal de Justiça. Decisão reformada.Recurso provido (fls. 266).
+2. Em suas razões recursais sustenta a parte agravante violação dos arts. 3o., 6o. e 267, inciso VI do CPC/1973, ao fundamento de ilegitimidade ativa do recorrido, pois, além de pleitear em nome próprio recomposição salarial de que faria jus a falecida pensionista da qual o mesmo alega ser o "único herdeiro", a legitimidade ainda que fosse admitida, seria do Espólio da falecida, e não do suposto herdeiro.
+3. O Apelo Raro foi inadmitido pela Presidência do Tribunal de origem (fls. 296), sobrevindo a interposição de Agravo (fls. 299/308).
+4. É o relatório, em síntese. Decido.
+5. Quanto à violação dos arts. 3o., 6o. e 267, inciso VI do CPC/1973, verifica-se que não foram debatidos pelo Tribunal de origem e não foram opostos Embargos de Declaração com o objetivo de sanar eventual omissão. Carecem, portanto, de prequestionamento, requisito indispensável ao acesso às instâncias excepcionais. Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+6. Por fim, no que toca à alínea c do permissivo constitucional, o sugerido dissídio jurisprudencial não foi analiticamente demonstrado de acordo com os arts. 255, § 2º do RISTJ e 541, parágrafo único do Estatuto Processual Civil.
+7. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial interposto pelo INSTITUTO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES MUNICIPAIS DE SANTOS.
+8. Publique-se. Intimações necessárias.
