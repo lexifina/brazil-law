@@ -1,0 +1,30 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. IMPORTAÇÃO. IMUNIDADE. INSTITUIÇÃO DE EDUCAÇÃO E DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS. PREENCHIMENTOS DOS REQUISITOS LEGAIS. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS E REEXAME DE MATÉRIA FÁTICA. INVIABILIDADE EM SEDE EXTRAORDINÁRIA. OFENSA REFLEXA E SÚMULA 279 DO STF. PRECEDENTES. RECURSO INTERPOSTO SOB A ÉGIDE DO CÓDIGO DE PROCESSO CIVIL DE 2015. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário (Doc. 3, p. 59), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão (Doc. 2, p. 110) que assentou, in verbis:
+    “MANDADO DE SEGURANÇA. IMPORTAÇÃO DE EQUIPAMENTOS PELO HOSPITAL ALBERT EINSTEIN -- PRETENDIDA A IMUNIDADE TRIBUTÁRIA PREVISTA NO ARTIGO 150, IV, C, DA CONSTITUIÇÃO FEDERAL.
+    NÃO PREENCHIMENTO DOS REQUISITOS LISTADOS NO ARTIGO 14 DO CÓDIGO TRIBUTÁRIO NACIONAL.
+    R. SENTENÇA QUE JULGOU EXTINTO O PROCESSO, SEM RESOLUÇÃO DE MÉRITO, COM FUNDAMENTO NO ART. 10, DA LEI Nº 12.016/09.
+    RECURSO IMPROVIDO.”
+    Os embargos de declaração opostos foram desprovidos (Doc. 2, p. 129).
+    Nas razões do apelo extremo, o contribuinte sustentou preliminar de repercussão geral e, no mérito, apontou violação ao artigo 150, VI, c, da Constituição Federal. Alegou que faz jus à imunidade conferida às instituições de educação e assistência social, de modo que seria inexigível o ICMS na hipótese de importação.
+    O Superior Tribunal de Justiça conheceu o agravo para não conhecer o recurso especial (Doc. 3, p. 208).
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar.
+    O Tribunal de origem entendeu que não estariam preenchidos os requisitos para gozo da imunidade. Conclusão diversa, no sentido da satisfação dos requisitos legais para o enquadramento como entidade imune, demandaria a interpretação da legislação infraconstitucional de regência, o que se revela inviável em sede de recurso extraordinário por configurar ofensa indireta à Constituição Federal, e o reexame do quadro fático-probatório dos autos, o que é vedado na via estreita do recurso extraordinário em virtude do óbice da Súmula 279 do STF, que dispõe, in verbis: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “RECURSO. Extraordinário. Inadmissibilidade. imunidade tributária. Entidade beneficente de assistência social. Requisitos legais. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o preenchimento dos requisitos impostos pelo art. 55 da Lei 8.212/1991, aptos a caracterizar pessoa jurídica como entidade beneficente de assistência social, para efeitos de reconhecimento de imunidade tributária, versa sobre tema infraconstitucional.“ (RE 642.442-RG, Rel. Min. Cezar Peluso, Plenário, DJe de 8/9/2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. IMUNIDADE (TEMA 459, RE 642.442-RG). OFENSA REFLEXA. SÚMULA 279/STF. AGRAVO A QUE SE NEGA PROVIMENTO. MULTA APLICADA.
+    I - A análise da existência da imunidade prevista nos arts. arts. 150, VI, c, e 195, § 7°, da Constituição demandaria o reexame da legislação infraconstitucional aplicada pelo Tribunal de origem, assim como dos fatos e provas nos quais ele se baseou. O recurso extraordinário, portanto, além de conter alegações de ofensas indiretas ou reflexas à Constituição, esbarra no óbice previsto na Súmula 279/STF.
+    II - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC).” (ARE 931.557-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 19/10/2017)
+    “DIREITO TRIBUTÁRIO. ICMS. IMUNIDADE. ENTIDADE BENEFICENTE. REQUISITOS LEGAIS. COMPROVAÇÃO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. RECURSO MANEJADO EM 18.3.2016.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido.” (RE 949.320-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 10/8/2016)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ICMS. IMUNIDADE TRIBUTÁRIA. INSTITUIÇÃO DE ENSINO. FUNDAÇÃO SEM FINS LUCRATIVOS. REQUISITOS.
+    1. A jurisprudência do STF é firme no sentido de que controvérsia relativa ao preenchimento de requisitos para fazer jus à imunidade tributária prevista no art. 150, VI, ‘c’, da Constituição da República, cinge-se ao âmbito infraconstitucional. Súmula 279 do STF.
+    2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Fica a parte vencida exonerada de honorários advocatícios, nos termos da Súmula 512 do STF.” (ARE 1.048.010-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 5/12/2017)
+    Por fim, observo que o presente recurso foi interposto sob a égide da lei processual de 2015. Nada obstante, por se tratar de mandado de segurança, não há falar em majoração de honorários advocatícios (Súmula 512 do STF).
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 9 de maio de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
