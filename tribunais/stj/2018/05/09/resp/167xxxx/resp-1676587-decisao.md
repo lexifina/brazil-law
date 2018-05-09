@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] constituído por DOW BRASIL SUDESTE INDUSTRIAL LTDA., com fundamento no artigo 105, III, alínea "a" da Constituição Federal, insurgindo-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"PROCESSUAL CIVIL - Interposição de recurso adesivo pelo advogado da ré visando a majoração da verba honorária fixada na sentença - Ausência de interesse jurídico e de legitimidade ad causam do advogado e inexistência de direito autônomo no processo de conhecimento - Inteligência dos artigos 499 e § 1º do CPC e 23 da Lei nº 8.906/94 - Recurso adesivo não conhecido.
+DUPLICATAS MERCANTIS - Ação ordinária declaratória de inexigibilidade de título de crédito c.c. inibitória de abuso de poder econômico - Cerceamento de produção de prova inocorrente - Prova inequívoca da efetiva operação de r. compra e venda mercantil e da entrega das mercadorias - Ausência, ademais, de prova de eventual recusa ou devolução das mercadorias, no prazo legal (arts. 6º, 7º e 8 º da Lei nº 5.474/68), a fim de justificar a inexigibilidade das cártulas - Causa debendi bem comprovada - Existência de relação cambiária - Licitude reconhecida dos saques e dos apontamentos a protesto - Exigibilidade inequívoca das cártulas - Ausência de comprovação de pagamento e de outras causas modificativas, extintivas ou impeditivas do crédito cobrado - Improcedência - Recurso improvido"(e-STJ fl. 333).
+Nas razões do especial (e-STJ fls. 385-410), aponta o recorrente violação dos artigos 23 da Lei nº 8.906/1994 e 499, § 1º, do Código de Processo Civil de 1973.
+Sustenta, em síntese, que, como advogado, possui legitimidade para postular em nome próprio e o direito autônomo de receber seus honorários e, via de consequência, se insurgir contra o valor arbitrado.
+Apresentadas as contrarrazões e admitido o recurso na origem, subiram os autos a esta Corte.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+Com razão o recorrente.
+A jurisprudência desta Corte consolidou o entendimento de que o causídico tem legitimidade para recorrer da decisão judicial relativa à verba honorária, consoante retratam os seguintes precedentes:
+PROCESSO CIVIL - EXECUÇÃO FISCAL - HONORÁRIOS DE ADVOGADO - AUSÊNCIA DE CONDENAÇÃO - LEGITIMIDADE RECURSAL DOS CAUSÍDICOS - ART. 23 DA LEI 8.906/94.
+1. O direito aos honorários de sucumbência, nos primórdios de nossa jurisprudência, pertencia à parte vencedora, que com a honorária recebida atenuava suas despesas com a contratação de advogado.
+2. Houve evolução legislativa e jurisprudencial e atualmente os honorários, sejam sucumbenciais ou contratuais pertencem aos advogados, que em nome próprio podem pleitear a condenação da parte sucumbente, facultando-se à parte por eles representada, legitimidade concorrente.
+3. Recurso especial provido para determinar o retorno dos autos à origem, com a continuidade do julgamento, superada a ilegitimidade recursal do patrono judicial na hipótese" (REsp. 1.062.091/SP, Rel. Min. ELIANA CALMON, DJe 21.10.2008).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. LEGITIMIDADE, TANTO DA PARTE COMO DO PATRONO PARA RECORRER DA SENTENÇA COM RELAÇÃO À FIXAÇÃO DA CITADA VERBA. PRECEDENTES. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. PREJUDICADA A ANÁLISE DA ELEVAÇÃO DA VERBA ADVOCATÍCIA.
+1. Recurso especial contra acórdão que decidiu que a legitimidade para buscar a majoração dos honorários advocatícios seria do advogado por meio de recurso oposto em nome próprio e não através da parte vencedora na demanda, já que não ocorreu sucumbência desta na lide.
+2. O Superior Tribunal de Justiça possui vastidão de precedentes no sentido de que: - É certo que o art. 23 da Lei 8.906/94, que cuida do "Estatuto da Advocacia", confere ao advogado o direito autônomo para executar a sentença na parte referente aos honorários de sucumbência. Isso não quer dizer, todavia, que fica excluída a legitimidade da própria parte para executar os honorários do seu patrono, mormente não havendo entre eles qualquer conflito (EREsp. 134.778/MG, 2a. Seção, DJ de 28.04.2003).
+- Conforme entendimento pacífico desta Corte, tanto a parte como o advogado têm legitimidade para recorrer da decisão, no que diz respeito à verba honorária (AgRg no REsp 432.222/ES, 3a. Turma, DJ de 25.04.2005).
+- O advogado, na condição de terceiro interessado, tem legitimidade para recorrer de parte da sentença onde fixados os honorários (REsp. 724.867/MA, 4a. Turma, DJ de 11.04.2005).
+- A parte, da mesma forma que o advogado, tem legitimidade para recorrer de decisão que fixou os honorários advocatícios (REsp. 648.328/MS, 5a. Turma, DJ de 29.11.2004).
+- A Segunda Seção assentou que o advogado, como terceiro interessado, tem legitimidade para recorrer da parte da sentença que fixou os honorários (REsp. 586.337/RS, 3a. Turma, DJ de 11.10.2004).
+- Têm legitimidade para recorrer da sentença, no ponto alusivo aos honorários advocatícios, tanto a parte como o seu patrono (REsp. 361.713/RJ, 4a. Turma, DJ de 10.05.2004).
+- A Segunda Seção pacificou o entendimento da Corte reconhecendo o direito da parte de recorrer da decisão judicial relativa aos honorários de advogado (REsp. 533.419/RJ, 3a. Turma, DJ de 15.03.2004).
+- Tanto o advogado quanto a parte têm legitimidade para discutir o valor da verba honorária (REsp. 457.753/PR, 3a. Turma, DJ de 24.03.2003).
+3. Prejudicada a questão relativa à elevação dos honorários advocatícios, com indicação de afronta aos arts. 20, § 4o. do CPC e 22, §§ 1o. e 2o. da Lei 8.906/94 (Estatuto da OAB).
+4. Recurso especial parcialmente provido, reconhecendo a legitimidade do advogado para recorrer da parte da sentença relativa à verba honorária e, em conseqüência, determinar o retorno dos autos ao Tribunal de origem para que seja apreciada a questão relativa à elevação dos honorários advocatícios" (REsp 834.100/PR, Rel. Min. JOSÉ DELGADO, DJU 26.06.2006).
+Registra-se, por oportuno, que esta Corte já decidiu pela legitimidade concorrente da parte e do seu advogado para interpor recurso que pretende unicamente o arbitramento ou a majoração dos honorários de sucumbência.
+Nesse sentido:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. LEGITIMIDADE CONCORRENTE. RECURSO EM NOME DA PARTE QUE LITIGA SOB O PÁLIO DA GRATUIDADE DA JUSTIÇA. DESERÇÃO. NÃO OCORRÊNCIA.
+1. A jurisprudência desta Corte possui o entendimento de que, apesar de os honorários advocatícios constituírem direito autônomo do advogado, não se exclui da parte a legitimidade concorrente para discuti-los, não ocorrendo deserção se ela litiga sob o pálio da gratuidade da justiça.
+2. Recurso especial provido (REsp 1.596.062/SP, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), Segunda Turma, DJe 14/6/2016 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MEDIDA CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. HONORÁRIOS ADVOCATÍCIOS. MITIGAÇÃO DO ÓBICE DA SÚMULA Nº 7. VALOR IRRISÓRIO. EQUIDADE. MAJORAÇÃO. DESERÇÃO. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que a majoração do valor arbitrado a título de honorários advocatícios enseja o revolvimento de matéria fático-probatória, além das peculiaridades do caso concreto, salvo quando o valor se revelar irrisório ou exorbitante, por se distanciar dos critérios legais, passando a questão a ser de direito. É o caso.
+2. A parte possui legitimidade concorrente para recorrer da decisão que fixa os honorários sucumbenciais, a despeito de referida verba constituir direito autônomo do advogado, inocorrendo deserção se ela litiga sob o pálio da gratuidade da justiça.
+3. Agravo regimental não provido" (AgRg no REsp 1.466.005/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/9/2015, DJe 29/9/2015).
+"PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. ARTS. 22 E 23 DA LEI N. 8.906/94. LEGITIMIDADE CONCORRENTE. RECURSO EM NOME DA PARTE QUE LITIGA SOB O PÁLIO DA GRATUIDADE DA JUSTIÇA. DESERÇÃO. INOCORRÊNCIA.
+1. Hipótese em que a causídica, interpondo recurso de apelação em nome dos exequentes, o qual versava unicamente sobre honorários advocatícios, deixa de recolher o preparo, em razão desses litigarem sob o pálio da gratuidade da justiça, porém o recurso é considerado deserto, em razão do entendimento da Corte Estadual de que a advogada não pode se servir da gratuidade da justiça concedida aos exequentes.
+2. Sabe-se que os honorários, contratuais e de sucumbência, constituem direito autônomo do advogado, que não pode ser confundido com o direito da parte, tal como dispõe a Lei n. 8.906/94 (cf. AgRg no REsp 1221726/MA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 02/05/2013).
+3. A despeito de a verba relativa à sucumbência constituir direito autônomo do advogado, não se exclui da parte a legitimidade concorrente para discuti-la, ante a ratio essendi do art. 23 da Lei nº 8.906/94 (cf. REsp 828300/SC, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe de 24/04/2008).
+4. Não tendo agido a advogada em nome próprio, não há falar em deserção quando o litigante está abrigado pela gratuidade da Justiça.
+5. Agravo regimental não provido"
+(AgRg no REsp 1.378.162/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 4/2/2014, DJe 10/2/2014 - grifou-se).
+Logo, a decisão recorrida merece reparo quanto ao ponto para que, afastada a ilegitimidade do recorrente, seja realizado o julgamento da apelação adesiva.
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem para que aprecie o pedido de majoração de honorários advocatícios, como entender de direito.
+Publique-se.
+Intimem-se.
