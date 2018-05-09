@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANO MATERIAL. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. No caso, cuida-se de ação de indenização do mandante em face do mandatário, em razão de suposto mau cumprimento do contrato de mandato, hipótese sem previsão legal específica, circunstância que faz incidir a prescrição geral de 10 (dez) anos do art. 205 do Código Civil de 2002, cujo prazo começa a fluir a partir da vigência do novo diploma (11.1.2003), respeitada a regra de transição prevista no art. 2.028.
+2. Recurso especial conhecido e provido.
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME] e [NOME], com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de reparação por dano material, ajuizada pelos recorrentes, em face de WILSON BRITO DA LUZ JUNIOR e MARCIO EDUARDO MATIAS DE SOUZA, devido ao inadimplemento do contrato de prestação de serviços advocatícios firmados entre as partes, na qual pleiteiam sejam os recorridos condenados ao pagamento da quantia de R$ 150.000,00 (cento e cinquenta mil reais).
+Sentença: extinguiu o processo, com resolução do mérito, nos termos do art. 269, IV, do CPC/73, em virtude da prescrição da pretensão dos recorrentes.
+Acórdão: negou provimento à apelação interposta pelos recorrentes, nos termos da seguinte ementa:
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. TEMPESTIVIDADE RECURSAL. CASO CONCRETO. ATESTADO ODONTOLÓGICO. Considerando que a parte não pode ser prejudicada por enfermidade acometida ao seu único procurador constituído nos autos, rejeito a preliminar de intempestividade recursal. MANDATOS. SERVIÇOS ADVOCATÍCIOS. PRESCRIÇÃO TRIENAL. Incidência, na espécie, do disposto no art. 206, § 3º, inc. IV, do Código Civil. Termo inicial, no entanto, que somente pode ser computado a partir da inequívoca ciência da parte em relação ao alegado ato ilícito praticado pelos procuradores. Aplicação do princípio da actio nata. Hipótese, pois, em que transcorrido o prazo trienal desde a revogação dos mandatos até a propositura da demanda. Sentença confirmada. REJEITARAM A PRELIMINAR DE INTEMPESTIVIDADE RECURSAL E, NO MÉRITO, NEGARAM PROVIMENTO AO APELO. UNÂNIME. (e-STJ Fl. 489)
+Recurso especial: alegam violação do art. 205 do CC, bem como dissídio jurisprudencial. Sustentam ser aplicável o prazo prescricional decenal à espécie.
+Relatado o processo, decide-se.
+- Do prazo prescricional aplicável à pretensão reparatória do mandante em face do mandatário
+O TJ/RS, ao decidir pela aplicação do prazo prescricional trienal à hipótese dos autos, contrariou o entendimento do STJ no sentido de que "na ação de indenização do mandante em face do mandatário, em razão de suposto mau cumprimento do contrato de mandato, hipótese sem previsão legal específica, circunstância que faz incidir a prescrição geral de 10 (dez) anos do art. 205 do Código Civil de 2002" (REsp 1150711/MG, Quarta Turma, Dje de 15/03/2012). Logo, o acórdão recorrido merece reforma.
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, para afastar a prescrição da pretensão articulada pelos recorrentes na inicial e determinar o retorno dos autos ao Juízo de 1º grau de jurisdição para novo julgamento.
+Publique-se. Intimem-se.
