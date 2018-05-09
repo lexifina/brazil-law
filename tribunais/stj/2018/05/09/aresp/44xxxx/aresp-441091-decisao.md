@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manejado, com fundamento no CPC/73, por [NOME] contra decisão que não admitiu recurso especial, este interposto com base no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco, assim ementado (fl. 190):
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO DE AGRAVO. EXECUÇÃO FISCAL. DECISÃO PROFERIDA PELO TRIBUNAL DE CONTAS. CRÉDITO NÃO-TRIBUTÁRIO. PRESCRIÇÃO REGULADA PELO CÓDIGO CIVIL. INOCORRÊNCIA NA ESPÉCIE. RECURSO IMPROVIDO. DECISÃO UNÂNIME.
+1. As decisões do Tribunal de Contas de que resulte imputação de débito ou multa possuem eficácia de título executivo, gerando crédito de natureza não-tributária, não se aplicando o prazo prescricional previsto no art. 174 do CTN, regulando-se pela regra geral prevista no Código Civil.
+2. Incidência do prazo prescricional de 10 anos no caso concreto, de acordo com o art. 205, combinado com o art. 2.028, ambos do atual Código Civil.
+3. Pretensão executiva não atingida pela prescrição.
+4. Recurso de Agravo não provido de forma indiscrepante.
+É o breve relatório.
+Verifica-se que, ao tempo da prolação do juízo de admissibilidade, o Superior Tribunal de Justiça já havia afetado o tema em debate para exame sob o rito do art. 543-C do CPC/73 (Tema 135), restando firmada a tese de que é de cinco anos o prazo prescricional para o ajuizamento da execução fiscal de cobrança de multa de natureza administrativa, contado do momento em que se torna exigível o crédito, com o vencimento do prazo do seu pagamento.
+Eis a ementa do julgado:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. RITO DO ARTIGO 543-C DO CÓDIGO DE PROCESSO CIVIL. EXERCÍCIO DO PODER DE POLÍCIA. MULTA ADMINISTRATIVA. EXECUÇÃO FISCAL. PRAZO PRESCRICIONAL. INCIDÊNCIA DO DECRETO Nº 20.910/32. PRINCÍPIO DA ISONOMIA.
+1. É de cinco anos o prazo prescricional para o ajuizamento da execução fiscal de cobrança de multa de natureza administrativa, contado do momento em que se torna exigível o crédito (artigo 1º do Decreto nº 20.910/32).
+2. Recurso especial provido.
+(REsp 1.105.442/RJ, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA SEÇÃO, julgado em 09/12/2009, DJe 22/02/2011)
+Mesmo na vigência do CPC/73, a aplicação da sistemática dos recursos especiais repetitivos deveria anteceder a análise dos pressupostos de admissibilidade do apelo raro, incumbindo ao Presidente do Tribunal de origem assim proceder em relação aos recursos especiais que versassem sobre os temas já julgados sob o rito do art. 543-C do CPC/73: "Publicado o acórdão do Superior Tribunal de Justiça, os recursos especiais sobrestados na origem: I - terão seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; II - serão novamente examinados pelo tribunal de origem na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça" (art. 543-C, § 7º, I e II, do CPC/73).
+Esse mesmo procedimento restou ratificado pelo novel diploma processual civil (cf art. 1.030, I, b, e II, do CPC/2015).
+Assim, haverá o juízo de admissibilidade do recurso especial somente nos casos em que, ultrapassada a fase relativa ao juízo de conformidade, o Tribunal a quo, em decisão colegiada, mantiver a decisão divergente daquela firmada no leading case (art. 543-C, § 8º, do CPC/73: "Na hipótese prevista no inciso II do § 7o deste artigo, mantida a decisão divergente pelo tribunal de origem, far-se-á o exame de admissibilidade do recurso especial"; cf ainda art. 1.030, V, c, do CPC/2015).
+Compete, pois, ao Tribunal a quo efetuar o juízo de conformidade (art. 543-C, §§ 7º e 8º, do CPC/73; art. 1.030, I, b, CPC/2015) antes de analisar os pressupostos de prelibação do recurso especial.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, a fim de que ali se cumpra o rito previsto no § 7º do art. 543-C do então vigente CPC/73, com a prévia submissão do feito ao órgão fracionário competente para, em sendo o caso, promover-se o cabível juízo de adequação.
+Publique-se.
