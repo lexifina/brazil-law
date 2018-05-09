@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] MENDES contra a decisão de fls. 757/763, da lavra desta relatoria, que deu provimento ao recurso especial interposto por GLOBO COMUNICAÇÕES E PARTICIPAÇÕES S/A, no sentido de julgar improcedente o pedido indenizatório formulado pela aqui embargante.
+Aduz a embargante, em síntese, que a decisão embargada seria contraditória, uma vez que a obra audiovisual objeto de sua irresignação não seria biográfica, mas sim romanceada para fins de entretenimento, razão pelo qual entende ser inaplicável o precedente do Supremo Tribunal Federal produzido no julgamento da ADI 4.815, que considerou dispensável, para produção de obras biográficas, a autorização do biografado.
+A embargada, por sua vez, sustenta o caráter infringente da pretensão embutida nos aclaratórios, defendendo, por essa razão, o não cabimento destes. De outro lado, defende a manutenção do entendimento firmado na decisão embargada, sob o argumento de ser irrelevante a existência de autorização, na esteira do entendimento firmado pelo Pretório Excelso no julgado anteriormente mencionado.
+É o relatório. Decido.
+Diante da relevância das razões esposadas pela parte ora embargante, acolho os embargos declaratórios, com eficácia modificativa, para tornar sem efeito a decisão embargada (fls. 757/763), determinando o retorno dos autos a esta relatoria para nova análise do apelo nobre.
+Publique-se.
