@@ -1,0 +1,40 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Bauru Produtos de Petróleo Ltda. contra decisão que não admitiu o recurso especial com base no óbice da Súmula 7 do STJ.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo na alínea "a" do permissivo constitucional em oposição a acórdão assim ementado (e-STJ, fl. 351):
+APELAÇÃO CÍVEL. Classificação errônea de veículo Retificação da categoria "caminhão" para "caminhonete" - Ilegitimidade do órgão estadual de trânsito para efetivação da pretensão. Recurso voluntário e reexame necessário providos.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 365-368).
+A agravante alega violação dos arts. 293 e 460 do CPC/1973, porquanto o Tribunal de origem proferiu decisão ultra petita em relação aos honorários sucumbenciais indevidamente majorados.
+É o relatório.
+Relativamente à inversão do ônus da sucumbência, a Corte local entendeu (e-STJ, fl. 367):
+E, em virtude do acolhimento do seu pleito, o embargante foi condenado ao pagamento da verba honorária no valor de R$ 2.400,00, contra o que se insurge com os presentes embargos sob o fundamento de julgamento ultra petita, já que em Primeiro Grau os honorários foram arbitrados em R$ 1.000,00.
+Ora, o pedido de inversão do ônus não vincula o Magistrado ao valor arbitrado no Juízo a quo, haja vista que se deve considerar que a parte vencedora laborou para obter a inversão do julgado, o que merece ser levado em consideração quando do arbitramento em grau recursal, não caracterizando tal procedimento julgamento ultra petita.
+Verifico que, no caso específico, não houve majoração de ofício dos honorários advocatícios, mas, sim, a reforma do julgado da sentença, razão pela qual ocorreu a inversão do ônus de sucumbência.
+Importante ressaltar que o pedido inicial deve ser interpretado em consonância com a pretensão deduzida na petição inicial como um todo. Dessa forma, o acolhimento de pleito extraído da interpretação lógico-sistemática da petição inicial não implica julgamento ultra petita.
+Ademais, não houve violação do princípio da non reformatio in pejus, uma vez que as verbas sucumbenciais, a correção monetária e os juros legais integram os chamados pedidos implícitos.
+Destaco, ainda, que o valor arbitrado pela instância ordinária está situado dentro dos limites da razoabilidade e da proporcionalidade, motivo pelo qual não pode ser revisto na via recursal eleita em vista da incidência da Súmula 7/STJ. Desse modo, não há que se falar em julgamento ultra petita.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. ALEGADA OFENSA AO ART. 535 DO DIPLOMA PROCESSUAL. INOCORRÊNCIA. DECISÃO MONOCRÁTICA EM SEDE DE APELAÇÃO. POSSIBILIDADE. OFENSA AOS ARTS. 2.º, 128, 264, 293, 294, 459 e 460, DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DA PETIÇÃO INICIAL. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. PEDIDOS IMPLÍCITOS. MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL. EXCLUSÃO. SÚMULA N.º 98 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. A via especial, destinada à uniformização da interpretação da legislação infraconstitucional, não se presta à análise de possível afronta a dispositivos da Constituição da República.
+2. O acórdão hostilizado solucionou as questões apontadas como omitidas de maneira clara e coerente, apresentando as razões que firmaram o seu convencimento.
+3. O entendimento deste Superior Tribunal de Justiça é no sentido de que a eventual decisão monocrática do relator não viola a sistemática processual, tampouco o princípio do duplo grau de jurisdição. Precedentes.
+4. O Tribunal de origem, com base na apreciação do conjunto probatório dos autos, concluiu que restaram comprovados os requisitos necessários à percepção da pensão por morte pela companheira e, portanto, a inversão desse entendimento esbarra no óbice da Súmula 07 desta Corte.
+5. Está preclusa a alegação de que deveria ter havido a extinção do processo, sem julgamento do mérito, ante a impossibilidade de que o Tribunal a quo anulasse a sentença pela ausência de citação do litisconsórcio, tendo em vista o trânsito em julgado do acórdão proferido em sede de agravo de instrumento (fls. 116 e 123 do apenso 02).
+6. O pedido inicial deve ser interpretado em consonância com a pretensão deduzida na exordial como um todo, sendo certo que o acolhimento de pleito extraído da interpretação lógico-sistemática da peça inicial não implica julgamento extra petita.
+7. Quanto à suposta violação ao princípio da non reformatio in pejus, cabe esclarecer que as verbas sucumbenciais, correção monetária e juros legais integram os chamados pedidos implícitos. Precedentes.
+8. A Defensoria Pública do Estado do Rio de Janeiro e a Rioprevidência são pessoas jurídicas de direito público distintas e, nessas condições, não há confusão quanto à dívida de honorários advocatícios, não sendo hipótese de incidência do art. 381 do Código Civil de 2002.
+9. Nos termos da Súmula n.º 98 do Superior Tribunal de Justiça, os embargos de declaração opostos com notório propósito de prequestionamento, como no caso dos autos, não têm caráter protelatório, devendo ser afastada a multa imposta pelo Tribunal a quo.
+10. Recurso especial parcialmente conhecimento e, nessa extensão, parcialmente provido.
+(REsp 1.070.929/RJ, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe 11/10/2010)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTROVÉRSIA ACERCA DA EXCLUSÃO, PELO TRIBUNAL DE ORIGEM, DOS HONORÁRIOS ADVOCATÍCIOS ARBITRADOS NA SENTENÇA. JULGAMENTO ULTRA PETITA. NÃO-OCORRÊNCIA. DECRETO-LEI 1.025/69. SUBSTITUIÇÃO DOS HONORÁRIOS.
+1. Os honorários, como consectários da sucumbência, integram o conteúdo implícito do pedido. Ademais, houve expresso peticionamento, no recurso de apelação, para exclusão dos encargos previstos no Decreto-Lei 1.025/69, que, nos termos da Súmula 168 do extinto TFR, substituiu os honorários.
+2. Agravo regimental desprovido.
+(AgRg no Ag 1.018.124/SP, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe 11/2/2009)
+ADMINISTRATIVO. PROCESSUAL CIVIL. TRÂNSITO. INFRAÇÃO AO CÓDIGO DE TRÂNSITO BRASILEIRO. DUPLA NOTIFICAÇÃO. ANÁLISE REALIZADA PELO TRIBUNAL A QUO COM BASE NOS ELEMENTOS FÁTICOS E PROBATÓRIOS CONSTANTES DOS AUTOS CONCLUIU PELA LEGALIDADE DO PROCEDIMENTO ADMINISTRATIVO INCLUSIVE TENDO SIDO CUMPRIDA A SÚMULA 312/STJ. INVIABILIDADE DE NOVA ANÁLISE NA VIA RECURSAL ELEITA. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM VALOR RAZOÁVEL E PROPORCIONAL EM RAZÃO DE INVERSÃO DO ÔNUS SUCUMBENCIAL. INVIABILIDADE DE NOVA ANÁLISE NA VIA RECURSAL ELEITA.
+1. Nas razões do agravo regimental, a parte ora agravante sustenta que o documento de fl. 57 seria apenas um histórico unilateral, o qual não seria meio probatório hábil a demonstrar a ocorrência da dupla notificação em face da ausência nos autos dos avisos de recebimento notificatórios. No entanto, com base nos elementos fáticos e probatórios constantes dos autos, o Tribunal a quo concluiu pela legalidade do procedimento administrativo, inclusive tendo sido expressamente consignado que houve a dupla notificação bem como a oportunização de prazo tanto para a defesa prévia quanto para o recurso administrativo. Assim, inviável nova análise na via recursal eleita nos termos da Súmula 7/STJ.
+2. No caso em concreto, não houve majoração de ofício dos honorários advocatícios mas sim a reforma do julgado da sentença, razão pela qual houve a inversão do ônus de sucumbência. Além do mais, verifica-se que o valor arbitrado está situado dentro dos limites da razoabilidade e da proporcionalidade, razão pela qual não pode ser revisto na via recursal eleita em vista da incidência da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.340.602/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 8/2/2013)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
