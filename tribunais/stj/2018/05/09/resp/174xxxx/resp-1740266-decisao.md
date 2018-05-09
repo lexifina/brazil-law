@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por [NOME] DE SEGURIDADE SOCIAL. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+" Responsabilidade civil. Atos reputados lesivos, praticados por administradores nos exercícios financeiros de 1995 e 1996. Contas aprovadas em assembleia. Ausência de impugnação ou anulação. Regularidade das contas (art. 134, §3º, da Lei n.º 6.404/76). Recurso desprovido" (fl. 1.448 e-STJ).
+Nas razões do especial, além de dissídio jurisprudencial, o agravante apontou violação dos arts. 202, parágrafo único, e 206, § 3º, V, do Código Civil, e 1.029 e seguintes do Código de Processo Civil de 2015 e pugnou pela inaplicabilidade da Lei nº 6.404/1976, que foi revogada pela Lei Complementar nº 109/2001.
+Sustentou, em síntese, que não se aplica, na espécie, a lei das sociedades anônimas, porque "somente poderia ser aplicado os regramentos contidos na Lei das Sociedades Anônimas, em especial as responsabilidades contidas nos art. 134, § 3º, 153 e 286 da Lei nº 6404/76 se efetivamente não existisse lei especifica para tratar de assuntos inerentes às entidades de previdência privada complementar" (fl. 1.488 e-STJ).
+Afirmou que "Querer aplicar os regramentos contidos na Lei das Sociedades Anônimas fundamentando a decisão de que a época dos atos praticados a Lei Complementar 109/2001 ainda não vigia, não pode e nem deve prosperar" (fl. 1.489 e STJ). Desse modo, a interrupção do prazo prescricional deve ser feito com base na lei que rege as entidades de previdência complementar privada (Lei Complementar nº 109/2001).
+Defendeu que a prescrição recomeçou a correr da data do ato que a interrompeu e o prazo prescricional é de três anos, portanto "Resta incontroverso, que a última citação válida juntada aos autos da medida cautelar ocorreu em 12/04/2006, constituindo o último ato do processo para interromper a prescrição, sendo indubitável que o prazo prescricional é de 03 (três) anos (art. 206 do CC), concluindo, portanto, que o prazo para a propositura da presente demanda se encerraria em 12/04/2009" (fl. 1.491 e-STJ).
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+ É o relatório.
+DECIDO.
+Verifica-se estarem presentes os pressupostos de admissibilidade do agravo.
+Por tal motivo, e por entender que a matéria merece melhor exame, dou provimento ao agravo para determinar a sua reautuação como recurso especial, nos termos do artigo 34, inciso XVI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
