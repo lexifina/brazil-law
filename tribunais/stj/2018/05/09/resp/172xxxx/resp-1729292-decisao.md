@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO - ECAD, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"Apelação Cível. Propriedade Intelectual. Ação de cumprimento de preceito legal c/c perdas e danos. Cobrança de direitos autorais pelo ECAD. Locais de freqüência coletiva, nos quais a disponibilização de televisão autoriza a cobrança de direitos autorais em razão da circulação de público e cobrança de valores para utilização dos espaços. Inteligência da Súmula 63 do Superior Tribunal de Justiça. Em que pese esta Corte possua o entendimento de que é vedada a cobrança dúplice em relação ao sistema de TV a cabo, a parte ré não logrou de comprovar os devidos pagamentos, ônus que lhe incumbia (art. 373, I, CPC/15), logo, mostra-se necessário o recolhimento dos direitos autorais pelo ECAD. Multa moratória. Inaplicabilidade. Inteligência do art. 509, §2º do Código de Processo Civil. Tutela inibitória indeferida. Medida extremamente gravosa. Possibilidade de resolução em perdas e danos. À unanimidade, negaram provimento ao apelo da parte autora e deram parcial provimento ao apelo da parte ré" (fl. 516 e-STJ).
+Os embargos declaratórios opostos foram rejeitados.
+Nas razões de seu especial, além de dissídio jurisprudencial, o recorrente aponta violação dos artigos 1.022 do Código de Processo Civil de 2015 e 105 da Lei nº 9.610/1998.
+Aduz omissão no julgado.
+Afirma que, "uma vez constatada a ausência de autorização do autor e, não realizado o recolhimento dos direitos autorais, não há como o Judiciário deixar de conceder a tutela inibitória prevista no art. 105" (fl. 578 e-STJ).
+Sustenta, ainda, que
+"(..)
+Vale frisar a essa Egrégia Corte Superior que mantendo-se a posição firmada pelo v. acórdão pelo descabimento do pleito inibitório deduzido na exordial aforada pelo recorrente estaremos enfrentando óbice de natureza constitucional, conquanto, estaria com sua omissão e desprezo à ordem legal, autorizando, em efeito, o estabelecimento recorrido a fazer uso das obras alheias em detrimento do direito exclusivo do autor de aproveitamento econômico de suas criações, o que viola e nega vigência aos artigos 4º ,28, 29, 31, 68 e 105, da Lei de Direitos Autorais nº 9.610/98, conforme já apontado nas presentes razões e ordem constitucional que garante aos autores a exclusividade de proveito econômico de suas criações" (fl. 582 e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar em parte.
+Primeiramente, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no aresto embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"PROCESSO CIVIL. AGRAVO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA DE OMISSÃO OU CONTRADIÇÃO.
+1. O artigo 535 do Código de Processo Civil dispõe sobre omissões, obscuridades ou contradições existentes nos julgados. Trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que se verifica a existência dos vícios na lei indicados.
+2. Afasta-se a violação do art. 535 do CPC quando o decisório está claro e suficientemente fundamentado, decidindo integralmente a controvérsia. (..)".
+(AgRg no Ag 1.176.665/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 10/5/2011, DJe 19/5/2011).
+No que pertine à tutela inibitória, a qual determina que o recorrente suspenda qualquer comunicação ao público de obras musicais, lítero-musicais e fonogramas, enquanto não providenciar a prévia e expressa autorização do recorrente, com a incidência de multa diária, esta Corte tem decidido por sua concessão em casos como o discutido nos presentes autos.
+Confira-se:
+"RECURSO ESPECIAL. DIREITOS AUTORAIS. ECAD. AÇÃO DE COBRANÇA. UTILIZAÇÃO COMERCIAL DE OBRAS MUSICAIS SEM AUTORIZAÇÃO. TELEVISÃO CAPIXABA. EMISSORA DE TELEVISÃO AFILIADA. RETRANSMISSÃO DA PROGRAMAÇÃO NACIONAL. DIREITOS AUTORAIS DEVIDOS. JUROS DE MORA. TERMO INICIAL. ATO ILÍCITO. ART. 398 DO CC. PRAZO DE PRESCRIÇÃO (CINCO ANOS NO CC/16 E DEZ ANOS NO CC/02). AUSÊNCIA DE PRAZO ESPECÍFICO. APLICAÇÃO DA REGRA GERAL. TUTELA INIBITÓRIA. ART. 105 DA LEI N. 9.610/98. NECESSIDADE DE APLICAÇÃO. POSSIBILIDADE DE SUSPENSÃO DO USO DE OBRAS MUSICAIS. OBRIGAÇÕES DEVIDAS NO CURSO DO PROCESSO. ART. 290 DO CPC. INCLUSÃO NA CONDENAÇÃO ATÉ SEU PAGAMENTO.
+1. Pretensão do ECAD de receber retribuição referente aos direitos autorais de músicas executadas pela Televisão Capixaba em sua grade de programação.
+2. Obrigação da emissora de televisão afiliada de pagar direitos autorais não apenas em razão das obras musicais transmitidas em sua programação local, mas também em razão daquelas retransmitidas da programação nacional.
+5. Havendo ato ilícito, a mora ocorre no exato momento do cometimento do ato, razão pela qual, a partir daí, começam a incidir os juros moratórios, nos termos do art. 398 do CC.
+6. Não havendo prazo específico para cobrança de valores decorrentes da ofensa a direito patrimonial de autor, aplica-se a regra geral do art. 205 do CC, sendo de dez anos o prazo, não sendo possível a aplicação do art. 206, § 3º, V, do CC, por não se tratar de reparação de danos.
+7. Deve ser autorizada a suspensão da utilização de obras musicais caso haja nova violação de direitos autorais, nos termos do que determina o art. 105 da Lei n. 9.610/98. Precedente específico desta Corte.
+8. Devem ser incluídas na condenação as obrigações devidas no curso do processo até o pagamento, nos termos do art. 290 do CPC/73.
+9. RECURSO DO AUTOR PROVIDO E RECURSO DA RÉ DESPROVIDO" (REsp 1.556.118/ES, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 13/12/2016, DJe 19/12/2016).
+"DIREITOS AUTORAIS. RECURSO ESPECIAL. ECAD. SUSPENSÃO DA EXECUÇÃO DE OBRAS MUSICAIS. RÁDIO. NÃO PAGAMENTO DOS DIREITOS AUTORAIS. TUTELA ESPECÍFICA DE CARÁTER INIBITÓRIO. POSSIBILIDADE.
+1. Discussão relativa ao cabimento da medida de suspensão ou interrupção da transmissão obras musicais, por emissora de radiodifusão, em razão da falta de pagamento dos direito autorais.
+2. A autorização para exibição ou execução das obras compreende o prévio pagamento dos direitos autorais.
+3. A possibilidade de concessão da tutela inibitória, para impedir a violação aos direitos autorais de seus titulares, (art. 105 da Lei 9.610/98), está prevista de forma ampla na norma, não havendo distinção entre os direitos morais e patrimoniais de autor.
+4. Não se deve confundir a pretensão de recebimento dos valores devidos, a ser obtida por meio da tutela condenatória e executiva, com a pretensão inibitória, que visa cessar ou impedir novas violações aos direitos autorais. Ao mesmo tempo, há que se frisar que uma não exclui a outra.
+5. Admitir que a execução das obras possa continuar normalmente, mesmo sem o recolhimento dos valores devidos ao ECAD - porque essa cobrança será objeto de tutela jurisdicional própria -, seria o mesmo que permitir a violação aos direitos patrimoniais de autor, relativizando a norma que prevê que o pagamento dos respectivos valores deve ser prévio (art. 68, caput e §4º da Lei 9.610/98)
+6. Recurso especial provido" (REsp 1.190.841/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/06/2013, DJe 21/06/2013).
+Assim, é devida a tutela inibitória.
+Por fim, verifica-se que as matérias versadas nos arts. 4º, 28, 29, 31, 68 e 105 da Lei de Direitos Autorais nº 9.610/98 não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar vício porventura existente.
+Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.".
+Ante o exposto, dou parcial provimento ao recurso especial para conceder a tutela inibitória requerida, prevista no art. 105 da Lei nº 9.610/98, a fim de determinar ao recorrido que suspenda qualquer comunicação ao público de obras musicais, lítero-musicais e fonogramas, enquanto não providenciar a prévia e expressa autorização do recorrente, com a incidência de multa diária e outras medidas a serem fixadas pelo juízo competente para o caso de descumprimento da suspensão.
+Considerada a sucumbência recíproca fixada na origem (fl. 390 e-STJ), deixo de majorar os honorários advocatícios, nos termos do artigo 85, § 11, do CPC/2015.
+Publique-se.
+Intimem-se.
