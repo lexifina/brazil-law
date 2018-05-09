@@ -1,0 +1,55 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. INDEFERIMENTO DE PROVA TESTEMUNHAL. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. CERCEAMENTO DE DEFESA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 309):
+DIREITO ADMINISTRATIVO E PROCESSO CIVIL. APELAÇÃO CÍVEL. INSS. SERVIDOR. PROCESSO ADMINISTRATIVO DISCIPLINAR. PORTARIA. ANULAÇÃO. DESCABIMENTO.
+1. A sentença negou a anulação da Portaria INSS nº 147/2009 que demitiu a apelante do INSS; sua reintegração no cargo de agente de serviços diversos; o pagamento de atrasados e consectários legais; custas e honorários no valor de 20% do valor da causa;
+e indenização de mil salários mínimos por danos morais, fundada em que não houve cerceamento de defesa, descabendo adentrar ao mérito da decisão administrativa, pena de violar a autonomia do administrador.
+2. Não houve cerceamento de defesa, pois cabe ao juiz, destinatário da prova, consoante o sistema da persuasão racional, avaliar a conveniência da produção da prova testemunhal.
+3. Tampouco a Comissão Disciplinar do PAD, ao negar a oitiva de outros servidores, cerceou a defesa da apelante no âmbito administrativo, pois a prova testemunhal é desnecessária, já que a senha corporativa, pessoal e intransferível, visa justamente a prevenir responsabilidade, incólumes os princípios constitucionais do devido processo legal, da ampla defesa e do contraditório.
+4. O Judiciário pode aferir a razoabilidade e proporcionalidade dos atos administrativos, mero exame de legalidade, que não macula a discricionariedade. Precedente da Turma.
+5. A demissão foi aplicada acorde os princípios constitucionais da razoabilidade e da proporcionalidade, pois o processo administrativo disciplinar foi devidamente instruído e fundamentado.
+6. Há provas contundentes do proveito pessoal auferido pela apelante, que apontam seu envolvimento no pagamento de propinas a peritos, responsáveis pela elaboração de laudos fictícios.
+7. Fosse pouco, o prejuízo ao erário totalizou a quantia de R$163.238,22.
+8. Apelação desprovida. Agravo Retido prejudicado.
+No recurso especial a recorrente alega violação do artigo 407 do CPC/1973, ao argumento de que o indeferimento da produção da prova testemunhal oportunamente requerida e necessária à comprovação do seu direito, constitui cerceamento de defesa, devendo, por tal razão anular-se a sentença e o acórdão a quo.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Sob esse enfoque, destaca-se que inocorre cerceamento de defesa quando desnecessária a produção da prova pretendida (REsp 226.064/CE, Rel. Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, DJ 29/9/2003).
+De fato, por força do princípio da persuasão racional ou da livre convicção motivada, cabe ao magistrado apreciar livremente a prova, atendendo aos fatos e circunstâncias constantes dos autos, competindo-lhe pois, rejeitar diligências que delonguem desnecessariamente o julgamento.
+Assim, em razão de tal princípio, não seria o julgador obrigado a autorizar a produção de prova testemunhal se considerou suficientes os documentos apresentados.
+Nesse sentido (com grifos nossos):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ADIMPLEMENTO CONTRATUAL AJUIZADA POR ESPÓLIO. FASE DE CUMPRIMENTO DE SENTENÇA. EMPRESA DE TELEFONIA. INVERSÃO DO ÔNUS DA PROVA. ANÁLISE DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. DOCUMENTAÇÃO NOS AUTOS. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. REEXAME. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO INTERNO DA EMPRESA DESPROVIDO.
+1. Insuscetível de revisão, nesta seara, o entendimento da Corte de origem relativo à inversão do ônus da prova, por demandar interpretação de cláusulas contratuais e reexame do conjunto fático-probatório.
+2. A jurisprudência do STJ pacificou o entendimento de que o Tribunal de origem é soberano na análise das provas, podendo, portanto, concluir pela necessidade ou desnecessidade da produção de provas periciais, testemunhais e documentais.
+3. Agravo Interno da OI S.A. desprovido (AgInt no AREsp 734.325/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 31/3/2017).
+PROCESSUAL CIVIL. AÇÃO DE INVENTÁRIO. PRELIMINARES DE ILEGITIMIDADE ATIVA, FALTA DE INTERESSE RECURSAL E PRECLUSÃO AFASTADAS PELO TRIBUNAL DE ORIGEM. NECESSIDADE DE REALIZAÇÃO DE NOVA PERÍCIA VERIFICADA A PARTIR DA ANÁLISE DOS ELEMENTOS DE CONVICÇÃO DOS AUTOS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO E DA DIVERGÊNCIA SUSCITADA. IMPOSSIBILIDADE. SÚMULA 7/STJ. CONTROVÉRSIA DIRIMIDA À LUZ DAS CIRCUNSTÂNCIAS DO CASO CONCRETO.
+1. Na hipótese dos autos, não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada, manifestando-se de forma clara sobre o punctum dolens do feito, qual seja necessidade de se realizar nova perícia em razão, principalmente, da disparidade entre as avaliações administrativa e judicial realizadas, e em virtude de outros elementos fáticos.
+2. No que diz respeito à legitimidade e ao interesse de agir, o Tribunal de origem estabeleceu que decorrem do disposto no artigo 999 do CPC, que, por sua vez, fixa a obrigatoriedade de citação da Fazenda Pública para participar do inventário.
+3. A litigiosidade, efeito legal da citação por força do art. 219 do CPC/73, fundamenta a legitimidade da Fazenda Pública e o seu interesse de agir, inclusive de recorrer, mormente em se considerando o direito do Fisco na arrecadação dos tributos correspondentes, in casu, o ITCMD.
+4. O acolhimento da tese de preclusão, com base no art. 1.009/CPC, demandaria avaliar se a Fazenda Pública foi efetivamente intimada a se manifestar sobre o indigitado laudo pericial.
+5. Frise-se que a parte recorrente apenas indica a existência de determinação judicial para que se procedesse à intimação (fl. 1.012/e-STJ), mas não há evidência ou confirmação de que a multicitada intimação realmente tenha ocorrido.
+6. O STJ tem entendimento firmado, com base nos arts. 130 e 131 do CPC, de que cumpre ao magistrado, destinatário da prova, valorar sua necessidade, conforme o princípio do livre convencimento motivado, deferindo ou indeferindo a produção de novas provas. Incidência do óbice da Súmula 7/STJ. Precedentes do STJ.
+7. "A incidência da referida Súmula 7 impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (AgInt no REsp 1592074/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/10/2016, DJe 25/10/2016) 8.
+Agravo interno não provido (AgInt no AREsp 854.405/MS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2016).
+No caso em apreço, as instâncias ordinárias consideraram desnecessária a produção da prova testemunhal pretendida pela ora agravante em vista da suficiência das demais provas colacionadas aos autos. Confira-se, a propósito, o seguinte excerto do acórdão recorrido (fls. 302-303):
+ ..
+Em primeiro lugar, afasto a tese de nulidade da sentença por cerceamento de defesa, a pretexto do indeferimento da prova testemunhal.
+ ..
+A improcedência do pedido está fundada em documentos, prescindindo o magistrado da prova testemunhal para formar o seu convencimento, máxime na hipótese, em que a apelante, de forma lacônica, ao arrolar suas testemunhas, limitou-se a afirmar que "existem fatos que poderão ser melhor esclarecidos ao lídimo e amplo direito da autora", sendo que, das cinco testemunhas requeridas, acompanhou os depoimentos de duas, [NOME] e [NOME], no decorrer do PAD, que se presume legítimo.
+Noutro viés, sustenta que a Comissão Disciplinar cerceou sua defesa, pois indeferiu a oitiva de outros servidores que podiam esclarecer como o beneficio de [NOME] foi deferido com a senha da apelante durante suas férias, sob a genérica alegação de que "nas grandes repartições, em algum momento, são todos contra todos. São lobos comendo lobos. Um verdadeiro inferno".
+Todavia, observo que a prova testemunhal é desnecessária, pois, à evidência, a senha corporativa é pessoal e intransferível, visando justamente a prevenir responsabilidade, incólumes os princípios constitucionais do devido processo legal, da ampla defesa e do contraditório.
+Demais disso, a Ficha de Registro de Frequência está rasurada, e não se pode afirmar, com certeza absoluta, se a apelante estava de férias no momento da concessão do benefício a [NOME], cuja data sequer consta dos autos, afirmando a apelante, em sua defesa no PAD, que o benefício foi concedido em janeiro de 2003.
+ ..
+Mostra-se, portanto, inviável o seguimento da pretensão recursal quanto à análise da suposta ocorrência de cerceamento de defesa, pois necessário o reexame do conjunto fático-probatório dos autos para se obter entendimento diverso do exarado pelo Tribunal a quo, o que é obstado pela Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE VEÍCULO NO EXERCÍCIO DAS ATRIBUIÇÕES DO CARGO DE MOTORISTA. VIOLAÇÃO DO ARTIGO 535 DO CPC/1973. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. INDEFERIMENTO DE PROVA PERICIAL. CERCEAMENTO DE DEFESA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Os recursos interpostos com fulcro no CPC/1973 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo n. 2 do Plenário do STJ.
+2. A alegação genérica de violação do artigo 535 do CPC/1973, sem demonstrar qual questão de direito não foi abordada no acórdão recorrido e a sua efetiva relevância para fins de novo julgamento pelo Tribunal de origem, atrai a aplicação do disposto na Súmula 284/STF.
+3. A análise do suposto cerceamento de defesa, diante do quanto consignado no acórdão recorrido, exige o revolvimento do conteúdo fático-probatório dos autos, medida essa incabível nesta instância especial ante a vedação do enunciado da Súmula 7/STJ.
+4. Agravo regimental não provido (AgInt 443.396/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 20/10/2017).
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
