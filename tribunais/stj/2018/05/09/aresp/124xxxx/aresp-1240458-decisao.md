@@ -1,0 +1,35 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE VIGÊNCIA AOS ARTS. 381, III, 383, CAPUT, 384, CAPUT, E 617, TODOS DO CPP, E 121, § 2º, II, DO CP. AUSÊNCIA DE RAZÕES JURÍDICAS DA VULNERAÇÃO. APELO ESPECIAL COM FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME], contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, que negou provimento ao recurso em sentido estrito, mantendo os termos da sentença de pronúncia exarada em primeiro grau de jurisdição. (fls. 389/395)
+Em seu recurso especial, às fls. 453/460, sustenta o recorrente negativa de vigência aos artigos 381, inciso III, 383, caput, 384, caput, e 617, todos do Código de Processo Penal, e 121, § 2º, inciso II, do Código Penal, sob o argumento de que a qualificadora do motivo fútil "não encontrou qualquer suporte nos depoimentos em juízo, não podendo ser mantida".
+O Tribunal de origem, entretanto, negou seguimento ao recurso, às fls. 472/473, em decisão fundamentada nos seguintes termos:
+"Não estão presentes os requisitos de admissibilidade necessários ao seguimento do inconformismo.
+Com efeito, a matéria ventilada não restou devidamente prequestionada sob o enfoque desejado pelo recorrente, como se exigia ao caso. O prequestionamento, como é cediço, implica em debate a respeito da norma em testilha. Era imperioso, portanto, que a questão fosse "suficientemente discutida a ponto de se construir tese sobre ela".
+Cabe mencionar o julgamento proferido pelo Superior Tribunal de Justiça no Agravo Regimental no Recurso Especial nº 927.731/SP, Rel. Min. Jane Silva, julgado em 15/04/2008: "(..) 2. O prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável da própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais requisitos ao seu conhecimento. Não examinada a matéria objeto do especial pela instância a quo, mesmo com a oposição de embargos de declaração, incide o enunciado 211 desta Corte".
+Na mesma orientação: "(..) para que haja o prequestionamento é necessário que o tribunal se pronuncie sobre a incidência da norma ou de seu conteúdo material ao caso concreto, não bastando que as partes simplesmente invoquem o dispositivo".
+Ademais, incide ao caso o óbice da Súmula nº 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+Em sede de recurso especial, torna-se inadmissível reapreciar, como, já há muito, sabiamente lembrou o Min. Rodrigues Alckmin, "o poder de convicção das provas no caso concreto, para concluir se bem ou mal as apreciou a decisão recorrida".
+A propósito, já decidiu o Colendo Superior Tribunal de Justiça, no AgRg no AREsp 828.271/SC, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/04/2016, publicado no DJe 03/05/2016, que "(..) A análise da pretensão recursal exigiria, necessariamente, a incursão no conjunto fático-probatório e nos elementos de convicção dos autos, o que não é possível em sede de recurso especial, a teor da Súmula 7/STJ"."
+Em seu agravo, às fls. 487/491, assevera o recorrente que "toda a matéria ventilada no presente recurso foi devidamente prequestionada e enfrentada pelo Tribunal, vide fls. 284 último parágrafo e 285 primeiro parágrafo, no que tange o afastamento da qualificadora "motivo fútil"".
+Além disso, registra que "o presente recurso trata de matéria jurídica e não fática", já que "não se cuida de provar ou deixar de provar fatos ou circunstâncias, mas, estando estes já provados por toda a documentação já juntada aos autos, cuida-se sim de que seja atribuída a interpretação correta aos artigos mencionados da lei".
+É o relatório.
+A insurgência não tem como prosperar.
+Com efeito, no que se refere à apontada violação aos artigos 381, inciso III, 383, caput, 384, caput, e 617, todos do Código de Processo Penal, e 121, § 2º, inciso II, do Código Penal, verifica-se que o recorrente, não obstante ter apontado os dispositivos legais, não indicou precisamente as razões jurídicas pelas quais considerou violada cada uma das referidas normas infraconstitucionais.
+Assim, nos termos da jurisprudência deste STJ, "não basta a mera indicação dos dispositivos supostamente violados, pois as razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais o agravante visa reformar o decisum" (AgRg no REsp 1049276/SP, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, DJe 26/06/2008), o que não ocorreu, in casu.
+De fato, "no recurso especial, não basta a simples menção dos artigos que se reputam violados, as alegações devem ser fundamentadas, havendo uma concatenação lógica, demonstrando de plano como o aresto hostilizado teria malferido os dispositivos indicados" (AgRg no REsp 262.120/SP, Rel. Min. FRANCISCO FALCÃO, PRIMEIRA TURMA, DJ 03/10/2005), o que não ocorreu na hipótese dos autos.
+ Dessarte, incide, in casu, o enunciado 284 da Súmula do STF, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido:
+"AGRAVOS REGIMENTAIS NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO COLETIVA DE CONSUMO NA PRESTAÇÃO DE SERVIÇOS PÓS-PAGOS. ALEGADA VIOLAÇÃO DO DIREITO À INFORMAÇÃO PREVISTO NO CDC. LIMITAÇÃO DE LIGAÇÕES NO SISTEMA PRÉ-PAGO TEM AMPARO EM RESOLUÇÃO INTERNA. IMPOSSIBILIDADE DE ALTERAÇÃO. FUNDAMENTO SUFICIENTE INATACADO. RAZÕES DEFICIENTES. SÚMULAS 283 E 284/STF. AGRAVOS REGIMENTAIS AOS QUAIS SE NEGA PROVIMENTO.
+(..)
+3. Nota-se que o fundamento do aresto quanto à impossibilidade de limitação de ligações no sistema pós-pago por ter amparo em Resolução Interna, não foi refutado nas razões do Recurso Especial, mostrando-se, portanto, deficiente. O que atrai a incidência das Súmulas 283 e 284/STF, pois se apresenta deficiente.
+4. Agravos Regimentais aos quais se nega provimento".
+(AgRg no AREsp 107.863/RJ, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 14/04/2016)
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. CÉDULA DE CRÉDITO RURAL. ALONGAMENTO DE DÍVIDA DE CRÉDITO RURAL. DECISÃO MANTIDA.
+(..)
+3. O recorrente deixou de refutar o fundamento que sustentou a negativa de prorrogação de dívida, no sentido de ausência de demonstração de ter sido sido requerido à cooperativa credora a prorrogação e ter sido recusada, o que caracteriza deficiência de fundamentação recursal, nos termos das súmulas 283 e 284/STF.
+(..)
+5. Agravo regimental a que se nega provimento".
+(AgRg no REsp 1250316/PR, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 28/08/2015)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intime-se.
