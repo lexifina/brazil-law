@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça da mesma unidade federativa.
+Nas razões do apelo especial, alega o recorrente violação do art. 33, § 4.º, da Lei n. 11.343/2006, aduzindo, em suma, o réu não preenche as condições para a concessão da referida benesse.
+Sustenta que "a moldura fática delineada no acórdão recorrido atesta que o acusado praticava o tráfico ilícito de entorpecentes de forma habitual e, portanto, dedicava-se à prática de atividades criminosas. " (e-STJ, fl. 270)
+Aduz que "não obstante tecnicamente primário, atentando-se para a Certidão de Antecedentes Criminais do réu, constata-se que ele possui condenação por tráfico de drogas, tendo tal fato sido reconhecido expressamente no aresto combatido" (e-STJ, fl. 271)
+Aponta ofensa ao art. 33, § 3.º, e 59, caput e III, do Código Penal, bem como ao art. 42 da Lei n. 11.343/2006, sob o argumento de que "In casu, o regime semiaberto não se revela adequado e suficiente para fins de prevenção e repressão do delito perpetrado pelo réu, que, conforme demonstrado alhures, dedicava-se à prática de atividades criminosas." (e-STJ, fl. 276)
+Requer, assim, seja decotada a minorante do § 4.º do art. 33 da Lei n. 11.343/2006, bem como seja fixado o regime inicial fechado para o cumprimento da pena privativa de liberdade.
+O recurso não foi admitido (e-STJ, fls. 316-317).
+Não foram apresentadas contrarrazões (e-STJ, fl. 319).
+Contraminuta do agravo apresentada (e-STJ, fl. 335)
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ, fls. 349-350).
+É o relatório.
+Decido.
+Preenchidos os pressupostos de admissibilidade, conheço do agravo e passo ao exame do recurso especial.
+O Tribunal de origem, ao prover o recurso da defesa para fazer incidir a causa de diminuição do art. 33, § 4º, da Lei de Drogas, no grau máximo, assim se manifestou:
+"De outro lado, assiste razão à defesa em pleitear a aplicação da minorante do § 4º do art. 33 da Lei de Drogas, porque não há nada que demonstre que o réu seja reincidente, portador de maus antecedentes, integrante de organização criminosa ou mesmo que se dedique a atividades criminosas.
+Verifico que na CAC de fls. 90/91 consta tão somente uma sentença condenatória ainda objeto de recurso que, portanto, não transitou em julgado. Assim, não há nenhum registro apto a configurar reincidência. Essa única anotação existente também não serve para macular os antecedentes, pois para esse fim só serve condenação criminal já transitada em julgado e que não está apta a gerar reincidência.
+Destaque-se que inquéritos ou processos em andamento não podem macular os antecedentes, pois o art. 5º, LVII, da Constituição Federal consagrou o principio da presunção de não culpabilidade. É o que dispõe a Súmula 444, do Superior Tribunal de Justiça: "É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena -base".
+Assim, o réu é primário e de bons antecedentes.
+Quanto aos demais requisitos para aplicação da minorante, é necessário breve esclarecimento acerca do meu posicionamento.
+Eu vinha decidindo que o requisito invibializador da causa de diminuição de pena consistente em o réu se "dedicar a atividades criminosas" era supérfluo e redundante, na linha do que entende o Desembargador Guilherme de Souza Nucci:
+ ..
+Contudo, com o advento da Lei 12.850/13, que conceituou "organização criminosa", penso que o requisito passou a fazer sentido.
+Explico.
+Antes, quando o réu era condenado pelos delitos do art. 33 e 35 da Lei de Drogas, eu sustentava que ele não era merecedor da causa de diminuição em razão de integrar "organização criminosa".
+O conceito era aberto, vago, e foram a jurisprudência e a doutrina que se incumbiram de encontrar significado e dar aplicação ao infeliz termo eleito pelo legislador como requisito inviabilizante da causa.
+Ocorre que, com a publicação da Lei 12.850/13, definiu-se o que é "organização criminosa", como e quando ela se forma e existe. Para isso, mister será a presença de pelo menos quatro pessoas, o que não é o caso dos autos.
+Todavia, se o réu for condenado por tráfico de drogas (art. 33 da Lei 11.343/06) em concurso com o delito de "associação para o tráfico", (art. 35 da Lei 11.343/06) e tal empreendimento se enquadrar na definição de "organização criminosa", obstado estará, inegavelmente, a aplicação da causa de diminuição.
+De outro lado, quando o empreendimento ilícito for uma "associação para o tráfico", mas sem perfazer os requisitos necessários para o reconhecimento de uma "organização criminosa", a causa de diminuição não será obstada em razão desse requisito (não integrar o réu organização criminosa).
+É aqui que tem lugar, agora, o requisito inviabilizante "dedicação a atividades criminosas".
+No entanto, o requisito "dedicação a atividades criminosas" tem que ser observado com a cautela devida, para evitar excessos e até mesmo a inviabilização da aplicação da causa.
+Sob pena de excesso, não se poderá, é claro, admitir que meras e infundadas "notícias" de que o réu se dedica a esse ou aquele empreendimento ilícito sejam suficientes para afastar a causa de diminuição. Tampouco inquéritos ou processos em curso terão o condão de afastá-la.
+Sob pena de se inviabilizar a aplicação da causa de diminuição, não se poderá perder de vista que o crime de tráfico é daqueles permanentes (cuja consumação se arrasta no tempo) e, por isso, a menos que o acusado prove que a ação típica fora única, isolada, não caberia sua incidência, posto que, não o fazendo, necessária seria a conclusão de que o condenado já se dedicava a atividades criminosas.
+Assim, penso que a inviabilização da causa de diminuição em decorrência do requisito "dedicação a atividades criminosas" só poderá ter lugar nos casos em que, no mesmo processo, sob o crivo do contraditório e da ampla defesa, restar provado que o acusado, além do tráfico (art. 33 da Lei 11.343/06), também se dedica a algum empreendimento ilícito, de forma reiterada, estável e organizada, como é o caso daquele que é condenado pelo delito de "associação criminosa" (art. 288 do CP - antigo crime de quadrilha), ou com a condenação do réu pelo delito de "associação para o tráfico".
+É importante destacar que, como o tráfico é crime de caráter permanente, a condenação no tipo do art. 33 da Lei de Drogas já implica, por conseguinte, a conclusão de que o agente se dedica a uma atividade criminosa que, friso, é permanente. Desinteressa se ele começou tal atividade no mesmo dia em que foi surpreendido, durando a atividade apenas poucas horas, ou se a ação já vinha se protraindo no tempo por vários meses. O crime é o mesmo, e um só. A dedicação é a mesma: a atividade criminosa de tráfico de drogas.
+Diante do exposto, não há comprovação de que o apelante se dedique, de forma estável e organizada, para a prática dos crimes previstos nos artigos 33, caput, da Lei de Tóxicos. Registre-se que não há nenhuma condenação definitiva pelo crime de associação para o tráfico (art. 35 Lei 11.343/06) ou de associação criminosa (art. 288 do CP) que revele a estabilidade e a permanência na prática reiterada de infrações penais.
+Assim, o apelante atende ao requisito de não dedicação a atividades criminosas ou de não integração a organizações criminosas, bem como às exigências de primariedade e bons antecedentes, estabelecidos pelo art. 33, § 4º, da Lei 11.343/06.
+Posto isso, é preciso acolher o pedido do apelante e aplicar-lhe a causa de diminuição de pena." (e-STJ, fls. 214-218)
+Nos termos do disposto no art. 33, § 4º, da Lei de Drogas, para que incida a causa especial de diminuição de pena aos condenados pelo delito de tráfico de drogas, é necessário que o agente seja reconhecidamente primário, ostente bons antecedentes e não se dedique a atividades criminosas ou integre organização criminosa.
+O entendimento desta Corte é de que a mencionada norma legal tem como objetivo beneficiar, apenas, pequenos e eventuais traficantes, não alcançando aqueles que fazem do tráfico de drogas um meio de vida (AgRg no AREsp 648.408/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 5/10/2015; AgRg no REsp 1.423.806/SP; Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 20/8/2015).
+Tem-se decidido também que a existência de outros processos criminais contra o acusado, ainda que sem condenação transitada em julgado, afasta a incidência da causa de diminuição do art. 33, § 4º, da Lei de Drogas.
+Na hipótese, a dedicação do recorrido ao tráfico de drogas se infere do fato de que ele ter sido condenado em outro processo pelo mesmo delito, sendo incabível, portanto, a aplicação da minorante em questão.
+A propósito:
+"PENAL E PROCESSUAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI DE DROGAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. Desfazer o entendimento a que chegaram as instâncias ordinárias para verificar se o réu se dedicava a atividades criminosas implicaria reexame da matéria fático-probatória dos autos. Incidência da Súmula 7 do STJ.
+2. Consoante entendimento pacificado desta Corte, "fatos criminais pendentes de definitividade, embora não sirvam para a negativa valoração da reincidência e dos antecedentes (Súmula 444 do STJ), podem embasar o afastamento da minorante do tráfico privilegiado quando permitem concluir que o agente se dedica a atividades criminosas." (STJ, 6ª Turma, AgRg no HC 211288/MS, rel. Min. Nefi Cordeiro, DJe 26/05/2015).
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 618.313/MG, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 20/08/2015.)
+Passo, assim, à readequação da dosimetria da pena.
+Na primeira fase, mantém-se a pena-base no mínimo legal de 5 anos de reclusão mais 500 dias-multa.
+Na segunda fase, ausentes causas de modificação, resta a pena fixada no mesmo patamar.
+Na última fase, decotada a incidência da minorante do art. 33, § 4º, da Lei n. 11.343/2006, segundo as razões acima expostas, a pena fica definitiva em 5 anos de reclusão, mais 500 dias-multa.
+Quanto ao regime prisional, o recurso ministerial não merece acolhimento.
+A obrigatoriedade do regime inicial fechado aos sentenciados por crimes hediondos e os a eles equiparados não mais subsiste, diante da declaração de inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/1990, pelo Supremo Tribunal Federal, no julgamento do HC 111.840/ES.
+Na identificação do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal, e, na hipótese de condenado por crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006, segundo o qual serão consideradas com preponderância a natureza e a quantidade de substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal.
+No caso, considerada a pena final imposta (5 anos de reclusão) e o fato de o agente ser primário, o regime semiaberto é o cabível para o início do cumprimento da pena privativa de liberdade, a teor do contido no art. 33, § § 2º, "b", e 3º, do Código Penal.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. REGIME PRISIONAL FECHADO. HEDIONDEZ DO CRIME. FUNDAMENTAÇÃO INIDÔNEA. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. REGIME SEMIABERTO. AGRAVO NÃO PROVIDO.
+1. Nos termos da Súmula 440 desta Corte, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". Aplicação, também, dos verbetes n. 718 e 719 do STF.
+2. Uma vez que a pena foi estabelecida em 5 (cinco) anos e 10 (dez) meses de reclusão, o paciente é primário e a análise das circunstâncias judiciais lhe foi favorável, apresenta-se adequado o regime semiaberto para o início do cumprimento da pena reclusiva, conforme o disposto no art. 33, § 2º, alínea "b", do Código Penal.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 529.448/SP, de minha relatoria, QUINTA TURMA, julgado em 11/10/2016, DJe 09/11/2016)
+Ante o exposto, com base no art. 932, VIII, do Código de Processo Civil, c/c o art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial da acusação para afastar a minorante prevista no § 4.º do art. 33 da Lei n. 11.343/2006, fixando a pena do recorrido em 5 anos de reclusão e 500 dias-multa, mantido o regime inicial semiaberto.
+Publique-se. Intimem-se.
