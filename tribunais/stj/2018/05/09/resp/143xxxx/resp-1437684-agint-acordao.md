@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO INATACADO. SÚMULA 283 DO STF. NÃO CONHECIMENTO.
+1. A Corte regional entendeu pela ilegalidade do ADI n. 42/2011 da RFB e pela incidência do comando geral inserido na Instrução Normativa n. 971/2009 - de que, no tocante ao décimo terceiro salário, tem por ocorrido o fato gerador da obrigação previdenciária principal no mês do pagamento ou crédito da última parcela de tal verba -, razão pela qual concluiu que, in casu, há de se observar a base de cálculo e a alíquota referidas na Lei n. 12.546/2011 (vigente quando do pagamento do 13º salário devido em 20/12/2011), fundamentos que não foram especificamente impugnados pelas razões do apelo nobre, o que atrai o óbice contido na Súmula 283 do STF, aplicável por analogia ao recurso especial.
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto pela UNIÃO (FAZENDA NACIONAL) contra decisão em que não conheci do recurso especial, pela aplicação analógica do óbice da Súmula 283 do STF (e-STJ fls. 187/189).
+Em suas razões (e-STJ fls. 195/199), a UNIÃO sustenta que "ao contrário do que se afirmou na decisão ora agravada, impugnou especificamente a alegação de ilegalidade do Ato Declaratório Interpretativo (ADI) nº 42/2011, o que justificaria a aplicação da Instrução Normativa (IN) nº 971/2009".
+Requer, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Impugnação da BERNARDI CALÇADOS LTDA. às e-STJ fls. 202/203.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Não obstante os argumentos expendidos, verifico que o presente recurso não merece prosperar.
+O recurso especial não foi conhecido pela aplicação do óbice da Súmula 283 do STF, nos seguintes termos (e-STJ fl. 188):
+Entendeu a Corte a quo que a tributação da contribuição previdenciária incidente sobre a totalidade da gratificação natalina do ano de 2011 deve respeitar o arcabouço normativo em vigor na data do fato gerador, que, in casu, se deu apenas no mês de dezembro daquele ano, segundo a IN n. 971/2009 da RFB, quando já vigoravam as novas base de cálculo e alíquota trazidas pela Lei n. 12.546/2011.
+Com efeito, nos termos do acórdão (e-STJ fls. 122/123):
+A Lei 12.546/2011 entrou em vigor em 15/12/2011. Assim, quando ocorrido o fato gerador da contribuição previdenciária sobre o décimo-terceiro salário - pagamento do décimo-terceiro, devido em 20/12/2011-, ela já estava vigorando, sendo devida a contribuição, portanto, de acordo com seus termos.
+O fato gerador da contribuição ao décimo-terceiro salário é o pagamento do décimo-terceiro salário, conforme reconhece a própria Receita na IN 971/2009, artigo 52, verbis:
+"Art. 52. Salvo disposição de lei em contrário, considera-se ocorrido o fato gerador da obrigação previdenciária principal e existentes seus efeitos:
+(..)
+h) no mês do pagamento ou crédito da última parcela do décimo terceiro salário, observado o disposto nos arts. 96 e 97; (..)" Trata-se, portanto, de fato gerador simples, e não complexivo, ao contrário do que quer fazer crer a Fazenda Nacional. Não é possível confundir a aquisição do direito do empregado ao recebimento do décimo-terceiro em proporção ao tempo de serviço trabalhado com o fato gerador da contribuição previdenciária sobre o décimo-terceiro salário: ao contrário daquele, que se dá ao longo do ano, o último ocorre quando, e somente quando, é feito (ou deve ser feito) o pagamento do décimo-terceiro salário. Trata-se de fato gerador simples, não complexivo, que ocorre quando se dá o efetivo pagamento (ou vencimento, na forma da legislação), e que não se confunde com a aquisição do direito ao recebimento proporcional pelo trabalhador.
+Assim, entendo que a contribuição previdenciária sobre o décimo-terceiro salário, em 2011, deve ser recolhida, no caso da impetrante, com base na Lei 12.546/2011, que já estava em vigor quando do vencimento do décimo-terceiro em 20/12/2011.
+Reconheço, para tal fim, a ilegalidade da ADI RFB 42/2011 ao determinar que apenas 1/12 do décimo-terceiro pago em 2011 estaria sujeito à incidência na forma da Lei 12.546/2011.
+Observa-se, no entanto, que a Corte regional entendeu pela ilegalidade da ADI n. 42/2011 da RFB e pela incidência do comando geral inserido na Instrução Normativa n. 971/2009 - que, no tocante ao décimo terceiro salário, tem por ocorrido o fato gerador da obrigação previdenciária principal no mês do pagamento ou crédito da última parcela de tal verba -, razão pela qual concluiu que, in casu, há de se observar a base de cálculo e a alíquota referidas na Lei n. 12.546/2011 (vigente quando do pagamento do 13º salário devido em 20/12/2011).
+Tal fundamento não foi especificamente impugnado pelas razões do apelo nobre, o que atrai o óbice contido na Súmula 283 do STF, aplicável por analogia ao recurso especial.
+A tese adotada pelo Tribunal ordinário quanto à incidência das novas bases de cálculo e alíquota previstas na Lei n. 12.546/2011 à totalidade da contribuição previdenciária sobre a gratificação natalina decorre do reconhecimento pela própria administração fazendária, através da instrução normativa RFB n. 971/2009, de que o fato gerador da exação tributária em análise é simples e ocorre uma única vez em cada exercício no mês de pagamento da sua última parcela, bem como em razão do reconhecimento da ilegalidade da ADI n. 42/2011, que extrapolou sua natureza declaratória e estabeleceu critérios de cálculo e incidência para a exação contrários à lei. Tais fundamentos não foram contraditados nas razões do recurso especial, que apenas reiteraram as teses anteriores da recorrente pela aplicação parcial da Lei n. 12.546/2011 à contribuição previdenciária sobre o décimo terceiro salário do exercício de 2011 por aplicação irrestrita da IN n. 42/2011, o que atrai a incidência da Súmula 283 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
