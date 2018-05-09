@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015. ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU CARÊNCIA DE FUNDAMENTAÇÃO. NÃO CONFIGURAÇÃO. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos declaratórios, nos termos do art. 1.022, e seus incisos, do CPC/2015, são cabíveis quando houver: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; ou d) o erro material. No caso dos autos, tais hipóteses não estão presentes.
+2. No acórdão embargado, inexiste omissão, contradição ou obscuridade a ser suprida, pois, ao não conhecer do recurso especial, esta Turma foi expressa ao afirmar que não houve o devido prequestionamento dos dispositivos legais tidos por violados e, muito menos, das teses a eles vinculadas, o que demonstra a ausência de manifestação da Corte de origem, ainda que implicitamente. Incidência da Súmula 211/STJ.
+3. O acórdão que julgou o recurso especial apreciou, fundamentadamente, as questões necessárias à solução da controvérsia, dando-lhes solução jurídica diversa da pretendida pela embargante.
+4. Esta Corte Superior possui orientação de que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+5. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Herman Benjamin (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de embargos de declaração opostos pela União contra acórdão proferido pela Segunda Turma, que negou provimento ao agravo interno da ora embargante, nos termos da seguinte ementa (e-STJ, fls. 105-111):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO NÃO CONFIGURADO. VIOLAÇÃO DO ART. 535 DO CPC/1973 NÃO ARGUIDA. AS RAZÕES RECURSAIS DEVEM ESTAR VINCULADAS À SUPOSTA OMISSÃO.
+1. Deixando o Tribunal de origem de se manifestar sobre os temas insertos nos dispositivos tidos por violados, a despeito da oposição dos embargos declaratórios, e ausente, no recurso especial, o fundamento de ofensa ao art. 1.022 do CPC/2015, incide, no caso, a Súmula 211 do Superior Tribunal de Justiça. Precedente: AgInt no AREsp 918.841/PE, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 16/3/2017.
+2. Recurso especial não conhecido.
+Em suas razões, aduz a parte interessada que o acórdão embargado encontra-se omisso quanto à alegação de que os dispositivos legais indicados no apelo nobre foram prequestionados implicitamente pela Corte de origem.
+Sustenta que, "embora não mencionada expressamente no acórdão recorrido toda a legislação federal apontada como violada nas razões de recurso especial, o fato é que o Tribunal de origem apreciou a tese concernente ao enquadramento dos acórdãos proferidos pelo TCU no conceito de dívida ativa não tributária, pelo que sua execução, no entendimento do julgado regional, deve ser instrumentalizada através da execução fiscal, fazendo incidir a hipótese, portanto, de prequestionamento implícito" (e-STJ, fl. 123).
+Requer, assim, o acolhimento dos embargos declaratórios para que E. Colenda Turma do STJ se manifeste acerca do alegado prequestionamento das normas invocadas.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): A irresignação não merece acolhida.
+O art. 1.022 do CPC/2015 traz as seguintes hipóteses de cabimento dos embargos de declaração: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; e d) o erro material.
+No acórdão embargado, inexiste omissão, contradição ou obscuridade a ser suprida, pois, ao não conhecer do recurso especial, esta Turma foi expressa ao afirmar que não houve o devido prequestionamento dos dispositivos legais tidos por violados e, muito menos, das teses a eles vinculadas, o que demonstra a ausência de manifestação da Corte de origem, ainda que implicitamente.
+Na oportunidade, ficou claro no julgado que, para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal.
+É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a ele vinculada, interpretando-se a sua aplicação ou não ao caso concreto, o que não se revelou na hipótese, resultando na incidência do óbice fundado na Súmula 211/STJ.
+Dessa forma, não são cabíveis os presentes embargos, haja vista que a real intenção da parte embargante não é sanar alguma omissão, contradição ou obscuridade no acórdão impugnado, e, sim, rediscutir o que aqui ficou claro e coerentemente decidido, buscando efeitos infringentes em situação na qual não são cabíveis.
+Registre-se, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE.
+1. A controvérsia posta nos autos foi decidida de forma estreme de dúvidas, não havendo falar em omissão, contradição ou obscuridade.
+2. A Segunda Turma do STJ, por unanimidade, concluiu que não se poderia conhecer do Recurso Especial, pois: a) em relação à tese relacionada à eficácia executiva da sentença proferida em Mandado de Segurança, não houve demonstração clara e precisa sobre quais artigos de lei federal teriam sido malferidos, aplicando, por analogia, a Súmula 284/STF; b) no tocante à aventada ofensa aos arts. 10, 277 e 317 do CPC/2015, em que pese à oposição de Embargos de Declaração, os referidos artigos de lei não foram analisados e aplicados pelo órgão julgador. Falta o requisito do prequestionamento. Incidiu, na espécie, a Súmula 211/STJ. 3. Estão ausentes as hipóteses previstas no art. 1.022 do CPC/2015, uma vez que houve solução da controvérsia, com fundamentação suficiente.
+4. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão do julgado.
+5. STJ possui entendimento de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017).
+6. Embargos de Declaração rejeitados.
+(EDcl no REsp 1.673.323/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/11/2017, DJe 19/12/2017)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. EMBARGOS DE DECLARAÇÃO INTEMPESTIVOS. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida.
+2. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos declaratórios interpostos com o propósito infringente.
+3. Embargos de declaração rejeitados, com aplicação de multa de 1% sobre o valor atualizado da causa.
+(EDcl nos EDcl no AgInt nos EDcl no REsp 1.632.159/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/11/2017, DJe 1º/12/2017)
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
