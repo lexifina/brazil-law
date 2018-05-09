@@ -1,0 +1,19 @@
+Decisão: Trata-se recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5ª Região, ementado nos seguintes termos:
+    “APELAÇÃO. MORTE DE SOLDADO POR ACIDENTE OCORRIDO NAS DEPENDÊNCIAS DE UNIDADE MILITAR. INEXISTÊNCIA DE NEXO DE CAUSALIDADE, UMA VEZ QUE OS FATOS SUCEDERAM SEM VÍNCULO COM O CUMPRIMENTO DE ATRIBUIÇÃO INERENTE AO SERVIÇO MILITAR. ADEMAIS, OS FATOS DECORRERAM DE ATUAÇÃO IMPRUDENTE DA VÍTIMA, CARACTERIZANDO A SUA CULPA EXCLUSIVA. PROVIMENTO DA APELAÇÃO E DA REMESSA OFICIAL. PEDIDO JULGADO IMPROCEDENTE.” (eDOC 3, p.272)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alínea “a”, da Constituição Federal, aponta-se violação ao art. 37, § 6º, do texto constitucional.
+    Nas razões recursais, alega-se, em suma, a violação ao dever objetivo de cuidado. Aduz, ainda, que a responsabilidade civil do Estado é objetiva.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou a inexistência de responsabilidade civil do Estado, ante a culpa exclusiva da vítima. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No caso, os fatos derivaram da circunstância - infeliz, inegavelmente - do filho da autora, ao realizar a colheita das frutas em árvores cujos galhos se encontravam próximos aos fios da rede elétrica, ter utilizado vara com haste de metal, contrariamente ao costume dos soldados da unidade, que assim atuavam com varas de bambu. Com isso, concorreu o filho da autora decisivamente para o acidente que o vitimou, afastando a responsabilidade do Estado.” (eDOC 3, p. 278)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “ADMINISTRATIVO. SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL DO ESTADO. ALEGADA VIOLAÇÃO AO ART. 37, § 6º, DA CF. OFENSA CONSTITUCIONAL REFLEXA. ANÁLISE DOS ASPECTOS FÁTICOS DO NEXO DE CAUSALIDADE ENTRE A CONDUTA DO ESTADO E O DANO. REEXAME DE PROVAS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE-AgR 399.284, Rel. Min. Teori Zavascki, Segunda Turma, DJe 22.8.2013)
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE DE TRÂNSITO. ANIMAL NA PISTA. MORTE DE CONDUTOR. NEXO DE CAUSALIDADE. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE-AgR 1086.669, Rel. Min. Luiz Fux, Primeira Turma, DJe 4.4.2018)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Falha no atendimento hospitalar. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE-AgR, 1079.575, de minha relatoria, Segunda Turma, DJe 9.4.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 9 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
