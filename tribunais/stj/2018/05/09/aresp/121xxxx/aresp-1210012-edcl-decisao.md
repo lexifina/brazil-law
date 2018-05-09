@@ -1,0 +1,13 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por TERESA DE JESUS E OUTRO contra a decisão de fls. 342/343, que não conheceu do recurso.
+Em suas razões, sustenta a parte Embargante, em síntese, que "Com efeito, o pagamento relativo à guia de preparo (fl. 254) mencionada na decisão, foi realizado. Tendo a notícia de incompatibilidade de guias ocorrido somente com a decisão ora embargada, requer a juntada do comprovante relativo à guia de fl. 254, suprindo e demonstrando o preparo. Tal fato não foi vislumbrado no tribunal de origem, apesar do disposto no art. 10, da Lei 11.636/2007" (fl. 349).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Veja-se que a parte foi intimada para regularizar as custas (fl. 264/268), mas, trouxe o comprovante de pagamento divergente da guia constante nos autos. Ora, quando intimado pelo primeira vez pelo tribunal de origem foi cumprida a determinação do art. 1.007, § 7º, do Código de Processo Civil. Se a parte não cumpriu com a determinação, como é o caso do autos, ocorre a preclusão consumativa da prática do ato de regularização, não devendo ser aberto novo prazo para este mister, nos termos da ratio legislativa prevista no § 5º, do próprio art. 1007.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
