@@ -1,0 +1,46 @@
+EMENTA
+RECURSO ESPECIAL. ROUBO SIMPLES. VIOLAÇÃO DOS ARTS. 59 E 68, AMBOS DO CP. DOSIMETRIA. PENA-BASE FIXADA EM 3 ANOS ACIMA DO MÍNIMO LEGAL COM SUPORTE NA NEGATIVAÇÃO DE UMA CIRCUNSTÂNCIA JUDICIAL. AUMENTO DESPROPORCIONAL. CONTRARRAZÕES AO RECURSO ESPECIAL E PARECER DO MINISTÉRIO PÚBLICO FEDERAL ACOLHIDOS. PENAS PRIVATIVA DE LIBERDADE E [NOME].
+Recurso especial provido.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça do Amazonas na Apelação Criminal n. 0002245-06.2017.8.04.0000 (fls. 310/316):
+APELAÇÃO CRIMINAL - ROUBO - MATERIALIDADE E AUTORIA - COMPROVADAS - DESCLASSIFICAÇÃO PARA FORMA TENTADA - IMPOSSIBILIDADE - DOSIMETRIA - PENA-BASE - FIXAÇÃO NO MÍNIMO LEGAL - EXISTÊNCIA DE CRITÉRIO DESFAVORÁVEL - INADMISSIBILIDADE - RECURSO IMPROVIDO.
+Opostos embargos de declaração (fls. 351/358), foram rejeitados (fls. 366/369).
+O recurso especial (fls. 379/393) aponta a violação dos arts. 59 e 68, ambos do Código Penal, ante a alegação de que incidindo negativamente apenas uma circunstância judicial, a pena deve ser aumentada pela fração de 1/8 (um oitavo), fl. 381.
+Ressalta que aumentar a penalidade em três anos em razão da presença de apenas uma circunstância judicial desfavorável se mostra desproporcional e irrazoável. (..) Por oportuno, conforme já assentado na doutrina e jurisprudência, na falta de critérios legais, a exasperação operada na primeira fase da dosimetria deve se atrelar quantitativamente ao número de circunstâncias judiciais desfavoráveis (fl. 383).
+Aduz, ainda, que tendo em vista a omissão legislativa em relação ao quantum ideal de exasperação da pena acima do mínimo legal para cada circunstância judicial considerada desfavorável, a doutrina e a jurisprudência têm considerado que, sendo um total de 8 (oito) circunstâncias judiciais, bem como, ausente qualquer preponderância entre elas, o magistrado sentenciante deve considerar que, cada circunstância pode elevar a pena mínima em até 1/8 (um oitavo) da variação prevista no tipo penal (fl. 386).
+Pede o recorrente a redução da pena-base a patamar próximo ao mínimo legal, obedecida a fração de 1/8 de aumento por cada circunstância judicial desfavorável.
+Oferecidas contrarrazões, anuentes com o pleito defensivo (fls. 396/405), o recurso especial foi admitido na origem (fls. 406/410).
+O Ministério Público Federal opina pelo provimento da insurgência (fls. 422/424).
+RECURSO ESPECIAL. CRIME DE ROUBO MAJORADO. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. FRAÇÃO DE AUMENTO POR CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL (1/8). PARECER PELO PROVIMENTO DO RECURSO.
+É o relatório.
+Razão assiste ao recorrente.
+Extrai-se da sentença condenatória e do combatido aresto as razões apresentadas pelas instâncias ordinárias para fixação da pena-base em 3 anos acima do mínimo legal (fls. 217 e 314/316):
+ ..
+Nos termos do art. 59, do CPB, analiso que o réu tem conduta negativa e com personalidade voltada ao crime, notadamente pelos diversos processos que responde nesta Comarca, bem como pela condenação por este Juízo por fato anterior (0000304-88.2015.8.04.5400), ou seja, logo após o acusado receber o benefício da liberdade provisória naquele processo voltou a delinquir, o que reforça a necessidade de permanência do acusado em cárcere, a bem da ordem pública. A conduta da vítima em nada contribuiu para o ato ilícito. A melhor doutrina e jurisprudência recomendam que é somente quando todas as circunstâncias são favoráveis que, em tese, seria possível a aplicação da pena-base no mínimo legal, o que não é o caso dos autos. O réu, ademais, não colaborou espontaneamente, pois foi delido por munícipes logo após o delito praticado, agindo com o dolo e mediante ameaça à pessoa, mas levo em consideração que o objeto do roubo foi recuperado e entregue à vítima.
+Fixo a pena inicial em 7 (sete) anos de reclusão e multa de 20 (vinte) dias-multa, na proporção de 1/30 do salário mínimo. Considerando a atenuante de confissão, condeno o acusado à pena de reclusão em regime semiaberto pelo período de 6 (seis) anos e ao pagamento de pena pecuniária de 15 (quinze) dias-multa, a proporção de 1/30 do salário mínimo, considerando as condições econômicas do acusado.
+ ..
+A fundamentação é suficiente, razoável e proporcional, uma vez que o legislador impõe um limite mínimo e máximo, entre os quais o julgador pende o cálculo, dentro de uma discricionariedade inerente ao seu poder de decisão e do princípio da individualização da pena, como se passou in casu.
+Cabe ao juiz, ao dosar a pena-base, na primeira fase de fixação, avaliar os critérios relacionados no art. 59, do CP, podendo aplicar acima do mínimo legal se nem todos os pontos forem favoráveis ao réu, como é o que se apresenta e consta da sentença de fls. 216/217.  ..
+Vislumbro, com clareza, o correto sopesar do magistrado sentenciante, avaliando todas as circunstâncias legais e judiciais, de acordo com os dados concretos que circundam o fato delituoso e a impossibilidade de reduzir a pena em definitivo.
+Certifico-me de que a dosimetria considerou a fundamentação do art. 157, do CP e resguardou a temperança quanto a todos os elementos.
+ ..
+No que se refere à alegação de desproporcionalidade na dosimetria da pena pelas instâncias ordinárias, tenho que razão assiste ao recorrente.
+Com efeito, a aumento da pena-base, em 3 anos acima do mínimo legal, levando-se em consideração a negativação de uma única circunstância judicial, só poderia ser corroborada caso a Corte de origem apresentasse fundamentos que tivessem a robustez necessária a justificar tal incremento, o que não se verifica da leitura dos autos.
+A propósito:
+ ..
+CULPABILIDADE. MAIOR REPROVABILIDADE DA CONDUTA DEMONSTRADA. ELEMENTOS CONCRETOS. CONSEQUÊNCIAS DO CRIME. IDADE DAS VÍTIMAS. AUMENTO. LEGITIMIDADE. QUANTUM. RAZOABILIDADE.
+1. É assente nesta Corte que a pena-base pode ser exasperada pelo magistrado mediante aferição negativa de elementos concretos dos autos, a denotar maior reprovabilidade da conduta imputada.
+2. In casu, o juiz de primeiro grau entendeu que a culpabilidade do réu apresentava maior reprovabilidade por ter consumido, "ao menos, duas doses de vodka antes de conduzir o veículo automotor em via pública", denotando que a análise desfavorável da culpabilidade do réu foi baseada em elementos concretos dos autos, indicativos da maior reprovabilidade de sua conduta, o que é suficiente para justificar a exasperação da pena-base.
+3. A consideração negativa das consequências do crime se deu em razão da idade das vítimas, o que se mostra legítimo. Isto porque, embora as mortes das vítimas sejam elementares do tipo, quando as consequências extrapolam as normais do crime - como in casu, em que duas das três vítimas eram adolescentes, com 16 e 18 anos de idade -, podem ser consideradas negativamente para aumentar a pena-base.
+4. Hipótese em que o acréscimo do apenamento básico pelas circunstâncias judiciais desfavoráveis foi aquém do usualmente realizado.
+5. É certo que não existe fração a ser observada pelo togado sentenciante no momento de elevar a reprimenda básica do acusado, exigindo-se apenas que haja motivação concreta sobre cada uma das circunstâncias judiciais utilizadas para agravar a sanção.
+6. "Diante do silêncio do legislador, a jurisprudência passou a reconhecer como critério ideal para individualização da pena na primeira etapa do procedimento dosimétrico o aumento na fração de 1/8 a cada circunstância judicial negativamente valorada, sendo facultado ao julgador, desde que mediante fundamentação idônea, estabelecer quantum superior" (HC 407.484/MG, Relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/09/2017, DJe 27/09/2017).
+7. Caso em que a fração de aumento utilizada para cada circunstância foi de 1/12, apresentando-se bastante favorável ao réu, razão pela qual não comporta qualquer alteração.
+ ..
+(AgRg no REsp n. 1.707.982/MG, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 27/4/2018 - grifo nosso)
+Assim, com razão o Ministério Público Federal, com cujo parecer estou de acordo. Vejamos, no ponto, o que interessa (fls. 424 - grifo nosso): destoa da orientação firmada por este STJ o aumento da pena-base em três anos com base em apenas uma circunstância judicial desfavorável (antecedentes), devendo-se readequar o aumento para a fração de 1/8.
+Feitas essas considerações, passo agora a redimensionar a pena do recorrente.
+Reduz-se a pena-base de 7 anos de reclusão, mais pagamento de 20 dias-multa, mais pagamento de 20 dias-multa, a 4 anos e 6 meses de reclusão, mais pagamento de 12 dias-multa; na etapa intermediária, diante do reconhecimento da confissão, diminui-se a pena a 4 anos de reclusão, mais pagamento de 10 dias-multa, pena esta que se torna definitiva em razão da carência de causas de aumento ou de diminuição de pena.
+Diante do quanto disciplinado no art. 33, § 2º, c, do Código Penal, mantém-se o regime inicial semiaberto, notadamente em razão da constatada reincidência do recorrente.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para redimensionar as penas privativa de liberdade e pecuniária do recorrente nos termos da presente decisão.
+Publique-se.
