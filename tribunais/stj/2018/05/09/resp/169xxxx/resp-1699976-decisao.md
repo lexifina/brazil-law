@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL E DE SÚMULA. DESCABIMENTO. VIOLAÇÃO DO ART. 489, § 1º, DO CPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, do CPC/15.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+7. Recurso especial não conhecido.
+DECISÃO
+Cuida-se de recurso especial interposto por ASSOCIAÇÃO DOS PROPRIETÁRIOS DAS CHÁCARAS COPAÍBA e ASSOCIACAO DOS MORADORES DAS CHACARAS COPAIBA, com fundamento na alínea "a" do permissivo constitucional.
+Ação: de reintegração de posse, ajuizada por M P N (MENOR), representado por M P F, em face de BBBBB, devido ao esbulho sofrido em sua pequena propriedade rural por famílias integrantes de movimento social denominado União Nacional de Luta Camposesa - UNLC -, na qual pleiteia a proteção possessória do imóvel descrito na peça inicial.
+Sentença: extinguiu o processo, sem resolução do mérito, nos termos do art. 267, VI, do CPC/73, em virtude da perda de interesse processual.
+Acórdão: deu provimento à apelação interposta pelo recorrido, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. INCOMPETÊNCIA DA VARA AGRÁRIA. PERPETUATIO JURISDICTIONIS. INTELIGÊNCIA DO ARTIGO 87 DO CPC. PRELIMINAR REJEITADA. INTERESSE DE AGIR. PERDA SUPERVENIENTE. INOCORRÊNCIA. SENTENÇA CASSADA.
+1) Consoante o disposto no artigo 87 do CPC, determina-se a competência no momento em que a ação é proposta, sendo irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência em razão da matéria ou hierarquia. 2) Não se divisando qualquer das hipóteses previstas no artigo 87 do CPC, não há como modificar a competência. 3) O interesse de agir está assentado na adequação, isto é, na relação entre a pretensão e o provimento jurisdicional requerido, na necessidade, ou seja, na impossibilidade de obter a satisfação do alegado direito sem a intercessão do Estado e, por fim, na utilidade do processo, quer dizer, se a decisão judicial não for útil, não há razão para sua adoção. 4) Constatando-se que não houve perda superveniente do interesse de agir, deve ser cassada a sentença que julgou extinto o processo, sem resolução do mérito. (e-STJ Fl. 940)
+Embargos de declaração: interpostos pelos recorrentes, foram rejeitados.
+Recurso especial: alegam violação dos arts. 5º, LV, da CF; 87, 95 e 267, VI, do CPC/73; 14, 141, 485, VI, 489, § 1º, e 685 do CPC/15. Além de negativa de prestação jurisdicional, aduzem ter interesse em recorrer, eis que a decisão proferida pelo juízo de 1ª instância não apreciou o mérito da demanda. Afirmam que o Tribunal de origem decidiu fora do pedido, pois não houve requerimento de cassação da sentença. Sustentam que, diante da modificação da matéria enfrentada nos autos, o foro competente para o processamento e julgamento do presente processo é o da situação do imóvel.
+Relatado o processo, decide-se.
+- Da violação de dispositivo constitucional ou de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da violação do art. 489, § 1º, do CPC/15, do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, do CPC/15.
+- Da fundamentação deficiente
+Os argumentos invocados pelos recorrentes não demonstram como o acórdão recorrido violou o art. 14 do CPC/15, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 95 do CPC/73; 141, 485, VI, e 685 do CPC/15, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na espécie, a Súmula 211/STJ.
+- Da existência de fundamento não impugnado
+Os recorrentes não impugnaram o fundamento utilizado pelo TJ/MG de que "o fato de as partes terem aventado a possibilidade de celebração de acordo para a transferência do imóvel do autor - apelante para a ré - apelada, a meu juízo, não modificou a natureza possessória da demanda, notadamente considerando que não houve homologação do referido acordo e que o apelante informou seu descumprimento, pugnando pelo prosseguimento do feito" (e-STJ Fl. 953). Como esse fundamento não foi impugnado, deve-se manter o acórdão recorrido. Aplica-se, na espécie, a Súmula 283/STF.
+Os recorrentes também não impugnaram o fundamento utilizado pelo TJ/MG para cassar a sentença, qual seja que "a Cláusula 7 do referido acordo previu expressamente que em caso de descumprimento ocorreria o prosseguimento do feito para a concessão da liminar de reintegração de posse. Desse modo, mostra-se possivel a análise do pedido de proteção possessória, não havendo que se falar em falta de interesse de agir, razão pela qual a sentença deverá ser cassada" (e-STJ Fl. 953). Como esse fundamento também não foi impugnado, de rigor, na espécie, a incidência da Súmula 283/STF
+- Do reexame de fatos e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à cassação da sentença, exige o reexame de fatos e provas, bem como a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Publique-se. Intimem-se.
