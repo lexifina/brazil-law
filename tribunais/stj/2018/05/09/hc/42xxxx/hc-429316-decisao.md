@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de MILTON TAVARES FERREIRA, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.17.088538-8/000).
+Infere-se dos autos que o paciente foi denunciado pela suposta prática do delito tipificado no art. 121, § 2º, II, c/c o art. 14, II, do Código Penal (tentativa de homicídio qualificado). Determinada a citação do paciente, não foi encontrado. Citado por edital, não apresentou defesa preliminar, tendo sido determinada a suspensão do processo e a sua prisão preventiva. Decorridos mais de 6 anos, o paciente apresentou defesa preliminar e pedido de revogação da prisão, que foi indeferido pelo magistrado a quo.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem em acórdão assim ementado (fl. 87):
+HABEAS-CORPUS - HOMICÍDIO QUALIFICADO TENTADO  POR DUAS VEZES  - PRISÃO PREVENTIVA - DECISÃO FUNDAMENTADA - FATOS CONCRETOS QUE INDICAM A NECESSIDADE DA MEDIDA - CONSTRITIVA - MODUS OPERANDI - PACIENTE FORAGIDO - SUBSTITUIÇÃO DA PRISÃO INADEQUADA - BONS ANTECEDENTES POR SI SÓ NÃO VIABILIZA A SOLTURA DO PACIENTE - GARANTIA DA ORDEM PÚBLICA - ORDEM DENEGADA, VENCIDO O RELATOR. 1. Considerando o "modus operandi." e a potencialidade delitiva demonstrada, presente está o pressuposto da ordem pública sendo a prisão medida que se impõe. 2. Estando presentes os pressupostos autorizadores para a manutenção da custódia cautelar mantém-se esta sob os auspícios da garantia da ordem pública e da conveniência da instrução criminal. 3. Estando o impetrante foragido a manutenção do pedido da custódia cautelar é medida que se impõe para a efetiva aplicação da lei penal. 4. Incabível é a substituição da prisão por medida cautelar conforme disposto no artigo 282 §6º do CPP e presentes estando os requisitos do artigo 312 do mesmo diploma legal associados à gravidade do delito, inadequadas são tais medidas. 5. As condições de bons antecedentes e residência fixa por si só não viabiliza a soltura do paciente. 6. Ordem denegada, vencido o relator. V.v.: A doutrina e jurisprudência entendem que toda e qualquer espécie de prisão, antes do trânsito em julgado da sentença condenatória, tem natureza cautelar, o que significa dizer, deve estar devidamente comprovada à necessidade de tal restrição da liberdade. Não havendo elementos concretos nos autos que autorizem a medida extrema, a concessão da liberdade provisória é medida que se impõe.
+No presente mandamus, aduz ilegalidade na manutenção da prisão preventiva e ressalta as circunstâncias pessoais favoráveis do paciente que conta com 70 anos de idade. Alega que o paciente não foragiu, na verdade se mudou do distrito da culpa.
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva decretada.
+O pedido liminar foi indeferido (fls. 111/113).
+Informações prestadas (fls. 118/119 e 122/144).
+O Ministério Público Federal opinou "no sentido de que seja o habeas corpus julgado prejudicado" (fls. 146/147).
+É o relatório.
+Decido.
+De fato, o presente writ encontra-se prejudicado.
+Isso porque, conforme informações obtidas na página eletrônica do Tribunal de origem, nos autos n. 2606267-21.2008.8.13.0313, aos 7/2/2018 foi proferida sentença de pronúncia e concedida a liberdade provisória ao paciente.
+Assim, não há como negar a perda superveniente do objeto deste habeas corpus, tendo em vista ter cessado as circunstâncias determinantes da impetração.
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimações necessárias.
