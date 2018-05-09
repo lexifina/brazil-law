@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor UBIRAJARA VAZ, em face de acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado como incurso no art. 157, §2º, II, do CP, à pena de 6 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, e 14 dias-multa.
+Sustenta a impetrante, em suma, haver constrangimento ilegal na negativa de compensação integral da atenuante da confissão espontânea com a agravante da reincidência.
+Requer, assim, a concessão da ordem para redimensionar a pena do paciente, compensando-se integralmente a confissão com a reincidência.
+Indeferida a liminar e prestadas as informações, o Ministério Publico Federal ofertou parecer pela denegação do habeas corpus.
+É o relatório.
+DECIDO.
+Na sentença condenatória foi realizada a compensação parcial da atenuante e agravante, conforme colhem-se a seguir (fls. 23/24):
+Assim, certa a condenação, passo a dosar a pena. Na fase do artigo 59 do Código Penal, considerando ser o réu portador de maus antecedentes (condenação da 25ª vara criminal, conforme certidão de fls. 181), fixo sua pena base em um sexto acima do piso legal.
+Na segunda fase, observo que o réu é duplamente reincidente (fls. 179 e condenação da execução 2 - 23ª vara, a fls. 181/182) mas, também, por outro lado, é confesso.
+Contudo, tem-se que por expressa previsão legal (art. 67 do Código Penal), a reincidência é preponderante. Nesse sentido, a jurisprudência:
+ ..
+Assim, do confronto entre a reincidência e a confissão, é de rigor que decorra o aumento da pena, mas em um patamar mais brando do que o que seria aplicado caso não houvesse a confissão, razão pela qual reduzo o aumento para apenas um oitavo.
+Interposta apelação defensiva, o Tribunal de Justiça deu parcial provimento par alterar a dosimetria nos termos a seguir (fl. 30):
+ A pena, contudo, respeitado entendimento diverso, deve ser alterada. Continuo crendo que havendo reincidência, não deve o Magistrado utilizar uma delas para estabelecer o mau antecedente e outras, como no caso, para reincidência, pois todas devem ser admitidas e calculadas na segunda fase. Além do que, o mesmo fato é ponderado duplamente com o único intuito de majorar.
+Por isso, fica ela em seu menor patamar. O acusado é confesso e duplamente reincidente. A confissão foi utilizada para a procedência da ação penal e, portanto, deve haver a compensação de uma das condenações.
+A pena, desta forma, é assim calculada: Base em quatro anos, aumento de um sexto pela reincidência e, finalmente, um terço pela causa de aumento, o que a faz resultar em seis anos, dois meses e vinte dias de reclusão e quatorze dias-multa.
+Percebe-se que o paciente é multirreincidente, contando com três condenações definitivas. Uma condenação foi utilizada como maus antecedentes para a majoração da pena-base e outras duas na segunda fase, porém o acórdão reformou a sentença para afastar o aumento da pena basilar, mantendo a compensação parcial da dupla reincidência com a atenuante da confissão espontânea, com aumento de 1/6.
+Com efeito, a Terceira Seção, no julgamento do Recurso Especial Representativo de Controvérsia 1.341.370/MT, pacificou o entendimento no sentido de que, observadas as peculiaridades do caso concreto, é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal.
+O caso dos autos, no entanto, trata de réu multirreincidente, razão pela qual admite-se a preponderância da agravante da reincidência sobre a atenuante da confissão espontânea.
+Veja-se julgados nesse mesmo sentido, com destaques:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. FURTO. ROUBO. CONCURSO MATERIAL. DOSIMETRIA. COMPENSAÇÃO INTEGRAL ENTRE A CONFISSÃO ESPONTÂNEA E A REINCIDÊNCIA. IMPOSSIBILIDADE. RÉU MULTIRREINCIDENTE. COMPENSAÇÃO PARCIAL. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Assim, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e os critérios concretos de individualização da pena mostram-se inadequados à estreita via do writ, por exigirem revolvimento probatório.
+3. A Terceira Seção, no julgamento do Recurso Especial Representativo de Controvérsia 1.341.370/MT, firmou o entendimento de que, aferidas as especificidades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência". Recentemente, em 11/10/2017, no julgamento do Habeas Corpus 365.963/SP, firmou a jurisprudência no sentido que a especificidade da reincidência não obstaculiza sua compensação com a atenuante da confissão espontânea.
+4. Tratando-se de réu multirreincidente, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade.
+5. O Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas. Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração superior a 1/6 exige motivação concreta e idônea.
+6. Procedida à compensação parcial entre a atenuante da confissão espontânea e a agravante da reincidência, descabe falar em ilegalidade no incremento da reprimenda em 1/6 na segunda fase da dosimetria.
+7. Writ não conhecido.
+(HC 440.451/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. FURTO TENTADO. CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA. COMPENSAÇÃO INTEGRAL. IMPOSSIBILIDADE. MULTIRREINCIDÊNCIA. COMPENSAÇÃO PARCIAL. REDIMENSIONAMENTO DA PENA. PRESCRIÇÃO RECONHECIDA. AGRAVO PARCIALMENTE PROVIDO E DECRETADA, DE OFÍCIO, A PRESCRIÇÃO DA PRETENSÃO PUNITIVA.
+1. A jurisprudência desta Corte, no julgamento do EREsp n. 1.154.752/RS, apreciado sob o rito dos recursos repetitivos, em 23/5/2012, pacificou o entendimento de que a agravante da reincidência deve ser compensada com a atenuante da confissão espontânea, porquanto ambas envolvem a personalidade do agente, sendo, por consequência, igualmente preponderantes. Tal entendimento sofre alteração quando reconhecida a situação de réu multirreincidente, hipóteses nas quais, como regra, não será devida a compensação integral entre a confissão e a reincidência.
+2. Tratando-se de réu multirreincidente, cabível a compensação parcial da atenuante da confissão espontânea com a agravante da reincidência.
+3. Reduzida a pena e decorrido lapso temporal superior a 3 anos entre os marcos interruptivos, operou-se a prescrição da pretensão punitiva da pena fixada em patamar inferior a 1 ano.
+4. Agravo regimental parcialmente provido para, reconhecida a compensação parcial da atenuante da confissão espontânea com a agravante da reincidência, reduzir a pena, decretando, de ofício, a prescrição da pretensão punitiva.
+(AgRg no AREsp 713.657/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/04/2018, DJe 23/04/2018)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
