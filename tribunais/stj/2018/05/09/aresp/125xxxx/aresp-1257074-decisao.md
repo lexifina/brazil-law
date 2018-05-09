@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto pelo Município de Contagem, desafiando decisão da Presidência do Tribunal de Justiça do Estado de Minas Gerais que não admitiu recurso especial, à incidência da Súmula 283/STF, tendo em vista que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido.
+Nas razões de agravo em recurso especial, a parte agravante sustenta, em síntese, que: (I) houve o prequestionamento da matéria; (II) "o r. acórdão negou vigência ao artigo 151, VI, do Código Tributário Nacional, tendo em vista que, no caso em questão, fora reconhecida prescrição mesmo estando o débito com a exigibilidade suspensa pelo parcelamento, não podendo subsistir, pois trata-se de interpretação ilegal, tendo em vista violação ao artigo supramencionado." (fl.237); e (III) é inaplicável à espécie a Súmula 7/STJ, porquanto "infere-se que os fundamentos suscitados pelo Recorrente não demandariam a incursão na seara fático-probatória da lide" (fl. 237); e (IV)
+É o relatório.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico, a apontada aplicação do óbice previsto na Súmula 283/STF, fundamento autônomo e suficiente para a manutenção da decisão ora agravada.
+Assim, como a agravante não rebateu, de modo específico, todos os fundamentos adotados pela decisão recorrida para negar trânsito ao apelo especial, incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Ante do exposto, não conheço do agravo.
+Publique-se.
