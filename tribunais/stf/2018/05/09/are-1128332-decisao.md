@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à improcedência do pedido de reajuste de benefício previdenciário com aplicação do IPC-3i. No extraordinário cujo trânsito busca alcançar, o recorrente alega violado o artigo 201, § 4º, da Constituição Federal. Insiste no direito pleiteado, discorrendo acerca da legislação de regência.
+    2. Colho da decisão recorrida o seguinte trecho:
+    7. Não há, portanto, direito a reajuste de acordo com os índices pleiteados, mas sim, de acordo com a forma e o índice previsto em lei.
+    8. Se o juiz pudesse substituir-se ao legislador, para conceder ao segurado índice diverso daquele estabelecido em lei, atentaria contra o princípio constitucional que consagra a separação dos Poderes, além de gerar uma situação de desigualdade, na medida em que, existindo vários índices que se propõem a medir a inflação, cada segurado cuidaria então de pleitear em juízo o indexador que melhor lhe aprouvesse.
+    9. E, admitindo que cada juiz adotasse então, na sentença, o critério de atualização que lhe parecesse mais adequado, o valor dos benefícios tornar-se-ia flutuante, variável, cambiante, comprometendo assim o equilíbrio financeiro e atuarial da Previdência Social, preconizado no art. 201 da CF/88.
+    10. No mesmo sentido, a Súmula nº 35, destas Turmas Recursais: “A garantia constitucional de reajustamento dos benefícios para preservar -lhes, em caráter permanente, o valor real, inserta no § 4º do art. 201 da Constituição Federal de 1988, não confere ao Judiciário o poder de modificar critérios de reajustamento eleitos pelo legislador, substituindo-os por outros que entenda mais adequados para repor as perdas geradas pela inflação, sob pena de ingerência indevida de um Poder na esfera do outro”.
+    11. Na realidade, não existe indexador que permita a determinação exata da perda do poder aquisitivo da moeda, daí a existência de inúmeros índices de inflação, oficiais e extraoficiais, cada qual com seus critérios de aferição específicos. Mas o certo é que nenhum deles capta, com absoluta fidelidade, a inflação verificada no País.
+    12. O artigo 41 da Lei nº 8.213/91 estipula os critérios a serem observados pelo regulamento que vier a definir o percentual de reajuste. Dessa forma, se a autarquia previdenciária atendeu a esses preceitos legais, os reajustes efetivados não podem ser revistos.
+    A decisão impugnada mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação na origem dos honorários advocatícios em 10% do valor da causa, fixo os honorários recursais no patamar 5%, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 9 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
