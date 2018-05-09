@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+"AGRAVO LEGAL. DECISÃO MONOCRÁTICA. CPC, ART. 557. ILEGITIMIDADE DE PARTE. CONTRATO "DE GAVETA".
+- Tratando-se dos chamados "contratos de gaveta", é admitida a cessão de direitos relativos ao financiamento, realizados sem a anuência do agente financeiro, pelo mutuário original para terceiro, por meio de instrumento firmado até a data limite de 25/10/96. Essa possibilidade surgiu com a edição da Lei nº 10.150/00 (art. 20), que permitiu a regularização e uniformização desses contratos.
+- A cessão de direitos da mutuária original para o primeiro cessionário não observou a autenticação do documento em cartório, ainda que a data aposta no documento tenha ocorrido até a data limite, não é possível ao judiciário afrontar questão disciplinada por lei e impor ao agente financeiro que aceite a transferência do financiamento realizada sem a formalidade exigida.
+- Ainda que a segunda cessão de direitos tenha observado a limitação da data e a autenticação em cartório, não convalida a primeira cessão, impossibilitando o reconhecimento da legitimidade do autor para propor a ação e tampouco ser determinada a transferência do contrato de mútuo para o autor.
+- Se a decisão agravada apreciou e decidiu a questão de conformidade com a lei processual, nada autoriza a sua reforma.
+- Agravo legal desprovido." (e-STJ, fls. 301/302)
+Em suas razões recursais, o recorrente aponta ofensa aos artigos 20, 21 e 22 da Lei nº 10.150/2000. Sustenta que a falta de autenticação da primeira cessão não impossibilita a validade da segunda cessão, firmada entre o primeiro cessionário e o ora recorrente, já que observadas as formalidades legais, devendo ser reconhecida a legitimidade ativa do cessionário recorrente.
+É o relatório. Passo a decidir.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+No que se refere à alegada violação aos arts. 20, 21 e 22 da Lei nº 10.150/2000, a insurgência merece prosperar.
+A jurisprudência deste Eg. Superior Tribunal de Justiça consolidou-se no sentido de que o cessionário de contrato celebrado no âmbito do SFH, firmado até a data de 25/10/1996, sem que haja a interveniência da instituição financeira, torna o cessionário equiparado à condição de mutuário, importando assim na legitimidade para o ajuizamento da ação.
+A esse respeito, confira o que a Corte Especial deste Tribunal Superior decidiu no Recurso Especial nº 1.150.429/CE, com base no procedimento dos recursos repetitivos:
+"RECURSO ESPECIAL. REPETITIVO. RITO DO ART. 543-C DO CPC. SISTEMA FINANCEIRO DA HABITAÇÃO. LEGITIMIDADE ATIVA DO CESSIONÁRIO DE CONTRATO DE MÚTUO. LEI Nº 10.150/2000. REQUISITOS.
+1.Para efeitos do art. 543-C do CPC:
+1.1 Tratando-se de contrato de mútuo para aquisição de imóvel garantido pelo FCVS, avençado até 25/10/96 e transferido sem a interveniência da instituição financeira, o cessionário possui legitimidade para discutir e demandar em juízo questões pertinentes às obrigações assumidas e aos direitos adquiridos.
+1.2 Na hipótese de contrato originário de mútuo sem cobertura do FCVS, celebrado até 25/10/96, transferido sem a anuência do agente financiador e fora das condições estabelecidas pela Lei nº 10.150/2000, o cessionário não tem legitimidade ativa para ajuizar ação postulando a revisão do respectivo contrato.
+1.3 No caso de cessão de direitos sobre imóvel financiado no âmbito do Sistema Financeiro da Habitação realizada após 25/10/1996, a anuência da instituição financeira mutuante é indispensável para que o cessionário adquira legitimidade ativa para requerer revisão das condições ajustadas, tanto para os contratos garantidos pelo FCVS como para aqueles sem referida cobertura.
+2. Aplicação ao caso concreto:
+2.1. Recurso especial parcialmente conhecido e nessa parte provido. Acórdão sujeito ao regime do artigo 543-C do Código de Processo Civil e da Resolução STJ nº 8/2008."
+(REsp 1150429 / CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, CORTE ESPECIAL, julgado em 25/04/2013, DJe 10/05/2013)
+Na hipótese, o adquirente do imóvel, por meio do denominado "contrato de gaveta", tem legitimidade para postular a quitação do mútuo habitacional e/ou transferência do contrato, porquanto o acórdão recorrido assegurou, quanto ao recorrente, a observância do limite da data e autenticação em cartório.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial a fim de que, afastada a ilegitimidade da parte autora, determinar o retorno dos autos ao Tribunal de origem para que prossiga no julgamento da apelação.
+Publique-se.
