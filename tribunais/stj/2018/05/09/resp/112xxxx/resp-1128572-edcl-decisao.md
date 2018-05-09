@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra decisão de fls. 1.010/1.017, que negou provimento ao recurso especial com base no fundamento de que o acórdão recorrido foi proferido em consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual "a absolvição na esfera penal fundada não circunstância de não existir prova de ter o acusado concorrido para a infração penal mostra-se incapaz de desconstituir a punição aplicada em virtude do cometimento de infração administrativa."
+Em suas razões, a parte embargante sustenta que "a decisão embargada contradiz sua parte dispositiva com sua fundamentação, uma vez que utiliza como fundamento para justificar sua escolha, julgados dissonantes do seu resultado, além de ter levado em consideração a sentença penal, ao invés da decisão proferida pelo Tribunal do Júri, legítimo juiz natural da causa (CF, artigo 5º, inciso XXXVIII, alínea d)." (fl. 1.022)
+Enfatiza que "foi absolvido no processo penal com base no fundamento de negativa de autoria (CPP, artigo 386, inciso IV - redação anterior à Lei 11.690/2008), a qual, conforme os próprios julgados colacionados para fundamentar a decisão embargada, torna possível reflexos da decisão penal no âmbito administrativo." (fls. 1022/1023)
+Aduz "que o conselho de sentença absolveu o Embargante, por unanimidade, cuja decisão tornou-se imutável em decorrência do trânsito em julgado, em razão de não ter o acusado (Embargante) concorrido para a prática do crime", bem assim que "a decisão embargada se contradiz ao dizer que no caso não há reflexos da decisão criminal no âmbito administrativo quando, claramente, utiliza julgados do próprio STJ que apontam em sentido contrário, a favor da tese jurídica do Embargante." (fl. 1.022)
+Requer o acolhimento dos presentes embargos para que seja sanado o vício apontado e a conseqüente alteração da decisão embargada.
+A parte embargada apresentou impugnação (fls. 1.028/1.031).
+É o relatório.
+De acordo com o estatuído no art. 1.022 do CPC/15, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou para sanar erro material no acórdão atacado.
+No caso, a apontada contradição decorrente da inadequação dos precedentes que embasaram a conclusão adotada pela decisão embargada frente às peculiaridades do caso concreto estão a revelar a necessidade de nova reflexão sobre a matéria, a ser oportunamente submetida ao Colegiado da Primeira Turma.
+Assim, acolho os presentes embargos de declaração para tornar sem efeito a decisão de fls. 1.010 e 1.017.
+Após, voltem-me os autos conclusos.
+Publique-se.
