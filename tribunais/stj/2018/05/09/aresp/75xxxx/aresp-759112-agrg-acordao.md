@@ -1,0 +1,58 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO NO CURSO DA EXECUÇÃO. UNIFICAÇÃO DAS PENAS. ALTERAÇÃO DA DATA-BASE PARA OBTENÇÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ORIENTAÇÃO JURISPRUDENCIAL DA TERCEIRA SEÇÃO DO STJ. RESP 1.557.461/SC e HC 381.248/MG.
+I - Este Superior Tribunal de Justiça se posicionava no sentido de que a superveniência de nova condenação, no curso da execução da pena, determina a unificação das reprimendas e a fixação de nova data-base para a concessão de benefícios.
+II - Contudo, a Terceira Seção desta Corte Superior de Justiça, em 22/2/2018, ao julgar o REsp n. 1.557.461/SC, Relator o Ministro Rogério Schietti Cruz, e o Habeas Corpus n. 381.248/MG, com Relator para o acórdão o Ministro Sebastião Reis Júnior, modificou a orientação anterior e sedimentou o entendimento de que a alteração da data-base para a concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal.
+III - In casu, a pretensão do Ministério Público em modificar o termo a quo para novos benefícios da execução, em face da unificação de penas, estabelecendo como novo marco a data do trânsito em julgado da última sentença condenatória, está em confronto com a nova orientação jurisprudencial firmada pela Terceira Seção desta Corte Superior de Justiça.
+Agravo regimental desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, , por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão monocrática de fls. 268-271, assim ementada:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PERTINÊNCIA DAS ALEGAÇÕES APRESENTADAS. DECISÃO RECONSIDERADA. UNIFICAÇÃO DE PENAS. NOVA DATA-BASE PARA A PROGRESSÃO DE REGIME. INEXISTÊNCIA DE PREVISÃO LEGAL. ORIENTAÇÃO JURISPRUDENCIAL DA TERCEIRA SEÇÃO. RESP 1.557.461/SC. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL."
+Pretende o Parquet federal a reforma do decisum monocrático para "acolher a sua anterior orientação, constante de fls. e-STJ 240/2, submeta a matéria ao crivo da Colenda 5ª Turma desse STJ" (fl. 280).
+Requer, ao final, a reconsideração do decisum ou a submissão do pleito ao Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO NO CURSO DA EXECUÇÃO. UNIFICAÇÃO DAS PENAS. ALTERAÇÃO DA DATA-BASE PARA OBTENÇÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ORIENTAÇÃO JURISPRUDENCIAL DA TERCEIRA SEÇÃO DO STJ. RESP 1.557.461/SC e HC 381.248/MG.
+I - Este Superior Tribunal de Justiça se posicionava no sentido de que a superveniência de nova condenação, no curso da execução da pena, determina a unificação das reprimendas e a fixação de nova data-base para a concessão de benefícios.
+II - Contudo, a Terceira Seção desta Corte Superior de Justiça, em 22/2/2018, ao julgar o REsp n. 1.557.461/SC, Relator o Ministro Rogério Schietti Cruz, e o Habeas Corpus n. 381.248/MG, com Relator para o acórdão o Ministro Sebastião Reis Júnior, modificou a orientação anterior e sedimentou o entendimento de que a alteração da data-base para a concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal.
+III - In casu, a pretensão do Ministério Público em modificar o termo a quo para novos benefícios da execução, em face da unificação de penas, estabelecendo como novo marco a data do trânsito em julgado da última sentença condenatória, está em confronto com a nova orientação jurisprudencial firmada pela Terceira Seção desta Corte Superior de Justiça.
+Agravo regimental desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: Em que pesem os argumentos do agravante, o recurso não merece prosperar, devendo ser mantido o decisum ora agravado.
+Isso porque pretende o Ministério Público Federal que, realizada a unificação das penas na execução penal, a data-base a ser considerada para fins de concessão de benefícios executórios seja a do trânsito em julgado da nova condenação.
+Conforme foi consignado na decisão monocrática ora agravada, o v. acórdão da origem expôs os seguintes fundamentos (fls. 128-129):
+"Quanto ao marco para aquisição de novos benefícios.
+Considerando o Incidente de Uniformização de Jurisprudência nº 1.0704.09.136730-7/002, tenho como correto fixar a data do trânsito em julgado da última condenação para a concessão dos benefícios da execução penal.
+No julgamento do referido incidente, assim decidiu a eg. Corte Superior deste Tribunal:
+"(..) o marco inicial para a concessão de novos benefícios na execução penal, após a unificação das penas, será a data do trânsito em julgado da nova sentença condenatória, independente se o crime foi praticado antes ou após o início do cumprimento da pena (DJe de 25/07/2012) (Publicado no Boletim de Jurisprudência do TJMG, no dia 14/09/2012)."
+A essa decisão, inclusive, acompanha a pacífica jurisprudência do STJ, in verbis:
+ ..
+Neste entendimento, considerando a superveniência de nova condenação penal e a somatória procedida das penas do reeducando, entendo como correta a fixação da data do trânsito em julgado da última condenação do agravante, qual seja, 08/08/2012, como marco para a concessão de novos benefícios, e não a da prisão do sentenciado.
+Vale ressaltar a importância de se adotar o entendimento consolidado neste eg. Tribunal de Justiça, a fim de prestigiar a jurisprudência como fonte do Direito que é, até porque se menosprezada a decisão colegiada obtida, não haverá finalidade alguma em se uniformizar a jurisprudência, e estaríamos desmerecendo o trabalho, dedicação e empenho de meus ilustres Colegas, na árdua tarefa de pacificar as matérias jurídicas deveras tormentosas e conturbadas."
+Com efeito, este Superior Tribunal de Justiça se posicionava no sentido de que a superveniência de nova condenação, no curso da execução da pena, determina a unificação das reprimendas e a fixação de nova data-base para a progressão de regime.
+Ocorre que a Terceira Seção desta Corte Superior de Justiça, em 22/2/2018, ao julgar o REsp n. 1.557.461/SC, de Relatoria do Ministro Rogério Schietti Cruz, e o Habeas Corpus n. 381.248/MG, de Relatoria da Ministra Maria Thereza de Assis Moura, com Relator para o acórdão, o Ministro Sebastião Reis Júnior, sedimentou o entendimento de que a alteração da data-base para a concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal.
+Confira-se a ementa do REsp n. 1.557.461/MG:
+"RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido." (REsp 1.557.461/SC, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 15/3/2018).
+Nesse mesmo sentido:
+"HABEAS CORPUS SUBMETIDO À TERCEIRA SEÇÃO. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE NOVA SENTENÇA CONDENATÓRIA. TERMO INICIAL PARA CONCESSÃO DE FUTUROS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito à regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal. Em vez de haver o cumprimento progressivo de cada pena individualmente, há a soma do total de penas a serem cumpridas para que o apenado as cumpra de forma conjunta.
+2. Inexiste respaldo legal para a alteração da data-base a fim da concessão de futuros benefícios na execução em razão da unificação das penas.
+3. A execução da pena não se inicia apenas com a superveniência do título judicial exequível. Já se admite a execução provisória nas hipóteses de existência de prisão cautelar e, atualmente, quando há a confirmação da condenação pelo Tribunal de Justiça/Tribunal Regional e não há prisão preventiva.
+4. Acarreta evidente excesso de execução a desconsideração do tempo de prisão antes do trânsito em julgado da nova condenação.
+5. Ordem concedida, de ofício, para cassar o acórdão proferido no agravo em execução penal e restabelecer a decisão do Juízo da execução, proferida em 4/3/2016" (HC 381.248/MG, Terceira Seção, Relª. Minª. Maria Thereza de Assis Moura, Rel. p/ Acórdão Min. Sebastião Reis Júnior, DJe 03/04/2018).
+Em tal contexto, decidiu-se que não há previsão legal expressa que permita a alteração da data-base para concessão de novas benesses quando da unificação de penas.
+Ponderou-se que a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+Em conclusão, assentou-se ser indevida a alteração do termo a quo para a concessão de novos benefícios na execução da pena, pois a alteração da data-base não é consectário imediato do somatório das reprimendas impostas ao sentenciado.
+Conclui-se, portanto, que o agravante não trouxe fundamentos capazes de infirmar a decisão agravada.
+Desse modo, nego provimento ao agravo regimental.
+É o voto.
