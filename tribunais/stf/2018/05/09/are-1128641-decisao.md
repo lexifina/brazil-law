@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da Terceira Câmara Cível do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA DE RECONHECIMENTO DE DIREITOS C/C INDENIZAÇÃO PELO TRABALHO EXECUTADO COM PLEITO DE COBRANÇA – DEFENSOR PÚBLICO – DESIGNAÇÃO PARA ATUAÇÃO PERANTE A VARA DE FAZENDA PÚBLICA E REGISTROS PÚBLICOS – ATO DISCRICIONÁRIO DA INSTITUIÇÃO – AUTONOMIA FUNCIONAL E ADMINISTRATIVA – COMPETÊNCIA DO DEFENSOR PÚBLICO-GERAL – RECEBIMENTO DE VERBAS DE SUBSTITUIÇÃO DE FORMA CUMULATIVA – IMPOSSIBILIDADE – RECURSO CONHECIDO E IMPROVIDO – SENTENÇA RATIFICADA.
+    1. Cabe à Defensoria Pública organizar sua estrutura interna, dispondo da maneira que melhor lhe aprouver sobre a criação de órgãos de atuação/execução em sua organização funcional. Trata-se, em verdade, de ato que se encontra na esfera de discricionariedade do Órgão e, por isso, não cabe ao judiciário imiscuir-se em tais atos de competência, sob pena de passar a gerir outro Poder/Órgão, em grave desconsideração à independência e autonomia constitucionalmente previstas.
+    2. O Conselho Superior da Defensoria Pública não é órgão hierarquicamente superior ao Defensor Público Geral do Estado, cabendo ao chefe do Órgão a deliberação sobre matérias como a ora em análise, segundo expressa previsão do art. 16 da Lei Complementar n.º 111/2005.
+    3. A legitimidade do Defensor Público Geral para designar Defensores Públicos para atuarem em varas distintas daquelas às quais estão lotados encontra guarida nos artigos 4, inciso II, 16, inciso XIV, 96 e 106, inciso IV, da Lei Complementar Estadual n.º 111/05.”
+    Opostos embargos de declaração, não foram providos.
+    No recurso extraordinário, interposto com base nas alíneas “a”, “c” e “d”, do permissivo constitucional, sustenta-se violação aos artigos 2º, 5º, caput e inciso II, 24, §§ 1º e 4º, 37, inciso II, 93, inciso IX, e 134, caput e §§ 1º e 4º, da Constituição Federal.
+    Decido.
+    Não procede a alegada violação do artigo 93, inciso IX, da Constituição, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    No mais, melhor sorte não socorre a parte recorrente, uma vez que o Plenário desta Corte, em sessão realizada por meio eletrônico, no exame do RE nº 578.657/RN, Relator o Ministro Menezes Direito, concluiu pela ausência da repercussão geral da matéria relativa ao “direito, ou não, de servidor ao pagamento de diferenças salariais e de gratificações decorrentes do exercício de função em cargo diverso daquele para o qual foi admitido no serviço público”. O acórdão do Pleno está assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. DESVIO DE FUNÇÃO. DISCUSSÃO ACERCA DO DIREITO À DIFERENÇA DE REMUNERAÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL.” (DJe de 6/6/08).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda, a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, de 9 de maio de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
