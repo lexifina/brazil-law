@@ -1,0 +1,37 @@
+EMENTA
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INADMITIU O AGRAVO DE INSTRUMENTO POR AUSÊNCIA DE PEÇA ESSENCIAL. IMPOSSIBILIDADE DE REVISÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. O Tribunal de origem, diante das circunstâncias fáticas dos autos, concluiu que o agravo de instrumento encontrava carente do requisito de admissibilidade concernente à regularidade formal, por não estar instruído com uma das peças obrigatórias, qual seja, a certidão de intimação da decisão agravada, motivo pelo qual não foi conhecido. A inversão do julgado na forma pretendida demandaria a incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+2. Agravo Interno da Empresa Claro S.A. a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno no Agravo em Recurso Especial interposto pela CLARO S.A. contra decisão monocrática de minha lavra proferida com a seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DECISÃO QUE NEGA SEGUIMENTO AO INSTRUMENTO POR AUSÊNCIA DE PEÇA ESSENCIAL. IMPOSSIBILIDADE DE REVISÃO. APLICAÇÃO DA SÚMULA 7 DO STJ. AGRAVO EM RECURSO ESPECIAL DESPROVIDO (fls. 334).
+2. Na oportunidade, foi mantido o acórdão exarado pelo Tribunal de Justiça do Estado do Maranhão. Segue ementa:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ART. 557 DO CPC. AUSÊNCIA DE PEÇA OBRIGATÓRIA. CERTIDÃO DE PUBLICAÇÃO DA DECISÃO AGRAVADA. ÔNUS DO AGRAVANTE EM ZELAR PELA CORRETA INSTRUÇÃO DO AGRAVO. AGRAVO DESPROVIDO.
+1. É requisito de admissibilidade para o agravo do art. 522 do CPC a certidão da intimação da decisão recorrida, podendo ser dispensada acaso exista outro meio pelo qual se posse aferir, de forma fidedigna e segura, a tempestividade.
+2. É ônus do agravante zelar pela correta instrução do agravo de instrumento, sendo de sua responsabilidade a juntada, no ato de interposição do recurso, de certidão emitida pelo Tribunal de origem que comprove a ausência ou incompletude de peça obrigatória. (STJ, AgRg no Ag. 1.432.914/PE, Rei. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20.5.2014, DJe 29.5.2014).
+3. Agravo regimental desprovido (fls. 238).
+3. Alega a parte agravante que o Recurso Especial trata de matéria de direito, não havendo necessidade de incursão no acervo fático-probatório. Aduz para tanto que o Tribunal de origem analisou de forma equivocada as provas apresentadas.
+4. Não houve impugnação ao Agravo Interno.
+5. É o relatório.
+VOTO
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INADMITIU O AGRAVO DE INSTRUMENTO POR AUSÊNCIA DE PEÇA ESSENCIAL. IMPOSSIBILIDADE DE REVISÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. O Tribunal de origem, diante das circunstâncias fáticas dos autos, concluiu que o agravo de instrumento encontrava carente do requisito de admissibilidade concernente à regularidade formal, por não estar instruído com uma das peças obrigatórias, qual seja, a certidão de intimação da decisão agravada, motivo pelo qual não foi conhecido. A inversão do julgado na forma pretendida demandaria a incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+2. Agravo Interno da Empresa Clara S/A a que se nega provimento.
+1. Reanalisando a questão ora trazida para exame desta Corte Superior, tem-se que a parte agravante não apresentou qualquer fundamento capaz de reverter as conclusões alcançadas no julgamento monocrático.
+2. Verifica-se que o Tribunal de origem, diante das circunstâncias fáticas dos autos, concluiu que o agravo de instrumento encontrava carente do requisito de admissibilidade concernente à regularidade formal, por não estar instruído com uma das peças obrigatórias exigidas pelo art. 525, I, do CPC/1973, qual seja, a certidão de intimação da decisão agravada, motivo pelo qual não foi conhecido. A inversão do julgado na forma pretendida demandaria a incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+3. A propósito, destacam-se:
+PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. AGRAVO DE INSTRUMENTO. PEÇAS OBRIGATÓRIAS E NECESSÁRIAS PARA A FORMAÇÃO DO INSTRUMENTO. ART. 525 DO CPC/1973. AFERIÇÃO DA SUFICIÊNCIA DA INSTRUÇÃO OBSTADA EM RECURSO ESPECIAL. SÚMULA 7/STJ.
+(..).
+2. De acordo com o entendimento pacificado no STJ, no julgamento dos EREsp 509.394-RS, pela eg. Corte Especial (Relatora a eminente Ministra ELIANA CALMON, DJ de 4/4/2005), o Agravo de Instrumento previsto no art. 522 do CPC/1973 pressupõe a juntada das peças obrigatórias, bem como aquelas essenciais à correta compreensão da controvérsia, nos termos do art. 525, II, do referido Código. Outrossim, a ausência de quaisquer delas, obrigatórias ou necessárias, obsta o conhecimento do Agravo, não sendo possível a conversão do julgamento em diligência para complementação do traslado nem a juntada posterior de peça.
+3. Desse modo, compete ao Tribunal de origem a tarefa de verificar a essencialidade de cada documento, descabendo a reapreciação de tal matéria em Recurso Especial, por demandar revolvimento do contexto fático-probatório dos autos, nos termos do que dispõe a Súmula 7/STJ.
+4. Recurso Especial não conhecido (REsp. 1.678.414/SP, Rel. Min. HERMAN BENJAMIN, DJe 9.10.2017)
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 525, I, DO CPC. PEÇAS OBRIGATÓRIAS. AUSÊNCIA DO INTEIRO TEOR DO DECISUM AGRAVADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. A jurisprudência desta Corte firmou-se no sentido que o agravo de instrumento deve ser instruído com as peças obrigatórias previstas no artigo 525, I, do CPC, importando a ausência de qualquer delas no não conhecimento do recurso. Precedentes: AgRg no AREsp 664.569/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 27/3/2015; AgRg no AREsp 520.526/RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 22/4/2015; AgRg no AREsp 596.481/CE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 2/2/2015;
+2. Para rever a conclusão do Tribunal de origem atinente à ausência da cópia integral do decisum agravado, faz-se necessário o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+3. Este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial. Precedente: AgRg no REsp 1.473.123/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28/10/2014.
+4. Agravo regimental não provido (AgRg no AREsp. 715.642/SP, Rel. Min. BENEDITO GONÇALVES, DJe 4.8.2015).
+4. Ante o exposto, nega-se provimento ao Agravo Interno da Empresa. É como voto.
