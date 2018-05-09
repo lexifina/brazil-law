@@ -1,0 +1,12 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por [NOME] contra decisão proferida pelo Tribunal de Justiça do Paraná que negou seguimento a seu recurso especial.
+Nas razões do apelo, o recorrente alega violação aos artigos 535, inciso II, 600, inciso IV, 601 e 652, § 3º, do Código de Processo Civil. Assevera que "Não obstante reconhecer nunca ter havido a devida intimação prevista no art. 600, IV, condenou o executado nas penas do art. 601, do CPC, no valor absurdo de 10% do valor da condenação". Sustenta que lhe teria sido aplicada a multa pela prática de ato atentatório à dignidade da Justiça pelo simples fato de não ter observado o prazo para impugnar o cumprimento de sentença previsto no artigo 475-J, tendo em vista que não fora intimado para indicar bens sujeitos à penhora. Sustenta que "não se pode confundir o prazo para impugnar o cumprimento de sentença (art. 475-J, § 1º) - este sim contado da intimação da lavratura do termo de penhora - com o prazo para indicar eventuais bens sujeitos à penhora, referido pelo art. 600, IV. Que depende, como o próprio v. acórdão reconhece, de intimação específica". Argumenta que a impugnação ao cumprimento de sentença é "uma faculdade de que dispõe executado. Quando intimado a tanto, pode, querendo oferecer a impugnação", não havendo qualquer "penalidade em caso de ausência de impugnação. Antes de ser um dever do executado, é um direito seu". Aponta que "O não pagamento espontâneo do valor da condenação, ou o não exercício do direito de impugnar a execução, não é considerado ato atentatório à dignidade da Justiça, e não se confunde do dever do executado previsto no art. 601, IV".
+O juízo negativo de admissibilidade está fundamentado na ausência de violação ao artigo 535 do Código de Processo Civil de 1973 e na imprescindibilidade de revolvimento do acervo fático probatório dos autos para que se possa apreciar da tese recursal, encontrando o recurso óbice na Súmula 7/STJ.
+Nas razões do agravo, o recorrente infirma os fundamentos desta decisão.
+É o relatório.
+Passo a decidir.
+As razões veiculadas pela agravante mostram-se relevantes, exigindo, assim, uma análise mais profunda.
+Ante o exposto, acolho o agravo para, em juízo de retratação, determinar a sua reautuação como recurso especial a fim de permitir um melhor exame da controvérsia.
+Após a regularização do novo registro, voltem conclusos para julgamento do recurso especial.
+Intimem-se.
