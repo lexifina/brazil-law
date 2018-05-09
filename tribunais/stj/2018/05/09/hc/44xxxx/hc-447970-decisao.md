@@ -1,0 +1,11 @@
+DECISÃO
+ANDRE CONCEIÇÃO FERREIRA, paciente neste habeas corpus, alega sofrer coação ilegal em razão de acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas no Recurso em Sentido Estrito n. 0206554-60.2016.8.04.0020.
+Extrai-se da petição inicial que a defesa entende ser nulo o julgamento do recurso em sentido estrito porque o Magistrado de primeiro grau, ao prestar as informações ao Tribunal estadual, "equivocadamente sonegou  ..  informações relevantes a formação de convicção probatória quanto a falha da Defensoria Pública na inserção em duplicidade dos sistemas do Juizado da petição de ciência da sentença" (fl. 2). O impetrante também aduz que o referido Magistrado "cerceou ao Ministério Público do Amazonas o direito à informação" (fl. 4). Ainda, tece considerações acerca da teoria dos frutos da árvore envenenada e traz julgados deste Superior Tribunal a respeito do assunto.
+Requer, inclusive liminarmente, "a Anulação do acórdão do Recurso em Sentido Estrito nº 0206554-60.2016.8.04.0020 e a suspensão da execução penal no processo 0206946-39.2012.8.04.0039" (fl. 13).
+Decido.
+Da análise dos autos, observo que este mandamus foi deficientemente instruído, porquanto, apesar de o impetrante colacionar cópia do acórdão proferido nos embargos de declaração no recurso em sentido estrito, não trouxe cópia do inteiro teor do acórdão que se quer anular, nem qualquer documentação apta a comprovar a existência da execução penal que se quer suspender, o que impossibilita a compreensão do caso e inviabiliza o regular processamento deste habeas corpus.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+É cogente ao impetrante - sobretudo quando se tratar de advogado constituído - apresentar elementos documentais suficientes para se permitir aferir a existência de constrangimento ilegal no ato impugnado.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Nada impede, porém, à vista dos princípios da economia e da celeridade processuais, que, caso a parte traga as aludidas peças faltantes, os pedidos sejam considerados e analisados.
+Publique-se e intimem-se.
