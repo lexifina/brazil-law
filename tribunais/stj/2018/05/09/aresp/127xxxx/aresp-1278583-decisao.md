@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu o recurso especial, interposto com fulcro no art. 105, inciso III, alínea "a", da Constituição Federal, em desfavor de acórdão assim ementado:
+APELAÇÃO CRIMINAL. TRÁFICO. DESCLASSIFICAÇÃO PARA O ARTIGO 28 DA LEI 11.343/2006. IMPOSSIBILIDADE. DIFUSÃO ILÍCITA. CIRCUNSTÂNCIAS DA APREENSÃO. CONFISSÃO EXTRAJUDICIAL. QUANTIDADE DA DROGA E BALANÇA DE PRECISÃO. PALAVRA DOS POLICIAIS CONDUTORES DO FLAGRANTE. DEPOIMENTO TESTEMUNHA. RECURSO DESPROVIDO.
+1. Não há falar em desclassificação do crime de tráfico para o porte para consumo pessoal (artigo 28 da Lei 11.343/2006), quando a quantidade da droga e as circunstãncias da apreensão evidenciam que os entorpecentes se destinavam à difusão ilícita.
+2. As declarações dos policiais a respeito das funções que desempenham na qualidade de agentes públicos possuem presunção de veracidade e legitimidade, e os atos por eles praticados no exercício do cargo gozam de relevante força probatória.
+3. Para a configuração da causa de diminuição da pena prevista no § 4º do artigo 33 da Lei 11.343/2006, exige-se que o agente seja primário, portador de bons antecedentes e que não se dedique a atividades criminosas nem integrem organização criminosa, de forma cumulada.
+4. Condenação anterior ainda não transitada em julgado, mesmo não sendo passível para caracterizar reincidência ou maus antecedentes, pode configurar a dedicação do acusado a atividades criminosas e, por conseguinte, impedir o reconhecimento do privilégio previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+5. Recurso desprovido. (fls. 186/187)
+A defesa apontou nas razões do recurso especial negativa de vigência ao art. 33, § 4º, da Lei n. 11.343/2006, buscando a aplicação do redutor da pena, ao argumento de que ações penais em andamento não podem levar à conclusão de que o réu dedica-se à atividade criminosa. .
+A r. decisão agravada não admitiu o recurso especial, em virtude da incidência da Súmula n. 7 desta Corte Superior.
+A contraminuta foi apresentada à fl. 247.
+O Ministério Público Federal opinou pelo desprovimento do recurso. (fls. 262/267)
+É o relatório. Decido.
+Conheço do agravo, visto que atacado o fundamento da decisão agravada.
+Passo a apreciar o recurso especial.
+A irresignação não merece prosperar.
+Com efeito, "a vivência delitiva do agente serve para afastar a incidência da minorante do tráfico eventual, prevista no art. 33, § 4º, da Lei de Drogas, ainda que indicada por feitos em andamento, como tem decidido esta Corte" (HC 258.996/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 17/06/2016). No mesmo sentido:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. EXISTÊNCIA DE FEITOS CRIMINAIS EM CURSO. CONCLUSÃO ACERCA DA DEDICAÇÃO DO PACIENTE ÀS ATIVIDADES CRIMINOSAS. POSSIBILIDADE. ILEGALIDADE. AUSÊNCIA. SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO FIXADO COM BASE EM QUANTIDADE E NATUREZA DOS ENTORPECENTES. PEQUENA QUANTIDADE DA DROGA. CONSTRANGIMENTO ILEGAL. OCORRÊNCIA. REGIME INICIAL SEMIABERTO. POSSIBILIDADE. CONCESSÃO PARCIAL DA ORDEM.
+1. Consoante entendimento perfilhado pela Sexta Turma Corte nos autos do HC n.º 358.417/RS, "fatos criminais pendentes de definitividade, embora não sirvam para a negativa valoração da reincidência e dos antecedentes (Súmula n. 444 do STJ), podem, salvo hipóteses excepcionais, embasar o afastamento da minorante do tráfico privilegiado quando permitam concluir a vivência delitiva do agente, evidenciando a dedicação a atividades criminosas". Do mesmo modo, nos autos do EResp n.º 1.431.091/SP, de Relatoria do Ministro Felix Fischer, a Terceira Seção consolidou o referido entendimento. Dessa forma, não há falar em ilegalidade, na espécie, tendo em vista que a benesse prevista no art. 33, § 4º, da Lei n.º 11.343/06 foi negada por entender a Corte de origem que o paciente era renitente em atividades criminosas, porquanto já condenado anteriormente pela prática do mesmo delito. Ressalva do entendimento da Relatora.  (HC 418.882/SP, Rel. Ministra Maria Thereza de Assis Moura, DJE de 14/03/2018).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (ART. 33, § 4º, DA LEI Nº 11.343/06). VEDAÇÃO. PROCESSOS EM ANDAMENTO. FUNDAMENTAÇÃO IDÔNEA.  ..  WRIT NÃO CONHECIDO.
+ ..
+2. De acordo com a jurisprudência desta Quinta Turma, processos em andamento só não podem ser utilizados na primeira fase de dosimetria da pena para majorá-la, sendo possível utilizar esses fatos criminais para vedar a aplicação da causa redutora prevista no § 4º do art. 33 da Lei n. 11.343/06, quando se referirem à prática de tráfico de drogas, demonstrando a habitualidade na prática do delito pelo paciente, como na hipótese dos autos. Precedentes (HC 313.812/SP, Rel. Ministro RIBEIRO DANTAS, DJe 10/05/2016 e HC 280.204/SP, Rel. Ministro GURGEL DE FARIA, DJe 17/04/2015).
+ ..
+Habeas corpus não conhecido. (HC 408.410/SP, de minha relatoria, QUINTA TURMA, DJe 17/10/2017)
+Diante do exposto, com fundamento no art. 932, inc. IV, do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
