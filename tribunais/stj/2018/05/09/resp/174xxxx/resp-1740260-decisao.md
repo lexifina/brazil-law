@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por MAURÍCIO DAL AGNOL contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÕES CÍVEIS. MANDATOS. AÇÃO DE COBRANÇA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. RETENÇÃO INDEVIDA DE VALORES PELO PROCURADOR. INDENIZAÇÃO. DANOS MATERIAIS CONFIGURADOS. TERMO INICIAL DOS JUROS DE MORA. APLICAÇÃO DO ART. 670 DO CÓDIGO CIVIL. HONORÁRIOS CONTRATUAIS. COMPENSAÇÃO. POSSIBILIDADE NO CASO CONCRETO. DANO MORAL CARACTERIZADO. VALOR DA INDENIZAÇÃO MAJORADO. TERMO INICIAL DOS JUROS DE MORA. CITAÇÃO.
+1. Não configuradas as hipóteses do art. 109, da Constituição Federal e ausente interesse da pessoa de direito público interno nesta demanda, deve ser mantido o reconhecimento da competência da Justiça Estadual para o processamento e julgamento da demanda.
+2. Os juros de mora e a correção monetária incidentes sobre o dano material são contabilizados desde a indevida retenção dos valores pelo procurador. Inteligência do art.670 do Código Civil.
+3. O termo final do cômputo da correção monetária e dos juros de mora é a data em que ocorrer o efetivo pagamento.
+4. Ainda que a conduta do réu não tenha sido pautada pela boa-fé, esta Câmara tem entendido que o trabalho do demandado deve ser remunerado na forma estabelecida no contrato, até porque os autores apenas alcançaram o objetivo naquela ação em decorrência do fruto do trabalho desenvolvido. A retenção indevida dos valores por parte do procurador, de regra, portanto, não lhe retira o direito de receber pelo trabalho desenvolvido. Sendo incontroverso o percentual ajustado pelas partes a título de honorários contratuais, deve ser oportunizada a dedução dos honorários contratuais em 25% sobre o crédito
+5. Os danos morais, no caso em comento, decorrem exclusivamente do atuar do procurador, que extrapolou os limites do mandato ao reter indevidamente os valores que eram devidos à mandante, razão pela qual é impositiva a manutenção da condenação.
+6. No que atine ao arbitramento do quantum a ser indenizado, deve ser considerado o binômio: compensação à vítima e punição ao ofensor. No caso, deve ser majorado o valor da indenização.
+7. Sucumbência mantida. RECURSO DE APELAÇÃO INTERPOSTO PELA AUTORA PROVIDO E RECURSO DE APELAÇÃO INTERPOSTO PELO RÉU PARCIALMENTE PROVIDO" (e-STJ fls. 183-184).
+Os embargos de declaração opostos pelo ora recorrente foram rejeitados e os opostos pela ora recorrida foram acolhidos apenas para sanar a omissão quanto ao pedido de majoração dos honorários advocatícios, mantendo-se, porém, os valores arbitrados em primeiro grau (e-STJ fls. 212-219; 220-223).
+Irresignado, apenas o réu interpôs recurso especial (e-STJ fls. 228-247) alegando, preliminarmente, a negativa de prestação jurisdicional no julgamento dos aclaratórios, em ofensa ao artigo 1.022 do Código de Processo Civil de 2015.
+No mérito, alega a violação dos arts. 405 e 407 do Código Civil e 240 do CPC/2015, bem como divergência jurisprudencial, pugnando pela reforma do acórdão no ponto em que determinou a incidência de juros moratórios sobre os danos morais arbitrados até a data do efetivo pagamento.
+Afirma que houve o bloqueio judicial da totalidade de seu patrimônio no âmbito de ação civil pública ajuizada em seu desfavor, como garantia de juízo para futuras execuções.
+Por tal razão, requer a aplicação do entendimento firmado no acórdão paradigma REsp nº 1.107.447/PR, no sentido de que "o depósito ou bloqueio de numerários do devedor, seja a que título for, faz cessa (sic) a mora, ficando a correção e juros moratórios, da data do bloqueio em diante, sob responsabilidade da instituição financeira responsável pela custódia dos valores" (e-STJ fl. 238).
+O recorrente alega, ainda, a violação do art. 944 do CC/2002, sustentando que não houve comprovação do dano moral. Postula o afastamento da condenação ou, subsidiariamente, a redução do valor arbitrado.
+Por fim, aponta ofensa ao art. 86 do CPC/2015, defendendo que a distribuição dos ônus de sucumbência seja feita de forma proporcional ao decaimento de cada uma das partes.
+Após a apresentação das contrarrazões (fls. 252/264, e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo e diante das peculiaridades da causa, a controvérsia merece melhor exame desta Corte, motivo pelo qual dou provimento ao agravo para determinar a conversão em recurso especial.
+Publique-se.
+Intimem-se.
