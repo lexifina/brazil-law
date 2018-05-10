@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Morgana de Oliveira Costa interpõe agravo de instrumento contra decisão que não admitiu recurso extraordinário.
+    Decido.
+    Anote-se, inicialmente, que os requisitos de admissibilidade do presente recurso regem-se pelas disposições do Código de Processo Civil de 1973, regramento legal vigente quando da publicação da decisão impugnada no agravo.
+    O recurso não merece conhecimento.
+    Isso porque, consoante despacho exarado pela Vice-Presidente do Tribunal de origem (Item 16 – fl. 124), a agravante deixou de instruir os presentes autos com cópia integral da decisão que não admitiu o recurso extraordinário, peça obrigatória exigida pelo § 1° do art. 544 do Código de Processo Civil de 1973, com a alteração da Lei n° 10.352, de 26/12/01. Incidência, portanto, da Súmula nº 288/STF.
+    Nessa linha de entendimento destaco precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CRIMINAL. AUSÊNCIA DE CÓPIA DA DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO. TRASLADO DEFICIENTE. 1. A observância do disposto no parágrafo primeiro do artigo 543 do Código de Processo Civil não pode ser dissociada da previsão legal do seu caput, que prevê primeiramente a remessa do processo ao Superior Tribunal de Justiça somente na hipótese em que ambos os recursos foram admitidos pelo Presidente do Tribunal a quo. 2. Ausência da cópia da decisão que não admitiu o recurso extraordinário. Tratando-se de peça essencial à compreensão da controvérsia, aqui incide a Súmula n. 288 do STF. Agravo regimental a que se nega provimento” (AI nº 768.947/SE-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 18/12/09);
+    “1. Agravo de instrumento em matéria criminal. Ausência no traslado do acórdão recorrido, da decisão agravada, das certidões de intimação dessas decisões, da procuração outorgada ao advogado do ora agravante, do recurso extraordinário e das contra-razões ao apelo extremo, peças obrigatórias para a formação do instrumento (Súmulas STF 288 e 639). 2. Segundo reiterada orientação desta Corte, é encargo da parte recorrente fiscalizar a inteireza do traslado. 3. Inexistem elementos suficientes nestes autos que permitam, de plano, verificar a ocorrência da prescrição da pretensão punitiva estatal. 4. Agravo regimental improvido” (AI nº 751.579/RS-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 11/12/09);
+    “Agravo de Instrumento. Inadmissibilidade. Peças obrigatórias. Falta. Agravo regimental improvido. Aplicação da Súmula n° 288. Não se conhece de agravo de instrumento a que falte peça obrigatória” (AI nº 618.280/PA-AgR, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 11/4/08).
+    “Agravo Regimental no agravo de instrumento. Matéria criminal. Ausência de peça essencial. Súmulas nºs 288 e 639 da Corte. Precedentes. 1. A certidão de publicação do acórdão proferido em sede de embargos declaratórios é peça de traslado obrigatório, necessária à verificação da tempestividade do recurso extraordinário, nos termos do art. 544, § 1º, do Código de Processo Civil. Incidência das Súmulas nº 288 e 639 desta Corte. 2. É da jurisprudência da Corte que incumbe exclusivamente à agravante a responsabilidade pela correta formação do instrumento com o completo traslado das peças, não se admitindo o suprimento de eventuais falhas ou a realização de diligências junto a este Supremo Tribunal” (AI nº 713.748/RJ-AgR, Primeira Turma, de minha relatoria, DJe de 1º/8/11);
+    Ressalto, por oportuno, ser incabível neste Supremo Tribunal Federal o suprimento de eventuais falhas ou realização de diligências com o objetivo de viabilizar o conhecimento de recurso interposto nas demais instâncias (RE nº 536.881/MG-AgR, Tribunal Pleno, Relator o Ministro Eros Grau, DJe de 12/12/08).
+    Ante o exposto, não conheço do agravo.
+    Publique-se.
+    Brasília, 10 de maio de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
