@@ -1,0 +1,12 @@
+DECISÃO
+JONES MANENTI DE OLIVEIRA alega sofrer coação ilegal em decorrência de decisão monocrática proferida por Desembargador do Tribunal de Justiça do Estado do Paraná, que não conheceu do HC n. 0014524-54.2018.8.16.0000.
+O impetrante, condenado por crime equiparado a hediondo (tráfico de drogas), se insurge contra a consideração da reincidência relacionada a crime comum (corrupção) na fase da execução penal, para fins de análise de seu pedido de progressão, com exigência do cumprimento da fração de 3/5 de sua pena.
+Requer o afastamento da reincidência para satisfação do requisito objetivo.
+Decido.
+O writ foi interposto contra decisão monocrática de Desembargador do Tribunal de Justiça a quo, contra a qual seria cabível agravo regimental.
+Nesse contexto, não é possível o conhecimento do pedido, uma vez que, a teor do art. 105, II, "a", da CF, não houve julgamento em última instância pelo Tribunal de Justiça a ensejar a inauguração da competência desta Corte. Ilustrativamente:
+ ..  não tem cabimento o habeas corpus para desafiar decisão singular de Desembargador relator que não conheceu do recurso interposto perante o Tribunal (precedentes). 3. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior (precedentes)" (AgRg no HC n. 423.705/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 5/4/2018).
+Ademais, não se verifica flagrante ilegalidade a atrair a aplicação do art. 654, § 2º, do CPP. O paciente ostenta condenação pelo crime de corrupção passiva, transitada em julgado em 3/6/2013. Foi condenado pelos crimes de tráfico e de associação de tráfico de drogas, perpetrado em 30/7/2015. Em se tratando de crime equiparado a hediondo (tráfico de drogas), exige-se do sentenciado reincidente, para fins de progressão de regime, o cumprimento de 3/5 de sua pena.
+Ademais: "Constatada a reincidência, independentemente da natureza do crime antecedente, exige-se o cumprimento de 3/5 da pena do crime hediondo ou equiparado, praticado na vigência da Lei 11.464/2007, para efeito de progressão de regime. Precedentes" (AgRg no HC n. 427.343/PR, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T.,DJe 17/4/2018).
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
