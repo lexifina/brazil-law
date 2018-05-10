@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial, interposto com fulcro no art. 105, III, alíneas "a" e "c", da Constituição Federal - CF, contra acórdão do Tribunal de Justiça do Estado de Goiás - TJGO.
+Consta dos autos que foi reconhecida, em favor do recorrido, remição da pena pela prática de artesanato.
+Irresignado, o MPE interpôs agravo em execução penal que foi desprovido. O acórdão ficou assim ementado:
+AGRAVO EM EXECUÇÃO PENAL. TRABALHO ARTESANAL. DIREITO DE REMIÇÃO DA PENA. 1) A remição é direito que assiste ao condenado de reduzir a sanção corporal pelo desempenho de atividade laborativa, à razão de um dia de pena por três de trabalho. 2) Constatada que restou a prática do labor artesanal por atestado de freqüência ao trabalho, informada pela direção do presídio, impõe-se o reconhecimento do benefício. 3) Agravo conhecido e improvido. (fl. 95).
+Opostos embargos de declaração, não foram conhecidos, nesses termos (fl. 275):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL OMISSÃO OU CONTRADIÇÃO. NÃO OCORRÊNCIA. MANIFESTAÇÃO FUNDAMENTADA DO ACÓRDÃO RECORRIDO SOBRE TODOS OS PONTOS SUSCITADOS ANTERIORMENTE. EMBARGOS DECLARATÓRIOS NÃO CONHECIDOS.
+1. Não há falar em omissão no julgado, estando ausentes os requisitos autorizadores dos embargos declaratórios, previstos no art. 619, do CPP.
+2. Embargos declaratórios não conhecidos.
+Em sede de recurso especial, o MPE alegou violação dos artigos 33 e 126, § 1º, inc. II ambos da Lei n. 7.210/84, Lei de Execução Penal - LEP, porquanto o trabalho de artesanato realizado no presídio não foi fiscalizado devidamente e nem teve caráter ressocializador e expressão econômica, motivo pelo qual não poderia ser considerado para fins de remição. Requereu o afastamento dos dias remidos em razão do suposto trabalho com artesanato.
+Contrarrazões (fls. 144/148).
+O recurso especial não foi admitido (fls. 164/165). Agravo em recurso especial foi interposto e provido (fl. 207).
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 202/204).
+É o relatório. Decido.
+Sobre a violação aos dispositivos legais apontados, o Tribunal de origem destacou que a remição pelo trabalho com artesanato é permitida e que pela documentação constante dos autos pode se afirmar que foi realizada pelo recorrido, embora também reconheça a ausência de estrutura da unidade prisional e da má fiscalização na adoção de procedimentos satisfatórios de descrição dos objetos produzidos e de efetiva catalogação da carga horária. Cito o trecho:
+"Com fundamento na própria finalidade do instituto da remição, entendo que a irresignação ministerial não merece prosperar.
+Cumpre ressaltar que o trabalho do preso não deve ser entendido como prolongamento da sanção aflitiva a ele imposta, mas como autêntico direito em que lhe são proporcionadas reais condições para a reintegração social.
+Segundo os princípios norteadores da Lei de Execução Penal, o condenado que cumpre sanção corporal em regime fechado ou semiaberto poderá ter esta reduzida à razão de um dia de pena por três de trabalho (art. 126).
+A legislação não restringe a natureza do trabalho, consoante adverte [NOME]:
+"Não distingue a lei quanto à natureza do trabalho desenvolvido pelo condenado. Assim, a remição é obtida pelo trabalho interno ou externo, manual ou intelectual, agrícola ou industriai, não se excluindo o artesanal, desde que autorizado pela administração do estabelecimento penal." (da obra, "Execução Penal", 9a edição, p. 428).
+O trabalho é direito do preso e assegurá-lo é dever do Estado. Evidentemente que, se este não oferece estrutura adequada para sua execução, poderá o recluso, na forma do artigo 32, exercê-lo segundo sua habilitação, condição pessoal, necessidades futuras e oportunidades ofertadas pelo mercado.
+Na hipótese dos autos, é de se ponderar que o reeducando expia a pena em regime semiaberto na [NOME], local notoriamente desprovido de condições humanas e físicas necessárias para o efetivo monitoramento dos trabalhos desenvolvidos pelos presos, consoante noticia o agravante, respaldado em declarações de agentes do sistema carcerário, verbis:
+" ..  Que com relação aos artesanatos, os agentes penitenciários não tem como fiscalizar a quantidade de horas que efetivamente os presos trabalham nesta atividade; Que somente tem condições de fiscalizar a entrada dos materiais destinados a realização do artesanato e a saída dos artesanatos; Que os artesanatos, quando prontos, são entregues aos familiares de cada preso e não há como fiscalizar qual a destinação final destes artesanatos, se realmente são vendidos para terceiros, lojas e estabelecimentos, ou se ficam com a própria família dos presos  .. ." (declarações prestadas por [NOME] à Promotora de Justiça da comarca - fls. 47/52).
+Apesar da caótica situação do estabelecimento prisional local, inclusive com destaque aos recentes enfrentamentos de rebeliões, consoante exaltado na fala da digna representante ministerial recorrente, é de se ressaltar que o reeducando [NOME] ainda assim não se deixou levar pela ociosidade. Pelo contrário, dedicou-se ao trabalho artesanal.
+O Atestado de pena a cumprir e as folhas de freqüência de prestação de serviços supervisionada pela [NOME], acostadas a estes autos (fls. 23/28 e 42/43), comprovam que o reeducando trabalhou efetivamente entre os meses de dezembro de 2011 à maio de 2012, totalizando 156 (cento e cinqüenta e seis) dias.
+O argumento de que a prática dos serviços artesanais em referência não configura trabalho para efeito de remição da pena há de ser desconsiderado, visto que o supervisionamento é ônus privativo do Estado cuja omissão não pode prejudicar o interno. Até porque, dos autos não se extraem elementos capazes de contraditar a fé que merecem os documentos expedidos pelos agentes do presídio.
+Os problemas carcerários denunciados pela agravante refletem uma inoperância administrativa do Estado, os quais por certo não serão resolvidos com a exclusão de direitos humanos conferidos aos presos.
+É dever de o Estado atribuir trabalho a todos os presos e, se assim não o faz, a estes deve ser assegurado o direito à remição da mesma forma.
+Há assim, uma relação de direitos e deveres entre o Estado e o condenado em virtude da qual a Administração é compelida a possibilitar labor ao interno, por conseguinte, a este competindo o desempenho das atividades. Daí, afirma-se, não se desincumbindo o Estado do seu dever assumido, poderá aquele beneficiar-se com a remição mesmo sem o desempenho da atividade.
+Não é do sentenciado a responsabilidade pelo ócio ou falta de supervisionamento, como no presente caso, por falha na administração do presídio.
+(..)
+Desse modo, entendo que a remição conferida ao reeducando [NOME] deve ser mantida, pois certamente contribuirá para sua ressocialização." (fls. 97/102).
+Pois bem, conforme precedentes desta Corte, o trabalho artesanal pode ser considerado para fins de remição e o óbice do revolvimento fático-probatório impede o afastamento dos dias remidos. Cito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. REMIÇÃO. ART. 126 DA LEP. ATIVIDADES DE ARTESANATO. HORAS TRABALHADAS. FISCALIZAÇÃO E REGISTRO DE RETRIBUIÇÃO ECONÔMICA. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. ACÓRDÃO PROFERIDO EM HABEAS CORPUS. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. O Tribunal de Justiça manteve a remição em virtude de trabalho artesanal desenvolvido pelo apenado nos meses de agosto a novembro de 2012, porquanto a atividade foi devidamente atestada pelo Coordenador da respectiva Unidade Prisional.
+2. Para afastar a idoneidade da certidão ou reconhecer eventual falha na fiscalização exercida pelos agentes públicos seria necessário o reexame de fatos não delineados no acórdão recorrido, o que atrai o óbice da Súmula n. 7 do STJ.
+ ..
+4. Agravo regimental não provido. (AgRg no AREsp 509.311/GO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 16/02/2017).
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. TRABALHO ARTESANAL. RECONHECIMENTO NA EXECUÇÃO DE HORAS TRABALHADAS. REMIÇÃO. PRETENSÃO PELA IMPOSSIBILIDADE DE REMIÇÃO. CONJUNTO PROBATÓRIO. SÚMULA 7/STJ.
+1. Não obstante a alegação de tratar-se apenas de revaloração jurídica dos fatos, o acolhimento da pretensão recursal, a fim de se reconhecer a não comprovação do trabalho exercido pelo recorrido, demandaria, necessariamente, o reexame do conjunto fático-probatório, tarefa inviável em sede de recurso especial.
+2. Agravo regimental improvido (AgRg no AREsp 601.042/GO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 10/11/2015).
+Diante do exposto, com fundamento na Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
