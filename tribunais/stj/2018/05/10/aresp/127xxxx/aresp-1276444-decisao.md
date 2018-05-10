@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REVISÃO CONTRATUAL E CONSIGNATÓRIA. JUROS REMUNERATÓRIOS. LIMITAÇÃO À TAXA MÉDIA DE MERCADO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+WAGNER CHILAVIER OLIVEIRA (WAGNER) ajuizou ação de revisão contratual cumulada com consignação em pagamento contra BANCO FINASA S.A. (BANCO), objetivando a declaração de nulidades das cláusulas contratuais do contrato firmado entre as partes.
+O Juízo de piso julgou procedente o pedido revisional para revisar o contrato, fixando os juros remuneratórios em 12% ao ano; permitindo a capitalização anual dos juros remuneratórios; e, substituindo a cobrança da comissão de permanência pelo IGPM, como índice de correção monetária. Em relação ao pedido consignatório, julgou extinto o feito, sem resolução de mérito, tendo em vista a não realização dos depósitos determinados.
+As partes apelaram.
+O Tribunal de origem negou provimento ao recurso do BANCO e deu provimento ao apelo de WAGNER em acórdão assim ementado:
+APELAÇÕES CÍVEIS - AÇÃO REVISIONAL DE CONTRATO - JUROS REMUNERATÓRIOS - LIMITAÇÃO EM 12% AO ANO - CÓDIGO DE DEFESA DO CONSUMIDOR E ART. 591 DO CÓDIGO CIVIL - CAPITALIZAÇÃO INFERIOR AO PERÍODO ANUAL - IMPOSSIBILIDADE - RECURSO DO BANCO IMPROVIDO E DO AUTOR PROVIDO.
+Nos contratos celebrados depois da Emenda Constitucional n. 40/2003, portanto, na vigência do novo Código Civil, os juros remuneratórios devem ser limitados a 12% ao ano, por força do que dispõe o art. 591 do CC.
+No que se refere à capitalização de juros, não é admitida em período inferior ao anual, ainda que expressamente convencionada entre as partes.
+Dada a índole remuneratória que caracteriza a chamada comissão de permanência, o caráter potestativo da cláusula que prevê sua incidência, defeso pela legislação civil (art. 122 do CC), entendo que não se pode admitir sua cobrança (e-STJ, fl. 212).
+Em Juízo de retratação, o Desembargador Relator retificou em parte o acórdão para dar parcial provimento ao recurso de apelação interposto BANCO, autorizando a cobrança dos juros remuneratórios nos limites constantes no contrato e, em consequência, deu parcial provimento ao recurso de WAGNER (e-STJ, fls. 396/400).
+Essa decisão foi mantida pelo Tribunal de origem nos termos da seguinte ementa:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO - JUROS REMUNERATÓRIOS - LIMITAÇÃO A TAXA MÉDIA DE MERCADO - NÃO CABIMENTO - AUSÊNCIA DE ABUSIVIDADE - RECURSO IMPROVIDO.
+A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que os juros cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto nº 22.626/33 (Lei de Usura), a teor do disposto na Súmula 596/STF, de forma que a abusividade da pactuação de tais juros deve ser cabalmente demonstrada em cada caso, com a comprovação do desequilíbrio contratual ou de lucros excessivos, sendo insuficiente o só fato de a estipulação ultrapassar 12% ao ano ou de haver estabilidade inflacionária no período (Aglnt no AREsp 980.668/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/02/2017, DJe 09/02/2017).
+Na hipótese dos autos, os juros remuneratórios entabulado entre as partes foi no importe de 3,07% ao mês, enquanto que a taxa média divulgada pelo Banco Central do Brasil para a modalidade de aquisição de veículos, foi na ordem de 2,99% ao mês, de sorte que não há abusividade na pactuação (e-STJ, fl. 420).
+Nas razões do recurso especial, interposto com base no art. 105, III, a e c, da Constituição Federal, WAGNER alegou que os juros remuneratórios devem ser limitados à taxa média de mercado.
+O recurso foi inadmitido pelo Tribunal de origem (e-STJ, fls. 181/183), sobrevindo o presente agravo.
+É o relatório.
+DECIDO.
+O irresignação não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da leitura da peça recursal, verifica-se que o recurso especial foi interposto com base nas alíneas a e c do permissivo constitucional. Contudo, não houve indicação de qualquer dispositivo da legislação infraconstitucional que teria sido violado.
+Sobre o tema, a jurisprudência desta Corte é pacífica quanto à necessidade de indicação dos artigos violados, ainda que o apelo extremo seja aviado apenas com base do dissídio interpretativo.
+Neste passo, ante a ausência da demonstração da ofensa à legislação federal pelo acórdão recorrido, incide à hipótese a Súmula nº 284/STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido:
+PROCESSO CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. DELEGADO DA POLÍCIA FEDERAL. RECURSO ESPECIAL INTERPOSTO APENAS PELA ALÍNEA "C". ART. 255 DO RISTJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. COTEJO ANALÍTICO. AUSÊNCIA. DIVERGÊNCIA NOTÓRIA. INOCORRÊNCIA.
+1. A apontada divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. Ademais, não se vislumbra similitude fática entre os casos apontados como paradigmas, de modo a caracterizar suficientemente a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal. Precedentes do STJ.
+2. A interposição do Recurso Especial com fundamento na alínea "c" não dispensa a indicação do dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais. O não cumprimento de tal requisito, como no caso, importa deficiência de fundamentação, atraindo também a incidência do contido no enunciado 284 da Súmula do Supremo Tribunal Federal.
+3. Ainda que a divergência fosse notória, esta Corte tem entendimento pacífico de que não há dispensa do cotejo analítico, a fim de demonstrar a divergência entre os arestos confrontados.
+4. Agravo Regimental improvido.
+(AgRg no AREsp 571669/RS, Rel. Min. HERMAN BENJAMIN, Segunda Turma, DJe 26/11/2014)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMPRA E VENDA DE IMÓVEL. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS SUPOSTAMENTE VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A falta de indicação dos dispositivos legais que teriam sido eventualmente violados faz incidir à hipótese o teor da Súmula 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+2. A revisão da conclusão estadual - acerca da legitimidade passiva da recorrente, da desnecessidade da produção de prova pericial, da competência da Justiça Estadual para julgar o feito, bem como pela cobrança indevida dos juros de obra ao consumidor - demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providência inviável na via estreita do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+3. Por fim, registre-se não ser cabível o arbitramento de honorários recursais previstos no § 11 do art. 85 do Novo Código de Processo Civil no recurso de agravo interno.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1213182/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
