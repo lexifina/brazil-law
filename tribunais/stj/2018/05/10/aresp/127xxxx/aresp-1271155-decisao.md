@@ -1,0 +1,26 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. QUASE 2 KG DE PASTA-BASE DE COCAÍNA. CONDENAÇÃO. PLEITO ABSOLUTÓRIO POR FALTA DE PROVAS. SÚMULA 7/STJ. TRÁFICO PRIVILEGIADO. PATAMAR DE REDUÇÃO. LIVRE CONVENCIMENTO MOTIVADO. QUANTIDADE E NOCIVIDADE DA DROGA APREENDIDA. CRITÉRIOS IDÔNEOS. PRECEDENTES.
+Agravo conhecido para conhecer, em parte, do recurso especial e, nessa extensão, negar-lhe provimento.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu o recurso especial interposto pela alínea a do permissivo constitucional dirigido contra o acórdão proferido pelo Tribunal de Justiça do Espírito Santo na Apelação Criminal n. 0048252-42.2014.8.08.0035 (035140401155).
+Consta dos autos que o acusado foi condenado pela prática dos delitos previstos nos arts. 33, caput, c/c o art. 40, VI, da Lei 11.343/06 (quase 2kg de pasta base de cocaína) e nos arts. 304, c/c o 297, do Código Penal, em concurso material, à pena total de 6 anos, 10 meses e 10 dias de reclusão, em regime semiaberto, além de 495 dias-multa (fls. 388/403 e fls. 408/411).
+A defesa apelou (fls. 428/435), tendo o Tribunal de origem, por unanimidade, negado provimento ao recurso (fls. 466/474).
+Contra referido acórdão foi manejado recurso especial (fls. 477/488), alegando-se ofensa ao disposto nos arts. 33, caput, e § 4º, da Lei 11.343/0644, 59 e 68 do Código Penal. Pleiteia a absolvição por falta de provas quanto ao tráfico. Alega que na atuação do recorrente não foi cometida nenhuma ação que levasse a caracterizar algum dos verbos do tipo penal de tráfico de drogas que de forma idônea pudesse ser imputada ao mesmo (fl. 483). Pleiteia, ainda, a redução pelo tráfico privilegiado em seu patamar máximo, ao argumento de que não podem ser utilizados como critérios para a maior ou menor redução da pena as circunstâncias judiciais do artigo 59 do Código Penal nem as do artigo 42 da Lei de Drogas (fl. 486).
+Apresentadas contrarrazões (fls. 495/499), o recurso especial foi inadmitido pela Corte de origem, por aplicação da Súmula 7/STJ (fls. 501/503). Contra tal decisão, foi manejado o agravo em análise (fls. 509/526), com contraminuta ofertada às fls. 530/532.
+O Ministério Público Federal opina pela manutenção da decisão impugnada (fls. 542/547).
+É o relatório.
+Sem razão o recorrente.
+O pleito de absolvição pelo crime de tráfico foi rechaçado pelo Tribunal a quo dada a divergência constata entre o depoimento do réu e de sua comparsa na esfera policial, bem como a partir da narrativa detalhada dos testemunhos policiais em juízo. Concluiu a Corte estadual, assim, ser inconteste que o apelante trazia consigo e vendia para terceiro certa quantidade de substância entorpecente (fl. 472).
+Logo, a pretensão defensiva traduz uma nítida tentativa de reverter a conclusão alcançada pelas instâncias ordinárias, a partir de nova apreciação dos fatos ocorridos no caso, o que é vedado em sede de recurso especial.
+Nesse sentido: AgRg no AREsp 1074107/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 30/05/2017 e HC 392.152/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 10/05/2017.
+Do mesmo modo, não merece amparo a pretensão de majorar em patamar máximo a diminuição prevista no art. 33, § 4º, da Lei 11.343/06, ao argumento de que não podem ser utilizados como critérios para a maior ou menor redução da pena as circunstâncias judiciais do artigo 59 do Código Penal nem as do artigo 42 da Lei de Drogas (fl. 486).
+É que, ao contrário do que entende a defesa, ainda que o recorrente preencha as circunstâncias legais do art. 33, § 4º da Lei n. 11.343/2006, não está o magistrado obrigado a aplicar a redução em seu patamar máximo, desde que o faça de forma devidamente fundamentada, como se constata no presente caso.
+Sobre o tema, ressalto que o julgador possui discricionariedade para reduzir a reprimenda no quantum que entender suficiente e necessário para a prevenção e a repressão do delito perpetrado. Isso porque o legislador não delimitou parâmetros para a redução da pena pela causa de diminuição prevista na Lei de Drogas, de forma que o quantum de diminuição fica adstrito ao prudente arbítrio do magistrado, que deve observar o princípio do livre convencimento motivado (AgRg no REsp n. 1.407.114/SP, Ministra Laurita Vaz, Quinta Turma, DJe 2/9/2014).
+Outrossim, esta Corte vem decidindo que a quantidade, a nocividade e a variedade dos entorpecentes apreendidos são fundamentos idôneos a ensejar a escolha da fração redutora, quando for o caso de aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006 (HC 368.418/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 01/02/2017).
+No mesmo sentido:
+ ..
+3. Na falta de indicação pelo legislador das balizas para o quantum da redução, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante quando evidenciarem a habitualidade do agente no comércio ilícito de entorpecentes. Precedentes.
+ ..
+(HC 354.058/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 25/11/2016 - grifo nosso)
+Ante o exposto, com base no art. 253, II, a e b, do RISTJ, conheço do agravo para conhecer, em parte, do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
