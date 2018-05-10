@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Casa & Vídeo Rio de Janeiro S.A. Aparelhado o recurso na afronta ao art. 170, III, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao apontado dispositivo da Constituição da República.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+     “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. EMPRESA EM RECUPERAÇÃO JUDICIAL. LEI 11.101/2005. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. VIOLAÇÃO AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. TEMA 660. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ALEGADA OFENSA AO ARTIGO 93, IX, DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. INCIDENTE PROCESSUAL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE 965870-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJE 15.9.16)
+    “DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONFLITO DE COMPETÊNCIA DECIDIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. JUÍZO DA EXECUÇÃO FISCAL E JUÍZO DA RECUPERAÇÃO JUDICIAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA AO ART. 97 DA CONSTITUIÇÃO. NÃO OCORRÊNCIA. 1. A solução da controvérsia demanda a análise da legislação infraconstitucional pertinente (Lei nº 11.101/2005), procedimento inviável em sede de recurso extraordinário. Precedente. 2. A jurisprudência desta Corte é firme no sentido de que não se aplica a restrição do art. 97 da Constituição Federal quando o acórdão recorrido apenas interpreta legislação infraconstitucional, sem declarar sua inconstitucionalidade. Precedente. 3. Agravo regimental a que se nega provimento.” (ARE 797.137-AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 21.5.2015)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de maio de 2018.
+Ministra Rosa Weber
+Relatora
