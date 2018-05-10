@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por ADELCIO GOMES PEREIRA contra decisão que não admitiu recurso especial ofertado de acórdão do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - DESCLASSIFICAÇÃO DA CONDUTA PARA POSSE PARA USO PRÓPRIO - IMPOSSIBILIDADE - AUTORIA, MATERIALIDADE E DESTINAÇÃO MERCANTIL DAS DROGAS COMPROVADAS - DEPOIMENTOS DE POLICIAIS PRESTADOS SOB O CRIVO DO CONTRADITÓRIO - VALOR PROBANTE - CONDENAÇÃO MANTIDA.
+- Havendo nos autos elementos suficientes para se imputar ao acusado a autoria do crime de tráfico de drogas e, restando cabalmente demonstrada a destinação mercantil dos entorpecentes apreendidos, a manutenção de sua condenação é medida que se impõe.
+- A palavra firme e coerente de policiais militares é reconhecidamente dotada de valor probante, prestando-se à comprovação dos fatos narrados na denúncia sempre que isenta de qualquer suspeita e em harmonia com o conjunto probatório apresentado. Precedentes do STJ.
+V.V.: - Inexistindo irresignação ministerial, sendo o recurso exclusivo de Defesa, a Instância Revisora deve restringir-se apenas fixação de medidas que possam beneficiar o réu e não ao reconhecimento de circunstâncias prejudiciais não sopesadas no julgamento primitivo.
+- Sendo estas reconhecida medidas benéficas aos apelantes, sua aplicação se faz mister." (e-STJ, fl. 321)
+Nas razões do recurso especial, alega a defesa que "o Tribunal de Justiça contrariou o disposto no artigo 617 do CPP e artigo 59 do CP, uma vez que, a despeito da reforma da sentença para valorar positivamente a culpabilidade, os motivos e as consequências do crime, a pena-base foi confirmada no mesmo patamar anteriormente fixado com fincas nos antecedentes criminais maculados e na reincidência que não foi reconhecida na primeira instância." (e-STJ, fl. 388)
+Sustenta que "para se evitar a reformatio in pejus, impõe-se a redução proporcional da pena-base, fixando-a em patamar próximo do mínimo legal, diante da reforma da sentença para considerar favoráveis a culpabilidade, os motivos e as consequências do delito." (e-STJ, fl. 390)
+Requer, assim, a redução da pena-base.
+Contrarrazões apresentadas às fls. 395-397.
+O recurso foi inadmitido (e-STJ, fls. 399-400).
+Contraminuta apresentada (e-STJ, fl. 415-419).
+O Ministério Público Federal manifestou-se pelo não provimento do agravo (e-STJ, fls. 430-431).
+É o relatório.
+Decido.
+Preenchidos os pressupostos de admissibilidade, conheço do agravo e passo ao exame do recurso especial.
+O acórdão recorrido encontra-se fundamentado nos seguintes termos:
+"Com a devida vênia do entendimento esposado pelo eminente Desembargador Sálvio Chaves -- Revisor na apelação e autor do voto minoritário que se busca resgatar -, entendo que a despeito da impropriedade das avaliações negativas contidas na sentença, acerca de algumas das circunstâncias judiciais do artigo 59 do Código Penal, a pena concretizada na decisão de primeiro grau deve ser preservada, tal como entenderam os votos majoritários.
+O voto do ínclito Relator da apelação, o eminente Desembargador Agostinho Gomes de Azevedo, acusou a inaptidão dos argumentos contidos na sentença para recrudescera culpabilidade do acusado e tisnar os motivos e consequências do delito. Não obstante, ponderou S. Exa. - a meu ver com acerto - que se trata de réu comprovadamente reincidente, condenado anteriormente, em mais de uma oportunidade, por tráfico de entorpecentes.
+A reincidência; conquanto apontada na sentença na análise dos antecedentes (f. 195), não foi considerada ali para agravar a pena na segunda fase da dosimetria, como seria devido.
+Neste cenário, não obstante o apontado equívoco na análise das aludidas circunstâncias judiciais, a vida pregressa maculada do acusado, portador de maus antecedentes, constitui, per se, motivo suficiente para o recrudescimento da pena-base, conforme fundamentação agregada no Acórdão, mostrando-se adequada, assim, a sanção de seis anos de reclusão e seiscentos dias-multa, concretizada na sentença.
+Atentando-se para o fato de se tratar de recurso exclusivo da defesa, vê-se que a situação do réu não foi agravada no Acórdão, que apenas adotou fundamentação própria para manter a decisão de primeiro grau." (e-STJ, fls. 373-374)
+Inicialmente, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Sob o aspecto da extensão e da profundidade do efeito devolutivo na apelação, o Superior Tribunal de Justiça já se manifestou que é permitido ao Tribunal de origem agregar novos fundamentos para manter a dosimetria fixada em primeiro grau, sem se falar em ofensa ao princípio da reformatio in pejus, desde que se valha de elementos contidos na sentença condenatória e não agrave a situação do réu (HC 374.006/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/11/2016, DJe 18/11/2016; HC 349015/SC, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, DJe 2/5/2016).
+Logo, o Tribunal estadual, ao exercer sua soberania para dizer o direito, pode, em recurso exclusivo da defesa, manter a pena aplicada ao réu com base em elementos diversos do que os valorados pelo juiz sentenciante, desde que seja respeitada a imputação deduzida pelo órgão de acusação.
+Inclusive em casos semelhantes, já se decidiu que não há impedimento que a Corte segunda instância, em recurso exclusivo da defesa, tendo afastado circunstâncias valoradas indevidamente, mantenha o apenamento inicialmente fixado, com fundamento nas circunstâncias desfavoráveis remanescentes.
+Nesse sentido, confiram-se, ainda, os seguintes precedentes:
+"REGIMENTAL. AGRAVO EM RECURSO ESPECIAL.TRÁFICO DE DROGAS. DOSIMETRIA. MANUTENÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. ALEGAÇÃO DE ALTERAÇÃO DE FUNDAMENTAÇÃO EM RECURSO EXCLUSIVO DA DEFESA. REFORMATIO IN PEJUS. INOCORRÊNCIA. SITUAÇÃO DO RECORRENTE INALTERADA.
+1. Sabe-se que, em razão do efeito amplamente devolutivo da apelação, pode o Tribunal, ao julgar recurso exclusivo da defesa, apresentar novas fundamentações, desde que não agrave a situação do recorrente.
+2. No presente caso, o Tribunal estadual, afastando algumas circunstâncias judiciais negativas, manteve o reconhecimento dos maus antecedentes e a quantidade e a natureza da droga apreendida, sem alterar a pena-base fixada pelo juiz sentenciante, inexistindo, portanto, o alegado reformatio in pejus.
+REGIME INICIAL FECHADO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REINCIDÊNCIA. POSSIBILIDADE. RECURSO IMPROVIDO.
+1. Na hipótese, a Corte de origem seguiu a jurisprudência reiterada deste Sodalício, ao confirmar a fixação da pena-base acima do mínimo legal, em razão da existência de circunstância judicial desfavorável, aliada à reincidência, justificando a imposição de regime prisional mais severo.
+2. Agravo regimental improvido.
+(AgRg no AREsp 904.283/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 27/09/2016, DJe 07/10/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INÉPCIA DA INICIAL. NÃO OCORRÊNCIA. INTERCEPTAÇÕES TELEFÔNICAS. AUTORIZAÇÃO. AUSÊNCIA DE FUNDAMENTAÇÃO. NULIDADE NÃO VERIFICADA. RECURSO INTERPOSTO COM FUNDAMENTO NO ART. 105, INCISO III, ALÍNEA C, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA.
+ ..
+IV - O efeito devolutivo da apelação autoriza a Corte estadual, quando instada a se manifestar acerca da dosimetria, regime inicial e demais questões relativas às peculiaridades do crime, a examinar as circunstâncias judiciais e rever a invidualização da pena, seja para manter ou reduzir a sanção final imposta ou para abrandar o regime inicial. Neste aspecto, é possível nova ponderação das circunstâncias que conduza à revaloração destas, mesmo se tratando de recurso exclusivo da defesa, sem que se incorra em reformatio in pejus, desde que a situação final do réu não seja agravada.
+Agravo regimental desprovido.
+(AgRg no AREsp 628.568/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/05/2016, DJe 11/05/2016).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b" do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
