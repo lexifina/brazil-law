@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98113, de 30 de abril de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 9401.40.10 Mercadoria: Sofá com encosto dobrável, sem braços, transformável em cama, constituído por estrutura de madeira, com espuma de poliuretano, revestido de “suede”, com dimensões de 880 (a) x 1.900 (l) x 1.200 mm (p), acompanhado de duas almofadas, próprio para utilização em sala de estar e quarto de dormir, denominado comercialmente de “sofá-cama”. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 94.01), RGI 6 (texto da subposição 9401.40) e RGC-1 c/c RGI 3 b) (texto do item 9401.40.10) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.113-2018 .pdf]
