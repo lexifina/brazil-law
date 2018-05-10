@@ -1,0 +1,20 @@
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/1973. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO EM OUTRA DEMANDA JUDICIAL. IMPOSSIBILIDADE. RESPEITO À COISA JULGADA. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 189):
+PREVIDENCIÁRIO. DECISÃO MONOCRÁTICA. AGRAVO LEGAL. ART. 577 DO CPC. MANUTENÇÃO DO JULGADO AGRAVADO. REVISÃO DO BENEFÍCIO PREVIDENCIÁRIO.
+1. Nos termos do artigo 577, "caput" e parágrafo 1º-A, do Código de Processo Civil, cabe ao relator o julgamento monocrático do recurso, negando-lhe seguimento quando se manifeste inadmissível, improcedente, prejudicado ou para lhe dar provimento se a decisão recorrida estiver em manifesto confronto com súmula ou jurisprudência do respectivo tribunal ou dos tribunais superiores.
+2. Inviabilidade do agravo legal quando constatada, de plano, a improcedência da pretensão recursal, mantidos os fundamentos de fato e de direito do julgamento monocrático, que bem aplicou o direito à espécie.
+3. Agravo legal desprovido.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega ofensa aos seguintes dispositivos: artigo 468 do CPC/73 porquanto, a discussão a respeito da DIB de benefício concedido em outra demanda judicial não implicaria em desrespeito à coisa julgada; artigo 103 da Lei n.º 8.213/1991, sob o argumento de que o termo inicial a ser considerado no cômputo da decadência é a data do requerimento administrativo.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontra presente o óbice apontado na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+No caso dos autos, não é possível conhecer do recurso especial que apresentou suposta violação do artigo 468 do CPC/73, pois o dispositivo indicado como malferido não contém comando normativo capaz de sustentar a tese desenvolvida no sentido de que rever a DIB do benefício concedido judicialmente não implica em desrespeito à coisa julgada, tampouco é capaz de infirmar os fundamentos do acórdão recorrido.
+Em relação à suposta ofensa do artigo 103 da Lei n.º 8.213/1991, vinculada à tese de que para verificação da decadência deve-se considerar a data do requerimento administrativo, evidencia-se que o citado artigo e sua argumentação não foram apreciados pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Por fim, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
