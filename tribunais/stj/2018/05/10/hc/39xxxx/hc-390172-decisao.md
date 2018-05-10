@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de RAMON DIEGO GOMES BRITO contra o v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Maranhão.
+Ressai do procedimento que o paciente foi condenado às penas de 08 (oito) anos, 11 (onze) meses e 10 (dez) dias de reclusão, em regime inicial fechado, e pagamento de 60 (sessenta) dias-multa, como incurso nas sanções do art. 157, parágrafo 2º, incisos I e II, do Código Penal.
+Irresignada, a defesa do paciente interpôs recurso de apelação perante o eg. Tribunal de origem, que negou provimento ao apelo, nos termos do v. acórdão juntado às fls. 61-66.
+No presente writ, o impetrante sustenta a ocorrência de flagrante ilegalidade na primeira fase da dosimetria da reprimenda, ao fundamento de que não houve fundamentação idônea a justificar a exasperação da pena-base, uma vez que o juízo utilizou o emprego de arma para valorar negativamente as circunstâncias do delito, e para majorar a pena na terceira fase da aplicação da pena, incorrendo em bis in idem.
+Requer, ao final, a concessão da ordem, para afastar a exasperação da pena-base das circunstâncias do crime, redimensionando a pena imposta (fls. 1-6).
+As informações foram prestadas às fls. 93-117.
+O Ministério Público Federal, às fls. 125-127, manifestou-se pela manutenção da decisão impugnada.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento do ato, salvos os casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Inicialmente, insta consignar que o Regimento Interno deste Superior Tribunal de Justiça, em seu artigo 34, inciso XX, dispõe que o Relator pode proferir decisão monocrática para:
+"decidir o habeas corpus quando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar;"
+No que se refere ao mérito do pedido, a defesa pretende, em síntese, o afastamento das circunstâncias do crimes, para reduzir a pena-base, ao fundamento de que o juízo utilizou o emprego de arma para valorar negativamente as circunstâncias do delito, e para majorar a pena na terceira fase da aplicação da pena, incorrendo em bis in idem.
+Nesse diapasão, cumpre registrar que a via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+Na hipótese, analisando o aumento da pena-base aplicado pelo Juízo e mantido pelo eg. Tribunal de origem, a r. sentença consignou as circunstâncias do crime desfavoráveis ao paciente, em razão de que o réu utilizou arma de fogo para consumar seu intento criminoso.
+Ainda, na terceira fase da dosimetria, ao contrário do que alega a defesa, o magistrado somente considerou a causa de aumento do concurso de pessoas, para majorar a pena em 1/3 (um terço), não incorrendo, portanto, em bis in idem.
+Conforme a jurisprudência desta Corte Superior, é possível, diante do reconhecimento de várias causas de aumento de pena previstas no mesmo tipo penal, deslocar a incidência de algumas delas para a primeira fase, para fins de majoração da pena-base, desde que a reprimenda não seja exasperada, pelo mesmo motivo, na terceira etapa da dosimetria da pena e que seja observado o percentual legal máximo previsto pela incidência das majorantes (AgRg no REsp 1551168/AL, Rel. Ministro Rogerio Schietti Cruz, DJe 02/03/2016).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO CIRCUNSTANCIADO. EMPREGO DE ARMA E CONCURSO DE PESSOAS. USO DE UMA MAJORANTE COMO FUNDAMENTO PARA EXASPERAR A PENA-BASE. POSSIBILIDADE. FUNDAMENTOS NOVOS UTILIZADOS PELO TRIBUNAL DE APELAÇÃO. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. De acordo com a jurisprudência desta Corte Superior, é plenamente possível, diante do reconhecimento de várias causas de aumento de pena previstas no mesmo tipo penal, deslocar a incidência de algumas delas para a primeira fase, para fins de majoração da pena-base, desde que a reprimenda não seja exasperada, pelo mesmo motivo, na terceira etapa da dosimetria da pena e que seja observado o percentual legal máximo previsto pela incidência das majorantes (AgRg no REsp 1551168/AL, Rel. Ministro Rogerio Schietti Cruz, DJe 02/03/2016). Precedentes.
+ ..
+4. Agravo Regimental não provido." (AgRg no AREsp n. 1.075.013/ES, Quinta Turma, Ministro Reynaldo Soares da Fonseca, DJe 21/6/2017).
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. CRIMES DE ROUBO CIRCUNSTANCIADO, RESISTÊNCIA E LESÃO CORPORAL. DOSIMETRIA DA PENA. CIRCUNSTÂNCIAS. VALORAÇÃO DESFAVORÁVEL. CONCURSO DE PESSOAS. [NOME]. UTILIZAÇÃO NA PRIMEIRA FASE COMO CIRCUNSTÂNCIA DO ART. 59, CP. POSSIBILIDADE. AMEAÇA CONTRA TRÊS VÍTIMAS. FUNDAMENTOS IDÔNEOS. HABEAS CORPUS NÃO CONHECIDO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Admite-se a utilização de majorantes sobejantes (in casu, o concurso de pessoas), que não foram utilizadas para aumentar a pena na terceira fase da dosimetria, como circunstância judicial do art. 59, do Código Penal. Precedentes da Sexta Turma.
+3. Não há se falar em bis in idem quando uma majorante (concurso de agentes) é utilizada na primeira fase e a outra (uso de arma) na terceira. Precedente.
+4. Mostra-se legítimo o aumento pela vetorial das circunstâncias, se o roubo foi cometido com grave ameaça contra três vítimas, elemento que desborda do normal do tipo penal.
+5. Habeas corpus não conhecido." (HC 321.630/RS, Sexta Turma, Rel. Ministro Nefi Cordeiro, DJe 16/09/2016).
+Ante o exposto, não conheço do writ.
+P. e I.
