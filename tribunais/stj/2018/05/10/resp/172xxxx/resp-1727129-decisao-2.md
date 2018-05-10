@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo ESTADO DO AMAZONAS com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas, assim ementado (fl. 639):
+TRÊS (03) APELAÇÕES CÍVEIS. APOSENTADORIA. POLICIAL MILITAR. SOLDO DA PATENTE IMEDIATAMENTE SUPERIOR ÀQUELA NA QUAL SE DEU A INATIVIDADE. PRIMEIRA APELAÇÃO CONHECIDA E DESPROVIDA. SEGUNDA APELAÇÃO CONHECIDA E PARCIALMENTE PROVIDA. TERCEIRA APELAÇÃO CONHECIDA E DESPROVIDA.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015.
+A parte recorrente aponta violação aos arts. 1.022 do CPC/2015, 2º, caput e §§ 1º e 3º do Decreto-Lei nº 4.657/42. Sustenta, em síntese, a negativa de prestação jurisdicional e a ausência de direito da parte recorrida, pois o art. 98, §§ 1º e 2º da Lei Estadual nº 1.154/75 não haveria sido recepcionado pela Constituição Estadual de 1989. Aduz que ao recorrente não seria possível garantir a aposentadoria na mesma patente, com proventos da patente superior, sem que isso implique em promoção.
+Ouvido o MPF, este opinou pelo desprovimento do recurso (fls. 1.190/1.194).
+É o relatório.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias e nos termos alegados pelo ora recorrente, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Ante o exposto, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
