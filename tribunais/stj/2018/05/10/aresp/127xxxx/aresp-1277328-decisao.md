@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 718):
+EMENTA: APELAÇÕES CÍVEIS. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. PRELIMINAR DE INTEMPESTIVIDADE DE UM DOS RECURSOS. REJEIÇÃO. PERSEGUIÇÃO POLÍTICA. SERVIDORES OPOSITORES POLÍTICOS. MANIPULAÇÃO DE RECURSOS PÚBLICOS. CONLUIO DOLOSO. CARACTERIZAÇÃO. SENTENÇA CONFIRMADA.
+- Tratando-se de demanda ajuizada em desfavor de mais de um réu, formando um litisconsórcio passivo, representados por advogados
+distintos, aplica-se a regra do artigo 191 do CPC/1973, vigente ao tempo da sentença e dos recursos, que prevê prazo processual em dobro.
+Preliminar rejeitada.
+- A manipulação de recursos públicos com finalidade de perseguir servidor opositor político constitui ato de improbidade atentatória aos princípios da Administração Pública.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 11 da Lei nº 8.429/1992. Sustenta, em síntese, que: (I) uma vez não comprovado que tenha determinado a exclusão de nomes de servidores que receberiam o benefício, não se pode falar em perseguição política, tampouco ofensa aos princípios da administração pública; (II) não há provas de que tenha determinado a exclusão do nome de quem quer que seja da lista de pagamento do PASEP, tampouco de que sabia que a lista assinada estavam ausentes alguns servidores; (III) para a condenação do agente nas imputações fundadas no art. 11 da Lei, é imprescindível a demonstração do dolo, circunstância não verificada na hipótese dos autos.
+O Ministério Público Federal, em parecer ofertado pela Subprocuradora-Geral da República [NOME], opina pelo não provimento do agravo (fls. 884/887).
+É o relatório. Passo a decidir.
+A irresignação não merece acolhida.
+Com efeito, na hipótese dos autos, o Tribunal de origem concluiu pela prática de ato de improbidade administrativa, nos seguintes termos (fls. 723/725):
+ ..
+Especificamente sobre o caso concreto, o Ministério Público do Estado de Minas Gerais ajuizou a presente ação civil pública alegando que, durante o ano eleitoral de 2008, a então prefeita e candidata à reeleição do Município de Ouro Verde de Minas, Livânia [NOME] [NOME], juntamente com [NOME] e [NOME], então tesoureiros daquela Prefeitura, após prévio e deliberado ajuste, praticaram atos de perseguição política contra servidores públicos, seus opositores políticos, deixando de efetuar o repasse do PASEP.
+Embora o recurso federal para pagamento tenha sido regularmente depositado no Banco do Brasil S/A, o segundo e terceiro requeridos elaboraram uma lista contendo os servidores para os quais seria creditado o beneficio perante o Banco Bradesco, excluindo os servidores que lhes faziam oposição política.
+Ciente de que os prejudicados procuraram o Ministério Público Eleitoral, e já antevendo uma investigação judicial para cassação de seu registro de candidatura, a primeira requerida determinou que os demais réus efetuassem imediatamente o pagamento do PASEP na conta individual de cada servidor omitido na mencionada listagem. Arrimado em tais fatos, pugnou o Parquet pela condenação dos requeridos em virtude da prática de ato de improbidade administrativa descrita no art. 11,I, da Lei 8.429/1992.
+No curso do Inquérito Civil apurou-se que a mencionada lista, embora tenha vindo por meio eletrônico do Banco do Brasil (f. 327), foi repassado ao Banco do Bradesco na forma impressa, conforme ordem de crédito assinada pelos dois primeiro requeridos (fls. 316, 322/324).
+Da colheita dos depoimentos pessoais, verifica-se que a lista impressa enviada ao Banco Bradesco foi confeccionada pelo terceiro requerido, ora primeiro apelante, que não apenas a reconheceu, como confirmou a existência de anotações feitas por ele de próprio punho, afastando, como frisado pelo Magistrado de Primeiro Grau, a possibilidade de adulteração do arquivo original do computador.
+Importa sublinhar que, embora o primeiro apelante também fosse tesoureiro, a lista foi assinada pela Prefeita e pelo outro tesoureiro, também réu e condenado nestes autos, mas que não interpôs recurso. Assim, ainda que não se possa afirmar que a supressão dos nomes dos servidores opositores partiu de ordem expressa da segunda apelante, fato é que ela era sabedora de seus nomes e assinou a lista da qual foram excluídos.
+A ausência exatamente dos nomes de seus opositores evidenciam a prática de perseguição política, a ser coibida no trato da coisa pública.
+Ademais, delineou-se o ato orquestrado pelos requeridos que, de forma conjunta, tomaram as"providências para alijar os servidores resistentes a então gestão municipal da ordem de pagamento.
+Na espécie, portanto, restou satisfatoriamente comprovado o conluio doloso que se formou entre os requeridos com o fito de perseguir os mencionados servidores, em franca violação aos princípios da Administração Pública, tais como impessoalidade, moralidade, legalidade, honestidade e lealdade, incorrendo na conduta prevista no art. 11; I e II, da Lei 8.429/1992, razão pela qual, merece confirmação a decisão combatida.
+ ..
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Na mesma linha de percepção:
+ADMINISTRATIVO. ATO DE IMPROBIDADE ADMINISTRATIVA. LICITAÇÃO FICTÍCIA. CARACTERIZAÇÃO DO ATO DE IMPROBIDADE. PREJUÍZO AO ERÁRIO.
+ENRIQUECIMENTO ILÍCITO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO.
+INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Sustenta-se, em síntese, que o Prefeito do Município de Londrina à época dos fatos, os seus Secretários de Gestão Pública e de Defesa Social, e outro servidor, promoveram a realização de procedimento licitatório fictício para a contração de empresa , com o suposto objetivo de treinamento à Guarda Municipal. Contudo, não houve a devida contraprestação, uma vez que o serviço contratado foi realizado pela Polícia Militar do Estado do Paraná. II - Aduziu-se, desse modo, ofensa aos princípios que regem a administração pública através da execução de atos manifestamente ímprobos, com consequentes danos materiais ao erário municipal.
+III - O Ministério Público Federal opinou pelo desprovimento dos recursos.
+IV - O enfrentamento das alegações atinentes à caracterização de ato de improbidade administrativa, sob as perspectivas objetiva - de existência ou não de prejuízo ao erário e de ocorrência ou não de enriquecimento ilícito - e subjetiva - consubstanciada pela existência ou não de elemento anímico - demanda inconteste revolvimento fático-probatório. V - Por consequência, o conhecimento das referidas argumentações resta obstaculizada diante do verbete sumular n. 7 do Superior Tribunal de Justiça.
+VI - O não conhecimento do recurso especial com fundamento no enunciado n. 7 da Súmula do STJ, impede a análise da divergência jurisprudencial.
+VII - Agravo interno improvido.
+(AgInt no AREsp 1036921/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/11/2017, DJe 10/11/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE.
+LEI N. 8.429/92. IMPROBIDADE ADMINISTRATIVA. AGENTES POLÍTICOS.
+APLICABILIDADE. INCIDÊNCIA DA SÚMULA N. 83/STJ. PREJUÍZO AO ERÁRIO.
+ENRIQUECIMENTO ILÍCITO. CONDUTA ÍMPROBA. REVISÃO. IMPOSSIBILIDADE.
+SÚMULA N. 7/STJ. INCIDÊNCIA. DOSIMETRIA DAS SANÇÕES.
+PROPORCIONALIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual é aplicável aos agentes políticos o regime da Lei n.
+8.429/92. III - Esta Corte firmou entendimento no sentido de que o conceito de agente público estabelecido no art. 2º da Lei n.
+8.429/92 abrange os agentes políticos, como prefeitos e vereadores, não havendo bis in idem nem incompatibilidade entre a responsabilização política e criminal estabelecida no Decreto-Lei n.
+201/67, com a responsabilização pela prática de ato de improbidade administrativa e respectivas sanções civis (art. 12, da LIA).
+IV - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.
+V - In casu, rever o entendimento do Tribunal de origem, que consignou restar comprovado o enriquecimento ilícito e prejuízo ao erário, caracterizando como ímprobas as condutas do ora Recorrido, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de Recurso Especial, à luz do óbice contido na Súmula n. 7/STJ.
+VI - Proporcionalidade das sanções aplicadas pelo Juízo de primeiro grau e mantidas pelo tribunal de origem.
+VII - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VIII - Agravo Interno improvido.
+(AgInt no AREsp 330.846/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 18/04/2017, DJe 27/04/2017)
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. ATO VIOLADOR DE PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA. MALVERSAÇÃO DE VERBAS PÚBLICAS POR PREFEITO. ATO DE IMPROBIDADE TIPIFICADO PELO ART. 11 DA LEI 8.429/1992. DOLO GENÉRICO RECONHECIDO PELO TRIBUNAL DE ORIGEM. REEXAME FÁTICO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O entendimento do STJ é de que, para que seja reconhecida a tipificação da conduta do réu como incurso nas previsões da Lei de Improbidade Administrativa, é necessária a demonstração do elemento subjetivo, consubstanciada pelo dolo para os tipos previstos nos artigos 9º e 11 e, ao menos, pela culpa, nas hipóteses do artigo 10.
+2. É pacífica a jurisprudência do STJ de que o ato de improbidade administrativa previsto no art. 11 da Lei 8.429/1992 exige a demonstração de dolo, o qual, contudo, não necessita ser específico, sendo suficiente o dolo genérico. Assim, para a correta fundamentação da condenação por improbidade administrativa, é imprescindível, além da subsunção do fato à norma, caracterizar a presença do elemento subjetivo. A razão para tanto é que a Lei de Improbidade Administrativa não visa punir o inábil, mas sim o desonesto, o corrupto, aquele desprovido de lealdade e boa-fé.
+3. O Tribunal de origem foi categórico ao destacar que o recorrente, no exercício do mandato de Prefeito Municipal, não obstante a não comprovação de dano ao erário ou de enriquecimento ilícito, praticou atos ilegais e contrários ao interesse público, caracterizada má-fé com flagrante violação aos princípios da Administração Pública, razão pela qual aplicou o art. 11 da Lei de Improbidade.
+4. Nesse contexto de limitação cognitiva, a alteração das conclusões firmadas pelas instâncias inferiores somente poderia ser alcançada com o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+5. No mais, cabe esclarecer, quanto ao artigo 11 da Lei 8.429/1992, que a jurisprudência do STJ, com relação ao resultado do ato, firmou-se no sentido de que se configura ato de improbidade a lesão a princípios administrativos, o que, em regra, independe da ocorrência de dano ou lesão ao Erário.
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1637840/MA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/12/2016, DJe 19/12/2016)
+Ademais, o dissídio jurisprudencial tampouco foi demonstrado na forma exigida pelos arts. 1.029, § 1º, do CPC/15 e 255, §§ 1º e 2º, do RISTJ, uma vez que a parte não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
