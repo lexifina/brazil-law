@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] em face de decisão que negou provimento ao agravo em do recurso especial, sob o fundamento de que incide a Súmula 7/STJ, tendo em vista que a verificação do preenchimento ou não dos requisitos de validade da multa demanda o reexame de matéria fático-probatória. Fixou-se, ainda, verba advocatícia em grau recursal, em 20% (vinte por cento) do valor já fixado a esse título no processo.
+A parte embargante, em suas razões, aponta omissão na decisão embargada, ao argumento de que o montante dos honorários recursais "é ínfimo, pois atingem meros R$ 160 (cento e sessenta reais), não remunerando com dignidade o profissional da advocacia e muito menos atendendo às alíneas do art. 85, § 2º, do Código de Processo Civil." (fl. 347).
+Pugna, pois, pelo acolhimento dos embargos de declaração, para, atribuindo-lhes efeitos infringentes, "majorar os honorários advocatícios para o valor desde já sugerido de R$ 3.000,00 (três mil reais) ou, então, em conformidade com o que entender o digno ministro, desde que superior aos R$ 160,00 (cento e sessenta reais) arbitrados." (fl. 348).
+A parte embargada não apresentou impugnou (fl. 355).
+É o relatório.
+Inicialmente, registre-se que deve ser desconsiderada a Petição Eletrônica n. 00391529/2017 (fls. 350/352), em que a mesma parte ora embargante veicula embargos de declaração, tendo em vista que é mera repetição da Petição Eletrônica n. 00391528 (fls. 347/349), ambas apresentadas na mesma data e hora, evidenciando equívoco no encaminhamento do segundo arrazoado.
+Passo, pois, à análise dos embargos de declaração veiculados por meio da Petição Eletrônica n. n. 00391528 (fls. 347/349).
+Não prospera a irresignação da parte embargante. De acordo com o estatuído no art. 1022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado e, ainda, para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou consignado na decisão embargada que a alteração das conclusões da Corte local acerca do preenchimento ou não do requisitos de validade da multa demanda o reexame de matéria fático-probatória, providência vedada em recurso especial, conforme a Súmula 7/STJ. Foram arbitrados honorários advocatícios em grau recursal, equivalentes a 20% (vinte por cento) do valor já fixado, a esse título, no processo.
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões do decisum embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 1022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1471797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 2/12/2014)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
