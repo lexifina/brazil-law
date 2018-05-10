@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por Comercial Transkaio Ltda contra acórdão da Terceira Turma deste Tribunal, assim ementado (e-STJ, fl. 961):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ATROPELAMENTO. COLISÃO ENTRE CAMINHÃO E MOTOCICLETA. RESPONSABILIDADE CIVIL DA SEGURADORA. ABRANGÊNCIA. DANOS MORAIS. CLÁUSULA DE EXCLUSÃO EXPRESSA. VALOR DA INDENIZAÇÃO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. O acolhimento da tese (a respeito da ausência de responsabilidade e inexistência de dano moral) exigiria rever as conclusões alcançadas pelo Tribunal de origem, o que é inviável em recurso especial, por implicar reexame das provas contidas nos autos e análise e interpretação de cláusulas contratuais. Incidência das Súmulas n. 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+O embargante afirma que o acórdão embargado diverge de julgado da Corte Especial. Sustenta a inexistência de sua responsabilidade civil por ato de seu preposto.
+Assim delimitada a questão, verifico que a divergência não está caracterizada.
+Com efeito, no caso concreto, a Terceira Turma constatou que o recurso especial não preenchia condições de admissibilidade, dada a incidência das Súmulas 5 e 7 desta Corte. Por isso negou provimento ao agravo, sem cogitar do mérito do recurso especial.
+É pacífica a jurisprudência deste Tribunal segundo a qual não cabem embargos de divergência em agravo quando não discutido o mérito do recurso especial. A título de exemplo, confira-se o seguinte julgado da Corte Especial:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. ACÓRDÃO EMBARGADO PROFERIDO EM SEDE DE AGRAVO EM RECURSO ESPECIAL. MÉRITO DO APELO NOBRE NÃO EXAMINADO. INCIDÊNCIA DA SÚMULA N. 315/STJ, POR ANALOGIA. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. AGRAVO IMPROVIDO.
+1. Os embargos de divergência têm por finalidade precípua dirimir dissídio existente entre julgados proferidos nesta Corte Superior, não servindo para revisar o acerto ou desacerto das técnicas utilizadas para o processamento do recurso especial, apresentando-se descabida, ainda, sua utilização para discussão acerca de regra técnica de conhecimento do apelo nobre. Precedentes.
+2. Segundo a pacífica jurisprudência desta Corte Superior, é inadmissível a interposição do recurso uniformizador contra acórdão proferido em agravo em recurso especial no qual não se examinou o mérito do apelo nobre por óbices de admissibilidade, por incidência analógica da Súmula n. 315/STJ, como na hipótese dos autos, onde foram aplicadas, em relação às teses defendidas pela então recorrente  especialmente quanto ao suposto cerceamento de defesa  , as Súmulas n. 5 e n. 7 deste Superior Tribunal de Justiça.
+3. Inaplicabilidade da multa do § 4º do artigo 1.021 do CPC/2015, porque, embora a ora agravante tenha interposto vários recursos neste feito, descabe a incidência automática do referido dispositivo legal quando exercitado o regular direito de recorrer.
+4. Agravo interno improvido.
+(AgInt nos EAREsp 473.252/SC, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 07/02/2018, DJe 20/02/2018)
+Ausente, pois, a dissonância de entendimentos entre julgados deste Tribunal em relação à questão de mérito, falta o pressuposto básico para o cabimento dos embargos de divergência (CPC/1973, art. 546, inc. I, reproduzido no CPC/2015, art. 1.043, I e Regimento Interno do Superior Tribunal de Justiça, art. 266, caput).
+Em face do exposto, indefiro liminarmente os embargos de divergência (RISTJ, art. 266, § 3º).
+Intimem-se.
