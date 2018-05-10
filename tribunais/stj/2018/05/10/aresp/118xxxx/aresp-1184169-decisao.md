@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo de TRANSPORTADORA J.D.F LTDA. - EPP contra decisão que inadmitiu recurso especial, fundamentado no art. 105, III, "a" e "c" , da Constituição Federal, impugnando acórdão assim ementado:
+AGRAVO REGIMENTAL NA APELAÇÃO CÍVEL. AUSÊNCIA DE RATIFICAÇÃO DO APELO. INTEMPESTIVIDADE. 1. Consoante orientação jurisprudencial do Superior Tribunal de Justiça é extemporâneo o recurso interposto antes da publicação da decisão dos embargos de declaração, sem que haja a devida ratificação das razões recursais no prazo legal. Isto porque, o prazo para a ratificação dos embargos de declaração começaria a fluir a partir da data da publicação da decisão que julgou os referidos embargos. Portanto, inviável o conhecimento da apelação em tela, em face da sua extemporaneidade. 2. Não apresentados argumentos novos que justifiquem a reconsideração pretendida, o desprovimento do agravo regimental é medida que se impõe.
+AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+Foram opostos embargos de declaração, e estes foram rejeitados.
+O agravante alega divergência jurisprudencial, bem como violação dos arts. 506, 508 e 514 do Código de Processo Civil de 1973. Sustenta que não é necessária a ratificação da apelação interposta antes do julgamento dos embargos declaratórios quando não houver alteração.
+Assim posta a questão, verifico que assiste razão ao agravante.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Com efeito, o acórdão recorrido diverge da orientação que se firmou na jurisprudência desta Corte, que considera desnecessária a ratificação de apelação após o julgamento de embargos de declaração que não trouxeram alteração do julgado. Confiram-se, a propósito do tema, os seguintes julgados:
+PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA. APELAÇÃO. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. SEM ALTERAÇÃO DO JULGAMENTO ANTERIOR. RATIFICAÇÃO. DESNECESSIDADE. SÚMULA 418/STJ. PRECEDENTES. RECURSO ESPECIAL PROVIDO E AGRAVO PREJUDICADO.
+(..)
+4. "O Superior Tribunal de Justiça possui entendimento no sentido de que é necessária a ratificação da apelação interposta na pendência dos embargos de declaração quando houver alteração na conclusão do julgamento anterior, sob pena de ser considerada extemporânea. Precedentes." (AgInt no REsp 1.599.329/GO, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 2/3/2017).
+5. O decisum nos Embargos de Declaração apenas corrigiu erro material, sendo desnecessária a ratificação da Apelação, pois não houve alteração do julgamento anterior. Nesse sentido, a Apelação é tempestiva. A propósito: AgInt no REsp 1.535.337/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 24/8/2016, e EAREsp 297.459/SP, Rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 14/12/2016.
+6. Assim, deve ser provido o Recurso Especial para que seja conhecida a Apelação do ora recorrente.
+(..)
+(REsp 1.555.729/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 6.4.2017, DJe 25.4.2017).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. APELAÇÃO. RATIFICAÇÃO. DESNECESSIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS. ACIDENTE DE TRÂNSITO. AUSÊNCIA DE CULPA. TESE REJEITADA NA ORIGEM. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DO ACERVO PROBATÓRIO. DANO MORAL E HONORÁRIOS DE SUCUMBÊNCIA. REDUÇÃO. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. A Corte Especial, ao interpretar o conteúdo da Súmula nº 418/STJ, firmou o entendimento de que a ratificação do recurso interposto na pendência de embargos de declaração é ônus aplicável exclusivamente a hipótese de alteração do julgado por força dos aclaratórios. Questão de Ordem no REsp nº 1.129.215/DF.
+2. É inviável o provimento do recurso especial para afastar a culpa do motorista da recorrente pelo acidente de trânsito, haja vista o óbice descrito na Súmula nº 7 do Superior Tribunal de Justiça.
+3. O valor de R$ 90.000,00 (noventa mil reais - R$ 30.000,00 para cada um dos autores) não se mostra abusivo para reparar 2 (dois) filhos e a mãe de pessoa falecida em acidente de trânsito.
+4. A fixação da verba honorária de sucumbência cabe às instâncias ordinárias, visto que resulta da apreciação equitativa e da avaliação subjetiva do julgador diante das elementares fáticas presentes nos autos, motivo pelo qual é insuscetível de revisão em recurso especial, a teor da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 983.458/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14.2.2017, DJe 21.2.2017).
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO DE APELAÇÃO INTERPOSTO ANTES DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. NÃO ALTERAÇÃO DA DECISÃO EMBARGADA NA PARTE RECORRIDA. DESNECESSIDADE DE RATIFICAÇÃO. SÚMULA 418/STJ. MUDANÇA NA JURISPRUDÊNCIA DESTA CORTE. ALEGADA OFENSA A SEGURANÇA JURÍDICA. NÃO OCORRÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.129.215/DF, em sessão realizada no dia 16/9/2015, conferiu nova interpretação à Súmula 418/STJ, no sentido de que somente haverá necessidade de ratificação do recurso interposto na pendência dos embargos de declaração quando houver alteração na conclusão do julgamento anterior.
+2. Na hipótese dos autos, a decisão proferida no julgamento dos embargos de declaração não modificou a sentença, sendo desnecessária, assim, a ratificação da apelação.
+3. Incabível a alegação de ofensa ao princípio da Segurança Jurídica e do tempus regit actum, pois não há que se confundir mudança na orientação jurisprudencial desta Corte com a mudança na própria lei.
+4. A modificação de entendimento jurisprudencial deve ser aplicada aos recursos pendentes de análise, ainda que interpostos antes do julgamento que modificou a jurisprudência.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.205.143/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17.11.2016, DJe 7.12.2016).
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE DE BEM IMÓVEL. INTEMPESTIVIDADE DA APELAÇÃO RECONHECIDA PELO TRIBUNAL LOCAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 418/STJ. NÃO RATIFICAÇÃO DA APELAÇÃO. EMBARGOS DECLARATÓRIOS QUE NÃO MODIFICARAM O CONTEÚDO DA SENTENÇA. REFORMA DO ACÓRDÃO RECORRIDO. APLICAÇÃO DO DIREITO À ESPÉCIE. ART. 257 DO RISTJ. POSSIBILIDADE. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Efetivamente, a jurisprudência hodierna desta Casa dispõe no sentido de que só se considera intempestiva a apelação interposta antes da publicação do acórdão dos embargos de declaração, aplicando-se, por analogia, a Súmula 418/STJ, se, da oposição dos aclaratórios, houver modificação no julgado embargado. Precedentes.
+No caso, era desnecessária a ratificação do apelo, uma vez que o acolhimento dos declaratórios não teve o condão de modificar o conteúdo da sentença que foi objeto de irresignação na apelação.
+2. A aplicação do direito à espécie (art. 257 do RISTJ) não demanda o reexame de fatos e provas, afastando a aplicabilidade da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AgInt no REsp 1.598.191/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10.11.2016, DJe 24.11.2016).
+Convém ressaltar que o enunciado 418 da Súmula deste Tribunal, que previa a necessidade de ratificação do recurso em caso de modificação do julgado em julgamento de embargos de declaração, foi cancelado na Sessão de 1º de julho de 2016 da Corte Especial.
+No caso, a decisão foi de rejeição dos embargos de declaração opostos contra a sentença, ou seja, não houve nenhuma alteração. A apelação, portanto, deveria ter sido conhecida, pois desnecessária a ratificação, nos termos da jurisprudência citada.
+Em face do exposto, conheço do agravo para dar provimento ao recurso especial, a fim de determinar que o Tribunal de origem prossiga no julgamento da apelação interposta pela parte ora agravante.
+Intimem-se.
