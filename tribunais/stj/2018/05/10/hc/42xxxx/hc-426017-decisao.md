@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, manuscrito de próprio punho por [NOME], contra o v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi absolvido da imputação da prática do delito previsto no art. 157, parágrafo 2º, incisos I, II e V, do Código Penal, nos termos do art. 386, III, do Código de Processo Penal, e condenado por infringência ao art. 158, parágrafos 1º e 3º, daquele estatuto, às reprimendas de 08 (oito) anos de reclusão, em regime fechado, e 18 (dezoito) dias-multa.
+Irresignados, a acusação e a defesa do paciente interpuseram recurso de apelação perante o eg. Tribunal de origem, que deu parcial provimento aos recursos para alterar as penas aplicadas ao crime tipificado no art. 158, parágrafos 1º e 3º, do Código Penal, para 09 (nove) anos de reclusão e 15 dias-multa e condenar o paciente como incurso no art. 157, parágrafo 2º, incisos I, II e V, do Estatuto Repressivo, nas sanções de 05 (cinco) anos e 08 (oito) meses de reclusão, em regime fechado, e 14 (quatorze) dias-multa.
+No presente writ, o impetrante sustenta, em síntese, flagrante ilegalidade na segunda fase da dosimetria da pena, uma vez que as instâncias ordinárias não consideraram a menoridade do paciente, para atenuar a reprimenda. Igualmente, alega que a fração aplicada na terceira fase da dosimetria da sanção, careceria de fundamentação concreta, tendo sido determinada apenas em razão da quantidade de majorantes, em desacordo com a Súmula 443/STJ.
+Requer, ao final, a concessão da ordem, para que seja reconhecida a atenuante da menoridade e o aumento abusivo da pena na terceira fase, determinando-se o redimensionamento, com aumento de na fração de 1/3 (um terço).
+As informações foram prestadas às fls. 61-133 e 134-206.
+O Ministério Público Federal, às fls. 54-57, manifestou-se pela denegação da ordem.
+É o relatório.
+Decido.
+APrimeira Turma do col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente (v.g.: HC 109.956/PR, Rel. Min. Marco Aurélio, DJe de 11/9/2012; RHC 121.399/SP, Rel. Min. Dias Toffoli, DJe de 1º/8/2014 e RHC 117.268/SP, Rel. Min. Rosa Weber, DJe de 13/5/2014).
+As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado (v.g.: HC 284.176/RJ, Quinta Turma, Rel. Min. Laurita Vaz, DJe de 2/9/2014; HC 297.931/MG, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 28/8/2014; HC 293.528/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 4/9/2014 e HC 253.802/MG, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 4/6/2014).
+Portanto, não se admite mais a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não conhecimento da impetração. Entretanto, no caso de flagrante ilegalidade apta a gerar constrangimento ilegal, a jurisprudência recomenda a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+In casu, denota-se que o presente writ se trata de reiteração de pedido com os mesmos fundamentos, já apreciado em sede de julgamento do habeas corpus n. 429.350/SP, oportunidade em que o habeas corpus não foi conhecido.
+Nesse diapasão, o art. 210 do RISTJ dispõe que: "Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente."
+Ante o exposto, não conheço do presente habeas corpus.
+P. e I.
