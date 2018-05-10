@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto com base na alínea "a" do inciso III do art. 105 da Constituição Federal, impugnando acórdão assim ementado:
+Indenização por danos materiais. Aquisição de imóvel em construção. Chaves entregues com demora significativa. Lucros cessantes arbitrados em 0,5% do valor do bem, por mês de atraso, mostram-se adequados. Equilíbrio na relação negociai observado. Desnecessidade de demonstração concreta do prejuízo, pois o simples óbice à ocupação do imóvel já enseja a ausência do lucro. Pretensão do autor envolvendo multa por dia de atraso não pode sobressair, porquanto tem caráter distinto da penalidade prevista no ajuste apenas para a hipótese de demora no pagamento. Pedido de aplicação do principio da isonomia não pode prevalecer, porquanto compreende tópicos diversos. Construtora deve assumir o risco da própria atividade, ante a notória relação de consumo. Apelos desprovidos.
+Nas razões de recurso especial, alegam as ora recorrentes, em suma, violação dos arts. 402 e 403 do Código Civil. Sustentam, em síntese, o não cabimento da indenização por danos materiais, pois "em momento algum o Recorrido comprova a existência de lucros cessantes, vez que em momento algum faz prova de que utilizaria o imóvel para fins de locação" (e-STJ, fl. 278), devendo ser afastada a condenação, inclusive pela inexistência de conduta ilícita ou culpa das recorrentes.
+Assim posta a questão, passo a decidir.
+Inicialmente, destaca-se que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Segundo consta dos autos, é incontroverso o atraso na entrega da obra, nos seguintes termos (e-STJ, fl. 205):
+As próprias rés reconheceram que entregaram o imóvel fora do prazo estipulado entre as partes, portanto, ocorrera o descumprimento do avençado pelo polo passivo no referido tópico.
+Desta forma, o autor deixou de ter a posse direta do bem por longo período, consequentemente, em não podendo dispor do imóvel, o polo ativo tivera os respectivos lucros cerceados, logo, a reparação correspondente deve sobressair.
+Com efeito, o pagamento do montante equivalente a 0,5%, por mês de atraso na entrega, tendo como base de cálculo o valor de mercado do bem, apresenta-se adequado, bem como leva em consideração as peculiaridades da relação negociai, ante as vicissitudes do imóvel em construção.
+Outrossim, não restou comprovada a ocorrência de caso fortuito ou força maior que justificassem a demora na outorga das chaves ao adquirente, salientando que a assunção da obrigação de concluir o empreendimento imobiliário deve ser precedida do regular planejamento das obras, não podendo o polo ativo ficar à mercê da vontade unilateral das construtoras em observarem o prazo acordado.
+No que diz respeito aos lucros cessantes, a jurisprudência mais recente desta Corte entende que os prejuízos do atraso na entrega do imóvel são presumidos, de modo que dispensam comprovação. Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. IMÓVEL. ENTREGA. ATRASO. CASO FORTUITO. CIRCUNSTÂNCIA NÃO RECONHECIDA NA ORIGEM. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. VEDAÇÃO. LUCROS CESSANTES. PROMITENTE COMPRADOR. PRESUNÇÃO DE PREJUÍZO. ADMISSIBILIDADE. DANO MORAL. AFASTAMENTO OU REDUÇÃO. SÚMULA Nº 7/STJ.
+1. O provimento do especial, para reconhecer a ocorrência de caso fortuito, requer nova incursão fático-probatória, procedimento inviável em recurso especial por força da Súmula nº 7 do Superior Tribunal de Justiça.
+2. O descumprimento do prazo para entrega do imóvel objeto de compromisso de compra e venda viabiliza a condenação por lucros cessantes, havendo presunção de prejuízo do promitente comprador.
+3. O tribunal de origem, ao consignar a existência de dano moral e fixar o seu valor, incursionou detalhadamente na apreciação do conjunto fático-probatório, estando obstada a inversão do julgado pela Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt. no AREsp. 887.148/SP, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 16.8.2016).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. NÃO PROVIMENTO.
+1. Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+2. Agravo interno a que se nega provimento.
+(AgInt. no AREsp. 301.607/RJ, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 15.9.2016).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - ATRASO NA ENTREGA DE IMÓVEL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. A jurisprudência desta Corte Superior já consolidou entendimento que os lucros cessantes são presumíveis na hipótese de descumprimento contratual derivado de atraso de entrega do imóvel. Somente haverá isenção da obrigação de indenizar do promitente vendedor caso configure uma das hipóteses de excludente de responsabilidade, o que não ocorreu na espécie.
+2. No tocante à multa estipulada em sentença, constata-se carência de interesse recursal a parte ora recorrente, porquanto este pleito não foi sequer apreciado no recurso especial, em virtude da incidência da Súmula 284 do STF.
+3. Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal. Aplicação da Súmula n. 282 do STF.
+4. Agravo regimental desprovido.
+(AgRg. no REsp. 1.523.955/SP, Relator Ministro Marco Buzzi, Quarta Turma, DJe de 11.12.2015).
+Incide, portanto, o óbice da Súmula 83 do STJ, aplicável aos recursos interpostos por ambas as alíneas (art. 105, III, "a" e "c", da Constituição Federal).
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
