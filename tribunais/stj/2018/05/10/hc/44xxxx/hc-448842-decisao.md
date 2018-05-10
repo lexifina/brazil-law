@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de ELBER BARRA CORDEIRO, em que se aponta como autoridade coatora o Desembargador Relator que indeferiu o pedido liminar formulado no HC n.º 1.0000.18.045552-9/000, em curso no Tribunal de Justiça do Estado de Minas Gerais.
+Consta nos autos que o paciente foi preso preventivamente em 19/12/2017 pela suposta prática dos delitos tipificados nos arts. 2º, §§1º, 2º e 4º, II, da Lei n.º 12.850/13.
+Irresignada, a defesa impetrou habeas corpus perante o TJMG, tendo sido indeferido o pedido liminar (e-STJ, fls. 31/32).
+Neste writ, o impetrante sustenta inidoneidade da fundamentação do decreto preventivo e constrangimento ilegal decorrente do excesso de prazo para o início da instrução criminal, porquanto o paciente encontra-se preso desde 19/12/2017, sem que tenha havido a sua notificação para apresentar a resposta preliminar determinada no art. 514, parágrafo único, do Código de Processo Penal. Aduz que a demora decorreu de um equívoco cartorário corrigido, apenas, em 26/04/2018, com a expedição de carta precatória para efetivar a notificação do paciente.
+Assevera, ainda, que, diante da flagrante ilegalidade, dever ser superado o óbice da Súmula 691 do STF.
+Alega que o paciente é primário, possui bons antecedentes, domicílio certo, encontrando-se aposentado do cargo de Delegado de Polícia Civil desde 03/01/2018, com vida pregressa exemplar.
+Requer a expedição de alvará de soltura em favor do paciente ou a imposição de medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF) (AgRg no HC 285.647/CE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/08/2014, DJe 25/08/2014).
+Na espécie, segundo se infere dos documentos colacionados ao feito, trata-se de feito complexo com 9 denunciados, aos quais foram atribuídos vários delitos. Consta, ainda, que alguns deles residem e cumprem prisão cautelar em Comarca diversa do local em que corre a ação penal, sendo necessária a expedição de cartas precatórias para a cientificação dos acusados dos atos processuais. Logo, não se vislumbra, por ora, a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem.
+Vale anotar que, conforme orientação pacificada nos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz do princípio da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação da parte e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intime-se.
