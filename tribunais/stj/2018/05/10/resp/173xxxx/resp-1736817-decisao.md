@@ -1,0 +1,84 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO NCPC. AÇÃO DE DESPEJO E RECONVENÇÃO. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC QUE NÃO SE VERIFICA. TRANSAÇÃO EXTRAJUDICIAL FIRMADA ENTRE AS PARTES APÓS O TRÂNSITO DA SENTENÇA. HONORÁRIOS SUCUMBENCIAIS DEVIDOS. LEGITIMIDADE ATIVA. VERBA SUCUMBENCIAL PERTENCENTE AO ADVOGADO QUE ATUOU NA FASE DE CONHECIMENTO. RECURSO NÃO PROVIDO.
+DECISÃO
+Da leitura da petição de agravo de instrumento, pode-se aferir que o Instituto Bom Pastor, sob o patrocínio do advogado, Dr. VLADSON BECHARA DE MIRANDA (VLADSON), ajuizou ação de despejo contra VIDROVALE LTDA. (VIDROVALE), em razão da não desocupação do imóvel locado após notificação.
+O Juízo de piso julgou procedente o pedido de despejo e improcedente a indenização pelas benfeitorias realizadas no imóvel, requerida pela VIDROVALE em reconvenção, condenado esta ao pagamento de honorários advocatícios fixados em 10% sobre o valor da causa, em ambas as ações.
+Transitada em julgado a sentença, o Instituto Bom Pastor requereu o seu cumprimento e a expedição da ordem de despejo compulsório em face da VIDROVALE.
+Ocorre que, aos 30/1/2012, o Instituto Bom Pastor e a VIDROVALE requereram a suspensão do despeso compulsório tendo em vista a iminência da venda do imóvel, objeto da locação, o que foi concretizado aos 26/3/2012, culminando com a perda de objeto da ação de despejo.
+Após a transação extrajudicial firmada pelas partes, VLADSON comunicou a renúncia ao mandato outorgado pelo Instituto Bom Pastor, sem qualquer ressalva, sendo constituídos novos procuradores nos autos.
+No entanto, VLADSON requereu o cumprimento de sentença em relação aos honorários arbitrados na sentença transitada em julgado, que foi devidamente impugnado pela VIDROVALE.
+O Juízo de piso rejeitou a impugnação, sob o fundamento de que a perda do objeto da ação principal após a sentença transitada em julgado em nada altera o direito do advogado de receber seus honorários sucumbenciais, já que atuou no processo principal.
+Contra referida decisão, VIDROVALE interpôs agravo de instrumento, que não foi provido pelo Tribunal de origem nos termos da ementa a seguir transcrita:
+CUMPRIMENTO DE SENTENÇA. PRELIMINAR DE DESCUMPRIMENTO DO ARTIGO 1.018, CPC - REJEIÇÃO. MÉRITO - HONORÁRIOS SUCUMBENCIAIS. Não há que se falar em não conhecimento do recurso, por descumprimento do artigo 1.018 do Código de Processo Civil, quando, das informações prestada pelo juízo primevo, constar que o artigo em comento restou cumprido. Os honorários incluídos na condenação, por arbitramento ou sucumbência, pertencem ao advogado, tendo este direito autônomo para executar a sentença nesta parte. A prestação de serviço profissional assegura aos inscritos na OAB o direito aos honorários convencionados, aos fixados por arbitramento judicial e à verba honorária de sucumbência (e-STJ, fl. 315).
+Os embargos de declaração opostos pela VIDROVALE foram rejeitados (e-STJ, fls. 340/344).
+Irresignada, VIDROVALE interpôs recurso especial, fundamentado no art. 105, III, alíneas a e c, da CF/88, apontando, além de divergência jurisprudencial, violação dos arts. 17, 485, VI, 924, III e IV, 1.022, todos do NCPC, e 26 do Estatuto da OAB, sob o argumento de que (1) o Tribunal de origem foi omisso ao não apreciar sobre a renúncia manifestada por VLADSON e sobre a necessária divisão dos honorários sucumbenciais perseguidos por ele com o novo patrono constituído pelo Instituto Bom Pastor; (2) falta de interesse de agir pela perda da eficácia da sentença em face do acordo entabulado entre as partes. Asseverou, ainda, que VLADSON anuiu com a suspensão do feito até ulterior conclusão da compra venda, que culminou com a perda de interesse processual superveniente à sentença, tornando-a ineficaz. Assim, inexiste qualquer valor devido a título de honorários sucumbenciais; e, (3) ilegitimidade do advogado renunciante para executar honorários sucumbenciais fixados nos autos em que constituídos novos procuradores.
+Sem contrarrazões (e-STJ, fls. 387/388), o recurso foi admitido na origem (e-STJ, fls. 389/390).
+É relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada violação do art. 1.022 do NCPC
+VIDROVALE alegou que o Tribunal de origem foi omisso ao não apreciar sobre a renúncia manifestada por VLADSON e sobre a necessária divisão dos honorários sucumbenciais perseguidos por ele com o novo patrono constituído pelo Instituto Bom Pastor.
+O Tribunal de origem, ao julgar os embargos de declaração, consignou:
+Dessa forma, a sucumbência pertence ao causídico que atuou na demanda, que possui o direito de cobrar e executar tal verba, em caso de não pagamento do valor determinado na sentença.
+Nesse aspecto a decisão não merece reparo, eis que considerou a questão relativa à autuação do causídico no processo disciplinada pelo artigo 23, da Lei 8.906/1994 (e-STJ, fl. 342).
+Desse modo, verifica-se que a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, no sentido de que a verba sucumbencial pertence ao advogado que atuou no feito.
+Assim, não há falar em omissão no julgado.
+(2) Da ausência de interesse de agir
+VIDROVALE sustentou a falta de interesse de agir pela perda da eficácia da sentença em face do acordo entabulado entre as partes. Asseverou, ainda, que VLADSON anuiu com a suspensão do feito até ulterior conclusão da compra venda, que culminou com a perda de interesse processual superveniente à sentença, tornando-a ineficaz. Assim, inexiste qualquer valor devido a título de honorários sucumbenciais.
+Quanto ao ponto, o Tribunal de origem entendeu que:
+De certo que a estipulação de honorários advocatícios contratuais é devida, nos termos dos art. 22 e 23, caput, da Lei nº 8.906/94 (Estatuto da Advocacia e da Ordem dos Advogados do Brasil), donde deflui que, verbis:
+"Art. 22. A prestação de serviço profissional assegura aos inscritos na OAB o direito aos honorários convencionados, aos fixados por arbitramento judicial e aos de sucumbência."
+"Art. 23. Os honorários incluídos na condenação, por arbitramento ou sucumbência, pertencem ao advogado, tendo este direito autônomo para executar a sentença nesta parte, podendo requerer que o precatório, quando necessário, seja expedido em seu favor."
+Como se vê a sucumbência pertence ao advogado que atuou no processo, nos termos do artigo 23, da Lei 8.906/1994, que tem o direito autônomo para executar a sentença.
+Ademais, o fato de as partes terem realizado acordo para suspensão da execução da ordem de despejo não elide o direito ao recebimento à sucumbência determinada na sentença transitada em julgado, lançada no processo de conhecimento.
+Dessa forma, a sucumbência pertence ao causídico que atuou na demanda, que possui o direito de cobrar e executar tal verba, em caso de não pagamento do valor determinado na sentença (e-STJ, fls. 317/318).
+Tal entendimento está em conformidade com a jurisprudência desta Corte que é firme no sentido de que o acordo firmado entre as partes não presume a extinção do direito dos advogados à percepção dos honorários advocatícios decorrentes de sentença judicial transitada em julgado.
+A propósito, vejam-se os seguintes julgados:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. HONORÁRIOS PARA PRONTO PAGAMENTO FIXADOS EM 10% DO VALOR DA EXECUÇÃO. ADIMPLEMENTO POSTERIOR MEDIANTE TRANSAÇÃO. RECONHECIMENTO DO PEDIDO. HONORÁRIOS SUCUMBENCIAIS DEVIDOS. RECURSO PARCIALMENTE PROVIDO.
+1. De acordo com a iterativa jurisprudência desta Corte, o acordo firmado entre as partes, sem a concordância do advogado, não afasta seu direito ao recebimento dos honorários advocatícios convencionais e dos advindos de sentença judicial (Lei 8.906/94, art. 24, § 4º).
+2. Realizada a transação entre as partes antes de haver pronunciamento judicial fixando honorários, entende-se não haver prejuízo ao causídico constituído, que tinha mera expectativa de direito em relação aos honorários sucumbenciais. Precedente.
+3. Na espécie, não houve sentença judicial fixando honorários advocatícios, mas tem-se fixação inicial provisória de honorários na execução. Não foram opostos embargos à execução, nem houve pronto pagamento propriamente, mas transação entre as partes pondo fim à execução de título extrajudicial, com fundamento no art. 794, II, do Código de Processo Civil.
+4. O reconhecimento pelo executado de que a transação importou o pagamento do montante total do débito executado, com todos os acréscimos legais decorrentes, equivale ao reconhecimento do pedido (CPC, art. 26) e, na execução, a pronto pagamento, autorizando a execução dos honorários sucumbenciais fixados para tal hipótese.
+5. Recurso especial parcialmente provido.
+(REsp 729.021/RS, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 3/2/2015, DJe 6/2/2015)
+AGRAVO REGIMENTAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. TRANSAÇÃO FIRMADA ANTES DA EDIÇÃO DA MP 2.226/2001. INAPLICABILIDADE.
+1. O STJ firmou o entendimento segundo o qual, consoante preconizado nos arts. 23 e 24, § 4º, da Lei n. 8.906/1994, o advogado tem direito autônomo de executar a sentença quanto aos honorários de sucumbência. A transação firmada pelas partes, sem aquiescência do advogado, não prejudica os honorários, tanto os convencionados quanto os de sucumbência.
+2. A regra inserta no art. 3.º da Medida Provisória n.º 2.226, de 04/09/2001, por implicar reflexo na esfera jurídico-material das partes, somente tem incidência sobre os acordos ou transações celebrados a partir de sua edição.
+Agravo regimental improvido."
+(AgRg no REsp n. 1.440.251/CE, Relator Ministro HUMBERTO MARTINS, Segunda Turma, julgado em 6/5/2014, DJe 13/5/2014.)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. TRANSAÇÃO ENTRE AS PARTES. DIREITO AUTÔNOMO DO ADVOGADO. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL.
+I - Nos termos do artigo 24, § 4º, do EOAB, "o acordo feito pelo cliente do advogado e a parte contrária, salvo aquiescência do profissional, não lhe prejudica os honorários, quer os convencionados, quer os concedidos por sentença".
+II - A "aquiescência do profissional" a que faz referência o texto legal não se configura com a mera participação do advogado no acordo celebrado entre as partes do processo, sendo necessário investigar, em cada caso, o sentido e o alcance da cláusula avençada.
+III - Na hipótese concreta, o Tribunal de origem afirmou que o advogado não consentiu em abdicar dos honorários sucumbenciais, pois a cláusula "cada um suportará os honorários advocatícios de seus respectivos advogados" inserida no termo de acordo e a qual aderiram os advogados que também o subscreveram, deve ser interpretada restritivamente de modo a não alcançar os honorários devidos em razão da sucumbência.
+IV - O exame da pretensão recursal demanda, portanto, interpretação da referida cláusula contratual, merecendo aplicação a Súmula 5 desta Corte Superior.
+Agravo Regimental improvido."
+(AgRg no REsp n. 1.008.025/AL, Relator Ministro SIDNEI BENETI, Terceira Turma, julgado em 17/2/2009, DJe 9/3/2009)
+Na espécie, o acordo entabulado entre a VIDROVALE e o Instituto Bom Pastor para a suspensão da execução da ordem de despejo foi firmado após o trânsito em julgado da sentença, conforme reconhece a própria recorrente nas razões recursais.
+Além disso, o fato de VLADSON ter anuído com a suspensão do feito até ulterior conclusão da compra venda, não quer dizer que ele abriu mão de seu direito à percepção dos honorários sucumbenciais, que, de acordo com o art. 24, § 4º, da Lei 8.906/94, exige aquiescência do profissional nesse sentido.
+(3) Da ilegitimidade de parte
+VIDROVALE sustentou, também, ser VLADSON parte ilegítima para figurar no polo ativo da demanda, pois ele renunciou ao mandato outorgado pelo Instituto Bom Pastor, sem qualquer ressalva, sendo constituídos novos procuradores nos autos.
+A jurisprudência desta Corte é firme no sentido de que, havendo substituição de advogados no curso da lide, cabe ao último advogado constituído negociar os honorários sucumbenciais, facultando-se ao causídico que se sentir prejudicado demandar, em ação autônoma, o que entender pertinente.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. CLÁUSULA DE ÊXITO. CONDIÇÃO SUSPENSIVA. REVOGAÇÃO DO MANDATO. TERMO INICIAL DA PRESCRIÇÃO. PRINCÍPIO DA ACTIO NATA. NÃO CUMPRIMENTO INTEGRAL DO CONTRATO. REVOGAÇÃO IMOTIVADA DO MANDATO. NECESSIDADE DE ADEQUAÇÃO AO SERVIÇO EFETIVAMENTE PRESTADO. ARBITRAMENTO DOS HONORÁRIOS ADVOCATÍCIOS.
+1. Ação ajuizada em 15/12/2008. Recurso especial interposto em 15/08/2012 e atribuído a este gabinete em 25/08/2016.
+2. Na hipótese dos autos, discute-se a validade de cláusula em aditamento contratual que previa o pagamento integral dos honorários advocatícios inicialmente contratados, mesmo se os serviços não fossem integralmente prestados ao cliente.
+3. Ausentes os vícios do art. 535 do CPC/73, rejeita-se a existência de negativa de prestação jurisdicional.
+4. Prescrição: utilização do princípio da actio nata, segundo o qual passa a fluir o prazo prescricional apenas a partir do momento em que existir uma pretensão exercitável por parte daquele que suportará os efeitos do fenômeno extintivo.
+5. Cláusula de êxito como condição suspensiva de exigibilidade que faz postergar no tempo o início da contagem prescricional.
+6. Não se aplica o art. 22, § 4º, da Lei n. 8.906/1994 quando o advogado não mais representa a parte, devendo para tal fim ajuizar ação autônoma para cobrança dos valores.
+7. Os advogados têm direito ao arbitramento judicial de honorários na hipótese de resilição unilateral do contrato por parte do cliente. Precedentes. 8. Possibilidade de arbitramento judicial em ação de conhecimento que versa sobre o próprio contrato de prestação de serviços advocatícios.
+9. Recurso especial parcialmente conhecido e, nesta parte, parcialmente provido.
+(REsp 1.632.766/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 6/6/2017, DJe 12/6/2017)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO. IMPUGNAÇÃO. ARTIGO 1021, § 1º DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. HONORÁRIOS DE ADVOGADO. MANDATO REVOGADO. AÇÃO AUTÔNOMA.
+1. Não se conhece de agravo interno que não impugna especificamente os fundamentos da decisão agravada, nos termos do art. 1021, § 1º, do CPC/2015). Aplicação da Súmula 182/STJ. 2. "Nos casos em que houve a revogação, pelo cliente, do mandato outorgado ao advogado, este não está autorizado a demandar honorários de sucumbência da parte adversa nos próprios autos da execução relativa ao objeto principal do processo. Nessas hipóteses, o antigo patrono deve pleitear seus direitos (por exemplo, honorários contratuais e indenização pelos honorários sucumbenciais de que foi privado) em ação autônoma proposta contra o ex-cliente" (AgRg no AREsp 757.537/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 16/11/2015).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 143.681/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 2/5/2017, DJe 9/5/2017)
+No caso dos autos, contudo, a renúncia ao mandato se deu após a transação extrajudicial firmada pelo Instituto Bom Pastor e a VIDROVALE, quando em curso o cumprimento definitivo da sentença proferida na ação de despejo e na reconvenção.
+Nos termos dos arts. 23 e 24, § 1º, da Lei nº 8.906/94, os honorários, sejam eles contratuais ou sucumbenciais, pertencem ao advogado, constituindo títulos executivos o contrato, a decisão e a sentença que os estabelecem.
+Desta forma, os honorários advocatícios podem ser executados autonomamente.
+Assim, embora constituídos novos patronos na fase de cumprimento de sentença, os honorários sucumbenciais fixados no título judicial transitado em julgado, pertencem ao advogado que autuou, até então, na demanda.
+Assim, não há falar em ilegitimidade ativa de VLADSON para requerer os honorários sucumbenciais fixados na fase de conhecimento.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
