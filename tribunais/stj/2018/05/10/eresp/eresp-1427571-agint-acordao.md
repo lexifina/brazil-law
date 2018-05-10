@@ -1,0 +1,20 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. INÉPCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA.
+1. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+2. Agravo interno não conhecido, com imposição de multa.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, não conhecer do agravo, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Felix Fischer votaram com a Sra. Ministra Relatora. Ausentes, justificadamente, os Srs. Ministros Francisco Falcão e Napoleão Nunes Maia Filho.
+RELATORA: MINISTRA NANCY ANDRIGHI
+RELATÓRIO
+Cuida-se de agravo interposto por [NOME] contra decisão unipessoal que indeferiu liminarmente os embargos de divergência que interpusera em face de acórdão da 2ª Turma do STJ que, em sede de ação civil pública por ato de improbidade administrativa, manteve decisão unipessoal que conheceu do agravo interposto pelo agravante, mas negou seguimento ao seu recurso especial, sob os fundamentos de inexistência de ofensa ao art. 535 do CPC/73, e incidência da Súmula 7/STJ.
+Nas razões do recurso, o agravante sustenta que, quando a tese jurídica é muito explícita, não há a necessidade de juntar o inteiro teor do acórdão paradigma, pois a discrepância entre os entendimentos é notória, sendo suficiente a simples transcrição dos trechos onde ela manifesta referência segura aos acórdãos divergentes. Defende a existência de divergência entre o acórdão embargado, que entendeu que o juiz não está obrigado a manifestar-se sobre todos os argumentos suscitados pela parte, e os acórdãos paradigmas, que exigem que a decisão judicial aprecia e decida as alegações dos litigantes, enfrentando-as de modo direto.
+É o relatório.
+RELATORA: MINISTRA NANCY ANDRIGHI
+VOTO
+Julgamento: CPC/2015
+A decisão agravada indeferiu liminarmente os embargos de divergência opostos pelo agravante sob os seguintes fundamentos: i) não cabimento de embargos de divergência quando a suposta divergência refere-se a entendimento firmado em acórdão proferido pelo mesmo órgão prolator do acórdão embargado; ii) descumprimento das regras contidas nos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, uma vez que o recurso não foi instruído com cópia dos acórdãos relacionados como paradigmas, além de não ter havido menção ao repositório oficial no qual teriam sido publicados; e iii) ausência de cotejo analítico, hábil a comprovar a divergência apontada.
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Isso porque não impugna, especificamente, os seguintes fundamentos da decisão agravada: não cabimento de embargos de divergência quando a suposta divergência refere-se a entendimento firmado em acórdão proferido pelo mesmo órgão prolator do acórdão embargado; ausência de menção ao repositório oficial no qual teriam sido publicados os acórdãos paradigmas; e ausência de cotejo analítico, hábil a comprovar a divergência apontada.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, a teor do disposto na Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser desprovido este recurso, à unanimidade, fixo multa de 3% (três por cento) sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
