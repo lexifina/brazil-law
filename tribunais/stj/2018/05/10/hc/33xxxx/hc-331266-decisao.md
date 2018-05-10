@@ -1,0 +1,19 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. PRETENSÃO DE EXTENSÃO DE EFEITOS AO PACIENTE DE DECISÃO PROFERIDA EM AGRAVO EM RECURSO ESPECIAL. PROCESSO NÃO MAIS VINCULADO A ESTA CORTE SUPERIOR, POIS BAIXADO À ORIGEM. AUSÊNCIA DE JUNTADA NESTES AUTOS DAQUELE ACÓRDÃO ESTADUAL. NÃO OCORRÊNCIA DE PRESCRIÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de [NOME], em que se aponta como autoridade coatora a Câmara Criminal do Tribunal de Justiça da Paraíba (HC n. 2001089-79.2013.815.0000).
+Narram os autos que o paciente foi condenado, nos autos da Ação Penal n. 031.1997.000033-2, como incurso nos arts. 171, caput, c/c o 29, ambos do Código Penal, à pena de 5 anos de reclusão, em regime inicial semiaberto. Posteriormente, em sede de revisão criminal, ele obteve a redução da pena a 4 anos e 6 meses de reclusão (fls. 15/26).
+Em sede de habeas corpus, a defesa requereu a extinção da punibilidade do paciente. Para tanto, apontou que a pena aplicada na sentença foi reduzida de 5 anos a 4 anos e 6 meses de reclusão, devido ao reconhecimento da prescrição retroativa em favor do paciente a partir da data do recebimento da denúncia, razão pela qual já teriam se passado 13 anos, prazo superior ao previsto no art. 109, III, do Código Penal. A Câmara Criminal do Tribunal de Justiça da Paraíba denegou a ordem (HC n. 2001089-79.2013.815.0000).
+No presente writ, a defesa aponta a extinção da punibilidade do paciente pelo reconhecimento da prescrição retroativa em seu favor, quando aplicado o art. 109, III, do Código Penal.
+Decisão deste Relator indeferindo a liminar (fls. 38/39).
+Parecer ministerial opinando pela denegação da ordem (fls. 92/95).
+Petição juntada pela defesa requerendo ao paciente a extensão dos efeitos da decisão proferida no AREsp n. 631.959/PB, em relação a [NOME], em que foi dado parcial provimento ao recurso especial para reduzir a reprimenda final a 2 anos e 10 meses de reclusão, em regime aberto, e 50 dias-multa. Agora alega a defesa que o paciente se encontra na mesma situação de Carlos.
+É o relatório.
+Verifico dos autos que a petição juntada pela defesa (fls. 99/105), relativa ao pedido de extensão dos efeitos da decisão proferida no AREsp n. 631.959/PB, em relação a [NOME], é posterior à impetração deste writ e traz também pedidos diversos. A inicial de habeas corpus (fls. 1/11) aborda tão somente a pretensão pela extinção da punibilidade e pela ocorrência de prescrição em razão do art. 109, III, do Código Penal. Essas matérias não foram analisadas no julgamento do referido AREsp n. 631.959/PB, em que foram abordadas unicamente o excesso na fixação da pena-base por conta de duas vetoriais consideradas negativas, tendo sido dado parcial provimento ao recurso especial para reduzir a reprimenda final a 2 anos e 10 meses de reclusão, em regime aberto, e 50 dias-multa.
+No entanto, como bem colocado no parecer ministerial (fl. 116), não há como fazer uma similitude fático-jurídica entre o acórdão proferido na revisão criminal ajuizada pelo paciente e o acórdão proferido pelo Tribunal de Justiça da Paraíba na revisão criminal estadual ajuizada por [NOME], que gerou o AREsp n. 631.959/PB, porquanto o paciente não o trouxe aos autos.
+Em consulta ao citado agravo, verifica-se, também, que o processo não está mais vinculado a esta Corte Superior, pois já foi baixado à origem. Assim, não há como estender ao paciente os efeitos da decisão proferida.
+Por outro lado, não há falar também em prescrição da pretensão punitiva. A pena aplicada ao paciente foi de 4 anos e 6 meses de reclusão, e nos termos do art. 109 do Código Penal, o prazo prescricional em concreto deve ser de 12 anos.
+Entre a data do recebimento da denúncia, 27/3/2001, e a prolação da sentença, 8/8/2007, ou entre a sua publicação e o acórdão proferido em sede de revisão criminal não ocorreu o referido prazo.
+Ante o exposto, denego a ordem.
+Publique-se.
