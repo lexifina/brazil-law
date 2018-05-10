@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DO PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO DOS EMBARGOS DECLARATÓRIOS COMO AGRAVO INTERNO. PRECEDENTE: EDCL NO ARESP 175.781/RS, REL. MIN. BENEDITO GONÇALVES, DJE 22.08.2012. ALEGAÇÃO DE QUE NÃO HOUVE MANIFESTAÇÃO QUANTO À PRESCRIÇÃO. MANIFESTAÇÃO EXPRESSA PELA CORTE LOCAL. PRECLUSÃO CONSUMATIVA. AUSÊNCIA DE IMPUGNAÇÃO. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DO CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. A Corte local afirmou que o recorrente já havia manejado exceção de pré-executividade e nada se alegou quanto à prescrição, tornando-se preclusa a sua insurgência. Tal fundamento, suficiente para manutenção do acórdão recorrido, sequer foi impugnado pela parte, o que atrai, inclusive, a incidência da Súmula 182/STJ.
+2. Agravo Interno do Contribuinte a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, recebeu os Embargos de Declaração como Agravo Interno e negar-lhe provimento, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Cuida-se de Agravo Interno interposto por [NOME] contra decisão da minha lavra, cuja ementa abaixo se transcreve:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535, II DO CPC/1973. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NÃO CABIMENTO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. ENTENDIMENTO DA SÚMULA 393/STJ. IMPOSSIBILIDADE DE ALTERAÇÃO DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM, OBTIDAS MEDIANTE ANÁLISE DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+2. Sustenta a parte agravante, em síntese, que houve omissão na decisão recorrida, porquanto não houve manifestação quanto à violação ao art. 535 do CPC/73.
+3. Impugnação não apresentada.
+4. É o relatório.
+VOTO
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DO PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO DOS EMBARGOS DECLARATÓRIOS COMO AGRAVO INTERNO. PRECEDENTE: EDCL NO ARESP 175.781/RS, REL. MIN. BENEDITO GONÇALVES, DJE 22.08.2012. ALEGAÇÃO DE QUE NÃO HOUVE MANIFESTAÇÃO QUANTO À PRESCRIÇÃO. MANIFESTAÇÃO EXPRESSA PELA CORTE LOCAL. PRECLUSÃO CONSUMATIVA. AUSÊNCIA DE IMPUGNAÇÃO. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DO CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. A Corte local afirmou que o recorrente já havia manejado exceção de pré-executividade e nada se alegou quanto à prescrição, tornando-se preclusa a sua insurgência. Tal fundamento, suficiente para manutenção do acórdão recorrido, sequer foi impugnado pela parte, o que atrai, inclusive, a incidência da Súmula 182/STJ.
+2. Agravo Interno do Contribuinte a que se nega provimento.
+1. Preliminarmente, aplica-se o princípio da fungibilidade recursal, para receber os Embargos de Declaração como Agravo Interno, nos termos da jurisprudência desta Corte, tendo em vista a simples pretensão de efeitos infringentes e discussão de mérito do julgado. Confiram-se: EDcl no AREsp. 175.781/RS, Rel. Min. BENEDITO GONÇALVES, DJe 22.08.2012; EDcl no AREsp. 101.112/MG, Rel. Min. FRANCISCO FALCÃO, DJe 24.8.2012; EDcl no AREsp. 102.413/SP, Rel. Min. ARNALDO ESTEVES LIMA, DJe 20.8.2012.
+2. No que interessa, veja-se o que se depreende do acórdão de origem:
+No que tange à alegada prescrição, referida tese deveria ter sido sustentada na exceção de pré-executividade anteriormente oposta. Tendo em vista que não se trata de fato novo nos autos e, em atendimento ao princípio da eventualidade, da mesma forma resta configurada a precrição consumativa pela perda do momento processual oportuno, não sendo caso de conhecimento da matéria na presente exceção de pré-executividade. A matéria poderá ser apreciada em sede de embargos quando do seu correto manuseio e em momento próprio (fl. 573).
+3. Do trecho acima transcrito, verifica-se que houve manifestação expressa no tocante à prescrição, o que afasta de plano a alegação de violação ao art. 535 do CPC/73.
+4. Ademais, a Corte local afirmou que o recorrente já havia manejado exceção de pré-executividade e nada se alegou quanto à prescrição, tornando-se preclusa a sua insurgência. Tal fundamento, suficiente para manutenção do acórdão recorrido, sequer foi impugnado pela parte, o que atrai, inclusive, a incidência da Súmula 182/STJ.
+5. Diante do exposto, nega-se provimento ao Agravo Interno, regularmente interposto pelo Contribuinte.
+6. É como voto.
