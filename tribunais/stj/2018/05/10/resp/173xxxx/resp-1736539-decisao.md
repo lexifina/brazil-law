@@ -1,0 +1,19 @@
+DECISÃO
+Vistos.
+Verifico que a discussão contém tema com repercussão geral reconhecida pelo Supremo Tribunal Federal (Tema 296), (RE n. 615.580), assim ementado:
+TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS - ISS. ARTIGO 156, III, DA CONSTITUIÇÃO FEDERAL. LISTA DE SERVIÇOS. DECRETO-LEI 406/1968 E LC 116/2003. TAXATIVIDADE. EXISTÊNCIA DE REPERCUSSÃO GERAL.
+(RE 615580 RG, Relator(a): Min. ELLEN GRACIE, julgado em 13/08/2010, DJe-154 DIVULG 19-08-2010 PUBLIC 20-08-2010 EMENT VOL-02411-05 PP-01151 RTFP v. 18, n. 94, 2010, p. 452-454 )
+Por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e esta Corte Superior, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, disciplinado nos arts. 1.039 e 1.040 do CPC/15, consoante estampam os julgados assim ementados:
+AGRAVO INTERNO EM RECURSO ESPECIAL. TRIBUTÁRIO. PROCESSUAL CIVIL. RECONHECIMENTO DE REPERCUSSÃO GERAL QUANTO AO TEMA VERSADO NO APELO ESPECIAL. SOBRESTAMENTO DESTE ÚLTIMO COM DEVOLUÇÃO À CORTE DE ORIGEM PARA EVENTUAL E OPORTUNO JUÍZO DE CONFORMAÇÃO. POSSIBILIDADE.
+1. Podendo a ulterior decisão do STF, em repercussão geral já reconhecida, afetar o julgamento da matéria veiculada no recurso especial, faz-se conveniente que o STJ, em homenagem aos princípios processuais da economia e da efetividade, determine o sobrestamento do especial e devolva os autos ao Tribunal de origem para que ali, em se fazendo necessário, seja oportunamente realizado o ajuste do acórdão local ao que vier a ser decidido na Excelsa Corte.
+2. A parte agravante não logrou demonstrar, no caso concreto, a ausência de similitude entre o tema trazido em seu especial e o tema pendente de julgamento no STF com repercussão geral, pelo que se impõe a manutenção do sobrestamento ora combatido.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp 1.603.061/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/06/2017, DJe 28/06/2017).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ISSQN NA INDUSTRIALIZAÇÃO POR ENCOMENDA. RECONHECIMENTO DE REPERCUSSÃO GERAL QUANTO AO TEMA. SOBRESTAMENTO DO RECURSO ESPECIAL COM DEVOLUÇÃO À CORTE DE ORIGEM PARA EVENTUAL E OPORTUNO JUÍZO DE CONFORMAÇÃO. POSSIBILIDADE.
+1. A questão jurídica referente à incidência do Imposto Sobre Serviços de Qualquer Natureza na operação de industrialização por encomenda teve repercussão geral reconhecida pelo STF (Tema 816).
+2. Encontrando-se a matéria com repercussão geral reconhecida, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e esta Corte Superior, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015. Precedente: AgInt no AgInt no REsp 1.603.061/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/6/2017.
+3. Somente depois de realizada essa providência, a qual representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado, em sua totalidade, a este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp 1.380.952/GO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 15/08/2017, DJe 21/08/2017)
+Isto posto, DETERMINO a devolução dos autos ao Tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação do acórdão do Recurso Extraordinário acima identificado, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Publique-se e intimem-se.
