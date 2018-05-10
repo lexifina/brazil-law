@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto com fulcro no art. 105, inciso III, alínea "a", da Constituição Federal.
+Consta dos autos que os agravados foram condenados pela prática do delito tipificado no art. 2.º, inciso II, da Lei n. 8.137/90 (crime contra a ordem tributária) à pena de 8 (oito) meses de detenção, em regime inicial aberto, sendo esta substituída por uma restritiva de direito (fls. 262/276).
+Irresignada, a defesa interpôs recurso de apelação, que restou provido para absolver os agravados, por atipicidade da conduta, conforme se extrai do acórdão cuja ementa segue transcrita (fls. 382/390):
+APELAÇÕES CRIMINAIS. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 2º, II, DA LEI 8.137/90. ICMS PRÓPRIO REGULARMENTE DECLARADO AO FISCO. NÃO RECOLHIMENTO NO PRAZO LEGAL. MERO INADIMPLEMENTO. ATIPICIDADE DA CONDUTA. ABSOLVIÇÃO. Quando se trata de ICMS devido pelo próprio contribuinte em relação a circulação de suas mercadorias e, sendo o ICMS próprio regular e contabilmente lançado nos livros fiscais da empresa contribuinte, bem como declarado à Fazenda Pública, sem contudo, haver o ordinário recolhimento dos valores, a omissão não ultrapassa o mero inadimplemento, passível de persecução no procedimento cível da execução fiscal. Ausência de injusto penal. Denúncia que descreve fato atípico, impõe-se a absolvição dos réus. RECURSOS CONHECIDOS E PROVIDOS.
+Em sede de recurso especial, a acusação alega violação ao disposto no art. 2.º, inciso II, da Lei n. 8.137/90. Sustenta, em síntese, que o mencionado dispositivo "criminaliza a conduta daquele contribuinte que repassa o ônus financeiro do tributo a terceiro (valor do tributo), mas não recolhe o montante aos cofres públicos. Essa é exatamente a conduta perpetrada pelo recorrido, contribuinte do ICMS que apurou o tributo e não o recolheu aos cofres públicos. Ele cobrou de terceiro o valor do tributo (repercussão financeira), mas não o recolheu no quantum devido aos cofres públicos no prazo legal" (fls. 407/414).
+A r. decisão agravada inadmitiu o recurso especial, haja vista a necessidade de reexame de provas, providência vedada pelo Enunciado n. 7 da Súmula desta Corte (fls. 442/443).
+Em agravo em recurso especial, a acusação aduz não pretender o reexame de provas, mas apenas a correta valoração jurídica dos fatos que foram reconhecidos e expressamente debatidos no próprio acórdão recorrido (fl. 453).
+Contraminuta às fls. 471/475.
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 486/490).
+É o relatório. Decido.
+Atendidos os requisitos formais de admissibilidade e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso especial, contudo, não merece ser conhecido, tendo em vista a perda superveniente do interesse recursal, em virtude da ocorrência da prescrição da pretensão punitiva.
+Nos termos do art. 110, § 1.º, do Código Penal "a prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada".
+Contra a sentença condenatória o Ministério Público não interpôs recurso, havendo, portanto, trânsito em julgado para a acusação.
+Verifica-se, ademais, que os recorridos foram condenados à pena de 8 meses de detenção, de modo que o lapso prescricional é de 3 anos, conforme dispõe o art. 109, inciso VI, do CP.
+Destarte, considerando que entre a data de publicação da sentença condenatória (27/02/2015 - fl. 277) e a data presente já transcorreram mais de 3 anos, forçoso reconhecer a ocorrência da prescrição da pretensão punitiva em sua modalidade intercorrente.
+Diante do exposto, com fundamento no art. 932, inciso III, do Código de Processo Civil, c/c art. 253, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
