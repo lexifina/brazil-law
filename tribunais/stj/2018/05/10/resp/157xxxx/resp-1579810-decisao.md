@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, impugnando acórdão da seguinte forma ementado:
+Apelação. Corretagem. Ação de cobrança. Sentença de improcedência. Insurgência. Expiração do prazo da autorização concedida ao autor para a realização do negócio objeto da corretagem. Ausência de prova de que tenha ele contribuído para sua celebração. Sentença mantida. Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem, adotando-se a seguinte ementa:
+Embargos de Declaração - Acórdão que negou provimento à apelação do autor/embargante. Ausência de contrariedade, omissão ou obscuridade no acórdão embargado. Embargos desacolhidos.
+Nas razões do especial, o recorrente aponta violação dos arts. 330, inciso I, do Código de Processo Civil de 1973; 725, 727 e 727 do Código Civil, bem como divergência jurisprudencial.
+ Alega, preliminarmente, cerceamento de defesa ante o julgamento antecipado da lide, visto que se fazia necessária a produção de prova testemunhal.
+No mérito, aduz que:
+Insofismável que o Autor apresentou ao Réu o comprador (situação confessada em sua pífia contestação onde não demonstrou quem apresentou a última proposta que culminou com a concretização do negócio), havia cláusula de exclusividade no contrato firmado entre as partes, mantidas tratativas por cerca de quatro anos, inclusive com intermediação de outros negócios com o Réu (documento anexo) e, obviamente, não esperava o Autor ser traído em sua confiança, eis que se dedicava dentro da ética e da licitude. (fl. 273, e-STJ)
+Pugna pelo recebimento da comissão de corretagem e afirma que, havendo cláusula de exclusividade, a comissão deve ser paga pelo contratante independentemente da efetiva participação do corretor, mesmo depois de esgotado o prazo contratual.
+O recurso foi admitido na origem, nos termos da decisão de fls 360-362 (e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Quanto à primeira preliminar apontada, cumpre observar que o art. 330, I, do Código de Processo Civil de 1973, não foi objeto de exame pela instância ordinária, tampouco foi tratado na petição de embargos de declaração oposta na origem para suprir eventual omissão sobre esse aspecto, o que torna inviável sua análise, pois ausente o requisito indispensável do prequestionamento, do qual não estão isentas sequer as questões de ordem pública. Incidem, na hipótese, os óbices das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DO AUTOR.
+1. Em relação ao artigo 396 do Código Civil, incidem os enunciados das Súmulas 282 e 356 do Supremo Tribunal Federal, ante a ausência de prequestionamento, porquanto a matéria contida em tal dispositivo não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+2. A despeito de o insurgente afirmar não ter manejado o reclamo com base na alínea "c" do permissivo constitucional, em uma simples leitura da folha de apresentação do recurso especial depreende-se que o apelo foi interposto com fundamento "nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição da República". Assim, não tendo a parte logrado comprovar o referido dissenso jurisprudencial, adequada a monocrática que não conheceu do recurso no ponto.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.112.475/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19.10.2017, DJe 25.10.2017).
+Em relação ao direito do recorrente ao recebimento da comissão de corretagem em virtude da comprovação da efetiva participação na transação, a Corte estadual, ao analisar de forma minudente o acervo probatório e os termos do contrato objeto da controvérsia, concluiu que (fls. 244-246, e-STJ):
+De acordo com a cláusula 9.1 da autorização concedida ao autor, dispunha ele prazo de 45 dias para concluir a negociação contados de sua assinatura, ocorrida em 13 de abril de 2007, ou de um ano após a recusa de proposta de compra pelo vendedor (fl. 16).
+A cláusula 9.2 desse instrumento prevê renovação automática da autorização se sua vigência terminar no curso de negociações com o interessado na compra (f. 16/17).
+A única proposta de compra a ser considerada é aquela juntada a f. 20/21 dos autos porque assinada por representante da empresa interessada, Anhanguera Educacional S/A, em 19 de julho de 2007, muito antes da venda ocorrida em 27 de julho de 2011.
+A outra proposta de f. 22/23, datada de 18 de abril de 2008, não pode ser considerada porque assinada apenas pelo autor.
+A compra foi firmada em 27 de julho de 2011, muito após o prazo de 45 dias contados da assinatura da autorização de venda em favor do autor (13 de abril de 2007).
+De acordo com a proposta de compra datada de 19 de julho de 2007, estaria ela mantida até 25 de julho daquele ano.
+Assim, considerada a hipótese de vigência da autorização por um ano após a recusa da proposta de compra pelo vendedor, expirou ela em 25 de julho de 2008.
+Portanto, os prazos de vigência da autorização concedida ao autor já haviam expirado.
+De outra banda, os e-mails juntados aos autos, datados de meses do ano de 2010, não comprovam a existência de negociações com a empresa interessada na compra quando do término da vigência da autorização concedida ao autor, o que autorizaria sua automática prorrogação.
+Isso porque, nessa época, ano de 2010, a autorização já havia se expirado.
+Ademais, o conteúdo desses e-mails não comprova a existência de efetiva negociação intermediada pelo autor entre a empresa interessada na compra e o vendedor como salientado pela r. sentença recorrida.
+Não comprovada, portanto, a efetiva contribuição do autor à realização do negócio objeto da corretagem, era de rigor o reconhecimento da improcedência do pedido.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática e do contrato firmado entre as partes, procedimento que encontra óbice nos verbetes 5 e 7 das Súmulas desta Corte. A propósito, anote-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. VIOLAÇÃO DOS ARTS. 1.022 E 489 DO CPC. NÃO OCORRÊNCIA MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Observa-se que não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489, II e III, do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O Tribunal de origem, amparado no acervo fático - probatório dos autos, e interpretação de cláusulas contratuais, concluiu que: i) o percentual de retenção dos valores pagos, estipulado no contrato entabulado entre as partes, é exorbitante, e ensejaria enriquecimento sem causa do promitente - vendedor; ii) não é devida a comissão de corretagem, uma vez que o negócio jurídico firmou-se por iniciativa exclusiva do promitente-comprador, sem qualquer aproximação útil do corretor. Assim, alterar o entendimento do acórdão recorrido não é possível, em sede de recurso especial, pois demandaria, necessariamente, reexame de fatos, provas, e cláusulas contratuais, o que é vedado em razão dos óbices das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1.101.697/AM, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14.11.2017, DJe 22.11.2017).
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE RESTITUIÇÃO DE COMISSÃO DE CORRETAGEM DECORRENTE DE COMPRA E VENDA DE IMÓVEL NOVO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA RÉ.
+1. Não constatada a alegada violação ao artigo 535 do CPC/1973, porquanto as questões submetidas a julgamento foram apreciadas pelo órgão julgador, com fundamentação clara, coerente e suficiente, revelando-se desnecessário ao magistrado rebater cada um dos argumentos declinados pela parte.
+2. Instâncias ordinárias que consignaram a ausência de previsão contratual, bem como inexistência de prova quanto à alegada anuência da compradora ao pagamento da comissão de corretagem. 3. Para o acolhimento da tese acerca da adequação da cobrança de comissão de corretagem, seria imprescindível promover a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, e a interpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos dos enunciado das súmulas 5 e 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 907.082/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19.9.2017, DJe 28.9.2017).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). AÇÃO DE COBRANÇA DE COMISSÃO DE CORRETAGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. COMISSÃO DE CORRETAGEM CONSIDERADA DEVIDA PELO TRIBUNAL DE ORIGEM EM FACE DO RECONHECIMENTO DE ATUAÇÃO DA RECORRIDA NA MEDIAÇÃO DO NEGÓCIO. ARBITRAMENTO DO VALOR EM RAZÃO DA NATUREZA DO NEGÓCIO E DOS USOS LOCAIS, DIANTE DA AUSÊNCIA DE PREVISÃO LEGAL E CONTRATUAL. REVISÃO DA CONCLUSÃO DO TRIBUNAL A QUO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULAS 5 E 7/STJ. AGRAVO DESPROVIDO.
+(AgInt no AREsp 479.890/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 25.10.2016, DJe 10.11.2016).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. COMISSÃO DE CORRETAGEM. RESULTADO ÚTIL DA COMPRA E VENDA NÃO ALCANÇADO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem reavaliação de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu que o negócio jurídico de compra e venda não alcançou o resultado útil. Alterar esse entendimento a fim de reconhecer devida a comissão de corretagem demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.312.696/AL, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21.8.2014, DJe 29.8.2014).
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
