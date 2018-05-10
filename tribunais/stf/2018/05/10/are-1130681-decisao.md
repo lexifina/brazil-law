@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. RESSARCIMENTO AO ERÁRIO. AGENTE POLÍTICO. HORAS EXTRAS PAGAS A SERVIDORES OCUPANTES DE CARGOS COMISSIONADOS. LEI 223/1974 DO MUNICÍPIO DE ITAPEVI. VEDAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO ORA AGRAVADA. SÚMULA 287 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo nas alíneas a e c do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “Ação de ressarcimento de danos. Ato administrativo. Pagamento indevido de horas extraordinárias a servidores ocupantes de cargo em comissão. Sentença de procedência. Preliminares de conexão e litisconsórcio passivo afastadas. Pagamento de horas extraordinárias incompatível com a natureza do cargo comissionado. Vedação expressa contida no art. 148, § 1º, da Lei Municipal n. 223/74. Diploma legal recepcionado pela CF/88. Ilegalidade de ato administrativo configurada. Sentença mantida. Recurso não provido.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 1º, IV, 5º, caput, 7º, VIII e XVI, 39, § 3º, e 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que, no que concerne ao fundamento da alínea a do permissivo constitucional, a ofensa à Constituição, acaso existente, seria indireta e no que pertine à alínea c, por não haver a questão sido suscitada nos autos.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    A parte agravante não atacou o fundamento da decisão agravada relativo à natureza reflexa da alegada violação constitucional, por exigir reexame prévio de matéria infraconstitucional. Esta Suprema Corte firmou jurisprudência no sentido de que a parte tem o dever de impugnar os fundamentos da decisão agravada, sob pena de não ter sua pretensão acolhida, por vedação expressa do enunciado da Súmula 287 deste Supremo Tribunal Federal, de seguinte teor: “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”. Nesse sentido, colacionam-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 1.083.973-AgR, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe de 17/4/2018)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. TEMA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO. REEXAME DE FATOS E PROVAS. AGRAVO DESPROVIDO.
+    1. Para dissentir da conclusão do Tribunal de origem mostra-se necessário o reexame da legislação infraconstitucional aplicável à espécie, a revelar que a ofensa à Constituição, se existente, seria meramente reflexa.
+    2. É inviável o conhecimento do recurso que não ataca, especificamente, os fundamentos da decisão que inadmitiu o recurso extraordinário. Incidência da Súmula 287 do STF.
+    3. O acolhimento da ausência de prática de delito permanente exige reexame do conjunto fático-probatório, providência inadmitida pela Súmula 279/STF.
+    4. Agravo regimental a que se nega provimento.” (ARE 1.012.203-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 12/4/2018)
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, NÃO CONHEÇO o agravo, com fundamento no artigo 932, III, do CPC/2015 c/c o artigo 21, § 1º, do RISTF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao dobro do valor fixado pela origem (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 10 de maio de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
