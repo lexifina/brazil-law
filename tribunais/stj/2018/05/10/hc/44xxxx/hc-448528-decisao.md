@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOAO [NOME] DA [NOME] SOUZA, apontando-se como autoridade coatora o Desembargador do Tribunal de Justiça do Estado de São Paulo (HC n. 2080068-73.2018.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante, na data de 7.3.2018, pela suposta prática do delito de tráfico de drogas - Processo n. 0000441-92.2018.8.26.0537, da 1ª Vara Criminal da Comarca de São Bernardo do Campo/SP.
+Em audiência de custódia realizada no dia 8.3.2018, o juiz de primeiro grau concedeu liberdade provisória ao acusado cumulada com as medidas cautelares previstas no art. 319, incisos I e IV, do Código de Processo Penal (fls. 79/82).
+Contudo, no dia 15.3.2018, o magistrado singular decretou a prisão preventiva do acusado, nestes termos (fls. 89/90):
+"Vistos.
+JOÃO [NOME] DA [NOME] SOUZA foi autuado em flagrante por crime de tráfico de drogas.
+O flagrante foi distribuído em 08.03.2018, tendo sido realizada audiência de custódia, oportunidade em que foi analisada a prisão em flagrante do indiciado JOÃO [NOME] DA [NOME] SOUZA tendo sido concedida a liberdade provisória ao indiciado cumulada com as medidas do art. 319, inciso I, do CPP (fls. 31/34).
+Em que pesem os argumentos do ilustre magistrado atuante na audiência de custódia, observo que o indiciado oferece concreto risco à sociedade, haja vista que quando adolescente já tinha se envolvido em três oportunidades anteriores com o mesmo tipo de delito, o que pode ser confirmado pelo documento de fls. 26. E, diante de seus constantes envolvimentos com o mesmo tipo de delito, pode-se afirmar que se trata de indivíduo que oferece concreto risco à sociedade e que, quando solto, em razão de sua provável crença na impunidade, ante a leniência com que a reiteração de conduta criminosa foi tratada, há grande probabilidade de retornar ao crime.
+Diante de tais considerações, na forma do art. 312, "caput", do Código de Processo Penal, de ofício, decreto a prisão preventiva do indiciado JOÃO VlTOR DA [NOME] SOUZA, qualificado nos autos. Expeça-se mandado de prisão contra ele.
+Após, aguarde-se a vinda dos autos principais."
+Contra essa decisão, a defesa impetrou prévio writ no Tribunal de origem, cuja liminar foi indeferida pelo Desembargador relator em 24.4.2018. Eis o teor do decisum (fl. 132):
+Vistos.
+O Defensor Público Daniel Bidoia Donade impetrou o presente habeas corpus em favor de [NOME]. Postula, liminarmente, que ele aguarde em liberdade o desfecho do processo, pois tem direito à revogação do cárcere preventivo, ou cabe-lhe a substituição do cárcere pelas medidas cautelares previstas no art. 319 do C.P.P., pleiteando a expedição de alvará de soltura. Aduz que é evidente o constrangimento ilegal sofrido pelo paciente. Aponta como autoridade coatora o Douto Juízo de Direito da 1ª Vara Criminal da Comarca de São Bernardo do Campo /SP.
+O paciente se encontra preso preventivamente, acusado supostamente pela prática do crime de tráfico de drogas (cf. fls. 07/09).
+Denego a liminar, a qual, no habeas corpus, só seria cabível quando o constrangimento ilegal é manifesto e detectado de imediato, diante do exame sumário dos elementos que instruem a inicial. Pelo que se entrevê, prima facie, nas cópias acostadas aos autos, a prisão cautelar foi decretada e depois mantida com motivação, no Juízo a quo, por certo já considerando a Lei nº 12.403/11 e suas medidas cautelares diversas da prisão (cf. fls. 07/127). A análise do preenchimento, ou não, dos requisitos legais autorizadores da custódia preventiva, seja consequência, ou não, de prisão em flagrante, revela-se inadequada à esfera da presente fase de apreciação do remédio heróico, que a distingue do restante do procedimento. Nesta oportunidade, inclusive, não cabe o exame das circunstâncias específicas do caso concreto, suas provas ou sua dinâmica, e da qualificação ou efetiva culpabilidade do paciente. A solução deverá vir da Douta Turma Julgadora.
+Autue-se e processe-se, requisitando-se informações, remetendo-se, em seguida, os autos a Douta Procuradoria Geral de Justiça."
+Daí o presente mandamus, no qual afirma a impetrante que ocorre flagrante ilegalidade na espécie, apta a superar o óbice do enunciado n. 691 do Supremo Tribunal Federal.
+Alega que o paciente sofre constrangimento ilegal, eis que o acusado não descumpriu nenhuma das medidas cautelares impostas na audiência de custódia, bem como não há qualquer fato superveniente que enseje a revogação da liberdade provisória.
+Pontua que "o argumento de que o paciente representa perigo à ordem pública alicerça-se na frágil afirmação de que ele teria sido condenado anteriormente na seara infracional, circunstância que não encontra suporte em qualquer certidão cartorária" (fl. 3).
+Argumenta que, acaso sobrevindo condenação, poderá ser imposto na sentença o regime diverso do fechado, mostrando-se desproporcional o atual encarceramento.
+Assevera que o paciente é primário e ostenta bons antecedentes.
+Requer, liminarmente e no mérito, a liberdade do acusado. Subsidiariamente, pede a substituição da custódia corporal por medida alternativa.
+É o relatório.
+Decido.
+Neste mandamus, insurge-se o impetrante contra a decisão do Desembargador do Tribunal a quo, que indeferiu a liminar no habeas corpus originário.
+Vê-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior de Justiça, pois a matéria não foi examinada no Tribunal de origem, que ainda não julgou o mérito do writ originário, sob pena de indevida supressão de instância.
+Com efeito, a jurisprudência deste Tribunal firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade.
+Confiram-se, a propósito, os seguintes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA N. 691/STF. ART. 1º, I, § 1º, DO DECRETO N. 201/1967 (TRÊS VEZES) E ART. 316 DO CP (TRÊS VEZES). DESCUMPRIMENTO DE MEDIDA CAUTELAR. PRISÃO PREVENTIVA. AUSÊNCIA DE PATENTE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Caso em que a prisão foi decretada em razão do descumprimento de medida cautelar anteriormente imposta, conforme previsão. Precedentes. Ausência de manifesta ilegalidade, abuso de poder ou teratologia a autorizar a superação do mencionado enunciado.
+3. Agravo regimental a que se nega provimento."
+(AgRg no HC 400.949/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO. REGIME INICIAL DE CUMPRIMENTO DE PENA. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU PEDIDO LIMINAR. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. ÓBICE DA SÚMULA 691 DO STF. RECURSO NÃO PROVIDO.
+1. Nos termos do enunciado da Súmula n. 691 do Supremo Tribunal Federal, "não compete ao Supremo Tribunal Federal conhecer de "habeas corpus" impetrado contra decisão do relator que, em "habeas corpus" requerido a Tribunal Superior, indefere a liminar".
+2. O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha, que não escapa à pronta percepção do julgador, o que, todavia, não ocorre na hipótese, em que o delito de roubo envolveu a participação de três agentes e foi cometido mediante o emprego de arma de fogo, circunstâncias que, à primeira vista, realmente evidenciam a gravidade concreta do delito cometido, a ensejar, por conseguinte, a fixação do regime inicial mais gravoso, nos termos do § 3º do art. 33 do Código Penal.
+3. Agravo regimental não provido."
+(AgRg no HC 397.734/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/05/2017, DJe 25/05/2017)
+"PEDIDO DE RECONSIDERAÇÃO. PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. HABEAS CORPUS IMPETRADO EM FACE DE DECISÃO INDEFERITÓRIA DE LIMINAR NA ORIGEM. INCIDÊNCIA DA SÚMULA 691/STF. DECISÃO FUNDAMENTADA. EXCEPCIONALIDADE NÃO DEMONSTRADA. NÃO CABIMENTO. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL, AO QUAL SE NEGA PROVIMENTO.
+1. Pedido de reconsideração, apresentado dentro do quinquídio legal, deve ser recebido como agravo regimental, em homenagem ao princípio da fungibilidade.
+2. A jurisprudência desta Corte é pacífica no sentido de que a admissibilidade de habeas corpus impetrado contra decisão que indeferiu a liminar em prévio writ se submete aos parâmetros do enunciado nº 691 da Súmula do Supremo Tribunal Federal, somente afastada no caso de situações excepcionais de flagrante ilegalidade (AgRg no HC 287.547/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 11/03/2014, DJe de 26/03/2014).
+3. O agravante não apresentou argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, razão que enseja a negativa de provimento ao agravo regimental, pois de fato a custódia cautelar do paciente, mantida na sentença, possui fundamentação concreta, evidenciada na reiteração delitiva do paciente em crime de mesma espécie, de modo que não há se falar em ilegalidade na negativa do recurso em liberdade.
+4. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento."
+(RCD no HC 392.916/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/04/2017, DJe 26/04/2017)
+No mesmo sentido, o enunciado sumular n.º 691 do Supremo Tribunal Federal, litteris:
+"Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Na hipótese, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, pois o juízo de primeiro grau destacou o fundado risco de reiteração delitiva, uma vez que "quando adolescente o acusado já tinha se envolvido em três oportunidades anteriores com o mesmo tipo de delito" (fl. 89).
+Sendo assim, o pedido revela-se manifestamente incabível, não havendo como dar prosseguimento ao writ, a teor do disposto no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, in verbis:
+"Art. 210. Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente."
+Ante o exposto, indefiro liminarmente o presente habeas corpus, com espeque no artigo 210 do Regimento Interno do Superior Tribunal de Justiça.
+Cientifique-se o Ministério Público Federal.
+Intime-se.
+Publique-se.
+Sem recurso, arquivem-se os autos.
