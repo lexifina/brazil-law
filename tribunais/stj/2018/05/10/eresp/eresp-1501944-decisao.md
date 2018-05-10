@@ -1,0 +1,34 @@
+DECISÃO
+ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. RESÍDUO DE 3,17%. LIMITAÇÃO TEMPORAL. POSSIBILIDADE. INEXISTÊNCIA DE OFENSA À COISA JULGADA. RECURSO ESPECIAL DO SERVIDOR A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto com fundamento na alínea a do art. 105, III da Constituição Federal, objetivando a reforma do acórdão do Tribunal Regional Federal da 4a. Região, assim ementado:
+EMBARGOS À EXECUÇÃO DE SENTENÇA. VALORES PAGOS ADMINISTRATIVAMENTE. JUROS DE MORA. SERVIDORES PÚBLICOS. REAJUSTE DE 3,17%. LIMITAÇÃO. MP 2.225/01.
+1. Os servidores públicos têm direito ao reajuste residual no percentual de 3,17%, contudo, limitado à concessão do reajuste no valor correto ou à reestruturação da carreira à qual estão vinculados.
+2. Juros de mora fixados em 1% ao mês, tendo em vista que o ajuizamento da ação de conhecimento se deu em momento anterior à vigência da MP nº 2.180-35/2001.
+3. Correta a metodologia de cálculo na qual se aplicam juros e correção monetária sobre as parcelas pagas administrativamente, a fim de que, no termo final do período de cálculo, o valor pago seja abatido do devido. Inexistência de prejuízo ao credor, vez que se chega ao mesmo resultado abatendo mês a mês os valores pagos na via administrativa, pelo valor nominal.
+2. Nas razões do seu Apelo Nobre, o Particular defende violação dos arts. 535, II e 458, II do CPC, 10 da MP 2.225-45/2001, 28 e 29, § 5o. da Lei 8.880/1994 e 333, I do CPC, ao argumento de que o reajuste de 3,17% não deve ser limitado à data de suposta reestruturação de carreira.
+3. É o relatório. Decido.
+4. De início, cumpre destacar que a alegada violação ao art. 535, II do CPC não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas com clareza, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+5. No mérito, o entendimento da Corte de origem quanto à possibilidade de limitação do reajuste de 3,17% não destoa da jurisprudência do STJ, conforme atestam os seguintes precedentes:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. EMBARGOS. RESÍDUO DE 3,17%. LIMITAÇÃO TEMPORAL. BASE DE INCIDÊNCIA. FUNÇÕES GRATIFICADAS E CARGOS EM COMISSÃO. LEI N. 9.030/95. AUSÊNCIA DE ALTERAÇÃO OU REESTRUTURAÇÃO DE CARGOS OU DE CARREIRA. ART. 9º DA MP N. 2.225/2001.
+1. A jurisprudência do STJ reconhece que a limitação temporal prevista no art. 10 da Medida Provisória 2.225-45/2001 não afronta a coisa julgada, podendo ser arguida em sede de embargos à execução.
+2. Esta Corte Superior de Justiça consolidou a orientação no sentido de que o termo final do pagamento dos valores devidos a título do reajuste de 3,17% opera-se na data da reestruturação/reorganização da carreira, nos termos do art. 10 da Medida Provisória 2.225/2001; ou em 1º/1/2002, para as carreiras que não foram reestruturadas/reorganizadas até essa data, a teor do art. 9º da mencionada medida provisória.
+3. A Lei n. 9.030/95, que fixa a remuneração de cargos em comissão e de natureza especial e das funções de direção, chefia e assessoramento, não reestruturou ou reorganizou carreiras, de modo que não tem a faculdade de dar cabo à incidência do resíduo de 3, 17%.
+Agravo regimental improvido (AgRg nos EDcl no REsp. 1.523.151/RS, Rel. Min. HUMBERTO MARTINS, DJe 30.9.2015).
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC. INEXISTÊNCIA. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. INCONFORMAÇÃO COM A TESE ADOTADA. SERVIDOR PÚBLICO. MAGISTÉRIO SUPERIOR. RESÍDUO DE 3,17%. LIMITAÇÃO TEMPORAL. VERBA HONORÁRIA FIXADA PELA EQUIDADE. JUÍZO DE VALOR FEITO NO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ.
+1. Não configura ofensa ao art. 458, inciso II, do Código de Processo Civil o acórdão proferido por Tribunal que decide a matéria de direito valendo-se dos elementos que julga aplicáveis e suficientes para a solução da lide.
+2. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+3. É assente a orientação desta Corte no sentido do cabimento da limitação temporal do reajuste de 3,17% imposta pela Medida Provisória 2.225-45/2001 decorrente da reestruturação de cargos e carreiras, devendo a concessão da diferença ficar limitada à data da reorganização efetivada.
+4. É possível o reconhecimento, em sede de execução, da limitação temporal determinada pela MP 2.225-45/2001 ao reajuste de 3,17% prescrito pela Lei 8.880/1994, sem que o referido reconhecimento implique violação da coisa julgada.
+5. No presente caso, o Tribunal a quo consignou que, "levando em conta a singeleza e simplicidade da matéria aforada, que não necessitou acercar-se de maiores contornos probatórios, entendo justa e razoável a fixação da verba em comento no valor de R$ 2.000, 00 (dois mil reais)".
+6. A questão do valor dos honorários fixados é irrelevante quando o juízo de origem afirma, expressamente, que os honorários foram estabelecidos de forma razoável, situação que impede a revisão no Superior Tribunal de Justiça, em razão do óbice previsto na Súmula 7/STJ.
+Agravo regimental improvido (AgRg no REsp. 1.570.064/PE, Rel. Min. HUMBERTO MARTINS, DJe 12.2.2016).
+
+ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE 3,17%. PAGAMENTO. LIMITAÇÃO TEMPORAL. SERVIDORES DO INSS. LEI 10.355/2001. REESTRUTURAÇÃO DA CARREIRA PREVIDENCIÁRIA. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. "O termo final do pagamento dos valores devidos a título de reajuste de 3,17% se opera na data da reestruturação/reorganização da carreira, conforme dispõe o art. 10 da MP 2.225/2001, ou em 1º/1/2002, para as carreiras que não foram reestruturadas/reorganizadas até essa data, conforme o art. 9º da mencionada Medida Provisória" (AgRg no REsp 1399666/PE, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 08/05/2014, DJe 22/05/2014).
+3. O acórdão recorrido encontra-se em sintonia com o entendimento desta Corte de que o pagamento do resíduo de 3,17%, devido aos integrantes da Carreira Previdenciária no âmbito do Instituto Nacional do Seguro Social - INSS, está limitado à data da edição da Lei 10.355/2001, que reestruturou a carreira dos servidores.
+4. Agravo regimental a que se nega provimento (AgRg no REsp. 1.524.057/RS, Rel. Min. SÉRGIO KUKINA, DJe 15.6.2015).
+6. Ante o exposto, nega-se seguimento ao Recurso Especial do Servidor.
+7. Publique-se.
+8. Intimações necessárias.
