@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98075, de 16 de março de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 6805.30.90 Mercadoria: Disco de lixa aletado, constituído de grãos de óxido de alumínio zirconado aplicados sobre suportes de tecido de algodão (aletas de 25 mm x 20 mm) colados em um disco de plástico com diâmetro de 115 mm e provido de furo central. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 68.05), RGI 6 (texto das subposições 6805.30) e RGC 1 (texto do item 6805.30.90) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, com alterações posteriores e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.075-2018 .pdf]
