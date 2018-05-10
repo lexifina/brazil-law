@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo de REAL E BENEMÉRITA ASSOCIAÇÃO PORTUGUESA DE BENEFICÊNCIA contra decisão que negou seguimento a recurso especial impugnando acórdão assim ementado:
+Embargos Infringentes - Exame médico de discografia - Infecção posterior ao exame e sequelas que agravaram o quadro de saúde do autor, ora embargado - Responsabilidade objetiva do médico e do hospital onde realizado o exame, devido a culpa de seu preposto médico - Indenizações por danos morais e materiais devidas - Valores adequadamente fixados - Manutenção da decisão embargada diante de seus próprios fundamentos - Embargos rejeitados - Autorizada a restituição do valor do preparo.
+Nas razões de recurso especial, alega a recorrente violação dos arts. 14, § 4º, do Código de Defesa do Consumidor, 407 e 884 do Código Civil.
+Defende que:
+ ..  os procedimentos médicos adotados por aqueles que atenderam o Recorrido nas dependências hospitalares da Recorrente foram corretos, circunstância que afasta a ocorrência de "erro médico" e, por conseguinte, qualquer tipo de responsabilidade civil que gere indenização ao Recorrido.
+Sustenta ser excessivo o valor arbitrado a título de indenização. Aduz que o termo inicial da contagem dos juros de mora é a data do arbitramento dos danos morais.
+Apresentadas contrarrazões, pugnando o não provimento do recurso.
+O recurso não foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n.º 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento, verifico que este agravo não merece provimento.
+O Juiz de primeiro grau julgou improcedente o pedido formulado na ação de indenização por danos materiais e morais, envolvendo procedimento médico caracterizado em diagnóstico por imagem, com uso de contraste injetável, que resultou em infecção no autor.
+O Tribunal de origem, em sede de apelação, por maioria, deu parcial provimento ao recurso para julgar o pedido procedente em parte e condenar os réus ao pagamento de indenização por danos morais de R$ 30.000,00 (trinta mil reais), com correção monetária a partir daquele julgamento, juros moratórios desde a citação e de indenização por danos materiais correspondentes às despesas com medicamentos e tratamentos. O julgamento foi mantido no acórdão dos embargos infringentes, nos seguintes termos:
+Os recursos devem ser improvidos. Tenho que os embargantes são objetivamente responsáveis pelos eventos danosos que culminaram com as sequelas e danos sofridos pelo embargado, objetivamente o hospital devido a culpa manifesta de seu preposto médico.
+Permito-me utilizar os mesmos fundamentos esposados pelo Exmo. Sr. Desembargador Ênio Zuliani em seu substancioso voto proferido no julgamento da apelação ressaltando a adequação do valor fixado a título de danos morais.
+Destaco do referido voto os seguintes trechos:
+"É verdade que não se pode atribuir aos requeridos, com exclusividade, a responsabilidade pelo atual estado da coluna do requerente, cuja deterioração acarretou limitações físicas e a necessidade de intervenções cirúrgicas como tratamento, porquanto não se ignora que o autor era portador de um histórico de degeneração, com diagnóstico de hérnia de disco, tanto é que se submetera à discografia justamente para investigar a patologia preexistente.
+Porém, o conjunto probatório deixa claro que, independentemente do problema precedente, houve falha nos serviços médicos prestados pelos réus, culminando em grave infecção de coluna e perda de discos intervertebrais (inclusive de parte saudável), o que significa um atentado à integridade física do indivíduo e que não se insere no contexto da iatrogenia ou das fatalidades que o paciente deve o suportar por ser doente.
+Melhor explicando, é incontroverso que o autor passou, em 2 1.08.2003, por "discografia lombar", consistente na punção e injeção de contraste nos espaços intervertebrais, e que, em razão do exame, surgiu um quadro de inflamação e infecção na coluna (espondilodiscite). O perito, desde o primeiro laudo, afirmou categoricamente: "há nexo de causalidade entre o procedimento disco grafia e a ocorrência da infecção " Também é incontroverso, que, devido à espondilodiscite decorrente do procedimento realizado pelos réus, o autor necessitou permanecer internado por quase três meses, acusando dores intensas que não cediam com a forte medicação ministrada. Foi preciso, posteriormente, realizar tratamento (fisioterapia) diante da atrofia muscular e a recuperação adequada dos movimentos.
+(..)
+A perícia, portanto, conclui que o autor teve uma evolução no problema de coluna que já possuía, necessitando submeter-se a cirurgias em áreas que nem sequer foram afetadas pela discografia (L,5-S 1). Aí reside a razão pela qual os requeridos não podem ser condenados ao pagamento de indenização pela incapacidade parcial e permanente que acomete o autor. Por outro lado, os esclarecimentos periciais também autorizam concluir que, independentemente disso, o exame realizado pelos réus gerou complicação infecciosa, com necessidade de demorada internação hospitalar e comprometimento de discos intervertebrais (inclusive segmento ileso, L3-L4), o que potencializou a dor crônica e o processo de degeneração na coluna do autor.
+Não se pode admitir que um paciente que tenha hérnia de disco realize um exame diagnóstico e tenha como consequência o surgimento de um outro problema ou o agravamento de seu quadro. Os réus deverão responder, não pelo atual estado do autor (pois não se ignora a preexistência de processo degenerativo), mas, ao menos, pela falha na prestação de serviços médicos que lhe causou grave infecção, internação hospitalar prolongada, afastamento de suas atividades, tratamentos e, sobretudo, piora em sua patologia, com lesão até em segmento que era íntegro.
+Dessa forma, a alteração dessas premissas firmadas pela Corte Estadual esbarraria na vedação de reexame do conjunto fático-probatório por esta via do recurso especial, em virtude da Súmula nº 7/STJ.
+Saliento, outrossim, que a diminuição do valor da indenização a título de danos morais demandaria nova investigação acerca dos fatos e provas contidos no processo, de modo que o recurso especial, no ponto, também esbarra na Súmula já mencionada.
+Não desconheço que a jurisprudência do STJ, excepcionalmente, admite a revisão dos valores estipulados pelas instâncias ordinárias, quando ínfimos ou exagerados.
+Na hipótese, penso que o montante fixado atende às circunstâncias de fato da causa, afigura-se condizente com os princípios da proporcionalidade e da razoabilidade e não constitui causa geradora de enriquecimento ilícito.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ERRO MÉDICO. DANOS MORAIS E ESTÉTICOS. CRITÉRIOS DE FIXAÇÃO DO VALOR INDENIZATÓRIO. ATENDIMENTO AOS PADRÕES DA RAZOABILIDADE, PROPORCIONALIDADE E AOS CONTORNOS FÁTICOS DA DEMANDA. REDUÇÃO DO QUANTUM INDENIZATÓRIO. SÚMULA 7/STJ.
+1. Quanto ao valor da indenização estabelecida a título de danos morais e estéticos, impende salientar que, na via especial, não é cabível, em regra, a revisão do montante indenizatório fixado pela instância de origem, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ.
+2. Ressalte-se que a jurisprudência do Superior Tribunal de Justiça admite, em caráter excepcional, a alteração do quantum arbitrado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade.
+3. O recorrente, contudo, não logrou demonstrar que, na espécie, o valor arbitrado, R$ 30.000,00 (trinta mil reais) a título de danos morais e RS 30.000,00 (trinta mil reais) para fins de reparação pelos danos estéticos, seria excessivo, de forma que o acórdão recorrido deve ser mantido.
+4. Recurso Especial não conhecido.
+(REsp 1.671.677/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 3.8.2017, DJe 9.10.2017).
+DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. INFECÇÃO HOSPITALAR. RESPONSABILIDADE OBJETIVA DO HOSPITAL. ERRO MÉDICO.
+IMPERÍCIA NO DIAGNÓSTICO. VALOR FIXADO A TÍTULO DE DANOS MORAIS E ESTÉTICOS. EXORBITÂNCIA. CONFIGURADA. VALORIZAÇÃO DO MAGISTRADO DE PRIMEIRO GRAU DE JURISDIÇÃO. CONTATO COM AS PROVAS E AS PARTES.
+1. Ação ajuizada em 25/4/08. Recurso especial interposto em 30/11/2015 e concluso ao gabinete em 7/10/16. Julgamento: CPC/73.
+2. O propósito recursal é determinar se o hospital deve ser responsabilizado pelos danos causados a paciente infectada por micobactéria em razão da falha na esterilização de instrumentos cirúrgicos.
+3. A responsabilidade objetiva para o prestador do serviço prevista no art. 14 do CDC, na hipótese do hospital, limita-se aos serviços relacionados ao estabelecimento empresarial, tais como à estadia do paciente (internação), instalações, equipamentos e serviços auxiliares (enfermagem, exames, radiologia).
+4. É obrigação dos hospitais adotar o conjunto de ações desenvolvidas deliberada e sistematicamente com vistas à redução máxima possível da incidência e da gravidade das infecções hospitalares, sobressaindo sua responsabilidade objetiva quando a infecção for adquirida em razão da hospitalização do paciente (Lei 9.431/97).
+5. Na hipótese, o Tribunal de origem registrou que a infecção por micobactéria ocorreu durante a realização do procedimento cirúrgico enquanto a paciente estava hospitalizada, gerando danos de natureza material, moral e estética a serem reparados pelo nosocômio.
+6. Recurso especial conhecido e parcialmente provido.
+(REsp 1.642.307/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 5.12.2017, DJe 18.12.2017).
+Por fim, quanto ao posicionamento desta Corte em relação ao termo inicial dos juros de mora, com a reserva de meu ponto de vista em sentido contrário, adoto o entendimento majoritário da Segunda Seção, segundo o qual, no caso de indenização por dano moral puro decorrente de ato ilícito, os juros moratórios fluem a partir do evento danoso (Súmula 54 do STJ) e a partir da citação em caso de responsabilidade contratual.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. DENUNCIAÇÃO DA LIDE. JUROS DE MORA DO TRÂNSITO EM JULGADO. PÓS QUESTIONAMENTO. SÚMULA 211 DO STJ. DENUNCIAÇÃO DA LIDE. PARCIAL RESISTÊNCIA SEGURADORA. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL DOS JUROS DE MORA. CITAÇÃO. PRECEDENTES. HONORÁRIOS. REEXAME DE MATÉRIA PROBATÓRIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A insurgência de que os juros moratórios incidiriam somente do trânsito em julgado, nos termos dos arts. 240 do CPC e 397 e 398 do Código Civil, não merece acolhida, uma vez que tais dispositivos não foram trazidos pelo agravante como violados nas razões do recurso especial.
+2. A pretensão de ver analisados argumentos não veiculados anteriormente, mas trazidos somente em sede de agravo interno, não configura prequestionamento, e sim pós-questionamento. Incidência da Súmula 211/STJ.
+3. Em se tratando de responsabilidade contratual, os juros moratórios devem ser aplicados a partir da citação. Incidência da Súmula 83 do STJ.
+4. A apreciação do quantitativo em que autor e réu saíram vencidos na demanda, bem como a verificação da existência de sucumbência mínima ou recíproca, encontram inequívoco óbice na Súmula 7/STJ, por revolver matéria eminentemente fática.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.036.148/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 3.5.2017).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL. VAZAMENTO DE GÁS. EXPLOSÃO. INDENIZAÇÃO. DANO MORAL. OCORRÊNCIA. CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. REEXAME. SÚMULA Nº 7/STJ. VALOR ARBITRADO. RAZOABILIDADE. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. SÚMULA Nº 83/STJ.
+(..)
+4. Os juros de mora na responsabilidade contratual incidem desde a citação, conforme firme jurisprudência do Superior Tribunal de Justiça.
+5. Estando o acórdão recorrido em consonância com a jurisprudência pacífica desta Corte, tem incidência a Súmula nº 83/STJ.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 473.294/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 18.2.2016).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA INDEVIDA DE COBERTURA DE PROCEDIMENTO CIRÚRGICO. CONFIGURADO DANO MORAL. VALOR MANTIDO. TERMO INICIAL DOS JUROS DE MORA. CITAÇÃO. RECURSO NÃO PROVIDO.
+(..)
+3. Tratando-se, na hipótese, de responsabilidade contratual, os juros moratórios devem ser aplicados a partir da citação. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.373.276/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 2.6.2015).
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
