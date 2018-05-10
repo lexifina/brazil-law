@@ -1,0 +1,17 @@
+DECISÃO
+RICARDO BELCHIOR GONÇALVES alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 9226637-75.2005.8.26.0000).
+Consta dos autos que o paciente foi condenado à pena de 8 anos, 4 meses e 24 dias de reclusão, em regime fechado, mais multa, pela prática do delito previsto no art. 157, § 2º, I, II e V, na forma do art. 70, ambos do Código Penal. A Corte estadual deu parcial provimento ao recurso defensivo, a fim de redimensionar a pena para 7 anos, 2 meses e 12 dias.
+Os impetrantes sustentam a ocorrência de constrangimento ilegal, ao argumento de que o aumento da reprimenda, na terceira fase da dosimetria, ocorreu com base em critério quantitativo, violada a Súmula n. 443 do STJ. Por tal razão, requer a redução da pena.
+Não houve pedido liminar.
+Prestadas as informações (fls. 41-78), veio o parecer do Ministério Público Federal, que opinou pelo não conhecimento do writ (fls. 80-83).
+Decido.
+O Juízo monocrático elevou a pena em 1/2, na terceira fase da dosimetria, "em razão das qualificadoras, que, por serem três, justificam o acréscimo acima do mínimo" (fl. 27).
+A Corte de origem confirmou a fração aplicada, "pelas três qualificadoras" (fl. 17).
+Dos trechos acima transcritos, verifico que as instâncias ordinárias justificaram o aumento da pena, na terceira fase da dosimetria, apenas com base no número de majorantes incidentes no caso, sem apontar elementos dos autos (modus operandi, por exemplo) que, efetivamente, evidenciassem a real necessidade de exasperação da pena no patamar estabelecido.
+Este Superior Tribunal vem reiteradamente decidindo que, em se tratando de roubo com a presença de mais de uma causa de aumento, a majoração da pena acima do mínimo legal (um terço) requer devida fundamentação, com referência a circunstâncias concretas que justifiquem um acréscimo mais expressivo, não sendo suficiente a simples menção ao número de causas de aumento de pena, como ocorrido no caso em análise.
+Confira-se, a propósito, o seguinte precedente: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes. Súmula n. 443 do STJ" (HC n. 297.160/SP, 6ª T., de minha relatoria, DJe 3/11/2014).
+Ressalto que a matéria se encontra sumulada por esta Corte, em seu enunciado n. 443, verbis: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Caracterizada a coação ilegal, passo à readequação da pena.
+Partindo dos critérios adotados pela Corte estadual, verifico que a pena-base foi fixada em 4 anos de reclusão mais 10 dias-multa. Na segunda fase, a reprimenda permaneceu inalterada, pela compensação da reincidência com a confissão espontânea. Na terceira etapa, a sanção é reduzida em 1/3 pelo emprego de arma e pelo concurso de agentes, o que resulta em 5 anos e 4 meses de reclusão mais 13 dias-multa. Por fim, a pena foi elevada em 1/5, pela incidência do concurso formal de crimes, o que a torna, definitivamente estabelecida em 6 anos, 4 meses e 24 dias de reclusão, mais 15 dias-multa.
+À vista do exposto, concedo a ordem, a fim de reduzir a reprimenda para 6 anos, 4 meses e 24 dias de reclusão, mais 15 dias-multa.
+Publique-se e intimem-se.
