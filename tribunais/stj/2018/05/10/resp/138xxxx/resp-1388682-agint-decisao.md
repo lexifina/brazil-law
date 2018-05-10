@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO INTERNO RECURSO EXTRAORDINÁRIO. RECURSO DEVOLVIDO PELO STF. TEMA 339/STF. DECISÃO RECONSIDERADA. ENCAMINHAMENTO DOS AUTOS AO ÓRGÃO JULGADOR.
+DECISÃO
+Vistos.
+Cuida-se de agravo interno interposto por BANCO INDUSTRIAL E COMERCIAL S.A. contra decisão que negou seguimento a recurso extraordinário nos termos da seguinte ementa (fl. 1.729, e-STJ):
+"RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO ART. 93, INCISO IX, DA CONSTITUIÇÃO DA REPÚBLICA. TEMA 339/STF. NÃO OCORRÊNCIA. AFRONTA AO ART. 5º, INCISOS LIV E LV, DA CARTA MAGNA. TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO A QUE SE NEGA SEGUIMENTO."
+A parte agravante alega que o recurso extraordinário interposto tem por objetivo a anulação do acórdão recorrido em razão da negativa de prestação jurisdicional por ausência de fundamentação (Tema 339 - violação do art. 93, IX, da Constituição Federal).
+Defende que é inaplicável o Tema 660, por entender que é direito e garantia fundamental a fundamentação das decisões, princípio basilar do Estado Democrático do Direito.
+Afirma que os itens 1.2, 1.3, 1.4 e 1.5 e o pedido constantes das razões do recurso extraordinário demonstram a violação do dever de fundamentar.
+Argumenta que a "decisão vergastada não apreciou esses fundamentos e, "ipso facto", não ditou nenhuma norma jurídica concreta de contrariedade, limitando-se a abraçar o ditado pelo v. Acórdão, em clara violação aos artigos 5º, incisos XXXV, LIV e LV, e 93, IX, da Constituição Federal, ou seja, negativa de prestação jurisdicional e ausência de fundamentação" (fl. 1.896, e-STJ).
+Pugna pela reconsideração da decisão agravada, dando seguimento ao recurso extraordinário de modo a determinar o encaminhamento do processo ao Órgão Julgador, Primeira Turma, para a realização do Juízo de Retratação, a teor do art. 1030, inciso II, do CPC.
+O Estado do Rio Grande do Sul apresentou contrarrazões, pugnado pelo não provimento do agravo interno. Alega que é caso de aplicação dos Temas 339 e 660 da repercussão geral julgada pelo Supremo Tribunal Federal.
+É, no essencial, o relatório.
+Na hipótese dos autos, o acórdão recorrido foi proferido pela Primeira Turma do Superior Tribunal de Justiça nos termos da seguinte ementa (fl. 1.729, e-STJ):
+"PROCESSO CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. CÁLCULOS APRESENTADOS SEM A INCLUSÃO DOS JUROS FIXADOS NO TÍTULO JUDICIAL. APRESENTAÇÃO DE NOVOS CÁLCULOS NO CURSO DA EXECUÇÃO. POSSIBILIDADE. RENÚNCIA TÁCITA NÃO CONFIGURADA. RECURSO NÃO PROVIDO.
+1. "O julgamento proferido pelo tribunal substituirá a sentença ou a decisão recorrida no que tiver sido objeto de recurso" (art. 512 do CPC). Assim, embora o acórdão proferido na apelação incidente sobre a ação de conhecimento nada afirme sobre os juros moratórios, não abrangidos pelo recurso, prevalece aqueles expressamente fixados na sentença.
+2. É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que não ocorre prescrição intercorrente se a parte não deu causa à paralisação do feito.
+3. "A renúncia ao crédito exeqüendo remanescente, com a conseqüente extinção do processo satisfativo, reclama prévia intimação, vedada a presunção de renúncia tácita" (REsp 1.143.471/PR, Rel. Min. LUIZ FUX, sob o rito do art. 543-C do CPC, DJe 22/2/10).
+4. Recurso especial não provido."
+Por sua vez, os embargos de declaração opostos foram rejeitados (fls. 1.786/1.800, e-STJ).
+No que concerne ao pedido de encaminhamento dos autos ao órgão julgador, entendi que seria o caso de admitir o recurso extraordinário, nos termos do art. 1.030, inciso V, alínea "a", do CPC, porquanto presentes os pressupostos de admissibilidade do referido apelo (fls. 1.849/1851, e-STJ). Todavia, a Ministra Cármen Lúcia determinou a sua devolução a esta Corte para (fl. 1.865, e-STJ):
+"a) quanto ao Tema 339, observar o procedimento previsto nos incs. I e II do art. 1.030 do Código de Processo Civil; e
+b) quanto ao Tema 660, observar o procedimento previsto na al. a do inc. I do art. 1.030 do Código de Processo Civil".
+Nesse contexto, neguei seguimento ao recurso extraordinário com fundamento nos Temas 339 e 660 do STJ, por entender - em princípio - que a fundamentação adotada pelo acórdão da Primeira Turma do Superior Tribunal de Justiça seria suficiente para deslinde da controvérsia (fls. 1.870/1.875, e-STJ). Todavia, a parte ora agravante alega que os itens 1.2, 1.3, 1.4 e 1.5 do seu recurso extraordinário demonstram que o acórdão impugnado teria violado o dever de fundamentar as decisões judiciais (art. 93, IX, da CF).
+Com efeito, nesta fase processual, não cabe à Vice-Presidência a verificação do acerto ou desacerto da motivação adotada no provimento judicial atacado, por extrapolar os limites da cognição inerente ao juízo de admissibilidade exercido por esta Vice-Presidência. No entanto, considerando que os autos foram admitidos e, em seguida, devolvidos pelo Supremo Tribunal Federal para " ..  quanto ao Tema 339, observar o procedimento previsto nos incs. I e II do art. 1.030 do Código de Processo Civil" (fl. 1.865, e-STJ), tenho, em meu sentir, que cabe ao órgão julgador - precipuamente - o pronunciamento sobre a adequação ou não ao tema designado pela Suprema Corte.
+Por fim, considero, neste momento, prejudicado o exame da eventual adequação ao Tema 660/STF, conforme decidido pelo Supremo Tribunal Federal (fl. 1.865, e-STJ).
+Ante o exposto, com fundamento no art. 1.021, § 2º, do Código de Processo Civil, reconsidero a decisão agravada para determinar o encaminhamento do processo ao órgão julgador para fins do disposto no art. 1.030, II, da referida lei processual (Tema 339/STF).
+Publique-se. Intimem-se.
