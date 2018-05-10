@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE TEIXEIRA FELIX E OUTRA contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Apelação Cível. Compromisso de compra e venda. Rescisão contratual e reintegração de posse. Recurso dos réus. Ilícitos consumeristas não evidenciados. Validade do contrato firmado. Ausência de onerosidade excessiva. Apelação da autora. Sentença mantida. Recursos improvidos. Direito dos réus à indenização pelas benfeitorias e/ou acessões feitas no imóvel. Devida taxa de fruição no valor de 0,5% do valor do imóvel. Valores que devem ser apurados em liquidação, compensando-se as quantias. Irrelevância do fato de a construção não se encontrar regularizada junto à prefeitura municipal. Recurso dos autores improvidos e recurso da ré parcialmente provido" (e-STJ fl. 653).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 489, III e IV, e 1.022, I e II, do Código de Processo Civil de 2015, ao fundamento de que o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios, e
+(ii) arts. 139 e 422 do Código Civil, 17, § 2º, da Lei nº 11.428/2006 e 108 do Decreto nº 6.514/2008, pois o acórdão recorrido baseou-se em premissas equivocadas, atribuiu qualificação jurídica inadequada aos fatos e cometeu erro essencial, devendo ser reformado para reconhecer que os termos contratuais são excessivamente onerosos e abusivos, lesando e prejudicando os recorrentes, ferindo os princípios da probidade e da boa-fé objetiva.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+De início, observa-se que a alegação de negativa de prestação jurisdicional foi formulada de forma genérica, sem especificação das supostas omissões ou teses que deveriam ter sido examinadas pelo Tribunal de origem. Ante a deficiente fundamentação do recurso neste ponto, incide, por analogia, a Súmula nº 284/STF.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA DE AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. VALOR DO CONTRATO. RADIOGRAFIA. DOCUMENTO UNILATERAL. LIMITE DOS RENDIMENTOS. TRÂNSITO EM JULGADO. TRANSFORMAÇÕES ACIONÁRIAS. INCLUSÃO DEVIDA. ART. 535, II, DO CPC/1973. AUSÊNCIA DE OMISSÕES. SÚMULA 284 DO STF. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO. SÚMULAS 283 E 284 DO STF. MATÉRIAS QUE DEMANDAM REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode conhecer da apontada violação do art. 535, II, do antigo CPC/1973, pois as alegações que a fundamentaram são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+2. No caso, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido nesse ponto, o que denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3. A decisão que rejeitou a impugnação ao cumprimento de sentença amparou-se nos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ) e impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+4. Agravo interno não provido" (AgInt no AgInt no AREsp 932.983/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 24/2/2017 - grifou-se).
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. VIOLAÇÃO DO ART. 535 DO CPC DE 1973. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF. TESTAMENTO PÚBLICO. OBSERVÂNCIA DAS FORMALIDADES NECESSÁRIAS. INEXISTÊNCIA DE VÍCIOS EXTERNOS. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DEMAIS TESES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO IMPROVIDO.
+1. É inviável apreciar a apontada ofensa ao art. 535 do CPC de 1973, pois a deficiente fundamentação do inconformismo enseja a aplicação do óbice descrito no enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+2. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula 211/STJ).
+3. Esbarra no enunciado 7 da Súmula do STJ a revisão, na via estreita do recurso especial, das conclusões tomadas pelo Tribunal de origem quanto ao devido cumprimento de todos os requisitos previstos na legislação vigente no momento da confecção do testamento, à inexistência de vício externo que o torne suspeito de nulidade ou falsidade e à ausência de provas acerca de eventual vício de consentimento.
+4. Agravo interno improvido" (AgInt no AREsp 883.695/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 9/3/2017 - grifou-se).
+Ademais, impende asseverar que cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pelo recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CHEQUES. RECONSIDERAÇÃO DA DECISÃO MONOCRÁTICA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial são inadmissíveis.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+6. Agravo interno provido. Agravo conhecido. Recurso especial não conhecido" (AgInt no AREsp 1.033.786/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 20/6/2017 - grifou-se).
+No que se refere à ofensa aos arts. 139 e 422 do Código Civil, 17, § 2º, da Lei nº 11.428/2006 e 108 do Decreto nº 6.514/2008, verifica-se que a matéria versada nos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+De mais a mais, as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+Isso porque, os réus não demonstram a onerosidade excessiva alegada.
+Ora, verifica-se que o preço estipulado no contrato está correto, não havendo provas de que os réus tenham sofrido qualquer tipo de vício em seu consentimento no momento de assiná-lo.
+Ademais disso, tendo a vendedora de aguardar por anos o retorno de seu investimento, realmente o valor ao final do financiamento não seria proporcional ao valor à vista, não havendo que se falar em ilegalidade das taxas aplicadas.
+Assim, o pacta sunt servanda deverá ser preservado. Como bem salientado pelo magistrado "a quo" se o preço do imóvel deveria ser menor em razão do efetivo valor do lote, então, cumpre apenas admitir que os réus fizeram um mal negócio.
+Assim, não é o caso de se acolher a pretensão dos réus para que seja considerado o real valor do imóvel aquele à vista, ou seja, no montante de R$12.000,00" (e-STJ fl. 656).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos pelos ora recorrentes, em favor do advogado da parte recorrida, em R$ 200,00 (duzentos reais), valor que deve ser acrescido àquele fixado pelas instâncias de origem, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
