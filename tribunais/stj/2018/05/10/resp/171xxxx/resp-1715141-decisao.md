@@ -1,0 +1,40 @@
+DECISÃO
+CDT TRANSPORTES LTDA-ME ajuizou ação ordinária contra a AGÊNCIA NACIONAL DE TRANSPORTE TERRESTRES - ANTT, objetivando tutela jurisdicional para declarar a inexigibilidade das multas decorrentes dos Autos de Infração n. 3739526 e 3740210, lavrados pela autarquia ré, relacionadas à conduta de "evadir, obstruir ou de qualquer forma dificultar a fiscalização", prevista no art. 34, VII, da Resolução ANTT n. 3.056/2009.
+O Tribunal Regional Federal da 4ª Região negou provimento à apelação da sociedade empresária e manteve inalterada a decisão monocrática de improcedência da ação, fundamentada na inaplicabilidade das disposições do Código de Trânsito Brasileiro à hipótese dos autos, nos termos da seguinte ementa (fl. 217):
+ADMINISTRATIVO. AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT. RESOLUÇÃO Nº 3056/00. AUTO DE INFRAÇÃO. PRESUNÇÃO DE LEGITIMIDADE NÃO AFASTADA.
+1. A sanção aplicada não tem natureza jurídica de penalidade de trânsito, por não decorrer de infração à regra da Lei nº 9.503/97. Há transgressão a dever da concessionária de serviço de transporte terrestre de passageiros, verificada pela fiscalização da ANTT, no cumprimento de seu dever de polícia.
+2. Não se aplica o Código de Trânsito Brasileiro, mas o prazo prescricional de cinco anos, previsto no artigo 1º da Lei nº 9.873/99.
+3. Manutenção da sentença de improcedência.
+CDT Transportes Ltda - ME interpõe o presente recurso especial, com fundamento no artigo 105, inciso III, alínea a, da Constituição da República, no qual aponta violação, pelo aresto vergastado, dos arts. 21, 209, 210, 231, 278, 281 e 282, todos do Código de Trânsito Brasileiro (Lei n. 9.503/97), porquanto, em síntese, as infrações, objeto da demanda, tratam-se de infrações de trânsito e, como tais, devem ser reguladas pelas disposições do Código de Trânsito Brasileiro, especificamente quanto à exigência de dupla notificação da pessoa jurídica proprietária do veículo autuado.
+Aponta, ainda, violação do enunciado sumular n. 312 do STJ que assim dispõe, in verbis: "No processo administrativo para imposição de multa de trânsito, são necessárias as notificações da autuação e da aplicação da pena decorrente da infração".
+Apresentadas contrarrazões ao recurso especial às fls. 272-285.
+É o relatório. Decido.
+Com relação à alegada violação dos arts. 21, 209, 210, 231, 278, 281 e 282 do CTB, suscitada no apelo nobre, o Tribunal a quo, na fundamentação do decisum, assim firmou entendimento (fls. 211-212):
+ ..
+No caso dos autos, a sociedade empresária autora pretende a anulação de auto de infração lavrado pela ANTT em virtude de veículo de sua propriedade ter cometido a seguinte infração: "evadir, obstruir ou de qualquer forma, dificultar a fiscalização".
+Cumpre registrar que a infração e multa objeto da presente lide têm como fundamento a legislação que disciplina os transportes terrestres no Brasil, qual seja, a Lei nº 10.233/2001, que instituiu a ANTT e lhe conferiu competência para:
+ ..
+De acordo com o auto de infração, verifica-se que a conduta do requerente foi tipificada no artigo 34, inciso VII, da Resolução ANTT nº 3.054/2009, verbis:
+ ..
+De outra banda, observo que restou consignado no referido auto que o "condutor desobedeceu a sinalização evadindo-se da fiscalização, por fora da balança, pela rodovia", conduta que se amolda ao artigo 34, inciso VII acima descrito.
+Com efeito, a sanção aplicada à autora não tem natureza jurídica de penalidade de trânsito, por não decorrer de infração à regra da Lei nº 9.503/97. Houve transgressão a dever da concessionária de serviço de transporte terrestre de passageiros, verificada pela fiscalização da ANTT, no cumprimento de seu dever de polícia. Assim, não se aplica ao caso o Código de Trânsito Brasileiro, mas o prazo prescricional de cinco anos, previsto no artigo 1º da Lei nº 9.873/99, verbis:
+ ..
+Desse modo, tendo o Tribunal a quo, com base no acervo fático carreado aos autos, concluído que a sanção aplicada a recorrente não seria motivada por infração de trânsito, mas sim por desobediência e oposição à ação de fiscalização da ANTT no cumprimento de seu poder de polícia, a revisão de tal entendimento demandaria, necessariamente, o revolvimento dos mesmos elementos fáticos e probatórios já analisados (dentre eles a citada Resolução ANTT nº 3.056/2009), procedimento esse vedado no âmbito do recurso especial, por óbice da Súmula n. 7/STJ que assim dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ademais, é forçoso ressaltar que a jurisprudência desta Corte é pacífica no sentido de não ser possível, pela via do recurso especial, a análise de normas infralegais, tais como convênios, portarias, regimentos internos, regulamentos, resoluções, etc., porquanto tais instrumentos administrativos não se enquadram no conceito de lei federal ou tratado.
+Com relação à apontada violação do enunciado sumular n. 312 do STJ, é forçoso destacar, mais uma vez, que a interposição de recurso especial não é cabível quando ocorre violação de súmula ou qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no artigo 105, inciso III, alínea a, da Constituição da República.
+A esse respeito, os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXAME DE VIOLAÇÃO DE SÚMULA. IMPOSSIBILIDADE. ANÁLISE DE MATÉRIA CONSTITUCIONAL. INVIÁVEL NA VIA ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 535, II, CPC/1973. INEXISTÊNCIA. REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A Súmula 106/STJ não se enquadra no conceito de lei federal referido pelo art. 105, III, da CF/1988. Desse modo, inviável o exame da assertiva de infringência ao citado verbete.
+2. É vedado, na via especial, examinar a existência de afronta a normativo constitucional, sob pena de usurpação da competência da Suprema Corte.
+3. Não merece prosperar a tese de ofensa ao art. 535, II, do CPC/1973, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada, resolvendo todas as questões levantadas pelos agravantes. 4. Observa-se, a partir dos fundamentos lançados pela Corte de origem, que a causa controvertida foi decidida com suporte no conjunto fático-probatório acostado aos autos. Assim, para rever tais conclusões, seria necessário efetuar o revolvimento das provas, o que é vedado nesta via pela Súmula 7 do STJ.
+5. Agravo interno a que se nega provimento (AgInt nos EDcl no AREsp 810216/RS, Relator Ministro OG FERNANDES, SEGUNDA TURMA, Julgamento em 15/03/2018, DJe 21/03/2018).
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. INCIDENTE DE EXCEÇÃO DE INCOMPETÊNCIA. AGRAVO INTERNO. VIOLAÇÃO DE SÚMULA E PRINCÍPIOS. DESCABIMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. A interposição de recurso especial não é cabível quando ocorre violação de súmula, princípios ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+2. A ausência de decisão acerca do dispositivo legal indicado como violado impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno não provido (AgInt no AREsp 1130101/RS, Relator Ministra NANCY ANDRIGHI, TERCEIRA TURMA, Julgamento em 20/03/2018, Dje 23/03/2018).
+Observado que o entendimento aqui consignado, lastreado na jurisprudência, é prevalente no Superior Tribunal de Justiça, aplica-se o enunciado da Súmula n. 568/STJ, nestes termos:
+O relator, monocraticamente e no STJ, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RI/STJ, conheço parcialmente do recurso especial e, nesta parte, nego-lhe provimento.
+Publique-se. Intimem-se.
