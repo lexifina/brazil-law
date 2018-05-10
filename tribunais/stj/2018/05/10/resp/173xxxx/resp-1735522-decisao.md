@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] - FEDERAÇÃO INTRAFEDERATIVA DAS COOPERATIVAS MÉDICAS, com esteio no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"PLANO DE SAÚDE. Autor que contribuiu por mais de 10 (dez) anos ao plano de saúde coletivo oferecido por sua ex - empregadora. Direito de ser mantido em plano com a mesma cobertura assistencial aplicável no período de vigência do contrato de trabalho, por prazo indeterminado, desde que assuma o pagamento integral do prêmio. Inteligência do art. 31, "caput" da Lei nº 9.656/1998. Plano que era integralmente custeado pela empresa. Beneficio assegurado ao apelado durante todo seu contrato de trabalho. Remuneração indireta.
+Inadmissibilidade da criação de planos distintos para os empregados da ativa e os aposentados. Sentença parcialmente reformada.
+RECURSO DO AUTOR PARCIALMENTE PROVIDO, DESPROVIDO O DA RÉ" (e-STJ fl. 435).
+Nas razões do especial , a recorrente alega violação do artigo 30 da Lei nº 9.656/1998.
+Sustenta que o ex-empregado aposentado, para ser mantido no plano de saúde coletivo, precisa ter contribuído diretamente com o pagamento de mensalidades, o que não foi o caso dos autos, haja vista o custeio integral do plano pela ex-empregadora.
+Afirma que a legislação de regência é clara em exigir a contribuição do empregado para auferir o direito nela previsto.
+Argumenta estar incontroverso nos autos que o plano era totalmente pago pela ex-empregadora, não sendo a contribuição indireta capaz de conferir o direito de nele permanecer.
+Sem contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+Cinge-se a controvérsia a saber se o ex-empregado aposentado ou demitido sem justa causa faz jus à manutenção no plano de saúde coletivo empresarial quando, na atividade, a contribuição foi suportada apenas pela empresa empregadora.
+No caso dos autos, não há dúvidas de que a parte autora, ora recorrida, no decurso do contrato de trabalho, não contribuía para o plano de saúde, tendo o aresto atacado entendido que o benefício do plano de saúde se trata de salário indireto.
+Em outras palavras, a contribuição era suportada integralmente pela empregadora. Assim, em virtude da ausência de parcela fixa periódica (mensalidade), somada ao fato de não se enquadrar o serviço oferecido como salário indireto, não pode o demandante permanecer como beneficiário após se tornar inativo, pois não preenchidos os requisitos de custeio exigidos pelos arts. 30 e 31 da Lei nº 9.656/1998.
+De fato, não procede a pretensão ventilada na inicial, já que para os arts. 30 e 31 da Lei nº 9.656/1998 há a necessidade de contribuição do empregado, entendida esta como a parte paga referente à mensalidade do plano de saúde.
+Tal questão restou decidida pelas Turmas Julgadoras da Segunda Seção desta Corte Superior conforme demonstram os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. ASSISTÊNCIA MÉDICA. MANUTENÇÃO. ART. 31 DA LEI 9.656/98. REQUISITOS NÃO PREENCHIDOS. CONTRATO DE TRABALHO. VIGÊNCIA. CONTRIBUIÇÃO EXCLUSIVA DO EMPREGADOR.
+1. A Quarta Turma, em recente julgado, posicionou-se no sentido de que "os valores pagos pelo ex-empregado, única e exclusivamente, a título de coparticipação ou franquia em procedimentos, como fator de moderação na utilização dos serviços, não caracterizam contribuição e, consequentemente, não ensejam o exercício do direito de manutenção no plano de saúde coletivo empresarial previsto nos artigos 30 e 31 da Lei 9.656/98" (REsp 1.608.346/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/10/2016, DJe de 30/11/2016) 2. No caso, tendo o plano de saúde sido financiado integralmente pela ex-empregadora, não estão caracterizados os requisitos necessários para sua manutenção nas mesmas condições do plano de saúde coletivo de quando empregado.
+3. Agravo interno não provido" (AgInt no AgInt no REsp 1.615.164/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/02/2017, DJe 14/03/2017).
+"AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 458 DA CLT. AUSÊNCIA DE PREQUESTIONAMENTO. EX-EMPREGADO APOSENTADO. MANUTENÇÃO DA ASSISTÊNCIA MÉDICA. ART. 31 DA LEI N. 9.656/1998. REQUISITOS NÃO PREENCHIDOS. VIGÊNCIA DO CONTRATO DE TRABALHO. CONTRIBUIÇÃO EXCLUSIVA DO EMPREGADOR. COPARTICIPAÇÃO DO USUÁRIO. IRRELEVÂNCIA. AGRAVO INTERNO IMPROVIDO.
+1. Inadmissível o recurso especial quanto a questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (enunciado n. 211 da Súmula do STJ).
+2. A Terceira Turma desta Corte adotou entendimento no sentido de que, nos termos do art. 30, § 6º, da Lei n. 9.656/1998, "não é considerada contribuição a coparticipação do consumidor, única e exclusivamente, em procedimentos, como fator de moderação, na utilização dos serviços de assistência médica ou hospitalar, como ocorre nos planos coletivos custeados integralmente pela empresa". (REsp n. 1.594.346/SP, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/8/2016, DJe 16/8/2016).
+3. Dessa forma, havendo tão somente a coparticipação do empregado quando utilizado o plano de saúde, sem o pagamento de uma mensalidade, não há que se falar em contribuição e, portanto, não há direito à permanência como beneficiário do plano de saúde.
+4. Agravo interno improvido" (AgInt no AgInt no REsp 1.614.149/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/02/2017, DJe 13/02/2017).
+Ante o exposto, dou provimento ao recurso especial para julgar improcedentes os pedidos formulados na petição inicial, invertidos os ônus de sucumbência, observada a justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
