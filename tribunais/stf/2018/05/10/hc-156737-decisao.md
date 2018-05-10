@@ -1,0 +1,19 @@
+Decisão:
+Ementa: Penal e processual penal. Habeas corpus. Prisão preventiva. Excesso de prazo. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que julgou prejudicado o HC 433.037, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso em flagrante e posteriormente denunciado pela prática dos crimes previstos nos arts. 157, §2º, I, (duas vezes), 329, 330 e 333, do Código Penal. A prisão em flagrante foi convertida em preventiva.
+    3. Foi, então, impetrado habeas corpus no Tribunal de Justiça do Estado do Ceará, denegado.
+    4. Em seguida, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 433.037, Ministro Jorge Mussi, julgou prejudicado o writ.
+    5. Neste habeas corpus, a parte impetrante sustenta que o Superior Tribunal de Justiça julgou “prejudicado o writ sob o fundamento de que a instrução já finalizou”, mas “que não se sabe ao certo se a audiência se realizou, pois, o advogado que ora subscreve é o mesmo advogado da instrução (doc. 15) e ele não estava presente naquele feito”. Na sequência, sustenta que “não há agendamento de uma data para se realizar a audiência e finalizar a instrução probatória restando o processo interminável”.
+    6. Com esses fundamentos, requer “seja imediatamente relaxada a prisão ilegal do paciente” ou, subsidiariamente, seja concedida “a liberdade provisória do paciente, aplicando as medidas cautelares diversas da prisão”.
+    Decido.
+    7. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do STF, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    8. Com efeito, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes. II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte. III – Agravo regimental a que se nega provimento.”
+    9. Por outro lado, não é caso de concessão da ordem de ofício. Tal como deixou consignado o Superior Tribunal de Justiça, em consulta à pagina oficial do Tribunal de Justiça do Estado do Ceará na internet, verifico que a audiência de instrução e julgamento foi realizada em 20.03.2018. De modo que agiu bem a autoridade impetrada, ao reconhecer o prejuízo da tese de excesso de prazo para a conclusão da instrução criminal.
+    10. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 10 de maio de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                  Documento assinado digitalmente
