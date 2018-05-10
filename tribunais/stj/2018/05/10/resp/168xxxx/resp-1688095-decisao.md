@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o magistrado de piso não aceitou denúncia apresentada pelo ora recorrido por entender se tratar de fato atípico a conduta perpetrada pelo recorrente.
+Irresignado o parquet e interposto recurso em sentido estrito, restou este provido por acórdão assim ementado (e-STJ, fl. 55):
+PENAL. RECURSO EM SENTIDO ESTRITO. FURTO TENTADO. REJEIÇÃO DA DENÚNCIA  PRINCÍPIO DA INSIGNIFICÂNCIA. DESCABIMENTO. AUSÊNCIA DE PREVISÃO LEGAL.
+O Princípio da "insignificância" ou da "bagatela" não possui previsão no ordenamento jurídico pátrio, razão pela qual e de impossível aplicação. Precedente. Existência, ademais, de penas mais brandas aos denominados "crimes bagatelares", tal como, na espécie, o furto privilegiado. Acusado, ademais, que ostenta condenação definitiva anterior por delito de roubo, com possível valoração, oportunamente, como fato caracterizador de "reincidência", circunstância pessoal, esta, que é colocada como óbice para a concessão da benesse para a vertente que reconhece legitimidade na aplicação do princípio da insignificância. Conduta, enfim, j  pica, impondo-se o recebimento da incoativa porque presentes prova da materialidade delitiva e suficientes indícios de autoria.
+Recurso provido, com recebimento da denúncia.
+Na petição de recurso especial, a parte recorrente alega violação aos arts. 14 e 155, caput, do Código Penal.
+Requer a aplicação do princípio da insignificância e, consequentemente, a absolvição do réu.
+Contrarrazões às fls. 84/88.
+Admitido o recurso (fls. 91) os autos vieram a esta Corte.
+Parecer ministerial nos termos da seguinte ementa (e-STJ, fl. 114):
+RECURSO ESPECIAL. PENAL E PROCESSO PENAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REINCIDÊNCIA. REQUISITOS DE MÍNIMA OFENSIVIDADE DA CONDUTA E REDUZIDO GRAU DE REPROVABILIDADE DO COMPORTAMENTO DO AGENTE. NÃO PREENCHIMENTO. RES FURTIVA. VALOR NÃO IRRISÓRIO. DECISÃO DO TRIBUNAL DE ORIGEM DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA Nº 83. PELO NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+É o relatório. Decido.
+Não merece provimento a pretensão recursal.
+A parte recorrente requer, em suma, a aplicação do princípio da insignificância ao caso concreto.
+Quanto ao tema, o Tribunal de origem ressaltou (e-STJ, fl. 58):
+Com a devida vênia, reputa-se ser impossível a aplicação do "princípio da insignificância" ou "da bagatela " , quer na espécie, quer de forma abstrata, posto que inexiste previsão legal para tanto, sendo tal instituto mera criação doutrinária importada de maneira questionável e duvidosa de ordenamentos jurídicos estrangeiros, tal como o alemão.
+Particularmente, entende-se que, considerar como atípica a prática de crimes patrimoniais, cujo prejuízo ocasionado à vítima não ultrapasse certo marco, como por exemplo, um salário mínimo, na atual conjuntura do país, somente serviria para incentivar delinquentes a perpetraram pequenos crimes de maneira reiterada, para ao final de certo interregno, auferirem significativo lucro, sem serem responsabilizados penalmente por suas condutas.
+Oportuno refletir qual impacto a aplicação desta tese surtiria em uma sociedade em que alguns de seus membros careçam de valores mínimos de cidadania, ética e moral, o que, infelizmente, não pode ser descartado para qualquer parte do mundo atual.
+(..)
+Ademais, a Lei nº 9.099/95, e mais recentemente a Lei nº 10.259/01, definiram que são considerados crimes de menor potencial ofensivo aqueles cuja pena cominada não supere a dois anos. Como corolário, ao estabelecer os limites da menor ofensividade em razão da pena cominada, implicitamente ficou vedada, tanto ao legislador ordinário, como ao operador do direito, a criação de uma nova figura, ainda inferior, dos "crimes bagatelares", por meio da eleição de outros critérios.
+(..)
+Deve ser ponderado, também, que o recorrido ostenta condenação definitiva anterior por delito de roubo, com possível valoração, oportunamente, como fato caracterizador de " reincidência " (pena julgada extinta, pelo cumprimento, em 24/05/2011 , conforme Folha de Antecedentes grampeada à contra capa do apenso específico de antecedentes).
+Isso porque a corrente minoritária de vanguarda que defende a aplicação do princípio ora em exame tem colocado, também, como óbices para a concessão da benesse, a presença de circunstâncias pessoais desfavoráveis, como a reincidência , e do" crime, como qualificadoras no caso do delito de furto.
+(..)
+De saída, pontua-se que, independente do entendimento sufragado (pela possibilidade ou não de aplicação do mencionado princípio), não pode ser considerada insignificante a tentativa de subtração de bem avaliado em R$ 220,00 (duzentos e vinte reais), montante correspondente à aproximadamente 1/4 (um quarto) do salário mínimo vigente, surgindo irrelevante se houve restituição ou não, porquanto deve ser ponderado, objetivamente o valor do que se pretendia subtrair (inclusive para reconhecimento da figura privilegiada, na dicção do artigo 155, §2º, do Código Penal, apesar de aparentemente não ser o caso na espécie, em face da existência de circunstância pessoal desfavorável, registrando-se, porque pertinente, que não houve acréscimo no prejuízo em razão de circunstâncias concretas do crime ou qualificadoras), mais uma razão para o não acolhimento da decisão como motivada.
+Destarte, o posicionamento desta Corte Especial esclarece que "consoante o entendimento firmado no Supremo Tribunal Federal, a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada (HC n. 84.412/SP, de relatoria do Ministro Celso de Mello, DJU 19/4/2004)." (AgRg no HC 429.890/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 12/04/2018)
+Na hipótese, além do valor do bem superar os 10% do salário mínimo vigente à época do delito (R$ 788,00 conforme disposto no Decreto n. 8.381/14), critério que esta Corte definiu como parâmetro objetivo para a aplicação do referido princípio, consta nos autos a existência de elementos probatórios a indicar a habitualidade criminosa do paciente - é reincidente em delitos patrimoniais -, conforme se extrai da decisão vergastada, o que torna inviável a aplicação do princípio da insignificância.
+Neste sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA E CONTUMÁCIA DELITIVA. INAPLICABILIDADE. DECISÃO MANTIDA.
+I - Esta Corte tem entendimento pacificado no sentido de que não há que se falar em atipicidade material da conduta pela incidência do princípio da insignificância quando não estiverem presentes todos os vetores para sua caracterização, quais sejam: (a) mínima ofensividade da conduta; (b) nenhuma periculosidade social da ação; (c) reduzido grau de reprovabilidade do comportamento, e; (d) inexpressividade da lesão jurídica provocada.
+II - É inaplicável, na hipótese, o denominado princípio da insignificância, tendo em vista que, apesar do pequeno valor da res furtiva, o recorrente é reincidente e contumaz na prática de delitos patrimoniais.
+Agravo regimental não provido.
+(AgRg no AREsp 1215424/DF, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 27/03/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. IMPOSSIBILIDADE. REINCIDÊNCIA ESPECÍFICA. VALOR DA RES FURTIVA. AGRAVO NÃO PROVIDO.
+1. As instâncias ordinárias destacaram que o agravante registra mais de uma condenação definitiva pretérita por crimes de mesma natureza, a evidenciar a sua contumácia em condutas destinadas a subtrair o patrimônio alheio, o que, nos termos da jurisprudência desta Corte Superior, é suficiente para obstar, por si só, a incidência do princípio da insignificância.
+2. Além disso, o valor dos bens subtraídos (R$ 130,00) não permite concluir pela inexpressividade da lesão jurídica, nos termos da jurisprudência do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+(AgRg no AREsp 1005824/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 11/05/2017)
+Destarte, não merece provimento a pretensão recursal.
+Ante o exposto, com fundamento no art. 932, inc. IV, alínea  a , do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
