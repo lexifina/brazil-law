@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO EXTRAJUDICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF E 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Rio de Janeiro que não admitiu o recurso especial apresentado por [NOME] e [NOME], com base no art. 105, III, a e c, da CF, desafiando acórdão assim ementado (e-STJ, fl. 307):
+DIREITO ADMINISTRATIVO. PROCESSO CIVIL. AGRAVO RETIDO. APELAÇÃO. SFH. EXECUÇÃO EXTRAJUDICIAL. DL 70/66. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. REPERCUSSÃO GERAL. SOBRESTAMENTO. DESNECESSIDADE. LEILOEIRO. AGENTE FIDUCIÁRIO.
+1. A sentença negou, acertadamente, a anulação da execução extrajudicial do imóvel dado em garantia de financiamento; a expedição de oficio ao RGI para ciência da ação a terceiros de boa-fé; e a não inclusão dos nomes dos autores em órgãos de proteção ao crédito.
+2. Inexistindo Agravo Retido, não se conhece do requerimento genérico que objetiva acautelar a eventualidade de sua interposição, sem atender às formalidades do artigo 523 do CPC.
+3. Na inicial não há pedido de revisão de prestações e saldo devedor, sendo desnecessária perícia contábil para aferir irregularidade em procedimento de execução extrajudicial.
+4. É constitucional o procedimento do Decreto-lei nº 70/66, sendo certo que, no caso, os autores foram notificados pessoalmente para purgar a mora pelo 6º Oficio de Registro de Títulos e Documentos do Rio de Janeiro/RJ. Precedentes.
+5. O reconhecimento pela Suprema Corte da repercussão geral sobre determinada matéria não impede o julgamento do feito no Tribunal.
+6. Aplica-se somente à execução judicial a restrição profissional às atividades do leiloeiro público impostas no Decreto nº 21.981/32. Precedentes.
+7. Nos contratos vinculados ao SFH não há exigência de comum acordo entre credor e devedor na escolha do agente fiduciário para promover a execução extrajudicial.
+Precedentes.
+8. Apelação desprovida.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 321-329).
+Em suas razões de recurso especial (e-STJ, fls. 332--372), os recorrentes alegaram ofensa aos arts. 247, 292, 333, 420, 421, 458, 535, 543-B, 583, 586, 615 e 618 do Código de Processo Civil de 1973; 421, 422, 586 e 778 do Código de Processo Civil de 2015; 5º e 6º da Lei n. 4.380/1964; 31 e 32 do Decreto-Lei n. 70/1966; 19 do Decreto-Lei n. 21.991/1932; 20 do Código de Organização Judiciária; 167 da Lei n. 6.015/1973; e 2º, 3º e 6º da Lei n. 8.078/1990.
+Sustentaram, em síntese, a ausência de prestação jurisdicional; irregularidade no processo de execução extrajudicial, tendo em vista o ilícito inadimplemento do mutuário; ser impositiva a intimação pessoal dos devedores na realização do leilão, sob pena de anulação da arrematação; a necessidade de registro de citação, a fim de resguardar direitos de terceiros; e a ocorrência de danos morais.
+Foram apresentadas contrarrazões (e-STJ, fls. 391-397).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da incidência da aplicação da Súmula n. 211 do STJ (e-STJ, fl. 401).
+Brevemente relatado, decido.
+Inicialmente, observo que não há violação do art. 535 do CPC/1973, porquanto o acórdão recorrido dirimiu a causa com base em fundamentação sólida, sem nenhuma omissão ou contradição. Ademais, o órgão julgador não está obrigado a responder questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos. Ainda, o acórdão esclarece a controvérsia, apontando argumentos consistentes, o que não se confunde com omissão ou contradição, tendo em vista que apenas apresentou fundamentos diferentes dos pretendidos pela parte insurgente.
+Nessa linha:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. SERVIDOR PÚBLICO ESTADUAL. CONTROVÉRSIA SOBRE CARGA HORÁRIA DE MAGISTÉRIO, DENTRO E FORA DE SALA DE AULA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DE DIREITO LOCAL. IMPOSSIBILIDADE, NA VIA ESPECIAL, DE REVISÃO. SÚMULA 280/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+II. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão dos Embargos Declaratórios apreciaram, fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+IV. Agravo interno improvido.
+(AgInt no AREsp n. 903.667/SP, Relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 4/8/2016, DJe 23/8/2016 - sem grifo no original).
+Os dispositivos legais apontados pelos recorrentes - arts. 247, 292, 420, 421, 458, 543-B, 583, 586, 615 e 618 do Código de Processo Civil de 1973; 421, 422, 586 e 778 do Código de Processo Civil de 2015; 5º e 6º da Lei n. 4.380/1964; 31 e 32 do Decreto-Lei n. 70/1966; 19 do Decreto-Lei n. 21.991/1932; 20 do Código de Organização Judiciária; e 2º, 3º e 6º da Lei n. 8.078/1990 - não foram enfrentados pelo acórdão impugnado, tampouco foram opostos embargos de declaração quanto a esse ponto. Para que se atenda ao requisito do prequestionamento, é necessária a efetiva discussão do tema pelo Tribunal de origem, ainda que em embargos de declaração, o que, na espécie, não ocorreu. Incidência das Súmulas n. 282 e 356 do STF.
+Em relação ao art. 167 da Lei n. 6.015/1973, verifica-se também que o artigo apontado no apelo nobre como violado não foi debatido pela Corte estadual, faltando, desse modo, o indispensável prequestionamento da matéria, o que faz incidir, a Súmula n. 211 do STJ.
+Ressalto que o reconhecimento da inexistência de ofensa ao art. 535 do CPC/1973 e a aplicação da Súmula n. 211/STJ não se apresentam contraditórios.
+Além disso, o entendimento jurisprudencial desta Corte é de que têm-se como prequestionados os dispositivos legais de forma implícita, ou seja, ainda que não referidos diretamente, quando o acórdão recorrido emite juízo de valor fundamentado acerca da matéria por eles regida.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DEMARCATÓRIA. INICIAL INDEFERIDA. APELO RARO. VIOLAÇÃO DO ART. 335 DO CPC/73. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. OFENSA AOS ARTS. 130 E 402, AMBOS DO CPC/73. PRODUÇÃO DE PROVA ORAL E PERICIAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REFORMA DO JULGADO. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Incide a Súmula nº 211 do STJ quando o dispositivo de lei invocado no apelo nobre (art. 335 do CPC/73) não foi debatido no acórdão recorrido, apesar de opostos embargos de declaração a fim de suscitar os temas neles contidos na instância a quo. Caberia à parte, nas razões do seu especial, alegar violação do art. 535 do CPC/73 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+3. A reforma do acórdão quanto à inexistência de cerceamento do direito de defesa em razão do indeferimento de prova oral e pericial demandaria, necessariamente, o revolvimento dos fatos da causa. Incidência da Súmula nº 7 do STJ.
+4. Não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional. Precedente: AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO (Desembargador Convocado do TJ/BA, DJe 30/6/2010.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 650.702/SC, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 4/8/2016, DJe 9/8/2016).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
