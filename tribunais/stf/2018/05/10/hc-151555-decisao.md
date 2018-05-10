@@ -1,0 +1,17 @@
+Decisão: Trata-se de habeas corpus em que se articula excesso de prazo no julgamento do HC 417.665/MG, impetrado perante o STJ. Requer a concessão da ordem a fim de que seja concedido à paciente o direito de aguardar em liberdade a decisão definitiva do referido writ, uma vez que é mãe de filhos menores de idade que necessitam de seus cuidados.
+    Em 19.12.2017, indeferi a liminar.
+    A autoridade coatora prestou informações (eDOC 23).
+    É o relatório. Decido.
+    1. No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    Com relação ao excesso de prazo, anoto que “a jurisprudência do Supremo Tribunal Federal é firme no sentido de que a demora para conclusão da instrução criminal, como circunstância apta a ensejar constrangimento ilegal, somente se dá em hipóteses excepcionais, nas quais a mora seja decorrência de (a) evidente desídia do órgão judicial; (b) exclusiva atuação da parte acusadora; ou (c) situação incompatível com o princípio da razoável duração do processo, previsto no art. 5º, LXXVIII, da CF/88” (HC 128833, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 08/09/2015, grifei).
+    No mesmo tom, “o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para se definir se houve ou não excesso, não se limitando o exame à mera soma aritmética dos prazos processuais (Precedentes do STF e do STJ). Dessa forma, o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando houver demora injustificada (Precedentes)” (HC 103385, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 08/02/2011, grifei).
+    Nessa linha, é cediço que inexiste extensão aritmeticamente precisa da duração razoável da marcha processual, incumbindo averiguar as particularidades do caso concreto.
+    No caso concreto, o HC 417.665/MG foi distribuído em 21.09.2017 e, na mesma data, os autos foram conclusos ao Relator. Em 27.09.2017, a liminar foi indeferida. Após a publicação da decisão, os autos foram encaminhados ao Ministério Público Federal, que apresentou parecer em 22.11.2017. Em 15.12.2017, a defesa protocolou pedido de reconsideração, que foi indeferido em 19.12.2017. Em 01.02.2018, a decisão foi publicada no Diário de Justiça eletrônico e o Parquet foi novamente intimado em 14.02.2018. Na sequência, a defesa e o MPF protocolaram petições, as quais foram juntadas aos autos e submetidas ao Relator em 08.05.2018.
+     Da situação fática evidenciada não depreendo, por ora, excesso de prazo que beire à teratologia, passível de concessão por meio da estreita via do habeas corpus. Ao contrário, o feito vem sendo impulsionado de maneira diligente pelo STJ e o transcurso do tempo, embora destoe do ideal, revela-se razoável e proporcional às intercorrências do processo.
+    Ademais, observo que o Relator informou que “tão logo ocorra publicação da r. Decisão que indeferiu o pedido de reconsideração, os autos serão conclusos para oportuno julgamento” (eDOC 23). Dessa forma, considerando que os autos foram conclusos em 08.05.2018, o mérito do HC 417.665/MG está em vias de ser julgado.
+    2. Posto isso, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 10 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
