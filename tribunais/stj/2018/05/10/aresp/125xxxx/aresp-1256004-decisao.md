@@ -1,0 +1,21 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ACÓRDÃO CONDENATÓRIO ANULADO NO JULGAMENTO DO HC N. 391.543/MA. PERDA DO OBJETO.
+Agravo em recurso especial não conhecido.
+DECISÃO
+Trata-se de agravo de [NOME] contra decisão de inadmissão de recurso especial, este interposto contra acórdão proferido no processo n. 0003945-63.2016.8.26.0477 (898/13-RSE) pela Décima Terceira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo que, dando provimento ao recurso em sentido estrito do Ministério Público, decretou a sua prisão preventiva pela suposta prática de conduta descrita no art. 155, § 4º, I, do Código Penal, conforme termos da seguinte ementa (fl. 113):
+RECURSO EM SENTIDO ESTRITO - Furto qualificado tentado - Indeferimento de requerimento de decretação da prisão preventiva  Peculiaridades do caso concreto que evidenciam o cabimento da prisão cautelar  Liberdade provisória inicialmente concedida, com estabelecimento de medida cautelar de comparecimento mensal em juízo  Acusado ciente de que o descumprimento da medida poderia ensejar renovação da medida prisional  Réu não localizado após o recebimento da denúncia e veio a ser citado por edital  Obrigação claramente descumprida  Decisão recorrida, porém, que indeferiu o restabelecimento da custódia  Necessidade de decretação da prisão preventiva para assegurar a aplicação da lei penal e por conveniência da instrução criminal  Recurso provido para este fim.
+O recorrente interpôs recurso especial, no qual alega, em síntese, que o acórdão recorrido teria violado o art. 312 do Código de Processo Penal, porquanto não se vislumbrariam os requisitos exigidos pelo dispositivo em epígrafe para decretação de sua custódia cautelar. Argumenta que a conveniência da instrução criminal e a aplicação da lei penal não poderiam ser invocadas para fundamentar a privação de liberdade do recorrente (fls. 133/138).
+Contrarrazões às fls. 142/155.
+O apelo foi obstado na origem por versar sobre matéria constitucional, por deficiência nas razões recursais e por demandar reexame de provas (fls. 164/165).
+O recorrente aviou, então, o presente agravo, no qual aduz, em suma, que a fundamentação do recurso estaria amplamente demonstrada, suscitando violação do art. 312 do Código de Processo Penal. Acresce que a matéria teria sido prequestionada e que não teria tratado de violação de norma federal. Finaliza afirmando não pretender reanálise de provas, mas a correta aplicação do artigo explicitado (fls. 181/189).
+Contrarrazões ao agravo em recurso especial às fls. 191/195.
+O Ministério Público Federal opina pelo não conhecimento do agravo, dada a perda superveniente de objeto do recurso especial (fls. 216/218).
+É o relatório.
+Conforme indicado pelo Ministério Público Federal, o presente agravo não deve ser conhecido, tendo em vista estar prejudicado, conforme julgado no HC n. 402.792/SP, este considerado prejudicado em razão da revogação da preventiva pelo Juízo sentenciante:
+ ..
+Perdeu o objeto o presente habeas corpus com pedido liminar impetrado em favor de [NOME] contra o acórdão proferido pela Décima Terceira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo no Recurso em Sentido Estrito n. 0003945-63.2016.8.26.0477. Isso porque, como observado pelo Subprocurador-Geral da República [NOME] (fl. 145):
+ ..  Conforme informações obtidas em consulta processual ao sítio eletrônico do TJ/SP, nos autos da Ação Penal nº 0008464-86.2013.8.26.0477, o Paciente foi condenado, em 21.11.2017, à pena de 07 dias-multa, pela prática do delito previsto no art. 155, §§ 2o e 4o, inciso I, c/c art. 14, inciso II, ambos do CP. Em 24.11.17, o MM. Juiz de Direito da 1a Vara Criminal e da Infância e Juventude da Comarca de Praia Grande/SP proferiu despacho de seguinte teor: "Tendo em vista a cota de fls. 203, bem como ter sido o réu condenado apenas a pena de multa, ausentes os requisitos do art. 312 do C.P.P. Assim, expeça-se alvará de soltura.". Na mesma data, foi expedido o respectivo alvará de soltura  ..
+ ..
+Sendo assim, revogada a prisão preventiva, conforme supracitado writ, torna-se prejudicado o julgamento deste agravo pela perda de objeto.
+Ante o exposto, com fulcro nos arts. 932 do Código de Processo Civil e arts. 34, XVIII, e 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
