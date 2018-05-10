@@ -1,0 +1,17 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. RESP 1.340.553/RS, REL. MIN. MAURO CAMPBELL MARQUES - RITO DO 543-C DO CPC/1973. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 543-C, §§ 7o. E 8o. DO CPC/1973.
+1. Trata-se de Agravo em Recurso Especial interposto por HUGO ENEAS SALOMONE E OUTRO, contra acórdão proferido pelo egrégio TJSP, assim ementado:
+APELAÇÃO  Execução fiscal. Multa administrativa. Postura geral. Exercício de 1992. Sentença que acolheu exceção e decretou prescrição.
+RECURSO FAZENDÁRIO  Alegação de que não houve prescrição. Prazo interrompido tempestivamente pelo despacho ordinatório da citação. Inteligência do artigo 8% § 2% da LEF. Regra aplicável às execuções de crédito de natureza não tributária. Demora na tramitação do feito não imputável ao credor. Recurso provido.
+RECURSO DOS EXECUTADOS  Pretensão de majorar a verba honorária. Prejudicado diante da reforma da sentença (fls. 203).
+2. Os Embargos de Declaração opostos (fls. 212/214), foram rejeitados (fls. 218/220).
+3. Em suas razões recursais, a parte recorrente sustenta, além de divergência entre julgados, violação dos arts. 1o. do Decreto 20.910/1932 e 40, §§ 1o. e 4o., da Lei 6.380/1980. Defende a ocorrência da prescrição intercorrente, em razão de que entre a data do despacho ordinatório da citação (29/09/1995) e da efetiva citação  que se deu por comparecimento espontâneo nos autos (20/03/2007)  decorreram quase 12 (doze) anos (fls. 234).
+4. É o relatório.
+5. Verifica-se que o presente recurso contém tema afetado ao rito especial do art. 543-C do CPC e da Resolução 8/STJ, qual seja:
+a) Qual o pedido de suspensão por parte da Fazenda Pública que inaugura o prazo de 1 (um) ano previsto no art. 40, §2o., da LEF;
+b) Se o prazo de 1 (um) ano de suspensão somado aos outros 5 (cinco) anos de arquivamento pode ser contado em 6 (seis) anos por inteiro para fins de decretar a prescrição intercorrente;
+c) Quais são os obstáculos ao curso do prazo prescricional da prescrição prevista no art. 40, da LEF;
+d) Se a ausência de intimação da Fazenda Pública quanto ao despacho que determina a suspensão da execução fiscal (art. 40, §1o.), ou o arquivamento (art. 40, § 2o.), ou para sua manifestação antes da decisão que decreta a prescrição intercorrente (art. 40, §4o.) ilide a decretação da prescrição intercorrente (REsp. 1.340.553/RS).
+6. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 543-C, §§ 7o. e 8o. do CPC e da Resolução 8, de 7.8.2008 do STJ.
+7. Ante o exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos do art. 543-C, §§ 7o. e 8o. do CPC (arts. 1.040 e 1.041 do CPC/2015).
+8. Publique-se. Intimações necessárias.
