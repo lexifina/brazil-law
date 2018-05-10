@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de [NOME] contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (Apelação n. 0006029-63.2015.8.24.0045).
+Consta dos autos que o Juízo de primeiro grau condenou o paciente à pena de 3 anos de reclusão, em regime inicialmente semiaberto, como incurso no art. 16, caput, da Lei n. 10.826/03 (posse de arma de fogo).
+Em apelação da defesa, o Tribunal fixou o regime aberto e substituiu a pena por duas restritivas de direitos (prestação de serviços e pecuniária). Ao final, determinou a execução provisória da pena, após o término da instância ordinária.
+No presente writ, o impetrante afirma que o Tribunal a quo poderia ter substituído a pena privativa de liberdade por uma restritiva de direitos e multa, no entanto, optou por substituí-la por duas restritivas de direitos, situação mais gravosa ao ora paciente. Sendo assim, aponta que essa escolha deveria ter sido fundamentada, o que não foi feito.
+Por outro lado, sustenta a inadmissibilidade de execução provisória de pena restritiva de direitos.
+Requer, em liminar, a suspensão do acórdão até o julgamento deste writ, e no mérito, a sua reforma.
+O pedido liminar foi deferido "para suspender a execução provisória da pena até o julgamento do mérito deste writ" (fls. 276/278).
+Informações prestadas (fls. 286/313).
+O Ministério Público Federal opinou "pela extinção do writ sem resolução do mérito ou pela denegação da ordem" (fls. 318/328).
+É o breve relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Conforme relatado, busca-se, na presente impetração, a substituição da pena privativa de liberdade por apenas uma restritiva de direito e multa. Sustenta, ainda, a inadmissibilidade de execução provisória de penas restritivas de direitos.
+Quanto à substituição da pena, esta Corte tem entendido que fixada a pena corporal em patamar superior a 1 (um) ano, compete ao julgador a escolha do modo de aplicação da benesse legal prevista no art. 44, § 2º, segunda parte, do Código Penal. Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. DOSIMETRIA. AUMENTO DA PENA-BASE. NATUREZA DA DROGA. MODULAÇÃO DO REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE DA DROGA. BIS IN IDEM NÃO VERIFICADO. SUBSTITUIÇÃO DA PENA ALTERNATIVA. PENA SUPERIOR A 1 (UM) ANO. UMA RESTRITIVA E OUTRA DE MULTA MAIS BENÉFICA. IMPROCEDÊNCIA. FACULDADE DO JULGADOR. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A individualização da pena, como atividade discricionária vinculada do julgador, será revista apenas nas hipóteses de manifesta ilegalidade ou arbitrariedade, quando não observados os parâmetros estabelecidos na legislação de regência e o princípio da proporcionalidade.
+3. Não configura bis in idem a aferição desfavorável da natureza da droga (cocaína), na primeira etapa da dosimetria, para majorar a pena-base e a utilização da quantidade (567 gramas) na escolha da fração do redutor do art. 33, § 4º, da Lei n. 11.343/2006 (Precedentes do STJ e do STF).
+4. Fixada a sanção corporal em patamar superior a 1 (um) ano, compete ao julgador a escolha do modo de aplicação da benesse legal prevista no art. 44, § 2º, segunda parte, do CP, substituição da pena privativa de liberdade por uma pena restritivas de direitos e multa ou por duas restritivas de direitos (Precedente).
+5. Ordem não conhecida (HC 386.934/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 23/03/2017).
+PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. VIA IMPRÓPRIA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. DOSIMETRIA. PLEITO DE APLICAÇÃO DA MINORANTE DO § 4º DO ART. 33 DA LEI N. 11.343/2006 NO PATAMAR MÁXIMO. IMPOSSIBILIDADE. FRAÇÃO FIXADA CONSOANTE A QUANTIDADE E A DIVERSIDADE DE DROGAS APREENDIDAS. PLEITO DE SUBSTITUIÇÃO DAS PENAS POR APENAS UMA RESTRITIVA DE DIREITOS. PENA SUPERIOR A 1 ANO. ART. 44, § 2º DO CP. FACULDADE DO JULGADOR. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+(..)
+3. Como bem apontado pelo Tribunal de origem, é pacífico o entendimento desta Corte Superior no sentido de que a quantidade e/ou a natureza da droga constituem vetoriais norteadoras da fixação do quantum de redução a ser aplicado no caso, nos termos do disposto no art. 42 da Lei n. 11.343/2006, inexistindo, pois, constrangimento ilegal a ser sanado.
+4. Fixada a pena definitiva em patamar superior a 1 ano, incide a segunda parte do § 2º do art. 44 do Código Penal, na qual se faculta ao julgador a substituição da pena privativa por uma pena restritiva de direitos e multa ou por duas restritivas de direito.
+5. Habeas corpus não conhecido (HC 355.753/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 20/09/2016).
+Dessa forma, observada a discricionariedade do julgador e o respeito aos parâmetros legais, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Por outro lado, a Terceira Seção desta Corte firmou o entendimento de que as penas restritivas de direitos não podem ser executadas antes do trânsito em julgado da condenação, em observância ao disposto no art. 147 da Lei n. 7.210/84. Confira-se, a propósito, a ementa do julgado:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. EXECUÇÃO PROVISÓRIA. IMPOSSIBILIDADE. ART. 147 DA LEI DE EXECUÇÃO PENAL. PROIBIÇÃO EXPRESSA. AUSÊNCIA DE MANIFESTAÇÃO DO STF. EMBARGOS REJEITADOS.
+1. Embora o Supremo Tribunal Federal tenha decidido pela viabilidade da imediata execução da pena imposta ou confirmada pelos tribunais locais após esgotadas as respectivas jurisdições, não analisou tal possibilidade quanto às reprimendas restritivas de direitos.
+2. Considerando a ausência de manifestação expressa da Corte Suprema e o teor do art. 147 da LEP, não se afigura possível a execução da pena restritiva de direitos antes do trânsito em julgado da condenação.
+3. Embargos de divergência rejeitados (EREsp 1619087/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ Acórdão Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 14/06/2017, DJe 24/08/2017)
+Ante exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para suspender a execução provisória das penas restritivas de direito impostas ao paciente, confirmando a liminar anteriormente deferida.
+Publique-se.
+Intimações necessárias.
