@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SERASA S.A., contra decisão que negou seguimento ao recurso especial, com fundamento na alínea "c" do inciso III do artigo 105 da Constituição Federal, contra acórdão assim ementado:
+AÇÃO DE INDENIZAÇÃO POR DANO MORAL. Inscrição indevida do nome do autor nos cadastros restrição ao credito, sem a devida notificação. Sentença de improcedência. Recurso redistribuído pela Resolução nº 737/2016.
+Apela o autor sustentando haver necessidade de comunicação premonitória, nos termos do art. 43, § 2º, do CDC. Pede a aplicabilidade da súmula 359 do STJ. Requer seja reconhecida a abusividade da inscrição, com o consequente arbitramento de indenização por danos morais.
+Cabimento.
+Incidência do CDC. Obrigatoriedade da notificação prévia. Inteligência dos art. Iº e 2º da lei nº 15.659/15. Aplicabilidade da Súmula 359 do STJ. Reconhecida a abusividade da cobrança. Apontamento indevido que gera o dever de indenizar. Dano moral que se presume com a simples inscrição. Valor fixado em R$ 30.000,00. Recurso provido.
+Opostos embargos de declaração pelo autor, foram acolhidos pelo Tribunal de origem, adotando-se a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO.
+O embargante sustenta omissão em relação a inversão dos honorários sucumbenciais e quanto a data de início de incidência dos juros e correção monetária.
+Cabimento. Dada a inversão do julgado de rigor que a embargada arque com as custas e honorários advocatícios, que ora fixo em 10% do valor da causa, nos termos do art. 85 do CPC/2015. Os juros incidem desde o evento danoso (Súmula 54 do STJ) e a correção monetária desde a condenação, nos termos da Súmula 362 do STJ. Embargos acolhidos.
+Em suas razões do recurso, a parte recorrente alegou a existência de dissídio jurisprudencial, ante a violação do artigo 944, do Código Civil.
+Requer a redução da quantia arbitrada a título de danos morais (R$ 30.000,00 - trinta mil reais), por considerá-la excessiva.
+Assim delimitada a controvérsia, passo a decidir.
+Narram os autos que o recorrido ajuizou ação de indenização por danos morais, em razão de ter seus dados inseridos em cadastro desabonador sem que tivesse sido notificado previamente pelo órgão mantenedor do Cadastro de Proteção ao Crédito.
+No tocante à redução do valor da indenização, assiste razão à recorrente.
+Com efeito, o Superior Tribunal de Justiça considera excepcionalmente cabível, em recurso especial, o reexame do valor arbitrado a título de danos morais, quando for ele excessivo ou irrisório (AgRg no REsp 959.712/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 30.11.2009 e AgRg no Ag 939.482/RJ, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, DJe de 20.10.2008, entre outros).
+No caso em exame, verifica-se que o valor indenizatório fixado pelo Tribunal de origem em R$ 30.000,00 (trinta mil reais) distancia-se dos parâmetros jurisprudenciais desta Corte, colhidos nas hipóteses de indenização por dano moral decorrente de inscrição indevida em cadastros de inadimplentes. Em casos análogos, o Superior Tribunal de Justiça tem julgado razoável o arbitramento de indenização em moeda corrente no valor situado entre 10 a 30 salários mínimos, podendo variar, para mais ou para menos, a depender das circunstâncias do caso.
+Assim, considerados os critérios jurisprudenciais, pautados pela moderação, proporcionalidade e razoabilidade, reduzo o valor devido a título de danos morais para R$ 5.000,00 (cinco mil reais), quantia não insignificante a ponto de não cumprir com sua função inibitória da repetição da prática abusiva, nem excessiva a ponto de causar um enriquecimento indevido à parte autora.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para fixar o valor devido a título de danos morais em R$ 5.000,00 (cinco mil reais), mantenho os juros de mora desde o evento danoso, conforme foi expressamente consignado na instância ordinária ( fl. 114, e- STJ), fixando, ainda, correção monetária a partir desta data.
+Nos termos do art. 85, § 11, do Código de Processo Civil/2015, fixo honorários em favor da parte recorrente, em 10% (dez por cento) do valor da causa atualizada, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
