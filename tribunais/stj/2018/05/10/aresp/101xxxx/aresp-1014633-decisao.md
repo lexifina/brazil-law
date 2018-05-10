@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manifestado por [NOME] contra decisão que negou seguimento a recurso especial impugnando acórdão assim ementado:
+APELAÇÕES CÍVEIS. PROMESSA DE COMPRA E VENDA. AÇÃO CONDENATÓRIA. ATRASO NA ENTREGA DAS OBRAS. CLAUSULA DE TOLERÂNCIA. FORÇA MAIOR. DANOS EXTRAPATRIMONIAIS. QUANTUM COMPENSATÓRIO. MANUTENÇÃO DA SENTENÇA GUERREADA.
+ILEGITIMIDADE PASSIVA AD CAUSAM. Tendo a requerida, incontestavelmente, integrado a relação jurídica sub judice, a despeito de figurar ou não como vendedora, não há que se falar em ilegitimidade passiva ad causam. Aplicação de Teoria da Aparência.
+Precedentes desta Corte.
+FORÇA MAIOR. Os trâmites burocráticos inerentes à regularização de um empreendimento imobiliário, bem como a escassez de mão-de-obra e de materiais, não se coadunam ao conceito de caso fortuito ou força maior. A necessidade de trabalhadores para executar os projetos vendidos, assim como a regularidade do projeto perante a municipalidade, são situações esperadas, que não apresentam qualquer elemento de imprevisibilidade.
+DANOS EXTRAPATRIMONIAIS. A aquisição de imóvel residencial ainda em junho de 2011, o qual foi concluído somente em agosto de 2014, gera expectativas e frustrações que, por si só, bastam à configuração do dano imaterial.
+Caso em que o imóvel foi entregue quase um ano e meio após o decurso do prazo da cláusula de tolerância de 180 dias, o que constitui atraso abusivo e altamente desfavorável ao consumidor.
+Manutenção do quantum compensatório arbitrado pelo juízo de origem, qual seja o de R$ 10.000,00, por se mostrar esta quantia suficiente à compensação pelo ilícito, proporcional à gravidade da conduta e levar em conta a situação econômico-financeira do ofensor.
+Afastaram a preliminar recursal e negaram provimento aos apelos. Unânime.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, o agravante alega violação do art. 6º, inciso VI, do Código de Defesa do Consumidor e da Súmula 54 desta Corte, bem como divergência jurisprudencial.
+Pugna pela incidência de juros de mora a partir da data do evento danoso, que se deu com o atraso na entrega do imóvel.
+Requer, ainda, a majoração dos honorários advocatícios.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Inicialmente, esclareço que não procede a alegação de violação à súmula, pois esta não se enquadra no conceito de lei federal previsto no art. 105 da Constituição Federal. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA FECHADA. ANÁLISE DE ENUNCIADO SUMULAR EM RECURSO ESPECIAL. VIA INADEQUADA. SÚMULA 518 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO NÃO PROVIDO.
+1. "O recurso especial não constitui via adequada para análise de eventual contrariedade a enunciado sumular, por não estar compreendido na expressão "lei federal", constante do art. 105, III, a, da CF, conforme previsto na Súmula nº 518 desta Corte" (AgRg no AREsp 701.254/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 1º/9/2015, DJe de 10/9/2015).
+2. É inviável o recurso especial quando ausente o prequestionamento, sequer implícito, do dispositivo da legislação federal apontado como violado. A matéria objeto da irresignação deveria ter sido alvo de prequestionamento pelo Tribunal de origem, mesmo após a oposição dos embargos de declaração. Todavia, como persistiu a omissão, deveria a agravante alegar, nas razões do recurso especial, violação ao art. 535 do CPC, ônus do qual não se incumbiu. Incide, na espécie, pois, o óbice da Súmula 211 do STJ. Precedentes.
+3. Para a demonstração da divergência, nos moldes preconizados pelo art. 255, § 2º, do RISTJ, c/c o art. 541, parágrafo único, do CPC, é necessária a realização do cotejo analítico entre os arestos confrontados, de modo a evidenciar o alegado dissenso das teses jurídicas adotadas, alegadamente, em situações de evidente similitude fática.
+4. Agravo regimental não provido.
+(AgRg no AResp 264.149/RS, Rel. MINISTRO RAUL ARAÚJO, QUARTA TURMA, julgado em 13/10/2015, DJe 4/11/2015).
+No tocante aos honorários advocatícios, da análise dos autos, verifico que o ora agravante sequer apontou quais dispositivos de lei federal entendeu por violados, de modo a permitir o conhecimento do recurso especial com espeque nas alíneas  a  e "c" do inciso III do art. 105 da Constituição Federal.
+O agravante limitou-se à alegar a majoração dos honorários sem indicar quais teriam sido os dispositivos supostamente violados pelo acórdão recorrido. Assim, imperioso concluir pela incidência da Súmula n. 284 do egrégio Supremo Tribunal Federal, visto que a deficiência na fundamentação do recurso não permitiu a exata compreensão da controvérsia.
+No que se refere ao termo inicial dos juros de mora, ademais, consignou o Tribunal estadual, que:
+Nos termos do art. 515 do CPC, "A apelação devolverá ao tribunal o conhecimento da matéria impugnada.". Deste modo, por força do princípio do tantum devolutum quantum apellatum, tendo o apelo do autor se limitado a atacar o valor da compensação fixada a título de danos imateriais, não há que se falar na análise do termo inicial de incidência dos juros de mora. (fl. 283, e-STJ)
+Assim, ressentindo-se o especial do requisito de prequestionamento, exigido inclusive para as matérias de ordem pública, bem como não esclarecidos, objetiva e especificamente, os motivos de reforma do julgado proferido pela Corte de origem, inviabilizada a apreciação do recurso por esta Corte, por se tratar de óbice intransponível contido nos enunciados 282, 283 e 284 das Súmulas do STF.
+Diante do exposto, nego provimento ao agravo.
+Por fim, tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo art. 85, § 11, do atual Código de Processo Civil, cuja exigibilidade fica suspensa por força da gratuidade de justiça concedida na origem (fl. 200, e-STJ).
+Intimem-se.
