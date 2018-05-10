@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98079, de 29 de março de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8708.99.90 Mercadoria: Coxim do câmbio, parte de automóvel de passageiros confeccionada de aço e contendo em seu interior borracha vulcanizada não endurecida, próprio para ser fixado entre a longarina do veículo e a caixa de câmbio, destinado a absorver a trepidação do câmbio de modo a minimizar a vibração da carroçaria. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.08), RGI 6 (texto das subposições 8708.9 e 8708.99) e RGC 1 (texto do item e subitem 8708.99.9 e 8708.99.90) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.079-2018 .pdf]
