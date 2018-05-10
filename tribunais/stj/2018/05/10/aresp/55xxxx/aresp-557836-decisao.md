@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. ANULAÇÃO DE ATO ADMINISTRATIVO. PRESCRIÇÃO. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial fundado nas alíneas a e c do art. 105, III da Constituição Federal, interposto por EDUARDO QUINTAL COSTA, contra acórdão proferido pelo egrégio TJMG, assim ementado:
+APELAÇÃO CÍVEL. CONCURSO PÚBLICO. DESCLASSIFICAÇÃO. TESTE DE APTIDÃO FÍSICA. ANULAÇÃO DO ATO ADMINISTRATIVO. PRESCRIÇÃO. DECRETO 20.910/32. COISA JULGADA. OCORRÊNCIA. RECURSO CONHECIDO E NÃO PROVIDO.
+Conforme inteligência do art. 1o. do Decreto 20.910/32, qualquer direito ou ação contra a Fazenda prescreve em cinco anos contados da data do ato ou fato do qual se originaram.
+Passados mais de sete anos entre a data em que o candidato tomou conhecimento do conteúdo do edital, bem como daquela em que foi desclassificado do certame em razão da reprovação no teste de aptidão física, o reconhecimento da prescrição é medida que se impõe.
+Havendo identidade jurídica entre a presente ação e a anteriormente proposta pelo apelante, o reconhecimento da existência de coisa julgada a impedir a apreciação do mérito desse pedido é medida que se impõe (fls. 251).
+2. Nas razões do seu Apelo Nobre inadmitido, o recorrente aponta violação dos arts. 458 e 535 do CPC e 1o. e 9o. do Decreto 20.910/1932. Aduz, inicialmente, que o acórdão recorrido padece de omissão. No mérito, defende não ter se consumado o prazo prescricional para a propositura da Ação Anulatória.
+3. É o relatório. Decido.
+4. Inicialmente, no tocante aos arts. 458 e 535, I e II do CPC, inexistem as violações apontadas. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa às normas ora invocadas.
+5. Quanto à prescrição, consta do acórdão recorrido o seguinte:
+Entretanto, a presente ação foi distribuída em 22 de março de 2011, e o autor questiona a regra editalícia após sete anos e três meses da publicação do edital e após sete anos da publicação do resultado da prova física que o considerou inapto (fls. 53 e 54/55).
+Portanto, houve preclusão do direito do autor requerer a anulação do ato administrativo que o excluiu do certame, sob o fundamento de que à época (ano de 2004) não havia lei que determinava o caráter eliminatório do teste físico. E portanto, ainda que fosse algo possível, não há que se falar na inclusão do autor no CBMMG, seni se submeter a novo concurso e passar nas etapas de um certame, com o consequente pagamento do período que permaneceu excluído do Corpo de Bombeiros (fls.254).
+6. Tal entendimento encontra amparo na jurisprudência desta Corte, segundo a qual não seria possível afastar o reconhecimento da prescrição de fundo de direito se decorridos mais de 5 anos entre o ato administrativo que se busca anular e a propositura da ação.
+7. Ilustrando tal conclusão, os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO. POLICIAL MILITAR. EXCLUSÃO DA CORPORAÇÃO. NULIDADE DE ATO ADMINISTRATIVO. PEDIDO DE REINTEGRAÇÃO. PRESCRIÇÃO DO FUNDO DE DIREITO. PRECEDENTES DO STJ.
+1. O Tribunal de origem não se pronunciou sobre a matéria versada nos arts. 145, III do CCB/1916, 200 do CCB/2002, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.").
+2. O julgado estadual não se afastou do entendimento desta Corte no sentido de que, mesmo em se tratando de ato administrativo nulo, não há como afastar a prescrição quinquenal para a propositura da ação em que se pretende a reintegração de policial militar (AgRg no REsp 1.323.442/AM, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/08/2012, DJe 22/08/2012).
+3. Agravo regimental a que se nega provimento (AgRg no AREsp. 750.819/GO, Rel. Min. SÉRGIO KUKINA, DJe 25.9.2015).
+
+ADMINISTRATIVO. PROCESSUAL CIVIL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PRETENSÃO DE DECRETAÇÃO DE NULIDADE DE ATO DE LICENCIAMENTO EX OFFICIO. EXCLUSÃO DE POLICIAL MILITAR A BEM DA DISCIPLINA. PRESCRIÇÃO DO FUNDO DE DIREITO. DECRETO N. 20.910/1932. SÚMULA 83/STJ.
+1. O Tribunal de origem apreciou suficiente e fundamentadamente a controvérsia, não padecendo o acórdão recorrido de omissão, contradição ou obscuridade, razão pela qual não há falar em violação ao art. 535 do CPC.
+2. Não se conhece de recurso especial cujos dispositivos legais infraconstitucionais ditos por violados não foram objeto de análise e discussão pelas instâncias ordinárias, nem mesmo implicitamente, ainda que opostos embargos de declaração. Incidência da súmula 211/STJ.
+3. Segundo precedentes deste Superior Tribunal, mesmo em ato administrativo nulo, não há como afastar a prescrição quinquenal para a propositura da ação em que se pretende a reintegração de policial militar. Estando o entendimento da Corte a quo em consonância com a jurisprudência do STJ, incide o óbice da Súmula 83/STJ.
+Agravo regimental improvido (AgRg no AREsp. 470.175/PE, Rel. Min. HUMBERTO MARTINS, DJe 14.4.2014).
+8. Diante disso, nega-se provimento ao Agravo em Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
