@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FUNDAÇÃO ASSISTENCIAL DOS SERVIDORES DO MINISTÉRIO DA FAZENDA contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ, fls. 305-306):
+DIREITO PROCESSUAL CIVIL. CONSUMIDOR. APELAÇÃO. PRELIMINAR. IMPUGNAÇÃO ESPECIFICA. INTERESSE RECURSAL. MÉRITO. ASSEFAZ. PLANO DE SAÚDE. MODALIDADE COLETIVA. CONVÊNIO. RESCISÃO. MANUTENÇÃO DA PRESTAÇÃO DOS SERVIÇOS. ALTERAÇÃO DA FONTE PAGADORA. FILHO DIAGNOSTICADO COM TUMOR. CONTINUIDADE DO TRATAMENTO. RECURSO IMPROVIDO.
+1. A sentença julgou procedente o pedido, em ação de conhecimento, para determinar a migração do autor e dos dependentes para o plano coletivo decorrente de convênio firmado com a Presidência da República, em idênticas condições ao antigo plano coletivo, intermediado pela UNASFEM.
+2. A preliminar de ausência de impugnação específica da sentença deve ser rejeitada, quando, embora haja repetição dos fundamentos da contestação, o apelante impugna os termos do decisum, possibilitando ao Tribunal a compreensão da controvérsia e alcance da oposição.
+3. A preliminar de ausência de interesse recursal também deve ser rejeitada, pois o cumprimento da decisão antecipatória de tutela, que tem caráter precário e provisório, não se confunde com reconhecimento do direito do autor.
+4. A relação jurídica existente entre a operadora do plano de saúde e o beneficiário é de consumo. Embora a ASSEFAZ atue na modalidade de autogestão, a prestação de serviços depende do pagamento de parcela mensal pelo usuário.
+5. Deve ser mantido o plano de saúde, na modalidade coletiva, operado pela ASSEFAZ, mediante alteração da fonte pagadora do convênio. 5.1. A adesão ao plano de saúde ocorreu em razão de convênio firmado com a UNASFEM. Em razão da rescisão deste convênio, é possível a manutenção do plano de saúde com a ASSEFAZ com base em convênio firmado com a Presidência da República, na modalidade coletiva. 5.2. Evidente a necessidade da continuidade da prestação de serviços, notadamente diante do diagnóstico de tumor do dependente do beneficiário.
+6. Ademais, as operadoras de planos de assistência à saúde deverão disponibilizar a modalidade individual ou familiar aos beneficiários, no caso de cancelamento do plano de saúde na modalidade coletiva, sem necessidade de cumprimento de novos prazos de carência (Resolução n. 19 do Conselho de Saúde Complementar, art. 1º).
+7. Apelo improvido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do apelo especial, a recorrente aponta violação dos arts. 535, inciso II, do CPC/1973, 35-A da Lei n. 9.656/1998 e 421 e 422 do Código Civil.
+Afirma que houve omissão no julgado, ante a ausência de exame adequado dos dispositivos legais indicados como violados, aduzindo, para tanto, que:
+ ..  o CONSU possui legitimidade para parametrizar e direcionar as políticas do setor de saúde suplementar", de modo que "as disposições da Resolução nº 19 somente são aplicáveis às operadoras que mantenham também plano ou seguro de assistência à saúde na modalidade individual ou familiar. (e-STJ, fl. 355).
+Alega, também, que a recorrente é entidade de autogestão, razão pela qual não pode, legalmente, oferecer plano de saúde na modalidade individual ou familiar ao recorrido, circunstância que teria sido ignorada pelo Tribunal de origem.
+Sustenta, ainda, a legalidade das cláusulas estabelecidas no contrato de plano de saúde, que inclui a possibilidade de rescisão contratual, devendo ser observado, portanto, o acordo firmado entre as partes, sob pena de ofensa à garantia da liberdade de contratar e ao princípio da boa-fé.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016, desta Corte.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento, verifico que este agravo não merece provimento.
+Anoto, preliminarmente, que a questão federal foi decidida de modo suficiente, motivo pelo qual rejeito a alegação de ofensa ao art. 535 do Código de Processo Civil.
+O acórdão recorrido enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não merece qualquer reparo.
+Com efeito, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Quanto ao mérito, confira-se o seguinte trecho do julgado combatido, na parte que interessa (e-STJ, fls. 312-314):
+Embora a ASSEFAZ atue na modalidade de autogestão, sendo administrada por seus próprios beneficiários, estes são obrigados a contribuir em troca da prestação de serviços de assistência à saúde.
+E, nesse contexto, o Código de Defesa do Consumidor dispõe, nos arts. 20 e 30, in verbis:
+"Art. 20 Consumidor é toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final.
+Art. 30 Fornecedor é toda pessoa física ou jurídica, pública ou privada, nacional ou estrangeira, bem como os entes despersonalizados, que desenvolvem atividade de produção, montagem, criação, construção, transformação, importação, exportação, distribuição ou comercialização de produtos ou prestação de serviços".
+É por este motivo que a relação jurídica existente entre a ASSEFAZ e FRANCISCO DE ASSIS ALVES DA SILVA é de consumo, pois a prestação de serviços do plano de saúde depende do pagamento de parcela mensal pelo usuário.
+ ..
+Assim, em que pese o vínculo relativo ao serviço tenha surgido por intermédio do convênio firmado com a UNASFEM, a prestadora do serviço é a ASSEFAZ, consoante termo de adesão ao plano de saúde (fI. 14).
+Dentro desse contexto, não deve ser acolhida a alegação de que não há vinculo contratual existente entre o autor/apelado e a ré/apelante, notadamente quando a norma consumerista estabelece a responsabilidade solidária do fornecedor de serviços, Iitteris:
+"Art. 34. O fornecedor do produto ou serviço é solidariamente responsável pelos atos de seus prepostos ou representantes autônomos".
+ ..
+Portanto, não deve ser afastada a pretensão do autor com base na alegação de que a ASSEFAZ "apenas atua na modalidade coletiva e para os seus membros beneficiários" e que "não há oferta de planos individuais".
+A pretensão do autor não é a de aderir ao plano de saúde operado pela ASSEFAZ na modalidade individual. Com o cancelamento do convênio firmado entre a ASSEFAZ e a UNASFEM, pretende a manutenção do plano de saúde, na modalidade coletiva, por intermédio de outro convênio, firmado entre a ASSEFAZ e a Presidência da República (fls. 54/67).
+Desse modo, não há impedimento para manutenção dos serviços de assistência à saúde, com alteração unicamente da fonte pagadora.
+Tais fundamentos, autônomos e suficientes à manutenção do acórdão recorrido, todavia, não foram infirmados nas razões do recurso especial, convocando, na espécie, a incidência do verbete nº 283 da Súmula do STF.
+Ademais, incidente o enunciado nº 211 da Súmula do STJ, no tocante à alegada violação dos arts. 35-A da Lei n. 9.656/1998 e 421 e 422 do Código Civil, em razão da ausência de prequestionamento. A propósito: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo" (Súmula n. 211/STJ).
+Por fim, correta a decisão agravada ao obstar o recurso especial pela incidência da Súmula 7 do STJ, pois a Corte de origem reconheceu a imprescindibilidade da prestação continuada dos serviços assistenciais, considerando que um dependente do beneficiário/titular foi diagnosticado com tumor de askin (tóraco-abdominal) -, de modo que a análise das alegações e a reforma do acórdão recorrido impõem, inevitavelmente, o reexame de matéria fático-probatória, procedimento inviável nos termos do referido verbete sumular, aplicado de forma irrepreensível no primeiro juízo de admissibilidade.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
