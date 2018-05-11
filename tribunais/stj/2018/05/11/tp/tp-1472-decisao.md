@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de pedido de tutela provisória apresentado por RÁDIO E TELEVISÃO BANDEIRANTES S.A. visando à atribuição de efeito suspensivo a recurso especial, cuja admissibilidade encontra-se pendente de exame, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Exercício do direito constitucional de resposta - Reportagens televisivas acerca de investigação da existência de direcionamento no sistema de distribuição de processos deste Tribunal de Justiça - Imputação de fato desabonador a magistrado - Expressa afirmação de que os juízes que participaram do julgamento teriam facilitado a soltura de chefes do tráfico, ainda que sem citação do nome requerente, mas com exibição de sua imagem no contexto da reportagem - Acusação ainda que indireta que autoriza o reconhecimento do direito de resposta - Multa fixada em valor suficiente - Recursos improvidos" (fl. 75).
+Extrai-se dos autos que [NOME], desembargador estadual, ajuizou ação de exercício de direito de resposta contra a ora requerente, porquanto, como membro integrante da seção criminal da Corte de Justiça bandeirante, teve seu nome citado em matérias jornalísticas alegadamente inverídicas e sensacionalistas.
+O magistrado de primeiro grau, entendendo que houve prejuízo ao nome do demandante, julgou procedente a ação para "(..) garantir ao autor o exercício do direito constitucional de resposta na forma do art. 5º, V, da Constituição Federal" (fls. 72/73), condenando a ré a:
+"(..)
+a) veicular imagens da minuta de resposta de fls. 74/75 e, simultaneamente, providenciar a sua leitura no mesmo programa televisivo (Jornal da Band), em duas oportunidades com intervalo de dois dias entre elas, e no mesmo horário em que veiculadas as reportagens originais;
+b) veicular no site do Jornal da Band a mesma imagem do direito de resposta de fls. 74/75, durante o prazo mínimo de 30 dias e enquanto a ré mantiver acessível de forma on-line o teor original das reportagens.
+Caso a ré mantenha acessível o teor original das reportagens, deverá a ré inserir "pop up" com o conteúdo do direito de resposta do autor e, ainda, inserir link específico para que os leitores possam acessar integralmente o direito de resposta.
+A ré deverá cumprir esta decisão no prazo de 10 (dez) dias. Na forma do art. 7º, § 4º, da lei 13.188/2015, fixo multa diária de R$ 5.000,00 (cinco mil reais) para eventual descumprimento pela ré desta sentença judicial.
+Esta sentença possui eficácia imediata (art. 10 da lei 13.188/2015), cabendo ao autor, em incidente apenso, requerer o cumprimento provisório da sentença.
+CONDENO a requerida, ainda, ao pagamento das custas processuais e honorários advocatícios que arbitro em R$ 5.000,00, na forma do art. 85, § 8º, do CPC" (fl. 73).
+Interpostos recurso de apelação e apelação adesiva, o Tribunal de origem negou-lhes provimento nos termos da ementa transcrita.
+Os embargos de declaração opostos também foram rejeitados.
+Irresignada, a empresa de rádio e televisão interpôs recurso especial, apontando a violação dos arts. 2º e 3º da Lei nº 13.188/2015 e 1.022, II, do Código de Processo Civil de 2015 (CPC/2015).
+Formulado pedido de atribuição de efeito suspensivo, a Presidência da Seção de Direito Privado da Corte local o indeferiu.
+Nas razões do presente pleito, a requerente alega, a título de perigo de dano ou de risco ao resultado útil do processo, que "(..) em sede de cumprimento provisório de sentença, o juízo de origem determinou, em 24/04/2018, a imediata veiculação do direito de resposta, sob pena de multa diária de R$ 5 mil, no prazo de dez dias. Ou seja, a ora postulante tem até o dia 11/05/2018 para efetivamente exibir a resposta do recorrido no Jornal da Band, apresentado em seu horário mais nobre" (fl. 3).
+Quanto à probabilidade do direito, sustenta que há plausibilidade jurídica na pretensão recursal: (i) negativa de prestação jurisdicional quando do julgamento dos embargos declaratórios pela Corte de Justiça de São Paulo, (ii) ocorrência do prazo decadencial de 60 (sessenta) dias e (iii) ausência de conduta ilícita, pois apenas exerceu a liberdade de imprensa com animus narrandi e animus criticandi.
+Postula, dessa forma, o deferimento da medida liminar para que haja "(..) a sustação do cumprimento provisório de sentença promovido pelo ora requerido em primeiro grau de jurisdição" (fl. 24).
+É o relatório.
+DECIDO.
+Consoante o disposto no art. 1.029, § 5º, I, do CPC/2015, com a redação dada pela Lei nº 13.256/2016, "o pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo" (grifou-se).
+Todavia, no caso do autos, encontra-se pendente o juízo prévio de admissibilidade do recurso especial, não restando aberta a competência desta Corte para a análise do pedido de efeito suspensivo, sendo hipótese de aplicação do art. 1.029, § 5º, III, do CPC/2015:
+"Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+(..)
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+(..)
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037." (grifou-se)
+Por outro lado, ainda assim há jurisprudência desta Casa que admite a atribuição de efeito suspensivo a recurso especial ainda não submetido ao juízo de admissibilidade pela instância de origem, desde que presentes, cumulativamente, os requisitos do periculum in mora e do fumus boni juris, aliados à teratologia ou manifesta ilegalidade da decisão.
+Isso, contudo, não se verifica no presente caso concreto.
+Com efeito, com relação às alegações aventadas no recurso especial, como cediço, não há falar em negativa de prestação jurisdicional se o Tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+Ademais, quanto à decadência, se o ato reputado ilegal for praticado antes de editada lei que fixe prazo para tal instituto, o termo inicial não será a data do fato, mas a data de vigência do instrumento normativo, já que a norma não pode ser aplicada retroativamente (vide REsp 1.234.300/RS, Rel. Ministro Og Fernandes, DJe 5/12/2017 e AgRg no REsp nº 1.551.065/RN, Rel. Ministro Sérgio Kukina, DJe 29/9/2015).
+Assim, no tocante ao direito de resposta em matéria divulgada, publicada ou transmitida por veículo de comunicação social, antes de promulgada a Lei nº 13.188/2015, não havia prazo de decadência para o direito do ofendido ser exercido, quando muito se aplicava o prazo de 2 (dois) anos, por analogia (vide REsp nº 1.662.847/MG, Rel. Ministra Nancy Andrighi, DJe 16/10/2017).
+Nesse contexto, na espécie, as matérias jornalísticas foram veiculadas no programa Jornal da Band em 25/8/2015 e em 27/8/2015, ao passo que a Lei nº 13.188/2015, que estabeleceu o prazo decadencial de 60 (sessenta) dias (art. 3º), entrou em vigor em 12/11/2015, ou seja, após a ocorrência dos fatos, e a demanda foi proposta em 29/12/2015, antes, portanto, de consumada a decadência.
+Por fim, no que tange à configuração do direito de resposta, pois apontados fatos efetivamente ofensivos ao autor, extrai-se do acórdão estadual que:
+"(..)
+Já a segunda reportagem aponta que "desembargadores são suspeitos de facilitar a liberação de chefes do tráfico" e menciona a abertura de um inquérito para apurar a existência de direcionamento na distribuição de recursos.
+Embora não mencione nominalmente o autor, sua fotografia é rapidamente exibida aos 00min43s, observada ainda a intenção dos desembargadores da 5ª Câmara de Direito Criminal de representar os integrantes da 9ª Câmara, à qual pertence o requerente, aos 01min13s.
+E é nesta ultima reportagem, ao expressamente referir que "desembargadores são suspeitos de facilitar a liberação de chefes do tráfico" que a meu ver reside a acusação, ainda que indireta, ao requerente.
+Com efeito, Desembargadores a que se refere a reportagem, não é preciso esforço algum de interpretação, são aqueles que participaram do julgamento da 9ª Câmara. E embora agora já não se cite nominalmente o requerente, tem ele sua fotografia exibida, havendo inequívoca imputação de fato desabonador ao magistrado.
+Tem assim direito a esclarecer ou retificar a notícia no que lhe diz respeito, porque ao que consta não há informação alguma que esteja implicado nos fatos objeto de investigação.
+E uma coisa é dizer e noticiar que tenha participado do julgamento objeto da reportagem, sem dúvida de interesse público e relevância jornalística como já visto, outra coisa é dizer que seja suspeito de facilitar a liberação de traficantes.
+Anoto, também, que não se está a censurar, mandar retirar ou indenizar. Apenas se reconhece o direito daquele que foi acusado de responder a essa acusação" (fl. 78).
+Por sua vez, a sentença assim assinalou:
+"(..)
+Na reportagem de 25.8.2015 (fls. 189/195) a empresa requerida veiculou os indícios de fraude na distribuição de processos criminais (habeas corpus) no TJSP.
+Não há dúvidas de que os fatos possuíam interesse público e deveriam ser veiculados pela empresa requerida como por qualquer outro veículo de comunicação.
+Entretanto, a ré não agiu com cuidado e, antes de qualquer apuração, mencionou o nome do autor e veiculou sua imagem como se se tratasse de magistrado ligado ao PCC e responsável pela fraude que se noticiava. Houve precipitação pela ré.
+Ao contrário do que sustentado pela ré, esta não apenas mencionou o nome do autor como integrante da 9ª Câmara Criminal e veiculou sua imagem como, especialmente, afirmou que os desembargadores (todos) "não respeitaram o que manda a legislação". A ré na reportagem afirmou que a legislação proibiria o julgamento do caso pela 9ª Câmara e proibiria aos desembargadores "definir se o traficante é ou não culpado ou inocente".
+Ora, é evidente que a ré vinculou o nome do autor a estas alegadas infrações à legislação. Houve, pois, "juízo de valor", ao contrário do que afirmado pela ré em sua defesa, e induz a reportagem os telespectadores a concluírem que o aqui autor deliberadamente tenha desrespeitado a legislação e estivesse envolvido com a fraude.
+Na reportagem de 27.8.2015 (fls. 196/203) a empresa requerida não mencionou mais o nome do autor. Porém, houve novamente utilização indevida das expressões "desembargadores" no plural e, mais do que isto, veiculou a ré a imagem do autor (imagem pode ser vista aos 00:44 min da reportagem).
+Considerando-se a reportagem comprovada às fls. 33 e 189/195, com evidente prejuízo ao nome do autor, entendo que se deva assegurar-lhe o exercício do direito constitucional de resposta" (fl. 72).
+Ora, as instâncias ordinárias entenderam que, em alguns momentos, as reportagens ultrapassaram os limites da liberdade de informação e do direito de crítica, apesar da existência de interesse público na divulgação da notícia, de forma que seria de rigor oportunizar ao ofendido esclarecer os fatos com sua versão.
+Desse modo, chegar a conclusão diversa acerca do animus narrandi e do animus criticandi, a princípio, esbarra, no caso dos autos, no óbice da Súmula nº 7/STJ.
+Logo, em um exame, repita-se, perfunctório, não se constata a teratologia ou manifesta ilegalidade da decisão objeto do apelo nobre a que pretende a requerente ver emprestado efeito suspensivo.
+Desse modo, não configurada tais situações que justificariam, em casos excepcionalíssimos, a antecipação desta Corte Superior ao pronunciamento do competente órgão julgador para a apreciação do pedido de tutela provisória, impõe-se seu indeferimento.
+Ante o exposto, INDEFIRO o pedido de tutela de urgência.
+Nesse contexto, determino a extinção liminar do presente pedido de tutela provisória.
+Publique-se.
+Intimem-se.
+Arquive-se.
