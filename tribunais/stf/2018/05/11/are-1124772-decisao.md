@@ -1,0 +1,37 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Djonata Acordi contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de Santa Catarina, está assim ementado:
+    “APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. ROUBO CIRCUNSTANCIADO PELO EMPREGO DE ARMA, CONCURSO DE AGENTES E RESTRIÇÃO DE LIBERDADE DA VÍTIMA (ART. 157, § 2º, I, II E V). SENTENÇA CONDENATÓRIA. INCONFORMISMO DA DEFESA.
+    PLEITO ABSOLUTÓRIO. AVENTADA INSUFICIÊNCIA DE PROVAS. IMPROCEDÊNCIA. MATERIALIDADE E AUTORIA EVIDENCIADAS. DEPOIMENTOS DO CODENUNCIADO E DOS POLICIAIS MILITARES. CELULAR COM FOTOS DO ACUSADO ENCONTRADO NO VEÍCULO UTILIZADO PARA COMETER O DELITO. CONDENAÇÃO MANTIDA.
+    DOSIMETRIA DA PENA. SEGUNDA FASE. ALMEJADA ALTERAÇÃO DO ‘QUANTUM’ DE AUMENTO. IMPERTINÊNCIA. REINCIDÊNCIA ESPECÍFICA. DISCRICIONARIEDADE DO JULGADOR. FRAÇÃO DE ELEVAÇÃO QUE SE MOSTRA ADEQUADA NA ESPÉCIE. TERCEIRA FASE. REQUERIDA APLICAÇÃO DO AUMENTO DA PENA NO PATAMAR MÍNIMO. IMPOSSIBILIDADE. EXISTÊNCIA DE TRÊS MAJORANTES. PECULIARIDADES DO CASO DEVIDAMENTE MOTIVADAS.
+    PEDIDO DE MODIFICAÇÃO DO REGIME DE CUMPRIMENTO DE PENA PARA O SEMIABERTO. IMPOSSIBILIDADE. RÉU REINCIDENTE. ‘QUANTUM’ DA SANÇÃO QUE OBSTA A APLICAÇÃO DA SÚMULA 269 DO STJ. REGIME INICIAL FECHADO MANTIDO.
+    CONTEXTO HÁBIL À IMEDIATA EXECUÇÃO DA PENA CORPORAL IMPOSTA.
+    RECURSO CONHECIDO E DESPROVIDO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 5º, XLVI e LVII, da Constituição da República.
+    Cabe registrar, desde logo, que a jurisprudência do Supremo Tribunal Federal, a propósito da suposta ofensa ao art. 5º, XLVI, da Constituição, tem enfatizado que essa alegação pode configurar, quando muito, situação caracterizadora de ofensa meramente reflexa ao texto da Constituição, o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária:
+    “1. Embargos de declaração recebidos como agravo regimental.
+    2. Recurso extraordinário em matéria criminal: descabimento: questão relativa à individualização da pena decidida à luz da legislação ordinária pertinente: alegada violação do art. 5º, XLVI, da Constituição, que, se ocorresse, seria reflexa ou indireta: incidência do princípio da Súmula 636.
+    3. Decisão judicial: fundamentação (CF, art. 93, IX): exigência constitucional satisfeita.”
+    (AI 557.597-ED/MG, Rel. Min. SEPÚLVEDA PERTENCE – grifei)
+    A espécie ora em exame não foge aos padrões acima mencionados, refletindo, por isso mesmo, possível situação de ofensa indireta às prescrições da Carta Política, circunstância essa que impede – como precedentemente já enfatizado – o próprio conhecimento do recurso extraordinário (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO).
+    Cumpre assinalar, ainda, no tocante à alegada violação ao art. 5º, LVII, da Constituição Federal, que não se revela cabível proceder, em sede recursal extraordinária, a indagações de caráter eminentemente probatório, especialmente quando se busca discutir elementos fáticos subjacentes à causa penal.
+    No caso, a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame de fatos e de provas, o que não se admite na sede excepcional do apelo extremo.
+    Essa pretensão sofre as restrições inerentes ao recurso extraordinário, em cujo âmbito não se reexaminam fatos e provas, circunstância essa que faz incidir, na espécie, a Súmula 279 do Supremo Tribunal Federal.
+    Não custa enfatizar, consoante adverte o magistério da doutrina (ADA PELLEGRINI GRINOVER, ANTONIO MAGALHÃES GOMES FILHO e ANTONIO SCARANCE FERNANDES, “Recursos no Processo Penal”, p. 269/270, item n. 176, 1996, RT), que o reexame dos fatos e das provas constitui tema estranho ao âmbito de atuação do recurso extraordinário (Súmula 279/STF), ainda que se cuide, como no caso, de matéria de índole penal.
+    A mera análise do acórdão recorrido demonstra que o E. Tribunal de Justiça do Estado de Santa Catarina, no julgamento da apelação, sustentou as suas conclusões em aspectos fático-probatórios:
+    “Inicialmente, o acusado almeja sua absolvição argumentando que inexistem provas suficientes para atestar a prática do crime, visto que a sentença teve por fundamento apenas os elementos informativos colhidos na fase indiciária.
+    Todavia, adianta-se que o pleito absolutório não merece prosperar.
+    A materialidade do crime encontra-se evidenciada pelo boletim de ocorrência (fls. 31-32), termo de apreensão (fl. 15) e termo de reconhecimento e entrega (fl. 16).
+    A autoria, ao contrário do que se menciona, esta amparada nas provas obtidas nas etapas administrativa e judicial, mormente nos depoimentos colhidos sob o crivo do contraditório.
+    …..................................................................................................
+    Nessa via, importante ressaltar que um aparelho celular foi encontrado no veículo abandonado pelos autores do crime de roubo e, neste referido aparelho, existiam fotografias de um homem, o qual Marcelo afirmou ser a pessoa que solicitou o serviço de motorista (fl. 19), motivo pelo qual foram realizadas investigações que identificaram ‘Alemão’ como sendo o acusado Djonata (fl. 126).
+    Do mesmo modo, os policiais militares Jair da Silva e Adriano Valério Arruda consignaram em juízo que participaram da prisão em flagrante do corréu Marcelo e confirmaram que um celular foi apreendido. Adriano destacou ainda que no celular havia fotos de um outro assaltante e que Marcelo mencionou o apelido ‘Alemão’ na Delegacia de Polícia (audiovisual à fl. 174 e 209).
+    …...................................................................................................
+    Nesse cenário, apesar das vítimas não terem conseguido reconhecer nenhum dos acusados, não resta dúvidas que Djonata cometeu o crime de roubo em questão tendo em vista a existência de fotos suas no celular encontrado dentro do veículo utilizado pelos autores do crime e considerando a declaração de Marcelo, preso em flagrante, segundo o qual ‘Alemão’ teria cometido o fato.
+    Ademais, cabe destacar que o réu não logrou êxito em demonstrar que seu pai havia perdido o referido celular, ônus que lhe competia nos termos do art. 156 do Código de Processo Penal e tem-se por improvável coincidência um dos coautores possuir o mesmo apelido do acusado
+    Além disso, carece de credibilidade o depoimento da testemunha de defesa Scheila Mara Staroski que mencionou em juízo que Djonata estava assando carne em companhia de outras pessoas da vizinhança no dia dos fatos, eis que a mesma não soube informar com precisão o nome dessas outras pessoas e tampouco soube especificar a data em que ocorreu tal confraternização (audiovisual à fl. 183).
+    Diante disso, inviável a absolvição do acusado, pois as provas reunidas no âmbito policial e judicial dão conta que Djonata praticou o crime de roubo narrado na exordial acusatória.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 11 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
