@@ -1,0 +1,47 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE TELECOMUNICAÇÕES. SERVIÇO DE VALOR ADICIONADO. ACESSO À INTERNET. VIOLAÇÃO DO ART. 183 DA LEI N. 9.472/1997. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o entendimento firmado nesta Corte, "a transmissão de sinal de internet via radio, sem autorização da ANATEL, caracteriza o fato típico previsto no artigo 183 da Lei n. 9.472/1997, ainda que se trate de serviço de valor adicionado de que cuida o artigo 61, § 1º, da mesma lei" (AgRg no REsp 1.566.462/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/3/2016, DJe 28/3/2016).
+2. "A prática de serviço de radiodifusão clandestina, mesmo que de baixa potência e sem a obrigatoriedade de autorização por parte do órgão regulador, como na hipótese de serviço de valor adicionado (SVA), constitui delito formal de perigo abstrato, o que afasta o reconhecimento da atipicidade material da conduta pela aplicação do princípio da insignificância" (AgRg no REsp 1.555.092/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/12/2015, DJe de 2/2/2016).
+3. Agravo regimental não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por [NOME] DE JESUS MOTA contra decisão desta Relatoria, que deu provimento ao recurso especial ministerial para determinar o prosseguimento da ação penal (e-STJ, fls. 222-224).
+O agravante alega que "para haver tipicidade penal, exige-se um mínimo de lesividade ao bem jurídico, haja vista que o legislador jamais poderia inserir em um tipo penal condutas totalmente inofensivas e incapazes de lesar o interesse protegido". Aduz, ainda, que "no caso em análise, verifica-se a conduta do réu não trouxe a ocorrência de qualquer prejuízo. Não existindo danos, ou seja, não sendo ofensivo o comportamento do réu, não pode ser considerada típica a sua conduta, a ponto de ensejar a propositura de ação penal." (e-STJ, fl. 236).
+Requer a reconsideração da decisão agravada ou a submissão do feito à Turma Julgadora.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE TELECOMUNICAÇÕES. SERVIÇO DE VALOR ADICIONADO. ACESSO À INTERNET. VIOLAÇÃO DO ART. 183 DA LEI N. 9.472/1997. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o entendimento firmado nesta Corte, "a transmissão de sinal de internet via radio, sem autorização da ANATEL, caracteriza o fato típico previsto no artigo 183 da Lei n. 9.472/1997, ainda que se trate de serviço de valor adicionado de que cuida o artigo 61, § 1º, da mesma lei" (AgRg no REsp 1.566.462/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/3/2016, DJe 28/3/2016).
+2. "A prática de serviço de radiodifusão clandestina, mesmo que de baixa potência e sem a obrigatoriedade de autorização por parte do órgão regulador, como na hipótese de serviço de valor adicionado (SVA), constitui delito formal de perigo abstrato, o que afasta o reconhecimento da atipicidade material da conduta pela aplicação do princípio da insignificância" (AgRg no REsp 1.555.092/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/12/2015, DJe de 2/2/2016).
+3. Agravo regimental não provido.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A pretensão não merece êxito, na medida em que o agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+Infere-se da decisão agravada:
+"A pretensão recursal merece provimento.
+O recorrido, segundo consta do acórdão, é responsável pela exploração clandestina de serviço de comunicação multimídia - operando na faixa de frequência 2,4 GHz (equipamento de rede de dados marca TP-Link Technologies Co. Ltd., modelo TL-SF1008D, série [CPF]) radiação restrita, mediante transmissores de baixa potência.
+Este Superior Tribunal firmou o entendimento de que "a transmissão de sinal de internet via radio, sem autorização da ANATEL, caracteriza o fato típico previsto no artigo 183 da Lei n. 9.472/1997, ainda que se trate de serviço de valor adicionado de que cuida o artigo 61, § 1º, da mesma lei" (AgRg no REsp 1.566.462/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/3/2016, DJe 28/3/2016).
+No mesmo sentido:
+"PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ATIVIDADE CLANDESTINA DE TELECOMUNICAÇÃO. SERVIÇO DE COMUNICAÇÃO MULTIMÍDIA. TRANSMISSÃO DE SINAL DE INTERNET VIA RÁDIO. SERVIÇO DE VALOR ADICIONADO. TIPICIDADE. PRINCÍPIO DA INSIGNIFICÂNCIA.
+INAPLICABILIDADE. DELITO FORMAL E ABSTRATO. INÚMEROS PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+1. É pacífico o entendimento no Superior Tribunal de Justiça de que a prática de serviço de radiodifusão clandestina, mesmo que de baixa potência e sem a obrigatoriedade de autorização por parte do órgão regulador, como na hipótese de serviço de valor adicionado (SVA), constitui delito formal de perigo abstrato, o que afasta o reconhecimento da atipicidade material da conduta pela aplicação do princípio da insignificância. Precedentes de ambas as Turmas da Terceira Seção.
+2. Agravo regimental improvido." (AgRg no AREsp 1.126.265/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 7/11/2017, DJe 21/11/2017).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. 1. CRIME DE TELECOMUNICAÇÕES. RETRANSMISSÃO DE SINAL DE INTERNET VIA RÁDIO. SERVIÇO DE VALOR ADICIONADO. CLASSIFICAÇÃO QUE NÃO RETIRA A NATUREZA DE SERVIÇO DE TELECOMUNICAÇÃO. 2. CRIME DE PERIGO ABSTRATO. DESNECESSIDADE DE PREJUÍZO CONCRETO. INVIABILIDADE DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. 3. AGRAVO REGIMENTAL IMPROVIDO.
+1. É pacífico no Superior Tribunal de Justiça o entendimento no sentido de que a transmissão clandestina de sinal de internet, via radiofrequência, sem autorização da Agência Nacional de Telecomunicações, caracteriza, em tese, o delito previsto no artigo 183 da Lei n. 9.472/1997. Não há se falar em atipicidade do delito pela previsão de que se trata de serviço de valor adicionado, uma vez que referida característica não exclui sua natureza de efetivo serviço de telecomunicação.
+2. Prevalece no Superior Tribunal de Justiça o entendimento no sentido de não ser possível a incidência do princípio da insignificância nos casos de prática do delito descrito no art. 183 da Lei n. 9.472/1997. Isso porque se considera que a instalação de estação clandestina de radiofrequência, sem autorização dos órgãos e entes com atribuições para tanto, já é, por si, suficiente para comprometer a segurança, a regularidade e a operabilidade do sistema de telecomunicações do país, não podendo, portanto, ser vista como uma lesão inexpressiva.
+3. Agravo regimental improvido." (AgRg no RHC 33.399/PB, Rel. Min. REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 4/2/2016, DJe 15/2/2016).
+Anote-se, ainda, ser despicienda a análise da potencialidade lesiva do equipamento utilizado nas emissões clandestinas. E isto porque "a prática de serviço de radiodifusão clandestina, mesmo que de baixa potência e sem a obrigatoriedade de autorização por parte do órgão regulador, como na hipótese de serviço de valor adicionado (SVA), constitui delito formal de perigo abstrato, o que afasta o reconhecimento da atipicidade material da conduta pela aplicação do princípio da insignificância" (AgRg no REsp 1.555.092/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/12/2015, DJe de 2/2/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial e determino o prosseguimento da ação penal." (e-STJ, fls. 222-224).
+Para corroborar, colaciono mais este precedente:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INSTALAÇÃO E OPERAÇÃO CLANDESTINA DE RADIODIFUSÃO PARA PRESTAÇÃO DE SERVIÇO DE ACESSO À INTERNET. CRIME CONTRA AS TELECOMUNICAÇÕES. ART. 183 DA LEI N. 9.472/97. CONDUTA TÍPICA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CRIME DE PERIGO ABSTRATO. INSURGÊNCIA IMPROVIDA.
+1. Hipótese em que a empresa presta diretamente a seus usuários acesso a internet, via rádio, sem autorização da ANATEL para a exploração do serviço de telecomunicação.
+2. De acordo com o entendimento firmado nesta Corte, "a transmissão de sinal de internet via radio, sem autorização da ANATEL, caracteriza o fato típico previsto no artigo 183 da Lei n. 9. 472/97, ainda que se trate de serviço de valor adicionado de que cuida o artigo 61, § 1º, da mesma lei" (AgRg no REsp 1.566.462/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/3/2016, DJe 28/3/2016).
+3. A jurisprudência deste Sodalício entende que o delito previsto no art. 183 da Lei n. 9.472/97, por tratar-se de crime formal, de perigo abstrato, dispensa a prova do prejuízo causado para sua caracterização, sendo inaplicável o princípio da insignificância.
+4. Agravo regimental a que se nega provimento." (AgRg no AREsp 1.193.692/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 27/2/2018, DJe 7/3/2018).
+À vista do exposto, nego provimento ao agravo regimental.
+É o voto.
