@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Mandado de Segurança - Indeferimento de pleito de concessão de benefícios da assistência judiciária gratuita - Decisão que desafia recurso próprio (agravo de instrumento), com efeito suspensivo, ex vi do art. 101 e seu § 1º, do CPC - Inadequação desta via para apreciação do tema suscitado na inicial - Inteligência da Súmula 267 do STF, e do art. 5º, II, da Lei 12.016/09 - Ausência de lesão irreparável ou de difícil reparação porque as despesas e custas do processo somente serão devidas ao final da ação penal e, ainda, se a impetrante foi condenada, ex vi art. 804, do CPP - Custas sujeitas à cláusula rebus sic stantibus, nos termos do artigo 98, § 3º, do CPC - Indeferimento liminar da impetração, nos termos do art. 10, caput, da Lei 12.016/09" (e-STJ, fl. 20).
+Narra a recorrente que:
+"impetrou Mandado de Segurança contra a respeitável decisão que denegou a Justiça Gratuita.
+No entanto, o mandado de segurança foi negada, sob fundamento de que caberia agravo de instrumento contra decisão denegatória da justiça gratuita no processo criminal.
+No entanto, não há qualquer impedimento a que seja conhecido o Mandado de Segurança e concedida a ordem pleiteada, já que altamente discutível o cabimento ou não do agravo de instrumento no processo criminal, diante da ausência do Código de Processo Penal.
+(..) (e-STJ, fl. 29).
+Requer o provimento do recurso para a concessão do benefício pleiteado.
+O Ministério Público Federal opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+No caso dos autos, a recorrente impetrou mandado de segurança contra ato do Juízo da 2ª Vara Criminal da Comarca de Lins-SP, com o propósito de obter o benefício da assistência judiciária gratuita (isenção das custas processuais) nos atos da ação penal a que responde.
+Infere-se que não houve recurso contra essa decisão desfavorável à ora recorrente, que já entrou direto com o writ.
+Dispõe a Súmula 267/STJ - corretamente aplicada pelo Tribunal de origem - que "não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+Consigne-se, no ponto, que, nos termos da jurisprudência do Superior Tribunal de Justiça, "conforme previsto no art. 5º, II, da Lei n. 12.016/2009, "Não se concederá mandado de segurança quando se tratar  ..  de decisão judicial da qual caiba recurso com efeito suspensivo", Esse é o teor da Súmula n. 267 do Supremo Tribunal Federal, segundo a qual "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição" (AgRg no RMS 55.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 21/11/2017)
+Ainda nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. SEQUESTRO DE BENS. DECISÃO QUE DESAFIA RECURSO PREVISTO NO ORDENAMENTO JURÍDICO. SÚMULA N. 267/STF. DIREITO LÍQUIDO E CERTO. NÃO COMPROVAÇÃO. AUSÊNCIA DE ILEGALIDADE E ABUSO DE PODER. IMPOSSIBILIDADE DE CONFIGURAÇÃO DO CRIME DE LAVAGEM DE DINHEIRO NA HIPÓTESE QUE ELENCA. SUPRESSÃO DE INSTÂNCIA. RECURSO A QUE SE NEGOU PROVIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+I - Como é sabido, o mandado de segurança somente terá cabimento para a proteção de direito líquido e certo, compreendendo-se tal expressão, em sentido processual, como "direito comprovável documentalmente, sem necessidade de instrução dilatória." (GRINOVER, Ada Pelegrini, 7ª ed. pág. 310).
+II - Nos termos da Lei n. 12.016/09, art. 5º, II, "Não se concederá mandado de segurança:  ..  II - de decisão judicial da qual caiba recurso com efeito suspensivo.", III - Igualmente, segundo o enunciado n. 267, da Súmula do STF "não cabe mandado de segurança contra ato judicial passível de recurso ou correição". IV - O writ poderá ser impetrado contra ato jurisdicional, excepcionalmente, quando ficar configurada manifesta ilegalidade ou abuso de poder, apta a ofender direito líquido e certo.
+V - No caso, não ficou devidamente comprovada, sem necessidade de qualquer dilação probatória, a origem lícita dos bens sequestrados.
+Ao revés, o eg. Tribunal de origem manteve a decisão que decretou o sequestro, sob o fundamento de que estão presentes indícios veementes da proveniência ilícita deles, considerando a suposta prática dos crimes de sonegação fiscal, lavagem ou ocultação de valores e organização criminosa, nos exatos termos dos arts. 125 a 127 do CPP, que disciplinam a matéria. VI - Não há que se falar em inversão do ônus da prova no caso concreto, porquanto o art. 126 do CPP, para a decretação do sequestro, tão somente a existência de indícios veementes da proveniência ilícita dos bens.
+VII - A suposta impossibilidade de configuração do crime de lavagem de dinheiro na hipótese que elenca é matéria que não foi apreciada pelo eg. Tribunal de origem, o que obsta a sua análise por esta Corte, sob pena de supressão de instância.
+Agravo regimental desprovido" (AgRg no RMS 54.559/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 11/04/2018)
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSO PENAL. ATO JUDICIAL OBJETO DE RECURSO ESPECIAL, EXTRAORDINÁRIO E MANDADO DE SEGURANÇA. IMPOSSIBILIDADE. TERCEIRO INTERESSADO. INAPLICABILIDADE DA SÚMULA Nº 202/STJ. MANDADO DE SEGURANÇA COMO SUCEDÂNEO RECURSAL. NÃO CABIMENTO. SÚMULA Nº 267/STF. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Admite-se o recurso interposto por quem não é parte no processo, desde que demonstrada a qualidade de terceiro interessado, vale dizer, desde que evidenciada a ligação entre o interesse de intervir e a relação jurídica posta nos autos.
+2. Possível a interposição de recurso contra o ato judicial atacado, não há falar na incidência do enunciado nº 202 deste Superior Tribunal de Justiça, que somente tem aplicação para o terceiro que ficou impossibilitado de se utilizar do recurso cabível no prazo legal, o que não se verifica.
+3. O mandado de segurança não é sucedâneo recursal, não tendo cabimento, portanto, em casos em que há recurso próprio, previsto na legislação processual, apto a resguardar a pretensão do impetrante, mesmo que sem efeito suspensivo, salvo a hipótese de decisão teratológica ou flagrantemente ilegal. Inteligência do enunciado nº 267 do Supremo Tribunal Federal.
+4. Agravo regimental a que se nega provimento" (AgRg no RMS 46.801/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 17/12/2014)
+Não se verifica, ademais, hipótese de teratologia ou abuso de poder no conteúdo da decisão atacada.
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, nego seguimento ao recurso em mandado de segurança.
+Publique-se. Intimem-se.
+Certifique-se o Ministério Público Federal.
+Sem recurso, baixem-se os autos à origem.
