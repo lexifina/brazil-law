@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Zabet S.A. Indústria e Comércio, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 3ª Região, assim ementado (e-STJ, fls. 541/542):
+PROCESSUAL CIVIL. AGRAVO LEGAL. ARTIGO 557, § 1º, DO CÓDIGO DE PROCESSO CIVIL. APELAÇÃO JULGADA MONOCRATICAMENTE. POSSIBILIDADE. EMBARGOS À EXECUÇÃO FISCAL. COFINS. LANÇAMENTO POR HOMOLOGAÇÃO. MULTA DE OFÍCIO. HONORÁRIOS MANTIDOS. RECURSOS IMPROVIDOS.
+1. O crédito em dobro decorre da ausência de pagamento de multa de mora. O contribuinte apresentou DCTF relativa à exigência da COFINS. Posteriormente, contudo, ofereceu declaração retificadora, tendo em vista haver apurado crédito tributário superior àquele anteriormente informado. Promoveu o recolhimento com o acréscimo de juros, mas sem a incidência da multa moratória.
+2. Em se tratando de tributo sujeito a lançamento por homologação, a simples declaração do contribuinte tem o condão de constituir o crédito fiscal, independentemente de qualquer outra providência por parte do Fisco (Súmula nº 436 do Superior Tribunal de Justiça).
+3. Não encontra incidência, contudo, a denominada multa de ofício, na medida em que, com a simples entrega da declaração pelo contribuinte, encontra-se devidamente constituído o crédito fiscal, não havendo que se falar em lançamento de ofício, eis que não caracterizada nenhuma das hipóteses do artigo 149 do Código Tributário Nacional.
+4. A Lei 11.488/2007 alterou a redação do artigo 44, I, da Lei 9.430/96, não mais prevendo a aplicação de multa de ofício em caso de recolhimento da exação após o vencimento do prazo, sem o acréscimo da multa moratória.
+5. Aplicação do artigo 106, II, "a" e "c", do Código Tributário Nacional.
+6. Não socorre à União a regra do artigo 61 da Lei 9.430/96, na medida em que este dispositivo cuida de aplicação da multa de mora, decorrente do não pagamento dos débitos para com a União nos prazos previstos na legislação específica. Não versa, pois, sobre multa de ofício, oriunda do não recolhimento da própria multa moratória.
+7. Em relação aos honorários advocatícios, observa-se que sua fixação deve obedecer ao patamar de 10% sobre o valor da execução, limitado a R$ 10.000,00 (dez mil reais), observando-se a prudência, o bom senso e a razoabilidade que integram o conceito de equidade (artigo 20, § 4º, do Código de Processo Civil) utilizado nas ações em que inexiste condenação.
+8. Agravos legais improvidos.
+Não foram opostos embargos de declaração.
+A recorrente alega violação do art. 20, § 3º, "a", "b" e "c", § 4º, do CPC, bem como ocorrência de interpretação divergente de decisão proferida pelo STJ.
+Sustenta, em síntese, que não merece prosperar a limitação dos honorários em R$ 10.000,00 para uma execução cuja causa foi originalmente estabelecida em R$ 7.674.893,97.
+Assevera que o acórdão recorrido não respeitou os critérios de equidade, o zelo profissional nem o trabalho dos patronos da recorrente, não se atendo, ainda, às despesas e aos custos incorridos para o acompanhamento e a manutenção da demanda.
+Apresentadas contrarrazões às e-STJ, fls. 613/619.
+Admitido o recursos especial na origem (e-STJ, fls. 627/628), foram os autos remetidos a esta Corte de Justiça.
+Parecer do Ministério Público Federal às e-STJ, fls. 676/683, opinando "pelo conhecimento e provimento do Recurso Especial da Fazenda Nacional e pelo não conhecimento do Recurso Especial da Zabet S/A Indústria e Comércio".
+É o relatório.
+Defende a recorrente que não merece prosperar a limitação dos honorários em R$ 10.000,00 para uma execução cuja causa foi originalmente estabelecida em R$ 7.674.893,97. Alega que o acórdão recorrido não respeitou os critérios de equidade, o zelo profissional nem o trabalho dos patronos da recorrente, não se atendo, ainda, às despesas e aos custos incorridos para o acompanhamento e a manutenção da demanda.
+A definição do quantum a título de verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática, insuscetível de reexame na via especial diante do óbice da Súmula 7/STJ.
+No entanto, a jurisprudência desta Corte adotou o entendimento de que os honorários advocatícios são passíveis de modificação na instância especial tão somente quando se mostram irrisórios ou exorbitantes.
+Confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO AO SEBRAE/APEX-BRASIL/ABDI. LEI 11.457/2007. SECRETARIA DA RECEITA FEDERAL DO BRASIL. CENTRALIZAÇÃO. LEGITIMIDADE PASSIVA AD CAUSAM DA FAZENDA NACIONAL. EXIGIBILIDADE DA EXAÇÃO. ACÓRDÃO DE CUNHO CONSTITUCIONAL. HONORÁRIOS ADVOCATÍCIOS. AFASTAMENTO OU REDUÇÃO. SÚMULA 7/STJ.
+ ..
+6. Por fim, apontando violação ao art. 85 do CPC/2015, a pretensão da ora recorrente é afastar ou reduzir os honorários advocatícios de sucumbência. No entanto, a jurisprudência do STJ é firme no sentido de que a fixação de honorários advocatícios esbarra no óbice da Súmula 7/STJ, e que tal óbice sumular somente é relativizado em situações excepcionais, que se configuram quando os referidos honorários são estabelecidos em valores irrisórios ou exorbitantes, o que não é o caso dos autos.
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.681.414/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 3/10/2017, DJe 17/10/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE DE REVISÃO QUANDO IRRISÓRIOS OU EXORBITANTES E VERIFICÁVEIS DE PLANO. VALOR ÍNFIMO (R$ 5.000,00) DE 1,48% DO VALOR DA CAUSA (R$ 336.076,09). INAPLICABILIDADE DA SÚMULA 7/STJ. HONORÁRIOS MAJORADOS PARA 10% DO VALOR DA CONDENAÇÃO. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO PARA FIXAR OS HONORÁRIOS EM 3% DO VALOR DA CONDENAÇÃO.
+1. A jurisprudência desta Corte Superior entende que, excepcionalmente, em sede de Recurso Especial, se admite a revisão de honorários advocatícios quando fixados em valor exorbitante ou irrisório.
+2. No caso dos autos, a verba honorária arbitrada nas instâncias ordinárias foi no valor de R$ 5 mil, o que perfaz 1,48% do valor da causa, comportando majoração para 10% desse mesmo valor, como se consignou na decisão ora agravada.
+3. Agravo Regimental da FAZENDA DO ESTADO DE SÃO PAULO parcialmente provido para fixar os honorários em 3% do valor da condenação.
+(AgRg no AREsp 80.158/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 16/6/2016, DJe 3/8/2016)
+No caso dos autos, não há dúvida de que o valor de R$ 10.000,000, a título de honorários advocatícios, para uma causa cujo montante, à data da propositura da ação (23/7/2008), era de R$ 7.674.893,97 (e-STJ, fl. 52), apresenta-se irrisório, não retribuindo o labor despendido pelos patronos da sociedade contribuinte.
+Cabe frisar, por oportuno, que na espécie não incide o óbice da Súmula 7/STJ, pois a solução da controvérsia exigiu apenas a revaloração jurídica dos fatos a respeito do tema apurados pela instância ordinária e constantes do acórdão recorrido à e-STJ, fl. 539, nos termos seguintes:
+Em relação aos honorários advocatícios, observo que sua fixação deve obedecer ao patamar de 10% sobre o valor da execução, limitado a R$ 10.000,00 (dez mil reais), observando-se a prudência, o bom senso e a razoabilidade que integram o conceito de equidade (art. 20, § 4º, do Código de Processo Civil) utilizado nas ações em que inexiste condenação, conforme determina a jurisprudência do Superior Tribunal de Justiça a seguir transcrita:
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ e a Súmula 568/STJ, dou provimento ao recurso especial da sociedade contribuinte, nos termos da fundamentação, para elevar os honorários advocatícios ao aporte de R$ 50.000,00 (cinquenta mil reais).
+Publique-se. Intimem-se.
