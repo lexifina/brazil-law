@@ -1,0 +1,79 @@
+EMENTA
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO CAUTELAR. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar para garantia da ordem pública, especialmente em elemento extraído da conduta perpetrada pelo acusado, qual seja, a reiteração delitiva, porquanto ostenta condenação por porte ilegal de arma de fogo e possui ação penal em curso pelo crime de receptação. Ademais, ao indeferir a revogação da prisão cautelar do recorrente, o magistrado ressaltou que "há indícios de que, após ser posto em liberdade pela prisão decretada no Distrito Federal, o requerente tentou intervir na instrução criminal".
+2. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+3. Recurso a que se nega provimento.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça: A Sexta Turma, por unanimidade, negou provimento ao recurso ordinário, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+Ministra MARIA THEREZA DE ASSIS MOURA (Relatora):
+Trata-se de recurso ordinário, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de Goiás que denegou a ordem no habeas corpus impetrado pelo recorrente, assim ementado:
+HABEAS CORPUS. REGIME PRISIONAL. NÃO CONHECIMENTO. DECISÃO MOTIVADA. ORDEM DENEGADA.
+1 - Questão referente ao mérito da ação penal não deve ser apreciada.
+2 - Decisão prisional motivada não constitui constrangimento ilegal.
+Ordem parcialmente conhecida e denegada.
+Sustenta o recorrente, em suma, constrangimento ilegal decorrente de prisão preventiva, sem motivação idônea.
+Alega, quanto às condenações pretéritas invocadas para motivar a garantia da ordem pública, em relação ao porte de arma de fogo, que "fora condenado a uma pena MÍNIMA privativa de liberdade em regime diverso do fechado, posteriormente agraciado pelo benefício legal da substituição da reprimenda corporal por restritiva de direitos, bem como lhe fora concedido o direito de recorrer em liberdade, o que, por si só, demonstra a insensatez e a desproporcionalidade da manutenção do decreto prisional cautelar, uma vez que a prisão somente se legitimaria com apoio em base empírica idônea, reveladora da efetiva necessidade da constrição dos status libertatis do indiciado ou acusado." e, quanto à receptação, que inexiste sentença penal condenatória com trânsito em julgado, tudo indicando que, em caso de condenação, o regime de cumprimento de pena será diverso do fechado.
+Assevera que "indubitavelmente recai sobre o segredado a garantia da presunção de inocência (princípio da não culpabilidade) assegurada no inciso LVII do artigo 5º da Constituição Federal, por via de conseqüência, a prisão preventiva do Recorrente, sem dúvida, afronta a própria dignidade humana do enclausurado (artigo 1º, inciso III, CF/88) em decorrência da absoluta ausência de fundamentação idônea."
+Aduz, quanto à suposta intervenção da instrução criminal, que jamais perseguiu ou ameaçou a filha da testemunha, inexistindo intimidação de testemunhas.
+Sustenta, por fim, o incabimento da prisão preventiva sem que reste demonstrado que é incabível a sua substituição por medidas cautelares diversas.
+Requer liminarmente a imediata colocação do recorrente em liberdade, com a expedição de alvará de soltura.
+A liminar foi indeferida às fls. 139-141.
+O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República [NOME], manifestou-se pelo desprovimento do recurso. (fls. 146-150).
+É o relatório.
+EMENTA
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO CAUTELAR. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar para garantia da ordem pública, especialmente em elemento extraído da conduta perpetrada pelo acusado, qual seja, a reiteração delitiva, porquanto ostenta condenação por porte ilegal de arma de fogo e possui ação penal em curso pelo crime de receptação. Ademais, ao indeferir a revogação da prisão cautelar do recorrente, o magistrado ressaltou que "há indícios de que, após ser posto em liberdade pela prisão decretada no Distrito Federal, o requerente tentou intervir na instrução criminal".
+2. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+3. Recurso a que se nega provimento.
+
+VOTO
+Ministra MARIA THEREZA DE ASSIS MOURA (Relatora):
+A questão trazida a deslinde abarca o exame acerca da fundamentação empregada no encarceramento cautelar do recorrente.
+Conforme reiterada jurisprudência desta Corte Superior de Justiça, toda custódia imposta antes do trânsito em julgado de sentença penal condenatória exige concreta fundamentação, nos termos do disposto no art. 312 do Código de Processo Penal.
+In casu, o juízo a quo decretou a prisão preventiva do recorrente e corréu, dada a suposta prática do crime de homicídio qualificado, em decisão assim fundamentada, no que interessa (fl. 27):
+(..)
+In casu, convém ressaltar que o crime supostamente praticados pelos denunciados ocorreu em via pública, durante o dia, o que demonstra a ousadia da conduta.
+Desse modo, presente está uma das hipóteses que autoriza a decretação da prisão preventiva, qual seja, a garantia da ordem pública, pois ela visa não só a impedir que o agente se solto volte a delinquir, mas também acautelar o meio social, nos crimes que provoquem clamor popular, garantindo a credibilidade da Justiça.
+De mais a mais, observo que os réus apresentam inclinação para a prática de ilícitos, uma vez que da análise da folha de antecedentes criminais é possível verificar que [NOME] possui uma ação penal pelo crime de roubo e outra pelo crime de porte ilegal de arma de fogo, ambas no Distrito Federal, além de uma receptação neste Juízo, ao passo em que [NOME] responde por um roubo na comarca de Valparaíso de Goiás/GO.
+Destarte, a restrição de liberdade dos denunciados é medida necessária, não se mostrando viável, por ora, a imposição de outra medida cautelar menos severa, na forma do § 6º, do art. 282, do Código de Processo Penal.
+Ante o exposto, com fundamento nos artigos 312 e 313, inciso I, ambos do Código de Processo Penal, DECRETO A PRISÃO PREVENTIVA de [NOME] e [NOME], como garantia da ordem pública.
+Requerida a revogação da custódia preventiva, foi o pleito indeferido, in verbis (fls. 43-44):
+(..)
+Em que pese o esforço da Defesa, entendo não assistir razão a ela.
+Veja-se, por primeiro, que o requerente foi denunciado pela prática, em tese, da conduta tipificada no art. 121, § 2º, incisos II e IV, do Código Penal, havendo prova da materialidade e indícios de autoria, sendo a prisão cautelar imprescindível para garantia da ordem pública, como forma de acautelar o meio social e a própria credibilidade da justiça, notadamente pela ousadia de sua conduta e por possuir outras ações penais em curso pela prática, em tese, dos crimes de roubo, porte ilegal de arma de fogo e receptação.
+Como se sabe, a prisão preventiva somente pode ser revogada "se, no correr do processo, verificar a falta de motivo para que subsista" (CPP, art. 316). Inexistente, pois, tal fato, que tenha o condão de afastar o fulcro da prisão processual, ao magistrado incumbe simplesmente mantê-la por seus próprios fundamentos.
+E o que ocorre nestes autos. Observe-se que nada de relevante foi coligido pelo requerente em sua postulação, limitando-se o mesmo a sustentar que foi absolvido pelo crime de roubo e condenado a pena mínima nos autos referentes ao porte ilegal de arma de fogo e que o processo relativo ao crime de receptação ainda está em curso.
+Sendo assim, não me convenço da existência de qualquer fundamento sério que leve à revogação da prisão preventiva. Muito mais motivos, creio, existem para manutenção da cautela extrema, bastando analisar-se a gravidade do fato, os reflexos para comunidade e sua ousadia.
+De mais a mais, o só fato do requerente ter sido absolvido pela suposta prática do crime de roubo não configura fundamento apto a ensejar a revogação da prisão preventiva, mormente porque fora proferida sentença condenatória em relação ao crime de porte ilegal de arma de fogo e ainda está em curso a ação penal pelo crime de receptação.
+Ademais, convém ressaltar que há indícios de que, após ser posto em liberdade pela prisão decretada no Distrito Federal, o requerente tentou intervir na instrução criminal, conforme documento de fls. 134/135 dos autos de ação penal.
+Por derradeiro, ainda que os predicados do requerente fossem, em tese, favoráveis, não haveria óbice para a manutenção de sua segregação cautelar, eis que presente seu pressuposto calcado na garantia da ordem pública.
+Ante o exposto, acolhendo o parecer ministerial, INDEFIRO o pedido de revogação da prisão preventiva, mantendo incólume a decisão proferida nos autos de ação penal, devendo o requerente permanecer na custódia em se encontra.
+Com efeito, de tudo quanto apontado, não vislumbro ilegalidade na custódia cautelar, decretada e mantida para o resguardo da ordem pública, em razão da reiteração delitiva do acusado, eis que consignado pelo juízo de primeiro grau que recorrente já foi condenado por porte ilegal de arma de fogo e possui ação penal em curso pelo crime de receptação. Ademais, ao indeferir a revogação da prisão cautelar do recorrente, o magistrado ressaltou que "há indícios de que, após ser posto em liberdade pela prisão decretada no Distrito Federal, o requerente tentou intervir na instrução criminal" (fl. 44).
+Dessarte, estando o decreto prisional lastreado em elementos concretos colhidos dos próprios autos, não há imputar qualquer ilegalidade à custódia. Neste sentido:
+HABEAS CORPUS. SUPOSTA PRÁTICA DE ROUBO. DECISÃO DE PRIMEIRO GRAU QUE REVOGOU A PRISÃO PREVENTIVA. RECURSO EM SENTIDO ESTRITO MINISTERIAL. PROVIMENTO DO RECURSO NO TRIBUNAL PARA DECRETAR A PRISÃO PREVENTIVA. MOTIVAÇÃO CONCRETA COM BASE NA REITERAÇÃO DELITIVA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Da leitura da folha de antecedentes criminais do paciente, observa-se que, de fato, existem outras condenações e inquéritos, o que demonstra estar o paciente constantemente envolvido em delitos.
+Tais elementos evidenciam a necessidade de manutenção da prisão cautelar para a garantia da ordem pública, especialmente para o fim de evitar a reiteração criminosa. O Superior Tribunal de Justiça tem, repetidamente, decidido que o fundado receio de reiteração delitiva enseja a custódia preventiva para a garantia da ordem pública.
+2. Ordem de habeas corpus denegada.
+(HC 362.079/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. INOCORRÊNCIA. RISCO DE REITERAÇÃO DELITIVA. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - A tese referente à ilegalidade da prisão preventiva diante da demora na realização da audiência de custódia, restou superada diante da análise da prisão em flagrante e a sua conversão em da prisão preventiva, que ocorreu pouco mais de 48 horas após o fato (precedentes).
+III - In casu, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade dos ora recorrentes acarretaria risco à ordem pública, notadamente em razão dos indícios de contumácia na prática de delitos, visto que um dos recorrentes teria um mandado de prisão em aberto, e outros dois estariam em prisão domiciliar, tudo a indicar o fundado receio de reiteração delitiva, assim como pela forma pela qual o delito foi perpetrado, roubo em concurso de agentes, com emprego de arma de fogo e restrição da liberdade das vítimas (precedentes).
+Recurso ordinário parcialmente conhecido e, nesta extensão, desprovido.
+(RHC 77.895/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 14/03/2017, DJe 22/03/2017)
+Assim, dada as particularidades acima citadas, indicativas da necessidade do encarceramento, penso ser inviável a liberação do recorrente, visto que existente fundamentação idônea da cautelaridade.
+Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública. No mesmo sentido, confira-se:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. PREENCHIMENTO DOS REQUISITOS. QUANTIDADE E NATUREZA DOS ENTORPECENTES - 21,907KG DE HAXIXE. AUSÊNCIA DE RESIDÊNCIA FIXA E PROFISSÃO LÍCITA. FUNDAMENTAÇÃO IDÔNEA. PRISÃO DOMICILIAR. REQUISITOS. NÃO PREENCHIMENTO. MEDIDAS CAUTELARES DO ART. 319 DO CPP. INVIABILIDADE. COAÇÃO ILEGAL NÃO DEMONSTRADA. ORDEM NÃO CONHECIDA.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico (art. 5º, LXI, LXV e LXVI, da CF). Assim, a medida, embora possível, deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, vedadas considerações abstratas sobre a gravidade do crime.
+3. No caso, as instâncias ordinárias se basearam em elementos concretos que demonstram a necessidade da custódia, sobretudo natureza e a quantidade dos entorpecentes apreendidos - 21,907kg de haxixe, na forma de 110 tabletes, durante transporte interestadual.
+4. A circunstância de o paciente não ter logrado comprovar residência fixa ou profissão lícita reforça os indícios de que faz do tráfico seu meio de vida e corrobora a necessidade da prisão como forma de garantir a ordem pública.
+5. A hipótese prevista no art. 318, inciso VI, do Código de Processo Penal e requer a efetiva demonstração de que o paciente é o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos, bem como prova idônea dos requisitos estabelecidos neste artigo.
+6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade concreta do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+7. Habeas corpus não conhecido.
+(HC 379.711/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/02/2017, DJe 24/02/2017)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+É como voto.
