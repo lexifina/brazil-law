@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+Furto. Redução da pena. Circunstâncias judiciais. Desfavoráveis. Inviável. Aplicação. Compensação. Reincidência. Confissão espontânea. Determinação do STF. Mudança de regime. Semiaberto. Inviável. Substituição da pena. Ausentes requisitos. Recurso não provido.
+Sustenta o recorrente violação do art. 67 do CP, porquanto não compensada integralmente a confissão espontânea com a reincidência específica.
+Requer, assim, a reforma o acórdão recorrido, a fim de que seja redimensionada a pena.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo improvimento do recurso.
+É o relatório.
+Decido.
+O recorrente foi condenado à pena de 3 anos, 1 mês e 16 dias de reclusão, mais o pagamento de 40 dias-multa, no regime semiaberto, como incurso no art. 155, § 1º, do CP.
+Interposto recurso de apelação, o Tribunal de Justiça negou provimento ao apelo defensivo.
+Quanto a não compensação da confissão com a reincidência, o voto condutor assim referiu (fls. 132/133):
+II - Da Atenuante de Confissão
+A compensação da agravante de reincidência e atenuante de confissão espontânea foi devidamente reconhecida na sentença, bem como a agravante de reincidência, cuja preponderância foi corretamente fundamentada pelo juiz sentenciante no art. 67 do CP.
+Impende ressaltar que conquanto outrora o entendimento desta 2ª Câmara Criminal era no sentido de compensação da agravante de reincidente com a atenuante de confissão, quando o réu possuísse apenas um registro de reincidência e não fosse específica, tal entendimento não pode mais prevalecer, porque diverge da jurisprudência do Supremo Tribunal Federal, no HC n. 105.543, (Rel. Min. Roberto Barroso, Primeira Turma, DJe 27/5/2014).
+Ademais, por meio do Agravo em Recurso Extraordinário - ARE n. 879232/RO, de relatoria da Min.a Cármem Lúcia, a Suprema Corte cassou monocraticamente o acórdão deste Tribunal de Justiça que entendia ser "possível a compensação entre a agravante da reincidência com a atenuante da confissão espontânea".
+Assim, diante da jurisprudência do STF, a sentença deve ser mantida, com a preponderância da agravante reincidência sobre a atenuante da confissão espontânea, nos seus próprios termos.
+No que toca à questão atinente à compensação da atenuante da confissão com a agravante da reincidência, a Terceira Seção desta Corte, em 23/05/2012, por ocasião do julgamento do EREsp 1.154.752/RS, pacificou o entendimento segundo o qual a atenuante da confissão espontânea, na medida em que compreende a personalidade do agente, é circunstância preponderante, devendo ser compensada com a agravante da reincidência, igualmente preponderante. Em 10/04/2013, o entendimento foi reafirmado no julgamento do Recurso Especial 1.341.370/MT, submetido ao rito dos recursos repetitivos.
+Revisitando o tema, em 11/10/2017, no julgamento do HC 365.963/SP, a Terceira Seção desta Corte firmou orientação no sentido de que a reincidência específica não impede a integral compensação com a atenuante da confissão espontânea. O acórdão foi assim ementado:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO SIMPLES. DOSIMETRIA. CONFISSÃO PARCIAL. POSSIBILIDADE DE RECONHECIMENTO DA ATENUANTE. SÚMULA 545/STJ. COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA. REINCIDÊNCIA ESPECÍFICA. ÚNICA CONDENAÇÃO. POSSIBILIDADE. CONTINUIDADE DELITIVA. FRAÇÃO DE AUMENTO. MOTIVAÇÃO CONCRETA. REGIME INICIAL FECHADO. REINCIDÊNCIA E QUANTUM DE PENA APLICADA. FUNDAMENTAÇÃO IDÔNEA. DETRAÇÃO. MATÉRIA NÃO ENFRENTADA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - Na espécie, a incidência da atenuante prevista no art. 65, III, "d", do Código Penal, independe se a confissão foi integral ou parcial, especialmente quando utilizada para fundamentar a condenação. Incidência da Súmula n. 545/STJ.
+IV - A col. Terceira Seção deste eg. Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial Repetitivo nº 1.341.370/MT (Rel. Min. Sebastião Reis Júnior, DJe de 17/4/2013), firmou entendimento segundo o qual "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência."
+V - Na hipótese, não obstante seja o paciente reincidente específico, entendo que podem ser compensadas a agravante da reincidência (específica) com a atenuante da confissão espontânea, mormente se considerada a ausência de qualquer ressalva no entendimento firmado por ocasião do julgamento do recurso especial repetitivo sobre o tema.
+VI - A fração de aumento decorrente da continuidade delitiva foi fixada em 1/5 (um quinto) com base em elementos concretos e de acordo com a jurisprudência desta Corte sobre o tema, inexistindo flagrante ilegalidade ou desproporcionalidade na majoração da reprimenda.
+VII - Ainda que estabelecida a pena-base no mínimo legal, sendo o paciente reincidente e fixada a pena em 6 (seis) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, o regime inicial fechado é o adequado para o cumprimento da sanção, nos termos do art. 33, § 2º, "b", do Código Penal.
+VIII - A eventual possibilidade de aplicação do § 2º do art. 387 do Código de Processo Penal não foi enfrentada pelo Tribunal de origem, sendo inviável sua análise neste Tribunal Superior, sob pena de indevida supressão de instância.
+Habeas corpus não conhecido. Ordem concedida de ofício para reconhecer a atenuante da confissão espontânea e compensá-la com a agravante da reincidência, redimensionando a pena do paciente para 6 (seis) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, mantidos os demais termos da condenação. (HC 365.963/SP, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 11/10/2017, DJe 23/11/2017).
+Passo, assim, à nova dosimetria do delito.
+Adotando os mesmos critérios estabelecidos na origem, mantenho a exasperação da pena-base em 2 anos e 2 meses de reclusão, mais 10 dias-multa, a qual, na segunda etapa, permanece inalterada ante a compensação integral entre a atenuante da confissão espontânea e a agravante da reincidência. Na terceira etapa, aplico a fração de 1/3 diante da causa de aumento prevista no art. 155, § 1º, do CP, ficando a pena definitiva estabelecida em 2 anos, 10 meses e 20 dias de reclusão, mais 13 dias-multa.
+Não obstante a redução ora implementada, é de se manter o regime semiaberto, por se tratar de réu reincidente, consoante o art. 33, §§ 2º e 3º, do CP e Súmula 269/STJ.
+Ante o exposto, dou provimento ao recurso especial para reduzir a pena a 2 anos, 10 meses e 20 dias de reclusão, mais 13 dias-multa, mantido o regime semiaberto.
+Publique-se.
+Intimem-se.
