@@ -1,0 +1,7 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI Nº 11.343/2006), EM CONCURSO MATERIAL COM O CRIME DESCRITO NO ART. 310 DO CÓDIGO DE TRÂNSITO BRASILEIRO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. IMPOSIÇÃO DO REGIME PRISIONAL ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR DUAS RESTRITIVAS DE DIREITOS. FACULTADO O RECURSO EM LIBERDADE. EXPEDIÇÃO DE ALVARÁ DE SOLTURA. RELEVANTE ALTERAÇÃO DO CENÁRIO FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Recurso prejudicado.
+DECISÃO
+As informações obtidas no endereço eletrônico do Tribunal de Justiça de São Paulo dão conta de que, em 18/9/2017, o Juízo de Direito da 2ª Vara Judicial da comarca de Pirapozinho/SP julgou procedente a pretensão punitiva para condenar o ora recorrente à pena de 1 ano e 8 meses de reclusão, em regime aberto, e ao pagamento de 176 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária, como incurso no art. 33, caput, da Lei nº 11.343/2006, em concurso material com o crime previsto no art. 310 do Código de Trânsito Brasileiro, facultado o recurso em liberdade (Ação Penal nº 0002461-76.2016.8.26.0456), fato que esgota a pretensão contida na presente impetração, dada a perda superveniente do objeto da demanda e a alteração do cenário fático-processual.
+Em consequência, julgo prejudicado o recurso (arts. 659 do CPP, 38 da Lei n. 8.038/1990 e 34, XI, do RISTJ).
+Publique-se.
