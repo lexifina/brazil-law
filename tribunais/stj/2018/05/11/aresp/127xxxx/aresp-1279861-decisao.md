@@ -1,0 +1,48 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. CORRETA IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. IMPROBIDADE ADMINISTRATIVA. NECESSIDADE DE LIQUIDAÇÃO DE SENTENÇA AFASTADA PELO TRIBUNAL A QUO COM BASE NO CONJUNTO FÁTICO E PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão prolatada pelo Tribunal de Justiça do Estado de São Paulo que negou admissibilidade a apelo manejado contra acórdão assim ementado (e-STJ fl. 407):
+AGRAVO DE INSTRUMENTO DIGITAL CUMPRIMENTO DE SENTENÇA EXCESSO DE EXECUÇÃO Decisão singular que reconheceu o excesso de execução, tendo determinado que o MP apresente novo cálculo do valor que entende devido em razão da alegada ilegalidade na contratação de sete funcionários de confiança PRETENSÃO RECURSAL PARA SEJA DETERMINADA A ABERTURA DA FASE DE LIQUIDAÇÃO DE SENTENÇA, COM A REALIZAÇÃO DE PERÍCIA CONTÁBIL Decisão que merece subsistir A apuração do quantum debeatur depende apenas de cálculo aritmético Exegese do artigo 509, parágrafo 2º, do CPC Precedentes A liquidação de sentença é necessária apenas nos casos em que a condenação seja ilíquida, o que deve ser entendida como incerta no seu quantum; o que não é o caso dos presentes autos Decisão mantida Agravo de Instrumento improvido.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, aduz a parte Recorrente que houve ofensa aos arts. 502, 503 e 510, do Código de Processo Civil, sob o argumento de que "a liquidação de sentença é necessária nos casos em que a condenação seja ilíquida, entendendo-se pela incerteza do seu quantum - o que é exatamente a hipótese do presente caso, em que a dúvida acerca da existência do débito não pode ser dirimida com simples apresentação de cálculo unilateralmente elaborado pelo Recorrido" (e-STJ fl. 428).
+As contrarrazões foram juntadas às e-STJ fls. 435/438.
+Decisão de inadmissibilidade do recurso especial (e-STJ fls. 439/440).
+Agravo em recurso especial (e-STJ fls. 443/453).
+Contraminuta ao agravo em recurso especial (e-STJ fls. 456/462).
+A inadmissibilidade do recurso especial foi mantida conforme decisão de e-STJ fl. 463.
+Parecer do Ministério Público Federal (e-STJ fls. 472/476).
+É o relatório. Decido.
+Incide o Enunciado Administrativo nº 3/STJ: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Houve a correta impugnação dos fundamentos levados em consideração para a negativa de admissibilidade do recurso especial. Passo à análise do referido apelo.
+No que tange à controvérsia suscitada nos autos, o acórdão recorrido contém os seguintes fundamentos:
+Inicialmente, necessário esclarecer que na sede deste recurso de Agravo de Instrumento, não é possível se adentrar no efetivo mérito da ação proposta, cabendo, unicamente, averiguar se estão presentes os requisitos ensejadores da tutela pretendida.
+De fato, colhe-se dos autos que a r. sentença (fls. 1447/1454), não transitada em julgado, determinou que a apuração da indenização se daria na fase de "liquidação de sentença" (análise contábil da contratação dos temporários e dos cargos em comissão com desvio de função, em comparação ao provimento de cargos públicos no período  .. ) (sic. fls. 1452, correspondente às e-fls.135).
+Mas, por petição simples (fls. 2082/2083), acompanhada de cálculo aritmético unilateral, foi iniciado o cumprimento provisório da r. sentença, para cobrança da excessiva quantia de R$1.090,070,28.
+Não se pode olvidar, ainda, que a R. Sentença de fls. 1447/1454, em nenhum momento, determinou que a apuração do valor devido pelo agravante seja realizada mediante perícia, pelo contrário, a sentença foi clara ao determinar que a indenização devida pelo agravante deve ser calculada, no período apontado na inicial, considerando-se os valores pagos aos funcionários contratados para cargos temporários e em comissão, com desvio de função, em comparação com cargos públicos que deveriam ter sido providos no período.
+Nesse contexto, os parâmetros devidamente estabelecidos na sentença para realização do cálculo se encontram nos documentos já fornecidos pela Prefeitura Municipal de Votorantim, sendo que para retificação do cálculo se faz
+necessário, tão-somente, a complementação de informações pelo ente público.
+Aliás, nesse ponto a r. decisão combatida foi clara ao determinar que:
+"deverá o Ministério Público apresentar novos cálculos para retificar as planilhas de fls. 2084/2108, incluindo no que tratou como "valor devido", toda remuneração devida (salários e encargos) com base nas atividades efetivamente desempenhadas pelos servidores irregularmente contratados", razões pelas quais o cálculo da indenização devida pelo executado é passível de ser executado aritmeticamente, uma vez que o seu resultado pode ser obtido considerando-se a diferença entre o valor pago ao contratado ilegalmente e a quantia que seria devida ao funcionário concursado ocupante da mesma função.
+Esses são exatamente parâmetros que devem ser observados para a retificação do cálculo de fls. 2084/2108, não havendo que se falar, portanto, em fase de liquidação de sentença anterior à execução, uma vez que a apuração do quantum debeatur depende apenas de cálculo aritmético, conforme dispõe o artigo 509, parágrafo 2º, do Código de Processo Civil.
+ ..
+Assim, não se vislumbra qualquer complexidade para realização do cálculo na presente execução, a ponto de impedir que o cumprimento da sentença se desenvolva na forma preconizada pelo art. 509, parágrafo 2º, do Código de Processo Civil, máxime considerando que a especificação do valor a ser cobrado no presente feito depende apenas de cálculo aritmético, o que possibilita que a fase executiva prossiga com a apresentação de memória ou planilha de cálculo, independentemente de anterior liquidação de sentença.
+Aliás, a liquidação de sentença é necessária apenas nos casos em que a condenação seja ilíquida, o que deve ser entendida como incerta no seu quantum. Pela incerteza há de ser entendida a dúvida que não pode ser dissipada com cálculo aritmético, o que não é o caso dos autos.
+Foi com base no conjunto fático e probatório constante dos autos que o acórdão recorrido entendeu que "a liquidação de sentença é necessária apenas nos casos em que a condenação seja ilíquida, o que deve ser entendida como incerta no seu quantum. Pela incerteza há de ser entendida a dúvida que não pode ser dissipada com cálculo aritmético, o que não é o caso dos autos".
+A revisão de tais fundamentos é inviável na via recursal eleita, tendo em vista a incidência da Súmula 7/STJ.
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS EMBARGADOS.
+1. Rever a conclusão do Tribunal de origem que entendeu pela necessidade de liquidação por artigos da sentença originária demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+Precedentes.
+2. No que se refere às alegações de afronta aos institutos da preclusão e da coisa julgada, verifica-se que o conteúdo normativo dos dispositivos legais tidos por violados não foi objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração, razão pela qual incide, na espécie, a Súmula 211 desta Corte.
+3. A incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução a causa.
+4. Em atenção ao princípio da unirrecorribilidade, não se conhece do segundo agravo interno interposto.
+5. Agravo interno de fls. 423/450 (e-STJ) desprovido e agravo interno de fls. 453/466 (e-STJ) não conhecido.
+(AgInt no REsp 1458715/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/10/2017, DJe 26/10/2017)
+AGRAVO REGIMENTAL - AGRAVO EM RECURSO ESPECIAL - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - NECESSIDADE DE LIQUIDAÇÃO - APLICAÇÃO DAS SÚMULAS 7 E 83/STJ - DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO.
+1.- "A jurisprudência desta Corte firmou-se no sentido de que a liquidação é ainda fase do processo de cognição, desse modo só é possível iniciar a execução quando o título, certo pelo trânsito em julgado da sentença de conhecimento, apresenta-se também líquido" (AgRg no AREsp 325.162/RN, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 20/08/2013, DJe 30/08/2013).
+2.- A análise da liquidez do julgado afigura-se inviável na via estreita do recurso especial, pois a adoção de entendimento diverso por este Tribunal esbarra no óbice da Súmula 7 do Superior Tribunal de Justiça, que veda o reexame de conteúdo fático-probatório delimitado pelas instâncias ordinárias.
+3.- O Agravo não trouxe nenhum argumento novo capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+4.- Agravo Regimental improvido.
+(AgRg no AREsp 400.691/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 19/11/2013, DJe 03/12/2013)
+Incidente o teor da Súmula nº 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
