@@ -1,0 +1,32 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por [NOME], contra acórdão prolatado, por unanimidade, pela 7ª Turma Especializada do Tribunal Regional Federal da 2ª Região no julgamento de Agravo de Instrumento, assim ementado (fls. 286/293e):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. COMPETÊNCIA. PRECLUSÃO.
+1. A controvérsia posta no presente recurso já foi suscitada pelo ora agravante e restou categoricamente analisada e decidida no julgamento do Agravo de Instrumento nº 0103556- 35.2014.4.02.0000, no qual foi reconhecida a competência do MM. Juízo a quo, notadamente em razão do interesse jurídico de Autarquias Federais na demanda (ICMBio e IBAMA), o que atrai a competência da Justiça Federal por força do art. 109, I, da CRFB/88.
+2. A pretensão do agravante de rediscussão de matéria já decidida encontra óbice no art. 473 do CPC/1973 (aplicável por força do disposto o art. 14, do Novo Codex), segundo o qual "é defeso à parte discutir, no curso do processo, as questões já decididas, a cujo respeito se operou a preclusão". Regra reproduzida no art. 507 do Novo Código de Processo Civil.
+3. Recurso desprovido.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 473 do Código de Processo Civil de 1973, alegando-se, em síntese, não ter sido a questão da competência para processamento e julgamento do feito decidida no acórdão que julgou o agravo de instrumento anterior, porquanto não constou na sua parte dispositiva.
+Com contrarrazões (fls. 368/386e), o recurso foi inadmitido (fl. 414e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 456e).
+O Ministério Público Federal manifestou-se às fls. 464/467e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Em relação à afronta ao art. 473 do Código de Processo Civil de 1973, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido, limitando-se a parte recorrente em apontá-la de forma vaga, o que impede o conhecimento do recurso especial.
+Com efeito, aduz a parte não ter o tribunal de origem decidido sobre a competência para o julgamento da ação civil pública quando da análise do primeiro agravo de instrumento. É incontroversa a existência de fundamentação da Corte a qua, nesse acórdão, afirmando a competência da Justiça Federal, consoante a ementa de fls. 289/290e. É também inconteste ter sido aquele recurso improvido (fl. 290e).
+No caso, para demonstrar, especificamente, a violação ao dispositivo apontado, era imprescindível a transcrição dos pedidos formulados no primeiro agravo de instrumento, para que se pudesse examinar se a fundamentação do acórdão que analisou o primeiro agravo de instrumento foi mero obter dictum ou se foi uma das razões principais de decidir pelo improvimento do recurso, não bastando a alegação genérica, feita no Recurso Especial, de que o tema da competência não constou expressamente no dispositivo da decisão.
+Eventualmente, se, na petição do primeiro agravo de instrumento, houve pedido de declaração da incompetência da Justiça Federal, e, na sua parte dispositiva, o acórdão consignou a negativa de provimento do recurso (com fundamentação específica quanto ao tema dando-lhe suporte), então a questão foi decidida. Entretanto, o presente Recurso Especial não permite esse tipo de análise, pelo vício de fundamentação anotado.
+Desse modo, em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, a incidência da orientação contida na Súmula 284, do Colendo Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AÇÃO DE COBRANÇA. DÉBITO DE TERCEIRO. OBRIGAÇÃO DE NATUREZA PESSOAL. RESPONSABILIDADE DO CONSUMIDOR QUE EFETIVAMENTE UTILIZOU O SERVIÇO.
+1. O recurso especial não pode ser conhecido no tocante à alegada ofensa à Resolução ANEEL 456/00. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Hipótese em que incide a Súmula 284/STF, por deficiência na fundamentação.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 401.883/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 11/02/2014, DJe 18/02/2014).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ACÓRDÃO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO COMPROVAÇÃO DE QUE FOI INTERPOSTO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+3. No que tange à apontada violação do art. 292 do Código de Processo Civil, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 441.462/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/02/2014, DJe 07/03/2014).
+Isto posto, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
