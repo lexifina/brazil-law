@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 428):
+PREVIDENCIÁRIO. ATIVIDADE RURAL EM REGIME DE ECONOMIA FAMILIAR. ATIVIDADE ESPECIAL APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CONCESSÃO.
+1. Os documentos em nome de terceiros (pais/cônjuge) consubstanciam início de prova material do trabalho rural desenvolvido em regime de economia familiar. De outra parte, afigura-se possível o reconhecimento de atividade rural para fins previdenciários a partir dos 12 anos de idade.
+2. Para caracterizar o início de prova material, não é necessário que os documentos apresentados comprovem, ano a ano, o exercício da atividade rural, seja porque se deve presumir a continuidade nos períodos imediatamente próximos, sobretudo no período anterior à comprovação, à medida que a realidade em nosso país é a migração do meio rural ao urbano, e não o inverso, seja porque é inerente à informalidade do trabalho campesino a escassez documental.
+4. No caso concreto, comprovado em parte o labor rural em regime de economia familiar, mediante a produção de início de prova material, corroborada por prova testemunhal idônea, a parte autora faz jus à averbação do respectivo tempo de serviço.
+5. Até 28/04/1995 é admissível o reconhecimento da especialidade por categoria profissional ou por sujeição a agentes nocivos, aceitando-se qualquer meio de prova (exceto para ruído); a partir de 29/04/1995 não mais é possível o enquadramento por categoria profissional, devendo existir comprovação da sujeição a agentes nocivos por qualquer meio de prova até 05/03/1997 e, a partir de então, por meio de formulário embasado em laudo técnico, ou por meio de perícia técnica.
+6. Trabalho em locais de armazenagem de químicos inflamáveis/explosivos é de se computar como especial, em face da sujeição aos riscos naturais da estocagem de combustível no local. Inteligência da Súmula 198 do TFR.
+9. Somando-se os tempos de serviço rural e especial reconhecidos em juízo com o tempo reconhecido na esfera administrativa, verifica-se que o autor conta com tempo suficiente para a obtenção da aposentadoria por tempo de contribuição.
+Opostos embargos de declaração, foram rejeitados (fl. 451).
+Aponta o recorrente violação aos arts. 1.022, II, do CPC/2015, 57, § 3º, e 58 da Lei 8.213/91. Sustenta, além de negativa de prestação jurisdicional, "que o reconhecimento da atividade especial a partir de 29/04/1995 merece indicação de quais agentes nocivos estiveram presentes na jornada de trabalho da parte autora, não sendo mais permitido o enquadramento por categoria profissional" (fl. 461).
+Aduz que "Conforme se infere do voto condutor do acórdão, houve o reconhecimento de tempo especial pelo desempenho das funções de frentista em posto de combustíveis, em período posterior à entrada em vigor da Lei 9.032/95" (fl. 463).
+Afirma que "Como bem ressaltou o próprio acórdão recorrido, a partir da edição desta lei foi definitivamente extinto o enquadramento por categoria profissional para fins de caracterizar a especialidade do trabalho. Nada obstante, em contradição, o mesmo acórdão considerou especial o tempo de atividade de frentista da parte autora, pelo simples fato do exercício dessa atividade, enquanto categoria profissional, e o potencial risco que esta envolve" (fl. 463).
+Alega que a Lei "exige comprovação efetiva e exercício permanente de atividade exposta a agentes nocivos, que devem ser expressamente indicados em laudo" (fl. 463):
+Sem contrarrazões.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+De início, consigna-se que o art. 57, § 3º, da Lei n. 8.213/91, com redação dada pela Lei n. 9.032/95, assevera que a "concessão da aposentadoria especial dependerá de comprovação pelo segurado, perante o Instituto Nacional do Seguro Social - INSS, do tempo de trabalho permanente, não ocasional nem intermitente, em condições especiais que prejudiquem a saúde ou a integridade física, durante o período mínimo fixado".
+E, neste contexto, faz-se oportuna a transcrição das razões adotadas pelo Tribunal de origem que, com base no conjunto fático-probatório dos autos, concluiu que o autor logrou demonstrar que, durante sua jornada de trabalho, estava exposto a fator de risco em nível suficiente à configuração de trabalho em condições especiais, sendo desnecessária, a exposição habitual e permanente, consoante se verifica do seguinte excerto do acórdão recorrido (fls. 413/417):
+A natureza da atividade é qualificada pela lei vigente à época da prestação do serviço, sem aplicação retroativa de norma ulterior que nesse sentido não haja disposto (RE 174.150-3/RJ, Rel. Min. Octávio Gallotti, DJ 18/08/2000). Também por força do princípio tempus regit actum, o modo de comprovação da atividade especial é orientado pela lei vigente ao tempo da prestação do serviço. A partir dessa premissa geral, articulam-se as seguintes diretrizes para o presente julgado:
+(..).
+Exame do tempo especial no caso concreto
+Período: 01-04-1996 a 02-06-2000, 02-01-2001 a 29-11-2003, 01-07-2004 a 31-10-2006, 10-05-2007 a 11-02-2010, 02-09-2010 a 30-11-2011
+Empresa: Auto Posto Testoni Ltda.
+Atividade/função: frentista
+Agente nocivo: periculosidade.
+Enquadramento legal: periculosidade: Anexo 2, da NR-16, aprovada pela Portaria MTB n.Q 3.214, de 08-06-1978, do Ministério do Trabalho, que dispõe sobre as Atividades e Operações Perigosas com Inflamáveis, mormente, nos seus itens 1, alínea "m", e 3, alínea "q", súmula 198 do TFR.
+Prova: PPP - Perfis Profissiográficos Previdenciários, datados de 29-07-2010 (EVENTO 1 - PROCADM 3 - fls. 72 a 75) e de 18-09-2013 (EVENTO 1 - LAU 7), onde consta que este exercia a função de frentista.
+Ao se avaliar a especialidade das atividades exercidas em postos de combustíveis, não se pode deixar de considerar o aspecto peculiar da periculosidade que decorre do trabalho envolvendo produtos químicos altamente inflamáveis e explosivos como a gasolina, o álcool e óleo diesel, cujo manuseio deve observar estritamente normas e padrões específicos de segurança e proteção.
+A jurisprudência deste Tribunal já se firmou no sentido de que, ainda que não haja previsão expressa em normas específicas, tratando-se de periculosidade, basta que o segurado esteja submetido a um trabalho de risco.
+(..).
+Destaco, ainda, que é ínsito o risco potencial de acidente em se tratando de agente periculoso, ou seja, nos casos em que é suficiente a sujeição ao risco de acidente ou dano que possa causar-lhe prejuízos à integridade física, sendo desnecessária a exposição habitual e permanente.
+(..).
+Conclusão: o agente nocivo é elencado como especial e a prova é adequada.
+Portanto, é cabível o reconhecimento da natureza especial do labor, devendo ser reformada a sentença no ponto.
+Conclusão quanto ao tempo de atividade especial
+Devem ser reconhecidos como atividade especial os períodos de 01-04-1996 a 02-06-2000, 02-01-2001 a 29-11-2003, 01-07-2004 a 31-10-2006, 10-05-2007 a 11-02-2010, 02-09-2010 a 30-11-2011, totalizando 13 anos, 05 meses e 02 dias.
+Ao que se observa, o Tribunal de origem dissentiu na jurisprudência desta Corte que firmou o entendimento no sentido de que, o reconhecimento de determinada atividade como especial, pelo mero enquadramento legal da categoria profissional a que pertencia o segurado ou em função do agente insalubre a que estava exposto, foi possível somente até o advento da Lei 9.032/1995. A partir dessa lei, é necessário que, no desempenho da atividade laboral, seja devidamente demonstrada a efetiva exposição do segurado ao agente nocivo.
+Confira-se, por pertinente, a jurisprudência consolidada sobre o tema:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. AUSÊNCIA DE PROVA MATERIAL. ATIVIDADE ESPECIAL. NÃO COMPROVADA. NECESSIDADE DE LAUDO TÉCNICO. AUSÊNCIA NOS AUTOS. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Nos termos da jurisprudência do STJ, até o advento da Lei 9.032/1995 é possível o reconhecimento do tempo de serviço especial em face do enquadramento na categoria profissional do trabalhador. A partir dessa lei, a comprovação da atividade especial se dá por meio dos formulários SB-40 e [PLACA], expedidos pelo INSS e preenchidos pelo empregador, situação modificada com a Lei 9.528/1997, que passou a exigir laudo técnico.
+2. O STJ é firme no sentido de que o reconhecimento da exposição ao agente nocivo ruído só se dá através de laudo pericial; caso contrário, não é possível o reconhecimento do labor em condição especial.
+3. Conforme decidido pelo Tribunal de origem, tal aferição não ocorreu no caso em análise, o que também enseja a aplicação da Súmula 7 do STJ. A propósito: AgRg no AREsp 643.905/SP, Rel. Min.
+Humberto Martins, Segunda Turma, DJe 1º.9.2015.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 767.585/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/10/2015, DJe 20/11/2015)
+Assim, quanto à insurgência referente ao reconhecimento da atividade especial de frentista, o acórdão recorrido merece reforma.
+Do exposto, dou parcial provimento ao recurso especial, para afastar o reconhecimento do especialidade do tempo laborado como frentista após a vigência da Lei nº 9.032/1995, pelo mero enquadramento da categoria profissional.
+Publique-se.
