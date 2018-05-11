@@ -1,0 +1,20 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (25 PORÇÕES DE COCAÍNA EM FORMA DE CRACK; 33 PORÇÕES DE COCAÍNA EM PÓ E 21 PORÇÕES DE MACONHA). DOSIMETRIA. MINORANTE. INCIDÊNCIA. NÃO OCORRÊNCIA. FUNDAMENTOS CONCRETOS A AFASTAR A APLICAÇÃO DO REDUTOR ("GERENTE" DO TRÁFICO NA REGIÃO). REGIME FECHADO E SUBSTITUIÇÃO DA PENA. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo.
+Narram os autos que o paciente foi condenado à pena de 6 anos de reclusão, em regime fechado, 500 dias-multa, como incurso no art. 329, § 1º, c/c o art. 69, do Código Penal, e art. 33, caput, da Lei n. 11.343/2006 (fls. 24/36 - Processo n. 0017453-95.2016.8.26.0309).
+Irresignada, a defesa recorreu, tendo o Tribunal de Justiça negado provimento à apelação defensiva, mantendo incólumes os termos da sentença condenatória (fls. 37/57 - Apelação Criminal n. 0017453-95.2016.8.26.0309).
+Daí a presente impetração, em que a defesa requer o reconhecimento do tráfico privilegiado, bem como a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+Inicialmente, sustenta que  ..  a alegação de que o paciente era o gerente do comércio de drogas e tinha ascendência sobre os demais não restou comprovada nos autos. Além disso, o paciente e os demais corréus sequer foram denunciados pelo crime de associação criminosa, o que revela a inexistência de organização criminosa ou conluio entre eles com a finalidade de comercializarem drogas (fl. 5).
+Requer o deferimento de liminar e, ao final, a concessão da ordem para reconhecer o tráfico privilegiado, reduzindo-se em 1/2 a pena imposta ao paciente, readequando o regime prisional para o aberto, bem como a substituição da pena privativa de liberdade pela restritiva de direitos, visto que  ..  o paciente não possuía antecedentes criminais e as circunstâncias do art. 59 do Código Penal lhe eram favoráveis. A pena base foi estabelecida no mínimo legal e não foi modificada na fase intermediária (fl. 5).
+É o relatório.
+Extrai-se do acórdão ora impugnado (fl. 49):
+ ..  E, com maior razão, o redutor não pode favorecer FERNANDO, não apenas diante da expressiva quantidade de droga apreendida em seu poder critério suficiente, de per si, para manter afastado o benefício , mas também porque ele possuía certa ascendência em relação aos demais traficantes no local indicado, tanto que apontado pelos comparsas como sendo o "gerente", indicação clara de que se dedicava às atividades criminosas, não representado o fato objeto da denúncia um acontecimento esporádico ou isolado do seu dia-a-dia. (grifo nosso)
+Note-se que as instâncias ordinárias se pautaram em dados concretos para afirmar que o ora paciente se dedicava a atividades criminosas, razão pela qual, inadmissível a concessão da causa de diminuição da pena.
+Nesse cenário, o Superior Tribunal de Justiça firmou entendimento segundo o qual, em observância ao disposto no art. 33, § 4º, da Lei n. 11.343/2006, havendo demonstração de que o paciente se dedica a atividades criminosas, mostra-se inaplicável a minorante em questão (AgRg no AREsp n. 1.052.340/SC, Sexta Turma, Ministro Rogerio Schietti Cruz, DJe 11/5/2017).
+Ademais, alcançar conclusão inversa, demandaria o exame do conjunto probatório dos autos, providência inviável na via estreita do habeas corpus, carente de dilação probatória.
+Quanto ao regime prisional, nada a reparar, mormente porque o Tribunal de Justiça apresentou fundamentos concretos a justificar a medida extrema, seja pela natureza e quantidade da droga apreendida com o acusado (crack), seja por todo o quadro probatório que o acusado foi preso, sendo conhecido como "gerente" do tráfico na região.
+Mantido o quantum da pena (6 anos de reclusão), inviável a substituição da pena privativa de liberdade pela restritiva de direitos nos termos do art. 44 do Código Penal.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
