@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de decisão que manteve a extinção da execução fiscal, por falta de interesse de agir, em razão do valor reduzido da quantia executada.
+    No apelo extremo, alega-se, com amparo no art. 102, III, a, da Constituição Federal, violação aos arts. 1º, 2º, 5º, II e XXXV, 30, I e III, 93, IX, 145 e 150, § 6º, da Carta Magna.
+    Por meio de decisão publicada em 4/10/2008, o ilustre Min. AYRES BRITTO, ao assentar que a matéria discutida teve repercussão geral reconhecida no RE 591.033, de relatoria da Min. ELLEN GRACIE, determinou a devolução dos autos ao Tribunal de origem para fins de aplicação da respectiva sistemática (fl. 264).
+     Em decisão de 4/10/2011 (fl. 307), o Tribunal de origem, após manter o seu entendimento em juízo de retratação, remeteu os autos a esta CORTE, assentando que, no caso concreto, a execução não possui utilidade para a exequente.
+    É o relatório. Decido.
+    Efetivamente, há precedente firmado sob a sistemática da repercussão geral que se amolda com precisão à hipótese aqui discutida
+    O Plenário do SUPREMO TRIBUNAL FEDERAL, na análise do RE 591.033 (Rel. Min. ELLEN GRACIE, DJe de 17/11/2010, Tema 109), assentou que negar ao Município a possibilidade de executar seus créditos de pequeno valor sob o fundamento da falta de interesse econômico viola o direito de acesso à justiça. Confira-se a ementa do precedente:
+    “TRIBUTÁRIO. PROCESSO CIVIL. EXECUÇÃO FISCAL. MUNICÍPIO. VALOR DIMINUTO. INTERESSE DE AGIR. SENTENÇA DE EXTINÇÃO ANULADA. APLICAÇÃO DA ORIENTAÇÃO AOS DEMAIS RECURSOS FUNDADOS EM IDÊNTICA CONTROVÉRSIA. 1. O Município é ente federado detentor de autonomia tributária, com competência legislativa plena tanto para a instituição do tributo, observado o art. 150, I, da Constituição, como para eventuais desonerações, nos termos do art. 150, § 6º, da Constituição. 2. As normas comuns a todas as esferas restringem-se aos princípios constitucionais tributários, às limitações ao poder de tributar e às normas gerais de direito tributário estabelecidas por lei complementar. 3. A Lei nº 4.468/84 do Estado de São Paulo - que autoriza a não-inscrição em dívida ativa e o não-ajuizamento de débitos de pequeno valor - não pode ser aplicada a Município, não servindo de fundamento para a extinção das execuções fiscais que promova, sob pena de violação à sua competência tributária. 4. Não é dado aos entes políticos valerem-se de sanções políticas contra os contribuintes inadimplentes, cabendo-lhes, isto sim, proceder ao lançamento, inscrição e cobrança judicial de seus créditos, de modo que o interesse processual para o ajuizamento de execução está presente. 5. Negar ao Município a possibilidade de executar seus créditos de pequeno valor sob o fundamento da falta de interesse econômico viola o direito de acesso à justiça. 6. Sentença de extinção anulada. 7. Orientação a ser aplicada aos recursos idênticos, conforme o disposto no art. 543-B, § 3º, do CPC.”
+(RE 591.033, Rel. Min. ELLEN GRACIE, Tribunal Pleno, DJe de 25/2/2011)
+    Verifica-se, portanto, que o Tribunal de origem divergiu da orientação desta CORTE, razão pela qual merece ser reformado.
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, DOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO nos termos da fundamentação, para determinar o regular prosseguimento da execução fiscal.
+    Publique-se.
+    Brasília, 11 de maio de 2018.
+Ministro Alexandre de Moraes
+Relator
+  Documento assinado digitalmente
