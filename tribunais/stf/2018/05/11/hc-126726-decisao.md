@@ -1,0 +1,16 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Joarez França Costa Junior em favor de Joarez França Costa, contra acórdão do Superior Tribunal de Justiça, que não conheceu dos terceiros embargos de declaração no REsp 1.327.433/PR.
+    O paciente, juntamente com corréu, foi condenado à pena de 4 (quatro) anos de reclusão, em regime inicialmente fechado, pela prática do crime de homicídio qualificado, na forma tentada, previsto no art. 121, § 2º, I, c/c art. 14, II, ambos do Código Penal.
+    Em sede de apelação, o Tribunal de Justiça do Estado do Paraná negou provimento aos recursos defensivo e ministerial.
+    Submetida a questão à apreciação do Superior Tribunal de Justiça nos autos do REsp 1.327.433/PR, a Sexta Turma negou provimento ao recurso especial interposto pela Defesa e conheceu do agravo manejado pelo Ministério Público do Estado do Paraná para dar provimento parcial ao recurso especial, que fora inadmitido na origem, com o fim de exasperar a pena-base do paciente em 1 (um) ano. Opostos três embargos de declaração sucessivos pela Defesa, foram dois rejeitados e um não conhecido.
+    No presente writ, alega o Impetrante a nulidade do julgamento dos declaratórios opostos pela segunda vez no REsp 1.327.433/PR ao fundamento da ausência de intimação do paciente para a constituição de novo defensor, diante da renúncia de seu patrono ao mandato outorgado para os fins do processo penal. Afirma a existência de constrangimento ilegal ante a recusa da prestação jurisdicional, inobstante a oposição de sucessivos embargos declaratórios com o fim de afastar o aumento da pena-base aplicada ao paciente, em observância ao art. 59 do Código Penal, e de realizar a detração nos termos do art. 387, § 2º, do Código de Processo Penal.
+    Requer, em medida liminar, a suspensão dos efeitos do acórdão proferido nos embargos de declaração nos EDcl nos EDcl no REsp 1.327.433/PR. No mérito, pugna pela concessão da ordem para declarar a “nulidade do julgamento realizado à revelia da defesa, para permitir a apreciação das quaestio iuris apresentadas”.
+    Em 20.3.2015, indeferi a liminar.
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Edson Oliveira de Almeida, opina pela denegação da ordem.
+    É o relatório.
+    Decido.
+    Em consulta ao sítio eletrônico do Superior Tribunal de Justiça, verifico que, em 15.9.2015, a Ministra Laurita Vaz extinguiu a punibilidade de Joarez França Costa. A pena definitiva do paciente foi fixada em 4 (quatro) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, pela prática do crime de homicídio qualificado, na forma tentada (art. 121, § 2º, I, c/c art. 14, II, do CP). Naquela assentada, “verificado que a sentença condenatória foi proferida em 02/06/2003 (fl. 4208), observa-se que transcorreram mais de 12 (doze) anos até a presente data, sem a ocorrência de novo marco interruptivo da prescrição”. Nesse espectro, concluiu a Corte Superior “forçoso é o reconhecimento da ocorrência da extinção da punibilidade pela prescrição”.
+    Ante o exposto, evidente a perda de objeto do presente habeas corpus, razão por que o julgo prejudicado (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 11 de maio de 2018.
+Ministra Rosa Weber
+Relatora
