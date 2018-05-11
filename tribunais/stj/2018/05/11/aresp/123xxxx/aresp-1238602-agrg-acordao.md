@@ -1,0 +1,52 @@
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. TRIBUNAL DE ORIGEM QUE INADMITIU O RECURSO ESPECIAL COM EMBASAMENTO NA SÚMULA 283/STF E NA AUSÊNCIA DE SIMILITUDE FÁTICA. FALTA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. PRECEDENTES.
+Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental de [NOME] contra decisão da Presidência do Superior Tribunal de Justiça, que não conheceu de seu agravo em recurso especial pelos seguintes fundamentos (fl. 408):
+ ..  Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 283/STF e ausência de similitude fática.
+Entretanto, a parte Agravante deixou de impugnar especificamente: ausência de similitude fática.
+E, como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.  ..
+O ora agravante foi condenado, nos autos do Processo n. 0324705-57.2015.8.21.7000/RS, ao cumprimento da pena de 2 anos e 8 meses de detenção, como incurso no art. 302, parágrafo único, I, do Código de Trânsito Brasileiro.
+A Terceira Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul, por sua vez, negou provimento ao recurso da defesa, mantendo integralmente a sentença condenatória.
+Nas razões do regimental, o agravante alega que refutou os dois fundamentos dispostos na decisão de admissibilidade do Tribunal a quo, quais sejam, a Súmula 283/STF e a ausência de similitude fática, afirmando que (fl. 418):
+ ..  o referido argumento já vem sendo abordado desde a interposição do Recurso Especial (páginas 08/14), onde foram apresentados ambos os casos - recorrido e paradigma - com a elaboração de tabela comparativa entre o relatório e o dispositivo de cada julgamento, a fim de demonstrar "a identidade fática entre os julgados: ambos versam sobre interpretação dada ao silêncio do réu, em especial ao conteúdo material do parágrafo único do art. 186 do Código de Processo Penal" (trecho extraído da p. 13 do recurso especial - grifos no original).  ..
+Pede, por fim, o provimento do agravo regimental a fim de reformar a decisão monocrática e dar provimento ao recurso especial.
+Os autos, então, vieram a mim, por distribuição, para o julgamento do recurso.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Sem razão o agravante.
+Na hipótese dos autos, verifica-se que a decisão agravada, amparada no art. 253, parágrafo único, I, do RISTJ, não conheceu do agravo em recurso especial em razão da ausência de impugnação específica dos fundamentos da decisão às fls. 376/379, proferida na origem, atraindo, com isso, a aplicação do art. 932, III, parte final, do Código de Processo Civil e da Súmula 182/STJ, por analogia.
+Confira-se o decidido pelo Presidência do Superior Tribunal de Justiça (fls. 408/409):
+ ..  Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 283/STF e ausência de similitude fática.
+Entretanto, a parte Agravante deixou de impugnar especificamente: ausência de similitude fática.
+E, como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ART. 544, § 4º, I, DO CPC/1973. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. NÃO OCORRÊNCIA.
+ ..  3. Conforme reiterada jurisprudência desta Corte, nos termos do art.
+544, § 4º, I, do CPC/1973, o conhecimento do agravo em recurso especial está condicionado à impugnação específica de todos os fundamentos da decisão que nega admissibilidade ao apelo nobre, sejam eles autônomos ou não. Precedentes.
+ ..  5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no AREsp 419.689/ES, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/05/2016, DJe 08/06/2016.)
+Nesse sentido, ainda, os seguintes precedentes: AgInt no AREsp 880.709/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/06/2016, DJe 17/06/2016; AgRg no AREsp 575.696/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/05/2016, DJe 13/05/2016; AgRg no AREsp 825.588/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/04/2016, DJe 12/04/2016; AgRg no AREsp 809.829/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/06/2016, DJe 29/06/2016; e, AgRg no AREsp 905.869/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/06/2016, DJe 14/06/2016.  ..
+Por sua vez, a decisão de inadmissão do recurso especial proferida na origem tem o seguinte conteúdo na parte que interessa (fls. 377/378):
+ ..  2. As razões do recurso não atacam todos os fundamentos do acórdão recorrido. Com efeito, o Órgão Julgador condenou o Recorrente pelo delito de homicídio culposo na direção de veículo automotor, visto que (I) "demonstrado que o acusado, na condução de veículo, não adotou os cuidados necessários, ao dirigir embriagado e seni a devida habilitação, derrapando o veículo que conduzia, atravessando a pista e colidindo contra outro veículo que estava estacionado, vindo a tombar, subir o cordão da calçada e colidir contra um poste de concreto, ocasionando a morte da vítima, que estava em sua carona" e (II) não ficou comprovada a tese defensiva de coação moral irresistível em razão de estar sofrendo um assalto, pois (a) "sequer veio aos autos boletim de ocorrência policial ou outro elemento que demonstrasse a ocorrência do delito.de roubo" e (b) "o réu, quando ouvido na fase policial, nada referiu a respeito do suposto assalto, que, se tivesse realmente, ocorrido, teria sido, certamente, lá mencionado."
+Por oportuno, transcreve-se o seguinte excerto do acórdão recorrido (fls. 622/629):
+"Como se verifica da sentença e das provas dos autos, demonstrado que o acusado, na condução de veículo, não adotou os cuidados necessários, ao dirigir embriagado e sem a devida habilitação, derrapando o veículo que conduzia, atravessando a pista e colidindo contra outro veículo que estava estacionado, vindo a tombar, subir o cordão da calçada e colidir contra um poste de concreto, ocasionando a morte da vítima, que estava em sua carona.
+Violou, portanto, o réu os deveres de cuidado que lhe cabiam na condução do veículo, na forma do art. 28 do CTB.
+Saliente-se que, como referido na sentença atacada, a tese defensiva de ter o réu agido sob coação moral irresistível em razão de estar sofrendo um assalto não restou comprovada nos autos, uma vez que sequer veio aos autos boletim de ocorrência policial ou outro elemento que demonstrasse a ocorrência do delito de roubo. Além disso, o réu, quando ouvido na fase policial, nada referiu a respeito do suposto assalto, que, se tivesse, realmente, ocorrido, teria sido, certamente, lá mencionado.
+(..) Impositiva, portanto, a manutenção do juízo condenatório."
+O Recorrente, contudo, limita-se a alegar que "o silêncio do réu não pode servir de argumento para o magistrado embasar sua condenação" (fI. 289).
+Assim, é caso de aplicação da Súmula 283 do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+O aludido óbice aplica-se, também, à inconformidade fundada no dissídio jurisprudencial, uma vez que os precedentes invocados não aludem aos fundamentos não impugnados do acórdão, o que exclui a similitude exigida para a hipótese da alínea c do art. 105, inciso Ill, da Constituição da República  ..
+De fato, como assinalou a Presidência deste Superior Tribunal, a defesa, por meio do agravo às fls. 384/392, não refutou o decisum que inadmitiu o recurso especial na origem, pois não rechaçou a ausência de similitude fática.
+Logo, ao deixar de impugnar os fundamentos da decisão agravada, o ora agravante descumpriu a obrigação de dialogar com a decisão impugnada, atraindo a incidência do art. 932, III, do Código de Processo Civil, e da Súmula 182/STJ, por analogia.
+Cumpre salientar que não basta que fique explicitada a similitude fática no recurso especial, como pretende fazer entender o ora agravante, vez que é imprescindível que todos os fundamentos dispostos na decisão de inadmissibilidade sejam refutados no recurso de agravo em recurso especial.
+Sobre o tema, destaco:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO COMBATEU TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICABILIDADE DA SÚMULA 182/STJ. OFENSA AO ART. 20 DO CP. DOLO DA CONDUTA. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão agravada. Incidência do enunciado 182 da Súmula desta Corte.
+ ..
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 653.319/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 24/3/2015)
+É importante esclarecer que os apelos extremos encaminhados às Cortes Superiores, Superior Tribunal de Justiça e Supremo Tribunal Federal, possuem pressupostos específicos para a sua interposição, os quais devem ser atendidos pela parte agravante. Longe de ser formalismo, as regras processuais e as súmulas jurisprudenciais delimitam os requisitos específicos para a interposição dos apelos extremos.
+Com efeito, o recurso de agravo tem como finalidade desconstituir os termos da decisão agravada. Logo, só pode ser válido se manifestamente impugnar os fundamentos dessa decisão, de forma específica e suficientemente demonstrada, e não discutir outros aspectos da causa ou, então, simplesmente fazer referência aos fundamentos do recurso especial, sem acrescentar objeções ao despacho agravado. Incensurável, portanto, a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
