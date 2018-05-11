@@ -1,0 +1,17 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO VISANDO A COMPENSAÇÃO DOS VALORES PAGOS A MAIOR A TÍTULO DE PIS/CONFINS. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA EM FACE DA FAZENDA PÚBLICA. REVISÃO DO VALOR. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE EM SEDE DE RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto pela UNIÃO com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 1a. Região, assim ementado:
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. PEDIDO PROCEDENTE. HONORÁRIOS. REDUÇÃO INDEVIDA. (1)
+1. A condenação em verba honorária deve estar em conformidade com o disposto no art. 20, §§ 30 e 40 do CPC, devendo ser fixada mediante juízo de equidade, com modicidade; observada, todavia, a justa remuneração dos procuradores.
+2. Verba honorária mantida nos termos da sentença recorrida.
+3. Apelação não provida (fls. 429).
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Nas razões do Recurso Especial inadmitido, a parte recorrente alega ofensa aos arts. 20, §§ 3o. e 4o. do CPC/1973, sustentando: (i) que, tendo em vista a simplicidade da demanda, os honorários fixados na origem foram excessivos; (ii) não se observou os critérios legais para o arbitramento do valor justo; (iii) quando da definição do verba honorária não houve uma apreciação eqüitativa.
+4. É o relatório do essencial.
+5. Não encontra respaldo a pretensão da recorrente quanto à redução do percentual dos honorários advocatícios, uma vez que esta egrégia Corte já firmou entendimento de que a revisão ou o reexame da condenação a honorários advocatícios fixados com base no art. 20, §§ 3o. e 4o. do CPC requer o revolvimento dos elementos fático-probatórios delineados na instância de origem, o que é vedado pela Súmula 7 do STJ. Nesse sentido:
+PROCESSUAL CIVIL. HONORÁRIOS DE SUCUMBÊNCIA CONTRA A FAZENDA PÚBLICA. VALOR DA CAUSA, DA CONDENAÇÃO OU DO VALOR FIXO. REGIME DOS RECURSOS REPETITIVOS (ART. 543-C). RESP PARADIGMA 1.155.125/MG. REVISÃO. VERBA HONORÁRIA. SÚMULA 7/STJ.
+1. A Primeira Seção do STJ, quando do julgamento do Resp 1.155.125/MG (em 10.3.2010, DJe 6.4.2010), relatoria do Min. Castro Meira, submetido ao regime dos recursos repetitivos, reafirmou a orientação no sentido de que, vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4o, do CPC, ou mesmo um valor fixo, segundo o critério de equidade.
+2. A fixação da verba honorária de sucumbência cabe às instâncias ordinárias, pois resulta da apreciação equitativa e da avaliação subjetiva do julgador em face das circunstâncias fáticas presentes nos autos, razão pela qual insuscetível de revisão em sede de recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça. Agravo regimental improvido (AgRg no AREsp. 30.346/RS, Rel. Min. HUMBERTO MARTINS, DJe 27.10.2011).
+6. Vale ressaltar que somente é admitida a revisão da verba honorária por esta Corte quando o valor arbitrado extrapola os limites da razoabilidade, o que, todavia, não se verifica no presente caso - AgRg no Ag 1258304/MG, Rel. Min. HUMBERTO MARTINS, DJe 06.04.2010.
+7. Ante o exposto, nega-se provimento ao Agravo da UNIÃO.
+8. Publique-se. Intimações necessárias.
