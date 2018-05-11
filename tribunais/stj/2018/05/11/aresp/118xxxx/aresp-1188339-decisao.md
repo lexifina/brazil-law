@@ -1,0 +1,68 @@
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. REEXAME DE PROVA. SÚMULA 7/STJ. REDUTORA DO ART. 33, § 4º, DA LEI DE DROGAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. IMPOSSIBILIDADE. REGIME PRISIONAL MENOS GRAVOSO. IMPOSSIBILIDADE. SÚMULA 568/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto pelo RICARDO ALMEIDA TELES contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 3.085):
+"TRÁFICO ILÍCITO DE ENTORPECENTES - Conjunto probatório apto à comprovação da materialidade e autoria delitivas - Circunstâncias que demonstram o dolo da conduta - Manutenção da condenação - Pena e regime bem dosados - Causa de aumento do art. 40, V, Lei de Drogas, não incidente - Exame criminológico para eventual progressão a ser determinado no Juízo das Execuções
+ASSOCIAÇÃO AO TRÁFICO - Não comprovação da atuação habitual do réu na prática deste crime - Participação na organização criminosa voltada a outros delitos - Absolvição, com fulcro no art. 386, VII
+RESISTÊNCIA - Circunstâncias não esclarecidas devidamente - No mais, mero inconformismo com a prisão que não caracteriza o delito - Manutenção da absolvição - Recurso ministerial desprovido c defensivo parcialmente acolhido (voto n. 29821)."
+Nas razões do recurso especial, a parte recorrente sustenta violação dos artigos a) 20, § 2º, do Código Penal, pleiteando a absolvição por ausência de dolo; e b) § 4º do art. 33 da Lei n. 11.343/06, ao argumento de que faz jus a benesse da causa especial de redução da pena do tráfico privilegiado na fração máxima de 2/3, com o consequente abrandamento do regime carcerário.
+Apresentadas as contrarrazões (fls. 3.117-3.124), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ (fl. 3.127).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão.
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 3.155-3.159).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+O juízo singular condenou o agravante como incurso nas sanções dos artigos 33, caput, e 35, caput, da Lei n. 11.343/06, às penas de 11 anos de reclusão, em regime inicial fechado, e 1.500 dias-multa (fls. 2.917-2.926).
+O eg. Tribunal de origem negou provimento ao recurso ministerial e deu parcial provimento ao apelo defensivo para absolver o recorrente do delito previsto no art. 35, da Lei n. 11.343/06, fixando às penas em 7 anos de reclusão e 700 dias-multa, no regime fechado.
+Nas razões recursais, busca o insurgente a absolvição ou a redução da pena.
+No que tange ao pedido de absolvição por ausência de dolo de praticar o delito de tráfico de drogas, trago à baila os fundamentos lançados no v. acórdão vergastado, verbis (fls. 3.090-3.092, grifei):
+"Sua negativa quanto ao dolo, todavia, não convence.
+Certo é que Marques "Alemão", em seu interrogatório, assumiu a propriedade de toda a droga apreendida, dizendo que resolveu ver os cavalos para comprar juntamente com Anderson e Ricardo, que ocupavam outro veiculo, pretendendo negociar os entorpecentes depois (midia digital -fls. 2651).
+Contudo, sua versão não encontra o menor respaldo nos autos, mormente diante do teor das conversas obtidas por meio de interceptação telefônica, mais especificamente aquelas transcritas às fls. 1216/1217.
+Primeiramente, em uma conversa com sua esposa, Anderson avisa que, depois de almoçar na casa do ora recorrente, deve fazer a escolta de "Alemão".
+Mais tarde do mesmo dia, Anderson fala para "Faustão" se apressar porque "o cara já encostou".
+Já em uma conversa com "Alemão", Anderson dá orientações para que aquele localize na estrada o carro conduzido por Ricardo - o que se evidencia pela parte em que Anderson diz a "Faustão" que desacelere - e trafegue mais próximo a eles.
+Em seguida, Anderson diz a "Faustão" que imprima maior velocidade ao veiculo, combinando com "Alemão" de ultrapassá-lo na rodovia para conferir se não há policiais no caminho, afirmando que seria melhor se fossem eles os abordados em vez do transportador dos entorpecentes.
+Destaque-se que, a partir do teor das conversas, fica evidente a tensão da situação, em que Anderson demonstra nervosismo, afirmando a "Alemão" que não trabalha mais com ele por ser "enrolado" e que seria melhor realizar o serviço "de dia" porque "a vida da gente vale muito".
+Não há qualquer dúvida, portanto, que os ocupantes do veiculo conduzido pelo réu tinham plena ciência da existência de drogas no outro carro.
+Mais do que isso, agiram conluiados com "Alemão" no transporte do produto, agindo de modo a escoltar aquele.
+Ainda que se considere verdadeira a alegação de Ricardo no sentido de que foi ver cavalos para comprar na companhia de Anderson, certo é que contribuiu para a ação delitiva ao conduzir o veiculo do corréu, seguindo as orientações daquele e ouvindo sua conversa com "Alemão", tudo a demonstrar a certeza de que agiu consciente das circunstâncias.
+Mantém-se, portanto, a condenação de Ricardo por infração ao artigo 33, "caput", da Lei nº 11.343/2006."
+Como se vê do excerto em referência, o e. Tribunal de origem, apreciando detalhadamente a prova produzida nos autos, concluiu pela existência de elementos aptos a sustentar a condenação do ora recorrente.
+Na hipótese, entender de modo contrário ao estabelecido pelo Tribunal a quo, como pretende a defesa, demandaria o revolvimento, no presente recurso, do material fático-probatório dos autos, inviável na via eleita.
+Ora, está assentado nesta Corte que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do apelo extremo, nos termos da Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 13, CAPUT, DO CP E 386, III E VII, DO CPP. PLEITO DE ABSOLVIÇÃO. REEXAME FÁTICO E PROBATÓRIO. INADMISSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Para dissentir do entendimento do Tribunal de origem e absolver a recorrente por atipicidade da conduta ou por ausência de provas acerca da culpa, seria inevitável o revolvimento do arcabouço carreado aos autos, procedimento sabidamente inviável na instância especial. Súmula nº 7/STJ.
+2. Agravo regimental a que se nega provimento." (AgRg no AREsp 699.445/SP, Sexta Turma, Rel. Maria Thereza de Assis Moura, DJe 06/11/2015)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. ILICITUDE DA PROVA. INVASÃO DE DOMICÍLIO. ACÓRDÃO IMPUGNADO LASTREADO EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ABSOLVIÇÃO. INSUFICIÊNCIA DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. EXCLUSÃO DA CAUSA DE AUMENTO PREVISTA NO ART. 40, III, DA LEI 11.343/06. INADMISSIBILIDADE. REVOLVIMENTO DO ACERVO PROBATÓRIO. SÚMULA 7/STJ. MINORANTE DO TRÁFICO. ILEGALIDADE NÃO EVIDENCIADA. DEDICAÇÃO À ATIVIDADE CRIMINOSA. SÚMULA 7/STJ. REGIME MENOS GRAVOSO. INADMISSIBILIDADE. CIRCUNSTÂNCIA JUDICIAL NEGATIVA. QUANTIDADE RELEVANTE DE DROGAS. SUBSTITUIÇÃO DA PENA. NÃO CABIMENTO. MANTIDA A PENA DEFINITIVA SUPERIOR A 4 ANOS DE RECLUSÃO. AGRAVO IMPROVIDO.
+ ..
+2. Concluindo o Tribunal de origem pela autoria e materialidade delitiva, a alteração do julgado, para fins de absolvição, necessitaria de revolvimento de provas, o que não se admite a teor da Súmula 7/STJ.
+3. Devida a incidência da causa de aumento do art. 40, III, da Lei n. 11.343/06 em razão do cometimento do ilícito nas imediações de entidade recreativa e esportiva, frequentada por muitas pessoas.
+4. Encontrando-se devidamente fundamentado o reconhecimento da dedicação ao tráfico de drogas pelo Tribunal de origem, a desconstituição das premissas fáticas deduzidas no acórdão encontra óbice na Súmula 7/STJ.
+ ..
+7. Agravo regimental improvido."(AgRg no REsp 1601199/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 02/05/2018, grifei)
+O pleito recursal relativo à incidência do benefício contemplado no art. 33, § 4º, da Lei 11.343/2006 trata-se de causa de diminuição de pena que permite ao juiz a redução da pena do condenado de l/6 a 2/3, desde que o agente seja primário, apresente bons antecedentes, não se dedique a atividades criminosas, nem integre organização criminosa.
+Anote-se que todos os requisitos mencionados devem ser cumulativamente preenchidos. Afinal, a norma jurídica visa diferenciar o tratamento legal do agente eventual do tipo penal daquele atribuído ao traficante contumaz, pessoa que faça do tráfico de drogas seu meio de vida.
+Feito esse registro, não se dá razão a parte recorrente, uma vez que o Tribunal de origem, amparado pelo acervo fático e probatório presente nos autos, denota a existência de elementos de prova capazes de, por si só, demonstrarem que a recorrente não possui todos os requisitos do § 4º do art. 33 da Lei de Drogas para a obtenção da benesse pretendida.
+Por oportuno, destaco os seguintes trechos retirados do v. acórdão recorrido (fls. 3.098-3.100, grifei) :
+"A pena-base foi imposta acima do minimo legal, 07 anos de reclusão e 700 dias-multa, devendo assim ser mantida.
+Ocorre que, além de ter sido apreendida grande quantidade de droga (6,510kg de maconha  fls. 153), o réu também demonstra personalidade deturpada, porque integrante de uma organização voltada à prática de diversos crimes, atuando ele diretamente na transação fraudulenta de terrenos e venda de CNHs falsas.
+ ..
+Descabida, por sua vez, a aplicação da redutora prevista no artigo 33, § 4o, da Lei de Drogas. Ocorre que, como largamente esposado, Ricardo participava de organização criminosa, dedicando-se, ainda, à atividade criminosa, a obstar a concessão da benesse, conforme expressa previsão legal."
+Como se vê, a Corte de origem, apreciando o conjunto fático-probatório produzido nos autos, concluiu que o insurgente se dedica a atividades criminosas e, por isso, não faz jus ao benefício pretendido.
+Nessa esteira, chegar a conclusão diversa, a fim de entender que o insurgente não se dedicava à atividade ilícitas ou não integrava organização criminosa, demandaria a reanálise do conjunto fático probatório, inviável na via do recurso especial, a atrair a incidência da Súmula 7 desta Corte Superior de Justiça.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. APLICAÇÃO DO REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. SÚMULA 7/STJ. REGIME PRISIONAL FECHADO FIXADO COM BASE NA QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. FUNDAMENTAÇÃO IDÔNEA. MANUTENÇÃO DO REGIME MAIS GRAVOSO. SUBSTITUIÇÃO DA PENA CORPÓREA. MANUTENÇÃO DO QUANTUM DA REPRIMENDA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça pacificou entendimento no sentido de ser inviável aferir em recurso especial se o acusado dedica-se ou não à atividade criminosa, para fins de aplicação da redutora do tráfico privilegiado, em face do óbice da Súmula 7 do STJ.
+ ..
+4. Portanto, a decisão agravada deve ser mantida intacta pelos seus próprios termos.
+5. Agravo regimental desprovido." (AgRg no AREsp 1.112.845/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 02/10/2017).
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO INCIDÊNCIA. CONCLUSÃO DE QUE O PACIENTE DEDICAVA-SE ÀS ATIVIDADES CRIMINOSAS. AFERIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. ELEMENTOS CONCRETOS. QUANTIDADE DA DROGA APREENDIDA. DENEGAÇÃO DA ORDEM.
+1. Concluído pelas instâncias de origem, com arrimo nos fatos da causa, que o paciente dedicava-se às atividades criminosas, não incide a causa especial de diminuição de pena, porquanto não preenchidos os requisitos previstos no art. 33, § 4º, da Lei n.º 11.343/06. Para concluir em sentido diverso, há necessidade de revolvimento do acervo fático-probatório, providência incabível na via estreita do habeas corpus.
+ ..
+4. Habeas corpus denegado." (HC 420.745/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe 12/03/2018)
+Quanto ao regime prisional, conforme verificado anteriormente, a pena-base foi fixada acima do mínimo legal, em razão da existência de circunstâncias judiciais desfavoráveis. Assim, considerada a pena final aplicada (7 anos ) e a existência da circunstância desfavorável que foi considerada na terceira fase, para afastar a causa especial de redução de pena - "participava de organização criminosa, dedicando-se, ainda, à atividade criminosa" (fl. 3.099). , o regime inicial adequado é fechado.
+Dessa feita, estando o v. acórdão prolatado pelo eg. Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula n. 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 253, parágrafo único, incisos I e II, b, do Regimento Interno do STJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+P. e I.
