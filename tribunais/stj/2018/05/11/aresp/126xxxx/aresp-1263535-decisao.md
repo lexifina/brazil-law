@@ -1,0 +1,34 @@
+DECISÃO
+JEAN OLIVEIRA DA SILVA agrava de decisão que inadmitiu o recurso especial de fls. 350-362, fundado no art. 105, III, "a", da Constituição Federal e interposto contra acórdão do Tribunal de Justiça do Estado da Bahia (Apelação Criminal n. 0325477-80.2013.8.05.0001).
+Consta dos autos que o agravante foi condenado, em primeiro grau de jurisdição, às penas de 7 anos de reclusão, em regime inicial semiaberto, e 18 dias-multa, como incurso no art. 157, § 2º, I e II, do Código Penal.
+O Tribunal de origem, por unanimidade, negou provimento ao recurso de apelação interposto pela defesa, mas concedeu ordem de habeas corpus, de ofício, para o fim de corrigir a primeira etapa da dosimetria e, por conseguinte, reduzir a pena para 6 anos de reclusão, mantido o regime intermediário.
+O acórdão foi assim ementado (fl. 338):
+APELAÇÃO CRIMINAL. ROUBO MAJORADO. CONCURSO DE PESSOAS. EMPREGO DE ARMA. EXCLUSÃO DA CAUSA DE AUMENTO PREVISTA NO INCISO I, DO § 2.º, DO ART. 157, DO CP. IMPOSSIBILIDADE. RECURSO CONHECIDO E NÃO PROVIDO. DE OFÍCIO, REDUÇÃO DA PENA DEFINITIVA FIXADA.
+Caracteriza-se a majorante do inciso I, do art. § 2.º, do art. 157 do CP, pelo emprego de arma na prática do crime, sendo prescindível sua apreensão e perícia, desde que comprovadas por outros meios de prova a sua real utilização.
+A perpetração do crime de roubo circunstanciado com a incidência de dois ou mais incisos do § 2.º, do art. 157 do CP, não justifica autonomamente a majoração da pena acima do mínimo legal, tendo em vista a necessidade de fundamentação concreta, que esclareça e justifique o acréscimo mais gravoso ao agente. Inteligência da Súmula n.º 443 do STJ. Recurso conhecido e não provido. De oficio, redução da pena definitiva aplicada.
+Nas razões do recurso especial, aponta a defesa contrariedade aos arts. 33, §§ 2º e 3º, 59, 68 e 157 do Código Penal.
+Aduz que "a fração de aumento adotada, na fixação da mencionada pena, é flagrantemente desarrazoada" (fl. 359). Acrescenta, ainda, que "não há fundamentos concretos, baseados em circunstâncias que não digam respeito a elementos do fato típico em si, aptos a embasar a determinação do início do cumprimento da reprimenda em regime mais rigoroso" (fl. 359).
+Requer a reforma do acórdão para que o agravante seja absolvido ou, subsidiariamente, para que seja readequada a pena (fl. 362).
+O apelo especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal a quo (fl. 381-382), ante a incidência da Súmula n. 7 do STJ, o que ensejou a interposição deste agravo (fls. 387-396).
+O agravante alega, contudo, que "a matéria discutida no bojo do Recurso Especial em tela, relativa à violação dos arts. 59, 68 e 157, § 2º, I, do Código Penal, não contrariam o Enunciado Sumular nº 07 do STJ, uma vez que o Recurso Especial em tela não almeja o revolvimento fático probatório, mas tão somente a revaloração do fato provado" (fl. 390).
+O Ministério Público Federal opinou, às fls. 419-427, pelo desprovimento do agravo.
+Decido.
+I) Admissibilidade do agravo
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, preenchendo, dessa forma, os requisitos de admissibilidade, razão pela qual comporta conhecimento.
+II) Fundamentação deficiente - Súmula n. 284 do STF
+Nas razões do recurso especial, o agravante menciona que "não se aplica a vedação contida na Súmula n.º 07 desta Corte, de modo a obstar a análise das teses da absolvição por insuficiência de provas e consumação delitiva" (fl. 356), e, ao final, requer o provimento do recurso para que seja exarado juízo absolutório. Entretanto, mostra-se deficiente a argumentação do recurso, pois não foram desenvolvidas as razões pelas quais o agravante entende ser cabível o mencionado pleito.
+Ademais, o agravante sustenta que inexistem fundamentos concretos aptos a embasar a fixação de regime prisional mais gravoso. Tal argumento, todavia, está dissociado dos fundamentos do acórdão impugnado, o qual manteve o regime mais benéfico ao agravante à luz do quantum de pena aplicado (regime semiaberto) e do que dispõe o art. 33, § 2º, "b", do Código Penal.
+Aplica-se, por analogia, em ambas as situações, o óbice da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+III) Proporcionalidade do aumento da pena-base
+O agravante sustenta ser desproporcional o aumento de pena procedido na primeira etapa da dosimetria da pena.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto, devendo, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime; e o comportamento da vítima.
+Na espécie, o acórdão manteve a valoração negativa das "circunstâncias do crime", nos exatos termos do fundamento concreto constante da sentença: "as circunstâncias se encontram relatadas nos autos e são gravíssimas, uma vez que as vítimas, incluindo uma criança de apenas nove anos de idade, foram amarradas" (fl. 221).
+Com base nessa circunstância judicial negativa, o Tribunal de origem aumentou de 6 meses a pena-base (fl. 342), o que, ao contrário do afirmado nas razões recursais, não se mostra desproporcional ante à gravidade concreta do crime e o intervalo de pena em abstrato previsto para o crime de roubo (4 a 10 anos).
+IV) Execução provisória da pena
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+V) Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Ainda, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena imposta. A determinação deve ser desconsiderada caso o agravante já cumpra a reprimenda.
+Publique-se e intimem-se.
