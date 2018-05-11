@@ -1,0 +1,19 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS RECURSAIS. 85, § 11, do CPC/2015. NÃO CABIMENTO.
+1. Impossibilidade de fixação dos honorários recursais, haja vista não estarem presente os requisitos cumulativos necessários para tal desiderato, conforme jurisprudência desta Corte.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por [NOME] contra decisão unipessoal (fls. 432/433 e-STJ) que, ante a comprovação da tempestividade do agravo em recurso especial manejado por GENERALI BRASIL SEGUROS S/A, reconsiderou decisão da Presidência (fls. 370/371 e-STJ) para, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conhecer do recurso.
+Embargos declaratórios: opostos pelo agravante alegando omissão acerca da "majoração dos honorários nos termos do art. 85, § 11 do CPC/2015", foram rejeitados.
+Agravo Interno: pleiteia fixação de honorários recursais nos termos do art. 85, § 11, do CPC/2015.
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+O agravo interno não merece acolhida.
+De acordo com a jurisprudência desta Corte, para fins de arbitramento de honorários advocatícios recursais previstos no § 11 do art. 85 do CPC/2015, é necessário o preenchimento cumulativo dos seguintes requisitos (Edcl no AgIn no REsp n. 1.573.573/RJ, 3ª TURMA, Dje de 08/05/2017): "1. Direito Intertemporal: deve haver incidência imediata, ao processo em curso, da norma do art. 85, § 11, do CPC de 2015, observada a data em que o ato processual de recorrer tem seu nascedouro, ou seja, a publicação da decisão recorrida, nos termos do Enunciado 7 do Plenário do STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC"; 2. o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente; 3. a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso; 4. não haverá majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou não provido; 5. não terem sido atingidos na origem os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, para cada fase do processo; 6. não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba."
+Conforme anteriormente consignado, considerando que a competência recursal extraordinária do Superior Tribunal de Justiça foi inaugurada pelo recurso especial trazido a esta Corte por força de agravo, tem-se por incabível a fixação de honorários consoante o disposto no art. 85, § 11, do CPC/2015, porque: i) o recurso especial foi interposto quando ainda estava em vigor o CPC/73 (10/03/2016, fl. 253, e-STJ); ii) não houve fixação de verba honorária na origem, por tratarem os autos de agravo de instrumento interposto contra decisão interlocutória.
+Sobre o tema, confiram-se: AgInt nos EDcl nos EDcl na DESIS no AREsp 994.949/SP, 3ª Turma, DJe 13/11/2017; AgInt no AREsp 1133630/SP, 1ª Turma, DJe 09/11/2017; AREsp 1108712/MA, 2ª Turma, DJe 11/10/2017; EDcl no AgInt no AREsp 867.748/DF, 3ª Turma, DJe 21/03/2017.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
