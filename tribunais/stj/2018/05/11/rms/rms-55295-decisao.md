@@ -1,0 +1,58 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto por [NOME], com base nos arts. 105, II, b, da Constituição da República e 1.027, II, a, do Código de Processo Civil de 2015, contra acórdão proferido pelo Tribunal de Justiça de Santa Catarina, assim ementado (fl. 186e):
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO REGIDO PELO EDITAL N. 01/2013 PARA A CONTRATAÇÃO DE AGENTE PENITENCIÁRIO. PROCESSO SELETIVO REALIZADO, DURANTE O SEU PRAZO DE VIGÊNCIA, PARA A CONTRATAÇÃO DE SERVIDORES TEMPORÁRIOS PARA O DESEMPENHO DO REFERIDO CARGO PÚBLICO. PRETERIÇÃO INOCORRENTE, ANTE A DESCLASSIFICAÇÃO DO IMPETRANTE NA TERCEIRA ETAPA DO CERTAME. DIREITO LÍQUIDO E CERTO NÃO EVIDENCIADO. ORDEM DENEGADA.
+Nas razões recursais, alega-se, em síntese, ofensa ao art. 37, caput, II e IV, da Constituição da República, ante a existência de direito líquido e certo à convocação para as etapas posteriores ao teste de aptidão física do concurso de Agente Penitenciário do Estado de Santa Catarina, porquanto classificado dentro do número de vagas previstas no edital.
+Com contrarrazões (fls. 213/215e), subiram os autos a esta Corte, admitido o recurso na origem (fl. 222e).
+O Ministério Público Federal manifestou-se às fls. 230/232e, pelo improvimento recursal.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Esta Corte encampa orientação segundo a qual o prazo decadencial para a impetração de mandado de segurança conta-se a partir da ciência do ato que elimina o candidato do certame, mesmo que este seja fundado em regra editalícia, conforme precedentes assim ementados:
+EMBARGOS DE DIVERGÊNCIA - CONCURSO PÚBLICO - - MANDADO DE SEGURANÇA - PRAZO DECADENCIAL - TERMO A QUO - ACOLHIMENTO DA DIVERGÊNCIA.
+1.- O termo a quo do prazo decadencial para a impetração de mandado de segurança em que se impugna regra prevista no edital de concurso público, conta-se a partir do momento em que o candidato toma ciência do ato administrativo que, fundado em regra editalícia, determina a sua eliminação do certame. Precedentes. ( EREsp 1.266.278/MS, Relatora Ministra ELIANA CALMON, CORTE ESPECIAL, DJe 10/05/2013) e não a partir da data do edital, como julgado pelo Acórdão ora Embargado.
+2.- Embargos de Divergência acolhidos, prejudicada a remessa à 3ª Seção.
+(EREsp 1124254/PI, Rel. Ministro SIDNEI BENETI, CORTE ESPECIAL, julgado em 01/07/2014, DJe 12/08/2014).
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. DECADÊNCIA. TERMO INICIAL. ATO ADMINISTRATIVO DE ELIMINAÇÃO DO CANDIDATO.
+1- O prazo decadencial do mandado de segurança inicia-se com o ato administrativo que determina a eliminação do candidato do certame, momento em que a regra editalícia passa a afetar seu direito subjetivo, legitimando-o para a impetração. Precedentes, inclusive da Corte Especial.
+2- Recurso ordinário provido para, cassando o acórdão recorrido, proferido em sede de embargos declaratórios, afastar a decadência.
+3- Em virtude do afastamento da decadência, deverá o feito retornar à Corte de origem, a fim de ali se renovar o julgamento do mérito do mandamus, uma vez que o efeito substitutivo do acórdão dos declaratórios, ex vi do art. 512 do CPC, acarretou na inescapável eliminação do acórdão embargado, que não se pode ter por repristinado com o provimento do presente RMS.
+(RMS 32.216/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/05/2013, DJe 21/05/2013).
+ADMINISTRATIVO. CONSTITUCIONAL. PROCESSUAL CIVIL. CONCURSO PÚBLICO. POLICIAL CIVIL. ESCRIVÃO. TESTE DE APTIDÃO FÍSICA. DECADÊNCIA.
+PRAZO CONTADO A PARTIR DO ATO LESIVO. INOCORRÊNCIA. PRECEDENTES. EXIGÊNCIA DO TAF. AUSÊNCIA DE PREVISÃO LEGAL. IMPOSSIBILIDADE. PRECEDENTES. EXIGIBILIDADE PARA AS FUNÇÕES DO CARGO ESPECÍFICO. INEXISTÊNCIA. PRECEDENTES DO STF. DIREITO LÍQUIDO E CERTO VERIFICADO.
+1. Cuida-se de recurso ordinário interposto contra acórdão que denegou a segurança ao pleito mandamental de anulação do ato de exclusão de concurso público ao cargo de escrivão de polícia civil de candidata que havia sido considerada inapta. A recorrente se insurge contra a juridicidade da exigência do teste de aptidão física, porquanto não haveria base legal para esta fase no momento da publicação do Edital SEAB n. 001/97.
+2. Não há falar em decadência, pois a jurisprudência do Superior Tribunal de Justiça está firmada no sentido de que o prazo para impetração deve ser contado a partir da ocorrência do ato lesivo e não do advento do edital. Precedentes: AgRg no RMS 29.747/AC, Rel. Ministro Campos Marques (Desembargador convocado do TJ/PR), Quinta Turma, DJe 26.8.2013; AgRg no RMS 41.622/MS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 12.6.2013; e RMS 38.500/GO, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 20.5.2013.
+(..)
+Recurso ordinário provido.
+(RMS 42.674/BA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 03/06/2014, DJe 12/06/2014, destaque meu).
+Nesse contexto, nos termos do art. 23, da Lei n. 12.016/2009, "o direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado".
+Tratando-se de ato comissivo, considera-se, como termo inicial do prazo decadencial para a propositura do writ, a data da ciência, ao interessado do ato impugnado e que este revela-se apto à produção de efeitos lesivos à esfera jurídica do impetrante (STF, AgRg no MS 23.528, Tribunal Pleno, Rel. Min. Ellen Gracie, DJe de 19.08.2011).
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO FEDERAL. ATO COATOR: CONVERSÃO DA EXONERAÇÃO EM DESTITUIÇÃO DE CARGO EM COMISSÃO. IMPETRAÇÃO FORA DO PRAZO DE 120 DIAS. TERMO INICIAL. DATA DA PUBLICAÇÃO DO ATO ADMINISTRATIVO NO DIÁRIO OFICIAL. DECADÊNCIA CONFIGURADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A 1ª Seção do STJ, no julgamento do MS 18.218/DF, decidiu que "a teor do disposto no art. 23 da Lei n. 12.016/2009, a data em que o interessado tiver conhecimento do ato impugnado é o termo inicial do prazo de decadência para impetração de mandado de segurança, que, na hipótese, deve ser contado da publicação do ato no Diário Oficial".
+2. O Supremo Tribunal Federal já decidiu que a publicação na imprensa oficial é suficiente para eficácia da pena de demissão imposta a servidor público, sendo desnecessária a intimação pessoal do acusado. Precedente: RMS 24.619/DF, Rel. Min. Gilmar Mendes, Segunda Turma, Dje 22/11/2011.
+3. In casu, considerando-se que o ato apontado como coator foi publicado no Diário Oficial da União de 17/01/2014 e que a impetração do mandado de segurança se deu somente em 21/05/2014, quando já decorrido os 120 dias (art. 23 da Lei 12.016/2009), decaiu o direito da parte de interpor o presente mandamus.
+4. Precedente do STF e do STJ.
+5. Agravo regimental não provido.
+(AgRg no MS 21.005/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 11/06/2014, DJe 17/06/2014 - destaquei).
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ATO DE CASSAÇÃO DA APOSENTADORIA. DECADÊNCIA. ART. 23 DA LEI 12.016/2009. TERMO INICIAL. PUBLICAÇÃO NO DIÁRIO OFICIAL. LAPSO TEMPORAL DECORRIDO NO CASO.
+1. O termo inicial do prazo decadencial do direito de impetração de Mandado de Segurança contra cassação de aposentadoria de servidor público, no caso, é a publicação do respectivo ato no Diário Oficial, e não a posterior intimação pessoal do servidor. Nesse sentido: MS 18.218/DF, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 16.8.2013; AgRg no RMS 32.199/AP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 25.10.2010; REsp 1.220.893/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 27.4.2011.
+2. Agravo Regimental não provido.
+(AgRg no MS 19.346/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 09/04/2014, DJe 17/06/2014 - destaque meu).
+Ademais, como cediço, o manejo de pedido de reconsideração ou de recurso administrativo sem efeito suspensivo não tem o condão de suspender ou interromper o prazo para impetração da ação mandamental, consoante inteligência da Súmula 430/STF, in verbis: "Pedido de reconsideração na via administrativa não interrompe o prazo para o mandado de segurança".
+Nesse sentido, confiram-se os seguintes julgados do Tribunal:
+MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. TERMO INICIAL DE IMPETRAÇÃO DO MANDAMUS. ATO DEMISSÓRIO. SÚMULA 430/STF.
+1. O agravante afirma que o prazo decadencial para impetração do mandado de segurança somente se iniciaria após o julgamento do recurso administrativo que interpôs, amparando a sua tese no art. 109 da Lei n. 8.112/90.
+2. O dispositivo legal invocado (art. 109 da Lei n. 8.112/90) realmente admite a possibilidade de o recurso ser recebido com efeito suspensivo. Ocorre que, no caso, não há comprovação nos autos de que tenha sido dado efeito suspensivo ao ato demissório.
+3. No caso vertente, a data da publicação da portaria de demissão, e não a da decisão proferida no pedido de reconsideração, é que determina o termo inicial para a impetração do mandado de segurança, nos termos da Súmula n. 430 do Supremo Tribunal Federal e da iterativa jurisprudência desta Corte.
+Agravo regimental improvido.
+(AgRg no MS 20.354/DF, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, julgado em 28/08/2013, DJe 09/09/2013 - destaquei).
+MANDADO DE SEGURANÇA. IMPETRAÇÃO FORA DO PRAZO DECADENCIAL. RECURSO ADMINISTRATIVO SEM EFEITO SUSPENSIVO. INTERRUPÇÃO. NÃO OCORRÊNCIA.
+1. Consoante entendimento jurisprudencial, o pedido de reconsideração (Súmula 430) e o recurso administrativo destituído de efeito suspensivo não têm o condão de interromper o prazo decadencial do mandado de segurança. Precedentes (AgRg no MS n. 14.178/DF, Ministro Felix Fischer, Terceira Seção, DJe 17/4/2009).
+2. Mandado de segurança extinto com análise de mérito, nos termos do art. 23 da Lei n. 12.016/2009, c/c o art. 269, IV, do Código de Processo Civil.
+(MS 11.655/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 11/09/2013, DJe 18/10/2013 - destaque meu).
+Na espécie, o Recorrente teve notícia inequívoca de sua eliminação do certame em 15.01.2014, mediante ato concreto da Administração Pública, consubstanciado no documento de fls. 123/124e, data em se considera ciente a parte interessada, dos respectivos atos, para fins de impetração, nos termos do art. 23, da Lei n. 12.016/2009, não valendo para tanto, conforme reiterada jurisprudência, a aventada notificação ou intimação pessoal posteriormente efetivada.
+Assim, considerando que o presente mandamus foi impetrado em 03.03.2016 (fl. 1e), ou seja, muito após escoado o prazo decadencial de 120 (cento e vinte) dias, de rigor o reconhecimento da decadência do direito de impetração.
+Na mesma esteira, as seguintes decisões monocráticas proferidas nesta Corte: MS 19.736/DF, Min. Napoleão Nunes Maia Filho, DJe de 28.02.2013; MS 20.406/DF, Min. Benedito Gonçalves, DJe de 28.08.2013; e MS 18.137/DF, Min. Herman Benjamin, DJe de 09.08.2013.
+Isto posto, com fundamento nos arts. 932, III, do Código de Processo Civil e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Ordinário.
+Publique-se e intimem-se.
