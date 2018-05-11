@@ -1,0 +1,56 @@
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. COMPETÊNCIA DO JUIZ DA VARA DE EXECUÇÃO PENAL. ACÓRDÃO EMBARGADO QUE NÃO DEBATEU O MÉRITO DA INSURGÊNCIA INAUGURAL. SÚMULA 315/STJ. DIVERGÊNCIA. NÃO CONFIGURAÇÃO. AUSÊNCIA DE SIMILITUDE FÁTICA.
+Embargos de divergência indeferidos liminarmente.
+DECISÃO
+Cuida-se de embargos de divergência interpostos por [NOME] contra acórdão proferido pela Quinta Turma no AgRg no AREsp n. 711.065/SP, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), DJe 10/9/2015, assim ementado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.TRÁFICO ILÍCITO DE ENTORPECENTES. INTERPOSIÇÃO EXTEMPORÂNEA DO RECURSO ESPECIAL. DEFENSOR CONSTITUÍDO. INTIMAÇÃO. PUBLICAÇÃO NA IMPRENSA OFICIAL. RECURSO DESPROVIDO.
+1. O acórdão recorrido foi disponibilizado no Diário da Justiça Eletrônico em 26.11.2014 e considerado publicado em 27.11.2014, evidenciando-se intempestivo o apelo nobre interposto somente em 19.12.2014, fora do prazo de 15 (quinze) dias, nos termos do art. 26 da Lei n.º 8.038/90.
+2. Não há que se falar em ciência inequívoca somente após a entrega dos autos pela Procuradoria Geral de Justiça, na medida em que, nos termos do art. 370, § 1.º, do Código de Processo Penal, a intimação do defensor constituído se aperfeiçoa com a publicação do dispositivo do respectivo acórdão na imprensa oficial, o que, conforme já salientado, ocorreu in casu.
+3. Ademais, os autos só foram encaminhados à Procuradoria Geral de Justiça do Estado de São Paulo em 7.1.2015, ou seja, após a interposição extemporânea do recurso especial pelo agravante, circunstância que afasta, de vez, a alegação de que a defesa somente teve ciência inequívoca do acórdão proferido no julgamento dos embargos de declaração após a devolução do processo por aquele órgão.
+4. Agravo regimental a que se nega provimento.
+Sobreveio embargos de declaração, os quais foram rejeitados pela Quinta Turma (fl. 410):
+EMBARGOS DE DECLARAÇÃO NO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO DE ANÁLISE DO MÉRITO DO APELO NOBRE. INTEMPESTIVIDADE. IMPOSSIBILIDADE. OMISSÃO. INOCORRÊNCIA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INVIABILIDADE. FLAGRANTE ILEGALIDADE AO DIREITO DE LOCOMOÇÃO. VERIFICAÇÃO DE PLANO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Inexiste qualquer omissão a ser sanada, uma vez que o que pretende a parte é a análise do mérito do apelo nobre, que sequer ultrapassou o juízo de admissibilidade.
+2. A concessão de habeas corpus de ofício demanda a verificação, de plano, por parte exclusivamente do julgador, da ocorrência de flagrante ilegalidade ao direito de locomoção, conforme disposição do art. 654, § 2.º, do CPP, situação que não se verifica na espécie.
+3. Embargos de declaração rejeitados.
+Sustenta o embargante que o mencionado acórdão diverge de outros arestos prolatados pelo Superior Tribunal de Justiça.
+Preliminarmente, alega a ocorrência da prescrição da pretensão executória, nos termos do art. 107, IV, c/c os arts. 109, IV, 110, § 1º, 112, I, e 115 do Código Penal (fl. 424).
+Assevera, em resumo, a presença de contrariedade aos arts. 33, § 2º, e 59 do Código Penal, 33, caput, § 4º, da Lei n. 11.343/2006 e 387, § 2º, do Código de Processo Penal (fl. 433), sendo necessário o pronunciamento desta Corte acerca das violações apontadas (fl. 446).
+Pugna pela declaração da extinção da punibilidade da pena, ou pela fixação do regime aberto, aplicabilidade da causa de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, no patamar máximo, fixação da pena de multa no mínimo legal, substituição da pena privativa de liberdade pela restritiva de direitos e aplicação da detração penal (fl. 447).
+Intimado, o Ministério Público do Estado de São Paulo apresentou impugnação às fls. 462/466, requerendo a rejeição dos presentes embargos, inclusive na parte que se refere ao pedido de reconhecimento da prescrição da pretensão executória.
+Por sua vez, o Ministério Público Federal manifestou-se nos seguintes termos (fl. 471):
+Penal e processo penal. Embargos de divergência em agravo em recurso especial. Súmula 315/STJ. Parecer pelo não conhecimento dos embargos de divergência.
+É o relatório.
+Inviável o acolhimento da preliminar arguida.
+Consoante orientação desta Corte, a extinção da pretensão executória da pena depende da formulação de um juízo de absoluta certeza, inclusive quanto a ausência execução provisória eventualmente decretada pelas instâncias ordinárias, o que, no caso, não é possível assegurar. A esse respeito: EDcl nos EDcl nos EDcl nos EDcl no AgRg nos EDcl no AREsp n. 440.932/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/12/2017.
+Afora isso, cumpre assinalar que a formação da coisa julgada, ainda que por retroação, transfere a competência de decidir sobre a extinção da punibilidade ao Juízo da Vara de Execução Penal, que, aliás, terá melhores condições para proferir um provimento jurisdicional seguro acerca do tema, ex vi art. 66, II, da Lei n. 7.210/1984.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. REMESSA DOS AUTOS AO JUÍZO DA EXECUÇÃO.
+1. O embargante sustenta que há omissão no julgado no que diz respeito à apreciação da prescrição da pretensão executória. Entretanto, não há vícios no julgado.
+2. O art. 61 do Código de Processo Penal estabelece que, "em qualquer fase do processo, o juiz, se reconhecer extinta a punibilidade, deverá declará-lo de ofício", por se tratar de matéria de ordem pública. Precedente: AgRg no RE no AREsp 757.338/RS, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 4/5/2016, DJe 20/5/2016.
+3. No caso dos autos, a prescrição da pretensão punitiva foi afastada, tendo em vista a formação da coisa julgada anteriormente a sua consumação. Assim, "ocorrendo o trânsito em julgado da condenação, a competência será do juízo da vara de execuções penais (art. 66, II, da Lei n. 7.210/84)" (EDcl no AgRg no AREsp 462.334/BA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/03/2017, DJe 24/3/2017.).
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp n. 274.147/RS, Ministro Humberto Martins, Corte Especial, DJe 24/5/2017)
+Quanto ao mais, os embargos são inadmissíveis.
+Insurge-se o embargante contra acórdão que, ao negar provimento ao agravo regimental, manteve a decisão monocrática proferida pela Vice-Presidência desta Corte à fl. 352, a qual negou seguimento ao agravo em recurso especial em razão da intempestividade do apelo nobre.
+Com efeito, a teor do entendimento consolidado no âmbito desta Corte Superior, o cabimento dos embargos de divergência interpostos em face de acórdão proferido nos autos de agravo em recurso especial limita-se à hipótese em que após o seu provimento reste apreciado o próprio mérito do apelo trancado na origem, não servindo para uniformizar o juízo de conhecimento do apelo nobre.
+Incide à espécie o disposto na Súmula 315/STJ: Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+Ilustrando esse entendimento:
+PENAL. PROCESSUAL PENAL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSENTE A ASSINATURA DIGITAL. RECURSO ESPECIAL INEXISTENTE. SÚMULA 115/STJ. MÉRITO RECURSAL NÃO ANALISADO. SÚMULA 315/STJ. AUSENTE DIVERGÊNCIA. SÚMULA 168/STJ. EXECUÇÃO PROVISÓRIA DEFERIDA. EMBARGOS DE DIVERGÊNCIA NÃO CONHECIDOS.
+1. É inviável a oposição de embargos de divergência em face de acórdão que não julga o mérito do recurso especial, situação que atrai a incidência da súmula 315/STJ, segundo a qual Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+ ..
+4. Embargos de divergência não conhecidos e deferida execução provisória da pena, delegando-se ao Tribunal local a execução dos atos.
+(EAREsp n. 606.623/RJ, Ministro Nefi Cordeiro, Terceira Seção, DJe 5/10/2017)
+Lado outro, a jurisprudência desta Corte firmou-se no sentido de que a demonstração da divergência pressupõe a existência de similitude entre os temas tratados no acórdão embargado e nos apontados como paradigmas, o que não ocorre no caso concreto. Enquanto o acórdão embargado trata da interposição extemporânea do recurso especial, os acórdãos paradigmas discorrem sobre inúmeras questões de mérito, entre elas, regime de cumprimento de pena e aplicação do redutor legal previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+A esse respeito:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DISSENSO ENTRE ACÓRDÃOS PROFERIDOS PELA MESMA TURMA: DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO. ACÓRDÃO EMBARGADO QUE NÃO DEBATEU O MÉRITO DA INSURGÊNCIA INAUGURAL: SÚMULA 315/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA. EMBARGOS DE DIVERGÊNCIA NÃO CONHECIDOS.
+1. Situação em que os embargos de divergência apontam suposta nulidade decorrente do impedimento de perito que participou como testemunha nos autos (art. 279, II, do CP), assim como a impossibilidade de utilização de elementar do próprio crime como fundamento para a exasperação da pena. O acórdão embargado, no entanto, negou seguimento ao agravo regimental no agravo de instrumento em recurso especial, aplicando o verbete 182 da Súmula/STJ, tendo em conta que, no regimental, o recorrente se descurou do seu dever de infirmar especificamente todos os fundamentos expostos na decisão agravada.
+2. No tocante à suposta nulidade decorrente do impedimento de perito que participou como testemunha nos autos (art. 279, II, do CP), foram apontados como paradigmas dois acórdãos da mesma Turma que examinou o recurso embargado. No entanto, os embargos de divergência têm como intuito pacificar dissenso entre órgãos colegiados diferentes do Superior Tribunal de Justiça. Precedentes.
+3. Se o acórdão embargado não chegou a analisar o mérito da controvérsia, em razão da incidência da Súmula 182/STJ, mostra-se inviável, em embargos de divergência, rever o conhecimento do recurso especial.
+4. Consoante o disposto no enunciado da Súmula 315, "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Tal entendimento tem por fundamento o fato de que a decisão que nega provimento a agravo de instrumento está apenas confirmando a já prolatada pela instância de origem, que, por sua vez, inadmitiu o recurso especial.
+5. Além disso, no que se refere à alegada divergência sobre a exasperação da pena acima do mínimo legal, os acórdãos confrontados carecem de similitude fática, já que o paradigma apontado trata da utilização da conduta da vítima como elemento a autorizar a majoração da pena-base, enquanto que a pretensão do embargante investe contra a possibilidade de a qualidade de servidor público ser utilizada, ao mesmo tempo, como elementar e como circunstância autorizadora da fixação da pena acima do mínimo legal.
+ ..
+8. Agravo regimental a que se nega provimento.
+(AgRg nos EAREsp n. 135.580/CE, Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 20/11/2015)
+Ante o exposto, com fundamento no art. 266-C, c/c o art. 34, XVIII, a, do RISTJ, indefiro liminarmente os presentes embargos.
+Publique-se.
