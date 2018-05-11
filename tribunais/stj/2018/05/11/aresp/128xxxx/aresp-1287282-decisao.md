@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"PROCESSUAL CIVIL. CONSUMIDOR. EXIBIÇÃO DE DOCUMENTOS. CONDOMÍNIO. ADMINISTRADORA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. RELAÇÃO DE CONSUMO. EXTRATOS BANCÁRIOS. "CONTA POOL". POSSIBILIDADE DE EXIBIÇÃO. RÉU REVEL. CONDENAÇÃO EM HONORÁRIOS INDEVIDA.
+1. Nos termos do art. 2o do Código de Defesa do Consumidor, consumidor é toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final. Assim, o Condomínio destinatário final do serviço, há de se concluir que à hipótese incidem as normas do Código de Defesa do Consumidor.
+2. A "conta pool" é utilizada para captação de recursos de vários condomínios, entre eles o autor, sendo assim a alegação de que as informações estão protegidas pelo sigilo bancário não convencem, pois a "conta pool" também contempla recursos do autor.
+3. Ademais, a exibição do extrato bancário da "conta pool" mostra-se possível, uma vez que movimentação bancária pode ser feita com a omissão de receitas de terceiros.
+4. Incabível impor ao vencido condenação ao pagamento de honorários advocatícios quando, apesar da revelia, o réu sair vencedor na demanda, porquanto a verba honorária visa remunerar a atuação de advogado, o que, nessa hipótese, não ocorreu.
+5. Recurso da Ré improvido. Recurso do Autor provido."
+(e-STJ, fl. 219/220)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 247/260).
+Nas razões do recurso especial, o agravante alega divergência jurisprudencial, sustentando, em síntese, que: (a) a exibição de extratos da "conta pool", utilizada por ela, na qualidade de adminstradora, para movimentar receitas/despesas de diversos condomínios, fere o sigilo de terceiros, e (b) resta incontroverso que houve a prestação de contas do período compreendido entre outubro/2013 a julho/2015.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado nº 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Quanto à apontada divergência jurisprudencial, impende ressaltar que, ao interpor o recurso especial, a parte recorrente deve, obrigatoriamente, particularizar de forma inequívoca os dispositivos legais que tenham sido contrariados, aos quais o Tribunal de origem lhes tenha negado vigência, ou acerca dos quais haja divergência interpretativa, sob pena de se configurar fundamentação deficiente, inviabilizando a abertura da via especial.
+O mero inconformismo, sem a indicação do dispositivo legal ao qual supostamente foi atribuído interpretação divergente, constitui argumentação deficiente, impedindo, por conseguinte, a exata compreensão da controvérsia a ser dirimida.
+Nesse sentido, a jurisprudência pacífica desta Casa dispõe que a ausência de particularização dos dispositivos legais a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência insanável, inviabilizando a abertura da instância especial, a incidir, no ponto, a censura do enunciado da Súmula nº 284 do STF. Confira-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA Nº 284 DO STF. DESPESAS REALIZADAS EM HOSPITAL NÃO CREDENCIADO. SÚMULAS 5 E 7/STJ.
+RECURSO NÃO PROVIDO. .
+1. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação dos dispositivos supostamente violados ou objeto de interpretação divergente. Súmula 284 do STF.
+2. O Tribunal de origem concluiu que o ajuste firmado seria patrocinado em todo o Sistema Nacional Unimed, bem como que cabe aos usuários escolher os médicos e hospitais, desde que cooperados com o plano. Para desconstituir a convicção formada pelas instâncias ordinárias a esse respeito, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como proceder à interpretação de cláusulas contratuais, o que é defeso a esta Corte Superior ante o teor das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido."
+(AgInt no AREsp 1024730/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/08/2017, DJe 21/08/2017 - grifou-se)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA REGULARIZAÇÃO DO IMÓVEL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO NÃO CONFIGURADO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal (Súmula 284 do STF). Necessário, ainda, o cotejo analítico com a demonstração de similitude fática entre o acórdão recorrido e os paradigmas confrontados.
+2. Inviável o recurso especial cuja análise das razões impõe reexame de matéria fática da lide, nos termos da vedação imposta pela Súmula n. 7 do STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 820.096/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/12/2016, DJe 07/12/2016 - grifou-se)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de R$ 1.300,00 para R$ 1.430,00.
+Publique-se.
