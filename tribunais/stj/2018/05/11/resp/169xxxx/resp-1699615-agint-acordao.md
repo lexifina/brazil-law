@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. DANOS MORAIS. RECURSO ESPECIAL PELA ALÍNEA "C". AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI INTERPRETADO DE MODO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O recurso especial que aponta violação à alínea "c" do permissivo constitucional, exige indicação clara e efetiva do dispositivo legal que teria sido interpretado de modo divergente, sob pena de incidir o teor da Súmula 284/STF.
+2. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto por [NOME], contra a decisão de fls. 398/402 (e-STJ), onde não conheci do recurso especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. DANOS MORAIS. RECURSO ESPECIAL PELA ALÍNEA "C". AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI INTERPRETADO DE MODO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões de agravo interno, a agravante sustenta a inaplicabilidade da Súmula 284/STF, eis que indicou o dispositivo de lei interpretado de modo divergente pelo Tribunal de origem.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. DANOS MORAIS. RECURSO ESPECIAL PELA ALÍNEA "C". AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI INTERPRETADO DE MODO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O recurso especial que aponta violação à alínea "c" do permissivo constitucional, exige indicação clara e efetiva do dispositivo legal que teria sido interpretado de modo divergente, sob pena de incidir o teor da Súmula 284/STF.
+2. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravo interno não merece ser provido.
+Isso porque, embora mencione nas razões recursais suposta violação ao art. 1º do Decreto nº 20.910/1932, observo que a parte recorrente não indica de maneira clara e efetiva de que modo o referido dispositivo teria sido objeto de interpretação divergente. Com efeito, a deficiência de fundamentação justifica a aplicação da Súmula 284/STF, segundo o qual, " é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". A propósito, os seguintes precedentes:
+DIREITO PROCESSUAL. MORTE DE PROCURADOR. PLURALIDADE DE PROCURADORES. RESTITUIÇÃO DO PRAZO PARA APELAÇÃO. ALEGAÇÃO DE OFENSA A DISPOSITIVOS DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO AO ART. 535 DO CPC/73. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ART. 932, III, DO CPC DE 2015. VÍCIO ESTRITAMENTE FORMAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL OBJETO DA DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA 284/STF.
+ ..
+4. O conhecimento do recurso especial, pela alínea c do permissivo constitucional, exige a indicação de qual dispositivo legal teria sido objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Precedentes do STJ. 5. Agravo interno não provido.
+(AgInt no REsp 1444586 / SP AGRAVO INTERNO NO RECURSO ESPECIAL 2014/0067017-2, Relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, DJe 17/4/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. 1. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. 2. CONCLUSÕES DA PROVA TÉCNICA AFASTADAS. POSSIBILIDADE. OUTRAS PROVAS ACOSTADAS AOS AUTOS. INEXISTÊNCIA DE GRADUAÇÃO DOS MEIOS DE PROVA ADMITIDOS. FUNDAMENTAÇÃO AMPLA DO TRIBUNAL DE ORIGEM. PRECEDENTES. 2.1. ALTERAÇÃO DO ENTENDIMENTO DA CORTE LOCAL. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. 3. RESPONSABILIDADE DO FORNECEDOR PELO CHAMADO ACIDENTE DE CONSUMO. INVERSÃO DO ÔNUS DA PROVA E RESPONSABILIDADE OBJETIVA. 3.1. A FORNECEDORA DO PRODUTO NÃO PROVOU QUE O DEFEITO NA RODA TRASEIRA NÃO FOI DETERMINANTE PARA O ACIDENTE OU QUE O SINISTRO TENHA OCORRIDO EM RAZÃO DE FATO IMPUTÁVEL AO CONSUMIDOR. A CORTE ORIGINÁRIA ASSEVEROU QUE O DEFEITO DE FABRICAÇÃO DO CUBO DE RODA DO VEÍCULO FIAT STILO CONTRIBUIU PARA A OCORRÊNCIA DO RESULTADO LESIVO, ESTANDO PRESENTES OS ELEMENTOS DA RESPONSABILIDADE CIVIL. MODIFICAÇÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. 4. DANO MORAL. DISSÍDIO JURISPRUDENCIAL APRESENTADO DE FORMA DEFICIENTE. 4.1. IMPOSSIBILIDADE DE ALTERAR O VALOR ARBITRADO A TÍTULO DE DANO MORAL POR MEIO DO DISSENSO PRETORIANO. 5. HONORÁRIOS ADVOCATÍCIOS. DIMINUIÇÃO DA QUANTIA FIXADA. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO. 1. Não há violação do artigo 1.022 do CPC/2015 quando o acórdão recorrido se pronuncia de forma clara e suficiente sobre a questão que lhe é submetida. 2. A revisão da conclusão estadual - acerca da causa do acidente, do preenchimento dos requisitos para a reparação civil e do valor arbitrado a esse título e do montante fixado para honorários advocatícios - demandaria o revolvimento do acervo fático-probatório dos autos, providência inviável na via estreita do recurso especial, ante o óbice disposto na Súmula 7/STJ. 3. A interposição do recurso especial com fundamento na alínea c do permissivo constitucional não dispensa a indicação do dispositivo de lei federal ao qual o Tribunal de origem tenha dado interpretação divergente daquela firmada por outros tribunais. O não cumprimento de tal requisito, como no caso, importa deficiência de fundamentação. Incidência da Súmula 284/STF. 4. Razões recursais insuficientes para a revisão do julgado. 5. Agravo interno desprovido.
+(AgInt no AREsp 1195586 / DF AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL 2017/0280292-0, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 27/3/2018)
+Ante o exposto, nego provimento ao agravo interno. É como voto.
