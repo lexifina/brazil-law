@@ -1,0 +1,25 @@
+Vistos etc.
+    Trata-se de embargos de declaração opostos de decisão monocrática, da minha lavra, em que neguei seguimento ao recurso extraordinário com agravo interposto contra decisão do Tribunal de Justiça de Pernambuco, haja vista a sua intempestividade.
+    O embargante sustenta que “Muito embora o Embargante demonstrasse em sede de agravo a tempestividade do Recurso em razão do não funcionamento do aparelho de fax do Tribunal de Justiça, Vossa Excelência deixou de se manifestar em relação à certidão juntada que remete as orientações passadas para o efetivo protocolo da peça processual.”
+    É o relatório.
+    Decido.
+    Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios, opostos já na vigência do Novo Código de Processo Civil (Lei nº 13.105/2015).
+    O artigo 1.022 do novel Codex estabelece o cabimento de embargos de declaração “contra qualquer decisão judicial”, permitido expressamente, consoante o art. 1.024, § 2º, desse Diploma, sejam decididos monocraticamente quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    Com base, pois, nesse permissivo legal, procedo à apreciação singular destes declaratórios, independentemente do caráter infringente que ostentam.
+    Inexistente vício a ensejar estes embargos declaratórios.
+    Verifico, de plano, nítido o caráter meramente infringente com o qual opostos os declaratórios, uma vez que o embargante deixou de indicar qualquer omissão, obscuridade ou contradição, tendo se restringido a atacar os fundamentos do julgado, hipótese que não se insere no rol art. 1022 do Código de Processo Civil.
+    Reputo truísmo mencionar que o ônus da impugnação especificada, sem o que inviável a apreciação de recurso, consubstancia indeclinável dever processual, albergado não só pelos Códigos de Processo Civil tanto de 1973 quanto de 2015, mas também pelo Regimento Interno desta Casa.
+    Essa orientação coaduna-se com o firme entendimento desta Suprema Corte de que constitui pressuposto de todo e qualquer recurso a fundamentação específica e suscetível de atacar a decisão recorrida. Nesse diapasão, os seguintes precedentes, prolatados sob a vigência do CPC de 2015, inter plures: ARE 935684 AgR, Tribunal Pleno, Relator Min. Ricardo Lewandowski, DJe 2.9.2016, ARE 958585 AgR, Tribunal Pleno, Relator Min. Ricardo Lewandowski, DJe 2.9.2016, ARE 974823 AgR, 2ª Turma, Relator Min. Teori Zavascki, DJe 8.9.2016, ARE 919185 AgR, 2ª Turma, Relatora Min. Cármen Lúcia, DJe 29.8.2016, ARE 887116 AgR, 1ª Turma, da minha lavra, DJe 25.8.2016, RE 630122 AgR-ED, 1ª Turma, Relator Min. Edson Fachin, DJe 25.11.2015.
+    Por conseguinte, inexistentes os pressupostos de embargabilidade.
+    O decisum embargado foi explícito ao ressaltar a inviabilidade do recurso extraordinário com agravo, ante a sua intempestividade. Nesse sentir, transcrevo o seguinte trecho da decisão monocrática:
+    Nos termos da Súmula 699/STF, o agravo, em matéria criminal, deve ser interposto no prazo de cinco dias contados da data de publicação da decisão que não admite o recurso extraordinário.
+    A superveniente Lei 12.322/2010, de alteração do Código de Processo Civil, não afetou o prazo de interposição do agravo em matéria criminal, não se justificando a revisão da súmula. Nesse sentido, precedente do Plenário:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRAZO. LEI Nº 12.322/2010. MATÉRIA CRIMINAL. INAPLICABILIDADE DO ART. 544 DO CPC. INCIDÊNCIA DO ART. 28 DA LEI Nº 8.038/90. PRECEDENTES. QUESTÃO DE ORDEM REJEITADA E AGRAVO NÃO CONHECIDO. 1. A alteração promovida pela Lei nº 12.322, de 9 de setembro de 2010, não se aplica aos recursos extraordinários e agravos que versem sobre matéria penal e processual penal, de modo que o prazo do Agravo em Recurso Extraordinário criminal é o de 5 (cinco) dias previsto no art. 28 da Lei nº 8.038/90, e não o de 10 (dez) dias, conforme o art. 544 do CPC. Precedentes (AG 197.032-RS, rel. Min. Sepúlveda Pertence, 5.11.97; AG (AgRg) 234.016-SP, rel. Min. Ilmar Galvão, 8.6.99). 2. Questão de ordem rejeitada para não conhecer do recurso de agravo (ARE 639.846-AgR-QO, Redator p/ acórdão Min. Luiz Fux, Plenário, DJe 20.3.2012).
+    No caso, o Recorrente foi intimado da decisão recorrida no dia 06.02.2014, quinta-feira, tendo o agravo sido protocolado somente em 12.02.2014, quarta-feira, razão pela qual é intempestivo.
+    Gizo, por derradeiro, que não se prestam, os embargos de declaração, em qualquer hipótese, não obstante a vocação democrática que lhes é pertinente e presente sua finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas.
+    Nesse passo, aquilato protelatórios estes embargos, à míngua dos pressupostos de embargabilidade, a denotarem mero inconformismo sistemático da parte, à luz da fundamentação bastante contida na decisão singular – lastreada em firme jurisprudência desta Corte Suprema.
+    Rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 11 de maio de 2018.
+Ministra Rosa Weber
+Relatora
