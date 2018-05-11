@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de divergência interpostos pela Fazenda Nacional contra acórdão proferido pela Primeira Turma assim ementado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EFEITOS DA COISA JULGADA EM AÇÃO COLETIVA. LIMITAÇÃO TERRITORIAL E TEMPORAL. SÚMULA 83 DO STJ.
+1. É assente na jurisprudência deste Superior Tribunal de Justiça o entendimento de que, quando em discussão a eficácia objetiva e subjetiva da sentença proferida em ação coletiva proposta em substituição processual, a aplicação do art. 2º-A da Lei n. 9.494/1997 deve se harmonizar com os demais preceitos legais aplicáveis ao tema, de forma que o efeito da sentença coletiva nessas hipóteses não está adstrito aos filiados à entidade sindical à época do oferecimento da ação coletiva, ou limitada a sua abrangência apenas ao âmbito territorial da jurisdição do órgão prolator da decisão. Aplicação da Súmula 83 do STJ.
+2. Agravo interno desprovido.
+A embargante sustenta que o aresto questionado divergiu do entendimento adotado pela Segunda Turma nos autos do REsp 1.657.506/RS, cuja ementa segue abaixo transcrita:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. AÇÕES COLETIVAS. ASSOCIAÇÕES DE CLASSE E SINDICATOS. EFEITOS DA SENTENÇA PROFERIDA EM AÇÃO COLETIVA. CONSTITUCIONALIDADE DO ART. 2º-A DA LEI 9.494/1997 DECLARADA PELO STF.
+1. Hipótese em que a Corte de origem entendeu que "a regra prevista no art. 2º-A da Lei nº 9.494/97, no entanto, seria destinada tão-somente às associações e não aos sindicatos, que defendem interesses de toda a categoria, e não somente dos associados, uma vez que atuam não como representantes mas como substitutos processuais  ..  Desta forma, em se tratando de demanda relativa a direitos individuais homogêneos, resta assentada a legitimidade do sindicato para postular em nome e benefício da categoria que representa, na forma de substituição processual, sem a limitação territorial imposta".
+2. O STJ possui jurisprudência favorável à tese da recorrente no sentido de que a sentença civil proferida em ação de caráter coletivo ajuizada por entidade associativa ou sindicato, na defesa dos interesses e direitos dos seus associados ou da categoria, atinge somente os substituídos que possuam, na data do ajuizamento da ação, domicílio no âmbito da competência territorial do órgão prolator, conforme o disposto no art. 2º-A da Lei 9.494/97.
+3. Ademais, o STF, no RE 601.043/PR julgado em repercussão geral, reconheceu a constitucionalidade do art. 2º-A da Lei 9.494/1997, e firmou a tese de que "a eficácia subjetiva da coisa julgada formada a partir de ação coletiva, de rito ordinário, ajuizada por associação civil na defesa de interesses dos associados, somente alcança os filiados, residentes no âmbito da jurisdição do órgão julgador" (RE 601.043/PR, REl. Min. Marco Aurélio, julgado em 10.5.2017, acórdão pendente de publicação).
+4. "A afirmação de que a limitação territorial do art. 2º-A da Lei n. 9.494/97 não se aplicaria aos sindicatos não tem como prosperar, pois criaria uma diferenciação não esposada pela lei, que optou pelo termo "entidade associativa", que engloba toda e qualquer corporação legitimada à propositura de ações judiciais, sem restringir-se às associações" (AgRg no REsp 1.279.061/MT, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 19/4/2012, DJe 26/4/2012).
+5. Recurso Especial provido.
+É o relatório.
+Admito os embargos de divergência, visto que os acórdãos embargado e paradigma aparentam estar em conflito no tocante à limitação territorial prevista no art. 2º da Lei n. 9.494/1997.
+Dê-se vista ao embargado para apresentar impugnação no prazo de 15 dias.
+Ouça-se o Ministério Público Federal, nos termos do art. 64, inc. XIII, do RISTJ.
+Publique-se. Intimem-se.
