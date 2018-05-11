@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado, como incurso no art. 180, § 1º, do Código Penal, à pena de 3 anos de reclusão, a ser cumprida inicialmente em regime semiaberto, pois, "no dia 07 de junho de 2017, às 08h10  .. , previamente ajustado com outros quatro indivíduos não qualificados, agindo em concurso com identidade de propósitos, após receber, expuseram à venda, em proveito próprio ou alheio, no exercício de atividade comercial, coisa que deve saber ser produto de crime, qual seja, um veículo Fiat/Uno, cor preta, placas [PLACA], pertencente à vítima [NOME]" (e-STJ fl. 14).
+Dessa decisão, a defesa impetrou habeas corpus, tendo o Tribunal de origem indeferido liminarmente a impetração, nos termos da seguinte ementa (e-STJ fl. 10):
+Habeas corpus. Pedido de alteração de regime. Matéria que enseja impugnação por meio do recurso de apelação. Sentença condenatória que fundamenta as posições nela adotadas, não incorrendo em teratologia, nem importando em evidente constrangimento ilegal. Inadequação da via eleita. Indeferimento liminar da impetração.
+No presente writ, sustenta o impetrante que não há motivação idônea para justificar o estabelecimento do regime mais gravoso.
+Alega que "o fato de o paciente responder a processo por fato posterior aos fatos que ensejaram a condenação em questão não pode ser utilizado como fundamento para negar ao paciente o regime aberto" (e-STJ fl. 5).
+Invoca, a propósito, o teor dos enunciados n. 719 da Súmula do Supremo Tribunal Federal e 440 da Súmula desta Casa.
+Pede, liminarmente, que "o paciente aguarde o julgamento do habeas corpus e da apelação em liberdade ou em regime aberto" (e-STJ fl. 8). E, no mérito, requer seja fixado o regime aberto para o início do cumprimento da pena.
+É, em síntese, o relatório.
+Infere-se dos autos que o Tribunal de origem não apreciou a questão da alteração do regime prisional, asseverando que a matéria "enseja impugnação por meio de recurso de apelação" (e-STJ fl. 10). Sendo assim, a análise do tema não pode ser submetida a esta Corte Superior, sob pena de configurar indevida supressão de instância.
+A propósito, confiram-se os precedentes:
+PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. DESPROPORCIONALIDADE. TEMA NÃO APRECIADO PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO CONCRETA. PARTICIPAÇÃO DE MENORES. ILEGALIDADE. AUSÊNCIA. RECURSO EM HABEAS CORPUS CONHECIDO EM PARTE E, NA EXTENSÃO, IMPROVIDO.
+1. Matéria não enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância.
+2. Apresentada fundamentação concreta para a decretação da prisão preventiva, evidenciada na referência à participação de menores no delito, pois o roubo supostamente cometido com corrupção de menores, não há que se falar em ilegalidade do decreto de prisão preventiva.
+3. Recurso em habeas corpus conhecido em parte e, nessa extensão, improvido. (RHC 92.616/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/4/2018, DJe 27/4/2018.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. ALEGAÇÃO DE INCOMPETÊNCIA DA JUSTIÇA FEDERAL. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Não cabe a esta eg. Corte Superior analisar o pedido de incompetência da Justiça Federal, quando nos autos do mandamus originário, objeto do presente habeas corpus substitutivo de recurso ordinário, a questão não foi apreciada pelo eg. Tribunal de origem, sob pena de indevida supressão de instância.
+II - É assente nesta eg. Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+Agravo Regimental desprovido. (AgRg no HC 433.904/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/4/2018, DJe 23/4/2018.)
+De outro lado, informações obtidas no sítio eletrônico do Tribunal de origem dão conta de que, em 26/3/2018, a defesa interpôs recurso de apelação contra a sentença proferida nos autos da ação penal a que este habeas corpus se refere (processo n. 0001408-41.2017.8.26.0548).
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
