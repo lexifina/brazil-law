@@ -1,0 +1,28 @@
+DECISÃO
+[NOME] GARCIA DE OLIVEIRA alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo n. 7004379-78.2017.8.26.0482.
+As instâncias ordinárias indeferiram o pedido de livramento condicional ao paciente, por falta de preenchimento do requisito subjetivo. Neste writ, alega a Defensoria Pública que "o apenado já cumpriu mais de 2/3 da pena" e, "quanto ao requisito de ordem subjetiva,  ..  ostenta bom comportamento carcerário" (fl. 4). Assim, é de rigor a concessão do benefício, sem necessidade de "que o sentenciado passe primeiramente pelo regime intermediário" (fl. 4).
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+O Juízo das Execuções indeferiu o livramento condicional por falta de preenchimento do requisito subjetivo. Confira-se:
+Em que pese a atual boa conduta carcerária do apenado, possui considerável pena por cumprir (20.06.2019) e histórico prisional desfavorável à imediata liberdade, ainda que condicional, eis que praticou novos delitos (execuções nº 06, 07, 08, 09 e 10) após evadir, evidenciando ausência de senso de responsabilidade e inadequação à terapêutica penal aplicada.
+Por derradeiro, não cabe, por ora, o livramento, pois recomendável o postulante vivenciar primeiramente o regime intermediário, como prova de que irá absorver a terapia penal para, posteriormente, fazer jus à condicional.
+Sendo que, diante da situação específica do sentenciado, apesar do atestado de bom comportamento carcerário, não se pode dizer somente com base nele que está preenchido o requisito subjetivo. Isso porque a natureza das faltas disciplinares anotadas em seu prontuário demonstra com fatos concretos que o sentenciado ainda não desenvolveu meios próprios de autocensura.
+O sentenciado não conseguiu desenvolver senso de responsabilidade para sua autocontenção diante das frustrações normais da vida e, por óbvio não, irá frear os seus instintos primitivos para suportar as regras da vida sem vigilância (fl. 19, destaquei).
+O Tribunal de Justiça salientou:
+Realmente, embora preenchido o requisito objetivo, imperiosa a averiguação do subjetivo, que, ao revés do quanto entende o agravante, não se esgota com o atestado de bom comportamento carcerário.
+Desconta ele pena de 12 anos 11 meses e 18 dias, pela prática de diversos delitos (tráfico de entorpecentes, furto, por duas vezes, receptação e falso testemunho), com término de cumprimento previsto para 27.05.2019 (fls. 04/07).
+Cometeu, ainda, faltas disciplinares de natureza grave consistentes em evasão, prática de novo delito (execução nº 10  fato em 07.05.2013) e, pior, durante o gozo de benefício, em total descompasso com sua finalidade reeducativa (fl. 05 e consulta ao sistema).
+Essas circunstâncias fazem ressumbrar sua personalidade avessa à lei e sua nocividade à sociedade (fl. 24).
+Deveras, a interpretação que se extrai do art. 83, III, do CP, vai além do mero atestado de boa conduta carcerária, pois, mutatis mutandis:
+ ..  a análise do requisito subjetivo pressupõe a verificação do mérito do condenado, que não está adstrito ao "bom comportamento carcerário", como faz parecer a literalidade da lei, sob pena de concretizar-se o absurdo de transformar o diretor do presídio no verdadeiro concedente do benefício e o juiz em simples homologador" (HC n. 106.678, 1ª T, Rel. Ministro Luiz Fux, Dje 17/4/2012).
+Por isso: "Legítima é a denegação de livramento condicional com base em fundamentos concretos, que acarretam o não preenchimento do requisito subjetivo, como o histórico carcerário conturbado do apenado" (AgRg no HC n. 414.730/MS, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 14/3/2018).
+Na hipótese, as instâncias ordinárias indicaram comportamento desabonador externado pelo apenado durante a execução da pena.
+O Juiz destacou que o reeducando praticou novos delitos (que ensejaram as Execuções n. 6, 7, 8, 9 e 10) após fugir do presídio. O Tribunal registrou a prática de faltas disciplinares de natureza grave, consistentes em evasão e prática de novo delito (Execução n. 10 - fato em 7/5/2013) durante gozo de benefício.
+A defesa deixou de esclarecer a data de recaptura do paciente. Também não especifica o dia em que o paciente teria praticado os novos crimes, durante a execução da pena. Não há nestes autos documentos suficientes para aferir, com inequívoca certeza, que as instâncias ordinárias mencionaram atos muito longínquos, a ponto de ser desconsiderados.
+Sem a cristalina certeza sobre eventual erro de avaliação da instância ordinária é incabível a concessão de habeas corpus. O acórdão se conforma com a jurisprudência desta Corte, firme em assinalar a possibilidade de "denegação de livramento condicional com base em fundamentos concretos, que acarretam o não preenchimento do requisito subjetivo, como o histórico carcerário conturbado do apenado" (AgRg no HC n. 414.730/MS, Min. Nefi Cordeiro, 6 T., Dje 6/3/2018).
+Confira-se:
+Esta Corte Superior de Justiça possui entendimento consolidado no sentido de que "a prática de falta grave pelo apenado no curso da execução penal - no caso, fugas do estabelecimento prisional - constitui motivo suficiente para denegar o livramento condicional, por ausência do preenchimento do requisito subjetivo previsto no art. 83 do Código Penal" (AgRg no HC n. 360.854/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 6/9/2017).
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1181847/RS, Rel. Ministro Felix Fischer, 5ª T., DJe 28/2/2018).
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, denego este habeas corpus.
+Publique-se e intimem-se.
