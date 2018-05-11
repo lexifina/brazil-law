@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por DANILO MARCOS PONTES DE ALMEIDA e OUTROS, com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas, assim ementado (fl. 145, e-STJ):
+PROCESSUAL CIVIL - AÇÃO INDENIZATÓRIA - DANO MORAL - ACIDENTE DE TRANSITO COM VÍTIMA FATAL - QUANTUM INDENIZATÓRIO EM OBSERVÂNCIA AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE, LEVANDO EM CONSIDERAÇÃO A SITUAÇÃO ECONÔMICA DO RÉU - SENTENÇA MANTIDA.
+- No momento de se estipular o montante reparatório, imprescindível levar em consideração as circunstâncias particulares do caso, a situação econômica do causador do dano, a situação pessoal da vitima, a intensidade da culpa e o a gravidade da lesão.
+Nas razões do recurso, a parte recorrente aponta ofensa ao art. 944 do Código Civil, tendo em vista que o valor da condenação por danos morais foi irrisório, visto que a vítima mantinha a subsistência da família, atualmente sem apoio financeiro e passando por necessidades básicas.
+Sem contrarrazões (fl. 177, e-STJ).
+Juízo positivo de admissibilidade proferido às fls. 178-181 (e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+No que se refere ao valor fixado a título de indenização, o Tribunal de origem assim entendeu (fl. 148, e-STJ):
+In casu, o dano moral não podia deixar de ser reconhecido em função da dor, angústia e do sofrimento que resultou do acidente ocorrido, principalmente diante do falecimento da vítima, de modo que, com fulcro em tais circunstâncias, que o MM. Juiz a quo, ao proceder à quantificação da indenização a titulo de dano moral, levou em conta a magnitude do abalo moral sofrido e, dentro da razoabilidade, arbitrou montante condizente com a ofensa moral sofrida e, principalmente, levando em consideração a situação econômica do Requerido.
+Ora, tenho que o montante fixado pelo Julgador em um total de R$ 40.00000 (quarenta mil reais), mostra-se razoável e moderado para satisfazer a ofensa moral sofrida pelos herdeiros e cônjuge do de cujus.
+Na verdade, in casu, não se afigura ínfimo o valor arbitrado pelo juízo a quo a título de indenização por danos morais, levando em consideração as peculiaridades do caso, portanto, não se há falar em redução do valor fixado pela Sentença prolatada, principalmente ao se observar a condição econômica do Réu, estando o provimento jurisdicional final dentro dos critérios de razoabilidade e proporcionalidade.
+Dessa forma, melhor sorte não socorre aos recorrentes, uma vez que a jurisprudência do Superior Tribunal de Justiça somente admite o reexame do valor fixado a título de indenização por danos morais, em caráter excepcional, em recurso especial, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade. Destaque-se a modificação do julgado no ponto, revela-se inviável em razão do óbice erigido pela Súmula 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. DANOS MORAIS. ACIDENTE QUE LEVOU A ÓBITO O FILHO DA RECORRIDA. RESPONSABILIDADE DA CONCESSIONÁRIA DEMONSTRADA. NÃO CONFIGURADA A CULPA EXCLUSIVA DA VÍTIMA. INCIDÊNCIA DA SÚMULA 7/STJ. 2. MONTANTE INDENIZATÓRIO. PRETENSÃO DE REDUÇÃO. SÚMULA 7/STJ. 3. AGRAVO INTERNO DESPROVIDO. 1.
+A modificação da conclusão delineada no acórdão recorrido - acerca da demonstração da responsabilidade da concessionária de serviço público e do consequente dever de indenizar - demandaria necessariamente o revolvimento dos fatos e das provas dos autos, atraindo, assim, o óbice disposto na Súmula 7/STJ.
+2. O quantum indenizatório arbitrado na instância ordinária, a título de danos morais, só pode ser examinado nesta Corte nos casos em que o valor indenizatório for irrisório ou exorbitante, o que não ocorre no caso dos autos, haja vista que os princípios da proporcionalidade e da razoabilidade foram observados. Incidência da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.148.757/PB, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15.3.2018, DJe 23.3.2018).
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO - AÇÃO CONDENATÓRIA - DANOS MATERIAIS E MORAIS EM RAZÃO DE ACIDENTE AUTOMOBILÍSTICO - FALECIMENTO DO ENTE QUERIDO ACIDENTADO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS.
+ ..
+2. No mais, a pretensão recursal esbarra na Súmula nº 7 desta Corte Superior. Não há, pois, como rever o valor da indenização por danos morais, arbitrado na origem, se esse não se revelar irrisório ou exorbitante, como no presente caso.
+3. A incidência da Súmula nº 7 do STJ impede o exame de dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+4. Agravo interno desprovido.
+(AgInt no Ag 1.389.232/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15.3.2018, DJe 23.3.2018).
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
