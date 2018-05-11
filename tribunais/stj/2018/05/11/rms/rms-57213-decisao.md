@@ -1,0 +1,28 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso em Mandado de Segurança interposto pelo MUNICÍPIO DE EMBU DAS ARTES, com fulcro no art. 105, II, b da Constituição da República, contra acórdão prolatado pela 15ª Câmara do Tribunal de Justiça do Estado de São Paulo, por unanimidade, cuja ementa transcrevo (fl. 478e):
+MANDADO DE SEGURANÇA Execução fiscal - Extinção da execução em face do reconhecimento da prescrição - Embargos infringentes julgados improcedentes Decisão que não é teratológica e que não afronta o Direito - Segurança denegada, com julgamento do mérito.
+Nas razões recursais, o Recorrente alega que se mostra incorreta a sentença proferida em 2013, na execução fiscal, sem se observar os arts. 8º e 40 da LEF e 174, parágrafo único, do CTN.
+Sem contrarrazões, o recurso foi remetido a esta Corte (fl. 494e).
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 508/513e).
+Feito breve relato, decido.
+Por primeiro, consoante decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo Tribunal.
+Contra as sentenças prolatadas em execuções de pequeno valor cabem, apenas, os embargos infringentes, nos termos do art. 34 da Lei n. 6.830/1980; subsistindo controvérsia de índole constitucional, o recurso extraordinário.
+Já o mandado de segurança contra decisão judicial é admitido apenas em casos de flagrante ilegalidade ou de manifesta teratologia, o que não ocorre.
+Com efeito, in casu, pretende-se desconstituir decisão judicial proferida em sede de embargos infringentes (art. 34 da Lei de Execução Fiscal), que extinguiu execução fiscal por ocorrência de prescrição. Dessa forma, revela-se incabível o mandado de segurança impetrado que, na hipótese em exame, não pode ser empregado como sucedâneo recursal, nos termos da Súmula 267/STF: Não cabe mandado de segurança contra ato judicial passível de recurso ou correição.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. TRIBUTÁRIO. EMBARGOS INFRINGENTES DESPROVIDOS (ART. 34 DA LEI 6.830/80). NÃO CABIMENTO DO MANDADO DE SEGURANÇA. ACÓRDÃO PARADIGMA: RMS 37.753/MG, REL. MIN. ARI PARGENDLER, DJE 12.12.2012. AGRAVO REGIMENTAL DESPROVIDO.
+2. Por opção do legislador, das sentenças prolatadas em Execuções de pequeno valor cabem, apenas, os Embargos Infringentes (art. Lei 6.830/80) e, subsistindo controvérsia de índole constitucional, o recurso extraordinário, sendo inviável a impetração do Mandado de Segurança ao Tribunal a quo, sob pena de subverter esse sistema recursal (RMS 37.753/MG, Rel. Min. ARI PARGENDLER, DJe 12.12.2012;
+AgRg no RMS 43.205/SP, Rel. Min. SÉRGIO KUKINA, DJe 05.09.2013; AgRg no RMS 38.040/SP, Rel. Min. ARI PARGENDLER, DJe 19.02.2013; RMS 35.615/SP, Rel. Min. ARNALDO ESTEVES LIMA, DJe 15.02.2013, AgRg no AgRg no RMS 43.562/SP, Rel. Min. BENEDITO GONÇALVES, DJe 24.10.2013).
+3. Agravo Regimental do Município de Leme/SP desprovido.
+(AgRg no RMS 44.748/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/05/2014, DJe 26/05/2014);
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JUDICIAL. EXECUÇÃO FISCAL DE PEQUENO VALOR. DÍVIDA NÃO TRIBUTÁRIA. TARIFA DE ÁGUA E ESGOTO. EXTINÇÃO DO FEITO EXECUTIVO POR ILEGITIMIDADE PASSIVA. ASSUNÇÃO DE DÍVIDA POR TERCEIRO. AUSÊNCIA DE TERATOLOGIA OU MANIFESTA ILEGALIDADE. DESCABIMENTO DO WRIT. RECURSO NÃO PROVIDO.
+1. Cuida-se de Recurso Ordinário em Mandado de Segurança impetrado contra decisão que, ao negar provimento aos Embargos Infringentes (art. 34 da Lei 6.830/1980), confirmou a extinção da Execução Fiscal, por ilegitimidade passiva ad causam.
+2. Entendeu o juízo da demanda executiva que o parcelamento de dívida de natureza tarifária por terceiro interessado equivale à assunção de dívida (art. 299 do CC), o que exonera o devedor primitivo da obrigação.
+3. De acordo com a jurisprudência consolidada do STJ, admite-se Mandado de Segurança contra decisão judicial apenas em casos de flagrante ilegalidade ou de manifesta teratologia (AgRg no AgRg no MS 15.735/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 17/6/2013; AgRg no MS 15.367/PA, Rel. Ministra Nancy Andrighi, Corte Especial, DJe 8/11/2010).
+4. Em hipótese idêntica à dos presentes autos, a Segunda Turma concluiu que "não há teratologia ou manifesta ilegalidade no decisum que extinguiu a execução, o que desautoriza a utilização do mandado de segurança" (RMS 38.833/MG, Rel. Ministro Castro Meira, Segunda Turma, DJe 25/9/2012).
+5. Recurso Ordinário não provido.
+(RMS 43.797/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/10/2013, DJe 22/10/2013).
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Ordinário em Mandado de Segurança.
+Publique-se e intime-se.
