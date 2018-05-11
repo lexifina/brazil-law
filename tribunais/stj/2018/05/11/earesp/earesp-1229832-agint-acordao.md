@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. MERO INCONFORMISMO. PRETENSÃO DE REDISCUTIR MATÉRIA JÁ ENFRENTADA NA DECISÃO AGRAVADA.
+1. O agravante não logrou êxito em demonstrar qualquer argumento capaz de modificar as razões expostas na decisão ora combatida, numa nítida tentativa de rediscussão da matéria enfrentada e rechaçada monocraticamente.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão monocrática às fls. 697/701, na qual conheci do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento. Eis a ementa respectiva (fl. 697):
+AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO E DISPARO DE ARMA DE FOGO. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. OFENSA AO ART. 619 DO CPP. INOCORRÊNCIA. DOSIMETRIA. REPRIMENDA IMPOSTA APÓS ANÁLISE DOS ELEMENTOS CONCRETOS. PODER DISCRICIONÁRIO DO JULGADOR. REVISÃO QUE IMPLICARIA REVOLVIMENTO FÁTICO. INVIABILIDADE. CONDENAÇÃO CONTRÁRIA À PROVA DOS AUTOS POR AUSÊNCIA DE ANIMUS NECANDI. AFERIÇÃO. ÓBICE DA SÚMULA 7/STJ. DISSENSO JURISPRUDENCIAL NÃO COMPROVADO NOS MOLDES REGIMENTAIS.
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Em suas razões, o agravante afirma que  ..  não precisa rever os fatos para se constatar a ofensa ao artigo 593, III, d do CPP, eis que a decisão do Conselho de Sentença está manifestamente contrária a prova dos autos por estar flagrantemente distorcida da prova colhida no processo (fl. 707). Segue perseguindo a revisão da dosimetria, afirmando que  ..  a pena aplicada está desproporcional e desarrazoada (idem).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Não merece acolhida a pretensão do agravante.
+A bem da verdade, as razões do regimental apenas evidenciam sua utilização como forma de expressar a insatisfação defensiva com o decisum ora questionado, na tentativa de rediscutir a matéria rechaçada.
+Tanto é assim que se limitou a afirmar, genericamente,  ..  que a decisão do Conselho de Sentença está manifestamente contrária a prova dos autos por estar flagrantemente distorcida da prova colhida no processo (fl. 707) e que a pena aplicada está desproporcional e desarrazoada (idem).
+Tais questões, todavia, foram devidamente enfrentadas e rechaçadas nos seguintes termos (fls. 700/701):
+ ..
+Melhor sorte não assiste o recorrente quanto ao pleito de anulação do julgamento por exclusão da conduta e, por conseguinte, do fato típico, pela ausência da vontade do recorrente em produzir o resultado com finalidade morte (fl. 598). É que tal pretensão não encontra campo na via eleita, dada a necessidade de revolvimento de fatos e provas, providência descabida nesta via recursal, em face do óbice contido na Súmula 7/STJ (HC 338.427/SP, Ministro Felix Fischer, Quinta Turma, DJe 03/02/2016).
+Do mesmo modo, no que se refere à fixação da reprimenda, observo que a Corte de origem afirmou que o magistrado de piso, corretamente, na primeira fase, fixou as penas-base acima do mínimo legal, em razão da personalidade do réu, distorcida e completamente voltada para a prática de delitos violentos, como se vê de sua folha penal (fl. 652). Quanto à fração aplicada pela tentativa, entendeu acertado o patamar de metade, considerando que o acusado percorreu todo o iter criminis, só não ocorrendo a consumação por circunstâncias alheias a sua vontade - erro na pontaria (fl. 563).
+Verifico, pois, que a pena foi mantida segundo critérios razoáveis de proporcionalidade estabelecidos conforme os elementos concretos que envolvem a conduta em questão. De modo que a alteração de tal conclusão exigiria imprescindível reexame dos elementos fáticos considerados pela Corte de origem, providência vedada na via especial (Súmula 7/STJ).
+Outrossim, a jurisprudência desta Corte considera que o processo de individualização da pena, na primeira fase da dosimetria, não está condicionado a um critério puramente aritmético, mas à discricionariedade vinculada do julgador (HC 360.235/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 08/11/2016). Excepcionalmente, no entanto, é possível a revisão desse critério, desde que o quantum estabelecido se afigure flagrantemente desarrazoado ou desproporcional (HC n. 282.850/AL, Ministro Nefi Cordeiro, Sexta Turma, DJe 15/9/2015), não sendo essa a hipótese em tela.
+ ..
+Tenho, pois, que a defesa não logrou êxito em demonstrar em seu regimental argumento capaz de modificar as razões expostas na decisão monocrática ora combatida, as quais devem ser mantidas in totum pelos seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
