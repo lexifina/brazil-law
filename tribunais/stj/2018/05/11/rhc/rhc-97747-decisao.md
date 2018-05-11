@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por THAIS DA COSTA OLIVEIRA, contra acórdão do Tribunal de Justiça do Estado do Pará, assim ementado:
+"TRÁFICO DE DROGAS - PLEITO DE CONCESSÃO DE HABEAS CORPUS PRISÃO DOMICILIAR - ALEGAÇÃO DE SER POSSUIDORA DE FILHOS MENORES - CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO - NÃO COMPROVAÇÃO DA SITUAÇÃO DE VULNERABILIDADE DOS MENORES E DE QUE A PACIENTE SEJA INDISPENSÁVEL AOS CUIDADOS DO MESMOS - PRESENÇA DO REQUISITO DA GARANTIA DA ORDEM PÚBLICA - EXPRESSIVA QUANTIDADE DE DROGA SUPOSTAMENTE APREENDIDA - PACIENTE QUE RESPONDE A OUTRO PROCESSO CRIMINAL POR USO DE DOCUMENTO FALSO - AUSÊNCIA DE INDENTIDADE FÁTICO-JURÍDICA PARA CONCESSÃO DE EXTENSÃO DE BENEFÍCIO AO HC COLETIVO JULGADO PELO STF - ORDEM CONHECIDA E DENEGADA - UNANIMIDADE.
+1. Paciente denunciada como incursa nas sanções punitivas dos arts. 33 e 35 da Lei de Drogas.
+2. Pleito de concessão de prisão domiciliar à paciente em decorrência da mesma ser possuidora de filhos menores, e extensão de benefício concedido no HC Coletivo julgado pelo STF.
+3. Na espécie, a situação da paciente não se enquadra ao aresto judicial determinado no HC Coletivo 143641 pelo STF, posto que não há nos autos qualquer documento que comprove eventual vulnerabilidade de seu filho, muito menos que a mesma seja imprescindível aos cuidados das crianças, bem como a inexistência de outra capaz de exercer tal cuidado.
+4. Nessa toada, cumpre ressaltar, conforme mesmo explanado pelo impetrante, as crianças não se encontram desamparadas, já que estão sob os cuidados da avó. Noutros termos, não se vislumbra a situação de ser a paciente imprescindível aos cuidados prestados aos menores. Ademais, outro ponto a ser demarcado é o fato de que a paciente foi supostamente presa e denunciada pelo delito de tráfico de drogas e associação para o tráfico em virtude de ter sido encontrada com 2,008Kg de cocaína em via pública, o que por si só evidencia a gravidade concreta da suposta conduta delitiva e o descaso com o império da lei, dada a expressiva quantidade de entorpecentes. Afirmou, ainda, o Juízo que a paciente responde a outro processo na Comarca de Santa Izabel (nº 0003622-17.2016.8.14.0049) por uso de documento falso, posto que teria tentado visitar seu companheiro que se encontra custodiado, também, supostamente, ligado ao tráfico, o que reforça o entendimento de que a mesma é pessoa dotada de suposta periculosidade e tendenciosa à reiteração delitiva.
+5. O Juízo discorreu a legislação pertinente e a subsumiu ao caso concreto, demonstrando a evidente presença dos requisitos do art. 312 do CPP da garantia da ordem pública ante a expressiva quantidade de entorpecentes supostamente apreendidos, e a possibilidade de reiteração delitiva ante a paciente responder a outro processo criminal pelo uso de documento falso.
+6. Assim, não há como se conceder qualquer extensão de benefício à paciente concedido no aludido coletivo julgado pelo STF, primeiro, ante as peculiaridades do caso vertente, já explanadas habeas corpus neste voto condutor, segundo, ante a ausência de identidade fático jurídica, nos termos do art. 580 do CPP.
+7. Inexistência de constrangimento ilegal a ser sanado na presente via.
+ORDEM CONHECIDA E DENEGADA. UNANIMIDADE DOS VOTOS." (e-STJ, fls. 59-60)
+Pleiteia a substituição da prisão preventiva pela custódia domiciliar ou por medidas cautelares diversas.
+É o relatório.
+Em consulta à base de dados processuais desta Corte, verifica-se que este recurso ordinário em habeas corpus traz pedido igual ao deduzido no HC 447.639/PA e se insurge contra o mesmo acórdão do TJPA (HC n. 0802748-78.2018.8.14.0000).
+Assim, tratando-se de mera reiteração de writ já em trâmite nesta Corte, e cujo mérito será oportunamente analisado, é o caso de negar-lhe seguimento.
+Sobre o tema:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. QUADRILHA ARMADA. PRISÃO PREVENTIVA. SUBSTITUIÇÃO DA SEGREGAÇÃO POR CAUTELARES DIVERSAS. AFASTAMENTO DE CARGO. VEREADOR. ALEGADO EXCESSO DE PRAZO NA DURAÇÃO DA MEDIDA. QUESTÃO VEICULADA EM WRIT ANTERIORMENTE IMPETRADO. MERA REITERAÇÃO DE PEDIDO. NEGATIVA DE SEGUIMENTO AO MANDAMUS. DECISÃO ACERTADA. REGIMENTAL IMPROVIDO.
+1. Não há como dar-se seguimento a impetração quando a questão aqui levantada já foi deduzida e será examinada no mandamus anterior.
+2. Nos termos da jurisprudência desta Corte Superior de Justiça, a impetração de habeas corpus com objeto idêntico ao de writ anteriormente ajuizado caracteriza indevida reiteração de pedido, o que obstaculiza o seu conhecimento.
+3. Agravo regimental improvido."
+(AgRg no HC 290.203/RJ, Rel. Min. JORGE MUSSI, QUINTA TURMA, DJe 1/8/2014.)
+Ante o exposto, nego seguimento ao recurso ordinário habeas corpus.
+Publique-se. Intimem-se.
