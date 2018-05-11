@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado pela Fazenda do Estado de São Paulo contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 254):
+AÇÃO ORDINÁRIA DE COBRANÇA - Pretensão ao recebimento de valores, relativos ao ALE, no período imprescrito, vantagem esta incorporada por força de ação mandamental - Conquanto diverso, hoje, o entendimento da E. Câmara acerca da matéria, e mais, embora não se possa falar na existência de coisa julgada em condições de vincular a decisão, no presente caso, é certo que não se afigura razoável pudesse prevalecer, quanto a período anterior àquele em que o órgão colegiado, em outros tempos, reconheceu o direito à incorporação do ALE, orientação atual - Reexame necessário e apelação das rés parcialmente providos, tanto quanto o recurso dos autores.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1º e 9º do Decreto nº 20.910/32 e 2º-A, parágrafo único, da Lei nº 9.494/97. Pretende ver reconhecida a prescrição do fundo de direito dos autores. Acrescenta que, ainda que se reconheça que a impetração do MS coletivo interrompe a prescrição, tal fato faria com que o prazo voltasse a correr pela metade a partir do trânsito em julgado da demanda coletiva. Afirma que na aludida ação mandamental o provimento jurisdicional postulado diverge totalmente do pedido deduzido nesta ação ordinária. na primeira, busca-se impugnar ato de autoridade, sendo que nesta ação a pretensão deduzida cinge-se ao recebimento das parcelas vencidas relativas ao chamado adicional de local de exercício - ALE. Assim, afigura-se totalmente injurídico e ilógico equiparar os provimentos jurisdicionais solicitados nas duas ações, bem como os seus respectivos prazos, para concluir que a propositura da ação mandamental teria interrompido o prazo prescricional desta ação ordinária.
+Parecer ministerial às fls. 335/337, pelo não conhecimento do agravo.
+É o relatório.
+O inconformismo não prospera.
+Com efeito, o aresto estadual não destoa da orientação jurisprudencial deste Superior Tribunal, firme no sentido de que o mandado de segurança interrompe o prazo prescricional para a ação de cobrança de valores anteriores à sua impetração, que só volta a fluir após o transito em julgado da decisão proferida no writ.
+A propósito, os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. MANDADO DE SEGURANÇA. INTERRUPÇÃO DA PRESCRIÇÃO. MULTA NÃO FOI OBJETO DO MANDAMUS. PRAZO PRESCRICIONAL NÃO INTERROMPIDO. PRESCRIÇÃO CONFIGURADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+ ..
+II - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual, a impetração do mandado de segurança interrompe e suspende a fluência do prazo prescricional.
+ ..
+V - Agravo Regimental improvido.
+(AgRg no AREsp 162.452/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 20/6/2017, DJe 28/6/2017).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AJUIZAMENTO DE MANDADO SE SEGURANÇA. INTERRUPÇÃO DA CONTAGEM DO PRAZO PRESCRICIONAL PARA PROPOSITURA DA AÇÃO DE COBRANÇA DE PARCELAS REMUNERATÓRIAS PRETÉRITAS.
+1. A impetração do Mandado de Segurança interrompe a fluência do prazo prescricional de modo que tão somente após o trânsito em julgado da decisão nele proferida é que voltará a fluir a prescrição da Ação Ordinária para cobrança das parcelas referentes ao quinquênio que antecedeu a propositura do writ. Precedentes do STJ: (AgRg no REsp 1.332.074/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/8/2013, DJe 4/9/2013.); AgRg no REsp 1.504.829/RJ, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 5/4/2016, DJe 13/4/2016.
+2. Agravo Interno não provido.
+(AgInt no AREsp 967.324/DF, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 28/3/2017, DJe 18/4/2017).
+De outro lado, o acolhimento da alegação segundo a qual na aludida ação mandamental o provimento jurisdicional postulado diverge totalmente do pedido deduzido nesta ação ordinária, demandaria o reexame de matéria fática, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ, bem anotado pelo decisório agravado.
+Ante o exposto, nego provimento ao agravo.
+Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
