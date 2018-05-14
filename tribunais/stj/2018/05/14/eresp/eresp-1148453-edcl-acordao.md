@@ -1,0 +1,42 @@
+EMENTA
+ADMINISTRATIVO. DESAPROPRIAÇÃO. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração consubstanciam instrumento processual apto a suprir omissão do julgado, esclarecer obscuridade, eliminar contradição ou corrigir erro material, nos termos do art. 1.022 do CPC de 2015, não se prestando para rediscutir a lide.
+2. O acórdão que julgou o recurso especial apreciou, fundamentadamente, as questões necessárias à solução da controvérsia, aplicando o óbice da Súmula 284/STF - quanto aos juros compensatórios - e o impeditivo da Súmula 7/STJ - no tocante à redução e à consideração das áreas não edificáveis.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de embargos de declaração opostos por [NOME] e outros contra acórdão que conheceu em parte e, nessa extensão, negou provimento ao recurso especial da parte ora embargante nos termos da seguinte ementa (e-STJ, fls. 269-270):
+ADMINISTRATIVO. DESAPROPRIAÇÃO. OMISSÃO. NÃO OCORRÊNCIA. MULTA. CARÁTER PROTELATÓRIO. SEGUNDOS EMBARGOS. MERA REITERAÇÃO DOS PRIMEIROS. SÚMULA 98/STJ. NÃO INCIDÊNCIA. SÚMULA 7/STJ. APLICAÇÃO. PREPARO. IMUNIDADE TRIBUTÁRIA RECÍPROCA EM FAVOR DO PARTICULAR. DISPOSITIVO LEGAL SEM COMANDO NORMATIVO APTO A SUSTENTAR A TESE RECURSAL. SÚMULA 284/STF. INCIDÊNCIA. REDUÇÃO DAS ÁREAS INDENIZÁVEIS E DESVALORIZAÇÃO DAS ÁREAS NÃO EDIFICÁVEIS. CONTEXTO FÁTICO. SÚMULA 7/STJ. NÃO DESENVOLVIMENTO DE TESES RECURSAIS VINCULADAS AOS DISPOSITIVOS LEGAIS INDICADOS. SÚMULA 284/STF. JUROS COMPENSATÓRIOS. TESE SUSTENTADA NA SÚMULA 618/STF. RECURSO ESPECIAL. SÚMULA 284/STF. JUROS MORATÓRIOS. REVOGAÇÃO DO ART.
+15-A DO DECRETO-LEI N. 3.365/1941 PELOS ARTS. 406 DO CÓDIGO CIVIL E 161, § 1º, DO CÓDIGO TRIBUTÁRIO NACIONAL. INEXISTÊNCIA. ESPECIALIDADE.
+1. Inexiste contrariedade ao art. 535 do CPC/1973 quando a Corte de origem decide clara e fundamentadamente todas as questões postas a seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. O dispositivo invocado do CTN, relativo à imunidade tributária recíproca, não alcança o particular. A ausência de comando normativo apto a apoiar a tese recursal atrai a aplicação da Súmula 284/STF.
+3. Para concluir sobre as áreas indenizáveis e a desvalorização da área não edificável, o acórdão recorrido apoiou-se no contexto fático da causa. Além disso, a parte recorrente, apesar de citar dispositivos de lei federal, deixou de desenvolver teses recursais a eles vinculadas. Incidência das Súmulas 7/STJ e 284/STF.
+4. Os recorrentes apontam, quanto aos juros compensatórios, afronta somente à Súmula 618/STF, o que não se presta à análise em recurso especial. Aplicação da Súmula 284/STF.
+5. Não há que se falar em revogação do art. 15-A do Decreto-Lei n. 3.365/1941 pelos arts. 406 do Código Civil e 161, § 1º, do Código Tributário Nacional. O conflito aparente resolve-se pelo princípio da especialidade das normas.
+6. Para concluir pelo caráter protelatório dos segundos embargos declaratórios opostos pela parte recorrente, o Tribunal a quo entendeu serem idênticos aos anteriores, que já teriam cumprido o papel previsto na Súmula 98/STJ. Revolver tal conclusão demandaria reexame fático vedado pela Súmula 7/STJ.
+7. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+Em suas razões, os embargantes sustentam ter a decisão impugnada incorrido em omissão, na medida em que: i) não aplicou a jurisprudência desta Corte quanto aos juros compensatórios; ii) não se trata de análise de matéria fática quanto à avaliação e fixação da área não edificável, devendo o Tribunal se manifestar sobre a qualificação jurídica dos fatos.
+Processo com prioridade legal (art. 1.048, I, do CPC/2015, c/c o art. 71 da Lei 10.741/2003 e art.12, § 2º, VII, do CPC/2015).
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): Os embargos não merecem acolhida.
+Em relação aos juros compensatórios, o recurso não foi conhecido por ter se fundado expressamente em contrariedade à súmula, sem indicação do fundamento legal a ensejar o apelo interposto com fulcro na alínea "a" do permissivo constitucional. Transcrevo (e-STJ, fl. 280):
+Quanto aos juros compensatórios, os recorrentes sustentam sua tese exclusivamente na Súmula 618/STF, que não se presta como paradigma para recurso especial. Incide, também, nesse ponto a vedação da Súmula 284/STF.
+Conforme explicitado no acórdão embargado, enunciado de súmula não se presta como paradigma para recurso especial. Representa a súmula, na verdade, o entendimento consolidado da Corte sobre determinado dispositivo legal, devendo este ser objeto do recurso, ainda que se requeira a aplicação daquela. Ausente essa indicação anterior e sua vinculação à tese sumular, incide a Súmula 284/STF, conforme já apontado. Não há, assim, qualquer omissão sobre o ponto.
+Em relação ao exame de matérias fáticas, evidencia-se da própria petição dos aclaratórios que os embargantes pretendem revisar a conclusão do julgado, não indicando qualquer omissão quanto ao ponto. Se o acórdão acolheu o entendimento de tratar-se de exame de matéria fática no caso, evidentemente afastou a possibilidade de hipótese de requalificação jurídica do asseverado pela origem. Ademais, constou no voto condutor do acórdão embargado (e-STJ, fls. 273-276):
+De igual forma, manifestou-se sobre as áreas não edificáveis e a redução da área considerada para desapropriação (e-STJ, fls. 143-145):
+No que respeita ao mérito da desapropriação, a r. sentença demonstra estar conforme o debate dos autos, sopesando a diferença de área, que passou para 10.485,00 m , que é próxima do apurado, em face da transcrição no 33.053.
+Como conseqüência, resultou pertinente a conclusão da existência de 2,883,60 m  para área "I", e de 718,46 m  para área "J", pontos controvertidos, não comportando modificar as conclusões em face aos informes meramente cadastrais.
+No caso do fator de desvalorização da faixa non aedificandi, justificou a conclusão do fator desvalorizante de um terço sobre o valor normal do terreno (fls. 567), destacando a sugerida pelo assistente técnico da expropriante, em face da sua severidade, valendo-se assim de casos análogos.
+Quanto ao fator topografia, motivou nas Normas de avaliação, também rejeitando a crítica do assistente técnico por considerar que no fator declive a circunstância de pequena parte do terreno localizar-se na margem do córrego (fls. 568).
+Há observação a respeito da desvalorização da parte remanescente com 250,55 m , a qual considerou e justificou a depreciação e concluiu pela indenização (fls. 570).
+Da mesma maneira dissertou a respeito da denominada "área exproprianda J" (fls. 570/571). Bem anotado ainda restou a depreciação da área non aedificandi pela consideração da presença do córrego, onde salientou que "nela nada se pode construir", resultando na redução do valor de indenização.
+Nesta mesma seqüência veio a conclusão da desvalorização em percentual justificado a fls. 413/414, ante a dimensão da área e a justificação de encargos (custos) quanto ao aproveitamento com melhorias.
+Enfim, perfeitamente argumentado e justificado os demais aspectos atinentes a índice fiscal da rua [NOME] - área 1 -; bem como desvalorização do remanescente de 250,55 m  e do excedente da área "J" (fls. 578), não podendo ser excluído o complemento de fls. 616 e seguintes, confirmando a constatação efetiva da área objeto da ação.
+ ..
+No tocante à redução da área e à consideração das áreas não edificáveis, o aresto fundamenta-se nas circunstâncias concretas do imóvel expropriado, o que não se sujeita ao escopo de análise do recurso especial.
+Além disso, os recorrentes, apesar de citar dispositivos de lei federal, não desenvolvem teses vinculadas às normas, deixando de expor claramente como teria o acórdão recorrido contrariado lei federal.
+Portanto, também quanto a esse ponto inexiste omissão.
+Ante o exposto, rejeito os embargos declaratórios.
+É como voto.
