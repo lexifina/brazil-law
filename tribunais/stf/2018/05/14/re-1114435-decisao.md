@@ -1,0 +1,42 @@
+DECISÃO: Trata-se de recurso extraordinário e agravo em recurso extraordinário interpostos por José William Pereira, de um lado, e pela União, de outro. O recurso extraordinário foi deduzido contra decisão do E. Superior Tribunal de Justiça e o recurso de agravo foi interposto contra ato decisório da Vice-Presidência do E. Tribunal Regional Federal da 5ª Região.
+    As partes ora recorrentes, ao deduzirem os apelos extremos em questão, sustentaram que os Tribunais de origem teriam transgredido preceitos inscritos na Constituição da República.
+    Passo a apreciar o apelo extremo interposto por José William Pereira. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 5.821/72), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão recorrido torna evidente que o Superior Tribunal de Justiça, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem estritamente  infraconstitucional:
+    “No caso dos autos, as instâncias ordinárias deixaram de levar em conta importante obstáculo à pretensão do autor. É que a Lei nº 5.821/72 impõe que o acesso às vagas de Oficiais-Generais dependem, além da existência de vaga, de escolha pelo Presidente da República a partir de uma ‘Lista de Escolha’ a ele submetida após seleção feita pelo Alto Comando do Exército, a qual leva em consideração qualidades requeridas para o exercício dos altos cargos de comando, chefia ou direção privativos de oficial-general (ademais, para para inclusão em Lista de Escolha, é imprescindível que o oficial conste do Quadro de Acesso por Escolha).
+    É o que se depreende dos seguintes dispositivos da lei em questão:
+    ‘Art. 4º As promoções são efetuadas pelos critérios de:
+    a) antiguidade;
+    b) merecimento;
+    c) escolha;
+    ou ainda,
+    d) por bravura; e
+    e) ’post mortem’.
+    Parágrafo único. Em casos extraordinários poderá haver promoção em ressarcimento de preterição.
+    Art. 7º Promoção por escolha é aquela que defere ao Presidente da República, com base na lei, a escolha do oficial, dentre os mais credenciados para o desempenho dos altos cargos de comando, chefia ou direção.
+    Art. 11. As promoções são efetuadas:
+    a) para as vagas de oficiais subalternos e intermediários, pelo critério de antiguidade;
+    b) para as vagas de oficiais superiores, pelos critérios de antiguidade e de merecimento, de acordo com uma proporcionalidade entre elas, estabelecida na regulamentação da presente lei para cada Força Armada; e
+    c) para as vagas de oficiais-generais, pelo critério de escolha.
+    § 1º As promoções para o preenchimento de vagas do último posto, nos Quadros em que este seja de oficial superior, poderão ser efetuadas somente pelo critério de merecimento, desde que assim seja estabelecido na regulamentação desta lei para cada Força Armada.
+    § 2º Quando o oficial concorrer à promoção por ambos os critérios, o preenchimento de vagas de antiguidade poderá ser feito pelo critério de merecimento, sem prejuízo do cômputo das futuras quotas de merecimento, de acordo com a regulamentação desta lei para cada Força Armada.”
+    Cabe assinalar, ainda, no tocante às demais alegações de José William Pereira, que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte recorrente em referência.
+    Vê-se, desse modo, que o apelo extremo em questão não se revela viável.
+    De outro lado, no que se refere ao agravo interposto pela União contra a decisão emanada da Vice-Presidência do E. Tribunal Regional Federal da 5ª Região, verifico que o recurso em causa não impugna todos os fundamentos em que se apoia o ato decisório nele questionado.
+    É que a União, ao insurgir-se contra a decisão que não admitiu o apelo extremo por ela interposto, deixou de ilidir todos os fundamentos jurídicos em que se assentou o ato decisório proferido pela Vice- Presidência do Tribunal “a quo”, abstendo-se de impugnar a incidência do óbice previsto na Súmula 282/STF.
+    A ausência de impugnação abrangente de todos os fundamentos nos quais se assenta a decisão recorrida significa que a parte agravante, ao assim proceder, descumpriu típica obrigação processual que lhe incumbia atender, pois, como se sabe, impõe-se ao recorrente afastar, pontualmente, cada uma das razões invocadas como suporte do ato decisório recorrido (AI 238.454-AgR/SC, Rel. Min. CELSO DE MELLO, v.g.).
+    Não constitui demasia assinalar que o descumprimento desse dever jurídico – ausência de impugnação de cada um dos fundamentos em que se apoia o ato decisório agravado – conduz, nos termos da orientação jurisprudencial firmada por esta Suprema Corte, ao reconhecimento da inadmissibilidade do agravo interposto (RTJ 126/864 – RTJ 133/485 – RTJ 145/940 – RTJ 146/320):
+    “RECURSO EXTRAORDINÁRIO – DECISÃO QUE NEGA SEGUIMENTO AO APELO EXTREMO – INTERPOSIÇÃO DE AGRAVO QUE NÃO IMPUGNA AS RAZÕES DESSE ATO DECISÓRIO (…).
+    – Impõe-se, à parte recorrente, quando da interposição do agravo de instrumento, a obrigação processual de impugnar  todas as razões em que se assentou a decisão veiculadora do juízo negativo de admissibilidade do recurso extraordinário. Precedentes.”
+    (AI 428.795-AgR/RJ, Rel. Min. CELSO DE MELLO)
+    Não se desconhece que o ordenamento normativo, informado pela teoria geral dos recursos, erige à condição de pressuposto essencial (e, portanto, indispensável) inerente às modalidades recursais a obrigação, que é indeclinável, da parte recorrente de expor as razões de fato (quando cabíveis) e de direito viabilizadoras da reforma ou da invalidação da decisão recorrida.
+    É tão significativo esse específico pressuposto recursal de índole objetiva que, desatendido pela parte recorrente, produz, como inevitável efeito consequencial, a própria incognoscibilidade do meio recursal utilizado.
+    Cabe insistir, pois, que se impõe a quem recorre, como indeclinável dever processual, o ônus da impugnação especificada, sem o que se tornará inviável o conhecimento do recurso interposto.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário interposto por José William Pereira, por manifestamente inadmissível (CPC, art. 932, III), e, de outro lado, não conheço do agravo deduzido pela União, por não impugnados, especificadamente, todos os fundamentos da decisão agravada (CPC, art. 932, III, “in fine”).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos em favor da União pelo E. Superior Tribunal de Justiça, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 14 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
