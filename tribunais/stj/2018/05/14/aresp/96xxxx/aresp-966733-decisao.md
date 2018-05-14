@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por ALCINO HAMDAN e OUTROS, em 18/11/2015, contra decisão do Tribunal Regional Federal da 1ª Região, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. PRINCÍPIO DA FIDELIDADE AO TÍTULO EXECUTIVO. ADIANTAMENTO DO PCCS. EXECUÇÃO DE CRÉDITO RELATIVO A PERÍODO POSTERIOR À EDIÇÃO DA LEI 8.460/92. MATÉRIA NÃO APRECIADA PELO TÍTULO EXECUTIVO.
+1. Em sede de execução de título judicial, deve-se ter por base o princípio geral da fidelidade ao título exeqüendo, de forma que não pode a execução ultrapassar os limites do título.
+2. O título executivo judicial não determinou a incorporação à remuneração dos servidores do adiantamento do PCCS, relativamente para período posterior à vigência da Lei n. 8.460/92, limitando-se a reconhecer que "o adiantamento do PCCS foi legalmente, reconhecido a partir da edição da Medida Provisória n. 20, de 11/11/88, convertida na Lei n. 7.686/88, sendo a partir desta data aplicável reajustes sobre, está parcela", decisão esta que teve por base jurisprudência desta Corte que reconhece que o adiantamento do PCCS, concedida pela Lei n. 7.686/88, foi incorporada aos vencimentos dos servidores públicos Civis, por força do disposto no inciso II, do art. 4º da Lei n. 8.460/92.
+3. Consoante enfatizado pela sentença, em nenhum momento restou reconhecido o direito à vantagem "Adiantamento PCCS" para período posterior à vigência da Lei n. 8.460/92, limitando, apenas, a pronunciar-se acerca de sua existência em período precedente, ou seja, a partir de 1.988. Relativamente à pretensão de que o "Adiantamento, PCCS" persistisse no tempo, a sentença julgou improcedente e o acórdão foi integralmente omisso, não tendo sido interpostos oportunos embargos de declaração. Assim, não se poderia, pois, como pretenderam os Apelantes, extrair interpretação que levasse à convicção de que esta vantagem, em razão do acórdão, acompanharia permanentemente os vencimentos de forma destacada, sem ignorar a reestruturação proporcionada pela Lei n. 8.460/92 (AC 2002.38.00.014395-8/MG, Relator Convocado JUIZ FEDERAL ITELMAR RAYDAN EVANGELISTA, PRIMEIRA TURMA, Publicação: 27/05/2008 e-DJF1.
+4. Apelação provida" (fl. 388e)
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO E CONTRADIÇÃO. VÍCIOS INEXISTENTES. PREQUESTIONAMENTO.
+1. A contradição que autoriza o uso dos embargos declaratórios é a que se verifica entre as proposições do acórdão ou entre as premissas e o resultado do julgamento. Não é sinônimo de inconformismo da parte com a tese jurídica adotada. Existe um sentido técnico de "contradição" que não se confunde com o sentido coloquial com que é empregado na linguagem comum.
+2. O julgador não está obrigado a discorrer sobre todas as teses apresentadas pela defesa, pois apenas é necessário fundamentar sua convicção, nos termos do art. 93, IX, da Constituição Federal e conforme o princípio da livre convicção motivada.
+3. A omissão que enseja acolhimento dos embargos de declaração é aquela que diga respeito a um necessário pronunciamento pelo acórdão na ordem de questões examinadas para a solução da lide, não se confundindo com eventual rejeição de pedido em razão do posicionamento adotado ser contrário à pretensão da parte embargante.
+4. Pretendendo a parte a reforma do entendimento lançado no acórdão por mero inconformismo com seu resultado, a via adequada não é a dos embargos de declaração.
+5. Na hipótese, a parte embargante não demonstra a existência no julgado de obscuridade, contradição, omissão ou erro material, que conduzam à necessidade de retificação do julgado ou alterem o entendimento estampado no acórdão impugnado.
+6. A pretensão de utilizar os embargos de declaração para fins de prequestionamento resta inviabilizada em razão da ausência de necessidade de manifestação sobre dispositivos legais que não se demonstraram necessários à composição da lide, sendo farta a jurisprudência que rejeita tal anseio, pois a estreita via dos embargos de declaração demanda a demonstração dos vícios passíveis de correção nas hipóteses previstas no artigo 535, 1 e li, do CPC.
+7. Embargos de declaração rejeitados" (fl. 400e).
+Sustenta a parte agravante, nas razões do Recurso Especial, ofensa aos arts. 467, 468 e 471 do CPC/73. Afirma que houve afronta à coisa julgada, porque a "(..) apelação cível contra sentença de embargos à execução não é meio hábil para se discutir questões de fato e de direito já decididas e transitadas em julgado" (fl. 414e).
+Requer, ao final, o conhecimento e provimento do Recurso Especial.
+Foram apresentadas contrarrazões (fls. 437/442e).
+Negado seguimento ao Recurso Especial (fls. 444/445e), foi interposto o presente Agravo (fls. 455/470e).
+Foi apresentada contraminuta (fls. 473/475e).
+A irresignação não merece acolhimento.
+O Tribunal de origem, quanto ao cerne da controvérsia, assim decidiu:
+"A apelante pretende seja reconhecida, a inexigibilidade do título sob alegação de que o adiantamento do PCCS foi incorporado à remuneração dos servidores pela Lei n. 8.460/92 e que em momento algum o título determina seu pagamento do advento dessa Lei.
+Com efeito, destaco da jurisprudência da Corte:
+(..)
+É de ser reconhecido, também, conforme alega a apelante, que o título executivo não se manifestou quanto ao reconhecido o direito à denominada vantagem para período posterior à vigência da Lei n. 8.460/92. Destaco do título executivo, no pertinente ao tema:
+"(..)
+5. Assim, o adiantamento do PCCS foi legalmente reconhecido a partir da edição da Medida Provisória n. 20, de 11/11/88, convertida na Lei n. 7.686/88, sendo a partir desta data aplicável reajustes sobre esta parcela" (fl. 92)
+Dessa forma, e tendo em vista que, em sede de execução de título judicial, deve-se ter por base o princípio geral, da fidelidade ao título exeqüendo, não pode a execução ultrapassar os limites do título, de forma que a referida vantagem não pode integrar permanentemente a remuneração dos exequentes.
+Em caso símile, decidiu esta Turma:
+(..)
+Ante o exposto, dou provimento à apelação" (fls. 384/386e).
+Assim, a análise quanto ao acerto da fundamentação do acórdão demandaria o reexame do conteúdo fático-probatório dos autos, o que encontra óbice no enunciado da Súmula 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Com efeito, é firme a jurisprudência desta Corte no sentido de que alterar as conclusões firmadas no acórdão recorrido, concernentes aos limites da coisa julgada, demandaria o revolvimento de matéria fático-probatória, o que esbarra no óbice da Súmula 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL. PREVIDENCIÁRIO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. EXECUÇÃO. LIMITES FIXADOS NO TÍTULO JUDICIAL TRANSITADO EM JULGADO. ALTERAÇÃO. IMPOSSIBILIDADE. COISA JULGADA. ÓBICE DA SÚMULA 7/STJ.
+1. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a colação de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+2. In casu, verifica-se que não foram respeitados tais requisitos legais e regimentais (art. 1.029, § 1º, do CPC/2015 e art. 255 do RI/STJ), o que impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal.
+3. É inviável alteração dos critérios e termos estabelecidos no título executivo judicial, por ocasião do cumprimento de sentença, sob pena de ofensa à coisa julgada (AgInt no AREsp 708.584/RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/8/2016, DJe 31/8/2016) .
+4. A revisão do entendimento alcançado pelo Tribunal a quo demandaria reincursão no contexto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+5. Recurso Especial do qual não se conhece" (STJ, REsp 1.659.711/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 16/06/2017).
+"PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. IRRESIGNAÇÃO. LIMITES DA COISA JULGADA. IMPOSSIBILIDADE DE EXAME. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A revisão do julgado, no ponto inerente as balizas levadas a efeito em feito anterior e aptas a se consubstanciaram como coisa julgada, bem como o exame dos limites substitutivos da apelação julgada naqueles autos, demandaria o revolvimento de premissas fáticas estabelecidas pelo Tribunal de origem, hipótese essa inviável em recurso especial. Incidência da Súmula 7 desta Corte.
+3. Agravo interno não provido" (STJ, AgInt no REsp 1.574.311/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 02/05/2017).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DETERMINAÇÃO DO TÍTULO JUDICIAL DE QUE A VERBA HONORÁRIA INCIDIRÁ SOBRE "O VALOR A SER APURADO". ALEGAÇÃO DE OFENSA À COISA JULGADA. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Impossível a revisão do julgado quanto ao entendimento proferido pela Corte estadual acerca da análise do dispositivo da sentença que estabeleceu a base de cálculo dos honorários advocatícios, se tal procedimento demanda o reexame do conjunto fático-probatório da causa. Incidência da Súmula n. 7 do STJ.
+2. "O dispositivo da sentença transitada em julgado é imutável, mas não dispensa uma interpretação conforme ao espírito do que foi decidido" (REsp n. 835.040/SP, Relator o Ministro Ari Pargendler, Terceira Turma, DJ de 7/8/2006).
+3. Agravo regimental a que se nega provimento" (STJ, AgRg no REsp 1.353.076/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 05/04/2016).
+"AGRAVO REGIMENTAL. AGRAVO. RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. INTERPRETAÇÃO. COISA JULGADA. REEXAME. SÚMULA N. 7-STJ. SALÁRIO. REMUNERAÇÃO. DIFERENÇA. DIREITO. ALEGAÇÃO. AUSÊNCIA. SÚMULA N. 284-STF. NÃO PROVIMENTO.
+1. O juízo não é obrigado a se manifestar sobre todos os argumentos levantados pelas partes, senão sobre aqueles essenciais à solução da controvérsia.
+2. Em regra, a interpretação das instâncias ordinárias acerca do título exequendo, ainda que judicial, não se submete ao crivo do recurso especial, por encontrar o óbice de que trata o enunciado n. 7, da Súmula.
+3. A ausência de indicação de dispositivo legal, ou da demonstração de divergência jurisprudencial, sobre determinada questão federal impede o conhecimento do recurso especial, no dizer do verbete n. 284, da Súmula do STF.
+4. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 10.737/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 22/03/2012).
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. INTERPRETAÇÃO DE TÍTULO EXECUTIVO JUDICIAL. AUSÊNCIA DE OFENSA À COISA JULGADA. INCIDÊNCIA DA SÚMULA 7/STJ.
+I - É possível interpretar o conteúdo do título executivo judicial sem que isto implique em ofensa a coisa julgada, devendo-se inclusive, conjugar a parte dispositiva com a fundamentação. Precedente.
+II - Rever a interpretação dada pelo e. Tribunal a quo ao conteúdo do título executivo judicial implica em revolver matéria fático probatória, procedimento vedado pela súmula 7 desta e. Corte Superior.
+Agravo regimental desprovido" (STJ, AgRg no REsp 1.015.470/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe de 04/08/2008).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Deixo de majorar os honorários recursais, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
