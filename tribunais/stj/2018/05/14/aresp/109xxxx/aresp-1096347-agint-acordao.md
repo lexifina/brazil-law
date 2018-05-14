@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO (ART. 1042 DO NCPC) - PEDIDO DE FALÊNCIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTE TRIBUNAL QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DA DEMANDADA.
+1. Razões do agravo (art. 1042 do CPC/15) que não impugnaram especificamente o fundamento invocado na decisão de inadmissão do recurso especial. Em razão do princípio da dialeticidade, deve a agravante demonstrar, de modo fundamentado, o desacerto da decisão agravada. Correta aplicação analógica da Súmula 182 do STJ: "É inviável o agravo do art. 545 do CPC 73  que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por TORLIM ALIMENTOS S/A, contra decisão monocrática de fls. 379/380, e-STJ, da lavra da Presidência desta Corte, que não conheceu do agravo ante a ausência de dialeticidade (Súmula 182/STJ).
+Irresignada, a agravante interpõe o presente agravo interno (fls. 386/393, e-STJ), no qual afirma que, o juízo de admissibilidade proferido pela Corte a quo não fundou-se na incidência da Súmula 7 do STJ, portanto não caberia impugnação no agravo ao enunciado referido.
+Aduz que, "a menção à Súmula 7, pelo despacho agravado, é um mero obter dictum. Vale dizer: foi dito de passagem pela r. decisão agravada".
+Alega, nada obstante a ausência de aplicação do referido enunciado na decisão de admissibilidade proferida na origem, "insurgiu-se, sim contra essa menção de passagem que consta da r. decisão agravada, expressamente" (fl. 390, e-STJ).
+Sem impugnação, conforme certidão de fl. 396, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO (ART. 1042 DO NCPC) - PEDIDO DE FALÊNCIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTE TRIBUNAL QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DA DEMANDADA.
+1. Razões do agravo (art. 1042 do CPC/15) que não impugnaram especificamente o fundamento invocado na decisão de inadmissão do recurso especial. Em razão do princípio da dialeticidade, deve a agravante demonstrar, de modo fundamentado, o desacerto da decisão agravada. Correta aplicação analógica da Súmula 182 do STJ: "É inviável o agravo do art. 545 do CPC 73  que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo interno desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. Com efeito, à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o decisum hostilizado, de maneira a demonstrar que o julgamento proferido merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge, devendo especificamente infirmar a fundamentação utilizada.
+Assim, consoante entendimento sedimentado desta Corte, pelo princípio da dialeticidade, compete à parte agravante evidenciar a inadequação de todos os óbices invocados na decisão de admissibilidade do recurso especial, autônomos ou não, sob pena de atrair o enunciado da Súmula 182 do STJ, a saber: "É inviável o agravo do art. 545 do CPC/73 que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido, confira-se:
+PROCESSO CIVIL. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. RAZÕES RECURSAIS QUE NÃO TRATAM DOS ARGUMENTOS DA DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS DE DIVERGÊNCIA. SÚMULA 182/STJ. AUSÊNCIA DE PEDIDO DE REFORMA DA DECISÃO AGRAVADA. PRINCÍPIO DISPOSITIVO. RECURSO NÃO CONHECIDO. 1. Os agravantes não enfrentaram em seu recurso o fundamento da decisão agravada, que estabeleceu serem incabíveis embargos de divergência contra decisão monocrática, nem formularam pedido para sua reforma. 2. Para se viabilizar o conhecimento do agravo regimental, sobretudo diante do princípio da dialeticidade, é necessário que se impugnem especificamente todos os fundamentos da decisão agravada, o que não ocorreu na hipótese em exame. A decisão objurgada permanece incólume e atrai o Verbete Sumular n. 182 do STJ. 3. O princípio dispositivo impõe que a parte recorrente formule pedido de reforma da decisão recorrida, sob pena de não conhecimento do recurso. 4. Agravo regimental não conhecido. (AgRg nos EAREsp 623.863/RS, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 21/10/2015, DJe 20/11/2015)  grifou-se
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. IMPUGNAÇÃO TOTAL E ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. 1. Com base no princípio da dialeticidade, compete à parte recorrente impugnar todos os fundamentos da decisão de admissibilidade do recurso especial, autônomos ou não, sob pena de atrair o óbice contido no enunciado da Súmula 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"). 2. Para viabilizar o prosseguimento (admissibilidade) do recurso interposto, a irresignação há de ser total, objetiva e pormenorizada. Não basta a impugnação genérica ou a remissão a fundamentos anteriores. 3. O fato de a questão jurídica debatida no recurso especial estar afetada ao julgamento da Primeira Seção, sob o regime do art. 543-C do CPC, não
+justifica, nem desobriga o recorrente de cumprir os requisitos de admissibilidade do recurso. Ainda que equivocada a decisão denegatória do recurso especial, seus fundamentos devem ser impugnados pela parte agravante a fim de viabilizar o exame do recurso especial. 4. Agravo regimental desprovido. (AgRg no AREsp 770.897/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 10/11/2015, DJe 20/11/2015)  grifou-se
+Conforme relatado, a Presidência desta Corte, em decisão monocrática de fls. 379/380, e-STJ, por não ter a agravante impugnado especificamente os fundamentos da decisão que inadmitiu o recurso especial, quanto à incidência da Súmula 7 do STJ, não conheceu do agravo (Súmula 182/STJ).
+Na presente oportunidade, a agravante, em suas razões de fls. 386/393 (e-STJ), afirma que, o juízo de admissibilidade proferido pela Corte a quo não fundou-se na aplicação da Súmula 7 do STJ, portanto não caberia impugnação no agravo ao enunciado referido, nada obstante, "insurgiu-se, sim contra essa menção de passagem que consta da r. decisão agravada, expressamente" (fl. 390, e-STJ).
+No caso dos autos, verifica-se que, nas razões do agravo (art. 1042 do NCPC) de fls. 354/369 (e-STJ), a insurgente não combateu, especificamente, o fundamento utilizado na decisão agravada (fls. 349/351, e-STJ).
+Isto porque, de fato, em juízo provisório de admissibilidade, o Tribunal a quo inadmitiu o recurso especial sob os seguintes fundamentos: a) não houve demonstração das vulnerações legais suscitadas; ademais, b) haveria incidência da Súmula 7/STJ; e c) quanto à interposição do apelo excepcional pela divergência jurisprudencial, não houve a demonstração da similitude fática entre entre os vv. acórdão paragonado e padadigma (fls. 349/351, e-STJ).
+Ocorre que, nas razões de agravo (art. 1042 do CPC/15), a insurgente não trouxe qualquer fundamento apto a afastar a aplicação do referido óbice (Súmula 7 do STJ).
+Cabe ressaltar, diversamente do alegado pelos agravantes, a decisão de admissibilidade proferida pelo Tribunal de origem está fundada na aplicação da Súmula 7 do STJ, subsidiariamente ao argumento de que não houve demonstração das vulnerações legais suscitadas.
+Registre-se, outrossim, quanto à alegação de que "tangenciou sim a menção à supostos fatos que serviriam de suporte ao v. acórdão" (e-STJ, fl. 391), não tem, na hipótese dos autos, à luz do princípio da dialeticidade, o condão de afastar a incidência da Súmula 182/STJ; visto que, de fato, não há nas razões do agravo (art. 1042 do NCPC) efetiva impugnação, fundamentada, acerca da não incidência da Súmula nº 7 do STJ, ao caso, o que constituía ônus da parte recorrente.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULAS 7 E 182 DO STJ.
+1. A insurgente não impugnou, de forma precisa, os fundamentos da decisão impugnada em relação à aplicação da Súmula 7/STJ, o que atrai, por analogia, a incidência da Súmula 182 desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+2. Não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+3. Ainda que assim não fosse, decidir de forma contrária ao acórdão recorrido demandaria necessariamente o reexame de matéria fática, o que encontra óbice na Súmula 7 desta Corte Superior.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1067725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/10/2017, DJe 20/10/2017)
+AGRAVO REGIMENTAL. AGRAVO CONTRA DECISÃO QUE, NA ORIGEM, NÃO ADMITIU RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182 DESTE SUPERIOR TRIBUNAL DE JUSTIÇA.
+1.- Cumpre à parte, nas razões do Agravo, impugnar todos os fundamentos suficiente da decisão que, na origem, não admite o recurso especial. Além disso, é preciso que tal impugnação seja efetiva, exigindo-se da parte que demonstre a impertinência dos motivos nos quais fundada a decisão agravada.
+2.- O agravante, quando da interposição do Agravo, não cuidou de impugnar a decisão agravada em toda a sua extensão, mormente quanto à afirmação de aplicação da Súmula 7 do Superior Tribunal de Justiça, limitando-se a renegar o juízo de admissibilidade realizado, bem como a infirmar, tão-somente, o cabimento do recurso pelas razões expostas no recurso especial.
+3.- Agravo Regimental improvido.
+(AgRg no AREsp 499.988/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 19/08/2014, DJe 01/09/2014)
+É de rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
