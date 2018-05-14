@@ -1,0 +1,19 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de Ubatã/BA contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado da Bahia, está assim ementado:
+    “ADMINISTRATIVO. APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO MUNICIPAL. AUXILIAR DE SERVIÇOS GERAIS. EXONERAÇÃO. REINTEGRAÇÃO. TRANSCURSO DE MAIS DE 10 ANOS DESDE A NOMEAÇÃO E POSSE. ATO ADMINISTRATIVO INVÁLIDO. SITUAÇÃO DE FATO E DE DIREITO QUE O TEMPO CONSOLIDOU. APELAÇÃO CÍVEL CONHECIDA E PROVIDA. SENTENÇA REFORMADA.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise das razões recursais da parte ora recorrente evidencia a necessidade de exame da questão suscitada nos autos com base em aspectos fático-prabatórios:
+    “Demonstra os autos que o recorrido, em que pese encontrar-se no exercício da função pública desde o ano de 2003, foi nomeado, não por um simples equívoco da administração pública, mas mediante fraude, cuja apuração se deu através de Procedimento Administrativo Disciplinar (fls. 93/150), não há direito líquido e certo a ser protegido, pelo que merece reforma o acórdão guerreada, pois que está em desacordo com a legislação e a jurisprudência.
+    .......................................................................................................
+    Ressalte-se, também que, no caso em tela, não tem como se falar em boa-fé objetiva do recorrido, conforme alegado na inicial e na apelação, haja vista que o mesmo com o ex-gestor, orquestraram de forma fraudulenta e imoral a investidura do recorrido em cargo sem obedecer a ordem de classificação imposta pelo art. 12 da Lei Municipal nº 20/1997 (Estatuto do Servidor Público Municipal) (fls. 151/172).
+    .......................................................................................................
+    Refletindo-se sobre tudo que aqui foi dito, indubitavelmente, verifica-se que não houve boa-fé objetiva por parte do recorrido, uma vez que, não agiu com honestidade e retidão, dentro dos padrões sociais vigentes, posto que, acompanhou e vivenciou todas as irregularidades na surdina. Apesar de tudo, não dispensou o recorrido, a vantagem ilegal que lhe fora oferecida em detrimento de, outras pessoas, logo, jamais poderemos interpretar isto, como sendo cooperação e lealdade que incentive o sentimento de justiça social, pelo contrário, tal comportamento, apenas vale para reforçar a má-fé do recorrido, reflexo do sentimento de injustiça social e de certeza da impunidade que vem fazendo parte da consciência coletiva deste país.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte ora agravante revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009,  art. 25).
+    Publique-se.
+    Brasília, 14 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
