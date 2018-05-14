@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo interno interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF em face de decisão unipessoal de fls. 458/462 (e-STJ) que conheceu parcialmente do recurso especial que interpusera para, nessa parte, negar-lhe provimento, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE COMPLEMENTAÇÃO DE APOSENTADORIA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL E DE SÚMULA. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. O acórdão recorrido que adota orientação firmada pela jurisprudência do STJ não merece reforma.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Recurso especial parcialmente conhecido e, nessa parte, não provido. (e-STJ Fl. 458)
+Em suas razões recursais, requer a agravante a reconsideração da decisão agravada ou, subsidiariamente, seja determinado o sobrestamento do processo para aguardar decisão a ser proferida pelo STF acerca do recurso com repercussão geral reconhecida, RE nº 638.138 (tema 452), nos termos do art. 1.036, § 1º, do CPC/15.
+O Plenário virtual do Supremo Tribunal Federal, ao examinar o RE 639.138/RS, Rel. Min. Gilmar Mendes, reconheceu a existência de repercussão geral da questão constitucional relativa à isonomia na concessão de benefício de aposentadoria complementar para homens e mulheres (Tema nº 452).
+Nessa medida, considerando que todas as teses defendidas no presente recurso especial se relacionam direta e indiretamente com o tema, não poderia o Tribunal de origem ter dado prosseguimento ao processo, de modo que é de rigor a devolução dos autos ao Tribunal local para que aquele órgão julgador aguarde o julgamento final da controvérsia pelo STF.
+Forte nessas razões, torno sem efeito a decisão de fls. 458/462 (e-STJ) e determino, em razão dos fundamentos expendidos, a restituição dos autos ao Tribunal de origem a fim de que aquele órgão julgador: i) cumpra a determinação de sobrestamento expendida no RE n. 638.138/RS (Tema nº 452) e ii) observe, após o julgamento final da controvérsia pelo Supremo Tribunal Federal, o procedimento previsto no art. 1.039 do CPC/15.
+Prejudicada a análise do agravo interno de fls. 493/508 (e-STJ).
+Publique-se. Intimem-se.
