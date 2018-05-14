@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do NCPC) interposto por [NOME] contra decisão de fls. 357-359 (e-STJ), que negou seguimento ao recurso especial interposto com fundamento nas alíneas a e c do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fl. 122):
+AGRAVO (§ 1º DO ART. 557 DO CPC) NOS EMBARGOS DECLARATÓRIOS EM CONFLITO DE COMPETÊNCIA. RECLAMO INTERPOSTO PELA PARTE INTERESSADA. COGITADA A OCORRÊNCIA DE LITISPENDÊNCIA, E NÃO DE CONEXÃO, CONFORME SUSCITADO NO PRESENTE CONFLITO. MATÉRIA NÃO SUBMETIDA À APRECIAÇÃO NO JUÍZO DE ORIGEM. IMPOSSIBILIDADE DE ANÁLISE NESTE GRAU DE JURISDIÇÃO, SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. COMPETÊNCIA PARA PROCESSAR E JULGAR 0 FEITO, ADEMAIS, FIXADA EM CONSONÂNCIA COM A PRETENSÃO DO AGRAVANTE. AUSÊNCIA DE INTERESSE RECURSAL. RECURSO NÃO CONHECIDO.
+Opostos embargos de declaração, esses foram desprovidos (e-STJ, fls. 300-305).
+Nas razões do especial (e-STJ, fl. 309-319), o insurgente alega, além de dissídio jurisprudencial, violação aos arts. 265, IV, "a", 267, V e § 3º e 301, §§ 1º, 2º e 3º, do CPC/73, sustentando, em síntese, existência não apenas de mera conexão, mas efetiva litispendência no feito entre as ações de nunciação de obra nova e demolitória.
+Contrarrazões (fls. 344-352, e-STJ), a Corte local procedeu ao exame provisório de admissibilidade, oportunidade em que negou seguimento ao recurso especial.
+Daí o presente recurso (e-STJ, fls. 362-371), em cujas razões a parte insurgente impugna o óbice aplicado pelo Tribunal a quo.
+Sem contraminuta à fl. 375 (e-STJ).
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Constata-se da leitura do acórdão recorrido, que o Tribunal de origem - apesar de opostos os embargos declaratórios pela parte agravante - não decidiu acerca da alegada litispendência, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial.
+Cabe ressaltar que o prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, não sendo suficiente para a sua configuração a mera indicação pela parte do dispositivo legal que entende afrontado, constitui exigência inafastável contida na própria previsão constitucional ao tratar do recurso especial, impondo-se como um dos principais pressupostos ao seu conhecimento.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Oportuno assinalar, ainda, que a jurisprudência deste Tribunal Superior é pacífica no sentido da necessidade de prequestionamento dos dispositivos que se entendem violados, mesmo em se tratando de matéria de ordem pública.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. INOVAÇÃO RECURSAL. PREQUESTIONAMENTO. MATÉRIA DE ORDEM PÚBLICA.
+NECESSIDADE. AGRAVO NÃO CONHECIDO.
+1. Aplicabilidade do novo Código de Processo Civil, devendo ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou as razões da decisão agravada, pois não refutou, de forma fundamentada, o óbice de incidência das Súmulas nºs 5, 7 e 83 do STJ. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+3. A tese aduzida nas razões do presente agravo interno quanto à incompetência da Justiça Estadual configura inovação recursal, mesmo porque, consoante a remansosa jurisprudência desta Corte Superior, na instância especial, ainda que se trate de matéria de ordem pública, sua análise não dispensa o prequestionamento.
+4. Agravo interno não conhecido.
+(AgInt no AREsp 1.146.063/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/11/2017, DJe 05/12/2017)  grifou-se .
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÃO DE NULIDADE DA SENTENÇA. MATÉRIA NÃO PREQUESTIONADA. SÚMULA 282 DO STF. VERIFICAÇÃO DE LITISPENDÊNCIA. REVER A CONCLUSÃO DO ACÓRDÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A violação ao art. 1.022 do Código de Processo Civil de 2015 não ficou caracterizada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, concluindo pela configuração da litispendência.
+2. A questão referente à nulidade da sentença não foi objeto de debate pelo Tribunal de Justiça, tampouco foram opostos embargos de declaração com o objetivo de sanar omissão neste ponto específico. Dessa forma, não tendo sido enfrentada pelo acórdão recorrido a referida tese, o conhecimento do recurso especial fica obstado, dada a ausência de prequestionamento, incidindo, por conseguinte, a Súmula n. 282 do STF. Segundo pacífica jurisprudência do STJ, na instância especial, ainda que se trate de matéria de ordem pública, a análise da questão controvertida não dispensa o prequestionamento.
+3. O acórdão consignou expressamente que os autores, ora agravantes, apresentaram discussão a respeito de tema já suscitado e examinado em embargos à execução anteriormente propostos contra a mesma instituição financeira e sobre o mesmo contrato.
+Nesse contexto, alcançar conclusão diversa da que chegou o Tribunal estadual, acerca da configuração da litispendência, demandaria o revolvimento do acervo fático-probatório, procedimento inviável no âmbito do recurso especial, incidindo na hipótese a Súmula n. 7 do STJ.
+4. Agravo interno improvido.
+(AgInt no AREsp 1.130.021/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/11/2017, DJe 13/11/2017)  grifou-se
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. COMPLEMENTAÇÃO DO JULGADO. LITISPENDÊNCIA. MATÉRIA DE ORDEM PÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO. INOVAÇÃO RECURSAL EM AGRAVO REGIMENTAL. VEDAÇÃO.
+1. Consoante a jurisprudência do STJ os temas de ordem pública, tal como a litispendência, devem ser prequestionados, a fim de que sejam enfrentados em recurso especial.
+2. O Tribunal de origem não se pronunciou acerca da litispendência, haja vista que não foi instado para tanto. Em verdade, o tema somente foi levantado em sede de agravo regimental, apresentando-se como vedada inovação recursal.
+3. Embargos de declaração acolhidos, sem efeitos modificativos, tão somente para sanar omissão quanto à análise da litispendência.
+(EDcl no AgRg no Ag 815.602/RN, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/12/2013, DJe 13/12/2013)  grifou-se
+Dessa forma, não examinada pela instância ordinária a matéria objeto do especial, ausente o prequestionamento. Incide, portanto, o enunciado 211 de Súmula do Superior Tribunal de Justiça.
+2. Nada obstante, consta do acórdão recorrido a seguinte fundamento (fl. 289, e-STJ):
+Se não bastasse, sua pretensão foi parcialmente acolhida na decisão monocrática que julgou o conflito negativo de competência, onde foi definido que o Juízo da 4a Vara Cível da comarca da Capital é o competente para processar e julgar a ação de nunciação de obra nova cumulada com demolição parcial n. 023.07.134565-8, o que caracteriza ausência de interesse recursal, e impede sua análise.
+Tal fundamento não foi devidamente impugnado pelo ora recorrente, o que atrai a incidência da Súmula 283/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+3. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
