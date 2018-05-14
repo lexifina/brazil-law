@@ -1,0 +1,23 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. COMISSÃO DE PERMANÊNCIA. INVIABILIDADE. FALTA DE PREQUESTIONAMENTO. ILEGALIDADE DA COBRANÇA DE TAXAS E TARIFAS. ACÓRDÃO RECORRIDO QUE CONCLUI PELA INOVAÇÃO RECURSAL NO PONTO. IMPOSSIBLIDADE DE EXAME. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Wando [NOME] ajuizou ação de revisão de contrato bancário em desfavor de Banco Ficsa S.A., que foi julgada parcialmente procedente para determinar a repetição simples da tarifa de cadastro no valor de R$ 750,00 (setecentos e cinquenta reais).
+As partes interpuseram apelação, às quais foram negadas seguimento por decisão unipessoal do Desembargador Relator, o que ensejou o manejo de agravo interno pelo autor, que foi desprovido pelo Tribunal de Justiça do Paraná, em acórdão assim ementado (e-STJ, fl. 154):
+AGRAVO. AÇÃO REVISIONAL DE CONTRATO. DECISÃO MONOCRÁTICA DO RELATOR QUE CONHECEU EM PARTE E, NESTA, NEGOU PROVIMENTO AO APELO DO AUTOR, ORA AGRAVANTE. ILEGALIDADE DAS TAXAS E TARIFAS DO CONTRATO. MATÉRIA NÃO SUSCITADA NA APELAÇÃO. INOVAÇÃO RECURSAL. NÃO CONHECIMENTO. CAPITALIZAÇÃO DOS JUROS. LEGALIDADE. MATÉRIA SUFICIENTEMENTE DELINEADA NA DECISÃO RECORRIDA, EM CONSONÂNCIA COM A JURISPRUDÊNCIA DOMINANTE DESTA CÂMARA. DECISÃO MONOCRÁTICA MANTIDA. RECURSO PARCIALMENTE CONHECIDO E, NESTA, DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados, com aplicação de multa de 1% sobre o valor da causa atualizada.
+Contra tal decisum Wando [NOME] interpôs recurso especial, fundamentado na alínea a do permissivo constitucional, no qual sustentou violação do art. 1.022, II, do CPC/2015, afirmando, para tanto, que opôs, na origem, recurso com o objetivo de prequestionar a matéria a ser apreciada por esta Corte Superior e que "a rejeição aos embargos declaratórios opostos anteriormente evidenciam o prejuízo recursal" (e-STJ, fl. 194).
+Alegou, ainda, a inviabilidade de cobrança da comissão de permanência acrescida de multa e juros de mora, nos termos da Súmula 30/STJ, além de defender a ilegalidade da cobrança das taxas e tarifas administrativas previstas ou não no contrato firmado entre as partes para o que afirma a ocorrência de ofensa ao art. 51, VI, do CDC.
+O Tribunal de origem não admitiu o recurso especial, o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta.
+Brevemente relatado, decido.
+Conforme ponderou a decisão de inadmissibilidade recursal, o agravante, apesar de fazer menção no apelo extremo à ocorrência de violação do art. 1.022 do CPC/2015, não indicou o ponto a ser esclarecido, nem a omissão a ser sanada, tampouco o erro material a ser corrigido no acórdão proferido pelo Tribunal de origem, assim como não demonstra quais matérias deveriam ter sido prequestionadas pela referida Corte, o que impossibilita a compreensão da controvérsia, a atrair a incidência da Súmula 284/STF.
+Sobre a alegada inviabilidade da cobrança de comissão de permanência acrescida de multa e juros de mora, o recurso esbarra na Súmula 211/STJ, na medida em que a matéria não foi apreciada pela Corte local, até mesmo porque não foi instada a fazê-lo, tanto na apelação quanto na oposição dos aclaratórios na origem.
+Por fim, relativamente à ilegalidade da cobrança das taxas e tarifas administrativas, consignou o Tribunal de origem que "o tema não foi objeto de recurso de apelação, evidenciando a inovação recursal" (e-STJ, fl. 156), e, por isso mesmo, não havia como ser ali analisada, assim como impróprio o enfrentamento por esta Corte.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO PARTICULAR DE COMPRA E VENDA. CAPITALIZAÇÃO MENSAL DOS JUROS. INVIABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. De acordo com a jurisprudência desta Corte é possível a cobrança de capitalização mensal de juros quando houver pactuação e desde que exista legislação específica que a autorize.
+2. As razões recursais que não impugnam fundamento do acórdão recorrido suficiente para mantê-lo não devem ser admitidas, a teor da Súmula n. 283/STF.
+3. Incabível o exame de tese não exposta no recurso especial e invocada apenas em recurso posterior, pois configura indevida inovação recursal.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 1.181.043/MG, Relator o Ministro Antonio Carlos Ferreira, DJe de 26/4/2018)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
