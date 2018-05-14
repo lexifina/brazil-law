@@ -1,0 +1,21 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, LIV e LV, 145, § 1º, 150, IV, 170, IV, e 195, § 12, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido: RE 699.267, RE 676.600, AI 847.324. Cito, ainda:
+    “DIREITO TRIBUTÁRIO. CASO TÍPICO DE JULGAMENTO MONOCRÁTICO. ART. 544, § 4º, II, DO CPC. OPÇÃO DE APURAÇÃO DO IRPJ PELO LUCRO REAL/PRESUMIDO. VEDAÇÃO DE CREDITAMENTO. PIS/COFINS. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. AGRAVO IMPROVIDO. ACÓRDÃO RECORRIDO PUBLICADO 01.9.2011.
+    Caso de típico julgamento monocrático do recurso, a incidir as disposições constantes no art. 554, § 4º, II, do Código de Processo Civil.
+    A matéria sobre o regime de creditamento do PIS e da COFINS e suas eventuais vedações, em decorrência de opção pela apuração do IRPJ pelo lucro real ou presumido, não alcança status constitucional. O exame das alegadas ofensas à Constituição Federal dependeria de análise da legislação infraconstitucional aplicada à espécie (Leis 10.637/2002 e 10.833/2003), o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal.
+    Agravo regimental conhecido e não provido.” (RE 671.759-AgR, de minha lavra, 1ª Turma, DJe 26.11.2013)
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. PIS/COFINS. Frete relacionado à transferência de mercadorias entre estabelecimentos. Creditamento. Leis nºs 10.637/02 e 10.833/03. Soluções de Divergência. SRFB. Necessidade de reexame da contenda à luz da legislação infraconstitucional. Ofensa constitucional indireta ou reflexa.
+    1. O Tribunal de origem entendeu que a previsão legal de desconto de créditos relativos ao frete pago nas operações de venda de mercadorias (art. 3º, IX, da Lei nº 10.833/03) não abarca as despesas despendidas no transporte interno de mercadorias entre os estabelecimentos da impetrante, haja vista que tais despesas não estão diretamente ligadas a operações de venda, não fazendo jus ao desconto de créditos postulado.
+    2. Ambas as Turmas da Corte têm decidido pela natureza infraconstitucional da controvérsia posta nos autos, uma vez que o debate de temas constitucionais porventura envolvidos demandaria previamente o cotejo das normas internas da Secretaria da Receita Federal do Brasil com as Leis nºs 10.637/02 e 10.833/03. A ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extraordinário.
+    3. Agravo regimental não provido. Não se aplica a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.” (ARE 964.493-AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe 20.02.2017)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de maio de 2018.
+Ministra Rosa Weber
+Relatora
