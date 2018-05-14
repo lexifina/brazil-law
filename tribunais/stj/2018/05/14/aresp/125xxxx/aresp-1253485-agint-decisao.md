@@ -1,0 +1,13 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECONSIDERADA APENAS PARA ALTERAR PREMISSA FÁTICA EQUIVOCADA. MANTIDO O RESULTADO DA DECISÃO ANTERIOR PELO DESPROVIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+1. Trata-se de Agravo Interno interposto pela FAZENDA NACIONAL, contra a decisão assim ementada:
+PROCESSUAL CIVIL. MAJORAÇÃO DOS HONORÁRIOS. IMPOSSIBILIDADE. AUSÊNCIA DE SITUAÇÃO EXCEPCIONAL APTA A SUPERAR O ÓBICE DA SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+2. Aduz a parte agravante que a condenação original foi no valor de R$ 8.649.290,00 (oito milhões, seiscentos e quarenta e nove mil e duzentos e noventa reais) para o valor de R$ 80.000,00 (oitenta mil reais). Na atual ação, que julgou apenas a questão dos honorários da empresa, objeto de sua ação em rescisória, foi fixado o valor de 30.000,00 a título de honorários advocatícios em desfavor da Fazenda Nacional. Assim, há uma enorme desproporção entre o valor da condenação em honorários da autora na ação originária (80 mil reais) e da ré, na ação rescisória (30 mil reais).
+3. Impugnação apresentada (fls. 630/638).
+4. É o relatório.
+5. O Tribunal de origem constatou que a verba honorária havia sido fixada sem observar a regra do art. 20, § 4o. do CPC/1973, considerando o valor de aproximadamente R$ 8 milhões, exorbitante, o equivalente a 10% sobre o valor da causa. Assim, em juízo rescisório reduziu para R$ 80.000,00 E fixou os honorários advocatícios em R$ 30.000,00 (fls. 474/475).
+6. Realmente a decisão de fls. 615/618 deve ser revista, pois pautou-se em premissa fática equivocada.
+7. Verifica-se que os honorários foram fixados em sentença no valor de R$ 30.000,00 e o valor atribuído à causa era de R$ 8.650.000,00. Dessa forma, não se verifica situação excepcional capaz de alterar o julgado de maneira a ultrapassar o óbice da Súmula 7/STJ. Outrossim, observa-se que julgados da 1a. Turma concluem por razoável a aplicação de 1% sobre o valor da causa. Precedentes: AgInt no REsp. 1.540.730/SP, Rel. Min. GURGEL DE FARIA, DJe 15.2..2018; AgInt no AREsp. 447.812/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 26.10.2017; AgInt no REsp. 1.674.357/RJ, Rel. Min. REGINA HELENA COSTA, DJe 28.9.2017; AgInt no REsp. 1.576.460/SP, Rel. Min. BENEDITO GONÇALVES, DJe 13.9.2016; AgInt no AREsp. 228.625/RN, Rel. Min. SÉRGIO KUKINA, DJe 4.10.2016. Sendo assim, deixa-se de aplicar tal regra, para não incorrer em reforma para pior.
+8. Ante o exposto, reconsidera-se a decisão de fls. 615/618 apenas para alterar a premissa fática equivocada, mantendo o resultado da decisão anterior pelo desprovimento do Agravo em Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
