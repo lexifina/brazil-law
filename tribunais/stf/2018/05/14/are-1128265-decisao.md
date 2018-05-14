@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “ÇÃO RESCISÓRIA. DIREITO ADMINISTRATIVO E CONSTITUCIONAL. SERVIDOR PÚBLICO. SECRETARIA DE ESTADO DE SAÚDE DO DISTRITO FEDERAL. MÉDICO. CARGA HORÁRIA DE TRABALHO VARIÁVEL. HORAS EXTRAS TRABALHADAS COM HABITUALIDADE. INCORPORAÇÃO AOS PROVENTOS DE APOSENTADORIA. POSSIBILIDADE. ART. 41, § 7º, DA LODF.
+    1. Consoante entendimento jurisprudencial majoritário desta Corte de Justiça, o cumprimento de horas extras em atenção aos interesses da Administração, constitui atendimento à carga horária laboral variável, fato que assegura o recebimento dos proventos de acordo com a jornada predominante nos últimos três anos anteriores à aposentadoria, consoante o disposto no art. 41, § 7º, da Lei Orgânica do Distrito Federal.
+    2. A carga horária variável deve ser entendida como sendo aquela cumprida tanto pelo servidor com jornada fixa, quando sujeito ao cumprimento de horas extraordinárias durante os últimos três anos de atividade, quanto por aquele que possui carga horária integralmente variável, de modo que a norma ora analisada não estabeleceu qualquer exclusividade ou restrição subjetiva, sendo suficiente a variação na carga horária a que o servidor está submetido.
+    3. Ainda que as horas extras possuam natureza propter laborem, uma vez que se consubstanciam em espécie de gratificação paga ao servidor em decorrência das condições excepcionais sob as quais está sendo prestado determinado serviço, quando trabalhadas com regularidade denotam a intenção do administrador em atribuir a seu servidor uma jornada superior àquela originariamente acordada.
+    4. In casu, constata-se que o servidor público preenche todos os requisitos para que as horas extras por ele laboradas nos três anos anteriores à sua aposentação sejam incorporadas aos seus proventos da inatividade, razão pela qual o acórdão rescindendo proclamou o bom direito.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 40, caput, §§ 2º e 4º; e 61, § 1º, a, da Constituição, e arts. 11 e 25 do ADCT.
+    O recurso é inadmissível. Isso porque as alegadas ofensas ao texto constitucional não foram apreciadas pelo acórdão impugnado. O recurso extraordinário carece, portanto, de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, para dissentir do entendimento firmado pelo Tribunal de origem, faz-se necessária a análise da legislação local aplicada à espécie, procedimento vedado neste momento processual pela Súmula 280/STF
+    Diante do exposto, com base no art. 932, IV e VII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 14 de maio de 2018.
+Ministro Luís Roberto Barroso
+Relator
