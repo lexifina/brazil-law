@@ -1,0 +1,37 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO PUBLICADO NA VIGÊNCIA DO CPC/73. DESPROVIMENTO POR DECISÃO MONOCRÁTICA. OFENSA AO ARTIGO 932 DO CPC/2015 NÃO CONFIGURADA. INCIDÊNCIA, QUANTO AO MÉRITO, DA SÚMULA 182/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DA DECISÃO AGRAVADA.
+1. O exame monocrático do agravo em recurso especial em questão encontra respaldo no artigo 932, III, do CPC/2015, segundo o qual incumbe ao relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida"
+2. Na hipótese dos autos, o agravo não foi provido em razão da inadmissibilidade do próprio recurso especial, já que não se constatou ofensa ao art. 535 do CPC/73, bem como evidenciou-se a incidência do óbice previsto na Súmula 7/STJ.
+3. Quanto à matéria de fundo, o agravo interno deixou de impugnar alicerce da decisão agravada (Súmula 7/STJ), o que atrai a aplicação, no ponto, da Súmula 182/STJ.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, conhecer parcialmente do agravo interno e, nessa parte, negar-lhe provimento, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pela FUNDAÇÃO CASA - CENTRO DE ATENDIMENTO SOCIOEDUCATIVO AO ADOLESCENTE, desafiando decisão que negou provimento ao agravo em recurso especial, sob os fundamentos de que: (I) não se verifica ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas; e (II) incide a Súmula 7/STJ, tendo em vista que o acolhimento da pretensão recursal demanda o reexame de matéria fático-probatória.
+Inconformada, a parte agravante, em suas razões, tece considerações sobre a posição doutrinária referente à aplicação da Súmula 7/STJ. Sustenta, ainda, a impossibilidade de se negar provimento a recurso por meio de decisão monocrática do relator, ao argumento de que a hipótese discutida nos autos deve ser remetida ao Colegiado, em observância aos princípios do juiz natural, do devido processo legal e do duplo grau de jurisdição.
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+A parte agravada apresentou impugnação (fls. 438/444), na qual requer o desprovimento do agravo interno.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A decisão agravada foi assim fundamentada (fls. 420/422):
+ Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+ Feita essa observação, verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ Quanto ao mérito, a Corte local manteve a sentença de improcedência com base nos seguintes fundamentos (fls. 346/348):
+ O artigo 333, I, do Código de Processo Civil dispõe que o ônus da prova incumbe ao autor, quanto ao fato constitutivo do seu direito.
+ E na espécie, os documentos acostados aos autos não permitem concluir que há valores repassados à Conveniada e não utilizados por ela para a finalidade específica, como alegou a autora em sua petição inicial.
+ De fato, é difícil apurar a causa de pedir da diferença. Na inicial a autora apenas relata que há valores repassados à Conveniada e não utilizados por ela para a finalidade específica.
+ O documento de fls. 237, utilizado pelo magistrado sentenciante como um dos fundamentos da decisão, aponta que:
+(..)
+ A informação de fls. 235 afirma: Quanto à documentação comprobatória encaminhada referente a prestação de contas exercício 2004, encontra-se formalmente em ordem. No entanto, há diferenças apontadas no ano de 2004, conforme planilha de fls. 240.
+Ao contrário do que alega o apelado, a apelante não afirmou que possui um saldo negativo de R$ 47.368,22 a fls. 219, tendo demonstrado a diferença mensal entre as parcelas enviadas e os valores apurados pela Fundação Casa.
+ Instada a especificar as provas que pretendia produzir, a autora requereu o julgamento antecipado da lide (fls. 293).
+ Não tendo se desincumbido do ônus de provar fato constitutivo de seu direito, a improcedência da ação é de rigor.
+ Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de reconhecer que foi demonstrado o enriquecimento sem causa da parte adversa, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ Ante o exposto, nego provimento ao agravo.
+De início, como antes afirmado, cabe registrar que o acórdão regional foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, deve ser observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+De outro lado, cumpre salientar que o exame monocrático do agravo em recurso especial em questão encontra respaldo no artigo 932, III, do CPC/2015, segundo o qual incumbe ao relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Na hipótese dos autos, como visto, o agravo não foi provido em razão da inadmissibilidade do próprio recurso especial, por não se constatar a ofensa ao art. 535 do CPC/73 e ante a incidência do óbice previsto na Súmula 7/STJ.
+Quanto ao mérito, não é possível conhecer do agravo interno, tendo em vista que a agravante não infirmou a incidência da Súmula 7/STJ na hipótese dos autos, deixando de demonstrar os motivos pelos quais não seria aplicável o referido óbice sumular, limitando-se a trazer entendimento doutrinário sobre o tema (fls. 429/430) e a alegar, genericamente, que não concorda com os termos da decisão ora agravada.
+Incide, desse modo, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Ante o exposto, conhece-se, em parte, do agravo interno e, nessa extensão, nega-se-lhe provimento.
+É o voto.
