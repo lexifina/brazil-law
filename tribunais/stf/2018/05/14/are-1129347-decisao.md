@@ -1,0 +1,21 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Suraia Maluf Farhat Tavares contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “SERVIDORA PÚBLICA MUNICIPAL – ABONO PECUNIÁRIO – Pretensão inicial ao recebimento do abono pecuniário (14º salário), referente aos anos de 2007 a 2010, sob o fundamento de direito adquirido – Improcedência da ação pronunciada em primeiro grau – Decisório que merece subsistir – Lei 546/85 que garantia a todos os servidores, estatutários ou celetistas, o recebimento do abono indistintamente – Edição de lei posterior (1.493/05), no entanto, impondo requisitos ao recebimento da vantagem (ausência de faltas injustificadas, ausência de penalização disciplinar etc.) – Inexistência, em tais termos, de qualquer supressão salarial – Abono que continua existindo e sendo pago a todos os servidores, exigindo-se tão-somente conduta compatível do funcionário com o cargo público ocupado – Norma municipal que, diante disso, vai ao encontro dos princípios da moralidade e legalidade aos quais se encontra adstrita toda a Administração Pública – Artigo 37, 'caput', da Constituição Federal – Sentença mantida – Recurso improvido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Leis municipais nºs 546/85, 1.493/05 e 1.516/05), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido demonstra que o Tribunal “a quo”, ao proferir a decisão questionada, apoiou-se em interpretação de direito local:
+    “Bem analisadas as questões postas em juízo, tem-se que o pronunciamento judicial ‘a quo’ merece confirmação.
+    …...................................................................................................
+    E, análise das legislações referidas na exordial, leva à conclusão de que inocorreu qualquer supressão salarial, como quer fazer crer a parte autora.
+    A Lei Municipal nº 546/85 autorizou o Executivo Municipal a conceder anualmente abono pecuniário a todos os funcionários e servidores públicos locais, independentemente do regime ao qual submetidos:
+    …...................................................................................................
+    A Lei Municipal nº 1.493/05, por sua vez, manteve o abono pago aos servidores, estabelecendo, contudo, requisitos ao pagamento respectivo, como: ‘não ter o funcionário sofrido pena disciplinar, não ter faltado injustificadamente, não ter faltado por mais de cinco dias justificadamente etc’.
+    Ressalte-se que a Lei Municipal nº 1.516/05 veio complementar a norma anterior, conferindo oportunidade e chance ao recebimento do abono àqueles servidores que excedessem os limites de faltas estabelecidos na Lei Municipal nº 1.493/05, mediante parecer de comissão específica.”
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 946.249/SP, Rel. Min. EDSON FACHIN – ARE 1.086.401/SP, Rel. Min. MARCO AURÉLIO – ARE 1.097.949/SP, Rel. Min. ALEXANDRE DE MORAES, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 14 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
