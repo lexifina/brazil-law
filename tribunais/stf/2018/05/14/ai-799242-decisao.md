@@ -1,0 +1,12 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO – COISA JULGADA – ARTIGO 741, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL – REVISÃO – IMPROPRIEDADE – DESPROVIMENTO.
+    1. Afasto o sobrestamento anteriormente determinado.
+    2. O Tribunal de origem, reformando o entendimento do Juízo, reconheceu de ofício a coisa julgada sobre a matéria. Entendeu irrelevante a declaração de inconstitucionalidade dos Decretos-Leis nº 2.445/1988 e nº 2.449/1988 no recurso extraordinário nº 148.754, relator ministro Carlos Velloso, redator para o acórdão ministro Francisco Rezek, porquanto a preclusão maior implementou-se em data anterior à resolução nº 49/1995 do Senado Federal que suspendeu a execução dos diplomas tidos por inconstitucionais pelo Supremo. Assentou descabida a pretensão ressarcitória sem que houvesse a rescisão do julgado.
+    No extraordinário, cujo o trânsito busca alcançar, a recorrente aponta transgressão aos artigos 5º, inciso XXXVI, e 52, inciso X, da Constituição Federal. Sustenta a necessidade de afastar-se o óbice da coisa julgada. Alega serem distintos os pedidos formulados no mandado de segurança, coberto pela preclusão maior, e os da presente demanda. Aduz cingir-se o trânsito em julgado a determinadas parcelas, considerando estar-se em jogo obrigação de trato sucessivo. Reporta-se à resolução do Senado como meio de atribuir-se eficácia retroativa ao que decidido no recurso extraordinário nº 148.754.
+    3. A coisa julgada possui envergadura maior, não envolvendo simples interpretação de normas ordinárias. Trata-se de garantia inerente ao Estado Democrático de Direito, revelando-se ato jurídico perfeito por excelência, porquanto decorrente de pronunciamento do Judiciário.
+    Embora irrevelante, operou-se a preclusão maior da decisão em 22 de abril de 1994, antes da edição da Medida Provisória nº 2.180-35/2001, a qual inseriu o parágrafo único no artigo 741 do Código de Processo Civil de 1973. O título executivo judicial, no que implicou o reconhecimento de legitimidade da cobrança do tributo com base nos Decretos-Leis nº 2.445/1988 e nº 2.449/1988, promoveu, coberto pela preclusão, a solidificação da controvérsia. A organicidade do Direito, especialmente do instrumental, impede afastar ato enquadrável na garantia do artigo 5º, inciso XXXVI, da Constituição Federal.
+    4. Conheço do agravo e o desprovejo.
+    5. Publique-se.
+Brasília, 14 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
