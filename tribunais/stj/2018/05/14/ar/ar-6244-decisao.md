@@ -1,0 +1,82 @@
+DECISÃO
+Trata-se de ação rescisória, com pedido de antecipação dos efeitos da tutela, ajuizada pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, em 12/04/2018, com fundamento no art. 965, V, do CPC/2015, em face de [NOME] MASSARO, objetivando rescindir decisão monocrática lavrada pelo Ministro SÉRGIO KUKINA, no REsp 1.593.115/SP, transitada em julgado no dia 03/08/2016.
+Alega a parte autora, in verbis:
+"A presente ação visa rescindir a r. decisão monocrática proferida no Recurso Especial nº 1.593.115 - SP (2016/0075754-7) pelo Ministro Sérgio Kukina, da 1ª Turma do E. STJ, transita em julgado em 03/08/2016, no qual figuram como partes o autor [NOME] MASSARO, ora requerido, e o réu INSS, ora requerente. A seguir transcrição de excertos do decisum, litteris:
+(..)
+Trata-se de processo onde a parte autora pleiteou o restabelecimento de benefício auxílio-suplementar, concedido em 03/08/1978 (e- STJ Fl. 30), cessado por força da concessão de aposentadoria por tempo de contribuição, concedida em 12/12/1995 (e- STJ Fl. 31).
+Deve-se frisar que desde a petição inicial o autor, ora requerido, alegava que recebia AUXÍLIO-ACIDENTE que foi cessado por conta da concessão de aposentadoria por tempo de contribuição. O processo correu normalmente e a r. sentença acabou por julgar procedente o pedido, determinando o restabelecimento do AUXÍLIO-ACIDENTE do autor por conta do direito adquirido, uma vez que a legislação vigente na época autorizava os segurados a receber concomitantemente ambos os benefícios, diga-se, o AUXÍLIO-ACIDENTE e a aposentadoria por tempo de contribuição (e- STJ Fls. 68/75).
+Por conta dessa decisão, o INSS recorreu da r. sentença e, em segundo grau de jurisdição o E. Tribunal de Justiça de São Paulo reconheceu que não se tratava de auxílio-acidente, mas sim de AUXÍLIO-SUPLEMENTAR, cuja cumulação com qualquer aposentadoria sempre foi defesa em lei, como determina expressamente o parágrafo único do artigo 9º da Lei 6.367/76 (e- STJ Fls. 113/124).
+Ocorre que o autor, ora requerido, não se conformou com a decisão e interpôs recurso Especial a este E. Tribunal. Em decisão monocrática no Recurso Especial, o Ministro Sérgio Kukina, citando jurisprudência da 1ª Seção desta E. Corte que autoriza a cumulação de AUXÍLIO-ACIDENTE com aposentadoria desde que ambos sejam anteriores a 1997, dá provimento ao recurso e manda restabelecer o auxílio-suplementar (e- STJ Fls. 165/168), respeitado vênia, como se o auxílio-acidente tivesse sucedido o auxílio-suplementar na legislação previdenciária, conforme se verifica na parte final do decisum, ao norte transcrito e sublinhado.
+Transitada em julgado a decisão monocrática no Recurso Especial em 03/08/2016 (e- STJ Fl. 176), os autos desceram à Vara de origem e o ora requerido está dando início ao processo de execução do julgado.
+(..)
+Conforme documentos que constam nos autos anexos, o requerido NÃO RECEBIA AUXÍLIO-ACIDENTE, como equivocadamente entendeu a decisão monocrática ora rescindenda, mas sim AUXÍLIO SUPLEMENTAR POR ACIDENTE DE TRABALHO.
+Ocorre que à época da concessão do benefício de auxílio-suplementar, ou seja, em 02/08/1978, vigorava a Lei nº 6.367 - de 19 de outubro de 1976, com previsão dos dois benefícios, isto é, o Auxílio-Acidente (art. 6º) e o Auxílio Suplementar (art. 9º) e que vedava, expressamente, a percepção conjunta de auxílio-suplementar com aposentadoria, nos seguintes termos:
+(..)
+Assim, mesmo à época da concessão do benefício auxílio-suplementar ao requerido havia previsão no ordenamento jurídico de que seu benefício seria cessado com a concessão do benefício de aposentadoria.
+Neste sentido, toda a jurisprudência pacífica do E. Tribunal de Justiça do Estado de São Paulo:
+(..)
+Quanto à jurisprudência desta Egrégia Corte, não se desconhece que há Súmula autorizando a cumulação de AUXÍLIO-ACIDENTE com aposentadoria, desde que ambos os benefícios sejam anteriores a 11/11/1997, Súmula 507, que diz expressamente:
+(..)
+Ocorre que auxílio-acidente não se confunde com auxílio-suplementar, pois, conforme já anotado, desde a Lei 6.367/76 já existiam ambos os benefícios, sendo que era concedido auxílio-acidente quando o segurado que não podia exercer a sua atividade habitual, enquanto que o auxílio-suplementar era concedido àqueles que podiam exercer sua atividade habitual, mas com redução da capacidade. Tanto que o auxílio-suplementar era previsto no artigo 9º da Lei 6.367/76 (acima transcrito), enquanto que o auxílio-acidente era previsto no artigo 6º da mesma lei, in verbis:
+(..)
+Vale lembrar, outrossim, que o percentual do auxílio-acidente era de 40% do salários-de-benefício, enquanto que o percentual do auxílio-suplementar era de 20% do salário-de-benefício.
+Com efeito, o auxílio-suplementar concedido ao requerido não se confundia com o auxílio-acidente, pois tinham disciplinas legais distintas na época de sua concessão.
+Quanto à aplicação das regras atuais do auxílio-acidente para os benefícios anteriores da Lei 6.367/76, traz-se à colação os seguintes arrestos firmados no Excelso Pretório, determinando sua impossibilidade:
+(..)
+Assim, se esta E. Corte vier a entender que podem ser aplicadas as regras atuais do auxílio-acidente ao auxílio-suplementar, deverá, para fins de PREQUESTIONAMENTO, expressamente se manifestar sobre a aplicação do artigo 195, § 5º, da Constituição Federal, demonstrando a fonte de custeio para suportar a dívida que o Poder Judiciário está criando com a extensão das regras e da renda (aumento de 20% para 50% do salário-de-benefício) de um benefício a outro, in verbis:
+(..)
+Com efeito, fica demonstrada a impossibilidade da cumulação do benefício do requerido, auxílio-suplementar, com a aposentadoria que passou a receber em 1995.
+Assim, a r. decisão monocrática proferida no Recurso Especial nº 1.593.115 - SP (2016/0075754-7) pelo Ministro Dr. Sérgio Kukina, da 1ª Turma do E. STJ, merece ser rescindida, por força do artigo 966, inciso V, do Código de Processo Civil, haja vista que tal decisão rescindenda violou manifestamente a norma jurídica insculpida no parágrafo único do artigo 9º da Lei nº 6.367/76.
+Caso o entendimento desta E. Corte seja diferente, que se manifeste expressamente acerca do artigo 195, §5º, da CF para fins de prequestionamento.
+(..)
+O Novo CPC autoriza expressamente a tutela provisória em ações rescisórias, conforme artigo 969 do CPC, litteris:
+(..)
+No caso em tela, estão demonstrados os requisitos para a concessão da tutela de urgência previstos no artigo 300 do CPC, quais sejam, a existência de "elementos que evidenciem a probabilidade do direito" e "o perigo de dano" pela demora na não concessão imediata da tutela de urgência. A seguir, o art. 300 do CPC, litteris:
+(..)
+Além da existência dos requisitos legais, o óbice pela "irreversibilidade da medida" não está presente no caso em tela.
+Vejamos.
+(..)
+Há prova cabal de que o requerente foi condenado contra legem a restabelecer o benefício auxílio-suplementar, pois o requerido recebe aposentadoria desde 1995, existindo, inclusive, trânsito em julgado da decisão rescindenda, estando o processo de origem em fase de execução.
+Como a "probabilidade do Direito" diz respeito à causa de pedir nesta ação rescisória, sendo a causa de pedir remota a existência de condenação e a causa de pedir próxima o fato de essa condenação fundar-se em "violação manifesta de norma jurídica", ficaram ambas demonstradas na fundamentação acima.
+(..)
+Já o perigo de dano existe no fato de que, em sendo cumprido, desde já, o dispositivo da decisão rescindenda, haverá para a Autarquia-requerente dano irreparável e seu consequente agravamento, uma vez que a execução já está em andamento, com a determinação para se restabelecer o benefício e apresentar o cálculo dos atrasados.
+O requerido, que teve sua hipossuficiência reconhecida ao ser agraciado com os benefícios da Justiça Gratuita, não será capaz, com certeza, de restituir ao erário público os valores que eventualmente venha a receber do benefício restabelecido e do levantamento dos atrasados, se vier a levantá-los antes de esta ação rescisória ser julgada definitivamente.
+Ora, os valores que serão pagos indevidamente ao requerido sairão dos cofres públicos, pagos com o dinheiro de toda a coletividade. O Poder Judiciário não pode ser conivente com esta situação, entregando antecipadamente dinheiro pertencente a toda coletividade a um particular contra expressa determinação legal!
+Assim, demonstrado está o perigo de dano caso esse E. Tribunal não conceda a tutela provisória a esta ação rescisória, determinando a imediata suspensão da execução que está em trâmite no processo nº 0009725-97.2010.826.0281 da 2ª Vara Cível da Comarca de Itatiba/SP, inclusive quanto à obrigação de restabelecer/manter o benefício de Auxílio Suplementar.
+(..)
+Há de ser considerado, finalmente, que a tutela de urgência para suspensão dos efeitos da decisão rescindenda poderá ser reversível, afastando-se, assim, o óbice previsto no parágrafo 3º do artigo 300 do CPC, litteris:
+(..)
+Não custa lembrar que o auxílio-suplementar do requerido está cancelado desde 19962, ou seja, ele sobrevive há 20 anos sem o valor desse benefício.
+Por todo exposto, estando presentes os requisitos do artigo 300 do CPC para conceder a tutela provisória nesta ação rescisória, e afastado o óbice do § 3º do dispositivo legal, impõe-se o quanto antes possível seja determinada a suspensão da execução que tramita no processo nº 0009725-97.2010.826.0281 da 2ª Vara Cível da Comarca de Itatiba/SP, inclusive quanto à obrigação de restabelecer/manter o benefício de Auxílio Suplementar.
+Destarte, de acordo com os argumentos supra tratados, verifica-se que a decisão monocrática prolatada no Recurso Especial nº 1.593.115 - SP (2016/0075754-7) pelo Ministro Dr. Sérgio Kukina, da 1ª Turma do E. STJ, violou manifestamente a norma jurídica insculpida no parágrafo único do artigo 9º da Lei nº 6.367/76 ao autorizar que o requerido cumulasse auxílio-suplementar com aposentadoria e, por conta disso, deve ser rescindia por força do artigo 966, inciso V, do Código de Processo Civil" (fls. 02/13e).
+Requer, por fim:
+"a) que, rescindida a decisão monocrática em questão, seja prolatada nova decisão, negando provimento ao Recurso Especial do requerido para manter a improcedência do pedido feito no processo 0009725-97.2010.826.0281, em trâmite na 2ª Vara Cível da Comarca de Itatiba/SP;
+b) que seja concedida tutela provisória para determinar a imediata suspensão da execução do dispositivo da decisão rescindenda, dado o perigo de dano irreparável e a presença dos requisitos do artigo 300 do CPC, oficiando-se ao I. Juízo da 2ª Vara Cível da Comarca de Itatiba/SP, nos autos do processo 0009725-97.2010.826.0281, da suspensão deferida;
+c) a citação do requerido, no endereço prefaciado, para que venha responder aos precisos termos da presente ação, sob pena de sofrer os efeitos da revelia;
+d) a isenção do depósito referido no inciso II do art. 968 do CPC, haja vista que o INSS é uma Autarquia Federal e como tal está dispensado do depósito.
+Pede-se, ainda, a manifestação expressa acerca do artigo 195, §5º, da Constituição Federal para fins de prequestionamento, caso seja necessária a interposição futura de Recurso Extraordinário.
+Por fim, pugna provar o alegado por todos os meios de provas em direito admitidos" (fl. 13e).
+A ação rescisória, ora em análise, está fundamentada no art. 966, V, do CPC/2015, que dispõe, expressamente:
+"Art. 966. A decisão de mérito, transitada em julgado, pode ser rescindida quando:
+(..)
+V - violar manifestamente norma jurídica".
+O art. 969 do CPC/2015, de seu lado, determina:
+"Art. 969. A propositura da ação rescisória não impede o cumprimento da decisão rescindenda, ressalvada a concessão de tutela provisória".
+Conforme indicam os referidos dispositivos, a ação rescisória é medida excepcional, e, nessa linha, o seu ajuizamento não impede o cumprimento da decisão rescindenda, ressalvada a concessão de tutela provisória.
+Por sua vez, a tutela de provisória, ou de urgência, será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo, conforme estabelece o art. 300 do CPC/2015:
+"Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+§ 1º Para a concessão da tutela de urgência, o juiz pode, conforme o caso, exigir caução real ou fidejussória idônea para ressarcir os danos que a outra parte possa vir a sofrer, podendo a caução ser dispensada se a parte economicamente hipossuficiente não puder oferecê-la.
+§ 2º A tutela de urgência pode ser concedida liminarmente ou após justificação prévia.
+§ 3º A tutela de urgência de natureza antecipada não será concedida quando houver perigo de irreversibilidade dos efeitos da decisão".
+Na espécie, a decisão rescindenda fundamentou-se na jurisprudência do STJ, firmada no julgamento do REsp 1.296.673/MG, submetido ao rito do art. 543-C do CPC/73, no sentido de que "a acumulação do auxílio-acidente com proventos de aposentadoria pressupõe que a eclosão da lesão incapacitante, ensejadora do direito ao auxílio-acidente, e o início da aposentadoria sejam anteriores à alteração do art. 86, §§ 2º e 3º, da Lei 8.213/1991 ("§ 2º O auxílio-acidente será devido a partir do dia seguinte ao da cessação do auxílio-doença, independentemente de qualquer remuneração ou rendimento auferido pelo acidentado, vedada sua acumulação com qualquer aposentadoria; § 3º O recebimento de salário ou concessão de outro benefício, exceto de aposentadoria, observado o disposto no § 5º, não prejudicará a continuidade do recebimento do auxílio-acidente."), promovida em 11.11.1997 pela Medida Provisória 1.596-14/1997, que posteriormente foi convertida na Lei 9.528/1997".
+Outrossim, tem prevalecido o entendimento de que o auxílio-suplementar, previsto na Lei 6.367/1976, foi incorporado pelo auxílio-acidente, após o advento da Lei 8.213/1991. Nesse sentido, confira-se, por ilustrativo, o seguinte precedente:
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUXÍLIO-SUPLEMENTAR. CUMULAÇÃO COM APOSENTADORIA. CASO CONCRETO. POSSIBILIDADE.
+1. O auxílio-suplementar, previsto na Lei 6.367/1976, foi incorporado pelo auxílio-acidente após o advento da Lei 8.213/1991.
+2. No julgamento do Recurso Especial Repetitivo 1.296.673/MG de Relatoria do Ministro Herman Benjamin, a Primeira Seção do Superior Tribunal de Justiça consolidou entendimento de que a cumulação de auxílio-acidente com aposentadoria é possível, desde que a eclosão da lesão incapacitante e a concessão da aposentadoria tenham ocorrido antes de 11/11/1997, data de edição da Medida Provisória 1.596-14/97, posteriormente convertida na Lei 9.528/1997.
+3. Consoante se verifica do acórdão proferido pelo Tribunal a quo, a concessão da aposentadoria se deu em data anterior à edição da Lei 9.528/1997.
+4. Agravo interno desprovido" (STJ, AgInt no REsp 1.566.876/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 16/06/2017).
+A propósito, destacou a decisão rescindenda que, na forma do julgamento repetitivo acima referido, firmou-se "a compreensão no sentido de que é possível a cumulação dos benefícios de auxílio-suplementar (auxílio-acidente) com aposentadoria, desde que a eclosão da lesão incapacitante, ensejadora do direito ao auxílio-acidente, e também o início da aposentadoria sejam anteriores à alteração do art. 86, §§ 2º e 3º, da Lei 8.213/91" (fl. 184e), hipótese configurada no caso concreto, porquanto "a eclosão da moléstia é anterior ao marco legal acima exposto (fl. 120), bem como a aposentadoria, pois como se depreende dos autos, esta se efetivou em 1995 (fl. 68), de forma que fica viabilizada a cumulação dos benefícios" (fl. 184e).
+Nesse contexto, considerando que o referido julgamento (REsp 1.296.673/MG), submetido ao rito dos repetitivos, permanece inalterado, nesta Corte, e, ainda, considerando o entendimento de que o auxílio-suplementar, previsto na Lei 6.367/1976, foi incorporado pelo auxílio-acidente, após o advento da Lei 8.213/1991, não restou evidenciada, ao menos num juízo provisório, a probabilidade do direito, a justificar a tutela de urgência, para suspender a eficácia do julgamento rescindendo, fundamentado, repita-se, no entendimento uniformizado desta Corte.
+Ante o exposto, com fundamento no juízo provisório acima explicitado, indefiro o pedido de tutela de urgência.
+Após as providências de praxe, voltem-me conclusos.
+I.
