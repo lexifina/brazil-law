@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de EDINEI PEDROSO DE MORAES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Consta dos autos que, em primeiro grau, o paciente foi absolvido das imputações relativas à prática dos delitos positivados nos arts. 33 e 35, ambos da Lei n. 11.343/2006.
+Interposta apelação ministerial, foi o recurso provido para condenar o réu pelo delito descrito no art. 33, caput, da Lei n. 11.343/2006, às penas de 6 anos de reclusão e 600 dias-multa, mantida a absolvição quanto ao crime de associação para o tráfico.
+Opostos embargos de declaração pela defesa, foram rejeitados.
+Neste writ, requer o impetrante a absolvição do réu, ao fundamento de que a única prova produzida é ilícita, pois os suplicantes não se encontravam no local onde a substância entorpecente supostamente fora encontrada e, ainda que estivessem, inexistia ordem judicial fundamentada para busca domiciliar (fl. 2).
+Pugna, ainda, pela aplicabilidade da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, bem como pelo abrandamento do regime prisional.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+É o relatório.
+DECIDO.
+Quanto à ilicitude da prova, observo que o pleito não foi objeto de análise pelo Tribunal a quo, seja por ocasião do julgamento da apelação ministerial, ou dos embargos de declaração defensivos, impedindo-se, assim, que esta Corte inaugure a discussão da questão, sob pena de incorrer em indevida supressão de instância. Neste sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006 E REGIME PRISIONAL. TEMAS NÃO DEBATIDOS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. APELO EM LIBERDADE. RÉ QUE RESPONDEU AO FEITO ENCARCERADA. GARANTIA DA ORDEM PÚBLICA. QUANTIDADE, NATUREZA E DIVERSIDADE DA DROGA. FUNDAMENTO VÁLIDO. MANIFESTA ILEGALIDADE NÃO VERIFICADA. ORDEM NÃO CONHECIDA.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. Os pleitos referentes à dosimetria da pena e à alteração do regime prisional não foram objetos de exame no acórdão impugnado, o que impede esta Corte de conhecê-los, sob pena de indevida supressão de um grau de jurisdição. Precedentes.
+(..)
+6. Habeas corpus não conhecido.
+(HC 432.171/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+Relativamente à inaplicabilidade da causa especial de diminuição de pena (§ 4º do art. 33 da Lei 11.343/06), o Tribunal de origem assim se pronunciou:
+Não há campo para a redução das penas nos termos do artigo 33, § 4.º, da Lei n.º 11.343/2006. Isso porque o preceito admite atenuação da pena para réus, ainda que primários, que não ostentem periculosidade maior. E o acusado revela acentuada periculosidade, na medida em que estava envolvido com tráfico de larga escala, o que se verifica pela quantidade de drogas que tinha em depósito. Na aplicação do preceito o Juiz há de verificar, também, a culpabilidade do agente e as circunstâncias do crime, sem o que estará ferindo o princípio da individualização da pena. (fl. 129).
+
+De início, cumpre esclarecer que é pacífico o entendimento nesta Corte Superior de que a quantidade e/ou a natureza da droga podem justificar a não aplicação da minorante prevista no art. 4º do art. 33 da Lei 11.343/2006, quando evidenciarem a dedicação à atividade criminosa.
+A propósito, o HC 376.634/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2016, DJe 01/02/2017, no qual destacou-se que Esta Corte Superior tem decidido que a quantidade, a variedade e a nocividade da droga, bem como as circunstâncias nas quais foi apreendida, são elementos que evidenciam a dedicação do réu à atividade criminosa e, em decorrência, podem embasar o não reconhecimento da minorante do § 4º do art. 33 da Lei n. 11.343/2006.
+É exatamente o que ocorre na espécie, em que o Tribunal de origem negou a aplicação do benefício em virtude das circunstâncias do caso - em especial, a quantidade das drogas apreendidas (57,8 kg de maconha e 4,8 kg de cocaína) -, as quais evidenciariam o não preenchimento dos requisitos legais, concluindo tratar-se de réu inserido em atividade criminosa, sendo que a pretendida revisão do julgado implicaria o reexame do material cognitivo produzido nos autos, insuscetível de ser realizada na estreita via do habeas corpus.
+Nesse sentido, o HC 158.918/RJ, de relatoria da em. Ministra LAURITA VAZ, no qual se consignou que, Não preenchidos os requisitos legais, conforme atestou o acórdão impugnado, o qual, de acordo com a prova produzida nos autos, afirmou tratar-se de réu que se dedicava às atividades criminosas, havendo indícios, inclusive, de que integrava organização criminosa, não faz jus o Paciente à aplicação da minorante inserta no § 4.º do art. 33 da Lei 11.343/06. Ademais, a via eleita é imprópria para o afastamento do entendimento adotado pela instância ordinária, em face da incabível dilação probatória que se faria necessária para reconhecer a presença dos requisitos subjetivos exigidos.
+No que concerne à imposição do regime inicial fechado, trago à colação o seguinte excerto extraído do acórdão ora impugnado:
+O regime para o tráfico ilícito de entorpecentes é o inicial fechado, seja porque estipulado em lei, seja porque o acusado é perigoso e sua conduta iria disseminar o tráfico em larga escala na região (fl. 130).
+Com efeito, tem-se que a escolha do regime prisional fechado encontra-se devidamente justificada na larga escala com que o delito estava sendo cometido - 57,8 kg de maconha e 4,8 kg de cocaína - o que, nos termos da jurisprudência desta Corte superior, constitui motivo apto a fundamentar o modo prisional mais gravoso. Nesse mesmo sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. RÉU QUE SE DEDICA A ATIVIDADES CRIMINOSAS. ALTERAÇÃO DESSE ENTENDIMENTO. REEXAME DE PROVAS. REGIME PRISIONAL. NATUREZA E QUANTIDADE DA DROGA APREENDIDA. MODO FECHADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. WRIT NÃO CONHECIDO.
+ ..
+4. Na identificação do modo inicial de cumprimento de pena, o magistrado deve observar às regras estabelecidas no art. 33 do Código Penal e, no caso de condenado pelo delito de tráfico de drogas, também o art. 42 da Lei de Drogas.
+5. Embora o paciente seja primário e a pena aplicada seja de 5 anos de reclusão, revela-se correta a imposição do regime inicial fechado, diante da quantidade e da natureza das drogas apreendidas, nos termos do art. 33, § 3º, do Código Penal e art. 42 da Lei n. 11.343/2006, como posto no acórdão impugnado. (Precedente).
+6. Habeas corpus não conhecido.
+(HC 380.991/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/03/2017, DJe 22/03/2017)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
