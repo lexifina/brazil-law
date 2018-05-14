@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, na vigência do CPC/73, com base na alínea a do permissivo constitucional, em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"TRIBUTÁRIO. AÇÃO ORDINÁRIA. ARROLAMENTO ADMINISTRATIVO DE BENS. LEI Nº 9.532/97. ALIENAÇÃO DE BEM GRAVADO. MANUTENÇÃO DO ARROLAMENTO MESMO APÓS TRANSFERÊNCIA. INVIABILIDADE. SUCUMBÊNCIA. PRETENSÃO RESISTIDA.
+1. O arrolamento administrativo de bens tem como único escopo possibilitar ao Fisco o acompanhamento da evolução patrimonial do contribuinte, bem assim o monitoramento das alterações desse patrimônio, a fim de averiguar se ele está se desfazendo de seus bens como forma de elidir o pagamento da dívida, hipótese em que deverão ser adotadas medidas cabíveis.
+2. Em momento algum, é imposto gravame sobre os bens arrolados que deva acompanhá-los em sucessivas transferências de domínio. Não há qualquer restrição à sua utilização, oneração ou alienação, podendo o proprietário deles dispor livremente, desde que dê ciência ao Fisco da respectiva movimentação. O descumprimento da formalidade de comunicação prevista no § 3º do art. 64, da Lei n.º 9.532/97, autoriza o Fisco a requerer medida cautelar fiscal, a teor do seu § 4º, e há possibilidade de indicação dos bens arrolados como garantia em eventual execução fiscal.
+3. A pretensão de manutenção da anotação restritiva, mesmo após a transferência do bem, a fim de resguardar os interesses do Fisco e de terceiros, não encontra respaldo legal. A Lei prevê expressamente que o arrolamento não implica restrição ao direito de propriedade, inexistindo impedimento legal à venda, de forma que não há como subsistir o registro da restrição, em prejuízo ao terceiro adquirente.
+4. A jurisprudência também qualifica a resistência indevida da ré como causa à indenização das custas e do pagamento dos honorários advocatícios por conta do desenvolvimento de uma demanda que poderia ser obstada ab initio" (fl. 283e).
+Alega-se ofensa ao art. 64 da Lei 9.532/97, sustentando, em síntese, que é incabível o cancelamento do arrolamento dos bens, no caso dos autos, eis que a legislação prevê que o registro do arrolamento será cancelado apenas após liquidado ou garantido o débito que lhe deu origem, e, portanto, não pode a Administração ser obrigada a liberar o registro de arrolamento em face da alienação do bem (fls. 291/296e).
+Apresentadas as contrarrazões (fl. 304e), o Recurso Especial foi admitido (fl. 307e).
+O presente recurso não merece prosperar.
+Cinge-se a controvérsia dos autos em discutir a permanência da averbação do ato de arrolamento de bem imóvel no registro de imóveis, após a alienação pelo devedor tributário.
+Com efeito, o tema foi discutido nesse colendo Superior Tribunal de Justiça, tendo sido firmado o entendimento no sentido de que devem ser anulados os efeitos do arrolamento administrativo de bem imóvel regularmente adquirido do devedor tributário.
+Nesse sentido:
+"ADMINISTRATIVO E TRIBUTÁRIO. RECURSO ESPECIAL. AÇÃO ANULATÓRIA. ARROLAMENTO DE BENS E DIREITOS. ARTIGO 64 DA LEI N. 9.532/1997. ALIENAÇÃO DE BEM IMÓVEL ARROLADO. ANULAÇÃO DOS EFEITOS DO ATO DE ARROLAMENTO.
+1. Recurso especial no qual se discute a permanência da averbação do ato de arrolamento de bem imóvel no registro de imóveis após a alienação pelo devedor tributário.
+2. O bem imóvel regularmente adquirido do devedor tributário não mais pode constar de arrolamento administrativo, razão pela qual devem ser anulados seus efeitos, pois não mais poderá servir de garantia à satisfação do crédito tributário.
+3. Recurso especial não provido" (STJ, REsp 1.532.348/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 10/11/2015).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+I.
