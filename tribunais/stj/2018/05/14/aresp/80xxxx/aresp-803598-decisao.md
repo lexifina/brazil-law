@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo (art. 544 do CPC/1973) interposto por OI S/A, contra a decisão de fls. 218-226, que amparada no art. art. 543-C, § 7º, I, do CPC/73 (art. 1.030, incisos V e I, alínea b, do NCPC), denegou o recurso especial, tendo em vista o REsp n. 1.373.438/RS, e negou-lhe seguimento quanto às demais questões.
+O apelo extremo manejado com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, desafiou acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 92-93):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATOS DE PARTICIPAÇÃO FINANCEIRA. BRASIL TELECOM S.A. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PARÂMETRO DE CONVERSÃO DO SALDO ACIONÁRIO EM PERDAS E DANOS. VALOR PATRIMONIAL DA AÇÃO FIXADO APÓS A CISÃO. JUROS SOBRE CAPITAL PRÓPRIO DEVIDOS. JUROS
+DE MORA SOBRE DIVIDENDOS. TERMO INICIAL. CITAÇÃO.
+1. Cotação das ações da telefonia celular. Quando, para a conversão das ações da Celular CRT Participações S/A em pecúnia, o título executivo determinar a utilização do valor patrimonial estabelecido na primeira Assembléia Geral realizada após a cisão, aplica-se a quantia de R$ 0,107643. justifica-se sua adoção por refletir o resultado da divisão do patrimônio líquido da companhia pelo respectivo número de ações na data da cisão, atendendo, com maior precisão, ao parâmetro transitado em julgado. Precedentes. Inaplicabilidade do valor de R$ 0,044209.
+2. juros sobre capital próprio. Considerando que os juros sobre capital próprio encontram fundamento em parte da sentença que não foi substituída por pronunciamento de órgão jurisdicional superior, não se justifica a sua exclusão do montante condenatório, porquanto parcelas devidamente estabelecidas no título que aparelha a execução.
+3. juros de mora sobre dividendos. Considerando que o titulo em execução estabeleceu, com clareza inequívoca, que os juros de mora sobre os dividendos contam-se da citação, sem fazer:  qualquer ressalva quanto à forma .de seu cômputo sobre parcelas vincendas, não há como abrir espaço, em sede de cumprimento de sentença, para inovações em seu cálculo, sob pena de agressão à coisa julgada. Ademais, de acordo com o entendimento jurisprudencial firmado no STJ (REsp nº 1.301.989/RS), o marco inicial para o cômputo dos juros de mora sobre dividendos é, em regra, a data da citação, inclusive com relação às parcelas vencidas após
+a angularização da demanda.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.
+Embargos declaratórios rejeitados às fls. 144-151.
+Nas razões do recurso especial (fls. 155-182), a recorrente apontou, além de dissídio jurisprudencial, violação dos artigos 467, 468, 471, 473, 474, 475-G e 535, II, do Código de Processo Civil de 1973.
+Apontou a) negativa de prestação jurisdicional, tendo em vista que o acórdão não se manifestou sobre pontos essenciais ao deslinde da controvérsia; e b) violação à coisa julgada, argumentando, em suma, que é indevida a inclusão da parcela referente aos dividendos, pois tal verba não estaria prevista no título executivo.
+Houve contrarrazões (fls. 210-216).
+Em juízo provisório de admissibilidade (fls. 218-226), negou-se trânsito ao reclamo com fundamento nas Súmulas 7/STJ, 211/STJ e 284/STF.
+Nas razões de agravo, a agravante reitera os fundamentos do apelo especial, bem como defende o preenchimento dos pressupostos genéricos de admissibilidade recursal.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Inicialmente, quanto à violação do art. 535, II, do CPC/73 e art. 1.022 do NCPC, não assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia. (Precedentes: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01/09/2011, DJe 06/09/2011; REsp 1.264.044/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 01/09/2011, DJe 08/09/2011; AgRg nos EDcl no Ag 1.304.733/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23/08/2011, DJe 31/08/2011; AgRg no REsp 1.245.079/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/08/2011, DJe 19/08/2011; e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09/08/2011, DJe 22/08/2011).
+2. A decisão que denegou o recurso especial na origem realizou juízo de conformidade entre o caso concreto e a tese firmada no âmbito desta Corte superior que, ao julgar os Temas 669, 670 e 873 por meio da sistemática dos recursos repetitivos (art. 543-C do CPC/1973), firmou a seguinte tese:
+COMERCIAL E PROCESSUAL CIVIL. TELECOM. CRT. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO DE AÇÕES. DIFERENÇA. PRESCRIÇÃO. DIREITO PESSOAL. DIVIDENDOS. ARTS. 177 DO CC/1916, 205 E 2.028 DO CC/2002. VALOR PATRIMONIAL DA AÇÃO. APURAÇÃO. CRITÉRIO. BALANCETE DO MÊS DA INTEGRALIZAÇÃO. RECURSO ESPECIAL REPETITIVO. LEI N. 11.672/2008. RESOLUÇÃO/STJ N. 8, DE 07.08.2008. APLICAÇÃO.
+I. Nas demandas em que se discute o direito à complementação de ações em face do descumprimento de contrato de participação financeira firmado com sociedade anônima, a pretensão é de natureza pessoal e prescreve nos prazos previstos no artigo 177 do Código Civil revogado e artigos 205 e 2.028 do Novo Código Civil.
+II. A complementação buscada pelos adquirentes de linha telefônica mediante contrato de participação financeira, deve tomar como referência o valor patrimonial da ação apurado com base no balancete do mês da respectiva integralização (REsp n. 975.834/RS, Rel. Min. Hélio Quaglia Barbosa, unânime, DJU de 26.11.2007).
+III. Julgamento afetado à 2ª Seção com base no procedimento da Lei n.11.672/2008 e Resolução n. 8/2008 (Lei de Recursos Repetitivos).
+IV. Recurso especial conhecido em parte e provido.
+(REsp 1.033.241/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe 05/11/2008).
+Conforme a sistemática dos recursos repetitivos, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir o juízo de conformidade do caso concreto ao precedente formado em repetitivo, não sendo possível, daí em diante, a apresentação de qualquer outro recurso dirigido a este STJ a fim de rediscutir esse ponto, sob pena de tornar-se ineficaz o propósito racionalizador implantando pela Lei 11.672/2008.
+3. Por fim, a questão, como trazida no recurso especial a respeito do suposto enriquecimento ilícito no pagamento da diferença acionária apurada, não foi objeto de discussão no acórdão local, o que atrai a incidência da Súmula 282 do STF.
+4. Diante do exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
