@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE APOSENTADORIA COMPLEMENTAR. PREVIDÊNCIA PRIVADA. FUNCEF. PRELIMINARES: ILEGITIMIDADE PASSIVA E DENUNCIAÇÃO À LIDE. REJEITADAS. AUSÊNCIA DE VINCULAÇÃO ENTRE A ASSOCIADA E A PATROCINADORA. ENTENDIMENTO DO STJ. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. PRELIMINAR QUE SE CONFUNDE COM O MÉRITO. PREJUDICIAL DE MÉRITO: PRESCRIÇÃO QUINQUENAL QUE NÃO ALCANÇA O FUNDO DE DIREITO. MÉRITO: RECONHECIMENTO NA JUSTIÇA DO TRABALHO DO DIREITO À INCORPORAÇÃO DE VERBAS DENOMINADAS “FUNÇÃO DE CONFIANÇA” NA REMUNERAÇÃO. PREVISÃO NO REGULAMENTO DO PLANO DE BENEFÍCIOS. VERBA DE CARÁTER REMUNERATÓRIO. VANTAGEM QUE REPERCUTE NO CÁLCULO DOS PROVENTOS. REVISÃO DA BASE DE CÁLCULO DA APOSENTADORIA. PEDIDO DE RECÁLCULO DO BENEFÍCIO PROCEDENTE. PRECEDENTES JURISPRUDENCIAIS. RECURSO CONHECIDO E DESPROVIDO.” (pág. 41 do documento eletrônico 4).
+     Neste RE, fundado no art. 102, III, a , da Constituição, sustenta-se, em suma, violação aos arts. 195, § 5° e 202, caput, da mesma Carta. Aduz a recorrente que
+    “Fica, assim, patenteado que o acórdão local atenta contra a Constituição Federal, pois desconsidera regras de atuária a que devem, obrigatoriamente se submeter às entidades de previdência privada, sem as quais nenhuma delas teriam condições de sobrevivência, pelo que requer seja reconhecida a afronta suscitada, extirpando a violação legal do julgado em comento, deferindo-se a necessária formação da fonte de custeio, na forma como pleiteada pela Recorrente”. (pág. 96 do documento eletrônico 5).
+    O presente recurso perdeu o objeto.
+    Verifico que o Superior Tribunal de Justiça - STJ – ao julgar o agravo interno interposto no REsp 1.598.267 - SE, reconsiderou a decisão anterior para dar parcial provimento ao recurso especial e julgar improcedente a pretensão formulada na inicial. (pág. 68 do documento eletrônico 8).
+    Contra essa decisão foram opostos embargos de declaração, que foram rejeitados (pág. 107 do documento eletrônico 8). Do acórdão nos embargos de declaração, foi interposto agravo interno, ao qual se negou provimento (pág. 139 do documento eletrônico 8). Em face dessa negativa de provimento, a ora recorrida opôs novos embargos de declaração que também foram rejeitados (pág. 165 do documento eletrônico 8).
+    Referida decisão transitou em julgado em 8/5/2018, conforme certidão à pág. 168 do documento eletrônico 8. Decorre daí a superveniente perda de objeto deste recurso extraordinário.
+    Isso posto, julgo prejudicado o recurso (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 14 de maio de 2018.
+Ministro Ricardo Lewandowski
+Relator
