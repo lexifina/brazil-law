@@ -1,0 +1,26 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Sexta Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “TRIBUTÁRIO - EMBARGOS À EXECUÇÃO - IPTU - AUSÊNCIA DE REGISTRO NO CARTÓRIO DE IMÓVEIS LEGITIMIDADE DO INSTITUTO NACIONAL DE SEGURO SOCIAL (INSS) - EXIGÊNCIA DE IMPOSTO MUNICIPAL - IMPOSSIBILIDADE.
+    1. Ausência de comprovação da efetiva transferência da propriedade pela União, mediante a outorga da escritura definitiva.
+    2. O artigo 1.245, § 1º, do Código Civil: ‘Enquanto não se registrar o título translativo, o alienante continua a ser havido como dono do imóvel’.
+    3. O INSS goza do benefício da imunidade tributária recíproca. É vetada a exigência de imposto municipal. Precedentes do STF.
+    4. Apelação improvida”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 150, VI, a, da CF. Sustenta que a imunidade recíproca, prevista no referido artigo do texto constitucional, não alcança todas as pessoas jurídicas criadas pelos entes federados. Afirma que em seu § 2º, o próprio artigo delimita o alcance da imunidade que prevê.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[...]
+    O E. Supremo Tribunal Federal já decidiu que a análise da destinação do imóvel de propriedade do INSS, para fim de aferição da imunidade tributária recíproca, consiste em tema probatório que não pode ser objeto de recurso extraordinário. Ademais, no caso, a presunção incide em favor do contribuinte - qual seja, o próprio INSS […].
+     Por tais fundamentos, NÃO ADMITO o recurso extraordinário”.
+          A pretensão recursal não merece prosperar. Para dissentir das conclusões do acórdão recorrido, seria necessário o reexame de fatos e provas, fazendo incidir a Súmula 279/STF. A decisão está alinhada com o entendimento do Supremo Tribunal Federal (STF) no sentido de que a imunidade prevista no art. 150, VI, a, da Constituição Federal, é estendida às Autarquias. Nessa linha, vejam-se os seguintes julgados:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. IPTU. IMUNIDADE. INCIDÊNCIA DA SÚMULA 279 DESTA NOSSA CORTE. EXTENSÃO ÀS AUTARQUIAS. ALÍNEA ‘A’ DO INCISO VI DO ART. 150 DA MAGNA CARTA DE 1988. PRECEDENTES. SÚMULA 724 do STF.
+    1. A imunidade tributária recíproca dos entes políticos, prevista na alínea ‘a’ do inciso VI do art. 150 da Constituição Republicana, ‘é extensiva às autarquias, no que se refere ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou às delas decorrentes’. Precedentes: AI 495.774-AgR, da relatoria do ministro Sepúlveda Pertence; bem como os REs 212.370-AgR, da relatoria do ministro Sepúlveda Pertence; e 220.201, da relatoria do ministro Moreira Alves.
+    2. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria o reexame dos fatos e provas constantes dos autos. Providência vedada na instância extraordinária.
+    3. Aplicação das súmulas 279 e 724 do STF.
+    4. Agravo regimental desprovido.” (AI 744.269-AgR, Rel. Min. Ayres Britto)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMUNIDADE RECÍPROCA. AUTARQUIA. IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA - IPTU. VINCULAÇÃO DO IMÓVEL ÀS FINALIDADES ESSENCIAIS. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 378.136-AgR, Relª. Minª. Cármen Lúcia)
+     Ademais, a jurisprudência do STF entende que não cabe à entidade demonstrar que utiliza o bem de acordo com suas finalidades institucionais. Ao contrário, compete à Administração tributária demonstrar a eventual tredestinação do bem gravado pela imunidade. Confira-se o julgado:
+    “Agravo regimental no recurso extraordinário. Tributário. IPTU. Imunidade recíproca. Autarquia. Natureza da atividade. Destinação dos imóveis. Necessidade de reexame da legislação infraconstitucional e do conjunto fático-probatório. Ofensa constitucional indireta ou reflexa. Súmula n° 279/STF. Ônus da prova. 1. O Tribunal de origem, com base no conjunto fático-probatório da causa e no Decreto nº 2.013/96, decidiu que a agravada goza de imunidade tributária recíproca, em razão de ela ser autarquia que não desempenha atividade econômica e de seus imóveis estarem vinculados a suas finalidades essenciais. Para ultrapassar esse entendimento, seria necessário o reexame da legislação infraconstitucional e dos fatos e das provas dos autos, o que não é cabível em sede de recuso extraordinário. Incidência da Súmula nº 279 da Corte. 2. A presunção de que os imóveis da entidade estão afetados a suas finalidades institucionais milita em favor da entidade. Cabe ao Fisco o ônus de elidir a presunção, mediante a constituição de prova em contrário. 3. Agravo regimental não provido.” (RE 871.039-AgR, Rel. Min. Dias Toffoli)
+    Diante do exposto, com base no art. 932, IV e VIII c/c o art. 1.042, § 5º do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso.
+    Publique-se.
+          Brasília, 14 de maio de 2018.
+Ministro Luís Roberto Barroso
+Relator
