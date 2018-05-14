@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Amazonas, assim ementado:
+"EMENTA: APELAÇÃO. AÇÃO ORDINÁRIA INDENIZATÓRIA DE DANOS MORAIS COM PEDIDO DE ANTECIPAÇÃO DA TUTELA. NOTICIA VEICULADA EM JORNAL. DEVER DE INFORMAR. EXERCÍCIO REGULAR DE DIREITO CONSTITUCIONALMENTE ASSEGURADO. AUSÊNCIA DE ABUSIVIDADE. MATÉRIA JORNALÍSTICA DE INTERESSE SOCIAL. 1. O animus narrandi exclui a culpa e ocorre quando a realização da reportagem tem conteúdo meramente informativo, procurando noticiar os fatos ou esclarecer o público a respeito de práticas nocivas, sem, contudo, enveredar na intimidade da vida privada do cidadão ou expor sua imagem, de forma sensacionalista. Tal exercício se mostra regular e legítimo, o que afasta a responsabilidade civil. 2. Precedentes do Superior Tribunal de Justiça."
+(e-STJ, fl. 756)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 802/806).
+Nas razões do recurso especial, o agravante alega violação dos arts. 17, 186, 927 e 944 do Código Civil, sustentando, em síntese, que: (a) experimentou graves danos morais em função de matéria jornalística irresponsável publicada pelo agravado, que denegriu profundamente sua imagem e honra perante a sociedade; (b) as informações colhidas perante a autoridade policial só poderiam ter sido divulgadas com a checagem prévia de sua veracidade ou após a conclusão do inquérito; (c) houve a condenação dos jornais Diário do Amazonas e do Jornal do Amazonas pela divulgação da mesma notícia, não se justificando decisões diversas para o mesmo caso, e (d) o valor da indenização deve ser arbitrado em proporção à gravidade do dano sofrido.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado nº 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O apelo nobre fundado na alínea "a" do permissivo constitucional requer, obrigatoriamente, que o recorrente particularize de forma inequívoca os dispositivos legais que entenda tenham sido contrariados ou aos quais o Tribunal de origem lhes tenha negado vigência, sob pena de se configurar fundamentação deficiente, inviabilizando a abertura da via especial.
+In casu, em relação à alegação de que houve a condenação dos jornais Diário do Amazonas e do Jornal do Amazonas pela divulgação da mesma notícia, não se justificando decisões diversas para o mesmo caso, o recorrente não se desincumbiu deste ônus, impedindo, por conseguinte, a exata compreensão da controvérsia a ser dirimida. Incide, assim, o óbice da Súmula 284/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. PENSÃO POR MORTE. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO À LEI FEDERAL. SÚMULA 284 DO STF. ALEGADA AFRONTA AO EQUILÍBRIO ATUARIAL. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA 211/STJ. RECURSO NÃO PROVIDO.
+1. Quanto ao tema relativo à alegada inaplicabilidade do CDC e inversão do ônus da prova, a parte recorrente não indica expressamente dispositivo de lei federal violado ou a que se tenha dado interpretação divergente pelo acórdão recorrido, circunstância que caracteriza a deficiência de fundamentação a inviabilizar a abertura da instância especial, atraindo a incidência da Súmula n. 284 do STF.
+(..)
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 719.546/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/02/2017, DJe 23/02/2017)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. QUEIMA DE CANA DE AÇÚCAR - REEXAME DE PROVA. SÚMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SUMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o enunciado da Súmula 284/STF.
+3. A admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano a violação do dispositivo legal pela decisão recorrida, a fim de demonstrar a vulneração existente, o que não ocorreu na hipótese da alegada violação ao art.
+38, § 4º, da Lei 12.651/12.
+4. Agravo regimental não provido". (AgRg no AREsp 721.287/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 27/08/2015)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ADMISSIBILIDADE. SÚMULA Nº 284/STF. INDICAÇÃO GENÉRICA DA LEI FEDERAL E AUSÊNCIA DE PARTICULARIZAÇÃO DO DISPOSITIVO LEGAL E DA NORMA LEGAL.  ..
+1. Considera-se deficiente de fundamentação o recurso especial que não indica quais dispositivos legais teriam sido violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, da Súmula nº 284/STF.  .. "
+(AgRg no REsp 793.488/RS, TERCEIRA TURMA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, julgado em 23/4/2013, DJe 2/5/2013)
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA.  ..  AUSÊNCIA DE INDICAÇÃO ESPECÍFICA DO DISPOSITIVO DE LEI FEDERAL QUE TERIA SIDO VIOLADO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO DESPROVIDO.
+1. O Recurso Especial encontra-se deficientemente fundamentado, porquanto a agravante não indicou expressamente quais dispositivos legais teriam sido contrariados pelo acórdão recorrido. Tal circunstância consubstancia deficiência na fundamentação recursal, motivo pelo qual não pode ser conhecido o Recurso Especial. Incide, por analogia, a Súmula 284 do STF.
+ .. "
+(AgRg no AREsp 272.161/MS, PRIMEIRA TURMA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, julgado em 19/3/2013, DJe 3/4/2013)
+"AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF.  ..
+1. Alegação genérica, sem a indicação incisiva do dispositivo, supostamente, ofendido, além de não atender à técnica própria de interposição do recurso especial, configura deficiência de fundamentação. Inteligência da Súmula 284/STF.
+ .. "
+(AgRg no Ag 1.363.434/PR, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 28/6/2011, DJe 1/7/2011).
+Na mesma direção: REsp 1.326.201/RJ, TERCEIRA TURMA, Rel. Ministra NANCY ANDRIGHI, julgado em 7/5/2013, DJe 16/5/2013; AgRg no AREsp 165.318/DF, QUARTA TURMA, Rel. Ministra MARIA ISABEL GALLOTTI, julgado em 19/3/2013, DJe 3/4/2013; AgRg no AREsp 278.349/RS, QUARTA TURMA, Rel. Ministro ANTONIO CARLOS FERREIRA, julgado em 2/4/2013, DJe 5/4/2013.
+Quanto à questão de fundo, trata-se na origem, de ação de indenização por danos morais em que a parte autora, ora recorrente, alega que, em 30 de outubro de 2003, fora alvo de matéria jornalística publicada pelo recorrido, o acusando de liderar perigosa quadrilha de assaltantes. Acrescenta que houve o arquivamento da representação criminal por falta de provas. Requer a indenização seja arbitrada em R$ 1.000.000,00 (e-STJ, fl. 757).
+O processo foi julgado improcedente em primeira e segunda instâncias.
+O Tribunal de origem, à luz dos elementos informativos constantes dos autos, em especial, da matéria jornalística publicada, concluiu que não se verifica nela qualquer ofensa à imagem do recorrente e que o apelado, enquanto agente da imprensa, não infringiu qualquer preceito legal, limitando-se a noticiar a ocorrência policial, matéria de interesse público. Confira-se:
+"Revelam os autos que [NOME] ajuizou ação indenizatória em face ao jornal A Crítica aduzindo que o apelado publicou em periódico notícia imputando-o a prática de assaltos em estabelecimentos comerciais.
+Argumenta que o fato é despido de veracidade e que houve a absolvição dessas acusações na esfera judicial criminal, razão pela qual afirma ser- lhe devido danos morais.
+Pois bem. Em que pesem as razões recursais, entendo que a sentença não merece reforma.
+Primeiramente, vale destacar que, para a configuração da responsabilidade civil, é necessária a presença dos seguintes requisitos: a existência do dano, o nexo de causalidade entre a conduta ilícita e o resultado lesivo e o elemento subjetivo, caracterizado pela existência de culpa ou dolo do agente, derivada de ato omissivo ou comissivo voluntário.
+Infere-se dos autos que o apelado publicou matéria em jornal (fls. 15) noticiando a prisão do apelado, por ele, em tese, chefiar uma quadrilha de assaltantes.
+Entretanto, da leitura atenta da matéria, não se verifica qualquer ofensa à imagem da apelante, a ensejar a pretendida reparação por dano moral.
+Neste cenário, o apelado, enquanto agente da imprensa, não infringiu qualquer preceito legal, limitando-se noticiar a ocorrência policial, matéria de interesse público. Em tal procedimento, não lançou mão de qualquer artifício capaz de denegrir a imagem do apelante, como acréscimo de informações sem respaldo na realidade, ou emissão de juízo de valor.
+Destarte, não foi demonstrado que a conduta do apelado ensejou o direito à indenização por danos morais. Sobre o tema, vale trazer à colação, posicionamento do Superior Tribunal de Justiça, verbis:
+(..)
+Ante todo o exposto, em decorrência da presença dos pressupostos de admissibilidade recursal, voto pelo conhecimento do recurso e, quanto ao mérito, nego provimento para efeito de manter íntegra a sentença recorrida.
+É como voto."
+(e-STJ, fls. 757/759, grifou-se)
+Constata-se, primeiramente, que a decisão recorrida encontra-se em sintonia com a jurisprudência desta Corte, no sentido de que "A simples reprodução, por empresa jornalística, de informações constantes na denúncia feita pelo Ministério Público ou no boletim policial de ocorrência consiste em exercício do direito de informar.". Confira-se:
+"Direito civil. Indenização por danos morais. Publicação em jornal.
+Reprodução de cognome relatado em boletim de ocorrências. Liberdade de imprensa. Violação do direito ao segredo da vida privada. Abuso de direito.
+- A simples reprodução, por empresa jornalística, de informações constantes na denúncia feita pelo Ministério Público ou no boletim policial de ocorrência consiste em exercício do direito de informar.
+- Na espécie, contudo, a empresa jornalística, ao reproduzir na manchete do jornal o cognome - "apelido" - do autor, com manifesto proveito econômico, feriu o direito dele ao segredo da vida privada, e atuou com abuso de direito, motivo pelo qual deve reparar os conseqüentes danos morais.
+Recurso especial provido.
+(REsp 613.374/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 17/05/2005, DJ 12/09/2005, p. 321)"
+Por outro ângulo, concluir que a matéria teria extrapolado seu direito de informar, indo além da reprodução da informações constantes da ocorrência policial, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. A propósito:
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO MORAL. MATÉRIA JORNALÍSTICA. EXTRAPOLAÇÃO DO DIREITO DE INFORMAR. OFENSA À HONRA CONFIGURADA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. CONDENAÇÃO À PUBLICAÇÃO INTEGRAL DA SENTENÇA. LEI DE IMPRENSA. NÃO RECEPÇÃO. STF. ADPF Nº 130/DF. OBRIGAÇÃO DE FAZER INSUBSISTENTE. AUSÊNCIA DE PREVISÃO LEGAL OU CONSTITUCIONAL. DIREITO CONSTITUCIONAL DE RESPOSTA. DISTINÇÃO.
+(..)
+3. A desconstituição das conclusões a que chegou o Tribunal de origem - no tocante ao conteúdo ofensivo da matéria jornalística publicada na revista VEJA com o título "Sequestro Fajuto" e à responsabilidade da editora ré pelo dever de indenizar os danos morais dessa publicação resultantes - ensejaria incursão no acervo fático-probatório da causa, o que, como consabido, não se coaduna com a via do recurso especial, a teor do que dispõe a Súmula nº 7/STJ.
+(REsp 1.297.426/RO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 3/11/2015, DJe 10/11/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. INDENIZAÇÃO POR MATÉRIA JORNALÍSTICA. VALOR. RESPONSABILIDADE CIVIL. DANO MORAL. FUNDAMENTO CONSTITUCIONAL. APLICAÇÃO DA SÚMULA N. 126/STJ. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. VALOR DA INDENIZAÇÃO. SÚMULA N. 7/STJ. JUROS DE MORA. MUDANÇA DO TERMO INICIAL, DE OFÍCIO, NO TRIBUNAL DE ORIGEM. MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE. INEXISTÊNCIA DE AFRONTA AO PRINCÍPIO DO NON REFORMATIO IN PEJUS. AGRAVO IMPROVIDO.
+(..)
+2. A convicção a que chegou o acórdão, no que tange à publicação de matéria difamatória pelo agravante, decorreu da análise dos fatos e provas carreados aos autos. Assim sendo, o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz da Súmula n. 7 desta Corte.
+(..)
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 591.899/AP, de minha relatoria, TERCEIRA TURMA, julgado em 25/11/2014, DJe 4/12/2014)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPRENSA. CONTEÚDO OFENSIVO. DANO MORAL INDENIZÁVEL. REVISÃO. SÚMULA 7/STJ.
+1. Para prevalecer a pretensão recursal em sentido contrário à conclusão do tribunal de origem, que reconheceu que a publicação feriu a imagem profissional e a honra da autora, seria necessário revisar o conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7/STJ que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 509.184/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/6/2014, DJe 1º/8/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, na parte conhecida, para negar-lhe provimento. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de R$ 800,00 para R$ 880,00, observada eventual gratuidade de justiça de que seja beneficiário o recorrente.
+Publique-se.
