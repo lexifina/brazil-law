@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Agravo, interposto por NAMBEI INDÚSTRIA DE CONDUTORES ELÉTRICOS LTDA, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial manifestado contra acórdão, proferido na vigência do CPC/2015, assim ementado:
+"AÇÃO ANULATÓRIA. AIIM. ICMS. Pretensão de anular multa imposta pelo aproveitamento de créditos de ICMS oriundos de precatórios adquiridos de terceiros. Sentença que extinguiu o feito, por ter reconhecido a litispendência. Manutenção. Segunda ação ajuizada pela autora com identidade de partes, pedidos e causa de pedir, nos termos do art. 301, §§ 1º e 2º do CPC. Litispendência configurada. Multa por litigância de má-fé mantida. Existência de deslealdade processual. Sentença mantida. Recurso improvido" (fl. 1.373e).
+Opostos embargos de declaração (fls. 1.380/1.384e), esses foram rejeitados.
+Nas razões do Recurso Especial aponta, além de divergência jurisprudencial, a insurgente violação aos arts. 130, 267. inciso V, 301, § 1º e 2º, 331, 515, caput, e § § 1º, 2º e 3º, 535, inciso II, sustentando, em síntese, negativa da prestação jurisdicional, cerceamento de defesa e a inexistência de litispendência.
+Apresentadas contrarrazões às fls. 1.515/1.535e, foi o Recurso Especial inadmitido na origem (fls. 1.536/1.537e), daí a interposição do presente Agravo (fls. 1.565/1.589e).
+Contraminuta às fls. 1.591/1.595e.
+A irresignação não merece acolhimento.
+Em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1360762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+No mérito, O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que estão presentes os requisitos configuradores da litispendência.
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Nesse sentido:
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. ART. 174 E 135 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. EXISTÊNCIA DE LITISPENDÊNCIA. REEXAME DE PROVA. ÓBICE DA SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo" (Súmula 211/STJ).
+3. Agravo interno não provido" (STJ, AgInt no AREsp 1.177.102/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/04/2018).
+"TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. LITISPENDÊNCIA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. HIPÓTESE EM QUE A PARTE RECORRENTE FOI CONDENADA EM HONORÁRIOS DE ADVOGADO, COM BASE NO PRINCÍPIO DA CAUSALIDADE E SEM FOSSEM DELINEADAS, CONCRETAMENTE, NO ACÓRDÃO RECORRIDO, AS CIRCUNSTÂNCIAS A QUE SE REFEREM AS ALÍNEAS DO § 3º DO ART. 20 DO CPC/73. INADMISSIBILIDADE DO RECURSO ESPECIAL, EM FACE DA INCIDÊNCIA DAS SÚMULAS 7/STJ E 389/STF. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+III. O entendimento firmado pelo Tribunal a quo, à luz das provas dos autos, no sentido da existência de litispendência, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+(..)
+XI. Agravo Regimental improvido" (STJ, AgRg no AREsp 542.661/CE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 17/04/2018).
+Em face do exposto, com fundamento do art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para conhecer em parte do Recurso Especial e, nesta extensão, negar-lhe provimento.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
