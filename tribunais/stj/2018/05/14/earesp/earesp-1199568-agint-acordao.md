@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RESCISÃO DE CONTRATO. PRAZO PRESCRICIONAL DECENAL. ART. 205 DO CC/2002. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O acórdão recorrido está em consonância com o entendimento desta Corte Superior no sentido de ser aplicável o prazo prescricional geral decenal previsto no art. 205 do Código Civil de 2002, por se tratar de pretensão indenizatória decorrente de inadimplemento contratual. Incidência da Súmula 83 do STJ.
+3. O acolhimento da pretensão recursal a fim de reconhecer a prescrição da pretensão do recorrido, e a modificação do entendimento da Corte Estadual quanto à natureza do pedido, demandaria reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto por M.A. MÁQUINAS AGRÍCOLAS LTDA em face de decisão deste Relator de fls. 765-768, que negou provimento ao seu agravo em recurso especial, em razão da incidência da Súmula 7/STJ, devido a impossibilidade de reexame do conjunto fático-probatório dos autos; e pela aplicação da Súmula 83 do STJ, uma vez que a decisão da Corte estadual está em harmonia com a jurisprudência desta Corte Superior.
+Nas razões recursais, sustenta a parte agravante: " Passou sem qualquer consideração pelo ilustre Relator, data venia, que o responsável pelo inadimplemento contratual não foi o Agravante, mas o Agravado, que deixou de pagar o saldo do preço dos bens (já em produção), alegando não ter obtido financiamento bancário (que não era condição contratu- al). A discussão, aqui, versa apenas sobre a devolução da primeira parcela do pagamento, realizada com a entrega de máquinas velhas. Foi o Agravado, por- tanto, quem deu causa à rescisão, o que afasta a aplicação dos dispositivos indicados na decisão, que têm como premissa a indenização da parte inocente na relação contratual..A questão reside, sim, na valoração desses fatos e provas e, diante da conclusão que o v. acórdão recorrido violou a lei, na aplicação das consequências jurídicas adequadas, o que é plenamente aceito nessa via recursal.".
+Requer o conhecimento e provimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RESCISÃO DE CONTRATO. PRAZO PRESCRICIONAL DECENAL. ART. 205 DO CC/2002. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O acórdão recorrido está em consonância com o entendimento desta Corte Superior no sentido de ser aplicável o prazo prescricional geral decenal previsto no art. 205 do Código Civil de 2002, por se tratar de pretensão indenizatória decorrente de inadimplemento contratual. Incidência da Súmula 83 do STJ.
+3. O acolhimento da pretensão recursal a fim de reconhecer a prescrição da pretensão do recorrido, e a modificação do entendimento da Corte Estadual quanto à natureza do pedido, demandaria reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Conforme consignado na decisão monocrática de Minha Relatoria (fls. 765-768) : Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015, isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Também não há falar, no caso, em negativa de prestação jurisdicional, pois a Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes, no entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+3. Em conformidade com o exposto anteriormente (fls. 765-768), o acórdão recorrido está em consonância com o entendimento desta Corte Superior no sentido de ser aplicável o prazo prescricional geral decenal previsto no art. 205 do Código Civil de 2002, por se tratar de pretensão indenizatória decorrente de inadimplemento contratual. Incidência da Súmula 83 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESTITUIÇÃO DE VALORES PAGOS. PRESCRIÇÃO. PRAZO DECENAL. ART. 205 DO CC/2002. RECURSO IMPROVIDO. 1. A pretensão ao recebimento de valores pagos, que não foram restituídos diante de rescisão de contrato de compra e venda de imóvel, submete-se ao prazo prescricional de 10 (dez) anos, previsto no art.
+205 do Código Civil, e não ao prazo de 3 (três) anos, constante do art. 206, § 3º, IV e V, do mesmo diploma.
+2. Agravo interno não provido.
+(AgInt no REsp 1544768/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 21/11/2017, DJe 27/11/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). AÇÃO DE COBRANÇA. RESCISÃO CONTRATUAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO CONTRATUAL. PRAZO PRESCRICIONAL. DECENAL. REEXAME DE MATÉRIA FÁTICA E CONTRATUAL DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DOS ENUNCIADOS N.º 5 E 7 DO STJ.
+1. Aplica-se o prazo prescricional decenal previsto no art. 205 do CC nas pretensões decorrentes de inadimplemento contratual.
+2. Não cabe, em recurso especial, reexaminar conteúdo contratual, bem como matéria fático-probatória. Incidência dos Enunciados n.º 5 e 7/STJ.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1498564/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 19/09/2017, DJe 29/09/2017)
+4. Por fim, o acolhimento da pretensão recursal a fim de reconhecer a prescrição da pretensão do recorrido, e a modificação do entendimento da Corte Estadual quanto à natureza do pedido, demandaria reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ACÓRDÃO EXPLÍCITO AO CONSIGNAR QUE NÃO HOUVE CASO DE INTERRUPÇÃO DO PRAZO PRESCRICIONAL NA DEMANDA. REVISÃO. SÚMULA 7/STJ.
+1. Na via especial, inviável a análise de tese recursal que demande o revolvimento fático-probatório dos autos. Aplicação da orientação fixada pela Súmula 7 do STJ.
+2. Acolher a impugnação da parte implicaria afastar a afirmação feita pelo Tribunal de origem no sentido de que não se cogita, na espécie, da contagem pela metade do prazo prescricional, tendo em vista a não ocorrência de caso de interrupção. Tal providência esbarra no óbice sumular acima referido.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1609528/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/09/2016, DJe 30/09/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. VALOR DA CAUSA. SOMATÓRIO DOS VALORES CONSTANTES DOS PEDIDOS FORMULADOS. BENEFÍCIO ECONÔMICO PRETENDIDO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. PRECEDENTES. SÚMULA 83/STJ. 2. NATUREZA DA AÇÃO. REVISÃO. SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+1. Consoante o entendimento consolidado nesta Corte Superior, "tendo os autores declinado, na inicial, as importâncias postuladas a título de danos materiais e morais, o valor da causa deverá corresponder ao somatório dos pedidos, não devendo ser acolhida a alegação de que o quantum dos danos morais foi apenas sugerido, em caráter provisório" (REsp 1.229.870/SP, Rel.
+Ministro Sidnei Beneti, Terceira Turma, DJe de 30/3/2011).
+2. Na hipótese, o Tribunal de Justiça de Mato Grosso do Sul decidiu em consonância com o entendimento jurisprudencial do STJ, o que atrai o óbice da Súmula 83/STJ.
+3. Ademais, tendo a Corte local apurado, por meio dos elementos contidos nos autos, que os pedidos formulados da forma como foram feitos não têm o condão de descaracterizar a natureza da ação que é de indenização por danos materiais e morais, o acolhimento das razões da recorrente demandaria o reexame dos elementos fático-probatórios dos autos, o que encontra óbice intransponível imposto pela Súmula 7 do STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 791.149/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/12/2015, DJe 05/02/2016)
+5. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
