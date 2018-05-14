@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo (art. 544 do CPC/1973) interposto por BRASIL TELECOM S.A. em face da decisão que amparada no art. art. 543-C, § 7º, I, do CPC/73 (art. 1.030, incisos V e I, alínea b, do NCPC), denegou o recurso especial, tendo em vista o REsp n. 982.133/RS, e negou-lhe seguimento quanto às demais questões.
+O apelo nobre, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 113-120, e-STJ, proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 116, e-STJ):
+APELAÇÕES CÍVEIS. BRASIL TELECOM. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. PRETENSÃO RESISTIDA. Há pretensão resistida, consubstanciada, no caso, no desatendimento do prévio pedido administrativo, situação a dar razão à propositura da presente demanda.
+HONORÁRIOS ADVOCATÍCIOS. Principio da causalidade. MAJORAÇÃO. Valor majorado segundo entendimento deste órgão fracionário para a espécie de demanda.
+RECURSO DA PARTE AUTORA PARCIALMENTE PROVIDO. NEGADO PROVIMENTO À APELAÇÃO DA CIA. RE.
+Opostos embargos de declaração (fls. 124-129, e-STJ), foram rejeitados (fls. 131-136, e-STJ).
+Nas razões de recurso especial, a insurgente afirma que houve indevida incursão no mérito da causa pela Corte de origem. Também alegou violação dos arts. 535, II, do CPC/1973, e 100 e 105 da Lei n. 6.404/1976, além de acenar com dissídio jurisprudencial.
+Sustentou que o acórdão atacado foi omisso pois não se pronunciou acerca das violações dos arts. 333, I, e 267, VI, ambos do CPC/1973 e dos arts. 100 e 105 da Lei n. 6.404/1976. Também afirmou que não pretendeu resistir à exibição pleiteada, entretanto, a recorrida não diligenciou no sentido de atender aos requisitos previstos no art. 100, § 1º, da Lei n. 6.404/1976.
+Em juízo provisório de admissibilidade (fls. 168-172, e-STJ), o Tribunal de origem negou seguimento ao recurso em razão da inexistência de ofensa ao art. 535 do CPC/73, pela incidência do teor da Súmula n. 83/STJ, pela aplicação, inclusive, do recurso repetitivo (REsp n. 982.133/RS.
+Daí o agravo (fls. 176-195, e-STJ), no qual a agravante buscou a reforma da decisão impugnada, lançando argumentações no sentido de destrancar o processamento daquela insurgência. Também alega que houve indevida incursão no mérito da causa, quando do juízo de admissibilidade.
+A contraminuta apresentada (fls. 199-206, e-STJ).
+É o relatório.
+Decide-se.
+O recurso não merece prosperar, por outro fundamento.
+1. Com relação à alegada usurpação de competência do Superior Tribunal de Justiça pela Corte a quo, sob o argumento de que houve o ingresso indevido no mérito do recurso especial por ocasião do juízo de admissibilidade, importa destacar que constitui atribuição do Tribunal local, nessa fase processual, examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia, a teor da Súmula 123 do STJ.
+Precedente:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO DO PROCESSO. ART. 543-C DO CPC. DESNECESSIDADE. JUÍZO DE ADMISSIBILIDADE DO RECURSO. EXAME DE MÉRITO. POSSIBILIDADE. SÚMULA N. 123/STJ. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.  ..  2. É possível a incursão no mérito da lide pelo Tribunal de origem por ocasião do juízo de admissibilidade do recurso especial, segundo o disposto na Súmula n. 123/STJ, sem que isso configure usurpação de competência.  ..  4. Agravo regimental desprovido. (AgRg no AREsp 164.757/RS, Terceira Turma, Relator Ministro João Otávio de Noronha, julgado em 24/11/2015, DJe 27/11/2015)
+2. Quanto à apontada violação do artigo 535, inciso II, do CPC/73, não assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia. (Precedentes: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01/09/2011, DJe 06/09/2011; REsp 1.264.044/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 01/09/2011, DJe 08/09/2011; AgRg nos EDcl no Ag 1.304.733/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23/08/2011, DJe 31/08/2011; AgRg no REsp 1.245.079/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/08/2011, DJe 19/08/2011; e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09/08/2011, DJe 22/08/2011).
+Portanto, não há falar em negativa de prestação jurisdicional, tampouco em nulidade do aresto estadual.
+3. Quanto ao mérito, melhor sorte não assiste à recorrente.
+Isso porque a Segunda Seção do Superior Tribunal de Justiça, ao analisar o Recurso Especial repetitivo n. 982.133/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, DJe 22/09/2008, firmou entendimento no sentido de que, nas ações em que se postula a obtenção de documentos referentes a dados societários, para a caracterização do interesse de agir, é necessário demonstrar a ocorrência de requerimento formal, na via administrativa, bem como o comprovante de pagamento da taxa de serviço, quando a empresa o exigir (art. 100, § 1º, da Lei n. 6.404/1976), nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. FORNECIMENTO DE DOCUMENTOS COM DADOS SOCIETÁRIOS. RECUSA. RECURSO À COMISSÃO DE VALORES MOBILIÁRIOS. LEI N. 6.404/1976, ART. 100, § 1º. AUSÊNCIA DO COMPROVANTE DE RECOLHIMENTO DA "TAXA DE SERVIÇO". RECURSO ESPECIAL REPETITIVO. LEI N. 11.672/2008. RESOLUÇÃO/STJ N. 8, DE 07.08.2008. APLICAÇÃO.
+I. Falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não logra demonstrar: a) haver apresentado requerimento formal à ré nesse sentido; b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo, 1º da Lei 6.404/1976.
+II. Julgamento afetado à 2a. Seção com base no Procedimento da Lei n. 11.672/2008 e Resolução/STJ n. 8/2008 (Lei de Recursos Repetitivos).
+III. Recurso especial não conhecido.
+(REsp 982.133/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 10/09/2008, DJe 22/09/2008).
+
+A matéria, encontra-se inclusive cristalizada no Enunciado Sumular n. 389/STJ, in verbis:
+A comprovação do pagamento do custo do serviço referente ao fornecimento de certidão de assentamentos constantes dos livros da companhia é requisito de procedibilidade da ação de exibição de documentos ajuizada em face da sociedade anônima.
+Depreende-se, contudo, da leitura do acórdão recorrido que foi formulado o referido pedido sem que, no entanto, fossem apresentados os documentos requeridos. Confira-se (fl. 119, e-STJ):
+Assim, não tendo o banco demandado se desincumbido do ônus de exibir os documentos postulados pela parte autora quando, na esfera administrativa e após o pedido administrativo protocolado, dando razão à propositura da presente demanda, resta caracterizada a pretensão resistida, a legitimar a condenação imposta.
+O acórdão impugnado está, portanto, fundamentado no quadro fático singular formado na presente demanda.
+A revisão do aresto impugnado no sentido pretendido pela recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a existência pedido formulado nos termos legais.
+Essas medidas não são possíveis pela via estreita do recurso especial, conforme o enunciado da Súmula 7/STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+4. Do exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
