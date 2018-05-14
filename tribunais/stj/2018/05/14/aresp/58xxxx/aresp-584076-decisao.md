@@ -1,0 +1,39 @@
+DECISÃO
+1. Cuida-se de agravo interposto por OI S.A EM RECUPERAÇÃO JUDICIAL, contra decisão que não admitiu o seu recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, manejado em face de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+DOCUMENTOS. COMPLEMENTAÇÃO DE AÇÕES. FORNECIMENTO. RECUSA.
+1 - Na condição de sucessora da Telebrasília S/A, a Brasil Telecom S/A tem o dever de exibir os contratos celebrados pela empresa sucedida.
+2 - Se o acionista requer administrativamente. os documentos relativos as ações, e esses não são fornecidos, tem ele interesse em tutela jurisdicional com essa finalidade.
+3 - Agravo não provido.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts 100, §1º, da Lei nº 6.404/1976, aduzindo que o recorrido não teria comprovado o recolhimento das custas para a prestação do serviço requerido; art. 3º e 267, VI, do CPC/1973, alegando ainda, a falta de interesse de agir da recorrida, em relação ao pedido incidental de exibição de documentos, pois deixou de efetuar o recolhimento da imprescindível taxa de serviço.
+Em decisão de fls. 788-789, o Ministro Paulo de Tarso Sanseverino, determinou a devolução dos autos à origem para que permanecesse suspenso até o pronunciamento definitivo desta Corte sobre o assunto.
+Por despacho de fls. 846-847, o Presidente do Tribunal de Justiça do Distrito Federal e dos Territórios remeteu os autos à esta Corte, tendo em vista a desafetação do paradigma, com o cancelamento dos temas 663 e 665 da sistemática dos recursos repetitivos.
+É o relatório.
+DECIDO.
+2. De início, consigne-se que a decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 do Plenário do Superior Tribunal de Justiça (AgRg no AREsp 849.405/MG, Quarta Turma, Julgado em 5/4/2016).
+3. Acerca da controvérsia, dispôs o acórdão recorrido:
+A autora requereu adninistrativamente os documentos relativos as ações, propondo a pagar os custos respectivos (fls. 158/60). A agravante não os forneceu. E não esclarece, no agravo, porque deixou de atender o pedido da agravada.
+Argumenta, não obstante, com o disposto no art. 100, § 10, da Lei das Sociedades por Ações, e com.a orientação contida na súmula 389 do e STJ. Ocorre que, se não atendeu o pedido da acionista, poderá ser compelida a tanto, consoante se procedeu na decisão agravada.
+Teria aplicação o art. 100, § 10, da lei das Sociedades, por Ações, e súmula 389 do e. STJ, se a acionista não tivesse, antes, requerido. (fl. 596)
+Nesse passo, assiste razão à recorrente. Isso porque adotou entendimento divergente do perfilhado pela pacífica jurisprudência deste Tribunal, tendo em vista o que dispõe a súmula n. 389 deste Corte, in verbis:
+A comprovação do pagamento do "custo do serviço" referente ao fornecimento de certidão de assentamentos constantes dos livros da companhia é requisito de procedibilidade da ação de exibição de documentos ajuizada em face da sociedade anônima.
+Esclareça-se que referida Súmula 389 aplica-se ao pedido de exibição de documentos feito, incidentalmente, em ação ordinária de adimplemento contratual.
+Nesse sentido:
+AGRAVO REGIMENTAL NA PETIÇÃO. RECURSO ESPECIAL RETIDO. RECURSO ESPECIAL RETIDO. ART. 542, § 3º, DO CPC PRETENSÃO AO REGULAR PROCESSAMENTO. EXIBIÇÃO INCIDENTAL DE CONTRATO DE PRESTAÇÃO DE SERVIÇO DE TELEFONIA COM CLÁUSULA DE PARTICIPAÇÃO FINANCEIRA. NÃO PAGAMENTO DO CUSTO DO SERVIÇO. SÚMULA 389/STJ. (..) 3. A plausibilidade do direito invocado encontra-se no fato de a questão tratada no recurso especial já ter sido objeto de julgamento pelo Superior Tribunal de Justiça, que tem se posicionado no sentido de ser aplicável o entendimento da Súmula 389/STJ aos pedidos de exibição incidental dos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira. 4. Agravo regimental não provido, com aplicação de multa. (AgRg na Pet 10.183/DF, de minha relatoria, Quarta Turma, DJe 10/12/2013)
+_____________
+Com efeito, o artigo 100, § 1º, da Lei n. 6.404/1976 permite que a sociedade anônima exija do interessado valor correspondente ao custo do serviço de fornecimento de certidões sobre dados constantes de livros societários.
+Na esteira desse dispositivo legal, a Segunda Seção desta Corte assentou, em julgamento submetido ao rito dos recursos repetitivos que, se não for demonstrado o requerimento para a obtenção dos documentos, tampouco apresentado o comprovante de pagamento da "taxa de serviço" exigida, carece o autor de interesse de agir para a ação de exibição de documentos.
+Nesse sentido, confira o seguinte precedente:
+PROCESSUAL CIVIL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. FORNECIMENTO DE DOCUMENTOS COM DADOS SOCIETÁRIOS. RECUSA. RECURSO À COMISSÃO DE VALORES MOBILIÁRIOS. LEI N. 6.404/1976, ART. 100, § 1º. AUSÊNCIA DO COMPROVANTE DE RECOLHIMENTO DA "TAXA DE SERVIÇO". RECURSO ESPECIAL REPETITIVO. LEI N. 11.672/2008. RESOLUÇÃO/STJ N. 8, DE 07.08.2008. APLICAÇÃO.
+I. Falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não logra demonstrar: a) haver apresentado requerimento formal à ré nesse sentido;
+b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo, 1º da Lei 6.404/1976.
+II. Julgamento afetado à 2a. Seção com base no Procedimento da Lei n. 11.672/2008 e Resolução/STJ n. 8/2008 (Lei de Recursos Repetitivos).
+III. Recurso especial não conhecido. (REsp 982133/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 10/09/2008, DJe 22/09/2008)
+______________
+Observa-se que o STJ também aplica o entendimento acima aos pedidos de exibição de documentos feitos, incidentalmente, em ação ordinária de adimplemento contratual. Nesse sentido: AgRg na MC 20.827/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/08/2014, DJe 08/09/2014; Resp 1.422.940 - PR, Min. Moura Ribeiro, in DJ de 11.09.2014; AREsp n. 191.106/RS, Rel. Min. Massami Uyeda, DJ de 3.8.2012; e REsp n. 1.201.249/RJ, Rel. Min. Paulo de Tarso Sanseverino, DJ de 13.6.2012, estando este último assim redigido:
+Segundo entendimento pacificado nesta Corte por meio do rito dos recursos especiais repetitivos, não se defere o pedido de exibição de documento se o autor não logra demonstrar: "a) haver apresentado requerimento formal à ré nesse sentido; b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo, 1º da Lei 6.404/1976" (REsp 982.133/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, DJ 22/09/2008).
+Com base nessa jurisprudência, editou-se o seguinte verbete sumular:
+Súmula n. 389/STJ - A comprovação do pagamento do "custo do serviço" referente ao fornecimento de certidão de assentamentos constantes dos livros da companhia é requisito de procedibilidade da ação de exibição de documentos ajuizada em face da sociedade anônima.
+Esse entendimento não se restringe ao processo cautelar, pois "a exibição de documentos pode ser requerida em sede de cautelar, e incidentalmente na ação principal" (Theotonio Negrão et al, Código de Processo Civil e legislação processual em vigor. 42ª ed. São Paulo: Saraiva, 2010, p. 898)
+4. Estando em desacordo com esse entendimento pacificado nesta Corte Superior, o acórdão vergastado merece reforma nesse ponto.
+5. Ante o exposto, conheço do agravo e dou provimento ao recurso especial para cassar a decisão que deferiu o pedido incidental de exibição de documentos.
+Publique-se. Intimem-se.
