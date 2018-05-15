@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo manejado pela Ordem dos Advogados do Brasil, Seção da Bahia, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 215):
+ADMINISTRATIVO. ORDEM DOS ADVOGADOS DO BRASIL. AGENTE DE TRÂNSITO. INSCRIÇÃO. INCOMPATIBILIDADE. INEXISTÊNCIA.
+1. As atribuições do cargo de Agente de Trânsito não estão vinculadas direta ou indiretamente à atividade policial, pois não tem por propósito a prevenção ou repressão da criminalidade.
+2. Com efeito, "as atividades exercidas pelo Agente de Transporte e Trânsito não se caracterizam como poder de polícia e têm feição meramente fiscalizatória. Não se configura, assim, a incompatibilidade com o exercício da advocacia, mas tão somente, seu impedimento, nos termos do art. 30, 1, da Lei 8.906/1994" (AMS 0017604-22.2008.4.01.3300/BA, Rel. Des. Fed. Maria do Carmo Cardoso, TRF1, Oitava Turma, e-DJF1 11/05/2012, p. 1.723) e "apesar de deter poder de polícia, o agente de transito não exerce atividade policial, sendo, portanto, possível o exercício da advocacia pelos ocupantes do referido cargo" (AC nº 556039, rel. Desembargador Federal Fernando Braga, DJE de 18/07/2014, pág. 88).
+3. Apelação e remessa oficial não providas.
+Nas razões do recurso especial, a parte agravante aponta divergência jurisprudencial acerca da interpretação do art. 28, V, da Lei nº 8.906/94. Para tanto, sustenta que os agentes de trânsito, por exercerem poder de polícia em sentido amplo, desempenham função incompatível com a advocacia.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+O inconformismo comporta êxito.
+Ao solucionar a controvérsia, o Tribunal a quo asseverou (fl. 212):
+Ocorre que, as atividades decorrentes do cargo de Agente de Trânsito não estão vinculadas a qualquer atividade policial. Com efeito, trata-se de mera atividade fiscalizatória, decorrente do poder de polícia e não se confunde com a atividade policial de que trata a norma acima transcrita.
+Pela transcrição acima, verifica-se que o Tribunal de origem decidiu a questão em dissonância com a orientação jurisprudencial desta Corte Superior, cujo entendimento assevera que o desempenho de atividade profissional que envolve fiscalização e poder decisório sobre interesses de terceiro, inerentes ao poder de polícia, é incompatível com o exercício da advocacia.
+A propósito, sobressaem os seguintes julgados:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. INCOMPATIBILIDADE DE CARGOS. ARTS. 8º, V, 11, IV E 28, V DA LEI N. 8.906/1994. ATIVIDADE DE POLÍCIA. IMPOSSIBILIDADE. ACÓRDÃO PROFERIDO PELA CORTE A QUO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE.
+I - A controvérsia encontra-se estabelecida em relação à suposta incompatibilidade do cargo de assistente de trânsito, exercido pelo recorrido, com a advocacia, sob a alegação de que as atividades por ele exercidas, expressamente elencadas no acórdão recorrido como de fiscalização, vistoria, ordem, notificação, autorização e licença, estão abrangidas pelo poder de polícia.
+II - O acórdão recorrido é expresso, conforme declaração fornecida pelo DETRAN-PE, no sentido de que o autor da ação exerce atividades inerentes à fiscalização e outras, que se inserem na conceituação de poder de polícia, que segundo [NOME], é " ..  a atividade administrativa que, com base em lei, limita a liberdade e a propriedade dos membros da coletividade, conformando-as ao atendimento do interesse público juridicamente definido" (In "Curso de Direito Administrativo, Ed. Forense, pág. 190).
+III - O STJ já tem firme entendimento no sentido de que a vedação constante no referido art. 28 da lei n. 8.906/1994, quanto à atividade policial de qualquer natureza, abrange aquelas inerentes ao poder de polícia. No mesmo sentido: REsp n. 1.625.661/PE, Rel.
+Min. SÉRGIO KUKINA, DJe de 21/09/16; REsp n. 1.650.353/ES, Rel. Min. MAURO CAMPBELL MARQUES, DJe de 10/03/17; REsp n. 1.625.478/PE, Rel. Min. ASSUSETE MAGALHÃES, djE DE 16/11/16; REsp n. 1.563.471/PE, Rel. Min. REGINA HELENA COSTA, DJe de 10/08/2016.
+IV - Agravo interno improvido.
+(AgInt no REsp 1.688.947/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 01/03/2018, DJe 06/03/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGENTE DE TRÂNSITO. FUNÇÃO DE FISCALIZAÇÃO. PODER DECISÓRIO SOBRE INTERESSES DE TERCEIROS. ATIVIDADE INERENTE AO PODER DE POLÍCIA. ATIVIDADE INCOMPATÍVEL COM O EXERCÍCIO DA ADVOCACIA.
+1. A atividade exercida por ocupante do cargo de assistente de trânsito, por envolver fiscalização e poder decisório sobre interesses de terceiro, inerentes ao poder de polícia, é incompatível com o exercício da advocacia, nos termos do art. 28, V, da Lei n. 8.906/94.
+2. Agravo interno desprovido.
+(AgInt no AgInt no REsp 1.631.637/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 30/11/2017, DJe 07/12/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. INSCRIÇÃO DE FISCAL AGROPECUÁRIO NA ORDEM DOS ADVOGADOS DO BRASIL - OAB. EXERCÍCIO DE CARGO QUE DETÉM PODER DE POLÍCIA.
+HIPÓTESE QUE SE ENQUADRA NA INCOMPATIBILIDADE DO INCISO V DO ART. 28 DA LEI 8.906/94.
+1. Recurso especial no qual se discute se o exercício de poder de polícia administrativa exercido por Fiscal Federal Agropecuário estaria incluído na incompatibilidade estabelecida pelo inciso V do art. 28 da Lei n. 8.906/1994, que se refere à "atividade policial de qualquer natureza".
+2. O exercício do cargo de Fiscal Federal Agropecuário, por compreender prerrogativas e atribuições de fiscalização, autuação, apreensão e interdição, atividades típicas de polícia administrativa, com poder de decisão sobre interesses de terceiros, é incompatível com o exercício da advocacia.
+3. Recurso especial não provido.
+(REsp 1.377.459/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 20/11/2014, DJe 27/11/2014)
+Por oportuno, convém destacar o seguinte excerto do voto condutor no julgamento do REsp 1.377.459/RJ, que bem elucida a orientação desta Corte a respeito do tema à luz da intenção do legislador, in verbis:
+Afinal, ao tratar das hipóteses de incompatibilidade, que estabelecem a proibição total ao exercício da advocacia (art. 27), prescreve o art. 28 da Lei n. 8.906/94:
+Art. 28. A advocacia é incompatível, mesmo em causa própria, com as seguintes atividades:
+I - chefe do Poder Executivo e membros da Mesa do Poder Legislativo e seus substitutos legais;
+II - membros de órgãos do Poder Judiciário, do Ministério Público, dos tribunais e conselhos de contas, dos juizados especiais, da justiça de paz, juízes classistas, bem como de todos os que exerçam função de julgamento em órgãos de deliberação coletiva da administração pública direta e indireta; (Vide ADIN 1127-8)
+III - ocupantes de cargos ou funções de direção em Órgãos da Administração Pública direta ou indireta, em suas fundações e em suas empresas controladas ou concessionárias de serviço público;
+IV - ocupantes de cargos ou funções vinculados direta ou indiretamente a qualquer órgão do Poder Judiciário e os que exercem serviços notariais e de registro;
+V - ocupantes de cargos ou funções vinculados direta ou indiretamente a atividade policial de qualquer natureza;
+VI - militares de qualquer natureza, na ativa;
+VII - ocupantes de cargos ou funções que tenham competência de lançamento, arrecadação ou fiscalização de tributos e contribuições parafiscais;
+VIII - ocupantes de funções de direção e gerência em instituições financeiras, inclusive privadas.
+§ 1º A incompatibilidade permanece mesmo que o ocupante do cargo ou função deixe de exercê-lo temporariamente.
+§ 2º Não se incluem nas hipóteses do inciso III os que não detenham poder de decisão relevante sobre interesses de terceiro, a juízo do conselho competente da OAB, bem como a administração acadêmica diretamente relacionada ao magistério jurídico.
+Sobre o tema, no âmbito doutrinário, entende-se que a intenção do legislador foi assegurar a isenção e a independência no exercício da advocacia, bem como evitar que determinados agentes pudessem captar clientes, em razão de eventuais facilidades proporcionadas pelo exercício do cargo público.
+Assim, na hipótese dos autos, a Corte Regional entendeu que a vedação do inciso V da norma supratranscrita abrangeria o agente que possui poderes de polícia administrativa, não se restringindo à atividade policial estritamente voltada para a segurança pública, cujo rol, atribuições e organização estão previstos no art. 144 da Constituição da República.
+ Na mesma esteira, entendo que a vedação relacionada à "atividade policial de qualquer natureza" abrange as atividades administrativas de fiscalização, autuação, apreensão e interdição, compreendidas no poder de polícia. Afinal, conferir vedação apenas à "atividade policial" no âmbito da segurança pública não se coaduna com a extensão prevista na norma em análise pela expressão "de qualquer natureza".
+Ademais, a finalidade da norma, à toda evidência, é obstar a prática da advocacia por agente público que, exercendo atividade de polícia, possa se beneficiar da sua atuação funcional, vulnerando as suas atribuições administrativas e/ou gerando privilégio na captação de clientela, mormente se considerado o poder de decisão que detém, com base no cargo que exerce, sobre os administrados.
+Em reforço a esse entendimento, tem-se que o § 2º da norma supra, embora aplicável ao inciso III, criando hipótese que excepciona a incompatibilidade, deixa clara a finalidade desse instituto (incompatibilidade), que é obstar o exercício da advocacia por agente que, no exercício de função pública, tenha "poder de decisão relevante sobre interesses de terceiro".
+Destarte, o acórdão recorrido não merece subsistir.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação acima. Por conseguinte, denego a segurança pleiteada na peça inaugural.
+Publique-se.
