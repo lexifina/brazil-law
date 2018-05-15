@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 225, § 1º, IV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo a ementa proferida pela Corte de origem:
+    “MEIO AMBIENTE – AGRAVO DE INSTRUMENTO EM AÇÃO CIVIL PÚBLICA – PEDIDO DE CONTINUIDADE DE EMPREENDIMENTO SOMENTE DEPOIS DE REALIZADO E APROVADO O EIA-RIMA – TUTELA ANTECIPADA CONCEDIDA PARA IMPEDIR A CONTINUIDADE DO EMPREENDIMENTO E A VENDA DE LOTES ATÉ A SOLUÇÃO DEFINITIVA DO EIA-RIMA – ÓRGÃO AMBIENTAL COMPETENTE QUE ENTENDEU SER DISPENSÁVEL O REFERIDO ESTUDO – TUTELA ANTECIPADA REVOGADA.”
+    Verifico que, para aferir a ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo, seria necessário o revolvimento do quadro fático delineado na instância ordinária, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “EMENTA EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. DIREITO CONSTITUCIONAL E AMBIENTAL. AÇÃO CIVIL PÚBLICA. TEMPORADA DE CAÇA AMADORA. IMPACTO AO MEIO AMBIENTE. ESTUDO AMBIENTAL. REEXAME INCABÍVEL. INTERPRETAÇÃO DA LEI 5.197/1967. ANÁLISE DA OCORRÊNCIA DE EVENTUAL AFRONTA AOS PRECEITOS CONSTITUCIONAIS INVOCADOS NO APELO EXTREMO DEPENDENTE DA REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE NO ACÓRDÃO REGIONAL. ÂMBITO INFRACONSTITUCIONAL DO DEBATE. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO FEDERAL NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 14.4.2010. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada. Divergir do entendimento do acórdão recorrido quanto à insuficiência e inadequação dos estudos ambientais realizados por órgão competente para verificar quais impactos que a atividade de caça à fauna cinegética causaria ao meio ambiente, condição a autorizar a abertura da temporada de caça amadorística no Estado do Rio Grande do Sul, demandaria a reelaboração da moldura fática delineada nos autos, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Embargos de declaração recebidos com agravo regimental, ao qual se nega provimento.” (RE 629502 ED, da minha lavra, Primeira Turma, julgado em 03/12/2013, PROCESSO ELETRÔNICO DJe-249 DIVULG 16-12-2013 PUBLIC 17-12-2013)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de maio de 2018.
+Ministra Rosa Weber
+Relatora
