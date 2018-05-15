@@ -1,0 +1,55 @@
+EMENTA
+PROCESSUAL CIVIL, CONSTITUCIONAL E ADMINISTRATIVO. RECONHECIMENTO ADMINISTRATIVO DO PEDIDO. FALTA DE DOTAÇÃO ORÇAMENTÁRIA. ESPERA INDEFINIDA. PAGAMENTO VIA PRECATÓRIO OU RPV. POSSIBILIDADE. JUROS DE MORA E CORREÇÃO MONETÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. Na hipótese dos autos, o entendimento do Sodalício a quo está em conformidade com a orientação do Superior Tribunal de Justiça de que, caso inexista disponibilidade orçamentária para o imediato atendimento da ordem, o pagamento deverá ser efetuado por meio de regular processo de execução contra a Fazenda Pública, com a expedição de precatório ou, em analogia, RPV (art. 730 do CPC). Portanto, está presente o interesse de agir.
+2. Não se conhece de Recurso Especial quanto a matéria não especificamente enfrentada pelo Tribunal de origem, dada a ausência de prequestionamento. Incidência, por analogia, da Súmula 282/STF.
+3. Recurso Especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+PROCESSUAL CIVIL. ADMINISTRATIVO. DOCENTE DE INSTITUTO FEDERAL DE EDUCAÇÃO. VANTAGEM REMUNERATÓRIA DENOMINADA "RECONHECIMENTO DE SABERES E COMPETÊNCIA-RSC" - DEFERIMENTO ADMINISTRATIVO. VALORES ATRASADOS. INCLUSÃO EM ORÇAMENTO. OMISSÃO. POSTULAÇÃO PELA VIA JUDICIAL. CABIMENTO.
+1. Apelação contra sentença que julgou procedente ação ordinária de cobrança de valores atrasados devidos ao autor, professor do quadro de pessoal do Instituto Federal de Educação, réu, a título da vantagem remuneratória denominada Reconhecimento de Saberes e Competências - RSC III.
+2. Alegação de carência de ação descabida, uma vez que a ação não tem por objeto a concessão do acréscimo remuneratório, já reconhecido no âmbito administrativo, mas o recebimento das verbas retroativas, cujo pagamento é omitido sob a justificativa de ausência de dotação orçamentária.
+3. Entendimento das egs. Turmas do Tribunal sobre a matéria no sentido de que "Não se afigura razoável condicionar, por tempo indefinido, à dotação orçamentária, o pagamento de parcelas inquestionavelmente devidas, máxime em se tratando de verbas de caráter alimentar. Tal postura autoriza o ajuizamento da ação judicial para pleitear a sua quitação, sem configurar qualquer intromissão indevida no Poder Executivo, uma vez que o pagamento será feito mediante precatório requisitório." (PJE 08068057920154058100).
+4. A sentença não destoa do entendimento da Corte sobre a questão decidida, razão pela qual não merece qualquer reparo.
+5. Remessa oficial e apelação não providas.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 2º, 5º, XXXVI, §5º, 165, 167, 169 da CF 88; 37 da Lei 4.320/64; 22 do Decreto 93.872/86; e 1º, §1º, da Lei Complementar 101/2000 e 1º-F da Lei 9.494/1997.
+Aduz, em suma, estarem presentes todos os requisitos de admissibilidade do recurso.
+Transcorreu, in albis, o prazo para apresentação de contrarrazões.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 23.4.2018.
+Não merece prosperar a irresignação.
+No caso dos autos, o Tribunal local consignou:
+Quanto ao mérito, tenho que não procede a irresignação.
+É que, à fl. 17, observa-se que através da Portaria da Reitoria do Instituto Educacional apelante, de 01/04/2015, foi concedido ao autor o direito remuneratório decorrente do Reconhecimento de Saberes e Competências - RSC III, vigorando a partir de 01/03/2013.
+Conforme se constata do processo, a implantação em folha de pagamento ocorreu no mês de maio de 2015.
+Os valores relativos aos exercícios de 2013 e 2014, no entanto, não foram pagos, ao argumento de indisponibilidade orçamentária, por se tratar de valores oriundos de exercícios anteriores.
+Ocorre que, decorridos anos, não foram adotadas as providências indispensáveis ao cumprimento da obrigação de pagar os valores atrasados, mediante inclusão do passivo na lei orçamentária, não havendo, como salientado pela sentença, ao menos perspectiva de quando ocorrerá, não se afigurando razoável que o servidor esteja obrigado a se sujeitar por tempo indefinido ao juízo de conveniência e oportunidade da Administração em solicitar verba para adimplir os seus débitos, em especial se de natureza alimentar.
+Dessa forma, o servidor tem o direito subjetivo de postular a respectiva cobrança perante o Poder Judiciário, que possui sistemática legal própria para pagamento das verbas decorrentes de suas condenações.
+No tocante ao fato de que a Instituição não procedeu ao pagamento retroativo do RSC, relativo ao período de março de 2013 a dezembro de 2014, por ausência de disponibilidade orçamentária, verifica-se que não assiste razão à parte ora recorrente.
+A jurisprudência desta Corte Superior é pacífica no sentido de que o pagamento de verbas atrasadas, já reconhecidas pela Administração, não pode ficar condicionado indefinidamente à manifestação de vontade do órgão pagador, mormente se já houver transcorrido tempo suficiente para realizar o adimplemento da dívida.
+Conforme se infere dos autos, embora já reconhecido pela Administração o direito à percepção dos valores pleiteados, em concordância com o disposto em Portaria, não houve qualquer tipo de pagamento ou indicativo deste, uma vez que a recorrente alega ausência de disponibilidade orçamentária para tanto.
+Deste modo, demonstrado o reconhecimento da dívida alegada, o adimplemento desta faz jus ao recorrido, independentemente das restrições apontadas pelo réu para o pagamento de exercícios anteriores, uma vez que a ausência de previsão orçamentária será suprida pelo comando judicial, com a imposição do pagamento por Precatório ou RPV.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. REPARAÇÃO ECONÔMICA. ANISTIA DE MILITAR. PARCELAS PRETÉRITAS. ADEQUAÇÃO DA VIA ELEITA. DECADÊNCIA NÃO CONFIGURADA. DIREITO LÍQUIDO E CERTO.
+DISPONIBILIDADE ORÇAMENTÁRIA. DESCUMPRIMENTO DO PRAZO ESTABELECIDO NA LEI N. 10.559/2002. CONCESSÃO DA ORDEM.
+1. A impetração de mandamus contra ato omissivo de natureza continuada, como ocorre no descumprimento de determinação de pagamento de reparação econômica em prestação mensal, permanente e continuada, com efeitos retroativos (Lei n. 10.559/02), não se subsume aos efeitos da decadência. Precedentes do STJ e STF.
+2. O fundamento da inadequação da via eleita, por indevida utilização do writ como sucedâneo de ação de cobrança, da mesma forma, não há de prosperar. O descumprimento da Portaria Ministerial evidencia uma lacuna em fazer, por parte da autoridade impetrada.
+Assim, não atrai o óbice das Súmulas 269 e 271, ambas do STF, tampouco traduz que o writ esteja sendo utilizado como ação de cobrança.
+3. O direito líquido e certo amparável na via mandamental, no caso concreto, resultou demonstrado em razão das várias leis publicadas, ano a ano, após a edição da Portaria Anistiadora (Portaria do Ministro de Estado da Justiça n. 1.700, de 8.7.2004), prevendo dotação orçamentária para o pagamento das indenizações retroativas em favor de anistiados políticos.
+4. A falta de recursos orçamentários suficientes para o pagamento das parcelas pretéritas da reparação econômica decorrente de anistia política, continuada ao longo dos anos, revela manifesta desobediência do Poder Executivo à lei que fixou prazo certo para tanto (art. 12, § 4º, da Lei n. 10.559/2002). Por tal motivo, ela não pode ser utilizada sine die como pretexto para inviabilizar a efetivação do direito cuja tutela é perseguida no Mandado de Segurança.
+5. Caso inexista disponibilidade orçamentária para o imediato atendimento da ordem, o pagamento deverá ser efetuado por meio de regular processo de execução contra a Fazenda Pública, com a expedição de precatório (art. 730 do CPC).
+6. É de se registrar que, apreciando Questão de Ordem relacionada ao fato de a Administração ter dado início a um procedimento para revisão das anistias de militares, a Primeira Seção, no julgamento do MS 15.706/DF, de relatoria do Ministro CASTRO MEIRA (DJe de 11/5/2011), repeliu o pedido de suspensão do feito, apresentado pela União, mas ressalvou que, "nas hipóteses de concessão da ordem, situação dos autos, ficará prejudicado o seu cumprimento se, antes do pagamento do correspondente precatório, sobrevier decisão administrativa anulando ou revogando o ato de concessão da anistia".
+7. Mandado de Segurança concedido, para imediato pagamento, conforme valor nominal estabelecido no ato administrativo, com os recursos orçamentários disponíveis ou, se assim não for possível, mediante expedição de precatório (art. 730 do CPC), com a ressalva da hipótese de decisão administrativa superveniente, revogando ou anulando o ato de concessão da anistia política.
+(MS 21.077/DF, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 10/06/2015, DJe 18/06/2015)
+Nesse caso, não há como aferir eventual violação dos normativos apontados sem que se reexamine o conjunto probatório dos presentes autos, tarefa que, além de escapar da função constitucional deste Tribunal, encontra óbice no enunciado 7 da Súmula do STJ, cuja incidência é induvidosa no caso em exame.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR MUNICIPAL. COBRANÇA DE VERBAS SALARIAIS. ALEGAÇÃO DE RECONHECIMENTO DA DÍVIDA. AUSÊNCIA DE PROVA. ÔNUS QUE COMPETIA AO MUNICÍPIO. SÚMULA 7/STJ.
+1. Considerou o Tribunal de origem que: "(..) aduz o apelante  Município de Boa Vista  que houve erro do servidor que realizou os cálculos no procedimento administrativo e que a administração pública pode rever seus atos e anulá-los quando ilegais. Contudo, o apelante não se desincumbiu do ônus de comprovar o alegado, pois considerando que os atos administrativos têm presunção de veracidade, o Município não juntou aos autos qualquer prova de que aqueles cálculos foram anulados e quais seriam os corretos.
+2. Para que fosse possível a revisão dos fundamentos do acórdão recorrido seria imprescindível o reexame dos elementos fáticos constantes dos autos, o que é defeso em sede de recurso especial. Incidência da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 503.703/RR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 28/11/2014).
+Por fim, no que tange aos juros e correção monetária, a matéria não foi prequestionada na origem, razão pela qual não pode ser conhecida, ante o óbice da Súmula 282/STF, aplicada por analogia.
+Diante do exposto, nego provimento ao Recurso Especial.
+É como voto.
