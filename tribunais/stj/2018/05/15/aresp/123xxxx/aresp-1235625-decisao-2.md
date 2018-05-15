@@ -1,0 +1,49 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] OUTRO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO assim ementado:
+ARBITRAMENTO DE ALUGUEL - CERCEAMENTO DE DEFESA NÃO CONFIGURADO - CONDÔMINOS QUE OCUPAM COM EXCLUSIVIDADE OS IMÓVEIS HERDADOS - REPARAÇÃO PELA PRIVAÇÃO DA POSSE DEVIDA - VALORES LOCATÍCIOS - AUSÊNCIA DE COMPROVAÇÃO DAS IMPORTÂNCIAS COBRADAS E, AINDA, QUE CORRESPONDAM APENAS À PROPORÇÃO DA FRAÇÃO DO AUTOR -APURAÇÃO EM LIQUIDAÇÃO DE SENTENÇA - PRESCRIÇÃO EM RELAÇÃO ÀS PRESTAÇÕES VENCIDAS HÁ MAIS DE TRÊS ANOS DA DATA DA PROPOSITURA DA AÇÃO DEVIDAMENTE RECONHECIDA - DANOS MORAIS NÃO CARSCTERIZADOS - TRANSTORNOS QUE NÃO COMPORTAM REPARAÇÃO - LITIGÃNCIA DE MÁ-FÉ AFASTADA - AÇÃO PARCIALMENTE PROCEDENTE - RECURSO DO AUTOR NÃO PROVIDO E, PARCIALMENTE PROVIDO, O APELO DOS RÉUS.
+Nas razões do recurso especial (fls. 381-395), os ora recorrentes alegam violação do art. 315 do CPC/1973, sob o argumento de que a Corte a quo "não se manifestou sobre os pedidos formulados em reconvenção, na parte relativa ao seu direito de postular o reembolso de valores devidos pelo Autor e não pagos".
+Sustentam que:
+(..) se é direito do Recorrido, na condição de condômino, postular o recebimento de alugueres de imóveis ocupados pelos Recorrentes, é juridicamente coerente a postulação dos Recorrentes de serem reembolsados pelos valores relativos a taxas condominiais e impostos prediais, na proporção da parte que juridicamente competia ao autor, na condição de condômino dos mesmos imóveis. Os Recorrentes enfatizaram e pretenderam , em suas razões de apelação, agora reiteradas e ratificadas, ou a anulação da sentença guerreada, ou que seus termos fossem inteiramente modificados, ou seja, que os pedidos formulados em reconvenção fossem analisados e concedidos.
+Contrarrazões ás fls. 413-416.
+É o relatório. DECIDO.
+2. Inicialmente, destaca-se que, para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Na presente hipótese, os insurgentes alegam violação do art. 315 do CPC/1973. No entanto, verifica-se que o referido dispositivo legal, em que pese a oposição de embargos de declaração, não foi objeto de debate na instância de origem.
+Diante disso, conclui-se pela incidência da Súmula 211/STJ ao vertente caso, ante a falta do necessário prequestionamento da matéria.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. SUPLEMENTAÇÃO DE APOSENTADORIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211.DEFICIÊNCIA DE FUNDAMENTAÇÃO. SUMULA 284. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Incidência na espécie da Súmula 211/STJ.
+2. A ausência de explicitação precisa, por parte do recorrente, sobre a forma como teriam sido violados os dispositivos suscitados atrai a incidência do enunciado n. 284 da Súmula do STF.
+3. A conclusão a que chegou o Tribunal a quo acerca da irregularidade dos descontos no benefício do recorrido, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. A revisão de tais fundamentos demandaria alteração revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+4. Não foram cumpridas as formalidades previstas nos arts. 541 do CPC/73 e art. 255 do RISTJ, pois a recorrente limitou-se a transcrever excertos dos julgados paradigma, sem proceder à análise dos textos para demonstrar a divergência.
+5. Agravo interno não provido.
+(AgInt no AREsp 213.811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/04/2017, DJe 03/05/2017)
+PREQUESTIONAMENTO. AUSÊNCIA. ALEGADA OFENSA AOS ARTS. 131 E 333, I, DO CPC/1973. VALORAÇÃO DAS PROVAS PELO MAGISTRADO. LIVRE CONVENCIMENTO MOTIVADO.
+1. O acórdão impugnado por meio do recurso especial foi proferido sob a égide do CPC/1973, motivo pelo qual o juízo que se realizará a respeito do acerto ou desacerto do decidido será, quanto ao aspecto processual, exclusivamente orientado por essa normatividade. É que a aplicabilidade imediata assegurada à norma processual não implica a possibilidade da revisão dos atos já praticados pelo juiz, tampouco a desconstituição de situações jurídicas consolidadas sob a vigência da lei processual revogada (art. 14 do CPC/2015). Aplica-se o Enunciado Administrativo 2 do STJ.
+2. Não há como apreciar o mérito da controvérsia, porquanto a simples oposição de embargos de declaração, sem que a matéria tenha sido efetivamente discutida e decidida pela Corte a quo, não é suficiente para caracterizar o requisito do prequestionamento.
+Aplica-se, no ponto, a Súmula 211 desta Corte Superior.
+3. Não há que se falar em contrariedade aos arts. 131 e 333, I, do CPC/1973 em razão da valoração promovida pelo magistrado das provas coligidas nos autos, porquanto no nosso sistema processual aquele é o destinatário destas; cabe-lhe, por força do art. 131 do CPC/1973, apreciar o acervo fático-probatório livremente indicando os motivos que lhe formaram o convencimento.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 125.932/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+3. Ademais, os recorrentes aduzem que o acórdão foi omisso no tocante aos pedidos formulados em reconvenção, o que teria violado o art. 315 do CPC/1973.
+No entanto, saliento que referido artigo de lei afirma que, in verbis, "O réu pode reconvir ao autor no mesmo processo, toda vez que a reconvenção seja conexa com a ação principal ou com o fundamento da defesa".
+Analisando o aresto hostilizado, nota-se que em momento algum a Corte local contradisse a norma insculpida no citado comando legal, sendo que a alegação ofertada à apreciação deste Tribunal diz respeito a supostas omissões perpetradas pela instância a quo, o que não guarda pertinência com o art. 315 do CPC/1973.
+Conclui-se, pois, que o mencionado dispositivo do revogado Código de Ritos não ampara a quaestio iuris ora defendida, por não trazer conteúdo normativo apto a atingir a questão controvertida objeto da insurgência, motivo pelo qual deve ser aplicado o óbice da Súmula 284/STF, tendo em vista que a deficiência na fundamentação obstou o deslinde do caso.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CONTRATO DE SEGURO. GASTOS MÉDICOS. DANOS MATERIAIS. ART. 760 DO CC QUE NÃO AMPARA A TESE APRESENTADA NO RECURSO ESPECIAL. SÚMULA Nº 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O art. 760 do CC não ampara a tese apresentada no recurso especial de que os gastos médicos estão incluídos na indenização por danos corporais e não danos materiais. Incide, pois, a Súmula nº 284 do STF.
+3. Agravo interno não provido.
+(AgInt no AREsp 801.951/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/06/2016, DJe 01/07/2016)
+ADMINISTRATIVO. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO POR INUNDAÇÃO. DANO MORAL. QUANTIFICAÇÃO DO DANO MORAL. DISPOSITIVOS LEGAIS SUSCITADOS QUE SE DISSOCIAM DA TESE DEFENDIDA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA Nº 284 DO STF.
+1. No que concerne à tese de possível exorbitância do valor fixado por danos morais, depreende-se das razões recursais que os dispositivos citados - artigos 186 e 927 do CC - não se coadunam com o tema, visto que disciplinam os institutos jurídicos do ato ilícito e a obrigação de reparação do respectivo responsável civil, em nada tratando do quantum indenizatório devido.
+2. Consoante a jurisprudência pacificada nesta Corte Especial, o recurso especial será considerado deficiente quando o dispositivo legal tido por violado não ampara a tese defendida pelo recorrente, mediante aplicação analógica do verbete sumular 284/STF.
+a4.
+3. Agravo regimental improvido.
+(AgRg no AREsp 522.329/RN, Rel. Ministra MARGA TESSLER (JUÍZA FEDERAL CONVOCADA DO TRF 4ª REGIÃO), PRIMEIRA TURMA, julgado em 19/05/2015, DJe 28/05/2015)
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. POSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF.
+1. Consoante os princípios da instrumentalidade das formas e da fungibilidade recursal, é possível o recebimento do pedido de reconsideração como agravo regimental, desde que a irresignação tenha sido apresentada no prazo do recurso cabível. Precedentes.
+2. A deficiência da fundamentação do recurso inviabiliza a exata compreensão da controvérsia, atraindo, portanto, a incidência Súmula 284 do STF: "Inadmissível o recurso extraordinário, quando a deficiência da fundamentação não permitir a exata compreensão da controvérsia".
+3. Agravo regimental a que se nega provimento.
+(PET no REsp 1277692/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 26/05/2015, DJe 12/06/2015)
+4. Ante o exposto, nego provimento ao agravo em recurso especial interposto por [NOME].
+Publique-se. Intimem-se.
