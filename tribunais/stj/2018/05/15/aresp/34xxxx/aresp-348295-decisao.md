@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL desafiando decisão do Ilustre Terceiro Vice-Presidente do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul inadmitindo recurso especial, com base nos seguintes fundamentos: a) incidência da Súmula 284/STF no que se refere ao art. 535, do CPC/73, pois "(..) observo que o recorrente não logrou demonstrar com precisão qual a omissão do acórdão recorrido e qual sua relevância para o deslinde da controvérsia" (e-STJ, fl. 321); b) quanto ao art. 333, II, do CPC/73, incide a Súmula 7/STJ; c) incide a Súmula 83 desta Corte quanto ao temas da penalidade prevista no art. 359 do CPC/73, ao prazo prescricional e a cumulação do pagamento de dividendos com os juros sobre o capital próprio; d) no que se refere ao art. 884, do Código Civil incidem as Súmulas 5 e 7/STJ.
+É o relatório. Passa-se a decidir.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado Administrativo 2 do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+O agravo previsto no art. 544 do CPC tem por objetivo o processamento do recurso especial inadmitido pela Corte de origem. Assim, é imperioso que, nas razões recursais, a agravante demonstre expressamente o desacerto da decisão agravada.
+In casu, a parte agravante não rebateu, como lhe competia, todos os fundamentos da decisão recorrida, pois deixou de impugnar, especificamente, as Súmulas 5 e 7/STJ e 284/STF.
+Incide, na hipótese, por analogia, o princípio cristalizado na súmula 182 do Superior Tribunal de Justiça, segundo a qual é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+A propósito, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. INDENIZAÇÃO POR DANOS MORAIS. SUICÍDIO NAS DEPENDÊNCIAS DA PRISÃO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL PROFERIDA NA INSTÂNCIA DE ORIGEM. SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. In casu, o Tribunal de origem inadmitiu o Apelo Nobre por estar o acórdão recorrido em conformidade com a jurisprudência do STJ, o que atrai a incidência da Súmula 83/STJ, bem como por necessidade de reexame fático-probatório para a inversão do julgado, sendo aplicável a Súmula 7/STJ e por falta de comprovação do dissídio jurisprudencial. Por sua vez, no Agravo em Recurso Especial, o Estado-agravante limitou-se a repetir as razões do Apelo Extremo. Deixou, portanto, de atacar todos os fundamentos utilizados pela Corte a quo para a inadmissão do Recurso Especial.
+3. Agravo Regimental do Estado do Ceará desprovido.
+(AgRg no AREsp 384425/CE, Relator o Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, Julgamento em 22/4/2014; DJe de 8/5/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. REITERAÇÃO DAS RAZÕES RECURSAIS. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+1. O agravo que deixa de refutar especificamente os fundamentos da decisão agravada não deve ser conhecido, em virtude de expressa previsão legal (art. 544, § 4º, I, do CPC) e da incidência, por analogia, da Súmula n. 182/STJ.
+2. Não é suficiente, no agravo, repetir o teor do recurso especial, sendo necessário impugnar os fundamentos da decisão de inadmissibilidade.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 101565/SP, Relator o Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, Julgamento em 28/8/2012, DJe de 4/9/2012)
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
