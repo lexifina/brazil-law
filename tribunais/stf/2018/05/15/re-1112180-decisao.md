@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 5ª Região.
+    No apelo extremo, interposto com amparo no art. 102, III, a, da Constituição Federal, a parte recorrente sustenta que houve violação ao art. 5º, XXXVI, da Carta Magna.
+    É o relatório. Decido.
+    Não merecem ser acolhidas as razões da parte recorrente.
+    Quanto à alegação de afronta ao art. 5º, XXXVI, da Constituição Federal, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    De todo modo, a jurisprudência desta CORTE não vem amparando as teses suscitadas no apelo extremo. Nesse sentido:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. COMPENSAÇÃO. REPOSIÇÕES SALARIAIS POSTERIORES. LEIS 8.622/1993 E 8.627/1993. PRECEDENTE EM REPERCUSSÃO GERAL. TEMA 418. AI 843.753. QUESTÃO DE ÍNDOLE INFRACONSTITUCIONAL. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE 811.880-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 7/5/2018)
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE. INDÍCE DE 28,86%. COMPENSAÇÃO. LEIS Nºs 8.622/1993 E 8.627/1993. AGRAVO REGIMENTAL. INSURGÊNCIA VEICULADA CONTRA A APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL (ARTS. 543-B DO CPC E 328 DO RISTF). ACÓRDÃO RECORRIDO PUBLICADO EM 27.10.2010. 1. Exaustivamente examinados os argumentos veiculados no agravo regimental, porque adequada à espécie, merece manutenção a sistemática da repercussão geral aplicada, AI 843.753-RG/ (arts. 543-B do CPC e 328 do RISTF). 2. Agravo regimental conhecido e não provido.” (ARE 936463 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 12/4/2016)
+    Por fim, o Plenário do SUPREMO TRIBUNAL FEDERAL, no julgamento do AI 843.753 (Rel. MINISTRO PRESIDENTE, Tema 418), no qual se discutiu controvérsia análoga a destes autos, concluiu pela ausência de repercussão geral da matéria, haja vista a natureza infraconstitucional desse tema. A propósito, confira-se a ementa do julgado:
+    “RECURSO. Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Reajuste de 28,86% sobre a RAV. Compensação. Reposições salariais posteriores. Leis 8.622/1993 e 8.627/1993. Reajustamento. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a compensação do reajuste de 28,86% sobre a RAV com as reposições salariais posteriores ao reajustamento concedido pelas Leis 8.622/1993 e 8.267/1993, versa sobre tema infraconstitucional.” (AI 843753 RG, Rel. Min. MINISTRO PRESIDENTE, DJ de 31/8/2011)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 15 de maio de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
