@@ -1,0 +1,18 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. MONTADORA DE VEÍCULOS. DEFEITOS. DANOS. RESPONSABILIDADE OBJETIVA. REAUTUAR COMO RECURSO ESPECIAL PARA MELHOR EXAME DA CONTROVÉRSIA.
+DECISÃO
+Consta dos autos que GERSON ALVES COSTA, ANA RIBEIRO TEMPO, GIULIANO RIBEIRO COSTA, GEANI RIBEIRO COSTA, JOAB RIBEIRO COSTA (GERSON E OUTROS) propuseram ação de indenização por danos materiais e morais, com pedido de antecipação dos efeitos da tutela, ajuizada contra GENERAL MOTORS DO BRASIL LTDA (GENERAL MOTORS), em decorrência de acidente automobilístico.
+O juízo de piso julgou parcialmente procedente a ação (e-STJ, fls. 1.271/1.279).
+O tribunal de origem negou provimento ao agravo retido e deram parcial provimento ao apelo de e negaram provimento ao apelo de
+APELAÇÃO CÍVEL - MONTADORA DE VEÍCULOS - DEFEITOS - DANOS - RESPONSABILIDADE OBJETIVA - DANO MORAL - VALOR - ARBITRAMENTO - PARÂMETROS. 1. A montadora de veículos responde de forma objetiva pelos danos causados aos consumidores em virtude de defeitos existentes em seus veículos, especialmente em se tratando de peças que dizem respeito à segurança dos usuários. 2. O valor da indenização por dano moral deve ser fixado examinando-se as peculiaridades de cada caso e, em especial, a gravidade da lesão, a intensidade da culpa do agente, a condição sócio-econômica das partes e a participação de cada um nos fatos que originaram o dano a ser ressarcido, de tal forma que assegure ao ofendido satisfação adequada ao seu sofrimento, sem o seu enriquecimento imotivado, e cause no agente impacto suficiente para evitar novo e igual atentado (e-STJ, fl. 1.432).
+Os embargos de declaração opostos pela GENERAL MOTORS foram rejeitados (e-STJ, fls. 1.507/1.517).
+Inconformada, GENERAL MOTORS interpôs o recurso especial, com base no art. 105, III, a, da CF, alegando ofensa aos arts. 132 do CPC/73; 443, II e 1.022 do NCPC; 400, II e 535 do CPC/73, sob o argumento de que: 1) há negativa de prestação jurisdicional, haja vista que o tribunal de origem não se manifestou sobre os pontos discutidos nos embargos de declaração; 2) inadmissibilidade da prova testemunhal para fins de apuração de vício no produto a par da realização de exame técnico; e, 3) nulidade da sentença proferida por juiz distinto daquele que presidiu a instrução processual (e-STJ, fls. 1.520/1.533).
+As contrarrazões foram apresentadas (e-STJ, fls. 1.538/1.557).
+O apelo nobre não foi admitido por: a) ausência de ofensa ao art. 535 do CPC/73; e, b) incidência das Súmulas nº 7 e 83 do STJ (e-STJ, fl. 1.559/1.560).
+Sobreveio agravo em recurso especial de GENERAL MOTORS no qual alega ter preenchido todos os requisitos necessários para admissibilidade do recurso e argumentou não buscar o reexame dos fatos da causa (e-STJ, fls. 1.562/1.574).
+Com contraminuta (e-STJ, fls. 1.576/1.589).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Para melhor exame da controvérsia, CONHEÇO do agravo para DETERMINAR A SUA AUTUAÇÃO COMO RECURSO ESPECIAL, nos termos do art. 253, inciso II, alínea d, do RISTJ (com a redação dada pela Emenda Regimental nº 16, de 2014).
+Publique-se. Intimem-se.
