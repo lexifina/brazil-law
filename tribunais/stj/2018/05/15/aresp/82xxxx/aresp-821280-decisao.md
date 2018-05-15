@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, inciso III, "c", da Constituição Federal.
+De início, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Dito isso, mediante análise dos autos, verifico que a pretensão deduzida no recurso especial obstado não merece acolhimento.
+Com efeito, o recorrente busca a aplicação retroativa do Decreto n. 4.882/03 até "o advento do do Decreto 2.172/97 para que seja declarada insalubre/especial a atividade desenvolvida sob a exposição a  ..  ruído com intensidade superior a 85 decibéis" (e-STJ fl. 457).
+No entanto, a Primeira Seção do STJ, ao julgar recurso especial, sob a sistemática do art. 543-C do CPC/1973, decidiu pela impossibilidade de aplicação retroativa do Decreto n. 4.882/2003, que estabeleceu novo limite de 85 dB de tolerância ao ruído.
+Destaco:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MATÉRIA REPETITIVA. ART. 543-C DO CPC E RESOLUÇÃO STJ 8/2008. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL. TEMPO ESPECIAL. RUÍDO. LIMITE DE 90DB NO PERÍODO DE 6.3.1997 A 18.11.2003. DECRETO 4.882/2003. LIMITE DE 85 DB. RETROAÇÃO. IMPOSSIBILIDADE. APLICAÇÃO DA LEI VIGENTE À ÉPOCA DA PRESTAÇÃO DO SERVIÇO.
+Controvérsia submetida ao rito do art. 543-C do CPC 1. Está pacificado no STJ o entendimento de que a lei que rege o tempo de serviço é aquela vigente no momento da prestação do labor.
+Nessa mesma linha: REsp 1.151.363/MG, Rel. Ministro Jorge Mussi, Terceira Seção, DJe 5.4.2011; REsp 1.310.034/PR, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 19.12.2012, ambos julgados sob o regime do art. 543-C do CPC.
+2. O limite de tolerância para configuração da especialidade do tempo de serviço para o agente ruído deve ser de 90 dB no período de 6.3.1997 a 18.11.2003, conforme Anexo IV do Decreto 2.172/1997 e Anexo IV do Decreto 3.048/1999, sendo impossível aplicação retroativa do Decreto 4.882/2003, que reduziu o patamar para 85 dB, sob pena de ofensa ao art. 6º da LINDB (ex-LICC). Precedentes do STJ.
+Caso concreto 3. Na hipótese dos autos, a redução do tempo de serviço decorrente da supressão do acréscimo da especialidade do período controvertido não prejudica a concessão da aposentadoria integral.
+4. Recurso Especial parcialmente provido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 8/2008.
+(REsp 1398260/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 14/05/2014, DJe 05/12/2014)
+Na hipótese dos autos, o Tribunal de origem não divergiu desse entendimento, razão pela qual incide, ao caso, a Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida"
+Assim, a pretensão recursal não merece acolhimento.
+Registro, por oportuno, que o marco inicial de aplicação do Novo Código de Processo Civil é a intimação do decisum recorrido, a qual, no presente caso, foi realizada sob a égide do antigo Codex Processual. Assim, nos termos do Enunciado Administrativo nº 2 do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Por fim, não haverá arbitramento de honorários recursais, por se tratar de recurso interposto na vigência do Código de Processo Civil de 1973.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
