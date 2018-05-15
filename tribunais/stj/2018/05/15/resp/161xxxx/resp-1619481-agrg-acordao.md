@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXTRAÇÃO DE CÓPIA DOS AUTOS E REMESSA À ORIGEM PARA EXECUÇÃO PROVISÓRIA DA PENA. PROVIDÊNCIA EMBASADA NA ALTERAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL ACERCA DA PRESUNÇÃO DE NÃO CULPABILIDADE. INSURGÊNCIA DESPROVIDA.
+1. Nos termos do entendimento adotado pelo Supremo Tribunal Federal no julgamento do HC n. 126.292/SP, a determinação de imediato início do cumprimento da pena após a afirmação da responsabilidade criminal pelas instâncias ordinárias se revela consentânea com os princípios encartados na Constituição Federal, mormente em razão da ausência, em regra, de efeito suspensivo aos recursos de natureza extraordinária.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Trata-se de agravo regimental interposto por [NOME] contra decisão unipessoal desta Relatoria (fl. 554), por meio da qual foi deferido o requerimento do Parquet federal relativo à execução provisória da pena, determinando-se o encaminhamento de cópia dos autos ao Juízo da condenação para as providências cabíveis.
+Alega o agravante, em síntese, que o entendimento firmado pelo Supremo Tribunal Federal no HC n. 126.292, para o deferimento da execução provisória da reprimenda, viola o princípio da presunção de inocência, segundo o qual a culpa do réu somente pode ser reconhecida com o trânsito em julgado da sentença condenatória.
+Afirma, dessa forma, ser incabível a prisão antes de transitar em julgado a condenação, mormente in casu, em que houve uma decisão absolutória na primeira instância e condenatória em segunda.
+Requer, ao final, a reconsideração do decisum ou a submissão do agravo ao Colegiado, dando-se provimento ao inconformismo para que seja cassada a decisão que determinou o início do cumprimento da pena.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Os elementos existentes nos autos indicam que o agravante foi condenado pelo Juízo de primeiro grau como incurso nas sanções do artigo 157, § 2º, incisos I e II, do Código Penal, às penas de 5 anos e 6 meses de reclusão, em regime inicial fechado, e pagamento de 13 dias-multa, por ter, juntamente com outros agentes, subtraído para si, mediante grave ameaça exercida com emprego de arma de fogo, o automóvel das vítimas e diversos objetos que estavam no interior do veículo.
+O Tribunal de Justiça do Estado do Rio de Janeiro houve por bem dar parcial provimento à apelação defensiva para afastar a majorante relativa ao emprego de arma, reduzindo a reprimenda corporal para 5 anos e 4 meses de reclusão e modificar o regime prisional para o semiaberto.
+Nas razões do apelo nobre, fulcrado nas alíneas "a" e "c" do permissivo constitucional, o Parquet estadual sustentou a ocorrência de divergência jurisprudencial e negativa de vigência aos artigos 157, § 2º, inciso I, do Estatuto Repressivo, e 155, 158, 167 e 564, inciso III, b, do Código de Processo Penal, argumentando que a ausência de apreensão e perícia da arma de fogo utilizada no cometimento do delito não constitui impedimento para a aplicação da majorante do emprego de arma no cômputo da pena.
+Requereu, ao final, o provimento do inconformismo para que fosse reconhecida a majorante prevista no art. 157, § 2º, inciso I, do Código Penal, restabelecendo-se a sentença condenatória.
+Contrarrazoada a insurgência (fls. 509/518), após o juízo prévio de admissibilidade (fl. 520), os autos ascenderam a esta Corte Superior de Justiça, tendo o Ministério Público Federal, na condição de custos legis, se manifestado pelo provimento da irresignação (fls. 535/538).
+Em decisão monocrática proferida por este Relator, deu-se provimento ao recurso especial.
+O Parquet federal, por meio da petição à fl. 548, formulou pedido de remessa de cópia dos autos à origem, para fins de execução provisória da pena, o que foi deferido com base no entendimento proferido pelo Supremo Tribunal Federal no HC n. 126.292/SP (fl. 554).
+Em face da decisão interlocutória é que a defesa se insurge por meio deste agravo regimental.
+A irresignação, porém, não merece prosperar.
+O Colendo Supremo Tribunal Federal, nos autos do HC n. 126.292/SP, por maioria de votos, entendeu que não se mostra arbitrária, mas inteiramente justificável, a possibilidade de o julgador determinar o imediato início do cumprimento da pena, inclusive com restrição da liberdade do condenado, após firmada a responsabilidade criminal pelas instâncias ordinárias, tendo em vista que os recursos extraordinários não são dotados de efeito suspensivo.
+Veja-se:
+CONSTITUCIONAL. HABEAS CORPUS. PRINCÍPIO CONSTITUCIONAL DA PRESUNÇÃO DE INOCÊNCIA (CF, ART. 5º, LVII). SENTENÇA PENAL CONDENATÓRIA CONFIRMADA POR TRIBUNAL DE SEGUNDO GRAU DE JURISDIÇÃO. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE.
+1. A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal.
+2. Habeas corpus denegado.
+(HC 126292, Relator(a): Min. TEORI ZAVASCKI, Tribunal Pleno, julgado em 17/02/2016, PROCESSO ELETRÔNICO DJe-100 DIVULG 16-05-2016 PUBLIC 17-05-2016)
+Note-se que, embora seja desprovido de efeito vinculante, o referido precedente reflete o posicionamento do Supremo Tribunal Federal acerca da extensão do princípio da presunção de não culpabilidade previsto no inciso LVII do seu artigo 5º, o qual deve ser encampado como medida voltada a garantir a eficácia da jurisdição penal e resgatar a credibilidade do Estado na sua função de reprimir as condutas que violam os bens jurídicos mais caros da sociedade e escolhidos como objeto de tutela.
+Assim, a partir dessa orientação do STF, este Superior Tribunal de Justiça passou a deferir os pedidos de execução provisória da pena formulados pelo Ministério Público nos autos dos recursos especiais.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AGRAVANTE CONDENADO PELO CRIME DE TRÁFICO DE DROGAS. ADOÇÃO DA NOVA ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL. POSSIBILIDADE DE EXECUÇÃO PROVISÓRIA DA PENA.
+1. A nova orientação consolidada pelo Supremo Tribunal Federal, trilhada por esta Corte, é no sentido de possibilitar a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário (HC n. 126.292/SP, relator o Ministro Teori Zavascki, Tribunal Pleno, DJe 17/5/2016).
+2. Ademais, na tarde do dia 5/10/2016, por 6 votos a 5, o Plenário do
+Pretório Excelso indeferiu as cautelares requeridas nas Ações Declaratórias de Constitucionalidade n. 43 e 44, entendendo que o disposto no art. 283 do Código de Processo Penal não veda o início da execução penal após a condenação em segundo grau de jurisdição.
+3. Por fim, o Excelso Pretório, por seu Tribunal Pleno, reconheceu a existência de repercussão geral da questão constitucional suscitada, reafirmando sua jurisprudência dominante, no sentido de que "a execução provisória de acórdão penal condenatório proferido em grau recursal, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal" (ARE 964.246/SP, Rel. Ministro Teori Zavascki, DJe 25/11/2016).
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC 375.018/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 02/03/2017)
+PROCESSO PENAL. AGRAVO INTERNO NO HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. PRISÃO DETERMINADA PELO TRIBUNAL APÓS O JULGAMENTO DA APELAÇÃO. POSSIBILIDADE. EXECUÇÃO PROVISÓRIA DA PENA. LEGALIDADE. RECENTE ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. AUSÊNCIA DE PATENTE ILEGALIDADE. AGRAVO NÃO PROVIDO.
+1. A prolação de decisão monocrática pelo ministro relator está autorizada não apenas pelo RISTJ, mas também pelo CPC e pela Lei n. 8.038/1990. Ademais, os temas sempre poderão ser levados ao colegiado, por meio do controle recursal, com a interposição de agravo regimental.
+2. O Plenário do Supremo Tribunal Federal, por maioria de votos, entendeu que a possibilidade de início da execução da pena condenatória após a confirmação da sentença em segundo grau não ofende o princípio constitucional da presunção da inocência (HC n. 126292, julgado no dia 17 de fevereiro de 2016).
+3. No particular, como a sentença condenatória foi confirmada pelo Tribunal de origem e porquanto encerrada a jurisdição das instâncias
+ordinárias (bem como a análise dos fatos e provas que assentaram a culpa do condenado), é possível dar início à execução provisória da pena antes do trânsito em julgado da condenação, sem que isso importe em violação do princípio constitucional da presunção de inocência.
+4. Agravo regimental não provido.
+(AgRg no HC 370.187/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 17/02/2017)
+Na linha desse entendimento, se afigura correta, portanto, a remessa de cópia dos autos à origem para fins de execução provisória da pena, tal como requerido pelo órgão ministerial, motivo pelo qual deve ser mantido o decisum singular em seus exatos termos.
+Por essas razões, nega-se provimento ao agravo regimental.
+É o voto.
