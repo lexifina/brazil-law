@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por [NOME] e OUTROS contra a decisão de fl. 119, que não conheceu do agravo em recurso especial por ser manifestamente incabível.
+Em suas razões, sustenta a parte Embargante, em síntese, que "Vossa Excelência deixou de considerar o pedido formulado pelos embargantes e, consequentemente, ter se tratado de mera irregularidade ocorrida no momento da digitação da petição recursal" (fl. 123).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado na decisão embargada, o agravo em recurso especial (art. 1.042 do CPC) foi interposto contra decisão proferida em sede de agravo de instrumento (art. 522 do CPC/73), interposto contra os acórdãos.
+Veja que o agravo de instrumento, previsto no art. 522 do Código de Processo Civil de 1973 (atual art. 1.015 do Código de Processo Civil) destina-se, primordialmente, a atacar decisões interlocutórias proferidas por juízes de primeiro grau de jurisdição.
+No caso dos autos, contra os acórdãos, a parte deveria ter interposto recurso especial, nos termos do art. 105, inciso III, da Constituição Federal, e não agravo de instrumento.
+Conforme entendimento desta Corte a interposição equivocada de recurso quando há expressa disposição legal e ausente dúvida objetiva, constitui manifesto erro grosseiro.
+É sabido que o recurso especial tem pressupostos específicos de cabimento, bem como fundamentos vinculados em sua interposição e razões recursais, critérios que não foram minimamente observados pela parte, que sequer indicou dispositivo legal supostamente violado, o que transparece não se tratar apenas de mero erro de digitação, mas sim, evidente erro grosseiro.
+Desta forma, inaplicável o princípio da fungibilidade, que "pressupõe dúvida objetiva a respeito do recurso a ser interposto, inexistência de erro grosseiro e observância do prazo do recurso correto, o que não ocorre na espécie" (AgRg nos EREsp 1357016/RS, Rel. Ministro ARI PARGENDLER, PRIMEIRA SEÇÃO, julgado em 26/06/2013, DJe 02/08/2013).
+Registre-se ainda que o agravo em recurso especial, previsto no art. 1.042 e seguintes do Código de Processo Civil, é destinado a atacar decisões que efetivamente analisam os pressupostos de admissibilidade do recurso especial na origem. E como dito, no caso dos autos, sequer houve a interposição de recurso especial. Portanto, o agravo é manifestamente incabível.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
