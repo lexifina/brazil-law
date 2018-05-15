@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] COSTA, em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que proveu parcialmente a apelação defensiva.
+Consta dos autos que o paciente foi condenado à pena de 8 anos de reclusão, em regime inicial fechado, mais 1200 dias-multa, pela prática dos delitos previstos nos arts. 33 e 35 da Lei n. 11.343/06.
+Ato seguinte, a defesa interpôs recurso de apelação perante a Corte de origem, a qual lhe proveu parcialmente para absolver o paciente do ilícito previsto no art. 35 da Lei de Drogas, e redimensionar a reprimenda a 3 anos e 4 meses de reclusão, substituída por restritiva de direitos, e alterar o regime inicial para o aberto.
+No presente habeas corpus, alega a ocorrência de constrangimento ilegal sob o argumento de que seria devida a aplicação da causa de diminuição especial no patamar máximo previsto no art. 33, § 4º, da Lei de Drogas, uma vez que a quantidade de droga encontrada com o paciente é bem inferior ao padrão médio de apreensão nas hipóteses do crime de tráfico em sua forma simples (fl. 4).
+Requer a concessão da ordem constitucional para que seja aplicada a fração de 2/3 pelo redutor especial do tráfico.
+Indeferida a liminar, prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+É o relatório.
+DECIDO.
+No concernente ao pleito de redimensionamento da fração referente à causa de diminuição especial do art. 33, § 4º, da Lei de Drogas, tem-se que o Tribunal a quo fixou o quantum de 1/3, com os seguintes fundamentos (fls. 64):
+Remanescendo a condenação do corréu [NOME] apenas pelo crime tráfico de drogas, torna-se viável a aplicação da causa de diminuição do art. 33, da Lei 11.343/06, porquanto preenchidos todos os seus requisitos; trata-se de réu primário e bons antecedentes - com pena fixada no mínimo legal - inexistido prova de dedicação à atividade delitiva ou de que se integrasse organização criminosa.
+Malgrado, a quantidade e a natureza da droga apreendida - 108g de cocaína divididos em 165 papelotes - não recomendam a adoção do redutor na fração máxima, revelando-se consentâneo com seu grande potencial de difusão e de afetação à saúde de pública o patamar intermediário de 1/3 (um terço). Com isso, a pena se acomoda em 3 anos e 4 meses de reclusão mais 333 dias-multa.
+Com efeito, no presente caso, verifica-se que foi fixada a fração de 1/3, pela aplicação da causa de diminuição especial do art. 33, § 4º, da Lei de Drogas, com fulcro na quantidade e na natureza da droga apreendida - 108g de cocaína divididos em 165 papelotes, fundamento apto a justificar a escolha do quantum em patamar inferior ao máximo previsto. Nesse sentido, o seguinte julgado:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DA DROGA UTILIZADA PARA MODULAR A FRAÇÃO DE REDUÇÃO. POSSIBILIDADE. REGIME PRISIONAL. QUANTIA E ESPÉCIE DO ENTORPECENTE. MODO SEMIABERTO. ADEQUADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. FALTA DE PREENCHIMENTO DE REQUISITO SUBJETIVO. FLAGRANTE ILEGALIDADE VERIFICADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+3. Na falta de indicação pelo legislador das balizas para o quantum da redução, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do delito, podem ser utilizadas na definição de tal índice ou, até mesmo, para afastar a aplicação da minorante quando evidenciarem a habitualidade do agente no comércio ilícito de entorpecentes. Precedentes.
+4. Hipótese na qual a instância ordinária, de forma motivada, atenta às diretrizes do art. 42 da Lei de Drogas, considerou a quantidade e a natureza da droga apreendida - 140 eppendorfs de cocaína (63,7g) -, exclusivamente, na terceira etapa da dosimetria da pena, para fazer incidir a minorante em 1/3, o que não se mostra desproporcional. Precedentes STJ e STF.
+ ..
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime inicial semiaberto.
+(HC 434.921/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/03/2018, DJe 19/03/2018)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
