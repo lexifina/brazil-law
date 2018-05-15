@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO MAJORADO. EXCESSO DE PRAZO PARA JULGAMENTO DE RECURSOS DE APELAÇÃO. PARCIAL PREJUDICIALIDADE. JULGAMENTO SUPERVENIENTE DE UM DOS RECURSOS. PRISÃO DOMICILIAR. DOENÇA GRAVE. DEBILIDADE EXTREMA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL. NÃO CONFIGURAÇÃO. HABEAS CORPUS DENEGADO.
+1. Constata a superveniência do julgamento de um dos recurso de apelação, acerca do qual havia a imputação de excesso de prazo para julgamento, resta prejudicado o habeas corpus nesse ponto.
+2. Uma vez que o pedido de substituição da prisão preventiva pela domiciliar não foi analisado pela origem, não pode ser apreciado nesse momento a fim de evitar supressão de instância.
+3. A aferição da razoabilidade da duração do processo não se efetiva de forma meramente aritmética. Ainda que a paciente esteja presa desde 2015 e o apelo tenha sido interposto em 3/5/2016, verifica-se que a custódia cautelar não se revela desproporcional tendo em vista que esta, além de estar cumprindo pena por outras duas condenações, possui aplicada pena de 13 anos e 8 meses de reclusão anos de reclusão, encontrando-se o recurso com data de julgamento marcada para data próxima, no dia 15/5/2018.
+4. Habeas corpus denegado.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, denegar a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de habeas corpus no qual se busca o direito de recorrer em liberdade, com a alegação de excesso de prazo para julgamento dos recursos de apelação criminal n. 0044226-11.2015.8.13.0040/MG e n. 0059521-88.2015.8.13.0040/MG, ou a substituição pela prisão domiciliar, com fulcro no art. 318, II, do CPP.
+A paciente, [NOME], foi condenada pela prática do crime tipificado no art. 157, § 2º, I e II, do Código Penal, à pena de 7 anos e 6 meses de reclusão, em regime fechado, quanto ao primeiro processo referido, e pela prática do crime tipificado no art. 157, § 2º, I, II, do Código Penal, à pena de 13 anos e 8 meses de reclusão, em regime fechado, quanto ao segundo processo.
+As informações foram prestadas.
+O parecer do Ministério Público Federal foi no sentido da denegação do writ.
+Na origem, na apelação criminal n. 0044226-11.2015.8.13.0040/MG, houve o julgamento em 5/3/2018, enquanto, na apelação n. 0059521-88.2015.8.13.0040/MG, o julgamento está previsto para o dia 15/5/2018, conforme informações processuais eletrônicas disponíveis em 20/4/2018.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A impetração busca o direito de recorrer em liberdade, com a alegação de excesso de prazo para julgamento dos recursos de apelação criminal n. 0044226-11.2015.8.13.0040/MG e n. 0059521-88.2015.8.13.0040/MG, ou a substituição pela prisão domiciliar, com fulcro no art. 318, II, do CPP.
+Conforme informações eletrônicas disponíveis do Tribunal de origem, o writ encontra-se prejudicado quanto à alegação de excesso de prazo referente à apelação n. 0044226-11.2015.8.13.0040/MG, pois houve o seu julgamento em 5/3/2018.
+A matéria relativa à prisão domiciliar não foi objeto de análise do Tribunal de origem, conforme cópia de acórdão de fls. 91/92. Então, esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+Quanto ao excesso de prazo para o julgamento do recurso de apelação criminal n. 0059521-88.2015.8.13.0040/MG, consoante informações prestadas (fls. 193/243 e 130/159) a paciente teve o seu mandado de prisão cumprido neste processo em 3/8/2015, já se encontrava presa no presídio de Araxa/MG em virtude de outros processos.
+A paciente foi sentenciada em 11/4/2016 e interpôs recurso de apelação, que foi recebido em 22/7/2016, mesma data em que foi distribuído e concluso ao relator.
+Os autos foram entregues ao Ministério Público para parecer em 2/8/2016 e devolvidos em 24/8/2016, tendo sido conclusos em 28/9/2016 ao relator. Posteriormente, em 5/10/2017, os autos foram remetidos à 1ª Câmara Criminal, sendo, em 13/11/2017, desapensada da apelação que já foi julgada.
+Houve nova conclusão dos autos em 20/11/2017, sobrevindo despacho em 26/3/2018, com determinação de remessa à revisão. O julgamento está previsto para o dia 15/5/2018.
+Sabe-se que o prazo para a conclusão de julgamento de apelação não tem as características de fatalidade e de improrrogabilidade, sendo imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais.
+Na espécie, ainda que a paciente esteja presa desde 3/8/2015 (fl. 153) e o apelo tenha sido interposto em 3/5/2016, verifica-se que a custódia cautelar não se revela desproporcional, tendo em vista que esta, além de estar cumprindo pena por outras duas condenações, possui aplicada pena de 13 anos e 8 meses de reclusão anos de reclusão na ação penal n. 0059521-88.2015.8.13.0040/MG (fl. 64), encontrando-se o seu recurso com data de julgamento marcada para data próxima, no dia 15/5/2018. Desse modo, constata-se que a marcha processual apresenta-se razoável, embora o apelo criminal esteja pendente de julgamento.
+Ante o exposto, voto por denegar o habeas corpus.
