@@ -1,0 +1,10 @@
+DECISÃO
+SÉRGIO LIMA BRITO e outro opõem embargos de declaração em face da decisão que conheceu do agravo e deu provimento ao recurso especial interposto por BANCO SANTANDER BRASIL S/A, reconhecendo a prescrição trienal da pretensão de obter diferenças de correção monetária, decorrentes de expurgos inflacionários, em depósito judicial (fls. 648/655).
+Os embargantes sustentam que a decisão embargada é omissa e contraditória, uma vez que, de acordo com os artigos 450 do Código Comercial e 168, IV, do Código Civil de 1916, "não corre prescrição a favor do depositário" (fl. 658) e "a prescrição na hipótese dos autos é regida pelo art. 205 do Código Civil/02" (fl. 659). Cita precedentes desta Corte e do Tribunal de origem acerca do prazo prescricional aplicável ao caso.
+Não há vício a sanar.
+A decisão embargada foi clara no sentido de que, em razão das regras aplicáveis aos depósitos judiciais, a prescrição somente começa a fluir com o levantamento da quantia (extinção do contrato), pois é o momento em que ocorreu a lesão, com o conhecimento pelo depositante acerca da insuficiência do valor restituído e que "o pedido inicial é relativo a valores para cujo ressarcimento não havia previsão contratual, e a pretensão prescreve, portanto, em 3 (três) anos, por se tratar de demanda fundada em enriquecimento sem causa (art. 206, § 3º, inciso IV)" (fl. 653).
+Como se vê, o termo inicial de fluência e o próprio prazo prescricional aplicável foram decididos de forma fundamentada e harmônica, inclusive com base na jurisprudência da Corte.
+Lembro que a contradição que dá ensejo aos embargos de declaração é a interna, isto é, aquela que se verifica entre suas premissas e sua conclusão, o que não se apresenta na espécie.
+A pretensão dos embargantes, portanto, não é a correção de omissão ou contradição, mas modificação da conclusão da decisão embargada, mediante a revisão dos seus fundamentos, o que é incompatível com a natureza dos embargos de declaração.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
