@@ -1,0 +1,54 @@
+EMENTA
+ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. PARCELA CONSTITUCIONAL DE IRREDUTIBILIDADE (PCI). REDUÇÃO DE VENCIMENTOS NÃO OBSERVADA. AUSÊNCIA DE VIOLAÇÃO A DIREITO LÍQUIDO E CERTO. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DO STJ.
+1. A jurisprudência do STJ entende que o servidor público não tem direito adquirido a regime jurídico, sendo-lhe assegurada pelo ordenamento constitucional pátrio apenas a irredutibilidade de vencimentos, não havendo impedimento de que a Administração promova alterações na composição dos seus vencimentos, retirando vantagens, gratificações e reajustes, absorvendo-as em outras parcelas, ou, ainda, modificando a forma de cálculo de determinada rubrica, desde que não acarrete decesso do valor remuneratório nominal.
+2. O que se veda é a redução nominal no valor total da remuneração, e não de uma das verbas que compõem a aludida remuneração separadamente considerada, como é o caso da Parcela Constitucional de Irredutibilidade, que foi criada justamente para evitar a redução no valor total dos vencimentos.
+3. Ademais, a Corte de origem, no enfrentamento da matéria, asseverou que a referida parcela tem caráter transitório, e não permanente, como sustentam os recorrentes. Conclusão em sentido diverso demandaria dilação probatória, o que não é possível em Mandado de Segurança, via processual na qual se exige a prova documental pré-constituída.
+4. Recurso Ordinário não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao recurso ordinário, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Ordinário em Mandado de Segurança interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado (fl. 288, e-STJ):
+E M E N T A - MANDADO DE SEGURANÇA - PREJUDICIAL DE MÉRITO AFASTADA - PARCELA CONSTITUCIONAL DE IRREDUTIBILIDADE (PCI) - VERBA DE NATUREZA TRANSITÓRIA - REDUÇÃO DE VENCIMENTOS NÃO OBSERVADA - AUSÊNCIA DE VIOLAÇÃO A DIREITO LÍQUIDO E CERTO - ORDEM DENEGADA.
+Rejeita-se a preliminar de decadência. O termo inicial do prazo decadencial deu-se com a publicação na imprensa oficial da Lei Estadual 4.890/16, in casu, 27.07.2016. Uma vez que o mandamus foi protocolado em 21.10.2016, vê-se que não decorrido o prazo de 120 dias previsto no art. 23 da Lei 12.016/06.
+A Parcela Constitucional de Irredutibilidade - PCI é verba de caráter transitório que deverá ser absorvida no valor dos subsídio, proventos e das pensões, por meio de futuros reajustes, reestruturação parcial ou setorial ou índices de correção de distorções no valor do subsídio. Tem como objetivo minimizar, ao longo do tempo, os desníveis remuneratórios entre os integrantes das carreiras. Ao passo que o subsídio é elevado, o valor da PCI é a ele aglutinado, diminuindo enquanto parcela propriamente dita, tendendo a desaparecer com o tempo, não podendo ser utilizada, em qualquer situação, para compor outra vantagem pecuniária.
+Considerando que a Lei Estadual 4.890/2016 trouxe um reajuste remuneratório setorial, pois destinado a determinado grupo de servidores públicos e destinado a corrigir situações de injustiça/reestruturação de salário de determinados cargos frente as suas atribuições e responsabilidades, perfeitamente possível a absorção da Parcela Constitucional de Irredutibilidade no subsídio dos impetrantes, não havendo qualquer ilegalidade ou violação a normas constitucionais, até mesmo porque há muito já decide o Supremo Tribunal Federal que não existe direito jurídico a regime remuneratório, desde que a eventual modificação introduzida por ato legislativo superveniente preserve o montante global da remuneração e, em consequência, não provoque decesso de caráter pecuniário, o que ocorreu na hipótese, tendo em vista que os valores finais a receber como subsídio foram mantidos.
+Em parte com o parecer, rejeita-se a preliminar arguída e, no mérito, denega-se a segurança.
+Os Embargos de Declaração foram rejeitados (fl. 332, e-STJ).
+Em suas razões, as partes recorrentes alegam, em síntese, que o PCI não se trata de verba transitória, mas sim permanente, tendo natureza jurídica de vencimento, não sendo possível a sua redução.
+Defendem:
+21. Portanto, como o PCI é incorporado ao vencimento do servidor para integrar a base de cálculo para efeito de incidência da contribuição previdenciária, por consequência, é irredutível.
+(..)
+30. Embora os servidores públicos não possam opor a alegação de direito adquirido, por exemplo, à forma de cálculo de determinada vantagem funcional, não se mostra possível à Administração, ao promover a alteração no respectivo regime funcional, reduzir-lhes os vencimentos nominalmente percebidos.
+O Ministério Público Federal, às fls. 398-401, e-STJ, opinou pelo desprovimento do recurso.
+Contrarrazões apresentadas às fls. 403-427, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 16.3.2018.
+A irresignação não merece prosperar.
+A jurisprudência do STJ entende que o servidor público não tem direito adquirido a regime jurídico, sendo-lhe assegurada pelo ordenamento constitucional pátrio apenas a irredutibilidade de vencimentos, não havendo impedimento de que a Administração promova alterações na composição dos seus vencimentos, retirando vantagens, gratificações e reajustes, absorvendo-as em outras parcelas, ou, ainda, modificando a forma de cálculo de determinada rubrica, desde que não acarrete decesso do valor remuneratório nominal.
+Sobre o tema:
+ADMINISTRATIVO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. (..) VANTAGEM PREVISTA NO ART. 192, II, DA LEI N. 8.112/90. BASE DE CÁLCULO. VENCIMENTO BÁSICO DO PADRÃO OCUPADO. PRECEDENTES.
+1. A pretensão recursal reside na declaração de que as gratificações GEMAS, RT e GTMS integram o conceito de remuneração, e, assim, na condenação da UFRGS ao pagamento das diferenças decorrentes desta declaração, uma vez que a medida liminar existente nos autos de mandado de segurança coletivo estaria sendo descumprida.
+2. O acórdão recorrido consignou que o objeto da presente ação está compreendido no Mandado de Segurança Coletivo n. 2000.71.00.0191648, uma vez que a GTMS, a GEMAS e a RT compõem a remuneração do servidor, e, como a autora optou por ajuizar a presente ação individual em detrimento da ação coletiva no que se refere às parcelas aqui discutidas (GTMS, GEMAS e RT), não poderá ser beneficiada pelos efeitos do mandado de segurança coletivo.
+(..)
+7. A jurisprudência desta Corte firmou-se no sentido de que a vantagem pecuniária prevista no art. 192, II, da Lei n. 8.112/90 deve ser calculada levando-se em conta a diferença entre o vencimento básico do padrão que o servidor ocupava e o do padrão imediatamente anterior, excluídos os acréscimos.
+8. A jurisprudência deste Tribunal Superior entende ainda que o servidor público não tem direito adquirido a regime jurídico, sendo-lhe assegurada pelo ordenamento constitucional pátrio apenas a irredutibilidade de vencimentos, não havendo impedimento de que a Administração promova alterações na composição dos seus vencimentos, retirando vantagens, gratificações e reajustes, absorvendo-as em outras parcelas, ou, ainda, modificando a forma de cálculo de determinada rubrica, desde que não acarrete decesso do valor remuneratório nominal.
+Agravo regimental improvido.
+(AgRg no REsp 1473435/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 07/04/2015, DJe 13/04/2015).
+Consoante o entendimento firmado no STJ, o que se veda é a redução nominal no valor total da remuneração, e não de uma das verbas que compõem a aludida remuneração separadamente considerada, como é o caso da Parcela Constitucional de Irredutibilidade, que foi criada justamente para evitar a redução no valor total dos vencimentos.
+A título elucidativo:
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. OFENSA AO ART. 557 DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. SERVIDORES PÚBLICOS ESTADUAIS. ADICIONAL DE FUNÇÃO. LEI ESTADUAL N.º 2.781/03. DECRETO N.º 11.562/04. INEXISTÊNCIA DE SIMILITUDE A ENSEJAR A APLICAÇÃO DO PRINCÍPIO DA ISONOMIA. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NAS RAZÕES DO RECURSO ORDINÁRIO. SÚMULA N.º 283 DO EXCELSO PRETÓRIO. REGIME REMUNERATÓRIO. ALTERAÇÃO. POSSIBILIDADE. IRREDUTIBILIDADE DE VENCIMENTOS ASSEGURADA. VIOLAÇÃO AO PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS. INEXISTÊNCIA. DIREITO LÍQUIDO E CERTO NÃO EVIDENCIADO. PRECEDENTES. ISONOMIA. AUSÊNCIA DE NORMA LEGAL EXPRESSA. SÚMULA N.º 339 DO SUPREMO TRIBUNAL FEDERAL.
+1. É permitido ao relator do recurso especial valer-se do art. 557 do Código de Processo Civil, quando o entendimento adotado na decisão monocrática encontra-se em consonância com a jurisprudência dominante desta Corte Superior de Justiça.
+2. Não houve insurgência, nas razões do recurso ordinário em mandado de segurança, contra todos os fundamentos utilizados pela Corte de origem para denegar a ordem, atraindo a incidência da Súmula 283 do Supremo Tribunal Federal.
+3. Não subsiste a alegação de que houve ofensa ao princípio constitucional da irredutibilidade de vencimentos, pois o legislador, ao editar a Lei Estadual n.º 2.781/03 - regulamentada pelo Decreto n.º 11.562/04 -, cuidou de evitar qualquer descenso na remuneração dos servidores.
+4. Diante da inexistência de lei específica viabilizadora da pretensão recursal, tem plena aplicação a Súmula n.º 339 do Supremo Tribunal Federal.
+5. Agravo regimental desprovido.
+(AgRg no RMS 28.159/MS, Rel. Ministra Laurita Vaz, QUINTA TURMA, DJe de 18.05.2011)
+Ademais, a Corte de origem, no enfrentamento da matéria, asseverou que a referida parcela tem caráter transitório, e não permanente, como sustentam os recorrentes.
+Afirmou (fl. 294, e-STJ):
+Não obstante os impetrantes sustentarem que se trata de parcela de cunho permanente, na verdade, ela é transitória (§2º do art.52 da Lei 4.196/2012), com o objetivo de minimizar ao longo do tempo os desníveis remuneratórios entre os integrantes das carreiras. Ao passo que o subsídio é elevado, o valor da PCI é a ele aglutinado, diminuindo enquanto parcela propriamente dita, tendendo a desaparecer com o tempo.
+(..)
+Portanto, inexiste direito líquido e certo a ser tutelado, razão pela qual a denegação da ordem é medida que se impõe.
+Conclusão em sentido diverso demandaria dilação probatória, o que não é possível em Mandado de Segurança, via processual na qual se exige a prova documental pré-constituída.
+Diante do exposto, nego provimento ao Recurso Ordinário.
+É como voto.
