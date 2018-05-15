@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] contra o acórdão proferido pelo Tribunal de Justiça de São Paulo na Apelação n. 0002659-36.2017.8.26.0050.
+Consta dos autos que o Juízo da 31ª Vara Criminal do Foro Central Criminal Barra Funda da comarca de São Paulo/SP, em 4/4/2017, condenou o paciente às penas de 10 anos e 9 meses de reclusão, em regime inicial fechado, e ao pagamento de 885 dias-multa, por incurso no art. 33, caput, da Lei n. 11.343/2006 e arts. 304 e 297, caput, c/c arts. 61, I, e 65, III, d, todos do Código Penal, por ter em depósito, aproximadamente, 11,5 kg de maconha.
+Interposta apelação, a Décima Terceira Câmara de Direito Criminal negou provimento ao recurso, nos termos da seguinte ementa (fl. 29):
+Tráfico - Caracterização - Pleito de absolvição por insuficiência de provas - Impossibilidade - Materialidade delitiva e autoria demonstradas nos autos - Uso de documento falso - Dolo demonstrado - Alegação de uso do direito de defesa inconsistente - Condenação mantida - Pena bem aplicada - Redutor previsto no art. 33, § 4º da lei 11.343/06 - Ausência dos requisitos legais - Regime inicial fechado - Legalidade e compatibilidade evidenciadas - Penas alternativas inviáveis - Recurso desprovido.
+Daí o presente writ, em que a Defensoria Pública reitera a alegação de que a pena-base foi aplicada de forma majorada em  , sem a devida fundamentação e motivação, em ofensa também aos princípios da proporcionalidade e individualização da pena (fl. 3).
+Aduz que a culpabilidade não extrapolou elementos do próprio tipo penal e, portanto, já considerada pelo legislador quando da fixação da pena mínima cominada ao crime (fl. 7). E, que a pena deve ser cumprida em regime semiaberto, tendo em vista que o crime foi praticado sem violência ou grave ameaça (fls. 7/8).
+Aponta, ainda, nulidade do acórdão ora atacado por ter sido prolatado sem a adequada fundamentação, nos termos do artigo 93, da Constituição Federal (fl. 3).
+Requer, inclusive em liminar, a concessão da ordem para que seja anulado o acórdão ou, subsidiariamente, reduzida a pena-base ao mínimo legal, estabelecido o regime inicial semiaberto, com a substituição da pena privativa de liberdade por restritivas de direitos.
+É o relatório.
+Na espécie, a providência perseguida é induvidosamente satisfativa. A questão referente à nulidade do acórdão, por ausência de fundamentação, e à dosimetria, em especial sobre o excesso, ou não, da pena imposta, demanda um exame mais aprofundado dos autos, o que é inviável neste juízo de cognição preliminar.
+Ademais, sendo o paciente reincidente (fl. 25), com a pena definitiva fixada acima de 8 anos de reclusão, o regime adequado, na espécie, por ora, é o fechado, nos termos do disposto no art. 33, § 2º, a, do Código Penal.
+Ante o exposto, indefiro o pedido liminar.
+Solicitem-se, por malote digital, informações ao Juízo da 31ª Vara Criminal do Foro Central Criminal Barra Funda da comarca de São Paulo/SP acerca da atual situação do paciente e dos Autos n. 0002659-36.2017.8.26.0050. Deve a autoridade judicial enviar cópia da folha de antecedentes criminais.
+Após, dê-se vista ao Ministério Público Federal.
+Publique-se.
