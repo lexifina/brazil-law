@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE MATO GROSSO DO SUL, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão do Tribunal Justiça da respectiva unidade federativa (n. 0804843-42.2012.8.12.0002) assim ementado (e-STJ, fl. 153):
+EXECUÇÃO FISCAL - DÍVIDA DECORRENTE MULTA POR CONDENAÇÃO CRIMINAL - NÃO TRIBUTÁRIA - INDULTO NATALINO - EXTENSÃO À PENA DE PECUNIÁRIA - EXTINÇÃO DA EXECUÇÃO - HONORÁRIOS ADVOCATÍCIOS - FAZENDA PÚBLICA SUCUMBENTE - CONDENAÇÃO EM HONORÁRIOS - HONORÁRIOS RECURSAIS - RECURSO CONHECIDO E NÃO PROVIDO.
+A presunção de certeza, liquidez e exigibilidade da CDA perde força diante do conteúdo do Decreto nº 8.380/2014, que trata da concessão de indulto natalino e comutação das penas, estendendo o benefício à pena de multa. Frente à petição do requerido informando acerca do indulto, que muito se assemelhou a uma exceção de pré-executividade, tanto que pôs fim à demanda executória, é cabível a condenação do vencido ao pagamento dos honorários advocatícios.
+Em se tratando de sentença publicada após a entrada em vigor do Código de Processo Civil/2015, há de ser observado o disposto em seu artigo 85, § 11.
+Opostos aclaratórios (e-STJ, fls. 166-169), foram rejeitados (e-STJ, fls. 183-187).
+Nas razões do apelo nobre (e-STJ, fls. 195-202), o insurgente aponta, além de dissídio jurisprudencial, violação aos arts. 489, § 1º, 1.022, II, e 1.025 do CPC/2015; 543-C do CPC/1973; e 51 do CP.
+Em síntese, alega negativa de prestação jurisdicional.
+Sustenta que indulto previsto em decreto expedido pelo Presidente da República não tem o condão de extinguir a pena de multa, porquanto a sanção pecuniária, quando aplicada, se torna de dívida de valor a ser executada pela Fazenda Pública.
+Nessa linha, defende a inexistência da natureza penal da multa.
+Assere que o aresto impugnado divergiu de precedente firmado pelo STJ no âmbito de recurso repetitivo.
+Requer a reforma do acórdão recorrido.
+Contrarrazões às fls. 207-214 (e-STJ).
+Após juízo de admissibilidade (e-STJ, fls. 216-218), os autos ascenderam a esta Corte Superior.
+A Subprocuradora-Geral da República, [NOME] de [NOME], opinou pelo não provimento do inconformismo (e-STJ, fls. 233-244).
+É o relatório.
+A irresignação não merece prosperar.
+Observa-se que não há negativa de prestação jurisdicional, porquanto o acórdão recorrido dirimiu a causa com base em fundamentação sólida, sem nenhuma omissão ou contradição. Na verdade, apenas resolveu a celeuma em sentido contrário ao pretendido pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, o que de fato ocorre nos autos.
+Nessa linha:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 619 DO CÓDIGO DE PROCESSO PENAL. EIVA INEXISTENTE. ACÓRDÃO REGIONAL QUE DECIDIU A QUESTÃO DE FORMA FUNDAMENTADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+1. A parte pretende a declaração de nulidade do acórdão recorrido por ofensa ao art. 619 do CPP, ao argumento de que o Tribunal a quo não teria se manifestado em relação às teses arguidas em sede de apelação.
+2. É cediço que o puro e simples inconformismo do recorrente com a solução dada pela Corte de origem à controvérsia não dá ensejo à oposição de embargos de declaração.
+3. Na hipótese, não se vislumbra a aventada negativa de prestação jurisdicional pela Corte a quo no julgamento dos embargos declaratórios, uma vez que todas as teses aventadas foram analisadas no julgamento da apelação.
+ ..
+3. Agravo regimental improvido. (AgRg no AREsp 528.420/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/02/2018, DJe 02/03/2018)
+De outro lado, "o art. 543-C do Código de Processo Civil destina-se à suspensão do recurso na instância ordinária" (AgRg no REsp 1271080/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEXTA TURMA, julgado em 21/05/2013, DJe 29/05/2013).
+De qualquer sorte, "é firme a orientação desta Corte de que não é possível, em sede de Recurso Especial, analisar possível violação aos arts. 543-C ou 543-B do CPC/1973" (AgInt no AREsp 952.460/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 9/3/2017, DJe 22/3/2017).
+Veja-se:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 543-B, § 3º, DO CPC. ADEQUAÇÃO DA DECISÃO PROFERIDA PELO TRIBUNAL DE SEGUNDO GRAU, EM SEDE DE RETRATAÇÃO, COM O ENTENDIMENTO ADOTADO PELO SUPREMO TRIBUNAL FEDERAL EM SEDE DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL ADMITIDA. IMPOSSIBILIDADE. ANÁLISE, POR VIA REFLEXA, DE QUESTÃO CONSTITUCIONAL. SUBVERSÃO DA SISTEMÁTICA E DA REFORMA PROCESSUAL IMPLEMENTADA PELA LEI N. 11.418/06.
+1. Não compete ao Superior Tribunal de Justiça aferir a adequação da decisão de retratação realizada pelo Tribunal de segundo grau, com base no art. 543-B, § 3º, do CPC, com o julgamento proferido pelo Supremo Tribunal Federal em sede recurso extraordinário com repercussão geral admitida. É que, por via reflexa, esta Corte estaria analisando questão constitucional, usurpando, assim, a competência do Pretório Excelso.
+2. O instituto da repercussão geral da questão constitucional, fruto da reforma processual implementada pela Lei n. 11.418/06, visa, dentre outros objetivos, diminuir o fluxo de recursos que tramitam no Supremo Tribunal Federal, de forma que, uma vez decidida a questão na sistemática dos arts. 543-A e 543-B, do CPC, caberá aos Tribunais, Turmas de Uniformização ou Turmas Recursais, julgar prejudicado o recurso sobrestado ou retratar-se, caso em que, somente se não houver tal retratação é que o STF tem apreciado o recurso extraordinário. Nesse sentido: Rcl 7.569/SP, Rel. Min. Ellen Gracie, STF, Tribunal Pleno, DJe 10.12.2009; e AI 760.358 QO/SE, Rel. Min. Gilmar Mendes, STJ, Tribunal Pleno, DJe 2.12.2009).
+3. Se o Pretório Excelso entende que, nos casos do art. 543-B, § 3º, do CPC, somente se inicia a sua jurisdição com a manutenção da decisão contrária à orientação adotada em sede de repercussão geral, deixando, inclusive, de conhecer de reclamações e agravos de instrumentos interpostos contra decisões proferidas pelos Tribunal com base no referido dispositivo legal, afigura-se contrária à sistemática e à reforma processual a admissão de recurso especial contra tais decisões, seja por canalizar para o Superior Tribunal de Justiça o volume de processos que se pretendeu afastar do Supremo Tribunal Federal, seja porque não compete ao STJ, nem mesmo por via reflexa, analisar matéria constitucional em sede de recurso especial.
+4. Recurso especial não conhecido.(REsp 1227122/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/06/2015, DJe 23/06/2015 - sem grifos no original)
+Ademais, o recurso fundado na alínea c do permissivo constitucional pressupõe a demonstração analítica da alegada divergência, sendo necessária a transcrição dos trechos que configuram o dissenso, mencionando as circunstâncias que identificam os casos confrontados, nos termos exigidos pelos dispositivos legais e regimentais que o disciplinam, ônus do qual não se desincumbiu a parte insurgente.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ASSOCIAÇÃO PARA O TRÁFICO. ESTABILIDADE E PERMANÊNCIA DO VÍNCULO ASSOCIATIVO. DECRETO CONDENATÓRIO FUNDADO EM EXTENSO CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO IMPROVIDO.
+ ..
+4. Não bastasse, não se pode conhecer de recurso especial fundado na alínea "c" do permissivo constitucional quando a parte recorrente não realiza o necessário cotejo analítico entre os arestos confrontados, a fim de ficarem demonstradas a similitude fática e a adoção de teses divergentes, sendo insuficiente a mera transcrição de ementa. Divergência jurisprudencial não demonstrada.
+5. Agravo regimental desprovido. (AgRg no AREsp 1148457/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/12/2017, DJe 18/12/2017)
+No mais, convém destacar que, para a concessão de indulto, devem ser observados, tão somente, os requisitos elencados no decreto presidencial respectivo, não competindo ao magistrado criar novas regras ou estabelecer outras condições além daquelas já previstas na referida norma, sob pena de ofensa ao princípio da legalidade, pois é da competência privativa do Presidente da República a tarefa de estabelecer os limites para a concessão da benesse.
+Frise-se também que "a legitimidade para a execução fiscal de multa pendente de pagamento imposta em sentença condenatória é exclusiva da Procuradoria da Fazenda Pública" (Súmula 521 do STJ).
+Desse modo, a competência para a cobrança dos dias-multa é do Juízo da Execução Fiscal, independentemente da inscrição ou não do valor em dívida ativa, ou da (in)existência de ação de execução fiscal.
+Feitas essas considerações, nota-se que, caso o decreto indulgente do Presidente da República abarque a multa, mesmo sendo considerada dívida de valor, não pode o magistrado deixar de reconhecer a sua extinção sob pena de invadir a competência do Chefe do Poder Executivo.
+Neste sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DECRETO N. 8.380/2014. INDULTO. EXTENSÃO À PENA DE MULTA FIXADA EM SENTENÇA PENAL CONDENATÓRIA. POSSIBILIDADE.
+1. Nos termos do art. 7º do Decreto n. 8.380/2014 o indulto ou a comutação da pena privativa de liberdade ou restritiva de direitos alcança a pena de multa aplicada cumulativamente.
+2. O indulto é ato de vontade discricionária e de competência privativa do Presidente da República, que definirá a extensão do benefício, a teor do que dispõe o art. 84, XII, da Constituição Federal. É direcionado a sentenciados indeterminados que se encontram em situação político-jurídica estabelecida no ato normativo, não cabendo ao Poder Judiciário avaliar o mérito do r. decreto.
+3. Não se desconhece que, nos termos da jurisprudência desta Corte, a multa é dívida de valor cuja cobrança compete à Fazenda Pública, contudo se o Presidente da República realiza indulto, não pode o julgador restringir o alcance do benefício, cujo deferimento compete discricionária e exclusivamente ao Chefe do Poder Executivo, conforme dispõe o art. 84, inciso XII, da Constituição Federal.
+4. Agravo regimental não provido. (AgRg no REsp 1678547/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/10/2017, DJe 23/10/2017)
+No caso em apreço, a Corte originária extinguiu a execução fiscal, pois reconheceu que o Decreto n. 7.648/2011 estendeu a indulgência às penas de multa (e-STJ, fls. 156-157):
+Na hipótese deste feito, o executado, através da exceção de pré-executividade que opôs às páginas 13-18, informou que foi agraciado com o indulto decorrente do Decreto n. 7.648, de 21 de dezembro de 2011 (Concede indulto natalino e comutação de penas, e dá outras providências), cujo benefício alcançou a sua pena de multa, pois cumprida a privação de sua liberdade até a data de 25.12.2011 (p. 57).
+Ora, a mencionada presunção de certeza, liquidez e exigibilidade da CDA perde força diante das disposições do Decreto n. 7.648, de 21/12/2011, invocado pelo apelado que se beneficiou com o indulto natalino e comutação das penas, estendendo o benefício à pena de multa.
+Dispõem artigos 1º, inciso IX e artigo 8º, § 1º, do referido decreto:
+"Art. 1º É concedido indulto às pessoas, nacionais e estrangeiras:
+(..) IX - condenadas à pena de multa, ainda que não quitada, independentemente da fase executória ou juízo em que se encontre, aplicada cumulativamente com pena privativa de liberdade cumprida até 25 de dezembro de 2011;
+(..) Art. 8º Os benefícios previstos neste Decreto não alcançam as pessoas condenadas:
+(..) § 1º As restrições deste artigo e dos incisos I e II do caput do art. 1º não se aplicam às hipóteses previstas nos incisos IX, X e XI e XII do caput do art. 1º."
+Então, se o indulto é extensível à pena de multa, emerge que a dívida objeto de cobrança na CDA, ora executada, não mais é exigível, razão pela qual deve realmente ser extinta a execução.
+Portanto, não há ilegalidade a ser reparada.
+Ante o exposto, conheço em parte do recurso especial e, nesta extensão, com fundamento no art. 34, XVIII, b, do RISTJ, nego-lhe provimento.
+Publique-se. Intimem-se.
