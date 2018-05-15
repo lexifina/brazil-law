@@ -1,0 +1,15 @@
+DECISÃO
+TRIBUTÁRIO. EMBARGOS DECLARATÓRIOS NO RECURSO ESPECIAL. PIS. COFINS. CRÉDITO PRESUMIDO. RESSARCIMENTO. PRESCRIÇÃO. NÃO OCORRÊNCIA. CORREÇÃO MONETÁRIA DEVIDA. TERMO INICIAL. RECENTE JULGADO DA 1a. SEÇÃO. EMBARGOS ACOLHIDOS PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL NO QUE TANGE AO TERMO INICIAL DA CORREÇÃO MONETÁRIA.
+1. Trata-se de Embargos de Declaração opostos pela FAZENDA NACIONAL, contra a decisão assim ementada:
+TRIBUTÁRIO. PIS. COFINS. CRÉDITO PRESUMIDO. ART. 8o. DA LEI 10.925/2004. RESSARCIMENTO. ANÁLISE DA ATIVIDADE DESENVOLVIDA PELA EMPRESA. CEREALISTA OU AGROINDUSTRIAL. AFERIÇÃO. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO, COM A FIXAÇÃO DE HONORÁRIOS RECURSAIS (ART. 85, § 11 DO CPC/2015).
+2. Aduz a parte embargante que indicou outras questões que possuem natureza autônoma em relação à matéria de fundo, quais sejam: prescrição, correção monetária de créditos escriturais e termo de início da atualização dos créditos.
+3. Impugnação apresentada (fls. 860/869).
+4. É o relatório.
+5. De início, cumpre esclarecer que o art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; destinam-se a suprir omissão, esclarecer obscuridade ou eliminar contradição existente no julgado ou corrigir erro material.
+6. No caso dos autos, o direito ao ressarcimento dos créditos presumidos acumulados a contar do ano calendário de 2006 foi assegurado pelo artigo 56-A, § 1o. da Lei 12.350/2010. Assim, o prazo prescricional de 5 anos para exercer o ressarcimento previsto deve ser contado do momento que nasceu tal direito (actio nata), qual seja, em 27.7.2011, data em que entrou em vigor a referida norma. Portanto, considerando que a ação foi ajuizada em 10.6.2016, não existem parcelas atingidas pela prescrição.
+7. No que tange à correção monetária, verifica-se que o acórdão recorrido está em consonância com a jurisprudência desta Corte consubstanciada na Súmula 411 do STJ que se aplica, mutatis mutandis, ao caso dos autos: "É devida a correção monetária ao creditamento do IPI quando há oposição ao seu aproveitamento decorrente de resistência ilegítima do Fisco".
+8. Sobre a Taxa Selic, a 1a. Seção desta Corte, quando do julgamento do REsp. 1.111.175/SP, de relatoria da Ministra DENISE ARRUDA, pela sistemática do art. 543-C do CPC/1973, reconheceu sua legalidade e incidência sobre o crédito tributário a partir de 1o..1.1996 - não podendo ser cumulada, porém, com qualquer outro índice, seja de juros ou atualização monetária - tendo em vista que o art. 39, § 4o. da Lei 9.250/1995 preenche o requisito do § 1o. do art. 161 do CTN.
+9. Ressalto que o termo a quo da incidência da referida correção monetária, ocorre após o prazo de 360 dias para análise do pedido administrativo de ressarcimento (ERESP 1.461.607/SC, Primeira Seção, Rel. para o acórdão Min. SÉRGIO KUKINA, julgado em 22.2.2018, pendente de publicação).
+10. Ante o exposto, acolhem-se os Declaratórios, para dar parcial provimento ao Recurso Especial no que tange ao termo inicial da correção monetária.
+11. Publique-se.
+12. Intimações necessárias.
