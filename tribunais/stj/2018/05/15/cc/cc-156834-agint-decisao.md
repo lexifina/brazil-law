@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo interno interposto por [NOME] DE PAULA em face da decisão de fls. 536/537, da lavra deste signatário que conheceu do presente conflito e, por conseguinte, declarou a competência do r. juízo suscitado.
+Em suas razões, o ora agravante - interessado - alega, em resumo, que "(..) ajuizou na Justiça Comum ação de reparação de danos em face do interessado Sindicato dos Servidores Públicos Municipais para ser reparado dos danos materiais e morais sofridos em razão de deficiente atuação deste na defesa dos direitos e interesses do agravante perante a Justiça do Trabalho, por ter cometido erros relacionados ao cômputo das horas extras durante a representação que fez dele em outra reclamação trabalhista." Acrescenta, nesse contexto, que "(..) o que se discute nesta ação é a representação sindical deficiente do Sindicato e os danos provenientes dessa representação frente ao trabalhador sócio do sindicato, ora agravante." Cita, em favor de sua tese, o Conflito de Competência n.º 124930/MG, Rel. Min. Raul Araújo, DJe de 10/04/2013.
+Sem impugnação.
+É o relatório.
+Decide-se.
+Ante as razões deduzidas no presente agravo interno, reconsidera-se a decisão de fls. 536/537, passando-se, doravante, a novo exame do conflito de competência.
+1. E, ao fazê-lo, observa-se que a jurisprudência desta eg. Corte Superior, em situações deste jaez, caminha no sentido de que, quando o trabalhador apresenta ação de indenização por danos materiais e morais em face do respectivo sindicato, imputando ao réu conduta deficiente e danosa ao representá-lo em anterior reclamação trabalhista, na qual supostos acordos lesivos teriam sido firmados e homologados, somente a Justiça do Trabalho terá plenas condições de avaliar a procedência das alegações formuladas pelo autor contra o sindicato réu, porquanto a ação por ele movida faz referências a temas notadamente de direito trabalhista e processual trabalhista. Nesse sentido, confira-se:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM ESTADUAL. AÇÃO DE INDENIZAÇÃO PROPOSTA POR TRABALHADOR CONTRA SINDICATO. DANOS MORAIS E MATERIAIS. VÍCIO NA REPRESENTAÇÃO EM ANTERIOR AÇÃO TRABALHISTA. COMPETÊNCIA DA JUSTIÇA LABORAL (CF, ART. 114, VI E IX).
+1. Na hipótese, o trabalhador ajuizou ação de indenização por danos materiais e morais em face do respectivo sindicato, imputando ao réu conduta deficiente e danosa ao representá-lo em anterior reclamação trabalhista, na qual supostos acordos lesivos teriam sido firmados e homologados.
+2. Somente a Justiça Especializada terá plenas condições de avaliar a procedência das alegações formuladas pelo autor contra o sindicato réu, porquanto a ação por ele movida faz referências a temas notadamente de direito trabalhista e processual trabalhista.
+3. Conflito conhecido para declarar competente a Justiça do Trabalho.
+CC 124930 / MG, Rel. Min. Raul Araújo, DJe de 02/05/2013.
+2. Do exposto, após reconsiderar a decisão de fls. 536/537, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ conheço do presente conflito e, por conseguinte, declaro a competência do r. juízo suscitante.
+Publique-se. Intimem-se.
