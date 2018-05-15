@@ -1,0 +1,45 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PLANO DE SAÚDE COLETIVO. ARTS. 30 E 31 DA LEI Nº 9.656/98. PRETENSÃO DE REDUÇÃO DO VALOR DO PRÊMIO. LEGITIMIDADE PASSIVA. OPERADORA DE PLANO DE SAÚDE. PRECEDENTES. SÚMULA 83/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Nos termos da jurisprudência deste Superior Tribunal de Justiça, "a empresa estipulante, em princípio, não possui legitimidade para figurar no polo passivo de demanda proposta por ex-empregado que busca, nos termos dos arts. 30 e 31 da Lei nº 9.656/1998, a permanência de determinadas condições contratuais em plano de saúde coletivo após a ocorrência da aposentadoria ou da demissão sem justa causa, visto que atua apenas como interveniente, na condição de mandatária do grupo de usuários e não da operadora". (REsp 1.575.435/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/5/2016, DJe 3/6/2016). Precedentes.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face de decisão por meio da qual dei parcial provimento ao recurso especial.
+A parte agravante, em suas razões, reiterou os argumentos referentes a sua ilegitimidade para figurar no polo passivo da demanda, bem como a legitimidade da ex-empregadora estipulante.
+A parte agravada, regularmente intimada, não se manifestou.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os frágeis argumentos desenvolvidos pelo agravante não têm plausibilidade jurídica para infirmar a conclusão da decisão impugnada, visto que apenas reiterados os fundamentos utilizados no recurso especial, razão pela qual o presente recurso não merece prosperar.
+Como já salientado, observo que o Tribunal de origem decidiu em consonância com o entendimento pacificado nesta Corte, no que se refere à ilegitimidade da ex-empregadora estipulante para figurar no polo passivo da demanda envolvendo a operadora do plano de saúde, parte legítima, e os usuários, razão pela qual o recurso especial esbarra no óbice sumular nº 83 do STJ, aplicável aos recursos interpostos com base em ambas as alíneas (AgInt no AREsp 720.037/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 3/5/2016, DJe 11/5/2016).
+É o que se depreende da leitura do seguinte trecho (fl. 253 e-STJ):
+"Sem razão a ré em insistir na preliminar de ilegitimidade passiva "ad causam".
+Isto porque, a ré é parte legítima para figurar no polo passivo da ação, pois é ela que, na qualidade de administradora de serviços de assistência à saúde por planos coletivos, e não a ex-empregadora, que promove a gestão do seguro-saúde que se discute nesta ação, sendo responsável, direta ou indiretamente, pela decisão de exclusão da autora da qualidade de beneficiários do referido seguro.
+Assim, evidente a sua legitimidade para integrar o polo passivo da relação processual, até porque é ela que percebe o valor a ser pago pela autora e a prestar os serviços correspondentes.
+A propósito:"
+Isso porque a estipulante ex-empregadora, por agir como mera mandatária dos usuários em contrato coletivo de plano de saúde, não possui, via de regra, legitimidade passiva nas ações ajuizadas pelos usuários em face das operadores do plano, a não ser que contribua de alguma forma para a causa de pedir da ação, o que não verifico no presente caso.
+Nesse sentido, sendo a relação jurídica travada entre a ora recorrente e os beneficiários do plano de saúde, imperioso concluir pela manutenção do acórdão no ponto.
+Assim é o entendimento deste Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. LEGITIMIDADE PASSIVA. OPERADORA DE PLANO DE SAÚDE. AÇÃO PROPOSTA POR EX-EMPREGADOR. ARTS. 30 E 31 DA LEI N. 9.656/1998. DECISÃO MANTIDA.
+1. "A empresa estipulante, em princípio, não possui legitimidade para figurar no polo passivo de demanda proposta por ex-empregado que busca, nos termos dos arts. 30 e 31 da Lei nº 9.656/1998, a permanência de determinadas condições contratuais em plano de saúde coletivo após a ocorrência da aposentadoria ou da demissão sem justa causa, visto que atua apenas como interveniente, na condição de mandatária do grupo de usuários e não da operadora" (REsp n. 1.575.435/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/5/2016, DJe 3/6/2016).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1620137/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/2/2017, DJe 20/2/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. APOSENTADORIA DO BENEFICIÁRIO. PRETENSÃO DE REDUÇÃO DO VALOR DO PRÊMIO. LEGITIMIDADE PASSIVA DA SEGURADORA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. "A empresa estipulante, em princípio, não possui legitimidade para figurar no polo passivo de demanda proposta por ex-empregado que busca, nos termos dos arts. 30 e 31 da Lei nº 9.656/1998, a permanência de determinadas condições contratuais em plano de saúde coletivo após a ocorrência da aposentadoria ou da demissão sem justa causa, visto que atua apenas como interveniente, na condição de mandatária do grupo de usuários e não da operadora" (REsp n.
+1.575.435/SP, Relator o Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/5/2016, DJe 3/6/2016).
+2. Se a parte agravante não apresenta argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, deve ela ser mantida por seus próprios fundamentos.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 964.443/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/12/2016, DJe 3/2/2017)
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. MANUTENÇÃO DA COBERTURA E DOS VALORES DE MENSALIDADE. ESTIPULANTE. ILEGITIMIDADE PASSIVA AD CAUSAM. MANDATÁRIA DO GRUPO DE USUÁRIOS. MULTA PROTELATÓRIA. AFASTAMENTO. SÚMULA Nº 98/STJ.
+1. Discute-se a legitimidade de empresa estipulante para figurar no polo passivo de ação proposta por ex-empregado aposentado para permanecer em plano de saúde coletivo nas mesmas condições de cobertura e de mensalidade de quando estava em vigor o contrato de trabalho.
+2. A legitimidade ad causam depende do vínculo existente entre os sujeitos da ação (relação jurídica substancial) e deles com a causa (objeto litigioso), de modo que no polo passivo devem figurar, em regra, aqueles cujo patrimônio pode ser afetado com a procedência da demanda, ou seja, aqueles que suportarão os efeitos da condenação.
+3. O plano de saúde coletivo é aquele contratado por uma empresa ou por pessoas jurídicas de caráter profissional, classista ou setorial, como conselhos, sindicatos e associações profissionais, geralmente na condição de estipulantes, junto à operadora de planos de saúde para oferecer assistência médica e/ou odontológica às pessoas vinculadas às mencionadas entidades bem como a seus dependentes.
+4. No plano de saúde coletivo, o vínculo jurídico formado entre a operadora e o grupo de usuários caracteriza-se como uma estipulação em favor de terceiro. Por seu turno, a relação havida entre a operadora e o estipulante é similar a um contrato por conta de terceiro. Já para os usuários, o estipulante é um intermediário, um mandatário e não um preposto da operadora de plano de saúde.
+5. O estipulante é apenas a pessoa jurídica que disponibiliza o plano de saúde em proveito do grupo que a ela se vincula, mas não representa a própria operadora. Ao contrário, o estipulante deve defender os interesses dos usuários, pois assume, perante a prestadora de serviços de assistência à saúde, a responsabilidade pelo cumprimento de todas as obrigações contratuais de seus representados.
+6. A empresa estipulante, em princípio, não possui legitimidade para figurar no polo passivo de demanda proposta por ex-empregado que busca, nos termos dos arts. 30 e 31 da Lei nº 9.656/1998, a permanência de determinadas condições contratuais em plano de saúde coletivo após a ocorrência da aposentadoria ou da demissão sem justa causa, visto que atua apenas como interveniente, na condição de mandatária do grupo de usuários e não da operadora. Precedentes.
+7. Não evidenciado o caráter protelatório dos embargos de declaração, impõe-se a inaplicabilidade da multa prevista no parágrafo único do art. 538 do Código de Processo Civil. Incidência da Súmula nº 98/STJ.
+8. Recurso especial parcialmente provido, apenas para afastar a multa processual.
+(REsp 1575435/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/5/2016, DJe 3/6/2016)
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
