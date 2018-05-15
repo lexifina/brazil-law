@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. INTIMAÇÃO PESSOAL. DEPOIMENTO. EXIBIÇÃO DE DOCUMENTOS. AUSÊNCIA DE JULGAMENTO EXTRA PETITA. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. Como afirmado na decisão agravada, verifica-se que além de ter requerido a dilação de prazo para apresentação de documentos contábeis, requereu também a apresentação de documentos que estavam apreendidos, tendo em vista que a Fazenda não forneceu cópias de processo administrativo sequer em 10 dias (fls. 1.137).
+2. O acórdão proferido pelo Tribunal de origem entendeu que com relação ao pedido de apresentação dos documentos em poder da embargada, assiste razão ao agravante, impondo-se, em razão da circunstância peculiar havida no contexto dos autos. A determinação da juntada dos documentos requeridos no caso dos autos se mostra cabível, ainda que por força dos arts. 355 e 399 do CPC, que permitem expressamente ao juiz intimar para que proceda à exibição de documentos (..). A determinação, diante da celeuma instaurada, encontra respaldo, inclusive, no dever de boa-fé processual e colaboração das partes, na instrução do processo, tendo em vista que sequer representa ônus ou prejuízo a qualquer das partes (fls. 1.166).
+3. Desta forma, não há falar em julgamento extra petita ou em contradição do acórdão recorrido.
+4. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pela FAZENDA NACIONAL, em face da decisão assim ementada:
+PROCESSUAL CIVIL. INTIMAÇÃO PESSOAL. DEPOIMENTO. EXIBIÇÃO DE DOCUMENTOS. AUSÊNCIA DE JULGAMENTO EXTRA PETITA. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+2. Repisa a parte agravante os fundamentos do Apero Raro, aduzindo que o acórdão recorrido teria ultrapassado o pedido da parte.
+3. Impugnação apresentada (fls. 1.298/1.309).
+4 É o relatório.
+VOTO
+PROCESSUAL CIVIL. INTIMAÇÃO PESSOAL. DEPOIMENTO. EXIBIÇÃO DE DOCUMENTOS. AUSÊNCIA DE JULGAMENTO EXTRA PETITA. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. Como afirmado na decisão agravada, verifica-se que além de ter requerido a dilação de prazo para apresentação de documentos contábeis, requereu também a apresentação de documentos que estavam apreendidos, tendo em vista que a Fazenda não forneceu cópias de processo administrativo sequer em 10 dias (fls. 1.137).
+2. O acórdão proferido pelo Tribunal de origem entendeu que com relação ao pedido de apresentação dos documentos em poder da embargada, assiste razão ao agravante, impondo-se, em razão da circunstância peculiar havida no contexto dos autos. A determinação da juntada dos documentos requeridos no caso dos autos se mostra cabível, ainda que por força dos arts. 355 e 399 do CPC, que permitem expressamente ao juiz intimar para que proceda à exibição de documentos (..). A determinação, diante da celeuma instaurada, encontra respaldo, inclusive, no dever de boa-fé processual e colaboração das partes, na instrução do processo, tendo em vista que sequer representa ônus ou prejuízo a qualquer das partes (fls. 1.166).
+3. Desta forma, não há falar em julgamento extra petita ou em contradição do acórdão recorrido.
+4. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+1. Como afirmado na decisão agravada, verifica-se que além de ter requerido a dilação de prazo para apresentação de documentos contábeis, requereu também a apresentação de documentos que estavam apreendidos, tendo em vista que a Fazenda não forneceu cópias de processo administrativo sequer em 10 dias (fls. 1.137).
+2. O acórdão proferido pelo Tribunal de origem entendeu que com relação ao pedido de apresentação dos documentos em poder da embargada, assiste razão ao agravante, impondo-se, em razão da circunstância peculiar havida no contexto dos autos. A determinação da juntada dos documentos requeridos no caso dos autos se mostra cabível, ainda que por força dos arts. 355 e 399 do CPC, que permitem expressamente ao juiz intimar para que proceda à exibição de documentos (..). A determinação, diante da celeuma instaurada, encontra respaldo, inclusive, no dever de boa-fé processual e colaboração das partes, na instrução do processo, tendo em vista que sequer representa ônus ou prejuízo a qualquer das partes (fls. 1.166).
+3. Desta forma, não há falar em julgamento extra petita ou em contradição do acórdão recorrido.
+4. Ante o exposto, nega-se provimento ao Agravo Interno da FAZENDA NACIONAL. É como voto.
