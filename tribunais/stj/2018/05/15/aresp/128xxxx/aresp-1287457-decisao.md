@@ -1,0 +1,26 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. AUSÊNCIA DE INTERESSE DE AGIR. PEDIDO ADMINISTRATIVO INIDÔNEO. A teor do entendimento esposado no Resp. nº 1.349.453/MS, de Relatoria do Eminente Ministro Luis Felipe Salomão, a ação cautelar de exibição de documentos deve vir instruída da comprovação de pedido administrativo prévio feito à instituição financeira, não atendido em prazo razoável, sob pena de falecer ao autor interesse de agir.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto no art. 6º, inciso III, do CDC.
+Alega, em síntese, que "mesmo sendo notificado para exibir o contrato, o banco quedou-se inerte configurando resistência ao pedido e ao direito da parte em ter acesso (informação) ao documento". Ressalta que tal notificação equivale a pedido administrativo. Enfatiza que o banco recorrido ofereceu resistência à pretensão desde o início da contratação.
+É o relatório. DECIDO.
+2. Com efeito, a Segunda Seção desta Corte Superior, no julgamento do Recurso Especial Repetitivo n. 1.349.453/MS (Relator Min. Luis Felipe Salomão, DJe 02/02/2015), processado nos moldes do art. 543-C do CPC, firmou entendimento segundo o qual é cabível a propositura de ação cautelar de exibição de documentos bancários, como medida preparatória, a fim de instruir uma ação principal.
+Neste mesmo julgamento foi pacificado o entendimento segundo o qual, para a propositura da ação de exibição de documentos, faz-se necessária a demonstração da existência de relação jurídica entre as partes, a comprovação de prévio pedido administrativo à instituição financeira e sua recusa em prazo razoável, bem como o pagamento do custo do serviço.
+Confira-se, a propósito, a ementa do referido julgado:
+PROCESSO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. EXPURGOS INFLACIONÁRIOS EM CADERNETA DE POUPANÇA. EXIBIÇÃO DE EXTRATOS BANCÁRIOS. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. INTERESSE DE AGIR. PEDIDO PRÉVIO À INSTITUIÇÃO FINANCEIRA E PAGAMENTO DO CUSTO DO SERVIÇO. NECESSIDADE.
+1. Para efeitos do art. 543-C do CPC, firma-se a seguinte tese: A propositura de ação cautelar de exibição de documentos bancários (cópias e segunda via de documentos) é cabível como medida preparatória a fim de instruir a ação principal, bastando a demonstração da existência de relação jurídica entre as partes, a comprovação de prévio pedido à instituição financeira não atendido em prazo razoável, e o pagamento do custo do serviço conforme previsão contratual e normatização da autoridade monetária.
+2. No caso concreto, recurso especial provido.
+(REsp 1349453/MS, Segunda Seção, Rel. Ministro Luis Felipe Salomão, DJe 02/02/2015)
+No caso em comento, ao apreciar a questão, o Tribunal local consignou que o ora agravante não comprovou o prévio pedido administrativo à instituição financeira:
+Compulsando atentamente os autos, vejo que a autora não logrou demonstrar a existência de pedido de exibição do documento na esfera extrajudicial, muito menos a negativa do banco em apresentá-lo, de modo que o feito de verá ser extinto, nos termos do art. 485, VI, do NCPC.
+Isto porque o pedido extrajudicial apresentado não se mostra hábil a amparar a pretensão, sendo certo que o banco, sob pena de quebra do sigilo bancário, não está autorizado a fornecer o contrato em endereço diverso do cliente, como constou no AR (doc. n. 2).
+Assim, verifica-se que não há o que reformar no acórdão recorrido, pois seu entendimento, acerca da ausência de interesse de agir na cautelar de exibição de documentos quando o requerente não comprova o prévio pedido administrativo à instituição financeira, está em consonância com a pacífica jurisprudência desta Corte Superior, o que atrai a incidência da Súmula 83/STJ, impedindo o conhecimento do recurso por ambas as alíneas.
+Por fim, a inversão da premissa firmada no acórdão atacado demandaria a reanálise de matéria fática, providência vedada nesta esfera recursal extraordinária, em virtude do óbice contido no Enunciado 7 da Súmula do Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. INTERESSE DE AGIR. PREENCHIMENTO DOS REQUISITOS. COMPROVAÇÃO. MATÉRIA FÁTICA. INCIDÊNCIA DAS SÚMULAS 7 E 389/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A comprovação do pagamento do "custo do serviço" referente ao fornecimento de certidão de assentamentos constantes dos livros da companhia é requisito de procedibilidade da ação de exibição de documentos ajuizada em face da sociedade anônima" (Súmula 389/STJ).
+2. A alteração da conclusão do acórdão recorrido, para considerar a ora agravada carecedora de ação por falta de interesse de agir, demandaria o reexame do conjunto fático-probatório do autos, procedimento vedado pela Súmula 7 do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 416.121/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/05/2014, DJe 20/06/2014).
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
