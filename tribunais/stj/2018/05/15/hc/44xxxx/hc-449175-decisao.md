@@ -1,0 +1,17 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. ALTERAÇÃO DA DATA-BASE PARA BENEFÍCIOS. ENTENDIMENTO FIRMADO NO RESP N. 1.557.461/SC, JULGADO PELA TERCEIRA SEÇÃO/STJ. MARCO INICIAL. DATA DA ÚLTIMA PRISÃO OU FALTA GRAVE. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem liminarmente concedida.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], ante o acórdão proferido pela Sétima Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul no Agravo de Execução Penal n. [CPF], cuja ementa é a seguinte (fl. 92):
+AGRAVO EM EXECUÇÃO. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. CONVERSÃO DA PENA RESTRITIVA DE DIREITOS EM PRIVATIVA DE LIBERDADE. REGIME FECHADO E PRESTAÇÃO DE SERVIÇOS À COMUNIDADE. COMPATIBILIDADE DE CUMPRIMENTO SIMULTÂNEO DAS PENAS. UNIFICAÇÃO DAS SANÇÕES. ALTERAÇÃO DA DATA-BASE.
+1. Se viável o cumprimento simultâneo das penas, o julgador poderá deixar de converter a restritiva de direitos em privativa de liberdade, sendo obrigatória apenas quando incompatível a execução conjunta. Apenado que cumpre pena em regime fechado, inviabilizando a prestação de serviços à comunidade.
+2. De acordo com os artigos 75, § 2º, do Código Penal e 111, parágrafo único, da Lei de Execução Penal, a superveniência de nova condenação no curso do cumprimento da pena acarreta a soma das sanções e a alteração da data-base para futuros benefícios, desde que a decisão tenha transitado em julgado.
+Recurso desprovido, por maioria.
+Busca-se a concessão liminar da ordem para sustar o acórdão ora impugnado e, ao final, seja concedido o writ para cassar a referida decisão, restaurando-se a data-base pra o momento do fato para o cálculo da obtenção de benefícios.
+Argumenta-se, para tanto, que a decisão que altera a data-base para a obtenção dos benefícios para o momento do trânsito em julgado da decisão viola a liberdade de locomoção do agente, uma vez que a consequência na esfera jurídica do paciente será o prolongamento indevido da prisão corporal em regime mais gravoso do que o previsto em lei (fl. 3).
+É o relatório.
+Razão socorre ao paciente, isso porque, a Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.557.461/SC, ocorrido em 22/2/2018, da relatoria do Ministro Rogerio Schietti Cruz, alterou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+Como dito no voto condutor,  ..  é preciso ressaltar que a unificação de nova condenação definitiva já possui o condão de recrudescer o quantum de pena restante a ser cumprido pelo reeducando, logo, a alteração da data-base para concessão de novos benefícios, a despeito da ausência de previsão legal, configura excesso de execução, baseado apenas em argumentos extrajurídicos.
+Pelo exposto, concedo liminarmente a ordem impetrada para determinar ao Juízo de Direito Vara de Execuções Criminais da comarca de Carazinho/RS, nos autos da Execução n. 119046-6, a realização de novos cálculos de unificação das penas do paciente, considerando como a data-base para a aquisição de benefícios na execução da pena a data da última prisão do paciente.
+Comunique-se com urgência.
+Publique-se.
