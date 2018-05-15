@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos da decisão que julgou agravo manifestado em face do juízo de admissibilidade que negou seguimento ao recurso especial interposto contra acórdão assim ementado:
+Revisional. Contrato bancário. Improcedência. Apelo do autor. Capitalização mensal. Admissibilidade a partir da MP 1963-17/2000. Juros remuneratórios. Lei de Usura que não se aplica aos banco. Bancos que podem cobrar juros remuneratórios acima do limite de 12% ao ano. Incidência de recurso repetitivo. Impossível a limitação do "spread" bancário. Comissão de permanência. Impossibilidade de cumulação com outros encargos. Súmula 472 do STJ.
+Tarifa de cadastro. Cobrança prevista em norma regulamentadora da CMN. Incidência de recurso repetitivo que permite a cobrança do encargo. IOF. Incidência regular do encargo. Precedentes STJ. Sentença reformada.
+Sucumbência mantida. Recurso parcialmente provido.
+Argumenta a parte embargante que a decisão é omissa no que tange à aplicação da Súmula n. 539/STJ. Afirma que permitir a cobrança da capitalização mensal dos juros, no caso dos autos, viola o dever de informação clara ao consumidor.
+Não houve o oferecimento de impugnação.
+Acerca da taxa de juros capitalizados, a Segunda Seção adotou, para os efeitos do art. 543-C do CPC, o entendimento de que "A capitalização de juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (2ª Seção, REsp 973.827/RS, acórdão de minha relatoria, DJe de 24.9.2012). Esse entendimento não destoa, de qualquer forma, do verbete sumular n. 539/STJ, o qual permite a capitalização dos juros, desde que expressamente pactuada.
+No caso dos autos, houve previsão de taxa mensal de 1,45%, e de taxa efetiva anual de 18,79% (fl. 41 e-STJ). Dessa forma, legítima a cobrança da taxa efetiva anual de juros remuneratórios, tal como convencionada, não havendo de se cogitar de violação ao dever de informação quando a taxa de juros é ostensivamente indicada no contrato subscrito pelo consumidor.
+Em face do exposto, rejeito os embargos declaratórios.
+Intimem-se.
