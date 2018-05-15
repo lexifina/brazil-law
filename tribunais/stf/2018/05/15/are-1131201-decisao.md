@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 7º, XXVI, e 8º, III, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta aos apontados dispositivos da Constituição da República. Anoto precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Direito do Trabalho. Horas in itinere. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de legislação infraconstitucional ou de ofensa reflexa à Constituição. 2. É inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido. 4. Inaplicável o art. 85, § 11, do CPC, pois não houve prévia fixação de honorários advocatícios na causa.” (ARE 1108899-AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe 02.5.2018)
+    “Agravo regimental. Agravo de instrumento. Horas in intinere. Questão infraconstitucional. Prestação jurisdicional devida. 1. Controvérsia decidida à luz da legislação infraconstitucional pertinente, a cujo exame não se presta o recurso extraordinário. 2. Improcedência das alegações de negativa de prestação jurisdicional e de violação dos artigos 5º, incisos XXXIV, XXXV, LIV e LV, e 93, inciso IX, da Constituição Federal. 3. Agravo regimental desprovido.” (AI 657164 AgR, Rel. Min. Menezes Direito , DJe 26/10/2007)
+    “Recurso extraordinário: descabimento: questão relativa ao pagamento de horas in intinere decidida pelo acórdão recorrido à luz da legislação infraconstitucional: incidência, mutatis mutandis, da Súmula 636; inocorrência de negativa de prestação jurisdicional ou violação dos princípios constitucionais apontados no recurso extraordinário.” (AI 233.548-AgR, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 18.3.2005)
+    Observo, por seu turno, que o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF (“para simples reexame de prova não cabe recurso extraordinário”).
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de maio de 2018.
+Ministra Rosa Weber
+Relatora
