@@ -1,0 +1,11 @@
+DECISÃO
+1. Cuida-se de agravo interposto pela CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL, contra decisão que não admitiu o seu recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, manejado em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. AUXÍLIO CESTA ALIMENTAÇÃO. DEVOLUÇÃO DE VALORES RECEBIDOS EM RAZÃO DE PROVIMENTO JUDICIAL POSTERIORMENTE REVOGADO. POSSIBILIDADE. JUROS DE MORA. NÃO INCIDÊNCIA
+Agravo parcialmente provido
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 520, I, do NCPC e 394, 396, 397 e 407, do Código Civil. Insurge-se contra a decisão da Corte estadual que determinou a não incidência de juros de mora sobre os valores a serem devolvidos a título de restituição das quantias pagas como cesta-alimentação, por força de antecipação de tutela revogada posteriormente. Defende a necessidade de incidência de juros de mora, a fim de compensar o credor do dano sofrido.
+DECIDO.
+2. O acórdão recorrido afastou a pretensão da recorrente no tocante à incidência juros de mora, sob o fundamento de que a devolução não decorreu de decisão judicial e nem houve atraso no pagamento. (fl. 263).
+Nesse aspecto, a decisão da Corte estadual encontra-se em harmonia com a jurisprudência sedimentada neste Sodalício, no sentido de que o art. 396 do CC estabelece que, não havendo fato ou omissão imputável ao devedor, não incorre este em mora. Desse modo, para caracterização ou permanência em mora, haveria necessidade da exigibilidade da prestação e inexecução culposa, vale dizer, "retardamento injustificado da parte de algum dos sujeitos da relação obrigacional", compreendendo os juros moratórios "pena imposta ao devedor em atraso com o cumprimento da obrigação" (PEREIRA, Caio Mário da Silva. Instituições de direito civil: teoria geral das obrigações. 25 ed. Rio de Janeiro: Forense, 2012, p. 119 e 291)". (REsp 1169179/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 03/03/2015, DJe 31/03/2015).
+3. Ante o exposto, nego provimento ao agravo interposto pela CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL.
+Publique-se. Intimem-se.
