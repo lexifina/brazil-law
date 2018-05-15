@@ -1,0 +1,71 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO DA PARTE AUTORA.
+1. O Tribunal local, com base na análise dos elementos fáticos dos autos, concluiu que o autor não comprovou a quitação da dívida cobrada, não havendo, portanto, qualquer ato ilícito praticado pela parte demandada ensejador de dano moral. Impossibilidade de acolhimento do recurso especial, ante a necessidade de derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática. Incidência do óbice da Súmula 7/STJ.
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por [NOME] contra decisão monocrática, da lavra deste signatário (fls. 360/362, e-STJ), que, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, negou provimento ao agravo (art. 544 do CPC/73).
+O apelo extremo, a seu turno, fundado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 236, e-STJ):
+AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS - Descabimento - O pedido de declaração de inexistência de débito não pode ser acolhido, uma vez que o autor só quitou a primeira parcela, em 10/12/2011 - As demais prestações continuam em aberto, considerando que não há qualquer demonstrativo de quitação das mesmas - Débito automático contratado pelo autor - Extrato que comprova saldo insuficiente para quitar a parcela no prazo fixado - Ausência de pagamento - Sentença de improcedência mantida - RECURSO DESPROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (fls. 254/258, e-STJ).
+Em suas razões de recurso especial (fls. 261/292, e-STJ), o recorrente apontou violação aos artigos 2º, 3º, 4º, 6º, 14, § 1º, incisos I e II, 17, 42 do Código de Defesa do Consumidor; e 7º da Lei n.º 8.987/95, sob o argumento de que o acórdão recorrido "desconsiderou a condição de consumidor do recorrente, não observou a hipossuficiência do recorrente perante a recorrida, fazendo prevalecer a inconstância da recorrida na cobrança de dívida, concordando com o direito a negativação, submetendo o recorrente ao ridículo".
+Asseverou, ainda, ofensa aos artigos 20, §§ 3º e 4º, 333 do Código de Processo Civil de 1973, sob os seguintes argumentos, em síntese: a) inexibilidade dos valores cobrados, diante da inexistência de prova da liquidez da cobrança; e b) que a verba honorária deveria ter sido fixada por equidade.
+Alegou, por fim, afronta aos artigos 186, 187 e 927 do Código Civil, sustentando o direito à indenização por dano moral decorrente da má prestação do serviço, em face da inscrição indevida em cadastros de restrição ao crédito. Afirmou, nesse contexto, que "resta demonstardo que o recorrente trata-se de cliente personnalite (logotipo superior do extrato bancário), logo, não resta dúvida que o Banco autorizaria a compensação, vez que o cliente tem cheque especial em valor muito superior a pequeno diferença apontada pelo v. acórdão, qual seja saldo em conta R$ 1.057,12 - valor da parcela R$ 1.260,00".
+A parte recorrente aduziu, também, a existência de dissídio jurisprudencial quanto às matérias alegadas nas razões do recurso.
+Contrarrazões às fls. 300/304, e-STJ.
+Diante da negativa de seguimento ao apelo extremo, em juízo provisório de admissibilidade, interpôs a parte recorrente o respectivo agravo (art. 544 do CPC/73), em cujas razões pugnou pelo processamento de seu recurso especial.
+Em decisão monocrática (fls. 360/362, e-STJ), este signatário negou provimento ao agravo, sob os seguintes fundamentos: a) incidência do óbice recursal da Súmula 211/STJ; e b) para se rever o entendimento do Tribunal de origem, acerca da exigibilidade da cobrança, bem como da inexistência de ato ilícito, demandaria, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7/STJ.
+Opostos embargos de declaração contra a referida decisão monocrática, esses foram rejeitados por este signatário, em decisão monocrática proferida às fls. 379/381, e-STJ.
+No presente agravo interno (fls. 384/411, e-STJ), a parte insurgente refuta a aplicação do óbice recursal da Súmula 07/STJ, sob a afirmação de ser desnecessário o reexame de matéria fática no caso dos autos.
+No mais, reitera os argumentos de mérito expostos na petição de recurso especial, no tocante à aventada violação aos arts. 20, §§ 3º e 4º, 333 do Código de Processo Civil/1973; 2º, 3º, 4º, 6º, 14, 17, e 42 do Código de Defesa do Consumidor; 7º da Lei n.º 8.987/95; 186, 187 e 927 do Código Civil, além do suposto dissídio jurisprudencial. Por fim, pleiteia a reforma da decisão atacada.
+Não foi apresentada impugnação, conforme certidão de fl. 415, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO DA PARTE AUTORA.
+1. O Tribunal local, com base na análise dos elementos fáticos dos autos, concluiu que o autor não comprovou a quitação da dívida cobrada, não havendo, portanto, qualquer ato ilícito praticado pela parte demandada ensejador de dano moral. Impossibilidade de acolhimento do recurso especial, ante a necessidade de derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática. Incidência do óbice da Súmula 7/STJ.
+2. Agravo interno desprovido.
+VOTO
+O SR. MINISTRO MARCO BUZZI (Relator): O presente recurso não merece prosperar, porquanto as razões expendidas pela parte agravante são insuficientes a derruir a fundamentação do decisum ora impugnado.
+1. De início, no tocante à aventada violação aos artigos 20, §§ 3º e 4º, do CPC/73; 7º da Lei nº 8.987/95; 2º, 3º, 4º, 6º, 14, § 1º, incisos I e II, 17, e 42 do CDC, relativos aos seguintes argumentos: (i) que a verba honorária deveria ser fixada por equidade; e (ii) que deveria ter sido reconhecida a hipossuficiência do recorrente frente a parte recorrida; constata-se que a parte ora agravante deixou de impugnar o fundamento da decisão agravada, acerca da incidência do óbice recursal da Súmula 211 do STJ, em razão da falta do prequestionamento da matéria, uma vez que as referidas teses jurídicas não foram apreciadas pelo Tribunal de origem, mesmo após o julgamento dos embargos de declaração opostos.
+A jurisprudência do STJ firmou-se no sentido de que a impugnação, no agravo, de capítulos autônomos da decisão recorrida apenas induz a preclusão das matérias não impugnadas. Isso não impede o conhecimento do recurso quanto aos demais fundamentos atacados, o que afasta a incidência da Súmula 182/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CAPÍTULOS AUTÔNOMOS. IMPUGNAÇÃO PARCIAL. POSSIBILIDADE. SÚMULA 182 DO STJ. INAPLICABILIDADE. AÇÃO DE RESOLUÇÃO DE CONTRATO. HONORÁRIOS ADVOCATÍCIOS. SÚMULA N. 284 DO STF. APRECIAÇÃO EQUITATIVA. REVISÃO DE FATOS. SÚMULA N. 7 DO STJ. TERMO INICIAL DA CORREÇÃO MONETÁRIA. MATÉRIA PRECLUSA. FUNDAMENTO DA DECISÃO AGRAVADA INATACADO. JUROS DE MORA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. 1. A impugnação, no agravo regimental, de capítulos autônomos da decisão recorrida apenas induz preclusão das matérias não impugnadas, mas não impede o conhecimento do recurso, afastando-se a incidência da Súmula n. 182 do STJ.  ..  6. Agravo regimental desprovido.
+(AgRg no REsp 1382619/PI, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 06/10/2015, DJe 09/10/2015)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - CUMPRIMENTO DE SENTENÇA EM AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DO EXEQUENTE.
+1. A jurisprudência do STJ firmou-se no sentido de que a impugnação, no agravo, de capítulos autônomos da decisão recorrida apenas induz a preclusão das matérias não impugnadas. Precedente. ..
+3. Agravo interno desprovido.
+(AgInt no AREsp 211.137/SP, de minha relatoria, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+2. No mais, com relação aos artigos 333 do CPC/73, 186, 187 e 927 do Código Civil, a parte agravante defende que não se aplica o óbice recursal da Súmula 07 do STJ, pois desnecessário o reexame de matéria fática para a análise das alegações recursais.
+Nesse ponto, cinge-se a pretensão recursal nas alegações de inexibilidade da cobrança da dívida e da consequente ocorrência de ato ilícito praticado pela parte recorrida - inscrição indevida - ensejador de dano moral.
+O Tribunal de origem, no entanto, com base nos elementos fáticos e probatórios delineados nos autos, concluiu que o autor, ora recorrente, não comprovou a quitação da dívida cobrada, não havendo, portanto, qualquer ato ilícito praticado pela parte recorrida, pronunciando-se nos seguintes termos (fls. 239/240, e-STJ):
+Na espécie, o autor autorizou expressamente o débito em conta corrente para o pagamento das oito parcelas de R$ 1.260,00, a iniciar em 10/01/2012, finalizando no dia 10/08/2012, visando ao pagamento dos móveis comprados da empresa DUNELLI HOUSE.
+Assim, o pedido do autor não pode ser acolhido, uma vez que só quitou efetivamente a primeira parcela em 10/12/2011, com o pagamento do cheque nº 900895 à empresa que lhe vendeu os móveis (fls. 20). As demais prestações continuam em aberto.
+O autor apresentou os extratos de sua conta bancária de janeiro/2012 e de fato, em 10/01/2012, o saldo de sua conta era de apenas R$ 1.057,12, valor insuficiente para quitar a parcela de R$ 1.260,00 (fls. 35).
+No contrato de financiamento constou que o pagamento seria feito em débito automático perante o Banco Itaú S/A (fls. 19 e 22). Mas tal débito automático não se deu por ato atribuível ao autor, que não manteve saldo suficiente em sua conta. O fato é que a dívida ainda subsiste.
+Por fim, é importante registrar que a circunstância de o documento em que o autor autorizou o débito em conta corrente conter previsão expressa, permitindo que o Banco, no caso de insuficiência de fundos, efetue nova tentativa de débito nos dois dias úteis subsequentes ao vencimento da parcela, não obriga a instituição financeira credora a realizar tal procedimento, visto que se trata de mera liberalidade concedida pela ré.
+Na espécie a obrigação é do autor, ora devedor, de manter saldo suficiente em sua conta no prazo fixado para o pagamento das parcelas, na medida em que autoriza o débito em conta corrente como forma de quitação da dívida, o que não ocorreu no caso em apreço.
+Destarte, para se rever a conclusão do Tribunal de origem, acerca da inexistência de ato ilícito ensejador de indenização por dano moral, seria necessário, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL OBJETIVA. ERRO MÉDICO. CORPO ESTRANHO. ESQUECIMENTO. PRESTAÇÃO DE SERVIÇO. FALHA. ATO ILÍCITO. RECONHECIMENTO. MATÉRIA FÁTICA.
+REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DANO MORAL. VALOR. REDUÇÃO. PROPORCIONALIDADE E RAZOABILIDADE. MANUTENÇÃO. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. RESPONSABILIDADE CONTRATUAL. PRECEDENTES DO STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. O valor do dano moral estabelecido na instância ordinária atende às circunstâncias de fato da causa, demonstrando-se condizente com os princípios da proporcionalidade e razoabilidade, de forma que não merece revisão.
+3. O termo inicial dos juros de mora, em casos de responsabilidade contratual, é a citação, conforme a jurisprudência assente desta Corte.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 955.609/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/08/2017, DJe 21/08/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INDENIZATÓRIA. DANO MORAL. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO.
+1. Rever a conclusão do tribunal de origem, que reconheceu a ausência de ato ilícito a caracterizar dano moral, demandaria o reexame das provas carreadas aos autos, o que é inviável em recurso especial, nos termos da Súmula nº 7/STJ.
+2. Consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1080781/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/08/2017, DJe 25/08/2017)
+2.1. Ressalta-se, nesse ponto, que a alegação acerca da contratação de limite de cheque especial superior ao valor cobrado, a fim de comprovar a má prestação do serviço pelo banco, sequer foi objeto de apelação pela parte ora recorrente, tendo sido trazida somente nas razões do recurso especial, o que impede o conhecimento da matéria, por tratar-se de inovação recursal.
+2.2. Por fim, destaca-se que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido, confiram-se os seguintes precedentes: AgRg no AREsp 786.906/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/04/2016, DJe 16/05/2016; AgRg no AREsp 662.068/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/05/2015, DJe 22/06/2015.
+De rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
