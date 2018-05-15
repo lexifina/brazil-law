@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 375):
+ADMINISTRATIVO. ENSINO SUPERIOR. SELEÇÃO. CURSO DE MESTRADO PROFISSIONAL EM ENSINO DE CIÊNCIAS E MATEMÁTICA (ENCIMA). EDITAL 01/2015. CANDIDATOS APROVADOS DENTRE AS VAGAS OFERECIDAS NO INSTRUMENTO CONVOCATÓRIO. CANCELAMENTO DE TURMA APÓS CONCLUSÃO DO CERTAME.
+1. Apelação em face da sentença que concedeu, em parte, a segurança, para determinar às autoridades coatoras e a UFC que se abstenham de realizar nova Seleção Pública de Mestrado Profissional em Ensino de Ciências e Matemática (ENCIMA), regulado pelo Edital nº 01/2015 até o trânsito em julgado do presente , assegurando as vagas para os candidatos pré-selecionados mandamus no certame objeto do referido edital.
+2. In casu, os impetrantes foram aprovados na seleção da Universidade Federal do Ceará, para o Curso de Mestrado Profissional em Ensino de Ciências e Matemática (ENCIMA 2015.2), regulado pelo Edital nº 1/2015, e, posteriormente, foram surpreendidos com e-mail da UFC, no qual comunicava o cancelamento da Turma 2015.2, objeto do supracitado Edital, tendo em vista restrições orçamentárias.
+3. O Poder Judiciário não pode interferir no mérito administrativo, substituindo-se à banca examinadora e aos critérios de avaliação por ela eleitos; em outro vértice, pode e deve afastar ilicitudes, sendo possível a intervenção visando à preservação dos princípios da legalidade e da vinculação ao edital.
+4. Não obstante as razões que levaram ao cancelamento da Turma 2015.2 - Mestrado Profissional em Ensino de Ciências e Matemática da UFC - "contenção orçamentária", deve-se condicionar a realização de outro certame, com a mesma finalidade, ao chamamento dos candidatos que lograram êxito dentre as vagas oferecidas no Edital 01/2015, nos termos do comando sentencial.
+5. Apelação e remessa oficial desprovidas.
+Embargos de declaração rejeitados.
+A recorrente alega, em síntese, as seguintes violações: a) ao art. 53 da Lei nº 9.394/96 e ao art. 207 da Constituição Federal,o sob o fundamento de que não pode o Poder Judiciário obrigar a Universidade a dar preferência aos candidatos ora aprovados em eventual futura nova seleção para o curso de mestrado, isso porque goza de autonomia didático-científica e administrativa; b) ao art. 41 da Lei nº 8.666/93, porquanto os candidatos, ao aderirem às normas do edital, se sujeitam às exigências do mesmo.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 686/687.
+É o relatório. Passo a decidir.
+Inicialmente, nos termos do art. 105, inciso III, da Constituição da República, o recurso especial é destinado tão somente à uniformização da interpretação do direito federal, não sendo, assim, a via adequada para a análise de eventual ofensa a dispositivos constitucionais, cuja competência pertence ao Supremo Tribunal Federal. Por tal motivo, não se conhece do apelo especial no tocante à alegação de violação do artigo 207 da CF/88.
+No que diz respeito aos artigos 53 da Lei nº 9.394/96, e a tese de autonomia da Universidade, verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem e não foi suscitado nas razões de recurso especial violação ao artigo 1.022 do CPC/2015 por omissão, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+No mesmo óbice esbarra o argumento de violação do artigo 41 da Lei nº 8.666/93, que, além de não ter sido objeto de apreciação pela Corte de origem, não guarda pertinência com o caso dos autos, que diz respeito a seleção pública para preenchimento de vagas de curso ofertado por unidade pública de ensino superior. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO ESTADUAL. POLICIAL MILITAR. EXAME PSICOTÉCNICO. SUBJETIVIDADE. DIREITO LÍQUIDO E CERTO. SÚMULA 284/STF. SÚMULAS 5 E 7 STJ.
+1. Cinge-se a controvérsia à impetração de Mandado de Segurança contra ato do Sr. Presidente da Diretoria de Ensino da Polícia Militar do Estado do Ceará e Comandante-Geral da Polícia Militar do Estado do Ceará, com o objetivo de que seja assegurado aos agravados novo exame psicotécnico, de que eles sejam submetidos aos exames físicos e admitidos no CFSDF.
+2. O dispositivo encartado no art. 41 da Lei 8.666/93 alude a licitações e contratos, de forma que não guarda pertinência com o caso em tela, que trata de concurso público, atraindo o verbete sumular 284/STF.
+3. Afastar a aplicação das Súmulas 5 e 7 do STJ, no caso sub exame, demanda análise das regras contidas no edital do concurso público, o que é impossível no Recurso Especial.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 557.703/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/11/2014, DJe 05/12/2014, grifo nosso)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
