@@ -1,0 +1,21 @@
+EMENTA
+AGRAVO INTERNO. PEDIDO DE TUTELA PROVISÓRIA. RAZÕES RECURSAIS QUE NÃO IMPUGNAM, ESPECIFICAMENTE, AS RAZÕES DA DECISÃO. AUSÊNCIA DO INDISPENSÁVEL FUMUS BONI IURIS. INDEFERIMENTO DA TUTELA MANTIDO. AGRAVO INTERNO DESPROVIDO.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, decide a Egrégia TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze (Presidente), Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno interposto contra decisão que indeferiu o pedido de tutela provisória em razão da ausência de fumus boni iuris.
+Em suas razões, o agravante alega, essencialmente, que (a) apenas informou que, ante o questionamento quanto à satisfação das exigências formais do dissenso, constatou um defeito sanável e, antecipando-se, efetuou a correção do vício, fazendo juntar, no Tribunal de origem, a cópia do aresto divergente e a comprovação da identidade do repositório oficial; (b) não se postulou o exame do mérito do recurso especial, mas tão somente a concessão da tutela de urgência, ante a relevância da tese exposta, do periculum in mora e da irreparabilidade de dano; (c) apontou que o recurso especial busca amparo na tese da imprestabilidade jurídica daquela motivação (do acórdão), mediante a tese de cumulação de pedidos com termos iniciais da prescrição distintos e prazos prescricionais divergentes no processo de rescisão contratual cumulada com reintegração de posse (fl. 477); (d) a tese apresentada no recurso especial (de que, modificada a natureza da posse, o prazo prescricional decenal aplicado à rescisão contratual torna-se inaplicável à reintegração de posse) mostra-se perfeitamente legítima de ser apreciada em recurso especial e, no presente caso, é apta à obtenção da tutela de urgência destinada à inibição da irreprabilidade de danos.
+Intimada, a agravada apresentou impugnação, requerendo a rejeição do agravo interno.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes colegas, o agravo interno não merece prosperar.
+Inicialmente, ressalto que não analisarei os fundamentos constantes das fls. 479 (parte final) em diante, por entender que se trata de erro na elaboração da peça processual, aparentando ser uma cópia das razões dos embargos de declaração de fls. 448/452, já devidamente julgados por esse relator (fls. 470/472), a apresentadas em obiter dictum aos argumentos e pedidos do presente agravo interno.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+No presente caso, em que pese a agravante não ter se desincumbido do ônus de impugnar especificamente os argumentos da decisão agravada, entendo que o indeferimento da tutela pleiteada deve ser mantida, em razão da ausência do indispensável fumus boni iuris para a sua concessão.
+Com efeito, o Tribunal de origem afastou a alegada prescrição por entender aplicável, à espécie, o prazo prescrional decenal por se tratar, na origem, de ação de resolução contratual cumulada com perdas e danos. O acórdão aparentemente está bem fundamentado, não demonstrando, em um juízo de cognição sumária, estar presente qualquer ofensa aos artigos 489, caput e §1º, incisos IV, V e VI, e 1.022 do CPC.
+Constatei, ainda, que recorrente não demonstrou, nas razões do seu recurso especial, a alegada ofensa aos artigos 1º, 473, 475, 565, do CPC/73, 10º do CPC/2015, a impedir o conhecimento do recurso no ponto.
+Por fim, mesmo tendo a requerente noticiado a juntada aos autos originais da cópia do aresto divergente e a comprovação da identidade do repositório oficial, à primeira vista, vislumbro que o dissídio jurisprudencial não foi devidamente demonstrado, porquanto a similitude fática entre o caso dos autos e os precedentes apontados como violados permanece não evidenciada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
