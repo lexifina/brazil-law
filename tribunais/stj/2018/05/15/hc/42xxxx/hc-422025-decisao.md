@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CAIQUE CARVALHO em face de acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento ao agravo em execução interposto pela defesa.
+O paciente, condenado pela prática do crime previsto no art. 33, § 4º, da Lei de Drogas, teve o pedido de indulto das penas formulado nos termos do Decreto Presidencial n. 8.615/2015 indeferido pelo Juízo da Execução em razão da natureza do crime.
+O Tribunal a quo negou provimento ao agravo em execução defensivo com base na hediondez do delito.
+Sustenta a impetrante, em síntese, constrangimento ilegal tendo em vista que o delito de tráfico de drogas privilegiado não é equiparado a hediondo, conforme entendimento do STF, razão pela qual o paciente faz jus à concessão do indulto das penas com base no Decreto Presidencial em referência.
+Requer a concessão do indulto das penas ao paciente.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela prejudicialidade do pedido.
+É o relatório.
+DECIDO.
+O Tribunal a quo manteve o indeferimento do pleito de indulto das penas, formulado com base no Decreto Presidencial n. 8.615/2015, sob os seguintes fundamentos (fls. 60/62):
+ O agravo não comporta acolhimento. Infere-se dos autos, que o ora agravante foi condenado pelo crime de tráfico de entorpecentes privilegiado, crime este equiparado a hediondo, a pena de 03 anos e 09 meses de reclusão, em regime inicial fechado.
+Pleiteado o indulto, nos termos do Decreto Presidencial n. 8.615/2015, o MM. Juiz a quo indeferiu o benefício, acolhendo a manifestação da Acusação, sob a seguinte fundamentação:
+ ..  embora o § 4o do artigo 33 seja menos gravoso, ainda assim é tráfico de entorpecentes, de forma que concessão do indulto fica afastada para este caso conforme expressamente determinado no Decreto em comento (fls. 05).
+A decisão ora combatida não merece, com efeito, qualquer reparo.
+Não se ignora, com efeito, o fato de ter o Col. Supremo Tribunal Federal, em julgamento do HC n. 118.533, no sentido de que o não se aplicam as restrições da Lei n. 8072/90, aos condenados pela prática do crime de tráfico privilegiado.
+A recente decisão foi proferida, contudo, em caráter meramente incidental e, portanto, não possui efeito vinculante.
+Não se concebe que a possibilidade de eventual reconhecimento da presença da causa especial de diminuição de pena, prevista no art. 33, § 4o, da Lei n. 11.343/2006, transmude sua natureza de hedionda para outra desta diversa, eis que não cuida de crime diverso e autônomo, "privilegiada", mas do mesmo tipo penal sobre o qual se admite incidir mera causa de diminuição, a ser aplicada por ocasião da dosimetria da pena.
+Pondere-se que o tráfico de entorpecentes é um crime de ação múltipla, e o agente já o consuma ao realizar quaisquer das várias formas objetivas de violação ao tipo penal previsto no referido artigo.
+Pontue-se, outrossim, que, independentemente de estarem presentes os requisitos que permitam o reconhecimento do redutor, o tráfico de substâncias estupefacientes preserva sua natureza de delito grave e hediondo, com conseqüências extremamente danosas à sociedade, o que recomenda seja procedida análise rigorosa do caso concreto, de modo a garantir a efetiva absorção da terapêutica criminal pelo ora acusado.
+São equiparados a hediondos, nos termos do art. 2º da Lei n. 8.072/1990 e do art. 5o, XLIII, da CF, os crimes de tortura, de terrorismo e de "tráfico ilícito de entorpecentes e drogas afins". Cumpre observar que esta última expressão não se restringe, contudo, ao tipo penal previsto no art. 33, caput, da Lei n. 11.343/2006. devendo abranger, antes, todos os crimes previstos no Capítulo II, do Título IV, do mesmo diploma legal.
+Destaque-se não constar em nenhum dos tipos penais ali previstos qualquer rubrica referente ao "tráfico de entorpecentes" ou à conduta de "traficar", cuja menção é efetuada apenas na denominação do Título IV, de mencionada Lei n. 11.343/2006, que versa a "repressão à produção não autorizada e ao tráfico ilícito de drogas".
+A melhor interpretação do texto legal deve ser no sentido de serem todas as condutas ali descritas espécies, ou modalidades, diversas de um mesmo gênero, tráfico. Todas elas se submetem, pois, às restrições referentes aos crimes hediondos ou a estes equiparados, dentre os quais a vedação à concessão de indulto,nos termos do art. 2o, I, da Lei n. 8.072/90.
+Correta, portanto, a r. decisão recorrida que indeferiu o pleito de indulto ao sentenciado, na medida em que, além da proibição contida na denominada "Lei dos Crimes Hediondos", há ainda expressa vedação legal no art. 9º, II, do Decreto n. 8.615/2015: "O disposto neste Decreto não alcança as pessoas condenadas:  .. ; II - por crime de tráfico ilícito de droga, nos termos do caput dos arts. 34 a art. 37 da Lei n. 11.343. de 23 de agosto de 2006".
+Ante o exposto, nega-se provimento ao agravo em execução interposto pela Defesa em favor de CAIQUE CARVALHO, devendo ser mantida a r. decisão por seus próprios e jurídicos fundamentos.
+É certo que esta Corte, em julgamento da Terceira Seção, apreciando o REsp. n. 1.329.088/RS, admitido como representativo de controvérsia, firmou o entendimento de que a incidência da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006 não retira a equiparação a hediondo do delito de tráfico.
+A matéria foi, inclusive, sumulada no enunciado n. 512 desta Corte, segundo o qual, a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 não afasta a hediondez do crime de tráfico de drogas.
+Ocorre que o Supremo Tribunal Federal, ao julgar o HC n. 118.533, afastou o caráter hediondo do tráfico de drogas praticado na forma do art. 33, § 4º, da Lei n. 11.343/06, consoante a seguinte ementa:
+HABEAS CORPUS. CONSTITUCIONAL, PENAL E PROCESSUAL PENAL. TRÁFICO DE ENTORPECENTES. APLICAÇÃO DA LEI N. 8.072/90 AO TRÁFICO DE ENTORPECENTES PRIVILEGIADO: INVIABILIDADE. HEDIONDEZ NÃO CARACTERIZADA. ORDEM CONCEDIDA.
+1. O tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos.
+2. O tratamento penal dirigido ao delito cometido sob o manto do privilégio apresenta contornos mais benignos, menos gravosos, notadamente porque são relevados o envolvimento ocasional do agente com o delito, a não reincidência, a ausência de maus antecedentes e a inexistência de vínculo com organização criminosa.
+3. Há evidente constrangimento ilegal ao se estipular ao tráfico de entorpecentes privilegiado os rigores da Lei n. 8.072/90. 4. Ordem concedida (HC 118533, Relator(a): Min. CÁRMEN LÚCIA, Tribunal Pleno, PROCESSO ELETRÔNICO DJe-199 DIVULG 16-09-2016 PUBLIC 19-09-2016).
+Assim, alinhou-se a jurisprudência deste STJ ao entendimento da Corte Suprema. v.g.: AgInt no AREsp 861.682/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/12/2016, DJe 16/12/2016; HC 372.297/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/12/2016, DJe 13/12/2016.
+Imperioso, portanto, o afastamento dos efeitos de natureza hedionda do tráfico privilegiado, no caso em apreço.
+Ante o exposto, concedo o habeas corpus para determinar ao Juízo das Execuções que, afastada a natureza hedionda do delito de tráfico privilegiado, reaprecie o pedido do paciente à concessão de indulto previsto no Decreto Presidencial n. 8.615/2015.
+Comunique-se.
+Publique-se.
+Intimem-se.
