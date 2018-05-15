@@ -1,0 +1,49 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NO PREENCHIMENTO DAS GUIAS DO PREPARO. DESERÇÃO. APLICAÇÃO DA SÚMULA 187. AGRAVO INTERNO DOS PARTICULARES A QUE SE NEGA PROVIMENTO.
+1. A indicação errônea do Código de Recolhimento é irregularidade que conduz ao reconhecimento da deserção do Recurso.
+2. Agravo Interno dos Particulares a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto por [NOME] e OUTROS contra decisão proferida pelo eminente Ministro Presidente desta Corte, que negou seguimento ao seu recurso, porquanto deserto, considerando que o suposto recolhimento efetuado, a título de custas e de porte de remessa e retorno, foi realizado em desacordo com o disposto na Resolução STJ 8/2012, vigente à época da interposição do recurso (fls. 725).
+2. Nas razões recursais, a parte agravante argumenta, em suma, que o caso é de oportunizar o recorrente a regularidade da situação viciada, em face dos ditames do novo CPC, e não de deserção.
+3. Pugna, desse modo, pela reconsideração da decisão ora atacada ou pela apresentação do feito à Turma Julgadora para que seja provido o Recurso Especial.
+4. É o relatório.
+VOTO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NO PREENCHIMENTO DAS GUIAS DO PREPARO. DESERÇÃO. APLICAÇÃO DA SÚMULA 187. AGRAVO INTERNO DOS PARTICULARES A QUE SE NEGA PROVIMENTO.
+1. A indicação errônea do Código de Recolhimento é irregularidade que conduz ao reconhecimento da deserção do Recurso.
+2. Agravo Interno dos Particulares a que se nega provimento.
+1. A despeito das alegações das partes agravantes, razão não lhes assiste.
+2. Consigne-se, primeiramente, que, consoante já destacado, de acordo com os Enunciados Administrativos do STJ 02 e 03, os requisitos de admissibilidade recursal exigidos serão aqueles previstos no revogado CPC de 1973, se a decisão impugnada foi publicada até 17 de março de 2016 ou, se publicada após 18 de março de 2016, serão exigidos tal qual previsto no CPC de 2015.
+3. Seguindo essa orientação, e tal como anteriormente fundamentado, de fato, o seguimento do Apelo Excepcional esbarra no óbice da Súmula 187/STF.
+4. Nos termos do entendimento firmado por esta Corte Uniformizadora, a indicação errônea do Código de Recolhimento é irregularidade que conduz ao reconhecimento da deserção do Recurso. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. GUIA DE RECOLHIMENTO DA UNIÃO - GRU. INDICAÇÃO ERRÔNEA DO NÚMERO DO PROCESSO NA ORIGEM. DESERÇÃO. SÚMULA N. 187/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É firme o posicionamento desta Corte segundo o qual é necessária a indicação do número de processo na Guia de Recolhimento da União (GRU) ou no Documento de Arrecadação de Receitas Federais (DARF) quando da interposição do recurso, sendo considerado deserto aquele que não atende a esse quesito.
+III - A comprovação do preparo, inclusive porte de remessa e de retorno, deve ser feita no ato de interposição do recurso, conforme determina o art. 511 do CPC, sob pena de preclusão, a teor do disposto no Verbete Sumular n. 187/STJ.
+IV - Os Agravantes não apresentam, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido (AgInt no REsp. 1.632.259/DF, Rel. Min. REGINA HELENA COSTA, DJe 9.6.2017).
+
+PROCESSUAL CIVIL. RECURSO ESPECIAL. APLICAÇÃO DO CPC/1973 PARA FINS DE ADMISSIBILIDADE. RECOLHIMENTO DOS VALORES RELATIVOS AO PREPARO COM INDICAÇÃO ERRÔNEA DO CÓDIGO DA RECEITA. DESERÇÃO.
+1. Aos recursos interpostos com fundamento no Código de Processo Civil de 1973 devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2/STJ).
+2. A jurisprudência do STJ, à luz do CPC/1973, entende que, além do recolhimento dos valores relativos às custas de preparo, é necessária a indicação exata do respectivo código de receita, sendo imprescindível o correto preenchimento das guias, sob pena de deserção. Precedente: AgInt no AREsp 1.003.492/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/4/2017, DJe 4/5/2017.
+3. Agravo Interno não provido (AgInt no REsp. 1.650.301/ES, Rel. Min. HERMAN BENJAMIN, DJe 16.6.2017).
+
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INDICAÇÃO ERRÔNEA DOS DADOS NA GUIA DE RECOLHIMENTO. AUSÊNCIA DE PREPARO. PRECEDENTES. DISPOSIÇÕES DO NCPC. INAPLICABILIDADE NA HIPÓTESE DE RECURSO ESPECIAL CONTRA ACÓRDÃO PUBLICADO NA VIGÊNCIA DO CPC/73. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É dever da recorrente apontar o correto preenchimento das guias de recolhimento que compõem as custas do preparo, sob pena de deserção do recurso. A exigência do correto preenchimento da guia, longe de ser mero formalismo, presta-se a evitar fraudes contra o Judiciário, impedindo que se use a mesma guia para interposição de diversos recursos (AgRg no AREsp 736.400/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe 6/4/2016).
+3. No caso, a entidade fez a indicação errônea do número de referência na guia de recolhimento das custas judiciais juntada aos autos, uma vez que o número utilizado refere-se à ação ordinária e o presente apelo nobre foi tirado nos autos do agravo de instrumento manejado em impugnação ao cumprimento de sentença.
+4. Na hipótese dos autos, o acórdão contra o qual se insurgiu o beneficiário via recurso especial foi publicado aos 15/11/2013. Desse modo, não se aplicam à espécie os dispositivos do NCPC invocados das razões do agravo interno, tampouco o princípio da primazia do julgamento de mérito, consagrado pelo novel diploma adjetivo. Força do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+5. Agravo interno não provido (AgInt no AREsp 978.457/BA, Rel. Min. MOURA RIBEIRO, DJe 22.5.2017).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO IRREGULAR. INDICAÇÃO ERRÔNEA DO NÚMERO DO PROCESSO NA GUIA DE RECOLHIMENTO. DESERÇÃO EVIDENCIADA.
+1. Os recursos interpostos com fulcro no CPC/1973, sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo 2 do Plenário do STJ.
+2. "É farta a jurisprudência desta Casa que exige as guias de recolhimento do preparo juntamente com o comprovante de pagamento bancário, a fim de que todas as informações necessárias para individualizar o pagamento e identificar a sua pertinência ao processo respectivo sejam colhidas (código de recolhimento, UG/Gestão, CPF/CNPJ do contribuinte, nome do contribuinte, número de referência)" (AgInt no AREsp 913.173/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/11/2016). Outros julgados: AgInt no AREsp 906.772/SP, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 4/10/2016; e AgRg no AREsp 542.915/AP, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 22/10/2014.
+3. Agravo interno não provido (AgInt nos EDcl no AREsp 861.086/SP, Rel. Min. BENEDITO GONÇALVES, DJe 4.4.2017).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PREPARO. IRREGULARIDADE. INDICAÇÃO ERRÔNEA DO NÚMERO DO PROCESSO. RECURSO INTERPOSTO EM DESACORDO COM A RESOLUÇÃO/STJ Nº 20/2005. VERIFICAÇÃO DA VERACIDADE DO RECOLHIMENTO. IMPOSSIBILIDADE. DESERÇÃO. RECURSO PROCESSADO PELA VIA DE AGRAVO DE INSTRUMENTO. REQUISITOS DE ADMISSIBILIDADE. NOVO EXAME. POSSIBILIDADE.
+1. Pacífico no STJ o entendimento de que, "a partir da edição da Resolução n. 20/2004, além do recolhimento dos valores relativos às custas e ao porte de remessa e retorno em rede bancária, mediante preenchimento da Guia de Recolhimento da União (GRU) ou de Documento de Arrecadação de Receitas Federais (DARF), com a anotação do respectivo código de receita e a juntada do comprovante nos autos, passou a ser necessária a indicação do número do processo respectivo" (AgRg no REsp 924942/SP, Rel. Ministro MAURO CAMPBELL MARQUES, Corte Especial, julgado em 3.2.2010, DJe 18.3.2010) 2. Constatado o recolhimento em desconformidade com as normas reguladoras da espécie, considera-se deserto o recurso interposto.
+3. O Relator não está impedido de realizar nova análise dos requisitos de admissibilidade de recurso especial processado pela via de agravo de instrumento. Precedente.
+4. Agravo regimental a que se nega provimento (AgRg no REsp 1.128.120/SP, Rel. Min. MARIA ISABEL GALLOTTI, DJe 31.10.2012).
+5. Ante o exposto, nega-se provimento ao Agravo Interno dos Particulares.
+6. É como voto.
