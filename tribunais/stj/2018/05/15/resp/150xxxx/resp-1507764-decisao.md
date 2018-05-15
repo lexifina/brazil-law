@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANGELINA DE BETTIO DALLA VALLE, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, contra acórdão assim ementado:
+REGIME DE EXCEÇÃO. APELAÇÕES CÍVEIS. SEGURO. PLANO DE SAÚDE. CIRURGIA BARIÁTRICA. CONTRATO FIRMADO NA VIGÊNCIA DA LEI 9.656198. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. PLANO REFERÊNCIA. DIREITO DO MÉDICO E DO PACIENTE OPTAREM PELO TRATAMENTO. PRINCÍPIO DA DIGNIDADE HUMANA E BOA-FÉ. COBERTURA SECURITÁRIA DEVIDA. DANOS MORAIS. INOCORRÊNCIA.
+1. O objeto principal do seguro de saúde é a cobertura do risco contratado, ou seja, o evento futuro e incerto que poderá gerar o dever de ressarcir as despesas médicas por parte da seguradora de saúde. Outro elemento essencial desta espécie contratual é a boa-fé, na forma do art. 422 do Código Civil, caracterizada pela lealdade e clareza das informações prestadas pelas partes.
+2. Há perfeita incidência normativa do Código de Defesa do Consumidor nos contratos atinentes aos planos ou seguros de saúde, como aquele avençado entre as partes, podendo se definir como sendo um serviço a cobertura do seguro médico ofertada pela demandada, consubstanciada no pagamento dos procedimentos clínicos decorrentes de riscos futuros estipulados no contrato aos seus clientes, os quais são destinatários finais deste serviço.
+3. O objeto do litigio é o custeio da cirurgia bariátrica indicada à autora devido ao quadro de obesidade severa e outras co-morbidades, em que a ré sustenta a ausência de cobertura securitária.
+4. Aplicável ao caso em análise as exigências mínimas previstas no plano-referência de que trata os artigos 10 e 12 da legislação dos planos de saúde, bem como a Resolução Normativa nº. 262/2012 da ANS, 5. É direito do médico indicar o procedimento que entende adequado para a patologia que o paciente apresenta, bem como é direito deste último escolher se submeter ao mencionado tratamento. Inteligência dos artigos 21 do Código de Ética Médica e 15 do Código Civil.
+6. Procedimento necessário para que a autora restabeleça o seu estado de saúde e retome a sua jornada normal de vida, sem sofrer com o peso demasiado e naturais conseqüências, que lhe impedem de realizar suas atividades cotidianas e a submetem a um elevado risco de morte.
+Dos danos morais
+7. Danos morais. Somente os fatos e acontecimentos capazes de abalar o equilíbrio psicológico do individuo são considerados para tanto, sob pena de banalizar este instituto, atribuindo reparação a meros incômodos do cotidiano, em especial quando se trata de responsabilidade contratual e não houve recusa injustificada, mas com base em interpretação equivocada do pacto.
+Da possibilidade de compensação da verba honorária
+8. Havendo sucumbência reciproca, mostra-se possível a compensação dos honorários advocatícios, por força do disposto no artigo 21, caput, do Código de Processo Civil, inexistindo qualquer ofensa ao artigo 23 da lei n. 0 8.906194 (Estatuto da OAB).
+Negado provimento aos apelos.
+Nas razões do recurso, aponta a recorrente, além de dissídio jurisprudencial, violação dos arts. 6º, inciso VIII, do Código de Defesa do Consumidor, 422 e 757 do Código Civil. Sustenta, em síntese, a necessidade de condenação à indenização por danos morais, em razão da negativa de cobertura do plano de saúde.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+O recurso não prospera.
+O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela não ocorrência de danos morais indenizáveis, assim se pronunciando (fls. 173-175, e-STJ):
+Com relação à indenização por danos morais, entendo que não merece guarida a pretensão da parte autora, tendo em vista que somente os fatos e acontecimentos capazes de romper com o equilíbrio psicológico do individuo, podem justificar a configuração da pretensão indenizatória, sob pena de ocorrer uma banalização deste instituto.
+(..)
+Ademais, cumpre destacar que o demandante não comprovou a ocorrência dos alegados danos imateriais, ônus que lhe impunha e do qual não se desincumbiu, a teor do que estabelece o art. 333, inciso 1, do CPC.
+(..)
+Assim, os fatos narrados na inicial não são passíveis de gerar o dever de reparação a titulo de dano imaterial à parte autora, uma vez que não se verifica o nexo de causalidade capaz de importar no direito a percepção de indenização. Por tais motivos, é descabida a pretensão indenizatória promovida pelo postulante a esse titulo.
+Dessa forma, não há que se falar em indenização a titulo de dano moral, quanto mais em se tratando de lesão decorrente de contrato no qual envolva a discussão quanto ao seu cumprimento, fato que isoladamente e a míngua de provas não representa atentado à personalidade.
+Ressalte-se que a parte demandada não recusou o cumprimento do contrato injustificadamente, o que possibilitaria a concessão de indenização por dano moral, mas por razões que, em tese, permitiriam discutir a execução contratual, garantia constitucional que lhe é assegurada.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+Destaque-se que a conclusão acima reproduzida está em perfeita harmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, no sentido de que dano moral deve ser comprovado, não se podendo indenizar o mero descumprimento contratual. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE AUTORIZAÇÃO PARA TRATAMENTO DE EMERGÊNCIA. PERÍODO DE CARÊNCIA. CLÁUSULA ABUSIVA. DANO MORAL. QUANTUM RAZOÁVEL E PROPORCIONAL. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento emergencial, como ocorrido no presente caso, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento.
+2. A cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde não é considerada abusiva, desde que não obste a cobertura do segurado em casos de emergência ou urgência.
+3. O valor de R$ 12.000,00 (doze mil reais) arbitrado a título de dano moral não se mostra excessivo, tendo em vista as circunstâncias específicas do caso concreto.
+4. Agravo regimental não provido.
+(AgRg no AgRg no REsp 1.503.003/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16.6.2015, DJe 3.8.2015).
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DESCUMPRIMENTO CONTRATUAL. MERO ABORRECIMENTO. DANO MORAL. NÃO OCORRÊNCIA. CONCLUSÃO OBTIDA MEDIANTE ANÁLISE DO ACERVO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Embargos de declaração recebidos como agravo regimental, em face do nítido caráter infringente das razões recursais. Aplicação dos princípios da fungibilidade e da economia processual.
+2. In casu, o Tribunal a quo concluiu pela inexistência de dano moral passível de reparação, tendo em vista o curto lapso temporal transcorrido entre a negativa de cobertura da cirurgia bariátrica pelo plano de saúde e a antecipação dos efeitos da tutela que garantiu, à agravada, a cobertura pretendida, situação que não se mostrou suficiente para comprometer a sua saúde ou violar seus direitos da personalidade.
+3. A jurisprudência desta Corte entende que, quando a situação experimentada não tem o condão de expor a parte a dor, vexame, sofrimento ou constrangimento perante terceiros, não há falar em dano moral, uma vez que se trata de circunstância a ensejar mero aborrecimento ou dissabor, mormente quando mero descumprimento contratual, embora tenha acarretado aborrecimentos, não gerou maiores danos ao recorrente.
+4. Agravo regimental não provido.
+(EDcl no AREsp 626.695/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19.5.2015, DJe 18.6.2015).
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. DEVER DE INDENIZAR. CLÁUSULA CONTRATUAL CONTROVERTIDA.
+1. O mero descumprimento de cláusula contratual controvertida não enseja a condenação por dano moral.
+2. Embora a jurisprudência tenha posteriormente se consolidado no sentido da invalidade de cláusula que exclua a cobertura de stent, no caso em exame, a circunstância de o contrato não ter sido adaptado à Lei 9.656/98 emprestava, na época em que ocorridos os fatos, relevância à discussão travada pelo réu, tese acolhida pelo relator originário da apelação 3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.457.475/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16.9.2014, DJe 24.9.2014).
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a orientação desta Corte, não há o que se reformar, esbarrando o recurso no óbice da Súmula 83/STJ.
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
