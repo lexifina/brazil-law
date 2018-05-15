@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FRANCISCA DE FÁTIMA MUNIZ BORGES, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Apelação n.º 0062396-33.2010.8.19.0042).
+Consta dos autos que a paciente foi condenada, em primeiro grau de jurisdição, à pena de 3 anos de reclusão, em regime inicial aberto, bem como ao pagamento de 30 dias-multa, pela prática do crime descrito no artigo 171, caput, do Código Penal.
+Irresignadas, tanto a Defesa quanto a acusação interpuseram recurso de apelação. O Tribunal a quo deu parcial provimento ao apelo do Parquet, reconhecendo a prática do delito tipificado no art. 299, parágrafo único, do Código Penal e majorando a pena referente ao estelionato, restando a reprimenda redimensionada para 8 anos e 1 mês de reclusão e 85 dias-multa, em regime fechado. Na ocasião, foi determinada a imediata execução provisória da pena.
+Foram opostos embargos de declaração que restaram rejeitados.
+No presente mandamus, sustenta o impetrante que o paciente está sofrendo constrangimento ilegal em razão de ter sido expedida guia de execução provisória da pena.
+Assevera que "foram interpostos os recursos pertinentes para as instâncias superiores que ainda estão em análise" (fl. 2).
+Requer, liminarmente e no mérito, o direito de permanecer em liberdade até o trânsito em julgado da referida ação penal.
+É o relatório.
+Decido.
+A questão trazida a deslinde abarca o exame acerca da prisão, antes do trânsito em julgado da condenação, sem qualquer fundamentação concreta, decorrente do julgamento do apelo na origem.
+Sempre defendi que a chamada execução provisória da pena privativa de liberdade, em princípio, é vedada, sob pena de se pôr em xeque a presunção de inocência. Somente se lhe admite a fim de garantir mais direitos ao cidadão submetido aos rigores da coerção estatal, efetivando-se o princípio da humanidade da pena, na sua vertente do nihil nocere. Para confirmar a vedação, basta a leitura do art. 5.º, inciso LVII, da Constituição Federal, verbis:
+Ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória.
+Assim, se o processo ainda não alcançou termo, penso que não se afigura plausível a privação da liberdade sem que se demonstre, por decisão devidamente fundamentada, a imprescindibilidade da medida extrema, que deve ser sempre a ultima ratio.
+Sobre o tema, Gustavo Henrique Badaró preleciona:
+No caso da prisão preventiva, o periculum in mora costuma ser identificado com o periculum libertatis. Todavia, as situações concretas que caracterizam as hipótese de periculum - garantia da ordem pública ou econômica, conveniência da instrução criminal e asseguração da aplicação da lei penal - devem estar demonstradas, estremes de dúvidas, para que o juiz decrete a prisão. (..) Além disso, a prisão não pode ser um corolário automático da imputação, o que significaria restaurar um regime de prisão preventiva obrigatória.
+(Processo Penal, 3ª ed. rev., atual. e ampl., São Paulo: Editora Revista dos Tribunais, 2015, p. 989/991.)
+Ocorre que o Pleno do Supremo Tribunal Federal, em 5.10.2016, no julgamento das medidas cautelares nas ações diretas de constitucionalidade 43 e 44, por maioria de votos, confirmou entendimento antes adotado no julgamento do HC 126.292, no sentido de que a execução provisória da pena não afronta o princípio constitucional da presunção de inocência, de modo que, confirmada a condenação por colegiado em segundo grau, e ainda que pendentes de julgamento recursos de natureza extraordinária (recurso especial e/ou extraordinário), a pena poderá, desde já, ser executada.
+Antes mesmo da confirmação desse entendimento por ocasião do julgamento das medidas cautelares nas ações diretas de constitucionalidade referidas, a nova compreensão do Pretório Excelso - que ainda suscita divergências entre seus próprios ministros - foi adotada por esta Corte Superior de Justiça nos EDcl no REsp 1.484.415 (Sexta Turma) e na QO na Apn 675 (Corte Especial), oportunidades em que fiquei vencida, com base nos argumentos acima expedidos, que sempre manifestei.
+Esse posicionamento foi reafirmado no Plenário Virtual do Supremo Tribunal Federal, por ocasião da análise do ARE 964246, que teve repercussão geral reconhecida. Assim, a tese firmada pelo Pretório Excelso deve ser aplicada nos processos em curso nas demais instâncias.
+Portanto, ao menos por ora, diante do cenário que se apresenta, ante o esgotamento da jurisdição ordinária, possível se mostra a execução provisória da sanção imposta (vide os seguintes precedentes unipessoais: HC n.º 387.517/SP, Rel. Ministro Rogério Schietti, DJe de 10/02/2017; HC n.º 387.491/SP, Rel. Ministro Sebastião Reis Júnior, DJe de 10/02/2017; HC n.º 390.188/SP, Rel. Ministro Rogério Schietti, DJe de 08/03/2017).
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Sem recurso, ao arquivo.
