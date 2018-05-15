@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de processo em que se discute a existência de perda remuneratória de vencimentos de servidor público na utilização da conversão dos salários pela sistemática da URV.
+    O recurso não merece acolhida, tendo em vista que a decisão proferida pelo Tribunal de origem se alinha à jurisprudência do Supremo Tribunal Federal (STF). Veja-se o RE 561.836, Rel. Min. Luiz Fux).
+    Para dissentir do entendimento firmado pelo Tribunal de origem, seriam imprescindíveis a análise da legislação infraconstitucional aplicada ao caso e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    O Tribunal de origem não julgou válidos lei ou ato de governo local contestados em face da Constituição, o que inviabiliza o recurso extraordinário com base na alínea c do inciso III do art. 102, da Constituição. Nesse sentido, confira-se a ementa do AI 792.964-ED, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. É INCABÍVEL O RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO NO ART. 102, INC. III, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA QUANDO NÃO HÁ APLICAÇÃO DE LEI LOCAL EM DETRIMENTO DA CONSTITUIÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Por fim, observa-se ser igualmente incabível o recurso extraordinário com fundamento na alínea d do inciso III do art. 102 da Constituição. Isso porque o recurso, com base nesse dispositivo, depende da demonstração de conflito de competência legislativa entre entes da Federação, sendo inviável seu uso com a simples pretensão de rever interpretação dada pelo Tribunal de origem à norma infraconstitucional. Nesse sentido, veja-se trecho da ementa do ARE 697.583-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGADA CONTRARIEDADE AO ART. 5º, XXXV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO. INOCORRÊNCIA. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS FEDERAIS E LOCAIS. IMPOSSIBILIDADE. OFENSA INDIRETA À CONSTITUIÇÃO. SÚMULA 280 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279. RECURSO EXTRAORDINÁRIO INTERPOSTO COM BASE NA ALÍNEA D DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA DE CONFLITO DE COMPETÊNCIA LEGISLATIVA AGRAVO IMPROVIDO.
+    […]
+    V A admissão do recurso extraordinário pela alínea d do inciso III do art. 102 da Constituição Federal pressupõe a ocorrência de conflito de competência legislativa entre os entes da Federação. Dessa forma, é incabível o apelo extremo, fundado no aludido dispositivo, cuja pretensão seja provocar o reexame da interpretação de norma infraconstitucional conferida pelo Juízo de origem. VI Agravo regimental improvido”.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 15 de maio de 2018.
+Ministro Luís Roberto Barroso
+Relator
