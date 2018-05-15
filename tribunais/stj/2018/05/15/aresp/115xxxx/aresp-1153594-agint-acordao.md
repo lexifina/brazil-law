@@ -1,0 +1,69 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. CUMPRIMENTO VOLUNTÁRIO DA SENTENÇA. ATO INCOMPATÍVEL COM A VONTADE DE RECORRER. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE Nº 283/STF. VIOLAÇÃO NÃO DEMONSTRADA. SÚMULA Nº 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplica-se, por analogia, os óbices das Súmulas nº 284 e 283, do STF.
+3. Não tendo havido o prequestionamento dos temas postos em debate nas razões do recurso especial, não tendo a parte sequer oposto os embargos de declaração, incidente o enunciado nº 211, da Súmula do Superior Tribunal de Justiça.
+4. Agravo interno não conhecido.
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, não conheceu do agravo interno, nos termos da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face de decisão de fls. e-STJ 435/440, em que neguei provimento ao agravo em recurso especial.
+Nas razões do agravo, a recorrente sustentou que são inaplicáveis os óbices contidos nas Súmulas nº 211, do STJ, 283 e 284, do STF, sendo incontroversa a intenção de recorrer contra a sentença. Por fim, reiterou as alegações de violação aos artigos "330, I, 333, II, 3º, 267, VI e 70, III, todos do Código de Processo Civil vigente à época da interposição da apelação, e artigos 926 e 1.288 do Código Civil" (fl. 353 e-STJ).
+A parte agravada, regularmente intimada, não se manifestou.
+É o relatório.
+
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os frágeis argumentos desenvolvidos pelo agravante não têm plausibilidade jurídica para infirmar a conclusão da decisão impugnada, visto que apenas reiterados os argumentos do recurso especial, razão pela qual o presente recurso não merece prosperar.
+Da análise das razões despendidas no agravo interno, saliento que o recorrente não impugnou nenhuma das fundamentações utilizadas para negar provimento ao agravo em recurso especial.
+Em que pese a irresignação, observo que o recorrente não logrou êxito em demonstrar a não incidência dos óbices contidos nas Súmulas 211, desta Corte, 283 e 284, do STF, não tecendo argumento algum quanto ao cumprimento voluntário da sentença, que implicou o reconhecimento, pelo Tribunal de origem, de ato incompatível com a vontade de recorrer, mormente a sentença tendo sido clara a respeito da concessão do prazo para transferência de 5 (cinco) dias após o trânsito em julgado.
+É o que se depreende do seguinte trecho (fls. 313/314 e-STJ):
+"A apelação do réu não pode ser conhecida, em virtude da incidência do artigo 503, parágrafo único, do Código de Processo Civil de 1973, expresso no sentido de que se considera "aceitação tácita a prática, sem reserva alguma, de um ato incompatível com a vontade de recorre ". (No mesmo sentido é o artigo 1.000, parágrafo único, do Novo CPC.) Se a parte pode desistir do recurso, sem a anuência do ex adverso, evidentemente pode, também sem anuência dele, aceitar a sentença (ou dela "desistir tacitamente", praticando ato manifestamente incompatível com a subsistência da vontade de recorrer. E é isso o que se deu, no caso concreto, com o recurso do réu, Banco Industrial do Brasil S/A.
+Com efeito, por meio da petição de fls. 233/234 o réu asseverou que o Juízo a quo, "abarcando as razões de fato e de direito apresentadas pelo Autor prolatou sentença reconhecendo seu direito de propriedade em relação aos veículos de placas ABZ 0129; MDR 9441 e AJH 9204, bem como determinou ao Réu, a transferência daqueles bens, algo que foi cumprido fielmente" (sem grifo no original).
+Em seguida, o réu aduziu que, "muito embora tenha procedido e aperfeiçoada a transferência daqueles bens, malogrado o Réu recebeu recentemente 03 notificações de autuação por infração à legislação de trânsito (multa, conforme anexo doc. 1, supostamente cometidas pelo veículo placa ABZ 0121".
+Tendo em vista esses fatos, a instituição financeira requereu "a expedição de ofício ao Departamento de Estradas de Rodagem informando o inteiro teor da r. sentença de fls. e determinando que as infrações: 1Y253212-1; E018962560 e 1A320719-3, sejam direcionadas ao real proprietário do bem de placa ABZ .0121, qual seja, o autor [NOME], isentando o Requerente de quaisquer ônus e responsabilidades sobre as referidas infrações de trânsito".
+Ora, se o réu cumpriu "fielmente" o que foi determinado na sentença, transferindo os caminhões ao autor, é evidente que praticou ato incompatível com a subsistência da vontade de recorrer, mormente levando em conta que não estava obrigado a efetivar de imediato a transferência, porquanto a sentença expressamente consignou que ela deveria ser realizada no prazo de 5 (cinco) dias contados de seu trânsito em julgado (fls. 149), sem prejuízo de ter sido desafiada por recurso dotado de efeito suspensivo."
+Com efeito, imperioso concluir pela aceitação tácita da sentença, visto que praticado pelo recorrente ato incompatível com a vontade de recorrer, nos moldes do contido no artigo 503, parágrafo único, do antigo diploma processual, sequer indicado como violado nas razões do recurso ora em análise:
+Art. 503. A parte, que aceitar expressa ou tacitamente a sentença ou a decisão, não poderá recorrer.
+Parágrafo único. Considera-se aceitação tácita a prática, sem reserva alguma, de um ato incompatível com a vontade de recorrer.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROVA EMPRESTADA. ADMISSIBILIDADE. VERIFICAÇÃO. VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA DE OMISSÃO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PRECLUSÃO LÓGICA DO DIREITO DE RECORRER. OCORRÊNCIA. PRECEDENTES DO STJ. AGRAVO NÃO PROVIDO.
+(..)
+2. Não houve impugnação a fundamento autônomo do acórdão no sentido de que a prova a ser produzida se difere daquela realizada na outra demanda. Sendo assim, aplica-se, por analogia, o disposto na Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+(..)
+4. Na dicção do parágrafo único do artigo 503 do Código de Processo Civil, considera-se aceitação tácita a prática, sem reserva alguma, de um ato incompatível com a vontade de recorrer. Precedente.
+5. Agravo Regimental não provido.
+(AgRg no AREsp 690.908/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/06/2015, DJe 23/06/2015)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. LIMITE TEMPORAL DOS DIVIDENDOS. AFRONTA A DISPOSITIVO LEGAL. NÃO DEMONSTRAÇÃO. ENUNCIADO 284 DA SÚMULA. HONORÁRIOS ADVOCATÍCIOS ÚNICOS PARA O CUMPRIMENTO DE SENTENÇA E PARA A IMPUGNAÇÃO. POSSIBILIDADE. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. NÃO PROVIMENTO.
+1. Não havendo a indicação de dispositivo legal apontado como violado incidente o enunciado 284 da Súmula do STF.
+2. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+3. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+4. Agravo interno a que se nega provimento.
+(AgRg no REsp 1560939/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/08/2016, DJe 31/08/2016)
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DECLARAÇÃO DE NULIDADE. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DE DISPOSITIVO LEGAL NÃO PREQUESTIONADO. SÚMULAS NºS 282 E 356 DO STF. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULAS NºS 283 E 284 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inaplicabilidade do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. É requisito exigido na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância, não sendo suficiente à parte discorrer sobre o preceito legal que entende infringido. É imprescindível que a Corte recorrida tenha emitido juízo de valor sobre o referido dispositivo, o que não ocorreu na hipótese examinada. Têm aplicação as Súmulas nºs 282 e 356 do STF.
+3. Caracterizada a deficiência na fundamentação recursal, que não impugna com propriedade os verdadeiros termos do acórdão recorrido, é de rigor a aplicação das Súmulas nºs 283 e 284 do STF.
+4. Agravo regimental improvido.
+(AgRg no AREsp 646.793/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 13/09/2016, DJe 19/09/2016)
+Por fim, quanto à aplicação da Súmula nº 211, do STJ, verifico que o que recorrente alegou que "todavia, ao contrário do que restou consignado pela C. Corte a quo, a discussão acerca de tais dispostos, especialmente quanto às matérias propriamente ditas, foram evidentemente objeto de debate nos próprios autos do recurso originário."
+Nesse contexto, ao contrário do alegado pelo ora agravante, ressalto que é imprescindível que no acórdão recorrido a questão tenha sido discutida e decidida fundamentadamente, o que não verifico na presente hipótese, não tendo a parte recorrente sequer oposto embargos de declaração, o que impossibilita o julgamento do recurso nesse aspecto por ausência do necessário prequestionamento.
+Noutros termos, o prequestionamento deve ser realizado pelo Tribunal de origem e não, obviamente, pelo recorrente nas razões do recurso.
+Com efeito, nos termos do disposto no artigo 932, III, do novo Código de Processo Civil, incumbe ao relator, de forma singular, negar seguimento a recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, o que verifico nos presentes autos em relação a todos os argumentos utilizados na fundamentação da decisão ora recorrida.
+Assim sendo, imperioso concluir que o presente agravo interno esbarra no óbice previsto pela súmula 182, deste Tribunal, que dispõe que "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (atual artigo 1.021, do novo Código de Processo Civil).
+Assim se manifesta esta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. SÚMULA 182 DO STJ. INCIDÊNCIA.
+1. Diante do princípio da dialeticidade, expressamente disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015, aplica-se à nova sistemática processual, por analogia, o conteúdo do enunciado 182 da Súmula do Superior Tribunal de Justiça ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+2. Agravo interno não conhecido.
+(AgRg no AREsp 809.889/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/09/2016, DJe 05/10/2016)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. COMPROVAÇÃO DA MORA. CONTRATO DE FINANCIAMENTO COM GARANTIA FIDUCIÁRIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA (STJ). INTERPOSIÇÃO DE SEGUNDO AGRAVO REGIMENTAL. ERRO GROSSEIRO. INTEMPESTIVIDADE.
+1. O agravo regimental não impugnou especificamente toda a fundamentação da decisão agravada, o que atrai a incidência da Súmula 182 do STJ.
+2. A interposição de recurso manifestamente incabível não interrompe ou suspende o prazo para a interposição de outros recursos, nem impede o trânsito em julgado do acórdão ou decisão inadequadamente impugnados. Intempestividade do recurso especial. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 750.225/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/12/2015, DJe 01/02/2016)
+PROCESSUAL CIVIL. MEDIDA CAUTELAR. NEGATIVA DE SEGUIMENTO. AGRAVO REGIMENTAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 182 DO STJ. INCIDÊNCIA.
+1. Quando a parte recorrente não traz, na minuta do agravo regimental, impugnação integral e específica aos fundamentos da decisão recorrida, há de ser aplicada a Súmula nº 182 do Superior Tribunal de Justiça ao caso.
+2. Ademais, não há como dar efeito suspensivo a recurso especial inadmitido na origem quando, do exame do acórdão recorrido, este não se revela teratológico, na medida em que constatado que o valor levantado pelo agravante não foi reconhecido em sua integralidade como seu e, mais ainda, que, instado por diversas vezes a devolver o que não lhe era devido, jamais o fez. Assim, por se tratar de uma forma de se dar efetividade à determinação judicial não cumprida de restituição de valores - no caso, a única que restou -, não seria o caso de impenhorabilidade salarial, notadamente quando foram dadas reiteradas oportunidades para a devolução da quantia.
+3. Agravo regimental não provido.
+(AgRg na MC 24.495/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/12/2015, DJe 02/02/2016)
+Em face do exposto, não conheço do agravo interno.
+É o voto.
