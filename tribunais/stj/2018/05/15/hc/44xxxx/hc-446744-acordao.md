@@ -1,0 +1,82 @@
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO INSUFICIENTE. ORDEM CONCEDIDA
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. A jurisprudência desta Corte Superior é firme em assinalar que a urgência intrínseca às cautelares exige a contemporaneidade dos fatos justificadores dos riscos que se pretende evitar com a prisão processual.
+3. A Corte local, quase sete anos depois do homicídio qualificado, decretou a prisão preventiva do recorrente ante a natureza grave do fato típico (e não do modus operandi) e o fato de o réu haver ameaçado a única testemunha presencial (sua ex-companheira), sem indicar fatos novos para evidenciar que ele, durante o longo período em que permaneceu solto, colocou em risco a ordem pública ou a instrução criminal.
+4. A ameaça proferida contra a aludida testemunha deu-se à época dos fatos e não consta nenhum outro registro de que o paciente teria, ao longo de todos esses anos, proferido novas ameaças ou intentado contra a segurança ou contra a vida dela.
+5. A prevalecer a argumentação da decisão, todos os crimes de natureza grave ensejariam a prisão cautelar de seus respectivos autores em qualquer tempo, o que não se coaduna com a excepcionalidade da prisão preventiva, princípio que há de ser observado para a convivência harmônica da cautela pessoal extrema com a presunção de não culpabilidade.
+6. Ordem concedida para cassar a prisão preventiva decretada pela Corte local.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, conceder a ordem de habeas corpus, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Maria Thereza de Assis Moura e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+GERALDO LOPES DA SILVA, paciente neste habeas corpus, alega sofrer constrangimento ilegal em decorrência do acórdão do Tribunal de Justiça do Estado de São Paulo no Recurso em Sentido Estrito n. 0034940-08.2017.8.26.0224.
+O paciente foi denunciado por suposta prática do delito previsto noart. 121, § 2º, I e IV, do Código Penal. O Tribunal de origem, ao dar provimento ao recurso do Ministério Público, decretou a prisão preventiva do acusado.
+Neste writ, a impetrante alega a ausência de fundamento idôneo para a decretação da custódia cautelar, haja vista tratar-se de crime praticado há mais de 6 anos e haver o paciente se apresentado espontaneamente na delegacia. Aponta também as condições pessoais favoráveis: primário, bons antecedentes e endereço fixo.
+Requer, liminarmente, a concessão da liberdade provisória até o julgamento de mérito do habeas corpus.
+Indeferida a liminar (fls. 203-204) e prestadas as informações (fls. 209-234), veio o parecer do Ministério Público Federal (fls. 236-241), que opinou pelo não conhecimento do habeas corpus.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO INSUFICIENTE. ORDEM CONCEDIDA
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. A jurisprudência desta Corte Superior é firme em assinalar que a urgência intrínseca às cautelares exige a contemporaneidade dos fatos justificadores dos riscos que se pretende evitar com a prisão processual.
+3. A Corte local, quase sete anos depois do homicídio qualificado, decretou a prisão preventiva do recorrente ante a natureza grave do fato típico (e não do modus operandi) e o fato de o réu haver ameaçado a única testemunha presencial (sua ex-companheira), sem indicar fatos novos para evidenciar que ele, durante o longo período em que permaneceu solto, colocou em risco a ordem pública ou a instrução criminal.
+4. A ameaça proferida contra a aludida testemunha deu-se à época dos fatos e não consta nenhum outro registro de que o paciente teria, ao longo de todos esses anos, proferido novas ameaças ou intentado contra a segurança ou contra a vida dela.
+5. A prevalecer a argumentação da decisão, todos os crimes de natureza grave ensejariam a prisão cautelar de seus respectivos autores em qualquer tempo, o que não se coaduna com a excepcionalidade da prisão preventiva, princípio que há de ser observado para a convivência harmônica da cautela pessoal extrema com a presunção de não culpabilidade.
+6. Ordem concedida para cassar a prisão preventiva decretada pela Corte local.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Contextualização
+Consta dos autos que o paciente, no dia 27/7/2011, teria supostamente praticado o delito descrito no art. 121, § 2º, I e IV, do Código Penal, pois:
+Conforme apurado o denunciado manteve relacionamento amoroso com [NOME] em data anterior aos fatos, sendo que terminaram o relacionamento em março de 2011.
+Após, [NOME] passou namorar a vítima [NOME].
+O denunciado não se conformando que Luis pudesse ter relacionamento com [NOME], passou a proferir ameaças contra a vítima no intuito de que deixasse [NOME], chegando a dizer que se [NOME] não ficasse com o denunciado não ficaria com ninguém, e em data anterior aos fatos, também já havia discutido com a vítima em razão de seu inconformismo.
+Na data dos fatos, o denunciado entrou em contato com [NOME] e voltou a ameaçar a vítima, narrando que iria matar Luis, que por sua vez, foi informado do ocorrido.
+Ato contínuo, [NOME] foi para sua casa e Geraldo seguiu para lá também e se negava a ir embora.
+[NOME] comunicou á vítima que Geraldo estava lá, e Luis por volta das 22h10 também foi até a casa de [NOME] para que conversassem no sentido de cessarem as ameaças.
+Ao chegar ao local, a vítima, [NOME] e o denunciado Geraldo passaram a conversar.
+Após, o denunciado Geraldo fez dar a impressão de que iria embora, porém, foi na direção de Luis, ocasião em que [NOME] se interpôs entre eles visando evitar contenda entre ambos. Mesmo assim, de modo repentino, Geraldo foi até Luis e desferiu um golpe com arma branca, provavelmente uma faca, ocasionando-lhe as lesões corporais descritas no laudo necroscópico a 45/46, que por sua vez, foram causa determinante da morte da vítima.
+[NOME] ainda conseguiu evitar que Geraldo fizesse mais lesões na vítima interpondo-se na frente dele, e em seguida, Geraldo fugiu, deixando o local dando risadas.
+A vítima chegou a ser hospitalizada, porém, não suportando as lesões corporais provocadas por Geraldo acabou falecendo.
+O denunciado agiu por motivo torpe, conquanto matou a vítima em represália ao fato de que ela estava namorando [NOME] com quem o denunciado havia mantido relacionamento amoroso anterior, não aceitando assim que a vítima e [NOME] pudessem ter um relacionamento amoroso, e ainda e de forma independente, em vingança contra a vítima, porque Luis não cedeu às suas ameaças anteriores para que abandonasse [NOME].
+O denunciado também agiu com recurso que dificultou a defesa da vítima, pois foi até a casa de [NOME] e se recusou a ir embora, deixando nítido que a pretexto de conversar, ficou esperando pela vítima para atacá-la, em modo similar a uma emboscada, e ainda, e de forma independente, porque agiu de forma dissimulada tomando a vítima de surpresa, pois fez que iria embora e ato contínuo atacou a vítima (fls. 170-171, destaquei).
+O inquérito arrastou-se por longos 6 anos e, apenas em 31/8/2017, o Ministério Público local ofereceu a denúncia (fls. 170-171). Durante todo esse período o paciente permaneceu solto.
+Ao receber a exordial acusatória, o Juízo de primeiro grau indeferiu o pedido de decretação da prisão preventiva do acusado e impôs medidas cautelares diversas, nos seguintes termos:
+Recebo, assim, a denúncia ofertada contra, GERALDO LOPES DA SILVA, qualificado nos autos, como incurso no artigo 121, parágrafo 2o, incisos I e IV, do Código Penal. Cite-se o acusado para que apresente defesa por escrito, no prazo de dez dias.
+Consigne-se no mandado que o acusado deverá informar ao Sr. Oficial de Justiça se tem condições de constituir defensor ou se deseja que lhe seja nomeada a Defensoria Pública para atuar cm sus defesa.
+Em decorrendo o prazo de dez dias, nos moldes do art. 406, § 1º do CPP, sem apresentação da peça por escrito e não havendo notícia de que o acusado tenha constituído defensor, cumpra-se o quanto determinado no art. 408 do CPP.
+Após, ao MP e conclusos.
+Defiro, no mais, item 2 da cota retro.
+Por fim, a despeito das alegações do parquet, aplico ao acusado as cautelares previstas no artigo 319, incisos I, III e IV, do Código Penal, quais sejam, comparecimento mensal cm juízo para comprovar e justificar suas atividades, proibição de manter contato com as testemunhas, por quaisquer meios e proibição de se ausentar da comarca e/ou mudar de endereço sem prévia autorização do juízo.
+Expeça-se o necessário para que seja o acusado advertido das condições impostas, inclusive de que, na hipótese de descumprimento das medidas aplicadas, será decretada
+sua prisão preventiva (fls. 172-173, grifei).
+Irresignado, o Ministério Público do Estado de São Paulo interpôs recurso em sentido estrito - visando à determinação da constrição cautelar contra o investigado -, o qual foi provido, sob a seguinte motivação:
+ ..
+Assim sendo, à luz do acima expendido, encontram-se presentes prova da materialidade e indícios de autoria.
+Além de o crime imputado ao acusado ser grave, permitindo a prisão preventiva, consta a informação de que ele teria ameaçado a vítima, o que foi posteriormente concretizado. Há também a informação nos autos de que o réu ameaçou acabar com a vida da testemunha [NOME].
+Logo, inegável que há necessidade da decretação da prisão cautelar em prol da garantia da ordem pública, da segurança da instrução penal e da possibilidade de aplicação da lei penal.
+Assim, se eventual permanência do acusado em liberdade possa dar motivo a novos crimes ou cause repercussão danosa no meio social, mostra-se cabível a manutenção da custódia cautelar, como garantia da ordem pública, constituindo em verdadeira medida de segurança.
+ ..
+No presente caso, há elementos concretos que conduzem à necessidade da decretação da prisão preventiva.
+Isso porque diante da conduta praticada pelo recorrido, inegável que a testemunha [NOME] encontra-se em situação de risco e vulnerabilidade.
+Logo, inegável que a segregação cautelar se justifica para garantir a ordem pública e para assegurar a aplicação da lei penal (fls. 194-195, destaquei).
+Das informações prestadas (30/4/2018), colhe-se que o réu foi devidamente citado e apresentou sua resposta à acusação; também, que, realizada audiência de instrução, foram ouvidas duas testemunhas, bem como interrogado o acusado. Atualmente o processo aguarda retorno de cartas precatórias.
+II. Prisão preventiva - fundamentação insuficiente
+Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+Ademais, a urgência intrínseca às cautelares, notadamente à prisão processual, exige a contemporaneidade dos fatos justificadores dos riscos que se pretende com a prisão evitar.
+Sob tais premissas, são insuficientes as razões invocadas pelo Tribunal de origem para justificar o periculum libertatis. Isso porque a Corte local, quase sete anos depois do homicídio qualificado, decretou a prisão preventiva do recorrente ante a natureza grave do fato típico (e não do modus operandi) e o fato de o réu haver ameaçado a única testemunha presencial (sua ex-companheira), sem indicar fatos novos para evidenciar que ele, durante o longo período em que permaneceu solto, colocou em risco a ordem pública ou a instrução criminal.
+Pela detida análise dos autos, noto que a ameaça proferida contra a aludida testemunha se deu à época dos fatos e não consta nenhum outro registro de que o paciente teria, ao longo de todos esses anos, feito novas ameaças ou intentado contra a segurança ou contra a vida dela. Essa afirmativa decorre, inclusive, da leitura do depoimento de [NOME], realizado pouco mais de um ano após o fato, em que ela apenas ratifica as ameaças outrora proferidas, sem mencionar que vinha sendo novamente perseguida. A carência de contemporaneidade é motivo convincente para a concessão da ordem.
+Esta Corte Superior, no exame da legalidade da prisão preventiva, está adstrita ao ato judicial proferido pela Corte local, a qual deixou de demonstrar, minimamente, a urgência intrínseca à prisão processual. A fundamentação faz alusão genérica à natureza grave do fato típico e à ameaça a testemunha em comento proferida na época dos fatos, o que não pode ser admitido em decisão que suprime o direito de locomoção do réu.
+Ilustrativamente:
+A falta de contemporaneidade do delito imputado ao recorrente e a inocorrência de fatos novos a justificar, nesse momento, a necessidade de segregação cautelar, fazem ver a ilegalidade da prisão preventiva, por falta de seus requisitos necessidade e adequação.
+ ..
+(RHC n. 87.241/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 19/12/2017).
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO INSUFICIENTE. RECURSO ORDINÁRIO PROVIDO.
+1. A determinação de segregar cautelarmente o réu deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da prisão (periculum libertatis), à luz do disposto no art. 312 do CPP.
+2. A jurisprudência desta Corte Superior é firme em assinalar que a urgência intrínseca às cautelares exige a contemporaneidade dos fatos justificadores dos riscos que se pretende evitar com a prisão processual.
+3. O Juízo de primeiro grau, anos depois do homicídio qualificado tentado e do homicídio qualificado, entendeu devida a prisão preventiva do recorrente ante a natureza grave do fato típico, sem narrar fatos contemporâneos aptos a evidenciar que o réu, durante o longo período em que permaneceu solto, colocou em risco a ordem pública ou a instrução criminal.
+4. A prevalecer a argumentação da decisão, todos os crimes de natureza grave ensejariam a prisão cautelar de seus respectivos autores, a qualquer tempo, o que não se coaduna com a excepcionalidade da prisão preventiva, princípio que há de ser observado para a convivência harmônica da cautela pessoal extrema com a presunção de não culpabilidade.
+ ..
+6. Recurso ordinário provido para permitir que o recorrente responda ao processo penal em liberdade caso por outro motivo não esteja preso, sem prejuízo da possibilidade de nova decretação da prisão preventiva, se concretamente demonstrada sua necessidade cautelar, ou de imposição de medida alternativa, nos termos do art. 319 do CPP (HC n. 379.319/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 26/3/2018, grifei).
+A prevalecer a argumentação da decisão, todos os crimes de natureza grave ensejariam a prisão cautelar de seus supostos autores em qualquer tempo, o que não se coaduna com a excepcionalidade da prisão preventiva, princípio que há de ser observado para a convivência harmônica da cautela pessoal extrema com a presunção de não culpabilidade.
+III. Dispositivo
+À vista do exposto, concedo a ordem, a fim de revogar a prisão preventiva decretada pela Corte local.
