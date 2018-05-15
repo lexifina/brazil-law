@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. REDISCUSSÃO DE MATÉRIA FÁTICA. SÚMULA 7/STJ. INCIDÊNCIA. SÚMULA 283/STF.
+1. A alteração das conclusões adotadas pela Corte de origem, quanto à efetiva ocorrência de prescrição da pretensão executória, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Ademais, incide o óbice previsto na Súmula 283 do STF, ante a ausência de impugnação de fundamentos basilares do acórdão recorrido.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo ESTADO DO PARANÁ, desafiando decisão que negou provimento a recurso especial, sob os seguintes fundamentos: (I) falta de prequestionamento quanto à alegação de que a solicitação de pagamento de diferença salarial não constitui causa interruptiva da prescrição; (II) que a alteração das conclusões adotadas pela Corte de origem, quanto à efetiva ocorrência de prescrição, demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada pela Súmula 7/STJ; e (III) não haver impugnação a fundamentos basilares que amparam o acórdão recorrido, incidindo o teor da Súmula 283/STF.
+A agravante, em suas razões, repisa seus argumentos quanto à necessidade de reconhecimento da ocorrência de prescrição da pretensão executória, já que o prazo começaria a correr no dia 09/02/2007 e a ação foi ajuizada em 20/02/2012, não sendo caso de incidência das Súmulas 7/STJ e 283/STF.
+As razões do recurso foram impugnadas (fls. 1.588/1.604).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como asseverado na decisão recorrida, o voto-condutor do acórdão, examinando a situação peculiar dos autos, adotou a seguinte fundamentação quanto à não ocorrência de prescrição da pretensão executória (fls. 1.512/1.515):
+Nos termos do artigo 1º do Decreto nº 20.910/1932, "As dividas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem."
+A questão controversa nos autos é sobre o marco inicial do prazo prescricional, se este inicia com o trânsito em julgado da ação ordinária nº 7876 e respectivos recursos, que, na hipótese ocorreu em 08/02/2007.
+Se considerada esta data como marco inicial, o prazo para as partes ingressarem em juizo para reaver os valores devidos, encerrar- se-ia em 08/02/2012, de sorte que a pretensão executiva estaria, de fato, prescrita, uma vez que ajuizada em 02/08/2012.
+Ocorre que não se pode imputar às partes a divergência de decisões proferidas nos autos de Solicitação de Pagamento nº17.007/2010, que primeiro entendeu pela viabilidade do feito, e depois, pela inadequação da via eleita.
+Frise-se que, da primeira decisão, o Estado não interpôs recurso, com o fito de se insurgir contra a medida eleita pelos ora exequentes. Naquela época, a Solicitação de Pagamento (autos ng 17.007/2010) foi ajuizada dentro do quinquídio prescricional. Também deve ser considerado, que na sentença  segunda decisão , a d. Juíza prolatora assim se pronunciou acerca da prescrição:
+"E, é a partir de dezembro de 2007 que começa a fluir o prazo prescricional para que os autores reclamem a incidência da gratificação TIDE sobre o vencimento"total, abrangendo, por certo, todo o período que vigorou a liminar autorizando outra base de cálculo."
+Portanto, se consideradas essas premissas, não há como imputar aos exequentes, ora apelantes, a máxima de que "Dormientibus non succurrítjus", uma vez que agiram nos estritos limites das decisões proferidas, seja acerca da viabilidade do ingresso em juízo com a Solicitação de Pagamento, seja com base no marco inicial do prazo prescricional.
+Reprise-se que, sobre estas decisões, o eventual prejudicado, que seria o ora apelado, não apresentou nenhum recurso, segundo consta nos autos.
+Os exequentes também não poderiam ser agora surpreendidos com a novel pronúncia da prescrição, com fundamentos diversos aos anteriormente utilizados pela mesma juíza prolatora, ainda que a matéria seja de ordem pública.
+Primeiro, porque não caberia ao juiz decidir novamente sobre a adequação da medida de Solicitação de Pagamento, sobre a qual, inclusive, já havia se operado a preclusão pro judicato. Segundo, porque não caberia modificar o entendimento acerca do prazo prescricional, pois violaria os preceitos contidos no Código de Processo Civil:
+"Art. 471. Nenhum juiz decidirá novamente as questões já decididas, relativas à mesma lide, salvo:
+1 - se, tratando-se de relação jurídica continuativa, sobre veio modificação no estado de fato ou de direito;- caso em que poderá a parte pedir a revisão do que foi estatuído na sentença;
+11 - nos demais casos prescritos em lei.
+Art. 473. É defeso à parte discutir, no curso do processo, as questões já decididas, a cujo respeito se operou a preclusão."
+..
+De todo o exposto, a sentença merece reforma, para o fim de afastar a decretação dá prescrição da pretensão executiva, com o prosseguimento do feito executivo.
+Resta claro, portanto, que a alteração das conclusões adotadas pela Corte de origem, quanto à efetiva ocorrência da prescrição da pretensão executória, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Correta, ainda, a decisão recorrida quando asseverou que o apelo especial não impugnou fundamentos basilares que amparam o acórdão recorrido, quais sejam, "não caberia ao juiz decidir novamente sobre a adequação da medida de Solicitação de Pagamento, sobre a qual, inclusive, já havia se operado a preclusão pro judicato. Segundo, porque não caberia modificar o entendimento acerca do prazo prescricional, pois violaria os preceitos contidos no Código de Processo Civil", esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
