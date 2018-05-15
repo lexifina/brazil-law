@@ -1,0 +1,36 @@
+EMENTA
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. NÃO CONHECIMENTO DO AGRAVO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. RECONSIDERAÇÃO. AGRAVO QUE REFUTA OS FUNDAMENTOS DA DECISÃO QUE INADMITIU O APELO NOBRE. PLEITO RECURSAL. VALOR DOS HONORÁRIOS ADVOCATÍCIOS. ADVOGADO DATIVO. TABELA DA OAB. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS. TEMA 984. RETORNO DOS AUTOS À ORIGEM.
+DECISÃO
+Trata-se de agravo regimental interposto por [NOME] contra a decisão de fls. 402-403, da Presidência desta Corte, na qual não se conheceu do agravo, por ausência de impugnação aos fundamentos da decisão de admissibilidade do recurso especial.
+Consta dos autos que o MM. Juízo de 1º Grau condenou o ora recorrente como incurso nas sanções do art. 163, parágrafo único, inciso I, do Código Penal, à pena de 06 (seis) anos de reclusão, em regime inicial aberto, mais 10 dias-multa. Houve substituição da reprimenda corporal por pena restritiva de direitos (fls. 169-175).
+O eg Tribunal de origem, em decisão unânime, negou provimento ao recurso de apelação criminal da acusação, mas deu provimento ao apelo da Defesa, para reformar a sentença recorrida e declarar extinta a punibilidade do recorrente (fls. 308-323). Eis a ementa do acórdão:
+"APELAÇÃO CRIMINAL - DISPARTO DE ARMA DE FOGO EM VIA PÚBLICA E DANO QUALIFICADO - PRINCÍPIO DA CONSUNÇÃO - APLICABILIDADE - DESCLASSIFICAÇÃO MANTIDA - PRESCRIÇÃO DA PRETENSÃO PUNITIVA - OCORRÊNCIA - EXTINÇÃO DA PUNIBILIDADE DECRETADA. 1. Correta a aplicação do princípio da consunção no caso dos autos, uma vez que devidamente demonstrado que o crime de disparo de arma de fogo se constituiu como ato executório da prática do delito de dano qualificado. 2. Verificada a ocorrência da prescrição da pretensão punitiva do Estado, pelo transcurso de lapso temporal da pena em abstrato, deve ser extinta a punibilidade do acusado. Desprovimento ao recurso ministerial e provimento ao recurso defensivo são medidas que se impõem."
+Opostos embargos de declaração, pela combativa Defesa, foram eles acolhidos, à unanimidade de votos (fls. 340-343). Confira-se a ementa do decisum:
+"EMBARGOS DE DECLARAÇÃO - ARTIGO 619 DO CPP - OMISSÃO - ACÓRDÃO QUE NÃO DECIDE ACERCA DOS HONORÁRIOS ADVOCATÍCIOS DE DEFENSOR DATIVO - EMBARGOS ACOLHIDOS. Nomeado defensor dativo para patrocinar a defesa do ora embargante, faz jus à fixação de honorários advocatícios. Embargos acolhidos."
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, no qual se alega violação ao art. 619, caput, do Código de Processo Penal, ao art. 1.022, do Código de Processo Civil, e ao art. 22, §§ 1º e 2º, da Lei n. 8.906/1994. Para tanto, mencionou que:
+a) " ..  mostra-se mais do que justo o pleito do patrono dativo do Recorrente à remuneração digna pelas atividades desempenhadas, mormente por patrocinar judicialmente os interesses de litigante carente na acepção legal do termo" (fl. 356).
+b) " ..  a tabela da OAB estipula em seu art. 75, alínea "b", que são devidos honorários mínimos no valor de R$ 4.000,00 (quatro mil reais)" (fl. 358).
+O especial foi inadmitido na origem pelos seguintes fundamentos: a) não ocorrência de violação ao art. 619, caput, do Código de Processo Penal; e b) aplicação da Súmula n. 7/STJ (fls. 370-371).
+Foi interposto o respectivo agravo, no qual a recorrente repisou os argumentos expendidos no apelo nobre (fls. 378-390).
+Contraminuta apresentada pelo Parquet (fls. 393-395).
+Em decisão de fls. 402-403, a Presidência deste Superior Tribunal não conheceu do agravo, por ausência de impugnação aos fundamentos da decisão de admissibilidade do apelo nobre.
+Foi interposto, então, o respectivo agravo regimental, no qual o recorrente repisa os argumentos expendidos nos recursos anteriores e aduz, em síntese, que:
+a) "a decisão é descabida e merece reforma. O agravante impugnou especificamente a guerreada decisão do Tribunal a quo que inadmitiu o recurso especial interposto. A decisão da Relatora fere o teor da Súmula nº 568 deste Superior Tribunal de Justiça" (fls. 413-414).
+b) "O Agravante impugnou especificamente a Súmula nº 7 do STJ. Para tanto, basta verificar que a pretensão foi majorar o valor dos honorários advocatícios fixados pelo Tribunal a quo, em razão da clara ofensa ao art. 22, §§ 1º e 2º da Lei nº 8.906, de 4 de julho de 1994 (Estatuto da OAB)" (fl. 415).
+c) " ..  no item 2.4 do apelo especial do Agravante (e-STJ fl. 354) já havia se advertido que a pretensão recursal se tratava de matéria exclusivamente de direito, motivo pelo qual não havia que se falar em apreciação de provas, consoante determinação da Súmula nº 7 do STJ" (fl. 419).
+Em despacho de fl. 441, foi determinada a distribuição do feito. Conforme Termo de Distribuição e Encaminhamento, os autos foram a mim atribuídos (fl. 447).
+É o relatório.
+Decido.
+De fato, merecem prosperar os argumentos expendidos no presente reclamo.
+Em percuciente análise dos autos, constata-se que razão assiste ao recorrente, ao afirmar que " ..  no item 2.4 do apelo especial do Agravante (e-STJ fl. 354) já havia se advertido que a pretensão recursal se tratava de matéria exclusivamente de direito, motivo pelo qual não havia que se falar em apreciação de provas, consoante determinação da Súmula nº 7 do STJ" (fl. 419), pois o referido óbice foi devidamente refutado, motivo pelo qual reconsidero o decisum objurgado e passo à análise do recurso especial.
+Pois bem.
+Verifica-se que a matéria tratada nos autos foi afetada à Terceira Seção desta Corte de Justiça, pelo rito do artigo 1.036 e seguintes do Código de Processo Civil de 2015 (REsp 1.656.322/SC e REsp 1.665.033/SC, ambos de Relatoria do Ministro Rogério Schietti).
+O Tema Repetitivo n. 984 foi assim sintetizado: "obrigatoriedade ou não de serem observados, em feitos criminais, os valores estabelecidos na tabela organizada pelo respectivo Conselho Seccional da Ordem dos Advogados a título de verba advocatícia devida a advogados dativos".
+Dessa forma, é conveniente determinar o retorno dos autos à origem, onde ficará sobrestado até a publicação do acórdão proferido nos autos dos recursos representativos da controvérsia, conforme o disposto no art. 256-L, inciso I, do Regimento Interno deste STJ (com redação dada pela Emenda Regimental n. 24 de 2016):
+"Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator
+ .. "
+Ante o exposto, com fundamento no art. 256-L, inciso I, do Regimento Interno do STJ, determino a devolução dos autos ao eg. Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão paradigma:
+a) o recurso especial tenha seguimento denegado, na hipótese do v. acórdão vergastado coincidir com a orientação do Superior Tribunal de Justiça; ou
+b) seja a questão reexaminada pelo órgão julgador no Tribunal a quo, caso o v. acórdão recorrido esteja em dissonância com o entendimento firmado nesta Corte (art. 1.040, I e II, do CPC/2015).
+P. e I.
