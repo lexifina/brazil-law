@@ -1,0 +1,61 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. DROGA DESTINADA A OUTRO ESTADO DA FEDERAÇÃO. NÃO COMPROVAÇÃO. ART. 40, V, DA LEI N. 11.343/06. CAUSA DE AUMENTO DE PENA. NÃO INCIDÊNCIA. REEXAME DE PROVAS. ÓBICE DA SÚMULA N. 7/STJ. INSURGÊNCIA DESPROVIDA.
+1. A majorante de pena prevista no art. 40, inciso V, da Lei n. 11.343/06, deve incidir quando, ainda que não transposta a divisa interestadual, verificar-se que a substância entorpecente transportada destinava-se a outro Estado da federação.
+2. Na hipótese, a Corte de origem, com base nos elementos de prova carreados no caderno processual, assentou a existência de dúvida quanto à destinação interestadual das drogas apreendidas, motivo pelo qual manteve a não incidência da causa de aumento de pena prevista no art. 40, inciso V, da Lei n. 11.343/06, em observância ao princípio do in dubio pro reo.
+3. Assim, tendo o Tribunal estadual, soberano no reexame das provas colhidas no curso da instrução processual, assentado que não houve suficiente comprovação de que a droga transportada era destinada à comercialização em outro Estado da federação, é certo que a modificação desse entendimento para fins de reconhecimento da causa de aumento da pena demandaria o revolvimento de todo acervo fático-probatório dos autos, providência exclusiva das instâncias ordinárias e vedada a este Sodalício no âmbito do recurso especial, nos termos da Súmula n. 07/STJ.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão unipessoal de fls. 552/559, por meio da qual, com fundamento no art. 255 do Regimento Interno do Superior Tribunal de Justiça, foi dado parcial provimento ao recurso especial do Parquet, apenas para afastar a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, redimensionando a pena para 05 anos de reclusão, em regime inicial fechado, e pagamento de 500 dias-multa.
+Alega o agravante, em síntese, que o reconhecimento da incidência da causa de aumento de pena prevista no art. 40, inciso V, da Lei n. 11.343/06, prescinde do reexame de provas.
+Afirma que os depoimentos colhidos nos autos atestam que a droga apreendida com a agravada se destinava a outro Estado da federação.
+Requer, ao final, a reconsideração do decisum ou a submissão do pleito ao Colegiado, dando-se provimento à irresignação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Os elementos existentes nos autos indicam que [NOME] [NOME] [NOME] foi denunciada pela prática do crime previsto no art. 33, caput, na forma do art. 40, inciso V, da Lei n. 11.343/06, pois trazia consigo em um táxi, para o suposto fim de comercialização ilegal em outro Estado da federação, 974,76 gramas de maconha e 1.012,36 gramas de crack.
+Julgada procedente, em parte, a imputação, a acusada foi condenada às penas de 5 anos e 5 meses de reclusão, em regime inicial fechado, e pagamento de 550 dias-multa, pelo crime de tráfico de drogas.
+A sentença foi reformada em apelação da defesa, para reduzir as penas para 4 anos e 2 meses de reclusão, em regime inicial semiaberto, e pagamento de 416 dias-multa.
+Nas razões do apelo nobre, fulcrado na alínea "a" do permissivo constitucional, o Parquet alegou violação aos artigos 33, caput e § 4º, 40, inciso V, e 42, da Lei n. 11.343/06, e 33, §§ 2º e 3º, e 59, caput e inciso III, do Código Penal, sustentando o não cabimento da concessão da benesse relativa ao tráfico privilegiado, aduzindo que a acusada se dedicava a atividades criminosas.
+Alegou, também, que a substância entorpecente apreendida havia sido trazida do Estado do Rio de Janeiro com destino à cidade de Ubá, em Minas Gerais, o que implica na incidência da majorante de pena pela interestadualidade do delito.
+Aduziu, ainda, que a elevada quantidade de entorpecentes denota maior gravidade da conduta a justificar a fixação do regime prisional fechado.
+Contrarrazoada a insurgência (fls. 504/509), após o juízo prévio de admissibilidade (fls. 511/512), os autos ascenderam a este Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal, na condição de custos legis, ofertou parecer pelo provimento do inconformismo (fls. 526/536).
+Por decisão monocrática desta Relatoria, deu-se parcial provimento ao recurso especial.
+Daí a apresentação deste regimental.
+A irresignação, porém, não merece prosperar.
+Acerca da matéria trazida à discussão, em que a parte pretende o reconhecimento da causa de aumento de pena prevista no art. 40, inciso V, da Lei n. 11.343/06, cumpre dizer que este Superior Tribunal de Justiça firmou entendimento no sentido de que a referida majorante deve incidir quando, ainda que não transposta a divisa interestadual, verificar-se que a substância entorpecente transportada destinava-se a outro Estado da federação.
+Nesse sentido, vejam-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA DA PENA. CAUSA DE AUMENTO DE PENA. INTERESTADUALIDADE. MAJORANTE CONFIGURADA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. IMPOSSIBILIDADE. INTEGRAÇÃO EM ORGANIZAÇÃO CRIMINOSA. AGRAVO IMPROVIDO.
+1. É irrelevante, para a aplicação da causa de aumento de pena do art. 40, V, da Lei 11.343/06, de interestadualidade do delito, a efetiva transposição da divisa interestadual pelo agente, sendo suficiente para sua configuração a comprovação de que a substância tinha como destino localidade em outro estado da Federação, o que ocorreu na espécie. Precedentes.
+2. A aplicação do disposto no §4º, art. 33, Lei de Drogas, pressupõe que o agente, dentre outros requisitos, não se dedique a atividades criminosas nem integre organização criminosa. Constatado envolvimento delitivo anterior e/ou a participação em associação ou organização criminosa, inviável a aplicação do fator redutor. Precedentes.
+3. Não caracteriza bis in idem a utilização das circunstâncias da quantidade ou natureza da droga na primeira e terceira fase, quando nesta última pretender apenas a não aplicação da causa de diminuição da pena prevista no art. 33, §4º, Lei de Drogas, mas apenas quando tais circunstâncias forem utilizadas como justificativa para menor diminuição da pena. Precedentes.
+4. Agravo regimental improvido.
+(AgRg no HC 342.072/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/02/2017, DJe 02/03/2017)
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO.
+1. A via eleita se revela inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedentes.
+2. Todavia, o alegado constrangimento ilegal será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+TRÁFICO INTERESTADUAL. DOSIMETRIA. CAUSA DE AUMENTO PREVISTA NO ART. 40, V, DA LEI DE DROGAS. TRANSPORTE QUE NÃO ULTRAPASSOU A FRONTEIRA ENTRE DOIS ESTADOS. IRRELEVÂNCIA. DROGA QUE TINHA COMO DESTINO OUTRA UNIDADE DA FEDERAÇÃO. ILEGALIDADE AUSENTE.
+1. O entendimento prevalente na Terceira Seção deste Tribunal Superior é no sentido de que basta que esteja comprovado que o entorpecente tinha como destino outra unidade federativa, sendo irrelevante que haja ou não a efetiva transposição da divisa interestadual para a incidência da causa especial de aumento do art.
+40, V, da Lei 11.343/06.
+2. Constatado que o agente foi flagrado em Mato Grosso do Sul e confessou que levaria a droga - 123 kg de maconha - para Salvador/BA, não há ilegalidade no reconhecimento e aplicação da hipótese prevista no art. 40, inciso V, da Lei n. 11.343/06.
+3. Ademais, para se concluir de forma diversa, seria necessário o revolvimento de todo o conjunto fático-probatório colacionado durante a instrução criminal, o que é incabível na via estreita do remédio constitucional.
+4. Habeas corpus não conhecido.
+(HC 316.906/MS, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 30/06/2015, DJe 25/08/2015)
+Na hipótese, cumpre transcrever, sobre o tema, o seguinte trecho do acórdão proferido pela instância recorrida, litteris:
+Entretanto, julgo que não há prova suficiente de que o tráfico de drogas se deu entre Estados da Federação, ao contrário do que aduz o Ministério Púbico em seu arrazoado.
+A acusada negou que tenha dito aos policiais que trazia a droga do Estado do Rio de Janeiro, ao passo que os policiais confirmaram, em Juízo, a confissão informal.
+A testemunha civil não infirma nem a palavra da apelante, nem a versão dos funcionários públicos, vez que não acompanhou a condução de [NOME] até a delegacia. O taxista apenas confirmou que a imputada lhe solicitou uma corrida da rodoviária de Juiz de Fora até Ubá.
+De outra banda, o fato de a acusada regressar do Rio de Janeiro sem bagagem, realmente, levanta suspeita da finalidade de sua visita àquele Estado. Contudo, tal circunstância, salvo melhor juízo, não traduz a certeza de que a viagem tinha por objetivo a aquisição e o transporte de drogas.
+Desta forma, o parquet não se desincumbiu satisfatoriamente do seu onus probandi, conforme determina o artigo 156, caput, do Código de Processo Penal. E diante da dúvida acerca da prática do tráfico entre Estados da Federação, mantenho o decote da causa de aumento do artigo 40, inciso V, da Lei nº 11.343/06, em estrita observância ao princípio do in dubio pro reo. (fl. 440)
+Denota-se, pois, que a Corte de origem, com base nos elementos de prova carreados no caderno processual, assentou a existência de dúvida quanto à destinação interestadual das drogas apreendidas com a agravada, motivo pelo qual manteve a não incidência da causa de aumento de pena prevista no art. 40, inciso V, da Lei n. 11.343/06, em observância ao princípio do in dubio pro reo.
+Dessa forma, tendo o Tribunal estadual, soberano no reexame das provas colhidas no curso da instrução processual, assentado que não houve suficiente comprovação de que a droga transportada era destinada à comercialização em outro Estado da federação, é certo que a modificação desse entendimento para fins de reconhecimento da causa de aumento da pena demandaria o revolvimento de todo acervo fático-probatório dos autos, providência exclusiva das instâncias ordinárias e vedada a este Sodalício no âmbito do recurso especial, nos termos da Súmula n. 07/STJ.
+A propósito, veja-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. VIOLAÇÃO AO § 4º DO ART. 33 DA LEI Nº 11.343/06. CAUSA DE DIMINUIÇÃO DA PENA. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AFRONTA AO ART. 40, V, DA LEI 11.343/06. CAUSA DE AUMENTO. INTERESTADUALIDADE. DESNECESSIDADE DE EFETIVA COMPROVAÇÃO DA TRANSPOSIÇÃO DE FRONTEIRAS. DEMONSTRAÇÃO DA INTENÇÃO DE REALIZAR O TRÁFICO ENTRE ESTADOS. SUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a incidência de eventuais causas de aumento ou diminuição de pena, bem como a fração a ser aplicada. Óbice do enunciado n.º 7 da Súmula desta Corte.
+2. Esta Corte já assentou o entendimento no sentido de que para a incidência da causa de aumento prevista no artigo 40, inciso V, da Lei n.º 11.343/06, é desnecessária a efetiva comprovação da transposição de fronteiras entre Estados da Federação, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1628366/RO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/11/2016, DJe 24/11/2016)
+Por essas razões, nega-se provimento ao agravo regimental.
+É como voto.
