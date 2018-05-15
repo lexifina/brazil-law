@@ -1,0 +1,80 @@
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DE MÉRITO DO SENTENCIADO. ANÁLISE CRITERIOSA DOS AUTOS DA EXECUÇÃO. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados
+por razões eficientes, é de ser negada simples pretensão de reforma.
+2. Agravo regimental a que se nega provimento.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça: A Sexta Turma, por unanimidade, negou provimento ao agravo, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relatora):
+Cuida-se de agravo regimental contra decisão monocrática assim sintetizada:
+EXECUÇÃO PENAL. HABEAS CORPUS. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. NÃO PREENCHIMENTO. HISTÓRICO CARCERÁRIO DESFAVORÁVEL. PRÁTICA DE DIVERSAS FALTAS DISCIPLINARES DE NATUREZA GRAVE. ANÁLISE APROFUNDADA DA CONDUTA CARCERÁRIA DO APENADO. IMPOSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+1. Hipótese em que não há flagrante ilegalidade a ser reconhecida. As instâncias ordinárias realizaram um percuciente exame do mérito do condenado, destacando o seu histórico carcerário desfavorável, que inclui a ocorrência de diversas faltas disciplinares de natureza grave e entendeu ser incabível a benesse, fundamentando concretamente suas decisões. Verificar se o paciente preenche o requisito subjetivo demanda um exame amplo e profundo da conduta carcerária do apenado, inviável na via estreita do habeas corpus.
+2. Ordem denegada.
+No presente recurso, alega a Defensoria Pública que, "diferentemente do entendimento exarado pela Ministra Relatora, o histórico carcerário do Agravante não é capaz de ensejar no óbice à obtenção do benefício do livramento condicional, caso contrário, restará configurado como ad aeternum os efeitos das faltas no cumprimento de toda a pena do Agravante".
+Aduz que, "em que pese constar no v. Acórdão que a regressão de regime foi realizada em 20/06/2017, cumpre salientar que a última falta grave foi cometida em setembro de 2016, ou seja, há mais de 01 (um) ano (consoante atestam documentos da execução de pena juntados)".
+Sublinha que, "em que pese o Agravante ter cometido faltas disciplinares, sua conduta carcerária após mais de 01 (UM) ano do cometimento da última falta grave vem sendo exemplar, tanto que está classificada como ÓTIMA".
+Conclui que "não se pode considerar, portanto, eternamente as faltas ou comportamentos anteriores, sob pena de se infringir preceitos e garantias fundamentais estampadas na Constituição, bem como interpretar de maneira errônea a própria norma legal que rege a Execução Penal (art. 112, LEP)".
+Requer a reconsideração da decisão ora agravada ou a submissão do feito a julgamento pela Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DE MÉRITO DO SENTENCIADO. ANÁLISE CRITERIOSA DOS AUTOS DA EXECUÇÃO. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados
+por razões eficientes, é de ser negada simples pretensão de reforma.
+2. Agravo regimental a que se nega provimento.
+
+VOTO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relatora):
+Trago à análise do colegiado tema decidido monocraticamente.
+Da leitura das razões do agravo interno, conquanto se louve o empenho da Defensoria Pública, verifica-se que ela reiterou as alegações expostas na inicial e não verteu argumentos capazes de ensejar a reforma da decisão agravada.
+Com efeito, as instâncias ordinárias realizaram uma análise criteriosa do comportamento do sentenciado durante a execução da pena, concluindo pela sua incapacidade de se adaptar ao regime menos rigoroso. Destacaram, ao indeferirem o benefício, as diversas faltas disciplinares praticadas durante o cumprimento da pena e o fato de que o reeducando, quando obtém a progressão de regime, volta a praticar delitos (fl. 99).
+Destarte, não há como rever tal entendimento na via estreita do habeas corpus. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL REVOGADO. FALTA GRAVE. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS.
+1. No caso, o Tribunal de origem revogou a benesse do livramento condicional, ante a falta do elemento subjetivo, ao entendimento de que o paciente, no curso da execução, cometera falta disciplinar grave (fuga praticada em 2016), revelando, portanto, um comportamento carcerário não satisfatório que gera demérito para o alcance da benesse pretendida.
+2. Desconstituir a conclusão a que chegou a Corte de origem sobre o não preenchimento do requisito subjetivo implicaria o reexame do conjunto fático-probatório dos autos da execução, o que é incompatível com os estreitos limites da via eleita.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC 386.742/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 21/09/2017, DJe 04/10/2017)
+Destarte, devem ser mantidos os fundamentos do decisum, máxime porque amparados em julgados desta Corte. Assim, conservo o meu entendimento inicial, verbis (fls. 143-147):
+Alega a impetrante, em síntese, que o paciente preenche os requisitos necessários à concessão do livramento condicional.
+Observa-se que o juízo de primeiro grau analisou a conduta carcerária do paciente e concluiu que ele não preenche o requisitos subjetivo, nestes termos (fls. 62-64):
+Em detida análise aos autos, tenho que o pedido de liberdade condicional não deve ser deferido, por ausência do requisito subjetivo.
+A análise do péssimo histórico prisional do sentenciado, onde se verifica o registro de 6 faltas disciplinares de natureza grave (f. 445/448), denota ausência de mérito do sentenciado (requisito subjetivo) para a concessão do pedido.
+Com efeito, para a concessão do livramento condicional, não basta uma superficial análise acerca do comportamento carcerário do apenado por meio de mero atestado de comportamento carcerário emitido pela direção da unidade prisional, que apenas revela a situação atual do comportamento do sentenciado, sem aferição do seu comportamento durante todo o cumprimento da pena.
+A análise do requisito subjetivo - mérito do sentenciado demanda detida e criteriosa análise de comportamento prisional, o que se faz analisando as intercorrências durante todo o decorrer do cumprimento da pena.
+Pensar o contrário, é ignorar todas as faltas disciplinares cometidas durante o cumprimento da pena e tratar os presos que não tem registro de falta disciplinar em situação igual àqueles outros, faltosos, ferindo o princípio constitucional da igualdade e da individualização da pena.
+Aliás, é exatamente nesse sentido o disposto do artigo 83, inc. III, do Código Penal, vejamos:
+(..)
+Não fosse isso o bastante, o disposto legal acima transcrito, adiciona que o sentenciado deve demonstrar "bom desempenho no trabalho que foi atribuído", o que deixa claro que durante o cumprimento da pena, deve estar comprovado que o sentenciado desempenhou exaustiva jornada de trabalho a revelar tal pressuposto legal à concessão da liberdade condicional.
+Revelando-se dos autos o contrário, isto é, estando provado nos autos que cometeu falta disciplinar grave, incabível a benesse legal.
+(..)
+Nesse contexto, seguindo os recentes julgados do E.Tribunal de Justiça, aliado ao expresso texto de Lei (art. 83, inciso III do CP), diante da demonstrada inaptidão para o cumprimento da pena em regime de semiliberdade, inarredável em concluir que o sentenciado ainda não está apto ao cumprimento da pena em liberdade condicional, necessitando, desse modo, de passar por todas as etapas do cumprimento da pena para que possa demonstrar, regime a regime, possuir mérito suficiente ao cumprimento da pena em liberdade condicional. Aliás, foi exatamente esta a intenção do legislador ao instituir o sistema progressivo junto à Lei de Execuções Penais.
+Ante todo o exposto, ainda que atendido o requisito objetivo (lapso temporal), por força do péssimo histórico prisional do sentenciado, demonstrado através das inúmeras faltas disciplinares perpetradas no decorrer do cumprimento da pena, tenho por ausente o requisito subjetivo, motivo pelo qual, com base no artigo 83, inciso III, do Código Penal, INDEFIRO o livramento condicional ao sentenciado.
+O Tribunal a quo, por sua vez, consignou, verbis (fl. 99):
+Apesar do agravante registrar conduta classificada como "ÓTIMA" dentro do regime fechado, verifica-se que o mesmo apresenta problemas quando há progressão de regime, registrando falta grave por cometimento de novos delitos (f. 81/326, da origem), provocando desordem por uso de bebida alcoólica (f. 134, da origem).
+Desta forma, embora o agravante já tenha sido punido pelo cometimento de cinco faltas graves (f. 45) ao longo do cumprimento de pena, constata-se que sua ressocialização deve ser gradativamente realizada.
+Tal fato é indispensável, tendo em vista que das outras vezes que obteve progressão para o regime intermediário cometeu falta grave, demonstrado seu despreparo para a vida em sociedade.
+Como visto, as instâncias ordinárias realizaram um percuciente exame do mérito do condenado, destacando o seu histórico carcerário desfavorável, que inclui a ocorrência de diversas faltas disciplinares de natureza grave, traduzindo comportamento insatisfatório no cumprimento da pena e entendeu incabível a benesse, em decisões devidamente fundamentadas.
+Nesse contexto, a análise do pleito de concessão do livramento condicional, no que diz respeito ao preenchimento do requisito subjetivo, de modo a concluir diversamente do que foi decidido ordinariamente, demandaria um exame amplo e profundo da conduta carcerária do apenado, inviável nesta espécie, por esbarrar no estreito veio de conhecimento do habeas corpus, onde não é possível o revolvimento de fatos e provas necessários ao deslinde da controvérsia.
+Irrepreensível, portanto, o aresto impugnado. Confiram-se, a propósito, os seguintes precedentes desta Corte:
+EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. FALTA GRAVE. REGRESSÃO DE REGIME. LIVRAMENTO CONDICIONAL CASSADO. AUSÊNCIA DO REQUISITO DE NATUREZA SUBJETIVA (COMPORTAMENTO SATISFATÓRIO DURANTE A EXECUÇÃO DA PENA). DECISÃO FUNDAMENTADA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. No caso, não se observa flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+2. O cometimento de falta disciplinar de natureza grave implica regressão de regime, bem como perda de até 1/3 (um terço) dos dias remidos, nos termos do art. 127 da Lei de Execução Penal. Precedentes.
+3. No caso em exame, o Tribunal a quo, ante a prática de falta grave e de forma fundamentada, determinou a regressão de regime e cassou o livramento condicional ao apenado, o que não é desproporcional ou desarrazoado.
+4. O Superior Tribunal de Justiça firmou entendimento no sentido de que, apesar de a falta grave não interromper o prazo para fins de livramento condicional (Súmula/STJ n. 441), sua prática impede a concessão do aludido benefício, por evidenciar a ausência do requisito subjetivo exigido durante a execução da pena, nos termos do disposto no art. 83, III, do Código Penal (Precedentes).
+5. A teor da jurisprudência consolidada desta Corte, se as instâncias ordinárias concluíram não restar preenchido o requisito subjetivo necessário para a concessão do livramento condicional, tal assertiva não pode ser desconstituída na via estreita do habeas corpus, pois maiores incursões sobre o tema demandariam revolvimento do conjunto fático-comprobatório dos autos.
+6. Habeas corpus não conhecido.
+(HC 312.173/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/09/2016, DJe 28/09/2016)
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PRISIONAL E LIVRAMENTO CONDICIONAL INDEFERIDOS. REQUISITO SUBJETIVO NÃO PREENCHIDO. DECISÃO DEVIDAMENTE FUNDAMENTADA. ELEMENTOS CONCRETOS. PRÁTICA REITERADA DE FALTA DISCIPLINAR NO CURSO DA EXECUÇÃO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. ORDEM NÃO CONHECIDA.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção do Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. É firme a jurisprudência desta Corte de que, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das Execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+3. No caso, a benesse foi indeferida com base na prática reiterada de faltas disciplinares no curso da execução, demonstrando ausência de capacidade de se adaptar ao cumprimento de regime menos rigoroso.
+4. Ressalte-se, ainda, que o afastamento dos fundamentos utilizados pelas instâncias ordinárias quanto ao mérito subjetivo do paciente demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+5. Habeas corpus não conhecido.
+(HC 365.893/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/09/2016, DJe 26/09/2016)
+Ante o exposto, denego a ordem, com fulcro no artigo 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intime-se.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
