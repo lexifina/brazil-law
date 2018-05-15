@@ -1,0 +1,24 @@
+Decisão:
+    1. Trata-se de recurso ordinário em habeas corpus interposto em face de acórdão, proferido no âmbito do Superior Tribunal de Justiça (HC 426.348/DF), assim ementado (eDOC 01, p. 106):
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA DE OFENSA. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE. EXAURIMENTO DOS PRAZOS RECURSAIS ORDINÁRIOS. RECURSO ESPECIAL INTERPOSTO PELA DEFESA. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Consoante o entendimento desta Corte, não existe ofensa ao princípio da colegialidade nas hipóteses em que a decisão monocrática do relator não conhece habeas corpus cujo pedido for contrário a entendimento jurisprudencial sedimentado, como se verificou no caso dos autos, sobretudo considerando que o julgamento colegiado do agravo regimental supre eventual vício da decisão agravada.
+    2. No julgamento do HC n. 126.292/MG, realizado em 17/2/2016, o Supremo Tribunal Federal, em sua composição plena, passou a admitir a possibilidade de imediato início do cumprimento provisório da pena após o exaurimento das instâncias ordinárias, inclusive com restrição da liberdade do condenado, por ser o recurso extraordinário desprovido de efeito suspensivo, sem que isso implique violação ao princípio da não culpabilidade.
+    3. Esta egrégia Corte de Justiça, por sua vez, também adotou o aludido posicionamento, mormente a partir do julgamento pela egrégia Sexta Turma dos EDcl no REsp n. 1.484.415/DF, da relatoria do eminente Ministro ROGÉRIO SCHIETTI CRUZ, seguido à unanimidade pelos eminentes Ministros integrantes da Terceira Seção.
+    4. No caso em debate, exaurida a jurisdição do Tribunal estadual, foi manejado recurso especial, inadmitido na origem, com interposição de agravo já julgado nesta Corte, estando pendente apenas o julgamento do agravo em recurso extraordinário, perante o Supremo Tribunal Federal. Assim, considerando a inexistência de efeito suspensivo ao mencionado recurso, há que se ressaltar que a restrição da liberdade do paciente decorre, agora, do esgotamento dos recursos nas instâncias ordinárias, nada havendo a ser reparado nesta via mandamental.
+    5. Esta Corte Superior tem se posicionado no sentido de que o juízo da condenação tem competência para determinar a execução provisória da pena, após a o esgotamento dos recursos da via ordinária.
+    Agravo regimental desprovido.
+    No recurso, sustenta-se que: a) o recorrente foi condenado pela prática dos delitos previstos no art. 121, § 2º, IV, do CP, c/c o art. 14, caput, da Lei 10.826/2003, à pena de 16 (dezesseis) anos de reclusão, em regime inicial fechado; b) em sede de apelação, o Tribunal de origem deu parcial provimento ao recurso da defesa, para reduzir a pena para 14 (catorze) anos de reclusão; c) posteriormente, foram opostos embargos de declaração e interpostos os recursos especial e extraordinário; d) após o esgotamento das vias ordinárias, o Juízo de origem determinou a expedição de guia provisória de execução penal; e) o recorrente respondeu ao processo em liberdade e ainda não houve o trânsito em julgado da condenação.
+    À vista do exposto, requer a suspensão da execução provisória até o julgamento definitivo da ação penal (eDOC 03 p. 518-564).
+    É o relatório. Decido.
+    2. No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    De início, cumpre assinalar que a decisão proferida pelo Tribunal Pleno no HC 126.292/SP (julgado em 17.02.2016), em que se reconheceu a possibilidade de execução provisória de provimento condenatório sujeito a recursos excepcionais, parte da premissa de que, nas palavras do eminente Ministro Teori Zavascki, é “no âmbito das instâncias ordinárias que se exaure a possibilidade de exame de fatos e provas e, sob esse aspecto, a própria fixação da responsabilidade criminal do acusado.“
+    Referida orientação foi sufragada pelo Plenário ao apreciar medida cautelar nas ADCs 43 e 44, julgada em 05.10.2016, ocasião em que se almejava, sob a ótica do art. 283, do CPP, a desconstituição da decisão anteriormente proferida pelo Plenário.
+    Em seguida, o Tribunal reafirmou sua jurisprudência, emitindo, sob a sistemática da repercussão geral, a seguinte tese:
+    “A execução provisória de acórdão penal condenatório proferido em grau recursal, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal.” (ARE 964.246, Rel. Min. Teori Zavascki, julgado em 11.11.2016).
+    À obviedade, o ato apontado como coator que, mediante convicção racional, limita-se a observar a jurisprudência da Suprema Corte, vinculante ou não, não configura constrangimento ilegal.
+    3. Posto isso, com fulcro no art. 21, § 1º, do RISTF, nego provimento ao recurso em habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 15 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
