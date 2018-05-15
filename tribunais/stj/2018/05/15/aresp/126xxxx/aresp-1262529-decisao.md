@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 590, e-STJ):
+COMPROMISSO DE COMPRA E VENDA  CESSÃO DE DIREITOS ENTRE CONSTRUTORAS - ILEGITIMIDADE PASSIVA DA CEDENTE RECONHECIDA EM PRIMEIRO GRAU  DECISÃO QUE ADMITE A RESPONSABILIDADE DA CONSTRUTORA CEDENTE NA FASE DE EXECUÇÃO INADMISSIBILIDADE  ONUS SUCUMBENCIAIS DEFINIDOS À LUZ DO PRINCÍPIO DA CAUSALIDADE  MANUTENÇÃO DO CRITÉRIO. Se a sentença reconhece a ilegitimidade passiva da construtora que cedeu seus direitos à outra, excluindo-a da lide, e julga extinto o processo, sem exame do mérito, descabe prever sua responsabilidade pelo cumprimento da condenação imposta à cessionária. E se a cedente não informou ao consumidor a cessão havida, a mera publicidade do ato perante o Cartório de Registro de Imóveis não afasta a conclusão de que a cedente deu causa a sua inclusão no polo passivo da ação.
+COMPROMISSO DE COMPRA E VENDA  INADIMPLEMENTO PARCIAL PELA CONSTRUTORA - ATRASO NA ENTREGA DO IMÓVEL  PEDIDO DE APLICAÇÃO DE MULTA CONTRATADA, EM QUE DEFINIDO O VALOR DE 1% DO CONTRATO POR MÊS DE USO INDEVIDO DO IMÓVEL  ADMISSIBILIDADE  Se as partes ajustaram que o uso do imóvel representa 1% do valor do contrato, por mês, para a hipótese de uso indevido pelo adquirente, nada impede, antes tudo recomenda que o mesmo valor seja utilizado para a definição da indenização a ser paga pela construtora em razão de sua mora na entrega da unidade condominial.
+RESULTADO: apelação da corre D.D.A INCORPORAÇÃOES LTDA parcialmente provida e apelação da corre CIRCINUS EVEN EMPREENDIMENTOS IMOBILIÁRIOS LTDA desprovida.
+Opostos Embargos de Declaração, foram rejeitados pelo acórdão de fls. 613-617, e-STJ.
+No recurso especial, aponta violação aos arts. 20 e 374, inciso IV, do CPC/73; 22 da Lei nº 8.906/94; e 1.245 do Código Civil.
+Sustenta que mesmo havendo extinção do processo em relação à parte considerada ilegítima, os honorários advocatícios são cabíveis, uma vez que trata-se de direito autônomo do advogado, não se confundindo com o direito da parte.
+Afirma que o Tribunal de origem causou surpresa à parte adversa, ao presumir que ela não teria sido notificada da cessão de direitos e que o registro imobiliário seria insuficiente para isso.
+Contrarrazões às fls. 668-677, e-STJ.
+O recurso especial não foi admitido na origem, conforme a decisão de fls. 679-680, e-STJ.
+Delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+A recorrente sustenta que mesmo havendo extinção do processo em relação à parte considerada ilegítima, os honorários advocatícios são cabíveis, uma vez que trata-se de direito autônomo do advogado, não se confundindo com o direito da parte. Nesse particular, assim registrou o acórdão recorrido (fl. 593, e-STJ):
+A definição da sucumbência se baseou no princípio da causalidade. Como a corre D.D.A. não informou o adquirente quanto à cessão de direitos, deu causa a sua inclusão no polo passivo, entendimento que não merece qualquer reparo, máxime porque se trata de relação de consumo, em que o consumidor faz jus a receber todas as informações relevantes sobre o contrato, de preferência do mesmo modo com que materializada a avença, ou outro modo pessoal e inequívoco de comunicação, não se admitindo a mera publicidade da cessão, advinda do registro imobiliário.
+Como se vê, o acórdão recorrido não tratou a matéria sob a ótica trazida pela recorrente em seu recurso especial, e a despeito da oposição de embargos de declaração para tal fim, a Corte de origem permaneceu silente; a recorrente, por seu turno, não apontou violação ao art. 535 do CPC/73, vigente à época da publicação do acórdão recorrido, de sorte que o recurso especial fica inviabilizado pelo óbice da Súmula 211/STJ, em razão da falta de prequestionamento.
+A propósito:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+ ..
+3. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. 3.1. Na hipótese, não foi apontada violação do artigo 535 do CPC/73, vigente à época, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+4. Agravo interno desprovido.
+(AgInt no AREsp 292.952/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/03/2018, DJe 02/04/2018).
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. MÚTUO HIPOTECÁRIO. SFH. 1. AUSÊNCIA DE INDICAÇÃO DA ALÍNEA DO PERMISSIVO CONSTITUCIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO DA SÚMULA 284 DO STF. 2. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211 DO STJ. 3. REPETIÇÃO DOS VALORES PAGOS A MAIOR. NÃO CABIMENTO. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. 4. AGRAVO IMPROVIDO.
+ ..
+2. Não enseja interposição de recurso especial matéria que não tenha sido ventilada no aresto atacado e sobre a qual, embora tenham sido opostos os embargos declaratórios competentes, o órgão julgador não se pronunciou, tampouco houve alegação, por parte do interessado, de ofensa ao art. 535 do Código de Processo Civil/1973 (1.022 do CPC/2015). Incidência da Súmula 211 do Superior Tribunal de Justiça.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 1.015.487/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017).
+Nesse mesmo sentido, o recurso especial encontra-se inviabilizado pelo óbice da Súmula 211/STJ, no tocante ao argumento de que o Tribunal de origem causou surpresa à parte adversa, ao presumir que ela não teria sido notificada da cessão de direitos e que o registro imobiliário seria insuficiente para isso.
+Por fim, tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
