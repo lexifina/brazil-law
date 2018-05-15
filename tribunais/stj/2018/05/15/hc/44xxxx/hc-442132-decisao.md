@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RENATO FEITOSA, em face de acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento ao agravo em execução interposto pela defesa.
+Consta dos autos que o Juízo da Execução indeferiu o pleito de progressão ao regime semiaberto, ante a ausência de preenchimento do requisito subjetivo.
+O Tribunal a quo negou provimento ao agravo em execução, interposto pela defesa, com fundamento na gravidade dos delitos praticados pelo paciente, na longa pena a cumprir e por entender necessária a sua permanência no cárcere por maior período.
+Sustenta a impetrante que o paciente faz jus à progressão ao regime semiaberto, porquanto estariam presentes os requisitos objetivo e subjetivo necessários à concessão da benesse, inclusive, ostentando atestado de bom comportamento carcerário.
+Busca-se, liminarmente e no mérito, a progressão ao regime semiaberto.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela concessão da ordem de habeas corpus.
+É o relatório.
+DECIDO.
+O Juízo da Execução indeferiu a progressão de regime ao paciente nos seguintes termos (fl. 23):
+A pretensão é improcedente.
+O sentenciado possui longa pena por cumprir, 09/12/2028 não reunindo méritos para progressão de regime.
+E mais. Tratando-se de crime graves e de natureza equiparada a hedionda-trafico ilícito de drogas e de natureza gravíssima (crime com grave ameaça e violência contra pessoa)-roubo majorado, demonstram a necessidade de permanência maior no cárcere, visando absorver a terapia penal e revelar seu merecimento à progressão de regime.
+Sendo que diante da situação específica do sentenciado apesar do atestado de bom comportamento carcerário não se pode dizer somente com base nele que está preenchido o requisito subjetivo pois o sentenciado deverá demonstrar de forma clara que conseguiu desenvolver senso de responsabilidade para sua autocontenção diante das frustrações normais da vida e por óbvio frear os seus instintos primitivos para suportar as regras da vida com vigilância mais branda.
+Diante do exposto, por ora, INDEFIRO a promoção do sentenciado supra qualificado ao regime semiaberto. A presente serve como intimação, devendo a direção do presídio restituir uma via assinada pelo sentenciado.
+O Tribunal de origem manteve o indeferimento do benefício com base nos seguintes fundamentos (fls. 52/55):
+Com razão o D. Magistrado de piso, estando a r. decisão fundamentada no fato concreto.
+Vejamos.
+Inicialmente, deve-se considerar a extrema gravidade dos delitos praticados pelo sentenciado, praticados com emprego de violência ou grave ameaça à pessoa, e, também, caracterizado pela hediondez.
+Com efeito, ainda que a prática de crimes dessas naturezas não seja suficiente, por si só, para indeferir a progressão de regime, é certo que tal situação enseja cautela na concessão de qualquer tipo de benefício.
+Ademais, considerar a gravidade dos crimes perpetrados pelo sentenciado, quando da análise da viabilidade da progressão de regime, não caracteriza bis in idem, uma vez que os delitos pelos quais condenado são resultado de sua personalidade e de como ele se determina socialmente. No caso, não fosse perigoso e violento, não se daria à prática de crimes caracterizados, justamente e inclusive, pela violência ou grave ameaça contra a pessoa.
+O mesmo se pode dizer no tocante à longa pena a cumprir. Tratou-se, no presente caso, de delitos de roubo e previstos na Lei de Drogas, de modo que o agravante demonstra personalidade enraizada no mundo marginal. Ora, estes fatos não podem ser ignorados, uma vez que indicam que ele não é merecedor da benesse, já que "a progressão deve ser uma conquista do condenado pelo seu mérito" (Exposição de Motivos da LEP).
+Aliás, a colocação prematura do sentenciado no regime semiaberto pode ser prejudicial não apenas à sociedade como, também, ao próprio sentenciado que, ao ser colocado na semiliberdade sem assimilação da terapêutica penal, pode tornar a delinquir ou, ao menos, enveredar-se na prática de falta disciplinar de natureza grave, caso em que a progressão ser-lhe-ia mais prejudicial do que benéfica.
+Desse modo, é certo que o sentenciado não preenche o requisito de ordem subjetiva para concessão da progressão de regime.
+Registre-se que o nosso sistema de valoração das provas é baseado no livre convencimento motivado e, neste caso, cabe ao juiz ponderar tanto o deferimento da benesse quanto a segurança da sociedade:
+ ..
+Nesse diapasão, não se pode falar que a sentença apresenta fundamentação inidônea, pois os motivos pelos quais o douto Magistrado indeferiu o pedido de progressão ao reeducando são plausíveis, eis que entendeu não estar preenchido o requisito subjetivo necessário à concessão da benesse, a qual, ainda que por breves períodos, permitirá o convívio em sociedade.
+Insta consignar, ainda, ser entendimento da Corte Suprema que a confecção do exame criminológico, ante o advento da Lei 10.792/03, não é mais obrigatória para fins de progressão de regime, sendo sua realização facultativa nos casos em que o juiz, mediante decisão fundamentada, vislumbrar a sua necessidade.
+E, evidenciado de plano o não preenchimento do requisito subjetivo para a progressão, tanto pela análise do caso concreto, do perfil social do réu, da conduta carcerária e da ressocialização, desnecessária a determinação de realização do exame criminológico que, como sublinhado, é faculdade da autoridade judicial.
+Por esses motivos, inviável a concessão da progressão ao regime semiaberto ao sentenciado, por ausência de requisito subjetivo.
+Posto isso, NEGO PROVIMENTO ao recurso interposto, mantendo a r. decisão tal qual lançada.
+Na hipótese, observa-se que a progressão de regime foi negada pelas instâncias ordinárias em razão da ausência de provas suficientes a demonstrar que o reeducando seria merecedor do benefício, enfatizando-se, ainda, a longa pena por cumprir e a gravidade do delito cometido.
+Ora, fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime, de modo que o indeferimento do benefício somente poderá fundar-se em fatos ocorridos no curso da própria execução penal.
+ A fundamentação apresentada pela instância ordinária não é apta a justificar o indeferimento do pedido, uma vez que, como se vê, foi implementado o requisito objetivo, mencionando-se apenas a gravidade abstrata do delito cometido e a longa pena a cumprir, conforme acima exposto. Nesse sentido:
+EXECUÇÃO PENAL. HABEAS CORPUS. AGRAVO EM EXECUÇÃO. PROGRESSÃO AO REGIME SEMIABERTO. BENEFÍCIO NEGADO PELAS INSTÂNCIAS DE ORIGEM. INADIMPLEMENTO DO REQUISITO SUBJETIVO. GRAVIDADE DOS DELITOS E LONGEVIDADE DAS PENAS. FALTAS GRAVES VETUSTAS. JUSTIFICAÇÃO GENÉRICA E FORA DOS PARÂMETROS LEGAIS. IMPOSSIBILIDADE. FLAGRANTE ILEGALIDADE. OCORRÊNCIA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A teor do que prevê o atual art. 112 da Lei de Execuções Penais, com a redação que lhe deu a Lei nº 10.792/2003, ao indeferir a progressão de regime prisional, porque não cumprido o requisito subjetivo, o julgador deve fazê-lo de forma motivada em dados concretos da execução da pena, não podendo cercar-se de elementos ou circunstâncias não previstos na lei de regência.
+2. As instâncias de origem não lograram fundamentar o inadimplemento do requisito subjetivo para a progressão carcerária, fazendo apenas referência à gravidade abstrata dos crimes cometidos pelo paciente, à sua longa pena a cumprir e à existência de faltas de natureza grave antigas, cometidas há mais de 10 (dez) anos, das quais o reeducando já está reabilitado, tendo atualmente bom comportamento carcerário e exame criminológico favorável.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo da Execução reexamine o pedido de progressão de regime formulado em favor do paciente, analisando o requisito subjetivo (mérito) com base em elementos concretos da execução da pena, à luz do disposto no art. 112 da Lei de Execução Penal. (HC 373.717/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/11/2016, DJe 24/11/2016), com destaques.
+Ante o exposto, concedo parcialmente a ordem para determinar que o juízo das execuções prossiga no exame dos demais requisitos para a progressão de regime, nos exatos termos do art. 112 da LEP.
+Comunique-se.
+Publique-se.
+Intimem-se.
