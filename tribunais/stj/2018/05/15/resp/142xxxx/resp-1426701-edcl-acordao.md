@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE QUALQUER DOS SEUS REQUISITOS PROCEDIMENTAIS. DEFICIÊNCIA NA FUNDAMENTAÇÃO E RAZÕES DISSOCIADAS DA APLICAÇÃO DAS SÚMULAS 283 E 284/STF. EMBARGOS DE DECLARAÇÃO DA TELEMAR REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material no julgado.
+2. O acórdão recorrido é claro em afirmar que o Tribunal entendeu que a multa fiscal foi aplicada em razão de informações inexatas prestadas em GFIP cumulativamente ao não recolhimento de obrigação principal e assim afastou a aplicação da lei mais benéfica. Dessa forma, verifica-se que as razões recursais apresentadas encontram-se dissociadas daquilo que restou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do Recurso Especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal.
+3. Embargos de Declaração da TELEMAR rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os Embargos de Declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+Impedidos os Srs. Ministros Benedito Gonçalves e Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Embargos de Declaração opostos pela TELEMAR NORTE LESTE S.A. contra acórdão que negou provimento ao seu Agravo, nos termos da seguinte ementa:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO E RAZÕES DISSOCIADAS DA APLICAÇÃO DAS SÚMULAS 283 E 284/STF. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. O Tribunal entendeu que a multa fiscal foi aplicada em razão de informações inexatas prestadas em GFIP cumulativamente ao não recolhimento de obrigação principal e assim afastou a aplicação da lei mais benéfica. Dessa forma, verifica-se que as razões recursais apresentadas encontram-se dissociadas daquilo que restou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do Recurso Especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal. Precedentes: AgRg no REsp. 968.261/SP, Rel. Min. SÉRGIO KUKINA, DJe 23.2.2016; AgRg no AREsp. 610.622/ES, Rel. Min. ASSUSETE MAGALHÃES, DJe 29.2.2016.
+2. Agravo Interno da Empresa desprovido.
+2. A parte embargante afirma que o TRF-5 simplesmente não entendeu que a multa fiscal teria sido aplicada em razão de informações inexatas prestadas em GFIP cumulativamente ao não recolhimento de obrigação principal.
+3. Impugnação não apresentada (fls. 1.185).
+4. É o relatório.
+VOTO
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO IINTERNO. AUSÊNCIA DE QUALQUER DOS SEUS REQUISITOS PROCEDIMENTAIS. DEFICIÊNCIA NA FUNDAMENTAÇÃO E RAZÕES DISSOCIADAS DA APLICAÇÃO DAS SÚMULAS 283 E 284/STF. EMBARGOS DE DECLARAÇÃO DA TELEMAR REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material no julgado.
+2. O acórdão recorrido é claro em afirmar que o Tribunal entendeu que a multa fiscal foi aplicada em razão de informações inexatas prestadas em GFIP cumulativamente ao não recolhimento de obrigação principal e assim afastou a aplicação da lei mais benéfica. Dessa forma, verifica-se que as razões recursais apresentadas encontram-se dissociadas daquilo que restou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do Recurso Especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal.
+3. Embargos de Declaração da TELEMAR rejeitados.
+1. De início, cumpre esclarecer que a legislação processual é peremptória ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a existência de obscuridade, contradição ou omissão no julgado.
+2. Destarte, infere-se que, a par da pacífica orientação acerca da natureza recursal dos Declaratórios, estes não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas, apenas, à elucidação ou ao aperfeiçoamento do decisum em casos de obscuridade, contradição ou omissão. Não tem, pois, de regra, caráter substitutivo ou modificativo, ou seja, o condão de alterar, livre e substancialmente, o decisório, em seu dispositivo, mas, sim, aclarar ou integrar, razão por que seu processamento não é norteado pelos princípios do contraditório e da igualdade.
+3. O acórdão recorrido é claro em afirmar que o Tribunal entendeu que a multa fiscal foi aplicada em razão de informações inexatas prestadas em GFIP cumulativamente ao não recolhimento de obrigação principal e assim afastou a aplicação da lei mais benéfica. Dessa forma, verifica-se que as razões recursais apresentadas encontram-se dissociadas daquilo que restou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do Recurso Especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal.
+4. Por fim, destaque-se que será aplicada a multa de 1% sobre o valor da causa, com fundamento no art. 1.026. § 2o. do CPC/2015, se a parte insistir com a pretensão, além de outras sanções cabíveis.
+5. Dessa forma, rejeitam-se os Declaratórios da TELEMAR.
+6. É como voto.
