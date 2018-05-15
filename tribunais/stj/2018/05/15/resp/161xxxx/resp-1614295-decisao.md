@@ -1,0 +1,12 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "c", da Constituição Federal, contra acórdão proferido pelo TRF2, ementado às fls. 785-788.
+A recorrente alega dissídio jurisprudencial quanto à interpretação dada à LC 118/2005, sob os seguintes argumentos: a) o prazo para restituição dos valores reconhecidamente recolhidos de forma indevida pela recorrente foi limitado aos 5 anos imediatamente anteriores ao ajuizamento da presente ação, confrontando, assim, o entendimento exarado pelo STJ no sentido de que o prazo para restituição de tributos pagos indevidamente é de 10 anos contados a partir da efetuação do pagamento; b) a jurisprudência consolidada no STJ é no sentido de que com o advento da LC 118/2005, a prescrição para a recuperação dos valores pagos indevidamente deve ser contada da seguinte forma: relativamente aos pagamentos efetuados a partir da sua vigência, qual seja, 09 de junho de 2005, o prazo para a ação de repetição do indébito é de 5 anos a contar da data do pagamento, e relativamente aos pagamentos anteriores, a prescrição obedece ao regime previsto no sistema anterior, limitada, porém, ao prazo máximo de 5 anos a contar da vigência da lei nova; c) faz jus à recuperação dos valores pagos indevidamente observado o prazo decenal, pois os recolhimentos indevidos se referem também a períodos anteriores à vigência da LC 118/2005.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 930.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+A jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente configura deficiência na fundamentação recursal a impedir o conhecimento do apelo nobre interposto com fundamento na alínea "c" do art. 105, inc. III, da Constituição Federal. Incidência da Súmula 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
