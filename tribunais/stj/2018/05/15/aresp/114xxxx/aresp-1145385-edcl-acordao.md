@@ -1,0 +1,55 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). PEDIDO DE MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS RECURSAIS. ART. 85, § 11, DO CPC/2015. RECURSO EM MESMO GRAU. NÃO CABIMENTO. OMISSÃO INEXISTENTE. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. OMISSÃO INEXISTENTE. AUSÊNCIA DE VÍCIOS DO ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA FINS DE ESCLARECIMENTOS, SEM EFEITOS MODIFICATIVOS.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, decide a Egrégia TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a). Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze (Presidente), Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de embargos de declaração opostos em face de acórdão proferido no julgamento de agravo interno no agravo em recurso especial, assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. PLANO DE SAÚDE. ALEGAÇÃO DE ILEGITIMIDADE DE PARTE. DESCABIMENTO. RESPONSABILIDADE POR PERTENCER À CADEIA DE FORNECIMENTO. SOLIDARIEDADE. AGRAVO DESPROVIDO (e-STJ fl. 339).
+A embargante alega que o aresto foi omisso em relação ao pedido de majoração da verba honorária, efetuado na impugnação ao agravo interno com fulcro no art. 85, § 11, do Código de Processo Civil de 2015.
+Sustenta ainda, que o julgado quedou-se silente acerca da multa do art. 1.021, § 4º, do mesmo codex, que a seu ver deveria ter sido aplicada, pois o agravo interno foi desprovido por unanimidade.
+Impugnação às fls. 353/355 (e-STJ).
+É o relatório.
+VOTO
+O SENHOR MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes Colegas, a irresignação deve ser acolhida apenas para fins de esclarecimentos, porém sem efeitos infringentes.
+Quanto ao pleito de majoração de honorários, efetuado na impugnação ao agravo interno, insta salientar que os honorários sucumbenciais recursais, do artigo 85, § 11, do Código de Processo Civil de 2015, são devidos para cada grau recursal e não para cada recurso interposto no mesmo grau, pois visa a atender à justa remuneração do patrono pelo trabalho adicional na fase recursal.
+Entendimento bem explicitado pela Escola Nacional de Formação e Aperfeiçoamento de Magistrados - ENFAM, ao elaborar o enunciado n. 16 pertinente aos honorários sucumbenciais recursais, a saber: "Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015)".
+A propósito:
+PROCESSUAL CIVIL. HONORÁRIOS. RECURSO EM MESMO GRAU. NÃO CABIMENTO. OMISSÃO INEXISTENTE.
+1. Os preceitos do art. 85, § 11, do CPC/2015, claramente estabelecem que a majoração dos honorários está vinculada ao trabalho desenvolvido em cada grau recursal, e não em cada recurso interposto no mesmo grau.
+2. "Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015)" (Enunciado 16 da ENFAM).
+3. No caso dos autos, o grau inaugurado com a interposição de recurso especial ocorreu em momento anterior à vigência da nova norma, o que torna sua aplicação indevida, sob pena de retroação de seus efeitos. Ressalte-se que até o agravo regimental, ao contrário do que aduz a embargante, foi interposto antes da vigência do novo CPC. Embargos de declaração rejeitados. (EDcl no AgRg nos EDcl nos EDcl no REsp 1461914/SC, Relator o Ministro HUMBERTO MARTINS, DJe de 10/08/2016, sem grifo no original)
+4. Deixa-se de aplicar honorários sucumbenciais recursais nos termos do enunciado 16 da ENFAM: "Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015)"
+(AgInt no AgRg no REsp 1.200.271/RS, QUARTA TURMA, Rel. Ministro MARCO BUZZI, DJe de 17/05/2016)
+PROCESSUAL CIVIL. HONORÁRIOS. RECURSO EM MESMO GRAU. NÃO CABIMENTO. OMISSÃO INEXISTENTE.
+1. Os preceitos do art. 85, § 11, do CPC/2015, claramente estabelecem que a majoração dos honorários está vinculada ao trabalho desenvolvido em cada grau recursal, e não em cada recurso interposto no mesmo grau.
+2. "Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015)" (Enunciado 16 da ENFAM).
+3. No caso dos autos, o grau inaugurado com a interposição de recurso especial ocorreu em momento anterior à vigência da nova norma, o que torna sua aplicação indevida, sob pena de retroação de seus efeitos. Ressalte-se que até o agravo regimental, ao contrário do que aduz a embargante, foi interposto antes da vigência do novo CPC. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EDcl nos EDcl no REsp 1.461.914/SC, SEGUNDA TURMA, Rel. Ministro HUMBERTO MARTINS, DJe de 10/08/2016)
+PROCESSUAL CIVIL. HONORÁRIOS. AUSÊNCIA DE CONDENAÇÃO. APLICAÇÃO DO ART. 20, § 4º, CPC. APRECIAÇÃO EQUITATIVA. CRITÉRIOS. ART. 20, § 3º, CPC. AUSÊNCIA DE ABSTRAÇÃO NO ACÓRDÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. NOVO CPC. APLICAÇÃO RETROATIVA. VEDAÇÃO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO DESPROVIDO.
+1. Nas causas em que não haja condenação, os honorários advocatícios devem ser fixados de forma equitativa pelo juiz, nos termos do § 4º do art. 20 do CPC/73, não ficando adstrito o juiz aos limites percentuais estabelecidos no § 3º da aludida norma, mas aos critérios neste previstos.
+2. A decisão agravada consignou que a alteração da verba honorária, fixada em atenção aos parâmetros do art. 20, § 4º, do CPC/73, encontra óbice na Súmula 7/STJ, visto que o valor fixado na origem não se mostra irrisório a ponto de viabilizar a intervenção do STJ.
+3. As alegações da agravante de aplicabilidade dos preceitos contidos no art. 85 do Novo Código de Processo Civil, além de se revestirem de inovação recursal, visto que o recurso especial foi interposto por afronta ao art. 20 do CPC/73, mostram-se impertinentes, pois a questão sub judice refere-se à aferição da razoabilidade e da proporcionalidade da verba honorária fixada pelo Tribunal de origem, estabelecida naquela instância à luz da norma em vigência à época, que era o CPC/73, em atenção ao princípio do tempus regit actum.
+4. A toda evidência, os honorários advocatícios não poderiam ser fixados à luz de norma processual inexistente, de modo que a pretensão da agravante em fazer prevalecer os novos parâmetros da Lei 13.105/15 configura manobra que visa a promover aplicação retroativa da norma processual, o que é vedado.
+5. A não realização do necessário cotejo analítico, bem como a não-apresentação adequada do dissídio jurisprudencial, não obstante a transcrição de ementas, impedem a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma.
+Agravo interno improvido.
+(AgInt no AREsp 903.987/SP, SEGUNDA TURMA, Rel. Ministro HUMBERTO MARTINS, DJe de 30/08/2016, grifei)
+Na espécie, a verba honorária foi alterada no momento processual oportuno, qual seja, no julgamento do agravo em recurso especial, sendo incabível, como demonstrado, nova majoração no mesmo grau de jurisdição.
+Destarte, inexiste a apontada omissão referente aos honorários advocatícios.
+No tocante a aplicabilidade da fixação de multa pelo órgão colegiado, de acordo com o recente entendimento da Segunda Seção deste Superior Tribunal de Justiça, a cominação prevista no artigo 1.021, § 4º, do Código de Processo Civil de 2015 "não é automática", pois não se trata de mera decorrência lógica do não conhecimento ou improvimento do agravo interno em votação unânime.
+Ademais, vale lembrar que, o fato de ser declarado manifestamente inadmissível ou improcedente, não significa que o magistrado deva, de plano, condenar a parte ao pagamento de multa, pois, os preceitos do artigo 1.021, § 4º, do Código de Processo Civil de 2015, são precisos em estabelecer a necessidade de justificação quanto à formação da sua convicção em decisão fundamentada.
+Por conseguinte, a exigência de motivação da decisão a referida condenação, privilegia o papel do julgador, a quem cabe avaliar em cada caso concreto a aplicação, em proporção adequada, da aludida multa.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt nos EREsp 1.120.356/RS, SEGUNDA SEÇÃO,Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 29/08/2016, grifei)
+Na hipótese dos autos, embora o agravo interno não tenha sido provido, na linha do assentado pela Segunda Seção deste Tribunal Superior, a mera interposição do recurso, não foi tida como abusiva ou protelatória, de tal modo a justificar a condenação, de plano, da parte agravante ao pagamento da multa.
+Assim, da mesma forma, inexiste a apontada omissão referente à aplicabilidade da multa prevista no artigo 1.021, § 4º, do Código de Processo Civil de 2015, porquanto indevida sua fixação.
+Portanto, na presente hipótese, a manifestação ofertada em sede de embargos de declaração merece ser acolhida apenas para fins de esclarecimentos, pois inexistiu, no presente caso, contradição, omissão ou obscuridade.
+Ante o exposto, acolho os embargos de declaração apenas para fins de esclarecimentos, sem efeitos modificativos.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida, nos termos do artigo 1.026, § 2º, do Código de Processo Civil de 2015.
+É o voto.
