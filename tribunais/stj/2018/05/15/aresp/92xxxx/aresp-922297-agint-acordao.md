@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. LEGISLAÇÃO LOCAL. SÚMULA 280 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSÊNCIA. SÚMULA 13 DO STJ. INCIDÊNCIA.
+1. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. A revisão das razões de decidir do acórdão recorrido, embasadas exclusivamente na análise da legislação local, encontra óbice na Súmula 280 do STF.
+3. Ausente o cotejo analítico, não há o cumprimento dos pressupostos específicos para a configuração do dissenso jurisprudencial, nos termos dos arts. 541, parágrafo único, do Código de Processo Civil e 255, §§ 1º e 2º, do RISTJ.
+4. Sendo os acórdãos paradigmáticos oriundos do mesmo Tribunal prolator do aresto hostilizado, incide na pretensão o óbice da Súmula 13 do STJ.
+5. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça , por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por [NOME], [NOME], MANOEL MORENO BILTGE, MARIA APARECIDA MARTINS DA [NOME] GOBBETTI, MARINA FRANCO DA ROCHA, MAXIMINO FERNANDES FILHO, NELSON BENOTI, [NOME] FRANCISCO DELLA PASCOA, [NOME], OSMAR POVOA, [NOME], ROBERTO SIQUEIRA, [NOME], [NOME], VICENTE ROQUE CERAVOLO, NAZARETH KECHICHIAN NETO, DANILO ALONSO MAESTRE FILHO, ADOLPHO TIOSSI BERNARDES JUNIOR, [NOME], ALENCAR LOPES DA [NOME], [NOME], ANTONIO GUIRAO, CACILANDO NERES DE ALMEIDA, [NOME], DEMÉTRIO HOSSNE, FERNANDO SHIGUEMI TAMURA, FERNÃO DE OLIVEIRA SANTOS, GAUDENCIO TEODORO DA [NOME], HERALDO SERGIO POSSEBON e HERCÍLIO MARCELO DE LIMA contra decisão de minha lavra, proferida às e-STJ fls. 208/210, em que conheci do agravo para não conhecer do recurso especial em virtude da incidência das Súmulas 7 e 13 do STJ e 280 do STF, bem como da falta de juntada do inteiro teor dos acórdão paradigmáticos e ausência de cotejo analítico.
+Aduz a parte agravante que os óbices sumulares aludidos são inaplicáveis ao caso e que atendeu às exigências legais e regimentais necessárias à comprovação do dissenso pretoriano.
+Requer, assim, a reconsideração ou reforma da decisão atacada para que seja provido o recurso especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Primeiramente, registre-se que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Na presente hipótese, este recurso ataca decisão proferida no julgamento de apelo nobre interposto ainda sob a égide do CPC/1973.
+Feitas essas considerações, observa-se que o presente agravo não merece prosperar.
+Com efeito, consoante explicitado no decisum ora recorrido, o aresto hostilizado entendeu que, ante os critérios previstos na legislação estadual de regência da vantagem pretendida, é necessário simples cálculo aritmético para determinação do valor da causa (e-STJ fl. 121).
+Assim, verifica-se no acórdão recorrido que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ademais, a revisão das razões de decidir do acórdão recorrido, nesse aspecto, também encontra óbice na Súmula 280 do STF.
+Quanto ao mais, é inviável a apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional) quando o recorrente não demonstra o alegado dissídio por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado e c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação. Nesse sentido: AgRg no REsp 1.558.877/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/02/2016; AgRg no AREsp 752.892/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 04/11/2015.
+No presente caso, a parte recorrente não juntou o inteiro teor dos julgados paradigmáticos e deixou de realizar o cotejo analítico, não atendendo, portanto, aos pressupostos específicos para a configuração do dissenso jurisprudencial, previstos nos arts. 541, parágrafo único, do Código de Processo Civil, e 255, §§ 1º e 2º, do RISTJ.
+Note-se, também, que sendo os acórdãos paradigmáticos oriundos do mesmo Tribunal prolator do aresto hostilizado (e-STJ fls. 130/131), incide na pretensão o óbice da Súmula 13 do STJ.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao presente agravo interno.
+É como voto.
