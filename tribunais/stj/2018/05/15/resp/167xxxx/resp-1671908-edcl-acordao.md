@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO. PRAZO PRESCRICIONAL QUINQUENAL. LEI COMPLEMENTAR 118/2005. OFENSA AO ART. 1.022 DO CPC CONFIGURADA. EXISTÊNCIA DE CONTRADIÇÃO. ACLARATÓRIOS ACOLHIDOS.
+1. No caso dos autos, houve contradição quanto à fixação do prazo prescricional, que configura matéria relevante para o deslinde da controvérsia. Vislumbra-se obscuridade e erro material na decisão embargada porque, apesar de tomar como base a nova regra de contagem do prazo prescricional de indébito tributário instituída pela LC 118/2005 (prescrição quinquenal), entendeu pela aplicação do prazo decenal.
+2. Portanto, os Embargos merecem ser acolhidos porque, no caso dos autos o prazo deve ser quinquenal conforme entendimento do RE 561.908/RS substituído pelo RE 566.621/RS, submetido ao regime de repercussão geral, em que se reconheceu a inconstitucionalidade do art. 4.º, segunda parte, da Lei Complementar 118/2005, considerando válida a aplicação do novo prazo de 5 (cinco) anos apenas às ações ajuizadas a partir de 9 de junho de 2005. No caso dos autos, a ação foi ajuizada em 13 de março de 2014. Portanto, devem ser consideradas prescritas as parcelas anteriores a 13 de março de 2009.
+3. Embargos de Declaração acolhidos, com efeitos integrativos, para determinar a aplicação do prazo prescricional quinquenal.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, acolheu os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração nos Embargos de Declaração contra acórdão da Segunda Turma do STJ, com a seguinte ementa:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. PRESCRIÇÃO. IMPOSTO DE RENDA SOBRE COMPLEMENTAÇÃO DE PROVENTOS DE APOSENTADORIA. ENTIDADE DE PREVIDÊNCIA PRIVADA. RELAÇÃO DE TRATO SUCESSIVO. INÍCIO DO LUSTRO PRESCRICIONAL. PREQUESTIONAMENTO PARA FINS DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INVIABILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+2. A questão posta à apreciação nos autos ficou pacificada no âmbito do STJ após o julgamento do Recurso Especial 1.012.903/RJ, pelo rito dos recursos repetitivos, art. 543-C do CPC, da lavra do Ministro Teori Albino Zavascki. Naquela oportunidade, a Primeira Seção do Superior Tribunal de Justiça firmou o entendimento de que, por força da isenção concedida pelo art. 6º, VII, "b", da Lei 7.713/1988, na redação anterior à que lhe foi dada pela Lei 9.250/1995, é indevida a cobrança de Imposto de Renda sobre o valor da complementação de aposentadoria e o do resgate de contribuições correspondentes a recolhimentos para entidade de previdência privada, ocorridos no período de 1º.1.1989 a 31.12.1995.
+3. Conforme salientado pelo eminente Ministro Og Fernandes: "Nas obrigações de trato sucessivo, que se renovam mês a mês, como no caso em apreço, em que se trata das prestações mensais do benefício de complementação de aposentadoria, o termo inicial do prazo quinquenal para se pleitear a restituição do imposto de renda retido na fonte sobre a complementação de aposentadoria segue a mesma sistemática".
+4. Sob pena de invasão da competência do STF, descabe analisar questão constitucional em Recurso Especial, ainda que para viabilizar a interposição de Recurso Extraordinário.
+5. Embargos de Declaração rejeitados.
+Em síntese, o embargante alega:
+Ocorre, porém, que o acórdão dos embargos de declaração incorreu em omissão e obscuridade, pois simplesmente não analisou a questão posta pela Fazenda Nacional, ou a analisou de forma contraditória.
+Com efeito, a Fazenda Nacional alegou que o ajuizamento da ação de repetição de indébito ocorreu em data posterior à Lei Complementar nº 118, de 2005, devendo ser aplicável, portanto, o prazo prescricional de 5 anos.
+Ocorre que o acórdão embargado, e o acórdão anterior a este, aplicaram o prazo prescricional de 10 anos, mesmo entendendo pela incidência do RE 561908 e RE 566621, julgados em repercussão geral.
+Ou seja, o acórdão entendeu que o prazo aplicável seria de 5 anos, mas aplicou o prazo de 10 anos, incorrendo em erro material e obscuridade.
+Sendo assim, requer a FAZENDA NACIONAL sejam conhecidos e providos os presentes EMBARGOS DE DECLARAÇÃO para sanar a omissão e a obscuridade apontadas e proceder-se à análise da aplicabilidade do prazo prescricional de 5 anos.
+Houve impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 2 de março de 2018.
+Assiste razão à Fazenda Nacional.
+De fato, houve contradição quanto à fixação do prazo prescricional, que configura matéria relevante para o deslinde da controvérsia.
+Ocorre que se vislumbra obscuridade e erro material na r. decisão porque, apesar de tomar como base a nova regra de contagem do prazo prescricional de indébito tributário instituída pela LC 118/2005 (prescrição quinquenal), entendeu pela aplicação do prazo decenal, havendo ainda erro material no tocante ao dia e ao mês, totalmente divergentes da data de ajuizamento.
+Isso porque, no caso dos autos o prazo deve ser quinquenal conforme entendimento do RE 561.908/RS substituído pelo RE 566.621/RS, submetido ao regime de repercussão geral, em que se reconheceu a inconstitucionalidade do art. 4.º, segunda parte, da Lei Complementar 118/2005, considerando válida a aplicação do novo prazo de 5 (cinco) anos apenas às ações ajuizadas a partir de 9 de junho de 2005. No caso dos autos, a ação foi ajuizada em 13 de março de 2014. Portanto, devem ser consideradas prescritas as parcelas anteriores a 13 de março de 2009.
+Diante do exposto, acolho os presentes Embargos de Declaração, com efeitos integrativos, para determinar a aplicação do prazo prescricional quinquenal conforme fundamentação supra.
+É como voto.
