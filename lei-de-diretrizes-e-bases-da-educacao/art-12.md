@@ -7,3 +7,5 @@ V - prover meios para a recuperação dos alunos de menor rendimento;
 VI - articular-se com as famílias e a comunidade, criando processos de integração da sociedade com a escola;
 VII - informar pai e mãe, conviventes ou não com seus filhos, e, se for o caso, os responsáveis legais, sobre a frequência e rendimento dos alunos, bem como sobre a execução da proposta pedagógica da escola;
 VIII - notificar ao Conselho Tutelar do Município, ao juiz competente da Comarca e ao respectivo representante do Ministério Público a relação dos alunos que apresentem quantidade de faltas acima de cinqüenta por cento do percentual permitido em lei.
+IX - promover medidas de conscientização, de prevenção e de combate a todos os tipos de violência, especialmente a intimidação sistemática (bullying), no âmbito das escolas;
+X - estabelecer ações destinadas a promover a cultura de paz nas escolas.
