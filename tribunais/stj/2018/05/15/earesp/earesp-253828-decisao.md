@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de divergência em agravo em recurso especial opostos por [NOME] contra acórdão proferido pela Sexta Turma assim ementado:
+"AGRAVO REGIMENTAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. PENAL. PROCESSUAL PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º DA LEI N. 8.137/1990. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. FALTA DE UTILIDADE. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. DOLO ESPECÍFICO. DESNECESSIDADE. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. ACÓRDÃO FUNDADO NOS ELEMENTOS DE PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. ALTO VALOR SONEGADO QUE JUSTIFICA A EXASPERAÇÃO DA PENA-BASE. PRECEDENTES.
+1. Não há como abrigar agravo regimental que não logra desconstituir os fundamentos da decisão atacada.
+2. Deixou o recorrente de infirmar o fundamento do acórdão de que não ficou demonstrada a utilidade da diligência, diante do entendimento da Corte Regional no tocante à necessidade somente de haver dolo genérico para se configurar o tipo penal previsto no art. 1º da Lei n. 8.137/1990.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que os delitos tipificados no art. 1º da Lei n. 8.137/90 são materiais, dependendo, para a sua consumação, da efetiva ocorrência do resultado, não necessitando, porém, para sua caracterização, da presença do dolo especifico.
+4. A inversão do que ficou decidido, como pretendido pelo recorrente, demandaria o reexame do acervo fático-probatório constante dos autos, providência que contraria a Súmula 7/STJ.
+5. É da jurisprudência do Superior Tribunal de Justiça o entendimento de que as referências à obtenção de lucro e à existência de prejuízo, para o acréscimo da sanção, são igualmente indevidas, pois tais questões são inerentes ao próprio tipo penal. No entanto, o montante do lucro obtido, tido por elevado, é fundamento concreto que justifica o aumento da pena-base.
+6. Agravo regimental improvido."
+O embargante aponta divergência sobre o direito de ter sua ação penal suspensa. Indica como paradigma o REsp 705.011/PR da Quinta Turma.
+Sustenta que o aresto paradigma concluiu pela "possibilidade de suspensão da ação penal mesmo após o recebimento da denúncia e até mesmo em sede de recurso especial", na hipótese de parcelamento da dívida tributária.
+Requer, assim, o acolhimento dos embargos para que prevaleça o entendimento firmado no aresto paradigmático.
+É o relatório.
+Decido.
+Nos termos do art. 266 do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência objetivam uniformizar os julgados, em recurso especial, entre os seus órgãos fracionários.
+Como cediço, para a comprovação da divergência, devem os acórdãos em confronto, partindo de quadro fático semelhante, ou assemelhado, adotar posicionamento dissonante quanto ao direito federal aplicável. Os embargos de divergência em recurso especial, ao tempo em que solucionam a lide, têm por finalidade possibilitarem ao Superior Tribunal de Justiça que resolva a discordância existente entre seus órgãos fracionários na interpretação de lei federal, com objetivo de uniformização da jurisprudência interna corporis.
+No caso em exame, inexiste similitude fática hábil a autorizar o conhecimento dos embargos de divergência. Isso porque a matéria relativa à "possibilidade de suspensão da ação penal mesmo após o recebimento da denúncia e até mesmo em sede de recurso especial" suscitada nas razões destes embargos sequer foi examinada pelo acórdão embargado, o que faz emergir a ausência de prequestionamento do tema.
+Ademais, o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência das Súmulas 283 do STF, 7 e 83 do STJ. Tal situação impede, por si só, o conhecimento da presente via de impugnação, uma vez que não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, nos termos da Súmula 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+ Nesse sentido, os seguintes julgados:
+"AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AGRAVO EM RECURSO ESPECIAL. SÚMULA 315/STJ. INCIDÊNCIA. ACÓRDÃO EMBARGADO QUE NÃO ULTRAPASSOU O JUÍZO DE ADMISSIBILIDADE. DIVERGÊNCIA NÃO CONFIGURADA. RECURSO IMPROVIDO.
+1. Segundo a jurisprudência pacífica da Corte Especial deste Sodalício, somente são cabíveis embargos de divergência, em sede de agravo em recurso especial, quando o agravo é conhecido e julgado o apelo nobre.
+ 2. Ademais, conforme entendimento consolidado neste Superior Tribunal de Justiça, são incabíveis embargos de divergência entre acórdão embargado no qual não se ultrapassou o juízo de admissibilidade e julgado paradigma que analisou o mérito da demanda.
+3. No caso em exame, o acórdão embargado, oriundo da Quarta Turma, confirmou decisão singular que negou provimento ao agravo em recurso especial aplicando a Súmula n. 182/STJ.
+4. Agravo interno improvido." (AgInt nos EDcl nos EAREsp 70.824/SP, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 15/06/2016, DJe 29/06/2016).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INADMITIDOS.ENUNCIADO N. 315 DA SÚMULA DESTA CORTE. PARADIGMAS PROFERIDOS EM SEDE DE HABEAS CORPUS. DIVERGÊNCIA NÃO CARACTERIZADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial (Enunciado n. 315 da Súmula desta Corte).2. Acórdãos proferidos em julgamento de habeas corpus não se prestam para caracterizar a divergência. Precedentes.Agravo regimental desprovido.(AgRg nos EAREsp 933.529/SP, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 09/11/2016, DJe 17/11/2016).
+Anote-se, por fim, que não se pode admitir a utilização dos embargos de divergência como nova via recursal para reformar eventuais entendimentos desfavoráveis aos recorrentes (AgRg nos EREsp 1.424.847/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA SEÇÃO, julgado em 13/8/2014, DJe 20/8/2014).
+Ante o exposto, com fundamento no art. 266-C do RISTJ, inadmito liminarmente os embargos.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Sem recurso, arquivem-se os autos.
