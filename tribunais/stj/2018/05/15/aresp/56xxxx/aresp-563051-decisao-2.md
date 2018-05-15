@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por INTERMÉDICA SISTEMA DE SAÚDE S.A. contra decisão que negou seguimento a recurso especial com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, impugnando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 453, e-STJ):
+Indenização por danos materiais e morais e pensão vitalícia. Recém-nascido com 26 semanas de gestação. Mau estado geral do bebê. Óbito ocorrido após 8 horas de vida. Indispensabilidade de remoção para outro hospital não ficou caracterizada. Prova técnica não identificou irregularidade nos procedimentos médicos. Pretensão de nova perícia sem respaldo. Hospital réu, que também é maternidade, não possuía UTI neonatal Prestação de serviço se apresenta incompleta. "Teoria da perda de uma chance" deve ter destaque. Falta do equipamento dá respaldo para a indenização por danos morais. Verba reparatória compatível com as peculiaridades da demanda. Danos materiais não configurados. Agravo retido e apelos desprovidos.
+Nas razões do recurso especial, a agravante aponta, além de dissídio jurisprudencial, ofensa aos arts. 186 do Código Civil e 944 do Código de Processo Civil de 1973.
+Sustenta, em síntese, ter realizado todos os procedimentos de forma correta, assegurando a preservação da vida materna e do feto, embora ambos em risco.
+Aduz que os agravados não sofreram qualquer dano em decorrência do atendimento prestado ao recém-nascido falecido, não havendo obrigação de indenizar.
+Busca o afastamento da condenação ao pagamento de danos morais e a aplicabilidade da teoria da perda de uma chance, por não ter havido qualquer insuficiência na prestação dos serviços e ante a dificuldade de manter a vida de crianças nascidas com menos de 28 (vinte e oito) semanas de gestação.
+Por fim, afirma não haver qualquer plausibilidade na alegação de que a existência de leito em UTI Neonatal afastaria o óbito do recém-nascido.
+Em caso de manutenção da condenação, pugna pela minoração da indenização arbitrada.
+Contrarrazões às fls. 605-619 (e-STJ).
+O recurso não foi admitido na origem, nos termos da decisão de fls. 621-622 (e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+No que se refere à indenização por danos morais imposta à agravante, bem como ao valor fixado, o Tribunal de origem assim entendeu (fls. 458-459, e-STJ):
+ 4. De outra banda, o hospital em questão é uma maternidade, portanto, deveria ter como equipamento básico UTI neonatal, porém, naquela oportunidade, não havia disponibilidade do referido suporte, por conseguinte, a ré deve responder pelos prejuízos causados ao polo ativo.
+ Destarte, aplicável ao caso em exame o que a doutrina chama de Teoria da perda de uma chance, ou seja, o polo passivo poderia proporcionar ao recém-nascido os dispositivos científicos, a fim de que viesse eventualmente a superar as adversidades decorrentes do parto prematuro, no entanto, a falta da UTI neonatal evidencia a insuficiência na prestação de serviço.
+  ..
+ 5. Desta maneira, a indenização por danos morais arbitrada no importe de R$ 20.000,00 se mostra compatível com as peculiaridades da demanda, haja vista que a autora é pessoa que exerce atividade com remuneração não significativa, tanto que é beneficiária de gratuidade de justiça, como demonstra a interlocutória de fls. 68.
+ A verba fixada afasta o enriquecimento sem causa em relação ao polo ativo, bem como tem aspecto pedagógico para que a ré se aparelhe adequadamente, a fim de prestar serviços compatíveis com a sua função social, isto é, não reitere o procedimento irregular.
+Dessa forma, melhor sorte não socorre à agravante, uma vez que a jurisprudência do Superior Tribunal de Justiça somente admite o reexame do valor fixado a título de indenização por danos morais, em caráter excepcional, em recurso especial, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade. Destaque-se a modificação do julgado no ponto, revela-se inviável em razão do óbice erigido pela Súmula 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. DANOS MORAIS. ACIDENTE QUE LEVOU A ÓBITO O FILHO DA RECORRIDA. RESPONSABILIDADE DA CONCESSIONÁRIA DEMONSTRADA. NÃO CONFIGURADA A CULPA EXCLUSIVA DA VÍTIMA. INCIDÊNCIA DA SÚMULA 7/STJ. 2. MONTANTE INDENIZATÓRIO. PRETENSÃO DE REDUÇÃO. SÚMULA 7/STJ. 3. AGRAVO INTERNO DESPROVIDO. 1.
+A modificação da conclusão delineada no acórdão recorrido - acerca da demonstração da responsabilidade da concessionária de serviço público e do consequente dever de indenizar - demandaria necessariamente o revolvimento dos fatos e das provas dos autos, atraindo, assim, o óbice disposto na Súmula 7/STJ.
+2. O quantum indenizatório arbitrado na instância ordinária, a título de danos morais, só pode ser examinado nesta Corte nos casos em que o valor indenizatório for irrisório ou exorbitante, o que não ocorre no caso dos autos, haja vista que os princípios da proporcionalidade e da razoabilidade foram observados. Incidência da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.148.757/PB, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15.3.2018, DJe 23.3.2018).
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO - AÇÃO CONDENATÓRIA - DANOS MATERIAIS E MORAIS EM RAZÃO DE ACIDENTE AUTOMOBILÍSTICO - FALECIMENTO DO ENTE QUERIDO ACIDENTADO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS.
+ ..
+2. No mais, a pretensão recursal esbarra na Súmula nº 7 desta Corte Superior. Não há, pois, como rever o valor da indenização por danos morais, arbitrado na origem, se esse não se revelar irrisório ou exorbitante, como no presente caso.
+3. A incidência da Súmula nº 7 do STJ impede o exame de dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+4. Agravo interno desprovido.
+(AgInt no Ag 1.389.232/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15.3.2018, DJe 23.3.2018).
+Ademais, a alteração das premissas firmadas pela Corte estadual quanto ao reconhecimento do dever de indenizar por parte da recorrente, em razão da aplicação da teoria da perda de uma chance, por ausência de aparelhagem que pudesse dar suporte ao recém-nascido falecido, esbarraria na vedação de reexame do conjunto fático-probatório em recurso especial contida na Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
