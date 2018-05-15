@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de conflito negativo por iniciativa do Juízo da 69ª Vara do Trabalho em São Paulo em face do Juízo de Direito da 4ª Vara Cível da mesma capital, relativamente à ação de preceito cominatório de obrigação de não fazer proposta pelo Sindicato dos Despachantes Aduaneiros - SINDASP, em desfavor de DHL Global Forwarding (Brasil) Logistics Ltda.
+A entidade sindical pretende que a ré se abstenha de ofertar propostas comerciais sem o pagamento dos honorários dos despachantes aduaneiros e de celebrar contratos de prestação de serviços próprios da categoria sem a previsão daquela verba.
+O Juízo estadual a quem originalmente distribuído o feito declinou da competência em favor da Justiça do Trabalho por entender que o sindicato atua na defesa dos interesses da categoria profissional (fls. 220/221).
+O Juízo do Trabalho suscitou o presente conflito, ao fundamento de que a inicial veicula pretensão relativa ao exercício e à divulgação das práticas comerciais pela ré (fls. 438/439).
+Instado a se manifestar, opinou o Ministério Público Federal pela competência da Justiça estadual para o processamento e julgamento da causa (fls. 449/453).
+Assim delimitada a controvérsia, necessário consignar que a competência se fixa em razão da causa de pedir e do pedido formulado na inicial que, na hipótese em comento, refere-se a matéria eminentemente de cunho civil.
+Com efeito, pretende a entidade sindical que a ré suspenda a oferta de serviços próprios da categoria profissional, inclusive porque a oferta não inclui os honorários previstos em lei.
+Em vista disso, não se trata de ação que discute a representatividade da categoria pelo sindicato, da qual evidentemente seria réu, mas do questionamento quanto à eventual usurpação de atividade profissional exercida por seus afiliados, devendo ser apreciada pela Justiça comum, mesmo após a edição da EC 45/2004. Nesse sentido, precedentes da Segunda Seção:
+Conflito Negativo de Competência. Ação de Indenização. Sindicato. Uso indevido de nomenclatura.
+1. O autor postula indenização decorrente do uso indevido de nomenclatura, o que teria ocasionado prejuízos na atividade do sindicato. Não trata a hipótese de ação sobre representação sindical, mas indenizatória de prejuízos materiais e morais, o que afasta a incidência do artigo 114, III, da Constituição Federal, já na vigência da Emenda Constitucional nº 45/04. Também não se pode aplicar à espécie o inciso VI do artigo acima citado, tendo em vista que a ação de indenização em apreço não decorre de disputa entre empregador e empregado, inexistindo controvérsia envolvendo relação de trabalho, mas, sim, lide de natureza exclusivamente cível.
+2. Conflito conhecido para declarar a competência do Juízo de Direito da 8ª Vara Cível de Guarulhos/SP.
+(CC 52.295/SP, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, unânime, DJU de 15.3.2006)
+CONFLITO DE COMPETÊNCIA. DANO MORAL. OFENSA A DIRIGENTES DE SINDICATO. Ainda que as ofensas resultem da atuação dos ofendidos enquanto dirigentes de sindicato, a competência para processar e julgar a ação não é da Justiça do Trabalho. Competência do Juízo de Direito do Primeiro Juizado Especial Cível de Vitória, ES.
+(CC 87.180/ES, Rel. Ministro ARI PARGENDLER, unânime, DJU de 10.12.2007)
+A redação da ementa do CC 126.437/RS bem distingue as situações:
+CONFLITO NEGATIVO DE COMPETÊNCIA. FEDERAÇÃO. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS EM FACE DE EX-DIRIGENTES. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. A jurisprudência desta Corte Superior é no sentido de que "compete à Justiça Comum o julgamento da ação de prestação de contas entre sindicato e dirigente sindical, quando não houver qualquer questionamento sobre a representatividade da categoria ou relação trabalhista" (CC 103192/SP, Rel. Ministro HONILDO AMARAL DE MELLO CASTRO (DESEMBARGADOR CONVOCADO DO TJ/AP), SEGUNDA SEÇÃO, julgado em 24/02/2010, DJe 03/03/2010).
+2. Só compete à Justiça do Trabalho processar e julgar as ações sobre representação sindical, entre sindicatos, entre sindicatos e trabalhadores, e entre sindicatos e empregadores (art. 114, inciso III, da Constituição Federal).
+3. No presente caso, a Federação Nacional de Enfermeiros busca apenas a exibição de documentos que estariam em poder das dirigentes eleitas para a gestão 2007/2010, não havendo qualquer discussão aceca da representatividade da categoria profissional, o que evidencia a competência da Justiça Comum para o processamento e julgamento da demanda.
+4. Conflito conhecido para declarar a competência do Juízo de Direito da 2ª Vara Cível de Porto Alegre/RS, o suscitado.
+(Primeira Seção, Rel. Ministro MAURO CAMPBELL MARQUES, unânime, DJe de 3.9.2013)
+Depreende-se a partir disso que apenas quando houver dúvida acerca de a entidade representar ou não a categoria profissional é que a Justiça do Trabalho é chamada a decidir, questão que aqui não se apresenta.
+Em face do exposto, conheço do conflito para declarar competente o Juízo de Direito da 4ª Vara Cível de São Paulo, SP.
+Comunique-se. Intimem-se.
