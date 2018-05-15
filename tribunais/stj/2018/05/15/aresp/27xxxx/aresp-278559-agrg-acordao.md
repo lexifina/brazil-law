@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. DECISÃO RESCINDENDA. ART. 485, V, DO CPC/1973.
+1. A ação rescisória, fundada no art. 485, V, do CPC/1973, pressupõe a violação frontal e direta do conteúdo normativo de dispositivo legal. Precedentes.
+2. A conclusão adotada pelo acórdão ao qual se busca a rescisão não se revela manifestamente teratológica ou contrária aos dispositivos legais indicados como frontalmente ofendidos.
+3. Não é cabível a ação rescisória para reapreciar as provas ou analisar a sua correta aplicabilidade à hipótese. Precedentes.
+4. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Terceira Turma, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Aurélio Bellizze (Presidente), Moura Ribeiro, Nancy Andrighi e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de agravo regimental interposto por [NOME] contra a decisão que conheceu do agravo para negar seguimento ao recurso especial sob o fundamento de que o recorrente deixou de demonstrar, de forma objetiva, a violação do artigo 485, V, do Código de Processo Civil de 1973.
+Nas razões recursais (fls. 130-139 e-STJ), o ora agravante sustenta que a negativa de vigência ao referido dispositivo legal "restou caracterizada quando o acórdão recorrido deixou de processar a ação rescisória, e por isso, em juízo rescindendo, permitir a rescisão do acórdão transitado em julgado que violou literal de dispositivos de lei" (fl. 134 e-STJ).
+Assevera que o acórdão ao qual se busca a rescisão violou frontalmente o art. 1.017 do Código Civil de 2002 (CC/2002), haja vista ser o agravado parte manifestamente ilegítima para postular indenização por supostos danos causados à pessoa jurídica (RUADIGON DO BRASIL ACOPLAMENTOS LTDA.), que tem personalidade própria, distinta dos sócios, dos administradores e dos procuradores.
+Acrescenta que, "nada obstante a determinação legal, o agravo ingressou com ação indenizatória em nome próprio para cobrar supostos débitos da sociedade empresária" (fl. 136 e-STJ).
+Aduz, ainda, que o acolhimento da pretensão recursal não demanda o reexame do conjunto fático-probatório.
+Por fim, requer a reconsideração da decisão agravada ou o provimento do presente recurso pelo órgão colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): A irresignação não merece prosperar.
+Na origem, NELSON [NOME] (ora agravante) propôs ação rescisória contra [NOME] (ora agravado) com o objetivo de rescindir o acórdão proferido pelo tribunal de origem que julgou parcialmente procedente o pedido formulado em autos de ação indenizatória (fls. 1-11 e-STJ).
+A Corte local indeferiu a petição inicial sob o fundamento de que o autor pretendeu utilizar a referida ação como "sucedâneo de contestação e de recurso de apelação que poderiam ter sido apresentados oportunamente, no processo próprio, no qual o ora agravante, quedou-se revel" (fl. 246 e-STJ).
+No recurso especial, o ora agravante alegou violação dos artigos 3º, 6º e 267, VI, e 535, II, do CPC/1973. Sustentou, em síntese, que o acórdão recorrido não se manifestou acerca da alegada ilegitimidade do ora agravado para figurar no polo ativo da pretérita ação indenizatória. Aduziu que "o que se pretende com a ação é a rescisão do acórdão transitado em julgado que violou os arts. 3º, 6º e 267, VI do CPC, ao não reconhecer a manifesta ilegitimidade do recorrido para propor ação em nome próprio buscando direito da empresa da qual é sócio" (fls. 46-57 e-STJ).
+Para esclarecer a questão controvertida, eis o seguinte excerto do aresto proferido pelo tribunal de origem:
+"(..) Não assiste razão ao agravante, tendo em vista os fundamentos esposados serem insuficientes para modificar a decisão monocrática, tanto mais que a decisão afastou a violação à literal disposição de lei dos artigos 3º, 6º e 267, VI do CPC e, ainda, ressalvou a legitimidade do autor da ação indenizatória para demandar contra o réu, por força do contrato de mandato havido entre as partes, considerando que o autor outorgou todos os poderes e responsabilidades perante a administração da empresa ao réu, que, por sua vez, exorbitou dos poderes que lhe foram confiados, dando causa ao ingresso da ação indenizatória, na condição de proprietário da empresa Ruadigon do Brasil Acomplamentos Ltda, sendo parte legítima. (..)
+No caso, a ação rescisória não constitui sucedâneo recursal, e o simples inconformismo com a decisão judicial é insuficiente para rescindi-la, na medida em que deve resultar cabalmente demonstrada a ocorrência de alguma das hipóteses taxativamente previstas no art. 485 do CPC, para que se possa desconstituir a coisa julgada, garantida constitucionalmente (art. 5º, inc. XXXVI, CF/88).
+Faz-se necessário que a interpretação dada pelo acórdão seja de tal modo aberrante que viole o dispositivo legal em sua literalidade, sob pena de tornar-se recurso ordinário com prazo de interposição de dois anos (RSTJ, 93/146), o que não ocorreu no caso concreto.
+No caso concreto não há violação à literal disposição de lei dos artigos 3º, 6º e 267, VI do CPC, sendo importante mencionar que o autor da ação indenizatória era proprietário da empresa Ruadigon do Brasil Acomplamentos Ltda, sendo parte legítima para demandar contra o réu, por força do contrato de mandato havido entre as partes, considerando que o autor outorgou todos os poderes e responsabilidades perante a administração da empresa ao réu, que, por sua vez, exorbitou dos poderes que lhe foram confiados, dando causa ao ingresso da ação indenizatória.
+Não se estando diante de hipótese de ferimento à coisa julgada, ou de caso de interpretação aberrante ou extravagante de texto legal, inviável o conhecimento e acolhimento da rescisória pelos fundamentos invocados.
+Induvidoso de que o autor tenta utilizar a estreita via da ação rescisória como sucedâneo recursal, o que leva à inépcia da inicial" (fls. 21-24 e-STJ - grifou-se).
+Segundo a jurisprudência desta Corte, a ação rescisória, fundada no art. 485, V, do CPC/1973, pressupõe a violação frontal e direta do conteúdo normativo do dispositivo legal (REsp 1.202.275/MA, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/11/2015, DJe 16/11/2015).
+No caso, o acórdão ora impugnado destacou expressamente a legitimidade do ora agravado para propor a ação indenizatória, haja vista a existência do contrato de mandato celebrado entre as partes litigantes e o reconhecido descumprimento das obrigações assumidas pelo ora agravante (mandatário), que exorbitou dos poderes que lhes foram confiados.
+Nesses termos, aquele que tem o seu direito violado pelo outro contratante é parte legítima para buscar, na via judicial, a satisfação da obrigação. Portanto, a conclusão adotada pelo acórdão ao qual se busca a rescisão não se revela manifestamente teratológica ou contrária aos dispositivos legais indicados como frontalmente ofendidos (arts. 3º, 6º e 267, VI, do CPC/1973).
+Além disso, a questão acerca da legitimidade ativa foi analisada com base nas provas produzida nos autos, especialmente a partir do negócio jurídico (contrato de mandato) entabulado entre as partes. Todavia, não é cabível a ação rescisória para reapreciar as provas ou analisar a sua correta aplicabilidade à hipótese.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. ART. 485 DO CPC/1973. REQUISITOS. VIOLAÇÃO FRONTAL E DIRETA. NÃO OCORRÊNCIA. PRESCRIÇÃO. ARESTO RESCINDENDO. ANÁLISE. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. A viabilidade da ação rescisória por ofensa de literal disposição de lei pressupõe violação frontal e direta contra a literalidade da norma jurídica, sendo inviável, nessa seara, a reapreciação das provas produzidas ou a análise acerca da correção da interpretação dessas provas pelo acórdão rescindendo.
+2. O tribunal estadual julgou improcedente o pedido da ação rescisória, tendo em vista a prescrição haver sido discutida no aresto rescindendo de modo fundamentado. Inviável rever tal entendimento, a teor do óbice da Súmula nº 7/STJ.
+3. Agravo interno não provido."
+(AgInt no AREsp 314.560/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 7/2/2017, DJe 14/2/2017)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. AÇÃO RESCISÓRIA. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI. HIPÓTESE NÃO CONFIGURADA. PRETENSÃO DE REAVALIAÇÃO DE PROVA. VIOLAÇÃO DOS ARTS. 165 E 458 DO CÓDIGO DE PROCESSO CIVIL DE 1973 NÃO VERIFICADA.
+1. A jurisprudência desta Corte firmou o entendimento de que a ação rescisória não se presta a apreciar a boa ou má interpretação dos fatos, ao reexame da prova produzida ou a sua complementação.
+(..)
+3. Agravo interno a que se nega provimento."
+(AgRg nos EDcl no Ag 1.090.223/GO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/8/2017, DJe 21/8/2017)
+Por fim, como explicitado na decisão ora agravada, a revisão das conclusões do acórdão recorrido encontra óbice na Súmula nº 7/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
