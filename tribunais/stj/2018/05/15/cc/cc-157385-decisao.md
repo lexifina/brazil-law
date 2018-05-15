@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 2ª Vara de Itaperuna/RJ (suscitante) e o Juízo Federal da Vara de Itaperuna -SJ/RJ, nos autos de ação de auxílio-doença.
+Na hipótese, o Juízo Suscitante destacou que "no tocante à competência, imperioso consignar que estas devem ser analisadas com base nos termos da exordial, ou seja, deve ser determinada em razão do pedido e da causa de pedir", acrescentando que "do compulsar dos autos, verifica-se que não há como depreender-se que o acidente sofrido pelo autor foi de fato relacionado ao trabalho por ele exercido, eis que o perito judicial concluiu que a lesão não foi decorrente de acidente de trabalho" (e-STJ fls. 2/3).
+O Ministério Público Federal opinou pela competência do juízo suscitado (e-STJ fls. 172/173), em parecer que possui a seguinte fundamentação (e-STJ fls. 173):
+No presente caso, verifica-se que o laudo pericial, em resposta aos quesitos "b"; "c" e "d", os quais tratam da natureza acidentária das lesões/enfermidades (fls. 58), consignou não se tratar de acidente de trabalho .
+O Eg. STJ possui entendimento de que não se tratando de acidente de trabalho a competência é da Justiça Federal, de acordo com o art. 109, I, da Constituição Federal. Cito precedente:
+PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. PEDIDO E CAUSA DE PEDIR. JUSTIÇA FEDERAL. COMPETÊNCIA.
+1. A competência ratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo questão anterior a qualquer outro juízo sobre a causa.
+2. Hipótese de ação ajuizada perante a Justiça Federal por segurado que postula o restabelecimento de auxílio-doença ou a concessão de aposentadoria por invalidez, sem nenhuma referência no tocante à existência de doença profissional ou relacionada à atividade desenvolvida que justifique a aplicação do art. 20 da Lei n. 8.213/1991. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no CC 148.508/BA, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 28/06/2017, DJe 06/09/2017)
+CONCLUSÃO
+Do exposto, o parecer é pelo conhecimento do conflito, para declarar competente o Juízo Federal da Vara de Itaperuna, ora suscitado.
+Passo a decidir.
+A competência ratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo esta caracterizada pelo pedido e pela causa de pedir.
+A propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. DEMANDA DEDUZINDO PEDIDOS PARA CONCESSÃO DE BENEFÍCIOS PREVIDENCIÁRIOS. COMPETÊNCIA ESTABELECIDA LEVANDO-SE EM CONSIDERAÇÃO OS TERMOS DA PETIÇÃO INICIAL. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A definição da competência para a causa se estabelece levando em consideração os termos da demanda (e não a sua procedência ou improcedência, ou a legitimidade ou não das partes, ou qualquer outro juízo a respeito da própria demanda). O juízo sobre competência é, portanto, lógica e necessariamente, anterior a qualquer outro juízo sobre a causa. Sobre ela quem vai decidir é o juiz considerado competente (e não o Tribunal que aprecia o conflito). Não fosse assim, haveria uma indevida inversão na ordem natural das coisas: primeiro se julgaria (ou pré-julgaria) a causa e depois, dependendo desse julgamento, definir-se-ia o juiz competente (que, portanto, receberia uma causa já julgada, ou, pelo menos, pré-julgada). Precedentes: CC 51.181-SP, 1ª Seção, Min. Teori Albino Zavascki, DJ de 20.03.2006; AgRg no CC 75.100-RJ, 1ª Seção, Min. Teori Albino Zavascki, DJ de 19.11.2007; CC 87.602-SP, 1ª Seção, Min. Teori Albino Zavascki, DJ de 22.10.2007.
+2. No caso, a autora ajuizou, em face do INSS, pedidos para concessão de benefícios previdenciários (e não de natureza acidentária). Nos termos como proposta, a causa é da competência da Justiça Federal.
+3. Conflito conhecido e declarada a competência da Justiça Federal, a suscitada.
+(CC 121.013/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, julgado em 28/03/2012, DJe 03/04/2012).
+No presente caso, conforme se verifica do pedido constante da petição inicial da ação subjacente ao presente conflito (e-STJ fls. 26/30), o benefício previdenciário pleiteado não tem origem em acidente de trabalho ou mesmo relação de causalidade com a atividade laboral da parte interessada.
+A respeito da matéria, vale ressaltar que, consoante as Súmulas 15 do STJ e 501 do STF, compete à Justiça Estadual processar e julgar os litígios decorrentes de acidente do trabalho. Todavia, é da competência da Justiça Federal o julgamento de ações objetivando a percepção de benefícios de índole previdenciária, decorrentes de acidentes de outra natureza, que não do trabalho.
+In casu, como já referido, a questão versa sobre benefício previdenciário que não tem origem em acidente de trabalho, o que confere competência à Justiça Federal.
+Sobre o tema, os seguintes julgados:
+PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. SEGURADO CONTRIBUINTE INDIVIDUAL. PEDIDO E CAUSA DE PEDIR. JUSTIÇA FEDERAL. COMPETÊNCIA.
+1. A competência ratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo questão  anterior a qualquer outro juízo sobre a causa.
+2. Hipótese de ação ajuizada perante a Justiça Federal por contribuinte individual que postula o restabelecimento de auxílio-doença ou a concessão de aposentadoria por invalidez, sem nenhuma referência a acidente de trabalho, o que desautoriza a tramitação da lide perante a Justiça estadual. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no CC 140.766/MG, de minha relatoria, PRIMEIRA SEÇÃO, julgado em 28/06/2017, DJe 06/09/2017)
+PREVIDENCIÁRIO. PETIÇÃO INICIAL. PEDIDO E CAUSA DE PEDIR. PLEITO DE APOSENTADORIA POR INVALIDEZ. AUSÊNCIA DE MENÇÃO A ACIDENTE DE TRABALHO. EXEGESE DO ART. 109, I, DA CONSTITUIÇÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A competência para julgar as demandas em que se pleiteia a concessão de benefício previdenciário deve ser determinada em razão do pedido e da causa de pedir.
+2. No caso concreto, não se extrai da petição inicial da subjacente ação qualquer alusão à ocorrência de acidente laboral que, enquanto causa de pedir, estivesse a respaldar o pedido de aposentadoria por invalidez formulado pelo segurado frente ao INSS, cujo contexto desautoriza a tramitação da lide perante a Justiça estadual.
+3. A teor do art. 109, I, da CF, compete à Justiça federal o julgamento das "causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;" 4. Agravo regimental a que se nega provimento.
+(AgRg no CC 144.267/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 25/02/2016, DJe 31/03/2016)
+CONFLITO DE COMPETÊNCIA. AÇÃO QUE PLEITEIA AUXÍLIO ACIDENTÁRIO. ACIDENTE DE TRÂNSITO, SEM RELAÇÃO COM O TRABALHO. NATUREZA PREVIDENCIÁRIA. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Esta egrégia Terceira Seção firmou a compreensão de que a extensão do benefício acidentário aos infortúnios de qualquer natureza revela o feitio previdenciário da causa, a qual deve ser julgada pela Justiça Federal.
+2. Conflito conhecido para declarar a competência do Tribunal Regional Federal da 3ª Região, o suscitado.
+(CC 104.927/SP, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 26/08/2009, DJe 30/09/2009)
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. CONCESSÃO DE APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA, DECORRENTES DE ACIDENTE DE TRABALHO. SÚMULAS 15/STJ E 501/STF. TRABALHADOR AUTÔNOMO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. AGRAVO REGIMENTAL IMPROVIDO.
+I. Na linha dos precedentes desta Corte, "compete à Justiça comum dos Estados apreciar e julgar as ações acidentárias, que são aquelas propostas pelo segurado contra o Instituto Nacional do Seguro Social, visando ao benefício, aos serviços previdenciários e respectivas revisões correspondentes ao acidente do trabalho. Incidência da Súmula 501 do STF e da Súmula 15 do STJ" (STJ, AgRg no CC 122.703/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 05/06/2013)
+II. É da Justiça Estadual a competência para o julgamento de litígios decorrentes de acidente de trabalho (Súmulas 15/STJ e 501/STF).
+III. Já decidiu o STJ que "a questão referente à possibilidade de concessão de benefício acidentário a trabalhador autônomo se encerra na competência da Justiça Estadual" (STJ, CC 82.810/SP, Rel. Ministro HAMILTON CARVALHIDO, DJU de 08/05/2007). Em igual sentido: STJ, CC 86.794/DF, Rel. Ministro ARNALDO ESTEVES LIMA, TERCEIRA SEÇÃO, DJU de 01/02/2008. IV. Agravo Regimental improvido. (AgRg no CC 134.819/SP, Relatora Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, DJe 05/10/2015).
+Ante o exposto, com base no art. 955, parágrafo único, I, do CPC/2015, CONHEÇO do presente conflito para DECLARAR COMPETENTE para a causa o Juízo Federal da Vara de Itaperuna -SJ/RJ.
+Publique-se e intimem-se.
