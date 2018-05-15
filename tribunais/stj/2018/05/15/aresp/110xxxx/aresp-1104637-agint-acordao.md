@@ -1,0 +1,51 @@
+EMENTA
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. INCIDÊNCIA DA SÚMULA N. 284/STF. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7/STJ
+I - De início ressalta-se que, ainda que possa ser ultrapassada a ausência do necessário preparo, tendo em conta o requerimento da gratuidade da justiça formulado, o fato é que o recurso não reúne condições de prosseguir.
+II - A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+III - O recorrente deixou de indicar com precisão qual ou quais dispositivos legais teriam sido violados, em evidente deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF. Neste sentido: AgInt no AREsp 983.543/RJ, Rel. Ministro HERMAN BENJAMIN, DJe 05/05/2017; AgInt no AREsp 1054233/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 22/08/2017, DJe 01/09/2017.
+IV - Ainda que assim não fosse, a pretensão esbarraria no óbice contido na Súmula n. 7/STJ, uma vez que o acórdão recorrido, de forma expressa consignou (fl. 235): "Por fim, o documento de fl.23 evidencia que a venda com preço reduzido foi realizada somente em um dia e, ainda assim, com limitação de quantidade por cliente, razão pela qual, mesmo que o apelante seja produtor de frangos, não há como presumir o prejuízo alegado, ante a excepcionalidade e a curta duração da oferta. Desta forma, não tendo o apelante se desincumbido do seu ônus probatório, nos termos do art. 333, I, do Código de Processo Civil, deixando de comprovar os prejuízos alegados, não há que se falar em dano a ser indenizado." Não haveria como rediscutir a controvérsia no âmbito do recurso especial sem revolvimento do conjunto probatório produzido nos autos.
+V - Agravo interno improvido
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, com o objetivo de reformar acórdão assim ementado pelo Tribunal Regional Federal da 2ª Região (fl. 237):
+RESPONSABILIDADE CIVIL. VENDA DE FRANGOS COM PREÇO REDUZIDO. PREJUÍZOS NÃO COMPROVADOS. DANO MATERIAL. DESCABIMENTO. RECURSO DESPROVIDO.
+1. Para configuração da responsabilidade civil é necessário que se comprove a existência cumulativa de conduta - que consiste em uma ação ou omissão voluntária - dano - ou seja, uma lesão juridicamente relevante de ordem moral, material ou estética - e nexo de causalidade - consistente no liame fático a demonstrar qual conduta foi capaz de gerar o dano sofrido.
+2. No caso dos autos, não tendo o apelante se desincumbido do seu ônus probatório, nos termos do art.333, I, do Código de Processo Civil, deixando de comprovar os prejuízos alegados, não há que se falar em dano a ser reparado.
+3. Recurso de apelação desprovido.
+Em suas razões especiais o recorrente alega que o acórdão contraria a Lei da Economia Popular e o Código Penal, " ..  que proíbem a internação de produtos alimentícios sem a devida fiscalização e autorização das autoridades sanitárias, bem como a prática de concorrência desleal" (fl. 245).
+Após o oferecimento de contrarrazões (fls. 305-310), o Tribunal a quo inadmitiu o recurso em razão da deserção (fl. 317), tendo sido interposto o presente agravo.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do Recurso Especial".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+ O recurso de agravo interno não merece provimento.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+Considerando que o agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início ressalta-se que, ainda que possa ser ultrapassada a ausência do necessário preparo, tendo em conta o requerimento da gratuidade da justiça formulado, o fato é que o recurso não reúne condições de prosseguir.
+A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+In casu, o recorrente deixou de indicar com precisão qual ou quais dispositivos legais teriam sido violados, em evidente deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Acerca do assunto, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ.
+1. "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular nº 284 do STF" (AgRg no REsp 919239/RJ; Rel. Min. Francisco Falcão; Primeira Turma; DJ de 3/9/2007).
+2. O Tribunal de origem concluiu: "No mérito, trata-se de ação de obrigação de fazer cumulada com pleito indenizatório, através da qual objetivou a autora obstar cobrança pela ré em relação à tarifa de esgoto, serviço não prestado pela concessionária, bem como a repetição, em dobro, dos valores já pagos" (fl. 167, e-STJ).
+3. A agravante sustenta não haver na demanda pedido que objetive o cumprimento de obrigação de fazer/não fazer. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido, com o objetivo de rever o objeto do pedido deduzido na petição inicial, implica revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp 983.543/RJ, Rel. Ministro HERMAN BENJAMIN, DJe 05/05/2017).
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. MULTA APLICADA PELO TCE. COMPETÊNCIA. VIOLAÇÃO DOS ARTS. 489 E 1.022, I E II DO CPC/2015. INOCORRÊNCIA DE VÍCIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL. SÚMULA 284 DO STF. OFENSA AO ART. 71, § 3o. DA CF/1988 E AO ART. 63, II DA LEI COMPLEMENTAR ESTADUAL 63/1990. INVIABILIDADE. USURPAÇÃO DA COMPETÊNCIA DA SUPREMA CORTE E ÓBICE DA SÚMULA 280 DO STF. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. A Corte a quo manifestou-se fundamentadamente a respeito de todas as questões postas à sua apreciação, inexistindo omissão, contradição ou obscuridade a ser sanada, motivo pelo qual não se verifica qualquer ofensa aos arts. 489 e 1.022, I e II do CPC/2015.
+2. Quanto ao mérito, verifica-se a deficiência na fundamentação, porquanto não houve a indicação de dispositivo de legislação federal que teria o Tribunal de origem violado, o que atrai a aplicação da Súmula 284/STF.
+3. No Recurso Especial limitou-se a arguir a ofensa ao art. 71, § 3o. da CF/1988; e ao art. 63, II da Lei Complementar Estadual 63/90, motivo pelo qual é inviável o exame da matéria, sob pena de usurpação da competência da Suprema Corte e tendo em vista a incidência do óbice da Súmula 280 do STF.
+4. Agravo Interno do particular desprovido.
+(AgInt no AREsp 1054233/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 22/08/2017, DJe 01/09/2017).
+Ainda que assim não fosse, a pretensão esbarraria no óbice contido na Súmula n. 7/STJ, uma vez que o acórdão recorrido, de forma expressa consignou (fl. 235):
+Por fim, o documento de fl.23 evidencia que a venda com preço reduzido foi realizada somente em um dia e, ainda assim, com limitação de quantidade por cliente, razão pela qual, mesmo que o apelante seja produtor de frangos, não há como presumir o prejuízo alegado, ante a excepcionalidade e a curta duração da oferta.
+Desta forma, não tendo o apelante se desincumbido do seu ônus probatório, nos termos do art. 333, I, do Código de Processo Civil, deixando de comprovar os prejuízos alegados, não há que se falar em dano a ser indenizado.
+Não haveria como rediscutir a controvérsia no âmbito do recurso especial sem revolvimento do conjunto probatório produzido nos autos.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
