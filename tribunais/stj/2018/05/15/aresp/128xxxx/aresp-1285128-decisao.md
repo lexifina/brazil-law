@@ -1,0 +1,13 @@
+DECISÃO
+1. Cuida-se de agravo de MARCELO PRADO DE BARROS contra decisão que não admitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE RECISÃO DE CONTRATO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. DECISÃO QUE CONCEDEU PARCIALMENTE O BENEFÍCIO, DOCUMENTOS JUNTADOS AOS AUTOS QUE NÃO DEMONSTRAM IMPOSSIBILIDADE DE ARCAR COM AS DESPESAS PROCESSUAIS. AUSÊNCIA DE PROVA DA IMPOSSIBILIDADE FINANCEIRA ALEGADA. DECLARAÇÃO DE RENDA QUE VAI CONTRA AOS DEMAIS DOCUMENTOS ACOSTADOS NOS AUTOS. EXAME QUE DEVE SE PAUTAR NO ARCABOUÇO PROBATÓRIO COMO UM TODO.
+Recurso não provido.
+Nas razões do recurso especial (art. 105, III, "a" e "c", da CF), a parte recorrente alega ofensa ao art. 4º da Lei 1.060/50, bem como dissídio jurisprudencial. Argumenta ter direito aos benefícios da justiça gratuita.
+Decido.
+2. De acordo com entendimento firmado nesta Corte, a declaração de pobreza, com o intuito de obter os benefícios da assistência judiciária gratuita, goza de presunção relativa, admitindo, portanto, prova em contrário. Nesse sentido: REsp 1187633/MS, Rel. Ministro CASTRO MEIRA, 2ª Turma, julgado em 06/05/2010, DJe 17/05/2010; AgRg no REsp 712.607/RS, Rel. Ministro CELSO LIMONGI (DESEMBARGADOR CONVOCADO DO TJ/SP), 6ª Turma, julgado em 19/11/2009, DJe 07/12/2009; entre outros.
+Além disso, o Superior Tribunal de Justiça já decidiu que "o pedido de assistência judiciária gratuita pode ser indeferido quando o magistrado tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado." (AgRg no Ag 881.512/RJ, Rel. Ministro CARLOS FERNANDO MATHIAS (JUIZ FEDERAL CONVOCADO DO TRF 1ª REGIÃO), QUARTA TURMA, julgado em 02/12/2008, DJe 18/12/2008).
+No caso, o Tribunal de origem assim se manifestou:
+(..) verifica-se que se o agravante se comprometeu, ao pagamento mensal de parcelas no valor de R$ 731,50 (setecentos e trinta e um reais e cinquenta centavos), demonstra-se incongruente seu argumento de impossibilidade de arcar com as custas estabelecidas, haja vista que este valor é muito superior ao montante a título de custas processuais (R$ 100,00), Assim, não se vislumbra, ao menos ante o conjunto probatório que até então compõe os autos, a hipossuficiência alegada.
+É inviável, em sede de recurso especial, rever as provas que levaram o julgador a decidir pelo indeferimento do pedido de justiça gratuita, em face do óbice da Súmula 7/STJ que impede o conhecimento do recurso, quando necessário reexame de provas.
+3. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
