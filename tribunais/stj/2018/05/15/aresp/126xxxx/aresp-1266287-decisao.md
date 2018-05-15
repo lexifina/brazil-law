@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 436, e-STJ):
+Imissão na posse e indenização. Inexistência de ferimento ao princípio da igualdade. Considerações acerca da distribuição (artigo 251 do CPC). Imóvel adquirido pelos apelados perante a CEF com base no Decreto-Lei nº 70/66. Apelante que feriu o direito dos apelados ao ocupar o imóvel após a aquisição regular, devendo indenizá-los pelo período em que permaneceu na posse do bem. Percentual adequado que é de 0,5% sobre o valor venal do imóvel.
+Condenação à indenização pelos danos causados ao imóvel não constitui decisão ultra petita, pois da petição inicial constou pedido de indenização por perdas e danos  que, na ocasião, imaginava-se adstrita ao período em que os autores viram-se impedidos de fazer uso do bem  mas que, ao longo do processo, verificou-se também cuidar dos danos ocasionados ao apartamento, com o pedido de indenização correspondente e oportunidade à apelante de exercer o contraditório e a ampla defesa. Análise da pretensão à indenização que obedece ao princípio da economia processual e não constitui violação aos artigos 2º, 128 e 460 do CPC.
+Débitos condominiais não devidos, pois já pagos por ocasião de acordo formulado na Ação de Consignação em pagamento nº 0026378.73.2012.8.26.0001, que tramitou perante a 8a Vara Cível do Foro Regional de Santana, Comarca da Capital. Recurso provido em parte.
+Opostos Embargos de Declaração, foram rejeitados pelo acórdão de fls. 449-454, e-STJ.
+No recurso especial, a ora agravante aponta violação aos arts. 212, § 3º, e 1.022, II, do CPC/2015.
+Sustenta negativa de prestação jurisdicional, sem descrever claramente em que ponto o acórdão recorrido teria negado vigência à lei federal.
+Contrarrazões às fls. 467-479, e-STJ.
+O recurso especial não foi admitido na origem, conforme a decisão de fls. 186-190, e-STJ.
+Delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+No que se refere à apontada violação ao art. 1.022 do CPC/2015, não observo omissão, contradição ou obscuridade no acórdão, senão julgamento contrário aos interesses do recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração e nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, onde os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+No caso dos autos, o recurso não demonstra, com transparência e precisão, qual seria o vício da decisão embargada, não se conhecendo da alegada violação do artigo 1.022, inciso II, do Código de Processo Civil de 2015. Incidência, por analogia, do entendimento da Súmula 284 do Supremo Tribunal Federal. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DO DIREITO DE DEFESA. REEXAME. SÚMULA Nº 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. O recurso especial que indica violação dos artigos 489 e 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+ ..
+5. Agravo interno não provido. (AgInt no AREsp 1.140.214/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 20/11/2017) .
+Ademais, verifica-se a deficiência na fundamentação do recurso especial quanto à apontada violação ao art. 212, § 3º, do CPC/2015, uma vez que a recorrente limitou-se a citar o dispositivo legal, sem contudo, indicar em que ponto o acórdão recorrido o teria violado ou a ele dado interpretação divergente, inviabilizando assim, a exata compreensão da controvérsia. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONFISSÃO DE DÍVIDA. ALEGADA INTEMPESTIVIDADE DO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. APLICAÇÃO DA SÚMULA N. 284 DO STF. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ RECURSO NÃO PROVIDO.
+1. Em relação à alegada intempestividade do agravo de instrumento, não cabe recurso especial quando o recorrente não declina, nas razões, qual o dispositivo legal afrontado. Deficiência na fundamentação que enseja a aplicação da Súmula n. 284/STF. Precedentes.
+2. A adoção de entendimento diverso por esta Corte quanto à caracterização do ato atentatório à dignidade da justiça demandaria reexame de provas, o que encontra óbice na Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.185.897/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/03/2018, DJe 03/04/2018).
+Por fim, tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
