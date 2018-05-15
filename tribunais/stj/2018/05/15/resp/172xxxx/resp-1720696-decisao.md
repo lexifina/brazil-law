@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça de Rondônia, assim ementado:
+Apelação criminal. Furto noturno. Falsa identidade. Autoria e materialidade. Tentativa. Exclusão causa de aumento. Prova. Principio da insignifícãncia. Autodefesa. Absolvição Atipicidade. Impossibilidade. Pena-base. Fundamentação. Circunstâncias legais. Quantum.
+A palavra da vítima, quando amparada em testemunhos produzidos sob o crivo do contraditório, aliado a apreensão de parte da res furtiva em poder do agente é prova suficiente para fundamentar decreto condenatório, tornando desarrazoada a tese de insuficiência probatória.
+O crime de furto consuma-se quando o agente tem, mesmo que por curto lapso temporal, a disponibilidade dos objetos após subtraí-los. Não sendo exigível a posse tranqüila da res furtiva, tampouco a sua restituição à vítima, mas apenas que o bem tenha sido retirado da esfera de proteção da vítima.
+Incide a majorante prevista no art. 155, §1º, do Código Penal se o delito é praticado durante o repouso noturno, período de maior vulnerabilidade, independente se os moradores ainda não dormiram. Precedentes STJ.
+O agente reincidente e com habitualidade da prática delituosa, mesmo que de pequena monta, não pode ser tratado como condutas irrelevantes inviabilizando a incidência do princípio da insignificância.
+Inviável a absolvição por atipicidade da conduta quando o agente atribui-se falsa identidade com o intuito de ocultar antecedentes criminais ou de esconder da autoridade policial a condição de foragido, uma vez que não encontra amparo no principio constitucional da autodefesa.
+A invalidade dos fundamentos utilizados aos fins de exasperar a pena-base remete-as ao patamar mínimo.
+Inexistindo quantum limitador a fins de agravamento de pena na segunda fase, por analogia, poderá ser aplicado o limite previsto nas causas de modificação, da terceira fase, devendo ser analisado conforme o caso concreto.
+A reincidência obsta a substituição da pena privativa de liberdade por restritiva de direito, na expressão do art. 44, II, do CP. (e-STJ fls. 257/258).
+Aponta o recorrente a violação do art. 59 do Código Penal insurgindo-se, em síntese, contra o provimento do apelo defensivo argumentando que deve prevalecer a dosimetria da pena realizada pelo juiz singular que "foi feita dentro dos parâmetros legais, observando os princípios da proporcionalidade e da individualização" (e-STJ fls. 314/339).
+Admitido o apelo raro na origem, os autos vieram a esta Corte.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 362/367.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o Tribunal de Justiça de Rondônia deu parcial provimento ao recurso defensivo apenas para redimensionar as penas-base para 1 ano de reclusão ao crime de furto e em 3 meses de detenção para o crime de falsa identidade; o aumento para 3 meses reclusão, pela agravante da reincidência, ao crime de furto, tornando-a definitiva em 1 ano e 8 meses de reclusão e 3 meses de detenção, mantendo inalterados os demais termos da sentença de 1º grau.
+O Ministério Público local pede o restabelecimento da pena fixada pelo juiz singular argumentando que sua fixação se deu dentro dos parâmetros legais, observando os princípios da proporcionalidade e da individualização.
+Sem razão, isso porque agiu com acerto o Tribunal de Justiça de Rondônia ao reformar a dosimetria tendo em conta o entendimento desta Corte Superior no sentido de que a fundamentação genérica e dissociada do caso concreto ("culpabilidade reprovável") não autoriza a manutenção da culpabilidade como desfavorável ao agente (ut, HC 233.133/ES, Rel. Ministra LAURITA VAZ, Quinta Turma, DJe 05/11/2013).
+Também, na segunda fase da dosimetria, o acórdão recorrido observou a jurisprudência desta Corte no sentido de que a aplicação de fração superior a 1/6, pelo reconhecimento das agravantes e das atenuantes genéricas, exige motivação concreta e idônea. In casu, houve fundamentação idônea a lastrear o valor fracionário utilizado em patamar diverso a 1/6 (um sexto), em razão de sua reincidência específica. Nessa linha:(HC n. 258.693/SP, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 28/3/2016.
+Ante o exposto, com fundamento no art. 932, IV, do CPC, c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
