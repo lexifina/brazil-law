@@ -1,0 +1,22 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Estado do Paraná contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado  (fls. 495):
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA COM PEDIDO DE LIMINAR. CONCURSO PÚBLICO PARA PROVIMENTO DO CARGO DE AGENTE DE EXECUÇÃO, FUNÇÃO DE EDUCADOR SOCIAL, REGIDO PELO EDITAL Nº 074/2014. QUESTÃO OBJETIVA COM RESPOSTA DO GABARITO QUE NÃO ESTÁ EM CONFORMIDADE COM A CONSTITUIÇÃO FEDERAL. SENTENÇA QUE CONCEDEU A SEGURANÇA PLEITEADA. IMPOSSIBILIDADE, EM QUALQUER SITUAÇÃO, DE O PODER JUDICIÁRIO ADENTRAR NO MÉRITO DOS ATOS ADMINISTRATIVOS. NÃO ACOLHIMENTO. TRATA-SE, NO CASO CONCRETO, DE ERRO GROSSEIRO, POIS UMA DAS ASSERTIVAS DA QUESTÃO IMPUGNADA CONTRARIA TEXTO EXPRESSO DA CONSTITUIÇÃO FEDERAL, RAZÃO PELA QUAL CONFIGUROU-SE O DIREITO LÍQUIDO E CERTO EM FAVOR DO IMPETRANTE, INEXISTINDO VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA.
+    RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA EM REEXAME NECESSÁRIO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 2º da Constituição da República.
+    Cumpre ressaltar, desde logo, que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o  RE 632.853/CE, Rel. Min. GILMAR MENDES, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “Recurso extraordinário com repercussão geral. 2. Concurso público. Correção de prova. Não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas. Precedentes. 3. Excepcionalmente, é permitido ao Judiciário juízo de compatibilidade do conteúdo das questões do concurso com o previsto no edital do certame. Precedentes. 4. Recurso extraordinário provido.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se, no ponto, à diretriz jurisprudencial que esta Suprema Corte estabeleceu na matéria em referência.
+    Cabe registrar, de outro lado, no tocante à verificação da existência, ou não, de erro grosseiro na formulação da questão, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, ao resolver a questão suscitada nos autos, sustentou as suas conclusões em aspectos fático-probatórios (fls. 501):
+    “Por outro lado, verifica-se que, de fato, o gabarito divulgado considera a alternativa correta a letra ‘d’, assertiva que colide frontalmente com o expresso texto constitucional (art. 32 da CF), o que caracteriza-se como ‘erro grosseiro’.
+    Sendo assim, configurou-se o direito líquido e certo no caso concreto, em favor do impetrante, não havendo que se falar em indevida interferência por parte do Poder Judiciário, muito menos em afronta ao princípio da isonomia.”
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 843.047/PR, Rel. Min. DIAS TOFFOLI – ARE 1.070.808/PR, Rel. Min. EDSON FACHIN – RE 918.811/RS, Rel. Min. MARCO AURÉLIO, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. ANULAÇÃO DE QUESTÕES OBJETIVAS. REEXAME DE PROVAS E DO EDITAL: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (RE 829.156-AgR/SE, Rel. Min. CÁRMEN LÚCIA)
+    Sendo assim, e tendo em considerações as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 15 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
