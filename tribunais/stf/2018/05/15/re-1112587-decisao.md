@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 3ª Região, cuja ementa reproduz-se a seguir (eDOC 02, p. 116):
+    PROCESSUAL CIVIL. AGRAVO LEGAL. CPC, ART. 557, §1º. APLICABILIDADE. EMOLUMENTOS. FAZENDA PÚBLICA. EXBIGIBILIDADE.
+A utilização do agravo previsto no art. 557, §1º, do CPC, deve enfrentar a fundamentação da decisão agravada, ou seja, deve demonstrar que não é caso de recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior.
+Sustenta-se que a Fazenda Pública estaria isenta de emolumentos devidos em favor dos serviços notariais e de registros, nos termos dos arts. 1º e 2º do Decreto-lei n. 1.537, de 13.04.77. Ocorre que o Superior Tribunal de Justiça interpreta a isenção restritivamente, não a estendendo a terceiros que prestam serviços desvinculados da atividade estatal. Com efeito, os serviços notariais e de registro têm natureza privada, consoante estabelece o art. 236 da Constituição da República. Sendo a isenção modalidade de exclusão de crédito tributário (CTN, art. 175, I), segue-se que ela não tem a propriedade de excluir o crédito de índole privada devido em razão dos serviços notariais.
+Agravo legal não provido.
+    Os embargos declaratórios foram desprovidos (eDOC 02, p. 157).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição da República, aponta-se violação do artigo 236, §2º, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que o Decreto-Lei 1.537/77, responsável por estabelecer a isenção da União ao pagamento de emolumentos perante aos Cartórios Estaduais, foi recepcionado pela Constituição Federal e, portanto, sua não concessão implicaria na violação da competência de lei federal para estabelecer normas gerais para a fixação dos emolumentos dos atos registrais.
+    A Vice-Presidência do TRF da 3ª Região admitiu o recurso extraordinário sob o argumento de que não há entendimento jurisprudencial consolidado, no âmbito do STF, sobre a matéria em debate.
+    É o relatório.
+    A irresignação da parte Recorrente não merece prosperar.
+    De plano, a jurisprudência do STF é no sentido de classificar as custas e emolumentos como taxas. Nesse sentido, veja-se a amenta da ADI 1.624, de relatoria do Ministro Carlos Velloso, Tribunal Pleno, DJ 13.06.2003:
+    CONSTITUCIONAL. TRIBUTÁRIO. CUSTAS E EMOLUMENTOS. LEI ESTADUAL QUE CONCEDE ISENÇÃO: CONSTITUCIONALIDADE. Lei 12.461, de 7.4.97, do Estado de Minas Gerais. I.- Custas e emolumentos são espécies tributárias, classificando-se como taxas. Precedentes do STF. II.- À União, ao Estado-membro e ao Distrito Federal é conferida competência para legislar concorrentemente sobre custas dos serviços forenses, restringindo-se a competência da União, no âmbito dessa legislação concorrente, ao estabelecimento de normas gerais, certo que, inexistindo tais normas gerais, os Estados exercerão a competência legislativa plena, para atender a suas peculiaridades (C.F., art. 24, IV, §§ 1º e 3º). III.- Constitucionalidade da Lei 12.461/97, do Estado de Minas Gerais, que isenta entidades beneficentes de assistência social do pagamento de emolumentos. IV.- Ação direta de inconstitucionalidade julgada improcedente.
+    Dessa definição exsurge algumas consequências, particularmente a não incidência da hipótese de imunidade tributária recíproca entre os entes federativos, dado que estas referem-se aos impostos, bem como a definição como sendo estadual para a competência tributária.
+    O Tribunal Pleno do STF bem delimitou os espaços legislativos relacionados aos emolumentos e registros públicos, quando do julgamento da ADI 1.148, de relatoria do Ministro Gilmar Mendes, Tribunal Pleno, DJe 26.11.2015, assim ementado:
+    Ação direta de inconstitucionalidade. 2. Lei nº 174/1994 do Estado do Amapá. Isenção de emolumentos. Natureza tributária de taxa. Tributo estadual. 3. Alegação de ofensa ao art. 22, XXV, da Constituição Federal. Inocorrência. Diploma normativo que concede isenção de emolumentos não ofende competência privativa da União para legislar sobre registros públicos. 4. Ação direta julgada improcedente.
+    Sendo assim, o acórdão recorrido não divergiu da jurisprudência do STF acerca da matéria, tendo em vista que o diploma impugnado trata exclusivamente de custas e emolumentos, matéria esta reservada à competência tributária dos Estados-membros.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 15 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
