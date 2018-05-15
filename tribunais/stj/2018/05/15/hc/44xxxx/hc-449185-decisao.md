@@ -1,0 +1,9 @@
+DECISÃO
+ALESSANDRO PESSOA DE LIZ alega sofrer constrangimento ilegal em decorrência de acórdão da 4ª Turma de Recursos de Criciuma/SC, que, ao julgar a Apelação Criminal n. 0000298-57.2015.8.24.0087, manteve incólume a sentença que o condenou a 6 meses e 24 dias de detenção, no regime inicial semiaberto, pela prática do crime previsto no art. 309, caput, da Lei n. 9.503/1997 - Código de Trânsito Brasileiro.
+Decido.
+A teor do disposto no art. 105, I, "c", da Constituição Federal e à luz da jurisprudência pacífica desta Corte Superior, o STJ não tem competência para exame do ato inquinado coator, uma vez que provém de Turma Recursal de Juizado Especial e não foi submetido a exame pelo Tribunal de origem. Nesse sentido, à guisa de exemplo, os seguintes julgados:
+ ..  1. Diante do cancelamento do enunciado n.º 690 da Súmula do Supremo Tribunal Federal, compete ao Tribunal de Justiça do Estado apreciar e julgar ato acoimado de ilegal oriundo de Turma Recursal. (RHC n. 33.018/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 5/11/2012)
+ ..  Inviável o conhecimento de habeas corpus impetrado contra acórdão de Turma Recursal de Juizado Especial, ante a incompetência deste Tribunal Superior para o julgamento do mandamus nos termos do artigo 105, I, c, da Constituição Federal, já que aquele não se qualifica como Tribunal e seus juízes não são designados como Desembargadores. 2. Habeas Corpus não conhecido. (HC n. 369.717/MS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 3/5/2017)
+Assim, como a matéria não foi analisada pelo Tribunal a quo, é inviável a admissão deste habeas corpus, sob pena de indevida supressão de instância.
+À vista do exposto, nos termos do art. 34, XX, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus, por sua manifesta inadmissibilidade.
+Publique-se e intime-se.
