@@ -1,0 +1,38 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 259):
+PLANO DE SAÚDE - Cumprimento de sentença - Ação de obrigação de fazer - "Home Care" - Negativa quanto ao transporte do agravante, em ida e volta, ao consultório dentário - Tratamento cuja necessidade foi vislumbrada por médico otorrinolaringologista e confirmada por dentista, sob pena de exposição do recorrente a piora de sua qualidade de vida - Presença dos requisitos do art. 273, caput e inciso I, do CPC - No atinente à impugnação, por expressa previsão do art. 475-J, § 1º, do CPC, seu processamento é viável, desde que preenchidos os requisitos ali exigidos - Inviabilidade, ainda, de declaração acerca de vedação futura de eventuais atividades defensivas da agravada - AGRAVO PARCIALMENTE PROVIDO.
+Nas razões do recurso especial, aponta o recorrente ofensa ao disposto no art. 475-J, § 1º do CPC/1973, alegando não ser cabível uma nova impugnação à execução, visto o prazo para essa já havia se esgotado, havendo nos autos duas peças de impugnação à execução, o que considera inadmissível. Destaca ainda "que a peça processual correta para o caso em tela, seria a de impugnação ao cumprimento de sentença e não impugnação a execução, .. ou ainda, de impugnação a penhora e jamais uma segunda impugnação à execução."
+Ao final, pede prioridade no trâmite, considerando a situação de precariedade de saúde do recorrente e o risco de morte, o reconhecimento da preclusão, que seja determinado o levantamento dos valores depositados devidamente atualizados, os benefícios da justiça gratuita.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 282.
+Às fls. 370-372 Parecer do Ministério Público Federal, pelo não provimento do recurso especial.
+É o relatório.
+DECIDO.
+2. Cumpre inicialmente contextualizar os atos e incidentes processuais que sobrevieram ao longo da fase executiva de cumprimento de sentença, que motivam a insurgência objeto do presente recurso, a qual se deve à negativa de levantamento de quantia bloqueada a título de multa diária (astreintes). A multa havia determinada anteriormente pelo Tribunal de origem por ocasião da sentença que reconheceu a obrigação de prestação dos serviços de home care ao segurado, multa essa que seria aplicada pela injustificada inexecução diária.
+Posteriormente, o segurado, em sede de cumprimento de sentença, aduziu falha na prestação dos serviços de home care, por não se ter sido provido pela empresa prestadora do serviço o transporte do segurado ao estabelecimento onde esse faria um tratamento odontológico, no que foi atendido pelo Tribunal local.
+Também, no mesmo agravo de instrumento, requereu de pronto a liberação de multa já anteriormente arbitrada pelo Juízo singular por todas as falhas já ocorridas até então, sendo que esta última pretensão restou desacolhida pela instância ordinária, que assim assentou sua razões (fls. 262-263):
+No atinente à impugnação retratada às fls. 157/168, o artigo 475-J do CPC, em seu parágrafo primeiro, estabelece ser viável tal medida defensiva, desde que ajuizada após a intimação do devedor quanto à lavratura do auto de penhora e de avaliação.
+No caso dos autos, a impugnação (fls. 157/168) cujo processamento foi tratado na r. decisão guerreada é tempestiva tal qual certificado pela própria Secretaria Judiciária (fls. 173).
+E não haveria falar-se em preclusão consumativa derivada da pretérita apresentação de peça com semelhante conteúdo (fls. 85/92).
+Isso em virtude de que a peça primeira não foi admitida pelo juízo a quo justamente porque, naquele momento, antes mesmo de constituída a penhora, mostrava-se flagrantemente inoportuna (fls. 85/95, 100/102 e 119).
+Mister anotar, nesse ponto, que, ante a inviabilidade de previsão dos atos e incidentes processuais que poderão vir a ocorrer ao longo da fase executiva, não seria possível, nestes momento e via, declarar-se a almejada vedação do emprego de todo e qualquer meio defensivo por parte da agravada.
+Por derradeiro, uma vez que a impugnação em tela questiona, em essência, a própria constituição da quantia cujo levantamento se pretende (e subsidiariamente, o montante alcançado), não haveria como autorizar-se, antes da resolução desse incidente processual, a imediata liberação de valores.
+3. Do acima, conforme assentado pela instância ordinária, se constata que a impugnação da seguradora questionava a própria constituição da quantia, a título de multa diária (astreintes), que o recorrente pretendia que fosse liberada. Além disso, consignou-se que tal impugnação era tempestiva, pois fora ajuizada dentro do prazo de intimação do devedor e após a constituição da penhora, e não havia sido feito antes, como alega o recorrente, pois como bem assentou o excerto do acórdão recorrido.
+Nesse mesmo sentido, confiram-se os precedentes:
+RECURSO ESPECIAL - FASE DE CUMPRIMENTO DE SENTENÇA - IMPUGNAÇÃO - GARANTIA DO JUÍZO. INSURGÊNCIA DA EXECUTADA.
+1. Violação aos artigos 165, 458, II e 535 do CPC não configurada.
+Acórdão hostilizado que enfrentou, de modo fundamentado, todos os aspectos essenciais à resolução da lide.
+2. A garantia do juízo é pressuposto para o processamento da impugnação ao cumprimento de sentença, nos termos do art. 475-J, § 1º do CPC.
+"Se o dispositivo - art. 475-J, §1º, do CPC - prevê a impugnação posteriormente à lavratura do auto de penhora e avaliação, é de se concluir pela exigência de garantia do juízo anterior ao oferecimento da impugnação". (REsp 1.195.929/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 24/04/2012)
+3. Recurso especial não provido.
+(REsp 1303508/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/06/2012, DJe 29/06/2012)
+--
+RECURSO ESPECIAL - DIREITO PROCESSUAL CIVIL - CUMPRIMENTO DE SENTENÇA - GARANTIA DO JUÍZO - EXIGÊNCIA - EXEGESE DO ART. 475-J, §1º, DO CÓDIGO DE PROCESSO CIVIL - IMPUGNAÇÃO - CABIMENTO - REGISTRO DA PENHORA - NECESSIDADE - RECURSO PROVIDO.
+I - A garantia do juízo é pressuposto para o processamento da impugnação ao cumprimento de sentença. Inteligência do Art. 475-J, §1º, do CPC.
+II - No cumprimento de sentença, executa-se título executivo judicial, em que a instrução probatória é ampla. Por seu turno, nos embargos do devedor, de título executivo extrajudicial, a situação difere-se, sensivelmente, na medida em que o embargante não tem oportunidade de contraditório e ampla defesa.
+III - Se o dispositivo - art. 475-J, §1º, do CPC - prevê a impugnação posteriormente à lavratura do auto de penhora e avaliação, é de se concluir pela exigência de garantia do juízo anterior ao oferecimento da impugnação. Tal exegese é respaldada pelo disposto no inciso III do artigo 475-L do Código de Processo Civil, que admite como uma das matérias a serem alegadas por meio da impugnação a penhora incorreta ou avaliação errônea, que deve, assim, preceder à impugnação.
+IV - Recurso especial provido.
+(REsp 1.195.929/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 24/04/2012, DJe 09/05/2012)
+--
+Assim, não procede a insurgência do recorrente, quanto à negativa do Tribunal estadual de levantamento da quantia bloqueada a título de multa diária (astreintes), sob a alegação de que seria incabível a apresentação de qualquer outra peça processual, seja a titulo de embargos, exceção de pré-executividade ou ainda impugnação a execução, inclusive impugnação à penhora, sob o argumento de que todos os prazos já estavam preclusos.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
