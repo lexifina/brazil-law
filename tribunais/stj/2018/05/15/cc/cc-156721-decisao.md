@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 3ª Vara de Frederico Westphalen - RS e o Juízo Federal da 1ª Unidade Avançada de Atendimento em Frederico Westphalen - RS, em sede de pedido concessão de auxílio-acidente.
+Na hipótese dos autos, o Magistrado Federal entendeu que a causa deveria ser julgada pela Justiça do Estado por envolver questão relativa a acidente de trabalho. Por sua vez, o Magistrado Estadual entende que "o benefício pleiteado é tipicamente previdenciário, decorrente de qualquer natureza (não do trabalho), gerando óbice para o julgamento pela Justiça Estadual" (e-STJ fl. 65).
+O Ministério Público Federal opinou pelo "conhecimento do presente conflito, a fim de fixar a competência da Justiça Federal para o julgamento da causa" (e-STJ fls. 75/78), apoiando sua conclusão no seguinte fundamento (e-STJ fls. 76/77):
+Assiste razão ao Juízo suscitante, merecendo este conflito de competência ser conhecido para fixar a competência da Justiça Federal.
+Compulsando os autos, verifica-se tratar de ação em que se discute a concessão de auxílio-acidente em decorrência de acidente de trânsito sofrido em 28/03/2014, e não de acidente de trabalho, não incidindo o teor da parte final do inciso I, do artigo 109, da Constituição Federal, sendo a competência para o processamento e julgamento da presente ação, à Justiça Federal.
+Passo a decidir.
+A competência ratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo essa caracterizada pelo pedido e pela causa de pedir.
+A propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. DEMANDA DEDUZINDO PEDIDOS PARA CONCESSÃO DE BENEFÍCIOS PREVIDENCIÁRIOS. COMPETÊNCIA ESTABELECIDA LEVANDO-SE EM CONSIDERAÇÃO OS TERMOS DA PETIÇÃO INICIAL. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A definição da competência para a causa se estabelece levando em consideração os termos da demanda (e não a sua procedência ou improcedência, ou a legitimidade ou não das partes, ou qualquer outro juízo a respeito da própria demanda). O juízo sobre competência é, portanto, lógica e necessariamente, anterior a qualquer outro juízo sobre a causa. Sobre ela quem vai decidir é o juiz considerado competente (e não o Tribunal que aprecia o conflito). Não fosse assim, haveria uma indevida inversão na ordem natural das coisas: primeiro se julgaria (ou pré-julgaria) a causa e depois, dependendo desse julgamento, definir-se-ia o juiz competente (que, portanto, receberia uma causa já julgada, ou, pelo menos, pré-julgada). Precedentes: CC 51.181-SP, 1ª Seção, Min. Teori Albino Zavascki, DJ de 20.03.2006; AgRg no CC 75.100-RJ, 1ª Seção, Min. Teori Albino Zavascki, DJ de 19.11.2007; CC 87.602-SP, 1ª Seção, Min. Teori Albino Zavascki, DJ de 22.10.2007.
+2. No caso, a autora ajuizou, em face do INSS, pedidos para concessão de benefícios previdenciários (e não de natureza acidentária). Nos termos como proposta, a causa é da competência da Justiça Federal.
+3. Conflito conhecido e declarada a competência da Justiça Federal, a suscitada.
+(CC 121.013/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, julgado em 28/03/2012, DJe 03/04/2012).
+No presente caso, da análise dos autos, depreende-se que a questão versa sobre pedido de benefício previdenciário em decorrência de acidente de automóvel (e-STJ fls. 2/10).
+A respeito da matéria, vale ressaltar que, consoante as Súmulas 15 do STJ e 501 do STF, compete à Justiça Estadual processar e julgar os litígios decorrentes de acidente do trabalho. Todavia, é da competência da Justiça Federal o julgamento de ações objetivando a percepção de benefícios de índole previdenciária, decorrentes de acidentes de outra natureza, que não do trabalho.
+In casu, como já referido, a questão trata de pedido de concessão de auxílio-acidente decorrente de acidente de trânsito (sem relação com o trabalho), cuja competência, portanto, é da Justiça Federal.
+Confira-se o seguinte julgado:
+CONFLITO DE COMPETÊNCIA. AÇÃO QUE PLEITEIA AUXÍLIO ACIDENTÁRIO. ACIDENTE DE TRÂNSITO, SEM RELAÇÃO COM O TRABALHO. NATUREZA PREVIDENCIÁRIA. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+ 1. Esta egrégia Terceira Seção firmou a compreensão de que a extensão do benefício acidentário aos infortúnios de qualquer natureza revela o feitio previdenciário da causa, a qual deve ser julgada pela Justiça Federal.
+ 2. Conflito conhecido para declarar a competência do Tribunal Regional Federal da 3ª Região, o suscitado.
+(CC 104.927/SP, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 26/08/2009, DJe 30/09/2009)
+Ante o exposto, com base no art. 955, parágrafo único, I, do CPC/2015, CONHEÇO do presente conflito para DECLARAR COMPETENTE para a causa o Juízo Federal da 1ª Unidade Avançada de Atendimento em Frederico Westphalen - RS
+Publique-se e intimem-se.
