@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de Agravo Regimental, interposto por [NOME], em 10/11/2014, contra decisão, publicada em 04/11/2014, na qual neguei seguimento ao Recurso Ordinário em Mandado de Segurança.
+De acordo com os autos, na origem, o ora recorrente impetrou, em maio de 2009, Mandado de Segurança, postulando "o TRANCAMENTO DA AÇÃO CIVIL PÚBLICA nº 2008.001.416973-8, perante a 9ª Vara de Fazenda Pública, em relação ao Impetrante, resguardando-se seu direito líquido e certo a não responder a ação civil publica inepta e desprovida de justa causa" (fl. 18e).
+Assim, tendo em vista o tempo transcorrido desde a prolação do acórdão recorrido e da decisão agravada, em despacho publicado em 19/03/2018, as partes foram intimadas a informarem se (a) a referida Ação Civil Pública já foi julgada; e (b) teriam interesse no julgamento do feito.
+Na petição de fl. 1.131e, o MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO informa que:
+"Em consulta ao sítio eletrônico do E. TJ-RJ, constatou-se que os autos referentes à ação civil pública 0417056-95.2008.8.19.0001 (2008.001.416973-8) encontram-se em fase de encaminhamento ao arquivo, tendo decorrido julgamento em primeiro e segundo graus de jurisdição, não havendo manifestação no prazo das partes após determinação do d. Juízo da 9ª Vara de Fazenda Pública da Comarca da Capital.
+Por todo o exposto, requer o Ministério Público seja o recurso julgado prejudicado ante a perda de seu objeto".
+O agravante, por sua vez, aduz que "a Ação Civil Pública de nº 0417056-95.2008.8.19.0001 foi julgada parcialmente procedente para declarar apenas a nulidade dos contratos administrativos, tendo sido mantida a sentença em segunda instância. O processo encontra- se transitado em julgado e arquivado em definitivo, ocorrendo, consequentemente, a perda do objeto do presente mandado de segurança" (fl. 1.134e).
+Assim, diante das informações trazidas pelas partes, no sentido de que a Ação Civil Pública, cujo andamento o agravante pretende obstar já fora julgada favoravelmente a ele, mostra-se evidente a perda do objeto do presente Recurso Ordinário.
+Ante o exposto, reconsidero da decisão de fls. 1.101/1.104e. Com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do Recurso Ordinário em Mandado de Segurança.
+I.
