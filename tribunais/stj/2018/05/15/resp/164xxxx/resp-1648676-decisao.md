@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por [NOME] - ESPÓLIO, em 23/11/2016, com fundamento no art. 105, III, a e c, da CF/88, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. MASSA FALIDA. PRESCRIÇÃO. INOCORRÊNCIA. ILEGITIMIDADE PASSIVA. COISA JULGADA.
+1. Realizada a penhora no rosto dos autos do processo falimentar, não corre o prazo prescricional, pois a própria satisfação da pretensão executiva fica condicionada ao término da demanda falimentar.
+2. Alegação de ilegitimidade passiva acobertada pela coisa julgada" (fl. 399e).
+Não foram opostos embargos de declaração.
+O recorrente alega ofensa ao art. 47 do Decreto-Lei 7.661/45, além de dissídio jurisprudencial, sob o argumento de que "não se pode aceitar in casu a extensão dada a aplicabilidade da norma supra como foi feita pela decisão recorrida, visto que a causa suspensiva refere-se tão somente às obrigações da Massa Falida, ou seja, da executada Reunidas Sul Brasil S/A - Indústria Naval, não sendo extensível aos devedores pessoas físicas" (fl. 411e), razão pela qual deveria ser reconhecida a prescrição intercorrente em relação ao ex-sócio da empresa falida.
+Não foram apresentadas contrarrazões.
+Sem razão a parte recorrente.
+Quanto à alegação de que o art. 47 do Decreto-Lei 7.661/45 não seria aplicável ao caso, tendo em vista que a suspensão do prazo prescricional para cobrança dos débitos tributários, em razão da decretação de falência, apenas ocorreria em relação à empresa falida e não aos sócios pessoas físicas, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo entre as razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada ao dispositivo tido como violado não foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por se tratar, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
