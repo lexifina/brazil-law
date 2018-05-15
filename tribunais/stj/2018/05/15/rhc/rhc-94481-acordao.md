@@ -1,0 +1,72 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. EXCESSO DE PRAZO. NÃO CONFIGURAÇÃO. RECURSO NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. O Magistrado de primeiro grau ressaltou, para decretar a custódia preventiva, a periculosidade do agente, tendo em vista ser ele o executor do disparo que ceifou a vida da vítima, além do fundado risco de reiteração delitiva, pois ele responde por outro delito de homicídio. Essas circunstâncias são suficientes, nos termos da jurisprudência desta Corte Superior, para justificar a prisão cautelar.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do CPP).
+4. Não há excesso de prazo, no caso, visto que o processo foi diligentemente impulsionado pelo Juiz e pelo Ministério Público, e não há falar em desídia, paralisação indevida ou atraso injustificado atribuível aos órgãos estatais que possam dar ensejo à revogação da prisão preventiva em tão grave situação. O recurso em sentido estrito foi julgado no dia 11/4/2018, oportunidade em que a Corte local negou-lhe provimento.
+5. Recurso não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao recurso ordinário, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Maria Thereza de Assis Moura e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+WALDEMI RAYLAN DA SILVA LACERDA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Pará, que denegou o HC n. 0801548-70.2017.8.14.0000.
+Depreende-se dos autos que o recorrente, juntamente com outros dois denunciados, foi pronunciado como incurso no art. 121, § 2º, II e IV, c/c os art. 29 do Código Penal e . 14 da Lei n. 10.826/2003, oportunidade em que foi mantida a prisão cautelar.
+A defesa sustenta a ocorrência de constrangimento ilegal, ao argumento de que o acusado deve ser "beneficiado com o direito de recorrer em liberdade, direito este que foi concedido aos demais acusados na mesma Ação Penal, na sentença de pronúncia" (fl. 110).
+Requer, liminarmente e no mérito, possa o réu responder em liberdade ao processo, até o trânsito em julgado.
+Indeferida a liminar (fls. 165-166) e prestadas as informações (fls. 175-180), veio o parecer do Ministério Público Federal (fls. 182-184), que opinou pelo não provimento do recurso.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. EXCESSO DE PRAZO. NÃO CONFIGURAÇÃO. RECURSO NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. O Magistrado de primeiro grau ressaltou, para decretar a custódia preventiva, a periculosidade do agente, tendo em vista ser ele o executor do disparo que ceifou a vida da vítima, além do fundado risco de reiteração delitiva, pois ele responde por outro delito de homicídio. Essas circunstâncias são suficientes, nos termos da jurisprudência desta Corte Superior, para justificar a prisão cautelar.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do CPP).
+4. Não há excesso de prazo, no caso, visto que o processo foi diligentemente impulsionado pelo Juiz e pelo Ministério Público, e não há falar em desídia, paralisação indevida ou atraso injustificado atribuível aos órgãos estatais que possam dar ensejo à revogação da prisão preventiva em tão grave situação. O recurso em sentido estrito foi julgado no dia 11/4/2018, oportunidade em que a Corte local negou-lhe provimento.
+5. Recurso não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Contextualização
+Depreende-se dos autos que o paciente, juntamente com outros dois denunciados, foi pronunciado como incurso no art. 121, § 2º, II e IV, c/c os arts. 29 do Código Penal e . 14 da Lei n. 10.826/2003.
+Ao, inicialmente, decretar a prisão cautelar do acusado, o Juízo singular assim consignou:
+O periculum libertatis, encontra-se fundado na necessidade da custódia cautelar dos flagranteados com vistas a assegurar a aplicação da lei penal, isto que, existem elementos indicativos de provável fuga dos investigados do distrito ua culpa, objetivando frustrar a aplicação da lei penal, em caso de possível e futura condenação.
+Ainda reside o periculum libertatis na necessidade de garantia da Ordem Pública, ante a gravidade em concreto do crime, v pelo "modus operandi" pelos agentes.
+Assim, no presente caso, observo que as medidas cautelares diversas da prisão preventiva não são suficientes para a garantir o regular andamento do processo e a ordem pública, sendo imprescindível a decretação da custódia cautelar dos flagranteados, para assegurar a aplicação da lei penal e resguardo da Ordem Pública, nos termos do art. 312. Do CPP (fl. 56, destaquei).
+Por ocasião da decisão de pronúncia, o Magistrado de origem destacou o seguinte, a fim de manter a segregação cautelar do ora recorrente:
+Pois bem, quanto ao réu WALDEMIR RAYLAN DA SILVA LACERDA, NEGO-LHE o direito de recorrer em liberdade, vez que subsistem os motivos para a manutenção da segregação cautelar sob escopo de garantia da ordem pública, à medida que foi apontado como o executor dos disparos que ceifaram a vida da vítima, havendo ainda contra si semelhante imputação criminal, cuja vítima fora o Informante Moisés de Sousa Ribeiro, ouvido nos autos da presente ação penal, cuja correspondente persecução tramita neste juízo nos autos do Processo nº 0007717-79.2017.814.0009, não se podendo, outrossim, olvidar da grande repercussão do crime na comunidade local, fatos estes que se sobrepõe às condições subjetivas favoráveis alegadas pelo réu e reclamam a necessidade de manutenção da prisão cautelar (fls. 27-28, grifei).
+A Corte local, ao denegar a ordem, fez os seguintes registros:
+Outrossim, imperioso destacar que a prisão preventiva, como medida excepcional, exige explicitação de fundamentos consistentes e individualizados, de forma a demonstrar, concretamente, a necessidade da restrição à liberdade. Em função disso, para ser estendida a liberdade provisória concedida aos demais corréus, o paciente precisa estar na mesma condição fático-processual dos beneficiados, a teor do art. 580 do Código de Processo Penal. Não basta, portanto, que a questão jurídica seja idêntica/semelhante, exige-se um liame subjetivo entre o paciente e os corréus contemplados.
+Na espécie, pelo que consta na decisão de pronúncia, que manteve a custódia provisória do paciente, é possível notar diferenças entre os envolvidos no crime ocorrido, a ponto de justificar a ordem constritiva proferida pelo magistrado singular.
+Como bem asseverado na referida decisão, o paciente foi segregado cautelarmente para que fosse garantida a ordem pública na localidade em que o crime foi cometido, haja vista ter sido o mesmo apontado, em tese, como executor do disparo que ceifou a vida da vítima e ter, contra si, imputação criminal semelhante a que ora responde, em trâmite perante o juízo do distrito da culpa. Somando-se a isso, foram verificados, em princípio, indícios de autoria e materialidade do delito tipificado no art. 14 da Lei 10.826/03, tendo o paciente que responder isoladamente por tal conduta delituosa, fato este não imputado aos demais codenunciados (fl. 84, destaquei).
+Nas informações prestadas às fls. 175-180, o Juízo de primeiro grau noticiou que o processo se encontra no TJPA para apreciação do recurso em sentido estrito desde 22/11/2017.
+II. Prisão preventiva - motivação idônea
+Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+Na hipótese, observo que se mostram bastantes as razões invocadas nas instâncias antecedentes para justificar a prisão cautelar do acusado, porquanto contextualizaram, em dados concretos dos autos, o periculum libertatis.
+Com efeito, o Magistrado de primeiro grau ressaltou, para decretar a custódia preventiva, a periculosidade do agente, tendo em vista ser ele o executor do disparo que ceifou a vida da vítima, além do fundado risco de reiteração delitiva, pois ele responde por outro delito de homicídio, em trâmite na mesma vara de origem, circunstâncias suficientes, nos termos da jurisprudência desta Corte Superior, para justificar a prisão cautelar.
+Ilustrativamente:
+ ..
+3. No que se refere à maneira de execução do crime, salientou o julgador monocrático que "o crime foi cometido com extrema frieza "de modo que as vítimas foram espancadas em plena via pública, por meio de pedradas e disparos de arma de fogo", tudo a evidenciar maior gravidade na conduta.
+ ..
+5. Recurso ordinário a que se nega provimento.
+(RHC n. 90.269/AL, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 12/3/2018, grifei)
+ ..
+5. Nos termos da orientação desta Corte, inquéritos policiais e processos penais em andamento, embora não possam exasperar a pena-base (Súmula 444/STJ), constituem indicativos de risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva para garantia da ordem pública.
+ ..
+8. Habeas corpus não conhecido.
+(HC n. 389.080/MG, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 3/5/2017, destaquei)
+III. Substituição da prisão preventiva por cautelares diversas - inadequação e insuficiência
+De igual modo, evidenciada a maior periculosidade do acusado, em face do modus operandi empregado na conduta ilícita e do registro de passagem por delito da mesma natureza, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal).
+Nesse sentido:
+ ..
+6. Indevida a aplicação de medidas cautelares diversas da prisão quando a segregação encontra-se justificada na gravidade do delito cometido e na necessidade de se evitar a reiteração delitiva.
+7. Recurso ordinário conhecido e improvido.
+(RHC n. 62.316/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 24/8/2016)
+IV. Excesso de prazo
+No que se refere ao apontado excesso de prazo, ainda que de forma breve na inicial deste writ, a Corte local fez as considerações a seguir:
+Quanto ao argumento de caracterização do constrangimento ilegal por excesso de prazo da prisão provisória e, consequentemente, da instrução processual penal, entendo que tal arguição não merece prosperar uma vez que existe sentença de pronúncia sobre os fatos imputados ao paciente, consoante às fls.60/64.
+Na hipótese cm análise, portanto, inexiste desídia do juízo de piso ou do Órgão Acusador na persecução criminal, pelo que não há falar em constrangimento ilegal por excesso de prazo para o encerramento da instrução criminal. Registro, por oportuno, o teor da Súmula nº 21 do STJ, a qual é clara no sentido de que "pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução o que, no caso, reforça a inexistência de excesso de prazo.
+No mesmo sentido é o que preceitua a Súmula 52 do STJ, senão vejamos: (fl. 84, grifei).
+Este Superior Tribunal possui entendimento consolidado de que: "A aferição da razoabilidade da duração do processo não se efetiva de forma meramente aritmética. Nesta perspectiva, não se verifica ilegalidade quando o andamento processual encontra-se compatível com as particularidades da causa, não se tributando, pois, aos órgãos estatais indevida letargia" (RHC n. 88.583/CE, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 26/2/2018).
+O reconhecimento de eventual excesso de prazo deve ser pautado sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), à luz da gravidade do crime imputado na denúncia, haja vista as complexidades de cada processo.
+Ilustrativamente: "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. (Precedentes do STF e do STJ)" (RHC n. 58.274/ES, Rel. Ministro Felix Fischer, 5ª T., DJe 17/9/2015).
+Pela análise dos autos, não verifico constrangimento ilegal quanto à matéria, pois o processo, no primeiro grau, foi diligentemente impulsionado pelo Juiz e pelo Ministério Público. Não há falar em desídia, paralisação indevida ou atraso injustificado atribuível aos órgãos estatais que possam dar ensejo à revogação da prisão preventiva em tão grave situação.
+Por fim, após consulta à página eletrônica do TJPA, verificou-se que o recurso em sentido estrito foi julgado no dia 11/4/2018, oportunidade em que a Corte local lhe negou provimento.
+V. Dispositivo
+À vista do exposto, nego provimento ao recurso.
