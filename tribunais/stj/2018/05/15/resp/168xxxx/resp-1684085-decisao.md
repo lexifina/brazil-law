@@ -1,0 +1,25 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. VÍCIOS CONSTRUTIVOS. INTERESSE DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA
+1. Ausência de violação ao art. 535 do CPC/1973, pois o Eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, declinando as razões jurídicas que embasaram a decisão, não sendo exigível que se reporte de modo específico a determinados preceitos legais.
+2. Falta de prequestionamento dos temas insertos nos arts. 471 e 473 do Código de Processo Civil de 1973, pois não foram objeto de debate no acórdão recorrido, tampouco foram suscitados por meio dos embargos de declaração opostos a fim de suprir eventual omissão. Incidência das Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, a inviabilizar a abertura da instância especial. Incidência da Súmula 284/STF.
+4. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por [NOME] ROSA PACHECO, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO, assim ementado:
+COMPETÊNCIA. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. PEDIDO DE COBERTURA POR DANOS ESTRUTURAIS HAVIDOS EM IMÓVEIS ADQUIRIDOS PELO SISTEMA FINANCEIRO DE HABITAÇÃO. ADVENTO DA LEI N. 12.409/11 QUE, EM PRINCÍPIO, NÃO RETIRA A COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA JULGAMENTO DA MATÉRIA. HIPÓTESE, TODAVIA, EM QUE A CAIXA ECONOMICA FEDERAL MANIFESTOU INTERESSE NO FEITO. APLICAÇÃO DO ART. 109, I, DA CR. COMPETÊNCIA DA JUSTIÇA FEDERAL. RECURSO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 471, 473 e 535 do Código de Processo Civil de 1973
+Sustenta nulidade do acórdão recorrido, pois, não obstante a oposição de embargos de declaração, os vícios de omissão e contradição ao rejeitar a preliminar de coisa julgada e ao não versar sobre os limites e condições estabelecidos no julgamento do Edcl do Edcl no REsp n . 1.091.393/SC para a intervenção legítima da Caixa Econômica Federal.
+Alega que a questão da legitimidade passiva da Caixa Econômica Federal havia sido afastada em primeiro grau de jurisdição, de sorte que se encontra acobertada pelo manto da preclusão.
+Defende ser competência da Justiça Estadual para julgamento das ações de indenização do Seguro Habitacional do Sistema Financeiro de Habitação, no caso que se trata de uma das ações plúrimas de mutuários contra seguradoras do SFH, motivadas pela recusa indenizatória frente à ocorrência de sinistro de ameaça de desmoronamento de casas populares, em que inexistem quaisquer provas de que as apólices são públicas e garantidas pelo FCVS, tampouco do esgotamento dos recursos derivados dos prêmios recebidos pelas seguradoras e do exaurimento do FESA.
+Contrarrazões ao recurso especial às fls. 329-333.
+Crivo positivo de admissibilidade na origem (fls. 360-362).
+É o relatório.
+DECIDO.
+2.Não há falar em violação ao art. 535 do Código de Processo Civil, pois o Eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes. Além disso, basta ao órgão julgador que decline as razões jurídicas que embasaram a decisão, não sendo exigível que se reporte de modo específico a determinados preceitos legais.
+3. Os temas insertos nos arts. 471 e 473 do Código Civil tidos por contrariados, não foram objeto de debate no acórdão recorrido, tampouco foram opostos embargos de declaração a fim de suprir eventual omissão. É entendimento assente neste Superior Tribunal de Justiça a exigência do prequestionamento dos dispositivos tidos por violados, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+4. No tocante à alegação de ocorrência de dissidio jurisprudencial, o recurso especial não merece conhecimento, uma vez que a recorrente limitou-se a indicar precedentes paradigmas sem, contudo, indicar qual dispositivo legal teria recebido interpretação divergente.
+Todavia, o recurso especial fundamentado no permissivo constitucional da alínea "c" requisita, em qualquer caso, tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Nesse passo, tem-se que a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial, atraindo, como atrai, a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+5. Ante o exposto, nego provimento ao recurso especial .
+Publique-se. Intimem-se.
