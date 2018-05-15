@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “Embargos infringentes. Ação civil pública. Alegação de omissão dos entes municipal e estadual quanto às providências necessárias à contenção de encostas situadas na Comunidade da Travessa Antonina. Voto vencedor no julgamento da apelação que afastou a ilegitimidade passiva do Estado do Rio de Janeiro. Voto vencido que a reconhecia, como na sentença. Responsabilidade específica do Município. Interesse preponderantemente local. Medida pleiteada nos autos que se insere no âmbito de competência típica do Município. Art. 30, I e VIII da CRFB/88 c/c art. 3"-B da Lei 12.340/2010. Convênio celebrado entre Estado e Município no qual se estabelece a obrigação do segundo quanto às obras e ações necessárias. Acolhimento da preliminar de ilegitimidade passiva ad causam arguida pelo Estado do Rio de Janeiro. Prestígio ao voto vencido, sendo que o tema referido, além de trazido no recurso, é daqueles em que o julgador pode, inclusive de ofício, apreciar a qualquer tempo e grau de jurisdição. Recurso provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, LV; 6º e 23, VI e VII, todos da Constituição.
+    O recurso não deve ser provido. O Plenário do Supremo Tribunal Federal (STF) já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes).
+    A jurisprudência do STF afirma a possibilidade, em casos emergenciais, de implementação de políticas públicas pelo Judiciário, ante a inércia ou morosidade da Administração, como medida assecuratória de direitos fundamentais.
+    Ademais, a solução da controvérsia pressupõe, necessariamente, a análise da legislação infraconstitucional aplicada, bem como o reexame dos fatos e do material probatório contantes dos autos (Súmula 279/STF), o que não é possível em sede de recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 15 de maio de 2018.
+Ministro Luís Roberto Barroso
+Relator
