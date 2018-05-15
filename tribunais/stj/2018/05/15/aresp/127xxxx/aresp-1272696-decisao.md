@@ -1,0 +1,36 @@
+DECISÃO
+1. Cuida-se de agravo interposto pela CRISTIANE TIRLONI, contra decisão que não admitiu o seu recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, por sua vez manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. CONTRATOS AGRÁRIOS. ARRENDAMENTO RURAL. AÇÃO DE DESPEJO. DENUNCIA CHEIA. NOTIFICAÇÃO PARA FINS DE RETOMADA DO IMÓVEL PARA USO PRÓPRIO. ART. 22, §2º, DO DECRETO N. 59.566/66. REGULARIDADE DA NOTIFICAÇÃO PREMONITÓRIA. AUSÊNCIA DE PROVA DA INSINCERIDADE. SENTENÇA DE PROCEDÊNCIA MANTIDA.
+Hipótese em que os herdeiros do arrendador, seis meses antes do término do contrato, notificaram o arrendatário para fins de retomada da gleba rural para exploração direta, ou para cultivo pessoal, conforme determina o art. 22, §2º, do Decreto n.
+59.566/66. Caso em que não restou minimamente comprova a alegação de insinceridade da notificação premonitória realizada.
+APELO DESPROVIDO. UNANIME. (fl. 667)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 1.791, do Código Civil, 618, do CPC, 2º, 22 e 23, do Decreto n. 59.566/1966. Insurge-se contra a procedência da ação de despejo formulada na origem. Aduz, que sendo a herança um bem indivisível, o inventariante não poderia postular a retomada do imóvel para exploração direta sem o consentimento ou autorização dos demais herdeiros do espólio; que não havendo sinceridade no pedido de retomada do imóvel formulado pelo recorrido, a consequência seria a renovação automática do contrato.
+ É o relatório.
+DECIDO.
+2. Verifico que os temas insertos nos arts. 1.791 e 618, do Código Civil, não foram objeto de debate no acórdão recorrido, nem nos embargos de declaração opostos. A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Incidência na espécie da Súmula 211/STJ. Há ressaltar que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração.
+ Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. DANO MORAL. CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 504.841/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+___________
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC. INEXISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. IMPENHORABILIDADE DE IMÓVEL. BEM PROFISSIONAL. EXCEPCIONALIDADE DA CONSTRIÇÃO JUDICIAL. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO, COM APLICAÇÃO DE MULTA.
+1. Não há falar em violação dos arts. 458, II, e 535, II, do Código de Processo Civil pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes.
+2. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+3. De acordo com a jurisprudência desta Corte, é possível a penhora em caráter excepcional de imóvel comercial, no qual se localiza empresa do executado, desde que não seja utilizado para a residência de sua família e não haja outros bens livres e desembaraçados, passíveis de serem constritos. (REsp 1.114.767/RS, Rel. Ministro LUIZ FUX, CORTE ESPECIAL, DJe 04/02/2010).
+4. Agravo regimental não provido, com aplicação de multa. (AgRg no AREsp 490.801/SC, de minha relatoria, QUARTA TURMA, julgado em 09/09/2014, DJe 17/09/2014)
+___________
+3. Outrossim, observo que a Corte de origem ao analisar a demanda, à vista dos elementos fáticos-probatórios constantes dos autos, manteve a r. sentença que julgou procedente a ação de despejo formulada na origem, consignando que:
+Em síntese, possível a notificação pela parte arrendante, seis meses antes do término do contrato, para fins de retomada da gleba rural para exploração direta ou para cultivo pessoal.
+No caso dos autos, incontroversa a Notificação Extrajudicial para retomada da área de 45 hectares, 6 meses antes do prazo previsto para vencimento do contrato, com a intenção de exploração direta pelos próprios herdeiros do falecido arrendador (fls.14-15).
+O ponto controvertido da demanda reside na aferição da veracidade do fundamento da notificação, ou seja, da intenção de retomada da área para exploração direta pelos herdeiros.
+Ocorre que, conforme constou na sentença, não restou suficientemente comprovada a alegação de insinceridade da notificação, máxime porque não demonstrada a suposta intenção dos herdeiros de arrendar a área a terceiro de forma mais vantajosa.
+A simples alegação de que os herdeiros não têm condições de explorar o imóvel, que não detêm maquinário para plantio, e que discordam entre si com relação à destinação da área, não basta para declarar a invalidade da notificação premonitória.
+Caso verificada a insinceridade no fundamento da retomada, poderá o arrendador responder por perdas e danos, conforme leciona o §4º do art. 22 do Decreto n. 59.566/66 transcrito alhures.
+ ..
+Não obstante, conforme constou na sentença, a alegação de impossibilidade de retomada porque não localizada a área de 45 hectares dentro do total da área arrendada de 90 hectares não convence, uma vez que, tratando-se de metade, basta que haja a divisão da área em duas partes iguais. (fl. 672-673)
+No ponto, mostra-se evidente que a alegada violação dos dispositivos de lei federal constituem questões eminentemente fáticas, razão pela qual o acolhimento da pretensão veiculada no apelo especial, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do REsp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
