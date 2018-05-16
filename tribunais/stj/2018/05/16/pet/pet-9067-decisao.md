@@ -1,0 +1,9 @@
+DECISÃO
+Vistos.
+Trata-se de Incidente de Uniformização de Interpretação de Lei Federal, com fundamento no art. 14, § 4º, da Lei 10.259/2001, contra acórdão prolatado pela 2ª Turma Recursal da Seção Judiciária do Estado de Santa Catarina que afastou o direito de renúncia à aposentadoria e concessão de novo benefício, com agregação de tempo posterior ao jubilamento, diante da ausência de recomposição integral do patrimônio do INSS (fls. 69/108e).
+A Turma Nacional de Uniformização dos Juizados Especiais Federais (TNU) admitiu o pedido de uniformização (fls. 302/303e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Em que pese a orientação desta Corte, firmada no REsp 1.334.488/SC, sob o rito do art. 543-C do Código de Processo Civil, segundo a qual é possível a renúncia da aposentadoria, objetivando a concessão de novo benefício mais vantajoso, de mesma natureza, com o cômputo dos salários de contribuição posteriores à aposentadoria anterior sem a necessidade de devolução dos valores percebidos em razão dela, deve prevalecer o entendimento do Supremo Tribunal Federal, assentado no julgamento do Recurso Extraordinário n. 661.256/SC em 27.10.2016, sob o regime da repercussão geral - Tema 503 -, segundo o qual " n o âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do art. 18, § 2º, da Lei nº 8213/91".
+Isto posto, com fundamento no art. 34, XVIII, b, do RISTJ, NÃO ACOLHO o incidente de uniformização de jurisprudência.
+Publique-se e intimem-se.
