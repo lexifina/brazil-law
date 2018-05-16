@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ARTS. 20, 125, INC. I, E 127 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ARTS. 125, INC. I, E 127 DO CPC/1973. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TRF1 assim ementado (fl. 148):
+CONSTITUCIONAL. TRIBUTÁRIO. PRESCRIÇÃO. LC 118/2005. CONTRIBUIÇÃO PREVIDENCIÁRIA. AGENTE POLÍTICO. ART. 12, I, H, DA LEI 8.212/1991. INCONSTITUCIONALIDADE. RE 351.171/PR (STF). RESOLUÇÃO SF 26/2005.
+1. A segunda parte do art. 4º da LC 118/2005 foi declarada inconstitucional, e considerou-se válida a aplicação do novo prazo de cinco anos apenas às ações ajuizadas a partir de 9/6/2005 - após o decurso da vacatio legis de 120 dias (STF, RE 566621/RS, rel. ministra Ellen Gracie, Tribunal Pleno, DJe de 11/10/2011).
+2. O Senado Federal editou a Resolução 26, de 22/6/2005, para suspender a execução da alínea h do inciso I do art. 12 da Lei 8.212/1991, o que confere eficácia erga omnes à inconstitucionalidade declarada no RE 351.717/PR.
+3. A alteração do art. 195 da CF/ 1988 (EC 20/1998) possibilitou a incidência da contribuição previdenciária sobre os subsídios dos ocupantes de cargo eletivo municipal, estadual ou federal mediante lei ordinária, o que foi instituído desde a vigência da Lei 10.887/2004 (observada a noventena - art. 195, § 6º, CF/1988).
+4. Apelação da Fazenda Nacional a que se dá provimento.
+Embargos de declaração rejeitados.
+A recorrente alega violação dos arts. 458 e 535 do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito da seguinte questão: a) o acórdão adotou tese explícita sobre a possibilidade de o contribuinte poder envergar a compensação, mesmo antes do trânsito em julgado, ao simplesmente postar que não houve pedido de compensação.
+Quanto à questão de fundo, sustenta ofensa aos arts. 20, 125, inc. I, e 127 do CPC/1973, sob os seguintes argumentos: a) o acórdão adotou a tese, ainda que implícita, acerca dos honorários advocatícios, entendendo que, quando houver aplicação da prescrição em favor da Fazenda, os honorários devem ser fixados em patamar irrisório; b) a fixação de honorários em valores irrisórios desnatura o esforço despendido na causa e arrefece o ímpeto de vitória; c) a verba foi fixada em apenas R$1.000,00, o que é aviltante.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 191-192.
+Parecer do MPF pelo não conhecimento às fls. 205-208.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Não se conhece da suposta ofensa aos arts. 458 e 535 do CPC/1973, pois a alegação de malferimento foi feita de forma vaga, genérica e, ainda, desconexa. Com efeito, a recorrente aponta a violação porque a Corte de origem teria adotado tese explícita sobre a possibilidade de o contribuinte poder envergar a compensação, mesmo antes do trânsito em julgado, ao simplesmente postar que não houve pedido de compensação.
+Inobstante, o acórdão recorrido deu provimento à apelação fazendária para reconhecer a ocorrência da prescrição quinquenal em relação à pretensão da parte contrária. Ora, a bem de ver, o tema não tem qualquer relação com o assunto sobre o qual alegadamente houve omissão. Tal situação não permite a exata compreensão da controvérsia e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Lado outro, evidencia-se que os arts. 20, 125, inc. I, e 127 do CPC/1973 (e a tese a eles vinculada) não foram apreciados pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Por fim, acrescenta-se que também não se conhece da suposta afronta aos arts. 125, inc. I, e 127 do CPC/1973, pois a recorrente não apresentou qualquer argumento a ensejar a apreciação da ofensa aos referidos normativos. Incide à hipótese, mais uma vez, a Súmula 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
