@@ -1,0 +1,11 @@
+DECISÃO
+01. Trata-se de Embargos de Declaração opostos por [NOME], em face do acórdão prolatado pela Quinta Turma desta Corte Superior (fls. 114/117), o qual, por não vislumbrar a existência de argumentos capazes de alterar o entendimento exposado na decisão monocrática (fls. 91/92), negou provimento à irresignação, mantendo o ato decisório objurgado.
+02. Compulsando as razões processuais, denota-se pela certidão de fls. 125, que o embargante não acostou a petição original, conforme determina o artigo 2º, da Lei 9800/99, o qual estipula que a utilização do sistema de transmissão de dados e imagens não prejudica o cumprimento dos prazos, devendo os originais, todavia, ser entregues em juízo, necessariamente, até cinco dias da data de seu término.
+03. No ponto, vale colacionar o seguinte julgado:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. FAC-SÍMILE. TRANSMISSÃO INCOMPLETA. ORIGINAL DA PETIÇÃO DOS EMBARGOS. PRAZO PARA A JUNTADA. NÃO OBSERVÂNCIA. EMBARGOS DECLARATÓRIOS NÃO CONHECIDOS.
+I - O art. 4º da Lei n. 9.800/1999 estabelece que deve existir perfeita concordância entre a cópia remetida via fac-símile e o original entregue em juízo, situação que não se verifica na espécie.
+II - O art. 2º da Lei nº 9.800/99, ademais, estipula que a utilização do sistema de transmissão de dados e imagens não prejudica o cumprimento dos prazos, devendo os originais ser entregues em juízo, necessariamente, até cinco dias da data de seu término.
+III - In casu, o fac-símile da petição dos embargos declaratórios foi protocolizado em 20/12/2010. Entretanto, somente em 21/2/2011 é que o original veio a ser apresentado, fora, portanto, do interstício previsto na legislação.
+Embargos de declaração não conhecidos. (EDcl no AgRg nos EDcl no AgRg no RE nos EDcl no AgRg no Ag 1140246/MT - EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO 2009/0012948-8, Corte Especial, Rel. Min. Felix Fischer, DJe. 03/06/2011)
+04. Nesses termos, forte nos argumentos acima, e tendo em conta o fato de não ter sido juntada a petição original, não conheço dos presentes Embargos de Declaração.
+P. e I.
