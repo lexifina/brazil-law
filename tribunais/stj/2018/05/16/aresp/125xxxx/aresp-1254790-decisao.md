@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS E REPARAÇÃO DE DANOS MATERIAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo conhecido. Recurso especial não conhecido, com majoração de honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ELAINE RODRIGUES DE OLIVEIRA, contra decisão que negou seguimento a recurso especial fundamentado, nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 07/04/2017
+Concluso ao gabinete em: 07/03/2018
+Ação: de compensação por danos morais e reparação de danos materiais ajuizada por ELAINE RODRIGUES DE OLIVEIRA em face de SANTA CASA DE MISERICÓRDIA DE MOGI DAS CRUZES, na qual alega que em 17 de maio de 2006 sofreu um acidente em seu trabalho, oportunidade em que sua mão esquerda ficou presa em uma máquina-prensa, vindo a ser esmagada. Aduz que recebeu os primeiros socorros no Pronto Socorro de Poá, sendo encaminhada para o Hospital Regional de Ferraz de Vasconcelos, onde foram feitos os primeiros exames e informada que as lesões eram recuperáveis e que não perderia os dedos. Transferida para o Hospital agravado no dia 19 de maio foram feitos outros exames e no mesmo dia a cirurgia. Alega que no dia seguinte ao procedimento recebeu alta e um receituário com a indicação dos medicamentos a serem ingeridos e dos cuidados que deviam serem tomados. Afirma que dois dias após ter recebido alta seus dedos começaram ficar a negros e sem mobilidade, procurou o hospital agravado para verificar o que estava acontecendo e lhe foi dito que teriam que ser amputados. Sustenta que procurou atendimento em uma clinica particular, momento que foi informada que houve erro médico, pois o procedimento feito no hospital agravado era inadequado e que teria que amputar os dedos. Requer a condenação da agravada ao pagamento de R$ 136.500,00 (cento e trinta e seis mil e quinhentos reais.) a título de danos materiais, além de compensação por danos morais.
+Sentença: julgou improcedentes os pedidos formulados na inicial, condenando a agravante ao pagamento de custas e despesas processuais, além de honorários advocatícios.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa (e-STJ fls. 879):
+EMENTA. Apelação. Ação de indenização por danos materiais e morais. Alegação de erro médico. Preliminar de cerceamento de defesa afastada. Laudo pericial conclusivo no sentido de que a necrose dos dedos da mão da autora não se deu em decorrência da cirurgia realizada no hospital réu, sendo o trauma seu fator fundamental.Ausência de nexo causal entre a evolução desfavorável do quadro clínico da autora e a conduta da equipe médica do réu. Recurso desprovido.
+Recurso especial: alega violação dos arts. 6º, III, 14, caput, e § 3º, I, II, CDC e 370 CPC/15, bem como dissídio jurisprudencial. Sustenta, preliminarmente, o cerceamento de defesa em 1º grau, afirma que a sua testemunha não foi ouvida e que era de fundamental importância para confirmar a sua versão. Aduz que o hospital responde objetivamente pelos danos causados aos seus pacientes e que o serviço prestado foi defeituoso, pois não informou seu real quadro de saúde. Sustenta que a perda dos dedos ocorreu pela cirurgia feita sem sucesso e não pela lesão. Assevera que jamais abandonou o tratamento e que o acórdão não valorou as provas adequadamente.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 6º, III, do CDC, indicado como violado. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas
+No julgamento do recurso de apelação interposto pela agravante, o TJ/SP decidiu no seguinte sentido:
+No caso, era desnecessária a produção de prova testemunhai, autorizando o julgamento antecipado da lide (art. 355, inciso I, do CPC).
+O d. Magistrado a quo ressaltou no despacho saneador, inclusive, que a prova oral somente seria colhida se necessária, após o esgotamento da prova pericial (fls. 278/279).
+Verificou-se, contudo, que a prova pericial e a prova documental encartadas nos autos foram suficientes para o deslinde da controvérsia, de modo que a oitiva da única testemunha arrolada pela apelante era prescindível, eis que por ser leiga em medicina não teria o condão de modificar as conclusões obtidas na perícia.
+ ..
+Ressalte-se, ademais, que no caso vertente a responsabilidade do apelado dependia da prova da culpa dos profissionais que atenderam a apelante, pois não obstante a responsabilidade dos hospitais seja objetiva, esta depende do prévio reconhecimento da conduta culposa do médico, que por ser profissional liberal possui responsabilidade subjetiva, dependendo da verificação de culpa, nos termos do § 4o do art. 14, do CDC.
+Contudo, como se verifica da prova pericial, não restou demonstrada a conduta culposa dos profissionais que atenderam a apelante, sendo afirmado pelo Sr. [NOME] que os danos por ela sofridos guardam "nexo causal com o trauma narrado na inicial, pois por si só já pode ser o determinante de um resultado funcional desfavorável" (fls. 487).
+Desse modo, alterar o decidido no acórdão impugnado, quanto aos referidos pontos, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A incidência da Súmula 7 desta corte do tema que se supõe divergente impede o conhecimento da insurgência pela alínea "c" doa rt. 105, III, da Constituição da República. Nesse sentido: AgInt no Aresp 821.337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 964.391/SP, 3ª Turma, DJe de 21/11/2016
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 2.000,00 (dois mil reais) sobre o valor da causa (e-STJ fls. 639) para R$ 2.500,00 (dois mil e quinhentos reais).
+Publique-se. Intimem-se.
