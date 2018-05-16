@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TJMG assim ementado (fl. 99):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO- INDISPONIBILIDADE "ON LINE" DE BENS - ART. 185-A DO CÓDIGO TRIBUTÁRIO NACIONAL - POUPANÇA - IMPENHORABILIDADE - ART. 649, INC. X DO CÓDIGO DE PROCESSO CIVIL. Nos termos do art. 649, inc. X, do CPC, valores não superiores a 40 (quarenta) salários mínimos depositados em poupança são impenhoráveis. v.v. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. BLOQUEIO DE VALOR. IMPENHORABILIDADE. ATIGO 649, INCISO X, DO CPC. COMPROVAÇÃO AUSENTE. Nos termos do art. 649, inciso X, do CPC, é vedada a penhora da quantia depositada em caderneta de poupança, até 40 (quarenta) salários mínimos. A parte executada o tem o ônus de demonstrar que se trata de conta poupança para ser, então, declarada a impenhorabilidade.
+Embargos de declaração não acolhidos.
+O recorrente alega violação do art. 1022 do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito das seguintes questões: a) diante da ocorrência de omissão, obscuridade ou contradição na decisão, interpôs embargos de declaração para ver sua questão examinada pelo TJMG; b) a documentação juntada pela recorrida não comprova que a conta bancária bloqueada tem natureza de poupança, sendo que o extrato apresentado deixa clara a sua utilização como conta corrente; c) assim, equivocada a decisão que deferiu o desbloqueio do valor penhorado; d) o acórdão foi omisso quanto à necessidade de intimação pessoal do Estado perante a decisão que deferiu o desbloqueio, em violação ao contraditório e ampla defesa.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 144-145.
+É o relatório. Passo a decidir.
+O recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de que remanesce obscuro, contraditório e omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da ausência de comprovação por parte da recorrida de que a conta inicialmente bloqueada (e que teve 70% dos valores dela constantes desbloqueados a posteriori) se refere à uma conta-poupança e a respeito da ausência de intimação pessoal do Estado acerca da decisão que deferiu o desbloqueio.
+Pois bem.
+Em relação ao primeiro ponto, retira-se do acórdão estadual que não há falar em qualquer dos vícios do art. 1022 do CPC/2015, visto que houve manifestação clara e fundamentada a respeito da matéria. Todavia, em relação ao segundo ponto (ausência de intimação pessoal do Estado acerca da decisão que deferiu o desbloqueio) não houve, realmente, manifestação do colegiado a quo.
+Ora, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao art. 1022 do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem se manifeste também a respeito da ausência de intimação pessoal do Estado acerca da decisão que deferiu o desbloqueio.
+Publique-se. Intimem-se.
