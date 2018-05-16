@@ -1,0 +1,15 @@
+Decisão
+    Trata-se de Embargos de Declaração contra decisão que negou seguimento ao Agravo em Recurso Extraordinário.
+    A parte embargante sustenta, tão somente, a necessidade de sobrestamento dos autos, para aguardar o julgamento dos embargos de declaração opostos no RE 870.947-RG, Rel. Min. LUIZ FUX, Tema 810, no qual se requer a modulação dos efeitos da decisão proferida pelo Plenário da CORTE.
+    É o relatório. Decido.
+    A decisão embargada não apresenta nenhum dos vícios passíveis de correção por meio de embargos de declaração, a saber, omissão, contradição, obscuridade ou erro material.
+    Evidencia-se o propósito infringente, para o qual não está vocacionado o presente recurso.
+    Ressalte-se, que esta CORTE já firmou entendimento no sentido de que a pendência de recurso interposto em face de julgado do Plenário que aprecia o mérito da repercussão geral não impede a aplicação do precedente. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. TRÂNSITO EM JULGADO. AUSÊNCIA. APLICAÇÃO IMEDIATA. POSSIBILIDADE. PENDÊNCIA DE EMBARGOS DE DECLARAÇÃO NO PARADIGMA. IRRELEVÂNCIA. PRECEDENTES. APLICABILIDADE DE MULTA NOS TERMOS DO § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. JULGAMENTO UNÂNIME: PRECEDENTES. SEGUNDOS EMBARGOS DE DECLARAÇÃO COM A PRETENSÃO DE REEXAME DA MATÉRIA. CARÁTER PROTELATÓRIO. EMBARGOS DE DECLARAÇÃO REJEITADOS. IMPOSIÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA.” (RE 989.413-AgR-ED-ED, Rel. Min. CÁRMEN LÚCIA, no exercício da Presidência, Plenário, DJE de 17/11/2017)
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. SISTEMÁTICA. APLICAÇÃO. PENDÊNCIA DE EMBARGOS DE DECLARAÇÃO NO PARADIGMA. IRRELEVÂNCIA. JULGAMENTO IMEDIATO DA CAUSA. PRECEDENTES. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. REDISCUSSÃO DA MATÉRIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS. I - Ausência dos pressupostos do art. 1.022, I, II e III, do Código de Processo Civil. II - A existência de decisão de mérito julgada sob a sistemática da repercussão geral autoriza o julgamento imediato de causas que versarem sobre o mesmo tema, independente do trânsito em julgado do paradigma. Precedentes. III - Busca-se tão somente a rediscussão da matéria, porém os embargos de declaração não constituem meio processual adequado para a reforma do decisão, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão. IV - Embargos de declaração rejeitados.” (RE 1.007.733-AgR-ED, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 31/10/2017)
+    Por todo o exposto, ausentes os vícios dos incisos do art. 1.022 do Código de Processo Civil de 2015, REJEITO OS EMBARGOS DE DECLARAÇÃO.
+    Publique-se.
+    Brasília, 16 de maio de 2018.
+Ministro Alexandre de Moraes
+Relator
+            Documento assinado digitalmente
