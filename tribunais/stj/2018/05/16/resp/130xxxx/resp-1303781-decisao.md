@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] COOPERATIVA DE SERVIÇOS MÉDICOS HOSPITALARES LTDA., com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ fl. 153):
+"Direito Processual Civil. Decisão saneando o feito. Não acolhimento da preliminar de litispendência. Cabimento. Não se vislumbram demandas idênticas a justificar a extinção do feito. Os pedidos são diversos. Numa o pedido é para anular a cláusula 8a, letra c, do estatuto da [NOME], sustando os atos que daí derivaram e, na outra, o pedido é mais amplo, reconhecer a abusividade das cláusulas 8a, C, 5a, IV e 45 do estatuto, reintegrar o autor em definitivo nos quadros médicos e determinar que a ré se abstenha de excluir o autor, por eventual prestação de serviço.
+Alegação de prescrição. Descabimento. Não está sendo pleiteada anulação da assembléia que determinou a retirada do autor do quadro de associados.
+Desprovimento do recurso."
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 161/164)
+Em suas razões recursais, a recorrente aponta ofensa aos arts. 128, 293, 460 e 535, II, do Código de Processo Civil de 1973 e ao art. 43 da Lei n. 5.764/1971. Aduz, inicialmente que, a despeito da oposição de embargos de declaração, o Tribunal de origem não se manifestou sobre a alegação de que, "se não houve a anulação da deliberação que culminou na exclusão do aqui recorrido da cooperativa dentro do prazo prescricional, é impossível conhecer do pedido formulado na causa de origem." (e-STJ fl. 175, grifos do original).
+Diz, ainda, que (e-STJ fl. 172):
+"(..)
+20. Na verdade, está-se diante de impossibilidade jurídica do pedido - ou, se assim não se entender, de falta de interesse processual, por inadequação da via eleita -, pois se mostra inviável o deferimento de seu reingresso à [NOME], em frontal antinomia a ato jurídico perfeito, manifestamente válido, eficaz e que, portanto, produz plenos efeitos. Incidem, na espécie, os artigos 128, 293 e 460 do Código de Processo Civil, tendo sido, portanto, violados pelo v. acórdão recorrido."
+Sem contrarrazões (e-STJ fl. 190).
+A Corte de origem inadmitiu o recurso especial (e-STJ fls. 191/193).
+Sobreveio r. decisão desta eg. Corte nos autos do AG 1.246.565/RJ dando provimento ao referido agravo de instrumento e, ato contínuo, determinando a subida do recurso especial a este Sodalício (e-STJ fl. 206).
+É o relatório. Passo a decidir.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+Na origem, cuida-se de agravo de instrumento interposto pela recorrente contra r. decisão do Juízo de Primeiro Grau que não reconheceu a arguição de litispendência entre a presente ação anulatória do ato da assembléia que determinou o afastamento do recorrido do quadro de cooperados da cooperativa-recorrente, em razão do anterior ajuizamento de ação civil pública discutindo idêntica questão em outros Juízos.
+Compulsando o andamento processual no site oficial do Tribunal de Justiça do Estado do Rio de Janeiro (Processo n. 0075506-30.2007.819.0002 - número de origem: 2007.002.074864-7), verifica-se que, na data de 09.09.2010, sobreveio r. sentença que julgou improcedente o pedido inicial da ação anulatória, condenando o autor, ora recorrido, ao pagamento das despesas processuais e honorários advocatícios, arbitrados em R$ 800,00.
+Impende destacar, ainda, que o recorrido interpôs recurso de apelação em face da r. sentença de improcedência, o qual foi desprovido pelo eg. Tribunal de origem, resultando na interposição do REsp 1.311622/RJ, julgado procedente por esta Relatoria, conforme decisão monocrática publicada no DJe, em 20.04.2018.
+Nesse contexto, é de rigor reconhecer que não mais subsiste interesse na discussão travada no presente recurso especial, no tocante à aludida prescrição e à suposta litispendência do processo principal com outra ação civil púbica em trâmite em outro Juízo. Confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO DE DECISÃO QUE HOMOLOGA CÁLCULOS DO PERITO JUDICIAL. SUPERVENIÊNCIA DE SENTENÇA. PERDA DO OBJETO. DECISÃO MANTIDA.
+1. A jurisprudência do STJ é no sentido de que, havendo a superveniência de sentença que analisa a matéria impugnada, perdem o objeto os recursos anteriores que versaram sobre a questão resolvida por decisão interlocutória combatida via agravo de instrumento, como ocorreu no presente caso. Precedentes.
+2. Agravo interno não provido."
+(AgInt no AREsp 396.382/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/04/2017, DJe 27/04/2017)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO EM AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA. PERDA DO OBJETO.
+1. "A superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento. Precedentes" (AgRg no REsp 1485765/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/10/2015, DJe 29/10/2015).
+2. Agravo interno não provido."
+(AgInt no REsp 1587662/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/02/2017, DJe 09/02/2017)
+"DIREITO DO CONSUMIDOR E DIREITO CIVIL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. RECURSO ESPECIAL INTERPOSTO NO BOJO DE AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO.
+1. A jurisprudência desta Corte Superior firmou entendimento no sentido de que resta prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, tendo em vista ser esta de cognição exauriente.
+2. Recurso especial não conhecido."
+(REsp 1326361/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/11/2016, DJe 01/12/2016)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. DECISÃO INTERLOCUTÓRIA QUE NÃO CONHECEU DA EXCEÇÃO DE INCOMPETÊNCIA. RECURSO ESPECIAL CONTRA O ACÓRDÃO DO AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA QUE NOVAMENTE ANALISA A ALEGADA INCOMPETÊNCIA DO JUÍZO E A RECHAÇA. RECURSO ESPECIAL PREJUDICADO. 2. AGRAVO DESPROVIDO.
+1. Tendo sido prolatada sentença nos autos da ação indenizatória, ocasião na qual foi reafirmada a competência do Juízo de origem para o julgamento da demanda em questão, resta prejudicado o recurso especial interposto contra o acórdão do agravo de instrumento confirmatório da decisão interlocutória que também tratou do tema. Assim, caso a agravante pretenda continuar questionando a competência do juízo, deverá fazê-lo por meio de recurso apresentado contra a sentença, e não mais por intermédio do agravo de instrumento, eis que houve a perda do objeto.
+2. Agravo regimental desprovido."
+(AgRg no AREsp 709.332/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 03/05/2016, DJe 13/05/2016)
+Diante do exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o recurso especial, por perda superveniente de objeto.
+Publique-se.
