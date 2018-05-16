@@ -1,0 +1,23 @@
+Decisão:
+    Trata-se de embargos de declaração opostos contra decisão monocrática de minha relatoria, assim fundamentada:
+    “Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    ‘APELAÇÃO. TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA COLETIVO. INEXIGIBILIDADE DO PIS E DA COFINS. BASE DE CÁLCULO DO ISS E ICMS. AUSÊNCIA DE PROVA DA EXISTÊNCIA DE ASSOCIADOS COM DOMICÍLIO FISCAL NO ÂMBITO DE ATUAÇÃO DA AUTORIDADE DITA COATORA. EXTINÇÃO DO FEITO SEM JULGAMENTO DE MÉRITO.
+    Cabia à impetrante comprovar a existência de associado com domicílio fiscal atendido pela autoridade dita coatora, já que contra esta dirigiu o mandamus. Não o tendo feito, impossível reconhecer a legitimidade passiva ou o interesse de agir, porquanto ninguém seria beneficiado com decisão que viesse a ser proferida nestes autos’.
+    O recurso extraordinário busca fundamento no art. 102, III, a da Constituição Federal. A parte recorrente alega violação ao art. 5º, LXX, b, da Constituição.
+    O recurso não deve ser provido. O Plenário Virtual do Supremo Tribunal Federal, ao analisar o AI 800.074-RG, Rel. Min. Gilmar Mendes, assentou a ausência de repercussão geral da controvérsia ora em debate, relativa ao cabimento do mandado de segurança e o preenchimento dos requisitos do writ, por estar restrita ao âmbito infraconstitucional. Confira-se a ementa do referido julgado:
+    ‘Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral.’
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF)”.
+    A parte embargante sustenta que: (i) o acórdão recorrido contraria de forma evidente as Súmulas 629/STF e 630/STF; (ii) a jurisprudência do Supremo Tribunal Federal entende pela legitimidade ativa das Associações para impetração de mandado de segurança coletivo.
+    O recurso não pode ser acolhido, tendo em vista a inexistência de obscuridade, contradição, omissão ou erro material na decisão questionada, o que afasta a presença dos pressupostos de embargabilidade, conforme o art. 1.022 do CPC/2015.
+    Estes embargos veiculam pretensão meramente infringente. Objetivam tão somente o reexame de pedido já repelido. E os embargos não podem conduzir à renovação do julgamento que não se ressente de nenhum vício e, muito menos, à modificação do julgado.
+    A parte recorrente limita-se a postular uma nova apreciação do mérito de um julgamento que transcorreu de forma regular. Incide, no caso, a jurisprudência do Supremo Tribunal Federal que afasta o cabimento dos declaratórios com essa finalidade.
+    Este Tribunal fixou o entendimento de que não se revelam cabíveis embargos de declaração quando, a pretexto de esclarecer uma inexistente situação de obscuridade, omissão ou contradição, vêm a ser opostos com o inadmissível objetivo de infringir o julgado, em ordem a viabilizar um indevido reexame da causa (AI 177.313-AgR-ED, Rel. Min. Celso de Mello).
+    Restou claro na decisão embargada que a controvérsia relativa ao cabimento e aos pressupostos do mandado de segurança não tem repercussão geral, conforme consignado pelo Plenário do STF no AI 800.074-RG. Confira-se a ementa:
+    “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral.” (AI 800.074-RG, Rel. Min. Gilmar Mendes)
+     Na mesma linha do referido paradigma, veja-se o seguinte julgado:
+    “CONSTITUCIONAL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE CABIMENTO DE MANDADO DE SEGURANÇA. MATÉRIA INFRACONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE PELO STF. AUSÊNCIA DE PLANO DIRETOR, SUPOSTA AMPLIAÇÃO DA BASE DE CÁLCULO DO IPTU PELA CONVERSÃO DA UFIR E INEXISTÊNCIA DE PUBLICAÇÃO DOS ANEXOS DA LEI QUE ALTEROU A PLANTA GENÉRICA DE VALORES: REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE. SÚMULA 279 DO STF. IPTU. ALÍQUOTAS PROGRESSIVAS DEPOIS DA EC 29/2000. CONSTITUCIONALIDADE. TAXA DE REMOÇÃO DE LIXO DOMICILIAR. CONSTITUCIONALIDADE. SÚMULA VINCULANTE 19 E 29 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE 487.363-AgR, Rel. Min. Teori Zavascki)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, rejeito os embargos de declaração.
+    Publique-se.
+          Brasília, 16 de maio de 2018.
+Ministro Luís Roberto Barroso
+Relator
