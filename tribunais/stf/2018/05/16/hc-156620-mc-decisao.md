@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Vara Plantão da Comarca de Itapetininga/SP, no processo nº 0000793-79.2017.8.26.0571, em audiência de custódia, converteu em preventiva a prisão em flagrante do paciente, ocorrida em 5 setembro de 2017, ante a suposta prática da infração prevista no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Afirmou haver prova da materialidade do delito – consubstanciada na apreensão de 11 pedras de crack, pesando 1,7 gramas; 2 cápsulas de cocaína, perfazendo 1,4 gramas; e 9 porções de maconha, totalizando 39,2 gramas – e indícios de autoria. Consignou necessária a constrição para garantir a ordem pública, aludindo ao sentimento de impunidade. Afastou a viabilidade de medida cautelar diversa, dizendo-a inadequada.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 438.056/SP, o qual teve a liminar indeferida pelo Relator.
+    Os impetrantes alegam ser o caso de superação do verbete nº 691 da Súmula do Supremo. Sustentam a inidoneidade da fundamentação do ato mediante o qual convertido o flagrante, entendendo-o abstrato e genérico. Assinalam a inobservância do disposto no artigo 312 do Código de Processo Penal. Apontam o caráter excepcional da custódia, reputando suficientes as medidas alternativas à prisão. Realçam as condições pessoais favoráveis – residência fixa, atividade laboral lícita, primariedade e bons antecedentes. Sublinham a pequena quantidade de entorpecente apreendido. Frisam encontrar-se o paciente preso há mais de 6 meses, sem que tenha sido iniciada a instrução processual, a evidenciar a projeção da constrição no tempo.
+    Requerem, no campo precário e efêmero, o afastamento da preventiva, com expedição de alvará de soltura. No mérito, pretendem a confirmação da providência.
+    Em consulta ao sítio do Tribunal estadual, em 12 de maio de 2018, verificou-se que o processo-crime, em trâmite na Primeira Vara Criminal da Comarca de Tatuí/SP, está na fase de instrução.
+    A etapa é de apreciação da medida acauteladora.
+    2. A gradação do tráfico de drogas, considerada a quantidade de substâncias apreendidas – 1,7 gramas de crack, 1,4 gramas de cocaína e e 39,2 de maconha –, revela estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, levando em conta os fortes indícios de periculosidade do paciente, a medida se impunha. Esse enfoque é incontestável. Daí, no caso específico, ter-se como razoável e conveniente o ato atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Ocorre que, o paciente encontra-se recolhido, sem culpa formada, desde o dia 5 de setembro de 2017, ou seja, há 8 meses e 11 dias. Surge o excesso de prazo considerada a custódia provisória e o estágio do processo-crime, porquanto sequer encerrada a instrução criminal. A preventiva deve ser balizada no tempo. Privar da liberdade, por prazo desproporcional, pessoa cuja responsabilidade penal não foi declarada em definitivo viola o princípio da não culpabilidade. Nada, absolutamente nada, justifica tal fato.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da prisão preventiva retratada no processo nº 0000793-79.2017.8.26.0571, da Primeira Vara Criminal da Comarca de Tatuí/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. O curso deste habeas não prejudica o de nº 438.056/SP, em trâmite no Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Ribeiro Dantas.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 16 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
