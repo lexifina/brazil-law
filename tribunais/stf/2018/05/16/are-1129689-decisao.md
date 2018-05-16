@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “ADMINISTRATIVO. AGÊNCIA NACIONAL DE AVIAÇÃO CIVIL – ANAC. RESOLUÇÃO Nº 5/2006. REGULAMENTO BRASILEIRO DE HOMOLOGAÇÃO AERONÁUTICA – RBHA 61. LICENÇA DE PILOTO DE LINHA AÉREA – PLA. REQUISTOS. EXPERIÊNCIA OBRIGATORIEDADE.
+    1. Trata-se de pedido de revalidação de licença de piloto de linha área – PLA, expedida pelo antigo DAC. Alega o Autor que o Juízo a quo reconheceu a existência de sua licença de piloto de linha área – PLA, embora tenha decidido que o mesmo não preenche os requisitos exigidos para a revalidação da mesma pela ANAC.
+    2. Não merece razão o Apelante, inicialmente porque a licença, outrora concedida pelo antigo DAC, possuía prazo de validade, e deveria obedecer ao regramento da Portaria nº 170/DGAC, para a sua revalidação, sendo que, após a criação da ANAC, em 27 de setembro de 2005, a 17 revalidação se dá nos termos da Resolução nº 5, de 13 de dezembro de 2006, que altera a seção 61.45 do Regulamento Brasileiro de Homologação Aeronáutica nº 61, fazendo-se necessário o cumprimento de requisitos, dentre outros, experiência, no caso, ter realizado no mínimo 1.500 (mil e quinhentas) horas de voo como piloto de avião, conforme previsto no item 61.115 do RBHA 61, contudo o próprio Apelante alega na exordial o cumprimento de 1400 horas de voo apenas.
+    3. De toda sorte, o Apelante não preenchia o requisito de experiência mesmo em relação à legislação anterior, como bem ressaltado pelas contrarrazões “A legislação aplicável à ocasião era a Portaria nº 170/DGAC, de 21 de setembro de 1983, a qual determina a observância das Normas e Recomendações da sétima Edição do Anexo I à Convenção de Aviação Civil Internacional ...O referido anexo I, em seu item 2.6.1.3.1, tal qual o faz a Resolução RBHA 61, menciona a necessidade do cumprimento de pelo menos 1500 (mil e quinhentas) horas de voo como um dos requisitos para a concessão da licença PLA, ...Vê-se, pois, que as regras referentes à concessão da licença PLA não foram alteradas pela Resolução RBHA 61, tão-somente repetidas, tais quais vigiam anteriormente.”
+    5. Recurso desprovido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LIV e LV, e 37 da Constituição.
+    O recurso não deve ser admitido. Isso porque, para divergir do entendimento formado pelo Tribunal de origem, são imprescindíveis a análise da legislação local aplicada à espécie e o reexame do conjunto fático probatório dos autos, procedimentos vedados neste momento processual pelas Súmulas 279 e 280/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 16 de maio de 2018.
+Ministro Luís Roberto Barroso
+Relator
