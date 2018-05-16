@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CAMILA DE JESUS TEODORO, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 0002177-10.2016.8.26.0540).
+Consta dos autos ter sido a paciente condenada à pena de 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, a ser cumprida inicialmente no regime fechado, bem assim ao pagamento de 14 (catorze) dias-multa, pela prática do crime previsto no art. 157, § 2º, inciso II, do Código Penal.
+Irresignada, a defesa ingressou com recurso, tendo o Tribunal de origem dado parcial provimento ao apelo apenas para corrigir erro material, mantida inalterada a reprimenda imposta (e-STJ fls. 30/45).
+No presente writ, sustenta o impetrante que a paciente faz jus à fixação do regime intermediário, já que a imposição do regime fechado justificou-se na gravidade abstrata do delito, invocando o disposto nos enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal. Diante disso, busca, inclusive liminarmente, seja estabelecido o regime semiaberto para início de desconto da sanção reclusiva e, com isso, determinada a inserção da paciente no regime aberto, "ante o cumprimento de mais de 1/6 de sua pena em regime fechado" (e-STJ fl. 8).
+O pedido liminar foi indeferido (e-STJ fls. 51/52).
+Ouvido, o Ministério Público Federal manifestou-se pelo não conhecimento do presente remédio constitucional (e-STJ fls. 57/58).
+É, em síntese, o relatório.
+Consoante se observa do relatório, busca a defesa a modificação do regime inicial de cumprimento da sanção imposta à paciente.
+Na espécie, o Magistrado singular, na primeira etapa da dosimetria, estabeleceu a pena-base acima do mínimo legal, tendo em vista a maior reprovabilidade da conduta de praticar o crime em uma residência.
+Na segunda etapa, a sanção permaneceu inalterada.
+Na derradeira fase, aplicou-se o aumento de 1/3 (um terço), na forma do art. 157, § 2º, inciso II, do Código Penal, alcançando a reprimenda definitiva o patamar de 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão.
+Nesse contexto, diante da maior reprovabilidade do comportamento, estabeleceu o sentenciante o regime fechado para o início do cumprimento da pena.
+O colegiado manteve o regime mais severo, "pois os fatos concretos e as circunstâncias judiciais aferidas, ambos extraídos dos autos, demonstram não ser recomendável a adoção de regime prisional mais brando, sobretudo para não se provocar afrouxamento excessivo e intolerável estímulo ao criminoso, forjando, em seu espírito, a sensação de uma ilusória impunidade" (e-STJ fl. 43).
+Assim também me parece.
+Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o sentenciante deverá observar a quantidade da reprimenda aplicada, bem assim a eventual existência de circunstâncias judiciais desfavoráveis.
+Nessa toada, entendo que o regime inicial fechado deve ser mantido. Isso porque as instâncias de origem, ao fixarem a reprimenda aplicada à paciente, destacaram a existência de circunstâncias judiciais desfavoráveis, notadamente as circunstâncias do crime, praticado em residência. Diante desse cenário, embora a paciente tenha sido condenada à reprimenda inferior a 8 (oito) anos de reclusão, o regime inicial mais severo, diante das circunstâncias judiciais desfavoráveis reconhecidas na origem, é o que se apresenta mais adequado à prevenção e à repressão do delito em apreço.
+No mesmo sentido:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. ROUBO MAJORADO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. POSSIBILIDADE. CIRCUNSTÂNCIAS CONCRETAS. MAIOR REPROVABILIDADE DA CONDUTA.VIOLÊNCIA EXACERBADA. APLICAÇÃO DE FRAÇÃO SUPERIOR A 1/3 NA TERCEIRA FASE. FUNDAMENTAÇÃO CONCRETA. ENUNCIADO N. 443 DA SÚMULA DO STJ. NÃO APLICAÇÃO. REGIME INICIAL FECHADO. CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO DELITO DESFAVORÁVEIS. REGIME MAIS GRAVOSO ADMITIDO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- No caso, a pena-base foi exasperada com fundamentação idônea, porquanto baseada em circunstâncias concretas, tendo em vista que o paciente, com mais três corréus, todos munidos com armas de fogo, violaram a residência das vítimas e utilizaram-se de violência exacerbada, motivo pelo qual a fração de aumento operada pelas instâncias ordinárias está devidamente motivada e não merece reparos.
+- Na hipótese, o aumento da pena na terceira fase da calibragem na fração superior ao mínimo, em razão da incidência de três majorantes, decorreu de peculiaridades concretas do crime - quatro agentes envolvidos na empreitada criminosa, com emprego de arma de fogo, bem como restrição da liberdade das vítimas por prazo considerável. Em tais condições, fica afastada a aplicação do enunciado n. 443 da Súmula desta Corte.
+- O regime de cumprimento de pena mais gravoso foi estabelecido em função da existência de circunstâncias judiciais desfavoráveis, in casu, as circunstâncias e as consequências do delito, em observância ao disposto no art. 33, § 3º, do CP e da jurisprudência pacífica desta Corte Superior.
+- Habeas corpus não conhecido.
+(HC 354.373/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/12/2017, DJe 18/12/2017, grifei.)
+HABEAS CORPUS. PENAL. ART. 157, § 2.º, INCISOS I E II, DO CÓDIGO PENAL. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. PROPORCIONALIDADE ENTRE OS FUNDAMENTOS JUDICIAIS E A EXASPERAÇÃO DA REPRIMENDA. MOTIVAÇÃO VÁLIDA. CONSUMAÇÃO. OCORRÊNCIA. DESNECESSÁRIA A POSSE MANSA E PACÍFICA. REGIME PRISIONAL FECHADO. LEGALIDADE. INTELIGÊNCIA DOS ARTS. 59 E 33, § 2º, DO CÓDIGO PENAL. PRECEDENTES. HABEAS CORPUS DENEGADO. ATENUANTE DA CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO COM AGRAVANTE DA REINCIDÊNCIA. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
+ ..
+4. As instâncias ordinárias consideraram desfavoráveis aos réus as circunstâncias judiciais do caso concreto, razão pela qual, fundamentadamente, fixaram a pena-base acima do mínimo legal e o regime prisional mais gravoso, valendo-se da interpretação conjunta dos arts. 59 e 33, § 2º, ambos do Código Penal, o que afasta a alegação de qualquer ilegalidade.
+5. A Terceira Seção desta Corte Superior de Justiça, após o julgamento do EREsp n.º 1.154.752/RS, pacificou o entendimento no sentido da inexistência de preponderância entre a agravante da reincidência e a atenuante da confissão espontânea, a teor do art.
+67 do Código Penal, pelo que é cabível a compensação dessas circunstâncias.
+6. Habeas corpus denegado. Ordem de habeas corpus concedida de ofício para, mantida a condenação, compensar a atenuante da confissão espontânea com a agravante da reincidência, apenas para os dois primeiros Pacientes, uma vez que o terceiro é primário, e redimensionar a sanção penal nos termos do voto.
+(HC 253.529/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 03/09/2013, DJe 11/09/2013, grifei.)
+Logo, não constato o constrangimento ilegal apontado pela defesa.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
