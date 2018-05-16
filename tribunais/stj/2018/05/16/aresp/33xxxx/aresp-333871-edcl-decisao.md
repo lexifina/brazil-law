@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] contra decisão monocrática que conheceu do agravo pera negar provimento ao recurso especial.
+Nas razões dos declaratórios, os embargantes alegam que a decisão é contraditória e obscura, porque: (a) demonstrou que o Tribunal de Justiça gaúcho entende que a concessão de aposentadoria por invalidez pelo INSS é quanto basta para o pagamento do prêmio securitizado; (b) realizou o cotejo analítico; (c) negou provimento ao recurso especial pela alínea "a" afirmando que o enfrentamento da tese ora debatida dependeria de reavaliação de cláusulas contratuais e matéria fático-probatória, expressamente mencionando a tese acerca da concessão de aposentadoria por invalidez, e, ao mesmo tempo, deixou de conhecer o recurso pela alínea "c", embora bastante claro que esta é a tese adotada pelo TJRS.
+Decorrido o prazo legal sem apresentação de impugnação (e-STJ, fl. 683).
+É o relatório. Passo a decidir.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, não se vislumbra as alegadas contradição ou obscuridade, consoante se extrai da decisão embargada, tendo sido exposto de forma clara e precisa os fundamentos do não conhecimento do agravo em recurso especial. Confira-se:
+"Quanto à questão de fundo, a Corte de origem, ao dirimir a controvérsia mediante o exame dos elementos informativos dos autos, concluiu, em relação à cobertura securitária por invalidez permanente pleiteada pela agravada, que: (a) a apólice firmada entre as partes exige, para o pagamento de indenização por invalidez permanente, causada por acidente ou doença, que a incapacidade dela resultante seja total, definitiva e irrecuperável e, (b) "muito embora tenha a autora obtido sua aposentadoria por invalidez em decorrência de sua doença, não lhe confere automaticamente o direito ao prêmio" (e-STJ, fl. 454), tratando-se de situações diversas e submetidas a regramentos distintos. Confiram-se:
+(..)
+Para alterar os fundamentos acima transcritos e reconhecer que, à luz do contrato firmado entre as partes, a comprovação da aposentadoria por invalidez junto ao INSS seria suficiente para a exigibilidade da cobertura securitária por invalidez, mostra-se imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável no âmbito do recurso especial, tendo em vista o teor das Súmulas nº 5 e 7 do STJ. Nesse sentido:
+(..)
+O recurso também não merece prosperar pela alínea "c" do permissivo constitucional em razão do descumprimento do disposto nos arts. 541, parágrafo único, do CPC/73 e 255, § 2º, do RISTJ. Com efeito, para a caracterização da sugerida divergência jurisprudencial, não basta a simples transcrição de ementas ou trechos do voto. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos mencionados dispositivos. Confiram-se os seguintes julgados:
+(..)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. "
+(fls. 408/411 - grifou-se)
+Destaque-se, nesse sentido, que, embora alegue existir contradição ou obscuridade, as alegações trazidas à baila apontaram erro in judicando, visando não à integração da decisão recorrida, que a embargante entendeu desacertada, mas a sua reforma.
+Verifica-se, assim, o nítido propósito da parte em rediscutir temas que foram devidamente apreciados, o que é defeso através da via processual escolhida, desautorizando, desse modo, o acolhimento da pretensão deduzida nos presentes aclaratórios.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
