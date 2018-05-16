@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem, confirmando o entendimento do Juízo, julgou improcedente o pedido de extensão da parcela individual fixa a servidor público distrital. No extraordinário cujo trânsito busca alcançar, a recorrente alega violados os artigos 5º, inciso XXXV, 7º, incisos V, VI, X e XXX, da Constituição Federal. Sustenta ser integrante da carreira de assistência pública à saúde, ressaltando possuir direito adquirido ao recebimento da gratificação. Aponta a inobservância aos direitos do trabalhador.
+    2. Colho da decisão recorrida o seguinte trecho:
+    A Lei 3.172/2003, que criou a obrigação de pagamento de parcela individual fixa, para os servidores da administração pública do Distrito Federal, tinha como mens legis proporcionar o reajuste geral dos servidores naquele ano e, portanto, não beneficia os Agentes Comunitários de Saúde, cuja carreira foi criada apenas em 2013.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso. Divergir deste entendimento demandaria, em última análise, o reexame dos elementos probatórios, o que é vedado em sede de extraordinário.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à análise da Lei distrital n° 3.172/03. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 5% do valor da causa, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 16 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
