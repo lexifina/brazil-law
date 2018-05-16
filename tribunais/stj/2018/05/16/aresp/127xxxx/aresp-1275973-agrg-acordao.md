@@ -1,0 +1,42 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. VIOLAÇÃO AO § 4º DO ART. 33 DA LEI Nº 11.343/06. CAUSA DE DIMINUIÇÃO DA PENA. QUANTUM DE DIMINUIÇÃO. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a incidência de eventuais causas de aumento ou diminuição de pena, bem como a fração a ser aplicada. Óbice do enunciado n.º 7 da Súmula desta Corte Superior de Justiça.
+2. Agravo regimental a que se nega provimento.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça: A Sexta Turma, por unanimidade, negou provimento ao agravo, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relator):
+Trata-se de agravo regimental interposto por PAUL [NOME] e CHIGOZIE EGWUATU, contra decisão monocrática da minha lavra, sintetizada nos seguintes termos (fl. 528):
+"PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. VIOLAÇÃO AO § 4º DO ART. 33 DA LEI Nº 11.343/06. CAUSA DE DIMINUIÇÃO DA PENA. QUANTUM DE DIMINUIÇÃO. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO".
+Em seu agravo regimental, juntado aos autos às fls. 536/539, os agravantes sustentam que "o artigo violado, que aqui se discute, trata de matéria jurídica e não fática. Não se cuida de provar ou deixar de provar fatos ou circunstâncias, mas, estando estes já provados, cuida-se sim de adequá-los ou não às situações previstas na norma. Este questionamento é, portanto, jurídico, razão pela qual é perfeitamente possível fazê-lo em sede de Recurso Especial".
+Afirmam que "se preenchem todos os requisitos exigidos para a concessão do benefício previsto no § 4º do art. 33 da Lei 11.343/06, evidenciando serem favoráveis as circunstâncias judiciais do art. 59 do CP, induvidosamente a redução da pena prevista no §4º do art. 33 deve ser fixada em seu máximo, ou seja, 2/3".
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. VIOLAÇÃO AO § 4º DO ART. 33 DA LEI Nº 11.343/06. CAUSA DE DIMINUIÇÃO DA PENA. QUANTUM DE DIMINUIÇÃO. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a incidência de eventuais causas de aumento ou diminuição de pena, bem como a fração a ser aplicada. Óbice do enunciado n.º 7 da Súmula desta Corte Superior de Justiça.
+2. Agravo regimental a que se nega provimento.
+
+VOTO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relator):
+A insurgência não merece prosperar.
+Com efeito, no que concerne à sustentada ofensa ao artigo 33, parágrafo 4º, da Lei 11.343/06, nos termos do exposto na decisão agravada, observa-se que o exame da matéria implicaria em nova análise do conjunto fático-probatório produzido nos autos. Deveras, assim se manifestou a Corte a quo acerca da aplicação da causa de diminuição de pena em favor dos acusados, em grau diverso do máximo (fl. 459 e 462):
+"No caso em análise, o réu é primário e não ostenta maus antecedentes. Não há prova nos autos de que se dedica a atividades criminosas, nem elementos para concluir que integra organização criminosa, apesar de encarregado do transporte da droga. Por outro lado, caberia à acusação fazer tal prova, ônus do qual não se desincumbiu. Certamente, estava transportando a droga para bando criminoso internacional, o que não significa, porém, que fosse integrante dele.
+Pois bem, considerando as circunstâncias subjetivas e objetivas do caso, em que o réu intentava transportar droga até a Nigéria, entendo deva ser a pena reduzida em 1/6 (um sexto), patamar inferior àquele usado pelo juiz sentenciante (1/2).
+Saliento que o réu associou-se, de maneira eventual e esporádica, a uma organização criminosa de tráfico internacional de drogas, tendo recebido promessa financeira, cumprindo papel de importância na cadeia do tráfico internacional de drogas e para o êxito da citada organização, pelo que deve ser beneficiado apenas com o patamar mínimo".
+Nesse contexto, verifica-se não possuir esta senda eleita espaço para a análise da matéria suscitada pelos recorrentes, cuja missão pacificadora restara exaurida pelas instâncias anteriores. De fato, a Corte local, soberana na análise das circunstâncias fáticas da causa, entendeu que os recorrentes preenchiam os requisitos subjetivos para fazer jus ao reconhecimento da causa especial de diminuição de pena prevista no § 4º do artigo 33 da Lei de Drogas, porém, em grau diverso do máximo, porquanto associaram-se, "de maneira eventual e esporádica, a uma organização criminosa de tráfico internacional de drogas, tendo recebido promessa financeira, cumprindo papel de importância na cadeia do tráfico internacional de drogas e para o êxito da citada organização" (fls. 459 e 462). Dessa forma, reavaliar o quantum de diminuição que deveria ser aplicado aos réus demandaria, necessariamente, o reexame fático e probatório dos elementos carreados aos autos, procedimento vedado na via dos apelos excepcionais.
+De fato, é assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a incidência de eventuais causas de aumento ou diminuição de pena, bem como a fração a ser aplicada. Assim, para se chegar a conclusão diversa da que chegou o Tribunal de origem, seria inevitável o revolvimento do arcabouço carreado aos autos, procedimento sabidamente inviável na instância especial, conforme o enunciado n.º 7 da Súmula deste Superior Tribunal de Justiça, verbis: "A pretensão de simples reexame de prova não enseja Recurso Especial". Confiram-se:
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. DIREITO PENAL. TRÁFICO DE ENTORPECENTES. CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. FRAÇÃO DO REDUTOR. DISCRICIONARIEDADE. ALTERAÇÃO DO PATAMAR. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DE PROVA. SÚMULA 7/STJ. INSURGÊNCIA DESPROVIDA.
+1. Este Superior Tribunal de Justiça tem entendimento consolidado no sentido de que a dosagem do decréscimo da pena em virtude do reconhecimento da minorante inserta no artigo 33, § 4º da Lei 11.343/2006 depende do juízo de discricionariedade regrada do julgador, pois o Código Penal não estabeleceu limites para tal operação.
+2. Na hipótese, a aplicação do redutor se deu no patamar de 1/2 (metade) em razão das circunstâncias do delito como um todo.
+3. Desconstituir a conclusão a que chegou a instância ordinária no que tange ao quantum de redução mais adequado ao caso exige revisão de matéria fática, inviável nesta via. Aplicação do verbete n. 7 da Súmula do STJ.
+4. Agravo regimental desprovido".
+(AgRg no REsp 1480765/PR, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 18/06/2015, DJe 29/06/2015)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. QUANTUM ESTABELECIDO. PREPONDERÂNCIA DO ART. 42 DA LEI N. 11.343/2006. REVISÃO. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DO VERBETE N. 7 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. PATAMAR MÁXIMO. DISCUSSÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA N. 7/STJ. REGIME FECHADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PENA FINAL FIXADA EM PATAMAR SUPERIOR A QUATRO ANOS. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. INVIABILIDADE. AGRAVO DESPROVIDO.
+(..)
+- A alteração do percentual de diminuição da pena previsto no § 4º do artigo 33 da Lei n. 11.343/2006, no caso dos autos, demandaria a incursão no conjunto probatório, medida vedada em sede de recurso especial.
+(..)
+- Agravo regimental desprovido".
+(AgRg no REsp 1386754/SP, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 05/03/2015, DJe 13/03/2015)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
