@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+DIREITO CIVIL - AÇÃO ANULATÓRIA DE ALTERAÇÃO DE ESTATUTO SOCIAL - ASSOCIAÇÃO CIVIL - CLUBE RECREATIVO - DIREITO ADQUIRIDO À PERENIDADE DO ESTATUTO - AUSÊNCIA - REGULARIDADE DA CONVOCAÇÃO E DA ASSEMBLEIA - CONSTATAÇÃO - VALIDADE DA ALTERAÇÃO ESTATUTÁRIA.
+1. A possibilidade de modificação do estatuto social visa evitar o engessamento da associação diante de um novo contexto fático, razão pela qual não há que se falar em direito adquirido á isenção das mensalidades para os associados proprietários de três ou mais cotas.
+2. A lei não distingue se a decisão deve ser tomada por assembleia "ordinária" ou "extraordinária", exigindo apenas que haja convocação específica para o fim de alteração do estatuto, com o quórum por este definido.
+3. Diante da evidente regularidade da convocação e da própria assembleia que promoveu a vergastada alteração no estatuto social do clube requerido, a improcedência dos pedidos inicias é medida que se impõe.
+Alega-se, no especial, violação dos artigos 6º, § 2º, do Decreto-Lei 4.657/42 e 51 do Código de Defesa do Consumidor sob a alegação de violação ao direito adquirido.
+Assim delimitada a controvérsia, passo a decidir.
+A questão suscitada é a de direito adquirido dos agravantes à isenção das mensalidades, de acordo com a quantidade de quotas sociais que detêm, da associação agravada, nos termos do respectivo estatuto.
+Concluiu a Corte local que a "possibilidade de modificação do estatuto social visa evitar o engessamento da associação diante de um novo contexto fático, razão pela qual não há que se falar em direito adquirido à isenção das mensalidades para os associados proprietários de três ou mais cotas" (e-STJ, fl. 275).
+Permitindo, assim, a modificação do estatuto, porque atendidos os requisitos normativos internos para tanto, andou de acordo com o entendimento desta Casa no sentido de que não há direito adquirido a ordenamento normativo, ainda que interno.
+Assim:
+RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ASSEMBLEIA. PRELIMINARES AFASTADAS. CERCEAMENTO DE DEFESA RECONHECIDO PELA APLICAÇÃO DOS PRINCÍPIOS CONSTITUCIONAIS DA AMPLA DEFESA E DO CONTRADITÓRIO. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. INVALIDADE DO ATO DELIBERADO EM ASSEMBLEIA QUE ATINGE O DIREITO DE ASSOCIADA FUNDADORA. DESCABIMENTO.
+1.- A despeito da interposição de Embargos de Declaração, o conteúdo normativo dos dispositivos do Código Civil indicados violados, não foi objeto de deliberação no Tribunal de origem, ressentindo-se o Recurso Especial, no ponto, do indispensável prequestionamento (Súmula STJ/211).
+2.- Tendo o Acórdão estadual reconhecido a ocorrência de cerceamento de defesa, por não haver sido a autora convocada para participar da assembleia que deliberou por sua exclusão da condição de associada fundadora, com alegada ofensa aos princípios constitucionais que asseguram o direito à ampla defesa e ao contraditório, não poderá a questão ser revista em âmbito de Recurso Especial, destinado apenas a julgamento de matéria infra-constitucional sob pena de usurpação da competência do E. Supremo Tribunal Federal. Precedentes.
+3.- As normas, em sentido amplo, inclusive os estatutos sociais, são dinâmicas, podendo ser alteradas, todavia, para produzir efeitos para o futuro. Como regra, não se admite que uma norma, seja genérica ou interna, produza efeitos para o passado, sobretudo se prejudicar o titular de direito (Lei de Introdução ao Código Civil, art. 6º, § 2º).
+4.- Não se reconhece direito adquirido da recorrida à imutabilidade da condição de associada fundadora da Associação Nacional de Jornais - ANJ; qualquer alteração, entretanto, que restrinja o exercício de direito só será válida a partir da respectiva mudança das normas estatutárias.
+5.- Recurso Especial improvido.
+(REsp 1350459/DF, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 26/2/2013, DJe 5/3/2013)
+Diante do exposto, nego provimento ao agravo. Elevam-se os honorários advocatícios em 10% (dez por cento) sobre o próprio valor fixado anteriormente em favor do agravado, nos termos do artigo 85, §§ 2º e 11, do Código de Processo Civil.
+Intimem-se.
