@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. JUROS DE MORA. PERÍODO COMPREENDIDO ENTRE A ELABORAÇÃO DOS CÁLCULOS E A EXPEDIÇÃO DA REQUISIÇÃO. RECURSO EXTRAORDINÁRIO N. 579.431/RS. REPERCUSSÃO GERAL. RETRATAÇÃO.
+1. A decisão desta Corte que deu parcial provimento ao recurso especial da UNIÃO, segundo a qual não incidem juros moratórios entre a data da homologação da conta de liquidação e a expedição da requisição, encontra-se em dissonância com a orientação pacificada pela Suprema Corte, no julgamento do RE n. 579.431/RS, processado sob o rito da repercussão geral, que concluiu pela incidência de juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório (relator o Ministro Marco Aurélio, DJe 30/6/2017).
+2. Impõe-se, portanto, a adequação do julgado do STJ à orientação jurisprudencial acima fixada.
+3. Em juízo de retratação, nos termos do art. 1.030, II, do novo CPC, reconsidera-se o decisum objeto de impugnação no RE, para dar provimento ao agravo regimental, a fim de reconhecer a incidência dos juros de mora, no período compreendido entre a data da homologação da conta de liquidação e a expedição da requisição, nos termos do julgamento proferido pelo Supremo Tribunal Federal, em repercussão geral, no Recurso Extraordinário n. 579.431/RS.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, em juízo de retratação, reconsiderou o decisum objeto de impugnação no RE, para dar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de recurso especial interposto pela UNIÃO, que retorna para julgamento colegiado, na forma do art. 1.030, II, do Código de Processo Civil/2015, após a interposição de recurso extraordinário por [NOME] contra julgado proferido pelo Pretório Excelso no RE n. 579.431/RS, de relatoria do Ministro Marco Aurélio.
+Consta dos autos que [NOME], nos autos de ação de execução de sentença, interpôs agravo de instrumento contra decisão que julgou indevidos os juros de mora no período compreendido entre a data da elaboração da conta de liquidação original e a expedição da requisição de pagamento (e-STJ fls. 2/16).
+O Tribunal Regional Federal da 4ª Região deu provimento ao agravo de instrumento nos termos do acórdão assim ementado (e-STJ fl. 148):
+RPV COMPLEMENTAR. JUROS MORATÓRIOS. INCLUSÃO. POSSIBILIDADE.
+1. O Pleno do STF já pacificou o entendimento que os juros de mora não incidem entre a data da expedição do precatório e a do efetivo pagamento, sendo os mesmos cabíveis somente se, após o prazo constitucionalmente fixado, a divida não for paga.
+2. Há incidência de juros de mora entre a data do cálculo e a inclusão da verba no precatório. Precedentes desta Corte.
+Os embargos de declaração opostos pela UNIÃO (e-STJ fls. 152/154) foram rejeitados (e-STJ fls. 156/161).
+Nas razões do apelo nobre, sustentou a UNIÃO violação aos arts. 535, II, do Código de Processo Civil, 17, § 3º, da Lei n. 10.259/2001, 100, § 1º, da Constituição Federal e 33 do Ato das Disposições Constitucionais Transitórias.
+Sustentou, em suma, a ocorrência de negativa de prestação jurisdicional, além de ser indevida a incidência de juros de mora quando o pagamento do precatório se dá dentro do prazo fixado na Constituição Federal, por inexistir mora ou inadimplemento da obrigação por parte da Fazenda Pública entre a data de 1º de julho e o efetivo pagamento no subsequente exercício.
+Em 8 de agosto de 2007, o então relator do feito, o Ministro Hamilton Carvalhido, negou seguimento ao recurso especial (e-STJ fls. 212/218). Interposto agravo regimental pela União, o Ministro Og Fernandes, em decisão monocrática, deu parcial provimento ao agravo a fim de afastar a incidência de juros moratórios relacionados ao período compreendido entre a elaboração dos cálculos de liquidação e a expedição do precatório ou do ofício requisitório (e-STJ fls. 232/234), tendo essa decisão sido mantida pela Sexta Turma, que negou provimento ao agravo regimental interposto por JOSE [NOME], nos termos da seguinte ementa (e-STJ fl. 261):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRECATÓRIO COMPLEMENTAR. JUROS DE MORA. PERÍODO DE APURAÇÃO. RECURSO ESPECIAL REPETITIVO 1.143.677/RS. APLICAÇÃO.
+1. "São indevidos juros moratórios em precatório complementar entre o período de elaboração da conta e a expedição da requisição de pagamento." (AgRg no REsp 1.209.658/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 8/2/2011, DJe 2/3/2011)
+2. Agravo regimental ao qual se nega provimento.
+Na sequência, foram rejeitados os embargos de declaração opostos. Eis a ementa do julgado (e-STJ fl. 275):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRECATÓRIO COMPLEMENTAR. JUROS DE MORA. PERÍODO DE APURAÇÃO. RECURSO ESPECIAL REPETITIVO 1.143.677/RS. APLICAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. EFEITO MODIFICATIVO. IMPOSSIBILIDADE.
+1. Os embargos de declaração, conforme dispõe o art. 535, incisos I e II, do Código de Processo Civil, destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado, o que não ocorre na hipótese em apreço.
+2. Embargos de declaração rejeitados.
+JOSE [NOME] interpôs, então, recurso extraordinário (e-STJ fls. 278/290), tendo o Ministro Felix Fischer determinado o sobrestamento do feito até o julgamento pelo STF da matéria contida no RE n. 579.431/RS (e-STJ fl. 304).
+Com o julgamento definitivo do citado RE n. 579.431/RS pela Suprema Corte, o Ministro Vice-Presidente do Superior Tribunal de Justiça determinou a remessa dos autos à Sexta Turma, para fins do disposto no art. 1.030, II, do Código de Processo Civil/2015 (e-STJ fl. 308).
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Como visto, os autos foram devolvidos a este colegiado, em razão do disposto no art. 1.030, II, do Código de Processo Civil/2015, que assim dispõe, in verbis:
+1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá: (Redação dada pela Lei nº 13.256, de 2016)
+(..).
+II - encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça exarado, conforme o caso, nos regimes de repercussão geral ou de recursos repetitivos;
+A decisão monocrática que deu provimento ao recurso especial interposto pela UNIÃO foi confirmada pela Sexta Turma do Superior Tribunal de Justiça em 22/3/2011, amparada na orientação jurisprudencial consolidada de que "são indevidos juros moratórios em precatório complementar entre o período de elaboração da conta e a expedição da requisição de pagamento".
+Essa orientação, segundo a qual não incidem juros moratórios no período compreendido entre a data da homologação da conta de liquidação e a expedição da requisição, diverge do entendimento firmado pela Suprema Corte, no julgamento definitivo do RE n. 579.431/RS, sob o regime de repercussão geral, que concluiu pela incidência de juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório (relator o Ministro Marco Aurélio, DJe 30/6/2017).
+Eis a ementa desse julgado:
+JUROS DA MORA - FAZENDA PÚBLICA - DÍVIDA - REQUISIÇÃO OU PRECATÓRIO. Incidem juros da mora entre a data da realização dos cálculos e a da requisição ou do precatório." (RE 579.431, Relator Min. MARCO AURÉLIO, Tribunal Pleno, julgado em 19/4/2017, Acórdão eletrônico repercussão geral - mérito DJe-145, divulgado em 29/6/2017, publicado em 30/6/2017.)
+Dessa forma, impõe-se a adequação do julgado do Superior Tribunal de Justiça à orientação jurisprudencial acima fixada, conforme a qual é devida a incidência de juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório.
+Com base nessas considerações, em juízo de retratação, nos termos do art. 1.030, II, do Código de Processo Civil/2015, reconsidero o decisum objeto de impugnação no RE, para dar provimento ao agravo regimental, a fim de reconhecer a incidência dos juros de mora, no período compreendido entre a data da homologação da conta de liquidação e a expedição da requisição, nos termos do julgamento proferido pelo Supremo Tribunal Federal, em repercussão geral, no Recurso Extraordinário n. 579.431/RS.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
