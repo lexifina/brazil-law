@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Superior Tribunal de Justiça, assim ementado:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA CONTRA ATO OMISSIVO DO MINISTRO DE ESTADO DA DEFESA. ANISTIA POLÍTICA. MILITAR. PRETENSÃO QUANTO AO PERCEBIMENTO DO EFEITO FINANCEIRO RETROATIVO. POSSIBILIDADE DO EXERCÍCIO DA PRETENSÃO DO IMPETRANTE NA VIA ELEITA. DECADÊNCIA E PRESCRIÇÃO. NÃO OCORRÊNCIA. DISPONIBILIDADE ORÇAMENTÁRIA. DESCUMPRIMENTO DO PRAZO PREVISTO NA LEI N. 10.559/2002. DIREITO LÍQUIDO E CERTO EVIDENCIADO. PRECEDENTES”. (eDOC 3, p. 29)
+    A oposição de embargos de declaração por ambas partes levou à prolação de acórdão integrativo, nestes termos:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. ANISTIA. EFEITO FINANCEIRO RETROATIVO. RECURSO INTEGRATIVO DO ANISTIADO. OMISSÕES VERIFICADAS. JUROS DE MORA. EXPEDIÇÃO DE PRECATÓRIO, CASO NÃO HAJA PREVISÃO ORÇAMENTÁRIA PARA A QUITAÇÃO DA OBRIGAÇÃO. EMBARGOS DE DECLARAÇÃO DA UNIÃO. INEXISTÊNCIA DOS VÍCIOS PREVISTOS NO ART. 535 DO CPC. PRETENSÃO QUANTO AO REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE NA ESCORREITA VIA INTEGRATIVA. (...) 2. Nos termos do que dispôs a Primeira Seção no julgamento dos EDcl no MS 15.485/DF, rel. Ministro Castro Meira, o pagamento do efeito financeiro retroativo deveria ter sido efetuado até o 60º (sexagésimo) dia da data da publicação da portaria que anistiou o impetrante. O não pagamento a partir do 61º (sexagésimo primeiro) dia após o referido ato configura a mora, o que revela o termo inicial da obrigação acessória. (...)”. (eDOC 3, p. 88)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, LXIX; 167, II; 169, § 1º, I e II, do texto constitucional.
+    Nas razões recursais, afirma-se a impossibilidade de se determinar a realização de pagamentos retroativos na via do mandado de segurança, a falta de disponibilidade orçamentária e a impossibilidade de deferimento de valores não previstos na portaria de anistia, quais sejam os acessórios de juros e correção monetária. (eDOC 3, p. 123)
+    O extraordinário foi vinculado à controvérsia do tema 394 do Plenário Virtual desta Corte (eDOC 4, p.2) e, após a publicação do acórdão de mérito do RE-RG 553.710, teve seguimento negado por contrariar a orientação firmada no precedente. (eDOC 4, p. 15)
+    Recebendo embargos declaratórios do recorrente, o Tribunal de origem reconheceu que o recurso extraordinário versava controvérsia não contida no paradigma da repercussão geral, a possibilidade de condenação em juros e correção monetária em sede de mandado de segurança. Em consequência, admitiu o recurso extraordinário. (eDOC 4, p. 43)
+    A Procuradoria-Geral da República manifestou-se em parecer assim ementado:
+    “Recurso Extraordinário. Mandado de Segurança. Anistiado político. Reparação econômica. Omissão da Administração Pública. Precedente do STF no RE 553.710, na sistemática da repercussão geral. Juros de mora e correção monetária compreendidos no principal. Parecer pelo desprovimento do recurso”. (eDOC 7)
+    É o relatório.
+    Decido.
+    Verifico que o Plenário desta Corte, ao julgar o RE-RG 553.710, rel. Min. Dias Toffoli, Dje 31.8.2017, tema 394 da sistemática da repercussão geral, assentou ser devido o pagamento retroativo devido a título de reparação econômica a anistiados políticos, assim declarados com base em portaria expedida pelo Ministério da Justiça com fundamento no art. 8º do ADCT.
+    Não obstante, a questão referente à exigibilidade dos juros de mora e correção monetária sobre o valor devido, na mesma via mandamental, encontra-se pendente de apreciação, tendo em vista a oposição de embargos de declaração no recurso paradigma sobre a matéria, ainda não julgados.
+    Assim, determino a devolução dos autos ao Tribunal de origem, para que observe o disposto no art. 1.036 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 16 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
