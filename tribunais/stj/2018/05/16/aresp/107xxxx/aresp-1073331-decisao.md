@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/1973). PLANO DE SAÚDE. PROCEDIMENTO CIRÚRGICO. ERRO MÉDICO. ALEGADA OFENSA AO ART. 359 DO CPC/73. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS 282 E 356 DO STF. REVISÃO DO QUANTUM ESTIPULADO A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS. PROPORCIONALIDADE E RAZOABILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. PRECEDENTES. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo manejado por [NOME] - COOPERATIVA DE TRABALHO MÉDICO em face da decisão que negou seguimento a recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim resumido:
+RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. OPERADORA DE PLANO DE SAÚDE. FALHA NOS SERVIÇOS DISPONIBILIZADOS Â BENEFICIÁRIA. DANOS MORAIS VERIFICADOS. MANUTENÇÃO DO QUANTUM INDENIZATÓRIO. SENTENÇA MANTIDA.
+1. Recurso interposto contra a r. sentença que julgou parcialmente procedente a "ação de indenização por danos morais c/c pensão", para condenar a ré ao pagamento de danos morais à autora no valor de R$ 36.200,00, valor este atualizado desde o arbitramento e com juros de mora desde a citação.
+2. O laudo pericial constatou um comprometimento patrimonial físico de 17,5%, provavelmente decorrente da cirurgia realizada para correção de uma fratura no fêmur. Tratamento posterior que minorou o resultado danoso, mas não é capaz de afastar a falha na prestação do serviço e, consequentemente, os danos causados à paciente.
+3. Danos morais configurados. Quantum indenizatório mantido. Valor que é adequado para atuar como fator sancionatório, sem implicar em enriquecimento ilícito da autora.
+4. Apelação da ré não provida (e-STJ fl. 418).
+Nas razões do especial, a recorrente alegou que os arts. 359 do Código de Processo Civil de 1973 e 884 e 944 do Código Civil foram violados, sob o argumento de que teria sido condenada ao pagamento de indenização por danos morais por mera presunção, "eis que o laudo pericial não afirmou que o encurtamento do membro inferior da recorrida foi ocasionado por ação ou omissão do profissional médico que atendeu a recorrida, bem como a carta constitucional, onde se encontra expresso no inciso LIV do artigo 5.º da Constituição Federal: "ninguém será privado da liberdade ou de seus bens sem o devido processo legal."" (e-STJ fl. 430).
+Sustentou que houve cerceamento de defesa, uma vez que o laudo pericial não teria evidenciado conduta médica imprudente, negligente ou imperita, por parte do médico que atendeu a autora.
+Além disso, insurgiu-se em relação ao quantum indenizatório por considerá-lo exorbitante.
+Concomitantemente, foi interposto recurso extraordinário (e-STJ fls. 448/460).
+Não foram apresentadas contrarrazões (e-STJ fl. 474).
+Inadmitidos ambos os apelos excepcionais (e-STJ fls. 475/477 e 478/479), vieram os autos conclusos para análise, haja vista a apresentação do agravo de fls. 482/496 (e-STJ).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça. (cf. Enunciado Administrativo n. 2/STJ).
+A irresignação não merece ser provida.
+Observa-se que o Tribunal a quo não emitiu juízo de valor acerca do disposto no art. 359 do Código de Processo Civil, carecendo o apelo, no ponto, do indispensável requisito do prequestionamento, o que atrai a incidência das Súmulas 282 e 356 do STF, aplicáveis por analogia.
+Outrossim, é cediço que a intervenção desta Corte para modificação do quantum indenizatório somente é admitida em situações de arbitramento ínfimo ou exagerado. Essa, porém, não é a hipótese dos autos, na qual o Tribunal de origem fixou o montante da compensação dos danos morais em R$ 36.200,00 (trinta e seis mil e duzentos reais).
+Embora a agravante afirme que a quantia é excessiva, não se justifica, in casu, a excepcional intervenção desta Corte Especial a fim de revisar o valor da compensação, uma vez que o montante não se mostra exagerado, por ter sido fixado de forma proporcional, razoável e condizente com a realidade dos autos.
+Sobre o tema, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANO MORAL. ERRO MÉDICO. NEGLIGÊNCIA COMPROVADA DA EQUIPE MÉDICA. CULPA HOSPITAL E DO PLANO DE SAÚDE. RESPONSABILIDADE SOLIDÁRIA. REDUÇÃO. VALOR RAZOÁVEL. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões devendo ser afastada a ofensa ao art. 535 do CPC/1973.
+2. A conclusão a que chegou o Tribunal a quo, acerca da responsabilidade solidária da recorrente no evento danoso, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Rever tais fundamentos importaria necessariamente no reexame de provas. Incidência da Súmula 7/STJ.
+3. A jurisprudência desta Corte Superior é no sentido de que a responsabilidade dos hospitais e clínicas, é objetiva em relação aos danos causados por seus prepostos, dispensada a demonstração de culpa relativa aos atos lesivos. 4. A revisão do valor arbitrado a título de danos morais, em sede de recurso especial, somente é possível nas hipóteses em que a verba se mostrar ínfima ou exagerada, contrariando os princípios da razoabilidade e da proporcionalidade, o que, na espécie, não ocorreu.
+5. Agravo interno não provido. (AgInt no AREsp 1.155.735/SP, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 03/04/2018 - quantum indenizatório: equivalente a 200 salários mínimos)
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ERRO MÉDICO. PARTO. USO DE FÓRCEPS. CESARIANA. INDICAÇÃO. NÃO OBSERVÂNCIA. LESÃO NO MEMBRO SUPERIOR ESQUERDO. MÉDICO CONTRATADO. CULPA CONFIGURADA. HOSPITAL. RESPONSABILIDADE SUBJETIVA. AÇÃO DE REGRESSO. PROCEDÊNCIA. DANOS MORAIS. VALOR. RAZOABILIDADE.
+1. A jurisprudência desta Corte encontra-se consolidada no sentido de que a responsabilidade dos hospitais, no que tange à atuação dos médicos contratados que neles trabalham, é subjetiva, dependendo da demonstração da culpa do preposto.
+2. A responsabilidade objetiva para o prestador do serviço prevista no artigo 14 do Código de Defesa do Consumidor, no caso o hospital, limita-se aos serviços relacionados ao estabelecimento empresarial, tais como a estadia do paciente (internação e alimentação), as instalações, os equipamentos e os serviços auxiliares (enfermagem, exames, radiologia). Precedentes.
+3. No caso em apreço, ambas as instâncias de cognição plena, com base na prova dos autos, concluíram que houve falha médica seja porque o peso do feto (4.100 gramas) indicava a necessidade de realização de parto por cesariana, seja porque a utilização da técnica de fórceps não se encontra justificada em prontuário médico.
+4. A comprovação da culpa do médico atrai a responsabilidade do hospital embasada no artigo 932, inciso III, do Código Civil ("São também responsáveis pela reparação civil: (..) III - o empregador ou comitente, por seus empregados, serviçais e prepostos, no exercício do trabalho que lhes competir, ou em razão dele;"), mas permite ação de regresso contra o causador do dano.
+5. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pela instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrada indenização no valor de R$ 80.000,00 (oitenta mil reais).
+6. Recurso especial parcialmente provido.
+(REsp 1.526.467/RJ, TERCEIRA TURMA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe 23/10/2015)
+Nessa ordem de ideias, a Súmula 7/STJ obsta o apelo nobre, no particular.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
