@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da a 12ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Mandado de Segurança - Funcionário Público Estadual - Policial Civil - Aposentadoria compulsória aos 65 anos de idade, de acordo com a LC nº 144/2014 - Direito líquido e certo de permanência até 70 anos, conforme Constituição Federal. Segurança concedida - Recurso improvido.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, interposto com fundamento na alínea “a”, sustenta-se violação do artigo 97 da Constituição Federal, bem como da Súmula Vinculante nº 10.
+    Decido.
+    A irresignação merece prosperar, uma vez que o acórdão atacado, proferido por órgão fracionário da Corte de origem, afastou a incidência da norma do artigo 1º, inciso I, da Lei Complementar nº 51/85 por reputá-lo inconstitucional à luz do artigo 40, § 1º, inciso II, da Constituição Federal.
+    Tem-se, portanto, que a norma cogente de legislação foi afastada pelo acórdão atacado, o que viola, destarte, a reserva de plenário a que alude o artigo 97 da Constituição Federal.
+    Anote-se que no julgamento do Recurso Extraordinário 240.096, Relator o Ministro Sepúlveda Pertence, DJ de 21/5/99, a Primeira Turma do Supremo Tribunal Federal consolidou entendimento no sentido de que se considera “declaratório de inconstitucionalidade o acórdão que – embora sem o explicitar – afasta a incidência da norma ordinária pertinente à lide para decidi-la sob critérios alegadamente extraídos da Constituição” (Grifo nosso), o que ocorreu no caso em tela. O Plenário desta Corte confirmou o referido entendimento, conforme se verifica na ementa a seguir:
+    “CONSTITUCIONAL. PROCESSO CIVIL. RECURSO EXTRAORDINÁRIO. ACÓRDÃO QUE AFASTA A INCIDÊNCIA DE NORMA FEDERAL. CAUSA DECIDIDA SOB CRITÉRIOS DIVERSOS ALEGADAMENTE EXTRAÍDOS DA CONSTITUIÇÃO. RESERVA DE PLENÁRIO. ART. 97 DA CONSTITUIÇÃO.
+    TRIBUTÁRIO. PRESCRIÇÃO. LEI COMPLEMENTAR 118/2005, ARTS. 3º E 4º. CÓDIGO TRIBUTÁRIO NACIONAL (LEI 5.172/1966), ART. 106, I. RETROAÇÃO DE NORMA AUTO-INTITULADA INTERPRETATIVA.
+    Reputa-se declaratório de inconstitucionalidade o acórdão que – embora sem o explicitar – afasta a incidência da norma ordinária pertinente à lide para decidi-la sob critérios diversos alegadamente extraídos da Constituição (RE 240.096, rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 21.05.1999).
+    Viola a reserva de Plenário (art. 97 da Constituição) acórdão prolatado por órgão fracionário em que há declaração parcial de inconstitucionalidade, sem amparo em anterior decisão proferida por Órgão Especial ou Plenário.
+    Recurso extraordinário conhecido e provido, para devolver a matéria ao exame do Órgão Fracionário do Superior Tribunal de Justiça” (RE n° 482.090/SP, Pleno, Relator o Ministro Joaquim Barbosa, DJe de 13/3/09) (Grifo nosso).
+    Trata-se de matéria efetivamente pacificada no âmbito desta Suprema Corte, tanto que foi objeto de edição da Súmula Vinculante nº 10, que assim dispõe, in verbis:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”, aprovada pelo Plenário desta Corte na sessão de 18/6/08 (DJe de 13/3/09).
+    Nessa conformidade, não pode subsistir o comando exarado pelo acórdão recorrido, por expressa violação da reserva de plenário exigida para esse tipo de afastamento de aplicação de norma legal ao caso sob julgamento e, ainda, por afronta ao disposto na aludida Súmula Vinculante nº 10 deste Supremo Tribunal Federal.
+    No sentido dessa conclusão, cite-se a ementa dos seguintes precedentes, que assim dispõem:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONTROLE DE CONSTITUCIONALIDADE. RESERVA DE PLENÁRIO. ARTIGO 97 DA CB/88. VIOLAÇÃO. SÚMULA VINCULANTE N. 10. Fica evidente a violação do disposto no artigo 97 da Constituição do Brasil, no caso de declaração de inconstitucionalidade de lei por órgão fracionário, sem a anterior declaração por órgão especial ou plenário. Precedentes. Agravo regimental a que se nega provimento” (RE nº 371.820/BA-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 17/10/08).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. CONTRARIEDADE AO ART. 97 DA CONSTITUIÇÃO DA REPÚBLICA. CLÁUSULA DE RESERVA DE PLENÁRIO. INCIDÊNCIA DA SÚMULA VINCULANTE N. 10 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 612.038/PE-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 6/4/11).
+    “RECURSO EXTRAORDINÁRIO - LEI COMPLEMENTAR Nº 118/2005 - ACÓRDÃO FUNDAMENTADO EM PRECEDENTE DA PRIMEIRA SEÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA - ÓRGÃO FRACIONÁRIO - RESERVA DE PLENÁRIO - CONTRARIEDADE - VERBETE VINCULANTE Nº 10 DA SÚMULA. Há ofensa à cláusula de reserva de plenário, prevista no artigo 97 da Carta Federal, quando órgão fracionário de tribunal, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta a respectiva incidência no todo ou em parte” (RE nº 511.305/RJ-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 19/12/08).
+    Ante o exposto, nos termos do art. 932, inc. V, do Código de Processo Civil, dou provimento ao recurso extraordinário para cassar o acórdão recorrido, determinando que o Tribunal de origem prossiga no julgamento do feito, nos termos do art. 97 da Constituição Federal.
+    Publique-se.
+    Brasília, 16 de maio de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
