@@ -1,0 +1,30 @@
+Decisão
+    Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região com a seguinte ementa (fl. 107, Vol. 1):
+    PREVIDENCIÁRIO. APELAÇÃO. REVISÃO DE BENEFÍCIO. APLICAÇÃO DAS EMENDAS 20/1998 E 41/2003 A BENEFÍCIO CONCEDIDO ANTES DA CONSTITUIÇÃO FEDERAL DE 1988. IMPOSSIBILIDADE. AUSÊNCIA DE INTERESSE DE AGIR. RECURSO NÃO PROVIDO.
+    - Existe interesse processual quando a parte autora tem necessidade de ir a juízo para alcançar a tutela pretendida e, ainda, quando essa tutela jurisdicional pode trazer-lhe alguma utilidade do ponto de vista prático.
+    - As Emendas Constitucionais 20/1998 e 41/2003 apenas definiram novos limites ao valor-teto dos salários de contribuição, não constituindo índices de reajustes. A possibilidade de equiparação somente é possível quando houve limitação ao valor teto na concessão do benefício.
+    - Os benefícios concedidos antes da Constituição Federal de 1988 não se enquadram na revisão acima, deferida pela Suprema Corte, pois se submeteram à observância de outros limitadores, como o Menor Valor Teto e o Maior Valor Teto. Em função disso, tiveram reposição integral da renda mensal inicial em número de salários mínimos (artigo 58 do ADCT), procedimento mais vantajoso.
+    - Apelação a que se nega provimento.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, o recorrente sustenta, em síntese, que o julgado ofendeu os arts. 5º, caput, da Constituição Federal, o art. 14 da EC nº 20/1998, e o art. 5º da EC nº 41/2003.
+    A Vice-Presidência do Tribunal de origem, em razão do julgamento pelo Plenário desta Corte do mérito da repercussão geral reconhecida no RE 564.354-RG/SE, determinou o retorno dos autos para o devido juízo de retração, nos termos do artigo 543-B, § 3º, do CPC/1973, o qual foi realizado por acórdão que recebeu a seguinte ementa (Vol. 1, fl. 182):
+    PREVIDENCIÁRIO. PROCESSUAL CIVIL. REPERCUSSÃO GERAL. RE 564.354/SE. EMENDAS CONSTITUCIONAIS N. 20/1998 E 41/2003. APLICABILIDADE DOS LIMITADORES MÁXIMOS. ARTIGO 543-B DO CPC/73. BENEFÍCIO CONCEDIDO NA CLPS. READEQUAÇÃO AOS NOVOS TETOS INDEVIDA. JULGAMENTO MANTIDO (ARTIGO 1.040, 11, DO NOVO CPC).
+    - A divergência a ser dirimida diz respeito ao julgamento do RE n.° 564.354/SE, sob o rito do artigo 1.040, 11, do Código de Processo Civil, o qual assentou entendimento de que não ofende o ato jurídico perfeito a aplicação imediata do artigo 14 da Emenda Constitucional n. 20/1998 e do artigo 5° da Emenda Constitucional n. 41/2003 aos benefícios limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto.
+    - A Suprema Corte não impôs restrição temporal à readequação do valor dos benefícios aos novos tetos.
+    - O acórdão proferido pela Sétima Turma desta Corte não destoa do julgado do STF, pois a improcedência do pedido não está respaldada em limitação temporal não estabelecida no paradigma.
+    - Consoante detalhada fundamentação expendida no julgado recorrido, constata-se que, em razão da forma de cálculo vigente à época da concessão do benefício (CLPS), a qual é absolutamente diversa da sistemática instituída após a promulgação da Constituição Federal de 1988, sendo certo que foi sobre essa sistemática que se pautaram as discussões que culminaram na repercussão geral em questão, não há possibilidade de o benefício ter sido limitado ao teto do regime geral de previdência.
+    - Juízo de retração incabível (artigo 1.040, 11, do Novo CPC), devendo ser mantido o julgamento que negou o pedido da parte autora.
+    É o relatório. Decido.
+    Não merecem ser acolhidas as razões da parte recorrente.
+    O Juízo de origem, ao apreciar a controvérsia em juízo de retratação, concluiu que o benefício previdenciário não sofreu limitação do teto do regime geral da previdência, nos seguintes termos a seguir citados (Vol. 1, fl. 180-181):
+    Consoante detalhada fundamentação expendida no julgado recorrido, constata-se que, em razão da forma de cálculo vigente à época da concessão do benefício (qual é absolutamente diversa da sistemática instituída após a promulgação da Constituição Federal de 1988), não há possibilidade de o benefício ter sido limitado ao teto do regime geral de previdência, sendo certo que foi sobre essa sistemática que se pautaram as discussões que culminaram na repercussão geral em questão.
+    Portanto: não havendo limitação ao teto (e só se pode se falar nesse teto para os benefícios concedidos na vigência da CF/88), não é possível a readequação aos novos limitadores instituídos pelas EC n. 20/1998 e 41/2003.
+    Assim, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte: Para simples reexame de prova não cabe recurso extraordinário.
+    Além disso, trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à Constituição indicadas no recurso extraordinário são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. Nesse sentido:
+    Embargos de declaração no recurso extraordinário. Conversão dos embargos declaratórios em agravo regimental. Benefício Previdenciário. Revisão. RE nº 564.354/SE-RG. Inaplicabilidade. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas da causa. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido. (RE 762.887-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 17/11/14).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 16 de maio de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
