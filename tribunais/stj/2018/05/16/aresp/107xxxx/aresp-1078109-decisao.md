@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). RESCISÃO DE CONTRATO C/C INDENIZAÇÃO POR DANO MORAL E MATERIAL. SERVIÇOS PRESTADOS COMO CONTRATADOS. DANO MORAL DESCARACTERIZADO. COBRANÇA INDEVIDA. INOCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 05 E 07/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. HONORÁRIOS RECURSAIS (ART. 85, §11, DO CPC/2015).
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME] DARIO - ME, em face da decisão que negou seguimento a recurso especial, aviado pela alínea "a" do inciso III do art. 105 da Constituição Federal, ao fundamento de ausência de demonstração da ofensa aos dispositivos arrolados, bem como de incidência da Súmula 07/STJ (e-STJ fls. 178-179).
+Em suas razões, infirmou especificamente as razões da decisão agravada (e-STJ fls. 181-184).
+No recurso especial, alega a parte recorrente violação ao art. 422 do Código Civil e aos arts. 14, §4º, e 42, parágrafo único, ambos do Código de Defesa do Consumidor, sustentando, em síntese, a rescisão dos contratos de prestação "pedido de serviços" celebrados nos dias 26.01.2009, 14.04.2009, 12.05.2009, 04.06.2009 e 31.05.2012; a ocorrência de cobrança indevida, o que enseja a quebra da lealdade, honestidade e confiança; a responsabilidade objetiva da agravada; que é devida a restituição dos valores cobrados indevidamente e da quantia paga a título dos serviços prestados de forma ineficaz; bem como a condenação da agravada ao pagamento de indenização por danos morais.
+Apresentadas as contrarrazões (e-STJ fls. 167-177).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015, conforme Enunciado Administrativo Nº 3/STJ.
+Ato contínuo, percebe-se que a irresignação não merece acolhida.
+A recorrente, em sede de recurso especial, alega ofensa ao art. 422 do Código Civil, e aos arts. 14, §4º, e 42, parágrafo único, ambos do Código de Defesa do Consumidor, sustentando, em síntese, a rescisão dos contratos de prestação "pedido de serviços" celebrados nos dias 26.01.2009, 14.04.2009, 12.05.2009, 04.06.2009 e 31.05.2012; a ocorrência de cobrança indevida, o que enseja a quebra da lealdade, honestidade e confiança; a responsabilidade objetiva da agravada; que é devida a restituição dos valores cobrados indevidamente e da quantia paga a título dos serviços prestados de forma ineficaz; bem como a condenação da recorrida ao pagamento de indenização por danos morais.
+O acórdão recorrido, por sua vez, assim assentou (e-STJ fls. 135-137):
+Narra a autora que contratou a ré para depositar diversas marcas junto ao INPI; todavia, os pedidos foram indeferidos, pois já haviam marcas parecidas com a da apelante. Por essa razão, sustenta a má qualidade da prestação dos serviços pela apelada.
+Todavia, no que pese o inconformismo dela apelante, entendo que não restaram configurados os alegados danos morais.
+Dos autos observa-se que a autora afirma fazer jus ao recebimento de dano moral em razão de não ter tido os serviços prestados a contento.
+Contudo, como bem anotado na r. sentença guerreada:
+"Pelos documentos juntados pela própria autora (fls. 15/22), percebe- se que os contratos de prestação dos serviços consistiam em tão somente depositar as marcas no INPI, não estando vinculado ao deferimento do pedido" (fl. 97).
+A irresignação não prospera, pois, com o contrato resta claro que o serviço foi prestado tal como contratado. Assim, não houve qualquer conduta mais grave da ré que repercutisse na esfera moral da autora-apelante.
+Importante salientar que só caracteriza o dano moral a prática de ato que acarrete sofrimento intenso e profundo; simples aborrecimentos decorrentes de fatos normais da vida diária, não são passíveis de indenização moral. (..)
+Assim, bem decretado o afastamento dos danos morais, de rigor o improvimento do apelo da autora, mantida a r. sentença atacada tal como lançada.
+Convém colacionar, ainda, o seguinte trecho da r. sentença (e-STJ fls. 97-98):
+Assim, não há como afirmar que houve má prestação de serviços pela ré, uma vez que esta realizou suas obrigações devidamente, não podendo ela intervir na decisão do INPI.
+Quanto à alegação de que houve cobrança indevida de valores, não assiste também razão à autora, uma vez que a ré informou corretamente o porque considerava que houve um equívoco por parte da INPI, sendo certo que a ré já tinha experiência neste ramo de atividade.
+Com efeito, vislumbra-se que a irresignação da recorrente não merece guarida, uma vez que, elidir (a) as conclusões do aresto impugnado, sobretudo quanto ao fato de que (a.1) "não restaram configurados os alegados danos morais"; de que (a.2) "não houve qualquer conduta mais grave da ré que repercutisse na esfera moral da autora-apelante"; e de que (a.3) "o contrato resta claro que o serviço foi prestado tal como contratado", bem como (b) o fecho da sentença, ora mantida pelo v. acórdão, no que tange ao fato de que, "quanto à alegação de que houve cobrança indevida de valores, não assiste também razão à autora, uma vez que a ré informou corretamente o porque considerava que houve um equívoco por parte da INPI, sendo certo que a ré já tinha experiência neste ramo de atividade"; demandaria a reinterpretação de cláusulas contratuais, bem como o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta sede especial a teor das Súmulas 05 e 07/STJ.
+Destarte, melhor sorte não socorre à agravante.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015.
+O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que a sentença fixou a verba honorária em 10% sobre o valor da causa, em benefício do patrono da recorrida (e-STJ fl. 98), a majoração dos honorários devidos pela recorrente para 13% sobre o valor da causa é medida adequada ao caso.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial, e, com base no art. 85, § 11, do CPC/2015, majoro os honorários de sucumbência para 13% sobre o valor da causa.
+Intimem-se.
