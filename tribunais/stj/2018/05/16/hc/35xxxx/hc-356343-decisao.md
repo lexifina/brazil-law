@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de JULIANO MENDONCA JORGE, contra decisão de desembargador do Tribunal de Justiça do Estado de São Paulo no Procedimento Investigatório Criminal n. 0022084-39.2016.826.0000.
+O paciente foi preso temporariamente em 19.4.2016 e denunciado por ter supostamente cometido os delitos previstos no art. 90 da Lei n. 8.666/93 por 19 vezes (fraude em licitação); art. 1º, inciso I, do Decreto-Lei n. 201/67 por 2 vezes (apropriação ou desvio de bens ou rendas públicas), bem como art. 2º, §§ 3º e 4º, inciso II, da Lei n. 12.850/13 (organização criminosa).
+Por ocasião do recebimento da denúncia, o desembargador relator do feito no Tribunal de origem decretou a prisão preventiva do paciente conforme decisão acostada às fls. 79/97.
+Daí o presente mandamus, no qual ressalta as circunstâncias pessoais favoráveis do paciente e alega ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal - CPP.
+Afirma ser suficiente a aplicação de medidas alternativas, previstas no art. 319 do CPP e destaca que a prisão tem caráter excepcionalíssimo estabelecido pela Lei n. 12.403/11. Invoca o princípio da separação dos poderes, uma vez que se trata de paciente eleito pelo voto popular para o exercício do cargo de Prefeito Municipal e, diante disso, há que se respeitar a ingerência mínima do Poder Judiciário na esfera do Executivo.
+Sustenta que a custódia caracteriza indevida antecipação de pena e está pautada exclusivamente na gravidade abstrata do delito, providência vedada pela jurisprudência desta Corte Superior, e na possibilidade de reiteração da conduta, receio que sequer deveria subsistir em razão do afastamento do paciente do cargo eletivo.
+Frisa, ainda, que todos os documentos em poder do paciente foram apreendidos por ocasião do cumprimento de mandado de busca e apreensão, não havendo mais que se falar em destruição ou ocultação dessas provas. Salienta, também, que o paciente tem contribuído com o Ministério Público no curso da investigação.
+Requer, assim, em liminar e no mérito, a revogação do decreto prisional e, se for o caso, aplicação de medidas alternativas previstas no art. 319 do CPP.
+É o relatório.
+Decido.
+O pedido está prejudicado, pois conforme as informações recebidas às fls. 532/595, foi proferida sentença condenando o paciente à pena de 13 (treze) anos, 06 (seis) meses e 05 (cinco) dias de reclusão e 4 (quatro) anos e 2 (dois) meses de detenção, 194 dias-multa e multa de 3% do valor da cada um dos contratos celebrados, nos termos do 99, § Io, da Lei n. 8.666/93, tendo sido negado o direito de apelar em liberdade, com o acréscimo de novos fundamentos para justificar a prisão cautelar.
+Dessa forma, deve o novo título ser submetido à análise da Corte Estadual, antes de ser apreciado neste Tribunal Superior, vedada a supressão de instância.
+Ante todo o exposto, nos termos do art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
