@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], fundamentado na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Colhe-se dos autos que o recorrente foi condenado, como incurso no art. 157, § 2º, I e II, do Código Penal, à pena de 5 anos e 4 meses de reclusão, imposto o regime inicial fechado.
+Irresignada, apelou a defesa. O Tribunal de Justiça, por maioria, negou provimento ao recurso em acórdão assim ementado (e-STJ fl. 324):
+ROUBO DUPLAMENTE AGRAVADO - AUTORIA DELITIVA PROVADA. Suficientes os elementos probatórios a demonstrar que o agente participara da subtração de coisa alheia móvel, em concurso de agentes e mediante grave ameaça exercida com emprego de arma, de rigor o édito condenatório.
+REGIME PRISIONAL - CRIME GRAVE - CONVENIÊNCIA DO REGIME INICIAL FECHADO. Diante da gravidade do crime e da periculosidade do agente, pode o Juiz impor regime prisional inicialmente fechado, independente do montante da privativa de liberdade e a primariedade do réu, com base no disposto no art. 59 do CP. RECURSO NÃO PROVIDO.
+Interpostos embargos infringentes, o recurso foi rejeitado, por maioria. Esta é a ementa do acórdão (e-STJ fl. 364):
+EMBARGOS INFRINGENTES. APELAÇÃO CRIMINAL. ROUBO MAJORADO.Turma julgadora originária que negando provimento ao recurso da Defesa, manteve a r. sentença que condenou o embargante pelo crime de roubo majorado pelo emprego de arma de fogo, em comparsaria. Artigo 157, § 2º, incisos I e II, do Código Penal. Voto minoratário, divergente no tocante à densidade da prova, dava integral provimento ao recurso por entender não existir prova da concorrência do embargante para a infração penal. Elementos de prova suficientes para demonstrar a participação do sentenciado na empreitada criminosa. Acórdão mantido. EMBARGOS CONHECIDOS E REJEITADOS.
+Daí o presente recurso especial, no qual se alega afronta ao art. 33, §§ 2º e 3º, b, do Código Penal, ao argumento de que o "regime inicial fechado foi fixado em primeira instância e mantido em sede recursal com fundamento na gravidade em abstrato do delito de roubo" (e-STJ fl. 376).
+Contrarrazões às e-STJ fls. 384/389.
+O Ministério Público Federal opinou, inicialmente, pela conversão do feito em diligência para verificação da situação prisional do recorrente (e-STJ fls. 405/407). Prestadas as informações pelo Juízo de primeiro grau, opinou o órgão ministerial pela perda do objeto do recurso (e-STJ fls. 428/430).
+É o relatório. Decido.
+Em primeiro lugar, destaco que o conteúdo das informações prestadas pelo Juízo primevo não testificam o cumprimento da pena ora imposta ao recorrente, mas apenas que ele não estaria preso pelo feito em tela e, também, que inexistiria determinação de execução provisória. Desse modo, não há, no caso, informações robustas a embasar a perda do objeto do presente recurso.
+Assim, passo ao exame do pleito defensivo e, ao fazê-lo, vejo que razão assiste ao recorrente.
+Confira-se o que foi decidido pelo Tribunal de origem quanto regime inicial (e-STJ fl. 327):
+Escorreito o regime fechado para o cumprimento da pena considerando as circunstâncias do crime cometido, que agride de forma intensa a sociedade, ao causar intranqüilidade pelo temor de sofrer agressões físicas nos assaltos; não se olvidando ainda que a repercussão social desse crime decorre da banalização da vida em relação ao patrimônio obtido pelo criminoso.
+Pois bem. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do CP).
+Ademais, na esteira da jurisprudência do Superior Tribunal de Justiça, admite-se a imposição de regime prisional mais gravoso do que permitir a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito.
+Na espécie, vejo que o Tribunal de origem fundamentou o regime fechado apenas na gravidade em abstrato do delito de roubo. Ora, tendo sido consideradas totalmente favoráveis as circunstâncias judiciais e sendo primário o recorrente, impõe-se a fixação do regime semiaberto para início de cumprimento da reprimenda que lhe foi imposta.
+Confiram-se:
+DIREITO PENAL. HABEAS CORPUS. ART. 157, § 2.º, I E II, DO CÓDIGO PENAL. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA. REGIME INICIAL FECHADO. PENA-BASE. MÍNIMO LEGAL. ELEMENTOS INERENTES AO TIPO PENAL VIOLADO. GRAVIDADE ABSTRATA. DIREITO AO REGIME MENOS SEVERO. SÚMULAS 718 E 719 DO STF E SÚMULA 440 DO STJ. FLAGRANTE ILEGALIDADE. DETRAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE ELEMENTOS. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+ ..
+2. Para a exasperação do regime fixado em lei é necessária motivação idônea, nos termos das Súmulas n.º 718 e n.º 719 do Supremo Tribunal Federal e Súmula n.º 440 deste Superior Tribunal de Justiça.
+3. In casu, é evidente a ilegalidade, pois a pena-base foi fixada no mínimo legal, a sanção é inferior a 8 anos, o paciente é primário e as instâncias de origem não apresentaram motivação idônea a justificar o regime fechado, dissertando apenas sobre o emprego de arma de fogo, além de mencionarem circunstâncias vagas e genéricas que não constituem elementos aptos a amparar a fixação do regime inicial mais gravoso.
+ ..
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para estabelecer o regime semiaberto para o início do cumprimento da pena. (HC 351.840/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/05/2016, DJe 16/05/2016, grifei.)
+HABEAS CORPUS SUBSTITUTIVO. INADMISSIBILIDADE. ROUBO CIRCUNSTANCIADO (EMPREGO DE ARMA DE FOGO E CONCURSO DE AGENTES). PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME DE CUMPRIMENTO DE PENA MAIS GRAVOSO. FUNDAMENTAÇÃO ABSTRATA. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 440/STJ E 718 E 719/STF. LIMINAR CONFIRMADA.
+ ..
+2. Haja vista a ausência de fundamentação concreta para se manter os pacientes em regime inicial mais gravoso do que a sanção imposta permite, vê-se, na decisão impugnada, a presença de manifesto constrangimento ilegal.
+3. Tendo em conta que as circunstâncias judiciais foram consideradas favoráveis e o quantum da pena aplicada é inferior a 8 anos, possível a fixação de regime inicial intermediário.
+4. Writ não conhecido. Ordem concedida de ofício para fixar aos pacientes o regime inicial semiaberto, confirmando-se a liminar. (HC 335.575/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/02/2016, DJe 08/03/2016, grifei.)
+Ante o exposto, dou provimento ao recurso especial para fixar o regime inicial semiaberto para desconto da reprimenda ora imposta ao recorrente.
+Publique-se. Intimem-se.
