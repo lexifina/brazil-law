@@ -1,0 +1,37 @@
+EMENTA
+ADMINISTRATIVO. AMBIENTAL. RECURSO ESPECIAL. IMÓVEL RURAL. AVERBAÇÃO DA ÁREA DE RESERVA LEGAL. SUPERVENIÊNCIA DA LEI N. 12.651/12. PERSISTÊNCIA DO DEVER DE AVERBAR. RECURSO ESPECIAL A QUE SE DÁ PROVIMENTO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público de Minas Gerais, fundamentado no art. 105, III, alínea "a" da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+AÇÃO CIVIL PÚBLICA - AVERBAÇÃO DE RESERVA LEGAL - ARGUIÇÃO DE INCONSTITUCIONALIDADE - QUESTÃO NÃO RELEVANTE - NOVO CÓDIGO FLORESTAL - FACULTATIVIDADE DA AVERBAÇÃO NO CARTÓRIO DE REGISTRO DE IMÓVEIS - RECOMPOSIÇÃO DE ÁREA DEGRADADA E OUTORGA DE RECURSOS HÍDRICOS - FALTA DE PROVAS - IMPROCEDÊNCIA DOS PEDIDOS.
+1. A arguição de inconstitucionalidade será tida com o irrelevante quando o julgamento, pelo órgão fracionário a que couber o conhecimento do processo, puder ser feito independentemente da questão constitucional.
+2. A impertinência da arguição de inconstitucionalidade com as questões discutidas impõe sua rejeição.
+3. A inconstitucionalidade de dispositivos do Novo Código Florestal (Lei nº 12.651/12) arguida apenas como fundamentação das razões recursais, sem o pedido de declaração incidental impede a apreciação pelo Órgão Especial deste Tribunal e, consequentemente, por esta Câmara Cível.
+4. Com o advento da Lei nº 12.651, de 26/05/2012, ficou definida a inscrição obrigatória no CAR de todos os imóveis rurais.
+5.Assim, conclui-se que a dispensa de averbação no Cartório de Registro de Imóveis abrange todas as propriedades.
+6. Ademais, a dupla averbação é desarrazoada e extremamente onerosa aos proprietários e possuidores rurais.
+7. A Lei Estadual nº 14.309/02 foi expressamente revogada pela Lei Estadual nº 20.922/2013 (Novo Código Florestal Mineiro).
+8. A falta de demonstração de degradação da área de reserva legal e de utilização de recursos hídricos determina a improcedência, respectivamente, do pedido de recomposição da área degradada e de obtenção de outorga para uso.
+9. Recurso não provido.
+O recorrente alega afronta aos arts. 18, § 4º, da Lei n. 12.651/2012, 16, IV e §§ 2º e 8º da Lei 4.771/65 c/c 6º, da Lei 4.657/42 (LINDB, quanto à obrigatoriedade da averbação da Reserva Legal junto ao Cartório de Registro de Imóveis (CRI).
+Contrarrazões às fls. 298-306.
+Juízo de admissibilidade às fls. 308-309.
+Parecer do Ministério Público Federal, às fls. 323-328, pelo provimento do recurso especial.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+In casu, o Tribunal de origem entendeu pela dispensa da averbação da Reserva Legal na matrícula do imóvel, após a entrada em vigor do Novo Código Florestal, em razão da criação co Cadastro Ambiental Rural (CAR).
+No entanto, tal entendimento está em dissonância com a jurisprudência desta Corte segundo a qual o novo Código Florestal não aboliu a necessidade de averbação da reserva legal no Cartório de Registro de Imóveis, mas tão somente possibilitou a efetivação do registro, de forma alternativa, no Cadastro Ambiental Rural - CAR, o que, no caso dos autos, não foi providenciado.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO. RESERVA LEGAL NÃO AVERBADA. EXCLUSÃO PARA FINS DE CÔMPUTO DA PRODUTIVIDADE DO IMÓVEL. IMPOSSIBILIDADE. PRECEDENTES DO STJ E STF.
+1. O aresto impugnado está em dissonância com a pacífica jurisprudência do STF e do STJ, no sentido de que não se pode excluir a Área de Reserva Legal que não esteja devidamente individualizada na respectiva averbação, para fins de cômputo da produtividade do imóvel rural. Precedente: AgRg nos EREsp 1.376.203/GO, Rel. Ministro Og Fernandes, Primeira Seção, DJe 5/11/2014.
+2. Não basta a averbação genérica. "Não se encontrando individualizada na averbação, a reserva florestal não poderá ser excluída da área total do imóvel desapropriando para efeito de cálculo da produtividade" (MS 24.924/DF, Relator para o acórdão Min. Joaquim Barbosa, Tribunal Pleno, j. 24/2/2011, DJe-211).
+3. A Lei 12.651/12, que revogou a Lei 4.771/65, não suprimiu a obrigação de averbação da Área de Reserva Legal no Registro de Imóveis, mas apenas possibilitou que o registro seja realizado, alternativamente, no Cadastro Ambiental Rural - CAR.
+4. Recurso Especial provido. (REsp 1.426.830/PR, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 29/11/2016)
+PROCESSO CIVIL. AMBIENTAL. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. CORTE DE ORIGEM. REGIMENTO INTERNO. NORMA LOCAL. DESCABIMENTO. IMÓVEL RURAL. REGISTRO DE ESCRITURA DE COMPRA E VENDA. EXIGÊNCIA. OFICIAL DO CARTÓRIO DE IMÓVEIS. AVERBAÇÃO DA ÁREA DE RESERVA LEGAL. SUPERVENIÊNCIA DA LEI N. 12.651/12. PERSISTÊNCIA DO DEVER DE AVERBAR. EXCEÇÃO. PRÉVIO REGISTRO NO CADASTRO AMBIENTAL RURAL.
+1. Reconhecido o descabimento da instauração do incidente de uniformização de jurisprudência a partir da análise das normas do Regimento Interno da Corte local, o exame da matéria pelo STJ atrai o óbice da Súmula 280/STF.
+2. Ademais, está pacificado nesta Corte Superior o entendimento de que a instauração do incidente de uniformização de jurisprudência é medida compreendida no juízo de conveniência e oportunidade do órgão julgador, a partir das especificidades do caso concreto, daí por que não pode ser revisado no âmbito do recurso especial.
+3. A existência da área de reserva legal no âmbito das propriedades rurais caracteriza-se como uma limitação administrativa necessária à tutela do meio ambiente para as presentes e futuras gerações e em harmonia com a função social da propriedade, o que legitima haver restrições aos direitos individuais em benefício dos interesses de toda a coletividade.
+4. De acordo com a jurisprudência do STJ, a obrigação de demarcar, averbar e restaurar a área de reserva legal constitui-se uma obrigação propter rem, que se transfere automaticamente ao adquirente ou ao possuidor do imóvel rural. Esse dever jurídico independe da existência de floresta ou outras formas de vegetação nativa na gleba, cumprindo-lhes, caso necessário, a adoção das providências essenciais à restauração ou à recuperação das mesmas, a fim de readequar-se aos limites percentuais previstos na lei de regência.
+5. Cumpre ao oficial do cartório de imóveis exigir a averbação da área de reserva legal quando do registro da escritura de compra e venda do imóvel rural, por se tratar de conduta em sintonia com todo o sistema de proteção ao meio ambiente. A peculiaridade é que, com a novel legislação, a averbação será dispensada caso a reserva legal já esteja registrada no Cadastro Ambiental Rural - CAR, consoante dispõe o art. 18, § 4º, da Lei n. 12.651/12.
+6. Recurso especial conhecido em parte e, nessa parte, não provido. (REsp 1.276.114/MG, Rel. Min. Og Fernandes, SEGUNDA TURMA, DJe 11/10/2016)
+Ante o exposto, com fundamento no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, I e III, do RISTJ, dou provimento ao recurso especial, para determinar a obrigatoriedade de averbação da reserva legal florestal no imóvel rural dos ora recorridos.
+Publique-se. Intimem-se.
