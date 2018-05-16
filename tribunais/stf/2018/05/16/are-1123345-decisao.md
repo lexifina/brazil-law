@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATERIA FÁTICA – LEGISLAÇÃO LOCAL — INTERPRETAÇÃO — INVIABILIDADE — AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de Pernambuco confirmou o entendimento do Juízo quanto à concessão da segurança para o restabelecimento da pensão por morte, aludindo à legislação de regência. No extraordinário cujo trânsito busca alcançar, a recorrente aponta violado o artigo 5º, inciso XXXVI, da Constituição Federal. Discorre sobre alterações na lei de seguridade social dos servidores estaduais, afirmando a inexistência do direito de manutenção do benefício.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Colho da decisão recorrida o seguinte trecho:
+    3. No caso retratado nos autos, o agravado, quando do falecimento de seu pai (24/03/1995), contava apenas com cinco anos de idade, sendo inexoravelmente enquadrado na categoria de beneficiário menor. Desta forma, sendo beneficiário menor, o agravado estaria acobertado pela regra contida no parágrafo único do art. 17 da Lei n° 7.551/77.
+    4. Nos termos da legislação vigente à época do óbito, era prevista a concessão de pensão por morte ao filho de segurado até os 25 (vinte e cinco) anos de idade, desde que mantivesse a condição de universitário.
+    5. A Administração Pública, no alto de sua autonomia gerencial, pode concluir posteriormente, como de fato acabou por concluir com a edição da Lei Complementar n° 43/2002, pela inviabilidade da manutenção da pensão por morte ao jovem universitário e extrair do ordenamento jurídico sua existência. Todavia, referida extinção apenas poderá se dar a partir da vigência da lei nova e aos atos aquisitivos do direito convolados sob sua égide.
+    Da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação da Lei estadual nº 7.551/77 e da Lei Complementar estadual nº 43/02. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    4. Publiquem.
+Brasília, 16 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
