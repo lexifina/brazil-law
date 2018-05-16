@@ -1,0 +1,73 @@
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DE PENAS RESTRITIVAS DE DIREITOS. ADOÇÃO DA NOVA ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE. OMISSÃO. NÃO OCORRÊNCIA.
+1. Os embargos de declaração, como se infere da redação do artigo 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente.
+2. A orientação consolidada pelo Supremo Tribunal Federal, no julgamento do HC n. 126.292/SP (Rel. Ministro Teori Zavascki, Tribunal Pleno, DJe 17/5/2016), de que é possível a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não inclui as penas restritivas de direitos, dispondo tão somente sobre a prisão do acusado condenado à pena privativa de liberdade. Precedentes.
+3. Assim, a mera irresignação com o resultado do julgamento, visando à reversão do que já foi regularmente decidido, não tem o condão de viabilizar a oposição dos aclaratórios.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão assim ementado (e-STJ fl. 133):
+AGRAVO REGIMENTAL. EXECUÇÃO PROVISÓRIA DE PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE.
+1. A orientação consolidada pelo Supremo Tribunal Federal, trilhada por esta Corte, é no sentido de possibilitar a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário (HC n. 126.292/SP, relator o Ministro Teori Zavascki, Tribunal Pleno, DJe 17/5/2016).
+2. No entanto, a Terceira Seção do Superior Tribunal de Justiça, no julgamento do EREsp n. 1.619.087/SC, firmou a compreensão de que, em relação às reprimendas restritivas de direitos, a execução somente poderia ocorrer quando transitada em julgado a condenação, em observância ao comando legal contido no art. 147 da Lei de Execução Penal.
+3. Agravo regimental desprovido.
+Em suas razões, afirma o embargante a ocorrência de omissão no julgado, porquanto deixou "de apreciar o adequado alcance que deve ser conferido à decisão proferida pelo Plenário do Supremo Tribunal Federal no Habeas Corpus n. 126.292/SP - julgado em fevereiro de 2016 - e reiterada por ocasião do julgamento das medidas cautelares nas ADCs nºs 43 e 44, em 05.10.2016, quando ficou decidido que o início da execução da pena condenatória após a confirmação da sentença em segundo grau de jurisdição não ofende o núcleo essencial do princípio da presunção de inocência (art. 5º, LVII, da CF/88)" - e-STJ fl. 143.
+Requer seja sanada a apontada omissão, inclusive para fins de prequestionamento.
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Os embargos de declaração, nos termos do artigo 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente, que não se fazem presentes no caso em análise.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes desta Corte, como se percebe no aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambigüidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados. (EDcl na APn 613/SP, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, DJe 03/02/2016)
+Pois bem, como estabelecido no acórdão ora embargado, deve ser mantido o entendimento quanto à impossibilidade de execução provisória da pena na espécie.
+De fato, conforme assentado na decisão ora atacada, a orientação consolidada pelo Supremo Tribunal Federal, no julgamento do HC n. 126.292/SP (Rel. Ministro Teori Zavascki, Tribunal Pleno, DJe 17/5/2016), de que é possível a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não inclui as penas restritivas de direitos, dispondo tão somente sobre a prisão do acusado condenado à pena privativa de liberdade.
+Nesse mesmo sentido, têm-se:
+AGRAVOS REGIMENTAIS EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR (ART. 302 DO CTB). RECURSO MINISTERIAL. VIOLAÇÃO DO ART. 59 DO CP. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVADAS. INIDONEIDADE DOS FUNDAMENTOS. MOTIVOS, CIRCUNSTÂNCIAS DO DELITO E CONSEQUÊNCIAS DO CRIME. SUPORTE EM ELEMENTOS INERENTES AO TIPO PENAL VIOLADO. ALEGAÇÃO DE ÓBICE DA SÚMULA 7/STJ. NÃO OCORRÊNCIA. REVALORAÇÃO DOS FUNDAMENTOS APRESENTADOS PELAS INSTÂNCIAS ORDINÁRIAS. PENAS REDIMENSIONADAS. PLEITO DE EXECUÇÃO PROVISÓRIA DA PENA. INVIABILIDADE. VERIFICADA A SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. NECESSIDADE DO TRÂNSITO EM JULGADO DA CONDENAÇÃO. ENTENDIMENTO DA TERCEIRA SEÇÃO DESTA CORTE. ERESP N. 1619087/SC, DJE. 24/8/2017. RECURSO DEFENSIVO. PLEITO DE RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. OCORRÊNCIA. PENA DEFINITIVA. 2 ANOS DE DETENÇÃO. APLICAÇÃO DOS ARTS. 107, IV, C/C O 109, V, AMBOS DO CP.
+ ..
+2. Para a jurisprudência do Superior Tribunal de Justiça não é possível a execução provisória de penas restritivas de direitos antes do trânsito em julgado da condenação.
+3. A Terceira Seção desta Corte, no julgamento do EREsp n. 1.619.087/SC, em voto proferido pelo em. Ministro JORGE MUSSI, dirimiu a controvérsia acerca da execução provisória da pena privativa de liberdade substituída por restritiva de direitos, ao entendimento de que o Supremo Tribunal Federal, ao modificar sua jurisprudência no julgamento do HC n. 126.292/SP, somado ao art. 147 da Lei de Execução Penal, não considerou a possibilidade de se executar provisoriamente a pena restritiva de direitos antes do trânsito em julgado da condenação, dispondo tão somente sobre a prisão do acusado condenado à pena privativa de liberdade em segundo grau, antes do trânsito em julgado. Precedente. (AgRg nos EDcl no REsp n. 1.629.095/SE, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 6/10/2017 - grifo nosso).
+ ..
+5. Agravo regimental do Ministério Público Federal improvido. Agravo regimental de [NOME] provido para declarar extinta a sua punibilidade pela prescrição da pretensão punitiva, nos termos do art. 107, IV, c/c os arts. 109, V, ambos do Código Penal.
+(AgRg no REsp 1676952/PA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/11/2017, DJe 21/11/2017, grifei)
+HABEAS CORPUS. CORRUPÇÃO ATIVA. CONDENAÇÃO. APELAÇÃO JULGADA PELO TRIBUNAL DE ORIGEM. EXECUÇÃO PROVISÓRIA DE PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. PRECEDENTES.
+1. A Terceira Seção deste Superior Tribunal de Justiça, em sessão realizada no dia 14/6/2017, por maioria de votos, no julgamento do EREsp n. 1.619.087, firmou orientação no sentido de ser impossível a execução provisória das penas restritivas de direitos, devendo-se aguardar o trânsito em julgado da condenação, nos termos do art. 147 da LEP.
+2. Ordem concedida para suspender, até o trânsito em julgado da sentença condenatória, a execução provisória das penas restritivas de direitos impostas ao paciente.
+(HC 396.917/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/09/2017, DJe 09/10/2017, grifei)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. EXECUÇÃO IMEDIATA DE PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. ENTENDIMENTO DA TERCEIRA SEÇÃO. AGRAVO PROVIDO.
+1. No julgamento do EREsp n. 1.619.087/SC, a Terceira Seção assentou não ser possível, enquanto não houver manifestação expressa do Supremo Tribunal acerca da amplitude do Tema n. 925, a execução provisória da pena privativa de liberdade convertida em restritiva de direitos, haja vista a disposição do art. 147 da LEP.
+2. Agravo regimental provido para afastar a determinação, de ofício, da execução provisória das penas restritivas de direitos.
+(AgRg nos EDcl no AREsp 744.921/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/09/2017, DJe 27/09/2017, grifei)
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. EXECUÇÃO PROVISÓRIA DE PENAS RESTRITIVAS DE DIREITOS. ART. 147 DA LEI DE EXECUÇÃO PENAL. IMPOSSIBILIDADE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+ ..
+2. Após o julgamento do Habeas Corpus n. 126.292/SP (STF, Relator Ministro TEORI ZAVASCKI, TRIBUNAL PLENO, julgado em 17/2/2016), esta Corte passou a adotar o entendimento do Supremo Tribunal Federal de que "a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal". Em outras palavras, voltou-se a admitir o início de cumprimento da pena imposta pelo simples esgotamento das instâncias ordinárias, ou seja, antes do trânsito em julgado da condenação, nos termos da Súmula 267/STJ.
+3. Contudo, no caso dos autos, a pena privativa de liberdade imposta ao paciente foi substituída por duas restritivas de direitos. Assim, considerando o disposto no art. 147 da Lei de Execução Penal e que, no Supremo Tribunal Federal, ao tempo em que vigorava o entendimento pela possibilidade de execução provisória das penas privativas de liberdade, não se autorizava a execução das penas restritivas de direitos antes do trânsito em julgado da condenação, não é possível, agora, a execução provisória de penas restritivas de direitos.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar a suspensão da execução provisória da pena restritiva de direitos, até o trânsito em julgado da sentença penal condenatória.
+(HC 387.873/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/05/2017, DJe 11/05/2017, grifei)
+Desse modo, não há que se falar em omissão no julgado.
+Além disso, esta Corte é firme na compreensão de que são inadmissíveis os embargos de declaração que visem o prequestionamento de matéria constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO NO RECURSO ESPECIAL. OMISSÃO. EFEITOS INFRINGENTES. HIPÓTESE EXCEPCIONAL. INEXISTÊNCIA DOS VÍCIOS. PREQUESTIONAMENTO. DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+2. Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios.
+3. O acórdão prolatado pela Sexta Turma deixa claro que, por ocasião do julgamento do Recurso Especial n. 1.341.370/MT, representativo de controvérsia (de relatoria do Ministro Sebastião Reis Júnior, 3ª S., DJe 17/4/2013), foi firmado o entendimento de que "É possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência".
+4. Resumindo-se a irresignação do embargante ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável, não há nenhum fundamento que justifique a interposição dos embargos de declaração, que se prestam tão somente a sanar eventual omissão, contradição, ambiguidade ou obscuridade do julgado, e não a reapreciar a causa.
+5. Não compete ao STJ analisar suposta ofensa a dispositivos constitucionais, mesmo com a finalidade de prequestionamento, a teor do art. 102, III, da Constituição Federal.
+6. Embargos rejeitados
+(EDcl no AgRg no REsp 1471968/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/02/2016, DJe 16/02/2016.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE NÃO IMPUGNADOS. INCIDÊNCIA DO ART. 544, § 4º, I, DO CPC/1973. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO CARACTERIZADOS. APLICAÇÃO DA MULTA PREVISTA NO § 2º DO ART. 1.026 DO CPC/2015. EMBARGOS REJEITADOS.
+1. Não há falar em negativa de prestação jurisdicional, pois decidida a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte. Ressalte-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte, quando tenha encontrado fundamentação suficiente para dirimir integralmente o litígio.
+2. Os embargos de declaração não se prestam a rediscutir o próprio mérito da decisão embargada.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 860.938/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/10/2016, DJe 10/11/2016, grifei.)
+Percebe-se, isto sim, que há uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
