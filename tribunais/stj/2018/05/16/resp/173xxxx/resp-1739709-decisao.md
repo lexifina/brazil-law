@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo desafiando decisão que inadmitiu recurso especial, fundamentado no art. 105, III, "c" da Constituição Federal, este interposto contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E MATERIAL. COMPRA E VENDA DE AUTOMÓVEL "0 KM".
+Seja sob a ótica do abatimento proporcional, facultado pelo artigo 18, § le, do CDC, seja da responsabilidade civil por dano material, não assiste razão à parte autora em requerer a indenização pleiteada, pois deixou de exercer as alternativas estampadas no referido artigo e adquiriu um segundo veículo na mesma concessionária, dando em pagamento o automóvel alegadamente defeituoso. Igualmente inocorrente o pretendido dano moral na espécie. APELAÇÃO DESPROVIDA. (e-STJ, fl 149)
+Nas razões do recurso especial, a recorrente aponta dissídio jurisprudencial, sustentando, em síntese, fazer jus à indenização a título de dano moral.
+É o relatório.
+A irresignação não merece prosperar.
+Em relação à admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, esta eg. Corte de Justiça tem decidido, reiteradamente, que, para a correta demonstração da divergência jurisprudencial, deve haver o cotejo analítico, expondo-se as circunstâncias que identificam ou assemelham os casos confrontados, a fim de demonstrar a similitude fática entre os acórdãos impugnado e paradigma, bem como a existência de soluções jurídicas díspares, nos termos dos arts. 541, parágrafo único, do CPC e 255, § 2º, do RISTJ.
+Contudo, na hipótese dos autos, não houve essa demonstração.
+A análise dos autos denota que as circunstâncias fáticas expostas nos acórdãos paradigmas divergem do que foi exposto no aresto vergastado. No caso ora em análise, observa-se que as instâncias ordinárias fundamentaram suas decisões com base em que a avaliação do automóvel por montante inferior ao da Tabela FIPE não caracteriza dano moral, além de o caso também não configurar o referido dano, visto que o fato da autora voltar a negociar com a concessionária demonstra que não houve aborrecimentos e transtornos de grande significado.
+Por outro lado, os acórdãos paradigmas tratam de julgados que consideraram que o dano moral surge no momento em que o comprador de veículo zero km, contendo vício do produto, retorne à concessionária por diversas vezes na tentativa de reparar o vício e não obtenha sucesso.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à recorrida de 15% para 16% sobre o valor atualizado da causa, observado o disposto no art. 12 da Lei nº 1.060/50, dada a eventual concessão de justiça gratuita.
+Publique-se.
