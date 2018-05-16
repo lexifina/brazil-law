@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “Responsabilidade civil. Perda de veículo apreendido por ato de polícia judiciária. Responsabilidade objetiva da administração por força do depósito necessário. Irrelevância da contratação de terceiro para guardar o bem. Relação contratual estranha ao administrado. Dever de indenização inafastável. Danos materiais bem estimados à luz do valor de aquisição do bem e do preço de mercado. Danos morais ora reduzidos a 20% do valor da indenização por danos materiais. Aplicação da Lei nº 11.960/09 conforme o decidido pelo C. STF na ADI 4.357/DF e na ADI 4.425/DF por identidade de razões. Recurso parcialmente provido”. (eDOC 2,p. 11)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, apontou-se violação ao art. 100, § 12, do texto constitucional, e pediu-se seu sobrestamento com vinculação ao tema 810 do Plenário Virtual, a qual foi deferida. (eDOC 2, p. 42)
+    Após o julgamento do mérito do recurso paradigma, o órgão julgador manteve sua decisão, em acórdão assim ementado:
+    “Processo civil. Juízo de adequação. RE nº 870.947/SE (Tema nº 810). Acórdão em conformidade com o paradigma. Acórdão mantido”. (eDOC 2, p. 51)
+    Houve interposição e rejeição de embargos de declaração pelo recorrente, após o que a Presidência da Seção de Direito Público do Tribunal de origem encaminhou o extraordinário à Suprema Corte.
+    É o relatório.
+    Decido.
+    Trata-se de examinar se o acórdão recorrido está em conformidade com a tese fixada no julgamento do RE 870.947, paradigma do tema 810 do Plenário Virtual, cuja redação é a seguinte:
+    “I - O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídico-tributária, aos quais devem ser aplicados os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito tributário, em respeito ao princípio constitucional da isonomia (CRFB, art. 5º, caput); quanto às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09;
+    II - O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina”.
+    O acórdão recorrido assim dispôs quanto ao ponto:
+    “No que diz respeito à aplicação da Lei nº 11.960/09, razão assiste em parte à FESP: a Lei em questão deve ser aplicada no cômputo dos juros e da correção monetária nos termos do que foi decidido pelo C. STF na Adi nº 4.357/DF e na Adi nº 4.425/DF, porém, e inclusive, por força de identidade de razões, no que diz respeito à modulação dos efeitos da declaração de inconstitucionalidade”. (eDOC 2, p. 14)
+    Percebe-se que o acórdão recorrido não poderia estar em discordância com a tese fixada por este Tribunal, na medida em que em vez de fixar os índices de correção monetária ou de juros remete-se expressamente ao decidido nas ADIs 4.357 e 4.425, em que lançados os fundamentos para a solução da controvérsia com repercussão geral examinada pelo tema 810.
+    Portanto, inadmissível o recurso extraordinário, por contrariar tese fixada na sistemática da repercussão geral.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, b, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do NCPC, majoro, em 10%, o valor da verba honorária fixada na origem em favor do recorrido (eDOC 2, p. 14), observados os limites previstos nos parágrafos 2º e 3º do referido dispositivo.
+    Publique-se.
+    Brasília, 16 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
