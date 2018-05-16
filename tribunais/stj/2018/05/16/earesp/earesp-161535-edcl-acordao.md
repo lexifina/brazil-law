@@ -1,0 +1,48 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015. REJEIÇÃO.
+1. De acordo com o art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou para corrigir erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira SEÇÃO do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Gurgel de Faria, Francisco Falcão, Herman Benjamin, Napoleão Nunes Maia Filho, Og Fernandes, Benedito Gonçalves e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Regina Helena Costa.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por [NOME] em face acórdão de minha relatoria, assim ementado (fl. 1.107):
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DIVERGÊNCIA. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. REVISÃO DE PENALIDADES APLICAÇÃO EM AÇÃO DE IMPROBIDADE. DIVERGÊNCIA ENTRE ACÓRDÃO QUE APRECIA O MÉRITO E OUTRO QUE CONCLUI PELA INCIDÊNCIA DA SÚMULA 211/STJ. IMPOSSIBILIDADE. REEXAME DE REGRA TÉCNICA DE CONHECIMENTO DO RECURSO ESPECIAL.
+1. "Não há como reconhecer a divergência entre acórdão que adentrou ao mérito da demanda e julgado que não ultrapassou o juízo de admissibilidade, ante a verificação de óbice processual" (AgRg nos EAREsp 214.649/DF, Rel. Ministro CASTRO MEIRA, CORTE ESPECIAL,DJe 25/04/2013).
+2. Tal entendimento jurisprudencial não foi superado pelo Novo Código de Processo Civil, uma vez que, mesmo diante da nova disciplina processual, faz-se necessário que a divergência jurisprudencial sustentada pela embargante esteja fundamentada em decisão de mérito.
+3. No caso dos autos, não houve o enfrentamento da tese veiculada no recurso especial manejado, qual seja, a de que a penalização aplicada pelas instâncias ordinárias se mostrou grave, em afronta os princípios da proporcionalidade e da razoabilidade. Em verdade, a Segunda Turma limitou-se a assentar a existência de óbice ao conhecimento da impugnação (ausência do requisito do prequestionamento), deixando, então, de proferir decisão de mérito quanto à razoabilidade das sanções.
+4. Aplica-se ao caso, ainda, o entendimento firmado no âmbito deste Superior Tribunal de Justiça quanto ao não cabimento de embargos de divergência para discutir o erro ou o acerto do decisum com relação à incidência, ou não, de regra técnica de conhecimento de recurso especial.
+5. Agravo interno a que se nega provimento.
+Em suas razões, a parte embargante sustenta que: (I) ao contrário do entendimento mantido pelo v. acórdão ora embargado, verifica-se que o tema razoabilidade/proporcionalidade das sanções aplicadas encontra-se devidamente prequestionado quando, apesar de reconhecer que, "mesmo que o valor das despesas não seja significativo", o e. TJSP afirma ser "pertinente a motivação do sentenciante."; (II) o v. aresto proferido pelo e. TJSP interpretou a norma federal que se aponta como violada no apelo especial, qual seja, o art. 12 da Lei nº 8.429/92, ainda que não tenha mencionado, de modo expresso, o referido dispositivo legal; e (III) não obstante o similar contexto fático ora apresentado, o v. acórdão proferido pela e. Segunda Turma e os v. acórdãos paradigmas discrepam no tocante à possibilidade de readequação das sanções impostas em consonância com os princípios da razoabilidade e da proporcionalidade.
+Impugnações às fls. 1.140/1.145 e 1.152/1.157.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): De acordo com o previsto no artigo 1.022 do novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão atacada ou para corrigir erro material.
+Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado no acórdão embargado que "não há como reconhecer a divergência entre acórdão que adentrou ao mérito da demanda e julgado que não ultrapassou o juízo de admissibilidade, ante a verificação de óbice processual" (AgRg nos EAREsp 214.649/DF, Rel. Ministro CASTRO MEIRA CORTE ESPECIAL, DJe 25/4/2013).
+Ora, na hipótese em exame, o Ministro Herman Benjamin, relator do acórdão contra o qual foram interpostos embargos de divergência, cingiu-se a tecer as seguintes considerações acerca do pedido de revisão das penalidades (fl. 897):
+O mérito do Recurso Especial não merece melhor sorte.
+Como antes delineado, a questão atinente à falta de fundamentação da relação entre a extensão do dano e a respectiva gravidade frente aos princípios da razoabilidade e da proporcionalidade não foi objeto de prequestionamento, ante a preclusão consumativa da matéria.
+O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Nota-se, portanto, que não houve o enfrentamento da tese veiculada no recurso especial manejado, qual seja, a de que a penalização aplicada pelas instâncias ordinárias se mostrou grave, em afronta os princípios da proporcionalidade e da razoabilidade.
+Em verdade, a Segunda Turma limitou-se a assentar a existência de óbice ao conhecimento da impugnação (ausência do requisito do prequestionamento), deixando, então, de proferir decisão de mérito quanto à razoabilidade das sanções.
+Diante dessas circunstâncias, faltou aos embargos de divergência o pressuposto básico para a sua admissibilidade, qual seja, a discrepância entre acórdãos a respeito da mesma questão jurídica.
+Ademais, foi aplicado ao caso o entendimento firmado no âmbito deste Superior Tribunal de Justiça "quanto ao não cabimento de embargos de divergência para discutir o erro ou o acerto do decisum quanto à incidência ou não de regra técnica de conhecimento de recurso especial" (AgRg nos EREsp 1.301.552/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, DJe 14/12/2015).
+Isso porque não se faz possível, em sede de embargos de divergência, revisar a aplicação de regra técnica de admissibilidade do recurso especial, tal como pretende o embargante ao reiterar que a matéria foi objeto de análise perante o Tribunal de origem.
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas obscuridades do decisum embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer omissão no julgado embargado, conforme exige o art. 1022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1471797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 2/12/2014)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+Ante o exposto, rejeito os embargos declaratórios.
+É o voto.
