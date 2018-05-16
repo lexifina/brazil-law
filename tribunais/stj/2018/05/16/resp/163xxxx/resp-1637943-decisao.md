@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 88, e-STJ):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. EMENDAS CONSTITUCIONAIS NºS. 20/1998 E 41/2003.
+- Ação proposta em face do INSS, pretendendo seja condenada a Autarquia à revisão do benefício previdenciário, mediante a aplicação do novo teto estabelecido nas Emendas Constitucionais nº 20/1998 e 41/2003, com o pagamento das diferenças encontradas.
+- O aposentado que teve seu benefício limitado ao teto vigente à época de sua concessão, com o advento das Emendas Constitucionais nº 20/98 e 41/03, que elevou o teto dos benefícios previdenciários para R$ 1.200,00 (hum mil e duzentos reais) e R$ 2.400,00 (dois mil e quatrocentos reais), respectivamente, teria direito à aplicação do novo teto e reajuste do valor percebido.
+- O valor do novo teto fixado pela EC Nº 20/98 tem aplicação imediata aos benefícios já concedidos, inclusive aqueles deferidos antes da sua edição: Precedente do STF, RE Nº 564.354/SE, Relatora Ministra CARMEM LUCIA.
+- O benefício do Autor foi concedido em dezembro de 1989, e o valor de sua Renda Mensal Inicial, já revista, foi de NCz$ 5.735,58 (fls. 16), sendo que o valor do teto, à época da concessão, era de NCz$ 6.609,62, concluindo-se que seu benefício jamais foi atingido pelas Emendas Constitucionais 20/98 e 41/03, como já decidido pelo Supremo Tribunal Federal - STF razão por que não tem direito a Autora à revisão.
+Embargos de declaração rejeitados.
+A parte recorrente alega violação do artigo 460 do CPC/1973, ao argumento de que houve julgamento de pedido diverso do constante dos autos, ocasionando sentença extra petita, bem como dos artigos 130, 330, I, 420, I e II, do CPC/1973, em razão da negativa de produção de prova pericial.
+Nesse sentido, sustenta ser "imperiosa a decretação na nulidade do acórdão recorrido, em face do seu julgamento extra petita, posto que em nenhum momento requer-se a revisão do valor da renda mensal inicial, mas sim a revisão dos valores apurados em 06-1992, mais precisamente quando da revisão do buraco negro". Isso porque, embora de fato não houvesse valores desprezados em razão da aplicação do teto no momento da concessão do benefício, isto ocorreu quando da revisão administrativa chamada "buraco negro".
+Quanto ao segundo ponto, aponta a nulidade do acórdão, por negativa de prestação jurisdicional, visto que o indeferimento do pedido de produção de prova pericial teria impedido o autor de demonstrar a limitação ao teto do benefício. Aduz que a sentença antecipou-se ao entender pela extinção da ação sem antes determina a remessa dos cálculos a Contadoria, tal qual requerido na petição inicial e reiterado nas razões da Apelação.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 143, e-STJ.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Fixada a premissa, colaciono, por oportuno, o trecho em que o Tribunal de origem trata do ponto controverso (fl. 87, e-STJ):
+Entretanto, como dito anteriormente, somente o segurado que teve seu benefício limitado ao teto, tem direito à eventual revisão.
+Destarte o benefício do Autor foi concedido em dezembro de 1989, e o valor de sua Renda Mensal Inicial, já revista, foi de NCz$ 5.735,58 (fls. 16), sendo que o valor do teto, à época da concessão, era de NCz$ 6.609,62, concluindo-se que seu benefício jamais foi atingido pelas Emendas Constitucionais 20/98 e 41/03, como já decidido pelo Supremo Tribunal Federal - STF razão por que não tem direito a Autora à revisão.
+Assim, no que diz respeito aos artigos 460, 130, 330, I, 420, I e II, do CPC/1973 (e a tese a ele vinculada), verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
