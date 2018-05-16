@@ -1,0 +1,32 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região assim ementado (eDOC 3, pp. 51 e 52):
+    “TRIBUTÁRIO. CONSTITUCIONAL. ABONO ÚNICO. CONVENÇÃO COLETIVA DE TRABALHO. VERBA INDENIZATÓRIA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL INDEVIDA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DO TRIBUNAL SUPERIOR DO TRABALHO.
+    1. O Banco do Brasil S.A. impetrou o presente mandado de segurança preventivo em face do Diretor da Receita Previdenciária/Gerente Executivo no Distrito Federal do Instituto Nacional do Seguro Social – INSS com o objetivo de assegurar a inexigibilidade da Contribuição Previdenciária Patronal referente à parcela denominada “abono único” paga em razão de ajuste preliminar firmado com a Confederação de Trabalhadores nas Empresas de Crédito – CONTEC, Confederação de Trabalhadores em Instituições Financeiras – CNTIF e os sindicatos dos empregados em estabelecimentos bancários signatários do acordo.
+    2. A questão em debate cinge-se à identificação da natureza da referida parcela de abono único, se indenizatória ou remuneratória, uma vez que a contribuição previdenciária será devida em caso de reconhecimento do caráter remuneratório da verba.
+    3. Conquanto o Ministério Público Federal tenha entendido em seu parecer que houve regularidade no pagamento do abono, em situação que julgou possuir similaridade com a ora tratada, observo que a questão analisada nestes autos reflete, de fato, a eventualidade de pagamento de parcela que pretendeu indenizar os funcionários beneficiados pelo acordo coletivo. Vale destacar que foi limitado o pagamento da referida parcela somente aos funcionários da ativa, incluindo os licenciados.
+    4. “PROCESSO CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA E FGTS. ABONO ÚNICO PREVISTO EM CONVENÇÃO COLETIVA DE TRABALHO. ART. 28, § 9º, 'E', ITEM 7, DA LEI 8.212/91. EVENTUALIDADE E DESVINCULAÇÃO DO SALÁRIO, NO CASO. NÃO INCIDÊNCIA. PRECEDENTES DE AMBAS AS TURMAS DA 1ª SEÇÃO. RECURSO ESPECIAL PROVIDO.” (REsp 819552/BA, Rel. Ministro LUIZ FUX, Rel. p/ Acórdão Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 02/04/2009, DJe 18/05/2009)
+    5. Por fim, em novembro de 2011 foi emitido parecer pela Procuradoria da Fazenda Nacional, que tomou o nº 2114/2011 que culminou com a seguinte conclusão: “(...) Assim, presentes os pressupostos estabelecidos pelo art. 19, inciso II, da Lei nº 10.522, de 2002, c/c o art. 5º do Decreto nº 2.346, de 1997, recomenda-se sejam autorizadas pela Senhora Procuradora-Geral da Fazenda Nacional a não apresentação de contestação, a não interposição de recursos e a desistência dos já interpostos, desde que inexista outro fundamento relevante, nas ações judiciais que visem obter a declaração de que sobre o abono único, previsto em Convenção Coletiva de Trabalho, desvinculado do salário e pago sem habitualidade, não há incidência de contribuição previdenciária.”.
+    6. Em decorrência da conclusão alcançada pelo Parecer PGFN/Nº 2114/2011, aprovado pelo Ministro de Estado da Fazenda, foi editado o ATO DECLARATÓRIO Nº 16/2011, que autorizou a dispensa de contestação, recursos e desistência dos citados expedientes já interpostos.
+    7. Como amplamente demonstrado, o impetrante, no pagamento do abono único, como destacado no voto, não está obrigado ao recolhimento da Contribuição Previdenciária.
+    8. Apelação provida. Sentença reformada, para conceder a segurança pleiteada.”
+    Os embargos de declaração foram desprovidos (eDOC 3, p. 80).
+    No recurso extraordinário, interposto com base no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 97, 195, I, a; e 201, § 11, da Constituição Federal.
+    Nas razões recursais, sustenta-se que a verba paga pelo Banco do Brasil a seus empregados não deveria ter caráter de abono, uma vez que tem caráter habitual e integra o salário de contribuição. Alega-se a necessidade da exigência do recolhimento da contribuição previdenciária (eDOC 3, p. 101).
+    A Presidência do Tribunal Regional Federal da 1ª Região inadmitiu o recurso extraordinário pela ausência de violação direta ao Texto Constitucional (eDOC 4, p. 31).
+    É o relatório. Decido.
+    De plano, observo que a jurisprudência do Supremo se consolidou no sentido de ser infraconstitucional a discussão acerca da incidência da contribuição previdenciária baseada na natureza da verba.
+    Nesse sentido, confiram-se as ementas de ambas as Turmas do STF:
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. NATUREZA JURÍDICA. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. PRECEDENTES.
+    1. Nos termos da jurisprudência da Corte, a controvérsia relativa à natureza remuneratória ou indenizatória das verbas percebidas pelo contribuinte, para fins de incidência da contribuição previdenciária, demanda o reexame da legislação infraconstitucional.
+    2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (ARE 968.110 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 10.02.17)
+    “Agravo regimental no recurso extraordinário. Tributário. Contribuição Previdenciária. Controvérsia acerca da natureza jurídica da verba. Matéria infraconstitucional. Ofensa constitucional indireta ou reflexa. Súmula nº 279 da Corte.
+    1. Possui caráter infraconstitucional a controvérsia relativa à cobrança de contribuição previdenciária sobre valores pagos pelo empregador quando pendente discussão sobre a natureza jurídica das verbas.
+    2. Ausência de repercussão geral na discussão sobre a incidência, ou não, de contribuição previdenciária sobre valores pagos pelo empregador nos primeiros quinze dias de auxílio-doença.
+    3. Agravo regimental não provido.” (RE 915.179 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 01.02.16)
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC, haja vista tratar-se de mandado de segurança na origem (Súmula 512 do STF).
+    Publique-se.
+    Brasília, 16 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
