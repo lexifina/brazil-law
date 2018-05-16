@@ -1,0 +1,19 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1022/CPC. EMBARGOS REJEITADOS.
+DECISÃO
+Vistos etc.
+Trata-se de embargos de declaração opostos por TELEMAR NORTE LESTE S/A e OI MOVEL S.A. - SUCESSORA DE TNL PCS S/A em face de decisão (e-STJ, fls. 6999/7002) que, conheceu do conflito para, "reconhecendo a existência de transito em julgado das decisões proferidas nos AREsp"s 504.783/MG e 502.846/MG, bem assim a conexão entre as demandas, declarar a competência do JUÍZO DE DIREITO DA 39A VARA CÍVEL DO RIO DE JANEIRO - RJ para o processamento e julgamento da ação cautelar inominada e ação indenizatória aqui discutidas", nos termos da seguinte ementa:
+CONFLITO DE COMPETÊNCIA. PROCESSUAL CIVIL. REUNIÃO DE DEMANDAS. CONEXÃO INEQUÍVOCA. TRÂNSITO EM JULGADO DE DECISÃO PROFERIDA POR UM DOS JUÍZOS QUE APRECIOU A QUESTÃO DA COMPETÊNCIA. INTANGIBILIDADE DA COISA JULGADA E SEGURANÇA JURÍDICA. CONFLITO CONHECIDO PARA, RATIFICANDO AS DECISÕES DESTA CORTE PROFERIDAS NOS ARESP"S 504.783/MG E 502846/MG, DECLARAR A COMPETÊNCIA DO JUÍZO DE DIREITO DA 39A VARA CÍVEL DO RIO DE JANEIRO - RJ PARA O PROCESSAMENTO E JULGAMENTO DAS AÇÕES.
+Em suas razões, a embargante sustenta a existência de erro material na decisão embargada, na medida em que "(..) embora o decisum tenha reconhecido a conexão entre as três demandas - a cautelar nº 0012589- 26.2017.8.19.0001, a indenizatória nº 0012603-10.2017.8.19.0001 e a ação de cobrança nº 0203275- 48.2012.8.19.0001 -, o dispositivo, por mero lapso, deixou de assinalar esta última"(e-STJ, fl. 7008).
+Postula, dessa forma, o acolhimento dos embargos de declaração, para que a "ação de cobrança nº 0203275- 48.2012.8.19.0001, assim como já se deu com a cautelar e com a indenizatória, também conste, expressamente, no dispositivo da decisão que reconheceu a competência da Comarca do Rio de Janeiro" (e-STJ, fl.7008).
+Sem impugnação (e-STJ, fl.7010).
+É o breve relatório.
+Decido.
+Os embargos declaratórios não merecem acolhida.
+Nos limites estabelecidos pelo art. 1022, do Código de Processo Civil, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+No caso, o decisum embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no incidente, ao concluir, ratificando as decisões desta Corte proferidas nos AREsp"s 504.783/MG e 502.846/MG, pela declaração da competência do Juízo de Direito da 39ª Vara Cível do Rio de Janeiro/RJ para o processamento e julgamento da ação cautelar e a indenizatória.
+Destaco, por oportuno, que não há qualquer vício no dispositivo da decisão embargada relacionado à ação de cobrança n.º 0203275-48.2012.8.19.0001, na medida em que, não obstante a referência à existência da induvidosa conexão entre as três demandas, o objeto do conflito é único e restrito apenas à divergência estabelecida entre Juízo de Direito da 6ª Vara Cível de Belo Horizonte/MG, o suscitante, e o Juízo de Direito da 39ª Vara Cível do Rio de Janeiro/RJ, o suscitado, nos autos da ação cautelar inominada e da ação indenizatória propostas por Radial Minas Logística.
+A questão competencial relacionada à citada ação de cobrança está sendo discutida no âmbito de exceção de incompetência e posterior agravo de instrumento (n.º 0007720-91.2015.8.19.0000) - já apreciado pelo TJ/RJ -, sobre o qual há recurso especial - já admitido pela 3ª Vice Presidência do TJ/RJ em 07/02/2018 - pendente de julgamento.
+Portanto, não há qualquer vício na decisão embargada a ensejar a sua retificação.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
