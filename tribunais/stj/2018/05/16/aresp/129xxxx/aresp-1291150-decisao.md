@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EMBARGOS À EXECUÇÃO Locação - Cerceamento de defesa não caracterizado - Prova testemunhal que seria inócua no caso concreto Execução fundada em contrato de locação de bem móvel Título líquido, certo e exigível Exceção do contrato não cumprido Ausência de indício de defeito do equipamento alugado Eventual pedido de reparação que deverá ser realizado pelas vias próprias Juros e multa moratória pactuados contratualmente Sem abusividade - Embargos improcedentes. Sentença mantida.
+Apelação não provida."
+(e-STJ, fl. 217)
+Nas razões do recurso especial, o agravante alega violação dos arts. 373 do Código de Processo Civil de 2015 e 476 do Código Civil, sustentando, em síntese, que: (a) teve seu direito de defesa cerceado pelo indeferimento da produção de prova oral, e (b) a agravada carece de título executivo extrajudicial, já que o contrato de locação anexado aos autos não é líquido, certo e exigível.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado nº 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que se refere à alegação de cerceamento de defesa, o Tribunal a quo, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise soberana do contexto fático-probatório dos autos, decidiu por sua não caracterização com base na seguinte fundamentação:
+"Inicialmente, não vislumbro o alegado cerceamento de defesa. Presentes nos autos elementos suficientes ao convencimento do magistrado, desnecessária a produção de todas as provas requeridas pelas partes, sem qualquer ofensa à ampla defesa, especialmente, quando prescindíveis ao julgamento da ação, caso dos autos, em que a oitiva do representante legal da exequente seria inócua ao fim pretendido pelo apelante."
+(e-STJ, fl. 218)
+É entendimento desta Corte que "o magistrado é o destinatário da prova, competindo às instâncias ordinárias exercer juízo acerca da suficiência das que foram produzidas, nos termos do art. 130 do CPC" (AgRg no REsp 1449368/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/08/2014, DJe 27/08/2014).
+A avaliação tanto da suficiência dos elementos probatórios que justificaram o julgamento antecipado da lide (art. 330, I, do CPC), quanto da necessidade de produção de outras provas demandaria a incursão em aspectos fático-probatórios dos autos, inviável, providência vedada no recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça. A propósito:
+AGRAVO REGIMENTAL EM AGRAVO (ARTIGO 544 DO CPC) - AÇÃO DE COBRANÇA - DEMANDA POSTULANDO INDENIZAÇÃO SECURITÁRIA POR INVALIDEZ PERMANENTE - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO AGRAVO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL. IRRESIGNAÇÃO DO SEGURADO.
+1. Cabe ao magistrado verificar a existência de provas suficientes nos autos para ensejar o julgamento antecipado da lide e indeferir a produção de provas consideradas desnecessárias, conforme o princípio do livre convencimento do julgador. Infirmar tais fundamentos demandaria, necessariamente, o reexame do conjunto fático- probatório dos autos. Incidência da Súmula 7/STJ.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 723.568/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/02/2016, DJe 23/02/2016, grifou-se)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO ANTECIPADO DA LIDE. ALEGAÇÃO DE OFENSA AO ART. 330, I, DO CPC. PLEITO DE PRODUÇÃO DE PROVA PERICIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. O magistrado é o destinatário da prova, competindo às instâncias ordinárias exercer juízo acerca da suficiência das que foram produzidas, nos termos do art. 130 do CPC.
+2. No caso concreto, o Tribunal de origem concluiu que não houve cerceamento de defesa e que as provas constantes dos autos eram suficientes para o julgamento da lide. Alterar esse entendimento demandaria o reexame dos elementos fáticos, o que é vedado em recurso especial (Súmula n. 7 do STJ) .
+3. O óbice da Súmula n. 7/STJ também impede o reexame do valor dos honorários advocatícios, arbitrados dentro dos parâmetros legais.
+4. Agravo regimental a que nega provimento.
+(AgRg no AREsp 527.139/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/11/2015, DJe 13/11/2015, grifou-se)
+Quanto à questão de fundo, a Corte de origem, ao dirimir a controvérsia mediante o exame dos elementos informativos dos autos, concluiu que a execução é fundada em obrigação líquida, certa e exigível. Confira-se:
+"Inicialmente, destaco ser a presente execução fundada em obrigação líquida, certa e exigível.
+O crédito resulta do contrato que estabeleceu a obrigação de pagamento dos aluguéis, em data certa (fls. 54), com estabelecimento de valor fixo por hora para eventual utilização excedente do equipamento.
+Crédito exigível ante a ausência de impugnação quanto ao inadimplemento e a respectiva falta de comprovação de pagamento por meio de quitação. Quitação, fato extintivo da pretensão satisfativa do apelado, cujo ônus de comprovação era dos apelantes que dele não se desoneraram, conforme artigo 373, inciso II, do Código de Processo Civil.
+Logo, ausente qualquer vício formal que obste o conhecimento da presente execução."
+(e-STJ, fl. 218)
+Para alterar os fundamentos acima transcritos e reconhecer que a recorrida careceria de título executivo extrajudicial, não sendo contrato de locação anexado aos autos líquido, certo e exigível, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável no âmbito do recurso especial, tendo em vista o teor das Súmulas nº 5 e 7 do STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. TÍTULO DE CRÉDITO CERTO, LÍQUIDO E EXIGÍVEL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 . AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. As conclusões da Corte Estadual, no tocante à certeza, liquidez e exigibilidade do título executivo; legalidade e devida pactuação das taxas aplicadas pela instituição financeira, não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame dos elementos fático - probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+2. As matérias ventiladas no recurso especial (inversão do ônus da prova e repetição de indébito) não foram objeto de análise no acórdão recorrido, e sequer foram opostos embargos de declaração com o fim de ofertar à eg. Corte estadual a possibilidade da análise acerca do conteúdo do referido pedido. Resta configurada a ausência de prequestionamento, devendo incidir os enunciados das Súmulas 282 e 356/STF.
+3. Agravo interno não provido.
+(AgInt no AREsp 1024314/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/09/2017, DJe 09/11/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
