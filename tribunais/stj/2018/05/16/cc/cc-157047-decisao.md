@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de conflito positivo de competência em que é suscitante IMBRALIT INDÚSTRIA E COMÉRCIO DE ARTEFATOS E FIBROCIMENTO LTDA. - EM RECUPERAÇÃO JUDICIAL e suscitados o JUÍZO DE DIREITO DA 1ª VARA DA FAZENDA PÚBLICA DE CRICIÚMA - SC e o JUÍZO FEDERAL DA 1ª VARA DE CRICIÚMA - SJ/SC.
+Informa a suscitante que ingressou com pedido de recuperação judicial no JUÍZO DE DIREITO DA 1ª VARA DA FAZENDA PÚBLICA DE CRICIÚMA - SC, cujo processamento foi deferido, oportunidade em que se determinou a suspensão de todas as ações e execuções em trâmite contra a empresa.
+Aduz que (e-STJ fls. 5/6):
+(..) peticionou nos autos da Execução Fiscal nº 5007747- 24.2016.4.04.7204, que tramita perante a 1ª Vara Federal de Criciúma/SC, requerendo fossem suspensos todos os atos de constrição e de alienação determinados sobre o patrimônio da requerente (Doc. 7).
+Ao apreciar tal pedido, o Juízo da 1ª Vara Federal de Criciúma/SC entendeu que a recuperação judicial obsta apenas a penhora on line e os atos de alienação de bens, razão pela qual determinou a realização de penhora sobre os bens da empresa, nos seguintes termos (Doc. 8):
+(..)
+Desde logo se verifica a frontal violação das normas especiais constantes da Lei nº 11.101/05 e a flagrante usurpação da competência do Juízo da recuperação, na medida em que referida decisão, além de afrontar a lei e o entendimento jurisprudencial de há muito firmado por esta Corte Superior e pelo Supremo Tribunal Federal, acaba por prejudicar o cumprimento da recuperação e, principalmente, todos os demais credores, incluindo-se aí os credores trabalhistas.
+Ou seja, ao determinar a expedição de mandado de penhora a recair sobre os bens de empresa que se encontra em recuperação judicial, o Juízo da 1ª Vara Federal de Criciúma/SC induvidosamente expressou o entendimento de que seria o Juízo competente para decidir sobre a destinação dos bens e promover a execução, em franca contrariedade à lei e à jurisprudência.
+Discorre sobre o entendimento jurisprudencial pacífico de que, a partir do deferimento da recuperação, o juízo universal passa a ser o único competente para a prática de atos que comprometam o patrimônio da empresa recuperanda.
+Postula assim, em caráter liminar (e-STJ fl. 12):
+a.1) determinado ao Juízo da 1ª Vara Federal de Criciúma/SC que suspenda imediatamente os atos executórios nos autos da Execução Fiscal nº 5007747-24.2016.4.04.7204, determinando ainda o recolhimento dos mandados de penhora eventualmente expedidos ou o cancelamento das penhoras, caso já efetivadas, vedando-se, ainda, que tal Juízo venha a realizar, neste mesmo processo, novos bloqueios, penhoras, arrestos ou qualquer espécie de constrição judicial de quaisquer bens ou valores eventualmente devidos à suscitante, tendo em vista que, na forma da lei e da jurisprudência deste E. STJ, tal competência é exclusiva do juízo da recuperação judicial;
+a.2) sucessivamente, caso não acolhido o pedido de letra a.1), o que se refere apenas para argumentar, que, então, se determine ao Juízo da 1ª Vara Federal de Criciúma/SC a suspensão de todos os atos executórios na Execução Fiscal nº 5007747-24.2016.4.04.7204, vedando-se, ainda, a realização de novas constrições do patrimônio da suscitante, tais como penhora, bloqueios, arrestos, etc., até o julgamento final do presente conflito positivo de competência;
+No mérito, requer o reconhecimento da competência exclusiva do juízo da recuperação judicial, para tratar de atos que impliquem restrição do seu patrimônio.
+Liminar indeferida às fls. 121/123 (e-STJ).
+Informações prestadas às fls. 136/148 e 161/165 (e-STJ).
+A suscitante opôs embargos de declaração (e-STJ fls. 150/151).
+Parecer do Ministério Público Federal pelo não conhecimento do conflito, nos seguintes termos (e-STJ fl. 168):
+EMENTA. CONFLITO POSITIVO DE COMPETÊNCIA COM PEDIDO DE LIMINAR. JUÍZO DA RECUPERAÇÃO JUDICIAL X JUÍZO FEDERAL. PROSSEGUIMENTO DE EXECUÇÃO FISCAL ATÉ A PENHORA. DECISÃO DE ACORDO COM O ENTENDIMENTO DESTA CORTE. NÃO CONHECIMENTO DO CONFLITO.
+É o relatório
+Decido
+Seguindo orientação desta Corte Superior consolidada na Súmula n. 568/STJ, o relator pode decidir monocraticamente o conflito de competência, quando exista jurisprudência dominante do Tribunal sobre o tema.
+É esse precisamente o caso dos autos, em que se busca fixar o juízo competente para processar atos executivos contra o patrimônio da empresa IMBRALIT INDÚSTRIA E COMÉRCIO DE ARTEFATOS E FIBROCIMENTO LTDA. - EM RECUPERAÇÃO JUDICIAL.
+Com efeito, a jurisprudência do STJ é pacífica quanto ao tema, afirmando que, "com a edição da Lei n. 11.101, de 2005, respeitadas as especificidades da falência e da recuperação judicial, é competente o respectivo Juízo para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais, ainda que tenha ocorrido a constrição de bens do devedor" (AgRg n. CC n. 127.629/MT, Relator Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 23/4/2014, DJe 25/4/2014). Ainda nesse sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL. CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO NO ÂMBITO TRABALHISTA. NATUREZA FISCAL. DEFERIMENTO DA RECUPERAÇÃO JUDICIAL. ART. 6º, § 7º, DA LEI Nº 11.101/05, COM A RESSALVA NELE PREVISTA. PRÁTICA DE ATOS QUE COMPROMETAM O PATRIMÔNIO DO DEVEDOR OU EXCLUAM PARTE DELE DO PROCESSO DE RECUPERAÇÃO JUDICIAL. IMPOSSIBILIDADE. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 97 DA CF E DE DESRESPEITO À SÚMULA VINCULANTE N. 10/STF.
+1. "Apesar de a execução fiscal não se suspender em face do deferimento do pedido de recuperação judicial (art. 6º, §7º, da LF n. 11.101/05, art. 187 do CTN e art. 29 da LF n. 6.830/80), submetem-se ao crivo do juízo universal os atos de alienação voltados contra o patrimônio social das sociedades empresárias em recuperação, em homenagem ao princípio da preservação da empresa." (CC 114987/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 14/03/2011, DJe 23/03/2011).
+(..)
+3. Agravo regimental não provido.
+(AgRg no CC n. 123.228/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/6/2013, DJe 1/7/2013.)
+CONFLITO DE COMPETÊNCIA. AGRAVO. EXECUÇÃO FISCAL. SOCIEDADE EM RECUPERAÇÃO JUDICIAL. PRÁTICA DE ATOS EXPROPRIATÓRIOS NO JUÍZO DA AÇÃO EXECUTIVA. IMPOSSIBILIDADE.
+- As execuções fiscais ajuizadas em face da empresa recuperanda não se suspenderão em virtude do deferimento do processamento da recuperação judicial.
+- Todavia, embora a execução fiscal, em si, não se suspenda, devem ser obstados os atos judiciais que reduzam o patrimônio da empresa em recuperação judicial, enquanto mantida essa condição. Na hipótese, a aplicação literal do art. 6º, § 7º, da Lei 11.101/05 conduziria à inibição do cumprimento do plano de recuperação previamente aprovado e homologado.
+- Agravo não provido.
+(AgRg no CC n. 119.970/RS, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 14/11/2012, DJe 20/11/2012.)
+Porém, não há falar em conflito, pois, como destacado pelo Ministério Público Federal (e-STJ fls. 173/174):
+Na espécie, conforme decisão do juízo federal, reiterada em suas informações, não houve nenhum ato constritivo em face do patrimônio da empresa. Pelo contrário. Sua Excelência, atento ao posicionamento do Superior Tribunal de Justiça quanto à matéria, consignou a inviabilidade de suspensão da execução fiscal, destacando que eventuais atos de bloqueio de bens serão submetidos à análise do juízo universal. A confirmar (fl. 114 - 155):
+Entendo que o mero deferimento da recuperação judicial não tem o condão de suspender a execução de crédito fiscal, em virtude do que prevê o art. 6º, § 7º, da Lei 11.105/2005.
+Veja-se:
+  Na verdade, com o deferimento da recuperação judicial, o que não se permite são atos de alienação, os quais reduzam o patrimônio da pessoa jurídica. Da mesma forma, também não se permite a penhora on line(BACENJUD), considerando ser medida que bloqueia os ativos financeiros do contribuinte.
+Assim decidiu o Tribunal Regional Federal da 4ª Região:
+  Portanto, entendo que não é caso de suspender a execução, mas apenas de não permitir a penhora on line, bem como atos de alienação patrimonial.Do ofício e decisão juntados no evento 35, do juízo da 1ª Vara da Fazenda da Comarca de Criciúma, verifica-se que a penhora no rosto da recuperação judicial restou prejudicada.
+Considerando encontrar-se a executada em recuperação judicial, caberá à exequente realizar as pesquisas de bens que entender adequadas e, oportunamente, indicar eventuais bens hábeis a serem objeto de penhora, requerendo o que de direito.
+Uma vez penhorados outros bens da executada, como imóveis e veículos, ou em caso de não indicação de bem à penhora, suspenda-se a execução, no aguardo do término da recuperação judicial, devendo o exequente acompanhar o andamento da recuperação naquele juízo.
+Em tal contexto, inexiste risco de serem proferidas decisões divergentes, pois a 1ª VARA FEDERAL DE CRICIÚMA - SJ/SC reconheceu a competência do juízo da recuperação para julgar os atos de constrição que incidam sobre o patrimônio da empresa em recuperação judicial.
+Diante do exposto, NÃO CONHEÇO do conflito de competência. Prejudicada a analise dos embargos de declaração de fls. 150/151 (e-STJ).
+Publique-se e intimem-se.
