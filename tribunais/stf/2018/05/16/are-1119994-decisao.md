@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão assim ementado:
+    “1. PROCESSUAL CIVIL. Apelação. Agravo deduzido contra decisão do relator que deu parcial provimento a apelação. O art. 557 do CPC introduziu nova dinâmica ao princípio do colegiado no objetivo de descongestionar as pautas de julgamento. Assim, autoriza o relator a proferir desate monocrático nas hipóteses elencadas no dispositivo. 2. TRIBUTÁRIO. AIIM. Decisão que determinou adequação dos cálculos, limitando-se à incidência da taxa Selic na atualização do débito. Admissibilidade. Entendimento em conformidade com o decidido na Arguição de Inconstitucionalidade n° 0170909-61.2012.8.26.0000 pelo C. Órgão Especial desta Casa. 3. Decisão confirmada. Recurso não provido” (página 166 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 24 da mesma Carta. Sustenta-se, em síntese, a validade da Lei Estadual 13.918/2009, na parte que disciplina a taxa de juros de mora incidente sobre os créditos tributários estaduais
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido está em harmonia com a jurisprudência desta Corte no sentido de que, embora os Estados possam fixar índices de correção monetária de créditos fiscais, não podem fazê-lo em valor superior ao estabelecido pela União. Confira-se:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGO 113 DA LEI N. 6.374, DE 1º DE MARÇO DE 1.989, DO ESTADO DE SÃO PAULO. CRIAÇÃO DA UNIDADE FISCAL DO ESTADO DE SÃO PAULO - UFESP. ATUALIZAÇÃO MONETÁRIA PELO ÍNDICE DE PREÇO AO CONSUMIDOR - IPC. UNIDADE FISCAL DO ESTADO DE SÃO PAULO COMO FATOR DE ATUALIZAÇÃO DOS CRÉDITOS TRIBUTÁRIOS. ARTIGO 24, INCISO I, DA CONSTITUIÇÃO DO BRASIL. INCONSTITUCIONALIDADE PARCIAL. INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO.
+    1. Esta Corte, em oportunidades anteriores, firmou o entendimento de que, embora os Estados-membros sejam incompetentes para fixar índices de correção monetária superiores aos fixados pela União para o mesmo fim, podem defini-los em patamares inferiores --- incentivo fiscal. Precedentes.
+    2. A competência dos Estados-membros para fixar índices de correção monetária de créditos fiscais é tema que também foi examinado por este Tribunal. A União e Estados-membros detêm competência legislativa concorrente para dispor sobre matéria financeira, nos termos do disposto no artigo 24, inciso I, da CB/88.
+    3. A legislação paulista é compatível com a Constituição de 1988, desde que o fator de correção adotado pelo Estado-membro seja igual ou inferior ao utilizado pela União.
+    4. Pedido julgado parcialmente procedente para conferir interpretação conforme ao artigo 113 da Lei n. 6.374/89 do Estado de São Paulo, de modo que o valor da UFESP não exceda o valor do índice de correção dos tributos federais” (ADI 442/SP, Rel. Min. Eros Grau, Tribunal Pleno).
+    Esse mesmo entendimento vem sendo aplicado em relação aos juros moratórios. Especificamente quanto àqueles previstos na Lei 13.918/2009 do Estado de São Paulo, menciono o ARE 1.064.734/SP, Rel. Min. Dias Toffoli e o ARE 1.064.156/SP, Rel. Min. Edson Fachin.
+    Isso posto, nego seguimento ao recurso (art. 21, § 2°, do RISTF).
+    Publique-se.
+    Brasília, 16 de maio de 2018.
+Ministro Ricardo Lewandowski
+Relator
