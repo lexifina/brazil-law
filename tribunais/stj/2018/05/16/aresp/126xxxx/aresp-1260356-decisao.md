@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+EMENTA: Locação. Obrigação de fazer cumulada com indenização. Sentença de improcedência. Partes que firmaram "instrumento de rescisão do contrato de locação e outras avenças , com estipulação de recebimento, pela locatária, de uma unidade comercial a ser construída no imóvel objeto da locação. Alegação de que não foi respeitado seu direito de escolha de unidade. Rés que ofertam, antes do ajuizamento da demanda, unidade no prédio e não aceita pela autora. Cláusula contratual que não se refere a dever das rés, mas mera faculdade da locatária de exercer a escolha. Recusa da autora que não se mostra justificada. Venda do imóvel para construtora e incorporadora e que se responsabilizou pela edificação de prédio comercial, pagando parte do preço com unidades futuras. Oferta de unidade com as características indicadas e dentre aquelas recebidas pelas sucessoras dos vendedores primitivos.
+Inadimplemento contratual das rés não configurado.
+Honorários advocatícios fixados de acordo com os parâmetros das alíneas do artigo 20, § 3", do CPC173.
+Majoração. Inadmissibilidade. Recursos desprovidos.
+Não se vislumbra no caso o alegado inadimplemento contratual pelas rés, não havendo que se falar em exercício do direito amplo da autora de escolher unidade de sua preferência, quando se observa que os termos em que foi redigida a cláusula contratual, não permitem tal interpretação, razão pela qual a ação foi corretamente julgada improcedente. Não foram as rés ou seus pais que edificaram o prédio, mas empresa para a qual venderam o imóvel e parte do preço foi pago com futuras unidades localizadas no 11º, 12º e 14º andares, sendo certo que, pelas características do negócio, houve oferta daquela do 12º andar. As rés só poderiam dar aquilo que possuem e não outra unidade e que não está na esfera de seus domínios.
+Os honorários advocatícios fixados pela sentença em R$ 4.000,00 para cada um dos profissionais não comportam majoração, mostrando-se razoáveis, pois atendem: aos parâmetros das alíneas do artigo 20, § 3", do CPC173, sendo condizente com o trabalho desenvolvido e o tempo despendido, a natureza da causa, quantia que remunera o advogado com dignidade e razoabilidade.
+Não foram opostos embargos de declaração.
+Nas razões de recurso especial, alega a agravante, em suma, a existência de divergência jurisprudencial e a violação ao artigo 20, § 3º, do Código de Processo Civil de 1973.
+Sustenta a necessidade de majoração do valor da condenação em honorários advocatícios, estabelecido na origem em R$ 4.000,00 (quatro mil reais) para cada um dos profissionais, aduzindo que o montante representa menos de 1% do valor da causa, este atribuído em R$ 415.600,00 (quatrocentos e quinze mil reais).
+Não foram apresentadas contrarrazões.
+O recurso não foi admitido na origem, nos termos da decisão de fl. 449, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Não assiste razão à agravante.
+Foi consignado pelo acórdão local, conforme registrado à fl. 421 (e-STJ), que o arbitramento considerou as peculiaridades do caso concreto, verbis:
+Finalmente, quanto à verba honorária arbitrada, não comporta elevação, na medida em que não se verifica na hipótese grau de complexidade da demanda, nem trabalho tal, como comparecimento em audiência, deslocamento dos advogados, que permitam a conclusão de que referida verba deva ser majorada.
+Ademais, em caso de improcedência da demanda, na qual não se verifica condenação, estabelece o § 4 0, do artigo 20, que serão fixados os honorários consoante apreciação equitativa do juiz. Assim, bem se vê que a quantia arbitrada na r. sentença remunera com dignidade e razoabilidade o profissional, observando, ainda, os parâmetros contidos nas alíneas do artigo 20, § 3 1, do CPC/73, vigente à época.
+Verifica-se, portanto, que houve observância dos critérios da equidade, atendendo aos requisitos do art. 20, § 4º, do Código de Processo Civil anterior.
+Ao mais, é consabido que a esta Corte Superior não é dado analisar a questão apresentada, porquanto demanda inquestionável incursão no conteúdo fático da lide, medida que encontra veto no verbete 7, de sua Súmula. Sobre a matéria específica, os seguintes julgados:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. DECADÊNCIA RECONHECIDA. HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA. VIOLAÇÃO AO ART. 20 DO CPC. SÚMULA Nº 07/STJ.
+(..)
+II - O Tribunal de origem, ainda que sucintamente, se manifestou acerca da fixação dos honorários advocatícios, razão pela qual não pode ser tachado de omisso. Inexiste, portanto, qualquer violação ao art. 535 do CPC.
+III - O Tribunal de origem fixou o valor dos honorários pautando-se por critérios de eqüidade e, como sabido, tal fixação implica a verificação dos seguintes requisitos: grau de zelo do profissional, lugar da prestação do serviço, natureza e importância da causa, bem como o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Nesse diapasão, não há como apreciar tal questão sem esbarrar no óbice insculpido no enunciado nº 7 da Súmula do Superior Tribunal de Justiça, uma vez que, em se tratando de percentual fixado para a verba honorária, sua análise torna-se inadmissível na via estreita do recurso especial, pois tal fixação depende do exame de circunstâncias fáticas, ficando, portanto, a apreciação reservada às instâncias ordinárias.
+Ademais, tratando-se de fixação de honorários advocatícios contra a Fazenda Pública, de acordo com o primado do art. 20, § 4º, do CPC, está o julgador livre para determinar o valor dos honorários sem se ater aos limites impostos no art. 20, § 3º do mesmo diploma, inclusive quanto à base condenatória, ou seja, de acordo com o valor da condenação, da causa ou valor fixo estabelecido pelo julgador. Precedentes: EREsp nº 653.087/SC, Relator Ministro TEORI ALBINO ZAVASCKI, DJ de 19/09/2005; REsp nº 653.587/RS, Relator Ministro HAMILTON CARVALHIDO, DJ de 13/12/200 e AgRg no AG nº 569.168/SP, Relator Ministro LUIZ FUX, DJ de 28/06/2004.
+IV - Agravo regimental improvido.
+(Primeira Turma, AgRg no REsp 1.028.852/DF, Rel. Ministro FRANCISCO FALCÃO, unânime, DJe de 12.5.2008)
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA RECURSO PREJUDICADO. HONORÁRIOS DE ADVOGADO. FIXAÇÃO. VALOR RAZOÁVEL. ART. 20, §§ 3º E 4º, DO CÓDIGO DE PROCESSO CIVIL.
+1. Julgada procedente a ação e ratificada a antecipação de tutela, resta prejudicado o recurso especial que discute a legalidade de sua concessão.
+2. Descabe ao Superior Tribunal de Justiça revisar os critérios levados em consideração pelo julgador ordinário para arbitramento do quantum devido a título de honorários advocatícios, em face do óbice do enunciado da Súmula n. 7 do STJ.
+3. Os honorários advocatícios, conforme as hipóteses relacionadas no § 4º do art. 20 do CPC, podem ser arbitrados segundo apreciação eqüitativa do Juiz, sem as limitações constantes do § 3º, caput, do mesmo dispositivo legal.
+4. Recurso especial interposto pelo INSS prejudicado. Recurso especial interposto por [NOME] Riograndense S/A e outros não-conhecido.
+(Segunda Turma, REsp 419.112/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, unânime, DJU de 3.8.2006)
+PROCESSO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. DEPÓSITOS JUDICIAIS. JUROS. PRESCRIÇÃO. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA PELA CORREÇÃO. SÚMULA N. 179/STJ. HONORÁRIOS. REVISÃO. SÚMULA N. 07/STJ.
+1. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356/STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+2. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+3. Não há prescrição do direito à restituição atualizada de depósito judicial, incluindo-se os juros e os expurgos inflacionários, se o contrato permanece em vigor até o levantamento da importância.
+4. Realizado o depósito judicial, a correção monetária e os juros são de responsabilidade da instituição financeira onde o depósito foi efetuado. Entendimento consolidado pela Súmula n. 179/STJ.
+5. A análise da questão relativa à fixação de honorários advocatícios por juízo de equidade, salvo se excessivos ou ínfimos, não pode ser revista na instância especial, pois envolve reexame de circunstâncias fáticas que delimitam a adoção dos critérios previstos nos §§ 3º e 4º do art. 20 do CPC. Incidência da Súmula n. 7/STJ.
+6. Agravo regimental provido para conhecer parcialmente do recurso especial e negar-lhe provimento.
+(Quarta Turma, AgRg no Ag 1.304.256/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, unânime, DJe de 30.6.2011)
+Ao mais, necessário consignar que, com referência aos honorários advocatícios, a conceituação de quantia irrisória ou excessiva não decorre de simples cálculo aritmético, tendo por base o valor da causa.
+Não verificado o caráter irrisório da verba estabelecida na origem, a intervenção desta Corte Superior, quanto ao ponto, não se justifica.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
