@@ -1,0 +1,17 @@
+Petição/STF nº 24.233/2018
+DECISÃO
+PROCESSO OBJETIVO – INTERVENÇÃO DE TERCEIRO – INADMISSIBILIDADE.
+    1. O Gabinete prestou as seguintes informações:
+    O Pleno do Tribunal de Justiça do Estado de Roraima, no julgamento da ação direta de inconstitucionalidade nº 0000.11.000929-7, declarou inconstitucional o artigo 35 da Lei Complementar estadual nº 142/2008, com as alterações introduzidas pela de nº 175/2011, mediante o qual se determinou, sem a realização de concurso público, a ascensão funcional de ocupantes do cargo de Oficial de Justiça (código TJ/NM-1), cujo requisito para investidura era a conclusão do ensino médio, ao de Oficial de Justiça (código TJ/NS-1), a exigir formação em curso superior. Segundo assentou, o dispositivo implicou ofensa ao artigo 20 da Carta estadual, bem como ao 37, inciso II, da Constituição Federal, no que, ao extinguir uma carreira, permitiu aos ocupantes o acesso a outra de nível de escolaridade diverso e remuneração maior, sem a prévia aprovação em processo seletivo. Evocou o verbete nº 685 da Súmula do Supremo.
+    O Tribunal, em 13 de dezembro de 2013, assentou configurada a repercussão geral da questão relativa à constitucionalidade de lei que, ao aumentar a exigência de escolaridade em cargo público, para o exercício das mesmas funções, determina a gradual transformação de cargos de nível médio em cargos de nível superior e assegura isonomia remuneratória aos ocupantes daqueles em extinção, sem a realização de concurso público.
+    Por meio da petição/STF nº 24.233/2018, subscrita por profissional da advocacia regularmente habilitado, o Sindicato dos Oficiais de Justiça do Acre – SINDOJUS/Acre requer o ingresso no processo como terceiro interessado. Destaca a importância jurídica da matéria. Alega ostentar representatividade a justificar a intervenção, asseverando que a discussão poderá interferir diretamente na carreira dos substituídos. Conforme esclarece, também houve, no âmbito daquele Estado, aproveitamento de servidor público ocupante de cargo de Oficial de Justiça, cujo requisito para investidura era a formação no ensino médio, em outro, relativamente ao qual se passou a exigir curso superior. Pretende apresentar memoriais e realizar sustentação oral. Junta procuração e atos constitutivos.
+    O Sindicato dos Oficiais de Justiça do Estado de Roraima – SINDOJERR foi admitido na origem como terceiro interessado, ante o disposto no artigo 7º, § 2º, da Lei nº 9.868/1999.
+    Vossa Excelência indeferiu o pedido de ingresso do Sindicato Nacional dos Auditores Fiscais da Receita Federal do Brasil – SINDIFISCO Nacional. Em 14 de março de 2017, liberou o processo para julgamento. Houve a inclusão na pauta temática nº P.10, envolvendo assuntos relacionados a concurso público. Ainda não há data designada para o exame do extraordinário.
+    O processo é físico e está concluso.
+    2. Observem a organicidade e a dinâmica do Direito. A participação de terceiro surge no campo da excepcionalidade.
+    A representatividade do Sindicato dos Oficiais de Justiça do Acre – SINDOJUS/Acre não respalda, por si só, a pretensão. Inexiste motivação suficiente a gerar a necessidade de ouvi-lo. A adoção de óptica contrária implicaria caminho aberto para todo e qualquer sindicato que congrega servidores públicos vir a integrar a relação processual, muito embora como terceiro interessado.
+    3. Indefiro o pleito formulado. Devolvam as peças apresentadas ao requerente.
+    4. Publiquem.
+Brasília, 16 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
