@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], fundado nas alíneas "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, cuja ementa é a seguinte (e-STJ fl. 609):
+PENAL. ART. 56 DA LEI 9.605/98. IMPORTAÇÃO IRREGULAR DE AGROTÓXICOS. VIOLAÇÃO DA AMPLA DEFESA. INTERROGATÓRIO REALIZADO POR VIDEOCONFERÊNCIA. INOCORRÊNCIA. DEVIDO ACOMPANHAMENTO DO FEITO POR DEFENSORA. AUSÊNCIA DE PREJUÍZO PARA A DEFESA. CONDENAÇÃO PELO CRIME DO ART. 15 DA LEI 7.802/89. IMPOSSIBILIDADE. CONDUTA CONSUMIDA PELA IMPORTAÇÃO DO AGROTÓXICO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CRIME FORMAL. DESRESPEITO ÀS NORMAS REGULAMENTADORAS QUE DISCIPLINAM O MANUSEIO DA SUBSTÂNCIA. PENA DE MULTA. REDUÇÃO. PROPORCIONALIDADE.
+1. Não se pode presumir violação da ampla defesa na realização do interrogatório por videoconferência, quando o ato é acompanhado por defensora, ainda que somente o réu se encontre em comarca diversa da qual foi realizada a audiência. Necessidade de demonstração do prejuízo.
+2. O crime do art. 15 da lei 7.802/89 é consumido pelo do art. 56 da Lei 9.650/98, pois constitui pós-fato impunível. Precedentes.
+3. O potencial danoso da conduta de importar agrotóxico não diz respeito somente à composição química do produto. A norma busca, também, garantir a observação de exigências outras quanto à substância nociva, como condições de armazenamento e rotulagem, de forma a reduzir os riscos de seu manuseio, entre outros.
+4. A fixação da pena de multa obedece ao sistema bifásico, devendo guardar proporcionalidade com a sanção corporal imposta.
+5. O valor de cada dia-multa deve levar em conta a situação econômica do condenado, podendo ser aumentada até o triplo, caso o máximo previsto se mostre ineficaz, em razão da condição econômica do réu. Inteligência dos arts. 49, § Io e 60, § Io, ambos do Código Penal.
+6. Apelação do réu parcialmente provida. Apelação do Ministério Público Federal desprovida.
+O recorrente alega que o Tribunal de origem violou o art. 185, §2º, do CPP, bem como o art. 56 da Lei n. 9.605/1998 (e-STJ fls. 617/635).
+Sustenta, em síntese: (i) a nulidade do interrogatório realizado por videoconferência durante a instrução criminal, sob o argumento de que não se fazia presente qualquer causa capaz de autorizar essa medida de exceção; (ii) a atipicidade do fato denunciado nestes autos por incidência do princípio da insignificância.
+As contrarrazões foram apresentadas (e-STJ fls. 642/660).
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial ou, caso conhecido, por seu desprovimento (e-STJ fls. 682/686).
+É o relatório. Decido.
+Por se tratar de matéria de ordem pública, a prescrição penal deve ser analisada a qualquer tempo e grau de jurisdição, podendo ser declarada de ofício ou a requerimento das partes, mesmo após o trânsito em julgado da sentença condenatória, nos termos do art. 61 do Código de Processo Penal, o que impõe a análise da possível extinção da punibilidade.
+Extrai-se dos autos que o réu foi condenado pela prática do crime previsto no art. 56 da Lei n. 9.605/1998, tendo-lhe sido cominada, no 1º grau de jurisdição, pena privativa de liberdade de 1 (um) ano de reclusão (e-STJ fls. 486/495), situação mantida pelo Tribunal a quo no acórdão impugnado (e-STJ fls. 602/610).
+Não há recurso da acusação contra o acórdão recorrido, com objetivo de elevar o apenamento do fato delitivo imputado ao recorrente. Destarte, incide ao caso concreto a norma do art. 110, § 1º, primeira parte, do CP, segundo a qual a prescrição, depois de transitado o decreto condenatório para a acusação, regula-se pela pena aplicada.
+Firmadas essas premissas, conclui-se que para a hipótese sob exame aplica-se o prazo prescricional previsto no art. 109, V, do CP, in verbis:
+Art. 109. A prescrição, antes de transitar em julgado a sentença final, salvo o disposto no § 1o do art. 110 deste Código, regula-se pelo máximo da pena privativa de liberdade cominada ao crime, verificando-se:
+ ..
+V - em quatro anos, se o máximo da pena é igual a um ano ou, sendo superior, não excede a dois;
+Assim, tem-se implementada a prescrição penal, pois, de fato, desde a publicação da sentença penal condenatória em cartório - último marco interruptivo visível nos autos -, no dia 7/2/2014 (e-STJ fl. 496), até o presente momento transcorreu lapso temporal maior que 4 (quatro) anos, sem a intercorrência de qualquer outro marco interruptivo no período.
+Ante o exposto, com fundamento nos artigos 107, IV, 109, V, e 110, § 1º, primeira parte, todos do CP, declaro extinta a punibilidade de [NOME] em relação ao crime ambiental cuja prática lhe foi imputada nestes autos e, assim, amparado no o art. 932, I e III, do CPC, c/c o art. 255, § 4º, I, do RISTJ, não conheço do recurso especial, porquanto prejudicado.
+Publique-se. Intimem-se.
