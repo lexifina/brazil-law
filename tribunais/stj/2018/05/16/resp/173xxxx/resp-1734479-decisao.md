@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL E ADMNISTRATIVO. RECURSO ESPECIAL. LICITAÇÕES. ENUNCIADO ADMINISTRATIVO 2/STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. SÚMULA 284/STF. REEXAME DE MATÉRIA FÁTICO PROBATÓRIA E INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SÚMULA 5 E 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial da R & A ARQUITETURA E DESIGN S/C LTDA fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado de São paulo, assim ementado:
+INDENIZAÇÃO. Prejuízos causados ao erário público. Contrato celebrado entre as partes, decorrente de certame licitatório, que teve por objeto a execução de projeto para reforma do andar térreo de hospital público municipal. Descumprimento das exigências contidas no edital regedor da licitação. Entrega incompleta do objeto contratado. Procedência do pedido mantida. Recursos não providos.
+Nas razões do recurso especial, a recorrente aduz que cumpriu o estipulado no contrato e que, embora executado o objeto a maior do que o requerido, não pode ser considerado diverso do licitado.
+Não foram apresentadas contrarrazões.
+Sobreveio juízo positivo de admissibilidade.
+É o relatório. Passo a decidir.
+Inicialmente, é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+A insurgência não merece prosperar.
+O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. No caso em análise, o recurso especial não apontou o artigo de lei federal porventura ofendido pelo Acórdão do Tribunal de origem. A recorrente apenas apresentou genericamente artigo de lei como parte de sua fundamentação, o que não se mostra suficiente para ficar caracterizada a particularização do dispositivo de lei, como exigido para o conhecimento do apelo raro.
+Assim, incide na espécie, por analogia, o enunciado n. 284, da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, o acolhimento da pretensão da recorrente, no sentido de acolher eventual cumprimento do contrato administrativo de acordo com o estipulado, ensejaria, inevitavelmente, interpretação de cláusula contratual e revisão do acervo fático-probatório, o que é vedado pelas Súmulas 5 e 7/STJ.
+Nesse sentido decidiu esta Corte em caso semelhante:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. EXECUÇÃO DE OBRAS. RECURSO DA CONE CONSTRUÇÕES E ENGENHARIA LTDA. VIOLAÇÃO DO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SUMULA 284/STF. OFENSA AOS ARTS. 146, 436 E 560 DO CPC E 884 E 886 DO CC/2002. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REVISÃO DO JULGADO. SÚMULAS 5 E 7 DO STJ. RECURSO DA EMPRESA MUNICIPAL DE URBANIZAÇÃO. AFRONTA AOS ARTS. 60 E 61 DA LEI 8.666/1993 E 3º DO CPC. DISPOSITIVOS NÃO PREQUESTIONADOS. SÚMULA 211/STF. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+1. Não se conhece de Recurso Especial em relação à ofensa ao art. 535 do CPC quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+2. O Tribunal a quo não emitiu juízo de valor sobre os arts. 146, 436 e 560 do CPC; e 884 e 886 do Código Civil/2002. O STJ entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por afrontados não foram apreciados pela Corte de origem, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. Ademais, as questões suscitadas pela agravante Cone Construções partem de argumentos de natureza eminentemente fática e da análise de cláusulas contratuais, o que é vedado em Recurso Especial, por óbice das Súmulas 5 e 7 do STJ.
+(..)
+6. Agravos Regimentais da Cone Construções e Engenharia Ltda. e da Empresa Municipal de Urbanização Rio Urbe não providos
+(AgRg no AREsp 420.756/RJ, 2T, Rel. Min. HERMAN BENJAMIN, DJe 6.3.2014).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Demais, especificamente quanto aos honorários recursais, deve ser considerado o disposto no art. 85, § 11, do CPC/2015, e no Enunciado Administrativo n. 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC").
+Levando-se em conta que o tempo de tramitação do recurso, contado apenas entre a sua interposição na origem e a data da prolação deste decisão monocrática, não é demasiadamente longo e que não houve a necessidade de atuação do recorrido em comarca diversa da qual atua, bem como, por fim, tomando por premissa que a demanda recursal aparenta grau de complexidade ínfimo, condeno o recorrente a efetuar o pagamento de honorários recursais correspondente a 10% (dez por cento) do que já foi fixado na Sentença a título de honorários advocatícios.
+Publique-se. Intimem-se.
