@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo [NOME] DA [NOME] CHAVES, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 59/60, in verbis:
+Trata-se de recurso especial interposto por [NOME], com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal, contra o v. acórdão proferido pelo Tribunal de Justiça do Estado de Tocantins, que deu provimento ao agravo em execução do Ministério Público e estabeleceu como data-base, para concessão de benefícios previstos na Lei de Execução Penal, a data do trânsito em julgado da última sentença penal condenatória.
+2. Dessa decisão, foi interposto o presente Recurso Especial, no qual sustenta, em síntese, violação ao art. 111 da Lei de Execução Penal, eis que "a alteração proposta pelo Ministério Público e acolhida pelo acórdão do TJTO, despreza, todo o período de cumprimento de pena do Recorrente entre a prisão cautelar e o trânsito em julgado da sentença" (fl. 31); além disso, ressalta que a reforma do decisum proferido no juízo originário "(..) distorce a jurisprudência dos Tribunais Superiores, pois ao unificar as penas, deve o juiz proceder à contagem a partir do somatório das penas que restam a ser cumpridas e não desprezar a pena cumprida como no presente caso" (fl. 31).
+3. Requer que o recurso seja conhecido e provido, "para reformar, integralmente, o acórdão vergastado, para cassar o acórdão e restabeleça a decisão primeva" (fl. 37).
+4. Decisão de admissibilidade às fls. 47/51.
+Ao final, o Parquet opinou pelo provimento do recurso especial (e-STJ fl. 62).
+É o relatório.
+Decido.
+Assiste razão ao recorrente.
+Isso porque a Terceira Seção desta Corte Superior de Justiça, recentemente, ao julgar o Habeas Corpus n. 381.248/MG (Relator para acórdão o Ministro Sebastião Reis Junior), pacificou o entendimento de que "inexiste respaldo legal para a alteração da data-base a fim da concessão de futuros benefícios na execução em razão da unificação das penas", acarretando "evidente excesso de execução a desconsideração do tempo de prisão antes do trânsito em julgado da nova condenação".
+Trago à colação a ementa do precitado julgado:
+HABEAS CORPUS SUBMETIDO À TERCEIRA SEÇÃO. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE NOVA SENTENÇA CONDENATÓRIA. TERMO INICIAL PARA CONCESSÃO DE FUTUROS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito à regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal. Em vez de haver o cumprimento progressivo de cada pena individualmente, há a soma do total de penas a serem cumpridas para que o apenado as cumpra de forma conjunta.
+2. Inexiste respaldo legal para a alteração da data-base a fim da concessão de futuros benefícios na execução em razão da unificação das penas.
+3. A execução da pena não se inicia apenas com a superveniência do título judicial exequível. Já se admite a execução provisória nas hipóteses de existência de prisão cautelar e, atualmente, quando há a confirmação da condenação pelo Tribunal de Justiça/Tribunal Regional e não há prisão preventiva.
+4. Acarreta evidente excesso de execução a desconsideração do tempo de prisão antes do trânsito em julgado da nova condenação.
+5. Ordem concedida, de ofício, para cassar o acórdão proferido no agravo em execução penal e restabelecer a decisão do Juízo da execução, proferida em 4/3/2016. (HC 381.248/MG, Terceira Seção, Rel. Ministra Maria Thereza de Assis Moura, Relator p/ acórdão Ministro Sebastião Reis Junior, DJe 2/4/2018, grifei.)
+Ante o exposto, tendo em vista que o entendimento consignado pelo Tribunal de origem destoa da orientação firmada neste Tribunal Superior, dou provimento ao recurso especial para restabelecer a decisão de primeira instância.
+Publique-se. Intimem-se.
