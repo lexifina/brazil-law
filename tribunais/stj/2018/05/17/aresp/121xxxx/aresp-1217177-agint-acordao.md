@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. ALEGADA LEGITIMIDADE PARA RETER OS ACESSÓRIOS DE CRÉDITO DO VALOR CEDIDO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO E DE INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Verifica-se que em relação a suposta violação ao art. 1.022, II, do CPC/2015, não se vislumbra nenhum dos vícios elencados nos referidos dispositivos a ensejar anulação do julgado. O acórdão impugnado guardou observância ao princípio da motivação obrigatória das decisões judiciais, por ter analisado suficientemente a controvérsia dos autos de forma motivada e fundamentada.
+2. Quanto a questão fundo, a Corte de origem asseverou que nas doze primeiras cessões de crédito não há ressalva alguma de que a recorrente manteria, para si, os valores referentes à correção monetária e aos juros sobre os valores cedidos. Portanto, a reforma do acórdão demanda o revolvimento do conjunto fático e probatório constantes dos autos e a interpretação de cláusula contratual, a atrair a incidência das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto por [NOME], contra a decisão de fls. 1.288/1.292 (e-STJ), onde conheci do agravo para negar provimento ao recurso especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÕES. ALEGADA LEGITIMIDADE PARA RETER OS ACESSÓRIOS DE CRÉDITO DO VALOR CEDIDO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO E DE INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS 5 E 7/STJ. NÃO DEMONSTRAÇÃO DOS REQUISITOS PARA CONHECIMENTO DO DISSÍDIO JURISPRUDENCIAL. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões de agravo interno, a agravante sustenta a inaplicabilidade da Súmula 7/STJ, porquanto, não pretende o revolvimento do conjunto probatório, mas sim "o reenquadramento jurídico do fato jurígeno colocado pelo acórdão recorrido".
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. ALEGADA LEGITIMIDADE PARA RETER OS ACESSÓRIOS DE CRÉDITO DO VALOR CEDIDO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO E DE INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Verifica-se que em relação a suposta violação ao art. 1.022, II, do CPC/2015, não se vislumbra nenhum dos vícios elencados nos referidos dispositivos a ensejar anulação do julgado. O acórdão impugnado guardou observância ao princípio da motivação obrigatória das decisões judiciais, por ter analisado suficientemente a controvérsia dos autos de forma motivada e fundamentada.
+2. Quanto a questão fundo, a Corte de origem asseverou que nas doze primeiras cessões de crédito não há ressalva alguma de que a recorrente manteria, para si, os valores referentes à correção monetária e aos juros sobre os valores cedidos. Portanto, a reforma do acórdão demanda o revolvimento do conjunto fático e probatório constantes dos autos e a interpretação de cláusula contratual, a atrair a incidência das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Contudo, o agravo interno não merece ser provido.
+Verifica-se que em relação a suposta violação ao art. 1.022, II, do CPC/2015, não se vislumbra nenhum dos vícios elencados nos referidos dispositivos a ensejar anulação do julgado. O acórdão impugnado guardou observância ao princípio da motivação obrigatória das decisões judiciais, por ter analisado suficientemente a controvérsia dos autos de forma motivada e fundamentada.
+Outrossim, sustenta a parte recorrente violação dos arts. 112, 114, 421 e 422 do Código Civil, ao fundamento de que o Tribunal de origem, ao assentar que a recorrente não ressalvou para si os valores referentes à correção monetária e aos juros sobre os valores cedidos, desconsiderou a real intenção dos contratantes, o equilíbrio contratual e a boa fé objetiva, além de ampliar um benefício.
+Sobre o tema, a Corte de origem asseverou que nas doze primeiras cessões de crédito não há ressalva alguma de que a recorrente manteria, para si, os valores referentes à correção monetária e aos juros sobre os valores cedidos (e-STJ fl. 996):
+O voto condutor do acórdão foi claro ao consignar que o valor atualizado das 78 (setenta e oito) cessões de crédito realizadas pela credora originária [NOME] supera o montante bruto atualizado do crédito inscrito no presente precatório, razão pela qual o pagamento a ser realizado pelo Juízo Especialda Coordenação de Precatórios estaria limitado tão somente às doze primeiras cessão de crédito notificadas ao Distrito Federal, destacando o fato de que nestas doze primeiras cessões de crédito não consta qualquer ressalva de que a cedente reservaria para si os acessórios do crédito.
+Com efeito, haja vista o excerto do acórdão acima transcrito, torna-se irrefragável a conclusão de que a reforma do acórdão demanda o revolvimento do conjunto fático e probatório constantes dos autos e a interpretação de cláusula contratual para aferir se havia ressalva no contrato de que a recorrente reteria, para si, os acessórios de crédito, o que é inviável a teor da Súm. 7/STJ e da Súm. 5/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
