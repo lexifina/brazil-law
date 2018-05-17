@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL — AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado do Rio Grande do Norte concedeu a segurança para tornar sem efeito a decisão proferida em processo administrativo e anular a portaria de exoneração de servidora pública estadual. No extraordinário cujo trânsito busca alcançar, o recorrente alega violado o artigo 102, § 2º, da Constituição Federal. Afirma não ser necessária a instauração de procedimento administrativo porquanto a exoneração decorreu do cumprimento do estabelecido quando do julgamento da ação direta de inconstitucionalidade nº 2.433.
+    2. O acórdão impugnado está em harmonia com o decidido pelo Supremo, sob a sistemática da repercussão geral, no julgamento do recurso extraordinário 594.296, relatado pelo ministro Dias Toffoli no Pleno, acórdão publicado no Diário da Justiça de 13 de fevereiro de 2012:
+    RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA.
+    1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.
+    2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa.
+    3. Recurso extraordinário a que se nega provimento.
+    Colho da decisão recorrida o seguinte trecho:
+    Consoante já declinado na referida decisão, das cópias do Processo Administrativo n° 02669/2015, que culminou com a expedição da Portaria n° 072/2015/TJ, de 21 de janeiro de 2016, por meio da qual a impetrante foi exonerada do cargo de Técnico Judiciário do Quadro Permanente de Pessoal do TJRN (fl. 188), é irrefutável a inobservância do contraditório, da ampla defesa e do devido processo legal (art. 5°, LIV e LV, da CF/88), notadamente no que diz pertinência a ensejar eventual produção probatória, apresentação de alegações finais e possibilidade de interposição de recursos no âmbito do processo administrativo.
+    Ora, a própria autoridade coatora, ao prestar as suas informações assinalou que não eram necessárias a produção probatória (eis que a matéria discutida é eminentemente de direito) e a abertura de prazo para as alegações finais (já que não houve instrução processual). Também nada declinou acerca da comunicação de sua decisão à impetrante, a lhe franquear oportunidade para a interposição de recursos.
+    Dessarte, embora não se olvide que não se trata de processo administrativo tendente a aplicar sanção, percebe-se, sem dificuldades, que não foram consideradas as disposições contidas no art. 5°, LV, da CF' (que se aplicam a todos os processos administrativos, inclusive, aqueles que não possuem natureza sancionatória), bem como na Lei Complementar Estadual n° 303, de 9 de setembro de 2005, que trata do processo administrativo no âmbito da Administração Pública Estadual.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 17 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
