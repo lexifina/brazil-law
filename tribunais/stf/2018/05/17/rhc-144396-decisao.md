@@ -1,0 +1,33 @@
+Decisão
+    Trata-se de Recurso Ordinário em Habeas Corpus interposto contra acórdão da Sexta Turma do Superior Tribunal de Justiça, proferido nos autos do AgRg no HC 378.638/SC.
+    Consta dos autos, em síntese, que o recorrente cumpre pena de reclusão em regime semiaberto, no Presídio Regional de Criciúma. Por entender que o estabelecimento prisional é adequado aos condenados em cumprimento de pena em regime intermediário, o juízo de origem indeferiu pedido de progressão para o regime aberto ou concessão de prisão domiciliar.
+    Inconformada, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de Santa Catarina, que denegou a ordem.
+    Contra essa decisão, manejou-se outro habeas corpus, desta vez dirigido ao Superior Tribunal de Justiça, cujo pedido foi indeferido pelo Ministro Relator, em decisão confirmada pelo colegiado no julgamento do Agravo Regimental. Eis a ementa do julgado:
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INEXISTÊNCIA DE VAGA EM ESTABELECIMENTO ADEQUADO. APENADO QUE ESTÁ CUMPRINDO PENA EM LOCAL QUE LHE ASSEGURA OS BENEFÍCIOS DO REGIME INTERMEDIÁRIO DE CUMPRIMENTO DE PENA. INEXISTÊNCIA. VIOLAÇÃO À SÚMULA VINCULANTE N. 56/STF.
+    1. Firmou-se no Superior Tribunal de Justiça o entendimento de que a inexistência de vaga em estabelecimento prisional compatível com o regime determinado no título condenatório ou decorrente de progressão de regime permite ao condenado o cumprimento da reprimenda no modo menos gravoso. Ante a deficiência do Estado em viabilizar a implementação da devida política carcerária, deve-se conceder ao paciente, em caráter excepcional, o cumprimento da pena em regime imediatamente menos gravoso ou, na falta de casa de albergado ou similar, em prisão domiciliar, até o surgimento da vaga em estabelecimento adequado.
+    2. A Corte Excelsa editou a Súmula Vinculante n. 56, verbis: "A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar nessa hipótese os parâmetros fixados no RE 641.320."
+    3. No caso, contudo, o Tribunal de origem assentou que, "Consoante informações do magistrado a quo, o paciente resgata sua pena em estabelecimento similar à colônia agrícola/industrial (Presídio Regional de Santa Augusta), sendo-lhe assegurados os direitos inerentes ao regime prisional semiaberto. Assim, no presente caso, apenas a permanência do acusado em Presídio não permite concluir que ele encontra-se em regime mais rigoroso que o devido a configurar constrangimento ilegal." Assim, à vista das peculiaridades do caso, não se pode afirmar que o paciente/agravante cumpre pena no regime mais gravoso, o que, por certo, não autorizaria afirmar que há violação à Súmula Vinculante n. 56 do Supremo Tribunal Federal, de modo a autorizar a concessão da ordem de ofício.
+    4. Agravo regimental a que se nega provimento.
+    Em linhas gerais, o recorrente alega que a ausência de vaga em estabelecimento adequado ao cumprimento de regime semiaberto é causada pela inação do Estado, pois este não garantiu devidamente espaço específico e adequando para cumprimento do requisito legal, o que acarreta necessariamente a aplicação de regime abrandado, pois a impassibilidade estatal não pode ferir iniquamente o direito garantido ao apenado quando da progressão de regime.
+    Requer, assim, o provimento do presente recurso, para que ao réu seja aplicado cumprimento de pena em regime aberto ou domiciliar ou subsidiariamente que aguarde vagas em estabelecimento de regime semiaberto adequado
+    É o relatório. Decido.
+    Sobre a regras do regime prisional semiaberto, o art. 35 do CP dispõe:
+    Art. 35 - [...]
+    § 1º - O condenado fica sujeito a trabalho em comum durante o período diurno, em colônia agrícola, industrial ou estabelecimento similar.
+    § 2º- O trabalho externo é admissível, bem como a freqüência a cursos supletivos profissionalizantes, de instrução de segundo grau ou superior.
+    Nos termos da Súmula Vinculante 56 e do RE 641.320-RG (Rel. Min. GILMAR MENDES, Tribunal Pleno, DJe 1º/8/2016), a falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, sob pena de afronta aos princípios constitucionais da individualização da pena (art. 5º, XLVI) e da legalidade (art. 5º, XXXIX). No julgamento do referido RE 641.320-RG, o Plenário do Supremo Tribunal Federal (STF) assentou os seguintes parâmetros para avaliação da adequação dos estabelecimentos prisionais ao regime semiaberto:
+    [...]
+    3. Os juízes da execução penal poderão avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para qualificação como adequados a tais regimes. São aceitáveis estabelecimentos que não se qualifiquem como “colônia agrícola, industrial” (regime semiaberto) ou “casa de albergado ou estabelecimento adequado” (regime aberto) (art. 33, § 1º, alíneas “b” e “c”). No entanto, não deverá haver alojamento conjunto de presos dos regimes semiaberto e aberto com presos do regime fechado.
+    […]
+    Na espécie, o Tribunal do Estado de Santa Catarina registrou que:
+    […] Consoante informações do magistrado a quo, o paciente resgata sua pena em estabelecimento similar à colônia agrícola/industrial (Presídio Regional de Santa Augusta), sendo-lhe assegurados os direitos inerentes ao regime prisional semiaberto (p. 37-42).
+    Assim, no presente caso, apenas a permanência do acusado em Presídio não permite concluir que ele encontra-se em regime mais rigoroso que o devido a configurar constrangimento ilegal.
+    (grifei.)
+    Não se constata, portanto, manutenção do reeducando em modalidade prisional mais gravosa, ante a ausência de vaga em complexo penal compatível com o regime intermediário. Conforme registrado pelo Tribunal de Justiça de Santa Catarina, são oportunizados aos detentos que cumprem pena no Presídio Regional de Santa Augusta os direitos compatíveis com o regime prisional semiaberto.
+    Ademais, investigar a real situação do recolhimento em questão demandaria análise de fatos e provas concernentes à causa, cuja revisão é incompatível com esta via processual (HC 136.622-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 17/2/2017; HC 135.748, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 13/2/2017; HC 135.956, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 28/11/2016; HC 134.445-AgR, Rel. Min. EDSON FACHIN, Primeira Turma, DJe 27/9/2016).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO ORDINÁRIO EM HABEAS CORPUS.
+    Publique-se.
+    Brasília, 17 de maio de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
