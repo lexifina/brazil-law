@@ -1,0 +1,54 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. ART. 1.022 DO CPC. INEXISTÊNCIA. DANO MORAL. REVISÃO DO VALOR DA INDENIZAÇÃO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015.
+2. Recurso especial cuja pretensão demanda reexame de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno manifestado em face da decisão de fls. 1.160/1.164 e-STJ, que negou provimento ao agravo em recurso especial.
+A recorrente afirma que o valor arbitrado a título de indenização por danos morais é exorbitante, merecendo ser reduzido.
+A parte agravada ofereceu impugnação às fls. 1.176/1.181 e-STJ.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): A decisão recorrida julgou agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÕES CÍVEIS."AÇÃO CONDENATÓRIA DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE ANTECIPAÇÃO DA TUTELA E PEDIDO COMINATÓRIO C/C INDENIZAÇÃO POR DANOS MORAIS".APELAÇÃO DA AUTORA. DANOS MATERIAIS (DETERIORAÇÃO DE BENS E NECESSIDADE DE LOCAÇÃO DE OUTRO IMÓVEL DURANTE O PERÍODO NECESSÁRIO À REPARAÇÃO DO IMÓVEL) E LUCROS CESSANTES (DESVALORIZAÇÃO DO IMÓVEL) - INOVAÇÃO RECURSAL - QUESTÕES NÃO APRESENTADAS NA INICIAL E, TAMPOUCO, ANALISADAS NA SENTENÇA - NÃO CONHECIMENTO. DANOS MORAIS - PEDIDO DE MAJORAÇÃO - DESNECESSIDADE - VALOR FIXADO EM CONSONÂNCIA COM OS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. RECURSO PARCIALMENTE CONHECIDO E, NESTA PARTE, NÃO PROVIDO.APELAÇÃO DA RÉ. DANO MORAL - EM REGRA INEXISTENTE EM DESCUMPRIMENTO CONTRATUAL - SITUAÇÃO EXCEPCIONAL PROVOCADA PELA EMPRESA REQUERIDA QUE EXTRAPOLA OS LIMITES DA NORMALIDADE - MÁ APELAÇÃO CÍVEL nº 1.526.935-9 f. 2 - PRESTAÇÃO DO SERVIÇO E ATRASO DEMASIADO NA RECUPERAÇÃO DAS FALHAS DE EXECUÇÃO DA UNIDADE IMOBILIÁRIA QUE ULTRAPASSAM O MERO DISSABOR - DANO MORAL CONFIGURADO. VALOR - PEDIDO DE REDUÇÃO - MANUTENÇÃO QUE SE IMPÕE - VALOR FIXADO EM OBSERVÂNCIA AOS REQUISITOS LEGAIS. RECURSO CONHECIDO E NÃO PROVIDO.
+A parte agravante sustentou que o acórdão estadual é omisso; a indenização por danos morais é indevida, pois meros dissabores em razão de defeitos apresentados no imóvel não são capazes de abalar a esfera moral da autora; e o valor arbitrado a título de indenização é exorbitante, merecendo ser reduzido.
+Quanto à alegada violação ao art. 1.022, I, II, do Código de Processo Civil, sem razão o recorrente, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Ao examinar o tema controvertido, a Corte de origem assim fundamentou seu entendimento:
+Insurge-se a requerida quanto à sua condenação ao pagamento de danos morais, afirmando que os transtornos não passaram de meros dissabores e que sequer a autora reside no imóvel construído pela ré, onde ocorreram os defeitos.
+Contudo, do que se observa dos autos, é que a autora ao celebrar contrato de compra e venda de imóvel, esperava poder receber e desfrutar do imóvel junto com sua família. Suas expectativas, porém, restaram frustradas em razão da má execução da obra constatada no laudo pericial.
+Cabe salientar que apesar do laudo pericial identificar como moradores apenas os familiares da autora, foi esta quem adquiriu o imóvel e as testemunhas deixam claro que a autora além de residir no imóvel, foi com ela que trataram todas as vezes que se dirigiram ao apartamento.
+O apartamento da autora apresentou inúmeras fissuras e trincas em todo o interior e também exterior, por culpa exclusiva do fornecedor, conforme se denota do laudo pericial (mov. 151.1). Em razão disto foi a apelante condenada a reparar os defeitos decorrentes da má execução da obra. De fato, a inadimplência contratual no caso em apreço causou abalos à autora que extrapolam o tolerável ou o mero dissabor cotidiano.
+(..)
+O atual síndico ouvido em audiência afirmou:
+"Como síndico, sempre quando os moradores têm algum problema nos apartamentos, eles me chamam, para a gente fazer a verificação, ver os problemas lá. A primeira vez que ela me chamou foi quando choveu, teve uma chuva muito forte em Ponta Grossa.
+ ..  Entre outubro e novembro, choveu muito forte e ela chamou, informou o porteiro, que estava vertendo água pela parede dela. Aí o porteiro, por ordem minha, ele sempre tem que chamar o síndico, né  Para que a gente vá junto fazer a verificação no apartamento.
+Quando chegamos lá, realmente, estava vertendo água, assim, pela parede, assim, em grande quantidade assim." (02"55"/03"43"  CD audiência)
+E complementou:
+"Este ano, ela chamou nós duas vezes lá para verificar o apartamento dela que as primeiras pequenas fissuras, já tinham se tornado maiores, né. Aí ela tem recebido visitas lá, né,  .. .
+(4"27"/4"40"  CD audiência)
+Conforme se observa, além das fissuras e trincas, que aumentavam cada vez mais e se espalhavam por todo o apartamento, a autora ainda teve que suportar a infiltração que fazia com que a parede vertesse água em grande quantidade, conforme declarou a testemunha.
+O síndico esclareceu ainda que:
+"Desde que eu entrei lá, eu entro em contato com o engenheiro Paulo, que é o responsável pela manutenção. Direto, sempre estou mandando pra ele informações de fissuras, rachaduras nos apartamentos. É, piso quebrado, coisa assim. Sempre eles estão lá, constantemente eles estão lá, fazendo manutenção lá. Sempre vão em dois ou três lá, desde que eu assumi lá, sempre eles estão indo lá fazer manutenção. Sempre eu mando por email, pra ele, né. Aí ele pega o funcionário, vão lá e arrumam. Sempre estão lá mexendo.
+Juiz: - No apartamento da .., já foi feito alguma  Testemunha: - Que eu saiba, diretamente, não. Por mim, diretamente, assim, não.
+Advogado: [NOME] - Sim, o dela, o dela foi pedido sim.
+Juiz: E não foi feito  Testemunha: Como são muitos lá e tem muitos assim que estão em situação pior do que o dela, a prioridade foi dada para alguns apartamentos que estão na sequência. Eu não sei como isso funciona, a parte da distribuição.
+(16"38/17"30"  CD audiência)
+Assim, apesar de devidamente informada a empresa requerida permaneceu inerte, prolongando o aborrecimento da autora e nada fazendo para minimizar os efeitos decorrentes da sua prestação de serviço defeituosa.
+O vizinho da autora declarou:
+"Na realidade, na casa dela, ela nos convidou um dia em que a gente teve reunião de condomínio, aí ela convidou a gente para estar vendo o apartamento dela.
+Juiz: - Não foi para trabalho  Testemunha: - Não, não. Não foi pra trabalho. Eu sou vizinho dela, no caso.
+Juiz: - Ah, o senhor é vizinho  Testemunha: - Isso.
+Juiz: - O senhor teve algum problema no seu  Testemunha: - Então, eu tive problema com rachadura, só que não .., nem assim, tipo, não chega a .., fissuras pequenas, nada muito .., que..
+Juiz: - Não se compara ao que ela teve  Testemunha: - Isso. Porque realmente, até também a.., no que você entra, assim, a parede esquerda você vê, assim, um reboco bem mal rebocado. Então, você já começa a ver por ali. Questão de mofo também. Lá em, casa deu mofo, mas deu um pouquinho atrás da janela. E, no apartamento dela você já via que tinha um pouco mais, assim. Então, assim .. Em comparação com o meu apartamento o dela foi mais, foi mais .." (3"32"/4"29"  CD Audiência)
+Como, se observa o dano suportado pela autora, ultrapassou o mero aborrecimento, suportando por considerável período (imóvel entregue no final de agosto de 2012 e reparos realizados somente no final do ano de 2015), a existência de fissuras e trincas em todo o apartamento que iam aumentando de tamanho, além de infiltrações e mofo.
+(..)
+No presente caso, verifica-se que a esfera de tranquilidade da consumidora foi atingida, gerando desconforto e angústia em decorrência do defeitos da obra e do tempo em que a requerida permaneceu inerte, da sua manutenção mesmo após realizados pedidos por parte da autora e do síndico, e ainda, pelo fato de que mesmo com o ingresso da demanda, somente após a prolação da sentença é que a autora consegui o conserto dos defeitos de construção apresentados em seu apartamento.
+Desta forma, mais do que apenas simples alegação de dano moral que decorre unicamente da má prestação do serviço, há no presente caso, a efetiva demonstração do dissabor e do desconforto sofrido pela consumidora, assim como também restou demonstrado um comportamento desidioso da empresa ré, que mesmo durante o trâmite processual mantive a postura de negar a responsabilidade pelo evento e não comprovou qualquer tentativa de solução extrajudicial do problema, mas ao contrário, somente procuraram solucionar os problemas da unidade da autora após a prolação de sentença condenatória.
+Com efeito, o Tribunal estadual, com base na prova dos autos, entendeu que os defeitos apresentados na unidade imobiliária da autora ultrapassaram o limite das inconveniências ordinárias às quais estão submetidos os adquirentes de apartamentos novos. Foi a autora, inclusive, forçada a constantemente buscar reparação pelos danos apresentados em ambiente que pode ser caracterizado como insalubre, com rachaduras nas paredes e piso, infiltrações e mofo. Superar esse entendimento é providência que se encontra além da esfera de atuação desta Corte, em face do óbice da Súmula n. 7/STJ.
+Em relação ao valor indenizatório, é pacífico o entendimento nesta Corte de que o valor fixado na instância ordinária submete-se a seu controle apenas na hipótese em que seja irrisório ou exorbitante, distanciando-se, assim, das finalidades legais e da devida prestação jurisdicional frente ao caso concreto (AgRg no REsp 959.712/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 30.11.2009 e AgRg no Ag 939.482/RJ, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, DJe de 20.10.2008, entre outros).
+Na hipótese, o valor indenizatório, fixado em R$ 15.000,00 (quinze mil reais), mostra-se dentro dos padrões da razoabilidade e proporcionalidade, ponderando conforme as circunstâncias fáticas da causa.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
