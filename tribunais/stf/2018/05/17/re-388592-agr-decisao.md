@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO INTERNO – JUÍZO DE RECONSIDERAÇÃO.
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMA LOCAL – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. À folha 2012, proferi a seguinte decisão:
+RECURSO EXTRAORDINÁRIO – APRECIAÇÃO – PREMISSAS – NEGATIVA DE SEGUIMENTO.
+    1. A apreciação de todo e qualquer recurso de natureza extraordinária faz-se consideradas as premissas do acórdão proferido. Pois bem, no caso, a Corte de origem ressaltou a existência de fonte de custeio decorrente de descontos mensais que incidiam sobre os vencimentos do servidor. Sob o ângulo da inconstitucionalidade da Lei Complementar nº 69/90, consignou, além dos limites da declaração, que o próprio Estado reconheceu a aplicabilidade aos ocupantes de alguns cargos, verificando-se a adequação da espécie. Em síntese, levou em conta o fato de a inconstitucionalidade assentada não haver alcançado certo preceito definidor da limitação do benefício, ou seja, da pensão especial. Em discussão, segundo os parâmetros do acórdão impugnado mediante o extraordinário que foi trancado na origem, ter-se-ia a busca do reconhecimento de simples diferenças, não estando em jogo a pensão especial. A apelação do Estado foi desprovida.
+    2. Ante o quadro, registrando a ocorrência da entrega da prestação jurisdicional devidamente aperfeiçoada, nego seguimento a este extraordinário.
+    3. Publiquem.
+    O Estado do Rio de Janeiro, no agravo de folha 221 a 228, requer a reconsideração da decisão agravada.
+    2. Atendeu-se aos pressupostos de recorribilidade. A peça, subscrita por Procurador do Estado, foi protocolada no prazo legal.
+    Assiste razão ao agravante. Reexaminando o processo, verifico inobservável o óbice lançado.
+    3. Reconsidero a decisão atacada, passando a apreciar o extraordinário.
+    O Tribunal de Justiça do Estado do Rio de Janeiro confirmou o entendimento do Juízo, em ação de cobrança, no sentido da procedência do pedido versado na petição inicial, ante fundamentos assim resumidos:
+    PENSÃO PREVIDENCIÁRIA. Ação ordinária de cobrança relativa ao período de junho a outubro/93, proposta por dependentes do servidor estadual falecido – Reconhecido o direito à percepção da pensão especial, pelo próprio Estado, procede o pedido autoral de recebimento dos valores relativos àquele período, não repercutindo no acolhimento do mesmo, a posterior declaração de inconstitucionalidade dos arts. 118 e 119 da Lei Complementar Estadual nº 69/90, que estendeu aos fiscais de renda o regime instituído pelas Leis 7.301/73 e 7.602/74, em favor de dependentes de outras categorias.
+    No recurso extraordinário, o recorrente alega violados os artigos 61, § 1º, inciso II, alínea “a”, 63, inciso I, e 169, parágrafo único, incisos I e II, da Constituição Federal. Consoante alega, os artigos 118 e 119 da Lei Complementar estadual nº 69/90, os quais estendem aos Fiscais de Renda o regime de pensão especial, padecem de vício de constitucionalidade formal, porquanto resultantes de emendas parlamentares que acarretaram aumento de despesas em diploma legal cuja iniciativa é do chefe do Executivo. Assevera a inexistência de indicação com relação à origem dos recursos.
+    4. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    […]
+    Nessa ordem de ideias, improcede o argumento do apelante de inexistência de fonte de custeio, uma vez que, do vencimento do servidor, em vida, eram efetuados os descontos mensais relativos à pensão.
+    Com relação à alegação de ausência de indicação de contribuição prévia e adicional, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    No mais, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida à legislação estadual – Lei Complementar estadual nº 69/1990 e Leis nº 7.301/1973 e nº 7.602/1974. A controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência – Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário –, o acesso ao Supremo. Está-se diante de caso cujo desfecho fica no âmbito do próprio Tribunal de Justiça, conforme óptica já ressalvada por ambas as Turmas do Supremo:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PENSÃO ESPECIAL. LEI COMPLEMENTAR 69/90. LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280- STF. Questão apreciada à luz de legislação de direito local, circunstância impeditiva a apreciação do extraordinário. Súmula 280- STF. Precedentes. Agravo regimental a que se nega provimento.”
+    (Agravo regimental no agravo de instrumento nº 446.553, relator ministro Eros Grau, Segunda Turma, com acórdão publicado no Diário da Justiça de 15 de outubro de 2004).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. DEPENDENTES DE SERVIDOR PÚBLICO ESTADUAL. DIREITO À CHAMADA “PENSÃO ESPECIAL”. LEIS ESTADUAIS 7.301/1973 e 7.602/1974 E 69/1990. MATÉRIA RESTRITA AO ÂMBITO INFRACONSTITUCIONAL. VIOLAÇÃO À MAGNA CARTA, SE EXISTENTE, APENAS OCORRERIA DE MODO REFLEXO OU INDIRETO. PRECEDENTES. Agravo regimental desprovido.”
+    (Agravo regimental no agravo de instrumento nº 610.543, relator ministro Carlos Ayres Britto, Segunda Turma, com acórdão publicado no Diário da Justiça de 19 de dezembro de 2011).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PENSIONISTAS. PRETENSÃO DE ATUALIZAÇÃO DA GRATIFICAÇÃO DE PRODUTIVIDADE. LEI COMPLEMENTAR 69/1990 DO ESTADO DO RIO DE JANEIRO. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. AGRAVO REGIMENTAL DESPROVIDO.”
+    (Agravo regimental no recurso extraordinário com agravo nº 860.577, relator ministro Luiz Fux, Primeira Turma, com acórdão publicado no Diário da Justiça de 24 de abril de 2017).
+    3. Nego seguimento ao recurso extraordinário.
+    4. Publiquem.
+Brasília, 17 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
