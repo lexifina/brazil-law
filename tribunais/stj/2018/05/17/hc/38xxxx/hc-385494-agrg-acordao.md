@@ -1,0 +1,33 @@
+EMENTA
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. AGRAVO EM EXECUÇÃO. FALTA GRAVE. POSSE E PROPRIEDADE DE APARELHO CELULAR. DECISÃO FUNDAMENTADA. ALEGAÇÃO DE NULIDADE POR AUSÊNCIA DE OITIVA JUDICIAL. RESPEITADOS O CONTRADITÓRIO E A AMPLA DEFESA. PERDA DE DIAS REMIDOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PRESCINDIBILIDADE DE PERÍCIA EM APARELHO CELULAR.
+1. Foram respeitados o contraditório e a ampla defesa, sendo o ora agravante ouvido com a presença de defensor.
+2. A decisão mostrou-se devidamente fundamentada quanto ao reconhecimento da falta grave ocorrida.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão de minha relatoria, que denegou a ordem de habeas corpus nos termos da seguinte ementa (fl. 141):
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. AGRAVO EM EXECUÇÃO. FALTA GRAVE. POSSE E PROPRIEDADE DE APARELHO CELULAR. DECISÃO FUNDAMENTADA. ALEGAÇÃO DE NULIDADE POR AUSÊNCIA DE OITIVA JUDICIAL. RESPEITADOS O CONTRADITÓRIO E A AMPLA DEFESA. REGRESSÃO DO REGIME. PERDA DE DIAS REMIDOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PRESCINDIBILIDADE DE PERÍCIA EM APARELHO CELULAR.
+Ordem denegada.
+Aponta o agravante evidente constrangimento ilegal, porquanto nula a decisão que determina a falta sem prévia audiência, além de se tratar-se fato atípico, insignificante, ofendendo o princípio da proporcionalidade (fls. 150/160).
+Não se conforma o agravante com a perda de 1/3 dos dias remidos, uma vez que essa quantidade deve ser o máximo permitido, devendo o julgador fazer uma análise da situação com margem de discricionariedade (fls. 150/160).
+Afirma que os vetores elencados no art. 57 da Lei de Execução Penal não foram avaliados da forma devida e com fundamentação, ou seja, a natureza da falta, os motivos da indisciplina, as circunstâncias do fato, as consequências do ocorrido, a pessoa do sentenciado e a quantidade de pena.
+Requer, diante disso, a reconsideração da decisão.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Razão não assiste ao agravante, devendo a decisão ser ratificada, por seus próprios fundamentos. Na hipótese, foram respeitados o contraditório e a ampla defesa, sendo o paciente ouvido com a presença de defensor. Confira-se o julgado (fls. 96/102):
+ ..
+As preliminares devem ser afastadas.
+FÁBIO, ao prestar depoimento acerca da infração disciplinar a ele atribuída (fl. 21), contou com a assistência de Advogado e teve a oportunidade de dar a sua versão acerca dos acontecimentos. Após, o seu defensor apresentou as suas razões finais, pleiteando a absolvição, ou seja, o feito correu normalmente.
+Diante disso, e sem perder de vista que a execução penal é atividade complexa, desenvolvida em conjunto pelo Poder Executivo e pelo Poder Judiciário, conclui-se que a oitiva do sentenciado atendeu plenamente às garantias constitucionais invocadas pela defesa, mesmo porque o artigo 118, parágrafo 2º, da Lei nº 7.210/84, não exige que a inquirição seja feita pelo próprio Magistrado.
+E, como se sabe, "Não se pode exigir que num presídio, mormente os de grandes proporções, conduza-se uma sindicância para apurar falta grave como se processo fosse, pois seria infindável, complexa e ineficiente, o que é incompatível com sua finalidade. Ouvindo-se o sentenciado e propiciando-lhe oportunidade de se explicar é suficiente, nos termos do art. 59 da LEP, conforme a opinião de GUILHERME E SOUZA NUCCI, que encontro nas páginas 474/475. Das suas "Leis Penais e Processuais Penais Comentadas"(Revista dos Tribunais, 2009).
+De outra parte, não merece acolhimento a alegação de que o procedimento disciplinar seria nulo pelo fato de o sentenciado não estar presente quando das oitivas das testemunhas, pois. conforme se observa às fls. 25 e 27, os atos praticados foram acompanhados pelo Advogado do agravante.
+E, como não restou especificado qual teria sido o efetivo prejuízo que este fato teria causado à defesa de FÁBIO, inexistiu a reclamada nulidade, como simples decorrência do principio pas de nulitté sans grief.
+ ..
+De outra parte, não havia nenhuma necessidade da realização de perícia no material apreendido, segundo o entendimento deste Egrégio Tribuna! de Justiça: "Execução Penal - Insurgência contra decisão que reconheceu a prática de falta disciplinar de natureza grave sem laudo comprobatório do efetivo funcionamento do celular e dos chips apreendidos - Inadmissibilidade - Lei nº 11.466/07, que disciplina o tema, não exige prova pericial a respeito" (Agravo em Execução n" 0281324-82.2010.8.26.0000, Relator Desembargador MOREIRA DA [NOME], 8" Câmara Criminal. Julgamento realizado em 9/JUN/2011). "
+ ..
+Como já mencionado,  ..  desnecessária nova oitiva do apenado em juízo antes da homologação da falta grave se a ele foi oportunizado, como na espécie, manifestar-se no âmbito do procedimento administrativo instaurado para apuração da infração disciplinar, devidamente acompanhado de defesa técnica. Precedentes  ..  (AgRg no HC n. 332.346/SP, de minha relatoria, Sexta Turma, DJe 29/9/2015).
+Sobre o inconformismo com a perda dos dias remidos, a decisão mostrou-se devidamente fundamentada quanto ao reconhecimento da falta grave ocorrida no dia 6/1/2016 (fls. 53/54), porquanto estava o ora agravante na posse e propriedade de um aparelho celular, com bateria, e um carregador (art. 50, VII, da Lei de Execuções Penais).
+Com efeito, aponta o art. 127 da Lei de Execuções Penais que  ..  em caso de falta grave, o juiz poderá revogar até 1/3 do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar  .. . Diante disso, o acórdão proferido no julgamento do agravo em execução está de acordo com a jurisprudência desta Corte em relação à regressão do regime e à perda de 1/3 dos dias remidos (HC n. 428.377/RS, Ministro Felix Fischer, Quinta Turma, DJe 10/4/2018)
+Por fim, foi dito ainda que  ..  é prescindível a perícia do aparelho celular apreendido para a configuração da falta disciplinar de natureza grave do art. 50, inciso VII, da Lei de Execução Penal  ..  (AgRg no HC n. 391.209/SP, Ministro Felix Fischer, Quinta Turma, DJe 18/9/2017)
+Ante o exposto, nego provimento ao agravo regimental.
