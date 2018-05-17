@@ -1,0 +1,76 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. ALEGAÇÃO DE OFENSA AO ART. 535 DO CÓDIGO DE PROCESSO CIVIL DE 1973. INEXISTÊNCIA. DANO MORAL. VALOR. REVISÃO. PROPORCIONALIDADE. RAZOABILIDADE. MANUTENÇÃO. JUROS MORATÓRIOS. TERMO INICIAL. EVENTO DANOSO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual" (Súmula n. 54/STJ).
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Auto Viação São Judas Tadeu Ltda interpõe agravo interno contra a decisão, de fls. 892/897, que negou provimento ao agravo em recurso especial.
+Reitera a negativa de vigência do art. 535, II, do Código de Processo Civil de 1973, uma vez que não foram sanadas as omissões suscitadas nos embargos de declaração opostos pela agravante.
+Sustenta que não incide, na hipótese dos autos, o óbice da Súmula n. 83 desta Corte, bem como argumenta que o marco inicial para a contagem dos juros de mora, no caso de responsabilidade objetiva, é a data da citação.
+Afirma, por fim, que não pretende o reexame fático dos autos e que o valor fixado a título de danos morais é excessivo.
+Intimada para se manifestar acerca da interposição do recurso, a parte contrária não apresentou impugnação.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O recurso não prospera.
+Transcrevo, por oportuno, os fundamentos da decisão agravada (fls. 892/897):
+Trata-se de agravo interposto por Auto Viação São Judas Tadeu Ltda de decisão que não admitiu o recurso especial interposto com fundamento nas alíneas a e c do inciso III do art. 105 da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Ceará, assim ementado (e-STJ, fl. 734):
+EMENTA: CIVIL. INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. LUCROS CESSANTES. QUANTUM INDENIZATÓRIO. RAZOABILIDADE E PROPORCIONALIDADE. SENTENÇA REFORMADA. APELAÇÃO CONHECIDA E PROVIDA, EM PARTE. I. A responsabilidade civil das pessoas jurídicas de direito privado, prestadoras de serviço público, baseia-se na aplicação da Teoria do Risco Administrativo (Inteligência do art. 37, § 6º, CF/88); 2. A indenização por lucros cessantes prescinde de prova efetiva do prejuízo, já que consiste no que se deixou de lucrar, razão pela qual deve a parte demonstrar ao julgador que não adviesse o sinistro, auferiria aquela renda; 3. Quantum indenizatório, a título de lucros cessantes, devido, minorando o valor do beneficio previdenciário, referente à aposentadoria por invalidez; 4. O valor da indenização deve atender ao binômio razoabilidade e proporcionalidade, não podendo causar enriquecimento ou empobrecimento das partes envolvidas, devendo ao mesmo tempo desestimular a conduta do do ofensor e consolar a vítima. 5. Sentença reformada. 6. Apelo conhecido e provido, em parte.
+Opostos embargos de declaração, foram acolhidos, nos termos da seguinte ementa (e-STJ, fls. 774):
+DIREITO CIVIL. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E LUCROS CESSANTES. JUROS DE MORA. SÚMULA Nº 54, DO STJ. CORREÇÃO MONETÁRIA. TERMO A QUO. SÚMULA Nº 362, DO STJ. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. ART. 21, DO CPC. VÍCIOS SANADOS. EMBARGOS CONHECIDOS E PROVIDOS, EM PARTE. 1. Tratando-se de ilícito extracontratual, os juros moratórios são devidos a partir do evento danoso, conforme o teor da Súmula nº 54, do STJ; 2. O termo a quo para a incidência da correção monetária, nas demandas de indenização por danos morais, passa a ser a data do arbitramento. Súmula 362, do STJ; 3. Não remanescem dúvidas de que a causa decisiva para a ocorrência do acidente foi o fato do preposto da embargante não ter obedecido à legislação de trânsito vigente, conforme emerge dos autos, razão pela qual deve ser mantida a responsabilidade da empresa, ora embargante; 4. "A distribuição dos ônus sucumbenciais, quando verificada a sucumbência recíproca, deve ser pautada pelo exame do número de pedidos formulados e da proporcionalidade do decaimento das partes em relação a esses pleitos. ( )." (Resp 803950 / RJ; Relª Minª NANCY ANDRIGHI; Terceira Turma; julgado em 20/05/2010; DJe 18/06/2010); 5. São permitidos embargos de declaração para suprir omissões, obscuridade ou contradição, nos termos do art. 535, do CPC, ainda que implique em modificação do que restou decidido em julgado recorrido; 6. Constatando-se a incidência de hipótese de omissão do julgado, devem ser acolhidos os aclaratórios; 7. Embargos conhecidos e providos, em parte.
+Nas razões do especial, sustentou a parte recorrente violação aos seguintes dispositivos:
+a) art. 535 do Código de Processo Civil de 1973, apontando omissão e contradição no acórdão recorrido quanto ao abatimento do valor pago pela seguradora no acordo celebrado entre as partes; quanto à incidência de juros e correção monetária sobre as parcelas recebidas a título de benefício previdenciário e no que concerne ao termo final para pagamento da pensão.
+b) art. 944 do Código Civil, apontando divergência jurisprudencial quanto ao valor fixado a título de dano moral e estético (R$ 40.000,00 a título de danos morais e R$ 20.000,00 a título de danos estéticos) para justificar o pedido de redução de referidas verbas.
+c) art. 405 do Código Civil, defendendo a não aplicação da Súmula 54/STJ quanto ao termo inicial dos juros de mora dos danos morais e, sobre o tema, suscitou dissídio jurisprudencial.
+Contrarrazões ofertadas às fls. 846-854 (e-STJ).
+O recurso foi inadmitido na origem, nos termos da decisão de fls. 857-860 (e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+A apontada violação dos arts. 535 do CPC/73 não se configura, haja vista o Tribunal estadual ter dirimido clara e integralmente a controvérsia, porém em sentido contrário ao pretendido pela agravante.
+Com efeito, o Tribunal estadual decidiu expressamente acerca do acordo celebrado entre o recorrido e a seguradora às fl. 739 (e-STJ), da mesma forma esclareceu, por via dos embargos declaratórios, sobre a incidência da correção monetária e dos juros moratórios, tanto em relação ao dano moral e estético, quanto em relação ao dano material. Saliento, porém, que não houve condenação da recorrente ao pagamento de pensionamento ao recorrido, razão pela qual desnecessária a menção do Tribunal de origem sobre o termo final para pagamento da referida verba.
+Além do mais, a jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão - situação facilmente constatável no presente caso -, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nesse contexto, não implica contrariedade ao art. 535 do CPC/73. Nesse sentido, são os seguintes precedentes: AgRg no AREsp n. 55.751/RS, Terceira Turma, Relator o Ministro Paulo de Tarso Sanseverino, DJe 14.6.2013; AgRg no REsp n. 1.311.126/RJ, Primeira Turma, Relator o Ministro Napoleão Nunes Maia Filho, DJe 22.5.2013; REsp n. 1244950/RJ, Terceira Turma, Relator o Ministro Sidnei Beneti, DJe 19.12.2012; e EDcl no AgRg nos EREsp n. 934.728/AL, Corte Especial, Relator o Ministro Luiz Fux, DJe 29.10.2009.
+Dessa forma, considerando que a questão federal foi decidida de modo suficiente, rejeito a alegação de ofensa ao art. 535 do Código de Processo Civil.
+Consoante consolidada jurisprudência desta Corte é incabível a argüição de divergência jurisprudencial tratando-se de valoração dos danos morais, pois que os elementos subjetivos e fáticos subjacentes às causas são distintos a afastar o requisito da similitude fática necessário ao conhecimento do especial interposto com base no dissídio.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRABALHO. DANO MORAL. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA E SUBJETIVA. INEXISTÊNCIA. DECISÃO MANTIDA.
+1. A análise da insurgência contra o valor arbitrado a título de indenização por danos morais esbarra na vedação prevista na Súmula n. 7/STJ. Apenas em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante as quantias fixadas, é possível a revisão do quantum por esta Corte, situação não verificada no caso dos autos.
+2. O STJ firmou entendimento no sentido de ser incabível o reexame do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica a fixação do quantum indenizatório distinto.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 241.243/SP, Relator o Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 02/12/2014, DJe 10/12/2014)
+AGRAVO REGIMENTAL - RECURSO ESPECIAL - DISSÍDIO JURISPRUDENCIAL - DIVERGÊNCIA NÃO COMPROVADA - COTEJO NÃO REALIZADO. DANOS MORAIS. REVISÃO DE VALOR. INVIABILIDADE DE CONHECIMENTO DO RECURSO PELA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL.
+ ..
+2.- Não é possível a análise de divergência jurisprudencial com relação ao valor dos danos morais. Precedentes.
+ ..
+4.- Agravo Regimental a que se nega provimento.
+(AgRg no REsp n. 1.451.267/MT, Relator o o Ministro Sidnei Beneti, TERCEIRA TURMA, DJe 2/9/2014)
+Por fim, a recorrente ainda alegou dissídio interpretativo quanto à aplicação do art. 405 do Código Civil, especificamente sobre o termo inicial dos juros moratórios na indenização pelos danos morais e estéticos.
+Cabe consignar que sobre o tema, o Tribunal de origem entendeu que "É notório que os juros devem incidir, em casos de indenização por ato ilícito, como o que ora cuida, a partir do evento danoso, conforme o verbete sumular nº 54 do STJ" (e-STJ, fl. 777). Dessa forma, verifico que a decisão de origem está em conformidade com a jurisprudência desta Corte, consoante atestam os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVA. SÚMULA Nº 7 DO STJ. TERMO INICIAL DOS JUROS DE MORA. EVENTO DANOSO. SÚMULA Nº 54 DO STJ. NOVO CPC. INAPLICABILIDADE. DECISÃO MANTIDA.
+1. A alteração das conclusões do acórdão recorrido exigiria a reapreciação do acervo fático-probatório da demanda consistente na configuração dos danos morais, o que faz incidir a Súmula nº 7 do STJ.
+2. Tratando-se de responsabilidade civil extracontratual, os juros de mora deverão incidir a partir do evento danoso, nos termos da Súmula nº 54 do STJ.
+3.Inaplicabilidade do NCPC a este julgamento ante os termos do Enunciado nº 1 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+4. Agravo regimental não provido.
+(AgRg no AREsp 817.621/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/05/2016, DJe 01/06/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. TERMO INICIAL. JUROS DE MORA. SÚMULA 54/STJ.
+1.Não cabe, em recurso especial, reexaminar matéria de fato (Súmula 7/STJ).
+2.Os juros de mora contam-se desde o evento danoso, nas hipóteses de responsabilidade civil extracontratual.
+3.Agravo regimental a que se nega provimento.
+(AgRg no AREsp 816.755/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/02/2016, DJe 02/03/2016)
+Desse modo, estando o acórdão recorrido em conformidade com a jurisprudência do STJ, incide a Súmula 83 do STJ, impedindo o conhecimento do recurso por ambas as alíneas.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+Inicialmente, não procede a alegação de violação do art. 535 do Código de Processo Civil de 1973, uma vez que foram enfrentadas todas as questões levantadas pela parte, de forma fundamentada, porém em sentido contrário ao pretendido, o que afasta a invocada negativa de prestação jurisdicional.
+No que se refere ao termo inicial dos juros de mora, anoto que prevalece a jurisprudência desta Corte, consolidada na Súmula n. 54/STJ, a qual estabelece que, em se tratando de responsabilidade extracontratual, os juros de mora incidem desde o evento danoso. A propósito, confira-se:
+PROCESSO CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR ATO ILÍCITO. ACIDENTE DE TRÂNSITO. OFENSA AO ART. 535 DO CPC. NÃO OCORRÊNCIA. TERMO INICIAL PARA A INCIDÊNCIA DOS JUROS DE MORA. SÚMULA N. 54/STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONHECIMENTO.
+1. Considera-se improcedente a arguição de ofensa ao art. 535 do CPC quando o Tribunal a quo se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia.
+2. "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual" (Súmula n. 54/STJ).
+3. Tratando-se de danos morais e estéticos, é incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos são sempre distintos.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1.342.192/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 28.9.2015)
+Por outro lado, não prospera o pedido de redução do valor da indenização por danos morais, eis que é certo que o STJ considera excepcionalmente cabível o reexame do valor arbitrado a título de danos morais, quando for ele excessivo ou irrisório.
+No caso dos autos, o valor de R$ 40.000,00 (quarenta mil reais) arbitrado pelo acórdão mostra-se dentro dos padrões da razoabilidade e proporcionalidade, não justificando intervenção desta Corte Superior.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
