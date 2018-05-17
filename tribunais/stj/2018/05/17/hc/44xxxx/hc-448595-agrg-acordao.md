@@ -1,0 +1,80 @@
+EMENTA
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO DE LIMINAR. NÃO CABIMENTO. INSTRUÇÃO DEFICIENTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Incabível recurso de agravo regimental contra decisão de Relator ou de substituto legal, que indefere liminar em habeas corpus ou no seu recurso ordinário, nos termos do art. 258 do RISTJ. Precedentes do STF e do STJ.
+II - O habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, ou seja, a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame do alegado constrangimento ilegal, o que não ocorreu no caso concreto.
+Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, receber o pedido de reconsideração como agravo regimental e não o conhecer.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de pedido formulado por [NOME], no qual postula a reconsideração do decisum que indeferiu o pleito liminar, objetivando a concessão de liberdade provisória, após o reconhecimento de nulidades apontadas.
+Na decisão agravada, ficou assentada a ausência de prova pré-constituída da alegação. Nesse passo, o agravante acosta documentos que entende configurar "prova complementar" e pede, de consequência, a concessão da liminar.
+Por manter a decisão agravada, trago o feito à apreciação desta Quinta Turma.
+É o relatório.
+EMENTA
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO DE LIMINAR. NÃO CABIMENTO. INSTRUÇÃO DEFICIENTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Incabível recurso de agravo regimental contra decisão de Relator ou de substituto legal, que indefere liminar em habeas corpus ou no seu recurso ordinário, nos termos do art. 258 do RISTJ. Precedentes do STF e do STJ.
+II - O habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, ou seja, a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame do alegado constrangimento ilegal, o que não ocorreu no caso concreto.
+Agravo regimental não conhecido.
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: Quanto ao pedido de reconsideração, em respeito ao princípio da fungibilidade, da instrumentalidade das formas, da ampla defesa e da efetividade do processo, recebo como agravo regimental, tendo em vista ter sido interposto dentro do quinquídio legal. E ao fazê-lo, destaco que o recurso não deve prosperar.
+Com efeito, nos termos do art. 258 do Regimento Interno deste Superior Tribunal de Justiça, não é cabível recurso de agravo contra decisão que indefere liminar em habeas corpus. Confira-se, verbis:
+"Art. 258. A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a" (grifei).
+Esta Corte, na esteira de precedentes do col. Supremo Tribunal Federal, firmou entendimento no sentido de ser incabível recurso de agravo regimental (ou agravo interno) contra decisão de Relator ou substituto legal, proferida em habeas corpus que indefere pedido liminar, como ocorreu no caso sob exame.
+Nesse sentido, os seguintes julgados do col. Supremo Tribunal Federal:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. DECISÃO QUE INDEFERE PEDIDO DE LIMINAR. NÃO-CABIMENTO. AGRAVO NÃO PROVIDO.
+1. Não cabe agravo regimental contra decisão do relator que indeferiu o pedido de liminar, por falta de previsão legal.
+2. Agravo não conhecido" (AgR no HC 83.673/RJ, Primeira Turma, Rel. Min. Marco Aurélio, DJU 25/11/2003).
+"HABEAS CORPUS - DECISÃO QUE INDEFERE LIMINAR - ATO JUDICIAL IRRECORRÍVEL - AGRAVO NÃO CONHECIDO.
+- É irrecorrível a decisão singular do Ministro-Relator, que, em sede de habeas corpus, indefere, motivadamente, pedido de medida liminar formulado pelo autor do writ constitucional. Em conseqüência, revela-se insuscetível de conhecimento o recurso de agravo deduzido pelo impetrante contra esse ato decisório. Precedentes" (AgRg no HC 73.917/MG, Primeira Turma, Rel. Min. Celso de Mello, DJU 2/8/1996).
+E desta Corte:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO PEDIDO DE TUTELA PROVISÓRIA. INTERPOSIÇÃO CONTRA DECISÃO QUE DEFERIU PEDIDO DE LIMINAR. NÃO CABIMENTO. AGRAVO NÃO CONHECIDO.
+1. Conforme jurisprudência desta Corte Superior, é incabível agravo regimental contra decisão que, fundamentadamente, indefere ou defere pedido de liminar.
+2. Agravo regimental não conhecido." (AgRg no TP 1.226/PA, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 19/03/2018).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DEFERIMENTO DO PEDIDO LIMINAR. DECISÃO FUNDAMENTADA. RECURSO INCABÍVEL. AGRAVO NÃO CONHECIDO.
+1. Uníssono o entendimento desta Corte Superior de que não é passível de agravo regimental a decisão do relator que defere ou indefere de forma fundamentada o pedido de liminar. Precedentes.
+Ademais, no caso, verificou-se o constrangimento ilegal aventado, bem como a presença do fumus boni iuris e do periculum in mora, sendo a decisão de deferimento da liminar devidamente fundamentada, com elementos autorizadores para a concessão da tutela de urgência, em que, foi determinada a execução provisória de pena restritiva de direitos antes do trânsito em julgado da condenação, providência que não encontra respaldo na jurisprudência sedimentada pela Quinta Turma desta Corte Superior.
+Agravo regimental não conhecido." (AgRg no HC 425.547/SP, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 22/03/2018)
+"PENAL E PROCESSO PENAL. HABEAS CORPUS. 1. AGRAVO REGIMENTAL EM LIMINAR. NÃO CABIMENTO. AUSÊNCIA DE EXCEPCIONALIDADE. 2. FUMAÇA DO BOM DIREITO E PERIGO DA DEMORA AUSENTES. 3. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A jurisprudência do Superior Tribunal de Justiça possui firme entendimento no sentido de que não é cabível a interposição de agravo regimental contra decisão do Relator que, fundamentadamente, indefere pleito liminar em habeas corpus. Dessa forma, não apresentando o presente caso qualquer excepcionalidade que justifique o cabimento do agravo interposto, deve-se aguardar o julgamento do mérito pelo órgão colegiado.
+2. Conforme explicitado na decisão agravada, reitero que não há mais se falar em plausibilidade jurídica do pedido, uma vez que a matéria, embora pacificada na Quinta Turma em benefício dos recorrentes, encontra-se atualmente submetida ao crivo da Terceira Seção desta Corte, para uniformização (Resp 1.598.005/SC). Com relação ao perigo da demora, entendo que igualmente não se revela presente, uma vez que apenas o primeiro agravante foi condenado, à pena de 9 (nove) meses e 10 (dez) dias de detenção, em regime aberto, sendo-lhe concedido o direito de recorrer em liberdade.
+Dessa forma, a paralisação do andamento processual não traria benefício concreto aos agravantes nesse momento processual.
+3. Agravo regimental não conhecido." (AgRg no RCD no RHC 85.155/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 14/03/2018)
+"PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. DECISÃO DE INDEFERIMENTO LIMINAR. INCABÍVEL. AUSÊNCIA DE MUDANÇA FÁTICO-PROCESSUAL. PEDIDO DE RECONSIDERÇÃO RECEBIDO COMO AGRAVO REGIMENTAL, AO QUAL SE NEGA CONHECIMENTO.
+1. É pacífico o entendimento dessa Corte Superior de que não cabe recurso contra decisão que defere ou indefere, fundamentadamente, o pedido liminar em habeas corpus.
+2. A inexistência de sala de Estado-maior não conduz de forma inconteste à concessão de prisão domiciliar, na existência de local diverso, mas com indicativos de dignidade compatível.
+3. Pedido de reconsideração recebido como agravo regimental, ao qual se nega conhecimento." (RCD no HC 431.689/CE, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 09/04/2018).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO DE LIMINAR. DECISÃO FUNDAMENTADA. RECURSO INCABÍVEL. INSURGÊNCIA NÃO CONHECIDA.
+1. É assente na jurisprudência deste Tribunal Superior o entendimento de que não é cabível a interposição de agravo regimental contra decisão de Relator que, fundamentadamente, indefere pleito liminar.
+2. Na hipótese, a negativa da medida de urgência requerida foi devidamente fundamentada, não se mostrando cabível, neste momento, a avaliação aprofundada dos temas suscitados pelo agravante, o que será feito quando do julgamento do mérito do writ.
+3. É de se ressaltar, outrossim, que o pleito liminar em sede de habeas corpus e de recurso ordinário em habeas corpus, por se tratar de expediente que não dispõe de previsão legal, deve ser deferido apenas em hipóteses excepcionalíssimas, de flagrante violação ou ameaça ao direito de locomoção do indivíduo, mediante demonstração da plausibilidade jurídica do pedido e do perigo da demora na prestação jurisdicional invocada, ônus do qual não se desincumbiu a defesa.
+4. Agravo regimental não conhecido." (AgRg no HC 417.403/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 13/12/2017).
+In casu, a liminar foi indeferida nos seguintes termos:
+"Ao exame perfunctório, próprio dos pedidos liminares, não vislumbro a presença dos requisitos indispensáveis para o deferimento da medida urgente. Vale dizer, não restaram comprovadas, de plano, as alegadas nulidades, o que afasta o reconhecimento do fumus boni júris e do periculum in mora.
+Insta consignar que não constam dos autos quaisquer provas que determinem a conclusão, ab initio, de que os componentes do Conselho Especial são "mais modernos" que o corréu CEL PM Luiz Flaviano Furtado.
+No que concerne à alegada nulidade da prisão preventiva, afere-se que a medida foi decretada pelo d. Juiz Auditor, nos termos do art. 30, I e III, da Lei n. 8.457/92. Assim, a decisão que recebeu a denúncia e decretou a prisão preventiva (fls. 57-60), precedeu à formação do Conselho, de modo que eventual nulidade de sua formação não surtirá qualquer efeito no ato anterior.
+E no que diz respeito à presença dos requisitos necessários para que fosse decretada a prisão preventiva, observa-se que a questão é objeto do habeas corpus n. 446718/SP, no qual foi apreciado pedido liminar. Inviável, portanto, nova manifestação acerca da matéria.
+Diante do exposto, não comprovadas primo ictu oculi quaisquer ilegalidades, indefiro o pedido liminar" (fl. 114).
+Na hipótese, considerando tratar-se de decisão adequadamente fundamentada, inviável o conhecimento do recurso contra ela interposto.
+Ressalte-se, ademais, que a doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, "a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Revista dos Tribunais, 2011 p.298).
+Desta forma, não determina nova análise do pedido liminar a instrução tardia da inicial do writ, tanto mais quando os documentos são ilegíveis, como na espécie.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME TRIBUTÁRIO. CAUSA DE AUMENTO PREVISTA NO ART. 12, I, DA LEI N. 8.137/90. MERA REITERAÇÃO DE PEDIDO CONTIDO EM AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. RECURSO JÁ JULGADO. INSTRUÇÃO DEFICIENTE. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. RECURSO DESPROVIDO.
+1. É inadmissível a análise de impetração cujo objeto é idêntico ao contido em Agravo em Recurso Especial, que, inclusive, já foi julgado, tendo em vista a impossibilidade de reiteração de pedidos nesta Corte Superior.
+2. Considerando a celeridade do rito do habeas corpus, toda a prova do direito alegado deve estar pré-constituída e disponível no momento e nos autos da impetração, sob pena de não conhecimento do mandamus.
+Agravo regimental desprovido." (AgRg no HC 381.729/SP, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 06/06/2017).
+"PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE PEÇAS ESSENCIAIS À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE AO IMPETRANTE. PEÇA NÃO JUNTADA AOS AUTOS. AGRAVO NÃO PROVIDO.
+1. O procedimento do habeas corpus é sumário, logo sua instrução deve permitir, de plano e minimamente, a compreensão do constrangimento ilegal apontado, motivo pelo qual a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado. 2. Não se desconhece que é inerente ao rito procedimental do habeas corpus a requisição de informações à autoridade coatora (RISTJ, art. 201), para fins de complementação da instrução do processo, possibilitando seu julgamento (RISTJ. art. 202). Isso, contudo, não retira o ônus do impetrante de colacionar prova semiplena, de modo a possibilitar ao julgador antever, ao menos, a questão posta e, eventualmente, se houver probabilidade do direito do impetrante, conceder liminar. Em um segundo momento, desde que vislumbrada a questão debatida, poderá o relator pedir esclarecimentos da autoridade coatora, apenas para complementar a instrução - que, já se disse, é do impetrante - e, desse modo, propiciar o julgamento do writ com mais segurança.
+3. Não é possível atribuir a esta Corte a instrução inicial de todos os habeas corpus, sob pena de inviabilizar os trabalhos judiciais e cartorários. Mais do que isso, ao assim propor, a Defensoria Pública pretende transferir ônus próprio, que é o de prestar serviço adequado.
+4. Hipótese em que a impetrante não instruiu o habeas corpus com nenhuma peça processual, de forma que é impossível a compreensão da existência de ato ilegal. Tal vício não restou sanado por ocasião da interposição deste agravo regimental pela Defensoria Pública, vedando a incidência do efeito regressivo, pela reconsideração.
+5. Agravo regimental não provido." (AgRg no HC 381.322/MS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 25/05/2017, grifei).
+"AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AGRAVO NÃO PROVIDO.
+1. A defesa deixou de juntar aos autos da cópia da decisão que indeferiu o pedido de revogação da prisão preventiva, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+3. Agravo regimental não provido." (AgRg no RHC 82.676/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 01/08/2017, grifei)
+"PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DO ACÓRDÃO QUE ENFRENTOU O MÉRITO. HABEAS CORPUS ORIGINÁRIA INDEFERIDO POR SER REITERAÇÃO DE OUTRO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Identificada a falta de juntada aos autos do acórdão da Corte Estadual que efetivamente abordou o mérito constante no presente habeas corpus, resta evidenciada instrução deficiente a impedir continuidade na análise do pleito liberatório.
+2. Agravo regimental improvido." (AgInt no HC 388.816/MA, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 13/06/2017)
+Ante o exposto, não conheço do agravo regimental.
+Cumpra-se integralmente a decisão vergastada. Instruído o feito, voltem conclusos para julgamento do mérito.
+É o voto.
