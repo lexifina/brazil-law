@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUPOSTA INOBSERVÂNCIA AO DISPOSTO NO ART. 544 DO CPC/73. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. FUNDAMENTO SUPERADO. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. DECISÃO MONOCRÁTICA PROFERIDA NOS TERMOS LEGAIS E REGIMENTAIS. AGRAVO IMPROVIDO.
+1. Interposto o agravo em recurso especial na vigência do CPC/2015 é descabido o fundamento recursal que sustenta incompatibilidade da decisão atacada com o regramento do revogado art. 544 do CPC/73.
+2. A decisão monocrática que conheceu do agravo para não conhecer do recurso especial em razão do óbice previsto no Enunciado n.º 83 da Súmula do STJ não violou o princípio da colegialidade, na medida em que o art. 34, inciso VII, combinado com o art. 253, parágrafo único, inciso II, alínea a, do Regimento Interno desta Corte permitem ao relator conhecer do agravo para não conhecer o Recurso Especial, se a tese recursal se afigura inadmissível frente a jurisprudência firmada nesta Corte.
+3. O cabimento de agravo regimental contra a decisão singular afasta a alegação de afronta ao referido postulado, visto que a matéria, desde que suscitada, pode ser remetida à apreciação da Turma.
+4. Agravo a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Trata-se de agravo regimental interposto por [NOME] contra decisão desta Relatoria, que conheceu do agravo para não conhecer do Recurso Especial, por entender que a pretensão recursal esbarraria no Enunciado n. 83 da Súmula deste Superior Tribunal de Justiça.
+Na presente insurgência, sustenta o agravante, em síntese, que a análise monocrática, em sede de agravo em recurso especial, da pertinência da tese recursal transbordaria os limites autorizados pelo vigente art. 544, § 4.º, inciso II, alíneas a e b, do CPC, de acordo com as modificações introduzidas pela Lei 12.322/10, porquanto tal mister seria afeto ao colegiado.
+Requer o provimento do regimental para que o Recurso Especial tenha seguimento.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Constatada a tempestividade da insurgência passa-se a sua apreciação.
+Infere-se dos autos que [NOME] foi condenado pela prática do crime tipificado no art. 337-A, inciso I, do Código Penal e art. 1.º, inciso I, da Lei 8.137/90, às penas de 3 (três) anos, 7 (sete) meses e 10 (dez) dias de reclusão, em regime aberto, e ao pagamento de 219 (duzentos e dezenove) dias-multa, substituída a reprimenda corporal por restritivas de direitos, porque:
+"Segundo se depreende, [NOME], na qualidade de administrador da ASS - SISTEMAS DE SEGURANÇA LTDA, no período de 01/2008 a 12/2009, omitiu contribuições previdenciárias, referentes a remunerações pagas a segurados empregados e contribuintes individuais, deixando de incluí-las na folha de pagamento e em GFIP, resultando em um prejuízo que, acrescido dos consectários legais, alcança de R$ 305.693,32 e de R$ 344.429,89, constantes dos Autos de Infração Nº 37.362.904-4 e 51.011.656-6, respectivamente (fato 01).
+Na mesma oportunidade, omitiu informação para eximir-se do pagamento de contribuições sociais devidas a outras Entidades e Fundos de Terceiros (FNDE, INCRA, SEBRAE, SESC e SENAC) simulando o pagamento da parcela referente a "risco de vida" de segurados empregados como se fosse de prestação de serviços por empresas diversas, causando um prejuízo aos cofres públicos de R$ 52.440,72, no ano-calendário 2008 e, R$ 77.302,24, no ano-calendário 2009, conforme Autos de Infração nº 37.362.905-2 e 51.011.657-4 respectivamente (fato 02)." (e-STJ fls. 314)
+Interposta apelação pela defesa, a Corte regional negou provimento ao recurso e, ex offício, reduziu a pena de multa para 39 (trinta e nove) dias-multa.
+Opostos aclaratórios, estes foram parcialmente acolhidos, para redimensionar a reprimenda aplicada para 2 (dois) anos, 8 (oito) meses e 15 (quinze) dias de reclusão e pagamento de 39 (trinta e nove) dias-multa, mantidos os demais termos da sentença.
+Interposto Recurso Especial, com fulcro na alínea a do permissivo constitucional, a defesa alegou contrariedade ao artigo 381 do Código de Processo Penal e 59 do Código Penal, no tocante à consideração do montante sonegado para a valoração negativa das consequências do crime.
+Inadmitido em juízo prévio de admissibilidade, foi interposto o correspondente agravo.
+Instado a se manifestar, o Parquet Federal opinou pelo desprovimento do agravo.
+Por decisão monocrática desta Relatoria, se conheceu do agravo para não conhecer do Recurso Especial, por entender que a questão recursal encontraria vedação no Enunciado n.º 83 da Súmula deste Sodalício.
+Daí a apresentação deste regimental, no qual o recorrente sustenta que a análise monocrática, em sede de agravo em recurso especial, da pertinência do tema abordado nas razões do Recurso Especial, transbordaria os limites autorizados pelo vigente art. 544, § 4.º, inciso II, alíneas a e b, do CPC, de acordo com as modificações introduzidas pela Lei 12.322/10, porquanto tal mister seria afeto ao colegiado.
+A irresignação, porém, não merece prosperar.
+De início, infere-se que o agravante fundamenta a sua irresignação em suposta desconformidade entre a decisão agravada e o regramento do art. 544, § 4.º, inciso II, alíneas a e b, do CPC/73, com a redação conferida pela Lei n.º 12.322/10.
+Contudo, cabe ressaltar que o referido dispositivo restou revogado pela Lei 13.105/2015 (Novo Código de Processo Civil), em vigor a partir de 18 de março de 2016, cujas normas regem os recursos interpostos após a sua vigência, como se afigura in casu, restando, portanto, superada a argumentação que se baliza em legislação revogada.
+A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. PENA DE PERDIMENTO DE MERCADORIAS IMPORTADAS. PREPARO. GUIA DE RECOLHIMENTO ILEGÍVEL. ENUNCIADO N. 187 DA SÚMULA DO STJ. DESERÇÃO. RECURSO ESPECIAL NÃO CONHECIDO.
+I - Como a decisão sobre a qual foi interposto o recurso especial foi publicada após 18 de março de 2016, quanto ao cabimento, aos demais pressupostos de admissibilidade e ao processamento do recurso, aplicam-se as regras do Código de Processo Civil de 2015, conforme prevê o enunciado administrativo n. 3 do STJ.
+(..)
+V - Agravo interno improvido. (AgInt no REsp 1664218/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/11/2017, DJe 22/11/2017)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NOVO CPC SEM A DEVIDA COMPROVAÇÃO DA OCORRÊNCIA DE FERIADO LOCAL NO ATO DE INTERPOSIÇÃO DO APELO. ART. 1.003, § 6º, DO CPC DE 2015. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. INTEMPESTIVIDADE.
+1. De acordo com os Enunciados Administrativos do STJ nº 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015. Na espécie, discute-se a tempestividade de recurso interposto contra decisão publicada em na vigência do CPC de 2015.
+(..)
+6. Agravo regimental não provido. (AgRg no REsp 1662399/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/11/2017, DJe 07/12/2017)
+Entretanto, não obstante a inadequação do fundamento apresentado, quanto à suscitada impossibilidade de julgamento monocrático do recurso, cabe frisar que o art. 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, autoriza o relator a conhecer do agravo para não conhecer do Recurso Especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida, que esteja prejudicado ou, ainda, daquele que seja inadmissível - como na hipótese em que se constata que a orientação desta Corte se firmou no mesmo sentido da decisão recorrida.
+Ademais, frise-se que o cabimento de agravo regimental contra a decisão singular afasta qualquer alegação de violação ao princípio da colegialidade, já que a matéria pode, desde que suscitada, ser remetida à apreciação da Turma.
+A esse respeito, a firme jurisprudência desta Corte:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. DECISÃO MONOCRÁTICA. PRINCÍPIO DA COLEGIALIDADE. OFENSA. INEXISTÊNCIA. REGIMENTAL QUE NÃO IMPUGNA O FUNDAMENTO DA DECISÃO ORA AGRAVADA. SÚMULA N. 182/STJ.
+1. Há de ser ressaltado que o julgamento monocrático do recurso especial, com esteio em óbices processuais e na jurisprudência dominante desta Corte, tem respaldo nas disposições do Código de Processo Civil e do RISTJ. Ademais, é facultado à parte submeter a controvérsia ao colegiado competente por meio de agravo regimental, não havendo, portanto, nenhuma vulneração do princípio da colegialidade.
+(..)
+(AgRg no AREsp 1092126/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 10/04/2018, DJe 16/04/2018)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. LESÃO CORPORAL PRATICADA EM AMBIENTE DOMÉSTICO. ABSOLVIÇÃO. EXISTÊNCIA DE PROVAS. ANÁLISE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO
+1. Inexiste maltrato ao princípio da colegialidade, pois, consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica, uma vez que a parte possui mecanismos processuais de submeter a controvérsia ao colegiado por meio do competente agravo regimental. Ademais, o julgamento colegiado do recurso pelo órgão competente supera eventual mácula da decisão monocrática do relator.
+(..)
+4. Agravo regimental não provido. (AgRg no AREsp 1122628/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/08/2017, DJe 01/09/2017)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO CARACTERIZAÇÃO. INÉPCIA DA DENÚNCIA. SUPERVENIÊNCIA DE SENTENÇA PENAL CONDENATÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO IMPROVIDO.
+1. Não ofende ao princípio da colegialidade o julgamento monocrático de recurso especial, tendo em vista a previsão regimental para tal mister e a possibilidade de submissão do tema ao órgão colegiado, mediante a interposição de agravo regimental.
+(..)
+4. Agravo regimental improvido. (AgRg no REsp 1604363/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/04/2018, DJe 02/05/2018)
+Desse modo, não há óbice à análise singular do inconformismo.
+Por essas razões, nega-se provimento ao agravo regimental.
+É como voto.
