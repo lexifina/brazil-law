@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. ASSISTENTE SOCIAL. REDUÇÃO DA JORNADA DE TRABALHO. PRETENSÃO DE APLICAÇÃO DO ART. 5º-A DA LEI Nº 8.661/1993. IMPOSSIBILIDADE. REGRAS DIRIGIDAS EXCLUSIVAMENTE AOS EMPREGADOS REGIDOS PELA CLT.
+1. O entendimento desta Corte Superior é no sentido de que a norma inserta no art. 5º-A da Lei n. 8.662/1993, incluída pela Lei n. 12.317/2010, que versa sobre a redução da jornada de trabalho para 30 horas semanais relativa à carreira de assistente social, vincula apenas os empregados submetidos à Consolidação das Leis Trabalhistas - CLT, não se aplicando ao regime jurídico estatutário.
+2. Agravo interno a que se nega provimento
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por [NOME] desafiando decisão de fls. 356/359, que deu provimento ao recurso especial da Universidade Federal de Santa Catarina, em razão do acórdão recorrido estar em dissonância com a jurisprudência desta Corte Superior, no que se refere à aplicação do art. 5º-A da Lei nº 8.662/1993 à carreira de assistente social.
+Em suas razões, a parte agravante sustenta a incidência das súmulas 283/STF, 5 e 7/STJ ao recurso da parte ora agravada. Alega que não foi impugnado o fundamento segundo o qual "pelo princípio da vinculação às regras do Edital que previa, expressamente, a jornada de 30 horas semanais" (fl. 363), bem como que tendo o Tribunal de origem decidido pela aplicação das regras do edital ao caso "Concluir de modo diverso ao acórdão recorrido demandaria o reexame do conjunto fático-probatório e da análise das cláusulas editalícias, o que é inviável em sede de Recurso Especial" (fl. 364).
+No mais, afirma que "não há qualquer afronta ao art.19 da Lei 8.112/90, pois o mesmo prevê jornada mínima de 6 horas diárias e máxima de 8 horas para servidores federais e, a jornada de 30 horas prevista no edital ora em comento é absolutamente compatível com o citado artigo" (fl. 365)
+Não houve manifestação da parte agravada.
+É o relatório
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+De início, comporta consignar a não incidência das Súmula 283/STF e 5 e 7/STJ ao recurso especial da parte ora agravada, em razão da inexistência de fundamento do acórdão recorrido não impugnado, bem assim a circunstância de que o exame da controvérsia, tal como decidida pelo Tribunal de origem, prescindir de novo exame de matéria fática e da análise de cláusulas de edital.
+Ademais, como antes asseverado, o entendimento desta Corte Superior é no sentido de que a norma inserta no art. 5º-A da Lei n. 8.662/1993, incluída pela Lei n. 12.317/2010, que versa sobre a redução da jornada de trabalho para 30 horas semanais relativa à carreira de assistente social, vincula apenas os empregados submetidos à Consolidação das Leis Trabalhistas - CLT, não se aplicando ao regime jurídico estatutário.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SERVIDORA PÚBLICA ESTADUAL. ASSISTENTE SOCIAL. REDUÇÃO DA JORNADA DE TRABALHO. LEI 12.317/10. INAPLICABILIDADE. REGRAS APLICADAS EXCLUSIVAMENTE AOS EMPREGADOS REGIDOS PELA CLT. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido está em confronto com orientação desta Corte, segundo a qual a norma do art. 5-A da Lei n. 8662/93, que trata da jornada de trabalho de 30 horas semanais para os profissionais da área de assistência social, vincula apenas os empregados submetidos à Consolidação da Leis do Trabalho e não aos servidores vinculados a regimes estatutários.
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno improvido.
+(AgInt no REsp 1635628/MT, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 18/5/2017, DJe 24/5/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDORA PÚBLICA ESTADUAL. ASSISTENTE SOCIAL. REDUÇÃO DA JORNADA DE TRABALHO. LEI 12.317/2010. INAPLICABILIDADE. REGRAS APLICADAS EXCLUSIVAMENTE AOS EMPREGADOS REGIDOS PELA CLT. RECURSO ESPECIAL DO ESTADO DE MATO GROSSO PROVIDO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão monocrática publicada em 15/09/2016, que, por sua vez, dera provimento ao Recurso Especial interposto contra acórdão publicado na vigência do novo CPC.
+II. Na origem, trata-se de Mandado de Segurança, com pedido de liminar, impetrado contra ato omissivo do Secretário de Saúde do Estado de Mato Grosso, que deixou de reduzir a jornada de trabalho da impetrante a 30 (trinta) horas semanais, sem a redução de seus vencimentos, conforme determina a Lei 12.317/2010.
+III. Consoante pacífica jurisprudência desta Corte, a norma inserta no art. 5º-A da Lei 8.662/93, incluído pela Lei 12.317/2010, que versa sobre a redução da jornada de trabalho de 40 (quarenta) para 30 (trinta) horas semanais, aplicada à carreira de Assistente Social, vincula apenas os empregados regidos pela Consolidação das Leis do Trabalho, e não pelos demais regimes jurídicos estatutários. Nesse sentido: STJ, AgRg no REsp 1.571.655/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/09/2016; AgInt nos EDcl no REsp 1.466.316/MT, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/09/2016; AgRg nos EDcl no AREsp 637.721/MT, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 09/11/2015; AgRg no REsp 1.480.208/PB, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 06/11/2015; RMS 35.196/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 19/12/2011.
+IV. Agravo interno improvido.
+(AgInt no REsp 1620796/MT, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 7/2/2017, DJe 15/2/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 02/STJ. SERVIDOR PÚBLICO FEDERAL. ASSISTENTE SOCIAL. PRETENSÃO DE APLICAÇÃO DA LEI 12.317/2010. VÍNCULO ESTATUTÁRIO. REGRA RESTRITA AOS EMPREGADOS SUBMETIDOS À CLT. PRECEDENTES.
+1. "A norma inserta no art. 5-A da Lei 8.662/93, incluído pela Lei 12.317/10, que versa sobre a redução da jornada de trabalho para 30 horas semanais aplicada à carreira de assistente social, vincula apenas os empregados submetidos à Consolidação das Leis Trabalhistas e não aos demais regimes jurídicos estatutários".
+Precedentes.
+2. Agravo interno não provido.
+(AgRg no REsp 1571655/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/9/2016, DJe 28/9/2016).
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
