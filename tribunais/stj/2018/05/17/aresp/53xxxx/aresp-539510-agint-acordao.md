@@ -1,0 +1,70 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. MONITÓRIA. CERCEAMENTO DE DEFESA. REEXAME DE MATÉRIA DE FATO.
+1. Segundo a jurisprudência do STJ, "a prova hábil a instruir a ação monitória, isto é, apta a ensejar a determinação da expedição do mandado monitório - a que alude os artigos 1.102-A do CPC/1.973 e 700 do CPC/2.015 -, precisa demonstrar a existência da obrigação, devendo o documento ser escrito e suficiente para, efetivamente, influir na convicção do magistrado acerca do direito alegado, não sendo necessário prova robusta, estreme de dúvida, mas sim documento idôneo que permita juízo de probabilidade do direito afirmado pelo autor" (REsp 1381603/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/10/2016, DJe 11/11/2016).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso dos autos, a análise de suposto cerceamento de defesa demandaria revolvimento de matéria de fato, tendo em vista que o Tribunal de origem considerou suficiente a prova apresentada, para reconhecer a inexistência da relação jurídica e do débito que sustentariam a pretensão monitória fundada na duplicata.
+4. Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor dos honorários advocatícios arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+5. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 262/265), interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a agravante sustenta que a matéria debatida no recurso é exclusivamente de direito, "mais precisamente os requisitos para a propositura da ação monitória e a possibilidade de produção de provas" (e-STJ fl. 264).
+Afirma que "encartou nos autos a documentação exigida para a propositura da ação monitória e compreende que o direito de produzir provas deve ser concedido" (e-STJ fl. 265).
+Aponta ainda ofensa ao art. 20, § 4º, do CPC/1973, alegando que os honorários advocatícios, arbitrados em R$ 2.000,00 (dois mil reais), são excessivos.
+Ao final, pede o provimento do recurso.
+A agravada não apresentou contrarrazões (e-STJ fl. 269).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. MONITÓRIA. CERCEAMENTO DE DEFESA. REEXAME DE MATÉRIA DE FATO.
+1. Segundo a jurisprudência do STJ, "a prova hábil a instruir a ação monitória, isto é, apta a ensejar a determinação da expedição do mandado monitório - a que alude os artigos 1.102-A do CPC/1.973 e 700 do CPC/2.015 -, precisa demonstrar a existência da obrigação, devendo o documento ser escrito e suficiente para, efetivamente, influir na convicção do magistrado acerca do direito alegado, não sendo necessário prova robusta, estreme de dúvida, mas sim documento idôneo que permita juízo de probabilidade do direito afirmado pelo autor" (REsp 1381603/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/10/2016, DJe 11/11/2016).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso dos autos, a análise de suposto cerceamento de defesa demandaria revolvimento de matéria de fato, tendo em vista que o Tribunal de origem considerou suficiente a prova apresentada, para reconhecer a inexistência da relação jurídica e do débito que sustentariam a pretensão monitória fundada na duplicata.
+4. Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor dos honorários advocatícios arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+5. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 258/259):
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados e (b) aplicação da Súmula n. 7 do STJ (e-STJ fls. 235/236).
+O TJSP negou provimento ao agravo regimental em acórdão assim ementado (e-STJ fl. 215):
+"Embargos de declaração. Omissão e contradição. Cerceamento de defesa. Vícios inexistentes. Duplicata é título causal. Relação jurídica subjacente não demonstrada. Título não constituído. Ônus do embargante que deveria ter se desincumbido na inicial. Acórdão que não reconheceu a exigibilidade no título. Afastada a infringência pretendida. Precedente do STJ. Prequestionamento pretendido. Desnecessidade de menção a dispositivos legais tidos por violados. Precedentes jurisprudenciais. Negado seguimento ao recurso, por decisão monocrática. Agravo regimental. Decisão mantida. Recurso desprovido."
+Nas razões do recurso especial (e-STJ fls. 222/229), interposto com base no art. 105, III, "a", da CF, a recorrente endossatária sustentou violação dos arts. 332, 333, I, e 1.102-A do CPC/1973, pois seria possível, na ação monitória, provar, por todos os meios legalmente previstos, a efetiva prestação de serviço ou a venda de produtos, demonstrando ser devida a duplicata.
+Não foram oferecidas contrarrazões (e-STJ fl. 234).
+No agravo (e-STJ fls. 239/244), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 247/250).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O Tribunal local assentou que a recorrente não comprovou, na ação monitória, a relação jurídica subjacente, relativa à prestação de serviço ou à venda de produtos, essencial à constituição e à exigibilidade da duplicata, título de natureza causal. Reconheceu que não havia nos autos relação jurídica ou débito que sustentassem o título, motivo por que não haveria cerceamento de defesa ao não serem requisitadas mais provas (e-STJ fl. 217).
+Rever tais conclusões demandaria nova incursão no conjunto probatório dos autos, providência vedada na instância especial, a teor da Súmula n. 7 do STJ. A propósito:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PROTESTO. DUPLICATA SEM ACEITE. NÃO COMPROVAÇÃO DE PRESTAÇÃO DO SERVIÇO PELO SACADOR. INEXIGIBILIDADE DO TÍTULO. REEXAME. SÚMULA 7/STJ.
+1. Os reconhecimentos dos pedidos de sustação de protesto e de inexigibilidade de duplicatas sem aceite realizados nas instâncias ordinárias, em razão de inexistência de prova da prestação de serviço, somente podem ser afastados com reexame do conjunto probatório, impossível no âmbito estreito do recurso especial, conforme enunciado 7 da Súmula desta Corte.
+2. Agravo regimental a que se nega provimento."
+(AgRg no AREsp n. 445.473/SP, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 5/2/2015, DJe 18/2/2015.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+A jurisprudência do STJ firmou-se no sentido de considerar que "a prova apta a ensejar a determinação da expedição do mandado monitório - a que alude os artigos 1.102-A do CPC/1.973 e 700 do CPC/2.015 -, precisa demonstrar a existência da obrigação, devendo o documento ser escrito e suficiente, para, efetivamente, influir na convicção do magistrado acerca do direito alegado, não sendo necessário prova robusta, estreme de dúvida, mas sim documento idôneo que permita juízo de probabilidade do direito afirmado pelo autor". Confira-se:
+RECURSO ESPECIAL. AÇÃO MONITÓRIA. PROVA ESCRITA. JUÍZO DE PROBABILIDADE. CORRESPONDÊNCIA ELETRÔNICA. E-MAIL. DOCUMENTO HÁBIL A COMPROVAR A RELAÇÃO CONTRATUAL E A EXISTÊNCIA DE DÍVIDA.
+1. A prova hábil a instruir a ação monitória, isto é, apta a ensejar a determinação da expedição do mandado monitório - a que alude os artigos 1.102-A do CPC/1.973 e 700 do CPC/2.015 -, precisa demonstrar a existência da obrigação, devendo o documento ser escrito e suficiente para, efetivamente, influir na convicção do magistrado acerca do direito alegado, não sendo necessário prova robusta, estreme de dúvida, mas sim documento idôneo que permita juízo de probabilidade do direito afirmado pelo autor.
+2. O correio eletrônico (e-mail) pode fundamentar a pretensão monitória, desde que o juízo se convença da verossimilhança das alegações e da idoneidade das declarações, possibilitando ao réu impugnar-lhe pela via processual adequada.
+3. O exame sobre a validade, ou não, da correspondência eletrônica (e-mail) deverá ser aferida no caso concreto, juntamente com os demais elementos de prova trazidos pela parte autora.
+4. Recurso especial não provido.
+(REsp 1381603/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/10/2016, DJe 11/11/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. REEXAME DE PROVAS. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO INDICAÇÃO DE OFENSA AO ART. 535 DO CPC. SÚMULA 211/STJ. PROCEDIMENTO MONITÓRIO. NOTA FISCAL ACOMPANHADA DO INSTRUMENTO DE PROTESTO E RESPECTIVOS COMPROVANTES DE ENTREGA DAS MERCADORIAS. VALIDADE. SÚMULA 83/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, atacar a conclusão da origem e analisar a necessidade de produção de prova já julgada como prescindível pelo Tribunal de origem e que o seu indeferimento não acarretou cerceamento de defesa, implicaria o reexame do conjunto fático-probatório dos autos, o que é obstado em recurso especial, ante o disposto na Súmula 7/STJ.
+2. Constatada a falta de enfrentamento da matéria pelo Tribunal a quo, tem-se por ausente o necessário prequestionamento, de forma que incide, na espécie, a Súmula 211/STJ, pois ausente a indicação de ofensa ao art. 535 do CPC.
+3. A ação monitória não necessita ser instruída com prova robusta, estreme de dúvida, podendo ser embasada em documento idôneo, mesmo que emitido pelo próprio credor, desde que se possa constatar segura probabilidade acerca do direito afirmado pelo autor. Assim, possível sua instrução com a nota fiscal do negócio de compra e venda de mercadorias, seguida do comprovante de entrega assinado e mais o protesto das duplicatas, que ficaram inadimplidas. Precedentes. Acórdão recorrido em harmonia com a jurisprudência desta Corte. Súmula 83/STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 643.786/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 16/11/2015)
+No caso dos autos, o Tribunal de origem assim se manifestou sobre a documentação usada para instruir a ação monitória (e-STJ fls. 216/217):
+Faltou a embargante com o ônus inicial que lhe cabia de apresentar o conjunto completo de fatos necessários a demonstrar a prestação de serviço ou a venda dos produtos, referentes ao título protestado.
+Por demais, a forma jurídica causal da duplicata é matéria de direito. A verificação da relação jurídica subjacente ao negócio creditício não correspondente à mera composição de contexto fático, mas à própria constituição do título. Sendo assim, a falta de provas não é o fundamento da decisão, mas o que engendra a não constituição do título e a não exigibilidade do débito.
+Não havendo a embargante se desincumbido de seu ônus probatório no momento em que defendia a validade do título, e não havendo o d. Juiz requisitado demais provas, não há que se falar em cerceamento de defesa quando tudo o que fez o v. Acórdão foi verificar que não havia, nos autos, relação jurídica e nem débito que sustentassem a duplicata.
+A análise do suposto cerceamento de defesa demandaria revolvimento de matéria de fato, tendo em vista que o Tribunal de origem considerou suficiente a prova apresentada, para reconhecer a inexistência da relação jurídica e do débito que sustentariam a pretensão monitória fundada na duplicata. Dessa forma, inafastável a incidência da Súmula n. 7/STJ.
+Por fim, o reexame dos critérios fáticos, sopesados de forma equitativa para a fixação dos honorários advocatícios, revela-se, em princípio, inviável no âmbito do recurso especial, devido à vedação da Súmula n. 7/STJ (AgRg no AREsp n. 766.159/MS, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 2/6/2016, DJe 9/6/2016 e AgInt no AREsp n. 895.899/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+Excepcionalmente, porém, autoriza-se a modificação do valor da verba honorária, quando irrisório ou abusivo o montante fixado (REsp n. 1.601.556/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 7/6/2016, DJe 20/6/2016, e AgRg no AREspn. 129.309/PI, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/5/2016, DJe 3/6/2016).
+No caso dos autos, o valor estabelecido pelas instâncias de origem não enseja a intervenção do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
