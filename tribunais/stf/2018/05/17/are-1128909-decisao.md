@@ -1,0 +1,19 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Estado do Paraná contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “APELAÇÃO CÍVEL – MANDADO DE SEGURANÇA, COM PEDIDO DE LIMINAR – ORDEM DENEGADA – CONCURSO PÚBLICO PARA PREENCHIMENTO DE VAGAS DO QUADRO DE SAÚDE DA POLÍCIA MILITAR DO ESTADO DO PARANÁ – EDITAL Nº 073/2010 – CRS – EXAME DE CAPACIDADE FÍSICA – REGRAS PREVENDO PONTUAÇÃO MÍNIMA PARA OS CANDIDATOS – DIFERENCIAÇÃO ENTRE SEXO MASCULINO E FEMININO E COM MENOS OU MAIS DE TRINTA ANOS – TRAÇÃO NA BARRA FIXA – EXIGÊNCIA DE FORÇA MUSCULAR – FALTA DE RAZOABILIDADE PARA CAPACITAÇÃO DE CANDIDATO AO CARGO DE MÉDICO – OFICIAL NÃO COMBATENTE – PONTUAÇÃO ZERO PARA A GRANDE MAIORIA DAS CANDIDATAS (SEXO FEMININO) – ATO COATOR ARBITRÁRIO E ABUSIVO – CONSTATAÇÃO – CONCESSÃO DA SEGURANÇA ALMEJADA – SENTENÇA REFORMADA – RECURSO PROVIDO.
+    No caso, as atribuições a ser desempenhadas não são propriamente aquelas típicas do serviço militar. Cuida-se de vaga relacionada à área de saúde (cargo de médico, em diversas especialidades), reclamando formação específica para o seu desempenho. Pelo que, não se revela razoável ou proporcional a exigência de exercício físico, eliminatório, para apurar força muscular, notadamente de candidatas, assim também, por fazer distinção entre os resultados alcançados por homens, mulheres, com menos ou mais de 30 anos.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se processualmente inviável, eis que se insurge contra acórdão que decidiu a causa em estrita conformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+    Com efeito, a controvérsia jurídica objeto deste processo já foi dirimida por ambas as Turmas do Supremo Tribunal Federal (ARE 927.803-AgR/RO, Rel. Min. ROBERTO BARROSO, v.g.):
+    “CONCURSO PÚBLICO – PROVA DE ESFORÇO FÍSICO. Caso a caso, há de perquirir-se a sintonia da exigência, no que implica fator de tratamento diferenciado, com a função a ser exercida. Não se tem como constitucional a exigência de prova física desproporcional à cabível habilitação aos cargos de escrivão, papiloscopista, perito criminal e perito médico-legista de Polícia Civil.”
+    (RE 505.654-AgR/DF, Rel. Min. MARCO AURÉLIO)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONCURSO PÚBLICO. PROVA FÍSICA. LEGALIDADE, RAZOABILIDADE E PROPORCIONALIDADE. PRECEDENTES.
+    1. Na esteira da jurisprudência do Supremo Tribunal Federal, os requisitos que restrinjam o acesso a cargos públicos apenas se legitimam quando em conformidade com o princípio da legalidade e estritamente relacionados à natureza e às atribuições inerentes ao cargo público a ser provido.
+    2. Agravo regimental desprovido.”
+    (RE 598.969-AgR/SE, Rel. Min. AYRES BRITTO)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 17 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
