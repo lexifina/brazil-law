@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CULPABILIDADE. ART. 1º, INCISO I, DO DECRETO-LEI N. 201/1967. CONDIÇÃO DE PREFEITO. INERENTE AO TIPO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A culpabilidade não deve ser considerada como circunstância judicial negativa ao agravado, porquanto a condição de Prefeito Municipal é inerente aos crimes previstos no Decreto-Lei n. 201/1967, de modo que qualquer consideração deste fator para a elevação da pena seria ilegal por ensejar em manifesto bis in idem.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (Relator):
+Trata-se de agravo regimental interposto contra decisão de fls. 820/823, em que acolhi parcialmente os embargos de declaração para afastar a valoração negativa da circunstância judicial da culpabilidade.
+O Ministério Público Federal sustenta que inexiste qualquer ilegalidade na pena fixada pelas instâncias ordinárias, porquanto o Magistrado não considerou somente o fato do agravado ser Prefeito Municipal, mas de ser gestor de um município carente de recursos e que o dinheiro desviado era de saneamento básico à comunidade pobre.
+Pleiteia, assim, a reforma da decisão de fls. 820/823, restabelecendo a condenação de segunda instância.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (Relator):
+O recurso não merece provimento.
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático.
+A circunstância judicial atinente à culpabilidade foi valorada negativamente, mediante fundamentação que ora se destaca (fl. 474):
+(..) a culpabilidade, entendida como reprovação social da conduta, mostra-se desfavorável, pois sendo o réu Prefeito tem o dever legal de administrar as verbas públicas em proveito da população e não de desviá-las em proveito próprio ou de terceiro ou ainda de aplicá-las indevidamente à revelia das disposições legais, causando comportamento que causa repulsa social, mormente em municípios de reduzido poder econômico (..)
+A culpabilidade não deve ser considerada como circunstância judicial negativa ao agravado, porquanto a condição de Prefeito Municipal é inerente aos crimes previstos no Decreto-Lei n. 201/1967, de modo que qualquer consideração deste fator para a elevação da pena seria ilegal por ensejar em manifesto bis in idem.
+A propósito, colacionam-se os seguintes precedentes:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. DOSIMETRIA. ART. 1º, INCISO I, DO DECRETO-LEI N.º 201/1967. EXASPERAÇÃO DA PENA-BASE QUANTO À CULPABILIDADE, PERSONALIDADE E CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO INIDÔNEA. ELEMENTOS INERENTES AO TIPO PENAL. MANTIDA A NEGATIVAÇÃO DAS CONSEQUÊNCIAS DO DELITO. PREJUÍZO RELEVANTE AO ERÁRIO. REDIMENSIONAMENTO DA PENA-BASE. REGIME INICIAL SEMIABERTO MANTIDO. SUBSTITUIÇÃO DA PRISÃO POR RESTRITIVAS DE DIREITO. POSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+III - Na hipótese, a culpabilidade do agente foi valorada negativamente em função de haver o paciente atentado contra os deveres do administrador; as circunstâncias do crime, porque o paciente teria se aproveitado das facilidades advindas da sua condição de Prefeito Municipal para cometer o delito; e a personalidade em razão de o paciente, enquanto Prefeito Municipal, haver traído a confiança dos seus eleitores. Tais circunstâncias, a meu ver, não extrapolam os elementos ínsitos ao crime de responsabilidade previsto no art. 1º, inciso I, do Decreto-Lei n.º 201/1967. Habeas corpus não conhecido. Ordem concedida de ofício. (HC 394.955/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/06/2017, DJe 30/06/2017 - Grifo Nosso).
+HABEAS CORPUS. CRIME PRATICADO POR PREFEITO MUNICIPAL. DESVIO DE VERBAS EM PROVEITO PRÓPRIO OU ALHEIO (ART. 1º, I, DO DECRETO-LEI N. 201/1967). WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. VERIFICAÇÃO DE EVENTUAL COAÇÃO ILEGAL À LIBERDADE DE LOCOMOÇÃO. VIABILIDADE. DOSIMETRIA DA PENA. CONSIDERAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS JUDICIAIS DA CULPABILIDADE, PERSONALIDADE E CONSEQUÊNCIAS DO CRIME. AUSÊNCIA DE DEMONSTRAÇÃO DE ELEMENTO CONCRETO EM RELAÇÃO À PERSONALIDADE. REFERÊNCIAS A CIRCUNSTÂNCIAS INERENTES AO PRÓPRIO TIPO PENAL, COMO A CONDIÇÃO DE PREFEITO MUNICIPAL DO ACUSADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+(..)
+4. Evidenciado que o magistrado singular não logrou fundamentar concretamente a circunstância judicial da personalidade, tendo se limitado a referências a respeito da condição do paciente de gestor municipal, inerente ao próprio tipo penal, mostra-se ilegal o aumento da pena-base com supedâneo nesse argumento. 5. Writ não conhecido. Ordem de habeas corpus concedida de ofício, para reduzir a pena-base imposta ao paciente, resultando a reprimenda definitiva em 4 anos e 8 meses de reclusão, no regime inicial semiaberto. (HC 307.665/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/02/2015, DJe 20/02/2015 - Grifo Nosso).
+RECURSOS ESPECIAIS. PROCESSUAL PENAL E PENAL. ART. 1º, I, DO DECRETO-LEI N. 201/1967. NORMA CONSTITUCIONAL. OFENSA. DISCUSSÃO. VIA INADEQUADA. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL. SÚMULA 284/STF. SIMILITUDE FÁTICA NÃO DEMONSTRADA. GANÂNCIA. QUEBRA DE CONFIANÇA. EXERCÍCIO DO CARGO DE PREFEITO. PREMEDITAÇÃO. ELEMENTARES DO TIPO PENAL. CIRCUNSTÂNCIAS DO CRIME. NEGATIVAÇÃO. CARÊNCIA DE FUNDAMENTAÇÃO CONCRETA. ACÓRDÃO RECORRIDO. APELAÇÃO EXCLUSIVA DA DEFESA. INCLUSÃO DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. REFORMATIO IN PEJUS. CARACTERIZAÇÃO. CONSEQUÊNCIAS DO CRIME. NEGATIVAÇÃO. FUNDAMENTAÇÃO IDÔNEA QUE AUTORIZA A MAJORAÇÃO DA PENA-BASE. EXTINÇÃO PARCIAL DA PUNIBILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA.
+(..)
+5. A condição de prefeito e a quebra de confiança em relação ao mandato a ele conferido pelo povo são inerentes aos crimes previstos no Decreto-Lei n. 201/1967. De igual maneira, a premeditação é inerente à conduta de desviar bens ou rendas públicas em proveito próprio ou alheio, prevista no art. 1º, I, do referido diploma legal, pela qual houve a condenação, no caso concreto. Por isso, não autorizam a negativação da culpabilidade.
+(..)
+(REsp 1339141/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/11/2014, DJe 10/12/2014 - Grifo Nosso).
+O fato do desvio da verba pública ter trazido prejuízo ao pequeno município, privando a população carente de saneamento básico, foi destacado para negativação da circunstância judicial atinente às consequências do crime, conforme trecho da sentença condenatória, mantida pelo Tribunal de origem (fls. 474/475):
+(..) as conseqüências são igualmente desfavoráveis, pois a destinação diversa da legalmente prevista aos recursos privou a população carente de saneamento básico, no âmbito do direito social assegurado na constituição (..)
+Dessa forma, valorar negativamente a circunstância judicial da culpabilidade, conforme requer o agravante, ocasionaria bis in idem.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
