@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NECESSIDADE DE REEXAME DE CLÁUSULAS CONTRATUAIS E PROVAS. SÚMULA N. 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições deve ser afastada a alegada ofensa ao artigo 1.022 do Código de Processo Civil.
+2. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento
+3. Recurso especial cuja pretensão demanda reexame de cláusulas contratuais e de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno manifestado em face da decisão de fls. 506/509 e-STJ, que negou provimento ao agravo em recurso especial.
+A recorrente sustenta que os verbetes sumulares n. 5 e 7/STJ não constituem obstáculo ao conhecimento do recurso especial.
+A parte agravada ofereceu impugnação às fls. 526/528 e-STJ.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): A decisão recorrida julgou agravo manifestado da decisão que negou seguimento ao recurso especial interposto contra o acórdão assim ementado:
+CERCEAMENTO DE DEFESA - Inocorrência - Elementos dos autos que são suficientes para a análise de todas as questões postas pelas partes - Instrução probatória que se destina ao convencimento do juiz, cabendo-lhe decidir sobre a pertinência e utilidade da sua produção - PRELIMINAR REJEITADA. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO - DUPLICATA - Compra e venda de tecidos - Recebimento das mercadorias, que não foi objetado pela autora adquirente - Conjunto probatório que evidencia regular entrega da mercadoria, nos moldes contratados - Título que se apresenta exigível - Protesto válido - Sentença de improcedência mantida. RECURSO DESPROVIDO NESTE TÓPICO. HONORÁRIOS DE ADVOGADO - Diante da ausência de condenação, não se há falar em vinculação entre o valor da causa e o valor dos honorários advocatícios, devendo ser aplicado o critério de equidade previsto no § 4º, do art. 20, do CPC, atentando-se para o disposto nas alíneas "a", "b", e "c" do § 3º, do mesmo dispositivo legal - Verba honorária reduzida para R$ 4.000,00 - RECURSO PROVIDO NESTE TÓPICO.
+Argumentou a parte recorrente, ora agravante, que o acórdão estadual é omisso; a negativa de produção de prova pericial e testemunhal cerceou seu direito de defesa; a sentença é nula por ausência de fundamentação; o produto efetivamente entregue pela agravada não condizia com as especificações necessárias do pedido, circunstância que se traduz na inexigibilidade das duplicatas.
+Relativamente à alegada violação ao art. 1.022 do Código de Processo Civil/2015, sem razão a recorrente, haja vista que enfrentadas todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Além disso, não prospera a pretensão de anular a sentença por ausência de fundamentação. A leitura da decisão revela que os motivos que levam à conclusão adotada na parte dispositiva estão presentes, de sorte que não se revela evidenciada a ofensa ao art. 458 do CPC/1973.
+Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS. FALHA NA PRESTAÇÃO DE SERVIÇOS. RESPONSABILIDADE SOLIDÁRIA DO ENGENHEIRO E DA EMPRESA CONTRATADA. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. AGRAVO REGIMENTAL IMPROVIDO.
+I - Examinados suficientemente todos os pontos controvertidos, não há falar-se em negativa de prestação jurisdicional.
+II - Se, diante da prova dos autos, as instâncias ordinárias concluem pela culpa do agravante e pelo nexo de causalidade, entender diversamente esbarra na Súmula/STJ.
+III - O Juiz é o destinatário da prova e a ele cabe decidir sobre o necessário à formação do próprio convencimento. Assim, a apuração da suficiência dos elementos probatórios que justificaram o julgamento antecipado da lide e/ou o indeferimento de prova oral demanda reexame provas, providência vedada em sede de recurso especial. Agravo regimental improvido". (AgRg no Ag 771.335/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 04/09/2008, DJe 23/09/2008)
+Quanto à entrega das mercadorias e consequente exigibilidade das duplicatas, o Tribunal de origem assim manifestou seu entendimento:
+Do que consta nos autos, a autora, fábrica de colchões, adquiriu tecidos fornecidos pela ré. No entanto, afirma que, ao receber as mercadorias, notou que o material entregue não correspondia ao que foi efetivamente contratado, motivo pelo qual deixou de efetuar o pagamento.
+Entretanto, o conjunto probatório dá conta da regular negociação entre as partes, não tendo a autora apresentado qualquer reclamação perante a ré, no que se refere a eventuais vícios nas mercadorias entregues.
+Como bem observado pela nobre Magistrada, Dra. [NOME]: "Com efeito, restou inequivocamente demonstrado pela documentação de fls. 145/172, não impugnada especificamente pela autora, que as mercadorias, objeto dos títulos protestados (duplicatas) foram efetivamente entregues, nas datas aprazadas, sem qualquer oposição da autora quando do recebimento dos tecidos. Ora, verificando a baixa qualidade do produto, deveria ter se
+acautelado em não recebê-lo e contra notificar a ré à substituí-los ou devolvê-los, ou ainda obter abatimento no preço, não havendo nenhuma comprovação documental de que as mercadorias estão viciadas, ônus do qual a autora não se desincumbiu" (fls. 196/197).
+Registre-se que os documentos acostados a fls. 145/172, comprovam a relação estabelecida entre as partes, com a efetiva entrega de todas as mercadorias relacionadas às notas fiscais emitidas.
+Cabe frisar que a duplicata é título causal decorrente da venda e compra de mercadorias ou prestação de serviços. Em decorrência dessa característica peculiar, é essencial a prova da efetiva entrega das mercadorias ou da prestação dos serviços, a fim de se demonstrar adequadamente a existência da relação creditícia.
+(..) Assim, tratando-se de título causal e demonstrado o negócio jurídico subjacente para sua emissão, não se há falar em declaração de inexigibilidade das duplicatas mercantis.
+Com efeito, a conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático e contratual dos autos, que se situa fora da esfera de atuação desta Corte, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
