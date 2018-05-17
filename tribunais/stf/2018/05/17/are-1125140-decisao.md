@@ -1,0 +1,29 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão ementado nos seguintes termos:
+    “RECURSO INOMINADO. PRIMEIRA TURMA RECURSAL DA FAZENDA PÚBLICA. SERVIDOR PÚBLICO ESTADUAL. CONTRATO TEMPORÁRIO. DEPÓSITO DE FGTS. VÍNCULO ADMINISTRATIVO. DIREITO NÃO EVIDENCIADO.
+    1. Trata-se de ação em que pretende a parte autora, que ocupava o cargo de agente educacional, seja determinado ao requerido o pagamento/depósito do FGTS em razão do rompido contrato emergencial de trabalho.
+    2. A parte demandante manteve-se vinculada aos quadros públicos por força de contrato temporário de trabalho. Tal figura encontra amparo no texto constitucional, restando enunciado no artigo 37, IX, da CRFB/88, que a lei estabelecerá os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público.
+    3. Aqui não há como se negar o vínculo administrativo-estatutário a que submetido a parte demandante, não havendo falar em contrato trabalhista, pelo que afastados os institutos que salvaguardam o labor regrado pela CLT.
+    4. Sentença de improcedência mantida por seus próprios fundamentos.
+    RECURSO INOMINADO DESPROVIDO” (pág. 14 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se violação aos arts. 7º, III; e 37, II, IX e §2º, da mesma carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque os dispositivos constitucionais suscitados, com exceção do art. 37, IX, da CF/1988, não foram objeto de consideração pelo acórdão recorrido. Desse modo, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário, dado que a questão constitucional arguida não foi apreciada no acórdão impugnado.
+    No mais, verifico que o Plenário desta Corte, no julgamento do mérito do RE 596.478/RR, julgado sob a sistemática da repercussão geral, apreciou a questão relativa à constitucionalidade do art. 19-A da Lei 8.036/90, acrescido pela Medida Provisória 2.164-41, que assegura o direito ao FGTS à pessoa contratada pela Administração Pública sem a prévia realização de concurso público. O Tribunal, por maioria, entendeu que ante o reconhecimento de nulidade da contratação sem a prévia realização de concurso público, faz-se necessário reconhecer a existência de efeitos jurídicos residuais, qual seja, a necessidade de recolhimento da verba trabalhista. O acórdão foi assim ementado:
+    “Recurso extraordinário. Direito Administrativo. Contrato nulo. Efeitos. Recolhimento do FGTS. Artigo 19-A da Lei nº 8.036/90. Constitucionalidade.
+    1. É constitucional o art. 19-A da Lei nº 8.036/90, o qual dispõe ser devido o depósito do Fundo de Garantia do Tempo de Serviço na conta de trabalhador cujo contrato com a Administração Pública seja declarado nulo por ausência de prévia aprovação em concurso público, desde que mantido o seu direito ao salário.
+    2. Mesmo quando reconhecida a nulidade da contratação do empregado público, nos termos do art. 37, § 2º, da Constituição Federal, subsiste o direito do trabalhador ao depósito do FGTS quando reconhecido ser devido o salário pelos serviços prestados.
+    3. Recurso extraordinário ao qual se nega provimento.” (RE 596.478/RR, Rel. Min. Ellen Gracie, Tribunal Pleno).
+    No caso dos autos, entretanto, o precedente citado não tem aplicação, uma vez que o Tribunal de origem afirmou a legalidade do contrato de trabalho, destacando-se do voto condutor do acórdão recorrido:
+    “[…]
+    Adentrando às razões de mérito, a questão é singela. A Parte Demandante manteve-se vinculada aos quadros públicos por força de contrato temporário de trabalho. Tal figura encontra amparo no texto constitucional, restando enunciado no artigo 37, IX, da CRFB/88, que a lei estabelecerá os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público.
+    Aqui não há como se negar o vínculo administrativo-estatutário a que submetido a Parte Demandante, não havendo falar em contrato trabalhista, pelo que afastados os institutos que salvaguardam o labor regrado pela CLT.” (pág. 16 do documento eletrônico 2).
+    Nesse contexto, para divergir do entendimento firmado pelo tribunal a quo , e analisar a nulidade, ou não, do contrato de trabalho para o fim almejado pela recorrente, seria necessário o reexame do conjunto fático-probatório dos autos e a análise da legislação infraconstitucional local aplicável à espécie, o que encontra óbice nas Súmulas 279 e 280 desta Corte. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTRATAÇÃO TEMPORÁRIA. PROFESSORES. LEI COMPLEMENTAR ESTADUAL Nº 87/2000. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. SÚMULA 280/STF.
+    Em casos análogos, a jurisprudência do Supremo Tribunal Federal afastou o cabimento de recurso extraordinário, tendo em vista depender o deslinde da controvérsia do exame prévio da legislação local aplicável à espécie (Súmula 280/STF). Precedentes.
+    Agravo regimental a que se nega provimento.” (AI 842.912-AgR/MS, Rel. Min. Roberto Barroso, Primeira Turma).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONTRATAÇÃO TEMPORÁRIA. EXCEPCIONAL INTERESSE PÚBLICO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 765.306-AgR/MG, Rel. Min. Cármen Lúcia, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% os honorários advocatícios anteriormente fixados pelo Juízo de origem, observados os limites do art. 85, § 2°, do CPC.
+    Publique-se.
+    Brasília, 17 de maio de 2018.
+Ministro Ricardo Lewandowski
+Relator
