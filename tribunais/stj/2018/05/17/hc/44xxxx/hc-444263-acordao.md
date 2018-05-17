@@ -1,0 +1,60 @@
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO TENTADO. CONCESSÃO DA LIBERDADE PROVISÓRIA MEDIANTE O PAGAMENTO DE FIANÇA. IMPOSSIBILIDADE DE ADIMPLEMENTO. CONSIDERÁVEL TEMPO DE PRISÃO APÓS A DECISÃO CONCESSIVA. HIPOSSUFICIÊNCIA VERIFICADA. CONSTRANGIMENTO ILEGAL CARACTERIZADO. ORDEM CONCEDIDA, RATIFICADA A LIMINAR.
+1. É cediço nesta Casa que o inadimplemento da fiança imposta, por si só, não é capaz de fundamentar a manutenção da custódia cautelar, devendo ser observado o que preconiza o art. 350 do Código de Processo Penal.
+2. Na espécie, o paciente permaneceu custodiado mesmo após a decisão concessiva da liberdade, em virtude de não ter condições de adimplir com o valor arbitrado a título de fiança, ante a sua hipossuficiência, o que se extrai do tempo que permaneceu no cárcere - não obstante a soltura condicional que lhe foi deferida.
+3. Habeas Corpus concedido, ratificada a liminar.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, conceder a ordem de habeas corpus, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de habeas corpus impetrado em benefício de JOSE RAIMUNDO CARDOSO CARVALHO, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se os autos que o paciente foi preso em flagrante pela suposta prática do crime de furto qualificado na forma tentada, ocorrido em 9 de março de 2018, tendo a autoridade judicial concedido a liberdade provisória mediante o pagamento de fiança, arbitrada em R$ 1.000,00 (mil reais).
+Contra essa decisão insurgiu-se a defesa.
+Entretanto, o Desembargador relator indeferiu o pedido liminar (e-STJ fls. 6/7).
+No Superior Tribunal de Justiça, sustenta a Defensoria Pública a ausência de fundamentos a lastrear o arbitramento da fiança ao caso concreto. Pondera ser o paciente pessoa pobre, incidindo, desse modo, o disposto no art. 325, § 1º, inciso I, bem como no art. 350, ambos do Código de Processo Penal. Destaca que o "fato de permanecer encarcerado há um mês sem recolher a fiança é indicativo bastante de probreza" (e-STJ fl. 3).
+Diante disso, pede, em tema liminar, possa o paciente aguardar em liberdade o julgamento definitivo do presente inconformismo. No mérito, busca seja dispensado o pagamento da fiança, autorizando-se que o paciente aguarde em liberdade o resultado do processo, com a expedição de alvará de soltura.
+Liminar deferida às e-STJ fls. 32/34 a fim de suspender a necessidade de recolhimento da fiança como condição para a soltura ordenada pelo Juízo de piso, até o julgamento definitivo deste writ.
+Prestadas as informações, o Ministério Público Federal opinou pela concessão da ordem (e-STJ fls. 59/63).
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Pois bem. O ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, antes da confirmação da condenação pelo Tribunal de Justiça, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+Considerando-se, ainda, que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente, bem como que a fundamentação das decisões do Poder Judiciário é condição absoluta de sua validade (Constituição da República, art. 5º, inciso LXI, e art. 93, inciso IX, respectivamente), há de se exigir que o decreto de prisão preventiva venha sempre concretamente motivado, não fundado em meras conjecturas.
+Na espécie, consoante consignado no relatório, o paciente foi preso em flagrante pela suposta prática do crime de furto qualificado tentado e, na audiência de custódia, foi-lhe concedida a liberdade provisória mediante o cumprimento de medidas cautelares, dentre elas o pagamento de fiança estipulada em R$ 1.000,00 (mil reais).
+Todavia, noticiou a impetração que o paciente permaneceu custodiado mesmo após a decisão concessiva da liberdade, em virtude de não ter condições de adimplir com o valor arbitrado à título de fiança, asseverando que "o fato de permanecer encarcerado há 1 mês sem recolher a fiança é indicativo bastante de pobreza" (e-STJ fl. 3).
+Mostra-se indene a dúvidas, portanto, que a decisão de origem, mantida pelo Tribunal a quo - ainda que em âmbito emergencial -, ocasionou inequívoco constrangimento ilegal ao paciente, uma vez que a prisão cautelar apenas perdurou em razão de o paciente não ter condições financeiras de pagar o valor da fiança estipulado na audiência de custódia.
+Importante destacar, consoante afirmado na impetração, que, de fato, nos moldes da jurisprudência desta Corte, o tempo decorrido desde o arbitramento da fiança, não obstante a soltura condicional deferida, sinaliza a impossibilidade de o preso arcar com a quantia estipulada bem como a sua hipossuficiência, sobretudo na hipótese de pessoa cuja defesa está sendo patrocinada pela Defensoria Pública, como ocorre no caso destes autos.
+Aliás, é cediço nesta Casa que o inadimplemento da fiança imposta, por si só, não é capaz de fundamentar a manutenção da custódia cautelar, devendo ser observado o que preconiza o art. 350 do Código de Processo Penal.
+Assim, considerando-se que a segregação antecipada somente persistiu em virtude do não pagamento da fiança, caracterizado está o constrangimento ilegal.
+A propósito:
+HABEAS CORPUS. FURTO QUALIFICADO. CONCESSÃO DA LIBERDADE PROVISÓRIA MEDIANTE O PAGAMENTO DE FIANÇA. IMPOSSIBILIDADE DE ADIMPLEMENTO. CONSIDERÁVEL TEMPO DE PRISÃO APÓS A DECISÃO CONCESSIVA. ADEMAIS, RÉU MORADOR DE RUA E VICIADO EM CRACK. HIPOSSUFICIÊNCIA VERIFICADA. CONSTRANGIMENTO ILEGAL CARACTERIZADO. ORDEM CONCEDIDA, RATIFICADA A LIMINAR.
+1. É cediço nesta Casa que o inadimplemento da fiança imposta, por si só, não é capaz de fundamentar a manutenção da custódia cautelar, devendo ser observado o que preconiza o art. 350 do Código de Processo Penal.
+2. Na espécie, o paciente permaneceu custodiado mesmo após a decisão concessiva da liberdade, em virtude de não ter condições de adimplir com o valor arbitrado à título de fiança, ante a sua hipossuficiência, o que se extrai da sua condição de morador de rua e de viciado em crack e do tempo que permaneceu no cárcere - não obstante a soltura condicional que lhe foi deferida.
+3. Habeas Corpus concedido, ratificada a liminar.
+(HC 419.161/SP, de minha relatoria, SEXTA TURMA, julgado em 01/03/2018, DJe 12/03/2018, grifei)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. SÚMULA 691/STF. MITIGAÇÃO. FLAGRANTE ILEGALIDADE. FURTO QUALIFICADO TENTADO. AFASTAMENTO DA FIANÇA ARBITRADA. POSSIBILIDADE. FUNDAMENTAÇÃO INSUFICIENTE. HIPOSSUFICIÊNCIA DO PACIENTE EVIDENCIADA PELO TEMPO DE PRISÃO CONCRETAMENTE CUMPRIDO. ILEGALIDADE. PRESENÇA. HABEAS CORPUS CONCEDIDO.
+1. O tempo de prisão concretamente cumprido desde o dia 19/11/2016 evidencia a impossibilidade de pagamento da fiança, sendo pacífica a jurisprudência desta Corte no sentido de que o inadimplemento da fiança arbitrada não pode, por si só, legitimar a custódia do paciente devendo ser observada a disciplina estatuída no art. 350 do CPP. Precedentes.
+2. Habeas corpus concedido, para a soltura do paciente, MATHEUS BATISTA [NOME], isentando-o do recolhimento da fiança, o que não impede nova e fundamentada decisão de necessária medida cautelar penal, inclusive menos grave que a prisão processual.
+(HC 385.337/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 04/05/2017, DJe 11/05/2017, grifei)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. FIANÇA. INCAPACIDADE DE PAGAMENTO. CONCRETA DEMONSTRAÇÃO PELO TEMPO DE PRISÃO. HABEAS CORPUS CONCEDIDO.
+1. O tempo decorrido de prisão, de mais de quatro meses, concretamente demonstra a incapacidade financeira para o pagamento da fiança e, não podendo a pobreza constituir-se obstáculo à liberdade, é substituída essa cautelar por medidas diversas de prevenção.
+2. Habeas corpus concedido, para soltura da paciente [NOME], o que não impede nova e fundamentada decisão cautelar penal, inclusive menos gravosa do que a prisão processual.
+(HC 370.812/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/03/2017, DJe 16/03/2017, grifei)
+HABEAS CORPUS SUBSTITUTIVO. ART. 54, § 2º, DA LEI N. 9.605/1998. AFASTAMENTO DA FIANÇA. HIPOSSUFICIÊNCIA DO PACIENTE. ORDEM CONCEDIDA.
+1. A fiança não pode servir como uma espécie de preço ou taxa que o indivíduo é instado a pagar como condição para responder ao processo em liberdade.
+2. Evidenciado que o paciente é hipossuficiente, visto que, por mais de quatro meses, permanece preso provisoriamente por não possuir meios para pagar a fiança, e que as outras medidas fixadas pelo Juiz, elencadas no art. 319, I e III, do CPP, são adequadas e suficientes para prover as exigências cautelares do caso concreto, deve ser reconhecida a ilegalidade.
+3. Ordem concedida para, confirmada a liminar, determinar que o paciente seja mantido em liberdade, independentemente do pagamento da fiança, mantidas as demais medidas alternativas fixadas no Juízo de origem.
+(HC 369.467/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/10/2016, DJe 27/10/2016, grifei)
+PROCESSO PENAL. HABEAS CORPUS. FURTO. FIANÇA NÃO PAGA. MANUTENÇÃO DA CUSTÓDIA. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ART. 312 DO CÓDIGO DE PROCESSO PENAL. FLAGRANTE ILEGALIDADE. OCORRÊNCIA. ORDEM CONCEDIDA.
+1. Com o advento da Lei n.º 12.403/11, externaram-se os comandos constitucionais que identificam na prisão provisória o caráter de ultima ratio.
+2. In casu, existe manifesta ilegalidade, na medida em que o paciente permanece custodiado única e exclusivamente em razão do não pagamento da fiança arbitrada no valor de R$ 1.500,00 (um mil e quinhentos reais).
+3. Afigura-se irrazoável manter o réu preso cautelarmente apenas em razão do não pagamento de fiança, especialmente quando se alega impossibilidade de fazê-lo e o juízo não apontou qualquer dado concreto que demonstre a necessidade da medida extrema.
+4. Note-se que o paciente é presumivelmente pobre, sendo caso de aplicação do disposto no art. 350 do Código de Processo Penal.
+5. Ordem concedida, confirmando a liminar deferida, a fim de garantir a liberdade provisória ao paciente, independentemente do pagamento de fiança, se por outro motivo não estiver preso, sem prejuízo de que o Juízo a quo, de maneira fundamentada, examine se é o caso de aplicar uma das medidas cautelares implementadas pela Lei n.º 12.403/11, ressalvada, inclusive, a possibilidade de decretação de nova prisão, caso demonstrada sua necessidade.
+(HC 353.167/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 07/06/2016, DJe 21/06/2016, grifei)
+Outro não foi o entendimento exarado pelo Ministério Público Federal. Eis a ementa do aludido parecer (e-STJ fl. 59):
+HABEAS CORPUS. CRIME DE FURTO QUALIFICADO NA FORMA TENTADA (ART. 155, CAPUT, CC. O ART. 14, II, AMBOS DO CP). PRISÃO EM FLAGRANTE. LIBERDADE PROVISÓRIA CONDICIONADA AO PAGAMENTO DE FIANÇA. WRIT AJUIZADO EM SEGUNDA INSTÂNCIA, BUSCANDO O DEFERIMENTO DO REFERIDO FAVOR LEGAL, COM DISPENSA DA FIANÇA ARBITRADA, EM RAZÃO DA CARÊNCIA FINANCEIRA DO ACUSADO. LIMINAR INDEFERIDA PELO DESEMBARGADOR RELATOR. HIPOSSUFICIÊNCIA DO ACUSADO. PARECER PELO CONHECIMENTO DO MANDAMUS E PELA CONCESSÃO DA LIBERDADE POSTULADA.
+À vista do exposto, ratifico a liminar e concedo a ordem a fim de afastar a fiança imposta pelo Juízo de primeiro grau como condição para a soltura do paciente na ação penal de que se cuida, sem prejuízo de que o Magistrado examine a necessidade de se aplicarem outras medidas cautelares previstas no art. 319 do Código de Processo Penal.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
