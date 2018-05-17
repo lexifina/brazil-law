@@ -1,0 +1,25 @@
+DECISÃO
+TÍTULO CONDENATÓRIO – SUSPENSÃO – RELEVÂNCIA NÃO DEMONSTRADA.
+TRÁFICO DE DROGAS – CAUSA DE DIMINUIÇÃO DA PENA – ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 – RELEVÂNCIA NÃO DEMONSTRADA.
+PENA – REGIME DE CUMPRIMENTO – CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS – ARTIGO 33, § 3º, DO CÓDIGO PENAL – OBSERVÂNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO PARCIAL.
+LIMINAR – EXTENSÃO – CORRÉUS.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Terceira Vara Criminal de Bauru/SP, no processo nº 0032677-21.2010.8.26.0071, absolveu o paciente da acusação de cometimento das infrações descritas nos artigos 33, cabeça (tráfico de drogas), e 35 (associação voltada ao tráfico) da Lei nº 11.343/2006, aludindo ao artigo 386, inciso VII, do Código de Processo Penal.
+    A Quarta Câmara Criminal do Tribunal de Justiça deu provimento à apelação interposta pelo Ministério Público para condenar o paciente e corréus a 5 anos de reclusão e 500 dias-multa, pela prática do crime de tráfico de drogas, e a 3 anos de reclusão e 700 dias-multa, considerado o delito de associação para esse fim. Ante o somatório das sanções, estabeleceu a pena em 8 anos de reclusão e 1.200 dias-multa. Definiu o regime inicial fechado. Na dosimetria, destacou favoráveis as circunstâncias judiciais para ambas as infrações. Impôs a pena-base, quanto ao tráfico, em 5 anos, mínimo previsto para o tipo. Adotou idêntica óptica no tocante à associação para o tráfico, fixando-a em 3 anos. Afirmou ausentes atenuantes e agravantes, bem assim causas de diminuição e aumento. Afastou a observância do artigo 33, § 4º, da Lei de regência, considerada a apreensão de certa quantidade e variedade de drogas e de balança, dizendo evidenciado não se tratar de traficante ocasional, e sim de pessoa que fez da atividade criminosa meio de vida. Determinou fosse expedido, transitada em julgado a condenação, o mandado de prisão.
+    Ante a inadmissão de recurso especial formalizado pela defesa, chegou-se ao Superior Tribunal de Justiça com o agravo nº 844.222. A Presidência, mediante decisão individual, inadmitiu-o. Protocolado agravo interno, a Quinta Turma desproveu-o. Operou-se a preclusão maior da decisão em 5 de dezembro de 2016.
+    Remetido o processo à origem, o Juízo expediu mandado de prisão, a fim de ver cumprido o acórdão do Tribunal estadual.
+    Impetrou-se, no Superior Tribunal de Justiça, habeas corpus – de nº 413.865. O Relator, monocraticamente, indeferiu a ordem.
+    A impetrante realça as condições subjetivas do paciente – primariedade, bons antecedentes, família constituída e atividade laboral lícita. Sustenta a pertinência da causa de diminuição de pena prevista no citado artigo 33, § 4º. Diz mostrar-se adequado garantir o direito à progressão de regime após o cumprimento de 1/6 da sanção, bem assim ao regime inicial semiaberto.
+    Requer, no campo precário e efêmero, a suspensão da execução da pena imposta, reconhecendo-se a incidência do artigo 33, § 4º, da Lei nº 11.343/2006, e, sucessivamente, a inclusão no regime semiaberto. No mérito, busca a confirmação da providência.
+    A fase é de apreciação da medida acauteladora.
+    2. A suspensão de título condenatório alcançado pela preclusão maior surge no âmbito da excepcionalidade. É indispensável haver quadro a retratar ilegalidade. No caso, relativamente à aplicação do artigo 33, § 4º, da Lei nº 11.343/2006, a negativa veiculada pelo Tribunal de origem foi fundamentada. A alusão à quantidade, à variedade de drogas e à dedicação a atividades ilícitas mostra-se conducente à inobservância da causa de diminuição.
+    Surge relevante o que articulado quanto ao pleito sucessivo, alusivo ao regime de cumprimento da pena. No acórdão condenatório, o Tribunal de Justiça, assentando favoráveis as circunstâncias judiciais do artigo 59 do Código Penal, veio a estabelecer, em relação aos tipos pelos quais condenado o paciente e corréus, a pena-base no mínimo legal. Fixou a sanção, no tocante ao delito do artigo 33 da Lei de Drogas, em 5 anos de reclusão e, relativamente ao do artigo 35, em 3. Ante o somatório – 8 anos de reclusão – impôs o regime inicial fechado.
+    Atentem para a disciplina legal referente à definição do regime inicial de cumprimento de pena. Norteia-o o patamar alusivo à condenação e as circunstâncias judiciais, considerado o artigo 33, § 3º, do Código Penal. Tendo em vista a sanção imposta – 8 anos de reclusão – e a inexistência de circunstâncias judiciais negativas, fica afastado, conforme versado no citado preceito, o regime fechado.
+    3. Defiro parcialmente a liminar, determinando, até o julgamento do mérito desta impetração, seja observado o regime semiaberto para cumprimento de pena, ou o aberto, caso o paciente já tenha sido beneficiado pela progressão.
+    4. Sendo idêntica a situação jurídica dos corréus Adelton Desan, Antônio Sérgio Alves e Vinícius Rafael Lourenço, estendo-lhes a medida acauteladora, consoante o disposto no artigo 580 do Código de Processo Penal.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 17 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
