@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de Recurso Extraordinário, com fundamento no art. 102, III, da Constituição Federal, contra decisão da 5ª Turma Recursal do Juizado Especial Federal do Rio Grande do Sul.
+    No apelo extremo, alega-se violação ao artigo 5º, incisos XXXII, XXXV e LV da Constituição Federal.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    Observe-se, ainda, que, mesmo a CORTE já tendo reconhecido, em processo distinto, a transcendência geral da matéria discutida, o recorrente não se exime de apresentar, formal e motivadamente, a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015), desde que a intimação da decisão que se pretende impugnar tenha ocorrido a partir de 3 de maio de 2007, data da publicação da Emenda Regimental 21, de 30 de abril de 2007 (AI 664.567-QO, Rel. Min. SEPÚLVEDA PERTENCE, Tribunal Pleno, DJe de 6/9/2007), como na presente hipótese.
+    Ademais, mesmo que fosse possível superar esse grave óbice, o apelo extraordinário não tem chances de êxito quanto à alegação de afronta ao artigo 5º, XXXV e LV, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Quanto ao mais, verifica-se que o Juízo a quo negou pedido de revisão das cláusulas do contrato bancário firmado entre as partes.
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à Constituição são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Ademais, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279: Para simples reexame de prova não cabe recurso extraordinário, e da Súmula 454: Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário, ambas desta CORTE.
+    Nesse sentido, cita-se o seguinte precedente:
+    “Agravo regimental e recurso extraordinário com agravo. 2. Direito do Consumidor. Revisão de contratos bancários. 3. Impossibilidade de análise de legislação infraconstitucional e de reexame do conjunto fático-probatório e de cláusulas contratuais. Súmulas 279 e 454 do Supremo Tribunal Federal. 4. Agravo regimental a que se nega provimento” (ARE 953845 AgR / MS, Rel. Min. GILMAR MENDES, Segunda Turma, Dje. 05-09-2017).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Publique-se.
+    Brasília, 17 de maio de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
