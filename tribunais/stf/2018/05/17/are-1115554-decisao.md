@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. A turma Recursal confirmou o entendimento do Juízo quanto à procedência do pedido de responsabilidade civil do Município pelo pagamento de indenização por danos morais em razão de acidente de trânsito, considerada a má conservação e manutenção da pista de rolamento. No extraordinário cujo processamento busca alcançar, o recorrente aponta a violação do artigo 37, § 6º, da Constituição Federal. Diz que o ato praticado por terceiro não tem o condão de responsabilizar o ente federado, sendo necessária a participação direta do Estado no evento danoso. Aduz haver o acórdão recorrido implicado culpa presumida.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Colho do acórdão recorrido os seguintes trechos:
+    Nesta senda, no caso em análise a responsabilidade do ente estatal é subjetiva, uma vez que o evento danoso é decorrente de uma conduta omissa da Administração Pública. Todavia, a culpa a ser demonstrada é a genérica ou anônima, em que basta a comprovação de que não houve o serviço, ou o serviço funcionou mal ou foi ineficiente.
+    Pelo entendimento exposto, o ente estatal só poderá vir a ser responsabilizado pelos danos se ficar provado que, por sua omissão ou atuação deficiente, concorreu decisivamente para o evento, deixando de realizar atos que razoavelmente lhe seriam exigíveis. Daí por que a jurisprudência mui acertadamente tem exigido a prova da culpa da Administração nos casos de depredação por multidões e de enchentes e vendavais que, superando os serviços existentes, causam danos aos particulares. Nessas hipóteses, a indenização pela Fazenda Pública só é devida se restar comprovada a culpa da Administração (Cf. CAVALIERI FILHO, Sérgio. Programa de Responsabilidade Civil. São Paulo: Malheiros Editores. 2006. P. 275).
+    No caso concreto, diante das fotos juntadas com a inicial, é clara a existência de negligência do Município, que descumpriu seu dever de zelo e conservação da rua, afetada por um buraco de dimensões consideráveis. [...]
+    3. Conheço do agravo e o desprovejo. Deixo de majorar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a fixação e referida verba, pelo Tribunal local, no patamar limite de 20% do valor da condenação.
+    4. Publiquem.
+Brasília, 17 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
