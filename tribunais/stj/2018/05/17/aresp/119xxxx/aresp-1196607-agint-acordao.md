@@ -1,0 +1,44 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANOS MORAIS E MATERIAIS. REVISÃO DO VALOR DA INDENIZAÇÃO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Rever o entendimento da instância ordinária, no tocante à responsabilidade do agravante e ao valor da indenização, implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, segundo preceitua a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado pelo Estado do Pará contra decisão que conheceu do agravo para não conhecer do recurso especial.
+O agravante alega que não incide a Súmula 7 do STJ no caso, porquanto foi utilizado como prova laudo pericial particular. Aduz, ainda, que tal documento não serve como elemento probatório.
+Afirma que não depende do reexame de provas a revisão do valor da indenização.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): O agravante não trouxe tese jurídica capaz de modificar o posicionamento anteriormente firmado.
+Com efeito, o Tribunal local, com base nas provas dos autos, concluiu pela caracterização de danos morais e pela validade da prova pericial produzida (e-STJ, fls. 309-311):
+Na situação em apreço, conforme bem observado pelo douto Procurador de Justiça, "o exame pericial realizado no projétil que atingiu a menor concluiu que o projétil encontrado no crânio da menor é compatível com o projétil utilizado pela pistola calibre 40, a qual é uma das armas de fogo utilizadas no stand de tiros do IESP (Instituto de Ensino de Segurança do Pará, vinculado à Secretaria de Segurança Pública do Estado do Pará)". Além disso, os laudos dos exames realizados no IML reforçam que o disparo foi efetuado de dentro do IESP, pois admitem a possibilidade dos projéteis ultrapassarem os limites do stand de tiro, caso não sejam observadas as regras de segurança durante os treinamentos.
+Sobre a nulidade da prova pericial, dos documentos colhidos durante a fase inquisitiva, do relatório do delegado e demais documentos existentes no inquérito policial por ausência de contraditório, sem razão o recorrente, pois o conteúdo de tais provas foi confirmado em Juízo com a produção de prova oral, além de não haver provas na fase judicial que desmerecessem aquelas existentes na fase inquisitiva.
+ ..
+As testemunhas arroladas foram uníssonas em afirmar que repetidas vezes houve casos de balas perdidas, as proximidades do local do incidente ocorrido com a apelada, sendo que o Estado do Pará, através do IESP, teve conhecimento desses fatos, mas não tomou nenhuma providência, para evitar um acidente, como o ocorrido com a menor, faltando com o dever constitucional de garantir segurança aos cidadãos (art. 144, CF/88), além de omissão, que deveras contribuiu para o acidente sofrido com a menor de apenas três anos de idade.
+Ressalte-se que o Laudo nº 107/2002, acostado às fIs. 37/38, apesar de atestar que as instalações do stand de tiros do IESP estão dentro das normas e padrões técnicos construtivos (item 1), não descartou a hipótese dos projéteis ultrapassarem os limites do stand se não forem seguidas as regras de segurança durante o treinamento, por vários fatores (item 2), bem como afirma haver possibilidade de um projétil desviar do alvo e sair das instalações do stand (item 5).
+Portanto, ficou perfeitamente explícito o nexo causal entre a omissão específica estatal e o dano ocasionado na menor, que, desta forma, faz jus a indenização por dano moral. (grifos acrescidos)
+Como se verifica, para que fosse possível a análise das pretensões recursais, seria imprescindível o reexame dos aspectos fático-probatórios constantes dos autos, o que é defeso em recurso especial, segundo preceitua a Súmula 7 desta Corte.
+A propósito:
+PROCESSUAL CIVIL. EMPRESA DE TELEFONIA. COBRANÇA DE VALORES INDEVIDOS EM CONTA TELEFÔNICA. REPETIÇÃO. ALEGAÇÃO DO DEVER DE INDENIZAR. DANOS MORAIS. REEXAME DE PROVAS. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça entende que "a inscrição indevida do nome do usuário de serviço público em cadastro de inadimplentes gera o direito à indenização independentemente da comprovação do dano moral. Essa solução, porém, não é a mesma aplicável à situação dos autos, em que inexiste qualquer ato restritivo de crédito, mas apenas falha na prestação ou cobrança do serviço. Nesse caso, conforme a regra geral, o dano moral deve ser demonstrado, não presumido" (AgRg no REsp 1.474.101/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 5/3/2015).
+2. Decidir de forma contrária ao que foi expressamente consignado no acórdão recorrido implicaria o necessário revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. A revisão da verba honorária implica, como regra, reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ). Excepciona-se apenas a hipótese de valor irrisório ou exorbitante, o que não se configura neste caso.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 737.784/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/10/2016, DJe 25/10/2016)
+De outro lado, no tocante à indenização, a instância ordinária fixou o valor de acordo com a gravidade do dano (e-STJ, fl. 312):
+Reconhecida a responsabilidade do ESTADO DO PARÁ, passa-se à análise do quantum indenizatório.
+É entendimento da Corte de Justiça de Santa Catarina: " ..  o valor arbitrado na indenização por dano moral deve ser moderada e eqüitativa, atendo-se às circunstâncias de cada caso. Contudo, ao fixar o quantum ressarcitório, respeitar-se-á o seu duplo efeito: ressarcitório e punitivo. A indenização não pode ser irrisória, de modo a estimular a reiteração da prática danosa" (Ap. cível n. 99.013263-3, Rel. Des. Wilson Augusto do Nascimento).
+O quantum arbitrado pelo Juízo de 1º grau (R$ 100.000,00 - cem mil reais) em relação aos danos morais, a meu ver, está compatível com os danos sofridos pela menor, principalmente pelas lesões e seqüelas, tais como: epilepsia, transtornos no desenvolvimento da fala e linguagem, conforme laudos e exames médicos acostados.
+O entendimento firmado por esta Corte de Justiça é no sentido de que é possível a revisão do quantum indenizatório quando este se mostrar exorbitante ou irrisório, o que não é o caso dos autos.
+Assim, para analisar-se a pretensão recursal, seria imprescindível o reexame das provas constantes dos autos, o que é defeso na via eleita, segundo preceitua a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Nessa linha:
+CONSUMIDOR. FORNECIMENTO DE ÁGUA. SUSPENSÃO COM AVISO PRÉVIO. DEMORA EXCESSIVA NO REABASTECIMENTO. EXCESSO DE PRAZO SEM PRESTAÇÃO DE ASSISTÊNCIA AO CONSUMIDOR. FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MORAL CONFIGURADO. MAJORAÇÃO DO QUANTUM FIXADO A TÍTULO INDENIZATÓRIO. INVIABILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. Trata-se, na origem, de Ação Ordinária em face da Companhia de Saneamento de Sergipe - DESO, objetivando a condenação da requerida ao pagamento de indenização por danos morais por ter havido interrupção do fornecimento de água por cinco dias, abstendo-se a empresa de prestar qualquer assistência aos consumidores.
+2. O Tribunal de origem consignou que, "considerando que a indenização contém caráter também punitivo, diante do volume de condenações, entendo razoável o importe de R$ 500,00 (quinhentos reais), pois o valor estipulado pelo magistrado do 1º grau oneraria excessivamente a empresa fornecedora (DESO), levando ainda em conta que o montante aqui especificado atende também ao caráter compensatório" (fl. 141, e-STJ).
+3. A jurisprudência do STJ somente admite a revisão, em Recurso Especial, do valor reparatório dos danos morais quando configurada hipótese de manifesta irrisoriedade ou de exorbitância.
+4. In casu, rever o entendimento de que o valor fixado mostra-se adequado para a compensação do abalo sofrido e o cumprimento das finalidades pedagógica e repressiva da punição demanda revolvimento fático-probatório, que encontra óbice na Súmula 7/STJ.
+5. Recurso Especial não provido.
+(REsp 1.529.820/SE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/6/2015, DJe 10/8/2015)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
