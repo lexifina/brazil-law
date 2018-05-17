@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, §4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+1. "A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada." (AgInt no AREsp 1140606/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/11/2017, DJe 13/11/2017)
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno desafiando decisão de fls. 101/103, que conheceu do agravo e deu parcial provimento ao recurso especial para afastar a multa imposta.
+Em suas razões, a parte recorrente sustenta a aplicabilidade da multa do art 1.021, §4º do CPC/2015 no caso, sob o argumento de que as alegações do agravo eram evidentemente improcedentes.
+Alega, ainda, que "avaliar se houve a manifesta inadmissibilidade ou improcedência do Agravo, seria necessário reanalisar o conjunto fático-probatório da demanda, situação essa que incidiria no óbice da sumula 7/STJ" (fl. 111)
+Não houve manifestação da parte agravada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como antes asseverado, segundo a orientação deste Egrégio Tribunal descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+Em reforço:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. LOCAÇÃO COMERCIAL. PRINCÍPIO DA ADSTRIÇÃO. AUSÊNCIA DE VIOLAÇÃO. CONCLUSÃO DO ACÓRDÃO PELA LEGITIMIDADE ATIVA AD CAUSAM DOS AUTORES. FALHA NA PRESTAÇÃO DE SERVIÇO DA CONCESSIONÁRIA DE ENERGIA ELÉTRICA. DANOS MATERIAIS CONFIGURADOS. REVER O JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PEDIDO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. DESCABIMENTO. AGRAVO INTERNO IMPROVIDO.
+1. O órgão julgador não violou os limites objetivos da pretensão, tampouco concedeu providência jurisdicional diversa do pedido formulado na inicial e em sua posterior emenda, respeitando, assim, o princípio processual da congruência.
+2. A alteração da premissa fática firmada pelo Tribunal de origem, quanto à legitimidade ativa dos ora agravados, demandaria inevitavelmente o revolvimento de todo o conjunto fático-probatório dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+4. Agravo interno improvido.
+(AgInt no AREsp 1140606/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/11/2017, DJe 13/11/2017)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt nos EREsp 1120356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016)
+Ressalta-se que, na hipótese destes autos, a verificação sobre a manifesta inadmissibilidade ou improcedência do recurso não demandou novo exame do acervo fático-probatório constante dos autos, não havendo falar na incidência da Súmula 7/STJ.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
