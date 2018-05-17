@@ -1,0 +1,66 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO, EX-EMPREGADO. DIREITO À MANUTENÇÃO. NECESSIDADE DE CONTRIBUIÇÃO DIRETA. DECISÃO MANTIDA.
+1. O STJ firmou o entendimento de que o direito à manutenção no plano de saúde empresarial do ex-empregado, demitido ou aposentado, está condicionado à existência de contribuição do beneficiário para o prêmio mensal, não se aplicando aos casos em que o custeio tenha sido integralmente pago pelo empregador. Precedente.
+2. No caso concreto, o Tribunal de origem entendeu que a existência de contribuição direta do ex-empregado seria irrelevante para apreciar o direito à manutenção no plano. Dessa forma, é devida a remessa dos autos à instância ordinária, para apreciar a matéria de acordo com a jurisprudência do STJ.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 523/536), interposto contra decisão desta relatoria que deu parcial provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, para julgar novamente a demanda.
+Em suas razões, a agravante alega o reconhecimento, pelo TJSP, de que (e-STJ fl. 526):
+(..) o seguro saúde do qual fazia parte o autor, enquanto empregado da AKZO NOBEL LTDA., atual denominação TINTAS CORAL LTDA., era custeado integralmente pela empresa empregadora, ou seja, o autor nunca contribuiu para com o custeio do seguro saúde. Para facilidade de análise, permita-se transcrever trechos do v. acórdão nesse sentido:
+(..)
+6. É incontroverso, portanto, que o autor não contribuiu para o pagamento do valor do prêmio enquanto empregado, tendo apenas arcado com valores a título de coparticipação, o que afasta, desde logo, qualquer incerteza sobre fato relevante para aplicação de direito à espécie.
+O acórdão impugnado, reafirma, violou os arts. 30 e 31 da Lei n. 9.656/1998, destacando (e-STJ fl. 534):
+(..) se o ex-funcionário não contribuiu diretamente para o pagamento do valor do prêmio enquanto trabalhou na empresa estipulante, a qual arcava com a integralidade do pagamento do prêmio de seus funcionários, tal como ocorre com os ex-funcionários da AKZO NOBEL LTDA., ele não tem direito ao benefício do art. 30 ou 31 da Lei nº 9.656/98.
+Ao final, pede a reconsideração da decisão monocrática, ou a apreciação do agravo pelo Colegiado.
+O agravado não apresentou contrarrazões (e-STJ fl. 539).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO, EX-EMPREGADO. DIREITO À MANUTENÇÃO. NECESSIDADE DE CONTRIBUIÇÃO DIRETA. DECISÃO MANTIDA.
+1. O STJ firmou o entendimento de que o direito à manutenção no plano de saúde empresarial do ex-empregado, demitido ou aposentado, está condicionado à existência de contribuição do beneficiário para o prêmio mensal, não se aplicando aos casos em que o custeio tenha sido integralmente pago pelo empregador. Precedente.
+2. No caso concreto, o Tribunal de origem entendeu que a existência de contribuição direta do ex-empregado seria irrelevante para apreciar o direito à manutenção no plano. Dessa forma, é devida a remessa dos autos à instância ordinária, para apreciar a matéria de acordo com a jurisprudência do STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 516/519):
+Trata-se de recurso especial interposto contra acórdão da 5ª Câmara de Direito Privado do TJSP.
+Na origem, a parte recorrida ajuizou ação, visando sua manutenção no plano de saúde coletivo patrocinado por sua ex-empregadora, o Banco Bradesco, a qual foi julgada procedente em primeira instância.
+A recorrente interpôs apelação, tendo o Tribunal de origem negado provimento ao recurso em acórdão que ficou assim ementado (e-STJ fl. 422):
+Obrigação de fazer. Manutenção no plano de saúde oferecido pela ré. Artigo 31 da Lei n. 9.656/98. A ex-empregadora, na qualidade de mera estipulante do contrato coletivo de plano de saúde, não ostenta legitimidade de parte. O comando pretendido pela demanda, qual seja, manutenção da condição de beneficiária do plano de saúde coletivo, é destinado, tão-somente, à operadora administradora do referido plano, de sorte que esta é a única legitimada para figurar no polo passivo da lide. A adesão a plano de saúde pelo sistema de coparticipação não desqualifica, por si só, a natureza contributiva da assistência médica fornecida pela empregadora. porquanto referido benefício é custeado indiretamente pelo empregado, já que considerado prestação "In natura" que compõe o seu salário. Ainda que o pagamento seja parcialmente custeado pela empregadora. é certo que esta o faz como remuneração indireta do labor de seu funcionário. Preenchimento dos requisitos discriminados no artigo 31, da Lei n. 9656/98  Regularidade da manutenção da condição do autor como beneficiário do plano de saúde coletivo. Sentença mantida.
+Recurso interposto pela operadora de planos de saúde a que se nega provimento.
+Sobreveio o recurso especial (e-STJ fls. 429/446), fundado no art. 105, III, "a" e "c", da CF, no qual a parte recorrente sustenta divergência jurisprudencial e violação dos arts. 30, § 6º, e 31 da Lei n. 9.656/1998 e 458, § 2º, IV, da CLT, argumentando que o empregado aposentado ou demitido não tem direito a ser mantido no plano de saúde vigente na época da ativa se não contribuía com o pagamento do prêmio securitário.
+É o relatório.
+Decido.
+O recurso foi interposto com fundamento no Código de Processo Civil de 2015, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3/STJ).
+As instâncias de origem reconheceram que o empregado demitido tinha direito a ser mantido no plano de saúde vigente na época da ativa, considerando que o sistema de coparticipação não desqualifica a natureza contributiva da assistência médica, pois seria salário indireto do empregado (e-STJ fl. 426).
+Nesse ponto, constata-se que o entendimento adotado pelo Tribunal de origem diverge da jurisprudência do STJ, segundo a qual o direito à manutenção, nos planos de saúde empresariais do ex-empregado demitido ou aposentando, está condicionado à existência de contribuição do beneficiário para o prêmio mensal, não se aplicando em casos de coparticipação. Desse modo:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PLANO DE SAÚDE. ARTIGO 31. DA LEI 9656/98. COPARTICIPAÇÃO. SALÁRIO INDIRETO. NÃO CONFIGURAÇÃO. MANUTENÇÃO EX-EMPREGADO. IMPOSSIBILIDADE. PRECEDENTES.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Nos termos da jurisprudência já consolidada desta Corte, o direito à manutenção nos planos de saúde coletivos empresariais dos ex-empregados demitidos sem justa causa ou aposentados restringe-se aos casos em que os beneficiários contribuíam para o pagamento do prêmio ou da contribuição mensal, não se aplicando nas hipóteses de custeio integral das mensalidades pela empresa, cabendo aos empregados a participação em eventuais serviços médicos por eles utilizados. Precedentes.
+3. O plano de saúde custeado pelo empregador não ostenta natureza salarial, ainda que indireta.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp 1.601.638/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. DEPENDENTE DE EMPREGADO APOSENTADO FALECIDO NA CONDIÇÃO DE BENEFICIÁRIO DO PLANO. CONTRIBUIÇÃO EXCLUSIVA DO EMPREGADOR DURANTE O CONTRATO DE TRABALHO. COPARTICIPAÇÃO DO USUÁRIO. MANUTENÇÃO DO PLANO. INVIABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Em se tratando de plano privado de assistência à saúde integralmente custeado pelo empregador/estipulante, as quantias despendidas pelo ex-empregado, única e exclusivamente, a título de coparticipação (percentual incidente sobre as despesas médicas/odontológicas efetivamente realizadas pelo usuário), como fator de moderação na utilização dos serviços, não caracterizam contribuição a ensejar a incidência da benesse legal. Exegese defluente do § 6º do artigo 30 da Lei 9.656/98.
+2. Ademais, o custeio do plano de saúde coletivo empresarial pelo empregador/estipulante não se subsume ao conceito de salário-utilidade (salário in natura), por não ostentar a característica da comutatividade, ou seja, não configura retribuição ao trabalho prestado pelo empregado. Cuida-se de incentivo de caráter assistencial concedido por alguns empregadores com o objetivo de garantir a assiduidade, a eficiência e a produtividade dos empregados, não podendo, portanto, ser considerado salário indireto.
+3. Na hipótese, as instâncias ordinárias consignaram que houve tão somente a coparticipação do empregado, ora agravante, quando utilizado o plano de saúde; sendo assim, não há falar em contribuição e, portanto, não há falar em direito à permanência como beneficiário do plano de saúde.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.653.561/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017.)
+DIREITO CIVIL E DO CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EMPREGADO APOSENTADO. DEMITIDO SEM JUSTA CAUSA. PARTICIPAÇÃO FINANCEIRA DO SEGURADO. CONTRIBUIÇÃO. NECESSIDADE. SALÁRIO IN NATURA. IMPOSSIBILIDADE. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Nos planos de saúde coletivos custeados exclusivamente pelo empregador, não há direito de permanência do ex-empregado aposentado ou demitido sem justa causa como beneficiário, salvo disposição contrária expressa prevista em contrato ou em convenção coletiva de trabalho, sendo irrelevante tão só a existência de coparticipação, pois esta não se confunde com contribuição.
+2. Os benefícios do §2º do art. 458 da CLT, entre os quais estão o oferecimento de planos de assistência médica e odontológica, não devem ser tratados como salário in natura, mas sim como um incentivo aos empregadores para colaborar com o Estado na garantia mínima dos direitos sociais dos trabalhadores.
+3. Agravo interno no recurso especial não provido.
+(AgInt no REsp 1653212/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.)
+As instâncias de origem não reconheceram que a parte recorrida, na época da ativa, não contribuía diretamente para o plano, apenas afirmaram ser irrelevante essa circunstância para decidir sobre o direito à manutenção.
+Esta Corte Superior, conforme explicitado acima, exclui o direito à manutenção do convênio apenas quando não houver contribuição direta, a qual, se tiver existido, garante ao aposentado ou demitido sua inclusão no plano de saúde da época da ativa, desde que arque com todo o valor da mensalidade.
+A propósito, a seguinte decisão monocrática: REsp n. 1.627.243/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, Publicada em 20/10/2017.
+Nesse contexto, ante a impossibilidade de ser reexaminar fatos e provas nesta instância especial, afastada a tese aplicada na origem, devem os autos retornar às instâncias ordinárias, para que seja novamente apreciada a demanda, nos termos da jurisprudência do STJ, e averiguada a existência de contribuição direta do beneficiário que albergue sua pretensão inicial.
+Diante do exposto, DOU PARCIAL PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que seja novamente julgada a demanda, nos termos da jurisprudência do STJ, e averiguada se, na época da ativa, o beneficiário contribuía diretamente para o plano de saúde.
+Publique-se e intimem-se.
+Segundo a jurisprudência desta Corte Superior, "o ex-empregado (aposentado ou demitido sem justa causa) não contributário - aquele que não realiza pagamento sequer parcial de prêmio ou mensalidade do plano de saúde coletivo empresarial, limitando-se ao pagamento de coparticipação - não faz jus ao direito de continuidade da cobertura assistencial após o término do vínculo empregatício" (AgInt no AgInt no REsp n. 1.537.386/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/8/2017, DJe 4/9/2017).
+Quanto à manutenção do agravado no plano de saúde, por decidir o Tribunal de origem ser irrelevante a forma de contribuição do ex-empregado para se julgar o direito à manutenção, é necessária a remessa dos autos às instâncias ordinárias, a fim de se analisar a questão de acordo com a jurisprudência do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
