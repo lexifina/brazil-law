@@ -1,0 +1,53 @@
+EMENTA
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. CONEXÃO. AÇÃO POPULAR E AÇÃO CIVIL PÚBLICA. REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE APONTAMENTO DO DISPOSITIVO LEGAL. SÚMULA 284/STF. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ.
+1. O Tribunal a quo, soberano na análise do material cognitivo produzido nos autos, concluiu que não ocorreu conexão entre as ações. Desse modo, para afastar tal conclusão seria necessária a incursão no acervo fático-probatório, o que encontra óbice na Súmula 7/STJ.
+2. É inviável o agravo que deixa de atacar especificamente o fundamento da decisão agravada.
+3. Agravo interno conhecido parcialmente e, na parte conhecida, improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, conhecer parcialmente do agravo interno e, nessa parte, negar-lhe provimento, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno desafiando decisão pela qual neguei provimento ao recurso especial, por entender que (I) estando o acórdão recorrido em consonância com a jurisprudência desta Corte, incide o óbice da Súmula 83/STJ; (II) a alteração das conclusões adotadas pela Corte de origem, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ e (III) a parte recorrente não logrou cumprir o requisito de admissibilidade segundo o qual, na interposição do recurso especial com base na divergência, é imperiosa a indicação do dispositivo federal sobre o qual recai o suposto dissídio.
+Em suas razões, a parte agravante sustenta que: (I) há identidade entre os objetos da ação popular e da ação civil pública, eis que, na ação popular o convênio firmado entre o município de Porto Velho e o Centro Educacional Mojuca foram considerados regulares, ao passo que, nessa ação civil pública, os mesmos convênios foram considerados irregulares; (II) patente que no presente caso as ações popular e civil pública são conexas, havendo, consequentemente a prevenção do Des. Walter Waltenberg, eis que julgou, em primeiro momento, o recurso de apelação interposto nos autos da referida ação popular; (III) basta que um dos pressupostos esteja presente para que se identifique a conexão, de modo que a identidade de partes é desnecessária; (IV) para um agente público que pratica um ato de improbidade administrativa sem grande relevância, não seria justo aplicar todas as sanções previstas na Lei de Improbidade Administrativa; (V) o STJ tem entendimento de que, não havendo enriquecimento ilícito nem prejuízo ao erário, mas apenas inabilidade do administrador, não são cabíveis as punições previstas na Lei de Improbidade, que, segundo a jurisprudência, alcança o administrador desonesto, não o inábil.
+Impugnação às fls. 3.223/3.228.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhida, tendo em vista que a parte agravante se limita a repetir as alegações do recurso especial, sem trazer novos argumentos suficientes para modificar a decisão ora agravada.
+Inicialmente, no que diz respeito à alegada existência de conexão entre as ações, cumpre registrar que o Tribunal de origem, quanto ao tema, consignou o seguinte (fls. 2.800/2.801):
+ ..
+[NOME] a prevenção do e. desembargador [NOME], pois foi ele relator nos recursos interpostos em ação popular (proc. 0189619-72.2008.8.22.0001), destacando que nestas apelações se discutiu a regularidade dos mesmos convênios que aqui estão sendo tratados, portanto, com idêntico objeto.
+Imperioso considerar que o recurso antes distribuído para o e.
+desembargador Waltenberg foi interposto contra sentença proferida em ação popular, apelo julgado em 02.02.2015 - e já com trânsito em julgado -, e que aqui se está a cuidar de recurso interposto em sítio de ação civil pública por ato de improbidade administrativa.
+Mister considerar, lado outro, que a ação popular teve por objetivo anular ato lesivo ao patrimônio público, à moralidade administrativa e consequente reparação do dano. Noutra passada, com a ação civil pública por ato de improbidade administrativa se almejou, além do ressarcimento do prejuízo causado ao erário, também impor aos agentes ímprobos perda da função pública, multa civil, suspensão dos direitos políticos e proibição de contratar com o Poder Público, ou dele receber incentivos fiscais ou creditícios.
+Palmar, pois, que entre uma e outra ação não há elementos a indicar idêntico objeto ou causa de pedir, pois se diferenciam pela legitimidade ativa, pela natureza coletiva de uma e individual da outra, mas, notadamente, pela distinta finalidade.
+A não bastar, imperioso se tenha em conta que o artigo 160 do Regimento Interno desta Corte prevê que o desembargador que primeiro conhecer de uma causa ou qualquer incidente, inclusive de mandado de segurança ou habeas corpus contra decisão de juiz de primeiro grau, terá a competência preventa para os feitos originários conexos e para todos os recursos, na causa principal, cautelar ou acessória, conexa ou continente, derivadas do mesmo ato, fato, contrato ou relação jurídica, e nos processos de execução das respectivas sentenças.
+Insta anotar, entretanto, que a conexão e a continência são eventos que influem tão somente sobre processos pendentes de julgamento no mesmo grau de jurisdição. Encerrado um dos processos, entretanto, não mais há falar em conexão frente a outra ação que se venha ajuizar.
+Sendo assim, no caso em comento, não mais se fazendo indispensável a reunião de demandas por continência, não se pode pretender, como quer o apelante, a prevalência de relatoria.
+ ..
+Anoto, pela pertinência, que no caso em comento a citada ação popular nº 0189619-79.2008.8.22.0001 foi julgada em 09.09.2014 e o acórdão proferido pela e. Segunda Câmara Especial transitou em julgado em 02.02.2015.
+Neste ponto, inviável a reunião das demandas conforme orientação da Súmula 235 do Superior Tribunal de Justiça no sentido de que "a conexão não determina a reunião dos processos, se um deles já foi julgado."
+ ..
+sem destaques no original
+Nesse contexto, tal como constatou a decisão agravada, a alteração das conclusões adotadas pela Corte de origem, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Na mesma linha de percepção:
+PROCESSUAL CIVIL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. COMPETÊNCIA POR PREVENÇÃO. ACÓRDÃO RECORRIDO PELA INEXISTÊNCIA DE CONEXÃO.
+REVISÃO. SÚMULA 7 DO STJ.
+1. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7 do STJ).
+2. O § 5º do art. 17 da Lei n. 8.429/1992 dispõe que "a propositura da ação prevenirá a jurisdição do juízo para todas as ações posteriormente intentadas que possuam a mesma causa de pedir ou o mesmo objeto". 3. Hipótese em que o recurso especial não pode ser conhecido, à luz da Súmula 7 do STJ, pois, afirmado pelo órgão judicial a quo a inexistência de documentos necessários ao afastamento da conexão das ações de improbidade decorrente da "Operação Caixa de Pandora", não é possível a revisão do acórdão recorrido sem o reexame de provas.
+4. Agravo interno não provido.
+(AgInt no AREsp 996.756/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/10/2017, DJe 02/02/2018)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. AGRAVO DE INSTRUMENTO. CONEXÃO, CONTINÊNCIA OU LITISPENDÊNCIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N.
+7/STJ. DECRETAÇÃO DE INDISPONIBILIDADE DE BENS PODE RECAIR SOBRE BEM DE FAMÍLIA. SÚMULA N. 83/STJ.
+I - Trata-se agravo de instrumento contra decisão liminar proferida em ação civil pública por ato de improbidade administrativa, proposta pelo Ministério Público do Estado de Santa Catarina, na qual foi proferida decisão que implicou a indisponibilidade de bens dos réus. II - O Tribunal a quo, soberano na análise do material cognitivo produzido nos autos, concluiu que não ocorreu litispendência. Desse modo, para afastar tal conclusão seria necessária a incursão no acervo fático-probatório, o que encontra óbice na Súmula n. 7 do STJ.
+III - O STJ possui entendimento consolidado no sentido de que a decretação de indisponibilidade de bens pode recair sobre bem de família, Súmula n. 83/STJ.
+IV - Agravo interno improvido.
+(AgInt no REsp 1633282/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/06/2017, DJe 26/06/2017)
+Quanto à alínea c do permissivo constitucional, verifica-se que a decisão agravada afirmou que parte não logrou cumprir o requisito de admissibilidade segundo o qual, na interposição do recurso especial com base na divergência, é imperiosa a indicação do dispositivo federal sobre o qual recai o suposto dissídio, atraindo, portanto, a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.").
+A agravante, no entanto, não se preocupa em impugnar especificamente os fundamentos da monocrática agravada, mas sim em argumentar matéria de cunho meritório. Incide, portanto, no agravo interno, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Nesse mesmo sentido, destacam-se os seguintes precedentes desta Corte:
+ADMINISTRATIVO. CONCURSO PÚBLICO. NOMEAÇÃO. COISA JULGADA MATERIAL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE PROCESSAMENTO DO RECURSO ESPECIAL. SÚMULA 182/STJ. 1. É inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência, por analogia, da Súmula 182 do STJ.
+2. No presente agravo regimental, o agravante deixou de impugnar o fundamento central da decisão agravada, de incidência no caso da Súmula 7/STJ.
+Agravo regimental não conhecido.
+(AgRg no AREsp 265.028/CE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 19/2/2013)
+PROCESSO CIVIL. AGRAVO REGIMENTAL. Razões que não atacam os fundamentos da decisão agravada (STJ, Súmula nº 182). Agravo regimental não conhecido.
+(AgRg no AREsp 139.524/CE, Rel. Ministro Ari Pargendler, Primeira Turma, DJe 13/11/2012)
+Em face do exposto, conheço em parte do agravo interno e, na parte conhecido, nego-lhe provimento.
+É como voto.
