@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], contra acórdão assim ementado (fl. 187):
+PLANO DE SAÚDE - Revisão de contrato - Reajuste das parcelas do prêmio do plano de saúde, em razão do implemento de idade - Cláusula contratual que determina de modo objetivo os critérios de reajuste - Possibilidade de reajuste do preço quando o beneficiário completa 59 anos de idade - Caso concreto, porém, que apresenta percentual de reajuste abusivo - Excesso reconhecido, a comportar redução, com fundamento no Código de Defesa do Consumidor - Necessidade de adequação do aumento aos limites previstos na Resolução nº 63 da ANS - Percentual que será apurado em fase de liquidação - Dever da operadora de restituir os valores indevidamente exigidos a partir do ajuizamento da ação - Recurso parcialmente provido.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 203/206).
+Em suas razões, o recorrente alega ofensa ao art. 1.022, II, do Código de Processo Civil/2015, por omissão do Tribunal de origem, ao não se pronunciar sobre as questões postas em debate nos embargos de declaração.
+No mérito, argui afronta aos arts. 42, parágrafo único, e 51, IV, do Código de Defesa do Consumidor; e 166, parágrafo único, VII, 168, 182, 884 e 885 do Código Civil. Argui serem abusivos e nulos os "reajustes acima do patamar permitido pela ANS" (fl. 215) sendo, obrigatória, a devolução dos valores indevidamente pagos, "a partir de cada efetivo desembolso" (fl. 224).
+Passo a decidir.
+Inicialmente, verifico que não há omissão alguma ou ausência de fundamentação na apreciação das questões suscitadas.
+Ressalte-se que não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões proferidas pela origem.
+Esclareça-se, ainda, que não se traduz em omissão a motivação contrária ao interesse da parte ou que deixe de se pronunciar acerca de pontos considerados irrelevantes.
+No mais, assiste parcial razão ao recorrente.
+O Tribunal de origem, ao julgar a apelação, concluiu que (fl. 191):
+A restituição, portanto, deve se dar a partir da data da distribuição da ação, pois se entende que até então o autor anuiu com o pagamento das mensalidades do plano de saúde nos valores cobrados. Não há que se cogitar de erro, pois a cláusula de reajuste por faixa etária era de pleno conhecimento do demandante.
+Somente no instante em que o requerente revelou inconformismo com a cláusula contratual de reajuste tal como estabelecida, e questionou os valores exigidos pela operadora de saúde, é que se pode falar em insurgência contra a cobrança por parte da ré.
+Sendo assim, de rigor a condenação da requerida ao reembolso dos valores pagos indevidamente somente a partir da data da propositura da ação.
+Ocorre, porém, que, nos recentes julgamentos dos REsps 1.360.969/RS e 1.361.182/RS, concluídos em 10.8.2016, ambos submetidos ao rito dos recursos repetitivos, a Segunda Seção consolidou a orientação no sentido de que "a "pretensão de repetição do indébito somente se refere às prestações pagas a maior no período de três anos compreendidos no interregno anterior à data do ajuizamento da ação (art. 206, § 3º, IV, do CC/2002; art. 219, caput e § 1º, CPC/1973; art. 240, § 1º, do CPC/2015)".
+Em face do exposto, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dou parcial provimento ao recurso especial, para determinar que a repetição do indébito seja feita a partir do triênio anterior à data do ajuizamento da ação, considerando prescritas as parcelas anteriores a 25.2.2012.
+Intimem-se.
