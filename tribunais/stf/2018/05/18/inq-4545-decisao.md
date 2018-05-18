@@ -1,0 +1,17 @@
+Ementa: Direito Processual Penal. Inquérito Policial. Foro Especial por prerrogativa de função. Restrição. Entendimento do Supremo Tribunal Federal em Questão de Ordem na Ação Penal 937-RJ. Hipótese restritiva. Exigências temporal e de pertinência funcional não verificadas. Declínio da competência.
+1. O foro especial por prerrogativa de função, de que cuida o art. 53, § 1º, da CF (Deputados Federais e Senadores), contempla os delitos praticados no cargo e em razão dele.
+2. Situação concreta que não se amolda às hipóteses de competência definidas pelo Supremo Tribunal Federal.
+3. Competência declinada para a Segunda Vara Criminal de Campo Grande/MS.
+    Vistos etc.
+    1. Trata-se de Inquérito Policial que investiga a suposta prática dos crimes de Falsidade Ideológica, Uso de Documento Falso e Peculato, previstos respectivamente nos arts. 299, 304 e 312 do Código Penal, pelo Deputado Federal José Orcírio Miranda dos Santos (Zeca do PT), durante sua gestão à frente do Governo do Estado do Mato Grosso do Sul (1.998-2.005).
+    2. A presente investigação foi distribuída originariamente à 2º Vara Criminal da Comarca de Campo Grande/MS, quando, no dia 21.7.2017, a autoridade judiciária até então competente remeteu os autos a este Supremo Tribunal Federal, em razão do foro por prerrogativa de função do réu, diplomado no cargo de Deputado Federal.
+    3. A Procuradora-Geral da República requereu a cisão do processo em relação aos demais denunciados, permanecendo nesta Suprema Corte unicamente o réu Zeca do PT.
+    É o relatório. Decido.
+    4. Com o julgamento da Questão de Ordem na AP 937, de relatoria do Min. Luís Roberto Barroso, ocorrido em sessão plenária do dia 03.5.2018, o Supremo Tribunal Federal concluiu que a sua competência originária criminal, em relação aos parlamentares federais, é limitada aos delitos praticados durante o mandato parlamentar e que, concomitantemente, possuam pertinência funcional com o cargo ocupado. Nesse sentido a conclusão do acórdão:
+    “Decisão: O Tribunal, por maioria e nos termos do voto do Relator, resolveu questão de ordem no sentido de fixar as seguintes teses: (i) O foro por prerrogativa de função aplica-se apenas aos crimes cometidos durante o exercício do cargo e relacionados às funções desempenhadas; e (ii) Após o final da instrução processual, com a publicação do despacho de intimação para apresentação de alegações finais, a competência para processar e julgar ações penais não será mais afetada em razão de o agente público vir a ocupar outro cargo ou deixar o cargo que ocupava, qualquer que seja o motivo, com o entendimento de que esta nova linha interpretativa deve se aplicar imediatamente aos processos em curso, com a ressalva de todos os atos praticados e decisões proferidas pelo STF e pelos demais juízos com base na jurisprudência anterior, conforme precedente firmado na Questão de Ordem no Inquérito 687 (Rel. Min. Sydney Sanches, j. 25.08.1999)(...)”
+    5. No caso aqui examinado, as condutas imputadas ao investigado foram praticadas quando ainda não detinha foro especial por prerrogativa de função perante o Supremo Tribunal Federal, impondo-se a alteração da competência com a remessa dos autos para o Juízo competente (art. 109 CPP e art. 21, § 1º, RISTF).
+    6. Nesses termos, reconheço a incompetência por causa superveniente desta Corte e determino a remessa dos autos ao Juízo da Segunda Vara Criminal da Comarca de Campo Grande/MS.
+    Publique-se. Intimem-se.
+    Brasília, 18 de maio de 2018.
+    Ministra Rosa Weber.
+    Relatora
