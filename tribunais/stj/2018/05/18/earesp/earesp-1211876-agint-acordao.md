@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/15.
+1. O art. 1.003, § 6º, do CPC/15, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+2. Considerando que o agravo em recurso especial foi interposto sob a égide do novo regramento processual e deixando a parte agravante de comprovar a ocorrência de feriado local quando de sua interposição, não há como ser afastada a intempestividade do recurso.
+3. Agravo interno no agravo em recurso especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+Cuida-se de agravo interno interposto por [NOME] DO NORDESTE S/A, contra decisão emitida pela Presidência do STJ que não conheceu do agravo em recurso especial que interpusera.
+Ação: de cobrança ajuizada por JOSEPH MICHAL SIENIAWSKI em face do agravante, devido ao descumprimento de contrato, pois o agravado não efetuou os pagamentos em relação aos serviços prestados.
+Sentença: julgou procedente o pedido para condenar ao pagamento de todas as remunerações mensais, nos moldes contratados à fl. 09 (R$ 6.000,00 mensais corrigidos semestralmente pelo 1GP-M), pelo período compreendido entre dezembro de 2000 e novembro de 2001, ressalvados os valores já depositados; as comissões de 5% sobre os valores brutos da venda sem menção às fls. 17 e 24, tudo a se apurar em fase de liquidação.
+Condenou ao pagamento de custas do processo e honorários advocatícios, estes fixados em 20% (vinte por cento) do valor da condenação.
+Acórdão: negou provimento ao recurso interposto pelo agravante, conforme a seguinte ementa (e-STJ fl. 307):
+AGRAVO RETIDO. Prescrição. Inocorrência. Cobrança de valores referentes à prestação de serviços de representação comercial compreendendo o período de dezembro de 2000 a novembro/2001. Prazo qüinqüenal, nos termos do artigo 44,§ único da Lei nº 4.886/1965. Ajuizamento de reclamação trabalhista, que interrompeu o prazo prescricional e cujo desfecho ocorreu em 2008. Ação de cobrança interposta cm 2009. RECURSO DESPROVIDO.
+REPRESENTAÇÃO COMERCIAL. COBRANÇA Preliminar de cerceamento de defesa afastada, ante o silêncio da requerida quando instada a manifestar-se sobre a especificação de provas. Autor que pretende perceber remunerações e comissões, decorrente da prestação de serviços de representação comercial, compreendendo o período de dezembro de 2000 a novembro de 2001. Conjunto fático-probatório que sustenta a tese autoral. Requerida que não se desincumbiu do ônus probatório nos termos do artigo 333, II do CPC. Ação julgada procedente. Sentença mantida. RECURSO DESPROVIDO.
+Recurso especial: alega violação do art. 44, parágrafo único, da Lei 4.886/1965. Sustenta que a prescrição se interrompe apenas uma vez. Nesse contexto, assevera que a segunda ordem de citação é irrelevante para obstar o prazo prescricional, tendo em vista que este prazo, na presente hipótese, já tinha sido interrompido. Aduz que a parte adversa não demonstrou nos autos o pagamento de produto adquirido por clientes por intermédio do serviço prestado pelo agravado. Afirma que não cabe ao agravante provar fato negativo.
+Decisão monocrática emitida pela Presidência do STJ: não conheceu do agravo em recurso especial, com base no art. 21-E, V, do RISTJ.
+Agravo interno: a parte agravante afirma que: a) o recurso é tempestivo; b) dia 13 de abril de 2017 - é quinta-feira santa; e c) houve mera irregularidade formal.
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+A decisão agravada emitida pela Presidência do STJ não conheceu do agravo em recurso especial, nos termos da seguinte fundamentação (e-STJ fl. 451):
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.  02 e 03,os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive;ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verifica-se que a parte Recorrente foi intimada da decisão agravada em 07/04/2017, sendo o agravo somente interposto em 04/05/2017.
+Dessa forma, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos tomos do art. 994, VIII, c.c. os arts. 1.003, § 5.º,1.042, caput, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6.º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Veja-se que a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também o dia de Corpus Christi, não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+De fato, compulsando os autos, verifica-se que o agravo em recurso especial é inadmissível por ser intempestivo, pois a intimação referente ao acórdão foi disponibilizada no Diário de Justiça Eletrônico no dia 06/04/2017 e o recurso somente foi interposto em 04/05/2017.
+Na hipótese dos autos, o recurso foi interposto quando já em vigor o novo Código de Processo Civil. Desse modo, conforme ressalvado na decisão agravada, nos termos do art. 1.003, § 6º, do CPC/15, a parte recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+Assim, considerando que o recurso especial foi interposto sob a égide do novo regramento processual e deixando a parte agravante de comprovar a ocorrência de feriado local quando de sua interposição, não há como ser afastada a intempestividade do recurso.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
