@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do NCPC) interposto por [NOME] contra decisão que não admitiu recurso especial (fls. 428-429, e-STJ).
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais/MG, assim ementado (fl. 360, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C DANOS MORAIS - INADIMPLÊNCIA CONFIGURADA - INCLUSÃO DO NOME DO DEVEDOR EM CADASTRO DE RESTRIÇÃO AO CRÉDITO - EXERCÍCIO REGULAR DE DIREITO - INEXISTÊNCIA DE ATO ILÍCITO - DANO MORAL - INOCORRÊNCIA.
+A existência de débito autoriza ao credor, pela lei, a inserir o nome do devedor nos cadastros de órgãos de negativação de crédito, consistindo tal ação exercício regular de um direito, não havendo que se falar em ato ilícito e, consequentemente, em dever de indenizar.
+Em suas razões de recurso especial, a ora agravante aponta ofensa aos arts. 39, I e V, e 51 do Código de Defesa do Consumidor; 17 da Resolução n. 2.892/01 e à Resolução n. 3.919 do Banco Central. Sustenta, para tanto, que o referido Código proíbe a venda casada e a exigência de obter do consumidor vantagem excessiva. Alega, ainda, "que o subterfúgio de acrescer serviços ao contrato de adesão insurge contra norma consumerista e princípio da boa fé" (fl. 421, e-STJ).
+Contrarrazões não apresentadas (fls. 426-427, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do reclamo. Daí o presente agravo, no qual a agravante busca destrancar o processamento daquela insurgência.
+Contraminuta não apresentada (fls. 463-464, e-STJ).
+É o relatório.
+Decide-se.
+A insurgência não merece prosperar.
+1. Não se viabiliza o recurso especial quanto à alegada violação de resolução e regulamento, por caracterizarem atos normativos secundários (infralegais), que não se enquadram no conceito de lei federal ínsito no art. 105, inciso III, alínea "a", do permissivo constitucional. Nesse sentido: REsp 1.121.275/SP, Rel. Ministra Nancy Andrighi, TerceiraTurma, julgado em 27.03.2012, DJe 17.04.2012; AgRg no REsp 1.274.513/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/03/2012, DJe 12/04/2012).
+2. No mais, verifica-se que o conteúdo normativo dos dispositivos legais tidos por violados, quais sejam, aos arts. 39, I e V, e 51 do Código de Defesa do Consumidor, não foi objeto de exame pela instância ordinária, razão pela qual incide, na espécie, a Súmula 211 desta Corte, de seguinte teor: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo". A propósito, veja-se:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO OPOSTOS NO TRIBUNAL DE ORIGEM, SOB A PREMISSA DE QUE AS MATÉRIAS EMBARGADAS NÃO HAVIAM SIDO DECIDIDAS. REJEIÇÃO DOS EMBARGOS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. HONORÁRIOS. EQUIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Incide a Súmula 211 desta Corte diante da ausência de prequestionamento das teses defendidas no recurso especial, envolvendo os dispositivos legais supostamente violados, apesar de opostos embargos de declaração.
+2. Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+3. Havendo omissão, cabe à parte, no recurso especial, alegar ofensa ao art. 535, II do CPC, demonstrando, objetivamente, a imprescindibilidade da manifestação sobre a matéria impugnada e em que consistiria o vício apontado. Não o fazendo, incide, da mesma forma, nas disposições da Súmula 211/STJ, pois não basta a alegação genérica de violação ao dispositivo da Lei Processual.
+4. "A fixação da verba honorária pelo critério da eqüidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, ante o óbice da Súmula 7." (AgRg no Edecl. No REsp 641.240).
+5. Agravo regimental improvido.
+(AgRg no Ag 723.601/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/09/2008, DJe 06/10/2008).
+3. Do exposto, nega-se provimento ao agravo em recurso especial e, nos termos do art. 85, § 11, do CPC/2015, majoro em R$ 100,00 (cem reais) o valor dos honorários advocatícios arbitrados na origem (fl. 366, e-STJ), cuja exigibilidade permanece suspensa em virtude da assistência judiciária gratuita concedida à agravante (fls. 248 e 366, e-STJ).
+Publique-se. Intimem-se.
