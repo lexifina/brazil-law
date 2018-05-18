@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, DO CPC/1973. NÃO OCORRÊNCIA. EMBARGOS À EXECUÇÃO. ANUIDADES DA OAB. PRESCRIÇÃO. FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA 283/STF. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fulcro na alínea "a" do permissivo constitucional, contra acórdão do TRF da 4ª Região, assim ementado (fl.197):
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. ANUIDADES DA OAB.
+PRESCRIÇÃO. TERMO INICIAL.
+O prazo prescricional a partir da constituição definitiva do crédito, que somente ocorre no ano seguinte ao da inadimplência, manifesta a improcedência da tese de ocorrência da prescrição das anuidades do ano de 2008.
+A obrigação do pagamento de anuidades para a OAB decorre tão somente da inscrição nos quadros da entidade, independentemente do efetivo exercício da advocacia.
+Os embargos de declaração foram rejeitados.
+No apelo especial, a parte recorrente alega ofensa ao artigo 535, II, do CPC/73, diante da negativa de prestação jurisdicional;
+Quanto ao mérito, suscita violação aos artigos 38, inciso I, da Lei nº 8.906/94 e 22, § único, do Regulamento Geral do Estatuto da Advocacia e da OAB. Defende, em síntese, que a pretensão foi atingida pela prescrição, no que toca os valores supostamente devidos quanto ao ano de 2008, já que todos os demais valores também seriam indevidos, dado que a sua inscrição junto à OAB deveria ter sido cancelada, já que lhe teriam sido cominadas, por três vezes, a sanção de suspensão da inscrição pertinente.
+Juízo positivo de admissibilidade às fls. 262.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Preliminarmente, afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+O recorrente, ao indicar ofensa aos artigos 38, inciso I, da Lei nº 8.906/94 e 22, § único, do Regulamento Geral do Estatuto da Advocacia e da OAB, e direcionar a sua tese no sentido de que deveria ter sido excluída automaticamente dos quadros da OAB pelo fato de ter sido sancionada três vezes pelo inadimplemento de anuidades, deixou de impugnar os fundamentos do acórdão recorrido segundo o qual asseverou que: i) cabia à embargante comunicar à OAB/PR seu interesse em desligar-se dos quadros daquela entidade. Não se pode exigir que a OAB advinhe que alguém não mais quer atuar como advogado; ii) mesmo em casos que se aplicam o disposto no art. 38, I, lei 8.906, deve-se assegurar o devido processo administrativo. Referido dispositivo não tem o condão de tornar inexigíveis as obrigações devidas por advogados que tenham sido suspensos por mais de três vezes; iii) não houve comprovação nos autos sobre a existência de um processo de cancelamento de inscrição em face da embargante. Veja-se que sequer as partes mencionam a sua existência. As referidas fundamentações, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide ao caso a Súmula 283/STF.
+Ante o exposto, nego provimento ao recurso especial.
+Intimem-se.
