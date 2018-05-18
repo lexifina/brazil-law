@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado do Rio de Janeiro, contra decisão que inadmitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 238):
+Internação - tratamento de dependência química. Ação de Obrigação de Fazer. Paciente dependente de múltiplas drogas, necessitando de internação para tratamento. Sentença de procedência, confirmada a antecipação de tutela antes deferida.
+Apelação.
+Provimento parcial do recurso voluntário, reduzida, no duplo grau a verba honorária em que condenado o Município. Agravo Inominado do § 1º, do artigo 557 do Código de Processo Civil tirado contra a respectiva decisão.
+"Deriva-se dos mandamentos dos artigos 6º e 196 da Constituição Federal de 1988 e da Lei nº. 8080/90, a responsabilidade solidária da União, Estados e Municípios, garantindo o fundamental direito à saúde e consequente antecipação da respectiva tutela." (Súmula 65, TJRJ) A solidariedade resultante do próprio texto constitucional não pode se ver alterada por regra normativa de segunda classe.
+Reserva do possível, simples medida de extensão, intensidade ou quantidade do provimento judicial, que se insinua mais virtual do que material, considerada a realidade dos investimentos públicos em ares que não desfrutam de prioridade constitucional.
+Ônus da sucumbência. Honorários advocatícios. Defensoria Pública.
+"A Defensoria Pública é órgão do Estado do Rio de Janeiro. Logo, a este não pode impor condenação nos honorários em favor daquele Centro de Estudos, conforme jurisprudência iterativa do STJ" - Súmulas 80 TJRJ e 421 do E. STJ.
+Sujeição tão somente do Município aos honorários advocatícios, cuja verba é reduzida, excessiva que se afigura a fixada em 1º grau.
+Agravo não provido.
+Opostos embargos declaratórios, estes foram rejeitados (fls. 260/263).
+Nas razões do apelo especial, a parte agravante aponta violação aos arts. 535 do CPC; 2º, 4º, 6º, 8º, e 9º da Lei 10.216/01; 2º, § 1º, 36, § 2º e 52 da Lei 8.080/90; e 22 da Lei 11.343/2006. Sustenta que: (I) o aresto integrativo deveria ser anulado, pois não sanou omissão indicada nos embargos de declaração; (II) a internação para tratamento psiquiátrico, seja na modalidade voluntária, involuntária ou compulsória, somente deverá ser indicada quando os recursos extra-hospitalares se mostrarem insuficientes; (II) a medida de internação "somente será realizada mediante laudo médico circunstanciado que caracterize os seus motivos e tempo de duração" (fl. 308); e (IV) não é possível a condenação do Estado a custear tratamento em hospital da rede privada, tendo em conta que existem hospitais do próprio SUS que dispõem de tratamento para a enfermidade em questão.
+É o relatório.
+No presente caso, a parte recorrente, nas razões dos embargos de declaração e do recurso especial, requereu expressamente ao Tribunal a quo que se manifestasse quanto à ofensa ao art. 6º da Lei da Lei 10.216/01, segundo o qual, "A internação psiquiátrica somente será realizada mediante laudo médico circunstanciado que caracterize os seus motivos" e, no entanto, não há nos autos nenhum laudo comprovando a necessidade de tal procedimento.
+Contudo, observa-se que o Tribunal de origem quedou silente sobre tal argumento, essencial para o deslinde da controvérsia, rejeitando os pertinentes aclaratórios do ora agravante, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial por violação do art. 1.022 do CPC, e determino o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento dos embargos de declaração.
+Fica prejudicado o exame das questões remanescentes.
+Publique-se.
