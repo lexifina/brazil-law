@@ -1,0 +1,24 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO DE LITERAL DISPOSITIVO DE LEI. MATÉRIA QUE À ÉPOCA DO ACÓRDÃO RESCINDENDO JÁ HAVIA SE PACIFICADO NA JURISPRUDÊNCIA DO STJ. INAPLICABILIDADE DA SÚMULA 343/STF.
+1. Nos termos do entendimento desta Corte, firmado pela sistemática prevista no artigo 543-C do CPC, "a ação rescisória, a contrario sensu, resta, então, cabível, se, à época do julgamento cessara a divergência, hipótese em que o julgado divergente, ao revés de afrontar a jurisprudência, viola a lei que confere fundamento jurídico ao pedido (ERESP 908774/RJ)" (REsp 1.001.779/DF, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 25/11/2009, DJe 18/12/2009).
+2. Assim, inaplicável a súmula 343/STF ao caso, pois o acórdão que se pretende rescindir foi proferido em 01/04/2009 (fl. 202), época em que a jurisprudência deste tribunal já era firme no sentido de que o prazo prescricional para a propositura de ação executiva contra a Fazenda Pública é de cinco anos, contados a partir do trânsito em julgado da sentença condenatória, nos termos da Súmula 150/STF ("Prescreve a execução no mesmo prazo de prescrição da ação.").
+3. Agravo Interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo União desafiando decisão de fls. 523/525, que deu provimento ao recurso especial para afastar a incidência da Súmula 343/STF e determinou a devolução dos autos para que o Tribunal de origem prosseguisse no julgamento da ação rescisória.
+Em suas razões, a parte agravante sustenta a aplicabilidade da Súmula 343/STF ao caso, sob o argumento de que "tendo em vista que à época em que foi julgada a decisão rescindenda havia interpretação controvertida, na medida em que há vários julgados no sentido da possibilidade de contagem da prescrição pela metade, mostra-se plenamente aplicável a Súmula 343 do STF, de modo que deve ser julgada improcedente a presente ação rescisória. Ademais, o próprio acórdão base cita precedentes à época em que foi prolatada a decisão rescindenda que demonstram que à época a matéria era controvertida" (fl. 532).
+Assevera que a aplicabilidade da Súmula 343/STF somente pode ser afastada nos casos "em que o preceito cuja interpretação tenha sido controvertida venha a ser reinterpretado à luz da Constituição. No caso em exame, porém, a questão controvertida (qual seja: prazo prescricional) é decidida a partir de preceitos legais" (fl. 534).
+Houve manifestação da parte agravada (fls. 531/534).
+É o relatório
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como antes asseverado, o caso é de inaplicabilidade da Súmula 343/STF. É que, nos termos do entendimento esta Corte, firmado pela sistemática prevista no artigo 543-C do CPC, "a ação rescisória, a contrario sensu, resta, então, cabível, se, à época do julgamento cessara a divergência, hipótese em que o julgado divergente, ao revés de afrontar a jurisprudência, viola a lei que confere fundamento jurídico ao pedido (ERESP 908774/RJ)" (REsp 1.001.779/DF, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 25/11/2009, DJe 18/12/2009).
+Na hipótese dos autos, o acórdão que se pretende rescindir foi proferido em 01/04/2009 (fl. 202), época em que a jurisprudência deste tribunal já era firme no sentido de que o prazo prescricional para a propositura de ação executiva contra a Fazenda Pública é de cinco anos, contados a partir do trânsito em julgado da sentença condenatória, nos termos da Súmula 150/STF ("Prescreve a execução no mesmo prazo de prescrição da ação.").
+Em reforço:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. ART. 485, V, DO CPC. ACÓRDÃO RESCINDENDO EM DESACORDO COM A JURISPRUDÊNCIA QUE JÁ HAVIA SE FIRMADO EM SEDE DE RECURSO ESPECIAL REPETITIVO. INAPLICABILIDADE DA SÚMULA 343/STF. DETERMINADO O RETORNO DOS AUTOS À ORIGEM.
+1. Não se aplica o óbice estampado na Súmula 343/STF quando a divergência jurisprudencial sobre a matéria já se encontrara pacificada pelo STJ à época em que o acórdão rescindendo foi prolatado (REsp 1.001.779/DF, Rel. Ministro Luiz Fux, Primeira Seção, DJe 18/12/2009, submetido ao rito do art. 543-C do CPC).  ..
+4. Agravo regimental não provido.
+(AgRg no AREsp 373.784/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 11/2/2014, DJe 18/2/2014)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
