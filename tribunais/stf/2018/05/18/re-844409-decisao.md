@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CORREÇÃO MONETÁRIA – JUROS DA MORA – FAZENDA PÚBLICA – CONDENAÇÃO – REPERCUSSÃO GERAL JULGADA – ACÓRDÃO PUBLICADO – NEGATIVA DE SEGUIMENTO.
+    1. Afasto o sobrestamento anteriormente determinado.
+    2. O Tribunal de origem confirmou o entendimento do Juízo quanto à procedência de aposentadoria rural por tempo de serviço, no que caracterizado o regime de economia familiar. Em relação aos juros da mora estabeleceu o cômputo com base no índice oficial da caderneta de poupança. Quanto à correção monetária, afastou a aplicação do artigo 1º- F da Lei nº 9.494/1997, com alteração promovida pela Lei nº 11.690/2009, observando o índice nacional de preços ao consumidor – INPC. No extraordinário, o recorrente aduz a transgressão ao artigo 102, § 2º, da Constituição Federal. Alude à suspensão da eficácia do decidido nas ações diretas de inconstitucionalidade nº 4.357 e nº 4.425. Postula a aplicação dos índices previstos no artigo 1º-F da Lei nº 9.494/1997, com redação dada pela Lei nº 11.960/2009.
+    3. O Pleno, no recurso extraordinário nº 870.947/SE, relator ministro Luiz Fux, acórdão publicado no Diário da Justiça de 20 de novembro de 2017, assentou, sob o ângulo da repercussão geral, a inconstitucionalidade parcial do artigo 1º-F da Lei 9.494/1997, com redação dada pela Lei nº 11.960/2009. Concluiu que o índice de correção monetária aplicável às condenações impostas à Fazenda Pública será o decorrente da variação de preços da economia, evitando-se enriquecimento sem causa do Estado-devedor. Quanto aos juros da mora, proclamou, se de natureza tributária a condenação, a pertinência do mesmo parâmetro utilizado pelo Estado relativamente à dívida ativa. Declarou a valia constitucional do referido dispositivo na parte concernente aos juros da mora, quando envolvida relação diversa da tributária.
+    No caso, faz-se em jogo controvérsia estranha ao campo tributário. O Tribunal de origem, ao fixar a correção monetária, afastou a aplicação do artigo 1º – F da Lei nº 9.494/1997, com alteração promovida pela Lei nº 11.690/2009, não o fazendo quanto aos juros da mora. A questão foi decidida em sintonia ao precedente do Supremo.
+    4. Nego seguimento ao extraordinário.
+    5. Publiquem.
+Brasília, 18 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
