@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. EXECUÇÃO FISCAL. ARQUIVAMENTO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 5ª, assim ementado (fl. 166):
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PEQUENO VALOR. ARQUIVAMENTO DO FEITO, SEM BAIXA NA DISTRIBUIÇÃO. JULGAMENTO PELO STJ SOB OS AUSPÍCIOS DO RECURSO REPETITIVO.
+1. A sentença determinou o arquivamento dos autos, com baixa na distribuição, em face da insignificância do saldo remanescente.
+2. O colendo STJ, ao julgar o REsp nº 1111982/SP, Rel. Min. Castro Meira, submetido ao regime do art. 543-C do CPC, decidiu que "as execuções fiscais relativas a débitos iguais ou inferiores a R$ 10.000,00 (dez mil reais) devem ter seus autos arquivados, sem baixa na distribuição. Exegese do artigo 20 da Lei 10.522/02, com a redação conferida pelo artigo 21 da Lei 11.033/04".
+3. Apelação provida para apenas determinar que os autos fiquem arquivados, porém sem baixa na distribuição.
+Os embargos de declaração foram rejeitados (fls. 172-178).
+Nas razões do recurso especial, a parte recorrente alega, preliminarmente, violação dos arts. 458, II, e 535, II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto à questão de fundo, sustenta ofensa ao art. 20, § 2º, da Lei n. 10.522/02, sob o argumento de que "não se concretizou a hipótese de extinção da execução de honorários, também não é necessário o arquivamento do feito, podendo o mesmo ter o seu curso regular com a execucão da verba honorífica" (fl. 186).
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 190.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Adiante, registre-se que não se conhece da suposta afronta ao artigo 535 do CPC/1973, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+O Tribunal de origem, ao apreciar a questão relativa à execução de verba honorária nos embargos de declaração, externou o seguinte entendimento (fl. 174):
+Pretende a embargante a integração do acórdão, para que seja autorizado o prosseguimento da execução de honorários advocatícios, de forma que o arquivamento do feito quanto a essa parte seja feita somente se houver requerimento do Procurador nesse sentido.
+ A jurisprudência dos nossos Tribunais é firme no sentido de que inexiste dispositivo legal que autorize ao magistrado dispor dos honorários advocatícios.
+Contudo quando os honorários são acessórios de execução fiscal o entendimento é diverso, exceto quando se tratar de verba honorária referente a título executivo judicial. Não é o caso dos autos, em que os honorários decorrem de execução fiscal e o acórdão determinou o arquivamento dos autos, em face da insignificância do saldo remanescente porem sem baixa na distribuição.
+Nos termos do art. 20, da Lei n. 10.522/2002, com redação dada pela Lei n. 11.033/2004, o arquivamento do executivo fiscal, sem baixa na distribuição, poderá ser realizado a pedido do Procurador da Fazenda Nacional, nos casos de "execuções fiscais de débitos inscritos como Dívida Ativa da União pela Procuradoria-Geral da Fazenda Nacional ou por ela cobrados, de valor consolidado igual ou inferior a R$ 10.000,00 (dez mil reais)".
+Segundo a embargante, no caso em exame "não se concretizou á hipótese de extinção da execução no tocante aos honorários advocatícios". Entretanto, no caso dos autos não se determinou a extinção do feito mas apenas o seu arquivamento sem baixa na distribuição, devido à insignificância do valor que remanesceu para cobrança pelo Fisco.
+Os embargos de declaração previstos nos arts. 535 a 538 do Código de Processo Civil, com a nova redação que lhe foi dada pela Lei 8.950/94, possui a sua abrangência limitada aos casos em que haja obscuridade ou contradição na sentença ou no acórdão, ou quando for omisso em ponto sobre o qual se devia pronunciar o Juiz ou o Tribunal.
+Na espécie, verifica-se que, além deduzir razões genéricas - afirmando tão somente que no caso não é necessário o arquivamento do feito - referida fundamentação do acórdão recorrido não foi impugnada nas razões do recurso especial, o que inviabiliza o conhecimento do apelo especial, nos termos das Súmulas 283 e 284 do Supremo Tribunal Federal.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
