@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial, interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal contra acórdão do Tribunal de Justiça do Estado de Gioás.
+Consta dos autos que o agravante foi condenado pela prática dos delitos dos arts. 33, caput, § 4º, da Lei n. 11.343/2006 (tráfico de drogas) e 180, caput, do Código Penal (receptação), às penas de 5 anos e 4 meses de reclusão, e pagamento de 750 dias-multa em regime inicial fechado.
+A defesa apresentou apelação buscando a absolvição ou a desclassificação do delito do art. 33 da Lei 11.343/2006 para o de posse para consumo próprio.
+O Tribunal de origem deu parcial provimento ao apelo, para desclassificar a conduta de tráfico de drogas para a do art. 28 da Lei de Drogas, remetendo os autos ao juizado especial criminal, mantendo a condenação pelo crime de receptação e redimensionando a pena.
+O acórdão está assim ementado (fls. 253/254):
+TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO DESPROVIDA DE COEFICIENTE PROBATÓRIO APTO A SUSTENTÁ-LA. DESCLASSIFICAÇÃO COM REMESSA DOS AUTOS AO JUIZADO ESPECIAL CRIMINAL. RECEPTAÇÃO. CONFIRMAÇÃO DA CONDENAÇÃO. REDIMENSIONAMENTO DA PENA. 1. Desclassifica-se a conduta para a prevista no artigo 28, da Lei nº 11.343/06, quando a quantidade de droga apreendida, as circunstâncias do fato e a situação pessoal do apelante conduzem à conclusão de que a substância entorpecente encontrada com ele destinava-se somente a seu consumo. 2. Confirma-se a condenação por receptação simples, afastando-se a possibilidade de absolvição e desclassificação para a modalidade culposa, quando a materialidade e a autoria encontram-se fundadas em provas idôneas, produzidas em contraditório judicial, e que se mostram induvidosas ao evidenciar que o apelante adquiriu objetos que sabia ser produto de ilícito, diminuindo-se a pena para o mínimo legal, quando constatada sua fixação em desproporção com as circunstâncias pessoais do sentenciado e com as particularidades do cometimento do crime. RECURSO PARCIALMENTE PROVIDO. DESCLASSIFICADA A CONDUTA DO APELANTE PARA A DO ARTIGO 28, DA LEI  11.343/06, DETERMINANDO-SE A REMESSA DOS AUTOS AO JUIZADO ESPECIAL CRIMINAL. CONFIRMADA A CONDENAÇÃO PELA RECEPTAÇÃO E REDIMENSIONADA A PENA IMPOSTA.
+Irresignada, a acusação interpôs recurso especial em que alega violação dos arts. 28, caput, e 33, caput, da Lei n. 11.343/2006.
+Sustenta que há provas para condenação pelo crime de tráfico de drogas, pois a variedade e grande quantidade de droga apreendida é suficiente para caracterizar o tráfico de drogas.
+A r. decisão agravada não admitiu o recurso especial haja vista a incidência da Súmula n. 7 do STJ.
+Contraminuta às fls. 386/390. O Ministério Público Federal opinou pelo provimento do agravo em recurso especial (fls. 398/402).
+É o relatório. Decido.
+A irresignação não merece prosperar por ambas as alíneas.
+O voto condutor, ao afastar a desclassificação do delito, assentou (fls. 257/259):
+No que se refere à autoria, a análise detida dos autos conduz à conclusão diversa daquela apresentada pelo dirigente procedimental na sentença condenatória.
+Com efeito, ainda que a materialidade delitiva, repito, seja inconteste, não me parece evidente que a ação de [NOME] possa ser caracterizada como tráfico ilícito de entorpecentes, nos moldes em que tipificada no artigo 33, caput, da Lei nº 11.343/06.
+De fato, não é possível, diante do que se apurou no decorrer da instrução processual, determinar-se, com a certeza exigida para a condenação, que a ínfima quantidade de crack e a maconha apreendidas em poder de César fossem, de fato, destinados à comercialização.
+Observa-se que, em seu interrogatório judicial, César assumiu a propriedade da droga, disse que é usuário de crack e maconha e que a droga seria utilizada para seu próprio consumo. Negou a prática do tráfico ilícito de entorpecentes.
+ ..
+É evidente, pois, que as provas colhidas sob contraditório judicial, ainda que idôneas e críveis, mostram-se insuficientes para sustentar a conclusão de que César estava praticando o tráfico ilícito de entorpecentes. Não há como se afirmar, com a certeza exigida para uma condenação, que as substâncias ilícitas apreendidas se destinavam, de fato, à comercialização.
+Por outro lado, me parece razoável e em perfeita sintonia com o que fora apurado nos autos a conclusão de que o crack e a maconha encontrados com César seriam, como ele afirma, utilizados apenas para seu consumo, já que ele se declara usuário dessas substâncias e não há qualquer apontamento que confirme o envolvimento dele em transações ilícitas com entorpecentes.
+ ..
+Pois, repito, ainda que tenham sido apreendidos com o apelante maconha e crack, as provas apuradas não fornecem elementos que autorizem presumir o envolvimento dele com o comércio ilícito dessa droga, sendo coerente a versão de que aquela substância entorpecente seria apenas para seu consumo.
+Assim, como visto dos excertos acima, a Corte de origem concluiu que era incabível a desclassificação do crime e para se concluir de modo diverso é necessário o reexame do conjunto fático-probatório, a atrair o óbice da Súmula n. 7/STJ, verbis: "A pretensão de simples reexame de prova não enseja recurso especial". Veja-se:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA CONSUMO DE DROGAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. REGIME INICIAL MAIS GRAVOSO. SEMIABERTO. PERICULOSIDADE DO AGENTE. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal a quo considerou que a prática do crime de tráfico restou comprovada, de modo que entender de forma diversa e desclassificar a conduta, como pretendido, demandaria o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial, a teor do óbice da Súmula n. 7 desta Corte.
+ ..
+3. Agravo regimental desprovido (AgRg no REsp 1.710.631/SP, de minha relatoria, QUINTA TURMA, DJe 09/03/2018).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA O CRIME DO ART. 28 DA LEI N. 11.343/06. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. REINCIDÊNCIA. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO MANTIDO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A análise da tese recursal, no sentido de desclassificar o crime previsto no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas) para a conduta tipificada no art. 28 da mesma lei (posse de substância entorpecente para uso próprio) demanda necessária incursão na seara probatória, vedada no âmbito do recurso especial, nos termos da Súmula 7 desta Corte.
+ ..
+3. Agravo regimental improvido (AgRg no AREsp 1.012.231/CE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 07/04/2017).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. PRETENSÃO DE DESCLASSIFICAÇÃO PARA USO. NECESSIDADE DE ANÁLISE DE FATOS E PROVAS. ÓBICE INTRANSPONÍVEL DA SÚMULA 7 DESTA CORTE. AGRAVO IMPROVIDO.
+1. Ao contrário do afirmado pelo agravante, os argumentos declinados nas razões do recurso especial a fim de sustentar a tese de que a droga apreendida se destinava ao consumo próprio, e não ao tráfico, demandariam sim a análise dos fatos, das circunstâncias e das provas amealhadas aos autos, mostrando-se insuperável o empecilho da Súmula 7/STJ.
+2. Desse modo, a decisão agravada deve ser mantida incólume por seus próprios termos.
+3. Agravo regimental improvido (AgRg no REsp 1.654.720/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 05/05/2017).
+Diante do exposto, com fundamento no art. 932, inc. IV, do Código de Processo Civil c/c o art. 3º do Código de Processo Penal, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
