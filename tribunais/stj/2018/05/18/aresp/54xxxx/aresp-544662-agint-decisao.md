@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo interno no agravo (art. 544 do CPC/1973) interposto por [NOME] e outros em face da decisão de fls. 341/344 (e-STJ), em que se conheceu do agravo para dar parcial provimento ao recurso a fim de excluir a multa diária fixada em razão do descumprimento da obrigação de pagamento dos alimentos.
+Inconformada, os agravantes alegam nas razões do agravo interno, inicialmente, perda superveniente do objeto do agravo de instrumento, porquanto proferida sentença antes da decisão agora agravada.
+Diante de tais considerações, reconsidero a decisão de fls. 341/344 e passo a novo julgamento do agravo em recurso especial.
+É o relatório.
+O inconformismo perdeu o seu objeto.
+1. Segundo a consolidada jurisprudência deste Superior Tribunal de Justiça, a superveniência de sentença de mérito no feito principal enseja a perda de objeto do recurso especial resultante de agravo de instrumento interposto contra decisão concessiva ou denegatória de liminar ou antecipação de tutela, tendo em vista que a sentença absorve os efeitos do provimento liminar, por se tratar de juízo de cognição exauriente.
+Nesse mesmo sentido, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE NULIDADE DE ATO JURÍDICO. TUTELA ANTECIPADA INDEFERIDA. SUPERVENIÊNCIA DE SENTENÇA NO PROCESSO PRINCIPAL. EXTINÇÃO DO PROCESSO POR PERDA DE OBJETO. RECURSO ESPECIAL PREJUDICADO. AGRAVO DESPROVIDO.
+1. Consoante o entendimento pacífico da jurisprudência desta Corte Superior, a superveniência de sentença de mérito no feito principal enseja a perda de objeto do recurso especial resultante de agravo de instrumento interposto contra decisão concessiva ou denegatória de liminar ou antecipação de tutela, tendo em vista que a sentença absorve os efeitos do provimento liminar, por se tratar de juízo de cognição exauriente.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1023871/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/10/2016, DJe 23/11/2016, sem grifos no original)
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. INSURGÊNCIA EM RELAÇÃO À LIMINAR. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO NA AÇÃO. PERDA DO OBJETO.
+1. A jurisprudência desta Corte pacificou-se no sentido de que a superveniência de sentença de mérito esvazia o objeto de recurso especial interposto contra acórdão que examina agravo de instrumento de decisão que defere ou indefere pedido de liminar, pois o provimento exauriente absorve os efeitos da decisão provisória. Precedentes: AgRg no REsp 1.434.026/PB, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 24/06/2016; AgRg nos EREsp 1.199.135/DF, Rel. Min. Humberto Martins, Corte Especial, DJe 06/05/2016; AgRg nos EREsp 1.494.389/SP, Rel. Min. Laurita Vaz, Corte Especial, DJe 18/03/2016.
+2. Agravo interno não provido.
+(AgInt no REsp 1575784/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/09/2016, DJe 06/10/2016, sem grifos no original)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DOS BENS. AGRAVO DE INSTRUMENTO RELATIVO À MEDIDA ANTECIPATÓRIA. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO, JULGANDO IMPROCEDENTE A AÇÃO. PERDA DE OBJETO DO RECURSO ESPECIAL. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. De acordo com a jurisprudência do Superior Tribunal de Justiça, a superveniência de sentença de mérito, seja de procedência ou improcedência, acarreta a perda de objeto do recurso especial, interposto contra decisão interlocutória que decide pedido de liminar ou antecipação dos efeitos da tutela, porquanto o provimento dotado de cognição exauriente absorve os efeitos da medida antecipatória, cumprindo às partes impugnar a sentença, e não mais o deferimento ou indeferimento da liminar ou antecipação dos efeitos da tutela.
+II. Em situações semelhantes à dos presentes autos, em que fora declarada a perda de objeto do Recurso Especial que se insurge contra decisão interlocutória que, em sede de ação de improbidade administrativa, decide acerca da indisponibilidade dos bens, destacam-se os seguintes precedentes desta Corte: STJ, REsp 1.351.883/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 14/05/2015; STJ, AgRg no REsp 1.244.149/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 23/10/2014; STJ, AgRg no Ag 1.146.044/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 04/08/2014.
+III. Agravo Regimental improvido.
+(AgRg no AREsp 728557/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 10/11/2015, DJe 20/11/2015, sem grifos no original)
+Em consulta ao sítio do TJMA, constatou-se que, na ação de indenização, por danos materiais e morais n1 685-66.2011.8.10.0034, que lhe foi proposta por [NOME], [NOME] e [NOME], da qual se originou o presente recurso, foi prolatada sentença de mérito, por meio da qual o magistrado de piso julgou procedente em parte a ação.
+Dessa forma, mostra-se de rigor o reconhecimento da perda de objeto do presente recurso.
+2. Do exposto, dou provimento ao agravo interno a fim de reconsiderar a decisão de fls. 341/344, e-STJ, e de plano julgar prejudicado o agravo (art. 544 do CPC/1973), ante a perda superveniente do seu objeto.
+Publique-se.
+Intimem-se.
