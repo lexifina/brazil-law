@@ -1,0 +1,25 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Bruno Frederico de Castro Lacerda e outros em favor de Camilo José Coelho Bezerra da Cunha, contra acórdão do Superior Tribunal de Justiça, que negou provimento ao RHC 93.628/PE.
+    Narra a inicial que o paciente foi denunciado, em virtude de posterior aditamento à exordial acusatória, pela suposta prática dos crimes de disparo de arma de fogo e de dano qualificado, tipificados nos arts. 15 da Lei 10.826/2003 e art. 163, parágrafo único, c/c art. 29, ambos do Código Penal.
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de Pernambuco/PE, que denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que negou provimento ao RHC 93.628/PE.
+    No presente writ, os Impetrantes alegam, em síntese, ausência de justa causa para a ação penal. Sustentam afronta à coisa julgada ante a extinção da punibilidade por homologação da composição civil dos danos relativo ao delito de ameaça. Defendem a possibilidade de aplicação do princípio da consunção aos fatos. Aduzem a inexistência de novas provas a justificar o aditamento da denúncia pelo cometimento dos crimes de disparo de arma de fogo e de dano qualificado. Requerem, em medida liminar, o sobrestamento da audiência de instrução e julgada designada. No mérito, pugnam pela exclusão do paciente do polo passivo da ação penal e, sucessivamente, pelo reconhecimento de nulidade processsual.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “PROCESSO PENAL. RECURSO EM HABEAS CORPUS. AMEAÇA. COMPOSIÇÃO CIVIL. AÇÃO PENAL PRIVADA. POSTERIOR ADITAMENTO DA DENÚNCIA POR DANO QUALIFICADO E DISPARO DE ARMA DE FOGO. NATUREZA DOS CRIMES PRATICADOS. APURAÇÃO POR MEIO DE AÇÃO PENAL PÚBLICA. TRANCAMENTO DO PROCESSO CRIME. OFENSA À COISA JULGADA. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. RECURSO NÃO PROVIDO.
+    1. Esta Corte Superior pacificou o entendimento segundo o qual, em razão da excepcionalidade do trancamento da ação penal, tal medida somente se verifica possível quando ficar demonstrado – de plano e sem necessidade de dilação probatória – a total ausência de indícios de autoria e prova da materialidade delitiva, a atipicidade da conduta ou a existência de alguma causa de extinção da punibilidade. É certa, ainda, a possibilidade de trancamento da persecução penal nos casos em que a denúncia for inepta, não atendendo o que dispõe o art. 41 do Código de Processo Penal, o que não impede a propositura de nova ação desde que suprida a irregularidade.
+    2. A composição civil dos danos é a proposta feita pelo suposto autor do fato a vítima para reparar os prejuízos causados por crime de menor potencial ofensivo.
+    3. No caso em exame, verifica-se que a audiência realizada em 24/9/2008, a qual homologou a composição civil entre o recorrente e seu irmão, nos termos do art. 72 da Lei n. 9.099/1995, refere-se ao delito previsto no art. 147 do Código Penal.
+    4. A composição civil quanto ao crime de ameaça não tem o condão de obstar o oferecimento de denúncia em desfavor do recorrente em relação a outras infrações penais, uma vez que, nos termos do art. 107, V, do Código Penal, a extinção da punibilidade pela renúncia do direito de queixa ocorre apenas nos crimes de ação penal privada, não alcançando delitos, cuja natureza requer a apuração por meio de ação penal pública.
+    5. A jurisprudência desta Corte Superior é firme no sentido de que "a existência de novas provas é requisito apenas para o desarquivamento de inquérito policial arquivado em razão de promoção do Ministério Público ao Juízo, podendo o órgão acusador, a qualquer tempo antes da sentença, oferecer aditamento à denúncia, em observância aos princípios da obrigatoriedade da ação penal pública e da busca da verdade real." (HC 197.886/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 25/4/2012).
+    6. Em se tratando de ação penal pública incondicionada, não está o Ministério Público obrigado a denunciar todos os indiciados no mesmo ato processual. Pode propor ação penal com relação aos agentes contra quem haja indícios suficientes e determinar, quanto aos demais, o arquivamento ou o prosseguimento das investigações, sendo cabível, em momento posterior, o aditamento da denúncia ou até o oferecimento de nova.
+    7. Recurso não provido.
+    Ressalto que, para fins de apreciação do pedido de liminar, é necessário avaliar se o ato dito coator teve o condão de caracterizar patente constrangimento ilegal.
+    Ao exame dos autos, verifico que o acórdão exarado pela Corte Superior se encontra fundamentado, apontando as razões de seu convencimento para rechaçar a tese defensiva.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar.
+    Ante o exposto, indefiro o pedido de liminar.
+    Colha-se a manifestação do Ministério Público Federal.
+    Publique-se.
+    Brasília, 18 de maio de 2018.
+Ministra Rosa Weber
+Relatora
