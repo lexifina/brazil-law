@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+Tráfico de entorpecentes - Condenação - Recurso defensivo e ministerial - Materialidade e autoria devidamente comprovadas - Tráfico comprovado - Versão verossímil de policiais civis - Ausência de indícios de que tivessem motivos para falsamente incriminar o apelante - Causa de diminuição de pena - Diminuição em metade - Proporcional - Natureza da droga - Cocaína - Art. 42, da Lei n. 11.343/06 - Regime inicial semiaberto mantido - Presença de apenas uma circunstância judicial negativa - Regime fechado fixado - Art. 33, § 3o, do CP - Tráfico de cocaína - Substância extremamente prejudicial à saúde - Recurso defensivo não provido e recurso ministerial provido.
+Nas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, alega a defesa violação dos arts. 33, § 4º, e 42, ambos da Lei 11.343/06, e aos arts. 33, § 2º, b e c, e 44, do Código Penal.
+Pugna, em síntese, pela redução da pena na fração máxima de 2/3, pela incidência do tráfico privilegiado e, consequentemente, a imposição do regime aberto e a substituição da pena corporal por restritiva de direitos. Subsidiariamente, busca a alteração do regime inicial de cumprimento para o semiaberto.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso especial.
+É o relatório.
+Decido.
+Consta dos autos que o recorrente foi condenado à pena de 2 anos e 6 meses de reclusão, a ser cumprida inicialmente em regime fechado, e ao pagamento de 250 dias-multa, por infração ao art. 33, caput, da Lei 11.343/06.
+Quanto ao quantum de redução aplicado, o Tribunal a quo manifestou-se nos seguintes termos (fl. 309):
+Finalmente, nenhuma modificação deve ser feita na terceira fase da dosimetria da pena, quando diminuída em 1/2 (metade) pela causa de diminuição do art. 33, § 4o, da Lei n. 11.343/06, considerando que, apesar de pequena a quantidade da droga, duas de natureza distintas foram apreendidas.
+A cocaína, como se sabe, possui elevadíssimo potencial viciante e prejudicial à saúde humana e, nos termos do art. 42, da Lei n. 11.343/06, referida natureza deve ser levada em preponderância ao próprio art. 59, do CP, para a fixação da dosimetria da pena.
+Proporcional, pois, manter-se em metade a diminuição.
+Muito embora a natureza do entorpecente seja válida para fins de modulação do quantum de redução há ser aplicada, mostra-se desproporcional a redução da reprimenda em metade, uma vez que todas as circunstâncias judiciais lhe foram favoráveis e a quantidade de entorpercentes encontradas em sua posse não foi elevada (8 gramas de cocaína e 3 gramas de maconha - fl. 207). Nesse sentido:
+REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/06. APLICAÇÃO DA FRAÇÃO MÁXIMA. POSSIBILIDADE.
+1. Tendo o legislador previsto apenas os pressupostos para a incidência do art. 33, § 4º, da Lei n.º 11.343/06, deixando, contudo, de estabelecer os parâmetros para a escolha entre a menor e a maior frações indicadas para a mitigação da reprimenda, devem ser consideradas as circunstâncias judiciais previstas no art. 59 do Código Penal, e, especialmente, a natureza e a quantidade de droga, a teor do disposto no artigo 42 da Lei n.º 11.343/2006.
+2. Ainda que o crack tenha um alto poder de lesividade, a inexpressiva quantidade de tóxicos apreendidos, aliados à favorabilidade das outras circunstâncias judiciais, recomenda a aplicação da causa de diminuição em seu grau máximo, ou seja, 2/3 (dois terços).
+3. Agravo regimental desprovido (AgRg no AREsp 1044533 / ES, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 25/04/2017, DJe 05/05/2017), grifei.
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE. FRAÇÃO. DESPROPORCIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não havendo sido elevada a quantidade de crack apreendida (5,9 g), mostra-se manifestamente desproporcional sopesar apenas a natureza da droga para justificar a incidência da minorante, no caso, no menor patamar previsto em lei.
+2. Agravo regimental não provido (AgInt no AgRg no AREsp 884.435/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/05/2017, DJe 30/05/2017), grifei.
+Passo, portanto, ao redimensionamento da pena.
+Atento aos critérios utilizados pelo juízo sentenciante, estabeleço a pena-base em 5 anos de reclusão e 500 dias-multa. Na segunda fase, assim como operado pelo juízo a quo, reconheço a atenuante de menoridade relativa, no entanto permanece inalterada a pena em razão de já se encontrar no mínimo, em atenção à Súmula 231/STJ. Na terceira fase, aplicando a causa especial de diminuição do tráfico privilegiado em seu patamar máximo, reduzo a pena para 1 ano e 8 meses de reclusão e ao pagamento de 166 dias-multa.
+No que se refere ao regime inicial de cumprimento, o acórdão exarou a seguinte fundamentação (fl. 310):
+O regime fechado, pedido pelo Ministério Público, deve ser fixado, porquanto se trata de tráfico de cocaína, como já supramencionado, substância entorpecente de extrema prejudicialidade à saúde, nos termos do art. 33, § 3o, do CP.
+Observa-se que o fundamento, para a imposição do regime mais gravoso, fora a prejudicialidade à saúde causada pelo entorpecente encontrado em poder do recorrente.
+Todavia, em atenção aos demais fatores do caso, o montante da pena aplicada e a ausência de circunstâncias judiciais negativas, seria desproporcional o estabelecimento de regime diverso ao aberto, em atenção ao art. 33, § 2º, c, do Código Penal.
+Quanto ao pleito pela substituição da pena corporal pela restritiva de direitos, observando o montante da pena aplicada e o preenchimento dos requisitos estabelecidos pelo art. 44 do Código Penal, substituo a reprimenda física por restritiva de direitos a ser estabelecida em gênero e quantidade pelo Juízo da Execução Penal.
+Ante o exposto, nos termos da fundamentação supra, dou provimento ao recurso especial para fixar a pena do recorrente em 1 ano e 8 meses de reclusão, a ser cumprida em regime aberto, além de 166 dias-multa, substituída a pena corporal por restritivas de direitos, a serem definidas pelo Juízo da Execução.
+Publique-se.
+Intimem-se.
