@@ -1,0 +1,30 @@
+DECISÃO
+AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. CONCURSO PUBLICO. RESPONSABILIDADE CIVIL. INAPTA PARA O EXERCÍCIO DA FUNÇÃO. SERVIDORA ADMITIDA POR DECISÃO JUDICIAL. DANOS MORAIS NÃO CONFIGURADOS. DOCUMENTAÇÃO NOS AUTOS. REEXAME. REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. DISPOSITIVOS . AGRAVO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial fundado nas alíneas a e c do art. 105, III da Constituição Federal, no qual MARILZA CÂMARA SANTIAGO se insurge contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+RESPONSABILIDADE CIVIL DO ESTADO - SERVIDORA ADMITIDA POR DECISÃO JUDICIAL - INDENIZAÇÃO POR DANOS MATERIAIS - INADMISSIBILIDADE - DANOS MORAIS NÃO COMPROVADOS - AÇÃO PROCEDENTE EM PARTE - RECURSOS OFICIAL E DA MUNICIPALIDADE DE SÃO PAULO PROVIDOS (fls. 853).
+2. Em seu Apelo Especial (fls. 862/882), sustenta a parte agravante, além de dissídio jurisprudencial, ofensa aos arts. 5o,, X, da CF/1988; 43 e 186 do CC. Alega, para tanto, que houve abalo em seu patrimônio psicológico, vez que a atitude desastrada e divorciada de motivação, causou repercussões na vida funcional e social da recorrente, impedindo-a de ingressar e exercer tempestivamente cargo público pela qual havia sido aprovada, deixando ainda de receber os vencimentos correspondentes desde o evento danoso (fls.872)
+3. Sobreveio juízo negativo de admissibilidade (fls. 958), sob o óbice da Súmula 7/STJ, da não demonstração do dissídio jurisprudencial, o que ensejou a interposição do presente Agravo (fls. 962/977).
+4. É o relato do essencial.
+5. A irresignação não merece prosperar.
+6. No mérito, a Corte de origem entendeu que os fatos narrados nos autos não configuram hipótese de danos morais, cujos pressupostos não foram comprovados, nos seguintes termos:
+Passando ao mérito propriamente dito, não é caso de pagamento de vencimentos e benefícios pretéritos.
+No julgamento pela Suprema Corte do Ag.Reg. no Recurso Extraordinário no. 593.373  DF, relator o Ministro Joaquim Barbosa, ficou registrado: Nos termos da orientação firmada nesta Corte, é indevida ó indenização pelo tempo em que se aguardou solução judicial definitiva sobre aprovação em concurso público.
+(..).
+E nem de indenização por danos morais, que não sendo daqueles detectáveis à luz da própria experiência da vida, de que são à exemplos a perda de ente querido, a prisão indevida, etc., quando então é possível perceber, sem necessidade de provas, a presença de sofrimento suscetível de reparação, exigem a plena comprovação de que a inaptidão tenha ocasionado à autora angústia e dor capazes de provocarem alteração de seu psiquismo e comportamento durante determinado período razoável de tempo, o que no caso concreto não se verifica (fls. 854/855).
+7. Ora, a alteração de tais conclusões tiradas à vista dos documentos e das provas realizadas nos autos implica o revolvimento do conteúdo fático-probatório da demanda, situação que esbarra na Súmula 7/STJ. No mesmo sentido, seguem os precedentes a seguir colacionados:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO FUNCIONAL. ARTS. 130, 330, I, E 333 DO CPC. CONJUNTO FÁTICO-PROBATÓRIO SUFICIENTE PARA O JULGAMENTO DA LIDE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O magistrado é o destinatário da prova, competindo às instâncias ordinárias exercer juízo acerca da suficiência das que foram produzidas, nos termo do art. 130 do CPC (AgRg no AREsp 274.861/SP, Rel. Min. Antonio Carlos Ferreira, DJe 26/04/2013). O Tribunal de origem entendeu pela suficiência das provas documentais carreadas aos autos para a solução da lide. Nesse contexto, rever o entendimento do acórdão recorrido demandaria necessariamente o reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7 do STJ.
+2. Agravo regimental não provido (AgRg no AREsp. 364.979/MG, Rel. Min. BENEDITO GONÇALVES, DJe 11.12.2014).
+
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE DE TRÂNSITO. AUSÊNCIA DE RESPONSABILIDADE DA CONCESSIONÁRIA. CULPA EXCLUSIVA DE TERCEIRO. REVISÃO DESSE ENTENDIMENTO. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. O Tribunal de origem, com amparo nos elementos de convicção dos autos, entendeu que não ficou configurada responsabilidade por imissão da Concessionária a ensejar o dever de reparar por dano moral decorrente de acidente ocorrido na rodovia.
+2. Insuscetível de revisão, nesta via recursal, o referido entendimento, por demandar reapreciação de matéria fática. Incidência da Súmula 7 deste Tribunal.
+Agravo regimental improvido (AgRg nos EDcl no AREsp. 665.559/SP, Rel. Min. HUMBERTO MARTINS, DJe 14.9.2015).
+8. No tocante à alínea c, além do sugerido dissídio jurisprudencial não ter sido analiticamente demonstrado de acordo com os arts. 255, § 2o. do RISTJ e 541, parág. único do CPC/1973, estando a decisão fundada na prova dos autos, impossível se torna o confronto entre paradigmas e o acórdão recorrido, pois a comprovação do pretendido dissenso reclama consideração sobre a situação fática própria de cada julgamento. Nesse sentido:
+DISSÍDIO JURISPRUDENCIAL. ALÍNEA C. NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. REDUÇÃO DO QUANTUM FIXADO A TÍTULO INDENIZATÓRIO POR DANO MORAL. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Com relação ao dissídio jurisprudencial, a divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles.
+(..).
+3. Ressalta-se ainda que o óbice da Súmula 7/STJ é aplicável também ao Recurso Especial interposto com fundamento na alínea c do inciso III do artigo 105 da Constituição da República.
+4. Agravo Regimental não provido (AgRg no AREsp. 580.692/PR, Rel. Min. HERMAN BENJAMIN, DJe 30.3.2015).
+9. Diante do exposto, com esteio no art. 544, § 4o., II, a do CPC, nega-se provimento ao Agravo do particular.
+10. Publique-se. Intimações necessárias.
