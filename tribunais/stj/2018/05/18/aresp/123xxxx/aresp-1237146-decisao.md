@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL. TRÁFICO DE ENTORPECENTES. ART. 33 DA LEI N. 11.343/2006. 497,51 G DE MACONHA. DESCLASSIFICAÇÃO: PORTE PARA CONSUMO PESSOAL. ART. 28 DA LEI N. 11.343/2006. INEXISTÊNCIA DE PROVAS ACERCA DA MERCANCIA. ACÓRDÃO FIRMADO EM MATERIAL FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo conhecido para negar provimento ao recurso especial.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Ministério Público de Goiás contra decisão do Tribunal Regional da 2ª Região que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele oferecido (fls. 447/450).
+Segundo os autos, o Juízo de primeiro grau condenou o agravado pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 6 anos e 6 meses de reclusão, em regime inicial fechado (fls. 455/480).
+Ao reformar a sentença condenatória, o Tribunal de origem considerou que o agravado, réu primário, portava 497,51 g de maconha; contudo, entendeu que não restou evidenciado seu interesse em comercializar a droga, logo, desclassificou o tipo praticado pelo réu para o delito previsto no art. 28 da Lei n. 11.343/2006 (fls. 582/612).
+Esta, a amenta do acórdão regional (fl. 597 - grifo nosso):
+APELAÇÃO CRIMINAL. TRÁFICO ILÍCITO DE DROGAS. NULIDADES DA INSTRUÇÃO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. DESCLASSIFICAÇÃO PARA USO PRÓPRIO. ADMISSIBILIDADE.
+1. Não há falar em nulidade, decorrente do cerceamento de defesa, em virtude da ausência de testemunha arrolada pela defesa na audiência de instrução e julgamento, quando esta, regularmente intimada, não comparece ao ato, bem como a defesa não insiste em sua oitiva.
+2. Não há cerceamento de defesa no indeferimento de realização de exame toxicológico se não está demonstrado que o vício interfere diretamente em sua capacidade de entendimento ou determinação.
+3. Subsistindo dúvidas quanto à realização, pelo réu, da ação disseminatória da substância estupefaciente, e ficando demonstrada a sua condição de usuário de droga, é impositiva a desclassificação da imputação para a figura do art. 28 da Lei Antidrogas, com remessa dos autos ao Juizado Especial Criminal competente.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Nas razões recursais, o Parquet estadual aponta negativa de vigência aos arts. 28, § 2º, e 33, ambos da Lei n. 11.343/2006, porquanto  ..  ao exigir prova da finalidade comercial da droga, olvidou a Corte goiana que o próprio texto legal (importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar) ressalta a gratuidade das condutas que arrola (fl. 641).
+Requer o agravante, em necessária síntese, o restabelecimento da sentença condenatória (fl. 641).
+Apresentadas contrarrazões (fls. 658/666), o recurso especial não foi admitido por incidência da Súmula 7/STJ (fls. 668 e 669). Contra essa decisão a defesa interpôs agravo (fls. 677/683).
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do agravo (fls. 704/709).
+É o relatório.
+Presentes os requisitos de admissibilidade do agravo, passo ao exame das razões do especial.
+No caso, o Tribunal de origem, soberano na análise do conjunto fático-probatório disposto nos autos, considerou que o agravado é usuário contumaz de entorpecentes e, além disso, entendeu que a autoridade policial não reuniu provas suficientes acerca da mercancia das drogas encontradas (497,51 g de maconha), consequentemente desclassificou sua conduta nos termos do art. 28 da Lei n. 11.343/2006 (fls. 608/612 - grifo nosso):
+ ..  O pai do apelante, [NOME], também afirmou que seu filho é usuário contumaz de drogas, vício este custeado pela mãe do réu, acrescentando que meio quilograma de maconha custa o valor aproximado de trezentos reais (fls. 206/207).
+ ..
+É preciso ponderar que, mesmo que tenham sido encontradas substâncias entorpecentes com o acusado, parece-me temerário considerar que apenas a declaração dos policiais que participaram da sua prisão seja prova suficiente a certificar uma condenação tão grave e severa como a que lhe foi imposta.
+E isso porque, mesmo nos depoimentos judiciais desses policiais, frise-se, únicas testemunhas ouvidas em juízo e os únicos a creditar ao apelante a prática de tráfico ilícito de entorpecentes, não há elementos consistentes que possibilitem delinear, com certeza, a mercancia supostamente exercida pelo apelante.
+Não se questiona o valor desses depoimentos, repita-se, colhidos sob o crivo do contraditório. Contudo, é de se observar pontualmente a impossibilidade de que tais declarações forneçam dados conclusivos o bastante para descredenciar a versão do recorrente e sustentar o juízo condenatório.
+É certo que, como qualquer outro testemunho processual, para que sejam admitidas como fonte probatória única e exclusiva na formação da convicção condenatória, é imprescindível que as declarações de policiais encontrem apoio e repercussão em outros elementos de convicção obtidos no decorrer da instrução do processo, e não apresentem qualquer contradição ou descompasso.
+No caso em estudo, repito, o relato dos policiais, embora informativo, mostra-se vago e inconsistente, por isso inapto a sustentar a decisão condenatória. Não há certeza de que a droga encontrada com o réu seria disseminada.
+ ..
+Assim, tratando-se de réu primário e restrita a quantidade da droga apreendida (497,51 Og de maconha - laudo pericial fls. 253/254), conclui-se que a prova é insuficiente para a condenação, eis que nenhuma informação de tráfico por parte do acusado foi apresentada. Nessas condições, é impositiva a desclassificação para a figura típica do artigo 28 da Lei de Drogas.
+Forte em tais razões, desacolho o pronunciamento ministerial de cúpula e desclassifico o delito para o previsto no artigo 28 da Lei de Drogas, determinando a remessa dos autos ao Juizado Especial Criminal da região do fato, para as providências cabíveis.
+ ..
+Por conseguinte, da atenta leitura dos autos, a alegação de existência de provas seguras para a condenação do agravado nos termos do art. 33 da Lei n. 11.343/2006, demanda  ..  o revolvimento do conteúdo fático-probatório dos autos, providência inadmissível na via do recurso especial. Incidência do enunciado n. 7 da Súmula desta Corte (AgRg no AREsp n. 1.222.844/ES, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/4/2018).
+Da atenta leitura dos autos, denota-se que desconstituir a conclusão a que chegaram as instâncias ordinárias, na forma pretendida pelo ora agravante - ao fundamento de existências de provas para condenação -, implica necessariamente incursão no conjunto probatório dos autos, revelando-se inadequada a análise da pretensão recursal em função do óbice da Súmula 7/STJ.
+Na via especial, repita-se, o Superior Tribunal de Justiça não é sucedâneo de instâncias ordinárias, sobretudo quando envolvida, para a resolução da controvérsia, a apreciação do acervo de provas dos autos, o que é incabível em tema de recurso especial, a teor da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
