@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO FEDERAL FLUMINENSE - IFF contra decisão do Tribunal Regional Federal da 2ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 620):
+PROCESSO CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. OMISSÃO CONFIGURADA. EFEITOS INFRINGENTES. CONCURSO PÚBLICO. CARGO DE PROFESSOR DE ENSINO BÁSICO, TÉCNICO E [NOME]. ATENDIMENTO AOS TERMOS DO EDITAL.
+- O não enfrentamento de argumento que enseja modificação do julgado constitui omissão a ser sanada com efeitos infringentes por meio de embargos declaratórios.
+- O acórdão embargado, no caso concreto, não apreciou a equiparação do titulo apresentado pela candidata àquele exigido pelo edital do concurso para o provimento da vaga.
+- O candidato à vaga de professor do Ensino Básico, Técnico e [NOME] deveria possuir, segundo as regras do certame, habilitação específica obtida em licenciatura plena ou habilitação legal equivalente, sendo que o titulo de bacharelado em Matemática, ciência da qual deriva o estudo da informática, em instituição reconhecida pelo MEC, atende à exigência do Edital.
+- Os cursos de Mestrado em Informática, Doutorado em Ciências -Informática, com área de concentração em Banco de Dados, bem como o de Extensão em Análise de Sistemas, todos concluídos pela candidata, constituem qualificações superiores àquelas exigidas pelo Edital.
+- Embargos de Declaração a que se dá provimento para, concedendo-lhes efeitos infringentes, negar provimento à apelação e à remessa necessária, com manutenção da sentença que determinou a nomeação e posse da candidata.
+Rejeitados os subsequentes aclaratórios (e-STJ fls. 656/663).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 535, II, do CPC/1973, 13, § 2º, I, e § 4º, da Lei n. 11.784/2008, 19, VI e VIII, do Decreto n. 6.944/2009, 5º, IV, e 12, §1º da Lei n. 8.112/1990, sustentando negativa de prestação jurisdicional, bem como que a parte adversa não comprovou o requisito de escolaridade previsto no edital do certame para o cargo pretendido.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de suficiente prestação jurisdicional e incidência da Súmula 7 do STJ (e-STJ fls 772/773).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+Ausente contraminuta (e-STJ fl. 788).
+O Ministério Público Federal opina pelo não conhecimento do agravo (e-STJ fls. 806/810).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Em relação ao art. 535, II, do CPC/1973, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (AgRg no AREsp 719.983/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/04/2016, DJe 26/04/2016, e AgRg no AREsp 811.706/PR, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 07/04/2016, DJe 15/04/2016).
+Quanto ao mais, o aresto hostilizado entendeu que a parte recorrida, ao apesentar diploma de bacharelado em Matemática e de conclusão dos Cursos de Mestrado e de Doutorado em Informática, com área de concentração em Banco de Dados, bem como o de Extensão em Análise de Sistemas, teria formação, na mesma área, que excederia a exigida no edital do concurso para o cargo de cargo de Professor de Ensino Básico, Técnico e [NOME], Área de Informática do instituto ora agravante (e-STJ fls. 618).
+O Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
