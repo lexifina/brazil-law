@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra decisão monocrática desta relatoria que deu provimento ao recurso especial.
+Em suas razões, a parte embargante requer, em síntese, " a suspensão da presente ação, mantendo a liminar concedida, até decisão do Repetitivas nº 0054174-66.2017.8.26.0000 e Tema nº 989 pendente de julgamento pela Segunda Seção do Superior Tribunal de Justiça."
+Os embargados apresentaram impugnação (e-STJ, fls. 507/512).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Cumpre salientar que a decisão ora agravada observou o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No caso dos autos, não existe a apontada contradição, pois é firme o entendimento desta Corte Superior de Justiça de que a afetação de recursos repetitivos não impõe, necessariamente, a suspensão dos processo em curso no STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. RECURSO REPETITIVO. SOBRESTAMENTO. ATRASO NA ENTREGA DE OBRA. LUCROS CESSANTES E CLÁUSULA PENAL. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE MATÉRIA DE FATO. CUMULAÇÃO. POSSIBILIDADE.
+1. A afetação de recurso especial aos ritos dos recursos repetitivos não impõe, necessariamente, a suspensão dos processos em curso no STJ, conforme decidido pela Segunda Seção desta Corte, no julgamento do AgRg na Rcl 27.689/MG, de relatoria do Ministro Moura Ribeiro.
+2. Inviável a interpretação de cláusulas contratuais e o reexame de matéria de fato em recurso especial, por óbice das Súmulas n. 5 e 7 do STJ.
+3. No caso dos autos, é vedada a alteração das conclusões do acórdão recorrido a respeito da caracterização da cláusula penal como compensatória, e não moratória, como pretende a recorrente. 4. Celebrado acordo entre as partes, sem a participação do advogado, cabível a execução da verba honorária, não atingida pela transação. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp 764.552/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/10/2017, DJe 31/10/2017).
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA AGUARDAR JULGAMENTO DE RECURSO REPETITIVO. NECESSIDADE. INEXISTÊNCIA. ACÓRDÃO EMBARGADO DE ACORDO COM PRECEDENTES DA CORTE ESPECIAL. SÚMULA Nº 168/STJ. RECURSO A QUE SE NEGA PROVIMENTO.
+1. É firme o entendimento deste Sodalício no sentido de que a regra processual de suspensão dos recursos, quando o tema está submetido à sistemática do recurso repetitivo, se aplica apenas aos Tribunais de segunda instância, não havendo, por isso, necessidade de sobrestamento nesta instância superior.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EREsp 1511921/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 07/12/2016, DJe 14/12/2016)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. GRATUIDADE JUDICIÁRIA. HONORÁRIOS DE SUCUMBÊNCIA. RECURSO ESPECIAL NÃO CONHECIDO. EMBARGOS DE DIVERGÊNCIA. DECISÃO MONOCRÁTICA COMO PARADIGMA. INDEFERIMENTO LIMINAR.
+I - Os embargos de divergência têm como premissa basilar a ocorrência de divergência jurisprudencial entre decisões prolatadas pelos órgãos colegiados desta Corte Superior, nos termos do art. 266 do RISTJ, não se prestando ao confronto a indicação de decisão monocrática como paradigma.
+II - A afetação de determinado recurso ao rito dos repetitivos, nos termos do art. 543-C do Código de Processo Civil de 1973, não implica a suspensão ou o sobrestamento das demais ações já em curso no Superior Tribunal de Justiça.
+III - Agravo interno improvido
+(AgInt nos EAREsp 799.053/SC, Rel. Min. FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, DJe 3.5.2017).
+PROCESSUAL CIVIL. TRIBUTÁRIO. DISCUSSÃO ACERCA DA POSSIBILIDADE DE INSCRIÇÃO EM DÍVIDA ATIVA DE BENEFÍCIO PREVIDENCIÁRIO INDEVIDAMENTE RECEBIDO, QUALIFICADO COMO ENRIQUECIMENTO ILÍCITO. MATÉRIA SUBMETIDA A RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. ART. 543-C, DO CPC. SOBRESTAMENTO NA ORIGEM. NECESSIDADE. RETORNO DOS AUTOS. 1. Os embargos declaratórios são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente no julgado. 2. A temática acerca da possibilidade de inscrição em dívida ativa de benefício previdenciário indevidamente recebido, qualificado como enriquecimento ilícito, encontra-se afetada à Primeira Seção do STJ aguardando o julgamento do REsp 1.350.804 - PR, relatoria Min. Mauro Campbell, sob o rito dos recursos repetitivos (art. 543-C do CPC).
+3. A afetação de recurso especial como representativo da controvérsia demanda à Corte de origem a suspensão de recursos que abordem questão análoga, até o julgamento definitivo da controvérsia. Após o pronunciamento desta Corte, os recursos suspensos devem ser analisados na forma prevista nos §§ 7º e 8º do art. 543-C do CPC (art. 5º, inciso III, da Resolução n. 8/2008 da Presidência do STJ). Embargos de declaração acolhidos, com efeitos modificativos, para anular o acórdão embargado e tornar sem efeito a decisão monocrática, ao passo que determino a devolução do processo ao Tribunal de origem"
+(EDcl no AgRg no AREsp 225.034/BA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 21/03/2013, DJe de 02/04/2013).
+De ver-se, portanto, que os presentes embargos declaratórios revelam o nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
