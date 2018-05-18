@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+1. A teor do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, todos os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça , por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado pelo MUNICÍPIO DE SÃO PAULO, que desafia decisão de minha lavra, proferida às e-STJ fls. 219/220, em que não conheci do agravo em recurso especial, visto que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada.
+No presente agravo interno, sustenta a parte agravante, às e-STJ fls. 224/227, em suma, que, ao contrário do consignado, foram infirmados os fundamentos da decisão de inadmissibilidade do recurso especial, inclusive em relação à ausência de obscuridade/contradição/omissão/erro e à Súmula 7/STJ.
+Requer, assim, a reconsideração do decisum impugnado ou a submissão do feito ao Órgão colegiado.
+Impugnação às e-STJ fls. 231/232.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+A teor do disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015, bem assim da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, todos os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+Na hipótese dos autos, o decisum ora impugnado não conheceu do agravo interposto, visto que a parte agravante não se insurgiu contra os fundamentos do juízo de prelibação negativo do recurso especial.
+Da leitura das razões do agravo interno, observa-se que, mais uma vez, a parte agravante deixou de atacar os fundamentos do decisum agravado, sem contrapor, específica e concretamente, a decisão ora agravada, no tocante à falta de impugnação quanto à ausência de obscuridade/contradição/omissão/erro e à Súmula 7/STJ.
+No caso, a parte limitou-se a alegar que infirmou os fundamentos da decisão de inadmissibilidade do recurso especial, sem, contudo, apontar eventual ataque específico a tais óbices processuais nas razões de agravo em recurso especial, assim consignando (e-STJ fls. 226/227):
+Com efeito, o agravo em recurso especial em questão demonstrou: (a) a efetiva violação ao disposto no artigo 1022, incisos I e II do CPC/2015 (correspondente ao artigo 535, incisos I e II do CPC/73) pelo acórdão recorrido; (b) a suficiência dos argumentos contidos no recurso especial interposto pelo Município de São Paulo para demonstrar o desrespeito do v. acórdão proferido pelo Tribunal de origem ao artigo 3º do CPC/1973 (atualmente correspondente ao artigo 17 do CPC/2015) e ao artigo 188, I do CC/2002; (c) a usurpação da competência deste c. Superior Tribunal de Justiça realizada pela decisão proferida pelo e. Tribunal de origem; (d) a desnecessidade de reanálise de provas para a análise do Recurso Especial interposto pelo Município de São Paulo e o respeito ao contido na Súmula 7 do Superior Tribunal de Justiça.
+Assim, é de se concluir que o agravo em recurso especial interposto pelo Município de São Paulo efetivamente impugnou especificamente e adequadamente todos os elementos da decisão por ele recorridos, inclusive, os relativos à não incidência do óbice da Súmula 7/STJ e da ocorrência de violação ao disposto no artigo 1022, inciso I e II do CPC/2015 (correspondente ao 535, inciso I e II do CPC/73).
+Com efeito, em relação a não incidência do óbice da Súmula 7/STJ, o agravo em recurso especial foi claro em demonstrar que o recurso especial interposto pelo Município de São Paulo não demanda a reanálise de provas, uma vez que a questão tratada no recurso é meramente de direito sendo, pois, plenamente possível de ser submetida à analise do Superior Tribunal de Justiça, por meio de recurso especial, sem que seja necessária a reanálise das provas. Ademais, a requalificação jurídica das provas se mostra, também, como instrumento apto a permitir que o Superior Tribunal de Justiça proceda à análise do Recurso Especial interposto pelo Município de São Paulo. Demonstrou-se, assim, que inexiste, portanto, qualquer violação à Sumula 7/STJ.
+O agravo em recurso especial interposto pelo Município de São Paulo demonstrou ainda a efetiva violação ao disposto no artigo 1022, incisos I e II do CPC/2015 (correspondente ao artigo 535, incisos I e II do Código de Processo Civil/1973) pelo v. acórdão recorrido quando demonstrou que o e. Tribunal de origem se recusou a analisar as omissões e as obscuridades apontadas nos embargos de declaração e deixou, portanto, de apreciar importantes questões para a defesa.
+Desse modo, forçosa é a incidência da Súmula 182 deste Tribunal.
+Sobre o tema, cito os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/05/2016, DJe 27/05/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 544, § 4º, I, DO CPC/73 (ATUAIS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ) E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I. Trata-se de Agravo interno, interposto em 19/04/2016, contra decisão monocrática, publicada em 14/04/2016, na vigência do CPC/2015.
+II. No caso, o Recurso Especial não foi admitido, na origem, pela ausência de omissão no acórdão recorrido, pela incidência das Súmulas 284 e 356/STF e 7 e 83/STJ, bem como porque ausente a demonstração da divergência jurisprudencial invocada. O Agravo em Recurso Especial interposto não impugnou todos os óbices, o que conduziu ao seu não conhecimento, nos termos do art. 544, § 4º, I, do CPC/73 (atuais arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ), cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno, a parte recorrente apresenta razões outras, deixando de impugnar, novamente, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno sem infirmar, especificamente, os fundamentos da decisão agravada e apresentando, ainda, outra fundamentação, dela dissociada, constitui óbice ao conhecimento do inconformismo a Súmula 182 desta Corte, em face do art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Agravo interno não conhecido.
+(AgInt no AREsp 866.675/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/05/2016, DJe 25/05/2016)
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
