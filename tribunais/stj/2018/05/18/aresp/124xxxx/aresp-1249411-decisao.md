@@ -1,0 +1,20 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL. HOMICÍDIO QUALIFICADO. ARTS. 121, § 2º, I, III E IV, DUAS VEZES, E 211, TUDO NA FORMA DO ART. 69, TODOS DO CÓDIGO PENAL. DOSIMETRIA. RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA PARA REDUÇÃO DA SANÇÃO PENAL. O ACÓRDÃO LOCAL NÃO FOI INSTADO A DECIDIR ACERCA DO TEMA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF.
+Agravo conhecido para negar provimento ao recurso especial.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] e [NOME] contra decisão do Tribunal de Justiça do Rio de Janeiro que, em juízo de admissibilidade, negou seguimento ao recurso especial por eles oferecido (fls. 2.746 e 2.750).
+Segundo os autos, os agravantes foram condenados nos termos dos arts. 121, § 2º, I, III e IV, duas vezes, e 211, tudo na forma do art. 69, todos do Código Penal, às seguintes penas: 15 anos de reclusão, em regime fechado, para cada crime de homicídio qualificado; e 1 ano de reclusão, em regime aberto, e 10 dias-multa, no valor mínimo legal, para o crime de ocultação de cadáver (fls. 2.584/2.615).
+Nas razões recursais, a defesa aponta negativa de vigência aos arts. 65, II, d, c/c o 67, ambos do Código Penal, porquanto  ..  o concurso entre agravantes e atenuantes, o quantum de incremento ou de redução a incidir sobre a pena-base deve aproximar-se das circunstâncias preponderantes (fl. 2.665).
+Requerem os agravantes, em necessária síntese (fl. 2.666):
+ ..  Sendo inconteste o direito da ora Recorrente, e tendo a decisão ora combatida violado os dispositivos legais tantas vezes referidos na presente, requer seja conhecido o presente recurso e, no mérito, integralmente provido para, desfazendo-se a contrariedade à norma legal apontada, seja aumentado o quantum de redução de pena relativo à circunstância atenuante preponderante da confissão espontânea, de modo que esta passe a ter peso maior do que uma das circunstâncias agravantes - ambas não preponderantes - ou, na pior das hipóteses, que compense integralmente uma das agravantes genéricas presentes no caso concreto, por se tratar de medida de inteira JUSTIÇA.
+ ..
+Apresentadas contrarrazões (fls. 2.707/2.743), o recurso especial não foi admitido por incidência da Súmula 83/STJ (fls. 2.746/2.750). Contra essa decisão a defesa interpôs agravo (fls. 2.762/2.799).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do agravo (fls. 2.819/2.823).
+É o relatório.
+Presentes os requisitos de admissibilidade do agravo, passo ao exame das razões do especial.
+Ab initio, após o julgamento dos Embargos de Divergência n. 1.154.752/RS, a Terceira Seção deste Superior Tribunal pacificou o entendimento no sentido de ser cabível, na dosimetria da pena, a compensação da atenuante da confissão espontânea com agravante da reincidência.
+Entretanto, da atenta leitura do voto condutor do acórdão a quo (fls. 2.584/2.615), denota-se que a tese acerca do quantum de redução de pena relativo à incidência da confissão espontânea  ..  não foi debatida no acórdão recorrido, sem que os embargos de declaração opostos pelo recorrente tenham postulado a manifestação acerca do tema. Carece, portanto, de prequestionamento, nos termos da Súmula 356/STF (REsp n. 1.488.028/SC, da minha relatoria, Sexta Turma, DJe 25/10/2016).
+Em outras palavras, a pretensão disposta no recurso em exame não foi prequestionada, a fazer incidir as Súmulas 282 e 356, ambas do STF, isto é, o Tribunal de origem não emitiu qualquer juízo de valor acerca das alegações da defesa no que se refere à dosimetria - reconhecimento da confissão espontânea para redução da sanção - da pena imposta aos agravantes,  ..  de modo que resta vedada a abertura da via especial neste aspecto por falta do prequestionamento (AgRg no REsp n. 1.371.485/RS, Ministro Jorge Mussi, Quinta Turma, DJe 27/4/2018).
+Nesse sentido: AgRg no REsp n. 1.557.215/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/6/2017.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
