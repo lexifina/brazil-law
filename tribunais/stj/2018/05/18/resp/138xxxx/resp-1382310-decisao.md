@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE, com amparo no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo respectivo Tribunal de Justiça, assim ementado:
+"EMENTA: PROCESSO PENAL E PENAL. CRIME DE PECULATO NA FORMA CONTINUADA. ARI, 312 C/C 71, AMBOS DO CÓDIGO PENAL. APELAÇÃO DA DEFESA. PRELIMINAR DE NULIDADE DA SENTENÇA POR INOBSERVÂNCIA DA TESE CONTIDA NAS ALEGAÇÕES FINAIS SUSCITADA DE OFÍCIO. ACOLHIMENTO. SENTENÇA. CURA PETITA. AUSÊNCIA DE ANÁLISE DE TESE DEFENSIVA FUNDADA NA APLICAÇÃO DA ATENUANTE DE REPARAÇÃO DO DANO ANTES DO JULGAMENTO. FALTA DE FUNDAMENTAÇÃO. CERCEAMENTO DE DEFESA. VIOLAÇÃO AOS ARTS. 381, DO CPP, ART, 93, IX DA CF. NULIDADE DECRETADA. MÉRITO RECURSAL PREJUDICADO.
+I - É citra petita a decisão que deixa de analisar todas as teses de defesa apresentadas nas razões finais, tratando-se de nulidade a ser decretada.
+II - Precedentes (Apelação Criminal nº 201 1.013353-0. Rel Juiz Convocado Assis Brasil. Câmara Criminal. Julgamento: 29/03/2012; APELAÇÃO CRIMINAL N. 2011.014708-9, Relatora: Juíza Convocada Tatiana Socoloski (Juíza Convocada) Câmara Criminal. Julgamento 09/08/2012; Apelação Criminal nº 2012.004004-9. Relatora: Des. Maria Zeneide Bezerra. Câmara Criminal. Julgamento: 31/07/2012)." (e-STJ, fls. 553-554).
+Nas razões recursais, a acusação sustenta violação do art. 381 do Código de Processo Penal. Nesse sentido, aduz que a sentença condenatória não se revelou citra petita, tendo respeitado todos os requisitos legais. Por isso, requer o afastamento da nulidade.
+Contrarrazões apresentadas (e-STJ, fls. 580-602).
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ, fls. 622-624).
+É o relatório.
+Decido.
+No acórdão, o Tribunal de origem anulou a sentença condenatória ao fundamento de não ter ela enfrentado expressamente a incidência ou não da atenuante do art. 65, III, "b", do CP:
+"Observando os autos, consta nas alegações finais de fls. 302/314 que o apelante suscitou, dentre seus fundamentos, tese de aplicação da atenuante cia pena prevista no art. 65, III, "b" do Código Penal, sob o argumento de que houve o ressarcimento ao erário antes do julgamento da ação penal.
+Todavia, embora na sentença (fls. 315/322), especificamente na dosimetria, a Magistrada a quo tenha mencionado, tão somente, inexistir atenuantes, vejo que não houve discussão sobre tal matéria em sua fundamentação.
+Nesse contexto, é cediço o entendimento acerca da obrigatoriedade do magistrado abordar as questões trazidas pelas partes, ainda que incidentalmente, enfrentando toda a matéria alegada e discutida, o que não houve.
+Assim, evidenciada a eiva do julgado, deve ser declarada a sua nulidade, posto que a omissão no enfrentamento de tese defensiva acarreta violação aos princípios da ampla defesa e do devido processo legal, tratando-se de nulidade absoluta do decisum.
+ ..
+Diante do exposto, há de ser acolhida a preliminar suscitada de ofício, decretando a nulidade da sentença por ser citra petita" (grifou-se, e-STJ, fls. 556-559)
+De todo modo, deve-se observar que o dispositivo em questão, além da voluntariedade, exige a espontaneidade:
+"Art. 65 - São circunstâncias que sempre atenuam a pena:
+III - ter o agente:
+ b) procurado, por sua espontânea vontade e com eficiência, logo após o crime, evitar-lhe ou minorar-lhe as conseqüências, ou ter, antes do julgamento, reparado o dano" (grifou-se)
+No caso, a sentença é expressa em dizer que o "recolhimento aos cofres públicos" dos valores arrecadados somente ocorreu após instauração de sindicância. Ou seja, não houve espontaneidade. Nestes termos, conclui, na dosimetria, a não incidência de atenuantes:
+"No caso presente diz a denúncia que o acusado cometeu o peculato-apropriação, relatando que no período de 01 de janeiro a 18 de agosto de 2003 no exercício do cargo de auditor fiscal, apropriou-se da quantia de R$ 18.023,97 (dezoito mil e vinte e três reais e noventa e sete centavos), referente ao ICMS pago por contribuintes e não repassados ao erário estadual.
+Pelos documentos acostados aos autos e depoimentos colhidos, restou comprovado que o acusado fez a arrecadação do ICMS junto a contribuintes diversos, entre 01/01/2003 e 18/08/2003, e somente recolheu aos cofres públicos os valores arrecadados em 23/10/2003, após a instauração de sindicância pela Corregedoria Geral do Fisco (Processo 165.729/2Q03-SET), não restando dúvidas de que houve a apropriação indevida em detrimento do erário estadual.
+É de se registrar que a Portaria nº 037/96, da Secretaria Estadual de Tributação (fis. 47-49), estabelece que os auditores fiscais têm a obrigação de recolher à rede bancária arreeadadora os valores de ICMS e eventuais acessórios, até o primeiro dia útil subseqüente ao término do plantão em postos fiscais e serviços volantes.
+Ora sendo ato normativo da atividade desempenhada pelo auditor fiscal é de se estranhar que o acusado alegue não ter conhecimento, devendo ser salientado que a ninguém é dado alegar o desconhecimento da lei para não cumpri-la." (e-STJ, fl. 409, grifou-se)
+"Inexistem circunstâncias agravantes ou atenuantes, assim como inexistem causas de aumento ou diminuição da pena, pelo que permanece a pena base inalterada." (e-STJ, fl. 412, grifou-se)
+Não é demais lembrar que, "de acordo com o entendimento jurisprudencial remansoso neste Superior Tribunal de Justiça, os julgadores não estão obrigados a responder todas as questões e teses deduzidas em juízo, sendo suficiente que exponham os fundamentos que embasam a decisão" (EDcl no AREsp 771.666/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/12/2015, DJe 2/2/2016)". Nesse sentido também segue a jurisprudência do Supremo Tribunal Federal (STF, Primeira Turma, AI 242.237 - AgR/GO, Rel. Min. Sepúlveda Pertence; RE 181.039-AgR/SP, Rel. Ministra Ellen Gracie).
+Portanto, não é acertada a conclusão do acórdão recorrido no sentido de que houve sentença citra petita.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, para reconhecer a validade da sentença condenatória e determinar que o Tribunal de origem examine o mérito das apelações interpostas.
+Publique-se. Intimem-se.
