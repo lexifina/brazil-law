@@ -1,0 +1,26 @@
+DECISÃO
+FERNANDO [NOME], paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará (Apelação n. 0000283-53.2012.4.05.8107).
+Consta dos autos que o paciente foi condenado, em primeiro grau, à pena de 30 anos de reclusão, em regime fechado, mais multa, pela prática dos delitos previstos nos arts. 33, caput, c/c o art. 40, I e V, e 35, todos da Lei n. 11.343/2006.
+O Tribunal de origem deu parcial provimento à apelação da defesa a fim de reduzir a pena imposta e torná-la definitiva em 18 anos e 8 meses de reclusão, em regime fechado, mais multa.
+Busca a defesa a absolvição do réu pelo delito de associação ao tráfico, ao argumento de que "não tem nenhum elemento de prova ou indício de que os denunciados agiam em ânimo associativo, com estabilidade e permanência, sequer há descrição da disponibilização de tarefas" (fl. 20).
+Não houve pedido liminar.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+Decido.
+O Juiz sentenciante, ao condenar o réu pelo delito de associação ao tráfico destacou que (fl. 77, grifei):
+A prova dos autos revela que [NOME] e seu ajudante [NOME] se apresentavam como caminhoneiros e exerciam atividade paralela ilícita, trabalhando com carregamento de drogas. No presente caso, o objetivo era trazer a cocaína para Acopiara. A droga foi encomendada por [NOME].
+[NOME] tinha acabado de sair da prisão e pretendia vender a cocaína no Estado do Ceará, com a ajuda de seu irmão Cícero Alves Feitosa. [NOME] também estava em Acopiara/CE. [NOME] hospedou [NOME], [NOME] e [NOME] na casa de uma ex-cunhada. Não se sabe ao certo se [NOME] estava com [NOME] para receber o pagamento da droga ou se [NOME] iria ficar com parte do carregamento, para ser transportado para outro local do Nordeste. No inquérito, a cidade de Natal/RN foi mencionada. As placas do Nissan Sentra preto eram da Paraíba.
+A relação de confiança e estabilidade entre os réus é notável.
+O Tribunal de origem, ao manter a condenação pela prática do crime descrito no art. 35 da Lei de Drogas, salientou (fl. 138):
+Por outro lado, é de se ver que o acusado [NOME] praticou o crime de associação para o tráfico previsto no art. 35, da Lei nº. 11.343/2006, juntamente com [NOME] [NOME], JOSÉ TADEU DOS SANTOS, [NOME], CÍCERO ALVES FEITOSA e [NOME] ALVES FEITOSA promovendo, organizando a cooperação e dirigindo a atividade dos demais agentes. Deve por esta razão ser enquadrado nas sanções do art. 35, da Lei nº. 11.343/2006, em concurso material, nos termos do art. 69 do Código Penal.
+Para melhor análise da questão sub examine, transcrevo, por oportuno, o disposto no art. 35 da Lei n. 11.343/2006, in verbis:
+Art. 35. Associarem-se duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34 desta Lei:
+Pena - reclusão, de 3 (três) a 10 (dez) anos, e pagamento de 700 (setecentos) a 1.200 (mil e duzentos) dias-multa.
+Parágrafo único. Nas mesmas penas do caput deste artigo incorre quem se associa para a prática reiterada do crime definido no art. 36 desta Lei.
+Considerando a expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas a fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34 da Lei de Drogas, passou-se a perscrutar se, para a caracterização do crime de associação para o tráfico de drogas, seria necessário que a reunião entre os acusados se desse de forma estável - tal como era exigido no antigo crime de quadrilha ou bando (art. 288 do Código Penal), atual delito de associação criminosa - ou bastaria a convergência ocasional de vontades ou a eventual colaboração entre duas ou mais pessoas para a prática das infrações constantes dos arts. 33 e 34.
+A esse respeito, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado um mero concurso de agentes para a prática do crime de tráfico de drogas.
+No caso, verifico que as instâncias ordinárias, ao concluírem pela condenação dos pacientes em relação ao crime previsto no art. 35 da Lei n. 11.343/2006, apontaram elementos concretos constantes dos autos que, de fato, evidenciam a estabilidade e a permanência exigidas para a configuração de crime autônomo.
+Desse modo, não identifico nenhum constrangimento ilegal no ponto em que o Tribunal de origem concluiu pela condenação do paciente pela prática do crime de associação para o narcotráfico, haja vista a existência de elementos concretos que, efetivamente, demonstram a estabilidade e a permanência da associação criminosa da qual era integrante.
+Ademais, saliento que qualquer outra solução que não a adotada pelo Tribunal de origem implicaria o revolvimento do material fático-probatório amealhado aos autos, providência que, consoante cediço, é vedada na via estreita do habeas corpus.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
