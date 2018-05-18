@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL, ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO 2/STJ. PODER DE POLÍCIA. ANÁLISE DOS EFEITOS DE LEI NOVA NO CASO CONCRETO. ACLARATÓRIOS GENÉRICOS.VIOLAÇÃO AO ART. 535 DO CPC/1973. CONFIGURAÇÃO. RETORNO À ORIGEM. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial de ASSOCIAÇÃO BRASILEIRA DE TERMINAIS PORTUÁRIOS e outros fundado nas alíneas "a" e "c" do permissivo constitucional, interposto contra acórdão do Tribunal Regional Federal da 1ª Região, com a seguinte ementa:
+AGRAVOS REGIMENTAIS CONTRA DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO À APELAÇÃO PARA REFORMAR A SENTENÇA. ART. 557, § 1º-A DO CPC. EXIGÊNCIA DE CONTRATAÇÃO DE TRABALHADORES PORTUÁRIOS DE CAPATAZIA REGISTRADOS NO ÓRGÃO GESTOR DE MÃO DE OBRA - OGMO. EDIÇÃO DA LEI Nº 12.815 DE 05/06/2013. PERDA SUPERVENIENTE DO INTERESSE DE AGIR. RESPONSABILIDADE DA AUTORA PELOS ONUS SUCUMBENCIAIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. AGRAVOS PREJUDICADOS.
+1. A discussão em torno da exigência da contratação de trabalhadores portuários de capatazia e bloco mediante registro junto ao OGMO restou de vez superada com a recente edição da Lei nº 12.815, de 05 de junho de 2013, que revogando a disposição normativa anterior (art. 26 da Léi nº 8.630/93) - passou disciplinar a questão.
+2. A pretensão da Associação Brasileira de Terminais Portuários - ABTP perdeu seu objeto, for falta superveniente do interesse de agir (art. 40, § 2º, da Lei nº 12.815/2013).
+3. Da conclusão acerca da inexistência de interesse processual da parte autora/agravda decorre a extinção do processo sem resolução de mérito, devendo a ela ser imposto o pagamento das custas processuais e dos honorários advocatícios.
+4. Processo extinto nos termos dos arts. 267, VI, do CPC. Agravos regimentais dos sindicatos litisconsortes e da União Federal prejudicados.
+Opostos embargos declaratórios, foram eles rejeitados.
+No recurso especial, a parte recorrente aponta violação dos seguintes dispositivos: (a) art. 535 do CPC/73, aduzindo que o acórdão quedou-se omisso; (b) arts. 2º e 6º do Decreto-lei 4.657/42 e 40 da Lei 12.815/13. Alega, ainda, divergência jurisprudencial quanto ao tema.
+Houve contrarrazões.
+Admitido o recurso na origem, foram os autos encaminhados a esta Corte Superior de Justiça.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+No que concerne à pretensão da recorrente, o recurso especial deve ser provido.
+No que tange ao art. 535 do CPC/73, sustenta a recorrente:
+26. Em embargos de declaração, a Recorrente pediu que fosse sanada a omissão quanto ao fato de que a alteração legislativa perpetrada pela Lei n. 12.815/2013 somente possui efeitos prospectivos e, portanto, permanece o interesse processual da ABTP com relação ao reconhecimento da ilegalidade das autuações promovidas entre o ajuizamento da ação (01/07/2002) e a data de entrada em vigor da novel legislação (05/06/2013).
+27. Embora reconheça que, durante a vigência da Lei 8.630/1993, não havia a obrigatoriedade da intermediação do OGMO nas contratações de trabalhadores para as atividades de capatazia e bloco, o Tribunal a quo entendeu que a discussão restou superada pela edição da Lei n. 12.815/2013 e não se, manifestou expressamente sobre a ilegalidade das autuações lavradas (ou a serem lavradas) enquanto a antiga legislação ainda estava em vigor.
+28. Ainda em embargos de declaração, a Recorrente requereu o pronunciamento do Tribunal a quo sobre a aplicação do artigo 40 da Lei n. 12.815/2013, segundo o qual a obrigatoriedade da intermediação do OGMO se restringe aos "portos organizados" e. não aos "terminais de uso privado", de 41 modo que deveria ser reconhecida a ilegalidade das autuações administrativas referentes a estes últimos mesmo após a entrada em vigor da referida lei. Inobstante, o Tribunal Regional também foi omisso em relação a este ponto.  ..
+Além disso, a Recorrente ainda requereu em seus embargos de declaração a análise das regras relativas aos efeitos da lei no tempo (artigo 2º e 6º do Decreto-Lei 4.657/42), que indicam que a Lei nº 8.630/93 gerou efeitos durante sua vigência, devendo a causa ser apreciada no que pertine aos fatos anteriores à sua revogação, como se observa pelo seguinte trecho, verbis
+ (e-STJ Fl. 1623-1624)
+Como se vê, são pontos fundamentais e que poderiam mudar a decisão que extinguiu o processo. É que a discussão a respeito dos efeitos da Lei 12.815/13 in casu são fundamentais para a segurança jurídica e para a coerência como um todo. Desta forma, tendo o Tribunal de origem, ao julgar os aclaratórios, proferido decisão genérica, faz-se mister o retorno dos autos para que a Corte se pronuncie a respeito dos temas postos, uma vez que tal análise poderá gerar conclusão inversa.
+Nesse diapasão, acolho a apontada violação ao art. 535 do CPC/73 para anular o acórdão proferido nos aclaratórios. Na sequência, determino que os autos retornem à origem para que seja feita a análise quanto aos efeitos da Lei 12.815/13 no caso concreto.
+Prejudicado o exame das questões atinentes ao mérito do apelo nobre.
+Prejudicado o exame do recurso especial de fls. 1577-1589.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, conheço do recurso especial e dou-lhe provimento para acolher a apontada violação ao art. 535 do CPC/73 e determinar o retorno dos autos à origem nos termos supramencionados.
+Publique-se. Intime-se.
