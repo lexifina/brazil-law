@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Apelação cível. Ação de prestação de contas. Fase única. Contrato de abertura de crédito rotativo em conta corrente. Contas apresentadas de forma incompleta. Ausência do contrato e dos extratos bancários. Sentença cassada. Recurso provido. Considerando a inconclusividade dos elementos acostados aos autos, faz-se mister a cassação da r. sentença, retornando os autos à origem para nova prestação de contas pela Instituição Financeira.
+No recurso especial, a parte ora agravante alega violação do artigo 324 do Código de Processo Civil de 2015. Afirma que a petição inicial da ação de prestação de contas contém pretensão genérica, não tendo sido indicados os lançamentos indevidos nem delimitado o período em relação ao qual solicitados esclarecimentos. Sustenta que falta à parte autora interesse em exigir prestação de contas, devendo ser declarada a carência de ação. Explica que a ação de prestação de contas não é própria para discutir suposta cobrança indevida.
+Primeiro, observo que o Tribunal de origem cassou a sentença por entender inviável o julgamento das contas, nos moldes como apresentadas pelo banco, considerada a insuficiência da documentação necessária para se "comparar o que vinha sendo debitado com o que foi contratado entre as partes". Reproduzo elucidativo excerto do acórdão recorrido:
+Tratam os autos de ação de prestação de contas referente a contrato de abertura de crédito em conta corrente, firmado entre o autor [NOME] e Banco do Brasil S/A.
+Pretende o apelante a reforma da sentença que considerou boas as contas apresentadas, declarando a inexistência de saldo credor ou devedor.
+Inicialmente, há que se esclarecer que a presente ação teve seu trâmite em fase única, uma vez que a r. sentença foi proferida levando em consideração as contas apresentadas pelo requerido, bem como os questionamentos levantados pelo autor, já decidindo pela procedência das mesmas.
+Pois bem.
+Da análise dos autos verifica-se que as contas apresentadas pela Instituição Financeira são insuficientes à análise das mesmas.
+Primeiramente, porque os documentos de fls. 85/166 (mov. 23) e 203/256 (mov. 42) não são os extratos originais da conta corrente objeto dos autos. Trata-se de tabela elaborada por perito contratado pela requerida, a fim de demonstrar os lançamentos realizados na conta corrente no período de 1993 a 2003. Da mesma forma constata-se que o contrato de abertura de crédito em conta corrente que deu origem à conta corrente objeto da ação também não foi juntado aos autos, não havendo que se considerar prestadas as contas.
+Sequer em sua primeira fase seria possível considerar prestadas as contas pela requerida, uma vez que a documentação trazida aos autos com esta finalidade, não é suficiente ao seu objetivo.
+Não há como analisar as contas relativas a uma conta corrente de longa duração sem que se tenha em mãos o contrato que deu origem à conta, bem como os extratos originais.
+Os extratos encartados aos autos são documentos unilaterais, não podendo ser a base para análise das contas. Da mesma forma, a ausência do contrato de abertura da conta impede a análise das contas, uma vez que não se pode comparar o que vinha sendo debitado com o que foi contratado entre as partes.
+A ação de prestação de contas, em sua segunda fase, visa o exame do conteúdo das contas prestadas, a fim de apurar a existência de saldo em favor de uma ou de outra parte.
+(..)
+Resta claro, portanto, que a ação de prestação de contas, mesmo em sua segunda fase, não se destina à revisão contratual. No entanto, deve ser reconhecido que, feita a comparação entre o que foi cobrado do correntista e o pactuado entre as partes, constatada diferença, esta poderá ser cobrada pela parte prejudicada.
+Alega o apelante a existência de valores cobrados em desacordo com o que foi pactuado entre as partes, a exemplo da cobrança de tarifas e taxas indevidas, taxas de juros indevidas e débitos com históricos evasivos.
+Estes pedidos podem ser objeto da segunda fase da ação de prestação de contas, tendo em vista que se referem à forma de execução do contrato firmado entre as partes.
+Referidos valores, contudo, não podem ser apurados sem que a Instituição Financeira tenha apresentado o contrato firmado entre as partes, e os extratos originais da movimentação financeira.
+Desta forma, há que se reconhecer que a sentença não realizou a prestação jurisdicional devida, pois julgou boas as contas apresentadas pelo ora apelado sem, contudo, haver nos autos a documentação necessária para tal análise.
+Sendo assim, há que se reconhecer a nulidade da r. sentença, sendo necessário o retorno dos autos à 1ª Instância a fim de que as contas sejam efetivamente prestadas pela Instituição Financeira, com a apresentação dos documentos necessários à comprovação da contratação das taxas, tarifas e demais encargos cobrados.
+(..)
+Por fim, não é caso de aplicação do art. 1.013, § 3º, do CPC/2015, posto que necessária a intimação da parte requerida para apresentação das contas na forma mercantil, bem como do contrato firmado entre as partes, a fim de possibilitar a análise dos pedidos formulados na inicial.
+Em consequência, define-se o voto pelo provimento do presente recurso, a fim de anular a sentença, restando prejudicadas as demais matérias alegadas no apelo.
+Verifico, assim, que o acórdão recorrido não se pronunciou sobre as questões articuladas no recurso especial, que não se faz cognoscível dada a ausência de prequestionamento (Súmulas 282 e 356 do Supremo Tribunal Federal).
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
