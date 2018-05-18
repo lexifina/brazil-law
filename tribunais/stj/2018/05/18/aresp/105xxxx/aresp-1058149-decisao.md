@@ -1,0 +1,42 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. BENEFÍCIO DENOMINADO VANTAGEM PROMOCIONAL - VPRO. ACÓRDÃO QUE SE FUNDAMENTO NA PORTARIA 161/2003. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. AGRAVO EM RECURSO DA [NOME] A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pela UNIVERSIDADE ESTADUAL PAULISTA - [NOME], com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+1 - ILEGITIMIDADE PASSIVA DA FESP - Reconhecimento - Autarquia que é pessoa jurídica de direito público dotada de personalidade e patrimônio próprios.
+2 - SERVIDORES PÚBLICOS AUTÁRQUICOS - [NOME] - Promoção com base na Portaria 161/2003 - Adicional de 5% no cálculo da remuneração - Crédito em novembro de 2007, por meio do Despacho 863/2007 - Pretensão ao pagamento dos adicionais entre os anos de 2003 a novembro/2007 - Admissibilidade - Vantagem pecuniária que deve ser paga desde a obtenção do direito, respeitada a prescrição qüinqüenal.
+- Recurso não provido.
+3 - JUROS MORATÓRIOS - Pretensão à aplicação da Lei Federal 11.960/2009 - Impossibilidade, em decorrência da nova orientação do Colendo Supremo Tribunal Federal, que decidiu pela inconstitucionalidade da TR como índice de recomposição da moeda - Aplicação das ADIs nos 4.357 e 4.425.
+- Recurso não provido.
+4 - HONORÁRIOS ADVOCATÍCIOS - Arbitramento em 10% sobre a condenação - Insurgência da [NOME] - Adoção do percentual nos limites do § 3o. do art. 20 do CPC - Fixação de acordo com a orientação unânime da Câmara - Verba mantida.
+- Recurso não provido (fls. 281).
+2. Em suas razões recursais sustenta a parte agravante violação dos arts. 115, XVI, 129 da Constituição Estadual ao argumento de que a promoção e, por decorrência, a vantagem promocional, dependem de um processo de avaliação definido anualmente pelo Reitor e de um ato específico do Diretor Técnico da Divisão Administração, não bastando a avaliação anual apenas, mas também a conclusão do procedimento e do cumprimento desses dois requisitos.
+3. O Apelo Raro não foi apreciado pela Presidência do Tribunal de origem (fls. 329/330), ao fundamento de que fora protocolado prematuramente e não ratificado após a publicação da decisão, sobrevindo a interposição de Agravo (fls. 333/341).
+4. É o relatório, em síntese. Decido.
+5. Sobre a questão posta a debate, o Tribunal de origem assim se manifestou:
+No mérito, o inconformismo da [NOME] não prospera.
+Os autores, servidores públicos da autarquia apelante, ajuizaram ação pretendendo, preenchidos os requisitos legais à promoção instituída pela Portaria 161/2003, o pagamento da vantagem pecuniária decorrente da aludida portaria, no período entre os anos de 2003 e novembro de 2007.
+A ação foi julgada procedente em parte e deve ser mantida pelos seus judiciosos fundamentos.
+A Resolução 37/1998, com redação dada pela Resolução 02/2003, instituiu, em seu artigo 7o., a promoção dos servidores da autarquia [NOME], por meio do benefício Vantagem Promoção - VPRO, no percentual de 5% sobre a remuneração, com uma avaliação anual do servidor.
+A promoção foi regulamentada pela Portaria 161/2003, que foi suspensa pela Portaria 281/2005 para revisão do sistema de acompanhamento de desenvolvimento profissional (ADP) e do plano de carreira, sem, contudo, reconhecer ilegalidade ou violação do regime jurídico da Universidade (fls. 67).
+Por meio do Despacho 863/07, o [NOME] autorizou, a partir de 1o.10.2007, a efetivação da promoção referente aos exercícios de 2003 e 2004, nos termos da Portaria 161/2003 (fl. 71) (fls. 284/285).
+6. O acórdão recorrido destramou a controvérsia valendo-se de Portarias e Resoluções, notadamente a Portaria 161/2003.
+7. Dessa forma, inviável a análise na via do Especial, por não se enquadrar no conceito de tratado ou lei federal, previstos no art. 105, inciso III, da Carta Magna. A esse propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. SERVIDOR PÚBLICO. REMOÇÃO A PEDIDO. AJUDA DE CUSTO. ART 53 DA LEI 8.112/1990. NÃO ENQUADRAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. OFENSA À PORTARIA 1.222/02. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 518/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4o., DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+(..).
+III - In casu, rever o entendimento do Tribunal de origem, que consignou que a remoção dos servidores não ocorreu de ofício, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7/STJ.
+IV - Consoante pacífica jurisprudência deste Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos. Incidência, por analogia, da Súmula 518 do Superior Tribunal de Justiça.
+V - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+VI - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4o., do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido (AgInt no REsp. 1.678.769/DF, Rel. Min. REGINA HELENA COSTA, DJe 11.12.2017).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEI MUNICIPAL 14.971/2009. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 280/STF. OFENSA À PORTARIA. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 518/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula 280 do Supremo Tribunal Federal.
+III - Consoante pacífica jurisprudência deste Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos. Incidência, por analogia, da Súmula n. 518 do Superior Tribunal de Justiça.
+IV - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+V - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida. VI - Agravo Interno improvido (AgInt no AREsp. 1.077.853/SP, Rel. Min. REGINA HELENA COSTA, DJe 17.8.2017).
+VI - Recurso especial conhecido em parte e provido (REsp. 1.655.595/RJ, Rel. Min. REGINA HELENA COSTA, DJe 27.11.2017).
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial da [NOME].
+9. Publique-se.
+10. Intimações necessárias.
