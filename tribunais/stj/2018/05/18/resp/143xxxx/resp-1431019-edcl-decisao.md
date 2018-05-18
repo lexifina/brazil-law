@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MAURICI AVOLI contra decisão monocrática desta relatoria que determinou a devolução dos autos ao Tribunal a quo, consoante determina o artigo 256-L, I, do Regimento Interno do Superior Tribunal de Justiça, tendo em vista que a questão de fundo do Recurso Especial interposto foi objeto de afetação pela eg. Segunda Seção deste Tribunal Superior, Tema nº. 989.
+Em suas razões, a parte embargante afirma, em síntese, que "há contradição na referida decisão, uma vez que, diferentemente do abordado no Tema 989, o autor contribuía para o pagamento do plano de saúde quando estava na ativa, como se observa dos recibos de pagamento acostados às fls. 32 a 34 dos autos do processo (desconto sob a rubrica "assistência médica")" (e-STJ, fl. 488).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso dos autos, não existe a apontada contradição, pois a decisão que determinou a devolução dos autos, consoante preleciona o artigo 256-L, I, do Regimento Interno do Superior Tribunal de Justiça, pautou-se na afetação do Tema 989, questão similar ao caso em apreço, qual seja, definir se o ex-empregado aposentado ou demitido sem justa causa faz jus à manutenção no plano de saúde coletivo empresarial quando, na atividade, a contribuição foi suportada apenas pela empresa empregadora.
+De ver-se, portanto, que os presentes embargos declaratórios revelam o nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
