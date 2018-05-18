@@ -1,0 +1,27 @@
+Vistos etc.
+    Referente à Petição STF 29.692/2018.
+    Em 27.4.2018, neguei seguimento ao presente habeas corpus em decisão assim exarada:
+    “(...).
+    Extraio do ato dito coator:
+    “(...).
+    A par de o Desembargador-Relator no Tribunal de Justiça de São Paulo haver asserido que (1) em cognição sumária, não se constata ilegalidade no processo de execução ou na decisão recorrida, uma vez que, se o alimentante-executado é advogado e atua em causa própria – ao menos vinha atuando - e deixa de quitar o débito total, no qual se incluem as prestações vencidas no curso do processo, sua inequívoca ciência do despacho que lhe concede prazo para o pagamento do saldo devedor em três dias dispensa outra forma de cientificação; e, (2) a citação em si se realizou ao início da execução e a existência de saldo devedor após pagamentos parciais da dívida não exige refazimento da citação, nem intimação pessoal, se por outro meio o executado tomou ciência do ato. Isto tudo porque se trata de dívida alimentar cuja satisfação recomenda a máxima urgência (e-STJ, fl. 12, sem destaques no original), o que não se mostra, de plano, manifestamente ilegal, verifica-se que a Corte local ainda não proferiu no habeas corpus lá manejado decisão de mérito capaz de inaugurar a competência do Superior Tribunal de Justiça. Nesse contexto, vem à baila o enunciado da Súmula 691, do Supremo Tribunal Federal:
+    "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido ao tribunal superior, indefere a liminar".
+    Ademais, não se olvide que em habeas corpus não se faz prova do fato, mas se observa o fato provado e, no caso, como se depreende da decisão de Segundo Grau, o paciente vinha atuando em causa própria.
+    Diante do exposto, porque ainda não firmada a competência desta Corte, nos termos dos arts. 34, XX e 210, do seu Regimento Interno, o indeferimento liminar da ordem é medida que se impõe.
+    Cabe referir, por relevante, que à fl. e-STJ nº 3 o paciente/impetrante asseverou o seguinte: que em breve, ainda neste mês de abril/maio - 2018, o paciente irá colocar um ponto final "ações judiciais que envolve a criança R.P.S.D.R". Frise-se que o paciente irá tomar esta decisão, por não ter outra opção, eis que estar sendo coagido (sic), o que realmente se espera que ocorra.
+    Nessas condições, INDEFIRO LIMINARMENTE o pedido de habeas corpus”.
+    Registro a existência de óbice ao conhecimento do presente writ, ainda que não se trate, nesta Casa, de hipótese alcançada pela Súmula 691/STF, pertinente a indeferimento de liminar em habeas corpus, e não a indeferimento liminar do habeas, uma vez não esgotada a jurisdição do Superior Tribunal de Justiça, pois o ato impugnado é decisão monocrática extintiva do writ e não o resultado de julgamento colegiado. Deveria a Defesa, pretendendo a reforma da decisão monocrática, ter manejado agravo regimental para que a questão fosse apreciada pelo órgão colegiado (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    O ato apontado como coator observou, este sim, que a pretensão veiculada naquela Corte estaria desde logo a esbarrar na Súmula nº 691/STF (Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar), analogicamente aplicada porquanto voltada contra o indeferimento de liminar, pelo Relator, do Tribunal de Justiça, na impetração naquela Corte instaurada. Ainda que a compreensão expressa em tal verbete sumular seja abrandada em alguns julgamentos desta Suprema Corte em hipóteses excepcionais, de flagrante ilegalidade, teratologia ou abuso de poder, por não ser o caso dos autos, segundo o Superior Tribunal de Justiça, indeferido liminarmente o writ perante aquela Corte impetrado.
+    Ao indeferir o pedido de liminar, o Tribunal de Justiça não vislumbrou presentes os requisitos ensejadores da imediata expedição do contramandado prisional, reservando a definição da matéria ao pronunciamento do colegiado.
+    Dessa forma, dar trânsito ao writ significaria duplicar a instrução, que já está sendo realizada, e apreciá-lo no mérito implicaria suprimir instâncias.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF)”.
+    O paciente-impetrante, por intermédio da referida petição, protocolada em 16.5.2018, maneja “Embargos de Declaração e/ou Pedido de Reconsideração”. Aponta eventual conexão do presente feito com o HC 147.164/SP, em que o Ministro Celso de Mello, no dia 29.8.2017, não conheceu da impetração dado o não exaurimento da jurisdição do Superior Tribunal de Justiça. Além disso, “reitera todos os pedidos, inclusive, o salvo conduto preventivo”.
+    É o relatório.
+    Decido.
+    O juízo negativo de seguimento do writ foi publicado no DJe de 09.5.2018, e dada a ausência de interposição de recurso transitou em julgado em 15.5.2018, exaurindo, por conseguinte, a atuação desta Suprema Corte. Nesse sentido, “com o decurso, in albis, do prazo legal, extingue-se, de pleno direito, quanto à parte sucumbente, a faculdade processual de interpor, em tempo legalmente oportuno, o recurso pertinente (RMS 26.259-AgR, Rel. Min. Celso de Mello, 16.10.2007).
+    Ante o exposto, nada há a prover.
+    Publique-se. Arquivem-se os autos.
+    Publique-se.
+    Brasília, 18 de maio de 2018.
+Ministra Rosa Weber
+Relatora
