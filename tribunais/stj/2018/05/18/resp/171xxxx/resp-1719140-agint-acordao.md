@@ -1,0 +1,27 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. LEGITIMIDADE PASSIVA AD CAUSAM. EXISTÊNCIA DE DECISÃO ACERCA DO TEMA. AUSÊNCIA DE IMPUGNAÇÃO. PRECLUSÃO. POSTULAÇÃO CONTRADITÓRIA. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Defendida, em primeiro grau, a ilegitimidade passiva para a causa, e sendo o pleito acolhido pelo julgador, sem que haja impugnação, fica preclusa a matéria, e se mostra contraditória a conduta da mesma parte de sustentar, nessa instância especial, a sua legitimidade para figurar no polo passivo da ação.
+2. Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo regimental interposto por Siemens Ltda. contra decisão desta relatoria, que não conheceu do recurso especial, assim ementada:
+RECURSO ESPECIAL. PLANO DE SAÚDE. MANUTENÇÃO DE EX-EMPREGADO COM AS MESMAS CONDIÇÕES VIGENTES À ÉPOCA EM QUE ESTAVA NA ATIVA. SENTENÇA DE PRIMEIRO GRAU QUE EXCLUI A EMPREGADORA DO FEITO POR ILEGITIMIDADE PASSIVA AD CAUSAM. MATÉRIA SOBRE A QUAL NÃO HÁ RECURSO DA EMPREGADORA. PRECLUSÃO. ART. 507 DO CPC/2015. RECURSO ESPECIAL NÃO CONHECIDO. (e-STJ, fl. 506)
+Em suas razões, a agravante aduz que não houve a preclusão da questão relacionada à sua legitimidade para figurar no polo passivo da ação ajuizada pelo ora agravado postulando a manutenção dele no plano de saúde que usufruía durante o contrato de trabalho, na medida em que a sentença de primeiro grau, apesar de reconhecer a sua ilegitimidade, julgou improcedente o pedido, e, portanto, apenas o autor teria interesse recursal.
+Acrescenta que não estava "presente o binômio necessidade-utilidade apto a ensejar o impulsionamento de eventual recurso de apelação, afinal, o pleito deduzido em Juízo pelo agravado havia sido julgado improcedente, razão pela qual o provimento da apelação que entendesse pela legitimidade passiva da agravante em nada alteraria o resultado da lide" (e-STJ, fl. 516).
+Requer, assim, a reforma da decisão agravada e o restabelecimento da sentença de primeiro grau.
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Embora a sentença de primeiro grau, que reconheceu a ilegitimidade passiva da ora agravante, não lhe tenha sido desfavorável, de maneira que, ao menos em tese, não existiria interesse de sua parte em impugná-la, circunstância essa que afastaria sua ilegitimidade reconhecida no decisum agravado - somente com o julgamento da apelação, favorável ao ora recorrido, é que teria surgido o interesse recursal -, não há como perder de vista dois aspectos que justificam a manutenção do não conhecimento do recurso.
+O primeiro aspecto é o fato de que a própria recorrente pleiteou, em sua contestação, o reconhecimento de sua ilegitimidade para figurar no polo passivo da lide (e-STJ, fl. 365), pedido este acolhido pelo magistrado de primeiro grau. Nesta oportunidade, em comportamento contraditório àquele externado em primeiro grau (e acolhido pelo Juiz), defende sua legitimidade.
+No particular, impõe-se ressaltar que a boa-fé objetiva, como importante limitador do exercício dos direitos subjetivos, repele condutas contraditórias, isto é, que uma determinada conduta seja contraditada pelo comportamento assumido anteriormente (venire contra factum proprium).
+A ilegitimidade, suscitada pela própria recorrente, em primeiro grau, e que ensejou o reconhecimento pela sentença, agora é defendida em grau recursal, o que não pode ser tolerado.
+O segundo aspecto é que, em contrarrazões, a recorrente não suscitou tal questão, seja para defender sua ilegitimidade já reconhecida, de modo que eventual decisão a ser proferida pelo Tribunal de origem não pudesse atingi-la, seja para defender sua legitimidade, até então repelida por ela, em virtude da superveniência de qualquer motivo que entendesse justificável a sua inclusão no polo passivo da demanda.
+Ainda assim, como destacado pela decisão agravada, o acórdão, por via oblíqua, manteve o reconhecimento de sua ilegitimidade passiva ao assinalar que "o comando pretendido pela demanda - manutenção da condição de beneficiário do plano de saúde coletivo - é destinado, tão somente, à operadora adminstradora do referido plano, de sorte que esta é a legitimada para figurar no polo passivo da lide, ao contrário da ex-empregadora, que é mera estipulante do contrato e deve ser reconhecida em seu favor sua ilegitimidade de parte" (e-STJ, fl. 443).
+Assim, em todo o curso processual, a recorrente foi reconhecida como ilegítima para figurar na ação, tal como pretendeu que fosse em primeiro grau. Somente em embargos de declaração e, agora, em recurso especial, defendeu e defende sua legitimidade, sob o argumento de que os efeitos da decisão a quo lhe atingirão. Ora, se os efeitos de uma decisão desfavorável poderiam atingi-la, não deveria sustentar, ab initio, sua ilegitimidade, quando ainda desconhecido o desfecho da demanda. E mais: o não questionamento, ainda em contrarrazões, máxime porque a sentença teve desfecho que de algum modo lhe foi benéfico, torna precluso o tema, tal como assinalado na decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
