@@ -1,0 +1,6 @@
+DECISÃO
+HAMILTON BRUNNO PENIDO BRANDAO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, no Recurso em Sentido Estrito n. 1.0024.15.198826-8/001.
+Ao analisar os autos, verifico que a inicial do writ não veio acompanhada da decisão que originalmente decretou a prisão preventiva, bem como o fato der que alguns documentos não foram colacionados aos autos com seus textos integrais, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Nessa diretriz: HC n. 235.131/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 29/8/2013.
+À vista do exposto, constatada a ausência de peça essencial para a análise do pleito de urgência, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se.
