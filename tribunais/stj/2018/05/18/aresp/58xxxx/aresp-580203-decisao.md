@@ -1,0 +1,55 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS INFRINGENTES. ART. 530 DO CPC. DECISÃO INTERLOCUTÓRIA. TUTELA ANTECIPADA. AGRAVO DE INSTRUMENTO QUE, POR MAIORIA, REFORMA A DECISÃO QUE ANTECIPOU OS EFEITOS DA TUTELA PRETENDIDA. INEXISTÊNCIA DE SENTENÇA. AUSÊNCIA DE ANÁLISE DO MÉRITO. NÃO CABIMENTO DOS EMBARGOS INFRINGENTES. AGRAVO EM RECURSO ESPECIAL DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto por [NOME], com fundamento no art. 105, III, alínea a da Constituição da República em adversidade ao acórdão proferido pelo egrégio TJMG, assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS E REPETIÇÃO DE INDÉBITO - PRELIMINAR DE AUSÊNCIA DE INTERESSE RECURSAL SUSCITADA DE OFICIO - REJEIÇÃO - TUTELA ANTECIPADA - CONVALIDAÇÃO DE DISCIPLINAS - AUSÊNCIA DE PROVA INEQUÍVOCA DA VEROSSIMILHANÇA DO DIREITO - INDEFERIMENTO. 1. O cumprimento da decisão agravada não ocasiona, por si só, em falta de interesse recursal, notadamente diante do indeferimento do pedido de efeito suspensivo e a previsão de multa diária para ó caso de descumprimento do decisum. 2. Não constatada a verossimilhança das alegações pela inexistência de provas capazes de gerar o convencimento de que a parte possui, em princípio, direito que possibilite uma sentença de mérito favorável, deve ser neqada a antecipação de tutela.
+V V - EMENTA- AGRAVO DE INSTRUMENTO - PRELIMINAR DE OFICO DE AUSÊNCIA DE INTERESSE RECURSAL - INADMISS1BILIDADE DO RECURSO - Havendo declaração da própria instituição agravante no sentido de estar a agravada regularmente matriculada, caracteriza-se a falta de Interesse recursal superveniente (fls. 1.037).
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Embargos Infringentes interpostos e improvidos, conforme ementa:
+EMBARGOS INFRINGENTES - ACÓRDÃO QUE APRECIA AGRAVO DE INSTRUMENTO - MÉRITO NÃO ANALISADO - IN ADMISSÃO. Não são cabíveis embargos infringentes diante de acórdão prolatado em agravo de instrumento que não julga o mérito da demanda (fls. 1.178).
+4. Opostos novos Embargos de Declaração, foram rejeitados às fls. 1.197/1.201.
+5. Nas razões de seu Apelo Nobre, a parte recorrente alega, em suma, que o acórdão recorrido violou o disposto nos arts. 458, 535 e 530 do CPC/1973. Aduz, preliminarmente, a existência de omissão, bem como negativa de prestação jurisdicional. No mérito, sustenta que são cabíveis os Embargos Infringentes, uma vez que houve análise do mérito pelo Tribunal de origem que, em Agravo de Instrumento e por decisão não unânime, reformou decisão do juiz de primeiro grau.
+6. Contrarrazões não apresentadas (fls. 1.265/1.277), o Recurso Especial foi inadmitido na origem (fls. 1.279/1.280).
+7. É o relatório.
+8. A irresignação não merece prosperar.
+9. No tocante ao art. 535 do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+10. Tampouco merece prosperar o inconformismo quanto à suscitada violação do art. 458 do CPC/1973, pois o acórdão recorrido encontra-se suficientemente fundamentado, uma vez que examinou, motivadamente, todas as questões pertinentes à solução do caso.
+11. Quanto à suposta violação do art. 530 do CPC/1973, a jurisprudência desta Corte Superior admite a interposição de Embargos Infringentes contra acórdão que, por maioria de votos, em julgamento de Agravo de Instrumento, reforma o próprio mérito da sentença. Nesse sentido:
+ TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. APRECIAÇÃO MERITÓRIA. ACÓRDÃO NÃO UNÂNIME. OPOSIÇÃO DE EMBARGOS INFRINGENTES. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. São cabíveis embargos infringentes contra decisão não unânime proferida em agravo de instrumento, quando neste for decidida matéria de mérito, nos termos do art. 530 do CPC. 2. Agravo regimental não provido (AgRg no REsp. 1.172.440/SC, Rel. Min. ARNALDO ESTEVES LIMA, DJe 4.2.2013).
+12. No entanto, o entendimento supracitado não representa a hipótese dos autos.
+13. No caso, o Tribunal de origem, no julgamento que, por maioria, reformou a decisão interlocutória que havia antecipado os efeitos da tutela requerida, consignou o seguinte:
+Primeiramente, vale destacar que o presente caso não se
+trata de medida cautelar, assim, impõe-se a aplicação do princípio da fungibilidade, pelo que analiso o pleito como antecipatório de tutela, nos termos do art. 273 do Código de Processo Civil.
+Conforme estabelecido no art. 273 do CPC, o deferimento da antecipação de tutela somente pode se dar mediante prova inequívoca da verossimilhança das alegações apresentadas, cumulada à comprovação da possibilidade de ocorrência de lesão grave ou de difícil reparação.
+Analisando os autos, verifica-se que não se encontram documentos que evidenciem a necessidade da concessão de tal medida.
+Em realidade, neste momento processual, não se pode afirmar que as disciplinas cursadas pela agravada/autora são passíveis de ser convalidadas.
+Comumente, em casos de transferência de alunos de uma instituição de ensino para outra, há que se verificar a compatibilidade não somente das matérias, mas também no que concerne à carga horária de cada uma delas, bem como o conteúdo programático, para que assim o discente ocupe o período adequado
+Ademais, afirma a agravante/ré que realizou avaliação objetiva da aluna ora agravada, não tendo essa obtido pontuação suficiente fato esse que não é negado pela parte, que tão somente questiona a forma de aplicação de tal prova e que não pôde se preparar didaticamente, mentalmente e psicologicamente para a "aparente avaliação (cl fl. 258-TJ).
+Por fim, o documento de fl. 183 - TJ indica que, a princípio, algumas matérias cursadas no exterior pela parte autora não poderiam ser convalidadas por terem atingido nota inferior a 6, cujo critério de análise foi a carga horária das disciplinas em relação conteúdo programático
+Em face disso, se faz necessária a dilação probatória para se comprovar o direito pretendido pela agravada.
+Nesse contexto, os elementos contidos nos autos não são suficientemente capazes de demonstrar a verossimilhança do direito pretendido, fazendo-se necessária, repito, a devida instrução do feito para a averiguação de sua procedência (fls. 1.045/1.046)
+14. Nesse contexto, diversamente do que sustenta a parte recorrente, não houve análise do mérito da demanda, mas somente análise do mérito do recurso de Agravo de Instrumento, que com aquela não se confunde.
+15. A interposição dos Infringentes em sede de julgamento de Agravo de Instrumento é possível quando a decisão impugnada pelo Agravo for sentença e o Tribunal de origem, necessariamente, analisa o mérito da demanda, o que não se verifica na hipótese dos autos.
+16. Com efeito, o Agravo de Instrumento se insurgiu contra decisão interlocutória que havia antecipado os efeitos da tutela pretendida. Trata-se, como se sabe, de decisão de cognição superficial em que se analisa, consoante o disposto no art. 273 do CPC/1973, a existência de prova inequívoca da verossimilhança das alegações apresentadas e o fundado receio de dano irreparável ou de difícil reparação (ou fique caracterizado o abuso de direito de defesa ou o manifesto propósito protelatório do réu). E, na hipótese dos autos, o Tribunal de origem consignou que a documentação juntada aos autos não demonstra a verossimilhança das alegações, carecendo da indispensável dilação probatória para comprovar o direito pretendido.
+17. Assim, o acórdão recorrido não cumpre com os requisitos necessários para viabilizar a interposição dos Embargos Infringentes, conforme preconiza o art. 530 do Caderno Processual e a jurisprudência desta Corte Superior. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DECISÃO NÃO UNÂNIME. QUESTÃO ACESSÓRIA. EMBARGOS INFRINGENTES. NÃO CABIMENTO. INAPLICABILIDADE DA SÚMULA 207/STJ. VIOLAÇÃO AO ART. 535 DO CPC/1973. OCORRÊNCIA. RETORNO DOS AUTOS À ORIGEM.
+1. A decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+2. O cabimento dos embargos infringentes se restringe às hipóteses em que o acórdão não unânime tenha reformado a sentença de mérito, não havendo previsão quanto às situações em que se discute, em agravo de instrumento, questão acessória. Nesse sentido: EREsp. 1.234.323/RS, Relator Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe 15.6.2016. Inaplicabilidade da Súmula 207/STJ.
+3. No caso concreto, o mérito da demanda não foi analisado em Agravo de Instrumento, uma vez que apenas decidiu sobre a penhorabilidade do bem de família, em ação movida no juízo falimentar. Assim, não há que se falar na incidência da Súmula 207 do STJ.
+4. É omisso o acórdão que deixa de examinar questão de fato relevante para o julgamento da causa, violando o art 535 do Código de Processo Civil de 1973.
+5. Agravo interno a que se nega provimento (AgInt nos EDcl no REsp. 1.131.917/MG, Rel. Min. MARIA ISABEL GALLOTTI, DJe 9.5.2017).
+
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. EMBARGOS INFRINGENTES INCABÍVEIS. RECURSO EM SEDE DE AGRAVO DE INSTRUMENTO. NÃO CABIMENTO. EXCEPCIONALIDADE NÃO CONFIGURADA. AGRAVO REGIMENTAL DESPROVIDO (AgRg no AREsp. 449.406/RO, Rel. Min. PAULO DE TARSO SANSEVERINO, DJe 13.8.2015).
+
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EM AGRAVO DE INSTRUMENTO. EMBARGOS INFRINGENTES.
+1. Não cabem embargos infringentes em face de acórdão não unânime que nega provimento a agravo de instrumento, confirmando a decisão recorrida, e sem exame do mérito da controvérsia.
+2. Agravo regimental a que se nega provimento (AgRg no AREsp. 581.649/MS, Rel. Min. MARIA ISABEL GALLOTTI, DJe 28.10.2014).
+
+PROCESSO CIVIL. AGRAVO REGIMENTAL. EMBARGOS INFRINGENTES EM AGRAVO DE INSTRUMENTO. NÃO CABIMENTO. ART. 530 DO CPC.
+1. É certo que, a teor do disposto no art. 530 do CPC, cabem embargos infringentes das decisões tomadas por maioria de votos no julgamento de apelação, embargos esses que, para efeito da interposição de recurso especial, se mostram obrigatórios, pois somente após sua apreciação será possível falar em decisão definitiva de segundo grau.
+2. No caso dos autos, contudo, a decisão impugnada no especial foi tomada no julgamento de agravo de instrumento, quando não seria possível, diante do comando expresso daquele dispositivo, manejar os aludidos embargos infringentes.
+2. Precedentes.
+3. Agravo regimental improvido (AgRg no REsp. 319.999/RS, Rel. Min. PAULO GALLOTTI, DJ 4.11.2002, p. 272).
+18. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do particular.
+19. Publique-se.
+20. Intimações necessárias.
