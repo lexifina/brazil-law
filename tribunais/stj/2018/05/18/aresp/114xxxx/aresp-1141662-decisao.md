@@ -1,0 +1,57 @@
+DECISÃO
+[NOME] agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, proferido nos autos do Agravo em Execução n. [CPF].
+Depreende-se dos autos que o agravante, durante o livramento condicional, cometeu fato definido como crime. O Juiz das Execuções suspendeu o livramento condicional até o trânsito em julgado da nova condenação, sem designar audiência de justificação para oitiva do apenado.
+Irresignado, o Parquet interpôs agravo em execução, ao qual o Tribunal de origem, por maioria, deu provimento, "para determinar a realização de audiência de justificação a que alude o art. 118, § 2º, da Lei de Execução Penal" (fl. 69).
+A defesa opôs embargos infringentes, que não foram acolhidos (fls. 94-104).
+Nas razões do recurso especial, requer a defesa a prevalência do voto minoritário, "tornando o cumprimento da pena, mais benéfico e obedecendo o caráter ressocializador do encarceramento" (fls. 113-114).
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal estadual, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 185-188, pelo desprovimento do agravo, nos seguintes termos:
+Como bem ressaltado pela decisão agravada, o recurso especial não apontou as razões de fato e de direito que dão suporte ao pedido, limitando-se a defesa a se reportar aos fundamentos dos embargos infringentes e do voto vencido do acórdão recorrido, o que impede o conhecimento do apelo.
+Ademais, a ausência de indicação expressa do dispositivo da legislação federal afrontado pelo acórdão recorrido constitui deficiência do recurso, o que inviabiliza a efetiva compreensão da controvérsia, fazendo incidir, no caso, por analogia, a Súmula 284 do Supremo Tribunal Federal, que preconiza: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." Tal óbice impede, inclusive, o conhecimento do recurso com base na alínea c da Constituição Federal.
+ ..
+Além disso, o entendimento do Superior Tribunal de Justiça é no sentido de que, "O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas" (EDcl no AREsp 1011031/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 05/12/2017, DJe 12/12/2017).
+No caso, o recorrente sequer colacionou acórdão paradigma para demonstrar a divergência, o que faz incidir, também aqui, a Súmula 284 do Supremo Tribunal Federal.
+Ante o exposto, manifesta-se o Ministério Público Federal pelo desprovimento do agravo.
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade. No entanto, o recurso especial não comporta conhecimento, uma vez que, além de incidir a Súmula n. 284 do STF, não foi realizado o cotejo analítico nos moldes exigidos por esta Corte Superior.
+Como ressaltado no parecer do Ministério Público Federal, a parte agravante, além de não apontar qual(is) o(s) dispositivo(s) de lei federal foi(ram) objeto de violação, não impugnou, de forma direta e objetiva, os fundamentos do acórdão recorrido, o que, além de representar deficiência na sua fundamentação, não atende ao princípio da dialeticidade que norteia os recursos.
+Fica, portanto, inviabilizado o conhecimento do recurso especial, consoante o entendimento jurisprudencial estabelecido nas Súmulas n. 283 e 284 do Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, cumpre observar que o conhecimento do recurso especial pela divergência exige a transcrição dos trechos dos acórdãos impugnado e paradigma, evidenciando-se, de forma clara e objetiva, o suposto dissídio jurisprudencial, o que não ocorreu na espécie. Dessa forma, torna-se inviável o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal.
+Nesse sentido:
+ ..
+1. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial, com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+2. A Corte Especial do STJ firmou o entendimento de que, mesmo quando o dissídio for notório, deve o recorrente cumprir as formalidades no que concerne à comprovação da discrepância jurisprudencial, realizando o cotejo analítico.
+ ..
+5. Agravo Regimental não provido. (AgRg no REsp n. 1.235.386/RJ, Rel. Ministro Herman Benjamin, 2ª T., DJe 25/4/2011)
+II. Concessão de habeas corpus, de ofício
+No entanto, verifico a ocorrência de ilegalidade manifesta, passível da concessão de habeas corpus, de ofício, nos termos do art. 648 do Código de Processo Penal.
+No caso, o Tribunal de Justiça julgou o agravo em execução ministerial nestes termos (fls. 68-69, grifei):
+Depreende-se dos autos que em 27.04.2015 foi concedido ao apenado o beneficio do livramento condicional. Nos autos do processo tombado sob o nº 001/2.15.0060311-0 foi determinada a prisão preventiva do apenado por este ter praticado, em tese, em 29.07/2015, o delito de tráfico de drogas. Segundo informações obtidas junto ao sistema informatizado desta Corte, o feito criminal já conta, inclusive, com sentença condenatória.
+Coaduno o entendimento no sentido de que a prática de crime doloso durante a execução da pena, ainda que esteja o apenado usufruindo do benefício do livramento condicional, consoante o disposto no artigo 52 da LEP, constitui falta grave, sujeitando-o aos consectários legais. Para tanto, contudo, por força do disposto no § 2º do artigo 118 da LEP, deve-se proceder à prévia oitiva do condenado em audiência de justificação.
+Com efeito, considerando que no processo de execução penal subsistem os ditames do devido processo legal, antes de se determinar a aplicação dos consectários legais decorrentes da prática da falta grave, é imprescindível a observância dos preceitos da ampla defesa e do contraditório por meio da prévia designação de audiência para a oitiva do apenado, acompanhado de sua defesa.
+Nesse sentido, recente precedente do 4º Grupo Criminal:
+ ..
+Pelos fundamentos expostos, voto no sentido de DAR PROVIMENTO ao agravo em execução interposto pelo Ministério Público para determinar a realização de audiência de justificação a que alude o artigo 118, § 2º, da Lei de Execução Penal.
+Da análise do aresto recorrido, constata-se que o acórdão reconheceu que a prática de novo crime no curso do período de prova constitui falta grave.
+Inicialmente, destaco que o livramento condicional, benefício previsto nos arts. 131 a 146 da Lei de Execução Penal, possui regras distintas da execução penal dentro do sistema progressivo de penas.
+Com efeito, embora constitua falta grave a prática de novo crime durante o cumprimento de pena no meio carcerário, o mesmo não ocorre se a infração se der no período de prova do livramento condicional.
+Nesse ponto, saliento que não há a possibilidade de imposição de faltas disciplinares ao beneficiado com o livramento condicional. Na verdade, as penalidades para o sentenciado no gozo de livramento condicional consistem em revogação do benefício, advertência ou agravamento das condições, consoante o disposto no art. 140, parágrafo único, da Lei de Execução Penal, bem como na impossibilidade de nova concessão da benesse em relação à mesma pena e no não cômputo do período de prova como tempo de cumprimento da reprimenda, conforme o art. 142 da mesma lei.
+Nesse sentido:
+ ..
+1. Não obstante o agravado tenha descumprido as condições do livramento condicional, tal fato não constitui falta grave. O cometimento de crime no curso do período de prova do livramento condicional não produz os efeitos inerentes à falta grave, pois a legislação penal prevê efeitos próprios e diversos. Precedentes.
+2. A prática de fato definido como crime durante o livramento condicional tem consequências próprias previstas no Código Penal e na Lei de Execuções Penais, as quais não se confundem com os consectários legais da falta grave praticada por aquele que está inserto no sistema progressivo de cumprimento de pena (REsp. 1.101.461/RS, Sexta Turma, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 19/2/2013).
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.537.149/RJ, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 10/2/2016, grifei)
+ ..
+2. A prática de crime no curso do período de prova do livramento condicional não tem o condão de gerar os efeitos próprios da prática de falta grave, no caso, a perda de até 1/3 dos dias remidos, mas tão somente, após a efetiva revogação, a perda do tempo cumprido em livramento condicional e a impossibilidade de nova concessão do benefício no tocante à mesma pena.
+3. Configura coação ilegal a imposição da perda de 1/3 dos dias remidos em decorrência da prática de novo crime durante o período do livramento condicional.
+4. Na unificação das penas, a determinação do regime carcerário regula-se pela soma da pena imposta pelo novo delito com o remanescente da reprimenda em execução, nos termos dos artigos 111 e 118, II, ambos da Lei de Execução Penal.
+5. Não obstante o somatório do remanescente da pena com a nova condenação imposta ao paciente tenha resultado em reprimenda inferior a 8 anos, mostra-se devida a fixação do regime fechado com base na reincidência do apenado.
+6. Ordem não conhecida. Habeas corpus concedido, de ofício, apenas para afastar a perda dos dias remidos decretada em desfavor do paciente.
+(HC n. 271.907/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 14/4/2014, grifei)
+Dessa forma, por estar em desacordo com a jurisprudência majoritária desta Corte Superior, deve o acórdão recorrido ser reformado, uma vez que o cometimento de crime no curso do livramento condicional não tem o condão de gerar os efeitos próprios da prática de falta grave, mas tão somente, em um primeiro momento, a suspensão do benefício e, após o trânsito em julgado da condenação, sua efetiva revogação, com a perda do tempo cumprido no período de prova e a impossibilidade de nova concessão da benesse no tocante à mesma pena.
+III. Dispositivo
+À vista do exposto, conheço do agravo, para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+No entanto, constatada a existência de ilegalidade flagrante na espécie, concedo habeas corpus, de ofício, para restabelecer a decisão do Juízo das Execuções, prolatada em 12/11/2015 (fls. 36-40), que determinou a suspensão do livramento condicional até o trânsito em julgado da nova condenação, sem a designação de audiência de justificação.
+Publique-se e intimem-se.
