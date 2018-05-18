@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. INCLUSÃO DOS CUSTOS COM SERVIÇO DE CAPATAZIA NO CONCEITO DE VALOR ADUANEIRO. AGRAVO INTERNO CONHECIDO PARA, EM JUÍZO DE RETRATAÇÃO, CONHECER DO AGRAVO PARA DETERMINAR SUA AUTUAÇÃO COMO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interno manejado pela FAZENDA NACIONAL contra decisão da Presidência do STJ que não conheceu do agravo em razão da ausência de impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula nº 568 do STJ.
+A agravante insurge-se contra a decisão agravada alegando que a indicação de decisões monocráticas dos Ministros do STJ com base na Súmula nº 568 do STJ não faz da referida súmula um fundamento do juízo negativo de admissibilidade, sobretudo porque a aplicação da súmula em comento é privativa dos Ministros do STJ. Aduz, outrossim, que tanto a Súmula nº 83 quanto a Súmula nº 568 do STJ se referem à existência de entendimento do STJ sobre o tema de fundo, de modo que a impugnação relativa à Súmula nº 83 igualmente se aplica à Súmula nº 568 do STJ.
+Requer a reconsideração da decisão agravada ou a submissão do feito a julgamento perante a Turma.
+Impugnação às fls. 1.194-1.198 e-STJ.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação merece acolhida.
+Com efeito, a citação pelo juízo negativo de admissibilidade do recurso especial da existência de decisões monocráticas de Ministros do STJ com base na Súmula nº 568 desta Corte sobre a matéria de fundo não constitui fundamento do decisum, seja porque tal súmula é expressa sobre sua utilização apenas no âmbito do STJ, seja porque a referência feita a ela na hipótese apenas o foi para corroborar com a aplicação da Súmula nº 83 desta Corte, relativamente à suposta conformidade do acórdão recorrido com a jurisprudência do STJ.
+Por outro lado, a impugnação ao fundamento relativo à Súmula nº 83 do STJ também demonstra que o fundamento relativa à aplicação da Súmula nº 568 foi impugnado, eis que, em essência, ambas tratam da existência de entendimento do STJ sobre a matéria de fundo.
+Afastada, portanto, a aplicação do inciso III do art. 932 do CPC/2015, conheço do agravo em recurso especial.
+Da análise dos autos, verifica-se que o recurso especial preenche, em tese, os requisitos de admissibilidade, sobretudo porque o tema relativo à inclusão dos custos com o serviço de capatazia no país importador no conceito de valor aduaneiro, para efeito de incidência do Imposto de Importação, se encontra em julgamento nesta Segunda Turma nos autos do REsp. n.º 1.641.228, de relatoria do Min. Herman Benjamin, e aguarda voto-vista a ser proferido pelo Min. Francisco Falcão.
+Ante o exposto, com fulcro no art. 1.021, § 2º, do CPC/2015, c/c os arts. 259 e 253, parágrafo único, II, d, do RISTJ, conheço do agravo interno para, em juízo de retratação, conhecer do agravo para determinar sua autuação como recurso especial.
+Publique-se. Intimem-se.
