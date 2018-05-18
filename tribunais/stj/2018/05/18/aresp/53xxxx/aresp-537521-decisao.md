@@ -1,0 +1,42 @@
+DECISÃO
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. DEPENDÊNCIA ECONÔMICA NÃO COMPROVADA. REQUISITOS LEGAIS PARA A CONCESSÃO DO BENEFÍCIO NÃO PREENCHIDOS. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto por DANIEL TADEU DA SILVA, fundado na alínea a do art. 105, III da Carta Magna, no qual se insurge contra acórdão do Egrégio Tribunal Regional Federal da 3a. Região que negou provimento ao pedido de concessão de pensão por morte, ao fundamento de que não restou caracterizada a dependência econômica do filho maior em relação à Segurada instituidora da pensão.
+2. Nas razões de Apelo Especial, o recorrente limita-se a afirmar que seu quadro de dependência está devidamente comprovado nos autos, o que lhe garante o direito à pensão pleiteada.
+3. É o relatório. Decido.
+4. A Lei 8.213/1991, que dispõe sobre os benefícios da Previdência Social, preceitua, em seu art. 74, ser devida pensão por morte aos dependentes do segurado falecido, não sendo exigido o cumprimento de carência.
+5. Assim, para que seja concedida a pensão por morte, faz-se necessária a comprovação da condição de dependente, bem como a qualidade de segurado ao tempo do óbito.
+6. Segundo o art. 16 da Lei 8.213/1991, a pensão será devida aos dependentes na seguinte ordem: (a) cônjuge, companheiro; (b) filhos não emancipados menores de 21 anos ou inválidos de qualquer idade; (c) pais; e (d) irmão não emancipado, de qualquer condição, menor de idade ou inválido de qualquer idade.
+7. Cumpre asseverar que somente têm presunção de dependência as pessoas das classes elencadas nas letras a e b, devendo os demais, como no caso, comprovar a dependência econômica em relação ao de cujus.
+8. No caso em exame, o Tribunal a quo corroborou o entendimento de que não foi demonstrada a dependência econômica do autor em relação à instituidora da pensão. Lê-se no acórdão objurgado (fls. 204/205):
+Do laudo médico elaborado pelo perito judicial de fis. 82/84, realizado em 13.08.2007, verifica-se que o autor não apresenta quaisquer sinais ou sintomas de desenvolvimento mental retardado, distúrbios psiquicos, dependencia de álcool ou drogas, nem há referéncias pregressas, demonstrando integralidade das capacidades de discernimento, entendimento e determinação, sendo considerado, sob a óptica médico- legal psiquiátrica, capaz para os atos da vida civil e para atividades laborativas que lhe garantam a subsistência e para a vida independente.
+Ademais, verifica-se que a parte autora trouxe documentos médicos (fls. 16/19, 43 e 106) com datas a partir de 2005, ou seja, insuficientes para comprovar a invalidez da parte autora no momento do óbito da de cujus.
+Embora as testemunhas (fls. 56/59) tenham afirmado que o autor sempre foi incapacitado para o trabalho, a prova somente oral não basta para esta comprovação, além do que não serve para desconsiderar as conclusões de laudo elaborado por perito oficial. Por fim, observa-se que o autor passou a receber auxilio-doença somente em 04.11.2004 (fls.
+91) de modo que não é possivel comprovar a sua invalidez à época do óbito da sua mãe falecida (24.11.2003).
+9. Dessa forma, verifica-se que a pretensão recursal só seria viável mediante novo exame do acervo probatório dos autos, que conduzisse à conclusão diversa da alcançada no acórdão recorrido, procedimento absolutamente estranho ao Apelo Nobre, a teor da Súmula 7 do STJ. A propósito, a jurisprudência desta Corte:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENSÃO POR MORTE. GENITORA. DEPENDÊNCIA ECONÔMICA NÃO COMPROVADA. IMPOSSIBILIDADE DE REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Para que seja concedida a pensão por morte, necessária a comprovação da condição de dependente, bem como a qualidade de segurado, ao tempo do óbito.
+2. In casu, o Tribunal de origem, confirmando a sentença, consignou que a autora não comprovou a condição de dependente do segurado instituidor da pensão, asseverando que além de possuir renda própria oriunda de pensão por morte de seu cônjuge, ainda realiza serviços como costureira. Asseverou, ainda, que as provas carreadas aos autos também dão conta que o filho da autora não residia com a mãe, que tem também outros filhos vivos que não vivem sob sua dependência.
+3. Dessa forma, não tendo a autora logrado comprovar sua condição de dependência econômica, não faz jus à concessão do benefício pleiteado.
+4. O revolvimento do conjunto fático-probatório dos autos afim de desconstituir a conclusão a que chegou a Corte de origem esbarra no óbice contido na Súmula 7 do STJ. Precedentes: AgRg nos EDcl no REsp. 1.250.619/RS, Rel. Min. HUMBERTO MARTINS, DJe 17.12.2012; AgRg no REsp. 1.360.758/RS, Rel. Min. HERMAN BENJAMIN, DJe 3.6.2013.
+5. Agravo Regimental desprovido (AgRg no AREsp. 640.983/SP, Min. Rel. NAPOLEÃO NUNES MAIA FILHO, DJe 3.3.2016).
+
+PREVIDENCIÁRIO. PENSÃO POR MORTE. PAIS. COMPROVAÇÃO DE DEPENDÊNCIA ECONÔMICA NÃO DEMONSTRADA. REVALORAÇÃO DA PROVA. DESCABIMENTO. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Para fins de percepção d pensão por morte, a dependência econômica entre os genitores e o segurado falecido deve ser demonstrada, não podendo ser presumida.
+2. No caso dos autos, o acórdão recorrido entendeu "não comprovada a dependência econômica da mãe em relação ao filho de criação, ante a inexistência de conjunto probatório harmônico e coerente. Ausente a prova dependência econômica, inviável a concessão da pensão por morte".
+3. O Superior Tribunal de Justiça, no que diz respeito a valoração probatória, possui entendimento no sentido de que "a errônea valoração da prova, a permitir a intervenção desta Corte na questão, é a jurídica, decorrente de equívoco de direito na aplicação de norma ou princípio no campo probatório"(AgRg no AREsp 26.857/GO, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 27/9/2013). In casu, verifica-se que o julgamento proferido pela instância ordinária não evidencia erro jurídico na aplicação de norma ou princípio, de modo que não se justifica a revaloração da prova.
+4. Tendo o acórdão de origem assentado suas conclusões sobre a prova juntada aos autos, não se pode acolher a pretensão recursal sem proceder ao revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+5. Agravo Regimental não provido (AgRg no AgRg no AREsp. 615.088/SP, Rel. Min. HERMAN BENJAMIN, DJe 12.8.2015).
+
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PENSÃO POR MORTE. DEPENDÊNCIA ECONÔMICA. NÃO RECONHECIDA NA ORIGEM. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Nos termos da jurisprudência do STJ, para "fins de percepção de pensão por morte, a dependência econômica entre os genitores e o segurado falecido deve ser demonstrada, não podendo ser presumida" (AgRg no REsp 1.360.758/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28.5.2013, DJe 3.6.2013).
+2. O Tribunal de origem concluiu que não há nos autos elementos suficientes capazes de demonstrar a efetiva dependência econômica da parte autora em relação ao filho falecido. Da análise das razões do acórdão recorrido, conclui-se que este decidiu a partir de argumentos que demandam reexame do acervo probatório. Incidência da Súmula 7/STJ.
+3. Agravo regimental improvido (AgRg no AREsp. 586.745/SP, Rel. Min. HUMBERTO MARTINS, DJe 17.11.2014).
+
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL. PENSÃO POR MORTE. ACÓRDÃO QUE APONTA A AUSÊNCIA DE DEMONSTRAÇÃO DA DEPENDÊNCIA ECONÔMICA DA GENITORA EM RELAÇÃO AO FILHO. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Para fins de percepção de pensão por morte, a dependência econômica entre os genitores e o segurado falecido deve ser demonstrada, não podendo ser presumida (AgRg no REsp 1.360.758/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/05/2013, DJe 03/06/2013).
+2. No caso, o Tribunal de origem, com base no conjunto probatório dos autos, concluiu que não houve a demonstração da dependência econômica.
+3. Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 435.232/PR, Rel. Min. SÉRGIO KUKINA, DJe 5.5.2014).
+10. Diante do exposto, nega-se provimento ao Agravo.
+11. Publique-se.
+12. Intimações necessárias.
