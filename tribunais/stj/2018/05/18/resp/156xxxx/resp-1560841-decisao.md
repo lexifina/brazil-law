@@ -1,0 +1,16 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL interpõe recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal de 1988, contra acórdão do Tribunal de Justiça daquele estado no Agravo em Execução n. 0347771-03.2014.8.21.7000.
+Na hipótese, o Parquet alega violação dos arts. 50, VII, 112 e 118, I, todos da Lei de Execução Penal e interpretação divergente conferida por este Superior Tribunal de Justiça no EREsp n. 1.176.486/SP. Assere que, após regular procedimento administrativo disciplinar contra o recorrido, em virtude de falta grave prevista no art. 50, VII, da LEP, o Juízo da Execução determinou a perda parcial dos dias remidos.
+Todavia, não houve a alteração da data-base para obtenção de futuros benefícios, condicionando a sua caracterização à alteração do regime de cumprimento da pena.
+Requer, assim, o provimento do recurso especial para restabelecer a decisão do Juízo de primeiro grau que determinou a alteração da data-base.
+Instado a se manifestar, o Ministério Público Federal pugnou pelo provimento do recurso especial, dada a pacífica jurisprudência no sentido de que a alteração da data-base para novos benefícios independe de concomitante determinação de regressão de regime (fls. 172-176).
+Decido.
+O recurso é tempestivo e preencheu os demais requisitos de admissibilidade. Passo à análise das razões recursais.
+O Tribunal de origem, ao julgar o agravo em execução interposto pelo reeducando, destacou ser viável a alteração da data-base para concessão de novos benefícios, desde que houvesse a regressão de regime ou a justificação pelo Magistrado da impossibilidade desta determinação. Trago o trecho do voto condutor do acórdão (fl. 66):
+Por outro lado, ainda que por fundamento diverso, deve ser provido o agravo no tocante à alteração da data-base para concessão de novos benefícios. Com efeito, é entendimento sedimentado neste órgão fracionário que, havendo a regressão de regime, consectário lógico é a sua alteração, pois é o marco estabelecido para as benesses. Altera-se este marco, interrompendo-se a contagem do prazo para obter o benefício, com recálculo da pena.
+O acórdão está em confronto com tese firmada em julgamento de recurso especial repetitivo.
+A Terceira Seção desta Corte, no julgamento do Recurso Especial Repetitivo n. 1.364.192/RS, firmou a tese (Tema n. 709) de que "a prática de falta grave interrompe o prazo para a progressão de regime, acarreta a modificação da data-base e o início de nova contagem do lapso necessário para o preenchimento do requisito objetivo."
+O reconhecimento da falta grave enseja, obrigatoriamente, a aplicação das sanções previstas no art. 118, I, e 127 da LEP, sob pena de se premiar a indisciplina carcerária. Apenas o art. 127 da LEP confere certa margem de discricionariedade ao juiz para, de acordo com as particularidades do caso e o princípio da proporcionalidade, decretar a perda de até 1/3 do tempo remido pelo preso.
+Nesses termos, o reconhecimento de falta grave é consectário lógico de alteração da data-base para concessão de benefícios executórios.
+À vista do exposto, com fundamento no art. 932, VIII, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial para restabelecer o decisum de primeira instância.
+Publique-se e intimem-se.
