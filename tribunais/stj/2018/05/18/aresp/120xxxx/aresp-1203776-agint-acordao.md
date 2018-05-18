@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. ESCALONAMENTO DA INDENIZAÇÃO EM FUNÇÃO DO GRAU DE INVALIDEZ. IRRESIGNAÇÃO FUNDADA NA VALIDADE DA ESTIPULAÇÃO. RAZÕES RECURSAIS QUE NÃO DIALOGAM COM OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de impugnação específica das razões pelas quais o Tribunal a quo deixou de conhecer da matéria atrai o óbice da Súmula 284 do STF.
+2. Agravo interno interposto por Mapfre Vida S.A. desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por MAPFRE VIDA S.A. contra decisão desta relatoria que conheceu do agravo para não conhecer do recurso especial, assim ementada (e-STJ, fl. 738):
+AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. ESCALONAMENTO DA INDENIZAÇÃO EM FUNÇÃO DO GRAU DE INVALIDEZ. NÃO COMPROVAÇÃO DO PRÉVIO CONHECIMENTO PELO CONSUMIDOR. IRRESIGNAÇÃO FUNDADA NA VALIDADE DA ESTIPULAÇÃO. RAZÕES RECURSAIS QUE NÃO DIALOGAM COM OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE MAPFRE VIDA S.A.
+Nas razões do recurso (e-STJ, fls. 771-784), a agravante alega que busca a análise quanto à interpretação das normas relacionadas ao contrato de seguro, arts. 757, 759 e 760 do Código Civil de 2002. Sustenta que a matéria está devidamente prequestionada. Pondera que a prova exigida é diabólica e que caberia ao estipulante tal comprovação, e não à seguradora. Acentua que a invalidez apresentada pela parte agravada é de natureza parcial. Por fim, defende a inaplicabilidade da Súmula 284/STF ao caso.
+Impugnação não apresentada (e-STJ, fls. 789-795).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Os argumentos trazidos pela agravante não são capazes de modificar as conclusões da deliberação unipessoal.
+No tocante à alegação de violação dos arts. 757, 759 e 760 do Código Civil de 2002 - ao ponderar pela possibilidade de limitação dos riscos da seguradora e afirmar que era dever da estipulante dar prévio conhecimento das cláusulas ao contratante e que requerer tal prova é o mesmo que requerer uma prova diabólica, conforme asseverado na decisão recorrida-, o Tribunal estadual entendeu pela inexistência de provas nos autos a demonstrar que o segurado tenha sido cientificado das condições gerais da apólice securitária da invalidez, salientando, ainda, que o ônus da prova competia à parte ré (seguradora). Ora, importante destacar que o fundamento de inexistência de provas nos autos a demonstrar que o segurado tenha sido cientificado das condições gerais da apólice securitária da invalidez é suficiente para manter o acórdão. O argumento de violação a artigos do Código Civil de 2002 para sustentar a possibilidade de limitação dos riscos da seguradora não afasta o fato de que não ficou comprovada nos autos a ciência do contratante.
+Assim, deve ser mantido o entendimento delineado na decisão combatida.
+A propósito, seguem os fundamentos da decisão monocrática ora agravada:
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 534-535):
+Pois bem, antes de mais nada, é importante esclarecer que a relação jurídica material estabelecida entre as partes é de natureza tipicamente consumerista, mormente porque o contrato é de adesão. Assim, as normas contidas no Código de Defesa do Consumidor, sobretudo aquelas de proteção do consumidor hipossuficiente, devem ser aplicadas ao caso concreto.
+O contrato de seguro, assim, como todos aqueles alcançados e sujeitos aos preceitos da Lei nº 8.078/90, deve ser interpretado de maneira mais favorável ao consumidor (art. 47 do CDC).
+No caso dos autos, o apelante é beneficiário de uma apólice de seguro de vida em grupo, celebrado junto à FHE - Fundação Habitacional do Exército, "Apólice nº 940.4529 - subgrupo 5, matrícula FAM n. 008.549.204-3", com previsão de responsabilidade pelas seguradoras rés, Bradesco Vida e Previdência S/A e Mapfre Vida S/A.
+A apólice contém cobertura básica em caso de Invalidez Permanente por Acidente, até R$ 174.542,40 (fl.19).
+Não obstante a juntada dos documentos de f. 88/191, em momento algum logrou as seguradoras recorridas demonstrar, de forma inequívoca, que cientificou o recorrente sobre a existência de cláusula contratual lhe autorizando o pagamento da indenização securitária com base no grau da invalidez eventualmente suportada pelo mesmo, tampouco acerca da utilização da tabela SUSEP.
+Deveras, ainda que a famigerada expressão "de até 100%" esteja identificada nas condições gerais do seguro de vida em grupo (f. 82), não consta qualquer prova de que o segurado tenha tomado conhecimento de tais condições.
+Tal comprovação, nos termos do art. 333, II, do CPC, era ônus que incumbia à seguradora, sobretudo considerando a inviabilidade de se impor ao consumidor a obrigação de comprovar um fato negativo (prova diabólica).
+Observa-se que a seguradora recorrida juntou com sua contestação fls. 80/191, cópia do referido contrato, o qual, não conta com a assinatura do consumidor, nem mesmo da empresa estipulante, tratando-se, em verdade, de documento apócrifo, logo, não se pode presumir que a parte contratante teve acesso a todas as cláusulas e anexos do contrato sub judice.
+Sob esse enfoque, cumpre relembrar que um dos direitos básicos do consumidor, talvez o mais elementar de todos, e daí a sua expressa previsão no art. 5º, XIV, da Constituição de 1988, é "a informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade e preço" (art. 6º, III, do CDC).
+Veja-se que a apólice deve ser interpretada de maneira mais favorável ao consumidor (artigo 47, do CDC) e, consequentemente, a incapacidade parcial e permanente do segurado deve ser indenizada, privilegiando, assim, a boa-fé objetiva do consumidor.
+Nesse contexto, o pagamento do seguro de forma proporcional ao grau de invalidez (em percentual), somente tem cabimento quando a seguradora comprovar que informou o segurado previamente sobre a existência de eventual tabela (como aquela da Susep), inclusive com sua assinatura no instrumento contratual, nos termos dos princípios da boa-fé objetiva e de informação, inseridos no artigo 6º, inciso III, e no artigo 54, § 4º, do Código de Defesa do Consumidor, aplicáveis à relação jurídica material consumerista.
+Nessa ordem de idéias, deve ser retificado o capítulo da sentença que concluiu pela possibilidade de pagamento da indenização securitária com base no grau de invalidez do segurado, devendo, pois, ser garantido ao consumidor o recebimento do valor total da apólice, equivalente à R$ 174.542,40.
+Consoante se extrai do acórdão recorrido, o Tribunal de origem concluiu pela inexistência de provas nos autos a demonstrar que o segurado tenha sido cientificado das condições gerais da apólice securitária da invalidez, salientando, ainda, que o ônus da prova competia à parte ré.
+Observa-se, portanto, que o dispositivo alegado como violado (arts. 757, 759, 760, 776, 781, 789 e 801 do Código Civil de 2002) não tem força normativa suficiente para alterar a referida conclusão do julgado, pois trata de questão diversa da decidida na Corte de origem, que se deu com base no art. 333, II, do Código de Processo Civil de 1973.
+Como se observa, as razões do recurso especial não dialogam com os fundamentos do acórdão recorrido, o que atrai a incidência da Súmula n. 284/STF.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial de MAPFRE VIDA S.A.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento).
+Publique-se.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
