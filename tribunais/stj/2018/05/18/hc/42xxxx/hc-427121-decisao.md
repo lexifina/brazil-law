@@ -1,0 +1,17 @@
+DECISÃO
+THIAGO ALVES DE SOUSA, paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás (Embargos de Declaração na Apelação Criminal n. 158277-02.2016.8.09.0011).
+Consta dos autos que o paciente foi condenado à pena de 4 anos e 2 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput e § 4º, da Lei n. 11.343/2006. Os autos dão conta da apreensão de 12,120 kg (doze quilos, cento e vinte gramas) de cocaína.
+Busca-se, por meio deste writ, seja aplicada a detração penal (art. 387, § 2º, do CPP) e, por conseguinte, estabelecido o regime inicial mais brando de cumprimento de pena.
+Indeferida a liminar, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+Decido.
+Quanto ao pedido, observo que o Juiz sentenciante assim se manifestou (fl. 95):
+82. No que pertine ao regime inicial de cumprimento da sanctio juris, importa analisar o disposto no artigo 387, §2º, do sistema jurídico processual penal vigente, com a redação outorgada pela Lei Federal nº 12.736/2012, in verbis:
+ (..)O tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade(..)  (destaquei)
+83.Nesse particular, resulta do presente cartapácio que o sentenciando permaneceu, provisoriamente segregado por 06 (seis) meses e 22 (vinte e dois) dias, haja vista que o mesmo foi preso em flagrante delito em 03 de maio de 2016 (fls. 06 usque 10 do processado em foco), situação cautelar em que se encontra até a presente data.
+84.Sendo assim, computado o tempo de segregação provisória objetivando a fixação do regime prisional para adimplemento da sanção privativa de liberdade, deve ser considerado o lapso temporal de 04 (quatro) anos e 08 (oito) dias de reclusão.
+85.Ex positis, sopesando o disposto nos artigos 33, § 2º, 59, inciso III, do pergaminho penal brasileiro, c/c a súmula 719 do STF, de outra alternativa não disponho senão determinar que o regime de cumprimento da sanção penal acima estabelecida como de reclusão seja o inicialmente fechado na Penitenciária Odenir Guimarães, já que:
+a)tem a maioria das circunstâncias judiciais desfavoráveis;
+b)não comprova vínculo real ao distrito da culpa, o que de per si, não exige a fixação do regime fechado, mas as circunstâncias aqui analisadas assim recomendam, vez que a soltura do acusado, segundo elementos concretos colhidos nessa instrução deixará desprotegida a sociedade e a ordem pública (pois vive da traficância) e inviabilizará a aplicação da lei penal, estando presentes os fundamentos e pressupostos da prisão preventiva.
+Pela leitura do trecho transcrito, noto que, conforme concluiu o Ministério Público Federal, não há interesse de agir do impetrante. Isso porque o Magistrado, ao contrário do que alega a defesa, efetivou a detração, tanto que a pena privativa de liberdade a ser considerada para fins de fixação do modo de cumprimento é de 4 anos e 8 meses de reclusão. Entretanto, ante a presença de circunstâncias desfavoráveis, mesmo que a reprimenda seja inferior a 8 anos de reclusão, permanecem motivos suficientes para justificar a manutenção do regime fechado. Logo, não há constrangimento ilegal a ser sanado.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
