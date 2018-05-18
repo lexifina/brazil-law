@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública em favor de DIEGO ROBERTO MENDES MATIAS, apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Norte (HC nº 0802975-03.2018.8.20.0000).
+Consta dos autos que o paciente foi condenado à pena de 10 (dez) anos, 10 (dez) meses e 10 (dez) dias de reclusão, em regime inicial fechado, pela prática dos crimes previstos no art. 121, caput, e no art. 121, caput, c.c. art. 14, II, do Código Penal, tendo sido decretada a prisão preventiva do paciente.
+Inconformada, a defesa impetrou prévio writ perante o Tribunal de origem, cuja inicial foi indeferida, sendo extinto o processo sem resolução do mérito, por decisão monocrática do Desembargador relator.
+Daí o presente mandamus, no qual a defesa afirma que não é viável o início da execução provisória da pena após a sentença, sem justificativa idônea.
+Assinala que, embora o paciente tenha sido custodiado preventivamente em 2011, a prisão foi revogada após 8 meses.
+Sublinha que não estão presentes os requisitos autorizadores da segregação preventiva, previstos no art. 312 do Código de Processo Penal.
+Ressalta que há flagrante ilegalidade capaz de mitigar a Súmula nº 691 da Suprema Corte.
+Requer, liminarmente e no mérito, seja revogada a prisão preventiva.
+É o relatório.
+Com efeito, constata-se um óbice ao processamento do presente writ consistente na ausência de manifestação do Tribunal a quo sobre o tema aventado na inicial.
+De fato, a defesa não interpôs o devido agravo interno da decisão monocrática do Desembargador do Tribunal estadual.
+Como cediço, a ausência de manifestação do Tribunal de origem sobre a matéria suscitada na impetração impede sua apreciação por esta Corte, sob pena de indevida supressão de instância.
+Portanto, não se mostra plausível o surgimento da temática somente perante esta Corte Superior em sede de writ, remédio heroico que prima pelos estreitos lindes.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL. HABEAS CORPUS. NEGATIVA DE SEGUIMENTO. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO DESEMBARGADOR RELATOR DO APELO DEFENSIVO. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR DOMICILIAR. REQUISITOS NÃO PREENCHIDOS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. MANUTENÇÃO DA DECISÃO PELOS SEUS PRÓPRIOS FUNDAMENTOS. DESPROVIMENTO DO AGRAVO. 1. O presente remédio constitucional foi impetrado contra a decisão monocrática de Desembargador do Tribunal de Justiça do Estado de São Paulo que denegou o pedido de prisão domiciliar ao paciente, sem que a matéria fosse submetida ao crivo do Colegiado através do necessário agravo regimental, deixando-se, portanto, de exaurir a instância antecedente, circunstância que impede o exame da questão diretamene por este Superior Tribunal de Justiça. Precedentes. 2. A reforma do entendimento firmado na decisão impetrada quanto a ausência de demonstração do preenchimento do requisito "doença grave" pelo réu, indispensável para a concessão da prisão domiciliar, demandaria o revolvimento de matéria fático-probatória, providência vedada na estreita via do habeas corpus. Precedentes. 3. Agravo regimental desprovido. (AgRg no HC 347.781/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 25/10/2016, DJe 14/11/2016)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR. TEMAS NÃO APRECIADOS PELO ÓRGÃO COLEGIADO DO TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. 1. O art. 105, inciso I, alínea c, da Constituição da República dispõe que compete a este Tribunal Superior processar e julgar habeas corpus, quando o coator for tribunal sujeito à sua jurisdição. Contudo, não constam nos autos elementos que demonstrem a existência de acórdão da Corte Estadual apreciando o tema objeto deste writ. 2. Não se submete à competência do Superior Tribunal de Justiça o exame de habeas corpus impetrado contra decisão singular de Desembargador. Precedentes. 3. Agravo regimental a que se nega provimento. (AgInt no HC 379.806/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+Assim, vê-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior de Justiça pois as instâncias ordinárias não foram esgotadas, não sendo levada a causa para a apreciação do órgão colegiado competente.
+Além disso, dispõe o artigo 105, I, "c", da Constituição Federal, que compete ao Superior Tribunal de Justiça processar e julgar habeas corpus somente quando o coator for Tribunal sujeito à sua jurisdição, o que não se verifica no caso em questão. O pedido também não encontra arrimo em nenhuma das hipóteses de competência originária desta Corte Superior.
+Por tais motivos, indefiro liminarmente o presente writ, conforme disciplina do artigo 210 do RISTJ.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intime-se.
+Sem recurso, arquivem-se os autos.
