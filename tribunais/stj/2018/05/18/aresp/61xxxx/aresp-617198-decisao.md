@@ -1,0 +1,29 @@
+DECISÃO
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. SUPOSTA VIOLAÇÃO AO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. IMPOSSIBILIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO EM RECURSO ESPECIAL DO INSS A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo INSS com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão do Tribunal Regional Federal da 4a. Região, assim ementado:
+DIREITO PREVIDENCIÁRIO. TEMPO RURAL. TEMPO URBANO. TEMPO ESPECIAL. AGENTE NOCIVO. RUÍDO. AGENTES QUÍMICOS. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CONCESSÃO. EFEITOS FINANCEIROS. CORREÇÃO MONETÁRIA.
+1. A comprovação do exercício de atividade rural deve-se realizar na forma do art. 55, § 3º, da Lei 8.213/91, mediante início de prova material complementado por prova testemunhal idônea.
+2. As anotações constantes de CTPS, salvo prova de fraude, constituem prova plena para efeitos de contagem de tempo de serviço urbano.
+3. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer-se a especialidade da atividade laboral por ele exercida.
+4. É admitida como especial a atividade em que o segurado ficou exposto a ruídos superiores a 80 decibéis até 05/03/1997, em que aplicáveis concomitantemente, para fins de enquadramento, os Decretos n. 53.831/64 e 83.080/79; superiores a 90 decibéis no período de 06/03/1997 a 18/11/2003, de acordo com o Decreto nº 2.172/97, e, a partir de 19/11/2003 superiores a 85 decibéis, nos termos do Decreto 4.882/2003.
+5. Os riscos ocupacionais gerados pela exposição a agentes químicos não requerem a análise quantitativa de concentração ou intensidade máxima e mínima no ambiente de trabalho, dado que são caracterizados pela avaliação qualitativa.
+6. Preenchidos os requisitos legais, tem o segurado direito à concessão de aposentadoria por tempo de contribuição.
+7. Os efeitos financeiros devem retroagir à data do 2º requerimento administrativo, porquanto esta Corte tem considerado que desimporta se naquela ocasião o feito foi instruído adequadamente, ou mesmo se continha, ou não, pleito de reconhecimento do tempo de serviço posteriormente admitido na via judicial, sendo relevante para essa disposição o fato de a parte, àquela época, já ter incorporado ao seu patrimônio jurídico o benefício nos termos em que deferido.
+8. Não incide a Lei 11.960/09, para fins de correção monetária do débito.
+2. Alega o INSS violação aos arts. 535 do CPC/1973, 29-A da Lei 8.213/1991 e 19 do Decreto 3.048/1999, aos seguintes fundamentos: (a) o acórdão recorrido, a despeito da oposição de Embargos de Declaração, permaneceu omisso; e (b) a CTPS constitui apenas início de prova do vínculo laboral para fins previdenciários, portanto jamais pode gerar isoladamente o reconhecimento do tempo de contribuição, assim, em havendo divergência entre os salários de contribuição fornecidos pela empresa em relação ao dados do Sistema CNIS do INSS, deve prevalecer os dados do CNIS.
+3. É o relatório. Decido.
+4. Inicialmente, constata-se que a recorrente não demonstrou em que consiste a ofensa ao art. 535 do CPC/1973, tendo se limitado a alegar de forma genérica a existência de supostas omissões ou contradições no aresto recorrido, sem a indicação específica dos pontos sobre os quais o julgador deveria ter-se manifestado, inviabilizando a compreensão da controvérsia. Inafastável, portanto, a aplicação do óbice previsto na Súmula 284/STF.
+5. Quanto à alegada violação aos arts. 29-A da Lei 8.213/1991 e 19 do Decreto 3.048/1999, constata-se que o Tribunal a quo não emitiu juízo de valor acerca de tais questões, a despeito de suscitado via Embargos de Declaração, e tampouco a parte suscitou negativa de prestação jurisdicional em relação a esse tema, pois o fez de forma genérica como já salientado. Inafastável, no ponto, a incidência da Súmula 211 desta Corte. A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO - APOSENTADORIA RURAL POR IDADE - FALTA DE PREQUESTIONAMENTO - SÚMULA 211/STJ - OFENSA À COISA JULGADA - REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA - SÚMULA 7/STJ.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula 211 do STJ).
+2. Rever as premissas adotadas pelo julgado proferido pela Corte a quo é inviável em sede de recurso especial, nos termos do enunciado 7 da Súmula desta Corte de Justiça
+3. Agravo regimental não provido (AgRg no AREsp 262.763/PR, Rel. Min. ELIANA CALMON, DJe 18.10.2013).
+
+PROCESSUAL CIVIL. AÇÃO POPULAR. VIOLAÇÃO AO ART. 535 DO CPC. OMISSÃO NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ART. 21 DA LEI 4.717/65. PRAZO DECORRIDO.
+1. É entendimento sedimentado o de não haver omissão no acórdão que, com fundamentação suficiente, ainda que não exatamente a invocada pelas partes, decide de modo integral a controvérsia posta.
+2. A falta de prequestionamento da questão federal, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula 211 do STJ).
+(..).
+4. Recurso especial parcialmente conhecido e, nessa parte, improvido (REsp 1.202.449/MG, Rel. Min. TEORI ALBINO ZAVASCKI, DJe 16.11.2011).
+6. Ademais, ainda que fosse possível superar esse óbice, constata-se que o acórdão recorrido decidiu com base nos elementos fáticos constantes dos autos, conforme se pode depreender de uma simples leitura da ementa. O revolvimento dessa matéria em sede de recorribilidade extraordinária demandaria a análise de fatos e provas, o que atrai o óbice da Súmula 7 desta egrégia Corte.
+7. Com essas considerações, nega-se provimento ao Agravo em Recurso Especial do INSS.
+8. Publique-se. Intimações necessárias.
