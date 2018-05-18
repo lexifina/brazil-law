@@ -1,0 +1,52 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Município de Nova Iguaçu, com base nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+Agravo inominado em Apelação Cível. Execução Fiscal. Crédito tributário oriundo de lançamento de IPTU e/ou Taxa de Coleta de Lixo e/ou Taxa de Conservação de Vias e Logradouros Públicos, referente(s) ao exercício de 2004. Sentença que extingue o feito sem resolução de mérito. Manutenção da mesma em sede de Apelação. Inconformismo do Ente Público.
+Razões recursais lastreadas na nulidade da sentença por não ter o Juízo a quo oportunizado a emenda da inicial e por ter sido aquela proferida em bloco. Violação do devido processo legal.
+Matérias que se revelam estranha às que foram submetidas à apreciação deste Juízo recursal, quando da interposição do recurso primitivo.
+Inovação recursal que se evidencia, e que impede a apreciação dos temas ventilados pela agravante à luz do princípio que veda a Supressão de Instância. Decisão que se mantém. Desprovimento do recurso.
+Os embargos de declaração opostos pela municipalidade foram rejeitados.
+Em suas razões, o recorrente levanta prefacial de ofensa ao art. 535, II, do CPC/1973, para a eventualidade de não se reconhecer o prequestionamento das questões mencionadas.
+No mérito, acusa violação dos arts. 1º e 2º, § 8º, da Lei n. 6.830/1980; e 284 e 458 do CPC/1973.
+Defende, em síntese, que a decisão é nula, pois "o juízo a quo proferiu sentença por meio de cópia reprográfica, que foi adotada para diversas outras execuções fiscais ajuizadas por meio eletrônico, sem a devida fundamentação legal" (e-STJ, fl. 112).
+Sustenta que, antes de extinguir a execução fiscal, deve o magistrado intimar o exequente, para emendar a inicial, nos casos de inépcia da exordial.
+Por fim, aduz que o Superior Tribunal de Justiça proferiu decisão, em repetitivo, no sentido de que "basta retirar da CDA o tributo indevido (no caso a Taxa de Conservação de Vias, reconhecido como inconstitucional), mantendo os valores devidos (no caso IPTU e Taxa de Lixo)" (e-STJ, fl. 115).
+Sem contrarrazões recursais.
+Admitido o recurso na origem (e-STJ, fl. 200), foram os autos remetidos a esta Corte.
+É o relatório.
+Inicialmente, no tocante à suposta ofensa ao art. 535 do CPC/1973, a parte recorrente limitou-se a afirmar que o Tribunal a quo não poderia ter se recusado a pronunciar acerca das questões suscitadas nos aclaratórios, sem, contudo, apontar precisamente de que modo as omissões poderiam influenciar no julgamento do acórdão recorrido e o porquê da deficiência de fundamentação, o que impede o conhecimento do apelo nobre quanto à alegada afronta aos citados dispositivos do Código de Ritos.
+Assim, é inadmissível o apelo especial nos casos em que a arguição é genérica, por incidir a Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia."
+A título de ilustração, confiram-se:
+PROCESSUAL. TRIBUTÁRIO. VIOLAÇÃO DO ARTIGO 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. NULIDADE DAS CDAs. SÚMULA 07/STJ. DECOTE DE EXCESSO DE EXECUÇÃO. POSSIBILIDADE. SELIC. LEGALIDADE. CARÁTER CONFISCATÓRIO DE MULTA. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE. VERIFICAÇÃO DE SUCUMBÊNCIA, SE MÍNIMA OU RECÍPROCA, NA VIA ESPECIAL. INVIABILIDADE. SÚMULA 07/STJ.
+1. Alegações genéricas de afronta ao artigo 535 do CPC, sem apontar efetivamente as omissões e motivos pelos quais o Tribunal de origem deveria manifestar-se sobre elas, não bastam à abertura da via especial pela alínea "a" do permissivo da Constituição da República, nos termos da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. A investigação acerca do preenchimento dos requisitos formais da CDA que aparelha a execução fiscal demanda, necessariamente, a revisão do substrato fático-probatório contido nos autos, providência que não se coaduna com a via eleita, conforme vedação expressa da Súmula 7/STJ.
+3. Constatada a cobrança de valores indevidos, é possível a mera alteração da CDA, já que bastam cálculos aritméticos para tanto, com a diminuição respectiva, não induzindo sua nulidade. Precedentes.
+4. A apuração do caráter confiscatório da multa tributária depende da interpretação da norma prevista no artigo 150, V, da Constituição Federal, o que refoge ao âmbito do recurso especial.
+5. É devida a Taxa Selic nos cálculos dos débitos dos contribuintes para com a Fazenda Pública Federal.
+6. Mostra-se inviável, no âmbito de recurso especial, aferir o quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, pois demanda análise de matéria fática, procedimento obstado, nos termos da Súmula 07/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+7. A recorrente não observou, no tocante à interposição do apelo pela alínea "c" do permissivo constitucional, as formalidades indispensáveis ao conhecimento do especial, porquanto não procedeu ao indispensável cotejo analítico no intuito de demonstrar que os arestos confrontados partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+8. Agravo regimental não provido.
+(AgRg no Ag 1.354.461/PR, Rel. Ministro CASTRO MEIRA, DJe 14/2/2010)
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL - AGRAVO DE INSTRUMENTO - RESCISÓRIA - PERÍCIA - SUBIDA DE RECURSO ESPECIAL - AGRAVO REGIMENTAL PROVIDO.
+1. Ausência de peças. Quanto à viabilidade de conhecimento do agravo, mesmo com peças faltantes, tenho de ser acolhida essa tese. Na espécie, não se identifica a ausência total da peça, mas, tão somente, de algumas partes. Ante a possibilidade de entendimento da controvérsia, concordo que é de ser afastado esse obstáculo.
+2. Deficiência de fundamentação do art. 535, CPC. É de ser reconhecida a deficiência de fundamentação, ao estilo do que dispõe a Súmula 284/STF. A matéria não admite conhecimento. O caráter genérico das alegações reforça essa compreensão.
+3. Súmula 7/STJ e prequestionamento dos arts.130 e 330, CPC. Quanto a este óbice, entendo ser superável, especialmente pela decisão aqui já proferida, na ocasião em que se admitiu a eficácia suspensiva à cautelar. É de todo razoável que suba o especial e, em seu ambiente específico, sejam apreciadas essas questões de ordem procedimental. A relevância do interesse público e a total ineficácia de sua proteção ante o êxito de questões de técnica processual sobre as questões de fundo autorizam o provimento do agravo. Agravo regimental provido, para determinar a subida do recurso especial.
+(AgRg no Ag 934.704/SP, Rel. Ministra ELIANA CALMON, Rel. p/ Acórdão Ministro HUMBERTO MARTINS, DJe 20/8/2009)
+Assim, não se pode conhecer do recurso especial quanto à suscitada ofensa ao art. 535, II, do CPC/1973.
+Com relação ao mérito propriamente, verifica-se que o recurso especial também não ultrapassa o juízo de admissibilidade, porquanto se observa a existência de fundamento exarado no aresto combatido que não foi objeto de impugnação específica pelo recorrente, concernente à impossibilidade de julgamento das razões do agravo inominado ante a prática de inovação recursal.
+É o que se infere deste excerto do aresto combatido:
+Com efeito. Do cotejo entre as razões recursais trazidas à colação em momento pretérito, mais precisamente em fls. 11/17, quando da interposição de recurso primitivo, e as que acompanham o presente agravo inominado, resta indene de dúvidas a prática de inovação recursal por parte da agravante.
+Isso porque, na apelação, o recorrente ventilou a tese de possibilidade de substituição da Certidão de Dívida Ativa, invocando a Súmula 392 do STJ, bem como a ausência de erro material de lançamento, tendo apresentado referida certidão em fls. 07, excluindo-se os valores referentes à Taxa de Coleta de Lixo e Taxa de Conservação de Vias e Logradouros Públicos, referente ao exercício de 2005, entendendo se tratar de mera correção no cálculo de atualização da dívida.
+Ocorre que, no presente, e após a rejeição dos argumentos vertidos no recurso original, o Agravante apresenta teses de todo diferente, e que não haviam sido suscitadas na apelação, dentre elas, sendo até ventilada a questão da possibilidade de substituição da Certidão de Dívida Ativa, porém, como pano de fundo pelo Juízo de piso não ter oportunizado ao recorrente a possibilidade de emendar a inicial.
+Assim é que o inconformismo ora apresentado pelo recorrente não foi submetido à apreciação desta Colenda Câmara no momento oportuno, senão, quando da interposição do presente recurso, o que é repudiado no ordenamento jurídico vigente à luz do princípio que veda a Supressão de Instância.
+Por esse tanto, diante da ofensa do ataque específico aos termos da sentença por parte do recurso, entendo que a negativa de provimento ao presente recurso é medida que se impõe, restando prejudicadas as teses nele suscitadas, mantendo a decisão agravada tal como lançada, nos termos acima, ressalvando, contudo, competir ao Juízo de piso a fiscalização do efetivo cumprimento dos comandos judiciais lançados nos autos de origem. (e-STJ, fls. 67/68)
+Nesse contexto, a insurgência encontra o óbice da Súmula 283/STF, visto que subsiste fundamento incólume ao recurso da União.
+A respeito do tema:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FORNECIMENTO DE SUPLEMENTO ALIMENTAR PELO ESTADO. ALERGIA À LACTOSE. ALEGADA OFENSA AO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. SUPOSTA OFENSA A DISPOSITIVO NÃO PREQUESTIONADO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ALEGADA EXISTÊNCIA DE PROVAS NOS AUTOS PARA SUSTENTAR A PRETENSÃO INICIAL. NECESSIDADE DE REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+3. Ausente a impugnação a fundamento suficiente para manter o acórdão recorrido, o recurso especial não merece ser conhecido, por lhe faltar interesse recursal. Inteligência da Súmula 283 do STF, aplicável, por analogia, ao recurso especial.
+ ..
+5. Recurso especial não conhecido.
+(REsp 1.367.651/MG, Rel. Min. ELIANA CALMON, DJe 3/12/2013)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
