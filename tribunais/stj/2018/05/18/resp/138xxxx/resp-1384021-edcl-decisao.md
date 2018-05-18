@@ -1,0 +1,13 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Trata-se de Embargos Declaratórios no Recurso Especial opostos por [NOME], contra decisão monocrática da minha lavra, cuja ementa abaixo se transcreve:
+PROCESSO CIVIL. RECURSOS ESPECIAIS. PROCURADORES DA FAZENDA NACIONAL. PROGRESSÃO NA CARREIRA. RESOLUÇÕES 02/2000 E 02/2005 DO CONSELHO SUPERIOR DA ADVOCACIA-GERAL DA UNIÃO EXIGINDO INTERSTÍCIO DE DOIS ANO CONTADOS DO TÉRMINO DO ESTÁGIO PROBATÓRIO. ILEGALIDADE. EXTRAPOLAÇÃO DO PODER REGULAMENTAR. RECURSO ESPECIAL DA UNIÃO A QUE SE NEGA SEGUIMENTO. RECURSO ESPECIAL DOS PARTICULARES PROVIDO PARA RESTABELECER A SENTENÇA.
+2. A parte embargante sustenta, em síntese, a necessidade de se arbitrar honorários advocatícios com fundamento no Novo CPC.
+3. Impugnação não apresentada.
+4. Era o que havia para relatar.
+5. O art. 1.022 do Código Fux - CPC/2015 - (art. 535 do CPC/1973) é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição ou omissão.
+6. Destarte, infere-se que, não obstante pacífica a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum em casos, justamente, nos quais eivado de obscuridade, contradição ou omissão; não têm, pois, de regra, caráter substitutivo ou modificativo, é dizer, o condão de alterar, livre e substancialmente, o decisório em seu dispositivo, mas aclaratório ou integrativo, daí não sendo seu processamento norteado pelos princípios do contraditório e da igualdade.
+7. Com efeito, os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+8. Registro, ainda, que as disposições do Código Fux não são aplicáveis ao caso em apreço, porquanto o Recurso Especial foi interposto na vigência do Código Buzaid, devendo este normativo legal incidir sobre o caso em apreço.
+9. Diante dessas considerações, rejeitam-se os Embargos Declaratórios opostos.
+10. Publique-se. Intimações necessárias.
