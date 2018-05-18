@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. ESCALONAMENTO DA INDENIZAÇÃO EM FUNÇÃO DO GRAU DE INVALIDEZ. IRRESIGNAÇÃO FUNDADA NA VALIDADE DA ESTIPULAÇÃO. RAZÕES RECURSAIS QUE NÃO DIALOGAM COM OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284/STF. PROPORCIONALIDADE DO VALOR DA INDENIZAÇÃO. ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de impugnação específica das razões pelas quais o Tribunal a quo deixou de conhecer da matéria atrai o óbice da Súmula 284 do STF.
+2. O acolhimento do inconformismo, segundo as alegações vertidas nas razões do apelo nobre, demanda revolvimento do acervo fático-probatório dos autos e do contrato, situação que atrai os óbices do disposto nas Súmulas 5 e 7 do STJ.
+3. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea c do permissivo constitucional, ficando, portanto, prejudicada a análise da divergência jurisprudencial.
+4. Agravo interno interposto por Bradesco Vida e Previdência S.A. desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por BRADESCO VIDA E PREVIDÊNCIA S.A. contra decisão desta relatoria que conheceu do agravo para não conhecer do recurso especial, assim ementada (e-STJ, fl. 742):
+AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. ESCALONAMENTO DA INDENIZAÇÃO EM FUNÇÃO DO GRAU DE INVALIDEZ. NÃO COMPROVAÇÃO DO PRÉVIO CONHECIMENTO PELO CONSUMIDOR. IRRESIGNAÇÃO FUNDADA NA VALIDADE DA ESTIPULAÇÃO. RAZÕES RECURSAIS QUE NÃO DIALOGAM COM OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284/STF. PROPORCIONALIDADE DO VALOR DA INDENIZAÇÃO. ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE BRADESCO VIDA E PREVIDÊNCIA S.A.
+Nas razões do recurso (e-STJ, fls. 752-768), o agravante alega que busca a análise quanto à interpretação das normas relacionadas ao contrato de seguro, arts. 757, 759 e 760 do Código Civil de 2002, por ser a fundamentação exposta clara quanto à infringência destes artigos, não havendo que se falar em óbice da Súmula 284/STF. Aduz que a decisão recorrida imputa garantia de riscos não previstos na apólice.
+Pondera que é necessária uma revaloração dos fatos e provas, e não um reexame.
+Afirma que não houve análise das questões quanto ao dissídio jurisprudencial.
+Impugnação apresentada (e-STJ, fls. 789-795).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Os argumentos trazidos pelo agravante não são capazes de modificar as conclusões da deliberação unipessoal.
+Incide na espécie o enunciado da Súmula 284 do STF, uma vez que as razões do recurso especial não dialogam com os fundamentos nele delineados, ficando, dessa forma, deficiente a fundamentação.
+Isso ocorre porque o Tribunal de origem concluiu pela inexistência de provas nos autos a demonstrar que o segurado tenha sido cientificado das condições gerais da apólice securitária da invalidez, salientando, ainda, que o ônus da prova competia a parte ré.
+A propósito, confira-se (e-STJ, fls. 534-535):
+Não obstante a juntada dos documentos de f. 88/191, em momento algum logrou as seguradoras recorridas demonstrar, de forma inequívoca, que cientificou o recorrente sobre a existência de cláusula contratual lhe autorizando o pagamento da indenização securitária com base no grau da invalidez eventualmente suportada pelo mesmo, tampouco acerca da utilização da tabela SUSEP.
+Deveras, ainda que a famigerada expressão "de até 100%" esteja identificada nas condições gerais do seguro de vida em grupo (f. 82), não consta qualquer prova de que o segurado tenha tomado conhecimento de tais condições.
+Tal comprovação, nos termos do art. 333, II, do CPC, era ônus que incumbia à seguradora, sobretudo considerando a inviabilidade de se impor ao consumidor a obrigação de comprovar um fato negativo (prova diabólica).
+Observa-se que a seguradora recorrida juntou com sua contestação fls. 80/191, cópia do referido contrato, o qual, não conta com a assinatura do consumidor, nem mesmo da empresa estipulante, tratando-se, em verdade, de documento apócrifo, logo, não se pode presumir que a parte contratante teve acesso a todas as cláusulas e anexos do contrato sub judice.
+Sob esse enfoque, cumpre relembrar que um dos direitos básicos do consumidor, talvez o mais elementar de todos, e daí a sua expressa previsão no art. 5º, XIV, da Constituição de 1988, é "a informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade e preço" (art. 6º, III, do CDC).
+Veja-se que a apólice deve ser interpretada de maneira mais favorável ao consumidor (artigo 47, do CDC) e, consequentemente, a incapacidade parcial e permanente do segurado deve ser indenizada, privilegiando, assim, a boa-fé objetiva do consumidor.
+Nesse contexto, o pagamento do seguro de forma proporcional ao grau de invalidez (em percentual), somente tem cabimento quando a seguradora comprovar que informou o segurado previamente sobre a existência de eventual tabela (como aquela da Susep), inclusive com sua assinatura no instrumento contratual, nos termos dos princípios da boa-fé objetiva e de informação, inseridos no artigo 6º, inciso III, e no artigo 54, § 4º, do Código de Defesa do Consumidor, aplicáveis à relação jurídica material consumerista.
+Observa-se, portanto, que os dispositivos alegados como violados (art. 757, 759 e 760 do Código Civil) não têm força normativa suficiente para alterar a referida conclusão do julgado, pois trata de questão diversa da decidida na Corte de origem, que se deu com base no art. 333, II, do Código de Processo Civil de 1973.
+Quanto à proporcionalidade do valor da indenização, impende registrar que, a partir dos pressupostos analisados pelo acórdão recorrido, a questão foi resolvida com base nas cláusulas contratuais e nos elementos fáticos que permearam a demanda. Tanto é assim que o próprio agravante, apesar de alegar que todos os elementos necessários à avaliação do caso constam da sentença e do acórdão, e que seria necessário apenas a revaloração, e não o reexame, à fl. 765 (e-STJ) do seu agravo afirma que:
+Analisando o Certificado Individual do Seguro constante na fl. 19 apresentado aos autos pelo próprio recorrido, é possível verificar que o segurado detinha ciência de que as Condições Gerais estavam disponíveis no site da FHE - Fundação Habitacional do Exército (http://fhe.org.br/cgfam) e nos Pontos de Atendimento da FHE.
+Ora, o próprio agravante se contradiz e aduz que tal documento deve ser analisado. Diante disso, não é possível concluir que a revaloração das informações seria suficiente para modificar a conclusão a que chegou o Tribunal estadual.
+Assim, rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local implicaria na análise de cláusulas contratuais e no reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 deste Tribunal.
+Por fim, não se pode conhecer do recurso também pela alínea c, uma vez que, aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+Assim, deve ser mantido o entendimento delineado na decisão combatida.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
