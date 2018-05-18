@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manejado por Energia Sustentável do Brasil S/A, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado (fl. 725):
+"Agravo em agravo de instrumento. Desconstituição de fundamento. Não ocorrência. Ausência de elementos capazes de infirmar o entendimento. Manutenção.
+É inviável agravo que não desconstituiu os fundamentos da decisão recorrida, devendo ser mantida a conclusão externada.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 103, 105 e 219 do CPC/73, sustentando que o juízo competente para apreciação da lide é a 3ª Vara Cível de Porto Velho-RO, em razão da conexão entre a presente ação e a indenizatória 0011765-93.2011.8.22.0001, além da prevenção com a ACP 0018924-87.2011.8.22.0001 proposta pelo Sindicato dos Pescadores Profissionais de Rondônia, uma vez que as três demandas compartilham a mesma causa de pedir, a saber, a alegada redução da quantidade de peixes no rio Madeira em decorrência das obras para a construção de usina hidroelétrica.
+É o relatório.
+O Tribunal a quo afastou a prevenção suscitada, forte no art. 100, V, a, do CPC/73, compreendendo que a pretensão deduzida é de natureza indenizatória e decorrente de ilícito contratual, situação que faz atrair regra específica de competência.
+Como se percebe, a empresa recorrente, ao insistir novamente na tese de conexão entre ações e prevenção com ação coletiva, deixou de infirmar o fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
