@@ -1,0 +1,14 @@
+DECISÃO
+CONFLITO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZO DE DIREITO E JUÍZO TRABALHISTA. SERVIDOR COMISSIONADO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO COMUM DE DIREITO.
+1. Trata-se de Conflito de Competência negativo suscitado pelo JUÍZO DA 2a. VARA DO TRABALHO DE MONTES CLAROS - MG em face do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, nos autos de Reclamatória Trabalhista proposta em desfavor da EMPRESA MUNICIPAL DE SERVIÇOS OBRAS E URBANIZAÇÃO.
+2. A ação foi originariamente proposta perante o Juízo Laboral, que declarou a sua incompetência e ordenou a remessa dos autos à Justiça Comum.
+3. Por sua vez, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS declarou-se incompetente e determinou o retorno dos autos à Justiça do Trabalho, a qual suscitou o presente Conflito de Competência e determinou a remessa dos autos a este egrégio Tribunal Superior.
+4. É o relatório.
+5. Com efeito, em face do advento da Emenda Constitucional 45, de 31.12.2004, a competência para conhecer e julgar as ações oriundas da relação de trabalho, abrangidos entes de Direito Público externo e da Administração Pública Direta e Indireta da União, dos Estados, do Distrito Federal e dos Municípios, passou a ser da Justiça do Trabalho.
+6. O STF, ao analisar a questão nos autos da ADI 3.395/DF, em 5.4.2006, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da CF, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+7. In casu, cuida-se de Reclamatória Trabalhista na qual a parte autora visa a condenação do ente público ao pagamento de verbas trabalhistas decorrentes do exercício de cargo em comissão.
+8. Como é cediço, a Constituição Federal, no seu art. 37, inciso II, prevê a investidura de Servidores nomeados para cargos em comissão, estabelecendo nítida relação de natureza estatutária entre o Poder Público e tais agentes.
+9. Des"tarte, o Servidor que exerce função comissionada, ocupando cargo de livre nomeação e exoneração, mantém vínculo com a Administração Pública de natureza estatutária, o que atrai a incidência da Súmula 218 do STJ, segundo a qual compete à Justiça dos Estados processar e julgar ação de Servidor Estadual decorrente de direitos e vantagens estatutárias no exercício de cargo em comissão.
+10. A propósito, os seguintes julgados: CC 79.459/RJ, Rel. Min. CARLOS FERNANDO MATHIAS, DJU 8.10.2007; CC 58.617/GO, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJU 31.10.2006; CC 72.146/SP, Rel. Min. JANE SILVA, DJU 22.4.2008 e CC 94.772/RJ, Rel. Min. FELIX FISCHER, DJU 16.4.2008.
+11. Em face do exposto, conheço do presente Conflito de Competência para declarar a competência do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+12. Publique-se. Intimações necessárias.
