@@ -1,0 +1,22 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO EXECUTIVA. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA AFASTADA PELA CORTE DE ORIGEM. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. AGRAVO DA FAZENDA DO ESTADO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO, com fundamento na alínea a do art. 105, III da Constituição Federal, que objetiva a reforma do acórdão proferido pelo egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+MANDADO DE SEGURANÇA COLETIVO - Execução de sentença - Decreto de extinção em primeiro grau pelo reconhecimento da prescrição - Inocorrência - Determinação de suspensão das habilitações pelo Juízo da 7a Vara da Fazenda Pública que suspendeu o prazo da prescrição até a resposta à consulta efetuada à Presidência do Tribunal de Justiça sobre o processamento das habilitações - Recurso provido (fls. 177).
+2. Nas razões de seu Apelo Nobre inadmitido, a parte recorrente alega violação do art. 1o. do Decreto 20.910/1932, ao argumento de que se mostra inafastável o reconhecimento da prescrição intercorrente.
+3. É o relatório. Decido.
+4. O Tribunal de origem concluiu que em 9.6.2008, o Juízo da 7a. Vara da Fazenda Pública determinou a suspensão das habilitações individuais, até que a Presidência do Tribunal de Justiça do Estado de São Paulo se manifestasse sobre o prosseguimento do feito, o que só ocorreu em 26.4.2010. Dessa forma, assentou-se que, durante esse período de suspensão, o prazo prescricional não correu, concluindo pela não ocorrência da prescrição da pretensão executória, conforme se pode observar do seguinte trecho do julgado:
+Não ocorreu a prescrição decretada na decisão monocrática. Este Relator, adotando a argumentação expendida pelos apelantes afasta a ocorrência de prescrição. Havendo determinação judicial de suspensão das habilitações individuais pelo Juizo da 7 a Vara da Fazenda Pública em 9/6/2008, até que a Presidência do Tribunal de Justiça se manifestasse sobre o prosseguimento, o que somente ocorreu em 26/04/2010, com a determinação do prosseguimento das habilitações individuais. Ficou, pois, suspenso o prazo prescricional nos termos dos arts. 265 e 266 do Código de Processo Civil. E, o decreto de extinção da execução de obrigação de fazer somente ocorreu em 2011 (fls. 180).
+5. Contudo, esse fundamento autônomo e suficiente à manutenção do aresto recorrido não foi impugnado nas razões do Recurso Especial, permanecendo, portanto, incólume. Dessa forma, aplicável à espécie, por analogia, a Súmula 283 do STF. A propósito:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. CORREÇÃO MONETÁRIA. TERMO INICIAL. PERDAS E DANOS. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTOS BASILARES DO ACÓRDÃO RECORRIDO INATACADOS. SÚMULA 283/STF. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. FALTA DE SIMILITUDE.
+(..).
+2. O recurso especial não impugnou os fundamentos basilares que amparam o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF.
+(..).
+5. Agravo regimental a que se nega provimento (AgRg no REsp. 968.261/SP, Rel. Min. SÉRGIO KUKINA, DJe 23.2.2016).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO POR INTERESSE SOCIAL. REFORMA AGRÁRIA. ALEGAÇÃO DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE DISCUSSÃO, NA VIA ESPECIAL. REQUISITOS QUE AUTORIZAM A DESAPROPRIAÇÃO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. FATO IMPEDITIVO DO APROVEITAMENTO DO IMÓVEL. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DOS FUNDAMENTOS DO ACÓRDÃO COMBATIDO, SUFICIENTES PARA SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO REGIMENTAL IMPROVIDO.
+(..).
+III. Não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência do enunciado da Súmula 283 do STF ("é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+IV. Agravo Regimental improvido (AgRg no AREsp. 610.622/ES, Rel. Min. ASSUSETE MAGALHÃES, DJe 29.2.2016).
+6. Com essas considerações, nega-se provimento ao Agravo em Recurso Especial da FAZENDA DO ESTADO DE SÃO PAULO.
+7. Publique-se.
+8. Intimações necessárias.
