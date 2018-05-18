@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo de decisão que inadmitiu recurso especial fundamentado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça Estadual, com a seguinte ementa (fls. 63/64).
+Agravo de Instrumento. Exceção de pré-executividade em sede de cumprimento de sentença de ação de cobrança de cotas condominiais. Arguição de nulidade da citação, prescrição intercorrente e indevida execução das parcelas vencidas após o trânsito em julgado. Da análise dos autos originários, constata-se que a Ré foi regularmente citada e não se fez presente na audiência de conciliação para a qual foi intimada. Pretensão de nulidade da citação que não pode ser acolhida.
+Exequente que durante todo o trâmite processual sempre perseguiu seu crédito diligentemente, não se mantendo inerte pelo prazo prescricional de cinco anos. Prescrição intercorrente não configurada, mas que resta prejudicada pelo acolhimento do excesso de execução. Segundo o entendimento consagrado no STJ, não é possível a execução de cotas condominiais vencidas no curso do processo se não constar do título judicial condenação expressa ao pagamento dessas verbas. Sentença que condenou o Agravante "no pagamento das cotas condominiais vencidas desde maio de 1998 até a presente data", isto é, até 29 de agosto de 2001, data em que foi prolatada. Questões relativas aos limites do débito exequendo não admitem novas discussões, sob pena de ofensa à coisa julgada e ao disposto no art. 474 do Código de Processo Civil/73. Provimento parcial do recurso para que os débitos posteriores a 29/08/2001 sejam decotados do montante exequendo.
+Nas razões do recurso especial, a parte recorrente alega dissídio jurisprudencial e ofensa aos arts. 209 do CPC/1973 e 323 do NCPC, sob a alegação, em síntese, de que as prestações vincendas podem ser incluídas na condenação, se não pagas, enquanto durar a obrigação, em respeito aos princípios da efetividade e economia processual e para evitar o ajuizamento de novas execuções.
+É o relatório. Decido.
+Quanto ao cabimento de inclusão das parcelas vincendas na presente execução e ofensa aos dispositivos apontados o col. Tribunal a quo, mediante análise soberana do contexto fático-probatório dos autos, entendeu que não poderiam ser cobradas por não estar expresso na coisa julgada. Eis o teor do acórdão recorrido no que for pertinente:
+Com efeito, da análise dos autos, verifica-se que a parte exequente durante todo o trâmite processual sempre perseguiu seu crédito diligentemente, não se mantendo inerte pelo prazo prescricional de cinco anos.
+(..)
+No entanto, com relação ao alegado excesso de execução pela cobrança das parcelas vencidas após a sentença pelo fato desta determinar como termo final da cobrança a data em que foi prolatada, assiste razão ao Agravante.
+Segundo o entendimento consagrado no STJ, não é possível a execução de cotas condominiais vencidas no curso do processo se não constar do título judicial condenação expressa ao pagamento dessas verbas, porquanto, embora se aplique às cotas condominiais o artigo 290 do CPC, que prevê a possibilidade de se incluírem na condenação as prestações periódicas vincendas, é indispensável que a sentença expressamente as inclua, sem o que haverá excesso na execução.
+De fato, a sentença condenou o Agravante "no pagamento das cotas condominiais vencidas desde maio de 1998 até a presente data", isto é, até 29 de agosto de 2001, data em que foi prolatada.
+(..)
+Assim, devem ser computadas as cotas condominiais conforme estabelecido na sentença, ou seja, até a data de sua prolação em 29 de agosto de 2001, de modo que o débito que está sendo executado após esta data deve ser decotado.
+Nesse contexto, verifica-se que o acórdão recorrido está alinhado a jurisprudência do STJ que tem entendimento no sentido de que "embora se admita a inclusão das prestações vincendas na condenação em decorrência da interpretação do art. 290 do CPC/1973, tal medida não pode ser adotada quando se trata de execução de valor definido no título executivo, sob pena de violação da coisa julgada." (AgInt no REsp 1323305/AM, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/06/2017, DJe 03/08/2017).
+No mesmo sentido:
+PROCESSUAL CIVIL. PARCELAS VINCENDAS. INCLUSÃO NA EXECUÇÃO. LIMITES DA COISA JULGADA. DEVER DE OBSERVÂNCIA.
+1. As prestações vincendas podem ser incluídas na condenação, se não pagas, enquanto durar a obrigação. Exegese do art. 290 do CPC.
+2. Todavia, no caso dos autos, o decisum exequendo estipulou os valores a serem pagos ao credor, o que inviabiliza a inclusão de outras parcelas, sob pena de violação da coisa julgada.
+Agravo regimental improvido.
+(AgRg no REsp 1294707/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 25/09/2012, DJe 02/10/2012)
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO-OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. VERBAS NÃO INCLUÍDAS NO TÍTULO EXECUTIVO JUDICIAL. TRÂNSITO EM JULGADO. EXECUÇÃO. IMPOSSIBILIDADE.
+1. Tendo sido examinadas no acórdão impugnado, ainda que implicitamente, todas as questões suscitadas, impõe-se a rejeição dos embargos de declaração opostos com o propósito de prequestionamento.
+2. Não se pode executar valores referentes a honorários advocatícios sobre prestações vincendas se o título executivo judicial não os determinou, porquanto trata-se de matéria ao abrigo da coisa julgada.
+3. Recurso especial não-conhecido.
+(REsp 956.714/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 04/08/2009, DJe 19/04/2010)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
