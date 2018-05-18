@@ -1,0 +1,23 @@
+EMENTA
+HABEAS CORPUS. INCIDÊNCIA DA SÚMULA 691/STF. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE NULIDADE NA AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. INVIABILIDADE DE SUPRESSÃO DE INSTÂNCIA. INSTRUÇÃO DEFICIENTE.
+Petição inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de [NOME], no qual se aponta constrangimento ilegal decorrente do indeferimento do pedido liminar feito no HC n. 2093408-84.2018.8.26.0000, em trâmite no Tribunal de Justiça de São Paulo e da consequente não anulação do Processo n. 0001192-63.2017.8.26.0586, da 1ª Vara Criminal da comarca de São Roque/SP, a partir da audiência, debates e julgamento.
+Requer-se também aqui
+a concessão da medida liminar para ANULAR A AÇÃO PENAL A PARTIR DA AUDIÊNCIA DE INSTRUÇÃO, DEBATES E JULGAMENTO, a fim de que sejam colhidos os depoimentos/interrogatórios por meio do sistema audiovisual de gravação (como é de praxe do juízo coator e que possui todo aparato tecnológico), revogando-se a prisão do paciente (preso desde 25.04.2017), com ou sem a imposição das medida cautelares diversas da prisão, devendo ser expedido em seu favor com expedição de ALVARÁ DE SOLTURA CLAUSULADO  ..
+É o relatório.
+No caso, não me deparo nem com teratologia nem com evidência de constrangimento ilegal apto a justificar a superação do óbice da Súmula 691/STF. A propósito, eis o inteiro teor da decisão aqui atacada (fls. 12/14):
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], alegando, em síntese, que o paciente está sofrendo constrangimento ilegal por ato do MM. Juiz de Direito da 1ª Vara Criminal da Comarca de São Roque.
+Sustenta o impetrante que o paciente, em 25 de abril do de 2017, o paciente compareceu espontaneamente perante a autoridade policial, foi interrogado, negou a autoria dos delitos conforme, mesmo assim fora preso, em 25 de abril de 2017. Aduz que este foi denunciado pelo crime previsto no art. 121, § 2º, inciso III, do Código Penal e teve a prisão preventiva decretada.
+O objeto do presente writ remonta o fato de a audiência de instrução, debates e julgamento foi realizada em desacordo com o preconizado no artigo 405, § 1º, do Código de Processo Penal (CPP), pois os depoimentos das testemunhas e os interrogatórios dos acusados não foram registrados pelo sistema audiovisual, mas sim pelo método antigo de digitação.
+Aduz que aspectos fundamentais dos depoimentos são melhor perceptíveis a partir da gravação audiovisual, e que da forma como realizado no feito, o paciente pode ser prejudicado quando da ponderação dos fatos pelos jurados. Acrescenta que o método utilizado pelo Juízo a quo, de "ditado" contém também a desvantagem de não consignar integralmente as respostas dos depoentes, mas apenas sínteses.
+Com tais fundamentos, requer, liminarmente, a concessão da ordem para anular a ação penal a partir da audiência de instrução, debates e julgamento, a fim de que sejam colhidos os depoimentos/interrogatórios por meio do sistema audiovisual de gravação, bem como revogar a prisão do paciente, aplicando-se-lhe ou não medidas cautelares diversas da prisão, com a expedição de alvará de soltura clausulado (fls. 01/09).
+Indefiro a liminar.
+Em que pesem os argumentos trazidos pela Defesa, não se vislumbra, por ora, o fumus boni iuris e o periculum in mora necessários para a concessão da liminar.
+A medida liminar em habeas corpus somente é cabível quando o constrangimento ilegal for manifesto, detectado de imediato, através do exame sumário da inicial e dos documentos que a instruem.
+Em outras palavras, a concessão de liminar é medida excepcional, sendo que no presente caso não se divisa ilegalidade manifesta a ponto de ensejar a antecipação do mérito do writ.
+Anoto, porém, que, prima facie, não se vislumbra prejuízo em relação á tramitação processual saudável, em que pese a ausência da utilização de equipamentos de tecnologia aptos a gravar as audiências. Frise-se que tal procedimento é considerado ainda recente e que antes desta forma o corriqueiro ocorria como operado no caso em comento. Não há, pois, ao menos nesta fase de análise perfunctória do reclamo, qualquer irregularidade capaz de gerar nulidade processual.
+De qualquer modo, processe-se e oficie-se solicitando informações, que deverão ser complementadas, oportunamente, em havendo ocorrência importante na tramitação processual, a teor do art. 495 e seu parágrafo único, das Normas de Serviço da Corregedoria Geral da Justiça.
+De mais a mais, a análise da apontada coação ilegal ocorrida em primeira instância exigiria o exame mais detalhado de elementos que nem sequer instruem estes autos.
+Pelo exposto, indefiro liminarmente o writ (art. 210 do RISTJ).
+Publique-se.
