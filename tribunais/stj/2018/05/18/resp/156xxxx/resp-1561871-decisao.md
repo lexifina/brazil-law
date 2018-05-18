@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial manejado por FABRIZIO TRINDADE DE QUEIROZ com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 190):
+PROCESSUAL CIVIL. EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO POSTERIOR. NÃO OCORRÊNCIA DE PRECLUSÃO. PRECEDENTES DO STJ.
+1. Agravo de Instrumento manejado em face da decisão que arbitrou os honorários advocatícios de sucumbência em 10% sobre o valor homologado na execução.
+2. A condenação nas verbas de sucumbência decorre do fato objetivo derrota no processo, cabendo ao juiz condenar, de ofício, a parte vencida, independente de provocação da outra parte.
+3. A jurisprudência do eg. STJ entende que inexiste preclusão no pedido de arbitramento de verba honorária, no curso da Execução, mesmo que a referida verba não tenha sido pleiteada no início do processo executivo e já haja ocorrido o pagamento.
+Agravo de Instrumento provimento em parte, para fixar os honorários advocatícios no valor de R$5.000,00 (cinco mil reais).
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73.
+A parte recorrente aponta violação aos arts. 20, 458, II, 535, I e II e 128 do CPC/73. Sustenta, em síntese, a negativa de prestação jurisdicional e a impossibilidade de redução da verba honorária anteriormente fixada, pela ausência de pedido da parte nesse sentido, o que caracterizaria o julgamento extra petita e a necessidade de restabelecimento do valor previamente estabelecido.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A pretensão recursal merece acolhida pelo art. 535 do CPC/73, pois a parte recorrente, nas razões dos embargos de declaração e do recurso especial, alega que não houve emissão de juízo de valor acerca da tese do apelo nobre que sustenta a ocorrência de julgamento extra petita e violação do art. 128 do CPC/73.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, limitando-se a manter os fundamentos da sentença de primeiro grau e rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 535 do CPC/73, porquanto não prestada a jurisdição de forma integral.
+Ante o exposto, dou parcial provimento ao recurso especial, para anular o aresto proferido em embargos de declaração. Retornem os autos à Corte de origem, para que esta possa, por meio de seu órgão colegiado, proferir novo acórdão, sanando a omissão apontada nesta decisão.
+Publique-se.
