@@ -1,0 +1,19 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão assim ementado:
+    “RECURSO INOMINADO. DIREITO DE INCIDÊNCIA DE VANTAGENS PESSOAIS PERMANENTES A PARTIR DA SOMA DO VENCIMENTO BASE E AJUSTE DE REMUNERAÇÃO - AR. EFEITO CASCATA. PREQUESTIONAMENTO.
+    I - A partir da entrada em vigor da Lei 17.030/2010, combinadas com a Lei 16.921/2010 (que institui o Plano de Cargos e Remuneração – PCR do Grupo Ocupacional Gestor Governamental) e Lei 18.472/2014, que introduz alterações na Lei 16.921/2010, conclui-se que a vantagem denominada de Ajuste de Remuneração dos servidores públicos estaduais, do quadro da Secretaria da Fazenda, passou a ser verba definitivamente integrada ao vencimento do servidor, compondo, portanto, a sua remuneração.
+    2 – A natureza de parcela vencimental também é percebida pelo fato de a mesma se alvo de tributação previdenciária e de ser atualizada pelo mesmo índice e na mesma data em que ocorrer reajuste ou revisão geral aplicado ao vencimento base dos servidores.
+    3 – O Ajuste de Remuneração e a VPNI são vantagens de mesma natureza e foram concedidas em substituição à recomposição de perdas em face do processo inflacionário não completamente amortizado pelos reajustes anuais.
+    4 – Ao permitir a absorção da VPNI pelo regime de subsídios, aos servidores da carreira de Gestor Governamental, por meio das Leis 16.921/2010 e 18.472/2014, é possível compreender que a VPNI e de consequência, a AR, de mesma natureza, passaram a ter natureza inequívoca de vantagem permanente, de caráter vencimental.
+    5 – O Ajuste de Remuneração – AR na condição de verba permanente, que se incorpora definitivamente à remuneração do servidor, deve ser utilizada como base de cálculo para a apuração do valor devido a título de gratificação por tempo de serviço.
+    6 – Reconhecido que o AR se constitui em vantagem permanente, não há que se falar em contrariedade ao preceito constitucional do art. 37, inciso XIV, pois, uma vez afastada a natureza de gratificação, não ocorreria o efeito ‘repicão’ – de incidência de gratificação sobre gratificação.
+    7 – Prequestionamento. Não se vislumbra ofensa aos dispositivos legais e constitucionais prequestionados.
+    RECURSO CONHECIDO E DESPROVIDO. Sem custas. Recorrente condenado ao pagamento de honorários advocatícios em favor da recorrida em 20% do valor da causa” (pág. 86 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação ao art. 37, XIV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque para dissentir do acórdão recorrido, relativamente à natureza permanente da verba denominada “Ajuste de Remuneração”, bem como quanto sua incidência na base de cálculo da gratificação por tempo de serviço, seria necessário o reexame das normas locais pertinentes ao caso (Leis estaduais 16.921/2010 e 18.472/2014), o que é vedado pela Súmula 280 do STF. Inviável, portanto, o recurso extraordinário. Em sentido semelhante:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. VANTAGEM PESSOAL. BASE DE CÁLCULO. GRATIFICAÇÃO POR TEMPO DE SERVIÇO. LEI ESTADUAL 10.470/1991. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMA INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I - É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional local que fundamenta a decisão a quo. Incidência da Súmula 280 desta Corte. Precedentes. II - Agravo regimental improvido” (ARE 677.144-AgR/MG, de minha relatoria, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 19 de maio de 2018.
+Ministro Ricardo Lewandowski
+Relator
