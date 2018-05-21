@@ -1,0 +1,17 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. QUESTÃO DE ORDEM PÚBLICA. LAPSO PRESCRICIONAL QUE TRANSCORREU DESDE A PUBLICAÇÃO DA SENTENÇA CONDENATÓRIA. Extinção da punibilidade do embargante declarada. Embargos de declaração prejudicados às fls. 3.835/3.841.
+DECISÃO
+Os presentes autos tramitavam na Presidência desta Corte, na qual foram proferidas diversas decisões relativas à admissibilidade de recurso extraordinário, tendo retornado à Coordenadoria da Sexta Turma diante da constatação de que ainda havia recursos de competência da Sexta Turma pendentes de análise.
+Sucede que, da leitura dos autos, verifiquei a possibilidade do implemento do lapso prescricional, considerando a pena em concreto e o lapso temporal transcorrido desde a sentença condenatória, razão pela qual intimei as partes a fim de que se manifestassem sobre o tema.
+As defesas do ora embargante [NOME] e do corréu [NOME] aduziram que a prescrição da pretensão punitiva está configurada, pois a pena final imposta, deduzido o aumento referente à continuidade delitiva, ficou no patamar de 4 anos ([NOME]) e 3 anos ([NOME]), sendo o lapso prescricional de 8 anos, prazo esse que efetivamente transcorreu desde a publicação da sentença condenatória em 28/5/2008 (fls. 3.857/3.860).
+O Ministério Público de São Paulo, na condição de parte recorrida, na esteira do parecer do Ministério Público Federal, rechaçou a prescrição, aduzindo que o acórdão confirmatório da condenação constitui marco interruptivo da prescrição e que a inadmissibilidade dos recursos extraordinário e especial implica a retroatividade do trânsito em julgado para fins de prescrição (fls. 3.867/3.870).
+É o relatório.
+Deixo de analisar a prescrição da pretensão punitiva com relação ao corréu [NOME], considerando que o agravo por ele interposto, ainda pendente de análise (AgRg em ARE), é da competência de outro órgão julgador (Corte Especial).
+Quanto ao embargante [NOME], a prescrição da pretensão punitiva é evidente.
+Excluído o aumento referente à continuidade delitiva, a pena de [NOME] foi fixada em 4 anos de reclusão.
+Com efeito, a prescrição ocorreria em 8 anos, lapso esse que efetivamente transcorreu desde a publicação da sentença condenatória (28/5/2008 - fl. 3.191).
+Destaco, ainda, que, nos termos da orientação jurisprudencial sedimentada nesta Corte, o acórdão que apenas confirma a condenação não constitui marco interruptivo da prescrição (AgRg no HC n. 394.467/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/2/2018).
+Também não é o caso de incidir o entendimento firmado no julgamento do EAREsp n. 386.266/SP, no sentido de retroagir o trânsito em julgado para fins de prescrição, pois, do que se infere da decisão monocrática às fls. 3.615/3.632, o recurso especial de [NOME] foi conhecido, ainda que em parte, o que afasta a aplicabilidade do referido entendimento à espécie.
+Assim, declaro extinta a punibilidade de [NOME] (Ação Penal n. 317/2001, da Vara Única da comarca de Rosana/SP), em razão da prescrição da pretensão punitiva estatal nos termos do art. 109, IV, c/c o art. 110, § 1º, do Código Penal, e, em consequência, julgo prejudicados os embargos de declaração às fls. 3.835/3.841.
+Publicada a decisão, determino o retorno dos autos à Vice-Presidência, ante a existência de recurso do corréu [NOME] pendente de análise (AgRg no ARE - fls. 3.803/3.807).
+Publique-se.
