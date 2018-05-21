@@ -1,0 +1,58 @@
+DECISÃO
+O presente feito decorre de agravo de instrumento interposto pelo Município de São Paulo contra decisão judicial que, nos autos de execução fiscal que move em desfavor de TIM Celular S.A., esclareceu algumas questões acerca do seguro garantia, discorrendo sobre os requisitos necessários a garantir ao instituto maior liquidez, sem decisão definitiva sobre o deferimento ou indeferimento do pedido de substituição.
+No Tribunal de Justiça do Estado de São Paulo, não se conheceu do agravo de instrumento em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - Execução Fiscal - Pedido de substituição de Carta de Fiança Bancária para Seguro Garantia - Insurgência contra decisão que apenas esclareceu as condições legais para o oferecimento do seguro - Inexistência de decisão que deferiu ou indeferiu o pedido - Ato de mero expediente - Despacho que não possui cunho decisório - O cabimento de agravo de instrumento somente é possível em face de decisões interlocutórias - Precedentes do STJ e deste Eg. Tribunal de Justiça - Recurso não conhecido.
+O Município de São Paulo interpôs recurso especial com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, por ofensa aos arts. 489, § 1º, IV, 1.022, II, 330, III, e 797 do CPC/2015; aos arts. 9º, 15 e 16, § 1º, da Lei n. 6.830/80; e ao art. 151 do Código Tributário Nacional.
+A parte alega que o Tribunal de origem foi omisso quanto ao interesse recursal, visto que a decisão objeto do agravo de instrumento equiparou o seguro garantia à carta fiança, fixando condições suficientes para sua aceitação; bem como em relação as suas alegações de que a manutenção da decisão agravada viola o art. 797 do CPC/2015 e os arts. 9º, 15 e 16, § 1º, da Lei n. 6.830/80, na medida em que autoriza a substituição de garantia de maior liquidez por outra de menor liquidez, sem sua anuência.
+Não foram apresentadas contrarrazões ao recurso especial.
+O Tribunal de origem proferiu decisão negando seguimento ao recurso especial, o que ensejou a interposição de agravo nos próprios autos.
+É o relatório. Decido.
+Conheço do agravo em recurso especial, passo a analisar o recurso especial.
+Em relação à indicada violação dos arts. 489, § 1º, IV, 1.022, II, do CPC/15, não se vislumbra a alegada omissão, visto que o Tribunal de origem se manifestou de modo fundamentado sobre as questões apresentadas pela parte recorrente, concluindo que a decisão judicial objeto do agravo de instrumento não possui cunho decisório e não causou nenhum prejuízo à parte. Esclareceu-se, ainda, que, após a manifestação das partes, caberá decisão de deferimento ou indeferimento da substituição da penhora, decisão essa passível de recurso, conforme excerto do voto regional (fls. 340-342):
+Verifica-se pela documentação trazida neste agravo de instrumento que a executada ofereceu, incialmente, uma Carta de Fiança Bancária para garantia do débito exequendo e que, posteriormente, requereu a substituição por Seguro Garantia.
+Não consta dos autos qualquer deferimento ou indeferimento do pedido de substituição pleiteado pela executada, uma vez que na decisão copiada às fls. 199/200, o MM. Juiz apenas elenca algumas condições para o oferecimento do Seguro Garantia, esclarecendo quais os requisitos aptos a conferir liquidez à modalidade.
+ ..
+Ademais, consigna-se que se trata de despacho sem qualquer cunho decisório, uma vez que não há nos autos qualquer pronunciamento definitivo sobre o tema, mas tão somente esclarecimento quanto às condições de liquidez do Seguro Garantia.
+ ..
+Portanto, a decisão agravada não causou prejuízo algum à agravante, porquanto trata-se de despacho de mero expediente, na medida em que só esclareceu questões acerca do instituto do Seguro Garantia e sua liquidez.
+Após as manifestações das partes, caberá decisão de deferimento ou indeferimento do pedido de substituição, esta sim, hábil a comportar o recurso cabível.
+Destarte, não há como conhecer da matéria nesta sede recursal, sem antes existir apreciação no juízo de origem, acarretando supressão de instância, o que é vedado em nosso ordenamento jurídico.
+Assim, inexistindo cunho decisório no despacho, incabível o manejo do agravo de instrumento.
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, se tem de rigor o afastamento da suposta violação do art. 1022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. BENEFÍCIO DE GRATUITA DA JUSTIÇA. DECLARAÇÃO DE POBREZA. COMPROVAÇÃO DE CAPACIDADE DE ARCAR COM AS CUSTAS DO PROCESSO. MULTA. LITIGÂNCIA DE MÁ-FÉ. ART. 4º, §1º, DA LEI 1.060/50. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgInt no REsp 1625513/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02/02/2017, DJe 08/02/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão da decisão recorrida.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Configura erro grosseiro a interposição de agravo regimental em face de decisão colegiada, de modo que não é cabível a aplicação do princípio da fungibilidade recursal para conhecer do recurso como embargos de declaração.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AgRg no REsp 958.813/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 02/02/2017, DJe 13/02/2017)
+
+Quanto à matéria constante nos arts. 330, III, e 797 do CPC/2015, nos arts. 9º, 15 e 16, § 1º, da Lei n. 6.830/80, e ao art. 151 do Código Tributário Nacional, verifica-se que o Tribunal a quo, em nenhum momento abordou as questões referidas nos dispositivos legais, mesmo após a oposição de embargos de declaração apontando a suposta omissão. Nesse contexto, incide na hipótese a Súmula n. 211/STJ, que dispõe ser "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Cumpre esclarecer que o art. 1.025 do CPC/2015 prevê que esta Corte considere prequestionada determinada matéria somente caso alegada e reconhecida a violação ao art. 1.022 daquele Código de ritos, o que não ocorreu no caso dos autos.
+Sobre o assunto, destacam-se os seguintes precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA NA ALEGAÇÃO DE CONTRARIEDADE AO ART. 1.022 DO CPC/2015. INCIDÊNCIA DA SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS. ANÁLISE DE RESISTÊNCIA DA EMBARGANTE AO PEDIDO DO EXEQUENTE. NECESSIDADE DE EXAME DO CONTEXTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. ART. 19, § 1º, DA LEI N. 10.522/2002. AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF.
+ ..
+3. O art. 19, § 1º, da Lei n. 10.522/2002 e a tese a ele correspondente não foram objeto de análise pelo Tribunal de origem, configurando verdadeira ausência de prequestionamento. Esclarece-se, por oportuno, que o art. 1.025 do CPC/2015 prevê que esta Corte considere prequestionada determinada matéria somente caso alegada e reconhecida a violação ao art. 1.022 daquele Código de ritos. Precedentes: AgInt no REsp 1.682.293/PB, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 10/11/2017; AgInt no AREsp 1.104.078/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 13/10/2017.
+4. Na hipótese, como a alegação de contrariedade ao art. 1.022, II, do CPC/2015 se apresentou deficiente, tem-se que descabe qualquer tentativa no sentido de se exigir a aplicação do art. 1.025 do CPC/2015 para fins de considerar prequestionado o art. 19, § 1º, da Lei n. 10.522/2002.
+5. O acórdão de origem também se encontra sedimentado no fundamento de que a pretensão fazendária se transmuda em "pedido de desistência quanto à alegação de excesso de execução sobre a quantia principal", e que, por essa razão, "caso homologada tal desistência, nos termos do art. 90, § 1º, do Código de Processo Civil (Lei n. 13.105), a União também arcaria com os honorários advocatícios". Verifica-se, no entanto, que a insurgência deixou incólume esse fundamento suficiente para manter o acórdão recorrido, atraindo a aplicação do óbice da Súmula 283/STF.
+6. Recurso especial não conhecido.
+(REsp 1639755/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/03/2018, DJe 13/03/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DE REINTEGRAÇÃO DE POSSE. ART. 1.021, § 3º, DO CPC/2015. INEXISTÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. APELAÇÃO INTEMPESTIVA. PRAZO SUSPENSO EM DIA QUE RECAIU NO CURSO DO LAPSO RECURSAL. AUSÊNCIA DE PRORROGAÇÃO. AGRAVO IMPROVIDO.
+1. Não tendo sido enfrentadas a questão ou a tese relacionada ao artigo apontado como violado pelo acórdão recorrido, fica obstado o conhecimento do recurso especial pela ausência de prequestionamento, incidindo os óbices das Súmulas n. 282 e 356 do STF.
+2. De fato, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe 10/4/2017).
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1171590/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/03/2018, DJe 13/03/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO FICTO. AUSÊNCIA. PLANO DE REPACTUAÇÃO. ADESÃO. AUSÊNCIA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. À luz do que expressamente dispõe o art. 1.025 do CPC/2015, só há falar em prequestionamento ficto quando a não apreciação pela Corte local da matéria federal ali suscitada em embargos de declaração for reconhecida, por esta Corte Superior, como verdadeira e indevida recusa daquele tribunal de sanar existente erro, omissão, contradição ou obscuridade constante do acórdão embargado.
+3. Na hipótese, rever a conclusão do acórdão atacado, que concluiu pela ausência de adesão à repactuação do plano de benefícios, encontra óbice nos rigores contidos na Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1168630/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/03/2018, DJe 13/03/2018)
+Ante o exposto, nos termos do art. 253, parágrafo único, inciso II, alínea a e b, do RI/STJ, conheço do agravo em recurso especial para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
