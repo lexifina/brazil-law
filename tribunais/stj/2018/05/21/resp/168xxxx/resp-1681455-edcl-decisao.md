@@ -1,0 +1,17 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. INEXISTÊNCIA. QUESTÕES CUJA APRECIAÇÃO FOI REMETIDA À FASE DE LIQUIDAÇÃO DE SENTENÇA. EMBARGOS REJEITADOS.
+DECISÃO
+Vistos etc.
+Trata-se de embargos de declaração opostos por [NOME] contra decisão monocrática de minha lavra assim ementada:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. DANOS PRESUMIDOS. ENTENDIMENTO DO TRIBUNAL DE ORIGEM EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL PROVIDO.
+Nas razões deste recurso, a embargante afirma que a decisão conteria omissão que "irá prejudicar a fase de cumprimento de sentença, matéria que haverá de ser abordada por esse Egrégio Superior Tribunal, sob pena de preclusão". Explica que o acórdão não teria fixado o termo da mora "e o quantum indenizatório que pretendem os presentes embargos de declaração aclarar, para que estas questões não sejam um impasse, quando do cumprimento de sentença e face do que já verificou o embargante em outros processos análogos da MRV, que patrocinou, onde a construtora, que paga apenas aquilo que mais lhe convém". Afirma que os embargos foram opostos para "esclarecer os valores e os limites da condenação a ser cumprida em fase de cumprimento de sentença, mesmo que em liquidação, devendo constar no "decisum" que os lucros cessantes, na forma de aluguéis mensais, serão de 1% do valor do imóvel constante no contrato de fls. 16/18, corrigidos da data da assinatura do contrato até o efetivo pagamento, bem como devem compreender o período a contar da data em que foi prometida a entrega contratualmente, ou seja, de janeiro de 2011, até a data da entrega com o efetivo HABITE-SE, que se deu em 15 de maio de 2014, tudo conforme o pedido expresso da inicial e os documentos nos autos, especialmente o contrato de fls. 16/18 e carta de habitação de fls. 188/189 e 195".
+É o relatório.
+Passo a decidir.
+Os presentes embargos devem ser rejeitados.
+Em que pese as ponderações apresentadas pela recorrente, o que se observa é que a análise das questões indicadas pela recorrente, a extensão da mora da recorrida e o valor dos lucros cessantes, foi postergada à fase de liquidação de sentença.
+Observe-se que a única questão efetivamente devolvida à apreciação deste Tribunal Superior foi se a recorrente faria jus a indenização por danos materiais, a qual foi apreciada. A extensão deste direito é questão distinta, que, destaque-se, sequer foi apreciada pelo Tribunal de origem por entender que a recorrente não teria direito a qualquer indenização pelo atraso na entrega do imóvel.
+Ademais, tal discussão certamente exige incursão nos elementos fático-probatórios dos autos, motivo pelo qual a análise da questão foi remetida à fase de liquidação de sentença, em que poderão ser adequadamente apreciadas.
+Observe-se que para que se pudesse dar a liquidez pretendida pela recorrente ao título formado com o julgamento de seu recurso especial, seria imprescindível que todas as premissas fáticas indicadas constassem no acórdão, tornando desnecessária a verificação de sua veracidade por esta Corte.
+Nada obstante, não é isto que se observa, sendo inequívoco que o acolhimento desta pretensão encontra óbice na Súmula 7/STJ, pois seria imprescindível a análise das provas carreadas aos autos para que se pudesse determinar tanto a mora da recorrida quanto a extensão do direito.
+Ante o exposto, REJEITO os embargos de declaração.
+Intimem-se.
