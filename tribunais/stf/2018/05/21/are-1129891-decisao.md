@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INTERPRETAÇÃO DE NORMAS LEGAIS — INVIABILIDADE — DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à condenação do réu pela prática dos crimes de lesão corporal, ameaça, falsa identidade e porte ilegal de arma de fogo de uso permitido, previstos, respectivamente, nos artigos 129, 17 e 307 do Código Penal e 16, parágrafo único, inciso IV, da Lei nº 10.826/03 . No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação do artigo 5°, incisos LIV e LV, da Constituição Federal. Argui a nulidade do acórdão recorrido por cerceamento de defesa. Diz ter o Colegiado de origem implicado inovação no processo, aludindo à inexistência de previsão na legislação de regência.
+    2. Simultaneamente com o extraordinário foi interposto recurso especial. O Superior Tribunal de Justiça dele conheceu e acolheu parcialmente os pedidos formulados, reconhecendo a prescrição da pretensão punitiva no tocante os delitos de lesão corporal, ameaça e falsa identidade. A decisão prolatada substituiu, consoante o disposto no artigo 512 do Código de Processo Civil de 1973, a formalizada pelo Tribunal de Justiça do Estado de São Paulo, a qual, assim, não mais subsiste, no particular.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão o seguinte trecho:
+    Não houve inversão tumultuária no processo em razão da manifestação do Ministério Público após a resposta da acusação, posto que tal manifestação é necessária para garantia do contraditório no Processo Penal, e tal providência encontra arrimo no art. 327, do Código de Processo Civil, que tem inteira aplicação no Código de Processo Penal.
+    Anote-se que o princípio da nulidade exige prejuízo que não pode ser abstrato, mas deve ser demonstrado no caso concreto, face ao princípio pas de nulittè sans grief, consagrado no artigo 563, do Código de Processo Penal.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par desse aspecto, O Tribunal, no recurso extraordinário com agravo nº 748.371/MT, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à suposta violação ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 21 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
