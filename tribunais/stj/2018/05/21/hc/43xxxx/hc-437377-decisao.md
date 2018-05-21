@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de BRUNO GOMES DOS SANTOS, contra acórdão do Tribunal de Justiça do Estado de São Paulo no julgamento do HC n. 2004684-07.2018.8.26.0000.
+Infere-se dos autos que o paciente foi preso em flagrante em 01/11/2017, por ter supostamente praticado o delito tipificado no art. 121, § 2º, I e IV, c/c o art. 14, II, do Código Penal (homicídio qualificado tentado). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou writ perante o Tribunal de origem, o qual denegou a ordem nos termos do aresto acostado às fls. 15/19, assim amentado:
+Habeas corpus - Tentativa de homicídio - Paciente reincidente, com maus antecedentes e foragido na época dos fatos - Necessidade da custódia para a garantia da ordem pública, da instrução criminal e da aplicação da lei penal - Decisão suficientemente fundamentada - Constrangimento ilegal - Inocorrência - Ordem denegada.
+No presente writ, alega ausência dos requisitos autorizadores do art. 312 do Código de Processo Penal de modo que a imposição da custódia cautelar não estaria suficientemente justificada e pautada exclusivamente na gravidade abstrata do delito. Ressalta as condições pessoais favoráveis do paciente.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva ou a aplicação de medidas cautelares do art. 319 do CPP.
+Indeferida a liminar (fls. 43/44) e informações prestadas (fls. 50/64 e 66/73), o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 75/81).
+É o relatório.
+Decido.
+Em consulta à página eletrônica do Tribunal de origem, constata-se a superveniência, em 9/5/2018, de sentença nos autos da Ação Penal n. 0000804-47.2016.8.26.0344. Todavia, não é possível aferir o teor do julgado.
+É cediço que esta Quinta Turma firmou posicionamento no sentido de que a manutenção da custódia cautelar por ocasião de sentença superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Nesse sentido: RHC 53.194/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.
+O entendimento revela-se substancialmente claro: a superveniência de sentença que mantém a prisão cautelar constitui título novo, que substitui - e supera - o decreto prisional impugnado mediante habeas corpus, exceto se o Magistrado sentenciante não adota fundamentos novos e diversos daqueles apresentados por ocasião da decretação da segregação preventiva.
+In casu, a manutenção da custódia cautelar afigura-se verossímil, pois pois inexiste notícia de expedição de alvará de soltura após a prolação da sentença.
+Todavia, não há como aferir se a segregação antecipada foi mantida sem a adoção de novos e diversos fundamentos para a cautela - requisito indispensável ao prosseguimento do recurso que busca revogá-la, diante da notícia da produção de novo título judicial que examinou a necessidade de manutenção da constrição.
+Tratando-se o habeas corpus de rito célere, no qual não se admite a dilação probatória e cuja devida instrução compete ao impetrante, a este incumbiria, diante da superveniência de fato novo, a diligência de acostar aos autos o novo título judicial produzido no feito principal, a fim de demonstrar que o aludido julgado não tem o condão de afastar, no caso concreto, a impugnabilidade da decisão combatida pelo presente reclamo.
+Constatado o silêncio do impetrante, afigura-se forçoso entender pela perda, quanto ao ponto, de objeto do presente recurso em habeas corpus, diante da prolação de novo título.
+Por adotar idêntico raciocínio, faço menção à recente decisão prolatada nos autos do RHC n. 63.337/MG, Rel. Ministro GURGEL DE FARIA, Quinta Turma, DJe 5.2.2016.
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
