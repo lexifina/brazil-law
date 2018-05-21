@@ -1,0 +1,44 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E EFICIENTE. SÚMULAS 284/STF E 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O agravante, embora aborde a incidência dos enunciados sumulares, deixa de infirmá-los de maneira específica e eficiente, não permitindo a exata compreensão da controvérsia. Incidência das Súmula 284/STF e 182/STJ.
+2. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face de decisão que não conheceu do recurso especial.
+Aduz a defesa que são inaplicáveis as súmulas suscitadas na decisão.
+No tocante à aplicação da Súmula 83/STJ, aduz que o entendimento firmado na decisão agravada vai de encontro com a mais atual e amplamente majoritária jurisprudência de outros Tribunais pátrios, conforme vislumbra-se dos julgados colacionados nas razões de Recurso Especial interposto (fl. 1395) e que os argumentos esposados pela Defesa em sede do Agravo sequer foram suscitados e combatidos (fl. 1395).
+Quanto à Súmula 283/STF, alega que o aresto do Tribunal de Justiça de Santa Catarina negou vigência à lei federal e todos os fundamentos em torno da flagrante violação foram devidamente perscrutados pela Defesa em sede de razões de Recurso Especial (fl. 1396).
+Pugna pela reconsideração da decisão agravada, ou pela apreciação do recurso pela Sexta Turma.
+O agravado apresentou impugnação ao recurso às fls. 1406/1409, ao passo que o Ministério Público Federal se manifestou às fls. 1405.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão agravada foi prolatada nos seguintes termos:
+Cumpre destacar que a interpretação uníssona da Corte é no sentido de que incabível o exame da alegação de inépcia da denúncia, pois descabe decidir acerca da viabilidade formal da persecutio se já existe acolhimento formal e material da acusação, tanto que prolatada sentença condenatória, mantida em grau de apelação (REsp 1340069/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/08/2017, DJe 28/08/2017). No mesmo sentido: AgRg no REsp 1575657/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 14/09/2017, DJe 20/09/2017; AgRg no AREsp 1123442/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/09/2017, DJe 20/09/2017; AgRg no REsp 1670062/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/06/2017, DJe 01/08/2017. Assim, inviável o conhecimento do recurso especial com base na Súm. 83/STJ.
+ ..
+Das razões recursais apresentadas, verifica-se que os fundamentos autônomos constantes do acórdão não foram individualmente atacados, se restringindo o pleito a ser justificado pela existência de procedimento especial previsto na Lei de Drogas, que imporia a necessidade do requerimento na ocasião do oferecimento da denúncia, concluindo pela existência de nulidade em razão da suposta intempestividade do requerimento ministerial, além de arguição de prejuízo à defesa e favorecimento à acusação. Assim, o recurso especial não comporta conhecimento em face da insuficiência da sua fundamentação nos termos da Súm. 283/STF.
+ ..
+A Corte local entendeu inexistente a nulidade, por força da preclusão para apresentação pela defesa de perito assistente ou quesitos acerca da perícia deferida em audiência, já que o defensor do recorrente estava presente nas ocasiões em que foi deferido o pleito ministerial, determinada a solicitação de apresentação do laudo, a juntada aos autos do laudo pericial, tendo se mantido inerte.
+Nas razões recursais, novamente se percebe deficiência na insurgência apresentada, à incidir a Súm. 283/STF, pois a pretensão recursal se baseou exclusivamente na alegação de ausência de intimação da defesa, deixando de se pronunciar acerca dos fundamentos constantes do acórdão recorrido para afastar a referida nulidade.
+A última nulidade apontada diz respeito à violação aos arts. 185, 186, 187, §2º, IV, 188, 189, CPP, por não ter sido a defesa intimada acerca do laudo pericial juntado aos autos o que impediu a instrução do réu na ocasião do seu interrogatório que foi fracionado em duas partes, aduzindo que a primeira parte do interrogatório deveria ser desprezada. O Tribunal local apresentou a seguinte fundamentação (fl. 1001/1002):
+ ..
+De início cumpre destacar que a pretensão recursal como apresentada, apesar da indicação dos dispositivos legais tidos por violados, não permite a aferição da existência da referida nulidade, ou mesmo de eventual prejuízo à defesa, o que atrai a Súm. 284/STF. Outrossim, percebe-se que novamente o recorrente (e-STJ Fl.1356) deixou de se insurgir contra todos os fundamentos constantes do acórdão, devendo incidir novamente a Súm. 283/STF.
+Vale lembrar que ao recorrente incumbe demonstrar o equívoco da decisão em face da qual se insurge, não bastando a impugnação genérica dos fundamentos da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada, nos termos do art. 932 do CPC, c/c art. 3º do CPP.
+Das razões recursais, observa-se que o agravante, muito embora aborde a incidência dos enunciados sumulares, apenas demonstra sua irresignação, deixando de infirmar de maneira específica e eficiente tais fundamentos, não permitindo a exata compreensão da controvérsia - o que atrai a incidência das Súmulas 284/STF e 182/STJ.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TEMA RELACIONADO À VIOLAÇÃO AO ART. 155 DO CPP. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AFRONTA AO ART. 19 DA LEI Nº 7.492/86. ABSOLVIÇÃO. CONTRARIEDADE AO ART. 302 DO CPP. ESTADO DE FLAGRÂNCIA. IMPRESCINDIBILIDADE DE EXAME DO ARCABOUÇO PROBATÓRIO. REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ. ALEGAÇÕES EM TORNO DA PENA DE MULTA E DE PRESTAÇÃO PECUNIÁRIA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. OFENSA AO ART. 59 DO CP. AUSÊNCIA DE RAZÕES JURÍDICAS DA VULNERAÇÃO. TEMAS QUE TRADUZEM FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO, E NESSA EXTENSÃO, NÃO PROVIDO.
+1. "A ausência de impugnação específica do fundamento autônomo adotado pela decisão que negou seguimento ao agravo em recurso especial atrai a incidência do óbice previsto na Súmula 182 do Superior Tribunal de Justiça". (PET no AREsp 392.046/SP, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 28/02/2014)
+ ..
+4. Incide a Súmula 284 do STF nos pontos em que a deficiência da fundamentação recursal inviabiliza a exata compreensão da controvérsia.
+5. Agravo regimental parcialmente conhecido, e nessa extensão, não provido. (AgRg no AREsp 1080108/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017)
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS JULGADO PREJUDICADO. SUPERVENIENTE SENTENÇA. NULIDADE DA NOMEAÇÃO DE ADVOGADO AD HOC E FUNDAMENTOS DA PRISÃO PREVENTIVA. TEMAS NÃO ANALISADOS NO ACÓRDÃO IMPUGNADO.
+1. Agravo regimental que deixa de impugnar especificamente os motivos do decisum. Insistência em cuidar de temas que não foram decididos pela Corte estadual, ao menos no julgado atacado.
+2. Porquanto não infirmados por razões eficientes, são mantidos os fundamentos da decisão agravada.
+3. Agravo regimental improvido. (AgRg nos EDcl no RHC 67409 / RN, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/10/2016, DJe 08/11/2016)
+AGRAVO REGIMENTAL. HABEAS CORPUS. EXTORSÃO. ASSOCIAÇÃO CRIMINOSA. AUSÊNCIA DO AGRAVANTE E SEU DEFENSOR NA AUDIÊNCIA DE INTERROGATÓRIO DA CORRÉ. NULIDADE. INEXISTÊNCIA DE INTIMAÇÃO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. EMPREGO DO WRIT. COISA JULGADA. REASCENDER TESES. AMOFINAÇÃO DA SEGURANÇA JURÍDICA. INVIABILIDADE. REVOLVIMENTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO DESPROVIDO.
+ ..
+4. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Enunciado n.º 182 da Súmula desta Corte).
+5. Agravo regimental desprovido. (AgRg no HC 376793 / SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+Ante o exposto, voto por não conhecer do agravo regimental.
