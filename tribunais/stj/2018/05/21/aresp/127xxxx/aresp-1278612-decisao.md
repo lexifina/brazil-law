@@ -1,0 +1,17 @@
+DECISÃO
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. NULIDADE DA CDA RECONHECIA PELO TRIBUNAL A QUO ANTE A INCONSISTÊNCIA DAS INFORMAÇÕES QUE LHE DERAM SUPORTE. MODIFICAÇÃO DO ACÓRDÃO QUE IMPLICARIA O REVOLVIMENTO DE PROVAS, EXPEDIENTE DEFESO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial, fundado na alínea a do art. 105, III da Constituição Federal/1988, no qual a FAZENDA DO ESTADO DE SÃO PAULO se insurge contra acórdão do TJSP, assim ementado:
+TRIBUTÁRIO. ICMS. Embargos à execução fiscal. Empresa que exerce atividades de restaurante e bar, com apresentação de shows. Atividade mista. Não há incidência de ICMS sobre as atividades de prestação de serviço de shows. Atividade descrita na ao competência tributária municipal. Perícia comprovou o pagamento de ISSQN. Não incidência de ICMS. Nulidade da CDA. Sentença de procedência mantida. Recursos improvidos (fls. 413).
+2. Nas razões do Recurso Especial inadmitido, a parte recorrente alega ofensa ao art. 3o. da Lei 6.830/1980. Sustenta que a presunção relativa de certeza e liquidez da CDA somente pode ser afastada por prova inequívoca, o que não ocorreu. Afirma, ainda, que a CDA foi constituída com a observância da legislação vigente.
+3. Contrarrazões às fls. 428/433, o recurso foi inadmitido na origem (fls. 435).
+4. É o relatório.
+5. A pretensão não merece acolhimento.
+6. O Tribunal de origem, após a análise do conjunto fático da causa e das alegações postas na Apelação, reconheceu a nulidade da CDA, aos seguintes fundamentos:
+Nestes autos, feita a prova pericial, onde o perito, após exame dos documentos contábeis da embargante, constatou que efetivamente o valor cobrado a título de ICMS, relativo às operações efetuadas pela apelada, estão sujeitos ao ISSQN, a nulidade da CDA é medida que se impõe.
+Nos termos da bem lançada sentença:
+"Assim, diante de todos os dados fornecidos, bem como a Portaria que o o regulamenta a apresentação de informação pelas Administradoras dos cartões de ô crédito, concluiu o Sr. [NOME]:
+o Reconhecendo-se que no caso presente a empresa utilizava-se de operação mista "ã (ISS/ICMS) como foi abordado previamente, o relatório apresentado pela d á Administradoras reflete apurarão total de transacões efetuadas no estabelecimento, não discriminando a natureza das mesmas. Portanto, forçoso se concluir pela nulidade da Certidão da Dívida Ativa, por ausência de liquidez e certeza, já que as informações prestadas pela Administradora dos Cartões não espelha a dívida originária de ICMS" (fls. 369) - (fls. 415/416).
+7. Dessa forma, tendo o Tribunal de origem, com base no minucioso exame dos elementos probatórios dos autos, reconhecido a nulidade da CDA em comento, ante a ausência de liquidez e certeza, já que as informações prestadas pela Administradora dos Cartões não espelha a dívida originária de ICMS, para se chegar a conclusão diversa, seria necessário o reexame das provas carreadas aos autos, o que, entretanto, é defeso em Recurso Especial; neste caso, a alegada higidez do CDA não é daquelas que se pode ver a olho desarmado, mas a sua constatação demandaria rigorosa análise (nesse sentido: AgRg no AREsp. 24.645/CE, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 18.6.2012; AgRg no Ag 1.199.147/SC, Rel. Min. LUIZ FUX, DJe 30.6.2010; AgRg no REsp. 1.126.582/SC, Rel. Min. HAMILTON CARVALHIDO, DJe 2.12.2009).
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
