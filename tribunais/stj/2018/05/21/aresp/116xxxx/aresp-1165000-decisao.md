@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA COLETIVA. HONORÁRIOS ADVOCATÍCIOS. FAZENDA PÚBLICA SUCUMBENTE. OBSERVÂNCIA DO RESP 1.155.125/MG, JULGADO SOB O RITO DO ART. 543-C DO CPC/1973. VALOR RAZOÁVEL. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 125):
+AGRAVO DE INSTRUMENTO Mandado de segurança coletivo Execução individual proposta pela interessada, em razão do descumprimento voluntário a obrigação de fazer pelo Poder Público Arbitramento dos honorários advocatícios em valor fixo, em consonância com os parâmetros previstos nos §§ 3º e 4º do art. 20, do CPC.
+No recurso especial o recorrente alega violação do art. 20, § 4º, do CPC/1973, ao argumento de que "o dispositivo determina regra especifica de arbitramento dos valores da condenação de honorários contra a fazenda pública, considerando que deve ser realizada apreciação equitativa do valor, uma vez que os referidos honorários serão pagos pelo erário, de modo que deve haver proporcionalidade e razoabilidade na sua imposição sob pena de lesar o interesse público", não ficando adstrito ao limite mínimo de 10% do valor da condenação, sendo que o presente caso trata-se de execução individual de título coletivo, processo de baixa complexidade, razão pela qual "o valor da condenação na verba honorária arbitrado não deve ser considerando singularmente para aferir a sua razoabilidade e proporcionalidade, mas sim verificado no contexto da demanda coletiva, na qual o valor da verba honorária será totalizada em milhões de reais" (fls. 131-134).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Tendo o agravante impugnado o fundamento de inadmissibilidade, passo a apreciação do apelo especial.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Na forma da jurisprudência do STJ, vencida a Fazenda Pública, para a fixação do quantum dos honorários advocatícios, o magistrado deve levar em consideração o caso concreto em face das circunstâncias previstas no art. 20, §§ 3º e 4º, do CPC/1973, utilizando-se do juízo de equidade e podendo adotar como base de cálculo o valor da causa, o valor da condenação ou mesmo arbitrar valor fixo, não ficando adstrito aos percentuais legalmente previstos. Tal posicionamento já foi firmado, inclusive, sob o rito do art. 543-C do CPC/1973 (REsp 1.155.125/MG, Rel. Ministro Castro Meira, Primeira Seção, DJe 6/4/2010).
+No presente caso, a Corte de origem considerou tais aspectos expressamente, conforme se observa do acórdão recorrido, à fl. 126.
+Ademais, é cediço que, no STJ, prevalece a orientação segundo a qual a fixação da verba honorária envolve a apreciação de matéria de ordem fática, de sorte que não se admite seu reexame na via especial, ante o óbice da Súmula 7.
+Apenas excepcionalmente, permite-se que o valor da verba honorária seja revisto no âmbito do recurso especial, desde que o montante fixado seja irrisório ou exorbitante, o que não é o caso dos autos.
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
