@@ -1,0 +1,17 @@
+DECISÃO:
+    1.  Trata-se de reclamação, com pedido liminar, ajuizada para impugnar acórdão proferido pela 2ª Turma Cível e Criminal do Colégio Recursal de Votuporanga/SP, que negou provimento a agravo interno interposto contra decisão denegatória de recurso extraordinário. O acórdão foi ementado nos seguintes termos:
+    “AGRAVO INTERNO - DECISÃO QUE NÃO CONHECEU O RECURSO EXTRAORDINÁRIO INTERPOSTO PELA AGRAVANTE - HIPÓTESE QUE NÃO JUSTIFICAVA O RECEBIMENTO DO RECURSO – INEXISTÊNCIA DE REPERCUSSÃO GERAL OU OFENSA AO TEXTO CONSTITUCIONAL – DECISÃO MANTIDA – RECURSO A QUE SE NEGA PROVIMENTO”
+    2.  A parte reclamante alega que a decisão impugnada usurpou a competência do Supremo Tribunal Federal para conhecer e julgar agravo em recurso extraordinário interposto com fundamento no art. 1.042 do CPC/2015.
+    3.  É o relatório. Decido o pedido liminar.
+    4.  Na origem, a parte ora reclamante propôs ação ordinária em face de Superintendência de Água, Esgoto e Meio Ambiente de Votuporanga, pretendendo o restabelecimento e permanência de benefício denominado “décimo quarto salário”, de acordo com o tempo de serviço prestado ao Município pelo servidor. Após sentença de improcedência, mantida em sede de recurso inominado, a parte ora reclamante interpôs recurso extraordinário. A Presidência do Colégio Recursal do Tribunal de Justiça do Estado de São Paulo negou seguimento ao recurso extraordinário, ante a ausência de repercussão geral e a incidência da Súmula nº 636/STF. Contra essa decisão, a parte ora reclamante interpôs agravo em recurso extraordinário, com fundamento no art. 1.042 do CPC/2015. No entanto, o órgão reclamado julgou o recurso como agravo interno, negando-lhe provimento.
+    5.  Com efeito, ressalvada a hipótese de decisão que aplica a sistemática da repercussão geral, compete ao Supremo Tribunal Federal julgar o agravo destinado a destrancar recurso extraordinário inadmitido na origem. Assim, não cabe ao Tribunal a quo obstar o processamento do agravo nos próprios autos ou exercer qualquer juízo de admissibilidade, tal qual consagrado na Súmula nº 727/STF. A título de exemplo, confiram-se os seguintes precedentes: Rcl 21.816, Rel. Min. Luiz Fux; Rcl 25.028 AgR, Rel. Min. Dias Toffoli; Rcl 22.269 AgR, Rel. Min. Edson Fachin; e Rcl 19.305, Rel. Min. Rosa Weber.
+    6.  Com efeito, não tendo a decisão de negativa de seguimento do recurso extraordinário se fundamentado na sistemática da repercussão geral, incabível a conversão do agravo nos próprios autos em agravo interno. Assim, em juízo liminar, vislumbro a usurpação da competência do Supremo Tribunal Federal. Reputo presente, ainda, o perigo de dano irreparável, já que, com a ocorrência do trânsito em julgado nos autos de origem, será viável a execução definitiva.
+    7.  Diante do exposto, defiro o pedido liminar, para suspender o trâmite do processo nº 1004874-66.2017.8.26.0664.
+    8.  Defiro o benefício da gratuidade de justiça. Anote-se.
+    9. Cite-se a Superintendência de Água, Esgoto e Meio Ambiente de Votuporanga, parte beneficiária da decisão reclamada, com aviso de recebimento em mão própria, no endereço indicado na petição inicial, nos termos do art. 989, III, do CPC/2015.
+    10. Solicitem-se as informações e comunique-se a autoridade reclamada acerca do teor desta decisão, em especial no que concerne ao deferimento da medida liminar.
+    Publique-se.
+Brasília, 21 de maio de 2018.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
