@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por COMVALLE DISTRIBUIDORA EIRELI - EPP, em 19/04/2018, contra decisão de minha lavra, publicada em 17/04/2018, que conheceu do Agravo para não conhecer do Recurso Especial interposto.
+Inconformada, sustenta a parte embargante que:
+"Porém, em que pese o brilho do v.acórdão, há omissão baseada no artigo 489º §1º, IV, ao passo que não haverá necessidade de análise do contrato e das provas dos autos para aplicação da proporcionalidade e razoabilidade uma vez que a aplicação de multa no patamar de 30% ainda, que prevista, se mostra exorbitante, considerando que a lei 8.666/93 não fixou tal índice e os princípios constitucionais citados devem nortear a aplicação de qualquer medida punitiva.
+(..)
+A revisão do Poder judiciário ao ato administrativo em especial na análise da aplicação dos princípios constitucionais da proporcionalidade e razoabilidade é perfeitamente possível, sem que haja necessidade de análise e valoração das provas, sendo que esta C.Corte, já se pronunciou o Superior Tribunal de Justiça, que em caso semelhante destacou:
+(..)
+Aplicação da penalidade prevista no artigo 87º, II da lei 8.666/93 deve ser dosada com proporcionalidade e razoabilidade visto que a recorrente cumpriu tempestivamente com o fornecimento de 11 (onze) autorizações de Fornecimento, atrasando apenas 3 (três) No Tribunal de Justiça do Estado de São Paulo há presidente que corrobora com o entendimento que aplicação de multa no patamar de 30% em contratos de decorrentes de licitações públicas se mostra locupletamento ilícito.
+Nessa perspectiva, com fundamento no artigo 54 da Lei 8.666/93, que prescreve a aplicação supletiva das disposições de direito privado aos contratos administrativos, a base de cálculo da penalidade comporta redução equitativa, para 5% do valor contratado, nos termos do artigo 413 do Código Civil, in verbis:
+(..)
+Portanto, a análise da aplicação dos princípios da proporcionalidade e razoabilidade no caso concreto, diante da aplicação de multa contratual de 30% em face de 3 (três) atrasos de entrega do total de 11 (onze) com ausência de prejuízo à administração que obteve entregas continuadas e parceladas, evidencia a desnecessidade de analise do conjunto probatório, restringindo-se apenas a tese exposta pela embargante que demonstra que a multa aplicada se mostra exorbitante ao patamares natural da contratação.
+Neste passo há omissão no julgado baseada no artigo 489º §1º, IV, vez que não houve enfrentamento da tese referente a exorbitância da multa aplicada diante dos fatos incontroversos que revelam a inexistência de descontinuidade no fornecimento e prejuízos a embargada" (fls. 357/359e).
+Por fim, requer "o recebimento, conhecimento e acolhimento dos presentes Embargos de Declaração, para as finalidades acima explicitadas, como medida de completa prestação jurisdicional, atribuindo-se efeito modificativo, no que couber, viabilizando, assim, a interposição recursal" (fl. 359e).
+Nas razões de impugnação, a parte embargada pugna pela rejeição dos Embargos Declaratórios (fls. 363/369e).
+A irresignação não merece acolhida.
+De início, seja à luz do art. 535 do CPC/73, ou nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+In casu, quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está suficientemente fundamentada, no sentido de que a modificação das conclusões do acórdão recorrido, segundo o qual "a multa fixada em 30% está de acordo com os termos contratuais e com a infração ocorrida, atendendo aos princípios da razoabilidade e da proporcionalidade" (fl. 267e), demandaria a análise do referido contrato, bem como a incursão no conteúdo fático-probatório dos autos, o que é vedado, em sede de Recurso Especial, em razão dos óbices das Súmulas 5/STJ e 7/STJ, respectivamente.
+Observa-se, portanto, que o que deseja a parte embargante, em seu recurso, é a rediscussão da matéria de fundo, e não a correção dos vícios que permitem a oposição dos Embargos Declaratórios.
+Deve-se ressaltar que, seja à luz do CPC/73 ou do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECLAMAÇÃO. RESOLUÇÃO STJ N. 12/2009. OMISSÃO. ACOLHIMENTO.
+1. Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como quando há erro material a ser sanado.
+2. Embargos declaratórios acolhidos sem efeitos infringentes" (STJ, EDcl nos EDcl na Rcl 28.977/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, DJe de 11/03/2016).
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA. HIPÓTESES DO ART. 535 DO CPC. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também esse recurso para se corrigir eventuais erros materiais constantes do pronunciamento jurisdicional.
+2. No caso, está evidenciado o intuito do embargante em rediscutir a matéria já integralmente decidida pelo órgão judicial recorrido, o que não se admite nos estreitos limites do art. 535 do CPC.
+3. Embargos de declaração rejeitados" (STJ, EDcl no AgRg nos EAREsp 540.453/RS, Rel. Ministra DIVA MALERBI (Desembargadora Convocada do TRF/3ª Região), PRIMEIRA SEÇÃO, DJe de 04/03/2016).
+Pelo exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
