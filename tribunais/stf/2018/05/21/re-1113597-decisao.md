@@ -1,0 +1,15 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+    No apelo extremo, alega-se, com amparo no art. 102, III, a, da Constituição Federal, que o acórdão recorrido violou os seguintes dispositivos constitucionais: arts. 29, V, e 125 § 2º.
+    É o relatório. Decido.
+    A irresignação não merece prosperar. No caso, o Tribunal de origem declarou a inconstitucionalidade da Lei Municipal 1.570/2016, assentando a impossibilidade de redução dos subsídios do Prefeito e Vice-Prefeito em face do princípio da irredutibilidade dos vencimentos. Aduziu que a redução do montante do subsídio do Prefeito implicará na diminuição dos vencimentos dos servidores do Município, em afronta ao disposto na Constituição Bandeirante que prevê a irredutibilidade de subsídios e vencimentos de ocupantes de cargos e empregos públicos (fls. 36-38, Vol. 11).
+    Assim, a solução dessa controvérsia depende da análise de legislação local, o que é incabível em sede de recurso extraordinário, conforme consubstanciado na Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário).  Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Prequestionamento. Ausência. Precedentes. Agentes políticos. Reajuste de subsídios. Ofensa reflexa. Legislação local. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alegam violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Inadmissível, em recurso extraordinário, a análise da legislação local e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 280 e 279 desta Corte. 3. Agravo regimental não provido.” (AI 774.285-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 29/3/2012)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AGENTES POLÍTICOS. REAJUSTE DE SUBSÍDIOS. LEIS MUNICIPAIS 4.850/2000 E 4.863/2000, LEI COMPLEMENTAR MUNICIPAL 24/2001 E LEI ORGÂNICA DO MUNICÍPIO DE TEÓFILO OTONI. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. SÚMULA 280 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais locais que fundamentam a decisão a quo. Incidência da Súmula 280 desta Corte. II - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF. III - Agravo regimental improvido.” (RE 656.064-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, de DJe de 7/12/2011)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 21 de maio de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
