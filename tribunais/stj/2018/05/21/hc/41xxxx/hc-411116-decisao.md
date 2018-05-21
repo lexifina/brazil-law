@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de THALES HENRIQUE AIRES DO VALE, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC nº 2126901-86.2017.8.26.0000).
+Segundo os autos, o paciente foi condenado à pena de 1 ano e 8 meses de reclusão, em regime fechado, mais o pagamento de 166 dias-multa, como incurso no artigo no art. 33, caput c/c § 4º, da Lei n.º 11.343/2006 (fls. 48/50).
+Inconformada, a Defesa impetrou prévio writ perante o Tribunal de Justiça, que denegou a ordem, em acórdão assim fundamentado:
+Visa a presente impetração obter, na essência, a reforma parcial da r. sentença condenatória, em especial no que concerne ao regime prisional estipulado para o início do seu cumprimento e à substituição da pena privativa de liberdade por restritivas de direitos.
+E, nesse particular, o presente pedido não merece guarida, porquanto o aludido julgado não padece de qualquer irregularidade caracterizadora de ilegal constrangimento, pois está formalmente em ordem e devidamente fundamentado (fls. 132/139).
+Como sabido, para cabimento de habeas corpus se mostra necessária a constatação, sem detença, de violência ou coação que ofenda a liberdade de locomoção assegurada a todo cidadão, ainda que indiretamente ou sob ameaça, por ilegalidade ou abuso de poder, conforme expressamente previsto na Constituição da República em seu artigo 5º, inciso LXVIII, c.c. o artigo 648, do Código de Processo Penal (STJ, RHC nº 7.405-SP, 5ª Turma, Rei. MIN. [NOME], j. 07/05/1998).
+Porém, no caso específico dos autos, nada disso ocorre.
+Tampouco se pode cogitar em desconstituir a r. sentença, pois não está eivada, como já afirmado, de nulidade patente e inconteste.
+A pretensão deduzida pelo impetrante somente pode ser apreciada em sede de apelação, ou, ainda, de revisão criminal, pois se mostra necessário o revolvimento de provas, situação esta inadmissível pela via estreita do habeas corpus, que tem seu campo de cabimento limitado apenas aos casos de flagrante violação ou de ameaça à liberdade de locomoção e só pode ser concedido em caso de ofensa a um direito líquido e certo, cuja existência independa do exame e valoração de provas.
+No tocante à possibilidade do apelo em liberdade, cumpre anotar que o paciente foi condenado pela prática de crime grave (tráfico de entorpecentes), equiparado a hediondo, que colocou em risco, de maneira inegável, a ordem pública, o que evidencia a existência de fundadas razões para a manutenção de sua prisão.
+Assim, inviável que aguarde em liberdade o julgamento do apelo, uma vez que respondeu a todo o processo recolhido, prisão esta que acabou convalidada pela r. sentença, ocasião em que, inclusive, foi expressamente negado esse direito de forma devidamente fundamentada, ainda que de maneira sucinta (fls. 139).
+Portanto, o que interessa é que permanecem presentes os requisitos para a mantença da prisão ora consolidada pela aludida sentença condenatória, mesmo porque a gravidade da conduta e a existência de simples ameaça à tranqüilidade pública, por si só, a justificam.
+Por conseguinte, ausente qualquer constrangimento ilegal que deva ser reparado por meio da presente impetração.
+Ante o exposto, pelo meu voto, denego a ordem (fls. 84/90).
+Daí o presente mandamus, no qual defende o impetrante, em suma: a) a necessidade de fixação de regime menos gravoso, que, in casu, deve ser o aberto, em razão, mormente do quantum da pena aplicado, qual seja, 01 ano e 08 meses; b) o direito à substituição da pena corporal por restritivas de direitos; e c) o evidente constrangimento ilegal em razão da manutenção da custódia cautelar, em razão da negativa ao direito de se recorrer em liberdade.
+Ressalta que, nos termos da jurisprudência do Supremo Tribunal Federal, é possível a fixação de regime aberto ou semiaberto, bem como a substituição da pena para os condenados por tráfico. No tocante ao regime, menciona, ainda, a aplicabilidade da súmula 440 desta Corte, bem como das Súmulas 718 e 719 do STF.
+Defende, ainda, que, em razão do art. 387, § 2º, do CPP, o regime aberto se impõe, ante o desconto do restante da pena.
+Aduz que a hediondez não incide sobre o delito em questão, nos moldes do que fora decidido pelo Plenário do STF.
+Quanto ao encarceramento cautelar, argumenta que a magistrada, "Em resumo, elencou único motivo para manter a custódia cautelar: ter o réu respondido ao processo preso" (fl. 09).
+Ao final, pede, liminarmente, a revogação da custódia cautelar do paciente. No mérito, pugna pela confirmação do pleito liminar, garantindo ao paciente o direito de aguardar o trânsito em julgado da sentença em liberdade. Requer, anda, a fixação do regime aberto e substituição da pena corporal.
+A liminar foi deferida a fim de permitir ao paciente aguardar em liberdade o julgamento do mérito deste writ (fls. 94/97).
+Foram prestadas informações às fls. 113/115 e 119/135.
+Com vista dos autos, manifestou-se o Ministério Público Federal, em parecer da lavra do Procurador Regional da República da 4ª Região, [NOME], no exercício da função de Subprocurador-Geral, "pela inadmissibilidade do pedido de habeas corpus e pelo cabimento, na espécie, da concessão da ordem de ofício" (fls. 137/141).
+É o relatório.
+Busca-se, por meio da presente impetração, a alteração do regime inicial de cumprimento de pena, a substituição da pena privativa de liberdade por restritivas de direitos, bem como o reconhecimento do direito de aguardar o trânsito em julgado do feito em liberdade.
+Em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de São Paulo, realizada nesta data, colheu-se a informação de que a Apelação Criminal n.º 0001793-56.2016.8.26.0537, interposta pelo ora paciente, foi julgada, em sessão realizada em 7.12.2017, sendo-lhe negado provimento.
+Caberia, agora, à Defesa, impugnar os fundamentos exarados no referido decisum, no tocante aos temas referentes ao regime inicial de cumprimento de pena e à possibilidade de substituição da pena privativa de liberdade por restritivas de direitos.
+Ademais, ante a superveniência do julgamento do apelo defensivo, resta esvaído o pleito de concessão de concessão da liberdade, tendo em vista a alteração da realidade fático-processual. Com efeito, confirmado o édito condenatório pelo Tribunal de origem e, assim, com o esgotamento das vias ordinárias, não há mais falar em prisão cautelar, tratando-se, pois, de execução provisória da pena.
+Diante do exposto, com fundamento no art. 659 do Código de Processo Penal, e no art. 34, XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Sem recurso, ao arquivo.
