@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo manejado pela Companhia Estadual de Águas e Esgotos - CEDAE contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 47):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ÂMBITO. MATÉRIA DE ORDEM PÚBLICA.
+1- A doutrina e jurisprudência aceitam a exceção de pré-executividade, embora sem a previsão no ordenamento positivo, como incidente capaz de deter a atividade executiva quando se alega matéria de ordem pública.
+2- Assim, esse incidente excepciona o sistema que disciplina a execução, os respectivos embargos, e seu âmbito restringe-se à apreciação daquelas matérias que possam ser conhecidas de ofício pelo juiz e demonstradas de plano.
+3- Considerada essa circunstância, a ausência desses requisitos enseja o desacolhimento do incidente.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1022 do CPC/2015.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, II e III, e 1022, I, do CPC/2015 (correspondentes aos arts. 458, II e III, e 535 do CPC/73) 475-B do CPC/73 (equivalente ao art. 524, §§ 1º e 2º, do CPC/2015). Sustenta que: (I) o Tribunal de origem não se manifestou sobre questões relevantes para o deslinde da controvérsia; e (II) o valor executado excede o limite fixado no título extrajudicial.
+É o relatório.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Com efeito, sobre o tema apontado como olvidado, a Corte local consignou (fl. 51):
+ O segundo argumento do recorrente é no sentido de que a planilha de débitos excede os limites da decisão, pois inclui valores discutidos e executados nos autos do processo nº 0009353-28.2001.8.19.0001.
+ Essa alegação, bem como de não ter havido cobrança de esgotamento sanitário no período de novembro de 2000 a junho de 2010, deve ser deduzida pela via impugnativa própria, não nos estreitos limites da exceção de pré-executividade.
+ Tratam-se de matérias estranhas à admissibilidade da oposição da exceção de pré-executividade.
+Não está caracterizada, pois, a ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015.
+Constata-se, ademais, que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, a alegação de excesso de execução "deve ser deduzida pela via impugnativa própria, não nos estreitos limites da exceção de pré-executividade." (fl. 51), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Por fim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de se reconhecer o excesso de execução, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.
+AÇÃO DE COBRANÇA. TÍTULO EXEQUENDO. EXCESSO DE EXECUÇÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. Não se viabiliza o recurso especial pela indicada violação do art. 535 do CPC/1973. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentadas pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. A Corte local, interpretando o título exequendo, afastou o alegado excesso de execução, violação à coisa julgada e enriquecimento sem causa, de modo que, o acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+3. Se é incontroverso nos autos, como afirmado pelo próprio agravante, que o título executivo judicial se fundamentou no entendimento do Superior Tribunal de Justiça resultante do julgamento do REsp n. 43.055/SP, a outra conclusão não se pode chegar senão a de que o acórdão do Tribunal de origem bem aplicou o entendimento desta Corte Superior ao adotar, como índice único de correção monetária para todo o mês de janeiro de 1989, o percentual de 42,72%.
+4. Agravo interno não provido.
+(AgInt no AREsp 1113455/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/04/2018, DJe 19/04/2018)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
