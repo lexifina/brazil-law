@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de EDUARDO [NOME] contra acórdão do Tribunal de Justiça do Estado da Paraíba (Recurso em Sentido Estrito n. 200.2010.007241-8/002).
+O paciente foi pronunciado como incurso nas sanções do art. 121, caput, c/c art. 18, inciso I, e no art. 121, caput, c/c art.14, inciso II, todos do Código Penal, em concurso formal.
+Irresignada, a defesa interpôs recurso em sentido estrito, ao qual o Tribunal de origem, por maioria, negou provimento.
+Opostos embargos de declaração e infringentes, que foram rejeitados.
+No dia 27/7/2011, a defesa formulou pedido para reabertura do prazo recursal, em razão da dupla publicação do acórdão dos embargos infringentes, disponibilizado no Diário de Justiça Eletrônico nos dia 19 e 21 de julho, tendo sido indeferido o pleito pelo relator. Interposto agravo interno, ao qual foi dado parcial provimento para considerar como data da publicação do acórdão dos embargos infringentes o dia 22/7/2011.
+Em 24/8/2011, a defesa opôs embargos de declaração contra o acórdão dos embargos infringentes, que não foram conhecidos pela Corte de origem ante sua intempestividade.
+No presente writ, os impetrantes alegam que somente após o julgamento do agravo interno, que definiu a data da publicação do acórdão dos embargos de infringentes, é que a defesa poderia recorrer.
+Observam que "no dia 24 de agosto, data da publicação do acórdão do Agravo Interno, foi concedido ao paciente 01 dia a mais de prazo, portanto só e somente só após a validação do julgamento, com a publicação do seu resultado, é que ela poderia surtir efeito" (fl. 9).
+Sustentam que o não conhecimento dos embargos de declaração impossibilitou a interposição de recurso especial, caracterizando, assim, cerceamento de defesa.
+Defendem a desclassificação das condutas atribuídas ao paciente para as previstas nos art. 302 e 303, do Código de Trânsito Brasileiro, porquanto não caracterizado o dolo eventual.
+Requer, liminarmente, a suspensão do julgamento pelo Conselho de Sentença, e, no mérito, a anulados todos os atos praticados a partir do acórdão que não conheceu os embargos de declaração defensivo.
+A liminar foi indeferida às fls. 147/149.
+O Ministério Público Federal opinou pelo não conhecimento do writ às fls. 160/164.
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+A Corte de origem considerou os embargos de declaração opostos pela defesa intempestivos, porquanto não verificou a presença de causa suspensiva ou interruptiva do prazo recursal, tendo assim consignado:
+Conforme asseverei, com o beneplácito da jurisprudência antiga dos Tribunais Superiores, a petição de fls. 543/544 atravessada em 27 de julho de 2011 questionando a data da publicação, bem como a não juntada das notas taquigráficas referentes aos Embargos Infringentes, não se revelou suficiente para suspender ou interromper o prazo para o manejo de quaisquer recursos. Em caso de fundada dúvida referente à data da interposição recursal, manda a boa técnica que seja manejado o recurso, com a discussão concomitante da sua tempestividade, como agora o faz o embargante, e não em petições autônomas que não possui natureza impeditiva da fluência do prazo recursal.
+Da documentação juntada aos autos, constata-se que apesar da dúvida acerca da data da publicação do acórdão dos embargos infringentes, a defesa não opôs os embargos de declaração dentro do prazo recursal - 2 dias -, mesmo considerando como publicado no dia 22/7/2011 e os feriados locais que afirma terem ocorrido em 25 e 26 de julho.
+Ademais, cumpre registrar que o pedido de reabertura do prazo recursal apresentado pela defesa não interrompeu o prazo recursal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE DO RECURSO ESPECIAL PORQUANTO INTERPOSTOS APÓS O PRAZO PREVISTO NO NO ART. 1.003, § 5º DO CPC DE 2015. NÃO COMPROVAÇÃO SUSPENSÃO DOS PRAZOS PROCESSUAIS PELO TRIBUNAL DE ORIGEM. FALTA DE DOCUMENTO HÁBIL. DECISÃO MANTIDA.
+ ..
+4. A interrupção do prazo recursal pela apresentação de outro recurso só se convalida com o seu conhecimento. Precedentes. No presente caso, a parte recorrente, conforme sustenta, protocolou uma petição (fls. 232- 233) requerendo nova sessão para prosseguimento do julgamento do recurso de apelação, a qual foi indeferida pelo Tribunal de origem (fls. 240). Assim, não há falar em interrupção do prazo recursal, uma vez que não houve o protocolo do recurso cabível, passível de acarretar a interrupção do prazo recursal.
+5. Agravo não provido (AgInt no AREsp 1065264/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/09/2017, DJe 29/09/2017).
+Com relação ao pleito de desclassificação, importa consignar que a pronúncia encerra mero juízo de admissibilidade da acusação, exigindo o ordenamento jurídico apenas o exame da ocorrência do crime e dos indícios de sua autoria, de modo que eventuais dúvidas nessa fase processual resolvem-se a favor da sociedade.
+Com efeito, o Tribunal de origem entendeu haver indícios de que o réu teria agido com dolo eventual, e, para concluir de forma diversa, é necessário o revolvimento de matéria fático-probatória, inviável na estreita via do habeas corpus.
+A propósito:
+HABEAS CORPUS SUBSTITUTIVO. HOMICÍDIO CONSUMADO E TENTADO. DOLO EVENTUAL. DESCLASSIFICAÇÃO. CRIMES DE TRÂNSITO. IMPOSSIBILIDADE. EMBRIAGUEZ. CONSTATAÇÃO TÉCNICA DO GRAU DE ALCOOLEMIA. OUTRAS CIRCUNSTÂNCIAS QUE REVELAM A OCORRÊNCIA DE DOLO EVENTUAL. COMPETÊNCIA CONSTITUCIONAL DO TRIBUNAL DO JÚRI. DILAÇÃO PROBATÓRIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+1. É admissível, em crimes de homicídio na direção de veículo automotor, o reconhecimento do dolo eventual, a depender das circunstâncias concretas da conduta.
+2. A questão relativa à incompatibilidade entre o dolo eventual e o crime tentado não foi objeto de análise pelo Tribunal de origem, razão pela qual não pode ser examinada por esta Corte Superior, sob pena de indevida supressão de instância.
+3. A embriaguez não foi a única circunstância externa configuradora do dolo eventual. Assim, na espécie, a Corte de origem entendeu, com base nas provas dos autos, que "o recorrente não está sendo processado em razão de uma simples embriaguez ao volante da qual resultou uma morte, mas sim de dirigir em velocidade incompatível com o local, à noite, na contramão de direção em rodovia" (fl. 69).
+Tais circunstâncias indicam, em tese, terem sido os crimes praticados com dolo eventual.
+4. Infirmar a conclusão alcançada pela Corte de origem demandaria dilação probatória, iniciativa inviável no âmbito desta ação constitucional.
+5. Habeas Corpus não conhecido (HC 303.872/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/12/2016, DJe 02/02/2017).
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. 1. PETIÇÃO APRESENTADA DIRETAMENTE NO STJ. INOBSERVÂNCIA DO RITO PROCEDIMENTAL. 2. HOMICÍDIO NO TRÂNSITO. PEDIDO DE DESCLASSIFICAÇÃO. NECESSIDADE DE REVOLVIMENTO DOS FATOS. NÃO CABIMENTO. 3. RECURSO NÃO CONHECIDO.
+1. Embora o advogado tenha intitulado a petição como recurso em habeas corpus, não observou o procedimento relativo ao referido instrumento processual, tendo apresentado seu pleito diretamente perante o Superior Tribunal de Justiça, sem prévia admissão do Tribunal de origem. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício, analisando-se, dessa forma, o mérito.
+2. Cabe às instâncias ordinárias analisar a correta tipicidade da conduta, haja vista terem amplo espectro cognitivo dos fatos e provas dos autos. De fato, "a aferição da existência ou da ausência do elemento subjetivo da infração, para a desclassificação do delito de homicídio qualificado para duplo homicídio culposo na direção de veículo automotor, art. 302 da Lei n. 9.503/1997 (Código de Trânsito Brasileiro), demanda o revolvimento da prova produzida, o que não é possível em habeas corpus substitutivo de recurso especial" (HC 329.691/CE, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 05/04/2016, DJe 18/04/2016).
+3. Recurso em habeas corpus não conhecido (RHC 74.672/RO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/09/2016, DJe 21/09/2016).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intime-se.
