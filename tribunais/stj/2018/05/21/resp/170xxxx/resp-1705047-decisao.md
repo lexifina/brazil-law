@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+Apelação criminal. Júri. Homicídio. Dosimetria. Pena-base. Circunstâncias judiciais parcialmente favoráveis. Quantum. Redução segundo as circunstâncias judiciais aferidas. Viabilidade. Regime. Critérios de aplicação do semiaberto.
+Sustenta o recorrente violação do art. 59 do CP, sob o argumento de falta de fundamentação idônea na exasperação da pena-base, ante a inadmissibilidade do emprego de condenações posteriores para o agravamento da reprimenda.
+Requer, assim, a reforma o acórdão recorrido, a fim de que seja reduzida a sanção definitiva.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+Decido.
+Consta dos autos que o recorrente foi condenado à pena de 9 anos de reclusão, no regime fechado, como incurso no art. 121, caput, do CP. Interposto recurso de apelação, o Tribunal de Justiça deu parcial provimento ao apelo defensivo para reduzir a pena a 7 anos de reclusão, no regime semiaberto.
+Acerca da valoração desfavorável da circunstância judicial, assentou o Tribunal de origem que a conduta social, também avaliada negativamente, assim deve ser mantida em razão de que o apelante possui condenações por fatos posteriores (fls. 231/241), inclusive por delito de homicídio, o que denota sua propensão à prática de delitos. Nesse passo, se é essa a única circunstância judicial sopesada negativamente ao apelante, consistindo as demais circunstâncias favoráveis ou ínsitas ao tipo incorrido, então, sem a existência de qualquer outro critério para justificar a elevação da pena-base, entendo que esta deve ser reduzida para 7 anos de reclusão (fl. 368).
+Em relação às condenações por fatos posteriores ao presente caso, o acórdão recorrido encontra-se em dissonância com a jurisprudência desta Corte, na medida em que somente é possível a utilização de condenação transitada em julgado entre o cometimento do fato e a sentença, desde que seja por ilícito praticado anteriormente ao delito em questão.
+Nesse sentido, já decidiu a Sexta Turma, no HC 349.015/SC, de relatoria do Ministro ROGERIO SCHIETTI CRUZ, julgado em 26/04/2016, no qual restou consignado que "Esta Corte tem entendimento reiterado de que a condenação definitiva por fato anterior ao crime descrito na denúncia, mas com trânsito em julgado posterior à data do ilícito penal, ainda que não configure a agravante da reincidência, pode caracterizar maus antecedentes, pois diz respeito ao histórico do acusado".
+Consoante se extrai do acórdão recorrido, tratando-se de condenações por fatos praticados em momento posterior ao presente caso, incabível a exasperação da pena-base diante da conduta social. A propósito:
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. NÃO CONHECIMENTO.
+ ..
+DOSIMETRIA. PENA-BASE ELEVADA EM RAZÃO DOS MAUS ANTECEDENTES DO ACUSADO. CONDENAÇÃO TRANSITADA EM JULGADO REFERENTE A FATOS ANTERIORES AO CRIME EM ANÁLISE. IMPOSSIBILIDADE DE UTILIZAÇÃO PARA NEGATIVAR AS CIRCUNSTÂNCIAS JUDICIAIS. COAÇÃO ILEGAL CARACTERIZADA.
+1. A jurisprudência desta Corte Superior de Justiça firmou-se no sentido de que não é possível considerar a condenação transitada em julgado relativa a fato posterior ao narrado na denúncia para valorar negativamente os antecedentes, a conduta social ou personalidade do agente.
+2. No caso dos autos, verifica-se que o delito assestado ao paciente ocorreu no dia 27.11.2011, sendo que, de acordo com a sua folha de antecedentes, a única condenação transitada em julgado em seu desfavor refere-se a fatos ocorridos em 2012, ou seja, posteriores aos ora analisados, o que impõe a redução de sua pena-base ao mínimo legal.
+ ..
+2. Habeas corpus não conhecido. Ordem concedida de ofício para reduzir a pena imposta ao paciente para 10 (dez) meses de reclusão, a ser cumprida no regime inicial aberto, substituindo-se a sanção reclusiva por restritiva de direitos, a ser definida pelo Juízo da Execução. (HC 368.302/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 07/03/2017, DJe 15/03/2017).
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. CRIME DE FURTO QUALIFICADO. PLEITO DE APLICAÇÃO DO PRIVILÉGIO DO PEQUENO VALOR. QUALIFICADORA DE CARÁTER OBJETIVO. VALOR NÃO SUPERIOR A UM SALÁRIO MÍNIMO À ÉPOCA. INCIDÊNCIA DA BENESSE. PENA-BASE. UTILIZAÇÃO DA QUALIFICADORA SOBEJANTE NA PRIMEIRA FASE. POSSIBILIDADE. MAUS ANTECEDENTES. CONDENAÇÕES DEFINITIVAS POR FATOS POSTERIORES. ILEGALIDADE FLAGRANTE. HC NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. Condenações definitivas, porém por fatos posteriores não configuram maus antecedentes, não podendo, pois, ser utilizadas em desfavor do paciente para exasperar a pena-base.
+4. Habeas corpus não conhecido, mas concedida a ordem de ofício para determinar ao juízo das execuções o redimensionamento da pena imposta, excluindo-se os maus antecedentes e aplicando-se o privilégio do § 2º do art. 155 do CP. (HC 350.239/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/11/2016, DJe 06/12/2016).
+Passo, então, ao redimensionamento da pena.
+Considerando a ilegalidade na exasperação pela conduta social, reduzo a pena-base ao mínimo legal, no caso, 6 anos de reclusão, em razão da ausência de circunstâncias judiciais desfavoráveis, a qual torno definitiva à míngua de outras causas modificativas.
+Não obstante a redução ora implementada, é de ser mantido o regime semiaberto, nos termos do art. 33, § 2º, b, do CP, por se tratar de réu primário, com sanção definitiva fixada em patamar superior a 4 e que não excede a 8 anos de reclusão.
+Ante o exposto, dou provimento ao recurso especial para, afastada a valoração negativa pela conduta social, reduzir a pena a 6 anos de reclusão, mantido o regime semiaberto.
+Publique-se. Intimem-se.
