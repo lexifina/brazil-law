@@ -1,0 +1,9 @@
+DECISÃO
+Vistos.
+Fls. 551/559e - Trata-se de Agravo Interno (art. 1.021, do CPC) interposto contra decisão monocrática de minha lavra, mediante a qual, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 253, I, do RISTJ, o Agravo em Recurso Especial não foi conhecido, porquanto não atacados especificamente os fundamentos da decisão agravada (fls. 542/546e).
+A UNIÃO sustenta, em síntese, a nulidade da decisão porquanto o Excelentíssimo Ministro Herman Benjamin estaria prevento para análise do feito, em razão da anterior distribuição do Agravo em Recurso Especial n. 534.690/SP e dos Recursos Especiais ns. 1.724.975/SP, 1.724.964/SP, 1.724.957/SP, 1.724.978/SP, 1.728.228/SP, 1.725.790/SP, 1.725.791/SP, 1.730.060/SP e 1.730.077/SP, distribuídos por prevenção à Sua Excelência em razão do mencionado agravo, pois embora atacassem, em última análise, os provimentos jurisdicionais proferidos em execuções individuais, o título judicial exequendo seria o mesmo, qual seja aquele formado nos autos da Ação Ordinária n. 94.0400291-7, bem como a necessidade de reforma da decisão anteriormente proferida, porquanto teriam sido impugnados, especificamente, os fundamentos da decisão de inadmissão do Recurso Especial (fls. 551/559e).
+Feito breve relato, decido.
+Em juízo de retratação, consoante o disposto no § 2º, do art. 1.021, do Código de Processo Civil, verifica-se o desacerto da mencionada decisão, sobretudo porquanto não observada, por lapso, a anterior distribuição do Agravo em Recurso Especial n. 534.690/SP, bem como dos recursos especiais distribuídos por prevenção ao mencionado feito.
+Isto posto, nos termos do § 2º, art. 1.021, do Código de Processo Civil, RECONSIDERO a decisão de fls. 542546e, restando, por conseguinte, PREJUDICADO o agravo interno de fls. 551/559e.
+Publique-se e intime-se.
+Após, encaminhem-se os autos ao Excelentíssimo Ministro Herman Benjamin consultando-lhe acerca de eventual prevenção.
