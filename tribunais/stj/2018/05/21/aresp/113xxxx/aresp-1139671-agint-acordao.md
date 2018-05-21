@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE ALTERAÇÃO DOS CRITÉRIOS DE APURAÇÃO DO VALOR PATRIMONIAL DA AÇÃO FIXADOS EM SENTENÇA TRANSITADA EM JULGADO. IMPOSSIBILIDADE. COISA JULGADA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. ADEQUAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, decide a Egrégia TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze (Presidente), Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno interposto por OI S.A. contra decisão que conheceu do agravo para negar provimento ao recurso especial interposto pela ora agravante.
+Nas razões do agravo interno, a recorrente alega, em síntese, que "o julgamento do RESP 975.834  ..  é fato superveniente de interesse público e relevância social, do que decorre a necessidade de adequação do caso em apreço ao critério de justiça esclarecido pela Corte Superior, apurando o saldo de ações a complementado com base no balanço do mês da integralização, único meio de afastar, deveras, a desvalorização do capital investido pela parte impugnada, sem, por outro vértice, causar-lhe enriquecimento sem causa e prejuízo à Companhia" (e-STJ fl. 137).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes colegas, o agravo interno não pode prosperar.
+Isso porque, em que pese o arrazoado, a tese exposta na decisão ora agravada está em conformidade com a orientação desta Corte Superior, segundo a qual, nas demandas que envolvem contrato de participação financeira e complementação de ações, não é possível modificar os critérios de apuração do valor patrimonial da ação na fase de cumprimento de sentença, em virtude do trânsito em julgado do título executivo, não obstante este tenha estabelecido critérios diversos daqueles reputados corretos pela jurisprudência deste Superior Tribunal de Justiça, notadamente na Súmula nº 371.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. FIXAÇÃO DO VALOR PATRIMONIAL NA SENTENÇA. REEXAME. IMPOSSIBILIDADE. ALTERAÇÃO. COISA JULGADA. DECISÃO RECORRIDA EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA Nº 83 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Na decisão agravada, constou expressamente que deve prevalecer o comando expresso no título exequendo, ainda que este tenha fixado critério de apuração do valor patrimonial diverso do firmado no recurso representativo da controvérsia Resp nº 1.033.241/RS em observância ao instituto da coisa julgada.
+3. A existência de critério, no título exequendo, para o cálculo do valor patrimonial da ação (VPA) impede sua alteração posterior com base na edição da Súmula nº 371 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo regimental não provido.
+(AgRg no AREsp 584.358/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/06/2017, DJe 04/08/2017, g.n.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PEDIDO DE SUSPENSÃO DO PROCESSO EM VIRTUDE DE DEFERIMENTO DO PROCESSAMENTO DE RECUPERAÇÃO JUDICIAL. VIA ESPECIAL INADEQUADA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. VALOR PATRIMONIAL DA AÇÃO. CRITÉRIO DEFINIDO NO TÍTULO EXECUTIVO. SENTENÇA TRANSITADA EM JULGADO. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA 83/STJ. EXCESSO DE EXECUÇÃO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. O entendimento do STJ é de que "em regra, não há falar em suspensão do julgamento do recurso especial em virtude de deferimento do processamento da recuperação judicial. A jurisprudência desta Corte, com relação a esse tema, tem mantido uma simetria com o trato dado à não suspensão dos recursos especiais nos casos de afetação de recurso repetitivo e de reconhecimento de repercussão geral pelo STF" (AgInt no AREsp n. 790.736/RS, Relator Ministro LUIS FELIPE SALOMÃO).
+2. O pedido de suspensão do trâmite processual, pelo prazo de 180 dias, nos termos do artigo 6º da Lei n. 11.101/2005, motivado pelo deferimento do processamento da recuperação judicial, deve ser formulado perante o Juízo de origem.
+3. Havendo definição específica no título judicial transitado em julgado acerca do critério de apuração do Valor Patrimonial da Ação (VPA), mesmo que contrário ao comando do enunciado n. 371 da Súmula deste Tribunal Superior, não é possível alterá-lo em cumprimento de sentença, em respeito à coisa julgada. Precedentes.
+4. Para desconstituir as premissas fáticas reconhecidas pelo acórdão quanto à subscrição da diferença de ações para o cálculo da liquidação, seria imprescindível o revolvimento de fatos e provas, providência vedada no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1360422/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/06/2017, DJe 23/06/2017, g.n.)
+Portanto, impõe-se a manutenção da decisão ora agravada, uma vez que permanece a validade dos argumentos que a sustentam e não foram apresentados elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
