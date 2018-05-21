@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Mandado de Segurança, com pedido de liminar, impetrado, em 16/09/2017, por FLAVIO VINICIUS CARLOS GOMES LIMA, contra ato do MINISTRO DE ESTADO DA EDUCAÇÃO e do PRESIDENTE DO INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA - INEP, consubstanciado na ausência de análise de seu pedido de isenção da taxa de inscrição para a realização do ENEM/2017.
+O impetrante sustenta, em síntese, que:
+"O Impetrante realizou sua inscrição no Sistema de inscrição do Exame Nacional de Ensino Médio (ENEM) 2017, no período estabelecido no edital, solicitando a isenção.
+De acordo com o item 3.3 do Edital n. 13/2017, para ter pedido de isenção da taxa de pagamento deferido o Impetrante deveria atender aos requisitos contidos no art. 1o, parágrafo único, incisos I e II, da Lei nº 12.799, de 10 de abril de 2013 e realizar a sua inscrição através do site do ENEM (http://enem.inep.gov.br/participante).
+Porém, ocorreu um problema no sistema, causado pelo INEP, o impetrante como tantos outros, fez uma opção equivocada ao escolher o ato legal que embasa sua situação socioeconômica, e como conseqüência, teve a guia de recolhimento da união (GRU) gerada.
+O INEP, ao tomar conhecimento do problema, em acordo com o Ministério Público Federal resolveram dar uma chance para os candidatos que tiveram o pedido de isenção indeferido e que não efetuaram o pagamento da (GRU). (doe. Anexo).
+(..)
+Desta forma, o impetrante, seguindo todas as orientações do INEP, fez, no dia 14 de junho de 2017, recurso administrativo solicitando reconsideração do pedido de isenção da inscrição do ENEM 2017 com base na Lei nº 12.799/2013, vez que preenche os requisitos (doe. anexo).
+(..)
+Entretanto, sem qualquer resposta, no dia 24 de agosto de 2017, o impetrante entrou em contato, novamente, com o INEP pela página facebook, onde lhe informaram que fariam o possível para responder o mais rápido e para que o impetrante tirasse suas duvidas pelo canal de atendimento nº 0800616161 (doe. Anexo). Assim o fez por varias vezes, sendo que o ultimo contato foi no dia 22/08/2017. protocolo de nº 20170014131686, porem sem êxito.
+Ocorre que os cadernos de prova serão personalizados, com nome e número de inscrição na capa e cartão de respostas, desta forma, o Inep tem um prazo para inclui o nome do candidato na lista dos inscritos ao ENEM e elaborar as provas que serão aplicadas no dia 05 e 12 de novembro de 2017.
+Analisando minuciosamente os documentos apresentados versus o edital, a situação e qualificação do IMPETRANTE justificam o deferimento da LIMINAR, vez que a omissão das autoridades coatoras é ilegal e abusiva, e poderá acarretar grave prejuízo ao mesmo, que perderá a oportunidade de realizar a prova do ENEM para o qual investiu tempo e dinheiro com cursos preparatórios.
+Portanto, a proteção ao direito líquido e certo está provada robustamente, e pela via do MANDADO DE SEGURANÇA, no caso em questão, deverá ser deferida a MEDIDA LIMINAR EM CARÁTER DE URGÊNCIA, PARA QUE PROCEDA A INCLUSÃO DO NOME DO IMPETRANTE NA LISTA DOS INSCRITOS COM PEDIDO DE ISENÇÃO, PARA REALIZAR A PROVA DO ENEM, QUE SERÁ APLICADA NO DIA 05 E 12 DE OUTUBRO DE 2017.
+Desta forma, como o Impetrante preenche todos os requisitos do edital de nº 13 de 7 de abril de 2017 e por omissão do INEP deixar de realizar a prova do ENEM, a não realização de sua inscrição fere integralmente o direito liquido e certo do impetrante, como se verá pela fundamentação a seguir exposta" (fls. 5/8e).
+Ao final, requer:
+"..concessão da medida liminar, a fim de que seja incluído o nome do impetrante na lista dos inscritos para realizar a prova do Enem 2017 , e concedido a isenção;
+Para que sejam notificadas as autoridades coatoras para prestarem informações, no prazo de 10 (dez) dias;
+Para que seja intimado o representante do Ministério Público;
+Para que, ao final, seja CONCEDIDA A SEGURANÇA, tornando definitivos os efeitos da liminar" (fls. 10/11e).
+O Mandado de Segurança foi inicialmente impetrado na Seção Judiciária de Minas Gerais, tendo o Juiz da 7ª Vara Federal Cível deferido, "em parte, o pedido de liminar para determinar às autoridades impetradas que procedam à análise do recurso administrativo do impetrante no prazo de 10 dias contados da intimação desta decisão, incluindo seu nome na lista do inscritos do ENEM 2017, com isenção do pagamento da taxa de inscrição, se atendidos os requisitos legais pra tanto" (fl. 44e).
+Na petição de fl. 61e, o impetrante informou que os impetrados "responderam ao recurso administrativo", motivo pelo qual o feito teria perdido o seu objeto.
+Em 23/02/2018, foi proferida decisão reconhecendo a incompetência daquele juízo para processar e julgar o feito, determinando a redistribuição do feito à Subseção Judiciária de Varginha (fl. 127e).
+Já em 27/03/2018, o Juiz da 2ª Vara Federal da Subseção Judiciária de Varginha, com fundamento no art. 105, I, b, da Constituição Federal, determinou a remessa dos autos a este Superior Tribunal de Justiça.
+O Mandado de Segurança não merece seguimento.
+Com efeito, conforme informado pelas partes (fls. 61e e 100e), o pedido de isenção da taxa de inscrição pleiteado pelo impetrante já fora deferido na esfera administrativa, de modo que a presente impetração perdeu seu objeto. Nesse sentido: STJ, AgRg no MS 18.336/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 05/03/2013; STJ, MS 18.653/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe de 01/02/2013.
+Ante o exposto, com base nos arts. 6º, § 5º, da Lei 12.016/2009 e 485, VI, do CPC/2015, julgo extinto o processo, sem resolução do mérito. Custas, na forma da lei. Sem condenação ao pagamento de honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009.
+I.
