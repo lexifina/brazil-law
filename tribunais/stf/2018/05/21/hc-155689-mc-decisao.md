@@ -1,0 +1,30 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Tarcísio Maciel Chaves de Mendonça e outros, em favor de Agenor da Costa Junior, contra decisão proferida pelo Ministro Ribeiro Dantas, do Superior Tribunal de Justiça (STJ), que deferiu a liminar para suspender a execução provisória da pena imposta ao paciente, até o julgamento final do HC 441.393/MG (eDOC 2, p. 2-4).
+    Preliminarmente, consta dos autos que o paciente foi condenado, no primeiro grau de jurisdição (Ação Penal 0112.01.001280-8), à pena privativa de 5 anos de reclusão, em regime inicial semiaberto, bem como ao pagamento de 10 dias-multa, pela prática do crime tipificado no art. 180, § 1º, do Código Penal (eDOC 2, p. 32-74 e 175).
+    Em sequência, inconformada, a defesa interpôs os recursos de apelação, embargos de declaração e infringentes, bem como os recursos especial e extraordinário (eDOC 2, p. 95-104; 106-113; 115-140; 141-160).
+    A Primeira Câmara Criminal do TJ/MG negou provimento ao recursos de apelação da defesa e, por maioria, determinou o início da execução da pena, com a expedição de mandados de prisão após o esgotamento das vias ordinárias (eDOC 2, p. 76-93).
+    Houve, então, a impetração no STJ do citado HC 441.393/MG (eDOC 2, p. 3-20), cuja liminar foi deferida (eDOC 2, p. 175-177).
+    No presente HC sustenta-se, em síntese, a ocorrência de constrangimento ilegal, pelos seguintes motivos:
+    a) violação ao princípio do juiz natural (art. 70 do CPP) ;
+    b) negativa de vigência ao art. 1º do CP, bem como ofensa ao art. 180, § 1º, do CPP;
+    c) negativa de vigência ao art. 59 do CP, além dos princípios da individualização das penas e da proibição do bis in iden;
+    d) violação à Súmula 545 do STJ.
+    Ao final, os impetrantes pedem, em liminar e no mérito, a suspensão da execução da pena até o julgamento do HC 441.393/MG, em curso na Quinta Turma do Superior Tribunal de Justiça (eDOC 1, p. 12).
+    Registre-se que o presente HC foi a mim distribuído por prevenção ao HC 147.542/MG (certidão, eDOC 4).
+    Requisitei informações ao Juízo da Vara Criminal da Comarca de Campo Belo/MG (Ação Penal 0112.01.001280-8); ao Relator, no TJ/MG, dos Embargos Infringentes 0012808-24.2001.8.13.0112, sobre o andamento desse feito, bem como ao Presidente do TJ/MG, sobretudo a respeito do eventual processamento de recursos especial e extraordinário interpostos no citado feito (eDOC 5, p. 1), as quais foram prestadas (eDOCs 9-15).
+    É o relatório.
+    Decido.
+    Consoante acentuei ao apreciar o pedido de liminar no HC 146.818 MC/ES, DJe 20.9.2017, os Ministros do STF, monocraticamente, têm aplicado a jurisprudência do Supremo no sentido de que a execução provisória da sentença já confirmada em sede de apelação, ainda que sujeita a recurso especial e extraordinário, não ofende o princípio constitucional da presunção de inocência, conforme decidido no HC 126.292/SP. Esse posicionamento foi mantido pelo STF ao indeferir medidas cautelares nas Ações Declaratórias de Constitucionalidade 43 e 44, e no julgamento do Recurso Extraordinário com Agravo 964.246/SP, com repercussão geral reconhecida pelo Plenário Virtual.
+    Todavia, no julgamento do HC 126.292/SP, o Ministro Dias Toffoli votou no sentido de que a execução da pena deveria ficar suspensa com a pendência de recurso especial ao STJ, mas não de recurso extraordinário ao STF. Para fundamentar sua posição, sustentou que a instituição do requisito de repercussão geral dificultou a admissão do recurso extraordinário em matéria penal, que tende a tratar de tema de natureza individual e não de natureza geral ao contrário do recurso especial, que abrange situações mais comuns de conflito de entendimento entre tribunais.
+    Ainda, no julgamento do HC 142.173/SP (de minha relatoria, sessão da Segunda Turma de 23.5.2017), manifestei minha tendência em acompanhar o Ministro Dias Toffoli no sentido de que a execução da pena com decisão de segundo grau deve aguardar o julgamento do recurso especial pelo STJ.
+    No caso, em face do que consta nos autos, sobretudo das informações recebidas (eDOCs 9-15) e no Portal Eletrônico do TJ/MG, verifico que não houve exaurimento das vias ordinárias, vale dizer, no âmbito do TJ/MG, tendo em vista a oposição de embargos de declaração do acórdão que não acolheu os Embargos Infringentes 0012808-24.2001.8.13.0112, conforme noticiou a parte impetrante (eDOC 1, p. 1-2).
+    É relevante, ainda, no caso, não se tratar de crime, cuja execução tenha havido violência (receptação qualificada; art. 180, § 1º, do CP), além da pena fixada e respectivo regime (5 anos de reclusão, em regime inicial semiaberto; eDOC 2, p. 32-74).
+    Portanto, no legítimo exercício da competência de índole constitucional atribuída ao Superior Tribunal de Justiça, nos termos do art. 105, III, e alíneas, da Constituição Federal, é de se admitir, em tese, a possibilidade do afastamento dessa execução provisória em decorrência do eventual processamento e julgamento do recurso especial. Isto é suficiente para a concessão, em parte, do pedido de liminar, ficando prejudicada a apreciação dos demais argumentos deduzidos nesta impetração. Nesse contexto, são relevantes os fundamentos da decisão monocrática do STJ, que concedeu a liminar nos autos do citado HC 441.393/MG (eDOC 2, p. 175-177).
+    Ante o exposto, defiro, em parte, a medida liminar para suspender o início da execução da pena a que foi submetido o paciente Agenor da Costa Junior, nos autos da Ação Penal 0112.01.001280-8, que tramitou no Juízo da Vara Criminal da Comarca de Campo Belo/MG, até o julgamento do mérito deste habeas corpus.
+    Comunique-se com urgência ao TJ/MG, ao STJ, bem como ao Juízo da Vara Criminal da Comarca de Campo Belo/MG, para cumprimento (Ação Penal 0112.01.001280-8).
+    Requisitem-se informações ao Relator, no STJ, do HC 441.393/MG.
+    Após, dê-se vista dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 21 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
