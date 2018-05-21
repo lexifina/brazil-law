@@ -1,0 +1,22 @@
+DECISÃO
+Agrava-se de decisão que negou seguimento ao recurso especial de LUIZIANE MATOS DA SILVA, fundado no art. 105, III, "a", da Constituição Federal e interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará.
+Depreende-se dos autos que a ora agravante foi condenada, no primeiro grau de jurisdição, como incursa no art. 157, § 2º, II, do Código Penal, à pena de 5 anos e 4 meses de reclusão, no regime inicial semiaberto, e ao pagamento de 10 dias-multa (e-STJ fls. 178/183).
+O Tribunal de origem negou provimento ao apelo da defesa. O acórdão recebeu a seguinte ementa (e-STJ fl. 225):
+APELAÇÃO CRIMINAL. ROUBO QUALIFICADO. SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. DESCLASSIFICAÇÃO PARA A FORMA TENTADA. IMPROCEDENTE. MOMENTO DA CONSUMAÇÃO DO CRIME DE ROUBO. TEORIA DA APPREHENSIO. RECURSO DESPROVIDO.
+1. A recorrente insurge-se contra a consumação do crime de roubo, pelo que clama pela incidência do conatus e os consectários da modalidade.
+2. Pela análise do cotejo probatório colhido no decorrer da instrução criminal, constituído pelos depoimentos da vítima, testemunhas e confissão da ré; a ofendida teve seus pertences arrebatados de forma violenta, permanecendo a apelante na posse da res furtiva até ser perseguida e detida por populares.
+3. Os Tribunais Superiores, no que se refere à consumação do crime de roubo, adotam a "Teoria da Apprehensio", também denominada de "Amotio", segundo a qual considera-se consumado o delito no momento em que o agente obtém a posse da res furtiva, ainda que não seja mansa e pacífica e/ou haja perseguição policial, sendo prescindível que o objeto do crime saia da esfera de vigilância da vítima, como no caso em comento.
+4. Negado provimento ao apelatório, a sentença está irrepreensível em todos os seus termos.
+Nas razões do recurso especial, a então recorrente apontou ofensa aos arts. 14, II, e 155, ambos do Código Penal e ao art. 156 do Código de Processo Penal. Afirmou que não há provas hábeis a estear a sua condenação. Sustentou que não ocorreu violência ou grave ameaça, buscando a desclassificação para a tentativa de furto. Requereu a aplicação do princípio da insignificância.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 319/322).
+É o relatório. Decido.
+De início, no que tange à pretendida aplicação do princípio da insignificância, cumpre registrar que o tema não foi debatido no aresto recorrido carecendo, portanto, do necessário prequestionamento, o que atrai a aplicação da vedação sumular n. 282 e 356/STF.
+De outro lado, tomando-se em conta a afirmação na sentença condenatória, confirmada pelo acórdão recorrido, de que "o crime foi praticado mediante violência, tendo os agentes empurrado a vítima para assegurar a posse do objeto" (e-STJ fl. 180), tem-se que o acolhimento da pretensão recursal de absolvição, bem como de desclassificação para furto tentado, demandaria amplo revolvimento do acervo fático-probatório dos autos, providência vedada, nesta via, consoante preconiza a Súmula n. 7 desta Corte.
+Com efeito, lastreada a condenação nos elementos probatórios colhidos sob o crivo do contraditório, não é possível revê-los em recurso especial, não sendo o caso, aqui, de revaloração da prova, como pretende fazer crer o recorrente.
+A propósito:
+PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PLEITO DE ABSOLVIÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE (SÚMULA 7/STJ).
+1. A análise das questões trazidas pelo agravante demandaria o reexame de matéria fático-probatória, o que é obstado, em âmbito especial, pela Súmula 7/STJ.
+2. Agravo regimental improvido (AgRg no AREsp 602.065/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/03/2015, DJe 12/03/2015).
+Por fim, não merece reparos o aresto recorrido que se alinha à orientação jurisprudencial firmada pela Terceira Seção desta Corte, por ocasião do julgamento do Recurso Especial Repetitivo n. 1.499.050/RJ, no sentido de que o crime de roubo se consuma "com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada" (rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 9/11/2015).
+Ante o exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se. Intimem-se.
