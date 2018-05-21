@@ -1,0 +1,54 @@
+EMENTA
+PENAL. RECURSO ESPECIAL. ROUBO MAJORADO. DOSIMETRIA. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. HABEAS CORPUS UTILIZADO COMO PARADIGMA. IMPRESTABILIDADE À COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL. VIOLAÇÃO A ENUNCIADO DE SÚMULA. VERIFICAÇÃO. IMPOSSIBILIDADE. VEDAÇÃO EXPRESSA CONTIDA NA SÚMULA N. 518/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o v. acórdão prolatado pelo eg. Tribunal de Justiçado Estado do Rio Grande do Sul.
+Consta dos autos que o MM Juízo de primeiro grau condenou o ora recorrente como incurso nas sanções do art. 157, § 2º, incisos I e II, c.c. os arts. 61, incisos I e II, e 65, inciso III, d, todos do Código Penal, à pena de 09 (nove) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, mais 50 dias-multa (fls. 113-116).
+Interpostos recursos de apelação criminal pela acusação e pela Defesa, o eg. Tribunal de origem, em decisão unânime, negou provimento ao recurso ministerial, mas deu parcial provimento ao apelo defensivo, para reduzir a reprimenda corporal para 09 (nove) anos, 03 (três) meses e 11 (onze) dias de reclusão, mantido o regime inicial fechado, mais 20 dias-multa (fls. 172-196). Eis a ementa do acórdão:
+"APELAÇÃO CRIME. CRIMES CONTRA O PATRIMÔNIO. ROUBO DUPLAMENTE MAJORADO. AUSÊNCIA DE IRRESIGNAÇÃO DEFENSIVA QUANTO À MATERIALIDADE E à AUTORIA DO DELITO. INSURGÊNCIAS LIMITADAS AO REDIMENSIONAMENTO DOS APENAMENTOS. DOSIMETRIA. CULPABILIDADE. ANTECEDENTES. PERSONALIDADE. TISNADAS.
+A moduladora da culpabilidade, prevista no artigo 59 do Diploma Material, configura elemento de mensuração da reprimenda, cuja análise deve passar pela avaliação do grau de censura do comportamento, à vista da realidade fática estampada nos autos.
+Em concreto, o grau de censurabilidade da conduta típica desbordou do ordinário, razão porque preservado o tisne.
+O condenado registra sentença definitiva por fato anterior ao presente, situação que permite a adição de nota negativa à vetorial dos antecedentes.
+A moduladora da personalidade representa a síntese das qualidades morais e sociais do réu, devendo-se verificar sua boa ou má índole, sua maior ou menor sensibilidade ético-social e, ainda, a presença ou não de eventuais desvios de caráter, tudo no sentido de identificar se a prática criminosa constituiu episódio aleatório ou renitência antissocial na vida do acusado. A certidão de antecedentes aponta a existência de condenações anteriores e posteriores, o que denota personalidade voltada à criminalidade.
+CIRCUNSTÂNCIAS DO CRIME. APONTE DESFAVORÁVEL AFASTADO.
+A verificação desta balizadora passa por questões de tempo, local e modo de execução do crime, sendo cabível, ainda, a constatação de aspectos exteriores ao fato. Justificativa singular que não descreve situação que extrapole o ordinário.
+maus antecedentes e reincidência.
+Quando o condenado apresentar mais de uma condenação definitiva, é possível a consideração de um dos registros na fixação da pena-base como maus antecedentes, e do(s) outro(s), na segunda etapa dosimétrica, para agravar a pena a título de reincidência, sem que a operação configure mácula à vedação ao bis in idem. Entendimento consolidado no âmbito das Cortes Superiores.
+AGRAVANTE PELA DISSIMULAÇÃO.
+A agravante pela dissimulação visa recrudescer a censura penal que recai sobre a conduta do agente que se utiliza de cilada ou de tocaia para envolver a vítima do ilícito, colocando-a em situação de desvantagem que impossibilita se defenda eficazmente (artigo 61, inciso II, alínea "c", do Código Penal).
+DUAS CAUSAS DE AUMENTO RECONHECIDAS. FRAÇÃO DE MAJORAÇÃO. REDIMENSIONAMENTO.
+Reconhecidas duas causas de aumento de pena na terceira fase dosimétrica, necessária e suficiente a fração de 3/8 para exasperação das corporais. Privativas de liberdade redefinidas.
+MULTA. REDUÇÃO. POSSIBILIDADE.
+A fixação da pecuniária cumulativa deve observar duas fases distintas. Na primeira, arbitra-se o montante de dias-multa embasado na avaliação das vetoriais do artigo 59 do Código Penal, atendendo-se aos quantitativos delimitados no artigo 49 do referido Diploma (mínimo de 10 e máximo de 360 dias-multa). Já na segunda etapa, cumpre dosar o valor de cada dia-multa, atividade balizada pela situação econômica do réu, conforme preconiza o regramento inserto no artigo 60 do Código Penal.
+OFENSA AO PRINCÍPIO DA INTRANSCENDÊNCIA. INOCORRÊNCIA.
+A multa, porque disposta no preceito secundário da norma incriminadora na qual incidiu o agente, não dá margem ao acolhimento do pedido de isenção embasado na precariedade de sua situação econômica. Seu pagamento é dirigido exclusivamente ao acusado, não havendo determinação quanto à transmissão da obrigação a terceiro e ofensa ao princípio da intranscendência (artigo 5º, inciso XLV, da Constituição Federal de 1988).
+REDIMENSIONAMENTO.
+Em razão do parcial provimento ao recurso defensivo, as penas cominadas na sentença foram alteradas para 9 (nove) anos, 3 (três) meses e 11 (onze) dias de reclusão, no regime fechado, e de 20 (vinte) dias-multa, à razão unitária de 1/30 (um trigésimo) do salário mínimo da época do fato, corrigida quando do efetivo pagamento, mantidas as demais cominações do decisum.
+APELO DEFENSIVO PARCIALMENTE PROVIDO. RECURSO MINISTERIAL DESPROVIDO."
+Nas razões do recurso especial, interposto com fulcro na alínea "a" do permissivo constitucional, a parte recorrente sustenta a ocorrência de dissídio jurisprudencial, bem como a ocorrência de violação a Súmula n. 443/STJ, e ao art. 157, § 2º, do Código Penal. Para tanto, argumenta que:
+a) há violação a Súmula n. 443/STJ, pois " ..  a fixação da pena acima do mínimo de um terço ante a incidência de majorantes, quiçá no montante de 3/8, deve ser sempre bem fundamentada e a análise deve ser qualitativa em vez de quantitativa, sob pena de se admitir a aplicação da pena objetivamente, sem individualização" (fl. 206).
+b) houve dissídio jurisprudencial em relação ao HC n. 376.923/SP, ao argumento de que o acórdão recorrido " ..  diverge do parâmetro objetivo adotado por este Superior Tribunal de Justiça, conforme se verifica do teor do voto proferido pelo Excelentíssimo Ministro Sebastião Reis Júnior no julgamento do AgRg no HC nº 376.923/SP" (fl. 210).
+Apresentadas as contrarrazões (fls. 217-221), o recurso foi admitido na origem (fls. 223-231) e os autos encaminhados a este Superior Tribunal de Justiça.
+O Ministério Público Federal, em seu d. parecer, manifestou-se pelo provimento do recurso (fls. 249-255).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Inicialmente, no que concerne à alegação de ocorrência de dissídio jurisprudencial, por violação ao art. 157, § 2º, do Código Penal, ao argumento de que o acórdão recorrido " ..  diverge do parâmetro objetivo adotado por este Superior Tribunal de Justiça, conforme se verifica do teor do voto proferido pelo Excelentíssimo Ministro Sebastião Reis Júnior no julgamento do AgRg no HC nº 376.923/SP" (fl. 210), identifico que o recurso não merece acolhimento.
+Com efeito, nos termos do entendimento estabelecido nesta Corte Superior de Justiça, "não se admite como paradigma para comprovar eventual dissídio, acórdão proferido em habeas corpus, mandado de segurança, recurso ordinário em habeas corpus, recurso ordinário em mandado de segurança e conflito de competência" (AgRg no AREsp n. 807.982/MS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 26/5/2017, grifei), como se deu no presente caso, em que o recorrente utiliza como paradigma o Habeas corpus n. 376.923/SP (fl. 210).
+Nesse sentido, ilustrativamente:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. DISPOSITIVO CONSTITUCIONAL EM RECURSO ESPECIAL. NÃO CABIMENTO. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE COTEJO ANALÍTICO. TRANSCRIÇÃO DE EMENTAS. HABEAS CORPUS UTILIZADOS COMO PARADIGMAS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A demonstração do dissídio jurisprudencial deve ser realizada com cotejo analítico entre o acórdão recorrido e o acórdão paradigma, não bastando a transcrição de ementa. Ademais, acórdão decorrente de habeas corpus não é válido como paradigma para fins de comprovação do dissídio jurisprudencial.
+3. Agravo regimental desprovido." (AgRg no AREsp n. 667.807/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 5/4/2017).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. RECURSO INTERPOSTO COM FULCRO NO ART. 105, III, ALÍNEA C, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE OFENDIDO. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. PARADIGMA ORIUNDO DE JULGAMENTO EM HABEAS CORPUS. IMPRESTABILIDADE À COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. INVIABILIDADE DO APELO RARO.
+ ..
+2. Ademais, o recorrente colacionou como paradigmas julgados tidos em habeas corpus e não realizou o cotejo analítico entre os acórdãos paradigmas e o aresto impugnado, o que representa desatenção ao disposto no art. 255, § 1º, do Regimento Interno desta Corte, e corrobora a aplicação do óbice previsto na Súmula 284/STF.
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp n. 840.252/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 22/3/2017).
+Por fim, no que diz respeito à alegação de violação a Súmula n. 443/STJ, sob o argumento de que " .. a fixação da pena acima do mínimo de um terço ante a incidência de majorantes, quiçá no montante de 3/8, deve ser sempre bem fundamentada e a análise deve ser qualitativa em vez de quantitativa, sob pena de se admitir a aplicação da pena objetivamente, sem individualização" (fl. 206), de igual modo, sem razão o recorrente.
+Isso, nos termos do que dispõe o enunciado da Súmula n. 518/STJ, "para fins do art. 105, III, a, da Consituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. MONTANTE INDENIZATÓRIO. PRETENSÃO DE REDUÇÃO. SÚMULA 7/STJ. INDICAÇÃO DE OFENSA A SÚMULA. IMPOSSIBILIDADE NO APELO NOBRE. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Não cabe ao STJ apreciar a violação a verbete sumular em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante a Súmula 518 desta Corte: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+3. Agravo interno desprovido." (AgInt no AREsp n. 1.196.344/MG, Terceira Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 4/5/2018, grifei).
+Ante o exposto, com fulcro no art. 255, § 4º, I, do Regimento Interno do STJ, não conheço do recurso especial.
+[NOME]
