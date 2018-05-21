@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Paraná, que negou provimento ao recurso da defesa e manteve sentença que condenou o ora recorrente à pena de 5 anos e 4 meses de reclusão, em regime aberto, pela prática do crime previsto no art. 157, § 2º, I e II, do Código Penal.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 1º, 5º, LV, LVII e 93, IX, da Constituição. Aduz que “a Defesa tem apontado, desde o primeiro grau, a fragilidade do acervo probatório que sustenta a condenação, uma vez que nem mesmo os policiais militares que atenderam a ocorrência — únicas testemunhas da acusação, embora nada tenham testemunhado do suposto iter criminis — descrevem circunstâncias coerentes e uniformes. Ao contrário, os policiais se contradizem, tanto nas duas oportunidades em que prestaram depoimento (no inquérito e em juízo) quanto entre si”. Afirma que “o que se tem no v. acórdão recorrido, enfim, é fundamentação genérica, aplicável a qualquer outra causa, que não examina os elementos de prova do caso concreto e fere de morte o contraditório”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660).
+    A parte recorrente se limita a postulara análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual (Súmula 279/STF). Quanto à necessidade de reavaliação dos fatos subjacentes, confira-se o seguinte trecho do voto condutor do acórdão recorrido:
+    “[...]
+    As preliminares arguidas pela combativa defesa não merecem agasalho.
+    Por primeiro, afigura-se que a ilustre Magistrada sentenciante, ao prolatar o novo édito condenatório, debruçou-se sobre todas as teses defensivas, ainda que em termos espartanos, notadamente aquelas preliminares que haviam sido ignoradas na sentença anulada.
+    Tampouco na abordagem do mérito tal decisório deixou qualquer lacuna. Isto porque “O julgador não está obrigado a refutar expressamente todas as teses aventadas pela defesa, desde que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões deduzidas. Precedentes” (Superior Tribunal de Justiça HC 305849/RJ Rel. Ministro Jorge Mussi Quinta Turma j. 03/03/2015 publicação: Dje11/03/2015).
+    […]
+    No caso vertente, o acervo probatório fornece lastro suficiente para do desfecho condenatório em desfavor de ambos os acusados, ora recorrentes.
+    A materialidade restou bem demonstrada por intermédio do auto de prisão em flagrante delito (fls.02/11), do boletim de ocorrência (fls. 13/17), do auto de exibição,apreensão e entrega (fls. 18/19) e da prova oral colhida. Ressalte-se que a ausência de exame de corpo de delito da vítima, acerca de supostos vestígios da violência sofrida ao término da rapina, não fragiliza o contingente probatório no âmbito da materialidade, tendo em vista que o crime patrimonial também foi perpetrado mediante vis compulsiva. E a autoria dos denunciados é induvidosa.
+    […]
+    Como reforço, os testemunhos prestados sob o crivo do contraditório pelos milicianos Jean e Danilo, os quais relataram que, logo depois de terem recebido da vítima a descrição dos agentes do delito, avistaram três indivíduos que correram para o interior ao notarem a aproximação policial; ato contínuo, estes policiais detiveram os três suspeitos no interior da residência e, no quintal desta,localizaram a motocicleta roubada; destacaram que a vítima reconheceu dois destes averiguados como sendo os autores do roubo (fls. 101 e 102).
+    E o restante da prova testemunhal não guardou convergência suficiente para respaldar as negativas dos acusados (fls. 99, 100, 118 e 119).
+    De rigor, pois, o deslinde condenatório.
+    [...]”
+    Ademais, é entendimento do STF que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 21 de maio de 2018.
+Ministro Luís Roberto Barroso
+Relator
