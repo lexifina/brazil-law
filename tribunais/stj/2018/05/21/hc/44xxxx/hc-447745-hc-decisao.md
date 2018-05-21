@@ -1,0 +1,5 @@
+DECISÃO
+Por meio da petição de fls. 45-48, o impetrante requer a juntada de diversos documentos que, em sua compreensão, estariam procrastinando o andamento do feito, ocasião em que reitera os pedidos formulados na petição inicial do habeas corpus.
+No entanto, entendo que não há nada a prover, porquanto o requerente (advogado) novamente deixou de trazer aos autos cópia do decreto de prisão preventiva e certidão atualizada de objeto e pé da ação penal, de maneira que, por ausência de prova pré-constituída das alegações e de documentação suficiente, deve ser mantido o indeferimento liminar deste habeas corpus.
+À vista do exposto, indefiro o pedido formulado na petição de fls. 45-48 e, por conseguinte, mantenho o indeferimento liminar deste habeas corpus, não sem lamentar a falta de cooperação da parte (no caso, representado por advogado particular) quanto à economia processual que há de nortear a atuação de todos os sujeitos processuais, máxime em um quadro de hiperjudicialização dos conflitos, a abarrotar os escaninhos (físicos ou eletrônicos) dos tribunais.
+Publique-se e intimem-se.
