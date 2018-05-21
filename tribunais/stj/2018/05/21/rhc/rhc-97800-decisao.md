@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas.
+Os autos dão conta de que o recorrente foi preso em flagrante, em 18/4/2017, pela suposta prática dos crimes de tráfico de entorpecentes e associação para o tráfico, pois apreendida em seu poder 1,3kg (um quilo e trezentos gramas) de maconha (e-STJ fls. 8/17). Posteriormente, converteu-se a custódia em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante a Corte estadual, que denegou a ordem (e-STJ fls. 108/112).
+No presente reclamo, a defesa sustenta que a custódia cautelar foi decretada com base em fundamentos abstratos. Acentua, também, tratar-se de acusado primário, além de pequena a quantidade de entorpecente apreendido (e-STJ fls. 120/124).
+Parecer ministerial pelo desprovimento do recurso (e-STJ fls. 141/144).
+É o relatório.
+Em consulta à página eletrônica do Tribunal de Justiça do Estado de de Alagoas, verifica-se que o recorrente, em 24 de novembro de 2017, foi beneficiado com o relaxamento de sua prisão, por decisão de seguintes termos:
+Com efeito, compulsando os autos, verifico que o denunciado encontra-se preso cautelarmente desde a data de 11 de abril de 2017, ocasião em que fora preso em flagrante.
+Assim, transcorridos aproximadamente 07(sete) meses de seu encarceramento cautelar, no entanto, devido ao abarrotamento da pauta, só haverá vaga para inclusão do presente processo em maio de 2017, onde terão decorridos 13 (treze) meses, patente a ilegalidade na prisão do denunciado. Deste modo, não tendo a Defesa do denunciado contribuído para a mora processual e não restando outros requisitos que robustecessem a necessidade do encarceramento cautelar deste, a soltura da mesma é medida que se impõe. ssim, considerando que haverá concreto prejuízo ao denunciado, que se encontra recolhida no sistema penitenciário desde a data do suposto delito, impõe-se relaxar a prisão mantida nos presentes autos.À vista do exposto,RELAXO A PRISÃO DE [NOME] com fulcro no artigo 5º, LXV da Constituição Federal, e no artigo 46 do Código de Processo Penal, devendo ser confeccionado alvará de soltura, com a ressalva de que o réu não deverá ser postos em liberdade se por outro motivo estiver preso.Demais providências necessárias
+Nessas circunstâncias, havendo a superveniência de decisão judicial concedendo ao ora recorrente a liberdade, o presente recurso perdeu seu objeto.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
