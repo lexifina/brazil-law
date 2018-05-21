@@ -1,0 +1,45 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. PLEITO DE RECEBIMENTO DA DENÚNCIA. JUSTA CAUSA PARA A AÇÃO PENAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, ementado verbis (fls. 363/364):
+"RECURSO EM SENTIDO ESTRITO. DUPLA TENTATIVA DE HOMICÍDIO. DECISÃO QUE REJEITOU A DENÚNCIA. AUSÊNCIA DE ANIMUS NECANDI. A IMPUTAÇÃO PENAL DESTITUÍDA DE BASE EMPÍRICA IDÔNEA. FALTA DE JUSTA CAUSA. PRISÃO PREVENTIVA. INSURGÊNCIA MINISTERIAL.
+1. Acusado que, movido por ciúmes, teria agredido sua companheira e efetuado disparos de arma de fogo contra o ex -marido daquela. Após a agressão, o réu teria socorrido o ofendido, levando-o para o hospital.
+2. Denúncia que, ao narrar o fato, omite a circunstância de que o réu, policial civil, profissional na prática de tiro, efetuou disparos de arma de fogo, à curta distância, mirando os membros inferiores da vítima (tornozelo, perna e nádega); e, logo após tê -la derrubado no chão, prestou a ela imediato socorro, voluntariamente. Frente aos elementos indiciários, não se mostra plausível sustentar a alegação de que o réu agiu com dolo de matar as vítimas, mas não consumou seu intento por circunstâncias alheias a sua vontade. A única versão razoável é a de que o réu possuía os meios necessários para matar as vítimas, no entanto, escolheu apenas lesioná-Ias; pois, em que pese tenha feito o uso de arma de fogo, mirou em regiões não vitais, com pontaria acurada e sem esgotar a munição, tendo prestado o devido socorro logo após.
+3. Caso em que a imputação está dissociada do material probatório que lhe serve de suporte, impondo-se a rejeição da denúncia por falta de justa causa. Impossibilidade desclassificação para recebimento da denúncia. Hipótese em que a desclassificação implicaria em inadmissível aditamento, pelo juízo, de fato não constante da imputação formulada pelo Ministério Público.Orientação jurídica estabelecida em precedente do Supremo Tribunal Federal (HC 84653, Rel. Min. Sepúlveda Pertence, Primeira Turma, j. 2.8.2005 e p. 14.10.2005). Ressalva de que a rejeição da denúncia, motivada pela ausência de correlação entre a imputação e os elementos informativos do inquérito policial, não impede o Ministério Público de eventualmente insistir na acusação de homicídio tentado, desde que apresente novos elementos de informação ou, ao menos, descrição do fato de maneira idônea, com reinterpretação plausível dos elementos já existentes.
+4. Ausência de motivos para se justificar a prisão preventiva do acusado, uma vez que não preenchidos os requisitos do art. 312 do Código de Processo Penal. Aplicação de medidas cautelares já apreciadas por esta Câmara no julgamento do Habeas Corpus nº [CPF].
+Razões inalteradas.
+RECURSO DESPROVIDO. UNÂNIME".
+Em seu recurso especial, às fls. 391/403, sustentou o recorrente afronta aos artigos 395, inciso III, do Código de Processo Penal e 121, § 2º, incisos I, IV e VI, e 14, inciso II, ambos do Código Penal, sob o argumento de que é de rigor o recebimento da denúncia eis que presente a justa causa para a ação penal.
+Ressaltou que "não é possível, nesta fase de recebimento da inicial acusatória, afastar a existência do animus necandi, sendo as imputações de tentativa de homicídio qualificado juridicamente plausíveis" (fl. 399).
+Destacou que "a denúncia cumpriu todos os requisitos do artigo 41 do Código de Processo Penal, inclusive em relação às circunstâncias alheias à vontade do réu que impediram a consumação dos delitos, sendo desnecessária, por óbvio, a narrativa das teses defensivas (..)" (fl. 399).
+O Tribunal de origem, entretanto, negou seguimento ao recurso, às fls. 443/452, ante a incidência da Súmula nº 7 do Superior Tribunal de Justiça.
+Em seu agravo, às fls. 457/465, assevera o recorrente que não incide o óbice da Súmula nº 7 do Superior Tribunal de Justiça, pois não pretende o reexame de fatos e provas, mas apenas a sua revaloração.
+O Ministério Público Federal manifestou-se às fls. 512/517, pelo não provimento do agravo em recurso especial, verbis (fl. 512):
+
+"AGRAVO EM RECURSO ESPECIAL. DUPLA TENTATIVA DE HOMICÍDIO QUALIFICADO. REJEIÇÃO DA DENÚNCIA POR AUSÊNCIA DE JUSTA CAUSA. INEXISTÊNCIA DE INDÍCIOS MÍNIMOS DO ANIMUS NECANDI. PRETENSÃO DE RECEBIMENTO DA DENÚNCIA QUE DEMANDA INVIÁVEL REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 07/STJ. DESPROVIMENTO DO RECURSO".
+É o relatório.
+A insurgência não merece prosperar.
+No que tange à aventada afronta aos artigos 395, inciso III, do Código de Processo Penal e 121, § 2º, incisos I, IV e VI, e 14, inciso II, ambos do Código Penal, verifica-se que o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, manteve a decisão do juízo de primeiro grau que rejeitou a denúncia, por ausência de justa causa, por entender que "não há correlação entre o fato imputado na denúncia e o conteúdo probatório que lhe serve de suporte". Destacou o Tribunal de Justiça do Estado do Rio Grande do Sul que "Nada do material probatório sustenta a versão de que o réu agiu com o dolo de matar e só não consumou seu intento por circunstâncias alheias à sua vontade" (fls. 380/381).
+Desse modo, parece claro que alterar o entendimento manifestado no acórdão recorrido somente seria possível a partir da incursão no arcabouço fático e probatório, procedimento incabível nas vias excepcionais.
+Nesse contexto, verifica-se não possuir esta senda eleita espaço para a análise das matérias suscitadas pelos recorrentes, cuja missão pacificadora restara exaurida pelas instâncias anteriores.
+De fato, para se chegar a conclusão diversa da que chegou o Tribunal de origem, seria inevitável o revolvimento do arcabouço carreado aos autos, procedimento sabidamente inviável na instância especial.
+Com efeito, não se mostra plausível nova análise do contexto probatório por parte desta Corte Superior, a qual não pode ser considerada uma terceira instância recursal. No mais, referida vedação encontra respaldo no enunciado n. 7 da Súmula desta Corte, verbis: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+ Confiram-se, nesse sentido, os precedentes da Corte:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. PECULATO. INÉPCIA DA DENÚNCIA. DECISÃO AGRAVADA. FUNDAMENTO INATACADO. SÚMULA 182/STJ. FALTA DE JUSTA CAUSA. VERIFICAÇÃO. INVIABILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. (..)
+2. A verificação da existência de justa causa para propositura da ação penal demandaria reexame de matéria fático-probatória, vedado pela Súmula 7/STJ.
+3. Agravo regimental improvido".
+(AgRg no REsp 1.303.990/PB, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, Julgado em 04/08/2015, DJe 20/08/2015).
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL. CRIME DE TRÂNSITO. DIRIGIR SOB INFLUÊNCIA DE ÁLCOOL. REJEIÇÃO DA DENÚNCIA. [NOME]. IMPOSSIBILIDADE DE SE AFERIR A REAL QUANTIDADE INGERIDA PELO CONDUTOR. RESP INADMITIDO. ARESP NÃO PROVIDO. PLEITO DO MINISTÉRIO PÚBLICO PARA O RECEBIMENTO DA PEÇA ACUSATÓRIA. NECESSIDADE DE REVOLVIMENTO DO ACERVO PROBATÓRIO PARA REFORMA DO ACÓRDÃO RECORRIDO. ÓBICE DA SÚMULA 7/STJ.
+1. A desconstituição do entendimento firmado pelo Tribunal de piso diante de suposta contrariedade à lei federal, buscando o recebimento da peça acusatória diante da presença de elementos que justificariam a persecução penal, não encontra campo na via eleita, dada a necessidade de revolvimento do material probante, procedimento de análise exclusivo das instâncias ordinárias - soberanas no exame do conjunto fático-probatório -, e vedado ao Superior Tribunal de Justiça, a teor da Súmula 7/STJ.
+(..)
+3. Agravo regimental não provido".
+(AgRg no AREsp 401.766/PI, Rel. Ministro JORGE MUSSI, QUINTA TURMA, Julgado em 19/08/2014, DJe 27/08/2014).
+"PENAL E PROCESSO PENAL. CRIME AMBIENTAL. HABEAS CORPUS CONCEDIDO NA ORIGEM, PARA TRANCAR A AÇÃO PENAL. INÉPCIA DA DENÚNCIA E FALTA DE JUSTA CAUSA. RECURSO ESPECIAL INTERPOSTO PELO MINISTÉRIO PÚBLICO FEDERAL. INTERESSE RECURSAL. CASO. SÚMULA N. 7/STJ. APLICAÇÃO.
+(..)
+- O Tribunal de origem, com base nas provas dos autos, decidiu pela ausência de justa causa para a ação penal - inexistência de lastro probatório mínimo que indicasse a participação do recorrido no suposto fato delituoso. Para se chegar a conclusão diversa, seria inevitável uma nova análise do contexto probatório, procedimento inviável na instância especial (Súmula n. 7/STJ).
+- Recurso Especial não conhecido".
+(REsp 1.272.605/RJ, Rel. Ministra MARILZA MAYNARD (DESEMBARGADORA CONVOCADA DO TJ/SE), SEXTA TURMA, Julgado em 17/12/2013, DJe 04/08/2014).
+Ante o exposto, com fundamento no artigo 253, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intime-se.
