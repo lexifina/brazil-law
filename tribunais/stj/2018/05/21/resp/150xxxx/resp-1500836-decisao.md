@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial manejado por [NOME] com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 117):
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA. REAJUSTE DE 28,86%. APURAÇÃO DO QUANTUM DEBEATUR. REAJUSTE DE 3,17%. LANÇAMENTO NA BASE DE CÁLCULO. IMPOSSIBILIDADE. PREQUESTIONAMENTO.
+1. Referindo-se a execução "apenas ao percentual de 28,86%, é incabível o lançamento na base de cálculo para apuração do quantum debeatur o reajuste de 3,17%, consoante demonstração efetivada pela Contadoria Judicial.
+2. Mantida a decisão judicial que acolheu a impugnação ao cálculo, pois as razões recursais não infirmam os fundamentos adotados para decidir.
+3. Prequestionamento quanto à legislação invocada estabelecido pelas razões de decidir.
+4. Agravo de instrumento improvido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73 (fls. 122/126).
+A parte recorrente aponta violação aos arts. 458, II, 535, II do CPC/32; 1º e 2º, §1º da MP nº 1.704/98; 8º da MP nº 2.225/2001; 8º da MP nº 1.962/2000. Sustenta, além de negativa de prestação jurisdicional e dissídio jurisprudencial, que houve reconhecimento administrativo do direito à incidência das vantagens de 3,17% sobre o padrão de vencimentos já reajustados em 28,86%, por meio da Nota Técnica nº 07/2003, da Secretaria de Recursos Humanos do Ministério do Planejamento, Orçamento e Gestão (SRH/MPO).
+Reforça que "a própria Administração previu expressamente que "O percentual de 3,17% será aplicado após o cálculo da integralização dos 28,86%"" (fl. 140).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A irresignação não comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 458, II e 535, II do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+De outro lado, verifica-se que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, a "impertinência do debate acerca do índice de 3,17% nestes autos, qual seja, o fato de que o reconhecimento judicial sobre a necessidade de pagamento do mencionado índice deu-se em outra demanda e não nesta" (fl. 123).
+O conhecimento da irresignação esbarra, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ademais, o recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional. Isso porque o dissídio jurisprudencial não foi comprovado na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
