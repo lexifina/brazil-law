@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo manejado pela Fazenda do Estado de São Paulo contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 15):
+AGRAVO DE INSTRUMENTO Inconformismo com a decisão que indeferiu a impugnação à execução - Não se trata de decisão abusiva ou teratológica - Livre convencimento motivado do juiz - Recurso não provido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015 (fls. 39/43). .
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 524 e 798, I do CPC/2015. Sustenta a nulidade da execução, sob o argumento de que "o Recorrido, ao promover a execução, apresentou memória de cálculo do suposto crédito às fls. embasada em valores apresentados por ele próprio, sem qualquer comprovação, já que não existia informação administrativa contendo os valores em que deveria se amparar a elaboração dos cálculos" (fl. 23).
+Assim, afirma que "os informes oficiais são necessários para o correto cálculo do valor devido, inclusive, para que se saiba informações relevantes para o cálculo do débito, como eventuais licenças não remuneradas pelo Recorrido" (fl. 24).
+É o relatório.
+A irresignação não comporta acolhida.
+Com efeito, extrai-se do aresto recorrido as seguintes razões (fls. 16/18):
+Trata-se, como se vê, de agravo de instrumento interposto contra decisão que, em execução, na qual restou a Fazenda Estadual condenada no pagamento de licença gestante, indeferiu a nulidade da execução, sob o fundamento da desnecessidade dos informes para a elaboração dos cálculos.
+O agravo não prospera.
+No presente caso, estamos adstritos à delimitação do objeto pretendido, qual seja, a presença ou não dos pressupostos para a concessão da medida liminar, sem qualquer análise do mérito.
+Com efeito, a concessão de medida liminar é ato de livre convencimento do juiz e se insere em seu poder de cautela.
+Assim, somente se "claramente evidenciada" a ilegalidade da decisão interlocutória que indeferiu a medida liminar ou eventual desvio de finalidade, ou mesmo abuso de poder do juiz e isso, à evidência, de modo irrefutável é que caberia a substituição do juízo valorativo do juízo monocrático pela instância recursal.
+Bem por isso, salvo hipóteses de ilegalidade ou arbítrio manifestas ou de decisões de cunho teratológico, e para a salvaguarda de direitos individuais ou coletivos, líquidos e certos, não cabe ao Tribunal ad quem a substituição do juízo e da convicção do magistrado.
+Na hipótese, sob um juízo de cognição sumária, de fato, verifica-se que o Juízo "a quo" indeferiu a impugnação à execução por entender a desnecessidade dos informes para a elaboração dos cálculos e, se entender incorretos, cabe à Agravante impugná-los de forma a demonstrar qual seria o valor que entende correto.
+Diante desse contexto, considerando que a matéria debatida ainda é controvertida, o que se pode retirar dos próprios argumentos deduzidos nos autos pela agravante e estando, o despacho monocrático, devidamente fundamentado e ao abrigo da lógica e da razoabilidade, não cabe a essa instância recursal suprir o convencimento do Juiz a quo.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Em reforço:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISIONAL DE CONTRATO. CONCESSÃO DE LIMINAR PARA CONSIGNAÇÃO DO PAGAMENTO E SUSPENSÃO DA EXIGIBILIDADE DO CONTRATO E DA INSCRIÇÃO EM CADASTRO RESTRITIVO DE CRÉDITO. MÉRITO NÃO APRECIADO. SÚMULA 735/STF. REVISÃO DA MOTIVAÇÃO DA DECISÃO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Devido à precariedade da decisão liminar que decide pedido de concessão de tutela de urgência, passível de reversão a qualquer tempo pelas instâncias ordinárias, em regra, é incabível o recurso especial dela advindo, porque faltante o pressuposto constitucional do esgotamento de instância, conforme a Súmula 735/STF.
+2. Admissível, contudo, recurso especial destinado à verificação do preenchimento dos requisitos para a concessão de liminar quando desnecessário o reexame de matéria fático-probatória, óbice recursal da Súmula 7/STJ.
+3. Caso concreto no qual a modificação da decisão agravada - que, ante o não reconhecimento da plausibilidade do direito invocado, indeferiu a tutela de urgência voltada à consignação em pagamento, suspensão da exigibilidade do contrato e da inscrição em cadastro restritivo de crédito - exigiria a revisão de premissas fático-probatórias nas quais foi assentada, atraindo a incidência da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1178039/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/03/2018, DJe 02/04/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. DECISÃO SINGULAR DO RELATOR. ARTIGO 557 DO CÓDIGO DE PROCESSO CIVIL DE 1973. JULGAMENTO PELO COLEGIADO. RECURSO ESPECIAL CONTRA ACÓRDÃO QUE DEFERE OU INDEFERE LIMINAR. NECESSIDADE DE REEXAME DE ELEMENTOS PROBATÓRIOS. DESCABIMENTO. SÚMULAS 7/STJ E 735/STF.
+1. No que se refere à alegada afronta ao disposto no art. 535 do CPC/1973, verifico que o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. A jurisprudência do Superior Tribunal de Justiça orienta que eventual nulidade na decisão singular do relator, proferida com fulcro no art. 557 do CPC, fica superada com a reapreciação da matéria, na via do Agravo Interno, pelo órgão colegiado.
+3. É sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas mediante cognição sumária e avaliação de verossimilhança. Logo, por não representarem pronunciamento definitivo a respeito do direito reclamado na demanda, são medidas suscetíveis de modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza instável de decisão desse jaez, o STF sumulou entendimento segundo o qual "não cabe recurso extraordinário contra acórdão que defere medida liminar" (Súmula 735 do STF).
+4. Portanto, o juízo de valor precário, emitido na concessão de medida liminar, não tem o condão de ensejar a violação da legislação federal, o que implica o não cabimento do Recurso Especial, nos termos da Súmula 735/STF.
+5. E ainda, é assente no STJ que, para análise dos critérios adotados pela instância ordinária que ensejaram a concessão ou não da liminar ou da antecipação dos efeitos da tutela, é imprescindível o reexame dos elementos probatórios a fim de aferir a "prova inequívoca que convença da verossimilhança da alegação", o que não é possível em Recurso Especial, dado o óbice da Súmula 7/STJ.
+6. Recurso Especial não conhecido.
+(REsp 1694662/MA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2017, DJe 19/12/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ANTECIPAÇÃO DE TUTELA. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS Nº 7/STJ E Nº 735/STF.
+1. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+2. Rever as conclusões do tribunal recorrido demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+(AgRg no AREsp 573.120/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/02/2015, DJe 09/02/2015)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
