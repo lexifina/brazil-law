@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Os autos dão conta de que o recorrente foi preso preventivamente, em 15/6/2017, pela suposta prática dos crimes de tráfico de drogas.
+A defesa alega ilegalidade da prisão por não ter sido o recorrente acompanhado por advogado na ocasião do flagrante, bem como por não ter sido apresentado em audiência de custódia. Refere que não há prova que vincule o recorrente à droga apreendida. Defende não estarem preenchidos os requisitos autorizadores da prisão. Requer, liminarmente, a revogação da prisão.
+No entanto, a Corte de origem denegou a ordem, nos termos do acórdão de e-STJ fls. 133/142.
+No presente reclamo, a defesa reafirma as alegações originárias, razão por que requer a revogação da custódia cautelar (e-STJ fls. 157/164).
+Parecer ministerial pela prejudicialidade do recurso (e-STJ fl. 187).
+É, em síntese, o relatório.
+Em consulta à página eletrônica do Tribunal de Justiça do Estado do Rio Grande do Sul, verifica-se que o recorrente, em 28 de setembro de 2017, foi beneficiado com a concessão da liberdade provisória, por decisão de seguintes termos:
+ ..  a denúncia imputa ao réu [NOME] apenas o delito de tráfico, não havendo indicação de envolvimento no delito de roubo, este imputado apenas ao acusado Mateus, que se encontra em liberdade, eis que o flagrante se deu por receptação. Ao exame dos antecedentes do acusado [NOME] não se verifica reiteração criminosa que leve a necessidade imperiosa de manter a segregação. Por outro lado, a presente audiência acabou se frustrando pela não apresentação de [NOME]. Acresça-se ainda a preocupante elevação na população carcerária, estando ambas as casas prisionais desta cidade em situação de superlotação, o que recomenda que se utilize a ferramenta da segregação cautelar nas situações em que ela é necessária. Por essas razões, notadamente pela inviabilidade de dar início a instrução nesta data, vai acolhido o pleito defensivo e concedida a liberdade ao acusado [NOME], devendo o mesmo comparecer em Juízo bimestralmente para atualizar endereço e comprovar atividade lícita. Expeça-se alvará de soltura. Fica designado o dia 06 de novembro de 2018 às 14h15min para audiência de instrução e julgamento.
+Nessas circunstâncias, havendo a superveniência de decisão judicial concedendo ao ora recorrente o benefício da liberdade provisória, o presente recurso - que objetivava, justamente, a liberdade do recorrente - perdeu seu objeto.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
