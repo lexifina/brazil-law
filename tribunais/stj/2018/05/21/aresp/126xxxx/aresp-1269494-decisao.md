@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que negou seguimento ao recurso especial por incidência da Súmula 7/STJ.
+Nas razões do especial, com fundamento no art. 105, III, a, da Constituição Federal, alega a defesa violação dos arts. 418 e 419, ambos do Código de Processo Penal.
+Requer a desclassificação da conduta do recorrente para lesão corporal e, ainda, o decote das qualificadoras do motivo fútil e da emboscada.
+Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+É o relatório.
+Decido.
+Consta dos autos que o recorrente foi pronunciado pela prática do delito insculpido no art. 121, § 2º, II e IV, c/c art. 14, II, ambos do Código Penal.
+O Tribunal de origem manteve a decisão de pronúncia pelos seguintes fundamentos (fls. 229/236, grifei):
+Como se depreende da análise do dispositivo supra mencionado, para a decisão de pronúncia, faz-se necessário um suporte probatório mais robusto e consistente que o necessário para o recebimento da denúncia, o que, todavia, não é equivalente ao conjunto probatório que se exige para a sentença condenatória.
+Analisando as provas dos autos, constata-se restar comprovada a materialidade do crime imputado na denúncia conforme Auto de Exame Corpo de Delito de fl.12, que a vítima sofreu ofensa à integridade corporal, por meio de arma de fogo, resultando em perigo à vida.
+O Recorrente, perante a autoridade policial, às fls. 13/14, declarou que:
+ ..
+A vítima, em Juízo, ratificou as declarações prestadas na fase inquisitorial, conforme Ata de Audiência de Instrução e Julgamento, fls.105/111, DVD com gravação áudio/vídeo acostado à contracapa dos autos, arquivo: Untitle 1135.
+Em Juízo o Recorrente declarou que no momento da ação em análise estava embriagado e por tal motivo não recorda dos fatos narrados na denúncia, declarando que se sentia ameaçado pela vítima e que no dia do crime não discutiu com a vítima (Ata da Audiência de Instrução e Julgamento, fls.105/111, DVD com gravação áudio/vídeo acostado à contracapa dos autos, arquivo: Untitle 1139)
+Examinando as provas dos autos, verifico que não restou comprovado, de forma inequívoca, para fins de absolvição sumária, ter agido o Recorrente em legítima defesa, não havendo prova robusta da inexistência do animus necandi, o que acarreta a competência do Tribunal Popular do Júri para analisar a efetiva ocorrência ou não do delito, e do reconhecimento ou não de excludente de ilicitude.
+A doutrina e jurisprudência pátrias firmaram o entendimento de que a absolvição sumária por legítima defesa somente poderá ocorrer quando houver prova unívoca da excludente, a demonstrá-la de forma peremptória, o que não se vislumbra no presente caso.
+Na pronúncia, não há um juízo de certeza da realização do delito, mas tão somente sérios indícios de seu cometimento, resguardando-se ao Tribunal Popular do Júri a competência constitucional para condenar ou absolver.
+Desta feita, havendo dúvida razoável, torna-se mais indicada a pronúncia do acusado, porquanto ser o Conselho de Sentença o órgão jurisdicional competente para deliberar acerca do tema.
+A não observância de tais parâmetros, eventualmente, ensejaria uma afronta à disposição constitucional que garante a competência do Tribunal do Júri para o julgamento dos crimes dolosos contra a vida, disposta no artigo 5o, inciso XXXVIII, letra "d", Constituição Federal, nos termos da jurisprudência do Superior Tribunal de Justiça, in verbis:
+ ..
+Desta forma, pelo exposto, entendo inviável a absolvição sumária do Recorrente, pois não há nos autos elementos que a autorizem, não se podendo afirmar com convicção que o mesmo tinha, ou não, a intenção de matar, decisão que caberá ao soberano Tribunal do Juri que analisará o animus necandi, verificando-se no presente caso a presença do princípio do in dúbio pro societate.
+Pelos mesmos fundamentos, da análise das provas legalmente produzidas nos autos, entendo inviável a desclassificação do delito de homicídio tentado para lesão corporal, conforme jurisprudência desta e. Corte, in verbis:
+ ..
+Quanto as qualificadoras descritas na pronúncia, entendo que somente devem ser afastadas quando manifestamente improcedentes ou descabidas, o que não se verifica nos presentes autos, sob pena de usurpação da competência do Tribunal do Júri. Nesta esteira de entendimento é a jurisprudência do Superior Tribunal de Justiça, in verbis:
+ ..
+Ademais, nos termos da jurisprudência do Superior Tribunal de Justiça, entende-se ser defeso ao Tribunal, ao examinar recurso em sentido estrito contra decisão de pronúncia, excluir uma qualificadora, valorando provas e aspectos particulares do caso, porquanto tal competência pertence exclusivamente ao Conselho de Sentença, juiz natural da causa, vejamos:
+ ..
+Assim, comprovada a materialidade e presentes os indícios de autoria, impõe-se a pronúncia do Recorrente para que o Tribunal Popular do Júri possa exercer a sua competência constitucionalmente determinada, decidindo acerca da ocorrência ou não do crime de tentativa homicídio, quanto ao reconhecimento ou não de excludente de ilicitude, bem como a ocorrência ou não das qualificadoras previstas nos inciso II e IV, do § 2o, do artigo 121, do Código Penal.
+A desclassificação da conduta do recorrente para a de lesão corporal esbarra no óbice da Súmula 7/STJ, uma vez que, tendo o Tribunal de origem, soberano na apreciação dos elementos fático-probatórios, entendido pela correta capitulação da conduta do agente, rever tal conclusão demandaria incursão a tais elementos, o que é vedado na estreita via do recurso especial. Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TENTADO. PRONÚNCIA. IDENTIDADE FÍSICA DO JUIZ. PRINCÍPIO RELATIVO. NULIDADE. INOCORRÊNCIA. AUSÊNCIA DE PREJUÍZO. LEGÍTIMA DEFESA. AUSÊNCIA DE DOLO. DESCLASSIFICAÇÃO PARA LESÃO CORPORAL LEVE. TESES QUE DEMANDAM O REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ.
+1. É entendimento assente nesta Corte de Justiça que a declaração de nulidade da sentença por inobservância do princípio da identidade física do juiz fica condicionada à existência de prejuízo concreto à defesa, visto que tal princípio não tem caráter absoluto, podendo ser relativizado nas hipóteses do art. 132 do CPC de 1973.
+2. Rever o posicionamento do Tribunal de origem quanto às teses da legítima defesa, ausência de dolo e desclassificação para lesão corporal leve, demandaria a inevitável incursão no acervo probatório dos autos, providência que se sabe inviável em razão do óbice da Súmula n. 7 do STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 1146390 / DF, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/10/2017, DJe 18/10/2017, grifei).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. DESCLASSIFICAÇÃO PARA DELITO DIVERSO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. REVALORAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO. FATOS EXPLICITAMENTE ADMITIDOS E DELINEADOS NO V. ACÓRDÃO PROFERIDO PELO EG. TRIBUNAL A QUO. POSSIBILIDADE. RESTABELECIMENTO DA DECISÃO DE PRONÚNCIA. DOLO EVENTUAL E CULPA CONSCIENTE. COMPETÊNCIA DO TRIBUNAL DO JÚRI. AGRAVO DESPROVIDO.
+ ..
+IV - "A desclassificação da infração penal de homicídio tentado qualificado para lesão corporal leve só seria admissível se nenhuma dúvida houvesse quanto à inexistência de dolo. Havendo grau de certeza razoável, isso é fator o bastante para que seja remetida ao Conselho de Sentença a matéria, sob pena de desrespeito à competência ditada pela Constituição Federal" (AgRg no AgRg no REsp n. 1.313.940/SP, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura, DJe de 30/4/2013, grifei). (Precedentes do STF e do STJ).
+V - Na espécie vertente, extrai-se das circunstâncias delineadas no v. acórdão elementos que autorizam a submissão do agravante a Júri Popular, tais como a ingestão de bebida alcoólica e a ausência de habilitação.
+Agravo Regimental desprovido.
+(AgRg no REsp 1610298 / GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/03/2017, DJe 29/03/2017, grifei).
+Ademais, esta Corte possui o entendimento de que é possível a exclusão de qualificadoras do homicídio quando estas forem manifestamente improcedentes. Todavia, tendo o Tribunal a quo analisando o acervo probatório e afastado a improcedência destas qualificadoras, rever tal entendimento demandaria necessária incursão ao conjunto fático-probatório, circunstância que também atrai o óbice da Súmula 7/STJ.
+Confiram-se os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. INDÍCIOS DE AUTORIA E MATERIALIDADE. JUÍZO DE ADMISSIBILIDADE DA ACUSAÇÃO. IN DUBIO PRO SOCIETATE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. PRETENSÃO DE IMPRONÚNCIA. DESCABIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. EXCLUSÃO DE QUALIFICADORAS. INVIABILIDADE. PRESERVAÇÃO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. PRECEDENTES. PRETENSÃO RECURSAL. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. O julgamento monocrático do agravo em recurso especial, com esteio em óbices processuais e na jurisprudência dominante do Superior Tribunal de Justiça, tem respaldo nas disposições do Código de Processo Civil e do Regimento Interno desta Corte Superior. Precedentes.
+2. As pretensões recursais, de que não haveria indícios mínimos da autoria delitiva e das qualificadoras do motivo torpe e do emprego de meio que resultou em perigo comum para embasar a pronúncia, demandariam imprescindível reexame dos elementos fático-probatórios dos autos, o que é defeso no âmbito do recurso especial, em virtude do disposto na Súmula 7 desta Corte.
+3. Agravo regimental improvido (AgRg no AREsp 1203624 / DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2018, DJe 09/04/2018, grifei).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. QUALIFICADORAS. EXCLUSÃO. IMPOSSIBILIDADE. COMPETÊNCIA DO TRIBUNAL DO JÚRI. REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA N. 7 DO STJ.
+1. A decisão de pronúncia só pode excluir qualificadora quando manifestamente improcedente, de modo que qualquer dúvida razoável sobre sua incidência deve ser dirimida pelo Conselho de Sentença. Precedentes.
+2. Para se concluir de forma diversa do entendimento do Tribunal de origem, isto é, de que as qualificadoras são manifestamente improcedentes, seria inevitável o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial, em razão do óbice da Súmula n. 7/STJ.
+3. Agravo regimental desprovido (AgRg no AREsp 1219771 / BA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/03/2018, DJe 04/04/2018, grifei).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
