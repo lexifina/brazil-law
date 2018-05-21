@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME] e outro, inconformada com a decisão que inadmitiu o recurso especial contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios e assim ementado (e-STJ Fl.497):
+"Obrigação de fazer e cobrança. Plano de saúde ambulatorial. Internação. Cobertura limitada às primeiras doze horas em casos de emergência/urgência. Licitude da cláusula contratual. Dano moral não configurado."
+Opostos embargos declaratórios, teve seu provimento negado (fls. 518/527).
+Nas razões do recurso especial, manejado pela alínea "a" do permissivo constitucional, os ora agravantes apontam afronta aos artigos 35-C da Lei 9.656/98; 51, IV e § 1ºdo Código de Defesa do Consumidor e 5º do Decreto-Lei 4.657/42 (Lei de Introdução às Normas do Direito Brasileiro). Sustentam ilegalidade da cláusula contratual que limita o tempo de internação hospitalar à 12h nos casos de urgência, nos contratos de plano de saúde, na modalidade ambulatorial. Pleteia, ainda, o reconhecimento de reparação por danos morais.
+É o relatório.
+Tendo em vista o preenchimento dos requisitos de admissibilidade e a temática recursal exigir melhor exame da controvérsia, sobretudo diante do reconhecimento da ausência de inadimplemento da parte agravada, com base no disposto no artigo 34, XVI, do RISTJ, dou provimento ao agravo para determinar sua autuação como recurso especial.
