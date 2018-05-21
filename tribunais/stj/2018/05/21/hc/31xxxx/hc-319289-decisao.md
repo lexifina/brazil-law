@@ -1,0 +1,8 @@
+DECISÃO
+JORGE ALBERTO TEIXEIRA VAZ, paciente neste habeas corpus, estaria sofrendo coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pela 1ª Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul, que conheceu parcialmente do writ e, nessa extensão, o denegou (HC n. [CPF] - CNJ n. 0496566-48.2014.8.21.7000).
+Depreende-se dos autos que o paciente foi condenado à pena de 5 anos e 9 meses de reclusão, inicialmente em regime, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, por trazer consigo "6 tabletes grandes de maconha, 4 tabletes menores da mesma substância e dinheiro (R$ 280,00)" (fl. 15), ocasião em que o magistrado entendeu que o réu deveria permanecer segregado para apelar.
+Requer a revogação da prisão preventiva decretada em desfavor do paciente, bem como seja fixado o regime semiaberto para início de cumprimento da reprimenda.
+De acordo com informações prestadas pelo Juízo da 2ª Vara Criminal da Comarca de Gravataí - RS, "por determinação do Supremo Tribunal Federal (HC n.º 135.270 MC/RS) a pena foi readequada pelo juízo da execução para 01 (um ano) e 11 (onze) meses resultando na substituição por pena restritiva de direitos" (fl. 167).
+Verifico, ainda, em consulta ao sítio eletrônico do Tribunal de origem, que, em 29/4/2015 houve a soltura do réu, com baixa definitiva dos autos em 9/11/2017, a evidenciar a prejudicialidade deste habeas corpus.
+À vista do exposto, com fundamento nos arts. 34, XX, do RISTJ, julgo prejudicado este habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
