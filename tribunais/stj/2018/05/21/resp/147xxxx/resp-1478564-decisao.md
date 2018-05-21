@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a, da CF/88, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+"PROCESSUAL CIVIL - AGRAVO LEGAL - EMBARGOS À EXECUÇÃO DE TÍTULO JUDICIAL - CONTA DE LIQUIDAÇÃO - INCIDÊNCIA DE JUROS DE MORA SOBRE OS HONORÁRIOS ADVOCATÍCIOS - POSSIBILIDADE.
+I - Os juros de mora podem ser considerados como pedido implícito e alcançam a verba honorária. Precedentes do STJ.
+II - Agravo legal improvido" (fl. 233e).
+O acórdão em questão foi objeto de Embargos de Declaração, acolhidos parcialmente, sem alteração do resultado do julgamento, nos termos seguintes:
+"EMBARGOS DE DECLARAÇÃO - ART. 535 DO CPC - OMISSÃO SANADA SEM MODIFICAÇÃO DO JULGADO - PARCIAL ACOLHIMENTO.
+1."São possíveis embargos de declaração somente se o acórdão ostentar pelo menos um dos vícios elencados no artigo 535 do Código de Processo Civil (..) sendo incabível o recurso (ainda mais com efeitos infringentes) para: a) compelir o Juiz ou Tribunal a se debruçar novamente sobre a matéria já decidida, julgando de modo diverso a causa, diante de argumentos "novos"(..);b) compelir o órgão julgador a responder a "questionários" postos pela parte sucumbente, que não aponta de concreto nenhuma obscuridade, omissão ou contradição no acórdão (..);c) fins meramente infringentes (..);d) resolver "contradição" que não seja "interna" (..)e) permitir que a parte "repise" seus próprios argumentos (..);f) prequestionamento, se o julgado não contém algum dos defeitos do artigo 535 do Código de Processo Civil, pois "..necessidade de prequestionamento não se constitui, de per si, em hipótese de cabimento dos embargos de declaração" (..)." (TRF3, 1. SEÇÃO, RELATOR: JOHONSOM DI SALVO, AR Nº 2007.03.00.029798-0, JULGADO EM: 19.03.12 , PUBLICADO NO DJU EM: 23.03.12).
+2. O cumprimento da obrigação deve acontecer após o trânsito em julgado do v. acórdão, que decide o mérito da presente ação, concernente a incidência de juros moratórios sobre o montante relativo aos honorários advocatícios na conta de liquidação da ação nº 94.0705162-5.
+3. Não apreciado o pleito no sentido de afastamento dos juros de mora aplicados entre a data da conta e a expedição do precatório, por não ter sido cogitado no recurso de apelação.
+4. Embargos de declaração parcialmente acolhidos, sem, no entanto, alterar o resultado do julgado" (fls. 257/258e).
+Alega a parte recorrente violação ao art. 535, II, do CPC/73, ao argumento de que persiste omissão não sanada no julgamento dos embargos de declaração, bem como aos arts. 293, 467, 468, 473 e 474 do mesmo estatuto, aduzindo que "a inclusão dos juros de mora sem respaldo no titulo executivo em execução, transitado em julgado, implica violação da coisa julgada" (fl. 265e).
+Foram apresentadas contrarrazões (fls. 277/282e).
+O Recurso Especial não merece prosperar.
+Em relação à alegada omissão em torno da matéria dos Embargos de Declaração, verifico que a parte recorrente deixou de demonstrar no que consistiu a suposta ofensa ao art. 535 do CPC/73 e, sobretudo, a sua relevância para o deslinde da controvérsia, o que atrai, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+A propósito: "Não merece conhecimento o Recurso Especial que aponta violação ao art. 535 do CPC, sem, na própria peça, individualizar o erro, a obscuridade, a contradição ou a omissão ocorridas no acórdão proferido pela Corte de Origem, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF" (STJ, AgRg no AREsp 761.470/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 20/11/2015).
+No mesmo sentido:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. COMPENSAÇÃO INFORMADA EM DCTF. REJEIÇÃO PELO FISCO. NECESSIDADE DE NOVO LANÇAMENTO. DCTF APRESENTADA ANTES DE 31.10.2003. DECADÊNCIA CONFIGURADA NA ESPÉCIE. EXPEDIÇÃO DE CERTIDÃO NEGATIVA. POSSIBILIDADE.
+1. Não merece conhecimento o recurso especial que aponta violação ao art. 535 do CPC, sem, na própria peça, individualizar o erro, a obscuridade, a contradição ou a omissão ocorridas no acórdão proferido pela Corte de Origem, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula n. 284/STF.
+(..)
+4. Recurso especial não provido" (STJ, REsp 1.222.360/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 26/05/2015).
+Quanto à questão de fundo, o acórdão do Tribunal de origem consignou o seguinte:
+"Em seu apelo, a autarquia pugna pela reforma parcial da sentença ao argumento, em síntese, de que não há previsão de incidência de juros moratórios sobre a verba honorária, uma vez que os pedidos devem ser interpretados restritivamente (fls. 63/65).
+(..)
+Em que pesem as argumentações da apelante, a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que os juros de mora podem ser considerados como pedido implícito e alcançam a verba honorária" (fl. 231e).
+O entendimento do Tribunal a quo está em consonância com a orientação desta Corte, segundo a qual a inclusão de juros de mora no valor da liquidação independe de determinação contida na sentença, porquanto incluídos implicitamente no título executivo judicial, não havendo que se falar em ofensa à coisa julgada.
+A propósito:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO. ART. 535, II, DO CPC/1973. DESAPROPRIAÇÃO. JUROS MORATÓRIOS. OFENSA À COISA JULGADA. INEXISTÊNCIA. EXECUÇÃO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. JUROS DE MORA. DUPLA INCIDÊNCIA. IMPOSSIBILIDADE.
+(..)
+2. Esta Corte possui o entendimento de que os juros de mora e a correção monetária são encargos acessórios da obrigação principal e devem ser incluídos na conta de liquidação, ainda que já homologado o cálculo anterior, inexistindo preclusão ou ofensa à coisa julgada por causa dessa inclusão. É o caso.
+3. O Superior Tribunal de Justiça tem entendimento consagrado de que a base de cálculo dos honorários advocatícios compreende os juros moratórios e a correção monetária, ainda que de forma reflexa, aplicáveis sobre o valor da condenação.
+(..)
+6. Recursos Especiais não providos" (STJ, REsp 1.580.589/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/12/2016, DJe de 19/12/2016).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO. RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. JUROS DE MORA. PEDIDO IMPLÍCITO.
+1. A jurisprudência desta Corte, baseada no disposto na Súmula 254/STF - "incluem-se os juros moratórios na liquidação, embora omisso o pedido inicial ou a condenação" -, firmou-se no sentido de que a incidência de juros de mora sobre o valor objeto da execução independe de pedido expresso e de determinação contida na sentença exequenda, sendo considerados nela implicitamente incluídos.
+2. Agravo regimental não provido" (STJ, AgRg no AREsp 122.118/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/05/2012, DJe de 29/05/2012).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 467 E 473 DO CPC/1973. PRECLUSÃO. REQUISITO DO PREQUESTIONAMENTO ATENDIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. A jurisprudência desta Corte Superior prevalece no sentido de que a inclusão dos juros de mora e da correção monetária no valor da liquidação independe de pedido expresso e de determinação contida na sentença, porquanto incluídos implicitamente no título executivo judicial tais encargos, não havendo que se falar em ofensa à coisa julgada.
+2. Embargos de declaração acolhidos sem efeitos infringentes" (STJ, EDcl no AgRg no AREsp 850.537/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe de 08/09/2017).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
