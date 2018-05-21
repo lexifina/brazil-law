@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. CONVOCAÇÃO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ.
+I - A parte agravante não impugna os fundamentos da decisão recorrida.
+II - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+III - Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conheceu do agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno contra decisão que não conheceu do agravo em recurso especial por falta de impugnação de fundamentos de negativa de seguimento do recurso especial na origem.
+Na origem, o recurso especial foi interposto contra acórdão com a seguinte ementa:
+PROCESSUAL CIVIL. APELAÇAO CÍVEL. RAZOES DISSOCIADAS. IRREGULARIDADE FORMAL. AGRAVO RETIDO. PEDIDO NÃO RENOVADO. RECURSOS NÃO CONHECIDOS. 1. Não se conhece de agravo retido quando não houver renovação do pedido nas razões do apelo, como exige o art. 523, §1º, do CPC. 2. Em sede de apelação, o recorrente limita-se a repetir sua narrativa dos fatos, inclusive no capítulo em que, supostamente, seria destinado ao mérito recursal. Em nenhum momento foram refutados os fundamentos que embasaram a sentença. 3. Não se conhece de recurso cujas razões não atacam o pronunciamento jurisdicional, eis que tal situação eqüivale à ausência da apresentação de fundamentos de fato e de direito, exigidos pelo inciso II do artigo 514 do Código de Processo Civil. 4. Nesse passo, escorreita jurisprudência que afirma, em casos assemelhados, o descumprimento de requisito de admissibilidade do próprio recurso: TRF 2a Região, AC 200151015256627, Desembargador Federal Jose Ferreira Neves Neto, 3a Turma Especializada, 02/12/2010; TRF 2a Região, AC 200951010115585, Desembargador Federal Alberto Nogueira, 4a Turma Especializada, 29/11/2010; TRF 2a Região, AC 200451010158513, Desembargador Federal Guilherme Couto, 6a Turma Especializada, 12/11/2010; TRF 2a Região, AC 200150010067796, Desembargador Federal José Antonio Lisboa Neiva, 7a Turma Especializada, 18/11/2010; STJ, EDcl no AgRg na Pet 4.119/DF, Rel. Ministra Laurita Vaz, Corte Especial, DJ 01/08/2006; STJ, EDcl no AgRg no Ag 601.874/BA, Rei. Ministro Hélio Quaglia Barbosa, 6a Turma, DJ 23/10/2006; STJ, REsp 435.991/RJ, Rei. Ministro Fernado Gonçalves, 6a Turma, DJ 21/10/2002; STJ REsp 263.424/SP, Rei. Ministro Jorge Scartezzini, 5a Turma, DJ 18/12/2000. 5. Ao apresentar razões recursais completamente dissociadas daquilo que poderia ser motivo de irresignação, a apelação acaba por padecer de nítida irregularidade formal, a caracterizar a ausência de requisito extrínseco de admissibilidade recursal. 6. Agravo retido e apelação não conhecidos.
+Interposto agravo interno.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+A decisão recorrida, trouxe fundamentos suficientes para o deslinde da controvérsia.
+Por outro lado, em seu agravo interno, a parte agravante traz alegações dissociadas da decisão recorrida, referentes à matéria de mérito do recurso especial, que nem sequer chegou a ser submetido ao juízo de admissibilidade.
+Verifica-se que a parte agravante deixa de atacar especificamente os fundamentos da decisão ora agravada, ensejando, assim, a incidência do enunciado n. 182 da Súmula do STJ, segundo o qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ressalta-se que a mesma exigência é prevista no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Nesse sentido, veja-se a seguinte jurisprudência: AgInt no REsp 1.600.403/GO, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 23/8/2016, DJe 31/8/2016; AgInt no AREsp 873.251/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/5/2016, DJe 30/5/2016; AgInt no AREsp 864.079/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 9/8/2016, DJe 8/9/2016.
+Ante exposto, não conheço do recurso de agravo interno.
+É o voto.
