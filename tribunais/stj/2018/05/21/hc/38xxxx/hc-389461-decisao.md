@@ -1,0 +1,30 @@
+EMENTA
+HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. REGIME PRISIONAL FECHADO. PLEITO DE ABRANDAMENTO DO REGIME. PENA-BASE FIXADA NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. QUANTUM INFERIOR A 4 ANOS. GRAVIDADE EM ABSTRATO. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL CONFIGURADO. ART. 580 DO CPP. EXTENSÃO DA ORDEM.
+Ordem concedida, com extensão da ordem aos corréus [NOME], [NOME], [NOME], [NOME], [NOME], [NOME] e [NOME].
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME], apontando-se como autoridade coatora a Décima Quarta Câmara Criminal do Tribunal de Justiça de São Paulo (Apelação Criminal n. 0018894-25.2011.8.26.0071).
+Narram os autos que o Juízo da 3a Vara Criminal da Comarca de Bauru/SP condenou o ora paciente, juntamente com outros, pela prática do crime previsto no art. 35 c/c art. 40, III, ambos da Lei n. 11.343/2006, à pena de 3 anos e 6 meses de reclusão, em regime inicial aberto, substituída, ao final, por penas restritivas de direitos.
+A acusação e a defesa interpuseram recurso. A Corte estadual deu parcial provimento ao recurso defensivo para afastar a causa de aumento, redimensionando a pena do paciente para 3 anos de reclusão, contudo, também deu provimento ao apelo do Parquet para aplicar o regime inicial fechado. Na oportunidade foi determinada a expedição do mandado de prisão.
+Daí o presente mandamus, em que o impetrante se insurge contra a fixação do regime fechado.
+Alega que foi fixado o regime prisional mais gravoso apenas em razão da natureza do delito de associação para o tráfico e da gravidade abstrata do crime.
+Menciona que o paciente respondeu ao processo em liberdade.
+Requer, em liminar, a suspensão do mandado de prisão expedido. No mérito, pugna pela aplicação do regime inicial aberto.
+O pedido de liminar foi deferido, apenas para garantir a liberdade do paciente até o esgotamento das vias ordinárias (fls. 2.457/2.459).
+Prestadas as informações (fls. 2.468/2.611), o Ministério Público Federal, em parecer exarado pelo Subprocurador-Geral da República [NOME], manifestou-se pelo não conhecimento do writ ou, caso contrário, pela denegação da ordem (fls. 2.614/2.620).
+É o relatório.
+Assiste razão ao impetrante.
+Com efeito, apesar de o paciente ser primário, com bons antecedentes, ao estabelecer o regime inicial fechado pela prática do crime previsto no art. 35 da Lei n. 11.343/06, a Corte local o fez em razão da gravidade e da nocividade do crime praticado, consoante se depreende do seguinte excerto (fls. 2.605/2.606):
+O regime de cumprimento da pena, por sua vez, foi estipulado com incorreção.
+As condutas efetivamente perpetradas por todos os acusados não podem ser tidas como de menor desvalor ou de reduzida lesividade social, mercê da nocividade indiscutível do crime que cometeram.
+Além do mais, observo que as circunstâncias judiciais são amplamente desfavoráveis aos apelantes, diante da gravidade concreta do crime, ou seja, mantinham uma bem estruturada organização criminosa, envolvendo um grande números de pessoas, sobretudo viciados e usuários, conduta esta capaz de fomentar instabilidade e colocar frontalmente em risco toda a população ordeira, especialmente a mais jovem e indefesa.
+Impende destacar que distribuíam a nefasta droga para consumo primordial em festas destinadas a jovens, colocando-os em risco evidente e iminente, contribuindo decididamente para a aniquilação de conceitos morais e para a destruição de entes familiares.
+Suas condutas, como nitidamente se vê, revelaram periculosidade concreta e efetiva, pois geradoras de desassossego e intranquilidade social latente, tudo de modo a justificar, ao menos no início, o regime de cumprimento de pena mais rigoroso.
+Assim, afigura-se totalmente inviável a imposição de regime inicial diverso do fechado nos casos em que os agentes são processados e condenados por crime de associação para o tráfico, sobretudo nas condições como as observadas nestes autos.
+Inconcebível, pelos mesmos motivos, mercê da periculosidade real anteriormente assinalada, a substituição da reprimenda corporal por restritivas de direitos.
+Como se já não fosse o bastante, punir os integrantes de associação criminosa com penas restritivas de direitos, macula o sistema preventivo e repressivo do nosso direito positivo, sobretudo pela periculosidade social presumida decorrente de tais crimes, incompatíveis, até mesmo e como já sublinhando, com o cumprimento da pena em regime diferente do fechado.
+Ocorre que o posicionamento hoje pacificado no Superior Tribunal de Justiça é no sentido de que se mostra inadmissível a estipulação de regime prisional mais rigoroso do que aquele previsto para a sanção corporal aplicada, apenas com fundamento na gravidade abstrata do delito (Súmula 440/STJ) e na hediondez do delito.
+Assim, considerando a fixação da pena-base no mínimo legal, a reprimenda definitiva imposta (inferior a 4 anos), as circunstâncias judiciais favoráveis e a ausência de fundamentação para a imposição de regime inicial mais rigoroso, verifica-se que o sentenciado faz jus a iniciar o cumprimento da reprimenda imposta no regime inicial aberto, nos termos dos arts. 33, § 2º, c, do Código Penal.
+Ademais, conforme bem asseverou o magistrado sentenciante, pelos mesmos fundamentos acima elencados, o réu preenche os requisitos para a concessão da substituição da pena carcerária por penas restritivas de direitos (art. 44, I, II e III, do CP), devendo ser observado os termos fixados pela sentença condenatória.
+Por fim, evidenciado que os corréus [NOME], [NOME], [NOME], [NOME], [NOME], [NOME] e [NOME] se encontram em situação fático-processual idêntica, devem ser estendidos os efeitos desta decisão, nos termos do art. 580 do Código de Processo Penal.
+Em face do exposto, concedo a ordem, para fixar o regime prisional aberto, com a substituição da pena privativa de liberdade por duas restritivas de direitos, nos termos em que fixado na sentença condenatória, devendo os efeitos desta decisão ser estendidos aos corréus acima citados, por se encontrarem na mesma situação fático-processual.
+Publique-se.
