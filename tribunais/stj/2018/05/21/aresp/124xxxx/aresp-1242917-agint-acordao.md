@@ -1,0 +1,49 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDOS DE INEXIGIBILIDADE DE TÍTULOS. INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ausentes os vícios do art. 1.022 do CPC. rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido. de modo a esgotar a prestação jurisdicional não há que se falar em violação do art. 489 do CPC.
+3. O reexame de fatos e provas e interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+Cuida-se de agravo interno interposto por TECH FILTER TRATAMENTO E FILTRAÇÃO LTDA, contra decisão que conheceu do agravo para não conhecer do recurso especial que interpusera.
+Ação: rescisão contratual cumulada com pedidos de inexigibilidade de título, indenização por danos materiais e compensação por danos morais ajuizada pela agravante em face de METALURGICA E MONTAGEM INDUSTRIAL FESSEL LTDA, considerando o contrato celebrado entre a agravante e a Petrobrás, a autora realizou processo seletivo de empresas no sentido de terceirizar a finalização dos equipamentos necessários para o mencionado contrato. Contudo, a agravada, empresa selecionada, não cumpriu o estabelecido no contrato firmado entre estas partes.
+Sentença: julgou parcialmente procedentes os pedidos contidos na inicial e procedente a ação cautelar em apenso, declarando inexigíveis as duplicatas mercantis 10896-C, 10864,10867, 10870 e 10896, tendo em vista a compensação do valor de R$173.892,86 e, considerando quitado o saldo remanescente excluindo-se o pedido de condenação da ré à indenização por danos morais. Pela sucumbência recíproca, cada parte ficou réu responsável pelo pagamento de metade das custas e despesas processuais, bem como pelos honorários advocatícios de seus respectivos patronos.
+Acórdão: deu parcial provimento ao recurso interposto pela agravada, conforme a seguinte ementa (e-STJ fls. 620/621):
+CONTRATOS - Pedidos cumulados de inexigibilidade de título, rescisão contratual, compensação de valores e indenização por perdas e danos - Atrasos na entrega dos equipamentos - Alegações da ré de que a autora reconhece ter atrasado no fornecimento de insumos à produção, em razão de alterações no projeto, o que impede sua responsabilização por descumprimento do cronograma - Descabimento - Declaração expressa, em sentido contrário, contida no aditivo contratual - Inexistência de documentos que comprovem atrasos ocasionados pela autora - Ônus da ré - RECURSO NÃO PROVIDO, NESTA PARTE.
+CONTRATOS - Alcance dos termos do aditivo contratual - Alegações da ré no sentido de que a autora declara o valor devido, inexistindo outros valores passíveis de compensação - Descabimento - Termo aditivo que expressamente altera apenas algumas cláusulas contratuais, mantendo integralmente as demais - RECURSO NÃO PROVIDO,NESTA PARTE.
+CONTRATOS - Alegações da ré objetivando impedir a aplicação de multa por atraso na entrega de equipamentos por si confeccionados - Descabimento - Existência de cláusulas contratuais expressamente permitindo a imposição de multa por atraso - Necessidade de redução proporcional do valor da multa imposta, em razão do aditamento contratual que diminuiu sensivelmente o valor global do contrato - RECURSO PARCIALMENTE PROVIDO,NESTA PARTE.
+CONTRATOS - Repasse à ré de valor de multa aplicada pela destinatária dos equipamentos à contratante - Descabimento - Inexistência, nos autos, de qualquer documento que demonstre inequivocamente a aplicação da multa - Ônus da autora - RECURSO PROVIDO, NESTA PARTE.
+CONTRATOS - Repasso à ré do valores despendidos pela autora com logística de seus empregados - Descabimento Expressa ressalva contratual eximindo a requerida de qualquer responsabilidade pelo pagamento de despesas extras suportadas pela autora - RECURSO PROVIDO, NESTA PARTE.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 3º, 11, 371, 489, 494, II, 994, 1.022 do CPC/15, 884, 369 e 389 do CC/02, 131 do CPC/73. Além de negativa de prestação jurisdicional, sustenta que o Tribunal de origem, de forma equivocada, afastou a possibilidade de ressarcimento quanto aos prejuízos causados. Assevera que a existência de penalidade no contrato firmado com a Petrobrás era de conhecimento da agravada. Relata que, consoante demonstrado nos autos, a agravada não cumpriu o estabelecido no contrato e, em razão disso, a agravante foi penalizada com multa aplicada pela cliente final. Declara que a multa não poderia ter sido reduzida.
+Decisão monocrática: conheceu do agravo para não conhecer do recurso especial.
+Agravo interno: a parte agravante afirma que: a) houve violação dos arts. 3º, 11, 371, 489, 494, 994 e 1.022 do CPC/15, 131 do CPC/73, e 368, 389 e 884 do CC; b) inexiste pretensão de análise de matéria fática nem interpretação de cláusulas contratuais; c) a inexecução do contrato "ocorreu desde o início, e não apenas para 6 filtros ou aqueles 4 objetos do aditivo, mas para 10 vasos de pressão"; d) impedir a compensação dos prejuízos causados quanto às despesas com funcionários e logísticas implica em enriquecimento sem causa; e e) há farta provas nos autos a respeito da aplicação da multa pela Petrobrás. "
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+A decisão agravada conheceu do agravo para não conhecer do recurso especial ante a ausência de violação dos arts. 489 e 1.022 do CPC/15 e incidência dos óbices constantes nas Súmulas 5 e 7, ambas do STJ.
+- Da violação do art. 1.022 do CPC/15
+Constata-se que, de fato, o artigo 1.022 do CPC/15 realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade.
+Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+Nesse contexto, oportuno destacar trechos da decisão:
+Inicialmente, no que tange à relação estabelecida entre as partes, observa-se do instrumento contratual (fls. 40/44), mais especificamente na cláusula 1.1. que a empresa ré FESSEL ora apelante,foi contratada pela autora, TECH FILTER, para a confecção completa de 10 filtros industriais:
+(..)
+Assim, correto o entendimento da ré no que diz respeito aos seus deveres, contratualmente impostos, não sendo cabível a afirmação que lhe cabia a elaboração dos projetos referentes à confecção dos filtros,projetos estes que deveriam ser fornecidos pela autora. TECH FILTER.
+Prosseguindo, outras alegações da ré, para serem analisadas, dependem da verificação dos termos contidos no contrato entabulado entre as partes e em seu aditivo.
+(..)
+Ora, a conclusão do tal trecho do depoimento da testemunha é clara: atrasando o processo de confecção, a ré impedia que se iniciasse nova fase da execução contratual, ou seja, o atraso por parte da ré fazia com que se impedisse o prosseguimento do contrato
+No que tange aos termos e alcance do aditivo contratual, é certo que a autora, na "cláusula segunda - do acerto de contas" (fls. 47) indica como saldo a pagar, o montante do R$ 293.055,00.
+Mas há de se ter em vista que, como aditivo ao contrato principal, o termo assinado pelas partes apenas altera algumas cláusulas,mantendo a vigência das demais Neste sentido, a cláusula 2.4. contida às fls. 48:
+(..)
+Assim sendo, observando o contrato principal. encontra-se disposto na "cláusula sexta - das multas" (fls 42) a possibilidade de imposição de multas no caso de não cumprimento dos prazos avençados:
+(..)
+Observando os termos avençados entre as partes, tanto no contrato principal, quanto no termo aditivo (fls. 40/48). inexiste previsão em relação à imputação de responsabilidade à contratada, no caso a ré. por despesas suportadas pela autora com logística ou pagamento de empregados, aliás o "item 3" dos "considerandos" presente no aditivo estabelece o contrário:
+Por essa razão, não se verifica, na hipótese, a pretensa ofensa ao art. 1.022 do CPC/15.
+- Da violação do art. 489 do CPC/2015
+De outra parte, conforme consignado na decisão agravada, não há que se falar em ofensa ao art. 489 do CPC/15. Com efeito, as questões de mérito foram devidamente analisadas e discutidas e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+A incidência dos óbices constantes nas Súmulas 5 e 7, ambas do STJ, deve ser mantida, pois eventual alteração do entendimento do acórdão recorrido a fim analisar o disposto nos contratos, bem como no termo aditivo, quanto ao atraso na prestação do serviço, no que concerne aos prejuízos sofridos pela parte, em razão do suposto descumprimento contratual , demandaria desta Corte, inevitavelmente, a incursão na seara fático-probatória dos autos e a interpretação de cláusulas contratuais, procedimento que é vedado em sede de recurso especial.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
