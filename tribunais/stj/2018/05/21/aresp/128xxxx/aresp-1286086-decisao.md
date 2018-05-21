@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Agravo, interposto por ESTADO DO CEARÁ, em 21/10/2016, contra decisão do Tribunal de Justiça do Estado do Ceará, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO DE CONHECIMENTO. PERDA DE OBJETO SUPERVENIENTE. INOCORRÊNCIA. PRECEDENTES DO STJ. CERCEAMENTO DO DIREITO DE DEFESA VERIFICADO. SENTENÇA NULA. RETORNO DOS AUTOS AO JUÍZO DE ORIGEM.
+1. Cuidam os presentes autos de apelação cível contra sentença da 6ª Vara da Fazenda Pública da Comarca de Fortaleza/Ce, que julgou extinta ação declaratória de irregularidade de certame público, manejada pela apelante por entender que a presente actio restou prejudicada pela adjudicação e homologação do Pregão Eletrônico nº 20110006 da PEFOCE em favor da empresa BRASLIMP Transportes Especializados Ltda.
+2.  .. Conforme pacífico entendimento jurisprudencial do STJ, "a superveniente adjudicação não importa na perda de objeto do mandado de segurança, pois se o certame está eivado de nulidades, estas também contaminam a adjudicação e posterior celebração do contrato" (AgRg na SS 2.370/PE, Rel. Min. Ari Pargendler, Corte Especial, DJe 23.9.2011). No mesmo sentido: AgRg no AREsp 141.597/MA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 31/10/2012; REsp 1.128.271/AM, Rel. Min; Castro Meira, Segunda Turma, DJe 25.11.2009; e REsp 1.059.501/MG, Rel. Min; Mauro Campbell Marques, Segunda Turma, DJe 10.9.2009. (AgRg no REsp 1223353/AM, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 12/03/2013, DJe 18/03/2013).
+3. Desta forma, percebe-se que a parte autora levanta argumentos sérios e relevantes sobre a licitude do Pregão Eletrônico nº 20110006 da PEFOCE, os quais deveriam ter sido analisados detidamente em fase instrutória. Some-se, ainda, o fato de que a licença ambiental da empresa BRASLIMP, colacionada pela própria empresa à fl. 187 dos autos, tinha validade somente até o dia 03 de março de 2012, tendo o pregão se iniciado em 12 de março de 2012. Ou seja, até que isso seja apurado, existe prova documental nos autos de que ocorreu vício no procedimento licitatório.
+4. Configura cerceamento de defesa o julgamento antecipado da lide sem prévio anúncio às partes.
+(Apelação 7674853200880600011; Relator: FERNANDO LUIZ XIMENES ROCHA; Comarca: Fortaleza; Órgão julgador: 1ª Câmara Cível; Data de registro: 08/08/2011).
+5. Apelo conhecido e parcialmente provido" (fls. 358/359e).
+Sustenta a parte agravante, nas razões do Recurso Especial, a ocorrência de afronta ao art. 267, VI, do CPC/73. (fls. 363/374e).
+Requer, ao final, o provimento do recurso.
+Por sua vez, a parte agravada pugna pela manutenção do acórdão (fls. 380/389e).
+Do exame dos autos, verifica-se que o fundamentos da decisão agravada, para inadmitir o Recurso Especial é de que "O colendo Superior Tribunal de Justiça considera que nas ações em que se discutem nulidades no certame licitatório suficientes a obstar a homologação do procedimento e adjudicação do objeto ao vencedor, não há perda do objeto pelo encerramento da licitação" (fl. 391e).
+A recorrente, no entanto, no Agravo, não cuidou de impugnar a decisão, quanto a tal fundamento.
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Tal entendimento, inclusive, está consolidado na Súmula 182/STJ, segundo a qual o recorrente deve infirmar, especificamente, os fundamentos da decisão impugnada, mostrando-se inadmissível o Agravo que não se insurge contra todos eles.
+Em face do exposto, com fundamento no art. 932, III, do CPC/2015 e art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo.
+I.
