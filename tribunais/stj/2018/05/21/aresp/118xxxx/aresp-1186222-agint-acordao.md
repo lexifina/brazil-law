@@ -1,0 +1,44 @@
+EMENTA
+ADMINISTRATIVO. SERVIÇO MILITAR. PRORROGAÇÃO DE CONTRATO. AUSÊNCIA DE CADEIA COMPLETA DE PROCURAÇÃO. INCIDÊNCIA DO ENUNCIADO N. 115 DO STJ.
+I - Aplica-se ao recurso especial o enunciado administrativo n. 2: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+II - Verifica-se que o subscritor do recurso especial, não possuía procuração e/ou cadeia completa de substabelecimento no momento de sua interposição.
+III - É firme o entendimento desta Corte no sentido de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, consoante se depreende do contido no enunciado n. 115 da Súmula da STJ.
+IV - Acrescente-se que é inaplicável a providência de que tratava o art. 13 do mesmo diploma em sede especial, devendo a representação processual estar formalmente perfeita por ocasião da interposição do recurso. Nesse sentido: AgInt nos EDcl no AREsp 960.932/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/02/2017, Dje 16/02/2017)
+V -Registre-se que a procuração acostada aos autos na petição de fl. 202, só tem o efeito de afastar o vício para o agravo, interposto na vigência do novo Código de Processo Civil, não alcançando o recurso especial, interposto na vigência do Código de Processo Civil de 1973.
+VI - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem trata-se de ação em que se objetiva a prorrogação de contrato de trabalho no serviço militar. Julgado improcedente o pedido, a sentença foi mantida no Tribunal Regional Federal da 2ª Região, conforme a seguinte ementa do acórdão:
+ADMINISTRATIVO. MILITAR TEMPORÁRIO. PRORROGAÇÃO DO TEMPO DE SERVIÇO. ATO DISCRICIONÁRIO. INEXISTÊNCIA DE DIREITO ADQUIRIDO. LEGALIDADE DO ATO DE LICENCIAMENTO. APELAÇÃO E AGRAVO RETIDO NÃO PROVIDOS.
+I.Os atos de licenciamento do militar temporário decorrem do poder discricionário da Administração Pública, a qual. calcada em critérios de conveniência e oportunidade, somente está adstrita ao princípio da legalidade, vedado ao Poder Judiciário adentrar o mérito administrativo.
+2. A questão, ora em exame, deve ser analisada à luz da aplicabilidade dos artigos 50, IV, "a"; e 121, II, § 3o, "a", da Lei 6.880/80 (Estatuto dos Militares), que versam sobre a estabilidade do Militar e o licenciamento ex officio por conclusão do tempo de serviço.
+3.A Lei nº 8.071/90, que dispõe sobre os efetivos do Exército, prescreve que estes são preenchidos por militares de carreira e temporários; considerando-se temporários as praças de quadros complementares admitidas ou incorporadas por prazos limitados e as praças engajadas ou reengajadas por prazo limitado; bem assim que compete ao Poder Executivo definir os quadros, armas e serviços que serão preenchidos por militares de carreiras ou temporários.
+4. A Portaria nº 600, de 07/11/00, do Comandante do Exército, ao aprovar as instruções gerais para a prorrogação do tempo de serviço militar (IG-10-06), estabeleceu que a prorrogação do tempo de serviço militar visa a atender ao interesse do Exército e tem caráter voluntário e que o interesse do Exército é condição básica para a concessão de prorrogação do tempo de serviço militar.
+5. Tratando-se de serviços temporários ou transitórios, que têm por finalidade a reciclagem de pessoal, pode a Administração licenciar o servidor ou prorrogar sua permanência, obedecendo a critérios discricionários de conveniência e oportunidade.
+6. As prorrogações no serviço militar estão condicionadas a percentuais fixados pelo Ministério do Exército e à conveniência para o serviço. Assim, é estabelecido previamente o número de praças a serem estabilizados, de modo que nem todos aqueles que cumpriram os requisitos serão beneficiados.
+7. Tanto os atos de licenciamento, quanto os de prorrogação do tempo de serviço do militar temporário, decorrem do poder discricionário da Administração Pública, a qual, calcada em critérios de conveniência e oportunidade, somente está adstrita ao princípio da legalidade, sendo vedado ao Poder Judiciário adentrar o mérito administrativo.
+8. Não houve qualquer ilegalidade por parte da Administração Militar, nos termos da legislação de regência, sendo certo que a alteração do tempo máximo de permanência dos Terceiros Sargentos Temporários na ativa, não gera, por si só, direito ao reengajamento, pois a renovação do tempo de serviço de forma alguma deixa de ser discricionária pelo fato de o autor não ter completado o tempo máximo. Assim, os militares incorporados para a prestação de serviço militar têm permanência transitória, devendo, em regra, ser licencia dos quando concluído o tempo de serviço (art. 121. § 3o, "a", da Lei 6.880/80), ou a qualquer tempo, por conveniência do serviço público, vez que o ato de licenciamento se insere no âmbito do poder discricionário do Comando Militar, sendo prescindivel a motivação
+expressa da decisão.
+9. Ao Judiciário não cabe apreciar o mérito administrativo, mas tão-somente a legalidade dos atos, sob pena de invasão de competência. Cumpre ressaltar que o ato administrativo que se pretende anular encontra amparo na legislação militar, que prevê a temporariedade do oficialato e a possibilidade de prorrogação quando houver conveniência para o serviço. Precedentes: TRF-4 - AC: 260 SC 2008.72.06.000260-2, Relator: MARGA INGE BARTH TESSLER, Data de Julgamento: 29/07/2009, Quarta Turma; TRF2 - AC 9202145105 Rel. Desembargador Federal ROGÉRIO CARVALHO. Sexta Turma Especializada DJU - Data:: 15/02/2008 - Página:: 1228. TRF-2 - AC: 377926 RJ 2004.51.01.009830-9, Relator:
+Desembargador Federal FERNANDO MARQUES. Data de Julgamento: 13/09/2006, Sexta Turma Especializada, Data de Publicação: DJU - Data::03/10/2006 - Página::256/257; TRF-5 - AC: 200983080018431 , Relator: Desembargador Federal Edilson Nobre. Data de Julgamento: 06/03/2012, Quarta Turma. Data de Publicação: 09/03/2012.
+10. No que tange ao pedido de indenização por danos morais, o Apelante não logrou êxito em comprovar a existência de ato ilícito por parte da Administração, decorrente de seu desligamento do Exercito, capaz de lhe gerar algum dano de caráter moral.
+11. Quanto ao pedido de produção de prova testemunhai, objeto do Agravo Retido interposto às fls. 67/68, entendo ser a mesma desnecessária por se tratar de matéria
+exclusivamente de direito.
+12. Negado provimento à apelação e ao agravo retido.
+Negou-se seguimento ao recurso especial na origem.
+Interposto agravo em recurso especial, não se conheceu do recurso especial diante da ausência de cadeia completa de procurações do advogado subscritor do recurso.
+Interposto agravo interno alega a parte agravante que o vício perdurou durante vários atos processuais e que em nenhum momento foi determinada a juntada da procuração.
+A parte agravada foi intimada para apresentar procuração.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O agravo não merece provimento.
+Aplica-se ao recurso especial o enunciado administrativo n. 2: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Verifica-se que o subscritor do recurso especial, não possuía procuração e/ou cadeia completa de substabelecimento no momento de sua interposição.
+É firme o entendimento desta Corte no sentido de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, consoante se depreende do contido na Súmula n.º 115/STJ.
+Acrescente-se que é inaplicável a providência de que tratava o art. 13 do mesmo diploma em sede especial, devendo a representação processual estar formalmente perfeita por ocasião da interposição do recurso. Nesse sentido: AgInt nos EDcl no AREsp 960.932/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/02/2017, Dje 16/02/2017)
+Registre-se que a procuração acostada aos autos na petição de fl. 202, só tem o efeito de afastar o vício para o agravo, interposto na vigência do novo Código de Processo Civil, não alcançando o recurso especial, interposto na vigência do Código de Processo Civil de 1973.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
