@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+Apelação. Crime de furto simples. Reconhecimento da qualificadora do rompimento de obstáculo. Impossibilidade. Ausência de prova pericial. Afastamento da compensação da reincidência com a confissão. Necessidade. Aplicação do artigo 67 do Código Penal. Readequação da sanção penal. Parcial provimento ao recurso.
+Sustenta o recorrente violação do art. 65, III, d, do CP.
+Argumenta que não foi compensada a agravante da reincidência com a atenuante da confissão espontânea.
+Requer, assim, a reforma o acórdão recorrido, a fim de que seja compensada a reincidência com a confissão espontânea.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+Decido.
+Consta dos autos que o recorrente foi condenado à pena de 1 ano de reclusão, mais o pagamento de 10 dias-multa, no regime semiaberto, como incurso no art. 155 do CP.
+Interposto recurso de apelação, o Tribunal de Justiça deu provimento recurso do Ministério Público para aumentar a pena para 1 ano e 6 meses de reclusão, mais 15 dias-multa.
+Quanto à compensação, o voto condutor assim referiu (fls. 158/159):
+Com razão o Ministério Público, no | entanto, quanto à inadequada compensação aplicada em segunda etapa da quantificação da sanção penal.
+Ainda que o Superior Tribunal de Justiça tenha se pronunciado, com caráter geral, sobre a prevalência da atenuante da confissão em relação à agravante da reincidência (Recurso Especial Repetitivo nº 1.341.370/MT, rei. Min. Sebastião Reis Júnior, 3a Seção, j. em 10.04.2013), o Supremo Tribunal Federal, em julgados posteriores, tomou posição contrária àquele posicionamento  dando, pois, por prejudicada aquela tese  , como se vê da ementa do julgamento do RHC nº 120.677-SP, rel. Min. Ricardo Lewandowski, 2a Turma, j. em 18.03.2004:
+ ..
+No presente caso, trata-se de reincidência específica (fls.59), circunstância que ressalta a aptidão do Réu para a prática reiterada de crimes patrimoniais dessa natureza, e que deve prevalecer sobre a confissão. Ressalte-se que a conduta aqui foi flagrada por câmeras de segurança instaladas no local dos fatos, ficando a autoria demonstrada de forma inequivoca pelo conjunto probatório produzido, e não pela confissão - apenas judicial (fls.12/13) - do Réu.
+Assim, mantidos os demais termos da condenação, afasta-se a compensação aplicada em segunda etapa da quantificação, nos termos do artigo 67 do Código Penal, agravando-se a pena de 1/2 (metade) em razão da reincidência do Réu (fls.59), perfazendo a sanção penal o montante de 01 (um) ano e 06 (seis) meses de reclusão, e 15 (quinze) dias-multa.
+No que toca à questão atinente à compensação da atenuante da confissão com a agravante da reincidência, a Terceira Seção desta Corte, em 23/05/2012, por ocasião do julgamento do EREsp 1.154.752/RS, pacificou o entendimento segundo o qual a atenuante da confissão espontânea, na medida em que compreende a personalidade do agente, é circunstância preponderante, devendo ser compensada com a agravante da reincidência, igualmente preponderante. Em 10/04/2013, o entendimento foi reafirmado no julgamento do Recurso Especial 1.341.370/MT, submetido ao rito dos recursos repetitivos.
+Revisitando o tema, em 11/10/2017, no julgamento do HC 365.963/SP, a Terceira Seção desta Corte firmou orientação no sentido de que a reincidência específica não impede a integral compensação com a atenuante da confissão espontânea. O acórdão foi assim ementado:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO SIMPLES. DOSIMETRIA. CONFISSÃO PARCIAL. POSSIBILIDADE DE RECONHECIMENTO DA ATENUANTE. SÚMULA 545/STJ. COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA. REINCIDÊNCIA ESPECÍFICA. ÚNICA CONDENAÇÃO. POSSIBILIDADE. CONTINUIDADE DELITIVA. FRAÇÃO DE AUMENTO. MOTIVAÇÃO CONCRETA. REGIME INICIAL FECHADO. REINCIDÊNCIA E QUANTUM DE PENA APLICADA. FUNDAMENTAÇÃO IDÔNEA. DETRAÇÃO. MATÉRIA NÃO ENFRENTADA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - Na espécie, a incidência da atenuante prevista no art. 65, III, "d", do Código Penal, independe se a confissão foi integral ou parcial, especialmente quando utilizada para fundamentar a condenação. Incidência da Súmula n. 545/STJ.
+IV - A col. Terceira Seção deste eg. Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial Repetitivo nº 1.341.370/MT (Rel. Min. Sebastião Reis Júnior, DJe de 17/4/2013), firmou entendimento segundo o qual "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência."
+V - Na hipótese, não obstante seja o paciente reincidente específico, entendo que podem ser compensadas a agravante da reincidência (específica) com a atenuante da confissão espontânea, mormente se considerada a ausência de qualquer ressalva no entendimento firmado por ocasião do julgamento do recurso especial repetitivo sobre o tema.
+VI - A fração de aumento decorrente da continuidade delitiva foi fixada em 1/5 (um quinto) com base em elementos concretos e de acordo com a jurisprudência desta Corte sobre o tema, inexistindo flagrante ilegalidade ou desproporcionalidade na majoração da reprimenda.
+VII - Ainda que estabelecida a pena-base no mínimo legal, sendo o paciente reincidente e fixada a pena em 6 (seis) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, o regime inicial fechado é o adequado para o cumprimento da sanção, nos termos do art. 33, § 2º, "b", do Código Penal.
+VIII - A eventual possibilidade de aplicação do § 2º do art. 387 do Código de Processo Penal não foi enfrentada pelo Tribunal de origem, sendo inviável sua análise neste Tribunal Superior, sob pena de indevida supressão de instância.
+Habeas corpus não conhecido. Ordem concedida de ofício para reconhecer a atenuante da confissão espontânea e compensá-la com a agravante da reincidência, redimensionando a pena do paciente para 6 (seis) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, mantidos os demais termos da condenação.
+(HC 365.963/SP, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 11/10/2017, DJe 23/11/2017).
+Ante o exposto, dou provimento ao recurso especial a fim de restabelecer a pena da sentença condenatória, fixando a sanção definitiva de 1 ano de reclusão, mais 10 dias-multa, no regime semiaberto.
+Publique-se.
+Intimem-se.
