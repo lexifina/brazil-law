@@ -1,0 +1,31 @@
+EMENTA
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CORRUPÇÃO PASSIVA. ART. 317 DO CP.
+Recurso especial não conhecido.
+DECISÃO
+Trata-se de recurso especial de [NOME] contra acórdão proferido no processo n. 0004005-35.2013.4.0.0000 pelo pleno do Tribunal Regional Federal da 5ª Região que negou provimento ao seu agravo regimental, não conhecendo dos seus embargos infringentes, conforme termos da seguinte ementa (fls. 1.016/1.017):
+PENAL E PROCESSO PENAL. AÇÃO ORIGINÁRIA. EMBARGOS INFRINGENTES. NÃO CABIMENTO.
+1. Agravo regimental onde se discute se são cabíveis embargos infringentes em matéria penal nos feitos de ação originária.
+2. Em 05/08/2015, o Pleno do Tribunal julgou parcialmente procedente a ação penal, absolvendo [NOME] da imputação da prática das figuras delituosas previstas no art. 1º, V e VII, da Lei nº 9.613/98 (lavagem de dinheiro) e condenando-o às sanções previstas no artigo 317, caput, do Código Penal, ensejando a interposição dos infringentes.
+3. Nos termos do parágrafo único do art. 609 do CPP, aplicado de forma subsidiária (vide arts. 2º e 9º da Lei nº 8.038/90), "quando não for unânime a decisão de segunda instância, desfavorável ao réu, admitem-se embargos infringentes e de nulidade, que poderão ser opostos dentro de 10 (dez) dias, a contar da publicação do acórdão, na forma do art. 613. Se o desacordo for parcial, os embargos serão restritos à matéria objeto de divergência."
+4. Segundo a jurisprudência do STJ, "é inadmissível a interposição de embargos infringentes contra acórdão não unânime que julgou, na Corte Estadual, ação penal originária" (..) "embora o acórdão recorrido tenha sido proferido por decisão majoritária, não cabe cogitar, na espécie, de eventual incidência do enunciado nº 281 do Supremo Tribunal Federal, já que o cabimento dos embargos infringentes - necessários, em regra, para o esgotamento das instâncias - se restringe a julgamentos não unânimes "de 2ª instância", ou seja, "não alcança a hipótese", como a dos presentes autos "de o tribunal atuar originariamente para processar e julgar ação penal". (AEDAG 201101177236, ASSUSETE MAGALHÃES, STJ - TERCEIRA SEÇÃO, DJE DATA: 05/03/2013.)
+4. Considerando, ainda, a ausência de previsão do presente recurso no Regimento Interno deste Tribunal, não se pode admitir os presentes infringentes.
+5. Agravo regimental desprovido.
+Manteve-se, assim, o recorrente submetido à pena de 3 anos de reclusão e 50 dias-multa pela prática de conduta descrita no art. 317 do Código Penal.
+O recorrente interpôs recurso especial no qual alega, em síntese, que haveria de ser aplicado o art. 609 do Código de Processo Penal, porquanto a dicção do dispositivo não restringiria embargos infringentes aos recursos de apelação, mas apenas decisão de segunda instância, referindo aos tribunais.
+Acresce haver no voto vencedor dubiedade quanto ao montante objeto dação. O voto vencido teria esclarecido que apenas uma ambulância teria sido adquirida pelo grupo criminoso, por meio de licitação, sem qualquer prejuízo para o Erário.
+Sustenta que a decisão teria vulnerado o art. 155 do Código de Processo Penal, visto que teria se fundado unicamente em delação premiada de [NOME]. Essa prova não poderia ser utilizada para fins de condenação, pois não teria sido submetida ao crivo do contraditório.
+Afirma que o acórdão seria nulo por ofender a coisa julgada. A decisão teria presumido o cometimento do delito de corrupção, porque os delatores teriam dito que pagaram propina por intermédio dos assessores do ora recorrente. Esses assessores, [NOME] e [NOME], teriam sido absolvidos do recebimento de tais valores. O Ministério Público não teria produzido prova capaz de comprovar os depoimentos dos delatores, sendo a absolvição urgente.
+Pede, com base nos arts. 155 e 381, III, do Código de Processo Penal sua absolvição, tendo em vista a ausência de vínculo entre o recorrente e as pessoas do grupo [NOME]. As testemunhas ouvidas teriam confirmado jamais ter havido interferência nas licitações municipais (fls. 1.021/1.042).
+Contrarrazões às fls. 1.046/1.061.
+O Ministério Público Federal opina pelo não conhecimento do recurso especial, dada a consonância do acórdão recorrido com a jurisprudência, a deficiência nas razões recursais, a falta de prequestionamento e a necessidade de reexaminar provas. Caso conhecido, pugna pelo seu desprovimento (fls. 1.074/1.083).
+Petição requerendo a juntada de procuração às fls. 1.087/1.089.
+É o relatório.
+Adoto aqui como razões de decidir aquelas presentes no parecer do Ministério Público Federal às fls. 1078 e seguintes:
+"11.O recurso não merece conhecimento.
+12. No tocante à alegada violação ao artigo 609 do CPP, o apelo especial encontra óbice na Súmula nº 83/STJ, uma vez que a decisão recorrida está de acordo com o entendimento pacificado nesta Corte Superior, em incidente de uniformização de jurisprudência, no sentido de que não são cabíveis embargos infringentes nas ações penais originárias de Tribunal de segundo grau. Confira-se:
+(..)
+10. Já em relação à ofensa aos artigos 382, III e 381, III do CPP, citada somente no pedido do apelo raro, extrai-se a total ausência de consonância com razões recursais apresentadas, nas quais a defesa se limita a alegar inexistirem provas suficientes para a condenação. Com efeito, o recorrente deixou de demonstrar de que forma a legislação federal teria sido violada, o que afetou a exata compreensão da controvérsia e faz incidir o óbice da Súmula nº 284 do STF.
+11. E, ainda que assim não se entenda, mencionadas violações, assim como ao artigo 155 do CPP, não foram submetidas ao necessário prequestionamento, vez que não ventilada pelo Tribunal a quo, tampouco na ocasião do julgamento dos embargos declaratórios defensivos. Desta forma, inviável a admissão do recurso neste ponto por ausência de prequestionamento com base na Súmula nº 211/STJ.
+12. De qualquer forma, na remota hipótese de serem superados os argumento supracitados, o recurso especial não é a via recursal adequada para reexaminar aspectos fático-probatórios - como pretende fazer o recorrente ao sustentar a insuficiência de provas para a condenação -, pois essa competência é adstrita às instâncias ordinárias (Súmula nº 07/STJ)."
+Assim, não conheço do presente recurso especial.
+Publique-se.
