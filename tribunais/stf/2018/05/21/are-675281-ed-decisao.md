@@ -1,0 +1,12 @@
+Decisão
+    Trata-se de Embargos de Declaração opostos contra decisão, proferida pelo Saudoso Ministro TEORI ZAVASCKI, que negou seguimento a Recurso Extraordinário com Agravo sob os fundamentos de que (a) o acórdão impugnado deu solução à causa com base em interpretação de legislação infraconstitucional, de modo que eventual ofensa à Constituição Federal seria apenas reflexa; (b) a discussão quanto a exigibilidade de contribuição social, destinada ao INCRA, das empresas urbanas diz respeito a tema cuja existência de repercussão geral foi rejeitada por esta CORTE na análise do RE 578.635 (Rel. Min. MENEZES DIREITO, DJE de 16/10/2008) - TEMA 108, por se tratar de questão infraconstitucional; (c) quanto à alegação de ofensa aos limites da coisa julgada e aos princípios do devido processo legal, do contraditório e da ampla defesa, diz respeito a temas cuja existência de repercussão geral foi rejeitada por esta CORTE na análise do ARE 748.371-RG (Rel. Min. GILMAR MENDES, Tema 660), por se tratar de questão infraconstitucional e; (d) o acórdão recorrido ampara-se em fundamentos infraconstitucionais aptos, por si sós, a sustentá-lo e, como transitou em julgado a inadmissão do recurso especial proposto para reformar esses argumentos, o recurso extraordinário é inoperante para reverter o aresto, pelo que se aplica o óbice da Súmula 283/STF.
+    Em suas razões, a parte embargante sustenta que não houve pronunciamento quanto à inexigibilidade da contribuição ao INCRA após a entrada em vigor da Emenda Constitucional 33/2001.
+    É o relatório. Decido.
+    É caso de acolhimento dos embargos no ponto arguido pela parte embargante.
+    Em relação ao debate referente a “Referibilidade e natureza jurídica da contribuição para o INCRA, em face da Emenda Constitucional nº 33/2001”, o Plenário do SUPREMO TRIBUNAL FEDERAL, no julgamento do RE 630.898-RG (Rel. Min. DIAS TOFFOLI, Tema 495), examinou a repercussão geral das questão constitucional debatida nesse recurso.
+    Ante o exposto, ACOLHO OS EMBARGOS DE DECLARAÇÃO, unicamente em relação ao debate acerca da contribuição para o INCRA, após a vigência da Emenda Constitucional 33/2001, com fundamento no art. 1.036 e seguintes do Código de Processo Civil de 2015 e no art. 328, parágrafo único, do Regimento Interno do STF, e determino a DEVOLUÇÃO dos autos ao Juízo de origem para que aguarde o julgamento de mérito do Supremo no precedente.
+    Publique-se.
+    Brasília, 21 de maio de 2018.
+                Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
