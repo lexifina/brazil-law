@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] DE OLIVEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul (HC n. 1413470-50.2016.8.12.0000).
+Consta dos autos que o paciente foi condenado, no âmbito dos Juizados Especiais Criminais, à pena de 4 meses e 15 dias de detenção, em regime aberto, pela prática do crime previsto no art. 307 do Código Penal (e-STJ fls. 45/47).
+Irresignada com a pena aplicada, a defesa interpôs recurso de apelação, o qual foi improvido pela Turma Recursal (e-STJ fls. 54/57), sobrevindo o trânsito em julgado da condenação.
+Ainda inconformada, impetrou habeas corpus no Tribunal a quo, o qual não foi conhecido, sob o entendimento de que a via utilizada seria inadequada (e-STJ fls. 96/102). Segue a ementa do acórdão:
+HABEAS CORPUS - DECISÃO DE TURMA RECURSAL DO JUIZADO ESPECIAL - SUCEDÂNEO RECURSAL - PRELIMINAR DE NÃO CONHECIMENTO ARGUIDA PELA PGJ - ACOLHIMENTO - WRIT NÃO CONHECIDO.
+Incabível a impetração de habeas corpus para anular ou revisar acórdão de turma recursal, uma vez que o referido remédio constitucional não pode ser utilizado como sucedâneo recursal.
+No presente mandamus (e-STJ fls. 1/19), a impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, na medida em que a negativa de prestação jurisdicional ensejou a manutenção de ilegalidades na dosimetria da pena. Afirma que a exasperação da pena-base pautou-se em argumentação genérica, no sentido de que as "circunstâncias subjetivas" eram desfavoráveis ao paciente, sem declinar quais seriam essas circunstâncias. Além disso, aduz ser ilegal a não compensação da agravante reincidência com a atenuante da confissão espontânea, na segunda fase da dosimetria, pois tais circunstâncias são igualmente preponderantes.
+Ao final, formula pedido liminar para que sejam suspensos os efeitos da condenação até o julgamento deste writ e, no mérito, pede a concessão da ordem para que a pena-base seja reduzida ao patamar mínimo legal e a agravante da reincidência seja integralmente compensada com a atenuante da confissão espontânea.
+O pedido liminar foi indeferido (e-STJ fls. 114/116).
+O Ministério Público Federal, por meio do parecer exarado às e-STJ fls. 121/125, opinou pelo não conhecimento do writ ou, se conhecido, pela concessão parcial da ordem.
+É o relatório. Decido.
+No caso, as teses suscitadas pelo impetrante não foram objeto de exame no acórdão impugnado, proferido em sede de habeas corpus, sendo incabível a respectiva análise no âmbito do Superior Tribunal de Justiça, sob pena de supressão de instância.
+Nesse sentido, segue a jurisprudência desta Corte:
+ ..  DOSIMETRIA. MATÉRIA NÃO ANALISADA NAS INSTÂNCIAS ORDINÁRIAS. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. INSURGÊNCIA DESPROVIDA.
+1. Inviável a concessão de habeas corpus de ofício se a matéria relativa à aplicação da pena ainda não foi analisada pelas instâncias ordinárias, pois implicaria em indevida supressão de instância.
+2. Agravo regimental desprovido (AgRg no REsp 1.382.235/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 26/10/2016).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE DAS PROVAS. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL A QUO. INDEVIDA SUPRESSÃO DE INSTÂNCIA. AGRAVO NÃO PROVIDO.
+1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte. Precedentes.
+2. "Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada a sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, da aventada nulidade das provas produzidas (..)" (HC 318.623/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/05/2015, DJe 28/05/2015).
+3. Agravo regimental não provido (AgRg no HC 196.282/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 18/10/2016).
+Por outro lado, o Supremo Tribunal Federal já decidiu que compete aos Tribunais de Justiça ou Tribunais Regionais Federais, conforme o caso, processar e julgar os habeas corpus impetrados contra acórdãos prolatados por Turmas Recursais de Juizados Especiais. A propósito:
+Agravo regimental em recurso extraordinário com agravo. 2. Processual Penal. As alterações promovidas pela Lei n. 12.322/2010 não modificaram o prazo para interposição de agravo em recurso extraordinário criminal, que é de 5 (cinco) dias. Precedente: Questão de Ordem no AgRg no ARE 639846. 3 A competência para julgar habeas corpus impetrado contra ato de integrantes de turmas recursais de juizados especiais é do Tribunal de Justiça ou do Tribunal Regional Federal, conforme o caso. Precedentes. 4. Agravo em recurso extraordinário intempestivo. 5. Agravo regimental a que se nega provimento (ARE 676.275 AgR/MS, Rel. Ministro GILMAR MENDES, Segunda Turma, DJe 1º/8/2012).
+Nesse contexto, incumbe ao Tribunal a quo examinar o objeto da impetração originária para aferir se a hipótese comporta a concessão de ordem de habeas corpus.
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, nego seguimento ao habeas corpus. Contudo, concedo a ordem, de ofício, para cassar o acórdão impugnado e determinar que o Tribunal a quo examine o mérito da impetração originária.
+Intime-se.
+Cientifique-se o Ministério Público Federal.
