@@ -1,0 +1,27 @@
+EMENTA
+HABEAS CORPUS CONTRA O INDEFERIMENTO DE PROVIMENTO LIMINAR EM WRIT AJUIZADO NO TRIBUNAL ESTADUAL. FALTA DE CABIMENTO. ORGANIZAÇÃO CRIMINOSA ARMADA E LAVAGEM DE DINHEIRO (ART. 2º, CAPUT E § 2º, DA LEI N. 12.850/2013 E ART. 1º, CAPUT E § 4º, DA LEI N. 9.613/1998). NULIDADE DA INTERCEPTAÇÃO TELEFÔNICA. FUNDAMENTOS DA PRISÃO PREVENTIVA. INCIDÊNCIA DA SÚMULA 691/STF.
+Petição inicial indeferida liminarmente.
+DECISÃO
+Neste habeas corpus, os advogados [NOME] e [NOME] apontam a ocorrência de constrangimento ilegal decorrente do indeferimento do pedido liminar apresentado em nome de [NOME] no HC n. 2081760-10.2017.8.26.0606, em curso no Tribunal de Justiça de São Paulo.
+Alegam, em suma, que o Ministério Público se valeu de documentos reconhecidos nulos no RHC n. 66.887/SP para embasar seu primeiro pedido de quebra de sigilo telefônico; e que faltam os requisitos autorizadores do art. 312 do Código de Processo Penal na decretação da prisão preventiva de todos os 7 envolvidos no Processo n. 0002702.17.2018.8.26.0606, da 2ª Vara Criminal da comarca de Suzano/SP.
+Argumentam que pretenderam, na Corte estadual, o sobrestamento da referida ação penal até decisão de mérito do writ, o desentranhamento da Interceptação Telefônica n. 0002760.54.2017.8.26.0606 e a concessão da ordem liberatória em caráter liminar, mas esses pedidos foram indeferidos.
+E repetem aqui os mesmos pedidos.
+Consultado o Ministro Nefi Cordeiro a respeito de eventual prevenção para processar e julgar este caso (fl. 173) diante da menção ao RHC n. 66.887/SP, S. Exa. não verificou a ocorrência de tal hipótese (fls. 2.791).
+É o relatório.
+É incabível este habeas corpus porque ataca decisão denegatória de provimento cautelar (Súmula 691/STF), a qual, ademais, não revela nenhuma teratologia nem constrangimento ilegal evidente.
+Eis, a propósito, o decisum proferido pelo Desembargador Relator do HC n. 2081760-10.2017.8.26.0606 no que ora interessa (fls. 333/334):
+ ..
+Depreende-se dos autos que o Núcleo Guarulhos do Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO) constatou o envolvimento do "Primeiro Comando da Capital" com a cooperativa responsável pelo fornecimento do serviço de transporte público na cidade de Suzano (autos de medida cautelar nº 0002760-54.2017.8.26.0606), sendo que a "Cooper-Suzan" estaria sendo utilizada por membros da facção criminosa, dentre estes o paciente, como fachada para a exploração do tráfico de drogas e lavagem de dinheiro, envolvendo ainda políticos da região.
+Em consulta aos autos da ação originária, verifica-se que o paciente e os outros investigados foram denunciados (fls. 01/133), sendo a inicial acusatória recebida pelo juízo a quo, momento em que o paciente e outros seis investigados tiveram decretada a prisão preventiva (fls. 1581/1585).
+Consta da denúncia que, após extensa investigação, iniciada por meio de informante, apurou-se que a cooperativa "Cooper-Suzan", responsável pelo serviço de transporte público na cidade de Suzano, era utilizada por integrantes da organização criminosa "PCC" para a exploração do tráfico de drogas, com a participação de políticos da região.
+As interceptações teriam revelado também que o paciente [NOME], denunciado como incurso no artigo 2º, caput, c.c. §2º da Lei nº 12.850/2013; artigo 1º, caput, c.c. §4º da Lei 9.613/1998, ocuparia posição superior na organização criminosa e, seria auxiliado pelo seu irmão [NOME], na administração dos negócios da organização, realizando a movimentação de quantias elevadas de dinheiro e a possível lavagem do patrimônio obtido, bem como possuiriam elevada influência nas questões atinentes à cooperativa.
+Aponta-se, por fim, que os denunciados teriam obtido consideráveis lucros com suas condutas criminosas e que praticamente todos eles teriam adotado métodos de ocultar a ilicitude dos bens provenientes dos crimes que lhes são imputados.
+Analisados os argumentos expostos na impetração, não se vislumbram, de plano, os imprescindíveis fumus boni iuris e periculum in mora autorizadores de sua concessão.
+No caso em tela, a decisão que decretou a interceptação telefônica encontra-se formalmente em ordem, sendo lastreada, prima facie, em investigações anteriores (fls. 499/500 dos autos originários).
+Igualmente, a decisão que decretou a prisão preventiva (fls. 1581/1585 dos autos da ação penal) encontra-se, a priori, suficientemente fundamentada, destacando a gravidade concreta dos delitos e a complexidade destes, que envolvem organização criminosa complexa e altamente perigosa, podendo influir ainda na aplicação da lei penal e instrução do processo.
+A providência ora pretendida é excepcional, cabível nas hipóteses em que a ilegalidade é patente e constatável da singela leitura da inicial e documentos a ela acostados.
+Por fim, conforme disposição expressa do Regimento Interno desta Egrégia Corte (arts. 123, § 3º, e 248), os pedidos de habeas corpus devem ser julgados assim que o Relator proferir o despacho determinando a inclusão do feito na pauta de julgamento, independentemente de intimação prévia da defesa. Nestes termos, indefere-se o pedido de intimação dos impetrantes para realização de sustentação oral.
+No mais, o pleito se confunde com o próprio mérito do writ, a ser oportuna e futuramente apreciado pelo Órgão Colegiado.
+É indevida a pretendida supressão de instância, cumprirá ao Colegiado competente analisar os temas antes desta Corte Superior de Justiça.
+Diante do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
