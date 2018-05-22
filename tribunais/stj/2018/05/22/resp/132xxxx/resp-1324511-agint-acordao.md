@@ -1,0 +1,47 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIROS. AQUISIÇÃO DE UNIDADE. AÇÃO JUDICIAL EXISTENTE À ÉPOCA DA AQUISIÇÃO. VIOLAÇÃO ART. 458 DO CPC. FALTA DE PREQUESTIONAMENTO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO. AGRAVO NÃO PROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 458 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. É vedado o reexame de matéria fático-probatória em sede de recurso especial, a teor do que prescreve a Súmula 7 desta Corte.
+3. A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Incidência na espécie da Súmula 282/STF.
+4. A comprovação do dissídio pretoriano nos termos exigidos pelos dispositivos legais e regimentais que o disciplinam, exige a transcrição dos trechos dos acórdãos em confronto e a realização do necessário cotejo analítico das teses supostamente divergentes, assim como a indicação do repositório oficial ou cópia do inteiro teor dos julgados paradigmas.
+5. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto por [NOME] em face de decisão deste Relator de fls. 235-237, que negou provimento ao seu recurso especial, em razão da incidência da Súmula 7/STJ, devido a impossibilidade de reexame do conjunto fático-probatório dos autos; e pela aplicação das Súmulas 284 e 282 do STF.
+Nas razões recursais, sustenta a parte agravante: "Foram juntadas, contrariamente do que consta no item 4 da EMENTA da r. decisão objeto de agravo, cópias do inteiro teor obtido na internet, com citação do repositório de jurisprudência e da mídia eletrônica, das decisões citadas como paradigmas à fls. 186/197, cumprindo assim o disposto no parágrafo único do artigo 541 do anterior Código de Processo Civil..Quanto ao fato de a violação ao artigo 42, § 3º do Código de Processo Civil não ter sido prequestionado nem, tampouco, debatido pelo acórdão, é preciso esclarecer que a questão surgiu no próprio acórdão objeto de recurso especial com oposição de embargos de declaração específicos sobre o tema, sendo certo que não houve apreciação pelo E. Tribunal "a quo", eivando de nulidade o v. acórdão objeto de recurso especial por evidente a ausência de prestação jurisdicional..Conforme demonstrado nas razões de recurso especial, foi equivocada a aplicação do Enunciado da Súmula 375 do STJ, por se referir a fraude à execução que não se aplica ao caso concreto relacionado com a aquisição de bem litigioso.".
+Requer o conhecimento e provimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIROS. AQUISIÇÃO DE UNIDADE. AÇÃO JUDICIAL EXISTENTE À ÉPOCA DA AQUISIÇÃO. VIOLAÇÃO ART. 458 DO CPC. FALTA DE PREQUESTIONAMENTO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO. AGRAVO NÃO PROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 458 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. É vedado o reexame de matéria fático-probatória em sede de recurso especial, a teor do que prescreve a Súmula 7 desta Corte.
+3. A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Incidência na espécie da Súmula 282/STF.
+4. A comprovação do dissídio pretoriano nos termos exigidos pelos dispositivos legais e regimentais que o disciplinam, exige a transcrição dos trechos dos acórdãos em confronto e a realização do necessário cotejo analítico das teses supostamente divergentes, assim como a indicação do repositório oficial ou cópia do inteiro teor dos julgados paradigmas.
+5. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Conforme consignado na decisão monocrática de minha Relatoria (fls. 235-237), não se pode conhecer da apontada violação do art. 458, II do CPC, pois as alegações que a fundamentaram são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. HONORÁRIOS. BASE DE INCIDÊNCIA. VIOLAÇÃO À COISA JULGADA. SÚMULA 7/STJ.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. A alteração das conclusões adotadas pela Corte de origem, acerca da base de incidência dos honorários advocatícios determinada no título exequendo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 1.376.617/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 6/8/2015, DJe 19/8/2015).
+3. No tocante à irregularidade de representação; ao pagamento das custas; e a não comprovação de má-fé dos adquirentes, e o consequente não preenchimento dos requisitos para o reconhecimento da fraude à execução, verifico que o acolhimento da pretensão recursal demandaria, necessariamente, reexame do conjunto fático - probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIMENTOS. CUMPRIMENTO DE SENTENÇA. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem entendeu que inexiste, e não restou demonstrada pela parte recorrente, qualquer irregularidade de representação processual nos autos, e que não há falar em qualquer modalidade de prescrição no presente caso. Alterar o entendimento do acórdão recorrido demandaria reexame do conjunto fático-probatório dos autos, o que é vedado em razão da Súmula 7 do STJ.
+2. No presente caso, constato que o acolhimento da pretensão recursal, no tocante a não ocorrência da preclusão em relação aos cálculos de honorários advocatícios apresentados pela Contadoria Judicial, e a ausência de litigância de má-fé, demandaria a alteração das premissas fático - probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1011870/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/03/2017, DJe 03/04/2017)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DOS AGRAVANTES.
+1. Reconhecida a fraude à execução, deve ser afastada a impenhorabilidade do bem de família. Precedentes desta Corte.
+Incidência da Súmula 83 do STJ.
+2. As conclusões relativas à caracterização de fraude à execução não podem ser revistas por esta Corte Superior, em sede de recurso especial, pois demandariam necessariamente o reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 935.432/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/04/2018, DJe 17/04/2018)
+4. Ademais, no tocante à alegada violação ao 42, § 3º do CPC, saliento que o dispositivo não foi prequestionado e nada foi debatido pelo acórdão recorrido em relação à matéria por ele tratada. Com efeito, ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Incidência na espécie da Súmula 282/STF. Há ressaltar que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração.
+5. Por fim, conforme asseverei às fls. 235-237, os recorrentes não comprovaram o dissídio pretoriano nos termos exigidos pelos dispositivos legais e regimentais que o disciplinam, notadamente por terem deixado de transcrever os trechos dos acórdãos em confronto e não terem demonstrado analiticamente a divergência entre as teses aplicadas, tampouco indicado o repositório oficial ou juntado cópia do inteiro teor dos julgados paradigmas.
+6. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
