@@ -1,0 +1,64 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXPLORAÇÃO CLANDESTINA DE ATIVIDADE DE TELECOMUNICAÇÕES. DELITO FORMAL. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. PRECEDENTES. EXECUÇÃO PROVISÓRIA. RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Inaplicável o princípio da insignificância ao delito previsto no art. 183 da Lei 9.472/97, por se tratar de crime formal, de perigo abstrato, sendo irrelevante a ocorrência de dano concreto causado pela conduta do agente.
+2. Ressalvada compreensão pessoal diversa, a Terceira Seção, no julgamento do EResp 1.619.087/SC, na sessão de 14/06/2017, adotou a orientação quanto à impossibilidade de execução provisória da pena restritiva de direitos, sendo indispensável, em tais casos, o trânsito em julgado da sentença penal condenatória, nos termos do art. 147 da Lei de Execução Penal.
+3. Agravo regimental improvido e indeferida a execução provisória da pena restritiva de direitos.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental e indeferir o pedido de execução provisória da pena restritiva de direitos, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face de decisão monocrática que negou provimento ao agravo em recurso especial.
+Sustenta o agravante que o recurso especial busca a revaloração das provas, não seu reexame, afirmando, ainda, que a conduta perpetrada é atípica, tendo em vista a incidência do princípio da insignificância.
+Requer a reconsideração da decisão ou a sua submissão à Sexta Turma.
+O agravado apresentou contraminuta às fls. 387/390, buscando a execução provisória da pena.
+A defesa se manifestou às fls. 398/402.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão combatida negou provimento ao agravo em recurso especial com os seguintes fundamentos (fls. 364/368):
+Consta dos autos que o recorrente foi condenado à pena de 2 anos, 2 meses e 5 dias de detenção, como incurso nas penas do art. 183 da Lei n. 9.472/97, substituída a pena privativa de liberdade por restritiva de direitos.
+Irresignada, a defesa manejou apelação criminal, tendo o Tribunal de origem dado parcial provimento ao recurso, para reduzir a pena para 2 anos de detenção, em regime aberto.
+Nas razões do apelo especial, afirma o recorrente que o acórdão impugnado teria negado vigência aos arts. 183 da Lei 9.472/97 e 386, III, do CPP.
+Sustenta que somente no que concerne às telecomunicações é possível admitir a incidência da Lei 4.117/62, já que quanto à radiodifusão essa não foi recepcionada e a Lei 9.472/97 não pode ser aplicada cm razão de disposição expressa em seu artigo 215 (fl. 297).
+Menciona que o artigo 183 da Lei 9.472/97, da mesma forma, não é aplicável ao caso dos autos, uma vez que é expresso ao dispor que configura crime desenvolver clandestinamente atividades de telecomunicação (grifo nosso), o qual, conforme já exposto, é instituto diverso da radiodifusão (fl. 297).
+Acrescenta que a conduta carece de tipicidade material, incidindo, na espécie, o princípio da insignificância.
+Pugna, assim, pelo provimento do recurso, a fim de que seja absolvido.
+O Tribunal de origem, ao analisar a configuração de autoria e materialidade na espécie, utilizou-se dos seguintes fundamentos (fls. 273/277):
+Inicialmente, observo que a orientação pretoriana assentou o entendimento de que a conduta de desenvolver atividade clandestina de radiodifusão, mediante a instalação e colocação em funcionamento de estação de radiodifusão, sem prévia autorização do órgão competente, configura o crime previsto no artigo 183, da Lei nº 9.472/97, que dispõe:
+"Artigo 183 - Desenvolver clandestinamente atividades de telecomunicação: Pena - detenção de 2 a 4 anos, aumentada da metade se houver dano a terceiro, e multa de R$ 10.000,00."
+Outrossim, já está sedimentado o entendimento de que o Código Brasileiro de Telecomunicações não foi revogado pelo artigo 183 da Lei 9.472/97, uma vez que este expressamente excepciona as atividades de radiodifusão.
+(..)
+Resumidamente, conclui-se que, enquanto o delito da Lei nº 4.117/62 incrimina o desenvolvimento de telecomunicação, inclusive de rádio comunitária, em desacordo com os regulamentos, embora com a devida autorização para funcionar, o delito insculpido no artigo 183 da Lei nº 9.472/97 tipifica a operação clandestina de tal atividade, ou seja, sem a devida autorização da Agência Nacional de telecomunicações - ANATEL.
+PRINCÍPIO DA INSIGNIFICÂNCIA
+O princípio da insignificância é inaplicável no crime previsto no artigo 183 da Lei 9.472/97, vez que a segurança dos meios de comunicação deve ser observada rigidamente, sendo que a atividade clandestina praticada pelo réu não pode ser descartada da apreciação pelo Poder Judiciário, haja vista que revestida de alto grau de reprovabilidade.
+(..)
+Assim, não deve ser acolhida a tese da absolvição do réu em razão do reconhecimento do princípio da insignificância, conforme dito acima o bem tutelado não pode ser tratado em grau de menor gravidade.
+MATERIALIDADE
+A materialidade delitiva restou demonstrada por meio do Termo de Representação da ANATEL nº 0005SP20110399 - fl. 04, o Relatório Fotográfico (fls. 05/06), Nota Técnica (fl. 07), Auto de Infração (fls. 08/10) e Relatório de Fiscalização às fls. 12/15.
+AUTORIA
+No caso dos autos, verifica-se que no dia 13 de dezembro de 2011, a ANATEL constatou o funcionamento de uma estação clandestina de rádio, na freqüência de FM de 95 Mhz, sendo explorada pelo denunciado, instalada a mesma em imóvel sito na travessa Barreira Branca nº 52, nesta capital.
+ ..
+Com efeito, a combinação da confissão e o depoimento das testemunhas aponta, sem sombra de dúvidas, que o denunciado [NOME] era o responsável pelo uso de radiofreqüência sem autorização e pelo uso de equipamento transmissor de FM com potência de 260 W e freqüência 95.0 MHz, equipamento considerado clandestino pelo fato de não ter expressa autorização da Agência Nacional de Telecomunicações - ANATEL para funcionamento.
+Vale ressaltar que se trata de delito de natureza formal, que prescinde de resultado naturalístico para a sua consumação, não sendo necessário que a conduta do agente cause efetivo prejuízo a outrem. O delito se consuma com o mero risco potencial de lesão ao bem jurídico tutelado, qual seja, o regular funcionamento do sistema de telecomunicações, bastando para tanto a comprovação de que o agente desenvolveu atividade de radiocomunicação, espécie de telecomunicação, sem a devida autorização do órgão competente.
+Cumpre rejeitar, ainda, a alegação da Defesa no sentido de que a conduta do réu não poderia ser reputada criminosa, ante a ausência de efetivo perigo de lesão ao bem jurídico tutelado, por não gerar interferência.
+Com efeito, conforme já mencionado, tratando-se de crime formal e de perigo abstrato, o perigo é inerente à conduta, não se exigindo, para a consumação do delito, um efetivo dano ao sistema de telecomunicações (bem jurídico tutelado).
+Cabe considerar que, muito embora não houvesse qualquer equipamento de som no imóvel, o Relatório de Fiscalização foi categórico ao afirmar que havia um transmissor de FM desconectado do cabo de transmissão da antena, mas que ao ser manuseado foi constatado que o mesmo estava quente, indicando que estava em funcionamento poucos minutos antes.
+O acusado tinha pleno conhecimento da ilicitude de sua conduta, não só pelas diversas autuações recebidas pela ANATEL (inclusive com aplicação de multa), como também pelo fato de que reconheceu, em seu interrogatório, que escondia os aparelhos utilizados para consertos de rádio e antenas (frequencímetro e outros) para não serem apreendidos. Anote-se, ainda, que a antena no imóvel fiscalizado estava camuflada em um tubo de PVC, método usualmente empregado na tentativa de ocultar a atividade realizada.
+Correto, portanto, o decreto condenatório proferido em desfavor de [NOME].
+Nos termos da orientação jurisprudencial desta Corte, o funcionamento de emissora de rádio sem autorização da Agência Nacional de Telecomunicações é delito formal, de perigo abstrato, tendo como bem jurídico tutelado a segurança e o regular funcionamento dos meios de comunicação. Assim, ainda que constatada a baixa potência do equipamento de radiodifusão, a conduta não pode ser considerada um irrelevante penal.
+Nesse sentido, destaco os seguintes precedentes:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ATIVIDADE CLANDESTINA DE RADIODIFUSÃO. CRIME FORMAL DE PERIGO ABSTRATO. DESNECESSIDADE DE COMPROVAÇÃO DA LESIVIDADE DA CONDUTA. INSIGNIFICÂNCIA. INAPLICABILIDADE. DECISÃO AGRAVADA MANTIDA. AGRAVO NÃO PROVIDO.
+1. Este Superior Tribunal de Justiça tem o entendimento consolidado no sentido de ser inaplicável o princípio da insignificância ao delito previsto no artigo 183 da Lei n. 9.472/1997, nas hipóteses de exploração irregular ou clandestina de rádio comunitária, inobstante ser de baixa potência, uma vez que se trata de delito formal de perigo abstrato, que dispensa a comprovação de qualquer dano (resultado) ou do perigo, presumindo-se este absolutamente pela lei.
+2. A instalação e a utilização de aparelhagem em desacordo com as exigências legais, ou de forma clandestina, sem a observância dos padrões técnicos estabelecidos em normas nacionais, por si só, inviabilizam o controle do espectro radioelétrico e podem causar sérias interferências prejudiciais em serviços de telecomunicações regularmente instalados (polícia, ambulâncias, bombeiros, navegação aérea, embarcações, bem como receptores domésticos - TVs e rádios - adjacentes à emissora), pelo aparecimento de frequências espúrias. Por conseguinte, além de presumida a ofensividade da conduta por lei, inquestionável a alta periculosidade social da ação.
+3. Agravo regimental não provido.
+(AgInt no AREsp 554.340/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/09/2016, DJe 10/10/2016).
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RÁDIO CLANDESTINA. INSTALAÇÃO. PERIGO ABSTRATO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE.
+1. "É também pacífica a jurisprudência desta Corte no sentido de que a instalação de estação de radiodifusão clandestina é delito de natureza formal de perigo abstrato que, por si só, é suficiente para comprometer a segurança, a regularidade e a operabilidade do sistema de telecomunicações do país, não tendo aplicação o princípio da insignificância mesmo que se trate de serviço de baixa potência" (AgRg no REsp 1566462/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/03/2016, DJe 28/03/2016).
+2. Agravo regimental a que se nega provimento.
+(AgInt no AREsp 816.990/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 02/08/2016, DJe 16/08/2016).
+Assim, nota-se que as instâncias ordinárias entenderam como suficientes as provas constantes dos autos a embasar a condenação, pretendendo o recorrente, no presente, a alteração da referida conclusão.
+No entanto, sabe-se que a Corte de origem é soberana na apreciação da matéria fático-probatória, de modo que o exame da referida pretensão encontra óbice no enunciado da Súmula 7/STJ, porquanto a reversão do julgado demandaria o revolvimento no contexto probatório dos autos.
+Ante o exposto, nego provimento ao agravo.
+Não obstante os argumentos deduzidos pela defesa, o agravante não trouxe argumentos capazes de desconstituir as premissas fáticas e jurídicas assentadas na decisão guerreada que, inclusive, conforme se depreende de sua fundamentação, fora proferida nos termos da orientação jurisprudencial desta Corte Superior, firmada no sentido da inaplicabilidade do princípio da insignificância ao delito do art. 183 da Lei 9.472/97, por ser este crime de perigo abstrato, sendo irrelevante a ocorrência de dano concreto causado pela conduta do agente.
+Quanto ao pleito para a execução provisória da pena, a Terceira Seção desta Corte Superior, no julgamento do EResp 1.619.087/SC, na sessão de 14/06/2017, adotou a orientação quanto à impossibilidade de execução provisória da pena restritiva de direitos, sendo indispensável, em tais casos, o trânsito em julgado da sentença penal condenatória, nos termos do art. 147 da Lei de Execução Penal, razão pela qual deve ser indeferido o pleito.
+Ante o exposto, voto por negar provimento ao agravo regimental e indeferir o pedido ministerial de execução provisória da pena.
