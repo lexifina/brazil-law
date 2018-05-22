@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – MATÉRIA FÁTICA – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Superior Tribunal de Justiça não conheceu de conflito de competência. No extraordinário, a recorrente aponta violado o artigo 170, inciso III, da Constituição Federal. Afirma ser competente o Juízo da 5ª Vara Empresarial da Comarca do Rio de Janeiro/RJ para apreciar a controvérsia sobre a existência ou não de sucessão entre a recorrente e Mobilitá em relação às obrigações trabalhistas desta sociedade empresária.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do ato questionado os seguintes trechos:
+    Nesse contexto, há que se referir que, conforme mencionado pela suscitante, a jurisprudência do Superior Tribunal de Justiça tem reconhecido a configuração de conflito nas hipóteses em que juízos distintos controvertem acerca da existência de sucessão dos ônus e obrigações, nos casos de alienação judicial de unidade produtiva (art. 60 da Lei 11.101/05), entre a sociedade em recuperação e a arrematante, afirmando, nesses casos, a competência do juízo recuperacional, notadamente porque, além de o desenvolvimento de atividade jurisdicional simultânea pelos juízos envolvidos ocasionar evidente prejuízo às partes, considerou-se o juízo que homologou a referida alienação o mais habilitado a verificar a extensão e higidez da medida adotada.
+    [...]
+    Todavia, consoante dito e reafirmado anteriormente, cuida a hipótese de redirecionamento da execução trabalhista para empresa tida como pertencente a um mesmo grupo econômico.
+    Para essa específica situação, a Segunda Seção do STJ tem orientação firme no sentido de que "não há conflito de competência quando o redirecionamento da execução trabalhista para empresas do mesmo grupo econômico não atingir o patrimônio daquela em regime de recuperação judicial" (AgInt no CC 144.195/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, DJe de 15/03/2017).
+    [...]
+    Irrelevante a circunstância de que a pessoa jurídica, incluída no polo passivo da execução trabalhista, tenha sido criada nos moldes do art. 60 da Lei 11.101/05, na medida em que a questão relacionada à formação do grupo econômico (CLT, art. 2º, §2º) é matéria a ser discutida no âmbito da própria Justiça Especializada pelas vias recursais próprias.
+    [...]
+    Ainda que se pudesse superar tal orientação do STJ, penso que as peculiaridades do caso também não possibilitariam o conhecimento do conflito.
+    Ocorre que, consoante constou da própria ata da assembleia de credores realizada em 09/09/2009, bem assim das informações recebidas em diversos conflitos anteriormente apresentados pela suscitante, prestadas pelo juízo recuperacional e pelo administrador judicial, os créditos detidos pelos credores trabalhistas (Classe I) não foram incluídos no plano de recuperação judicial apresentado, ou seja, não foram objeto da novação prevista no art. 59 da Lei 11.101/05, o que, à toda evidência, também inviabiliza o conhecimento do conflito.
+    Ora, se os credores trabalhistas não foram submetidos ao plano de recuperação, não há que se cogitar da competência do Juízo da 5ª Vara Empresarial da Comarca do Rio de Janeiro/RJ para deliberar sobre tais obrigações, especialmente se o juízo laboral, como no caso, não ordenou quaisquer atos de contrição sobre o patrimônio das empresas em recuperação.
+    Na hipótese e consideradas as mencionadas particularidades, aplica-se, por analogia, o enunciado da súmula 480/STJ ("O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa"), pois, por ter personalidade jurídica própria e patrimônio distinto da empresas em recuperação, a eventual constrição de bens pertencentes à suscitante não vulnera quaisquer da disposições constantes da Lei 11.101/2005, tendo em vista a inexistência prejuízo ao concurso de credores.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado. Busca-se a reanálise dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso, o que é vedado em sede extraordinária.
+    A par desse aspecto, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 22 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
