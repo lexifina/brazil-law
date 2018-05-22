@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “AÇÃO RESSARCITÓRIA DE DANOS. PAGAMENTO DE HORAS EXTRAORDINÁRIA. CARGO EM COMISSÃO.
+    -  O servidor nomeado para exercer cargo em comissão não faz jus à percepção de horas extraordinárias, dada a relação de confiança estabelecida para a nomeação e que pressupõe devotamento maior ao serviço que o exigido dos demais servidores de diversa espécie de provimento.
+    -  Situação peculiar adicional, reconhecida pela própria lei aplicável ao caso, que vedou o pagamento da versada gratificação a esses servidores nomeados para cargo em provimento em comissão.
+    -  Este Tribunal de Justiça tem adotado, frequentemente, o critério de considerar o valor coevo do salário mínimo como limite inferior da moldura da fixação honorária. E esse critério não parece deva afastar-se no caso sob exame.
+                Não provimento do apelo da requerida. Acolhimento do recurso da Fazenda Municipal.” (eDOC 3, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alíneas “a” e “c”, da Constituição Federal, aponta-se violação aos arts. 1º, III, IV; 5º, caput; 7º, XIII e XVI; 39, §3º; e 93, IX, do texto constitucional.
+    Nas razões recursais, alega-se, em suma, que a Lei Municipal 223/74 foi julgada válida em face da Constituição. Aduz, ainda, que o não pagamento das horas extraordinárias viola ao princípio da dignidade da pessoa humana. Por fim, sustenta-se ofensa à limitação da jornada de trabalho.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Municipal 223/74), consignou que ao servidor ocupante de cargo em comissão, não é conferido o direito de perceber horas extraordinárias. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Bem se avista que, não havendo, quanto aos servidores em cargo de provimento em comissão, possível excesso ou suplemento de carga horária – porque essa carga não se molda aos cargos fiduciários –, não há, de conseguinte, retribuição correspondente a adicional por serviço suplementar, que de toda sorte, fosse ainda de cogitar-se, exigiria previsão legal expressa quanto a seus critérios definidores (VIRGA, Pietro. II pubblico impiego dopo la privattizazione. 2.ed. Milão: Giuffrè, 1995, p. 164). E, na espécie, não há preceito local a demarcar as horas de serviço ordinário do servidor público itapeviense em provimento comissionado.” (eDOC 3, p. 11-12)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Prefeita. Realização de despesas em contrariedade à legislação municipal. Pagamento de horas extras a servidores comissionados. 4. Matéria local. Ofensa reflexa à Constituição Federal. Súmula 280 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE-AgR, 1096.357, de minha relatoria, Segunda Turma, DJe 9.4.2018)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL.CARGO EM COMISSÃO. PAGAMENTO DE HORAS EXTRAS. AÇÃO DE RESSARCIMENTO DE VALORES: IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL, RESSALVADA EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE-AgR 1084.813, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 14.3.2018)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 22 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
