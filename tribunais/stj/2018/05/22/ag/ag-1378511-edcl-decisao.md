@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ASSOCIAÇÃO CONGREGAÇÃO DE SANTA CATARINA em face da decisão singular acostada a fls. 861-864 e-STJ, da lavra deste signatário, em que foi dado provimento a agravo regimental manejado pelo ora embargado, para conhecer o agravo (art. 544 do CPC/73) e de plano, acolher a alegação de negativa de prestação jurisdicional formulada no recurso especial.
+Nas razões dos aclaratórios (fls. 867-869 e-STJ) a embargante afirmou haver contradição e obscuridade na decisão monocrática, pois o Tribunal estadual teria emitido pronunciamento a respeito da configuração do estado de perigo.
+Impugnação às fls. 879-883 e-STJ.
+É o relatório. Decide-se
+Os presentes aclaratórios não comportam acolhimento.
+1. Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada. Nesse sentido, veja-se o seguinte precedente:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO - AÇÃO DE ANULAÇÃO DE TÍTULO DE CRÉDITO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO DE INSTRUMENTO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL.
+IRRESIGNAÇÃO DA AUTORA.
+ ..
+2. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, ao mero reexame da causa como pretende a parte.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no Ag 1230075/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/09/2015, DJe 11/09/2015)
+Citam-se, ainda, a título exemplificativo, os seguintes julgados: EDcl no AgRg no Ag 1329960/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/10/2016, DJe 19/10/2016; EDcl no REsp 1597129/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/10/2016, DJe 17/10/2016; EDcl no AgRg na PET na Rcl 22.564/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 18/08/2016.
+1.1. Ademais, conforme a iterativa jurisprudência deste Tribunal Superior, a contradição que enseja o acolhimento dos embargos de declaração é aquela interna à decisão embargada, na qual há oposição lógica entre os fundamentos adotados ou entre esses e o dispositivo final.
+Nesse sentido, citam-se precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. CONTRADIÇÃO. INEXISTÊNCIA.  ..  2 - A contradição autorizativa do manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado. 3 - Embargos de declaração no agravo interno no agravo em recurso especial parcialmente acolhidos, sem efeitos modificativos. (EDcl no AgInt no AREsp 876.673/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/05/2017, DJe 25/05/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CONTRADIÇÃO. INEXISTÊNCIAS. DIPLOMAÇÃO. DOCÊNCIA. IMPOSSIBILIDADE. RELAÇÃO DE CONSUMO. REQUISITO. AUSÊNCIA. DEVER DE INFORMAÇÃO. DANO MORAL. ATO ILÍCITO. REEXAME. SÚMULA N. 7 DO STJ. 1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional. 2. A contradição que dá ensejo aos embargos de declaração é a interna, ou seja, aquela que se verifica entre as premissas ou entre estas e a conclusão do julgado embargado. Precedentes.  ..  4. Agravo interno a que se nega provimento. (AgInt no AREsp 523.977/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+2. No caso em tela, a embargante aponta contradição e obscuridade no decisum impugnado, pois entende ter havido manifestação da Corte estadual a respeito da configuração de Estado de Perigo.
+Razão não lhe assiste, pois a decisão monocrática encontra-se devida e suficientemente fundamentada, tendo enfrentado todos os pontos necessários ao deslinde da controvérsia.
+Essencialmente, foi acolhida a alegação de ofensa ao artigo 535 do CPC/1973, pois, apesar de a Corte estadual ter sido instada, por meio de embargos de declaração, a se manifestar a respeito da configuração do Estado de Perigo, restou silente, mantendo o acórdão que analisara a controvérsia apenas sob a ótica de outro vício dos negócios jurídicos, a coação.
+Ressaltou-se na decisão singular que, com o advento do Código Civil de 2002, o Estado de Perigo passou a ser objeto de norma específica - e não mais uma derivação doutrinária da coação - de modo que a análise realizada pelo Tribunal de origem não fora suficiente para rejeitar, de modo fundamentado, as pretensões do ora embargado.
+Assim, tendo o acórdão embargado decidido de modo claro e fundamentado, apenas contrário aos interesses da parte, não há de se falar em vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente, razão pela qual se impõe a sua rejeição.
+3. Do exposto, rejeitam-se os embargos de declaração.
+Publique-se. Intimem-se.
