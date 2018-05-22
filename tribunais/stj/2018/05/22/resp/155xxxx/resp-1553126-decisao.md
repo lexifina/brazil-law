@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 346):
+PREVIDENCIÁRIO. TEMPO DE SERVIÇO URBANO. SERVIDOR PÚBLICO ESTATUTÁRIO. AVERBAÇÃO NO RGPS. RECOLHIMENTO DE CONTRIBUIÇÕES PARA O REGIME PRÓPRIO. RESPONSABILIDADE DO ENTE PÚBLICO. CONTAGEM RECÍPROCA. TEMPO DE SERVIÇO ESPECIAL. AGENTES NOCIVOS CHUMBO, RUÍDO E ELETRICIDADE. TEMPO ESPECIAL - CONVERSÃO EM TEMPO COMUM DEPOIS DE 28/05/1998. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO.
+CONCESSÃO. HONORÁRIOS ADVOCATÍCIOS.
+1. É possível que o segurado se aposente no regime geral da previdência social mediante o cômputo do período em que era filiado a regime próprio, desde que esse tempo não tenha sido utilizado para fins de inativação no serviço público, uma vez que os regimes se compensarão financeiramente.4. O reconhecimento da especialidade e o enquadramento da atividade exercida sob condições nocivas são disciplinados pela lei em vigor à época em que efetivamente exercidos, passando a integrar, como direito adquirido, o patrimônio jurídico do trabalhador.
+2. Até 28-04-1995 é admissível o reconhecimento da especialidade por categoria profissional ou por sujeição a agentes nocivos, admitindo-se qualquer meio de prova (exceto para ruído e calor); a partir de 29-04-1995 não mais é possível o enquadramento por categoria profissional, sendo necessária a comprovação da exposição do segurado a agentes nocivos por qualquer meio de prova até 05-03-1997 e, a partir de então, através de formulário embasado em laudo técnico, ou por meio de perícia técnica.
+3. A exposição a chumbo, ruído e eletricidade enseja o reconhecimento do tempo de serviço como especial.
+4. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer-se a especialidade do tempo de labor correspondente.
+5. O trabalhador que tenha exercido atividades em condições especiais, mesmo que posteriores a maio de 1998, tem direito adquirido, protegido constitucionalmente, à conversão do tempo de serviço, de forma majorada, para fins de aposentadoria comum (Precedentes desta Corte e do STJ).
+6. Preenchidos os requisitos legais, tem o segurado direito à obtenção de aposentadoria por tempo de contribuição integral 7. Honorários advocatícios de sucumbência fixados em 10% sobre as parcelas vencidas até a data da sentença/acórdão, nos termos da jurisprudência desta Corte e do STJ.
+Acolhidos, em parte, os aclaratórios, para efeito de prequestionamento (e-STJ fls. 360/365).
+Nas suas razões, o recorrente aponta ofensa ao art. 535, II, do Código de Processo Civil/1973, ante o silêncio acerca da necessidade de apresentação da certidão de tempo de serviço expedida pelo órgão de previdência para efeito de contagem recíproca.
+Contrarrazões às e-STJ fls. 381/383.
+Passo a decidir.
+De início, registro que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito tal esclarecimento, verifico que não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto o que se constata é apenas entendimento discordante com a pretensão do recorrente (e-STJ fl. 337):
+Postula o autor o cômputo do período de 16-04-1984 a 21-05-1987, laborado junto ao 15º Batalhão de Polícia Militar do Estado do Rio Grande do Sul e com recolhimento de contribuições previdenciárias ao regime próprio, consoante certidão de tempo de serviço constante do evento 1 - PROCADM5 - fl. 14.
+ .. .
+Consoante se observa da leitura dos dispositivos legais acima transcritos, épossível que o segurado se aposente no regime geral da previdência social mediante o cômputo do período em que era filiado a regime próprio, desde que esse tempo não tenha sido utilizado para fins de inativação no serviço público, sem que haja recolhimento de contribuições previdenciárias ao INSS.
+Com efeito, para fins da contagem recíproca entre regimes diversos, a legislação prevê a compensação entre eles, de responsabilidade dos entes públicos que os administram, não havendo, assim, como prejudicar o segurado a pretexto de não terem sido recolhidas as contribuições pelo ente público responsável pelo regime a que estava ele vinculado.
+ .. .
+Vale, portanto, o mesmo entendimento da jurisprudência quando se aborda a relação entre empregado/empregador e o recolhimento de contribuições para o RGPS, qual seja, a responsabilidade pela efetivação do recolhimento é do empregador, não podendo o empregado ser responsabilizado pela desídia daquele que não recolher as competentes contribuições previdenciárias.
+Na esteira de tal entendimento, não merece abrigo a tese do INSS da inadequação do documento apresentado para a contagem do tempo de serviço. Comprovado o efetivo exercício do labor, é de responsabilidade do órgão empregador o recolhimento das contribuições. Ademais, conforme consulta ao CNIS do autor, verifica-se que o intervalo em questão encontra-se registrado, bem como as contribuições vertidas ao Regime Próprio de Previdência.
+Assim, diante da prova documental anexada nos autos, é possível o reconhecimento do tempo de contribuição de 16-04-1984 a 21-05-1987, devendo ser mantida a sentença no ponto (Grifos acrescidos).
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. DESVIO DE FUNÇÃO. NÃO COMPROVAÇÃO NA ORIGEM. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Não caracteriza violação do art. 535 do CPC quando a lide é decidida de modo claro, suficiente e fundamentado, ainda que o entendimento adotado seja contrário à pretensão deduzida pelo recorrente.
+2. O acórdão recorrido concluiu, levando em consideração depoimento pessoal e relato de testemunhas, que o servidor não laborava em desvio de função. Insuscetível de revisão o referido entendimento, por demandar reexame do conjunto fático-probatório, providência vedada pela Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1570382/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 03/03/2016, DJe 11/03/2016) (Grifos acrescidos).
+Por fim, não haverá majoração de honorários recursais, por se tratar de pleito deduzido na vigência do Código de Processo Civil de 1973.
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
