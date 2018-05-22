@@ -1,0 +1,78 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE EM RAZÃO DA IDADE. POSSIBILIDADE COM OBSERVÂNCIA DA PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA.
+1. "A previsão de reajuste de mensalidade de plano de saúde em decorrência da mudança de faixa etária de segurado idoso não configura, por si só, cláusula abusiva, devendo sua compatibilidade com a boa-fé objetiva e a equidade ser aferida em cada caso concreto. Precedente: REsp 866.840/SP, Rel. Ministro Luis Felipe Salomão, Rel. p/ Acórdão Ministro Raul Araújo, Quarta Turma, julgado em 07.06.2011, DJe 17.08.2011" (REsp n. 1.280.211/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 23/4/2014, DJe 4/9/2014).
+2. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 511/524) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a agravante refuta a incidência das Súmulas n. 5 e 7 do STJ e sustenta que "a conduta da Agravante de reajustar as contraprestações de acordo com faixa etária da usuária previsto no contrato, pautou-se na boa-fé objetiva, observando, ainda, o princípio do pacta sunt servanda" (e-STJ fl. 518).
+Afirma, ainda, não ser caso de incidência da Súmula n. 83/STJ, tendo em vista que o atual entendimento do STJ estaria consolidado "no sentido de ser, em princípio, idôneo o reajuste de mensalidade de plano de saúde em razão de mudança de faixa etária do usuário, pois com o incremento da idade há o aumento do risco de a pessoa vir a necessitar de serviços de assistência médica" (e-STJ fl. 523).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A agravada não apresentou contrarrazões (e-STJ fl. 528).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE EM RAZÃO DA IDADE. POSSIBILIDADE COM OBSERVÂNCIA DA PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA.
+1. "A previsão de reajuste de mensalidade de plano de saúde em decorrência da mudança de faixa etária de segurado idoso não configura, por si só, cláusula abusiva, devendo sua compatibilidade com a boa-fé objetiva e a equidade ser aferida em cada caso concreto. Precedente: REsp 866.840/SP, Rel. Ministro Luis Felipe Salomão, Rel. p/ Acórdão Ministro Raul Araújo, Quarta Turma, julgado em 07.06.2011, DJe 17.08.2011" (REsp n. 1.280.211/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 23/4/2014, DJe 4/9/2014).
+2. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 505/507):
+Trata-se de agravo nos próprios autos (art. 544, CPC/1973) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos (e-STJ fls. 457/459): (a) impossibilidade de apreciar alegação de ofensa a dispositivo de conteúdo constitucional no âmbito do apelo especial, (b) inexistência de violação de lei federal e (c) incidência das Súmulas n. 5, 7 e 83 do STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 362):
+"APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. PRELIMINAR DE CERCEAMENTO DE DEFESA. REJEITADA. PLANO DE SAÚDE. REAJUSTE DAS MENSALIDADES DE ACORDO COM A FAIXA ETÁRIA DO SEGURADO. ESTATUTO DO IDOSO. ABUSIVIDADE. REPETIÇÃO DO INDÉBITO. DANOS MORAIS. 1) Não ocorre cerceamento de defesa se a prova pretendida mostra-se despicienda para a solução da demanda. 2) O Estatuto do Idoso (Lei nº 10.741/03) tem aplicabilidade imediata em razão de seu caráter de ordem pública e interesse social, sem que isso represente ofensa ao ato jurídico perfeito (precedentes do STJ). 3) O art. 15, § 3º, do referido Diploma veda a cobrança diferenciada da mensalidade dos Planos de Saúde em razão da faixa etária do usuário. 4) Após o recálculo da mensalidade, caso seja apurado que a parte autora efetuou algum pagamento a maior, a ela deverá ser restituída, de forma simples, tal quantia, eis que, não havendo demonstração de dolo ou má-fé da prestadora de serviços médicos, não há que se falar em repetição em dobro dos valores cobrados a maior. 5) O reajuste de mensalidade de plano de saúde baseado em interpretação das cláusulas contratuais não configura dano moral."
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 396/403).
+No especial (e-STJ fls. 406/425), interposto com fundamento no art. 105, III, "a", da CF, a recorrente alegou ofensa aos arts. 165, 458, 463 e 535 do CPC/1973 por negativa de prestação jurisdicional.
+Apontou ainda afronta aos arts. 6º da LINDB, 421 e 422 do CC/2002, sob o argumento de que não existiria abusividade no reajuste de mensalidade por faixa etária e de irretroatividade do estatuto do idoso.
+No agravo (e-STJ fls. 464/481), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida não apresentou contraminuta (e-STJ fl. 496).
+É o relatório.
+Decido.
+Não há falar em violação dos arts. 165, 458, 463 e 535 do CPC/1973, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. O magistrado não está obrigado a rebater, um a um, os argumentos apresentados, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu na hipótese.
+Quanto ao reajuste do plano de saúde com base na mudança de faixa etária, esta Corte consolidou entendimento, no julgamento do REsp n. 1.280.211/SP (Relator Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 23/4/2014, DJe 4/9/2014), submetido ao rito do art. 543-C do CPC/1973, de que é possível tal atualização desde que previsto no contrato, que o índice de reajuste não seja desarrazoado ou aleatório de modo a onerar excessivamente o consumidor e que seja observada a cláusula geral da boa-fé objetiva.
+Na espécie, ao reconhecerem a abusividade da respectiva cláusula de reajuste, assim decidiram as instâncias ordinárias (e-STJ fls. 368/374):
+"Data venia, a despeito da previsão acima transcrita, a elevação do valor da mensalidade de acordo com a faixa etária do consumidor, a meu ver, se mostra abusiva e em desacordo com as disposições do Código de Defesa do Consumidor.
+(..)
+Vale dizer, o reajuste deve ocorrer de forma equitativa, leal, equilibrada, ética e absolutamente transparente, em justa e necessária homenagem ao princípio geral de direito da boa-fé objetiva e do dever de informar, notadamente no que diz respeito aos custos e respectivos cálculos que teriam acarretado o elevado reajuste das mensalidades.
+(..)
+É imperativo, em prol da credibilidade e da segurança nas relações jurídicas, que o contratante observe um comportamento coerente. O fundamento situa-se no fato de que a sua conduta anterior gerou confiança em quem recebeu os reflexos dela. Assim, a autora-primeira apelante não pode ser surpreendido com um aumento exagerado de sua mensalidade, pois o antigo valor é que se enquadrava em seu orçamento.
+(..)
+Destarte, a meu ver, deve ser mantida a sentença que proibiu a incidência de reajustes com base na mudança de faixa etária, mas que manteve os reajuste normais decorrentes da inflação e do equilíbrio econômico."
+Em tais condições, constata-se que as instâncias de origem decidiram no mesmo sentido do entendimento do STJ, uma vez que, nos termos da jurisprudência citada acima, no caso de reajuste desarrazoado ou aleatório, não é possível reconhecer a validade da cláusula de reajuste aplicada.
+Por fim, cabe destacar que, para alterar os fundamentos adotados na origem e afastar a conclusão quanto à desproporcionalidade do reajuste aplicado no caso concreto, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável no âmbito do recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Além disso, a decisão recorrida está em consonância com a jurisprudência desta Corte, segundo a qual é possível declarar a abusividade do reajuste de mensalidade por mudança de faixa etária ainda que o contrato tenha sido celebrado antes da vigência do Estatuto do Idoso. A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REAJUSTE DE MENSALIDADE POR FAIXA ETÁRIA. SOBRESTAMENTO. DESNECESSIDADE. RECURSO ESPECIAL. PREQUESTIONAMENTO. SÚMULAS N. 282/STF E 211/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LEI N. 9.656/98. APLICABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ.
+(..)
+5. A orientação jurisprudencial desta Corte é firme no sentido de que é abusiva a cláusula contratual que prevê o reajuste da mensalidade de plano de saúde com base exclusivamente em mudança de faixa etária, sendo irrelevante que o contrato tenha sido celebrado antes da vigência do Estatuto do Idoso, da Lei nº 9.656/98 ou do Código de Defesa do Consumidor.
+6. Agravo regimental não provido."
+(AgRg no AREsp n. 257.898/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 7/11/2013, DJe 25/11/2013.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+A jurisprudência desta Corte, no julgamento do recurso especial repetitivo mencionado na decisão ora agravada, consolidou-se no sentido de reconhecer que a cláusula que prevê reajuste da mensalidade do plano de saúde em razão da mudança de faixa etária da mensalidade não é, por si só, abusiva.
+No entanto, nos termos do mesmo precedente, deve ser analisado em cada caso se houve previsão contratual para a alteração e se os percentuais aplicados foram razoáveis e em observância ao princípio da boa-fé objetiva, para que não se impossibilite a permanência do idoso no plano de saúde.
+Nesse sentido, confiram-se, ainda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PLANO DE SAÚDE. REAJUSTE DAS MENSALIDADES. CARÁTER ABUSIVO AFASTADO. REVISÃO. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. Não há que se falar em negativa de prestação jurisdicional na hipótese de, apesar de rejeitados os embargos de declaração, o acórdão recorrido enfrentar, através de fundamentação suficientemente sólida, ainda que concisa, a matéria necessária para o deslinde da causa.
+2. A Segunda Seção desta Corte de Justiça firmou orientação no sentido de que o reajuste de mensalidade de plano de saúde, em razão da mudança de faixa etária, não pode, por si só, ser considerado ilegal ou abusivo, devendo ser examinado em cada caso concreto se houve a devida previsão contratual da alteração; se foram aplicados percentuais razoáveis, que não visem, ao final, a impossibilitar a permanência da filiação do idoso; se houve observância do princípio da boa-fé objetiva; assim como se foram preenchidos os requisitos estabelecidos na Lei 9.656/1998.
+3. Nesse contexto, examinando as razões do acórdão recorrido, constata-se que o Colegiado Estadual, aplicando exatamente as premissas estabelecidas no julgado acima transcrito, delineou a controvérsia dentro do conjunto probatório do feito, afastando o alegado caráter abusivo do aludido reajuste aplicado. Dessa forma, para rever tal premissa seria imprescindível o reexame de cláusulas contratuais, fatos e provas dos autos, providência vedada no âmbito do recurso especial, nos termos das Súmulas n. 5 e 7/STJ.
+4. Aplicada a Súmula 7/STJ quanto à alínea a do permissivo constitucional, fica prejudicado o alegado dissídio jurisprudencial, pois as conclusões divergentes decorrem das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1155118/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/03/2018, DJe 23/03/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REAJUSTE. FAIXA ETÁRIA. ABUSIVIDADE. VERIFICAÇÃO DE REQUISITOS. ADEQUAÇÃO.
+SÚMULAS N. 5, 7 E 83/STJ. NÃO PROVIMENTO.
+1. "O reajuste de mensalidade de plano de saúde individual ou familiar fundado na mudança de faixa etária do beneficiário é válido desde que (i) haja previsão contratual, (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso". Tese firmada pela Segunda Seção no REsp. 1.568.244-RJ, Relator Ministro Ricardo Villas Bôas Cueva, julgado pelo rito do art. 543-C do CPC/73.
+2. No mesmo precedente foi decidido que "se for reconhecida a abusividade do aumento praticado pela operadora de plano de saúde em virtude da alteração de faixa etária do usuário, para não haver desequilíbrio contratual, faz-se necessária, nos termos do art. 51, § 2º, do CDC, a apuração do percentual adequado e razoável de majoração da mensalidade em virtude da inserção do consumidor na nova faixa de risco, o que deverá ser feito por meio de cálculos atuariais na fase de cumprimento de sentença." 3. Incidência dos enunciados n. 5, 7 e 83 da Súmula desta Corte.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1658527/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/12/2017, DJe 14/12/2017)
+Em tais condições, inafastável a incidência da Súmula n. 83/STJ.
+Quanto às Súmulas n. 5 e 7 do STJ, sua aplicação diz respeito à impossibilidade de o STJ alterar a conclusão do Tribunal de origem acerca da desproporcionalidade do reajuste aplicado.
+Entretanto, nas razões do presente agravo, a parte recorrente não impugnou tal fundamento, limitando-se a alegar genericamente a inaplicabilidade das referidas súmulas e defendendo a força obrigatória dos contratos.
+Também não foi atacado o fundamento de que a jurisprudência desta Corte reconhece a possibilidade de se declarar abusivo reajuste de mensalidade por mudança de faixa etária, ainda que o contrato tenha sido celebrado antes da vigência do Estatuto do Idoso.
+Em obediência ao princípio da dialeticidade recursal e conforme previsto no art. 1.021, § 1º, do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Deixando a recorrente de rebater especificamente cada ponto da decisão ora agravada, incide a Súmula n. 182/STJ:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
