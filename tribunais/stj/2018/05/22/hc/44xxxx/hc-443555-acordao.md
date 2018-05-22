@@ -1,0 +1,42 @@
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. TRÁFICO DE DROGAS. REGIME FECHADO. POSSIBILIDADE. QUANTIDADE E NATUREZA DA DROGA APREENDIDA. REINCIDÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. O STF, no julgamento do HC n. 111.840/ES, declarou a inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/90, com a redação que lhe foi dada pela Lei n. 11.464/07, afastando, dessa forma, a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados. Assim, o regime prisional deverá ser fixado em obediência ao que dispõe o art. 33, §§ 2º e 3º e art. 59, ambos do Código Penal - CP.
+In casu, a quantidade e a natureza da droga apreendida - 156 pedras de crack -, além da reincidência do réu, constituem fundamentos idôneos para o agravamento do aspecto qualitativo da pena, ou seja, para a fixação de regime mais gravoso. Precedentes.
+Habeas corpus não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de [NOME] DA GRACA contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0004557-07.2015.8.26.0066).
+Depreende-se dos autos que o Juízo de primeiro grau condenou o paciente como incurso nos arts. 33 e 35, ambos da Lei n. 11.343/06 (tráfico de drogas e associação para o tráfico).
+Interposta apelação pela defesa, o Tribunal a quo deu parcial provimento ao recurso e absolveu-o quanto ao último delito, remanescendo a pena quanto ao tráfico no patamar de 5 anos e 10 meses de reclusão, em regime inicial fechado, nos termos do julgamento acostado às fls. 33/43.
+Opostos embargos declaratórios, foram eles acolhidos, sem repercussão na dosimetria da pena e nas consequências dela advindas (fl. 44).
+No presente writ, os impetrantes alegam, em síntese, fundamentação inidônea quanto à imposição do regime prisional fechado.
+Indeferido o pedido liminar e dispensadas as informações pela autoridade coatora, o Ministério Público Federal opinou pela denegação da ordem, nos termos da seguinte ementa:
+PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PENA DE 5 ANOS E 10 MESES DE RECLUSÃO. REGIME INICIAL FECHADO. FIXAÇÃO DE REGIME INICIAL MAIS BRANDO - IMPOSSIBILIDADE - MAUS ANTECEDENTES - NATUREZA E QUANTIDADE DAS DROGAS APREENDIDAS. PARECER PELA DENEGAÇÃO DA ORDEM (fl. 79).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Conforme relatado, a controvérsia diz respeito ao regime prisional mais gravoso, mantido pelo Tribunal a quo, nestes termos:
+A forma como embaladas, acondicionadas e ocultadas as drogas, as circunstâncias de sua apreensão e do dinheiro, a quantidade da ilícita substância algo próximo a 80 gramas de cocaína sob a forma de "crack", distribuídos em 156 fragmentos a consequente prisão em flagrante dos indigitados, somadas a suas situações econômicas não trouxeram prova de ocupação lícita e às declarações dos agentes policiais de que eram conhecidos traficantes e de que no local era exercida a mercancia ilícita não deixam margem a dúvidas da prática habitual da traficância, não se havendo falar em insuficiência de provas.
+De rigor, pois, a condenação dos apelantes por infração ao artigo 33, "caput", da Lei 11.343/06.
+As penas de Dennys e de [NOME] não merecem qualquer censura, havendo sido sopesados, em fases distintas e apropriadas, os maus antecedentes em relação ao primeiro e a reincidência em relação ao último, suficientes a impedirem a aplicação da benesse da lei especial.
+ ..
+A fixação do regime inicial fechado mostrou- se adequada ante a gravidade concreta do delito perpetrado, notória a nocividade da droga apreendida, restando patentes sua capacidade de disseminação e a arregimentação de clientes aos borbotões; in casu, suficiente, o "crack" apreendido, a fragmentação em número em muito maior ao atestado no laudo pericial, com a confecção de centenas de pedras a serem fumadas pelos incautos compradores (fls. 38/40).
+No tocante ao tema, o Plenário do STF, no dia 27 de junho de 2012, ao julgar o HC n. 111.840/ES, por maioria, declarou incidentalmente a inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/90, com a redação que lhe foi dada pela Lei n. 11.464/07, afastando, dessa forma, a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados. Assim, o regime prisional, nesses casos, deverá ser fixado em obediência ao que dispõe o art. 33, §§ 2º e 3º e art. 59, ambos do CP.
+Por outro lado, firmou-se neste Tribunal a orientação de que é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais do art. 59 do CP ou em outra situação que demonstre efetivamente um plus na gravidade do delito. Nesse sentido, foi elaborado o enunciado n. 440 da Súmula desta Corte, bem como os enunciados n.718 e 719 da Súmula do STF.
+Na hipótese dos autos, não há falar em flagrante ilegalidade na fixação do regime prisional fechado. Isso porque a quantidade e a natureza da droga apreendida - 156 pedras de crack - , além da reincidência do réu, constituem fundamentos idôneos para o agravamento do aspecto qualitativo da pena, ou seja, para a fixação de regime mais gravoso.
+Nesse diapasão:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA USO PRÓPRIO. IMPOSSIBILIDADE. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. RÉU QUE RESPONDE A OUTRA AÇÃO PENAL. DEDICAÇÃO À ATIVIDADE CRIMINOSA EVIDENCIADA. REGIME PRISIONAL. CIRCUNSTÂNCIAS DESFAVORÁVEIS. MODO FECHADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. FALTA DE PREENCHIMENTO DE REQUISITO OBJETIVO. AUSÊNCIA DE MANIFESTA ILEGALIDADE. ORDEM NÃO CONHECIDA.
+ ..
+6. Embora o paciente seja primário e a pena tenha sido estabelecida em 6 anos e 2 meses de reclusão, o regime inicial fechado é o adequado para a reprovação do delito, tendo em vista a quantidade e a natureza de drogas apreendidas, nos exatos termos dos arts. 42 da Lei de Drogas c/c o 33 do Código Penal.
+ ..
+8. Habeas corpus não conhecido (HC 359.728/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 20/03/2018).
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE DAS SUBSTÂNCIAS ENTORPECENTES APREENDIDAS E NATUREZA DE UMA DELAS. EXASPERAÇÃO JUSTIFICADA. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. REINCIDÊNCIA. CIRCUNSTÂNCIA QUE IMPEDE A APLICAÇÃO DO ART. 33, § 4º, DA LEI Nº 11.343/06. 1ª E 3ª FASES DA DOSIMETRIA. BIS IN IDEM. NÃO OCORRÊNCIA. MOTIVOS DIVERSOS. REGIME DIVERSO DO FECHADO. POSSIBILIDADE EM TESE. CASO CONCRETO. PENA SUPERIOR A 4 ANOS. PACIENTE REINCIDENTE. ILEGALIDADE. AUSÊNCIA. DENEGAÇÃO DA ORDEM.
+ ..
+5. Esta Corte, na esteira do posicionamento do Supremo Tribunal Federal, entende ser possível nas condenações por tráfico de drogas, em tese, a fixação de regime menos gravoso, sempre tendo em conta as particularidades do caso concreto. Na espécie, fixada a reprimenda corporal em 8 anos de reclusão e, tratando-se de réu reincidente, é inviável a fixação do regime semiaberto, nos termos do art. 33, § 2º, alínea "b", do Código Penal. 6. Habeas corpus denegado (HC 417.234/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 26/02/2018).
+Ante o exposto, voto pelo não conhecimento do habeas corpus.
