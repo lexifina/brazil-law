@@ -1,0 +1,22 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+LIMINAR – EXTENSÃO – CORRÉUS.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Décima Primeira Vara Criminal da Comarca de São Paulo/SP, no processo nº 0053222-39.2014.8.26.0050, converteu em preventivas as prisões em flagrante do paciente e de outras três pessoas, ocorridas no dia 16 de junho de 2014, ante o suposto cometimento das infrações descritas nos artigos 33, cabeça (tráfico de entorpecentes), e 35, cabeça (associação para o tráfico), combinado com o 40, inciso V (causa de aumento de pena em razão da prática entre Estados da Federação), da Lei nº 11.343/2006. Disse cabível a custódia para garantir a ordem pública e a aplicação da lei penal. Aludiu à quantidade de substância apreendida – 401,55 quilos de pasta base de cocaína –, à participação em grupo criminoso e à possibilidade de reiteração delitiva.
+    Condenou o paciente e os corréus, o primeiro a 16 anos de reclusão, em regime fechado, e ao pagamento de 2.400 dias-multa, ante a prática das infrações versadas nos artigos 33, cabeça, e 35 da mencionada Lei. Negou o direito de recorrerem em liberdade. Determinou a expedição de mandado de prisão em desfavor do corréu Valter Lima Nascimento, que respondeu ao processo solto em razão de concessão de ordem de habeas corpus pelo Tribunal estadual.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 413.607/SP, inadmitido pela Relatora, considerada a ausência de peça essencial para a análise da controvérsia.
+    Os impetrantes sustentam a inidoneidade da motivação do ato que implicou a constrição, afirmando-o alicerçado na gravidade abstrata da infração. Apontam as condições pessoais favoráveis – primariedade, residência fixa e trabalho lícito. Destacam não haver prova da participação no ilícito nem relação de proximidade com o possuidor da droga, dizendo que o paciente apenas deu carona a um dos acusados. Aduzem ter cumprido, de forma preventiva, mais de 1/6 da pena aplicada.
+    Requerem, no campo precário e efêmero, a revogação da custódia. No mérito, buscam a confirmação da providência.
+    Em consulta ao sítio do Tribunal estadual, em 21 de maio de 2018, verificou-se a interposição de apelação pelas defesas, pendente de exame.
+    A etapa é de apreciação da medida de urgência.
+    2. A prisão em flagrante bem assim a gradação do tráfico de entorpecentes, considerada a quantidade de droga apreendida – 401,55 quilos de pasta base de cocaína –, revelam estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a constrição se impunha, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Ocorre que, a esta altura, sem culpa formada, o paciente está preso há 3 anos, 11 meses e 6 dias. Surge o excesso de prazo tendo em vista a custódia provisória e o estágio do processo-crime, porquanto sequer encerrada a instrução criminal. A preventiva deve ser balizada no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não foi declarada em definitivo viola o princípio da não culpabilidade. Nada, absolutamente nada, justifica tal fato.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da prisão preventiva formalizada no processo nº 0053222-39.2014.8.26.0050, da Décima Primeira Vara Criminal da Comarca de São Paulo/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do homem integrado à sociedade.
+    4. Sendo idêntica a situação jurídica dos corréus Fabiano Soares da Silva e Richardson de Castro, estendo-lhes a medida acauteladora, com os mesmos cuidados, consoante o disposto no artigo 580 do Código de Processo Penal. Deixo de fazê-lo em relação ao corréu Valter Lima Nascimento, por não haver, no processo, comprovação do cumprimento do mandado. Fica inviabilizada a observância do citado preceito legal.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 22 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
