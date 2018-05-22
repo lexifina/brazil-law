@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interno, interposto por ACA INDÚSTRIA E COMÉRCIO DE PEÇAS PARA AR CONDICIONADO LTDA, em face da decisão de fls. 864-865 e-STJ, da lavra deste relator, que negou seguimento ao agravo (art. 544 do CPC/1973), por aplicação do óbice contido na Súmula 182/STJ. Procedem, no entanto, as alegações da parte recorrente, devendo ser reconsiderada a decisão agravada.
+Pois bem. Cuida-se de agravo (art. 544 do CPC/73) interposto em face da decisão acostada a fls. 812-814 e-STJ que, em juízo prévio de admissibilidade, negou seguimento ao recurso especial manejado pela ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 665-675 e-STJ, proferido pelo Tribunal de Justiça do Paraná, assim ementado:
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - CIÊNCIA INEQUÍVOCA - JUNTADA DE MANDADO POSTERIOR - INTEMPESTIVIDADE - INTELIGÊNCIA DO ART. 738 DO CPC - CANCELAMENTO DA DISTRIBUIÇÃO - DEMAIS PEDIDOS CONCERNENTES AO MÉRITO - PREJUDICADOS - RECURSO PARCIALMENTE CONHECIDO E, NESTA PARTE, PROVIDO.
+1. O termo inicial para contagem do prazo do art. 738 do CPC é a juntada do mandado aos autos, salvo quando se verifica a ciência inequívoca do executado, momento em que se inicia o prazo para oposição dos embargos.
+2. Ante a determinação de cancelamento da distribuição dos embargos, julgo prejudicada a análise das demais questões concernentes ao mérito dos embargos.
+Opostos primeiros embargos de declaração (fls. 680-700 e-STJ), esses foram rejeitados (fls. 707-715 e-STJ). Novos aclaratórios foram opostos (fls. 719-736 e-STJ) e acolhidos sem efeitos infringentes, apenas para sanar erro material (fls. 741-746 e-STJ)
+Nas razões de recurso especial, alegou a insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) art. 535, inc. II, do CPC/1973; (ii) art. 38, 214, §1º, 215 e 241, inc. II do CPC/1973; e (iii) art 739, inc. I, do CPC/1973. Aduziu, ainda, estar configurado o dissídio jurisprudencial quanto às teses invocadas.
+Sustentou, preliminarmente, a nulidade do acórdão por negativa de prestação jurisdicional. Argumentou que a petição de advogado sem poderes para receber citação não configura comparecimento espontâneo o réu. Defendeu que os embargos à execução, se intempestivos, poderiam ser recebidos como ação autônoma.
+Contrarrazões a fls. 807-810 e-STJ.
+Em juízo prévio de admissibilidade, a corte de origem negou seguimento ao apelo nobre afastando a alegada ofensa ao artigo 535 do CPC/1973 e por aplicação das Súmulas 7/STJ e 83/STJ.
+Inconformada, interpôs o presente agravo (art. 544 do CPC/73), cuja minuta está acostada a fls. 817-850 e-STJ, por meio do qual impugnou todos os fundamentos da decisão de inadmissibilidade.
+Sem contraminuta fl. 852 e-STJ.
+É o relatório. Decide-se.
+Ante as razões expendidas, torna-se sem efeitos a decisão de fls. 864-865 e-STJ e acolhe-se a preliminar de negativa de prestação jurisdicional.
+1. Este Superior Tribunal de Justiça reconhece a ocorrência de negativa de prestação jurisdicional quando a corte de origem, a despeito da oposição de embargos de declaração, omite-se a respeito de ponto essencial ao deslinde da controvérsia.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE NULIDADE DE TÍTULO EXTRAJUDICIAL - DUPLICATA EMITIDA SEM AS FORMALIDADES LEGAIS - ACÓRDÃO DESTE ÓRGÃO COLEGIADO QUE NEGOU PROVIMENTO AO AGRAVO REGIMENTAL, MANTENDO HÍGIDA A INADMISSÃO DO RECURSO ESPECIAL.
+INSURGÊNCIA DO AUTOR.
+ ..
+Violação ao artigo 535 do CPC configurada. Acórdão do Tribunal de origem que deixou de se manifestar sobre pontos imprescindíveis ao adequado desenredo da contenda.
+ ..
+(EDcl no AgRg no REsp 1021214/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/04/2015, DJe 24/04/2015)
+Confiram-se, ainda, os seguintes precedentes: REsp 1438639/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 27/03/2014, DJe 29/04/2014; AgRg no REsp 1221403/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 09/08/2016, DJe 23/08/2016; AgInt no REsp 1599987/AP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/09/2016, DJe 07/10/2016; AgInt no REsp 1564400/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/08/2016, DJe 26/08/2016; EDcl no REsp 1227601/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/09/2016, DJe 13/09/2016.
+Nas razões do recurso especial, aventaram os recorrentes, preliminarmente, a configuração de negativa de prestação jurisdicional - violação ao artigo 535 do Código de Processo Civil -, ante a rejeição dos aclaratórios e a subsistência de omissão no acórdão recorrido, quais sejam, a ausência de poderes para receber citação na procuração outorgada aos patronos e a possibilidade de conhecer dos embargos à execução como "ação autônoma".
+Quanto à primeira omissão, tem-se que a Corte expressamente rejeitou a pretensão, afirmando que a ciência inequívoca por parte do executado se deu não apenas pela carga dos autos, mas pela apresentação de petição oferecendo bens à penhora ( fls. 712-713 e-STJ).
+Contudo, não houve pronunciamento a respeito da possibilidade de conhecimento dos embargos à execução como "ação autônoma", o que se depreende, a partir da leitura dos aclaratórios ( fls. 692-697 e-STJ), significar a possibilidade de admitir os embargos à execução como impugnação ou ação ordinária fundada na nulidade do título executivo (exceção de pré-executividade ou ação anulatória).
+A esse respeito, o Tribunal limitou-se a afirmar que a determinação de cancelamento da distribuição não careceria de maiores esclarecimentos. Não expôs, contudo, o fundamento pelo qual entendeu não ser possível admitir a defesa do executado como impugnação fundada na nulidade do título executivo.
+Caberia ao Tribunal a quo enfrentar as teses invocadas pela parte recorrente, ainda que para expressamente não as admitir ou refutá-las, razão pela qual se impõe o acolhimento da preliminar de violação do artigo 535 do Código de Processo Civil quanto ao ponto.
+2. Ante o reconhecimento da negativa de prestação jurisdicional e a necessidade de retorno dos autos à Corte local para correção do vício inferido - omissão - fica prejudicada a análise das demais questões veiculadas no recurso especial.
+3. Do exposto, tornam-se sem efeitos as decisões de fls. 864-865 e 880-882 e-STJ e, ao ingressar no exame do recurso especial, acolhe-se a preliminar de negativa de prestação jurisdicional, determinando o retorno dos autos ao Tribunal de origem para sanar a omissão acima apontada.
+Publique-se. Intimem-se.
