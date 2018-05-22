@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interno interposto por CAIXA BENEFICENTE DOS EMPREGADOS DA COMPANHIA SIDERÚRGICA NACIONAL - CBS, contra decisão monocrática de fls. 331/333 (e-STJ), da lavra da Presidência deste Superior Tribunal de Justiça, a qual negou provimento ao agravo (art. 544, do CPC/73), manejado pela ora insurgente, com fulcro na Súmula 284/STF.
+Conforme decidido, olvidou a parte recorrente de indicar os dispositivos de lei, cuja interpretação conferida pela Corte de origem estaria a divergir dos precedentes apresentados em suas razões recursais.
+Irresignada (fls. 338/368, e-STJ), a insurgente refuta a incidência do referido verbete sumular. Assevera que apesar do decidido, indicou, de maneira expressa, a divergência interpretativa incidente sobre o art. 17, I, da Lei 4.380/64.
+Impugnação às fls. 373/379 (e-STJ).
+Ante a argumentação deduzida pela agravante, reconsidero a decisão de fls. 331/333 (e-STJ), tornando-a sem efeito, e passo a novo exame da pretensão deduzida no especial.
+O apelo nobre, fundamentado na alínea "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fls. 144/153, e-STJ):
+PROCESSUAL CIVIL. VÍCIOS CONSTRUÇÃO. ILEGITIMIDADE AD CAUSAM DA CEF. AÇÃO CIVIL PÚBLICA AJUIZADA PELO MINISTÉRIO PÚBLICO FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Consoante jurisprudência tranqüila, a CEF não tem legitimidade para responder por vícios de construção apenas por ter viabilizado o empréstimo, não se cogitando, no caso, de responsabilidade solidária. Precedentes (TRF 2a Região: AC 200251010185507, AC 200451010238 168).
+2. A previsão contratual acerca da responsabilidade da CEF pela fiscalização da execução do contrato diz respeito apenas à verificação do cumprimento das etapas do empreendimento para liberação do valor financiado.
+3. Ajuizada a ação civil pública originária pelo Ministério Público Federal, a competência para o seu processamento e julgamento deve ser da justiça federal, de acordo com o entendimento do Superior Tribunal de Justiça. Precedentes (STJ: CC 112137 e CC 86632).
+4. Agravo de instrumento parcialmente provido e embargos de declaração prejudicados.
+Nas razões do recurso especial (fls. 157/170, e-STJ), a agravante aponta a ocorrência de dissídio jurisprudencial, quanto à interpretação conferida pela Corte de origem ao disposto no art. art. 17, I, da Lei 4.380/64.
+Defende, para tanto, que apesar do entendimento firmado pelo Tribunal a quo, a Caixa Econômica Federal, na qualidade de agente financeiro do Sistema Financeiro de Habitação, deve integrar a lide, no polo passivo, porquanto solidariamente responsável pelos vícios de construção nos empreendimentos que financia.
+Contrarrazões às fls. 209/229 (e-STJ).
+Em juízo provisório de admissibilidade (fl. 232, e-STJ), negou-se seguimento ao reclamo, com fundamento no art. 541, II, do CPC/73 e nos óbices contidos nas Súmulas 5 e 7/STJ, o que ensejou a interposição de recurso de agravo (art. 544, do CPC/73), buscando destrancar o processamento daquela insurgência, no qual a recorrente contesta os fundamentos em que se lastreou a decisão hostilizada (fls. 240/255, e-STJ).
+Contraminuta às fls. 290/315 (e-STJ).
+É o relatório.
+Decido
+1. De início, consigne-se que a decisão recorrida foi disponibilizada no Diário de Justiça eletrônico de 20/03/2014, e tida como publicada no primeiro dia útil subsequente (certidão de fl. 173, e-STJ). Portanto, os requisitos de admissibilidade do apelo nobre serão aferidos à luz das regras contidas no Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 do Plenário do Superior Tribunal de Justiça (AgRg no AREsp 849.405/MG, Quarta Turma, Julgado em 5/4/2016).
+2. Em uma análise detida das razões de recurso especial, fundamentado no art. 105, inciso III, alínea "c", da Constituição da República, depreende-se que a recorrente não realizou o necessário cotejo analítico entre o acórdão embargado e os paradigmas indicados, olvidando-se de evidenciar a similitude de base fática dos casos confrontados e a divergência de resultados em torno da mesma questão jurídica, ficando, assim, desatendida a regra do art. 255, § 1º, do RISTJ.
+O que se observa é a simples transcrição de ementas e de trechos dos arestos apontados como divergentes. Não realizou a parte recorrente, portanto, a necessária confrontação analítica dos acórdãos a fim de demonstrar, de modo inequívoco, as circunstâncias que identificariam ou assemelhariam os casos confrontados, o que impede o acolhimento do presente recurso, fundamentado exclusivamente na suposta ocorrência de dissenso pretoriano.
+É entendimento firme nesta Corte Superior que a mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea "c" do permissivo constitucional.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. APELO NOBRE NÃO CONHECIDO. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. MERA TRANSCRIÇÃO DE EMENTAS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. AGRAVO NÃO CONHECIDO.
+1. Na hipótese em exame, aplica-se o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+2. A jurisprudência desta Corte é pacífica no sentido de que, em relação à admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, para a correta demonstração da divergência jurisprudencial, deve haver o cotejo analítico, expondo-se as circunstâncias que identificam ou assemelham os casos confrontados, a fim de demonstrar a similitude fática entre o acórdão impugnado e o paradigma, bem como a existência de soluções jurídicas díspares, nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+3. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (CPC/2015, art. 1.021, § 1º).
+4. Agravo interno não conhecido.
+(AgInt no REsp 1655917/MA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/05/2017, DJe 01/06/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. COMPROVAÇÃO DOCUMENTAL. INDENIZAÇÃO SECURITÁRIA. LEGISLAÇÃO CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA Nº 126/STJ. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. ARTIGO 476 DO CÓDIGO CIVIL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. DISSÍDIO NÃO DEMONSTRADO.
+(..)
+4. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC/1973 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+5. Agravo interno não provido.
+(AgInt no AREsp 1057681/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/08/2017, DJe 15/08/2017)
+3. Ante o exposto, reconsidero a decisão monocrática proferida às fls. 331/333 (e-STJ) (e-STJ), tornando-a nula. Prosseguindo à análise do feito, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para, de pronto, negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
