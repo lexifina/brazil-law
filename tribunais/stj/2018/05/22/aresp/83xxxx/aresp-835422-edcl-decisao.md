@@ -1,0 +1,15 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. AUSÊNCIA DE OBSCURIDADE OU CONTRARIEDADE. MERO INCONFORMISMO DA PARTE. NÃO CABIMENTO DOS DECLARATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Trata-se de Embargos de Declaração opostos por BANCO ABN AMRO REAL S.A. contra decisão que conheceu do Agravo e negou provimento ao Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO JUDICIAL. PRAZO PRESCRICIONAL PARA A EXECUÇÃO. SÚMULA 150 DO STF. ACÓRDÃO RECORRIDO QUE CONCLUIU PELO TRANSCURSO DO LAPSO PRESCRICIONAL COM BASE NAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+2. A parte embargante aponta omissão em relação ao fato de que, antes da publicação do despacho em 9.2.2001 (1 ano e 5 meses após o trânsito em julgado da ação), o embargante encontrava-se impossibilitado de apresentar qualquer tipo de execução de julgado, uma vez que os autos permaneceram 1 ano e 3 meses conclusos no TRF, não sendo possível obter cópias para verificação da efetiva data do trânsito em julgado. Assim, não há falar em transcurso do lapso prescricional, se o termo inicial do prazo for a data da publicação da decisão na origem (9.2.2001).
+3. Não houve impugnação aos embargos (fls. 1.524).
+4. É o relatório.
+5. Os Embargos de Declaração não merecem acolhimento, pois a decisão embargada não padece de quaisquer dos vícios elencados no art. 1.022 do CPC/2015, porquanto decidiu toda a questão posta em debate, com a devida fundamentação, coerência e clareza, nos limites necessários ao deslinde do feito.
+6. Cumpre esclarecer que o art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; destinam-se a suprir omissão, esclarecer obscuridade ou eliminar contradição existente no julgado ou corrigir erro material.
+7. No caso em apreço, não se constata a presença de qualquer eiva a macular a decisão embargada que, de forma clara e expressa, decidiu que é de cinco anos, contados a partir do trânsito em julgado da sentença condenatória, o prazo prescricional para a propositura da ação executiva contra a Fazenda Pública. Assim, transitada em julgado a sentença em 3.9.1999, é intempestiva a execução proposta apenas em 10.11.2005.
+8. Ressalte-se que os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+9. Assim, não havendo a presença de quaisquer dos vícios elencados no art. 1.022 do CPC/2015, a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, e não podem ser ampliados.
+10. Pelo exposto, rejeitam-se os Embargos Declaratórios.
+11. Publique-se.
+12. Intimações necessárias.
