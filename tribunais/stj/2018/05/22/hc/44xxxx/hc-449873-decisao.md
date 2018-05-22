@@ -1,0 +1,39 @@
+DECISÃO
+DANIEL DO NASCIMENTO ARGOLO, paciente neste habeas corpus substitutivo de recurso especial, alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul no Agravo em Execução n. 0241316-09.2017.8.21.7000.
+Depreende-se dos autos que o Juízo da execução penal negou o pleito de concessão do livramento condicional. Irresignada, a defesa interpôs agravo em execução, ao qual o Tribunal de Justiça negou provimento. Opostos embargos infringentes, a Corte de origem manteve o acórdão impugnado.
+Neste writ, a defesa alega que "não seria indicado a consideração da fuga, unicamente, como balizador impeditivo da concessão da progressão de regime, pois não se trata de característica concreta da personalidade, de comportamento ou de avaliação psicossocial, ademais, se permanecer a fuga como condição de indeferimento de progressão de regime o reeducando estará fadado, perpetuamente, a jamais galgar quaisquer benefícios" (fl. 5).
+Requer, assim, seja seja concedido o benefício do livramento condicional.
+Decido.
+No caso vertente, a Corte de origem manteve a decisão de primeiro grau, que indeferiu a concessão do livramento condicional, sob a alegação de que,
+ ..
+Em que pese o apenado tenha implementado o requisito objetivo para o livramento condicional, e sua conduta carcerária seja classificada como plenamente satisfatória (fl. 178), não há como se conceder o benefício nesse momento.
+Isso porque o apenado possui falta grave homologada pelo juízo há menos de 01 ano (falta homologada dia 09/02/2017 - fls. 165/166).
+Por conseqüência disso, não há como se compreender que, ainda que alcançado o tempo para o livramento, seja possível conceder ao apenado o direito de adquirir liberdade desassistida, quando seu comportamento demonstra nítida inaptidão para o convívio em sociedade, haja vista que sequer se submete às regras da execução penal  ..  (fl. 18, destaquei).
+Com efeito, apesar da orientação consolidada pela Súmula n. 441 do STJ, de que "a falta grave não interrompe o prazo para obtenção do livramento condicional", verifico que o benefício foi indeferido ante o não preenchimento do requisito subjetivo pelo paciente.
+No tocante aos requisitos necessários para o deferimento do livramento condicional, o Código Penal preceitua que:
+Requisitos do livramento condicional
+Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:
+I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes;
+II - cumprida mais da metade se o condenado for reincidente em crime doloso;
+III - comprovado comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover à própria subsistência mediante trabalho honesto;
+IV - tenha reparado, salvo efetiva impossibilidade de fazê-lo, o dano causado pela infração;
+V - cumprido mais de dois terços da pena, nos casos de condenação por crime hediondo, prática da tortura, tráfico ilícito de entorpecentes e drogas afins, e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza.
+Parágrafo único - Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinqüir (Destaquei).
+O benefício do livramento condicional traduz-se como uma das fases do cumprimento de pena, na qual é concedida ao condenado a possibilidade de gozar da liberdade mediante o cumprimento de certos requisitos legais.
+Para tanto, não basta o implemento do requisito temporal. Faz-se necessário, ainda, o cumprimento do requisito subjetivo, o qual é alcançado por meio da comprovação de comportamento satisfatório durante a execução da pena, do bom desempenho no trabalho que lhe foi atribuído e da aptidão para prover a própria subsistência mediante trabalho honesto, como indicado no dispositivo legal acima transcrito. Portanto, depreende-se, da leitura do texto legal, que a avaliação do comportamento do apenado se dá em face de todo o período de cumprimento da reprimenda imposta.
+Em relação ao pressuposto subjetivo, vale trazer a lição de Renato Marcão:
+No plano do ideal, a satisfação de tais requisitos constitui indicativo mais ou menos seguro de que o condenado não voltará a delinquir.
+Ajustando-se ao ambiente carcerário, sabidamente de difícil convivência, de maneira a apresentar comportamento ao menos satisfatório, já que sob tais condições não se pode exigir mais do que isso, é possível presumir que sua convivência em sociedade não será impossível, dentro dos padrões da vida ordeira. É claro, entretanto, que o simples fato de o condenado ajustar-se ao meio carcerário não pode acarretar a ilusão de sua recuperação, até porque no mais das vezes estará apenas submetido aos efeitos da "prisionização" a que se referia [NOME] com o costumeiro acerto. Um homem excelente e ajustado a determinado núcleo social pode não se ajustar a outro, e isso mesmo sem pensarmos no ambiente carcerário.
+Apresentando-se, entretanto, de forma satisfatória em seu comportamento e mostrando-se dedicado na execução dos trabalhos que lhe forem atribuídos, o condenado estará revelando grau maior de recuperação e aptidão ao retorno à vida social. (Curso de Execução Penal. 9. ed. rev., ampl. e atual. São Paulo: Saraiva, 2011, p. 243).
+Nesse sentido, o Juízo de primeiro grau negou o pedido de concessão do benefício de livramento condicional por reputar ausente o requisito subjetivo. A decisão foi mantida pelo Tribunal a quo, que negou provimento ao agravo em execução interposto pela defesa e, assim, indeferiu a benesse.
+Com efeito, é imperioso destacar que, embora a falta grave não seja considerada como marco interruptivo para o deferimento do benefício, o agravante possui histórico de mau comportamento durante o cumprimento da pena em regime mais brando, incluindo o cometimento de infração disciplinar de natureza grave, consistente em fuga do estabelecimento prisional. Assim, o sentenciado não apresenta comprovação de comportamento satisfatório durante a execução da pena de maneira a ensejar o deferimento da benesse.
+Por essas razões, não constato nenhuma ilegalidade na decisão mantida pela Corte de origem, uma vez que o livramento condicional foi indeferido com base em elementos concretos dos autos que, efetivamente, evidenciam a ausência do cumprimento do requisito subjetivo.
+Trago à baila o seguinte julgado:
+ ..
+III - Para a concessão do livramento condicional, o Magistrado deve avaliar o efetivo cumprimento do requisito subjetivo, não estando adstrito ao atestado de bom comportamento carcerário, sob pena de se tornar mero homologador da manifestação do diretor do estabelecimento prisional (precedentes).
+IV - Destaque-se, ademais, que nos termos da jurisprudência pacífica desta Corte Superior de Justiça, a análise do merecimento do apenado demanda amplo revolvimento da matéria fático-probatória, procedimento que é incompatível com a estreita via do habeas corpus.
+V - No presente agravo regimental não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão agravada, devendo ser mantida por seus próprios fundamentos.
+Agravo regimental desprovido (AgRg no HC n. 394.009/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 30/10/2017, grifei).
+Ademais, para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar conclusão diversa da exarada na decisão liminar, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
