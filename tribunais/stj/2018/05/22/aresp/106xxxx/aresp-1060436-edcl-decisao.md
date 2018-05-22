@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RAPIDO 900 DE TRANSPORTES RODOVIARIOS LTDA em face da decisão singular acostada a fls. 695-697 e-STJ, da lavra deste signatário, em que foi dado provimento ao agravo interno interposto pela ora embargante e, admitido o recurso especial, foi negado provimento ao reclamo.
+Nas razões dos aclaratórios (fls. 700-708 e-STJ) a embargante alegou omissão quanto à prescrição do débito perseguido. Afirmou que a prescrição é matéria de ordem pública e poderia ser conhecida a qualquer tempo.
+Impugnação às fls. 712-713 e-STJ.
+É o relatório. Decide-se.
+Os presentes aclaratórios não comportam acolhimento.
+1. Constata-se que a matéria indicada como omissa não foi trazida nas razões do recurso especial, o que configura inovação recursal, indevida em virtude da preclusão consumativa. "Na linha dos precedentes do STJ, os argumentos apresentados em momento posterior à apresentação das contrarrazões de recurso especial não são passíveis de conhecimento por importar inovação recursal indevida em virtude da preclusão consumativa" (AgInt no AREsp 912.217/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 08/02/2018, DJe 23/02/2018).
+Nesse mesmo sentido, vejam-se, ainda: AgRg no AREsp 19.297/PE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/12/2017, DJe 15/12/2017; AgInt nos EDcl no REsp 1627234/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/11/2017, DJe 21/11/2017.
+Ademais, a decisão singular está clara e suficientemente fundamentada. Essencialmente, verificou-se que o Tribunal estadual, ao considerar intempestivos os embargos de declaração opostos pelo ora insurgente, decidiu consoante a jurisprudência desta Corte superior ao interpretar a Lei 9.800/99 como legislação especial, que prepondera sobre as determinações gerais do Código de Processo Civil, de modo que, na interposição de recurso via fax, o prazo para apresentação dos originais deve ser contado em dias corridos.
+Reconhecida a intempestividade dos aclaratórios opostos na origem, se quer seria possível discutir a matéria relativa à prescrição em sede de recurso especial, ainda que de ofício, pois o acórdão acostado às fls. 507-515 e-STJ, no qual se afastou a prescrição, está acobertado pela força da coisa julgada.
+Assim, tendo o decisum monocrático enfrentado todos os pontos aventados necessários ao deslinde da controvérsia, não há de se falar em vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente, razão pela qual se impõe a sua rejeição.
+2. Do exposto, rejeitam-se os embargos de declaração.
+Publique-se. Intimem-se.
