@@ -1,0 +1,29 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL opõe embargos declaratórios contra a decisão de fls. 262-266, em que concedi a ordem para fixar o regime inicial semiaberto de cumprimento de pena.
+Nos aclaratórios, o Parquet sustenta a ocorrência de contradição no decisum, por considerar que "o entendimento do órgão fracionário sempre foi no sentido de que a natureza nociva do crack e a quantidade de porções encontradas da referida substância tóxica são fatores que, somados, justificam a imposição de regime de cumprimento de pena mais gravoso" (fl. 274). Colaciona julgados desta Corte Superior que, no seu entender, tratam de casos semelhantes ao presente e apresentam solução distinta, ao manter o regime fechado.
+Requer, dessa forma, "seja reformado (sic) a decisão vergastada, mantendo-se as decisões das instâncias ordinárias" (fl. 279).
+Decido.
+Preambularmente, convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na espécie, observo que os embargos declaratórios não comportam acolhimento.
+Com efeito, a decisão impugnada foi clara ao afirmar que a quantidade e a natureza dos entorpecentes apreendidos não eram suficientes para, por si sós, justificar a imposição do regime mais gravoso, notadamente diante da primariedade dos réus e da fixação da pena-base no mínimo legal. Confira-se (fl. 265, destaques no original):
+Imperioso salientar que, uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 pelo Supremo Tribunal Federal (HC n. 111.840/ES, DJe 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n.
+11.343/2006.
+Na hipótese, diante da reprimenda definitivamente imposta aos réus, considero que o regime inicial fechado se mostra excessivamente gravoso no caso. Isso porque a natureza e a quantidade das substâncias entorpecentes apreendidas em poder dos acusados (cerca de 55 g de crack) não evidenciam acentuada reprovabilidade em sua conduta. Os réus eram tecnicamente primários ao tempo do crime, a pena-base foi fixada no mínimo legal e a reprimenda definitivamente imposta a eles é superior a 4 e inferior a 8 anos de reclusão.
+Portanto, entendo que o regime semiaberto é o mais adequado para a prevenção e a repressão dos delitos praticados, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal.
+A respeito do tema, a jurisprudência desta Corte Superior é firme em assinalar ser válida a imposição de "regime inicial mais gravoso com esteio na quantidade e diversidade dos entorpecentes apreendidos. Contudo, nos casos em que o volume não seja relevante tal fundamento revela-se inidôneo" (AgRg no HC n. 407.398/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 14/3/2018, grifei).
+Em patamares próximos aos da espécie, a Quinta Turma desta Corte Superior considerou que, a despeito da quantidade e da natureza dos entorpecentes apreendidos, a primariedade do réu e as demais circunstâncias do caso recomendavam a imposição do modo intermediário.
+Nesse sentido, cito julgado em que foram apreendidas três espécies de entorpecente, em montantes similares aos dos autos:
+ ..
+4. Hipótese em que à míngua de elementos probatórios que denotem ser o paciente habitual na prática delitiva ou integrante de organização criminosa, bem como considerando sua primariedade, seus bons antecedente, é cabível a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 na fração 1/6, atento aos vetores do art. 42 da referida Norma (47,93g de maconha, 21g de crack e 10,72g cocaína).
+5. Aplicada a pena de 4 anos e 2 meses, sendo primário o réu e favoráveis as circunstâncias judiciais, o regime semiaberto é o adequado à prevenção e à reparação do delito, nos termos do art. 33, § 2º, "b", do CP.
+6. É inadmissível a substituição da pena privativa de liberdade por restritiva de direitos ao condenado à pena privativa de liberdade superior a quatro anos (art. 44, I, do CP).
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para aplicar o redutor do art. 33, § 4º, da Lei n. 11.343/2006, na fração de 1/6, ficando a pena final em 4 anos e 2 meses de reclusão, mais pagamento de 417 dias-multa, bem como para fixar o regime inicial semiaberto.
+(HC n. 432.798/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 10/5/2018)
+Do mesmo modo, a Sexta Turma desta Corte Superior estabeleceu o regime intermediário em caso no qual foram apreendidos 95 pinos de crack, 8 pinos de cocaína e 11 papelotes de maconha, em decisum assim ementado:
+ ..
+4. Fixada a pena-base no mínimo legal, sendo a reprimenda final de 5 anos de reclusão, é possível o estabelecimento do regime inicial semiaberto, a teor do disposto no art. 33, § 2º, b, do Código Penal.
+5. Ordem parcialmente concedida, a fim de fixar o regime inicial semiaberto para início do cumprimento da pena do paciente.
+(HC n. 413.110/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 15/2/2018, destaquei)
+Desse modo, inexiste contradição no decisum.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
