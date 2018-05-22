@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. PRETENSÃO DE SE REDISCUTIR REGRA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO CABIMENTO. ENTENDIMENTO DA CORTE ESPECIAL DO STJ. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS EM CONFRONTO. ACÓRDÃO FIRMADO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ. SÚMULA Nº 168/STJ. RECURSO NÃO ADMITIDO.
+DECISÃO
+Trata-se de embargos de divergência apresentados contra acórdão da Quarta Turma cuja ementa é a seguinte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. APELAÇÃO. TEMPESTIVIDADE. CONTAGEM DO PRAZO. CONDIÇÕES DA AÇÃO. REVISÃO DE DECISÃO ANTERIOR. PRECLUSÃO. AUSÊNCIA. INDENIZAÇÃO SECURITÁRIA. AJUIZAMENTO DIRETAMENTE PELO TERCEIRO. ILEGITIMIDADE ATIVA. AGRAVO NÃO PROVIDO.
+1. O acórdão recorrido alinhou-se ao entendimento de que a decisão disponibilizada eletronicamente considera-se publicada no primeiro dia útil posterior à referida disponibilização, iniciando-se, pois, a contagem do prazo recursal no primeiro dia útil seguinte, também se postergando o final do prazo para o primeiro dia útil seguinte, caso venha a recair em feriado em que não haja expediente forense.
+2. As condições da ação não se sujeitam a preclusão, cabendo ao juiz ou tribunal rever decisão anterior, por provocação ou de ofício, nos termos dos arts. 113 e 471 do CPC/73.
+3. Não cabe ao terceiro prejudicado ajuizar ação direta e exclusivamente em face da seguradora do causador do dano. Entendimento firmado em recurso especial representativo da controvérsia, nos termos do art. 543-C do CPC/1973 (REsp 962.230/RS, Rel. Min. LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe de 20/4/2012).
+4. Agravo interno não provido.
+Sustenta-se, em síntese, que, é ônus do recorrente a comprovação da existência de feriado local, bem como que a questão sobre a legitimidade da parte passiva foi abrangida pela preclusão. Finalmente, argumenta que
+esta Corte Superior, em dois precedentes da Terceira Turma e da própria Quarta Turma, já firmaram entendimento diametralmente oposto ao fumado no acórdão embargado, entendendo pelaipôssibilidade de ajuizamento da ação direta do terceiro contra a seguradora, nos casos de existência de cláusula contratual expressa que cobre danos a terceiros, evidenciando a relação de direito material ocorrida entre a vítima do dano e a seguradora, reconhecendo ainda, a ocorrência de estipulação em favor de terceiro  ..  acredita a embargante estar com a razão, pois no caso concreto admissível o acionamento direto dela, em face da seguradora, dada a existência de relação de direito material indiscutível e incontroversa nos autos, entre a autora/embargante e a ré/embargada.
+Apresentada impugnação.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preliminarmente, o art 926 do CPC/2015 determina que:
+Os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente.
+Finalmente, incide por analogia a Súmula n. 568/STJ:
+O relator, monocraticamente, no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Sem razão a parte embargante.
+A Corte Especial deste STJ
+firmou compreensão segundo a qual não cabem embargos de divergência com a finalidade de discutir eventual equívoco quanto ao exame dos requisitos de admissibilidade de recurso especial, tais como aqueles referentes à deficiência de fundamentação, ausência de prequestionamento, ao reexame de provas, à necessidade de interpretação de cláusulas contratuais (AgRg nos EREsp 1.191.545/RJ, Corte Especial, Rel. Min. Arnaldo Esteves Lima, DJe de 13.9.2012).
+A tempestividade e a legitimidade de parte, como requisitos de admissibilidade, não é objeto de embargos de divergência.
+Além disso, os arestos trazidos à colação são genéricos, e, por estarem versados sobre hipóteses de fato diversas, a ausência de similitude impede o comparativo entre acórdão embargado e paradigmas, de modo a obstar a configuração do dissídio jurisprudencial (cf. AgInt nos EAREsp 815.431/RS, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, DJe 27/10/2017). Dito de outra forma, "não se caracteriza o dissenso interpretativo quando há dessemelhança entre os arestos em confronto" (AgRg nos EREsp 1126442/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 07/05/2012, DJe 18/05/2012).
+Ainda que assim não fosse, a jurisprudência desta Corte Superior é no sentido de que
+ ..  mitiga-se a exigência da comprovação para os feriados nacionais, relacionados na legislação específica, quais sejam: o dia 1º de janeiro; o dia 21 de abril; o dia 1º de maio; o dia 07 de setembro; o dia 12 de outubro; o dia 02 de novembro; o dia 15 de novembro; e o dia 25 de dezembro (Lei 662/49, com alterações, e Lei 6.802/80). Igualmente é possível flexibilizar a necessidade de comprovação dos feriados forenses estatuídos em âmbito nacional: a Terça-feira de Carnaval; a Sexta-feira Santa; e o Dia da Justiça (Lei 1.408/51), este último definido como 08 de dezembro (Decreto-Lei 8.292/45). (AgInt no AREsp 1065289/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 12/12/2017, DJe 01/02/2018).
+No mesmo sentido:
+ ..  o dia 8 de dezembro, dia da Justiça, é feriado nacional por força do disposto no art. 5º da Lei 1.408/51" (AgInt no AgInt no REsp 1377793/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/02/2018, DJe 27/02/2018).
+PROCESSUAL CIVIL. EMBARGOS INFRINGENTES. DIA FERIADO. PRAZO. PRORROGAÇÃO. CPC, ARTS. 173, 175 E 508.
+I. Recaindo o dies ad quem do prazo em feriado forense, caso do Dia da Justiça (8 de dezembro), o lapso de quinze dias para a oposição de embargos infringentes prorroga-se para o dia útil subseqüente, data em que antecipadamente a parte protocolizou a peça recursal.
+II. Recurso especial conhecido e provido, para que o Tribunal estadual proceda ao julgamento do mérito dos embargos infringentes.
+(REsp 226.430/PR, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 06/04/2000, DJ 26/06/2000, p. 180)
+PROCESSO CIVIL. PRAZO. FERIADO NÃO DEMONSTRADO. RECURSO. DESPROVIDO.
+- NÃO SE TRATANDO DE FERIADO NACIONAL (1./I, 21/IV, 1./V, 7/IX, 12/X, 15/XI E 25/XII), DIA DE ELEIÇÃO (LEI 662/49) OU DE FERIADOS FORENSES DECLARADOS POR LEI FEDERAL (V.G., SEXTA FEIRA DA PAIXÃO, TERÇA FEIRA DE CARNAVAL E 8/XII - ("DIA DA JUSTIÇA"), INCUMBE A PARTE RECORRENTE DEMONSTRAR O MOTIVO DO FECHAMENTO DO FORUM.
+(AgRg no Ag 16.485/SP, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, julgado em 22/09/1992, DJ 26/10/1992, p. 19056)
+Outrossim, a questão da legitimidade passiva é matéria de ordem pública, cognoscível de ofício nas instâncias ordinárias, ou mesmo nesta instância superior - desde que prequestionada. Precedentes: AgInt no REsp 1579946/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 05/10/2017, DJe 11/10/2017; EDcl no AgRg no AREsp 608.253/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/06/2017, DJe 21/06/2017; AgInt no AREsp 571.007/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/10/2016, DJe 04/11/2016; RCDESP no REsp 1267535/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 13/03/2012, DJe 19/03/2012.
+Finalmente, não há como admitir argumento contrário à tese de que
+não cabe ao terceiro prejudicado ajuizar ação direta e exclusivamente em face da seguradora do causador do dano. Entendimento firmado em recurso especial representativo da controvérsia, nos termos do art. 543-C do CPC/1973 (REsp 962.230/RS, Rel. Min. LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe de 20/4/2012).
+Nos termos da Súmula 168/STJ, não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado.
+Diante do exposto, NÃO ADMITO os embargos de divergência.
+Publique-se. Intimem-se.
