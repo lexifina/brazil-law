@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO (ART. 1042 DO NCPC) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - PREVIDÊNCIA PRIVADA - TUTELA ANTECIPADA REVOGADA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE AGRAVADA.
+1. "É incabível a incidência de juros moratórios sobre valores a serem devolvidos em virtude de revogação de decisão que antecipou os efeitos da tutela por não haver fato ou omissão imputável ao autor da ação de revisão de benefício. Precedentes. Súmula nº 83/STJ." (AgInt no AREsp 1098349/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/03/2018, DJe 04/04/2018).
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL PREVI contra decisão singular proferida por este signatário, a qual negou provimento ao agravo (art. 1042 do NCPC).
+O recurso especial foi interposto pela CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL PREVI, com fundamento no art. 105, III, na alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 1892, e-STJ):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. AÇÃO DE COMPLEMENTAÇÃO PREVIDENCIÁRIA. AUXILIO CESTA ALIMENTAÇÃO. DESCONTO DE VALORES DECORRENTES DE TUTELA ANTECIPADA POSTERIORMENTE REVOGADA.
+POSSIBILIDADE. LIMITAÇÃO.
+1. Nos termos da atual jurisprudência do Superior Tribunal de Justiça, os valores antecipados a título de cesta alimentação por força de medida posteriormente revogada devem ser devolvidos, ante o caráter de reversibilidade da tutela. Posicionamento revisto.
+2. Provimento parcial do para reformar a decisão agravada autorizando a devolução dos valores nos próprios autos, mas limitada a 10% da renda mensal do benefício suplementar da parte agravada até a satisfação integral do crédito. Precedentes do STJ.
+RECURSO PARCIALMENTE PROVIDO.
+Embargos de declaração opostos e rejeitados.
+Nas razões do especial (fls. 246/253, e-STJ), a recorrente apontou violação aos seguintes normativos: arts. 520, incs. I e II, do CPC/15; e arts. 397 e 407 do CC, sustentando, em síntese, em face da revogação da tutela antecipada, deve a parte recorrida restituir os valores recebidos nesse decisão com a devida incidência dos juros moratórios, sob pena de enriquecimento ilícito.
+Contrarrazões às fls. 259/265, e-STJ.
+O Tribunal local inadmitiu previamente o recurso especial em razão da incidência das Súmulas 83 do STJ e 284 do STF, dando ensejo ao presente agravo, no qual a entidade previdenciária combate tais argumentos.
+Em decisão singular negou-se provimento ao agravo sob o fundamento de ser incabível a condenação em juros de mora, nos termos da jurisprudência do STJ, na devolução dos valores à entidade previdenciária incorporados aos proventos do beneficiário por força de antecipação de tutela posteriormente revogada, atraindo a incidência da Súmula 83 do STJ.
+Inconformada, a entidade previdenciária reafirma a possibilidade de incidência de juros de mora.
+Impugnação às fls. 325/327, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO (ART. 1042 DO NCPC) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - PREVIDÊNCIA PRIVADA - TUTELA ANTECIPADA REVOGADA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE AGRAVADA.
+1. "É incabível a incidência de juros moratórios sobre valores a serem devolvidos em virtude de revogação de decisão que antecipou os efeitos da tutela por não haver fato ou omissão imputável ao autor da ação de revisão de benefício. Precedentes. Súmula nº 83/STJ." (AgInt no AREsp 1098349/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/03/2018, DJe 04/04/2018).
+2. Agravo interno desprovido.
+VOTO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): Não merece reforma a decisão ora agravada.
+1. O entendimento do acórdão recorrido encontra-se em consonância com a orientação deste Tribunal, ao examinar questão de mérito absolutamente idêntica, no sentido de que sobre os valores a serem restituídos à entidade fechada de previdência privada, incorporados aos proventos de complementação de aposentadoria complementar, por força de antecipação de tutela posteriormente revogada, não devem incidir juros de mora em razão de não haver ato voluntário ou omissão atribuída ao beneficiário que tenha ensejado o atraso na devolução das referidas parcelas.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. VIOLAÇÃO DO ART. 535 DO CPC/73. AUSÊNCIA. REPARAÇÃO DE DANO, DECORRENTE DE MEDIDA LIMINAR DEFERIDA NOS AUTOS. POSSIBILIDADE. RESPONSABILIDADE PROCESSUAL OBJETIVA. OBRIGAÇÃO DE REPARAR O DANO PROCESSUAL. DECORRE DA LEI, NÃO DEPENDENDO DE PRÉVIOS RECONHECIMENTO JUDICIAL E/OU PEDIDO DO LESADO. POSSIBILIDADE DE DESCONTO, COM ATUALIZAÇÃO MONETÁRIA, DO PERCENTUAL DE 10% DO MONTANTE BRUTO DO BENEFÍCIO SUPLEMENTAR, ATÉ QUE OCORRA A COMPENSAÇÃO DO DANO. UTILIZAÇÃO DE ANALOGIA. LEI N. 8.112/1990. MATÉRIA PACIFICADA NO ÂMBITO DO STJ, EM VISTA DA AFETAÇÃO À SEGUNDA SEÇÃO E JULGAMENTO DO RESP 1.548.749/RS. INCIDÊNCIA DE JUROS DE MORA. INVIABILIDADE. NÃO HÁ COMO RECONHECER FATO OU OMISSÃO IMPUTÁVEL AOS DEVEDORES - AUTORES DA AÇÃO DE REVISÃO DE BENEFÍCIO, ORA RECORRIDOS. A TEOR DO ART. 396 DO CC, NÃO INCORREM EM MORA. CABE À ENTIDADE PREVIDENCIÁRIA PRATICAR OS ATOS NECESSÁRIOS À REPARAÇÃO DO DANO PROCESSUAL. É O PLEITO INFUNDADO, SUSCITADO RECURSO ESPECIAL E NO PRESENTE AGRAVO INTERNO DA ENTIDADE PREVIDENCIÁRIA, QUE RETARDA O TRÂNSITO EM JULGADO.
+1. Segundo o entendimento firmado na Segunda Seção desta Corte Superior, "Os danos causados a partir da execução de tutela antecipada (assim também a tutela cautelar e a execução provisória) são disciplinados pelo sistema processual vigente à revelia da indagação acerca da culpa da parte, ou se esta agiu de má-fé ou não. Com efeito, à luz da legislação, cuida-se de responsabilidade processual objetiva, bastando a existência do dano decorrente da pretensão deduzida em juízo para que sejam aplicados os arts. 273, § 3º, 475-O, incisos I e II, e 811 do CPC/1973 (correspondentes aos arts. 297, parágrafo único, 520, I e II, e 302 do novo CPC)".
+2. Salientou-se também que "Em linha de princípio, a obrigação de indenizar o dano causado pela execução de tutela antecipada posteriormente revogada é consequência natural da improcedência do pedido, decorrência ex lege da sentença, e, por isso, independe de pronunciamento judicial, dispensando também, por lógica, pedido da parte interessada. A sentença de improcedência, quando revoga tutela antecipadamente concedida, constitui, como efeito secundário, título de certeza da obrigação de o autor indenizar o réu pelos danos eventualmente experimentados, cujo valor exato será posteriormente apurado em liquidação nos próprios autos".
+3."O art. 396 do CC estabelece que, não havendo fato ou omissão imputável ao devedor, não incorre este em mora. Dessarte, para caracterização ou permanência em mora, é necessário que haja exigibilidade da prestação e inexecução culposa, vale dizer, "retardamento injustificado da parte de algum dos sujeitos da relação obrigacional", compreendendo os juros moratórios "pena imposta ao devedor em atraso com o cumprimento da obrigação" (PEREIRA, Caio Mário da Silva. Instituições de direito civil: teoria geral das obrigações. 25 ed. Rio de Janeiro: Forense, 2012, p. 119 e 291)". (REsp 1169179/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 03/03/2015, DJe 31/03/2015)
+4. Com efeito, como cabe à entidade previdenciária requerer nos mesmos autos a liquidação, para apuração do valor exato para reparação do dano processual e, após, promover o desconto mensal de montantes dos benefícios auferidos pelos recorridos - até que ocorra a integral compensação do dano -, não há falar em incidência de juros de mora.
+5. Agravo interno não provido. (RESP 1.630.716/RS, Quarta Turma, Rel. Ministro Luis Felipe Salomão, DJ 2.2.2017).
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO ESTADUAL. AFRONTA AO ARTIGO 1022, II, DO CPC/15. INEXISTÊNCIA.
+PREVIDÊNCIA PRIVADA. REVOGAÇÃO DE TUTELA ANTECIPADA. INCIDÊNCIA DE JUROS DE MORA. IMPOSSIBILIDADE. PRECEDENTES. 1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. É incabível a incidência de juros moratórios sobre valores a serem devolvidos em virtude de revogação de decisão que antecipou os efeitos da tutela por não haver fato ou omissão imputável ao autor da ação de revisão de benefício. Precedentes. Súmula nº 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1098349/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/03/2018, DJe 04/04/2018)
+Na mesma linha, cito a seguintes decisões singulares de integrantes da Segunda Seção: AgInt no RESP 1.568.925/RS, Rel. Ministro Paulo de Tarso Sanseverino, DJe 2.12.2016; RESP 1.565.203/RS, Rel. Ministro Marco Buzzi, DJe 3.4.2017.
+2. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
