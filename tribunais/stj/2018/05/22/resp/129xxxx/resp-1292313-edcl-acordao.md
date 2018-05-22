@@ -1,0 +1,49 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. MEDIDA CAUTELAR. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO AGRAVO INTERNO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO MONOCRÁTICA. CONTRADIÇÃO PARCIALMENTE RECONHECIDA. CORREÇÃO DO VÍCIO, SEM EFEITOS INFRINGENTES. REMANESCE OUTRO FUNDAMENTO DA DECISÃO MONOCRÁTICA NÃO IMPUGNADO. MANUTENÇÃO DA INCIDÊNCIA DA SÚMULA 182/STJ. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração têm por objetivo sanar eventual obscuridade, contradição ou omissão na decisão embargada (CPC/2015, art. 1.022).
+2. No caso, razão assiste em parte ao embargante, quanto à existência de contradição, pois os fundamentos da decisão monocrática referentes à aplicação da Súmula 283/STF foram, sim, impugnados. No entanto, apesar dessa correção, remanesce a aplicação da Súmula 182/STJ, pois o fundamento alusivo à não demonstração do dissenso pretoriano não foi impugnado nas razões do agravo interno.
+3. Embargos de declaração parcialmente acolhidos, para sanar contradição, sem efeitos infringentes.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, acolher parcialmente os embargos de declaração, para sanar contradição, sem efeitos infringentes, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Trata-se de embargos de declaração (fls. 1.499-1.504) opostos por FREDERICO MARTINS DE MATOS contra v. acórdão, proferido pela eg. Quarta Turma, assim ementado (fl. 1.493):
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. MEDIDA CAUTELAR. RAZÕES DO AGRAVO INTERNO QUE NÃO IMPUGNAM O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DOS ARTS. 932 E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182/STJ. RECURSO NÃO CONHECIDO.
+1. É inviável o agravo interno que deixa de atacar especificamente todos os fundamentos da decisão agravada, nos termos dos arts. 932, III, e 1.021, § 1º, do CPC/2015 e da Súmula 182/STJ.
+2. Agravo interno não conhecido."
+Nas razões dos aclaratórios, aponta-se a existência de contradição, sob o argumento de que todos os fundamentos da decisão singular (fls. 1.448-1.455) foram devidamente impugnados nas razões do agravo interno.
+Aduz que, no próprio relatório do v. acórdão embargado, ao sintetizar as razões do agravo interno, verifica-se que foram infirmados todos os fundamentos da decisão monocrática que negou provimento ao recurso especial.
+O d. Ministério Público Federal apresentou impugnação (fls. 1.509-1.513) pela rejeição dos aclaratórios.
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Os embargos de declaração têm por objetivo sanar eventual obscuridade, contradição ou omissão na decisão embargada (CPC/2015, art. 1.022). Portanto, são inadmissíveis para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, a fim de promover novo julgamento da lide.
+No caso em apreço, o v. acórdão embargado não conheceu do agravo interno, assentando que não foram impugnados os fundamentos referentes à aplicação da Súmula 283/STF - itens "e" e "f" -, tampouco fora infirmado o fundamento de que a divergência pretoriana não estava comprovada.
+A título elucidativo, transcreve-se o seguinte excerto do voto condutor do v. acórdão embargado (fls. 1.489-1.491):
+"Trata-se de agravo interno interposto por FREDERICO MARTINS DE MATOS contra decisão (fls. 1.448-1.455) que negou provimento a seu recurso especial, com base nos seguintes fundamentos:
+(..)
+e) no pertinente à alegada violação aos arts. 36 da Lei 6.024/74 e ao art. 267, I e VI, do CPC/73, o apelo nobre encontra óbice na Súmula 283, pois o apelo nobre impugnou fundamento autônomo e suficiente para manter, por si só, o v. acórdão estadual, qual seja o entendimento de que foi rejeitada a "(..) preliminar de falta de interesse processual, ao fundamento de que a medida cautelar de arresto era adequada, e estavam preenchidos os requisitos contido na Lei n. 6.024/76 (..)" (fl. 1.453);
+f) no tocante ao art. 333, I, do CPC/73, a pretensão demandaria revolvimento de matéria fático-probatória, atraindo o óbice da Súmula 7/STJ e, ainda que ultrapassado tal óbice, incidiria, novamente, a Súmula 283/STF, pois "(..) o ora recorrente não ataca o fundamento referente à aplicação do art. 40 da Lei n. 6.024/76, que prevê "(..) a solidariedade entre os administradores e as sociedades, "pelas obrigações por elas assumidas durante sua gestão, responsabilidade considerada objetiva" (fls. 857)" (fl. 1.455).
+g) dissenso pretoriano não demonstrado, em face da ausência de similitude fático-jurídica entre o v. acórdão recorrido e os paradigmas apresentados.
+Nas razões do agravo interno, alega-se, em síntese, que a apontada violação ao art. 535 do CPC/73 não esbarra no óbice da Súmula 284/STF, uma vez que as razões do apelo nobre explicam como o eg. Tribunal a quo teria violado o referido artigo.
+Afirma-se que também está configurada a violação ao art. 165 do CPC/73, na medida em que o v. acórdão que julgou os embargos de declaração no eg. Tribunal de Justiça do Estado do Rio de Janeiro é carente de fundamentação.
+Assevera-se, também, que está caracterizada a violação aos arts. 41, 45 e 267, IV, do CPC/73, pois o Ministério Público do Estado de Minas Gerais não tem competência para litigar perante a Justiça do Estado do Rio de Janeiro.
+Aponta-se ofensa ao art. 36 da Lei 6.024/74 e arts. 267, I e VI, e 295 do CPC/73, sob o argumento de que o recorrente está sofrendo dupla penalidade, pois "(..) teve seus bens declarados indisponíveis conforme prevê a legislação e futuramente, com os bens já indisponíveis, sobre uma segunda sanção com a decretação do bloqueio dos mesmo bens em expressa violação legal" (fl. 1.469). Aduz, ainda, que não prospera a incidência da Súmula 284/STF.
+Acrescenta-se, ainda, que está configurada a violação ao art. 41 da Lei 6.024/74 e ao art. 333, I, do CPC/73, afirmando que "(..) o argumento utilizado na decisão que uma revisão do julgamento ocorrido no TJRJ ensejaria reexame fático da demanda é deveras equivocado. O escopo o principal é o reconhecimento por Vossa Excelência da responsabilidade dos ex-administradores em consonância com a jurisprudência pacifica neste Tribunal" (fl. 1.471).
+Ao final, pleiteia-se a reconsideração da decisão agravada ou, se mantida, seja o presente feito levado a julgamento perante a eg. Quarta Turma.
+(..)
+É o relatório.
+Da detida leitura das razões apresentadas no agravo interno, infere-se que o agravante não impugnou, especificamente, os fundamentos sintetizados nos itens e e f, referentes à incidência da Súmula 283/STF, nem o item g, relativo à divergência pretoriana.
+Como sabido, para se viabilizar o conhecimento do agravo interno, sobretudo diante do princípio da dialeticidade, é necessário sejam impugnados, especificamente, todos os fundamentos da decisão agravada, sob pena de não conhecimento do recurso, conforme preconizam os arts. 932, III, e 1.021, § 1º, do CPC/2015, in verbis:
+"Art. 932. Incumbe ao relator:
+(..) III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida." (grifou-se)
+"Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada." (grifou-se)
+Registre-se, ainda, que a necessidade de impugnação dos fundamentos da decisão agravada está sedimentada na Súmula 182/STJ, que assim dispõe: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+(..)
+Nesse panorama, ante a ausência de impugnação específica dos fundamentos da decisão vergastada, é forçoso reconhecer que o presente agravo não merece conhecimento, em face do óbice da Súmula 182/STJ e dos arts. 932, III, e 1.021, § 1º, do CPC/2015" (grifou-se)
+Com efeito, da atenta releitura da petição do agravo interno e respectivo acórdão ora objurgado, contrapondo-os com as razões postas nestes aclaratórios, infere-se que razão assiste em parte ao ora embargante, uma vez que, no próprio relatório do v. acórdão embargado, há menção a impugnação dos itens "e" e "f" supratranscritos, em que pese o ora embargante tenha-se referido à Súmula 284/STF, quando, na realidade, o referido fundamento refere-se à Súmula 283/STF. No entanto, de fato, no agravo interno, especificamente nos tópicos às fls. 1.468-1.470, os aludidos fundamentos estão sim impugnados, e aí reside a contradição.
+No entanto, o fundamento referente à não comprovação da divergência jurisprudencial - item "g" - não foi infirmado no agravo regimental, motivo pelo qual o v. acórdão embargado, em que pese a correção do vício ora reconhecido, deve ser mantido, pois, como devidamente assentado, devem ser impugnados especificamente todos os fundamentos da decisão agravada, o que não ocorreu no referido agravo regimental.
+Nesse cenário, os presentes aclaratórios devem ser parcialmente acolhidos, sem efeitos infringentes, para afirmar que os itens "e" e "f" da decisão monocrática de fls. 1.488-1.455 foram infirmados, ficando apenas o fundamento sintetizado no item "g" sem a respectiva impugnação. Nesse diapasão, o agravo interno, apesar da correção ora realizada, continua encontrando óbice na Súmula 182/STJ.
+Ante o exposto, acolho parcialmente os embargos de declaração, para sanar contradição, sem efeitos infringentes.
+É como voto.
