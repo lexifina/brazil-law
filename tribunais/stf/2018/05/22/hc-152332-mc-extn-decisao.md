@@ -1,0 +1,18 @@
+DECISÃO
+LIMINAR – EXTENSÃO – IDENTIDADE DE FATO – DEFERIMENTO.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    Mediante as petições/STF nº 20.447/2018, nº 21.633/2018 e nº 26.179/2018, respectivamente, Marcelo Rabelo Rodrigues, Cláudio Freitas dos Santos e Eduardo da Silva Soares, por meio de advogados habilitados, postulam a extensão dos efeitos da liminar implementada, alegando situação jurídica idêntica à do paciente, José Airton Rodrigues.
+    2. Ao acolher o pedido de concessão de medida acauteladora neste processo, consignei:
+    […]
+    2. O envolvimento de grupo criminoso voltado ao cometimento de delitos contra o patrimônio, com emprego de armas de fogo, restrição de liberdade das vítimas e ameaças de morte, revela estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, presentes os fortes indícios de envolvimento do paciente, ao que tudo indica, a custódia se impunha, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente o ato atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Ocorre que o paciente está preso, sem culpa formada, há 1 ano e 10 dias. Surge o excesso de prazo. A preventiva deve ser balizada no tempo. Privar da liberdade, por prazo desproporcional, pessoa cuja responsabilidade penal não foi declarada em definitivo viola o princípio da não culpabilidade. Nada, absolutamente nada, justifica tal fato.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da prisão preventiva retratada no processo nº 0007421-41.2017.8.18.0140, da Vara Central de Inquéritos da Comarca de Teresina/PI, mantida no processo-crime nº 0030358-79.2016.8.18.0140. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do homem integrado à sociedade.
+    4. Deixo de estender os efeitos da medida aos corréus, uma vez que não há comprovação, no processo, do cumprimento dos mandados, mostrando-se impossível verificar as situações individualizadas. Fica inviabilizada a observância do disposto no artigo 580 do Código de Processo Penal.
+    […]
+    Há a identidade arguida. A decisão por meio da qual afastada a constrição do paciente não está fundada em motivos de caráter pessoal. A preventiva dos requerentes foi determinada no mesmo ato e processo-crime. Marcelo Rabelo Rodrigues foi preso em 27 de julho de 2017, ao passo que Cláudio Freitas dos Santos e Eduardo da Silva Soares, no dia 25 daquele mês, encontrando-se, portanto, recolhidos há, pelo menos, 10 meses e 3 dias, no que caracterizado o excesso de prazo.
+    3. Defiro o pedido de extensão. Expeçam alvarás de soltura a serem cumpridos com as cautelas próprias: casos os requerentes, Marcelo Rabelo Rodrigues, Cláudio Freitas dos Santos e Eduardo da Silva Soares, não estejam presos por motivo diverso da prisão preventiva retratada no processo nº 0030358-79.2016.8.18.0140, da Vara Central de Inquéritos da Comarca de Teresina/PI. Advirtam-nos da necessidade de permanecerem com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informarem eventual transferência e de adotarem a postura que se aguarda do homem integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 22 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
