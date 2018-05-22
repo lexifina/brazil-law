@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Rio Grande do Sul.
+Depreende-se dos autos que a ora paciente teve sua prisão preventiva decretada pela prática, em tese, dos delitos previstos no art. 33, caput e artigo 35, caput, cumulado com o artigo 40, inciso III, ambos da Lei n. 11.343/06.
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio da qual buscava a revogação do decreto prisional. O eg. Tribunal de origem denegou a ordem, em v. acórdão assim ementado:
+"HABEAS CORPUS. TRAFICO DE DROGAS.
+PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. EXCESSO DE PRAZO.
+Paciente presa em flagrante em decorrência de suposto ilícito de tráfico de drogas. Legalidade e necessidade da prisão preventiva já foi objeto de análise no habeas corpus nº [CPF]@. Excesso de prazo na formação da culpa. Não há indícios de desídia da autoridade processante na condução do feito. Considerando a gravidade e a complexidade do delito que está sendo apurado, o decurso de tempo já transcorrido, não pode ser tido por desarrazoado.
+ORDEM PARCIALMENTE CONHECIDA, E NA PARTE CONHECIDA, DENEGADA" (fl. 125).
+Postula o impetrante, no presente writ, em linhas gerais, a revogação da prisão preventiva decretada em desfavor da paciente, ou sua substituição por prisão domiciliar, porquanto a paciente é mãe de um filho menor de 12 (doze) anos incompletos.
+A liminar foi indeferida às fls. 135-136.
+as informações foram prestadas às fls. 140-158.
+O Ministério Público Federal manifestou-se, às fls. 161-164, pelo não conhecimento, do writ em parecer ementado nos seguintes termos:
+"Habeas corpus substitutivo de recurso próprio. Não cabimento, nos termos da orientação firmada pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça. Ausência de flagrante ilegalidade que justifique a concessão da ordem de ofício. pedido de revogação da prisão preventiva, ao argumento de ausência de fundamentação idônea, ou de sua substituição por prisão domiciliar. matérias não analisadas pela corte a quo. supressão de instância. Excesso de prazo. Não ocorrência. Princípio da razoabilidade.
+Pelo não conhecimento do habeas corpus." (fl. 161).
+É o relatório.
+Decido.
+O writ está prejudicado.
+Com efeito, verifica-se, em consulta ao sítio eletrônico do eg. Tribunal de origem (www.tjrs.jus.br), que o d. juízo da Vara Criminal da Comarca de Osório/RS deferiu à paciente a substituição da prisão preventiva por prisão domiciliar, objeto do presente mandamus, in verbis:
+"Vistos. Diante da recente decisão proferida pelo Colendo Supremo Tribunal Federal no Habeas Corpus Coletivo nº 143671, em que foi concedida ordem para determinar a substituição da prisão preventiva pela domiciliar - sem prejuízo da aplicação concomitante das medidas alternativas previstas no art. 319 do CPP - de todas as mulheres presas, gestantes, puérperas, ou mães de crianças e deficientes sob sua guarda, não se enquadrando o presente caso dentre uma das exceções previstas, CONVERTO A PRISÃO PREVENTIVA DE [NOME] [NOME] [NOME] ALVES EM PRISÃO DOMICILIAR. Em que pese a manifestação do Ministério Público, entendo que o presente caso não se enquadra nas situações ditas excepcionalíssimas, conforme determinado pelo STF. A acusada será cumprir as seguintes condições: 1) recolher-se em sua residência em horário integral; 2) não frequentar casas de jogos e consumir bebidas alcoólicas; 3) não se ausentar da cidade onde reside sem prévia autorização judicial, que deverá ser requerida com cinco dias úteis de antecedência; 4) não reiterar em conduta criminosa. Expeça-se Ofício à Brigada Militar e à Polícia Civil, informando que a ré encontra-se em prisão domiciliar, fornecendo a qualificação e o endereço. Expeça-se alvará de soltura para concessão da prisão domiciliar. Comunique-se a Autoridade Policial e o CNJ. Expeça-se ofício ao Conselho Tutelar do município onde reside a acusada para que proceda no devido acompanhamento da prole da ré, devendo, em sendo o caso, proceder no acolhimento, bem como comunicar a este juízo. Intime-se o Ministério Público. Após o cumprimento, voltem os autos conclusos para designação de audiência. Cumpra-se."
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XI, do RISTJ, julgo o presente habeas corpus prejudicado.
+P. e I.
