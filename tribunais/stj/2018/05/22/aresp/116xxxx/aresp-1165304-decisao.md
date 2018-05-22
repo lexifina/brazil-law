@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 138):
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁTICA QUE, COM BASE NO ARTIGO 557, CAPUT DO CÓDIGO DE PROCESSO CIVIL, NEGA SEGUIMENTO AO RECURSO. RECURSO CABÍVEL. AGRAVO INOMINADO. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. MÉRITO. EXCEÇÃO DE PRÉ- EXECUTIVIDADE EM EXECUÇÃO FISCAL. NULIDADE DO TÍTULO. COMPETÊNCIA PARA APLICAÇÃO DA MULTA ADMINISTRATIVA. CONDIÇÕES EM QUE O VEÍCULO PARTICULAR FOI UTILIZADO. MATÉRIA QUE NECESSITA DE DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA DA ELEITA. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73.
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial, violação ao art. 231, VIII, do CTB. Sustenta que é cabível a exceção de pre-executividade para definir se o DER tem ou não competência para aplicar sanção administrativa às empresas de transporte público.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Com relação ao art. 231, VIII, do CTB, nota-se que o referido dispositivo legal não contém comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Ademais, ao dirimir a controvérsia, o Tribunal local consignou (fl. 143):
+ Todavia, no caso em apreço, mostra-se incabível a exceção de pré-executividade, pois mesmo para averiguar a competência do órgão para aplicar a penalidade, deve-se verificar em que circunstâncias o veículo praticou a infração e se o ofensor utilizou ou não o meio de transporte para fim comercial ou visando lucro, fato que depende de dilação probatória.
+Verifica-se que o Tribunal a quo confirmou os fundamentos da decisão de piso, que rejeitou a exceção de pré-executividade em virtude da necessidade de dilação probatória.
+Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de reconhecer o cabimento da exceção de pré-executividade, na espécie, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REEXAME DE PROVAS.
+1. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7 do STJ).
+2. Hipótese em que o Tribunal a quo decidiu que a exceção de pré-executividade não poderia ser conhecida sob o fundamento de que, na espécie, verificar se a execução fiscal deveria ser extinta demandaria dilação probatória.
+3. Alterar a conclusão do julgado, no sentido de que não houve a demonstração, em sede de exceção de pré-executividade, primo oculi, da ocorrência da decadência, prescrição ou extinção do crédito tributário em razão da compensação, importaria em reexame de provas, inviável no âmbito da instância especial.
+4. Agravo interno desprovido.
+(AgInt no REsp 1665674/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/09/2017, DJe 26/10/2017)
+Fica prejudicada, pelas mesmas razões, a análise do dissídio jurisprudencial.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
