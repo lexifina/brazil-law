@@ -1,0 +1,27 @@
+DECISÃO
+1. Trata-se de habeas corpus na qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Argumenta-se, em suma, a existência de evidente ilegalidade e arbitrariedade, as quais, por sua vez, estariam violando o direito à livre locomoção de CLAUDIO SALOMON, tendo em vista decisão proferida no curso da execução da pena imposta ao paciente e que lhe teria sido desfavorável.
+É o relatório.
+2. Este Superior Tribunal de Justiça, "na esteira do preceituado no Enunciado n. 691 da Súmula do Pretório Excelso, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada perante os Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta" (AgRg no HC 427.758/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/03/2018, DJe 27/03/2018).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações:
+"2. Ao que parece, a matéria tratada no presente remédio constitucional é afeta ao Juízo da Execução, neste caso, sendo apropriado o recurso de Agravo em Execução, previsto na Lei nº 7.210/1984, consoante se depreende do artigo 197 da citada norma.
+Não se ignora que a existência do Recurso de Agravo previsto na Lei de Execução Penal, por si só, não impede a impetração e o conhecimento da ação de habeas corpus com vista a afastar ilegalidade flagrante ou abuso de poder. Todavia, frisa-se, a utilização do presente remédio é medida excepcional, somente sendo admitida em hipóteses bastante específicas que demonstrem claramente a existência da flagrante ilegalidade no ato judicial impugnado.
+In casu, verifica-se da leitura da decisão de mov. 38.1 dos autos nº 0026748-60.2010.8.16.0014 que assim se posicionou o D. Juízo da Execução a respeito do pedido do ora impetrante:
+"Valho-me do juízo de retratação, nos termos do artigo 589 do Código de Processo Penal para reformar a decisão.
+O sentenciado foi condenado pela prática de crime previsto no artigo 157, §2º do Código Penal, a pena de 05 anos e 04 meses reclusão em regime semiaberto.
+A sentença condenatória transitou em julgado para a acusação em 26.01.2004, logo, nos termos do inciso I do artigo 112 do Código Penal dever-se-á ser considerada como data em que se inicia o prazo prescricional.
+Sendo assim, o prazo prescricional é de 12 anos consoante inciso III do artigo 109 do Código Penal.
+Ressalta-se que o apenado fora preso pela prática de novo delito, tipificado no art. 129 do Código Penal em 06.04.2013, caracterizando assim, uma causa interruptiva para a contagem do prazo prescricional.
+Importante salientar que o apenado pleiteou a declaração da prescrição da pretensão executória ao Juízo de Plantão o qual não teria competência para o feito, de acordo com o disposto no art. 1º da Resolução nº 71 de 31 de março de 2009, o qual dispõe sobre as atribuições exclusivas dos juízes de plantão, que não prevê a hipótese de análise da declaração de extinção da punibilidade em virtude de prescrição.
+Diante do exposto, reformo a decisão em juízo de retratação, uma vez que o decurso de tempo decorrido, não é suficiente para o pleito de prescrição da pretensão executória.
+Expeça-se mandado de prisão".
+Assim, ao que parece, a situação narrada nos autos encontra subsunção no art. 117, inciso VI do Código Penal, segundo o qual:
+"Art. 117 - O curso da prescrição interrompe-se: (..) VI - pela reincidência".
+Isso porque, nos termos do art. 63 do Código Penal: "Verifica-se a reincidência quando o agente comete novo crime, depois de transitar em julgado a sentença que, no País ou no estrangeiro, o tenha condenado por crime anterior".
+Logo, por ora, parece que a decisão do D. Juízo da Execução não padece de mácula  .. .
+Portanto, em uma análise perfunctória dos autos, por ora, indefiro o pedido liminar por não vislumbrar de plano a flagrante ilegalidade alegada pelo impetrante, deixando a apreciação da matéria para momento posterior à manifestação da Douta Procuradoria de Geral de Justiça e às informações a serem prestadas pelo nobre magistrado de primeiro grau" (e-STJ, fls. 22, grifamos).
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária, para manter, ao menos por ora, a constrição cautelar do paciente.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+3. Pelo exposto, indefere-se liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Após ciência do Ministério Público Federal e com o trânsito em julgado da presente decisão, arquivem-se os autos.
