@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de recurso especial interposto por EDER NATERICIO DE PAULA E OUTRA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, ao qual foi dado parcial provimento para determinar que o Tribunal de origem prossiga no julgamento da apelação interposta pelos recorrentes (fls. 436/438, e-STJ).
+Em face da notícia de renúncia de mandato pelos advogados que representavam o recorrido (e-STJ, fl. 441), foi determinada, nos termos do art. 76, caput, e § 2º, do CPC/15, a suspensão do processo, para que em 10 (dez) dias fosse regularizada sua representação processual. Ato contínuo, certificou-se à fl. 952, e-STJ, que a intimação foi devolvida com a informação de que o destinatário se mudou.
+Desse modo, não tendo a parte recorrida diligenciado e cumprido seu dever de atualizar o endereço, previsto no art. 77, V, do CPC/15 e, considerando que não houve recurso da decisão de provimento, determino a remessa dos autos ao Tribunal de origem, conforme determinado na decisão de fls. 436/438, e-STJ.
+Publique-se. Intimem-se.
