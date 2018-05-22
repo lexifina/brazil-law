@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial manejado por PROSERVI SERVIÇOS DE VIGILÂNCIA LTDA com fundamento na(s) alínea(s) "a" e "c" do permissivo constitucional contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+AGRAVO DE INSTRUMENTO. VALOR DA CAUSA. CONTEÚDO PATRIMONIAL.
+O valor da causa deve refletir o mais próximo possível o benefício econômico do pedido veiculado na inicial. Neste particular, o valor é o estipulado pela parte autora em seu lance para adjudicação do objeto da licitação.
+Aplica-se à espécie a regra prevista no artigo 259, V, do Código de Processo Civil.
+O recorrente aponta violação do art. 295, V, do CPC/1973, e alega que o caso concreto não se enquadra em nenhuma das situações descritas naquele dispositivo.
+Sem contrarrazões.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Isso considerado, observo que os autos dão conta de impugnação ao valor da causa proposta pelo ora recorrido, "sob o argumento de que o impugnado teria atribuído valor equivocado à ação em apenso - R$ 1.000,00 -, uma vez que o valor da causa deve corresponder ao valor econômico perseguido, o qual, in casu, corresponde a R$ 31.007.389,68." (e-STJ fl. 1221).
+Ao decidir o tema, a Corte Regional assim se pronunciou (e-STJ fls. 1221/1222):
+Pretende a autora, na ação principal, a anulação do pregão eletrônico nº 004/478-10 ou,sucessivamente, a sua reabertura, cujo objeto é a prestação de serviços de vigilância ostensiva, segurança eletrônica, serviços de atendimento de disparo de alarme contra intrusão e serviços de abertura, fechamento e custódia de chaves, com contratação dividida em 07 lotes distintos, para a prestação dos serviços em cada uma das superintendências regionais da CEF.
+Verifico que o fato que ensejou o ajuizamento da ação ordinária em apenso refere-se a problemas de conexão na fase de lances, especificamente quanto ao lote V, o qual alcança o montante de R$ 452.000,00.
+A autora alega que, por problemas técnicos da CEF, não pôde efetuar lances no PE 004/478- 10, demonstrando que, se assim não fosse, seria vencedora da licitação, porquanto teria apresentado proposta mais vantajosa (lance de R$451.000,00).
+O valor do benefício econômico pretendido pela parte autora não se baseia no pedido liminar, mas na pretensão em si.
+Assim, o valor da causa deve refletir o mais próximo possível o benefício econômico do pedido veiculado na inicial. Neste particular, o valor estipulado pela parte autora em seu lance para adjudicação do objeto da licitação seria de R$ 451.000,00 (quatrocentos e cinquenta e um mil reais), mostrando-se totalmente despegado de qualquer liame com o benefício econômico visado com a demanda o valor atribuído na inicial do processo principal, qual seja de R$ 1.000,00(um mil reais ).
+Trata-se, isto sim, de ação de eficácia preponderantemente constitutiva e como tal, aplica-se à espécie a regra prevista no artigo 259, V, do Código de Processo Civil, o qual dispõe que "O valor da causa constará sempre da petição inicial e será: V - quando o litígio tiver por objeto a existência, validade, cumprimento, modificação ou rescisão de negócio jurídico, o valor do contrato;".
+Este Tribunal já decidiu que, em demanda que busca anular certame licitatório, o valor atribuído à causa deve espelhar o benefício econômico visado, bem como admite adequar o valor da causa, até mesmo de ofício, "quando constatada discrepância entre o benefício econômico pretendido pelo autor e o montante atribuído à causa." (AgRg no Ag 1415022/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/08/2012, DJe 27/08/2012).
+Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO LICITATÓRIO. VALOR DA CAUSA. ADEQUAÇÃO AO BEM JURÍDICO E AOS BENEFÍCIOS ECONÔMICO E PATRIMONIAL PRETENDIDOS. POSSIBILIDADE. PRECEDENTES.
+1. Em se tratando de ação anulatória de ato administrativo licitatório, o valor da causa, tanto quanto for possível, deve equivaler aos benefícios econômico e patrimonial que se visa.
+2. Evidenciada a incorreção do valor atribuído à causa em razão da norma processual incidente e do bem jurídico vindicado, afigura-se legal decisão judicial que altera aquele "quantum", adequando-o à correta expressão pecuniária.
+3. Precedentes desta Corte Superior.
+4. Recurso especial não provido.
+(REsp 513.466/RS, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 05/08/2003, DJ 13/10/2003, p. 270)
+Não bastasse isso, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7 do STJ.
+Sobre a hipótese:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO VALOR DA CAUSA. PRETENDIDA APLICAÇÃO DO ART. 259, VII, DO CPC/73. PROVEITO ECONÔMICO DA DEMANDA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 30/10/2017, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Na origem, trata-se de Agravo de Instrumento, interposto pelo INCRA, contra decisão que julgou procedente a impugnação ao valor da causa, fixando-o em R$ 23.214.798,95 (vinte e três milhões duzentos e quatorze mil setecentos e noventa e oito reais e noventa e cinco centavos), quantia que corresponderia ao benefício econômico auferido pelas partes, caso a ação venha a ser julgada procedente.
+III. As instâncias ordinárias, à luz do contexto fático-probatório dos autos e tendo em vista as especificidades da causa, concluíram não ser o caso de aplicação do inciso VII do art. 259 do CPC/73, como pretende o agravante. A Corte de origem registrou que, "considerando que tais imóveis foram objeto de ação de desapropriação (ações nº 82.0019238-5, 90.0005793-0 e 90.0005808-2), a procedência do pedido na ação declaratória de nulidade de títulos e domínio conduziria à exoneração por parte dos agravantes do pagamento da indenização fixada na ação expropriatória". Nesse contexto, concluiu que o valor da causa, atribuído pelos autores, mostra-se "completamente incompatível com o benefício econômico auferido pelas partes, caso o pedido venha a ser julgado procedente (deixará de indenizar os agravados em cerca de R$ 23.214.798,95)".
+IV. O entendimento firmado pelo Tribunal a quo não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+V. Agravo interno improvido.
+(AgInt no AREsp 722.157/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 24/04/2018, DJe 27/04/2018)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
