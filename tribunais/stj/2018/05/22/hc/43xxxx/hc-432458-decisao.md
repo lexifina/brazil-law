@@ -1,0 +1,39 @@
+EMENTA
+HABEAS COPRUS. EXECUÇÃO DA PENA. PRISÃO DOMICILIAR. PRETENSÃO. TRIBUNAL DE ORIGEM. EXISTÊNCIA DE DOENÇA GRAVE NÃO COMPROVADA. IMPOSSIBILIDADE DE PRESTAÇÃO DE CUIDADOS MÉDICOS NO PRESÍDIO NÃO DEMONSTRADA. REVISÃO. ANÁLISE FÁTICA. IMPOSSIBILIDADE.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], no qual se aponta como órgão coator o Tribunal de Justiça do Rio Grande do Sul (Apelação n. [CPF] - CNJ n. 0263756-96.2017.8.21.7000 - fls. 7/12).
+Colhe-se dos autos que o ora paciente cumpre pena de 9 anos e 3 meses de reclusão pela prática dos crimes de tráfico de drogas e associação para o tráfico. O cumprimento da reprimenda teve seu início em regime fechado, sendo que, posteriormente, o Juízo das Execuções deferiu pedido de prisão domiciliar, em virtude do estado de saúde do réu (PEC 144723-8 - Código SUSEPE n. 2141273 - fls. 27/29).
+Irresignado, o Ministério Público interpôs agravo em execução, ao qual o Tribunal de origem deu provimento a fim de revogar a prisão domiciliar e determinar que o apenado seja reconduzido ao regime fechado (fl. 12).
+Daí o presente writ, no qual se pretende, em suma, seja novamente concedido o benefício da prisão domiciliar.
+Liminar indeferida (fls. 21/22), informações prestadas (fls. 25/45), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus, em parecer assim ementado (fl. 49):
+Habeas corpus substitutivo de recurso próprio. Não cabimento, nos termos da orientação firmada pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça. Ausência de flagrante ilegalidade que justifique a concessão da ordem de ofício. execução Penal. Tráfico e associação para o tráfico. Prisão domiciliar revogada pelo tribunal estadual ao entendimento de que não há elementos que demonstrem que a manutenção do paciente em regime fechado acarretaria prejuízo a sua saúde. pedido de concessão da prisão domiciliar. questão cuja análise demandaria o reexame do acervo fático-probatório, o que é inviável nesta via estreita.
+Parecer pelo não conhecimento do writ.
+É o relatório.
+Assiste razão à Subprocuradora-Geral da República [NOME], razão pela qual adoto seu parecer, como razões de decidir, in verbis (fls. 51/52):
+O paciente foi condenado ao cumprimento da pena de 9 anos e 3 meses de reclusão, no regime inicial fechado, pela prática dos crimes de tráfico de entorpecentes e associação para o tráfico. O cumprimento da reprimenda iniciou-se em 30 de novembro de 2016, com término previsto para 27/02/2026.
+Requerida pela defesa a concessão de prisão domiciliar, o pedido foi deferido pelo Juízo da Vara de Execuções Criminais.
+Contra essa decisão, o Ministério Público interpôs agravo em execução, tendo o Tribunal de origem provido o recurso ministerial para revogar a prisão domiciliar e determinar que o apenado fosse reconduzido ao regime fechado.
+Eis os termos da decisão:
+A magistrada concedeu prisão domiciliar a apenado do regime fechado, por entender que as doenças suportadas por ele deveriam ser presumidas como sendo graves, considerando a inexistência de laudo em sentido contrário.
+Ocorre que a concessão de prisão domiciliar é medida excepcional, que deve ser outorgada aos presos em regime aberto, que possuam alguma das excepcionalidades previstas no artigo 117 da LEP. Não podemos olvidar que a excepcionalidade buscada pelo agravante, que se encontra em regime fechado, somente poderia ser atendida se demonstrada cabalmente a impossibilidade do estabelecimento prisional em atender suas necessidades médicas, o que não restou configurado nos autos. Na verdade, in casu, não há nem mesmo a demonstração de que as doenças suportadas pelo apenado sejam graves a ponto de justificarem a concessão da benesse, como determina a lei.
+O deferimento de prisão domiciliar é medida excepcional, de maneira que para sua concessão deveria ser demonstrada a sua imprescindibilidade.
+Constam dos autos documentos médicos, datados de 2015 e 2016, de maneira que não há comprovação de que a manutenção do preso em regime fechado, agora, acarretaria qualquer prejuízo à sua condição de saúde.
+Assim, considerando-se que não há demonstração de que o apenado não possa ter os devidos cuidados médicos no presídio, bem como o fato de estar cumprindo pena em regime fechado, tenho que deve ser revogado o benefício concedido na origem" (fls. 10/11).
+Vê-se, pois, que o pleito de prisão domiciliar foi afastado ao entendimento de que o paciente não demonstrou a impossibilidade do estabelecimento prisional atender às suas necessidades médicas e que sequer houve a comprovação de que as doenças suportadas pelo apenado são graves a ponto de justificar a concessão do benefício.
+A alteração das conclusão adotada pela Corte de origem demandaria, necessariamente, o reexame do acervo fático-probatório constante dos autos, providência vedada em sede de habeas corpus.
+Com efeito, se o Tribunal de origem entendeu não comprovada a suposta existência de doença grave do paciente nem a impossibilidade de o Estado prestar-lhe os devidos cuidados no presídio, o reexame da questão exigiria a análise dos elementos fáticos constantes dos autos, o que é inviável na presente via, que possui rito célere e cognição sumária.
+A propósito:
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE DO CRIME. CIRCUNSTÂNCIAS DELITIVAS. QUANTIDADE DOS ENTORPECENTES APREENDIDOS. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. MEDIDAS CAUTELARES DIVERSAS DO ERGÁSTULO. NÃO APLICAÇÃO NA HIPÓTESE. CONSTRANGIMENTO ILEGAL. NÃO INCIDÊNCIA. PRISÃO DOMICILIAR. REQUISITOS. AUSÊNCIA. ENTENDIMENTO DIVERSO DO COLEGIADO FEDERAL. REVOLVIMENTO FÁTICO-PROBATÓRIO. RECURSO DESPROVIDO.
+ ..
+3. A possibilidade de substituição da prisão preventiva pela domiciliar não constitui injunção legal inafastável, porquanto cabe ao julgador, com vistas a resguardar a efetividade da prestação jurisdicional, aquilatar a suficiência e adequação da medida.
+4. In casu, embora seja portadora de problema de saúde, a insurgente não preenche os requisitos legais necessários para o encarceramento domiciliar (art. 318, inciso II, do Código de Processo Penal), pois, conforme consignou a instância precedente, a custódia preventiva seria a mais adequada ao caso, em razão da gravidade concreta dos delitos supostamente praticados, sendo que a defesa não logrou comprovar que a acusada estaria extremamente debilitada em razão de doença grave, motivação que, para ser afastada, exigir-se-ia revolvimento fático-probatório, não condizente com a angusta via escolhida.
+5. Recurso a que se nega provimento.
+(RHC n. 92.958/MS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 27/04/2018 - grifo nosso)
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. POSSE OU PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. ALEGAÇÃO DE INOCÊNCIA. INCOMPATIBILIDADE COM A VIA ELEITA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. PRISÃO DOMICILIAR PARA TRATAMENTO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE DEBILIDADE ALIADA À IMPOSSIBILIDADE DE TRATAMENTO NO ESTABELECIMENTO PRISIONAL. ORDEM NÃO CONHECIDA.
+ ..
+6. De acordo com a jurisprudência deste Tribunal, "o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal, depende da comprovação inequívoca de que o réu esteja extremamente debilitado, por motivo de grave doença aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra" (RHC n. 58.378/MG, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 25/8/2015).
+7. Ordem não conhecida.
+(HC n. 431.571/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 02/04/2018 - grifo nosso)
+Ante o exposto, denego a ordem.
+Publique-se.
