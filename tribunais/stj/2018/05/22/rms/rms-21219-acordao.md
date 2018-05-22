@@ -1,0 +1,30 @@
+EMENTA
+TRIBUTÁRIO. RECURSO EM MANDADO DE SEGURANÇA. ART. 1.040, II DO CPC/2015. TAXA DE SEGURANÇA PÚBLICA PELA UTILIZAÇÃO POTENCIAL DO SERVIÇO DE EXTINÇÃO DE INCÊNDIOS. REPERCUSSÃO GERAL RECONHECIDA (RE 643.247/SP). JULGADO EM CONSONÂNCIA COM O STF. RECURSO EM MANDADO DE SEGURANÇA DESPROVIDO.
+1. O STF, ao apreciar o RE 643.247/SP, entendeu que é inconstitucional a cobrança de taxa municipal para remunerar os serviços de combate e prevenção a incêndios, tendo em vista que a Constituição atribuiu aos Estados tal competência
+2. Assim, como o acórdão proferido por esta Corte está em consonância com o entendimento do STF, mantém-se o voto proferido.
+3. Recurso em Mandado de Segurança desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao recurso ordinário em mandado de segurança, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de remessa dos autos feita pela Vice-Presidência deste STJ, em razão do disposto no art. 1.040, II do CPC/2015, tendo em vista o julgamento proferido pelo STF, em sede de repercussão geral, no RE 643.247/SP.
+2. Verifica-se que o Recurso Extraordinário foi interposto por TRANCID-TRANSPORTE COLETIVO CIDADE DE DIVINÓPOLIS LTDA E OUTROS, com fundamento no art. 102, inciso III do permissivo constitucional, em face de acórdão proferido pela 1a. Turma do STJ, assim ementado:
+TRIBUTÁRIO. TAXA DE SEGURANÇA PÚBLICA PELA UTILIZAÇÃO POTENCIAL DO SERVIÇO DE EXTINÇÃO DE INCÊNDIOS. LEIS ESTADUAIS 6.763/75 E 14.938/2003. CONSTITUCIONALIDADE. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL.
+1. A taxa de segurança pública, devida pela utilização potencial do serviço de extinção de incêndios, instituída pela Lei mineira 6.763/75, com a redação dada pela Lei Estadual 14.938/2003, restou considerada constitucional pelo Supremo Tribunal Federal, por envolver atividade estatal que se traduz em prestação de utilidade específica e divisível, cujos beneficiários são suscetíveis de referência individual (RE 206777/SP, Rel. Ministro Ilmar Galvão, Tribunal Pleno, julgado em 25.02.1999, DJ 30.04.1999; e RE-AgR 473611/MG, Rel. Ministro Eros Grau, Segunda Turma, julgado em 19.06.2007, DJ 03.08.2007).
+2. Recurso ordinário desprovido.
+3. A parte recorrente sustentou, em seu Apelo Extraordinário, além da existência de repercussão geral, ofensa pela alínea a aos arts. 144, V, e § 5o., e 145, II, da CF, e pela alínea c por ter o acórdão recorrido julgado válido lei local contestada em face do permissivo, aduzindo ser impossível custear atividade de combate a incêndio por meio de criação de taxa municipal.
+4. É o relatório.
+VOTO
+TRIBUTÁRIO. RECURSO EM MANDADO DE SEGURANÇA. ART. 1.040, II DO CPC/2015. TAXA DE SEGURANÇA PÚBLICA PELA UTILIZAÇÃO POTENCIAL DO SERVIÇO DE EXTINÇÃO DE INCÊNDIOS. REPERCUSSÃO GERAL RECONHECIDA (RE 643.247/SP). JULGADO EM CONSONÂNCIA COM O STF. RECURSO EM MANDADO DE SEGURANÇA DESPROVIDO.
+1. O STF, ao apreciar o RE 643.247/SP, entendeu que é inconstitucional a cobrança de taxa municipal para remunerar os serviços de combate e prevenção a incêndios, tendo em vista que a Constituição atribuiu aos Estados tal competência
+2. Assim, como o acórdão proferido por esta Corte está em consonância com o entendimento do STF, mantém-se o voto proferido.
+3. Recurso em Mandado de Segurança desprovido.
+1. No julgamento do Recurso Especial, o eminente Ministro LUIZ FUX desproveu o recurso conforme ementa:
+TRIBUTÁRIO. TAXA DE SEGURANÇA PÚBLICA PELA UTILIZAÇÃO POTENCIAL DO SERVIÇO DE EXTINÇÃO DE INCÊNDIOS. LEIS ESTADUAIS 6.763/75 E 14.938/2003. CONSTITUCIONALIDADE. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL.
+1. A taxa de segurança pública, devida pela utilização potencial do serviço de extinção de incêndios, instituída pela Lei mineira 6.763/75, com a redação dada pela Lei Estadual 14.938/2003, restou considerada constitucional pelo Supremo Tribunal Federal, por envolver atividade estatal que se traduz em prestação de utilidade específica e divisível, cujos beneficiários são suscetíveis de referência individual (RE 206777/SP, Rel. Ministro Ilmar Galvão, Tribunal Pleno, julgado em 25.02.1999, DJ 30.04.1999; e RE-AgR 473611/MG, Rel. Ministro Eros Grau, Segunda Turma, julgado em 19.06.2007, DJ 03.08.2007).
+2. Recurso ordinário desprovido.
+2. A matéria a ser apreciada em sede de retratação, conforme art. 1.040, II do CPC/2015, está delimitada ao reconhecimento da inexigibilidade da taxa de segurança pública, devida pela utilização potencial de serviço de extinção de incêndios (art. 113, IV, da Lei Estadual 6.763/1975, com a redação dada pela Lei 14.938/2003), ao argumento de que ressoa evidente o caráter de generalidade e indivisibilidade da exação, bem como a identidade de sua base de cálculo com a base imponível do IPTU.
+3. A matéria teve sua repercussão geral reconhecida pelo STF no RE 643.247/SP. Ao julgar o Recurso Extraordinário, a Suprema Corte firmou a orientação que é inconstitucional a cobrança de taxa municipal para remunerar os serviços de combate e prevenção a incêndios, tendo em vista que a Constituição atribuiu aos Estados tal competência. Eis a ementa do julgado:
+TAXA DE COMBATE A INCÊNDIO - INADEQUAÇÃO CONSTITUCIONAL. Descabe introduzir no cenário tributário, como obrigação do contribuinte, taxa visando a prevenção e o combate a incêndios, sendo imprópria a atuação do Município em tal campo (RE 643.247, Rel. Min. MARCO AURÉLIO, Tribunal Pleno, DJe 19.12.2017).
+4. Colhe-se do referido julgado, ainda, que é possível instituir taxa para fazer lastro financeiro aos serviços de prevenção e extinção de incêndios, uma vez que a atividade estatal representaria prestação de utilidade específica e divisível, cujos beneficiários são suscetíveis de referência.
+5. Verifica-se que o acórdão proferido por esta Corte está em consonância com o entendimento do STF.
+6. Desse modo, mantenho o voto proferido. É como voto.
