@@ -1,0 +1,52 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. INCIDÊNCIA DA SÚMULA 284/STF. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REEXAME DOS REQUISITOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME] em face de decisão que inadmitiu o recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+FALÊNCIA. EXTENSÃO DE SEUS EFEITOS. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. SEQÜESTRO E INDISPONIBILIDADE CAUTELAR DE BENS. CONTRADITÓRIO DIFERIDO. EFICÁCIA DA MEDIDA. POSSIBILIDADE. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. FUMAÇA DO BOM DIREITO. PERIGO NA DEMORA. DECISÃO MANTIDA. RECURSO NÃO PROVIDO. (..) (e-STJ fls. 941-942).
+Nas razões do recurso especial, às fls. 975-997 (e-STJ), a parte recorrente alega violação aos artigos 535, II, 273, § 2º e 620 do Código de Processo Civil de 1973 sustentando, em síntese, que "a concessão de tutela antecipada no presente caso apresenta sério "perigo de irreversibilidade do provimento antecipado postulado", o que não pode subsistir, sendo de rigor o restabelecimento do artigo violado por meio do provimento desse recurso especial."  sic  (e-STJ fls. 988).
+Sustenta, ainda que "referido bloqueio se deu de forma amplamente abusiva, sem que outros meios de constrição de bens, menos gravosos ao Recorrente, fossem utilizados, contrariando os termos do artigo 620, do Código de Processo Civil."  sic  (e-STJ fl. 994).
+Foram impugnados os fundamentos da decisão que negou seguimento ao recurso especial.
+Às fls. 1.145-1.150, consta parecer por meio do qual opina o Ministério Público Federal pelo desprovimento do presente recurso haja vista a inexistência de ofensa ao art. 535 do CPC/73 bem como a incidência do óbice da Súmula 7/STJ.
+É o breve relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (cf. Enunciado Administrativo n. 2/STJ).
+Não pode ser dado provimento à pretensão recursal.
+Quanto à suposta violação do artigo 535 do Código de Processo Civil de 1973, o recurso não pode ser conhecido, haja vista que a alegação de afronta a tal dispositivo de forma genérica, sem a adequada indicação da questão federal controvertida, impede o conhecimento do recurso especial ante a deficiência na fundamentação, o que atrai a incidência da Súmula 284/STF, por analogia.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA DE AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. VALOR DO CONTRATO. RADIOGRAFIA. DOCUMENTO UNILATERAL. LIMITE DOS RENDIMENTOS. TRÂNSITO EM JULGADO. TRANSFORMAÇÕES ACIONÁRIAS. INCLUSÃO DEVIDA. ART. 535, II, DO CPC/1973. AUSÊNCIA DE OMISSÕES. SÚMULA 284 DO STF. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO. SÚMULAS 283 E 284 DO STF. MATÉRIAS QUE DEMANDAM REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode conhecer da apontada violação do art. 535, II, do antigo CPC/1973, pois as alegações que a fundamentaram são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+2. No caso, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido nesse ponto, o que denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3. A decisão que rejeitou a impugnação ao cumprimento de sentença amparou-se nos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ) e impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+4. Agravo interno não provido. (AgInt no AgInt no AREsp 932.983/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/02/2017, DJe 24/02/2017)
+Ademais, consoante se depreende da leitura dos autos, o Tribunal de origem, após exame de elementos fáticos, assim decidiu quanto à antecipação dos efeitos da tutela, verbis:
+A par disso, somada aos fortes indícios de fraude e de simulação nos negócios envolvendo a falida e aqueles indicados no rol apresentado pelo síndico, incluindo o agravante, o bloqueio e a indisponibilidade de bens sem a prévia oitiva dos afetados visou a conferir efetividade à medida, vez que havia grande risco de que o antecedente conhecimento acarretaria esvaziamento de patrimônio, tornando inócua a decisão judicial.
+(..)
+Conclui-se, assim, que não houve cerceamento de defesa ou ofensa a princípios constitucionais, como o contraditório e a ampla defesa. Como se anotou, o ordenamento jurídico sempre aceitou a postergação da oitiva da parte quando sua manifestação prévia possa colocar em risco a efetividade da medida a ser deferida, exatamente o que ocorreu nos caso dos autos.
+(..)
+O agravante, ademais, também é pai, cônjuge e irmão de diversas pessoas envolvidas nas suspeitas de fraude, assim como é sócio de empresas que também estariam ligadas ao Grupo, também atingidas pela decisão recorrida, de modo que a decisão impugnada bem observou que "Por todo o exposto, tais elementos de convicção, aliados aos demais dos documentos acarreados aos autos permitem chegar à conclusão que há um verdadeiro grupo econômico, formando por diversas pessoas físicas e jurídicas, criado para fraudar os credores da Boi Gordo. Todas as operações levam a PAULO ROBERTO DA ROSA, cuja existência é duvidosa, ao seu procurador [NOME], bem como a seus familiares, numa bem arquitetada confusão de patrimônios.
+(..)
+Logo, evidenciada a fumaça do bom direito e presente o perigo na demora da prestação jurisdicional, porquanto o conhecimento prévio da medida pelos afetados pelo decreto de seqüestro e pela indisponibilidade de bens poderia esvaziar sua efetividade pela possibilidade de dilapidação de patrimônio, encontra-se bem justificada a medida, que deve ser mantida por seus próprios fundamentos. (e-STJ fls. 946-950 g.n.).
+Assim, para averiguar se, no caso em análise, foram observados os requisitos estabelecidos pela legislação para a antecipação dos efeitos da tutela pretendida bem como se houve abuso no bloqueio efetuado seria necessária indevida incursão no acervo fático-probatório dos autos, o que é vedado em sede de recurso especial ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPETÊNCIA INTERNA. NULIDADE RELATIVA. PRECLUSÃO. ANTECIPAÇÃO DE TUTELA. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ART. 273 DO CPC. REVISÃO. INADMISSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. A prevenção estabelecida no regimento interno para julgamento de recurso, quando não observada, não gera nulidade absoluta do ato decisório proferido por outro relator, mas apenas nulidade relativa, e como tal, deve ser suscitada até o início do julgamento (art. 71, § 4º, do RISTJ). Precedentes.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. O Tribunal de origem, com base nos elementos probatórios, concluiu pela ausência dos requisitos necessários para o deferimento da tutela antecipada. Alterar esse entendimento é inviável em recurso especial a teor do que dispõe a referida súmula.
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no AREsp 765980/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/03/2016/, DJe 15/03/2012, g.n.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC NÃO CARACTERIZADA. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS DO ART. 273 DO CPC. MATÉRIA FÁTICA. REEXAME. NECESSIDADE. SÚMULA 7/STJ. PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO IMPROVIDO. PROVIMENTO NEGADO.
+(..)
+2. No tocante ao art. 273 do CPC, tendo o Juízo a quo concluído pelo preenchimento dos requisitos necessários à antecipação dos efeitos da tutela, a inversão do que foi decidido, tal como propugnada nas razões do apelo especial, demandaria, necessariamente, novo exame do acervo fático-probatório dos autos, providência, todavia, que encontra óbice no enunciado da Súmula 7 do Superior Tribunal de Justiça. Precedentes.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 628289/ MA, Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2016, Dje de 22/02/2016)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO E CONSIGNAÇÃO EM PAGAMENTO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO.
+1. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. (AgInt no REsp 1253947/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017).
+2. Na hipótese dos autos, o Tribunal de origem, com base nas provas carreadas aos autos, concluiu não estarem presentes os requisitos ensejadores da concessão de tutela antecipada. Alterar tal conclusão demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. (..).
+4. Agravo regimental desprovido.
+(AgRg no AREsp 348.724/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/08/2017, DJe 29/08/2017)
+Diante de todo o exposto, não procedem as alegações recursais.
+Assim, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
