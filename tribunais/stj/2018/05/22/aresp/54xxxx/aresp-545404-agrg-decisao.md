@@ -1,0 +1,21 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. TEMPESTIVIDADE DO APELO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DIFERIMENTO DO PAGAMENTO DE CUSTAS. QUESTÃO DECIDIDA PELO TRIBUNAL DE ORIGEM COM BASE NA LEGISLAÇÃO LOCAL. SÚMULA 280/STF. AGRAVO REGIMENTAL PROVIDO PARA, RECONSIDERANDO A DECISÃO AGRAVADA, CONHECER DO AGRAVO E NEGAR SEGUIMENTO AO RECURSO ESPECIAL.
+1. Trata-se de Agravo Regimental interposto por ALTENA BRASIL ILUMINAÇÃO LTDA. contra decisão do eminente Ministro Presidente FELIX FISCHER que negou seguimento à irresignação recursal diante da intempestividade do Agravo em Recurso Especial.
+2. Nas razões recursais, a parte agravante alega que deve ser afastada a intempestividade do recurso, porquanto apresentado fac-símile dentro do prazo legal.
+3. Requer, ao final, a reconsideração da decisão agravada.
+4. É o breve relatório.
+5. Com razão a parte agravante.
+6. Realmente, analisando os autos, verifica-se que a decisão agravada foi publicada em 12.2.2014, e o Agravo foi interposto via fac-símile em 24.2.2014, sendo, portanto tempestivo.
+7. Portanto, reconsidera-se a decisão agravada, a fim de reconhecer a tempestividade do Apelo. No mérito, entretanto, o Recurso não merece êxito.
+8. Trata-se de Recurso Especial interposto por ALTENA BRASIL ILUMINAÇÃO LTDA., com fundamento nos arts. 105, III, a da Constituição Federal, insurgindo-se contra acórdão do Tribunal Regional Federal da 2a. Região, ementado nos seguintes termos:
+AGRAVO . ARTIGO 557, § 1- DO CPC. EXECUÇÃO FISCAL. CONCESSÃO DOS BENEFÍCIOS DA JUSTIÇA GRATUITA. PESSOA JURÍDICA. ESTADO DE INSOLVÊNCIA NÃO COMPROVADO.
+I - A teor do artigo 557, caput, do CPC, o Relator negará seguimento a recurso manifestamente improcedente, inadmissível ou em confronto com súmula ou jurisprudência dominante de tribunal superior.
+II - É possível a concessão dos beneficios da assistência judiciária gratuita à pessoa jurídica, desde que provado nos autos,* por documentos hábeis, o estado de insolvência da empresa - o que não ocorreu na hipótese em exame. A mera afirmação da agravante de que não possui recursos financeiros para arcar com as custas da inicial e custas de preparo do recurso não é suficiente para o deferimento do pleito.
+III - Agravo legal improvido. (fls. 129)
+9. Nas razões recursais, sustenta a parte recorrente contrariedade e negativa de vigência aos artigos 333, I, 396, 128, 460, 496, VI, 535, II, 541 do CPC/1973, art. 1.065 do Código Civil de 2002 e arts. 147 a 150 do CTN, asseverando, em síntese, que (a) o Tribunal de origem não sanou os vícios indicados nos Aclaratórios; e (b) em momento algum a Recorrente requereu os beneficios da gratuidade, e sim o diferimento do pagamento das custas processuais, para o final do processo (fls. 170).
+10. De início, cumpre destacar que a alegada negativa de prestação jurisdicional não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas com clareza, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+11. No mérito, melhor sorte não assiste à recorrente, haja vista que o Tribunal de origem rejeitou o pedido de diferimento do pagamento de custas nos seguintes termos:
+In casu, o prejuízo contabilizado no exercício de 2008, conforme trazido a lume pelo balance de lis. 41/43, nao se afigura suficiente para amparar o pleito da agravante, uma vez que seus créditos em dezembro de 2008 ultrapassavam R$ 2.400. 00,00, não sendo o caso sequer de diferimento, nos termos da Lei Estadual/SP 11.608/03, pois não restou caracterizado estado de miserabilidade (fls. 128).
+12. Como se observa, o tema foi decidido na origem com base nas disposições contidas em legislação local, qual seja, a Lei Paulista 11.608/2003, o que impede a sua revisão por esta Corte ante o óbice da Súmula 280/STF.
+13. Ante o exposto, dá-se provimento ao Agravo Regimental de ALTENA BRASIL ILUMINAÇÃO LTDA. para, reconsiderando a decisão agravada, conhecer do Agravo e negar seguimento ao Recurso Especial.
+14. Publique-se. Intimações necessárias.
