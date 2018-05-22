@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado pelo ESTADO DE SANTA CATARINA, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do referido Estado, assim ementado (fl. 2797):
+ADMINISTRATIVO. REEXAME NECESSÁRIO E APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. APLICAÇÃO DE MULTA PELO TRIBUNAL DE CONTAS DO ESTADO A EX-DIRETOR PRESIDENTE DE SOCIEDADE DE ECONOMIA MISTA, À ÉPOCA, POR SUPOSTA ILEGALIDADE NA CONTRATAÇÃO DE ESCRITÓRIO DE ADVOCACIA TERCEIRIZADO EM DETRIMENTO DE CANDIDATOS APROVADOS EM CONCURSO PÚBLICO. AUTOR QUE FOI INOCENTADO POR ESTE TRIBUNAL DE JUSTIÇA PELOS MESMOS FATOS EM JULGAMENTO COLEGIADO, DIANTE DA AUSÊNCIA DE ILICITUDE OU DE LESIVIDADE AO ERÁRIO OU À MORALIDADE ADMINISTRATIVA. EXISTÊNCIA DE COISA JULGADA ERGA OMNES (ART. 16 DA LEI Nº 4.717/65). SENTENÇA MANTIDA. REEXAME NECESSÁRIO E RECURSO VOLUNTÁRIO DESPROVIDOS.
+"No caso de ações coletivas, todavia, a eficácia da coisa julgada não fica restrita às partes do processo, uma vez que os legitimados ativos atuam, na verdade, como substitutos processuais, uma vez que defendem interesses da coletividade.
+Por isso, a Lei n. 4.717/65 prevê que a sentença da ação popular tem eficácia de coisa julgada erga omnes, salvo no caso de ter sido julgada improcedente por falta de provas." (TJSC, Apelação Cível n. 2007.007628-2, de São José, Rel. Des. Francisco Oliveira Filho, Segunda Câmara de Direito Público, j. em 20/11/2007).
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC (fls. 2828/2834).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 337, inciso VII, §§1º, 2º e 4º, e 503 do CPC, e 18 da Lei Federal nº 4.717/1965, sustentando que o acórdão que serviria de amparo à coisa julgada, em verdade, decidiu causa distinta da hipótese dos autos.
+É o relatório.
+A insurgência não merece prosperar.
+O tema trazido à discussão no apelo nobre restou assim decidido no aresto objurgado, litteris (fl. 2804):
+Destarte, havendo decisão transitada em julgado que declarou improcedentes os atos imputados ao autor, não por ausência de provas, mas por inexistência da suposta ilegalidade e da suscitada lesividade aos cofres públicos, não se pode rediscutir matéria já acobertada pelo manto da coisa julgada.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, quanto à existência de coisa julgada sobre a matéria que é objeto da presente ação judicial, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
+Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
