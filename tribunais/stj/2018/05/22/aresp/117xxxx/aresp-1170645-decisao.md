@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE PAGAMENTO INTEGRAL DA DÍVIDA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Consta dos autos que [NOME] ([NOME]) promoveu execução contra TEREZINHA PACHECO DE SOUZA e NATANIEL PAMATO DE SOUZA (TEREZINHA e NATANIEL), buscando os encargos moratórios previstos em contrato.
+Nos autos de referido processo foi apresentada exceção de pré-executivida que alegou, em síntese, a extinção da dívida pelo pagamento e expedição de quitação sem ressalva de juros, oportunidade que foram juntadas as notas promissórias expedidas pelos executados/embargantes.
+O juiz de porém rejeitou, porém, a exceção, aduzindo que os títulos exibidos não seriam suficientes para comprovar a ocorrência de pagamento (e-STJ, fls. 20/22).
+Contra essa decisão, sobreveio agravo de instrumento (e-STJ, fls. 1/10) contra o qual [NOME] se insurgiu alegando, entre outras coisas, que jamais deu quitação dos juros moratórios e da correção monetária, tanto assim que, inclusive, promoveu a notificação extrajudicial para cobrança dos encargos moratórios (e-STJ, fls. 47/59).
+O TJSC desproveu o agravo de instrumento em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL, GARANTIDO POR NOTAS PROMISSÓRIAS. PRETENSÃO DE EXECUÇÃO RESTRITA AOS ENCARGOS DECORRENTES DE ATRASO NO PAGAMENTO DOS TÍTULOS. EXCEÇÃO DE PRÉ-EXECUTIVIDADE EM QUE SE ALEGA A QUITAÇÃO. DA DÍVIDA SEM A RESSALVA DOS JUROS DE MORA A QUE SE REFERE O ART. 323 DO CÓDIGO CIVIL. ENTREGA DOS TÍTULOS AO DEVEDOR E BAIXA DA HIPOTECA NA MATRÍCULA DO IMÓVEL. EXEGESE DO ART. 324 DO CÓDIGO CIVIL. PRESUNÇÃO RELATIVA DE QUITAÇÃO INTEGRAL. VALOR EXECUTADO POSSIVELMENTE COMPOSTO DE OUTROS CONSECTÁRIOS DO ATRASO NO PAGAMENTO, ALÉM DOS JUROS DE MORA. DILAÇÃO PROBATÓRIA E CONTRADITÓRIO INDISPENSÁVEIS. RECURSO DOS EXECUTADOS CONHECIDO E DESPROVIDO.
+- Segundo assentada doutrina e jurisprudência, somente é possível utilizar a exceção de pré-executividade para a dedução de defesa fundada em questões que possam ser aferidas de ofício pelo Magistrado e que independam de dilação probatória. No caso dos autos, em que pese a devolução das notas promissórias ao devedor, seguida da baixa do gravame na escritura do imóvel objeto do contrato de compra e venda, a presunção de quitação total é jurs tantum, pelo que ao credor é dado alegar e comprovar o não recebimento dos juros e a sua ressalva, tal qual previsão dos art. 323 do Código Civil, bem como demonstrar que o montante executado é composto de outros consectários advindos do adimplemento tardio da dívida. Imprescindível, pois, o estabelecimento do contraditório e a dilação probatória, o que, por corolário lógico, obsta o processamento da exceção de pré-executividade. (e-STJ, fl. 63)
+Irresignados TEREZINHA e NATANIEL interpuseram recurso especial, com fundamento no art. 105, III, a da CF, alegando que, nos termos dos arts. 323 e 324 do CC/02 a entrega do título pelo devedor estabeleceria presunção jure et de jure de quitação da dívida se, passados sessenta dias, o credor não provar a ausência de pagamento.
+Apresentadas contrarrazões (e-STJ, fls. 86/99), o recurso foi inadmitido na origem com fundamento na Súmula nº 7 do STJ (e-STJ, fls. 107/108).
+No agravo em recurso especial que se seguiu, TEREZINHA e NATANIEL alegaram que os argumentos apresentados não demandavam nova análise de provas (e-STJ, fl. 112/117).
+É o relatório.
+DECIDO.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O agravo em recurso especial é espécie recursal cabível e, ademais, foi manejado de forma tempestiva e com devida impugnação ao fundamento da decisão agravada.
+Assim, CONHEÇO do agravo e passo ao exame do recurso especial.
+O cerne da controvérsia consiste em saber se a exceção de pré-executividade é via adequada para se examinar o pagamento da dívida e, bem assim, se apresentação dos títulos de crédito que a representavam constitui prova pré-constituída desse pagamento.
+Na petição inicial da ação executiva, segundo informa o acórdão recorrido, [NOME] alegou que as notas promissórias foram pagas em datas posteriores aos respectivos, o que teria lhe teria gerado um crédito remanescente, composto por correção monetária, multa moratória e juros compensatórios de 1% ao mês, além de juros de mora ao mês ou fração, tal qual previsto no contrato. Nessa medida estaria autorizada a execução para recebimento desses valores acessórios.
+TEREZINHA e NATANIEL alegaram que a quitação integral das notas promissórias dadas em garantia na Escritura Pública de Compra e Venda foi prestada sem qualquer ressalva dos juros moratórios advindos do atraso de seu pagamento.
+Os arts. 323 e 324 do CC/02 apontados como violados, estabelecem que:
+Art. 323. Sendo a quitação do capital sem reserva dos juros, estes presumem-se pagos.
+Art. 324. A entrega do título ao devedor firma a presunção do pagamento.
+Parágrafo único. Ficará sem efeito a quitação assim operada se o credor provar, em sessenta dias, a falta do pagamento.
+Ocorre que uma das questões controvertidas nos autos diz respeito, precisamente, a existência de ressalva dos encargos moratórios na quitação expedida.
+Isso significa que a pretensão recursal parte de uma premissa fática (ausência de ressalva) que não foi certificada pelo Tribunal de origem, o que atrai a incidência da Súmula nº 7 do STJ.
+Nessas condições, NÃO CONHEÇO o recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
