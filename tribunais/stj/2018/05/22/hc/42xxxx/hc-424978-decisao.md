@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2185451-74.2017.826.0000).
+Infere-se dos autos que o paciente foi preso em flagrante em 17/9/2017 por ter supostamente praticado o delito tipificado nos arts. 157, § 2º, inciso II, c/c art. 14, inciso II, ambos do Código Penal (roubo qualificado tentado). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem em aresto acostado às fls. 21/25.
+No presente mandamus, ressalta as circunstâncias pessoais favoráveis do paciente e alega ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal.
+Assevera que o decreto prisional está fundado exclusivamente na gravidade abstrata do delito e que sua manutenção, no caso concreto, caracteriza indevida antecipação de pena.
+Invoca o princípio da presunção de inocência. Sustenta a suficiência da aplicação de medidas cautelares alternativas. Argumenta que, em caso de condenação, o regime inicial para o cumprimento da reprimenda será diverso do fechado, à luz do Enunciado n. 719 da Súmula do Supremo Tribunal Federal. Desse modo, pondera que a manutenção da prisão cautelar seria desproporcionalmente severa.
+Pugna, assim, em liminar e no mérito, pela expedição de alvará de soltura, se for o caso com aplicação de medidas cautelares alternativas, nos termos do art. 319 do Código de Processo Penal.
+Indeferida a liminar (fls. 30/31) e informações prestadas (fls. 37/38 e 40/49), o Ministério Público Federal opinou pela denegação da ordem (fls. 51/59).
+É o relatório.
+Decido.
+Em consulta à página eletrônica do Tribunal de origem, constata-se que sobreveio a prolação de sentença condenatória nos autos da Ação Penal n. 0081972-46.2017.8.26.0050, que aqui se cuida. Todavia, não é possível aferir o teor do julgado.
+É cediço que esta Quinta Turma firmou posicionamento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Nesse sentido: RHC 53.194/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.
+O entendimento revela-se substancialmente claro: a superveniência de sentença condenatória que mantém a prisão cautelar constitui título novo, que substitui - e supera - o decreto prisional impugnado mediante habeas corpus, exceto se o Magistrado sentenciante não adota fundamentos novos e diversos daqueles apresentados por ocasião da decretação da segregação preventiva.
+In casu, não há como aferir se a segregação antecipada foi mantida sem a adoção de novos e diversos fundamentos para a cautela - requisito indispensável ao prosseguimento do recurso que busca revogá-la, diante da notícia da produção de novo título judicial que examinou a necessidade de manutenção da constrição.
+Tratando-se o habeas corpus de rito célere, no qual não se admite a dilação probatória e cuja devida instrução compete ao impetrante, a este incumbiria, diante da superveniência de fato novo, a diligência de acostar aos autos o novo título judicial produzido no feito principal, a fim de demonstrar que o aludido julgado não tem o condão de afastar, no caso concreto, a impugnabilidade da decisão combatida pelo presente reclamo.
+Constatado o silêncio da defesa, afigura-se forçoso entender pela perda, quanto ao ponto, de objeto do presente recurso em habeas corpus, diante da prolação de novo título.
+Por adotar idêntico raciocínio, faço menção à recente decisão prolatada nos autos do RHC n. 63.337/MG, Rel. Ministro GURGEL DE FARIA, Quinta Turma, DJe 5.2.2016.
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
