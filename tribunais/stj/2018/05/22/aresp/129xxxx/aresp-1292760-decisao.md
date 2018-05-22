@@ -1,0 +1,28 @@
+DECISÃO
+Vistos.
+Trata-se de Agravo em Recurso Especial de FC FOMENTO MERCANTIL LTDA. (fls. 213/219e), objetivando a reforma da decisão de inadmissão do recurso interposto perante o Tribunal Regional Federal da 2ª Região.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 544, § 4º, I, do Código de Processo Civil, o Relator está autorizado, por meio de decisão monocrática, a não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada.
+De pronto, verifico a ausência de requisito extrínseco de admissibilidade, relativo à regularidade formal do agravo interposto.
+Com efeito, à luz do princípio da dialeticidade, constitui ônus do Recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Nessa linha, na esteira do entendimento jurisprudencial consagrado na Súmula n. 182/STJ, o inciso I, do § 4º, do art. 544, do Código de Processo Civil, incluído pela Lei n. 12.322/2010, prevê expressamente o não conhecimento do agravo que não tenha atacado especificamente os fundamentos da decisão que inadmitiu, na origem, o recurso especial.
+No presente caso, o Recurso Especial não foi admitido sob o fundamento de que o acórdão recorrido teria solucionado a lide com base em fundamentação constitucional (fls. 210/211e).
+Entretanto, as razões do Agravo apresentam conteúdo genérico, porquanto apenas afirmada a não incidência do mencionado óbice de admissibilidade, sem contudo demonstrar qual seria o fundamento infraconstitucional utilizado pelo Tribunal a quo (fls. 213/219e), não impugnando, de forma específica, o fundamento adotado na decisão agravada, impondo-se, de rigor, o não conhecimento do recurso.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO DECISUM AGRAVADO. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. A decisão ora recorrida negou provimento ao Agravo sob os fundamentos de incidência do enunciado 283 da Súmula do STF; descabimento de inscrição da recorrida em cadastro de inadimplentes; configuração de dano moral e razoabilidade da verba indenizatória fixada.
+3. No presente Agravo Regimental, por sua vez, a concessionária-agravante não rebate as razões expostas na decisão que visa impugnar, limitando-se a discorrer, sobre questões totalmente dissociadas à decisão objurgada. Aplicável, in casu, a Súmula 182 do STJ, segundo a qual é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+4. Agravo Regimental da Companhia Energética de Pernambuco não conhecido.
+(AgRg no AREsp n. 472.071/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 24/04/2014, DJe 07/05/2014).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. PROVA. EXTENSÃO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. DECISÃO AGRAVADA, FUNDAMENTOS NÃO IMPUGNADOS.
+1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão impugnada, em razão do óbice representado pela Súmula 182/STJ.
+2. Não é possível a extensão da prova material em nome do cônjuge quando este passa a exercer atividade incompatível com o labor campesino. Precedentes.
+3. A reforma do acórdão impugnado, que fixou a ausência de demonstração das condições necessárias ao deferimento do benefício aposentadoria rural por idade, demanda reexame do quadro fático-probatório dos autos, o que não se demonstra possível na via estreita do recurso especial. Incidência da Súmula 7 do STJ.
+Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 551.094/MS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/10/2014, DJe 20/11/2014).
+Nessa linha, ainda, as seguintes decisões monocráticas: AREsp 471.051/BA, Rel. Min. Napoleão Nunes Maia Filho, DJe de 18.11.2014; AREsp 539.186/SP, Rel. Min. Benedito Gonçalves, DJe de 11.11.2014; AREsp 613.008/MG, Rel. Min. Mauro Campbell Marques, DJe de 20.11.2014; AREsp 610.915/RS, Rel. Min. Humberto Martins, DJe de 21.11.2014; AREsp 567.403/PR, Rel. Min. Assusete Magalhães, DJe de 21.11.2014; AREsp 529.356/TO, Rel. Min. Sebastião Reis Júnior, DJe de 21.11.2014; AREsp 169.336/SP, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 11.11.2014; e, AREsp 551.245/RJ, Rel. Min. Laurita Vaz, DJe de 04.09.2014.
+Isto posto, com fundamento no art. 544, § 4º, I, do Código de Processo Civil, NÃO CONHEÇO do Agravo em Recurso Especial, porquanto não atacado especificamente o fundamento da decisão agravada.
+Publique-se e intimem-se.
