@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base neste(s) fundamento(s): ausência de prequestionamento (arts. 186, 187, 927 e 944, CC/02), Súmula 284/STF (arts. 186, 187, 927 e 944, CC/02), ausência de indicação de artigo de lei federal violado - Súmula 284/STF (Lei 1.060/50), Súmula 83/STJ ("no sentido de que a concessão do benefício da gratuidade judiciária às pessoas jurídicas de direito privado, com ou sem fins lucrativos, depende da demonstração de sua necessidade") e Súmula 7/STJ (quanto à alteração da conclusão de que a pessoa jurídica faz jus ao benefício da gratuidade da justiça, por ter comprovado sua incapacidade econômica de arcar com as despesas processuais).
+Entretanto, a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do(s) seguinte(s) óbices: ausência de prequestionamento (arts. 186, 187, 927 e 944, CC/02), Súmula 284/STF (arts. 186, 187, 927 e 944, CC/02) e ausência de indicação de artigo de lei federal violado - Súmula 284/STF (Lei 1.060/50).
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 253, parágrafo único, I, do RISTJ.
+Publique-se. Intimem-se.
