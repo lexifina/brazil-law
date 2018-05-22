@@ -1,0 +1,30 @@
+Decisão: Trata-se de reclamação constitucional proposta por M. L. Gomes Advogados Associados S/C Ltda, João Antônio Belizário Leme e Leandro Kasper contra ato do Superior Tribunal de Justiça, proferido nos autos do REsp n. 1.286.774/RS, por suposta usurpação de competência do STF.
+    Consta dos autos que os reclamantes foram condenados pela prática de improbidade administrativa às sanções do art. 12 da Lei n. 8.429/92.
+    Na petição inicial, a defesa alega que o Tribunal de origem teria usurpado a competência desta Corte ao negar trânsito ao recurso extraordinário, ante a ausência de repercussão geral da matéria tratada nos autos.
+    Sustenta que a tese aventada no aludido recurso não guarda similitude com o precedente da repercussão geral utilizado pelo Tribunal de origem.
+    É o relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Passo a decidir.
+    No caso, verifico que o Superior Tribunal de Justiça negou seguimento ao recurso extraordinário, com base no art. 1.030, inciso I, do CPC de 2015 (art. 543-B § 3º, do CPC/1973), aplicando ao caso entendimento firmado por esta Corte no RE-RG 598.365 e AI-RG-QO 791.292 (temas 181 e 339 ), processos-paradigmas da repercussão geral.
+    Compulsando os documentos acostados aos autos e analisando a petição inicial, observo o Tribunal reclamado aplicou corretamente ao caso concreto o decidido por esta Corte nos referidos precedentes.
+    Com efeito, no tocante ao RE-RG 598.365 (tema 181), decidiu nos temos da jurisprudência do STF, no sentido da inexistência de repercussão geral da discussão da matéria versar sobre pressupostos de admissibilidade de recurso, pois a solução da controvérsia envolve o exame, tão somente, de legislação infraconstitucional, o que configuraria, em última análise, apenas situação de ofensa indireta ou reflexa ao texto constitucional.
+    Do mesmo modo, no tocante ao AI-QO-RG 791.292 (tema 339), o juízo reclamado consignou que o artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+     Conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência e garantia da autoridade de suas decisões (art. 102, I, “l”, da CF/88).
+    Nesse sentido, o novo Código de Processo Civil, que entrou em vigor em 18.3.2016, estabelece o rol das hipóteses de cabimento da reclamação, conforme a seguir transcrito:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016)
+    IV – garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (…). (Redação dada pela Lei nº 13.256, de 2016)”. (Grifou-se)
+    O § 4º do mesmo artigo prevê que as hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondem. Verifica-se, ainda, nos termos do § 5º, que a reclamatória proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida somente será cabível quando esgotadas as instâncias ordinárias.
+    No caso dos autos, não obstante a parte reclamante ter exaurido as instâncias ordinárias, não vislumbro a aplicação errônea da tese firmada por esta Corte no âmbito da repercussão geral. Com efeito, a parte pretende, em verdade, a revisitação da tese firmada por este Tribunal em recurso afetado pela sistemática da repercussão geral.
+    Saliente-se ainda o entendimento do STF no sentido de que o instrumento processual da reclamação não pode ser empregado como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal, conforme ocorre nestes autos.
+    Confiram-se, a propósito, os seguintes precedentes: Rcl 9.545, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 13.5.2010; e Rcl 5.494, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 11.12.2009, esta com a seguinte ementa:
+    “RECLAMAÇÃO - ALEGADO DESRESPEITO A DISPOSITIVOS DA CONSTITUIÇÃO FEDERAL - INADMISSIBILIDADE - INADEQUAÇÃO DO EMPREGO DA RECLAMAÇÃO COMO SUCEDÂNEO DE AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL - EXTINÇÃO DO PROCESSO DE RECLAMAÇÃO - PRECEDENTES - RECURSO IMPROVIDO. - Para que se legitime o acesso à via reclamatória, impõe-se a demonstração da efetiva ocorrência de desrespeito a julgamento emanado do Supremo Tribunal Federal ou, ainda, de usurpação de competência desta Suprema Corte. - O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. - A reclamação, constitucionalmente vocacionada a cumprir a dupla função a que alude o art. 102, I, 'l', da Carta Política (RTJ 134/1033), não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do mero reexame do conteúdo de atos jurisdicionais ou administrativos, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual. Precedentes”.
+    Desse modo, inadmissível esta reclamação, tendo em vista a utilização desta via processual como sucedâneo recursal.
+    Ante ao exposto, nego seguimento à reclamação (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
