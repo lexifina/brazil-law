@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à improcedência do pedido. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação do artigo 5º, inciso XXIX, da Constituição Federal. Sustenta afronta ao direito de propriedade intelectual. Diz ser a detentora da patente do produto e do sistema destinado à lavagem a seco de automóveis, usado de forma desleal pela recorrida.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Feitas, com a devida vênia, tais considerações, volta-se ao caso concreto, em que alega a apelante deter a exclusividade do processo de lavagens de veículos “a seco”, intitulado pela apelante como “Dry-Wash”.
+    Revela notar que o termo inicialmente utilizado nos Estados Unidos para as lavagens de veículo a seco foi Waterless Car Wash, e no Brasil, ao contrário do quanto afirmado pela apelante, a primeira notícia de invenção de um produto que lavava a seco o veículo, foi do técnico-químico Lúcio Edno Pereira, da cidade de Guarulhos-SP.
+    Tanto é verdade que sua fórmula foi depositada no INPI em 30/11/1993 e sua carte patente nº 9304595-6 foi publicada em 31/05/1994, mais de dois anos antes do depósito da Patente nº 9604458-6, objeto da lide, ocorrido em 25/10/1996, cuja publicação se deu em 23/06/1998.
+    A fórmula criada por Lúcio Edno Pereira é similar à criada pelo sócio José Manoel Ramos Rodriguez, mas não é idêntica, assim como não é àquela utilizada pela apelada, senão vejamos:
+    A primeira é composta por HEXAZANA (HEXANA) 08 a 13 ml; FLUIDO DE SILICONE PURO 03 a 08 ml; CERA DE CARNAÚBA casca de abelha 10 a 15 ml; SOLVENTE ALIFÁTICO DE GLICOL 03 a 07 ml; ÁGUA 70 a 100 ml. A segunda é composta por cera de carnaúba, nonil fenol etoxilado silicato de alumínio, silicone fluido, hexano, metilparabeno, propilparabeno, aromatizante e água. (fls 37) Já a terceira é composta por ceras vegetais, emulsificante aniônico, solvente hidrogenado coadjuvantes, conservante em veículo aquoso (fls 704).
+    Essa diferença, aliás, foi bem observada pelo eminente Desembargador Theodureto Camargo na ocasião do julgamento do Agravo de Instrumento nº 0544053-63.2010.8.26.0000, interposto pela apelada contra a decisão que deferiu a medida liminar:
+    […]
+    Desse modo, a prova de que os produtos e processos são idênticos era ônus da apelante, consoante a regra do artigo 333, I, do Código de Processo Civil, do qual não se desincumbiu, pois o expert assentou que “o exame da composição química dos produtos das partes, uma vez que os testes em laboratório se tornaram inviáveis, devido a seu alto custo, por parte da autora, e por outro, respeitando-se o direito de segredo industrial da composição do produto da requerida”, bem como que “a descrição da composição química dos rótulos das partes indicam serem diferentes entre si, no entanto, somente uma análise química poderia comprovar com exatidão a composição dos mesmos, o que ficou prejudicado”.
+    […]
+    O que pretende a apelante, em verdade, é a concessão de um monopólio pelo Estado, chancelado pelo Poder Judiciário, o que não se pode admitir.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, a reapreciação dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o pronunciamento recorrido mediante o extraordinário demonstra interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Ante o quadro, conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 5 % do valor da causa, nos termos do artigo 85, § 11 do Código de Processo Civil de 2016.
+    4. Publiquem.
+Brasília, 22 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
