@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial manejado por [NOME] e outros com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 420):
+EXECUÇÃO EM FACE DA FAZENDA PÚBLICA. EMBARGOS. REAJUSTE DE 3,17%. LIMITAÇÃO. BASE DE CÁLCULO. SUSPENSÃO DO PROCESSO.
+1. O reajuste de 3,17% deve incidir sobre cargos em comissão e funções gratificadas somente até fevereiro/1995, em razão da reestruturação das funções promovida pela Lei nº 9.030/95.
+2. O termo final do direito à percepção do resíduo relativo ao reajuste de 3,17% se dá com o pagamento do percentual correto do reajuste, conforme fichas funcionais dos servidores, ou com a reestruturação da respectiva carreira. A determinação de tal limitação, em sede de embargos à execução, não implica ofensa à coisa julgada.
+3. Tendo a Administração reconhecido o direito ao reajuste de 28,86% a todos os servidores públicos, civis e militares (MP nº 1.704/98), as diferenças devidas a tal título devem ser incluídas na base de cálculo para o reajuste de 3,17%.
+4. A questão relativa à prescrição da pretensão executória restou decidida em caráter definitivo, de modo que não há razão para a suspensão do processo.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73 (fls. 462/464)
+A parte recorrente aponta violação aos arts. 467, 468 e 535, I e II do CPC/73; 28 da Lei nº 8.880/94; e 8º da MP nº 2.225-45/2001. Sustenta, além de negativa de prestação jurisdicional, que a limitação à incorporação do resíduo de 3,17% viola a coisa julgada. Alega que "se a própria Administração Pública reconhece a incidência dos 3,17% sobre todas as parcelas, incluindo as relativas às funções gratificadas e comissionadas, e considera estes valores no cálculo do pagamento administrativo das diferenças nos termos previstos na MP nº 2.225-45/2001, não há justificativa lógica para limitar a incidência do percentual, nos termos expostos no v. Acórdão recorrido" (fl. 500).
+Assevera, ainda, que "a Lei nº 9.030/95, que fixa a remuneração de cargos em comissão e de natureza especial e das funções de direção, chefia e assessoramento, não reestrutura ou reorganiza carreiras, não constituindo, assim, termo para fins de incidência do resíduo de 3,17%" (fl. 502).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A irresignação comporta parcial acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, melhor sorte assiste aos recorrentes.
+Com efeito, extrai-se do aresto recorrido as seguintes razões (fls.411/412):
+O juiz a quo reconheceu que o reajuste de 3,17% é devido, no que toca às funções comissionadas e funções gratificadas, tão-somente até fevereiro/1995, em função do advento da Lei nº 9.030/95.
+Entendo deva ser mantida a sentença.
+Com efeito, desde o advento da Lei nº 9.030/95, não mais subsiste a defasagem em debate sobre cargos em comissão e funções gratificadas.
+É que a Lei nº 9.030/95 reajustou os valores da retribuição dos cargos em comissão e funções gratificadas em índices superiores aos 3,17%, razão pela qual 1/03/1995 é o termo final para a incidência do reajuste sobre esses cargos e funções.
+Nesse sentido precedentes desta Corte:
+(..)
+O magistrado a quo também reconheceu que "não persiste a obrigação de fazer em relação aos embargados que tiveram sua carreira reestruturada pelas Leis nº 10.355/2001 e 10.855/2004", determinando que os respectivos cálculos sejam limitados até a data em que a reestruturação foi implementada.
+A sentença não merece reparos.
+O termo final do direito à percepção do resíduo relativo ao reajuste em apreço se dá com o pagamento do percentual correto do reajuste, conforme fichas funcionais dos servidores, ou com a reestruturação da respectiva carreira.
+Assim, devida a limitação temporal do reajuste de 3,17% ao momento em que ocorre reestruturação da carreira. A determinação de tal limitação, em sede de embargos à execução, não implica ofensa à coisa julgada.
+Verifica-se que o aresto regional destoou do entendimento deste Superior Tribunal de Justiça, no sentido de que "a Lei 9.030/95 não pode ser considerada como termo final para a incidência do índice de 3,17%, porquanto tratou apenas da remuneração de cargos em comissão de natureza especial e funções comissionadas, não sendo norma que reestruturou, nem reorganizou a carreira" (AgRg no REsp 1.278.356/PR, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, julgado em 02/08/2016, DJe 10/08/2016).
+Em reforço:
+AGRAVO INTERNO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 3,17%. FUNÇÕES COMISSIONADAS. LIMITAÇÃO À DATA DA EDIÇÃO DA LEI 9.030/1995. IMPOSSIBILIDADE
+1. O entendimento deste Superior Tribunal de Justiça é pacífico no sentido de que "a Lei 9.030/95 não pode ser considerada como termo final para a incidência do índice de 3,17%, porquanto tratou apenas da remuneração de cargos em comissão de natureza especial e funções comissionadas, não sendo norma que reestruturou, nem reorganizou a carreira. Precedentes: AgRg nos EDcl no REsp 1.523.151/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 30/9/2015; AgRg no REsp 1.577.678/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 27/5/2016" (AgRg no REsp 1278356/PR, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 02/08/2016, DJe 10/08/2016). Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1243745/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/10/2017, DJe 30/10/2017)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. EMBARGOS. RESÍDUO DE 3,17%. LIMITAÇÃO TEMPORAL. BASE DE INCIDÊNCIA. FUNÇÕES GRATIFICADAS E CARGOS EM COMISSÃO. LEI N. 9.030/95. AUSÊNCIA DE ALTERAÇÃO OU REESTRUTURAÇÃO DE CARGOS OU DE CARREIRA. ART. 9º DA MP N. 2.225/2001.
+1. A jurisprudência do STJ reconhece que a limitação temporal prevista no art. 10 da Medida Provisória 2.225-45/2001 não afronta a coisa julgada, podendo ser arguida em sede de embargos à execução.
+2. Esta Corte Superior de Justiça consolidou a orientação no sentido de que o termo final do pagamento dos valores devidos a título do reajuste de 3,17% opera-se na data da reestruturação/reorganização da carreira, nos termos do art. 10 da Medida Provisória 2.225/2001; ou em 1º/1/2002, para as carreiras que não foram reestruturadas/reorganizadas até essa data, a teor do art. 9º da mencionada medida provisória.
+3. A Lei n. 9.030/95, que fixa a remuneração de cargos em comissão e de natureza especial e das funções de direção, chefia e assessoramento, não reestruturou ou reorganizou carreiras, de modo que não tem a faculdade de dar cabo à incidência do resíduo de 3, 17%.
+Agravo regimental improvido.
+(AgRg nos EDcl no REsp 1523151/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 22/09/2015, DJe 30/09/2015)
+Ante o exposto, conheço em parte do recurso especial e, na parte conhecida, dou-lhe provimento para afastar a limitação temporal do reajuste de 3,17% ao advento da Lei 9.030/1995. Ônus sucumbenciais a cargo da parte recorrida, fixada a verba honorária em 5% (cinco por cento) sobre o valor da causa.
+Publique-se.
