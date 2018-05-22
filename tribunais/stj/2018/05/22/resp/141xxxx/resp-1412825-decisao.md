@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] DE MATOS NETO, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ fl. 332):
+ACIDENTE DO TRABALHO - DISACUSIA. PERDA MÍNIMA. NÃO CARACTERIZAÇÃO DE INCAPACIDADE. BENEFÍCIO INDEVIDO.
+2. ACIDENTE DO TRABALHO - HÉRNIA DISCAL MICROTRAUMAS. LESÃO POR ESFORÇOS REPETITIVOS EM POSIÇÕES VICIOSAS. BENEFÍCIO DEVIDO.
+3. JUROS E CORREÇÃO MONETÁRIA. OBSERVÂNCIA DA LEI Nº 11.960/2009. RECURSO DE REVISTA 9.859/74 - INAPLICABILIDADE.
+Apelação do autor e recurso de ofício acolhidos em parte.
+Nas suas razões, o recorrente aponta negativa de vigência ao art. 86 da Lei n. 8.213/1991, sustentando que a reparação acidentária, na forma de auxílio-acidente, é prevista na norma para indenizar qualquer perda anatômica, afetando membro, função ou sentido, pois o corolário dessa perda é a diminuição da capacidade para o desempenho das atividades (e-STJ fl. 350).
+Segundo aduz, "o acórdão tenta, habilmente, escapar do foco da Súmula 44/STJ, mas seu único argumento é o percentual de perda auditiva bilateral inferior a 9%, sucumbindo ao comando do regulamento, visto que a lei regulamentada (art. 86 da Lei 8.213/91) não estabelece essa condição e manda indenizar a incapacidade que é imanente da perda ou redução de sentido ou função" (e-STJ fl. 351).
+Requer, ainda, que o termo inicial do auxílio-acidente em relação à doença na coluna vertebral seja fixado no dia seguinte ao da cessação do auxílio-doença, em 02/11/1991, nos termos do art. 86, § 2º, da Lei n. 8.213/1991, ou, sucessivamente, na data da citação ou da juntada do laudo pericial em juízo. Postula, outrossim, que seja reconhecido como dia do acidente a data de 28/08/1991, na forma do art. 23 da Lei de Benefícios.
+Sem contrarrazões à e-STJ fl. 392.
+Passo a decidir.
+De início, registro que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito tal esclarecimento, registro que o art. 86 da Lei de Benefícios (auxílio-acidente), tido por ofendido, possui o seguinte teor:
+Art. 86. O auxílio-acidente será concedido, como indenização, ao segurado quando, após consolidação das lesões decorrentes de acidente de qualquer natureza, resultarem seqüelas que impliquem redução da capacidade para o trabalho que habitualmente exercia. (Redação dada pela Lei nº 9.528, de 1997) (Grifos acrescidos).
+No julgamento do REsp n. 1.108.298/SC, a Terceira Seção desta Corte firmou a compreensão de que a concessão do benefício deve observar os requisitos legais, ou seja, além da lesão, a necessidade de que a sequela "acarrete uma diminuição efetiva e permanente da capacidade para a atividade que o segurado habitualmente exercia". Veja-se, a propósito, a ementa do referido recurso representativo de controvérsia:
+RECURSO ESPECIAL REPETITIVO. ART. 105, III, ALÍNEA A DA CF. ART. 543-C DO CPC. RESOLUÇÃO 8/08 DO STJ. DIREITO PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE FUNDAMENTADO NA PERDA DE AUDIÇÃO. REQUISITOS: (A) COMPROVAÇÃO DO NEXO DE CAUSALIDADE ENTRE A ATIVIDADE LABORATIVA E A LESÃO E (B) DA EFETIVA REDUÇÃO PARCIAL E PERMANENTE DA CAPACIDADE DO SEGURADO PARA O TRABALHO. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. PARECER MINISTERIAL PELO IMPROVIMENTO DO RECURSO ESPECIAL. RECURSO ESPECIAL DO INSS PROVIDO, NO ENTANTO.
+1. Nos termos do art. 86, caput e § 4o. da Lei 8.213/91, para a concessão de auxílio-acidente fundamentado na perda de audição, como no caso, é necessário que a sequela seja ocasionada por acidente de trabalho e que acarrete uma diminuição efetiva e permanente da capacidade para a atividade que o segurado habitualmente exercia.
+2. O auxílio-acidente visa indenizar e compensar o segurado que não possui plena capacidade de trabalho em razão do acidente sofrido, não bastando, portanto, apenas a comprovação de um dano à saúde do segurado, quando o comprometimento da sua capacidade laborativa não se mostre configurado.
+3. No presente caso, não tendo o segurado preenchido o requisito relativo ao efetivo decréscimo de capacidade para o trabalho que exercia, merece prosperar a pretensão do INSS para que seja julgado improcedente o pedido de concessão de auxílio-acidente.
+4. Essa constatação não traduz reexame do material fático, mas sim valoração do conjunto probatório produzido nos autos, máxime o laudo pericial que atesta a ausência de redução da capacidade laborativa do segurado, o que afasta a incidência do enunciado da Súmula 7 desta Corte.
+5. Recurso Especial do INSS provido para julgar improcedente o pedido de concessão de auxílio-acidente, com os efeitos previstos no art. 543-C do CPC e na Resolução 8/2008 (recursos repetitivos).
+(REsp 1108298/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, TERCEIRA SEÇÃO, julgado em 12/05/2010, DJe 06/08/2010). (Grifos acrescidos).
+Na mesma linha e do mesmo órgão julgador, veja-se o aresto infra, o qual também adotou a premissa de que o dano à saúde do segurado deve comprometer sua capacidade laborativa:
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. AUXÍLIO-ACIDENTE. LESÃO MÍNIMA. DIREITO AO BENEFÍCIO.
+1. Conforme o disposto no art. 86, caput, da Lei 8.213/91, exige-se, para concessão do auxílio-acidente, a existência de lesão, decorrente de acidente do trabalho, que implique redução da capacidade para o labor habitualmente exercido.
+2. O nível do dano e, em consequência, o grau do maior esforço, não interferem na concessão do benefício, o qual será devido ainda que mínima a lesão.
+3. Recurso especial provido.
+(REsp 1109591/SC, Rel. Ministro CELSO LIMONGI (DESEMBARGADOR CONVOCADO DO TJ/SP), TERCEIRA SEÇÃO, julgado em 25/08/2010, DJe 08/09/2010). (Grifos acrescidos).
+No caso concreto, verifico que as alegações do recorrente no sentido de que a sua incapacidade está evidenciada ante a perda auditiva, mesmo em patamar mínimo, não encontram eco nas conclusões da Corte de origem, que consignou expressamente que inexiste a incapacidade e, por isso, "nada há para indenizar" (e-STJ fl. 336).
+Dessa forma, verifica-se no acórdão recorrido que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+De igual modo, não há como modificar o aresto impugnado no que diz respeito ao termo inicial do benefício indenizatório pelos males da coluna, tendo em vista que a Corte local consignou que "o auxílio-doença de fls. 182 foi de caráter previdenciário e somente o último laudo atestou o nexo de causalidade" (e-STJ fls. 339/340) (Grifos acrescidos).
+Não obstante o aludido fundamento, o recurso especial nada discorreu a respeito, limitando o cerne de sua insurgência ao cabimento do benefício desde o afastamento ou, subsidiariamente, desde a citação ou laudo (este último já concedido). Tal circunstância atrai, no ponto, a incidência da Súmula 283 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC.
+1. A ausência de impugnação de fundamento central do acórdão recorrido, o qual é suficiente para mantê-lo, dá azo ao não conhecimento do recurso. Inteligência da Súmula 283 do STF.
+2. Recurso que se mostra manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º do citado artigo de lei.
+3. Agravo interno não conhecido, com aplicação de multa.
+(AgInt no MS 22.589/DF, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 05/10/2016, DJe 21/10/2016)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se.
+Intimem-se.
