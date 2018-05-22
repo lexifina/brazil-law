@@ -1,0 +1,57 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. CONTRADIÇÃO. VÍCIO INEXISTENTE. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O Agravo Interno não foi provido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC. Os Embargos de Declaração não constituem instrumento adequado para a rediscussão da matéria de mérito. Precedentes: EDcl nos EDcl nos EDcl no AgInt no AREsp 992.489/RJ, Rel. Min. Luís Felipe Salomão, Quarta Turma, DJe 12.12.2017; EDcl no AgInt no AgInt nos EREsp 1.399.938/MG, Rel. Min. Marco Buzzi, Segunda Seção, DJe 17.11.2017; EDcl no AgInt nos EDcl no AREsp 1.054.138/RJ, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 20.10.2017.
+3. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Trata-se de Embargos de Declaração opostos contra acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO. INTEMPESTIVIDADE. AGRAVO INTERNO. TAMBÉM INTEMPESTIVO. FERIADO LOCAL. INCIDÊNCIA DO ART. 1.003, §6º, DO CPC/2015. INSUFICIÊNCIA DE REMISSÃO A LINK DO TRIBUNAL DE ORIGEM. NECESSIDADE DE DOCUMENTO IDÔNEO. RECURSO NÃO PROVIDO. DECISÃO DE INADMISSIBILIDADE MANTIDA. AFETAÇÃO À CORTE ESPECIAL DE CASO SEMELHANTE NÃO PREJUDICIAL À TRAMITAÇÃO REGULAR DO PRESENTE PROCESSO. INAPLICABILIDADE DO ENUNCIADO 66 DA I JORNADA DE DIREITO PROCESSUAL CIVIL, POR CONTRARIEDADE À JURISPRUDÊNCIA DA CORTE.
+1. A regra especial do art. 1.003, §6º, do CPC/2015 afasta a norma geral do art. 932, parágrafo único.
+2. Em se tratando da ocorrência de feriado local para efeito de tempestividade do recurso, a comprovação dar-se-á no ato da interposição, mediante documento idôneo, sendo inaplicável a essa situação específica a regra da possibilidade de regularização posterior.
+3. A jurisprudência hodierna do STJ firmada em casos submetidos à aplicação do CPC/2015 é cediça no sentido de estar superado o entendimento de que é possível essa demonstração por ocasião do manejo do agravo interno. Precedentes: AgInt no AREsp 1.005.100/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 23/5/2017, DJe 29/5/2017; AgRg no AREsp 137.141/SE, Rel. Ministro Antonio Carlos Ferreira, Corte Especial, DJe de 15/10/2012; AgInt no AREsp 1.032.692/DF, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 23/5/2017, DJe 9/6/2017; AgInt no AREsp 1.059.132/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 6/6/2017, DJe 12/6/2017.
+4. O art. 1.003, §6º, do CPC/2015 exige que o recorrente comprove a ocorrência de feriado local no ato de interposição do recurso, não sendo suficiente a mera remissão a link de site do Tribunal de origem em nota de rodapé do recurso considerado intempestivo. Indispensável a juntada de "documento idôneo", cuja certidão regular foi juntada a destempo após a inadmissibilidade dos recursos.
+5. A afetação à Corte Especial do tema da possibilidade de comprovação posterior da tempestividade do recurso em razão de feriado local não interfere no trâmite regular do presente processo. O RISTJ não prevê esse feito, tampouco o CPC/2015 contempla a suspensão dos processos ou o sobrestamento do julgamento nessa circunstância específica, consoante ocorre em relação a outros recursos e incidentes processuais expressamente consagrados na legislação procedimental de regência. Todos os precedentes acima referidos são posteriores à afetação mencionada e não tiveram a sua tramitação prejudicada, o que corrobora a conveniência da uniformidade de tratamento e coerência dos ritos. Por todos: AgInt no AREsp 1.090.665/MG, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 5/9/2017, DJe 11/9/2017.
+6. Por fim, não há como adotar o entendimento firmado no Enunciado 66 da I Jornada de Direito Processual Civil, de agosto de 2017. O dito Enunciado não tem eficácia vinculante ou força obrigatória para os órgãos do Poder Judiciário, mas exerce influência persuasiva. Na hipótese em liça, a jurisprudência do STJ formada sob a égide do CPC/2015 é em sentido diverso do contido no Enunciado, o que o torna inaplicável à espécie em atenção ao princípio da uniformidade interpretativa e à primazia da estabilidade, da integridade e da coerência interna da jurisprudência do Tribunal exigida pelos arts. 926 e 927, § 4º, do novo Códex Instrumental.
+7. Agravo interno não provido.
+A parte embargante alega que o acórdão recorrido mostra-se contraditório, pois "indica a necessidade de respeitar os dispositivos contidos no código de processo, art. 926 e 927 § 4º, no entanto, não os respeita, ferindo de morte a segurança jurídica no caso concreto, violando o devido processo legal, insculpido no art. 5º, LIV, da Carta Magna".
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos nesse Gabinete em 16.3.2018.
+Tratando-se de recurso de fundamentação vinculada, o conhecimento dos aclaratórios pressupõe que a parte demonstre haver, pelo menos, um dos vícios previstos no art. 1.022 do CPC/2015, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer
+decisão judicial
+para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+No caso dos autos, verifica-se que o argumento suscitado pelo embargante não diz respeito aos vícios de omissão, obscuridade ou contradição, mas a suposto erro de julgamento ou apreciação na causa, o que evidencia nítido intento de rediscussão do mérito.
+O acórdão embargado foi claro e coerente ao tratar da aplicação dos arts. 926 e 927, § 4º, do CPC/2015, verbis:
+ ..
+Na hipótese em liça, a jurisprudência do STJ formada sob a égide do CPC/2015 é em sentido diverso do contido no Enunciado, o que o torna inaplicável à espécie em atenção ao princípio da uniformidade interpretativa e à primazia da estabilidade, da integridade e da coerência interna da jurisprudência do Tribunal exigida pelos arts. 926 e 927, § 4º, do novo Códex Instrumental.
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015, ressaltando que os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC.
+2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+3. A possível modulação dos efeitos da decisão proferida pelo Supremo Tribunal Federal no julgamento do RE 579.431/RS não implica a ocorrência de vício na decisão ora embargada.
+4. Embargos de Declaração rejeitados. (EDcl no REsp 1.678.776/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19.12.2017)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC/15. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE OMISSÃO. REITERAÇÃO DE EMBARGOS MANIFESTAMENTE PROTELATÓRIOS. NECESSIDADE DE MAJORAÇÃO DA MULTA ANTERIORMENTE APLICADA NOS TERMOS DO ART. 1.026, § 3º, DO CPC/15.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022). A ausência do enquadramento fático às hipóteses mencionadas não permite o acolhimento do presente recurso.
+2. Os embargantes, na verdade, desejam a rediscussão da matéria, já julgada de maneira inequívoca. A referida pretensão não está em harmonia com a natureza e a função dos embargos declaratórios.
+3. O recurso revela-se manifestamente inadmissível e protelatório, a ensejar a majoração da multa anteriormente aplicada, ficando a interposição de qualquer outro recurso condicionada ao depósito prévio de respectiva quantia, nos termos do art. 1.026, § 3º, do CPC/15.
+4. Embargos de declaração rejeitados, com majoração da multa para 5% sobre o valor atualizado da causa. (EDcl nos EDcl nos EDcl no AgInt no AREsp 992.489/RJ, Rel. Min. Luís Felipe Salomão, Quarta Turma, DJe 12.12.2017)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO AGRAVO INTERNO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DOS EMBARGOS DE DIVERGÊNCIA - INVIABILIDADE DO COTEJO PRETENDIDO. INSURGÊNCIA DO EMBARGANTE.
+1. Consoante preceitua o artigo 1.022 do Código de Processo Civil em vigor, os embargos de declaração se prestam, apenas, a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material. Na hipótese, pretende o embargante a rediscussão do que foi decidido por este órgão julgador em acórdão suficientemente fundamentado, de cujo teor não se depreende vício algum.
+1.1 O parágrafo 5º do art. 1.043 do CPC/2015, sobre cujo teor teria sido omisso o acórdão embargado, foi revogado pela Lei nº 13.256/2016 antes mesmo de entrar em vigor.
+1.2. A jurisprudência desta Corte firmou-se no sentido de que não se conhece dos embargos de declaração cujas razões estão dissociadas da fundamentação do julgado embargado (EDcl no AgInt nos EREsp 1.518.412/PE, Rel. Ministro Francisco Falcão, Corte Especial, julgado em 18/10/2017, DJe 27/10/2017).
+2. Embargos de declaração parcialmente conhecidos e, nessa extensão, rejeitados. (EDcl no AgInt no AgInt nos EREsp 1.399.938/MG, Rel. Min. Marco Buzzi, Segunda Seção, DJe 17.11.2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão da decisão recorrida.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. O não conhecimento do agravo interno, ante a falta de seus pressupostos de admissibilidade, inviabiliza o exame do mérito da controvérsia, não havendo falar em omissão na hipótese dos autos.
+4. Embargos de declaração rejeitados. (EDcl no AgInt nos EDcl no AREsp 1.054.138/RJ, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 20.10.2017)
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que sua reiteração será considerada expediente protelatório sujeito a multa.
+É como voto.
