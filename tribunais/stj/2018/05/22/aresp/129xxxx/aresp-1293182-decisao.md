@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO ESTADUAL. DESVIO DE FUNÇÃO RECONHECIDO PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo Município de Caxias do Sul em face de decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, que negou admissibilidade a recurso contra acórdão assim ementado:
+APELAÇÕES CÍVEIS. REMESSA NECESSÁRIA. AGRAVO RETIDO. SERVIDOR PÚBLICO. MUNICÍPIO DE CAXIAS DO SUL. OPERADOR ESPECIALIZADO. DESVIO DE FUNÇÃO. EXERCÍCIO DE ATRIBUIÇÕES DO CARGO DE OPERADOR DE MÁQUINAS. PERDA AUDITIVA. COMPROVAÇÃO DO NEXO DE CAUSALIDADE. DANO MORAL CONFIGURADO. INDEVIDA INDENIZAÇÃO POR DANO MATERIAL. SUCUMBÊNCIA RECÍPROCA.
+1. Agravo retido: descabida a complementação da perícia para avaliar o percentual da perda auditiva, porquanto suficientemente demonstrada para fins de indenização.
+2. Desvio de função: reconhecido o exercício de atribuições do cargo de Operador de Máquinas, embora nomeado para o cargo de Operador Especializado, sendo devidas as diferenças remuneratórias, excluído o período em que o autor percebeu a função gratificada de Chefe de Setor.
+3. Responsabilidade civil do Município (art. 37, parágrafo 6º, da Constituição Federal): a responsabilidade civil do ente público é objetiva e sua caracterização depende da existência da oficialidade da ação, da relação de causalidade material entre a conduta administrativa e o resultado danoso, bem como a ausência de excludente de responsabilidade.
+4. Comprovado o nexo causai decorrente das atividades exercidas, cuja exposição ao ruído causou seqüelas permanentes à audição do servidor.
+5. Afastada a indenização por danos patrimoniais, tendo em vista a ausência de redução na capacidade laborativa, sendo possível a continuidade do exercício das atribuições do cargo.
+6. Atualização monetária e juros moratórios aplicados em observância ao julgamento da Questão de Ordem nas ADI 4357 e 4425.
+7. Sucumbência recíproca configurada, decaindo o Município em maior proporção, nos termos dos arts. 85 e 86 do CPC/2015.
+NEGARAM PROVIMENTO AO AGRAVO RETIDO E DERAM PARCIAL PROVIMENTO ÀS APELAÇÕES, CONFIRMANDO A SENTENÇA, NO MAIS, EM REMESSA NECESSÁRIA.
+Nas razões de recurso especial, sustenta a parte recorrente violação do art. 373, I, do CPC, na medida em que "a configuração do desvio de função, exige-se demonstração robusta, que possa evidenciar, com segurança, a convocação para habitual prática de atividades pertinentes a cargo diverso daquele para o qual o servidor tenha sido nomeado. E, no caso em apreço, não existe prova cabal dos fatos articulados pelo recorrido, afigurando-se inviável acolher o pleito de diferenças salariais formulado".
+Apresentadas contrarrazões.
+A decisão agravada negou seguimento ao especial sob a compreensão de que a revisão do julgado implica reexame de provas nos termos da Súmula 7/STJ.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque não pretende revisar provas, mas sim a correta interpretação da legislação federal.
+Ofertada contraminuta.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Tendo o agravante impugnado o fundamento da decisão de inadmissibilidade, passo a análise do recurso especial.
+No que tange a questão de fundo relacionado ao desvio de função, a Corte de origem adotou como razões de decidir os seguintes fundamentos, verbis:
+Assim, diante da atual orientação jurisprudencial, devem ser admitidos os efeitos pecuniários do desvio de função, sob pena de locupletamento ilícito da Administração Pública, desde que efetivamente demonstrados os fatos constitutivos do direito alegado.
+Como dito, o autor exercer o cargo de Operário Especializado, para o qual constitui atribuição realizar "trabalhos braçais em geral que envolvam elevado índice de esforço físico" (fl. 33).
+A despeito da afirmação da Secretaria Municipal de Obras ir ao encontro das alegações do réu no sentido de que o autor somente exercia atividades braçais (Memorando n9 71/2010-fl. 42), o Memorando ng 78/2011 consigna que o autor utilizava a roçadeira e o caminhão, porém eventualmente (fl. 66).
+Entretanto, deve-se atentar para as planilhas de fls. 13-14, mostrando que o autor laborou com a roçadeira de forma contínua entre novembro de 2002 a fevereiro de 2003, bem como para a prova testemunhai, que corrobora a sua tese no sentido de que laborou continuamente com máquina roçadeira e caminhão durante o período vindicado, conforme os depoimentos colhidos, in verbis (f s. 178-182):
+ ..
+O conjunto da prova documental e oral confirma a versão do autor de que suas atividades ensejavam a operação com roçadeira e caminhão de forma contínua, caracterizando o desvio de função, porquanto havia o desempenho de atribuições estranhas ao cargo de Operador Especializado.
+O Município, por sua vez, não logrou contraditar a contento a prova, limitando-se a alegar a ausência de comprovação acerca do desvio de função.
+Contudo, deve ser ressalvado o período de 4-7-2005 a 2-1-2007 em que o autor exerceu a função gratificada de Chefe de Setor da Subprefeitura de Vila Oliva (fl. 312), percebendo vencimentos superiores ao que perceberia como Operador de Máquinas.
+Referido período coincide, ainda que em parte, com a alegação contida na inicial de que nos anos de 2006 a 2007 exerceu a função de "Capataz", somente após passando a exercer a atividade de motorista de caminhão.
+Com efeito, a revisão do entendimento adotado pelo Tribunal de origem, onde reconheceu o labor realizado em desvio de função com o conseqüente pagamento de diferenças remuneratórias, demandaria incursão no conjunto probatório dos autos, inviável a teor do que dispõe a Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. DESVIO DE FUNÇÃO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. REVER A EXISTÊNCIA DE DESVIO DE FUNÇÃO E A EXORBITÂNCIA DA VERBA HONORÁRIA, AFASTADOS PELO TRIBUNAL DE ORIGEM. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO ESPECIAL. SÚMULA 7/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA  ..  III - In casu, rever o entendimento do Tribunal de origem, que consignou não haver desvio de função, bem como que os honorários não foram fixados em valor exorbitante, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ. IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida. V - Agravo Interno improvido. (AgInt no REsp 1580153 / RS AGRAVO INTERNO NO RECURSO ESPECIAL 2016/0022028-0, Primeira Turma, Relatora Ministra Regina Helena Costa, DJe 29/3/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
