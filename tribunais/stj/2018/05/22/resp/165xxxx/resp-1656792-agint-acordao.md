@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. EX-FERROVIÁRIO DA EXTINTA RFFSA. COMPLEMENTAÇÃO DE APOSENTADORIA. PARÂMETROS. ANÁLISE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. OMISSÃO. INOCORRÊNCIA.
+1. Afasta-se a ofensa ao art. 535, II do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno desafiando decisão de fls. 699/704 que não conheceu do recurso especial, com base nos seguintes fundamentos: (I) ausência de negativa de prestação jurisdicional; (II) incidência da Súmula 7/STJ; e (III) por o dissídio jurisprudencial restar prejudicado.
+Em suas razões, a parte recorrente reitera a tese de negativa de prestação jurisdicional e afasta a incidência da Súmula 7/STJ ao caso. Alega que "restara inconteste nos autos que o Autor vem recebendo sua complementação e que esta não contempla o valor concernente ao cargo de confiança incorporado aos seus proventos. Para tanto, basta observar a Portaria que concedera a sua complementação devidamente colacionada nos autos" (fl. 717).
+Assevera que "basta esta Eg. Turma analisar, em abstrato, a hipótese suscitada, qual seja, a natureza de remuneração permanente do cargo de confiança incorporado pelo ferroviário nos termos do art. 4.5 do PCS e se este deve ser levado a efeitos no recebimento de sua complementação de aposentadoria nos termos do art. 2º da Lei 8.186/1991" (fl. 720).
+No mais, repisa a tese de dissídio jurisprudencial.
+Houve manifestação da parte agravada (fls. 732/733).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como antes asseverado, verifica-se não ter ocorrido ofensa ao art. 535, II do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdiciona.
+De outro lado, extrai-se do aresto recorrido as seguintes razões (fls. 538/539):
+A Lei nº 8.186/91 garantiu a complementação da aposentadoria previdenciária dos ferroviários admitidos na Rede Ferroviária Federal S.A. - RFFSA até 31/10/1969, estabelecendo como condição essencial para a concessão da complementação a detenção, pelo beneficiário, da condição de ferroviário, na data imediatamente anterior ao início da aposentadoria previdenciária (arts. 1º e 4º).
+Por sua vez, o art. 1º da Lei nº 10.478/2002 estendeu aos ferroviários admitidos até 21/05/1991 o direito à complementação de aposentadoria na forma do disposto na Lei nº 8.186/91.
+No caso, o autor foi admitido na extinta Rede Ferroviária Federal S.A. em 16/06/1989 (fls. 67/68), razão pela qual faz jus à complementação de aposentadoria, na forma do disposto na Lei nº 8.186/91. Tanto é assim que já lhe foi concedida a referida complementação (fl. 84).
+Entretanto, conforme o disposto no art. 2º, caput, da Lei nº 8.186/91, o parâmetro para a complementação da aposentadoria é a remuneração do cargo correspondente ao do pessoal em atividade na RFFSA, e não a remuneração que cada ex -ferroviário aposentado recebia quando ainda estava em atividade.
+Assim, a pretensão do autor, no sentido de que a sua complementação de aposentadoria também deve incluir os valores equivalentes ao cargo de confiança que exerceu, extrapola os limites da lei.
+Ressalte-se que o item 4.5 do Plano de Cargos e Salários da RFFSA garante o recebimento da diferença salarial pelo exercício de cargo de confiança especificamente em caso de dispensa do empregado, silenciando quanto aos casos de aposentadoria (fl. 104).
+Acerca do tema, trago à colação precedente desta Corte Regional, in verbis:
+(..)
+Em, em sede de embargos declaratórios (fls. 574/575):
+Como já se disse, o ponto é que no art. 2º, caput, da Lei nº 8.186/91, o parâmetro para a complementação da aposentadoria é a remuneração do cargo correspondente ao do pessoal em atividade na RFFSA, e não a remuneração que cada ex-ferroviário aposentado recebia quando ainda estava em atividade.
+Não há, portanto, qualquer violação ao artigo 41, da Lei nº 8112/91, aos artigos 444 e 457 da CLT, ao artigo 118, §1º, da Lei nº 10.233/01 e ao artigo 4.5, da Lei nº 8.186/91. A luz das provas dos autos, não se apontou qualquer ofensa aos referidos dispositivos, que versam, respectivamente, sobre o conceito de remuneração no âmbito administrativo e trabalhista, observância das regras do Plano de Cargos e Salários da RFFSA na complementação das aposentadorias e sobre a justificação do projeto da Lei nº 8.186/91, a qual indica a observância do artigo 4.5 do PCS.
+Os embargos não servem para debater questões exauridas ou mesmo corrigir injustiças de que a parte se considere vitimada.
+Por outro lado, não há qualquer omissão no julgado. Como já se disse, " ..  o item 4.5 do Plano de Cargos e Salários da RFFSA garante o recebimento da diferença salarial pelo exercício de cargo de confiança especificamente em caso de dispensa do empregado, silenciando quanto aos casos de aposentadoria,  .. " .." É sem amparo, à luz do exposto, os argumentos genéricos acerca do conceito de remuneração e observância do Plano do Plano de Cargos e Salários da RFFSA nas complementações de aposentadoria.
+Nesse contexto, inafastável a incidência da súmula 7/STJ ao caso, pois a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO FERROVIÁRIO. EXTINTA RFFSA. COMPLEMENTAÇÃO DE APOSENTADORIA. EQUIPARAÇÃO DOS SERVIDORES DA ATIVA. LEI 8.186/91. VIOLAÇÃO DO ART. 535 DO CPC/1973 NÃO CONFIGURADA. AUSÊNCIA DE DOCUMENTOS QUE COMPROVEM A EQUIPARAÇÃO. SÚMULA 7/ STJ. ACÓRDÃO QUE DECIDE A LIDE NO CONTEXTO FÁTICO-PROBATÓRIO COLACIONADO AOS AUTOS.
+1.Trata-se, na origem, de ação ordinária de cobrança, objetivando a complementação do valor da aposentadoria devida aos empregados admitidos até 1991, com base nas Leis 8.186/91 e 10.478/02, em equiparação aos empregados da RFFSA e suas subsidiárias.
+2. No que se refere à alegada afronta ao disposto no art. 535 do CPC/1973, o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+3. O Tribunal de origem consignou que "dos documentos colacionados aos autos, vê-se que o Autor não logrou comprovar que, apesar de ter exercido o mesmo cargo e estar no mesmo nível do paradigma indicado, faria jus às mesmas verbas (vantagens pessoais, horas extras incorporadas, passivo trabalhista e cargo de confiança, dentre outras), que diferenciam a remuneração percebida" (fl. 383, e-STJ).
+4. Dessa feita, à margem do alegado pelo recorrente, rever o entendimento da Corte local, no sentido de que não se constata diferença que deva ser paga à autora a título de complementação de aposentadoria, somente seria possível por meio do reexame do acervo fático-probatório existente nos autos, o que não se permite em Recurso Especial. Assim, a análise dessa questão demanda o reexame de provas, o que é inadmissível ante o óbice da Súmula 7/STJ.
+5. Recurso Especial parcialmente conhecido e, nesta parte, não provido.
+(REsp 1613976/SE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/08/2016, DJe 13/09/2016)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. FERROVIÁRIOS. COMPLEMENTAÇÃO DE APOSENTADORIA. LEIS N. 8.168/91 E 10.478/2002. TERMO INICIAL INDICADO NO DISPOSITIVO LEGAL. REMUNERAÇÃO AO TEMPO DA APOSENTAÇÃO. SÚMULA 7/STJ.
+I - A Lei n. 8.168/91 expressamente garantiu aos ferroviários admitidos até 31/10/69 o direito à complementação de aposentadoria.
+Com o advento da Lei n. 10.478/2002, o benefício foi estendido aos ferroviários admitidos pela Rede Ferroviária Federal S.A até 21/5/91.
+II - O art. 1º da Lei n. 10.478/2002 estabelece como termo inicial do benefício complementar o dia 1º de abril de 2002, não indicando qualquer exceção à regra.
+III - A inversão do julgado no que tange à pretensão de observância da remuneração percebida no momento anterior à efetiva aposentadoria demanda o reexame do conjunto fático-probatório dos autos, razão pela qual incide, quanto ao tópico, o enunciado da Súmula 7 deste Superior Tribunal de Justiça.
+IV - Agravo regimental improvido"
+(AgRg no REsp 734.675/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/08/2014, DJe 02/09/2014).
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
