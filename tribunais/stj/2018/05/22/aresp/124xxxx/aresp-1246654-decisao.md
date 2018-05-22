@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pela TAM LINHAS AÉREAS S.A., em face de decisão que inadmitiu o Recurso Especial, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+O Recurso Especial restou inadmitido, pelos seguintes fundamentos: a) ausência de demonstração à vulneração de dispositivos legais; b) necessidade de reexame de matéria fático-probatória (Súmula 7/STJ).
+A parte agravante, todavia, deixou de infirmar, especificamente, a incidência da Súmula 7/STJ, limitando-se a sustentar, genericamente:
+"3.2. INAPLICABILIDADE DA SÚMULA Nº 7 DO STJ
+O E. Tribunal a quo, para fundamentar a r. decisão que inadmitiu conhecimento do reclamo especial, alegou, dentre outros argumentos, que a questão implicaria revolvimento da matéria fática dos autos.
+Inicialmente, pedimos vênia para transcrever o enunciado da Súmula referida na decisão denegatória de seguimento do Recurso Especial:
+ ..
+A despeito deste enunciado, ressalta-se que no presente caso não é necessária a reanálise de provas, uma vez que a Agravante não as contesta, no quanto constante do Recurso Especial, mas tão somente demonstra a implicação do fato perante a norma.
+O Tribunal a quo, cuja r. decisão denegatória é objeto deste Agravo, entende pela impossibilidade de seguimento do Recurso Especial pela suposta pretensão da ora Agravante de, em sede de Recurso Especial, obter o reexame dos fatos da causa. Mas isso não é verdade, já que as questões apontadas são tão somente legais.
+Como é cediço, a referida Súmula nº 7 possui a importante função de impedir o processamento perante este E. Tribunal Superior de recursos que não se impugna, à última análise, matéria de Direito, mas se pretende apenas transferir à instância superior a própria situação fática, visando a obtenção de melhor acolhida.
+ ..
+A pretensão da Agravante, ressalta-se, não implica em reexame de prova, mas sim e tão somente em exame da matéria de direito colocada em pauta, ou seja, o reconhecimento das ofensas aos dispositivos de Lei invocados, como forma de restabelecer a vigência dos mesmos, culminando com a reforma do v. acórdão ora impugnado.
+Mesmo caso seja necessária a ilustração de fatos, o simples enquadramento dos fatos ao correto valor jurídico, para discussão sobre a ocorrência ou não do ato ilícito, e para fins de declaração da eficácia ou não do pagamento efetivado pela Agravante, não questiona o conteúdo probatório ou dos fatos certificados nos autos.
+Tais análises, repisa-se, não implicam revaloração da prova, revolvimento fático ou mesmo alteração dos fatos analisados para fundamento da decisão. Usando do mesmo fundamento fático, há apenas readequação jurídica do julgamento, o que pode, dessa forma, alterar o resultado da demanda inclusive, como no caso, para o reconhecimento da inexistência de ato ilícito frente o conflito de norma e o exercício regular de direito.
+Destarte, equivocada está a r. decisão agravada, de modo que se torna necessário o total provimento do presente Agravo" (fls. 1.201/1.203e).
+Ora, "não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual" (STJ, AgInt no AREsp 1.067.725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/10/2017).
+Diante desse contexto, o presente Agravo em Recurso Especial não pode ser conhecido.
+Com efeito, com o advento da Lei 12.322, de 09/09/2010, o Agravo de Instrumento contra decisão que não admite Recurso Especial passou a ser Agravo nos próprios autos. Porém, o legislador incorporou, ao texto legal, o princípio da dialeticidade, há muito sedimentado na jurisprudência desta Corte, com amparo na doutrina acerca do tema.
+Assim, de acordo com o inciso I do § 4º do art. 544 do CPC/73, é dever da parte agravante atacar, especificamente, todos os fundamentos da decisão do Tribunal de origem que nega trânsito ao Recurso Especial, sob pena de não conhecimento de sua irresignação.
+Esta Corte, com fundamento no citado dispositivo, bem como no princípio da dialeticidade recursal, vem aplicando, por analogia, a Súmula 182/STJ ao Agravo que não refute, de maneira específica, todos os fundamentos da decisão que não admitiu o Recurso Especial. É o que se depreende da leitura dos seguintes julgados:
+
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. EFEITO SUSPENSIVO. VIA INADEQUADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A teor do verbete n. 182 da Súmula desta Corte, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+(..)
+3. Agravo regimental improvido" (STJ, AgRg no AREsp 620.602/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 29/06/2016).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DECISÃO QUE INADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA 182/ STJ.
+I - Não se conhece do agravo que não tenha atacado especificamente os fundamentos da decisão que inadmitiu, na origem, o recurso especial, nos termos da Súmula 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+II - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+III - Agravo Regimental improvido" (STJ, AgRg no Ag 1.368.414/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 27/03/2015).
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO MONOCRÁTICA NÃO REFUTADOS. PRINCÍPIO DA DIALETICIDADE RECURSAL FUNDAMENTOS AUTÔNOMOS. SÚMULA 182/STJ. OBRIGAÇÃO DE INFIRMAR TODOS ELES. PRECEDENTE. RESOLUÇÃO N. 432 DO CONTRAN. NORMA INFRALEGAL NÃO ABRANGIDA PELO CONCEITO DE LEI FEDERAL. PRECEDENTE. ART. 306 DO CTB. ALTERAÇÃO PELA LEI N. 12.760/2012. ADMISSÃO DE OUTROS MEIOS DE PROVA. PRECEDENTE.
+Agravo regimental improvido" (STJ, AgRg no AREsp 811.800/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe de 17/03/2016).
+"PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. INOVAÇÃO RECURSAL. LEI ESTADUAL N. 9.664/2012. LEGISLAÇÃO LOCAL. SÚMULA 280/STF. ALÍNEA "C". DISPOSITIVO DE LEI EM QUE TERIA OCORRIDO A DISSIDÊNCIA INTERPRETATIVA. AUSÊNCIA DE INDICAÇÃO. SÚMULA 284 DO STF. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência, por analogia, da Súmula 182 do STJ.
+2. No agravo regimental, a agravante não impugna todas as razões da decisão agravada, limitando-se apenas a rebater a incidência da Súmula 284/STF.
+3. Nos termos do art. 544, § 4º, inciso I, do Código de Processo Civil, "a parte deve impugnar todos os fundamentos da decisão agravada, autônomos ou não, pois não existe identidade entre a lógica da Súmula n. 182/STJ e a Súmula n. 283 do STF, uma vez que o conhecimento, ainda que parcial do agravo em especial, obriga a corte a conhecer de todos os fundamentos do especial, inclusive os não impugnados de modo específico". (AgRg no AREsp 68.639/GO, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 13/12/2011, DJe de 2/2/2012).
+Agravo regimental não conhecido" (STJ, AgRg no AREsp 450.558/MA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 24/02/2014).
+O novo Código de Processo Civil ratificou tal entendimento, conforme se depreende do seu art. 932, III, in verbis:
+"Art. 932. Incumbe ao relator:
+(..)
+III. não conhecer do recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+(..)".
+Assim, se a lei estabelece pressupostos ou requisitos para a admissibilidade do recurso - no particular, o art. 932, III, do CPC/2015 determina a necessidade de impugnação específica aos fundamentos da decisão que inadmitir o Recurso Especial -, cabe à parte proceder em estrito cumprimento às determinações legais.
+De fato, "não se pode desconhecer os pressupostos de admissibilidade do recurso. O aspecto formal é importante em matéria processual não por obséquio ao formalismo, mas para segurança das partes e resguardo do due process of law" (STJ, AgRg no Ag 427.696/RJ, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, DJU de 12/08/2002).
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do presente Agravo em Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por se tratar, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
