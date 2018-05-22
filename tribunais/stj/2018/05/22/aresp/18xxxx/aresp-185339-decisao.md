@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pelo DEPARTAMENTO DE ESTRADAS E RODAGEM DO ESTADO DE SÃO PAULO - DER/SP, em 16/03/2012, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial manejado em face de acórdão proferido nos seguintes termos:
+"(..) patente a ocorrência da preclusão temporal, como bem decidido:
+"Apesar de a Constituição Federal defender a primazia do interesse público em detrimento do particular, na hipótese dos autos eventual modificação da decisão de fls. 211, proferida em 21 de janeiro de 2008, configuraria verdadeira desconsideração da coisa julgada e do ato jurídico perfeito, princípios também encetados na Magna Carta e que são alicerces do Ordenamento Legal.
+(..)
+E nem mesmo socorre ao agravante o invocado artigo 1º-E da Lei Federal nº 9.494/97.
+(..)
+"A revisão das contas elaboradas para aferir o valor dos precatórios antes do seu pagamento ao credor, prevista no ar. 1º-E da Lei 9.494/97, tem caráter meramente administrativo, razão pela qual não pode alterar os parâmetros definidos no âmbito jurisdicional pelo juiz natural da causa, que é o juiz da execução" (STJ-1ª T., Resp n0 697.225, Ministro TEORI ZAVASCKI).
+3. Pelo exposto, nega-se provimento ao recurso" (fls. 60/61e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"Sem razão o embargante.
+O que na realidade pretende é a reapreciação da matéria enfocada na decisão atacada.
+Não precisa o Julgador reportar-se a todos os argumentos trazidos pelas partes, se apenas um deles - ou alguns deles - é o bastante para sua conclusão. E desnecessária a citação, no acórdão embargado, dos dispositivos legais invocados pelo embargante.
+Mesmo quando o recurso tem por fim o prequestionamento, devem ser observados os lindes traçados no artigo 535 do Código de Processo Civil.
+E, no caso, inexiste omissão a ser sanada" (fl. 78e).
+Sustenta a parte agravante, nas razões do Recurso Especial, ofensa aos arts. 463, I, 467, II e 535, I, do CPC/73, sob os seguintes argumentos: a) "no que diz respeito à possibilidade de apreciação pelo juízo do pedido referente aos erros de cálculo, ainda que a decisão tenha transitado em julgado, ou até mesmo de ofício pelo juiz a qualquer tempo, o Tribunal a quo manteve-se omisso" (fl. 86e); b) "(..) o DER/SP verificou que os cálculos apresentados pelo exequente não refletiam apenas a correção dos R$ 3.800,50, tal como determinado pela decisão judicial transitada em julgado, já que o autor inseriu valores que extrapolavam os limites do titulo judicial, como os diversos orçamentos para o serviço de reparação de seu veículo, os quais serviram apenas como parâmetro do preço do conserto realizado, apresentando, por esses motivos, o valor de R$ 22.875,94 para a expedição do ofício em discussão" (fl. 91e).
+Requer, ao final, o conhecimento e provimento do Recurso Especial.
+Contrarrazões apresentadas (fls. 95/102e).
+Negado seguimento ao Recurso Especial (fls. 119/120e), foi interposto o presente Agravo (fls. 123/130e). Contraminuta apresentada (fls. 133/135e).
+A irresignação não merece acolhimento.
+Em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1.360.762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+No mais, o acórdão recorrido está calcado nas seguintes razões de decidir:
+"Leitura atenta dos autos revela que o ora agravante - como ele próprio admite - foi citado com base no artigo 730 do Código de Processo Civil, porém quedou-se inerte, significa dizer, não opôs embargos, ensejando a decisão que em 21 de janeiro de 2008 deferiu o pedido de expedição de ofício requisitório (fls. 31/37).
+Somente por petição protocolizada após mais de dois anos, especificamente em 12 de abril de 2010, é que o executado informou ter apurado incorreções nos cálculos, postulando o cancelamento do precatório e sua retificação para que outro fosse expedido (fls. 38/39).
+Diante desse quadro, patente a ocorrência da preclusão temporal, como bem decidido:
+"Apesar de a Constituição Federal defender a primazia do interesse público em detrimento do particular, na hipótese dos autos eventual modificação da decisão de fls. 211, proferida em 21 de janeiro de 2008, configuraria verdadeira desconsideração da coisa julgada e do ato jurídico perfeito, princípios também encetados na Magna Carta e que são alicerces do Ordenamento Legal.
+Ao nos socorrermos do Código de Processo Civil, também se mostra inegável que já decorreu, de longa data, a preclusão do ato pretendido pela Fazenda Estadual.
+Reforçando tal conclusão, se considerarmos, analogicamente, a existência de eventual trânsito em julgado da decisão de fls. 211, este teria ocorrido em março de 2008, sendo que até mesmo o prazo para a Fazenda ajuizar Ação Rescisória já teria se findado, eis que a petição de fls. 217/220 foi protocolada em abril de 2010" (fls. 42).
+E nem mesmo socorre ao agravante o invocado artigo 1º-E da Lei Federal nº 9.494/97:
+"São passíveis de revisão, pelo Presidente do Tribunal, de ofício ou a requerimento das partes, as contas elaboradas para aferir o valor dos precatórios antes de seu pagamento pelo credor".
+É que, como anotado por THEOTONIO NEGRÃO, JOSÉ ROBERTO F. GOUVEÊA e LUIS GUILHERME A. BONDIOLI, "Códigio de Processo Civil e Legislação Processual em Vicior", 42ª ed., Saraiva, pág.1.889, nota nº 1 ao artigo 11 - E da Lei Federal nº 9.494/97:
+"A revisão das contas elaboradas para aferir o valor dos precatórios antes do seu pagamento ao credor, prevista no ar. 1º-E da Lei 9.494/97, tem caráter meramente administrativo, razão pela qual não pode alterar os parâmetros definidos no âmbito jurisdicional pelo juiz natural da causa, que é o juiz da execução" (STJ-1ª T., Resp nº 697.225, Ministro TEORI ZAVASCKI).
+3. Pelo exposto, nega-se provimento ao recurso" (fls. 59/61e).
+Assim, a análise quanto ao acerto da fundamentação do acórdão demandaria o reexame do conteúdo fático-probatório dos autos, o que encontra óbice no enunciado da Súmula 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Com efeito, é firme a jurisprudência desta Corte no sentido de que alterar as conclusões firmadas no acórdão recorrido, concernentes aos limites da coisa julgada, demandaria o revolvimento de matéria fático-probatória, o que esbarra no óbice da Súmula 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL. PREVIDENCIÁRIO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. EXECUÇÃO. LIMITES FIXADOS NO TÍTULO JUDICIAL TRANSITADO EM JULGADO. ALTERAÇÃO. IMPOSSIBILIDADE. COISA JULGADA. ÓBICE DA SÚMULA 7/STJ.
+1. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a colação de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+2. In casu, verifica-se que não foram respeitados tais requisitos legais e regimentais (art. 1.029, § 1º, do CPC/2015 e art. 255 do RI/STJ), o que impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal.
+3. É inviável alteração dos critérios e termos estabelecidos no título executivo judicial, por ocasião do cumprimento de sentença, sob pena de ofensa à coisa julgada (AgInt no AREsp 708.584/RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/8/2016, DJe 31/8/2016) .
+4. A revisão do entendimento alcançado pelo Tribunal a quo demandaria reincursão no contexto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+5. Recurso Especial do qual não se conhece" (STJ, REsp 1.659.711/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 16/06/2017).
+"PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. IRRESIGNAÇÃO. LIMITES DA COISA JULGADA. IMPOSSIBILIDADE DE EXAME. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A revisão do julgado, no ponto inerente as balizas levadas a efeito em feito anterior e aptas a se consubstanciaram como coisa julgada, bem como o exame dos limites substitutivos da apelação julgada naqueles autos, demandaria o revolvimento de premissas fáticas estabelecidas pelo Tribunal de origem, hipótese essa inviável em recurso especial. Incidência da Súmula 7 desta Corte.
+3. Agravo interno não provido" (STJ, AgInt no REsp 1.574.311/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 02/05/2017).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DETERMINAÇÃO DO TÍTULO JUDICIAL DE QUE A VERBA HONORÁRIA INCIDIRÁ SOBRE "O VALOR A SER APURADO". ALEGAÇÃO DE OFENSA À COISA JULGADA. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Impossível a revisão do julgado quanto ao entendimento proferido pela Corte estadual acerca da análise do dispositivo da sentença que estabeleceu a base de cálculo dos honorários advocatícios, se tal procedimento demanda o reexame do conjunto fático-probatório da causa. Incidência da Súmula n. 7 do STJ.
+2. "O dispositivo da sentença transitada em julgado é imutável, mas não dispensa uma interpretação conforme ao espírito do que foi decidido" (REsp n. 835.040/SP, Relator o Ministro Ari Pargendler, Terceira Turma, DJ de 7/8/2006).
+3. Agravo regimental a que se nega provimento" (STJ, AgRg no REsp 1.353.076/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 05/04/2016).
+"AGRAVO REGIMENTAL. AGRAVO. RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. INTERPRETAÇÃO. COISA JULGADA. REEXAME. SÚMULA N. 7-STJ. SALÁRIO. REMUNERAÇÃO. DIFERENÇA. DIREITO. ALEGAÇÃO. AUSÊNCIA. SÚMULA N. 284-STF. NÃO PROVIMENTO.
+1. O juízo não é obrigado a se manifestar sobre todos os argumentos levantados pelas partes, senão sobre aqueles essenciais à solução da controvérsia.
+2. Em regra, a interpretação das instâncias ordinárias acerca do título exequendo, ainda que judicial, não se submete ao crivo do recurso especial, por encontrar o óbice de que trata o enunciado n. 7, da Súmula.
+3. A ausência de indicação de dispositivo legal, ou da demonstração de divergência jurisprudencial, sobre determinada questão federal impede o conhecimento do recurso especial, no dizer do verbete n. 284 da Súmula do STF.
+4. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 10.737/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 22/03/2012).
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. INTERPRETAÇÃO DE TÍTULO EXECUTIVO JUDICIAL. AUSÊNCIA DE OFENSA À COISA JULGADA. INCIDÊNCIA DA SÚMULA 7/STJ.
+I - É possível interpretar o conteúdo do título executivo judicial sem que isto implique em ofensa a coisa julgada, devendo-se inclusive, conjugar a parte dispositiva com a fundamentação. Precedente.
+II - Rever a interpretação dada pelo e. Tribunal a quo ao conteúdo do título executivo judicial implica em revolver matéria fático probatória, procedimento vedado pela súmula 7 desta e. Corte Superior.
+Agravo regimental desprovido" (STJ, AgRg no REsp 1.015.470/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe de 04/08/2008).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Deixo de majorar os honorários recursais, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
