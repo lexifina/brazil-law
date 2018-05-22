@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 96):
+TRIBUTÁRIO. LEI 9933, DE 1999. TAXA DE SERVIÇOS METROLÓGICOS. BALANÇA INSTALADA EM FARMÁCIA PARA USO GRATUITO. PORTARIA Nº 266 DO INMETRO.
+A Portaria nº 266 ao estabelecer taxa de serviço no caso de instalação de balança para uso gratuito no interior de farmácia, extrapolou o contido na Lei 9933, de 1999. O uso gratuito de balança no interior de farmácia não acarreta pagamento de taxa de serviços metrológicos.
+Aclaratórios rejeitados (e-STJ fls. 114/117).
+No especial, o recorrente aponta violação dos arts. 1º, 3º, "b", "d", e "e", e 5º, todos da Lei n. 5.966/1973, bem como dos arts. 1º, 3º, I e II, 5º e 11, da Lei n. 9.933/1999. Sustenta que a legislação de regência confere à autarquia federal o direito de expedir atos normativos para regulamentar questões metrológicas, inclusive as atinentes às relações de consumo, sendo-lhe permitido a aferição dos instrumentos de pesagem de pessoas disponibilizados em farmácia.
+Defende, assim, que os estabelecimentos farmacêuticos estão sujeitos ao pagamento da taxa de serviço, ao INMETRO.
+Sem contrarrazões. Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 145.
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 163/165).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Na hipótese, a parte autora impetrou mandado de segurança pleiteando a nulidade de ato administrativo que ensejou a cobrança de Taxa de Serviços Metrológicos, em virtude da disponibilidade gratuita de balança em seu estabelecimento farmacêutico, tendo o Juiz de primeiro grau denegado a ordem.
+A Corte de origem, por sua vez. reformou a sentença e concedeu a segurança pleiteada, sob o seguinte fundamento (e-STJ fls. 93/94):
+Mérito
+A Lei 9933, de 1999, dispôs sobre a competência do Conmetro e do Inmetro, instituindo a Taxa de Serviços Metrológicos, nos seguintes termos:
+(..)
+A Portaria nº 266, de 2009, ao estabelecer que as balanças instaladas para pessoas interessadas em obter seu peso em farmácias está sujeita à fiscalização, extrapolou o contido na lei criando taxa sem amparo na lei.
+No caso a atividade desenvolvida no estabelecimento não exige o uso de balança, nem se trata de produto comercializado no estabelecimento ou cujo uso é cobrado. Trata-se de disponibilização de balanças por simples cortesia, oferecimento gratuito já consagrado pelo costume. Por isso, a regra que serve para proteger o consumidor não se aplica para a utilização destas balanças.
+Nesse sentido já se manifestou esta Corte, conforme os acórdãos assim ementados:
+(..)
+Ante o exposto, voto por dar provimento à apelação para conceder a segurança, condenando o INMETRO a restituição do valor despendido a título de custas.
+Verifica-se, pelo trecho transcrito, que o Tribunal de origem não afastou o poder regulamentar atribuído à autarquia federal, tendo reconhecido a ilegalidade da Portaria por ela expedida por disciplinar atividade não essencial ao funcionamento das farmácias e, em consequência, entendeu indevida a cobrança de Taxa de Serviços Metrológicos pelo fato desses estabelecimentos oferecerem balanças para o uso público.
+Com efeito, o entendimento sufragado pelo Tribunal a quo encontra-se em harmonia com a jurisprudência assentada nas Turmas que compõem a Primeira Seção desta Casa de Justiça, conforme se verifica pelos seguintes precedentes:
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. PODER DE POLÍCIA DO INMETRO. NULIDADE DO AUTO DE INFRAÇÃO. FARMÁCIA. FISCALIZAÇÃO DE BALANÇA PARA PESAGEM CORPORAL. CORTESIA DISPONIBILIZADA À CLIENTELA. AFERIÇÃO DESCABIDA. OFENSA À LEI FEDERAL INEXISTENTE.
+1. A jurisprudência do STJ firmou-se no sentido de que a Taxa de Serviços Metrológicos, decorrente do poder de polícia do INMETRO em aferir a regularidade de balanças, visa a preservar as relações de consumo, sendo imprescindível verificar se o equipamento objeto de aferição é essencial ou não à atividade desempenhada pela empresa. Precedentes.
+2. Por não se tratar de equipamento essencial ao funcionamento e às atividades econômicas das farmácias, as balanças utilizadas gratuitamente pelos clientes não se expõem à fiscalização periódica do Instituto Nacional de Metrologia, Normalização e Qualidade Industrial - INMETRO. Inteligência das Leis nº 5.966/73 e 9.933/99, e da Resolução nº 11/88.
+3. Recurso especial da autarquia a que se nega provimento. (REsp 1384205/SC, rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 12/03/2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO. INMETRO. TAXA DE SERVIÇOS METROLÓGICOS. FARMÁCIA. BALANÇA OFERECIDA COM CORTESIA AOS CLIENTES. DESCABIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que a Taxa de Serviços Metrológicos, decorrente do poder de polícia do Inmetro em fiscalizar a regularidade das balanças, visa preservar as relações de consumo, sendo desse modo imprescindível verificar se o equipamento objeto de aferição é essencial à atividade desempenhada pela empresa. Precedentes: RESP 1.283.133/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9.3.2012; AgRg no RESP 1.290.558/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, Dje 8.2.2013; e RESP 1.455.890/SC, Rel. Ministro Humberto Martins, Segunda Turma, DJe 15.8.2014.
+2. No caso concreto, o Tribunal de origem consignou que "trata-se a impetrante de estabelecimento comercial dedicado basicamente à venda de medicamentos (farmácia), atividade que para ser desenvolvida não exige o uso da balança. O equipamento, no caso, é oferecido como cortesia aos clientes, para seu uso particular, ou seja, o equipamento não é utilizado para quantificação da mercadoria comercializada, logo, não atinge a relação de consumo que ali se estabelece" (fl. 255, e-STJ).
+3. Agravo Regimental não provido. (AgRg no REsp 1465186/PR, rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 27/11/2014)
+Incide, assim, a Súmula 83 do Superior Tribunal de Justiça, aplicável tanto aos recursos interpostos com base na alínea "c" quanto com base na alínea "a" do permissivo constitucional, in verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Sem honorários recursais sucumbenciais (art. 85, § 11, do CPC/2015), à vista do Enunciado Administrativo n. 7 - STJ.
+Publique-se. Intimem-se.
