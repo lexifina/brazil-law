@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pela CONCESSIONÁRIA DE RODOVIAS DO NORTE S/A - ECONORTE contra decisão que inadmitiu o recurso especial por ela interposto, com fundamento no artigo 105, inciso III, alínea a, da Constituição da República, com o objetivo de reformar acórdão prolatado pelo Tribunal Regional Federal da 3ª Região, nos termos da seguinte ementa (fl. 182):
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. AGRAVO INTERNO. INTERESSADO. PEDIDO DE NÃO SUJEIÇÃO À TARIFA DE PEDÁGIO. VALOR DA CAUSA INFERIOR A SESSENTA SALÁRIOS MÍNIMOS. COMPETÊNCIA DO JUIZADO ESPECIAL FEDERAL. AGRAVO INTERNO DESPROVIDO.
+1. De início, recebo o recurso ante o interesse da agravante como parte na preservação da competência jurisdicional, a teor, inclusive, do que dispõe o artigo 951, do Código de Processo Civil.
+2. O autor da ação base busca, tão somente, a não sujeição ao pagamento de pedágio, dando à causa valor inferior a 60 (sessenta) salários mínimos.
+3. Apenas a causa de pedir perpassa pela eventual anulação de ato administrativo, o que, todavia, não desvirtua o escopo da demanda. O Juizado Especial Federal é competente para processar e julgar causas deste jaez.
+4. Agravo interno desprovido.
+Em suas razões recursais especiais a ECONORTE aponta violação, pelo acórdão recorrido, do art. 3º, § 1º, III, da Lei n. 10.259/2001, sob a alegação de incompetência do Juizado Especial Federal para o julgamento do feito, haja vista a complexidade da demanda que exigirá a análise do Contrato de Concessão n. 71/97 e de seu Termo Aditivo n. 34/02, além do Convênio de Delegação n. 02/96 e de seus respectivos termos aditivos, exame esse necessário à deliberação do pedido de isenção de pagamento de pedágio feito por particular.
+Não foram apresentadas contrarrazões e o recurso especial teve o seguimento negado pelo Tribunal a quo (fls. 259-261), tendo sido interposto o presente agravo.
+É o relatório. Decido.
+Considerando que a agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Com relação à alegada violação do art. 3º, § 1º, III, da Lei n. 10.259/2001, o Tribunal a quo, na fundamentação do decisum, assim firmou entendimento (fl. 176):
+ ..
+Vale salientar que a parte autora busca, tão somente, a não sujeição ao pagamento de pedágio, dando à causa valor inferior a 60 (sessenta) salários mínimos. Apenas a causa de pedir perpassa pela eventual anulação de ato administrativo, o que, todavia, não desvirtua o escopo da demanda.
+ ..
+Desse modo, verifica-se que a fundamentação do aresto vergastado está em consonância com a jurisprudência desta Corte, segundo a qual, não se tratando de causa destinada à anulação ou cancelamento de ato administrativo federal, é manifesta a competência do Juizado Especial Federal, não se aplicando, no caso, a exceção prevista art. 3º, § 1º, inciso III, da Lei n. 10.259/2001.
+Demais disso, tendo o Tribunal a quo, com base nos elementos fáticos dos autos, concluído que a parte autora, na inicial, busca tão somente a dispensa do pagamento de pedágio, não fazendo menção em seu pedido de anulação de ato administrativo, para se concluir de modo diverso, seria necessário o reexame do mesmo acervo documental já analisado, procedimento esse vedado por óbice da Súmula n. 7/STJ, que assim dispõe, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito, os seguintes julgados:
+PROCESSUAL CIVIL. ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO EM RECURSO ESPECIAL. CONFLITO DE COMPETÊNCIA. ART. 1º E 3º, §1º, III, DA LEI 10.259/01. ISENÇÃO DE PAGAMENTO DE PEDÁGIO. VALOR DA CAUSA INFERIOR A 60 SALÁRIOS MÍNIMOS. COMPETÊNCIA DO JUIZADO ESPECIAL. PRECEDENTES. SÚMULA 568/STJ. CONHEÇO DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+ ..
+No mérito, verifico que a recorrente pretende que seja reconhecida a necessidade de anulação ou cancelamento do ato administrativo que fundamenta o pedágio no qual a recorrida deseja isenção.
+Ao analisar o acórdão a quo, é notável que, no caso em questão, além de a demanda ter um valor inferior a 60 salários mínimos, trata-se de uma ação em que a recorrida, quando da petição inicial, pediu apenas o reconhecimento do direito de não se sujeitar à cobrança do pedágio. Destaca-se que não houve pedido de anulação ou cancelamento do ato administrativo em questão.
+Assim sendo, a questão de anulação ou cancelamento do ato administrativo há de ser vista apenas incidentalmente, ou seja, como causa de pedir. Não faz parte do pedido da autora a desconstituição do ato, e sim a não cobrança do pedágio. Isto posto, no caso em voga, é competente o Juizado Especial Federal de Ourinhos.
+ ..
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial (AREsp 1284390/SP, Relator Ministro MAURO CAMPBELL MARQUES, Julgamento em 03/05/2018, Dje 07/05/2018).
+PROCESSUAL CIVL. CONFLITO NEGATIVO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZO FEDERAL E JUIZADO ESPECIAL FEDERAL CÍVEL. COMPETÊNCIA DESTA E. CORTE. SÚMULA 428 DO STJ. AÇÃO INDIVIDUAL DE DISPENSA DE PAGAMENTO DE PEDÁGIO. INEXISTÊNCIA DE PEDIDO DE ANULAÇÃO DE ATO ADMINISTRATIVO. VALOR DA CAUSA INFERIOR A SESSENTA SALÁRIOS MÍNIMOS. COMPETÊNCIA DO JUIZADO ESPECIAL FEDERAL CÍVEL. PRECEDENTES DESTA 2ª SEÇÃO. CONFLITO PROCEDENTE.
+ ..
+No mais, a alteração do entendimento do Tribunal de origem, no sentido de que o pedido da inicial não residiria na anulação de ato administrativo, mas sim na pretensão de não sujeição ao pagamento de pedágio, ensejaria, inevitavelmente, a aferição da causa de pedir e do pedido, sendo necessário, para tanto, o reexame das provas carreadas nos autos, procedimento vedado, pela Súmula 7 desta Corte.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial (AREsp 1232197/Relator Ministra ASSUSETE MAGALHÃES, Julgamento em 07/02/2018, Dje 16/02/2018).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
