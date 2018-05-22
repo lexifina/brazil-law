@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Ordem dos Advogados do Brasil – Secção do Rio Grande do Sul interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quinta Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul, assim ementado:
+    “ADMINISTRATIVO. INSCRIÇÃO NA ORDEM DOS ADVOGADOS DO BRASIL. SERVIDOR PÚBLICO. TÉCNICO DO INSS. POSSIBILIDADE.
+    1 - Não há incompatibilidade no desempenho das atividades de Técnico do Seguro Social e da advocacia, devendo ser observado o impedimento legal previsto no art. 30, inciso I, da Lei n.º 8.904/94 (vedação ao exercício da advocacia contra a Fazenda Pública que o remunera ou à qual está vinculada a entidade empregadora);
+    2 - Inaplicabilidade do art. 28, inciso III, do Estatuto da Advocacia.”
+    No recurso extraordinário, sustenta-se violação do artigo 5º, caput e inciso I, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    Ademais, ainda que superado esse óbice, melhor sorte não socorreria a recorrente, uma vez que o acolhimento da pretensão recursal não prescinde da análise da legislação infraconstitucional pertinente (Lei nº 8.906/94 – Estatuto de Ordem dos Advogados do Brasil) e do reexame do conjunto fático-probatório constante dos autos, procedimentos vedados no âmbito recursal extraordinário. Incidência das Súmulas nºs 279 e 280 desta Suprema Corte. A propósito:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. INSCRIÇÃO NA OAB. REQUISITOS LEGAIS NÃO PREENCHIDOS. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULA 280/STF. 1. O exame do recurso extraordinário permite constatar que, de fato, a hipótese envolveria alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973.” (AI nº 769.865/SC-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 7/8/17).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) de seu total, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do citado artigo.
+    Publique-se.
+    Brasília, 22 de maio de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
