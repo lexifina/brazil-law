@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ADALZIRO DO AMARAL REGINALDO contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. [CPF]).
+Consta dos autos que o paciente foi preso preventivamente e denunciado pela suposta prática do delito previsto no art. 171 do Código Penal (estelionato).
+Inconformada, a defesa impetrou habeas corpus, com pedido liminar, perante a Corte estadual, alegando ausência dos requisitos autorizadores da medida extrema e ofensa ao princípio da proporcionalidade. O Tribunal impetrado, contudo, denegou a ordem, recebendo o acórdão a seguinte ementa (e-STJ fl. 245):
+HABEAS CORPUS. ESTELIONATO. PRISÃO PREVENTIVA. PACIENTE QUE OSTENTA SEIS CONDENAÇÕES CRIMINAIS TRANSITADAS EM JULGADO POR ESTELIONATO E APROPRIAÇÃO INDÉBITA E QUE COMETEU O PRESENTE DELITO ENQUANTO CUMPRIA PENA EM REGIME DOMICILIAR. A reiteração de condutas delitivas por parte do paciente, dá suporte à decretação da prisão preventiva com fundamento no artigo 312 do Código de Processo Penal e evidencia a total ineficácia de outras medidas cautelares diversas da prisão. ORDEM DENEGADA.
+Nesta impetração, a defesa alega que a própria vítima do estelionato (fls. 2v) na denúncia relata que o negócio não se concretizou em razão da não aprovação da ficha cadastral da vítima, e estava devolvendo o pagamento da entrada do negócio (e-STJ fl. 3).
+Defende, mais uma vez, a desnecessidade da prisão preventiva, argumentando que o paciente foi preso vários meses após a denúncia, sem qualquer notícia de cometimento de outros delitos (e-STJ fl. 2).
+Reitera haver desproporcionalidade da reprimenda preventiva em relação ao provimento final, tendo em vista que o estelionato tem pena baixa, de 1 a 5 anos, e mesmo com a possibilidade de agravamento pela reincidência, já teria tempo para progressão de regime, além de tratar-se de delito sem violência ou grave ameaça (e-STJ fls. 2/3).
+Ressalta, por fim, ser o acusado trabalhador, empresário e ter família constituída, podendo ser submetido a medidas cautelares diversas da prisão (e-STJ fls. 2/3).
+Diante disso, pede, em liminar e no mérito, a revogação da prisão preventiva do paciente.
+A liminar foi indeferida (e-STJ fls. 265/267) e o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, em parecer assim resumido (e-STJ fl. 271):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ESTELIONATO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MULTIRRENCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. DESPROPORCIONALIDADE DA CUSTÓDIA. INOCORRÊNCIA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER, EM PRELIMINAR, PELO NÃO CONHECIMENTO DO WRIT E, NO MÉRITO, PELA DENEGAÇÃO DA ORDEM.
+É o relatório, decido.
+Consoante informações colhidas do site do Tribunal de Justiça do Estado do Rio Grande do Sul, em 2/5/2018 a ação penal foi julgada procedente e o paciente condenado à pena de um 1 ano e 6 meses, no regime semiaberto, concedido o direito de recorrer em liberdade. Eis o dispositivo (Ação Penal n. 001/2.17.0060748-9):
+Sopesando as circunstâncias do art. 59 do Código Penal, fixo a pena-base em 01 (um) ano e 03 (três) meses de reclusão.
+Diante da agravante da reincidência, art. 61, inciso I, do CP (processo nº 001/2.13.0045817-6), aumento a pena em 03 (três) meses, restando provisoriamente fixada em 01 (um) ano e 06 (seis) meses de reclusão.
+Torno a pena definitiva no mesmo quantum - 01 (um) ano e 06 (seis) meses de reclusão - em razão da ausência de outras de modificação.
+A pena pecuniária vai fixada em 10 (dez) dias-multa, na razão de um trigésimo do salário-mínimo nacional vigente à época do fato, corrigida quando do pagamento.
+Iniciará o cumprimento da pena privativa de liberdade em regime semi-aberto, nos termos do art. 33, § 2º, "b", do CP, tendo em vista a reincidência. Todavia, efetuada a detração, de acordo com a alteração trazida pela Lei 12.736/12, que acrescentou o § 2º ao art. 387 do CPP, fixo o regime aberto para cumprimento de pena, tendo em vista que o denunciado encontra-se recolhido ao sistema prisional desde o dia 20/11/2017, ou seja, há mais de cinco meses, tendo cumprido o sexto de pena que lhe daria direito a progressão de regime. No ponto, não há descurar da informação de que exerce trabalho laboral, como cozinheiro da guarda, presumindo-se o bom comportamento.
+Outrossim, considerando a reincidência, incabível é a substituição por pena restritiva de direitos ou a concessão de sursis (art. 44 e 77 do Código Penal).
+Concedo ao condenado o direito apelar em liberdade, tendo em vista a pena e o regime aplicados.
+Expeça-se imediatamente alvará de soltura.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
