@@ -1,0 +1,64 @@
+EMENTA
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ALEGAÇÃO DE VIOLAÇÃO AO ART. 535, II, DO CPC/73. APRESENTAÇÃO GENÉRICA. INCIDÊNCIA DO ENUNCIADO SUMULAR N. 284/STF. DECISÃO QUE INTERPRETOU LEI LOCAL. INCIDÊNCIA DA SÚMULA N. 280/STF.
+I - Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+II - Em relação à alegada violação ao art. 535, II, do CPC/73, verifica-se que o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca das questões apresentadas nos embargos de declaração, o fazendo de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+III - A apresentação genérica de ofensa ao art. 535, II, do CPC/73 atrai o comando do enunciado sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal. Neste sentido: AgRg no AREsp 446.627/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 6/4/2017, DJe 17/4/2017.
+IV - O Tribunal a quo, para decidir a controvérsia, interpretou, conjuntamente com a legislação federal sobre o tema, legislação local, in casu, a Lei Estadual n. 7.517/03, o que implica na inviabilidade do recurso especial, a teor da Súmula n. 280/STF, por analogia, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário". Neste sentido: AgInt no AREsp 970.011/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/05/2017, DJe 24/05/2017; AgRg no AgRg nos EDcl no AREsp 4.111/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/10/2014, DJe 12/11/2014.
+V - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial interposto por ESTADO DA PARAÍBA, com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim ementado:
+APELAÇÃO CÍVEL E REMESSA OFICIAL. REPETIÇÃO DO INDÉBITO PREVIDENCIÁRIO C/C OBRIGAÇÃO DE NÃO FAZER. PROCEDÊNCIA PARCIAL. SUSPENSÃO E DEVOLUÇÃO DO MONTANTE DESCONTADO SOBRE O TERÇO DE FÉRIAS, HORAS EXTRAS, ADICIONAIS DE INSALUBRIDADE E NOTURNO E GRATIFICAÇÃO DE ATIVIDADES ESPECIAIS. IRRESIGNAÇÕES. PRELIMINAR DE ILEGITIMIDADE PASSIVA DO ESTADO DA PARAÍBA. REJEIÇÃO. INTELIGÊNCIA DAS SÚMULAS 48 E 49 DO TJPB. RECONHECIMENTO, PELO MESMO FUNDAMENTO, DA ILEGITIMIDADE PASSIVA PARCIAL DA PBPREV. RESPONSABILIDADE EXCLUSIVA DO ESTADO PELA SUSPENSÃO DOS DESCONTOS PREVIDENCIÁRIOS DE SERVIDOR EM ATIVIDADE. APELOS E REEXAME NECESSÁRIO. DESCONTO PREVIDENCIÁRIOS INDEVIDOS APENAS SOBRE O TERÇO DE FÉRIAS, SERVIÇOS EXTRAORDINÁRIOS E ADICIONAIS DE INSALUBRIDADE E NOTURNO. VERBAS EXCLUÍDAS DA COMPOSIÇÃO DA BASE DE CÁLCULO DA CONTRIBUIÇÃO PREVIDENCIÁRIA (ART. 40, § 3º, DA CF C/C O ART. 4º, § 1º, DA LEI Nº 10.887/2004). INAPLICABILIDADE DO ART. 1-F DA LEI Nº 9.494/97. ALTERAÇÃO DOS TERMOS INICIAIS E DO ÍNDICE DOS JUROS MORATÓRIOS E DA CORREÇÃO MONETÁRIA. SUCUMBÊNCIA RECÍPROCA RECONHECIDA. PROVIMENTO PARCIAL.
+- Nos termos da Súmula 48 do TJPB, o Estado da Paraíba e os Municípios, conforme o caso, e as autarquias responsáveis pelo gerenciamento do Regime Próprio de Previdência, têm legitimidade passiva quanto à obrigação de restituição de contribuição previdenciária recolhida por servidor público ativo ou inativo e por pensionista.
+- Segundo a Súmula 49 do TJPB, o Estado da Paraíba e os Municípios, conforme o caso, têm legitimidade passiva exclusiva quanto à obrigação de não fazer de abstenção de futuros descontos de contribuição previdenciária do servidor em atividade.
+- Consoante o art. 4º, § 1º, da Lei Federal nº 10.887/2004, entende-se como base de contribuição o vencimento do cargo efetivo, acrescido das vantagens pecuniárias permanentes estabelecidas em lei, os adicionais de caráter individual ou quaisquer outras vantagens, excluídas, entre outras, o terço de férias, as parcelas remuneratórias pagas em decorrência de local de trabalho e os adicionais noturno e por serviço extraordinário, não devendo, portanto, sobre tais verbas incidir o desconto previdenciário.
+- Os juros moratórios, na repetição do indébito tributário, são devidos a partir do trânsito em julgado da sentença (Súmula 188 do STJ).
+- A nova redação do art. 1º-F da Lei nº 9.494/97, imposta pela Lei nº 11.960/2009, não se aplica à repetição do indébito tributário, que deve seguir regramento próprio, fixado pelo Código Tributário Nacional (arts. 161, § 1º e 167), o qual, por ser legislação formalmente mais rígida, denominada CTN pelo Ato Complementar nº 36/1967, alterado pela Lei Complementar nº 118/2005, afasta a aplicação de qualquer lei ordinária com ele conflitante.
+- A correção monetária deve incorrer a partir do recolhimento indevido (súmula 162 do STJ) e em percentual equivalente ao que incide sobre débitos tributários estaduais pagos com atraso.
+- Se cada litigante for em parte vencedor e vencido, serão recíproca e proporcionalmente distribuídas e compensadas entre eles a verba advocatícia e as despesas.
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial, o recorrente aponta violação do art. 535, II, do CPC/73, ao argumento de que, mesmo instado a tanto, o Tribunal de origem deixou de se se manifestar acerca de dispositivos legais que o Recorrente objetivava ver prequestionados.
+Sustenta, ainda, que há ofensa aos arts. 111, II, e 176 do CTN; e 4º da Lei nº 10.887/04, defendendo que:
+Assim sendo, não se pode utilizar como parâmetro de isenção de contribuição previdenciária de servidor público estadual uma norma aplicável tão somente aos servidores públicos federais, sob pena de violação ao art. 151, inciso III, da Constituição da República. Por conseguinte, o art. 4.º da Lei n.º 10.887/2004, como norma exclusivamente federal, não pode ser invocada para efeito de aplicação de isenção previdenciária estadual, dada a proibição de isenção heterônoma. (fl. 267)
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no artigo 255, § 4º, I, do RI/STJ não conheço do recurso especial".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+Em relação à alegada violação ao art. 535, II, do CPC/73, verifica-se que o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca das questões apresentadas nos embargos de declaração, o fazendo de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+Nesse panorama, a apresentação genérica de ofensa ao art. 535, II, do CPC/73 atrai o comando do enunciado sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal.
+Sobre o assunto, confiram-se:
+ADMINISTRATIVO. REDIRECIONAMENTO DE EXECUÇÃO FISCAL DE NATUREZA NÃO TRIBUTÁRIA. DISSOLUÇÃO IRREGULAR NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF.
+I - Não se conhece do recurso especial com alegação genérica de violação do art. 535 do Código de Processo Civil de 1973. Incidência do enunciado n. 284 da Súmula do STF. Necessidade de reexame de fatos e provas para modificar o entendimento do Tribunal de origem quanto à regularidade da dissolução da sociedade empresária.
+Incidência do enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp 962.465/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 6/4/2017, DJe 19/4/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CSLL. MAJORAÇÃO DE ALÍQUOTA. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. Quanto à elevação da alíquota da CSLL, o aresto recorrido está em conformidade com a jurisprudência deste Tribunal Superior, que considera que a Instrução Normativa n. 81/99 não desbordou dos limites da MP 1.807/99.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp 446.627/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 6/4/2017, DJe 17/4/2017).
+O Tribunal a quo, para decidir a controvérsia, interpretou, conjuntamente com a legislação federal sobre o tema, legislação local, in casu, a Lei Estadual n. 7.517/03, o que implica na inviabilidade do recurso especial, a teor da Súmula n. 280/STF, por analogia, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse diapasão, confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSTALAÇÃO DE ESTAÇÃO DE RÁDIO-BASE DE TELEFONIA. AUSÊNCIA DE AUTORIZAÇÃO MUNICIPAL. LEI MUNICIPAL 13.756/04 E DECRETO MUNICIPAL 44.944/04. MATÉRIA DE DIREITO LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 26/08/2016, que, por sua vez, julgara recurso interposto contra decisão publicada na vigência do CPC/73.
+II. Segundo consta do acórdão recorrido, a "Prefeitura Municipal de São Paulo propôs ação demolitória, em face da Tim Celular S/A, perante o Juízo da 7ª Vara da Fazenda Pública da Comarca da Capital, objetivando a remoção da estação de rádio base instalada irregularmente, em razão de o equipamento estar em funcionamento sem prévio licenciamento urbanístico". O Tribunal de origem manteve a sentença de procedência.
+III. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em leis locais (Lei municipal 13.756/04 e Decreto municipal 44.944/04). Assim, torna-se inviável, em Recurso Especial, o exame da matéria nele inserida, diante da incidência, por analogia, da Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário". Nesse sentido: STJ, AgRg no AREsp 709.574/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/09/2015; REsp 1.455.034/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/04/2015.
+IV. Agravo interno improvido.
+(AgInt no AREsp 970.011/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/05/2017, DJe 24/05/2017)
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. MUNICÍPIO DE SÃO PAULO. REAJUSTES REMUNERATÓRIOS. LEIS MUNICIPAIS. INCIDÊNCIA. MATÉRIA LOCAL. SÚMULA 280/STF.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.217.076/SP, representativo de controvérsia repetitiva, firmou o entendimento de que "A discussão, na fase de liquidação, a respeito dos supervenientes reajustes concedidos pela legislação municipal (Lei 12.397/97) e seus reflexos no cálculo do percentual devido e no cumprimento da condenação imposta envolve exclusivamente interpretação e aplicação de direito local, insuscetível de reexame por recurso especial. Aplicação, por analogia, da Súmula 280 do STF" (Rel. Min. Teori Albino Zavascki, DJe 14/10/11).
+2. Agravo Regimental não provido.
+(AgRg no AgRg nos EDcl no AREsp 4.111/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/10/2014, DJe 12/11/2014)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
