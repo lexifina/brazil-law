@@ -1,0 +1,51 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ART. 525 DO CPC/1973. AUSENTE IRREGULARIDADES FORMAIS DO AGRAVO. SÚMULA 7/STJ. AGRAVO DA ADUFMS A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pela ADUFMS - SEÇÃO SINDICAL DA ANDES SINDICATO NACIONAL e outros, com fundamento na alínea a do art. 105, III da Constituição Federal, que objetiva a reforma do acórdão proferido pelo TRF 3a. Região, assim ementado:
+PROCESSUAL- CIVIL. AGRAVO DE INSTRUMENTO. PRECATÓRIO. REQUISIÇÃO DE PAGAMENTO DE PEQUENO VALOR. OFÍCIO REQUISITÓRIO JÁ EXPEDIDO. JUROS DE MORA. LITIGÂNCIA DE MÁ-FÉ.
+1. Embora a ausência de intimação da parte contrária para se manifestar sobre o cálculo de atualização do débito, que instruiu os ofícios requisitórios, possa violar o direito ao contraditório e à ampla defesa, no caso em exame, não se justifica o cancelamento do Oficio requisitório expedido com base nos valores incontroversos apresentados pela agravante, em homenagem ao princípio da celeridade, de economia processual e a natureza alimentar do crédito.
+2. Os juros moratórios devem ser excluídos deste oficio requisitório, pois tais valores se mostram controvertidos à vista da impugnação da agravante que deverá ser dirimida pelo Juízo a quo.
+3. Atualização Monetária a ser realizada pelo Setor de Precatórios deste Tribunal.
+4. Preliminares aventadas referem-se à irregularidades formais da demanda, que, no presente caso, não gerou prejuízo às partes, pois o agravo está instruído com as peças obrigatórias, bem como com aquelas facultativas reputadas essenciais à compreensão da controvérsia, atendendo ao disposto no art. 525 do Código de Processo Civil.
+5. Argüição de preliminares em contraminuta de agravo não configura litigância de má-fé quando não se evidencia escopo doloso, mas mero exercício de direito de defesa, ainda que baseado em argumentos considerados improcedentes pelo Tribunal. Descabimento de multa por litigância de má-fé.
+6. Agravo de Instrumento provido para prosseguimento da execução pelos valores incontroversos (fls. 146/147).
+3. Nas razões do Apelo Nobre, a parte recorrente aponta violação dos arts. 535, I, e 525 do CPC/1973, asseverando que o Agravo deve ser extinto pelo fato de o mesmo não atender aos requisitos, ante a ausência de Procuração.
+4. Com contrarrazões (fls. 187/190), o recurso fora inadmitido na origem (fls. 192/194).
+5. É o relatório.
+6. O recurso não merece prosperar.
+7. Inicialmente, cumpre asseverar que não há a apontada contrariedade aos arts. 535, I, do CPC/1973, tendo em vista que a lide foi solvida nos limites necessários, com a devida fundamentação e coerência, ainda que sob ótica diversa da almejada pela parte agravante. O Tribunal de origem apreciou, fundamentadamente, a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Ademais, julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+8. No mais, a jurisprudência desta Corte é pacífica ao afirmar que não apenas a fiscalização quanto à montagem do Agravo, mas a sua própria formação é responsabilidade do Agravante, que deve providenciar os traslados, conferi-los e, só então, interpor o recurso. A ausência de qualquer das peças indispensáveis à formação do instrumento inviabiliza sua apreciação. E que a ausência das peças obrigatórias de que trata o art. 525 do CPC/1973 importa o não conhecimento do recurso, inadmitida sua juntada ulterior. Nesse sentido:
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DA CÓPIA DA PROCURAÇÃO OUTORGADA PELA AGRAVADA. FORMAÇÃO DEFICIENTE. DECISÃO AGRAVADA QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Na espécie, constatada a ausência da cópia da procuração outorgada pela parte agravada, a Presidência do STJ não conheceu do agravo de instrumento por formação deficiente do instrumento.
+2. A remansosa jurisprudência do STJ, com amparo na legislação processual, não deixa dúvidas: é dever do agravante instruir o agravo de instrumento com cópias legíveis das peças obrigatórias e essenciais ao conhecimento do recurso e ao deslinde da controvérsia, em consonância com o disposto no art. 544, § 1º, do CPC. A falta ou a juntada de cópia ilegível de qualquer dessas peças acarreta o não conhecimento do recurso.
+3. A parte agravante, em seu arrazoado, não deduz argumentação jurídica nova alguma capaz de alterar a decisão ora agravada, que se mantém, na íntegra, por seus próprios fundamentos.
+4. Pedido de reconsideração recebido como agravo regimental.
+5. Agravo regimental não provido (RCDESP no Ag. 1.412.945/RS, Rel. Min. RAUL ARAÚJO, DJe 25.6.2013).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PEÇA OBRIGATÓRIA. ART. 525, I, DO CPC. NÃO CONHECIMENTO.
+I - A jurisprudência desta Corte considera deficiente a fundamentação do recurso que não aponta o dispositivo de lei federal violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula 284 do Supremo Tribunal Federal.
+II - O agravo de instrumento previsto no art. 522 e seguintes do Código de Processo Civil deve ser instruído com as peças obrigatórias previstas no art. 525, I, do Código de Processo Civil, sob pena de não conhecimento do recurso, devendo ser comprovada mediante certidão emitida pelo órgão competente eventual ausência da peça nos autos principais. Precedentes.
+III - Compete ao agravante zelar pela correta formação do instrumento de agravo.
+IV - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+V - Agravo Regimental improvido (AgRg no REsp. 1.365.477/MS, Rel. Min. REGINA HELENA COSTA, DJe 4.2.2016).
+
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. ART. 525, I, DO CPC. AUSÊNCIA DE PEÇA OBRIGATÓRIA. CÓPIA DA DECISÃO AGRAVADA E CERTIDÃO DA RESPECTIVA INTIMAÇÃO. DEFICIÊNCIA DE FORMAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. APLICAÇÃO EM CASO QUE DEMANDA REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A juntada das peças obrigatórias previstas no art. 525, I, do CPC é indispensável para o conhecimento do Agravo, competindo à parte zelar pela correta formação do instrumento.
+2. O acolhimento da pretensão recursal, mormente quanto à verificação da existência ou não da cópia da decisão agravada, demanda o reexame do contexto fático-probatório, o que não se admite ante o óbice da Súmula 7/STJ.
+3. A divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Ressalta-se ainda que o óbice da Súmula 7 do STJ é aplicável também ao Recurso Especial interposto com fundamento na alínea c do inciso III do artigo 105 da Constituição da República.
+4. Agravo Regimental não provido (AgRg nos EDcl no AREsp. 679.771/RO, Rel. Min. HERMAN BENJAMIN, DJe 10.9.2015).
+
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. ART. 525, I, CPC. AUSÊNCIA DE PEÇA OBRIGATÓRIA. PROCURAÇÃO DO AGRAVADO. NÃO CONHECIMENTO DO RECURSO. FALTA DE PREQUESTIONAMENTO. ART. 249, § 1º, DO CPC. SÚMULA 282/STF. PROVIDÊNCIA. ART 13 DO CPC. INAPLICABILIDADE.
+1. A jurisprudência desta Corte é firme no sentido de não se conhecer do agravo de instrumento interposto sem a procuração do advogado do agravado, peça obrigatória nos termos do art. 525, I, do CPC.
+2. Esta Corte já pacificou o entendimento de que é dever do recorrente comprovar, no instante da interposição do recurso, que os pressupostos de admissibilidade foram atendidos, sob pena de preclusão consumativa.
+3. Se o conteúdo normativo do dispositivo apontado no recurso não foi objeto de debate pelas instâncias ordinárias, tem incidência o enunciado da Súmula 282/STF.
+4. A providência do art. 13 do CPC é cabível na hipótese da irregularidade na representação ocorrer em sede de recurso de apelação.
+5. Agravo regimental não provido (AgRg no AREsp. 99.576/DF, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe 25.9.2014).
+
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PEÇA OBRIGATÓRIA (CPC, ART. 525, I). DECISÃO AGRAVADA E CERTIDÃO DE SUA INTIMAÇÃO. AUSÊNCIA. NÃO CONHECIMENTO. VERIFICAÇÃO DA TEMPESTIVIDADE. OUTROS MEIOS. PRECEDENTES.
+1. O acórdão recorrido foi proferido em consonância com a jurisprudência desta Corte, segundo a qual o agravo de instrumento previsto no art. 522 do CPC pressupõe a juntada das peças obrigatórias (CPC, art. 525, I), de modo que a ausência de quaisquer delas obsta o conhecimento do agravo.
+2. A juntada da certidão de intimação da decisão agravada tem por finalidade a verificação da tempestividade recursal, de modo que a obrigatoriedade de seu traslado pode ser dispensada quando, por outros meios, seja possível a análise do referido pressuposto recursal, o que não ocorre no caso dos autos. Precedentes.
+3. Todavia, é inviável averiguar, em sede de recurso especial, a existência de outro meio possível para comprovar a tempestividade recursal, mormente porque o juízo a quo, ao debruçar-se sobre o conjunto fático-probatório dos autos, entendeu o contrário. Incide na hipótese a Súmula 7 do STJ.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 369.547/SC, Rel. Min. RAUL ARAÚJO, DJe 11.12.2013).
+10. Contudo, no caso, o Tribunal de origem consignou que a agravante trouxe cópia integral dos autos originários, bem como certidão dando conta da inexistência de procuração conferida pela ADUMS - Seção Sindical da Andes Sindicato Nacional, ou mesmo pelos substituidos processuais, a seus patronos, de modo que se irregularidade há em virtude da ausência do instrumento de procuração, tal fato é imputável exclusivamente aos agravados, que, por óbvio, não podem se beneficiar da própria omissão (fls. 141). Alterar esse entendimento esbarra na Súmula 7/STJ,
+11. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial da ADUFMS - SEÇÃO SINDICAL DA ANDES SINDICATO NACIONAL e outros.
+12. Publique-se. Intimações necessárias.
