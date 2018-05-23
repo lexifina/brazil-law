@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto a improcedência do pedido de restabelecimento de pensão por morte. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação do artigo 24, inciso XI, § 4º, da Constituição Federal. Tece considerações sobre a legislação de regência. Insiste no direito pleiteado, afirmando preenchidos os requisitos pertinentes ao benefício pleiteado.
+    2. De início, quanto à evocação do enquadramento do extraordinário na alínea d do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco da agravante, uma vez que não se julgou válida lei local contestada em face de lei federal. Incabível o recurso, no particular.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão os seguintes trechos:
+    Importante destacar, ademais, que a hipótese é de invalidade e não mera revogação do ato administrativo concessivo da pensão, em virtude de mudança de interpretação.
+    […]
+    No caso concreto, o benefício foi concedido desde maio/2007 (fls. 21), realizada a suspensão por força de procedimento administrativo (que respeitou o contraditório e a ampla defesa) instaurado em 2013 (fls. 59/70), isto é, tudo ocorreu após a alteração constitucional e legislação federal (EC 20/98 e Lei nº 9.717/98), respeitado o prazo previsto pelo no art. 10, I, da Lei Estadual nº 10.177/98; não há comprovação das condições legais autorizadoras do benefício, assim, deve ser mantido o cancelamento, tal como concluído pelo sentenciante.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que, da leitura da decisão impugnada mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de análise conferida a normas locais. Procedeu à interpretação das Leis Complementares estaduais nº 180/78, nº 1.012/97, nº 1.102/07, e da Lei Ordinária estadual nº 10.177/98. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo.
+    3. Ante o quadro, conheço do agravo e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 1.000,00 (mil reais), fixo os honorários recursais no patamar de R$ 500,00 (quinhentos reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos  honorários, caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 23 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
