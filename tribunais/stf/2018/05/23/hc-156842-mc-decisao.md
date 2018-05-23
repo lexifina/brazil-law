@@ -1,0 +1,19 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Vara do Plantão da Comarca de Piracicaba/SP, no processo nº 0001398-38.2017.8.26.0599, converteu em preventiva a prisão em flagrante do paciente, ocorrida no dia 19 de novembro de 2017, ante a suposta prática da infração descrita no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Destacou presentes prova da materialidade e indícios de autoria do delito, reportando-se à apreensão, na residência e na oficina do paciente, de 52 porções de cocaína, 1 tijolo de maconha e uma balança de precisão. Frisou indispensável a constrição para garantir a ordem pública, aludindo à gravidade do crime, ao sentimento de impunidade, à necessidade de resguardar o meio social e aos malefícios do tráfico para a sociedade. Afastou a viabilidade de medida cautelar diversa, tendo-a como insuficiente. Pedido de liberdade provisória não foi acolhido pelo Juízo da Segunda Vara Criminal da Comarca de Piracicaba/SP.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 448.195/SP, indeferido liminarmente pelo Relator.
+    O impetrante sustenta o excesso de prazo da custódia, aduzindo inexistir previsão de encerramento da instrução. Aponta encontrar-se o processo-crime suspenso desde fevereiro de 2018, em virtude da realização de exame pericial agendado para 4 de junho próximo. Sublinha a possibilidade de imposição de medida versada no artigo 319 do Código de Processo Penal.
+    Requer, no campo precário e efêmero, a revogação da preventiva e, sucessivamente, a aplicação de cautelar diversa. No mérito, busca a confirmação da providência.
+    Em consulta ao sítio do Tribunal de Justiça, no dia 21 de maio de 2018, verificou-se a ocorrência de audiência de interrogatório em 15 de março último, estando o processo-crime aguardando a feitura de exame pericial psiquiátrico, marcado para 4 de junho próximo.
+    A etapa é de apreciação da medida acauteladora.
+    2. A prisão em flagrante bem assim a gradação do tráfico de drogas, considerada a quantidade e a natureza dos entorpecentes encontrados – 1 tijolo de maconha e 52 porções de cocaína –, além de balança de precisão, revelam estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a custódia se impunha, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Ocorre que o paciente está preso, sem culpa formada, há 6 meses e 4 dias. Surge o excesso de prazo tendo em vista a constrição provisória e o estágio do processo-crime, porquanto sequer encerrada a instrução criminal. Privar da liberdade, por tempo desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do ato mediante o qual implementada, em execução antecipada de sanção, ignorando-se garantia constitucional.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da prisão preventiva formalizada no processo nº 0001398-38.2017.8.26.0599, da Segunda Vara Criminal da Comarca de Piracicaba/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar possível transferência e de adotar a postura que se aguarda do homem integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 23 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
