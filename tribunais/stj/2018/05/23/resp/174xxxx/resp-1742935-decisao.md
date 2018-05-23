@@ -1,0 +1,15 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL. CLÁUSULA CONVENCIONAL SOBRE DESPESAS CONDOMINIAIS. VALOR PROPORCIONAL À FRAÇÃO IDEAL DO IMÓVEL. ART. 1.136, I, DO CC/2002. ALEGAÇÃO DE VIOLAÇÃO DA VEDAÇÃO DO ENRIQUECIMENTO ILÍCITO E PRINCÍPIOS QUE NORTEIAM AS RELAÇÕES CONTRATUAIS. AGRAVO CONHECIDO. REAUTUAÇÃO COMO RECURSO ESPECIAL.
+DECISÃO
+LIGIA MARIA ABRAMIDES TESTA (LIGIA) promoveu contra CONDOMÍNIO EDIFÍCIO LAGE DE PEDRA (CONDOMÍNIO) ação revisional de cláusula convencional. Alegou onerosidade excessiva no valor que lhe é cobrado a título de despesas condominiais, uma vez que embora tenha acesso aos mesmos serviços que os demais condôminos, paga em dobro porque a convenção prevê que o rateio deve ser proporcional à fração ideal de cada imóvel, e no seu caso, a sua unidade é maior que as demais.
+O pedido foi julgado improcedente (e-STJ, fls. 183/184).
+LIGIA apelou e o Tribunal de Justiça do Estado de São Paulo não deu provimento ao recurso em acórdão assim ementado:
+DIVISÃO DE DESPESAS CONDOMINIAIS. AÇÃO DECLARATÓRIA DE REVISÃO DE CLÁUSULA CONVENCIONAL. Em havendo elementos suficientes para a formação da convicção do julgador o julgamento no estado é imperativo, não se podendo falar em cerceamento de defesa. Cobrança de acordo com área da unidade condominial. Unidade que paga o dobro do valor cobrado da menor unidade condominial. Acréscimo razoável que não viola o princípio da isonomia. Soberania da convenção condominial, que reflete a vontade majoritária da coletividade, obediente à lei. Inteligência do art. 1336, I do CC. Recurso desprovido (e-STJ, fl. 247).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 270/273).
+Inconformada, LIGIA interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, por violação dos arts. 1.022 do NCPC; e 422; 421; 884; 1.336, I; e 2.035 do CC/2002. Aduziu, em síntese, nulidade do acórdão recorrido, por omissão da Corte de origem na apreciação das teses jurídicas apresentadas no recurso; que a cláusula sobre as despesas condominiais não pode ser analisada apenas de acordo com o comando literal do art. 1.336, I, do CC/2002, mas à luz de outros princípios, tais como o da vedação do enriquecimento ilícito, da boa-fé, da isonomia, do equilíbrio contratual, e da função social do contrato, entre outros; e que a soberania da convenção condominial não pode ser oposta a princípios gerais de direito consagrados, devendo ser declarada ilegal a cláusula em questão (e-STJ, fls. 253/262).
+Em juízo de admissibilidade, presidência da Seção de Direito Privado do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta apresentada (e-STJ, fls. 309/315).
+É o relatório.
+DECIDO.
+Para melhor exame da controvérsia, CONHEÇO do agravo para DETERMINAR A SUA AUTUAÇÃO COMO RECURSO ESPECIAL, nos termos do art. 253, inciso II, alínea d, do RISTJ (com a redação dada pela Emenda Regimental nº 16, de 2014).
+Publique-se. Intimem-se.
