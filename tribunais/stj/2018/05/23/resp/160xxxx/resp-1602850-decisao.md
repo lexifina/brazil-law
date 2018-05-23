@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão proferido pelo TJSP, assim ementado (e-STJ fl. 490):
+Prestação de serviços. Ensino superior. Curso oferecido pela Requerida que perdera a certificação da FGV.
+Circunstância da qual teve ciência o Autor que, inobstante, seguiu frequentando as aulas até a obtenção do grau de bacharelato. Danos morais e materiais ausentes.
+Improcedência mantida. Recurso negado.
+Nas razões do recurso especial (e-STJ fls. 494/510), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente alega ofensa aos arts. 20 e 27 do CDC porque existiu dano moral a ser indenizado, uma vez que resta comprovado nos autos a frustração da legitima expectativa do recorrente em receber o diploma da ETEP e com certificação da FGV, objeto do contrato com a instituição de ensino superior. Ademais, assevera ser aplicável o prazo prescricional de 5 (cinco) anos.
+Juízo de admissibilidade positivo (e-STJ fls. 591/593).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A respeito da alegada existência de dano pelo vício do serviço, alega o recorrente que (e-STJ fls. 501/503):
+Comprovado nos autos, o Recorrente não concordou com o encerramento da parceria, e a Recorrida tinha ciência que seria exigido a reparação dos danos, sendo assim, falta o requisito exigido para aplicação da "supressio", qual seja, a expectativa legitima que o Recorrente não criou na Recorrida.
+Pois, o fato que levou a continuar no curso na Recorrida resta exaustivamente nos autos, ou seja, existia também a obrigação da Recorrida lhe entregar um segundo objeto da obrigação contratual, qual seja, o diploma ETEP no final do curso, além da Certificação FGV não entregue.
+(..)
+Aduziu o Recorrente nos autos do recurso de apelação que o diploma da ETEP e Certificação FGV, essa não entregue por decisão unilateral da Recorrida, haja vista que não houve concordância dos alunos/Apelante do encerramento da parceria FGV.
+Portanto, a conclusão do curso objetivava também o recebimento do diploma da ETEP, além da certificação, motivo justo pelo qual o Recorrente continuou frequentando o curso na Recorrida.
+Como não houve substituição e nem alteração contratual por parte do Recorrente, não aplica no presente caso a "supressio", sendo que o fato da Recorrida ter lhe entregue o diploma ETEP não retira o direito de exigir a reparação pela Certificação FGV não entregue. (Grifei.)
+Acerca da questão, assim esclareceu a Turma julgadora (e-STJ fl. 491):
+Restou incontroverso nos autos que o Autor, inicialmente matriculado na Univap, procedera sua transferência para a instituição ré, justamente porque o curso de Administração que esta oferecia era certificado pela Fundação Getúlio Vargas, circunstância que acresceria valor ao diploma obtido.
+Igualmente inconteste, porque confessado na inicial, que a Requerida informara todos os alunos a respeito da perda da parceria com a FGV no ano de 2009.
+Inobstante, o Autor permanecera matriculado no curso oferecido sabendo que não obteria a certificação -, tanto que da Requerida obteve o grau de bacharelato em 31/07/2012 (fls. 41).
+Nesse passo, muito embora seja inegável que a perda da certificação motivo determinante para que ele se matriculasse na instituição ré -, tenha dado azo a inegável frustração, esse fato, por si só, não se revela suficiente para a procedência da ação.
+É que o Autor, embora ciente, desde 2009, de que não mais lograria obter a certificação pela FGV, optara em permanecer vinculado à Requerida, não havendo nos autos notícia de que tenha se insurgido contra a perda da parceria.
+Com essa atitude, demonstrou que a frustração experimentada não teve o condão de avançar em sua esfera moral, eis que, repise-se, em nenhum momento se insurgira contra aquela perda, pelo contrário, permanecera inerte, frequentando normalmente as aulas até obter o grau de bacharelato. (Grifei.)
+Embora alegue o recorrente estar comprovado que não concordou com o encerramento da parceria com a FGV, destaco que a Turma julgadora, a título de fundamentação, concluiu que o autor não se insurgiu anteriormente contra a perda da parceria da instituição de ensino com a FGV, do qual tinha conhecimento 3 anos antes de se graduar. Com efeito, decidir de forma diversa demandaria o reexame de provas, o que é inviável em recurso especial, de acordo com a Súmula n. 7 do STJ.
+Sobre a prescrição e a frustração por não ter recebido diploma da ETEP, não houve discussão no acórdão. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento. Há, portanto, a incidência das Súmulas n. 282 e 356 do STF.
+Acerca do dissídio, a jurisprudência desta Corte está sedimentada no sentido de que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração do dissídio mediante o cotejo analítico dos acórdãos recorrido e paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados.
+Sob esse aspecto, confira-se o seguinte julgado da Corte Especial em hipótese análoga:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+(..)
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(AgRg no REsp 1.346.588/DF, Relator Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/3/2014 - grifos nossos.)
+Na hipótese dos autos, o recorrente não particularizou o dispositivo de lei sob o qual recairia a divergência, além de não ter realizado o cotejo analítico entre os arestos confrontados, nos termos dos arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC. Em tal circunstância, aplica-se, ao caso, a Súmula n. 284 do STF, tendo em vista a deficiência na fundamentação recursal.
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
