@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de recurso especial interposto por WELLINGTON MARTINS DE SOUZA, com fulcro no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - DESCLASSIFICAÇÃO DO DELITO DE TRÁFICO DE DROGAS PARA O CRIME DO ARTIGO 28 DA LEI 11.343/06 - NÃO CABIMENTO - PRIVILÉGIO - REINCIDÊNCIA - INVIABILIDADE. 1. A apreensão de drogas na residência do acusado prontas para o comércio, aliada ao fato que ele confessou que estaria guardando os entorpecentes para possível escambo, comprovam a finalidade mercantil da substância apreendida, impondo-se a manutenção de sua condenação pelo crime de tráfico de drogas. 2. Não é possível a desclassificação do delito de tráfico de drogas para o crime do artigo 28, da Lei 11.343/06, quando demonstrado que o acusado guardava drogas para fins comerciais. 3. Se o réu é reincidente não faz jus ao privilégio do § 4º do artigo 33 da Lei de Drogas." (e-STJ, fl. 186).
+A defesa aduz negativa de vigência do art. 65, III, "d", do Código Penal. Para tanto, alega que "não contesta a dinâmica dos fatos, mas sim, os critérios jurídicos utilizados para a aplicação da pena, visto que o egrégio Tribunal de Justiça de Minas Gerais NÃO reconheceu a atenuante da confissão, muito embora tenha utilizado as declarações do réu no fundamento do decisum, declarando, inclusive, que "o réu afirmou que a acusação é verdadeira"" (e-STJ, fl. 216).
+Sustenta que, no caso, houve confissão parcial, a qual foi utilizada na fundamentação do édito condenatório.
+Requer, assim, o provimento do recurso para que seja reconhecida e aplicada a atenuante da confissão espontânea.
+Contrarrazões apresentadas (e-STJ, fls. 224-227).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ, fls. 243-246).
+É o relatório.
+Decido.
+Razão assiste à defesa.
+O Tribunal de origem deixou de aplicar a atenuante da confissão sob a seguinte motivação:
+"Trata-se de apelação interposta por WELLINGTON MARTINS DE SOUZA contra a sentença de fls. 80/83-v, que julgou procedente a denúncia, condenando-o como incurso nas sanções do artigo 33, caput, da Lei 11.343/06, às penas de 6 (seis) anos e 9 (nove) meses e 20 (vinte) dias de reclusão, em regime fechado, e 680 (oitocentos e oitenta e seis) dias -multa, no valor mínimo legal.
+Narra a denúncia que, no dia 20/04/2016, por volta de 13:30 horas, na Rua [NOME] [NOME] Ferreira, nº 57, Bairro São Geraldo, em Pouso Alegre/MG, o denunciado WELLINGTON MARTINS DE SOUZA foi surpreendido por policiais miliares e preso em flagrante delito, porque mantinha em depósito, para fins de tráfico, 34 (trinta e quatro) pinos, contendo cocaína, pesando, aproximadamente, 45 (quarenta e cinco) gramas.
+Consta que, na data e hora acima mencionadas, policiais militares foram informados de que o denunciado, foragido da APAC de Pouso Alegre/MG, estaria morando com sua genitora, na rua [NOME], nº 57, no Bairro São Geraldo, e que estaria praticando enorme gama de crimes contra o patrimônio, notadamente, nos bairros Foch e Árvore Grande.
+Consta, ainda, que, diante de tais informações, os policiais se dirigiram para a residência do denunciado, ocasião em que, após franqueada a entrada, lograram êxito em encontrar, dentro de um vaso de plantas, 34 (trinta e quatro) pinos de cocaína, prontos para a imediata venda.
+Apurou-se que, já na Delegacia de Polícia, formalmente inquirido, o denunciado confessou a prática delituosa.
+Assim, WELLINGTON MARTINS DE SOUZA foi denunciado como incurso nas sanções do artigo 33, caput, da Lei 11.343/06.
+A denúncia foi recebida em 13/06/2016, à fl. 49, e o processo seguiu os seus trâmites legais, culminando com a sentença de fls. 80/83-v, publicada em 31/10/2016 (fl. 84), da qual o réu foi pessoalmente intimado em 18/11/2016 (fl. 91), oportunidade em que manifestou o desejo de recorrer.
+Inconformada, a defesa do sentenciado interpôs recurso de apelação à fl. 84-v, requerendo nas razões recursais (fls. 85/87), a desclassificação do delito de tráfico de entorpecentes para o crime previsto no artigo 28, da Lei 11.343/06 e, alternativamente, a aplicação da pena no mínimo legal.
+ ..
+Não foram arguidas nulidades e nem se verificou a existência de alguma que mereça ser declarada de ofício.
+- Desclassificação do delito de tráfico de drogas para o crime previsto no artigo 28 da Lei 11.343/06 Requer o apelante a desclassificação do delito de tráfico de drogas para o crime do artigo 28, da Lei 11.343/06, ao argumento de que as drogas encontradas em sua residência seriam trocadas por crack, para o seu consumo.
+Compulsando os autos, verifico que razão não assiste ao apelante.
+Da ilação do conjunto probatório, observa-se que a materialidade delitiva restou cabalmente comprovada, pelo boletim de ocorrência de fls. 11/14, pelo auto de apreensão de fl. 15, pelo laudo de constatação da droga de fls. 26/27 e pelo laudo toxicológico definitivo de fl. 46.
+A autoria e a tipicidade também são induvidosas, não obstante o acusado, quando ouvido na fase policial à fl. 04, tenha afirmado que as drogas pertenciam à pessoa de "Andrinho" que as teria furtado de outro traficante. Ressaltou que guardou os entorpecentes na sua casa, com a finalidade de trocá-los por crack. Disse, ainda, que já foi preso pelo delito de tráfico de drogas e por outros crimes.
+Em seu interrogatório judicial às fl. 70/71, o réu afirmou que a acusação é verdadeira, pois trazia consigo 34 (trinta e quatro) pinos contendo cocaína e que pretendia trocar a droga por crack, substância esta de que faz uso. Acrescentou que encontrou a pessoa de "Andrinho" perto do lixão, ocasião em que este se encontrava com a droga nas mãos e "o interrogando a recebeu para que tentasse troca-la por crack; o interrogando e Andrinho consumiriam o crack; encontrou-se com Andrinho por volta de 03:00 horas, não conseguiu tocar a cocaína por crack e voltou para sua casa; conhece Andrinho da região do bairro Foch, onde fica usando droga; exerce a profissão de ajudante de pedreiro; é solteiro e reside com sua mãe e sua irmã."
+O policial RODRIGO TAVARES FAGUNDES, condutor do flagrante, quando ouvido na fase de inquérito à fl. 02, cujo depoimento foi ratificado em juízo à fl. 65, enfatizou que, no dia dos fatos, ele e seu colega de farda receberam denúncia de que o indivíduo Wellington estaria realizando diversos crimes de furtos pelas redondezas dos bairros Árvore Grande e Foch. Acrescentou que, diante de tais informações, dirigiram-se até a residência do indivíduo quando ele assumiu estar foragido da justiça e praticando alguns furtos na região. Disse, ainda, que, naquela ocasião, quando Wellington foi indagado se teria mais alguma coisa ilícita em sua posse, ele afirmou que possuía alguns pinos de cocaína, os quais foram localizados dentro de um vaso de plantas, na residência dele.
+No caso em tela, como se vê, Wellington confessou que estava guardando a droga em sua residência.
+Não se pode olvidar que a droga estava fragmentada e pronta para venda, não convencendo a assertiva do acusado de que a cocaína seria trocada por outra droga - crack - da qual ele é usuário.
+Saliente-se, ainda, que Wellington já foi condenado pelo delito de tráfico de drogas (fls. 37/38) o que, aliado ao fato de que na sua residência foram encontrados 34 (trinta e quatro) pinos de cocaína, não paira dúvida de que o acusado continua traficando drogas, pouco importando se para custear seu odioso vício.
+Com efeito, o conjunto probatório confirma os fatos narrados na denúncia de que Wellington mantinha em depósito, com o fim de vender e entregar a consumo de terceiros, drogas, sem autorização e em desacordo com determinação legal, incidindo na norma prevista no artigo 33, caput, da Lei n.º 11.343/06:
+ ..
+Assim, pouco importa que o apelante não tenha sido flagrado, efetivamente, vendendo drogas a terceiro, pois ter em depósito entorpecente é conduta igualmente típica previstas no caput do artigo 33, da Lei n.º 11.343/06.
+Além do mais, o fato de Wellington ser suposto usuário de drogas não tem o condão de desclassificar o delito do artigo 33, da Lei 11.343/06 para o delito do artigo 28, da mesma Lei.
+Não se pode olvidar que, no caso em apreço, o acusado guardava uma quantidade expressiva de cocaína, droga esta de alto poder viciante, fragmentada em 34 (trinta e quatro) pinos, prontos para o comércio, o que só vem a reforçar o fato de que entorpecente arrecadado, na casa do acusado, tinha finalidade mercantil.
+Assim, impossível é acolher o pleito defensivo de desclassificação do crime do artigo 33 para o delito do artigo 28, ambos da Lei n.º 11.343/06.
+- Dosimetria Aplicação da pena No tocante à dosimetria da reprimenda, verifico que a pena de Wellington foi bem dosada em todas as fases e não está a merecer nenhum ajuste, sobretudo considerando a qualidade e quantidade da droga arrecadada, ou seja, 45,0g (quarenta e cinco gramas) de cocaína, substância esta extremante nociva à saúde.
+Convém reforçar, que deixo de conceder ao réu a causa de diminuição prevista no § 4º, do artigo 33 da Lei 11.343/06, uma vez que ele é reincidente no tráfico de drogas não preenchendo, portanto, os requisitos legais necessários.
+Assim sendo, mantenho a pena fixada para Wellington em 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão e 680 (seiscentos e oitenta) dias-multa.
+Regime e substituição da pena privativa de liberdade Mantenho o regime inicial fechado para o cumprimento da pena privativa de liberdade de Wellington, pois ele é reincidente (CAC fls.
+37/38).
+Não é cabível a substituição da pena, por não preencher o réu os requisitos legais do artigo 44, inciso I e II, do Código Penal.
+Em face do exposto, NEGO PROVIMENTO ao recurso e mantenho a sentença de primeiro grau por seus próprios fundamentos." (e-STJ, fls. 187-192)
+Em sede de embargos de declaração, assim decidiu o Tribunal de origem:
+" ..
+Vale consignar que, em suas razões de apelação de fls.
+85/87, o apelante requereu a desclassificação da conduta do artigo 33, da Lei 11.343/06 para o delito do artigo 28, da mesma Lei e, subsidiariamente, a redução da pena -base para o mínimo legal.
+Como se vê, a defesa não pugnou pelo reconhecimento da atenuante da confissão espontânea, havendo, a meu ver, inovação do pedido, neste momento
+ ..
+No caso em tela, no entanto, não houve qualquer omissão no v. acórdão quando deixou de reconhecer a atenuante da confissão espontânea para o delito tráfico de drogas praticado por Wellington.
+Tenho entendimento que para que a atenuante da confissão espontânea seja reconhecida, ela deve ser feita de forma clara, integral e sem retratação, o que não se vislumbrou na hipótese dos autos.
+NESTOR TÁVORA e ROSMAR RODRIGUES ALENCAR ensinam com propriedade que para que a confissão esteja revestida de regularidade deve atender dentre outros requisitos o da clareza, que "é a confissão limpida, despida de ambiguidades, contradições ou elementos que possam dificultar o entendimento do ocorrido ou a real vontade do confidente." (in Curso de Direito Processual Penal, 6.º Ed. 2011, págs 413 e 415).
+Desse modo, não houve, a meu ver, confissão do crime de tráfico de drogas." (e-STJ, fls. 205-206)
+No entanto, como é cediço, o Superior Tribunal de Justiça tem entendimento firmado na Súmula 545/STJ de que "quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal", sendo indiferente que a admissão da autoria criminosa seja parcial, qualificada ou acompanhada de alguma causa excludente de ilicitude ou culpabilidade (AgRg no REsp 1.516.358/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 5/11/2015, AgRg no REsp 1.450.875/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 20/8/2015).
+"Para efeitos de reconhecimento da atenuante prevista no art. 65, III, alínea "d", do CP (confissão espontânea) não é necessário, que a confissão seja completa, explicitando todas as circunstâncias do crime ou que seja movida por um motivo moral, o qual demonstre o arrependimento do acusado, ou, ainda, que influa decisivamente para a condenação" (HC 306.785/MS, rel. Ministro FELIX FISCHER, Quinta Turma, Dje 3/3/2015).
+Desse modo, valorada a confissão do recorrente pelo julgador para a prolação do édito condenatório (e-STJ, fl. 125), é de rigor a incidência da atenuante prevista no art. 65, III, "d", do Código Penal.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PENAL. ROUBO. DOSIMETRIA. CONFISSÃO PARCIAL UTILIZADA PARA EMBASAR A CONDENAÇÃO. INCIDÊNCIA. PRECEDENTES.
+1. É pacífica a jurisprudência desta Corte no sentido de que, se a condenação do acusado baseou-se também em sua confissão, mesmo que parcial ou retratada em juízo, é devida a incidência da atenuante da confissão espontânea. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no REsp 1643268/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 07/03/2017, DJe 17/03/2017)
+Passo, assim, ao redimensionamento da pena.
+O recorrente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, c.c. art. 61, I, do Código Penal.
+A pena-base foi estabelecida em 5 anos e 10 meses de reclusão mais 583 dias-multa.
+Na segunda fase da dosimetria, a pena do recorrente foi elevada em 1/6, em razão da reincidência.
+No ponto, cumpre anotar que, a Terceira Seção desta Corte, no exame do Recurso Especial Representativo de Controvérsia n. 1.341.370/MT, julgado em 10/4/2013, firmou o entendimento de que, por serem circunstâncias igualmente preponderantes, "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência".
+Eis a ementa do referido julgado:
+"RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (ART. 543-C DO CPC). PENAL. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA. COMPENSAÇÃO. POSSIBILIDADE.
+1. É possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência.
+2. Recurso especial provido." (REsp 1.341.370/MT, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 10/04/2013, DJe 17/04/2013.)
+Na espécie, tendo sido considerada apenas uma condenação anterior transitada em julgada, em 23/4/2016, para justificar o aumento da pena, na segunda etapa da dosimetria, não há qualquer óbice na compensação integral da agravante da reincidência com a atenuante da confissão espontânea.
+Ausentes causas de diminuição ou de aumento na terceira fase da dosimetria, a pena resta fixada em 5 anos e 10 meses de reclusão e 583 dias-multa.
+Quanto ao regime prisional, estabelecida a pena definitiva em patamar superior a 4 anos de reclusão e verificada a reincidência do agente, de fato, o regime imediatamente mais rigoroso do que o legalmente previsto segundo o quantum da reprimenda aplicada é o cabível para o resgate da pena corporal, nos termos do art. 33, § 2º, alínea "a", do Código Penal.
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE ENTORPECENTE. ART. 33, §, 4º DA LEI 11.343/06. FRAÇÃO APLICADA. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ REGIME INICIAL FECHADO. POSSIBILIDADE, IN CASU. AGRAVO DESPROVIDO.
+- A modificação da fração aplicada a título de causa de diminuição de pena, nos termos do artigo 33, § 4º, da Lei n. 11.343/2006, implica revolvimento do suporte fático-probatório delineado nos autos. Súmula n. 7/STJ.
+- Não há ilegalidade na fixação do regime inicial fechado ao recorrente não reincidente, condenado a pena superior a 4 anos de reclusão e não excedente a 8 anos, com registro de circunstância judicial desfavorável sopesada na primeira fase da dosimetria (grande quantidade de cocaína). (HC 228.963/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 27/04/2015) Agravo regimental desprovido."
+(AgRg no REsp 1.522.953/SP, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, DJe 12/11/2015.)
+Ante o exposto, com fulcro no art. 34, XVIII, "c", do RISTJ, dou provimento ao recurso especial para reconhecer a incidência da atenuante da confissão espontânea, readequando a pena do recorrente para 5 anos e 10 meses de reclusão e 583 dias-multa, mantido o regime inicial fechado.
+Publique-se. Intimem-se.
