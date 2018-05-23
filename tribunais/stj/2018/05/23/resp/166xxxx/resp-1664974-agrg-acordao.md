@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. DATA-BASE PARA AQUISIÇÃO DE NOVOS BENEFÍCIOS. ALTERAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. ENTENDIMENTO CONSOLIDADO PELA TERCEIRA SEÇÃO NO JULGAMENTO DO RESP N. 1.557.461/SC. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução" (REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/02/2018, Dje 15/03/2018).
+2. No caso, o Tribunal de origem deu provimento ao agravo em execução interposto pelo Ministério Público estadual, para estabelecer o trânsito em julgado da última sentença condenatória como marco inicial para obtenção de benefícios em sede de execução. Tal entendimento destoa da atual diretriz jurisprudencial da Terceira Seção desta Corte, não merecendo reforma a decisão agravada.
+3. Agravo regimental a que se nega provimento.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão monocrática desta Relatoria que deu provimento ao recurso especial, para fixar a data da última prisão da ora agravada como data-base para fins de obtenção de benefícios na execução penal, exceto no pertinente à concessão de livramento condicional, indulto e comutação de pena (e-STJ, fls. 194-198).
+O agravante alega, em síntese, que " ..  em virtude de nova condenação, além da adição das reprimendas arbitradas ao condenado, devem ser restabelecidos os prazos de cumprimento parcial da pena, constituindo a data do trânsito em julgado do superveniente édito condenatório o novo marco inicial da contagem do lapto temporal para a concessão de novos benefícios legais, com base na soma das reprimendas corporais a serem expiadas" (e-STJ, fl. 218).
+Requer, assim, a reconsideração da decisão agravada ou a submissão do feito à apreciação da Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. DATA-BASE PARA AQUISIÇÃO DE NOVOS BENEFÍCIOS. ALTERAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. ENTENDIMENTO CONSOLIDADO PELA TERCEIRA SEÇÃO NO JULGAMENTO DO RESP N. 1.557.461/SC. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução" (REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/02/2018, Dje 15/03/2018).
+2. No caso, o Tribunal de origem deu provimento ao agravo em execução interposto pelo Ministério Público estadual, para estabelecer o trânsito em julgado da última sentença condenatória como marco inicial para obtenção de benefícios em sede de execução. Tal entendimento destoa da atual diretriz jurisprudencial da Terceira Seção desta Corte, não merecendo reforma a decisão agravada.
+3. Agravo regimental a que se nega provimento.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A pretensão recursal não merece êxito, na medida em que o Recorrente não apresentou fundamentos capazes de modificar o entendimento anteriormente adotado.
+Ressalte-se, desde logo, que o tema ora tratado foi objeto de recente mudança da diretriz jurisprudencial da Terceira Seção deste Superior Tribunal.
+Em breve histórico, consigne-se que a Quinta e a Sexta Turma deste Superior Tribunal de Justiça eram uníssonas no sentido de que o marco inicial para a concessão de futuros benefícios deveria ser a data do trânsito em julgado, para o Ministério Público, da última sentença condenatória.
+Nesse sentido, a título exemplificativo, trago à colação os seguintes precedentes, ora superados:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. UNIFICAÇÃO DAS PENAS. ALTERAÇÃO DA DATA-BASE PARA FINS DE BENEFÍCIOS PENAIS. TERMO INICIAL. TRÂNSITO EM JULGADO DEFINITIVO DA NOVA CONDENAÇÃO. QUESTÃO DE DIREITO. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Sobrevindo outra condenação no curso da execução criminal, altera-se a data-base para concessão de benefícios, ainda que o crime tenha sido cometido antes do início de cumprimento da pena. O termo inicial da contagem do prazo para a concessão de benefícios é a data do trânsito em julgado da nova condenação para ambas as partes, que passa a ser calculado a partir do somatório das penas que restam a ser cumpridas.
+2. A questão discutida no recurso especial, qual seja, o marco inicial para a concessão de novos benefícios durante a execução penal, após a unificação das penas, é eminentemente de direito, sendo descabida a alegação de incidência da Súmula 7/STJ.
+3. Agravo regimental desprovido".
+(AgRg no AREsp 598.723/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 30/06/2015, DJe 03/08/2015).
+"AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. ALTERAÇÃO DA DATA-BASE. TERMO INICIAL. TRÂNSITO EM JULGADO DA ÚLTIMA CONDENAÇÃO. RECURSO NÃO PROVIDO.
+1. Este Superior Tribunal possui o entendimento pacífico de que a superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas, fixando-se como novo termo a quo para a concessão de futuros benefícios a data do trânsito em julgado da superveniente sentença condenatória, sendo irrelevante que o crime tenha sido praticado antes ou depois do início da execução da pena.
+2. Verificada a superveniência de nova condenação no curso da execução da pena, é imperiosa a interrupção do lapso temporal, com a consequente recontagem do prazo para a concessão de novos benefícios (exceto para fins de livramento condicional, indulto e comutação de penas), tendo como termo inicial a data do trânsito em julgado do novo decreto condenatório.
+3. Agravo regimental não provido".
+(AgRg no RHC 36.946/RN, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/03/2015, DJe 26/03/2015).
+Conforme já salientado, esse entendimento jurisprudencial modificou-se a partir de 22/2/2018, por ocasião do julgamento do REsp n. 1.557.461/SC, de relatoria do Ministro ROGÉRIO SCHIETTI CRUZ, pela Terceira Seção, desde o qual se passou a entender que ocorre excesso de execução na desconsideração do período de cumprimento de pena a partir da última prisão ou desde a derradeira infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por delito posteriormente cometido (e já apontado como falta disciplinar grave).
+Desse modo, passou-se a compreender que a alteração da data-base, no que diz respeito ao prazo para aquisição de novos benefícios na execução da pena, ofende o princípio da legalidade e afronta a própria individualização da pena.
+Conforme já salientei alhures, quando da prolação de voto-vogal nos autos do mencionado REsp 1557461/SC, a prática de falta grave no curso da execução interrompe o prazo para a progressão de regime na data do fato e não na data posterior que reconhece a infração, conforme já firmado no enunciado da Súmula 543 do STJ:
+"A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração".
+Dessa forma, se a data-base para a progressão de regime é o dia do cometimento da infração, idêntico entendimento deve ser aplicado à hipótese de advento da prática de crime no curso da execução, já que também constitui falta disciplinar de natureza grave.
+Assim sendo, o cometimento de fato definido como crime doloso no curso da execução constitui falta grave e ocasiona a alteração da data-base, configurando constrangimento ilegal uma novel alteração do marco inicial, em virtude da superveniência do trânsito em julgado de sentença condenatória.
+No caso em tela, o Tribunal de origem deu provimento ao agravo em execução interposto pelo Ministério Público estadual, para estabelecer o trânsito em julgado da última sentença condenatória como data-base para obtenção de benefícios em sede de execução, tendo merecido reforma, pela decisão recorrida, que deve ser mantida.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
