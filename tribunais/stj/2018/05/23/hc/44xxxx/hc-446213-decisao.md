@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de [NOME] contra acórdãos proferidos pelo Tribunal de Justiça do Estado da Paraíba no julgamento da Apelação Criminal n. 0004484-09.2009.8.15.0371 e nos dois recursos de Embargos de Declaração opostos na sequência (e-STJ fls. 32/47).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 9 anos e 1 mês de reclusão, em regime inicial fechado, e 1.282 dias-multa, pela prática dos delitos tipificados nos arts. 33 e 35, ambos da Lei n. 11.343/2006.
+Inconformada, a defesa apelou e o Tribunal a quo proveu parcialmente o recurso para afastar a condenação do paciente pelo crime de associação para o tráfico, mantida a condenação pelo crime de tráfico de entorpecentes e o regime prisional fixado na sentença, resultando em uma pena de 5 anos, 2 meses e 15 dias de reclusão no regime inicial semiaberto, além de 520 dias-multa (e-STJ fls. 6/29).
+Ato contínuo, a defesa opôs dois embargos declaratórios (e-STJ fls. 32/47), os primeiros acolhidos parcialmente, para aplicar a detração e fixar o regime inicial aberto ao paciente, e os segundos acolhidos apenas para conferir efeitos meramente integrativos, de forma a suprir a omissão do acórdão no tocante ao pedido de substituição da pena privativa de liberdade por restritiva de direitos, rejeitando o pedido no mérito.
+Neste habeas corpus, sustenta o impetrante a existência de constrangimento ilegal ao argumento de que, com a detração, a pena a ser cumprida pelo paciente passou a ser de 3 (três) anos, 10 (dez) meses e 15 (quinze) dias, isso no regime inicialmente aberto (art. 33, §2º, "c" do Código Penal), a qual deverá ser substituída por duas restritivas de direito (art. 44, I, § 2º do CP) (fl. 3), tendo em vista que, com a redução da pena, operada pela detração, resta cumprido o requisito objetivo previsto no referido dispositivo penal.
+Ao final pede, liminarmente e no mérito, a substituição da pena privativa de liberdade por restritivas de direitos, nos termos do art. 44, I, § 2º, do Código Penal.
+O pedido liminar foi indeferido, às e-STJ fls. 52/54 e, por estarem os autos suficientemente instruídos, foi dispensado o envio de informações.
+O Ministério Público Federal, em parecer exarado às e-STJ fls. 58/61, opinou pela extinção do mandamus sem resolução de mérito e, caso se avalie o mérito, pela denegação da ordem.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+Conforme relatado, busca o impetrante, em síntese, a substituição da pena privativa de liberdade do paciente, por restritiva de direitos, em razão da detração operada em sua pena.
+Ao julgar os embargos aclaratórios, o relator do voto condutor do acórdão consignou quanto ao tema que (e-STJ fls. 45/47, destaquei):
+ ..
+Ora, o teor do § 2o do art. 387, do CPP, é claro ao dispor que o tempo de prisão provisória será computado para fins de determinação do regime inicial de pena privativa de liberdade, in verbis:
+Art. 387
+ ..
+§ 2o O tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade.
+Desse modo, verifica-se que o dispositivo legal em epígrafe, incluído pela Lei nº 12.736/12, limita os efeitos da detração, tão somente, para a fixação do regime prisional, não cabendo falar em redução da carga penal fixada.
+Nessa vertente, destaco excerto do parecer exarado pela douta Procuradoria de Justiça:
+"(..) À margem das controvérsias e presumindo-se a constitucionalidade da norma, é possível antever a conclusão de que o § 2o do art. 387 do Código de Processo Penal tem influência na fixação do regime inicial de cumprimento da pena, não devendo implicar na redução do "quantum" da pena corporal (..) (Destaquei)
+Dessarte, a aplicação da detração não implica na redução da carga penal fixada, mas tão somente na imposição do regime prisional e no restante do tempo de pena a cumprir pelo réu condenado.
+Por tais razões, para aferir o cumprimento do critério objetivo capitulado no art. 44, inc. I, do CP, deve ser observada o quantum da pena corpórea, sendo indiferente a eventual aplicação de detração.
+Na espécie, conforme visto no Relatório, a pena imposta ao acusado [NOME], após o julgamento da apelação criminal que reformou a sentença de 1o Grau, foi reduzida para 5 (cinco) anos, 2 (dois) meses e 15 (quinze) dias de reclusão, ou seja, acima do patamar máximo (4 anos) para a concessão da benesse, sendo, portanto, descabida a substituição postulada.
+Ausente tal requisito de ordem objetiva, desnecessário verificar o eventual preenchimento dos requisitos subjetivos.
+Face ao exposto, acolho os embargos declaratórios, conferindo-lhes, porém, efeitos meramente integrativos, para, suprindo a omissão do acórdão no tocante ao pedido substituição da reprimenda corpórea por penas restritivas de direitos, rejeitá-lo.
+Como bem asseverado pela Corte paraibana, o instituto da detração penal, por expressa disposição legal, diz respeito apenas, ao desconto da pena provisória já cumprida, para possibilitar a fixação de novo regime prisional, caso o Juízo repute adequado. Desse modo, não há que se falar em substituição da pena privativa de liberdade por restritiva de direitos, em virtude da aplicação do referido instituto que reduziu a pena a cumprir do paciente, em 1 ano, 3 meses e 15 dias, porquanto a pena a que ele foi condenado - 5 anos, 2 meses e 15 dias de reclusão -, é superior ao disposto no art. 44, I, do CP.
+Assim, a pretensão formulada pelo impetrante encontra óbice na legislação processual penal, sendo manifestamente improcedente.
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se. Intimem-se.
