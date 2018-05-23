@@ -1,0 +1,14 @@
+DECISÃO
+MURILO DOS SANTOS alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0000689-71.2017.8.26.0544.
+Consta dos autos que o paciente foi condenado, como incurso no art. 155, caput, do CP, à pena de 1 ano e 2 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 11 dias-multa.
+No presente writ, sustenta o impetrante que o paciente faz jus à detração, porquanto já teria cumprido tempo de prisão cautelar suficiente para progredir para o regime aberto.
+Requer a concessão da ordem, in limine, a fim de que seja concedido ao paciente o direito de iniciar o cumprimento de sua pena em regime aberto.
+Decido.
+O writ, no entanto, não merece processamento.
+De plano, porque não há nos autos qualquer comprovação de que a Corte bandeirante tenha conhecimento da ilegalidade declinada - a tese não foi objeto das razões do recurso de apelação da defesa -, o que inviabiliza a precoce manifestação deste Superior Tribunal sobre o caso, sob pena de incorrer em inegável supressão de instância, pois não inaugurada a competência prevista no art. 105, I, "c", da Constituição Federal.
+Destaque-se que o paciente é reincidente e, mesmo havendo sido imposta pena muito inferior a 4 anos, o único regime inicial mais favorável para resgate da reprimenda privativa de liberdade e concernente ao previsto em lei - longe do pretendido pelo impetrante - seria mesmo o regime semiaberto.
+Com efeito, "O artigo 33 do Código Penal, na letra do seu parágrafo 2º, proíbe ao reincidente o regime inicial aberto em qualquer caso e o semi-aberto, quando a pena for superior a quatro anos. Nada impede, objetivamente, que se lhe defira o regime semi-aberto na pena igual ou inferior a quatro anos" (Resp n. 175.207, Rel. Ministro Hamilton Carvalhido, 6ª T., DJ 17/12/1999).
+Ou seja, em qualquer das formas de pena privativa de liberdade, seja ela reclusão ou detenção - até porque, diferentemente da sistemática presente no Código Penal de 1940, sobretudo até a edição da Lei n. 6.416/1977, não há, no Código Penal de 1984, em vigor, diferença ontológica entre elas - é vedado ao reincidente iniciar o cumprimento de sua reprimenda no regime aberto, mesmo que a pena imposta seja inferior a 4 anos.
+A esse aviso, uma vez transitada em julgado a sentença condenatória, há mesmo de ser determinado o recolhimento do apenado, para que, expedida a pertinente guia, o caso seja encaminhado ao Juízo da Execução Criminal, para análise das particularidades de cada sentenciado, inclusive a realização da detração penal não operada pelas instâncias ordinárias processantes, com a adequação ao regime prisional imposto e, se o caso, a progressão de regime, nos termos do que dispõem os arts. 66, III, 112 e 113, todos da LEP.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se. Intimem-se.
