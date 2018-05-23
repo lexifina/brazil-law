@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HIPÓTESES DE CABIMENTO. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA CAUSA. INVIABILIDADE DA VIA IMPUGNATIVA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+Trata-se de embargos declaratórios opostos pelo CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO ESTADO DE SÃO PAULO contra decisão de minha relatoria cuja ementa restou vazada nos seguintes termos:
+PROCESSUAL CIVIL. AGRAVO. EXERCÍCIO PROFISSIONAL. ENUNCIADO ADMINISTRATIVO 3/STJ. ALEGAÇÃO DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. VIOLAÇÃO AO ART. 13 DA LEI Nº 7.802/89. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA SÚMULA 211/STJ. VIOLAÇÃO AO ART. 1º DA LEI N. 12.016/09. INEXISTÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA SÚMULA 282/STF. TÉCNICO AGRÍCOLA. NÍVEL MÉDIO. EXPEDIÇÃO DE RECEITUÁRIO PARA VENDA DE AGROTÓXICO. POSSIBILIDADE. PRECEDENTES. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL, E NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões dos aclaratórios, sustenta que deve ser suprida a omissão acerca das alegações no sentido de que "a legislação federal, ao contrário do alegado pela parte adversa, não confere, de maneira automática, as atribuições discriminadas na Lei n.º 5.524/68 e no artigo 6º do Decreto Federal n.º 90.922/85 aos técnicos agrícolas, considerando que a própria legislação consigna que as atribuições serão conferidas nos limites da formação do profissional", ou seja, com ressalvas.
+É o necessário relatar.
+Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+As razões dos embargos de declaração não merecem acolhimento.
+Para que os aclaratórios, como recurso de fundamentação vinculada que é, possam prosperar, se faz necessário que o embargante demonstre, de forma clara, a ocorrência de obscuridade, contradição ou omissão em algum ponto do julgado, sendo tais vícios capazes de comprometer a verdade e os fatos postos nos autos.
+Diante de tal premissa, observo que não assiste razão ao embargante, pois, de fato, houve manifestação deste relator de forma clara, adequada e suficiente no sentido de que os técnicos agrícolas de segundo grau possuem habilitação legal para prescrever receituário agronômico, inclusive de produtos agrotóxicos , conforme o seguinte trecho:
+A questão atinente à possibilidade do técnico agrícola emitir receituário para venda de produtos agronômicos, inclusive agrotóxicos, já foi objeto de análise por esta Corte Superior, já se encontrando pacificada, conforme se observa dos julgados abaixo colacionados:
+PROCESSUAL CIVIL. AGRAVO INTERNO. TÉCNICO AGRÍCOLA. PRESCRIÇÃO DE RECEITUÁRIO AGRONÔMICO. POSSIBILIDADE. 1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2). 2. De acordo com o entendimento sedimentado na jurisprudência da Primeira Seção desta Corte, os técnicos agrícolas possuem habilitação legal para prescrever receituário agronômico, inclusive produtos agrotóxicos. 3. Agravo regimental não provido. (AgRg no AREsp 636.299/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 17/05/2016, DJe 10/06/2016)
+(..)
+Observa-se que a decisão embargada posicionou-se de forma clara, adequada e suficiente acerca dos temas que lhe foram submetidos.
+Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+Diante do exposto, rejeito os embargos de declaração.
+Intimem-se.
+Publique-se.
