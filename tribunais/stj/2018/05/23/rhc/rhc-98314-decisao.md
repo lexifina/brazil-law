@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MARCUS VINICIUS MIOLA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou a ordem no HC n. 2038970-11.2018.8.26.0000.
+Extrai-se dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa, pela prática do delito tipificado no art. 33 da Lei n. 11.343/2006, conforme sentença de fls. 32/42.
+Buscando a aplicação de regime inicial mais brando, a defesa impetrou a ordem originária, que foi denegada pelo Tribunal a quo, em acórdão de fls. 31/35, ementado nos seguintes termos:
+HABEAS CORPUS - TRÁFICO DE ENTORPECENTES - Inconformismo com a condenação de primeiro grau - Pedido de fixação de regime inicial semiaberto - Impossibilidade de cognição ampla e exauriente de prova em sede de habeas corpus - Recurso de apelação, único cabível, já interposto no Juízo de origem - Ordem denegada liminarmente.
+No presente writ, o impetrante alega haver constrangimento ilegal na aplicação do regime inicial fechado, porque a previsão de regime inicial fechado para crimes hediondos (previsto no § 1º, do art. 2º, da Lei de Crimes Hediondos) é inconstitucional, conforme entendimento pacificado do Supremo Tribunal Federal, e este foi o único fundamento utilizado pela sentença para a incidência do regime mais gravoso.
+Ademais, aponta que a fixação do regime inicial de cumprimento da pena não está condicionada somente ao quantum da reprimenda, mas também ao exame das circunstâncias judiciais do artigo 59 do Código Penal, conforme remissão do art. 33, §3º, do mesmo diploma legal (fl. 44) e, no caso, verifica-se que o paciente, primário, de bons antecedentes, não envolvido com o crime organizado, sem faltas disciplinares, com laços familiares íntegros, foi condenado a pena total de 05 anos de reclusão, portanto, preenche os requisitos dos diplomas legais supracitados (fl. 45).
+Requer, assim, em liminar e no mérito, a aplicação do regime inicial semiaberto.
+É o relatório. Decido.
+Verifico, de início, que o presente recurso ordinário em habeas corpus é mera reiteração do HC n. 441529/SP, pois ambos têm por objeto a aplicação de regime inicial semiaberto ao paciente, nos autos da mesma ação penal.
+Deste modo, diante de inadmissível reiteração de pedidos, reservo a análise da controvérsia aos autos do habeas corpus, ressaltando que a referida impetração aportou anteriormente nesta Corte e já foi remetida à apreciação do representante do Ministério Público Federal.
+Diante do exposto, em consonância com o disposto no art. 34, inciso XVIII, letra a, do RISTJ, não conheço do presente recurso em habeas corpus.
+Publique-se. Intimem-se.
