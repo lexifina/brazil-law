@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor ANDRESA RODRIGUES DE SOUSA, em face de acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento ao recurso de Apelação n. 0004942-07.2011.8.26.0288.
+Consta dos autos que a paciente foi condenada como incursa no art. 33, caput, da Lei n. 11.343/06, à pena de 6 anos de reclusão, em regime inicial fechado, e 600 dias-multa.
+Sustenta a impetrante, em suma, violação ao art. 64, I do CP porque tanto a sentença, quanto o acórdão, levaram em consideração, acusações onde da data da sentença de tal crime, até a data da sentença do processo em discussão, já se passaram mais de 5 anos. Assevera que a Paciente é primária, a pena base deveria ter sido fixada no mínimo legal, assim como, não poderia ter sido elevada, sob o absurdo argumento de que a mesma ostenta maus antecedentes (fl. 3).
+Requer, assim, a redução da pena-base e a aplicação do § 4º do art. 33 da Lei de Drogas.
+Indeferida a liminar e prestadas as informações, o Ministério Publico Federal ofertou parecer pelo não conhecimento do writ.
+É o relatório.
+DECIDO.
+Acerca do pleito de redução da pena-base e a aplicação do § 4º do art. 33 da Lei de Drogas, com o afastamento dos maus antecedentes da paciente, colhe-se os seguintes excertos:
+Sentença - fl. 361
+O fato em tela não restou isolado na vida da agente, pois ostenta condenação, já transitada em julgado, por idêntico e hediondo crime de tráfico de drogas, conforme se infere do apenso Folha de Antecedentes (fls. 11).
+Tal fato, além de autorizar a verificação de maus antecedentes da acusada, denota sua conduta social e personalidade, que refletem uma pessoa envolvida com a criminalidade. Ainda, levando em conta a natureza (crack) e quantidade da droga apreendida, as circunstâncias e conseqüências do delito, atento à culpabilidade e ao que seja suficiente para a reprovação e prevenção do crime, deve a pena-base ser exasperada em 1/5 (um quinto), fixando-a em 06 (seis) anos de reclusão, alem de 600 (seiscentos) dias-multa, no valor unitário mínimo, conforme preceito secundário contido no artigo 33, capuí, da Lei n.º 11.343/06.
+Não há atenuantes ou agravantes.
+Nenhuma causa de aumento de pena foi encontrada. No mesmo sentido, não é possível a aplicação de qualquer causa de diminuição de pena.
+Diante dos péssimos antecedentes destacados, fica prejudicada a incidência da causa de diminuição de pena prevista no §4.º, do artigo 33, da Lei n.º 11.343/2006.
+Assim, por não encontrar nenhuma outra circunstância modificadora aplicável, tomo definitiva a pena de 06 (seis) anos de reclusão e 600 (seiscentos) dias-multa, no valor unitário mínimo, por infração ao disposto no artigo 33, caput, da Lei n.º 11.343/06.
+Acórdão - fls. 744/745
+Quanto ao cálculo da pena, alega a defesa a incidência do artigo 64, inciso I, do Código Penal para o afastamento de maus antecedentes considerados pelo juízo monocrático. Todavia, compulsando-se os autos e conjugando-se as informações da certidão de fl. 11 com a contida a fl. 20, ambas do apenso de antecedentes, verifica-se condenação anterior por tráfico de drogas, cuja pena foi extinta pelo cumprimento em 22.6.2007. Logo, entre essa data e a do crime cuidado nestes autos transcorreram quatro anos, quatro meses e treze dias, lapso inferior aos cinco anos previstos na lei para ilidir a reincidência e maus antecedentes. Portanto, correta a elevação da pena base em um quinto em razão da recidiva especifica.
+Essa circunstância também possibilita a vedação do reconhecimento do tráfico privilegiado e da substituição da carcerária, nos termos da lei.
+As instâncias de origem registraram a existência de uma condenação com trânsito em julgado anterior, utilizada para majorar a pena-base e negar o reconhecimento do tráfico privilegiado, registrando, ainda, que condenação anterior com trânsito em julgado não tinha alcançado o período depurador quando da prática do novo delito.
+Com efeito, esta Corte Superior entende que o período depurador de cinco anos, previsto no art. 64, I, do Código Penal, afasta a reincidência, mas não retira os maus antecedentes. Nesse sentido, os seguintes precedentes: AgRg no Resp 1500382/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 25/08/2015, DJe 11/09/2015; AgRg no REsp 1531323/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/06/2015, DJe 25/06/2015.
+Acerca do tráfico privilegiado vale lembrar que os requisitos previstos para o seu reconhecimento - primariedade, bons antecedentes, não se dedicar às atividades criminosas, nem integrar organização criminosa - são de observância cumulativa. A ausência de qualquer deles implica a não aplicação da causa de diminuição de pena. Nesse sentido: HC 287.904/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 06/05/2014, DJe 15/05/2014.
+Assim, a existência de maus antecedentes é fundamento idôneo para a negativa da benesse do § 4º do art. 33 da Lei n. 11.343/06. Nesse sentido: HC 403.064/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 04/09/2017; HC 370.463/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 07/03/2017, DJe 17/03/2017)
+Assim, devidamente fundamentada a ausência de requisitos para a redução pelo tráfico privilegiado, inexiste constrangimento ilegal a ser sanado neste ponto.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
