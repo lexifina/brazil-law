@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à procedência do pedido de restabelecimento da pensão por morte, aludindo ao preenchimento dos requisitos legais. No extraordinário cujo trânsito busca alcançar, a recorrente aponta violado os artigos 24, § 4º, e 40, § 12, da Constituição Federal. Discorre sobre a inexistência do direito ao benefício pleiteado. Alega modificações na legislação de regência. Sustenta a aplicação da Lei nº 9.717/98.
+    2. Quanto à evocação do enquadramento do extraordinário nas alíneas "c" e “d” do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco do recorrente, uma vez que não se declarou a validade de lei ou ato de governo local contestado em face da Constituição Federal, nem, tampouco, a validade de norma local, considerado o previsto em legislação federal.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes trechos:
+     O que houve, isto sim, foi concessão da pensão em favor da autora, em conformidade com a lei estadual em vigor ao tempo do óbito do segurado, quando, então, não se cogitava em aplicação redutora da legislação previdenciária federal, por equiparação de benefícios; agora, então, alterado o rumo interpretativo e de aplicação do direito positivo, a Administração revê seu ato de concessão da pensão, em busca de seu cancelamento.
+    Aliás, foi a própria Administração que declarou a conformidade do pedido da pensão a por morte ao autor, como beneficiário designado pelo seu avô, de acordo com o art. 153 da LCE n° 180/78, para, depois, deferir a concessão nas mesmas bases legais.
+    […]
+    Outrossim, é fato que o art. 47 da LCE n° 180/78 não prevê o pagamento para netos de contribuinte do RPP. Todavia, observe-se o disposto no art. 153 do mesmo diploma legal, que autorizou a concessão da pensão por morte à autora:
+    Artigo 153 — Poderá o contribuinte, sem filhos com direito à pensão, instituir beneficiários parentes até 2.° (segundo) grau, se forem incapazes ou inválidos, ressalvado, na razão da metade, o direito que competir ao seu cônjuge. Parágrafo único —Na hipótese deste artigo, aplicar-se-á o disposto nos §§ 2° e 3° do artigo 147, § 3.° do artigo 150 e § 7.° do artigo anterior.
+    Agora, o tal § 2° do dito art. 147:
+     § 2. ° — Atingindo o filho beneficiário a idade de 21 (vinte e um) anos, ou a de 25 (vinte e cinco) anos se estiver frequentando curso de nível superior, cessa o seu direito á pensão.
+    Por derradeiro, há que se observar as disposições contidas no art. 2° da LCE n° 1.012/2007, que asseguram o direito do autor de continuar a receber a pensão por morte a ele instituída:
+    Artigo 2° – Fica assegurada a continuidade do pagamento aos atuais beneficiários de pensão enquanto mantiverem as condições que, sob a égide da legislação anterior, lhes garantia a percepção do beneficio.
+    É o que basta para manter a r. sentença e, no miolo, negar provimento ao apelo, mantendo a anulação o ato administrativo que cassou a pensão por morte da autora.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à análise das Leis Complementares estaduais nº 180/78, e nº 1.012/07. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios em 15% sobre o valor do débito, majoro os honorários recursais no patamar de mais 5% do valor do débito, consoante o artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 23 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
