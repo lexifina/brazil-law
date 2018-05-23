@@ -1,0 +1,14 @@
+Petição 21.254/2018 - STF
+    O paciente requer “a juntada da Petição Inicial e Protocolo da Reclamação contra o sistema judiciário Brasileiro efetuado na OEA-CIDH-IACHR-OHCHR” (documentos eletrônicos 117, 118 e 119).
+    Aduz o paciente que,
+    “[s]e cometem esses abusos com um advogado militante, que tentam calar para não continuar a denunciar os desmandos, propinas e torturas no sistema penitenciário de São Paulo, imaginem os abusos que com certeza acontecem com cidadãos comuns...”(pág. 2 do documento eletrônico 117).
+    E requer, por fim, o trancamento, de ofício, da ação penal a que responde.
+    É o relatório. Decido.
+    Verifico, de plano, que, em 27/11/2017, neguei seguimento ao writ, haja vista a inadequação da via eleita para o trancamento da ação penal. Contra o decisum, não houve interposição do recurso cabível.
+    Isso posto, defiro a juntada dos documentos eletrônicos 118 e 119, mas nego seguimento ao pedido de trancamento da ação penal (art. 21, § 1°, do RISTF).
+    Determino à Secretaria Judiciária que certifique o trânsito em julgado da decisão publicada no DJe n. 274, divulgado em 29/11/2017.
+    Publique-se.
+    Arquive-se.
+    Brasília, 23 de maio de 2018.
+Ministro Ricardo Lewandowski
+Relator
