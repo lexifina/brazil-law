@@ -1,0 +1,35 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO/ REEXAME NECESSÁRIO – MANDADO DE SEGURANÇA – TRIBUTÁRIO – ITCMD – IMÓVEL RURAL – BASE DE CÁLCULO – A base de cálculo do ITCMD é o valor venal apurado para fins do ITR – Entendimento do art. 13, inc. II, da L.E. n.º 10.705/00 – Alteração da base de cálculo do tributo por decreto, com adoção de valores divulgados pela Secretaria de Agricultura e Abastecimento do Estado de São Paulo ou por outro órgão de reconhecida idoneidade – Impossibilidade – Ofensa ao princípio da legalidade – Segurança concedida – Sentença mantida – Precedentes – Rejeitada a matéria preliminar e negado provimento aos recursos (reexame necessário e apelo da FESP)”. (eDOC 1, p. 118).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 1º; 2º; 18; 25 a 28; 150, III; e 155, I, do texto constitucional.
+    Nas razões recursais, alega-se que o Estado possui autonomia financeira dentro de uma Federação, sendo de competência dos estados a instituição do Imposto de Transmissão Causa Mortis e Doação (ITCMD).
+    Ademais, sustenta-se que a base de cálculo do ITCMD é o valor venal do bem e que este valor corresponde ao de mercado.
+    Aduz-se, ainda, a legalidade da base de cálculo normatizada pelo Estado.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, destaco que o Supremo Tribunal Federal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando a verificação da ofensa envolver reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Ademais, verifico que o Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Estadual 10.705/2000 e Decreto 55.002/09) e o conjunto probatório constante dos autos, consignou que a base de cálculo do ITCMD foi alterada por decreto, e não por lei, o que constitui clara ilegalidade. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “ A Lei Estadual 10.705/2000 dispôs o seguinte, ao instituir a base de cálculo do ITCMD Imposto sobre Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos:
+    Artigo 9.º - A base de cálculo do imposto é o valor venal do bem ou direito transmitido, expresso em moeda nacional ou em UFESPs (Unidades Fiscais do Estado de São Paulo).
+    § 1.º - Para os fins de que trata esta lei, considera-se valor venal o valor de mercado do bem ou direito na data da abertura da sucessão ou da realização do ato ou contrato de doação.
+    ...............................................................
+    Artigo 13 - No caso de imóvel, o valor da base de cálculo não será inferior:
+    I (…)
+    II - em se tratando de imóvel rural ou direito a ele relativo, ao valor ao valor total do imóvel declaradopelo contribuinte para efeito de lançamento do Imposto sobre a Propriedade Territorial Rural – ITR.
+    Entretanto, fundada no Decreto Estadual n.º 46.655/2002, a autoridade tributária sustenta que a base de cálculo do ITCMD, no caso concreto, deverá observar o disposto no parágrafo único do artigo 16 da referida norma, “in verbis”:
+    Art. 16- (…)
+    Parágrafo único - Em se tratando de imóvel rural, poderão ser adotados os valores médios da terra-nua e das benfeitorias divulgados pela Secretaria de Agricultura e Abastecimento do Estado de São Paulo ou por outro órgão de reconhecida idoneidade, vigentes à data da ocorrência do fato gerador, quando for constatado que o valor declarado pelo interessado incompatível com o de mercado.”
+    Constata-se que o decreto aponta base de cálculo distinta da prevista em lei, incorrendo em clara ofensa ao princípio da legalidade tributária (Constituição Federal, artigo 150, I e Código Tributário Nacional, artigos 97, II e IV). E quando o legislador disse que o valor da base de cálculo não será inferior ao fixado para o lançamento do ITR,evidentemente não delegou a fixação da base de cálculo à normatização inferior, pois não poderia fazê-lo.
+    Acerca da questão trazida à baila a Colenda 9ª Câmara de Direito Público já teve oportunidade de enfatizar: “A tese de que não teria havido aumento de tributo, pois a base de cálculo permaneceu a mesma é falaciosa. Mesmo que se tenha como correto o fato de que a base de cálculo continuou a ser o valor venal do imóvel, como este (seu valor venal) foi alterado por meio de tais atos infralegais, por certo, que também o foi o tributo.” (Apelação nº 0024135-68.2010.8.26.0053, Rel. Des. SERGIO GOMES, j. 11/07/2012).”(eDOC 1, p. 119-121).
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Além disso, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO DE BENS IMÓVEIS ITBI. VALOR DA BASE DE CÁLCULO. 1. A jurisprudência do STF é firme no sentido de que o valor da base de cálculo do ITBI cinge-se ao âmbito infraconstitucional, tendo em vista que o acórdão recorrido assentou a causa com base em legislação local. Súmulas 279 e 280. 2. Agravo regimental a que se nega provimento” (RE 644563 AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe 25.11.2015).
+    ‘AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS. NATUREZA JURÍDICA DAS VERBAS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 612.173 AgR, Min. Rel. Cármen Lúcia, Primeira Turma, DJe 1º.12.2010).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO – ITCMD. JUROS LEGAIS E MULTA. 1. Reserva de plenário. Ausência de contrariedade ao art. 97 da Constituição da República. Inexistência de declaração de inconstitucionalidade de lei federal. Precedentes. 2. Análise de normas infraconstitucionais. Ofensa constitucional indireta. 3. Agravo regimental ao qual se nega provimento” (ARE 768.206 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 29.10.2013).
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista tratar-se de mandado de segurança na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC, em virtude do art. 25 da Lei 12.016/2009.
+    Publique-se.
+    Brasília, 23 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
