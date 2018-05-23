@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos, o qual inadmitiu recurso especial sob os seguintes fundamentos: (a) ausência de demonstração de afronta aos artigos arrolados, (b) aplicação da Súmula n. 7/STJ e (c) não comprovação do dissídio jurisprudencial (e-STJ fls. 298/299).
+O acórdão recorrido está assim ementado (e-STJ fl. 267):
+PRESTAÇÃO DE CONTAS (1ª FASE) - Contrato de conta-corrente e outras operações de mútuo - Impugnação pelos correntistas de anotações de débito nos órgãos de proteção ao crédito  Obrigação da instituição financeira de demonstrar a origem e a composição dos valores anotados nos cadastros de inadimplentes  Resistência à pretensão bem evidenciada  Direito de reclamar contas reconhecido  Recurso provido.
+O recurso especial (e-STJ fls. 273/290), fundamentado no art. 105, III, alínea "a" e "c", da CF, apontou, além do dissídio jurisprudencial, ofensa aos arts. 319, 330, IV, 550, § 1º, 552 e 553 do CPC/2015. Sustentou, em síntese, inépcia da inicial, vez que o pedido de prestação de contas deveria ser certo e determinado, com indicação precisa do período de tempo e dos lançamentos contestados.
+O agravo (e-STJ fls. 302/313) refuta os fundamentos da decisão agravada e alega o cumprimento de todos os requisitos legais para o recebimento do especial.
+Não foi apresentada contraminuta (e-STJ fl. 321).
+É o relatório.
+Decido.
+É pacífico o entendimento de que o correntista tem direito a solicitar informações acerca dos lançamentos efetuados unilateralmente pelo banco em sua conta, ainda que haja remessa regular de extratos.
+Essa orientação, a propósito, foi consolidada com a edição da Súmula n. 259/STJ: "A ação de prestação de contas pode ser proposta pelo titular de conta corrente bancária."
+Nada obstante, de acordo com a interpretação mais recente desta Corte a respeito da matéria, a ação de prestação de contas "não se destina à revisão de cláusulas contratuais e não prescinde da indicação, na inicial, ao menos de período determinado em relação ao qual busca esclarecimentos o correntista, com a exposição de motivos consistentes, ocorrências duvidosas em sua conta-corrente, que justificam a provocação do Poder Judiciário" (REsp n. 1.231.027/PR, Relatora Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 12/12/2012, DJe 18/12/2012).
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. CONTRATO BANCÁRIO. SÚMULA 259/STJ. IMPOSSIBILIDADE, PORÉM, DE ACOLHIMENTO DE PEDIDO GENÉRICO E INESPECÍFICO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conquanto a jurisprudência desta Corte tenha-se firmado no sentido de que "a ação de prestação de contas pode ser proposta pelo titular de conta-corrente bancária" (Súmula 259/STJ), independentemente do prévio fornecimento de extratos, é imprescindível que, na petição inicial, sejam indicados motivos consistentes acerca de ocorrências duvidosas na conta-corrente, bem como o período determinado sobre o qual se busca esclarecimentos, não se admitindo, para tal fim, a afirmação genérica de que se busca prestação de contas desde a sua abertura até os dias atuais.
+Ademais, para a revisão da contratualidade, deve a parte ajuizar ação ordinária, cumulada com eventual repetição do indébito (AgRg no REsp 1.203.021/PR Relatora p/ acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 24/10/2012).
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 469.025/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/3/2014, DJe 11/4/2014.)
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. PRINCÍPIO DA FUNGIBILIDADE. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PEDIDO GENÉRICO. REVISÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULA N. 83/STJ.
+1. Admitem-se como agravo regimental os embargos de declaração opostos a decisão monocrática proferida pelo relator do feito no Tribunal. Princípios da economia processual e da fungibilidade.
+2. Descabe a ação de prestação de contas quando formulado pedido genérico, em que não foram indicados os períodos em relação aos quais se buscam esclarecimentos, com a exposição de motivos que justifiquem a dúvida, sendo incabível também quando se pretende discutir cláusulas contratuais. Súmula n. 83/STJ.
+3. Agravo regimental do ITAÚ UNIBANCO S/A provido. Agravo regimental de AUTO POSTO 500 MILHAS LTDA. não conhecido.
+(EDcl no AREsp n. 155.376/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 10/9/2013, DJe 16/9/2013.)
+O Tribunal de origem, ao apreciar o recurso de apelação, manteve a sentença recorrida, nos seguintes termos (e-STJ fl. 268):
+Ainda que implique árduo trabalho não se deve obstaculizar o exercício do direito de ação que detêm os correntistas (titulares da conta-corrente bancária) de solicitar os esclarecimentos que lhe sejam pertinentes, mesmo que tal abarque todo o período de vigência dos contratos entabulados.
+Ademais, fundada a pretensão justamente na falta ou na imprecisão de informações, configura-se rigor excessivo exigir do demandante que especifique um a um todos os contratos/ lançamentos que lhe pareçam duvidosos, até porque a demanda visa também obter informações para, posteriormente, averiguar-se a legalidade e adequação dos débitos efetuados.
+Ocorre que a petição inicial (e-STJ fls. 2/14) não individualiza lançamentos ou valores dos quais a parte autora discorda, não se admitindo a afirmação genérica de que se busca "prestar contas acerca das contas bancárias dos Requerentes, especificando o que foi pago, o que foi recebido, quais os valores constantes em poupança e investimentos, bem como qual o saldo devedor" (e-STJ fl. 8).
+Com efeito, "na ação de prestação de contas ajuizada pelo titular de conta-corrente, não basta a mera presunção genérica de que há possível erro nos lançamentos para respaldar o pedido inicial, sendo necessária a indicação específica das ocorrências duvidosas na conta-corrente e do respectivo período" (AgRg nos EDcl nos EAREsp n. 115.248/MS, Relator Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 24/2/2016, DJe 26/2/2016).
+Desse modo, tem-se que o acórdão recorrido dissente da jurisprudência desta Corte.
+Ante do exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial, para extinguir o processo sem resolução de mérito, por falta de interesse processual da autora.
+Condeno os recorridos às custas e aos honorários advocatícios, os quais fixo em R$ 5.000,00 (cinco mil reais), com fundamento no art. 85, § 8º, do CPC/2015.
+Publique-se e intimem-se.
