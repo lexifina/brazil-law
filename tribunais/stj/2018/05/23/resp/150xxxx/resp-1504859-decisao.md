@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535, INC. II, DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ARTIGOS TIDOS POR VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TRF3 assim ementado (fl. 89):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. REQUISIÇÃO DE EXPEDIÇÃO DE OFÍCIO AO DETRAN PARA BLOQUEIO DE VEÍCULOS ANTES DA CITAÇÃO DOS CO-EXECUTADOS. AUSÊNCIA DE INTERESSE E DE PREVISÃO LEGAL. MEDIDA INÓCUA.
+l. O presente agravo de instrumento, que visa impugnar a parte da decisão que indeferiu a expedição de oficio ao DETRAN para bloqueio dos veículos, foi interposto antes da citação dos sócios, não havendo, na verdade, interesse da União em recorrer da decisão, pois o pedido foi feito, como dito, para que a medida fosse tomada apenas na hipótese de os co-executados não oferecerem bens à penhora.
+2. Não tendo havido citação, não foi dada, ainda, a oportunidade aos sócios para nomeação de bens.
+3. A expedição de oficio ao DETRAN visando a anotação em seus registros a fim de indisponibilizar veículo, visando futura penhora, é medida que não tem previsão legal, afigurando-se, além disso, inócua, uma vez que a simples anotação nos registros do DETRAN, sem a efetivação da penhora, não impede a sua alienação.
+4. Agravo de instrumento não provido. Agravo regimental não conhecido.
+Embargos de declaração rejeitados.
+A recorrente alega violação do art. 535, inc. II, do CPC/1973, ao argumento de que a Corte de origem deixou de se pronunciar acerca de questões importantes para o deslinde da constrovérsia.
+Quanto à questão de fundo, sustenta ofensa aos arts. 273, §7º, 593; 615 e 798 do CPC/73 e 185 do CTN. Sustenta que deve ser determinada a expedição de ofício ao DETRAN/SP para consignar a restrição do veículo, por ser inegável a utilidade da medida cautelar requerida, incidentalmente, posto que destinada a assegurar o resultado útil ao processo.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 120.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+De pronto, não se conhece da suposta afronta ao artigo 535 do CPC, quando a parte recorrente se limita a afirmar, genericamente, sua violação, sem, contudo, demonstrar especificamente que temas não foram abordados pelo aresto vergastado, incidindo, por conseguinte, o enunciado 284 da Súmula do STF.
+Lado outro, evidencia-se que os arts. 273, §7º, 593; 615 e 798 do CPC/73 e 185 do CTN (e as teses a eles vinculadas) não foram apreciados pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Outrossim, a recorrente, ao indicar ofensa aos referidos dispositivos e direcionar a sua tese no sentido de que deve ser determinada a expedição de ofício ao DETRAN/SP para consignar a restrição do veículo, por ser inegável a utilidade da medida cautelar requerida, incidentalmente, posto que destinada a assegurar o resultado útil ao processo, deixou de impugnar o fundamento do acórdão recorrido segundo o qual "O presente agravo de instrumento, que visa impugnar a parte da decisão que indeferiu a expedição de oficio ao DETRAN para bloqueio dos veículos, foi interposto antes da citação dos sócios, não havendo, na verdade, interesse da União em recorrer da decisão, pois o pedido foi feito, como dito, para que a medida fosse tomada apenas na hipótese de os co-executados não oferecerem bens à penhora" (fls. 87-90).
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
