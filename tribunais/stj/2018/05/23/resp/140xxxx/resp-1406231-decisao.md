@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por MAURÍCIO SABINO DE MATOS, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 155):
+PENSÃO POR MORTE. TRABALHADOR RURAL. REQUISITOS LEGAIS.
+A concessão do benefício de pensão depende da ocorrência do evento morte, da condição de dependente de quem objetiva a pensão e da demonstração da qualidade de segurado do de cujus.
+Para a obtenção do benefício de pensão por morte deve a parte interessada preencher os requisitos estabelecidos na legislação previdenciária vigente à data do óbito, consoante iterativa jurisprudência dos Tribunais Superiores e desta Corte.
+Não estando preenchidos todos os requisitos legais para a concessão do benefício, não faz jus a parte autora à pensão por morte.
+Rejeitados os aclaratórios (e-STJ fls. 167/173).
+Nas suas razões, o recorrente aponta preliminar de ofensa ao art. 535, I, do Código de Processo Civil/1973, alegando haver contradição entre a conclusão do acórdão - ao afirmar que "a falecida era trabalhadora rural durante o dia e urbana no período noturno"- e o depoimento das testemunhas no sentido de que sua falecida esposa "exerceu a atividade rurícola até poucos dias imediatamente anteriores à data de seu óbito" (e-STJ fl. 181).
+Sustenta, ainda, que a decisão do Tribunal de origem foi omissa: (i) quanto à aceitação do acervo probatório apresentado nos autos como início de prova material para efeito de comprovação da atividade campesina da instituidora da pensão; (ii) no tocante à força probatória da prova testemunhal para corroborar o exercício da atividade agrícola da falecida até o seu óbito; (iii) sobre o caráter de indispensabilidade da renda rural para a subsistência do grupo familiar; e (iv) a respeito dos artigos legais violados, a fim de viabilizar o prequestionamento da matéria federal.
+Sem contrarrazões (e-STJ fl. 186).
+Passo a decidir.
+De início, registro que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito tal esclarecimento, verifico que não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, seja no quesito "contradição" seja na "omissão", porquanto o que se constata é apenas entendimento discordante com a pretensão do recorrente, in verbis (e-STJ fl. 153):
+O falecimento da suposta segurada, ocorrido em 25/06/1997, foi comprovado mediante apresentação da certidão de óbito (fl. 12).
+A dependência do cônjuge e filhos, nos termos do § 4º do art. 16, da LBPS, considera-se presumida.
+Compulsando os presentes autos depreende-se não haver nenhum documento em que a de cujus ou seu esposo, ora apelante, estejam qualificados como lavradores e/ou agricultores.
+O documento mais atual que poderia sugerir que o autor e/ou sua esposa desempenhavam atividade rural é uma nota fiscal datada de 16/06/1992 (fl. 26).
+A prova testemunhal produzida em juízo (fls. 55/58), por sua vez, afirma que o autor e sua falecida esposa além de trabalhar na roça durante o dia trabalhavam consertando sapatos durante a noite por cerca de 15 anos até o seu falecimento. Cumpre registrar que a profissão do autor declarada na certidão de casamento (fl. 11) foi sapateiro. O próprio autor, em seu depoimento pessoal, afirmou que trabalhava na lavoura durante o dia e, à noite, como sapateiro até o falecimento de sua esposa.
+Assim, ainda que a de cujus tenha desenvolvido atividade rural, restou descaracterizado - de acordo com as provas dos autos - o regime de economia familiar do casal, tendo em vista que não viviam somente da produção rural. Tanto o autor quanto sua falecida esposa, por mais de 15 anos, possuíam outra fonte de renda advinda da atividade urbana, a de sapateiro.
+Portanto não merece reparos a sentença que julgou improcedente o pedido inicial.
+Ante o exposto, voto por negar provimento ao apelo.
+Nesse sentido, calha asseverar que "não caracteriza violação do art. 535 do CPC quando a lide é decidida de modo claro, suficiente e fundamentado, ainda que o entendimento adotado seja contrário à pretensão deduzida pelo recorrente" (AgRg no REsp 1570382/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 03/03/2016, DJe 11/03/2016).
+Cabe acentuar que "a contradição que enseja os embargos de declaração é apenas a interna, aquela que se verifica entre as proposições e conclusões do próprio julgado, não sendo este o instrumento processual adequado para a correção de eventual error in judicando (..)" (EDcl no AgRg nos EREsp 1.191.316/SP, Rel. Ministro Sidnei Beneti, Corte Especial, DJe 10/5/2013)".
+Outrossim, "somente o recurso típico (não a ação de mandado de segurança) pode questionar o acerto de um julgado proferido e revisar os seus termos para corrigir alegado error in judicando" (AgRg no MS 22.653/DF, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 07/12/2016, DJe 15/12/2016).
+Por fim, não haverá majoração de honorários recursais, por se tratar de pleito deduzido na vigência do Código de Processo Civil de 1973.art. 85 do CPC/2015.
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
