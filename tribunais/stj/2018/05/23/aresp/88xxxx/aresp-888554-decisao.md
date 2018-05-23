@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544), interposto contra decisão que inadmitiu o recurso especial, sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados, (b) aplicação da Súmula n. 7 do STJ e (c) não comprovação do dissídio jurisprudencial, por falta de cotejo analítico (e-STJ fls. 274/275).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 210):
+Ação de usucapião - Sentença de procedência em parte - Pretensão de declaração de domínio acerca da área do entorno da Catedral do Município de São João da Boa Vista - Local que se afigura como bem público - Leis e Decretos municipais revelam a posse e titularidade da Municipalidade sobre a área - Praça de uso comum do povo - Prefeitura zela pela conservação do local - Bem dominial não é passível de usucapião (inteligência dos 183 da Constituição Federal e 102 do Código Civil) - Recurso não provido. Nega-se provimento ao recurso.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 225/229).
+Nas razões do recurso especial (e-STJ fls. 232/240), interposto com base no art. 105, III, "a" e "c", da CF, a recorrente apontou violação do art. 535, I, do CPC/1973, argumentando existir obscuridade no aresto impugnado, devido à existência de má valoração das provas dos autos, o que teria impossibilitado a declaração da usucapião requerida.
+Aduziu, além de dissídio jurisprudencial, desrespeito ao art. 1.238 do CC/2002, visto que estariam presentes os requisitos necessários ao reconhecimento da usucapião especial postulada, tal qual o exercício de posse pacífica, ininterrupta e com animus domini e o preenchimento do lapso temporal previsto em lei.
+Acrescentou que inexistiria comprovação da titularidade do recorrido sobre o imóvel usucapiendo, motivo por que seria descabido considerá-lo bem de natureza pública e, por consequência, afastar a prescrição aquisitiva invocada por esse fundamento.
+Foram apresentadas contrarrazões (e-STJ fls. 262/272).
+No agravo (e-STJ fls. 278/280), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 282).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, por isso devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Não assiste razão à recorrente quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo decidiu a matéria controvertida, não incorrendo em omissão, contradição ou obscuridade (e-STJ fls. 208/214 e 225/229).
+Ressalte-se que o fato de o julgamento ser contrário aos interesses das partes não configura nenhum dos vícios do art. 489, § 1º, do CPC/2015 (CPC/1973, art. 458), tampouco hipótese de cabimento dos aclaratórios.
+Ademais, conforme jurisprudência consolidada desta Casa, "A errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório e não para que se colham novas conclusões sobre os elementos informativos do processo" (AgInt no AREsp n. 970.049/RO, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/5/2017, DJe 9/5/2017).
+No mesmo sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CERCEAMENTO DO DIREITO DE DEFESA. PROVA PERICIAL INDEFERIDA. DIREITO CAMBIÁRIO. NOTA PROMISSÓRIA. ALEGAÇÃO DE NÃO PAGAMENTO EXTRACARTULAR. INCIDÊNCIA DA SÚMULA 7 DO STJ. OPOSIÇÃO DE EXCEÇÕES PESSOAIS. POSSIBILIDADE. TÍTULO. NÃO CIRCULAÇÃO.
+(..)
+3. A valoração da prova em recurso especial pressupõe que tenha havido contrariedade a princípio ou norma legal pertinente ao campo probatório. Na hipótese de a questão situar-se no propósito de análise das circunstâncias fáticas que nortearam o acórdão recorrido ou na rediscussão dos depoimentos testemunhais, a questão ultrapassa a valoração da prova para assentar-se em novo exame da prova para reavaliá-la.
+4. Recurso especial conhecido em parte e desprovido.
+(REsp n. 1.367.403/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 14/6/2016, DJe 16/6/2016.)
+A recorrente defende a existência de má valoração das provas dos autos pela Corte local, ante a rejeição da declaração da usucapião postulada em segunda instância.
+Outrossim, depreende-se da análise do aresto impugnado (e-STJ fls. 208/214 e 225/229) inexistir contrariedade a princípio ou norma legal referente ao direito probatório.
+Dessa forma, na linha dos precedentes acima expostos, a pretensão da parte recorrente de rediscutir as premissas que ensejaram o afastamento da usucapião postulada, nos moldes sustentados no especial, não encontra amparo na jurisprudência desta Corte Superior.
+O Tribunal a quo não reconheceu a usucapião alegada pela recorrente sobre o imóvel litigioso, ao entender que não havia nos autos prova da posse ad usucapionem, requisito necessário à prescrição aquisitiva, tendo em vista que (e-STJ fls. 212/214):
+Busca a apelante o reconhecimento de prescrição aquisitiva em relação à área do entorno da Catedral do Município de São João da Boa Vista, que por sua vez é classificada pela Municipalidade como sendo bem público e, portanto, impossível de ser usucapido. Em relação ao reconhecimento da usucapião em face da área ocupada pela Catedral propriamente dita, não houve qualquer oposição, restando preclusa a oportunidade de discussão acerca do assunto, remanescendo a disputa em relação à área do entorno.
+Inicialmente, cumpre analisar se a área usucapienda correspondente ao entorno da Catedral invade bem dominial, fato este que obstaria a apreciação da existência dos demais requisitos da usucapião, conforme disposto no artigo 183 da Constituição Federal e 102 do Código Civil.
+O conjunto probatório se distancia das alegações da postulante e revela que a área sub judice é bem público Municipal. Restou demonstrado que é a Prefeitura quem zela pela conservação da parte elétrica e hidráulica do local (fls. 85/89), além de cuidar e conservar o bem em benefício da população.
+Ademais, restou incontroverso pela análise das plantas, memoriais descritivos e das fotos trazidas por ambas as partes que o local se afigura como praças, utilizadas pela população como um todo e não apenas pelos católicos frequentadores da Igreja.
+As Leis e os Decretos Municipais relacionados pela Municipalidade às fls. 63/70 comprovam este fato, além de revelarem que a Prefeitura exerce a posse sob a área,
+concedendo autorização para a realização de homenagens em seu entorno e permitindo que o bem seja utilizado a título precário por particulares. Neste sentido, a certidão de fls. 8 que acompanha a inicial não é capaz de elidir a força dos atos acima praticados pela Municipalidade.
+Insta destacar que o bem usucapiendo está situado no Centro da Cidade de São João da Boa Vista, local de inequívoca movimentação e relevância cultural, econômica e social para os cidadãos locais, diretamente representados pelo Poder Municipal.
+Os documentos trazidos pela Diocese postulante, por outro lado, não foram suficientes para elidir o caráter dominial do bem e sequer o exercício da posse dotada dos atributos para autorizar a prescrição aquisitiva em seu favor.
+A este respeito, verifica-se que o documento colacionado às fls. 115 não comprova robustamente a aquisição da área por permuta, uma vez que se trata de mera declaração de advogado, sem qualquer contrato, processo ou certidão pública para atestar, de forma cabal, referida alegação. Tampouco o contrato de locação do espaço por um parque infantil atesta o exercício da posse ad usucapiendo.
+Portanto, o recurso não comporta provimento, tendo a r. sentença conferido satisfatória solução à lide.
+Em face do exposto, pelo voto, Nega-se provimento ao recurso, mantidos os termos da r. sentença.
+Ao rejeitar os aclaratórios, a Corte local frisou ainda que (e-STJ fls. 227/228):
+Conforme alega a Diocese embargante, o acórdão teria sido obscuro quanto à valoração das provas constantes dos autos, porquanto se baseou em leis e decretos trazidos pela embargada que não dizem respeito à praça em comento, afirmando que a área que se pretende usucapir está cadastrada na Prefeitura de São João da Boa
+Vista desde 1978 sem qualquer oposição da Municipalidade.
+No entanto, o acórdão expressa e motivadamente concluiu que o imóvel usucapiendo corresponde à área de domínio público não apenas pelos decretos e leis municipais colacionados, mas também pela análise dos memoriais descritivos, plantas e fotos trazidas por ambas às partes, que levaram a concluir tratar-se inequivocamente de praça pública.
+Ademais, constatou a posse ostensiva do local por parte da Municipalidade mediante a "inequívoca movimentação e relevância cultural, econômica e social para os cidadãos locais, diretamente representados pelo Poder Municipal" (fls. 192).
+Serviu também como elemento de convicção deste juízo, a demonstração de que "é a Prefeitura quem zela pela conservação da parte elétrica e hidráulica do local, além de
+cuidar e conservar o bem em benefício da população" (fls. 191).
+Concluiu-se, ainda, de forma clara e inequívoca, a ausência de demonstração de que a posse exercida pela embargante é dotada dos atributos da posse ad usucapionem, motivo pelo qual o recurso de apelo teve seu provimento negado.
+Dissentir das conclusões da Corte de origem, para admitir que haveria nos autos prova da existência dos requisitos que permitiriam reconhecer a usucapião pleiteada pela parte recorrente sobre o bem, segundo defendido no especial, exigiria o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ. A esse respeito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. REEXAME DE PROVAS. SÚMULA 7/STJ.
+(..)
+2. É inviável rever a conclusão do Tribunal de origem de que não estão presentes os requisitos para o reconhecimento de usucapião, porquanto demandaria reexame de provas, o que é vedado, nos termos da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 703.139/GO, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 4/5/2017, DJe 9/5/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL E CIVIL. ÔNUS PROBATÓRIO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. AÇÃO DE USUCAPIÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. É inviável a esta Corte a análise da suficiência das provas e da satisfação do ônus probatório das partes em virtude do óbice da Súmula nº 7/STJ.
+2. O tribunal de origem, com base no acervo fático-probatório, concluiu não ter ficado comprovado o animus domini dos autores. Entendimento diverso por meio do recurso especial demandaria o revolvimento do contexto probatório, atraindo a incidência da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 963.166/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 7/3/2017, DJe 21/3/2017.)
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015).
+Segundo assente na jurisprudência das Turmas da Segunda Seção desta Corte Superior, "nos termos dos artigos 541, parágrafo único, do CPC/1973 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações" (AgInt no REsp n. 1.444.474/MG, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/9/2017, DJe 28/9/2017).
+Na mesma linha: AgRg no AREsp n. 304.921/MT, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016, e AgInt nos EDcl no REsp n. 1.648.982/SP, de minha Relatoria, QUARTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017.
+De tais ônus a recorrente não se desincumbiu, pois se limitou a transcrever as ementas dos julgados a partir dos quais defendeu a divergência de entendimento jurisprudencial sobre o tema debatido.
+Dessa forma, não bastando tal providência para comprovar o dissídio alegado, é inviável conhecer do recurso no ponto.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
