@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. FORNECIMENTO DE MEDICAMENTOS. VIOLAÇÃO AO ART. 1022 DO CPC/2015. INOCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela Sociedade Mineira de Cultura, contra decisão proferida pelo Tribunal de Justiça do Estado de Minas Gerais, que inadmitiu recurso especial manejado contra acórdão assim ementado (fl. 280 e-STJ):
+EMENTA: DIREITO CONSTITUCIONAL. REEXAME NECESSÁRIO. APELAÇÃO CÍVEL. DIREITO À SAÚDE. IMPRESCINDIBILIDADE DO TRATAMENTO PRESCRITO. OBRIGAÇÃO DO ESTADO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES DA FEDERAÇÃO. AMPARO LEGAL.
+- Conforme precedente do Excelso Supremo Tribunal Federal (julgamento realizado sob os auspícios da repercussão geral), "o tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente".
+- O direito a receber atendimento digno e adequado de saúde é direito social, cabendo ao ente público assegurar o efetivo tratamento médico ao cidadão, nos termos dos arts. 6º, 23, II e 196, todos da Constituição da República Federativa do Brasil de 1.988.
+- Demonstrada a enfermidade, bem como a imprescindibilidade do tratamento prescrito, não há como desobrigar o Estado de seu dever constitucional de fornecê-lo e custeá-lo.
+- A apresentação de receituário médico atualizado é medida salutar, a fim de que a Administração Pública possa controlar a aquisição do medicamento e as verbas públicas destinadas à aludida compra.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem nos seguintes termos (fl. 308):
+EMENTA: EMBARGOS DE DECLARAÇÃO - VÍCIOS INEXISTENTES - REJEIÇÃO.
+- Os embargos de declaração não têm por escopo a reforma do julgado e não permitem a rediscussão da matéria, sendo cabíveis apenas nos casos em que se verifiquem as hipóteses do art. 1.022 do Novo Código de Processo Civil, mesmo para fins de prequestionamento.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, o recorrente aponta violação aos seguintes dispositivos: a) arts. 140 e 1022, II, do CPC/2015, aduzindo que a instância a quo não apreciou todas as questões suscitadas; e b) arts. 85, § 2º, § 3º, § 4º, § 6º, § 11, 292, 3º, 293, 489, § 1º, II e III, do CPC/2015, sustentando que os critérios utilizados pela Corte de origem na redução do valor arbitrado a título de honorários advocatícios revelam-se indevidos, e, requere a manutenção do valor fixado na sentença.
+Contrarrazões às fls. 341/344 e-STJ.
+A Corte de origem inadmitiu o recurso especial sob o fundamento de que: a) não há que se falar em negativa de prestação jurisdicional; e b) a pretensão recursal demanda o revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7/STJ.
+No agravo, o agravante postula pelo processamento do recurso especial, uma vez que presentes os requisitos para sua admissibilidade.
+Sem contraminuta.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Quanto à alegação de violação do artigo 1022, II, do CPC/2015, sabe-se que as proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+In casu, o acórdão foi preciso e suficientemente claro no desenvolvimento de seus fundamentos. Em verdade, o Tribunal de origem decidiu de forma fundamentada acerca do valor fixado a título de honorários advocatícios.
+Destaca-se que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1022 do CPC, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AÇÃO MONITÓRIA. CHEQUE PRESCRITO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU FALTA DE MOTIVAÇÃO NO ACÓRDÃO A QUO. DECISUM ESTADUAL TODO FUNDADO EM FATOS E PROVAS. SÚMULA N. 7/STJ.AGRAVO NÃO PROVIDO.
+1. Acórdão estadual claro e nítido, sem omissões, obscuridades, contradições ou ausência de motivação. Não obstante a oposição de embargos declaratórios, não são eles mero expediente para forçar o ingresso na instância especial, se não há vício a suprir; inexistente, portanto, ofensa ao art. 535 do CPC, pois a matéria foi devidamente abordada no aresto a quo.
+ ..
+3. Agravo regimental não provido.
+(AgRg no AREsp 638.454/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/03/2015, DJe 10/03/2015)
+No que diz respeito à fixação dos honorários advocatícios, manifestou-se o Tribunal a quo (fl. 288 e-STJ):
+Por fim, quanto aos honorários advocatícios de sucumbência, arbitrados em 10% (dez por cento) sobre o valor atribuído à causa, constata-se que não se afiguram razoáveis. É que, embora atendido o comando do art. 85, § 2o e § 3o, inciso I, do Novo Código de Processo Civil, a autora atribuiu à causa o valor de R$ 144.000,00 (cento e quarenta e quatro mil reais). Assim, a importância histórica dos honorários advocatícios de sucumbência eqüivaleria a R$ 14.400,00 (quatorze mil e quatrocentos reais), que se mostram desproporcionais, considerando, especialmente, a natureza da causa e a singeleza da demanda ora apreciada.
+Devem os honorários advocatícios de sucumbência ser reduzidos, pois, para a quantia de R$ 2.000,00 (dois mil reais).
+Com efeito, observa-se que o exame probatório empreendido pela Corte a quo resultou na compreensão de que o valor fixado, pela sentença, a título de honorários sucumbenciais afiguram-se desproporcionais e demandam redução. Trata-se de conclusão decorrente de análise dos documentos juntados aos autos, motivo pelo qual a reversão do entendimento demandaria o reexame de fatos. Logo, não é possível acolher a pretensão recursal porque seria necessário reexaminar conjunto fático-probatório dos autos, o que não é possível em sede de recurso especial, em face do óbice da Súmula 7/STJ.
+Ilustrativamente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. FORNECIMENTO DE FÁRMACO. IMPRESCINDIBILIDADE DA MEDICAÇÃO NÃO INCORPORADA AO SUS. REEXAME DO ACERVO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A decisão recorrida está de acordo com a jurisprudência desta Corte Superior, firme no sentido de que é possível "o fornecimento de medicamentos não incorporados ao SUS mediante Protocolos Clínicos, quando as instâncias ordinárias verificam a necessidade do tratamento prescrito" (AgRg no AREsp 697.696/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/06/2015, DJe 26/06/2015.).
+3. A alteração das conclusões adotadas pela Corte de origem, de modo a se aferir a necessidade do medicamento pleiteado, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 962.285/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/09/2016, DJe 05/10/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS. IRRISORIEDADE. REVISÃO. NÃO CABIMENTO. REEXAME FÁTICO-PROBATÓRIO. AGRAVO NÃO PROVIDO.
+1. Tendo sido os honorários advocatícios fixados com base na apreciação equitativa da prestação do serviço pelo advogado, sua revisão impõe incontornável reexame dos aspectos fáticos da lide. Incidência do enunciado 7 da Súmula do STJ.
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 460.367/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 03/04/2014, DJe 23/04/2014)
+Ante o exposto, com fundamento no artigo 932, III e IV, do CPC/2015 c/c artigo 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento. E, quanto ao ônus da sucumbência recursal, em observância ao artigo 85, § 11, do CPC/2015 c/c o Enunciado Administrativo 7/STJ, majoro os honorários de advogado para 10% sobre o valor da condenação.
+Publique-se. Intimem-se.
