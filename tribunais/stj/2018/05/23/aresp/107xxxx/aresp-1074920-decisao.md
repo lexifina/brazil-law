@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE SUSPENSÃO DA INCLUSÃO NO CADIN ESTADUAL DECIDIDA PELO TRIBUNAL DE ORIGEM COM BASE NA LEI 12.799/2008, DO ESTADO DE SÃO PAULO, O QUE ATRAI A INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por FLYER INDÚSTRIA AERONÁUTICA LTDA., com fundamento nas alíneas a e c do art. 105, III, da Constituição Federal, em face do acórdão proferido pelo TJ/SP, assim ementado:
+MANDADO DE SEGURANÇA  Apelação da Fazenda do Estado de São Paulo  Falta de assinatura  Recurso inexistente  Pessoa jurídica  Débito de ICMS  Suspensão de registro perante o CADIN ESTADUAL  Impossibilidade  Ausência de comprovação da suspensão da exigibilidade do crédito tributário  Art. 8º da Lei Estadual 12.799/08  Ofensa a direito líquido e certo não reconhecida  Segurança denegado  Recurso de apelação não conhecido, reexame necessário provido (fls. 149).
+2. Nas razões do seu Apelo Nobre, a parte recorrente sustenta, além de divergência entre julgados, violação dos arts. 364, 365, I, 535, II, do CPC/1973 e 16, § 1o., da Lei 6.830/1980, aduzindo que a jurisprudência ao analisar a possibilidade de concessão de liminar e segurança para impedir a inclusão do nome do contribuinte no CADIN estadual quando há garantia integral do executivo fiscal já se manifestou no sentido de que embora a Lei 12.799/2008, seja lei estadual, não inclua entre as hipóteses de suspensão da inclusão do devedor no CADIN a discussão judicial com garantia idônea há de ser admitida essa hipótese como causa de suspensão da inclusão no CADIN para se evitar prejuízo a empresa (fls. 166).
+3. Sem contrarrazões (fls. 178), o recurso fora inadmitido na origem (fls. 183/184).
+4. É o breve relatório.
+5. A irresignação não merece prosperar.
+6. Com efeito, o Tribunal de origem concluiu que a Lei Paulista 12.799/2008 prevê a suspensão do registro do CADIN quando houver a suspensão da exigibilidade do crédito em questão, nos termos do art. 8o., e que o débito esteja com sua exigibilidade suspensa.
+7. Nesse diapasão, a apreciação da insurgência, como requerida, demandaria, necessariamente, a interpretação da norma local referida, o que é vedado na via do especial, ante o óbice da Súmula 280/STF. Nesse sentido:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CADIN ESTADUAL. SUSPENSÃO DA INSCRIÇÃO. EXAME DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. DÍVIDA FISCAL COM GARANTIA IDÔNEA. VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ.
+1. O exame acerca da exclusão do nome da parte agravada do CADIN estadual, tal como enfrentada a questão pelas instâncias ordinárias, exigiria a análise do art. 8o da Lei Estadual 12.799/08 do Estado de São Paulo, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário).
+2. Ademais, a alteração das conclusões adotadas pela Corte de origem, de que na execução fiscal, especificamente nos embargos nela opostos, há garantia do juízo por meio de penhora e depósito judicial (fl. 242), tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento (AgRg no AREsp. 518.334/SP, Rel. Min. SÉRGIO KUKINA, DJe 20.10.2014).
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. REGISTRO NO CADIN ESTADUAL. FIANÇA BANCÁRIA. INEXISTÊNCIA DE SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. LEGISLAÇÃO ESTADUAL. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. Esta Corte possui entendimento pacífico de que somente o depósito em dinheiro do montante integral devido possui o condão de suspender a exigibilidade do crédito tributário, não se incluindo nesse conceito a fiança bancária. Incidência da Súmula 112/STJ.
+2. A leitura da tese recursal expõe a presença do impeditivo descrito na Súmula 280/STF, porquanto a fundamentação do aresto é calcada em interpretação de lei e decretos estaduais.
+3. Agravo interno a que se nega provimento (AgInt no REsp. 1.576.817/SP, Rel. Min. OG FERNANDES, DJe 7.11.2016).
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial interposto por FLYER INDÚSTRIA AERONÁUTICA LTDA.
+9. Publique-se.
+10. Intimações necessárias.
