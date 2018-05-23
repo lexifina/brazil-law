@@ -1,0 +1,17 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Instituto Nacional do Seguro Social – INSS contra acórdão que, confirmado em sede de embargos de declaração pela 3ª Turma Recursal do Juizado Especial Federal de Santa Catarina, teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Leis nºs 5.645/1970 e 10.855/2004 e Decreto nº 84.669/1980), o que torna incognoscível o apelo extremo.
+    A mera análise do acórdão em referência demonstra que o órgão judiciário de origem, ao proferir a decisão questionada, apoiou-se em dispositivos de ordem meramente legal:
+    “Examinei os autos e concluí que as razões apresentadas pela recorrente não são suficientes para infirmar o que foi decidido, de modo que a sentença merece confirmação pelos próprios fundamentos, nos termos do art. 46 da Lei nº 9.099/95, combinado com o art. 1º da Lei nº 10.259/2001.
+    Destaco os seguintes trechos da sentença:
+    (...)
+    A Turma Nacional de Uniformização – TNU, na sessão de julgamento do dia 15/04/2015, decidiu no processo nº 5051162- -83.2013.4.04.7100 que o INSS deve proceder à revisão das progressões funcionais de servidor respeitando o interstício de 12 meses, até que sobreviesse o decreto regulamentar previsto no artigo 8º da Lei 10.855/2004, porque, enquanto não fosse editado tal ato, deveriam ser observadas as disposições aplicáveis aos servidores do Plano de Classificação de Cargos de que trata a Lei 5.645/1970, aplicando-se o prazo de 12 meses, segundo o Decreto regulamentar respectivo, 84.669/1980:
+    ..............................................................................................
+    Assim, deve ser julgado procedente o pedido para condenar o réu a proceder à progressão funcional da parte autora considerando o interstício de 12 (doze) meses até que se edite o regulamento previsto na Lei nº 10.855/2004, bem como pagar as diferenças mensais de remuneração em razão da revisão das progressões funcionais, observada a prescrição quinquenal.”
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 969.632/SC, Rel. Min. CÁRMEN LÚCIA – ARE 1.062.249/SC, Rel. Min. MARCO AURÉLIO – ARE 1.105.185/SC, Rel. Min. GILMAR MENDES, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem em favor da parte ora recorrida.
+    Publique-se.
+    Brasília, 23 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
