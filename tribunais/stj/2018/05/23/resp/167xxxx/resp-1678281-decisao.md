@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (e-STJ fl. 38):
+APELAÇÃO. EXECUÇÃO FISCAL. COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS DECORRENTES DE SENTENÇA JUDICIAL. CUMPRIMENTO DE SENTENÇA. INTELIGÊNCIA DO ART. 475-J DO CPC. INSCRIÇÃO EM DIVIDA ATIVA. LEF. VIA INADEQUADA.
+Entre os créditos não tributários que autorizam a execução fiscal não se inclui a cobrança de valores oriundos de título executivo judicial. Na verdade, a partir da Lei n.º 11.232/2005, que reformou parcialmente o Código de Processo Civil, a exigência de créditos consubstanciados em títulos judiciais passou a se dar precipuamente por meio de uma fase denominada cumprimento de sentença.
+A melhor exegese da legislação que rege a matéria indica que o credor de honorários advocatícios fixados em sentença deve se valer do procedimento de execução de título judicial previsto no Código de Processo Civil para a obtenção de seu crédito.
+Não se pode aceitar que a fazenda converta unilateralmente um título judicial cm extrajudicial a fim de cobrá-lo por meio de execução fiscal, para obter as vantagens inerentes a este procedimento. Entendimento contrário representa ofensa à coisa julgada, pelo fato de a LEF autorizar acréscimos aos débitos, tal como a inserção de 30% de multa de mora, diversamente do que permite a via do cumprimento de sentença.
+Apelação desprovida.
+Nas suas razões, a parte recorrente aponta violação dos arts. 39 da Lei n. 4.320/1964, 1º, 2º, 3º e 4º da Lei n. 6.830/1980 e 475-J do CPC/1973. Para tanto, sustenta que "todos os créditos da Fazenda Nacional comportam inscrição e cobrança na forma das Leis n. 4.320/64 e 6.830/80, pouco importando a sua natureza e origem" (e-STJ fl. 49).
+Sem contrarrazões (e-STJ fl. 52).
+Juízo positivo de admissibilidade pelo Tribunal a quo (e-STJ fls. 53/55).
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Isso considerado, verifico que a irresignação recursal não merece prosperar.
+É que a jurisprudência desta Corte firmou-se no sentido de que é inadequado o manejo de execução fiscal, pela Fazenda Pública, para execução de honorários fixados em sentença com trânsito em julgado, porquanto "o procedimento da Lei 6.830/80 (LEF) destina-se à execução da dívida ativa tributária e não-tributária  .. , dentre os quais não se inclui a cobrança de valores oriundos de título executivo judicial" (REsp. 662.238/SE, Relatora Ministra Eliana Calmon, DJ 14/11/2005).
+Com efeito, "os honorários sucumbenciais são fixados por sentença, não se submetendo à constituição por ato de autoridade administrativa. Por constarem em título executivo judicial, não se sujeitam à execução fiscal, como já decidiram ambas as Turmas da Primeira Seção do STJ" (REsp n. 1.263.847/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe 28/10/2011).
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. INSCRIÇÃO EM DÍVIDA ATIVA DE VALORES A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DO STJ. RECURSO NÃO PROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça. Inteligência do Enunciado Administrativo 2/STJ.
+2. O acórdão recorrido está em sintonia com o entendimento do STJ de que a execução fiscal prevista na Lei 6.830/1980 não é via adequada ao caso, uma vez que a verba honorária em cobro teve origem em título executivo judicial, cuja execução deve submeter-se ao rito do CPC, no que respeita ao cumprimento de sentença.
+3. Recurso Especial não provido.
+(REsp 1646601/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2017, DJe 18/04/2017). (Grifos acrescidos).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA TRIBUTÁRIA. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS PELA FAZENDA PÚBLICA. REVISÃO DOS CRITÉRIOS ADOTADOS. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 07/STJ. IMPOSSIBILIDADE DE REVISÃO EM SEDE DE RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535, DO CPC.
+1. Os honorários advocatícios, em favor da Fazenda Pública, são verbas destinadas aos cofres públicos, cabendo aos seus representantes judiciais promover as ações competentes para cobrança de tais valores, nos termos da Constituição Federal e da Lei Complementar nº 73/93.
+2. O procedimento para a execução dos honorários advocatícios pela Fazenda Pública é aquele previsto no Código de Processo Civil, sendo certo que a Lei 6.830/80 (LEF) destina-se à execução da dívida ativa tributária e não-tributária da União, Estados, Distrito Federal e Municípios, dentre os quais não se inclui a cobrança de valores oriundos de título executivo judicial. Precedente: REsp 662238/SE, Rel. Ministra Eliana Calmon, DJ 14/11/2005 p. 256)
+3. A inscrição dos honorários advocatícios em Dívida Ativa é desnecessária, porquanto é título executivo judicial, cuja decisão dispensa o procedimento administrativo que teria a finalidade de conferir certeza, liquidez e exigibilidade ao referido título.
+ ..
+8. Recurso especial parcialmente conhecido e, nesta parte, desprovido.
+(REsp n. 891.878/PE, relator Ministro LUIZ FUX, PRIMEIRA TURMA, DJe 06/05/2009). (Grifos acrescidos).
+Assim, forçoso convir que a irresignação não merece conhecimento (Súmula 83 do STJ), visto que o acórdão recorrido encontra-se alinhado à orientação deste Tribunal Superior. Nesse sentido: AgRg no REsp n. 1.570.684/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 09/06/2016; AgRg no REsp n. 1.529.892/RS, relator Ministra Assusete Magalhães, Segunda Turma, DJe 13/10/2016.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
