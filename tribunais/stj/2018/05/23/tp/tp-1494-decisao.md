@@ -1,0 +1,22 @@
+EMENTA
+PENAL. PROCESSO PENAL. PEDIDO DE TUTELA PROVISÓRIA. RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE PENDENTE NO TRIBUNAL A QUO. PEDIDO DE EFEITO SUSPENSIVO. IMPOSSIBILIDADE. SÚMULAS 634 E 635/STF. PEDIDO DE TUTELA PROVISÓRIA NÃO CONHECIDO.
+DECISÃO
+Trata-se de tutela provisória, com pedido liminar, requerida por RONAN MARIA PINTO, por meio da qual busca imprimir efeito suspensivo a recurso especial interposto contra acórdão oriundo do eg. Tribunal de Justiça do Estado de São Paulo.
+Aduz que " o s argumentos trazidos em sede de Recurso Especial apontam que a Colenda 3.ª Câmara Criminal do Egrégio Tribunal Paulista incorreu em error in judicando no tocante a questões dosimétricas da pena, sendo que a sanção penal estabelecida tem alta plausibilidade de ser reduzida nesta Corte Superior quando da análise do Recurso Especial (anexo), a ponto de ensejar a aplicação de regime de cumprimento de pena distinto do fechado" (fl. 5).
+Afirma que "o v. Acórdão imputa ao Recorrente a agravante de meio cruel em um delito cujo bem jurídico tutelado é a administração pública, ou seja, em total contrariedade ao que prega a massiva doutrina e jurisprudência no tocante à aplicabilidade de tal agravante" (fl. 6).
+Salienta que com a probabilidade de provimento do recurso especial interposto, "vislumbra-se que ao Recorrente poderá ser imposta uma pena que ensejará, no máximo, o regime semi-aberto, não se demonstrando, portanto, razoável e cabível, que o Recorrente venha a ser recolhido à prisão em virtude de uma pena que, posteriormente, será revisada e diminuída a ponto de ensejar regime menos gravoso" (fl. 7-8).
+É o breve relatório.
+Decido.
+O pedido de tutela provisória proposto revela-se, de plano, inviável.
+É que, em regra, não se admite a concessão de medida cautelar para se emprestar efeito suspensivo a recurso especial não admitido na origem, ainda mais na hipótese dos autos, que sequer se submeteu ao juízo de admissibilidade na origem.
+Aplicável em tais casos, analogicamente, o disposto nas Súmulas 634 e 635 do Excelso Supremo Tribunal Federal, respectivamente:
+"Não compete ao Supremo Tribunal Federal conceder medida cautelar para dar efeito suspensivo a recurso extraordinário que ainda não foi objeto de juízo de admissibilidade na origem".
+"Cabe ao Presidente do Tribunal de origem decidir o pedido de medida cautelar em recurso extraordinário ainda pendente do seu juízo de admissibilidade".
+Nessa linha:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR DO WRIT. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DE PRISÃO. EXECUÇÃO IMEDIATA DA PENA. ACÓRDÃO CONDENATÓRIO OU CONFIRMATÓRIO DE SEGUNDA INSTÂNCIA. POSSIBILIDADE. INTERPOSIÇÃO DE RECURSO ESPECIAL. PRÉVIA ADMISSIBILIDADE. NECESSIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante a nova orientação consolidada pelo Supremo Tribunal Federal e trilhada por esta Corte, é possível a execução imediata da pena após a prolação de acórdão penal condenatório ou confirmatório, proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário (HC n. 126.292/SP, Rel. Ministro Teori Zavascki, Pleno do STF, DJe 17/5/2016), cujo excepcional efeito suspensivo requer o atendimento dos requisitos cautelares e deve ser fomentado perante o órgão competente para o exame de admissibilidade, a teor dos enunciados n. 634 e 635 do STF.
+2. Agravo regimental não provido." (AgRg no HC 383.605/RJ, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 02/03/2017)
+É certo ainda que em situações extremamente excepcionais e teratológicas e, ainda assim, desde que presentes de forma concomitante os requisitos do fumus boni juris e do periculum in mora, seria possível a concessão de efeito suspensivo por este eg. Superior Tribunal de Justiça, via medida cautelar, a recurso especial inadmitido nas instâncias originárias ou ainda não apreciado.
+Contudo, na hipótese dos autos, tenho que não se verifica a excepcionalidade da situação que, se presente, autorizaria o deferimento da medida pleiteada, porquanto a jurisprudência desta eg. Corte Superior admite a fixação do regime prisional mais gravoso, ainda que o quantum da pena autorize a fixação de regime mais brando, em razão das peculiaridades do caso, mormente da gravidade concreta do delito (art. 33, §§ 2º e 3º, do Código Penal).
+Ante o exposto, com fulcro no art. 34, inciso XVIII, a, do RISTJ, não conheço do pedido de tutela provisória.
+P. e I.
