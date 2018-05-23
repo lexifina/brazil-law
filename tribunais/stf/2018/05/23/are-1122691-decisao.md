@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à inexistência do direito da autora de optar pelo novo regime previsto no plano de cargos e carreiras do Poder Judiciário do Estado de Pernambuco, aludindo ao decurso do prazo legal. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violado o artigo 37 da Constituição Federal. Discorre sobre o tema de fundo, insistindo no direito pleiteado. Sustenta ter o decidido implicado a contrariedade aos princípios do devido processo legal, do contraditório e da ampla defesa. Argui a necessidade de comunicação pessoal relativa ao prazo estabelecido para adesão ao novo plano de carreira.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes trechos:
+    Ocorre que, em 1994, a Lei Estadual 11.195, em seu artigo 39, previu a possibilidade de alteração do regime jurídico ao qual estava vinculada a autora/apelante, desde que ela optasse pelo novo enquadramento no prazo de 60 (sessenta dias) e, em contrapartida, renunciasse ao regime remuneratório anterior. Vejamos:
+    Art. 38. Fica assegurado aos funcionários do Poder Judiciário, aposentados sob o regime de cargo oficializado, as vantagens financeiras decorrentes desta Lei.
+    Art. 39. O disposto no artigo anterior será estendido aos serventuários e funcionários aposentados do foro judicial e extrajudicial não oficializado já aposentados que, no prazo de 60 (sessenta) dias manifestarem opção pelo regime instituído por esta Lei.
+    Parágrafo único. A opção do que trata este artigo implicará na renúncia ao regime em que se tenha dado a aposentadoria com ressalva das vantagens de caráter pessoais. (grifo nosso)
+    Entretanto, a apelante deixou transcorrer o prazo legal sem se manifestar e, em razão disso, não se enquadrou no novo regramento, mantendo-se, desta feita, sob a égide da normatização anterior, aquela na qual se deu o início do seu benefício previdenciário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 500,00 (quinhentos reais), fixo os honorários recursais no patamar de R$ 250,00 (duzentos e cinquenta reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos  honorários, caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 23 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
