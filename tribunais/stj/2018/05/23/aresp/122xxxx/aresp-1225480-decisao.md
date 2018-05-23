@@ -1,0 +1,31 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE COLETIVO EMPRESARIAL. DEMISSÃO SEM JUSTA CAUSA. PRORROGAÇÃO DO BENEFÍCIO MEDIANTE PAGAMENTO DO VALOR INTEGRAL DA MENSALIDADE. FORMA DE APURAÇÃO DO VALOR. DIFICULDADE EM RAZÃO DAS PECULIARIDADES DO CONTRATO. FUNDAMENTO INATACADO. LEGALIDADE DO CÁLCULO ATUARIAL JUNTADO AOS AUTOS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS NºS 282 E 356 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+EDEVALDO ANTONIO VENTUROSO (EDEVALDO) ajuizou ação declaratória c/c obrigação de fazer e pedido de tutela antecipada contra VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA (VOLKSWAGEN) objetivando a manutenção do plano de saúde, mesmo após demissão sem justa causa, e pelos valores pagos à época da demissão (e-STJ, fls. 3/13)
+A sentença foi de procedência dos pedidos, condenando a ré ao pagamento das custas e despesas processuais, além de honorários fixados em 20% sobre o valor da causa (e-STJ, fls. 147/154).
+VOLKSWAGEN interpôs apelação, tendo o tribunal de origem negado provimento ao recurso, nos termos da ementa a seguir:
+PLANO DE SAÚDE - FUNCIONÁRIO APOSENTADO E, POSTERIORMENTE, DEMISSIONÁRIO - MANUTENÇÃO COMO BENEFICIÁRIO DE PLANO DE SAÚDE, NAS MESMAS CONDIÇÕES QUE DESFRUTAVA ENQUANTO EMPREGADO - DIREITO DO AUTOR RECONHECIDO, CONDICIONADO AO PAGAMENTO INTEGRAL DAS MENSALIDADES - EXEGESE DO ARTIGO 31, DA LEI Nº 9656/98 - PRESTAÇÕES QUE DEVEM CORRESPONDER AO VALOR DESCONTADO DE SEU PAGAMENTO, ACRESCIDO DA PARCELA SUPORTADA PELA EMPREGADORA - CÁLCULO QUE DEVE UTILIZAR O VALOR "PRO RATA" DO CUSTO MENSAL DAS COBERTURAS DE TODOS OS BENEFICIÁRIOS - AÇÃO PROCEDENTE - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO (e-STJ, fls. 209).
+Inconformada a VOLKSWAGEN manejou recurso especial, com base no art. 105, III, a e c, da CF, alegando violação dos arts. artigos 15 e 31 da Lei nº 9.656/98; 5º, 10, 13, 14, 15, 17 e 21, da Resolução Normativa nº 279 da ANS; 104 e 114 do Código CC/02; 125, inciso I, do CPC/73 e 5º, II e XXXVI, da CF/88. Argumentou 1) que houve manutenção do ex-empregado, como beneficiário, após a rescisão do contrato coletivo empresarial, mesmo após sua demissão sem justa causa, mas com novas regras para sua atual condição e com o pagamento integral da sua mensalidade (e-STJ, fls. 220/256).
+As contrarrazões foram apresentadas (e-STJ, fl. 420/425).
+O apelo nobre não foi admitido em virtude da ausência de demonstração da ofensa aos artigos indicados e incidência da Súmula nº 7 do STJ (e-STJ, fls. 428/430).
+VOLKSWAGEN apresentou agravo em recurso especial (e-STJ, fls. 438/453).
+A contraminuta foi apresentada (e-STJ, fl. 469/474).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+1) Da manutenção da condição de beneficiário
+A agravante alega ser descabida a manutenção do autor como beneficiário do plano de saúde, nas mesmas condições de quando estava na ativa. Diz que para ser mantido, deve arcar com a integralidade da mensalidade, com base no cálculo atuarial juntado aos autos, que leva em consideração sua atual condição de aposentado, sendo descabido o cálculo da mensalidade considerando os valores pagos pelos ativos.
+Quanto ao ponto, verifica-se que a Corte de origem concluiu pela dificuldade na definição do pagamento integral, por causa das peculiaridades do contrato firmado entre as partes, o que levou à determinar que a apuração do valor fosse feita mediante o rateio do custo mensal da cobertura dos beneficiários acrescida da importância descontada de seu pagamento, nos seguintes termos:
+É bem verdade que diante da peculiaridade do contrato existente entre e a demandada e a operadora de saúde, há grande dificuldade em se definir o valor do "pagamento integral", posto que, no caso, o custo dos procedimentos era totalmente custeado pela empregadora em favor dos seus empregados, cuja participação era simbólica (fl. 24).
+Percebe-se, pois, que não havia risco para a operadora de saúde e tampouco "prêmio", na acepção técnica da palavra, a ser pago pela apelante que, na verdade, era quem arcava com todas as despesas relativas aos atendimentos prestados aos seus funcionários.
+Todavia, há de se reconhecer que as peculiaridades do contrato firmado entre empregador e plano de saúde não podem inviabilizar o direito assegurado ao autor pela Lei nº 9.656/98.
+Assim, o valor das mensalidades deverá ser apurado mediante rateio do custo mensal da cobertura de todos os beneficiários, acrescentando-se a este resultado a importância que era descontada de seu pagamento, atentando-se para a existência de dependentes, conforme lançado na decisão ora recorrida.
+Destarte, afigura-se correta a procedência da ação, não merecendo censura a respeitável sentença recorrida, que fica mantida em todos os seus termos (e-STJ, fls. 213/214).
+No entanto, a recorrente não impugnou referidos fundamentos, o que atrai a incidência da Súmula nº 283 do STF.
+Outrossim, os argumentos da VOLKSWAGEM acerca da observância da condição de aposentado e da legalidade do cálculo atuarial para se chegar ao valor a ser pago, não foram analisados pelo tribunal de origem, tampouco foram opostos embargos de declaração para ver suprido eventuais omissões.
+Assim, ante a falta de prequestionamento, incidem, na espécie, as Súmulas nºs 282 e 356 do STF.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso epecial.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
