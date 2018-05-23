@@ -1,0 +1,45 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. RECURSO QUE SE FUNDA, TÃO SOMENTE, NESSA ALEGAÇÃO. AGRAVO DO DISTRITO FEDERAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que não admitiu o Recurso Especial interposto pelo DISTRITO FEDERAL, com fundamento na alínea a do art. 105, III da Constituição Federal, que objetiva a reforma do acórdão do egrégio Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+ADMINISTRATIVO. PROCESSO CIVIL. DIREITO INTERTEMPORAL. RECURSO. REQUISITOS. MARCO. PUBLICAÇÃO DA DECISÃO RECORRIDA. ANTERIOR À VIGÊNCIA DA LEI 13.105/15. REGÊNCIA PELO CPC/73. PRELIMINAR. INTEMPESTIVIDADE. RECURSO ADESIVO. INTERPOSIÇÃO. PRAZO DE CONTRARRAZÕES. REJEITADA. PRELIMINAR. PRECLUSÃO CONSUMATIVA AUSÊNCIA DE INTERESSE EM RECORRER. MANIFESTAÇÃO EXPRESSA. ACOLHIDA. PRESCRIÇÃO. FUNDO DE DIREITO. TERMO INICIAL. TRÂNSITO EM JULGADO DA SENTENÇA. TEORIA DA ACTIO NATA. INOCORRÊNCIA PRESCRIÇÃO. COBRANÇA. RETROATIVOS. FAZENDA PÚBLICA. QÜINQÜENAL. OBRIGAÇÃO DE TRATO SUCESSIVO. SÚMULA 85 DO STJ. PARCELAS ANTERIORES. RECONHECIMENTO.
+1. A análise do recurso deve considerar, em substância, a lei processual vigente ao tempo em que foi publicada a decisão recorrida, o que impõe no caso a aplicação do Código de Processo Civil de 1973 (CPC/73).
+2. A Lei 13.105/15 - Novo Código de Processo Civil - não se aplica às decisões publicadas anteriormente à data de sua entrada em vigor, ocorrida em 18 de março de 2016.
+3. Afasta-se a intempestividade do recurso adesivo quando sua interposição se dá dentro do prazo para contrarrazoar o recurso de apelação. Inteligência do art. 500, I, do Código de Processo Civil (CPC/73)
+4. Caracteriza preclusão lógica ou consumativa, a manifestação expressa quanto à ausência de interesse em recorrer da sentença ou decisão, preclusão esta que também alcança o recurso adesivo posteriormente interposto. Inteligência do art. 503 do Código de Processo Civil (CPC/73).
+5. Na espécie, o termo inicial do prazo prescricional do fundo de direito se deu após o trânsito em julgado da ação que reconheceu o direito a aposentadoria com proventos integrais, momento no qual o direito do aposentado a percepção do retroativo foi reconhecido (teoria da adio nata).
+6. Tratando-se de obrigações de trato sucessivo, quando a Fazenda Pública figura como devedora, a prescrição incide apenas sobre as parcelas anteriores aos 05 (cinco) anos do ajuizamento da ação, nos termos da Súmula 85 do Superior Tribunal de Justiça.
+7. Preliminar de intempestividade rejeitada.
+8. Preliminar de preclusão consumativa acolhida.
+9. Recurso adesivo do autor não conhecido e recurso do réu conhecido e desprovido (fls. 258/259).
+2. Os Embargos de Declaração opostos foram parcialmente acolhidos, nos termos das seguintes ementas:
+DIREITO INTERTEMPORAL. RECURSO. REQUISITOS. MARCO. PUBLICAÇÃO DA DECISÃO RECORRIDA. POSTERIOR À VIGÊNCIA DA LEI 13.105/15. REGÊNCIA PELO NOVO CPC. EMBARGOS DE DECLARAÇÃO. OMISSÃO. EXISTÊNCIA. SEM ALTERAÇÃO DO JULGADO. FUNDAMENTAÇÃO. INTEGRANTE.
+1. A análise do recurso deve considerar, em substância, a lei processual vigente ao tempo em que foi publicada a decisão recorrida.
+2. A Lei 13.105/15 - Novo Código de Processo Civil - se aplica às decisões publicadas posteriormente à data de sua entrada em vigor, ocorrida em 18 de março de 2016.
+3. A via dos embargos de declaração destina-se a corrigir falha do comando judicial que comprometa seu entendimento, quando decorrente de contradição, omissão, obscuridade, além de correção de erro material.
+4. Verificada omissão no acórdão, possível o acolhimento dos embargos para sanar o vício sem, contudo, haver alteração do julgamento.
+5. No caso em questão, houve omissão quanto à tese de que a desídia do requerente teria postergado a revisão do benefício previdenciário devido ao autor. Tal omissão não configura alteração no dispositivo do julgado, todavia a fundamentação aduzida é integrada às razões de decidir do v. acórdão embargado.
+6. Embargos conhecidos e parcialmente providos (fls. 294/295).
+3. Nas razões de seu Apelo Nobre inadmitido, sustenta a parte recorrente violação do art. 1.022 do CPC/2015, ao fundamento de que o acórdão recorrido, a despeito da oposição dos Embargos de Declaração, foi omisso sobre a alegação de que a aposentadoria do servidor não foi antes revisada por sua própria mora, sendo incabível condenar o ente público em diferenças se é obrigação do servidor fazer a averbação do tempo de serviço. (..) se o servidor não se digna a averbar seu tempo de serviço, não há nenhuma vidência especial que permita à Administração advinhar o tempo não apresentado e assim a coletividade não pode ser penalizada pela desídia do servidor (fls. 275).
+4. É o relatório. Decido.
+5. A questão em debate cinge-se à existência de omissão no acórdão hostilizado no tocante a alegação de que a demora na revisão da aposentadoria do Servidor ocorreu em virtude de sua própria morosidade na formulação do pedido, razão pela qual a coletividade não poderia ser penalizada com pagamentos retroativos, ou seja, pagar pela desídia do Servidor. Em relação ao tema, merece destaque o seguinte trecho do acórdão combatido:
+Quanto à prescrição, oportuno destacar que há dois tipos de prazos aplicáveis a hipótese vertente, o primeiro, que atinge o fundo de direito e o segundo, que abarca as prestações de trato sucessivo, conforme o verbete sumular n. 85/STJ, in verbis:
+(..).
+Em consulta ao sitio do Juizado Especial Federal, órgão onde tramitou o processo que deferiu a conversão da aposentadoria parcial em integral, constatei que a sentença transitou em julgado em 30/08/2012, portanto, a partir desse momento surgiu o direito do apelante/autor a percepção dos retroativos (teoria da actio nata).
+Assim, não se vislumbra a ocorrência da prescrição do fundo de direito, haja vista esta ação foi ajuizada em 13/06/2014 (fl. 02).
+Não obstante, tem-se que prescrição deve alcançar as parcelas vencidas anteriormente ao qüinqüênio que precede o ajuizamento da ação, qual seja, 14/06/2009, nos termos da Súmula 85 do Superior Tribunal de Justiça (fls. 267/268).
+6. Como se vê, da simples leitura do excerto acima transcrito, verifica-se que inexiste a violação apontada, uma vez que a Corte de origem concluiu que não incidiria à hipótese dos autos a prescrição do fundo de direito, uma vez que a ação foi ajuizada dentro do lustro prescricional, de modo que as questões relativas a eventual mora da parte autora foram objeto de consideração para se aferir a incidência da prescrição. Nesse contexto, mostra-se evidente que o Tribunal de origem adotou fundamento necessário e suficiente a resolução da lide.
+7. Assim, observa-se que o Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+8. Com efeito, os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+9. Neste sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. ARTIGO 535 DO CPC. OFENSA NÃO CARACTERIZADA. ART. 273 DO CPC. TUTELA ANTECIPADA. REQUISITOS. VERIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SUMULA 7 DO STJ. FUNDAMENTO CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 126/STJ. NÃO CONHECIMENTO DO RECURSO PELA ALÍNEA "A". DISSÍDIO PRETORIANO PREJUDICADO.
+1. Não se verifica a ofensa ao art. 535 do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos. Ressalte-se que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..).
+5. Agravo Regimental não provido (AgRg no AREsp. 615.053/RJ, Rel. Min. HERMAN BENJAMIN, DJe 6.4.2015).
+
+DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCON. APLICAÇÃO DE MULTA EMPRESA PÚBLICA FEDERAL. REDUÇÃO DO VALOR. NÃO OFENSA AO ART. 535 DO CPC. NECESSIDADE DE REEXAME DE PROVAS E FATOS. SÚMULA 7/STJ.
+1. Correta a rejeição dos embargos de declaração ante a inexistência de omissão, contradição ou obscuridade a ser sanada e, por conseguinte, deve-se concluir pela ausência de ofensa ao artigo 535 do CPC.
+2. A controvérsia dos autos foi dirimida com base nos fatos e provas constantes dos autos, de modo que o recurso especial é inviável em razão do enunciado n.º 07 da Súmula desta Corte.
+3. Agravo regimental não provido (AgRg no AREsp. 618.556/PE, Rel. Min. BENEDITO GONÇALVES, DJe 31.3.2015).
+10. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial do DISTRITO FEDERAL.
+11. Publique-se.
+12. Intimações necessárias.
