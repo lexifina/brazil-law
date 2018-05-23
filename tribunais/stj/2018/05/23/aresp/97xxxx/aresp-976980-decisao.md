@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial por este estar embasado em ofensa a dispositivo da Constituição Federal.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 98, e-STJ):
+Acidente do Trabalho - Ação Revisional - Aposentadoria por invalidez precedida de auxílio-doença - Renda mensal inicial - Cálculo nos termos do art. 36, § 7º, do Decreto nº 3.048/99 - Admissibilidade - Inaplicabi1idade do art. 29, § 5º, da Lei nº 8.213/91 - Precedentes do Egrégio Superior Tribunal de Justiça.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação dos artigos 29, § 5º, 29-B e 44, § 2º, da Lei n. 8.213/1991, bem como do artigo 60, IX, do Decreto n. 3.048/1999.
+Nesse sentido argui que o INSS, no presente caso, está obrigado a apurar dois cálculos quando a concessão da aposentadoria, haja vista esta ser precedida de auxílio-doença por acidente do trabalho. Em sendo assim, dever-se-ia apurar o valor decorrente da conversão, conforme estipula o art. 36, § 7º, do Decreto n. 3.048/1999, e o valor correspondente ao cálculo do salário-de-benefício, conforme art. 29 da Lei n. 8.213/1991, aplicando-se aquele que for mais favorável. Ademais, aduz incidir na hipótese a regra do art. 29, § 5º, que determina que "se, no período básico de cálculo, o segurado tiver recebido benefícios por incapacidade, sua duração será contada, considerando-se como salário-de-contribuição, no período, o salário-de-benefício que serviu de base para o cálculo da renda mensal, reajustado nas mesmas épocas e bases dos benefícios em geral, não podendo ser inferior ao valor de 1 (um) salário mínimo". Faz a ressalva de que no corrente caso não se aplica a regra de que, para ser considerado, o período de recebimento de benefício por incapacidade deve estar intercalado com períodos de atividade, por o benefício em questão possuir natureza acidentária, atraindo a regra do art. 60, IX, do Decreto n. 3.048/1991, segundo o qual, é contato como tempo de contribuição, até que lei específica discipline a matéria, "o período em que o segurado esteve recebendo benefício por incapacidade por acidente do trabalho, intercalado ou não".
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+O Tribunal a quo manifestou-se sobre a questão controversa nos seguintes termos:
+A aposentadoria por invalidez acidentária deferida ao autor foi precedida de auxílio-doença, razão pela qual sua renda mensal inicial foi calculada com base no art. 36, § 7º, do Decreto nº 3.048/99:
+(..)
+0 art. 29, § 5º, da Lei nº 8.213/91 é inaplicável porque não consta período intercalado de contribuição entre as concessões dos referidos benefícios.
+Evidencia-se, portanto, que a tese levantada pelo recorrente, bem como a incidência dos artigos 29-B e 44, § 2º, da Lei n. 8.213/1991, e 60, IX, do Decreto n. 3.048/1999, não foi apreciado pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
