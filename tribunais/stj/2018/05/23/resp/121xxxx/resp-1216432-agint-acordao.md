@@ -1,0 +1,47 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. REINTEGRAÇÃO DE POSSE. ALEGAÇÃO DE PROVA DOCUMENTOS AOS AUTOS QUESTIONADOS. RAZÕES RECURSAIS DEFICIENTES. SÚMULA 284/STF. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No recurso especial, além da particularização dos normativos federais supostamente contrariados pelo tribunal de origem, é imprescindível que o recorrente demonstre, mediante argumentação lógico-jurídica competente à questão controversa apresentada, de que maneira o acórdão impugnado teria ofendido a legislação mencionada, sob pena de atrair os comandos da Súmula 284 do STF.
+2. É inviável o acolhimento da pretensão recursal quando a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido exigir o revolvimento das provas carreadas aos autos, tendo em vista o óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto por [NOME] em face de decisão deste Relator de fls. 336-339, que negou provimento ao seu recurso especial, em razão da incidência da Súmula 7/STJ, devido a impossibilidade de reexame do conjunto fático-probatório dos autos; e pela aplicação da Súmula 284 do STF, tendo em vista a deficiência de fundamentação nas razões do recurso.
+Nas razões recursais, sustenta a parte agravante: " Os autores nunca tiveram e nem tem a posse do imóvel, mesmo com a decisão, pois desconhecem precisamente onde fica o mesmo, não comparecendo no imóvel em nenhum momento durante o curso deste processo, situação que fragiliza enormemente o processo e suas decisões, posto que de tão absurdo não existam no mundo real, frontalmente em contrário a verdade, dita formal..Claramente nos cabe estabelecer se, frente à precariedade dos testemunhos orais, contradição temporal entre os mesmos, trazido ao processo como única base de convencimento deve ser suficientemente sólidos para contrapor a conduta acerca do "parecer ser fundamento o questionamento acerca da autenticidade e validade dos documentos trazidos", como separar em um mesmo processo uma conduta reprovável de outra precária para tentar "alcançar" um mesmo objetivo sem realizar um juízo de valor .".
+Requer o conhecimento e provimento do presente agravo interno.
+É o relatório.
+
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. REINTEGRAÇÃO DE POSSE. ALEGAÇÃO DE PROVA DOCUMENTOS AOS AUTOS QUESTIONADOS. RAZÕES RECURSAIS DEFICIENTES. SÚMULA 284/STF. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No recurso especial, além da particularização dos normativos federais supostamente contrariados pelo tribunal de origem, é imprescindível que o recorrente demonstre, mediante argumentação lógico-jurídica competente à questão controversa apresentada, de que maneira o acórdão impugnado teria ofendido a legislação mencionada, sob pena de atrair os comandos da Súmula 284 do STF.
+2. É inviável o acolhimento da pretensão recursal quando a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido exigir o revolvimento das provas carreadas aos autos, tendo em vista o óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Conforme consignado na decisão monocrática de minha Relatoria (fls. 336-339): É imprescindível, no recurso especial, além da particularização dos normativos federais supostamente contrariados pelo tribunal de origem, que o recorrente cuide de demonstrar, mediante argumentação lógico-jurídica competente à questão controversa apresentada, de que maneira o acórdão impugnado teria ofendido a legislação mencionada. O não atendimento quanto à indicação do dispositivo legal contrariado, ou que se lhe tenha sido negado vigência, devidamente acompanhado da argumentação jurídica pertinente, pela parte recorrente, a fim de demonstrar o acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Isso porque a controvérsia a ser tratada no recurso especial, sob a baliza da alínea "a" do art. 105, inc. III, da CFRB, respeita solver discussão quanto à contrariedade ou negativa de vigência perpetrada pelo tribunal a quo à legislação ou tratado federal em sua aplicação ao caso concreto. O mero inconformismo não oferece os subsídios constitucionalmente exigidos para o julgamento do recurso especial, pois a falta de demonstração de possível violação de normativo infraconstitucional (argumentação deficiente) esvazia o sentido da controvérsia a ser dirimida nos termos impostos pelo art. 105, III, "a", da Constituição Federal (conferindo incompreensibilidade à questão), o que torna apropriada a aplicação, dada sua inteligência, da Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. REPARAÇÃO DE DANOS. "ACTIO NATA". CIÊNCIA DO ATO ILÍCITO GERADOR DO DIREITO À REPARAÇÃO CIVIL. ENTENDIMENTO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO.SÚMULA [NOME] DO STF. DECISÃO MANTIDA.
+1. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+2. A deficiência na fundamentação, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1046775/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/04/2018, DJe 17/04/2018)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA. ATRASO NA ENTREGA DA OBRA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO ESPECIAL. CERCEAMENTO DE DEFESA E COBRANÇA DE JUROS COMPENSATÓRIOS. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação de recurso especial que alega violação a dispositivo legal cujo conteúdo jurídico é dissociado da questão debatida nos autos.
+3. A ausência de indicação do dispositivo de lei federal supostamente violado ou objeto de interpretação divergente impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula n. 284/STF). 4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+5. No caso concreto, o Tribunal de origem, a partir do exame dos elementos de prova, afastou a alegação de cerceamento de defesa e concluiu que houve cobrança de juros compensatórios. Dessa forma, inviável alterar tais conclusões em recurso especial, ante o óbice da referida súmula.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1699098/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/03/2018, DJe 02/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. LOCADOR ORIGINAL, ÚNICO E LEGÍTIMO CREDOR DOS VALORES. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO ESPECIAL. SÚMULA 284 DO STF. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA.
+AGRAVO INTERNO NÃO PROVIDO. 1. A alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Incidência da Súmula 284/STF.
+2. Em consonância com a jurisprudência pacífica desta Corte Superior, a simples interposição recursos cabíveis não implicam a litigância de má-fé. Precedentes.
+3. O mero inconformismo do agravante com a decisão agravada não enseja a imposição da multa, não sendo decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+4. Agravo interno não provido.
+(AgInt no AREsp 1156195/BA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/03/2018, DJe 23/03/2018)
+3. Ademais, conforme asseverei às fls. 336-339, o acolhimento da pretensão recursal, no sentido de ser fraudulento o acervo probatório presente nos autos, demandaria reexame do conjunto fático - probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
