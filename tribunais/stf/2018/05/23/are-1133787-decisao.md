@@ -1,0 +1,21 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Terceira Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO. APLICAÇÃO DO ART. 557, CAPUT, DO CÓDIGO DE PROCESSO CIVIL. TRIBUTÁRIO. PIS. COFINS. TAXA DE ADMINISTRAÇÃO DE CARTÕES DE CRÉDITO E DÉBITO. EXCLUSÃO DA BASE DE CÁLCULO. IMPOSSIBILIDADE. AFRONTA AO PRINCÍPIOS DA CAPACIDADE CONTRIBUTIVA. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+    1. Para a aplicação do disposto no art. 557 do CPC não há necessidade de a jurisprudência dos Tribunais ser unânime ou de existir súmula dos Tribunais Superiores a respeito. Ademais, o recurso pode ser manifestamente improcedente ou inadmissível mesmo sem estar em confronto com súmula ou jurisprudência dominante. Precedentes do STJ.
+    2. A jurisprudência pátria já se encontra consolidada no sentido de que as taxas de administração de cartão de crédito constituem receita ou faturamento do contribuinte, razão pela qual sobre esta parcela incidem as contribuições PIS e COFINS.
+    3. Não ocorre afronta ao princípio constitucional da capacidade contributiva, visto que, por existir afetação positiva da receita, este princípio, expressão do fato econômico tributável, encontra-se presente para o PIS e a COFINS.
+    4. Agravo desprovido”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 145, § 1º; 150, I e IV; 195, I, b; e 239, todos da CF. Sustenta que: (i) as taxas de administração não são receitas ou faturamento da empresa; (ii) somente a efetiva receita da venda de bens e prestação de serviços é própria da pessoa jurídica. Requer sejam excluídos da base de cálculo do PIS e da COFINS os valores relativos à taxa de administração de cartões de crédito e débito.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[…]
+    Ademais, o C. Supremo Tribunal Federal já se manifestou no sentido de que as contribuições ao PIS e à COFINS podem incidir sobre a receita bruta e que a referida expressão é sinônima de faturamento, assim entendidos como a totalidade dos valores auferidos pelo contribuinte […].
+    Ante o exposto, não admito o recurso extraordinário”.
+    A pretensão recursal não merece prosperar. O Supremo Tribunal Feral fixou o entendimento de que receita e faturamento são termos considerados equivalentes para fins tributários e expressam a totalidade dos valores auferidos pelo contribuinte com a venda de mercadorias, de serviços ou de mercadorias e serviços, ou seja, consistem na soma das receitas oriundas do exercício das atividades empresariais. Nesse sentido, confiram-se os julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PIS E COFINS. EXCLUSÃO DA BASE DE CÁLCULO. TAXAS E COMISSÕES PAGAS ÀS ADMINISTRADORAS DE CARTÃO DE CRÉDITO E DE DÉBITO. RECEITA BRUTA E FATURAMENTO. TOTALIDADE DOS VALORES AUFERIDOS COM A VENDA DE MERCADORIAS, DE SERVIÇOS OU DE MERCADORIAS E SERVIÇOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Para fins de definição da base de cálculo para a incidência da contribuição ao PIS e da COFINS, a receita bruta e o faturamento são termos sinônimos e consistem na totalidade das receitas auferidas com a venda de mercadorias, de serviços ou de mercadorias e serviços, ou seja, é a soma das receitas oriundas do exercício das atividades empresariais. Precedentes. II – Agravo regimental a que se nega provimento.” (RE 816.363-AgR, Rel. Min. Ricardo Lewandowski)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÕES PARA O PROGRAMA DE INTEGRAÇÃO SOCIAL – PIS E PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS. BASE DE CÁLCULO. CONCEITO DE RECEITA BRUTA E FATURAMENTO. INCLUSÃO DO VALOR REFERENTE À COMISSÃO COBRADA POR ADMINISTRADORA DE CARTÃO DE CRÉDITO. JULGADO RECORRIDO CONSOANTE À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 902.734-AgR, Relª. Minª. Cármen Lúcia)
+    Dessa orientação não divergiu o acórdão recorrido.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 23 de maio de 2018.
+Ministro Luís Roberto Barroso
+Relator
