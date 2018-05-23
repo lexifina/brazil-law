@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 535 DO CPC/1973. RECURSO ESPECIAL QUE NÃO INDICA DE QUE FORMA OS DISPOSITIVOS INFRACONSTITUCIONAIS FORAM VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] em face de decisão do Tribunal de Justiça do Estado do Ceará, que negou admissibilidade a recurso contra acórdão assim ementado:
+EMENTA: REMESSA OFICIAL E APELAÇÃO CÍVEL. ADMINISTRATIVO E PROCESSUAL CIVIL - AÇÃO DECLARATÓRIA CONDENATÓRIA - SERVIDOR PÚBLICO MUNICIPAL - PRELIMINAR DE PRESCRIÇÃO DO FUNDO DO DIREITO REJEITADA - GRATIFICAÇÃO DE EXERCÍCIO - INCIDÊNCIA SOBRE A PARCELA CORRESPONDENTE AO VENCIMENTO-BASE - SENTENÇA QUE COMPORTA REPAROS - REMESSA OFICIAL E APELO RECURSAL CONHECIDOS E PROVIDOS.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões de recurso especial, sustenta a parte recorrente violação do art. 535, II, do CPC/1973, ante a negativa de prestação jurisdicional. Aduz que o acórdão regional padece do vício de omissão, na medida em não se manifestou sobre pontos essenciais ao deslinde da controvérsia.
+Apresentadas contrarrazões.
+A decisão agravada negou seguimento ao especial sob a compreensão de que inexiste violação apta a ensejar a anulação do acórdão com base no art. 535 do CPC/1973.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque preenchidos os pressupostos de admissibilidade recursais.
+Ofertada contraminuta.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 2/STJ:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+Tendo a agravante impugnado o fundamento da decisão de inadmissibilidade, passo a análise do recurso especial.
+Verifico que as partes recorrentes, embora apontem violação ao art. 535, II, do CPC/1973, não demonstram de maneira clara e efetiva de que modo o acórdão recorrido teria violado/negado vigência ao referido dispositivo legal, atraindo, portanto, a incidência da Súmula 284/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO PROAGRO. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA SIDO VIOLADO, PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. DISCUSSÃO ACERCA DO VALOR DA COBERTURA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS E DO CONTRATO DE SEGURO. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO IMPROVIDO.  ..  III. A falta de particularização dos dispositivos de lei federal que o acórdão recorrido teria contrariado, no que respeita à alegação de omissão e contradição do julgado impugnado, ou a ausência de fundamentos para demonstrar de que modo os dispositivos legais teriam sido violados - arts. 186, 187 e 927 do Código Civil - consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). (AgInt no AREsp 1076685 / SC AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL 2017/0072381-3, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe 28/9/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
