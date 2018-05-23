@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Pernambuco, ementado no relevante:
+    “EMBARGOS À EXECUÇÃO FISCAL. PRELIMINARES. COISA JULGADA E ILEGITIMIDADE AD CAUSAM. REJEITADAS. PREJUDICIAL DE MÉRITO. PRESCRIÇÃO. NÃO CONFIGURADA. AUSÊNCIA DE INÉRCIA DO EXEQÜENTE. MÉRITO. FARINHA DE TRIGO. ICMS ANTECIPADO. INAPLICABILIDADE DAS EXCEÇÕES PREVISTAS NO ART. 475 DO RICMS/PE, FRENTE À EXCLUDENTE DO § 1º. AUTUAÇÃO LEGÍTIMA. RECURSO IMPROVIDO.” (eDOC 3, p. 206-207)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 152 do texto constitucional (eDOC 3, p. 225-233).
+    Nas razões recursais, alega-se, em síntese, que a decisão recorrida, ao ratificar a obrigatoriedade do recolhimento antecipado do Imposto sobre Circulação de Mercadorias e Prestação de Serviços (ICMS) na espécie, teria incorrido em violação ao dispositivo constitucional que veda a diferenciação tributária de bens em razão de sua procedência ou destino.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Preliminarmente, observo a deficiência do recurso extraordinário, tendo em vista a ausência de impugnação específica dos fundamentos da decisão recorrida, no âmbito da qual não houve debate acerca da questão da proibição do tratamento tributário distintivo em virtude do local de procedência do insumo e a despeito do que não foram opostos embargos de declaração. Incide, portanto, o óbice da Súmula 284 desta Corte.
+    Ainda que assim não o fosse, melhor sorte não assistiria à parte Recorrente. Isso porque, o Tribunal de origem, ao examinar a legislação local aplicável à espécie (Regulamento do ICMS) e o conjunto probatório constante dos autos, consignou a incidência do recolhimento antecipado do imposto, visto que, no caso, ter-se-ia presente hipótese de exclusão da regra de dispensa. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No presente caso, os arts. 474 e 475 do RICMS/PE (com redação da época da ocorrência do fato gerador) c/c art. 100, regem a presente matéria, nos seguintes termos:
+    (...)
+    Art. 474. Na saída de farinha de trigo de qualquer estabelecimento para contribuinte estabelecido neste ou nos demais Estados do Norte e Nordeste, inclusive, a partir de 15 de outubro de 1994, o Estado do Piauí proceder-se-á ao desconto antecipado do imposto, relativamente à operações de saída do adquirente.
+    Art. 475. O disposto no artigo anterior não se aplica à farinha de trigo quando:
+    (...)
+    §1º - A dispensa de antecipação do ICMS de que trata este artigo somente se aplica quando remetente e destinatário situarem-se dentro do Estado e o produto objeto da dispensa tenha sido produzido neste Estado.
+    Em sua defesa, o contribuinte alega não ser devido o desconto antecipado do ICMS, pois estaria abrangida nas hipóteses do art. 475, II e III, "a",do RICMS (vigente à época).
+    Todavia, tais exceções legais, não podem ser aplicadas à recorrente, pois, consoante afirmado no auto de infração, aplica-se à hipótese a excludente do §1º, porquanto a farinha de trigo não foi produzida no Estado de Pernambuco.” (eDOC 3, p. 212-213) (grifos do original)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. Pagamento de ICMS. Substituição Tributária. Possibilidade. 3. Matéria infraconstitucional. Fatos e provas. Súmulas 279 e 280 desta Corte. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 965132 AgR, de minha relatoria, Segunda Turma, DJe 8.11.2017)
+    “Agravo regimental no agravo de instrumento. ICMS. Diferenças apuradas decorrentes de recolhimento a maior no âmbito da substituição tributária para a frente. Decretos Estaduais nºs 3.001/94 e 2.736/97. Direito que decorre da legislação infraconstitucional do Estado. Natureza infraconstitucional da controvérsia. Direito local. Incidência da Súmula nº 280 na espécie. 1. O Supremo Tribunal Federal, na hipótese dos autos, tem decidido pela natureza infraconstitucional da controvérsia, o que tornaria necessárias a reanálise e a interpretação da legislação infraconstitucional local (Decretos nºs 5.708/01, 3.001/94, 2.736/94 e na Lei Complementar nº 87/96), providências vedadas na via do apelo extremo. Incidência da Súmula nº 280/STF. 2. Agravo regimental não provido.” (AI 658635 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 17.9.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 23 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
