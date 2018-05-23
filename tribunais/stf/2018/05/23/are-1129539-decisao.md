@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo, reformando o entendimento do Juízo, concedeu a segurança para reconhecer o direito à aposentadoria especial da policial civil, observadas a integralidade e a paridade. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação do artigo 40, § 1º, § 3º, § 4º, § 8º e § 17 da Constituição Federal. Discorre sobre a integralidade e a paridade, afirmando devidas apenas nos casos previstos nas Emendas Constitucionais nº 40/03 e nº 47/05.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese da decisão recorrida:
+    MANDADO DE SEGURANÇA ESCRIVÃO DA POLÍCIA CIVIL Pretensão de que seja concedida aposentadoria especial com integralidade e paridade de vencimentos, nos termos e critérios da Lei Complementar Federal 51/85, com redação dada pela Lei Complementar Federal 144/14, e Lei Complementar Estadual nº 1.062/08.
+    A aposentadoria especial de servidor policial foi estabelecida pela Lei Complementar Federal nº 51/1985, legislação recepcionada pela Constituição Federal de 1988, consoante já entendeu o C. STF - Alteração dos requisitos pela Lei Complementar Federal nº 144/2014 que previu o direito à integralidade de vencimentos.
+    No âmbito estadual, foi editada a Lei Complementar Estadual nº 1.062/08 que regulamentou o tema especificamente - Superveniência da Lei Complementar Federal de 2014, cujas mudanças não podem ser ignoradas – Direito à aposentadoria especial que depende do preenchimento dos requisitos estabelecidos pela Lei Complementar Estadual nº 1.062/08 no que não colidem com os estabelecido pela Lei Complementar Federal nº 51/85.
+    Servidora que ingressou na carreira policial antes da EC 41/03 Dispensa do critério etário nos termos do artigo 3º da Lei Complementar Estadual nº 1.062/08 - Elementos de convicção produzidos nos autos que comprovam o atendimento dos requisitos exigidos Servidor que faz jus ao benefício.
+    Integralidade e paridade de vencimentos - Legislações que se complementam Lei federal que menciona o termo “proventos integrais” e que deve ser aplicada Direito constitucional a paridade que não foi revogado pela EC 41/2003. Sentença reformada. Recurso de apelação da impetrante provido.
+    À toda evidência, a decisão impugnada mediante o extraordinário revela a análise do quadro fático e interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Ante o quadro, conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    4. Publiquem.
+Brasília, 23 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
