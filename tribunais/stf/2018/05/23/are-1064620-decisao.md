@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “AGRAVO INOMINADO NO AGRAVO DE INSTRUMENTO. IMPROBIDADE ADMINISTRATIVA. ATO ÍMPROBO. INEXISTÊNCIA DE INDÍCIOS. PETIÇÃO INICIAL REJEIÇÃO.
+    1. Insurge-se o agravante contra a decisão monocrática que, negando seguimento ao agravo de instrumento por ele interposto, manteve a decisão interlocutória que admitiu a ação civil pública fundada em atos de improbidade administrativa perpetrados pelo réu e demais parlamentares estaduais que integravam a Mesa Diretora da Assembleia Legislativa do Estado do Rio de Janeiro (ALERJ), na ocasião da apresentação de parecer pela Procuradoria-Geral da Casa, no qual se recomendava o afastamento de servidores admitidos sem concurso público.
+    2. À releitura dos autos, não escapa a conclusão de que, de fato, o que se imputa ao agravante é, em verdade, a contrariedade ao parecer que, ao arrepio da legislação vigente, recomendava o afastamento de servidores admitidos 10 (dez) anos antes sem concurso público.
+    3. Necessário esclarecer, por oportuno, conforme se depreende da Ata de Reunião Ordinária da Mesa Diretora da ALERJ realizada em 13/04/1999, que não houve ‘ratificação’ das contratações. O que de fato ocorreu foi a decisão colegiada de rejeição do parecer técnico elaborado pela Procuradoria-Geral da Assembleia Legislativa, que recomendada a nulificação dos atos administrativos.
+    4. A rejeição do parecer, em verdade, não representa a ratificação das nomeações, conforme afirma o Ministério Público.
+    5. O que é exigido pelo parquet é que os integrantes da Mesa Diretora da ALERJ, ao arrepio de leis vigentes, e aprovadas pelo plenário da Casa, acolhessem o parecer da Procuradoria-Geral e negassem vigência a tais diplomas, verdadeiro absurdo.
+    6. A anulação das nomeações dependeria da revogação das leis, nos termos do processo legislativo previsto na Constituição do Estado do Rio de Janeiro e no Regimento Interno da ALERJ, ou mesmo através da arguição da sua inconstitucionalidade.
+    7. A Carta Política estabelece os meios pelos quais a constitucionalidade das normas infraconstitucionais será analisada, razão pela qual não se admite que o administrador negue vigência a diplomas normativos vigentes por considerá-los incompatíveis com a ordem constitucional.
+    8. A possibilidade de o Administrador descumprir uma lei ao argumento de sua inconstitucionalidade só seria admissível se não houvesse previsão de meios eficazes pelo ordenamento jurídico para o resguardo do seu entendimento.
+    9. Além disso, a situação jurídica daqueles servidores já havia se consolidado no tempo, e sua demissão sumária, ao acolher-se o referido parecer técnico, representaria ofensa à segurança jurídica e à estabilidade das relações sociais, pois decorridos mais de 10 (dez) anos entre a contratação e a emissão do mencionado parecer. Precedentes do STJ.
+    10. A anulação dos atos de nomeação reclamaria processo administrativo próprio, em que fossem garantidos a cada servidor a ampla defesa e o contraditório, assegurados no artigo 5º, LV, da Constituição da República, tendo em vista a profunda interferência que a anulação das nomeações provocaria na esfera de interesses individuais dos mesmos.
+    11. Ao reexaminar os fatos, nota-se que não se poderia exigir do parlamentar que, a despeito da legislação em vigor, atrelada à consolidação da situação fática, prestigiasse um mero parecer jurídico, mesmo que imerso em elevada técnica jurídica, e promovesse a demissão sumária de todos os servidores envolvidos. Afinal, parecer não revoga lei.
+    12. Ausentes indícios de ato de improbidade administrativa, a rejeição da petição inicial se impõe, com a extinção do feito sem análise do mérito, por ausência de uma das condições da ação, in casu, interesse processual.
+    13. Provimento do agravo inominado para rejeitar a ação civil pública com base no artigo 17, § 8º, da lei 8429/92.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, V, XXXV e LV; 37, § 4º; e 129, III, da Constituição.
+    O recurso extraordinário é inadmissível, uma vez que a solução da controvérsia demanda a análise de legislação infraconstitucional e o reexame de fatos e provas dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego provimento ao recurso.
+    Publique-se.
+          Brasília, 23 de maio de 2018.
+Ministro Luís Roberto Barroso
+Relator
