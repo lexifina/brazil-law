@@ -1,0 +1,33 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA DO TRABALHO. CUMULAÇÃO DE PEDIDOS NOS DOIS REGIMES: ESTATUTÁRIO E CELETISTA. INCIDÊNCIA DA SÚMULAS 97 E 170 DO STJ. COMPETÊNCIA DO JUÍZO LABORAL. PRIMEIRO A TOMAR CONHECIMENTO DA CAUSA.
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da Vara da Fazenda Pública, Execução Fiscal, Acidentes de Trabalho e Registros Públicos da Comarca de Tubarão/SC em desfavor do Tribunal Regional do Trabalho da 12ª Região, nos autos de reclamação trabalhista proposta contra o Município de Tubarão/SC, por meio da qual a parte autora pleiteia o recebimento de verbas de natureza trabalhista.
+A Subprocuradoria-Geral da República opinou pela competência do Juízo laboral.
+É o breve relatório. Passo a decidir.
+O STF, no julgamento da ADI 3.395/DF, em 05.04.2006, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da CF, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus Servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico- administrativo.
+Tem-se, que, se o vínculo estabelecido entre o Poder Público e o servidor for estatutário, a competência para análise das controvérsias trabalhistas será da Justiça Comum (Estadual ou Federal), ao passo que, na hipótese de vínculo trabalhista, regido pela CLT, caberá à Justiça laboral o julgamento dos litígios daí advindos.
+A propósito:
+AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA. CONFLITO INSTAURADO ENTRE A JUSTIÇA DO TRABALHO E A JUSTIÇA COMUM ESTADUAL. CONTROVÉRSIA SOBRE A VALIDADE DE LEI LOCAL, QUE TRANSMUDOU O REGIME CELETISTA PARA O ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. AGRAVO REGIMENTAL IMPROVIDO.
+I. O STF, no julgamento da ADI 3.395/DF, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da CF/88, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+II. É firme a jurisprudência desta Corte, acompanhando o STF, no sentido de que, "se o vínculo estabelecido entre o Poder Público e o servidor for estatutário ou de caráter jurídico-administrativo, a competência para análise das controvérsias trabalhistas será da Justiça Comum (Estadual ou Federal) (..)" (STJ, AgRg no CC 126.125/PE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira seção, DJe de 30/04/2014).
+VI. Agravo Regimental improvido. (AgRg no CC 135.356/RN, Rel. Ministra Assusete Magalhães, Primeira Seção, DJe 06/04/2015)
+No caso em foco, como bem ponderado pelo Parquet (fls. 467-469):
+4. Com razão o Juízo suscitante, a competência para dirimir a controvérsia em questão é da Justiça do Trabalho por se tratar de relação trabalhista, tendo em vista a autora ter sido contratada em 1/2/1999, sob o regime celetista.
+5. Não obstante a informação constante dos autos de que a municipalidade tenha instituído o regime estatutário para seus servidores a partir de 19/9/201 1, por meio da Lei 47/201 1, é certo que cabe à Justiça Trabalhista a apreciação dos pedidos decorrentes do período laborado sob o vínculo celetista.
+ ..
+7. Ademais, a hipótese dos autos se amolda ao disposto nas Súmulas n. 97 e 170/STJ, in verbis:
+"Compete à Justiça do Trabalho processar e julgar reclamação de servidor público relativamente a vantagens trabalhistas anteriores à instituição do regime jurídico único."
+"Compete ao juízo onde primeiro for intentada a ação envolvendo acumulação de pedidos, trabalhista e estatutário, decidi-la nos limites da sua jurisdição, sem prejuízo do ajuizamento de nova causa, com o pedido remanescente, no juízo próprio""
+Dentre os precedentes, destaca-se o seguinte:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. AGENTES COMUNITÁRIOS DE SAÚDE DO MUNICÍPIO DE NATAL/RN. CONTRATAÇÃO MEDIANTE PROCESSO SELETIVO. POSTERIOR APROVEITAMENTO POR LEI COMPLEMENTAR LOCAL. PEDIDOS ENVOLVENDO REGIME JURÍDICO CELETISTA E ESTATUTÁRIO. VERBAS DECORRENTES DA PRESTAÇÃO DO SERVIÇO. FORO COMPETENTE PARA COBRANÇA. APLICAÇÃO DO VERBETE SUMULAR 170/STJ. AGRAVO PARCIALMENTE PROVIDO.
+1. A Primeira Seção desta Corte, ao julgar o AgRg no CC 123.362/RN, da relatoria do eminente Ministro Ari Pargendler (DJe 4/6/2013), assentou, à unanimidade, que a controvérsia posta nos autos encontra solução jurídica no enunciado sumular 170/STJ, do seguinte teor: "Compete ao juízo onde primeiro for intentada a ação envolvendo acumulação de pedidos, trabalhista e estatutário, decidi-la nos limites da sua jurisdição, sem prejuízo do ajuizamento de nova causa, com o pedido remanescente, no juízo próprio".
+2. Agravo regimental parcialmente provido para declarar competente o Juízo da 2ª Vara do Trabalho de Natal/RN para processar e julgar o feito, nos limites da sua competência. (AgRg no CC 119.957/RN, Rel. Ministro Arnaldo Esteves Lima, Primeira Seção, DJe 24/02/2014)
+Tendo a ação sido ajuizada na Justiça laboral, é sua a competência para o processamento e o julgamento do feito nos limites de sua competência, ou seja, relativamente ao período em que vigou o regime celetista.
+Nesse sentido, confira-se:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO ESTADUAL. SERVIDOR PÚBLICO MUNICIPAL. PARCELAS EM QUE SUJEITO AO REGIME TANTO CELETISTA QUANTO ESTATUTÁRIO. JUÍZO EM QUE PROPOSTA A AÇÃO. SÚMULA 170/STJ. JULGADAS PRESCRITAS AS PARCELAS DE CUNHO TRABALHISTA. TRÂNSITO EM JULGADO. INEXISTÊNCIA DE CONFLITO. SÚMULA 59/STJ.
+1. Se a ação envolve obtenção de verbas decorrentes de regimes distintos, celetista e estatutário, deve-se aplicar o entendimento das Súmulas 97 e 170 desta Corte.
+2.No caso, a lide foi proposta na Justiça Trabalhista, que julgou o pedido no limite da sua jurisdição ao considerar prescritas as parcelas sujeitas ao regime celetista. Houve o trânsito em julgado dessa decisão.
+3. Inexiste conflito a ser dirimido, segundo dispõe a Súmula 59 desta Corte: "Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes".
+4. Conflito de competência não conhecido. (CC 97.406/RS, Rel. Ministro Celso Limongi (Desembargador convocado do TJ/SP), Terceira Seção, DJe 07/04/2009)
+Diante do exposto, conheço do presente conflito, para declarar competente o Tribunal Regional do Trabalho da 12ª Região.
+Publique-se. Intimem-se.
