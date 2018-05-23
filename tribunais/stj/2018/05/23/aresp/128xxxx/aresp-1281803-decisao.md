@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que inadmitiu recurso especial, por ausência de negativa de prestação jurisdicional (e-STJ fl. 746).
+O acórdão do TJSP está assim ementado (e-STJ fl. 696):
+AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. Fase de cumprimento de sentença. Insurgência contra decisão que determinou o bloqueio on-line de valores. Aquisição originária da unidade condominial por terceiro, em ação de usucapião. Responsabilidade dos sucessores do proprietário anterior pelas despesas havidas no período antecedente, nos limites das forças da herança recebida. Valores posteriores que devem ser cobrados da atual titular do domínio, em ação própria. Compreensão do art. 1.245, caput e § 1º do Código Civil/2002. Bloqueio on-line de ativos financeiros dos executados. Admissibilidade em observância à ordem estabelecida pelo art. 655 do CPC/1973 - art. 835 do CPC/2015. Inexistência de ofensa à regra contida no art. 620 do CPC/1973 - art. art. 805 do CPC/2015. Recurso provido em parte.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 719/723).
+Nas razões do recurso especial (e-STJ fls. 726/735), fundamentadas no art. 105, III, alínea "a", da CF, os recorrentes alegaram ofensa ao art. 1.022, II, do CPC/2015, argumentando que a Corte local teria sido omissa, porque inexistiria menção na parte dispositiva do acórdão, quanto ao pedido da limitação de sua responsabilidade pelo pagamento dos débitos condominiais discutidos, a qual cessaria com a aquisição do imóvel gerador de tais encargos por [NOME], por meio da ação de usucapião.
+Acrescentaram que [NOME] seria a sucessora de [NOME], sendo, dessa maneira, a responsável pelo pagamento das cotas condominiais apuradas, a a partir de novembro de 1997, na condição de atual titular do imóvel.
+Foram ofertadas contrarrazões (e-STJ fls. 741/745).
+No agravo (e-STJ fls. 749/756), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 759/761).
+É o relatório.
+Decido.
+Não assiste razão aos recorrentes quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo decidiu a matéria controvertida, assentando que os recorrentes seriam os responsáveis pelo pagamento das despesas condominiais anteriores à posse de [NOME] no imóvel - apuradas a partir de 1990 -, e os encargos vencidos durante a posse dessa no bem, seriam de responsabilidade dela, o que deveria ser apurado em ação própria. Confira-se o seguinte excerto (e-STJ fls. 697/700):
+A ação de cobrança foi proposta em maio de 1993 contra os Espólios de [NOME] [NOME] e de [NOME], tendo por objetivo o recebimento das despesas condominiais vencidas de outubro de 1990 a janeiro de 1993 e das vincendas, referentes ao apartamento nº 210 do Edifício Imbui, situado na Rua São Francisco nº 98, nesta Capital (fls. 34/36).
+Houve a desistência da demanda quanto ao Espólio de [NOME] [NOME], sendo o pedido julgado procedente em relação ao Espólio de [NOME] [NOME] para condená-lo ao pagamento dos valores inadimplidos e das despesas vincendas, com os devidos acréscimos (fls. 38/39).
+Iniciada a fase de cumprimento do julgado, foi realizada a penhora sobre o imóvel condominial, o qual foi arrematado em hasta pública (fl. 588), todavia o ato foi tornado sem efeito (fl. 620), ante a desistência do arrematante, em razão da falta de informação no edital quanto à existência de ação de usucapião ajuizada por [NOME], Autos nº 0332489-96.2009.8.26.0100, em trâmite na 1ª Vara de Registros Públicos do Foro Central da Comarca da Capital (fls. 545/547).
+Sobreveio, então, o bloqueio dos valores encontrados em contas bancárias dos agravantes, sucessores de [NOME].
+Isto colocado, consta que o imóvel condominial estava registrado em nome de [NOME] e [NOME], sem indicação de qualquer alienação posterior a terceiro (fls. 348/250).
+Por outro lado, verifica-se que a ação de usucapião foi proposta por [NOME] em 18 de setembro de 2009, alegando ela que estava na posse mansa e pacífica do referido imóvel há mais de 05 anos, ininterruptamente, tendo sido os direitos possessórios adquiridos pelo seu genitor por meio de instrumento particular realizado com [NOME], sendo o pedido julgado procedente para declarar o domínio da referida autora sobre o imóvel usucapiendo.
+Pondere-se que a usucapião é forma originária de aquisição da propriedade, no caso de bem imóvel, via a ser utilizada por quem, embora tenha posse, não tem a propriedade.
+Nesta senda, conclui-se que as despesas vencidas durante a posse de [NOME] são de responsabilidade dela, sob pena de obter vantagem indevida, tendo em vista que usufruiu das comodidades do condomínio, o que, todavia, deverá ser objeto de ação própria, garantindo-se o contraditório e a ampla defesa.
+Quanto às despesas anteriores, vencidas a partir de outubro de 1990, são de responsabilidade dos agravantes, na qualidade de sucessores de [NOME] e respeitados, naturalmente, os limites das forças da herança recebida, máxime porque não demonstraram a data em que houve a alienação do imóvel pelos primitivos proprietários - [NOME] e [NOME].
+Alinhe-se que a propriedade imóvel aperfeiçoa-se com o registro imobiliário do título,
+nos termos do art. 1.245, caput e § 1º do Código Civil/2002 art. 676 do CC/1916:
+(..)
+Ante o exposto, pelo meu voto, dou parcial provimento ao recurso, tão só, para limitar a constrição aos valores necessários para satisfazer as despesas condominiais vencidas de outubro de 1990 até a data da posse anunciada por [NOME] sobre o imóvel gerador das despesas condominiais, nos limites das forças da herança recebida pelos agravantes, o que deverá ser verificado na execução.
+Ao rejeitar os aclaratórios, a Corte local entendeu ainda que (e-STJ fls. 721/722)
+Anote-se que o V. Acórdão está suficientemente fundamentado, tendo consignado que as despesas vencidas durante a posse de [NOME] são de responsabilidade dela, sob pena de obter vantagem indevida, tendo em vista que a mesma usufruiu das comodidades do condomínio, o que deverá ser objeto de ação própria, garantindo-se o contraditório e a ampla defesa.
+Quanto às despesas anteriores, vencidas a partir de outubro de 1990, são de responsabilidade dos agravantes, ora embargantes, na qualidade de sucessores de [NOME] e respeitados, naturalmente, os limites das forças da herança
+recebida, máxime porque não demonstraram a data em que houve a alienação do imóvel pelos primitivos proprietários - [NOME] e [NOME], sendo o expendido suficiente para justificar a conclusão adotada.
+Assim, inexistiu a omissão apontada pelos recorrentes.
+Ressalte-se que o fato de o julgamento ser contrário aos interesses da recorrente não configura nenhum dos vícios do art. 458 do CPC/1973 (atual art. 489, § 1º, IV, do CPC/2015), tampouco hipótese de cabimento dos aclaratórios.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
