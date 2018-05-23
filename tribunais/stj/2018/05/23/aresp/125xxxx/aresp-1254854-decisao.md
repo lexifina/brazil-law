@@ -1,0 +1,34 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PRESCRIÇÃO RECONHECIDA PELO TRIBUNAL DE ORIGEM. FATO APURADO EM INQUÉRITO POLICIAL. INCIDÊNCIA DO ART. 200 DO CÓDIGO CIVIL. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por [NOME] EL MAJZOUB e NAYAH YASSINE, com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+RESPONSABILIDADE CIVIL. PRESCRIÇÃO TRIENAL. Descabimento. Prazo qüinqüenal, aplicável às ações contra a Fazenda Pública. Inteligência do art. 1o do Decreto 20.910/32. Norma especial que deve prevalecer sobre a geral. Entendimento consolidado pelo C. Superior Tribunal de Justiça, em sede de recurso repetitivo. Termo a quo contado da data ou fato do qual se originaram. Ocorrência da prescrição qüinqüenal.
+RESPONSABILIDADE CIVIL. Indenização por danos morais e materiais em decorrência da morte do filho dos autores após ter se submetido a uma cirurgia realizada pelas rés. Prescrição qüinqüenal configurada. Não incidência do art. 200 do CC. Inquérito policial arquivado. Inexistência de ação penal. Não verificadas as hipóteses de suspensão ou interrupção da prescrição. Verba honorária aplicada com razoabilidade. Improcedência da ação mantida. Recursos improvidos (fls. 1.046).
+2. Nas razões do seu Apelo Nobre (fls. 1.056/1.063), os recorrentes apontam ofensa ao art. 200 do CC. Sustentam que a morte do seu filho foi apurada no juízo criminal, em longo curso no Inquérito 675/2004, que tramitou perante a 3a. Vara Criminal da Comarca de Guarulhos. Aduzem que o prazo de prescrição na hipótese em que os fatos tenham que ser apurados em Juízo Criminal somente tem início após decisão definitiva na esfera penal. Aponta que, instaurado o inquérito policial, ainda que o resultado tenha sido o arquivamento, resta evidenciado que somente após tal decisório definitivo é que se iniciaria o prazo prescricional dos direitos civis (fls. 1.063).
+3. Contrarrazões às fls. 1.073/1.084 e 1.086/1.091.
+4. Sobreveio juízo negativo de admissibilidade (fls. 1.094), o que ensejou a interposição do presente Agravo.
+5. É o relatório.
+6. A irresignação merece prosperar.
+7. Trata-se, na origem, de ação de indenização por danos morais e materias em decorrência da morte do filho dos agravantes após ter se submetido a uma cirurgia. No presente recurso, discute-se a aplicabilidade do art. 200 do CC à espécie.
+8. De acordo com o art. 200 do Código Civil, quando a ação se originar de fato que deva ser apurado no juízo criminal, não correrá a prescrição antes da respectiva sentença definitiva.
+9. Diversamente do que restou decidido pelo Tribunal de origem, a jurisprudência desta Corte Superior assevera que não correrá a prescrição, aplicando o disposto no art. 200 do Código Civil, na hipótese em que a ação originar-se de fato também a ser apurado no juízo criminal, sendo fundamental a existência de ação penal e curso ou ao menos inquérito policial em trâmite. A propósito:
+CIVIL E PROCESSO CIVIL. RESPONSABILIDADE CIVIL. DANO MORAL. INJÚRIA RELIGIOSA E RACIAL. AÇÃO PENAL. CAUSA IMPEDITIVA DA PRESCRIÇÃO. ART. 200 DO CC/2002. OCORRÊNCIA.
+1. Ação ajuizada em 29/05/2013. Recurso Especial interposto em 20/05/2015 e atribuído a este Gabinete em 25/08/2016.
+2. O propósito recursal consiste em determinar a legalidade na decretação da prescrição da pretensão de reparação dos danos morais suportados pelas recorrentes, considerando que o mesmo evento danoso pode ser compreendido como um fato típico e, portanto, crime, o que interromperia o prazo prescricional, nos termos do disposto no art. 200 do CC/2002.
+3. O comando do art. 200 do CC/02 incide quando houver relação de prejudicialidade entre as esferas cível e penal, isto é, quando a conduta originar-se de fato também a ser apurado no juízo criminal, sendo fundamental a existência de ação penal em curso ou ao menos inquérito policial em trâmite.
+4. Não é possível afastar a aplicação do art. 200 do CC/2002 em hipóteses que envolvam, além do pedido de indenização, discussões relacionadas à existência de responsabilidade solidária entre o autor da ofensa e aquele que consta no polo passivo da controvérsia, em razão da relação de preposto.
+5. Recurso especial conhecido e provido (REsp. 1.704.525/AP, Rel. Min. NANCY ANDRIGHI, DJe 18.12.2017).
+
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - ACIDENTE DE TRÂNSITO - SENTENÇA E ACÓRDÃO QUE RECONHECERAM A OCORRÊNCIA DA PRESCRIÇÃO - DECISÃO QUE DEU PROVIMENTO AO RECURSO ESPECIAL, AFASTANDO A PRESCRIÇÃO. INSURGÊNCIA DA EMPRESA DEMANDADA.
+1. De acordo com o art. 200 do CC, quando a ação se originar de fato que deva ser apurado no juízo criminal, não correrá a prescrição antes da respectiva sentença definitiva.
+2. A aplicação do art. 200 do Código Civil tem valia quando houver relação de prejudicialidade entre as esferas cível e penal - isto é, quando a conduta originar-se de fato também a ser apurado no juízo criminal -, sendo fundamental a existência de ação penal em curso (ou ao menos inquérito policial em trâmite): REsp 1135988/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/10/2013, DJe 17/10/2013.
+3. Considerando que no caso em questão a sentença penal data de 26/07/2006, e que a ação foi ajuizada em 16/01/2007, o prazo prescricional trienal aplicável a esse tipo de demanda não se consumou.
+4. Agravo regimental desprovido (AgRg no REsp. 1.121.295/RJ, Rel. Min. MARCO BUZZI, QUARTA TURMA, DJe 1.8.2014).
+
+DIREITO ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. POLICIAL MILITAR. LICENCIAMENTO EX OFFICIO. INQUÉRITO POLICIAL. ARQUIVAMENTO. PRAZO PRESCRICIONAL NA ESFERA CÍVEL. SUSPENSÃO. POSSIBILIDADE. ART. 200 DO CÓDIGO CIVIL. APLICABILIDADE. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Quando a ação cível se originar de fato que deva ser apurado no juízo criminal, não correrá a prescrição antes da respectiva sentença definitiva, sendo irrelevante que a respectiva ação penal não tenha sido proposta, se houve a abertura de inquérito policial posteriormente arquivado. Inteligência do art. 200 do atual Código Civil.
+2. Recurso especial conhecido e provido (REsp. 920.582/RJ, Rel. Min. ARNALDO ESTEVES LIMA, DJe 24.11.2008).
+10. No caso dos autos, houve a instauração de inquérito policial posteriormente arquivado, devendo incidir o disposto no art. 200 do Código Civil.
+11. Por fim, como não está explícito no acórdão recorrido a data em que o inquérito policial foi devidamente arquivado, o Tribunal de origem deve analisar a ocorrência ou não da prescrição, com a aplicação do disposto no art. 200 do Código Civil.
+12. Diante do exposto, conhece-se do Agravo e dá-se provimento ao Recurso Especial, nos termos da fundamentação supra.
+13. Publique-se.
+14. Intimações necessárias.
