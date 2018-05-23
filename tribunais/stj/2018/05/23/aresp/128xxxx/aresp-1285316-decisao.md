@@ -1,0 +1,59 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA POR INVALIDEZ. REQUISITOS. SÚMULA 7/STJ. LAUDO PERICIAL. NÃO VINCULAÇÃO. APRECIAÇÃO DOS ASPECTOS SOCIO-CULTURAIS DO SEGURADO. CABIMENTO. PRECEDENTES. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Instituto Nacional do Seguro Social contra decisão proferida pelo Presidente do Tribunal de Justiça do Estado de Pernambuco, que negou seguimento ao seu recurso especial, em razão da impossibilidade de análise de violação a resoluções e códigos de ética em sede de recurso especial, por não se enquadrarem no conceito de lei federal, e por se aplicar a inteligência da Súmula 7/STJ.
+Em sua minuta de agravo, sustenta o agravante que demonstrou a violação à lei federal, sendo que as resoluções apenas foram mencionadas como reforço argumentativo. Não se aplica o óbice da Súmula 7/STJ, eis que não requer seja feito o reexame do conjunto fático-probatório dos autos, apenas analise de questão de direito.
+Em contraminuta ao agravo, sustenta-se o não provimento do recurso, pela incidência da Súmula 7/STJ.
+O recurso especial que se pretende o seguimento, impugna acórdão assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. NEXO CAUSAL ENTRE A LESÃO E O ACIDENTE DE TRABALHO CONFIGURADO. LAUDOS DIVERGENTES. APLICAÇÃO DO PRINCÍPIO IN DUBIO PRO MISERO. COMPROVADA A REDUÇÃO DA CAPACIDADE LABORATIVA. PERDA DEFINITIVA DE COMPONENTES ARTICULARES (MENISCO MEDIAL) DO JOELHO DIREITO EM 50% DE SUA CAPACIDADE LABORAL TOTAL. REEXAME NECESSÁRIO A QUE SE NEGA PROVIMENTO. HONORÁRIOS MANTIDOS. RECURSOS VOLUNTÁRIOS PREJUDICADOS.
+1. O cerne da controvérsia ora posta a deslinde cinge-se em saber se a parte autora atendeu ou não os requisitos que autorizam o recebimento do benefício de aposentadoria por invalidez.
+2. O segurado da Previdência Social tem direito ao benefício de aposentadoria por invalidez se comprovado, por perícia médica, a incapacidade laborativa para sua atividade habitual e insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência.
+3. Em que pese o laudo pericial ter concluído pela capacidade laborativa do trabalhador, depreende-se dos autos a existência de outros laudos médicos da rede pública e privada de saúde de fls. 261 e 269, cujo teor declara que o Sr. [NOME]ncontra-se inapto para suas atividades laborativas, além do laudo emitido pela fisioterapeuta do trabalho e perita judicial, atestando que o mesmo apresenta perda definitiva de componentes articulares (menisco medial) do joelho direito em 50% (cinquenta por cento) de sua capacidade laboral total. (fls. 258)
+4. A prova pericial não consubstancia, entretanto, prova absoluta. Pode o julgador utilizar-se de elementos outros dos autos para formar seu convencimento, já que não se encontra adstrito ao laudo. O art. 479 do NCPC/2015 viabiliza ao magistrado a elaboração de sua convicção por provas outras coligidas pelas partes.
+5. Desta feita, verificada por meio de diversos laudos médicos a incapacidade permanente do autor, é devida a concessão da aposentadoria por invalidez.
+6. De outra banda, no que pertine aos juros moratórios e correção monetária, devem ser aplicados Enunciados do Grupo de Câmara de Direito Público aprovada na Sessão Administrativa realizada em 07 de outubro de 2015.
+7. Considerando a natureza da causa, o trabalho desenvolvido pelo patrono do Autor, o tempo decorrido e, sobretudo, observando os critérios legais estabelecidos pela nova sistemática processual em vigor, entendo justa a fixação dos honorários advocatícios em 10% (dez por cento) sobre o valor da condenação, nos termos em que proferida a sentença de primeiro grau.
+8. Reexame necessário a que se nega provimento. Recursos voluntários prejudicados. Decisão unânime.
+Em suas razões de recurso especial, o recorrente, ora agravante, alega ofensa aos artigos 139, I, 156, 466, 479 e 480 do CPC/2015 e artigos 19, caput, 20 e 42 da Lei 8.213/1991, afirmando que o laudo pericial constatou ausência de incapacidade para o trabalho e nexo de causalidade, o que impede a concessão do benefício pleiteado.
+Em contrarrazões ao recurso especial, sustenta-se o não provimento ao recurso, eis que seria necessário o reexame do conjunto fático-probatório dos autos e o acórdão combatido está em conformidade com a jurisprudência do STJ.
+Noticiam os autos que [NOME] ajuizou ação previdenciária, objetivando a conversão de seu auxílio-doença previdenciário em auxílio-doença acidentário, com posterior conversão em aposentadoria por invalidez.
+A sentença julgou o pedido procedente.
+O Tribunal de origem negou provimento à remessa necessária e julgou prejudicado o apelo do INSS, nos termos da ementa supratranscrita.
+Opostos embargos de declaração, foram rejeitados.
+É o relatório.
+Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravante impugnou devidamente os fundamentos adotados na decisão agravada e mostrando-se preenchidos os pressupostos de admissibilidade do presente recurso, adentra-se o mérito.
+A controvérsia gira em torno do preenchimento dos requisitos para a concessão da aposentadoria por invalidez.
+Quanto ao ponto, verifica-se que o Tribunal de origem, soberano na análise dos fatos e provas produzidas na demanda, concluiu que foram preenchidos os requisitos legais para a concessão do benefício em questão.
+Destarte, a análise do recurso especial enseja obrigatoriamente o reexame do conjunto fático-probatório, o que não é admissível em sede de recurso especial por força da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. ACÓRDÃO QUE CONCLUIU PELA EXISTÊNCIA DE PROVA DOS SEUS REQUISITOS. REVISÃO DA CONCLUSÃO ADOTADA NA ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, o Tribunal de origem, ao decidir a vexata quaestio, consignou (fls. 206-209/e-STJ): "(..) A despeito da evidente contradição entre as conclusões periciais, é caso de ser reconhecido o prejuízo físico residual do segurado quanto à seqüela no 3º dedo da mão direita. Tanto a doutrina como a jurisprudência reconhecem que o magistrado não está adstrito ao laudo, podendo firmar o seu convencimento com outros elementos objetivos existentes nos autos. (..) Conforme apontado no laudo, o expert afirmou que há seqüela no dedo médio da mão direita, que restringe o uso do mencionado quirodáctilo, de modo que é imperioso reconhecer o prejuízo funcional, ainda que mínimo. (..) O nexo causal também restou comprovado ante a emissão de CAT e a concessão administrativa de benefício de natureza acidentária. Assim, cumpridos os requisitos da lei infortunística, a reparação pela redução parcial e permanente da capacidade funcional 6 de rigor" (..)
+2. Extrai-se do acórdão vergastado que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente das conclusões de laudo pericial analisadas com esmero pela Corte de origem, o que não se admite ante o óbice da Súmula 7/STJ.
+3 Recurso Especial não conhecido.
+(REsp 1.688.515/SP, Segunda Turma, Relator Ministro Herman Benjamin, DJe 11/10/2017)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-ACIDENTE. PREENCHIMENTO DOS REQUISITOS. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A inversão do julgado a quo, como pretende o agravante, para que não sejam considerados preenchidos os requisitos do auxílio-acidente, não está adstrita à interpretação da legislação federal, mas, sim, ao exame de matéria fático-probatória, cuja análise é afeta às instâncias ordinárias. Mantido o óbice da Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 106.789/SP, Segunda Turma, minha Relatoria, julgado em 12/4/2012, DJe 18/4/2012)
+Cumpre registrar que a jurisprudência do STJ é firme no sentido de que o juiz não está adstrito às provas periciais produzidas, devendo analisar, também, fatores culturais e sócio-econômicos do segurado para decidir acerca da concessão o benefício.
+Ilustrativamente:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. INCAPACIDADE LABORAL. AFERIÇÃO POR CRITÉRIOS SOCIAIS E CULTURAIS. POSSIBILIDADE. NÃO VINCULAÇÃO AO LAUDO PERICIAL.
+1. Esta Corte tem entendimento no sentido de que, para a concessão da aposentadoria por invalidez, o magistrado não está vinculado à prova pericial e pode concluir pela incapacidade laboral levando em conta os aspectos socioeconômicos, profissionais e culturais do segurado.
+2. Agravo regimental não provido.
+(AgRg no AREsp 103.056/MG, Primeira Turma, Relator Ministro Benedito Gonçalves, DJe 2/8/2013)
+PROCESSUAL. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. ACÓRDÃO EMBASADO EM OUTROS ELEMENTOS ALÉM DO LAUDO PERICIAL. POSSIBILIDADE.
+1. A concessão da aposentadoria por invalidez deve considerar, além dos elementos previstos no art. 42 da Lei nº 8.213/91, os aspectos socioeconômicos, profissionais e culturais do segurado, ainda que o laudo pericial apenas tenha concluído pela sua incapacidade parcial para o trabalho. Precedentes.
+2. O Tribunal a quo entendeu existir comprovação de que a ora agravada ficouincapacitada de maneira permanente e definitiva para exercer suas atividades laborativas, nada obstante o laudo pericial ter concluído pela incapacidade apenas parcial. Inteligência da Súmula 83/STJ.
+3. A revisão das premissas fáticas de julgamento esbarra na Súmula 7/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp 318.761/PR, Segunda Turma, Relator Ministro Castro Meira, DJe 5/6/2013)
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. NÃO VINCULAÇÃO AO LAUDO PERICIAL. OUTROS ELEMENTOS CONSTANTES DOS AUTOS. PRINCÍPIO DO LIVRE CONVENCIMENTO. INCAPACIDADE DEFINITIVA. CUMPRIMENTO DE REQUISITO LEGAL. SÚMULA Nº 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o magistrado não está adstrito ao laudo, devendo considerar também aspectos sócio-econômicos, profissionais e culturais do segurado a fim de aferir-lhe a possibilidade ou não, de retorno ao trabalho, ou de sua inserção no mercado de trabalho, mesmo porque a invalidez laborativa não é meramente o resultado de uma disfunção orgânica, mas uma somatória das condições de saúde e pessoais de cada indivíduo.
+2. Havendo a Corte regional concluído pela presença das condições necessárias à concessão do benefício, com base em outros elementos constantes dos autos, suficientes à formação de sua convicção, modificar tal entendimento, importaria em desafiar a orientação fixada pela Súmula nº 7 do Superior Tribunal de Justiça. 3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 81.329/PR, Quinta Turma, Relator Ministro Marco Aurélio Bellizze, DJe 1º/3/2012)
+Recai ao recurso especial a Súmula 568/STJ, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no artigo 932, III, do CPC/2015 c/c o artigo 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao artigo 85, § 11, do CPC/2015 e Enunciado Administrativo 7/STJ, majoro os honorários de advogado para 11% sobre o valor da condenação. Observadas as Súmulas 111 e 204/STJ.
+Publique-se.
+Intimem-se.
