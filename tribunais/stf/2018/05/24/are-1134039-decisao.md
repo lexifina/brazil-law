@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 20ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AGRAVO DE INSTRUMENTO - EXECUÇÃO - IMPENHORABILIDADE DO BEM DE FAMÍLIA - MATÉRIA PRECLUSA - INEXISTÊNCIA DE FATO SUPERVENIENTE
+    1 - Não deve ser confundida a coisa julgada com a tese de que a impenhorabilidade é matéria de ordem pública e pode ser reanalisada a qualquer tempo. Ora, se efetivamente houvesse fato superveniente capaz de alterar o conteúdo da decisão que rejeitou a tese de impenhorabilidade, poderia até mesmo ser cogitada a hipótese de revisão daquela decisão. Entretanto, o que se verifica não é a ocorrência de um fato superveniente, mas sim a reiteração de fato já utilizado anteriormente para alicerce de tese, rejeitada por este Tribunal e pelo próprio julgador de Primeira Instância.
+    2 - O fato de a matéria ter sido decidida em sede de embargos à execução, cuja decisão restou irrecorrida, desautoriza o agravante a reabrir a discussão sob o mesmo argumento, sob pena de violação da coisa julgada.
+    RECURSO IMPROVIDO.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, incisos XXVI, XXXV e LV, e 93, inciso IX, da Constituição Federal.
+    Decido.
+    No que se refere aos artigos 5º, incisos XXXV e LV, e 93, inciso IX, da Constituição, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objeto dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, este Supremo Tribunal Federal tem entendimento pacificado no sentido de que discussões estritamente processuais, como no presente caso que trata de preclusão, estão afetas ao ordenamento infraconstitucional, não ensejando a interposição de recurso extraordinário. Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO MATÉRIA LEGAL. O recurso extraordinário não é meio próprio a alcançar-se exame de controvérsia equacionada sob o ângulo estritamente legal. RECURSO EXTRAORDINÁRIO PRESTAÇÃO JURISDICIONAL DEVIDO PROCESSO LEGAL. Se, de um lado, é possível ter-se situação concreta em que transgredido o devido processo legal a ponto de se enquadrar o recurso extraordinário no permissivo que lhe é próprio, de outro, descabe confundir a ausência de aperfeiçoamento da prestação jurisdicional com a entrega de forma contrária aos interesses do recorrente. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé” (AI n° 740.083/GO-AgR, Primeira Turma, Relator o Ministro Marco Aurélio , DJe de 10/2/11).
+    “PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. NORMAS PROCESSUAIS. OFENSA REFLEXA. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280. AGRAVO IMPROVIDO. I - Ausência de prequestionamento das questões constitucionais suscitadas. Incidência das Súmulas 282 e 356 do STF. II - O acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. III - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. IV - Agravo regimental improvido” (AI nº 631.775/AL-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski , DJe de 13/3/09).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 24 de maio de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
