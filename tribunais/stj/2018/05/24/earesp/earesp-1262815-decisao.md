@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 319, e-STJ):
+PREVIDENCIÁRIO. AGRAVO INTERNO (ART. 1.021, DO CPC). APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO A PARTIR DO REQUERIMENTO ADMINISTRATIVO. COISA JULGADA. OCORRÊNCIA. INTERPOSIÇÃO CONTRA DECISÃO SINGULAR DO RELATOR. CABIMENTO.
+1.0 denominado agravo interno (artigo Art. 1.021 do CPC/15) tem o propósito de impugnar especificadamente os fundamentos da decisão agravada e, em caso de não retratação, possa ter assegurado o direito de ampla defesa, com submissão das suas impugnações ao órgão colegiado, o qual, cumprindo o princípio da colegialidade, fará o controle da extensão dos poderes do relator e, bem assim, a legalidade da decisão monocrática proferida, não se prestando, afora essas circunstâncias, à rediscussão, em si, de matéria já decidida, mediante reiterações de manifestações anteriores ou à mingua de impugnação específica e fundamentada da totalidade ou da parte da decisão agravada, objeto de impugnação.
+2.Na hipótese, a decisão agravada não padece de qualquer ilegalidade ou abuso de poder, estando seus fundamentos cm consonância com a jurisprudência pertinente à matéria devolvida a este E. Tribunal.
+3. Agravo improvido.
+No recurso especial o recorrente alega, além de dissídio jurisprudencial, violação do artigo 5º, XXXVI, da CF/1988; 337, § 4º, e 485, V, do CPC/2015, ao argumento de que não há coisa julgada na espécie, visto os elementos das ações serem diversos.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, nos termos do art. 105, inciso III, da Constituição da República, o recurso especial é destinado tão somente à uniformização da interpretação do direito federal, não sendo, assim, a via adequada para a análise de eventual ofensa a dispositivos constitucionais, cuja competência pertence ao Supremo Tribunal Federal. Por tal motivo, não se conhece do apelo especial no tocante à alegação de violação do artigo 5º, XXXVI, da CF/1988 .
+Quanto à alegação de inexistência de coisa julgada material a obstar o conhecimento do pleito, o Tribunal a quo manifestou-se nos seguintes termos:
+No caso concreto, verifica-se que o autor ajuizou anterior demanda de nº 0009402-15.2010.403.6183 (fls. 13/256), objetivando o reconhecimento do tempo especial no período de 28/05/1984 a 05/03/1997 e a concessão de aposentadoria por tempo de contribuição, a contar da data do requerimento administrativo (18/05/2010).
+A sentença proferida naqueles autos reconheceu o tempo de serviço especial no período de 28/05/1984 a 28/04/1995 e não reconheceu o direito à concessão do benefício de aposentadoria por tempo de contribuição, por não contar o autor com tempo suficiente à concessão (fls. 158/163).
+A decisão monocrática de fls. 204/209, por seu turno, deu parcial provimento à remessa oficial e à apelação do autor, apenas para reconhecer o tempo especial no período de 29/04/1995 a 05/03/1997. Referida decisão não foi objeto de recurso do autor, tendo transitado em julgado em 15/01/2014 (fl. 214).
+Nos presentes autos, pretende o autor o cômputo do tempo de serviço reconhecido na ação anteriormente ajuizada e a concessão de aposentadoria por tempo de contribuição a partir de 18/05/2010.
+Ora, o pleito de aposentadoria por tempo de contribuição do autor na data do requerimento administrativo já foi apreciado na ação anteriormente proposta, não tendo sido concedida nem por ocasião da análise do feito em primeira instância, nem em sede recursal.
+Não se verifica, in casu, distinção entre as causas de pedir remotas ou próximas, vale dizer, não há distinção entre os fundamentos jurídicos e os fatos alegados. De fato, o autor alega em ambos os processos que, considerado o tempo de labor especial no período de 28/04/1995 a 05/03/1997, faz jus à concessão do benefício de aposentadoria por tempo de contribuição proporcional na data do requerimento administrativo.
+Embora o autor sustente não ter formulado o pedido de aposentadoria por tempo de contribuição no primeiro processo, este encontra-se expresso na petição inicial do referido processo (fl. 29) e foi analisado pelas instâncias às quais foi submetido, não sendo possível a reapreciação do pedido de concessão do benefício na data do requerimento administrativo de 18/05/2010, ante a ocorrência de coisa julgada.
+Assim, tendo a Corte local, após ampla análise do conjunto fático-probatório, firmado a compreensão de que o presente feito possui os mesmos elementos da ação anterior, transitada em julgado, a revisão de tal conclusão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Incabível a aplicação do artigo 85, §11, à hipótese, tendo em vista que não foram fixados honorários advocatícios nas instâncias ordinárias.
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
