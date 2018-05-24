@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, que assentara a possibilidade de remarcação de teste de aptidão física em razão da gravidez de candidata.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, caput; e 37, caput, todos da Constituição.
+    De início, dei provimento ao agravo para admitir o recurso extraordinário, e com base no art. 328, parágrafo único, do RI/STF, determinei o retorno dos autos à origem, com fundamento no paradigma da repercussão geral RE 630.733-RG, Rel. Min. Gilmar Mendes – Tema 335, que firmou o entendimento de que não há direito subjetivo à remarcação de provas em razões de circunstâncias pessoais do candidato, salvo se houver expressa autorização do edital do certame resguardando essa possibilidade.
+    Ocorre que o Tribunal de origem entendeu que a controvérsia dos autos é distinta do referido paradigma, por se tratar de candidata gestante, assentando que “a proteção constitucional à maternidade e à gestante não só autoriza, mas impõe a necessidade de tratamento diferenciado à candidata gestante, sem que isso importe em violação ao princípio da isonomia. A candidata tem direito à remarcação do exame de capacidade física quando comprovado o estado de gravidez e a impossibilidade em realizar o teste físico” e não realizou o juízo de retratação, sendo os autos conclusos de volta para este relator.
+    O Supremo Tribunal Federal reconheceu a repercussão geral da questão (RE 1.058.333, Rel. Min. Luiz Fux – Tema 973) acerca da possibilidade de remarcação do teste de aptidão física de candidata grávida à época de sua realização, independentemente de haver previsão expressa nesse sentido no edital do concurso público.
+    Diante do exposto, dou provimento ao agravo para admitir o recurso extraordinário e, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições da repercussão geral.
+    Publique-se.
+          Brasília, 24 de maio de 2018.
+Ministro Luís Roberto Barroso
+Relator
