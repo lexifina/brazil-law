@@ -1,0 +1,28 @@
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 2 DO STJ. NÃO INCIDÊNCIA DE PIS, COFINS, IRPJ E CSLL, NOS ATOS COOPERATIVOS PRATICADOS ENTRE A COOPERATIVA E SEUS ASSOCIADOS. NÃO COM TERCEIROS. PRECEDENTE EM SEDE DE RECURSO ESPECIAL REPETITIVO. (RESP 1.141.667/RS, REL. MINISTRO NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, DJE 04/05/2016). RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Cuida-se de recurso especial manejado por COOPERATIVA DE CONSUMO COOPERCICA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região que, por unanimidade, deu provimento ao apelo e à remessa oficial, resumido da seguinte forma:
+AGRAVO LEGAL. MANDADO DE SEGURANÇA. COOPERATIVA DE CONSUMO. ATO MERCANTIS. TRIBUTAÇÃO. LEGITIMIDADE.
+1. Os atos praticados pela cooperativa de consumo, no sentido de intermediar a venda e compra de seus produtos, são na verdade atos mercantis e, como tais, considerados atos não cooperativos, portanto, tributáveis.
+2. A despeito do inconformismo da agravante, a decisão está calcada em precedentes desta E. Terceira Turma (TRF 3" Região, Terceira Turma, APELREE - APELAÇÃO/REEXAME NECESSÁRIO - 1267193, Processo: 2004.61.08.006082-7, DJF3 CJ1 DATA:08/12/2009 PÁGINA: 385, Relator: DESEMBARGADOR FEDERAL CARLOS MUTA; TRF 3" Região, Terceira Turma, AMS - APELAÇÃO EM MANDADO DE SEGURANÇA - 241034, Processo: 2002.03.99.035893-3, DJU DATA:14/02/2007 PÁGINA: 237, Relator: DESEMBARGADORA FEDERAL CECILIA MARCONDES).
+3. Agravo Improvido.
+Nas razões recursais a recorrente alega divergência interpretativa e ofensa aos arts. 79, parágrafo único, 87 e 111 da Lei nº 5.764/1971 e sustenta, em síntese, a não incidência de tributação (IRPJ, PIS, COFINS e CSLL) sobre a receita auferida na prática de atos entre a cooperativa e seus associados, haja vista a isenção tributária previstas nos referidos dispositivos legais, a qual não teria sido revogada pelo art. 39 da Lei nº 10.865/2004.
+Requer o conhecimento e o provimento do recurso especial.
+Contrarrazões às fls. 771-778 e-STJ.
+Admitido o recurso especial na origem, subiram os autos a esta Corte e vieram-me conclusos.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+A irresignação merece acolhida.
+É que esta Corte já se manifestou, inclusive em sede de recurso especial repetitivo (REsp 1.141.667/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 04/05/2016), no sentido e que o art. 79 da Lei 5.764/71 preceitua que os atos cooperativos são os praticados entre as cooperativas e seus associados, entre estes e aquelas e pelas cooperativas entre si quando associados, para a consecução dos objetivos sociais. E, ainda, em seu parág. único, alerta que o ato cooperativo não implica operação de mercado, nem contrato de compra e venda de produto ou mercadoria.
+No caso dos autos, colhe-se da decisão em análise que se trata de ato cooperativo típico, promovido por cooperativa que realiza operações entre seus próprios associados, de forma a autorizar a não incidência das contribuições destinadas ao PIS e a COFINS, bem como do IRPJ e da CSLL.
+Nesse sentido:
+TRIBUTÁRIO. RECURSO ESPECIAL. NÃO INCIDÊNCIA DO PIS E DA COFINS NOS ATOS COOPERATIVOS TÍPICOS. APLICAÇÃO DO RITO DO ART. 543-C DO CPC E DA RESOLUÇÃO 8/2008 DO STJ. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Os RREE 599.362 e 598.085 trataram da hipótese de incidência do PIS/COFINS sobre os atos (negócios jurídicos) praticados com terceiros tomadores de serviço; portanto, não guardam relação estrita com a matéria discutida nestes autos, que trata dos atos típicos realizados pelas cooperativas. Da mesma forma, os RREE 672.215 e 597.315, com repercussão geral, mas sem mérito julgado, tratam de hipótese diversa da destes autos.
+2. O art. 79 da Lei 5.764/71 preceitua que os atos cooperativos são os praticados entre as cooperativas e seus associados, entre estes e aquelas e pelas cooperativas entre si quando associados, para a consecução dos objetivos sociais. E, ainda, em seu parág. único, alerta que o ato cooperativo não implica operação de mercado, nem contrato de compra e venda de produto ou mercadoria.
+3. No caso dos autos, colhe-se da decisão em análise que se trata de ato cooperativo típico, promovido por cooperativa que realiza operações entre seus próprios associados (fls. 124), de forma a autorizar a não incidência das contribuições destinadas ao PIS e a COFINS.
+4. O Parecer do douto Ministério Público Federal é pelo provimento parcial do Recurso Especial.
+5. Recurso Especial parcialmente provido para excluir o PIS e a COFINS sobre os atos cooperativos típicos e permitir a compensação tributária após o trânsito em julgado.
+6. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 8/2008 do STJ, fixando-se a tese: não incide a contribuição destinada ao PIS/COFINS sobre os atos cooperativos típicos realizados pelas cooperativas. (REsp 1141667 / RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 04/05/2016)
+Incide na espécie a Súmula 568/STJ, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial.
+Publique-se. Intimem-se.
