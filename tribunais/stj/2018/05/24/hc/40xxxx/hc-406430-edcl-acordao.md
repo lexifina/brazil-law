@@ -1,0 +1,35 @@
+EMENTA
+PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. PRECEITO SECUNDÁRIO DO ART. 273, § 1º-B, DO CÓDIGO PENAL. INCONSTITUCIONALIDADE. APLICAÇÃO DA PENA CABÍVEL PARA O CRIME DE TRÁFICO DE DROGAS. DELITO PRATICADO NA VIGÊNCIA DA LEI N. 6.368/1976. NECESSIDADE DE REFAZIMENTO DA PENA PELO TRIBUNAL DE ORIGEM. MANUTENÇÃO DA DECISÃO COLEGIADA. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO IMPUGNADO. EMBARGOS REJEITADOS.
+1. A teor do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. Reconhecido no acórdão embargado ser devida a aplicação do preceito secundário do art. 12 da Lei n. 6.367/1976 ao ora embargante condenado pelo delito previsto no art. 273, § 1º-B, I, do Código Penal, cabe ao Tribunal de origem o refazimento da dosimetria da pena, e não ao Juiz de primeiro grau, sobretudo na hipótese em que o acórdão que julgou a apelação defensiva, ao reformar a sentença condenatória, substituiu-a.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Felix Fischer e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Joel Ilan Paciornik e Jorge Mussi.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de embargos de declaração opostos por [NOME] de acórdão da Quinta Turma que acolheu os embargos de declaração da defesa em decisão assim ementada:
+"PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. INCONSTITUCIONALIDADE DO PRECEITO SECUNDÁRIO DO ART. 273, § 1º-B, DO CÓDIGO PENAL. APLICAÇÃO DA PENA CABÍVEL PARA O CRIME DE TRÁFICO DE DROGAS. DELITO PRATICADO NA VIGÊNCIA DA LEI N. 6.368/1976. CONTRADIÇÃO SANADA. EMBARGOS ACOLHIDOS.
+1. A teor do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição ou ambiguidade existentes no julgado.
+2. No julgamento da Arguição de Inconstitucionalidade no HC 239.363/PR, a Corte Especial deste Superior Tribunal de Justiça reconheceu a inconstitucionalidade do preceito secundário do tipo penal no art. 273, § 1º-B, do Código Penal, por violação dos princípios da proporcionalidade e da razoabilidade. Diante disso, restou pacificado no âmbito da Terceira Seção ser cabível, na hipótese, o preceito secundário insculpido no art. 33 da Lei n. 11.343/2006. Precedentes.
+3. No caso, porém, a pena deve ser aplicada nos patamares definidos no vetusto art. 12 da Lei n. 6.368/1976, por se tratar da legislação de drogas vigente à época dos fatos apurados nos autos, praticados em 30/4/2003. Precedentes.
+4. Descabe falar em omissão quanto à minorante do crime de tráfico de drogas, pois "aplicado o preceito secundário da Lei n. 6.368/76 para dosar a pena, descabida a aplicação do art. 33, § 4º, da Lei n. 11.343/06, porquanto é vedada a combinação de leis, conforme recurso especial repetitivo 1.117.068/PR" (AgRg no AREsp 571.532/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/9/2016, DJe 5/10/2016).
+5. Embargos de declaração acolhidos tão somente para sanar contradição no julgado e determinar que o Tribunal de origem proceda à nova dosimetria da pena imposta ao paciente pela prática do delito do art. 273, § 1º-B, I, do Código Penal, com a aplicação do preceito secundário do art. 12 da Lei n. 6.367/1976, ficando mantido, no mais, o teor do acórdão embargado".
+O embargante, em novos aclaratórios, alega que "para que não se incorra em supressão de instância e em conseqüente violação ao Princípio do Duplo Grau de Jurisdição, o redimensionamento da pena do ora embargante deve ser realizado pela instância primeva - e, não, pelo Tribunal de origem, tal como decidido." Afirma que "não soa lógico que a atribuição para a nova dosimetria da pena seja confiada diretamente à segunda instância de poder, sem que, antes, o primeiro grau de jurisdição pronuncie-se a esse respeito."
+Requer, assim, o acolhimento dos embargos declaratórios a fim de que seja "suprida a omissão apontada".
+É o relatório.
+EMENTA
+PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. PRECEITO SECUNDÁRIO DO ART. 273, § 1º-B, DO CÓDIGO PENAL. INCONSTITUCIONALIDADE. APLICAÇÃO DA PENA CABÍVEL PARA O CRIME DE TRÁFICO DE DROGAS. DELITO PRATICADO NA VIGÊNCIA DA LEI N. 6.368/1976. NECESSIDADE DE REFAZIMENTO DA PENA PELO TRIBUNAL DE ORIGEM. MANUTENÇÃO DA DECISÃO COLEGIADA. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO IMPUGNADO. EMBARGOS REJEITADOS.
+1. A teor do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. Reconhecido no acórdão embargado ser devida a aplicação do preceito secundário do art. 12 da Lei n. 6.367/1976 ao ora embargante condenado pelo delito previsto no art. 273, § 1º-B, I, do Código Penal, cabe ao Tribunal de origem o refazimento da dosimetria da pena, e não ao Juiz de primeiro grau, sobretudo na hipótese em que o acórdão que julgou a apelação defensiva, ao reformar a sentença condenatória, substituiu-a.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+O inconformismo do recorrente não merece acolhimento.
+A teor do art. 619 do Código de Processo Penal, os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal (EDcl no AgRg no AREsp 669.505/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/8/2015).
+Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado, o que não ocorreu na hipótese.
+A jurisprudência desta Corte é reiterada de que, no caso de reconhecimento de vício de fundamentação ou erro no cálculo da pena, se não houver ocorrido o trânsito em julgado da condenação (hipótese em que caberia ao Juízo da execução o refazimento da pena), é recomendável ao Tribunal de origem proceder a nova dosimetria, em cumprimento a decisão proferida por esta Corte. Vale anotar que, excepcionalmente, inclusive, quando de fácil verificação e reparo, as retificações podem ser feitas por este próprio Tribunal.
+Ademais, não se pode deixar de considerar que o julgamento proferido pelo Tribunal a quo substituiu a sentença na parte em questão.
+Logo, na falta de qualquer vício que justifique a integração do julgado, não há como acolher os embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
