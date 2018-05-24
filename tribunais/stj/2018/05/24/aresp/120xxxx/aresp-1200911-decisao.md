@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+SEGURO PRIVADO. Avarias em equipamento agrícola. Abordagem para recebimento de cobertura. Risco não contratado. Inteligência dos artigos 757 e 759, do Código Civil. Improcedência da demanda. Apelo do autor. Desprovimento.
+Alega-se, no especial, violação dos artigos 776 e 779 do Código Civil e 6º, VIII, 46 e 47 do Código de Defesa do Consumidor sob o argumento de que o recorrido deixou de cumprir obrigação contratual securitária, que não teve oportunidade de conhecer as cláusulas limitativas ou excludentes do contrato e que as cláusulas deste devem ser interpretadas de modo mais favorável ao consumidor.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local consignou e concluiu que, "respondendo o segurador pelos riscos particularizados na apólice (artigos 757 e 759, do Código Civil), aqui não compreendendo equipamento (plataforma de corte), que se alega avariado (fls. 19/32), com existência autônoma, não necessariamente integrada como item acessório de máquina colheitadeira, esta, sim, perfeitamente identificada no contrato, não é o caso de estender-lhe pretendida cobertura" (e-STJ, fl. 363).
+Se a conclusão, portanto, foi a de que o equipamento avariado não está coberto na apólice de seguro, o reexame da questão esbarra nos óbices de que tratam os enunciados n. 5 e 7 da Súmula desta Casa.
+Quanto ao mais, nada se disse a respeito de ausência de informação ao segurado quanto às cláusulas limitativas, a carecer o tema do indispensável prequestionamento, atraindo os verbetes n. 282 da Súmula do Supremo Tribunal Federal e 211 desta Casa.
+Diante do exposto, nego provimento ao agravo. Tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil.
+Intimem-se.
