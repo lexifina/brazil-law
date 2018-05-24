@@ -1,0 +1,90 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por [NOME] de decisão de minha lavra, que deu parcial provimento ao recurso especial do Ministério Público do Estado do Paraná, a fim de condenar a parte recorrida a ressarcir os danos causados ao erário, a serem apurados em liquidação de sentença.
+Sustenta o embargante a existência de omissão quanto à falta dos requisitos para admissibilidade do recurso especial, tendo em vista que o art. 10, VIII, da Lei 8.429/1992 não teria sido prequestionada. Afirma, ainda, que (fl. 873):
+ ..  está claro nos autos que a compra de medicamentos sem licitação ao preço de mercado, foi devidamente entregue à população, assim, não há falar em prejuízo concreto ao município, nem de valores a serem apurados em liquidação de sentença e a apreciação desta matéria, repita-se, seria uma imersão nas provas dos autos, o que é vedado pela súmula 7 do STJ, pontos estes, que foram abordados nas contrarrazões do Embargante, mas foram omissas no julgamento monocrático.
+De outro lado, insurge-se o embargante (fl. 874):
+ ..  contra a aplicação da teoria ao caso concreto, justamente porque não há como mensurar, nem por meio de liquidação de sentença, a ocorrência de danos aos cofres públicos, porque das provas produzidas em primeira instância bem referendadas na sentença e em sede de recursal afastaram integralmente a existência de dano, porque os medicamentos foram entregues a população ao preço de mercado e não há nos autos nada que indique de forma diversa.
+Por isso a teoria do in re ipsa (dano presumido) aplicada por este r. Tribunal em outras ações de improbidade administrativa que causaram prejuízo ao erário, não se aplica ao presente caso, justamente porque não há elementos nos autos que indiquem a ocorrência ato improbo consubstanciado no artigo 10 de dano para que sejam apurados os valores em liquidação de sentença, tanto é assim, que na condenação em primeiro grau o valor de R$ 167.000,00 foi arbitrado em 10% sobre o valor da Ação.
+Por fim, requer "sejam recebidos e acolhidos os presentes Embargos de Declaração, para fins de sanar as omissões apontadas, com efeitos infringentes para fins de modificar o entendimento e afastar a condenação ao ressarcimento de danos" (fl. 875).
+Impugnação às fls. 880/886.
+É o relatório. Passo a decidir.
+De acordo com o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou para corrigir erro material, o que não ocorre no caso concreto.
+Como cediço, "o STJ admite o prequestionamento implícito nas hipóteses em que a tese jurídica tratada no recurso especial foi analisada pelo Tribunal de origem ainda que sem a menção expressa dos dispositivos legais tidos por violados, o que não se constatou na espécie" (AgInt no AREsp 166.807/RO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 20/09/2017).
+No caso concreto, a tese de possibilidade de ressarcimento ao erário com fundamento no art. 10, VIII, da LIA foi efetivamente apreciada pelo Tribunal de origem, conforme pode-se extrair da respectiva ementa do acórdão recorrido, in verbis (fls. 636/639)
+APELAÇÃO CÍVEL - DIREITO ADMINISTRATIVO - AÇÃO CIVIL PÚBLICA - IMPROBIDADE ADMINISTRATIVA - PRESCRIÇÃO - NÃO OCORRÊNCIA - ART. 37 §5º DA CF E ART. 23, I, DA LEI 8429/92 - AQUISIÇÃO DE MEDICAMENTOS À POPULAÇÂO SEM PROCEDIMENTO LICITATÓRIO - SENTENÇA QUE JULGOU PROCEDENTE O PEDIDO INICIAL - CONDENAÇÃO DO EX-PREFEITO - INEXISTÊNCIA DE ATO DE DISPENSA DE LICITAÇÃO - DISPENSA OU INEXIGIBILIDADE DE LICITAÇÃO QUE NÃO ERA POSSÍVEL - DIREITO AO GOVERNO HONESTO - SENTENÇA QUE CONDENA O APELANTE A A RESSARCIR O ERÁRIO COM FULCRO NOS ARTS. 10, VIII E 12, II DA LEI 8429/92 - CONDENAÇÃO AFASTADA POR IMPOSSIBILIDADE DE PRECISAR O DANO - OFENSA AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA - PRESENÇA DE TODOS OS REQUISITOS PARA A CONFIGURAÇÃO DO ATO DE IMPROBIDADE ADMINISTRATIVA - CARACTERIZAÇÃO DO DOLO - CONFIGURAÇÃO DA CONDUTA PREVISTA NO ART.11, I, DA LEI 8429/92 - CONDENAÇÃO DO APELANTE AO PAGAMENTO DE MULTA CIVIL - INTELIGÊNCIA DO ART. 12, III, DA LEI 8429/92 - REFORMA DA SENTENÇA DE OFÍCIO - AFASTAMENTO DA CONDENAÇÃO DO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS - ATENDIMENTO AO ENUNCIADO Nº 02, DA 4ª E 5ª CÂMARAS CÍVEIS DO TJPR - DADO PARCIAL PROVIMENTO AO RECURSO DE APELAÇÃO - REFORMA DA SENTENÇA DE OFÍCIO.
+1. É imprescritível a ação de ressarcimento dos prejuízos causados ao erário (art. 37, §5º, da CF).
+2. Prescreve em 5 anos o direito de pretensão para aplicação das demais penalidades previstas na lei 8429/92, nos termos do art. 23, I, da lei 8.429/92. No caso, o mandato do Prefeito, ora Apelante, encerrou em 31/12/2004 e a demanda foi proposta em 18/02/2008, ou seja, dentro do prazo prescricional de 05 anos.
+3. Segundo a defesa, deixava-se de realizar licitação para que a aquisição de medicamentos fosse feita pelo seguinte procedimento: o munícipe fazia a consulta médica e recebia a receita, solicitando o medicamento no posto de saúde do Município, caso não houvesse medicamento, o munícipe era orientado a fazer a pesquisa de preços pelas farmácias da cidade, sendo que, com o menor orçamento, o Município, por intermédio do Secretário de Saúde ou do Prefeito liberavam uma requisição (acompanhada de dados do paciente e da receita médica) para o munícipe adquirir o medicamento na farmácia de menor preço.
+4. Caracterização de todos os requisitos exigíveis para a configuração do ato de improbidade administrativa previsto no art. 11, I, da Lei 8429/92.
+5. Procedimento ilegal por inobservância à regra geral, que consiste na compra por intermédio de licitações, inexistindo hipótese cabível de dispensa ou inexigibilidade de licitações (arts. 24 e 25, da Lei 8666/93)
+6. Agente público que deixou de realizar procedimento licitatório ou de realizar o ato de dispensa de licitações e que autorizou compras de medicamentos por procedimento ilegal.
+7. Comprovação de conduta dolosa, o qual restou configurado pela não realização de licitação de forma voluntária pelo Apelante, bem como pela ausência de procedimento de dispensa de licitação.
+8. Multa civil arbitrada com base no princípio da razoabilidade, nos termos do art. 12, III, da Lei 8.429/92.
+9. Sentença corrigida de ofício para afastar a condenação em pagamento de honorários advocatícios, nos termos do enunciado nº 02, da 4ª e 5ª Câmara Cível do TJPR.
+10. Sentença corrigida, de ofício, para aplicar correção monetária pelo IPCA-E e juros de mora a partir da data do trânsito em julgado.
+11. Dado parcial provimento ao Recurso de Apelação, para afastar a condenação aplicada de ressarcimento integral do dano ao erário e aplicar somente a penalidade de multa.
+Confira-se, ainda, o seguinte trecho do voto condutor do acórdão recorrido (fls. 669/670):
+4. O Dano ao erário e o ressarcimento determinado na sentença
+ ..
+Neste sentido observa-se a lição de Waldo Fazzio Junior:
+Para a configuração de ato de improbidade administrativa que causa lesão ao erário (art. 10), não há necessidade de locupletamento por parte do agente público, embora não seja inusitada sua ocorrência. E se assim for, o agente público incidirá no enriquecimento ilícito previsto no art. 9º, e não neste. (grifou-se)
+4.1. Da impossibilidade de condenação em valor presumido
+Apesar de não terem sido realizados os processos licitatórios, os medicamentos foram fornecidos pelo valor de mercado, não existindo prova de superfaturamento.
+A condenação ao ressarcimento integral do dano só é pertinente se houver prova de prejuízo concreto ao erário.
+Isso porque, a presunção de dano, visando autorizar a aplicação da sanção de ressarcimento ao erário, afronta o estado de inocência, até porque não é possível mensurar o valor efetivo do dano, motivo pelo qual não há numerário a ser devolvido aos cofres públicos.
+ ..
+Destarte, não há falar em falta de prequestionamento da matéria suscitada no apelo nobre do Parquet Estadual.
+Por sua vez, o deslinde da controvérsia também não passou pelo reexame de matéria fática, haja vista que o recurso especial foi julgado a partir das premissas fáticas estabelecidas no acórdão recorrido - comprovação do ato ímprobo decorrente da indevida dispensa de licitação. A propósito, confira-se (fls. 656/663):
+3.1. Atuação do agente público
+A lei prevê que a atuação do agente público pode ocorrer por intermédio de uma ação ou omissão, ou seja, pode consistir em um fazer ou deixar de fazer alguma coisa.
+Aqui, no caso, caracterizam-se as duas hipóteses.
+A omissão caracteriza-se pela inexistência de realização de procedimento licitatório, bem como em razão de ausência de dispensa de licitação.
+Já a ação corresponde aos diversos atos do Apelante o qual determinou a forma que seria realizada a compra de medicamentos pelo Município, bem como a reiterada autorização de compra de medicamentos em farmácias locais sem a realização de procedimento licitatório.
+ ..
+Saliente-se, ademais, que já restou mencionado, que havia previsão no Município de verba a ser destinada aos medicamentos, o que evidencia uma previsão de gastos, bem como a existência de previsão orçamentária para tal finalidade.
+3.2. Da ausência de processos licitatórios
+A Constituição Federal consagra o princípio da licitação, exigindo expressamente a adoção de processo licitatório pela Administração Pública. É o teor do art. 37, XXI:
+ ..
+A matéria foi regulamentada pela Lei de Licitações, a serem observadas por todos os entes da federação qual seja, prevendo em seu art. 2º a obrigatoriedade de instauração de processo licitatório para contratação junto de terceiros:
+ ..
+É de se destacar que a regra, conforme os dispositivos legais supracitados, é que as contratações públicas sejam precedidas de processo licitatório.
+Ressalve-se que ao longo do depoimento judicial realizado pelo Apelante, este nem soube informar se foi realizado, ou não, processo de dispensa de licitação, caracterizando pleno descomprometimento com a ordem jurídica e legal e com os princípios do direito administrativo.
+ ..
+Portanto, pelos depoimentos prestados em juízo, restou comprovada a acusação de compras de medicamentos sem os devidos processos licitatórios, tornando-se clara a ofensa À Constituição Federal, à Lei de Licitações e aos princípios da administração pública.
+3.3. Da inexistência de dispensa de licitações
+Salienta-se que a contratação direta, sem realização de licitação, somente é admitida em hipóteses restritas, previstas em lei.
+Tal relativização do princípio constitucional da licitação não é gratuita. Isso porque, a legislação admite a contratação direta, devidamente motivada, nos casos em que a licitação mostra-se inviável por ausência de competição ou quando for inconveniente ou inoportuna para o atendimento do interesse público.
+Neste sentido, a Lei nº 8.666/1993 traz em seu art. 24 hipóteses taxativas de dispensa de licitação, autorizando o administrador a proceder a contratação direta, por critério de conveniência e oportunidade a ser avaliado no caso concreto. Por sua vez, o art. 25 do mesmo diploma legal trata da inexigibilidade de licitação, a ser aplicada ante a inviabilidade de competição.
+Denota-se que só no art. 24 há uma diversidade de dispositivos, pois são previstas 33 hipóteses de dispensa de licitações, de tal forma que se observa o exaustivo rol formulado pelo legislador.
+Convém consignar que a contratação direta pressupõe procedimento formal prévio, "destinado a produzir a melhor proposta possível para a Administração", consoante lição de JUSTEN FILHO6. Deste modo, tem-se que a contratação direta deve ser devidamente motivada, com vistas à obtenção da melhor contratação, não sendo fruto de mera deliberatividade do administrador público, em ofensa aos princípios norteadores da Administração Pública.
+Contudo, a Administração Pública (conduzida pelo Apelante) nem sequer procedeu pela dispensa de licitação, conforme informação fornecida às fls. 251, do Procedimento Investigatório Preliminar 006/2007 em que é informado: "Outrossim, esclarecemos que não houve a dispensa de licitação para a aquisição de tais medicamentos."
+A previsão de dispensa de licitação mais próxima a se enquadrar na justificativa mencionada pelo Apelante corresponde à hipótese do art. 24, II, da Lei 8666/93, que consagra a contratação direta em virtude do valor reduzido, que prevê:
+ ..
+Diante de tais motivos, é certo que as justificativas do Apelante para não realizar licitações não procedem.
+Destarte, nenhum reparo há de ser feito à decisão embargada.
+Por sua vez, sendo incontroverso o fato de que a compra de medicamente deu-se sem a devida realização de processo licitatório, o dano ao erário apresenta-se presumido, sendo irrelevante perquirir se a medicação foi efetivamente entregue à população.
+Com efeito, "segundo entendimento consolidado nesta Corte de Justiça, para a caracterização de improbidade administrativa, por frustação da licitude do processo de licitação, tipificada no art. 10, VIII, da Lei n. 8.429/92, o dano apresenta-se presumido, ou seja, trata-se de dano in re ipsa" (REsp 1.624.224/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 06/03/2018). Nesse mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ART. 10, VIII, DA LEI 8.429/1992. DISPENSA INDEVIDA DE LICITAÇÃO. DANO IN RE IPSA À ADMINISTRAÇÃO. 1. A jurisprudência do STJ entende que o prejuízo decorrente da dispensa indevida de licitação é presumido (dano in re ipsa), consubstanciado na impossibilidade da contratação pela Administração da melhor proposta. 2. O próprio art. 10, VIII, da Lei 8.492/1992 "conclui pela existência de dano quando há frustração do processo de licitação, inclusive abarcando a conduta meramente culposa. Assim, não há perquirir-se sobre a existência de dano ou má-fé nos casos tipificados pelo art. 10 da Lei de Improbidade Administrativa." (Resp 769.741/MG, Rel. Ministro Mauro Campbell Marques, DJe 20.10.2009).
+3. Recurso Especial não provido.
+(REsp 1.685.214/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017)
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. ART. 10, VIII, DA LEI N. 8.429/1992. DISPENSA INDEVIDA DE LICITAÇÃO. DANO IN RE IPSA À ADMINISTRAÇÃO. REVISÃO DAS SANÇÕES IMPOSTAS. PRINCÍPIO DA PROPORCIONALIDADE. OBSERVÂNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Segundo entendimento consolidado no âmbito das Turmas que compõem a Primeira Seção, o prejuízo decorrente da dispensa indevida de licitação é presumido (dano in re ipsa), consubstanciado na impossibilidade da contratação pela Administração da melhor proposta, não tendo o acórdão de origem se afastado de tal entendimento.
+3. A jurisprudência do STJ firmou-se no sentido de que a revisão da dosimetria das sanções aplicadas em ação de improbidade administrativa implica reexame do conjunto fático-probatório, esbarrando na dicção da Súmula 7 do STJ, salvo quando, da leitura do acórdão recorrido, verificar-se a desproporcionalidade entre os atos praticados e as sanções impostas.
+4. Hipótese em que, muito embora o Tribunal de origem tenha excluído as demais sanções impostas no primeiro grau de jurisdição, fixou a multa civil prevista no art. 12, II, da LIA em 5 remunerações mensais atualizadas, louvando-se nas peculiaridades da questão, notadamente no dano presumido causado à administração pública, inocorrendo qualquer laivo de violação aos princípios da proporcionalidade e razoabilidade.
+5. Agravo regimental desprovido.
+(AgRg no REsp 1.499.706/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 14/03/2017)
+Logo, somente na fase de liquidação de sentença se poderá aferir a veracidade da alegação segundo a qual os medicamentes foram adquiridos ao preço de mercado, o que afastaria a existência de dano ao erário. Nesse sentido, mutatis mutandis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DOS BENS. RESPONSABILIDADE SOLIDÁRIA. RESSALVA QUANTO À POSSIBILIDADE DE INDIVIDUALIZAÇÃO DA RESPONSABILIDADE DE CADA ENVOLVIDO EM SEDE DE LIQUIDAÇÃO DE SENTENÇA. PRECEDENTES DO STJ.
+1. A orientação jurisprudencial consolidada nesta Corte Superior é no sentido de que é solidária a responsabilidade pelo ressarcimento ao erário, ressalvando-se a possibilidade de discussão a esse respeito em fase de liquidação de sentença.
+2. No caso em questão o acórdão recorrido afirma expressamente que não é possível determinar desde já a efetiva participação de cada um dos envolvidos na prática do ato de improbidade administrativa.
+3. Assim, deve ser mantida a responsabilidade é solidária até, ao menos, a instrução final do feito, em que se poderá delimitar a quota de responsabilidade de cada agente para o ressarcimento.
+4. Agravo interno não provido.
+(AgInt no REsp 1.687.567/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 02/03/2018)
+AÇÃO POPULAR. RECURSO ESPECIAL. LICITAÇÃO DECLARADA NULA. SENTENÇA CONSTITUTIVA-CONDENATÓRIA. LIQUIDAÇÃO DE SENTENÇA. ATO DE IMPROBIDADE. DANOS AO ERÁRIO PÚBLICO.
+1. Há de se distinguir lesividade do ato que se pretende seja anulado via ação popular e eventual prática de ato administrativo, culposo ou doloso, do qual decorre a improbidade administrativa, porquanto não necessariamente o ato lesivo, na forma prevista na Lei n. 4.717/65, decorra de improbidade.
+2. Se o julgador entende que ocorreu ato lesivo ocasionador de danos ao erário público, cujo quantum não tenha sido possível apurar no processo cognitivo, deve determinar a apuração em liquidação de sentença, nos termos dos arts. 603 e seguintes do Código de Processo Civil.
+3. Recurso especial parcialmente provido.
+(REsp 335.049/RO, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA TURMA, DJ 01/02/2006)
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se.
