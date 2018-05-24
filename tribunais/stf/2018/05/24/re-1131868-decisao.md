@@ -1,0 +1,16 @@
+DECISÃO
+    Vistos.
+    Trata-se de recurso extraordinário interposto contra acórdão da Quinta Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul que, em síntese, entendeu pela incidência da contribuição previdenciária apenas sobre o percentual de 50% da GDIBGE – Gratificação de Desempenho dos Servidores do IBGE.
+    Sustenta-se violação aos artigos 39, §3º, 40 e 201, §11º, da Constituição Federal.
+    Decido.
+    No que se refere aos artigos 39, §3º e 201, §11º, da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 da Corte.
+    Ademais, para ultrapassar o entendimento firmado pela instância de origem acerca da natureza jurídica das verbas recebidas pela parte recorrida a título da GDIBGE para fins de incidência de contribuição previdenciária, seria necessário o reexame da causa à luz da legislação infraconstitucional, o que não é cabível em sede de recurso extraordinário. Desse modo, eventual violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em apelo extremo. Nesse sentido:
+    “RECURSO. Extraordinário. Inadmissibilidade. Servidor público. Vencimentos. Proventos. Vantagem pecuniária. Gratificação devida aos funcionários em atividade. Extensão aos aposentados. Rediscussão do caráter geral sob fundamento de ofensa ao art. 40, § 8º, da CF. Impossibilidade. Questão infraconstitucional. Recurso não conhecido. Aplicação das súmulas 279, 280 e 636. Reconhecido ou negado pelo tribunal a quo o caráter geral de gratificação funcional ou de outra vantagem pecuniária, perante os termos da legislação local que a disciplina, não pode o Supremo, em recurso extraordinário, rever tal premissa para estender ou negar aquela aos servidores inativos com base no art. 40, § 8º, da Constituição da República” (RE nº 586.949/MG, Segunda Turma, DJ de 13/3/09).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PRÊMIO DE PRODUTIVIDADE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL (SÚMULA 280). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 657.696/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 13/2/09).
+    “SERVIDOR PÚBLICO INATIVO. GRATIFICAÇÃO. INCORPORAÇÃO AOS PROVENTOS. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, bem como o conjunto fático-probatório constante dos autos, o que inviabiliza o extraordinário, a teor das Súmulas 279 e 280 do STF. Precedentes. II - Agravo regimental improvido” (AI nº 733.499/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 13/3/09).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 24 de maio de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
