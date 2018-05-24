@@ -1,0 +1,48 @@
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INDEFERIMENTO DE CONCESSÃO DE EFEITO SUSPENSIVO PELO RELATOR. INTERPOSIÇÃO DE AGRAVO INTERNO. QUESTÕES DE MÉRITO NÃO APRECIADAS. ALEGAÇÃO DE NULIDADE DE INTIMAÇÃO QUE NÃO PODE SER APRECIADA POR ESTA CORTE. SUPRESSÃO DE INSTÂNCIA. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Grande Rio SL Comércio de Veículos Ltda. interpõe recurso especial, com fundamento nas alíneas a e c do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Maranhão, assim ementado (e-STJ, fl. 121):
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA DO RELATOR QUE INDEFERIU O PEDIDO DE EFEITO SUSPENSIVO. INEXISTÊNCIA DE DEMONSTRAÇÃO DA PROBABILIDADE DO DIREITO. DECISÃO MANTIDA. AGRAVO INTERNO CONHECIDO E IMPROVIDO. UNANIMIDADE.
+I. Ação de obrigação de fazer cumulada com reparação por danos morais e materiais - cumprimento de sentença.
+II. Inexistência de demonstração de probabilidade do direito alegado.
+III. Indeferimento do pedido de efeito suspensivo mantido.
+IV. Incidência no presente caso da Súmula nº 2 da Quinta Câmara Cível que preleciona "Enseja negativa de provimento ao Agravo Regimental (Agravo interno) a ausência de argumentos novos aptos a infirmar os fundamentos que alicerçam a d decisão agravada." V. Agravo interno conhecido e improvido. Unanimidade.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso, busca a recorrente, em suma, ver reconhecida a "nulidade da intimação da sentença de primeiro grau, uma vez que a mesma não obedeceu/negou vigência ao comando do art. 272, § 2º e 8º, do Código de Processo Civil, quando deixou de fazer constar na publicação da referida intimação o número da inscrição deste patrono na Ordem dos Advogados do Brasil" (e-STJ, fls. 179-180).
+Acentua que a intimação da sentença "não se perfectibilizou, ou seja, não cumpriu seu desiderato de fazer chegar ao advogado da recorrente a notícia da sentença", só tendo tomado conhecimento de que o feito encontrava-se na fase de cumprimento de sentença "quando foi alvo de uma penhora eletrônica em sua conta corrente" (e-STJ, fl. 182).
+Acrescenta que arguiu a nulidade do ato de acordo com o que determina o § 8º, do art. 272 do CPC/2015, já que assim o fez no prazo para impugnar a penhora on-line em sua conta-corrente.
+Sustenta, ainda, dissídio jurisprudencial quanto à indispensabilidade, sob pena de nulidade, de que conste da intimação o número de inscrição de seu advogado na OAB.
+Contrarrazões apresentadas às fls. 245-254 (e-STJ).
+O apelo extremo foi admitido na origem, ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+Extrai-se dos autos que foi interposto pela ora recorrente, na origem, nos autos da ação de obrigação de fazer cumulada com reparação por danos materiais e morais ajuizada por [NOME], agravo de instrumento com pedido de tutela provisória contra decisão que indeferiu o pedido de arguição de nulidade e determinou o prosseguimento da execução com expedição dos respectivos alvarás autorizativos de transferência do valor bloqueado em nome do ora recorrido e de sua advogada.
+O pedido de concessão de efeito suspensivo ao recurso foi indeferido pelo Desembargador Relator, que, registrou, ainda, que "todos os demais argumentos trazidos pela agravante serão melhor apreciados por ocasião do julgamento definitivo" do recurso (e-STJ, fl. 74), o que ensejou a interposição de agravo interno, ao qual foi negado provimento, sob os seguintes fundamentos:
+O cerne da demanda cumpre em analisar se deve ou não ser mantida a decisão de indeferimento do pedido de efeito suspensivo pleiteado pelo agravante.
+Na verdade, o agravante não trouxe argumentos fortes para alterar o posicionamento adotado por esta Relatoria.
+Explico:
+A concessão do efeito suspensivo somente é possível quando houve probabilidade de provimento do recurso interposto, o que não se vê no presente caso, pelo menos no momento processual em que a decisão de indeferimento do efeito suspensivo foi proferida.
+ ..
+Registro, por oportuno que, em relação a todos os demais argumentos de mérito, serão plenamente debatidos por ocasião de apreciação do agravo de instrumento. (e-STJ, fl. 128)
+Foram opostos, ainda, embargos de declaração em que se alegou omissão quanto ao argumento de que a ora recorrente não foi intimada da sentença de primeiro grau. A Corte local rejeitou os aclaratórios, aduzindo que:
+A questão apontada pelo embargante foi devidamente enfrentada no acórdão ora embargado, o que se infere com a simples leitura do mesmo, de modo que não há de se falar em omissão, nem tampouco em violação aos dispositivos apontados pelo recorrente, por oportuno cito trechos da decisão em que se entendeu preclusa a matéria:
+"(..) Perceba-se que somente após todas essas intimações, a agravante, já tendo constrição judicial por meio da penhora on line em seu desfavor, busca a nulidade da publicação de sentença proferida e atos posteriores.
+Todavia os autos revelam que mesmo após a prolação da sentença, houve intimação da recorrente de forma regular para: efetuar o pagamento voluntário da obrigação e depois da realização da penhora on line a sua intimação para apresentar impugnação ao cumprimento de sentença.
+Logo não lhe assiste razão em ver declarada a nulidade dos atos executórios proferidos após a sentença, pois a nulidade deve ser alegada na primeira oportunidade que o recorrente tem para se manifestar nos autos, sob pena de preclusão.
+Na hipótese, como dito, a recorrente, após a prolação da sentença foi intimada regularmente por duas vezes, sem qualquer manifestação dos autos, seja para pagar o débito executado, seja para alegar eventual nulidade, só deixando para fazê-lo quando realizada em seu desfavor a constrição judicial por meio de penhora on line.
+O Código de Processo Civil assim estabelece:
+Art. 272. Quando não realizadas por meio eletrônico, consideram-se feitas as intimações pela publicação dos atos no órgão oficial.
+§ 1º Os advogados poderão requerer que, na intimação a eles dirigida, o figure apenas o nome da sociedade a que pertençam, desde que devidamente registrada na Ordem dos Advogados do Brasil.
+§ 2º Sob pena de nulidade, é indispensável que da publicação constem os o nomes das partes e de seus advogados, com o respectivo número de inscrição na Ordem dos Advogados do Brasil, ou, se assim requerido, da sociedade de advogados.
+(..) § 8º A parte arguirá a nulidade da intimação em capítulo preliminar o do próprio ato que lhe caiba praticar, o qual será tido por tempestivo se o vício for reconhecido. (grifei)
+Desta feita, caberia à recorrente alegar eventual nulidade de intimação de sentença quando intimada efetuar o adimplemento voluntário da condenação imposta na sentença, o que não ocorreu no presente caso, carecendo à recorrente de razão quanto ao pedido de reconhecimento de nulidade.(..)"
+Na verdade, o embargante está inconformado com o entendimento unânime desta Egrégia Quinta Câmara Cível no sentido de manter a decisão agravada e busca com os presentes embargos obter a rediscussão a matéria já apreciada no julgamento do Agravo de Instrumento, o que não é cabível em sede embargos de declaração,
+Como se observa, o agravo de instrumento interposto na origem não teve o seu mérito julgado, mas apenas foi indeferido monocraticamente o pedido de tutela antecipada de concessão de efeito suspensivo, sendo essa decisão confirmada pelo colegiado em agravo interno. Todas as questões de mérito alegadas no recurso, inclusive aquela relacionada à nulidade da intimação da sentença de primeiro grau, proferida nos autos de ação de obrigação de fazer cumulada com reparação por danos materiais e morais ajuizada por [NOME], ficaram de ser analisadas por ocasião do enfrentamento do mérito do agravo.
+Assim, o fato de o acórdão dos embargos de declaração trazer à lume a decisão de primeiro grau contra o qual se insurgiu a ora recorrente por meio de agravo de instrumento não é capaz de ensejar o enfrentamento da matéria por esta Corte Superior de Justiça.
+Com efeito, o referido julgado apenas faz imprópria menção aos argumentos de primeiro grau a fim de afastar a existência dos vícios do art. 1.022 do CPC/2015 no acórdão embargado e sequer analisa a arguição de nulidade da intimação da sentença de primeiro grau por não ter constado o número de inscrição na OAB do advogado da ora recorrente, até mesmo porque o exame de tal matéria - assim como as demais questões de fundo - estaria reservado para o julgamento do mérito do agravo de instrumento.
+Consoante salientado no acórdão do agravo interno interposto na origem, repita-se, deve "ser mantida a decisão de indeferimento do pedido de efeito suspensivo" e "todos os demais argumentos de mérito serão plenamente debatidos por ocasião de apreciação do agravo de instrumento" (e-STJ, fl. 128).
+Portanto, não há como pretender, nesta oportunidade, verticalizar o exame de questão submetida, apenas, à análise precária na origem dependente de enfrentamento meritório.
+Tal exame implicaria, por via transversa, em supressão de instância, na medida em que, reconhecido o suposto vício - o qual, em princípio, não se mostra plausível - tornaria prejudicado o mérito do agravo ainda pendente de julgamento na origem.
+Ainda que se considerasse a possibilidade de provimento deste recurso somente para imprimir, precariamente, efeito suspensivo ao agravo, isso dependeria da verossimilhança das alegações, o que não ocorreu na espécie, já que ressaltou o acórdão, initio litis, que houve intimação de forma regular.
+Embora as alegações da recorrente encontrem na jurisprudência mais recente alguma ressonância, fato é que tal avaliação somente poder ocorrer após o exame do mérito.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
