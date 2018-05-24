@@ -1,0 +1,19 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Servidoras municipais inativas – Magistério – Pretensão de recebimento em grau máximo e de incorporação aos proventos, para todos os fins, da Gratificação por Desenvolvimento Educacional (GDE) – Lei Municipal nº 13.274, de 2002 – Inadmissibilidade – Gratificação dirigida apenas aos servidores em atividade, vinculada ao trabalho – Inexistência de ofensa ao disposto no artigo 40, § 8º, da Constituição Federal – Precedentes – Sentença de improcedência da ação – Desprovimento do recurso.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cabe registrar, desde logo, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei municipal nº 13.274/2002), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local:
+    “No caso em exame, conforme se verifica da legislação de regência mencionada na petição inicial (notadamente, da Lei Municipal nº 13,274, de 2002), impõe-se reconhecer tratar-se a gratificação em questão de vantagem pecuniária dirigida apenas aos servidores em atividade, uma vez que o seu cálculo depende de aferição de desempenho do servidor, com índices de permanência na unidade escolar e de assiduidade, tanto que o afastamento para o desempenho de mandato Legislativo ou chefia do Poder Executivo ou o exercício de cargo em comissão fora dos Centros de Educação Infantil, Unidades Escolares ou Núcleos de Ação Educativa, impede a obtenção da referida vantagem que, ademais, não se incorpora à remuneração, não deve ser computada para efeito do cálculo do 13º salário,nem constitui base de cálculo de contribuição previdenciária ou de assistência à saúde, segundo previsão legal.”
+    Impende assinalar, por relevante, que esse entendimento vem sendo observado em sucessivos julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.085.025/SP, Rel. Min. EDSON FACHIN – ARE 1.100.209/SP, Rel. Min. LUIZ FUX – ARE 1.121.072/SP, Rel. Min. MARCO AURÉLIO, v.g.):
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO POR DESENVOLVIMENTO EDUCACIONAL. LEIS 13.273/02 E 13.274/02 DO MUNICÍPIO DE SÃO PAULO. EXTENSÃO A SERVIDOR INATIVO. INCIDÊNCIA DA SÚMULA 280 DO STF.
+    I – A apreciação do tema constitucional, no caso, depende do prévio exame de normas infraconstitucionais locais aplicáveis à espécie. Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF.
+    II – Agravo regimental improvido.”
+    (RE 583.180-AgR/SP, Rel. Min. RICARDO LEWANDOWSKI)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 24 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
