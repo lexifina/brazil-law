@@ -1,0 +1,55 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ACLARATÓRIOS OBJETIVANDO PROPICIAR FUTURA INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. NÃO CABIMENTO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. QUESTÕES SATISFATORIAMENTE ANALISADAS NA DECISÃO EMBARGADA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não compete ao STJ se manifestar explicitamente sobre alegação de ofensa a normas constitucionais, ainda que para fins de prequestionamento, bastando a prévia oposição de embargos de declaração para futura interposição de recurso extraordinário (EDcl no REsp 1.631.840/MS, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2017, DJe 21/9/2017).
+2. Afirmar que a dispensa da audiência de justificação prévia causou prejuízo à embargante não se confunde com a demonstração efetiva da ocorrência do dano processual, ônus do qual a parte não se desincumbiu, não havendo, assim, contradição quanto ao ponto.
+3. A alegação da embargante, de que não havia razão para se insurgir contra a dispensa da audiência de justificação prévia antes da sentença, só serve para demonstrar que, além da ausência de prejuízo processual, há uma evidente tentativa da parte de utilização do processo como instrumento para coordenar suas estratégias, trazendo a lume a questão somente após a prolação de decisão desfavorável, o que é repudiado pelo ordenamento jurídico.
+4. Este Colegiado encontra-se obrigado a apreciar apenas as questões suscitadas no agravo interno, não sendo possível a análise de questões eventualmente apontadas no recurso especial e não reiteradas no agravo interno.
+5. O acórdão embargado solucionou as questões deduzidas no agravo interno de forma satisfatória, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+6. A embargante, na verdade, pretende, mais uma vez, a rediscussão da matéria já decidida de maneira inequívoca pela Turma julgadora, pretensão esta que não está em harmonia com a natureza e a função dos embargos declaratórios.
+7. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de embargos declaratórios opostos ao acórdão proferido em agravo interno no recurso especial assim ementado (e-STJ, fl. 301):
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. AUDIÊNCIA DE JUSTIFICAÇÃO PRÉVIA NÃO REALIZADA. AUSÊNCIA DE DANO À PARTE RÉ. PREJUÍZO NÃO DEMONSTRADO. ALEGAÇÃO DE NULIDADE. PRECLUSÃO. NULIDADE DE ALGIBEIRA. IMPOSSIBILIDADE DE MANEJO. AGRAVO DESPROVIDO.
+1. A ausência de realização da audiência de justificação prévia não acarreta nenhum prejuízo à parte ré, já que o único provimento que pode decorrer do referido ato processual é a concessão de providência liminar à parte contrária.
+2. Ainda que se pudesse vislumbrar a possibilidade de dano à parte ré no caso concreto, a jurisprudência desta Corte Superior é firme no sentido de que a decretação de nulidade processual não prescinde da efetiva demonstração do prejuízo, ônus do qual a parte não se desincumbiu.
+3. Destaque-se ainda que, nos termos da jurisprudência desta Corte Superior, eventuais vícios processuais devem ser alegados pela parte na primeira oportunidade que tiver de se manifestar nos autos, sob pena de preclusão.
+4. Em atenção aos princípios da efetividade, da razoabilidade e da boa-fé processual, não é dado à parte apontar nulidade processual em outra oportunidade que não a primeira, logo após ter pleno conhecimento do suposto vício, utilizando-se do processo como instrumento hábil a coordenar suas alegações, trazendo a lume determinada insurgência somente e se a anterior não tiver sido bem sucedida.
+5. Agravo interno desprovido.
+Nas razões dos aclaratórios, alega a embargante a existência de violação aos princípios constitucionais do devido processo legal, do contraditório e da ampla defesa, aduzindo que: (i) a audiência de justificação prévia era indispensável para a instrução do feito; e (ii) antes da sentença, não havia razão para se insurgir contra a ausência de realização da referida audiência, tendo em vista que, até então, nenhum direito seu teria sido malferido.
+Defende a existência de contradição, pois, embora conste no acórdão não ter sido demonstrado o efetivo prejuízo processual, o relatório aponta que a embargante teria alegado que a ausência de realização da audiência suprimiu a oportunidade de produção da prova desejada.
+Assere que a oportunidade de alegação da nulidade processual só teria surgido após o advento da sentença, ocasião em que teria se manifestado, havendo, portanto, contradição na decisão embargada no ponto em que se afirmou que a nulidade não teria sido alegada na primeira chance de falar nos autos.
+Sustenta que "o v. acórdão se omitiu flagrantemente ao não deliberar sobre o mérito do Recurso Especial, embora tendo sido expressamente abordado na r. decisão monocrática, mas que não restou decidida no bojo da r. decisão colegiada" (e-STJ, fl. 317).
+Pleiteia o acolhimento dos embargos declaratórios para esclarecer os vícios apontados.
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+De início, impende destacar que não compete ao STJ se manifestar explicitamente sobre alegação de ofensa a normas constitucionais, ainda que para fins de prequestionamento, bastando a prévia oposição de embargos de declaração para a futura interposição de recurso extraordinário (EDcl no REsp 1.631.840/MS, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2017, DJe 21/9/2017).
+Outrossim, cumpre registrar que os embargos de declaração possuem índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição ou omissão (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Esclarecidas tais questões, tem-se que não merecem prosperar as afirmações de que a decisão embargada estaria eivada do vício de contradição.
+Quanto ao primeiro ponto indicado como contraditório, tem-se que a alegação da embargante, de que a dispensa da audiência de justificação prévia lhe causou prejuízo, não se confunde com a demonstração efetiva da ocorrência do dano processual, ônus do qual não se desincumbiu.
+Registre-se, por oportuno, que, embora a embargante insista em afirmar que a ausência de realização do ato processual lhe retirou a oportunidade de produção da prova desejada, é certo que a referida audiência, que visa conferir à parte contrária a possibilidade de obter uma liminar possessória, não se confunde com a audiência de instrução e julgamento do feito, esta sim adequada para a produção, pela embargante, das provas necessárias à comprovação do seu direito.
+Quanto ao segundo ponto indicado como contraditório, tem-se que a ora embargante teve a oportunidade de se manifestar nos autos sobre a ocorrência da propalada nulidade muito antes do sentenciamento do feito, tendo se abstido de fazê-lo, o que, conforme consignado na decisão embargada, implica preclusão da matéria.
+A alegação de que não havia razão para se insurgir contra a dispensa da audiência de justificação prévia antes da sentença só serve para demonstrar que, além da ausência de prejuízo processual, há uma evidente tentativa da parte de utilização do processo como instrumento para coordenar suas estratégias, trazendo a lume a questão somente após a prolação de decisão que lhe tenha sido desfavorável, o que é repudiado pelo ordenamento jurídico.
+A propósito:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. NULIDADE. SUBSTABELECIMENTO SEM RESERVA DE PODERES. REQUERIMENTO DE PUBLICAÇÃO EXCLUSIVA. PUBLICAÇÃO EM NOME DOS ANTIGOS ADVOGADOS. ACOMPANHAMENTO DO PROCESSO PELOS NOVOS PATRONOS. AUSÊNCIA DE PREJUÍZO. NULIDADE. INEXISTÊNCIA.
+(..)
+3. A jurisprudência do STJ, atenta à efetividade e à razoabilidade, tem repudiado o uso do processo como instrumento difusor de estratégias, vedando, assim, a utilização da chamada "nulidade de algibeira ou de bolso".
+4. Embargos de declaração rejeitados.
+(EDcl no REsp 1.424.304/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/08/2014, DJe 26/08/2014)
+No tocante à alegação de que a decisão embargada seria omissa em relação a questões de mérito aventadas no recurso especial, é importante esclarecer que este Colegiado encontra-se obrigado a apreciar apenas as matérias suscitadas no agravo interno, não sendo possível a análise de temas eventualmente apontados no recurso especial e não reiterados no agravo interno.
+E, da análise do agravo interno, verifica-se terem sido deduzidas apenas questões processuais - indispensabilidade da audiência de justificação prévia, nulidade decorrente da não realização do referido ato processual e ausência de preclusão quanto ao tema -, que foram satisfatoriamente esclarecidas por ocasião do julgamento do mencionado recurso, tendo sido destacada expressamente a ausência de prejuízo decorrente da não realização da audiência, a necessidade de demonstração de eventual dano para a decretação da nulidade, bem como a preclusão da matéria em razão da ausência de alegação oportuna (e-STJ, fls. 302-306).
+Constata-se, por consequência, que o acórdão embargado solucionou as questões deduzidas no agravo interno de forma satisfatória, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assim, verifica-se que a embargante, na verdade, pretende, mais uma vez, a rediscussão da matéria já decidida de maneira inequívoca pela Turma julgadora, pretensão esta que não está em harmonia com a natureza e a função dos embargos declaratórios.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. PREQUESTIONAMENTO. EXAME DE MATÉRIA CONSTITUCIONAL.
+IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Não merecem acolhimento os embargos de declaração opostos sem a indicação de obscuridade, contradição, omissão ou erro material (CPC/2015, arts. 1.022 e 1.023), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no aresto embargado, já que não são cabíveis para provocar novo julgamento da lide.
+(..)
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 667.361/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/06/2016, DJe 17/06/2016)
+Diante do exposto, rejeito os embargos de declaração.
+É como voto.
