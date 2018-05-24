@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ELZA PEREIRA LIMA COSTA, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+SERVIDORAS PÚBLICAS MUNICIPAIS (SALTO DE PIRAPORA) EDUCADORAS DE CRECHE Pretensão do reconhecimento de status de professor, podendo cumular cargos e possuir a reserva de 1/3 da jornada de trabalho para dedicação às atividades extraclasse.
+PRELIMINAR Cerceamento de defesa Não ocorrência - Questão que se limitará à matéria de direito, não sendo útil a pretendida prova testemunhal - Juiz, destinatário das provas, deve velar pela rápida solução do litígio e determinar as provas necessárias à instrução do processo, indeferindo as diligências inúteis ou meramente protelatórias.
+MÉRITO "Educador de creche" e "professor de pré-escola" constituem cargos com atribuições diferentes, carga horária diversa - Impossibilidade do "educador de creche" cumular cargos (artigo 37, XVI, da Constituição Federal) Indevido, ainda o pagamento de horas para atividade extraclasse, já que, para os "educadores de creche", não há previsão na legislação - Súmula Vinculante nº 37 do Supremo Tribunal Federal Precedentes deste Tribunal Recurso não provido.
+No recurso especial, o recorrente aponta violação dos arts. 21, caput e I, 30, caput e I, e 61, caput e I, todos da Lei nº 9.394/96; e art. 2º, § 2º, da Lei nº 11.738/2008.
+Sustenta, em síntese, que
+A Lei 9.394 de 1996 não distingue entre aqueles que atuma em creches, dos que atuam em "pre-escola" ou em salas de aula da educação fundamental, médio ou superior, de tal forma que não poderia o Município deixar de tratar os profissionais que atuam em determinado seguimento da educação básica como professores, sem violação á Lei de Diretrizes e Bases da Educação.
+(..)
+A creche é o local onde deve ser prestada a primeira fase da "educação básica" (art. 21, I e 30, I, da Lei 9.394 de 1996). A Lei 9.394 de 1996 dispõe que os profissionais da educação devem ser "professores habilitados", como são as Recorrentes.
+Por sua vez, a lei 11.738 de 2008, por sua vez, no §2º, do art. 2º, estabelece que as suas disposições são aplicáveis aos profissionais do magistério público da educação básica, entendidos como tais aqueles que desempenham as atividades de docência, exercidas no âmbito das unidades escolares de educação básica, em suas diversas etapas e modalidades, com a formação mínima determinada pela legislação federal de diretrizes e bases da educação nacional. (fls. 295-296)
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com fundamento na Súmula nº 7/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passo ao exame do recurso especial.
+O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, a Lei Complementar Municipal nº 09/2010, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse diapasão, confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSTALAÇÃO DE ESTAÇÃO DE RÁDIO-BASE DE TELEFONIA. AUSÊNCIA DE AUTORIZAÇÃO MUNICIPAL. LEI MUNICIPAL 13.756/04 E DECRETO MUNICIPAL 44.944/04. MATÉRIA DE DIREITO LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 26/08/2016, que, por sua vez, julgara recurso interposto contra decisão publicada na vigência do CPC/73.
+II. Segundo consta do acórdão recorrido, a "Prefeitura Municipal de São Paulo propôs ação demolitória, em face da Tim Celular S/A, perante o Juízo da 7ª Vara da Fazenda Pública da Comarca da Capital, objetivando a remoção da estação de rádio base instalada irregularmente, em razão de o equipamento estar em funcionamento sem prévio licenciamento urbanístico". O Tribunal de origem manteve a sentença de procedência.
+III. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em leis locais (Lei municipal 13.756/04 e Decreto municipal 44.944/04). Assim, torna-se inviável, em Recurso Especial, o exame da matéria nele inserida, diante da incidência, por analogia, da Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário". Nesse sentido: STJ, AgRg no AREsp 709.574/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/09/2015; REsp 1.455.034/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/04/2015.
+IV. Agravo interno improvido.
+(AgInt no AREsp 970.011/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/5/2017, DJe 24/5/2017).
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. MUNICÍPIO DE SÃO PAULO. REAJUSTES REMUNERATÓRIOS. LEIS MUNICIPAIS. INCIDÊNCIA. MATÉRIA LOCAL. SÚMULA 280/STF.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.217.076/SP, representativo de controvérsia repetitiva, firmou o entendimento de que "A discussão, na fase de liquidação, a respeito dos supervenientes reajustes concedidos pela legislação municipal (Lei 12.397/97) e seus reflexos no cálculo do percentual devido e no cumprimento da condenação imposta envolve exclusivamente interpretação e aplicação de direito local, insuscetível de reexame por recurso especial. Aplicação, por analogia, da Súmula 280 do STF" (Rel. Min. Teori Albino Zavascki, DJe 14/10/11).
+2. Agravo Regimental não provido.
+(AgRg no AgRg nos EDcl no AREsp 4.111/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/10/2014, DJe 12/11/2014).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
