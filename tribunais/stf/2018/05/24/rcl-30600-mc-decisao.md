@@ -1,0 +1,28 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, proposta pela União Federal em face de decisão proferida pelo Tribunal Regional Federal da 5ª Região, nos autos do Processo 0800534-20.2016.4.05.8100.
+    Na petição inicial, alega-se que a decisão reclamada ofendeu a autoridade desta Corte, consubstanciada na Súmula Vinculante 37, ao determinar a incorporação do índice de 13,23% aos vencimentos de servidores federais representados por sindicato.
+    A reclamante sustenta, em suma, que: (a) ao entender que a vantagem pecuniária individual de R$ 59,87, prevista na Lei 10.698/2003, constitui revisão geral anual, o juízo de origem buscou equiparar os servidores com maior remuneração aos de menores vencimentos, o que traduz apelo ao princípio da isonomia; (b) ao decidir pela extensão do percentual mais benéfico, de 13,23%, aos vencimentos da interessada, a autoridade reclamada teria agido como legislador positivo; e (c) a jurisprudência do Supremo tem reconhecido a existência de violação à Súmula Vinculante 37 desta Corte em casos semelhantes.
+    Requer a cassação do ato reclamado, ou, subsidiariamente, a concessão de liminar para suspender seus efeitos e o curso do processo, e, ao final, a cassação do ato reclamado.
+    É o relatório.
+    Passo à análise do pedido liminar.
+    A reclamação, tal como prevista no art. 102, I, l, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do Tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+    A decisão deste Tribunal com efeito vinculante que, segundo a reclamante, teria sido descumprida é Súmula Vinculante 37, cuja redação é a seguinte:
+    Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia.
+    O ato reclamado entendeu caracterizada ofensa ao princípio da isonomia e ao art. 37, X, da Constituição Federal para convolar incremento absoluto de R$ 59,87 (cinquenta e nove reais e oitenta e sete centavos) em aumento de 13,23% sobre o vencimento de servidor. Nesse sentido, extrai-se trecho de acórdão anterior da mesma Turma utilizado como razão de decidir pelo ato reclamado:
+    “2. A Lei n. 10.331/2001 garante a revisão geral e anual da remuneração dos servidores públicos federais dos três poderes, dando cumprimento ao art. 37, X, da Constituição Federal.
+    3. O Governo Federal, em 02.07.2003, editou duas leis: A) A Lei nº 10.697/2003 previu que o reajuste seria no percentual de 1% e B) a Lei nº 10.698/2003 instituiu a vantagem pecuniária individual (VPI) no valor de R$ 59,87 também para todos os servidores da carreira federal, como política de governo para conceder um reajuste diferenciado que beneficiasse mais os que ganham menos.
+    4. A vantagem pecuniária individual de R$ 59,87 (cinquenta e nove reais e cinquenta e sete centavos), concedida por meio da Lei nº 10.698/2003, revestiu-se do caráter de revisão geral anual, complementar à Lei nº 10.697/2003 e promoveu ganho real diferenciado entre os servidores públicos federais dos Poderes Executivo, Legislativo e Judiciário e das autarquias e fundações públicas federais, na medida em que instituiu uma recomposição maior para os servidores que percebiam menor remuneração”. (eDOC 5, p. 4)
+    A jurisprudência das duas Turmas desta Corte tem reconhecido que a concessão, por decisão judicial, de diferenças salariais relativas a 13,23% a servidores públicos federais, sem o devido amparo legal, viola a Súmula Vinculante 37 do STF.
+    Confiram-se os seguintes precedentes:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL NA RECLAMAÇÃO. CONCESSÃO DO PERCENTUAL DE 13,23% A SERVIDOR PÚBLICO FEDERAL (LEIS 10.697/2003 E 10.698/2003) POR DECISÃO JUDICIAL. PRINCÍPIO DA ISONOMIA. VIOLAÇÃO À SÚMULA VINCULANTE 37. PRECEDENTES. AGRAVO REGIMENTAL PROVIDO”. (Rcl 25461 AgR, rel. p/ Acórdão: Min. Alexandre de Moraes, Primeira Turma, DJe 19.12.2017)
+    “Reclamação. 2. Direito Administrativo. 3. Servidores públicos. 4. Incorporação da vantagem referente aos 13,23%. Lei 10.698/2003. 5. Ações que visam à defesa do texto constitucional. O julgador não está limitado aos fundamentos jurídicos indicados pelas partes. Causa petendi aberta. 6. Órgão fracionário afastou a aplicação do dispositivo legal sem observância do art. 97 da CF (reserva de plenário). Interpretação conforme a Constituição configura claro juízo de controle de constitucionalidade. Violação à Súmula Vinculante n. 10. 7. É vedado ao Poder Judiciário conceder reajuste com base no princípio da isonomia. Ofensa à Súmula Vinculante 37. 8. Reclamação julgada procedente”. (Rcl 14872, de minha relatoria, DJe 29.6.2016)
+    Dessa forma, percebe-se que o ato reclamado, ao conceder a incorporação dos 13,23% à remuneração de servidor, sem amparo legal, aparenta violar o disposto na Súmula Vinculante 37.
+    Feitas essas considerações, verifico que estão presentes periculum in mora e fumus boni iuris a justificar o deferimento do pleito de urgência.
+    Ante o exposto, defiro o pedido de liminar para suspender os efeitos da decisão reclamada (eDOC 5).
+    Solicitem-se informações à autoridade reclamada. (art. 989, I, NCPC)
+    Cite-se o interessado (eDOC 2, p. 1). (art. 989, III, NCPC)
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo versa questão já consolidada na jurisprudência (RISTF, art. 52, parágrafo único).
+    Publique-se.
+    Brasília, 24 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
