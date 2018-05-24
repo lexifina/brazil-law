@@ -1,0 +1,67 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. REMUNERAÇÃO. INADIMPLÊNCIA DO ENTE MUNICIPAL RECONHECIDA PELO TRIBUNAL DE ORIGEM. LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. ANÁLISE ACERCA DA APONTADA INSUFICIÊNCIA DE PROVAS QUE DEMANDA REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO DO MUNICÍPIO DE IPU/CE A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que não admitiu o Recurso Especial interposto pelo MUNICÍPIO DE IPU/CE, com fundamento na alínea a do art. 105, III da Constituição Federal, que objetiva a reforma do acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado:
+EMENTA: CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA AFASTADA. MÉRITO: SERVIDORA PÚBLICA MUNICIPAL. REMUNERAÇÃO INFERIOR AO SALÁRIO MÍNIMO. IMPOSSIBILIDADE. OFENSA AO §3º, ART. 39 C/C INCISO IV DO ART. 7º DA CF/88. SÚMULA 47 DO TJCE. DIFERENÇAS SALARIAIS DEVIDAS. SENTENÇA REFORMADA EM PARTE.
+- Tratam os autos de ação ordinária de cobrança por meio da qual a autora requer o pagamento de diferenças salariais relativas aos seus vencimentos supostamente adimplidos em valor inferior ao salário mínimo vigente.
+1. Preliminar de nulidade da sentença por cerceamento de defesa:
+- O caso em análise, por compreender matéria cujas provas são exclusivamente documentais (fichas financeiras e extratos de pagamento da servidora), não demandaria a produção de quaisquer outros elementos de convencimento.
+- Portanto, não há que se falar em cerceamento do direito de defesa, pois baseou-se o julgador na prova documental existente no processo, tendo o magistrado sido prudente ao evitar a realização de atos inúteis e procrastinatórios.
+- Preliminar afastada.
+2. Mérito:
+- Já se encontra assente na jurisprudência pátria entendimento no sentido de que a remuneração total do servidor público não pode ser inferior ao salário mínimo vigente no país, independentemente da carga horária de trabalho por ele cumprida. Incidência da súmula 47 do Tribunal de Justiça do Estado do Ceará.
+- Remuneração inferior ao salário mínimo observada. Inadmissibilidade. Violação ao artigo 7º, IV da CF/88. Diferenças salariais devidas.
+- Quanto aos meses de novembro de dezembro de 2008 e agosto de 2012, considerando que o seu pagamento encontra-se demonstrado nos autos, são igualmente devidas apenas as diferenças salariais relativas ao salário mínimo nacional.
+- Reexame Necessário conhecido.
+- Apelação conhecida e parcialmente provida.
+- Sentença reformada em parte (fls. 107/108).
+2. Nas razões de seu Apelo Nobre inadmitido, sustenta a parte recorrente violação dos arts. 330, I, e 333, I do CPC/1973, atuais arts. 355, I, e 373, I do CPC/2015, ao argumento de que o julgamento antecipado da lide, sem que houvesse oportunidade de se especificar as provas que as partes pretenderiam produzir ensejou nulidade absoluta do julgado. Além disso, assevera que a ora recorrida não comprovou fato constitutivo de seu direito.
+3. É o relatório. Decido.
+4. A questão controvertida cinge-se à eventual cerceamento defesa em decorrência do julgamento antecipado da lide, e sobre ausência de provas do fato constitutivo do direito alegado pela parte autora.
+5. No tocante ao alegado cerceamento de defesa, merece destaque o seguinte trecho do acórdão combatido, que bem elucida a questão:
+No caso ora analisado, não há que se falar em cerceamento do direito de defesa, pois baseou-se o julgador na prova documental existente no processo, não havendo a necessidade da produção de prova testemunhai, nem de depoimentos, tendo o magistrado sido prudente ao evitar a realização de atos inúteis e procrastinatórios. Ademais, não se observou qualquer prejuízo às partes (fls. 111).
+6. Como se vê, da análise dos documentos que instruíram o feito, as instâncias de origem entenderam que a prova documental acostada aos autos era suficiente para a solução da lide. Sendo assim, não há que se falar em cerceamento de defesa, uma vez que esta Corte Superior já firmou a orientação de que não ocorre cerceamento de defesa na hipótese de julgamento antecipado da lide, tendo em vista o princípio do livre convencimento motivado do Juiz.
+7. A esse respeito, convém a transcrição dos seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO DO ENTENDIMENTO DA CORTE REGIONAL. SÚMULA 7/STJ.
+1. Não se constata a violação aos arts. 330 e 332 do CPC, por suposto cerceamento do direito de defesa, pois, de acordo com a jurisprudência consagrada nesta Corte, de fato, é facultado ao julgador o indeferimento de produção probatória que julgar desnecessária para o regular trâmite do processo, sob o pálio da prerrogativa do livre convencimento que lhe é conferida pelo art. 130 do CPC, seja ela testemunhal, pericial ou documental, cabendo-lhe, apenas, expor fundamentadamente o motivo de sua decisão.
+2. A alteração das conclusões adotadas pela Corte de origem, tal como colocada nas presentes razões recursais, de modo a se chegar à conclusão de que seria necessária a produção de outras provas além das carreadas aos autos, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento (AgRg no REsp. 1.574.755/PE, Rel. Min. SÉRGIO KUKINA, DJe 9.3.2016).
+
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PAGAMENTO DE FATURAS DE ENERGIA ELÉTRICA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. AUSÊNCIA. SÚMULA 7/STJ.
+1. De acordo com a jurisprudência desta Corte, cumpre ao magistrado, destinatário da prova, valorar sua necessidade, conforme o princípio do livre convencimento motivado. Portanto, não há violação do art. 130 do CPC quando o juiz, em decisão adequadamente fundamentada, indefere a produção de provas e julga antecipadamente a lide.
+2. Rever as conclusões do Tribunal de origem no tocante à produção de prova implica reexaminar os elementos fático-probatórios dos autos, o que é impossível pela via eleita. Incidência da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento (AgRg no AREsp. 648.403/MS, Rel. Min. OG FERNANDES, DJe 29.5.2015).
+
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AUTOS DE EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO EM RECURSO ESPECIAL PARA NEGAR SEGUIMENTO AO RECLAMO. IRRESIGNAÇÃO DA AUTORA.
+1. Cabe ao magistrado verificar a existência de provas suficientes nos autos para ensejar o julgamento antecipado da lide e indeferir a produção de provas consideradas desnecessárias e inúteis, conforme o princípio do livre convencimento do julgador. Infirmar tais fundamentos demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ.
+(..).
+4. Agravo regimental desprovido (AgRg no AREsp. 341.358/SP, Rel. Min. MARCO BUZZI, DJe 24.11.2015).
+8. No mais, o Tribunal de origem consignou ter sido devidamente comprovado nos autos que a totalidade dos vencimentos recebidos pela Servidora representava montante inferior ao salário mínimo vigente, de modo que o ente municipal deveria pagar as diferenças salariais e seus reflexos relativamente aos cinco anos anteriores à propositura da ação. A propósito, merece destaque os seguintes trechos do acórdão hostilizado:
+O cerne da questão diz respeito à remuneração da apelada em patamar inferior ao salário mínimo nacional vigente.
+Neste ponto, há que se destacar que a jurisprudência pátria já sedimentou, há muito, entendimento no sentido de que nenhum servidor público pode auferir ganhos em patamar inferior ao salário mínimo nacional, independente da carga horária por ele desempenhada.
+A Constituição Federal de 1988 assegura aos trabalhadores brasileiros direitos sociais insculpidos em seu artigo 7º e incisos. Em relação à Administração Pública, o artigo 39 estende tais premissas aos servidores públicos, inclusive aos municipais.
+É o que determina a redação do artigo 39, § 3º da CF, in verbis:
+(..).
+Observa-se que o Município apelante afirma ser a servidora remunerada de acordo com as disposições legais e constitucionais atinentes à espécie, sob a alegativa de que vem percebendo um adicional em sua remuneração, que somado ao salário base do(a) Autor(a), lhe assegura a percepção do salário mínimo legal (trecho de fl. 53).
+Ocorre que, em detida análise dos autos, mais especificamente as fichas financeiras constantes às fls. 16/24, é possível observar que a totalidade dos vencimentos percebidos pela Sra. [NOME] representava montante inferior ao salário mínimo vigente.
+(..).
+Constata-se, portanto, à saciedade, que o procedimento de pagamento utilizado pelo Município de Ipu não está de acordo com as disposições constitucionais vigentes, havendo, pois, ilegalidade a ser sanada, razão pela qual deve o ente público pagar as diferenças salariais e seus reflexos (décimo terceiro, férias, etc.) relativamente aos 5 (cinco) anos anteriores à propositura da ação, acrescidos de juros de mora, conforme previsto na Lei nº 11.960/2009, e correção monetária com base no IPCA. Os juros de mora deverão incidir a partir da citação e a correção monetária a partir do pagamento de cada parcela (fls. 114/118).
+9. Dessa forma, a revisão do entendimento firmado pelo Tribunal de origem, de que os elementos de prova são suficientes para análise do pleito, requer a apreciação do acervo fático probatório, o que esbarra no óbice estabelecido na Súmula 7/STJ. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. VÍCIOS DE CONSTRUÇÃO E AUSÊNCIA DE MANUTENÇÃO NO IMÓVEL. VIOLAÇÃO AO ARTIGO 535 DO CPC. INOCORRÊNCIA. AFRONTA AO ARTIGO 333, I, DO CPC. INEXISTÊNCIA. ALEGAÇÃO DE VÍCIOS PROVENIENTES DE CULPA EXCLUSIVA DO RECORRIDO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 07/STJ.
+1. Não há falar em violação ao art. 535 do Código de Processo Civil, pois o Eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes. Além disso, não significa omissão quando o julgador adota outro fundamento que não aquele perquirido pela parte.
+2. O Tribunal de origem constatou, com base nos elementos fático probatórios dos autos, que, conforme laudo pericial, os danos encontrados no imóvel são vícios de construção. Rever esta conclusão, esbarraria no óbice da Súmula 7 deste Superior Tribunal.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp. 573.331/MS, Rel. Min. LUIS FELIPE SALOMÃO, DJe 16.12.2014).
+
+AGRAVO REGIMENTAL. AGRAVO NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- O Tribunal de origem analisou fundamentadamente todas as questões relevantes ao deslinde da controvérsia nos limites do que lhe foi submetido. Portanto, não há que falar em violação do artigo 535, II, do Código de Processo Civil, ou negativa de prestação jurisdicional.
+2.- No que diz respeito aos artigos 333, I, e 359, I, do Código de Processo Civil, os argumentos utilizados para fundamentar a pretensa violação legal somente poderiam ter sua procedência verificada mediante o reexame das provas, não cabendo a esta Corte, a fim de alcançar conclusão diversa da estampada no Acórdão recorrido, reavaliar o conjunto probatório. Dessa forma, a convicção a que chegou o Acórdão decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz da Súmula 7 do STJ.
+3.- O agravo não trouxe nenhum argumento novo capaz de modificar o decidido, que se mantém por seus próprios fundamentos.
+4.- Agravo Regimental improvido. (AgRg no AgRg no AREsp. 518.041/PR, Rel. Min. SIDNEI BENETI, DJe 4.9.2014).
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. ACÓRDÃO RECORRIDO. AUSÊNCIA DE OMISSÃO. MAGISTÉRIO. AÇÃO DE COBRANÇA. TERÇO DE FÉRIAS. REVISÃO DO VALOR FIXADO NA CONDENAÇÃO DE HONORÁRIOS SUCUMBENCIAIS. ALEGADA VIOLAÇÃO ART. 333 DO CPC. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. CONTRARIEDADE AO ART. 884 DO CÓDIGO CIVIL. AUSÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284 DO STF.
+(..).
+3. Não merece êxito a infringência ao art. 333 do CPC, pois é pacífico o entendimento jurisprudencial sobre a impossibilidade de se reexaminar matéria probatória nos recursos excepcionai, incidindo a Súmula n. 7 do STJ.
+4. Quanto ao art. 884 do Código Civil, verifica-se que o recorrente não especificou de forma clara e objetiva, nas razões do recurso especial, como tal dispositivo restou violado pelo acórdão recorrido, ensejado a aplicação da Súmula n. 284 do Supremo Tribunal Federal, por analogia.
+5. Agravo regimental não provido. (AgRg no AREsp. 343.646/BA, Rel. Min. MAURO CAMPBELL MARQUES, DJe 27.9.2013).
+10. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial do MUNICÍPIO DE IPU/CE.
+11. Por fim, em atendimento à disposição contida no art. 85, § 4o., inciso II e § 11 do CPC/2015, determino que sejam considerados os resultados do presente recurso, para fins de fixação de honorários recursais em favor do vencedor do Apelo, no momento da liquidação/cumprimento de sentença.
+12. Publique-se. Intimações necessárias.
