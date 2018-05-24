@@ -1,0 +1,19 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR MILITAR. PRETENSÃO DE REVISÃO DE ATO DE PROMOÇÃO. PRESCRIÇÃO DO FUNDO DE DIREITO. FUNDAMENTO INATACADO. SÚMULA 283/STF.
+1. O recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, a pretensão revisional encontra-se atingida pela prescrição, posto que a documentação pessoal de todos os postulantes indica que suas promoções à graduação de 1o Sargento ou Suboficial se deram em data anterior ao qüinqüênio que antecedeu o ajuizamento da presente demanda, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO SÉRGIO KUKINA: A hipótese é de agravo interno interposto por [NOME] e outros contra decisão que negou provimento ao agravo em recurso especial em razão da incidência da Súmula 283/STF (fls. 424/426).
+Inconformados, os agravantes afirmam que a prescrição - reconhecida em 1º grau - não alcançou todos os Recorrentes. Em sede recursal, o e. TRF1 embora tenha indicado que possui posição diversa daquela do juízo monocrático acerca da forma de contagem do prazo prescricional - não reconheceu expressamente a prescrição em relação a todos os Recorrentes, tendo inclusive enfrentado o mérito da demanda (o que seria desnecessário em caso de reconhecimento de prescrição). Dessa forma, a decisão monocrática - que afasta a prescrição em relação aos Autores/Agravantes Alberto Gomes de Miranda, [NOME] e [NOME] permanece incólume.
+Insurgem-se contra a aplicação do verbete sumular, acrescentando que ainda que a questão atinente a prescrição não tivesse sido atacada, o recurso deve ser analisado no que tange aos Agravantes que tiveram a prescrição afastada ainda em sentença, decisão que ficou inalterada em sede recursal.
+Requerem o processamento do apelo nobre.
+É o relatório.
+VOTO
+O SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pesem os argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Consoante anteriormente mencionado, nas razões do recurso especial, os recorrentes apontaram violação aos arts. 14 e 17 da Lei nº 6.880/80. Defenderam, em síntese, que observados os princípios da isonomia, da legalidade e da hierarquia, devem ser retificadas as datas de promoção, a fim de que promovidos na inatividade ao posto de capitão, passando a integrar o Quadro de Oficiais Especialistas da Aeronáutica de forma análoga ao dos paradigmas apresentados, com os direitos decorrentes às diferenças remuneratórias.
+Ocorre todavia, que remanesceu íntegro o fundamento do acórdão recorrido segundo o qual a pretensão revisional encontra-se atingida pela prescrição, posto que a documentação pessoal de todos os postulantes indica que suas promoções à graduação de 1o Sargento ou Suboficial se deram em data anterior ao qüinqüênio que antecedeu o ajuizamento da presente demanda.
+Inafastável, assim, o óbice da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
