@@ -1,0 +1,11 @@
+DECISÃO
+
+Trata-se de agravo manejado pela OI S.A. desafiando decisão da 1ª Vice-Presidência do Tribunal de Justiça do Estado do Paraná que não admitiu recurso especial com base: (I) na aplicação da Súmula 282/STF, porque a matéria pertinente ao art. 337, §§ 1º e 3º, do CPC/2015; (II) as razões do recurso especial encontram-se dissociadas do que foi decidido pelo Tribunal local (Súmula 284/STF); e (II) a parte deixou de impugnar especificamente os fundamentos que embasaram o acórdão recorrido (Súmula 283/STF).
+É o relatório.
+Anote-se, de início, não assistir razão à parte agravante ao alegar que a instância de origem, ao realizar o juízo de admissibilidade do recurso especial, usurpou a competência do Superior Tribunal de Justiça. Isso porque, nos termos da Súmula 123/STJ ("A decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais."), é atribuição do Tribunal a quo, naquele momento processual, analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia. Confiram-se, nesse mesmo sentido, os seguintes precedentes: RCDESP no AREsp 211.716/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 25/9/2012; AgRg no Ag 1.424.298/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 27/10/2011; AgRg no Ag 1.147.395/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 12/11/2010; e AgRg no Ag 1.134.224/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe 2/2/2010.
+Ademais, verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foram impugnados os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, quais sejam, a aplicação dos óbices previstos nas Súmulas 282, 283 e 284/STF.
+Isso porque quanto ao óbice da Súmula 282/STF, embora a parte tenha alegado a sua não incidência, deixou de apontar em que ponto do acórdão recorrido foi analisada a matéria pertinente ao art. 337, §§ 1º e 3º, do CPC/2015.
+Do mesmo modo, com relação as óbices das Súmulas 283 e 284/STF, que a parte trouxe fundamentos que sequer guardam pertinência com o caso em comento.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, não conheço do agravo.
+Publique-se.
