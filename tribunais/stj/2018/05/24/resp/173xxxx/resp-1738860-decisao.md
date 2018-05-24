@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESTADO DE PERNAMBUCO E FUNDACAO DE APOSENTADORIAS E PENSOES DOS SERVIDORES DO ESTADO DE PERNAMBUCO, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim ementado:
+CONSTITUCIONAL E ADMINISTRATIVO. GRATIFICAÇÃO DE RISCO DE POLICIAMENTO OSTENSIVO. PRESCRIÇÃO DE FUNDO DE DIREITO. INOCORRÊNCIA. RELAÇÃO DE TRATO SUCESSIVO. NO MÉRITO. CARÁTER DE GENERALIDADE DA GRATIFICAÇÃO EM TELA. VANTAGEM EXTENSIVA AOS MILITARES INATIVOS E PENSIONISTAS. VIOLAÇÃO AO PRINCIPIO DA RESERVA DE PLENÁRIO NÃO CONFIGURADA. REDUÇÃO DAS VERBAS HONORÁRIAS. IMPOSSIBILIDADE. RECURSO DE AGRAVO IMPROVIDO. DECISÃO UNÂNIME.
+1. Tratando-se de relação jurídica de trato sucessivo, a qual se renova a cada mês, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação.
+2. A gratificação de risco de policiamento ostensivo, consoante jurisprudência reiterada deste Tribunal de Justiça de Pernambuco, possui natureza geral e há de ser paga também aos pensionistas e inativos.
+3. Quanto à violação da reserva do plenário reclamada, revela-se descabida, pois não houve qualquer espécie de declaração de inconstitucionalidade e sim uma interpretação, baseada no princípio do livre convencimento motivado do julgador, sobre qual norma é mais adequada para incidir no caso concreto.
+4. Com relação as verbas advocatícias, destaco que o novo CPC/2015 trouxe parâmetros específicos para a sua fixação quando vencida a Fazenda Publica.
+5. Desta feita, muito embora o atual código de ritos não estivesse em vigor quando da prolação da sentença de primeiro grau, entendo que a melhor solução para o pre sente caso é adotá-lo como parâmetro.
+6. Recurso de agravo improvido.
+7. Decisão unânime.
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial, o recorrente aponta violação do art. 20, §§ 3º e 4º, do CPC/73, vigente à época de sua aplicação na sentença ordinária.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+A jurisprudência desta Corte tem entendido que o marco temporal que deve ser utilizado para determinar o regramento jurídico aplicável para fixar os honorários advocatícios é a data da prolação da sentença, que, no caso, foi na vigência do Código de Processo Civil de 1973.
+Desse modo, é indevida a aplicação, por parte do Tribunal a quo dos parâmetros dispostos no art. 85 do CPC/15, uma vez que não vigentes à época da fixação dos honorários.
+Neste sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE EXISTÊNCIA DOS VÍCIOS TIPIFICADOS EM LEI. NÃO OCORRÊNCIA.
+1. EMBARGOS OPOSTOS POR ARCELORMITTAL BRASIL S.A.
+(..)
+2. EMBARGOS OPOSTO POR [NOME].
+2.1. No que se refere aos honorários advocatícios, o Enunciado Administrativo n.º 7 do STJ, deliberou que somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC.
+(..)3. EMBARGOS DECLARATÓRIOS REJEITADOS.
+(EDcl no AgInt no REsp 1662832/ES, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/02/2018, DJe 05/03/2018)
+RESPONSABILIDADE CIVIL. DANO MORAL. MAJORAÇÃO DE INDENIZAÇÃO. IMPOSSIBILIDADE DE ANÁLISE DO CONTEÚDO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. COMPENSAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. SÚMULA 83/STJ. INADMISSIBILIDADE DO RECURSO.
+(..)
+4. Assentou o Superior Tribunal de Justiça que "em homenagem à natureza processual material e com o escopo de preservar-se o direito adquirido, as normas sobre honorários advocatícios não são alcançadas por lei nova. A sentença, como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015" (REsp 1.465.535/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/6/2016, DJe 22/8/2016).
+5. A hermenêutica ora propugnada pretende cristalizar a seguinte ideia: se o capítulo acessório da sentença, referente aos honorários sucumbenciais, foi prolatado em consonância com o CPC/1973, serão aplicadas as regras do vetusto diploma processual até a ocorrência do trânsito em julgado. Por outro lado, nos casos de sentença proferida a partir do dia 18.3.2016, as normas do novel CPC cingirão a situação concreta.
+6. De fato, o próprio art. 14 do CPC/2015 aponta norma de direito intertemporal, com o escopo de proteger os atos praticados na vigência da codificação anterior: "Art. 14. A norma processual não retroagirá e será aplicável imediatamente aos processos em curso, respeitados os atos processuais praticados e as situações jurídicas consolidadas sob a vigência da norma revogada." 7. Em face dos contornos de direito material, não é possível sustentar-se a aplicação das novas regras de honorários recursais a partir de 18.3.2016, data em que entrou em vigor o novo CPC. De fato, a aplicação imediata do instituto, seguindo o princípio do isolamento dos atos processuais, revestirá a defendida natureza material com o capeirão da vertente processual, descontruindo, como consequência cartesiana, toda a legislação, a jurisprudência e a doutrina, que reconheceram, após décadas de vicissitudes, o direito alimentar dos advogados à percepção de honorários.
+8. No presente caso, a sentença foi publicada antes de 18.3.2016. Logo, aplica-se aos honorários sucumbenciais o CPC/1973.
+9. Admite-se a compensação de honorários advocatícios, em consonância com o entendimento firmado no julgamento do REsp 963.528/PR (TEMA 195 do STJ), afetado à Corte Especial do Superior Tribunal de Justiça, com base no procedimento da Lei 11.672/2008 e Resolução 8/2008 (Lei de Recursos repetitivos), segundo o qual "Os honorários advocatícios devem ser compensados quando houver sucumbência recíproca, assegurado o direito autônomo do advogado à execução do saldo sem excluir a legitimidade da própria parte".
+10. Verifica-se que o Tribunal a quo decidiu de acordo com a jurisprudência desta Corte, de modo que se aplica à espécie o enunciado da Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida." 11. Recurso Especial de que parcialmente se conhece e, nessa parte, nega-se-lhe provimento.
+(REsp 1672406/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/08/2017, DJe 13/09/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRECEDENTE. IMPUGNAÇÃO DO VALOR FIXADO A TÍTULO DE VERBA HONORÁRIA. MAJORAÇÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O recorrente alega que não há falar em direito adquirido a fim de conclamar incida o Novo Código de Processo Civil apenas às demandas ajuizadas após a sua entrada em vigor (conforme decidido pelo Tribunal a quo), porquanto, consoante estabelecido no artigo 14 do NCPC, o novel diploma normativo processual incidirá imediatamente aos processos em curso.
+2. A jurisprudência desta Corte tem entendido que o marco temporal que deve ser utilizado para determinar o regramento jurídico aplicável para fixar os honorários advocatícios é a data da prolação da sentença, que, no caso, foi na vigência do Código de Processo Civil de 1973. Precedente: REsp 1.636.124/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/12/2016, DJe 27/04/2017.
+3. Nesse contexto, sobrepõe-se o entendimento consolidado neste Tribunal, no sentido de que salvo as hipóteses excepcionais de valor excessivo ou irrisório, não se conhece de recurso especial cujo objetivo é rediscutir o montante da verba honorária fixada pelas instâncias de origem, a teor do enunciado nº 7, da Súmula do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1657177/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/08/2017, DJe 23/08/2017)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para manter a sentença na parte em que trata dos honorários advocatícios.
+Publique-se. Intimem-se.
