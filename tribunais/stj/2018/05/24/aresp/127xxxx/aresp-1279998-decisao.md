@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por ALICE FILETTI SILVÉRIO E OUTRA, em face de acórdão assim ementado (fl. 87):
+Bloqueio on line. Constrição que recaiu sobre quantia depositada em conta salário com aplicação e resgate automático de caderneta de poupança. Saldo inferior a quarenta salários mínimos.
+Verba de natureza absolutamente impenhorável. Inteligência ao art. 833, X, CPC. Desbloqueio determinado.
+Recurso provido.
+Nas razões do especial, as ora agravantes alegam afronta aos arts. 489, § 1º, I, II, III e IV, e 1.022, II, do Código de Processo Civil/2015, por omissão do Tribunal de origem, ao não se pronunciar sobre a arguição de que não se trata de conta poupança.
+No mérito, argui violação do art. 833, IV e X, do Código de Processo Civil/2015, bem como dissídio jurisprudencial. Afirma "ser possível que a penhora recaia sobre AS SOBRAS, assim considerados os valores que ultrapassarem a remuneração mensal, restando plenamente evidenciadas as circunstâncias que identificam ou assemelham os casos confrontados" (fl. 189); e que " Não se trata de CONTA POUPANÇA como aventado pelo julgado do Tribunal de Origem. É caso sim, de SIMPLES CONTA CORRENTE" (fl. 188).
+Passo a decidir.
+Inicialmente, verifico que não há omissão alguma ou ausência de fundamentação na apreciação das questões suscitadas.
+Ressalte-se que não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões proferidas pela origem.
+Esclareça-se, ainda, que não se traduz em omissão a motivação contrária ao interesse da parte ou que deixe de se pronunciar acerca de pontos considerados irrelevantes.
+O Tribunal de origem, com base nos fatos e provas dos autos, determinou o desbloqueio dos valores, assim se pronunciando (fls. 87/89):
+O saldo bancário bloqueado pelo sistema BacenJud na caderneta de poupança de titularidade do agravante (Banco do Brasil, [CONTA] fls. 29), porque é inferior a quarenta salários mínimos (R$ 24.789,37), em razão do disposto no art. 833, X, do Código de Processo Civil, é absolutamente impenhorável.
+Os bens revestidos por impenhorabilidade absoluta são, porque representam a preservação do mínimo patrimonial indispensável à existência condigna do obrigado, imunes à execução, ainda quando isso implique negação da tutela jurisdicional ao credor.
+(..)
+E nem se alegue que a conta perde a característica de salário apenas porque utilizada para outros fins.
+Ora, os extratos de fls. 35/41 demonstram que os proventos recebidos da Universidade de São Paulo são ali depositados mensalmente, mas, como se trata de conta com aplicação e resgate automáticos de valores da poupança, inegável que o valor atingido corresponde ao mínimo patrimônio de segurança do agravante.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+Observe-se, ademais, que irrelevante o tipo de conta da parte ora recorrida.
+A conclusão acima reproduzida está em perfeita harmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, segundo a qual a "legislação não faz distinção entre os tipos de contas ou cadernetas de poupança, sendo incabível a penhora de valores inferiores a quarenta salários mínimos nelas depositadas" (AgInt no REsp n. 1.494.266/RO, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/8/2017, DJe 30/8/2017), sendo "ressalvado eventual abuso, má-fé, ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias da situação concreta em julgamento (inciso X do art. 649)" (REsp n. 1.230.060/PR, Relatora Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe 29/8/2014), o que não se verificou no presente caso.
+Na mesma direção:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VALORES BLOQUEADOS EM CONTA-POUPANÇA VINCULADA À CONTA CORRENTE. IMPENHORABILIDADE. ART. 649, INCISO X, DO CPC. ALCANCE. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS. MÁ-FÉ NÃO ANALISADA PELO TRIBUNAL LOCAL. INCIDÊNCIA DA SÚMULA 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+1. "É possível ao devedor, para viabilizar seu sustento digno e de sua família, poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda." (REsp 1340120/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/11/2014, DJe 19/12/2014).
+2. "Reveste-se, todavia, de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)." (REsp 1230060/PR, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/08/2014, DJe 29/08/2014).
+3. A ressalva para aplicação do entendimento mencionado somente ocorre quando comprovado no caso concreto o abuso, a ma-fé ou a fraude da cobrança, hipótese sequer examinada nos autos pelo Colegiado a quo, visto que não aventada pela parte.
+4. A parte recorrente não cumpriu o disposto no § 2º do art. 255 do RISTJ, pois a demonstração da divergência não se satisfaz com a simples transcrição de ementas, mas com o confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, providências não tomadas.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 760.181/DF, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/10/2015, DJe 5/11/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JURISPRUDÊNCIA CONSOLIDADA. VALORES BLOQUEADOS. CONTA-POUPANÇA VINCULADA À CONTA-CORRENTE. IMPENHORABILIDADE. ART. 649, INCISO X, DO CPC.
+1. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria o agravante demonstrar que outro é o entendimento jurisprudencial desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo.
+2. Segundo o art. 649, inciso X, do CPC, a quantia depositada em caderneta de poupança é impenhorável até o limite de 40 (quarenta) salários mínimos.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 486.906/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/8/2014, DJe 18/8/2014)
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a orientação desta Corte, não há o que se reformar, esbarrando o presente recurso no óbice da Súmula 83/STJ.
+Em face do exposto, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo.
+Intimem-se.
