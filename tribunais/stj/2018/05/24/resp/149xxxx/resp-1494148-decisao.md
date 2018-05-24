@@ -1,0 +1,14 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. PRESCRIÇÃO PARA O REDIRECIONAMENTO DA EXECUÇÃO FISCAL. MATÉRIA AFETADA À SISTEMÁTICA DOS RECURSOS REPETITIVOS: RESP. 1.201.993/SP, REL. MIN. HERMAN BENJAMIN. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DOS ARTS. 1.040 E 1.041 DO CPC/2015.
+1. Trata-se de Recurso Especial interposto por [NOME], com fundamento nas alíneas a e c do art. 105, III, da CF/1988, objetivando a reforma do acórdão proferido pelo egrégio Tribunal Regional Federal da 3a. Região, assim ementado:
+PROCESSUAL CIVIL. AGRAVO LEGAL EM AGRAVO DE INSTRUMENTO. APLICAÇÃO DO ART. 557, CAPUT e § 1"-A, DO CÓDIGO DE PROCESSO CIVIL. REITERAÇÃO DE ALEGAÇOES.
+1 - Consoante o caput e § 10-A, do art. 557, do Código de Processo Civil e da Sumula 253/STJ, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento ou dar provimento ao recurso e ao reexame necessário, nas hipóteses de pedido inadmissível, improcedente, prejudicado ou em confronto com a jurisprudência dominante da respectiva Corte ou de Tribunal Superior.
+11 - A simples reiteração das alegações veiculadas no agravo de instrumento impõe a manutenção da decisão agravada, proferida nos moldes do entendimento do Egrégio Superior Tribunal de Justiça e da Colenda 6a Turma.
+111 - Agravo legal improvido (fls. 219).
+2. Defende o recorrente, em resumo, que, não fazendo ainda parte da relação processual, não pode sofrer as consequências que somente advêm somente para as suas partes, dentre elas a interrupção da prescrição na forma do art. 219, § 1o. do CPC (fls. 246).
+3. É o breve relatório. Decido.
+4. A questão debatida nos autos, qual seja, prescrição para o redirecionamento da Execução Fiscal, no prazo de cinco anos, contados da citação da pessoa jurídica, encontra-se afetada à 1a. Seção desta Corte Superior, aguardando o julgamento do REsp. 1.201.993/SP, de relatoria do Min. HERMAN BENJAMIN, sob o rito dos recursos repetitivos.
+5. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+6. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos dos arts. 1.040 e 1.041 do CPC/2015.
+7. Publique-se.
+8. Intimações necessárias.
