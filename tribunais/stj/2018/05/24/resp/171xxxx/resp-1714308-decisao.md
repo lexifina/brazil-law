@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. APLICABILIDADE DO CPC/1973. VALORES RECEBIDOS EM DECORRÊNCIA DE DECISÃO JUDICIAL TRANSITADA EM JULGADO. DEVOLUÇÃO DE VALORES RECEBIDOS. IMPOSSIBILIDADE. RECURSO ESPECIAL REPETITIVO Nº 1.401.560/MT. INAPLICABILIDADE. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal Regional Federal da 3ª Região, que contém a seguinte ementa (fl. 150):
+PREVIDENCIÁRIO. PROCESSO CIVIL. PENSÃO POR MORTE. FILHO UNIVERSITÁRIO. PRORROGAÇÃO DO BENEFÍCIO ATÉ OS 24 ANOS DE IDADE. IMPOSSIBILIDADE. DEVOLUÇÃO DE QUANTIAS RECEBIDAS DE BOA FÉ. DESCABIMENTO.
+I - O E. STJ, ao apreciar recurso especial representativo de controvérsia, na forma prevista no art. 543-C do CPC, assentou o entendimento de que descabe o restabelecimento da pensão por morte ao beneficiário, maior de 21 anos e não inválido, diante da taxatividade da lei previdenciária, a qual admite como dependentes, além do cônjuge ou companheiro (a), os filhos menores de 21 anos, os inválidos ou aqueles que tenham deficiência mental ou intelectual, porquanto não é dado ao Poder Judiciário legislar positivamente, usurpando função do Poder Legislativo.
+II - Não há que se falar em devolução de eventuais parcelas já recebidas, tendo em vista sua natureza alimentar e a boa -fé do demandante, além de decorrerem de determinação judicial.
+III - Apelação do INSS e remessa oficial, tida por interposta, providas.
+Opostos embargos de declaração, foram rejeitados (fls. 171-178).
+No apelo especial, a parte recorrente alega violação do art. 535, I e II, do CPC, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia.
+Quanto ao juízo de reforma, aponta ofensa aos artigos 115 da Lei n. 8.213/1991, 876, 884 e 885 do Código Civil, 273, 475-O, 480, 481, 482 e 558 do Código de Processo Civil e 37 e 97 da Constituição Federal, aduzindo em suma que: i) a percepção irregular do benefício previdenciário impõe a devolução dos valores, independentemente do dolo, boa-fé ou do caráter alimentar da prestação; e ii) que o Tribunal a quo teria incorrido em erro, ao afastar a possibilidade de aplicação da norma do artigo 475-O do CPC, sem declarar a inconstitucionalidade da referida norma e sem submeter o feito ao julgamento do Pleno.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 153/155.
+É o relatório. Decido.
+Importante registrar que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Cinge-se a controvérsia quanto à possibilidade ou não da devolução dos valores percebidos pela recorrida.
+De início, afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão preferido em sede de embargos de declaração.
+Assim, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a anulação do julgado.
+Já no que toca à questão de fundo, impõe-se pontuar que a jurisprudência desta Corte Superior é firme no sentido de que, "em virtude da natureza alimentar, não ser devida a restituição dos valores que, por força de decisão transitada em julgado, forem recebidos de boa-fé.
+Por oportuno, colaciono ainda os seguintes precedentes:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DEVOLUÇÃO DE VALORES RECEBIDOS EM DECORRÊNCIA DE SENTENÇA DESCONSTITUÍDA POR AÇÃO RESCISÓRIA. IMPOSSIBILIDADE. RECEBIMENTO DE BOA FÉ.
+1. A decisão agravada foi publicada na vigência do CPC/1973. Deve, assim, incidir o teor do Enunciado Administrativo n. 2/STJ. (Enunciado Administrativo n. 2).
+2. Conforme decidido no EREsp 1.086.154/RS, da relatoria da Ministra Nancy Andrighi, julgado na Corte Especial, não há que se falar em devolução de valores pagos em decorrência de sentença definitiva, haja vista a existência de boa fé do recebedor e da estabilização da expectativa.
+3. Agravo regimental não provido. (AgRg no AREsp 254.336/RS, de minha relatoria, Primeira Turma, DJE de DJe 19/04/2018).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. AÇÃO RESCISÓRIA. DEVOLUÇÃO DE VALORES AO ERÁRIO. DESCABIMENTO. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acórdão recorrido está em sintonia com o entendimento firmado no âmbito do STJ, segundo o qual é incabível a devolução de valores recebidos de boa-fé por força de decisão judicial transitada em julgado, mesmo que ela seja posteriormente desconstituída, pois reconhecidas a natureza alimentar da prestação e a presunção de boa-fé do segurado. Incidência da Súmula 83/STJ.
+2. Agravo regimental não provido (AgRg no AREsp 820.594/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 01/03/2016).
+ADMINISTRATIVO. AGRAVO REGIMENTAL. VALORES RECEBIDOS POR SERVIDOR PÚBLICO EM DECORRÊNCIA DE DECISÃO JUDICIAL TRANSITADA EM JULGADO. SENTENÇA DESCONSTITUÍDA POR MEIO DE AÇÃO RESCISÓRIA. DEVOLUÇÃO DE VALORES RECEBIDOS. IMPOSSIBILIDADE. RECURSO ESPECIAL REPETITIVO Nº 1.401.560/MT. INAPLICABILIDADE.
+1. "A jurisprudência do STJ firmou o entendimento no sentido de que, em virtude da natureza alimentar, não é devida a restituição dos valores que, por força de decisão transitada em julgado, foram recebidos de boa-fé, ainda que posteriormente tal decisão tenha sido desconstituída em ação rescisória." (AgRg no AREsp 2.447/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 17/04/2012, DJe 04/05/2012)
+2. O entendimento consolidado pela Primeira Seção do STJ no julgamento do Recurso Especial Repetitivo nº 1.410.560/MT, segundo o qual é legítimo o desconto de valores pagos em razão do cumprimento de decisão judicial precária, posteriormente revogada, não tem aplicação no caso dos autos, pois na hipótese o pagamento decorreu de sentença judicial definitiva, desconstituída em ação rescisória.
+3. Agravo regimental a que se nega provimento (AgRg no AREsp 463.279/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 08/09/2014).
+Verifica-se, desse modo, que que o acórdão recorrido está em consonância com o entendimento do Superior Tribunal de Justiça, segundo o qual, por força da natureza alimentar, é indevido o ressarcimento dos valores que, em virtude de decisão judicial transitada em julgado.
+Ante o exposto, nego seguimento ao recurso especial.
+Publique-se. Intimem-se.
