@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo manejado por Tim Celular S.A., contra decisão que não admitiu recurso especial, diante da incidência da Súmula 284/STF, porque "a parte recorrente aduz contrariedade à lei federal genericamente, não cumprindo, assim, o seu mister de individualizar os preceitos infraconstitucionais que porventura tenham sido violados pelo Colegiado, olvidando-se de que a verificação da hipótese ensejadora de seu especial não pode ser resultado da inferência do julgador, pelo contrário, é mister que se demonstre, precisamente, em que reside a violação justificadora da interposição recursal" (fl. 122).
+É o relatório.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial, qual seja, a aplicação do óbice previsto na Súmula 284/STJ, fundamento autônomo e suficiente para a manutenção da decisão ora agravada.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, não conheço do agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
