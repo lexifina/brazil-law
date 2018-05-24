@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MILITAR. REAJUSTE DE 28,86%.VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 3ª Região, assim ementado (fl. 316):
+AGRAVO LEGAL. APELAÇÃO CÍVEL. MERA REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. PRECEDENTE DA SEÇÃO. APLICAÇÃO DO ART. 557 DO CPC. NÃO PROVIMENTO.
+1. É posicionamento recorrente desta C. Corte o de que a irresignação posta no agravo legal deve demonstrar que a decisão recorrida, por não implicar em nenhuma das hipóteses do artigo 557 do Código de Processo Civil, não poderia ter sido julgada monocraticamente pelo Relator. Não cabe, nessa via, a rediscussão do que foi trazido no bojo do feito.
+3. Houve provimento ao recurso de apelação do autor amparada em firme jurisprudência desta Corte Regional e do C. Superior Tribunal de Justiça.
+4. Agravo legal ao qual se nega provimento.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 535, I e II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto a questão de fundo, sustenta ofensa: a) à MP 2.131/2000 e suas reedições até a MP 2.215/2001, que dispõe sobre a reestruturação da remuneração dos militares das Forças Armadas, por quanto o acórdão recorrido deixou de promover à limitação temporal da diferença do reajuste à 01/01/2001, data do início dos efeitos da MP 2.215/2001; b) do art. 21, caput e parágrafo único, do CPC/1973, ao argumento de que in casu teria ocorrido a sucumbência recíproca; c) do art. 1º da Lei 4.414/1964 em concordância com o artigo 1.062 do Código Civil de 1916, do artigo 1º-F da Lei 9.494/9999, com a redação dada pela MP 2.180-35/2001, e posteriormente pela Lei 11.960/2009, no que se refere a incidência de juros de mora e correção monetária in casu (fl. 385).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 431-432.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Não se conhece da suposta afronta ao artigo 535 do CPC/1973, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Quanto à apontada violação da MP 2.131/2000 e suas reedições até a MP 2.215/2001, a recorrente não indicou os normativos de lei federal ou tratado supostamente violados pelo acórdão recorrido, o que inviabiliza a exata compreensão da controvérsia e impede o conhecimento do recurso especial por deficiência na argumentação recursal, a teor da Súmula 284/STF.
+Por fim, quanto a alegada violação do art. 21, caput e parágrafo único, do CPC/1973, do art. 1º da Lei 4.414/1964 em concordância com o artigo 1.062 do Código Civil, do artigo 1º-F da Lei 9.494/9999, com a redação dada pela MP 2.180-35/2001, e posteriormente pela Lei 11.960/2009, verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
