@@ -1,0 +1,34 @@
+DECISÃO
+Relatório.
+A União maneja o presente recurso integrativo contra a decisão às fls. 323 a 338, a qual entende padecer de omissão.
+O manejo do recurso foi justificado nos seguintes termos:
+Com efeito, a decisão monocrática foi omissa quanto a decisão da e. Primeira Seção desta Corte, no julgamento do MS 15.706 em 13 de abril de 2011, ressalvou: "Se sobrevier decisão administrativa anulando ou revogando o ato de concessão da anistia, restará prejudicado o pagamento do correspondente precatório" (MS 15.706/DF, Rel. Ministro CASTRO MEIRA, PRIMEIRA SEÇÃO, DJe 11/05/2011).
+Assim, requer o suprimento da omissão, para constar no dispositivo da decisão embargada a ressalva de "Se sobrevier decisão administrativa anulando ou revogando o ato de concessão da anistia, restará prejudicado o pagamento do correspondente precatório" conforme decidido na Questão de Ordem no MS 15.706/DF.
+O embargado, [NOME], apresentou as contrarrazões às fls. 348 a 350.
+Decisão.
+Consoante o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou, ainda, para corrigir-lhe erro material, não se revelando meio idôneo para fazer prevalecer o entendimento da parte embargante quanto à matéria já decidida.
+Essa é a razão pela qual a jurisprudência desta Corte é firme no sentido de que "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida" (EDcl no AgRg no AREsp 859.232/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 31/05/2016).
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO PORTADOR DE DEFICIÊNCIA AUDITIVA UNILATERAL. RESERVA DE VAGA NEGADA PELA ADMINISTRAÇÃO COM AMPARO NOS DECRETOS FEDERAIS 3.298/1999 E 5.296/2004. POSSIBILIDADE. PRECEDENTE DA CORTE ESPECIAL. DECISÃO DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou erro material existente no julgado.
+2. Excepcionalmente, o Recurso Aclaratório pode servir para amoldar o julgado à superveniente orientação jurisprudencial do Pretório Excelso, quando dotada de efeito vinculante, em atenção à instrumentalidade das formas, de modo a garantir a celeridade e a eficácia da prestação jurisdicional e a reverência ao pronunciamento superior, hipótese diversa da apresentada nos presentes autos.
+3. Com efeito, no caso em apreço, não se constata a presença de qualquer eiva a macular o acórdão embargado, que, de forma clara asseverou que, a tramitação de projeto de lei para enquadrar o portador de surdez unilateral como deficiente físico para todos os fins, inclusive reserva de vagas em concurso, não tem o condão de alterar o entendimento dessa Corte acerca da vigente disciplina legislativa da matéria, que não contempla o direito invocado.
+4. Isso porque o Decreto 5.296/2004 alterou a redação do art. 4o., II, do Decreto 3.298/1999 - que dispõe sobre a Política Nacional para Integração de Pessoa Portadora de Deficiência - e excluiu da qualificação deficiência auditiva os portadores de surdez unilateral.
+5. Com essa compreensão, o STJ, alinhando-se ao entendimento do Supremo Tribunal Federal (MS 29.910/AgRg, DJe 1.8.2011), concluiu, através de sua Corte Especial, que o candidato em concurso público com surdez unilateral não tem direito a participar do certame na qualidade de deficiente auditivo (MS 18.966 /DF, Rel. Min. CASTRO MEIRA, Rel. p/ acórdão Min. HUMBERTO MARTINS, DJe 20.3.2014).
+6. Não se constatando a presença de quaisquer dos vícios elencados no art. 1.022 do CPC/2015; a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, os quais não podem ser ampliados.
+7. Embargos de Declaração rejeitados.
+(EDcl no AgRg no RMS 39.528/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 22/06/2016)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. VÍCIOS DO ART. 1.022 DO NCPC. INTEMPESTIVIDADE DE SEGUIDOS EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL.
+1. Quarto embargos de declaração recebidos como agravo regimental, em obediência aos princípios da economia processual e da fungibilidade. EDcl no AgRg no REsp 1.208.878/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30.5.2011.
+2. A transmissão eletrônica das peças recursais é de inteira responsabilidade do causídico que representa as partes que assumem o risco ao deixar para os minutos finais seu envio.
+3. Conforme verificado no sitio desta Corte, não consta indisponibilidade do sistema, por mais de sessenta minutos, nos dias do vencimento do prazo dos dois embargos de declaração opostos fora do prazo.
+4. Os embargantes, na verdade, não apontam nenhuma omissão, contradição, obscuridade ou erro material nas razões dos embargos de declaração. Buscam tão somente a modificação do decidido no acórdão recorrido, o que é inviável.
+Embargos de declaração recebidos como agravo regimental, mas improvido.
+(EDcl nos EDcl nos EDcl nos EDcl no AREsp 623.971/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 09/05/2016)
+O ponto que a União tem por não tratado - efeitos de eventual anulação da anistia - já estava na decisão embargada, de onde se colhe:
+3. Do poder-dever de revisão do ato concessório da anistia.
+Embora noticie que a revisão dos atos de anistia pode prejudicar a concessão, a autoridade coatora se limita ao campo hipotético. Nada trouxe de concreto aos autos que pudesse corroborar suas alegações. Ademais, a aludida revisão, acaso ocorra, se dará no âmbito e por conta do Ministério da Justiça, de sorte que, enquanto não anulada a anistia, permanece incólume a obrigação de pagar as parcelas indenizatórias retroativas, imposta ao Ministério da Defesa por força do disposto no art. 18, parágrafo único, da Lei n. 10.559/2002.
+(fl. 326, destaquei).
+Não há, portanto, omissão a suprir, pois, como já afirmado, "enquanto não anulada a anistia, permanece incólume a obrigação de pagar".
+Firme nestas razões, e com fundamento nos art. 1.024, § 2.º, do CPC e 264, § 1.º, do RISTJ, rejeito os presentes embargos de declaração.
+Publique-se.
