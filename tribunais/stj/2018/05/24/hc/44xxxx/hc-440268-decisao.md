@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], em face de acórdão do TRIBUNAL JUSTIÇA DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado pela prática da conduta descrita no art. 157, caput, do CP, à pena de 4 anos de reclusão, em regime inicial semiaberto, e 10 dias-multa.
+Insurge-se a impetrante, no presente, em face da imposição de regime mais gravoso para início de cumprimento da pena, pleiteando a concessão de liminar para fins de fixação do modo aberto.
+Deferida a liminar e prestadas as informações, o Ministério Público Federal ofertou parecer pela concessão do habeas corpus.
+É o relatório.
+DECIDO.
+Na hipótese, consignou a sentença acerca do regime inicial (fl. 72):
+O regime inicial é o semiaberto, único que possui alguma eficácia inibitória, além do fechado, que se mostra por demais rigoroso, considerando a primariedade e a quantidade de pena aplicada em concreto. O regime aberto pretendido pela defesa não atenderá ao critério de suficiência da pena, ainda mais em se considerando que o réu, ao admitir a autoria da subtração, negou o emprego da grave ameaça, sinalizando, pelo menos, um arrependimento incompleto.
+O Tribunal de origem, mantendo os termos da decisão primeva, assinalou (fls. 10/11):
+ ..  Por fim, foi fixado o regime inicial semiaberto, tendo o juízo a quo considerado insuficiente a fixação do regime mais brando e por demais rigorosa a imposição do regime fechado, tendo em vista a primariedade e ausência de circunstâncias desfavoráveis, contra o que não houve recurso por parte do Ministério Público.
+Inviável acolher o pleito defensivo de modificação do regime inicial de cumprimento de pena para o aberto.
+Ao fixar o regime prisional, não pode o magistrado se limitar apenas ao quantum da pena aplicada, devendo, pois, considerar ainda a culpabilidade, os antecedentes, a conduta social e a personalidade do agente, assim como as circunstâncias e consequências do crime. A propósito, cito alguns julgados do E. Supremo Tribunal Federal, como segue:  ..
+Com efeito, o roubo é crime grave, revelando temibilidade e periculosidade do agente, características de personalidade que recomendam a imposição de um período de segregação carcerária mais rigorosa.
+Vale dizer, a concessão de regime aberto desvitalizaria a eficácia intimidante da pena, incentivando a prática de outros delitos semelhantes. Devem os juízes estar atentos aos anseios da sociedade, que, acuada pelo desenfreado avanço da criminalidade, clama por medidas enérgicas por parte do Poder Público.
+O Supremo Tribunal Federal, aliás, já teve oportunidade de se manifestar a respeito, como segue:  ..
+No caso concreto, a prática do delito mediante emprego de simulacro de arma de fogo, com maior poder de intimidação, atesta o elevado grau de reprovabilidade da conduta praticada, que gerou elevado temor à vítima.
+A Terceira Seção deste STJ entende ser possível, desde que com base em motivação concreta, estabelecer regime prisional mais gravoso do que aquele que corresponderia, como regra geral, à pena aplicada. Tal fundamentação, porém, deve ser aferida caso a caso (HC n. 362.535/MG, Terceira Seção, Rel. Min. Felix Fischer, Rel. para o acórdão Min. Maria Thereza de Assis Moura, DJe de 8/3/2017).
+Na espécie, todavia, as instâncias ordinárias valeram-se de argumentos baseados na gravidade abstrata do delito e nos genéricos efeitos sociais da criminalidade para a fixação de regime prisional mais severo, o que, a teor da iterativa jurisprudência das Cortes Superiores é expressamente vedado. A propósito:
+HABEAS CORPUS. PENAL. ROUBO CIRCUNSTANCIADO. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS. VALORAÇÃO NEGATIVA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. CAUSAS DE AUMENTO. MAJORAÇÃO. CRITÉRIO MATEMÁTICO. ILEGALIDADE. SÚMULA 443/STJ. REGIME FECHADO. IMPOSIÇÃO. GRAVIDADE ABSTRATA. CONTINUIDADE DELITIVA. DUAS INFRAÇÕES. MAJORAÇÃO NA FRAÇÃO MÁXIMA. DESCABIMENTO.
+1. A consciência da ilicitude e a exigibilidade de conduta diversa são pressupostos da culpabilidade, não servindo para agravar a pena-base.
+2. A afirmação de que o roubo teria colocado em risco a vida da vítima e causado intranquilidade social bem como a de que as circunstâncias prejudicavam os acusados têm natureza genérica, uma vez que não se fizeram acompanhar de nenhum elemento concreto extraído do delito pelo qual estavam os pacientes sendo apenados.
+3. O prejuízo da vítima é inerente aos crimes contra o patrimônio. Assim, salvo se demonstrada a gravidade exacerbada da lesão, não se presta para fundamentar a análise negativa das consequências do crime. Da mesma forma, por se tratar de elementar, a busca pelo lucro fácil não é apta para agravar os motivos do delito.
+4. É descabido atribuir desvalor à conduta social e à personalidade se não há dados concretos nos autos aptos para formar, de maneira segura, a convicção do julgador. Igualmente, não pode lastrear a negativação dessas circunstâncias a existência de processos em curso.
+5. Se os antecedentes foram considerados negativos, mas nem a sentença nem o acórdão fizeram menção à existência de condenação criminal transitada em julgado, tem incidência a Súmula 444/STJ.
+6. A exasperação da pena pelas instâncias ordinárias apenas em razão do número de causas de aumento vai de encontro ao comando da Súmula 443/STJ.
+7. Sendo os pacientes primários e reduzidas as penas-base ao mínimo legal em razão da ausência de circunstâncias judiciais negativas, impõe-se o estabelecimento do regime inicial semiaberto, mormente porque a opção pelo regime mais severo, nas instâncias ordinárias, foi fundamentada na gravidade abstrata do delito.
+8. Se as instâncias ordinárias reconheceram a prática de dois crimes em continuidade delitiva, a exasperação da reprimenda na fração máxima de 2/3 destoa da jurisprudência desta Casa, que, nessa hipótese, determina que a majoração ocorra no piso mínimo de 1/6.
+9. Ordem concedida, com extensão ao corréu, [NOME], para reduzir as penas-base ao mínimo legal, bem como para aplicar a menor fração de aumento na terceira fase da dosimetria (1/3). Habeas corpus deferido, de ofício, em relação a ambos, a fim de fixar o regime inicial semiaberto e, quanto ao mencionado corréu, para reduzir a majoração da reprimenda pela continuidade delitiva à fração mínima de 1/6, ficando as penas redimensionadas nos termos do voto" (HC 136.451/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/08/2011, DJe 12/09/2011).
+Nesse contexto, o estabelecimento de regime prisional mais gravoso sem fundamento concreto, contraria o disposto nas Súmulas 440/STJ, 718 e 719/STF, in verbis:
+"Súmula 440/STJ: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+Súmula 718/STF: "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada".
+Súmula 719/STF: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Sendo assim, não se justifica a imposição de regime inicial semiaberto a paciente primário, condenado à pena reclusiva igual a 4 anos, cuja pena-base foi fixada no mínimo legal, em razão da inexistência de circunstâncias judiciais desfavoráveis, fazendo jus o paciente ao regime aberto, em atenção ao disposto no art. 33, §§ 2º e 3º, c.c. o art. 59, ambos do Código Penal.
+Ante o exposto, concedo o habeas corpus para, mantida a condenação, fixar o regime inicial aberto.
+Comunique-se.
+Publique-se.
+Intimem-se.
