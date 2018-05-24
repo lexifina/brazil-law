@@ -1,0 +1,48 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONDENADO SENTENCIADO AO CUMPRIMENTO DE PENA NO REGIME INICIAL SEMIABERTO. MANDADO DE PRISÃO - DECRETADO APÓS O TRÂNSITO EM JULGADO DA SENTENÇA - NÃO CUMPRIDO. EXECUÇÃO PENAL NÃO INICIADA. AGRAVANTE EVADIDO. ALEGAÇÃO DE POSSIBILIDADE DE INDEVIDO RECOLHIMENTO EM MODO MAIS GRAVOSO, POR FALTA DE VAGA. PEDIDO DE CUMPRIMENTO EM REGIME ABERTO OU EM PRISÃO DOMICILIAR. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em harmonia com o Enunciado Sumular Vinculante n. 56 do STF, este Superior Tribunal tem admitido a inclusão temporária de reeducandos em prisão albergue domiciliar, na hipótese de constatação da ausência de vaga no estabelecimento penal adequado ao regime mais gravoso, imposto na condenação.
+2. No caso, o recorrente foi condenado a cumprir sua reprimenda no regime inicial semiaberto, tendo sido emitido mandado de prisão em seu desfavor em 25/9/2017, após o trânsito em julgado da sentença. O apenado, contudo, furtou-se a iniciar a execução da pena, motivo pelo qual não lhe assiste o direito de cumprir a reprimenda imposta em prisão albergue domiciliar, sob a alegação de que inexistiria vaga em unidade prisional destinada ao resgate da pena no modo intermediário. Precedentes.
+3. "Os argumentos de superlotação e de precárias condições da casa de albergado não permitem, por si sós, a concessão do benefício pleiteado" (HC 240.715/RS, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 23/4/2013, DJe 2/5/2013).
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Joel Ilan Paciornik e Jorge Mussi.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de agravo regimental interposto por [NOME] contra decisão monocrática desta Relatoria que deu provimento ao recurso especial, para cassar o acórdão prolatado pelo Tribunal de origem, determinando que fosse restabelecido o mandado de prisão expedido pelo Juízo da 6ª Vara Criminal da Comarca de São Luís/MA emitido em desfavor do ora Recorrido, bem como condicionada a expedição da guia definitiva de execução à sua apresentação judicial (e-STJ, fls. 561-563).
+Sustenta o recorrente, em síntese, que "todas as unidades prisionais da capital maranhense encontram-se superlotadas, sem exceção", asseverando que, "na prática,  ..  os presos condenados ao regime semiaberto cumprem suas penas no regime fechado, subvertendo o espírito da Lei de Execução Penal, especialmente no aspecto da  ..  ressocialização do apenado" (e-STJ, fl. 583).
+Acrescenta que, nesse contexto, tão logo a ordem de prisão decretada em desfavor do apenado seja efetivada, o reeducando "será encarcerado em regime mais gravoso do que o estabelecido na sentença" (e-STJ, fl. 584).
+Requer, assim, a reconsideração da decisão agravada ou a submissão do feito à apreciação da Turma, para que seja negado provimento ao recurso especial.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONDENADO SENTENCIADO AO CUMPRIMENTO DE PENA NO REGIME INICIAL SEMIABERTO. MANDADO DE PRISÃO - DECRETADO APÓS O TRÂNSITO EM JULGADO DA SENTENÇA - NÃO CUMPRIDO. EXECUÇÃO PENAL NÃO INICIADA. AGRAVANTE EVADIDO. ALEGAÇÃO DE POSSIBILIDADE DE INDEVIDO RECOLHIMENTO EM MODO MAIS GRAVOSO, POR FALTA DE VAGA. PEDIDO DE CUMPRIMENTO EM REGIME ABERTO OU EM PRISÃO DOMICILIAR. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em harmonia com o Enunciado Sumular Vinculante n. 56 do STF, este Superior Tribunal tem admitido a inclusão temporária de reeducandos em prisão albergue domiciliar, na hipótese de constatação da ausência de vaga no estabelecimento penal adequado ao regime mais gravoso, imposto na condenação.
+2. No caso, o recorrente foi condenado a cumprir sua reprimenda no regime inicial semiaberto, tendo sido emitido mandado de prisão em seu desfavor em 25/9/2017, após o trânsito em julgado da sentença. O apenado, contudo, furtou-se a iniciar a execução da pena, motivo pelo qual não lhe assiste o direito de cumprir a reprimenda imposta em prisão albergue domiciliar, sob a alegação de que inexistiria vaga em unidade prisional destinada ao resgate da pena no modo intermediário. Precedentes.
+3. "Os argumentos de superlotação e de precárias condições da casa de albergado não permitem, por si sós, a concessão do benefício pleiteado" (HC 240.715/RS, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 23/4/2013, DJe 2/5/2013).
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+O presente agravo interno não merece prosperar.
+Segundo consta dos autos, o recorrente foi condenado à pena de 5 anos e 4 meses de reclusão, com o pagamento de 13 dias-multa, em regime inicial semiaberto, pela prática do crime do art. 157, § 2º, I e II, do Código Penal.
+Interposta apelação criminal, o Tribunal de origem negou-lhe provimento, ocorrendo o trânsito em julgado da condenação.
+Em 25/9/2017, o Juízo de primeiro grau determinou a expedição de mandado de prisão em desfavor do sentenciado, a fim de viabilizar o cumprimento da sanção corporal imposta, mediante a expedição das respectivas guias de recolhimento.
+Irresignada, a defesa impetrou habeas corpus, perante o TJMA, cuja ordem foi concedida, para determinar o recolhimento do mandado de prisão, por entender aquele sodalício estar presente constrangimento ilegal oriundo da "impossibilidade de o Estado fornecer vagas para o cumprimento no regime originalmente estabelecido na condenação penal" (e-STJ, fl. 495).
+Este agravo regimental insurge-se contra decisão na qual dei provimento ao recurso especial manejado pelo Parquet estadual, sob os seguintes fundamentos:
+" ..  No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar a concessão da ordem, pelo Tribunal de origem.
+Não há negar que, consoante jurisprudência desta Corte, inexistindo vagas em estabelecimento prisional compatível com o regime semiaberto de execução, é legítima, em caráter excepcional, a concessão de regime aberto ou de prisão domiciliar ao reeducando até que surja a possibilidade de sua colocação em unidade prisional adequada.
+A aludida ilegalidade, contudo, deve ser analisada depois de iniciada a execução da pena, o que não ocorreu no caso dos autos, não havendo demonstração de que o paciente esteja, de fato, submetido a constrangimento ilegal de qualquer natureza.
+Nesse diapasão, a questão relativa à inexistência de vaga em estabelecimento prisional deve ser decidida conforme o caso concreto - e não de forma abstrata - e, sempre, após o início da execução penal, ou seja, após a prisão do sentenciado" (e-STJ, fl. 562, grifou-se).
+Vale lembrar, no ponto, que, conforme a dicção do art. 117 da Lei de Execuções Penais, " s omente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de: I - condenado maior de setenta anos; II - condenado acometido de doença grave; III - condenada com filho menor ou deficiente físico ou mental; IV - condenada gestante".
+Ainda que não se olvide o teor do Enunciado Sumular Vinculante n. 56 do Supremo Tribunal Federal, segundo o qual " a  falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso  .. ", deve-se salientar que tal entendimento jurisprudencial, adotado por esta Corte, ocorre em situações excepcionais, para abrandar o rigor legislativo, admitindo a inclusão temporária de condenados em prisão albergue domiciliar, uma vez constatada a ausência de vaga no estabelecimento penal adequado ao regime aberto.
+A hipótese trazida a julgamento, todavia, não se amolda à excepcionalidade em tela, pois a alegação de precariedade do sistema prisional não autoriza, de forma automática, a concessão da prisão domiciliar.
+Neste caso peculiar, o sentenciado sequer iniciou o cumprimento de sua pena, tendo se furtado a cumprir a sanção corporal a ele imposta, no regime semiaberto, apesar de emitido mandado de prisão em seu desfavor desde 25/9/2017 (e-STJ, fls. 453-454 e fl. 465), o que demonstra a sua inaptidão para o gozo do benefício pleiteado.
+Vê-se, portanto, que não se trata de um caso de ausência de vagas no estabelecimento compatível com a progressão carcerária. Trata-se, ao revés, de situação que ensejaria a regressão de regime prisional, ante a prática de falta disciplinar de natureza grave.
+Nesse sentido, confira-se o seguinte precedente:
+"HABEAS CORPUS. EXECUÇÃO PENAL. REGIME ABERTO. PLEITO DE PRISÃO DOMICILIAR. NÃO CABIMENTO. ART. 117 DA LEI DE EXECUÇÕES PENAIS. PRECEDENTES. ORDEM DENEGADA.
+1. A teor do entendimento desta Corte, admite-se a concessão da prisão domiciliar ao apenado submetido ao regime aberto que se enquadre nas situações do art. 117 da Lei de Execução Penal ou, excepcionalmente, quando o sentenciado se encontrar cumprindo pena em estabelecimento destinado ao regime mais gravoso, por inexistência de vaga, situações essas não verificadas no caso dos autos.
+2. Os argumentos de superlotação e de precárias condições da casa de albergado não permitem, por si sós, a concessão do benefício pleiteado, mormente quando tais situações não foram reconhecidas pelo Tribunal de origem.
+3. Ordem denegada".
+(HC 240.715/RS, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 23/4/2013, DJe 2/5/2013, grifou-se).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
