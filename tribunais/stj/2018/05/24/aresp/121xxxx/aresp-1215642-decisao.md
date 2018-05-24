@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por STRYKER DO BRASIL LTDA, contra decisão que inadmitiu o recurso especial fundamentado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. IMPORTAÇÃO DE EQUIPAMENTOS DE USO MÉDICO-HOSPITALAR. PREGÃO INTERNACIONAL DO TIPO MENOR PREÇO. CONTRATO. IMUNIDADE. AFASTADA. APURAÇÃO DE SIMILARIDADE PELO DECEX EM MOMENTO ANTERIOR À IMPORTAÇÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL NO RJO DE JANEIRO. LEGITIMIDADE ATIVA DA IMPETRANTE.
+1 - Pedido de licenças de importação de diversos tipos de equipamentos de uso médico-hospitalar para órgão da administração direta, independente de submissão à prévia análise de similaridade e de demonstração de inexistência de produto similar nacional sob o argumento de se tratar de imunidade tributária.
+2 - A imunidade tributária somente pode ser condicionada ou restringida pela própria Constituição Federal. Diferentemente, a isenção pode ser condicionada por lei infraconstitucional com estabelecimento de requisitos para que o eventual beneficiário possa dela usufruir. A exigência da similaridade só é exigível para que o contribuinte tenha direito à isenção. Não é exigível quando a importação é realizada por ente imune.
+3 - A imunidade tributária recíproca não se aplica ao ente público quando este é simples adquirente de produto, serviço ou operação onerosa realizada com intuito lucrativo ("contribuinte de fato"). A imunidade também não pode ter como efeito jurídico colateral o benefício de entidade particular, voltada à exploração econômica e lucrativa de qualquer objeto. Precedente do STF
+4 - Não cabe à Administração Pública deslocar a autoridade coatora, com o intuito de dificultar a utilização do mandado de segurança. Tendo sido a importação requerida no Rio de Janeiro, via sistema informatizado e possuindo o DECEX sede nesta cidade, nada justifica a remessa dos autos ao Distrito Federal.
+5 - A impetrante atua no feito como legitimada ativa ordinária, isto é, como titular da relação jurídica discutida, não se lhe aplicando os artigos 6o do CPC e 3o da Lei de Mandado de Segurança.
+6 - Remessa Necessária e Apelação a que se dá provimento para denegar a segurança.
+No recurso especial, o recorrente aponta violação do art. 267, IV, do CPC/1973.
+Sustenta, em síntese, que ocorreu a extinção do processo vez que houve perda do objeto.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido sob o argumento de falta de preparo, por não ter sido juntada aos autos, no momento da interposição do recurso, o comprovante original da guia de recolhimento.
+No presente agravo, o recorrente afirma que "protocolizou junto ao recurso especial a cópia da guia de recolhimento da União Paga" e que, em suma, a jurisprudência defensiva não deve ser utilizada visando a real efetividade do processo.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se, em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do Código de Processo Civil de 1973, diante do fenômeno da ultra-atividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+O presente recurso não é cognoscível.
+A jurisprudência do Superior Tribunal de Justiça encontra-se consolidada no sentido da necessidade de comprovação do preparo no momento da interposição do recurso, conforme se verifica dos julgados abaixo ementados:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESERÇÃO.
+1. Recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A parte recorrente deve comprovar, no momento da interposição do recurso especial, o pagamento das custas judiciais, sob pena de deserção.
+3. Embargos de declaração acolhidos para esclarecimento, sem efeitos infringentes.
+(EDcl no AgRg no AREsp 861.393/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/04/2018, DJe 13/04/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO CPC/2015. PREPARO RECURSAL. AUSÊNCIA DA GUIA DE CUSTAS (GRU) E RESPECTIVO COMPROVANTE DE PAGAMENTO. INTIMAÇÃO PARA SANAR O VÍCIO. ART. 1.007, § 4º, DO CPC/2015. NÃO ATENDIMENTO. DESERÇÃO. SÚMULA 187/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 06/09/2017, que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Segundo a jurisprudência do STJ, "a comprovação do preparo do recurso especial deve ser feita mediante a juntada, no ato da interposição do recurso, das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento. A juntada apenas do comprovante de pagamento das custas processuais, desacompanhado da respectiva guia de recolhimento, é insuficiente à comprovação do preparo" (STJ, AgInt no REsp 1.622.574/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 27/04/2017). No mesmo sentido: STJ, AgInt nos EDcl no AREsp 912.078/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 22/02/2017; AgInt no AREsp 954.666/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 14/02/2017.
+III. No caso, deixando a parte recorrente de juntar aos autos, no momento da interposição do recurso, a guia de custas (GRU) e o respectivo comprovante de pagamento, foi ela intimada para efetuar o recolhimento em dobro, em termos do art. 1.007, § 4º, do CPC/2015. Apresentou, porém, apenas comprovantes de pagamento das custas, recolhidas em dobro, deixando de trazer a Guia de Recolhimento da União, peça essencial à aferição da regularidade formal do Recurso Especial. Assim, é de se julgar deserto o Recurso Especial. Incidência da Súmula 187/STJ.
+IV. Agravo interno improvido.
+(AgInt no REsp 1675553/PB, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 10/04/2018, DJe 17/04/2018)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
