@@ -1,0 +1,105 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fulcro no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO - TRÁFICO DE DROGAS - Desclassificação da conduta para o art. 28, "caput" da Lei de Drogas - Apelo ministerial - Materialidade e autoria devidamente demonstradas nos autos - Palavras dos policiais militares firmes e coerentes em ambas as sedes - Não haveria como se questionar tais depoimentos, eis que se revestem de fé pública e foram corroborados pelas demais provas - Traficância - Sentença merece reforma - De rigor a condenação - Recurso ministerial provido." (e-STJ, fl. 139).
+Nas razões recursais, alega a defesa violação do art. 156 do Código de Processo Penal, do art. 33, § 4.º, da Lei n. 11.343/2006, bem como dos arts. 33, § 2.º, "b" e "c", e 44, ambos do Código Penal, além de dissídio jurisprudencial.
+Assevera, em suma, que "o acórdão ora impugnado contraria entendimento já pacificado de outro tribunal, conforme comparação analítica dos julgados em tópico próprio. Em caso semelhantes (réu primário, tráfico de pequena potencialidade lesiva, com fixação da pena no mínimo legal), outro Tribunal concluiu, ante a ausência de prova (ônus de quem alega), pela impossibilidade de inferir que o réu se dedique à atividade criminosa e, assim, vedar a aplicação da causa especial de diminuição de pena prevista no artigo 33, § 4º, da Lei nº 11.343/06." (e-STJ, fl. 171)
+Requer, assim, a aplicação da referida minorante, o abrandamento do regime prisional e a substituição da pena privativa de liberdade por restritiva de direitos.
+Contrarrazões apresentadas (e-STJ, fls. 210-220).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (e-STJ, fls. 268-271).
+É o relatório.
+Decido.
+O Tribunal de origem deu provimento ao recurso ministerial, para reformar a sentença que havia condenado o recorrente como incurso no art. 28 da Lei n. 11.343/2006, nos seguintes termos:
+"Consta do inicial acusatória que no dia 20 de janeiro de 2015, por volta das 03h40min, no Rua Nócono José Ângelo Victal, Bairro Belém, na cidade e Comarca de Taubaté, o acusado trazia consigo, para entrega a consumo de terceiros, 76 pedras de crack (11,45g), 07 porções de cocaína (6g) e 26 porções de maconha (37,32g), substâncias entorpecentes causadoras de dependência física e psíquica, fazendo sem autorização e em desacordo com determinação legal ou regulamentar.
+Pois bem.
+O recurso ministerial merece provimento.
+ ..
+O policial militar [NOME] contou que em patrulhamento de rotina, adentraram em uma via sem saída, quando se depararam com o apelado, que se mostrou nervoso ao notar a viatura. Ao ser abordado, em seu bolso, havia quatro pedras de crack e dinheiro. Indagado, num primeiro momento disse ser usuário e depois passou a afirmar que havia perdido o emprego e por esse motivo também estava vendendo drogas, que havia dispensado mais a frente. Em varredura no local, encontraram uma sacolinha com o restante dos entorpecentes, mas ele negou ser dele. Afirmou que não conhecia o acusado antes dos fatos, sendo que no dia ele estava mal vestido e, apesar de não parecer estar sob efeitos de drogas, estava confuso, pois ora dizia ser usuário, ora que estaria vendendo (mídia digital).
+[NOME], também policial militar, declarou no mesmo sentido da testemunha da acusação [NOME], acrescentando que o local é ponto de venda de drogas e que as embalagens encontradas no bolso do acusado eram idênticas as que estavam no sacola. Afirmou, ainda, que não estava maltrapilho, nem sujo, nem descalço, mas ora dizia que a droga era para seu uso, ora que vendia, pois estava desempregado (mídia digital).
+Assim, da leitura dos depoimentos dos policiais militares, nota-se que foram extremamente coerentes, claros e harmônicos. Narraram os fatos com precisão e riqueza de detalhes desde o inquérito e responderam a todas as perguntas feitas em Juízo, sob o crivo do contraditório.
+Eles foram unânimes em relatar que, em local conhecido como ponto de tráfico de drogas, abordaram o réu e encontraram nos bolsos dele, quatro porções de crack, e quantia em dinheiro. Afirmaram, ainda, que ele disse que além de usuário também vendia drogas porque estava desempregado, aduzindo ainda ter dispensado outras porções. No local, apreenderam uma sacola com entorpecentes variados, com embalagens idênticas a que estavam em seu bolso.
+Ora, não restou demonstrado que os policiais tivessem motivos ou intenção de prejudicar o apelado, não sendo crível que viessem a Juízo mentir, colocando suas carreiras em risco.
+Tem se tornado cada vez mais comum a invocação de flagrantes forjados ou irregularidades na conduta
+dos policiais, como forma de ilidir o honesto e competente trabalho de agentes da lei e no tentativa de acusados se isentarem de responsabilidade.
+Isso, porém, não pode ser aceito e deve ser de pronto coibido, eis que a conduta isolada de alguns policiais que agem ao arrepio da lei não pode ser generalizada nem tida como regra, sendo certo que se trata de exceção, a qual, demais disso, deve ser cabalmente comprovada.
+Com efeito, o Estado tem seus agentes concursados legalmente aptos a reprimir o crime e seus depoimentos somente podem ser afastados se demonstrada eventual irregularidade ou interesse particular no condenaÇão do réu, o que não se deu no caso em tela .
+Necessário ressaltar a importância das falas destes profissionais que, escolhidos pelo Estado para desempenhar a nobre função de proteção da população, possuem fé-pública, sendo seus depoimentos dignos de crédito e plena validade. Mesmo porque, repito, não restou provada qualquer intenção dos servidores em, de alguma forma, prejudicar o acusado.
+No mais, não se pode desmerecer o depoimento da testemunha policial apenas por sua condição de agente da lei, sendo firme a jurisprudência neste sentido:
+ ..
+Ao contrário: é testemunha que depõe compromissada, com presunção de veracidade por ser funcionário público, narrando sobre os atos que, de ofício, foram praticados no exercício de suas funções.
+Em sendo assim, tais depoimentos revestem-se de inquestionável eficácia probatória, principalmente quando prestados em Juízo, sob a garantia do contraditório.
+ ..
+Por outro lado, a versão apresentada pelo réu restou isolada do conjunto probatório.
+Em sede policial, o acusado preferiu o silêncio (fls. 06).
+Em Juízo, afirmou ser usuário de drogas, sendo que no dia dos fatos, tinha quatro pedras de crack no bolso quando foi abordado pelos policiais, que o colocaram na viatura e o autuaram em flagrante.
+Como se vê, a versão do apelado não foi hábil a infirmar os relatos firmes e coerentes dos policiais militares.
+Não se pode acreditar na versão. contada pelo recorrido, eis que o fato por ele narrado é altamente inverossímil.
+Ainda que o réu negue o tráfico de entorpecentes, os demais elementos probatórios não podem ser simplesmente descartados.
+A Justiça não pode fechar os olhos para as evidências dos autos, devendo o Poder Judiciário estar sensível às artimanhas, cada vez mais aperfeiçoadas, utilizadas pelos criminosos para se furtarem da aplicação da lei penal.
+A prova da traficância deve ser extraída das diversas circunstâncias do delito, como no presente caso, no qual se concluiu, sem dúvidas  pela expressiva quantidade e variedade de droga apreendida, pelo local e pelos depoimentos firmes e coerentes dos policiais (não sendo demonstrada qualquer irregularidade em suas condutas) - que o acusado traficava.
+Temos, ainda, que para configuração do delito de tráfico não se faz necessário que sejam presenciados atos de comercialização, eis que este delito é crime de ação .
+múltipla, admitindo várias condutas, como, ter em depósito e trazer consigo a substância entorpecente para fins de tráfico.
+ ..
+E, ainda que o apelado fosse usuário de droga  o que não ficou comprovado, frise-se -, a configuração do crime de tráfico continuaria possível, eis que muitos traficantes se utilizam deste expediente para sustentar o próprio vicio.
+ ..
+Portanto, a reforma da r. sentença é de rigor, merecendo acolhida os argumentos trazidos em razões de apelação pelo douto Promotor de Justiça.
+Nada mais quanto ao mérito, passo à dosimetria da pena.
+Nos termos do art. 59, do Código Penal, e do art. 42, da Lei nº 11.343/06 fixo a pena-base no mínimo legal, em 05 anos de reclusão e pagamento de 500 dias-multa.
+Ausentes atenuantes e agravantes.
+Na derradeira etapa, impossível a aplicação de redução de pena prevista no § 4º, do art. 33, do Lei nº 11.343/06.
+A nova Lei de Drogas recrudesceu o tratamento aplicado aos traficantes, agravando a dosagem penal, passando a variar de 5 a 15 anos de reclusão e pagamento de 500 a 1500 dias-multa.
+Da mesma feita passou a criar uma causa de redução, diminuindo o rigor da norma, a fim de beneficiar o chamado "pequeno traficante", desde que atendesse a determinados requisitos.
+Com efeito, para fazer jus à aplicação do redutor previsto no superveniente legislação, o réu deve ser primário, de bons antecedentes e não pode se dedicar à atividade criminosa ou integrar organizações criminosas.
+No caso dos autos, o acusado não comprovou satisfatoriamente o exercício de atividade lícita. Alem disso, como visto, ele estava com expressiva quantidade e variedade de droga, a maioria delas de alto poder nocivo.
+Assim, todos estes fatores comprovam que o apelado se dedicava à traficância e vinha fazendo do tráfico seu meio de vida, sendo certo que não pode, de qualquer forma, ser considerado pequeno traficante ou traficante de primeira viagem e receber o mesmo tratamento daquele que, pela primeira vez, vende algumas poucas porções de maconha, por exemplo, em uma esquina.
+Frise-se que mencionado § 4º emprega o termo "poderão", o que seguramente indica não ser obrigatória a redução.
+Nesse sentido:
+ ..
+Assim, torno definitiva a reprimenda em 05 anos de reclusão e pagamento de 500 dias-multa.
+ ..
+Aplico o regime inicial fechado para o cumprimento da sanção, de acordo com a determinação constante no art. 1º, da Lei nº 11.464/07, que regula os crimes hediondos, hipótese equiparada ao caso concreto.
+De se notar que o regime inicial fechado é o ó único compatível com a natureza e o grau de lesividade do delito de tráfico de entorpecentes, além de ser o único necessário e suficiente para reprovação e prevenção do crime." (e-STJ, fls. 140-148)
+A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena diminuída, de 1/6 (um sexto) a 2/3 (dois terços), quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+Na falta de parâmetros legais para se fixar o quantum dessa redução, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do art. 59 do CP, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC 401.121/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1/8/2017 e AgRg no REsp 1.390.118/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/5/2017, DJe 30/5/2017).
+No caso, observa-se que a Corte estadual entendeu que o recorrente se dedicava ao tráfico de drogas, não fazendo jus a minorante, tendo em vista a quantidade e a variedade das drogas apreendidas, bem como a falta de comprovação de atividade lícita.
+Contudo, a jurisprudência desta Corte já se posicionou no sentido de que a mera condição de desempregado não é fundamento idôneo para se concluir pela habitualidade delitiva do condenado, e, consequentemente, acarretar o afastamento do redutor do tráfico privilegiado (HC 413.610/SP, Minha Relatoria, QUINTA TURMA, julgado em 3/10/2017, DJe 11/10/2017; HC 336.143/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 9/8/2016, DJe 16/8/2016).
+Do mesmo modo, cumpre anotar que o quantum de droga apreendido (76 pedras de crack, pesando 11,45g, 7 porções de cocaína, pesando 6g, e 26 porções de maconha, pesando 37,32g) é insuficiente, por si só, para se inferir a dedicação do recorrente no comércio ilícito, sobretudo quando certificada sua primariedade e seus bons antecedentes. Logo, à míngua de elementos concretos que comprovem a efetiva dedicação em atividade criminosas, e uma vez verificada a primariedade e os bons antecedentes do recorrente, a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 deve ser operada em 1/2, atento aos vetores do art. 42 da referida lei (natureza, quantidade e variedade da droga apreendida).
+A propósito, cito os seguintes julgados:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. REGIME INICIAL SEMIABERTO. GRANDE VOLUME DA DROGA APREENDIDA. UTILIZAÇÃO PARA MODULAR A CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, LEI N. 11.434/2006. SUBSTITUIÇÃO DA PENA POR RESTRITIVA DE DIREITOS. NÃO RECOMENDÁVEL. AGRAVO NÃO PROVIDO.
+1. Verifica-se não ter sido dada a correta interpretação aos dispostos nos arts. 33 do CP e 42 da Lei de Drogas, pois, embora a pena definitiva tenha sido fixada em 2 anos e 6 meses de reclusão e os sentenciados sejam primários, o regime semiaberto é o cabível à espécie (como o imediatamente mais grave, segundo o quantum da sanção aplicada), dada a presença de circunstância prevalecente, qual seja, "grande quantidade de droga" apreendida (420,41 g de maconha), a qual foi inclusive considerada para modular o quantum da causa de diminuição.
+2. No caso, utilizada a grande quantidade da droga para justificar a escolha da fração da minorante do art. 33, § 4º, da Lei n. 11.343/2006, no patamar de 1/2, não se recomenda a substituição da pena privativa de liberdade por restritiva de direitos, pela falta do atendimento do pressuposto subjetivo (art. 44, III, do CP - circunstâncias do crime desfavoráveis).
+3. É entendimento pacificado nesta Corte que inexiste bis in idem quando a quantidade e a natureza da droga são consideradas para afastar a minorante ou modulá-la e, logo depois, no momento da fixação do regime de cumprimento inicial da reprimenda.
+(Precedentes.) 4. Agravo regimental não provido."
+(AgRg no AREsp 892.826/MG, de minha relatoria, QUINTA TURMA, julgado em 13/06/2017, DJe 23/06/2017).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. FRAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. REGIME INICIAL DE CUMPRIMENTO DE PENA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. QUANTIDADE E NATUREZA DA DROGA APREENDIDA. RECURSO NÃO PROVIDO.
+1. Consoante jurisprudência desta Corte, devem ser avaliadas as circunstâncias do caso concreto para estabelecer a fração de diminuição da pena pela incidência do § 4º do art. 33 da Lei n.
+11.343/2006.
+2. Havendo sido concretamente fundamentada a aplicação da minorante em comento no patamar de 1/2, notadamente na quantidade e na natureza do entorpecente apreendido, não há contrariedade ao disposto no art. 33, § 4º, da Lei de Drogas.
+3. Embora a agravante haja sido condenada a reprimenda inferior a 8 anos de reclusão, foram apontados elementos concretos e idôneos, - notadamente a quantidade e a natureza da droga apreendida - que, efetivamente, evidenciam ser o regime inicial fechado o mais adequado para a prevenção e a repressão do delito perpetrado, consoante o disposto no § 3º do art. 33 do Código Penal, com observância também ao preconizado no art. 42 da Lei de Drogas.
+4. Embora a agravante haja sido definitivamente condenada a reprimenda inferior a 4 anos de reclusão, entendo que as peculiaridades do caso concreto (em especial, a natureza e a quantidade de drogas apreendidas) evidenciam, à luz do inciso III do art. 44 do Código Penal, que a substituição da sanção reclusiva por restritiva de direitos não se mostra uma medida socialmente recomendável.
+5. Agravo regimental não provido."
+(AgRg no REsp 1.400.192/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/04/2016, DJe 28/04/2016).
+Passo, assim, ao redimensionamento da pena.
+A pena-base foi computada em 5 anos de reclusão e 500 dias-multa. Inexistentes atenuantes ou agravantes, a reprimenda intermediária permanece inalterada.
+Na terceira fase, incidindo a causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006 no patamar de 1/2, a pena fica definitiva em 2 anos e 6 meses mais o pagamento de 250 dias-multa, mantido o valor unitário do dia-multa.
+Em relação ao pedido de alteração do regime prisional, também assiste razão ao recorrente.
+A obrigatoriedade do cumprimento inicial em regime fechado aos sentenciados por crimes hediondos e a eles equiparados não mais subsiste, diante da declaração de inconstitucionalidade, incidenter tantum, do § 1º do art. 2º da Lei n. 8.072/1990, pelo Supremo Tribunal Federal, no julgamento do HC 111.840/ES (em 27/7/2012).
+Na definição do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal e, na hipótese de condenado pelo crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006, segundo o qual serão consideradas com a preponderância a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal.
+In casu, embora a pena definitiva tenha sido fixada em 2 anos e 6 meses de reclusão e o réu seja primário, o regime semiaberto é o cabível à espécie, dada a presença de circunstância prevalecente, qual seja, a quantidade, natureza e variedade das drogas apreendidas.
+A propósito:
+" ..
+1. Não há ilegalidade na fixação do regime semiaberto ao presente caso, ainda que a pena seja inferior a 4 anos, pois o julgador trouxe fundamentação no sentido de ter sido encontrada com os recorrentes quantidade elevada de entorpecentes, além de variedade de substâncias, cocaína e maconha.
+2. Agravo regimental improvido."
+(AgRg no AREsp 825.711/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 3/03/2016.)
+" ..
+No caso, apesar de a ré ser primária e com bons antecedentes e de sua pena ter sido fixada abaixo do patamar do art. 33, § 2º, "c", do Código Penal, a variedade e a quantidade significativa de entorpecentes apreendidos recomendam o estabelecimento do regime semiaberto para o início da expiação." (AgRg no REsp 1.438.369/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 01/09/2015.)
+No que tange à possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, esta Corte tem admitido que a negativa da substituição da pena seja fundamentada com base na natureza e diversidade das drogas apreendidas.
+Sobre o tema, o seguinte julgado:
+"A jurisprudência desta Corte tem entendido que a natureza, a quantidade e a variedade das drogas apreendidas podem interferir na possibilidade de substituição da pena privativa de liberdade por restritiva de direitos.
+Hipótese em que fica vedada a substituição em razão da quantidade e variedade dos entorpecentes apreendidos - 27 pedras de crack, 7 petecas de cocaína e 6g de maconha." (AgRg no AREsp 562.832/RS, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 4/8/2015.)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO. QUANTIDADE E VARIEDADE DA DROGA. AGRAVO NÃO PROVIDO. 1. Estabelecida a pena definitiva em 2 anos e 6 meses de reclusão e considerando a quantidade e variedade da droga apreendida (89,5g de cocaína, 76,9g de crack e 111,0g de maconha) - circunstâncias elencadas legalmente como preponderantes e devidamente valoradas na terceira etapa da dosimetria -, o regime semiaberto (previsto como o imediatamente mais grave, segundo o quantum da sanção aplicada) é o adequado à prevenção e à reparação do delito.
+2. Não se mostra recomendável a substituição da pena privativa de liberdade por restritiva de direito, em razão da quantidade e natureza da droga apreendida.
+3. Agravo regimental não provido.
+(AgRg no REsp 1699075/SP, de minha relatoria, QUINTA TURMA, julgado em 27/02/2018, DJe 05/03/2018)
+Destaca-se, no caso, que a natureza e a diversidade das drogas apreendidas (76 pedras de crack, pesando 11,45g, 7 porções de cocaina, pesando 6g, e 26 porções de maconha, pesando 37,32g), denotam contornos de maior gravidade ao tráfico ilícito de drogas. Portanto, não se mostra socialmente recomendada a substituição da pena privativa de liberdade por restritiva de direitos.
+Ante o exposto, com fundamento no art. 34, XVIII, "c", do RISTJ, dou parcial provimento ao recurso especial, a fim de aplicar a minorante do § 4.º do art. 33 da Lei n. 11.343/2006 em patamar intermediário, tornando a pena definitiva do recorrente em 2 anos e 6 meses de reclusão, a ser cumprida inicialmente em regime semiaberto, além de 250 dias-multa.
+Publique-se. Intimem-se.
