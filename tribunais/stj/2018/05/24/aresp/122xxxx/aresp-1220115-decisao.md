@@ -1,0 +1,8 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA AMBIENTAL. DANOS CAUSADOS EM ÁREA DE PRESERVAÇÃO PERMANENTE. CONSTRUÇÃO IRREGULAR. REDISTRIBUIÇÃO DO FEITO PARA A PRIMEIRA SEÇÃO.
+DECISÃO
+Trata-se de agravo interposto por [NOME] e outros, desafiando decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, manejado, por seu turno, contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 488):
+Ação civil pública. Direito ambiental. Margens do Rio Pardo. Afastamento da preliminar de incompetência ainda na fase de saneamento. Inexistência de recurso. Preclusão temporal. Ocupação de área. Discussão sobre sua característica (preservação permanente ou de reservas/estações ecológicas). Ilegitimidade passiva do antigo proprietário afastada. Responsabilidade objetiva. Prova conclusiva - Área de Preservação Permanente e violação à legislação ambiental. Art. 225 do CF. Obrigações (não fazer e fazer) corretamente impostas aos corréus pela sentença, com base no estudo técnico. Manutenção. Ratificação de seus fundamentos, nos termos do artigo 252 do Regimento Interno neste Tribunal. Nega-se provimento aos recursos.
+Dispõe o art. 9º do Regimento Interno do Superior Tribunal de Justiça que a natureza da relação jurídica em litígio determina a competência entre as Seções desta Corte e, no caso, está-se diante de competência da Primeira Seção, disciplinada no inciso XIV do § 1º do art. 9º do referido regimento interno.
+Ante o exposto, redistribuam-se os autos a um dos Ministros integrantes das Turmas da Primeira Seção desta Corte.
+Publique-se.
