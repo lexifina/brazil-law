@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Apelação – Desapropriação indireta em fase de execução – Pretensão à devolução de valores supostamente pagos a maior – Impossibilidade – Preclusão lógica – Executado que no momento oportuno optou por não opor embargos à execução e que posteriormente requereu a extinção do processo nos termos do art. 794, inciso I, do Código de Processo Civil – Aceitação dos cálculos dos exequentes que é logicamente incompatível com o interesse recursal – Coisa julgada material que impede a rediscussão do valor – Precedentes jurisprudenciais desta Corte – Sentença mantida – Apelo a que se nega provimento.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 78 do ADCT e ao art. 100, § 5º, da Constituição, bem como à Súmula Vinculante 17.
+    O recurso extraordinário é inadmissível. Isso porque o Tribunal de origem assentou:
+     “[...]
+    Depreende-se dos autos que após o trânsito em julgado do v. Acórdão proferido na fase de conhecimento (fls. 312) os Apelados apresentaram seus cálculos de liquidação (fls. 315/316). Devidamente intimado, o Apelante expressamente optou por não opor embargos à execução (fls. 333). Diante disso, os Apelados requereram a expedição do competente Ofício Requisitório, o que foi deferido pelo magistrado de primeiro grau (fls. 335/336). Em seguida, o Apelante requereu a extinção da execução por sentença, nos termos do art. 794, inciso I, do Código de Processo Civil (fls. 377), o que foi atendido pelo juiz a quo (fls. 439).
+    Verifica-se que a discussão do valor depositado não deve ser permitida nos autos em razão da nítida ocorrência de preclusão lógica. No momento oportuno para que o Apelante se manifestasse sobre os cálculos apresentados pelos Apelados, optou por não apresentar embargos à execução, tendo posteriormente requerido a extinção do processo, o que foi atendido pelo magistrado de primeiro grau. Diante da incompatibilidade lógica em se aceitar os cálculos e requerer a extinção da execução, e depois se insurgir contra o valor depositado, é que a r. sentença deve ser integralmente mantida.
+    Ademais, a execução teve por base os critérios definidos na fase de conhecimento, que já se encontram agasalhados pelo manto da coisa julgada material, o que impede a rediscussão dos valores pagos aos Apelados, sob pena de ofensa ao princípio da segurança jurídica.”
+     Esses são fundamentos autônomos e suficientes para a manutenção do julgado, que não foram atacados no recurso extraordinário. Houve recurso especial quanto à matéria, não provido e já transitado em julgado. Nessas condições, aplica-se a Súmula 283/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de maio de 2018.
+Ministro Luís Roberto Barroso
+Relator
