@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONTRATO DE TRANSPORTE. ART. 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. CONCLUSÃO DO ACÓRDÃO PELA PREVALÊNCIA DA RESPONSABILIDADE CIVIL OBJETIVA DO TRANSPORTADOR. MULTA POR LITIGÂNCIA DE MÁ-FÉ. REVISÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Buzin Transportes e Comércio Ltda., com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 272):
+Transporte de mercadoria. Acidente com o próprio caminhão transportador. Desprendimento da carreta que ocasionou o tombamento da carga. Hipótese que não se caracteriza como caso fortuito ou de força maior. Fortuito interno. Reconhecimento. Ação regressiva da seguradora contra o transportador. Cabimento. Termo de renúncia do direito de regresso. Alegação de que tal documento prevalece sobre o direito de não exercer o regresso. Irrelevância do documento, à vista da responsabilidade objetiva do transportador. Procedência do pedido. Apelação denegada
+Os embargos de declaração opostos foram rejeitados, com aplicação de multa de 10% (dez por cento) sobre o valor da causa (e-STJ, fls. 336-339).
+Nas razões do recurso especial (e-STJ, fls. 342-353), a recorrente alegou violação aos arts. 1.022 e 1.026 do Código de Processo Civil de 2015; e 758 do Código Civil.
+Sustentou, preliminarmente, que, embora tenha havido a oposição de embargos de declaração, o Tribunal de Justiça não emitiu pronunciamento acerca dos questionamentos formulados. Aduziu que a sentença e o acórdão desconsideraram os termos da apólice de seguros e a carta de dispensa de direito de regresso da recorrida.
+Asseverou que há cláusula expressa de dispensa de direito de regresso, estipulando-se que a "seguradora não exercerá o direito de regresso em caso de sinistro coberto e indenizado por esta apólice, ocorrido durante o transporte" (e-STJ, fl. 347).
+Nessa linha, defendeu que "o transportador contratado pelo Segurado, por disposição expressa da apólice, possui todas as garantias conferidas ao Segurado" (e-STJ, fl. 351), citando, ainda, a existência nos autos, da declaração de seguro, confirmando a dispensa ao direito de regresso até o dia 31/3/2015.
+Insurgiu-se contra a condenação ao apagamento das penas de litigância de má-fé, afirmando que tentou apenas a apreciação de um direito que reputa legítimo, no que diz respeito ao exame do contrato de seguros que isenta a sua responsabilidade.
+Ponderou que, ainda que os embargos de declaração fossem considerados protelatórios, a pena a ser aplicada é a prevista no art. 1.026, § 2º, do CPC/2015, que é de 2% (dois por cento) sobre o valor da causa.
+Postulou, ao final, a reforma do acórdão recorrido a fim de reconhecer a improcedência do pedido da seguradora recorrida, bem como para afastar a multa imposta por litigância de má-fé, ou, no mínimo, reduzi-la ao patamar do art. 1.026 do CPC/2015.
+As contrarrazões foram apresentadas às fls. 358-364 (e-STJ).
+A decisão da Presidência da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo deixou de admitir o recurso especial por incidência da Súmula 7/STJ (e-STJ, fls. 365-366).
+Foi interposto agravo em recurso especial às fls. 369-383 (e-STJ), e contraminuta apresentada às fls. 386-394 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Dito isso, observa-se que não ficou caracterizada a violação ao art. 1.022 do Código de Processo Civil de 2015, visto que o aresto recorrido adotou fundamentação suficiente para dirimir integralmente a controvérsia, declinando o regramento que entendeu pertinente à hipótese, ainda que em sentido contrário à pretensão da recorrente.
+No caso, o Tribunal de origem apresentou de forma clara os fundamentos para justificar sua conclusão, tendo ressaltado expressamente a responsabilidade civil objetiva do transportador.
+Confira-se elucidativo trecho do acórdão (e-STJ, fls. 276-278):
+ A ré, para elidir o direito de regresso da autora, seguradora que pagou a indenização relativa ao sinistro à sua segurada, alega que há termo de dispensa de regresso previamente firmado. Todavia, ainda que houvesse  e, de fato, não consta esse documento nos autos  não exime o transportador de sua responsabilidade, de modo que deve prevalecer o conceito que informa a natureza jurídica dos transportes, que no caso é objetiva.
+ Logo, se dúvida houvesse  e não há  deve prevalecer a orientação da doutrina na exegese do artigo 730 do Código Civil, segundo a qual a responsabilidade do transportador é objetiva, ou seja, a obrigação por ele assumida é de resultado, isto é, de promover a movimentação de pessoas e coisas sãs e a salvo de um lugar para outro.
+ E, no caso em apreço, ao revés do sustentado pela ré, o desprendimento do "dolly" (base de metal com pneus e quinta roda, que se acopla à carreta) caracteriza o chamado fortuito interno, fato previsível e ligado à máquina, no caso, ao caminhão.
+ ..
+ Conclui-se, pois, que o desprendimento do "dolly" foi ocasionado presuntivamente pela falta de manutenção do veículo e seus acessórios e provocou o acidente, que danificou a carga transportada sob responsabilidade da ré. Somente culpa exclusiva da vítima, que não é o caso, ou a força maior  ou o chamado fortuito externo, como os fatos da natureza, que se caracteriza pela relação estranha à pessoa do agente e à própria máquina poderiam elidir a responsabilidade objetiva da ré. Mas, como se viu, tal não é a hipótese dos autos.
+Registre-se, ainda, que, por ocasião do julgamento dos embargos de declaração, o Colegiado estadual frisou que o documento referente ao termo de dispensa de regresso "não teria o condão de eximir o transportador de sua responsabilidade" (e-STJ, fl. 293).
+Nesse contexto, verifica-se que o Colegiado estadual analisou todas as circunstâncias fáticas que permearam a demanda para estipular a responsabilidade civil objetiva da agravante como transportador, de modo que qualquer alteração nesse quadro demandaria novo reexame do suporte probatório dos autos, o que é inviável no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+No tocante à multa imposta, melhor sorte não socorre à agravante, pois a modificação do entendimento firmado pelo Tribunal de origem quanto à existência de litigância de má-fé demandaria a incursão no acervo fático-probatório dos autos, procedimento vedado pelo óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA DO ART. 538 DO CPC. CABIMENTO. NOVAÇÃO. PEDIDO ALTERNATIVO OU OBRIGAÇÃO ALTERNATIVA. ANÁLISE DO INSTRUMENTO DE CONFISSÃO DE DÍVIDA. SÚMULA N. 7/STJ. LITIGÂNCIA DE MÁ-FÉ. REVISÃO. IMPOSSIBILIDADE.
+1. Há cerceamento de defesa quando o juiz indefere a realização de prova requerida pela parte para comprovar suas alegações e julga antecipadamente a lide contrariamente a essa parte, fundamentando-se
+na ausência de provas.
+2. Caracterizado o intuito protelatório dos embargos declaratórios, impõe-se a mantença da multa prevista no parágrafo único do art. 538
+do CPC.
+3. O recurso especial não é via própria para verificar se houve novação ou se há pedido alternativo formulado na demanda, se, para tanto, for necessário rever provas. Incidência da Súmula n. 7 do STJ.
+4. A modificação do entendimento firmado pelo Tribunal de origem quanto à existência de litigância de má-fé demanda a incursão no acervo fático-probatório dos autos, a teor da Súmula n. 7/STJ.
+5. Agravo regimental desprovido.
+(AgRg no AgRg no REsp n. 1.243.710/RJ, Relator o Ministro João Otávio de Noronha, DJe 22/2/2016).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 7/STJ. MÁ-FÉ DO DEMANDANTE. ACÓRDÃO. RECONHECIMENTO. ARTIGO 1.531 DO CÓDIGO CIVIL DE 1916 (ARTIGO 940 DO CÓDIGO CIVIL/2002). SANÇÃO. APLICAÇÃO.
+1. A revisão do julgado, no tocante à aplicação da multa por litigância de má-fé, demandaria necessária incursão nos elementos fáticos constantes dos autos, hipótese vedada ante o teor da Súmula nº 7/STJ.
+2. A jurisprudência desta Corte entende que é possível a incidência do art. 1.531 do CC/16, 940 do Código Civil de 2002, para a litigância de má-fé, aplicando, por analogia, a regra definida no art. 18 do CPC/1973 que impõe que o juiz, de ofício ou a requerimento da parte, condene o litigante de má-fé. Assim, da mesma forma, a aplicação da penalidade do art. 1.531 do CC/16 deve ser considerada um dever do juiz a ser exercido, inclusive de ofício, quando constatado o pressuposto legal da cobrança indevida.
+Precedentes.
+3. Agravos regimentais não providos.
+(AgRg no AREsp 490.526/SP, Relator o Ministro Ricardo Villas Bôas Cueva, DJe 27/06/2016)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte ora recorrida em 3% (três por cento) sobre o valor da condenação.
+Publique-se.
