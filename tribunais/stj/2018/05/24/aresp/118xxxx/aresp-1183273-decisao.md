@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], contra decisão que inadmitiu o recurso especial fundado no art. 105, III, "c" da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 101):
+Concurso público. Polícia Militar. Cobrança de vencimentos relativos a período não trabalhado. Inadmissibilidade. Sentença mantida. Recurso desprovido.
+Naquela decisão, tendo como pano de fundo entendimento consolidado pelo Supremo Tribunal Federal, foi decidido que na hipótese de posse em cargo público determinada por decisão judicial, o servidor não jus à indenização (..).
+Foram rejeitados os embargos declaratórios opostos (fls. 115-118).
+No recurso especial, o recorrente aponta dissídio jurisprudencial.
+Sustenta, em síntese, que acórdão recorrido vai de encontro com reiteradas manifestações do próprio Tribunal Local. Ademais, questiona fundamento apresentado pelo juízo monocrático, qual seja, EREsp 1117974/RS, Rel. Min. Eliana Calmon, sob a alegação de que o caso julgado na mencionada decisão não se assemelha ao apresentado aos autos.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido (fls. 139-145).
+O recurso especial foi inadmitido com fundamento de ausência do cotejo analítico do dissídio jurisprudencial invocado.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passo ao exame do recurso especial.
+Com efeito, para a demonstração da divergência jurisprudencial, o recorrente limitou-se a colacionar arrestos do próprio Tribunal prolator da decisão recorrida, o que incide, ao caso, o teor sumular nº 13 do STJ, in verbis: " a divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SÚMULA 7 DO STJ. AUSÊNCIA DE DEMONSTRAÇÃO DO DISSÍDIO. SÚMULA 13 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.  ..
+2. Quanto ao dissídio jurisprudencial suscitado, observa-se que o único julgado colacionado pela parte recorrente é proveniente do próprio Tribunal de Justiça do Estado do Paraná, não podendo ser conhecido o recurso especial, por atrair a incidência da Súmula 13 do STJ.
+3. A parte agravante não trouxe, nas razões do agravo regimental, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos.
+4. Agravo regimental não provido.
+(AgRg no AREsp 765.087/PR, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 10/3/2016, DJe 21/3/2016 )
+No tocante ao dissídio jurisprudencial possivelmente existente entre o acórdão recorrido e o EREsp nº 1.117.974/RS, desta Corte Superior, verifica-se, conforme a previsão do art. 255, §1º, do RISTJ, que é de rigor a caracterização das circunstâncias que identifiquem os casos confrontados, cabendo a quem recorre demonstrar tais circunstâncias, com indicação da similitude fática e jurídica entre os julgados, apontando o dispositivo legal interpretado nos arestos em cotejo, com a transcrição dos trechos necessários para tal demonstração. Em face de tal deficiência recursal, aplica-se o constante da Súmula n. 284 do STF.
+Da análise do recurso especial, observa-se que o recorrente não aponta qual o dispositivo infraconstitucional teria sido objeto de interpretação divergente pelos julgados em confronto, desbordando da previsão contida no art. 105, III, c, da [NOME], o que impede a apreciação dessa parcela recursal pelo Superior Tribunal de Justiça.
+Nesse mesmo sentido, confiram-se:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC/1973. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DE INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC/1973 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+2. É inadmissível Recurso Especial quanto a questão inapreciada pelo Tribunal de origem, a despeito da oposição de Embargos Declaratórios. Incidência da Súmula 211/STJ.
+3. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre apontar o dispositivo objeto do dissenso e demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+4. Ademais, a propositura do recurso pela via da divergência jurisprudencial não dispensa o recorrente de apontar qual o dispositivo legal que teria sido objeto de interpretação divergente entre tribunais. A deficiência na fundamentação obsta o conhecimento do recurso fundamentado na alínea "c", razão pela qual incide a Súmula 284/STF. Precedentes do STJ.
+5. Agravo Interno não provido.
+(AgInt no REsp 1581326/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/02/2017, DJe 03/03/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO, NO RECURSO ESPECIAL, DO DISPOSITIVO LEGAL VIOLADO OU QUE TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Nos termos do art. 105, III, c, da Constituição Federal, é cabível a interposição de recurso especial, quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+II. A Corte Especial do STJ consolidou o entendimento de que a ausência da indicação do dispositivo legal supostamente violado ou que tenha recebido interpretação divergente torna incabível o conhecimento do Recurso Especial, quer tenha sido interposto pela alínea "a", quer pela "c" do permissivo constitucional (STJ, AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 17/03/2014).
+III. Considera-se deficiente a fundamentação, quando o Recurso Especial suscita tese a ser apreciada pelo STJ, mas deixa de indicar o dispositivo legal violado ou que teria recebido interpretação divergente, ensejando a aplicação da Súmula 284/STF. Precedentes do STJ (AgRg no AREsp 402.492/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/11/2013; AgRg no AREsp 416.446/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 03/06/2014).
+IV. Agravo Regimental improvido. (AgRg no AREsp 484.048/PB, Rel. Min. ASSUSETE MAGALHÃES, DJe 03/09/2014).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL. ADMISSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO OU OBJETO DE INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. INDICAÇÃO TARDIA DO DISPOSITIVO NO AGRAVO EM RECURSO ESPECIAL. INVIABILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO DESPROVIDO.
+1. A indicação de dispositivo legal em torno do qual teria ocorrido interpretação divergente é requisito de admissibilidade do recurso especial previsto pelo art. 105, III, c, da CF, exigido mesmo em caso de dissídio notório, sob pena de incidência do óbice da Súmula 284/STF. Precedentes.
+2. Em decorrência da preclusão consumativa, a ausência de indicação do dispositivo na ocasião da interposição do recurso especial não é sanada pelo agravo contra a inadmissão daquele recurso.
+3. Agravo interno desprovido.
+(AgInt no AREsp 895.772/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 7/3/2017, DJe 13/3/2017).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
