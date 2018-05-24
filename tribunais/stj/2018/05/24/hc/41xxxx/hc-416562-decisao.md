@@ -1,0 +1,6 @@
+DECISÃO
+CARLOS [NOME], paciente neste habeas corpus, estaria sofrendo constrangimento ilegal ao seu direito de locomoção, em decorrência de decisão de Desembargador do Tribunal de Justiça do Estado de São Paulo, que, ao deferir a medida de urgência postulada no MS n. 2159198-49.2017.8.26.0050, atribuiu efeito suspensivo ativo ao recurso em sentido estrito interposto pela acusação, para decretar a sua prisão preventiva.
+Em 23/5/2017, concedi o pedido liminar formulado neste mandamus, para suspender os efeitos do referido decisum, até o julgamento final deste writ. Ressalvei, porém, ser plenamente viável que a custódia processual ou outra medida cautelar diversa do cárcere fosse novamente imposta.
+Agora, consoante informações prestadas pelo Tribunal a quo, verifico que, em 30/1/2018, aquela Corte deu provimento ao recurso em sentido estrito e decretou a prisão cautelar do paciente. Com o julgamento de mérito do recurso a que se buscou atribuir efeito suspensivo, evidencia-se a prejudicialidade deste writ.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado este habeas corpus, pela perda superveniente de seu objeto, e torno sem efeito a liminar anteriormente deferida.
+Publique-se e intimem-se.
