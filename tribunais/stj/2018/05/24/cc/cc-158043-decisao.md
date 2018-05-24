@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Tribunal de Justiça do Estado de Minas Gerais, suscitante, e o Juízo da Vara de Trabalho de Ubá, suscitado, nos autos da reclamação trabalhista movida por [NOME] em desfavor do Consórcio Intermunicipal de Saúde de Ubá e região, em que requer o pagamento de verbas referentes ao vínculo laboral.
+A ação foi proposta perante o Juízo da Vara do Trabalho de Ubá, que entendeu ser incompetente a Justiça laboral, determinando o encaminhamento do feito, em sede recursal, à Justiça Comum (fls. 193-199).
+Os autos foram distribuídos à 3ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, que suscitou o presente conflito, por entender não ser a competente para a análise do feito (fls. 173-176).
+Relatados. Decido.
+Inicialmente, acentuo que o Conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, d, da Magna Carta.
+In casu, a parte reclamante defende ter sido contratada para trabalhar na função de radiologista, sem concurso público ou processo seletivo, em 21 de julho de 2014, tendo permanecido até 4 de março de 2015, quando foi despedida sem justa causa (fls. 1-4).
+Desse modo, falece competência à Justiça do Trabalho para processar a referida demanda, em razão da natureza jurídico-administrativa existente entre o Poder Público e o servidor público, ainda que em contratações irregulares.
+A orientação desta Corte Superior se firmou no sentido de que a contratação irregular com o poder público é ato de natureza administrativa, ensejando a competência da Justiça Comum para resolver as controvérsias pertinentes. Confira-se:
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CONTRATAÇÃO SEM CONCURSO PÚBLICO. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. O Excelso Pretório, no julgamento da Ação Declaratória de Inconstitucionalidade 3.395-DF, excluiu da expressão relação de trabalho prevista no art. 114, inc. I (redação conferida pela Emenda Constitucional n. 45/2004), as ações decorrentes do regime estatutário, aplicável aos servidores públicos, que devem ser julgadas pela Justiça Comum, Estadual ou Federal, a depender do ente público ao qual se vincula o servidor - ainda que se trate de contratações temporárias ou irregulares, caso dos autos.
+2. A Lei local que alterou o regime jurídico dos servidores para o celetista, no caso, impõe a contratação por meio de processo seletivo, o que não ocorreu na espécie dos autos, afastando assim a competência da Justiça Laboral para o exame da causa.
+3. Agravo interno a que se nega provimento.
+(AgInt no CC 147.725/PA, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 08/02/2017, DJe 14/02/2017)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL E TRABALHISTA. RECLAMAÇÃO TRABALHISTA. CONTRATAÇÃO VERBAL, SEM CONCURSO PÚBLICO. RELAÇÃO DE NATUREZA JURÍDICO-ADMINISTRATIVA. ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES DO STJ. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. A controvérsia está relacionada ao juízo competente para processar e julgar demanda ajuizada por agente público em face de município, questionando o pagamento de verbas trabalhistas, em razão de contrato verbal e sem concurso público.
+2. A Emenda Constitucional n. 45/2004, que deu nova redação ao art. 114 da Carta Magna, aumentou de maneira expressiva a competência da Justiça Laboral. Entretanto, na Ação Direta de Inconstitucionalidade n. 3395-6, o Supremo Tribunal Federal suspendeu em parte a eficácia do inciso I do art. 114 da Constituição da República, que atribuía à Justiça do Trabalho competência para processar e julgar ações envolvendo entidades de Direito Público e seus respectivos servidores.
+3. A contratação irregular com o poder público é ato de natureza administrativa, ensejando a competência da Justiça Comum para resolver as controvérsias pertinentes. Precedentes.
+4. Agravo regimental não provido.
+(AgRg nos EDcl no CC 144.107/MS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 25/05/2016, DJe 01/06/2016)
+AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE INDENIZAÇÃO DECORRENTE DE ACIDENTE DE TRABALHO. SERVIDOR PÚBLICO MUNICIPAL. CONTRATAÇÃO TEMPORÁRIA PELA MUNICIPALIDADE, SEM CONCURSO PÚBLICO. INCIDÊNCIA DAS REGRAS PREVISTAS NA CLT. COMPETÊNCIA DA JUSTIÇA LABORAL.
+1. A controvérsia em exame diz respeito à ação de indenização por danos morais e estéticos decorrentes de acidente do trabalho. Dessarte, subjaz que as indenizações perquiridas resultaram de relação de trabalho; isso porque, sem que houvesse o vínculo empregatício, sequer existiria o acidente de trabalho.
+2. No caso em foco, sobreleva notar que, para se aferirem os elementos típicos do ato ilícito, tais como o nexo causal e a culpa, é imprescindível que se esteja o mais próximo do dia a dia da complexa relação do trabalho.
+3. O autor da demanda foi contratado pela entidade municipal sem concurso público e mediante contrato temporário, atraindo a incidência das regras previstas na Consolidação das Leis do Trabalho. Nesse sentido, conforme já decidiu esta egrégia Corte, prevalece a competência da Justiça laboral para decidir sobre a indenização do acidente de trabalho de servidor público, admitido indevidamente sem concurso público, através de contrato de caráter celetista. Precedentes: CC 50.443 - SP, Rel. Ministro Luiz Fux, Primeira Seção, DJU 2/4/07 e CC 33.84/SP, Rel. Ministro Paulo Gallotti, Terceira Seção, DJU 24/4/06).
+4. Agravo regimental não provido.
+(AgRg no CC 108.627/MS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 24/02/2010, DJe 04/03/2010)
+Ante o exposto, conheço do presente conflito para declarar competente para a causa o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Comunique-se aos Juízos Suscitante e Suscitado.
+Intimem-se. Publique-se.
