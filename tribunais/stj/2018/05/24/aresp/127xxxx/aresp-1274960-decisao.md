@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por MAURÍCIO DAL AGNOL, contra não admissão, na origem, de recurso especial, em face de acórdão assim ementado (fl. 547):
+APELAÇÃO CÍVEL. MANDATOS. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS.
+COMPETÊNCIA. JUSTIÇA ESTADUAL. Não configuradas as hipóteses trazidas pelo art. 109 da Constituição Federal. CORREÇÃO MONETÁRIA SOBRE A RESTITUIÇÃO DE VALORES.
+Condenação acrescida de juros de mora e de correção monetária desde a data do levantamento do alvará pelo réu. Incidência a partir da citação afastada. Inteligência do art. 670, do Código Civil. Precedentes desta Corte.
+TERMO FINAL. ATUALIZAÇÃO MONETÁRIA. DATA DO EFETIVO PAGAMENTO. Descabe o pedido de reconhecimento do termo final da correção monetária e dos juros de mora como sendo a data do ajuizamento da ação cautelar inominada, sob pena de o recorrente beneficiar- se da própria torpeza ao embasar a pretensão no despacho que determinou o bloqueio dos seus bens. INDENIZAÇÃO EXTRAPATRIMONIAL DEVIDA. Demonstrada a irregularidade no agir do demandado, que deixou de proceder ao repasse do proveito econômico decorrente da ação ordinária patrocinada pelo réu em nome do autor, retendo indevidamente quantia pertencente ao seu cliente, impositiva mostra- se a condenação indenizatória extrapatrimonial.
+Demonstrados o ato ilícito e o nexo causal, a parte autora faz jus à indenização. Sucumbência redefinida.
+PRELIMINAR REJEITADA. APELO DO RÉU DESPROVIDO. APELAÇÃO DO AUTOR PROVIDA.
+A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: I) não prequestionamento do art. 407 do Código Civil, aplicação da Súmula 211/STJ; II) não configuração de omissão ou ausência de fundamentação; III) a pretensão da revisão dos danos morais acarreta necessidade de análise da matéria fático-probatória, esbarrando no óbice da Súmula 7/STJ; IV) não comprovação do dissídio jurisprudencial por ausência de indicação de dispositivo legal. Incidência da Súmula 284/STF; e V) a conclusão adotada está em consonância com a jurisprudência aplicada neste Superior Tribunal de Justiça. Aplicação da Súmula 83/STJ.
+O agravante não infirmou todos os fundamentos da decisão recorrida, deixando de se pronunciar sobre as Súmulas 83 e 211/STJ.
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento por ausência de cumprimento do requisito exigido no art. 932, III, do Código de Processo Civil/2015.
+Assim, sem a impugnação específica e suficiente para infirmar o fundamento da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo.
+Intimem-se.
