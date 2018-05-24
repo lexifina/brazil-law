@@ -1,0 +1,32 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE INDENIZAÇÃO POR RESCISÃO CONTRATUAL IMOTIVADA. REPRESENTAÇÃO COMERCIAL. OMISSÕES. ARGUMENTOS NÃO ENFRENTADOS. VIOLAÇÃO DO ART. 535 DO CPC/73. CONFIGURAÇÃO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Consta dos autos que REPRESENTAÇÕES BUMERANGUE LTDA. E LINHA DIRETA MARKETING DIRETO LTDA. (REPRESENTAÇÕES E OUTRA) propuseram ação de indenização por rescisão imotivada de contrato de representação comercial cumulada com cobrança de comissões e ressarcimento por danos morais contra ABRIL S.A., EDITORA ABRIL S.A., FUNDAÇÃO VICTOR CIVITA, EDITORA CARAS S.A., EDITORA AZUL S.A., EDITORA ABRIL JOVEM S.A. E GRUPO ABRIL (ABRIL E OUTROS), objetivando a pagamento de diferenças de comissões além da indenização por dano moral, decorrente de distrato definitivo promovido pelas requeridas.
+O juízo de piso julgou improcedente a ação (e-STJ, fls. 1.763/1.768).
+O Tribunal mineiro deu parcial provimento ao recurso de apelação interposto por REPRESENTAÇÕES E OUTRA para minorar a verba honorária, estando o acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR RESCISÃO CONTRATUAL IMOTIVADA. REPRESENTAÇÃO COMERCIAL. SUCESSÃO CONTRATUAL PRECEITUADA PELO § 3º DO ART. 27 DA LEI 4.886/65. CLÁUSULA PACTUAL EXPRESSA EM QUE AS PARTES DERAM-SE AMPLA E GERAL QUITAÇÃO DOS VALORES DEVIDOS DURANTE A CONTRATUALIDADE. QUITAÇÃO VÁLIDA. APLICAÇÃO DO PRECEITUADO NO PARÁGRAFO ÚNICO DO ART. 320 DO CÓDIGO CIVIL. CLÁUSULA LIVREMENTE AJUSTADA E QUE FAZ LEI ENTRE AS PARTES. CONTRATO FORMALIZADO POR AGENTES CAPAZES, OBJETO LÍCITO, POSSÍVEL E DETERMINADO. NÃO DEMONSTRADO QUALQUER VÍCIO QUE PUDESSE TORNAR INVÁLIDA A CLÁUSULA DE QUITAÇÃO, NÃO HÁ MAIS O QUE RECLAMAR NO TOCANTE ÀS VERBAS DEVIDAS, EM RAZÃO DA RESCISÃO IMOTIVADA. SENTENÇA MANTIDA NESSE PONTO.
+PEDIDO REFERENTE ÀS DIFERENÇAS DE COMISSÕES DE TELEMARKETING. ALEGADA OMISSÃO NA SENTENÇA. INOCORRÊNCIA. MAGISTRADO QUE ANALISA O TEMA, AINDA QUE SUSCINTAMENTE. PERÍCIA REALIZADA QUE NÃO IDENTIFICA O PAGAMENTO A MENOR DO PERCENTUAL AVENÇADO. DOCUMENTOS CARREADOS AOS AUTOS QUE NÃO DEMONSTRAM A EXISTÊNCIA DE PAGAMENTO PENDENTE OU SONEGADO. DISTRATOS CELEBRADOS COM A EMPRESA DE TELEMARKETING EM QUE AS PARTES DERAM-SE MÚTUA QUITAÇÃO. MANUTENÇÃO DA AUTONOMIA DA VONTADE DAS PARTES. INSURGÊNCIA NÃO ACOLHIDA.
+DANO MORAL INOCORRÊNCIA. AUSÊNCIA DE ATO ILÍCITO. RESCISÃO CONTRATUAL UNILATERAL QUE NÃO GERA O DIREITO A INDENIZAÇÃO POR DANOS MORAIS.
+ÔNUS SUCUMBENCIAL. HONORÁRIOS ADVOCATÍCIOS. ALMEJADA. MINORAÇÃO. POSSIBILIDADE. FIXAÇÃO DE FORMA EXCESSIVA (ART. 20, § 4º, CPC). RECURSO PROVIDO, NO PONTO.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO (e-STJ, fls. 1.867/1.868).
+Os embargos de declaração opostos por REPRESENTAÇÕES E OUTRA foram rejeitados (e-STJ, fls. 1.900/1.905).
+Irresignadas, REPRESENTAÇÕES E OUTRA interpuseram recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação dos arts. 320 e 927 do CC/02; 20, § 4º, 128, 348, 460 e 535, I e lI, do CPC/73; 27, j, e § 3º, 35 e 44 da Lei nº 4.886/65, sob o argumento de que: 1) houve negativa de prestação jurisdicional, pois o tribunal de origem "deixou de apreciar fundamento essencial da apelação: o de que os distratos, que contêm a cláusula de quitação, são inválidos" (e-STJ, fl. 1.912), bem como acerca da não incidência das hipóteses do art. 35 da Lei nº 4.886/65; 2) a indenização em tela constitui direito irrenunciável porque equiparada a verba trabalhista; 3) a sentença é citra petita, haja vista que não há distrato nem quitação referente aos períodos em que pleiteia receber diferenças de comissões decorrentes de vendas efetuadas por telemarketing" (e-STJ, fls. 1.923); 4) o representante comercial pode buscar diferenças de comissões após ter firmado distrato em que confere ampla e geral quitação; 5) existência de dano moral; e, 6) necessidade de redução dos honorários advocatícios fixados.
+As contrarrazões não foram apresentadas (e-STJ, fls. 1.943/1.957).
+O recurso especial foi admitido (e-STJ, fls. 1.961/1.962).
+É o relatório.
+DECIDO.
+Merece prosperar a presente irresignação.
+De plano, vale pontuar que as disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+O Tribunal de origem, ao analisar os embargos de declaração, foi omisso em relação aos argumentos trazidos nos embargos de declaração, relativos à invalidade dos distratos que contêm a cláusula de quitação, bem como acerca da não incidência das hipóteses do art. 35 da Lei nº 4.886/65.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado. Assim, recusando-se a Corte de origem a se manifestar sobre a questão federal terminou por negar prestação jurisdicional aos Recorrentes.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a analise das demais questões.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Por derradeiro, advirta-se que eventual recurso interposto contra este acórdão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º) e honorários recursais (art. 85, § 11).
+Publique-se. Intimem-se.
