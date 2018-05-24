@@ -1,0 +1,21 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pela União Federal contra acórdão que, confirmado em sede de embargos de declaração pela Segunda Turma Recursal dos Juizados Especiais Federais do Maranhão, está assim ementado:
+    “RECURSO INOMINADO. TRIBUTÁRIO. CONVERSÃO DE PROCEDIMENTO. DESNECESSIDADE. PROCEDIMENTO EXCLUSIVO DA FASE SATISFATIVA. INCLUSÃO DO PROCESSO EM PAUTA DE JULGAMENTO COLEGIADO. INCIDÊNCIA DE IMPOSTO DE RENDA. AUXÍLIO-CRECHE. NÃO INCIDÊNCIA. CARÁTER INDENIZATÓRIO DA VERBA. PRECEDENTES. ART. 543-C DO CPC. PEDIDO PROCEDENTE. PROVIDO APENAS O RECURSO DA PARTE AUTORA. RECURSO DO INSS NÃO PROVIDO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Cabe referir, desde logo, que o tema concernente à alegada transgressão ao preceito inscrito no art. 150, § 6º, da Constituição, não se acha devidamente prequestionado.
+    E, como se sabe, ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368 – RTJ 131/1391 – RTJ 144/300 – RTJ 153/989), incidem as Súmulas 282 e 356 desta Corte (RTJ 159/977).
+    Não ventilada, no acórdão recorrido, a matéria constitucional suscitada pelo recorrente, deixa de configurar-se, tecnicamente, o prequestionamento do tema, necessário ao conhecimento do recurso extraordinário.
+    A configuração jurídica do prequestionamento – que traduz elemento indispensável ao conhecimento do recurso extraordinário – decorre da oportuna formulação, em momento procedimentalmente adequado, do tema de direito constitucional positivo. Mais do que a satisfação dessa exigência, impõe-se que a matéria questionada tenha sido explicitamente ventilada na decisão recorrida (RTJ 98/754 – RTJ 116/451). Sem o cumulativo atendimento desses pressupostos, além de outros igualmente imprescindíveis, não se viabiliza o acesso à via recursal extraordinária, consoante tem proclamado a jurisprudência do Supremo Tribunal Federal (RTJ 159/977).
+    Vale referir, de outro lado, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Cumpre assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.081.963/MA, Rel. Min. GILMAR MENDES – ARE 1.115.917/MA, Rel. Min. ROSA WEBER – ARE 1.115.997/MA, Rel. Min. ALEXANDRE DE MORAES, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IMPOSTO DE RENDA. INCIDÊNCIA. MATÉRIA INFRACONSTITUCIONAL.
+    1. Para dissentir-se do acórdão impugnado quanto ao caráter da verba percebida – indenizatória ou remuneratória – seria necessária a análise da legislação infraconstitucional que disciplina a espécie.
+    Agravo regimental a que se nega provimento.”
+    (RE 344.021-AgR/RJ, Rel. Min. EROS GRAU – grifei)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. INCIDÊNCIA DE IMPOSTO DE RENDA SOBRE VERBAS INDENIZATÓRIAS. CONTROVÉRSIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.”
+    (RE 597.564-AgR/PE, Rel. Min. CÁRMEN LÚCIA – grifei)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 24 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
