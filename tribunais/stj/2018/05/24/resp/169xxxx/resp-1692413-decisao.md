@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. APRESENTAÇÃO DO DIPLOMA DE CONCLUSÃO ANTES DA MATRÍCULA. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA 283/STF. ARGUMENTAÇÃO DISSOCIADA E DEFICIENTE. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 253, e-STJ):
+CONSTITUCIONAL E ADMINISTRATIVO. CERTIFICADO DE CONCLUSÃO DO ENSINO MÉDIO OBTIDO APÓS A FASE DE CADASTRAMENTO. APRESENTAÇÃO ANTES DA DATA DA MATRICULA. PRINCÍPIO DA RAZOABILIDADE. POSSIBILIDADE.
+1. Trata-se de apelação interposta em face da sentença que julgou procedente o pedido para assegurar ao impetrante a realização de sua matrícula no curso de Medicina, perante a Universidade Federal de Campina Grande, no semestre de 2016.2, uma vez atendidas as normas administrativas e legais.
+2. O apelado ainda não havia concluído o ensino médio na data aprazada para a entrega dos documentos, nos termos do item 8.1, do Edital, dos dias 28 e 29/07, o que impossibilitou a entrega da documentação necessária. Entretanto, no dia 16/08/16, restou suprida a ausência do documento, antes da data da efetivação da matrícula, aprazada para o dia 26/10/16, de acordo com o Edital PRE nº 012/2016.
+3. Ausência de lesão aos princípios da legalidade e da isonomia, previstos no art. 37, da CF, eis que o apelado se submeteu ao concurso vestibular, sujeitando-se às mesmas regras para o ingresso na universidade dos demais candidatos.
+4. Inexistente o desrespeito à autonomia didático-científica das Universidades, prevista no art. 207, da CF, pois esta não pode ser interpretada de forma absoluta e pode ser mitigada pelo Poder Judiciário quando se verificar qualquer das hipóteses de afronta aos preceitos constitucionais ou lesão aos direitos dos cidadãos.
+5. Apelação e remessa oficial improvidas.
+Embargos de declaração rejeitados.
+O recorrente sustenta ofensa aos artigos 41 da Lei n. 8.666/1993; 3º, I, 44, II e 53, I e V da Lei n. 9.394/1996, sob os seguintes argumentos: (a) o certificado de conclusão do ensino médio é pressuposto essencial à matrícula em instituição de ensino superior; (b) o acórdão recorrido prejudica o direito de terceiro que seja titular de certificado de conclusão de ensino médio, o qual será preterido em relação ao recorrido.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 298, e-STJ.
+É o relatório. Passo a decidir.
+No caso dos autos, o recorrente, ao suscitar ofensa ao artigo 44, II da Lei n. 9.394/1996 e demais artigos associados à tese segundo a qual segundo a qual o certificado de conclusão do ensino médio seria pressuposto essencial à matrícula, apresentou argumentos genéricos, vagos a respeito da suposta violação, os quais se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Ademais, a parte recorrente não enfrentou o fundamento do acórdão recorrido segundo o qual o apelado acostou a cópia do Certificado de Conclusão do Ensino Médio antes da data estipulada pelo Edital PRE nº 012/2016 para a efetivação da matrícula, não sendo razoável a imposição da forma em desprestígio do conteúdo, conforme mencionado na fl. 251, e-STJ. Tal situação dá ensejo à aplicação, por analogia, da Súmula 283/STF.
+Por fim, quanto ao suscitado prejuízo ao direito de terceiro titular de certificado de conclusão de ensino médio, tendo em vista a concessão de benefício ao recorrido, verifica-se que o recorrente apresentou alegações genéricas, imprecisas, sem particularizar a ofensa de forma clara e específica e estando ausente a correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida, atraindo a incidência do óbice da Súmula 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
