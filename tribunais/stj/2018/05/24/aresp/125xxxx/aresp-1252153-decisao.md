@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+Seguro de vida. Recusa da seguradora fundada em alegação de doença preexistente. Má-fé da segurada que não pode ser presumida. Indenização devida. Juros de mora contados da citação. Recurso parcialmente provido.
+Alega-se, no especial, violação dos artigos 538, parágrafo único, do revogado Código de Processo Civil; 757, 765 e 766 do Código Civil; e 1º, § 2º, da Lei 6.899/81 sob a afirmação de que a multa aplicada no primeiro grau é indevida, que o segurado omitiu doença pré-existente e que a correção monetária não deve ser contada desde a recusa do pagamento.
+Assim delimitada a controvérsia, passo a decidir.
+A multa, mantida pelo Tribunal local, foi aplicada ao fundamento de que a recorrente opôs embargos de declaração protelatórios à sentença, de modo que reexaminar a questão esbarra no óbice de que trata o verbete n. 7 da Súmula desta Casa.
+Assim:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONVENÇÃO DE CONDOMÍNIO. MULTA CONDOMINIAL. QUORUM QUALIFICADO. REDUÇÃO DA VERBA HONORÁRIA ARBITRADA. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Observa-se que não se viabiliza o recurso especial pela indicada violação dos arts. 1.022 e 489 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O acórdão recorrido baseou-se na interpretação de fatos e provas para concluir pela manutenção da decisão de primeiro grau. Rever tal conclusão implicaria necessariamente o reexame do conjunto fático-probatório, o qual é vedado nesta instância especial, consoante entendimento da Súmula 7 do STJ.
+3. O Tribunal estadual, soberano no exame do acervo fático-probatório dos autos, entendeu pelo evidente intuito protelatório dos embargos de declaração, razão pela qual a pretensão de afastamento da multa prevista no art. 538, parágrafo único, do CPC de 1973, encontra óbice na Súmula 7 desta Corte.
+4. A jurisprudência desta Corte é firme no sentido de que a majoração do valor arbitrado a título de honorários advocatícios enseja o revolvimento de matéria fático-probatória, além das peculiaridades do caso concreto, salvo quando o valor se revelar irrisório ou exorbitante, o que não se verifica no presente caso.
+5. Agravo interno não provido.
+(AgInt no AREsp 1167883/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/2/2018, DJe 5/3/2018)
+Quanto à alegação de doença pré-existente, não consta nos autos que a recorrente tenha exigido exames prévios do segurado ou demonstração de má-fé deste, pelo que tem cabimento as disposições dos enunciados n. 7 e 609 da Súmula desta Corte.
+No que toca, por fim, à correção monetária, o entendimento desta Casa é que, em se tratando de seguro de vida, o termo inicial da correção monetária não é nem mesmo da recusa da seguradora, mas da assinatura do contrato, o que não se altera, todavia, para não piorar a situação da agravante.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. VALOR DEVIDA NA APÓLICE DO SEGURO FIRMADO ENTRE AS PARTES. VEDAÇÃO. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. CORREÇÃO MONETÁRIA DESTE A CONTRATAÇÃO. NEGADO PROVIMENTO.
+1. O eg. Tribunal de origem manifestou que "na proposta de seguro firmada pelo segurado consta o valor de R$ 30.000,00 para "indenização especial de morte por acidente do titular" (fls.12). Tal documento foi firmado pelas partes". Destarte, "A alteração da conclusão da Corte local, quanto ao valor devido na apólice do seguro, demandaria o reexame das disposições do contrato e do conjunto fático-probatório dos autos, procedimento vedado no âmbito do recurso especial (Súmulas 5 e 7 do STJ)" (AgInt no AREsp 126.994/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/10/2016, DJe 27/10/2016, sem negrito no original).
+2. Quanto ao termo inicial da correção monetária, a Segunda Seção desta Corte sedimentou o entendimento de que os valores da cobertura de seguro de vida devem ser acrescidos de correção monetária a partir da data em que celebrado o contrato entre as partes. Precedentes.
+3. Agravo Interno ao qual se nega provimento.
+(AgInt no AREsp 804.973/SC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 24/10/2017, DJe 31/10/2017)
+Diante do exposto, nego provimento ao agravo. Tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil.
+Intimem-se.
