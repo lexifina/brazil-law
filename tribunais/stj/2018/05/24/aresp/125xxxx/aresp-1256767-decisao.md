@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA - SEGURO DE VIDA COLETIVO - INVALIDEZ PERMANENTE PARCIAL POR ACIDENTE - SENTENÇA QUE DETERMINOU O PAGAMENTO PROPORCIONAL À GRADUAÇÃO DA INVALIDEZ - MANUTENÇÃO - APÓLICE QUE SE UTILIZOU DA PALAVRA "ATÉ" - EVIDENTE POSSIBILIDADE DE PAGAMENTO MENOR QUE O TETO MÁXIMO DA INDENIZAÇÃO - CLARO INDICATIVO DE DIFERENCIAÇÃO ENTRE INVALIDEZ TOTAL E PARCIAL - AFRONTA ÀS NORMAS CONSUMERISTAS - NÃO CONFIGURADA - LAUDO PERICIAL QUE CONSTATOU INVALIDEZ PARCIAL, COM PERCENTUAL DE 10% - PAGAMENTO DA INDENIZAÇÃO CONFORME A GRADUÇÃO APONTADA - RECURSO CONHECIDO E NÃO PROVIDO.
+Alega-se, no especial, violação dos artigos 6º, III, IV, e 51, I, II, § 1º, IV, do Código de Defesa do Consumidor, associada a dissídio de jurisprudência, sob a alegação de que não lhe foi dada oportunidade de saber da cláusula limitativa do percentual de cobertura securitária, que a proposta de seguro era diferente da apólice e que a interpretação há de ser melhor ao consumidor.
+Assim delimitada a controvérsia, passo a decidir.
+De início, a divergência jurisprudencial há de ser demonstrada por meio do chamado cotejo analítico, procedimento pelo qual o recorrente deve indicar as semelhanças de fato e o tratamento jurídico diferenciado atribuído aos casos confrontados, não servindo à sua demonstração, como fez o agravante, a indicação apenas de ementas de acórdão considerados paradigmas, a atrair as disposições do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+Assim:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. PRESENÇA. DIVERGÊNCIA JURISPRUDENCIAL. INEXISTÊNCIA. SÚMULAS Nº 284/STF E Nº 568/STJ.
+1. A existência de omissão no acórdão embargado que não altera a conclusão do julgamento.
+2. A divergência jurisprudencial, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+3. Não havendo nas razões de recurso especial indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal.
+4. O entendimento da origem revela-se em conformidade com a orientação firmada nesta Corte, incidindo, no ponto, o óbice da Súmula nº 568/STJ, aplicável a ambas as alíneas autorizadoras.
+5. Embargos de declaração acolhidos, sem efeitos infringentes.
+(EDcl no REsp 1537292/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 6/2/2018, DJe 14/2/2018)
+Nada obsta, outrossim, a estipulação de cobertura em proporção dos danos sofridos no contrato de seguro.
+Assim:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. SEGURO DE VIDA. INCAPACIDADE PARCIAL DECORRENTE DE DOENÇA. AUSÊNCIA DE COBERTURA. POSSIBILIDADE. PRECEDENTES. IMPOSSIBILIDADE DE AFERIR O GRAU DE INVALIDEZ EM SEDE DE RECURSO ESPECIAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ.
+1. A revisão das conclusões a que chegaram as instâncias ordinárias, quanto ao grau de invalidez da segurada e à extensão da cobertura contratada, demanda a revisão do acervo fático-probatório dos autos e a interpretação das cláusulas contratuais do contrato de seguro, o que é vedado pelas Súmulas 5 e 7 do STJ.
+2. Agravo interno a que se nega provimento.
+(AgRg no AREsp 636.919/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 1º/9/2015, DJe 24/9/2015)
+Quanto ao mais, o Tribunal local consignou que o agravante teve ciência de que o valor da cobertura poderia ser inferior ao total da apólice (e-STJ, fls. 462/463), o que derrui o argumento de que não teve conhecimento da indigitada limitação, tema cujo reexame, portanto, esbarra nos óbices de que tratam os enunciados n. 5 e 7 da Súmula desta Casa.
+Diante do exposto, nego provimento ao agravo. Tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil.
+Intimem-se.
