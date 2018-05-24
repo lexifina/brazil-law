@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “RECURSO EM SENTIDO ESTRITO. Júri. Rebelião. Homicídios tentados e consumados, lesões corporais, arrebatamento de presos, motim de presos, dano ao patrimônio público, incêndio e formação de quadrilha. Decisão de pronúncia. Alegação de inexistência de provas mínimas acerca da autoria. Materialidade dos delitos devidamente comprovada. Verifica-se a presença de indícios bastantes de autoria a autorizar um juízo de admissibilidade positivo, restando ao Tribunal do Júri, juízo natural da causa, apreciar os elementos coligidos ao feito a fim de decidir acerca da responsabilidade criminal do recorrente. Nessa fase processual vigora o princípio in dubio pro societate, que deve ser observado sob pena de usurpação da competência do Conselho de Sentença. Recurso desprovido.” (eDOC 42, p. 51)
+    No recurso extraordinário, interposto com fundamento no artigo 102, inciso III, alínea a, da Constituição Federal, aponta-se violação ao artigo 5º, XXXVIII, d, do texto constitucional. (eDOC 43, p. 18)
+    Sustenta-se que a sentença de impronúncia não usurpa a competência do Tribunal do Júri e que o Tribunal de origem deu interpretação equivocada ao texto constitucional.
+    Pleiteia-se a anulação do acórdão recorrido, para que seja determinada a impronúncia do agravante. (eDOC 46, p. 26)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Na espécie, constata-se que o Tribunal a quo, com base no acervo fático-probatório produzido nos autos, não verificou ilegalidade manifesta a ensejar a reforma da decisão de pronúncia e que há fortes indícios de autoria, circunstância suficiente para deixar a cargo do Tribunal do Júri a análise da tese defensiva. A propósito, confiram-se os seguintes trechos do acórdão recorrido:
+    “Assim, verifica-se a presença de indícios suficientes a autorizar um juízo de admissibilidade positivo da acusação.
+    No ponto, cumpre aqui ressaltar que a Constituição Federal reservou ao Tribunal do Júri a competência para julgamento dos crimes dolosos contra a vida. Ao Juízo singular coube tão somente a pronúncia, que representa mero juízo de admissibilidade da acusação, para o qual basta a prova da materialidade da infração penal e a existência de indícios suficientes da autoria, a teor do disposto no artigo 408 do Código de Processo Penal. A prova plena de autoria e das circunstâncias do crime não pode, portanto, ser exigida no juízo provisório, devendo a controvérsia ser dirimida pelo Tribunal do Júri, juízo natural da causa, que decidirá acerca da culpabilidade do acusado e da existência de provas suficientes para a sua condenação.” (eDOC 42, p. 62)
+    No caso específico, o agravante sustenta que o entendimento firmado pelo Tribunal a quo viola a Constituição Federal, porquanto a sentença de impronúncia não usurpa a competência do Tribunal do Júri.
+    Uma coisa nada tem a ver com a outra.
+    O Tribunal de origem apenas registrou que, quando presentes indícios de autoria, apenas o Tribunal do Júri pode decidir sobre a tese defensiva e tal entendimento converge com a jurisprudência desta Corte.
+    Neste sentido, cito precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE HOMICÍDIO QUALIFICADO. ARTIGO 121, § 2º, I E IV, DO CÓDIGO PENAL. CRIME DE CORRUPÇÃO DE TESTEMUNHA. ARTIGO 343, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. DECISÃO DE PRONÚNCIA. INDÍCIOS MÍNIMOS DE AUTORIA. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. DECISÃO DE PRONÚNCIA. FUNDAMENTAÇÃO. PRECEDENTES. VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.” (ARE-AgR 1.053.002/DF, Rel. Min. Luiz Fux, Primeira Turma, DJe 31.10.2017)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Pleito de absolvição por legítima defesa. Tese defensiva afastada pelo Tribunal a quo. Necessidade de submissão do acusado a julgamento pelo Júri. 3. Alegação de ausência de indícios de autoria e materialidade para a pronúncia. 4. Inocorrência. Mero inconformismo do recorrente, que objetiva sua absolvição mediante o revolvimento fático-probatório. Incidência do Enunciado 279 da Súmula do STF. 5. Agravo regimental a que se nega provimento. (ARE-AgR 804.388/RJ, de minha relatoria, Segunda Turma, DJe 13.5.2014)
+    Ante o exposto, nego seguimento ao recurso (artigo 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
