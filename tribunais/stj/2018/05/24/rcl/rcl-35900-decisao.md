@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de reclamação constitucional na qual a reclamante aponta como coatora a decisão da Turma Recursal do Estado do Rio Grande do Sul que desrespeitou a autoridade desta corte ao não suspender o processo 0014391-37.2018.8.21.9000 e determinar dia 23/05/2.018 para o seu julgamento.
+Analisando os autos (petição inicial da reclamação, fls. 1/4, e documentos juntados fls. 525/541), constata-se que a reclamante, na origem, interpôs recurso inominado contra a decisão proferida no Juizado Especial da Fazenda Pública, que julgou improcedente pleito para que o ICMS incida apenas sobre a energia elétrica consumida.
+Assim, a questão posta em exame no recurso inominado gravita em torno da legalidade da Tarifa de Uso do Sistema de Distribuição - TUSD- e transmissão -TUST- a integrar a base de cálculo do ICMS cobrado sobre a energia elétrica.
+Essa temática encontra-se afetada à sistemática dos recursos repetitivos, TEMA 986: Inclusão da Tarifa de Uso do Sistema de Transmissão de Energia Elétrica (TUST) e da Tarifa de Uso do Sistema de Distribuição de Energia Elétrica (TUSD) na base de cálculo do ICMS (EREsp 1.163.020/RS, REsp 1.699.851/TO e REsp 1.692.023/MT).
+Importante destacar que há determinação de suspensão nacional de todos os processos pendentes, individuais ou coletivos (Art. 1.037, II, CPC). (acórdão publicado no DJe de 15/12/2017, cópia em anexo).
+Ocorre que o recurso inominado no processo 0014391-37.2018.8.21.9000, na origem, está pautado para julgamento dia 23/5/2018, quando, por determinação do Superior Tribunal de Justiça, o feito deveria estar suspenso até a solução do TEMA 986, pela Primeira Seção.
+Ante o exposto, defiro a liminar para determinar a suspensão do julgamento do recurso inominado no processo 0014391-37.2018.8.21.9000 em trâmite perante a Turma Recursal do Estado do Rio Grande do Sul, ou, caso ocorrido o julgamento, cessar os seus efeitos.
+Comunique-se com urgência a autoridade reclamada, com cópia dos acórdãos proferidos na afetação dos recursos EREsp 1.163.020/RS, REsp 1.699.851/TO e REsp 1.692.023/MT.
+Após, dê-se vista ao Ministério Público para parecer e notifique-se a autoridade reclamada para manifestação.
+Publique-se. Intimem-se.
