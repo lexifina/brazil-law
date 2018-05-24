@@ -1,0 +1,12 @@
+DECISÃO
+JEAN CARLOS NUNES, paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou o HC n. 2111075-25.2014.8.26.0000.
+Consta dos autos que o paciente foi condenado pela prática do delito descrito no art. 35, caput, da Lei n. 11.343/06, havendo o Juízo de primeiro grau determinado "extração de cópias dos autos para remessa ao Ministério Público para apurar crime em relação a ANA PAULA, EVALDO, JEAN e SÉRGIO, porque não foram denunciados na prática do art. 33, devendo-se adotar a providência necessária" (fl. 222) - Processo n. 0001971-83.2012.8.26.0136.
+A denúncia foi oferecida e o Juízo de primeira instância a recebeu em 27/10/2014, o que ensejou a impetração de habeas corpus no Tribunal de origem, cuja ordem foi denegada.
+Nesta Corte, alega a impetrante que o paciente sofre manifesto constrangimento ilegal, pois houve afronta aos princípios acusatório, da imparcialidade, bem como do ne bis in idem (fl. 4).
+Aduz que as denúncias são "peças processuais absolutamente idênticas, ambas descrevem o mesmo fato, com a única diferença de que, na primeira, oriunda do Processo Crime n. 528/2012, consta o paciente como incurso no artigo 35 da Lei n. 11.343/06, ao passo que na segunda, autos do Processo n. 2831/2014, o membro do parquet enquadra o paciente no artigo 33 da mesma lei, e o pior combinado com o artigo 29 do Código Penal vigente" (fl. 5).
+Requer, liminarmente, "a suspensão do andamento do presente feito até decisão final" e, no mérito, pugna pelo trancamento do Processo n. 2831/2014 (0002883-12.2014.8.26.0136).
+A liminar foi indeferida e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+Decido.
+Em atenção ao despacho de fl. 573, o Juízo de primeiro grau noticiou que, em 8/7/2015, sobreveio a prolação de sentença nos autos do Processo n. 2831/2014 (0002883-12.2014.8.26.0136), objeto deste recurso, havendo o paciente sido absolvido, com fulcro no art. 386, VII, do Código de Processo Penal. Não houve recurso de nenhuma das partes; a sentença transitou em julgado em 20/7/2015 para o Ministério Público e, em 31/8/2015, para a defesa (fl. 636).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado este habeas corpus, pela perda superveniente do seu objeto.
+Publique-se e intimem-se.
