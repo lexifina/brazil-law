@@ -1,0 +1,5 @@
+DECISÃO
+01. Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SÉRGIO DE OLIVEIRA CABRAL DOS SANTOS FILHO, contra v. acórdão proferido pelo eg. Tribunal Regional Federal da 4ª Região, o qual está sofrendo constrangimento ilegal por parte do e. Tribunal Regional Federal da 4ª Região, nos autos do processo 5063271-36.2016.4.04.7000.
+Pois bem. Compulsando detidamente as razões aventadas no presente writ, não se pode vislumbrar a impetração de habeas corpus na origem, para que possa legitimar a análise por este Tribunal Superior, nos moldes em que aduz o artigo 105, I, "c", da Carta Maior, o qual expressa que "Art. 105. Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente: c) os habeas corpus, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea "a", ou quando o coator for tribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, ressalvada a competência da Justiça Eleitoral".
+02. Nesses termos, conforme reza o artigo 34, VIII, "a" e XX, do RISTJ, não conheço do presente mandamus.
+P. e I.
