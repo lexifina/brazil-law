@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado pela Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 398):
+TRIBUTÁRIO. IPI. EXECUÇÃO FISCAL. DEPÓSITO DO MONTANTE INTEGRAL DO DÉBITO. MANDADO DE SEGURANÇA. FALTA SUPERVENIENTE DO INTERESSE PROCESSUAL. EXTINÇÃO PELO ART. 267, VI, DO CPC. SENTENÇA MANTIDA.
+1. No caso, logo depois de proposta a execução t fiscal, em 20/12/1999, a dev.edora, em 17/01/2000, nos autos de ação mandamental (AMS nº 79.751-PE), depositou em juízo o valor atualizado do débito de IPI, incluindo os juros e correção monetária, para suspender a exigibilidade do crédito tributário, portanto não estando presente o requisito exigibilidade, ausente está o interesse processual em prosseguir com a presente cobrança judicial.
+2. Apelação não provida.
+Opostos embargos declaratórios, foram rejeitados (fls. 406/410).
+A parte recorrente aponta violação aos arts. 535 do CPC/73. Sustenta, em resumo, que a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas, a saber, o pagamento a menor, sendo necessária a conversão em renda, e a impossibilidade de extinção da CDA.
+É o relatório.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, nestes termos (fl. 394):
+1. - Com efeito, não tem razão a apelante. É que, logo depois de proposta a execução fiscal, em 20/12/1999, a contribuinte, agora devedora, em 17/01/2000, nos autos de ação mandamental (AMS nº 79.751-PE), depositou em juízo o valor atualizado do débito de IPI, incluindo os juros e correção monetária (fl. 19), para suspender a exigibilidade do crédito tributário.
+2. O fato de a exequente não ter recorrido, por meios próprios, como por exemplo, agravo de instrumento, da decisão que determinou a conversão parcial dos valores depositados judicialmente em renda da União, não lhe dá direito a continuar a promover a presente cobrança judicial, posto que, não estando presente o requisito exigibilidade, ausente está o interesse processual. (grifos nossos).
+Não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Min. NANCY ANDRIGHI, Terceira Turma, DJ 28/11/05).
+Dessarte, observa-se pela fundamentação do acórdão recorrido (fls. 393/399), integrada em sede de embargos declaratórios (fls. 406/410), que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Frise-se que o Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+A propósito, confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO. SEGURO, VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA Nº 211/STJ. AUSÊNCIA DE COBERTURA. SÚMULA Nº 7/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelos recorrentes, para decidir de modo integral a controvérsia posta.
+2. A tese recursal vinculada aos artigos do código consumerista, apontados como violados, não foi analisada pelo Tribunal local, sequer de modo implícito, atraindo ao caso, portanto, o óbice da Súmula nº 211/STJ.
+3. Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado. Precedentes.
+4. Ao contrário do ora sustentado, a pretensão recursal quanto ao reconhecimento da cobertura do seguro esbarra, invariavelmente, no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+5. Agravo regimental não provido.
+(AgRg no REsp 1386843/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2014, DJe 24/02/2014)
+PROCESSUAL CIVIL - ADMINISTRATIVO - LICITAÇÃO - EXECUÇÃO DO CONTRATO - SUCESSÃO DE EMPRESAS - OMISSÃO NÃO VERIFICADA - ART. 515 DO CPC - FALTA DE
+PREQUESTIONAMENTO - SÚMULA 211/STJ.
+1. A teor da Súmula 211/STJ, é inadmissível recurso especial para exame de matéria que não foi objeto de prequestionamento.
+2. Em nosso sistema processual, o juiz não está adstrito aos fundamentos legais apontados pelas partes. Exige-se, apenas, que a decisão seja fundamentada. Aplica o magistrado ao caso concreto a legislação por ele considerada pertinente.
+3. Inexiste afronta ao art. 535 do CPC, quando a omissão alegada nos embargos de declaração é sobre questão desinfluente para a solução do litígio.
+4. Recurso especial da primeira recorrente não conhecido e improvido o recurso da segunda recorrente.
+(REsp 804921/AL, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/05/2007, DJ 28/05/2007)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
