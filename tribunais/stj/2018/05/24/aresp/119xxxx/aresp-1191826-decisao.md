@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por [NOME] e OUTROS, em 14/09/2016, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial manejado, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão assim ementado:
+"Agravo Negativa de seguimento ao recurso Ciência inequívoca da r. decisão recorrida Pedido de reconsideração que não suspende prazo recursal Inteligência do artigo 557, caput, do CPC/73 (Art. 932, III, CPC/15) Recurso desprovido" (fl. 450e)
+Opostos Embargos de Declaração, foram rejeitados, nos seguintes termos:
+"Embargos de declaração - Inexistência de omissão, contradição ou obscuridade na Decisão Monocrática Busca de efeito infringente Descabimento - Embargos rejeitados" (fl. 464e).
+Sustenta a parte agravante, nas razões do Recurso Especial, ofensa ao art. 507 do CPC/2015 (473 do CPC/73), ao argumento de que:
+"A preclusão se opera pela perda de determinada faculdade processual civil na prática de determinado ato processual, pelos seguintes motivos: a) não exercício dela na ordem legal; b) haver realizado atividade incompatível com esse exercício; c) já ter sido validamente exercitada.
+Ao tratar sobre o tema, o Tribunal de Justiça do Estado de São Paulo equivocou-se na aplicação do instituto, sustentando a tese de que não caberia o Recurso de Agravo de Instrumento interposto, uma vez preclusa (e não cumprida) a decisão que determinou a aplicação da multa.
+No entanto, a interpretação da legislação se mostrou distorcida, uma vez que não houve preclusão temporal, conforme já destacado, uma vez que o recurso interposto se refere à decisão que externou a incidência da multa, sem intimação prévia dos recorrentes, portanto, tempestivo, e ignorando a preclusão consumativa da ordem inicial de retirada das máquinas, com a disponibilização ao Recorrido para que desse o destino que melhor lhe atendesse" (fl. 476e).
+Requer, ao final, o conhecimento e provimento do Recurso Especial.
+Não foram apresentadas contrarrazões.
+Negado seguimento ao Recurso Especial (fl. 489e), foi interposto o presente Agravo (fls. 491/498e).
+Foi apresentada contraminuta (fl. 501/507e).
+A irresignação não merece acolhimento.
+Ao analisar a controvérsia dos autos, o Tribunal de origem reconheceu a ocorrência de preclusão nos seguintes termos:
+"Respeitadas as razões recursais, não vejo motivo para alterar a decisão monocrática objurgada porque, como lá observado, o recurso pertinente não foi apresentado a tempo e hora, preclusa a decisão a quo que fixou multa diária.
+Basta lanço na decisão monocrática proferida no Agravo de Instrumento e no v. acórdão prolatado nos Embargos Declaratórios para se constatar não haver razão para a insurgência trazida pelos agravantes.
+A dita "ameaça" de aplicação da multa é vista na r. decisão vista a fls. 88: Fls. 1860 - Mantenho a decisão anterior, por seus próprios fundamentos. Cumpram os autores o já determinado, em cinco dias, sob pena de desobediência e imposição de multa diária. Fls. 1854/1855 - Diga o Sr. [NOME], para atendimento da ordem contida a fls. 87.
+Somente depois, por decisão sequer trazida aos autos, mas colhida no site deste E. Tribunal de Justiça e disponibilizada no DJE de 24/07/15, é que se deu a fixação da multa, especificados valores e termo a quo para sua incidência.
+Então, o agravo tirado contra a decisão vista a fls. 21 veio tirado contra decisão que analisou pedido de reconsideração, de modo que a fixação de astreintes é decisão preclusa.
+Por esses fundamentos, mantenho a decisão recorrida que negou seguimento ao recurso, nos termos do artigo 557 do Código de Processo Civil" (fls. 451/452e).
+Como se vê, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que, na hipótese dos autos, ocorreu a preclusão.
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. PRECLUSÃO RECONHECIDA NA ORIGEM. REVISÃO DO JULGADO. INVIABILIDADE. NECESSIDADE DE REEXAME DA PROVA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. Na via especial, não cabe a análise de tese recursal que demande a incursão na seara fático-probatória dos autos. Incidência da orientação fixada pela Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento" (STJ, AgInt nos EDcl no AREsp 1.030.313/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 07/11/2017).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL. JUROS MORATÓRIOS ATÉ O EFETIVO PAGAMENTO. NÃO INCIDÊNCIA. VALORES PAGOS ADMINISTRATIVAMENTE. COISA JULGADA E PRECLUSÃO. SÚMULA 7/STJ. NÃO CONFIGURADA VIOLAÇÃO AO ART. 535 DO CPC/1973. ARTS. 128, 460 DO CPC/1973 E 401 DO CC NÃO PREQUESTIONADOS.
+1. A questão relativa à incidência de juros moratórios entre a data da elaboração da conta de liquidação e a do efetivo pagamento do precatório já foi decidida pela Corte Especial do Superior Tribunal de Justiça, sob o rito dos recursos repetitivos, por meio do REsp 1.143.677/RS, da relatoria do Min. Luiz Fux.
+2. Para modificar o entendimento firmado no acórdão recorrido, aferindo a existência e os limites da coisa julgada e a preclusão in casu, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+3. Não se configura a ofensa ao art. 535 do Código de Processo Civil/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+4. Não se pode conhecer da insurgência contra a ofensa aos arts. 128, 460 do CPC e 401 do CC, pois os referidos dispositivos legais não foram analisados pela instância de origem. Incide, na espécie, a Súmula 211/STJ.
+5. Agravo Interno não provido" (STJ, REsp 1.587.740/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 20/06/2017).
+"PROCESSUAL CIVIL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DO ART. 535 DO CPC. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. SÚMULA 211/STJ. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. SEQUESTRO DE VALORES. RPV. IMPUGNAÇÃO PARCIAL. PRORROGAÇÃO DE PRAZO PARA APRESENTAÇÃO DE CÁLCULO. PRECLUSÃO. IMPOSSIBILIDADE DE REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. A alegação genérica de violação do art. 535 do CPC/73, sem explicitar os pontos em que teria sido omisso o acórdão recorrido, atrai a aplicação do disposto na Súmula 284/STF.
+2. Foi descumprido o necessário e indispensável exame dos dispositivos de lei invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal dos recorrentes, a despeito da oposição dos embargos de declaração. Incidência da Súmula 211/STJ.
+3. A revisão do entendimento das instâncias ordinárias no sentido da ocorrência da preclusão, uma vez que já havia sido oportunizado às partes e houve a manifestação quanto aos cálculos apresentados (art. 183 do Código de Processo Civil/73), implicaria o reexame do conjunto fático-probatório, providência inadmissível na presente via recursal em face do óbice da Súmula 7/STJ.
+Agravo interno improvido" (STJ, AgInt no AREsp 846.757/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 10/05/2016, DJe de 16/05/2016).
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CORREÇÃO DE RPV. PRECLUSÃO TEMPORAL. OFENSA AOS ARTIGOS 463, I, 471 E 473 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AFRONTA AO COMANDO DO ARTIGO 183 DO CPC. REEXAME DO CRITÉRIO DE PRECLUSÃO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo" (Súmula 211/STJ).
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido" (STJ, AgRg no AREsp 843.125/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 12/04/2016, DJe de 18/04/2016).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por se tratar, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários
+I.
