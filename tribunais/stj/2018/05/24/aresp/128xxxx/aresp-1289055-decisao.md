@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AÇÃO DE COBRANÇA. TAXA DE CONDOMÍNIO. PROCEDÊNCIA. VIOLAÇÃO DO ART. 101,§ § 1º E 2º, DO NCPC. TRIBUNAL A QUO QUE NEGOU SEGUIMENTO AO RECURSO DE APELAÇÃO ANTE A FALTA DE PREPARO. GRATUIDADE DE JUSTIÇA INDEFERIDA NA SENTENÇA. AUSÊNCIA DOS REQUISITOS AUTORIZADORES DO BENEFÍCIO. REFORMA DO ENTENDIMENTO. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+DECISÃO
+O CONDOMÍNIO DO GRUPAMENTO RESIDENCIAL NORTE VILLAGE ajuizou ação de cobrança contra [NOME] e DÉBORA DE AMORIM AMADEU ([NOME] e DÉBORA).
+Em primeira instância, o pedido foi julgado procedente, a fim de condenar os demandados (1) no pagamento das cotas condominiais vencidas, bem como as que se vencerem até a data do efetivo pagamento, tudo com juros de 1% ao mês e correção monetária pelos índices oficiais da Corregedoria do TJRJ, além de multa de 2%, a contar do vencimento de cada cota; (2) no pagamento das custas e honorários advocatícios fixados em 10% sobre o valor da condenação); e, (3) indeferir a gratuidade de justiça requerida, uma vez que a documentação apresentada denota situação econômica incompatível com o benefício pleiteado (e-STJ, fls. 107/109).
+Interposta apelação pelos vencidos, o relator, monocraticamente, dela não conheceu, por falta de preparo, sendo a decisão mantida em agravo regimental, nos termos do acórdão a seguir ementado:
+AGRAVO INOMINADO DO ART. 1.021, DO CPC. AÇÃO DE COBRANÇA. RITO SUMÁRIO. COTAS CONDOMINIAIS.
+INADIMPLEMENTO. Sentença procedente. Apelo do réu. Falta de preparo. Hipossuficiência não comprovada. Decisão do Relator que não conheceu do recurso. Interposição de agravo inominado pelo apelante. Pedido de gratuidade. Despacho deste Relator a fls. 153 oportunizando o recolhimento em dobro das custas relativas ao preparo, no prazo de 5 dias, sob pena de deserção. Inércia do interessado. Manifesta deserção. O benefício da gratuidade de justiça visa o acesso à justiça dos que não podem pagar. Ausência de pressuposto de admissibilidade recursal. Não obstante o pedido de gratuidade, deve o interessado recolher as custas relativas ao preparo, haja vista que não lhe foi deferida a assistência judiciária nas duas instâncias. Como é sabido, o agravo inominado e o agravo regimental não dispensam o recolhimento das custas, sob pena de deserção, nos termos do artigo 1007 do NCPC. Precedentes jurisprudenciais nesse sentido.
+RECURSO NÃO CONHECIDO (e-STJ, fl. 162).
+Houve, então, recurso especial, fundado no art. 105, III, a, da CF, no qual [NOME] e DÉBORA alegaram negativa de vigência ao art, 101,§ § 1º e 2º, do NCPC.
+Sustentaram, em suma, que, (1) os réus não tiveram seu pedido de deferimento da gratuidade de justiça analisado em segundo grau de jurisdição; e, (2) em sendo constatada a falta de preparo, e, em caso de denegação do pedido de gratuidade de justiça, caberia ao relator do recurso de apelação abrir prazo para os recorrentes realizarem o preparo, o que não foi feito.
+Após apresentadas as contrarrazões, o recurso foi inadmitido na origem, em virtude da incidência da Súmula nº 7 do STJ (e-STJ, fls. 181/183 e 187/187).
+No agravo em recurso especial, [NOME] e DÉBORA afirmaram que seu recurso merece trânsito, uma vez que preenchidos os requisitos necessários a sua admissibilidade, e que a análise de suas razões recursais não importa reexame de matéria fática, devendo ser afastado o óbice sumular aplicado na origem.
+Não foi apresentada contraminuta (e-STJ, fl. 208).
+É o relatório.
+DECIDO.
+A insurgência não merece provimento.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da negativa de vigência ao art 101,§ § 1º e 2º, do NCPC
+O Tribunal a quo não conheceu do recurso de apelação de [NOME] e DÉBORA em virtude da falta de preparo, senão vejamos:
+In casu, o presente agravo não merece conhecimento, pois, como visto, as custas judiciais referentes à essa espécie recursal não foram recolhidas regularmente, no tempo e modo devidos, apesar da intimação do interessado.
+No exame do juízo de admissibilidade, deve o magistrado verificar se estão presentes alguns pressupostos elementares, quais sejam: cabimento, legitimidade recursal, interesse processual, tempestividade, preparo, regularidade formal e existência de fato impeditivo ou extintivo do poder de recorrer.
+Na hipótese dos autos, não foi deferida a gratuidade da justiça em favor do recorrente, sendo certo que este deixou de recolher as custas referentes ao agravo (e-STJ, fls 169, sem destaque no original).
+Desse modo, para alterar as conclusões acima, seria necessário o reenfrentamento do conteúdo fático da causa, o que encontra óbice no enunciado da Súmula nº 7 do STJ.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER e NEGAR PROVIMENTO ao recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de [NOME] e DÉBORA DE AMORIM AMADEU em 5% sobre o valor atualizado da condenação, limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. intimem-se.
