@@ -1,0 +1,44 @@
+DECISÃO
+[NOME] agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Goiás na Apelação Criminal n. 201494527634.
+Os embargos declaratórios opostos na origem foram rejeitados.
+Nas razões recursais, a defesa sustenta violação dos arts. 65, III, "d", e 67, ambos do Código Penal, ao argumento de que deve ser reconhecida a atenuante da confissão espontânea, pois "o réu confessou perante autoridade policial a autoria do crime" (fl. 342), e compensada referida atenuante com a agravante da reincidência.
+Requer, dessa forma, o reconhecimento da atenuante da confissão e sua compensação com a agravante da reincidência.
+A Corte estadual não admitiu o recurso, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou o fundamento da decisão agravada, motivos pelos quais passo à análise do recurso especial.
+O Magistrado sentenciante fundamentou a condenação do agravante nos seguintes termos (fls. 194-196, destaquei):
+Prefacialmente, verifico que a materialidade do ilícito restou evidenciada pelo Auto de Prisão em Flagrante (fls. 02/09), Auto de Exibição e Apreensão (fl. 17), Termo de Entrega (fl. 18).
+Quanto à autoria, temos as palavras da testemunha arrolada pela acusação, [NOME], ao ser inquirido em juízo, confirmou os fatos narrados na denúncia, informando que ao chegar no local, o acusado já havia sido imobilizado por populares, e que a res furtiva foi entregue no local para a vítima, a qual estava muito assustada.
+Por sua vez o acusado em seu interrogatório, em juízo, negou autoria do delito, justificando estar com sua motocicleta estragada, e que abordou a vítima, indagando-a se seria possível estacioná-la em sua residência, azo em que, ela se assustou, jogou a bolsa em cima dele, e saiu em direção sua casa correndo. Ele foi até ela, a fim de lhe entregar seus pertences, oportunidade que ao chegar próximo a sua casa, o padrasto desta o viu e começou agredi-lo acompanhado de alguns populares.
+Porém, se mostra frágil a negativa do acusado, pois diante das provas carreadas aos autos, consistentes nas declarações da vítima em delegacia as quais estão em consonância com o depoimento da testemunha arrolada em juízo, os quais apontam que o acusado é o autor do delito de roubo, vale dizer que a palavra da vítima é fundamental no delito de roubo quando se encontra em consonância com as demais provas, como no presente caso. Nesse sentido, vejamos o que diz a jurisprudência:
+ ..
+Consoante demonstrado acima, e ante as provas jungidas aos autos, tenho que a materialidade e autoria restaram comprovadas em relação ao delito de roubo tentado de que fala a denúncia praticado em desfavor da vítima [NOME].
+Examinadas as provas fáticas, um estudo pormenorizado do tipo penal e de seus elementos constitutivos é capaz de demonstrar a correlação entre a conduta do acusado [NOME] e o crime de roubo, circunstanciado pelo concurso de agentes.
+O Tribunal de origem, por sua vez, manteve a condenação e afastou o pleito de reconhecimento da atenuante da confissão espontânea, pelos seguintes fundamentos (fls. 297-301, destaquei):
+Em oposição ao pleito recursal está o substrato dos autos que confere suficiente respaldo ao desate condenatório, atribuindo ao acusado a prática do crime de roubo simples.
+A materialidade delitiva está sobejamente provada pelo auto de prisão em flagrante (fls. 02/09), termo de exibição de apreensão (fl. 17) e termo de entrega (fl. 18).
+Quanto à autoria, a despeito da negativa afirmada pelo acusado por ocasião de seu interrogatório judicial (mídia de fl. 144), tem-se que é isolada a versão por ele apresentada e não condiz com as provas colhidas durante a persecutio criminis in judicio.
+A vítima [NOME], ouvida apenas na fase administrativa, relatou, de maneira firme, toda a ação criminosa, apontando o recorrente como autor do delito (fl. 07).
+Em consonância com o depoimento da ofendida, a testemunha [NOME], ouvida apenas na Delegacia de Polícia, afirmou:
+ ..
+Sob os rigores do contraditório (CD de fl. 77), o policial condutor [NOME] disse:
+ ..
+Tais depoimentos, somados aos demais elementos probatórios, principalmente ao fato dos bens subtraídos terem sido apreendidos em poder do acusado (termo de exibição e apreensão de fI. 17), evidenciam, de modo irretorquível, toda a dinâmica que envolveu o ilícito penal praticado, formando um conjunto conciso e harmônico apto a atestar a opção jurisdicional adotada.
+Com propriedade, sobre a matéria, registrou o ínclito Representante da Procuradoria Geral de Justiça:
+"A alegação apresentada pelo apelante de que a vítima teria se assustado com sua abordagem e jogado a bolsa em sua direção é quase fantasiosa.
+Ora, não faz sentido uma pessoa confundir um pedido de ajuda com voz de assalto (..) Ademais, ainda que a vítima tenha sido ouvida apenas na fase administrativa, a clareza de detalhes da narrativa em consonância com as demais provas, bem como as declarações prestadas pela testemunha [NOME] na fase inquisitiva e o depoimento do policial condutor, em inquérito e em juízo, é o suficiente para embasar o decreto condenatório." (fl. 223).
+Impossível, portanto, falar-se em fragilidade/insuficiência de provas, dada a positivação da autoria delituosa que recai sobre [NOME].
+III - RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA Ressai do édito condenatório que, ao individualizar a pena privativa de liberdade, na primeira etapa do critério trifásico, à vista das circunstâncias do art. 59 do Estatuto Repressivo, o Magistrado a quo fixou a sanção base em 04 (quatro) anos de reclusão (mínimo legal).
+Em seguida, tendo em vista a certidão de antecedentes colacionada às fls. 50/54, reconheceu em desfavor do réu a agravante da reincidência, motivo pelo qual majorou a pena em 08 (oito) meses, tornando-a definitiva, à míngua de outras modificadoras, no patamar de 04 (quatro) anos e 08 (oito) meses de reclusão, regime inicialmente fechado (art. 33, § 2º, "a", CP), acrescida de 10 (dez) dias-multa.
+Em relação ao pleito de reconhecimento da atenuante disposta no art. 65, inc. Ill, "d" do Estatuto Repressivo, ressalto que o Sentenciante, na hipótese, não valeu-se da confissão extrajudicial para formar seu convencimento e fundamentar sua decisão, razão pela qual não subsistem motivos para aplicá-la.
+É certo que este Tribunal Superior possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no art. 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão haver sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação. Exemplificativamente: HC n. 358.679/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 31/8/2016.
+Confira-se, ainda, o disposto na Súmula n. 545 do STJ: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal."
+Na hipótese dos autos, porém, verifico que eventuais declarações do réu não foram utilizadas para embasar o decreto condenatório.
+Com efeito, da leitura da transcrição da sentença condenatória, pode-se observar que não há menção, entre as provas citadas para demonstrar a prática delitiva, a eventual confissão do ora agravante. Da mesma forma, o acórdão impugnado registra apenas que a autoria foi comprovada pelos depoimentos das testemunhas e da vítima, bem como pelos demais elementos probatórios, "principalmente ao fato dos bens subtraídos terem sido apreendidos em poder do acusado" (fl. 299).
+Afastado o reconhecimento da atenuante da confissão, fica prejudicado o pleito de sua compensação com a agravante da reincidência.
+O acórdão impugnado, portanto, está em consonância com a jurisprudência desta Corte Superior e deve ser mantido.
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Em tempo, determino o envio de cópia dos autos ao Juízo da condenação, a fim de que sejam tomadas as providências cabíveis para a execução imediata da pena imposta ao agravante. A determinação deve ser desconsiderada caso o agravante cumpra, atualmente, a reprimenda.
+Publique-se e intimem-se.
