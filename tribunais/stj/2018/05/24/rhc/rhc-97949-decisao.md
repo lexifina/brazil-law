@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n.º 2041024-47.2018.8.26.0000).
+Consta dos autos que o recorrente foi preso em flagrante, em 06/07/2017, sendo convertida a custódia em preventiva e oferecida a denúncia, pela suposta prática dos crimes tipificados nos arts. 33, caput, e 35, caput, c/c o art. 40, VI, todos da Lei nº 11.343/2006. Eis o teor do decreto prisional (fls. 94/92):
+Pelo(a) MM. Juiz(a) foi dito que: Havendo prova da existência do crime e indícios suficientes de autoria, a manutenção do acusado no cárcere é medida que se impõem a fim de se garantir a ordem pública, máxime perante a sociedade local e diante da situação atual do País, em que tanto se discute a questão da impunidade, sendo prematura a liberação sem a disseminação dos efeitos da conduta perpetrada. Vale citar: ".. o conceito de ordem pública não se limita só a prevenir a reprodução de fatos criminosos, mas também a acautelar o meio social e a própria credibilidade da justiça em face da gravidade do crime e de sua repercussão.. " ( Processo Penal - ed. Atlas - [NOME] ). Desta feita, observadas as disposições do art. 312 do Código de Processo Penal, com a redação dada pela Lei 12.403/11, converto a prisão em flagrante em prisão preventiva, com fulcro no art. 310 do Código de Processo Penal, ressalvando, por ora. a inadequação das medidas cautelares diversas da prisão ante o acima exposto. Expeça-se mandado de prisão preventiva contra o acusado.
+Foi proferida sentença condenatória, na qual o recorrente foi condenado, como incurso no art. 33, caput, c/c art. 40, VI, ambos da Lei 11.343/06, à pena de 6 anos e 8 meses de reclusão, em regime inicial fechado, e ao pagamento de 666 dias-multa, bem como no art. 35, c/c art. 40, VI ambos da Lei nº 11.343/06, à pena de 4 anos de reclusão, em regime inicial fechado, e ao pagamento de 933 dias-multa. Na ocasião, foi vedado o apelo em liberdade nos seguintes termos (fls. 15/16):
+O réu não poderá recorrer em liberdade, pois persistem os motivos que ensejaram a conversão da prisão em flagrante em preventiva. Com efeito, o crime de tráfico atenta seriamente contra a saúde pública, não sendo o caso de colocá-lo em liberdade neste momento. É cediço que a sociedade local tem enfrentado sérios riscos em razão da atuação de traficantes. A manutenção de sua custódia visa primar pela ordem e saúde públicas e, agora, também para assegurar o cumprimento da lei penal, haja vista a condenação imposta, a ser cumprida em regime inicial fechado. Recomende-se-o, portanto, no presídio em que se encontra recolhido.
+Irresignada, a defesa ajuizou prévio writ perante o Tribunal de origem, que denegou a ordem, em acórdão assim ementado (fl. 183):
+Habeas corpus Tráfico de entorpecente e associação para o tráfico.
+Possibilidade de indeferimento liminar pela Turma Julgadora - Interpretação a que conduzem o artigo 93, inciso XV da Constituição Federal, artigo 663 do Código de Processo Penal e artigo 248 do Regimento Interno do Tribunal de Justiça do Estado de São Paulo.
+Impugnação a sentença condenatória recorrível, objetivando o reconhecimento do direito de recorrer em liberdade - Réu foragido, cuja prisão foi corretamente decretada para assegurar a aplicação da lei penal.
+Writ denegado.
+Nesta via, alega o recorrente que é menor de 21 anos de idade, bem como que não há comprovação da mercancia de entorpecentes, pois não foi localizada qualquer substância ilícita com o recorrente, mas apenas a quantia de R$ 20,00.
+Assere que, em interrogatório, negou a prática do crime de tráfico de drogas, afirmando que estava de passagem no local, bem como que é usuário de drogas do tipo maconha.
+Entende que as provas dos autos são insuficientes para manter um decreto condenatório de 10 anos e 8 meses, invocando esses fundamentos em sede recursal.
+Alega que a vedação ao apelo em liberdade "se afigura como constrangimento ilegal, uma vez que restou averiguado que o Paciente é primário, não possui maus antecedentes, não se vislumbrou como participante de organização criminosa, tem residência fixa onde reside com os pais e principalmente, na data dos fatos e atualmente ainda é menor de 21 anos".
+Ressalta que a negativa do apelo em liberdade foi apresentada de forma genérica, sendo certo que a simples invocação da gravidade genérica do delito não é suficiente para a segregação cautelar com fundamento na garantia da ordem pública.
+Requer, liminarmente e no mérito, a concessão do direito de recorrer em liberdade.
+É o relatório.
+Decido.
+Os presentes autos foram distribuídos por dependência ao HC 443.551/SP, impetrado em favor do ora recorrente, visando à reforma do mesmo acórdão do Tribunal de origem, que não lhe concedeu o direito de recorrer em liberdade.
+Ocorre que, enquanto o HC nº 443.551/SP foi distribuído nesta Corte em 04/04/2018, o presente RHC teve sua distribuição efetuada, posteriormente, em 08/05/2018.
+Sendo assim, este recurso caracteriza reiteração daquele habeas corpus, de maneira que é inviável o prosseguimento de dois feitos com o mesmo objeto. Impende mencionar que o HC nº 443.551/SP encontra-se em fase mais avançada, com remessa ao Ministério Público para parecer.
+Constata-se, assim, a inadmissível reiteração, conforme a jurisprudência pacífica deste Tribunal, da qual é exemplo o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONCUSSÃO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. DECISÃO FUNDAMENTADA. ILEGALIDADE NÃO EVIDENCIADA. ANÁLISE DE TESES AVENTADAS APENAS NESTA OPORTUNIDADE. INDEVIDA INOVAÇÃO RECURSAL. PRECEDENTES DESTE STJ.
+1. Não se pode acoimar de ilegal a elevação da reprimenda básica, quando a exasperação encontra-se devidamente justificada nas singularidades do caso concreto.
+2. Questões aventadas no regimental e que não foram objeto do habeas corpus, mostram-se verdadeira inovação recursal, e, portanto, inviáveis de serem enfrentadas nesse momento processual em razão da ocorrência da preclusão.
+CIRCUNSTÂNCIA AGRAVANTE DO ART. 70, ALÍNEA L, DO CPM. ALEGADO BIS IN IDEM. MATÉRIA JÁ DECIDIDA. REITERAÇÃO DE PEDIDO. PLEITO INADMISSÍVEL. RECURSO DESPROVIDO.
+1. Verifica-se que o pretenso afastamento da agravante prevista no art. 70, alínea l, do CPM, já foi dirimido em agravo de instrumento interposto pelo agravante, configurando reiteração de pedido, situação a impedir o conhecimento da irresignação nesse ponto.
+2. Agravo Regimental improvido.
+(AgRg no HC 180.376/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/12/2014, DJe 02/02/2015)
+Diante do exposto, com fulcro no art. 34, inciso XVIII, alínea "a", do RISTJ, não conheço do presente recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Sem recurso, à origem.
