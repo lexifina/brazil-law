@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido em juízo de retratação pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 262):
+AÇÃO ACIDENTÁRIA - APELAÇÃO INTERPOSTA PELO INSS - AUSÊNCIA DE RECOLHIMENTO DO PORTE DE REMESSA E RETORNO OBRIGATORIEDADE POR IMPOSIÇÃO DA LEI ESTADUAL - DESERÇÃO CONFIGURADA.
+Opostos embargos de declaração, foram acolhidos, somente para a fixação de honorários (fls. 191/201).
+Aponta o recorrente violação dos arts. 27 e 475, § 2º, do CPC/73. Sustenta, em síntese, que: (I) nos termos da legislação apontada, é medida de direito que seja analisada a remessa obrigatória, pois o valor da condenação, após a fixação da correção monetária e dos honorários, deve ultrapassar o limite legal, bem como (II) a Autarquia tem direito ao recolhimento do porte de remessa e retorno ao final da demanda, sendo indevida, portanto, a deserção decretada em seu recurso voluntário.
+Contrarrazões às fls. 243/247.
+É o relatório.
+Inicialmente, com relação ao art. 475, § 2º, do CPC/73, nota-se que o referido dispositivo legal não contém comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Contudo, no que remanesce, a irresignação merece acolhimento.
+Isso porque a Primeira Seção do Superior Tribunal de Justiça, no julgamento do Tema n.º 16, vinculado ao Recurso Especial Repetitivo n.º 1.101.727/PR, firmou entendimento no sentido de que, apesar de o INSS não ser isento de preparo em ações de cunho acidentário promovidas perante à Justiça Estadual, nos termos da Súmula 178/STJ, não há exigência de prévio depósito para fins de interposição de recurso, podendo ser postergado o seu recolhimento para o final da demanda, caso a autarquia fique vencida, a teor do art. 27 do CPC/73. Confira-se:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. DIREITO PROCESSUAL CIVIL. AUTARQUIA PREVIDENCIÁRIA. PREPARO. RECOLHIMENTO PRÉVIO. DESNECESSIDADE. DESERÇÃO. INOCORRÊNCIA.
+1. Sendo o Instituto Nacional do Seguro Social - INSS autarquia federal equiparada em prerrogativas e privilégios à Fazenda Pública, nos termos do artigo 8º da Lei nº 8.620/93, não lhe é exigível o depósito prévio do preparo para fins de interposição de recurso, podendo efetuá-lo ao final da demanda, se vencido (Código de Processo Civil, artigo 27).
+2. Recurso especial provido. Acórdão sujeito ao procedimento do artigo 543-C do Código de Processo Civil.
+(REsp 1.101.727/PR, Rel. Ministro HAMILTON CARVALHIDO, CORTE ESPECIAL, julgado em 02/08/2010, DJe 23/08/2010)
+Diante do exposto, dou parcial provimento ao recurso especial, e anulo o acórdão do Tribunal a quo, com a devolução dos autos à origem, para julgamento do recurso voluntário interposto pelo INSS.
+Publique-se.
