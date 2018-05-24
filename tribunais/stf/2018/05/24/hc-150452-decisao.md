@@ -1,0 +1,20 @@
+Decisão
+    Trata-se de Habeas Corpus, com pedido de medida liminar, impetrado contra decisão proferida pelo Ministro JORGE MUSSI, do Superior Tribunal de Justiça, que indeferiu provimento cautelar nos autos do RHC 74.752/SP.
+    Consta dos autos, em síntese, que o paciente foi pronunciado pela suposta prática do crime de homicídio qualificado na forma tentada (art. 121, § 2º, II, c/c art. 14, II, do Código Penal). Asseverou o Ministério Público que o acusado tentou matar a vítima, por motivo fútil, mediante a conduta de sacar um revólver municiado, a fim de efetuar disparos, sem lograr êxito por ter sido desarmado pela vítima (Doc. 5).
+    Assentou o magistrado de origem a necessidade da custódia cautelar para garantia da ordem pública, por conveniência da instrução criminal e para assegurar a aplicação da lei penal, aludindo à fuga do paciente do distrito da culpa (Doc. 7 – fl. 2). A sentença de pronúncia manteve a prisão preventiva, destacando a gravidade concreta do delito e a periculosidade do agente, evidenciada pelo registro de outro processo penal por homicídio em seu desfavor (Doc. 9 – fl. 10)
+    Irresignada, a defesa impetrou Habeas Corpus junto ao Tribunal de Justiça do Estado de São Paulo, que denegou a ordem, e, na sequência, interpôs Recurso Ordinário em Habeas Corpus, que teve o pedido de liminar indeferido no âmbito do no Superior Tribunal de Justiça.
+    Nesta ação, o impetrante sustenta, em suma: (a) excesso de prazo da prisão preventiva, visto que o paciente está segregado desde 19/12/2011 e está na iminência de completar o integral cumprimento, em reclusão, da pena a que poderá vir a ser condenado; (b) ausência dos pressupostos autorizadores da custódia cautelar, pois baseada na gravidade abstrata do delito; (c) demora no julgamento do Recurso Ordinário em Habeas Corpus no Superior Tribunal de Justiça, pois está concluso ao Relator desde setembro de 2016. Requer, liminarmente, o reconhecimento da “garantia constitucional de responder ao processo em liberdade, determinando, por consequente, a urgente expedição de competente Alvará de Soltura”, provimento a ser confirmado pela Primeira Turma.
+    É o relatório. Decido.
+    Destaco, inicialmente, que a presente impetração se volta contra decisão monocrática de Relator que indeferiu provimento cautelar (RHC 74.752/SP, Rel. Min. JORGE MUSSI). Conforme informação obtida junto ao sítio eletrônico do Superior Tribunal de Justiça, em 15/5/2018 sobreveio o julgamento de mérito do Recurso Ordinário em Habeas Corpus pela Quinta Turma daquela Corte, o que prejudica a análise da pretensão, na linha do entendimento firmado pelo Supremo Tribunal Federal. À guisa de mera exemplificação:
+    1. O posterior julgamento do mérito do writ impetrado em Tribunal a quo prejudica o habeas corpus submetido ao STF.
+    2. Writ prejudicado, com revogação da liminar anteriormente deferida.
+    (HC 127.635, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. EDSON FACHIN, Primeira Turma, DJe de 19/10/2016)
+    De todo modo, convém registrar as informações prestadas pelo Juízo da 1ª Vara Criminal do Foro de Sertãozinho, que não revelam quadro de flagrante ilegalidade apto a justificar a intervenção desta CORTE(Doc. 21):
+    Em 24/01/2018 foi constatado que o paciente encontrava-se em liberdade indevidamente, tendo sido colocado em liberdade na data de 23/06/2017 quando do cumprimento de alvará de soltura de outro processo (fls. 300, doc. 10). Em 05/02/2018 foi expedido novo mandado de prisão, mas ainda não cumprido, estando, portanto, o réu atualmente foragido (fls. 309, doc. 11).
+    Foi designado o dia 15/03/2018 para julgamento do réu perante o tribunal do júri (fls. 337/340, doc. 12), contudo, considerando a ausência do defensor, o plenário foi redesignado para o dia 24/05/2018 (fls. 404/405, doc. 13). Atualmente, os autos encontram-se aguardando a sessão plenária, designada para dia 24/05/2018.
+    Diante do exposto, nos termos do art. 21, IX, do Regimento Interno do Supremo Tribunal Federal, julgo PREJUDICADO O PEDIDO.
+    Publique-se.
+    Brasília, 24 de maio de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
