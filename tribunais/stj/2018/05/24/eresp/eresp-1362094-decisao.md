@@ -1,0 +1,59 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Divergência interpostos por [NOME], com base nos arts. 1.043 e seguintes do Código de Processo Civil de 2015 e 266 do Regimento Interno desta Corte, contra acórdão proferido pela 2ª Turma, assim ementado (fls. 855/861e):
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. DECISÃO OMISSA SOBRE A INVERSÃO DOS ÔNUS DE SUCUMBÊNCIA. SÚMULA 453/STJ. AUSÊNCIA DE BASE DE CÁLCULO. COBRANÇA. INVIABILIDADE. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Nos termos da Súmula 453/STJ, "os honorários sucumbenciais, quando omitidos em decisão transitada em julgado, não podem ser cobrados em execução ou em ação própria".
+2. A inversão da verba honorária, além da questão referente à omissão no título executivo, fica de qualquer modo prejudicada, haja vista que foi arbitrada sobre o valor da condenação e, com o provimento do nobre apelo da edilidade, não subsiste a referida base de cálculo. Precedentes do STJ.
+3. A revisão dos honorários advocatícios fixados no presente incidente implica reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ). Excepciona-se apenas a hipótese de valor irrisório ou exorbitante, o que não se configura neste caso.
+4. Agravo Regimental não provido.
+Opostos embargos de declaração, foram rejeitados (fls. 895/900e).
+Alega o Embargante a existência de dissenso caracterizado pelo precedente formado pela 1ª Turma desta Corte, no julgamento do AgRg no REsp 1.123.613/RJ, cuja ementa transcrevo:
+AGRAVOS REGIMENTAIS EM RECURSO ESPECIAL. CRUZADOS NOVOS RETIDOS. PLANO COLLOR. CORREÇÃO MONETÁRIA. MATÉRIA JULGADA PELO REGIME DO ARTIGO 543-C DO CÓDIGO DE PROCESSO CIVIL E DA RESOLUÇÃO Nº 08/2008 DO SUPERIOR TRIBUNAL DE JUSTIÇA. HONORÁRIOS ADVOCATÍCIOS. INVERSÃO DA SUCUMBÊNCIA. PRECEDENTES.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp nº 1.070.252/SP, sob o rito do artigo 543-C do Código de Processo Civil, firmou entendimento de que o IPC é o índice a ser utilizado para a correção monetária dos ativos retidos até a transferência destes para o Banco Central do Brasil, sendo certo que, após a data da referida transferência, e no mês de abril de 1990, para as contas de poupança com aniversário na segunda quinzena, incide o BTNF, na forma do artigo 6º, parágrafo 2º, da Lei nº 8.024/90.
+2. "Se o acórdão, em dando provimento integral a apelação, reverteu o dispositivo da sentença reformada, sem fazer referência aos ônus da sucumbência, é de se entender tenha, por igual, invertido a condenação imposta na decisão reformada" (EREsp n. 53.191/SP, Corte Especial, Relator Ministro Humberto Gomes de Barros, in DJ 28/2/2000). Precedentes.
+3. Agravos regimentais improvidos.
+(AgRg no REsp 1123613/RJ, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA TURMA, julgado em 14/09/2010, DJe 25/10/2010)
+Nas razões recursais, sustenta, em síntese:
+(i) há divergência jurisprudencial quanto à inversão automática do ônus de sucumbência e à aplicação do enunciado da Súmula n. 453/STJ;
+(ii) "mesmo após a edição da Súmula 453, as Turmas e Seções do STJ continuaram a julgar pela inversão automática dos ônus sucumbenciais, em caso de reforma integral e meritória da sentença" (fl. 911e);
+(iii) há dissídio acerca da possibilidade de prosseguimento parcial da execução quando não subsiste a condenação principal, que servia de base de cálculo para os honorários de sucumbência (fl. 916e);
+ (iv) no REsp 571.974/MG, "a Primeira Turma entendeu que, em caso de insubsistência da condenação principal, que servia de base de cálculo para os honorários de sucumbência, a execução de honorários deveria prosseguir, alterando-se sua base de cálculo para o valor da causa" (fl. 916e);
+(v) com amparo no art. 927, § 3º, do Código de Processo Civil de 2015, cabível a modulação temporal dos efeitos da mudança jurisprudencial, porquanto "o acórdão executado pelo embargante transitou em julgado no dia 13/10/2009 e a execução foi promovida em 10/02/2010. Ambas as datas (formação do título executivo e ajuizamento da execução) são anteriores à edição da Súmula 453 pelo STJ, ocorrida apenas em 24/08/2010"; e
+(vi) "à época da prolação do acórdão executado, a Corte Especial do STJ entendia que a oposição de embargos declaratórios para explicitar a inversão dos honorários de sucumbência era opcional. De boa-fé, o embargante confiou legitimamente neste entendimento e, por isso, não pode ser agora penalizado com a extinção da execução e ainda ser condenado a pagar honorários" (fl. 921e, destaque do original).
+Requer o provimento dos presentes embargos para a uniformização da jurisprudência, reconhecendo-se a prevalência dos acórdãos paradigmas, a fim de determinar-se o prosseguimento da execução, utilizando-se como base de cálculo o valor da causa ou da condenação (fl. 923e).
+Impugnação às fls. 1.019/1.032e.
+A Corte Especial confirmou a decisão que indeferiu liminarmente os Embargos de Divergência em face de acórdãos mencionados à fl. 1.047e, em acórdão assim ementado (fls. 1.100/1.110e):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. SÚMULA 168 e 158 DO STJ. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO INTERNO DESPROVIDO.
+I - Incidência da súmula 168/STJ, que preconiza não caber "embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+II - In casu, o recurso especial foi julgado sob a égide do CPC/73, existindo entendimento sumulado no sentido de que: "Os honorários sucumbenciais, quando omitidos em decisão transitada em julgado, não podem ser cobrados em execução ou em ação própria." (Súmula 453/STJ).
+III - Também ausente a similitude fática entre aresto paradigma e embargado, em razão de que no paradigma citado houve a oposição de embargos de declaração para delimitar a questão da sucumbência.
+IV - A súmula 158/STJ preconiza não servir para justificar dissídio o acórdão proferido por turma que não possui competência regimental sobre a matéria, em virtude da finalidade precípua dos embargos de divergência de unificação de jurisprudência, evitando-se reiteração de decisões díspares em casos idênticos.
+Agravo Interno desprovido.
+Em consequência, remanesce para análise apenas a divergência quanto ao aresto proferido pela Primeira Turma no AgRg no REsp 1.123.613/RJ.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do disposto nos arts. 34, XVIII e 266-D, do Regimento Interno desta Corte Superior, o Relator está autorizado a indeferir, liminarmente, os Embargos de Divergência quando intempestivos ou não configurado o dissenso ou negar-lhes provimento caso a tese deduzida no recurso seja contrária a fixada em julgamento de recurso repetitivo ou de repercussão geral, ou ainda, em incidente de assunção de competência, a Súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, a jurisprudência dominante acerca do tema.
+No caso em tela, o acórdão embargado assentou-se nos seguintes fundamentos:
+1) "o Tribunal de origem consignou que o provimento do recurso do Município de Itapecerica/MG, mesmo não havendo menção expressa no respectivo acórdão, implicou a inversão automática dos ônus de sucumbência. Ocorre, porém, que a situação narrada também se amolda à previsão da Súmula 453/STJ, que cristalizou o entendimento de que "os honorários sucumbenciais, quando omitidos em decisão transitada em julgado, não podem ser cobrados em execução ou em ação própria"" (fl. 858e);
+2) "no caso específico dos autos a inversão da verba honorária fica de qualquer modo prejudicada, haja vista que foi arbitrada sobre o valor da condenação e, com o provimento do nobre apelo da edilidade, não subsiste a referida base de cálculo" (fl. 859e); e
+3) "a revisão dos honorários advocatícios fixados no presente incidente implica reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ). Excepciona-se apenas a hipótese de valor irrisório ou exorbitante, o que não se configura neste caso" (fl. 855e).
+Cotejados acórdãos recorrido e paradigma, temos em comum que: a) o Recorrente havia sido condenado a pagar honorários advocatícios sobre o valor da condenação; b) o recurso foi provido; c) o acórdão foi omisso quanto à inversão da sucumbência.
+Contudo, o inconformismo não prospera porquanto, no acórdão ora embargado, houve discussão acerca da base de cálculo como consequência da inversão da sucumbência, o que não foi objeto do acórdão paradigma e caracteriza a ausência de prequestionamento e afasta a similitude fático-jurídica necessária à configuração da divergência.
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. BEM OBJETO DE ALIENAÇÃO FIDUCIÁRIA. ADMISSIBILIDADE DA PENA DE PERDIMENTO. ALEGATIVA DE AUSÊNCIA DE PARTICIPAÇÃO DO ARRENDATÁRIO NO ILÍCITO. QUESTÃO NÃO DEBATIDA NO ACÓRDÃO EMBARGADO. AUSÊNCIA DE PREQUESTIONAMENTO. FALTA DE SIMILITUDE FÁTICO-JURÍDICA. INADMISSIBILIDADE.
+1. O embargante sustenta que o acórdão impugnado divergiu do entendimento adotado pela Segunda Turma nos autos do REsp 1.313.331/PR. Afirma que, enquanto o acórdão embargado permite a aplicação da pena de perdimento sem qualquer análise da prática de ilícito por parte do arrendatário, o aresto paradigma só aplica a aludida pena na hipótese de participação no ilícito.
+2. Registre-se, de pronto, que, se a intenção do recorrente é discutir a existência ou não de participação do arrendatário no ilícito, tem-se que os embargos de divergência não merecem conhecimento, na medida em que o acórdão embargado não enfrentou tal questão, já que se resumiu a afirmar pela possibilidade de perdimento de bens objeto de alienação fiduciária.
+(..)
+4. Embargos de divergência não conhecidos.
+(EREsp 1240899/SC, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 14/06/2017, DJe 30/06/2017)
+Ademais, incabível a interposição de embargos de divergência para discussão acerca da fixação de honorários advocatícios, porquanto na análise do tema são consideradas as peculiaridades de cada caso concreto.
+Essa a orientação pacífica desta Corte, espelhada no seguinte aresto:
+PROCESSO CIVIL. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS COLACIONADOS COMO DIVERGENTES. PRECEDENTES.
+1. É firme a jurisprudência no sentido de que não cabem embargos de divergência para discutir a verba honorária fixada, notadamente porque se trata de questão decidida com base nas peculiaridades de cada caso.
+2. Precedentes: AgRg nos EREsp 1.162.717/RS, Rel. Min. Cesar Asfor Rocha, Corte Especial, DJe 27.6.2011; AgRg nos EREsp 1.195.736/SP, Rel. Desembargador Haroldo Rodrigues (convocado do TJ/CE), Terceira Seção, DJe 3.8.2011; AgRg nos EREsp 1.100.730/CE, Rel. Min. Humberto Martins, Primeira Seção, DJe 30.6.2011.
+3. Na hipótese, não ficou caracterizado o dissenso interpretativo entre os arestos confrontados. Apesar de apresentarem resultados diversos, e tratando da incidência ou não da Súmula 7 do STJ, suas conclusões levam em conta, necessariamente, a situação particular de cada caso concretamente, o que afasta a similitude fática entre os julgados.
+Agravo regimental improvido.
+(AgRg nos EREsp 1270937/RS, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 28/06/2012, DJe 16/08/2012).
+Na mesma linha, destaco os seguintes julgados: AgRg nos EREsp 1.166.734/RS, 1ª S., Rel. Min. Napoleão Nunes Maia Filho, DJe de 06.04.2015 e AgRg nos EREsp 1125618/RJ, 2ª S., Rel. Min. Paulo de Tarso Sanseverino, DJe de 14.10.2013.
+Isto posto, com fundamento nos arts. 34, XVIII e 266, § 3º, do Regimento Interno desta Corte, INDEFIRO LIMINARMENTE os Embargos de Divergência.
+Publique-se. Intimem-se.
