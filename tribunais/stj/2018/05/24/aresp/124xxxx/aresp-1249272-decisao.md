@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA JOSE DE FREITAS E OUTROS, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado:
+PROCESSUAL CIVIL. ADMINISTRATIVO. ANISTIA. LEI 8.878/94. DECRETO 1.499/95. SERVIDOR PÚBLICO CIVIL ANISTIADO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS PELO PERÍODO EM QUE O SERVIDOR ESTEVE AFASTADO. DESCABIMENTO.
+1. A norma da Lei 8.878/94 garantiu, tão-somente, o direito à readmissão dos demitidos. O lapso temporal que medeou entre o comando legal e a sua efetivação foi regulado pelo citado art. 3º desse estatuto, ao dispor que a reabsorção desses trabalhadores pelo poder público se efetivaria em conformidade com a disponibilidade orçamentária e financeira da Administração.
+2. Por tratar-se de legislação excepcional, que visa equalizar o processo político de reestruturação do Estado, com regulação específica quanto à condição de anistiado, não cabe ao Judiciário estipular direitos não previstos, sob pena de ofensa ao princípio da reserva legal.
+3. Reclamar, a título de danos materiais, o somatório das verbas que o demitido deixou de auferir no período de afastamento implica perseguir o pagamento das diferenças salariais havidas, direito não contemplado pelo legislador. Da mesma forma com relação a pretensão de indenização por danos morais porque não contemplado.
+4. Apelação da parte autora desprovida.
+Foram rejeitados os embargos declaratórios opostos.
+No recurso especial, o recorrente aponta violação do art. 535 do CPC/73, defendendo que, mesmo instado a tanto, o Tribunal de origem "deixou de levar em consideração os princípios da razoabilidade e proporcionalidade, expressamente previstos na Lei nº 9.784/99" (fl. 316).
+No mérito, sustenta que o acórdão negou vigência aos arts. 186 e 927 do Código Civil, bem como ao art. 2º da Lei nº 9.784/99.
+Afirma que:
+Ora, como é cediço, a Administração Pública Federal deve obedecer aos princípios da razoabilidade e proporcionalidade (art. 2º da Lei nº 9.784/99), de modo que não basta apenas cumprir a lei, é preciso atuar de modo a coibir excessos, por vezes não previstos pelo legislador.
+À luz destes princípios é que o retardamento excessivo da recorrida, in casu por 14 (catorze) anos, em readmitir os recorrentes ao cargo anteriormente ocupado, inequivocamente, data venia, gerou prejuízos de ordem moral e material, estes facilmente detectáveis pelos salários que deixaram de receber ao longo dos anos de espera e angústia. Repita-se que esse retardamento foi decorrente de ato ilícito praticado pela recorrida, reconhecido por ela própria. (fls. 317-318)
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com fundamento na Súmula nº 83/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do Código de Processo Civil de 1973, diante do fenômeno da ultra-atividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passo ao exame do recurso especial.
+Não merece reparos a decisão ora guerreada, porquanto o acórdão encontra-se em consonância com a jurisprudência desta Corte Superior, a qual é firme no sentido de que descabe o pagamento de indenização referente a atraso na reintegração de servidor anistiado nos termos da Lei nº 8.878/94.
+Neste sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. ANISTIA. LEI 8.878/1994. INDENIZAÇÃO. DEMORA NA REINTEGRAÇÃO. PRESCRIÇÃO. TERMO INICIAL. DECRETOS 1.498 E 1.499 DE 1995.
+1. Na presente demanda busca-se a condenação da União ao pagamento de indenização por danos morais e materiais decorrentes da demora da Administração em reintegrar a recorrente ao cargo anteriormente ocupado, não obstante o reconhecimento de sua condição de anistiado, nos termos da Lei 8.878/1994.
+2. O marco inicial para a contagem do lustro prescricional é a publicação dos Decretos 1.498 e 1.499 de 1995, que suspenderam a anistia concedida à parte recorrente.
+3. Ocorre que, consoante entendimento do STJ, descabe o pagamento de indenização referente a atraso na reintegração de servidor anistiado nos termos da Lei 8.878/94. Com efeito, nos casos como o da espécie - em que se busca reparação por danos materiais e morais decorrente da demora da Administração em reintegrar o recorrente ao cargo anteriormente ocupado, não obstante o reconhecimento de sua condição de anistiado, nos termos da Lei 8.878/94, por meio de ação ajuizada em 2014 - a pretensão está prescrita. Precedentes do STJ.
+4. Recurso Especial não provido.
+(REsp 1684079/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/09/2017, DJe 19/12/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DEMISSÃO DO BANCO MERIDIONAL DO BRASIL SA. ANISTIA. LEI 8.878/94. INDENIZAÇÃO. PRESCRIÇÃO. DECRETO 20.910/32. OCORRÊNCIA. REMUNERAÇÃO EM CARÁTER RETROATIVO. IMPOSSIBILIDADE. SÚMULA 83/STJ. INCIDÊNCIA. PRECEDENTES.
+1. O acórdão recorrido encontra-se em consonância com o entendimento deste Tribunal Superior, segundo o qual prescreve em cinco anos a ação objetivando indenização por eventuais prejuízos decorrentes de demissão posteriormente reconhecida como ilegal, contados da data em que o servidor foi desligado, nos termos do art. 1º do Decreto 20.910/1932.
+2. "De acordo com o art. 6º da Lei n. 8.878/94, "a anistia a que se refere esta Lei só gerará efeitos financeiros a partir do efetivo retorno à atividade, vedada a remuneração de qualquer espécie em caráter retroativo". Dessa forma, se a própria lei de regência veda a remuneração de qualquer espécie em caráter retroativo, não há prejuízo a ser reparado a título de danos morais ou materiais em decorrência de eventual retardo da União na concessão da anistia" (AgRg no REsp 1.452.718/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 12/08/2014, DJe 26/08/2014).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 607.461/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/08/2017, DJe 31/08/2017)
+Desta forma, aplica-se, à espécie, o enunciado da Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea "a" do permissivo constitucional.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
