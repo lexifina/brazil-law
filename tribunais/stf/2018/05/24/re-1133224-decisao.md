@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Ministério Público Federal do interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+    “PENAL E PROCESSUAL PENAL. SUPOSTA PRÁTICA DE CRIME DO ARTIGO 334 DO CÓDIGO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA JURÍDICA. PORTARIA MF 75/2012. DÉBITO TRIBUTÁRIO INFERIOR AO TETO DE RELEVÂNCIA ADMINISTRATIVA. EXCLUDENTE DE TIPICIDADE.
+    1. Na linha da orientação jurisprudencial, aplica-se o princípio da insignificância jurídica, como excludente ao patamar considerado irrelevante pela Administração Pública para efeito de processamento de execuções fiscais de débitos inscritos como Dívida Ativa da União, atualmente no valor de R$20.000,00 (vinte mil reais), conforme Portaria 75/2012 do Ministério da Fazenda.
+    2. No caso de suposta prática de delito capitulado no artigo 334 do Código Penal, o cálculo do montante do crédito tributário relativo às mercadorias estrangeiras importadas sem regularidade fiscal, de acordo com o inciso III do artigo 2º da Lei 10.865/2004, deve levar em consideração apenas o Imposto de Importação (II) e o Imposto sobre Produtos Industrializados (IPI), sem computar as quantias devidas a título de COFINS E PIS.
+    3. Afeiçoando-se a hipótese dos autos a esses parâmetros, uma vez que o montante dos tributos federais iludidos é inferior ao limite mínimo de relevância administrativa, está-se diante de conduta atípica.
+    4. Eventual reiteração criminal não importa o afastamento da tese despenalizante, porquanto o reconhecimento da bagatela não pressupõe a análise de circunstâncias subjetivas, sendo aferida apenas em função de aspectos objetivos referentes ao delito perpetrado.” (fls. 209/210 e-STJ – anexo 3)
+    Opostos embargos de declaração, foram rejeitados.
+    Nas razões do apelo sustenta-se contrariedade aos artigos 5º, caput e incisos XXXIX, XL e LIV, 48, inciso VIII, 62, § 1º, inciso I, alínea ‘b’, 87, parágrafo único, inciso II, e 150 , inciso II, da Constituição Federal.
+    Pretende, em suma, o provimento do recurso “para afastar a aplicação ao caso do princípio da insignificância, reformando-se o v. acórdão recorrido” (fl. 332 e-STJ – anexo 6).
+    Decido.
+    Não há como prosperar a irresignação do Parquet, uma vez que a Segunda Turma deste Supremo Tribunal, ao examinar o Habeas Corpus nº 155.347/PR, manejado contra o acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça que, em síntese, manteve a decisão do Relator que deu provimento ao recurso especial para reformar as decisões do Tribunal Regional Federal da 4ª Região que haviam absolvido o réu, ora recorrido, concluiu pela absolvição do acusado.
+    O acórdão do mencionado habeas corpus porta a seguinte ementa:
+    “Habeas corpus. Penal. Crime de descaminho (CP, art. 334). Trancamento da ação penal. Pretensão à aplicação do princípio da insignificância. Incidência. Valor inferior ao estipulado pelo art. 20 da Lei nº 10.522/02, atualizado pelas Portarias nº 75 e nº 130/2012 do Ministério da Fazenda. Preenchimento dos requisitos necessários. Ordem concedida. 1. No crime de descaminho, o Supremo Tribunal Federal tem considerado, para a avaliação da insignificância, o patamar de R$ 20.000,00, previsto no art. 20 da Lei nº 10.522/2002 e atualizado pelas Portarias nº 75 e nº 130/2012 do Ministério da Fazenda. Precedentes. 2. Na espécie, como a soma dos tributos que deixaram de ser recolhidos perfaz a quantia de R$ 19.750,41 e o paciente, segundo os autos, não responde a outros procedimentos administrativos fiscais ou processos criminais, é de se afastar a tipicidade material do delito de descaminho com base no princípio da insignificância. 3. Ordem concedida para se restabelecer o acórdão de segundo grau, no qual se manteve a sentença absolutória proferida com base no art. 397, inciso III, do Código de Processo Penal” (HC nº 155.347/PR, DJe de 7/5/18).
+    Assim, já tendo sido a ação penal objeto de decisão proferida pela Segunda Turma desta Corte, com a concessão da ordem para absolver o réu, descabe o reexame da questão no presente recurso extraordinário.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 24 de maio de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
