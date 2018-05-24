@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo fundado no CPC/73, interposto por Unilever Brasil Industrial Ltda., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 342):
+PROCESSUAL CIVIL. AGRAVO LEGAL. ART. 557, § Io, DO CPC. FUNDAMENTOS DA DECISÃO AGRAVADA INAFASTADOS.
+A decisão proferida tem embasamento legal, já que o Código de Processo Civil permite a prolação de decisão definitiva pelo Relator do processo, quando a jurisprudência já se posicionou a respeito do assunto em debate, em homenagem aos princípios da celeridade e da economia processuais.
+Mantenho a decisão proferida, já que não foram trazidos no agravo inominado argumentos suficientes para a mudança de posicionamento.
+Agravo inominado não provido.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 138 do CTN. Sustenta que faz jus ao benefício da denúncia espontânea, tendo em vista que houve o recolhimento dos valores declarados antes do início de qualquer procedimento administrativo.
+Parecer do Ministério Público Federal pelo desprovimento do agravo (fls. 435/438).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n.2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, a saber, "No ano de 2003, a impetrante apresentou a Declaração (retificadora) dos valores debatidos. O débito foi recolhido. Entretanto, anoto que a mesma não logrou comprovar que os valores se encontravam suspensos por liminar no mandado de segurança até a data do recolhimento, pois a r. sentença que julgou parcialmente procedente a ação mandamental apresenta apenas efeito devolutivo e não suspensivo" (grifo nosso) (fl. 340), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
