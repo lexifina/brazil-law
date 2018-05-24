@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 2/STJ. CORRETA IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO ORA AGRAVADA. IMPROBIDADE ADMINISTRATIVA. DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO COMO VIOLADO. INCIDÊNCIA DA SÚMULA 284/STF POR APLICAÇÃO ANALÓGICA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão prolatada pelo Tribunal de Justiça do Estado de São Paulo que negou admissibilidade a apelo manejado contra acórdão assim ementado (e-STJ fl. 2561):
+LITISPENDÊNCIA E RECEBIMENTO DA AÇÃO CIVIL PÚBLICA
+Descabida reapreciação. Há decisão anterior sobre tais questões. Preclusão inviabiliza rediscussão. Preliminares não conhecidas.
+CERCEAMENTO DE DEFESA
+Possível o julgamento antecipado da lide. Suficiente a documentação juntada. Questão de mérito calcada em fatos documentalmente comprovados prescinde de outras provas. Preliminar afastada.
+PRESCRIÇÃO
+Inocorrência. Prescrição nos termos do § 1º, 2, do art. 80 da Lei nº 922/02. Lapso prescricional não teve inicio com a assinatura do contrato por parte de [NOME], situação irregular perdurou por longo período. Prejudicial afastada.
+AÇÃO CIVIL PÚBLICA
+Inadmissível contrato de empresa responsável pela remoção e estadia de veículos apreendidos sem licitação. Conluio entre a Interbrás e Braspátio configurado. Ausência de prejuízo ao erário afasta ressarcimento. Caracterizado ato ímprobo a ensejar punição. Bem quantificada as reprimendas impostas aos recorrentes. Recurso do Ministério Público provido. Não providos os demais.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, aduz a parte ora Recorrente que a sentença é nula tendo em vista: (a) inexistência de dolo; (b) a dosimetria das penalidades não atendeu aos requisitos processuais; (c) houve prescrição; (d) deveria ter sido concedido efeitos infringentes aos embargos de declaração; (e) nulidade dos efeitos da coisa julgada; (f) inexistência de enriquecimento ilícito; (g) não houve apreciação do pedido de declaração de nulidade das portarias; (h) impossibilidade técnica da defesa preliminar; (i) desnecessidade de licitação; (j) não houve manifestação sobre o ato de improbidade atribuído ao ora Recorrente; e, (k) inexigilibidade de conduta diversa e inexistência de dolo. Pede, ao final, "a nulidade do processo pelo cerceamento de defesa, porque houve omissão e não esclarecimento nos embargos de declaração, sobre a não apresentação de defesa preliminar, efetivamente demonstrada, por reter o representante do Ministério Público, por meses, o processo, privando o Apelante do acesso para a sua defesa. A aplicação analógica de direito diante do julgamento realizado no Processo nº 2.811/2002, Acórdão da Câmara de Direito Público do Tribunal de Justiça de São Paulo, que reconheceu a inexistência de danos ao erário. A nulidade da r. sentença, frente ao que ficou esclarecido de forma indevida na decisão dos embargos de declaração, frente a impossibilidade, por ser inconstitucional e por contrariar decisões dos Tribunais e do Superior Tribunal de Justiça, a cassação da aposentadoria do servidor e apelante aposentado, sobretudo pelo princípio ou pela origem que a emanou. A impossibilidade jurídica da inicial frente a revogação das portarias e do contrato de permissão de serviço, com decisões transitadas em julgado ".. para anular, como efeito presente e futuro ex nunc, as Portarias nº 68/02 e nº 141/02, emanadas do então Delegado de Polícia Seccional, bem como o contrato de permissão de serviço público de remoção e guarda de veículos.." A absolvição do Apelante pela inexistência de dolo ou fraude, principalmente porque ficou demonstrado nos autos que não foi beneficiado de forma econômica por qualquer centavo, revestidos que foram os valores para o Estado" (e-STJ fl. 2717)
+As contrarrazões foram juntadas às e-STJ fls. 2750/2757
+Decisão de inadmissibilidade do recurso especial (e-STJ fls. 2764/2766).
+Agravo em recurso especial (e-STJ fls. 2772/2789).
+Contraminuta do agravo em recurso especial (e-STJ fls. 2857/2866)
+Parecer do Ministério Público Federal (e-STJ fls. 2903/2909).
+É o relatório. Decido.
+Incide o Enunciado Administrativo nº 2/STJ: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+Houve a correta impugnação do fundamento levado em consideração para a negativa de admissibilidade do recurso especial. Passo à análise do referido apelo.
+O recurso especial não merece ser conhecido.
+Isso porque não houve a indicação particularizada do dispositivo tido como violado, o que leva à incidência da Súmula 284/STF por aplicação analógica.
+No mesmo sentido:
+IMPROBIDADE ADMINISTRATIVA. TERMO DE AJUSTAMENTO DE CONDUTA CELEBRADO PARA SANAR IRREGULARIDADES CONSTATADAS PELO IBAMA. DESCUMPRIMENTO. ATO ÍMPROBO. VIOLAÇÃO DE PRINCÍPIOS DA ADMINISTRAÇÃO. ACÓRDÃO RECORRIDO QUE, APOIADO EM ANÁLISE DE PROVAS, CONSTATA A CONDUTA DOLOSA E CONCLUI PELA PRÁTICA DE IMPROBIDADE E PELA PROPORCIONALIDADE DAS SANÇÕES IMPOSTAS. REVISÃO OBSTADA PELA SÚMULA 7/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. AUSÊNCIA DE COTEJO ANALÍTICO QUANTO AO DISSÍDIO JURISPRUDENCIAL. INADMISSIBILIDADE DO RECURSO PELA ALÍNEA"C" DO ART. 105, III, DA CF. DISCUSSÃO DE ATO NORMATIVO NÃO COMPREENDIDO COMO LEI FEDERAL. INVIABILIDADE. ALEGAÇÃO DE OFENSA A DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF.
+1. No caso dos autos, o Tribunal de Justiça do Paraná, após análise de amplo acervo probatório, constatou que as condutas dos réus foram praticadas dolosamente, porquanto, apesar de terem assinado Termo de Ajustamento de Conduta, o descumpriram.
+2. Inviável a apreciação de ofensa a dispositivos constitucionais em Recurso Especial.
+3. Não se conhece de Recurso Especial quando ausente a indicação do dispositivo de lei federal que estaria sendo violado. Aplicação da Súmula 284 do STF.
+3. Instruções Normativas não estão compreendidas na expressão "Lei Federal" constante do art. 105, III, "a", de modo que inadequado o Recurso Especial para discussão de normas dessa natureza.
+4. Incidência da da Súmula 7/STJ, quanto às teses recursais de ausência da prática de improbidade administrativa, de falta de comprovação do dolo e de inobservância dos princípios da proporcionalidade e razoabilidade nas sanções aplicadas.
+5. Recurso especial não conhecido. (REsp 1409024/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/11/2014, DJe 09/12/2014)
+Incidente o teor da Súmula nº 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
