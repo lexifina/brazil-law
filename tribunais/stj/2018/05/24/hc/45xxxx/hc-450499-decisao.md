@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo.
+Narram os autos que o paciente foi preso em flagrante pela suposta prática do crime de tráfico de drogas, convertida a prisão em flagrante em preventiva (fls. 10/12 - Processo n. 0021990-67.2017.8.26.0320).
+Irresignada, a defesa impetrou habeas corpus, perante a Corte Estadual que, por sua vez, denegou a ordem, mantendo a segregação cautelar do acusado (fls. 36/41 - Habeas corpus n. 2228142-06.2017.8.26.0000).
+Daí a presente impetração, em que se alega constrangimento ilegal consistente na prisão preventiva do paciente, sustentando, para isso, a ausência de fundamentos idôneos a justificá-la.
+Aduz-se que  ..  sendo o requerente, primário, trabalhador, com residência fixa, com 30 anos de idade, sua LIBERDADE PROVISÓRIA não atentará contra a ordem pública, não perturbará a instrução criminal e não prejudicará a aplicação da lei penal. Não se apresentam as hipóteses que autorizam a Prisão Preventiva (fl. 6).
+Postula-se, então, a concessão liminar da ordem  ..  RELAXAMENTO DA PRISÃO EM FLAGRANTE QUE FOI CONVERTIDA EM PREVENTIVA , possibilitando que o Paciente possa responder o processo em liberdade, comparecendo mensalmente em Juízo, e demais atos processuais de praxe, devendo, portanto, ser expedido o competente ALVARÁ DE SOLTURA (fl. 9).
+É o relatório.
+Não há dúvidas de que o deferimento de liminar é medida excepcional, cabível apenas em hipóteses de patente ilegalidade.
+Extrai-se os fundamentos utilizados pelo magistrado de piso para justificar a prisão preventiva do paciente (fls. 45/48):
+ ..  O investigado foi preso em flagrante, haja vista ter sido surpreendido, por Policiais Militares após ter dispensado 26 porções de maconha e ainda foi abordado com outras duas porções de cocaína em pedra, tudo conforme o relato dos milicianos inquiridos nos autos, até mesmo tendo o indiciado confessado a posse do tóxico. Logo, percebe-se a ofensa que causa à ordem pública a concessão da liberdade provisória para quem se vê acusado de tão grave delito. Portanto, sendo regular a manutenção da prisão processual, justificável para garantia da ordem pública, inexistem motivos para sua revogação. Anote-se ainda que a decretação da prisão preventiva é adequada à gravidade do crime de tráfico.
+ ..
+O Tribunal de Justiça, corroborando o entendimento do juízo singular, pontuou que a conversão da prisão em flagrante em preventiva do paciente é legítima e se encontra suficientemente fundamentada pela decisão guerreada (fls. 09/11), estando ainda justificada não somente pela gravidade dos fatos, mas principalmente pela provável continuidade da conduta criminosa, se colocado em liberdade, servindo, portanto como garantia da ordem pública, para a conveniência da instrução criminal e aplicação da lei penal (fls. 38/39).
+In casu, verifico que, a despeito dos argumentos lançados pelas instâncias ordinárias, não há justificativa concreta a indicar de forma individualizada como a liberdade do paciente poderia colocar em risco a instrução criminal, tampouco a ordem pública.
+Fato é que, dado o mandamento legal de o juiz fundamentar a decretação ou manutenção da custódia na sentença condenatória (art. 387, § 1º, do CPP), o Juízo de primeiro grau deve demonstrar, nessa fase, com fundamento em dados concretos dos autos, a existência de pelo menos um dos fundamentos da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+Nesse cenário, entendo, então, estarem presentes os requisitos que justificam o deferimento da medida de urgência, por se revelar carente de fundamentação a decisão que decretou a custódia cautelar do paciente na sentença.
+Ante o exposto, defiro a liminar para que o paciente possa aguardar em liberdade o julgamento final do presente writ, sem prejuízo da aplicação de medidas cautelares diversas da prisão, fundamentadamente, pelo magistrado singular, ou da superveniência da execução provisória da pena.
+Comunique-se, com urgência.
+Encaminhem-se os autos ao Ministério Público Federal para manifestação.
+Publique-se.
