@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. AUXÍLIO-CESTA-ALIMENTAÇÃO. DEVOLUÇÃO DOS VALORES RECEBIDOS A TÍTULO DE ANTECIPAÇÃO DE TUTELA POSTERIORMENTE REVOGADA. JUROS DE MORA. NÃO INCIDÊNCIA. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DE CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Caixa de Previdência dos Funcionários dos Banco do Brasil, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fls. 484-485):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. AUXÍLIO CESTA ALIMENTAÇÃO. DEVOLUÇÃO DE VALORES RECEBIDOS EM RAZÃO DE PROVIMENTO JUDICIAL POSTERIORMENTE REVOGADO. POSSIBILIDADE JURÍDICA.
+1. No momento da concessão da tutela antecipada pleiteada na ação principal, encontravam-se presentes os requisitos a que alude o artigo 273 do Código de Processo Civil anterior, cujos termos eqüivalem aos do art. 300 da legislação processual atual, consubstanciados na verossimilhança das alegações do recorrente e a possibilidade de ocorrer dano de difícil reparação, em face do caráter alimentar do benefício previdenciário pleiteado.
+2. Entretanto, em que pese tenha a parte autora percebido os valores atinentes ao auxílio cesta- alimentação de boa fé, haja vista que o benefício previdenciário lhe foi pago em função da tutela antecipada, comando judicial este respaldado pelo entendimento jurisprudencial pacificado na época, tal provimento jurisdicional era de cunho provisório, de sorte que a sua revogação tem como conseqüência a restituição dos valores recebidos em decorrência da referida decisão judicial.
+3. Ressalte-se que a não devolução pela parte agravada dos valores recebidos em função do provimento judicial precitado e posteriormente revogado, importaria em enriquecimento sem causa, afrontando o disposto no artigo 885 do Código Civil.
+4. Ao interpretar o art. 297, parágrafo único, combinado com o art. 520, ambos do novel Código de Processo Civil, o magistrado deve se utilizar de princípios como o da proporcionalidade, levando em consideração ainda a natureza alimentar das verbas a serem restituídas, além da condição econômica do devedor que auferiu as vantagens em caráter
+provisório e de boa-fé.
+5. Assim, com base nos parâmetros precitados, e levando em conta a condição econômico-financeira da parte recorrida, mostra-se razoável o desconto mensal de 10% sobre o valor líquido da prestação do benefício, a fim de restituir os valores pagos em função da tutela antecipada posteriormente revogada, percentual aquele que também foi adotado pela Corte Superior, como limite proporcional para o caso examinado.
+6. Ademais, impende destacar que os juros moratórios só incidem quando restar irremediavelmente preclusa a decisão que confirmar a obrigação da parte agravante, autora da ação julgada improcedente, de restituir os valores recebidos em sede de tutela antecipada ou execução provisória, momento no qual a parte devedora restará constituída em mora, consoante o artigo 397 do Código Civil, o que inocorreu até o presente momento.
+Dado parcial provimento ao agravo de instrumento.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 513-521).
+Nas razões do recurso especial (e-STJ, fls. 593-599), a recorrente alegou violação aos arts. 394, 396 e 397 do Código Civil; 520, I e II, do Código de Processo Civil de 2015.
+Sustentou, em síntese, que o efeito natural do não cumprimento de uma obrigação de pagar no prazo previsto é a constituição em mora do respectivo devedor, importando na imediata incidência de juros.
+Defendeu a aplicação dos juros de mora sobre os valores a serem ressarcidos desde o trânsito em julgado, sob pena de enriquecimento ilícito da parte recorrida.
+A decisão da Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul deixou de admitir o recurso especial por incidência da Súmula 83/STJ (e-STJ, fls. 650-668).
+Foi interposto agravo em recurso especial às fls. 674-685 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A jurisprudência desta Corte é firme no sentido de que, sobre os valores a serem restituídos à entidade fechada de previdência privada, em decorrência de antecipação de tutela posteriormente revogada, não devem incidir juros de mora por não haver ato voluntário ou omissão atribuída ao beneficiário que tenha ensejado o atraso na devolução das referidas parcelas.
+A propósito:
+AGRAVO INTERNO. AGRAVO. PREVIDÊNCIA. PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. PAGAMENTO DE PARCELAS. ANTECIPAÇÃO DE TUTELA. POSTERIOR REVOGAÇÃO. RESTITUIÇÃO DEVIDA. DESCONTA EM FOLHA DE PAGAMENTO. LIMITAÇÃO. JUROS DE MORA. NÃO INCIDÊNCIA.
+1. É devida a restituição de parcelas incorporadas aos proventos de complementação de aposentadoria por força de antecipação de tutela posteriormente revogada, a fim de evitar o enriquecimento sem causa do beneficiário de decisão judicial de natureza precária.
+2. A obrigação da devolução dessas parcelas independe do ajuizamento de ação própria e deve ser satisfeita mediante o desconto em folha de pagamento efetivado pela entidade fechada, observado o limite de 10% da renda mensal do benefício de complementação suplementar, até a satisfação integral do crédito. Precedentes.
+3. Não incidem juros de mora sobre as quantias a serem devolvidas, em razão de não haver ato voluntário ou omissão atribuída ao beneficiário que tenha ensejado o atraso na devolução das referidas parcelas.
+4. Agravo interno parcialmente provido.
+(AgInt no AREsp 761.080/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/09/2017, DJe 26/09/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. ANTECIPAÇÃO DE TUTELA. REVOGAÇÃO POSTERIOR. DEVOLUÇÃO DE VALORES RECEBIDOS. JUROS DE MORA. NÃO INCIDÊNCIA. SÚMULA Nº 83/STJ.
+1. A jurisprudência desta Corte firmou-se no sentido de que não há como determinar a incidência de juros de mora sobre os valores a serem devolvidos em virtude da revogação da decisão que antecipou os efeitos da tutela, haja vista a inexistência de fato ou omissão imputável aos autores da ação de revisão de benefício que tenham atrasado tal devolução. Incidência da Súmula nº 83/STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp 1078851/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/09/2017, DJe 06/10/2017)
+Dessa forma, o acórdão recorrido julgou em conformidade com o entendimento desta Corte, incidindo a Súmula n. 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial de Caixa de Previdência dos Funcionários do Banco do Brasil.
+Publique-se.
