@@ -1,0 +1,41 @@
+EMENTA
+RECURSO ESPECIAL. PENAL. DESCAMINHO. VIOLAÇÃO DO ART. 334, § 1º, IV, DO CP. EXISTÊNCIA DE OUTROS PROCEDIMENTOS FISCAIS. HABITUALIDADE DELITIVA RECONHECIDA PELO TRIBUNAL DE ORIGEM. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE.
+Recurso especial provido.
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público Federal, com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região proferido no Habeas Corpus n. 5072277-81.2017.4.04.0000/PR.
+Eis a ementa do combatido julgado (fl. 128):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRANCAMENTO DE AÇÃO PENAL. DESCAMINHO. INSIGNIFICÂNCIA PENAL. HABITUALIDADE DELITIVA. IRRELEVÂNCIA. ATIPICIDADE. CONCESSÃO DA ORDEM.
+1. Em se tratando da suposta prática do delito de descaminho, previsto no artigo 334 do Código Penal, uma vez que o montante dos impostos iludidos a título de II e IPI seria inferior ao limite mínimo de relevância administrativa, está-se diante de conduta atípica pela aplicação do constructo jurisprudencial da insignificância penal.
+2. Eventual reiteração criminal não importa o afastamento da tese despenalizante, porquanto o reconhecimento da bagatela não pressupõe a análise de circunstâncias subjetivas, sendo aferida apenas em função de aspectos objetivos referentes ao delito perpetrado.
+No presente recurso, alega-se, em síntese, a negativa de vigência ao art. 334, § 1º, IV, do Código Penal, sob o fundamento de que não há como se aplicar o princípio da insignificância, relativamente ao delito de descaminho, quando comprovada a reiteração da conduta criminosa por parte das acusadas, fl. 149.
+Ressalta que no caso em tela, não há como se aplicar tal princípio, em razão do fato das recorridas [NOME], não terem se dedicado somente uma vez à prática desta conduta criminosa eis que além da presente ação penal, as acusadas possuem contra si a existência de outros procedimentos administrativos, instaurados em razão de fatos similares aos versados nos presentes autos (evento 1, PROCADM2, do processo originário), conforme pesquisa efetuada junto ao sistema COMPROT, do Ministério da Fazenda (fls. 149/150).
+Sustenta, ainda, que não há necessidade do trânsito em julgado dos outros antecedentes criminais das rés, pois a existência de outras ações penais em curso ou até mesmo de outros procedimentos administrativos fiscais é suficiente para caracterizar a habitualidade delitiva e, consequentemente, afastar a incidência do princípio da insignificância. Efetivamente, a lei de fato seria inócua se fosse tolerada a prática criminosa ou, até mesmo, o cometimento do mesmo delito, seguidas vezes, em frações que, isoladamente, não superassem certo valor tido por insignificante, mas o excedesse na soma, sendo que a desconsideração dessas circunstâncias implicaria verdadeiro incentivo ao descumprimento da norma legal, mormente para aqueles que fazem da criminalidade um meio de vida. (fl. 155).
+Requer o recorrente o provimento do recurso para que seja afastada a aplicação do princípio da insignificância, de modo que seja dado prosseguimento à persecução penal.
+Oferecidas contrarrazões (fls. 169/180), o recurso especial foi admitido na origem (fl. 183).
+O Ministério Público Federal opina pelo provimento da insurgência (fls. 192/202).
+É o relatório.
+A controvérsia diz respeito, a saber, se a existência de outros procedimentos de fiscalização tributária contra as recorridas, pela mesma prática delitiva, tem o condão de afastar a incidência do princípio da insignificância ao delito de descaminho.
+Da leitura do combatido aresto, verifica-se que no voto divergente foi identificada a habitualidade delitiva das recorridas (fls. 114/115 - grifo nosso):
+ ..
+Conforme Representação Fiscal para Fins Penais e Auto de Infração e Termo de Apreensão, as mercadorias apreendidas foram avaliadas pela Receita Federal em R$ 16.295,77, sendo que o total de tributos iludidos alcança o montante de R$ 7.114,52.
+Apesar de o valor dos tributos iludidos estar aquém do patamar de R$ 10.000,00 (dez mil reais), previsto no art. 20 da Lei nº 10.522/2002 e considerado, pelo Superior Tribunal de Justiça, no REsp nº 1.112.748/TO, como parâmetro para a aplicação da insignificância, verifico que a apelada já foi autuada outras vezes pela Delegacia da Receita Federal.
+Em casos de contumácia na prática delitiva, a jurisprudência firmou-se no sentido de ser o fato materialmente típico, dada a reprovabilidade da conduta do agente, o que obsta a aplicação do princípio da insignificância (nesse sentido: STF, HC 127888 AgR, Relator(a): Min. Cármen Lúcia, Segunda Turma, julgado em 23/06/2015, Processo Eletrônico DJe- 151 DIVULG 31-07-2015 PUBLIC 03-08-2015; STJ, AgRg no REsp 1514391/PR, Rel. Ministro Gurgel de Faria, Quinta Turma, julgado em 19/05/2015, DJe 01/06/2015).
+Sendo assim, tenho que habitualidade delitiva inviabiliza a aplicação do princípio da insignificância, devendo ser provido o recurso para determinar o prosseguimento da ação penal.
+ ..
+Com efeito, a sucessiva omissão (reiteração) no pagamento do tributo devido nas importações de mercadorias de procedência estrangeira impede a incidência do princípio da insignificância em caso de persecução penal por crime de descaminho (AgRg no REsp n. 1.339.730/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 25/2/2015).
+Em igual sentido: AgRg no AREsp n. 555.944/PR, Ministro Ericson Maranho (Desembargador convocado do TJ/SP), Sexta Turma, DJe 17/4/2015; AgRg no AREsp n. 553.555/PR, Ministro Gurgel de Faria, Quinta Turma, DJe 2/2/2015.
+Do Supremo Tribunal Federal colhem-se os seguintes precedentes:
+HABEAS CORPUS. CONSTITUCIONAL. PENAL. DESCAMINHO. INEXISTÊNCIA DE CONTRARIEDADE AO PRINCÍPIO DA COLEGIALIDADE. DESCABIMENTO DE IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REITERAÇÃO DELITIVA DO PACIENTE A IMPOSSIBILITAR A INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. ORDEM DENEGADA.
+1. Tanto o Código de Processo Civil (art. 557, caput) quanto o Regimento Interno do Superior Tribunal de Justiça (art. 34, inc. XVIII) preveem a possibilidade de o Relator decidir monocraticamente os recursos quando pacífico o entendimento aplicado, como se tem na decisão objeto da presente impetração. Não se há cogitar de ofensa ao princípio da colegialidade. Precedentes.
+2. A presente impetração volta-se contra decisão monocrática da Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, proferida no julgamento do Recurso Especial n. 1.550.437. Descabimento da presente impetração.
+3. Contumácia delitiva do Paciente. A orientação deste Supremo Tribunal, confirmada pelas duas Turmas, é firme no sentido de não se cogitar da aplicação do princípio da insignificância em casos nos quais o réu incide na reiteração do descaminho, evidenciada pela existência de procedimentos administrativos fiscais em seu desfavor, como se tem nestes autos.
+4. Ordem denegada.
+(HC n 131.342/PR, Ministra Cármen Lúcia, Segunda Turma, DJe 1º/2/2016 - grifo nosso)
+Penal. Agravo Regimental em Habeas Corpus. Falta de impugnação específica dos fundamentos. Descaminho. Princípio da insignificância. Reiteração delitiva. Recurso não conhecido.
+1. A parte recorrente não impugnou, especificamente, todos os fundamentos da decisão agravada, o que impossibilita o conhecimento do recurso, na linha da pacífica jurisprudência do Supremo Tribunal Federal.
+2. A notícia de que a paciente responde a outros procedimentos administrativos fiscais inviabiliza, neste habeas corpus, o pronto reconhecimento da atipicidade penal da conduta. A jurisprudência do Supremo Tribunal Federal firmou orientação no sentido de que a reiteração delitiva impede a adoção do princípio da insignificância penal, em matéria de crime de descaminho. Precedentes.
+3. Agravo regimental não conhecido.
+(AgR no HC n. 137.749/PR, Min. Roberto Barroso, Primeira Turma, DJe 17/5/2017 - grifo nosso).
+Diante disso, na presente hipótese, não há como afirmar o desinteresse estatal na repressão do delito praticado e, da mesma forma, reconhecer o reduzido grau de reprovabilidade na conduta das recorridas.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para, afastada a aplicação do princípio da insignificância, determinar o prosseguimento da ação penal.
+Publique-se.
