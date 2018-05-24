@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] e JUCIVALDO TEIXEIRA DE JESUS, em que se aponta como autoridade coatora o Desembargador Relator da impetração originária, em curso no Tribunal de Justiça do Estado do Pará.
+Consta nos autos que o paciente [NOME] foi condenado à pena de 5 anos e 4 meses de reclusão, em regime semiaberto, pela prática do delito tipificado no art.157, §2º, I e II, do Código Penal, enquanto o paciente Jucivaldo foi condenado à pena de 5 anos e 7 meses de reclusão, em regime semiaberto, pela prática do crime previsto no art.157,§2º, I e II c/c o art.307, na forma do art.69, todos do Código Penal. Foi negado aos réus o direito de recorrer em liberdade. (e-STJ, fls.41-48).
+Irresignada, a defesa impetrou habeas corpus perante o TJPA, tendo sido indeferido o pleito liminar (e-STJ, fls. 38-40).
+Neste writ, a impetrante alega, em suma, a ocorrência de constrangimento ilegal apto a afastar o óbice previsto na Súmula 691 do STF.
+Sustenta, ainda, a ausência de fundamentação idônea da sentença no ponto em que manteve a prisão preventiva dos pacientes, porque baseada unicamente na gravidade abstrata do delito.
+Assevera também a ocorrência de ilegalidade por excesso de prazo em razão de os pacientes encontrarem-se presos desde 28/11/2017.
+Requer a concessão liminar da ordem para que possam os réus aguardar o julgamento da apelação em liberdade.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, consoante os termos da Súmula 691/STF.
+Nesse sentido, confira:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA N. 691/STF. ART. 1º, I, § 1º, DO DECRETO N. 201/1967 (TRÊS VEZES) E ART. 316 DO CP (TRÊS VEZES). DESCUMPRIMENTO DE MEDIDA CAUTELAR. PRISÃO PREVENTIVA. AUSÊNCIA DE PATENTE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Caso em que a prisão foi decretada em razão do descumprimento de medida cautelar anteriormente imposta, conforme previsão. Precedentes. Ausência de manifesta ilegalidade, abuso de poder ou teratologia a autorizar a superação do mencionado enunciado.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC 400.949/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017)
+Na hipótese, a Corte de origem indeferiu o pleito liminar por não verificar os requisitos autorizadores da medida de urgência, pois, em um primeiro exame, há elementos suficientes para a manutenção da custódia cautelar, in verbis:
+"Trata-se da ordem de Habeas Corpus liberatório, com pedido de liminar, impetrado em favor de JOSE OSCAR DA [NOME] [NOME] E JUCIVALDO TEIXEIRA DE JESUS, contra ato do MM. Juiz de Direito da 12ª Vara Criminal da Comarca de Belém/PA, que, em sede de sentença penal condenatória, manteve a prisão preventiva dos pacientes nos autos do processo nº 0029463-88.2017.8140401.
+De acordo com a impetração, os pacientes foram presos em flagrante, no dia 28/11/17, e indiciados pela prática do crime previsto no art. 157, §2º, I e II, do Código Penal. Na sequência, o Ministério Público ofereceu denúncia, o processo foi instruído e, ao final, adveio sentença penal condenatória inviabilizando o direito de os pacientes recorrerem em liberdade, sob o fundamento de que representariam ameaça à sociedade, ante a gravidade da conduta delitiva ali julgada.
+À vista disso, entende o impetrante que a segregação cautelar carece de fundamentação idônea e que os pacientes possuem condições pessoais favoráveis a ponto de lhes ser permitido o direito de recorrer em liberdade. Aduz, ainda, haver excesso de prazo na prisão preventiva, visto que estão presos desde novembro de 2017.
+No mais, o impetrante discorre sobre os princípios constitucionais da presunção de inocência e proporcionalidade, colacionando doutrina e jurisprudência.
+Com base nesses motivos, requer a concessão de liminar para que os pacientes aguardem o julgamento do recurso de apelação em liberdade. E, no mérito, a ratificação da ordem.
+É o sucinto relatório. Passo a analisar o pedido de liminar.
+É sabido que, para a concessão da medida de liminar, deve o impetrante demonstrar os requisitos do periculum in mora e do fumus boni iuris, sendo que o primeiro consiste na demora da prestação jurisdicional definitiva, o que poderá causar um dano irreparável ou de difícil reparação ao paciente. Todavia, tal requisito não deve ser analisado de uma maneira isolada e, sim, conjugada com o chamado fumus boni iuris, que diz respeito ao dever do impetrante demonstrar o mínimo de verossimilhança das suas alegações, ou seja, demonstrar que não exista qualquer indício de autoria ou materialidade do fato típico que venha justificar a segregação cautelar do paciente.
+Após a análise dos fundamentos expostos no presente Habeas Corpus, entendo que não restou demonstrado, de forma indene de dúvidas, a alegação de constrangimento ilegal à liberdade ambulatorial do paciente que autorize a convicção necessária a justificar a concessão da liminar requerida.
+Imperioso esclarecer que, quando da prolação do voto, após o parecer da Procuradoria de Justiça, a análise do caso será profunda, com a verificação ou não da alegada ilegalidade e seus fundamentos diante dos argumentos lançados pela impetrante.
+Assim, entendo que não estão preenchidos os requisitos do periculum in mora e do fumus boni iuris, pois não vislumbro por ora, ao menos para fins de concessão de liminar, nenhuma das hipóteses previstas nos arts. 647 e 648 do Código de Processo Penal, razão pela qual DENEGO A MEDIDA LIMINAR PLEITEADA." (e-STJ, fls.38-39)
+Assim, da leitura atenta da decisão impugnada, não verifico, por ora, a ocorrência de flagrante ilegalidade, de modo a justificar o processamento da presente ordem.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
