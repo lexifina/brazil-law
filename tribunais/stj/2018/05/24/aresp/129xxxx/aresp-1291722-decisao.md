@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo manejado pelo Banco Central do Brasil contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 148):
+PROCESSO CIVIL. AGRAVO INTERNO. EMBARGOS À EXECUÇÃO. PLANO COLLOR. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. MONTANTE BLOQUEADO. ILEGITIMIDADE PASSIVA DO BANCO DEPOSITÁRIO. RESPONSABILIDADE DO BACEN. PRESUNÇÃO DE VERACIDADE DOS CÁLCULOS FORMULADOS PELO CONTADOR JUDICIAL.
+[NOME] casu, o pedido formulado na inicial consiste na condenação do BACEN ao pagamento de indenização pelas perdas monetárias decorrentes do Plano Collor I nas cadernetas de poupança, sendo forçoso reconhecer, desse modo, a ilegitimidade passiva ad causam da instituição financeira nas contas que tem data de aniversário anterior ao dia 15, bem como daquelas que continham saldo inferior a NCZ$ 50.000,00.
+II. Como é cediço, é licito ao Magistrado socorrer-se do serviço de apoio da Contadoria Judicial para dirimir controvérsia acerca de eventuais erros nos cálculos exeqüendos, sendo os cálculos elaborados pelo Contador do Juízo fruto da orientação oficial de procedimento para cálculos na Justiça Federal e, portanto, devem prevalecer quando houver divergência entre as partes.
+III. Agravo Interno improvido.
+Opostos embargos declaratórios às fls. 153/160, foram providos sem efeitos modificativos, consoante se afere da ementa a seguir (fl. 253):
+EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. POUPANÇA. EXISTÊNCIA DE OMISSÃO NO JULGADO. ESCLARECIMENTO.
+I. Na espécie, foi proposta ação ordinária objetivando a condenação do BACEN à aplicação dos índices de correção expurgados das contas poupança de titularidade dos Autores.
+II. O BACEN assevera em sede de embargos de declaração, que o Acórdão recorrido teria sido omisso no tocante à prova de manutenção de saldo bloqueado em conta poupança no período de março a abril de 1990.
+III. Compulsando os autos da ação ordinária nº 95.0003141-8 (em apenso), verifica-se à fl. 55 os extratos da [CONTA], vinculada ao citado autor, no período de fevereiro de 1990 a maio de 1990, documentos esses que possibilitaram o cálculo do valor exequendo.
+IV. Evidencia-se, portanto, que muito embora tenha havido omissão no Acórdão, o esclarecimento da questão reputada como omitida não é suficiente para modificar a conclusão do julgamento.
+V. Embargos de Declaração a que se dá provimento para sanar a omissão apontada, mantendo, outrossim, a Parte Dispositiva do Acórdão de fls. 120/126, que negou provimento ao Agravo Interno.
+Opostos novos embargos, foram rejeitados ante a ausência dos vícios elencados no art. 535 do CPC/73 (fls. 259/262).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 535, II, do CPC/73. Para tanto, sustenta, em síntese, que o acórdão foi omisso "acerca da alegação de não comprovação do saldo bloqueado para fins de incidência de expurgo inflacionário (questão relevante), o que é essencial à liquidação do valor a ser eventualmente pago" - (fl. 266).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, verifico não ter ocorrido ofensa ao art. 535, II, do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Min. NANCY ANDRIGHI, Terceira Turma, DJ 28/11/05).
+Dessarte, observa-se pela fundamentação do acórdão recorrido (fls. 142/148), integrada em sede de embargos declaratórios (fls. 249/254), que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia sobre a possibilidade de cálculo do valor a ser pago com a aplicação do direito que entendeu cabível à hipótese, conforme se infere do trecho dos aclaratórios a seguir (fl. 250):
+Compulsando os autos da ação ordinária nº 95.0003141-8 (em apenso), verifica-se à fl. 55 os extratos da [CONTA], vinculada ao citado autor, no período de fevereiro de 1990 a maio de 1990, documentos esses que possibilitaram o cálculo do valor exequendo.
+Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Frise-se que o Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+A propósito, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. SUCUMBÊNCIA RECÍPROCA. NÃO OCORRÊNCIA DE OFENSA AO ART. 535 DO CPC/1973. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE JUSTIFICATIVA PARA A REDISTRIBUIÇÃO DO GRAU DE DECAIMENTO DE CADA UMA DAS PARTES. REEXAME DE FATOS E DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO DA PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. A Corte de origem analisou toda a controvérsia de maneira fundamentada, não havendo como acolher a tese recursal de deficiência na prestação jurisdicional quanto à desproporcionalidade da fixação da sucumbência recíproca. Observe-se, ademais, que o julgamento diverso do pretendido, não implica ofensa à norma ora invocada.
+2. É inviável em sede de Recurso Especial, aferir o decaimento de cada litigante, com o fim de se estabelecer a proporção dos ônus sucumbenciais com a fixação do percentual dos honorários advocatícios, por demandar imprescindível revolvimento de matéria fática. Precedentes: AgRg no REsp. 1.464.576/SP, Rel. Min. HUMBERTO MARTINS, DJe 9.11.2015; AgRg no AREsp. 423.717/PI, Rel. Min. ASSUSETE MAGALHÃES, DJe 28.9.2015 e AgRg no AREsp. 715.021/ES, Rel. Min. SÉRGIO KUKINA, DJe 4.8.2015.
+3. Agravo Interno do particular a que se nega provimento.
+(AgInt no REsp 1580876/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 19/04/2018, DJe 08/05/2018)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO. SEGURO, VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA Nº 211/STJ. AUSÊNCIA DE COBERTURA. SÚMULA Nº 7/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelos recorrentes, para decidir de modo integral a controvérsia posta.
+(..)
+3. Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado. Precedentes.
+(..)
+(AgRg no REsp 1386843/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2014, DJe 24/02/2014)
+PROCESSUAL CIVIL - ADMINISTRATIVO - LICITAÇÃO - EXECUÇÃO DO CONTRATO - SUCESSÃO DE EMPRESAS - OMISSÃO NÃO VERIFICADA - ART. 515 DO CPC - FALTA DE
+PREQUESTIONAMENTO - SÚMULA 211/STJ.
+(..)
+2. Em nosso sistema processual, o juiz não está adstrito aos fundamentos legais apontados pelas partes. Exige-se, apenas, que a decisão seja fundamentada. Aplica o magistrado ao caso concreto a legislação por ele considerada pertinente.
+3. Inexiste afronta ao art. 535 do CPC, quando a omissão alegada nos embargos de declaração é sobre questão desinfluente para a solução do litígio.
+4. Recurso especial da primeira recorrente não conhecido e improvido o recurso da segunda recorrente.
+(REsp 804921/AL, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/05/2007, DJ 28/05/2007)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
