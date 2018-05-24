@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de São Paulo.
+Sustenta a defesa, nas razões do recurso especial, violação dos artigos 28 e 33, § 4º, da Lei 11.343/2006, 156, 619, 620, e 386, VII, do Código de Processo Penal, e 5º, LIV e LVII, da Constituição Federal.
+Alega omissão no aresto impugnado, uma vez que não enfrentou as questões explanadas nos embargos de declaração, "quando deixou de analisar provas dos autos que claramente demonstrou que o Requerente não é um traficante de drogas no máximo um usuário de droga ante sua confissão para uso de entorpecente" (e-STJ, fl. 328).
+Defende a ausência de provas para condenação, bem como argumenta que a droga apreendida era para consumo do agravante.
+Aduz que estão presentes os requisitos para a aplicação da causa de diminuição da pena prevista no art. 33, § 4º, da Lei de Drogas e que "processos em andamento não podem ser utilizados para agravar a situação do réu, conforme entendimento pacífico na jurisprudência" (e-STJ, fl. 340).
+Por fim, pleiteia a anulação do acórdão dos embargos de declaração e que seja prolatada nova decisão, a fim de que seja sanada a suposta omissão. Subsidiariamente, requer a absolvição ou desclassificação da conduta do agravante para uso de drogas, ou a aplicação da causa de diminuição da pena em seu grau máximo de 2/3, e, caso seja deferida, a fixação do regime inicial aberto e a permuta da pena, porquanto alega estarem presentes os requisitos para o deferimento dos aludidos benefícios.
+Apresentadas contrarrazões (e-STJ, fls. 348-355).
+O recurso não foi admitido por incidência das Súmulas 7/STJ e 282, 284 e 356 do STF (e-STJ, fls. 358-360).
+O Ministério Público Federal opinou pelo desprovimento do agravo e requereu a execução provisória da pena (e-STJ, fls. 393-399).
+É o relatório.
+Decido.
+A princípio, cumpre anotar que os embargos de declaração destinam-se a suprir omissão, contradição ou obscuridade de provimentos jurisdicionais. Não se prestam, portanto, para a revisão dos julgados no caso de mero inconformismo da parte. No caso dos autos, observa-se que a matéria tida por omissa foi satisfatoriamente examinada pelo Tribunal de origem, não havendo falar em contrariedade aos artigos supra mencionados.
+Quanto ao mérito, o Tribunal a quo afastou o pleito de desclassificação da conduta do agravante para uso de drogas e manteve a condenação por tráfico de drogas, com a seguinte fundamentação:
+"Ora, pela quantidade da substância entorpecente apreendida (3 microtubos plásticos contendo pedras de crack, pesando 0,51 gramas e 1,10 gramas de maconha), pelas condições econômicas do acusado, bem como a forma como ocorreu a apreensão, tudo demonstra que a droga se destinava ao fornecimento para o consumo de terceiros. Desta forma, não se pode desclassificar a conduta para a figura do art. 28 da Lei n. 11.343/06.
+O crime de tráfico ilícito de drogas é infração que se integra de várias fases sucessivas, articuladas uma na outra desde a sua produção até a sua entrega a consumo, ainda que de forma gratuita, pouco importando a quantidade de droga apreendida.
+Oportuno lembrar que "para a configuração do crime previsto no artigo 12 da Lei n. 6.368/76, nâo se exige qualquer ato de tráfico, bastando, como na espécie, que o agente traga consigo a substância entorpecente. Da mesma forma, é inexigível a tradição, para a consumação do delito" (Habeas Corpus n. 39.141-3 - Rei. Des. Denser de Sá, RJTJESP 97/512).
+Já decidiu o SUPREMO TRIBUNAL FEDERAL que "a noção de tráfico ilícito de entorpecentes não supõe, necessariamente, a prática de atos onerosos ou de comercialização" (HC 69.806/00 Rel. Min. Celso de Melo - in. DJU 04.06.1993 - p. 11012).
+Outrossim, é de ter em conta que nos locais em que ocorre o tráfico de entorpecentes, impera a lei do silêncio, razão pela qual é extremamente difícil arrolar pessoas dispostas a testemunhar contra traficantes.
+O fato de alegar que é usuário de cocaína, não o impede de ser traficante. É sabido que muitos dependentes químicos acabam por praticar o nefasto comércio para sustentar o próprio vício.
+Com efeito, os milicianos, em razão de denúncias anônimas, tinham informações de que o acusado, já conhecido dos meios policiais, era traficante, tanto é que o mesmo, ao avistar a viatura, dispensou a droga que trazia consigo.
+Constou-se que o acusado dispensara três microtubos contendo crack. Em sua residência, havia, ainda, maconha, o que veio a confirmar a veracidade das denúncias anônimas. Ora, o réu foi categórico ao afirmar que trazia consigo e era consumidor de cocaína. Então, porque guardava maconha em sua casa, se afirmou que os quatro indivíduos que moravam com ele na mesma casa não eram usuários de maconha  Ademais, é possível se observar, pelo interrogatório do réu, na mídia acostada aos autos, que ele é deveras articulado, comunica-se muito bem, não aparentando ser usuário de cocaína ou crack, em abstinência, já que está enclausurado há vários meses.
+Portanto, sua condenação era mesmo de rigor." (e-STJ, fls. 283-284).
+O acórdão combatido concluiu, diante das circunstâncias do cometimento do delito, que o agravante praticava a comercialização da droga, bem como que o fato de ser usuário não o impede de ser traficante. Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela absolvição ou desclassificação da conduta do recorrente de tráfico de drogas para uso de drogas, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+Neste sentido:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. DESCLASSIFICAÇÃO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência pacífica do STJ.
+2. O Tribunal a quo, soberano na análise fático-probatória, entendeu pela existência do delito de tráfico de drogas, de modo que a pretendida desclassificação para o crime de uso exigiria revolvimento aprofundado da prova, vedado em recurso especial, a teor da Súmula 7 do STJ.
+3. Agravo regimental improvido."
+(AgRg no AREsp 1162071/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/04/2018, DJe 11/05/2018).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES DE TRÁFICO DE DROGAS E DE POSSE IRREGULAR DE ARMA DE FOGO. ABSOLVIÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO. EXECUÇÃO PROVISÓRIA DA PENA PRIVATIVA DE LIBERDADE. DEFERIDA. EXECUÇÃO PROVISÓRIA DA PENA RESTRITIVA DE DIREITOS. INDEFERIDA 1. Para alterar a conclusão a que chegaram as instâncias ordinárias e decidir pela absolvição do recorrente, demandaria, necessariamente, revolvimento do acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula 7/STJ, que dispõe: "a pretensão de simples reexame de prova não enseja recurso especial." 2. Agravo regimental não provido. Pedido de execução provisória da pena privativa de liberdade deferido e da pena restritiva de direitos indeferido."
+(AgRg no AREsp 1098573/PB, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 12/09/2017, DJe 22/09/2017).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. PRETENSÃO DE DESCLASSIFICAÇÃO PARA USO. NECESSIDADE DE ANÁLISE DE FATOS E PROVAS. ÓBICE INTRANSPONÍVEL DA SÚMULA 7 DESTA CORTE. AGRAVO IMPROVIDO.
+1. Ao contrário do afirmado pelo agravante, os argumentos declinados nas razões do recurso especial a fim de sustentar a tese de que a droga apreendida se destinava ao consumo próprio, e não ao tráfico, demandariam sim a análise dos fatos, das circunstâncias e das provas amealhadas aos autos, mostrando-se insuperável o empecilho da Súmula 7/STJ.
+2. Desse modo, a decisão agravada deve ser mantida incólume por seus próprios termos.
+3. Agravo regimental improvido."
+(AgRg no REsp 1654720/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/04/2017, DJe 05/05/2017).
+Por outro lado, a minorante foi afastada pela Corte de origem sob a seguinte fundamentação:
+"A reincidência impede a aplicação do benefício previsto no § 4º, do artigo 33, da Lei nº 11.343/06." (e-STJ, fl. 285).
+Nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas poderão ter a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+No entanto, reconhecida pela instância ordinária a reincidência do recorrente, razão pela qual a pena foi agravada na segunda fase da dosimetria, torna-se incabível a aplicação da mencionada benesse, porquanto não preenchidos os requisitos legais.
+A propósito:
+" ..
+1. A jurisprudência pacífica das Cortes Superiores orienta-se no sentido de que a condenação anterior por uso de drogas - art. 28 da Lei n. 11.343/06 - pode ser utilizada na aplicação da agravante genérica da reincidência, bem ainda como maus antecedentes, pois essa conduta não deixou de ser crime (ut, HC 402.682/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 18/08/2017).
+2. Correto o acórdão estadual ao deixar de aplicar o redutor do art. 33, § 4º da Lei n. 11.343/2006, porquanto a reincidência, seja ela específica ou não, constitui óbice à aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, tendo em vista que um dos requisitos para a incidência do benefício é que o paciente seja primário. A propósito: HC 393.862/DF, desta Relatoria, DJe 02/10/2017.
+3. "A jurisprudência desta Corte tem entendido desnecessária a juntada de certidão cartorária como prova de maus antecedentes ou reincidência, admitindo, inclusive, informações extraídas do sítio eletrônico de Tribunal como evidência nesse sentido" (AgRg no AREsp 549.303/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 29/05/2015).
+ ..
+5. Agravo regimental não provido."
+(AgRg no AREsp 1159698/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/02/2018, DJe 19/02/2018).
+" ..
+2. A análise das circunstâncias judiciais do art. 59 do Código Penal não atribui pesos absolutos, a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito.
+3. No caso, não há falar em constrangimento ilegal decorrente da exasperação da pena-base em 1/5 com fundamento nos maus antecedentes do paciente, além da quantidade, diversidade e natureza especialmente deletéria de parte das drogas apreendidas.
+4. A incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 pressupõe que o agente preencha os seguintes requisitos: a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) nem integre organização criminosa.
+5. Na espécie, a negativa de aplicação do redutor baseou-se na contumácia do paciente na prática de delitos, inclusive anterior condenação por tráfico ilícito de drogas, circunstâncias suficientes para obstar a incidência do benefício.
+ ..
+8. Mantida a condenação em patamar superior a 4 anos de reclusão, é inviável a substituição da pena privativa de liberdade por restritiva de direitos, ante o não preenchimento do requisito objetivo previsto no art. 44, inciso I, do Código Penal.
+9. Habeas corpus não conhecido."
+(HC 353.832/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/05/2017, DJe 31/05/2017).
+" ..
+1. O entendimento consignado pelas instâncias originárias está em conformidade com a orientação firmada neste Tribunal Superior, segundo a qual "A reincidência impede a aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006, porquanto um dos requisitos legais para a sua incidência é a primariedade do acusado" (HC 360.200/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 1/9/2016, DJe 6/9/2016).
+2. Agravo regimental desprovido."
+(AgRg no AREsp 960.413/ES, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 28/03/2017, DJe 06/04/2017).
+Dessa forma, indeferido o pleito de aplicação da minorante e mantida a pena em 6 (seis) anos e 8 (oito) meses de reclusão, as pretensões de abrandamento do regime inicial e de permuta da pena corporal por restritivas de direitos se encontram prejudicadas, uma vez que o fechado é o cabível à espécie, diante da quantidade da pena imposta e da reincidência do agravante, nos termos do art. 33, do Código Penal, e no que concerne à substituição da pena, por verificar-se a ausência do requisito objetivo previsto no art. 44, I, do Estatuto Repressivo.
+No que tange à alegada violação do artigo 5º, LIV e LVII, da Constituição Federal, tem-se que tal pretensão não merece subsistir, uma vez que a via especial é imprópria para o conhecimento de ofensa a dispositivos constitucionais.
+Por fim, o MINISTÉRIO PÚBLICO FEDERAL requereu a execução provisória da pena (e-STJ, fls. 393-399).
+Com razão, uma vez que diante da decisão proferida pelo Supremo Tribunal Federal, nos autos do HC 126.292/SP, ficou assente que, esgotadas as instâncias ordinárias, a interposição de recurso especial não obsta a execução da decisão penal condenatória.
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial e determino o envio de cópia dos autos ao Juízo competente, para que adote as providências cabíveis quanto ao início da execução provisória da pena imposta ao recorrente. .
+Publique-se. Intimem-se.
