@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. O Tribunal de Justiça do Estado de São Paulo, confirmando o entendimento do Juízo, assentou ser a base de cálculo do Imposto sobre Transmissão Causa Mortis e Doação – ITCMD o valor venal da pauta de valores do Imposto sobre a Propriedade Urbana – IPTU, observada a legislação de regência. No recurso extraordinário cujo trânsito busca alcançar, o Estado de São Paulo alega violados os artigos 1º, 2º, 18, 25 e 150, inciso III, alínea “a”, e 155, inciso I, da Constituição Federal. Aduz a inobservância da competência tribuária estadual, decorrente da autonomia federativa, para definir os contornos dos tributos estaduais em questão. Sustenta afronta ao princípio da isonomia e da legalidade, quanto ao tratamento desigual entre contribuintes em idêntica situação.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    E assim o é, pois, nos termos da Lei Estadual nº 10.705 de 28 de dezembro de 2000, determinou-se, que:
+    “Artigo 9º - A base de cálculo do imposto é o valor venal do bem ou direito transmitido, expresso em moeda nacional ou em UFESPs (Unidades Fiscais do Estado de São Paulo). § 1º - Para os fins de que trata esta lei, considera-se valor venal o valor de mercado do bem ou direito na data da abertura da sucessão ou da realização do ato ou contrato de doação. Artigo 13 - No caso de imóvel, o valor da base de cálculo não será inferior: I - em se tratando de imóvel urbano ou direito a ele relativo, ao fixado para o lançamento do Imposto sobre a Propriedade Predial e Territorial Urbana IPTU”.
+    E tais regras foram repetidas no Decreto nº 46.655/2002, por meio do qual foi aprovado “o Regulamento do Imposto sobre Transmissão 'Causa Mortis' e Doação de Quaisquer Bens ou Direitos - (ITCMD), de que trata a Lei nº 10.705, de 28-12-00” (respectivamente arts. 12 e 16).
+    Assim, não há como negar que é a legislação paulista que determina como será cobrado o ITCMD.
+    O Decreto Estadual nº 55.002/2009, que alterou o Decreto Estadual nº 46.655/02, ao adotar novo parâmetro para a base de cálculo do ITCMD, o valor venal de referência do ITBI, provocou majoração do tributo, em ofensa ao princípio da legalidade, insculpido no art. 150, I, da CF/88 e no art. 97, inc. II, § 1º, do CTN.
+    A partir da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Colegiado de origem julgado a apelação a partir de interpretação conferida à Lei municipal nº 10.705/2000, assim como ao estabelecido nos Decretos municipais nº 46.655/2002 e nº 55.002/2009. Ora, a controvérsia sobre o alcance de norma local não viabiliza, conforme sedimentado pela jurisprudência verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário, o acesso ao Supremo. Está-se diante de caso cujo desfecho fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 24 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
