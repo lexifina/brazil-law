@@ -1,0 +1,8 @@
+DECISÃO
+EMILSON ROLEMBERG BARRETTO alega sofrer coação ilegal ao seu direito de locomoção, em decorrência de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, que, ao julgar a Apelação Criminal n. 0016644-24.2014.8.19.0066, embora tenha declarado nulo o julgamento realizado pelo Tribunal do Júri em 28/11/2016, manteve a sua segregação cautelar.
+Com o presente habeas corpus, busca a impetrante a revogação da prisão preventiva mantida pela Corte fluminense, tanto por excesso de prazo quanto por ausência de fundamentação idônea a alicerçar a manutenção da custódia ante tempus.
+Às fls. 105-107, indeferi a liminar, por ausência de plausibilidade jurídica no pedido formulado, sobretudo para antecipação da tutela.
+Em consulta ao sítio eletrônico da Corte de origem, verifico que o paciente já foi submetido a novo julgamento pelo Tribunal do Júri, em sessão realizada em 6/12/2017, sendo novamente condenado pelo Conselho de Sentença.
+Ainda que o Juízo de primeiro grau lhe tenha vedado o direito de recorrer em liberdade, evidencia-se a prejudicialidade deste habeas corpus, pois "não cabe a esta Corte averiguar a motivação do novo decreto constritivo sem que haja prévia submissão dessa tese ao Tribunal de origem, sob pena de indevida supressão de instância" (AgRg no HC n. 251.260/MG, Rel. Ministro Og Fernandes, 6ª T., DJe 24/6/2013). No mesmo sentido, confira-se o seguinte julgado da Quinta Turma: HC n. 243.953/MG, Rel. Ministro Marco Aurélio Bellizze, DJe 13/3/2013).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado este habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
