@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. MULTAS DECORRENTES DAS INFRAÇÕES COMETIDAS NA CONDUÇÃO DE VEÍCULOS. RESOLUÇÃO CONTRAN 108/1999. FUNDAMENTO INATACADO. DOCUMENTOS NOS AUTOS. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. REEXAME. IMPOSSIBILIDADE EM SEDE DE RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, I E II DO CPC/1973 QUE NÃO SE VERIFICA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EMBARGOS DE DECLARAÇÃO DA ACLA-ASSOCIAÇÃO CEARENSE DAS LOCADORAS DE AUTOMÓVEIS REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado.
+2. O TRF da 5a. Região resolveu a lide com fundamentos na Resolução Contran 108/1999. Esse ponto não foi atacado no Apelo Especial, o que atrai a incidência da Súmula 283/STF.
+3. O acolhimento das alegações deduzidas no Apelo Nobre demandaria a incursão no acervo fático-probatório da causa, o que não é possível em sede de Recurso Especial.
+4. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade, razão pela qual não há que se falar em violação do art. 535, I e II do CPC/1973.
+5. Embargos de Declaração da ACLA - ASSOCIAÇÃO DAS LOCADORAS DE AUTOMÓVEIS rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os Embargos de Declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Embargos de Declaração opostos pela ACLA-ASSOCIAÇÃO CEARENSE DAS LOCADORAS DE AUTOMÓVEIS, em adversidade ao acórdão que negou provimento a seu Agravo Interno, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA COLETIVO PREVENTIVO CONTRA ATO DO DNIT. MULTAS DECORRENTES DAS INFRAÇÕES COMETIDAS NA CONDUÇÃO DE VEÍCULOS. RESOLUÇÃO CONTRAN 108/99. FUNDAMENTO INATACADO. DOCUMENTOS NOS AUTOS. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. MANIFESTAÇÃO FAVORÁVEL DO MINISTÉRIO PÚBLICO AO ORA AGRAVADO. AUSÊNCIA DE ARGUMENTAÇÃO APTA A INFIRMAR AS CONCLUSÕES DA DECISÃO AGRAVADA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade, razão pela qual não há que se falar em violação do art. 535, I e II do CPC/73.
+2. O acolhimento das alegações deduzidas no Apelo Nobre demandaria a incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7/STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+3. A jurisprudência desta Corte pacificou o entendimento de que o Tribunal de origem é soberano na análise das provas. Trata-se do princípio do livre convencimento motivado do Magistrado.
+4. O TRF da 5a. Região resolveu a lide com fundamentos na Resolução Contran 108/99. Esse ponto não foi atacado no Apelo Especial, o que atrai a incidência da Súmula 283/STF.
+5. Agravo da ACLA a que se nega provimento (fls.478/479).
+2. A parte embargante sustenta, em suma, que houve violação do art. 535, I e II do antigo CPC, e também , omissão, tendo em vista que o Tribunal a quo deixou de se manifestar acerca da ilegalidade da Resolução 108/99 do Contran (fls. 486/487).
+3. É o relatório.
+VOTO
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. MULTAS DECORRENTES DAS INFRAÇÕES COMETIDAS NA CONDUÇÃO DE VEÍCULOS. RESOLUÇÃO CONTRAN 108/99. FUNDAMENTO INATACADO. DOCUMENTOS NOS AUTOS. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. REEXAME. IMPOSSIBILIDADE EM SEDE DE RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, I E II DO CPC/1973 QUE NÃO SE VERIFICA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EMBARGOS DE DECLARAÇÃO DA ACLA-ASSOCIAÇÃO CEARENSE DAS LOCADORAS DE AUTOMOVEIS REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado.
+2. O TRF da 5a. Região resolveu a lide com fundamentos na Resolução Contran 108/1999. Esse ponto não foi atacado no Apelo Especial, o que atrai a incidência da Súmula 283/STF.
+3. O acolhimento das alegações deduzidas no Apelo Nobre demandaria a incursão no acervo fático-probatório da causa, o que não é possível em sede de Recurso Especial.
+4. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade, razão pela qual não há que se falar em violação do art. 535, I e II do CPC/1973.
+5. Embargos de Declaração da ACLA rejeitados.
+1. De início, cumpre esclarecer que o art. 535, I e II do CPC/1973 é bastante específico ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a existência de obscuridade, contradição ou omissão no julgado.
+2. Destarte, infere-se que, a par da pacífica orientação acerca da natureza recursal dos Declaratórios, estes não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas, apenas, à elucidação ou ao aperfeiçoamento do decisum em casos de obscuridade, contradição ou omissão. Não têm, pois, de regra, caráter substitutivo ou modificativo, ou seja, o condão de alterar, livre e substancialmente, o decisório, em seu dispositivo, mas, sim, aclarar ou integrar, razão por que seu processamento não é norteado pelos princípios do contraditório e da igualdade.
+3. Assim, os Embargos de Declaração não se prestam à finalidade de sustentar eventual incorreção do decisum hostilizado ou propiciar novo exame da própria questão de fundo, de modo a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+4. Ressalte-se, por oportuno, que esta Corte admite a atribuição de efeitos infringentes a Embargos de Declaração apenas quando o reconhecimento da existência de eventual omissão, contradição ou obscuridade acarretar, invariavelmente, a modificação do julgado, o que não se verifica na hipótese em tela.
+5. Ademais, o TRF da 5a. Região resolveu a lide com fundamentos na Resolução Contran 108/1999. Esse ponto não foi atacado no Apelo Especial, o que atrai a incidência da Súmula 283/STF.
+6. Com efeito, não se verifica, na hipótese, a existência de quaisquer dos vícios elencados no art. 535, I e II do CPC/1973.
+7. Com base nessas considerações, rejeitam-se os Embargos de Declaração da ACLA-ASSOCIAÇÃO CEARENSE DAS LOCADORAS DE AUTOMÓVEIS.
+8. É como voto.
