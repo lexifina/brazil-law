@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Agravo, interposto por POLAROID DO BRASIL LTDA. E OUTROS, em 19/09/2012, contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu o Recurso Especial, de acórdão assim ementado:
+"DIREITO PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. AGRAVO RETIDO. REMESSA OFICIAL. APELAÇÕES. CONHECIMENTO PARCIAL. NULIDADE DA EXECUÇÃO. AUSÊNCIA. DÉBITO JUDICIAL. EXCESSO DE EXECUÇÃO. ÍNDICES INFLACIONÁRIOS EXPURGADOS. INCIDÊNCIA. SUCUMBÊNCIA.
+ 1. No tocante à preliminar de nulidade da r. sentença por cerceamento de defesa, cumpre rejeitá-la, porque houve recurso da sentença que acolheu o cálculo elaborado pela contadoria judicial.
+ 2. Merece rejeição a alegação de ausência de fundamentação da r. sentença, vez que foi acolhido cálculo elaborado por determinação detalhada pelo Juízo a quo.
+ 3. Não se conhece da apelação da embargada no tópico em que ausente a sucumbência: falta de interesse processual na reforma específica.
+ 4. Caso em que o agravo retido, cujo exame foi reiterado na forma do artigo 523, § 1º, do Código de Processo Civil, impugnou decisão proferida no processo de conhecimento (autos em apenso), restando devolvida, agora para exame, apenas as questões inerentes ao processo de embargos à execução. Ademais, o agravo retido foi acompanhado de memória discriminada de cálculo dos exeqüentes, da qual foi citada a Fazenda Nacional nos termos do artigo 730, CPC, ensejando a interposição dos embargos à execução ora em exame, sendo certo, portanto, que a matéria relativa à questão dos índices de correção monetária aplicáveis e o valor da execução confunde-se com o próprio mérito, devendo com o qual ser apreciado. Agravo retido de que não se conhece.
+ 5. Julgados improcedentes, integral ou parcialmente, os embargos opostos pela Fazenda Nacional, cumpre sujeitar a sentença à remessa oficial. Precedentes da Turma.
+ 6. Os débitos judiciais devem sofrer efetiva atualização monetária, em conformidade com os índices consagrados na jurisprudência, observadas as limitações da coisa julgada e da vedação à reformatio in pejus.
+ 7. A sucumbência foi corretamente fixada pela r. sentença, eis que houve decaimento recíproco, e o percentual fixado encontra-se em conformidade com o consagrado na Turma.
+ 8. Precedentes" (fl. 248e).
+O acórdão em questão foi objeto de Embargos de Declaração, por duas vezes, rejeitados nos seguintes termos:
+"DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EMBARGOS À EXECUÇÃO DE SENTENÇA. ALEGAÇÃO DE ERRO MATERIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS DO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. CARÁTER INFRINGENTE DO RECURSO.
+ 1. Caso em que o v. acórdão, apreciou, de forma coerente, sem qualquer omissão, contradição ou obscuridade, todas as questões jurídicas, legais ou constitucionais invocadas e essenciais à resolução da causa, o que demonstra a improcedência dos embargos de declaração.
+ 2. Hipótese em que os embargos declaratórios são opostos com nítido e indevido caráter infringente, objetivando, perante a Turma, o rejulgamento da causa, porém em detrimento da competência das instâncias superiores para a revisão do acórdão proferido.
+ 3. Precedentes" (fl. 267e).
+"DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO. EMBARGOS À EXECUÇÃO DE SENTENÇA. ALEGAÇÃO DE ERRO MATERIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS DO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL.
+ 1. Caso em que o v. acórdão, apreciou, de forma coerente, sem qualquer omissão, contradição ou obscuridade, todas as questões jurídicas, legais ou constitucionais invocadas e essenciais à resolução da causa, o que demonstra a improcedência dos embargos de declaração.
+ 2. A divergência, em verdade, decorre da aplicação, pela embargante, do IPCA-E após a última UFIR, cessada neste momento a atualização pelo contador. O ponto, entretanto, não foi alvo do apelo aviado, vedado o seu exame pela Corte" (fl. 312e).
+Sustenta a parte agravante, nas razões do Recurso Especial, fundamentado nas alíneas a e c do permissivo constitucional, além de divergência jurisprudencial, violação aos seguintes dispositivos: a) arts. 535, II, do CPC/73, sob o argumento de que "o Tribunal a quo deixou de sanar os vícios e omissões apontados pelas partes no recurso de Embargos de Declaração" (fl. 437e); e b) Provimento 26/2001, Portaria 92/2001 DF-SJ/SP e 167 do CTN, defendendo que, em ações de repetição de indébito tributário, "deverá ser aplicado o IPCA-E, a partir de janeiro de 2001, caso o título judicial em execução, com trânsito em julgado a partir de 1.1.1996, tenha estabelecido expressamente a aplicação do percentual de juros de 1% ao mês" (fl. 439e).
+Foram apresentadas contrarrazões (fls. 626/629e).
+Negado seguimento ao Recurso Especial (fls. 645/646e), foi interposto o presente Agravo (fls. 650/670e).
+Foi apresentada contraminuta (fls. 730/731e).
+A irresignação não merece acolhimento.
+Em relação à alegada omissão em torno da matéria dos Embargos de Declaração, verifico que a parte recorrente deixou de demonstrar no que consistiu a suposta ofensa ao art. 535 do CPC/73 e, sobretudo, a sua relevância para o deslinde da controvérsia, o que atrai, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+A propósito: "Não merece conhecimento o Recurso Especial que aponta violação ao art. 535 do CPC, sem, na própria peça, individualizar o erro, a obscuridade, a contradição ou a omissão ocorridas no acórdão proferido pela Corte de Origem, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF" (STJ, AgRg no AREsp 761.470/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 20/11/2015).
+No mesmo sentido:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. COMPENSAÇÃO INFORMADA EM DCTF. REJEIÇÃO PELO FISCO. NECESSIDADE DE NOVO LANÇAMENTO. DCTF APRESENTADA ANTES DE 31.10.2003. DECADÊNCIA CONFIGURADA NA ESPÉCIE. EXPEDIÇÃO DE CERTIDÃO NEGATIVA. POSSIBILIDADE.
+1. Não merece conhecimento o recurso especial que aponta violação ao art. 535 do CPC, sem, na própria peça, individualizar o erro, a obscuridade, a contradição ou a omissão ocorridas no acórdão proferido pela Corte de Origem, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula n. 284/STF.
+(..)
+4. Recurso especial não provido" (STJ, REsp 1.222.360/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 26/05/2015).
+Por sua vez, a alegação de ofensa ao Provimento 26/2001, à Portaria 92/2001 DF-SJ/SP e ao 167 do CTN não foi suscitada nas razões de Apelação ou em Embargos de Declaração na instância de origem, o que configura indevida inovação recursal no âmbito do Apelo Nobre e impede o conhecimento da insurgência em decorrência da preclusão consumativa.
+Nesse sentido:
+"ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA NOS MOLDES LEGAIS.
+(..)
+2. A tese que não foi suscitada nas instâncias ordinárias, mas, veiculada apenas no recurso especial, caracteriza inovação recursal, incabível de análise no presente recurso, em face da preclusão consumativa.
+(..)
+4. Agravo regimental a que se nega provimento" (STJ, AgRg no REsp 1.458.714/PB, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 18/11/2014, DJe de 24/11/2014).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO. ALEGADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. ACÓRDÃO RECORRIDO QUE, EM FACE DOS ELEMENTOS DE PROVA DOS ATOS, CONCLUIU PELA REGULARIDADE DE CITAÇÃO DOS HERDEIROS DO ESPÓLIO AGRAVANTE, PELA AUSÊNCIA DE CERCEAMENTO DE DEFESA E PELA PRESENÇA DOS REQUISITOS NECESSÁRIOS À AQUISIÇÃO DA PROPRIEDADE. INCIDÊNCIA DA SÚMULA 7/STJ. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+(..)
+V. As questões relacionadas à ausência de citação de todos os confinantes e de seus cônjuges, e à não apresentação de todos os documentos necessários ao ajuizamento da demanda, somente foram suscitadas nas razões de Recurso Especial. Assim, além de não terem sido prequestionadas, na origem, tais alegações configuram indevida inovação recursal, não merecendo conhecimento.
+VI. Agravo interno improvido" (STJ, AgInt no AREsp 216.545/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/04/2018, DJe de 10/04/2018).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
