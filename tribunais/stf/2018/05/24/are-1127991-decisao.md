@@ -1,0 +1,9 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. A Turma Recursal local, confirmando o entendimento do Juízo, assentou, observada a legislação de regência, a exigibilidade de contribuição para a previdência estadual de servidor público militar reformado. No extraordinário, cujo trânsito busca alcançar, o recorrente alega violados os artigos 40, § 20, 42, § 1º e § 2º, e 142, § 3º, inciso X, da Constituição Federal. Aduz a ausência de lei estadual específica para definir o regime próprio de previdência dos servidores públicos militares estaduais. Articula com a falta de previsão legal quanto à exigibilidade da contribuição previdenciária em caso.
+    2. À toda evidência, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Colegiado de origem julgado a apelação a partir de interpretação conferida ao artigo 17, § 4º, da Lei Complementar estadual nº 154/05. A controvérsia sobre o alcance de norma local não viabiliza, conforme sedimentado pela jurisprudência – Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário –, o acesso ao Supremo. Está-se diante de caso cujo desfecho fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios em 10% sobre o valor da condenação, majoro os honorários recursais no patamar de mais 5% do valor da condenação, consoante o artigo 85, § 11, do Código de Processo Civil de 2015. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos  honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 24 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
