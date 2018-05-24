@@ -1,0 +1,28 @@
+Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada pela Defensoria Pública do Estado de São Paulo, em favor de Silvano Toledo, contra decisão do Juízo de Direito da Vara das Execuções Criminais de Ribeirão Preto/SP, que, nos autos da Execução 0007052-24.2017.8.26.0496, teria indevidamente aplicado a Súmula Vinculante 26 do Supremo Tribunal Federal.
+    Consta dos autos que o reclamante foi condenado pela prática do crime descrito no artigo 157, § 2º, I, II e IV, à pena de 5 anos, 2 meses e 6 dias de reclusão, a ser cumprida em regime inicial fechado (eDOC 2, p. 93).
+    A defesa pleiteou a progressão para o regime semiaberto, alegando o preenchimento dos requisitos objetivo e subjetivo exigidos para o ingresso no regime mais brando.
+    Em 23.9.2017, o Juízo reclamado determinou a realização do exame criminológico, para após deferir a aludida progressão. (eDOC 2, p. 108-111).
+    Nesta Corte, a Defensoria aponta violação à Súmula Vinculante 26 do Supremo Tribunal Federal, ao argumento de que não teria sido apontado nenhum dado concreto para fundamentar a decisão que ordenou a realização do exame criminológico.
+    Por fim, requer liminarmente e no mérito, o afastamento da exigência de exame criminológico na análise do pedido de progressão de regime, deferindo-se em definitivo o regime semiaberto, ante a carência de fundamentação idônea para a denegação do benefício.
+    É o relatório.
+    As razões não merecem acolhimento.
+    A Súmula Vinculante 26 dispõe que: para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+    No presente caso, o Juízo de Direito da Vara das Execuções Criminais de Ribeirão Preto, dispôs o seguinte:
+    “Imprescindível a submissão do sentenciado a exame criminológico, com o escopo de verificar se se encontra satisfeito, na espécie, o requisito subjetivo legalmente exigido para a concessão de benefício.
+    Tal aferição psicológica revela-se indispensável no caso em comento em razão da gravidade do delito cometido pelo condenado, concretamente considerada (deveras prejudicial à sociedade), bem assim da personalidade criminosa por ele revelada.
+    Necessário, então, diante desse contexto, constatar se, atualmente, dispõe o sentenciado de condições mérito para obter benefício, sem novos abalos à paz social.
+    Em outros termos: o interesse público exige, no caso em apreço, a realização da avaliação supracitada, porquanto não se pode admitir que a sociedade seja laboratório de criminosos. Tal providência, ademais, encontra amparo no entendimento consolidado do Egrégio Supremo Tribunal Federal e do Colendo Superior Tribunal de Justiça. Confira-se, ao propósito, a súmula vinculante n. 26, nestes termos:
+    “PARA EFEITO DE PROGRESSÃO DE REGIME NO CUMPRIMENTO DE PENA POR CRIME HEDIONDO, OU EQUIPARADO, O JUÍZO DA EXECUÇÃO OBSERVARÁ A INCONSTITUCIONALIDADE DO ART. 2º DA LEI N. 8.072, DE 25 DE JULHO DE 1990, SEM PREJUÍZO DE AVALIAR SE O CONDENADO PREENCHE, OU NÃO, OS REQUISITOS OBJETIVOS E SUBJETIVOS DO BENEFÍCIO, PODENDO DETERMINAR, PARA TAL FIM, DE MODO FUNDAMENTADO, A REALIZAÇÃO DE EXAME CRIMINOLÓGICO” grifo nosso.
+    O Colendo Superior Tribunal de Justiça, por sua vez, editou, a respeito, a súmula n. 439, in verbis:
+    “Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada”.
+    Posto isso, DETERMINO que o condenado seja submetido a exame criminológico, a ser realizado por equipe profissional - psicológico e assistente social que atua no presídio onde ele se encontra” (eDOC 2, p. 108-111).
+    Na hipótese, verifica-se que o Juízo reclamado, ao optar pela realização do exame criminológico, fundamentou sua decisão de forma clara e concisa.
+    Feitas essas considerações, observo que o magistrado da origem não descumpriu o disposto na Súmula Vinculante 26, pois entendeu ser necessária a emissão de parecer técnico sobre a evolução do apenado durante a execução. Posteriormente, munido dessas informações, decidirá sobre a progressão.
+    Portanto, a decisão questionada está em consonância com a jurisprudência firmada pelo STF acerca do tema, ou seja, apesar do silêncio da Lei 10.792/2003 a respeito do exame criminológico, o Juiz, sempre que o entender necessário, poderá determiná-lo, desde que fundamentadamente, e as conclusões deles advindas poderão subsidiar a decisão de deferimento ou indeferimento da progressão de regime pleiteada.
+    Nesse sentido, destaco diversos precedentes: HC 94.503/RS, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 12.12.2008; HC 99.638/SP, Rel. Min. Eros Grau, 2ª Turma, DJe 5.2.2010; HC 101.264/RS, Rel. Min. Dias Toffoli, 1ª Turma, DJe 4.6.2010; HC 93.994/RS, Rel. Min. Celso de Mello, 2ª Turma, DJe 18.6.2010; HC 107.666/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 15.3.2012; HC 108.738/RS, Rel. Min. Rosa Weber, 1ª Turma, DJe 10.5.2012; HC 111.830/SP, Rel. Min. Rosa Weber, 1ª Turma, DJe 18.2.2013; HC 114.409/SP, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 16.8.2013; Rcl 10.383/SP, de minha relatoria, DJe 3.10.2012; e Rcl 18.419/SP, Rel. Min. Cármen Lúcia, DJe 5.9.2014.
+    Ante o exposto, nego seguimento à presente reclamação (RISTF, art. 21, § 1º), prejudicada a medida liminar pleiteada.
+    Publique-se.
+    Brasília, 24 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
