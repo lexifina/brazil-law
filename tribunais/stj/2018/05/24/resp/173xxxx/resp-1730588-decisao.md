@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por CPB-ENGENHARIA, CONSULTORIA E INCORPORAÇÕES LTDA contra acórdão assim ementado (fl. 247):
+AGRAVO DE INSTRUMENTO. PROMESSA DE COMPRA E VENDA. RECONVENÇÃO. INDENIZAÇÃO E RESTITUIÇÃO DE VALORES PAGOS DECORRENTES DE CONTRATO DE EMPREITADA. PRESCRIÇÃO DECENAL. DECISÃO AGRAVADA PARCIALMENTE REFORMADA.
+Em se tratando de pretensão de reparação de danos fundada em relação contratual estabelecida entre as partes, é de dez anos o prazo prescricional, nos termos do art. 205 do Código Civil. Precedentes deste Tribunal de Justiça e do STJ.
+INVERSÃO DO ÔNUS DA PROVA. DESCABIMENTO.
+Descabe inversão do ônus da prova quando não demonstrado qualquer traço de inferioridade técnica, cultural, econômica ou probatória do consumidor em relação ao fornecedor. Decisão agravada reformada tão somente para afastar a inversão do ônus da prova.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO. UNÂNIME.
+Em suas razões, a recorrente alega afronta aos arts. 206 e 206, § 3º, do Código Civil. Aduz que "o prazo prescricional aplicável à pretensão de reparação civil, seja ela decorrente de uma responsabilidade contratual ou extracontratual, é o trienal" (fl. 269).
+Passo a decidir.
+O Tribunal de origem, ao julgar o agravo de instrumento, concluiu que (fl. 250):
+É de se ter por inaplicável a prescrição trienal, uma vez que prevalece o entendimento de que é de dez anos o prazo prescricional quando a pretensão de reparação tiver por fundamento relação contratual estabelecida entre as partes, como na hipótese em exame, nos termos do art. 205 do Código Civil, razão pela qual vai mantida a a decisão agravada no ponto.
+A conclusão acima reproduzida está em desarmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, no sentido de que o prazo prescricional de três anos para a pretensão de reparação civil aplica-se tanto à responsabilidade contratual quanto à responsabilidade extracontratual (REsp 1281594/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/11/2016, DJe 28/11/2016). Na mesma direção:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/73). AÇÃO ORDINÁRIA. TELEFONIA. CONTRATOS DE MANUTENÇÃO, REPAROS E OPERAÇÕES. RESPONSABILIDADE CONTRATUAL. PRAZO PRESCRICIONAL TRIENAL. QUITAÇÃO DOS DÉBITOS. PRETENSÃO DE REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DOS ENUNCIADOS N.º 5 E 7/STJ. NATUREZA ADESIVA DO CONTRATO. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS LEGAIS. SERVIÇOS DE ADSL. NÃO PRESTADOS. PRETENSÃO DE REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. DANOS CAUSADOS POR TERCEIROS. PERÍODO ABARCADO PELA QUITAÇÃO OUTORGADA NOS AUTOS. PEDIDO IMPROCEDENTE. BÔNUS. CUMPRIMENTO DAS METAS. NÃO COMPROVAÇÃO. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. INCIDÊNCIA DO ENUNCIADO N.º 283/STF. PARALISAÇÃO DOS SERVIÇOS DE MANUTENÇÃO. PREVISÃO CONTRATUAL. INCIDÊNCIA DO ENUNCIADO N.º 5/STJ. ONEROSIDADE EXCESSIVA. ROUBO DE CABOS. TEORIA DA IMPREVISÃO. INAPLICABILIDADE. VALORES RETRIBUÍDOS. INCIDÊNCIA DOS ÓBICES SUMULARES 5 E 7/STJ. INÉPCIA DA PETIÇÃO INICIAL.
+(..)
+4. A regra do artigo 206, § 3º, V, do Código Civil, regula o prazo prescricional relativo às ações de reparação de danos na responsabilidade civil contratual e extracontratual.
+5. "O termo "reparação civil", constante do art. 206, § 3º, V, do CC/2002, deve ser interpretado de maneira ampla, alcançando tanto a responsabilidade contratual (arts. 389 a 405) como a extracontratual (arts. 927 a 954), ainda que decorrente de dano exclusivamente moral (art. 186, parte final), e o abuso de direito (art. 187). Assim, a prescrição das pretensões dessa natureza originadas sob a égide do novo paradigma do Código Civil de 2002 deve observar o prazo comum de três anos. Ficam ressalvadas as pretensões cujos prazos prescricionais estão estabelecidos em disposições legais especiais." (REsp 1281594/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/11/2016, DJe 28/11/2016).
+(..)
+18. RECURSO ESPECIAL DESPROVIDO.
+(REsp 1632842/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017)
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PLANO DE SAÚDE. RESSARCIMENTO DE DESPESAS. REGRA DE TRANSIÇÃO DO ART. 2.028/CC. PRESCRIÇÃO TRIENAL. APLICAÇÃO DA TESE FIRMADA EM REPETITIVO. RESP Nº 1.360.969/RS.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Tratando-se de ação buscando a reparação civil decorrente de inadimplemento contratual de plano de saúde, o atual prazo prescricional aplicável também é o trienal, à luz dos fundamentos da tese firmada por ocasião do julgamento do REsp n. 1.360.969/RS, afetado à temática dos recursos repetitivos.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 273.735/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 26/09/2017, DJe 03/10/2017)
+Em face do exposto, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial, determinando o retorno dos autos à origem para novo julgamento, observada a jurisprudência desta Corte no que tange ao prazo prescricional trienal.
+Intimem-se.
