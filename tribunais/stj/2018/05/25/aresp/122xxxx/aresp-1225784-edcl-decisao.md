@@ -1,0 +1,13 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração interpostos por Ilma [NOME] contra decisão que não conheceu do agravo em recurso especial.
+Argumenta a parte insurgente que, "ao contrário do aduzido no ato, ora embargado, o recurso que foi submetido à apreciação e julgamento desse Colendo Tribunal se prende a um agravo interposto em 18/07/2017 por inadmissão de um recurso especial e não à negativa de seguimento deste, o que é bem diferente dentro das normas processuais" (e-STJ, fl. 357).
+É o relatório.
+Os embargos declaratórios são cabíveis quando houver contradição nas decisões judiciais ou quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal, ou mesmo correção de erro material, na dicção do art. 1.022 do CPC vigente, algo inexistente no caso concreto.
+Com efeito, ao contrário do que pretende fazer crer a embargante, a decisão agravada deixou clara a inviabilidade do recurso especial diante da existência de julgado sob o rito do art. 543-C do Código de Processo Civil de 1973.
+Confira-se (e-STJ, fl. 325):
+Recurso especial interposto pelo Particular, com fundamento no artigo 105, III, "a", da Constituição Federal, em face do acórdão proferido pelo Pleno desta Corte, que negou provimento a Agravo Regimental manejado em face da decisão que negou seguimento a Recurso Especial.
+Segundo jurisprudência do Superior Tribunal de Justiça, é inadmissível a interposição de novo Recurso Especial contra acórdão que, no julgamento de Agravo Regimental ou interno, em 2º Grau, mantém a decisão que negara seguimento ao recurso anterior, com base no art. 543-C, § 7º, I, do CPC/73.
+Com efeito, "o Supremo Tribunal Federal e o Superior Tribunal de Justiça firmaram entendimento no sentido de que o único recurso cabível para impugnação de possíveis equívocos na aplicação do art. 543-B ou 543-C, do CPC, é o agravo interno, a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual". (..) Desta forma, sendo negado provimento ao agravo interno contra decisão que indeferiu o processamento do recurso especial com base no art. 543-C, § 7º, I, do CPC, contra tal acórdão não cabe a interposição de qualquer recurso, por ser inadmissível o recurso especial que aponta violação ao art. 543-C, § 7º, I, do CPC, e, por conseguinte, do respectivo agravo em recurso especial" (STJ, EDcl no Aglnt no AREsp 905.017/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 03/10/2016). Em igual sentido: STJ, Aglnt no AREsp 866.500/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 1º/02/2017.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
