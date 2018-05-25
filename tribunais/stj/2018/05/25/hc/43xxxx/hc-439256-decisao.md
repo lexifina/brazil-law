@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCOS [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2240673-27.2017.8.26.0000).
+Depreende-se dos autos que o paciente está preso preventivamente, acusado de praticar a conduta prevista no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fls. 36/38).
+Segundo consta da denúncia, o paciente juntamente com [NOME], "previamente conluiados e agindo em concurso e unidade de desígnios com terceira pessoa não identificada de prenome "ALAN", mantinham em depósito ou guardavam para a mercancia ilícita ou entrega de qualquer forma a consumo de terceiras pessoas, 40 invólucros de cocaína, pesando 1.450,0 gramas  1,450kg (um quilo e quatrocentos e cinquenta gramas) , 28 invólucros de "crack", pesando 1.188,0 gramas  1,188kg (um quilo e cento e oitenta e oito gramas) , 08 porções de maconha, pesando 160,0 gramas  cento e sessenta gramas , 28 trouxinhas de papel alumínio contendo "crack", pesando 66,0 gramas  sessenta e seis gramas , 02 trouxinhas de plástico transparente contendo "crack", pesando 10,0 gramas e 02 tijolos de maconha, pesando 1.015,0 gramas  1,015kg (um quilo e quinze gramas) " (e-STJ fls. 42/43, grifei).
+Irresignada, a defesa impetrou prévio writ na origem, sendo a ordem denegada em acórdão cuja ementa foi definida mediante os seguintes termos (e-STJ fl. 17):
+HABEAS CORPUS - ARTIGO 33, DA LEI Nº 11.343/06 - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - DECISÃO FUNDAMENTADA  PRESENÇA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR. ORDEM DENEGADA.
+No presente habeas corpus, alega a impetrante que o decreto de prisão preventiva careceria de fundamentação concreta e que "O paciente é primário, de bons antecedentes criminais, nunca se envolveu em qualquer delito, é trabalhador com registro em carteira profissional, possui residência fixa e ocupação lícita" (e-STJ fl. 3).
+Sustenta, assim, que "É ilógico e totalmente descabido presumir que um cidadão trabalhador, cumpridor de seus deveres sociais e familiares, mantenedor de residência fixa de trabalho honesto e cargo de extrema confiança, trabalhador virá tumultuar a instrução processual ou mesmo se furtar de uma eventual e futura aplicação da lei penal, como é o caso do ora paciente" (e-STJ fls. 8/9).
+Pondera, ainda, que "A menção à gravidade abstrata do delito ou a vedação legal contida no artigo 44 da lei 11.343/06, uma vez aventada de forma genérica, sem relação com os fatos dos autos se mostra insuficiente para motivar a decisão que decreta a prisão preventiva" (e-STJ fl. 9).
+Requer, liminar e definitivamente, a concessão da ordem para revogar a prisão preventiva decretada em desfavor do paciente, ainda que com estabelecimento de medidas cautelares diversas da prisão.
+A liminar foi indeferida (e-STJ fls. 59/61).
+As informações foram prestadas às e-STJ fls. 65/67 e 70/83.
+O Ministério Público Federal manifestou-se pela prejudicialidade do habeas corpus (e-STJ fls. 85/86).
+Informações atualizadas prestadas às e-STJ fls. 88/115.
+É, em síntese, o relatório.
+Consoante informações prestadas pelo Juízo da 2ª Vara Criminal da Comarca de Piracicaba/SP e conforme consta do parecer ministerial, em 24/4/2018 foi proferida sentença condenatória pelo Juízo de piso, aplicando ao ora paciente a pena de 5 anos de reclusão, em regime inicial fechado, e multa, pela prática dos crimes descritos na denúncia. Foi-lhe negado o direito de recorrer em liberdade.
+Fica, portanto, sem objeto o pedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar, visto que a restrição da liberdade, agora, decorre de novo título, não submetido ao pronunciamento do Tribunal de origem.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
