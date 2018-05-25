@@ -1,0 +1,10 @@
+DECISÃO
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. TRABALHADOR RURAL. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial fundado na alínea c do art. 105, III da Constituição Federal, interposto contra Acórdão do TRF da 1a. Região.
+2. Em seu Apelo Especial inadmitido, a parte recorrente, em parca fundamentação, aponta divergência jurisprudencial, objetivando a concessão do benefício previdenciário.
+3. É o breve relatório.
+4. Não é possível conhecer do Recurso Especial fundado no art. 105, III, alíneas a e c da Constituição Federal, uma vez que o recorrente não indicou qual seria o dispositivo de Lei Federal de interpretação controvertida nos Tribunais, o que atrai a incidência do enunciado 284 da Súmula de jurisprudência do Supremo Tribunal Federal, por analogia.
+5. De qualquer forma, ainda quanto à alínea c, o sugerido dissídio jurisprudencial não foi analiticamente demonstrado. A interposição de Recurso Especial para o Superior Tribunal de Justiça requer o primoroso atendimento de requisitos constitucionais de alta definição jurídica; assim, a demonstração da chamada divergência pretoriana deve se dar de forma analítica e documentada, por meio do cotejo analítico, para se comprovar que a decisão recorrida está em desacordo com precedentes julgados de outros Tribunais, inclusive e especialmente deste STJ (art. 105, III, c da Carta Magna).
+6. Ocorre que no caso a análise da demonstração da divergência não veio manifestada de forma escorreita e precisa, exata e completa. Apresentou-se o paradigma apenas por sua ementa, sem que fosse feito o indispensável cotejo, com a conclusão de discrepância, fato que impede o conhecimento do recurso pela alínea c do permissivo constitucional (arts. 1.029, § 1o. do CPC/2015).
+7. Ante o exposto, com fundamento no art. 932, inciso IV, alínea a do CPC/2015, conhece-se do Agravo para negar provimento ao Recurso Especial.
+8. Publique-se. Intimações necessárias.
