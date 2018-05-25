@@ -1,0 +1,18 @@
+RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA AO QUANTO DECIDIDO NO HC 119.759. PERDA SUPERVENIENTE DE OBJETO.
+    Vistos etc.
+    1. Trata-se de reclamação, com pedido de liminar, proposta Sérgio Eduardo Olivetti Basso contra decisão proferida pelo Juízo da Vara das Execuções Criminais da Comarca de Itapetininga-SP, à alegação de afronta ao quanto decidido no HC 119.759.
+    Consta da petição inicial que, nos autos do HC 119.759, foi concedida medida liminar para “suspender os efeitos do mandado de prisão expedido, nos autos da Apelação 0006218-93.2002.8.26.0642 do TJSP, contra Sérgio Eduardo Olivetti Basso até o trânsito em julgado da condenação ou até a imposição de prisão com fundamentação de caráter cautelar”.
+    Relata que a 1ª Turma deste Supremo Tribunal Federal, confirmando a referida liminar, concedeu a ordem para que pudesse aguardar em liberdade o trânsito em julgado da decisão condenatória.
+    Sustenta que o Juízo da Vara de Execuções Criminais da Comarca de Itapetininga, em descumprimento ao acórdão da 1ª Turma deste Supremo Tribunal Federal, fez publicar o seguinte ato decisório:
+    “584.048 SÉRGIO EDUARDO OLIVETTI BASSO r. decisão de fls. 19 do incidente de SITUAÇÃO PROCESSUAL: Tendo em vista que foi negado seguimento ao agravo que visava o processamento do recurso especial (fls. 17/18), o que torna a decisão de 1° grau irrecorrível, determino a expedição de mandado de prisão em relação à 3ª execução. Dessa forma, restabeleço a decisão de fls. 34 do apenso de LC (revogação do livramento condicional por nova condenação). Elabore-se novo cálculo de pena. Mantenho a decisão de fls. 44/45 do apenso de sindicância pelos próprios fundamentos. r. decisão de fls. 50 do incidente de SINDICÂNCIA: ?Fls. 47/49: dê-se ciência ao Defensor, da r. decisão proferida a fls. 44/45. Retifique-se o cálculo de penas, com urgência, ante os documentos juntados a fls. 02/03, do apenso Situação Processual, e conforme já determinado a fls. 145, foi apenso Roteiro de Penas. Regularizados os autos, tornem conclusos no apenso Roteiro de Penas, para apreciação do pedido de restabelecimento do Livramento Condicional.? - Adv. ROSILENE MOURA LEITE OAB/SP 283.257 – Adv. JOÃO BATISTA DE LIMA RESENDE - OAB/SP 136.890.
+    Argumenta que o Juízo reclamado não poderia determinar sua prisão, porquanto não transitada em julgada a sentença condenatória proferida no Processo nº 0006218-93.2002.8.26.0642. Afirma estar pendente de julgamento agravo em recurso especial pelo Superior Tribunal de Justiça.
+    É o relatório.
+    Decido.
+    1. Nos autos do HC 119.759, por meio da Petição STF 18.712/2014, o reclamante noticiou o suposto descumprimento da decisão nele proferida pelo Juízo da Vara de Execuções Criminais, em razão do mesmo ato que se impugna na presente reclamação. Consignei, ao exame da referida petição, que “em contato telefônico com o Juízo da 2ª Vara das Execuções Criminais da Comarca de Campinas/SP, meu Gabinete foi informado de que, em 26.5.2014, foi expedido alvará de soltura em favor do paciente.”
+    2. Desta forma, tendo em vista que não mais subsiste o ato judicial reclamado apontado na inicial, fica evidente a perda superveniente de objeto da presente reclamação.
+    3. Verifico, ademais, em consulta ao andamento processual do feito de origem no sítio eletrônico do STJ na rede mundial de computadores, o superveniente trânsito em julgado da sentença condenatória proferida no Processo nº 0006218-93.2002.8.26.0642, ocorrido em 27.4.2015.
+    4. Ante o exposto, julgo extinta a presente reclamação, nos termos do art. 485, VI, do CPC/2015.
+    Publique-se.
+    Brasília, 25 de maio de 2018
+Ministra Rosa Weber
+Relatora
