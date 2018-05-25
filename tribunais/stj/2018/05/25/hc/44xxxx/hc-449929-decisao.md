@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] contra o acórdão proferido pelo Tribunal de Justiça de Pernambuco no HC n. 0000662-86.2018.8.17.0000.
+Infere-se dos autos que o paciente, por fatos ocorridos em 15/7/2014, foi denunciado em 10/2/2015 e teve a prisão preventiva decretada no dia 5/3/2015. Em 4/4/2017, nos Autos n. 0000212-51.2015.8.17.0970, foi pronunciado como incurso no art. 121, § 2º, I, do Código Penal (fls. 50/60).
+Aqui, alega a Defensoria Pública, em síntese, a existência de constrangimento ilegal ante ao excesso de prazo da prisão cautelar.
+Aduz que, embora reconheça que os prazos processuais são apenas parâmetros ao desfecho da instrução, é incontroverso, na hipótese, a violação ao princípio da razoabilidade, mormente se considerarmos, conforme demonstrado inicialmente, que o processo é desprovido de complexidade, inexistindo qualquer incidente provocado pelo regular exercício do direito de defesa (fls. 2/3).
+É o relatório.
+O deferimento de liminar em habeas corpus é medida de caráter excepcional, cabível apenas quando a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano.
+Na espécie, neste juízo de cognição preliminar, sem um exame mais pormenorizado dos elementos que instruem o feito, não há como afastar a conclusão da Corte local de que, pelo que se observa do andamento processual, embora possa ter se prolongado por tempo maior que o desejado, não há que se falar em ilegalidade por excesso de prazo, já que o processo tem se curso regular e não se encontra paralisado, tanto que houve o julgamento em primeiro grau do recurso em sentido estrito interposto contra a decisão de pronúncia (fl. 137). Destacou ainda que, julgado parcialmente procedente o recurso interposto pela defesa, o Juízo de origem proferiu nova sentença de pronuncia, aguardando-se intimação das partes de nova decisão (fl. 137).
+Além do mais, pelo que consta das informações prestadas às fls. 158/183, há determinação do Juízo de origem para que, com o trânsito em julgado da nova decisão (fls. 176/181), o processo seja incluído na pauta da 2ª reunião do Tribunal do Júri da comarca, prevista para o período de agosto a novembro do corrente ano (fl. 182).
+Com essas considerações, não tendo, por ora, como configurado constrangimento ilegal passível de ser afastado mediante o deferimento da liminar pretendida, indefiro-a.
+Solicitem-se informações ao Tribunal de Justiça de Pernambuco e ao Juízo da Vara Criminal da comarca de Moreno/PE acerca da atual situação de [NOME] e dos Autos n. 0000212-51.2015.8.17.0970.
+Após, ao Ministério Público Federal para parecer.
+Publique-se.
