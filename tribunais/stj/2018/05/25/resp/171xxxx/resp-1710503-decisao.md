@@ -1,0 +1,41 @@
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO DE AÇÕES. JUROS DE MORA SOBRE DIVIDENDOS. TERMO INICIAL. CITAÇÃO NA FASE DE CONHECIMENTO. INVIABILIDADE DE MODIFICAÇÃO DOS CRITÉRIOS DE CÁLCULO ACOBERTADOS PELA COISA JULGADA. ACÓRDÃO RECORRIDO EM DESCONFORMIDADE COM A JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por [NOME], fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Egrégio Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"agravo de instrumento. direito privado não especificado. telefonia. subscrição de ações. impugnação à fase de cumprimento de sentença.
+A decisão agravada é anterior à entrada em vigor do novo Código de Processo Civil, assim como o presente recurso. Considerando a orientação proposta no Enunciado nº 2 aprovado pelo plenário do Superior Tribunal de Justiça, aplicam-se as regras do Código de Processo Civil de 1973, bem como as interpretações dadas, até então, pela jurisprudência.
+[NOME] TELECOM PARTICIPAÇÕES S/A. Por se tratarem de companhias distintas, não são devidos os juros sobre capital próprio decorrentes das ações da [NOME] Telecom Participações S/A.
+PARCELAS EM DUPLICIDADE. Comprovada a inclusão dos rendimentos em duplicidade referentes aos exercícios de 2008 e 2009 quanto às ações de telefonia fixa e, ainda, daqueles referentes ao exercício de 2003, em relação as ações de telefonia móvel, ensejando assim o claro cômputo em duplicidade das mesmas parcelas, há de ser provido o agravo de instrumento interposto pela companhia telefônica.
+[NOME]. Em relação às ações de telefonia fixa, conforme se vislumbra do Aviso aos Acionistas colacionado aos autos, na data de 14 de maio de 2001, foram distribuídos os rendimentos relativos ao exercício do ano de 2000, no valor de R$ 0,[CPF], para os acionistas originários da incorporação da CRT, razão pela qual a conta deverá ser retificada, no ponto.
+No que tange às ações da Celular CRT, os montantes incluídos no exercício de 2008 não encontram amparo no aviso de acionistas colacionado aos autos, razão pela qual deve a parte credora retificar a conta.
+RENDIMENTOS RELATIVOS ÀS AÇÕES ORDINÁRIAS. Conforme se verifica dos autos, a parte credora fez incidir a rubrica de R$ 0,047160, quando em verdade deveria ter computado apenas o valor de R$ 0,02470197, referente ao rendimento distribuído aos acionistas preferenciais.
+JUROS DE MORA. DIVIDENDOS. Conforme preceitua o artigo 394 do Código Civil, considera-se devedor aquele que deixa de adimplir com a obrigação assumida ao tempo, lugar e forma convencionada com o credor, motivo pelo qual as parcelas vencidas no curso do processo, acerca dos denominados dividendos, devem observar a incidência de juros de mora a contar do vencimento de cada parcela.
+DEFLAÇÃO. Diante do julgamento do Recurso Especial nº 1.361.191/RS, afetado a sistemática dos recursos repetitivos, o Superior Tribunal de Justiça sedimentou posicionamento no sentido de que se aplicam os índices de deflação na correção monetária de crédito decorrente de título executivo judicial, preservado o seu valor nominal.
+Caso em que não comprovada a ocorrência do fenômeno, a ensejar a retificação da conta elaborada pela parte credora.
+COMPENSAÇÃO. HONORÁRIOS. Ao longo da impugnação à fase de cumprimento de sentença, não houve requerimento da companhia telefônica acerca da compensação entre a verba honorária fixada na fase executiva e aquela decorrente do incidente de impugnação à fase de cumprimento de sentença.
+O pleito apresentado constitui inovação recursal, motivo pelo qual não merece ser conhecido, porquanto a manifestação deste Relator sobre o ponto redundaria em supressão de instância.
+RECURSO CONHECIDO EM PARTE, E NESTA, PROVIDO PARCIALMENTE." (e-STJ fls. 664-665)
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 696-701).
+Nas razões do recurso especial, o recorrente alega a violação do art. 405 do Código Civil e dos arts. 219, 502, 505 e 507 do Código de Processo Civil de 2015, ao argumento de que "os juros de mora devem ser computados desde a data da citação, independentemente de ser sua incidência sobre parcelas vencidas ou vincendas" (e-STJ fl. 710), sob pena de ofensa à coisa julgada.
+Contrarrazões às fls. 734-742 (e-STJ).
+É o relatório.
+Passo a decidir.
+O presente recurso merece provimento.
+Com efeito, esta Corte Superior, por ocasião do julgamento do REsp 1.301.989/RS, de minha relatoria, DJe 19/03/2014, sob rito do art. 543-C do Código de Processo Civil de 1973, entendeu que, nas ações de complementação de ações referentes a contratos de participação financeira, incidem juros de mora sobre os dividendos não pagos desde a data da citação na fase de conhecimento, ressalvando-se a manutenção de critérios diversos nas hipóteses de coisa julgada.
+Eis a ementa do referido paradigma:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. CIVIL E PROCESSUAL CIVIL. [NOME] TELECOM S/A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CESSÃO DE DIREITOS. LEGITIMIDADE ATIVA DO CESSIONÁRIO. COMPLEMENTAÇÃO DE AÇÕES. CONVERSÃO DA OBRIGAÇÃO EM PERDAS E DANOS. CRITÉRIOS. COISA JULGADA. RESSALVA.
+1. Para fins do art. 543-C do CPC: 1.1. O cessionário de contrato de participação financeira tem legitimidade para ajuizar ação de complementação de ações somente na hipótese em que o instrumento de cessão lhe conferir, expressa ou tacitamente, o direito à subscrição de ações, conforme apurado nas instâncias ordinárias.
+1.2. Converte-se a obrigação de subscrever ações em perdas e danos multiplicando-se o número de ações devidas pela cotação destas no fechamento do pregão da Bolsa de Valores no dia do trânsito em julgado da ação de complementação de ações, com juros de mora desde a citação.
+1.3. Os dividendos são devidos durante todo o período em que o consumidor integrou ou deveria ter integrado os quadros societários.
+1.3.1. Sobre o valor dos dividendos não pagos, incide correção monetária desde a data de vencimento da obrigação, nos termos do art. 205, § 3º, Lei 6.404/76, e juros de mora desde a citação.
+1.3.2. No caso das ações convertidas em perdas e danos, é devido o pagamento de dividendos desde a data em que as ações deveriam ter sido subscritas, até a data do trânsito em julgado do processo de conhecimento, incidindo juros de mora e correção monetária segundo os critérios do item anterior.
+1.4. Ressalva da manutenção de critérios diversos nas hipóteses de coisa julgada.
+(..)
+3. RECURSO ESPECIAL DE [NOME] TELECOM S/A NÃO CONHECIDO E RECURSO ESPECIAL DE SÉRGIO MARQUES ASSESSORIA IMOBILIÁRIA LTDA PARCIALMENTE CONHECIDO E, NESSA PARTE, PARCIALMENTE PROVIDO.
+(REsp 1301989/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, DJe 19/03/2014)
+No caso sob apreciação, a decisão que foi objeto do agravo de instrumento apreciado pelo Tribunal de origem fixou a premissa de que, "quanto aos juros de mora sobre dividendos, o cálculo apresentado pela credora adotou o critério fixado no título judicial, qual seja, a incidência de juros moratórios contados da data da citação" (e-STJ fl. 30).
+Essa premissa não foi afastada no acórdão recorrido e pode ser confirmada, de plano, mediante a simples leitura da decisão proferida por esta Corte Superior, ainda na fase de conhecimento do feito, por ocasião do julgamento do Recurso Especial nº 1.207.557/RS, que foi provido "para determinar que os juros moratórios incidam a partir da citação" (e-STJ fls. 576-579).
+Nesse contexto, por qualquer perspectiva que se observe a questão, verifica-se que o entendimento do Tribunal de origem, ao "readequar os juros de mora incidentes sobre os dividendos a contar do vencimento de cada parcela" (e-STJ fl. 679), destoa da jurisprudência deste Superior Tribunal de Justiça, seja em virtude do confronto com o critério disposto no referido paradigma ou da manifesta ofensa à coisa julgada.
+Ante o exposto, com base no art. 932, inciso V, do Código de Processo Civil de 2015 c/c a Súmula 568/STJ, dou provimento ao recurso especial para determinar que os juros de mora sobre os dividendos incidam a partir da data da citação, restabelecendo a decisão agravada na origem quanto a esse ponto.
+Intimem-se.
