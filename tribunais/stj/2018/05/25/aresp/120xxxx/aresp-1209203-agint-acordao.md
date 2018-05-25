@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. ENUNCIADO ADMINISTRATIVO N. 3. DIA 11/8. FERIADO NO ÂMBITO DA JUSTIÇA FEDERAL E DOS TRIBUNAIS SUPERIORES. AUSÊNCIA DE EXPEDIENTE FORENSE NO TRIBUNAL ESTADUAL. NÃO COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DE RECURSO. APLICAÇÃO DO ART. 1.003, § 6º, DO NOVO CPC. IMPOSSIBILIDADE DE REGULARIZAÇÃO POSTERIOR. AGRAVO DESPROVIDO.
+1. Nos termos do § 6º do art. 1.003 do NCPC, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+2. O entendimento jurisprudencial desta Corte que permite a comprovação de feriado local ou ausência de expediente forense em momento posterior foi construído sob a égide do Código de Processo Civil/1973, não se aplicando aos recursos interpostos na vigência do novo código, diante de determinação expressa em sentido contrário.
+3. Agravo desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por [NOME] contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial, por extemporâneo (e-STJ, fls. 282-283).
+Em sua irresignação, o agravante sustenta que "a Nobre Ministra Relatora não se atentou às normas processuais" correlatas à regularidade do processo especialmente no que concerne à suspensão de prazos forenses, no que tange aos feriados federais e inclusive à suspensão de expediente desta Corte Superior, os quais não se enquadram aos termos do § 6º do art. 1.003 do CPC. Por essa razão, pondera que "a decisão merece ser totalmente reformada em face de brutal afronta" às reiteradas decisões deste Tribunal Superior, bem como à legislação em vigor (e-STJ, fl. 291).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016, aos recursos interpostos contra decisões publicadas a partir de 18 de março de 2016, serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+De acordo com tal entendimento, foi julgado intempestivo o agravo em recurso especial, porquanto, publicada a decisão recorrida no dia 13/4/2016 (fl. 222, e-STJ), o prazo recursal de 15 (quinze) dias úteis iniciou-se em 15/4/2016 (sexta-feira) e terminou dia 5/5/2016 (quinta-feira), sendo o agravo somente interposto em 9/5/2016.
+Nesse aspecto, considerando ser o presente feito oriundo do Tribunal de Justiça do Estado de São Paulo, é certo que a ausência de expediente forense em razão de feriado local deveria ter sido comprovada na interposição do recurso, segundo disposição contida no § 6º do art. 1.003 do novo CPC: "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+Portanto, o entendimento jurisprudencial desta Corte que permite a comprovação posterior de feriado local ou ausência de expediente forense no Tribunal de origem foi construído sob a égide do Código de Processo Civil/1973, não se aplicando aos recursos interpostos na vigência do novo código, diante de determinação expressa em sentido contrário.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO CPC/2015. INTEMPESTIVIDADE. FERIADO LOCAL NÃO COMPROVADO, NO ATO DA INTERPOSIÇÃO DO RECURSO. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR. ARTS. 1.003, § 6º, E 1.029, § 3º, DO CPC/2015. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 20/10/2016, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na forma da jurisprudência - firmada sob a égide do CPC/73 -, "a comprovação da tempestividade do recurso, em decorrência de feriado local ou suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final pode ocorrer posteriormente, em sede de Agravo Regimental" (STJ, AgRg no AREsp 137.141/SE, Rel.
+Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, DJe de 15/10/2012).
+III. O CPC/2015 não possibilita a mitigação ao conhecimento de recurso intempestivo. De fato, nos casos em que a decisão agravada tenha sido publicada já na vigência do novo CPC, descabe a aplicação da regra do art. 932, parágrafo único, do CPC/2015, para permitir a correção do vício, com a comprovação posterior da tempestividade do recurso. Isso porque o CPC/2015 acabou por excluí-la (a intempestividade) do rol dos vícios sanáveis, conforme se extrai do seu art. 1.003, § 6º ("o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso"), e do seu art. 1.029, § 3º ("o Supremo Tribunal Federal ou o Superior Tribunal de Justiça poderá desconsiderar vício formal de recurso tempestivo ou determinar sua correção, desde que não o repute grave)". Nesse sentido: STJ, AgInt no REsp 1.626.179/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2017; AgInt no REsp 1.638.816/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 06/04/2017.
+IV. No caso, a decisão que inadmitiu o Recurso Especial foi disponibilizada em 16/05/2016, segunda-feira, considerando-se publicada em 17/05/2016, terça-feira - na vigência do CPC/2015 -, sendo o Agravo em Recurso Especial interposto somente em 09/06/2016, quinta-feira, após o transcurso do prazo recursal de 15 dias úteis, ocorrido em 08/06/2016, quarta-feira.
+V. A partir da vigência do CPC/2015, a comprovação da ocorrência de feriado local, para fins de aferição da tempestividade do recurso, deve ser realizada no momento de sua interposição, não se admitindo a comprovação posterior, como pretende a parte agravante.
+VI. Agravo interno improvido.
+(AgInt no AREsp 990.221/MT, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 04/05/2017, DJe 10/05/2017)
+Dessa forma, ainda que tenha havido o devido preparo, o insurgente não logrou êxito em demonstrar a tempestividade do agravo em recurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
