@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de embargos de declaração - fls. 172/176e -, opostos pelo ESTADO DO PARANÁ, em face de decisão por mim proferida às fls. 13/167e, que conheceu do Agravo para não conhecer do Recurso Especial por si interposto.
+Nas razões de seus aclaratórios, sustenta a embargante que "consoante se infere da decisão ora juntada aos autos, após o indeferimento do redirecionamento do feito, o Estado do Paraná apresentou novas provas da dissolução irregular da sociedade, o que levou o magistrado de primeiro grau a deferir, num segundo momento, portanto, o pedido de redirecionamento realizado pelo ente públicoá (sic) nos autos da execução fiscal n.º 0002845-56.2012.8.16.0036 - Projudi" (fl. 172e).
+Pelo que informado pela embargante e levando-se em consideração que o Juízo Singular é aquele mais próximo dos fatos que cercam a controvérsia, de rigor a extinção do presente feito sem resolução do mérito, por superveniente perda de objeto, nos termos do art. 485, inciso VI, do CPC/2015.
+Do exposto, acolho os embargos de declaração para, nos termos do art. 485, inciso VI, do CPC/2015, extinguir o presente feito em razão de sua perda superveniente de objeto, tendo em vista o acolhimento do pedido de redirecionamento formulado na origem.
+I.
