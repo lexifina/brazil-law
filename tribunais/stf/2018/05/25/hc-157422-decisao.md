@@ -1,0 +1,21 @@
+Decisão:
+Ementa: Processual penal. Habeas Corpus. Prisão cautelar. Tese de negativa de autoria. Excesso de prazo. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 448.633, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 6 (seis) anos e 5 (cinco) meses de reclusão, em regime inicial fechado, pelo crime previsto no artigo 157, § 2º, I e II, do Código Penal, vedado o direito de recorrer em liberdade.
+    3. Da sentença, a defesa interpôs apelação no Tribunal de Justiça do Estado de São Paulo, pendente de julgamento.
+    4. Em seguida, foi impetrado habeas corpus na Corte Estadual. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 448.633, Ministro Nefi Cordeiro, indeferiu a medida cautelar.
+    5. Neste habeas corpus, a parte impetrante sustenta: (i) a ausência de fundamentação idônea para a vedação do direito de recorrer em liberdade; (ii) a inexistência de comprovação da autoria delitiva; e (iii) o excesso de prazo para o julgamento da apelação interposta pela defesa.
+    6. Com essa argumentação, requer a concessão da ordem a fim de revogar a prisão processual do acionante. Subsidiariamente, pleiteia a substituição da custódia por outra medida cautelar.
+    Decido.
+    7. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    8. A hipótese dos autos não autoriza a superação do entendimento consolidado na Súmula 691/STF. As decisões proferidas pelas instâncias anteriores não se me afiguram teratológicas ou patentemente desfundamentadas. Ademais, o Supremo Tribunal Federal pacificou o entendimento no sentido de que a periculosidade do agente e a fundada probabilidade de reiteração delitiva justificam a manutenção da custódia cautelar (vg. HC 140.512, Rel. Min. Ricardo Lewandowski; HC 140.733, Rel. Min. Gilmar Mendes; HC 139.214, Rel. Min. Ricardo Lewandowski; HC 139.585, Rel. Min. Gilmar Mendes; HC 136.935-AgR, Rel. Min. Dias Toffoli).
+    9. Não bastasse isso, tenho assentado em sucessivos julgamentos perante a Primeira Turma do Supremo Tribunal Federal que, nas hipóteses envolvendo crimes praticados com especial violência ou grave ameaça à pessoa, o ônus argumentativo em relação à periculosidade concreta do agente é menor. Veja-se, nessa linha, o HC 121.208, a que fui designado redator para o acórdão (Sessão de 19.05.2015).
+    10. Na hipótese de que se trata, tal como assentou o Juízo de origem, “O crime praticado pelo acusado é grave e, analisadas as circunstâncias em que ocorreu, ou seja, com emprego de arma e concurso de agentes, bem como pelo fato de ser reincidente, conclui-se ser o réu pessoa de personalidade perigosa, dada à delinquência, o que exige uma postura mais severa do Poder Judiciário. Com tais fundamentos, bem como pela reincidência, estabeleço o regime fechado como inicial de cumprimento da pena privativa de liberdade imposta e vedo a interposição de recurso em liberdade, para a garantia da ordem pública e para assegurar a aplicação da lei penal”.
+    11. Além disso, o entendimento do Tribunal é no sentido de que “A alegação de ausência de autoria e materialidade é insuscetível de deslinde em sede de habeas corpus, que, como é cediço, não comporta reexame de fatos e provas” (RHC 117.491, Rel. Min. Luiz Fux).
+    12. Quanto ao mais, verifico que a alegação de excesso de prazo para o julgamento da apelação não foi apreciada pelo Superior Tribunal de Justiça. O que impede o imediato exame da matéria por esta Corte, sob pena de indevida supressão de instância.
+    13. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 25 de maio de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
