@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manifestado por CTBC MULTIMÍDIA DATA NET S.A. contra decisão que não admitiu recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+PRESTAÇÃO DE SERVIÇOS DE FORNECIMENTO DE INTERNET LINK - AÇÃO MONITÓRIA - Descumprimento contratual por parte da autora não demonstrado - Condenação mantida - Multa contratual indevida - Partes que celebraram contrato de Serviço de Comunicação Multimídia (SCM), sem interferências com a atividade empresarial da ré - Ação parcialmente procedente - Recursos desprovidos.
+Opostos embargos de declaração, foram rejeitados (fls. 542-546, e-STJ).
+Nas razões de recurso especial, aponta a agravante violação ao art. 61, caput e parágrafos, da Lei n. 9.472/97:
+ ..  uma vez que caracteriza de forma imprópria a natureza do contrato celebrado pelas partes como serviço de comunicação multimídia, quando a simples análise perfunctória revela tratar-se de prestação de serviços de valor adicionado prestado diretamente a provedor de acesso. (fl. 572, e-STJ).
+Complementa, ainda, que:
+É de entendimento amplamente disseminado pela jurisprudência do colendo Superior Tribunal de Justiça que as empresas provedoras de internet possuem natureza jurídica de VALOR ADICIONADO, na forma do que dispõe o art. 61, §1º, da Lei nº 9.472/97. (fl. 573, e-STJ).
+Busca, em suma, que a recorrida seja condenada a pagar o valor da multa contratual compensatória, por rescisão prematura do contrato, pois se destina a suprir os investimentos que a recorrente teve para proporcionar a prestação de serviços.
+O recurso não foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Neste recurso, a recorrente alega que a recorrida contratou-a para exercer a atividade de provedora de internet. No entanto, o Tribunal de origem afirma que as partes celebraram contrato de prestação de Serviço de Comunicação Multimídia, conforme se verifica abaixo (fls. 510-511, e-STJ):
+Por outro lado, não assiste razão à autora quanto ao pedido de condenação da ré ao pagamento da multa contratual prevista na cláusula 8.2 (fls. 117). Pois, as partes celebraram contrato de prestação de "Serviço de Comunicação Multimídia (SCM)", cuja definição técnica desse serviço é idêntica à prevista no art. 3º da Resolução ANATEL nº 272/01 (fls. 88); normativo este que regulamenta o serviço de comunicação multimídia.
+Assim, não obstante a ré atue empresarialmente como provedora de acesso a internet (Serviço de Valor Adicionado - SWA), é certo que tanto o contrato celebrado entre as partes como referida norma não discriminam tal situação nem interferem na atividade empresarial da ré, razão pela qual esta, com relação à autora, goza de todos os direitos e prerrogativas conferidos aos assinantes de SCM, conforme previstos no art. 59 da Resolução supramencionada (fls. 98/99); sendo que, dentre tais direitos, encontra-se o do cancelamento do serviço prestado a qualquer tempo e sem ônus (art. 59, VII - Resolução Anatel 272/01).
+Para rever as conclusões do acórdão recorrido seria necessária a revisão de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, o que é vedado nesta instância especial, consoante entendimento das Súmulas 5 e 7 do STJ.
+Ante o exposto, nego provimento ao agravo.
+Intimem-se.
