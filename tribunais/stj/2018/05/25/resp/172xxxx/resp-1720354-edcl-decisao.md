@@ -1,0 +1,14 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por BANCO FICSA S/A contra a decisão de fls. 205/206, que não conheceu do recurso.
+Em suas razões, sustenta a parte Embargante, em síntese, que "conforme dispõe a Resolução GP n.º 01/85 do Tribunal de Justiça de Santa Catarina, a comemoração de Corpus Christi ocorrida em 15 de junho é considerada FERIADO para efeitos forenses" e que "conforme CERTIDÃO anexada à petição do Recurso Especial interposto, no dia 06 de julho de 2017 houve INDISPONIBILIDADE do sistema de peticionamento eletrônico de primeiro e segundo grau através do Portal e-SAJ, forma que os prazos consideram-se PRORROGADOS para o primeiro dia útil seguinte à retomada do funcionamento" (fls. 209/210).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que pretende seja conhecido por este tribunal, não bastando a mera menção ao feriado local nas razões recursais. Nesse sentido: EREsp 884.009/RJ, Corte Especial, Rel. Min. Castro Meira, DJe de 11/4/2014.
+Não se desconhece o documento juntado nos embargos (fl. 211), porém, ele deveria ter sido juntado no momento da interposição do recurso especial, não somente nestes aclaratórios.
+Ressalta-se, ainda, que as disposições da Certidão anexada à petição do recurso especial, usada pelo ora Embargante como fundamento para justificar a indisponibilidade do sistema de peticionamento eletrônico do dia 06 de julho de 2017, não abrange o período do seu prazo recursal. Com efeito, a parte ora embargante foi intimada do acórdão recorrido em 14/06/2017, seu prazo começou no dia 15/06/2017 e terminou no dia 05/07/2017, fora do período da indisponibilidade citada na certidão.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
