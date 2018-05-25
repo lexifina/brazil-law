@@ -1,0 +1,24 @@
+Decisão: Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça (ARESP 1.176.671/SP), assim ementado:
+    PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 16 DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. NEGATIVA DE VIGÊNCIA AOS ARTS. 41 E 395, II, AMBOS DO CPP. RAZÕES RECURSAIS CORRIDO. FUNDAMENTDISSOCIADAS DO ACÓRDÃO REAÇÃO DEFICIENTE. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. ARTS. 255/RISTJ E 1.029, § 1º, DO CPC/2015. INOBSERVÂNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+    2. Estando a realidade fático/processual existente no caderno processual dissociada das razões recursais a ele relacionadas, resta impossibilitada a compreensão da controvérsia arguida nos autos, ante a deficiência na fundamentação recursal. Incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+    3. A não observância dos requisitos dos artigos 255, parágrafo 1º, do Regimento Interno do Superior Tribunal de Justiça, e 1.029, § 1º, do CPC/2015, torna inadmissível o conhecimento do recurso com fundamento na alínea "c" do permissivo constitucional.
+    4. Agravo regimental a que se nega provimento.
+    Narra o impetrante que: a) o paciente foi condenado pela prática do delito do art. 168, §1º, III, do CP, à pena de 01 (um) ano e 04 (quatro) meses de reclusão e 10 (dez) dias-multa; b) a sentença foi confirmada pelo TJSP; c) a defesa interpôs recurso especial, que não foi admitido pelo TJSP, e, na sequência, interpôs agravo em recurso especial; d) o STJ não conheceu do recurso especial; e) o caso, que envolve desentendimento entre advogado e cliente acerca do montante que deveria ser descontado a título de honorários, deveria ser resolvido na esfera cível; f) o paciente sofre constrangimento ilegal, pois foi condenado sem que houvesse o dolo de apropriar-se do dinheiro, fruto de êxito obtido em ação judicial.
+    À vista dos argumentos, pugna pela concessão da ordem a fim de que seja reconhecida a atipicidade da conduta, com a consequente absolvição do paciente.
+     É o relatório. Decido.
+    1. Cabimento do habeas corpus:
+    No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    Verifico que o STJ não enfrentou as matérias ora articuladas, tendo em vista que não superou a fase do conhecimento do recurso especial. Desse modo, o conhecimento originário por esta Corte configuraria supressão de instância. Calha enfatizar que Supremo não detém competência para revisar, em habeas corpus e diretamente, atos jurisdicionais emanados das instâncias ordinárias:
+    Inviável o exame das teses defensivas não analisada pelo Superior Tribunal de Justiça e pela Corte Estadual, sob pena de indevida supressão de instâncias. Precedentes. (RHC 135560 AgR, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 21/10/2016)
+    A inexistência de manifestação do STJ sobre o mérito da impetração impede o exame da matéria por esta Corte, sob pena de incorrer-se em indevida supressão de instância, com evidente extravasamento dos limites de competência descritos no art. 102 da Constituição Federal. (HC 135949, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 04/10/2016)
+    A supressão de instância impede o conhecimento de Habeas Corpus impetrado per saltum, porquanto ausente o exame de mérito perante a Corte Superior. (HC 130375 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 13/09/2016)
+    Ademais, ressalto que não é possível acolher a tese defensiva sem empreender aguda reanálise de fatos e provas, providência que, como se sabe, não se compatibiliza com a estreita cognição exercitada por meio da ação constitucional manejada.
+    Segundo a jurisprudência desta Suprema Corte, “é inviável a utilização do habeas corpus para se revolver o contexto fático-probatório e glosar os elementos de prova que ampararam a conclusão das instâncias ordinárias.” (HC 137695, Relator(a): Min. DIAS TOFFOLI, julgado em 10.10.2016).
+    No mesmo sentido: RHC 105.150, Primeira Turma, de minha relatoria, DJe de 04.05.12; RHC 121.092/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 12.05.14; HC 118.602/SP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 11.03.14; e o HC 111.398/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 03.05.12.
+    2. Posto isso, com fulcro no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 25 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
