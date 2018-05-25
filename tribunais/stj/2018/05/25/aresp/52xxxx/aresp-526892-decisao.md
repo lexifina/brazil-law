@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo de GOMES E FAIA COMERCIAL E TRANSPORTES LTDA. contra decisão que negou seguimento a recurso especial impugnando acórdão assim ementado:
+Acidente de veículos - Liquidação por artigos de sentença criminal - Cumprimento de sentença - Apólice de seguro que prevê valores específicos de cobertura para cada veículo - que compõe a frota - Responsabilidade da seguradora-denunciada - Limites.
+Reconhecida a existência na apólice de seguro de valores indenizatórios específicos para o veículo envolvido no acidente, a responsabilidade da seguradora a estes ficará limitada, descontando-se, ainda, o valor do depósito efetuado na outra ação em que se discutiu caso idêntico envolvendo o mesmo réu e a mesma litisdenunciada.
+Recurso provido em parte.
+Embargos de declaração foram opostos e rejeitados.
+Nas razões de recurso especial, alega a agravante dissídio jurisprudencial e violação dos arts. 219, 389, 397, 467, 472, 473, 474, 772, 524, inciso III, 525, inciso I, 535, incisos I e II, todos do Código de Processo Civil de 1973.
+Defende que o acórdão foi omisso quanto à preliminar de ausência de "requisito de regularidade formal para a apreciação do Agravo de Instrumento ante a não juntada das procurações e substabelecimentos outorgados aos Advogados dos Agravados."
+Afirma que o julgado decidiu de forma contrária ao que havia sido decidido na ação de conhecimento, na qual a seguradora foi condenada ao pagamento de indenização até o limite total da apólice.
+Busca a anulação do julgamento ou o reconhecimento de que o acórdão recorrido decidiu de forma contrária ao que anteriormente fora decidido na fase de conhecimento.
+Apresentadas contrarrazões, pugnando pelo não provimento do recurso.
+O recurso não foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Primeiramente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+No que diz respeito à tese de impossibilidade de conhecimento do agravo de instrumento, porque interposto sem a cadeia completa de procuração e substabelecimentos, o acórdão recorrido consignou o seguinte:
+De outra parte, não há se falar em descumprimento do disposto nos artigos 524, inciso III e 525, inciso I, ambos do Código de Processo Civil.
+Isso porque, ainda que a agravante não tenha informado o nome correto dos patronos dos agravados, tal fato não impediu o oferecimento de oportuna resposta, valendo ressaltar que eventual falha restou suprida pela apresentação de contraminuta.
+Assim, não restando evidenciado qualquer prejuízo, impossível cogitar-se de não conhecimento do recurso.
+No caso, a seguradora recorrida interpôs agravo de instrumento no Tribunal de origem para combater decisão que, em sede de execução, entendeu que o contrato securitário celebrado com a ré fez com que cada um dos automóveis pertencentes à frota segurada estaria acobertado pela totalidade do seguro.
+O referido recurso foi assinado pelos [NOME] [OAB] e [NOME] [OAB], sendo que o substabelecimento e a procuração estão às fls. 79 e 81 (e-STJ).
+Ressalto que a cadeia de procuração e substabelecimentos é exigência direcionada ao agravante, a fim de se verificar a outorga de poderes em nome da parte.
+Ao agravado, exige-se apenas a cópia de procuração válida, para que assim possa ser intimado.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PROCURAÇÃO DO ADVOGADO SUBSCRITOR DAS CONTRARRAZÕES AO RECURSO ESPECIAL. TEMPERAMENTO DA REGRA CONTIDA NO ART. 544, § 1º, DO CPC. OBSERVÂNCIA DO PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. TRANSPORTE COLETIVO. ASSALTO À MÃO ARMADA. RESPONSABILIDADE DA EMPRESA. EXCLUDENTE. CASO FORTUITO. PRECEDENTES.
+1. Desnecessária a juntada de cópia de todas as procurações outorgadas pela parte agravada se ela for regularmente intimada para contraminutar.
+2. Assalto ocorrido no interior de veículo coletivo constitui causa excludente de responsabilidade da empresa transportadora, por configurar fato estranho ao contrato de transporte. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no Ag 1.336.152/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 14.6.2011, DJe 20.6.2011)
+No caso dos autos, não pode haver dúvida que a intimação da recorrente, então agravada, ocorreu ou foi suprida, haja vista suas contrarrazões ao agravo de instrumento às fls. 1.370-1.402 (e-STJ), procuração à fl. 43 (e-STJ) e substabelecimento à fl. 1.426 (e-STJ).
+Incidem, pois, as disposições do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+Afasto, outrossim, a alegação de ofensa ao art. 535 do CPC de 1973.
+Verifico que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Com efeito, não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pela recorrente.
+Consta do autos que ARTUR BUENO e OUTROS propuseram ação de liquidação por artigos de sentença criminal em decorrência de acidente automobilístico ocorrido em 1993. A empresa ré, GOMES E FAIA, apresentou contestação e denunciou à lide a seguradora BRADESCO SEGUROS. O feito foi julgado procedente para condenar a ré ao pagamento de pensão aos autores e indenização por danos morais e demais verbas de sucumbência. A denunciada foi condenada a ressarcir a ré até o limite da apólice.
+Transitada em julgado a sentença, iniciou-se a execução. A seguradora agravou alegando que a indenização fixada nos autos (pensão mensal e danos morais) engloba-se unicamente na cobertura de danos corporais e que sua obrigação limita-se ao saldo das importâncias seguradas contratadas na apólice para cada um dos automóveis pertencentes à frota segurada.
+O Tribunal de origem deu parcial provimento ao recurso da seguradora, nos seguintes termos:
+Conquanto a apólice de fls. 71 noticie que o valor total segurado importa na quantia de CR$ 330.176.000,00 para danos materiais e o mesmo valor para; danos pessoais, verifica-se no documento que a acompanha às fls. 72, que os veículos segurados possuem valores específicos para cobertura de indenização para danos materiais (CR$ 30.016.000,00) e para danos pessoais (CR$ 30.016.000,00), consoante mencionado nas razões recursais.
+Assim, ainda que a perícia realizada em outro processo tenha utilizado o valor total do seguro (frota) para atualização de cada cobertura (danos materiais - CR$ 330.176.000,00 e danos pessoais CR$ 330.176.000,00 - fls. 469), verifica-se que deve ser respeitado o limite previsto para cada veículo segurado.
+Disso decorre que os valores indenizatórios específicos do veículo envolvido no acidente deverão ser atualizados nestes autos para obtenção do valor limite indenizatório atualizado.
+Ainda que julgada procedente a denunciação da lide, verifica-se que a responsabilidade da seguradora encontra limites no contrato, sendo certo que o acordo firmado entre os autores e os requeridos não teve participação da agravante-seguradora e, portanto, não pode ser responsabilizada pelos valores pactuados (fls. 598/602).
+É certo, de outra parte, e como mencionado pela decisão agravada, que os valores fixados a título de pensão mensal devem ser englobados, pela seguradora, nos limites do contrato, sob a rubrica "danos materiais", nada justificando sua inclusão na cobertura dos danos pessoais.
+E os valores fixados para os danos morais devem ser arcados pela litisdenunciada sob a rubrica "danos pessoais". "A previsão contratual de cobertura dos danos pessoais abrange os danos morais tão-somente se estes não forem objeto de exclusão expressa ou não figurarem como objeto de cláusula contratual independente" (REsp. nº 929.991- RJ- STJ - 3ª T. - Min Castro Filho - J. 07.05.2007 - in DJe de 04.06.2007). Esse entendimento restou consolidado consoante Súmula n.º 402 do Superior Tribunal de Justiça: "O contrato de seguro por danos pessoais compreende os danos morais, salvo cláusula expressa de exclusão".
+De outro lado, forçoso reconhecer que o titulo executivo judicial fixou a responsabilidade da seguradora-denunciada nos limites da apólice (fls. 79), fato, aliás, reconhecido pela própria decisão agravada, relevando salientar, contudo, que o valor indenizatório pago em outro processo com a importância segurada, consoante reconhecido pelos próprios credores (fls. 950/953), deverá ser descontado, limitando-se a responsabilidade da agravante ao saldo da importância segurada.
+Em tais condições, reconhecida a existência na apólice de seguro de valores indenizatórios específicos para o veículo envolvido no acidente, a responsabilidade da seguradora a estes ficará limitada, descontando-se, ainda, o valor do depósito efetuado na outra ação em que se discutiu caso idêntico envolvendo o mesmo réu e a mesma litisdenunciada.
+O Tribunal revisor, no caso, entendeu que a decisão não observou os parâmetros determinados no título executivo pois, consoante previsão contratual, a responsabilidade da seguradora pelo pagamento de danos morais é limitada aos valores indenizatórios previstos na apólice de seguro para o veículo envolvido no acidente, sob a rubrica "danos pessoais".
+Dessa forma, saber se o cálculo apresentado desobedeceu às determinações do título exequendo, demandaria o reexame de cláusulas contratuais e do acervo fático-probatório dos autos, procedimento que, em sede especial, encontra óbice nos enunciados n. 5 e 7 das Súmulas do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. OFENSA AO ART. 535 DO CPC/1973. SUPOSTA OMISSÃO. INOCORRÊNCIA. MATÉRIA ANALISADA PELO TRIBUNAL DE ORIGEM. VIOLAÇÃO À COISA JULGADA. INVIABILIDADE. COTEJO DE PEÇAS PROCESSUAIS. ANÁLISE DE CÁLCULOS DA CONTADORIA JUDICIAL. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA Nº 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em ofensa ao art. 535, II, do CPC/1973 se o Tribunal de origem expressamente afasta tese de defesa suscitada nas razões de apelação supostamente não enfrentada no julgamento do apelo.
+2. A análise da tese segundo a qual os cálculos teriam sido realizados em desacordo com as determinações constantes do título executado, em afronta à coisa julgada e causando enriquecimento ilícito da recorrida, demanda, necessariamente, o reexame da matéria fático-probatória, especialmente o cotejo das peças processuais da ação de conhecimento anterior (petição inicial, sentença e acórdão de apelação) com as peças da presente ação de execução de sentença.
+Além disso, seria necessário analisar a correição ou o equívoco dos cálculos realizados durante a execução, procedimentos inviáveis em sede de recurso especial ante o óbice previsto na Súmula nº 7/STJ.
+3. "A jurisprudência do STJ é firme no sentido de que tecer considerações acerca dos critérios e informações contábeis utilizados para a liquidação da sentença exige incursão do STJ no conteúdo fático-probatório. Incidência da Súmula/7STJ" (STJ, REsp 1.622.353/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/02/2017).
+4. Agravo interno não provido.
+(AgInt no REsp 1.677.745/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 20.3.2018, DJe 27.3.2018).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. RAZÕES DO RECURSO CUJA ANÁLISE DEPENDE DE REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7 DO STJ.
+(..)
+2. As razões do recurso especial discutem, ademais, a correção de cálculos admitidos pela corte de origem como corretos, questão que depende do reexame de matéria fática da lide, inviável de apreciação nesta sede (Súmula 7 do STJ).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 195.608/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23.10.2012, DJe 31.10.2012).
+PROCESSUAL CIVIL E CIVIL. EMBARGOS DO DEVEDOR. COISA JULGADA. ARTS. 467, 468, 470 E 471 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. EXCESSO DE EXECUÇÃO. PERÍCIA CONTÁBIL. REEXAME DE PROVA. INVIABILIDADE. DIVERGÊNCIA NÃO COMPROVADA. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. SÚMULA N. 7 DO STJ. TAXA DOS JUROS DE MORA. ARTS. 1.062 E 1.063 DO CÓDIGO CIVIL DE 1916. INCIDÊNCIA ATÉ O ADVENTO DO NOVO CÓDIGO CIVIL.
+(..)
+2. Firmado o convencimento do órgão julgador de origem com parâmetro na sistemática de elaboração dos cálculos do contador judicial e nos laudos periciais carreados aos autos, para se reconhecer a ocorrência ou não de excesso de execução, na estreita via desta instância especial, torna-se imprescindível o reexame do conjunto fático-probatório da demanda, procedimento que esbarra no óbice da Súmula n. 7 do STJ.
+(..)
+6. Recurso especial de [NOME] não-conhecido e recurso de Wrobel Construtora S/A provido.
+(REsp 859.055/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, DJe de 24.3.2008).
+Ademais, observo que o Tribunal de origem decidiu em consonância ao entendimento já consolidado nesta Corte sob o enunciado sumular n. 402, que estabelece que "o contrato de seguro por danos pessoais compreende os danos morais, salvo cláusula expressa de exclusão."
+De toda forma, em relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado o dissídio nos moldes dos arts. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
