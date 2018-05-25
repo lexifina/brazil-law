@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. FORNECIMENTO DE MEDICAMENTOS. IMPUGNAÇÃO DO VALOR FIXADO A TÍTULO DE VERBA HONORÁRIA. REVISÃO. POSSIBILIDADE NA ESPÉCIE. VALOR IRRISÓRIO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+
+DECISÃO
+Trata-se de agravo em recurso especial interposto por A C F A X M (menor), representado por [NOME], contra decisão proferida pelo Tribunal de Justiça do Estado do Rio de Janeiro, que inadmitiu recurso especial manejado contra acórdão assim ementado (fl. 219 e-STJ):
+Agravo Interno alvejando Decisão Monocrática que com respaldo no artigo 557, parágrafo 1º-A do Código de Processo Civil de 1973, deu provimento à Apelação do Município do Rio de Janeiro para reduzir o valor da verba honorária - Desprovimento do Agravo Interno.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, o recorrente aponta violação ao art. 20, §§ 3º e 4º, do CPC/1973. Sustenta que o valor fixado a título de honorários advocatícios revela-se ínfimo e merece ser majorado.
+Contrarrazões às fls. 356/357 e-STJ.
+A Corte de origem inadmitiu o recurso especial sob o fundamento de que rever: a) a posição da Turma Julgadora importaria em ofensa à Súmula 7/STJ; e b) a decisão vergastada está em consonância com o entendimento desta Corte Superior, nos termos da Súmula 83/STJ.
+O Ministério Público, em parecer às fls. 320/325, opina pelo conhecimento do agravo e provimento do recurso especial.
+No agravo, o agravante postula pelo processamento do recurso especial, uma vez que presentes os requisitos para sua admissibilidade.
+Contraminuta às fls. 300/307 e-STJ.
+É o relatório. Decido.
+Inicialmente, é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Na espécie, dessume-se dos autos que o Tribunal a quo reduziu a condenação da ora recorrida ao pagamento de honorários advocatícios por entender que o valor fixado na sentença se revelou desproporcional, conforme se depreende do excerto a seguir (fl. 182 e-STJ):
+Quanto à verba honorária, a exclusão requerida pelo Município não é possível, já que a pretensão autoral somente foi satisfeita através da prestação jurisdicional, certo que o quantum fixado na Sentença, R$ 400,00, não observou os parâmetros do artigo 20, parágrafo 4o do Código de Processo Civil, cabendo a redução para R$ 100,00, por se tratar de matéria simples e corriqueira e verba maior prejudicará a municipalidade no cumprimento de suas obrigações perante a comunidade.
+Observa-se, portanto, que em face das peculiaridades do caso concreto, o valor de R$ 100,00, fixado a título de honorários advocatícios, revela-se manifestamente irrisório, motivo pelo qual merece ser revisto.
+Sobre o assunto, esta Corte Superior possui entendimento pacífico no sentido de ser possível a revisão do valor arbitrado a título de honorários advocatícios, na hipótese em que forem fixados de forma ínfima ou exorbitante. Nesses casos, afasta-se a incidência da Súmula 7/STJ para se aplicar o princípio da proporcionalidade.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM VALOR IRRISÓRIO. REVISÃO. POSSIBILIDADE.
+1. A jurisprudência desta Corte admite, em caráter excepcional, a alteração do quantum arbitrado a título de honorários advocatícios, caso o valor se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade.
+2. No caso, a majoração da verba honorária mostrou-se imperiosa, porquanto fixada em patamar ínfimo pelo Tribunal a quo.
+3. Agravo regimental a que se nega provimento. (AgRg no AgRg no AREsp 302.688/SE, Primeira Turma, Rel. Ministro Sérgio Kukina, DJe 14/08/2014)
+
+PROCESSO CIVIL. AGRAVO REGIMENTAL. HONORÁRIOS ADVOCATÍCIOS. AÇÃO DE COBRANÇA. DEFENSOR DATIVO. CONDENAÇÃO EM PATAMAR ÍNFIMO. MAJORAÇÃO. POSSIBILIDADE. 1. O Estado de Minas Gerais insurge-se contra decisão que majorou a condenação em honorários advocatícios fixada na origem de R$ 100,00 (cem reais) para R$ 300,00 (trezentos reais).
+2. A Corte Especial já decidiu que não se deve levar em consideração apenas o valor da causa para o arbitramento da verba honorária com base no art. 20, § 4º, do CPC, sendo necessário avaliar-se, em cada caso, os critérios previstos nas alíneas "a", "b" e "c", do respectivo § 3º e se a condenação remunera condignamente o advogado. Precedente: AgRg nos EDcl no Ag 1409571/RS, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 17/4/2013, DJe 6/5/2013.
+3. No caso, cuida-se de ação de cobrança proposta contra o Estado para a cobrança de serviços prestados a título de defensor dativo, no valor de R$ 800,00 (oitocentos reais). Assim, considerando-se a natureza da demanda, o tempo de tramitação da causa e os percalços atribuídos ao ente público para evitar o pagamento dessa verba de natureza alimentar, não é aceitável manter a ínfima condenação fixada na instância de origem, justificando-se a majoração dessa quantia, nos termos propostos na decisão agravada.
+4. Agravo regimental a que se nega provimento. (AgRg no REsp 1436126/MG, Segunda Turma, Rel. Ministro Og Fernandes, DJe 13/06/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. JUÍZO DE EQUIDADE. REVISÃO. POSSIBILIDADE. EXCEPCIONALIDADE CONFIGURADA. MAJORAÇÃO DA VERBA. RESTABELECIDO O VALOR FIXADO NA SENTENÇA.
+1. Recurso especial contra acórdão que deu parcial provimento à remessa necessária e à apelação do ente público apenas para reduzir a verba honorária fixada na sentença, de R$ 5 mil para R$ 3 mil.
+2. "É possível a revisão da verba honorária arbitrada pelas instâncias ordinárias, ainda que com fundamento no art. 20, § 4o. do CPC, quando evidenciado nos autos que esta foi estimada em valores manifestamente excessivos ou ínfimos, sem que para isso se faça necessário o reexame de provas ou qualquer avaliação quanto ao mérito da lide" (AgRg no EDcl no Ag 1.409.571/RS, Rel. Min. Napoleão Nunes Maia Filho, Corte Especial, DJe de 6/5/2013).
+3. Na espécie, a verba honorária foi fixada pela instância a quo em quantia ínfima e desproporcional com o proveito econômico obtido na demanda, comportando revisão. Entretanto, a majoração deve ficar limitada ao quantum arbitrado pela sentença, na medida em que contra o montante por ela estabelecido, de R$ 5 mil, não houve oportuna impugnação pela ora recorrente, tendo se operado, em face do princípio dispositivo, a preclusão consumativa para a pretensão de obter honorários superiores àquele patamar fixado pelo juízo de primeiro grau.
+4. Agravo regimental não provido. (AgRg no AREsp 483.104/MG, Primeira Turma, Rel. Ministro Benedito Gonçalves, DJe 22/05/2014)
+Assim, merece ser acolhida a pretensão recursal, para, atendendo ao princípio da proporcionalidade, restaurar o valor arbitrado em sentença a título de honorários advocatícios, fixados no montante de R$ 400,00 (quatrocentos reais), conforme se constata à fl. 143 e-STJ.
+Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial.
