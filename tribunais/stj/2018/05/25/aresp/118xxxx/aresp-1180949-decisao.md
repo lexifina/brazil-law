@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por VARIG LINHAS AÉREAS S.A. contra decisão que negou seguimento ao recurso especial, ao fundamento de ausência de demonstração de omissão, e de incidência das Súmulas n.s 284/STF e 7/STJ.
+O apelo nobre, fundado na alínea "a" do inciso III do art. 105 da Constituição Federal, desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 303):
+Ação regressiva - Transporte aéreo  Mercadorias extraviadas - Direito de regresso da seguradora  Aplicação da Súmula 188 do STF - Inaplicabilidade do Código Brasileiro de Aeronáutica - Valor que foi pago à segurada e que deve ser ressarcido à seguradora pela empresa aérea causadora do dano  Sub-rogação caracterizada - Indenização integral  Sentença mantida - RECURSO NÃO PROVIDO.
+Embargos de declaração opostos e rejeitados (fls. 316-320).
+Nas razões do especial (fls. 323-337), sustentou a parte recorrente violação dos arts. 421, 422, 425 e 732 do CC; 535 do CPC/1973; 262 e 248 da Lei n. 7.565/1986.
+Sustentou que a) deixou de constar do acórdão a razão para a inaplicabilidade da Cláusula 11 da apólice de seguros; b) o acórdão foi omisso quanto ao disposto nos arts. 248 e 262 do Código Brasileiro de Aeronáutica, 730 a 756, 732, 743, 744, 745 e 750 todos do CC; c) foi inobservado o princípio da especialidade; d) a responsabilidade da empresa de transporte aéreo está condicionado à verificação de dolo ou culpa.
+Foi apresentada contraminuta (fls. 343-358).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial, o que ensejou o manejo do presente agravo, buscando destrancar o processamento daquela insurgência.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Quanto à apontada violação do artigo 535 do CPC/73, não assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia. (Precedentes: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01.09.2011, DJe 06.09.2011; REsp 1.264.044/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 01.09.2011, DJe 08.09.2011; AgRg nos EDcl no Ag 1.304.733/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23.08.2011, DJe 31.08.2011; AgRg no REsp 1.245.079/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16.08.2011, DJe 19.08.2011; e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09.08.2011, DJe 22.08.2011).
+Destaque-se, por oportuno, que sob o pretexto de omissão, a agravante pretende, na verdade, obter um julgamento que lhe seja mais favorável, o que não se admite na via dos aclaratórios.
+2. Quanto ao mais, verifica-se que o acórdão atacado se posicionou no sentido de negar provimento à apelação, após análise do conjunto fático-probatório dos autos, inclusive, com base no contrato de seguro firmado entre as partes. Nesse sentido, confira-se o trecho respectivo (fls. 304 e 305):
+Quanto à afirmação da apelante de que figura como transportadora subcontratada, considerada como preposta da segurada, razão pela qual não lhe caberia ação regressiva, é de se observar que tal limitação, pela cláusula 21.2 do contrato de seguro, somente ocorrerá se o conhecimento de transporte aéreo de carga emitido para o respectivo transporte seja do próprio segurado, o que não se verifica dos documentos de fls. 70, 92, 102 e 110.
+Por outro lado, o direito de regresso do segurador contra o causador do dano já é matéria de ampla aplicação nos tribunais, diante do teor da súmula 188 do STF, assim redigida, "O segurador tem ação regressiva contra o causador do dano, pelo que efetivamente pagou, até o limite previsto no contrato de seguro".
+No caso, verifica-se que a apelada despendeu o valor de R$11.201,02 pelas das mercadorias seguradas e extraviadas, devidamente comprovado pelos documentos de fis. 77, 90, 100, 108 e 118.
+Improspera, pois, o argumento da apelante de que o valor da indenização deve ser o previsto no Código Brasileiro de Aeronáutica, ou seja, até três Obrigações do Tesouro Nacional (OTN) por quilo, uma vez que a súmula 188, acima transcrita, garante à seguradora o direito de regresso contra o causador do dano, para que obtenha o ressarcimento de tudo que foi despendido.
+Observe-se, ainda, que, cuidando-se do transporte de coisas, o Código Civil estabelece, no artigo 750 que "a responsabilidade do transportador é limitada ao valor constante do conhecimento", afastando-se a indenização tarifada.
+Outrossim, também não se cogita que a apelada tenha que comprovar a culpa ou o dolo da apelante ou de seus prepostos, pois seu direito de ressarcimento decorre do extravio das mercadorias transportadas e do pagamento realizado à sua segurada, nos termos do contrato de seguro.
+Nesse contexto, ressai que a análise das razões trazidas pela agravante, demandaria o revolvimento do acervo fático-probatório dos autos o que é obstado, nesta instância extraordinária, pelo teor das Súmulas n.s 5 e 7/STJ.
+A propósito, confira-se o precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 535 DO CPC. OMISSÃO. INEXISTÊNCIA. TRANSPORTE AÉREO DE MERCADORIA. EXTRAVIO. CULPA PRESUMIDA. CÓDIGO BRASILEIRO AERONÁUTICO. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese.
+2. O Superior Tribunal de Justiça firmou o entendimento de que não se aplica o Código Brasileiro Aeronáutico nas hipóteses de indenização por extravio de mercadorias em transporte aéreo.
+3. Tendo a Corte de origem, com base nas provas dos autos e na interpretação de cláusulas contratuais, concluído que o contrato não se submete ao regramento do CDC ou do CBA e que a culpa da transportadora é presumida, rever tal conclusão esbarra nos óbices das Súmulas nºs 5 e 7/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp 2.584/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/11/2014, DJe 12/11/2014)
+3. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
