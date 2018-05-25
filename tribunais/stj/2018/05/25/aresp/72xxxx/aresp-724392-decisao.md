@@ -1,0 +1,13 @@
+DECISÃO
+ Trata-se de agravo manifestado por [NOME] e OUTRA contra decisão que não admitiu recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+LOCAÇÃO. CONSIGNAÇÃO DE CHAVES. AÇÃO DE OBRIGAÇÃO DE FAZER. INVIABILIDADE DE MANUTENÇÃO DO CONTRATO POR VONTADE EXCLUSIVA DO LOCADOR. IRRELEVÂNCIA DE
+EVENTUAL DIREITO CREDITÍCIO DO LOCADOR EM DESFAVOR DO LOCATÁRIO.
+A ação de consignação de chaves, diante da recusa do locador em recebê-las, é meio adequado para que o locatário veja encerrada a relação locatícia, na qual não tem mais interesse em prosseguir.
+É irrelevante, para fins de ajuizamento da ação consignatória e encerramento da relação locatícia, a eventual existência de crédito do locador em desfavor do locatário, ou, ainda, a não realização de obras de restabelecimento do imóvel locado nas condições originárias. Cabe ao locador se valer do meio adequado para ver o réu condenado a ressarcir os prejuízos que reputa ter sofrido.
+Prova pericial, realizada na ação de obrigação de fazer, que confirma a deterioração do imóvel por ausência de manutenção ordinária por parte da locatária, impondo-se a realização dos reparos determinados na sentença.
+DESPROVERAM O AGRAVO RETIDO INTERPOSTO NO PROCESSO. N. 1.13.0000042-3. JULGARAM PREJUDICADO O AGRAVO RETIDO INTERPOSTO NO PROCESSO N. 1.10.0003207-9. DERAM PARCIAL PROVIMENTO AO APELO.
+Em relação ao juízo de admissibilidade realizado pelo Tribunal de origem, destaco que esta Corte possui entendimento no sentido de que "é admitida a incursão no mérito do recurso especial pelo Tribunal a quo para a verificação da admissibilidade do apelo nobre" (AgRg no Ag 1.034.534/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, DJe 3.2.2009).
+O recurso especial não foi admitido na origem com fundamento na sintonia existente entre o acórdão recorrido e a jurisprudência do Superior Tribunal de Justiça, no seguinte sentido: "eventual ressarcimento relativo a prejuízos ocorridos no imóvel arrendado, decorrentes de sua má utilização, deve ser perseguido em ação própria " (AgRg no REsp 926.652/ES, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, DJ 30.112.2012).
+Ocorre que os agravantes limitaram-se a discutir a necessidade de reparação dos danos causados ao imóvel objeto de locação sem trazer impugnação específica e suficiente para infirmar a fundamentação da decisão agravada. Nesses termos aplica-se, por analogia, o princípio do enunciado n. 182 da Súmula do STJ, reproduzido no art. 932, III, do CPC/2015.
+Em face do exposto, não conheço do agravo.
+Intimem-se.
