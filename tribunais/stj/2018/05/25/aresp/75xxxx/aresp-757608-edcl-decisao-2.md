@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ, fls. 460/463) opostos por ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO ECAD contra decisão unipessoal (e-STJ, fls. 454/455) que acolheu embargos de declaração anteriores, para sanar contradição, conhecendo "do agravo para dar provimento ao recurso especial, a fim de julgar parcialmente procedente o pedido, condenando a ré ao pagamento de direitos autorais pela execução musical no estabelecimento comercial, incluídas as parcelas vincendas, a serem apurados em liquidação de sentença" (e-STJ, fl. 455).
+Em suas razões, a embargante alega que a decisão embargada foi obscura e omissa, porquanto houve o julgamento de parcial procedência do pedido, mas não foram especificados os pedidos que teriam sido julgados procedentes.
+A embargada apresentou impugnação (e-STJ, fls. 467/468).
+É o relatório. Passo a decidir.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso dos autos, não se constatam a omissão e a obscuridade aventadas, porquanto se verifica na decisão embargada expressa e clara manifestação quanto ao pedido julgado procedente, nos seguintes termos:
+"Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de julgar parcialmente procedente o pedido, condenando a ré ao pagamento de direitos autorais pela execução musical no estabelecimento comercial, incluídas as parcelas vincendas, a serem apurados em liquidação de sentença.
+Em virtude da sucumbência recíproca, condeno as partes ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em 10% sobre o valor da condenação, nos termos do art. 85, §2º, do CPC/15, a serem suportados na proporção de 50% pelo agravante e 50% pela agravada." . (e-STJ, fls. 734/737, grifei)
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
