@@ -1,0 +1,21 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 314, Vol. 2):
+    “APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. MANDADO DE SEGURANÇA. PROFESORA MUNICIPAL. MUNICÍPIO DE ERECHIM. GRATIFICAÇÃO POR EDUCAÇÃO ESPECIAL. REDUÇÃO DO PERCENTUAL. NATUREZA EMINENTEMENTE TRANSITÓRIA DA VANTAGEM. POSSIBILIDADE. PRECEDENTE DESSA CORTE.
+    APELAÇÃO DESPROVIDA.”
+    Os embargos de declaração foram rejeitados (fls. 337 e 347, Vol. 2).
+    No apelo extremo, interposto com amparo no art. 102, III, a, da Constituição Federal, apontam-se violações ao art. 37, XV, da CF/88.
+    Intimada a se manifestar, a Procuradoria-Geral da República opinou pelo provimento do recurso extraordinário (fls. 474-477, Vol. 3).
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar formal e motivadamente a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, o Tribunal de origem, lastreado no conjunto fático-probatório dos autos e na legislação de regência (Lei Municipal 4.174/07), assentou que “(...) respeitados os preceitos constitucionais, correto o agir da municipalidade até porque não houve ofensa ao princípio da irredutibilidade dos vencimentos, porque o que ocorreu foi a redução de vantagem transitória” (fl. 315, Vol. 2).
+    Verifica-se, portanto, que a solução dessa controvérsia depende da análise da legislação local supramencionada, o que é inviável em sede de recurso extraordinário, bem como do reexame dos fatos da causa, providência igualmente incabível nesta sede recursal, conforme consubstanciado nas Súmulas 279 (Para simples reexame de prova não cabe recurso extraordinário) e 280 (Por ofensa a direito local não cabe recurso extraordinário) do STF.
+    Nesse sentido, confiram-se as decisões monocráticas: ARE 995.495 (Rel. Min. RICARDO LEWANDOWSKI, DJe de 7/11/2016); ARE 741.520 (Rel .Min. LUIZ FUX, DJe de 24/2/2014); e ARE 728.489 (Rel. Min. GILMAR MENDES, DJe de 5/2/2013).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO RECURSO.
+     Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 25 de maio de 2018.
+Ministro Alexandre de Moraes
+Relator
+  Documento assinado digitalmente
