@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (e-STJ, fl. 117):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. EXPEDIÇÃO DE PRECATÓRIO COMPLEMENTAR. IMPOSSIBILIDADE. ERRO MATERIAL. NÃO OCORRÊNCIA.
+1. Não se ignora a possibilidade de expedição de precatório complementar, na hipótese em que se verifica erro material no cumprimento da sentença. Contudo, não é o que se verifica na hipótese dos autos. Não há falar em erro material na hipótese, pois o crédito pago à exeqüente por meio de requisição de pequeno valor corresponde com exatidão ao montante cujo cumprimento de sentença foi requerido pelo credor e aceito pelo devedor.
+2. Incumbe à exeqüente apresentar o valor do crédito que entende devido, para fins de requerer o cumprimento da sentença, na dicção do art. 475-B do CPC. Quando a determinação do valor da condenação depender apenas de cálculo aritmético, o credor requererá o cumprimento da sentença, na forma do art. 475-J desta Lei, instruindo o pedido com a memória discriminada e atualizada do cálculo. (Incluído pela Lei nº 11.232, de 2005).
+3. Tendo a própria parte requerido o cumprimento da sentença, instruindo o pedido com memória discriminada e atualizada do cálculo, incabível a expedição de precatório complementar, ainda que a parte tenha se valido de cálculo realizado pela própria Fazenda. Constitui ônus do credor verificar a correção da conta, bem como do índice de correção monetária e período aplicado oportunamente, isto é, antes de instruir o cumprimento de sentença.
+4. A pretensão esbarra na vedação constitucional de fracionamento do precatório, pois o valor ora requerido supera o limite de pagamento por expedição de pequeno valor (art. 100, § 8º, da Constituição).
+5. Agravo de instrumento desprovido.
+Defende a recorrente, em síntese, que a jurisprudência pátria é unânime pela possibilidade de expedição de precatório complementar na ocorrência de erro material de cálculo em fase de execução.
+Argumenta que, na hipótese, houve erro material na elaboração dos cálculos, uma vez que se usou outro índice de correção em detrimento da taxa Selic.
+Apresentadas contrarrazões às e-STJ, fls. 171/174.
+Admitido o recurso especial na origem (e-STJ, fl. 177), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+Afirmou o Tribunal de origem, na espécie, que a questão trazida pela exequente não se enquadra em qualquer das hipóteses de erro material a justificar a expedição de precatório complementar.
+Confira-se (e-STJ, fls. 114/115):
+A decisão está correta, não cabendo qualquer reparo ou modificação. Não se ignora a possibilidade de expedição de precatório complementar, na hipótese em que se verifica erro material no cumprimento da sentença, em casos de inadimplemento de saldo remanescente na forma correta no primeiro pagamento.  ..
+Contudo, não é o que se verifica no caso dos autos. Não há falar em erro material, pois o crédito pago à exeqüente por meio de requisição de pequeno valor corresponde com exatidão ao montante cujo cumprimento de sentença foi requerido pelo credor e aceito pelo devedor.
+Para afastar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso e verificar se houve mero erro material, como sustentado neste apelo, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+De outra parte, a divergência jurisprudencial apontada não foi comprovada nos moldes exigidos nos arts. 541, parágrafo único, do CPC/1973 e 255, § 2º, do Regimento Interno do STJ, uma vez que a parte interessada apenas transcreveu as ementas dos julgados que entendeu favoráveis à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida nos precedentes invocados como paradigmas e no aresto impugnado.
+No aspecto:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. PROCESSUAL CIVIL. RECURSO ESPECIAL. ADMISSIBILIDADE. NÃO INDICAÇÃO DOS MOTIVOS DA VIOLAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. VIOLAÇÃO AO ART. 535, DO CPC. INOCORRÊNCIA. ALÍNEA "C". AUSÊNCIA DE SIMILITUDE ENTRE OS ARESTOS CONFRONTADOS. NÃO CONHECIMENTO. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE. SERVIDOR PÚBLICO. PRESCRIÇÃO. TERMO INICIAL. CIÊNCIA PELO TITULAR DA DEMANDA. ACÓRDÃO MANTIDO.
+ ..
+3.  ..  9. A interposição do recurso especial pela alínea "c" do permissivo constitucional exige do recorrente a comprovação do dissídio jurisprudencial, cabendo ao mesmo colacionar precedentes jurisprudenciais favoráveis à tese defendida, comparando analiticamente os acórdãos confrontados, nos termos previstos no artigo 541, parágrafo único, do CPC. 10. Visando a demonstração do dissídio jurisprudencial, impõe-se indispensável avaliar se as soluções encontradas pelo decisum embargado e paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. 11. In casu, não há similaridade, indispensável na configuração do dissídio jurisprudencial, entre o acórdão tomado como paradigma, do STF, julgado em 2/8/1960, tratou da prescrição de ato de improbidade previsto no art. 11, da CLT e o acórdão recorrido, que decidiu acerca da prescrição da ação de improbidade prevista no art. 23, II, da Lei n. 8.429/92.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no REsp 999.324/RS, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe 17/12/2010)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
