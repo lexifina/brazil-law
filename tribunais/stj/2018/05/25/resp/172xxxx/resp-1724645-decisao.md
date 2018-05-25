@@ -1,0 +1,38 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. OFENSA AO ARTIGO 535 DO CPC/1973. NÃO CARACTERIZAÇÃO. EXCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E COFINS. PRECEDENTE ADOTADO NA SISTEMÁTICA DE REPERCUSSÃO GERAL. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por Irmãos Coutinho Industria de Couros S/A, em face de acórdão proferido pelo Tribunal Regional Federal da 5ª Região, cuja ementa assim estabelece:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA MATÉRIA. REJEITADOS.
+1. Embargos de declaração que inquinam de omissão o acórdão, a pretexto de obter o rejulgamento da matéria.
+2. Caso em que o acórdão vergastado dera provimento ao, apelo da Fazenda Nacional e à remessa oficial para reconhecer legítima a inclusão do ICMS na base de cálculo do PIS e da COFINS.
+3. Não acolhimento dos declaratórios, vez que a matéria apontada como ensejo do vício foi expressamente enfrentada pelo acórdão. A embargante almeja, essencialmente, o resgate de tese empreendida nas razões de apelo, mas que fora rechaçada por ocasião do julgamento proferido.
+4. Embargos de declaração conhecidos e rejeitados.
+Nas razões de recurso especial, fundamentado no artigo 105, III, a e c, do permissivo constitucional o recorrente alega a violação ao artigo 535, II, do CPC/1973, ao sustentar a omissão do acórdão recorrido quanto ao enfrentamento das teses concernentes à validade das compensações fiscais realizadas pelo contribuinte. Em divergência jurisprudencial, afirma que deve prevalecer o entendimento segundo o qual retira o valores a título de ICMS da base de cálculo do PIS e da COFINS.
+Contrarrazões ao recurso especial às fls. 340/359 (e-STJ).
+Em decisão interlocutória às fls. 556/558 (e-STJ), o Tribunal de origem admitiu o processamento do recurso especial.
+É o relatório. Passo a decidir.
+Antes de mais nada, necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+Quanto à preliminar de ofensa ao artigo 535 do CPC/1973, impende registrar que não caracteriza omissão ou falta de fundamentação a adoção de posicionamento contrário ao interesse da parte. Saliente-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como de fato ocorreu na hipótese dos autos.
+Assim, a alegada violação do artigo 535 do CPC não se efetivou no caso dos autos, uma vez que não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de tornar nula a decisão impugnada no especial, porquanto a Corte de origem apreciou a demanda de modo suficiente, havendo se pronunciado acerca de todas as questões relevantes, apenas adotando entendimento contrário aos interesses da parte recorrente.
+A propósito:
+PROCESSO CIVIL. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. ART. 535 DO CPC. OMISSÃO. INOCORRÊNCIA. LABOR RURAL. COMPROVAÇÃO. REEXAME DE MATÉRIA FÁTICA. SÚMULA N. 7/STJ.
+1. Não constitui omissão do acórdão a conclusão diversa daquela defendida pelo agravante tirada das provas apresentadas nos autos, não havendo como se reconhecer a violação ao artigo 535 do Código de Processo Civil.
+2. Decidir de forma contrária, a entender pela caracterização do labor rural, demandaria necessário revolvimento de matéria fática, o que é obstado, na via especial, a teor da Súmula n. 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 207.252/RN , Segunda Turma, Relator Ministro Castro Meira, DJe 4/2/2013)
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AO ART. 535 DO CPC. OMISSÃO. INOCORRÊNCIA. ISS. DESCONTO. BASE DE CÁLCULO. EXAME DE LEI LOCAL. SÚMULA 280 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. HONORÁRIA SUCUMBENCIAL. PEDIDO DE REDUÇÃO. REVISÃO DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO E DE INDICAÇÃO DO DISPOSITIVO INTERPRETADO DE MODO [NOME]. SÚMULA 284 DO STF.
+1. Não ocorre ofensa ao art. 535, II, do Código de Processo Civil se o tribunal de origem decide, fundamentadamente, as questões essenciais ao julgamento da lide, apenas não adotando a tese invocada pela recorrente.
+ ..
+6. Recurso especial não conhecido.
+(REsp 1.412.951/PE, Relatora Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 21/11/2013, DJe 25/11/2013)
+Rejeito, pois, a preliminar de ofensa ao art. 535 do CPC.
+Em mérito, a controvérsia veiculada nos autos diz respeito à possibilidade de inclusão do ICMS na base de cálculo do PIS e da COFINS.
+Quanto à questão de fundo, na anterior apreciação deste feito, decidiu-se com amparo na jurisprudência firmada por este Tribunal, consubstanciada nas Súmulas 68 e 94/STJ, entendimento este confirmado com o julgamento do recurso especial repetitivo REsp 1.144.469/PR, segundo o qual "O valor do ICMS, destacado na nota, devido e recolhido pela empresa compõe seu faturamento, submetendo-se à tributação pelas contribuições ao PIS/PASEP e COFINS, sendo integrante também do conceito maior de receita bruta, base de cálculo das referidas exações. " (Tema 313/STJ).
+Todavia, este entendimento sobredito foi superado. O Supremo Tribunal Federal, por ocasião do julgamento do RE 574.706/PR, realizado sob o regime de repercussão geral, firmou a seguinte tese: "O ICMS não compõe a base de cálculo para a incidência do PIS e da Cofins".
+A propósito:
+RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. EXCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E COFINS. DEFINIÇÃO DE FATURAMENTO. APURAÇÃO ESCRITURAL DO ICMS E REGIME DE NÃO CUMULATIVIDADE. RECURSO PROVIDO. 1. Inviável a apuração do ICMS tomando-se cada mercadoria ou serviço e a correspondente cadeia, adota-se o sistema de apuração contábil. O montante de ICMS a recolher é apurado mês a mês, considerando-se o total de créditos decorrentes de aquisições e o total de débitos gerados nas saídas de mercadorias ou serviços: análise contábil ou escritural do ICMS. 2. A análise jurídica do princípio da não cumulatividade aplicado ao ICMS há de atentar ao disposto no art. 155, § 2º, inc. I, da Constituição da República, cumprindo-se o princípio da não cumulatividade a cada operação. 3. O regime da não cumulatividade impõe concluir, conquanto se tenha a escrituração da parcela ainda a se compensar do ICMS, não se incluir todo ele na definição de faturamento aproveitado por este Supremo Tribunal Federal. O ICMS não compõe a base de cálculo para incidência do PIS e da COFINS. 3. Se o art. 3º, § 2º, inc. I, in fine, da Lei n. 9.718/1998 excluiu da base de cálculo daquelas contribuições sociais o ICMS transferido integralmente para os Estados, deve ser enfatizado que não há como se excluir a transferência parcial decorrente do regime de não cumulatividade em determinado momento da dinâmica das operações. 4. Recurso provido para excluir o ICMS da base de cálculo da contribuição ao PIS e da COFINS.
+(RE 574706, Relator(a): Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 15/03/2017, ACÓRDÃO ELETRÔNICO DJe-223 DIVULG 29-09-2017 PUBLIC 02-10-2017)
+
+Consoante a Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, dou parcial provimento ao recurso especial.
+Publique-se. Intimem-se.
