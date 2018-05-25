@@ -1,0 +1,61 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INDEFERIMENTO DE PEDIDO DE GRATUIDADE DE JUSTIÇA A PESSOA JURÍDICA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. NÃO COMPROVAÇÃO DE HIPOSSUFICIÊNCIA. REVER AS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A revisão das conclusões estaduais - acerca da ausência de comprovação de hipossuficiência de pessoa jurídica para fazer jus à gratuidade da justiça - demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência inviável na via estreita do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+3. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os acórdãos paradigmas, uma vez que as suas conclusões díspares ocorreram não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em virtude de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por DEPERON & CIA. LTDA. contra a decisão de fls. 382-386 (e-STJ), da lavra deste signatário, que conheceu do agravo e negou provimento ao recurso especial da ora agravante.
+O aludido apelo extremo foi deduzido com base no artigo 105, inciso III, alíneas a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 249, e-STJ):
+AGRAVO DE INSTRUMENTO Interposição contra decisão que indeferiu pedido de justiça gratuita. Possibilidade de concessão dos benefícios às pessoas jurídicas. Obrigatoriedade, no entanto, de demonstração cabal da necessidade dos benefícios da Lei 1.060/50, situação da qual não se desvencilhou a agravante. Oposição de seguidos embargos de declaração. Conduta que revela intenção protelatória, justificando a aplicação de multa nos termos do artigo 1.026, § 2º, do Código de Processo Civil/2015. Decisão mantida.
+Agravo de Instrumento não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 288-294 e-STJ).
+Nas razões do recurso especial (fls. 297-325, e-STJ), além de dissídio jurisprudencial, a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 98, 326, 489 e 1.022 do Código de Processo Civil de 2015.
+Sustentou, em suma: (i) negativa de prestação jurisdicional, ante a omissão do Colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, bem como ausência de fundamentação na decisão recorrida; (ii) fazer jus ao benefício da gratuidade da justiça, em razão de não ter condições de solver as custas e demais despesas processuais, tendo comprovado sua situação de hipossuficiência material e financeira; e c) ser indevida a aplicação da multa disposta no artigo 1.026 do CPC/2015, porquanto os embargos de declaração opostos não possuíam caráter protelatório, mas, sim, de prequestionamento.
+Em razão do juízo prévio negativo de admissibilidade, a recorrente interpôs agravo (art. 1.042 do CPC/1973), o qual foi conhecido para negar provimento ao recurso especial, pelos seguintes fundamentos: a) não configurada a alegação de negativa de prestação jurisdicional, porquanto as questões trazidas pela agravante foram analisadas e a decisão encontra-se fundamentada; b) incidência da Súmula 7/STJ para revisão das conclusões estaduais; e c) a aplicação da Súmula 7/STJ torna prejudicada a análise do dissenso jurisprudencial alegado.
+No presente agravo interno, a agravante pugna pela inaplicabilidade dos óbices aplicados para o desprovimento de seu reclamo, ao tempo que repisa os termos já expendidos no apelo extremo.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo Colegiado.
+Sem impugnação.
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Com efeito, conforme asseverado na decisão agravada, verifica-se que a apontada afronta aos arts. 489 e 1.022 do CPC/2015 não ficou caracterizada, uma vez que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa forma, registro que, apesar de rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. AÇÃO REGRESSIVA. ACIDENTE DE TRÂNSITO. SUFICIÊNCIA PROBATÓRIA DAS DESPESAS. VIOLAÇÃO DOS ARTS. 131, 165, 458 E 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não subsiste a alegada ofensa aos artigos 131, 165, 458 e 535 do CPC, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição ou obscuridade.
+ ..
+3. Agravo regimental não provido. (AgRg nos EDcl no REsp n. 1.155.359/RS, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/4/2014, DJe 2/5/2014).
+Quanto à gratuidade de justiça, a jurisprudência desta Corte entende que é possível a sua concessão à pessoa jurídica somente quando comprovada a precariedade de sua situação financeira, não havendo falar em presunção de miserabilidade, conforme demonstram os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA JURÍDICA EM REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL. HIPOSSUFICIÊNCIA NÃO COMPROVADA. REVISÃO. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta eg. Corte entende que é possível a concessão do benefício da assistência judiciária gratuita à pessoa jurídica somente quando comprovada a precariedade de sua situação financeira, não havendo falar em presunção de miserabilidade.
+2. A concessão do benefício da assistência judiciária à pessoa jurídica em regime de liquidação extrajudicial ou de falência depende de demonstração de sua impossibilidade de arcar com os encargos processuais.
+3. Na espécie, foi consignado que, a despeito de se encontrar em regime de liquidação extrajudicial, o recorrente é empresa de grande porte que não logrou êxito em demonstrar, concretamente, situação de hipossuficiência para o fim de concessão do benefício da assistência judiciária.
+4. Neste contexto, a modificação de tal entendimento lançado no v. acórdão recorrido, como ora perseguida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 576.348/RJ, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 24/03/2015, DJe 23/04/2015)
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - PESSOA JURÍDICA EM LIQUIDAÇÃO EXTRAJUDICIAL - PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+1. "As pessoas jurídicas podem ser contempladas com o benefício da Justiça Gratuita. Cuidando-se, porém, de Banco, ainda que em regime de liquidação extrajudicial, a concessão da gratuidade somente é admissível em condições excepcionais, se comprovado que a instituição financeira efetivamente não ostenta possibilidade alguma de arcar com as custas do processo e os honorários advocatícios. Elementos no caso inexistentes". Precedentes. Impossibilidade de revisão da conclusão firmada na Corte de origem, quanto à inexistência de hipossuficiência tendente à concessão da assistência judiciária gratuita, por demandar reexame dos fatos delineados na lide. Incidência da súmula 7/STJ.
+2. Agravo regimental desprovido. (AgRg no AREsp 593.588/RJ, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 10/02/2015, DJe 19/02/2015).
+Acerca do indeferimento da concessão dos benefícios da gratuidade e da aplicação da penalidade, assim se manifestou o Tribunal estadual (fls. 250-252, e-STJ):
+(..)
+Em que pese o disposto no artigo 98, caput, do Código de Processo Civil/2015, a simples declaração de pobreza não vincula a concessão dos benefícios da justiça gratuita e gera apenas uma presunção relativa de incapacidade da parte para o custeio processual.
+Nesse sentido, é indispensável que a declaração de pobreza esteja corroborada com provas que confirmem a alegada precariedade econômica, a ponto de se considerar o pedido de gratuidade.
+(..)
+Os documentos juntados não se mostram suficientes para o acolhimento do pedido de gratuidade de justiça. Os únicos trazidos pela parte, consistentes nos seus balanços patrimoniais, deflagram números que não coadunam com o noticiado estado de hipossuficiência econômica.
+Nos termos anotados pelo MM. Juízo, às fls. 143, o ativo circulante de R$ 15.012.550,58, e o saldo de R$ 4.915.844,69 em caixa demonstram que há plena possibilidade do pagamento de custas, ao mesmo tempo em que revelam a desnecessidade do diferimento ou do parcelamento.
+Por sua vez, o balanço correspondente ao exercício de 2017, trazido com a petição de fls. 223/224, não altera a conclusão sobre a capacidade financeira da agravante para o pagamento das custas processuais. A empresa possui ativo considerável, indicando plena capacidade financeira.
+Diante de tais números no balanço recente, bastante significativos, não convence a tese de que o pagamento das custas implicaria em prejuízo ao exercício das atividades desenvolvidas pela agravante.
+Daí porque nenhum dos pedidos é acolhido.
+Ressalte-se que a obtenção dos benefícios em outros feitos não é fato que vincule este Tribunal para efeito de concessão nestes autos, já que a situação econômica deve ser analisada de acordo com a documentação apresentada pela parte. Ao menos nestes autos, não há qualquer indício de dificuldades financeiras que justifique a gratuidade.
+Por fim, o MM. Juízo se posicionou sobre o tema da gratuidade em quatro oportunidades (fls. 143, 150, 158/159 e 169) diante dos insistentes e reiterados pedidos formulados pela agravante. Note-se, foram opostos embargos de declaração por duas vezes, considerados nitidamente protelatórios, na medida em que o pedido já havia sido indeferido de forma absolutamente clara, desde a primeira decisão, proferida às fls. 143.
+Justificada, portanto, a aplicação da multa que corresponde a 1% do valor atualizado da causa, porquanto configurada a hipótese prevista pelo artigo 1.026, § 2º, do Código de Processo Civil/2015 (Sem grifos no original).
+Desse modo, a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula 7/STJ.
+Impende registrar que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
