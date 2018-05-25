@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 4ª VARA DE FOZ DO IGUAÇU/PR em face do JUÍZO DE DIREITO DA VARA DE EXECUÇÕES CRIMINAIS DE SÃO FRANCISCO DE PAULA/RS.
+O Ministério Público Federal, ao se manifestar nos autos, sumariou os fatos que deram ensejo à instauração do presente conflito, in verbis (e-STJ fls. 728/729):
+Colhe-se dos autos que MILTON LUIS BERTUOL TAUFER foi condenado nos autos das ações penais nºs 5000418-82.2016.4.04.7002, 5005443- 81.2013.4.04.7002 e 5008320-91.2013.4.04.7002, cujas penas unificadas resultaram em um total de de 6 anos e 4 meses de reclusão, no regime inicialmente semiaberto, motivando a reconversão das penas restritivas de direitos (aplicadas nas duas primeiras condenações) em penas privativas de liberdade, na forma do artigo 44, I e II, do Código Penal, c/c artigo 111 da Lei 7.210/1984.
+Por conseguinte, pelo Juízo Suscitante foi expedida a guia de recolhimento do executado à Vara de Execuções Penais da Comarca de São Francisco de Paula/RS, eis que o réu estava recolhido no presídio daquela cidade.
+Por sua vez, o Juízo Suscitado, alegando superlotação do presídio, determinou a remessa dos autos ao Juízo Suscitante, bem como o recambiamento do preso ao presídio correspondente, ao tempo em que indeferiu o pedido da defesa de manutenção do executado no Presídio de São Francisco de Paula/RS, vez que residiria naquela cidade.
+Em sequência, a Defesa requereu a progressão do sentenciado para o regime aberto.
+Alega o juízo suscitante (fls. 706/711) que, conforme o enunciado da Súmula n. 192/STJ, compete à Justiça Estadual a execução da pena imposta a sentenciados pela Justiça Federal, quando o regime inicialmente imposto for o fechado ou o semiaberto, bem como a apreciação de qualquer pedido referente a sua situação prisional.
+Ao final, opinou pela competência do Juízo suscitado em parecer assim ementado (e-STJ fl. 728):
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. CONDENAÇÃO PERANTE A JUSTIÇA FEDERAL. UNIFICAÇÃO DE PENAS. RECONVERSÃO DA PENA RESTRITIVA DE DIREITO PARA PRIVATIVA DE LIBERDADE. PEDIDO DE PROGRESSÃO DE REGIME. SÚMULA Nº 192/STJ. COMPETÊNCIA DO JUÍZO ESTADUAL.
+1. "Havendo cumprimento de pena em estabelecimento prisional sob a jurisdição do Juízo das execuções estadual, este é o competente para o respectivo processo de execução penal, decidindo os incidentes de tal etapa processual."
+2. Parecer pelo conhecimento do conflito, para declarar a competência do Juízo de Direito da Vara de Execuções Criminais de São Francisco de Paula/RS, o suscitado.
+É, em síntese, o relatório.
+Conheço do conflito por se tratar de controvérsia instaurada entre juízos vinculados a tribunais distintos, conforme o que preceitua o art. 105, I, d, da Constituição Federal.
+A matéria em discussão no presente conflito já foi pacificada no âmbito da Terceira Seção desta Corte no sentido de que, iniciado perante a Justiça estadual o processo de execução de pena privativa de liberdade imposta pela Justiça Federal, nos termos do disposto no enunciado da Súmula n. 192/STJ, nela prosseguirá, ainda que haja o deferimento de progressão ao regime aberto ou qualquer outra alteração no curso do processo de execução.
+Nesse sentido:
+AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. CONDENAÇÃO PERANTE A JUSTIÇA FEDERAL. ESTABELECIMENTO PRISIONAL SOB ADMINISTRAÇÃO ESTADUAL. PROGRESSÃO PARA REGIME ABERTO. SÚMULA 192/STJ. COMPETÊNCIA DO JUÍZO ESTADUAL. MUDANÇA DE ENDEREÇO. ALTERAÇÃO DA COMPETÊNCIA. NÃO OCORRÊNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. É competente o Juízo das Execuções Penais do Estado para a execução da pena imposta a sentenciado pela Justiça Federal, quando recolhido a estabelecimentos sujeitos à administração estadual (Súmula 192 STJ).
+2. O fato de o sentenciado estar residindo em outra comarca não autoriza a modificação da competência para execução da pena.
+3. Agravo regimental a que se nega provimento. (AgRg no CC 141.896/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 24/02/2016, DJe 03/03/2016.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. CONDENAÇÃO EM ÂMBITO DA JUSTIÇA FEDERAL. PROGRESSÃO DE REGIME. FISCALIZAÇÃO DA PENA EM REGIME ABERTO. MANUTENÇÃO DO JUÍZO ESTADUAL. INCIDÊNCIA DA SÚMULA 192 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Havendo cumprimento de pena em estabelecimento prisional sob a jurisdição do Juízo das execuções estadual, este é o competente para o respectivo processo de execução penal, decidindo os incidentes de tal etapa processual.
+2. O fato de haver progressão de regime e não mais se encontrar custodiado, não torna incompetente o Juízo estadual para continuar a presidir sua execução. Incidência da Súmula 192 do STJ.
+3. Agravo regimental não provido. (AgRg no CC 136.386/PR, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 09/12/2015, DJe 01/02/2016.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. CONDENAÇÃO NA JUSTIÇA FEDERAL. EXECUÇÃO INICIADA EM ESTABELECIMENTO PENAL ESTADUAL. PROGRESSÃO DE REGIME. FISCALIZAÇÃO DA PENA. JUÍZO ESTADUAL. APLICAÇÃO DA SÚMULA N. 192 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+Nos termos do Enunciado n. 192 do Superior Tribunal de Justiça, "compete ao Juízo das Execuções Penais do Estado a execução das penas impostas a sentenciados pela Justiça Federal, Militar ou Eleitoral, quando recolhidos a estabelecimentos sujeitos à administração estadual".
+In casu, tratando-se de apenado pela Justiça Federal que vinha cumprindo a pena perante o Juízo da execução estadual, não há falar em deslocamento da competência para a Justiça Federal, tão somente em razão da superveniência da progressão ao regime aberto.
+Agravo regimental desprovido. (AgRg no CC 136.407/PR, Rel. Ministro ERICSON MARANHO, DESEMBARGADOR CONVOCADO DO TJ/SP, TERCEIRA SEÇÃO, julgado em 09/09/2015, DJe 16/09/2015.)
+Ante o exposto, conheço do conflito e dou por competente o Juízo suscitado (JUÍZO DE DIREITO DA VARA DE EXECUÇÕES CRIMINAIS DE SÃO FRANCISCO DE PAULA/RS).
+Publique-se. Intimem-se.
