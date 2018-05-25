@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo (artigo 544 do CPC/1973) interposto por [NOME] contra decisão em que se negou seguimento a recurso especial (e-STJ, fls. 584/590).
+O apelo extremo, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, por sua vez, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 512):
+AGRAVO DE INSTRUMENTO. EM CUMPRIMENTO À DECISÃO DO COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA, IMPÕE-SE NOVA APRECIAÇÃO DO RECURSO. HONORÁRIOS DE PROFISSIONAIS LIBERAIS. EXECUÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CASO CONCRETO. CESSÃO DE CRÉDITO. A LEGITIMIDADE ATIVA É QUESTÃO COMPLEXA, QUE DEMANDA MAIOR DILAÇÃO PROBATÓRIA. PRESCRIÇÃO. O PRAZO PRESCRICIONAL PARA EXECUÇÃO DA VERBA HONORÁRIA DE SUCUMBÊNCIA É DE CINCO ANOS APÓS O TRÂNSITO EM JULGADO DA SENTENÇA QUE OS FIXAR, TODAVIA, QUANDO HOUVER NECESSIDADE DE LIQUIDAR O TÍTULO, O TERMO "A QUO" SERÁ O TRÂNSITO EM JULGADA DA DECISÃO QUE HOMOLOGAR OS CÁLCULOS. NEGADO PROVIMENTO AO RECURSO.
+Os embargos de declaração opostos foram rejeitados pelo acórdão de fls. 536/541 (e-STJ).
+Nas razões do recurso especial (e-STJ, fls. 546/577), o ora agravante apontou violação aos artigos: 535, inciso II; 475-B; ambos do CPC/1973; 206, § 5º, inciso II, do CC; e 25, inciso II da Lei nº 8.906/1994.
+Sustentou, em síntese: i) a configuração de negativa de prestação jurisdicional ante a omissão do Colegiado em analisar questões relevantes para o deslinde da controvérsia; ou, sucessivamente, ii) o decurso do lapso prescricional da pretensão autoral.
+Sem contrarrazões (fl. 582, e-STJ).
+O Tribunal local negou seguimento ao recurso especial (fls. 584/590, e-STJ), daí o presente agravo (fls. 593/630, e-STJ), buscando destrancar o processamento daquela insurgência.
+Sem impugnação (fl. 632, e-STJ).
+Ascenderam os autos esta Corte Superior.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Cuida-se, na origem, de agravo de instrumento interposto por [NOME], inconformado com decisão de Primeiro Grau que desacolheu a exceção de pré-executividade por ele oposta nos autos da ação de execução de honorários sucumbenciais.
+A Corte estadual manteve a referida decisão singular, reconhecendo, com base no contexto fático-probatório dos autos: 1) a inadequação da exceção de pré-executividade para análise das questões relacionadas à legitimidade ativa da execução, por refugirem às matérias possíveis de serem tratadas na via eleita, haja vista a complexidade do tema, que demanda maior investigação e até eventual dilação probatória; bem como 2) não ter se configurado a prescrição da pretensão autoral, pois, "embora o prazo prescricional para execução da verba honorária de sucumbência seja de cinco anos após o trânsito em julgado da sentença que os fixar, quando houver necessidade de liquidar o título, o termo "a quo" será o trânsito em julgada da decisão que homologar os cálculos" (e-STJ, fls. 514/518).
+Verifica-se, portanto, que, embora rejeitados os embargos de declaração, as matérias postas à apreciação do Tribunal de piso foram devidamente enfrentadas e discutidas, de forma clara e suficiente, conquanto não tenham sido acolhidas as pretensões sustentadas pelo insurgente, não havendo, assim, que se falar em negativa de prestação jurisdicional.
+Acrescente-se que, consoante entendimento firmado por esta Corte, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão. O julgador deve declinar os fundamentos que nortearam seu entendimento neste ou noutro sentido, podendo fazê-lo, inclusive, à luz de preceitos legais diferentes aqueles alegados pelas partes.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/73. AUSÊNCIA DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação do art. 535 do Código de Processo Civil/73 pois o Tribunal de origem dirimiu as questões pertinentes ao litígio - tal como lhe foram postas e submetidas -, apresentando todos os fundamentos jurídicos pertinentes, à formação do juízo cognitivo proferido na espécie.
+2. O Tribunal de origem consigna a inexistência de documento novo capaz de rescindir o acórdão estadual com trânsito em julgado. A reforma do aresto, nestes aspectos, demanda inegável necessidade de reexame de matéria probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+3. Agravo interno não provido.
+(AgInt no AREsp 1071907/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+Dessa forma, não há se falar em qualquer dos vícios do art. 535 do CPC/1973 (correspondente ao artigo 1.022 do CPC/2015), constatando-se mero inconformismo da parte insurgente acerca do resultado do julgamento.
+2. No tocante a pretensão do recorrente acerca da prescrição, após acurada análise das provas nos autos, o Tribunal de origem assim asseverou (e-STJ, fls. 517/518, grifos nossos):
+Com relação à prescrição, melhor sorte não socorre o ora agravante.
+Isto porque, embora o prazo prescricional para execução da verba honorária de sucumbência seja de cinco anos após o trânsito em julgado da sentença que os fixar, quando houver necessidade de liquidar o título, o termo "a quo" será o trânsito em julgada da decisão que homologar os cálculos.
+Nesse sentido, segue precedente do Colendo Superior Tribunal de Justiça:
+"PROCESSUAL CIVIL EXECUÇÃO DE TÍTULO JUDICIAL." HONORÁRIOS ADVOCATlCIOS DE SUCUMBÊNCIA. PRESCRIÇÃO. TERMO A OUO. NECESSIDADE DE LIQUIDAÇÃO DE SENTENÇA. INTELIGÊNCIA DO ART 25. II. DA LEI 8.906/1994. PRINCIPIO DA ACTIO NATA. 1. Nos termos do art. 25, II, do EOAB, a execução dos honorários advocatícios sucumbenciais deve ser feita no prazo prescricional de cinco anos. contados do trânsito em julgado da sentença 2 Constatando o Tribunal de origem a necessidade de HqüidaçSo do título executivo judicial referente á verba honorária, o termo a quo do referido prazo deve corresponder, como na execução dos demais títulos dessa natureza, ao trânsito em julgado da decisão homologatóha dos cálculos apresentados, em respeito ao principio da actio nata. Precedentes do STJ. 3. Agravo Regimental não provido. (AgRg no REsp 1.129.931/PR. Rei. Ministro Herman Benjamin. DJe 18/12/2009)
+Como podemos verificar pela análise da r. sentença, fls. 35/42, deste instrumento, que julgou procedente, em parte, os embargos de devedor opostos pelo ora agravante, ficaram a cargo do embargante os honorários advocatícios fixados em 10% sobre o débito remanescente, e a cargo do embargado o pagamento de honorários advocatícios de 10% sobre os valores excluídos da execução, ou seja, estavam ligados diretamente ao valor efetivamente devido.
+Ato contínuo foi promovida a liquidação dos valores devidos, o qual restaram homologados em 27/09/2004, fl. 69, deste instrumento.
+Embora não haja nos autos cópia do trânsito em julgado da referida decisão, constata-se facilmente que não fora implentado o prazo prescricional, tendo em vista o ajuizamento da presente execução em 09/08/2006.
+O entendimento do TJRS encontra-se em harmonia com a jurisprudência desta Corte, tanto com relação ao prazo prescricional, quanto ao termo a quo para sua contagem, quando constatada a necessidade de liquidação do título executivo judicial referente à verba honorária, consoante demonstram os precedentes a seguir transcritos:
+PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO JUDICIAL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. PRESCRIÇÃO. TERMO A QUO. NECESSIDADE DE LIQUIDAÇÃO DE SENTENÇA. INTELIGÊNCIA DO ART. 25, II, DA LEI 8.906/1994. PRINCÍPIO DA ACTIO NATA.
+1. Nos termos do art. 25, II, do EOAB, a execução dos honorários advocatícios sucumbenciais deve ser feita no prazo prescricional de cinco anos, contados do trânsito em julgado da sentença.
+2. Constatando o Tribunal de origem a necessidade de liquidação do título executivo judicial referente à verba honorária, o termo a quo do referido prazo deve corresponder, como na execução dos demais títulos dessa natureza, ao trânsito em julgado da decisão homologatória dos cálculos apresentados, em respeito ao princípio da actio nata. Precedentes do STJ.
+3. Agravo Regimental não provido.
+(AgRg no REsp 1129931/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/11/2009, DJe 18/12/2009)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. PRESTAÇÃO JURISDICIONAL COMPLETA. INEXISTÊNCIA DE VÍCIOS. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. PRESCRIÇÃO. PRAZO QUINQUENAL. LEI 8.906/1994, ART. 25, INCISO II. SÚMULA 83/STJ.
+HARMONIA DE ENTENDIMENTO.
+1. Se as matérias trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla e fundamentada, ainda que contrariamente à pretensão da parte, afasta-se a alegada violação ao art. 535 do Código de Processo Civil de 1973.
+2. O cumprimento de sentença referente à condenação ao pagamento de verba honorária está subordinado ao prazo prescricional de 5 (cinco) anos, nos termos do artigo 25, inciso II, da Lei 8.906/1994 (EOAB). Precedentes.
+3. Incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1022584/BA, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 03/04/2018, DJe 11/04/2018)
+Ainda, mutatis mutandis:
+PROCESSUAL CIVIL. ADMINISTRATIVO. FGTS. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. TERMO A QUO DO PRAZO PRESCRICIONAL: TRÂNSITO EM JULGADO DA SENTENÇA CONDENATÓRIA. DESNECESSIDADE DE INCIDENTE DE LIQUIDAÇÃO, CONDIÇÃO VERIFICADA PELO TRIBUNAL RECORRIDO. REVISÃO DESSA PREMISSA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MONOCRÁTICA FUNDAMENTADA EM JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É cediço nesta Corte que o termo a quo do prazo prescricional relativo à execução se inicia com o aperfeiçoamento do respectivo título, momento em que não mais se discute a sua certeza e liquidez.
+2. Em regra, não é da sentença condenatória que se conta o prazo prescricional para a execução, mas sim da sentença da liquidação, tendo em vista que somente após ela haverá a liquidez e a certeza necessárias para o ajuizamento do feito executivo.
+3. Contudo, em casos nos quais não se faz necessária a liquidação da sentença, mas apenas a realização de meros cálculos aritméticos, cabe ao credor instruir a execução/cumprimento da sentença com a memória discriminada e atualizada do cálculo. E, conforme se extrai do acórdão recorrido, a parte recorrente não logrou êxito em demonstrar que a fase de liquidação era necessária. Revisar tal entendimento esbarra no óbice da Súmula n. 7 do STJ.
+4. A decisão monocrática ora agravada baseou-se em jurisprudência do STJ, razão pela qual não merece reforma.
+5. Agravo regimental não provido.
+(AgRg no REsp 1269842/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 01/12/2011, DJe 09/12/2011)
+Outrossim, a reforma do acórdão recorrido acerca da desnecessidade de prévia liquidação do título demandaria o reexame das premissas fáticas reveladas nos autos e sobre as quais fora construída sua conclusão, inviabilizado, portanto, o acolhimento da pretensão deduzida no recurso especial, que, nos termos da Súmula 7 do STJ, não comporta reexame de matéria fática.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. EXECUÇÃO DE HONORÁRIOS FIXADOS SOBRE O VALOR DA CONDENAÇÃO. PRESCRIÇÃO. TERMO INICIAL. LIQUIDAÇÃO DE SENTENÇA. NECESSIDADE. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 1. Hipótese em que o Tribunal de origem estabeleceu o termo inicial da prescrição quando do transito em julgado da sentença de liquidação, pois somente a partir dela que o título judicial a embasar a execução se apresentaria líquido.
+2. Assim, o exame da alegação de que o termo inicial deve se dar com o transito em julgado da ação de conhecimento por não ter existido processo de liquidação de sentença, mas apenas meros cálculos aritméticos, demandaria incursão no contexto fático probatório, o que é inadmissível na via estreita do recurso especial, ante o óbice da súmula 7/STJ.
+3. É inviável o conhecimento do dissídio jurisprudencial quando a questão foi decidida com base nas peculiaridades fáticas do caso, a justificar a incidência da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 792.187/SE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 30/11/2017, DJe 06/12/2017)
+3. Do exposto, nego provimento ao agravo.
+Publique-se.
