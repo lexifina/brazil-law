@@ -1,0 +1,48 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284/STF. IPTU. LANÇAMENTO. NOTIFICAÇÃO MEDIANTE ENTREGA DO CARNÊ. ÔNUS PROBATÓRIO DO CONTRIBUINTE. SÚMULA 568/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de Recurso Especial interposto pelo ESTRELA - LOCADORA DE BENS LTDA, fundado na alínea "a" do permissivo constitucional, objetivando a desconstituição do acórdão proferido pela 6ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - PRELIMINAR DE NULIDADE DA DECISÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO - REJEITADA - IPTU - LANÇAMENTO DE OFÍCIO - REMESSA DO CARNÊ AO ENDEREÇO DO CONTRIBUINTE - ÔNUS DA PROVA DO CONTRIBUINTE - PRECEDENTES NO SUPERIOR TRIBUNAL DE JUSTIÇA. Ainda que concisa, não se confunde com ausência de fundamentação, a caracterizar a nulidade da decisão, conforme determina o art. 93, IX da Constituição Federal, mormente quando restam consignados, de forma clara, os motivos do convencimento do julgador. Nos termos da Súmula de nº 397 do Superior Tribunal de Justiça: "O contribuinte do IPTU é notificado do lançamento pelo envio do carnê ao seu endereço". - Considerando que o IPTU é uma modalidade de tributo cujo lançamento é feito de ofício e que o crédito tributário é constituído tão somente com o envio do carnê ao endereço do contribuinte. Logo, não há que se falar em dever de exibição dos comprovantes de envio e recebimento do carnê de IPTU e, via de conseqüência, deve ser mantida a decisão agravada.
+Os embargos de declaração foram rejeitados. (e-STJ fls. 170/178)
+Nas razões do especial, a parte recorrente aponta violação aos artigos 1.022, I e II, do CPC/2015 e ao artigo 145 do Código Tributário Nacional. Alega, em síntese, que "é ônus da prova do Recorrido apresentar em juízo a comprovação do envio do carnê de IPTU ao endereço correto do contribuinte, até mesmo porque na CDA consta apenas que a notificação se deu por edital, violando assim o art. 145 do CTN, nos termos da jurisprudência do Superior Tribunal de Justiça".
+Contrarrazões apresentas às e-STJ fls. 210/220.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A insurgência não prospera.
+Quanto à alegada violação ao artigo 1.022 do CPC/2015, o recorrente limitou-se a afirmar que "é clara a violação do art. 1.022, incs. I e II do CPC, tendo em vista que os embargos de Declaração foram rejeitados sob o único fundamento do caráter infringente." Verifica-se que as razões de recorrer são genéricas e desprovidas de argumentação jurídica, uma vez que não foram apontados os temas supostamente omitidos, contraditórios ou obscuros.
+Trata-se de deficiência na fundamentação, caso em que se aplica, por analogia, o disposto na Súmula 284/STF, in verbis: " É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Destaque-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. VIOLAÇÃO AO ART. 535, II DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. LEGALIDADE DA COBRANÇA MEDIANTE TARIFA PROGRESSIVA. INOVAÇÃO RECURSAL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se conhece da alegada afronta ao art. 535, II do CPC quando a parte agravante se limita a afirmar, genericamente, sua violação sem, contudo, demonstrar especificamente quais os temas que não foram abordados pelo acórdão recorrido. A deficiência na fundamentação do recurso atrai a aplicação, por analogia, da vedação prescrita pela Súmula 284 do STF.
+ ..
+4. Agravo Regimental da CEDAE desprovido.
+(AgRg no AREsp 395.067/RJ, Primeira Turma, Relator Ministro Napoleão Nunes Maia Filho, DJe 08/04/2014)
+Rejeitada, portanto, a violação ao artigo 1.022 do CPC/2015.
+Dando continuidade à análise do especial, esta Corte Superior, ao apreciar o REsp nº 1.111.124/PR (recurso submetido à sistemática prevista no art. 543-C do CPC), pacificou o entendimento no sentido de que o envio do carnê do IPTU ao endereço do contribuinte configura notificação presumida do lançamento do tributo.
+Confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU. LANÇAMENTO. NOTIFICAÇÃO MEDIANTE ENTREGA DO CARNÊ. LEGITIMIDADE. NÃO OCORRÊNCIA. DEMORA NA CITAÇÃO NÃO IMPUTÁVEL AO EXEQÜENTE. SÚMULA 106/STJ.
+1. A jurisprudência assentada pelas Turmas integrantes da 1ª Seção é no sentido de que a remessa, ao endereço do contribuinte, do carnê de pagamento do IPTU é ato suficiente para a notificação do lançamento tributário.
+2. Segundo a súmula 106/STJ, aplicável às execuções fiscais, "Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da argüição de prescrição ou decadência."
+3. Recurso especial a que se nega provimento. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/08. (REsp 1.111.124/PR, Rel. Min. Teori Albino Zavascki, Primeira Seção, DJe de 4.5.2009)
+Nesses casos, o STJ possui o entendimento que, para que seja afastada a presunção do lançamento tributário, cabe ao contribuinte comprovar que não recebeu, mediante serviço postal, o carnê da cobrança.
+Confira os precedentes:
+TRIBUTÁRIO. AGRAVO REGIMENTAL. TAXA DE COLETA DE LIXO. ENTREGA DA GUIA DE RECOLHIMENTO. NOTIFICAÇÃO DO LANÇAMENTO. ÔNUS PROBATÓRIO DO CONTRIBUINTE.
+1. A notificação do lançamento da taxa municipal, que se dá junto com o IPTU, ocorre quando, apurado o débito, envia-se para o endereço do imóvel o carnê que descreve a quantia a ser paga.
+2. Milita em favor do fisco municipal a presunção de que a notificação foi entregue ao contribuinte que, discordando da referida cobrança, pode impugná-la administrativa ou judicialmente. Assim, cabe ao contribuinte o ônus de afastar tal presunção, ou seja, comprovar que não recebeu pelo Correio o carnê de cobrança da taxa municipal.
+3. Agravo regimental não provido
+(AgRg no Ag 1117569/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 12.4.2010) - grifo nosso.
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. IPTU/TLP. LANÇAMENTO. ENTREGA DA GUIA DE RECOLHIMENTO AO CONTRIBUINTE. NOTIFICAÇÃO PRESUMIDA. ÔNUS DA PROVA. MATÉRIA JULGADA SOB O REGIME DO ART. 543-C DO CPC (RESP 1.111.124/PR).
+1. A notificação do lançamento do IPTU e das taxas municipais ocorre com o envio da correspondente guia de recolhimento do tributo para o endereço do imóvel ou do contribuinte, com as informações que lhe permitam, caso não concorde com a cobrança, impugná-la administrativa ou judicialmente. Para afastar tal presunção, cabe ao contribuinte comprovar o não recebimento da guia.
+2. Entendimento pacificado pela Primeira Seção que, sob o regime do artigo 543-C do CPC, julgou o REsp 1.111.124/PR, ratificando a jurisprudência no sentido de que o envio do carnê do IPTU ao endereço do contribuinte configura notificação presumida do lançamento do tributo.
+3. Agravo regimental não provido.
+(AgRg no REsp 1179874/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 28.9.2010) - grifo nosso.
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ARTIGO 543-C, DO CPC. TRIBUTÁRIO. EXECUÇÃO FISCAL. ALEGAÇÃO DE NULIDADE DA CDA. TAXA DE LICENÇA PARA FUNCIONAMENTO. LANÇAMENTO DE OFÍCIO. NOTIFICAÇÃO DO CONTRIBUINTE PELA ENTREGA DO CARNÊ DE COBRANÇA. ÔNUS DA PROVA DO DEVEDOR DE QUE NÃO RECEBERA O CARNÊ. APLICAÇÃO ANALÓGICA DO RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA REFERENTE AO CARNÊ DO IPTU (RESP 1.111.124/PR).
+1. O envio da guia de cobrança (carnê), da taxa de licença para funcionamento, ao endereço do contribuinte, configura a notificação presumida do lançamento do tributo, passível de ser ilidida pelo contribuinte, a quem cabe comprovar seu não-recebimento.
+2. É que: "(a) o proprietário do imóvel tem conhecimento da periodicidade anual do imposto, de resto amplamente divulgada pelas Prefeituras; (b) o carnê para pagamento contém as informações relevantes sobre o imposto, viabilizando a manifestação de eventual desconformidade por parte do contribuinte; (c) a instauração de procedimento administrativo prévio ao lançamento, individualizado e com participação do contribuinte, ou mesmo a realização de notificação pessoal do lançamento, tornariam simplesmente inviável a cobrança do tributo." (Aplicação analógica do precedente da Primeira Seção, submetido ao rito do artigo 543-C, do CPC, que versou sobre ônus da prova do recebimento do carnê do IPTU: REsp 1.111.124/PR, Rel. Ministro Teori Albino Zavascki, julgado em 22.04.2009, DJe 04.05.2009).
+3. Recurso especial municipal provido. Acórdão submetido ao regime do artigo 543-C, do CPC, e da Resolução STJ 08/2008.
+(REsp 1114780/SC, Rel. Min. Luiz Fux, Primeira Seção, DJe 21.5.2010) - grifo nosso.
+Isto posto, não há que se falar em violação ao artigo 145 do Código Tributário Nacional.
+Incide, na espécie, a Súmula 568/STJ, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
