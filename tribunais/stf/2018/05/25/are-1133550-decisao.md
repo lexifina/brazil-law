@@ -1,0 +1,22 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por São Paulo Previdência – SPPREV contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “APELAÇÃO CÍVEL – ANULATÓRIA DE ATO ADMINISTRATIVO – Pensão por Morte – Neta de servidora pública que recebia pensão desde o óbito da instituidora, ocorrido há mais de dez anos – Pretensão de cancelamento do benefício, com base no artigo 5º da Lei Federal nº 9.717/1998 c.c. art. 16 da Lei Federal nº 8.213/91 – Impossibilidade – Decurso do prazo decadencial previsto no artigo 10 da Lei Estadual nº 10.177/1998 – Pensão por morte concedida à ré na forma da Lei Estadual vigente à data do óbito da servidora – Lei Complementar nº 1.012/2007 que efetuou profundas alterações no regime de previdência dos servidores estaduais, mas assegurou o direito ao recebimento de pensão por morte enquanto os beneficiários atenderem as condições previstas na lei anterior – Sentença mantida – Recurso improvido.”
+    A parte ora requerente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei estadual nº 10.177/98 e Leis Complementares estaduais nºs 180/78 e 1.012/2007), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de São Paulo, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local:
+    “O falecimento da servidora ocorreu antes da vigência da Lei Complementar Estadual nº 1.012/2007, que estabeleceu mudanças no sistema previdenciário do servidor público estadual, sendo certo que com essas mudanças somente aqueles que ostentam a condição de dependentes têm direito ao recebimento de pensão por morte.
+    …...................................................................................................
+    À época do falecimento da servidora a legislação de regência ainda permitia a nomeação de beneficiários facultativos, sendo forçoso reconhecer que a apelada se enquadrava na hipótese elencada no artigo 153 da Lei Complementar nº 180/78:
+    …...................................................................................................
+    A ré nasceu em 28 de abril de 1996 (fls. 16) e recebe o benefício previdenciário desde dezembro de 2000 (fls. 17/18), mas a ação foi ajuizada somente em janeiro de 2013, ou seja, mais de dez anos após a concessão da pensão por morte, sendo forçoso concluir que houve o decurso do prazo decadencial previsto no inciso I do artigo 10 da Lei Estadual nº 10.177/1998, que regula o processo administrativo no âmbito da Administração Estadual:
+    …...................................................................................................
+    Anoto, ainda, que o direito previdenciário concedido aos pensionistas dos servidores públicos antes das alterações promovidas pela Lei Complementar nº 1.012/2007 restou assegurado pelo disposto em seu artigo 2º:
+    Artigo 2º – Fica assegurada a continuidade do pagamento aos atuais beneficiários de pensão enquanto mantiverem as condições que, sob a égide da legislação anterior, lhes garantia a percepção do benefício.”
+    Assinalo, finalmente, que não se demonstrou, considerada a hipótese prevista no art. 102, III, “d”, da Carta Política, que a decisão recorrida tenha julgado válida lei local em face de lei federal.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 25 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
