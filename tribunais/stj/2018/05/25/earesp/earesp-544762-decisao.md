@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Embargos de Divergência interpostos contra acórdão da Primeira Turma do STJ assim ementado:
+PREVIDENCIÁRIO. CONVERSÃO DE TEMPO COMUM EM ESPECIAL APÓS A LEI N. 9.032/1995. IMPOSSIBILIDADE.
+1. No Recurso Especial n. 1.310.034/PR, submetido ao regime dos recursos repetitivos, Relator Min. Herman Benjamin, ficou decidido que, para viabilizar a conversão do tempo de serviço, mostra-se imprescindível observar a data em que requerida a aposentadoria.
+2. Hipótese em que o requerimento administrativo foi formulado quando já em vigor a Lei n. 9.032/95, que deu nova redação ao § 3º do art. 57 da Lei n. 8.213/1991 e, consequentemente, revogou a possibilidade de conversão de tempo comum em especial, autorizando, tão somente, a conversão de especial em comum.
+3. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+4. Agravo interno desprovido, com aplicação de multa.
+O embargante alega:
+Entretanto, o venerável acórdão está em divergência com julgados da Pnmeira e da Segunda Turmas desse Colendo Tnbunal de Justiça nos autos de AgRgResp 487.746. AgRg no AgREsp 455.364 e AgRg no AgREsp 464.070. AgRg no AgREsp 436.240 (Primeira Turma). REsp 1.442.932. AgRgREsp 457.468. AgREsp 436.020 (Segunda Turma).
+(..)
+Enquanto a decisão ora vergastada negou a conversão de tempo pretendida sob o fundamento de que após a Lei 9.032/95 é inviável aconversão do tempo comum em tempo especial com fundamento no que foi decidido no REsp 1.310.034/PR, as decisões paradigmas proferidas no Recurso Especial nº 1.442.932, AgRgREsp 457.468 (Segunda Turma), AgRgResp 487.746. AgRg no AgREsp 455.364 e AgRg no AgREsp 464.070 (Primeira Turma) admitiram a possibilidade de converter o tempo de serviço considerando a legislação vigente à época da prestação dos serviços, considerando o brocardo do tempus regit actum.
+Como bem ressaltado nos julgamentos do Recurso Especial nº 1.442.932, AgRgREsp 457.468 (Segunda Turma). AgRgResp 487.746. AgRg no AgREsp 455.364 e AgRg no AgREsp 464 070 (Primeira Turma), não se deve admitir a aplicação retroativa da Lei 9.032/95, pois o direito de conversão de tempo de serviço encontra-se incorporado ao patrimônio jurídico do segurado.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 23.3.2018.
+O próprio embargante reconhece que o posicionamento exarado no REsp 1.310.034/PR, julgado sob o rito do art. 543-C do CPC/1973, foi observado na decisão embargada.
+Em 2.2.2015 foi publicado o resultado do julgamento dos Embargos de Declaração no mencionado Recurso Especial representativo da controvérsia em que a tese manifestada pelo acórdão embargado foi reafirmada, conforme ementa a seguir transcrita:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL NA RESOLUÇÃO DO CASO CONCRETO. ACOLHIMENTO. RESOLUÇÃO DA CONTROVÉRSIA SOB O RITO DO ART. 543-C DO CPC E DA RESOLUÇÃO STJ 8/2008 MANTIDA. PREVIDENCIÁRIO. TEMPO ESPECIAL E COMUM. POSSIBILIDADE DE CONVERSÃO. LEI APLICÁVEL. CRITÉRIO. LEGISLAÇÃO VIGENTE QUANDO PREENCHIDOS OS REQUISITOS DA APOSENTADORIA.
+1. A parte embargante aduz que o item "4" da ementa apresenta erro material, já que em 24.1.2002, data do requerimento administrativo de concessão da aposentadoria, não estaria vigente a redação original do art. 57, § 3º, da Lei 8.213/1991, e sim a redação dada ao citado dispositivo legal pela Lei 9.032/1995 (art. 57, § 5º). Com isso e aplicando a tese fixada sob o rito do art. 543-C do CPC ao presente caso, assevera que não é possível a conversão de tempo comum em especial em favor do embargado.
+Resolução da controvérsia submetida ao rito do art. 543-C do CPC
+2. Não sendo objeto de irresignação a tese fixada sob o regime do art. 543-C do CPC no acórdão embargado, mas sim a sua aplicação sobre o caso concreto, permanece incólume a resolução da controvérsia sob o regime dos recursos repetitivos assentada no acórdão embargado:
+2.1. Como pressupostos para a solução da matéria de fundo, destaca-se que o STJ sedimentou o entendimento de que, em regra; a) a configuração do tempo especial é de acordo com a lei vigente no momento do labor, e b) a lei em vigor quando preenchidas as exigências da aposentadoria é a que define o fator de conversão entre as espécies de tempo de serviço. Nesse sentido: REsp 1.151.363/MG, Rel. Ministro Jorge Mussi, Terceira Seção, DJe 5.4.2011, julgado sob o rito do art. 543-C do CPC.
+2.2. A lei vigente por ocasião da aposentadoria é a aplicável ao direito à conversão entre tempos de serviço especial e comum, independentemente do regime jurídico à época da prestação do serviço. Na mesma linha: REsp 1.151.652/MG, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 9.11.2009; REsp 270.551/SP, Rel. Ministro Gilson Dipp, Quinta Turma, DJ 18.03.2002; Resp 28.876/SP, Rel. Ministro Assis Toledo, Quinta Turma, DJ 11.09.1995; AgRg nos EDcl no Ag 1.354.799/PR, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 5.10.2011.
+Todos os precedentes trazidos foram julgados antes da reafirmação do entendimento pela Primeira Seção, o que torna imprestáveis os paradigmas para fins de divergência.
+Cito, ainda, precedentes recentes das Turmas que integram a Primeira Seção sobre o tema:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL. TEMPO ESPECIAL. CONVERSÃO DE TEMPO COMUM EM ESPECIAL. CRITÉRIO. LEGISLAÇÃO VIGENTE QUANDO PREENCHIDOS OS REQUISITOS DA APOSENTADORIA. PRECEDENTE DO STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. RECURSO ESPECIAL NÃO CONHECIDO.
+1. O STJ, ao julgar o Recurso Especial 1.310.034/PR (de minha relatoria, Primeira Seção, DJe 19.12.2012), submetido à sistemática do art. 543-C do CPC/1973, firmou entendimento segundo o qual se aplica ao direito de conversão entre tempo comum e especial a lei em vigor à época da aposentadoria, independentemente do período no qual as atividades foram exercidas pelo segurado.
+2. A lei vigente no momento da aposentadoria, quanto ao direito à conversão do tempo de serviço comum em especial, era o art. 57, § 5º, da Lei 8.213/1991, com a redação dada pela Lei 9.032/1995, que suprimiu a possibilidade de conversão de tempo comum em especial, mantendo apenas a hipótese de conversão de tempo especial em comum.
+3. No caso dos autos, o requerimento da aposentadoria foi em 18.6.2004, quando não mais autorizada a conversão de tempo comum em especial, objeto da presente ação. 4. No mais, não fez o recorrente o devido cotejo analítico, e assim não demonstrou as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles.
+5. Recurso Especial não conhecido.
+(REsp 1697047/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2017, DJe 19/12/2017)
+PREVIDENCIÁRIO. CONVERSÃO DE TEMPO COMUM EM ESPECIAL APÓS A LEI N. 9.032/1995. IMPOSSIBILIDADE.
+1. A Primeira Seção, no julgamento do REsp n. 1.310.034/PR, representativo de controvérsia, assentou a compreensão de que, para viabilizar a conversão do tempo de serviço comum em especial, mostra-se imprescindível observar a data em que o segurado tenha reunido os requisitos para o benefício pretendido, se antes da vigência da Lei n. 9.032/1995, que deu nova redação ao § 3º do art.
+57 da Lei n. 8.213/1991 e, consequentemente, revogou a referida conversão.
+2. Hipótese em que os pressupostos à aposentação foram implementados quando já em vigor a Lei n. 9.032/1995, que deu nova redação ao § 3º do art. 57 da Lei n. 8.213/1991 e, consequentemente, revogou a possibilidade de conversão de tempo comum em especial, autorizando tão somente a conversão de especial em comum.
+3. Agravo interno desprovido, com aplicação de multa do art. 1.021, § 4º, do Código de Processo Civil.
+(AgInt no AREsp 608.459/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/10/2017, DJe 18/12/2017)
+Incide, na hipótese, a Súmula 168/STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado."
+Por tudo isso, indefiro, liminarmente, os Embargos de Divergência, nos termos do art. 266-C do RI/STJ.
+Publique-se.
+Intimem-se.
