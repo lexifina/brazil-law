@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se agravo em recurso especial interposto por TELEFÔNICA BRASIL S.A. frente a decisão que negou seguimento a recurso especial. O apelo extremo, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"1. Contrato de participação financeira para inscrição em plano comunitário de telefonia - Prescrição - Aplicação da regra de transição do artigo 2.028 do Código Civil - Prazo decenal contado, porém, da data da entrada em vigor da nova legislação substantiva - Extinção do feito afastada - Julgamento nos termos do artigo 515, § 3º, do CPC.
+2. Relação de consumo - Inversão do ônus probatório - Viabilidade - Direito de receber a quantidade de ações correspondente ao valor patrimonial no mês da integralização - Exegese da súmula 371 do STJ - Complementação de ações ou indenização cabíveis, postergando-se o cálculo à liquidação - Recurso provido" (e-STJ fl. 138).
+Os embargos de declaração opostos pela recorrente foram acolhidos parcialmente.
+Em suas razões, além de divergência jurisprudencial, a recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) artigo 535, I e II, do Código de Processo Civil de 1973: o Tribunal de origem incorreu em negativa de prestação jurisdicional ao deixar de enfrentar a seguinte questão: o contrato em apreço teria sido firmado sob o regime da Planta Comunitária de Telefonia (PCT) e não de participação financeira regular, não sendo examinadas as peculiaridades de tal contratação;
+(ii) artigos 7º, 8º e 170 da Lei nº 6.404/1976: nos contratos de PCT, a integralização ocorria na data da incorporação da rede ao capital social da empresa de telefonia na forma de dação em pagamento. Após aprovação do laudo de avaliação em assembleia, dividindo-se o valor obtido pelos integrantes da comunidade que financiaram a construção da rede junto ao empreendedor privado, chegava-se ao valor da integralização de cada membro, que, posteriormente, era dividido pelo valor patrimonial da ação conforme o balanço aprovado na mesma assembleia. Nessa modalidade, a relação contratual para a construção da rede era estabelecida entre a comunidade interessada e um empreendedor local, por ela escolhido, e
+(iii) artigos 6º, VIII, do Código de Defesa do Consumidor e 333 do CPC/1973: cabe à parte autora provar o valor patrimonial da ação na data da contratação. A inversão do ônus probatório não pode ser deferida na sentença ou no acórdão sem que se dê ao réu a oportunidade de produzir provas.
+ É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A pretensão merece acolhimento no tocante à alegada negativa de prestação jurisdicional (artigo 535 do CPC/1973).
+Compulsando os autos, verifica-se que, não obstante a oposição de embargos declaratórios, permaneceu silente a Corte local quanto ao requerimento de manifestação expressa acerca da legitimidade do critério de apuração de ações sob o regime PCT, nos termos dos arts. 7º, 8º e 170 da Lei nº 6.404/1976.
+O não enfrentamento pela instância ordinária da matéria ventilada nos embargos de declaração e imprescindível à solução do litígio implica violação ao artigo 535 do Código de Processo Civil de 1973, tanto que, nos termos da Súmula nº 211/STJ, revela-se inadmissível o recurso especial que, a despeito da oposição de embargos, trate de tema não analisado pela instância local, porquanto ausente o requisito do prequestionamento.
+A propósito, a título de exemplo, o seguinte precedente:
+"PROCESSO CIVIL EMBARGOS DE DECLARAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE DO ACÓRDÃO.
+1. Os embargos de declaração, de regra, não autorizam a reapreciação do quanto decidido, porém nada impede que, constatada a existência de omissão, o seu suprimento implique modificação no resultado do julgamento. Precedentes.
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo Tribunal Estadual, a despeito da interposição de embargos de declaração, é de rigor o reconhecimento de violação do art. 535 do CPC, por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Recurso especial provido" (REsp 1.091.966/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/02/2011, DJe 14/02/2011).
+Fica prejudica a análise das demais questões suscitadas no recurso especial.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial para determinar a devolução dos autos ao Tribunal de origem para que realize novo julgamento dos embargos de declaração de fls. 147/157 (e-STJ), no tocante ao ponto específico das peculiaridades do contrato da Planta Comunitária de Telefonia (PCT) .
+Publique-se.
+Intimem-se.
