@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de divergência opostos por [NOME], contra acórdão proferido pela Terceira Turma, da relatoria do e. Min. Marco Aurélio Bellizze, assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. INADIMPLÊNCIA. VENCIMENTO ANTECIPADO DA DÍVIDA. PRESCRIÇÃO. TERMO INICIAL INALTERADO. DATA DA ÚLTIMA PARCELA. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte de Justiça tem reiterado o entendimento de que o vencimento antecipado do contrato de financiamento imobiliário por inadimplemento do devedor não altera o termo inicial da prescrição, o qual deve ser contado do término da avença nos termos em que estipulado.
+2. Agravo interno a que se nega provimento.
+Fundamentado em precedentes da Terceira Turma (Edcl nos Edcl nos Edcl no REsp 1.347.432/DF, Rel. Min. João Otávio de Noronha, DJe de 22/2/2016; AgRg no AREsp 166.950/PR, Rel. Min. Sidnei Beneti, DJe de 9/5/2013) e da Quarta Turma (REsp nº 18.482/SP, Rel. Min. Bueno de Souza, DJe de 13/10/1998), aponta o embargante divergência jurisprudencial, defendendo, em resumo, a tese de que, "(..) o inadimplemento contratual de cada prestação vencida e não paga é encarado como marco inicial para o cômputo do prazo prescricional, podendo cada prestação ser fulminada isoladamente pela força deletéria do tempo que a tudo consome destrói, como sói acontecer em precedentes firmados para ajustar o termo inicial para cômputo dos juros de mora (data da lesão no inadimplemento, artigo 189 do Código Civil de 2002."
+Requer, assim, o provimento do presente recurso, reformando-se o acórdão embargado. Intimado, o embargado apresentou impugnação (fls. 686/708, e-STJ). Opinou o parquet pelo não conhecimento dos embargos por incidência, na hipótese, do enunciado da Súmula 168/STJ (fls. 710/714, e-STJ).
+É o relatório.
+Decide-se.
+A insurgência não merece prosperar.
+1. Na hipótese, o aresto proferido pela Terceira Turma, contra o qual se volta o embargante, fundamenta-se no entendimento de que "(..) A jurisprudência desta Corte de Justiça tem reiterado o entendimento de que o vencimento antecipado do contrato de financiamento imobiliário por inadimplemento do devedor não altera o termo inicial da prescrição, o qual deve ser contado do término da avença nos termos em que estipulado."
+Nesse contexto, inexiste, na jurisprudência atual, divergência entre as Turmas de Direito Privado do Superior Tribunal de Justiça a respeito desse tema. A propósito, confira-se:
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. CONTRATO DE MÚTUO HIPOTECÁRIO. VENCIMENTO ANTECIPADO DA DÍVIDA. PRAZO PRESCRICIONAL. TERMO INICIAL. DATA EXPRESSA NO TÍTULO. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. O vencimento antecipado da obrigação não é capaz de alterar o termo inicial da prescrição, devendo ser preservada a data expressa no título. Precedente.
+2. Não sendo a linha argumentativa apresentada pelo agravante capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos. 3. Agravo regimental não provido.
+(AgRg no AREsp 721.641/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/09/2015, DJe 06/10/2015)
+CIVIL. PROCESSO CIVIL. SISTEMA FINANCEIRO DE HABITAÇÃO. AÇÃO DE LIQUIDAÇÃO DE CONTRATO. INADIMPLEMENTO. PRESCRIÇÃO. TERMO INICIAL. VENCIMENTO ANTECIPADO QUE NÃO ALTERA O TERMO INICIAL DO PRAZO PRESCRICIONAL. JURISPRUDÊNCIA. INCIDÊNCIA DA SÚMULA 83/STJ.
+1. O acórdão recorrido está em consonância com o entendimento do STJ no sentido de que, não obstante o vencimento antecipado da dívida, o termo a quo do prazo prescricional permanece inalterado. Assim, no presente caso, o termo inicial é a data do vencimento da última parcela do contrato de financiamento de mútuo habitacional. Precedentes.
+2. Recurso especial a que se nega seguimento.
+(REsp 1.478.752 - PE, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 31/10/2014 , DJe 11/11/2014)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRATO DE MÚTUO. PRESCRIÇÃO. TERMO INICIAL. ÚLTIMA PRESTAÇÃO. DATA DO VENCIMENTO.
+1. O vencimento antecipado da dívida não altera o início da fluência do prazo prescricional, prevalecendo para tal fim o termo ordinariamente indicado no contrato, que, no caso (mútuo imobiliário), é o dia do vencimento da última parcela.
+2. Agravo interno não provido. (AgInt nos EDcl nos EDcl no REsp 1.578.817/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/9/2016, DJe 26/9/2016.
+E ainda, na mesma linha de compreensão, veja-se: AgRg no REsp 1369797/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 26/04/2016, DJe 04/05/2016; AgRg no AREsp 652.023/PR, desta Relatoria, QUARTA TURMA, julgado em 23/02/2016, DJe 01/03/2016; AgRg no AREsp 399.342/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/05/2015, DJe 02/06/2015; Agint no AREsp 1.051949/RS, Rel. Min. MARCO AURÉLIO BELLIZZE, Dje de 5/09/2017.
+Diante disso, a pretensão recursal esbarra na Súmula nº 168/STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+2. Do exposto, nega-se provimento aos embargos de divergência.
+Publique-se. Intimem-se.
