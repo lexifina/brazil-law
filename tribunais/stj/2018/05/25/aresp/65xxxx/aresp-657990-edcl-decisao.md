@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra decisão monocrática que rejeitou embargos declaratórios anteriormente apresentados, sob o fundamento de que não pode ser acolhido o recurso que, a pretexto de alegadas omissões do acórdão embargado, traduz, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+Os embargantes sustentam, em síntese, que: (I) o sistema constitucional posto para os recursos excepcionais não outorgou ao Presidente/Vice-Presidente do Tribunal a quo competência para apreciar o próprio mérito do recurso; (II) diante da inexistência de qualquer ato doloso de improbidade, bem como da comprovada não ocorrência de dano ao erário público, a sentença ora vergastada deverá ser devidamente reformada por este Colendo Tribunal; (III) basta simples análise aos seguintes julgados para se perceber que há nítida divergência jurisprudencial.
+Impugnação às fls. 1.085/1.089.
+É o relatório. Passo a decidir.
+De acordo com o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão atacada ou para corrigir erro material.
+Entretanto, no caso, não se verifica a existência de quaisquer das referidas deficiências apontadas pela embargante. Aliás, os presentes embargos de declaração constituem, em verdade, repetição integral da impugnação anteriormente oposta.
+Nota-se, desse modo, que os aclaratórios não se prestaram a atacar o a decisão embargada, mas, sim, o mérito da decisão que negou provimento ao agravo em recurso especial, circunstância que impede seu conhecimento, uma vez que, na esteira do entendimento consolidado nesta Corte de Justiça, "os segundos Embargos de Declaração devem apontar vício no julgamento dos primeiros Embargos de Declaração, e não em decisão anterior, cujo prazo para recurso já se esvaiu, pois operada a preclusão consumativa" (EDcl nos EDcl no AgRg nos EREsp n. 1.341.709/PI, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, DJe de 30/3/2015). .
+Compulsando os autos, verifica-se que os argumentos suscitados nos primeiros embargos foram devidamente enfrentados pela decisão ora embargada, a qual passo a reiterar (fl. 1068):
+ ..
+Com efeito, o apelo especial não chegou a ter o seu mérito apreciado, em razão da falta de prequestionamento e da ausência de cotejo analítico entre o acórdão recorrido e os arestos apontados como paradigmas.
+No entanto, nas razões dos embargos, sequer há menção à ausência de prequestionamento. Em outras palavras, os embargantes não procuraram demonstrar que teria havido obscuridade, contradição ou omissão por parte da decisão embargada na aplicação desse óbice ao conhecimento do apelo especial.
+Ademais, não há como acolher a afirmação de que a simples leitura dos arestos colacionados teria o condão de comprovar a inocorrência de ato ímprobo. É que, como consignei na decisão agravada, os ora embargantes não procederam ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+Convém ressaltar, ademais, que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do Novo CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+Anote-se, por fim, que, diante da oposição de segundos embargos declaratórios, os quais se limitaram a repetir as razões anteriormente suscitadas, sem qualquer esforço argumentativo no sentido de enfrentar os fundamentos adotados pela decisão objurgada, resta conceber o recurso como manifestamente protelatório. Nesse panorama, deve incidir a multa prevista no § 2º do art. 1.026 do Novo CPC/2015. No mesmo sentido, os seguintes julgados:
+PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE HIPÓTESE INSERTA NO ART. 535 DO CPC. PRETENSÃO DE REEXAME. CARÁTER PROTELATÓRIO. MULTA.
+1. Os embargos de declaração não servem para rediscussão de matéria já decidida.
+2. A oposição, pela segunda vez, de embargos de declaração a fim de discutir a suposta existência de vícios no julgado já impugnado pelos primeiros aclaratórios constitui prática processual abusiva.
+Precedentes.
+3. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgRg no REsp 1326841/PR, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 21/06/2016, DJe 28/06/2016)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CARÁTER PROTELATÓRIO. ABUSIVIDADE MANIFESTA. APLICAÇÃO DE MULTA. POSSIBILIDADE. ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. OMISSÃO. CONTRADIÇÃO. AUSÊNCIA DE VÍCIOS.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A impropriedade da alegação dos segundos embargos de declaração opostos com o escopo de rediscutir a suposta existência de vícios no julgado, enfrentados anteriormente nos primeiros aclaratórios, constitui prática processual abusiva e manifestamente protelatória, sujeita à aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015.
+III - Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl nos EDcl no AgRg no Ag 1395899/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 14/06/2016, DJe 22/06/2016)
+Ante o exposto, rejeitam-se os segundos embargos de declaração, com aplicação de multa, fixada em 1% sobre o valor atualizado da causa.
+Publique-se.
