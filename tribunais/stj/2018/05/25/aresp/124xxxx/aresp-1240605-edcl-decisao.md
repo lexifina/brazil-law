@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de embargos de declaração - fls. 939/941e -, opostos pelo ESTADO DE MINAS GERAIS, em face de decisão por mim proferida às fls. 929/934e, que conheceu do Agravo para não conhecer do Recurso Especial interposto por ALFALAGOS LTDA.
+Nas razões de seus aclaratórios, sustenta a embargante que a decisão incorreu em omissão tendo em vista que, tendo o Agravo sido interposto na vigência do CPC/2015, seria de rigor o arbitramento de honorários recursais.
+O recurso merece prosperar.
+Com efeito, em uma melhor análise dos autos, verifico que o Tribunal de origem fixou em 15% sobre o valor da causa atualizado o valor relativo aos honorários advocatícios, de modo que, em razão do não acolhimento do recurso interposto pela parte ora embargada, seria de rigor sua majoração.
+Assim, em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios, anteriormente fixados em 15% (dez por cento) sobre o valor da causa atualizado, para 16% (onze por cento) sobre o mesmo valor, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição do recurso de fls. 568/578, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Do exposto, acolho os embargos de declaração para majoração dos honorários anteriormente fixados em 15% (dez por cento) sobre o valor da causa atualizado, para 16% (onze por cento) sobre o mesmo valor
+I.
