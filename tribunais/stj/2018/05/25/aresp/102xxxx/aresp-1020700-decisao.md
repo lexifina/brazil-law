@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. HIPÓTESE EM QUE NÃO HÁ OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. SÚMULA 282/STF. MAJORAÇÃO HONORÁRIOS SUCUMBENCIAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência das Súmulas 211 e 7 do STJ e 282 e 356 do STF.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 420, e-STJ):
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. PENSÃO ESPECIAL DE EX- COMBATENTE. TERMO INICIAL. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO.
+1. Hipótese em que acórdão originário, por unanimidade de votos, negou provimento ao apelo da exequente que versava sobre o termo inicial do benefício e sobre o percentual de juros de mora, tendo sido mantida a sentença em relação ao marco inicial do benefício, qual seja, a data da citação, ocorrida em 26-10-2004, bem assim quanto aos juros de mora, 6% ao ano, a contar da citação.
+2. A controvérsia discutida em sede de embargos infringentes cingiu-se apenas à questão de fundo (reconhecimento do direito, ou não, de receber pensão especial de ex-combatente no posto de Segundo Tenente, tendo em vista que o falecido esposo da autora prestou serviços de guerra durante a Segunda Guerra Mundial), objeto da divergência.
+3. Formação de coisa julgada material sobre o que foi apreciado (termo inicial do benefício e juros de mora).
+4. Considerando o disposto no artigo 20, §4º, do Código de Processo Civil, o tempo de tramitação do feito (abril a novembro de 2015), o trabalho desenvolvido pelo advogado (apenas duas petições), a natureza e complexidade da causa, a verba honorária deve ser majorada para 5% (cinco por cento) sobre a diferença entre os valores propostos por cada parte (R$ 433.096,54) - ou, sob outro enfoque, sobre o valor excluído da execução, devidamente atualizado, consoante os precedentes das Turmas em casos análogos, merecendo reforma a sentença no ponto.
+No recurso especial, a recorrente alega violação dos artigos 512 e 1.088 do CPC/2015, os quais preveem que o julgamento proferido pelo tribunal substituirá a sentença ou a decisão recorrida no que tiver sido objeto de recurso. Desse modo, deveria prevalecer o julgamento proferido nos Embargos Infringentes, que, substituindo a sentença, dá provimento aos pedidos reproduzidos na inicial, qual seja, pensão especial a partir do quinquênio que antecede o ajuizamento da ação, além de verbas advocatícias.
+Defende, ademais, ofensa ao art. 85, §§ 1º e 2º, ao argumento de que a Corte local não observou os requisitos legais à fixação do valor da condenação em honorários advocatícios, o qual deve ser estabelecido de modo equitativo, atendendo ao grau de zelo profissional, lugar da prestação do serviço, natureza e importância da causa, observando o trabalho realizado pelo advogado e o tempo exigido.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+No que diz respeito aos artigos 512 e 1.088 do CPC/2015 (e a tese a eles vinculada), verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF. Ressalta-se que não houve a interposição de embargos de declaração na origem.
+Já no que tange ao art. 85, §§ 1º e 2º do CPC/2015, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que o trabalho desenvolvido pelo justifica a majoração dos honorários advocatícios.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, §3º, CPC/2015).
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
