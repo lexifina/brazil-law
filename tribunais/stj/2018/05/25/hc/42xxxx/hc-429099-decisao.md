@@ -1,0 +1,15 @@
+DECISÃO
+ELIEL DA SILVA DE ANDRADE, paciente neste habeas corpus substitutivo de recurso ordinário, alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no Habeas Corpus n. 0345445-65.2017.8.21.7000.
+Depreende-se dos autos que o paciente foi preso em flagrante em 14/8/2017 e, posteriormente, denunciado pela suposta prática dos crimes previstos nos arts. 33 e 35, ambos c/c o art. 40, IV, todos da Lei n. 11.343/2006.
+Busca-se, por meio deste writ, seja revogada a custódia preventiva.
+Não concedida a medida liminar e prestadas as informações, foram os autos ao Ministério Público Federal, que pugnou pelo não conhecimento do habeas corpus.
+Decido.
+No que tange às razões que fundamentam a segregação cautelar, destaco que o Juízo de primeiro grau, ao converter o flagrante em prisão preventiva, salientou que, "após a autoridade policial cumprir mandado de busca e apreensão para os endereços onde estavam os flagrados, obtiveram êxito na apreensão de grande quantidade e variedade de drogas, dinheiro, armas, munições, celulares, tablets, cadernetas com anotações, balança de precisão e tolo de papel filme plástico" (fl. 438).
+O Tribunal local, ao denegar a ordem, salientou que "o paciente foi preso em flagrante durante o cumprimento de mandado de busca e apreensão, na posse de 18 (dezoito) buchas de cocaína; 01 (uma) trouxa grande de cocaína; 08 (oito) tijolos pequenos de maconha;  ..  16 (dezesseis) tabletes de maconha e 19 (dezenove) pedras de crack" (fl. 17).
+Nesse sentido, é firme a jurisprudência do Superior Tribunal de Justiça:
+ ..
+2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência à gravidade concreta da conduta imputada à associação criminosa comandada pelo ora paciente, porque, segundo o decreto, foi desarticulada mediante buscas e apreensões policiais que recolheram, nos imóveis dos seus membros, 23,2g (vinte e três gramas e dois decigramas) de maconha, 0,6g (seis decigramas) de cocaína e 130,7g (cento e trinta gramas e sete decigramas) de crack. Dessarte, mostra-se evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública  ..  (HC n. 442.343/MG, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 16/5/2018, grifei).
+ ..
+III - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do ora recorrente acarretaria risco à ordem pública, notadamente se considerada a quantidade e variedade de drogas apreendidas apreendidas - 28 gramas de crack; 29 gramas de maconha; um cigarro de maconha e 60 gramas de cocaína, circunstâncias indicadoras de maior desvalor da conduta em tese perpetrada e que denota a periculosidade concreta da agente (precedentes)  ..  (HC n. 442.326/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 30/4/2018, sublinhei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
