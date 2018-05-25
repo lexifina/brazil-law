@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. GRATUIDADE DA JUSTIÇA. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO RELATIVA. POSSIBILIDADE DE O JUIZ DENEGAR O PEDIDO DE OFÍCIO, EXCEPCIONALMENTE. CONJUNTO FÁTICO-PROBATÓRIO DESTES AUTOS QUE ILIDE ESSA PRESUNÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo se falar em negativa de prestação jurisdicional.
+2. A modificação do acórdão recorrido (que manteve a decisão de indeferimento do pedido da parte recorrente de concessão da gratuidade da justiça, porquanto não demonstrada a condição de hipossuficiência) demandaria necessariamente o revolvimento dos fatos e das provas dos autos, atraindo, assim, o óbice disposto na Súmula 7/STJ.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se, na origem, de agravo de instrumento interposto por [NOME] contra decisão do Juízo a quo que, nos autos da execução de sentença condenatória, acolheu, em parte, a impugnação do agravante, para excluir a multa do art. 475-J, do Código de Processo Civil de 1973, e os honorários advocatícios, mantendo a multa coercitiva.
+A Trigésima Segunda Câmara de Direito Privado do Tribunal de São Paulo negou provimento ao recurso em acórdão assim ementado (e-STJ, fl. 730):
+Gratuidade da justiça. Pedido formulado em ação de reparação de danos no imóvel. Indeferimento. Elementos objetivos constantes nos autos que não indicam impossibilidade de suportar as despesas processuais. Benefício não concedido. Recurso desprovido.
+Via de regra, a simples afirmação feita pelo interessado de que não está em condições de pagar as custas processuais, sem prejuízo próprio ou de sua família, é suficiente para concessão dos benefícios da Justiça Gratuita. No entanto, pode o Juiz indeferi-los, máxime quando houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão da gratuidade (arts. 98 e 99 do novo CPC).
+Nas razões do recurso especial, o recorrente apontou violação aos arts. 98, §§ 2º e 3º, 99, 489, § 1º, VI, e 926 do Código de Processo Civil de 2015.
+Sustentou, além da falta de fundamentação no acórdão recorrido, a necessidade de se deferir o benefício da justiça gratuita, pois "demonstrou que sua renda se encontra abaixo do limite de isenção; também comprovou que não possui investimentos, já que colacionou aos autos a íntegra de suas declarações de rendimentos; requereu a quebra de seu sigilo bancário; e, assim, demonstrou encontrar-se em situação de hipossuficiência financeira" (e-STJ, fl. 750).
+Não foram apresentadas contrarrazões.
+O Presidente da Seção de Direito Privado da Corte estadual inadmitiu o apelo nobre sob os fundamentos de não cabimento de análise de dispositivo constitucional, de não demonstração da alegada vulneração aos artigos arrolados e de incidência da Súmula 7/STJ.
+Irresignado, o recorrente apresentou agravo refutando os óbices apontados pela Corte.
+Sem contraminuta.
+Por decisão monocrática desta relatoria (e-STJ, fls. 868-871), conheceu-se do agravo para não conhecer do recurso especial, nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. JUSTIÇA GRATUITA. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. REEXAME DE PROVA. SÚMULAS 7 E 83 DO STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões do presente agravo interno (e-STJ, fls. 875-897), [NOME] reitera os argumentos exarados no apelo nobre acerca da necessidade de concessão da gratuidade da justiça em seu favor, uma vez que "anexou aos autos diversos documentos aptos a, só por si, justificar o pedido de gratuidade processual, e não apenas a Declaração de Hipossuficiência, razão pela qual não há de se falar em similitude fática e tampouco que a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" (e-STJ, fl. 880).
+Não foi apresentada impugnação.
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Os argumentos trazidos pelo agravante não são capazes de modificar as conclusões da decisão impugnada.
+Relativamente à preliminar de negativa de prestação jurisdicional (apontada violação aos arts. 489, § 1º, e 1.022 do CPC/2015), conforme consignado anteriormente, constata-se que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, notadamente acerca do deferimento da gratuidade de justiça, tratando-se, na verdade, de pretensão de novo julgamento da matéria.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp n. 1.638.961/RS, Relator o Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 2/2/2017).
+Ressalte-se, ainda, que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar a conclusão alcançada, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+PROCESSO CIVIL. AGRAVO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA DE OMISSÃO OU CONTRADIÇÃO. 1. O artigo 535 do Código de Processo Civil dispõe sobre omissões, obscuridades ou contradições existentes nos julgados. Trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que se verifica a existência dos vícios na lei indicados. 2. Afasta-se a violação do art. 535 do CPC quando o decisório está claro e suficientemente fundamentado, decidindo integralmente a controvérsia.  ..  4. Agravo regimental desprovido. (AgRg no Ag n. 1.176.665/RS, Relator o Ministro João Otávio de Noronha, DJe de 19/5/2011)
+A respeito da questão de fundo, concernente à concessão da gratuidade da justiça, também não vislumbro nenhum fundamento hábil a desconstituir a conclusão delineada na decisão monocrática.
+A princípio, como já consignado, não se desconhece que a declaração de hipossuficiência formulada pela parte, ora recorrente, goza de presunção de veracidade (art. 99, § 3º, do CPC/2015), sendo suficiente, por si só, em regra, ao deferimento do pedido.
+Não obstante, subsistindo dúvidas a respeito dessa veracidade, "as instâncias ordinárias podem examinar de ofício a condição financeira do requerente para atribuir a gratuidade de justiça, haja vista a presunção relativa da declaração de hipossuficiência" (AgInt no REsp n. 1.641.432/PR, Relator o Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 4/4/2017).
+Na mesma linha de entendimento, confira-se (sem grifo no original):
+PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO RELATIVA DE VERACIDADE. EXAME DA CONDIÇÃO FINANCEIRA PELO MAGISTRADO. POSSIBILIDADE.
+1. O art. 4º, § 1º, da Lei n. 1.060/1950, à época de sua vigência, e o art. 99, § 3º, do CPC/2015 estabeleceram presunção relativa de veracidade à declaração de hipossuficiência financeira das pessoas físicas que pleiteiam a concessão do benefício de gratuidade de justiça.
+2. Na falta de impugnação da parte ex adversa e não havendo, nos autos, indícios da falsidade da declaração, o órgão julgador não deve exigir comprovação prévia da condição de pobreza.
+3. Havendo dúvidas quanto à veracidade da alegação de hipossuficiência, o atual posicionamento jurisprudencial desta Corte é no sentido de que "as instâncias ordinárias podem examinar de ofício a condição financeira do requerente para atribuir a gratuidade de justiça, haja vista a presunção relativa da declaração de hipossuficiência" (AgInt no REsp 1.641.432/PR, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 04/04/2017).
+4. Hipótese em que o recurso especial encontra óbice nas Súmulas 7 e 83 do STJ, tendo em vista que o Tribunal de Justiça indeferiu o benefício porque a renda da parte requerente poderia suportar os ônus do processo.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 793.487/PR, Relator o Ministro Gurgel de Faria, Primeira Turma, julgado em 22/8/2017, DJe 4/10/2017)
+No caso em foco, verifica-se que a Corte local, utilizando-se da cognição acima esboçada, indeferiu o pleito de gratuidade da justiça, mediante análise do conjunto fático-probatório do respectivo processo. O acórdão impugnado consignou que o recorrente não demonstrou a necessidade da concessão do benefício pleiteado, haja vista que é proprietário de diversos imóveis, sendo dois deles rurais de grande extensão territorial. Outrossim, ressaltou que o contexto probatório revela, por si só, que a situação do agravante não condiz com a alegada pobreza.
+Assim sendo, incide, efetivamente, a Súmula 7/STJ, na espécie, pois não há como alterar a conclusão do acórdão recorrido (a respeito da não comprovação do recorrente, de que faz jus ao benefício da gratuidade da justiça), sem que se proceda ao revolvimento do conjunto fático-probatório deste processo.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
