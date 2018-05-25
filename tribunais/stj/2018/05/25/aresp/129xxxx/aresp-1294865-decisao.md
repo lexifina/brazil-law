@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado pela FAZENDA DO ESTADO DE SÃO PAULO desafiando decisão da Presidência da Seção de Direito Público do Tribunal de Justiça de São Paulo que não admitiu recurso especial com base nos seguintes fundamentos: (I) "os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas legais enunciadas" (fls. 214/215) e; (II) incidência da Súmula 7/STJ, ao fundamento de que a solução da controvérsia demandaria o reexame de fatos e provas.
+É o relatório.
+O inconformismo não pode ser acolhido.
+Anote-se, de início, não assistir razão à parte agravante ao alegar que a instância de origem, ao realizar o juízo de admissibilidade do recurso especial, usurpou a competência do Superior Tribunal de Justiça. Isso porque, nos termos da Súmula 123/STJ ("A decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais."), é atribuição do Tribunal a quo, naquele momento processual, analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia. Confiram-se, nesse mesmo sentido, os seguintes precedentes: RCDESP no AREsp 211.716/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 25/9/2012; AgRg no Ag 1.424.298/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 27/10/2011; AgRg no Ag 1.147.395/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 12/11/2010; e AgRg no Ag 1.134.224/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe 2/2/2010.
+Ademais, apesar de fazer menção à Súmula 7/STJ, a parte agravante deixou de declinar os motivos pelos quais, no seu entender, o referido óbice não seria aplicável ao caso concreto.
+Noutras palavras, o agravo deixou de rebater, de modo específico, todos os fundamentos adotados pela decisão agravada, o que atrai a incidência, por analogia, da Súmula 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. EXAME DE MÉRITO DO RECURSO ESPECIAL PELA CORTE DE ORIGEM. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para viabilizar o prosseguimento do agravo, a irresignação recursal há de ser completa, especifica e objetiva. Não basta a impugnação genérica (Súmula 182/STJ).
+2. A jurisprudência desta Corte pacificou o entendimento segundo o qual a emissão de juízo sobre o mérito do recurso especial, pelo tribunal de origem, por ocasião do exame provisório de admissibilidade, não implica usurpação da competência do Superior Tribunal de Justiça.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 621.634/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 13/10/2015, DJe 26/10/2015)
+Diante do exposto, não conheço do agravo.
+Publique-se.
