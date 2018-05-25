@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por [NOME] e outra contra a decisão de fl. 359 (e-STJ), que não admitiu o recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "c", da Constituição Federal, por sua vez, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 281, e-STJ):
+Contrato bancário - Ação declaratória, de nulidade de cláusula contratual, cumulada com exoneração de fiança e indenização por danos morais - Improcedência - Contrato de Abertura de Crédito BB Giro Empresa Flex - Alegação de renovação do contrato, com reutilização dos respectivos limites de crédito, após terem sido quitados ou zerados, não tendo havido anuência expressa por parte dos garantidores, quanto à reutilização do limite de crédito ocorrida - Abusividade da cláusula contratual que previu a garantia firmada pelos autores também para a renovação do contrato não evidenciada, seja por não ter se restringido à fiança, prevendo também a responsabilidade solidária dos fiadores pelas obrigações assumidas pelo financiado, seja por reportar-se às próprias condições e limites de crédito já previstos no instrumento contratual, para ser feita a respectiva renovação, como expressamente assentado em seus termos - Incidência, outrossim, do artigo 835 do Código Civil - Improcedência da ação que deve ser mantida - Recurso improvido.
+Os embargos de declaração opostos foram rejeitados pelo acórdão de fls. 303/307 (e-STJ).
+Em suas razões recursais (fls. 310/323, e-STJ), os insurgentes apontaram dissídio jurisprudencial acerca da validade da prorrogação automática da fiança, sem a intervenção dos fiadores.
+Sustentaram, em síntese: 1) a necessidade de autorização expressa do fiador para garantir o novo crédito, assim considerado o decorrente da renovação de contrato anterior; e 2) a impossibilidade de o fiador ser responsabilizado por obrigações oriundas de prorrogação tácita de contrato a qual ele expressamente não anuiu.
+Contrarrazões apresentadas às fls. 340/349 (e-STJ).
+Em juízo de admissibilidade, negou-se seguimento ao reclamo. Daí o presente agravo, buscando destrancar o processamento daquela insurgência.
+Contraminuta ofertada às fls. 372/382 (e-STJ).
+É o relatório.
+Decido.
+A inconformismo não comporta acolhimento.
+1. Com efeito, o recurso especial é manifestamente inadmissível. Verifica-se que os insurgentes, conquanto tenham fundamentado o recurso apenas na alínea "c" do permissivo constitucional, olvidaram-se de indicar os dispositivos de lei federal que teriam sido violados.
+Para fins de conhecimento do recurso com base na alínea "c", também se faz necessária a indicação, de forma específica e eficiente, do dispositivo de lei federal de cuja interpretação teria divergido o acórdão recorrido, circunstância que atrai a incidência da Súmula 284/STF, ante a deficiência na fundamentação.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO INFRACONSTITUCIONAL VIOLADO OU QUE RECAIA DISSÍDIO JURISPRUDENCIAL. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. MERA TRANSCRIÇÃO DE EMENTA.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. A ausência de indicação de dispositivo infraconstitucional violado ou sobre o qual recaia o dissídio jurisprudencial atrai a aplicação do óbice contido na Súmula nº 284/STF.
+3. Dissídio jurisprudencial não demonstrado nos moldes estabelecidos nos artigos 1029, § 1º, do novo Código de Processo Civil, e 255, parágrafos 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1016589/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 03/10/2017, DJe 06/10/2017 - grifo nosso)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO PEDIDO DE RECONSIDERAÇÃO. APELAÇÃO CONHECIDA. HIPÓTESE DE INTERRUPÇÃO DO PRAZO RECURSAL. PRECEDENTE DA CORTE ESPECIAL. LEGALIDADE DO ACORDO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DISPOSITIVO LEGAL. SÚMULA 284/STF. VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA. FUNDAMENTOS NÃO ATACADOS. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO. (AgInt no REsp 1601698/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 21/09/2017, DJe 29/09/2017 - grifo nosso).
+É certo que, em caso de dissídio notório, tem-se admitido a flexibilização dos requisitos formais de admissibilidade do recurso interposto pela alínea "c".
+Porém, a indicação da lei federal é requisito constitucional, previsto expressamente no art. 105, inciso III, da Constituição.
+Desse modo, ainda que se tratasse de dissídio notório, esse requisito de admissibilidade, por ter status constitucional, não poderia ser relevado.
+Sob outra ótica, ainda que fosse possível deduzir das razões recursais o dispositivo de lei federal pertinente, essa providência seria vedada ao julgador, por constituir ofensa aos princípios da imparcialidade e do contraditório.
+Nesse sentido, confira-se este julgado específico da Corte Especial:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+1. "A inépcia da petição inicial, escorada no inciso II do parágrafo único do artigo 295 do Código de Processo Civil, se dá nos casos em que se impossibilite a defesa do réu ou a efetiva prestação jurisdicional" (REsp 1.134.338/RJ, Rel. Min. MASSAMI UYEDA, Terceira Turma, DJe 29/9/11).
+2. Hipótese em que a petição inicial, além de descrever de forma objetiva os fatos (candidato inscrito em concurso público que, aprovado nas fases iniciais, foi obstado de continuar no certame por não lograr êxito no teste psicotécnico), informa o direito subjetivo supostamente ofendido, ensejador do writ, sem causar qualquer espécie de embaraço à defesa do réu ou à efetiva prestação jurisdicional, tanto assim que o pedido foi julgado procedente.
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(AgRg no REsp 1346588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/03/2014, grifos nossos)
+2. Do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/2015, majoro em 1% (um por cento) o valor dos honorários advocatícios arbitrados na origem (e-STJ, fl. 209), observando-se o disposto no artigo 98, § 3º, do NCPC.
+Publique-se.
+Intimem-se.
