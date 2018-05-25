@@ -1,0 +1,21 @@
+DECISÃO
+[NOME] agrava de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+APELAÇÃO CRIMINAL - AUSÊNCIA APRECIAÇÃO DA TESE DEFENSIVA - INOCORRÊNCIA - ADULTERAÇÃO DE SINAL IDENTIFICADOR - MATERIALIDADE E AUTORIA DEMONSTRADAS - FURTOS QUALIFICADOS "RES FURTIVA" ENCONTRADA EM PODER DO ACUSADO - INVERSÃO DO ÔNUS DA PROVA - FORMAÇÃO DE QUADRILHA E RECEPTAÇÃO QUALIFICADA - DELITOS NÃO CONFIGURADOS - PROVA COLHIDA NA FASE ADMINISTRATIVA - VEDAÇÃO DO ARTIGO 155 DO CPP - ABSOLVIÇÃO MANTIDA - TENTATIVA - IMPOSSIBILIDADE DE RECONHECIMENTO - CONSUMAÇÃO - UTILIZAÇÃO DE CHAVE FALSA - INCIDÊNCIA - COMPROVAÇÃO - FARTO CONJUNTO PROBATÓRIO - PRESCINDIBILIDADE DE PERÍCIA.
+- Não há que se falar em nulidade da sentença, por ausência de apreciação de tese defensiva, quando o Juízo a quo adota posicionamento incompatível com a pretensão deduzida.
+- A conduta de adulterar a placa de veículo automotor, utilizando fita isolante, configura a mudança de sinal identificador deste, enquadrando-se nos núcleos do tipo descrito no artigo 311 do Código Penal, que visa proteger a fé pública, e para o qual pouco importa a finalidade pretendida pelo agente com tal alteração, sendo, neste caso, prescindível a realização de perícia, se a autoria e a materialidade estiverem comprovadas por outros meios de prova.
+- Em sede de crimes patrimoniais, a apreensão da res furtiva em poder do réu opera a inversão do ônus probatório, cumprindo-lhe justificar tal estado de coisa, ao passo que a ausência de qualquer explicação plausível, corroborada pela inexistência de provas que lhe cabia apresentar, conduz à necessária e inevitável convicção da responsabilidade que lhe é imputada.
+- Para efeitos de reconhecimento do momento consumativo do furto, tem-se entendido que este se perfaz quando a coisa saia da esfera de proteção e disponibilidade da vítima, ingressando na do agente, ainda que por breve período de tempo.
+- Não configurados os elementos caracterizadores do crime de formação de quadrilha, deve ser mantida a absolvição.
+- Incabível a condenação pela prática do crime de receptação apenas em prova colhida na fase administrativa, conforme vedação expressamente prevista no artigo 155, Código de Processo Penal, sob pena de ofensa aos princípios da ampla defesa e do contraditório.
+- Incide a qualificadora do concurso de pessoas se incontroverso nos autos que o furto foi cometido por duas ou mais pessoas, ainda que a participação dos agentes não esteja expressamente delimitada.
+- A ausência de perícia não tem o condão de afastar a qualificadora de uso da chave falsa, prevista no art. 155, §4º, III, do Código Penal, mormente quando sua utilização restar devidamente comprovada pelas demais provas constantes dos autos. (e-STJ fl. 819)
+Aponta a defesa a violação dos arts. 5º, LV e 93, IX, da Carta Magna e 381, III, do Código de Processo Penal, além de dissídio jurisprudencial, alegando a nulidade do acórdão por falta de fundamentação, notadamente diante da não apreciação das teses suscitadas pela defesa.
+Contrarrazões às e-STJ fls. 1.052/1.055.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 1.133/1.137.
+É o relatório. Decido.
+A irresignação não prospera.
+Registre-se inicialmente, que não cabe, na via do recurso especial, a análise de suposta violação de artigos da Constituição Federal.
+No mais, anota-se que "o Juiz não é obrigado a pronunciar-se sobre todas as teses defensivas desde que tenha encontrado fundamentos suficientes para justificar o decisum" (EDcl no AgRg nos EREsp 1.043.207/SP, Rel. Ministra REGINA HELENA COSTA, TERCEIRA SEÇÃO, DJe 29/8/2014).
+In casu, as instâncias de origem, soberanas na apreciação do conjunto fático-probatório dos autos, concluíram pela existência de elementos suficientes para a condenação, o que não pode ser modificado na via do recurso especial ante o óbice do Enunciado n. 7 da Súmula desta Corte. A propósito: AgRg no AREsp 798.531/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 14/03/2018).
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
