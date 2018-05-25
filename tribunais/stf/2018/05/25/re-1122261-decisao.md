@@ -1,0 +1,35 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Município de Jundiaí/SP contra acórdão que, proferido pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PRELIMINAR DE PERDA DE OBJETO DO RECURSO AFASTADA. IPTU. CAIXA ECONÔMICA FEDERAL. CREDORA FIDUCIÁRIA. ILEGITIMIDADE PASSIVA.
+    1. Preliminar de perda do objeto do presente recurso em razão do parcelamento do débito exequendo rejeitada. Embora a execução originária tenha como objeto a cobrança do débito relativo ao IPTU, a questão discutida no agravo é a legitimidade/ilegitimidade da CEF para figurar no polo passivo da ação, e, por consequência, a competência da Justiça Federal/Estadual para processar e julgar o feito, permanecendo assim o interesse processual no julgamento do recurso.
+    2. Ao que se extrai dos autos, trata-se de execução fiscal para cobrança de IPTU e Taxa de Lixo ajuizada em face de Luiz Fernandes Volpe (devedor fiduciante) e Caixa Econômica Federal, esta na condição de credora fiduciária do imóvel.
+    3. Registrado o contrato de alienação fiduciária do bem imóvel, o fiduciante é o possuidor direto da coisa e o fiduciário o possuidor indireto (CC § 2º, do art. 1.361).
+    4. Não há como acolher a alegação da agravante no sentido de que o credor fiduciário é o proprietário do imóvel e, nesse sentido, sujeito passivo do tributo questionado.
+    5. Aplicável à espécie o disposto no art. 27, § 8º da Lei n.º 9.514/97, segundo o qual: Responde o fiduciante pelo pagamento dos impostos, taxas, contribuições condominiais e quaisquer outros encargos que recaiam ou venham a recair sobre o imóvel, cuja posse tenha sido transferida para o fiduciário, nos termos deste artigo, até a data em que o fiduciário vier a ser imitido na posse.
+    6. Tal previsão, ao atribuir ao devedor fiduciante a responsabilidade pelo pagamento de tributos que recaiam sobre o imóvel, quando no exercício da posse direta, constitui-se em exceção à regra exposta no art. 123 do CTN, que trata da ‘inoponibilidade de convenções particulares à Fazenda Pública que pretendam modificar a definição legal do sujeito passivo de obrigação tributária’.
+    7. Matéria preliminar rejeitada e agravo de instrumento improvido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 146, III, “a”, Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão ora impugnado, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento  em legislação infraconstitucional (Código Tributário Nacional e Lei nº 9.514/97), o que torna incognoscível o apelo extremo.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, ao manter a decisão monocrática por seus próprios fundamentos, apoiou as suas conclusões em dispositivos de ordem meramente legal:
+    “O Código Tributário Nacional ao dispor sobre o IPTU estabelece que:
+    …...................................................................................................
+    Por seu turno, a alienação fiduciária de coisa imóvel é regulada pela Lei nº 9.514/97 que a define como o ‘negócio jurídico pelo qual o devedor, ou fiduciante, com o escopo de garantia, contrata a transferência ao credor, ou fiduciário, da propriedade resolúvel de coisa imóvel’ (art. 22).
+    E o art. 23, do mesmo Diploma Legal dispõe que:
+    …...................................................................................................
+    Assim, registrado o contrato de alienação fiduciária do bem imóvel, o fiduciante é o possuidor direto da coisa e o fiduciário o possuidor indireto (CC § 2º, do art. 1.361).
+    Dessa forma, não há como acolher a alegação da agravante no sentido de que o credor fiduciário é o proprietário do imóvel e, nesse sentido, sujeito passivo do tributo questionado.
+    …...................................................................................................
+    Por derradeiro, o disposto na LC nº 460/2008, do Município de Jundiaí (Código Tributário Municipal) não se sobrepõe à Lei nº 9.514/97 que é lei especial.”
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável, por tratar-se de aplicação, ao caso concreto, de normas eminentemente infraconstitucionais.
+    Impõe-se observar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria idêntica à veiculada no caso em exame (ARE 1.091.507/SP, Rel. Min. LUIZ FUX – ARE 1.095.319/SP, Rel. Min. ALEXANDRE DE MORAES – ARE 1.095.320/SP, Rel. Min. ROBERTO BARROSO, v.g.):
+    “DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. TRIBUTOS INCIDENTES SOBRE BEM IMÓVEL (IPTU E TAXAS MUNICIPAIS). EXCLUSÃO DA CAIXA ECONÔMICA FEDERAL (CREDORA FIDUCIÁRIA) DO POLO PASSIVO DO FEITO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve anterior condenação em honorários advocatícios.”
+    (ARE 991.704-AgR/SP, Rel. Min. ROSA WEBER)
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 25 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
