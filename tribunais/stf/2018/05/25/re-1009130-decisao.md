@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – TURMA RECURSAL – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. Atentem para o decidido na origem. O Colegiado de origem, reformando em parte o entendimento do Juízo, afastou a incidência do Imposto de Renda Pessoa Física – IRPF sobre a parcela referente ao terço de férias do recorrido, observada a legislação de regência. No recurso extraordinário, o Estardo de Sergipe alega violados os artigos 2º, inciso I, 5º, incisos LIV e LV, 7º, inciso XVII, 37, inciso XV, 153, inciso II, §2º, da Constituição Federal. Aduz cerceamento de defesa, pois não foi intimado tempestivamente para a sessão de julgamento, sob o rito dos juizados especiais, impossibilitando a respectiva sustentação oral. Alega incidir o imposto em questão em razão da natureza remuneratória referente à parcela do terço de férias.
+    2. Atentem para o decidido na origem. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do pronunciamento que rejeitou os declaratórios interpostos pelo recorrente o seguinte trecho:
+    O embargante alega que não foi intimado para a sessão de julgamento, porém, há registro no SCPV intimação eletrônica deu-se no dia 24 e a sessão foi realizada no dia 30 de abril de 2015. Assim, não há falar em nulidade do julgamento.
+    Concluir de modo diverso requer o reexame de matéria fática. As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par deste aspecto, da leitura do ato impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Colegiado de origem julgado a apelação a partir de interpretação de normas estritamente legais, na espécie, seguindo a orientação definida pelo Superior Tribunal de Justiça do recurso especial nº 1.459.779/MA, julgado sob a sistemática dos recursos repetitivos. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce ter sido o extraordinário interposto contra decisão de Turma Recursal. Assim, ainda que a matéria apreciada possua natureza legal, a espécie não está submetida ao âmbito da competência do Superior Tribunal de Justiça, em observância ao disposto no artigo 105, inciso III, da Constituição Federal e do artigo 1.033 do Código de Processo Civil.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 25 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
