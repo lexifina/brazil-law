@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. DESCONTO COMPULSÓRIO DE CONTRIBUIÇÃO PARA PROGRAMA DE SERVIÇOS DE ASSISTÊNCIA SOCIAL MÉDICO-HOSPITALAR E AFINS. ACÓRDÃO RECORRIDO COM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA 126/STJ.
+1. Para chegar à conclusão de que a contribuição é indevida, assim se pronunciou a Corte local: "Do preceito legal, extrai-se que o MUNICÍPIO DE CURITIBA estabeleceu contribuição compulsória sobre a remuneração, para custeio do sistema de saúde dos servidores ativos, inativos, pensionistas e dependentes. Entretanto, a Constituição da República não conferiu competência legiferante aos municípios, para a instituição de qualquer outra contribuição diversa daquelas autorizadas pelos art 149, § 1º (contribuição para o custeio do regime previdenciário), e 149-A (contribuição para custeio do serviço de iluminação pública), ambos da Magna Carta. Logo, o MUNICÍPIO DE CURITIBA é materialmente incompetente para a instituição de contribuição para o custeio da saúde dos seus servidores, pensionistas e respectivos dependentes. Ressalte-se que a expressão "regime previdenciário" não abrange a prestação de serviços médicos, hospitalares, odontológicos e farmacêuticos" (fls. 770-771, e-STJ).
+2. O Tribunal de origem concluiu, com base na Constituição Federal, que os municípios não possuem competência legislativa para instituir contribuição para o custeio da saúde dos seus servidores. In casu, é necessária a comprovação de que houve interposição de Recurso Extraordinário. Súmula 126/STJ.
+3. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná cuja ementa é a seguinte (fls. 764-765, e-STJ):
+Administrativo. Constitucional. Servidora pública municipal. Programa de Serviços de Assistência Social Médico-Hospitalar e Afim. Desconto compulsório de 3,14% sobre os vencimentos. Art. 14, da Lei Municipal n. 9626/1999. Inconstitucionalidade. Incompetência material dos municípios para instituir contribuição diversa das taxativamente autorizadas pelos arts. 149, § 1º, e 149-A, da CF. Responsabilidade subsidiária do Município de Curitiba à repetição dos valores indevidamente descontados. Art. 75, §2º, da Lei Municipal n. 9626/1999. ICS. Personalidade jurídica de direito privado. Irrelevância. Repetição de indébito tributário. Arts. 165 e 168, do CTN, e Súmula 85, do STJ. Prescrição qüinqüenal. Exclusão da servidora e de seus dependentes do sistema de saúde determinada em sentença. Impossibilidade. Entidade gestora do sistema que deve oportunizar à servidora manifestação quanto ao interesse em aderir ao programa, considerando o dever de contribuição mensal, juros de mora e correção monetária. Matérias de ordem pública. Alteração de ofício. Reexame necessário conhecido de ofício. Sentença ilíquida. S. 490, do STJ. Redução da verba honorária.
+Apelações cíveis não providas.
+Juros de mora e correção monetária alterados de ofícios.
+Sentença parcialmente reformada em reexame necessário.
+Os Embargos de Declaração foram rejeitados (fl. 793, e-STJ).
+O recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 884 e seguintes do Código Civil. Aduz, em suma (fl. 804, e-STJ):
+Conforme já dito anteriormente e documentalmente provado nos autos, a Recorrida fez ostensiva utilização dos serviços médico-hospitalares colocados a sua disposição, gerando despesas para o Recorrente, demonstrando sua concordância com o plano de saúde colocado a sua disposição. Frise-se que todo o tratamento gozado pela Recorrida foi custeado pelo ICS, e não com a utilização dos valores destinados a previdência.
+Sendo assim, evidente o enriquecimento sem causa por parte da Recorrida, em estrita inobservância dos artigos 884 e ss do Código Civil.
+Contrarrazões apresentadas às fls. 817-824, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 22.02.2018.
+Observo que o Tribunal de origem, ao decidir a questão, fê-la com apoio em preceitos constitucionais e infraconstitucionais. Nesse sentido, destaco o seguinte trecho do acórdão recorrido (fls. 770-771, e-STJ):
+Do preceito legal, extrai-se que o MUNICÍPIO DE CURITIBA estabeleceu contribuição compulsória sobre a remuneração, para custeio do sistema de saúde dos servidores ativos, inativos, pensionistas e dependentes.
+Entretanto, a Constituição da República não conferiu competência legiferante aos municípios, para a instituição de qualquer outra contribuição diversa daquelas autorizadas pelos art 149, § 1º (contribuição para o custeio do regime previdenciário), e 149-A (contribuição para custeio do serviço de iluminação pública), ambos da Magna Carta.
+Logo, o MUNICÍPIO DE CURITIBA é materialmente incompetente para a instituição de contribuição para o custeio da saúde dos seus servidores, pensionistas e respectivos dependentes. Ressalte-se que a expressão "regime previdenciário" não abrange a prestação de serviços médicos, hospitalares, odontológicos e farmacêuticos.
+In casu, o Tribunal de origem concluiu, com base na Constituição Federal, que os municípios não possuem competência legislativa para instituir contribuição para o custeio da saúde dos seus servidores. Contudo, contra o aresto impugnado foi interposto unicamente o presente Recurso Especial, deixando o ora recorrente de apresentar Recurso Extraordinário ao STF. Permanecem incólumes os fundamentos constitucionais do decisório recorrido, suficientes para mantê-lo. Incide o óbice da Súmula 126/STJ.
+A título elucidativo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. APOSENTADO. CONTRATAÇÃO POR TEMPO DETERMINADO. ACÓRDÃO QUE DECIDE A CONTROVÉRSIA TAMBÉM SOB O ENFOQUE CONSTITUCIONAL. AUSÊNCIA DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. O recurso especial não pode ser conhecido porque o acórdão do Tribunal de origem também se valeu de fundamentação constitucional para assentar que servidor público aposentado pode ser contratado por tempo determinado; e não houve interposição de recurso extraordinário. Incidência da Súmula 126/STJ.
+2.(..)
+3. Agravo regimental não provido.
+(AgRg no REsp 1300117/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 28/06/2013).
+Por tudo isso, não conheço do Recurso Especial.
+É como voto.
