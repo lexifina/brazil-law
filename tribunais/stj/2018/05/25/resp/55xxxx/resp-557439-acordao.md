@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA "PARA FRENTE". ART. 10 DA LC 87/1996, C/C O ART. 150, § 7º, DA CONSTITUIÇÃO FEDERAL. VALOR DA OPERAÇÃO MENOR QUE O PRESUMIDO. COMPENSAÇÃO. POSSIBILIDADE. DESCONFORMIDADE COM ORIENTAÇÃO FIRMADA PELO SUPREMO TRIBUNAL FEDERAL, EM REPERCUSSÃO GERAL, NO RE 593.849/MG. ADEQUAÇÃO. ART. 1.040, II, DO CPC/2015.
+1. A controvérsia veiculada nos autos diz respeito à possibilidade de restituição da diferença do ICMS pago a mais no regime de substituição tributária progressiva se a base de cálculo real da operação for inferior à presumida.
+2. Este Tribunal Superior, com suporte no resultado do julgamento da ADIn 1.851-4/AL, entendia que, à luz do comando contido no § 7º do art. 150 da CF/1988, o contribuinte tem direito à restituição dos valores recolhidos em regime de substituição tributária progressiva apenas quando o fato gerador não se realizar, afastada a possibilidade de compensação de eventuais excessos ou faltas, em face do valor real da operação substituída.
+3. Ocorre que o Supremo Tribunal Federal, por ocasião do julgamento do RE 593.849/MG, em repercussão geral (Tema 201/STF), firmou tese de que "é devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços - ICMS pago a mais no regime de substituição tributária para a frente se a base de cálculo efetiva da operação for inferior à presumida".
+4. Recurso especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Tendo em vista o julgamento do RE 593.849/MG pelo STF, o Vice-Presidente do Superior Tribunal de Justiça, Ministro Humberto Martins, determinou a remessa dos autos ao relator para fins de retratação, conforme o art. 543-B, § 3º, do CPC/1973 (e-STJ, fls. 197/498).
+Trata-se de recurso especial interposto pelo Estado do Rio Grande do Sul, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça local, assim ementado (e-STJ, fl. 273):
+APELAÇÃO CÍVEL. SUBSTITUIÇÃO TRIBUTÁRIA. VENDA DE VEÍCULOS AUTOMOTORES.
+É monótona a jurisprudência desta Corte e do STJ no sentido de que o substituído tributário tem o direito à repetição ou à compensação do ICMS pago a maior, quando a operação ao consumidor se der por preço inferior à base de cálculo.
+Tem-se que, nesse caso, não ocorreu o fato gerador presumido.
+Apelação da autora provida para se julgar totalmente procedente a demanda.
+Improvido o recurso do Estado.
+Sentença modificada, em reexame, no que toca à liquidação.
+O recorrente sustenta violação do art. 10 da Lei Complementar n. 87/1996 e divergência jurisprudencial sob o argumento de que não cabe restituição de ICMS pago a maior em caso de substituição "para frente".
+Admitido o apelo, foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): A controvérsia veiculada nos autos diz respeito à possibilidade de restituição da diferença do ICMS pago a mais no regime de substituição tributária progressiva se a base de cálculo real da operação for inferior à presumida.
+Este Tribunal Superior, com suporte no resultado do julgamento da ADIn 1.851-4/AL, entendia que, à luz do comando contido no § 7º do art. 150 da CF/1988, o contribuinte tem direito à restituição dos valores recolhidos em regime de substituição tributária progressiva apenas quando o fato gerador não se realizar, afastada a possibilidade de compensação de eventuais excessos ou faltas, em face do valor real da operação substituída.
+Ocorre que o Supremo Tribunal Federal, por ocasião do julgamento do RE 593.849/MG, em repercussão geral (Tema 201/STF), firmou tese de que "é devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços - ICMS pago a mais no regime de substituição tributária para a frente se a base de cálculo efetiva da operação for inferior à presumida".
+Eis a ementa do julgado:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA OU PARA FRENTE. CLÁUSULA DE RESTITUIÇÃO DO EXCESSO. BASE DE CÁLCULO PRESUMIDA. BASE DE CÁLCULO REAL. RESTITUIÇÃO DA DIFERENÇA. ART. 150, § 7º, DA CONSTITUIÇÃO DA REPÚBLICA. REVOGAÇÃO PARCIAL DE PRECEDENTE. ADI 1.851.
+1. Fixação de tese jurídica ao Tema 201 da sistemática da repercussão geral: "É devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços - ICMS pago a mais no regime de substituição tributária para frente se a base de cálculo efetiva da operação for inferior à presumida".
+2. A garantia do direito à restituição do excesso não inviabiliza a substituição tributária progressiva, à luz da manutenção das vantagens pragmáticas hauridas do sistema de cobrança de impostos e contribuições.
+3. O princípio da praticidade tributária não prepondera na hipótese de violação de direitos e garantias dos contribuintes, notadamente os princípios da igualdade, capacidade contributiva e vedação ao confisco, bem como a arquitetura de neutralidade fiscal do ICMS.
+4. O modo de raciocinar "tipificante" na seara tributária não deve ser alheio à narrativa extraída da realidade do processo econômico, de maneira a transformar uma ficção jurídica em uma presunção absoluta.
+5. De acordo com o art. 150, § 7º, in fine, da Constituição da República, a cláusula de restituição do excesso e respectivo direito à restituição se aplicam a todos os casos em que o fato gerador presumido não se concretize empiricamente da forma como antecipadamente tributado.
+6. Altera-se parcialmente o precedente firmado na ADI 1.851, de relatoria do Ministro Ilmar Galvão, de modo que os efeitos jurídicos desse novo entendimento orientam apenas os litígios judiciais futuros e os pendentes submetidos à sistemática da repercussão geral.
+7. Declaração incidental de inconstitucionalidade dos artigos 22, § 10, da Lei 6.763/1975, e 21 do Decreto 43.080/2002, ambos do Estado de Minas Gerais, e fixação de interpretação conforme à Constituição em relação aos arts. 22, § 11, do referido diploma legal, e 22 do decreto indigitado.
+8. Recurso extraordinário a que se dá provimento.
+(RE 593.849, Rel. Ministro EDSON FACHIN, TRIBUNAL PLENO, julgado em 19/10/2016, Acórdão eletrônico repercussão geral - mérito DJe-065, divulgado em 30/3/2017, publicado em 31/3/2017, republicação: DJe-068, divulgado em 4/4/2017, publicado em 5/4/2017)
+Diante do julgamento do RE 593.849/MG, a Corte Especial do Superior Tribunal de Justiça, no AgInt no RE no AgInt no RMS 30.103/GO, negou provimento ao agravo interno aplicando tal orientação, como se observa a seguir:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO EM RECURSO EM MANDADO DE SEGURANÇA. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA "PARA FRENTE". ART. 10 DA LC 87/1996, C/C O ART. 150, § 7º, DA CONSTITUIÇÃO FEDERAL. VALOR DA OPERAÇÃO MENOR QUE O PRESUMIDO. RESTITUIÇÃO. POSSIBILIDADE. TEMA 201/STF. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO STF. O Supremo Tribunal Federal, no julgamento do RE 593.849 RG/MS, em repercussão geral (Tema 201/STF), firmou tese de que "é devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços - ICMS pago a mais no regime de substituição tributária para a frente se a base de cálculo efetiva da operação for inferior à presumida".
+Agravo interno improvido.
+(AgInt no RE no AgInt no RMS 30.103/GO, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 21/2/2018, DJe 28/2/2018)
+Ante o exposto, em juízo de retratação do art. 543-B, § 3º, do CPC/1973, nego provimento ao recurso especial, na forma do precedente do STF, firmando que é devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços - ICMS pago a mais no regime de substituição tributária para a frente se a base de cálculo efetiva da operação for inferior à presumida.
+É como voto.
