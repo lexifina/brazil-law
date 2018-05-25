@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – SERVIDOR PÚBLICO – APOSENTADORIA PROPORCIONAL – PROPORCIONALIDADE NO CÁLCULO DE GRATIFICAÇÃO – MATÉRIA INFRACONSTITUCIONAL.
+GRATIFICAÇÃO – PARIDADE – TERMO FINAL – PRECEDENTE DO PLENO – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo quanto à procedência do pedido de recebimento de gratificação, aludindo à inexistência de distinção quanto ao tipo de aposentadoria – integral ou proporcional. No extraordinário, o recorrente alega violados os artigos 5º, inciso LV, 40, § 1º, inciso III, e 93, inciso IX, da Constituição Federal. Argui a nulidade da decisão por negativa de prestação jurisdicional. Aponta a ausência de generalidade da rubrica. Ressalta inexistir afronta ao princípio da isonomia. Tece comentários sobre a limitação temporal. Argumenta com a impossibilidade de o Poder Judiciário conceder aumentos remuneratórios a servidores. Afirma a necessidade do pagamento da gratificação em fração equivalente à proporcionalidade da aposentadoria.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    A eventual proporcionalidade dos proventos de aposentadoria da parte exequente não reflete no pagamento das gratificações em discussão, uma vez que a Constituição Federal e a lei instituidora da vantagem não autorizam distinção alguma entre os servidores aposentados com proventos integrais e proporcionais. Não cabe ao intérprete fazer tal distinção, para reduzir o valor da gratificação legalmente instituído, levando em conta ainda que não se trata de vantagem calculada sobre o vencimento básico do servidor.
+    Eis a decisão proferida nos embargos declaratórios:
+    O Plenário do STF, no julgamento do RE 662.406, firmou tese, dotada de repercussão geral, de que 'o termo inicial do pagamento diferenciado das gratificações de desempenho entre servidores ativos e inativos é o da data da homologação do resultado das avaliações após a conclusão do primeiro ciclo de avaliações, não podendo a administração retroagir os efeitos financeiros à data anterior.' Nesse sentido os seguintes julgados da Suprema Corte:
+    [..]
+    Com base no entendimento acima esposado, conclui-se que o termo final do valor executado deve ser a data de homologação dos resultados do 1º ciclo de avaliação da GDARA. Por conseguinte, em respeito ao disposto no título executivo, tenho que o pagamento da gratificação com base em 100 pontos para os inativos deve se limitar a 30/04/2012.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o Supremo, no recurso extraordinário nº 808.997/RS, da relatoria do ministro Luiz Fux, assentou a inexistência de repercussão geral do tema relativo à forma de cálculo das gratificações dos servidores públicos, beneficiários de aposentadoria proporcional.
+    De resto, o Tribunal, no recurso extraordinário nº 662.406/AL, relatado no Pleno pelo ministro Teori Zavascki, sob a sistemática da repercussão geral, assim decidiu:
+    DIREITO ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICA DE FISCALIZAÇÃO AGROPECUÁRIA - GDATFA. TERMO FINAL DO DIREITO À PARIDADE REMUNERATÓRIA ENTRE SERVIDORES ATIVOS E INATIVOS. DATA DA REALIZAÇÃO DA AVALIAÇÃO DO PRIMEIRO CICLO.
+    1. O termo inicial do pagamento diferenciado das gratificações de desempenho entre servidores ativos e inativos é o da data da homologação do resultado das avaliações, após a conclusão do primeiro ciclo de avaliações, não podendo a Administração retroagir os efeitos financeiros a data anterior.
+    2. É ilegítima, portanto, nesse ponto, a Portaria MAPA 1.031/2010, que retroagiu os efeitos financeiros da Gratificação de Desempenho de Atividade Técnica de Fiscalização Agropecuária - GDAFTA ao início do ciclo avaliativo.
+    3. Recurso extraordinário conhecido e não provido.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 25 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
