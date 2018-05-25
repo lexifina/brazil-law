@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONDENAÇÃO POR FURTO SIMPLES. APELO MINISTERIAL DESPROVIDO. OFENSA AOS ARTS. 155, § 4º, I, DO CP E 167, DO CPP. PLEITO DE RECONHECIMENTO DA QUALIFICADORA POR ROMPIMENTO DE OBSTÁCULO. PROVA TESTEMUNHAL. CRIME QUE DEIXA VESTÍGIO. PERÍCIA. IMPRESCINDIBILIDADE. IMPOSSIBILIDADE DE REALIZAÇÃO DA PERÍCIA OU O DESAPARECIMENTO DOS VESTÍGIOS DO CRIME NÃO COMPROVADA. ACÓRDÃO EM HARMONIA COM ENTENDIMENTO JURISPRUDENCIAL DOMINANTE. PRECEDENTES.
+Agravo conhecido para desprover o recurso especial.
+DECISÃO
+Trata-se de agravo interposto pelo Ministério Público de Minas Gerais contra a decisão que inadmitiu o recurso especial interposto pela alínea a do permissivo constitucional dirigido contra o acórdão do Tribunal de Justiça Mineiro na Apelação Criminal n. 1.0024.16.127994-8/001.
+Consta dos autos que o réu, [NOME], foi denunciado pela suposta prática do delito tipificado no art. 155, § 4º, I, por duas vezes na forma do art. 70 do Código Penal. A denúncia foi julgada parcialmente procedente para condenar o acusado pelo delito de furto simples, à pena de 1 ano e 6 meses de reclusão, em regime semiaberto, e pagamento de 70 dias-multa (fls. 179/182).
+Inconformado, o Ministério Público apelou (fls. 202/208), tendo o Tribunal, por maioria, negado provimento ao recurso (fls. 239/251). O acórdão ficou assim ementado (fl. 239):
+APELAÇÃO CRIMINAL - FURTO - ROMPIMENTO DE OBSTÁCULO - RECONHECIMENTO DA QUALIFICADORA - IMPOSSIBILIDADE - AUSÊNCIA DE LAUDO PERICIAL - PROVA TÉCNICA INDISPENSÁVEL À CONFIGURAÇÃO DO DELITO, SALVO QUANDO DEMONSTRADA A IMPOSSIBILIDADE DE REALIZAÇÃO DA PERÍCIA OU O DESAPARECIMENTOS DOS VESTÍGIOS - PRECEDENTES DO STJ -.
+Tratando-se de infração que deixa vestigios, impõe-se a realização do exame pericial para a comprovação da qualificadora do rompimento de obstáculo no crime de furto, nos termos do art. 158, do Código de Processo Penal, não podendo supri-lo a prova testemunhal ou mesmo a confissão do acusado, salvo quando demonstrada a impossibilidade de realização da perícia ou o desaparecimento dos vestígios. Precedentes do STJ.
+V.V.
+- É dispensável a realização de prova técnica para a caracterização da qualificadora do rompimento de obstáculo, podendo ser suprida pela prova testemunhal segura, segundo o art. 167 do CPP.
+Foram então opostos embargos de declaração (fls. 255/261), os quais foram rejeitados (fls. 263/267).
+Contra referido acórdão foi interposto recurso especial (fls. 271/284), apontando-se violação dos arts. 155, § 4º, I, do Código Penal e 167, do Código de Processo Penal. Alega que o caso em tela amolda-se perfeitamente na exceção prevista no art. 167 do CPP, segundo a qual o exame pericial pode ser suprido pela prova testemunhal, quando, por haverem desaparecidos os vestígios, não for possível o exame de corpo de delito (fl. 278). Afirma, ainda, que a prova oral carreada aos autos é suficiente em demonstrar a ocorrência da referida qualificadora, demonstrando ser a prova pericial desnecessária para demonstrar seu acontecimento (idem). E acrescenta que as declarações do próprio réu, da vítima e dos militares envolvidos na ocorrência, mencionados no acórdão às fls. 188/189 comprovam o rompimento de obstáculo levado a efeito pelo embargado, consistente na retirada do portão do trilho e o arrombamento do carro (vidro quebrado) - fl. 278.
+Apresentadas contrarrazões (fls. 288/297), o recurso especial foi inadmitido pela Corte de origem, por aplicação da Súmula 83/STJ (fl. 298). Contra tal decisão, foi manejado o agravo em análise (fls. 304/311), com contraminuta ofertada às fls. 313/318.
+O Ministério Público Federal opina pelo provimento do agravo e do recurso especial (fls. 328/332).
+É o relatório.
+Segundo a orientação jurisprudencial desta Corte de Justiça, a qualificadora prevista no art. 155, § 4º, I, do Código Penal (destruição ou rompimento de obstáculo) só pode ser aplicada ao crime de furto mediante realização de exame pericial, tendo em vista que, por ser infração que deixa vestígio, é imprescindível a realização de exame de corpo de delito direto, por expressa imposição legal.
+A substituição do laudo pericial por outros meios de prova apenas pode ocorrer se o delito não deixar vestígios, se esses tiverem desparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo, o que não foi demonstrado no presente caso.
+Esse, inclusive, é o entendimento de ambas as Turmas que compõem a Terceira Seção desta Corte de Justiça:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLEITO MINISTERIAL. MANUTENÇÃO DA QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PERÍCIA. IMPRESCINDIBILIDADE.
+I - A jurisprudência deste Tribunal Superior é pacífica no sentido de que o exame de corpo de delito é imprescindível para a caracterização da qualificadora do rompimento de obstáculo, sendo admitido o exame de forma indireta apenas nas hipóteses de não existirem vestígios ou em caso de desaparecimento deles.
+II - Tendo as instâncias ordinárias optado deliberadamente por desconsiderar a imprescindibilidade do exame pericial para caracterização da qualificadora do rompimento de obstáculo no crime de furto, imperioso reconhecer o confronto com a jurisprudência desta Corte.
+Agravo regimental não provido.
+(AgRg no AResp n. 1.134.043/RS, Ministro Félix Fischer, Quinta Turma, DJe 1º/12/2017)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO PELA ESCALADA E PELO ROMPIMENTO DE OBSTÁCULO. EXAME PERICIAL. IMPRESCINDIBILIDADE. AFASTAMENTO DAS QUALIFICADORAS.
+1. Este Tribunal Superior firmou orientação de ser imprescindível, nos termos dos artigos 158 e 167 do CPP, a realização de exame pericial para o reconhecimento das qualificadoras de escalada e arrombamento no caso do delito de furto (art. 155, § 4º, II, do CP), quando os vestígios não tiverem desaparecido e puderem ser constatados pelos peritos. Precedentes.
+2. No caso dos autos, não consta do acórdão recorrido fundamentos aptos a justificar a ausência do exame técnico, razão pela qual as mencionadas qualificadoras devem ser afastadas.
+3. Agravo regimental a que se nega provimento.
+(AgInt no REsp n. 1.602.259/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 1º/12/2017)
+In casu, o acórdão recorrido afastou a incidência da qualificadora do rompimento de obstáculo dada a ausência de exame pericial, assentando que não há nenhuma prova que indique que houve a impossibilidade de realização da perícia ou o desaparecimento dos vestígios do crime (fl. 248).
+Logo, no ponto, incide o teor da Súmula 568/STJ.
+Ante o exposto, com fundamento no art. 253, II, b, do RISTJ e na Súmula 568/STJ, conheço do agravo para desprover o recurso especial.
+Publique-se.
