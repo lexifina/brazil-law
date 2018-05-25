@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo Município de Santa Luzia contra decisão que inadmitiu o recurso especial com base no óbice da Súmula 7/STJ.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo na alínea "a" do permissivo constitucional contra acórdão assim ementado (e-STJ, fls. 176/177):
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. INDENIZAÇÃO. SEQUELA DECORRENTE DE NEGLIGÊNCIA E IMPERÍCIA NA REALIZAÇÃO DE PARTO NORMAL EM HOSPITAL MUNICIPAL. PRELIMINAR DE AUSÊNCIA DE PERÍCIA - REJEITADA. TRAUMATISMO OBSTÉTRICO DO PLEXO BRAQUIAL. PERDA DE MOVIMENTOS EM UM DOS BRAÇOS. RESPONSABILIDADE OBJETIVA DO MUNICÍPIO. DANO MORAL - CONFIGURADO. QUANTUM - MANTIDO. APELO IMPROVIDO.
+I - Na origem, o apelado ajuizou a referida ação em face do Município apelante objetivando a reparação por danos morais e materiais pelas sequelas sofridas no seu braço direito, que lhe teriam retirado os movimentos, ocasionadas, no momento do seu parto, em razão de suposta negligência e imperícia médicas praticadas pelos profissionais do Hospital Municipal de Santa Luzia/MA.
+II - Preliminarmente, visa o apelante a nulidade da sentença a quo, ante a inexistência de perícia médica que comprove o erro médico. Ocorre, todavia, que, na espécie, a perícia não se mostra imprescindível para demonstração dos fatos alegados pela parte autora, sobretudo em decorrência dos laudos e atestados médicos trazidos aos autos pelo apelado. Destaco, ademais, que quando requerida a perícia pelo apelante, a togada singular, em audiência preliminar de fI. 58, ponderou que antes de avaliar a necessidade de sua produção, deveria juntar todo o prontuário da parturiente, inclusive os atos de assistência que sucederam o parto. Contudo, a determinação deixou de ser cumprida pela parte ré, conforme demonstra certidão de fl. 61, o que inviabiliza a materialização de perícia passados mais de 05 anos após o ocorrido, na medida em que não se terá acesso a dados fundamentais como as larguras das costas do apelado e da cavidade vaginal de sua genitora quando da realização do parto. Preliminar rejeitada.
+III - O ente municipal responde objetivamente, nos termos do art. 37, §6º, da Constituição Federal, pelos danos morais decorrentes de lesões consubstanciadas em sequelas de traumatismo obstétrico do plexo braquial, ocasionadas em recém-nascido em virtude da negligência e imperícia dos serviços médicos prestados em Hospital Municipal.
+IV - É razoável, no presente caso, a manutenção da condenação pelos danos morais no patamar de R$ 19.000,00 (dezenove mil reais), o que compensa adequadamente o apelado, ao tempo em que serve de estímulo para que o município apelante evite a reiteração do referido evento danoso;
+V - Apelo improvido.
+O agravante indica como malferidos os arts. 186, 927, 944 do CCB/2002 e 464, 472, 489 e 1.022 do CPC/2015.
+Decido.
+Não ocorre contrariedade ao art. 1.022 do CPC, quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame, assim como não há que se confundir entre decisão contrária aos interesses da parte e inexistência de prestação jurisdicional.
+Ademais, a própria parte registra respostas aos questionamentos postos, ainda que não suficientes para lhe dar a vitória na causa.
+No mais, o conhecimento do recurso especial esbarra na Súmula 7/STJ, seja para aferir eventual cerceamento de defesa, seja para aferir a razoabilidade da indenização determinada na origem.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
