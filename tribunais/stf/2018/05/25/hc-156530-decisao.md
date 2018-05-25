@@ -1,0 +1,40 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Paulo Jacob Sassya El Amm e outro, em favor de Wellington Rocha Mendes, contra decisão do Ministro Jorge Mussi, do Superior Tribunal de Justiça, que, nos autos do HC 437.253/SP.
+    Consta nos autos (do relatório do processo no STJ) que o paciente foi denunciado pela prática do delito tipificado no artigo 33, caput, da Lei 11.343/2006 porque trazia consigo 58,9 gramas de maconha, 0,6 gramas de cocaína e 11,1 gramas de crack (eDOC 2, p. 1).
+    Sentença, aplicando o redutor da Lei de Drogas, condenou o paciente à pena de 1 ano e 8 meses de reclusão, em regime inicial aberto, mais 166 dias-multa, (eDOC 2, p. 1).
+    Irresignada, a acusação interpôs apelação ao Tribunal de Justiça do Estado de São Paulo, que deu provimento ao recurso para afastar a minorante do artigo 33, §4º, da Lei 11.343/06.
+    Assim, a pena foi redimensionada para 5 anos de reclusão, em regime fechado. Ficou afastada a substituição da pena privativa de liberdade por restritiva de direitos e mantidos os demais termos da sentença (eDOC 2, p. 1).
+     Daí a impetração de habeas corpus no Superior Tribunal de Justiça. Na oportunidade requereu-se a aplicação máxima do redutor previsto no artigo 33, §4º, da Lei 11.343/06 e a substituição de pena privativa de liberdade por restritiva de direitos.
+    O Ministro Relator do STJ concedeu a ordem para redimensionar a pena, aplicando do referido redutor em ½ , restando a pena em 2 anos e 6 meses de reclusão, em regime inicial semiaberto, mais 250 dias-multa. (eDOC 2, p. 11).
+    Nesta Corte, o impetrante sustenta que o paciente é primário, possui bons antecedentes e não pertence a organização criminosa, fato que obriga a aplicação da minorante no patamar máximo, qual seja, 2/3. Afirma que a quantidade de drogas não pode ser utilizada para restringir o direito do paciente.
+    Informa que, em caso de diminuição da pena, há necessidade de substituição a reprimenda privativa de liberdade para restritiva de direitos.
+    Requer, liminarmente e no mérito, a aplicação da minorante do artigo 33, §4º no grau máximo (2/3), a alteração do regime inicial de cumprimento de pena do semiaberto para o aberto e a substituição da pena para restritiva de direitos.
+    É o relatório.
+    Decido.
+    As razões não merecem acolhimento.
+    Na espécie, o Superior Tribunal de Justiça, ao conceder a ordem, realizou nova dosimetria a fim de fixar o regime semiaberto para o início do cumprimento da pena.
+    Atestou que, nos termos do artigo 42, da Lei de Drogas, a quantidade e variedade de drogas apreendidas (58,9 gramas de maconha, 0,6 gramas de cocaína e 11,1 gramas de crack), o potencial altamente lesivo da cocaína e do crack, podem ser utilizados como parâmetro para escolha da fração da redutora em ½ e não em 2/3.
+    Para tanto, consignou:
+    “O art. 33, § 4º da Lei nº 11.343/2006 dispõe que, para o crime de tráfico de entorpecentes e suas figuras equiparadas, as penas poderão ser reduzidas de um sexto a dois terços, desde que: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades criminosas; e d) não integre organização criminosa.
+    O objetivo deste benefício foi o de conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida. A lei, porém, não determinou quais os parâmetros deveriam ser adotados para modular a redução da pena, limitando-se a estabelecer as frações mínimas e máximas de diminuição.
+    Assim, diante da ausência de balizas legais para se determinar o quantum de redução a ser aplicado, os Tribunais Superiores têm adotado entendimento no sentido de considerar a quantidade, a natureza da droga apreendida, além das circunstâncias de cada delito, como moduladores da fração redutora. Nesse sentido, cito: HC 401.121/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1/8/2017 e AgRg no REsp 1.390.118/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/5/2017, Dje 30/5/2017.
+     No caso dos autos, o Tribunal de origem entendeu indevida a redução pleiteada, em razão da quantidade, diversidade e natureza da droga apreendida.
+    No entanto, considerando que o paciente é primário, com bons antecedentes, sem elementos concretos nos autos de que se dedique à atividade criminosa, tampouco de que integre organização criminosa, é de rigor a aplicação do art. 33, § 4°, da Lei n. 11.343/2006, na fração acima do mínimo.
+    Entretanto, em consonância com o art. 42 da Lei de Tóxicos, a quantidade e variedade de drogas apreendidas - 58,9 g (cinquenta e oito gramas e nove decigramas) de maconha, 0,6 g (seis decigramas) de cocaína e 11,1 g (onze gramas e um decigramas) de crack - podem ser utilizadas como parâmetro para a escolha da fração de redução, razão pela qual, aplica-se a diminuição na razão de 1/2 (metade), sobretudo em virtude do potencial altamente lesivo à saúde pública de duas das substâncias entorpecentes descritas - crack e cocaína - , maior do que a de outras drogas.
+    (…)
+    Dessarte, necessária a realização de ajustes na dosimetria da reprimenda, de modo a fazer incidir, na terceira fase do cálculo, a causa especial de diminuição da pena no patamar de 1/2 (metade). Assim, observados os demais parâmetros estabelecidos na origem, fixa-se a sanção definitiva em 2 (dois) anos e 6 (seis) meses de reclusão, e pagamento de 250 (duzentos e cinquenta) dias-multa.
+    (…)
+    Em relação à substituição de penas, assentou o STJ:
+    “No que tange à substituição da sanção privativa de liberdade por restritivas de direitos, deve o julgador observar o disposto no art. 44 do Código Penal e os parâmetros do art. 42 da Lei n.º 11.343/2006.
+    No caso, a quantidade, diversidade e natureza de entorpecentes apreendidos permitem e impõem, nos termos da jurisprudência deste Tribunal, o afastamento da benesse, na medida em que a referida circunstância deve respaldar a análise da necessidade e suficiência da substituição da pena reclusiva por restritivas de direitos, diante da maior gravidade concreta da conduta.
+    (…)
+    Ante o exposto, por se afigurar manifestamente incabível, com fundamento no artigo 34, inciso XX, do RISTJ, não se conhece do writ, contudo se concede, de ofício, a ordem para redimensionar a reprimenda imposta ao paciente para 2 (dois) anos e 6 (seis) meses de reclusão, além de 250 (duzentos e cinquenta) dias-multa, bem como fixar o regime inicial semiaberto para o cumprimento da pena” (eDOC 7, p. 7).
+    Desse modo, verifico que a decisão impugnada, ao fixar aplicar o redutor no patamar de ½, ao fixar o regime semiaberto para início do cumprimento da reprimenda e ao negar a concessão dos benefícios de substituição da pena, baseou-se na natureza, na quantidade e variedade da droga, de modo que tenho por plenamente justificada a imposição do regime mais severo.
+    Ressalto que a jurisprudência desta Suprema Corte entende que a dosimetria da pena submete-se a certa discricionariedade judicial. Cabem às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Aos Tribunais Superiores, no exame da dosimetria das penas em grau recursal, compete somente o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção apenas de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional.
+    Sobre o tema, confiram-se os seguintes julgados: ARE-AgR 880.499/MG, de minha relatoria, Segunda Turma, DJe 19.8.2016 e RHC 136.511/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 13.10.2016.
+    Desse modo, verifico que a decisão impugnada está em consonância com a jurisprudência desta Corte e atende ao princípio da individualização da pena. O presente writ decorre de mero inconformismo da parte, que não aceita seus fundamentos.
+    Ante o exposto, com base no artigo 192, caput, do RISTF, denego a ordem.
+    Publique-se.
+    Brasília, 25 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
