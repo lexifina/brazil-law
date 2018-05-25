@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto pela Fazenda Nacional contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência das Súmulas 284/STF, 282/STF e de ser firme o posicionamento do STJ quanto à possibilidade de cumulação do parcelamento previsto na Lei 10.684/2003 com outras modalidades de parcelamento.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 519):
+TRIBUTÁRIO. CUMULAÇÃO DE PARCELAMENTOS. PAES (LEI 10.684/2003) E REFIS IV (LEI 11.941/2009). POSSIBILIDADE.
+1. É possível cumular o parcelamento previsto na Lei 10.684/03 (PAES) com outra modalidade de parcelamento. O contribuinte não está obrigado a parcelar todos os seus débitos nem a Receita Federal pode inseri-los de ofício. O benefício depende de opção do devedor.
+2. Não pode um erro formal ser motivo para denegação de parcelamento, considerando o interesse comum do Estado e do devedor.
+3. Apelação da autora provida
+Embargos de declaração com provimento negado.
+No recurso especial, a recorrente alega violação dos arts. 458 e 535 do CPC/1973, ao argumento de que a Corte local não se manifestou pormenorizadamente sobre os pontos lançados pela Fazenda Nacional.
+Quanto à questão de fundo, sustenta ofensa aos arts. 111, 153, inc. I e 155-A do CTN, sob os seguintes argumentos: a) a recorrida, ao tempo da publicação da Lei 10.684/2003, possuía débitos tributários e os incluiu no parcelamento nela previsto, o PAES, que foi aceito, admitido e, desde então, vinha sendo, no possível, cumprido; b) posteriormente, veio novo parcelamento, o da Lei 11.941/2009, que foi cognominado de REFIS IV, com outras condições de parcelamento e outras espécies de descontos, pelo que a recorrida acreditou que seria melhor sair do PAES e ingressar no REFIS IV, o que não é possível; c) alterar as condições iniciais do parcelamento - no caso, permitir à recorrida a adesão ao novo REFIS IV já tendo ingressado no PAES - seria o mesmo que dar possibilidade a uma contínua e interminável pré-liquidação; d) no ver da Fazenda, não existe direito à migração em parcelamentos fiscais, sob pena de crassa afronta aos arts. 111, 153, I e 155-A do Código Tributário, seja porque isto causaria o não pagamento da dívida, seja porque provocaria ininterrupta pré-liquidação de valores.
+Com contrarrazões.
+Neste agravo, afirma que a matéria foi prequestionada e que o ponto central da controvérsia não se refere à possibilidade ou não de cumulação de parcelamentos, mas à não observância dos requisitos previstos na legislação específica.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Em face do provimento do recurso especial da COMPAR - Companhia Paraense de Refrigerantes, através do qual se anulou o acórdão proferido pela Corte de origem em sede de embargos de declaração, declaro prejudicado o presente recurso.
+Publique-se. Intimem-se.
