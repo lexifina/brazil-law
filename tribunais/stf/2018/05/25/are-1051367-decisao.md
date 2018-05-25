@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, IV, V e X, e 220 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo o inteiro teor da ementa do acórdão (fl.1075) objeto da insurgência manifestada no apelo extremo:
+    “RESPONSABILIDADE CIVIL. Ofensa a honrado autor causada por textos ofensivos contidos em sites e e-mail. Cerceamento de defesa Inocorrência. Dano moral Afastamento Necessidade de harmonização entre a garantia à inviolabilidade da honra e do direito de livre manifestação do pensamento e da informação Aplicação dos art. 5º, IV, IX, X, XIV e 220, § 1º, da CF Interesse público que deve prevalecer sobre o particular. Denúncias que deram início a procedimentos judiciais visando à apuração da veracidade dos fatos. Prejuízo moral afastado Sentença de improcedência mantida Recurso desprovido.”
+    Não prospera o recurso pelo prisma dos arts. 5º, IV, V e X, e 220 da Constituição da República. Ao julgamento do ARE 739382 RG, Rel. Min. Gilmar Mendes, DJe 03.05.2013, esta Suprema Corte decidiu pela inexistência de repercussão geral da matéria relacionada à responsabilidade civil por danos morais em razão de ofensa à imagem. O acórdão está assim ementado:
+    “Recurso Extraordinário com agravo. 2. Dano moral. 3. Liberdade de expressão. 4.Crítica contundente. 5. Discussão não ultrapassa o interesse subjetivo das partes. 6. Não compete ao Supremo Tribunal Federal revolver a matéria fática para verificar a ocorrência de dano à imagem ou à honra, a não ser em situações excepcionais, nas quais se verifique esvaziamento do direito a imagem e, portanto, ofensa constitucional direta. 7. Ausência de repercussão geral da questão suscitada. 8. Recurso extraordinário não conhecido.” (ARE 739382 RG, Relator(a): Min. GILMAR MENDES, julgado em 23/05/2013, ACÓRDÃO ELETRÔNICO DJe-103 DIVULG 31-05-2013 PUBLIC 03-06-2013 )
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Quanto à interposição do apelo extremo pelo permissivo da alínea “c” do art. 102, III, da CF/88, também não se mostra cabível o recurso, deixando o Tribunal de origem de julgar válida lei ou ato de governo local contestado em face da Constituição Federal. Colho como precedentes o RE 633.421-AgR/MS, 1ª Turma, Rel. Min. Cármen Lúcia, unânime, DJe 12.4.2011; e o RE 597.003-AgR/RJ, 2ª Turma, Rel. Min. Eros Grau, unânime, DJe 29.5.2009.
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de maio de 2018.
+Ministra Rosa Weber
+Relatora
