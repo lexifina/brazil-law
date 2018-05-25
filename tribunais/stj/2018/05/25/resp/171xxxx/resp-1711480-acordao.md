@@ -1,0 +1,56 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. NÃO VINCULAÇÃO DO JUIZ A LAUDO PERICIAL. LIVRE CONVENCIMENTO.
+1. O Tribunal a quo consignou que "não há como afastar a reduzida capacidade de trabalho de [NOME], em razão da amputação da falange distal do 2º dedo da mão direita, pois - apesar de ter permitido a continuidade do desenvolvimento da atividade anteriormente praticada -, prejudicada, ainda que de forma ínfima ou mínima, o exercício laboral em sua plenitude, o que denota a presença dos requisitos necessários à concessão do referido benefício" (fl. 160, e-STJ).
+2. Para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões nele colacionadas, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+3. Cabe ressaltar que, quanto à vinculação do Magistrado à conclusão da perícia técnica, o STJ possui jurisprudência firme e consolidada, consoante a qual, com base no livre convencimento motivado, pode o juiz ir contra o laudo pericial se houver nos autos outras provas em sentido contrário que deem sustentação à sua decisão.
+4. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Mauro Campbell Marques."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina cuja ementa é a seguinte:
+APELAÇÕES RECIPROCAMENTE INTERPOSTAS. AÇÃO PREVIDENCIÁRIA. CONCESSÃO DO BENEFÍCIO AUXÍLIO-ACIDENTE. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DO AUTOR. PRETENDIDO RECONHECIMENTO DA PERCEPÇÃO DE BENEFÍCIO ACIDENTÁRIO. SUBSISTÊNCIA. AMPUTAÇÃO DA FALANGE DISTAL DO 2º DEDO DA MÃO DIREITA. INFORTÚNIO DECORRENTE DO EXERCÍCIO DA FUNÇÃO DE OPERADOR DE MÁQUINAS. CAT -COMUNICAÇÃO DE ACIDENTE DE TRABALHO QUE EVIDENCIA TAL OCORRÊNCIA. NEXO ETIOLÓGICO DEMONSTRADO. LAUDO PERICIAL QUE ATESTA A AUSÊNCIA DE REDUÇÃO DA CAPACIDADE LABORAL. JULGADOR QUE NÃO FICA ADSTRITO À PROVA PERICIAL. ART. 436 DO CPC. REGULAR EXERCÍCIO DA ALUDIDA PROFISSÃO QUE REQUER A UTILIZAÇÃO DE FORMA PLENA DE TODOS OS MEMBROS. CONFIGURADA DIMINUIÇÃO DA CAPACIDADE LABORATIVA, AINDA QUE DE FORMA MÍNIMA. ENTENDIMENTO DO STJ. IMPOSITIVA CONCESSÃO DO BENEFÍCIO. PAGAMENTO QUE TEM COMO MARCO INICIAL O DIA SUBSEQUENTE AO TÉRMINO DO AUXÍLIO - DOENÇA ACIDENTÁRIO. PRESCRIÇÃO QUE ATINGE AS PARCELAS PRETÉRITAS AO QUINQUÍDIO ANTERIOR À PROPOSITURA DA DEMANDA. (..)
+Os Embargos de Declaração foram rejeitados (fl. 187).
+A recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 333, I, 436 e 535, II, do CPC/1973; 86 da Lei 8.213/1991, sob o argumento de que, "como a deformidade decorrente do acidente, in casu, não impede ou sequer torna mais custoso o desempenho das atividades profissionais habituais da parte autora, não preenche ela os requisitos para a concessão do beneficio de auxílio acidente, que exige efetiva redução da capacidade para o trabalho, ainda que mínima, a qual não se verifica no caso concreto, eis que apenas perdas anatômicas permanecem sem qualquer afetação no desempenho de suas atividades" (fls. 202-203, e-STJ).
+Contrarrazões apresentada às fls. -.
+É o relatório.
+
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 4.12.2017.
+Trata-se de Recurso Especial em face de Acórdão do Tribunal de origem que reconheceu o direito ao auxílio-acidente.
+Sobre a alegada violação ao art. 86 da Lei 8.213/1991, por ter o ácórdão recorrido concedido o auxílio-acidente contrariando o laudo pericial judicial, assim se pronunciou o Tribunal a quo (fl. 160-162, e-STJ):
+Com efeito, embora o Laudo Pericial tenha sido contrário à concessão de benefício acidentário, destaco que, com base no preceito preconizado no art. 436 do Código de Processo Civil, o julgador não fica adstrito ao referido elemento probatório, podendo formar sua convicção com base em outros dados ou fatos provados nos autos.
+Ou seja, tendo em vista que o segurado é destro e a moléstia a qual restou acometido ocorreu em sua mão direita, constato que será necessário o emprego de maior esforço na realização de sua ocupação profissional, sendo, ademais, incontestável que o exercício da função de operador de máquinas requer a utilização integral das mãos em sua plenitude, sobretudo, diante do ofício requisitar a atenção e utilização de todos os sentidos do trabalhador no desempenho da atividade, eis que:
+ ..  "a perda anatômica já é fator considerável para a concessão de auxílio - acidente, uma vez que, certamente, o segurado necessitará despender um maior esforço no desempenho de suas funções habituais", ou seja, o segurado "ao trabalhar desenvolvendo atividades manuais de todo o tipo, terá maiores dificuldades e até mesmo riscos no trabalho com a perda parcial de um dos dedos. A dificuldade de apreensão de objetos, bem como uma menor sensibilidade do membro, é mais que evidente" (TJSC, Apelação Cível n. 2014.030864-8, de Criciúma, rel. Des. Ricardo Roesler, j. 11/12/2014)
+Logo, não há como afastar a reduzida capacidade de trabalho de [NOME], em razão da amputação da falange distal do 2º dedo da mão direita, pois - apesar de ter permitido a continuidade do desenvolvimento da atividade anteriormente praticada -, prejudicada, ainda que de forma ínfima ou mínima, o exercício laboral em sua plenitude, o que denota a presença dos requisitos necessários à concessão do referido benefício.
+De mencionar o caráter prescindível da aferição do grau de incapacidade do segurado, diante do entendimento consolidado "de que, para a concessão de auxílio-acidente, é necessário que a sequela acarrete a diminuição da capacidade laborativa do segurado ainda que em grau mínimo" (AgRg no AREsp 309.593/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 20/06/2013, DJe 26/06/2013 - grifei).
+Dessa forma, a concessão do auxílio-acidente, no percentual de 50% (cinquenta por cento) do salário-benefício, é medida que se impõe, devendo ser efetuado o pagamento de tal benefício a partir do dia seguinte ao da cessação do adimplemento do auxílio-doença, mais precisamente em 21/05/2013 (fl. 39), visto que:
+(..)
+Assim, é evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões nele colacionadas, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-ACIDENTE. REDUÇÃO DA CAPACIDADE LABORATIVA. INEXISTÊNCIA. REVISÃO. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal a quo entendeu que não ficou comprovada a redução da capacidade laborativa, razão pela qual indevida a concessão do auxílio-acidente pretendido. Entender de modo diverso exige o reexame de matéria fático-probatória, o que é vedado pela Súmula 7 do STJ. Precedentes
+2. Agravo interno não provido.
+(AgInt no AREsp 943.434/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 19/12/2016).
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-ACIDENTE. ACÓRDÃO FUNDAMENTADO EM PERÍCIA MÉDICA REALIZADA EM JUÍZO E QUE CONCLUIU PELA INEXISTÊNCIA DE REDUÇÃO DA CAPACIDADE PARA O TRABALHO HABITUALMENTE EXERCIDO PELO SEGURADO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão publicada em 14/06/2016, que, por sua vez, decidira recurso interposto contra decisão publicada na vigência do CPC/73.
+II. O Tribunal de origem concluiu, à luz das provas dos autos, que, "diante da manifesta ausência de sequela incapacitante conforme se extrai do bojo da avaliação médica, outro não poderia ser o desfecho da demanda senão o decreto de improcedência, mostrando-se correta a solução dada à causa em Primeiro Grau".
+III. Considerando a fundamentação adotada, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+IV. Agravo interno improvido.
+(AgInt no AREsp 877.256/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 29/11/2016).
+Além disso, cabe ressaltar que, quanto à vinculação do Magistrado à conclusão da perícia técnica, o STJ possui jurisprudência firme e consolidada consoante qual, com base no livre convencimento motivado, pode o juiz ir contra o laudo pericial se houver nos autos outras provas em sentido contrário que deem sustentação à sua decisão.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PROVA PERICIAL. ART. 436 DO CPC. LAUDO PERICIAL. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. A instância de origem decidiu a controvérsia com fundamento no suporte fático-probatório dos autos. Desse modo, verifica-se que a análise da controvérsia demanda o reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ.
+2. Quanto à vinculação do magistrado à conclusão da perícia técnica, é assente no STJ que, com base no livre convencimento motivado, pode o juiz ir contra o laudo pericial, se houver nos autos outras provas em sentido contrário que deem sustentação à sua decisão.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 784.770/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 31/5/2016, grifei).
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PROVA PERICIAL. CRITÉRIOS ESTABELECIDOS PELO JUÍZO. PRECLUSÃO. INOCORRÊNCIA. ALEGAÇÃO DE OFENSA À COISA JULGADA ANTES DA ELABORAÇÃO DO LAUDO. DESCABIMENTO.
+1. "O juiz não está adstrito ao laudo pericial, podendo formar a sua convicção com outros elementos ou fatos provados nos autos" (art. 436 do CPC/1973).
+2. Ausência de caráter preclusivo da decisão que encaminha os autos ao perito e estabelece os critérios para a realização da prova pericial, pois o laudo não vincula o juízo, conforme jurisprudência pacífica desta Corte Superior, quanto a esse ponto.
+3. Possibilidade de a parte discordante solicitar esclarecimentos ao perito após a elaboração do laudo (cf. art. 477 do CPC/2015), bem como de interpor recurso contra a decisão do juízo que vier a encampar as conclusões do "expert".
+4. Prematuridade da alegação de ofensa à coisa julgada antes da elaboração do laudo pericial.
+5. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1.557.353/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 22/11/2016, grifei).
+Diante do exposto, não conheço do Recurso Especial.
+É como voto.
