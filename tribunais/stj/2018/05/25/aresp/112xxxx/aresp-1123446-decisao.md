@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INDEFERIMENTO. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. ALEGADA OFENSA AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME], em face da decisão que negou seguimento a recurso especial, aviado pela alínea "a" do inciso III do art. 105 da Constituição Federal, ao fundamento de ausência de violação ao art. 535 do CPC/1973 (art. 1.022 do CPC/2015) (e-STJ fls. 375-376).
+Em suas razões, infirmou especificamente as razões da decisão agravada (e-STJ fls. 378-385).
+No recurso especial, alega a parte recorrente violação ao art. 1.022, inciso II, do Código de Processo Civil de 2015 (art. 535, II, do CPC/1973), sustentando, em síntese, que o Tribunal a quo não apreciou e não teceu nenhum comentário sobre a prova documental (contrato fls. 188/195) referente à cessão praticada pelo executado à empresa de seus filhos, correspondente a 20 (vinte) casas que iria receber após construir um condomínio para a empresa SERTEK. Aduz, pois, que o referido contrato configura prova cabal de que houve o esvaziamento patrimonial dos recorridos-executados.
+Não foram apresentadas contrarrazões (e-STJ fl. 374).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015, conforme Enunciado Administrativo Nº 3/STJ.
+Ato contínuo, percebe-se que a irresignação não merece acolhida.
+O recorrente, em sede de recurso especial, alega ofensa ao art. 1.022, inciso II, do Código de Processo Civil de 2015 (art. 535, II, do CPC/1973), sustentando, em síntese, que o Tribunal a quo não apreciou e não teceu nenhum comentário sobre a prova documental (contrato fls. 188/195) referente à cessão praticada pelo executado à empresa de seus filhos, correspondente a 20 (vinte) casas que iria receber após construir um condomínio para a empresa SERTEK. Aduz, pois, que o referido contrato configura prova cabal de que houve o esvaziamento patrimonial dos recorridos-executados.
+O acórdão recorrido, por sua vez, assim assentou (e-STJ fl. 340):
+A aplicação da teoria da desconsideração da personalidade, por ser medida excepcional, depende de prova concreta de que a finalidade da pessoa jurídica foi desviada, comprovando-se situações fáticas revestidas de má-fé, ação fraudulenta ou abuso de direito.
+No caso, nada obstante a notícia de que a "família Gonçalves" ter participação em várias empresas, e de que há dissipação de patrimônio por parte da agravada, esta intenção não foi caracterizada. (..)
+Os negócios elencados como tendo o intuito fraudador não estão demonstrados.
+Não há demonstração de transferências de capital da empresa ré ou de patrimônio para outras empresas, nem dos alegados empréstimos forjados. Não foram, mesmo, juntadas as declarações de imposto de renda onde a agravante alega conter empréstimos às empresas de familiares.
+Não restou demonstrado que a atividade da pessoa jurídica foi exercida com o intuito de frustrar o adimplemento de obrigações perante os credores, nos termos do art. 28, do CDC.
+Por outro lado, a desconsideração da personalidade jurídica deve ser usada com cautela e diante da existência de robusta prova. Nesse sentido: (..)
+Convém colacionar, ainda, o seguinte trecho do v. acórdão proferido em sede de embargos de declaração (e-STJ fls. 357-360):
+O acórdão analisou sua argumentação e entendeu que não presentes os elementos que autorizem tal medida que, conforme anotado, somente se autoriza em casos excepcionais. (..)
+O acórdão analisou a questão trazida pelo agravante, mas entendeu que não eram suficientes as provas trazidas pelo autor para que se aplicasse a desconsideração da personalidade jurídica pleiteada.Confira-se: (..)
+Assim, o fato de ter rejeitado a tese do agravante não é suficiente para o acolhimento dos embargos declaratórios.
+Com efeito, quanto à alegada violação ao art. 1.022, inciso II, do Código de Processo Civil de 2015, vislumbra-se a não ocorrência de nulidade por omissão, obscuridade, contradição, ou erro material, tampouco de negativa de prestação jurisdicional, no acórdão que conclui, de maneira integral e com fundamentação suficiente e clara, que, (a) "nada obstante a notícia de que a "família Gonçalves" ter participação em várias empresas, e de que há dissipação de patrimônio por parte da agravada, esta intenção não foi caracterizada"; que (b) "os negócios elencados como tendo o intuito fraudador não estão demonstrados"; que (c) "não há demonstração de transferências de capital da empresa ré ou de patrimônio para outras empresas, nem dos alegados empréstimos forjados"; que (d) "não restou demonstrado que a atividade da pessoa jurídica foi exercida com o intuito de frustrar o adimplemento de obrigações perante os credores"; e que (e) "o acórdão analisou a questão trazida pelo agravante, mas entendeu que não eram suficientes as provas trazidas pelo autor para que se aplicasse a desconsideração da personalidade jurídica pleiteada".
+O juízo não está obrigado, ainda, a se manifestar a respeito de todas as alegações e dispositivos legais suscitados pelas partes.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. VIOLAÇÃO DO ART. 535 DO CPC/73. OMISSÃO QUE NÃO SE VERIFICA. PEDIDO ADMINISTRATIVO. INTERESSE DE AGIR RECONHECIDO PELO TRIBUNAL DE ORIGEM. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexiste ofensa ao art. 1022, II, do NCPC (art. 535 do CPC/73) quando o Tribunal a quo se manifestou clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, sendo desnecessário rebater, uma a uma, as razões suscitadas pelas partes.
+2. (..).
+3. No caso dos autos, a convicção a que chegou o acórdão recorrido quanto ao interesse de agir da parte autora decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, o que encontra óbice no enunciado nº 7 da Súmula do STJ.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação à aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com aplicação de multa. (AgInt no REsp 1624810/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/05/2017, DJe 01/06/2017) - g.n.
+Destarte, melhor sorte não socorre ao recorrente.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015.
+Contudo, percebe-se que o recurso especial apresentado nesta Corte Superior foi interposto nos autos de agravo de instrumento, contra decisão interlocutória na qual não houve prévia fixação de honorários, não sendo cabível, portanto, tal majoração.
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Intimem-se.
