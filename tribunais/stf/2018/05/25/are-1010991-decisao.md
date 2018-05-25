@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Medida cautelar – exibição de extratos de caderneta de poupança – obrigatoriedade de exibição dos documentos – medida cautelar julgada procedente – sentença mantida – recurso improvido”. (eDOC 2, p. 52)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação aos artigos 5º, II, e 37, § 6º, do texto constitucional. (eDOC 2, p. 93)
+    Alega-se, em síntese, que limitou-se a cumprir a legislação vigente, não podendo ser obrigado a pagar a diferença da correção monetária pleiteada.
+    A Presidência desta Corte determinou a devolução dos autos ao Tribunal de origem por ter sido reconhecida a repercussão geral das questões trazidas neste processo, Recurso Extraordinário n. 626.307, Tema 264. (eDOC 6) Em 21.3.2018, os autos retornaram ao STF sob alegação de não similitude ao caso inserido na sistemática da repercussão geral.
+    Em 3.05.2018, a Ministra Presidente tornou sem efeito a devolução dos autos à origem e determinou à Secretaria Judiciária a distribuição deste processo.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Na espécie, verifica-se que o acórdão proferido pelo Tribunal de origem decidiu que a exibição de extratos relativos à caderneta de poupança é obrigatória, nos estreitos limites do pedido inicial.
+    Porém, a petição de recurso extraordinário apenas trata da cobrança das diferenças de correção monetária dos saldos de caderneta de poupança decorrentes do Plano Verão.
+    Vislumbra-se, portanto, a deficiência da fundamentação do recurso extraordinário, tendo em vista que suas razões estão dissociadas da matéria versada no acórdão impugnado. Desse modo, incide no caso a Súmula 284 do Supremo Tribunal Federal.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    ''AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REVISÃO DE ATO ADMINISTRATIVO. DECADÊNCIA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO." (RE 656256 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 5.3.2012)
+    "AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284 DO STF. CRITÉRIOS. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. ALEGADA CONTRARIEDADE AO ART. 5º, XXXV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. VIOLAÇÃO AO ART. 93, IX, DA CF. INOCORRÊNCIA. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I As razões do agravo regimental não atacaram, de forma convincente, os fundamentos da decisão agravada. Incide, na espécie, o óbice previsto na Súmula 284 do STF. II A análise dos critérios de reajuste dos benefícios previdenciários se restringe ao âmbito infraconstitucional. A afronta à Constituição, se ocorrente, seria apenas indireta. Precedentes. III A orientação desta Corte, por meio da remansosa jurisprudência, é a de que, em regra, a alegada violação ao art. 5º, XXXV e LV, da Constituição, quando dependente de exame de legislação infraconstitucional, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes. IV Não há contrariedade ao art. 93, IX, da Lei Maior, quando o acórdão recorrido encontra-se suficientemente fundamentado. Precedentes. V Agravo regimental improvido." (ARE 704042 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 6.12.2012)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 25 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
