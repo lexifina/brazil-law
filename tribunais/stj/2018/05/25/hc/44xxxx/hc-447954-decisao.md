@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo em Execução n. 7011781-51.2017.8.26.0050.
+Infere-se dos autos que o Juízo das Execuções converteu a pena restritiva de direitos imposta ao sentenciado em pena privativa de liberdade e determinou a expedição de mandado de prisão com prazo de validade de 4 anos contados do trânsito em julgado da sentença condenatória para as partes.
+Irresignada, a defesa interpôs agravo em execução perante o Tribunal de origem, o qual negou provimento ao recurso, em acórdão assim ementado:
+AGRAVO EM EXECUÇÃO QUESTÃO RELATIVA À REGULARIDADE DO PRAZO DE VALIDADE DE MANDADO DE PRISÃO INCONFORMISMO QUANTO AO TERMO INICIAL DE VALIDADE DO MANDADO DE PRISÃO NÃO HOUVE, CONCRETAMENTE, ANÁLISE DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA EM PRIMEIRO GRAU DE JURISDIÇÃO INVIÁVEL PRÉVIA DISCUSSÃO RECURSO IMPROVIDO (fl. 10).
+Daí o presente writ, no qual a defesa alega que a prescrição da pretensão executória começa a correr do dia em que transita em julgado a sentença condenatória para a acusação, qual seja, 15/8/2011. Sustenta que o prazo de validade do mandado de prisão deve ser contado a partir dessa data.
+Requer, assim, que seja reconhecido como termo inicial da validade do mandado de prisão a data do trânsito em julgado da sentença condenatória para a acusação e a consequente prescrição da pretensão executória.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 29/33).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Passo à análise das alegações expostas na inicial tão somente para verificar se existe flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Conforme relatado, busca-se, no presente writ, a alteração da data para a prescrição da pretensão executória, devendo ser considerada a partir do dia em que transita em julgado a sentença condenatória para a acusação.
+O Magistrado das Execuções converteu a pena restritiva de direitos imposta ao sentenciado em pena privativa de liberdade e determinou a expedição de mandado de prisão com prazo de validade de 4 anos contados do trânsito em julgado da sentença condenatória para as partes.
+O Tribunal de origem, por sua vez, em recurso da defesa, negou provimento, assentando:
+Quanto à discussão sobre o dies a quo do prazo prescricional da pretensão executória, se da data do trânsito em julgado da condenação para as partes, como considerado na r. decisão atacada, ou se da data do trânsito em julgado da r. sentença condenatória para a acusação, como objetiva o recorrente, não comporta apreciação, neste momento, pela presente via recursal.
+Há que se considerar que, por não ser o momento oportuno, ainda não houve, em primeiro grau de jurisdição, concreto pronunciamento sobre eventual pedido de reconhecimento da prescrição da pretensão executória.
+É certo que, pelo que se verifica das Normas de Serviço da Corregedoria Geral da Justiça deste Eg. Tribunal de Justiça, em especial, do contido nos arts. 424 e 427, o mandado de prisão deverá conter data de validade correspondente ao lapso prescricional da pretensão executória estatal.
+No entanto, eventual questão relativa ao prazo prescricional constante do mandado de prisão constitui mera irregularidade e não vincula a decisão judicial quanto ao eventual oportuno reconhecimento da prescrição da pretensão executória estatal.
+Importa considerar, a propósito, o disposto no art. 429, do diploma normativo anteriormente referido, no sentido de que a questão da verificação da ocorrência da prescrição será analisada quando da devolução do mandado de prisão.
+Como se vê, se o caso, no momento oportuno, o pedido de reconhecimento da prescrição da pretensão executória deverá ser formulado em primeiro grau de jurisdição e, em caso de inconformismo quanto à solução adotada, a questão poderá, então, ser objeto de recurso.
+Face ao exposto, meu voto nega provimento ao recurso (fls. 12/13).
+Na hipótese, verifico que a Corte estadual não analisou a tese apresentada pela defesa no presente mandamus, haja vista que entendeu que tem que esperar um pronunciamento concreto em primeiro grau sobre o pedido de reconhecimento da prescrição da pretensão executória, que será analisado no momento da devolução do mandado de prisão. Dessa forma, como a matéria não foi submetida a debate na instância ordinária, este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ALEGAÇÃO DE PRESCRIÇÃO DA FALTA GRAVE NO CURSO DA EXECUÇÃO DA PENA. ACÓRDÃO IMPUGNADO QUE NÃO EXAMINOU O TEMA. SUPRESSÃO DE INSTÂNCIA. ENCAMINHAMENTO DOS AUTOS AO TRIBUNAL DE ORIGEM. ECONOMIA PROCESSUAL.
+1. Para se aferir a competência do Superior Tribunal de Justiça, é necessário que a matéria questionada tenha sido analisada pela Corte de origem, consoante dispõe o art. 105, II, da Constituição Federal, sob pena de configurar indevida supressão de instância.
+2. In casu, o acórdão impugnado manteve decisão do Juízo de origem que reconheceu a falta grave, mas não decidiu acerca da prescrição, o que impede esta Corte de examinar o tema. Assim, revela-se mais prudente, a despeito de se tratar de matéria de ordem pública, cognoscível em qualquer tempo e grau de jurisdição, que o tema seja primeiramente enfrentado pela Corte de origem.
+3. Agravo regimental improvido. Remessa dos autos ao Tribunal de origem (AgRg no HC 398.942/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 22/08/2017).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. EXECUÇÃO. FALTA GRAVE. PRÉVIA INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR - PAD. IMPRESCINDIBILIDADE. RESP N. 1.378.557/RS REPRESENTATIVO DA CONTROVÉRSIA. SÚMULA N. 533 DO STJ. ADVOGADO REPRESENTANTE DA GERÊNCIA DO SERVIÇO DE REVISÕES CRIMINAIS. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. INOCORRÊNCIA. PRESCRIÇÃO. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+ ..
+4. Eventual prescrição, quanto à apuração das faltas graves não terem ocorrido no prazo estabelecido pela norma de regência, não foi submetida a debate na instância ordinária, o que impede este Tribunal Superior de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+Habeas corpus não conhecido (HC 391.592/SC, de minha Relatoria, QUINTA TURMA, DJe 30/06/2017).
+Ante exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
