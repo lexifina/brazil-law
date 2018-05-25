@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por [NOME] , contra acórdão do Tribunal de Justiça do Estado de São Paulo no julgamento do HC n. 2205700-46.2017.8.26.0000.
+Infere-se dos autos que o recorrente foi preso em flagrante por ter supostamente praticado o delito tipificado no art. 33, caput, da Lei n. 11.343/06 (tráfico de entorpecentes). Referida custódia foi convertida em preventiva, tendo sido indeferido o pedido de revogação da segregação antecipada (fls. 120/121).
+Irresignada, a defesa impetrou writ perante o Tribunal de origem, o qual denegou a ordem em acórdão que restou assim ementado, in verbis:
+Habeas Corpus. Tráfico ilícito de drogas. Impetração buscando a revogação da prisão preventiva. Constrangimento ilegal não configurado. Presença dos pressupostos da prisão processual previstos nos arts. 312 e 313, do CPP. Imprescindibilidade da custódia cautelar para a garantia da ordem pública. Ordem denegada. (fl. 70)
+No presente recurso, alega ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal, de modo que a prisão preventiva não estaria suficientemente fundamentada.
+Ressalta suas condições pessoais favoráveis.
+ Aponta suficiência, no caso concreto, das medidas cautelares alternativas previstas no art. 319 do CPP.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva.
+Indeferida a liminar (fls. 102/104) e informações prestadas (fls. 109/1228 e 132/138), o Ministério Público opinou pelo improvimento do reclamo (fls. 140/147).
+É o relatório.
+Decido.
+O presente recurso está prejudicado.
+Isso porque, de acordo com andamento processual obtido na página eletrônica do Tribunal de origem, verifica-se que em 16/5/2018 foi proferida sentença condenando o recorrente às penas de 6 anos e 9 meses de reclusão, em regime inicial fechado e pagamento de 674 dias-multa, pela prática do delito previsto no art. 33, caput, c/c art. 40, inciso III, da Lei n. 11.343/2006, tendo sido mantida a custódia cautelar com base em fundamentos diversos daqueles utilizados na decisão da preventiva.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do réu, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+"Tendo em vista o fato de que o réu respondeu preso ao processo, não estando presentes motivos para a revogação da custódia cautelar, determino a manutenção da prisão preventiva decretada às fls. 68/70, mormente para doravante se assegurar o cumprimento da pena. Expeça-se a guia de recolhimento provisória e recomende-se o réu ao estabelecimento prisional, com urgência"
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor do ora recorrente, fica superada a alegação trazida na impetração que ataca os fundamentos na manutenção da prisão preventiva por ocasião do decreto preventivo.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido é a jurisprudência deste Tribunal:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO. CONCURSO DE PESSOAS. NEGATIVA DE AUTORIA. INADEQUAÇÃO DA VIA ELEITA. PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR MANTIDA NA SENTENÇA. NOVOS FUNDAMENTOS. NOVO TÍTULO. FUNDAMENTOS NÃO ENFRENTADOS NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. O habeas corpus não é o meio adequado para a análise de tese de negativa de autoria ou participação por exigir, necessariamente, uma avaliação do conteúdo fático-probatório, procedimento incompatível com a via estreita do writ, ação constitucional de rito célere e de cognição sumária.
+3. Caso em que o Juízo sentenciante, ao negar ao paciente o direito de apelar em liberdade, inovou nos fundamentos para manter a prisão cautelar, referindo-se a supostas práticas delitivas ocorridas posteriormente ao fato praticado nos autos.
+4. Conforme precedente desta Quinta Turma, "a superveniência de sentença penal condenatória, na qual se agrega nova motivação para a manutenção da prisão cautelar, torna prejudicada a irresignação quanto ao ponto, isto porque, o novo título prisional contém fundamentos cuja legalidade ainda não foi examinada pelo Tribunal originário, não cabendo, portanto, a este Superior Tribunal apreciá-la de forma originária, sob pena de indevida supressão de instância" (AgRg no RHC 49.413/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 16/10/2014, DJe 06/11/2014).
+5. Habeas corpus não conhecido (HC 345.071/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/03/2016, DJe 07/03/2016).
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. EXCESSO DE PRAZO PARA O FIM DA INSTRUÇÃO CRIMINAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NULIDADE. TESTEMUNHO DE POLICIAIS QUE ATUARAM COMO PERITO. MATÉRIA NÃO APRECIADA. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. CONDENAÇÃO. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. NOVOS FUNDAMENTOS DA CUSTÓDIA CORPORAL. PREJUDICIALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+VI - O pedido de revogação da prisão preventiva encontra-se prejudicado em virtude da superveniência de novo título prisional ao qual foram agregados novos fundamentos para a manutenção da segregação cautelar do paciente.
+Habeas corpus não conhecido (HC 312.886/RN, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/05/2015, DJe 18/05/2015).
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
