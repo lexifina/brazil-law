@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC.
+2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+3. No acórdão embargado valorou-se o conteúdo do provimento jurisdicional da Corte local, no qual constou que o montante da arrematação do imóvel, base de cálculo do tributo devido, abrangeu a totalidade da área imobiliária (área plantada e não plantada). Consignou-se, ainda, que a decisão colegiada do Tribunal a quo em momento algum analisou ou fixou entendimento de que o valor em separado do projeto de reflorestamento também deveria ser incluído na apuração da exação devida.
+4. A esse respeito, merece transcrição o seguinte excerto do voto condutor do provimento jurisdicional no Tribunal de origem: "(..) não pode o impetrante/apelante se valer de entendimento jurisprudencial para não pagar o ITBI sobre os hectares destinados a plantio de árvores que seriam destinadas ao corte. Considerando que as "árvores" se enquadram no conceito do art. 79 do Código Civil, consequentemente a legislação municipal de São João do Triunfo ao determinar a incidência do ITBI sobre qualquer espécie de transmissão sobre bens imóveis - incluindo-se nessa natureza "o solo, com sua superfície, os seus acessórios e adjacências naturais, compreendendo as árvores e frutos pendentes, o espaço aéreo e o subsolo" - ao contrário do que sustenta o impetrante/apelante, não modificou o conceito de bens imóveis do Código Civil (..)".
+5. Daí o motivo pelo qual, conforme se vê, a finalidade perseguida neste recurso não é a de completar o acórdão embargado, mas sim a de indevidamente promover a sua reforma.
+6. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos contra acórdão assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. OMISSÃO NÃO CONFIGURADA. ITBI. IMÓVEL ADQUIRIDO EM ARREMATAÇÃO. BASE DE CÁLCULO.
+1. Controverte-se a respeito da base de cálculo do ITBI adquirido em leilão judicial.
+2. Enquanto o Tribunal de origem considerou que o tributo é devido sobre o valor da arrematação, a recorrente afirma que a base de cálculo da exação não pode incluir o valor das árvores plantadas em área de reflorestamento, pois estas já possuem destinação futura (árvores para corte), amoldando-se ao conceito de móveis por antecipação (art. 82 do Código Civil).
+3. O Tribunal de origem invocou o art. 79 do Código Civil e a legislação municipal para justificar a conclusão no sentido de que as árvores são imóveis por natureza, acrescentando seu entendimento de que o instituto dos "móveis por antecipação" é criação jurisprudencial, sem aptidão, portanto, para surtir o efeito tributário almejado pela empresa.
+4. A irresignação da recorrente com o resultado do julgamento, a si desfavorável, confunde-se com o mérito da controvérsia, inexistindo vício no ato judicial que compôs a lide.
+5. No mérito, entretanto, o contexto probatório delineado no acórdão hostilizado afasta a chance de êxito da recorrente.
+6. Ao compor a lide, o órgão colegiado expressamente se reportou aos "valores constantes nos atos judiciais, que são os dos alvarás, que incluem a terra nua e hectares de árvores plantadas", de modo que "esse todo constitui a base de cálculo do tributo", não sendo lícito dela excetuar "os hectares onde há plantação de pinus" (fl. 520, e-STJ).
+7. Ao contrário do que afirma a recorrente, portanto, não houve em momento algum a identificação de valores relativos exclusivamente às árvores supostamente destinadas ao corte para futura revenda, mas sim a avaliação do valor da terra nua (pela Corte local identificada como a área sem plantação) e do valor dos hectares nos quais há árvores incorporadas.
+8. A arrematação, dessa forma, levou em consideração exclusivamente o valor do solo em que localizada a área do imóvel por ela adquirido em leilão judicial (o que, evidentemente, abrangeu tanto a área plantada como a não plantada). Nesses termos, a decisão da Corte local, de acordo com os fundamentos acima, deve ser mantida.
+9. Reitere-se, uma vez mais: a especificação do valor da área plantada ainda diz respeito apenas à área do bem imóvel. A existência de plantação, por si só, ainda que afete (positivamente) a respectiva avaliação, não autoriza a conclusão de que houve avaliação, em separado, do valor de um bem móvel por antecipação que em tese não deva ser incluído na base de cálculo do ITBI.
+10. Recurso Especial não provido.
+A embargante afirma que "há prova matemática, cabal e irrefutável de que a especificação dos valores constantes nos Alvarás Judiciais se referem ao projeto de reflorestamento", "servindo o presente para solicitar (..) a devida revaloração da prova" (fls. 750-751, e-STJ).
+Não há impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 12.3.2018.
+Não procede a irresignação da embargante.
+A assertiva de que a parte busca a revaloração da prova já evidencia que o seu propósito é o de rediscutir o mérito do julgado.
+Sucede que, conforme se verifica na simples leitura do acórdão hostilizado, não consta nem mesmo a valoração da prova (a revaloração aqui perseguida, naturalmente, pressupõe que tenha havido valoração equivocada - como se essa pudesse ser objeto de correção nos aclaratórios), uma vez que, como se sabe, o óbice da Súmula 7/STJ obsta a incursão no acervo fático-probatório.
+Na realidade, no acórdão embargado valorou-se o conteúdo do provimento jurisdicional da Corte local, no qual constou que o montante da arrematação do imóvel, base de cálculo do tributo devido, abrangeu a totalidade da área imobiliária (área plantada e não plantada). Consignou-se, ainda, que a decisão colegiada do Tribunal a quo em momento algum analisou ou fixou entendimento de que o valor em separado do projeto de reflorestamento também deveria ser incluído na apuração da exação devida. Transcrevo, para melhor compreensão, o conteúdo do acórdão proferido na Corte local (fls. 518-519, e-STJ):
+Não há sentido na pretensão do impetrante/apelante considerando que os valores pagos em leilão judicial não se restringiram à terra nua, mas, isso sim, a terra nua e mais número de hectares onde havia um reflorestamento.
+A terra nua em questão é aquela que não contém nenhuma plantação e o resto da área que tem plantação de pinus, compondo um todo, que não pode ser separado como base de cálculo do ITBI já que esse "todo" é que foi objeto de alienação judicial.
+(..) não pode o impetrante/apelante se valer de entendimento jurisprudencial para não pagar o ITBI sobre os hectares destinados a plantio de árvores que seriam destinadas ao corte.
+Considerando que as "árvores" se enquadram no conceito do art. 79 do Código Civil, consequentemente a legislação municipal de São João do Triunfo ao determinar a incidência do ITBI sobre qualquer espécie de transmissão sobre bens imóveis - incluindo-se nessa natureza "o solo, com sua superfície, os seus acessórios e adjacências naturais, compreendendo as árvores e frutos pendentes, o espaço aéreo e o subsolo" - ao contrário do que sustenta o impetrante/apelante, não modificou o conceito de bens imóveis do Código Civil (..).
+
+Daí o motivo pelo qual, conforme se vê, a finalidade perseguida neste recurso não é a de completar o acórdão embargado, mas sim a de promover a sua reforma.
+Com essas considerações, rejeito os Embargos de Declaração.
+É como voto.
