@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por INOVAÇÃO SERVIÇOS ADMINISTRATIVOS LTDA - ME. contra decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, visa reformar acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado (fls. 677/678, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DE REPARAÇÃO DE DANOS - AQUISIÇÃO DE INSETICIDA BIOLÓGICO PARA APLICAÇÃO EM PASTAGEM - METARHIZIUM ANISOPLIAE - COMBATE A CIGARRINHA DE RAIZ - APLICAÇÃO DO CDC - IMPOSSIBILIDADE - INEFICÁCIA DO PRODUTO - COMPROVAÇÃO - NECESSIDADE DE DEMONSTRAÇÃO DA CORRETA ARMAZENAGEM, TRANSPORTE E APLICAÇÃO DO PRODUTO - INSUFICIÊNCIA DE PROVAS - NÃO COMPROVAÇÃO DO NEXO DE CAUSALIDADE - AUSÊNCIA DE RESPONSABILIDADE CIVIL DO FORNECEDOR - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+1. A aplicação do Código de Defesa do Consumidor, tanto na Teoria Finalista como na Finalista Mitigada ou Aprofundada, pressupõe a existência de vulnerabilidade técnica, jurídica, fática ou informacional, de modo que, não restando comprovada alguma das vulnerabilidades, não é
+possível a aplicação do CDC ao caso concreto.
+2. É cediço que, para que o produto (inseticida biológico) tenha eficácia, não basta que sua produção tenha sido apropriada, sendo igualmente necessário o correto armazenamento, transporte e aplicação do produto, de acordo com as orientações concedidas pela própria fornecedora.
+3. Não é possível imputar responsabilidade exclusiva da fornecedora pela ineficácia do produto quando não existe prova cabal de que o produto teve correto armazenamento e transporte; assim, ausente o nexo de causalidade entre a conduta da fornecedora e os danos sofridos pela autora, não há que se falar em responsabilidade civil e, por conseguinte, no direito à indenização por danos morais e materiais.
+Oposto embargos de declaração (fls. 697/711, e-STJ), esses foram desprovidos.
+Nas razões do recurso especial (fls. 723/752, e-STJ), a insurgente aponta violação dos artigos 371, 373, inciso I e 1.022, do Código de Processo Civil/15. Sustenta, em síntese, ter havido erro na valoração da prova quanto a ineficácia do produto adquirido.
+Contrarrazões às fls. 797/827, e-STJ.
+Em juízo provisório de admissibilidade (fls. 830/834, e-STJ), negou-se seguimento ao reclamo ante a incidência das Súmulas 284 do STF e 7 do STJ.
+Daí o agravo (fls. 837/857, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 861/873, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Com efeito, argumentou a recorrente pela procedência da ação de reparação dos danos, aduzindo que houve equivocada valoração das provas presentes nos autos. O acórdão recorrido delimitou e decidiu a controvérsia nos seguintes termos (fls. 684/690, e-STJ):
+O cerce da questão cinge-se à eficácia do fungo biológico denominado "metarhizium anisopliar" adquirido pela autora junto a Fundação Agro-Ambiental da Amazônia no mês de novembro/2006 e dezembro/2006; à época foram adquiridos 10.225 kg (dez mil duzentos e vinte e cinco quilos), representados pelas Notas Fiscais n. 000127, 000129 e 000131.
+A autora apresentou o Laudo Técnico elaborado pelo Instituto Biológico de Campinas/SP (fls. 34/35), subscrito pelo Engenheiro Agrônomo José Eduardo Marcondes de Almeida, que concluiu o seguinte:
+"O produto "A" de origem da FUNAN está com viabilidade muito abaixo da esperada (43%), onde o desejável seria de 80%, como também a concentração de conídios de 3 x 10"" conídios/kg é 3.3 vezes menor que o mínimo necessário que seria de 1 x 1021 conídios/kg.
+(..) O produto "E" de origem da EMPAER/MT apresenta viabilidade pois está com esta acima de 80% (81,5%), como também a concentração de conídios que possui 50% mais conídios/KG superior ao mínimo necessário "
+Em que pese o resultado do exame laboratorial acima transcrito, observo que ele foi produzido unilateralmente pela parte autora, sem oportunizar o contraditório e a ampla defesa da parte contrária, o que já compromete a sua consideração como prova da ineficácia do produto. Ademais, do simples documento trazido às fls. 34/35, não é possível averiguar se a amostra enviada para o Instituto Biológico de Campinas/SP corresponde ao produto adquirido da Fundação Agro -Ambiental da Amazônia no mês de novembro/2006 e dezembro/2006; assim, diante das questões acima levantadas, a produção de prova pericial judicial seria de suma importância para resolução da demanda.
+(..)
+Na hipótese, a ineficácia do produto restou devidamente comprovada nos autos, seja por prova testemunhal ou documental, não surtindo qualquer efeito no combate à cigarrinha de raiz; no entanto, apesar da produção de extensa prova testemunhal, entendo que não houve a comprovação cabal de que a ineficácia do produto foi decorrente exclusivamente de defeito em sua fabricação, isso porque existem severas dúvidas sobre o correto armazenamento e transporte do produto adquirido da Fundação Agro-Ambiental Amazônia - FUNAM no município de Alta Floresta/MT.
+(..)
+No presente caso, as provas apresentadas pela parte autora mostraram-se insuficientes à demonstração do nexo causal entre a venda do fungo biológico denominado "metarhizium anisopliar" pela FUNAM e a ineficácia do produto quando aplicado na Fazenda Marília, de propriedade da Agropecuária Braúna, principalmente porque a requerente não conseguiu se desincumbir de seu ônus em comprovar o correto armazenamento, transporte e aplicação do produto; de tal modo, ausente um dos requisitos essenciais para a responsabilidade civil da requerida (CC, art. 927), não há que se falar no pagamento de qualquer indenização à autora, seja por danos materiais ou morais.
+Ressalte-se que para rever a conclusão do Tribunal a quo acerca da existência de prova nos autos a demonstrar que a insurgente não conseguiu se desincumbir de seu ônus em comprovar o correto armazenamento, transporte e aplicação do produto, seria necessário o reexame de fatos e provas, o que é vedado em sede de recurso especial a teor da Súmula 7/STJ.
+ Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ATROPELAMENTO POR CAMINHÃO A SERVIÇO DE EMPRESA PRESTADORA DE SERVIÇO PÚBLICO. RESPONSABILIDADE OBJETIVA. CULPA EXCLUSIVA DA VÍTIMA NÃO DEMONSTRADA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+AMPUTAÇÃO DO MEMBRO INFERIOR ESQUERDO. DANOS ESTÉTICOS. MAJORAÇÃO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. O Tribunal de origem examinou motivadamente a suposta culpa exclusiva da vítima, bem como a responsabilidade objetiva da agravante, expondo com clareza os fundamentos pelos quais entendeu descaracterizada a causa excludente da responsabilidade objetiva.
+2. A responsabilidade objetiva da ré, na qualidade de prestadora de serviço público, só poderia ser elidida pela comprovação da culpa exclusiva da vítima, o que não ocorreu.
+3. A reforma do acórdão recorrido demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência vedada na instância especial, a teor da Súmula 7 desta Corte.
+4. Registra-se que "a errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório e não para que se colham novas conclusões sobre os elementos informativos do processo" (AgInt no AREsp 970.049/RO, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 04/05/2017, DJe de 09/05/2017).
+5. É pacífico o entendimento desta Corte de que o valor fixado a título de indenização por danos estéticos e danos morais estabelecido pelas instâncias ordinárias pode ser revisto nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade.
+6. No caso, o valor fixado a título de danos estéticos em R$ 10.000, 00 (dez mil reais) foi majorado para R$ 50.000,00 (cinquenta mil reais), tendo em vista que o autor sofreu, em razão do atropelamento, danos físicos que resultaram na amputação de sua perna esquerda, submetendo-o a dores físicas e traumas psicológicos, com intenso sofrimento durante toda sua vida.
+7. Agravo interno não provido.
+(AgInt no REsp 1406744/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 13/03/2018, DJe 16/03/2018)
+2. Do exposto, com base no art. 932 do CPC/15 e na Súmula 568 do STJ, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
