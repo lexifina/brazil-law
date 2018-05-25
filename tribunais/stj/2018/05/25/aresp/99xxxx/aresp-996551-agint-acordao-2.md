@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS. AUSÊNCIA.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, os fundamentos por ela utilizados, não deve ser conhecido.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+Cuida-se de agravo interposto por CENTROQUÍMICA INDUSTRIAL LTDA. contra decisão unipessoal que não conheceu do agravo em recurso especial que interpusera.
+Ação: indenizatória por perdas e danos c/c rescisão contratual, ajuizada pela agravante em face do agravado, devido ao descumprimento do contrato de franquia celebrado.
+Acórdão: deu parcial provimento à apelação interposta pelo agravado, nos termos da seguinte ementa:
+CONTRATO - Franquia - Responsabilidade civil - Danos materiais - Lucros cessantes decorrentes da resilição unilateral do contrato - Inadmissibilidade - A possibilidade de encerramento antecipado da avença por qualquer das era prevista claramente no contrato - Lucros cessantes oriundos da inobservância da anterioridade mínima de 90 dias entre o envio de notificação para comunicação da parte contrária a respeito da resilição e a sua efetiva operacionalização - Admissibilidade - Cálculo do lucro que, entretanto, não pode ficar adstrito ao faturamento líquido mensal, devendo ser deduzidos todos os gastos operacionais relativos à atividade desenvolvida - Jurisprudência do C. STJ - Prática de descontos na venda de produtos da franqueadora à franqueada para posterior revenda - Obrigatoriedade - Política comercial da ré é clara nesse sentido, condicionou a celebração do negócio jurídico e gero na autora justa expectativa - Supressão ulterior dos referidos descontos atenta contra o princípio da boa-fé objetiva, que te m como uma de suas facetas a proibição do "venire contra factum proprium" - Art. 422 do CC - Danos emergentes configurados, que devem ser calculados sobre a diferença entre o valor integral dos produtos vendidos e aquele que seria praticado mediante incidência dos descontos - Dano moral - Inocorrência - Pessoa jurídica tem honra objetiva - Ausência de comprovação do abalo ao bom nome da empresa - Sucumbência recíproca - Sentença parcialmente reformada - Recurso parcialmente provido.
+Decisão monocrática: não conheceu do agravo em recurso especial interposto pela agravante devido à ausência de impugnação específica dos fundamentos decorrentes da aplicação dos óbices das Súmula 5 e 7/STJ.
+Razões do agravo: Nas razões do presente recurso, além de transcrever parte do seu agravo em recurso especial e destacar trechos nos quais teria impugnado a incidência das Súmula 5 e 7/STJ, a agravante argumenta que teria impugnado, especificamente, as Súmulas 5 e 7/STJ, quando aduziu que a decisão de admissibilidade teria adentrado equivocadamente no mérito, que a incidência dos referidos óbices não foi justificada e que não se trata de reexame de matéria fática.
+É O RELATÓRIO.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+A decisão agravada não conheceu do agravo em recurso especial, tendo em vista que a agravante não teria demonstrado, de maneira consistente, a inaplicabilidade dos seguintes óbices: Súmulas 5 e 7/STJ.
+Da análise das razões do agravo em recurso especial, verifica-se que, de fato, a agravante não sustentou a inaplicabilidade das Súmulas 5 e 7/STJ de forma específica.
+Assim sendo, a ausência de impugnação específica e consistente dos fundamentos utilizados pelo Tribunal de origem para negar seguimento ao recurso especial importa no não conhecimento do agravo em recurso especial, ante a aplicação da Súmula 182/STJ, como acertadamente asseverou a decisão agravada.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
