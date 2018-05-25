@@ -1,0 +1,15 @@
+DECISÃO
+ADÃO DE OLIVEIRA, paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de decisão proferida pelo Desembargador relator do HC n. 2095717-78.2018.8.26.0000, do Tribunal de Justiça do Estado de São Paulo, que indeferiu o pedido de urgência.
+Nesta Corte, a defesa sustenta a ausência de motivação idônea para justificar a manutenção da custódia preventiva após a prolatação de sentença que condenou o paciente à pena de 4 anos e 10 meses de reclusão, em regime fechado, mais multa, pela prática do delito de tráfico de drogas.
+Alega, ainda, a inexistência de fundamentos para a fixação do regime fechado e para a negativa da substituição da pena privativa de liberdade por restritiva de direitos.
+Requer, liminarmente e no mérito, a colocação do réu em regime aberto.
+Decido.
+Inicialmente, destaco que as matérias aventadas nesta ordem de habeas corpus não foram objeto de análise pelo Tribunal de origem, ficando, assim, impedida sua admissão, sob pena de incidir-se na indevida supressão de instância.
+Nesse sentido, regula o enunciado da Súmula n. 691 do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar".
+O referido impeditivo é ultrapassado tão somente em casos excepcionais, nos quais a ilegalidade é tão flagrante de modo a não escapar à pronta percepção do julgador, o que não ocorre na espécie.
+Quanto ao direito de recorrer em liberdade, verifico que a inicial do writ não veio acompanhada de documentos necessários que comprovem o alegado constrangimento ilegal, a saber a cópia da decisão que decretou a prisão preventiva do paciente, o que prejudica sobremaneira a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal de que estaria sendo vítima o paciente, nesse ponto.
+Relativamente ao modo de cumprimento da pena, noto que, apesar de ter sido fixado com fundamento na gravidade abstrata do delito, o réu foi condenado à pena inferior a 8 anos e superior a 4 anos e teve circunstâncias judiciais desfavoráveis - tanto que a pena-base foi fixada acima do mínimo legal (fls. 47) -, de modo que, em princípio, o regime mais gravoso é, nos termos do art. 33, § 2º, "b" e § 3º, do Código Penal, o mais adequado para a prevenção e repressão do delito perpetrado.
+No que se refere à pretendida substituição da pena privativa de liberdade por restritiva de direitos, também entendo inviável a concessão do benefício, por ter sido o paciente definitivamente condenado à reprimenda de 4 anos e 10 meses de reclusão, superior, portanto, ao limite objetivo previsto no inciso I do art. 44 do Código Penal.
+Assim, não identifico flagrante constrangimento ilegal ou qualquer mácula nos atos impugnados neste mandamus, a justificar a intervenção imediata e prematura desta Corte Superior de Justiça.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
