@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de THIAGO ANTONIO DE SA, contra acórdão do Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação n. 0007197-75.2009.8.26.0362.
+Consta dos autos que o paciente foi condenado à pena de 2 anos e 1 mês de reclusão, em regime inicial fechado, e pagamento de 208 dias-multa, pela prática do delito previsto no art. 33 da Lei n. 11.343/06 (tráfico de entorpecentes).
+Irresignado, o Ministério Público interpôs recurso de apelação criminal perante o Tribunal de origem, que deu provimento ao recurso ministerial para majorar a reprimenda do paciente para 5 anos, 7 meses e 15 dias de reclusão, em regime inicial fechado, determinando a expedição de mandado de prisão em desfavor do paciente para início da execução provisória da pena, em acórdão de fls. 122/124.
+Sustenta o impetrante que o paciente preenche todos os requisitos necessários à aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06, bem como do regime inicial aberto, sobretudo em razão da detração da pena prevista no art. 387, § 2º, do Código de Processo Penal.
+Alega ainda a impossibilidade de execução da pena antes do trânsito em julgado da condenação. Informa que o recurso especial interposto pela defesa aguarda julgamento. Ressalta que a gravidade abstrata do delito não seria motivação hábil a justificar a custódia antecipada, reputando ausentes os requisitos autorizadores da segregação cautelar, elencados no art. 312 do CPP.
+Requer, liminarmente, a expedição de alvará de soltura e, no mérito, a aplicação da minorante do § 4º; a fixação do regime inicial aberto, inclusive com o desconto do tempo de prisão provisória (2 anos), bem como a concessão do direito de aguardar o trânsito em julgado em liberdade.
+Liminar indeferida às fls. 218/219.
+Informações prestadas às fls. 262/263.
+O Ministério Público Federal opinou pelo não conhecimento do writ ou, se conhecido, pela denegação da ordem (fls. 321/335).
+É o relatório.
+Inicialmente, cumpre ressaltar que em consulta ao sistema processual deste Sodalício, verificou-se que foi formulado pedido idêntico em benefício do mesmo paciente no Aresp n. 1198365/SP, no qual proferi decisão negando provimento ao recurso especial, ocasião em que foram analisadas a possibilidade de aplicação do redutor de pena previsto no art. 33, § 4º e de fixação de regime inicial menos gravoso.
+Assim, tendo o presente habeas corpus a mesma parte e questionando matéria anteriormente arguida e já analisada por esta Corte Superior, o qual diz respeito à mesma ação penal de origem, resta configurada inadmissível reiteração, o que impede o conhecimento das alegações.
+Confira-se a jurisprudência pacífica deste Tribunal:
+HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS (533, 725 KG DE MACONHA). POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO E DE USO RESTRITO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. QUESTÃO NÃO DEBATIDA NO ACÓRDÃO IMPUGNADO. EXCESSO DE PRAZO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A impetração de habeas corpus com o objeto idêntico ao de outro já julgado caracteriza indevida reiteração de pedidos, circunstância que impede o conhecimento das alegações suscitadas.
+2. Se o Tribunal de origem não decidiu o tema referente aos fundamentos da prisão cautelar da paciente no acórdão impugnado e a atual impetração não foi instruída com o julgado que debateu a questão na origem, não tem cabimento o Superior Tribunal de Justiça falar a respeito da idoneidade ou não da motivação da custódia provisória.
+3. Quando o retardo na instrução decorre de circunstâncias excepcionais (por exemplo, da necessidade de se deprecar a realização de atos processuais, inclusive para citar a própria paciente, e da dificuldade em citar o outro acusado, que não está sendo localizado e contra quem está em aberto mandado de prisão), não há falar em extrapolação dos limites da razoabilidade ou em demora injustificável. A fim de que não se efetive o apontado constrangimento ilegal de excesso de prazo para formação da culpa, é recomendável o desmembramento do feito em relação à paciente.
+4. Habeas corpus conhecido em parte e, nessa parte, denegado, com a recomendação ao Juízo a quo de imprimir celeridade no julgamento da ação penal, inclusive desmembrando o processo se necessário for (HC 340.037/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 18/04/2016).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE DA SENTENÇA. ABSOLVIÇÃO. REITERAÇÃO DE PEDIDO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+I - A inicial do presente mandamus pugna pelo reconhecimento da nulidade da sentença e pela absolvição do paciente, sendo esse o mesmo pedido formulado no HC n. 334.031/SP, o que configura reiteração de pedido, processualmente inadmissível.
+II - Ademais, há também, no caso, supressão de instância, uma vez que o eg. Tribunal a quo não se pronunciou sobre as matérias ventiladas no presente writ, o que impede a análise, por esta Corte Superior de Justiça, pela vez primeira, de temas não debatidos pelas instâncias ordinárias.
+Agravo regimental desprovido (AgRg no HC 335.596/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 04/04/2016).
+Noutro ponto, está prejudicado o pedido de concessão do direito de aguardar em liberdade o trânsito em julgado da condenação.
+Isso porque, a decisão que julgou o Aresp n. 1198365/SP, negando provimento ao recurso especial, transitou em julgado em 24/4/2018, tendo os autos baixado à origem.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, a, não conheço do habeas corpus.
+Publique-se.
+Intime-se.
