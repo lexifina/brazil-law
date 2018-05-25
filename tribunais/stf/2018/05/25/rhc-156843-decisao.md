@@ -1,0 +1,22 @@
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Van Basten Matos Silva, contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo regimental no HC 435.526/MA.
+    O Recorrente foi denunciado pela prática, em tese, do crime de furto qualificado na forma tentada e consumada, tipificado no art. 155, § 1º, § 4º, II c/c art. 14, II e 155, § 4º, II, do Código Penal, respectivamente.
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado do Maranhão, que, via decisão monocrática da lavra do Desembargador Vicente de Paula, indeferiu a liminar.
+    Submetida a questão à apreciação do Superior Tribunal de Justiça no HC 435.526/MA, o Ministro Felix Fischer, via decisão monocrática, indeferiu liminarmente o writ forte no enunciado da Súmula 691. Ato contínuo, interposto agravo regimental não provido pela Corte Superior.
+    No presente recurso ordinário, a Defesa alega, em síntese, falta de justa causa para deflagração da ação penal em razão da “inexistência de dolo eventual e de nexo causal entre ação e resultado”. Requer, em medida liminar, a suspensão da ação penal na origem. No mérito, pugna pelo trancamento da “ação penal nº 8907-15.2017.8.10.001, em trâmite na 2ª Vara Criminal da Comarca de São Luís-Maranhão”.
+    É o relatório.
+    Decido.
+    Extraio do acórdão recorrido:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. LIMINAR INDEFERIDA NO WRIT IMPETRADO NA ORIGEM. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. ILEGALIDADE OU TERATOLOGIA NA DECISÃO. INOCORRÊNCIA. TRANCAMENTO DE AÇÃO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+    I - Não se admite, em princípio, a impetração de habeas corpus contra decisão que denega pedido liminar em sede de writ impetrado na origem, sob pena de se configurar indevida supressão de instância (enunciado 691, da Súmula do STF), ressalvadas as decisões teratológicas ou com deficiência de fundamentação.
+    II - No caso, o agravante alega que não há indícios mínimos de autoria a embasar o recebimento de denúncia, e pede o trancamento da ação penal. Ocorre que ao indeferir o pedido liminar, o i. Desembargador Relator do writ consignou "a existência de provas de suporte probatório mínimo de autoria e materialidade delitiva, registrando, na oportunidade, a presença dos requisitos autorizadores para a deflagração da ação penal" (fl. 166).
+    III - Não se verifica, portanto, a ocorrência de flagrante ilegalidade capaz de determinar o conhecimento da impetração, em afronta ao disposto na Súmula 691 do STF.
+    Agravo regimental desprovido.”
+    O acórdão recorrido está em consonância com a jurisprudência desta Suprema Corte no sentido de que “Não se conhece de habeas corpus impetrado contra indeferimento de liminar por Relator em habeas corpus requerido a Tribunal Superior. Súmula 691. Óbice superável apenas em hipótese de teratologia” (HC 147.891-AgR/DF, de minha relatoria, 1ª Turma, DJe 17.11.2017).
+    Ainda que a compreensão expressa em tal verbete sumular seja abrandada em alguns julgamentos desta Suprema Corte em hipóteses excepcionais, de flagrante ilegalidade, teratologia ou abuso de poder, por não ser o caso dos autos, segundo o Superior Tribunal de Justiça, indeferido liminarmente o writ e negado provimento ao respectivo agravo.
+    Nesse prisma, a Corte Superior ressaltou “que ao indeferir o pedido liminar, o i. Desembargador Relator do writ consignou "a existência de provas de suporte probatório mínimo de autoria e materialidade delitiva, registrando, na oportunidade, a presença dos requisitos autorizadores para a deflagração da ação penal".
+    Por outro lado, à míngua de pronunciamento judicial conclusivo pela Corte Superior quanto à tese defensiva de falta de justa causa para deflagração da ação penal, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 25 de maio de 2018.
+Ministra Rosa Weber
+Relatora
