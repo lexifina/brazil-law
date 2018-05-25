@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto com fulcro no art. 105, inciso III, alínea "a", da Constituição Federal.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 121, § 2.º, inciso IV, do Código Penal (homicídio qualificado) à pena de 14 anos de reclusão, em regime inicial fechado.
+Irresignada, a defesa do agravante interpôs recurso de apelação, que foi desprovido, nos termos do acórdão assim ementado (fls. 393/397):
+RECURSO IMPROVIDO. HOMICÍDIO. Não há como prosperar o inconformismo manifestado pela esforçada defesa, bastando que se considere que a opção do Conselho de Sentença por uma das versões figurantes nos autos, desde que razoável, não configura arbítrio mas, isto sim, exercício normal da soberania do Júri.
+Em sede de recurso especial, alega violação ao disposto no art. 593, § 3.º, do Código de Processo Penal e no art. 121 do Código Penal. Sustenta, em síntese, que a decisão dos jurados foi manifestamente contrária à prova dos autos. Ademais, assevera que a qualificadora não restou caracterizada, vez que existia animosidade entre o acusado e a vítima. Requer, assim, a anulação do julgado, com a consequente submissão do acusado a novo júri, e, em caráter subsidiário, a exclusão da qualificadora (fls. 401/413).
+A r. decisão agravada inadmitiu o recurso especial, haja vista a necessidade de reexame do conjunto probatório dos autos, providência vedada pelo Enunciado n. 7 da Súmula desta Corte (fls. 426/428).
+Em agravo em recurso especial, a defesa aduz pretender apenas a revaloração, e não o revolvimento da prova (fls. 431/437).
+Contraminuta às fls. 440/441.
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 456/459).
+É o relatório. Decido.
+Atendidos os requisitos formais de admissibilidade e impugnado o fundamento da decisão agravada, conheço do agravo.
+Passo à análise do recurso especial.
+A irresignação não prospera.
+A Corte de origem, soberana na análise do acervo probatório, concluiu fundamentadamente, pela existência de provas aptas a autorizar o decreto condenatório e a manutenção da qualificadora.
+É o que se extrai do seguinte excerto do aresto recorrido (fls. 395/397):
+"O apelante, em solo policial, na presença de seu advogado, admitiu que devia certa quantia em dinheiro para a vítima Alex, porém, mesmo após a efetiva quitação a vítima continuava a perturba-lo e a ameaça-lo, motivo pelo qual, ele, interrogando, no dia dos fatos, disparou por cinco vezes o revólver que portava em direção à vítima.
+A testemunha [NOME], investigador de polícia, ouvido em plenário, disse que o acusado confessou a ele, de maneira informal, a autoria do crime, inclusive citou desavenças originárias de dívida não quitada - provavelmente apropriação - por parte de Alex, de produto de um crime que juntos perpetraram.
+No mesmo sentido foi o depoimento do policial [NOME] que se transcreve em parte:
+"MP: Senhor, Túlio, boa tarde. Só para esclarecer: O Elivanio confessou para o senhor ter atirado no Alex, informalmente
+D.: Não. Confessou formalmente pelos autos do inquérito policial em que há confissão dele dizendo que realmente ele, Elivânio, atirou no Alex explica a motivação, sendo que ele teria uma dívida para com Alex, que tal dívida inclusive teria sido paga, mas o Alex continuava cobrando e ele temia por sua integridade física por conta de que o Alex é uma pessoa perigosa - como se ele não fosse - houve esse desentendimento no encontro; o Alex saiu correndo e ele foi no encalço."
+Note-se, ainda, que se extrai dos autos que o apelante teria se munido de uma arma de fogo e ao encontrar a vítima Alex efetuou em sua direção 5 disparos fatais que acertaram diversas regiões do corpo, inclusive, suas costas, denotando, assim, que a qualificadora (recurso que dificultou a defesa da vítima) também foi respaldada pelo conjunto probatório reunido nos autos.
+É certo que o apelante, em plenário, procurou mudar a versão oferecida antes, porém, fato é que os jurados sopesaram a confissão do réu com os depoimentos trazidos pelos policiais e escolheram a tese que mais lhe pareceu crivei, não se podendo, assim, dizer que houve julgamento contrário à evidência dos autos.
+Ora, diante deste contexto probatório, como já referido, não há de se falar em julgamento manifestamente contrário às provas dos autos, pois os jurados optaram por uma das opções elencadas no acervo probatório.
+A solução condenatória encontra-se consentânea ao acervo probatório. Portanto, plenamente compreensível a adoção da tese ministerial pelo Conselho de Sentença, inclusive, no que toca com a existência da qualificadora.
+Ademais, deve ser respeitada a soberania do veredicto dos jurados, conforme manda a Constituição da República, no artigo 52, inciso XXXVIII, alínea c, de forma que em sede de apelação, não há livre apreciação das provas para acolher, entre versões existentes nos autos do processo, aquela que lhe parecer mais bem fundada, quando o Júri adotar outra que também encontra guarida nos elementos probantes constantes dos autos do procedimento persecutório".
+De fato, para se concluir de forma diversa do entendimento do Tribunal de origem, seria inevitável o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial. A referida vedação encontra respaldo no enunciado n. 7 da Súmula desta Corte, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito precedentes:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PENAL.
+ .. .
+HOMICÍDIO QUALIFICADO. MOTIVO FÚTIL. RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. PRETENDIDO AFASTAMENTO DAS QUALIFICADORAS. IMPOSSIBILIDADE. SOBERANIA DO VEREDICTO DO TRIBUNAL DO JURI. DECISÃO CONTRÁRIA À PROVA DOS AUTOS. RECONHECIMENTO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7 DA SÚMULA DO STJ.
+1. No procedimento relativo aos crimes contra a vida, ao órgão recursal se permite apenas a realização de um juízo de constatação acerca da existência de suporte probatório para a decisão tomada pelos jurados integrantes do Tribunal do Júri, somente se admitindo a cassação do veredicto caso este seja flagrantemente desprovido de elementos mínimos de prova capazes de sustentá-lo.
+2. A Corte de origem, após aprofundada reapreciação dos elementos constantes dos autos, concluiu, de modo fundamentado, que a versão acolhida pelo Tribunal Popular para condenar o réu pelo crime de homicídio qualificado está amparada no acervo probatório colhido durante a instrução processual.
+3. É inviável, por parte desta Corte Superior de Justiça, a análise acerca da aptidão das provas para a manutenção do édito condenatório, bem como para o reconhecimento das qualificadoras do motivo torpe e do meio que dificultou a defesa da vítima, porquanto a verificação do conteúdo dos elementos de convicção produzidos no curso do feito implicaria o aprofundado revolvimento de matéria fático-probatória, providência que é vedada na via eleita.
+4. Agravo regimental não conhecido.
+(AgRg no AREsp 822.668/GO, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/04/2018, DJe 25/04/2018)
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. INDÍCIOS DE AUTORIA E MATERIALIDADE. JUÍZO DE ADMISSIBILIDADE DA ACUSAÇÃO. IN DUBIO PRO SOCIETATE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. PRETENSÃO DE IMPRONÚNCIA. DESCABIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. EXCLUSÃO DE QUALIFICADORAS. INVIABILIDADE. PRESERVAÇÃO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. PRECEDENTES. PRETENSÃO RECURSAL. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. O julgamento monocrático do agravo em recurso especial, com esteio em óbices processuais e na jurisprudência dominante do Superior Tribunal de Justiça, tem respaldo nas disposições do Código de Processo Civil e do Regimento Interno desta Corte Superior. Precedentes.
+2. As pretensões recursais, de que não haveria indícios mínimos da autoria delitiva e das qualificadoras do motivo torpe e do emprego de meio que resultou em perigo comum para embasar a pronúncia, demandariam imprescindível reexame dos elementos fático-probatórios dos autos, o que é defeso no âmbito do recurso especial, em virtude do disposto na Súmula 7 desta Corte.
+3. Agravo regimental improvido.
+(AgRg no AREsp 1203624/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2018, DJe 09/04/2018)
+Diante do exposto, com fundamento no art. 932, inc. IV, alínea "a", do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso.
+Publique-se. Intimem-se.
