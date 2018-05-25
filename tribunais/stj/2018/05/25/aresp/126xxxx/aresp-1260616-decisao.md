@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 186, 188, I, do Código Civil e 85 do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 363):
+AÇÃO INDENIZATÓRIA - FALHA NA PRESTAÇÃO DO SERVIÇO - DÉBITO QUITADO - IMPEDIMENTO PARA A REALIZAÇÃO DE FINANCIAMENTO APÓS O PAGAMENTO - RELAÇÃO DE CONSUMO - INVERSÃO DO ÔNUS DA PROVA - ART. 6º, VIII, DO CDC.
+RESPONSABILIDADE OBJETIVA - DANO MORAL - CONFIGURAÇÃO - COMPROVAÇÃO DO PADECIMENTO ANÍMICO - INDENIZAÇÃO - FIXAÇÃO - VALOR QUE ATENDE AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE.
+RECURSOS DAS PARTES NÃO PROVIDOS.
+Sustenta a instituição financeira, em síntese, que não ficou configurado o ato ilícito ensejador da indenização por danos morais.
+Afirma, ademais, que o valor arbitrado a título de danos morais é excessivo.
+Argumenta, por fim, que "não há que se falar em condenação do recorrente em honorários de sucumbência" (fl. 502).
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, incidem os enunciados 282 e 356 da Súmula do STF quanto ao tema da impossibilidade de condenação aos ônus de sucumbência, diante da ausência de resistência à pretensão deduzida em juízo, pois é estranho ao julgado recorrido, a ele faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+No mérito, verifico que a Corte de origem consignou que ficou configurado o dano moral, assim discorrendo (fls. 365/368):
+(..)
+Incontroversa a quitação da dívida que havia entre a autora e o Banco do Brasil. O que se discute é a manutenção de restrição interna no sistema da instituição financeira decorrente da pendência e possível indenização pelos danos sofridos.
+A dívida inicial somava R$ 3.561,69. Houve um primeiro acordo entre as partes, pelo qual a autora quitou R$ 800,00 (fls. 35/37). Posteriormente, complementou o pagamento com mais R$ 2.850,86 no intuito de viabilizar financiamento bancário (fls. 39/40). No total, destinou R$ 3.650,86.
+No caso, aplicável o Código de Defesa do Consumidor, a teor da Súmula 297 do Superior Tribunal de Justiça:
+O Código de Defesa do Consumidor é aplicável às instituições financeiras.
+Dada a inversão do ônus probatório (art. 6º, inc. VIII da Lei nº 8.078/90), incumbia à instituição financeira demonstrar que a impossibilidade de aprovação do crédito não se deveu à restrição interna que manteve em razão do fato, mesmo após o pagamento. Aliás, quando ouvida, a gerente da agência do réu assim narrou:
+"(..) Sou gerente de relacionamento do Banco do Brasil. (..) Caso o pagamento seja feito parcialmente, mesmo que por acordo, a restrição permanece. Feita a quitação integral, o próprio sistema informatizado gera a baixa da restrição no prazo de cinco dias. Há casos em que o sistema não gera a baixa automática (..) Tenho conhecimento de que o funcionário Rodrigo tentou viabilizar um financiamento imobiliário para a autora e não foi possível em razão da restrição interna. Não sei quantas vezes os autores estiveram na agência para tratar e tentar resolver este assunto."( fls. 159 ).
+Portanto, com o cumprimento da obrigação, não poderia prevalecer a cláusula 4 do acordo dispondo que:
+"A ciência de que o presente acordo não pressupõe o direito de retomar linhas de crédito junto a instituição cedente do crédito, tendo em vista essa decisão competir exclusivamente a ela" ( fls. 35 ).
+Ao que se denota pelo depoimento, o financiamento estava em curso. Havia o ânimo de consumá-lo, ato não levado a cabo devido à falha da instituição na manutenção da restrição (fls. 159). Somente em 14.8.2013 é que informou que a suspendeu (fls. 129).
+De outro turno, o réu não demonstrou que a anotação não extrapolou os limites internos da instituição. Não juntou documento com a contestação que assim indicasse. O ônus da prova lhe incumbia em virtude da relação de consumo. Descumpriu também o disposto no art. 373, inc. II, do CPC. Poderia não realizar o financiamento, desde que legítima a dívida, assim como fornecer ao Banco Central todas as informações relativas ao montante dos débitos, conforme previsão contratual:
+Cláusula 4ª - AUTORIZAÇÃO - O Contratante autoriza o Banco do Brasil S.A. e suas subsidiárias, por seus prepostos; (i) a fornecer ao Banco Central do Brasil todas as informações relativas ao montante dos débitos, bem como aquelas referentes às responsabilidades por garantias, decorrentes de operações por ele (Contratante) contratadas junto ao Banco do Brasil S/A; (ii) a consultar todas as informações disponibilizadas pelas instituições financeiras e registradas em seu nome (do Contratante), na qualidade de responsável por débitos ou garantias de operações, no Sistema de Informações de Crédito SCR do Banco Central do Brasil. (fls. 76).
+Dessa forma, é crível a alegação dos autores de que não conseguiram financiamento em outra instituição bancária. Devido à falha no sistema do réu foram obrigados a distratar o compromisso de compra e venda de empreitada mista, dada a negativa de financiamento (fls. 161/163). Impera a responsabilidade objetiva prevista no art. 14 da Lei 8.078/90:
+O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+O dano moral é inerente ao ato. No tocante à indenização, leciona Clayton Reis, o "..dano moral é o mal infringido à intimidade da vítima, que altera de forma substancial o seu equilíbrio psíquico" ( Os Novos Rumos da Indenização do Dano Moral. Rio de Janeiro: Forense, 2002, p. 60).
+Já na lição de Sergio Cavalieri Filho "..hoje o dano moral não mais se restringe à dor, tristeza e sofrimento, estendendo a sua tutela a todos os bens personalíssimos os complexos de ordem ética, razão pela qual revela-se mais apropriado chamá-lo de dano imaterial ou não patrimonial" ( Programa de Responsabilidade Civil. 7ª ed. São Paulo: Atlas, 2007, p. 77-78 ).
+A verba indenizatória a que fazem jus não tem o condão de enriquecê-los, mas sim de recompensá-los pelo padecimento anímico. Há de se considerar ainda o caráter penalizador da condenação para que o ofensor se abstenha de prática semelhante no futuro.
+No que diz respeito à quantificação, precedente jurisprudencial orienta no sentido de que:
+(..)
+Portanto, em análise ao caso concreto, adotando-se as diretrizes mencionadas, correto o arbitramento pelo juízo a quo do valor de R$ 10.000,00, importância que está em conformidade com os princípios da razoabilidade e o da proporcionalidade.
+Como a restrição interna da autora para aquisição de financiamentos decorreu de falha exclusiva do Banco do Brasil, impossível responsabilizar a corré Ativos S/A. Trata-se de empresa de cobrança, que não deu causa ao infortúnio.
+(..)
+Com efeito, anoto que a desconstituição da conclusão do acórdão recorrido, na forma pretendida, demandaria o reexame do acervo fático dos autos, o que encontra óbice no enunciado n. 7 da Súmula do STJ.
+Registro, ademais, que esta Corte considera excepcionalmente cabível o reexame do valor arbitrado a título de danos morais, quando for ele excessivo ou irrisório.
+No caso dos autos, o valor de R$ 10.000,00 (dez mil reais) mantido pelo acórdão (fl. 368), mostra-se dentro dos padrões da razoabilidade e proporcionalidade, não justificando intervenção desta Corte Superior.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil/2015, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
