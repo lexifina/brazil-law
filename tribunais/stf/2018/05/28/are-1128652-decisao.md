@@ -1,0 +1,16 @@
+Referente à petição STF nº 29.590/2018.
+    Trata-se de manifestação de desistência do agravo em recurso extraordinário.
+    Verifico deduzido o pedido de desistência em 16.5.2018, quando em 15.5.2018 fora publicada a decisão que negou seguimento ao recurso nos termos do art. 21, § 1º, do RISTF.
+    Na esteira da jurisprudência desta Corte, apenas é facultado à parte desistir do recurso manejado enquanto não ultimado seu julgamento. Nesse sentido, cito o ARE 855.605-AgR, de minha lavra, 1ª Turma, DJe 17.3.2016, RE 599.674-AgR-ED-AgR/ Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 29.8.2014; e o AI 773.754-AgR-ED-AgR/ Rel. Min. Dias Toffoli, 1ª Turma, DJe 21.5.2012, verbis:
+    “DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PEDIDOS DE DESISTÊNCIA DO RECURSO EXTRAORDINÁRIO E RENÚNCIA AO DIREITO SOBRE O QUAL SE FUNDA A AÇÃO. MOMENTO POSTERIOR AO JULGAMENTO DO RECURSO EXTRAORDINÁRIO. INVIABILIDADE. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL DESPROVIDO. ACÓRDÃO RECORRIDO PUBLICADO EM 14.8.2012.
+    1. O entendimento adotado pela Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que apenas é facultado à parte desistir do recurso manejado enquanto não ultimado seu julgamento. Precedentes.
+    2. Na espécie, o pedido de desistência (Petição nº 60.361/2014/STF, doc. 08) foi deduzido em 15.12.2014, quando em 03.12.2014 (doc. 05) fora negado seguimento ao recurso, consoante o art. 21, § 1º, do RISTF, publicada no DJe 10.12.2014, com certidão de trânsito em julgado (doc. 13).
+    3. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    4. Agravo regimental conhecido e não provido.”
+    “AGRAVO REGIMENTAL CONTRA DECISÃO QUE REJEITOU PEDIDOS DE DESISTÊNCIA DA AÇÃO, DO RECURSO EXTRAORDINÁRIO E DE RENÚNCIA AO DIREITO SOBRE O QUAL SE FUNDA A AÇÃO. INADMISSÃO DOS REFERIDOS PLEITOS APÓS O JULGAMENTO DO RECURSO EXTRAORDINÁRIO. PRECEDENTES. AGRAVO A QUE SE NEGA PROVIMENTO. I – O posicionamento majoritário desta Corte é no sentido de não admitir pedido de desistência ou de renúncia após o julgamento do recurso extraordinário. Precedentes. II – Agravo regimental a que se nega provimento.”
+    “Agravo regimental em embargos de declaração em agravo regimental em agravo de instrumento. Homologação de pedido de desistência do recurso antes de ultimado seu julgamento. Possibilidade. 1. Na dicção da jurisprudência desta Suprema Corte, enquanto não ultimado o julgamento do apelo aqui em trâmite, pode a parte desistir do recurso. 2. Havendo embargos de declaração ainda pendentes de apreciação, a desistência alcança apenas esse último recurso, ainda não julgado. 3. Não tendo sido apresentado, nesta instância, expresso pedido de renúncia ao direito sobre o qual se funda a ação, não há como tê-lo por fictamente deduzido para fins de sua homologação. 4. Agravo regimental parcialmente provido.”
+    Indefiro o pedido de desistência, porquanto protocolado após a publicação da decisão pela qual negado seguimento ao recurso.
+    Publique-se.
+    Brasília, 28 de maio de 2018.
+Ministra Rosa Weber
+Relatora
