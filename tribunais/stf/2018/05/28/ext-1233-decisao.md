@@ -1,0 +1,30 @@
+Despacho:
+    Vistos.
+    Trata-se de pedido de extradição formulado pelo Governo de Portugal (Nota Verbal nº 39/11 – fl. 4), encaminhado por via diplomática ao Ministério das Relações Exteriores (fl. 2), com fundamento no art. XII do Tratado de Extradição firmado entre o Brasil e o Governo de Portugal, no qual se pede a extradição do nacional português José Manuel Gomes Leonardo, investigado naquele País pela prática do crime de tráfico de produto estupefaciente.
+    Referido pedido foi deferido, à unanimidade, pela Segunda Turma deste Supremo Tribunal Federal, em acórdão assim ementado:
+    “Extradição. Passiva. Instrutória. Governo de Portugal. Tráfico de entorpecentes. Pedido formulado com base em tratado específico. Atendimento aos requisitos da Lei nº 6.815/80. Prescrição da pretensão punitiva. Não ocorrência, tanto sob a óptica da legislação alienígena quanto sob a óptica da legislação penal brasileira. Detração do tempo de prisão cumprido no Brasil. Necessidade. Observância do disposto no art. 89 da Lei nº 6.815/80, com a ressalva do disposto no art. 67 do mesmo estatuto. Pedido deferido.
+    1. O pedido formulado pelo Governo de Portugal, com base no tratado de extradição firmado com o Brasil, atende aos pressupostos necessários ao seu deferimento, nos termos da Lei nº 6.815/80.
+    2. O fato delituoso imputado ao extraditando corresponde, no Brasil, ao crime tipificado como tráfico de entorpecente (Lei nº 6.368/76, art. 12, vigente à época dos fatos), satisfazendo, assim, ao requisito da dupla tipicidade, previsto no art. 77, inciso II, da lei nº 6.815/80.
+    3. Não ocorrência da prescrição da pretensão punitiva do crime imputado ao extraditando sob a óptica da legislação de ambos os Estados envolvidos.
+    4. Com base no estabelecido no tratado específico em que se apoia o presente pedido de extradição, o Governo de Portugal deve assegurar a detração do tempo que o extraditando houver permanecido preso no Brasil por força do pedido formulado.
+    5. Em vista da informação de que o extraditando se encontrava preso em decorrência da prática do delito previsto no art. 307 do Código Penal (fls. 71/73), faz-se necessária, quanto à entrega do extraditando ao Estado requerente, a observância do disposto no art. 89 da lei nº 6.815/80, ressalvado o disposto no art. 67 do mesmo estatuto.
+    6. Extradição deferida.”
+    Por meio do Ofício nº 672/2018, registrado sob o nº 26.851/18, a Coordenação de Extradição e Transferência de Pessoas Condenadas do Ministério da Justiça encaminha a este Supremo Tribunal Federal Ofício nº 105140/18, de 27.03.2018, oriundo da Procuradoria Geral da República de Portugal, solicitando “informação sobre o tempo de detenção à ordem do processo de extradição sofrido por JOSÉ MANUEL GOMES LEONARDO”.
+    Examinados os autos, decido.
+    De início, registra-se que, ao deferir o pedido de extradição do nacional português José Manuel Gomes Leonardo, a Segunda Turma do Supremo Tribunal Federal determinou fosse observada a detração determinada, nos termos do voto de minha relatoria, segundo o qual
+    “[d]eve ser efetuada a detração do tempo de prisão ao qual ele foi submetido no Brasil. Informo, para esse fim, que o extraditando foi mantido preso, preventivamente, em virtude do pedido de extradição, desde o dia 3 de março de 2011 (fl. 44).”
+    Lado outro, consta dos autos o Ofício nº 413/2018, registrado sob o nº 17.065/18, por meio do qual a Coordenação de Extradição e Transferência de Pessoas Condenadas do Ministério da Justiça informa que o nacional português José Manuel Gomes Leonardo foi extraditado/transferido para seu país de origem/expulso no dia 15 de março de 2018, devendo lá cumprir o remanescente da pena a que foi condenado pela Justiça brasileira (fls. 179/186).
+    Desse modo, considerando os marcos devidamente comprovados nos autos, quais sejam, a data do cumprimento do mandado de prisão preventiva expedido nestes autos (ocorrido em 3 de março de 2011 – fl. 44) e a data da efetiva entrega do preso às autoridades portuguesas (realizada em 15 de março de 2018 -fls. 179/186), verifica-se que o acusado José Manuel Gomes Leonardo foi mantido preso preventivamente, em virtude do presente pedido de extradição, pelo período de 7 anos e 13 dias, sendo esse, a princípio, o período a ser detraído.
+    Ocorre que, segundo noticiado pelo Ministro de Estado da Justiça, por intermédio do Aviso nº 2202-MJ, protocolado no dia 07.01.2014 e registrado sob o nº 216/14, o nacional português José Manuel Gomes Leonardo foi condenado à pena de 22 anos de reclusão, pelo crime de latrocínio, dos quais, àquela época, havia cumprido apenas 1 ano, 8 meses e 5 dias (fl. 143).
+    Inexiste nos autos, contudo, informação precisa a respeito do início do cumprimento da pena por latrocínio, ou do tempo remanescente de pena, a esse título, a ser cumprido em Portugal.
+    Não obstante isso, é possível perceber, desde já, que ao menos parte do período da prisão preventiva para fins de extradição é concomitante com o cumprimento de pena por crime cometido no Brasil.
+    Nota-se, ainda, que o cumprimento de pena por crime cometido no Brasil somente foi noticiado nos autos após o julgamento do presente pedido de extradição, razão pela qual tal circunstância não fora considerada, na espécie, quando da análise acerca da detração.
+    Ressalvado meu entendimento pessoal sobre a matéria, destaco que a jurisprudência atual desta Corte é no sentido de que “deverá ser computado o tempo de prisão provisória transcorrido entre a data da prisão do extraditando (...) e a data do trânsito em julgado do (...) acórdão” (Ext 1.397/DF, Segunda Turma, de minha relatoria, publicado no DJe de 03.08.2016).
+    Nesse contexto, visando melhor instruir os autos, oficie-se ao Ministro de Estado da Justiça para que informe a esta Corte a data de início do cumprimento da pena pelo crime de latrocínio (PROC.MJ 0800.014324/2003-98).
+    Após, dê-se vista à Procuradoria-Geral da República.
+    Em seguida, retornem os autos conclusos.
+    Publique-se.
+    Brasília, 28 de maio de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
