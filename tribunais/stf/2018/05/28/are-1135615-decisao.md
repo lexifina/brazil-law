@@ -1,0 +1,25 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “COMPETÊNCIA DOS JUIZADOS ESPECIAIS. PRELIMINAR ACOLHIDA. PREJUDICIAL DE MÉRITO ARGUÍDA DE OFÍCIO – PRESCRIÇÃO ÂNUA – CONCURSO PÚBLICO. RECURSO PREJUDICADO. PROCESSO EXTINTO.
+    1. Não há falar-se em incompetência dos Juizados Especiais de Fazenda Pública para processar matéria afeta ao presente feito, relativo à exibição de documento, a considerar o valor da causa compatível, a ausência de complexidade e vedação legal. PRELIMINAR DE COMPETÊNCIA ACOLHIDA. Precedentes[1].
+    2. No caso dos autos a autora ora recorrente pretendeu no pedido deduzido na inicial fosse determinado ao réu, Distrito Federal, sob pena de multa, fornecer ‘(...) Folha de Resposta do candidato (...)’, referente ao concurso público em que concorreu a autora, regulamentado pelo Edital nº 01 – SEAPSEE, de 04 de setembro de 2013 - ID 1941080, para provimento de cargo de Professor de Educação Básica do Distrito Federal.
+    3. Contudo, a teor do disposto no art. 1º da Lei nº 7.515/1986, ‘Art. 1º O direito de ação contra quaisquer atos relativos a concursos para provimento de cargos e empregos na Administração Direta do Distrito Federal e nas suas Autarquias prescreve em 1 (um) ano, a contar da data em que for publicada a homologação do resultado final.’
+    4. No presente caso o concurso foi homologado em 02/06/2014, como se infere do Edital nº 13-SEAP/SEE, publicado no DODF do dia 03/06/2014 - ID 1941084, de modo que, aplicada a prescrição ânua, porque a inicial somente foi distribuída em 16/12/2016, o direito da autora está fulminado pelo instituto da prescrição, o que afasta a probabilidade do direito. De modo que não há resultado útil do processo a ser protegido (CPC, art. 305). Precedentes[2].
+    5. Não é demais ressaltar que o termo a partir do qual se inicia o prazo prescricional para a específica hipótese dos autos, concurso público, é a data da homologação do referido certame.
+    6. Neste contexto, na circunstância temporal em que proposta a demanda, mais de dois anos após a homologação do concurso, suscito de ofício e acolho a prejudicial de mérito de prescrição, conhecendo do recurso tão somente para acolher a preliminar de competência, inadmitindo-o nos demais termos.
+    7. PRELIMINAR DE COMPETÊNCIA ACOLHIDA. PREJUDICIAL DE MÉRITO ARGUÍDA DE OFÍCIO ACOLHIDA. PROCESSO EXTINTO.
+    8. A súmula de julgamento servirá de acórdão, na forma do art. 46 da Lei nº 9.099/95.
+    9. Sem custas e sem honorários.” (pág. 49 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, b, da Constituição, alegou-se, em suma, violação ao art. 37, I, da mesma Carta, sob o argumento de que:
+    “[...] o prazo prescricional de um ano previsto na Lei n.º 7.515/86, é inaplicável ao caso concreto, uma vez que um dos aspectos que está em discussão acerca da preterição do Recorrente é o fato de que a Administração Pública lançou novo concurso para o mesmo cargo já em 2016, o que atrai a prescrição prevista no Decreto 20.910/32, artigo 1º, que ensina que a prescrição de ação que enseje anulação de atos da Fazenda Pública prescreve em cinco anos [...]” (pág. 56 do documento eletrônico 2).
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem, com apoio no acervo probatório dos autos e na interpretação da norma infraconstitucional local pertinente (Lei Distrital 7.515/1986), manteve sentença na qual se concluiu pela ocorrência de prescrição da pretensão.
+    Assim, para divergir do acórdão recorrido, seria necessário o reexame do conjunto fático-probatório dos autos e da norma local aplicável ao caso, o que é vedado pelas Súmulas 279/STF e 280/STF. Nesse sentido, destaco o ARE 928.546-AgR/DF, de relatoria do Ministro Edson Fachin, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. AGENTE PENITENCIÁRIO DO DISTRITO FEDERAL. PRESCRIÇÃO. DECRETO 20.910/1932. LEI DISTRITAL 7.515/1986. LEI LOCAL. SÚMULA 280. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Nos termos da orientação sedimentada na súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em discussão. 2. Agravo Regimental a que se nega provimento”.
+    Com o mesmo entendimento, cito as seguintes decisões, entre outras: ARE 991.456/DF, Rel. Min. Gilmar Mendes; ARE 928.546/DF, Rel. Min. Edson Fachin; ARE 938.349-AgR/PE, Rel. Min. Dias Toffoli.
+     Por fim, a parte recorrente não demonstrou de que forma o acórdão recorrido teria declarado a inconstitucionalidade de tratado ou lei federal, de forma a ensejar o cabimento de recurso extraordinário com base na alínea b do art. 102, III, da CF.
+     Assim, a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia, o que faz incidir o teor da Súmula 284 do STF.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de maio de 2018.
+Ministro Ricardo Lewandowski
+Relator
