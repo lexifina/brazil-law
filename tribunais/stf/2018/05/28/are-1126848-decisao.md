@@ -1,0 +1,22 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Unimed de Lins Cooperativa de Trabalho Médico contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO PARA O SEGURO DE ACIDENTE DE TRABALHO. SAT. LEI 9.732/98. LEI COMPLEMENTAR. DESNECESSIDADE. FINANCIAMENTO DA APOSENTADORIA ESPECIAL. LEGALIDADE.
+    1. Encontra-se assente a jurisprudência pátria no sentido de que a contribuição social a que se refere o art. 195, I, da Constituição Federal, não está a depender de lei complementar para a sua instituição. O requisito formal da lei complementar somente é exigível quando se tratar de tributo que não se tenha sido definido na própria Lei Maior.
+    2. Constitucionalidade da cobrança da contribuição ao SAT reconhecida pelo Supremo Tribunal Federal, ratificada a sua cobrança pelo Superior Tribunal de Justiça. Precedentes.
+    3. Esta Corte possui entendimento firmado pela constitucionalidade do art. 22, II, da Lei 8.212/91, com a redação dada pela Lei 9.732/98, o qual estabelece que a contribuição para o custeio do Seguro de Acidente do Trabalho também financiará o benefício da aposentadoria especial. Precedentes.
+    4. Apelação do impetrante desprovido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário desta Suprema Corte, ao julgar o RE 343.446/SC, Rel. Min. CARLOS VELLOSO, fixou entendimento que torna inacolhível a pretensão deduzida pela parte ora recorrente:
+    “– CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO: SEGURO DE ACIDENTE DO TRABALHO – SAT. Lei nº 7.787/89, arts. 3º e 4º; Lei nº 8.212/91, art. 22, II, redação da Lei nº 9.732/98. Decretos nº 612/92, nº 2.173/97 e nº 3.048/99. C.F., artigo 195, § 4º;  art. 154, II; art. 5º, II; art. 150, I.
+    I. – Contribuição para o custeio do Seguro de Acidente do Trabalho – SAT: Lei nº 7.787/89, art. 3º, II; Lei nº 8.212/91, art. 22, II: alegação no sentido de que são ofensivos ao art. 195, § 4º, c/c art. 154, I, da Constituição Federal: improcedência. Desnecessidade de observância da técnica da competência residual da União, C.F., art. 154, I. Desnecessidade de lei complementar para a instituição da contribuição para o SAT.
+    II. – O art. 3º, II, da Lei nº 7.787/89, não é ofensivo ao princípio da igualdade, por isso que o art. 4º da mencionada Lei nº 7.787/89 cuidou de tratar desigualmente aos desiguais.
+    III. – As Leis nº 7.787/89, art. 3º, II, e nº 8.212/91, art. 22, II, definem, satisfatoriamente, todos os elementos capazes de fazer nascer a obrigação tributária válida. O fato de a lei deixar para o regulamento a complementação dos conceitos de ‘atividade preponderante’ e ‘grau de risco leve, médio e grave’, não implica ofensa ao princípio da legalidade genérica, C.F., art. 5º, II, e da legalidade tributária, C.F., art. 150, I.
+    IV. – Se o regulamento vai além do conteúdo da lei, a questão não é de inconstitucionalidade, mas de ilegalidade, matéria que não integra o contencioso constitucional.
+    V. – Recurso extraordinário não conhecido.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Impõe-se registrar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 809.496-AgR/AM, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.077.500/SP, Rel. Min. ROSA WEBER – RE 365.913-AgR-ED/RS, Rel. Min. EROS GRAU – RE 973.777/SP, Rel. Min. LUIZ FUX, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 28 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
