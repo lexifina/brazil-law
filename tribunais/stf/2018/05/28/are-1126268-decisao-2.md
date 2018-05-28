@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo, reformando parcialmente o entendimento do Juízo, julgou procedentes os pedidos de ascensão funcional e de pagamento retroativo, nos termos da legislação de regência. No extraordinário cujo trânsito busca alcançar, a recorrente alega violados os artigos 5º, inciso XXXV, 37, cabeça e inciso XV, e 39, § 1º, da Constituição Federal. Entende contrariados os princípios da irredutibilidade de vencimentos e da eficiência. Discorre sobre o direito adquirido à avaliação de forma retroativa pra fins de promoção horizontal.
+    2. De início, quanto à evocação do enquadramento do extraordinário na alínea "c" do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco do agravante, uma vez que não se declarou a validade de lei ou ato de governo local contestado em face da Constituição Federal.
+    No mais, colho da decisão recorrida o seguinte trecho:
+    Restou incontroverso nos autos que a Municipalidade de São Bernardo do Campo não implementou o sistema de ascensão funcional instituído pelo Capítulo IV da Lei Municipal nº 2.240/1976, salvo quanto ao benefício denominado senhoridade, que equivale ao adicional por tempo de serviço, destinado exclusivamente aos funcionários sob regime estatutário (art. 411, inc. I I I ), merecendo ser observado que referido sistema ainda permanece em vigor no ordenamento jurídico municipal, inobstante as alterações pontuais promovidas pelas Leis Municipais nº 2.386/ 1979 e nº 4.473/ 1997.
+    [...]
+    É certo, ainda, que cabe ao Município a verificação quanto ao atendimento dos requisitos legais para realização da ascensão funcional de cada um de seus servidores, não havendo com o determinar o pagamento das diferenças pleiteadas de forma automática, que equivaleria a considerar o preenchimento integral dos requisitos objetivos e subjetivos por todos os servidores municipais.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso. Divergir deste entendimento demandaria, em última análise, o reexame dos elementos probatórios, o que é vedado em sede de extraordinário.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à análise das Leis Municipais n° 2.240/1976, 2.386/1979 e nº 4.473/1997. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo interposto por Rosana Mina Okada Feres e o desprovejo.
+    4. Publiquem.
+Brasília, 28 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
