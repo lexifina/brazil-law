@@ -1,0 +1,8 @@
+DESPACHO:
+    Recebo os presentes embargos como agravo interno, tendo em vista sua pretensão meramente infringente.
+    Intime-se a parte recorrente para complementar as razões recursais, de modo a ajustá-las às exigências do art. 1.021, § 1º, no prazo previsto no art. 1.024, § 3º, do CPC/2015.
+    À Secretaria Judiciária, para reautuar como agravo interno.
+    Publique-se.
+          Brasília, 28 de maio de 2018.
+Ministro Luís Roberto Barroso
+Relator
