@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “AÇÃO ORDINÁRIA APOSENTADOS/PENSIONSITAS DA EXTINTA FEPASA Pretensão voltada ao recebimento do adicional por tempo de serviço.
+    PRESCRIÇÃO Prescrição do fundo de direito arguida em contrarrazões afastada Aplicação da Súmula 85 do STJ, que se posicionou que, nos presentes casos, não ocorre a prescrição do fundo de direito, mas apenas a parcelar quinquenal.
+     MÉRITO Impossibilidade de extensão do adicional por tempo de serviço aos pensionistas e aposentados da FEPASA. Inaplicabilidade do art. 129 da Constituição Estadual. Funcionários que eram regidos pela CLT. Ação julgada improcedente.
+    Sentença mantida. Recurso desprovido” (pág. 140 do documento eletrônico 1).
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, violação aos arts. 5°, caput, e 25 da mesma Carta.
+    O recurso não merece acolhida.
+    Isso porque o Tribunal de origem decidiu a questão posta nos autos com base nos seguintes fundamentos:
+    “A Lei Estadual nº 9.343/1996 apenas garante aos aposentados e pensionistas da extinta FEPASA o reajuste com base nos mesmos índices e datas aplicados aos salários dos servidores da ativa, sem que isso configure plena equiparação reenquadramento indireto aos atuais cargos da CPTM. […]
+    Como se vê, a prerrogativa dos aposentados e pensionistas da extinta FEPASA limita-se a obter reajuste pelos mesmos índices concedidos aos funcionários da ativa da CPTM, e não à equiparação dos cargos antigos, que serviram de fundamento para o benefício, com os cargos atuais da CPTM .
+    […]
+    Os autores sujeitam-se ao Regime Geral de Previdência Social, eis que os respectivos segurados eram regidos pela Consolidação das Leis do Trabalho. Sendo assim, não integram o quadro dos servidores públicos do Estado, motivo pelo qual não se-lhes-aplica o artigo 129 da Constituição Estadual […]
+    Assim, o adicional por tempo de serviço, vantagem prevista na Lei nº 10.261/68 - Estatuto dos Funcionários Públicos Civis do Estado de São Paulo -, conferido aos funcionários públicos nos termos da Constituição Estadual de 1989, não é extensível aos autores”(págs. 143-144 do documento eletrônico 1).
+    Dessa forma, verifica-se que o Tribunal de origem decidiu a questão posta nos autos tão somente com fundamento na interpretação da legislação infraconstitucional local aplicável à espécie (Leis estaduais 10.261/1968 e 9.343/1996 e Constituição do Estado de São Paulo). Sendo assim, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada às referidas normas pelo juízo a quo, o que é vedado pela Súmula 280/STF. Nesse sentido, destaco os seguintes precedentes:
+    “Ementa: Agravo regimental em recurso extraordinário com agravo. 2. Direito administrativo. Adicional de tempo de serviço. Servidores inativos e pensionistas da extinta FEPASA. Análise de legislação infraconstitucional (Decreto 35.530/1959 e Lei 10.470/1971) e de cláusulas contratuais. Enunciado 454 da Súmula do STF. Precedentes. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (ARE 667.445-AgR/SP, Rel. Min. Gilmar Mendes, segunda turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO DO ESTADO DE SÃO PAULO. ADICIONAL DE SEXTA PARTE. QUINQUÊNIOS. LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. As normas contidas no artigo 129 da Constituição do Estado de São Paulo dizem respeito tão-somente ao Direito local. Para dissentir-se do acórdão recorrido seria necessário o reexame de legislação local, circunstância que impede a admissão do recurso extraordinário ante o óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 593.098-AgR/SP, Rel. Min. Eros Grau, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) os honorários advocatícios anteriormente fixados pelo Juízo de origem, observados os limites do art. 85, § 2° e § 3°, do CPC e eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 28 de maio de 2018.
+Ministro Ricardo Lewandowski
+Relator
