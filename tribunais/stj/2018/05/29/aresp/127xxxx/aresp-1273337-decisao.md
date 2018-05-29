@@ -1,0 +1,28 @@
+DECISÃO
+1. Cuida-se de agravo interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA APELAÇÃO CÍVEL - AÇÃO DE BUSCA E APREENSÃO - PROTESTO POR EDITAL ANTECEDIDA POR NOTIFICAÇÃO EXTRAJUDICIAL PROMOVIDA POR ESCRITÓRIO DE ADVOCACIA - NÃO CONSTITUIÇÃO DA MORA - PRESSUPOSTO DE VALIDADE E REGULAR DESENVOLVIMENTO DO PROCESSO - RECURSO IMPROVIDO.
+1. A comprovação da mora do devedor consiste em pressuposto de constituição e desenvolvimento válido do processo de busca e apreensão com base no DL 911/66, consoante já sedimentou o colendo STJ no enunciado sumular n.º 72.
+2. No caso dos autos, a agravante buscou demonstrar a constituição do devedor em mora por meio do protesto do título por edital sem antes proceder à tentativa de intimação pessoal do agravado. A despeito de valida a comprovação da mora por meio do protesto do titulo efetivado por edital, tal medida é admitida apenas quando caracterizada alguma das hipóteses previstas no art. 15, da Lei 9.492/97.
+3. Muito embora não se exija a notificação pessoal do devedor, bastando que seja enviada ao endereço constante no contrato, no çaso concreto, não se verifica a comprovação da notificação por carta registrada expedida por intermédio de Cartório de Títulos e Documentos. A notificação extrajudicial foi expedida por escritório de advocacia, enviada pela Empresa Brasileira de Correios ecTelégrafos.
+4. Recurso improvido.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto no art. 2º, § 2º, do Decreto Lei n. 911/1969.
+Argumenta, em síntese, que é válida a notificação extrajudicial por carta com aviso de recebimento, enviada pelo próprio escritório de advocacia, "não sendo mais necessário que a notificação seja expedida por Cartório de Títulos,  .. ".
+É o relatório. DECIDO.
+2. Ao apreciar a controvérsia, o Tribunal local assim consignou:
+O caso é que, muito embora não se exija a notificação pessoal do devedor, bastando que seja enviada ao endereço constante no contrato, no caso concreto, não se verifica a comprovação da notificação por carta registrada expedida por intermédio de Cartório de Títulos e Documentos. A notificação extrajudicial foi expedida por escritório de advocacia, enviada pela Empresa Brasileira de Correios e Telégrafos (fl. 27).
+Assim, nota-se que o Tribunal Estadual decidiu em consonância com a jurisprudência desta Corte, no sentido de que, nos pedidos de busca e apreensão de bem alienado fiduciariamente, é dispensável a notificação pessoal do devedor para a comprovação de sua mora, bastando, para tanto, a entrega de notificação extrajudicial, realizada por intermédio do Cartório de Títulos e Documentos, no endereço do devedor.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO. AJUIZAMENTO DE AÇÃO REVISIONAL. DEPÓSITO DE PARCELAS. SUSPENSÃO DA AÇÃO CAUTELAR. INOCORRÊNCIA. NOTIFICAÇÃO PESSOAL DO DEVEDOR. DESNECESSIDADE. MORA CARACTERIZADA. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. "A simples propositura da ação de revisão de contrato não inibe a caracterização da mora do autor" (Súmula n. 380 do STJ).
+2. "Nos contratos firmados na vigência da Lei n. 10.931/2004, compete ao devedor, no prazo de 5 (cinco) dias após a execução da liminar na ação de busca e apreensão, pagar a integralidade da dívida - entendida esta como os valores apresentados e comprovados pelo credor na inicial -, sob pena de consolidação da propriedade do bem móvel objeto de alienação fiduciária". (Recurso Especial Representativo da Controvérsia n. 1.418.593/MS, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/5/2014, DJe 27/5/2014).
+3. A jurisprudência desta Corte consolidou o entendimento de que, para a comprovação da mora nos contratos de alienação fiduciária, é necessária a notificação extrajudicial, por meio de cartório de títulos e documentos, entregue no endereço do devedor, dispensada a notificação pessoal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 928.565/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/10/2016, DJe 24/10/2016 - grifou-se)
+AGRAVOS INTERNOS NO AGRAVO EM RECURSO ESPECIAL. DUPLICIDADE DE RECURSOS. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO. NOTIFICAÇÃO EXTRAJUDICIAL. NÃO COMPROVAÇÃO. NECESSIDADE. MORA NÃO CONFIGURADA. AGRAVO NÃO PROVIDO.
+1. A interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões.
+2. A mora do devedor deve ser comprovada por notificação extrajudicial realizada por intermédio do Cartório de Títulos e Documentos a ser entregue no domicílio do devedor, sendo dispensada a notificação pessoal, ou, quando esgotados todos os meios para localizar o devedor, pelo protesto do título por edital, o que não ocorreu no presente caso. Precedentes.
+3. Agravo interno de fls. 258/273 a que se nega provimento e agravo interno de fls. 277/311 não conhecido.
+(AgInt no AREsp 889.096/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4/8/2016, DJe 12/8/2016 - grifou-se)
+Desse modo, estando o acórdão recorrido em conformidade com a jurisprudência do STJ, incide a Súmula 83 do STJ, impedindo o conhecimento do recurso por ambas as alíneas.
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
