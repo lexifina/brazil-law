@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 119):
+    “RECURSOS DE APELAÇÃO AÇÃO DE PROCEDIMENTO ORDINÁRIO - DIREITO ADMINISTRATIVO E PREVIDENCIÁRIO BENEFÍCIO DE PENSÃO POR MORTE NOVO MATRIMÔNIO DO BENEFICIÁRIO – PRETENSÃO DO INSTITUTO PREVIDENCIÁRIO À RESTITUIÇÃO DOS VALORES INDEVIDAMENTE ADIMPLIDOS - POSSIBILIDADE. 1. Preliminarmente, inocorrência de cerceamento de defesa, pois, as provas pretendidas são desnecessárias à solução da questão controvertida. 2. Incidência da prescrição quinquenal, com relação à devolução dos valores. 3. No mérito, a pretensão deduzida, fundamentada na ocorrência de novo matrimônio, autoriza o cancelamento do benefício, nos termos da legislação pertinente. 4. Aplicação dos artigos 23, II, da Lei Estadual nº 9.157/80 e 16 da Lei Estadual nº 10.828/90. 5. Restituição, autorizada. 6. Precedentes da jurisprudência deste E. Tribunal de Justiça. 7. Ação de procedimento ordinário, julgada parcialmente procedente. 8. Sentença, ratificada. 9. Recursos de apelação, apresentados pelas partes litigantes, desprovidos.”
+    No recurso extraordinário, com fundamento no art. 102, a, do permissivo constitucional, aponta-se ofensa ao art. 37, § 5º, da Carta da República.
+    Nas razões recursais, alega-se que “o IPREM teve um prejuízo patrimonial decorrente do pagamento indevido de pensão a sua ex-pensionista.” (eDOC 1, p. 136).
+    Afirma-se, ainda, que deve ser aplicado o disposto no art. 37, § 5º, da CF, uma vez que é imprescritível o ressarcimento nas hipóteses de prejuízo ao erário público (eDOC 1, p. 137).
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário com base na Súmula 636 do STF (eDOC 1, p. 142-143).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    No tocante ao prazo prescricional das ações judiciais tendentes ao ressarcimento do erário público, a decisão deu-se com fundamento em legislação infraconstitucional (Decreto Federal 20.910/1932), de modo que eventual divergência em relação ao entendimento adotado esbarra na impossibilidade de conhecer-se de ofensa indireta à Constituição. Nesse sentido:
+    “EMENTA: Agravo regimental em recurso extraordinário com agravo. 2. Ação de indenização contra a Fazenda Pública. Prazo prescricional. Decreto 20.910/1932. Matéria infraconstitucional. Ofensa indireta ao texto constitucional. 3. Alegação de ofensa ao inciso IX do art. 93 da Constituição Federal. Inexistência. Precedente. AI-QO-RG 791.292. 4. Agravo regimental a que se nega provimento.” (ARE 798.346-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 29.4.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E ADMINISTRATIVO. PRESCRIÇÃO QUINQUENAL. DECRETO N. 20.910/1932. SUBSISTÊNCIA DO FUNDAMENTO DE NATUREZA INFRACONSTITUCIONAL. SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (RE-AgR 829.607, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 1º.12.2014).
+     Ante o exposto, nego provimento ao agravo, nos termos do art. 932, a, do CPC e 21, § 1º, do RISTF.
+    Nos termos do art. 85, § 11, do CPC, majoro em 1/4 (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo, bem como os §§ 3º e 4º do art. 98.
+    Ressalto, ainda, que a compensação recíproca dos honorários advocatícios determinada na primeira instância (eDOC 1, p. 72), refere-se unicamente ao mínimo legal, restando à parte sucumbente a condenação ao pagamento do valor excedente à compensação no caso, 1/4 (um quarto) sobre o valor fixado na origem como consequência da majoração ora operada.
+    Publique-se.
+    Brasília, 29 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
