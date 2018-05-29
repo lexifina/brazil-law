@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por SERGIO DA COSTA, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (e-STJ fls. 780/781):
+APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. AUSÊNCIA DE FATO NOVO. PREQUESTIONAMENTO.
+1. Constitui medida imperativa o desprovimento do Agravo Regimental quando este não evidencia em suas razões qualquer novo argumento que justifique a modificação da decisão que negou seguimento ao recurso apelatório interposto.
+2. Ao Poder Judiciário não é dada a atribuição de órgão consultivo, descabendo a este se manifestar expressamente sobre cada dispositivo legal mencionado pelos litigantes, mas si resolver a questão posta em juízo.
+AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO. DECISÃO MONOCRATICA MANTIDA.
+Nas suas razões, a parte recorrente aponta violação do art. 511, §2º, sustentando que a intimação para o complemento do preparo efetivou-se por meio do Diário de Justiça Eletrônico, quando deveria ter sido ser pessoal, por se dirigir à parte e, não, a seus advogados.
+Sem contrarrazões (e-STJ fl. 819).
+Juízo positivo de admissibilidade pelo Tribunal a quo (e-STJ fls. 823/824).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Isso considerado, verifico que a irresignação recursal merece prosperar.
+O Superior Tribunal de Justiça possui entendimento, erigido ainda sob as luzes do CPC/1973, de ser possível a complementação do preparo quando recolhida, no ato da interposição do recurso, qualquer uma das guias previstas, devendo ser oportunizada à parte a regularização.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PRELIMINAR DE DESERÇÃO. RECOLHIMENTO DO PORTE DE REMESSA E RETORNO E AUSÊNCIA DE PAGAMENTO DAS CUSTAS LOCAIS. COMPLEMENTAÇÃO DE PREPARO EFETUADA. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. SISTEMÁTICA ANTERIOR À LEI N. 11.382/2006. CONVERSÃO DA EXECUÇÃO PARA ENTREGA DE COISA EM EXECUÇÃO DE QUANTIA CERTA. EXECUÇÃO DA OBRIGAÇÃO SUBSTITUTIVA. NECESSIDADE DE NOVA CITAÇÃO DO EXECUTADO, SENDO-LHE FACULTADA, APÓS A GARANTIA DO JUÍZO, O OFERECIMENTO DE EMBARGOS, OS QUAIS PODEM DISCUTIR INCLUSIVE A ORIGEM DA DÍVIDA (ART. 745 DO CPC, NA REDAÇÃO ANTERIOR). RECURSO ESPECIAL PROVIDO. PRECEDENTES.
+1. O preparo recursal compreende o recolhimento de todas as verbas previstas em norma legal, indispensáveis ao processamento do recurso (custas, taxas, porte de remessa e retorno etc.). Nesse contexto, admite-se a "complementação do preparo", mesmo em período anterior à edição da Lei n. 9.756/1998 - que acrescentou o § 2º ao art. 511 do CPC -, quando recolhida, ainda que parcialmente, alguma das verbas que compõem o preparo e não recolhidas integralmente as demais.
+2. No caso concreto, recolhido integralmente o "porte de remessa e retorno" e ausente o pagamento das "custas judiciais" devidas na origem para o processamento do recurso especial, tem-se como correto o posterior recolhimento das referidas custas a título de complementação de preparo, na forma do art. 511, § 2º, do CPC, o qual se aplica, também, aos recursos dirigidos ao Superior Tribunal de Justiça. Precedentes do STJ e do STF.
+(..)
+7. Preliminar de deserção afastada e recurso especial provido. (REsp 844440/MS, Relator Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, DJe 11/06/2015).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. PREPARO. PAGAMENTO DE CUSTAS LOCAIS E RECOLHIMENTO DE PORTE DE REMESSA E RETORNO. POSSIBILIDADE DE COMPLEMENTAÇÃO. DESERÇÃO AFASTADA. RETORNO DOS AUTOS À ORIGEM.
+1. A Corte Especial, no julgamento do REsp 844.440/MS, assentou entendimento no sentido de admitir a complementação do preparo quando recolhida, no ato da interposição do recurso, qualquer uma das guias previstas.
+2. Na espécie, pagas as custas locais e recolhido de forma insuficiente o porte de remessa e retorno, admite-se a complementação do preparo, nos termos do art. 511, § 2º, do CPC.
+Agravo regimental não provido. (AgRg no AREsp 143.033/RJ, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 15/12/2015, DJe 02/02/2016).
+O referido entendimento se mantém com o novo Código de Processo Civil/2015, que prevê, no art. 1.007, §2º, que "a insuficiência no valor do preparo, inclusive porte de remessa e de retorno, implicará deserção se o recorrente, intimado na pessoa de seu advogado, não vier a supri-lo no prazo de 5 (cinco) dias".
+Na hipótese, verifica-se que o recorrente, intimado a recolher o valor faltante, de acordo com a previsão legal do §2º do art. 511 do CPC/1973, deixou de adimplir o comando judicial, conforme registrado pelo Tribunal de origem, in verbis:
+O Agravo deve ser conhecido, por ser próprio e tempestivo, porém não merece acolhimento.
+Extrai-se dos autos que o escopo da presente pretensão recursal não é outro senão atacar a decisão monocrática que já pontuou acerca do assunto debatido.
+Os argumentos foram exaustivamente analisados no bojo da decisão monocrática agravada, razão pela qual adoto como razões de decidir as ali expendidas, quando naquela oportunidade asseverei:
+(..) O recurso é próprio, mas não ultrapassa o juízo de admissibilidade, face a ausência de complementação do preparo, razão pela qual se torna comportável o julgamento monocrático, nos termos do artigo 557, caput, do Código de Processo Civil.
+O Apelante protocolizou o presente recurso mediante o preparo, o qual foi tido como insuficiente, segundo a Certidão da Diretoria do Serviço de conferência e Contadoria Judicial.
+Intimado a recolher o valor faltante, de acordo com a previsão legal do §2º do art. 511 do CPC, o recorrente deixou de adimplir o comando judicial, conforme atestado pela certidão e i tida pela secretaria da 6ª Câmara Civil. Logo, o presente recurso se encontra deserto, pois operada a preclusão temporal do direito do interessado de complementar o preparo realizado a menor.
+(..)
+Vale ressaltar que tem-se por descabida a tese recursal aduzindo a necessidade; de intimação pessoal da parte para a complementação do preparo, e a possibilidade da sua realização após o prazo concedido, por tratar-se de diferença ínfima.
+Isto porque, para a devida providência basta a intimação da parte pelo Diário da Justiça. De outra banda, a realização do preparo complementar deve ocorrer no prazo estipulado pelo § 2º do artigo 511 do Código de Processo Civil, qual seja, 05 (cinco) dias, sob pena de preclusão temporal, conforme já explicitado na decisão vituperada.
+Segundo a jurisprudência desta Corte de Justiça, mostra-se desnecessária a intimação pessoal da parte recorrente para o complemento das custas judiciais, notadamente quando intimada por meio de seu advogado, pelo Diário de Justiça.
+A propósito, mutatis mutandis:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA DA SÚMULA 83/STJ.
+1. É desnecessária a intimação pessoal do autor, prevista no art. 267, § 1º, do CPC/73, para extinção do processo sem resolução do mérito ante o indeferimento da inicial (art. 267, I, do CPC/73) por ausência de complementação das custas iniciais, notadamente quando intimado por meio de seu advogado, a parte deixa de emendar a inicial.
+2. Agravo interno a que se nega provimento. (AgInt no AREsp 864530/RS, Relatora Ministra MARIA ISABEL GALLOTTI, Órgão Julgador T4 - QUARTA TURMA, DJe 21/09/2016)
+PROCESSUAL CIVIL - COMPLEMENTAÇÃO DAS CUSTAS - INTIMAÇÃO PESSOAL - ART. 257 DO CPC - PRECEDENTE DA CORTE ESPECIAL.
+1. É desnecessária a intimação pessoal da parte para a complementação das despesas processuais quando formada a relação processual com a citação, nos termos do art. 257 do Código de Processo Civil, bastando para a regularidade processual a intimação pelo diário oficial do respectivo advogado.
+2. Precedentes: EREsp 264.895/PR, Rel. Min. Ari Pargendler, Corte Especial, julgado em 19.12.2001, DJ 15.4.2002, p. 156 e REsp 531.293/MG, Rel. Min. Eliana Calmon, Segunda Turma, julgado em 14.12.2004, DJ 28.2.2005, p. 282. Agravo regimental provido. (AgRg no REsp 1149509/MG, Relator Ministro HUMBERTO MARTINS, Órgão Julgador T2 - SEGUNDA TURMA, DJe 25/05/2010)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DESERÇÃO. GUIA LOCAL RECOLHIDA A MENOR. INSUFICIÊNCIA DO PREPARO. INCIDÊNCIA DO ART. 511, § 2º, DO CPC. NÃO RECOLHIMENTO APÓS INTIMAÇÃO. INTIMAÇÃO MEIO ELETRÔNICO. POSSIBILIDADE. RECURSO DESPROVIDO.
+1. Nos casos em que o preparo for recolhido a menor, a parte recorrente deve ser intimada para efetuar a complementação, por tratar-se de caso de insuficiência de preparo, e não de falta.
+2. Incide a Súmula n.187/STJ nos casos em que a parte devidamente intimada a complementar o preparo do recurso mantém-se inerte.
+3. Nos termos do art. 4º, §§ 2º e 3º, da Lei n. 11.419/06 a publicação eletrônica substitui qualquer meio de publicação oficial, exceto nos casos em que a lei exija intimação pessoal.
+4. Agravo regimental desprovido.(AgRg no AREsp 532646/RJ, Relator Ministro JOÃO OTÁVIO DE NORONHA, Órgão Julgador T3 - TERCEIRA TURMA, DJe 21/09/2015)
+Assim, forçoso convir que o acórdão recorrido encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a aplicação da Súmula 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é cabível quando o recurso especial é interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+ Publique-se. Intimem-se.
