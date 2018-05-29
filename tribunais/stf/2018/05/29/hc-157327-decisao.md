@@ -1,0 +1,25 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra acórdão proferido no âmbito do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC 434.023/SP.
+    Narra o impetrante que: a) o paciente foi condenado pela suposta prática do delito previsto no art. 155, § 4º, II c/c art. 14, II, ambos do Código Penal, à pena de 01 (um) ano, 04 (quatro) meses e 10 (dez) dias de reclusão, em regime inicial semiaberto; b) a defesa interpôs apelação, que foi parcialmente provida para diminuir a pena para 01 (um) ano, 03 (três) meses e 22 (vinte e dois) dias de reclusão, todavia “sobre os maus antecedentes, o Relator entendeu que as condenações em que ultrapassado o prazo previsto no artigo 64, I, do Código Penal, embora não gerem reincidência, podem ser consideradas como circunstâncias judiciais, a título de maus antecedentes“; c) há evidente constrangimento ilegal na dosimetria da pena exarada pelas instâncias antecedentes, pois “o aumento da pena em razão de condenações antigas é ilegal (por 3 violar o disposto no art. 64, inciso I, do Código Penal), inconstitucional (por violação do artigo 5º, XLVII, b, da Constituição Federal), atentatório aos direitos humanos (por violação ao direito fundamental ao esquecimento), além do que, não se vislumbra fundamentação idônea para a fixação da pena-base acima do mínimo legal”.
+    À vista do acima exposto, requer o afastamento do aumento de pena do paciente em razão dos supostos maus antecedentes, a fim de reduzi-la ao piso legal.
+    É o relatório. Decido.
+    1. Cabimento do habeas corpus:
+    O sistema de recursos e meios de impugnação previsto na Constituição Federal, lida como regra de distribuição de competências, tem uma razão de ser. Até então, acompanhando entendimento fixado na Primeira Turma, sustentei que não há como se admitir habeas corpus impetrado em substituição a instrumento recursal constitucionalmente previsto, como é o recurso ordinário. Nesse sentido:
+    “A Primeira Turma do Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade do uso da ação de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal.” (HC 128617 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 04.08.2015).
+     Contudo, a Segunda Turma desta Corte uniformizou posicionamento para admitir writ substitutivo de recurso ordinário constitucional. Nessa esteira:
+    “A Segunda Turma do Supremo Tribunal Federal admite a impetração de habeas corpus em substituição ao recurso ordinário constitucional (art. 102, II, a, da Constituição Federal). (HC 122.268, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 24/03/2015, PROCESSO ELETRÔNICO DJe-152 DIVULG 03-08-2015 PUBLIC 04-08- 2015, grifei).
+    Outros precedentes: HC 112.836, Ministra Cármem Lúcia, DJe 15.8.2013 e HC 116.437, Relator Ministro Gilmar Mendes, DJe 19.6.2013.
+    Sendo assim, ressalvado posicionamento pessoal sobre a matéria, agora como integrante da Segunda Turma, em observância ao princípio da colegialidade, admito o habeas corpus.
+    2. No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    O impetrante insurge-se quanto à exasperação da pena-base, em virtude de supostos antecedentes que estariam contemplados no prazo depurador a que alude o art. 64, I do CP. Contudo, não acostou aos autos os documentos indispensáveis para aferição da ilegalidade.
+    Com efeito, olvidou-se de instruir o feito com cópia da certidão de antecedentes criminais, documento indispensável para verificar se as duas condenações pretéritas por crime de furto, a que alude o TJSP em acórdão proferido em sede de apelação, estariam contempladas no prazo depurador estabelecido pelo Código Penal.
+    Assim, a instrução deficitária inviabiliza a análise do constrangimento ilegal invocado pelo impetrante e a concessão da ordem pleiteada.
+    Acrescente-se que, consoante reiterada jurisprudência da Corte, “constitui ônus do impetrante instruir adequadamente o writ com os documentos necessários ao exame da pretensão posta em juízo” (HC 95.434/SP, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 2.10.09). Na mesma linha: HC 130240 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 24.11.2015 e HC 131202 AgR, Relator(a): Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 03.03.2016.
+    Na mesma linha, é consolidado nesta Corte o entendimento acerca da impossibilidade de emenda à impetração, haja vista que o habeas corpus, “instrumento destinado à proteção de direito líquido e certo, demonstrável de plano, que não admite dilação probatória” (HC 103606, Relator(a): Min. RICARDO LEWANDOWSKI, Primeira Turma, julgado em 21/09/2010).
+    Destarte, ausente hipótese de constrangimento ilegal, não é o caso de concessão da ordem.
+    3. Posto isso, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 29 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
