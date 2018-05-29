@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da Terceira Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio de Janeiro, assim ementado (e-DOC 1, p. 113):
+    “DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. GDASS. JULGAMENTO DIVERSO DA CAUSA DE PEDIR. EMBARGOS CONHECIDOS E PROVIDOS. NOVO JULGAMENTO. INEXISTÊNCIA DE DIREITO À PARIDADE ENTRE SERVIDORES INATIVOS E ATIVOS CEDIDOS. LEGISLAÇÃO PRÓPRIA. AUSÊNCIA DE CARÁTER GENÉRICO (...)”
+    Os embargos de declaração opostos foram desprovidos (eDOC 1, p. 129).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 40, § 8º, da Constituição Federal, além dos arts. 3º, I, II e III, e 7º da EC 41/03.
+    Nas razões recursais, sustenta-se, em suma, que deve ser assegurada aos inativos a mesma percepção da Gratificação de Desempenho de Atividade do Seguro Social – GDASS paga aos servidores ativos cedidos, em face do princípio da isonomia.
+    O Tribunal a quo inadmitiu o recurso extraordinário por se tratar de matéria infraconstitucional e pela incidência da Súmula 279 do STF (eDOC 2, p. 9-10).
+    É o relatório. Decido.
+    Com efeito, o Tribunal de origem, ao decidir a questão refutando os fundamentos da recorrente, assim concluiu:
+    “A recorrente informa estar aposentada desde 2005 com proventos regidos pelo princípio da paridade e da integralidade. Citando a GDASS, reconhece que a gratificação foi genérica até abril/2009, quando se tornou pro labore faciendo a partir do primeiro ciclo de avaliação então estabelecido.
+    Segundo relata, mesmo após essa avaliação ter sido realizada interna corporis no dia 01/05/2009, a gratificação permaneceu genérica em relação a diversos servidores do INSS que se encontram cedidos ou requisitados a outros órgãos e Poderes, em clara afronta ao princípio da isonomia. Diante desse fato novo, surgiu uma nova causa de pedir quanto à questão da paridade.
+     Cita o art. 15 da Lei 10.855/2004, que dispõe sobre o modo da gratificação ser paga aos servidores cedidos ou colocados à disposição de outros órgãos ou Poderes. Também faz referência ao parágrafo único do art. 16 do Decreto 6.493/2008, que regulamentou a Lei 10.855/2004, para dizer que a parcela institucional da GDASS será paga de acordo com os resultados da avaliação institucional obtidos pela gerência executiva ou unidade organizacional de origem em que o servidor estiver trabalhando (...).
+     A sentença merece ser confirmada por seus próprios fundamentos, até mesmo porque a autora não provou, nos autos, que os servidores cedidos não foram submetidos à avaliação institucional e que a gratificação continua genérica”.
+    Assim, para divergir do entendimento do Tribunal a quo, seria necessário o reexame do conjunto fático-probatório constante dos autos, bem como a análise da legislação infraconstitucional aplicável à espécie (Lei 10.855/2004), o que inviabiliza o processamento do apelo extremo, nos termos da jurisprudência do STF e tendo em vista a vedação contida na Súmula 279 do STF.
+    Nesse sentido, vejam-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO DO PODER EXECUTIVO CEDIDO A OUTRO PODER. GRATIFICAÇÃO DE DESEMPENHO DO PLANO GERAL DE CARGOS DO PODER EXECUTIVO – GDPGPE. LEI Nº 11.357/2006. EXTENSÃO. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO” (RE 823.376-AgR/DF, Rel. Min. Luiz Fux, Primeira Turma, DJe 01.06.2016).
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. ISONOMIA ENTRE FUNCIONÁRIOS INATIVOS E SERVIDORES ATIVOS CEDIDOS OU REQUISITADOS PARA OUTROS ÓRGÃOS QUE PERCEBEM A GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DO SEGURO SOCIAL (GDASS) SEM AVALIAÇÃO INSTITUCIONAL. NECESSIDADE DE EXAME DE MATÉRIA INFRACONSTITUCIONAL E DE REAPRECIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO (...)” (ARE 959.453-AgR/RJ, Rel. Min. Teori Zavascki, Segunda Turma, DJe 20.10.2016).
+    Aponto, ainda, em casos específicos em que se discutiu a questão debatida nestes autos, as seguintes decisões monocráticas: ARE 1.018.349/RJ, Rel. Min. Celso de Mello, 03.03.2017; ARE 1.030.245/RJ, de minha relatoria, DJe 05.06.2017 e ARE 1.004.480/RJ, Rel. Min. Alexandre de Moraes, DJe 05.03.2018.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a”, do CPC e art. 21, § 1º, do RISTF.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC, em virtude da ausência de fixação de honorários pelo Turma de origem (eDOC 1, p. 116).
+    Publique-se.
+    Brasília, 29 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
