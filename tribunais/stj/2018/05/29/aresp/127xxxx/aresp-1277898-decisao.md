@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. VIOLAÇÃO DO ART. 59 DO CP. TESE DE QUE A PENA-BASE FOI MAJORADA COM BASE EM ELEMENTOS ÍNSITOS AO CRIME. QUESTÃO QUE NÃO FOI DEBATIDA NO ACÓRDÃO HOSTILIZADO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AUSÊNCIA DE IMPUGNAÇÃO A UM DOS FUNDAMENTOS DO ACÓRDÃO ATACADO. SÚMULA 283/STF. VIOLAÇÃO DO ART. 33 DO CP. SUPOSTA ILEGALIDADE NO REGIME INICIAL DE PENA. IMPROCEDÊNCIA. PENA SUPERIOR A 4 ANOS. ACUSADO QUE OSTENTA CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. REGIME FECHADO ADEQUADO. PRECEDENTES DESTA CORTE. VIOLAÇÃO DO ART. 387, § 2º, DO CPP. FALTA DE INTERESSE. DETRAÇÃO QUE, AINDA QUE EFETIVADA, NÃO RESULTARIA NO ABRANDAMENTO DO REGIME.
+Agravo conhecido para conhecer em parte do recurso especial e, na parte conhecida, negar-lhe provimento.
+DECISÃO
+Israel [NOME] interpôs recurso especial, fundado no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça de São Paulo, proferido no julgamento da Apelação Criminal n. 0010279-28.2015.8.26.0161, assim ementado (fl. 192):
+Roubo majorado - Elementos de prova que demonstram autoria e materialidade delitivas - Negativa do réu apartada dos dentais dados constantes dos autos - Pleito voltado ao reconhecimento da participação de menor importância afastado - Causo de aumento (concurso de agentes) autenticada - Pena corretamente estabelecida - Fixação de regime fechado ao início de cumprimento - Impossibilidade de substituição por outro menos gravoso - Pleito de detração que deve ser formulado perante o juízo da execução - Recurso desprovido.
+Nas razões, suscitou violação do art. 33, § 2º, b e § 3º, e art. 59, ambos do Código Penal, além do art. 387, § 2º, do Código de Processo Penal.
+Primeiro, aduziu que os fundamentos utilizados para negativar as circunstâncias e consequências do crime são inidôneos, pois calcados em elementos próprios ao crime de roubo.
+Na sequência, alegou que o recorrente faz jus à fixação de regime de pena mais brando (semiaberto).
+Por fim, sustentou que faz jus à detração do tempo de prisão cautelar para fins de fixação de regime inicial de pena mais brando (fls. 204/218).
+A Corte de origem inadmitiu o recurso com fundamento nas Súmulas 284/STF e 7/STJ (fls. 204/218). Daí, sobreveio agravo (fls. 243/248). Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo e, se conhecido, pelo desprovimento do recurso, nos termos do parecer assim ementado (fl. 267):
+AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. INADMISSÃO DE RECURSO ESPECIAL. RECURSO QUE NÃO AFASTA OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. PLEITO DE REVISÃO DA DOSIMETRIA DA PENA. CAUSA DE AUMENTO. UMA MAJORANTE. ACRÉSCIMO DA REPRIMENDA EM 1/3 (UM TERÇO). FUNDAMENTAÇÃO IDÔNEA E CONCRETA. ACÓRDÃO ATACADO QUE ESTÁ DE ACORDO COM O POSICIONAMENTO DESSA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. FIXAÇÃO DO REGIME INICIAL FECHADO PARA CUMPRIMENTO DA PENA. MODUS OPERANDI. PARECER PELO NÃO CONHECIMENTO DO AGRAVO.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Passo, então, ao exame do recurso especial.
+No que se refere à suposta violação do art. 59 do Código Penal, o reclamo é inadmissível, uma vez que a Corte de origem não debateu a tese defensiva, qual seja, de que a pena-base foi majorada tomando por base elementos ínsitos ao crime em comento; tampouco eventual omissão a esse respeito foi suscitada através de aclaratórios, circunstância que atrai a incidência das Súmulas 282 e 356/STF (falta de prequestionamento).
+Ainda nesse ponto, verifico que a defesa do recorrente não infirmou um dos fundamentos lançados pela Corte de origem para manter a pena-base no patamar originariamente fixado, qual seja, a incidência da Súmula 231/STJ. Confira-se (fl. 196):
+ ..
+Isso nada obstante, considerada a menoridade relativa na etapa subsequente, as penas retrocederam ao assoalho da cominação. E com mais do que isso não seria possível aquinhoar o suplicante, invocando-se o entendimento sumulado de nº 231 do Egrégio Superior Tribunal de Justiça a teor do qual "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal.
+ ..
+Logo, no ponto, também incide a Súmula 283/STF.
+No que se refere à suposta violação do art. 33 do Código Penal, o recurso é admissível, mas, no mérito, a irresignação não merece acolhida.
+Em que pese a pena do agravante tenha sido fixada em 5 anos e 4 meses de reclusão, há circunstâncias judiciais negativas sopesadas na primeira fase da dosimetria, elemento apto a justificar a fixação do regime mais gravoso.
+A propósito, confiram-se:
+ ..  4. Tratando-se de réu condenado a pena superior a 4 (quatro) anos e inferior a 8 (oito) anos com circunstâncias judiciais negativas, pois ostenta maus antecedentes, afigura-se escorreita a imposição do regime fechado para cumprimento inicial da pena. Precedentes. Habeas corpus não conhecido.
+(HC n. 333.156/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/2/2017)
+ ..  7. Diante de circunstâncias judiciais desfavoráveis - no caso, as consequências e os antecedentes -, é cabível a fixação do regime fechado, aos condenados não reincidentes, para o início do cumprimento da pena superior a 4 anos e que não exceda a 8 anos, em conformidade com o § 3º do art. 33 do Código Penal.  ..
+(HC n. 370.412/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/10/2016)
+ ..  4. O art. 33, § 3º, do CP dispõe que "a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código". Assim, conquanto ao réu, condenado pela prática do crime de roubo (art. 157, § 2º, inciso II, do CP), tenha sido aplicada pena superior a 4 anos e inferior a 8 anos de reclusão, o registro de circunstância judicial negativa - sopesada na primeira fase da dosimetria (maus antecedentes) -, impede a concessão, desde logo, do regime prisional semiaberto para seu cumprimento.  ..
+(AgRg no AREsp n. 404.824/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/11/2015)
+Por fim, quanto à suposta violação do art. 387, § 2º, do Código de Processo Penal, entendo que o reclamo carece de interesse.
+Ora, ainda que fosse acolhida a tese defensiva, no sentido de que o Tribunal a quo inobservou a regra processual que determina a fixação do regime inicial de pena considerando a detração do tempo de prisão cautelar (art. 387, § 2º, do Código de Processo Penal), o regime inicial fechado seria mantido, pois, como dito acima, está calcado na existência de circunstâncias judiciais negativas.
+Tal o contexto, eventual detração efetivada não provocaria, por si só, alteração no regime estipulado na hipótese.
+Em face do exposto, conheço do agravo para conhecer em parte do recurso especial e, na parte conhecida, negar-lhe provimento.
+Publique-se.
