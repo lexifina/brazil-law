@@ -1,0 +1,31 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. MANDADO DE SEGURANÇA. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE INDEFERIU PEDIDO LIMINAR. POSTERIOR PROLAÇÃO DE SENTENÇA. PERDA DE OBJETO CONFIGURADA. PRECEDENTES DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial do ESTADO DO CEARÁ fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado:
+ADMINISTRATIVO. PROCESSO CIVIL. LICITAÇÃO. LIMITAÇÃO DA TAXA DE ADMINISTRAÇÃO. LIVRE CONCORRÊNCIA. CARÁTER COMPETITIVO DO CERTAME. IMPOSSIBILIADE. RECURSO CONHECIDO E PROVIDO.
+1 - A questão controvertida consiste em analisar a legalidade do estabelecimento de percentual mínimo relativo à taxa de administração como requisito para participação em procedimento licitatório.
+2 - Verifica-se que o percentual mínimo relativo à taxa de administração viola o disposto no art. 40, X, da Lei 8.666/93, aplicável subsidiariamente à Lei do pregão, posto que a aplicação de preço mínimo vai de encontro à finalidade essencial às licitações, qual seja a escolha da proposta mais vantajosa para a Administração.
+3 - Ora, a despeito da finalidade da medida ser a não apresentação de propostas inexequíveis, não nos parece razoável a exigência de preço mínimo no procedimento licitatório em que um dos critérios para contratação é o menor preço, posto que a apresentação de ofertas de menor valor beneficia a Administração.
+4 - Recurso conhecido e provido.
+No recurso especial, o recorrente aponta violação ao artigo 40, inciso X, da Lei 8.666/1993. A parte aduz que não houve violação ao referido dispositivo legal com a previsão editalícia de percentual mínimo para a Taxa de Administração a ser contemplada pelos licitantes, haja vista não tratar-se de preço mínimo, mas sim da composição de custos da empresa. Alega ainda que o intuito do Edital do Pregão Presencial nº 20160019 - SEPLAG, com base nas Taxas de Administração praticadas no mercado, foi estabelecer um limite para que as propostas das empresas participantes do certame não estivessem com valores além do estimado para a contratação, assim como não fossem consideradas inexequíveis ou com valor irrisório, utilizando como parâmetro as licitações realizadas anteriormente para a contratação do mesmo objeto.
+Não foram apresentadas contrarrazões.
+Sobreveio juízo positivo de admissibilidade.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A insurgência não merece prosperar.
+No caso dos autos, foi interposto agravo de instrumento pela recorrida contra decisão do juízo a quo que indeferiu o pedido de medida liminar na qual pretendia a não exclusão de participação de certame público - Pregão Presencial nº 20160019 - SEPLAG (processo de origem nº 0106402-70.2017.8.06.0001).
+Entretanto, consultando o site do Tribunal de origem, verifica-se que houve decisão de mérito nos autos da ação originária, então em curso na Vara da Fazenda Pública da Comarca de Fortaleza/CE, tendo sido denegada a segurança pleiteada pela recorrida.
+Dessa forma, o julgamento do presente recurso especial está prejudicado em face da sua perda de objeto.
+Isso porque é o entendimento desta Corte Superior, que perde o objeto o agravo de instrumento interposto contra decisão que defere ou indefere liminar com a superveniência da prolação de sentença.
+Nesse sentido, os seguintes precedentes desta Corte Superior:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DO RÉU/AGRAVANTE.
+1. "Consoante o entendimento pacífico da jurisprudência desta Corte Superior, a superveniência de sentença de mérito no feito principal enseja a perda de objeto do recurso especial resultante de agravo de instrumento interposto contra decisão concessiva ou denegatória de liminar ou antecipação de tutela, tendo em vista que a sentença absorve os efeitos do provimento liminar, por se tratar de juízo de cognição exauriente." (cf. AgInt nos EDcl no REsp 1651652/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/05/2017, DJe 01/06/2017) 2. Agravo interno desprovido.
+(AgInt no AREsp 922.790/BA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/11/2017, DJe 17/11/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DOS BENS. AGRAVO DE INSTRUMENTO RELATIVO À MEDIDA ANTECIPATÓRIA. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO, JULGANDO IMPROCEDENTE A AÇÃO. PERDA DE OBJETO DO RECURSO ESPECIAL. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. De acordo com a jurisprudência do Superior Tribunal de Justiça, a superveniência de sentença de mérito, seja de procedência ou improcedência, acarreta a perda de objeto do recurso especial, interposto contra decisão interlocutória que decide pedido de liminar ou antecipação dos efeitos da tutela, porquanto o provimento dotado de cognição exauriente absorve os efeitos da medida antecipatória, cumprindo às partes impugnar a sentença, e não mais o deferimento ou indeferimento da liminar ou antecipação dos efeitos da tutela.
+II. Em situações semelhantes à dos presentes autos, em que fora declarada a perda de objeto do Recurso Especial que se insurge contra decisão interlocutória que, em sede de ação de improbidade administrativa, decide acerca da indisponibilidade dos bens, destacam-se os seguintes precedentes desta Corte: STJ, REsp 1.351.883/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 14/05/2015; STJ, AgRg no REsp 1.244.149/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 23/10/2014; STJ, AgRg no Ag 1.146.044/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 04/08/2014.
+III. Agravo Regimental improvido
+(AgRg no AREsp. 728.557/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe 20.11.2015).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
