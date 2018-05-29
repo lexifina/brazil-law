@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ALEGAÇÃO DE IRRISORIEDADE. REVISÃO. IMPOSSIBILIDADE.
+1 - A jurisprudência da Corte Especial do Superior Tribunal de Justiça assentou a compreensão de que "não é possível discutir a excessividade ou irrisoriedade dos honorários em sede de embargos de divergência, na medida em que a análise dessa questão se limita ao reexame das circunstâncias fáticas de cada demanda, não demandando, nem ao largo, o cotejo de teses jurídicas conflitantes, o que impossibilita a configuração do dissídio pretoriano." (AgRg nos EAREsp 510.682/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 04/03/2015, DJe 23/03/2015).
+2 - Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira SEÇÃO do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Regina Helena Costa e os Srs. Ministros Gurgel de Faria, Francisco Falcão, Herman Benjamin, Napoleão Nunes Maia Filho, Og Fernandes, Benedito Gonçalves e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: A hipótese é de agravo interno interposto por [NOME] e Outro contra decisão que não conheceu dos embargos de divergência sob o fundamento de que "a jurisprudência da Corte Especial do Superior Tribunal de Justiça encontra-se assentada no sentido de que "não é possível discutir a excessividade ou irrisoriedade dos honorários em sede de embargos de divergência, na medida em que a análise dessa questão se limita ao reexame das circunstâncias fáticas de cada demanda, não demandando, nem ao largo, o cotejo de teses jurídicas conflitantes, o que impossibilita a configuração do dissídio pretoriano." " (AgRg nos EAREsp 510.682/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 04/03/2015, DJe 23/03/2015).
+Em suas razões, a parte recorrente sustenta que "os embargos de divergência manejados são cabíveis uma vez que a jurisprudência dessa Eg. Corte admite a reapreciação do quantum fixado a título de honorários advocatícios quando evidentemente irrisórios. Para referida análise não se faz necessária a apreciação de qualquer peculiaridade do feito, uma vez que o valor definido (R$ 1.500,00) demonstra, por si, sua incapacidade de remunerar, de forma digna, o advogado."
+A parte embargada apresentou impugnação (fls. 625/626).
+É o relatório.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): Não assiste razão à parte recorrente.
+Como antes asseverado, a jurisprudência da Corte Especial do Superior Tribunal de Justiça encontra-se assentada no sentido de que "não é possível discutir a excessividade ou irrisoriedade dos honorários em sede de embargos de divergência, na medida em que a análise dessa questão se limita ao reexame das circunstâncias fáticas de cada demanda, não demandando, nem ao largo, o cotejo de teses jurídicas conflitantes, o que impossibilita a configuração do dissídio pretoriano." (AgRg nos EAREsp 510.682/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 04/03/2015, DJe 23/03/2015).
+Em reforço, confiram-se:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS. IRRISORIEDADE. REVISÃO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r.decisão vergastada pelos próprios fundamentos.
+II - São incabíveis embargos de divergência opostos em face de acórdão no qual não foi apreciado o mérito do recurso especial, por falta de pressuposto de admissibilidade, porquanto os embargos de divergência possuem finalidade de uniformização da jurisprudência do Superior Tribunal de Justiça (precedentes).
+III - Ademais, na linha de precedentes desta Corte, "não é possível discutir a excessividade ou irrisoriedade dos honorários em sede de embargos de divergência, na medida em que a análise dessa questão se limita ao reexame das circunstâncias fáticas de cada demanda, não demandando, nem ao largo, o cotejo de teses jurídicas conflitantes, o que impossibilita a configuração do dissídio pretoriano" (AgRg nos EAREsp n. 510.682/RJ, Corte Especial, Rel. Min. Mauro Campbell Marques, DJe de 23/3/2015).
+Agravo regimental desprovido.
+(AgRg nos EAREsp 631.117/RS, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 02/12/2015, DJe 14/12/2015)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. DISCUSSÃO SOBRE IRRISORIEDADE OU EXORBITÂNCIA. NÃO CABIMENTO. REJULGAMENTO DO APELO ESPECIAL. IMPOSSIBILIDADE. RECURSO A QUE SE NEGA PROVIMENTO.
+1. De acordo com a firme orientação jurisprudencial desta Corte, em regra, não cabem embargos de divergência para fins de discussão sobre a irrisoriedade ou exorbitância do valor fixado a título de honorários advocatícios.
+2. Tendo o acórdão embargado majorado a verba honorária de acordo com as peculiaridades da demanda, não deve ser admitida a discussão nesta via, que não se presta ao rejulgamento do apelo especial, porquanto não caracterizada situação excepcional a autorizar a revisão da verba.
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EREsp 1456011/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 16/09/2015, DJe 05/10/2015)
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
