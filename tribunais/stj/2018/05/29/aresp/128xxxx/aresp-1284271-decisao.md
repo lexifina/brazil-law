@@ -1,0 +1,71 @@
+DECISÃO
+1. Cuida-se de agravo interposto por METROPOLITAN LIFE SEGUROS E PREVIDÊNCIA PRIVADA S/A contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, assim ementado (fl. 303):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - SEGURO DE VIDA EM GRUPO - INCIDÊNCIA DO CDC - INVALIDEZ PERMANENTE PARA A ATIVIDADE ESPECIFICAMENTE SEGURADA - COMPROVAÇÃO - PAGAMENTO PROPORCIONAL AO GRAU DA LESÃO - NÃO COMPROVAÇÃO DA CIÊNCIA DAS CONDIÇÕES RESTRITIVAS - RECURSO DESPROVIDO.
+Os contratos securitários estão submetidos às disposições do Código de Defesa do Consumidor (art. 3º, § 2º, CDC).
+Restando incontroverso nos autos a contratação do seguro com a requerida e, provada através de perícia judicial a incapacidade do segurado de exercer a atividade laborai segurada, deve ser paga a indenização no valor integral.
+Em contrato de adesão as cláusulas que impliquem limitação deverão ser redigidas com destaque, permitindo sua imediata e fácil compreensão (art. 54, § 4º, CDC). Inexistindo demonstração do cumprimento de tais normas, no que tange as cláusulas restritivas, é devida a indenização securitária total contratada.
+Não há falar no pagamento proporcional ao grau da lesão quando inexiste nos autos prova de que o segurado teve prévio conhecimento acerca da aplicação do percentual defendido pela requerida.
+Opostos embargos de declaração, foram rejeitados (fl 341-349).
+Nas razões do recurso especial, aponta a recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 373, incs. I e II, do NCPC e 757,758, 760 e 781, do Código Civil, por assinalar que foi desmedida a inversão do ônus da prova operada pelas instância ordinárias, baseando-se apenas em "informações prestadas através de colegas que também são beneficiários do seguro junto à requerida". Assevera ainda que não houve o correto enquadramento da cobertura prevista na apólice, resultando em condenação à indenização em valor superior à importância segurada na apólice.
+Alternativamente, na eventualidade, requer que seja decotada a quantia que supera o limite máximo previsto na apólice, segundo o disposto nos 373, incs. I e II, do NCPC e 757,758, 760 e 781, do Código Civil.
+Contrarrazões ao recurso especial às fls. 447-457.
+É o relatório.
+DECIDO.
+2. A irresignação não merece prosperar.
+A matéria controvertida é a relativa à decretação de abusividade da cláusula contratual, a qual previa que o pagamento da indenização securitária seria efetuado tão somente no caso de Invalidez Funcional Permanente e Total por Doença - IFPD, tendo como motivo o fato de não haver sido comprovado que o segurado tivesse conhecimento das cláusulas limitativas da cobertura contratada.
+Não se desconhece que, nos termos da jurisprudência dominante desta Corte, não se revela abusiva a cobertura securitária de Invalidez Funcional Permanente Total por Doença (IFPD) condicionada à constatação de incapacidade decorrente de doença que cause a perda da existência independente do segurado, vale dizer, a irreversível inviabilidade do pleno exercício de suas relações autonômicas (artigo 17 da Circular SUSEP 302/2005) (REsp 1.449.513/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 05.03.2015, DJe 19.03.2015).
+Na ocasião, o referido órgão julgador distinguiu a referida cobertura daquela atinente à Invalidez Laborativa Permanente Total por Doença (ILPD), que depende da verificação da incapacidade decorrente de doença para a qual não se pode esperar recuperação ou reabilitação, com os recursos terapêuticos disponíveis no momento de sua constatação, para a atividade laborativa principal do segurado.
+Eis a ementa do aludido julgado:
+RECURSO ESPECIAL. CIVIL. SEGURO DE VIDA EM GRUPO COM ADICIONAL DE COBERTURA POR INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA - IFPD. PATOLOGIA DA COLUNA LOMBAR CONTROLADA POR CIRURGIA.
+INCAPACIDADE TOTAL E PERMANENTE PARA A PROFISSÃO. DESEMPENHO DE ATIVIDADES LABORAIS LEVES. DEFINIÇÃO DA APÓLICE: INVALIDEZ FUNCIONAL. ATIVIDADES AUTONÔMICAS DA VIDA DIÁRIA. PRESERVAÇÃO. INDENIZAÇÃO SECURITÁRIA INDEVIDA.
+1. A Circular SUSEP nº 302/2005 vedou o oferecimento da cobertura de Invalidez Permanente por Doença (IPD), em que o pagamento da indenização estava condicionado à impossibilidade do exercício, pelo segurado, de toda e qualquer atividade laborativa, pois era difícil a sua caracterização ante a falta de especificação e de transparência quanto ao conceito de "invalidez" nas apólices, havendo também confusão entre o seguro privado e o seguro social, o que gerou grande número de disputas judiciais. Em substituição, foram criadas duas novas espécies de cobertura para a invalidez por doença: Invalidez Laborativa Permanente Total por Doença (ILPD ou IPD-L) e Invalidez Funcional Permanente Total por Doença (IFPD ou IPD-F).
+2. Na Invalidez Funcional Permanente Total por Doença (IFPD), a garantia do pagamento da indenização é no caso de invalidez consequente de doença que cause a perda da existência independente do segurado, ocorrida quando o quadro clínico incapacitante inviabilizar de forma irreversível o pleno exercício das relações autonômicas do segurado. Já na cobertura de Invalidez Laborativa Permanente Total por Doença (ILPD), há a garantia do pagamento de indenização em caso de invalidez laborativa permanente total, consequente de doença para a qual não se pode esperar recuperação ou reabilitação com os recursos terapêuticos disponíveis no momento de sua constatação, para a atividade laborativa principal do segurado.
+Logo, a garantia de invalidez funcional não tem nenhuma vinculação com a invalidez profissional.
+3. Embora a cobertura IFPD (invalidez funcional) seja mais restritiva que a cobertura ILPD (invalidez profissional ou laboral), não há falar em sua abusividade ou ilegalidade, tampouco em ofensa aos princípios da boa-fé objetiva e da equidade, não se constatando também nenhuma vantagem exagerada da seguradora em detrimento do consumidor. De qualquer modo, a seguradora deve sempre esclarecer previamente o consumidor e o estipulante (seguro em grupo) sobre os produtos que oferece e existem no mercado, prestando informações claras a respeito do tipo de cobertura contratada e as suas consequências, de modo a não induzi-los em erro.
+4. Recurso especial não provido. (REsp 1.449.513/SP) (grifei)
+Registre-se, que não obstante tal cláusula restritiva não ser em si mesma abusiva, há que se ressaltar, conforme acima ressalvado, que os consumidores devem ser previa e devidamente esclarecidos, prestando-se "informações claras a respeito do tipo de cobertura contratada e as suas consequências, de modo a não induzi-los em erro", sob pena de reconhecimento da abusividade e ofensa ao disposto no art. 46 do CDC.
+Ao examinar tal questão, verifica-se que o Tribunal local assim fundamentou sua decisão, ao ressaltar a omissão da seguradora quanto a tal ponto (fls. 308-309):
+Em resumo, as cláusulas limitativas ao direito do consumidor contratante deverão ser escritas com clareza e destaque, para que não impeçam a sua correta interpretação.
+No presente caso, em que pesem as alegações da requerida, denoto que não há qualquer prova de que o segurado tivesse ciência acerca das cláusulas contratuais.
+O documento apresentado pela requerida (f. 75/90) não pode ser considerado hábil, porquanto confeccionado unilateralmente pela apelante e sem qualquer assinatura do autor.
+Do mesmo com relação às Condições Gerais (f. 91/143), haja vista que não contem nenhuma assinatura ou ciência do autor com relação às cláusulas limitativas e aos riscos excluídos. E mais, no referido documento não há qualquer menção de que se trata do seguro aderido pelo autor.
+Dessarte, não havendo prova nos autos de que o segurado tenha tido conhecimento de cláusulas limitativas, ônus que competia à seguradora/apelante, nos termos do art. 373, II, do Código de Processo Civil, não há como deixar de reconhecer o direito do autor ao recebimento da indenização contratada.
+Destarte, condicionar o pagamento da indenização somente à invalidez permanente e total para o exercícios das relações autonômicas, configura abuso de direito, mormente quando não comprovado pela seguradora a prévia ciência do consumidor acerca das cláusulas limitativas.
+Por essa razão, ainda que a apelante defenda que a Cobertura de Invalidez Laborativa Permanente Total por Doença (ILPD) não esteja prevista na apólice, não há nos autos nenhuma prova e/ou assinatura do autor acerca da ciência dessas cláusulas restritivas de direito.
+Do acima, se depreende que o Tribunal de origem se amparou nos princípios norteadores da relação contratual previstos no Código de Defesa do Consumidor, notadamente o da boa-fé contratual, para afastar a exigência da demonstração da perda completa e definitiva da capacidade autonômica absoluta do segurado para o desempenho de atividade cotidiana, e reconhecer que a responsabilidade da seguradora deve contemplar o acometimento da doença incapacitante resultante na invalidez laborativa de sua profissão, em que pese não ser essa abusiva por si só.
+Portanto, muito embora a cobertura IFPD (invalidez funcional) seja bem mais restritiva que a cobertura ILPD (invalidez profissional ou laboral), pode-se concluir que, no presente caso, houve abusividade e ofensa aos princípios da boa-fé objetiva e da equidade, não sendo compatível com a legislação consumerista, se a seguradora não esclarecer expressa e previamente ao consumidor (preferencialmente na proposta), sobre os produtos oferecidos e existentes no mercado, prestando-lhes informações claras sobre o tipo de cobertura contratada e as suas consequências, de modo a não induzi-los em erro, como ocorreu na espécie.
+3. Ademais, assim consignou com respeito aos demais elementos ensejadores da obrigação de pagamento:
+De mais a mais, quanto a moléstia do autor, o perito foi categórico ao afirmar que:
+""1- Considerando os documentos médicos atestando as sequelas, pode o Sr. [NOME] confirmar que o periciado sofreu lesões em sua coluna e que tal fato tem relação com a profissão do autor narrada na inicial
+R: Sim.
+2- Pode-se afirmar que a função de auxiliar de serviços gerais (no qual consiste em realizar movimentos repetitivos e intensos, como abaixar-se, levantar-se, carregar peso, subir/descer escadas), pelo menos, AGRAVOU, ou seja, PIOROU as patologias que apresentou na coluna
+R: Sim.
+3- Diante das sequelas apresentadas, pode-se afirmar que o periciado possui LIMITAÇÃO DE MOBILIDADE considerando que para a atividade desenvolvida por este, qual seja de auxiliar de serviços gerais, necessita ter plena mobilidade física para realizar o serviço DE FORMAREITERADA E CONTÍNUA
+R: Sim.
+(..)
+5- Considerando todo o tratamento realizado pode-se afirmar que o periciado possui uma LIMITAÇÃO para continuar desempenhando sua profissão
+R: Sim.
+6- Diante de todas as sequelas apresentadas, bem como exames médicos. demonstrando o agravamento do quadro clínico do periciado, pode-se afirmar que não se trata apenas de limitação para exercer atividades que dependam dos membros superiores e inferiores, e sim INCAPACIDADE
+R: Sim.
+7- Pode-se afirmar que essa limitação acima descrita é de caráter permanente ou crônico
+R: Sim.
+(..)
+) Pode o I. expert informar qual é o atual quadro clínico do autor  Esse quadro é derivado de doença ou acidente
+R: Quadro atual é limitante e incapacitante para o periciado como descrito em exame físico inicial. Doença degenerativa que pode ter sido causada no decorrer dos anos em seu labor configurando acidente.
+(..)
+4) Existem medicações ou tratamentos que possam reverter o atual quadro clínico do autor
+R: Não.
+5) Qual o percentual de invalidez FUNCIONAL do autor
+R: Percentual de 50%
+(..) considero periciado INCAPAZ TOTAL E PERMANENTE para o labor correlacionando perda funcional de pelo menos 50% com acidente de trabalho." (f. 224/229)
+Como se vê, o autor encontra-se total e permanentemente incapaz de exercer suas funções, tendo uma perda funcional de 50%.
+Não obstante a apelante defender que o autor deve receber somente 50% do valor descrito na exordial (R$ 37.980,00), o fato é que encontra-se total e permanentemente incapaz de exercer suas funções, além do que, a apelante não comprovou a limitação dos valores constantes na apólice, de forma que não há albergara sua pretensão.
+Vale acentuar que a incapacidade que se apura é aquela inerente à atividade laboral específica, razão pela qual, ainda que seja parcial para as demais atividades da vida civil, o simples fato de ser total e permanente para o serviço é suficiente, por si só, para ensejar o pagamento da indenização em sua integralidade.
+ ..
+Também não merece guarida o argumento da seguradora de que a moléstia que acomete o autor foi causada por doença degenerativa e não por acidente, estando, portanto excluída do contrato.
+Ora, conforme já fundamentado, não ficou comprovado que o autor tenha tido conhecimento das cláusulas limitativas, ônus que competia à seguradora/apelante, nos termos do art. 373, II, do Código de Processo Civil. Nas condições gerais do contrato não contem nenhuma assinatura ou ciência do autor com relação às cláusulas limitativas e aos riscos excluídos.
+Não fosse isso, o perito também afirmou que as lesões do autor possuem relação com a profissão.
+Logo, por qualquer ângulo que se analise a questão, o desprovimento do recurso é medida que se impõe.
+Assim sendo, verifica-se que o Tribunal local, com base nos elementos fático-probatórios dos autos e interpretação de cláusulas contratuais, concluiu que a seguradora não comprovou a limitação dos valores constantes na apólice, de modo a amparar sua pretensão. Desse modo, para alcançar conclusão diversa daquela a que chegou as instâncias ordinárias e acolher a tese sustentada pela parte agravante para que seja decotada a quantia que supera o limite máximo previsto na apólice, segundo o disposto nos artigos 373, incs. I e II, do NCPC e 757,758, 760 e 781, do Código Civil, seria imprescindível o reexame de prova e a reinterpretação de cláusula contratual, sendo ambos inviáveis nesta instância especial (Súmulas 5 e 7/STJ).
+4. Ante o exposto, nego provimento ao agravo no recurso especial.
+Publique-se. Intimem-se.
