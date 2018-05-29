@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu recurso especial em razão da incidência das Súmulas 7 e 83/STJ.
+Em suas razões, o Ministério Público alega que, para a análise da questão federal alegada como violada, de que somente se admite a exclusão de qualificadoras na decisão de pronúncia quando manifestamente improcedentes, sob pena de usurpação da competência do Tribunal do Júri, não há necessidade de revolvimento fático-probatório.
+Requer, assim, o provimento do agravo para que seja admitido e provido o recurso especial.
+Apresentou-se contraminuta às fls. 357/361.
+O Ministério Público Federal opinou pelo conhecimento do agravo para, ao final, dar provimento ao recurso especial.
+É o relatório.
+Decido.
+O agravo é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+Alega o recorrente, em síntese, violação ao artigo 121, § 2º, III, do CP, e 413, caput, e §1º, do CPP).
+Nesse sentido, aponta que o decote de qualificadoras somente deve ser admitido como uma medida de caráter excepcional, aplicável tão-somente em situações em que se revelem manifestamente descabidas, sob pena de se retirar do Tribunal do Júri a possibilidade de analisar o delito em todos os seus relevantes aspectos (fl. 321).
+Assim, assevera que, no caso, a qualificadora de perigo comum, prevista no art.121, §2º, III, do CP, encontra respaldo nos elementos de prova dos autos, devidamente reconhecidas pelo acordão combatido, que atestam que o réu efetuou disparos de arma de fogo em via pública, onde se encontravam vários pedestres (fl. 324).
+O recorrido foi pronunciado pela prática do delito previsto no art. 121, § 2º, inciso I, c/c art. 14, inciso II, c/c art. 121, § 2º, caput, c/c art. 14, II, c/c art. 148, § 1º, inciso IV e § 2º (duas vezes) e art. 148, § 2º, c.c. art. 69, todos do Código Penal, e art. 15, da Lei 10.826/03 (duas vezes).
+Interposto recurso em sentido estrito, por maioria e vencido o relator, foi negado provimento ao mesmo nos seguintes termos:
+Verifica-se que o Relator está dando provimento ao recurso ministerial para incluir a qualificadora prevista no artigo 121, §2º, III, na pronúncia do acusado.
+A meu ver, agiu com acerto o MM. Juiz Sumariante ao decotar a qualificadora do "perigo comum". Com efeito, não restou delineada nos autos a exposição de outras pessoas, além das vitimas, a um perigo efetivo resultante dos disparos de arma de fogo. A simples existência de terceiros nas proximidades do local onde foram efetuados os disparos não implica a configuração da qualificadora em tela.
+Ressalte-se que apesar de as testemunhas terem confirmado que os disparos se deram em via pública, nenhuma das testemunhas relatou sobre a existência de outras pessoas o local.
+Assim sendo, é possível inferir que o conjunto probatório não autoriza mesmo a inclusão desta qualificadora, por se apresentar manifestamente improcedente, motivo pelo qual deve ser mantido o seu decote.
+A propósito vejamos os seguintes julgados:
+ ..
+Diante do que foi exposto, entendo que o pleito do Ministério Público de reconhecimento da qualificadora do emprego de meio que possa resultar em perigo comum, prevista no art. 121, §2º, III, do Código Penal não pode ser acolhido (fl. 287/289).
+De fato, na decisão de pronúncia, a qual constitui mero juízo de admissibilidade da acusação, somente se admite a exclusão de qualificadoras quando manifestamente improcedentes ou descabidas, sob pena de afronta à soberania do Júri. Ilustrativamente:
+PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. IMPOSSIBILIDADE DE SUSTENTAÇÃO ORAL. VIOLAÇÃO AO PRINCÍPIO DA AMPLA DEFESA. INOCORRÊNCIA. HOMICÍDIO. QUALIFICADORA DO MOTIVO FÚTIL. EXCLUSÃO. IMPOSSIBILIDADE.
+1. Em relação às exceções contidas no art. 557 do CPC, constatou- se, por meio da ponderação (técnica do sopesamento apregoada por Alexy), que a ampla defesa não seria coarctada na medida em que a permissividade legal de exclusão do julgamento colegiado adviria, a um só tempo, do exaustivo debate reiterado e da solidez do entendimento acerca do tema, culminando, por isso, no prestígio à celeridade e à economia processuais (duração razoável do processo).
+2. A Constituição Federal determinou ao Tribunal do Júri a competência para julgar crimes dolosos contra a vida e a soberania de seus veredictos. No delito de homicídio, a exclusão de qualificadoras na decisão de pronúncia somente é cabível quando manifestamente improcedente ou descabida.
+3. A mera existência de discussão anterior ao cometimento do delito, por si só, não é suficiente para retirar da competência do conselho de sentença a decisão acerca do conhecimento do motivo fútil ao caso concreto.
+4. Agravo regimental não provido. (AgRg no REsp 1424599/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/10/2014, DJe 03/11/2014), com destaques.
+Na espécie, no que se refere à qualificadora do emprego de meio que resultou em perigo comum, o Tribunal de origem, com base elementos de prova, concluiu pela não configuração da qualificadora, assentando categoricamente que não restou delineada nos autos a exposição de outras pessoas, além das vitimas a um perigo efetivo resultante dos disparos de arma de fogo (fl. 287).
+Como já assinalado, possível a exclusão de qualificadoras do homicídio quando manifestamente improcedentes. É exatamente o que ocorre no caso, em que o Tribunal a quo afastou a incidência da qualificadora fundamentadamente, com suporte nas provas produzidas nos autos, daí porque rever tal entendimento demandaria necessária incursão ao conjunto fático-probatório, circunstância que atrai o óbice da Súmula 7/STJ. Confiram-se os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. INDÍCIOS DE AUTORIA E MATERIALIDADE. JUÍZO DE ADMISSIBILIDADE DA ACUSAÇÃO. IN DUBIO PRO SOCIETATE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. PRETENSÃO DE IMPRONÚNCIA. DESCABIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. EXCLUSÃO DE QUALIFICADORAS. INVIABILIDADE. PRESERVAÇÃO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. PRECEDENTES. PRETENSÃO RECURSAL. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. O julgamento monocrático do agravo em recurso especial, com esteio em óbices processuais e na jurisprudência dominante do Superior Tribunal de Justiça, tem respaldo nas disposições do Código de Processo Civil e do Regimento Interno desta Corte Superior. Precedentes.
+2. As pretensões recursais, de que não haveria indícios mínimos da autoria delitiva e das qualificadoras do motivo torpe e do emprego de meio que resultou em perigo comum para embasar a pronúncia, demandariam imprescindível reexame dos elementos fático-probatórios dos autos, o que é defeso no âmbito do recurso especial, em virtude do disposto na Súmula 7 desta Corte.
+3. Agravo regimental improvido (AgRg no AREsp 1203624 / DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2018, DJe 09/04/2018, grifei).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. QUALIFICADORAS. EXCLUSÃO. IMPOSSIBILIDADE. COMPETÊNCIA DO TRIBUNAL DO JÚRI. REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA N. 7 DO STJ.
+1. A decisão de pronúncia só pode excluir qualificadora quando manifestamente improcedente, de modo que qualquer dúvida razoável sobre sua incidência deve ser dirimida pelo Conselho de Sentença. Precedentes.
+2. Para se concluir de forma diversa do entendimento do Tribunal de origem, isto é, de que as qualificadoras são manifestamente improcedentes, seria inevitável o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial, em razão do óbice da Súmula n. 7/STJ.
+3. Agravo regimental desprovido (AgRg no AREsp 1219771 / BA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/03/2018, DJe 04/04/2018, grifei).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
