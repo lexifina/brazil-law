@@ -1,0 +1,8 @@
+DECISÃO
+1. Cuida-se de agravo interposto por COMERCIAL A V DE COMBUSTIVEIS LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO CAUTELAR INOMINADA. PEDIDO INSERTO NA AÇÃO PRINCIPAL JULGADO IMPROCEDENTE. NULIDADE DA SENTENÇA ANTE A AUSÊNCIA DE RELATÓRIO. INOCORRÊNCIA. PERDA DE OBJETO. ARTIGO 808, INCISO III, DO CPC/73. EXTINÇÃO DO FEITO. 1) - Se a sentença contém relatório, ainda que sucinto, e a fundamentação foi suficiente para expor as razões de convencimento do magistrado, dirimindo satisfatoriamente a lide, inexiste nulidade por ausência de relatório. 2) - Conforme preleciona o artigo 808, inciso III, do Código de Processo Civil/73, cessa a eficácia da medida cautelar quando declarado extinto o processo principal, com ou sem julgamento de mérito. 3) - Sendo a ação cautelar acessória à principal, julgada esta improcedente, a cautelar perde sua eficácia e objeto, pelo que deve também ser extinta. 4) - RECURSO CONHECIDO, PORÉM DESPROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto no art. 458, inciso I, do CPC de 1973. Alega, em síntese, que a sentença seria nula, em virtude da ausência de relatório.
+É o relatório. DECIDO.
+2. Com efeito, constato que o recurso vertente é idêntico - mesmas partes, objeto e causa de pedir - ao AREsp n. 1.255.614/GO, já apreciado por este Relator, e com agravo interno pendente de apreciação.
+3. Sendo assim, julgo prejudicado o agravo em recurso especial em apreço, pela perda do objeto, com fulcro no art. 34, XI, do RISTJ.
+Publique-se. Intimem-se.
