@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado do Paraná que inadmitiu o especial, tendo em vista a deserção do recurso, pois não foi comprovado o recolhimento dos valores relativos às custas locais.
+Nas razões do agravo em apreço (fls. 588-589), o agravante alega, em síntese, que comprovou o recolhimento do preparo.
+Contraminuta apresentada às fls 616-619 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+A jurisprudência do Superior Tribunal de Justiça firmada na vigência do CPC/1973 determina que o recorrente deve comprovar o preparo, no ato da interposição do recurso, com o recolhimento das custas judiciais, bem como dos valores locais, estipulados pela legislação estadual, sob pena de deserção (art. 511 do CPC/73).
+O não recolhimento de uma das guias do preparo caracteriza preparo insuficiente e enseja a complementação nos termos do § 2º do art. 511 do CPC/1973, sob pena de deserção.
+Observe-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/1973. PREPARO. PAGAMENTO DAS CUSTAS LOCAIS. COMPLEMENTAÇÃO. ART. 511, § 2º, DO CPC. POSSIBILIDADE. DESERÇÃO AFASTADA.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 844.440/MS, firmou a orientação no sentido de que o não pagamento de um dos valores que integram o preparo do recurso especial comporta intimação da parte para sua complementação, e não o imediato decreto de deserção recursal. Precedentes: EAREsp 689.490/SC, Rel. Min. Herman Benjamin, Corte Especial, DJ 16.10.2017, AgInt no Ag 1.433.290/GO, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 28/6/2017; AgInt nos EDcl no AgRg no AREsp 554.485/BA, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 10/4/2017; AgRg no AREsp 490.138/MG, Rel. Min. João Otávio de Noronha, Terceira Turma, DJe 28/3/2016; AgRg no Ag 1.433.323/GO, Rel. Min. Assussete Magalhães, Segunda Turma, DJe 24/2/2016; AgRg no AREsp 143.033/RJ, Rel. Min. Olindo Menezes (Des. Convocado do TRF 1ª Região), Primeira Turma, DJe 2/2/2016; AgInt no AREsp 976.845/PE, Rel. Min. Raul Araújo, Quarta Turma, DJe 16/2/2017; AgInt no AREsp 900.168/PB, Rel. Min. Francisco Falcão, Segunda Turma, DJe 19/12/2016.
+ 2. Na espécie, a recorrente, por ocasião da interposição do recurso especial apresentou, além das guias, os comprovante de pagamento das custas locais e de agendamento das federais, sendo que estas já foram compensadas, consoante comprovado à fl. 504. Precedentes: EDv nos EAREsp 844.903/MS, Rel. Min. Og Fernandes, Corte Especial, DJe 04/11/2016
+3. A jurisprudência admite a comprovação do feriado local em momento posterior à interposição do recurso sob a égide do CPC/73. Precedentes: AgInt no REsp 1.688.034/AM, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 23/03/2018; AgInt no REsp 1.622.449/SP, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, DJe 28/11/2016; EDcl no AgRg no AREsp 687.180/SP, Rel. Min. Luiz Felipe Salomão, Quarta Turma, DJe 16/09/2016).
+4. Embargos de declaração acolhidos, para considerar tempestivo e preparado o recurso especial, para o fim de possibilitar o julgamento do seu mérito".
+(EDcl no AgInt no AREsp 882.871/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 10/4/2018, DJe 19/04/2018)
+"PROCESSUAL CIVIL. PREPARO RECURSAL. NÃO RECOLHIMENTO DE CUSTAS ESTADUAIS. CONCEPÇÃO DE "PREPARO INSUFICIENTE" PREVISTA NO ARTIGO 511, § 2º, DO CPC/1973. ADMISSIBILIDADE DA COMPLEMENTAÇÃO. INSTRUMENTALIDADE DAS FORMAS E EFETIVIDADE DA TUTELA JURISDICIONAL. BOA-FÉ DA PARTE. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+1. Trata-se de Embargos de Divergência concernentes à possibilidade de complementação do valor do preparo do Recurso Especial, quando recolhido, em um primeiro momento, somente o porte de remessa e retorno, sem o pagamento de custas locais.
+2. O acórdão embargado considerou: "não há falar em complementação de preparo, porquanto, no presente caso, não houve a juntada de uma das guias, o que, por si só, caracteriza a deserção por falta de preparo, não o preparo insuficiente. Assim, não prosperam as alegações postas no regimental, incapazes de alterar os fundamentos da decisão impugnada".
+3. A resolução da questão divergente depende de definir se o recolhimento de apenas parte das verbas integrantes do valor do preparo equivale à situação de "preparo insuficiente", prevista na legislação processual de 1973 (art. 511, § 2º) e reiterada no Código de Processo Civil de 2015, em seu art. 1007, § 2º.
+4. No julgamento do Recurso Especial 844.440, a Corte Especial do Superior Tribunal de Justiça definiu que a concepção de "preparo insuficiente" estabelecida na legislação processual, para fins de admissão da complementação, não deve ser restringida à hipótese de recolhimento "a menor", e sim abarca também as situações em que umas das verbas componentes do gênero "preparo" não foi recolhida no momento da interposição do recurso. O referido entendimento está em consonância com princípios basilares da processualística contemporânea, que prioriza a instrumentalidade das formas e a efetividade da tutela jurisdicional, especialmente diante de contexto em que a boa-fé da parte está demonstrada.
+5. Embargos de Divergência conhecidos e providos. Retorno dos autos à Terceira Turma para novo julgamento do Agravo em Recurso Especial".
+(EAREsp 689.490/SC, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 16/8/2017, DJe 19/10/2017)
+O Código de Processo Civil de 2015 manteve o mesmo entendimento o qual está previsto no art. 1.007, § 2º: "A insuficiência no valor do preparo, inclusive porte de remessa e de retorno, implicará deserção se o recorrente, intimado na pessoa de seu advogado, não vier a supri-lo no prazo de 5 (cinco) dias".
+Na presente hipótese, o Tribunal de origem realizou a intimação da agravante mas o recolhimento das custas locais não foi comprovado, conforme informou a decisão que inadmitiu o agravo em recurso especial (fls. 542-545). Observa-se que o agravante juntou apenas as guias das custas locais desacompanhadas do comprovante de pagamento (fls. 536-538).
+Por oportuno, é importante observar que os documentos constantes das fls. 590-595 (e-STJ), não têm o condão de comprovar o cumprimento do despacho que determinou a comprovação do pagamento das custas locais (fl. 533 e-STJ). A parte recorrente deveria ter solicitado certidão ou documento dotado de fé pública para atestar que no momento processual do cumprimento do referido despacho houve a juntada do comprovante de pagamento de fl. 593 (e-STJ).
+Desse modo, aplica-se à espécie a Súmula 187/STJ porquanto deserto o recurso especial.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO INSUFICIENTE. COMPLEMENTAÇÃO INTEMPESTIVA. DESERÇÃO. HONORÁRIOS RECURSAIS. ART. 85, § 11, CÓDIGO DE PROCESSO CIVIL DE 2015. INAPLICABILIDADE. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. À luz do disposto no art. 1.007, § 2º, do Código de Processo Civil de 2015, sendo recolhido o preparo em valor inferior ao efetivamente devido, cumpre ao juízo intimar a parte recorrente abrindo-se um prazo de 5 (cinco) dias para a complementação do preparo.
+3. Após a intimação para complementar o preparo, o decurso do prazo e a inércia do recorrente justificam a aplicação da pena de deserção.
+4. Não cabe a majoração dos honorários advocatícios nos termos do § 11 do art. 85 do CPC/2015 quando o recurso é oriundo de decisão interlocutória, sem a prévia fixação de honorários.
+5. Agravo interno não provido".
+(AgInt no AREsp 1.167.136/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/04/2018, DJe 17/04/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO INSUFICIENTE. COMPLEMENTAÇÃO INTEMPESTIVA. DESERÇÃO. DECISÃO MANTIDA.
+1. No ato de interposição do recurso, deverá ser comprovado o preparo, sob pena de deserção. Na insuficiência do valor, o recorrente será intimado para supri-lo em cinco dias.
+2. Após a intimação para complementar o preparo, o decurso do prazo e a inércia do recorrente justificam a aplicação da penalidade (art. 1.007, § 2º, do CPC/2015).
+3. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1.125.510/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/12/2017, DJe 18/12/2017)
+Ante o exposto, não conheço do agravo.
+Publique-se.
+Intimem-se.
