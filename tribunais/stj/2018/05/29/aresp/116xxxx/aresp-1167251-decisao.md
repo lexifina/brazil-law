@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A contra a decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"AGRAVO RETIDO. JULGAMENTO ANTECIPADO DA LIDE. ALEGADO CERCEAMENTO DE DEFESA. INTENÇÃO DE PRODUZIR PROVA ORAL PARA DEMONSTRAR A NATUREZA ESTÉTICA DOS PROCEDIMENTOS SOLICITADOS PELA AUTORA. INEXISTÊNCIA DA ALEGADA NULIDADE. PROVAS BASTANTES NOS AUTOS A FORMAR A CONVICÇÃO DO JULGADOR. INTELIGÊNCIA DO ART. 130 DO CPC. AGRAVO RETIDO CONHECIDO E DESPROVIDO.
+APELAÇÃO CÍVEL. "ACÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS". PLANO DE SAÚDE. NEGATIVA DE COBERTURA PARA MASTOPEXIA, BRAQUIOPLASTIA E LITFTING CRURAL. 1. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. PROCEDIMENTO INDICADO POR MÉDICOS CONVENIADOS À RÉ. DEVER DO PLANO DE SAÚDE DE CUSTEAR INTEGRALMENTE AS CIRURGIAS DA AUTORA. 2. DANOS MORAIS CONFIGURADOS. 3. DANO MATERIAL. COMPROVAÇÃO PARCIAL DE GASTOS. IMPOSSIBILIDADE DE RESSARCIMENTO DE HONORÁRIOS CONTRATUAIS. 4. JUROS DE MORA E CORREÇÃO MONETÁRIA. TERMO INICIAL. 5. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. SENTENÇA ALTERADA EM PARTE. 1. Tendo em vista que o contrato celebrado deve ser interpretado da maneira mais favorável à autora/consumidora, tem-se como ilegítima a negativa da apelante, sobretudo porque os procedimentos estéticos pleiteados foram indicados por médicos especializados e conveniados à ré, como sendo imprescindíveis para a melhora da qualidade de vida da paciente. 2. Em momento de necessidade e fragilidade da segurada, a indevida negativa de cobertura tanto pode frustrar legitima expectativa contratual quanto gerar abalo que se situa além do mero dissabor, causando o dano moral. 3. "O pagamento de profissional apto a ingressar com demanda em juízo não pode ser inserido como dano patrimonial imputável à parte ré. A condenação somente autoriza seja imputado à parte ré o pagamento das verbas resultantes dos ônus de sucumbência." (8.ª Câm. Civ., AC 928.341-2, Rel. Des. José Laurindo de Souza Netto, unânime, julg. 28.02.13). 4. Consoante a Súmula 362 do STJ, o termo inicial da correção monetária, nos casos de indenização por danos morais, deve ser fixado na data do arbitramento. Os juros de mora incidem desde a citação, conforme art. 405 do Código de Processo Civil. 5. A verba honorária fixada em sentença não condiz com o grau de zelo do procurador, a natureza da ação, a importância da causa e o trabalho realizado, devendo ser majorada.
+RECURSOS CONHECIDOS E PARCIALMENTE PROVIDOS" (fls. 538/540 e-STJ).
+Embargos de declaração foram opostos por ambas as partes, tendo sido rejeitados os da ora recorrida e acolhidos os da recorrente, sem modificação do resultado.
+No recurso especial, foi alegada, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) artigo 535, inciso II, do Código de Processo Civil de 1973 - sob o argumento de que o Tribunal de origem teria se omitido sobre o pedido de redução do montante indenizatório,
+(ii) artigos 186, 188, inciso I, e 927 do Código Civil - ao fundamento de que o dano moral não estaria devidamente caracterizado, e
+(iii) artigo 944, parágrafo único do Código Civil - pugnando pela redução do valor indenizatório arbitrado.
+Contrarrazões foram apresentadas (fls. 621/646 e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+Não há falar em negativa de prestação jurisdicional, haja vista que o Tribunal de origem, por ocasião do julgamento de embargos de declaração, reconheceu a omissão apontada e se manifestou expressamente sobre o valor da indenização, julgando-o adequado, levando em consideração o caráter inibidor e pedagógico da condenação, a gravidade do dano sofrido e o porte econômico das partes.Os embargos de declaração opostos foram rejeitados.a propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. AÇÃO DE COBRANÇA. CORRETAGEM. CLÁUSULA DE EXCLUSIVIDADE. PRAZO INDETERMINADO. INTERMEDIAÇÃO NA VENDA DO IMÓVEL. COMPROVAÇÃO. ALTERAÇÃO. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+4. Agravo regimental não provido."
+(AgRg no AREsp 750.040/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/4/2018, DJe 30/4/2018)
+"DIREITO CIVIL. RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO CPC/73. EMBARGOS DE TERCEIRO. COMPROMISSO DE COMPRA E VENDA NÃO REGISTRADO. NATUREZA JURÍDICA. EFEITOS. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL AFASTADA. AUSÊNCIA DO REGISTRO DO MEMORIAL DE INCORPORAÇÃO E DEMAIS DOCUMENTOS PREVISTOS NO ART. 32 DA LEI Nº 4.591/1964. ÔNUS DA INCORPORADORA. NULIDADE AFASTADA. SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE.
+1. Inexiste ofensa ao art. 535 do CPC quando o tribunal de origem pronuncia-se de forma clara e precisa sobre a questão posta nos autos.
+(..)
+7. Recurso especial provido."
+(REsp 1.490.802/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/4/2018, DJe 24/4/2018)
+No que tange à caracterização do dano moral, observa-se que o acórdão recorrido está de acordo com o entendimento jurisprudencial dominante nesta Corte, segundo o qual
+"A recusa indevida pela operadora do plano de saúde em autorizar a cobertura financeira de tratamento médico faz nascer o dever de reparar os danos morais produzidos pelo agravamento da situação de aflição psicológica e de angústia no espírito do beneficiário, ante a inequívoca violação, nesse caso, dos direitos da personalidade" (AgInt no REsp 1.656.501/SE, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/8/2017, DJe 31/8/2017)
+Nesse sentido, confiram-se ainda:
+"DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO DE DANOS MORAIS. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA 284/STF. PALNO DE SAÚDE. NEGATIVA DE COBERTURA DE DESPESAS MÉDICO-HOSPITALARES. RECUSA INDEVIDA. DANO MORAL CONFIGURADO.
+1. Ação ajuizada em 27/12/2011. Recurso especial concluso ao gabinete em 12/05/2017. Julgamento: CPC/2015.
+2. O propósito recursal é definir se a negativa de cobertura integral, por parte da recorrida, de gastos com a internação de recém-nascida gera danos morais às recorrentes.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+4. A ausência de fundamentação ou a sua deficiência implica o não conhecimento do recurso quanto ao tema.
+5. A recusa indevida à cobertura médica é causa de danos morais, pois agrava o contexto de aflição psicológica e de angústia sofrido pelo segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada.
+6. Nos presentes autos, a infundada recusa na cobertura do plano de saúde ocorreu após a realização do tratamento médico da recém-nascida.
+7. A latente preocupação e aflição com as despesas médico-hospitalares, por parte da primeira recorrente, ainda que posteriormente ao tratamento médico, certamente afetaram os cuidados com a criança, ora segunda recorrente, devendo ser reconhecido o direito de ambas em serem compensadas pelos danos morais sofridos na oportunidade.
+8. Recurso especial parcialmente conhecido e, nessa parte, provido."
+(REsp 1.668.302/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/6/2017, DJe 22/6/2017)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. PLANO DE SAÚDE. AUTORIZAÇÃO DE PROCEDIMENTO POR INDICAÇÃO MÉDICA. RECUSA DE COBERTURA. ABUSO. DANO MORAL VERIFICADO. RESPONSABILIDADE CIVIL. JURISPRUDÊNCIA. VALOR COMPENSATÓRIO. REVISÃO. DESCABIMENTO. SÚMULA 7/STJ.
+1. Considerando o quadro clínico do segurado e a necessidade de imediato tratamento, a recusa indevida do Plano de Saúde revela-se abusiva e atentatória à dignidade da pessoa humana e aos direitos da personalidade, configurando dano moral in re ipsa, o qual dispensa a comprovação de prejuízo aos direitos da personalidade no caso concreto. Precedentes desta Corte Superior.
+2. AGRAVO INTERNO DESPROVIDO."
+(AgInt no AREsp 831.777/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/4/2017, DJe 9/5/2017)
+No que tange ao valor fixado a título de indenização, há de se esclarecer que esta Corte somente promove a sua revisão, afastando a incidência da Súmula nº 7/STJ, quando o montante se mostra flagrantemente excessivo ou irrisório, não sendo nenhuma dessas hipóteses a dos autos.
+A análise do pedido de redução do montante indenizatório, no caso, dependeria inevitavelmente do revolvimento do contexto fático-probatório dos autos, procedimento vedado na via do recurso especial.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Publique-se.
+Intimem-se.
