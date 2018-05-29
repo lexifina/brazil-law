@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Município de Itaguatins com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Tocantins, assim ementado (fls. 177/178):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. FAZENDA PÚBLICA. ALEGAÇÃO DE PRESCRIÇÃO. INOCORRÊNCIA.
+1. Para as execuções contra a Fazenda Pública a regra geral é que o prazo prescricional de 05 (cinco) anos tem como termo a quo a data do trânsito em julgado da sentença condenatória, podendo ser interrompido uma única vez, passando então a correr pela metade (art. 3º do Decreto-Lei nº 4.597/42 e arts. 8º e 9º do Dec. 20.910/1932).
+2. Ainda que se considerasse o prazo prescricional pela metade, a embargada teria dois anos e meio para ajuizar a respectiva execução a partir da data do último ato processual, ou seja, do termo de audiência realizado na data de 09/05/2013, e o fez antes do fim do alusivo prazo, no dia 07/09/2015.
+MÉRITO. EXTINÇÃO DA EXECUÇÃO PELO PAGAMENTO. NÃO COMPROVAÇÃO. ÔNUS DO ENTE PÚBLICO.
+3. É ônus do ente público provar a quitação do débito relativo a verbas salariais, por meio de documento hábil, o qual não foi apresentado pelo apelante. Não logrando provar o pagamento da dívida, ônus que lhe incumbia por determinação do art. 373, II, do CPC/2015, deve suportar o ônus da condenação.
+HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO.
+APRECIAÇÃO EQUITATIVA. ADEQUAÇÃO AO TRABALHO EXERCIDO PELO PROFISSIONAL E ÀS PECULIARIDADES DA CAUSA.
+4. Segundo o permissivo legal trazido no § 8º do art. 85 do CPC/2015, é admitida a fixação dos honorários advocatícios por apreciação equitativa, vale dizer, não vinculada a percentuais, na hipótese do valor da causa ser muito baixo, o que ocorre no caso presente, com o desiderato de adequar o valor arbitrado ao trabalho desenvolvido pelo advogado e às peculiaridades envoltas no caso.
+5. É proporcional e razoável a majoração dos honorários arbitrados para o quantum de R$ 1.000,00 (um mil reais), valor mínimo e justo a remunerar dignamente a tarefa exercida pelo profissional.
+6. Apelação interposta pelo Município embargante conhecida e improvida.
+7. Apelação interposta pelo embargado conhecida e parcialmente provida para majorar a verba honorária.
+Não foram opostos embargos declaratórios.
+A parte recorrente aponta violação aos arts. 3º do Decreto 4.597. Sustenta a ocorrência da prescrição, sob o argumento de que "a execução embargada fora ajuizada em 07/09/2015, logo, há 05 (cinco) anos após a sentença e o respectivo trânsito em julgado" (fl. 199), de forma que o último ato processual foi justamente a sentença, e não o acordo firmado entre as partes.
+Assevera, ainda, que "a ação executiva é de 5 (cinco) anos contra a Fazenda Pública apenas quando não proveniente de sentença. Se proveniente de sentença, há de se observar, como é o caso em apreço, que ocorreu a hipótese prevista no artigo 3º do Decreto nº 4.597/1942" (fl. 204).
+É o relatório.
+A irresignação não comporta acolhida.
+Com efeito, o Tribunal de origem afastou a ocorrencia da prescrição, sob as seguintes razões (fls. 169/171):
+Primeiro, quanto à prescrição, registro que, aperfeiçoado o título executivo, com o trânsito em julgado da sentença proferida no processo de conhecimento, tem início a contagem do prazo de 05 (cinco) anos para a prescrição da execução.
+Logo, para que se configure o lustro prescricional, deve o autor permanecer inerte pelo mesmo prazo estipulado para a prescrição da ação de conhecimento, no caso, 05 (cinco) anos (art. 1º do Decreto nº 20.910/32), 4 conforme interpretação analógica da Súmula nº 150 do STF, que assim prevê:
+"Prescreve a execução no mesmo prazo de prescrição da ação".
+Nesse diapasão, uma vez interrompida a prescrição, esta recomeça a correr, pela metade do prazo, da data do ato que a interrompeu ou do último ato ou termo do respectivo processo, consoante inteligência do art. 3º do Decreto-Lei nº 4.597/42 e art. 9º do Dec. 20.910/1932. 5 Contudo, somando-se o tempo de antes com o posterior ao momento interruptivo, não deve haver menos de 05 (cinco) anos, a teor da orientação ministrada pela Súmula nº 383 do STF, nos seguintes termos: "A prescrição em favor da Fazenda Pública recomeça a correr, por dois anos e meio, a partir do ato interruptivo, mas não fica reduzida aquém de cinco anos, embora o titular do direito a interrompa durante a primeira metade do prazo." Em conclusão, o prazo para o exercício da pretensão executiva é o mesmo para o da pretensão veiculada na demanda de conhecimento. Se o sujeito dispõe de 05 (cinco) anos para demandar a Fazenda Pública, como no caso, terá também 5 (cinco) anos para propor o cumprimento da sentença, observado o enunciado sumular nº 383 do STF.
+(..)
+Feitas tais ponderações, passo à análise da ocorrência ou não da prescrição.
+No caso, ainda que se considerasse que o trânsito em julgado da sentença do processo de conhecimento - título judicial - se deu na mesma data da homologação do acordo (ao argumento de que as partes renunciaram ao prazo recursal), em 09/09/2010, observo que não ocorreu o transcurso do lapso prescricional, na medida em que a execução foi manejada em 07/09/2015, isto é, dentro do prazo quinquenal.
+Por outro lado, a questão a ser desvendada é se na situação restou operada a prescrição pela metade, após a causa interruptiva, inserta no Decreto-Lei nº 4.597/42.
+Muito bem. A sentença homologatória ocorreu na data de 09/09/2010, entretanto, devido ao não cumprimento da decisão pelo Município de Itaguatins, em audiência realizada no dia 09/05/2013, ficou determinado que as execuções fossem individuais a serem promovidas pelos beneficiários (Evento 1, AUDIENCI7, autos nº 0000757-21.2015.827.2724).
+Logo, entre a data do último ato processual que determinou a execução individual (09/05/2013), e a data do ajuizamento da ação de execução (07/09/2015), não houve o transcurso de dois anos e meio.
+Assim, mesmo que se considerasse o prazo prescricional pela metade, a embargada teria dois anos e meio para ajuizar a respectiva execução a partir da data do último ato processual, ou seja, o termo de audiência realizado na data de 09/05/2013, e o fez em 07/09/2015, antes do fim do lapso prescricional.
+Destarte, o acórdão recorrido foi proferido em consonância com a jurisprudência desta Corte, firme no sentido de que "em função da autonomia do processo de execução em relação ao processo de conhecimento, a Súmula 150/STF estabelece idêntico prazo prescricional da ação de conhecimento para o processo de execução, que no caso dos autos é de 5 anos, razão pela qual não se aplica o prazo pela metade, como prescrevem o Decreto 20.910/1932 e o Decreto 4.597/1942, nas ações ajuizadas contra a Fazenda Pública" (AREsp 1172763/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2017, DJe 19/12/2017)
+No mais, a alteração das conclusões adotadas pela Corte de origem, a fim de entender pela ocorrência da prescrição, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Em reforço:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DA PARTE EXEQUENTE. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. A instância ordinária concluiu que a demora na movimentação do feito decorreu não da inércia da parte, mas sim da falta de intimação das partes quando do retorno dos autos da Corte Superior.
+E, diante dos atos envidados pela parte credora tão logo intimada a partir de 2013, da realização dos cálculos de liquidação e da propositura da execução em 2015, descabe o acolhimento da invocada prescrição.
+2. A alteração das conclusões adotadas pelo Tribunal de origem, na forma pretendida, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1139832/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/02/2018, DJe 12/03/2018)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. AÇÃO ACIDENTÁRIA. PRESCRIÇÃO INTERCORRENTE. PROVA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Cuida-se, na origem, de Agravo de Instrumento interposto contra decisão interlocutória que, nos autos da Execução contra o INSS, (Ação Acidentaria - implantação de benefício concedido), rejeitou a tese de prescrição intercorrente, determinando o prosseguimento do feito.
+2. Os artigos tidos por violados em seu apelo especial (arts. 2º e 3º do Decreto-Lei 4.597/1942; 1º, 8º e 9º do Decreto 20.910/1932;
+103 da Lei 8.213/1991 e 269, IV, e 604 do CPC/1973) não foram objeto de debate pelo Tribunal a quo, não preenchendo o requisito do prequestionamento viabilizador da instância especial. Incide, na hipótese, o teor da Súmula 282/STF.
+3. Ademais, in casu, o acórdão concluíu pela não configuração da prescrição intercorrente. A análise quanto ao acerto de sua fundamentação demanda cotejo entre o disposto na decisão, a tramitação processual e as provas dos autos, o que consiste em reexame do conteúdo fático-probatório dos autos, encontrando óbice no enunciado da Súmula 07 do STJ.
+4. Recurso Especial não conhecido.
+(REsp 1701961/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/11/2017, DJe 19/12/2017)
+Ante o exposto, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
