@@ -1,0 +1,45 @@
+DECISÃO
+Vistos.
+Fls. 172/176e - Trata-se de Agravo Interno (art. 1.021, do CPC) interposto contra decisão monocrática de minha lavra, mediante a qual, com fundamento no art. 932, III, do Código de Processo Civil de 2015 e 253, I, do RISTJ, o Agravo não foi conhecido, porquanto não atacados especificamente os fundamentos da decisão agravada (fls. 164/167e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Agravo em Recurso Especial e o Recurso Especial estivessem sujeitos ao Código de Processo Civil de 1973.
+Em juízo de retratação, consoante o disposto no § 2º do art. 1.021 do Código de Processo Civil de 2015, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor sua reconsideração, restando, por conseguinte, prejudicado o Agravo Interno.
+Passo agora a nova análise do Agravo em Recurso Especial interposto.
+Trata-se de Agravo nos próprios autos do INSTITUTO NACIONAL DO SEGURO SOCIAL, contra decisão que inadmitiu Recurso Especial interposto contra acórdão assim ementado (fl. 470e):
+APELAÇÃO CÍVEL. RECURSO ADESIVO. ADMINISTRATIVO. PREVIDENCIÁRIO. SUSPENSÃO DE BENEFÍCIO. ILEGALIDADE NO ATO ADMINISTRATIVO. AMPLA DEFESA E CONTRADITÓRIO. INOBSERVÂNCIA. DANO MORAL DEVIDO. MAJORAÇÃO DO VALOR FIXADO. DESCABIMENTO. RECURSOS IMPROVIDOS.
+1. Cuida-se de apelação e de recurso adesivo alvejando sentença que, nos autos de ação de conhecimento, processada sob o rito comum ordinário, julgou procedente em parte o pedido deduzido na peça vestibular, com espeque no art. 269, inciso I, do Código de Processo Civil (CPC), condenando o réu ao pagamento de R$ 5.000,00 (cinco mil reais), a título de reparação por danos morais.
+2. O cerne da controvérsia ora posta a deslinde cinge-se em averiguar pretenso direito à reparação por danos morais, em decorrência da suspensão indevida do beneficio previdenciário percebido pelo demandante.
+3. Os prazos prescricionais previstos no Código Civil não se aplicam às relações jurídicas submetidas ao Direito Administrativo, que estão submetidas ao lustro prescricional qüinqüenal estabelecido no Decreto n.º 20.910/32. É copiosa a jurisprudência do STJ no sentido de que deve ser aplicado o prazo prescricional qüinqüenal, estatuído no Decreto n.º 20.910/32, a todo qualquer direito ou ação contra a Fazenda Federal, Estadual ou Municipal, seja qual for a natureza (STJ, AgResp 969613, Relatora Min. Laurita Vaz).
+4. Nem todo aborrecimento ou falha administrativa justifica a condenação ao pagamento por danos morais, se não existe lesão efetiva à dignidade da pessoa humana. A suspensão de um benefício previdenciário não caracteriza, de plano, a ocorrência de situações humilhantes, vexatórias ou que causem algum distúrbio psíquico mais sério a ponto de gerar o malsinado dano moral.
+5. Pelo que se infere da análise dos autos, evidencia-se falha grave na prestação de serviço pelo réu, tendo em vista que, como o autor não foi comunicado para apresentar sua defesa, ficou privado dos princípios fundamentais que regem o processo, quais sejam, o contraditório e a ampla defesa, tendo o benefício sido suspenso de forma arbitrária, uma vez que baseado em suspeitas, sem confirmação e sem chance de defesa pelo beneficiário. Os prejuízos sofridos pelo autor são evidentes, principalmente considerando-se a natureza alimentar do beneficio, pois teve que suportar dificuldades com a própria mantença e de sua família.
+6. No que tange à fixação do valor da indenização por dano moral, vem entendendo nossa jurisprudência que esta não deve contrariar o bom senso, mostrando-se manifestamente exagerado ou irrisório. Não há, portanto, critérios objetivos para a fixação da indenização a título de danos morais, subordinando-se a mesma ao arbítrio judicial, que deve pautar-se pelo critério do equilíbrio. A indenização por dano moral, desta maneira, deve ser arbitrada em termos razoáveis, não se justificando que a reparação venha a constituir-se em enriquecimento indevido, com manifestos abusos e exageros, devendo o arbitramento operar-se com moderação.
+7. Reexaminando o conteúdo fático-probatório dos autos, reputo razoável a fixação do valor dos danos morais, pelo Juízo a quu, em R$ 5.000,00 (cinco mil reais), valor que se
+demonstra compatível com as circunstâncias observadas no caso em concreto. Cumpre gizar que, por se tratar o INSS de pessoa jurídica de direito público, o critério utilizado para determinação do quantum indenizatório não tem caráter punitivo, mas meramente retributivo.
+(AC 198851010005488, Desembargador Federal FERNANDO MARQUES, TRF2 - SEXTA TURMA ESPECIALIZADA, DJU - Data:24/11/2005 - Fágina::172).
+8. Com relação à correção monetária, deve ser cumprido o disposto na Súmula n.º 362 do Eg. STJ. Acrescente-se que o cálculo da correção deverá ser feito com base no índice constante da Tabela de Precatórios da Justiça Federal.
+9. No tocante ao juros, impende aplicar a Lei n.º 11.960/09, que determina a aplicação dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança.
+10. Apelação do réu e recurso adesivo do autor improvidos.
+Opostos embargos de declaração, foram rejeitados (fls. 127/135e).
+Sustenta-se estarem presentes os pressupostos de admissibilidade do recurso especial (fls. 147/148e).
+Sem contraminuta (fl. 158e), os autos foram encaminhados a esta Corte.
+No Recurso Especial, fundado no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 10 do Decreto n. 20.910/32 e 206, § 3º, V, do Código Civil.
+Sem contrarrazões (fl. 142e).
+Nos termos do art. 544, § 4º, II, b, do Código de Processo Civil, o Relator está autorizado, por meio de decisão monocrática, a conhecer do Agravo para negar seguimento ao Recurso Especial manifestamente inadmissível, prejudicado ou em confronto com súmula ou jurisprudência dominante do Tribunal.
+Preenchidos os requisitos de admissibilidade do Agravo, passo à análise do Recurso Especial.
+Em relação à afronta aos arts. 10 do Decreto n. 20.910/32 e 206, § 3º, V, do Código Civil, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido, limitando-se a parte recorrente em apontá-la de forma vaga, o que impede o conhecimento do recurso especial.
+Desse modo, em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, a incidência da orientação contida na Súmula 284, do Colendo Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+AÇÃO DE COBRANÇA. DÉBITO DE TERCEIRO. OBRIGAÇÃO DE NATUREZA PESSOAL. RESPONSABILIDADE DO CONSUMIDOR QUE EFETIVAMENTE UTILIZOU O SERVIÇO.
+1. O recurso especial não pode ser conhecido no tocante à alegada ofensa à Resolução ANEEL 456/00. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Hipótese em que incide a Súmula 284/STF, por deficiência na fundamentação.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 401.883/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 11/02/2014, DJe 18/02/2014).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ACÓRDÃO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO COMPROVAÇÃO DE QUE FOI INTERPOSTO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+3. No que tange à apontada violação do art. 292 do Código de Processo Civil, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 441.462/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/02/2014, DJe 07/03/2014).
+Isto posto, nos termos do art. 1.021, § 2º, do Código de Processo Civil de 2015, RECONSIDERO a decisão de fls. 164/167e, restando, por conseguinte, PREJUDICADO o agravo interno de fls. 172/176e, com fundamento no art. 544, § 4º, II, b, do Código de Processo Civil, CONHEÇO do Agravo e NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
