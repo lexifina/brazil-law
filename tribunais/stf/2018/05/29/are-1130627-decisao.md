@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à procedência dos pedidos de indenização por danos morais, considerada a má prestação do serviço, e de inexistência dos débitos em nome do agravado, devido a irregularidade na cobrança nas faturas de água. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação do artigo 5º, incisos II, XXXVI, LIII e LV, da Constituição Federal. Diz contrariados os princípios da proporcionalidade e da razoabilidade. Afirma a inocorrência de troca de hidrômetro, mas instalação. Diz não demonstrado o dano. Requer a redução do valor fixado a título de indenização por danos morais.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho a síntese da decisão recorrida:
+    APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS COM PEDIDO DE TUTELA ANTECIPADA E PRECEITO COMINATÓRIO – NEGATIVAÇÃO INDEVIDA – TROCA DE HIDRÔMETRO - NOVO EQUIPAMENTO MEDIDOR QUE REVELA IRREGULAR CONSUMO AUMENTANDO EXCESSIVAMENTE O VALOR DA FATURA – EMPRESA DESO QUE NÃO SE DESINCUMBIU DO SEU ÔNUS PROBATÓRIO – SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE AS ROGATIVAS AUTORAIS – APELANTE QUE VISA A REFORMA DA SENTENÇA, OU, SUBSIDIARIAMENTE, A REDUÇÃO DO QUANTUM INDENIZATÓRIO – OBRIGAÇÃO DE FAZER – MANTIDA – DANO MORAL – CONFIGURADO – MANTIDO O VALOR INDENIZATÓRIO A TÍTULO DE DANOS MORAIS EM R$ 5.000,00 (CINCO MIL REAIS) – PREQUESTIONAMENTO – SENTENÇA IRRETOCÁVEL – RECURSO CONHECIDO E IMPROVIDO – À UNANIMIDADE.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    No mais, no agravo de instrumento nº 839.695, da relatoria do ministro Cezar Peluso, concluiu-se não ter repercussão geral no tema relativo ao quantum indenizatório de condenação por danos morais e materiais decorrentes da relação entre concessionária de serviço público e consumidor.
+    3. Conheço do agravo e o desprovejo. Considerada a protocolação deste agravo sob a regência do Código de Processo Civil de 2015, fixo os honorários recursais no patamar de 6% do valor da causa, nos termos do artigo 85, § 11, do citado diploma legal.
+    4. Publiquem.
+Brasília, 29 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
