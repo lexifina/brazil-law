@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] e outro contra decisão monocrática que deu provimento ao recurso especial interposto pelo Ministério Público do Estado do Paraná tão somente para adequação das sanções impostas.
+Em suas razões, os embargantes sustentam, em síntese, que (I) há omissão consubstanciada na ausência de julgamento do agravo em recurso especial por eles interposto; (II) há obscuridade ao passo que a decisão embargada parte do pressuposto que não houve condenação ao ressarcimento; e (III) o art. 12, III da Lei 8.429/92 - usado para a fixação das penas - vincula a multa ao valor da remuneração e não ao valor do dano.
+Impugnação às fls. 906/909.
+É o relatório. Passo a decidir.
+De início, resta prejudicada a tese de omissão quanto ao julgamento do agravo em recurso especial interposto pelos ora embargantes, haja vista que referido recurso foi por mim julgado nesta data.
+Por sua vez, não assiste razão aos embargantes quanto à alegação de que a decisão monocrática foi obscura quanto ao pressuposto de que não houve condenação ao ressarcimento. Em verdade, decidiu-se que a imposição isolada do ressarcimento ao erário retira o caráter pedagógico e preventivo da norma, motivo pelo qual sua cominação deve sempre vir acompanhada de pelo menos uma das sanções legais que, efetivamente, visam a reprimir a conduta ímproba e a evitar o cometimento de novas infrações.
+Desse modo, não se vislumbra qualquer obscuridade na decisão que determinou a majoração das sanções impostas pelo Tribunal de origem, a fim de que, além do ressarcimento ao erário, fosse o réu [NOME] condenado igualmente ao pagamento de multa civil.
+No entanto, com razão a parte embargante ao ressaltar que o parâmetro de cálculo da penalidade, nos termos do que dispõe o art. 12, III, da Lei de Improbidade Administrativa, deve ser o valor da remuneração percebida, e não o montante do dano.
+Ante o exposto, acolho parcialmente os embargos de declaração para retificar a decisão embargada e determinar que [NOME] [NOME] seja condenado ao pagamento de multa civil a ser calculada com base no valor de uma remuneração recebida pelo exercício do cargo de Assessor de Imprensa do Município de Vitorino, incluindo o montante percebido a título de gratificação.
+Publique-se.
