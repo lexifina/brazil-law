@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região assim ementado (eDOC 1, p. 77) :
+    “ALIENAÇÃO FIDUCIÁRIA - ART. 27, § 8°, LEI 9.517/97 - CAIXA ECONÔMICA FEDERAL - ILEGITIMIDADE PASSIVA - RECURSO IMPROVIDO.
+    1. Segundo o artigo 23 do CTN, o IPTU, "imposto, de competência dos Municípios, sobre a propriedade predial e territorial urbana tem como fato gerador a propriedade, o domínio útil ou a posse de bem imóvel por natureza ou por acessão física, como definido na lei civil, localizado na zona urbana do Município".
+    2. Ocorre que o §8° do artigo 27 da Lei n.° 9.514/1997 prescreve que "responde o fiduciante pelo pagamento dos impostos, taxas, contribuições condominiais e quaisquer outros encargos que recaiam ou venham a recair sobre o imóvel, cuja posse tenha sido transferida para o fiduciário, nos termos deste artigo, até a data em que o fiduciário vier a ser imitido na posse".
+    3. No caso, a Caixa Econômica Federal não é responsável pelo pagamento do IPTU na condição de credora fiduciária.
+    4. Não tem cabimento a condenação da agravante, como requerida pela agravada, nos termos do art. 85, § 1°, CPC, porquanto, na hipótese de recursos, deverá ser observado também o disposto no § 11 do mesmo dispositivo legal ("§ 11. O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento."), sendo que, no caso, não houve condenação em honorários advocatícios na origem.
+    5. Agravo de instrumento improvido. ”
+    Os embargos declaratórios foram rejeitados (eDOC 1, p. 105).
+    No recurso extraordinário interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 146, III, “a”, do Texto Constitucional.
+    Nas razões recursais, sustenta-se que a Lei 9.514/1997 é via inadequada para contemplar matéria sob reserva de lei complementar.
+    Aduz-se, ainda, que a Caixa Econômica Federal é proprietária do imóvel em conjunto com os devedores fiduciantes, devendo constar no polo passivo da demanda como responsável tributária.
+    É o relatório. Decido.
+    Não assiste razão à parte recorrente.
+    Da leitura dos fundamentos acolhidos pelo acórdão recorrido, verifica-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame do conjunto fático probatório dos autos, bem como da legislação infraconstitucional, notadamente o Código Civil, o CTN, a Lei 9.514/1997 e o Código Tributário Municipal, o que inviabiliza o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmulas 279 e 280 do STF.
+    Veja-se, nesse sentido, o seguinte precedente:
+    “DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. TRIBUTOS INCIDENTES SOBRE BEM IMÓVEL (IPTU E TAXAS MUNICIPAIS). EXCLUSÃO DA CAIXA ECONÔMICA FEDERAL (CREDORA FIDUCIÁRIA) DO POLO PASSIVO DO FEITO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve anterior condenação em honorários advocatícios.” (ARE 991704 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 13.03.2017)
+    Em controvérsia análoga, veja-se o RE 1.082.362, de relatoria do Ministro Celso de Mello, DJe 24.10.2017; RE 1.085.364, de relatoria do Ministro Dias Toffoli, DJe 07.11.2017; e RE 1.090.646, de relatoria do Ministro Alexandre de Moraes, DJe 20.11.2017.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do artigo 932, IV, “a”, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 29 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
