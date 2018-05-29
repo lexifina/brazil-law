@@ -1,0 +1,13 @@
+DECISÃO
+1. Cuida-se de agravo interposto por GAFISA SPE-112 EMPREENDIMENTOS IMOBILIARIOS LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Agravo de instrumento - Obrigação de fazer combinada com indenização por danos materiais e morais - Vagas de garagem em empreendimento que não estão viáveis para o uso - Decisão que acolheu a preliminar de ilegitimidade ativa da agravante - Recurso da requerente - Alegação de que é parte legítima para figurar no polo ativo da ação - Cabimento - Agravante que é possuidora direta do imóvel, sendo imediata e concretamente prejudicada com o suposto defeito na construção da garagem - Existência de pertinência subjetiva para figurar no polo ativo do feito - Preliminar rejeitada - Decisão reformada - AGRAVO PROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 18 e 485, inciso I, do CPC de 2015 (antigos artigos 6º e 267, inciso I, do CPC de 1973), defendendo a ilegitimidade ativa da ora agravada.
+É o relatório. DECIDO.
+2. Ao reconhecer a legitimidade ativa da ora recorrida, o Tribunal de origem assim consignou:
+Questão singela: em "ação de obrigação de fazer c/c reparação de danos" ajuizada pela agravada e seus pais JOSÉ e ANA em face das agravadas, a decisão agravada acolheu a preliminar acolheu a preliminar de ilegitimidade ativa em relação à agravante GIOVANA, ao fundamento que "a autora não tem direito de postular direito alheio em nome próprio".
+Respeitado o entendimento do Julgador monocrático, dele não comungo. Com efeito, a posse direta do bem, torna legítimo o direito de fruir de vagas de garagem que, segundo a agravante, não estão viáveis para o uso. Sendo da agravante o uso direito de tais vagas, possui ela pertinência subjetiva para figurar no polo ativo da demanda.
+Mais não é preciso dizer.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de afastar a legitimidade da ora agravada para figurar no polo ativo da ação, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
