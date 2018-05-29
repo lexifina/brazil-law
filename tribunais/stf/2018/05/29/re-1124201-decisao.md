@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEI MUNICIPAL – INICIATIVA PARLAMENTAR – SEPARAÇÃO DOS PODERES – PRECEDENTES DO PLENÁRIO – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo assentou, em processo objetivo, a inconstitucionalidade da Lei nº 8.038/2014 do Município de Franca, a versar a instituição de sistema temporário de estacionamento em vias públicas no entorno de eventos com grande fluxo de pessoas, ante fundamentos assim resumidos:
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE. Lei nº 8.038, de 8 de abril de 2014, do Município de Franca, que institui no Município o sistema de estacionamento “área Azul Social” em vias públicas situadas no entorno de eventos com grande afluxo público. Vício de iniciativa. Matéria de gestão administrativa que é da competência reservada do Chefe do Executivo. Afronta aos artigos 5º, 47, II, XIV e XIX e 144 da Carta Bandeirante. Ação procedente.
+    Nas razões do extraordinário, a Câmara Municipal de Franca aponta violados os artigos 2º, 30, incisos I e II, e 61 da Constituição Federal. Consoante afirma, a Lei impugnada não trata de gestão administrativa do Município, surgindo a iniciativa da Câmara de Vereadores, considerado o interesse local. Diz que as normas de iniciativa reservada mostram-se excepcionais, devendo ser interpretadas de maneira estrita.
+    2. O acórdão recorrido está em harmonia com a jurisprudência do Supremo, segundo a qual são incompatíveis, com a Constituição Federal, diplomas normativos de iniciativa parlamentar a versarem a criação, estruturação e, como na situação em jogo, atribuições das secretarias e órgãos da Administração Pública, considerada a competência privativa do Chefe do Executivo – artigo 61, § 1º, inciso II, alínea “a”, da Lei Maior. Precedentes: ação direta de inconstitucionalidade nº 2.329, relatora ministra Cármen Lúcia, Pleno, acórdão publicado no Diário da Justiça de 25 de junho de 2010; agravo regimental no recurso extraordinário nº 653.041, relator ministro Edson Fachin, Primeira Turma, acórdão publicado no Diário da Justiça de 9 de agosto de 2016. Confiram a ementa da decisão formalizada nesse último processo:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. VÍCIO DE INICIATIVA. LEI DE INICIATIVA PARLAMENTAR QUE DISPÕE SOBRE ATRIBUIÇÕES E ESTABELECE OBRIGAÇÃO A ÓRGÃO DA ADMINISTRAÇÃO PÚBLICA. INCONSTITUCIONALIDADE. PRECEDENTES. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+    1. Acórdão recorrido que se encontra em sintonia com a jurisprudência desta Corte no sentido de que padece de inconstitucionalidade formal a lei de iniciativa parlamentar que disponha sobre atribuições ou estabeleça obrigações a órgãos públicos, matéria da competência privativa do Chefe do Poder Executivo.
+    2. Agravo regimental a que se nega provimento.
+    3. Ante os precedentes, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 29 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
