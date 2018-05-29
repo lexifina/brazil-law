@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (fl. 349):
+PREVIDENCIÁRIO. APOSENTADORIA HÍBRIDA POR IDADE. INTEGRAÇÃO DE PERÍODO DE TRABALHO RURAL AO DE CATEGORIA DIVERSA. ART. 48, §3º DA LEI 8.213/91. CARÊNCIA E REQUISITO ETÁRIO.
+1. Os trabalhadores rurais que não atendam ao disposto no art. 48, § 2º, da Lei nº 8.213/01, mas que satisfaçam as demais condições, considerando-se períodos de contribuição sob outras categorias do segurado, farão jus ao benefício de aposentadoria por idade ao completarem 65 (sessenta e cinco) anos de idade, se homem, e 60 (sessenta) anos, se mulher, conforme o disposto no art. 48, § 3º da Lei nº 8.213/91.
+2. Preenchendo a parte autora o requisito etário e a carência exigida, tem direito a concessão da aposentadoria por idade.
+
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial (fls. 378-384) , o recorrente aponta violação do art. 1.022 do CPC, porquanto o Tribunal de origem não sanou a omissão na interpretação dada aos arts. 25, 48 e 55, § 2º, da Lei 8.213/91.
+Alega, ainda, violação aos arts. 25, 48 e 55, § 2º, da Lei 8.213/91.
+Sustenta, em síntese, que a parte autora abandonou as atividade rurais há muito tempo, não sendo possível enquadrá-la na condição de trabalhadora rural. Ademais, sustenta não haver carência suficiente para a concessão da aposentadoria híbrida.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+O recurso não merece trânsito.
+A Corte de origem analisou as alegações da parte quanto à matéria tida como omissa, conforme se percebe do seguinte trecho do acórdão (fls. 340-342):
+Como se vê, o artigo introduziu uma nova modalidade de aposentadoria por idade, que vem sendo chamada de híbrida ou mista, em função de haver autorizado a utilização de períodos de contribuição sob diferentes categorias de trabalho para a implementação do requisito carência.
+A concessão do benefício, entretanto, acabou revelando divergências de interpretação, tanto na esfera administrativa quanto na judicial.
+A controvérsia alcançou a própria natureza do benefício, se rural ou urbana, em função da redação do § 3º ("Os trabalhadores rurais de que trata.."), interpretação esta que, exigindo a concomitância dos requisitos etário e carência (isto é, a comprovação de atividade rural, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, como preceituado no § 2º) poderia acabar por afastar o benefício do trabalhador que houvesse abandonado o labor rural ou migrado para o trabalho urbano.
+Tal interpretação acabou, entretanto, sendo afastada. Sobre o tema já se manifestou a 3a Seção deste Tribunal (Embargos Infringentes em Matéria Cível nº 0008828-26.2011.404.9999/PR, DJe de 11/01/2013), onde o Desembargador Federal Ricardo Teixeira do Valle Pereira, relator para o acórdão, lecionou:
+"Ao § 3º do artigo 48 da LB não pode ser emprestada interpretação restritiva. Tratando-se de trabalhador rural que migrou para a área urbana, o fato de não estar desempenhando atividade rural por ocasião do requerimento administrativo não pode servir de obstáculo à concessão do benefício. A se entender assim, o trabalhador seria prejudicado por passar contribuir, o que seria um contrassenso.
+A condição de trabalhador rural, ademais, poderia ser readquirida com o desempenho de apenas um mês nesta atividade. Não teria sentido se exigir o retorno do trabalhador às lides rurais por apenas um mês para fazer jus à aposentadoria por idade. O que a modificação legislativa permitiu foi, em rigor, o aproveitamento do tempo rural para fins de carência, com a consideração de salários-de-contribuição pelo valor mínimo, no caso específico da aposentadoria por idade aos 60 (sessenta) ou 65 (sessenta e cinco) anos (mulher ou homem).
+A verdade é que em uma situação como esta, o segurado não deixou de trabalhar; apenas mudou de regime. Não pode ser prejudicado pelo fato de ter passado a contribuir como trabalhador urbano. Tivesse continuado a trabalhar como agricultor em regime de economia familiar, sem efetuar qualquer recolhimento de contribuições, poderia ter obtido aposentadoria em aos 55 (cinqüenta e cinco) ou 60 (sessenta) anos de idade sem qualquer problema. Não há razão, assim, para que se negue o direito ao benefício, em com requisito etário mais rigoroso, somente porque passou a recolher contribuições.
+Assim, sob pena de se relegar ao desamparo quem jamais deixou de exercer atividade laborativa, há de se adotar entendimento no sentido de reconhecer o direito à aplicação da regra do artigo 48, § 3º, da Lei 8.213/91 a todos os trabalhadores que tenham desempenhado de forma intercalada atividades urbanas e rurais."
+Quanto à natureza do benefício, no mesmo voto, observa:
+"Há de se considerar, ainda, que a denominada aposentadoria mista ou híbrida, por exigir que o segurado complete 65 (sessenta e cinco) anos de idade, se homem, e 60 (sessenta) anos, se mulher, em rigor é uma aposentadoria de natureza urbana. Quando menos, para fins de definição de regime deve ser equiparada à aposentadoria urbana. Com efeito, a Constituição Federal, em seu artigo 201, § 7-, II, prevê a redução do requisito etário apenas para os trabalhadores rurais. Exigidos 65 (sessenta e cinco) anos de idade, se homem, e 60 (sessenta) anos, se mulher, a aposentadoria mista é, pode-se dizer, subespécie da aposentadoria urbana.
+Esta constatação (da similaridade da denominada aposentadoria mista ou híbrida com a aposentadoria por idade urbana) prejudica, como já anunciado, a questão ligada à descontinuidade do tempo (rural e urbano) e bem assim, a discussão sobre o fato de não estar desempenhando o segurado atividade rural ao implementar o requisito etário."
+Não se configura, portanto, a ofensa ao art, 1.022 do CPC, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal com lhe foi apresentada.
+Com se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+Acerca da questão jurídica, verifica-se que a irresignação do recorrente vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu que a parte autora completou o requisito etário assim como o período de carência necessário para concessão do benefício.
+Nesse diapasão, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Nesse sentido, in verbis:
+PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. COMPROVAÇÃO DO EXERCÍCIO DO LABOR RURAL PELO PERÍODO DE CARÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual, para a concessão do benefício de aposentadoria por idade rural, é necessário o preenchimento de forma concomitante dos requisitos de idade (55 anos de idade para mulher e 60 anos para homem) e de carência, previstos nos arts. 48 e 143 da Lei n.
+8.213/1991.
+2. Ademais, a lei exige o exercício de atividade rural em período integral ou descontínuo, conforme preceitua o art. 48, § § 1º e 2º da Lei 8.213/1991.
+3. Na hipótese dos autos, a Corte Regional concluiu que houve o preenchimento do requisito etário e da carência, em obediência ao que preceituam os arts. 48 e 143 da Lei n. 8.213/1991, e que os períodos de trabalho urbano não foram suficientes para descaracterizar a condição de trabalhador rural do autor. 4.
+Considerando que a decisão foi lastreada no acervo fático-probatório dos autos, verifica-se que a análise da controvérsia demanda reexame de provas, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ.
+5. Recurso Especial do qual não se conhece.
+(REsp 1703389/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/12/2017, DJe 19/12/2017)
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. ATIVIDADE RURAL.
+INÍCIO DE PROVA MATERIAL. PROVA TESTEMUNHAL. PREMISSA FÁTICA.
+INVERSÃO. DESCABIMENTO. 1. A Primeira Seção, em julgamento proferido sob o rito do art. 543-C do CPC/73, assentou a compreensão de ser "possível o reconhecimento do tempo de serviço mediante apresentação de um início de prova material, desde que corroborado por testemunhos idôneos" (REsp n. 1.348.633/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Seção, julgado em 28/08/2013, DJe 05/12/2014).
+2. Nos termos da Jurisprudência deste STJ, o documento extemporâneo ao tempo serviço pode servir como início de prova material, mas deve ser confirmado por robusta prova testemunhal.
+3. Hipótese em que o Tribunal de origem reconheceu que os testemunhos existentes no processo não corroboraram a documentação apresentada, de modo que a inversão do julgado demandaria o reexame de prova, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 943.928/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/11/2017, DJe 02/02/2018)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
