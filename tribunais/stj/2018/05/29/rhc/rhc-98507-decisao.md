@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por WESLEY HENRIQUE LIMA TIMOTEO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo nos autos do HC n. 0011885-84.2018.8.26.0000.
+Consta dos autos que o recorrente foi preso em flagrante, custódia essa convertida em preventiva, pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006, porque "mantinha em depósito, para fins de tráfico, sem autorização e em desacordo com determinação legal ou regulamentar, aproximadamente 13,480g (treze gramas, quatrocentos e oitenta miligramas) da droga denominada cocaína, acondicionados em 28 (vinte e oito) cápsulas plásticas; 47,920g (quarenta e sete gramas, novecentos e vinte miligramas) da substância entorpecente "Cannabis Sativa L", vulgarmente conhecida como maconha, acondicionados em duas porções" (e-STJ fl. 43).
+Impetrado habeas corpus no Tribunal de origem objetivando a soltura do então paciente, a ordem foi denegada, em acórdão representado pela seguinte ementa (e-STJ fl. 16):
+Habeas Corpus - Tráfico ilícito de drogas - Prisão preventiva do paciente foi fundamentada de acordo com os pressupostos referidos pelo artigo 312 do Código de Processo Penal - Gravidade em concreto do delito - Condições pessoais perdem a relevância diante da necessidade da custódia cautelar - Ordem denegada.
+No presente recurso ordinário, assevera a defesa inexistir motivação idônea para a custódia cautelar do recorrente, visto que não foi apontada concretamente a presença dos requisitos contidos no art. 312 do Código de Processo Penal.
+Aduz, ainda, que o "paciente possui endereço fixo, é filho da terra de Jardinópolis-SP, há vários anos, primário, nunca passou perto de uma delegacia de polícia e caberia ao caso a aplicação da medidas cautelares descritas no artigo 319 CPP" (e-STJ fl. 10).
+Diante dessas considerações, requer, inclusive liminarmente, a revogação da custódia cautelar do recorrente.
+É o relatório.
+Inicialmente, deve-se asseverar que a interposição de recurso ordinário em habeas corpus, como é cediço, deve ser feita perante o Tribunal prolator do acórdão impugnado, o qual remeterá o feito a esta Corte Superior, após a devida análise quanto aos requisitos de admissibilidade do recurso.
+Na hipótese, não é possível o conhecimento do presente recurso ordinário, uma vez que o recorrente interpôs o recurso diretamente neste Tribunal Superior, olvidando-se, portanto, de observar as regras legais que lhe são atinentes.
+Além disso, exsurge dos autos que o presente recurso impugna o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo por ocasião do julgamento do HC n. 0011885-84.2018.8.26.0000.
+Ocorre que a causa de pedir e o pedido deste recurso em habeas corpus são idênticos àqueles trazidos no HC n. 450.810/SP, impetrado nesta Corte e que impugna o mesmo acórdão prolatado nos autos do HC n. 0011885-84.2018.8.26.0000.
+Ante o exposto, diante da constatação de que o presente recurso em habeas corpus configura mera reiteração do HC n. 450.810/SP, dele não conheço.
+Publique-se. Intimem-se.
