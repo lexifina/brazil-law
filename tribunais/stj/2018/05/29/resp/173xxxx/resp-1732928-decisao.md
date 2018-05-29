@@ -1,0 +1,20 @@
+EMENTA
+AMBIENTAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AVERBAÇÃO DA RESERVA LEGAL NO REGISTRO IMOBILIÁRIO. OBRIGAÇÃO EXISTENTE, NAS CIRCUNSTÂNCIAS DO CASO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Estado de Minas Gerais contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+APELAÇÃO CÍVEL - (..) - EMBARGOS À EXECUÇÃO - TERMO DE AJUSTAMENTO DE CONDUTA - AVERBAÇÃO DE RESERVA LEGAL - NOVO CÓDIGO FLORESTAL - FACULTATIVIDADE DE REGISTRO NO CARTÓRIO DE IMÓVEIS - LICENCIAMENTO AMBIENTAL E OUTORGA DE RECURSOS HÍDRICOS - FALTA DE INDÍCIOS QUANTO AO DESCUMPRIMENTO DA OBRIGAÇÃO - TÍTULO INEXIGÍVEL - SENTENÇA CONFIRMADA - RECURSO NÃO PROVIDO. (..) 2. Com o advento da Lei nº 12.651, de 26/05/2012, ficou definida a inscrição obrigatória no CAR de todos os imóveis rurais, facultando-se a averbação no Cartório de Registro de Imóveis; logo, deve ser afastado o cumprimento de tal obrigação disposta no TAC. 3. A falta de indícios quanto ao descumprimento do termo de ajustamento de conduta no que se refere ao licenciamento ambiental e uso de recursos hidricos traduz-se na inexigibilidade do titulo extrajudicial. 4. Sentença mantida. 5. Recurso não provido.
+Os embargos de declaração foram rejeitados. No recurso especial, a parte recorrente aponta violação aos seguintes dispositivos: (a) art. 1.022, II, do CPC/2015, aduzindo que não foram sanados os vícios apontados nos embargos de declaração; (b) art. 18, § 4º, da Lei 12.651/12, sustentando, em síntese, que, apesar de o legislador ordinário de 2012 ter criado o CAR, persiste a obrigação dos recorridos de averbar a área de reserva legal no Registro de Imóveis, já que não registraram tal área no CAR.
+Houve contrarrazões.
+O Ministério Público Federal, em seu parecer, opina pelo provimento do recurso especial.
+É o relatório. Passo a decidir.
+Antes de mais nada, necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Relativamente à alegada violação ao art. 1.022 do CPC/2015, sem razão o recorrente.
+Como se sabe, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia.
+No caso, bem ou mal, certo ou errado, a Corte de origem decidiu a controvérsia de modo integral e suficiente ao consignar que não há falar em exigência de cumprimento de cláusula do TAC referente à averbação da área de reserva legal na matrícula do imóvel, ante a superveniência do novo Código Florestal.
+Sobre a questão de fundo, tem razão o MP/MG quando sustenta que, com a nova legislação, o obrigação não deixou de existir, apenas uma nova e alternativa forma foi possibilitada, permanecendo o dever de averbá-la no registro imobiliário enquanto não formalizada no Cadastro Ambiental Rural (CAR).
+Tal argumentação encontra amparo em precedente desta Corte, senão vejamos:
+(.. ) 3. A Lei 12.651/12, que revogou a Lei 4.771/65, não suprimiu a obrigação de averbação da Área de Reserva Legal no Registro de Imóveis, mas apenas possibilitou que o registro seja realizado, alternativamente, no Cadastro Ambiental Rural - CAR. 4. Recurso Especial provido. (REsp 1426830/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/10/2016, DJe 29/11/2016)
+Assim, deve ser reformado o acórdão recorrido para que a recorrida averbe a reserva legal de sua propriedade no registro imobiliário, caso não tenha feito a instituição no âmbito do CAR.
+Aplicação da Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
