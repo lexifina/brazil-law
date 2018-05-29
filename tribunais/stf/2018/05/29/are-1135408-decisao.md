@@ -1,0 +1,38 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Décima Sétima Câmara de Direito Público do Tribunal de Justiça de São Paulo, assim ementado:
+    “Ação revisional - Benefício judicialmente concedido - Recálculo da RMI por critérios diverso do homologado judicialmente - Coisa julgada - Impossibilidade - Sentença de improcedência mantida - Recurso improvido.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário aponta-se violação dos artigos 5º, inciso LV, 6º, 93 inciso IX, 194 e 201, inciso I, da Constituição Federal.
+    Decido.
+    Não procede a alegada violação do artigo 93, inciso IX, da Constituição, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    O Tribunal de origem, nos termos do voto condutor do acórdão atacado, manteve a sentença que julgou improcedente o pedido de recálculo da renda mensal inicial do benefício de auxílio-acidente amparado nos seguintes fundamentos:
+    “Pretende o segurado a revisão do auxílio-acidente, com o recálculo da RMI mediante o descarte dos 20% menores salários-de-contribuição no período básico de cálculo.
+    Ocorre que o auxílio-acidente em tela foi judicialmente concedido (fls. 33/37), a partir de 30.05.1998 com início de pagamento administrativo em 01.08.2003 e implantação em 21.02.2005 (fl. 31).
+    Outrossim, o processo concessório já transitou em julgado, tendo o autor expressamente concordado com os cálculos ofertados pela autarquia quando apurados os valores em atraso na fase de liquidação, dando-se a implantação administrativa da benesse com aquele valor, sem qualquer insurgência no momento oportuno.
+    Diante disso, impõe-se o reconhecimento de que tanto o valor de sua renda mensal inicial como os critérios adotados para a sua apuração foram alcançados pela coisa julgada.”
+    Assim, para que se pudesse decidir de forma diversa do acórdão recorrido seria imprescindível a verificação dos limites objetivos da coisa julgada, ao que não se presta o recurso extraordinário. Sobre o tema, anote-se a seguinte passagem do voto do Ministro Celso de Mello, Relator, proferido no julgamento do AI nº 452.174/RJ-AgR:
+    “Cabe não desconhecer, de outro lado, com relação à suposta ofensa ao postulado da coisa julgada, a diretriz jurisprudencial prevalecente no Supremo Tribunal Federal, cuja orientação, no tema, tem enfatizado que a indagação pertinente aos limites objetivos da ‘res judicata’ traduz controvérsia ‘que não se alça ao plano constitucional do desrespeito ao princípio de observância da coisa julgada, mas se restringe ao plano infraconstitucional, configurando-se, no máximo, ofensa reflexa à Constituição, o que não dá margem ao cabimento do recurso extraordinário’ (RE 233.929/MG, Rel. Min. MOREIRA ALVES - grifei).
+    Daí recente decisão desta Suprema Corte, que, em julgamento sobre a questão ora em análise, reiterou esse mesmo entendimento jurisprudencial:
+     ‘RECURSO EXTRAORDINÁRIO - POSTULADO CONSTITUCIONAL DA COISA JULGADA - ALEGAÇÃO DE OFENSA DIRETA - INOCORRÊNCIA - LIMITES OBJETIVOS - TEMA DE DIREITO PROCESSUAL - MATÉRIA INFRACONSTITUCIONAL - VIOLAÇÃO OBLÍQUA À CONSTITUIÇÃO - RECURSO DE AGRAVO IMPROVIDO.
+    - Se a discussão em torno da integridade da coisa julgada reclamar análise prévia e necessária dos requisitos legais, que, em nosso sistema jurídico, conformam o fenômeno processual da res judicata, revelar-se-á incabível o recurso extraordinário, eis que, em tal hipótese, a indagação em torno do que dispõe o art. 5º, XXXVI, da Constituição - por supor o exame, in concreto, dos limites subjetivos (CPC, art. 472) e/ou objetivos (CPC, arts. 468, 469, 470 e 474) da coisa julgada - traduzirá matéria revestida de caráter infraconstitucional, podendo configurar, quando muito, situação de conflito indireto com o texto da Carta Política, circunstância essa que torna inviável o acesso à via recursal extraordinária. Precedentes.’
+    (RTJ 182/746, Rel. Min. CELSO DE MELLO)
+     Mostra-se relevante acentuar que essa orientação tem sido observada em sucessivas decisões proferidas no âmbito desta Suprema Corte (AI 268.312-AgR/MG, Rel. Min. MAURÍCIO CORRÊA - AI 330.077-AgR/RS, Rel. Min. CELSO DE MELLO - AI 338.927-AgR/RS, Rel. Min. ELLEN GRACIE - AI 360.269-AgR/SP, Rel. Min. NELSON JOBIM).
+    Sendo esse o contexto em que proferida a decisão em causa, não vejo como dele inferir o pretendido reconhecimento de ofensa direta ao que dispõe o art. 5º, XXXVI, da Carta Política, pois - insista-se - a discussão em torno da definição dos limites subjetivos ou objetivos pertinentes à coisa julgada qualifica-se como controvérsia impregnada de natureza eminentemente infraconstitucional, podendo configurar, ‘no máximo, ofensa reflexa à Constituição, o que não dá margem a recurso extraordinário’ (RTJ 158/327, Rel. Min. MOREIRA ALVES - grifei)” (DJ de 17/10/03).
+    No mesmo sentido, destaco os seguintes precedentes:
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. DECISÃO BASEADA NA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. LIMITES DA COISA JULGADA. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Incidência da Súmula 280 desta Corte.
+    II - esta Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária.
+    III - Agravo regimental improvido” (AI nº 601.325/PR-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 17/8/07).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. OFENSA REFLEXA. REPETIÇÃO DE INDÉBITO. JUROS MORATÓRIOS. TERMO INICIAL. TRÂNSITO EM JULGADO.
+    1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+    2. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição.
+    3. O termo inicial da fluência dos juros moratórios, na repetição do indébito, dá-se na data do trânsito em julgado da decisão [art. 167, parágrafo único, do CTN]. Precedentes.
+    4. Agravo regimental a que se nega provimento” (AI nº 658.206/RS-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 28/9/07).
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 29 de maio de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
