@@ -1,0 +1,58 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSOS ESPECIAIS. CUMPRIMENTO DE SENTENÇA. CISÃO PARCIAL DE BANCO (BAMERINDUS E HSBC). REDIRECIONAMENTO DA EXECUÇÃO.
+1. EMBARGOS DE DECLARAÇÃO OPOSTOS PELO BANCO HSBC PARA CORREÇÃO DE ERRO MATERIAL SANEADO QUANDO DO ADITAMENTO DO VOTO POR ESTE RELATOR. EMBARGOS PREJUDICADOS.
+2. EMBARGOS DE DECLARAÇÃO OPOSTOS PELO TERCEIRO INTERESSADO. VÍCIOS DE JULGAMENTO INEXISTENTES. EQUÍVOCOS APONTADOS SANEADOS NA SESSÃO DE JULGAMENTO QUE ACOLHEU O ADITAMENTO DO VOTO-CONDUTOR.
+3. TENTATIVA DE ANTECIPAÇÃO DE QUESTÕES JURÍDICAS A SEREM OBJETO DE ANÁLISE PELO JUÍZO DO CUMPRIMENTO DE SENTENÇA. INJUSTIFICÁVEL PROTELAR MAIS A EXECUÇÃO DE SENTENÇA, COM BASE APENAS NA ALEGAÇÃO DE TÉRMINO DA LIQUIDAÇÃO EXTRAJUDICIAL DO DEVEDOR ORIGINAL.
+4. INVIÁVEL A REDISCUSSÃO DA MATÉRIA EM SEDE DE DECLARATÓRIOS. A CONTRARIEDADE DA PARTE COM A DECISÃO POSTA NÃO CARACTERIZA VÍCIO DE JULGAMENTO.
+5. EMBARGOS DE DECLARAÇÃO DO BANCO HSBC PREJUDICADOS E EMBARGOS DE DECLARAÇÃO DO BANCO SISTEMA REJEITADOS.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, decide a Egrégia TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, julgar prejudicado os embargos interpostos por Banco HSBC e rejeitar os embargos do Banco Sistema S/A, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze (Presidente), Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de embargos de declaração opostos por HSBC BANK BRASIL S/A - Banco Múltiplo S/A e por Banco Sistema S/A (terceiro interessado) contra acórdão desta Colenda Terceira Turma, ementado nos seguintes termos:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. CISÃO PARCIAL DE BANCO (BAMERINDUS E HSBC). REDIRECIONAMENTO DA EXECUÇÃO. AUSÊNCIA DE CLÁUSULA DE SOLIDARIEDADE. CRÉDITO DO EXEQUENTE PREVISTO NO ROL DE CREDORES DA MASSA DO BANCO BAMERINDUS. INCIDÊNCIA DE JUROS DE MORA PREVISTOS NO TÍTULO JUDICIAL NO PERÍODO DE LIQUIDAÇÃO EXTRAJUDICIAL.
+1. Litígio em tramitação desde 1995, sendo redirecionado contra o Banco HSBC a partir 2011.
+2. Cumprimento de sentença prolatada em ação indenizatória movida contra o Banco Bamerindus S.A., à época em liquidação extrajudicial.
+3. Pedido de redirecionamento do cumprimento de sentença contra o Banco HSBC S.A. por ter ele adquirido ativos do banco liquidando.
+4. Aquisição de ativos de banco em liquidação e a possibilidade de sucessão frente ao seu passivo.
+5. Ausência de solidariedade contratual.
+6. A sucessão universal empresarial pressupõe a extinção da empresa sucedida.
+7. A cisão parcial de uma empresa não extingue a anterior, sendo necessário que, para que ocorra a solidariedade, previsão contratual expressa nesse sentido.
+8. A aquisição de ativos pelo HSBC do Banco Bamerindus, na fase de liquidação extrajudicial que tramitou perante o Banco Central, não extinguiu o banco liquidando, o que afasta a sucessão universal reconhecida na origem.
+9. No pacto de aquisição de ativos do HSBC, não há cláusula contratual de solidariedade para com os débitos do banco Bamerindus.
+10. Não é extensivo o benefício da massa, previsto no artigo 18, "d", da Lei 6.024/74, ao seu sucessor, devendo, assim, incidir juros moratórios previstos em título judicial pertencentes ao passivo da massa, sob pena de violação de direito adquirido.
+11. RECURSOS ESPECIAIS PROVIDOS.
+Em razões recursais do Banco HSBC, a parte embargante apontou erro material no julgado, pois teria constado na fundamentação do voto-condutor a citação "Banco Ativo S.A.", quando, em verdade, deferia ter constado "Banco Sistema S.A.". Postulou conhecimento e acolhimento para saneamento do erro material do voto-condutor.
+Por sua vez, em seus declaratórios, Banco Sistema S.A. aduziu vícios de omissão e contradição no acórdão embargado. Postulou, sucintamente, (a) a nova colheita de votos dos ministros em relação ao recurso especial da parte autora (Felipe), para que se delimite o objeto daquele recurso, com o reconhecimento de que a fluência dos juros de mora se dê somente contra o excluído Banco HSBC; (b) para que este relator "esclareça como é possível manter "o inteiro teor do voto anteriormente proferido na sessão de julgamento" e, ao mesmo tempo, excluir as referências à responsabilidade do Banco Sistema", bem como, qual seria a extensão do voto-condutor em relação ao recurso da parte autora (Felipe); (c) da irrelevância do levantamento da liquidação do Banco Bamerindus em 2014, frente ao Banco Sistema S.A.. Por fim, indica omissões e contradições no voto do Eminente Ministro Cueva. Postulou conhecimento e acolhimento do recurso, com efeitos infringentes.
+Presentes as impugnações da parte autora (Felipe) e do Banco HSBC aos embargos do Banco Sistema S.A.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes Colegas, os embargos do Banco HSBC estão prejudicados em razão do aditamento do voto-condutor, ocorrido na sessão de julgamento do dia 22 de março deste corrente ano, enquanto os embargos declaratórios do Banco Sistema S.A. não merecem ser acolhidos.
+O acórdão embargado julgou dois recursos especiais.
+O recurso especial do credor (Felipe), que aguarda recebimento de uma indenização desde quando tinha um ano de idade (1991); e o recurso especial do Banco HSBC, contra quem havia sido direcionado o cumprimento de sentença.
+Os referidos recursos especiais devolveram ao conhecimento desta Corte Superior duas questões jurídicas, sobre as quais o acórdão embargado acolheu a tese do Banco HSBC para:
+(i) da impossibilidade de ser redirecionado o cumprimento de sentença contra Banco HSBC S.A. por ter ele adquirido ativos do banco originalmente demandado (Banco Bamerindus S.A.), à época em liquidação extrajudicial promovida pelo Banco Central do Brasil;
+E acolheu a tese do credor para:
+(ii) da possibilidade de incidência de juros moratórios durante o período de liquidação extrajudicial, por se tratar de benefício exclusivo da massa do banco devedor e não de seus sucessores.
+Diversamente do alegado nos dois embargos de declaração opostos pelo Banco Sistema S.A., quanto ao recurso do credor (Felipe), apenas o eminente Ministro Villas Bôas Cueva deu por prejudicado, tendo os demais Ministros acompanhado o voto-condutor desta relatoria no sentido do provimento recursal, inclusive, tendo sido renovada tal orientação, quando da sessão em que proferido o aditamento do voto (e-STJ Fl. 2512), verbis:
+"Ainda, na certidão de julgamento, constou que o recurso especial da parte credora teria sido provido à unanimidade de votos, quando, na realidade, o em. Ministro Cueva, em seu voto, o julgava prejudicado (e-STJ Fl. 2.473)."
+Nesse sentido, na sessão de 22 de março, a Colenda Turma, por unanimidade, acolheu o aditamento ao voto desta relatoria para ajustar à decisão do Colegiado, retificando a decisão prolatada no dia 06 de março para (e-STJ FL. 2511) verbis:
+"Por maioria, deu provimento ao recurso especial interposto por [NOME], vencido o Sr. Ministro Ricardo Villas Bôas Cueva, que julgava prejudicado. E, por maioria, dar provimento ao recurso especial interposto por HSBC, nos termos do voto do Ministro Relator, vencidos a Sra. Ministra Nancy Andrighi e Moura Ribeiro, que não conheciam. Participaram do julgamento os Srs. Ministro Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellize e Moura Ribeiro."
+Portanto, não há necessidade de renovação da votação.
+O embargante Banco Sistema S.A., durante os quase quatro anos em que o recurso especial esteve concluso, não se apresentou como sucessor da massa falida do Banco Bamerindus S.A. (devedor originário), tendo comparecido apenas durante o julgamento colegiado pela Terceira Turma, com petição atravessada, que esta relatoria entendeu não ser passível de decisão unipessoal (Despacho de e-STJ Fl. 2424):
+"A Colenda Terceira Turma, ao apreciar o processo em epígrafe, na sessão realizada no dia 24/10/2017, após esta relatoria ter prolatado voto dando provimento aos recursos especiais, pediu vista antecipada a eminente Ministra Nancy Andrighi, aguardando os demais ministros. Portanto, nada a decidir até o encerramento do julgamento colegiado."
+Novamente, tal questão restou respondida no julgamento do dia 22 de março, quando do aditamento do voto-condutor, verbis:
+"Por fim, diante da exclusão do redirecionamento da execução contra o Banco Sistema S.A., dou por prejudicado seu requerimento de ingresso no presente recurso especial (e-STJ Fls. 2.334/2.422), restando a análise de possível interferência no curso do processo para apreciação pelas instâncias ordinárias, conforme proposto pela eminente Ministra Nancy Andrighi em seu judicioso voto (e-STJ Fl. 2.459)."
+Destaco, que a pretensão do embargante Banco Sistema S.A., sucessor, em verdade, do banco originalmente demandado, é antecipar debate acerca da quitação, ou da reserva de crédito que teria sido feita pela massa executada para pagamento do credor (Felipe).
+Essas questões jurídicas não foram conhecidas por esta Corte, sendo submetidas ao juízo de primeiro grau, sob pena de conhecimento de matérias não devolvidas com o presente recurso, com supressão de instância, conforme entendimento manifestado pela eminente Ministra Nancy Andrighi em seu voto (e-STJ Fl. 2.460).
+Quanto à extensão do recurso especial interposto pela parte credora, a tese jurídica adotada pela maioria da Turma, vencido o eminente Ministro Villasboas Cueva, entendendo estar prejudicado o recurso, foi no sentido da possibilidade de incidência de juros moratórios durante o período de liquidação extrajudicial, por se tratar de benefício exclusivo da massa do banco devedor, e não de seus sucessores.
+Logo, não se limitou ao Banco HSBC ou a qualquer outra instituição financeira, pois o julgamento se deu sob o prisma do crédito do exequente frente aos sucessores do devedor, independente de quem seja.
+Importante anotar que o título judicial executado é a sentença de procedência, prolatada nos autos da ação indenizatória movida por Felipe (credor), à época menor, representado pelo seu tutor, contra o Banco Bamerindus S.A. (que virou massa falida), em razão de veículo da propriedade do banco haver colidido frontalmente, na contramão, com automóvel da família do autor, levando a óbito seus pais - a mãe SÔNIA REGINA M. [NOME] [NOME], então com 27 anos de idade, e o pai [NOME], então com 31 anos de idade -, restando como único sobrevivente do acidente o filho dos falecidos, há época com 1 ano e 6 meses de vida.
+O acidente ocorreu no dia 13 de setembro de 1991 (e-STJ Fl. 73), tendo sido ajuizada a ação indenizatória nos idos de setembro de 1995, sem ter, ao que tudo indica, até hoje recebido a justa indenização.
+A liquidação extrajudicial do banco executado findou em 2014, ano de conclusão dos recursos especiais objeto do acórdão embargado, sendo sabido pelo Banco Sistema S.A. do crédito existente frente ao banco que ele sucede.
+Não é admissível, agora, a reabertura de nova discussão acerca do crédito líquido e certo do demandante, no cumprimento de sentença, em sede de embargos de declaração por quem nunca se apresentou nos autos, salvo quando do provimento do recurso especial do credor.
+Em suma, a contrariedade do Banco Sistema S.A. com a decisão posta, não caracteriza vício de julgamento.
+Ante todo exposto, voto no sentido de serem julgados prejudicados os embargos de declaração do Banco HSBC S.A. e de serem rejeitados os embargos de declaração do Banco Sistema S.A. (terceiro interessado).
+É o voto.
