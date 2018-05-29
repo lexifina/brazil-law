@@ -1,0 +1,27 @@
+EMENTA
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. AUSÊNCIA DE PROVA DOCUMENTAL. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. MODULAÇÃO DOS EFEITOS DA INCONSTITUCIONALIDADE DA EC. N. 62/2009. RECURSO ORDINÁRIO NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto em face de acórdão prolatado pelo TJ/MG, assim ementado (fl. 214):
+MANDADO DE SEGURANÇA - ATO DO JUIZ CONCILIADOR DA CENTRAL DE PRECATÓRIOS - ATIVIDADE ADMINISTRATIVA - REJEIÇÃO PARCIAL DA IMPUGNAÇÃO DAS CREDORAS - JUROS E CORREÇÃO MONETÁRIA - AUSÊNCIA DE PROVA DOCUMENTAL PRÉ- CONSTITUÍDA CAPAZ DE PERMITIR A ANÁLISE QUANTO AOS JUROS - HABILITAÇÃO VOLUNTÁRIA DO CRÉDITO - ACORDO DIRETO - VINCULAÇÃO AO EDITAL - ATUALIZAÇÃO ATÉ A AUDIÊNCIA DE PAGAMENTO - INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO - DENEGAÇÃO DA SEGURANÇA.
+1. O questionamento quanto ao percentual dos juros moratórios aplicável ao crédito deveria vir acompanhado de cópia do título judicial exequendo, o que, não se fazendo, inviabiliza o exame da questão em sede mandamental.
+2. Da mesma forma, impossível a apuração do período em que devem ser contabilizados os juros de mora, após a liquidação da dívida, sem que conste dos autos documento a explicitar a data de emissão do ofício requisitório.
+3. Ausência de prova documental pré-constituída, a corroborar a aventada ilegalidade no cálculo dos juros moratórios devidos.
+4. Determinação, pela autoridade impetrada, de que a correção monetária seja calculada até a data da audiência realizada na Central de Conciliação de Precatórios. Vinculação às previsões do Edital n. 01/2012, ao qual se habilitaram voluntariamente as impetrantes, inclusive no que toca à limitação da atualização dos valores à data da audiência de pagamento.
+5. Segurança denegada.
+A recorrente sustenta que o direito líquido e certo alegado não depende da presença de cópia do título executivo judicial nos autos, uma vez que a autoridade coatora informa que o citado título fixou juros legais (fl. 248); alega que no período entre 11/01/2003 e 28/06/2009 os juros moratórios devem incidir à ordem de 1% ao mês (fl. 254); defende que, não efetuado o pagamento do precatório no prazo assinado pelo texto constitucional, configurada está a inadimplência ensejadora da mora que leva à incidência dos juros respectivos (fl. 262); pugna pela correção monetária até o efetivo pagamento e da aplicação do entendimento do STF na ADI 4357/DF, advogando a tese de afastamento da atualização monetária com base no índice oficial de remuneração da caderneta de poupança.
+Parecer do Ministério Público Federal pelo desprovimento do recurso ordinário (fls. 370/374).
+É o relatório. Passo a decidir.
+Inicialmente é preciso destacar, que não obstante a declaração parcial de inconstitucionalidade do regime especial da EC 62/2009, a eficácia da norma constitucional está resguardada até o exercício financeiro de 2020, porquanto o Supremo Tribunal Federal modulou os efeitos das ADIs 4.357 e 4.425 " ..  para manter a vigência do regime especial de pagamento de precatórios instituído pela Emenda Constitucional nº 62/2009 por 5 (cinco) exercícios financeiros a contar de primeiro de janeiro de 2016" ([NOME], Relator: Min. Luiz Fux, Tribunal Pleno, DJe-152 de 4/8/2015).
+Portanto, o regime especial - na hipótese, trata-se de programa de pagamento direito de precatórios - encontra-se legitimado nos termos da modulação de efeitos da decisão do Supremo Tribunal Federal.
+Por outro lado, a Corte Especial do STJ entende legítima a incidência do índice oficial da caderneta de poupança (TR) até 25/3/2015:
+AGRAVO REGIMENTAL. REQUISIÇÃO DE PEQUENO VALOR. ATUALIZAÇÃO MONETÁRIA. IPCA-E.
+I - O Supremo Tribunal Federal, no julgamento das ADIs n. 4.357/DF e 4.425/DF, declarou inconstitucional a Emenda Constitucional n. 62/2009, quanto à atualização de precatórios e requisições de pequeno valor pela TR, sob o fundamento de que "este referencial é manifestamente incapaz de preservar o valor real do crédito de que é titular o cidadão" (ADI n. 4.357/DF, relator para acórdão o Ministro Luiz Fux, Tribunal Pleno, DJe de 26/9/2014).
+II - Em modulação dos efeitos, estabeleceu-se a incidência do índice oficial de remuneração básica da caderneta de poupança (TR) até a data de conclusão do julgamento, qual seja, 25/3/2015; após, a correção deverá seguir o Índice de Preços ao Consumidor Amplo Especial, IPCA-E. Por outro lado, ressalvaram-se os precatórios expedidos pela Administração Pública Federal, aos quais se deve aplicar o art. 27 da Lei n. 12.919/2013 e da Lei n. 13.080/2015, que fixam o IPCA-E como índice de correção monetária.
+III - Na Ação Cautelar n. 3.764/DF (relator o Ministro Luiz Fux), o Supremo Tribunal Federal determinou, no cálculo dos precatórios/RPVs federais a serem pagos, a incidência do IPCA-E como índice de correção monetária.
+Agravo regimental improvido.
+(AgRg na RPV 582/DF, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 04/05/2016, DJe 20/05/2016)
+Assim, não há como ser afastada, in casu, a incidência da TR.
+Quanto aos juros, não foram juntados aos autos as peças indispensáveis para o enfrentamento da pretensão: título judicial exequendo e o ofício requisitando a expedição do precatório.
+Como bem asseverado pelo parecer do Ministério Público Federal (fls. 370/374), tais documentos são essenciais e indispensáveis para o deslinde da controvérsia, notadamente para verificar datas, períodos e percentuais de juros estabelecidos.
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
