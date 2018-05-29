@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. TÉCNICO EM CONTABILIDADE. EXAME DE SUFICIÊNCIA PARA REGISTRO EM CONSELHO PROFISSIONAL. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    "PROCESSO CIVIL - MANDADO DE SEGURANÇA - ARTIGO 557 - DO ANTIGO CÓDIGO DE PROCESSO CIVIL - AGRAVO LEGAL - EXAME DE SUFICIÊNCIA - TÉCNICO EM CONTABILIDADE - TUTELA ANTECIPADA INDEFERIDA.
+    I - Observa-se que o artigo 557, caput, do antigo Código de Processo Civil, com a redação dada pela Lei nº 9.756, de 17 de dezembro de 1998, trouxe inovações ao sistema recursal, com a finalidade de permitir maior celeridade à tramitação dos feitos, vindo a autorizar o relator, por mera decisão monocrática, a negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior. Da mesma forma, o parágrafo 1º-A do referido artigo prevê que o relator poderá dar provimento ao recurso se a decisão recorrida estiver em manifesto confronto com súmula ou com jurisprudência dominante do Supremo Tribunal Federal ou de Tribunal Superior. Justificada, portanto, a decisão solitária deste Relator.
+    II - Os impetrantes concluíram o curso de Técnico em Contabilidade (fls. 92/219). Contudo, em 2010, foi publicada a Lei nº 12.249/2010, que alterou o artigo 12 do Decreto-Lei nº 9.295/46, passando a exigir o exame de Suficiência e registro no Conselho Regional de Contabilidade a que estiverem sujeitos.
+    III - O marco temporal em 1º.06.2015, não delimita a exigência ou não de aprovação no exame de suficiência, como entendem os impetrantes, mas diversamente, o direito ao exercício profissional dos Técnicos em Contabilidade devidamente registrados, vez que a partir de tal data somente os concluintes de curso de bacharelado poderão exercer a profissão, preenchidos os demais requisitos legais.
+    IV - Tutela antecipada indeferida. agravo legal não provido." (Doc. 5, fls. 10-11)
+    Os embargos de de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustentam preliminar de repercussão geral e, no mérito, apontam violação aos artigos 1º, IV, 5º, II, XIII e XXXVI, e 170, caput, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    O Tribunal de origem consignou que o artigo 12 do Decreto-Lei 9.295/1946, na redação dada pela Lei 12.249/2010, não dispensou os recorrentes do exame de Suficiência para registro no Conselho Regional de Contabilidade.
+    Assim, acolher a pretensão dos agravantes e divergir do entendimento firmado pelo acórdão recorrido, no presente caso, demandaria a análise da legislação infraconstitucional aplicável à espécie (Decreto-Lei 9.295/46 e Lei 12.249/2010), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Nesse sentido:
+    "AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 04.03.2016. TREINADOR DE FUTEBOL PROFISSIONAL. REGISTRO JUNTO AOS QUADROS DO CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA DO ESTADO DE SÃO PAULO. MATÉRIA INFRACONSTITUCIONAL. 1. É inviável o processamento do recurso extraordinário quando a sua análise demanda o reexame de atos normativos infraconstitucionais. Precedentes. 2. Agravo regimental a que se nega provimento." (ARE 918.180-AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe de 16/3/2017)
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual. Nada obstante, por se tratar de mandado de segurança, não há falar em majoração de honorários advocatícios (Súmula 512 do STF).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de maio de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
