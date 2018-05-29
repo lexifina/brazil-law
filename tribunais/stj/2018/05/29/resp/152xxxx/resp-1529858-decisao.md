@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por [NOME] [NOME] [NOME] E COMPANHIA LTDA., com fundamento no art. 105, III, a e c, da CF/88, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. FALTA DE CORRELAÇÃO ENTRE O RECURSO E A DECISÃO AGRAVADA. AGTR NÃO CONHECIDO.
+1. Trata-se de agravo de instrumento interposto por [NOME] e Cia/Ltda contra decisão do douto Juízo da 5ª Vara da SJ/PE que, nos autos do Cumprimento de Sentença nº 0018539-38.1998.4.05.8300, entendeu que a questão suscitada pela impetrante, relativa ao cumprimento da obrigação de fazer e à semestralidade da contribuição para o PIS, já havia sido decidida, operando-se, portanto, a preclusão da matéria.
+2. As razões que serviram de alicerce ao agravo de instrumento não condizem com os argumentos expendidos na decisão atacada, devendo-se reputar deficientemente fundamentado tal recurso. Isto porque, os fundamentos trazidos pela parte agravante dizem respeito a não aplicação dos Decretos-Lei nºs 2.445/88 e 2.449/88, enquanto que a decisão agravada limitou-se a reconhecer a preclusão da matéria alegada.
+3. Dessa forma, o agravo de instrumento interposto não deve ser conhecido, vez que as razões recursais estão dissociadas da decisão impugnada" (fl. 176e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRESSUPOSTOS. ART. 535, DO CPC. INEXISTÊNCIA. REDISCUSSÃO
+DA MATÉRIA. INADMISSIBILIDADE.
+1. O inconformismo da recorrente não se amolda aos contornos da via dos embargos de declaração, porquanto o acórdão ora combatido não padece de vícios de omissão, contradição ou obscuridade, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos fático-jurídicos anteriormente debatidos.
+2. Embargos declaratórios improvidos" (fl. 193e).
+Alega a parte recorrente violação ao art. 535, II, do CPC/73, sob o argumento de que persiste omissão não sanada no julgamento dos Embargos de Declaração quanto à "apreciação dos pedidos do Recorrente para que sejam cumpridas as decisões judiciais que transitaram em julgado nos autos do Mandado de Segurança nº 0018539-38.1998.4.05.8300" (fls. 205/206e). Sustenta, ainda, a ocorrência de "dissídio jurisprudencial quanto à inexistência de preclusão quando se tratar de matéria de ordem pública" (fl. 209e).
+Foram apresentadas contrarrazões (fls. 309/313e).
+O Recurso Especial não merece prosperar.
+Em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1.360.762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+Quanto à alegação de inexistência de preclusão quando se tratar de matéria de ordem pública, verifica-se que a parte recorrente não indicou, de forma clara e individualizada, como lhe competia, os dispositivos legais que porventura tenham sido malferidos pelo Tribunal de origem, o que caracteriza ausência de técnica própria indispensável à apreciação do Recurso Especial.
+Nos termos da jurisprudência desta Corte, o conhecimento do Recurso Especial exige a indicação, de forma clara e individualizada, de qual dispositivo legal teria sido violado ou objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Assim, seja pela alínea a, seja pela alínea c do permissivo constitucional, é necessária a indicação do dispositivo legal tido como violado ou em relação ao qual teria sido dada interpretação divergente.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EXCEÇÃO DE INCOMPETÊNCIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA RÉ.
+1. A alegação de ofensa a dispositivos legais que não foram arrolados no recurso especial constitui indevida inovação recursal, inviabilizando o exame da tese em sede de agravo interno. 2. Não há falar em omissão e, por conseguinte, em contrariedade ao art. 535 do CPC/1973, pois o julgamento da lide apenas se deu de forma contrária aos interesses da parte.
+3. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula nº 284 do STF.
+(..)
+8. Primeiro agravo interno desprovido. Segundo agravo interno não conhecido, por força da preclusão consumativa" (STJ, AgInt no REsp 1.628.949/PI, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 07/03/2018).
+Diante desse quadro, tem incidência, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
