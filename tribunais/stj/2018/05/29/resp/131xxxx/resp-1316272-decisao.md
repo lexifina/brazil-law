@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FUNDAÇÃO NACIONAL DE SAÚDE - FUNASA, com base na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (e-STJ fl. 689):
+ADMINISTRATIVO E PROCESSUAL CIVIL. EXECUÇÃO. 3,17%. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. SÚMULA 150 DO STF. INOCORRÊNCIA. DESMEMBRAMENTO DO PROCESSO. PRESCRIÇÃO QÜINQÜENAL, DATA DA EXECUÇÃO ORIGINÁRIA.
+1. A jurisprudência pátria já se posicionou no sentido de que, nas Execuções, opera-se o mesmo prázo prescricional da ação de conhecimento. Inteligência da Súmula 150 do c. STF.
+3: Havendo desmembramento de processo, deve ser considerada a data do início da execução na ação originária, e não a data da redistribuição, para fins de verificação da prescrição da pretensão executória.
+4. A execução ora embargada resultou do desmembramento de execução anteriormente proposta, iniciada em 11/06/2003, no bojo da ação, originária tombada sob o nº 98.0004748-4, relativamente ao acórdão que transitou em julgado no dia 25/03/2002.
+5. O desmembramento da execução deu-se por ordem do Juízo, em atendimento ao pleito da FUNASA, com o fim de facilitar a respectiva defesa. Não é razoável, portanto, que os exeqüente/embargãdos tenham sua pretensão obstada pela prescrição, quando promoveram tempestivamente a execução.
+6. Não. tendo"transcorrido um lustro entre o trânsito em julgado da sentença condenatória, e a citação no processo de execução originário, rejeita-se a prescrição.
+7. Apelação da FUNASA improvida.
+A recorrente alega violação dos arts. 1º e 3º do Decreto n. 20.910/1932. Aduz que o direito dos servidores ao reajuste de 3,17% originou-se da Medida Provisória n. 2.225-45/2001, datada de 04/09/2001, e que em razão de regulamentações posteriores o prazo para a cobrança das parcelas do reajuste teve início em janeiro de 2002. Salienta que o termo final para a cobrança seria janeiro de 2007 e a ação somente foi ajuizada em 08/08/2007, quando já consumada a prescrição.
+Contrarrazões às e-STJ fls. 720/730.
+ Decisão admitindo o recurso à e-STJ fl. 731.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Quanto ao art. 1º do Decreto n. 20.910/1932, o Tribunal de origem consignou: (e-STJ fl. 687).
+".. nos presentes autos, entendo não ter ocorrido a prescrição, considerando que o trânsito em julgado do titulo judicial ocorreu em 25/03/2002 (fl.457) e a execução do julgado se deu em 11/06/2003, antes do desmembramento do processo de conhecimento por determinação do juízo a quo, em grupos de cinqüenta autores, que ocorrera em 08 de agosto de 2007 (fl. 03 - vol. 1 apenso), antes portanto de consumado o prazo prescricional.
+Portanto, a execução ora embargada estáinserida no desmembramento da execução anteriormente proposta, que teveseu início em 11/06/2003, no bojo da ação originária tombada sob o nº98.0004748-4, relativamente ao acórdão que transitou em julgado no dia 25/03/2002.
+Por outro lado, ainda que assim não se considerasse, não se encontraria prescrita a ação executiva, considérando que o desmembramento seria "apenas para fatiamento do procedimento na execução, em blocos de 50 (cinqüenta) Substituídos Processuais, uma vez que os bloco de 10(dez) Substituídos processuais, pretendidos na petição de fls. 4225-4229, tornaria quase eterna a execução, tendo em vista o grande número de Substituídos Processuais", conforme destacou o MM. Juiz a quo em decisão (fl. 457) datada de 31 de março de 2005".
+Nas razões do especial, a recorrente limitou-se a sustentar que o direito dos servidores ao reajuste de 3,17% originou-se da Medida Provisória n. 2.225-45/2001, datada de 04/09/2001, e que em razão de regulamentações posteriores o prazo para a cobrança das parcelas do reajuste teve início em janeiro de 2002, motivo pelo qual deveria ser reconhecida a prescrição do fundo de direito.
+Assim, verifica-se que a pretensão recursal está totalmente desassociada dos fundamentos do aresto recorrido, já que não houve impugnação acerca da prescrição da pretensão executoria, devendo a argumentação ser considerada deficiente, o que enseja também a aplicação da Súmula 284 do STF.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
