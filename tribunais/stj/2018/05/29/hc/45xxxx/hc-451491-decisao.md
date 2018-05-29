@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], contra decisão monocrática do relator de writ em curso perante o Tribunal de Justiça do Estado do Mato Grosso do Sul.
+Consta nos autos que o paciente teve sua prisão preventiva decretada em 15/03/2018, pela suposta prática dos delitos tipificados nos arts. 12 e 16 da Lei n.º 10.826/03.
+Irresignada, a defesa impetrou habeas corpus perante o TJMS, tendo sido indeferido o pleito liminar (e-STJ, fls. 109-111).
+Neste writ, o impetrante alega, em síntese, que a custódia cautelar se mostra desproporcional diante da primariedade e dos bons antecedentes do paciente, denunciado apenas pelo delito de posse irregular de arma de fogo, crime cometido sem violência e que, caso condenado, não será aplicada a pena privativa de liberdade em regime fechado.
+Pugna, ainda, pela superação do óbice da Súmula 691 do STF.
+Requer a concessão liminar da ordem para que seja revogada a prisão preventiva, com aplicação das medidas cautelares diversas do cárcere.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, consoante os termos da Súmula 691/STF.
+Nesse sentido, confira:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA N. 691/STF. ART. 1º, I, § 1º, DO DECRETO N. 201/1967 (TRÊS VEZES) E ART. 316 DO CP (TRÊS VEZES). DESCUMPRIMENTO DE MEDIDA CAUTELAR. PRISÃO PREVENTIVA. AUSÊNCIA DE PATENTE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Caso em que a prisão foi decretada em razão do descumprimento de medida cautelar anteriormente imposta, conforme previsão. Precedentes. Ausência de manifesta ilegalidade, abuso de poder ou teratologia a autorizar a superação do mencionado enunciado.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC 400.949/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017)
+Na hipótese, a Corte de origem indeferiu o pleito liminar por não verificar os requisitos autorizadores da medida de urgência, pois, em um primeiro exame, há elementos suficientes para a manutenção da custódia cautelar, in verbis:
+"[NOME], devidamente identificado, impetra, por seu advogado, habeas corpus com pedido liminar, apontando como autoridade coatora Juiz de Direito da 2ª Vara Criminal da Comarca de Campo Grande/MS, por conta de custódia preventiva decretada.
+Argumenta, em síntese, encontrar-se recolhido desde 14/03/2018, pela suposta prática dos delitos previstos nos artigos 12 e 16 da Lei 10.826/03, vez que, em cumprimento a mandado de prisão expedido pelo Juízo Criminal da Comarca de Campo Grande/MS, foram encontrados em sua residência armas de fogo e munições sem autorização legal (revólveres, espingardas de uso permitido, pistola 9mm e munições para as referidas armas), todavia, conforme esclareceu, trata-se de bens deixados em garantia de dívidas contraídas por terceiros, sendo que, por ser militar aposentado, reformado, conhecido em seu bairro, tal ocorrida com frequência.
+Ressalta ser primário, sem antecedentes, possui residência fixa, ostenta condições pessoais favoráveis e, mesmo assim, durante a audiência de custódia restou convertido o flagrante em preventiva.
+Acrescenta que embora a decisão que culminou com a expedição do mandado de busca e apreensão retrate uma investigação sobre crimes graves, fato é que a sua prisão preventiva se deu apenas por posse irregular de arma de fogo de uso restrito, crime não violento, que não apresenta ameaça imediata à coletividade, o que, aliado aos requisitos subjetivos favoráveis, culminará no máximo, em caso de hipotética condenação, em regime semiaberto.
+Acrescenta que, oferecida a denúncia, vislumbrou-se imputação restrita aos artigos dantes mencionados, artigos 12 e 16 da Lei 10.826/03, sem qualquer menção ao envolvimento do paciente em eventual organização criminosa.
+Salienta, ainda, em situação análoga, nos autos de nº 00014464420188120019, [NOME], o qual se encontra em situação à semelhança, a autoridade impetrada converteu a anterior prisão preventiva em medidas cautelares diversas, não o fazendo em relação ao paciente por conta da quantidade de armas de fogo (de uso permitido, diga-se) encontradas em sua posse.
+Sustenta que o decreto mostrou-se alicerçado em fundamentação inidônea, genérica, atinente à gravidade abstrata do crime, revelando-se desnecessária a prisão, cujos requisitos não se apresentam preenchidos e culmina por violar o princípio da presunção de inocência.
+Discorre sobre o direito que reputa cabível ao caso presente e culmina por pleitear a concessão de liminar, com a consequente expedição de alvará de soltura, ou substituição da prisão por medida diversa, e, ao final, a concessão em definitivo da ordem.
+Pois bem. Como cediço, o deferimento do pleito liminar em sede de Habeas Corpus, em razão de sua excepcionalidade, enseja a comprovação, de plano, do alegado constrangimento ilegal, o que não se vislumbra no caso versando, máxime considerando que do contexto enfocado neste caderno emergem controvertidos os fatos inerentes, cujo desenlace necessita análise mais aprofundada, impraticáveis neste juízo de cognição sumária, afigurando-se imprescindíveis elementos de convicção mais esclarecedores. Prudente, destarte, que se aguarde as informações do juízo a quo, para posterior deliberação.
+Ante o exposto, indefiro a liminar pleiteada." (e-STJ, fls.109-111)
+Assim, da leitura atenta da decisão impugnada, não verifico, por ora, a ocorrência de flagrante ilegalidade, de modo a justificar o processamento da presente ordem.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
