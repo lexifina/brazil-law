@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE CAMPINÁPOLIS, contra decisão do Tribunal de Justiça do Mato Grosso, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 218):
+REMESSA NECESSÁRIA - URV - PRESCRIÇÃO - PARCELAS ANTERIORES AOS CINCO ANOS, A CONTAR DA DISTRIBUIÇÃO DA PETIÇÃO INICIAL - EVENTUAL EXISTÊNCIA DE DEFASAGEM SALARIAL - APURAÇÃO DO PERCENTUAL - REESTRUTURAÇÃO REMUNERATÓRIA DA CARREIRA - VERIFICAÇÃO - LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO.
+Opera-se a prescrição das parcelas anteriores aos cinco anos a contar da distribuição da petição inicial. Eventual existência de defasagem salarial, apuração do percentual e a ocorrência de reestruturação remuneratória da carreira devem ser verificadas em liquidação de sentença por arbitramento.
+Sentença retificada em parte.
+No especial obstaculizado, a recorrente apontou violação do art. 330, I, do CPC/2015, sustentando que a petição inicial seria inepta, motivo pelo qual deveria ter sido indeferida de plano. Alegou, também, que houve cerceamento de defesa e que seria ônus do recorrido a demonstração do fato constitutivo do seu direito, o que não ocorreu.
+Apresentadas as contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de incidência das Súmulas 282, 284 e 356, todas do STF (e-STJ fls. 250/253).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação dos aludidos fundamentos.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, cumpre destacar que, em relação às teses de cerceamento de defesa e do não cumprimento do ônus da prova pelo recorrido, não houve a indicação precisa de enunciado normativo federal violado pelo acórdão a quo, tornando impossível o conhecimento do recurso especial em razão da formulação de teses recursais genéricas e deficientes. Incidência da súmula n. 284 do STF.
+Somado a isso, quanto à suposta ofensa ao art. 330, I, do CPC/2015, constata-se que ela carece do requisito do prequestionamento, haja vista que não houve abordagem, ainda que de maneira tácita, no âmbito da instância a quo, acerca da tese sobre a inépcia da petição inicial.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". Ressalte-se que sequer foram opostos embargos declaratórios com o intuito de sanar a eventual omissão suscitada.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
