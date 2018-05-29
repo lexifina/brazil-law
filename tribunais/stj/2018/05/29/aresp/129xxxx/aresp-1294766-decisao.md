@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo MUNICÍPIO DE SALVADOR, em 12/04/2018, contra decisão do Tribunal de Justiça do Estado da Bahia, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"AGRAVO REGIMENTAL. AUSÊNCIA DE INTIMAÇÃO PESSOAL DO PROCURADOR DO MUNICÍPIO. ART. 25 DA LEI Nº. 6.830/80.
+1. Não há que se falar em prerrogativa de intimação pessoal do Procurador do Município, ainda que se trate de processo de execução fiscal, na esteira do entendimento do Superior Tribunal de Justiça sobre o assunto.
+2. Agravo regimental não conhecido" (fl. 318e).
+Nas razões do Recurso Especial, o recorrente alega ofensa ao art. 25 da Lei 6.830/80, sustentando, em síntese, que a intimação da Fazenda Pública, nos processos de execução fiscal, deve ser feita pessoalmente, mediante vista dos autos, com imediata remessa ao representante judicial, pelo cartório ou secretaria. Aduz que "a intimação pessoal da Fazenda Pública é uma prerrogativa que tem o intui o de deferir maior possibilidade de defesa ao ente público, no caso em tela, o Município" (fl. 328e).
+Requer, ao final, "que este Colendo Superior Tribunal de Justiça (..) conheça do presente recurso especial para dar-lhe provimento no sentido de reformar o acórdão recorrido para afastar a alegada intempestividade e determinar o conhecimento do agravo regimental" (fl. 331e).
+Não foram apresentadas contrarrazões (fl. 336e).
+Negado seguimento ao Recurso Especial (fls. 337/339e), foi interposto o presente Agravo (fls. 343/348e).
+Em contraminuta, a parte agravada defende a manutenção da decisão recorrida (fls. 355/364e).
+A irresignação merece acolhimento.
+O Tribunal local entendeu pela intempestividade do agravo regimental interposto pela Fazenda Pública Municipal, ao fundamento de que "não há que se falar em prerrogativa de intimação pessoal do Procurador do Município, ainda que se trate de processo de execução fiscal" (fl. 320e).
+Contudo, conforme o entendimento sedimentado nesta Corte, por ocasião do julgamento do REsp 1.268.324/PA, submetido à sistemática do art. 543-C do CPC, "o representante da Fazenda Pública Municipal (caso dos autos), em sede de Execução Fiscal e respectivos Embargos, possui a prerrogativa de ser intimado pessoalmente, em virtude do disposto no art. 25 da Lei 6.830/80, sendo que tal prerrogativa também é assegurada no segundo grau de jurisdição, razão pela qual não é válida, nessa situação, a intimação efetuada, exclusivamente, por meio da imprensa oficial ou carta registrada".
+Transcreve-se, a seguir, a ementa do citado julgado:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL E EMBARGOS DO DEVEDOR. INTIMAÇÃO PESSOAL DO REPRESENTANTE DA FAZENDA PÚBLICA MUNICIPAL. PRERROGATIVA QUE TAMBÉM É ASSEGURADA NO SEGUNDO GRAU DE JURISDIÇÃO.
+1. O representante da Fazenda Pública Municipal (caso dos autos), em sede de execução fiscal e respectivos embargos, possui a prerrogativa de ser intimado pessoalmente, em virtude do disposto no art. 25 da Lei 6.830/80, sendo que tal prerrogativa também é assegurada no segundo grau de jurisdição, razão pela qual não é válida, nessa situação, a intimação efetuada, exclusivamente, por meio da imprensa oficial ou carta registrada.
+2. Recurso especial provido. Acórdão sujeito ao regime previsto no art. 543-C do CPC, c/c a Resolução 8/2008 - Presidência/STJ" (STJ, REsp 1.268.324/PA, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe de 21/11/2012).
+Nesse sentido, confira-se a jurisprudência das Turmas da Primeira Seção:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. ART. 25 DA LEF. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA FAZENDA PÚBLICA MUNICIPAL. PRERROGATIVA QUE DEVE SER RESPEITADA. JURISPRUDÊNCIA PACÍFICA DO STJ. NULIDADE DOS ATOS PRATICADOS. DEVOLUÇÃO À ORIGEM.
+1. É firme e consolidada a jurisprudência desta Corte Superior no sentido de que a Fazenda Pública, em execuções fiscais, faz jus à intimação pessoal, a teor do disposto no art. 25 da LEF.
+2. Agravo interno não provido" (STJ, AgInt no AREsp 361.437/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 06/03/2017).
+"PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EMBARGOS À EXECUÇÃO. INTIMAÇÃO PESSOAL DO REPRESENTANTE DA FAZENDA PÚBLICA MUNICIPAL. PRERROGATIVA QUE TAMBÉM É ASSEGURADA NO SEGUNDO GRAU DE JURISDIÇÃO.
+1. O representante da Fazenda Pública Municipal, em Execução Fiscal e respectivos embargos, possui a prerrogativa de ser intimado pessoalmente, em virtude do disposto no art. 25 da Lei 6.830/80, a qual também é assegurada no segundo grau de jurisdição, razão pela qual não é válida, nessa situação, a intimação efetuada, exclusivamente, por meio da imprensa oficial ou carta registrada.
+2. Agravo Regimental não provido" (STJ, AgRg no REsp 1.531.608/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2016).
+"AGRAVO REGIMENTAL. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA MUNICIPALIDADE. NULIDADE. RETORNO DOS AUTOS. NECESSIDADE.
+1. Nos termos da jurisprudência pacífica do STJ e do art. 25 da Lei n. 6.830/80, nas execuções fiscais, o representante judicial da Fazenda Pública deve ser intimado pessoalmente.
+2. Impende salientar que as decisões colacionadas pela agravante não têm o condão de infirmar a decisão agravada, porquanto elas mesmas trazem a regra de exceção prevista no art. 25, da Lei 6.830/80, quando se trata de execução fiscal.
+3. A hipótese dos autos não é de incidência da Súmula 7/STJ, porquanto a própria Corte de origem reconheceu que não houve a intimação pessoal.
+Agravo regimental improvido" (STJ, AgRg no AgRg no AREsp 305.390/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/08/2013).
+No caso dos autos, a Corte de origem reconheceu que não houve a intimação pessoal, pois consignou que "a decisão recorrida foi divulgada no Diário da Justiça em 20/07/2012 (fls. 255). Dessa forma, o dies a quo para a interposição do recurso foi o dia 24/07/2012 (terça-feira). Contando-se o prazo de dez dias para a interposição do agravo regimental, já computada a dobra legal prevista para os entes públicos, a peça protocolizada em 28/08/2012 (fls. 280) é intempestiva, uma vez que o dies ad quem é o dia 02/08/2012" (fl. 320e).
+Portanto, tendo sido a Fazenda Municipal intimada meramente por meio da imprensa oficial, merece reforma o acórdão recorrido, por estar em confronto com a jurisprudência desse Tribunal Superior sobre o tema.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do Agravo para dar provimento ao Recurso Especial a fim de que, na verificação da tempestividade do agravo regimental, o Tribunal de origem leve em consideração a data da intimação pessoal do representante do Município de Salvador.
+I.
