@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Embargos de Declaração contra decisão monocrática que negou provimento ao Recurso Especial.
+Em síntese, o embargante alega (fls. 527-528, e-STJ):
+(..) o presente caso traz a imposição de uma limitação temporal com fundamento em matéria que poderia (e deveria) ter sido levantada na fase de conhecimento do feito.
+Como isso não foi feito, ou seja, a UFRJ não levantou a questão no momento processual oportuno, é impossível estabelecer tal limite em sede de embargos à execução, sob pena de grave violação à coisa julgada.
+De certo que foi observada a ressalva contida no mencionado precedente, qual seja, a impossibilidade de arguição da compensação antes da última oportunidade de sua alegação como objeção de defesa no processo cognitivo, eis que apenas com a edição da Medida Provisória nº22. 25-45 de 4 de setembro, foi estendido aos servidores públicos civis do Poder Executivo Federal a vantagem dos 3,17%, sendo este o marco inicial dos pagamentos administrativos efetuados, que, então, devem, se comprovados ser compensados, exatamente em consonância com o entendimento do Egrégio Superior Tribunal de Justiça.
+Observa-se, contudo, que o marco inicial seria então, no mínimo, setembro de 2001, sendo certo que a execução abarcou o período de janeiro de 1995 a maio de 2001, o que está por merecer o devido pronunciamento.
+Diante do exposto, pugna pela manifestação desse órgão julgador a respeito de tais aspectos, essenciais ao deslinde do feito, tornando-se imprescindível que essa C. Turma manifeste-se, quanto a ocorrência de coisa julgada no presente caso e a impossibilidade de se impor, em sede de embargos a execução, limitação que poderia ter sido agitada na fase de conhecimento e não o foi.
+(..)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 20.3.2018.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Na hipótese dos autos, a decisão recorrida afirmou:
+"sentença que autorizou a execução individualizada  28  , à sua vez, foi clara ao estabelecer que a incorporação do índice de 3,17% limita-se à data da reorganização de vencimentos, pela MP nº 2.225/01, nos termos de seu art. 10  29  . Portanto, os valores pagos a esse título após esse marco temporal administrativamente, ou por força de decisão judicial, devem ser compensados, pena de bis in idem, e enriquecimento ilícito dos servidores. No voto condutor da AC 2007.50.01.005095-6  30  foi consignada a necessidade de compensação dos valores de origem administrativa ou judicial." (fl. 737, grifei).
+Assim, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, pois inarredável a revisão do conjunto probatório dos autos. Aplica-se o óbice da Súmula 7/STJ.
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. As alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Com efeito, o Tribuanal a quo consignou que a sentença que autorizou a execução individualizada, à sua vez, foi clara ao estabelecer, com base em jurisprudência consolidada do STJ, que a incorporação do índice de 3,17% limita-se à data da reorganização de vencimentos efetivada pela MP 2.225/01, nos termos de seu art. 10. Portanto, os valores pagos a esse título após essa data, administrativamente ou por força de decisão judicial, devem ser compensados, pena de bis in idem, e enriquecimento ilícito dos servidores, sendo inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, pois inarredável a revisão do conjunto probatório dos autos. Aplica-se o óbice da Súmula 7/STJ.
+Além disso, é de conhecimento geral que os aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais. Com esse entendimento:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. Incabíveis embargos de declaração se inexiste omissão relativa à matéria infraconstitucional, não sendo o STJ competente para apreciar matéria constitucional, inclusive para fins de prequestionamento.
+3. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+4. Embargos de declaração rejeitados. (EDcl no AgRg no Ag 936.404/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/09/2008, DJe 14/10/2008)
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração.
+É como voto.
