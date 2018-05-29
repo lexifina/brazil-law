@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo fundado no CPC/73, interposto por Previma Sociedade de Previdência Privada das Instituições do Mercado, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 271):
+APELAÇÃO EM MANDADO DE SEGURANÇA. REGIME ESPECIAL DE TRIBUTAÇÃO. MEDIDA PROVISÓRIA Nº 2.222/2001. AUSÊNCIA DE DEMONSTRAÇÃO DO CUMPRIMENTO DOS REQUISITOS PREVISTOS NA LEI Nº 11.196/2005.
+1. O art. 94 da Lei nº 11.196/2005 determina que o contribuinte optante pelo regime especial de tributação (RET) comprove, perante a Administração fiscal, o pedido de desistência e de renúncia sobre as alegações de direitos relativos ação judicial coletiva, para fins da obtenção do benefício previsto no art. 5o da Medida Provisória nº 2.222/2001. Ausente a demonstração do cumprimento de tal exigência, revela-se plenamente legal o ato da autoridade fiscal que indeferiu o pleito administrativo da contribuinte.
+2. Recurso de apelação desprovido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC (fls. 292/296).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 535 do CPC/73; 94 da Lei 11.196/2005. Sustenta que "A interpretação gramatical conferida pelo Tribunal a quo não merece acolhida no presente caso, em que a Recorrente, por diversas vezes e dentro do prazo legal, deixou clara a sua intenção de desistir e renunciar às alegações de direito declinadas na ação coletiva." (fl. 308).
+Parecer do Ministério Público pelo não provimento do agravo (fls. 377/381).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n.2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mérito, em relação ao cumprimento dos requisitos da Lei 11.196/2005, o Tribunal de origem consignou que (fls. 266/268):
+A questão jurídica candente neste mandado de segurança consiste em se averiguar se a Impetrante teria, de fato, cumprido as exigências previstas nas leis aplicáveis. A partir daí, pode-se, com segurança, proceder ao controle da legalidade do ato administrativo combatido.
+Ao examinar os autos, percebo, nitidamente, que a Autoridade fiscal, ao invalidar o pleito da contribuinte, não incorreu em qualquer ilegalidade ou abuso de direito, na medida em que aplicou corretamente a norma contida nos dispositivos legais que tratam especificamente do regime especial de tributação em foco.
+As razões lançadas pelo Impetrado, em suas informações (cf. fl. 104-106), concedem respaldo à decisão administrativa objurgada nesta ação mandamental. Com efeito:
+"Tendo sido verificado que a impetrante não preenchia as condições para usufruir o disposto no art. 5o da Medida Provisória nº 2.222/2001. foram tratados os débitos relativos ao ano de 1999 no processo nº 10768.515350/2004-90, que haviam sido inscritos em divida ativa.
+Notificada da inscrição, a impetrante informou que os referidos débitos haviam sido quitados à luz do beneficio previsto no art. 5" da Medida Provisória nº 2222/2001. através do DARF no valor de RS 511.949.49.
+Intimada através do Termo de intimaçâo nº 04/05 a apresentar cópia da sentença que homologou a desistência do contribuinte no processo judicial nº 1998.34.00.002452-4. respondeu, em linhas gerais, que não poderia desistir da ação judicial nº 1998.34.00.002542-4, nem renunciar a qualquer alegação de direito sobre a mesma, por não se autora da referida ação judicial.
+Em resposta, foi prolatado despacho por esta Delegacia Especial de Instituições Financeiras, por intermédio do qual se verificou que a interessada não fazia jus ao mencionado favor em razão de não ter renunciado ao direito sobre os quais se fundavam as ações judiciais envolvidas. A autora foi cientificada dessa decisão, através da Intimaçâo nº 279, de 11/07/2005. Ali também se informou que a parte do pagamento supracitado (O DARF) foi utilizada para liquidar os débitos constantes daquele processo, ou seja, os relativos ao ano de 1999, com todos os acréscimos legais cabíveis, o que acarretou o cancelamento da inscrição.
+(..)
+A impetrante (conforme doe. 3) desistiu, em juízo, em 09/12/2005, das ações, mas, lamentavelmente, não renunciou expressamente ao direito sobre o qual se fundam as ações.
+Isso está claro, diáfano. à leitura. Não há menção expressa á dita renúncia às alegações do direito em que se fundam as ações.
+(..)
+Ato continuo, em 26/10/2006, iá fora do prazo legal preconizado na Lei n" 11.196/2005, a suplicante finalmente renunciou expressamente, em juízo, a quaisquer alegações de direito sobre as quais se funda o AMS nº 1999.01.0019346-6/DF.
+Ora, o prazo para que a impetrante renunciasse às alegações de direito relativas às ações, de acordo com o art. 94 da Lei nº 11.196. de 21 de novembro de 2005. findou-se no último dia útil do mês de dezembro de 2005."
+Para além disso, impõe-se mais uma observação, agora no campo da presunção de legitimidade do ato administrativo.
+A presunção de legitimidade ou de regularidade, como atributo de todo ato administrativo, consiste em se presumir como regular a interpretação jurídica utilizada pelo agente, o exercício da competência discricionária e a veracidade dos latos relevantes apontados no ato.
+Dessa presunção decorre a eficácia vinculante c imediata do ato em relação ao particular. independentemente de sua aceitação ou de prévia certificação judicial. Percebe-se. portanto, que tal atributo, de natureza marcadamente instrumental, reveste-se de amplíssima relevância jurídica, na medida em que viabiliza a Administração ao pleno exercício de suas competências legalmente previstas para a satisfação das necessidades coletivas e promoção dos direitos fundamentais.
+Aplicando-se essa idéia ao presente caso, impende afirmar que a Impetrante não se desincumbiu de infirmar a presunção de veracidade dos fatos apontados pelo agente como fundamentos da decisão administrativa. Ao revés, os documentos adunados aos autos indicam que,
+de fato, houve descumprimento, pela contribuinte optante pelo regime especial de tributação
+(RET), das exigências veiculadas no art. 94 da Lei nº 11.196/2005.
+Observo, assim, a regularidade do processo administrativo em epígrafe, porquanto
+foram amplamente respeitados o princípio da legalidade e, principalmente, o devido processo
+legal.
+Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
