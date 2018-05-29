@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor MAILSON COSTA SOUSA (MAILSON COSTA DE SOUSA), apontando como autoridade coatora o Tribunal de Justiça do Estado do Maranhão.
+Os autos dão conta de que o paciente foi condenado, por infração ao art. 121, § 1º, do Código Penal, à pena de 5 (cinco) anos e 11 (onze) meses de reclusão, a ser inicialmente cumprida em regime semiaberto (e-STJ fls. 20/24).
+Objetivando afastar a aferição negativa da circunstância judicial relativa às consequências do crime, e, ainda, reconhecer a confissão espontânea, a defesa interpôs recurso de apelação perante o Tribunal de origem, que lhe negou provimento nos termos do acórdão assim ementado (e-STJ fl. 13):
+PENAL. PROCESSO PENAL. APELAÇÃO CRIMINAL. HOMICÍDIO PRIVILEGIADO (ART. 121, §1º, DO CÓDIGO PENAL BRASILEIRO). EXASPERAÇÃO INDEVIDA DA PENA-BASE. INOCORRÊNCIA. CIRCUNSTÂNCIA JUDICIAL DAS CONSEQUÊNCIAS DO CRIME DEVIDAMENTE VALORADA PELO JUÍZO DE BASE. MANUTENÇÃO DA SENTENÇA RECORRIDA QUE SE IMPÕE. RECURSO DE APELAÇÃO CONHECIDO E NÃO PROVIDO. UNANIMIDADE. 1) Se afigura devidamente valorada a circunstância judicial das consequências do crime, de acordo com as circunstâncias do caso concreto, pelo que deve ser mantida a pena-base imposta ao apelante em primeira instância. 2) O apelado embora tenha confessado que matou a vítima, aduziu que agiu em legítima defesa. Dessa forma, a sua confissão não se mostra útil para os fins a que se destina a atenuante da confissão espontânea. 3) Recurso de Apelação Criminal conhecido e não provido.
+No presente writ, a Defensoria Pública do Estado do Maranhão alega que "a confissão do paciente contribuiu para o julgamento da demanda em especial para o reconhecimento da autoria servindo não só para fundamentar a denúncia  ..  como sua própria condenação, tão certo, que os jurados (destinatários da prova) reconheceram militar em seu favor a causa de diminuição da pena prevista no § 1º do art. 121 do CP, a qual por lógico, só poderia ser reconhecida se acatasse parte de sua confissão" (e-STJ fl. 5). Diante disso, busca, inclusive liminarmente, que seja reconhecida a atenuante da confissão espontânea e, consequentemente, reduzida a pena aplicada (e-STJ fls. 1/11).
+O pedido liminar foi indeferido (e-STJ fls. 81/83).
+Ouvido, o representante do Ministério Público Federal manifestou-se pela concessão da ordem (e-STJ fls. 105/109).
+É, em síntese, o relatório.
+Busca a defesa, consoante se observa do relatório, seja reconhecida a atenuante da confissão espontânea.
+No caso em desfile, a mencionada atenuante foi afastada pelo Tribunal de Justiça tendo em vista que o acusado, "embora tenha confessado que matou a vítima, aduziu que agiu em legítima defesa. Dessa forma, a confissão do apelado não se mostra útil para os fins a que se destina a atenuante" (e-STJ fl. 17).
+Entretanto, observo que a orientação adotada pela Corte local vai de encontro à jurisprudência do Superior Tribunal de Justiça.
+Na confissão qualificada, como é cediço, embora admita a autoria do crime, o acusado alega ter agido acobertado por causa excludente de ilicitude ou culpabilidade. Acerca do assunto, DELMANTO, citando BETANHO, "sustenta que confessar a autoria não é o mesmo que confessar o crime; para a atenuante basta a confissão da autoria e não impede sua aplicação o fato de o réu ter negado parte da imputação ou invocado excludente de ilicitude" (DELMANTO, Celso. E outros. Código Penal Comentado. 8. Ed. São Paulo: Saraiva, 2010, p. 303, grifei).
+No mesmo sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO. DOSIMETRIA DA PENA. CONFISSÃO QUALIFICADA. INCIDÊNCIA. SÚMULA 545/STJ.
+ ..
+2. Em que pesem precedentes em sentido contrário, a recente jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que mesmo a chamada confissão qualificada, na qual o agente agrega à confissão teses defensivas descriminantes ou exculpantes, pode ensejar o reconhecimento da atenuante prevista no art. 65, III, alínea d, do Código Penal (HC n. 306.785/MS, Ministro Felix Fisher, Quinta Turma, DJe 3/3/2015).
+3. Agravo regimental improvido.
+(AgRg no HC 281.731/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/11/2016, DJe 25/11/2016, grifei.)
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. CRIME DE HOMICÍDIO TENTADO. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO PELA PERSONALIDADE. PERFIL VIOLENTO. CIRCUNSTÂNCIAS DO DELITO. DISPARO DE ARMA DE FOGO EM ESTABELECIMENTO COMERCIAL. RISCO À VIDA DE TERCEIROS. FUNDAMENTOS IDÔNEOS. PLEITO DE APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. AFASTAMENTO PELO TRIBUNAL A QUO POR SE TRATAR DE CONFISSÃO QUALIFICADA. ADMISSÃO DA AUTORIA DO FATO PORÉM SOB O PÁLIO DE EXCLUDENTE DE ILICITUDE (LEGÍTIMA DEFESA). RECONHECIMENTO DEVIDO. COMPENSAÇÃO DA ATENUANTE DA CONFISSÃO COM A AGRAVANTE DA REINCIDÊNCIA. REDIMENSIONAMENTO DA PENA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+4. A jurisprudência desta Corte firmou-se no sentido de que a confissão, ainda que parcial, ou mesmo qualificada - em que o agente admite a autoria dos fatos, alegando, porém, ter agido sob o pálio de excludentes de ilicitude ou de culpabilidade -, deve ser reconhecida e considerada para fins de atenuar a pena. Precedentes.
+ ..
+6. Habeas corpus não conhecido, mas, concedida a ordem de ofício para reduzir a pena a 6 anos de reclusão.
+(HC 350.956/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/08/2016, DJe 15/08/2016, grifei.)
+É evidente, portanto, o constrangimento ilegal.
+Procedo, assim, à readequação da dosimetria da pena do delito, conservando os parâmetros adotados na origem.
+Na primeira fase do cálculo, mantenho a pena-base acima do mínimo legal - 9 (nove) anos e 6 (seis) meses de reclusão.
+Na segunda etapa, reconhecidas as atenuantes da menoridade relativa e da confissão espontânea, diminuo a reprimenda em 1/3 (um terço).
+Na terceira fase, presente a causa de diminuição descrita no art. 121, § 1º, do Código Penal, conservo a redução no patamar de 1/4 (um quarto) e torno a sanção definitiva em 4 (quatro) anos e 9 (nove) meses de reclusão.
+À vista de tais pressupostos, concedo em parte a ordem para, reconhecida a atenuante da confissão espontânea, redimensionar a pena do paciente e estabelecê-la em 4 (quatro) anos e 9 (nove) meses de reclusão, nos termos acima referidos, mantido, no mais, o acórdão estadual.
+Publique-se. Intimem-se.
