@@ -1,0 +1,2 @@
+Altera as Leis nº 11.516, de 28 de agosto de 2007, 7.957, de 20 de dezembro de 1989, e 9.985, de 18 de julho de 2000, para dispor sobre a destinação e a aplicação dos recursos de compensação ambiental e sobre a contratação de pessoal por tempo determinado pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) e pelo Instituto Chico Mendes de Conservação da Biodiversidade (Instituto Chico Mendes).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
