@@ -1,0 +1,29 @@
+DECISÃO
+1. Trata-se de embargos de divergência interpostos contra acórdão proferido pela Terceira Turma, assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CPC/1973. APLICAÇÃO. MARCO TEMPORAL. VERBA HONORÁRIA. APRECIAÇÃO EQUITATIVA. LIMITES. VALOR FIXO. CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos do art. 20, § 4º, do Código de Processo Civil de 1973, a fixação dos honorários nas ações em que não há condenação não está adstrita aos limites percentuais de 10% (dez por cento) e 20% (vinte por cento), podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, ou mesmo um valor fixo, segundo o critério de equidade.
+3. Não é possível, ante o óbice da Súmula nº 7/STJ, rever o valor dos honorários advocatícios fixados dentro da razoabilidade, por meio de apreciação equitativa.
+4. Agravo interno não provido.
+Sustenta dissídio jurisprudencial com arestos desta Corte Superior que, diversamente do julgado ora recorrido, que majoraram a verba honorária devido à irrisoriedade do valor arbitrado a esse título.
+É o relatório.
+2. No tocante à possibilidade de revisão do montante fixado a título de verba honorária, não são cabíveis os embargos de divergência, porquanto é cediço na Corte que este recurso busca uniformizar a jurisprudência em questões idênticas, valendo ressaltar que cada ação tem suas peculiaridades fáticas e o valor dos honorários as deve levar em consideração, na forma do art. 85, § 2º, do CPC (art. 20, § 4º do CPC/1973).
+Por essa razão, via de regra, é vedada a reapreciação da matéria em sede de recurso especial, ressalvadas as situações em que os valores fixados a titulo de honorários advocatícios sejam manifestamente irrisórios ou excessivos.
+Contudo, na via dos embargos de divergência, nem mesmo em tais condições é autorizada a análise do tema, haja vista que não existe a possibilidade de uniformização da jurisprudência quanto ao ponto - justamente em virtude das premissas fáticas da demanda - o que é pressuposto necessário desse recurso excepcional.
+Nesse mesmo sentido, recente precedente da Corte Especial:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. PRECEDENTE DA CORTE ESPECIAL EM CONSONÂNCIA COM O ACÓRDÃO EMBARGADO (AGRG NOS EREsp. 1.270.937/RS, REL. MIN. HUMBERTO MARTINS, DJe 16.8.2012). SÚMULA 168 DO STJ. AGRAVO INTERNO DA EMPRESA DESPROVIDO.
+1. A Corte Especial do STJ tem entendido que não cabem embargos de divergência para discutir a verba honorária fixada, notadamente porque se trata de questão decidida com base nas peculiaridades de cada caso (AgRg nos EREsp. 1.270.937/RS, Rel. Min. HUMBERTO MARTINS, DJe 16.8.2012). Aplicável, ao caso, a Súmula 168/STJ, segundo a qual, não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado.
+2. Agravo Interno da empresa desprovido, com o encaminhamento dos autos à Seção para exame da divergência suscitada entre julgados de suas Turmas.
+(AgInt nos EDcl nos EREsp 1166174/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 06/09/2017, DJe 13/09/2017)
+Confira-se, ainda:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. HONORÁRIOS ADVOCATÍCIOS. VALOR FIXADO, SEGUNDO O ACÓRDÃO EMBARGADO, DE FORMA EQUITATIVA PELAS INSTÂNCIAS ORDINÁRIAS. PRETENDIDA MAJORAÇÃO. ÓBICE DA SÚMULA N.º 07 DO STJ. INAPLICABILIDADE APENAS QUANDO O VALOR É CONSIDERADO IRRISÓRIO OU EXCESSIVO. CASUÍSTICA. ACÓRDÃO EMBARGADO QUE NÃO DESTOA DA JURISPRUDÊNCIA PACÍFICA DO STJ. REVISÃO EM SEDE DE EMBARGOS DE DIVERGÊNCIA. IMPOSSIBILIDADE. PRECEDENTES. EMBARGOS LIMINARMENTE INDEFERIDOS. DECISÃO MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A revisão, em sede de recurso especial, do quantum fixado a título de verba honorária, via de regra, pressupõe o revolvimento de matéria fática, tarefa vedada a teor do verbete sumular n.º 07 do STJ.
+2. A jurisprudência desta Corte, entretanto, sensível a situações em que salta aos olhos a inobservância dos critérios legais para o arbitramento do valor justo, passou a admitir a revisão em sede especial quando se tratar de honorários notoriamente ínfimos ou exagerados, o que se constata considerando cada caso em particular.
+Assim, saber se os honorários são irrisórios ou exorbitantes requer, necessariamente, a apreciação das peculiaridades de cada caso concreto.
+3. Os embargos de divergência, por sua vez, é um recurso que tem sua razão de existir fundada na necessidade de se compor eventual dissídio de teses jurídicas em sede de recurso especial, na medida em que o Superior Tribunal de Justiça, afinal, tem como missão institucional precípua justamente a uniformização da interpretação da legislação infraconstitucional.
+4. Assim, não se abre a especialíssima via - que não se presta à revisão do acerto ou desacerto da decisão embargada - quando não restar evidenciada divergência de teses jurídicas, pressuposto elementar do recurso, nos termos do art. 266, § 1.º, do Regimento Interno do Superior Tribunal de Justiça.
+5. Agravo regimental desprovido.
+(AgRg nos EREsp 1373653/RS, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 21/05/2014, DJe 28/05/2014)
+3. Ante o exposto, com fundamento no art. 266-C do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente ambos os embargos de divergência.
+4. Havendo prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, em 10 % do valor já arbitrado, nos termos do art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
