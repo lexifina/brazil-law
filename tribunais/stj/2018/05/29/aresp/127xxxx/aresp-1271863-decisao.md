@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. TRATAMENTO MÉDICO-HOSPITALAR. VIOLAÇÃO AO ART. 1022 E 1013 DO CPC/2015. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] (espólio), representada pelo inventariante [NOME], contra decisão proferida pelo Tribunal Regional Federal da 4º Região, que inadmitiu recurso especial manejado contra acórdão assim ementado (fl. 9356 e-STJ):
+ADMINISTRATIVO. ATENDIMENTO DE SAÚDE DEFICITÁRIO PELO FUSEX - NÃO DEMONSTRADO. RESPONSABILIDADE OBJETIVA DA UNIÃO - REQUISITOS NÃO PREENCHIDOS. INDENIZAÇÃO POR DANOS MORAIS - INCABÍVEL
+1. A responsabilidade objetiva estatal advinda de atendimento médico deficitário por parte da FUSEX depende de comprovação de ato estatal, dano e nexo de causalidade.
+2. Apurada a desnecessidade de tratamento em Home Care através de outra ação judicial, não se afigura razoável a condenação em danos morais com base na suposta forma deficitária com que o tratamento teria sido prestado à apelante.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem nos seguintes termos (fl. 93999 e-STJ):
+EMBARGOS DE DECLARAÇÃO. HIPÓTESES DE CABIMENTO. INOCORRÊNCIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE. PREQUESTIONAMENTO. DISCIPLINA DO ARTIGO 1.025 DO NOVO CPC. HONORÁRIOS ADVOCATÍCIOS.
+1. São cabíveis embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade ou eliminar contradição; suprir omissão ou corrigir erro material, consoante dispõe o artigo 1.022 do CPC.
+2. Não se verifica a existência das hipóteses ensejadoras de embargos de declaração quando o embargante pretende apenas rediscutir matéria decidida, não atendendo ao propósito aperfeiçoador do julgado, mas revelando a intenção de modificá-lo, o que se admite apenas em casos excepcionais, quando é possível atribuir-lhes efeitos infringentes, após o devido contraditório (artigo 1.023, § 2º, do CPC).
+3. As normas do novo CPC não retroagem sobre a decisão proferida sob a égide do anterior ordenamento processual.
+4. Na hipótese, a sentença julgada nesta Corte foi prolatado com base no CPC de 1973, em 1/3/16. Assim, não há que se exigir aplicação de lei que ainda não estava em pleno vigor.
+5. O prequestionamento de dispositivos legais e/ou constitucionais que não foram examinados expressamente no acórdão, encontra disciplina no artigo 1.025 do CPC, que estabelece que nele consideram-se incluídos os elementos suscitados pelo embargante, independentemente do acolhimento ou não dos embargos de declaração.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, a recorrente aponta violação aos seguintes dispositivos: a) art. 489, II, do CPC/2015, aduzindo que o magistrado a quo furtou-se de preencher todos elementos essenciais à sentença; b) arts. 1.013, §1º, e 1022, II, do CPC/2015, alegando que o Tribunal de origem não apreciou toda a matéria suscitada no processo, havendo, dessa forma, negativa de prestação jurisdicional.
+Contrarrazões às fls. 9433/9442 e-STJ.
+A Corte a quo inadmitiu o recurso especial sob o fundamento de que: a) não há que se falar em negativa de prestação jurisdicional; b) rever a posição da Turma Julgadora importaria em ofensa à Súmula 7/STJ; e c) o acórdão vergastado fundou-se em interpretação de cunho constitucional, no entanto, não houve interposição de recurso extraordinário para discutir tais questões, o que atrai a incidência da Súmula 126/STJ.
+Nas suas razões de agravo, o agravante impugna todos os óbices apresentados na decisão de admissibilidade.
+O Ministério Público Federal, em parecer às fls. 9502/9504 e-STJ, opina pelo não conhecimento do agravo em recurso especial.
+Contraminuta às fls. 9479/9481 e-STJ.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Quanto à alegação de violação aos arts. 1.013, §1º, e 1022, II, do CPC/2015, sabe-se que as proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+In casu, o acórdão foi preciso e suficientemente claro no desenvolvimento de seus fundamentos. Em verdade, a instância a quo decidiu de forma fundamentada no sentido de não reconhecer a responsabilidade civil subjetiva da União no caso em questão.
+Destaca-se que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1022 do CPC, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AÇÃO MONITÓRIA. CHEQUE PRESCRITO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU FALTA DE MOTIVAÇÃO NO ACÓRDÃO A QUO. DECISUM ESTADUAL TODO FUNDADO EM FATOS E PROVAS. SÚMULA N. 7/STJ.AGRAVO NÃO PROVIDO.
+1. Acórdão estadual claro e nítido, sem omissões, obscuridades, contradições ou ausência de motivação. Não obstante a oposição de embargos declaratórios, não são eles mero expediente para forçar o ingresso na instância especial, se não há vício a suprir; inexistente, portanto, ofensa ao art. 535 do CPC, pois a matéria foi devidamente abordada no aresto a quo.
+ ..
+3. Agravo regimental não provido.
+(AgRg no AREsp 638.454/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/03/2015, DJe 10/03/2015)
+Por fim, no que tange à indicada violação ao art. 489, II, do CPC/2015, nota-se, pela leitura dos autos, que não houve apreciação pelo Tribunal de origem sobre a tese em referência, o que impossibilita o julgamento do recurso nesse aspecto, por ausência de prequestionamento, nos termos das Súmulas 282/STF e 211/STJ, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"; "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Efetivamente, para a configuração do questionamento prévio, não é necessário que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso.
+Nesse sentido, o seguinte precedente deste Tribunal Superior:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. LICITAÇÃO. ART. 31, § 5º, DA LEI 8.666/93. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. QUALIFICAÇÃO ECONÔMICO-FINANCEIRA. REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. O Tribunal de origem não se pronunciou sobre a matéria versada no art. 31, § 5º, da Lei 8.666/93, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ.
+ ..
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 469.244/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/03/2015, DJe 26/03/2015)
+Ante o exposto, com fundamento no artigo 932, III e IV, do CPC/2015 c/c artigo 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento. Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ, deixo de majorar os honorários advocatícios haja vista que não houve prévia fixação na origem.
+Publique-se. Intimem-se.
