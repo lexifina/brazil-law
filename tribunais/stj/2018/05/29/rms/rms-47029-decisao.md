@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por ALEKSANDRA LYRA PESSOA DOS REIS CALDAS, com fundamento no art. 105, II, "b", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Maranhão que indeferiu a inicial de writ ali impetrado (e-STJ fls. 1779/1780).
+Aponta a recorrente a persistência do interesse de agir, pois a segurança pretendida não se volta contra o acórdão que antecipou a tutela, mas sim contra o despacho monocrático posterior que determinou ao DETRAN/MA o cumprimento imediato do contrato administrativo.
+Defende, ainda, sua legitimidade ativa para propor a ação popular visando anular licitação promovida pelo DETRAN/MA, ante a ilegalidade e lesividade do referido procedimento e do respectivo contrato.
+Ao final, pleiteia a reforma do acórdão atacado com a concessão da segurança pretendida.
+Contrarrazões (e-STJ fls. 1831/1847).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 1869/1873).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Isso considerado, observo que os autos dão conta de "mandado de segurança impetrado contra decisão proferida pela Desembargadora Relatora do Agravo de Instrumento nº 7554/2011, que determinou, nos autos da ação popular proposta pela ora recorrente em desfavor do DETRAN/MA e do Presidente da Comissão Permanente de Licitação do mesmo órgão, visando à anulação da Concorrência instaurada pelo Edital nº 01/11, o imediato cumprimento do acórdão proferido no julgamento do referido agravo", como assinala o parecer ministerial (e-STJ fl. 1870).
+O writ foi extinto pela Corte de origem, sem resolução do mérito, ante a perda superveniente de seu objeto e a ilegitimidade ativa ad causam da ora recorrente, como demonstra o excerto a seguir transcrito (e-STJ fl. 1788/1796):
+Ultrapassado isso, porém, importa notar que o Agravo de Instrumento a este principal - n 7.554/2011 - em cujo bojo proferida a decisão que o Mandado de Segurança busca anular, quedou definitivamente baixado à origem, já, em 14/10/2013, consoante faz prova o extrato de andamento processual que ora faço juntar a este, após inadmitido o Apelo Especial e transitada em julgado aquela decisão.
+Inafastável, pois, a superveniente perda de objeto desta impetração, vez que superada a controvérsia, já, por decisão de mérito definitiva.
+(..).
+E não é só. Ainda que se argua dispara, a impetração, pela parte autora da Ação Popular da qual gerada a controvérsia, tem-se em verdade promovida, ela, na defesa de interesses de outrem, ou seja, do próprio DETRAN, inobstante já transitado em julgado o feito a este principal. Nesse norte, entendo faltar legitimidade ativa à impetrante na espécie, resultando inegável, via de consequência, também a falta, por ela, do necessário interesse de agir.
+Certo, portanto, que enquadrada a espécie no art. 61, § 5º, da Lei no 12.016/2009, é de ser denegada a segurança, porque verificadas as causas extintivas previstas no art. 267, IV e VI, da Lei Adjetiva Civil.
+Quanto ao primeiro fundamento (perda de objeto), a parte alega que "a confirmação definitiva do desprovimento do agravo não modifica em nada a situação posta no momento da impetração, sendo insuscetível de acarretar a perda superveniente do interesse de agir da recorrente" (e-STJ fl. 1814).
+Na defesa de sua legitimidade ativa, aponta "a fragilidade e a contradição da conclusão consagrada pelo Tribunal a quo", sustentando que, "se a autoridade impetrada não tivesse considerado irrecorrível o seu despacho, seria escandalosamente inquestionável a legitimidade da autora popular para interpor o competente agravo regimental,"destacando, ainda, que a questão foi examinada "de forma extremamente superficial" (e-STJ fl. 1815).
+Como se vê, os fundamentos declinados pelo Tribunal de origem, e capazes de manter o acórdão hostilizado, não foram atacados pela recorrente, que se limitou a tecer considerações genéricas, o que atrai a incidência, por analogia, da Súmula 283 do STF, à espécie.
+Ante o exposto, com arrimo no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do recurso ordinário.
+Publique-se.
+Intimem-se.
