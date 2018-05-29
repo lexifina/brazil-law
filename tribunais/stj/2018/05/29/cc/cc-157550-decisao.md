@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA VARA JUDICIAL DE TRÊS COROAS - RS, suscitante, e o JUÍZO DE DIREITO DO FORO CENTRAL CRIMINAL BARRA FUNDA - DIPO 4 - SÃO PAULO - SP, suscitado, em face de inquérito instaurado para apurar a prática do delito de estelionato.
+O juízo suscitado, ao acolher manifestação ministerial, declinou da competência por entender que, por se tratar de crime de estelionato, a consumação se dá no local em que ocorreu o efetivo prejuízo à vítima (fl. 83).
+O conflito negativo foi suscitado pelo Juízo da Vara de Três Coroas/RS pois, ao acolher na íntegra a promoção ministerial, concluiu que o delito se consumou em São Paulo por se tratar do local em que a vantagem indevida efetivamente ingressou na esfera de disponibilidade do suposto autor do crime sendo o prejuízo patrimonial tão somente a consequência da infração que se consuma no momento exato em que a vantagem chega a ser obtida, e tão somente influi na ulterior dosimetria da pena e na analise do regime prisional (fl. 96).
+Manifestou-se o órgão ministerial pelo conhecimento do conflito para que seja declarada a competência do Juízo de Direito da Vara Judicial de Três Coroas/RS, ora suscitante (fls. 108/111).
+É o relatório.
+DECIDO.
+Consta dos autos que foi instaurado inquérito policial para apurar a prática do delito de estelionato, praticado contra a vítima [NOME], que teria sido induzida, por terceiro indivíduo autoidentificado como funcionário da Caixa Econômica Federal, ao erro de acreditar que, para tomada de empréstimo financeiro, deveria efetuar dois depósitos, nos valores de R$ 300,00 e R$ 500,00, para [CONTA]02-8, mantida na Caixa Econômica Federal por  .. , incapaz representada por [NOME] (fl. 90). Os depósitos bancários foram realizados na cidade de Três Coroas/RS.
+Prescreve o art. 70, caput, do Código de Processo Penal, que a competência será, em regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.
+Por sua vez, prevalece nesta Corte o entendimento de que o delito de estelionato consuma-se no local em que ocorre o efetivo prejuízo à vítima, ou seja, na localidade da agência onde a vítima possuía a conta bancária.
+Nesses termos, temos decisões recentes desta Corte: CC nº 147.486/PR, Min. Felix Fischer, Dje de 12/8/2016; CC nº 142.436/SP, Min. Maria Thereza de Assis Moura, DJe de 9/9/2015; CC nº 141.595/PR, Min. Rogério Schietti Cruz, Dje 4/9/2015. Nos referidos julgados, firmou-se o entendimento de que a competência territorial para processo e julgamento do delito de estelionato firmar-se-á observando não a localidade da obtenção da vantagem, mas, sim, o local onde a vítima suportou o prejuízo. Vejam-se, ainda, os seguintes precedentes:
+PENAL E PROCESSUAL PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. CRIME DE ESTELIONATO. CONSUMAÇÃO. JUÍZO EM QUE OCORRE O EFETIVO PREJUÍZO À VÍTIMA. LOCAL DA AGÊNCIA ONDE A VÍTIMA POSSUI CONTA BANCÁRIA. PRECEDENTES.
+1. Nos termos do que dispõe o art. 70 do CPP, a competência é, em regra, determinada pelo lugar em que se consuma a infração penal ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.
+2. O delito de estelionato consuma-se no local em que ocorre o efetivo prejuízo à vítima, ou seja, na localidade da agência onde a vítima possuía a conta bancária. Precedentes.
+3. Tendo a vítima efetuado as transferências em agência localizada na cidade de Pacaembu/SP, onde possuía conta bancária, é este o local do efetivo dano e para onde devem ser remetidos os autos para regular processamento e prosseguimento do feito.
+4. Conflito conhecido para declarar competente o Juízo de Direito da 1ª Vara de Pacaembu/SP, ora suscitado. (CC 147.811/CE, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 14/9/2016, DJe 19/9/2016).
+CONFLITO NEGATIVO DE COMPETÊNCIA. CRIME DE ESTELIONATO. CONSUMAÇÃO. LOCAL DO EFETIVO PREJUÍZO À VÍTIMA. LOCAL DA AGÊNCIA À QUAL ESTÁ VINCULADA A CONTA CORRENTE DA VÍTIMA.
+- Nos termos do que prevê o art. 70 do Código de Processo Penal, a competência é, em regra, determinada pelo lugar em que se consuma a infração penal.
+- A jurisprudência firmada nesta Corte dispõe que o delito de estelionato, tipificado no art. 171 do Código Penal, consuma-se no local onde ocorreu o efetivo dano à vítima. No caso dos autos, em que houve o desconto de cheque fraudado, não emitido pelo titular, na localidade da agência onde a vítima possuía a conta bancária.
+Conflito conhecido para declarar competente o Juízo de Direito da 1ª Vara Criminal de Paranavaí/PR, o suscitado.
+(CC 136.853/MG, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), TERCEIRA SEÇÃO, julgado em 10/12/2014, DJe 19/12/2014), com destaques.
+No caso, ao que se tem, os depósitos foram realizados em agência bancária da Caixa Econômica Federal da cidade de Três Coroas/RS, local em que a vítima suportou o prejuízo.
+Nesse contexto, o Juízo competente para o processamento do inquérito policial é o Juízo da Vara de Três Coroas/RS, local onde se deu o efetivo dano à vítima e para onde devem ser remetidos os autos para regular processamento e prosseguimento do feito.
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA VARA JUDICIAL DE TRÊS COROAS - RS, ora suscitante.
+Publique-se.
+Intimem-se.
