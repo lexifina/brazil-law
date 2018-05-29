@@ -1,0 +1,12 @@
+DECISÃO
+1. Cuida-se de embargos de declaração opostos por VALERO BRASIL INVESTIMENTOS IMOBILIÁRIOS LTDA contra decisão de fls. 830-835, que conheceu do agravo e deu provimento ao seu recurso especial.
+Nas razões recursais (fls. 856-860), sustenta a parte embargante: " Houve indiscutível alteração nos limites objetivos do julgamento de mérito referente a demanda proposta, cujo resultado colocou ambos os litigantes em situação de vencido e vencedor, e vice-versa. Por consequência, as despesas e os honorários advocatícios devidos pelas partes deverão ser distribuídos proporcionalmente, na forma do art. 86, do CPC/15..Nada obstante os pedidos insertos no Recurso Especial, não foi apreciada por este eminente Relator na decisão monocrática proferida que resolveu o mérito da lide (fls. 830-835), que levou a efeito a reforma do acórdão recorrido, sem tratar expressamente do pedido de inversão da sucumbência apresentado na minuta de recurso especial apresentada nos autos (fl. 631).".
+DECIDO.
+2. Tem razão a parte embargante quando alega omissão.
+Nas razões do recurso especial (fls. 602-631), o embargante, requereu: c) A inversão da sucumbência, obedecidos os critérios estabelecidos pelo Novo Código de Processo Civil a respeito dos limites da condenação ao pagamento de honorários sucumbenciais em sede recursal.
+De fato, esse pleito não foi analisado na decisão embargada, motivo pelo qual os embargos declaratórios devem ser acolhidos para sanar a omissão.
+É firme a jurisprudência do STJ no sentido de que "no provimento judicial que decreta a rescisão ou a nulidade contratual está ínsito o direito de devolução das quantias eventualmente adiantadas pelos contratantes, independentemente de requerimento expresso nesse sentido, sob pena de enriquecimento sem causa" (REsp 1.611.415/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21.02.2017, DJe 07.03.2017).
+Dessa forma, mereceu reforma o acórdão estadual, que, em dissonância com a jurisprudência do STJ, declarou a rescisão do contrato sem determinar que a autora procedesse à devolução dos valores pagos pela ré.
+O recurso especial da parte embargante foi provido a fim de determinar que a autora devolva os valores que a ré despendeu para a celebração do contrato, com a devida incidência de correção monetária a partir do desembolso e juros moratórios desde a citação. Assim, devem ser invertidos os ônus de sucumbência.
+3. Ante o exposto, acolho os embargos de declaração para sanar omissão, sem efeitos modificativos.
+Publique-se. Intimem-se.
