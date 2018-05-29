@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal Regional Federal da 3ª Região cuja ementa é a seguinte:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ARTIGO 1.021 DO CÓDIGO DE PROCESSO CIVIL DE 2015. APELAÇÃO JULGADA POR DECISÃO MONOCRÁTICA (ART. 557 DO CÓDIGO DE PROCESSO CIVIL DE 1973), INTERPOSTA CONTRA SENTENÇA PUBLICADA NA VIGÊNCIA DO CPC/73. APLICAÇÃO DA LEI PROCESSUAL VIGENTE AO TEMPO DA PUBLICAÇÃO DA DECISÃO RECORRIDA. PRECEDENTES DA CORTE ESPECIAL DO STJ. PRESTAÇÃO DE INFORMAÇÕES NO SISTEMA SISCOMEX. RESPONSABILIDADE DO AGENTE MARÍTIMO. ART. 37, § 1º, DO DECRETO LEI N" 37/66. PRAZO NÃO OBSERVADO (ART. 22 DA INSTRUÇÃO NORMATIVA SRF Nº 800/2007). OBRIGAÇÃO ACESSÓRIA. MULTA (ART. 107, IV, "E", DO DECRETO LEI Nº 37/66). RECURSO DESPROVIDO.
+1. O recurso é regido pela lei processual vigente ao tempo da publicação da decisão recorrida. Nesse sentido firmou-se a jurisprudência da Corte Especial do Superior Tribunal de Justiça (EREsp 740.530/RJ, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 01/12/2010, Die 03/06/2011; EREsp 615.226/DF, Rel. Ministro ARI PARGENDLER, CORTE ESPECIAL, julgado em 01/08/2006, DJ 23/04/2007, p. 227).
+2. Na espécie, a sentença recorrida (fls. 116/121 e 138/140) contra a qual a agravante interpôs apelação (fls. 145/159), foi publicada em Diário Oficial em 27/08/2015 (fls. 144), portanto na vigência do Código de Processo Civil de 1973. Assim, nada impedia que o Relator apreciasse o feito por decisão unipessoal, com fundamento no art. 557 do Código de Processo Civil de 1973, com base em jurisprudência dominante firmada perante o Superior Tribunal de Justiça e esta Corte Regional.
+3. Consoante previsão expressa do art. 37, § 1º, do Decreto -Lei n" 37/66, é dever do agente marítimo prestar informações acerca da carga transportada; trata-se de obrigação acessória ou dever instrumental previsto no interesse da arrecadação ou fiscalização dos tributos, bem como mecanismo viabilizador do controle aduaneiro, nos termos do art. 113, § 2º, do Código Tributário Nacional, cujo descumprimento é apenado com a imposição de multa.
+4. Ressalte-se que a multa imposta por descumprimento de uma obrigação acessória possui nítido caráter extrafiscal (art. 113, § 2º, do Código Tributário Nacional) e objetiva exatamente a coleta de elementos para viabilizar a arrecadação e fiscalização da obrigação principal pela administração tributária, no caso, vinculada ao controle aduaneiro da movimentação de embarcações e cargas nos portos alfandegados.
+5. A multa prevista não possui a mesma natureza do tributo, mas o caráter repressivo e preventivo, de sanção destinada a coibir a prática de atos inibitórios do exercício regular da atividade de controle aduaneiro em portos, compelindo o responsável ao devido cumprimento.
+6. O Superior Tribunal de Justiça possui entendimento firme no sentido de que a denúncia espontânea prevista no art. 138 do Código Tributário Nacional não aproveita às obrigações acessórias autônomas, como na espécie, visto que consumam-se com a simples inobservância do prazo estabelecido na legislação.Precedentes.
+7. Recurso desprovido.
+A parte recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 1.021 do CPC/2015 (art. 557 do CPC/1973); 37 e 102 do Decreto-Lei 37/1966; e 106 do CTN, sob o argumento de que "levando-se em consideração o caso da Recorrente que finalizou o CE a destempo, porém, antes do início de qualquer fiscalização da Alfândega Portuária, é notório que a penalidade pelo descumprimento do prazo de 48 horas previsto no artigo 22, da IN 800/07, deve ser afastada" (fl. 305, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2.2.2018.
+Inicialmente, a jurisprudência do Superior Tribunal de Justiça é no sentido de que eventual nulidade na decisão singular do relator, proferida com fulcro no art. 557 do CPC/1973, fica superada com a reapreciação da matéria, na via do Agravo Interno, pelo órgão colegiado. Nessa linha:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO. IRRESIGNAÇÃO DA RECORRENTE.
+1. O posterior julgamento colegiado, em sede de regimental, confirmando a decisão monocrática, supre eventual irregularidade da mesma quanto ao não atendimento dos requisitos do art. 557, § 1º, do CPC.
+(..)
+3. Agravo regimental desprovido.
+(AgRg no REsp 1355085/SP, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 4.2.2016).
+Quanto ao mais, melhor sorte não assiste à parte insurgente.
+O debate proposto no Recurso Especial não ocorreu no Tribunal de origem, tampouco foi provocado por Embargos de Declaração.
+Assim, perquirir nesta via estreita ofensa à referida norma, sem que se tenha explicitado a tese jurídica que ora se controverte, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. Ao ensejo, confira-se o teor da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". No mesmo sentido, os enunciados sumulares 211 do STJ e 356 do STF. É assente na Corte o entendimento de que é condição sine qua non para que se conheça do Especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como ofendidos.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 156 DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ, 282/STF E 356/STF. VIOLAÇÃO AO ART. 5º, LVII, DA CF. MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. OFENSA AO ART. 155 DO CPP. CONDENAÇÃO BASEADA EM PROVAS COLHIDAS SOMENTE NA FASE INQUISITORIAL. INOCORRÊNCIA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AFRONTA AO ART. 386, VII, DO CPP E AO ART. 289, § 1º, DO CP. DOLO DA CONDUTA. REEXAME FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 07/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1 - É condição sine qua non ao conhecimento do especial que o acórdão recorrido tenha emitido juízo de valor expresso sobre a tese jurídica que se busca discutir na instância excepcional, sob pena de ausência de pressuposto processual específico do recurso especial, o prequestionamento. Inteligência dos enunciados 211/STJ, 282 e 356/STF.
+(..)
+5 - Agravo Regimental a que se nega provimento.
+(AgRg no AREsp 357469/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 17/09/2013).
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
