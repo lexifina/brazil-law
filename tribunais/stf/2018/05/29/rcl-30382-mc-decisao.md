@@ -1,0 +1,20 @@
+DECISÃO
+RECLAMAÇÃO – VERBETE VINCULANTE Nº 47 DA SÚMULA DO SUPREMO – DESRESPEITO – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Wilson Canola Junior, advogado, afirma haver o Juízo da Segunda Vara do Trabalho de Americana/SP, no processo nº 0012482-78.2013.5.15.0099, olvidado o teor do verbete vinculante nº 47 da Súmula do Supremo.
+    Segundo narra, atuou, como profissional constituído, no âmbito de ação trabalhista, na qual acabou fixada, a título de honorários advocatícios de sucumbência, a importância de R$ 17.870,72. Conforme esclarece, postulou o destaque do valor daquele devido ao autor da demanda, pedido indeferido pela autoridade reclamada, surgindo daí o alegado desrespeito. Informa que o pretendido desmembramento implica o enquadramento da verba honorária em obrigação de pequeno valor, estando o cliente sujeito ao regime de precatório. Interpostos embargos de declaração, aguardam apreciação.
+    Frisa estarem em jogo honorários sucumbenciais, e não os de origem contratual. Evoca o disposto no artigo 7º, parágrafo único, da Instrução Normativa nº 32/2007 do Tribunal Superior do Trabalho. Reputa contrariado o paradigma uma vez pertinente, no caso, o pagamento em separado da parcela. Evoca jurisprudência.
+    Sob o ângulo do risco, menciona a iminência de decisão quanto aos declaratórios protocolados.
+    Requer, em sede liminar, o sobrestamento do processo na origem até o julgamento desta reclamação. Busca, alfim, a cassação do pronunciamento atacado.
+    2. Percebam as balizas do caso concreto. Com o trânsito em julgado, o reclamante – profissional da advocacia constituído em determinado processo – pretendeu o destaque dos valores fixados, em Juízo, a título de honorários sucumbenciais, da verba principal, devida ao vencedor da demanda. O pleito acabou indeferido pela autoridade reclamada mediante as seguintes razões:
+    Indefiro, pois, apesar do caráter alimentício dos honorários advocatícios e honorários periciais, entende-se incabível o desmembramento das obrigações acessórias da principal, bem como, o pagamento dos honorários anteriormente ao crédito do autor.
+    Sustenta ofendido o verbete vinculante nº 47, cujo teor é o seguinte:
+    Os honorários advocatícios incluídos na condenação ou destacados do montante principal devido ao credor consubstanciam verba de natureza alimentar cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor, observada ordem especial restrita aos créditos dessa natureza.
+    Mostra-se relevante a irresignação. Faz-se em jogo a possibilidade de percepção, à parte, considerado o crédito principal objeto da execução, de honorários advocatícios de sucumbência. Diferentemente do que ocorre com a verba contratual, cabe satisfazer a parcela em separado, ante o caráter alimentar, a resultar na possibilidade de adimplemento por intermédio da sistemática atinente a créditos de pequeno valor, desde que observado o limite estabelecido. É inadequado evocar a natureza acessória da rubrica para inviabilizar o pagamento em apartado.
+    Embora o pedido de liminar esteja voltado unicamente à suspensão do processo na origem, tenho por adequado assentar, desde já, levando em conta o pedido final e objetivando impedir o retardamento indevido do pagamento dos créditos apurados na origem, a necessidade de sequência da execução, em separado, relativamente à verba honorária, cabendo ao Juízo verificar o atendimento do limite legal previsto para as obrigações de pequeno valor.
+    3. Defiro a liminar para suspender a eficácia da decisão prolatada, em 17 de abril de 2018, pelo Juízo da Segunda Vara do Trabalho de Americana/SP no processo nº 0012482-78.2013.5.15.0099 e determinar o prosseguimento da execução na origem, mediante a expedição de requisição de pequeno valor com a finalidade de, uma vez observado o limite respectivo, pagamento dos honorários advocatícios de sucumbência.
+    4. Solicitem informações. Com o recebimento, colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 29 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
