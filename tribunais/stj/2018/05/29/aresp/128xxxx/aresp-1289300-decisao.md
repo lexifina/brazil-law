@@ -1,0 +1,34 @@
+DECISÃO
+1. Cuida-se de agravo interposto por HERMES PEREIRA DA SILVA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO MONITÓRIA. IMPENHORABILIDADE DE BEM DE FAMÍLIA.
+Não restou demonstrado, de forma inequívoca, que se trata de bem de família. Ausência de provas acerca da unicidade do imóvel e do destino da renda advinda de arrendamento para sustento/moradia da família do agravante.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+UNÂNIME.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 6º, 9º, 10 do CPC/2015, ao argumento de deveria ser cientificado acerca da exigência de unicidade de imóvel feita pelo julgador, antes da decisão sobre a penhorabilidade do bem, o que lhe permitiria providenciar a produção de prova. Aponta, também, afronta ao art. 370 do CPC/2015, porque, em seu entender, caberia ao juízo ordenar de ofício a produção das provas consideradas necessárias. Além disso, assevera que o imóvel em tela deve ser considerado bem de família.
+Decido.
+2. As matérias dos arts. 6º, 9º, 10 e 370 do CPC/2015 não foram enfrentadas no acórdão recorrido, tampouco foram objeto dos embargos de declaração opostos. Desse modo, é evidente que os temas invocados carecem do indispensável prequestionamento, o que impede o conhecimento do recurso especial, em tais pontos (Súmula 282/STF).
+3. O Tribunal de origem não reconheceu que o bem objeto da lide é de família, conforme se verifica do seguinte trecho do acórdão recorrido:
+Destaco o que diz a respeito a súmula nº 486 do STJ:
+"É impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia da sua família."
+No que tange à preclusão invocada nas contrarrazões da parte agravada, ela é procedente, visto que a impenhorabilidade do imóvel de matrícula nº 1.248 já foi objeto de agravo de instrumento (fl. 210-218). Ainda assim, caso a penhorabilidade do imóvel não fosse objeto de preclusão, não há provas suficientes acerca do imóvel em questão ser o único do agravante. Ademais, na fl. 262, onde se tem um documento destinado ao Banco do Brasil declarando o arrendamento do imóvel para terceiro, o agravante afirma que é proprietário de um imóvel "conforme a matrícula nº 1.273 e matrícula nº 1.248 (..)". Ora, o fato de o agravante possuir duas matrículas em seu nome já elimina a hipótese dele ter apenas um imóvel, afinal o princípio da unicidade matriacal é bastante claro: para cada imóvel existe uma e apenas uma matrícula correspondente.
+É evidente que apenas essa apuração isolada não significa necessariamente que o agravante não tenha um único imóvel, mas é a única apuração possível com base no que foi juntado nos autos.
+Deixando isso de lado, os outros aspectos declarados pelo agravante ao longo do processo (ser idoso, portador de doença grave e renda baixa) são bastante claros, conforme constam nos autos.
+Entretanto, se levar em conta a incerteza da unicidade do imóvel do agravante, torna-se difícil apurar com precisão se as rendas do imóvel rural provenientes do arrendamento a terceiro realmente são destinados à sua subsistência e de sua família. Devido a essas lacunas fáticas, torna- se inviável o provimento do presente recurso.
+Nesse contexto, verifica-se que o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema:
+PROCESSUAL CIVIL. CHEQUE. EXECUÇÃO. LEGITIMIDADE. DISCUSSÃO DA DÍVIDA. PENHORABILIDADE. BEM DE FAMÍLIA. REVOLVIMENTO DE CONTEÚDO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO. 1. (..) 2. A alegação de que o imóvel penhorado constitui-se em bem de família não foi comprovada, não havendo falar-se em impenhorabilidade. Alterar esta conclusão demandaria reexame de conteúdo fático-probatório. Incidência da Súmula 7/STJ. 3. Agravo regimental não provido. (AgRg no Ag 1162405/SP, de minha relatoria, QUARTA TURMA, julgado em 04/08/2011, DJe 15/08/2011) - gn.
+DIREITO PROCESSUAL CIVIL E BANCÁRIO. EXECUÇÃO. CONTRATO DE CÂMBIO. VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA. PENHORA. BEM DE FAMÍLIA. SÚMULA Nº 07/STJ. PRESCRIÇÃO DA NOTA PROMISSÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Tendo o Tribunal a quo apreciado, com a devida clareza, toda a matéria relevante para a análise e o julgamento do recurso, não há falar-se em violação ao art. 535 do Código de Processo Civil.
+2. A configuração como bem de família do imóvel parcialmente penhorado depende de reexame do conjunto fático-probatório dos autos, o que, em sede de recurso especial, é vedado pelo enunciado sumular nº 07/STJ.
+3. Não se configura a divergência jurisprudencial quando a questão controvertida depende de revisão do substrato fático-probatório dos autos.
+4. A prescrição da nota promissória adjeta ao contrato de câmbio não foi objeto de debate pelo Tribunal de origem, que considerou este o título executivo em que se baseou a execução, sendo despicienda a análise daquela.
+5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 753.603/RJ, Rel. Ministro HONILDO AMARAL DE MELLO CASTRO (DESEMBARGADOR CONVOCADO DO TJ/AP), QUARTA TURMA, julgado em 04/03/2010, DJe 22/03/2010)
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PENHORA DE BEM IMÓVEL. NÃO COMPROVAÇÃO DE CIRCUNSTÂNCIA QUE ACARRETE A IMPENHORABILIDADE. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1. A Corte a quo, diante do conjunto de provas e fatos acostados aos autos, concluiu não ter havido comprovação de que o imóvel penhorado caracteriza-se como bem de família. A alteração destas conclusões, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. O óbice da Súmula 7/STJ impede o conhecimento do especial aviado tanto pela alínea a, como pela c, do permissivo constitucional, tendo em vista a ausência de similitude fática entre as situações versadas nos acórdãos cotejados. Precedente: AgRg no AREsp 16879/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 19/04/2012, DJe 27/04/2012.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 434.746/AL, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/12/2013, DJe 17/12/2013)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
