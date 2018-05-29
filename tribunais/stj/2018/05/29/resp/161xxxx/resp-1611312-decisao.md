@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSS, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ fl. 233):
+APELAÇÃO CÍVEL. PREVIDENCIÁRIO. CONCESSÃO DE BENEFÍCIO. INEXISTÊNCIA DE NEXO CAUSAL COM ACIDENTE DE TRABALHO.
+Tratando-se de pedido de concessão de benefício previdenciário, constatada a ausência de nexo causal com acidente de trabalho, a competência para julgar a ação é da Justiça Federal, nos termos do art. 190, I, da Constituição Federal.
+Os embargos de declaração foram rejeitados (e-STJ fls. 261/265).
+No recurso, o INSS aponta, inicialmente, ofensa ao artigo 535, II, do CPC/73, pois o Tribunal de origem teria deixado de suprir as alegadas omissões acerca da "impossibilidade de alteração da causa de pedir e do pedido após a estabilização processual (art. 264, parágrafo único, do CPC)" (e-STJ fl. 271).
+No mais, entende que o acórdão recorrido viola o art. 264, parágrafo único, do CPC/73, e o art. 129 da Lei 8.213/91 e deixa de observar a Súmula 15 do STJ, pois o pleito deduzido na inicial (concessão de benefício acidentário), diante de sua natureza, deve ser decidido pela Justiça Estadual.
+As contrarrazões foram apresentadas às e-STJ fls. 282/284.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fls. 286/287.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito tal esclarecimento, verifico que, no que concerne à alegada violação do art. 535, II, do CPC/73, o pedido não prospera, uma vez que são reiterados os pronunciamentos desta Corte Superior no sentido de que o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Sobre a hipótese: AgRg no AREsp 750650/RJ, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 30/9/2015 e AgRg no AREsp 493652/RJ, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 20/6/2014.
+Assim, o fato da Corte de origem ter adotado fundamentação suficiente distinta da pretendida pelo recorrente, por si só, não é indicativo de decisão sem fundamentação ou omissa.
+Na hipótese, destacou a Corte local (e-STJ fl. 263):
+Na espécie, verifica-se inexistir qualquer contradição, omissão, obscuridade ou erro de julgamento.
+Data vênia, inobstante o autor tenha requerido o auxílio-acidente, em razão da fungibilidade dos beneficios previdenciários é possível verificar se o autor preencheu os requisitos de outro beneficio, sendo cabível a remessa à Justiça Federal, em respeito aos princípios da instrumentalidade, economia e celeridade processual
+Todavia, no que diz respeito à competência para decidir a questão posta na petição inicial, o recurso do INSS merece provimento.
+Na hipótese dos autos, o Tribunal de origem, acerca da competência, consignou (e-STJ fl. 236):
+Partindo da premissa extraída no laudo pericial quanto à ausência de nexo causal, verifica-se ser inegável a incompetência da JUSTIÇA COMUM ESTADUAL para apreciar o pedido, pois a doença do autor não tem relação com o seu trabalho, o que atrai a competência da JUSTIÇA FEDERAL, nos termos do art. 109, I, da Constituição Federal (..).
+No entanto, a competência ratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo esta caracterizada pelo pedido e pela causa de pedir, e, portanto, antecedente ao juízo próprio sobre a causa.
+A propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. DEMANDA DEDUZINDO PEDIDOS PARA CONCESSÃO DE BENEFÍCIOS PREVIDENCIÁRIOS. COMPETÊNCIA ESTABELECIDA LEVANDO-SE EM CONSIDERAÇÃO OS TERMOS DA PETIÇÃO INICIAL. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A definição da competência para a causa se estabelece levando em consideração os termos da demanda (e não a sua procedência ou improcedência, ou a legitimidade ou não das partes, ou qualquer outro juízo a respeito da própria demanda). O juízo sobre competência é, portanto, lógica e necessariamente, anterior a qualquer outro juízo sobre a causa. Sobre ela quem vai decidir é o juiz considerado competente (e não o Tribunal que aprecia o conflito). Não fosse assim, haveria uma indevida inversão na ordem natural das coisas: primeiro se julgaria (ou pré-julgaria) a causa e depois, dependendo desse julgamento, definir-se-ia o juiz competente (que, portanto, receberia uma causa já julgada, ou, pelo menos, pré-julgada). Precedentes: CC 51.181-SP, 1ª Seção, Min. Teori Albino Zavascki, DJ de 20.03.2006; AgRg no CC 75.100-RJ, 1ª Seção, Min. Teori Albino Zavascki, DJ de 19.11.2007; CC 87.602-SP, 1ª Seção, Min. Teori Albino Zavascki, DJ de 22.10.2007.
+2. No caso, a autora ajuizou, em face do INSS, pedidos para concessão de benefícios previdenciários (e não de natureza acidentária). Nos termos como proposta, a causa é da competência da Justiça Federal.
+3. Conflito conhecido e declarada a competência da Justiça Federal, a suscitada.
+(CC 121.013/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, julgado em 28/03/2012, DJe 03/04/2012) (Grifos acrescidos).
+REVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. SEGURADO CONTRIBUINTE INDIVIDUAL. PEDIDO E CAUSA DE PEDIR. JUSTIÇA FEDERAL. COMPETÊNCIA.
+1. A competência ratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo questão  anterior a qualquer outro juízo sobre a causa.
+2. Hipótese de ação ajuizada perante a Justiça Federal por contribuinte individual que postula o restabelecimento de auxílio-doença ou a concessão de aposentadoria por invalidez, sem nenhuma referência a acidente de trabalho, o que desautoriza a tramitação da lide perante a Justiça estadual. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no CC 140.766/MG, de minha relatoria, PRIMEIRA SEÇÃO, julgado em 28/06/2017, DJe 06/09/2017)
+PREVIDENCIÁRIO. PETIÇÃO INICIAL. PEDIDO E CAUSA DE PEDIR. PLEITO DE APOSENTADORIA POR INVALIDEZ. AUSÊNCIA DE MENÇÃO A ACIDENTE DE TRABALHO. EXEGESE DO ART. 109, I, DA CONSTITUIÇÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A competência para julgar as demandas em que se pleiteia a concessão de benefício previdenciário deve ser determinada em razão do pedido e da causa de pedir.
+2. No caso concreto, não se extrai da petição inicial da subjacente ação qualquer alusão à ocorrência de acidente laboral que, enquanto causa de pedir, estivesse a respaldar o pedido de aposentadoria por invalidez formulado pelo segurado frente ao INSS, cujo contexto desautoriza a tramitação da lide perante a Justiça estadual.
+3. A teor do art. 109, I, da CF, compete à Justiça federal o julgamento das "causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;" 4. Agravo regimental a que se nega provimento.
+(AgRg no CC 144.267/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 25/02/2016, DJe 31/03/2016)
+No presente caso, como já referido, a recorrida aponta a existência de acidente de trabalho como causa de pedir do benefício pleiteado (e-STJ fl. 01), denotando que seu processamento circunscreve-se à Justiça Estadual, tal como disciplina a disposição legal tida por violada:
+Art. 129. Os litígios e medidas cautelares relativos a acidentes do trabalho serão apreciados:
+I - na esfera administrativa, pelos órgãos da Previdência Social, segundo as regras e prazos aplicáveis às demais prestações, com prioridade para conclusão; e
+II - na via judicial, pela Justiça dos Estados e do Distrito Federal, segundo o rito sumaríssimo, inclusive durante as férias forenses, mediante petição instruída pela prova de efetiva notificação do evento à Previdência Social, através de Comunicação de Acidente do Trabalho-CAT.
+Parágrafo único. O procedimento judicial de que trata o inciso II deste artigo é isento do pagamento de quaisquer custas e de verbas relativas à sucumbência. (Grifos acrescidos).
+Na esteira desse entendimento são os Enunciados das Súmulas 15 do STJ e 501 do STF, segundo os quais compete à Justiça Estadual processar e julgar os litígios decorrentes de acidente do trabalho. Confira-se:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. CONCESSÃO DE APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA, DECORRENTES DE ACIDENTE DE TRABALHO. SÚMULAS 15/STJ E 501/STF. TRABALHADOR AUTÔNOMO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. AGRAVO REGIMENTAL IMPROVIDO.
+I. Na linha dos precedentes desta Corte, "compete à Justiça comum dos Estados apreciar e julgar as ações acidentárias, que são aquelas propostas pelo segurado contra o Instituto Nacional do Seguro Social, visando ao benefício, aos serviços previdenciários e respectivas revisões correspondentes ao acidente do trabalho.
+Incidência da Súmula 501 do STF e da Súmula 15 do STJ" (STJ, AgRg no CC 122.703/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 05/06/2013)
+II. É da Justiça Estadual a competência para o julgamento de litígios decorrentes de acidente de trabalho (Súmulas 15/STJ e 501/STF).
+III. Já decidiu o STJ que "a questão referente à possibilidade de concessão de benefício acidentário a trabalhador autônomo se encerra na competência da Justiça Estadual" (STJ, CC 82.810/SP, Rel. Ministro HAMILTON CARVALHIDO, DJU de 08/05/2007). Em igual sentido: STJ, CC 86.794/DF, Rel. Ministro ARNALDO ESTEVES LIMA, TERCEIRA SEÇÃO, DJU de 01/02/2008.
+IV. Agravo Regimental improvido. (AgRg no CC 134.819/SP, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 23/09/2015, DJe 05/10/2015) (Grifos acrescidos).
+Ante o exposto, com base no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para declarar a competência do Tribunal de Justiça do Estado de Minas Gerais para apreciar a apelação como entender de direito.
+Publique-se e intimem-se.
