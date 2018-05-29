@@ -1,0 +1,17 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+EXIBIÇÃO DE DOCUMENTOS - TELEFONIA MÓVEL, NA MODALIDADE PRÉ-PAGA, QUE NÃO GERA INSTRUMENTO ESCRITO POR PARTE DE QUEM ADQUIRE O CHIP AS INFORMAÇÕES QUE A AUTORA PRETENDE TER ACESSO, DENTRE ELAS O HISTÓRICO DE LIGAÇÕES, PODEM SER OBTIDAS, FACILMENTE NO SITE DA PRESTADORA DE SERVIÇOS OU POR OUTROS MEIOS COLOCADOS À DISPOSIÇÃO DO CONSUMIDOR, TAIS COMO OS GUICHÊS DE ATENDIMENTO DAS OPERADORAS, O QUE TORNA A EXIBIÇÃO PREPARATÓRIA DESNECESSÁRIA AUSÊNCIA DE INTERESSE DE AGIR SENTENÇA PROCEDENTE - DADO PROVIMENTO AO RECURSO DA RÉ, PREJUDICADO O RECURSO DA AUTORA
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 381 e 396, do CPC de 2015.
+Alega, em síntese, que, como "a empresa recorrida encontra-se com a guarda dos documentos referentes às ligações e mensagens feitas e recebidas do celular adquirido pela recorrente, não os tendo exibido até o presente momento de forma amigável para os fins acima descritos em havendo suspeita de clonagem, faz-se necessária a presente medida cautelar, com a finalidade de que sejam exibidos os respectivos documentos".
+É o relatório. DECIDO.
+2. O Tribunal local, ao reconhecer a falta de interesse de agir da parte agravante, assim consignou:
+Trata-se de pedido de exibição de contrato de prestação de serviços de telefonia celular havido entre as partes, e em especial informações, extratos e comprovantes atinentes a todas as mensagens e imagens enviadas e recebidas nos dias 6 e 7 de abril de 2013, assim como todas as ligações realizadas e recebidas nas referidas datas, fls. 3.
+É de conhecimento público e notório que a aquisição de telefonia móvel, na modalidade pré-paga, é feita mediante a compra de chip em qualquer um dos pontos de venda da operadora, sem que o consumidor assine contrato para tanto. Ou seja, não existe um documento assinado entre as partes para ser exibido.
+E mais. As informações que a parte pretende ter acesso, dentre elas os termos do contrato de adesão e o histórico de ligações, podem ser obtidas, facilmente no site da prestadora de serviços ou por outros meios colocados à disposição do consumidor, tais como os guichês de atendimento das operadoras, o que torna a exibição preparatória desnecessária.
+ .. .
+De rigor, a extinção do processo, sem resolução de mérito, por falta de interesse de agir.
+Com efeito, nota-se que o acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e a ora recorrente não cuidou de impugnar todos eles, como seria de rigor.
+Assim, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. Ainda que assim não fosse, o acolhimento da pretensão recursal, a fim de verificar o interesse de agir da ora agravante, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
