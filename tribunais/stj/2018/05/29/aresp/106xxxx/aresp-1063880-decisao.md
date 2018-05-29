@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por CREMER S.A. contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL. AÇÃO DE CONHECIMENTO. EMENDA A INICIAL. AGRAVO RETIDO. NÃO CONHECIMENTO. APELAÇÃO. COBRANÇA. CONTRATO ADMINISTRATIVO. TERMO INICIAL DOS JUROS DE MORA. SUCUMBÊNCIA.
+I. O ato judicial que ordena a emenda a inicial, para retificar o polo passivo da demanda, constitui despacho de mero expediente, que não causa qualquer lesividade a parte, não sendo, portanto, recorrível, conforme art. 504 do CPC.
+II. Alcançado o termo fixado no contrato administrativo sem o pagamento da dívida pelo ente federativo, devem incidir os juros de mora, pois, tratando-se de obrigação positiva, certa e líquida, o inadimplemento constitui de pleno direito em mora o devedor, a teor do art. 397, caput, do Código Civil.
+III. Decaindo a autora tão somente quanto aos consectários legais do pedido condenatório, deve o réu arcar com a integralidade dos ônus da sucumbência, nos termos do parágrafo único do art. 21 do CPC.
+IV. Deu-se provimento ao recurso e negou-se provimento à remessa oficial."
+Embargos de declaração parcialmente providos para corrigir erro material (e-STJ fls. 386/394).
+No especial obstaculizado, o ora agravante apontou violação do art. 20, § 3º e § 4º, do CPC/1973, sustentando, em síntese, que a verba honorária foi fixada em montante irrisório (R$ 700,00 - setecentos reais), inferior a 1% do valor da condenação (e-STJ fls. 411/422).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, o que desafiou a interposição do presente agravo (e-STJ fls. 452/472)..
+Contraminuta às e-STJ fls. 465/469.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+A orientação da Primeira Seção deste Tribunal Superior, firmada em sede de recursos repetitivos, "vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade" (REsp 1155125/MG, Rel. Ministro CASTRO MEIRA, PRIMEIRA SEÇÃO, julgado em 10/03/2010, DJe 06/04/2010).
+Cumpre registrar, ainda, que em regra, na instância especial, não é viável a revisão do juízo de equidade que foi realizado pelo magistrado para fixar o valor da verba honorária, nos termos do art. 20, § 4º, do Código de Processo Civil, porquanto esse mister, além de exigir o reexame do histórico processual, notadamente para mensurar o trabalho realizado pelo advogado, não guarda relação direta com a legalidade da decisão atacada, mas sim com a percepção do julgador, que é de cunho estritamente subjetivo.
+Excepcionalmente, todavia, esta Corte Superior admite o apelo especial para reapreciar honorários advocatícios quando arbitrados em valor irrisório ou exorbitante, pois, nesses casos, a violação à aludida norma processual exsurge de maneira flagrante, a justificar a intervenção deste Sodalício como meio de preservar a aplicação da lei federal de regência.
+Na hipótese, o acórdão recorrido condenou a parte agravada no pagamento da integralidade dos honorários, fixando-os, na fundamentação, em 10% do valor da condenação, com fundamento no art. 20, § 3º, do CPC/1973, e, na parte dispositiva, arbitrou a verba em R$ 700,00 (setecentos reais), a teor do § 4º do mesmo dispositivo (e-STJ fl. 367).
+Opostos embargos de declaração, o aresto integrativo reconheceu a existência de erro material, nos seguintes termos (e-STJ fl. 393):
+"De fato, constou equivocadamente na fundamentação do voto condutor a fixação dos honorários em 10% sobre o valor da condenação, com fulcro no art. 20, § 3º, do CPC/73.
+No entanto, tratando-se de causa em que vencida a Fazenda Pública, os honorários advocatícios são fixados na forma preconizada no § 4º do art. 20 do CPC, consoante apreciação equitativa do juiz, atendidas as normas do § 3º do mesmo artigo, sem, contudo, limitar sua fixação aos parâmetros deste.
+Por essa razão, os honorários advocatícios foram fixados em R$ 700,00."
+Observa-se que o Tribunal a quo não delineou concretamente as circunstâncias do § 3º do art. 20 do CPC/1973, de modo a permitir a essa Corte Superior o afastamento da Súmula 7 do STJ para proceder à revaloração do juízo de equidade.
+Sendo assim, forçosa a aplicação, na espécie, do referido óbice sumular.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Nos termos do art. 85, § 11, do CPC/2015, estabeleço os honorários recursais sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
