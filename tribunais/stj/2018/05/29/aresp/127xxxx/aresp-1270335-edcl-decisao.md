@@ -1,0 +1,46 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos por JOFA COMERCIO E LOCACAO DE CACAMBAS E EQUIPAMENTOS PARA CONSTRUCAO LTDA - ME contra decisão de minha lavra (fls. 904/906), que negou provimento ao recurso especial ante a aplicação da Súmula n. 7/STJ.
+Nas razões recursais (fls. 910/913), a parte embargante alega, em síntese, que haveria omissão na decisão embargada "quanto a afirmação da embargante da desnecessidade de apreciar provas, para a apreciação do pedido contido no REsp que originou o presente Agravo em Recurso Especial".
+Requer o acolhimento dos embargos declaratórios, a fim de sanar a alegada omissão.
+É o relatório. DECIDO.
+2. Segundo o art. 1.022, caput e incisos, do Novo CPC, são cabíveis os embargos de declaração quando a decisão judicial se revelar omissa, obscura ou contraditória, assim como para correção de erro material.
+Da doutrina processualista, extrai-se que a obscuridade consiste na falta de clareza da decisão impugnada, sendo que, diante da função precípua do pronunciamento judicial de emprestar certeza às relações litigiosas que calham às suas portas, não se admitem decisões judiciais não-unívocas.
+Por outro lado, verifica-se a contradição quando no acórdão se incluem proposições entre si inconciliáveis. Nos termos do magistério de Barbosa Moreira:
+Pode haver contradição entre proposições contidas na motivação (exemplo: a mesma prova ora é dita convincente, ora inconvincente), ou entre proposições da parte decisória, isto é, incompatibilidade entre capítulos do acórdão: v.g. anula-se, por vício insanável, quando logicamente se deveria determinar a restituição ao órgão inferior, para sentenciar de novo; ou declara-se inexistente a relação jurídica prejudicial (deduzida em reconvenção ou em ação declaratória incidental), mas condena-se o réu a cumprir a obrigação que dela necessariamente dependia; e assim por diante. Também pode ocorrer contradição entre alguma proposição enunciada nas razões de decidir e o dispositivo: por exemplo, se na motivação se reconhece como fundada alguma defesa bastante para tolher a pretensão do autor, e no entanto se julga procedente o pedido.
+(Comentários ao Código de Processo Civil. v. 5. Rio de Janeiro: Forense, 2008, pp. 556-557)
+Por sua vez, "o erro material é aquele evidente, decorrente de simples erro aritmético ou fruto de inexatidão material, e não erro relativo a critérios ou elementos de julgamento" (EDcl no AgRg no REsp 1234057/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 28/06/2011, DJe 01/07/2011.
+De resto, nos termos do art. 1.022, II, do Novo CPC "omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento".
+Nenhum desses vícios se faz presente na decisão ora embargada.
+3. Na espécie, consta da decisão ora embargada o seguinte:
+2. Com efeito, o acórdão recorrido, ao entender caracterizada a culpa e a consequente responsabilidade da ora agravante pelo evento danoso, afastando a alegada culpa concorrente, incursionou detalhadamente na apreciação do conjunto fático-probatório. É o que se extrai de excerto do acórdão recorrido, no que interessa à espécie:
+Pois bem. Conforme se extrai dos autos, em especial do boletim de ocorrência (fl. 59), a motocicleta que transportava as vítimas trafegava na via principal quando foi atingida pelo veículo da apelante.
+Corroborando com a situação descrita no boletim de ocorrência, adveio a prova testemunhal produzida nos autos que apontou a ocorrência do sinistro em razão da imprudência do condutor do veículo de propriedade da ré.
+Vê-se que na tentativa de configurar a culpa concorrente das vítimas, a apelante transcreve trechos de depoimentos de duas testemunhas que fazem crer que o acidente ocorreu em razão do excesso de velocidade desenvolvida pelas vitimas que vieram a colidir com o veiculo da ré.
+Entretanto, os trechos citados e a dinâmica do acidente, sem dúvida, não atribuem às vitimas culpa concorrente pelo sinistro. A prova dos autos é segura no sentido de que o acidente ocorreu pelo fato do condutor do caminhão da apelante, não ter respeitado a preferencial da Av. João XXIII, quando intentava fazer o cruzamento desta via, obstruindo a trajetória da motocicleta das apeladas que por ela seguiam, conforme descrito no boletim de ocorrência e confirmado pelos depoimentos das testemunhas.
+Não há qualquer entrave, restando incontroverso que o veículo da recorrente cruzou a via preferencial, que por si só implica em negligencia e culpa.
+Ademais, a conduta do apelante na direção do veículo infringe diretamente o disposto no art. 44 do Código de Trânsito Nacional:
+ .. .
+A alegação de inobservância da lei de trânsito pela condutora da motocicleta, sob o enfoque que transitava em velocidade acima do permitido, não possui o condão de extirpar a responsabilidade da ré, mormente por não ter sido a causa determinante da ocorrência do sinistro.
+Ora, a conduta das apeladas não preponderaria em grau de culpabilidade sobre a conduta imprudente da apelante, o qual deveria ter se acurado antes de efetuar o cruzamento de uma avenida.
+Neste sentido:
+ .. .
+Assim, é inconteste a responsabilidade da apelante frente aos danos sofridos pelas apeladas, as lesões resultantes do acidente geram nas vítimas sofrimento e abalo moral que fogem a normalidade, configurando dano passível de indenização.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de reconhecer a alegada culpa concorrente, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO CAUSADO POR AUTOMÓVEL QUE INVADIU REPENTINAMENTE A PREFERENCIAL. MOTOCICLISTA ATINGIDO QUE SOFREU AMPUTAÇÃO DA PERNA DIREITA. CULPA EXCLUSIVA E CONCORRENTE DA VÍTIMA.
+NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. PENSÃO VITALÍCIA. AFERIÇÃO DO PERCENTUAL DE REDUÇÃO PERMANENTE. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não configura ofensa ao art. 535 do Código de Processo Civil de 1973 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte recorrente, suficiente para decidir integralmente a controvérsia.
+2. O acórdão recorrido afastou a ocorrência de culpa concorrente ou exclusiva da vítima, observando que a causa preponderante do acidente foi praticada pelo condutor do automóvel que, de forma imprudente, invadiu repentinamente a preferencial, sem observar o trânsito da via, e obstruiu a passagem do motociclista, autor da ação indenizatória.
+3. A reforma do julgado, quanto à responsabilidade pelo acidente, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada no recurso especial, nos termos da Súmula 7 do STJ.
+4. A vítima do evento danoso, que sofre redução parcial e permanente da sua capacidade laborativa, tem direito ao pensionamento vitalício previsto no artigo 950 do Código Civil, independentemente da existência de capacidade para o exercício de outras atividades, em razão do maior sacrifício para a realização do serviço. Precedentes.
+5. Para rever o percentual de redução permanente da capacidade laborativa e reavaliar o valor da pensão fixada no primeiro grau, seria necessário o reexame de fatos e provas, o que é inviável no recurso especial, a teor da Súmula 7 do STJ.
+6. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 239.129/PR, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 19/10/2017, DJe 26/10/2017)
+Por fim, impõe-se anotar que a incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional. Nesse sentido: REsp 1.086.048/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 21/06/2011, DJe de 13/09/2011; EDcl no Ag 984.901/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/03/2010, DJe de 05/04/2010; AgRg no REsp 1.030.586/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 30/05/2008, DJe de 23/06/2008.
+3. Ante o exposto, nego provimento ao agravo.
+Com efeito, nota-se que, no presente caso, não há omissão a ser sanada, de modo que todos os pontos necessários ao desate da controvérsia foram abordados, de forma coerente e lógica.
+Observa-se que não é omissa a decisão que, embora com fundamentação contrária ao interesse da parte, desata a questão jurídica posta em juízo.
+A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos de declaração.
+Desse modo, ressalta-se que os restritos limites dos embargos de declaração não permitem rejulgamento da causa, como pretende a parte embargante, sendo certo que o efeito modificativo pretendido somente é possível em casos excepcionais e uma vez comprovada a obscuridade, contradição, omissão ou erro material do julgado, o que não se aplica ao caso concreto pelas razões acima delineadas.
+4. Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
