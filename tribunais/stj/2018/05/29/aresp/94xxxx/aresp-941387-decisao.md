@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo manejado por NUCAS - NÚCLEO DE SAÚDE AÇÃO SOCIAL SALUTE SOCIAL contra decisão que negou seguimento a recurso especial interposto com apoio nas alíneas "a" e "c" do permissivo constitucional contra acórdão assim ementado:
+AGRAVO LEGAL NO RECURSO DE AGRAVO DE INSTRUMENTO. AGRAVO DE INSTRUMENTO. DECISÃO QUE DEFERIU A PRODUÇÃO DA PROVA DOCUMENTAL E INDEFERIU O PEDIDO DE PRODUÇÃO DE PROVA ORAL. MANUTENÇÃO. IDONEIDADE DA AGRAVANTE QUE PODE SER, SUFICIENTEMENTE, COMPROVADA POR MEIO DE PROVA DOCUMENTAL. JUIZ QUE É O DESTINATÁRIO DA PROVA. INTELIGÊNCIA DO ARTIGO 130 DO CPC. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. RECURSO CONHECIDO E DESPROVIDO. ARTIGO 557, CAPUT, DO CÓDIGO DE PROCESSO CIVIL.
+AGRAVO LEGAL CONHECIDO E NÃO PROVIDO
+Embargos de declaração rejeitados (e-STJ fls. 72/76).
+No especial obstaculizado, a ora agravante, além do dissídio, alegou violação dos arts. 131, 400 e 535 do CPC/1973; 5º, LIV e LV, e 93, IV, da CF/1988.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao argumento de que não houve negativa de prestação jurisdicional; a reforma do acórdão implica o reexame de fatos e provas dos autos (Súmula 7 do STJ); não demonstração do dissídio.
+Contraminuta.
+Parecer ministerial pelo desprovimento do recurso (e-STJ fls. 359/362).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Isso considerado, impõe-se afastar, desde logo, a indigitada ofensa ao art. 535 do CPC/1973, visto que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, qualquer contrariedade à norma invocada.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Sobre a hipótese: AgRg no AREsp 750650 / RJ, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 30/9/2015 e AgRg no AREsp 493652/RJ, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 20/6/2014.
+No que toca à alegada violação ao art. 400 do CPC/1973, verifico que o apelo nobre não comporta conhecimento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.".
+Note-se que a tese veiculada no recurso especial quanto a tal ponto nem sequer foi objeto do agravo de instrumento interposto pela ora agravante, constituindo inovação recursal, sendo insuscetível de conhecimento nesta via recursal.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. INCIDÊNCIA DO IPI SOBRE IMPORTAÇÃO. EQUIPAMENTO MÉDICO. ESTABELECIMENTO IMPORTADOR NÃO INDUSTRIAL. POSSIBILIDADE. PIS E COFINS-IMPORTAÇÃO. ENTRADA DE BENS ESTRANGEIROS SOB O REGIME DE LEASING. ALÍQUOTA ZERO. LEI 10.865/2004. INCIDÊNCIA. VIOLAÇÃO AOS ARTS. 98 E 100 DO CTN. INOVAÇÃO RECURSAL.
+1.  ..
+4. No tocante à alegada violação dos arts. 98 e 100 do CTN, sob o argumento da ilegalidade de base de cálculo do PIS/PASEP-Importação e da COFINS-Importação, não se pode conhecer da irresignação, pois tal tese não foi levantada perante o Tribunal de origem, caracterizando-se, portanto, indevida inovação recursal em Recurso Especial. Não cabe ao Superior Tribunal de Justiça manifestar-se sobre matéria não apreciada pela instância ordinária, já que nem sequer fora objeto das razões de Apelação ou dos Embargos de Declaração.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1661888/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/05/2017, DJe 19/06/2017)
+No tocante aos dispositivos da Constituição Federal, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+Quanto ao suposto cerceamento de defesa, de acordo com a reiterada jurisprudência desta Corte, o Código de Processo Civil/1973 confere ao magistrado a prerrogativa de deferir ou indeferir a produção de prova, seja ela pericial, testemunhal ou documental, à luz do princípio do livre convencimento, bastando que exponha, fundamentadamente, os motivos de sua decisão.
+A propósito, destaco precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCEDIMENTO CIRÚRGICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVA. ACÓRDÃO APOIADO EM MATÉRIA FÁTICO-PROBATÓRIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Consoante a jurisprudência consagrada nesta Corte, é facultado ao julgador o indeferimento de produção probatória que julgar desnecessária para o regular trâmite do processo, sob o pálio da prerrogativa do livre convencimento que lhe é conferida pelo art. 130 do CPC, seja ela testemunhal, pericial ou documental, cabendo-lhe, apenas, expor fundamentadamente o motivo de sua decisão.
+3. A alteração das conclusões adotadas pela Corte de origem, tal como colocada nas presentes razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 795.139/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 28/03/2016).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO ACIDENTE. CERCEAMENTO DE DEFESA PELO INDEFERIMENTO DE PRODUÇÃO PROBATÓRIA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. REQUISITOS DO BENEFÍCIO. AUSÊNCIA DE NEXO CAUSAL E REDUÇÃO DA CAPACIDADE LABORAL. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com o princípio do livre convencimento motivado, cumpre ao magistrado valorar a necessidade da produção probatória, não havendo cerceamento de defesa quando, em decisão adequadamente fundamentada, o julgador indefere a produção de provas, seja ela testemunhal, pericial ou documental.
+2. (..)
+3. Agravo regimental não provido.
+(AgRg no AREsp 827.092/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 08/03/2016).
+Nesse mesmo sentido: AgRg no AREsp 711.839/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 29/03/2016; AgRg no AREsp 828.450/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 08/03/2016; AgRg no AREsp 497.404/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 05/02/2016; AgRg no Ag 1.381.319/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 04/11/2015.
+Na espécie, ao indeferir a prova pretendida pela recorrente, a Corte de origem assim consignou (e-STJ fl. 47):
+Do que consta dos autos, verifica-se que entendeu o Magistrado que, à luz dos fatos deduzidos na inicial, seria necessária tão somente a produção da prova documental.
+E, realmente. Da narrativa exposta no recurso, extrai-se que os argumentos lançados pelo Agravante podem ser, suficientemente, comprovados através de documentos, posto que sua idoneidade não carece da oitiva de testemunhas para ser aferida.
+Ademais, a prova produzida nos autos pertence ao Juízo, e, sendo o destinatário da prova, a ele caberá indeferir aquelas que se mostrem inúteis e desnecessárias para a correta instrução do processo, e formação do seu livre convencimento motivado, nos termos do artigo 130 do Código de Processo Civil.
+Portanto, diante desse panorama, verifica-se que dissentir da conclusão adotada pelo acórdão recorrido, de modo a se aferir a necessidade da produção da prova oral, implica inevitável revolver de aspectos fático-probatórios, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nessa linha de raciocínio:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. AÇÃO POPULAR. ILUMINAÇÃO PÚBLICA. ESTIMATIVA. NECESSIDADE DE PROVA PERICIAL. OCORRÊNCIA DE CERCEAMENTO DE DEFESA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem, soberano na análise das circunstâncias fático-probatórias da causa, entendeu que houve cerceamento de defesa ante a falta de produção de prova pericial necessária ao deslinde da controvérsia. Rever a necessidade ou não de produção de prova pericial, para fins de formação da convicção do juiz, requer indispensável reapreciação do conjunto probatório existente no processo, o que é vedado por óbice da Súmula 7/STJ.
+2. Agravo regimental não provido.
+(AgRg no AREsp 379.264/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 11/11/2013).
+Por fim, "este Tribunal tem entendimento no sentido de que a incidência do enunciado n. 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (AgInt no AREsp 398.256/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/03/2017).
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para CONHECER parcialmente do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
