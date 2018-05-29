@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DOUGLAS PEREIRA FREITAS, em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO que negou provimento ao Agravo em Execução.
+Consta dos autos que o paciente cumpria pena em regime aberto quando sobreveio unificação de penas em face de nova condenação por fato anterior, tendo sido regredido ao regime fechado.
+Alega a impetrante, em síntese, constrangimento ilegal pela não aplicação do entendimento atual desta Corte sobre a data para contagem de novos benefícios, argumentando que se não há norma expressa regulamentando o modo de se estabelecer o critério para o reinício de contagem do prazo de progressão de regime e, havendo mais de uma maneira a se fazê-lo, há de se decidir de acordo com o princípio do in dubio pro reo, escolhendo-se o método que, dentre os possíveis, melhor beneficie o reeducando (fl. 7).
+Requer, por isso, seja considerada a ultima prisão como a data-base para futuros benefícios ao paciente.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela concessão da ordem.
+É o relatório.
+DECIDO.
+Cinge-se a controvérsia acerca da fixação da data-base para concessão de benefícios executórios quando unificadas as penas em razão de nova condenação no curso da execução.
+O MM. Magistrado primevo fixou a data do trânsito em julgado da nova condenação para fins de aquisição de benefícios futuros (fls. 34/35).
+Contra essa decisão, a Defesa interpôs agravo em execução, que foi improvido aos seguintes fundamentos (fls. 74/75):
+Segundo as peças informativas, o paciente cumpria pena de 05(cinco) anos de reclusão e 01(um) ano de detenção em função da Guia de Execução (GE) nº 166205. Ocorre que, no decorrer do cumprimento da referida reprimenda, nova condenação adveio por meio da Guia nº 178544 à pena de 08(oito) anos de reclusão.
+Assim, na forma dos artigos 111, § único e 118, II da Lei nº. 7.210/84, a MMa. Magistrada a quo procedeu, acertadamente, à unificação das penas do agravante somando a nova condenação ao tempo restante das anteriores e, após realizar a detração, totalizou a pena final em 09(nove) anos, 09(nove) meses e 15(quinze) dias de reclusão, além de 01(um) ano de detenção por ainda cumprir, fixando o marco interruptivo na data da última sentença condenatória.
+Com efeito, tal posição está em plena consonância com a jurisprudência pacífica das Cortes Superiores, que estabelece que o marco inicial, para fins de benefícios penais, pela unificação das penas, tendo em vista a superveniência de nova condenação definitiva, é o trânsito em julgado da última condenação, inexistindo qualquer ressalva, sequer, quanto aos benefícios do livramento condicional, do indulto ou da comutação de penas.
+Nesse sentido: ..
+A questão foi objeto, inclusive, de Informativo de Jurisprudência do STJ (Informativo n. 492 de 27/2/2012), in verbis:  ..
+Forte nesses fundamentos, e com base no parecer da Douta Procuradoria, NEGO PROVIMENTO ao recurso.
+É como voto.
+A questão ora debatida foi submetida a julgamento pela Terceira Seção, no REsp 1.557.461/SC, de relatoria do Ministro Rogerio Schietti Cruz, na Sessão de 22/2/2018, oportunidade em que se firmou a orientação de que a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem, adotando-se, assim, como data-base para aquisição de futuros benefícios, a data da prisão ou da última infração disciplinar, nos termos da seguinte ementa:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido. (REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/02/2018, DJe 15/3/2018).
+Ante o exposto, concedo o habeas corpus a fim de que seja considerada a data da prisão, única ou última, como data-base para concessão de novos benefícios.
+Comunique-se.
+Publique-se.
+Intimem-se.
