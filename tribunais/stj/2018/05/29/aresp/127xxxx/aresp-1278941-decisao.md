@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por SOCIEDADE CONSTRUTORA ALL MART LTDA. contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado no art. 105, III, alínea "a" da Constituição Federal. Desafia acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. ó PENHORA DE BENS PERTENCENTES A PESSOA JURÍDICA DIVERSA DA EXECUTADA. JULGAMENTO ANTECIPADO DA LIDE. SENTENÇA FUNDAMENTADA NA PROVA DOCUMENTAL ACOSTADA AOS AUTOS. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. ARTS. 130 E 131 DO CÓDIGO DE PROCESSO CIVIL. CERCEAMENTO DE DEFESA INOCORRENTE. MÉRITO. NÍTIDA CONFUSÃO PATRIMONIAL E SOCIETÁRIA ENTRE A EXECUTADA E A EMBARGANTE. EMPRESAS FORMALMENTE AUTÔNOMAS, MAS, INTEGRANTES DE UM MESMO GRUPO ECONÔMICO. APLICAÇÃO TEORIA DA APARÊNCIA. PENHORA EFICAZ. SENTENÇA MANTIDA. g RECURSO CONHECIDO E DESPROVIDO" (fl. 536 e-STJ)
+Os embargos de declaração interpostos foram rejeitados (fls. 569/577 e-STJ).
+Nas razões do especial (fls. 580/605 e-STJ), a parte recorrente aponta negativa de vigência dos seguintes dispositivos e suas respectivas teses:
+(i) art. 1022 do Código de Processo Civil de 2015 - porque teria havido negativa de prestação jurisdicional ao deixar o Tribunal de origem de se manifestar acerca de aspectos relevantes da demanda suscitados em embargos de declaração;
+(ii) arts. 130, 131, 330 e 332 do CPC/1973 (arts. 370, 371, 355 e 369 respectivamente do CPC/2015) - houve cerceamento de defesa, pois era imprescindível que fosse deferida prova pericial e testemunhal para comprovar que não havia confusão patrimonial entre as empresas;
+(iii) arts. 14, II, 17, II, IV, V e VI, e 18 do CPC/1973 (arts. 80 e 81 do CPC/2015). - a manutenção das multas aplicadas não foi fundamentada,e
+(iv) arts. 568, 593, II, do CPC/1973 (arts. 779, I, 792, IV, do CPC/2015) e 50 do Código Civil - a parte recorrente não foi demandada na ação de conhecimento, não pode responder por uma condenação que não lhe atingiu.
+Oferecidas as contrarrazões, o recurso não foi admitido na origem, daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+ Inicialmente, ressalta-se que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De início, registra-se que a negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o Tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Não é o caso dos autos.
+Com efeito, as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Impende asseverar que cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, não há falar em deficiência de fundamentação da decisão o não acolhimento de teses ventiladas pelos recorrentes, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AOS ARTS. 165, 458 E 535 DO CPC. INEXISTÊNCIA. ARGUMENTOS DO RECURSO ESPECIAL CUJA ANÁLISE DEPENDE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+1. Não há ofensa aos arts. 165, 458, 515 e 535 do CPC se o tribunal de origem se pronuncia fundamentadamente sobre as questões postas a exame, dando suficiente solução à lide, sem incorrer em qualquer vício capaz de maculá-lo.
+2. Com base nos elementos circunstanciais da demanda, a corte local entendeu que os devedores não têm direito ao alongamento da dívida em decorrência de ação dolosa, o que, para ser desconstituído, impõe reexame de matéria fático-probatória da lide, vedado nesta sede (Súmula 7 do STJ). Precedente.
+3. Agravo regimental a que se nega provimento" (AgRg no Ag 930.113/MG, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 6/10/2011, DJe 13/10/2011).
+Além disso, na hipótese, constata-se que as conclusões do aresto atacado resultaram da estrita análise das provas carreadas aos autos e das circunstâncias fáticas que permearam a demanda.
+É o que se extrai da leitura do voto condutor do julgado ora hostilizado, merecendo destaque o seguinte trecho de sua fundamentação:
+"(..) Num primeiro momento, importa descartar que não configura cerceamento de defesa o julgamento antecipado da lide, quando o Juiz reputar º desnecessária a dilação e entender suficientes, para a solução da quaestio, os a elementos indutivos já produzidos na fase postulatória.
+Isto porque o magistrado é o destinatário das provas (art. 130 do z Código de Processo Civil) e, à luz do princípio do livre convencimento motivado (art. 131 do CPC), constatada a desnecessidade de dilação probatória, nasce o cc poder -dever de proceder ao julgamento da ação.
+A par disso, dispõe o art. 330, inc. I, do Código de Processo Civil o que "o juiz conhecerá diretamente do pedido, proferindo sentença, quando a questão for unicamente de direito, ou, sendo de direito e de fato, não houver º necessidade de produzir prova em audiência".
+Dito isso, a defesa alega, em síntese, que a recorrente/embargante não pode responder com o seu patrimônio pelo crédito exigido no processo de º execução em apenso (autos n. 039.99.002544-4), movido pelos recorridos/embargados contra All Martt Assessoria Imobiliária Ltda. - atual All º Martt Investimentos e Administração e Participações Ltda. -, ao argumento de " que não integrou a relação processual em questão, e mais, que por se tratarem de pessoas jurídicas distintas, não integrantes de um mesmo grupo econômico, não há falar em confusão patrimonial.
+Com efeito, da documentação juntada aos autos evidencia-se que a apelante não integrou a relação contratual que deu origem ao processo executivo em questão, sendo a prefalada execução movida contra a empresa All Martt Assessoria Imobiliária Ltda.
+Todavia, apesar de a apelante - Sociedade Construtora All Martt Ltda. -, e a executada - All Martt Assessoria Imobiliária Ltda., atual All Martt Investimentos Administração e Participações Ltda. -, possuírem inscrições diferentes no Cadastro Nacional de Pessoa Jurídica, vislumbro que esta distinção é meramente formal, consistindo, em verdade, a apelante e a executada d"uma única empresa de fato.
+Vejamos. Da documentação acostada aos autos, depreende-se que a executada e a embargante possuem: a) a mesma sede, com endereço na av. Brasil, 1485, apto. 303. Ed. Liberty, Centro, Balneário Camboriú, SC, [CEP]; b) o mesmo quadro societário - este composto pelos sócios [NOME] e [NOME]; e, c) o mesmo sócio administrador, na re figura de [NOME].
+Além disso, exploram atividades afins. A empresa Sociedade Construtora All Martt Ltda., tem como objeto social:
+"a construção de edificações residenciais, industriais e de serviços; incorporação imobiliária; comércio varejista de materiais de construção; participar de outras empresas como meio de realizar seu objetivo social ou para m beneficiar-se de incentivos fiscais; empreiteira de mão de obra; serviço de y estacionamento de veículos" (fl. 277).
+Já a empresa executada All Martt Assessoria Imobiliária Ltda., atual All Martt Investimentos Administração e Participações Ltda., presta "serviços de incorporação, vendas, loteamento, administração de condomínios e imóveis em geral; serviços de comunicação, telefonia, publicidade, propaganda, hotelaria" (fl.308).
+Não bastasse isso, a própria apelante reconhece que as empresas possuem o mesmo nome fantasia "All Martt", denominação que, como bem cbservou o Juízo sentenciante, "representa as iniciais do nome do sócio majoritário [NOME], conforme indicado corretamente pelos ó embargados, e a sucessiva alteração do quadro de sócios não esconde, todavia, que o sócio majoritário não se desvinculou da sociedade executada" (fl. 241).
+Este cenário, por si só, sob o enfoque da Teoria da Aparência, é suficiente para caracterizar a confusão patrimonial entre as duas sociedades empresariais, legitimando, portanto, a responsabilização patrimonial da apelante co pelo crédito exequendo.
+(..)
+Assim, demonstrada a confusão societária e patrimonial entre as empresa Sociedade Construtora All Martt Ltda. e All Martt Assessoria Imobiliária Ltda. - atual All Martt Investimentos Administração e Participações Ltda. -, cabível se afigura a responsabilização da recorrente pelo crédito exequendo, o que derrui a tese de ineficácia da penhora" (fls. 543/545 e-STJ).
+Assim como posta a matéria, a verificação da procedência dos argumentos expendidos no recurso exigiria o reexame de matéria fática, o que é vedado pela Súmula nº 7/STJ, consoante iterativa jurisprudência desta Corte.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em R$ 1.200,00 (hum mil e duzentos reais) os quais devem ser majorados em 5% (cinco por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observada a assistência judiciária, se for o caso.
+Publique-se.
+Intimem-se.
