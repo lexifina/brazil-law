@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DA IPATINGA, fundado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão assim ementado (e-STJ fl. 237):
+AGRAVO. DECISÃO UNIPESSOAL LASTREADA NO ART. 557 DO CPC E NA SÚMULA Nº 253/STJ. IPATINGA. IPTU. PROGRESSIVIDADE. INCONSTITUCIONALIDADE. AFRONTA À SÚMULA Nº 668/STF. JURISPRUDÊNCIA DOMINANTE EFETIVAMENTE EXISTENTE. DECISÃO MONOCRÁTICA MANTIDA. RECURSO DESPROVIDO. I - Irretocável a decisão monocrática do relator que, com fulcro no disposto no art. 557, "caput", do CPC e na Súmula n.º 253 do STJ, nega seguimento à apelação cujas razões estão em manifesto confronto com a jurisprudência dominante no Tribunal e com a Súmula 668 do STF. II - A exigência para que o relator monocraticamente negue seguimento a recurso é de que a jurisprudência seja dominante, sendo, pois, irrelevante se pacífica ou uníssona.
+Rejeitados os aclaratórios, com imposição de multa (e-STJ fls. 250/256).
+Nas suas razões (e-STJ fls. 259/270), o recorrente, apontando divergência jurisprudencial e violação dos arts. 535 e 538, parágrafo único, do CPC/1973, sustenta que os embargos de declaração por ele aviados tinham por escopo o prequestionamento de matéria constitucional, nos termos da Súmula 98 do STJ, motivo pelo qual pugna pelo afastamento da multa processual aplicada.
+Sem contrarrazões (e-STJ fl. 299).
+Decisão a quo de admissão do recurso especial às e-STJ fls. 301/304.
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Isso considerado, tenho que assiste razão ao recorrente, pois, independentemente da procedência dos argumentos neles ventilados, os embargos declaratórios opostos na origem tinham mesmo o intuito de prequestionamento dos arts. 145, 150, III, e § 1º, 156, II, o que atrai a aplicação, na espécie, do entendimento sedimentado na Súmula 98 do STJ.
+Ante o exposto, com fundamento no art. 254, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para afastar a multa processual aplicada com fulcro no art. 538, parágrafo único, do CPC/1973.
+Publique-se. Intimem-se.
