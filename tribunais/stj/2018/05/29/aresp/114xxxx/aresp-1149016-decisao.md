@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. INCIDÊNCIA DAS SUMULAS NºS 126 DO STJ E 283 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo manjado pela FAZENDA NACIONAL contra decisão que negou admissibilidade ao recurso especial em razão da ausência de prequestionamento dos dispositivos legais tidos por violados, nos termos da Súmula nº 282 do STF.
+A agravante insurge-se contra a decisão agravada alegando a desnecessidade de menção expressa dos dispositivo legais para fins de prequestionamento, eis que a matéria teria sido objeto de exame pelo acórdão recorrido, o que afastaria a incidência da referida Súmula.
+Requer o conhecimento e o provimento do agravo para que seja analisado o recurso especial.
+Contrarrazões às fls. 263-267 e-STJ.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou adequadamente os fundamentos da decisão agravada, razão pela qual conheço do agravo e passo ao exame do recurso especial.
+A recorrente alegou ofensa aos arts. 6º e 267, VI, do CPC/1973, correspondentes aos arts. 18 e 330, II, do CPC/2015 e sustentou a ilegitimidade ativa do autor para, em nome próprio, pleitear direito da empresa da qual fora sócio, e que as alegações atinentes à ação penal devem ser objeto de dilação probatória no juízo competente.
+O acórdão recorrido reconheceu a legitimidade do autor na hipótese sob os seguintes fundamentos:
+"Mesmo tendo o título executivo sido constituído contra a empresa Laticínios Campo Verde Ltda, faz-se necessário a observância do direito de defesa do autor (art. 5º, LV, CF) e do princípio da razoabilidade, sob pena de se transformar em verdadeira afronta à dignidade da pessoa humana, não proporcionar ao recorrente a possibilidade de se defender judicialmente, apresentando suas alegações para fundamentar a nulidade do procedimento administrativo fiscal, através do qual vem respondendo processo criminal, o que lhe trouxe prejuízos de forma direta".
+Da análise das razões recursais, verifica-se que a recorrente não impugnou os fundamentos do acórdão recorrido relativos aos princípios da razoabilidade, dignidade da pessoa humana e direito de defesa previsto no art. 5º, LV, da Constituição Federal, o que impede o conhecimento do recurso especial, haja vista a incidência das Súmulas nº 126 do STF e 283 do STF, respectivamente, in verbis: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles sufi ciente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário" e "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
