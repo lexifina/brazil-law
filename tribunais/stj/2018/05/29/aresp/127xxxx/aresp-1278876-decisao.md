@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CONTRATO ENTRE ADVOGADO E CLIENTE. INAPLICABILIDADE DO CDC. PRECEDENTES. ÊXITO NAS CAUSAS EM QUE PATROCINOU. QUESTÃO DECIDIDA COM AMPARO NAS PROVAS E NO CONTRATO. SÚMULAS N. 5 E 7 DO STJ. LITIGÂNCIA DE MÁ-FÉ DAS RECORRENTES. INEXISTÊNCIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+[NOME] e outra ajuizaram ação de conhecimento em desfavor de A J C Agropecuária S.A. e outra postulando a condenação das rés ao pagamento de honorários advocatícios, no montante de R$ 1.117.301,93 (um milhão, cento e dezessete mil, trezentos e um reais e noventa e três centavos).
+O Magistrado de primeiro grau julgou parcialmente procedente o pedido para condenar as rés ao pagamento dos honorários advocatícios decorrentes do patrocínio dos Processos n. 0001456-54.1995.8.26.0165 e 0004015-61.2007.8.26.0165, a serem apurados em liquidação de sentença.
+Interpostas apelações por ambas as partes, a Vigésima Sétima Câmara de Direito Privado do Tribunal de Justiça de São Paulo deu parcial provimento aos recursos, nos termos da seguinte ementa:
+Prestação de serviços advocatícios. Ação de cobrança. Honorários ad exitum. R. sentença de parcial procedência, com apelos de ambas as partes. Comprovada a contratação por escrito dos profissionais, sem revogação dos mandatos, bem como a prestação de serviços. Legitimidade ativa bem comprovada. Rés que não se desincumbiram do ônus probatório quanto aos fatos desconstitutivos do direito dos advogados autores (art. 373, inc. II, do CPC). Prevalência do princípio do pacta sunt servanda. Índice de correção monetária e termo inicial para incidência expressamente pactuado pelas partes. Juros moratórios devidos desde a citação. Litigância de má-fé não vislumbrada, afastada a condenação a este título. Art. 252 do Regimento Interno deste Tribunal. Dá-se parcial provimento aos recursos de ambas as partes.
+Opostos embargos de declaração, foram rejeitados.
+As demandadas interpuseram recurso especial fundamentado na alínea a do permissivo constitucional, apontando violação aos arts. 442, 884 e 885 do CC; 51, IV e § 1º, III, do CDC; e 22 da Lei n. 8.906/1994.
+Sustentaram, em síntese, a necessidade de se julgar improcedente o pedido constante da exordial, haja vista que o contrato previa honorários ad exitum e por haver cláusula contratual abusiva.
+Contrarrazões às fls. 1.252-1.283 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso sob o fundamento de incidirem as Súmulas n. 5 e 7 do STJ.
+Irresignadas, as recorrentes apresentam agravo refutando os óbices apontados pela Corte estadual.
+Contraminuta às fls. 1.300-1.333 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, assinala-se o afastamento do regramento referente ao Código de Defesa do Consumidor ao presente caso, visto que, nos termos da jurisprudência do STJ, a relação entre advogados e clientes é regida pela Lei n. 8.906/1994.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE HONORÁRIOS ADVOCATÍCIOS. CDC NÃO APLICÁVEL. INVENTÁRIO. SUBSTABELECIMENTO E RESILIÇÃO CONSENSUAL EM RELAÇÃO A UM DOS COOBRIGADOS. PEDIDO DE PAGAMENTO INTEGRAL. RECURSO PARCIALMENTE PROVIDO.
+1. Na linha da jurisprudência do STJ não se aplica o Código de Defesa do Consumidor à relação contratual entre advogados e clientes, a qual é regida por norma específica - Lei n. 8.906/94. Precedentes.
+2. A obediência ao princípio processual da congruência, ou adstrição, espelhado nos artigos 459 e 460 do CPC, não se desnatura quando se acolhe parte do pedido do autor, ainda que implicitamente formulado, em razão da natureza jurídica da relação contratual, em que veiculadas obrigações recíprocas parcialmente adimplidas. Precedentes.
+3. Recurso especial conhecido e parcialmente provido. (REsp 1134709/MG, Relatora a Ministra Maria Isabel Gallotti, DJe 03/06/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. COMPETÊNCIA. FORO DO LOCAL DE CUMPRIMENTO DA OBRIGAÇÃO. ART. 100, IV, "D", DO CPC. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE. DECISÃO MANTIDA.
+1. Conforme entendimento firmado no STJ, o Código de Defesa do Consumidor não se aplica à prestação de serviços de advocacia. Precedentes.
+2. Ausente cláusula de eleição de foro, "a competência territorial para a ação de arbitramento de honorários deve ser definida pelo local em que a obrigação deve ou deva ser cumprida (artigo 100, IV, "d", do Código de Processo Civil)" (EAg n. 1.186.386/SP, Relator Ministro SIDNEI BENETI, SEGUNDA SEÇÃO, julgado em 08/02/2012, DJe 16/02/2012).
+3. Agravo regimental a que se nega provimento. (AgRg nos EDcl no REsp 1474886/PB, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, julgado em 18/06/2015, DJe 26/06/2015)
+Portanto, a alegada abusividade da cláusula contratual em decorrência da aplicação da legislação consumerista não prospera.
+Outrossim, o acórdão a quo afastou o argumento de que os ora recorridos não tiveram sucesso nas demandas para as quais foram contratados, pois o contrato previa o pagamento dos honorários caso as ora recorrentes alcançassem qualquer benefício em relação aos débitos questionados judicialmente, e houve o parcelamento da dívida, além de outros benefícios, in verbis:
+A questão dos autos cinge-se aos honorários ad exitum, insistindo as requeridas no insucesso dos autores nas demandas ajuizadas, o que afastaria o pedido exordial.
+Certo que as partes convencionaram livremente, conforme cláusula contratual 2.1, itens "b" e "c", fl. 40, que:
+"Honorários "de êxito", quer seja este integral, quer seja parcial, no valor fixo de R$ 400.000,00 (quatrocentos mil reais) subordinado aos acréscimos da correção monetária e juros conforme estabelecido na letra "d" desta cláusula"
+"Os supra-referidos honorários de "êxito" deverão ser pagos pelas CONTRATANTES aos CONTRATADOS no prazo de até 30 (trinta) dias da data do trânsito em julgado da decisão final que vier reconhecer a procedência total ou parcial da ação de embargos à Execução Fiscal nº 516/95, declarando a nulidade integral ou parcial da Certidão de Dívida Ativa questionada".
+(negritos nossos) Narram que a fl. 648 dos autos consta a r.
+sentença de extinção, que homologou a renúncia ao processo de Embargos, proferida em 18.03.10, prejudicando, por conseguinte, a apelação interposta pelos autores.
+Todavia, à evidência, só houve o sobredito pedido de renúncia para que as exequentes aderissem ao programa REFIS, que proporcionava, além de outros benefícios, o parcelamento do débito, como faz prova a petição colacionada a fls. 624/625.
+Não há, pois, que se falar em insucesso dos advogados autores, havendo, ainda, a desmontar a tese das requeridas, a cláusula 2.4, do contrato de fl. 41, que assim preceitua, com negritos nossos:
+"Fica estabelecido entre as partes contratantes que o valor dos honorários conforme pactuado nas cláusulas 2.1 e 2.2 supra serão devidos mesmo na hipótese de superveniência de legislação que venha a contemplar a isenção, não incidência, imunidade, anistia, remissão, parcelamento ou qualquer outra forma de benefícios a serem usufruídos pelas CONTRATANTES com relação aos débitos e valores questionados judicialmente, entendendo-se, para a hipótese dos autos honorários fixados na letra "b" da cláusula 2.1 como se êxito tivesse ocorrido".
+Tem-se, pois, que não lograram as demandadas, como lhes competia, comprovar fato modificativo, impeditivo ou mesmo extintivo do direito dos autores, nos moldes do art. 373, II, do CPC.
+Desse modo, verifica-se que a questão foi decidida pelas instâncias ordinárias mediante acurada análise do acervo probatório e das cláusulas contratuais, o que atrai a incidência dos óbices das Súmulas n. 5 e 7 do STJ.
+Por fim, no que concerne à pretensão dos recorridos em aplicar a pena da litigância de má-fé, constata-se que não merece guarida, pois, conforme entendimento desta Corte, "a interposição de recursos cabíveis não implica em litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% sobre o valor da condenação.
+Publique-se.
