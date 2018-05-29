@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO RIO GRANDE DO SUL, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado (e-STJ fl. 270):
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DO VALOR UNITÁRIO DO VALE-REFEIÇÃO. CORREÇÃO MONETÁRIA E JUROS DE MORA. REEXAME NECESSÁRIO.
+1 - O direito dos servidores do Estado ao reajuste do vale-refeição, no período de 2000 a 2010, pela via judicial, é matéria pacificada nesta Corte. Súmula nº 33 do TJRS. O reajuste do valor unitário do vale-refeição deve ser promovido pelo IEPE/UFRGS.
+2 - Ausente pronunciamento definitivo do STF acerca da modulação de efeitos das decisões proferidas nas ADI nº 4357 e 4425, aplica-se o artigo 1º-F da Lei nº 9.494/97, com redação dada pela Lei nº 11.960/09, a partir da vigência desta. Reclamação nº 16.745/SC.
+3 - Deve ser respeitada a limitação estabelecida pelo art. 52 da Lei Estadual nº 10.002/93, o qual prevê que o benefício será concedido uma única vez, em caso de acúmulo regular de cargos, empregos ou funções.
+4 - Tratando-se de condenação contra a Fazenda Pública, ainda que pendente de liquidação, em montante evidentemente inferior ao teto estabelecido pelo §2º do art. 475 do CPC, a remessa obrigatória não deve ser conhecida.
+APELOS PARCIALMENTE PROVIDOS. REEXAME NECESSÁRIO NÃO CONHECIDO.
+Desacolhidos os aclaratórios às e-STJ fls. 300/304 e fls. 305/309.
+Nas suas razões, o recorrente aponta, além de divergência jurisprudencial, violação do art. 475, § 2º, do CPC/1973, alegando a necessidade de as condenações por quantia certa serem submetidas ao reexame necessário.
+Transcorrido in albis prazo para contrarrazões às e-STJ fl. 344.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fl.347/352.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+A Corte Especial do STJ, no julgamento do REsp n. 1.101.727/PR, proferido sob o rito do art. 543-C do CPC de 1973, firmou o entendimento segundo o qual é obrigatório o reexame da sentença ilíquida proferida contra a União, os Estados, o Distrito Federal, os Municípios e as respectivas autarquias e fundações de direito público.
+Na esteira da aludida compreensão foi editada a Súmula 490 do STJ: "a dispensa de reexame necessário, quando o valor da condenação ou do direito controvertido for inferior a sessenta salários mínimos, não se aplica a sentenças ilíquidas."
+A propósito:
+ PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. INEXISTÊNCIA. SENTENÇA SUJEITA A REEXAME NECESSÁRIO. FALTA DE JULGAMENTO. INEFICÁCIA DO TÍTULO JUDICIAL. NULIDADE CONSTATADA PELO TRIBUNAL DE ORIGEM. SÚMULA 423/STF. MATÉRIA DE ORDEM PÚBLICA. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DO STJ. RECURSO NÃO PROVIDO.
+1. Não se viabiliza o Recurso Especial pela alegada violação do art. 1.022 do CPC. Isso porque, embora rejeitados os Embargos de Declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. 2. Afigura-se acertado o acórdão recorrido que, com fundamento na Súmula 423/STF, declarou nula a execução contra a Fazenda Pública, porquanto foi constatada a ausência de título executivo (sentença não submetida ao reexame necessário).
+3. Consigne-se que a questão concernente ao reexame necessário consiste em matéria de ordem pública, cognoscível de ofício em qualquer tempo e grau de jurisdição.
+4. O STJ possui o entendimento de que somente ser dispensado o reexame necessário com base no § 2º do art. 475 do CPC/1973 somente em casos em que a sentença seja líquida e o valor nela quantificado não exceda a 60 (sessenta) salários mínimos, o que não ocorre no caso, porque a sentença é ilíquida. Aplicação da Súmula 490/STJ.
+5. Recurso Especial não provido. (REsp 1.680.899/SC, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 09/10/2017)
+PROCESSO CIVIL. REEXAME NECESSÁRIO. SENTENÇA ILÍQUIDA. A sentença ilíquida proferida contra a União, o Estado, o Distrito Federal, o Município e as respectivas autarquias e fundações de direito público está sujeita ao duplo grau de jurisdição, não produzindo efeito senão depois de confirmada pelo tribunal; a exceção contemplada no § 2º do art. 475 do Código de Processo Civil supõe, primeiro, que a condenação ou o direito controvertido tenham valor certo e, segundo, que o respectivo montante não exceda de 60 (sessenta) salários mínimos. Recurso especial provido. (REsp 1.300.505/PA, Relator Ministro ARI PARGENDLER, PRIMEIRA TURMA, DJe 01/09/2014).
+Na hipótese dos autos, o entendimento do Tribunal de origem está em dissonância com o entendimento desta Corte.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para reconhecer o cabimento da remessa necessária, determinando o retorno dos autos ao Tribunal de origem a fim de que prossiga no julgamento como entender de direito.
+Publique-se. Intimem-se.
