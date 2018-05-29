@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por NARA DE CÁSSIA MARQUES MELLO contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra acórdão assim ementado:
+"APELAÇÃO. CIVIL. INOVAÇÃO RECURSAL. NÃO CONHECIMENTO. CITAÇÃO. COMPARECIMENTO PESSOAL. CONFIGURAÇÃO. PRECLUSÃO. CONTRATO DE LOCAÇÃO. DATA CERTA PARA PAGAMENTO. MORA EX RE. INÉRCIA DOS DEVEDORES QUANTO AO ADIMPLEMENTO. ELISÃO DOS EFEITOS DA MORA.
+IMPOSSIBILIDADE. Se o apelante apenas discorreu na petição inicial sobre o desconto de pontualidade, mas não pediu o seu afastamento e depositou valores considerando o percentual previsto, não pode, em sede recursal, questionar esta matéria.
+Não há como afastar o reconhecimento de comparecimento pessoal, se a parte ré, advogada, atuando em causa própria, propõe ação de consignação referente aos valores discutidos na ação de despejo cumulada com cobrança, cujos processos passam a tramitar apensos, e a ré atua ostensivamente, apresentando diversas petições. Se a ré foi incluída nas publicações, mas permanece inerte, mesmo após decisão que reconhece o comparecimento pessoal, proferida sob a égide do Código de Processo Civil de 1973, e não apresenta agravo, opera o efeito da preclusão. Se o locador e fiadores não efetuaram o pagamento dos alugueis na data prevista (mora ex re), não há que falar em elisão dos efeitos da mora sob o pretexto de posterior negativa do recebimento dos valores, pois a mora já estava constituída, bem como pela ausência de comprovação da alegação de negativa ao recebimento. Se o apelado não apresentou contrarrazões, embora seja vencedor em sede recursal, não lhe serão arbitrados honorários recursais, conforme interpretação literal, lógica e teleológica do §11, do artigo 85, do Código de Processo Civil" (fls. 136-137, e-STJ).
+Os embargos declaratórios foram rejeitados (fl. 165, e-STJ).
+No recurso especial, a recorrente alega que houve violação do art. 267, VI, do Código de Processo Civil de 1973. Sustenta que o pedido de afastamento da multa moratória é impossível juridicamente na hipótese, pois não há previsão contratual nesse sentido.
+Não admitido o recurso na origem, vieram os autos conclusos a esta relatoria.
+Sem contraminuta.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+Registra-se, por oportuno, a fundamentação do aresto recorrido ao esclarecer a controvérsia:
+"(..)
+Primeiramente, não há que falar em ausência de fundamentação do julgado, pois foram enfrentados todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador. O acórdão foi exauriente no sentido de que a questão do desconto de pontualidade não foi suscitada de forma expressa na origem, razão pela qual não poderia ser debatida em sede recursal.
+(..)
+Como pode ser visto no acórdão embargado, em especial à fl. 115v, foi esclarecido que a questão do afastamento do desconto de pontualidade não foi questionada na primeira instância.
+(..)
+No entanto, ao identificar que esta questão não foi tratada na origem, oportunizei que a apelante se manifestasse sobre a admissibilidade do recurso nesta parte, conforme despacho de fI. 101:
+(..)
+Isto porque a apelante apenas mencionou na petição inicial da ação consignatória que o desconto de pontualidade caracteriza multa implícita (fls. 2/3), mas não formulou pedido para revisão desta cláusula. Ora, se não foi formulada pretensão desconstitutiva na origem, não é possível que o faça em sede recursal.
+Ademais, a emenda à inicial da ação de consignação (fls. 23/24) apenas solicitou que fosse autorizado o depósito mensal do aluguel devido, até o dia 20 de cada mês, considerando o desconto de pontualidade. Não se verifica aqui nenhuma pretensão desconstitutiva, mas sim que seja aplicado integralmente o contrato firmado. Ou seja, a emenda à inicial mencionada nos embargos de declaração não configura debate acerca da natureza de multa do desconto de pontualidade.
+De outra parte, depreende-se do recurso interposto que a apelante não pretende ratificar a cláusula do desconto de pontualidade, até porque para a incidência do desconto de 10% basta que o pagamento do aluguel tenha sido pago/consignado até o dia 20 do respectivo mês; mas sim o afastamento da cláusula, que entende ser uma multá implícita, de modo a pagar todos os meses o valor final do aluguel (com o desconto de 10%)" (fls. 169-172, e-STJ-grifou-se).
+Com efeito, não há reparo a fazer a tal entendimento, porquanto está em sintonia com a orientação desta Corte.
+A saber:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. 1. NULIDADE PROCESSUAL. NÃO RECONHECIMENTO. AUSÊNCIA DE PREJUÍZO. 2. JULGAMENTO DO RECURSO ESPECIAL OU DO AGRAVO EM RECURSO ESPECIAL POR DECISÃO MONOCRÁTICA. POSSIBILIDADE. ART. 932, IV E V, DO CPC/2015. EVENTUAL VÍCIO NA DELIBERAÇÃO UNIPESSOAL É SANADO, MEDIANTE A APRECIAÇÃO DA CONTROVÉRSIA PELO ÓRGÃO COLEGIADO, NO ÂMBITO DO AGRAVO INTERNO. 3. INOVAÇÃO DE TESE JURÍDICA NA SEARA DE APELAÇÃO. VEDAÇÃO. INDENIZAÇÃO PELA FRUIÇÃO DO IMÓVEL OBJETO DO CONTRATO. PEDIDO DEDUZIDO NA PETIÇÃO INICIAL E NA APELAÇÃO. INOVAÇÃO RECURSAL NÃO CARACTERIZADA. 4. AGRAVO INTERNO DESPROVIDO.
+1. O sistema das nulidades processuais é informado pela máxima pas de nullité sans grief, segundo a qual não se decreta nulidade sem prejuízo.
+2. A jurisprudência desta Casa dispõe no sentido de ser permitido ao relator decidir monocraticamente o recurso, quando amparado em jurisprudência dominante ou Súmula de Tribunal Superior, consoante exegese do art. 932, IV e V, do CPC/2015. Eventual mácula na deliberação unipessoal fica superada, em razão da apreciação da matéria pelo órgão colegiado na seara do agravo interno.
+3. "Com a ressalva da exceção estabelecida no art. 517 do CPC/1973, é vedada a inovação de tese jurídica em sede de apelação. Os efeitos devolutivo e translativo não suprem eventual deficiência das razões recursais" (AgInt no AREsp 796.773/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 13/9/2016, DJe 6/10/2016). No caso, o pedido de indenização pela fruição do imóvel não foi objeto de inovação recursal, uma vez que foi requerido na petição inicial e denegado na sentença, sendo legítima a insurgência deduzida, nesse sentido, na apelação.
+4. Agravo interno desprovido"
+(AgInt no AgInt no AREsp 1.008.073/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 3/8/2017, DJe 17/8/2017-grifou-se).
+Ademais, ressalta-se a incidência da Súmula nº 7/STJ ao caso em apreço.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
