@@ -1,0 +1,59 @@
+DECISÃO
+1. Cuida-se de agravo de decisão que inadmitiu recurso especial interposto por [NOME], com fulcro no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação Cível.
+Impugnação à gratuidade da justiça Recurso de apelação interposto contra sentença que julgou improcedente a impugnação, mantendo o benefício anteriormente concedido Benefício que, em tese, é devido em face da declaração de pobreza da parte, não elidida a presunção de hipossuficiência Fato de o apelado ser microempresário, por si só, que não afasta a presunção de pobreza Contratação de advogado particular Irrelevância Ausência de prova inequívoca suficiente para revogar o benefício concedido Manutenção da R. Sentença.
+Nega-se provimento ao recurso de apelação. (fl. 159)
+Os embargos de declaração opostos foram rejeitados, com imposição de multa.
+Nas razões do recurso especial, o recorrente aponta ofensa ao disposto nos arts. 1.022, II, do CPC/2015, aduzindo a existência de omissões que não teriam sido sanadas; aduz, que o dissídio jurisprudencial estaria concretizado, pois o acórdão manteve a assistência judiciária gratuita à recorrida, em que pese não ter demonstrado qualquer diminuição de seu patrimônio a justificar o deferimento do pedido.
+DECIDO.
+2. Não se viabiliza o recurso especial pela alegada violação ao art. 1.022, II, do Novo CPC. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. LIBERDADE DE EXPRESSÃO. ANÚNCIOS PUBLICADOS EM JORNAIS. DEVER DE VERACIDADE. CONDENAÇÃO. DANOS MATERIAIS E MORAIS. ART. 1.022 DO NCPC. OMISSÃO. INEXISTÊNCIA. EFEITO INFRINGENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (art. 1.022 do NCPC).
+2. Os embargos de declaração não podem conduzir a novo julgamento, com a reapreciação do que ficou decidido.
+3. Os argumentos suscitados pela embargante (condenação por danos morais fixada em valor exorbitante se considerados os acréscimos dos juros de mora e da correção monetária e injustiça da quantia arbitrada, em comparação com outro processo julgado na origem entre as partes litigantes) não constituem pontos omissos, mas visam a rediscussão do julgado para obter efeito infringente, o que esbarra na finalidade integrativa dos aclaratórios.
+4. Não há omissão no acórdão que deixa de se pronunciar sobre matéria não versada no recurso especial. A embargante, sob o pretexto de que há ponto omisso no julgado, inova ao trazer a tese de que é o caso de afastar ou reduzir a base de cálculo dos juros de mora e da correção monetária.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1552550/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 09/08/2016, DJe 19/08/2016)
+3. Nos termos da jurisprudência consolidada neste Sodalício, a assistência judiciária não se restringe apenas à pessoa física. Pode, também, alcançar a pessoa jurídica que não apresenta condições de arcar com os custos de uma demanda judicial.
+Ressalto o entendimento consolidado deste Superior Tribunal, verbalizado no enunciado sumular n. 481 determina que "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+4. Feitas estas ponderações, detenho-me no seguinte pronunciamento do acórdão recorrido:
+O artigo 2º da Lei nº 1.060/50, que estabelece normas para a concessão da assistência judiciária aos necessitados, prevê que "gozarão dos benefícios desta lei os nacionais ou estrangeiros residentes no país, que necessitarem recorrer à Justiça Penal, Civil, Militar ou do Trabalho".
+O artigo 4º, caput, do mesmo diploma legal, prescreve que "a parte gozará dos benefícios da assistência judiciária, mediante simples afirmação, na própria petição inicial, de que não está em condições de pagar as custas do processo e honorários de advogado, sem prejuízo próprio e de sua família".
+O parágrafo 1º do artigo 4º, por seu turno, deixa patente que "presume-se pobre, até prova em contrário, quem afirmar essa condição nos termos da lei, sob pena de pagamento até o décuplo das custas judiciais".
+Dessa forma, o benefício é devido a todos aqueles que afirmem a condição de miserabilidade jurídica, que, todavia, pode ser afastada em virtude de prova em sentido contrário, até porque a finalidade do mesmo é a facilitação do acesso à Justiça.
+Na hipótese, o apelado obteve o benefício da justiça gratuita nos autos de embargos de terceiro que lhe são movidos pelo apelante. Apresentada impugnação à gratuidade de justiça, foi ela rejeitada. Assim, apela o impugnante, requerendo a revogação do benefício concedido, alegando não ser o impugnado, ora apelado, pobre na acepção da Lei nº 1060/50, pelo fato de ser empresário, possuir histórico de compensação de diversos cheques em sua conta corrente e ter contratado advogado particular. Alega, ainda, que o MM. Juízo a quo se baseou apenas na prova testemunhal ao proferir a sentença, o que não se admite.
+Sem razão, contudo.
+Por primeiro, o simples fato de o impugnado, ora apelado, ser microempresário, não indica que ostente capacidade financeira suficiente para suportar as despesas processuais. E o próprio impugnante, nas razões de seu apelo, indica que apesar de a empresa do impugnado possuir capital social de R$ 150.000,00 e ter apresentado, no ano de 2012, rendimentos no montante de R$ 171.041,25, gerou despesas de R$ 254.072,88, apresentando, ao final, saldo em caixa no valor de R$ 2.489,00 (fls. 53/55).
+Observe-se, ainda, que somente para a compra do caminhão utilizado no exercício de suas atividades como empresário, o embargado desembolsou a quantia de R$ 150.000,00, integralizando-o como capital em sua empresa.
+Portanto, os números trazidos pelo impugnante denotam situação econômica de firma individual insuficiente para prover as despesas necessárias à defesa dos direitos do impugnado em Juízo sem prejuízo de seu sustento. E a mera contratação de advogado particular para defesa dos interesses do impugnado também não é suficiente para afastar a presunção de que não pode arcar com os custos do processo sem prejuízo de seu sustento.
+Nem se alegue, por fim, que o impugnado "somente veio requerer tal benefício no curso dos embargos de terceiro" (fls. 122), pois, como é cediço, é possível requerer a qualquer tempo a concessão do benefício da gratuidade de justiça.
+O benefício da gratuidade é devido a todos aqueles que afirmem a condição de miserabilidade jurídica, que, todavia, pode ser afastada em virtude de prova em sentido contrário, até porque a finalidade do mesmo é a facilitação do acesso à Justiça.
+Neste sentido, decisão do Egrégio Supremo Tribunal Federal no recurso extraordinário nº 205.746, de relatoria do Min. Carlos Velloso, DJ 28.02.1997:
+"A garantia do art. 5º, LXXIV, assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos, não revogou a de assistência judiciária gratuita da Lei 1.060, de 1950, aos necessitados, certo que, para obtenção desta, basta a declaração, feita pelo próprio interessado, de que a sua situação econômica não permite vir a Juízo sem prejuízo da sua manutenção ou de sua família. Essa norma infraconstitucional põe-se, ademais, dentro no espírito da Constituição, que deseja que seja facilitado o acesso de todos à Justiça."
+Dessa forma, merece ser o apelado considerado pobre na acepção jurídica do termo, devendo a R. Sentença apelada ser mantida tal como lançada. (fl. 160-163)
+5. Diante do contexto delineado pelo acórdão recorrido, indispensável rever o suporte fático-probatório quanto às questões apontadas pelo agravante, o que é vedado em sede de recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça.
+Nesse sentido, confira os julgados desta Corte:
+PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. PRESUNÇÃO. INOCORRÊNCIA. CONCESSÃO. POSSIBILIDADE. SÚMULA 481/STJ. PROVA DA MISERABILIDADE. SÚMULA 7/STJ.
+1. A concessão do benefício da justiça gratuita à pessoa jurídica demanda efetiva prova da impossibilidade de arcar com as custas processuais, sendo inadmitida sua presunção. EREsp 1.055.037/MG, Rel. Min. Hamilton Carvalhido, Corte Especial, DJe 14.9.2009.
+2. "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais" (Súmula 481/STJ).
+3. A Corte de origem entendeu que a ora agravante não comprovou a necessidade que ensejasse a concessão da assistência judiciária gratuita. Reavaliar a situação financeira da empresa e as provas apresentadas nos autos para que se concedesse a assistência pretendida esbarraria no óbice da Súmula 7/STJ.
+4. Agravo Regimental não provido.
+(AgRg no REsp 1447791/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/06/2014, DJe 14/08/2014).
+_________
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA JURÍDICA. AUSÊNCIA DE COMPROVAÇÃO DE HIPOSSUFICIÊNCIA. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. De acordo com a jurisprudência desta Corte, é possível a concessão dos benefícios da assistência judiciária gratuita às pessoas jurídicas, com ou sem fins lucrativos, desde que demonstrem a impossibilidade de arcarem com os encargos processuais, nos termos da Súmula 481/STJ. Precedente: REsp 1.064.269/RS, Rel. Ministro Raul Araújo, Quarta Turma, DJe 22/09/2010.
+2. Na hipótese dos autos, o Tribunal de origem, após a aferição do contexto fático dos autos, entendeu que a parte agravada não comprovou sua situação de hipossuficiência que ensejaria a gratuidade judiciária e negou o benefício pleiteado. A alteração desta conclusão demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no AREsp 456.005/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/04/2014, DJe 06/05/2014).
+_________
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL. VIOLAÇÃO DO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. AUSÊNCIA DE PROVA DE HIPOSSUFICIÊNCIA. REEXAME. SÚMULA Nº 7/STJ. ART. 538 DO CPC. MULTA MANTIDA.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Esta Corte Superior é firme no sentido de que a declaração de pobreza que tenha por fim o benefício da assistência judiciária gratuita tem presunção relativa de veracidade, podendo ser afastada fundamentadamente.
+3. É inviável, em sede de recurso especial, rever o entendimento do tribunal de origem que afastou a presunção de veracidade da declaração de pobreza e fundamentadamente indeferiu o pedido de justiça gratuita em virtude da incidência da Súmula nº 7/STJ.
+4. O tribunal local considerou o caráter protelatório dos embargos opostos, não havendo falar em ofensa ou negativa de vigência ao mencionado art. 538 do CPC.
+5. Agravo regimental não provido.
+(AgRg no AREsp 372.220/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/04/2014, DJe 15/04/2014)
+_________
+6. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
