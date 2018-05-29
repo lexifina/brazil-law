@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto pelo FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIRO RIOPREVIDÊNCIA contra decisão do Tribunal de Justiça daquela unidade da Federação, que não admitiu recurso especial fundado na alínea "a" do art. 102, III, da Constituição Federal (sic) e que desafia acórdão assim ementado (e-STJ fl. 325):
+Mandado de Segurança ao escopo de revisão de pensão previdenciária percebida pela impetrante, em ordem a que os valores por ela recebidos correspondam à integralidade dos vencimentos a que faria jus o instituidor do benefício, se vivo estivesse, com lastro em novo DAP que inclui o aumento concedido pela Lei 5.758/10.
+Companheira de ex servidor do DER.
+Sentença de concessão da ordem, confirmada a liminar adrede concedida.
+Apelação provida para o fim de determinar que a revisão do benefício previdenciário obedeça à paridade, adotada como base de cálculos a totalidade dos vencimentos a que o instituidor da pensão faria jus se vivo fosse, até o limite máximo estabelecido para os benefícios do RGPS, acrescido de 70% da parcela excedente a esse limite.
+Agravo inominado do § 1º, do artigo 557 do Código de Processo Civil tirado contra a respectiva decisão.
+Prejudicial de decadência aviada pela autarquia estadual que não se sustenta, na medida em que a lesão ao direito da agravada iniciou-se ao fim do prazo máximo para a implantação do novo aumento concedido à sua pensão, a partir de agosto de 2011, e a impetração desta ação se dera aos 29.09.2011, menos de um mês depois e dentro do prazo legal de 120 dias - art. 23 da lei 12.016/09.
+Debate acerca do aumento concedido pela lei 4.688/05 que se exibe precluso sim, por força de sentença transitada em julgado proferida nos autos da ação ordinária de nº 2006.001.102797-6, que reconhecera o direito à integralidade e à paridade aos vencimentos da autora, olhos postos no aumento concedido por aquela legislação, conforme narrado na petição inicial deste writ , diverso , aliás, do concedido pela lei 5.758/10, objeto dessa seguração.
+Agravo não provido.
+Rejeitados os aclaratórios (e-STJ fls. 343/346).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 535, II, do CPC/1973, 18 da Lei n. 1.533/1951, 23 da Lei n. 12.016/2009, 2º, 5º, caput, e 169, § 1º, I e II, da Constituição Federal, sustentando negativa de prestação jurisdicional, bem como transcurso do prazo decadencial para manejo do writ.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de suficiente prestação jurisdicional e incidência das Súmulas 7 do STJ e 280 do STF (e-STJ fls. 422/430).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+O Ministério Público Federal opina pela conversão do agravo para negar seguimento ao recurso especial (e-STJ fls. 544/548).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+De início, registre-se que superável a incorreta indicação do dispositivo a apoiar a interposição do apelo nobre (v.g.: REsp 857.493/PI, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 21/09/2010, DJe 11/10/2010), uma vez que depreensível amoldarem-se as razões recursais ao previsto no art. 105, III, a, da Constituição Federal.
+Contudo, no pertinente à suposta contrariedade aos arts. 2º, 5º, caput, e 169, § 1º, I e II, da Constituição Federal, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+Em relação ao art. 535, II, do CPC/1973, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (AgRg no AREsp 719.983/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/04/2016, DJe 26/04/2016, e AgRg no AREsp 811.706/PR, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 07/04/2016, DJe 15/04/2016).
+Quanto ao mais, o entendimento da Corte local acerca do não transcurso do prazo decadencial embasou-se na interpretação da legislação local questionada - Lei n. 5.758/2010, do Estado do Rio de Janeiro (e-STJ fls. 305/306).
+Assim, a revisão das razões de decidir do acórdão recorrido, nesse aspecto, encontra óbice na Súmula 280 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
