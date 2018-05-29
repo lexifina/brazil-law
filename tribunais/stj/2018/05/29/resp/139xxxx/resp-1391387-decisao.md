@@ -1,0 +1,44 @@
+EMENTA
+RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. RAZOABILIDADE E PROPORCIONALIDADE.
+1. O valor dos honorários advocatícios, fixado pelo Tribunal a quo, consubstanciou critério razoável, máxime porque adequado ao caso concreto e serviente para bem remunerar o causídico de modo proporcional ao trabalho realizado.
+2. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial fundado no artigo 105, III, alíneas "a" e "c", da Constituição Federal, interposto contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado do Espírito Santo, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁTICA QUE DÁ PROVIMENTO AO RECURSO INTERPOSTO PELA AGRAVANTE E EXTINGUE O PROCESSO DE ORIGEM SEM RESOLUÇÃO DE MÉRITO (ARTS. 267 §3º E 557, AMBOS DO CPC), MAS SUSPENDE A EXIGIBILIDADE DA VERBA DE SUCUMBÊNCIA (ART. 12, DA L. 1.060/50). INCONFORMISMO DA AGRAVANTE EM RELAÇÃO AO "QUANTUM" FIXADO A TÍTULO DE SUCUMBÊNCIA E SUSPENSÃO DE SUA EXIGIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. A decisão unipessoal objeto do agravo interno detectou questão processual que - força do efeito translativo - conduziu a extinguir, sem resolução de mérito, a ação que deu origem ao agravo de instrumento; ação essa que fora proposta pela agravada.
+2. Ao extinguir o feito de origem sem resolução de mérito, o relator fixou honorários de sucumbência no importe de R$ 2.500,00 (dois mil e quinhentos reais), embora tenha sido suspensa a exigibilidade da verba honorária, porque a agravada estaria sob o benefício da assistência judiciária gratuita (art. 12, da L. 1.060/50). O inconformismo da agravada versa sobre dois aspectos: (a) pretende elevar os honorários; (b) discorda da assistência judiciária concedida à agravada.
+3. No primeiro aspecto, não prospera o inconformismo, seja porque o processo foi extinto logo em seu limiar, seja por se tratar de decisão terminativa, o que denota que "não houve condenação", abrindo claro espaço à incidência do art. 20, §4º do CPC, que intui o julgador a fixar a verba honorária tendo em mira a apreciação eqüitativa. Logo, a quantia arbitrada a título de sucumbência não merece reparo.
+4. Quanto ao outro ponto, cumpre consignar há incidente próprio de impugnação à assistência judiciária gratuita. Isso implica dizer que, se a agravada faz jus - ou não - ao beneplácito legal, isso será dirimido naquele incidente, que poderá - sendo o caso - vir a modificar o comando da decisão embargada na parte em que determinou a suspensão da exigibilidade da verba sucumbencial.
+5. Agravo interno conhecido, mas improvido, oportunidade em que se indefere o pedido formulado pela agravante pela expedição de ofício ao juízo singular para cumprimento da decisão, porquanto tal só será possível quando certificado seu trânsito em julgado. . (fls. 61-62)
+Opostos embargos de declaração, foram rejeitados. (fls. 75-81).
+Nas razões do especial, a recorrente aponta violação ao art. 20, §§ 3 e 4º, do CPC/1973, sob o argumento de que, mesmo com a elevação do valor inicial dado à causa, de R$ 100.000,00 para R$ 1.000.000,00, por meio de impugnação, no momento da condenação os honorários foram fixados em apenas R$ 2.500,00, devendo, portanto, ser majorado o valor fixado.
+Contrarrazões ao recurso especial às fls. 118-129.
+O recurso recebeu crivo negativo de admissibilidade na origem (fls. 131-142).
+É o relatório. Decido.
+2. Inicialmente, observa-se que a Corte de origem, por meio de decisão monocrática, extinguiu o processo sem resolução do mérito, fixando os honorários advocatícios fixados em R$ 2.500,00 (dois mil e quinhentos reais).
+Com efeito, divisam-se os seguintes fundamentos extraídos do acórdão recorrido, litteris:
+Conforme brevemente relatado, a agravante Oliveira Empreendimentos e Participações Ltda interpôs agravo interno com a finalidade de reformar parte da decisão monocrática de fls. 108/112. Nessa decisão, deparei-me com questão processual que - por força do efeito translativo - conduziu-me a extinguir, sem resolução de mérito, a ação que deu origem ao agravo de instrumento; ação essa que fora proposta pela agravada.
+A parte da decisão a cujo respeito a recorrente se insurge refere-se à condenação da agravada em honorários de sucumbência.
+ ..
+Quanto ao primeiro aspecto, sem razão a recorrente. Note-se que a decisão monocrática fixou os honorários de sucumbência no importe de R$ 2.500,00 (dois mil e quinhentos reais).
+Essa quantia me pareceu - como continua parecendo - bastante razoável. Digo isso porque, em que pese o grau de zelo do ilustre patrono da agravante, o processo foi extinto logo em seu limiar.
+Some-se a isso a circunstância de ter sido julgado por decisão terminativa, o que denota que "não houve condenação", abrindo claro espaço à incidência do art. 20, § 4º do CPC, que intui o julgador a fixar a verba honorária tendo em mira a apreciação equitativa. Logo, tenho que a quantia arbitrada a título de sucumbência não merece reparo. (fls. 63-64)  g.n.
+Veja-se, portanto, que o motivo para a fixação do valor dos honorários sucumbenciais no importe de R$ 2.500,00, não obstante a alteração do valor da causa decorrente de impugnação, referenciou o fato de a ação ter sido extinta em seu limiar, com decisão terminativa sem conteúdo condenatório.
+Em sede de embargos de declaração, o Tribunal a quo assevera que o valor de R$ 2.500,00 foi fixado dentro dos padrões da razoabilidade, tendo em vista que a demanda foi extinta prematuramente, por meio de decisão terminativa.
+Ressaltou, ainda, que o referido montante foi fixado em consonância com a justiça dos elementos delimitadores, tais como o trabalho desempenhado pelo profissional do direito, o grau de zelo dispensado, o tempo de duração e a complexidade da causa. (fl. 80)
+Nesse contexto, faz-se mister consignar que o valor dos honorários advocatícios, fixado pelo Tribunal a quo, consubstanciou critério razoável, máxime porque adequado ao caso concreto e serviente para bem remunerar o causídico de modo proporcional ao trabalho realizado. Não se pode olvidar, ainda, que esta Corte Superior entende que o valor estabelecido, pelas instâncias ordinárias, a título de honorários advocatícios, só pode ser alterado nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade e de proporcionalidade.
+Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACOLHIMENTO. EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. REVISÃO. POSSIBILIDADE QUANDO IRRISÓRIOS OU EXORBITANTES. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1 - Nos termos da jurisprudência desta Corte, o quantum arbitrado pelas instâncias ordinárias a título de honorários advocatícios pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade.
+ ..
+(REsp 1339356/GO, Min. Raul Araújo, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CARÁTER INFRINGENTE. POSSIBILIDADE. EXCEPCIONALIDADE. CABIMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. HONORÁRIOS ADVOCATÍCIOS. VALOR. MAJORAÇÃO. DESCABIMENTO. RAZOABILIDADE.
+1. A atribuição de efeitos infringentes aos embargos de declaração é possível, em hipóteses excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que, sanada a omissão, a contradição ou a obscuridade, a alteração da decisão surja como consequência necessária.
+2. A tese vinculada aos artigos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não foi indicada a contrariedade ao art. 535 do Código de Processo Civil, motivo pelo qual, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211 do STJ.
+3. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias a título de honorários advocatícios apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso.
+4. Embargos declaratórios recebidos como agravo regimental.
+5. Agravo regimental não provido.
+(EDcl no AgRg no AREsp 613.597/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/02/2016, DJe 18/02/2016)
+Dessarte, verifica-se que o Tribunal de origem, bem sopesando os critérios previstos no Código de Processo Civil, entendeu por fixar o montante a título de honorários advocatícios em valor que, consideradas as peculiaridades da demanda - ação extinta prematuramente - não pode ser considerado fora dos padrões de razoabilidade e de proporcionalidade, razão pela qual é inviável a revisão.
+3. Ante o exposto, com fulcro nos fundamentos acima aduzidos, nego provimento ao presente recurso especial.
+Publique-se. Intimem-se.
