@@ -1,1 +1,1 @@
-Art. 14-B. Os valores devidos a título de compensação ambiental, nos termos do art. 36 da Lei nº 9.985, de 2000, serão atualizados pelo índice do IPCA-E a partir da data de fixação da compensação ambiental pelo órgão licenciador.
+Art. 14-B. Os valores devidos a título de compensação ambiental, nos termos do art. 36 da Lei nº 9.985, de 18 de julho de 2000, serão atualizados pelo Índice Nacional de Preços ao Consumidor Amplo Especial (IPCA-E) a partir da data de fixação da compensação ambiental pelo órgão licenciador.
