@@ -1,0 +1,25 @@
+Decisão: Trata-se agravo cujo objeto é a decisão da Presidência da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso extraordinário. Eis o teor da decisão agravada (eDOC 5, p. 146/147):
+    “Opôs-se recurso extraordinário hospedado nas alíneas a e c do inciso III do artigo 102 da Constituição da República, sob alegada violação aos seguintes dispositivos constitucionais: 5, II, XXXXV, LIV; 37; 93, IX, da CF.
+    Em preliminar, o recorrente aponta a existência de repercussão geral de questão constitucional, exigência contida no § 2º do art. 1035 do Código de Processo Civil, matéria cuja apreciação é da competência do C. Supremo Tribunal Federal.
+    No entanto, o recurso não merece trânsito pela alínea a.
+    Ao que se infere, os argumentos expendidos não são suficientes para infirmar as conclusões do v. Acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada.
+    Sob o pálio da alínea c, conforme anotado no ARE 646.035 AgR/SP, Rel. Min. Carmen Lúcia, DJe de 13/09/2011, ‘incabível recurso extraordinário interposto com fundamento no art. 102, inc. III, alínea ‘c’, da Constituição da República, quando não há aplicação de lei ou ato de governo local em detrimento da Constituição.’ No mesmo sentido: RE 870.577 AgR/AL, Rel. Min. Marco Aurélio, DJe de 29/09/2015. É a hipótese dos autos, onde, em nenhum momento, se enfrenta tal situação.
+    Inadmito, pois, o recurso extraordinário.”
+    Nas razões do agravo, sustenta-se, em suma (eDOC 5, p. 156/157):
+    “A competência para análise dos requisitos não cabe ao tribunal de origem, mas sim ao Supremo Tribunal Federal, nos termos do § 2º do art. 1035 do Código de Processo Civil.
+    (…)
+    Ademais, a questão discutida, qual seja, a inobservância aos mandamentos constitucionais dispostos nos artigos 5º, incisos II, XXXV, LIV, LV; 37 e 93, inciso IX da Constituição Federal, transcende o direito subjetivo das partes envolvidas e resta, portando, demonstrada a repercussão geral no caso concreto, ante as questão discutidas serem relevantes do ponto de vista econômico, político, social ou jurídico.”
+    É o relatório. Decido.
+    Consabido, a admissibilidade dos recursos de natureza extraordinária é aferida tanto na origem quanto no destino e que sua realização pelo juízo a quo não importa em usurpação da competência desta Corte. O agravo destinado ao Tribunal ad quem permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Nesse sentido:
+     “Embargos de declaração no agravo de instrumento. Recebimento como agravo regimental. Juízo de admissibilidade de recurso extraordinário efetuado pela Corte de origem e análise do seu mérito por esta Corte, em autos de agravo de instrumento. Possibilidade. Precedentes. 1. O juízo prévio de admissibilidade de recursos dirigidos a este Supremo Tribunal Federal deve ser feito pelos Tribunais de origem, sem que isso implique usurpação de competência desta Corte. 2. Discordando a parte da decisão assim proferida, incumbe-lhe interpor agravo de instrumento, que necessariamente será encaminhado a esta Suprema Corte, que poderá apreciar não apenas o aludido juízo de admissibilidade feito pela Corte de origem, mas o próprio mérito da insurgência recursal. 3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.” (AI 815975 ED, Primeira Turma, Rel. Min. Dias Toffoli, DJe 14.9.2012)
+    “RECURSO EXTRAORDINÁRIO - JUÍZO PRIMEIRO DE ADMISSIBILIDADE. Ao Juízo primeiro de admissibilidade cumpre verificar se o extraordinário atende, ou não, aos pressupostos gerais de recorribilidade e a pelo menos um dos específicos de que cuida o inciso III do artigo 102 da Carta Política da República. Assim agindo, longe fica de usurpar a competência do Supremo Tribunal Federal.” (AI 178743 AgR, Rel. Min. Marco Aurélio, Segunda Turma, DJ 16.5.1997)
+    Registre-se, contudo, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, verifico que, in casu, o agravo sequer tem preenchidos os pressupostos processuais.
+    De plano, verifica-se que a Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso assentando que não restou evidenciado o suposto maltrato à norma constitucional enunciada e que a hipótese dos autos em nenhum momento enfrentou situação de aplicação de lei ou ato de governo local em detrimento da Constituição. Entretanto, o agravante limitou-se a discorrer sobre o atendimento ao que preceituado no § 2º do art. 1035 do Código de Processo Civil.
+    O recurso, portanto, não ataca os fundamentos da decisão que inadmitiu o recurso extraordinário. Sendo assim, torna-se inviável seu conhecimento, diante do óbice da Súmula 287 do STF.
+    Ante o exposto, não conheço do recurso, por ser manifestamente inadmissível, nos termos do art. 932, III, do CPC.
+    Publique-se.
+    Brasília, 29 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
