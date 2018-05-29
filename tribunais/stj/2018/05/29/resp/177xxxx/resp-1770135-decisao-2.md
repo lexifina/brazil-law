@@ -1,0 +1,9 @@
+DECISÃO
+1. Trata-se de agravo interposto por FUNBEP - FUNDO DE PENSÃO MULTIPATROCINADO contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Paraná, integrado pelo proferido em sede de embargos de declaração, assim ementado:
+APELAÇÃO CÍVEL 1 E 2. PREVIDÊNCIA PRIVADA. PREVIDÊNCIA COMPLEMENTAR - FUNBEP. AÇÃO DE COBRANÇA DE VALORES RELATIVOS A RESERVA MATEMÁTICA. SENTENÇA QUE JULGOU EXTINTO O PROCESSO RECONHECENDO A PRESCRIÇÃO INEXISTÊNCIA DE RELAÇÃO DE TRATO SUCESSIVO. ATO ÚNICO. OCORRÊNCIA PRESCRIÇÃO HONORÁRIOS ADVOCATÍCIOS PEDIDO DE MAJORAÇÃO. IMPOSSIBILIDADE. CORRETAMENTE FIXADOS PELO JUÍZO A QUO. SENTENÇA ESCORREITA. RECURSO DE APELAÇÃO CÍVEL I E 2 CONHECIDOS E NÃO PROVIDOS.
+
+Nas razões do especial, alega-se violação dos arts. 165, 219, § 5º, 458, II, e 535 do Código de Processo Civil/73; arts. 17, 18, 19, 21 e 75 da Lei Complementar n. 109/2001 e arts. 189 e ss. e 884 e ss. do Código Civil.
+Decido.
+2. A controvérsia relativa à prescrição, isto é, se esta atingiu o fundo de direito de previdência privada ou apenas as parcelas anteriores ao quinquênio da pretensão deduzida nos autos, que envolve o pagamento de reserva matemática adicional reconhecida em reclamação trabalhista transitada em julgado, onde foi determinado o pagamento em ato único, evidencia complexidade relevante a exigir exame em sede de mais aprofundado das matérias postas, em sede de recurso especial.
+3. Assim, em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao agravo FUNBEP - FUNDO DE PENSÃO MULTIPATROCINADO para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
