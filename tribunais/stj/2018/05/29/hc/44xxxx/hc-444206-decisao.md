@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina.
+Consta dos autos que o paciente foi condenado, pela prática da conduta descrita no art. 155, § 4º, I e IV, c/c o art. 14, II, ambos do Código Penal, à pena de 1 ano, 9 meses e 10 dias de reclusão, em regime semiaberto.
+Irresignada, a defesa interpôs apelação perante o Tribunal de Justiça, que negou provimento ao recurso nos termos da seguinte ementa (e-STJ fl. 358):
+APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. TENTATIVA DE FURTO DUPLAMENTE QUALIFICADO (ART. 155, § 4º, INCISOS I E IV C/C ART. 14, INCISO II, AMBOS DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DEFENSIVO.
+PEDIDO DE ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS. DECLARAÇÕES DA VÍTIMA E DAS TESTEMUNHAS NA ETAPA INVESTIGATIVA QUE, ALÉM DE UNÍSSONAS E HARMÔNICAS ENTRE SI, FORAM CORROBORADAS PELOS DEPOIMENTOS DO POLICIAL MILITAR EM AMBAS AS ETAPAS DA PERSECUÇÃO CRIMINAL. AGENTES ENCONTRADOS NA POSSE DA RES FURTIVA LOGO APÓS A SUBTRAÇÃO. NEGATIVA DO APELANTE ISOLADA DE TODAS AS PROVAS ANGARIADAS. CONDENAÇÃO MANTIDA.
+PLEITO DE ABRANDAMENTO DO REGIME INICIAL DE CUMPRIMENTO DE PENA PARA O ABERTO. INVIABILIDADE. APELANTE QUE APRESENTA CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL E É REINCIDENTE. REGIME SEMIABERTO FIXADO NA SENTENÇA QUE JÁ SE MOSTRA BENÉFICO AO AGENTE, À LUZ DA SÚMULA 269 DO STJ.
+EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. SENTENÇA CONDENATÓRIA CONFIRMADA POR ESTA CORTE DE JUSTIÇA. PRECLUSÃO DA MATÉRIA FÁTICA. NOVA ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL (HC N. 126.292/SP) ADOTADA POR ESTA CÂMARA CRIMINAL (AUTOS N. 0000516-81.2010.8.24.0048). EXPEDIÇÃO DE MANDADO DE PRISÃO QUE SE IMPÕE. RECURSO CONHECIDO E DESPROVIDO.
+A presente impetração funda-se, em síntese, na nulidade da sentença proferida de forma oral, na ilegalidade do reconhecimento dos maus antecedentes e da reincidência e na necessidade de reconhecimento do percentual máximo de redução pela tentativa.
+Diante disso, pleiteia a defesa, em tema liminar, a suspensão dos efeitos da condenação até o julgamento deste writ e, no mérito, a anulação da sentença proferida de forma oral, o afastamento dos maus antecedentes e da reincidência e a aplicação da redução pela tentativa no percentual de 2/3.
+Liminar indeferida às e-STJ fls. 380/382.
+Informações prestadas às e-STJ fls. 388/425.
+Parecer ministerial pelo não conhecimento da impetração, nos termos da ementa ora transcrita (e-STJ fl. 427):
+HABEAS CORPUS. MATÉRIA NÃO EXAMINADA PELA CORTE A QUO. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO.
+Se as razões deduzidas na impetração atacam matéria não apreciada pelo Tribunal a quo, é descabido o seu deslinde nessa Instância Superior, sob pena de supressão de grau de jurisdição.
+Parecer pelo não conhecimento do habeas corpus.
+É, em síntese, o relatório.
+Conforme relatado pelo Tribunal de origem, o pedido constante do recurso de apelação aviado pela defesa cingiu-se ao seguinte: "inconformado com a prestação jurisdicional entregue, Rafael interpôs recurso de apelação (fls. 271/272). Em suas razões (fls. 282/289), requer, em síntese, a absolvição por insuficiência probatória ou, subsidiariamente, o abrandamento do regime inicial para o aberto" (e-STJ fl. 360).
+Nessa tessitura, verifico que as matérias ventiladas na inicial do habeas corpus não podem ser conhecidas por esta Corte, tendo em vista a falta de manifestação do Tribunal de origem sobre os temas.
+Assim, fica impossibilitada a manifestação deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar verdadeira supressão de instância e violação aos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que se revela "inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heróico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: Ed. JusPodivm, 2016, p. 2470).
+Ante a falta de manifestação do colegiado estadual, percebe-se a incompetência desta Corte Superior para o processamento e julgamento deste writ, já que inexiste ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça. Nesse sentido:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.
+ ..  (HC 278.542/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. CRIME DE TORTURA. NULIDADE DECORRENTE DO FATO DE O ADVOGADO DO PACIENTE, AO FINAL DA AÇÃO PENAL, TER PASSADO À CONDIÇÃO DE ASSISTENTE DA ACUSAÇÃO. SUPRESSÃO DE INSTÂNCIA. REGIME PRISIONAL FECHADO. PREVISÃO LEGAL DECLARADA INCONSTITUCIONAL PELO STF. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. As alegações de nulidade decorrente do fato de o advogado do paciente, ao final da ação penal, ter passado à condição de assistente da acusação não foi enfrentada no acórdão combatido, o que impede a análise da matéria pelo Superior Tribunal de Justiça, sob pena de supressão de instância. Precedentes.
+ ..  (HC 272.125/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/05/2016, DJe 12/05/2016.)
+No mesmo sentido, o posicionamento do Supremo Tribunal Federal:
+Agravo regimental em recurso ordinário em habeas corpus. 2. Delito de vias de fato e violação de domicílio (art. 21, caput, do Decreto-Lei n. 3.688/41 e art. 150, § 1º, do Código Penal) 3. Inépcia da denúncia. Trancamento da ação penal por ausência de justa causa. Matéria não examinada nas instâncias anteriores. Supressão de instância. A extinção da ação penal de forma prematura somente é possível em situação de manifesta ilegalidade. Precedentes. 4. Agravo regimental a que se nega provimento. (RHC 133.585 AgR, Rel. Ministro GILMAR MENDES, Segunda Turma, julgado em 21/06/2016, DJe 1º/08/2016.)
+Tal o contexto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
