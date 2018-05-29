@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por CESAR JULIO DE OLIVEIRA FERNANDES contra decisão proferida pelo Tribunal de Justiça do Estado de Minas Gerais que não admitiu recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 341/341, in verbis:
+1. Trata-se de agravo interposto por [NOME] contra a decisão do Tribunal de Justiça do Estado de Minas Gerais que inadmitiu o recurso especial (fls. 320/326).
+2. César foi denunciado pela prática do crime de tráfico de drogas, pois no dia 04.02.2015, trazia consigo e guardava, para levar a consumo de terceiros, 6,2g de cocaína, subdivididos em quatro porções, e 17g de maconha, subdivididos em dez porções, além de terem sido encontrados em sua residência pinos vazios utilizados no acondicionamento de cocaína e embalagens para dolagem de maconha (fls. 01/02). O Juízo de primeiro grau julgou procedente a denúncia e condenou o agravante como incurso no artigo 33, caput, e §4º, da Lei nº 11.343/06, à pena de 1 ano e 8 meses de reclusão, em regime inicial fechado (fls. 146/148).
+3. O Tribunal de Justiça do Estado de Minas Gerais, por maioria, deu parcial provimento ao apelo defensivo, para fixar o regime inicial aberto para cumprimento de pena e substituir a pena privativa de liberdade por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e limitação de fim de semana (fls. 228/241).
+4. A defesa opôs embargos infringentes, aos quais foi negado provimento (fls. 272/285).
+5. Inconformado, o agravante interpôs recurso especial, com fulcro no artigo 105, inciso III, alínea a, da CF, alegando violação aos artigos 28 e 33, ambos da Lei nº 11.343/06 e 156 do Código de Processo Penal. Requereu a desclassificação para o delito previsto no artigo 28 da Lei de Drogas (fls. 291/305).
+6. O Ministério Público estadual ofereceu contrarrazões (fls. 310/314).
+7. Entendeu o Tribunal a quo que a matéria ventilada encontra óbice na Súmula nº 07 do STJ (fls. 316/317).
+8. Inconformado, requer o agravante a reforma da decisão agravada.
+Ao final, o Parquet opinou pelo desprovimento do agravo (e-STJ fl. 344).
+É o relatório.
+Decido.
+De fato, não assiste razão ao agravante.
+É que o Tribunal de origem, soberano na análise de questões fático-probatórias dos autos, reconheceu a existência de elementos de provas suficientes para embasar o decreto condenatório pela prática do crime de tráfico ilícito de entorpecentes.
+No ponto, a Corte originária manifestou-se nos seguintes termos (e-STJ fls. 272/275):
+A existência do crime pode ser comprovada pelo Boletim de Ocorrência (fls. 06/08), Auto de Apreensão (fl. 17), Laudo Preliminar de Constatação (fls. 21/22) e Laudo Toxicológico Definitivo (fl. 71).
+Embora a combativa defesa pleiteie a desclassificação da conduta praticada pelo agente para aquela prevista no artigo 28 da Lei Antidrogas, ao argumento de que a droga apreendida seria destinada ao consumo do réu, pela análise do acervo probante, em especial, pelas circunstâncias de apreensão da droga, tenho como impossível tal medida, como procedido pelos prolatores dos votos majoritários.
+O réu, após permanecerem silêncio na fase policial (fl. 05), afirmou, em Juízo (fls. 93/94), que as drogas apreendidas em sua residência lhe pertenciam, porém, seriam destinadas ao seu próprio consumo.
+Entretanto, a versão do embargante encontra-se isolada nos autos, não sendo capaz de elidir o decreto condenatório, na medida em que as provas carreadas demonstram, com a certeza exigida no momento processual, que ele é o autor do delito pelo qual foi denunciado.
+Tanto que ele mesmo se contradisse no interrogatório da fase judicial (fls. 93/94), pois foi categórico em assumir ser usuário unicamente de cocaína, durante os finais de semana, e que "já havia parado de fumar maconha", diversamente do que se extrai dos fatos noticiados em que na sua residência foram encontradas não só 6,12g de cocaína, como também 16,51g de maconha. Ademais, como bem observou o d. Judo singular, a abordagem policial do ora embargante ocorreu em dia útil, qual seja, em uma quarta feira, destoando da alegação de ser mero usuário de finais de semana.
+Se não bastasse, a corroborar a traficância desempenhada por [NOME], conforme depoimento prestado pelos policiais militares Giselle Gomes Diniz Câmara e [NOME], ambos foram abordados por um transeunte, durante um patrulhamento de rotina, o qual denunciou a ocorrência do tráfico de drogas em uma praça da região, descrevendo as características idênticas à do embargante. É o que se depreende de fls. 95/96.
+Frise-se que quando as provas dos autos apontam para a condenação, como no caso em exame, não vejo porque desacreditar os policiais, porquanto agem como representantes do Estado e não têm motivos para mentir, vez que não se beneficiariam com a condenação do agente do delito. Além do mais, seus testemunhos estão em consonância com o conjunto probatório e apenas o exercício funcional não autoriza, por si só, o desprezo de seus depoimentos.
+Desse modo, tenho que a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmula n. 7/STJ e Súmula n. 279/STF).
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA USO. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI 11.343/06. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A pretensão do agravante de modificar o entendimento firmado pelas instâncias ordinárias - no sentido de que não há provas acerca da prática do delito em questão, da desclassificação do delito de tráfico para o uso e da aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/06 - demandaria reexame de provas, o que é inviável na via do recurso especial, segundo dispõe o enunciado n. 7 da Súmula do Superior Tribunal de Justiça ("A pretensão de simples reexame de prova não enseja recurso especial").
+2. Agravo regimental não provido.
+(AgRg no AREsp 900.716/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/08/2016, DJe 26/08/2016)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
