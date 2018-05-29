@@ -1,0 +1,21 @@
+DECISÃO
+ACÓRDÃO – EFICÁCIA – SUSPENSÃO – RELEVÂNCIA NÃO DEMONSTRADA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O paciente foi condenado pelo Conselho Permanente de Justiça da Auditoria da Sétima Circunscrição Judiciária Militar, no processo nº 0000174-20.2011.7.07.0007, a 2 anos de reclusão, em regime aberto, ante a prática do delito definido no artigo 240, § 5º, combinado com o 72, incisos I e III (furto de coisa pertencente a Fazenda Nacional), do Código Penal Militar. O Órgão julgador reconheceu o direito de recorrer em liberdade bem como o benefício da suspensão condicional da pena pelo prazo de 2 anos.
+    A defesa interpôs apelação, sustentando a absolvição e, sucessivamente, a incidência do princípio da insignificância. O Superior Tribunal Militar proveu-a parcialmente, excluindo a condição alusiva à reparação do dano.
+    Em 24 de novembro de 2015, o Juízo da Auditoria da Sétima Circunscrição Judiciária Militar afastou a suspensão, considerada a notícia da condenação do paciente a 14 anos, 4 meses e 15 dias de reclusão, em virtude do cometimento dos crimes comuns de roubo qualificado e corrupção de menor. Teve como incabível a continuidade do benefício, destacando a conduta delituosa superveniente.
+    A defesa protocolou recurso em sentido estrito, aduzindo ilegalidade do ato por meio do qual revogada a suspensão condicional. Ressaltou que a condenação por crime comum haveria ocorrido antes de iniciado o período de prova. Ao proverem parcialmente o recurso, os Ministros do Superior Tribunal Militar determinaram a remessa do processo ao Juízo da Vara de Execuções Penais da Comarca de Olinda/PE, para fins de unificação das penas e fixação do regime.
+    A Defensoria Pública da União insiste na inidoneidade do ato mediante o qual afastado o benefício concedido ao paciente pela Auditoria Militar da Sétima Circunscrição. Diz inobservado o artigo 614, inciso I, do Código de Processo Penal Militar, que, aduz, prevê, como causa de revogação, a superveniência de condenação irrecorrível pela prática de novo delito militar ou comum no curso do prazo da suspensão. Reafirma ter a condenação por crime comum transitado em julgado antes de iniciado o período de prova, no que imprópria a aplicação do referido artigo.
+    Postula, aludindo ao artigo 192 do Regimento Interno do Supremo, o deferimento da ordem individualmente para que seja desconstituído o acórdão formalizado no âmbito do Superior Tribunal Militar, assegurando-se ao paciente o direito a suspensão condicional da sanção imposta no processo nº 0000174-20.2011.7.07.0007, consoante decidido pelo Juízo. Sucessivamente, requer a concessão de liminar para suspender os efeitos da citada decisão até o exame final da impetração. No mérito, pretende a confirmação da providência e o implemento da ordem nos termos mencionados.
+    Consulta ao sítio do Superior Tribunal Militar revelou haver ocorrido o trânsito em julgado do ato condenatório em 19 de maio de 2016.
+    A fase é de apreciação da medida acauteladora.
+    2. Quanto ao deferimento da ordem, necessária é a observância do princípio da colegialidade, mostrando-se impróprio potencializar o disposto no artigo 192 do Regimento Interno do Supremo:
+    Art. 192. Quando a matéria for objeto de jurisprudência consolidada do Tribunal, o Relator poderá desde logo denegar ou conceder a ordem, ainda que de ofício, à vista da documentação da petição inicial ou do teor das informações.
+    Ao apreciar o cabimento do recurso em sentido estrito, à folha 307, o Juízo consignou que a condenação por crime militar deu-se em 22 de novembro de 2012, com trânsito em julgado no dia 2 de maio de 2014. Já o título condenatório formalizado no processo nº 0004974-21.2013.8.13.0990 – que tramitou na Justiça estadual comum – tornou-se irrecorrível em 1º de setembro de 2014, ou seja em data posterior à concessão da suspensão condicional da pena. A situação retratada revela ter a instância revisora atuado de acordo com o figurino legal, ante o artigo 614, inciso I, do Código de Processo Penal Militar.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 29 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
