@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. ACÓRDÃO DE TURMA RECURSAL FEDERAL QUE NEGOU SEGUIMENTO AO INCIDENTE DE UNIFORMIZAÇÃO REGIONAL. SUCEDÂNEO RECURSAL. INADEQUAÇÃO.
+1. A reclamação, tal como concebida nos arts. 105, I, "f", da Constituição Federal e 187 do RISTJ, é medida de caráter restrito destinada a preservar a competência do Tribunal ou garantir a autoridade das suas decisões, não servindo como medida destinada a avaliar o acerto ou desacerto das decisões proferidas pelo Tribunal de origem. No caso, fica evidenciado o não cabimento da presente reclamação, pois utilizada como sucedâneo recursal.
+2. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Assusete Magalhães e os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria, Francisco Falcão, Herman Benjamin, Napoleão Nunes Maia Filho e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 37):
+PROCESSUAL CIVIL. RECLAMAÇÃO. INSTRUÇÃO DEFICIENTE. RECLAMAÇÃO NÃO CONHECIDA.
+O agravante alega que "a falha na complementação da documentação necessária à instrução do feito, ocorreu em razão de que, quando do envio da peça inicial, o sistema do STJ apresentou problema na assinatura digital e na emissão do protocolo de envio, o que foi questionado em e-mail enviado ao respectivo setor de informática. No entanto, não houve retorno tempestivamente para que a parte pudesse sanar o erro. (Doc. anexo) Contudo, tendo em vista que o Código de Processo Civil (Lei 13.105/15) consagra uma regra geral de sanabilidade dos vícios dos recursos, disciplinando que o relator deverá conceder prazo de cinco dias para que a parte regularize a falha ou complemente a documentação exigida, antes de decidir pela inadmissibilidade (art. 932, parágrafo único) do pedido, requer seja reformada a respeitável decisão, a fim de oportunizar a parte autora para que complemente o pedido e junte a documentação faltante, conforme decisão." (fls. 51/52).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. ACÓRDÃO DE TURMA RECURSAL FEDERAL QUE NEGOU SEGUIMENTO AO INCIDENTE DE UNIFORMIZAÇÃO REGIONAL. SUCEDÂNEO RECURSAL. INADEQUAÇÃO.
+1. A reclamação, tal como concebida nos arts. 105, I, "f", da Constituição Federal e 187 do RISTJ, é medida de caráter restrito destinada a preservar a competência do Tribunal ou garantir a autoridade das suas decisões, não servindo como medida destinada a avaliar o acerto ou desacerto das decisões proferidas pelo Tribunal de origem. No caso, fica evidenciado o não cabimento da presente reclamação, pois utilizada como sucedâneo recursal.
+2. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque a presente reclamação apresenta vícios insanáveis, sendo a instrução ineficiente, apenas um deles, de modo que a juntada da decisão reclamada em nada mudaria o destino da presente reclamo. Em visita ao sítio do Tribunal Regional Federal da 4ª Região (https://www2.trf4.jus.br/trf4/controlador.php acao=consulta_processual_resultado_pesquisa&txtValor=50255841620164047100&selOrigem=TRF&chkMostrarBaixados), verifica-se que a decisão que ensejou a presente reclamação é oriunda da Turma Regional de Uniformização o que evidencia a utilização da reclamação como sucedâneo recursal.
+Nesse contexto, exsurge certo que o mecanismo de uniformização de jurisprudência e de submissão das decisões das Turmas Recursais ao crivo do Superior Tribunal de Justiça, no âmbito dos Juizados Especiais Federais, é o pedido de uniformização de jurisprudência, nas hipóteses do 14, § 4º, da Lei n. 10.259/2001, ou seja, quando contrariar a jurisprudência dominante ou súmula do Superior Tribunal de Justiça.
+Assim, mostra-se manifestamente inadmissível a utilização de reclamação. Neste sentido:
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. DECISÃO DE TURMA RECURSAL DE JUIZADO ESPECIAL FEDERAL. DESCABIMENTO.
+1. A Resolução 12/2009 do STJ foi editada em decorrência do que decidido pelo STF nos EDcl no RE 571.572/BA, no qual se decidiu que, diante da inexistência de previsão legal de órgão uniformizador da interpretação da legislação federal para os juizados especiais estaduais, o próprio Superior Tribunal de Justiça afastará a divergência com a sua jurisprudência.
+2. Nesses termos, não há lógica em estender a aplicação da Resolução 12/2009 relativamente às decisões das turmas recursais dos juizados especiais federais, em que a uniformização de interpretação de lei federal já está submetida ao regime da Lei 10.259/09.
+3. Por outro lado, não é cabível a reclamação do art. 105, I, f, da CF/1998 para fazer valer em situações concretas os precedentes do Superior Tribunal de Justiça, como se as suas decisões tivessem efeito vinculante, ou mesmo como sucedâneo de recurso. Precedentes.
+4. Agravo regimental a que se nega provimento. (AgRg na Rcl 11.830/RS, Rel. Min. Mauro Campbell Marques, Primeira Seção, DJe 30/4/2013)
+DIREITO PROCESSUAL. AGRAVO REGIMENTAL. RECLAMAÇÃO. RESOLUÇÃO Nº 12/2009/STJ, ART. 1º. ACÓRDÃO. TURMA RECURSAL DE JUIZADO ESPECIAL FEDERAL. INADEQUAÇÃO. SÚMULA. RECURSO REPETITIVO. INEXISTÊNCIA. LEI Nº 10.259/2001, ART. 14. RESOLUÇÃO Nº 10/2007/STJ. TURMA NACIONAL DE UNIFORMIZAÇÃO. SUSCITAÇÃO. INEXISTÊNCIA. QUESTÃO DE DIREITO PROCESSUAL. DESCABIMENTO.
+1. Agravo regimental interposto diante de decisão da Relatora que indeferiu liminarmente reclamação apresentada com suporte na Resolução nº 12/2009/STJ diante de acórdão originado de turma recursal de juizado especial federal.
+2. A hipótese de reclamação prevista pelo artigo 1º da Resolução nº 12/2009/STJ contempla os casos em que verificada divergência entre acórdão da lavra de turma recursal estadual e súmula ou entendimento firmado em recurso repetitivo por este Superior, não assim quando o julgado reclamado provier de turma recursal de juizado especial federal e for contrastado com precedente deste Tribunal que não represente enunciado sumular ou recurso repetitivo.
+3. Ainda que houvesse falar no recebimento da reclamação com base no artigo 14 da Lei nº 10.259/2001, regulamentada pela Resolução 10/2007/STJ, atinente às turmas recursais dos juizados especiais federais, registra-se que restaram desatendidos os requisitos consistentes na prévia suscitação do tema perante a Turma Nacional de Uniformização dos juizados especiais federais e no versar a questão direito material, já que o caso trata de tópico de direito processual.
+4. Agravo regimental desprovido. (AgRg na Rcl 21520/RS, Rel. Min. Marga Tessler - Juíza Federal Convocada do TRF 4ª Regiao, Primeira Seção, Dje 19/02/2015)
+Ainda, no mesmo sentido: Rcl 32367, Rel. Min. Mauro Campbell Marques, DJe 16/08/2016; Rcl 32338, Rel. Min. Luis Felipe Salomão, DJe 09/08/2016; Rcl 32169, Rel. Min. Paulo de Tarso Sanseverino, DJe 03/08/2016; e Rcl 31940, Rel. Min. Benedito Gonçalves, DJe 01/07/2016.
+Embargos de declaração de fls. 46/47 prejudicados pois opostos concomitantemente com o presente agravo interno.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
