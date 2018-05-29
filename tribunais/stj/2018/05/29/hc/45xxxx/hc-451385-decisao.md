@@ -1,0 +1,20 @@
+EMENTA
+HABEAS CORPUS. INDULTO. REQUISITO OBJETIVO. AFERIÇÃO. CONDENAÇÕES DIVERSAS. UNIFICAÇÃO E SOMA DAS PENAS. ARTS. 111 DA LEI DE EXECUÇÃO PENAL E 5º, I, 7º DO DECRETO N. 7.648/2011. CRIMES PRATICADOS E CONDENAÇÕES TRANSITADAS EM JULGADO PARA A ACUSAÇÃO ANTES DA PUBLICAÇÃO DO DECRETO CONCESSIVO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+DECISÃO
+A Defensoria Pública impetra este habeas corpus em nome de [NOME] (PEC n. 222.2008.15891), apontando constrangimento ilegal decorrente do julgamento do Agravo em Execução Penal n. 0029148-93.2016.8.08.003 pelo Tribunal de Justiça do Espírito Santo. Eis a ementa do acórdão ora impugnado (fl. 26):
+AGRAVO EM EXECUÇÃO - INDULTO - DECRETO Nº 7.648/2011 - UNIFICAÇÃO - GUIA DE EXECUÇÃO - SENTENÇA PENAL CONDENATÓRIA TRANSITADA EM JULGADO APENAS PARA A ACUSAÇÃO - PRECEDENTES DO STJ - RECURSO CONHECIDO E PROVIDO.
+1. O Superior Tribunal de Justiça, julgando casos que envolvem indulto natalino com redação legal idêntica à acima transcrita, firmou entendimento no sentido de que é defeso ao magistrado criar novas regras além das previstas no Decreto, bem como que para fins de contagem do requisito objetivo de concessão do benefício referente ao lapso temporal, deve ser considerada a totalidade das penas impostas, ainda que se trate de sentença condenatória transitada em julgado somente para a acusação.
+2. Assiste razão ao parquet, na medida em que as Sentenças condenatórias referentes às Guias não unificadas transitaram em julgado para a acusação antes da data limite estabelecida no Decreto em questão, de modo que deveriam ter sido consideradas para fins de unificação das penas e verificação do preenchimento dos requisitos para concessão do benefício.
+3. Recurso conhecido e provido. Sentença anulada. Retomo dos autos para nova verificação dos requisitos.
+Menciona a impetrante o seguinte (fls. 4/5):
+ ..  paira a discussão acerca da possibilidade do magistrado de 1ª instância ter reconhecido e concedido o benefício do indulto natalino ao Paciente, com base no Decreto Presidencial nº 7.648/2011, não levando em consideração as guias de execução penal nº 132075, 169878 e 176294, eis que as mesmas, até 25/12/2011, não foram objeto de somatório ou unificação de penas, posto que juntadas às guias pretéritas, respectivamente, em Abril de 2016 e Outubro de 2015.
+Segundo pretende o Ministério Público, as condenações que originaram as demais guias transitaram em julgado antes de 25/12/2011, ou seja, antes da publicação do Decreto nº 7.648/2011. Tal fato, pois si só, já seria suficiente para que os cálculos levassem em consideração a sanção aplicada naquelas sentenças.
+Argumenta que, no caso dos autos, a UNIFICACÃO das penas ocorreu em novembro de 2008, e as demais guias, por terem sido expedidas e recebidas APÓS 25 de dezembro de 2011, foram unificadas posteriormente, não constituindo, assim, óbice para a concessão do indulto ao apenado (fl. 8).
+Em caráter liminar, requer a suspensão dos efeitos do acórdão do Tribunal estadual e, ao final, busca a concessão da ordem para restabelecer a decisão do Juízo da execução que concedeu ao paciente o indulto nas Guias de Execução Penal n. 100865 e 100824.
+É o relatório.
+Inexiste, na espécie, patente constrangimento ilegal a ser reparado por meio deste habeas corpus.
+Como ressaltou a Corte local, o Superior Tribunal de Justiça, julgando casos que envolvem indulto natalino com redação legal idêntica à acima transcrita, firmou entendimento no sentido de que é defeso ao magistrado criar novas regras além das previstas no Decreto, bem como que para fins de contagem do requisito objetivo de concessão do benefício referente ao lapso temporal, deve ser considerada a totalidade das penas impostas, ainda que se trate de sentença condenatória transitada em julgado somente para a acusação (fl. 28).
+Além do precedente citado no corpo do julgado ora atacado, confira-se, por exemplo, este: HC n. 414.174/SP, Ministro Felix Fischer, Quinta Turma, DJe 30/11/2017.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
