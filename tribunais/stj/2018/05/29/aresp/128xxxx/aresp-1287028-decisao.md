@@ -1,0 +1,41 @@
+DECISÃO
+1. Cuida-se de agravo em recurso especial interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL contra decisão que não admitiu o seu apelo extremo, por sua vez manejado em face de acórdão proferido em ação de complementação acionária.
+Nas razões do recurso especial, a recorrente alega violação ao art. 170, § 1º, da Lei n. 6.404/76, enunciado da Súmula n. 371, do Superior Tribunal de Justiça; além de divergência jurisprudencial na matéria relacionada ao valor patrimonial da ação (VPA).
+DECIDO.
+2. Cinge-se a controvérsia trazida no recurso especial em se definir o valor patrimonial das ações a ser considerado no caso da chamada "dobra acionária".
+Com efeito, cumpre ressaltar que a coisa julgada formada no âmbito de ação em que se discutia apenas o direito à complementação acionária da telefonia fixa não atinge ação posterior ajuizada no âmbito da dobra acionária da telefonia celular.
+Nesse sentido, vale destacar que a matéria foi pacificada na Segunda Seção desta Corte, no julgamento do Recurso Especial n. 1.037.208/RS (julgado em 25/6/2008), sob a relatoria do Ministro Sidnei Beneti, quando se reconheceu que, quanto ao critério para o cálculo do valor patrimonial das ações, a dobra acionária segue o mesmo critério dos balancetes mensais aprovados:
+RECURSOS ESPECIAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INEXISTÊNCIA DE OMISSÕES. LEGITIMIDADE PASSIVA AD CAUSAM. INOCORRÊNCIA DE COISA JULGADA E DE PRESCRIÇÃO. VALOR PATRIMONIAL DA AÇÃO. DEBÊNTURES. DOBRA ACIONÁRIA.
+1. O art. 402 do atual Código Civil, referente a perdas e danos, para consideração do preço vigente atualizado das ações, carece do devido prequestionamento, pois não foi objeto de debate nos Acórdãos proferidos na apelação e nos embargos de declaração, sendo certo que não houve indicação de ofensa ao art. 535 do Código de Processo Civil nessa irresignação. Incide, portanto, a Súmula 211 desta Corte, inadmitido o Recurso Especial do autor quanto a essa matéria.
+2. A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+3. A legitimidade passiva da BRASIL TELECOM S/A, sucessora da CRT, decorre de ela haver celebrado o contrato de participação financeira com o nítido propósito de assumir obrigações.
+4. Para que se caracterize a coisa julgada, é necessária a identidade de três elementos, quais sejam, as partes, o pedido e a causa de pedir. In casu, só existe identidade quanto às partes, restando prejudicada a similitude dos demais elementos da ação, donde se afastar a coisa julgada no caso.
+5. Quanto à prescrição, conforme posicionamento desta Corte, o direito à complementação de ações subscritas decorrentes de contrato firmado com sociedade anônima é de natureza pessoal e, conseqüentemente, a respectiva pretensão prescreve no prazo previsto no artigo 177 do Código Civil revogado (artigo 205 do código vigente).
+6. Os dividendos são devidos à parte autora por se tratar de mera decorrência do reconhecido direito à subscrição das ações faltantes.
+7. No que concerne ao valor patrimonial da ação, previsto no artigo 170, § 1º, II, da Lei n. 6.404/76, trata-se de matéria já firmada no julgamento do Resp 975.834-RS, Rel. Min. HÉLO QUAGLIA BARBOSA, Rel. dos Embargos de Declaração o Min. ALDIR PASSARINHO JÚNIOR, estabelecendo-se que o valor patrimonial da ação é o da data em que efetuada sua integralização, constatado segundo o balancete mensal correspondente.
+8.- A chamada "dobra acionária" é devida, calculada segundo a correspondência do valor patrimonial da ação, estabelecido segundo o mesmo critério constante do Resp 975.834-RS, Rel. Min. HÉLIO QUAGLIA BARBOSA.
+9.- Recurso Especial do autor improvido e Recurso Especial da ré provido em parte.
+(REsp 1.037.208/RS, Rel. Min. Sidnei Beneti, Segunda Seção, DJe de 20/8/2008 - g.n.)
+A jurisprudência que se formou sobre o tema nesta Corte é uníssona no sentido de que, na chamada "dobra acionária", o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização (Súmula 371/STJ), ainda que, em processo anterior, tenha eventualmente logrado receber mais do que isso. A coisa julgada da telefonia fixa não atinge a questão da chamada "dobra acionária" da telefonia celular, se, no primeiro processo, esse pedido não foi feito, mas só depois, em ação própria.
+Nesse sentido, colaciono os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. PRINCÍPIO DA FUNGIBILIDADE. AGRAVO REGIMENTAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO DE AÇÕES. TELEFONIA MÓVEL. DOBRA ACIONÁRIA. TELEFONIA FIXA. COISA JULGADA. INEXISTÊNCIA. VALOR PATRIMONIAL DA AÇÃO. CRITÉRIO. SÚMULA N. 371/STJ.
+1. Admitem-se como agravo regimental embargos de declaração opostos a decisão monocrática proferida pelo relator do feito no Tribunal. Princípios da economia processual e da fungibilidade.
+2. Não se aplica a coisa julgada da telefonia fixa em demanda posterior por ações da telefonia móvel.
+3. Nos contratos de participação financeira destinados a habilitar os aderentes ao uso de linha telefônica, o valor patrimonial da ação deve ser fixado com base no balancete mensal do mês da integralização.
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no AREsp 251.742/RS, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 19/8/2014, DJe de 25/8/2014 - g.n.)
+--
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - DEMANDA POSTULANDO COMPLEMENTAÇÃO ACIONÁRIA DECORRENTE DE CONTRATO DE PARTICIPAÇÃO FINANCEIRA - DECISÃO MONOCRÁTICA DANDO PROVIMENTO AO RECLAMO, PARA ALTERAR O CRITÉRIO DE APURAÇÃO DO VALOR PATRIMONIAL DA AÇÃO. INSURGÊNCIA DO CONSUMIDOR.
+1. Valor patrimonial da ação. Nos contratos de participação financeira para aquisição de linha telefônica, a complementação acionária deve tomar como referência o VPA apurado com base no balancete do mês da integralização do capital (primeiro ou único pagamento realizado), nos termos da Súmula 371 desta Corte. O mesmo critério deve ser observado quando do cálculo da "dobra acionária" (telefonia celular), a qual não é alcançada pela coisa julgada formada no âmbito de demanda alusiva à telefonia fixa. Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no REsp 1.285.626/RS, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 15/10/2013, DJe de 29/10/2013 - g.n.)
+--
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DECLARATÓRIOS RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO ESPECIAL. DOBRA ACIONÁRIA. COISA JULGADA. AUSÊNCIA. PROCESSO DE CONHECIMENTO. CRITÉRIO DE CÁLCULO DO VALOR PATRIMONIAL DAS AÇÕES. BALANCETE MENSAL. SÚMULA 371/STJ. EMBARGOS ACOLHIDOS.
+1. A eg. Segunda Seção desta Corte, a partir do julgamento do REsp 975.834/RS, de relatoria do em. Ministro HÉLIO QUAGLIA BARBOSA (DJ de 26 de novembro de 2007), firmou orientação de que o contratante tem direito a receber a quantidade de ações correspondente ao seu valor patrimonial na data da contratação, apurado mediante balancete do mês do primeiro ou único pagamento.
+2. Em se tratando de ações decorrentes da dobra acionária, deve ser aplicado o mesmo critério, consubstanciado no balancete mensal (Súmula 371/STJ). Destarte, a coisa julgada formada no âmbito de ação em que se discutia apenas o direito à complementação acionária da telefonia fixa não atinge ação posterior ajuizada no âmbito da dobra acionária da telefonia celular.
+3. Embargos de declaração acolhidos para sanar a contradição apontada e considerar que, no cálculo do valor patrimonial das ações na dobra acionária, seja adotado o balancete do mês da respectiva integralização.
+(EDcl nos EDcl no REsp 1.276.160/RS, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 21/5/2013, DJe de 25/6/2013 - g.n.)
+Observa-se que o acórdão do Tribunal de origem encontra-se em desacordo com esse entendimento, merecendo reforma no ponto.
+3. Ante o exposto, conheço do agravo para dar provimento ao recurso especial, determinando que o valor patrimonial das ações referentes à chamada "dobra acionária" seja apurado com base no mês da integralização, considerando-se o correspondente balancete mensal.
+Mantida a sucumbência nos termos em que fixado na origem.
+Publique-se. Intimem-se.
