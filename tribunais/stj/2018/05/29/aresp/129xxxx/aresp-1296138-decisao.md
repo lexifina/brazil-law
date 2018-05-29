@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SUCUMBÊNCIA RECÍPROCA. PRETENSÃO DE REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo Município de Sorocaba em face de decisão do Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso contra acórdão assim ementado:
+apelação cível - Embargos à execução pretendendo a aplicação da Lei 11.960/2009 quanto a correção monetária - Sentença de parcial procedência dos embargos mantendo a correção monetária pelo INPC/IBGE (Tabela Pratica deste TJSP) - Recurso do apelante insistindo na correção monetária nos termos da Lei 11.960/2009  admissibilidade - Sentença reformada.
+Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões de recurso especial, sustenta a parte recorrente que o acórdão recorrido negou vigência ao art. 86 do CPC/2015, na medida em que "não poderia o Tribunal deixar de arbitrar honorários, o que a recorrente entende caber de forma integral".
+Apresentadas contrarrazões.
+A decisão agravada negou seguimento ao especial sob a compreensão de que incide a Súmula 7/STJ.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque não pretende revisar provas, mas sim a correta interpretação da legislação federal.
+Ofertada contraminuta.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Tendo o agravante impugnado o fundamento da decisão de inadmissibilidade, passo a análise do recurso especial.
+Compulsando os autos, observo que a Corte de Origem ao entender pela sucumbência recíproca, assentou os seguintes argumentos, verbis:
+Entendo também que mesmo adotando-se o valor calculado pela Lei nº 11960/2009, ainda houve sucumbência reciproca, pois os cálculos apresentados pelas partes divergiam do apresentado pelo Perito Judicial não só quanto a correção monetária, de modo que, cada parte arcara com as custas e despesas que efetuou, bem como com o pagamento de seus patronos, observada a gratuidade processual do embargado.
+Com efeito, a revisão do julgado de modo a acolher a pretensão do recorrente, demandaria incursão no conjunto probatório dos autos, inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ, segundo o qual "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DA EMPRESA. REGIME GERAL DA PREVIDÊNCIA SOCIAL. SALÁRIO-MATERNIDADE E FÉRIAS GOZADAS. SUCUMBÊNCIA. SÚMULA 7/STJ. 1. A Primeira Seção, no julgamento do REsp 1.230.957/RS, submetido à sistemática do art. 543-C do CPC e da Resolução STJ 8/2008, firmou orientação no sentido de que incide contribuição previdenciária sobre o salário-maternidade. 2. O pagamento de férias gozadas possui natureza remuneratória e salarial, nos termos do art. 148 da CLT, e integra o salário de contribuição. 3. O STJ tem entendimento firme no sentido de ser impossível rever o quantitativo em que autor e ré decaíram do pedido para fins de aferir a sucumbência recíproca ou mínima, por demandar reexame do conjunto fático-probatório dos autos, vedado pela Súmula 7/STJ. 4. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 1.495.385/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/02/2015, DJe 11/02/2015.) AGRAVO REGIMENTAL DE ALDA BARREIRA LEBRÃO. PROCESSUAL CIVIL. SUCUMBÊNCIA RECÍPROCA. READEQUAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 1. A verificação do quantitativo em que autor e ré decaíram do pedido, para fins de aferir a ocorrência de sucumbência recíproca ou mínima, como requer a parte agravante, implica reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, tendo em vista a circunstância obstativa decorrente do disposto na Súmula 7/STJ. 2. Agravo regimental não provido.  ..  (AgRg no Ag 1389495/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/06/2015, DJe 29/06/2015)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
