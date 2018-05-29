@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PLANO DE SAÚDE. AUTOGESTÃO. APLICAÇÃO DO CDC. ENTENDIMENTO EM DESARMONIA COM A JURISPRUDÊNCIA DO STJ.
+1. A Segunda Seção do STJ decidiu que não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo.
+2. O acórdão recorrido que não adota a orientação firmada pela jurisprudência do STJ merece reforma.
+3. Recurso especial parcialmente conhecido e, nessa parte, provido.
+DECISÃO
+Cuida-se de recurso especial interposto por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - CASSI, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 08/02/2017.
+Concluso ao gabinete em: 07/03/2018.
+Ação: declaratória de obrigação de fazer c/c reparação de danos morais, ajuizada por ELSA APARECIDA BARBOSA VENANCIO, em face de CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - CASSI, devido à negativa de cobertura de tratamento por "home care".
+Sentença: julgou procedente o pedido, para condenar a recorrente a pagar a recorrida o valor de R$ 10.000,00 a título de danos morais e ao pagamento das custas processuais e honorários advocatícios fixados em 10% do valor da condenação.
+Acórdão: negou provimento à apelação da recorrente e deu parcial provimento à apelação da recorrida, para majorar o valor da indenização por danos morais para R$ 20.000,00, nos termos da seguinte ementa:
+RECURSOS DE APELAÇÃO. Plano de Saúde. Obrigação de Fazer cumulada com reparação de danos. Recusa de cobertura para tratamento por home care 24 horas. Recomendação médica expressa. Tutela antecipada concedida. Demora para liberação do tratamento. Óbito do autor. Sentença de procedência. Condenação da ré por danos morais no importe de R$ 10.000,00. Insurgência. Entidade sem fins lucrativos. Sistema de autogestão. Afastamento. Infundada a tese de autogestão, cujo tratamento jurídico é distinto dos planos convencionais, permitindo a negativa operada. Inteligência da Súmula 100/TJ. Alegação de exclusão contratual e aplicação do princípio Pacta Sunt Servanda. Descabimento. Oferecimento de um plano alternativo ao paciente, pela operadora de saúde. Afronta direta ao Código de Defesa do Consumidor, à Lei 9656/98 e ao princípio da função social do contrato. Não cabe à operadora do plano de saúde a discussão acerca da terapêutica mais indicada ao paciente. Encargo próprio do médico que assistiu o autor. Aplicação do art. 47 CDC. Abusividade de cláusula excludente (art. 51, IV, do CDC). Recurso da autora. Pretensão à majoração da indenização por danos morais para R$ 30.000,00 e dos honorários advocatícios para 20% do valor da condenação. Parcial reforma. Danos morais majorados para R$ 20.000,00, mantidos os honorários sucumbenciais fixados. Precedentes desta Câmara. Recurso da ré a que se nega provimento e recurso da autora a que se dá parcial provimento.
+Recurso especial: alega violação dos arts. 844 e 944, do CC/02, bem como dissídio jurisprudencial. Sustenta a inaplicabilidade do CDC, por tratar-se de entidade de autogestão. Afirma que não cabe a indenização por danos morais, tendo em vista a ausência de nexo de causalidade. A reparação pelo dano moral, se existente, deveria constituir-se em quantia módica.
+Admissibilidade: o recurso foi admitido na origem pelo TJ/SP.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da não aplicação do Código de Defesa do Consumidor aos planos de saúde administrados por entidade de autogestão
+A Segunda Seção do STJ firmou entendimento segundo o qual "não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo" (REsp 1285483/PB, DJe 16/08/2016).
+O referido julgado restou ementado nos seguintes termos:
+RECURSO ESPECIAL. ASSISTÊNCIA PRIVADA À SAÚDE. PLANOS DE SAÚDE DE AUTOGESTÃO. FORMA PECULIAR DE CONSTITUIÇÃO E ADMINISTRAÇÃO. PRODUTO NÃO OFERECIDO AO MERCADO DE CONSUMO. INEXISTÊNCIA DE FINALIDADE LUCRATIVA. RELAÇÃO DE CONSUMO NÃO CONFIGURADA. NÃO INCIDÊNCIA DO CDC.
+1. A operadora de planos privados de assistência à saúde, na modalidade de autogestão, é pessoa jurídica de direito privado sem finalidades lucrativas que, vinculada ou não à entidade pública ou privada, opera plano de assistência à saúde com exclusividade para um público determinado de beneficiários.
+2. A constituição dos planos sob a modalidade de autogestão diferencia, sensivelmente, essas pessoas jurídicas quanto à administração, forma de associação, obtenção e repartição de receitas, diverso dos contratos firmados com empresas que exploram essa atividade no mercado e visam ao lucro.
+3. Não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo.
+4. Recurso especial não provido. (REsp 1285483/PB, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/06/2016, DJe 16/08/2016)
+Dessa forma, ao fundamentar o acórdão à luz do CDC, o TJ/SP contrariou o entendimento consolidado no âmbito da Segunda Seção do STJ, impondo-se o retorno dos autos ao Tribunal de origem para novo julgamento da controvérsia, restando prejudicadas as demais questões suscitadas no presente recurso.
+Forte nessas razões, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para afastar a incidência do CDC à hipótese e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos recursos de apelação.
+Publique-se. Intimem-se.
