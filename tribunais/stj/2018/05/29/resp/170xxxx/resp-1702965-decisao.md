@@ -1,0 +1,37 @@
+EMENTA
+DIREITO PRIVADO. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANOS DE SAÚDE. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. PLANO DE SAÚDE COLETIVO. APOSENTADORIA DO BENEFICIÁRIO. MANUTENÇÃO DA COBERTURA ASSISTENCIAL. DEVIDO O PAGAMENTO INTEGRAL DO VALOR MENSAL DO PRÊMIO. INTERPRETAÇÃO DO ART. 31 DA LEI 9.656/98. MENSALIDADE. POSSIBILIDADE DE VARIAÇÃO CONFORME AS ALTERAÇÕES NO PLANO PARADIGMA.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 do CPC/15.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. A jurisprudência desta Corte firmou-se no sentido de que "a melhor interpretação a ser dada ao caput do art. 31 da Lei n. 9.656/98, ainda que com a nova redação dada pela Medida Provisória 1.801/99, é a de que deve ser assegurada ao aposentado a manutenção no plano de saúde coletivo, com as mesmas condições de assistência médica e de valores de contribuição, desde que assuma o pagamento integral desta, a qual poderá variar conforme as alterações promovidas no plano paradigma, sempre em paridade com o que a ex-empregadora tiver que custear" (AgRg no AREsp 686.472/SP, 3ª Turma, DJe de 28/08/2015). Precedentes.
+5. Recurso especial parcialmente conhecido e provido.
+DECISÃO
+Cuida-se de recurso especial interposto por FORD MOTOR COMPANY BRASIL LTDA., fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 19/07/2016.
+Concluso ao gabinete em: 11/10/2017.
+Ação: declaratória c/c obrigação de fazer, ajuizada por [NOME], em face de BRADESCO SAÚDE S/A e de FORD MOTOR COMPANY BRASIL LTDA., na qual requereu a manutenção do convênio médico nas mesmas condições anteriormente estabelecidas.
+Sentença: julgou improcedente o pedido, visto que seria injustificada a irresignação do recorrido em pagar o plano de saúde com o valor ofertado, que efetivamente corresponderia à parte do empregado e parte da empregadora.
+Acórdão: deu parcial provimento à apelação interposta pelo recorrido, nos termos da seguinte ementa:
+PLANO DE SAÚDE COLETIVO - MANUTENÇÃO DE APOSENTADO - CERCEAMENTO DE DEFESA - Inocorrência. Não há cerceamento de defesa quando o julgamento da lide independe de dilação probatória. Elasticidade probatória que era mesmo despicienda, sendo suficientes ao julgamento os elementos que dos autos constam. Beneficiário de contrato coletivo de assistência médica. Pretensão de continuidade do vínculo, nas mesmas condições vigentes. Aplicação do art. 31 da Lei 9.656/98. Possibilidade. Na qualidade de aposentado, o apelante preenche os requisitos legais para permanecer mantido como beneficiário, juntamente com seus dependentes, nas mesmas condições de cobertura existentes quando da vigência do contrato de trabalho, desde que assuma o pagamento integral da prestação. Inaplicabilidade de novos parâmetros, a partir das faixas etárias dos beneficiários. Prêmio que deve corresponder unicamente ao que era descontado do autor, acrescido da cota-parte subsidiada pela ex-empregadora. Sentença reformada. Apelo provido em parte.
+Embargos de declaração: opostos pelo recorrente e por Bradesco Saúde S/A, foram rejeitados.
+Recurso especial: alega violação dos arts. 141, 371, 374, III, 408, 489, II, e 492 do CPC/15, do art. 31 da Lei 9.656/98, bem como divergência jurisprudencial.
+Além de negativa de prestação jurisdicional, aduz que "ofertou ao recorrido a opção pela manutenção do plano, sendo certo que o mesmo optou, ciente dos valores que lhe seriam cobrados, em permanecer ativo na apólice médica em questão" (e-STJ fl. 727/728). Contudo, após a permanência do recorrido no plano, o mesmo insurgiu-se contra o valor da parcela por pretender o pagamento "de mensalidades nos valores das contribuições efetuadas durante o pacto laboral" (e-STJ fl. 728). Sustenta que o recorrido deve arcar com o pagamento integral da mensalidade do plano de saúde.
+Admissibilidade: o recurso foi admitido na origem pelo TJ/SP.
+É O RELATÓRIO. DECIDO.
+- Julgamento CPC/15
+- Da violação do art. 489 do CPC/15
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+- Da fundamentação deficiente
+Os argumentos invocados pelo recorrente não demonstram como o acórdão recorrido violou os arts. 141, 371, 374, III, 408 e 492 do CPC/15, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 141, 371, 374, III, 408 e 492 do CPC/15, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da violação do art. 31 da Lei 9.656/98
+Quanto ao valor referente à mensalidade do plano de saúde que caberia ao recorrido suportar, o TJ/SP considerou o seguinte:
+Ou seja, o valor a ser pago para a manutenção do prêmio deve corresponder à somatória do descontado em folha de pagamento do autor com o valor subsidiado pela ex-empregadora, em patamar a ser aquilatado em sede de liquidação de sentença, expurgando-se a tabela etária apresentada pela apelada. (e-STJ fl. 465)
+(..)
+Isto é, a prestação integral não corresponde aos valores cobrados a partir de nova tabela etária, mas à somatória daquilo que era descontado da remuneração do empregado, acrescido ao valor que era subsidiado pela empresa à época da demissão. Tal valor deverá ser aferido em sede de liquidação de sentença, já que impossível aquilatação neste momento recursal. (e-STJ, fl. 648)
+Esta Corte já firmou posicionamento no sentido de que "a melhor interpretação a ser dada ao caput do art. 31 da Lei nº 9.656/1998, ainda que com a nova redação dada pela Medida Provisória nº 1.801/1999, é de que deve ser assegurada ao aposentado a manutenção no plano de saúde coletivo, com as mesmas condições de assistência médica e de valores de contribuição, desde que assuma o seu pagamento integral, que poderá variar conforme as alterações promovidas no plano paradigma, sempre em paridade com o que a ex-empregadora tiver que custear". (AgRg no AREsp 686.472/SP, 3ª Turma, DJe de 28/08/2015).
+Nesse sentido: AgInt nos EDcl no AREsp 1073880/SP, 4ª Turma, DJe de 19/06/2017; AgInt no REsp 1568324/SP, 4ª Turma, DJe de 19/05/2017; AgInt no AREsp 990.391/SP, 3ª Turma,DJe de 10/04/2017; e, AgRg nos EDcl no REsp 1497784/SP, 3ª Turma, DJe de 24/08/2015.
+Assim, o acórdão do TJ/SP destoou do entendimento adotado pelo STJ em relação ao valor da mensalidade do plano de saúde que cabe ao agravado suportar, na qual merece reforma apenas neste ponto.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, DAR-LHE PROVIMENTO, com fundamento no art. 253, parágrafo único, II, "c", do RISTJ, apenas para estabelecer que o recorrido deverá assumir o pagamento integral do plano de saúde, que poderá variar conforme as alterações promovidas no plano paradigma, sempre em paridade com o que a ex-empregadora tiver que custear.
+Publique-se. Intimem-se.
