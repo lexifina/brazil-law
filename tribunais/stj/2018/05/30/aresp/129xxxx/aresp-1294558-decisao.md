@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por TRIBO CARIOCA INDÚSTRIA E COMÉRCIO DE CONFECÇÕES LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alínea "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"ARRENDAMENTO MERCANTIL - Automóvel - Obrigações integralmente cumpridas pela arrendatária - Documento de transferência de propriedade do veículo não entregue pelo arrendador - Ação de obrigação de fazer cumulada com indenização por danos morais proposta pela arrendatária - Sentença de procedência - Apelo de ambas as partes - Obrigação de entrega do documento de transferência cumprida no curso do processo - Reconhecimento da procedência do pedido - Danos morais não caracterizados - Indenização inexigível - Ação procedente em menor extensão - Sucumbência recíproca - Arbitramento de sanção pecuniária na decisão que deferiu o pedido de tutela antecipada - Matéria atingida pela preclusão - Pedido de exclusão não conhecido - Apelação da autora desprovida, acolhida em parte a do réu" (fl. 374 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 395-397 e-STJ).
+No recurso especial (fls. 399-412 e-STJ), a ora recorrente apresenta julgados com o objetivo de comprovar a tese de que é cabível a indenização por danos morais em virtude da demora injustificada de entrega dos documentos e transferência da propriedade do veículo.
+Sustenta que o longo lapso de tempo de 4 (quatro) anos para obter a quitação do veículo, somados aos prejuízos ocasionados, frustrações e aborrecimentos são suficientes para caracterizar o abalo moral da pessoa jurídica.
+Contrarrazões apresentadas às fls. 416-445 (e-STJ).
+O Presidente do Tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+O recurso especial fundamentado em dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Com efeito, se a divergência não é notória, e nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso também pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INTERPRETAÇÃO DIVERGENTE. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. AGRAVO NÃO PROVIDO.
+1. Aplicabilidade do novo Código de Processo Civil, devendo ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O conhecimento do recurso especial interposto com amparo no art. 105, III, c, da CF exige, também, a indicação do dispositivo de lei federal, pertinente ao tema decidido, que supostamente teria sido objeto de interpretação divergente, sob pena de incidência da Súmula nº 284 do STF.
+3. A alegada afronta à lei federal não foi demonstrada com clareza, pois as razões recursais apresentadas se encontram dissociadas daquilo que ficou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula nº 284 do STF.
+4. Agravo interno não provido".
+(AgInt nos EDcl no AREsp 1085038/MA, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/9/2017, DJe 02/10/2017 - grifou-se).
+Ademais, nos termos dos artigos 1.029, § 1º do Código de Processo Civil de 2015 e do 255, § 1º do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na presente hipótese.
+Importante destacar, que não basta a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RETENÇÃO DE SALÁRIO PARA AMORTIZAÇÃO DE EMPRÉSTIMOS REALIZADOS COM A INSTITUIÇÃO FINANCEIRA. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. MATÉRIA FÁTICO-PROBATÓRIA.
+INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO IMPROVIDO.
+1. Na hipótese, o Tribunal de origem concluiu que não há falar em limitação dos descontos, uma vez que os débitos discutidos na presente ação já foram realizados e o autor não mantém mais sua conta bancária na instituição financeira. Referido fundamento, autônomo e suficiente para a manutenção do aresto recorrido, não foi enfrentado nas razões do recurso especial, o que atrai o óbice da Súmula 283 do STF.
+2. O eg. Tribunal de origem, à luz das circunstâncias fáticas da causa, concluiu pela não configuração de dano moral a ser indenizado pela instituição financeira que, diante da ausência de prova sobre eventual dano extrapatrimonial sofrido, afasta a lesividade da conduta. Destarte, no caso, a alteração das premissas fáticas adotadas demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do Superior Tribunal de Justiça.
+3. O apelo nobre interposto com fundamento na existência de dissídio pretoriano deve observar o que dispõem os arts. 541, parágrafo único, do CPC/1973 (1.029, § 1º, do CPC/2015) e 255, §§ 1º e 2º, do RISTJ. Na hipótese, contudo, a parte recorrente deixou de mencionar as circunstâncias que identificam ou assemelham os acórdãos confrontados, de modo que não ficou evidenciada a sugerida divergência pretoriana.
+4. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1.068.570/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 24/10/2017, DJe 31/10/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. ESPECIAL INTERPOSTO PELA ALÍNEA "C". DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015), o que não foi observado no caso, fazendo incidir a Súmula n. 284/STF, aplicada por analogia. Precedentes.
+2. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1.086.408/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/10/2017, DJe 30/10/2017 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INVENTÁRIO. REMOÇÃO DO INVENTARIANTE. 1. ALEGADA OMISSÃO NÃO CONFIGURADA. 2. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. 3.
+DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. 4. AGRAVO INTERNO IMPROVIDO.
+1. Registro que, apesar de rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão dos recorrentes.
+2. A Corte de origem, soberana na apreciação dos fatos, entendeu que, dadas as circunstâncias fáticas da causa, o mais conveniente ao progresso do inventário foi a remoção da inventariante [NOME], uma vez que esta estaria tumultuando o andamento processual e causando o prolongamento da demanda. Rever tal conclusão demanda o reexame do conjunto fático-probatório.
+3. "A remoção do inventariante, substituindo-o por outro, dativo, pode ocorrer quando constatada a inviabilização do inventário pela animosidade manifestada pelas partes" (REsp n. 988.527/RS, Rel.
+Ministro Aldir Passarinho Junior, Quarta Turma, julgado em 24/3/2009, DJe 11/5/2009).
+4. O dissenso pretoriano não ficou demonstrado por meio do cotejo analítico, conforme exigem os arts. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 2º, do Regimento Interno do Superior Tribunal de Justiça, uma vez que os acórdãos recorrido e paradigmas não possuem similitude fática.
+5. Agravo interno improvido".
+(AgInt no AREsp 882.010/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/11/2016, DJe 24/11/2016)
+Ante o exposto, conheço agravo para não conhecer do recurso especial.
+"Na origem, havendo sucumbência recíproca, em que cada parte se responsabiliza pelos honorários do seu respectivo patrono, sem a fixação de valores, é inaplicável o disposto no art. 85, § 11, do Código de Processo Civil de 2015" (EDcl no AgInt no AREsp 1.080.730/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 3/4/2018, DJe 10/4/2018).
+Publique-se.
+Intimem-se.
