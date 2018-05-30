@@ -1,0 +1,30 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão proferido pelo Tribunal Superior Eleitoral, assim ementado:
+    “ELEIÇÕES 2016. REGISTRO DE CANDIDATO. DEFERIMENTO. PREFEITO. REJEIÇÃO DE CONTAS.
+    1. A suspensão dos efeitos da decisão de rejeição de contas pela Justiça competente é o que basta para afastar a inelegibilidade. Precedentes.
+    2. Não cabe discutir, em sede de registro de candidatura, a viabilidade ou não da demanda proposta na Justiça Comum, sendo suficiente, para afastar a inelegibilidade, a existência de decisão que tenha suspendido os efeitos da rejeição de contas. Incidência da Súmula 41 do TSE.
+    3. Compete ao Tribunal de Contas da União fiscalizar e julgar as prestações de contas de convênio relativos a repasses de recursos federais feitos aos estados, ao Distrital e aos Municípios (CF, art. 71, VI).
+    4. Compete aos tribunais de contas estaduais fiscalizar e julgar as prestações de consta relativas a repasses de recursos estaduais feitos aos municípios.
+    5. A hipótese dos autos revela análise de convênios firmados apenas no âmbito da municipalidade, sem envolver outros entes da Federação, com repasse apenas de recursos municipais a entidades privadas. Situação que se assemelha a atos de gestão do prefeito municipal, cujo julgamento, por força do entendimento do Supremo Tribunal Federal, compete à câmara de vereadores. Ressalva do entendimento do relator.
+    Recurso especial a que se nega provimento.”
+    Opostos embargos de declaração, foram acolhidos “apenas para prestar esclarecimentos, sem alteração do resultado de julgamento.”
+    O recurso extraordinário ampara-se em alegadas violações dos artigos 5º, inciso XXXVI, 31, § 1º, 71, incisos I, II e VI, e 75, parágrafo único, da Constituição Federal.
+    Opina o Ministério Público Federal, em parecer da lavra do ilustrado Subprocurador-Geral da República Dr. Carlos Alberto Vilhena, pelo desprovimento do agravo.
+    Decido.
+    Colhe-se do voto condutor do acórdão recorrido a seguinte fundamentação:
+    “Nos termos do aresto regional, a decisão do órgão legislativo foi suspensa pela Justiça Comum, o que é suficiente para o afastamento da inelegibilidade da alínea g do inciso I do art. 1º da LC 64/90.
+    (…).
+    Tal entendimento vai ao encontro da orientação jurisprudencial desta Corte, firmada no sentido de que ‘a obtenção de medida liminar ou de antecipação de tutela que suspenda os efeitos de decisão de rejeição de contas tem o condão de afastar a causa de inelegibilidade prevista no art. 1º, inciso I, alínea g, da Lei Complementar nº 64/90, com redação dada pela Lei Complementar nº 135/10’ (AgR-REspe 301-02, rel Min, Laurita Vaz, PSESS em 12.12.2012).
+    (…).
+    Por outro lado, diante da existência da decisão judicial que suspende os efeitos da rejeição de contas, não compete à Justiça Eleitoral examinar se ela foi bem ou mal proferida, conforme expresso na Súmula 41 deste Tribunal. Os eventuais vícios processuais relativos à ação que tramita perante a Justiça Comum, inclusive aqueles relativos à composição do polo passivo da demanda, não são passíveis de análise e decisão no processo de registro de candidatura”.
+    Assim, o acolhimento da pretensão recursal não prescinde do reexame da legislação eleitoral de regência e do conjunto fático-probatório dos autos, o que não se mostra cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636/STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ELEITORAL. REGISTRO DE CANDIDATURA. INELEGIBILIDADE. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA AFRONTA AO ART. 5º, INCS. XXXVI E LIV, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 880.244/DF-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 31/7/2015).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ELEITORAL. INDEFERIMENTO DO REGISTRO DE CANDIDATURA. REJEIÇÃO DE CONTAS. AUSÊNCIA DE PRÉVIO PREQUESTIONAMENTO DA TESE VEICULADA PELO RECORRENTE. CONTROVÉRSIA SOBRE O PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL ELEITORAL. AUSÊNCIA DE REPERCUSSÃO GERAL. Nos termos da jurisprudência da Corte, a controvérsia relativa ao preenchimento dos pressupostos de admissibilidade de recursos da competência de outros tribunais não possui repercussão geral (RE 598.365-RG, Rel. Min. Ayres Britto). Considerando que a pretensa decisão liminar que suspendia os efeitos da decisão de rejeição das contas não foi sequer mencionada pelas instâncias ordinárias, o acolhimento da pretensão demandaria o revolvimento de fatos e provas, o que atrai a aplicação da Súmula 279/STF. Agravo regimental a que se nega provimento” (ARE nº 845.108/DF-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 12/3/15).
+    “AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO. RECURSO EXTRAORDINÁRIO EM MATÉRIA ELEITORAL E OFENSA REFLEXA. - A alegação de ofensa ao texto constitucional, cuja invocação reclame exame prévio e necessário da legislação comum (ordinária ou complementar), mesmo que se trate de matéria eleitoral, não viabiliza o trânsito do recurso extraordinário, eis que a verificação de desrespeito à Constituição Federal dependerá, sempre, da análise do Código Eleitoral, da Lei de Inelegibilidade e de outros diplomas legislativos equivalentes. Precedentes.” (AI nº 761.324/MG-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 25/3/2010).
+    Ante o exposto, nos termos do artigo 21, § 1º do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
