@@ -1,0 +1,15 @@
+DECISÃO
+Vistos etc.
+Trata-se de conflito de competência suscitado por PRIORE NEGÓCIOS IMOBILIÁRIOS LTDA, PDG REALTY S/A EMPREENDIMENTOS E PARTICIPAÇÕES e ASACORP EMPREENDIMENTOS E PARTICIPAÇÕES LTDA, todas em recuperação judicial, em face do JUÍZO DE DIREITO DA 1A VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP, no qual tramita os autos da recuperação judicial das empresas, e do JUÍZO DA 2A VARA DO TRABALHO DE JUIZ DE FORA - MG, no qual tramita a reclamação trabalhista n.º 0001707-32.2013.5.03.0036 movida por [NOME].
+A suscitante postulou, em razão da competência universal do juízo da recuperação para decidir as questões tendentes a afetar o patrimônio da recuperanda, a suspensão da execução em trâmite na Justiça do Trabalho, bem assim a declaração da competência do Juízo Estadual suscitado.
+Deferido o pedido liminar, foi sobrestada a execução trabalhista, designando-se, temporariamente, o juízo da recuperação para decidir sobre as medidas urgentes.
+Expedidos ofícios aos suscitados, foram prestadas as devidas informações pelo juízo do trabalho.
+A Administradora Judicial, às fls. 244/1398 e-STJ, esclarece que "não consta crédito em nome do Sr. FELIPE na relação de credores prevista no art. 7º, §2º da LRE (doc. 4), cabendo ao interessado, se o caso, promover a habilitação de seu crédito nos autos da Recuperação Judicial, observado o valor apurado perante o Juízo Trabalhista, nos termos dos arts. 6º, §2º, e 10 e ss da LRE."
+Parecer do MPF opinando pela extinção do conflito em virtude da perda superveniente de seu objeto.
+É o relatório.
+Decido.
+Considerando as informações prestadas pelo Juízo do Trabalho suscitado no sentido de que "(..) diante deste cenário, tendo como norte o Princípio da Preservação da Empresa, e visando à eficácia do plano de recuperação judicial homologado na data de 30/11/2017, curvo-me aos posicionamentos citados, e revejo a determinação anteriormente exarada, para reconhecer a transferência da competência ex ratione para a Justiça Comum, mais precisamente, para o Juízo da 1ª Vara de Falências e Recuperações Judiciais de São Paulo - SP, no qual deverão concentrar-se todas as execuções com crédito liquidado, em prol da viabilização do escopo da recuperação judicial, até que se ultime o plano de recuperação judicial aprovado pela autoridade judicial competente. Sendo assim, revoguei a decisão proferida, para determinar a suspensão da execução trabalhista. Da mesma forma, revi a ordem de liberação, ao credor, dos valores bloqueados através do BACENJUD, precipuamente, porque a constrição ocorreu após o deferimento da recuperação judicial, e determinei seja o numerário transferido para o Juízo da 1ª Vara de Falências e Recuperações Judiciais de São Paulo - SP" (e-STJ fls. 240/241), deve-se extinguir o presente conflito.
+Ante o exposto, julgo extinto o presente conflito de competência por perda superveniente de objeto.
+Revogo a liminar concedida às fls. 228/230 (e-STJ).
+Expeçam-se ofícios aos Juízos envolvidos no conflito, com cópia da decisão.
+Intimem-se.
