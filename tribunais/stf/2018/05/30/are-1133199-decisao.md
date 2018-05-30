@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região, ementado nos seguintes termos:
+    “TRIBUTÁRIO. BASE DE CÁLCULO. IMPOSTO DE RENDA DA PESSOA JURÍDICA. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. CRÉDITO PRESUMIDO DE IPI. LEI 9.363/96. LEGALIDADE DA INCLUSÃO.
+    1. Consoante entendimento consolidado pelo Superior Tribunal de Justiça, o "crédito presumido de IPI previsto no art. 1º da Lei 9.363/96 integra a base de cálculo do IRPJ e da CSLL." (AgRg no REsp 1.467.009/RS, Relator Ministro HERMAN BENJAMIN, Segunda Turma, j. 25/11/2014, DJe 04/12/2014).
+    2. Precedentes do STJ e deste Tribunal.
+    3. Apelação a que se nega provimento”. (eDOC 3, p. 24)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos artigos 5º, LV; 93, IX; 150, I, 153, III; e 195 do texto constitucional. (eDOC 3, p. 81)
+    Nas razões recursais, defende-se a exclusão do PIS e da COFINS da base de cálculo do IRPJ e da CSLL. (eDOC 3, p. 82/87; eDOC 4, p. 1 e 7-9)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico a deficiência da fundamentação do recurso extraordinário, tendo em vista a ausência de impugnação específica dos fundamentos da decisão recorrida, no âmbito da qual não houve debate acerca da pretendida exclusão do PIS e da COFINS da base de cálculo do IRPJ e da CSLL.
+    Com efeito, o Tribunal a quo limitou-se a discutir a inclusão do crédito presumido de IPI na base de cálculo do IRPJ e da CSLL. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A matéria atinente à legalidade da inclusão de valores relativos a créditos presumidos do IPI na base de cálculo do IRPJ e da CSLL foi consolidada pelo E. Superior Tribunal de Justiça, que de forma iterativa vem assim se manifestando, conforme arestos que colho,  verbis: ‘TRIBUTÁRIO. BASE DE CÁLCULO DO IMPOSTO DE RENDA DA PESSOA JURÍDICA E DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. CRÉDITO PRESUMIDO DE IPI. LEGALIDADE DA INCLUSÃO.(...)’”. (eDOC 3, p. 22)
+    Vislumbra-se, portanto, a deficiência da fundamentação do recurso extraordinário, tendo em vista que suas razões estão dissociadas da matéria versada no acórdão impugnado. Desse modo, incide no caso a Súmula 284 do Supremo Tribunal Federal. Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ANISTIA. MILITAR EXPULSO COM BASE NA LEGISLAÇÃO DISCIPLINAR ORDINÁRIA. SÚMULAS 284 E 674/STF. PRECEDENTES. As razões apresentadas no recurso extraordinário estão dissociadas dos fundamentos do acórdão que impugnou. Nessas condições, a hipótese atrai a incidência da Súmula 284/STF. A decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência desta Corte consolidada na Súmula 674/STF: A anistia prevista no art. 8º do Ato das Disposições Constitucionais Transitórias não alcançam os militares expulsos com base em legislação disciplinar ordinária, ainda que em razão de atos praticados por motivação política. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento.” (ARE-AgR 833.932, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 18.11.2014)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COMPETÊNCIA JURISDICIONAL. SERVIDOR PÚBLICO. DEFINIÇÃO DO REGIME JURÍDICO DA RELAÇÃO DE TRABALHO (CELETISTA OU ESTATUTÁRIO). RAZÕES RECURSAIS DISSOCIADAS DO JULGADO RECORRIDO. SÚMULA 284 DO STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 279. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE-AgR 575.933, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 13.2.2014)
+    Vale destacar que a afirmação do recorrente, em suas razões do agravo, no sentido de que a exclusão dos tributos mencionados da base de cálculo do IRPJ e CSLL são todas abarcadas por discussão comum, não tem o condão de sanar o óbice da orientação sumulada desta Corte, o que se constata da mera leitura das razões do recurso extraordinário em completo descompasso com a moldura fática delineada pela instância de origem. (eDOC 4, p. 60)
+    Ademais, no tocante à suposta violação aos princípios do devido processo legal, do contraditório e da ampla defesa, verifico que o Supremo Tribunal Federal já apreciou essa matéria no julgamento do ARE-RG 748.371 (Tema 660), oportunidade em que rejeitou a repercussão geral, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    Por último, ressalto que, no tocante à suposta violação à exigência de fundamentação das decisões, observa-se que não há que se falar de violação ao aludido princípio, uma vez que houve prestação jurisdicional com decisão fundamentada, ainda que em sentido diverso daquele intentado pelo ora recorrente.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC/2015, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
