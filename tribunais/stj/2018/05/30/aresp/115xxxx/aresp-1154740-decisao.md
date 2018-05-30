@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MÔNICA [NOME]. O apelo extremo, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. CONSUMIDOR. ANÚNCIO. OFERTA DE ELETRODOMÉSTICO COM PAGAMENTO A PRAZO. POSTERIOR EXIGÊNCIA DE PAGAMENTO À VISTA DE VALOR CORRESPONDENTE A 60% DO PREÇO DO PRODUTO. VINCULAÇÃO DA OFERTA AO CONSUMIDOR. ART. 30 E SEGUINTES DO CDC. CONDUTA IRREGULAR. AUSÊNCIA, ENTRETANTO, DE COMPROVAÇÃO DO ALEGADO DANO MORAL. FATOS DESCRITOS NA INICIAL QUE NÃO EVIDENCIAM SITUAÇÃO ABUSIVA E CAUSADORA DE EXTREMA HUMILHAÇÃO OU INCÔMODO AO CONSUMIDOR. MERO ABORRECIMENTO DO COTIDIANO. RECURSO CONHECIDO E DESPROVIDO.
+A teor do que preceitua o art. 30 do CDC, "toda informação ou publicidade, suficientemente precisa, veiculada por qualquer forma ou meio de comunicação com relação a produtos e serviços oferecidos ou apresentados, obriga o fornecedor que a fizer veicular ou dela se utilizar e integra o contrato que vier a ser celebrado". Assim, a oferta publicitária feita pelo fornecedor, de forma suficientemente precisa, e aceita pelo consumidor, sujeita-o ao seu cumprimento nos temos anunciados.
+Para a configuração do dano moral o sofrimento de quem se diz ofendido deve ultrapassar a linha da normalidade, atingindo sobremaneira a reputação, a honra ou a integridade moral do indivíduo e o seu comportamento psicológico. Não merece indenização o simples desagrado, a irritação ou o aborrecimento do outro diante de situação cotidiana ou de mero inadimplemento contratual no qual não se verificou nenhuma abusividade suscetível de causar à parte grave constrangimento" (fl. 152, e-STJ).
+A recorrente alega violação dos artigos 6º, III e IV, 30 e 31 do Código de Defesa do Consumidor. Sustenta que a empresa violou os direitos básicos do consumidor, de informação adequada e clara sobre produtos e serviços e proteção contra a publicidade enganosa. Aduz que ficou demonstrado que as empresas recorridas deixaram de prestar o serviço alegado na oferta, tratando com descaso a consumidora (fls. 165/172, e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Com efeito, assim decidiu o tribunal de origem:
+"(..) ainda que se tenha configurado a conduta irregular do apelado, não ficou comprovado nos autos o alegado dano moral sofrido pela parte autora.
+O dano moral é indenizável, pretensão que encontra suporte nos artigos 186 e 944 do Código Civil. Entretanto, não é qualquer ato ou situação que é capaz de causar o abalo moral. Para a sua configuração, o sofrimento de quem se diz ofendido deve ultrapassar a linha da normalidade, atingindo sobremaneira a reputação, a honra ou a integridade moral do indivíduo e o seu comportamento psicológico. Não merece indenização o simples desagrado, a irritação ou o aborrecimento diante de uma situação cotidiana, devendo-se distinguir lesão a atingir a pessoa e mero desconforto. Em complementação o doutrinador Sérgio Cavalieri Filho leciona sobre a configuração do dano moral.
+(..)
+É certo que o comerciante agiu de maneira irregular - ainda que não tenha causado efetivamente o dano moral ao autor, como mencionado, e deveria ser punido por isso. Porém, analisando-se o subsistema de tutela dos direitos do consumidor criado pela Lei n. 8.078/90, observa-se que a culpa grave ou a conduta altamente reprovável por parte do fornecedor não são fato suficiente para, por si só, autorizar a indenização em favor da parte lesada ou submetida a risco de lesão" (e-STJ fls. 158/160).
+Nesses termos, alterar tal conclusão exigiria o reexame de provas, inviável na estreita via do recurso especial (Súmula nº 7/STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Em atendimento ao disposto no art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários fixados na origem em 800,00 (oitocentos reais - fl. 125 e-STJ) para 1.000,00 (um mil reais).
+Publique-se.
+Intimem-se.
