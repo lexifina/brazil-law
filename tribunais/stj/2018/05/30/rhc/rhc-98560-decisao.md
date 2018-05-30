@@ -1,0 +1,17 @@
+DECISÃO
+GEORGE [NOME] [NOME] e [NOME], ora recorrentes, alegam sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul no Habeas Corpus n. 0041827-54.2018.8.21.7000.
+Consta dos autos que os recorrentes, junto com outras pessoas, foram presos em flagrante. O primeiro recorrente foi denunciado pela suposta prática dos crimes previstos no art. 288, parágrafo único, e 180, caput, ambos do Código Penal e art. 16, parágrafo único, IV, da Lei n. 10.826/2003, enquanto que o segundo recorrente foi denunciado pela delito previsto no art. 288, parágrafo único, do Código Penal e art. 16, parágrafo único, IV, da Lei n. 10.826/2003.
+Sustentam, em síntese, ausência dos requisitos previstos no art. 312 para a decretação da prisão preventiva e excesso de prazo para encerramento da instrução criminal.
+Decido.
+Inicialmente, verifico a prejudicialidade deste recurso em relação a [NOME], uma vez que, em 30/4/2018, foi posto em liberdade.
+Em relação a [NOME], pela análise dos autos, ao menos em um juízo perfunctório, não verifico plausibilidade jurídica no pedido formulado, razão pela qual a medida de urgência não deve ser deferida.
+Primeiramente, porque, segundo consignou o Juízo de primeiro grau, "os flagrados estavam na cidade de Butiá a fim de realizar homicídio a mando de facção criminosa" (fl. 510), além do que, "[NOME] é reincidente, ostentando crime de roubo e porte ilegal de arma de fogo" (fl. 535).
+A jurisprudência desta Corte Superior é firme em assinalar que "a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar" (RHC n. 76.929/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe 29/11/2016).
+Por fim, há de se observar que o caso envolve 4 réus, em processo que apresenta, a um primeiro olhar, regular andamento na origem, com audiência de instrução designada para o dia 8/6/2018 (informação obtida no sítio do Tribunal de origem).
+Confira-se:
+ ..  de acordo com as informações, os pacientes foram presos em flagrante em 20.05.2017, tendo sido, no dia seguinte, o auto homologado e convertido em prisão preventiva; em 22.06.2017 foi oferecida denúncia, recebida em 12.07.2017, mesma data em que determinada a citação dos pacientes; a resposta à acusação dos pacientes foi apresentada em 24.10.2017, sendo que nela havia pleito de liberdade provisória, que, após vista ao Ministério Público, restou indeferido, em 20.11.2017; em 06.02.2018, foi formulado novo pedido de revogação da prisão preventiva dos pacientes, o qual restou indeferido em 14.02.2018 (fl. 767).
+Nessa quadra, consoante o entendimento desta Corte Superior e do Supremo Tribunal Federal, "A complexidade da causa penal e o caráter multitudinário do litisconsórcio penal passivo podem justificar eventual retardamento na conclusão do processo penal condenatório, desde que a demora - motivada por circunstâncias e peculiaridades do litígio e desvinculada de qualquer inércia ou morosidade do aparelho judiciário - mostre-se compatível com padrões de estrita razoabilidade. Precedentes (HC n. 107.808/CE, Rel. Ministro Celso de Mello, 2ª T., DJe 12/8/2011).
+À vista do exposto, indefiro a liminar.
+Solicitem-se informações ao Juízo de primeiro grau.
+Em seguida, encaminhem-se os autos ao Ministério Público Federal, para manifestação.
+Publique-se e intimem-se.
