@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. ARTIGO 535, II, DO CPC/1973. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 3ª Região, assim ementado (fls. 887/888):
+ADMINISTRATIVO. PROCESSUAL CIVIL. CONVÊNIO.
+INSTITUIÇÃO FINANCEIRA. PREVIDÊNCIA SOCIAL. SERVIÇO DE ARRECADAÇÃO E PAGAMENTO DE BENEFÍCIOS PREVIDENCIÁRIOS. ILEGITIMIDADE PASSIVA DA UNIÃO FEDERAL. PRESCRIÇÃO QUINQUENAL. DECRETO N.O 20.910/32.
+SALDO DEVEDOR. CUSTO DE LIQUIDEZ. PRINCÍPIO DA BOA-FÉ OBJETIVA. TEORIA DO VENIRE CONTRA FACTUM PROPRIUM.
+VEDAÇÃO DE COMPORTAMENTO CONTRADITÓRIO. QUITAÇÃO TÁCITA DOS JUROS DEVIDOS. HONORÁRIOS ADVOCATICIOS.
+1. O INSS, autarquia federal cuja criação foi autorizada pela Lei n.2 8.029/90, e sucessora do IAPAS e do INPS, goza de autonomia funcional, administrativa e financeira, além de possuir patrimônio e dotação orçamentária próprios, razão pela qual deve ser reconhecida a ilegitimidade passiva ad causam da União Federal.
+2. No tocante à prescrição, considerando-se que a presente demanda não possui natureza tributária, aplica-se a regra prevista no Decreto n.0 20.910/32 que prevê o prazo prescricional quinquenal, contado da data da propositura da ação, estando prescritos os valores eventualmente devidos no quinquídio anterior à propositura da demanda (12/01/1989).
+3. No caso vertente, a parte autora comprometeu-se a prestar os serviços de arrecadação e pagamento de benefício previdenciário, sendo que, nos termos da cláusula XVIII, do convênio firmado, quando o saldo ficasse devedor, estaria o extinto lAPAS sujeito ao pagamento de custo equivalente ao cobrado pelo Banco Central do Brasil em suas operações de liquidez, tendo a parte autora recebido valores substancialmente inferiores ao convencionado, haja vista que a adoção de índices diversos.
+4. Embora a parte autora alegue a aludida irregularidade quanto ao pagamento efetuado, cumpre ressaltar que, durante toda a vigência do convênio, em nenhum momento questionou o procedimento adotado pela autarquia previdenciária, mesmo tendo a possibilidade de denunciar o convênio em questão, o que demonstra, indubitavelmente, sua aquiescência tácita.
+5. Pela leitura do disposto nos artigos 993, do Código Civil de 1916 e 250, do Código Comercial, vigentes à época, nota-se que o pagamento e o recebimento, sem qualquer ressalva por parte da instituição financeira, implicam quitação quanto aos juros incidentes sobre o principal, em homenagem ao princípio da boa-fé objetiva e à teoria do venire contra factum proprium, segundo a qual é vedado o comportamento contraditório nas relações contratuais.
+6. Tendo em vista o valor da causa, os honorários advocatícios devidos à União Federal devem ser limitados ao patamar de R$ 20.000,00 (vinte mil reais), nos termos do art. 20, § 40, do CPC e da jurisprudência desta C.
+Turma, mantida, à mingua de impugnação, a condenação da parte autora ao pagamento dos honorários advocatícios ao INSS, nos termos do fixado pela r. sentença.
+7. Apelação parcialmente provida.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 535, II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito da seguinte questão: "O Recorrente realizou ressalvas quando do recebimento de valores pagos pelo Recorrido, ressalvas estas realizadas através da Federação Brasileira de Bancos e. Federação Nacional dos Bancos, nos termos da cláusula XXI do convênio celebrado entre as partes" (fl. 919).
+Quanto às questões de fundo, sustenta ofensa aos artigos 250 do Código Comercial, 993 do CC/1916, 844 do CC/2002 e 20, § 4º, do CPC/1973 e dissídio jurisprudencial, sob os seguintes argumentos:
+(a) "claramente inaplicável ao presente embate o artigo 250 do Código Comercial e o artigo 993 do Código Civil de 1.916, o quais foram utilizados pelo V. acórdão recorrido de forma indevida, para fundamentar a existência de aquiescência tácita e de presunção de quitação dos valores exigidos através da presente demanda pela ausência de ressalva, pelo Recorrente, quanto aos valores recebidos a menor, com base nos "custos de liquidez" divulgados pelo banco Central do Brasil" (fl. 923);
+(b) ao manter a improcedência da demanda, bem como deixar de condenar a recorrida ao pagamento dos valores que deixou de pagar à instituição financeira, o acórdão recorrido causou o enriquecimento sem causa da Autarquia Previdenciária, que, de forma ilegal e injustificável, não terá de arcar com a verba remuneratória que lhe competia, nos termos do convênio firmado entre as partes e integralmente cumprido pelo recorrente;
+(c). Requer a redução da verba honorária fixada, posto considerá-la exorbitante, tendo em vista ter sido fixada em valor equivalente a 10% (dez por cento) sobre R$ 49.073.464,70 (quarenta e nove milhões setenta e três mil quatrocentos e sessenta e quatro reais e setenta centavos).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 959/960.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da seguinte questão (fls. 890/891):
+"o Embargante questionou, sim, e por diversas vezes, os pagamentos a menor que vinham sendo realizados pelo IAPAS, o que ocorreu através de protestos realizados pela Federação Brasileira das Associações de Bancos - FEBRABAN e a Federação Nacional dos Bancos - FENABAN, nos termos da cláusula XXI do Convênio que embasa a presente ação.
+Tais protestos foram realizados por quem detinha competência para fazê-lo, nos termos do Convênio celebrado entre as partes. No entanto, não foram reconhecidos pelo MM. Juizo de primeiro grau".
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 535, II, do CPC/1973, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+Prejudicada a análise das demais questões.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
