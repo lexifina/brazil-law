@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, na vigência do CPC/2015, contra decisão do Tribunal Regional Federal da 2ª Região, que inadmitiu Recurso Especial interposto contra acórdão assim ementado:
+"REMESSA E APELAÇÃO CÍVEL. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. APLICAÇÃO DO NOVO TETO ESTABELECIDO PELA EMENDA CONSTITUCIONAL Nº 41/2003. POSSIBILIDADE. SUBMISSÃO DO BENEFÍCIO AUTORAL AO TETO PREVIDENCIÁRIO COMPROVADA. CUSTAS PROCESSUAIS. INSS. ISENÇÃO LEGAL. REMESSA E RECURSO PROVIDOS EM PARTE" (fl. 120e).
+Opostos Embargos de Declaração, foram rejeitados, nestes termos:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO. INOCORRÊNCIA DAS HIPÓTESES DO ART. 535 DO CPC. REVISÃO DO JULGADO. DESCABIMENTO. RECURSO NÃO PROVIDO" (fl. 131e).
+Sustenta a parte agravante, o seguinte:
+"Primeiramente deve ser ressaltado que no que diz respeito a violação ao artigo 535 do Código de Processo Civil, há de se ver que essa Colenda Corte assentou quando do julgamento do RECURSO ESPECIAL Nº 237.608 -SÃO PAULO que,
+(..)
+Induvidosamente é o que se dá na hipótese, pois inquestionável a relevância das questões postas nos embargos que restaram inacolhidos. E mais: os embargos declaratórios, a par de objetivar que o órgão julgador se pronuncie sobre
+(..)
+tal como já ressaltado anteriormente, visam, também, preencher o requisito do prequestionamento, evitando, assim, a atração da incidência e consequente aplicação das Súmulas nos 282 e 356 do Colendo Supremo Tribunal Federal, cujos enunciados são barreiras intransponíveis ao acesso não só ao próprio Pretório Excelso, mas, da mesma forma, a essa Colenda Corte; e justamente por isto já foi decidido que a
+(..)
+sendo que a indispensabilidade do prequestionamento - que se traduz em evitar-se a supressão de um grau de jurisdição - culminou com a edição, por esse Colendo Tribunal, de sua Súmula nº 211. assim escrita:
+(..)
+Não resta dúvida, pois, que, se assim é, não tendo o tribunal a quo declarado o acórdão, e sendo a hipótese de tal declaração, patente a negativa de vigência do dispositivo legal indicado no apelo especial. além do que, da forma que já assentou o Colendo Supremo Tribunal Federal quando do julgamento do RECURSO EXTRAORDINÁRIO Nº 168.754-1,
+(..)
+Por fim, no que diz respeito a aplicação da Súmula nº 07 dessa Colenda Corte à hipótese, há de ser ressaltado que não se cuida do exame de datas, acontecimentos e/ou circunstâncias que caracterizam a matéria fática, ou, como restou assente por ocasião do julgamento do AgRg no RECURSO ESPECIAL nº 1.036.178-SP, de ..análise detalhada de documentos. testemunhos, contratos, perícias, dentre outros,..", mas, sim, de simples aplicação do comando consubstanciado na norma de regência.
+(..)
+O deslinde do ponto posto no apelo especial, portanto, resolve-se pela simples aplicação da norma de regência no sentido de que seja declarado o v. acórdão então embargado.
+Assim, induvidoso que o caso não é daqueles em que a resolução da controvérsia exige o revolvimento de matéria fática, hipótese em que, aí sim, aplicável a súmula invocada pela r. decisão aqui agravada" (fls. 152/155e).
+Por fim, "espera a autarquia que essa Colenda Corte dê provimento ao presente, reformando a r. decisão recorrida" (fl. 155e).
+Sem contraminuta.
+O Recurso Especial restou inadmitido, pelos seguintes fundamentos: a) "quanto à alegação de contrariedade ao artigo 535, do Código de Processo Civil de 1973, o entendimento da jurisprudência do Superior Tribunal de Justiça é no sentido de que não há ofensa ao mencionado dispositivo legal, " ..  se o Tribunal de origem, sem que haja recusa á apreciação da matéria, embora rejeitando os embargos de declaração - opostos com a finalidade de prequestionamento - demonstra não existir omissão a ser suprida""; b) "observa-se que o órgão julgador decidiu a vexata quaestio após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, para se chegar a conclusão diversa, torna-se imprescindível reexaminar o conjunto fático-probatório constante dos autos, o que é vedado em sede de recurso especial, a teor do enunciado nº 7 da Súmula de Jurisprudência do STJ" (fl. 147e).
+A parte agravante, todavia, deixou de infirmar, especificamente, o fundamento da alínea b acima mencionado. Isso porque a alegação genérica de que o tema discutido no Recurso Especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no Recurso Especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias.
+A propósito:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar trânsito ao apelo especial. Incidência, por analogia, da Súmula 182/STJ.
+2. Inadmitido o recurso especial diante do óbice contido na Súmula 7/STJ, cabe à parte agravante, diante da indicação de que a questão suscitada implica revolvimento do conjunto probatório, demonstrar a situação particular do caso concreto que justificasse o afastamento do referido óbice sumular.
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 1.063.449/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 25/08/2017).
+Diante desse contexto, o presente Agravo em Recurso Especial não pode ser conhecido.
+Tal entendimento, inclusive, está consolidado na Súmula 182/STJ, segundo a qual o recorrente deve infirmar, especificamente, os fundamentos da decisão impugnada, mostrando-se inadmissível o Agravo que não se insurge contra todos eles.
+Em face do exposto, com fundamento no art. 932, III, do CPC/2015 e art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo. Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios anteriormente fixados em 5% (cinco por cento) sobre o valor das parcelas vencidas, para 6% (seis por cento), sobre idêntica base, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
