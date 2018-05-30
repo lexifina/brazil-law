@@ -1,0 +1,34 @@
+DECISÃO
+JULIO CESAR GONZALEZ LEMOS, paciente neste habeas corpus, estaria sofrendo constrangimento ilegal ao seu direito de locomoção, em decorrência de acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, que negou provimento ao Recurso em Sentido Estrito n. 0034764-14.2014.8.12.0001.
+Busca a Defensoria Pública, em suma, a exclusão do crime de porte ilegal de arma de fogo da decisão de pronúncia, ao argumento de que "o uso do revolver constituiu meio necessário para a execução da conduta principal, que embora típica e ilícita, passou a ser integrante do crime fim, qual seja, a tentativa de homicídio" (fl. 10).
+Indeferida a liminar e sobrevindas informações das instâncias de origem (fls. 380-400, 404-420 e 431-462), foram os autos remetidos ao Ministério Público Federal, que se manifestou pelo não conhecimento do habeas corpus (fls. 428).
+Decido.
+Consta dos autos que o paciente foi pronunciado como incurso nos arts. 121, § 2º, I, c/c o art. 14, II, ambos do Código Penal, e 14, da Lei n. 10.826/2003, na forma do art. 69, também do CP. Na ocasião, em relação ao delito de porte de arma, o Juízo de primeiro grau consignou haver "elementos quanto à materialidade e indícios de autoria desse delito conexo, não se tratando, portanto, de imputação sem lastro probatório mínimo" (fl. 286). Ainda, considerou que: "não cabe ao magistrado tecer qualquer avaliação sobre o delito conexo, devendo apenas remetê-lo a julgamento juntamente com o delito doloso contra a vida" (fl. 286).
+Inconformada, a defesa interpôs recurso em sentido estrito perante o Tribunal estadual, que entendeu não ser o caso de reconhecer a absorção do delito de porte ilegal de arma pelo de tentativa de homicídio na fase da pronúncia.
+O Superior Tribunal de Justiça já decidiu pela admissibilidade do reconhecimento da consunção entre os crimes de homicídio e porte de arma, desde que comprovado "o nexo de dependência ou de subordinação entre as duas condutas e que os delitos  hajam sido  praticados em um mesmo contexto fático" (HC n. 178.561/DF, Rel. Ministro Marco Aurélio Bellizze, 5ª T., DJe 13/6/2012).
+Sobre o princípio da consunção, aliás, leciona Rogério Greco que (Curso de Direito Penal. v. I, Parte Geral. 13. ed. Niterói: Impetus, 2011, p. 30):
+Podemos falar em princípio da consunção nas seguintes hipóteses:
+a) quando um crime é meio necessário ou normal fase de preparação ou de execução de outro crime;
+b) nos casos de antefato e pós-fato impuníveis.
+Os fatos, segundo Hungria, "não se acham em relação de species a genus, mas de minimus a plus, de parte a todo, de meio a fim". Assim, a consumação absorve a tentativa e esta absorve o incriminado ato preparatório; o crime de lesão absorve o correspondente crime de perigo; o homicídio absorve a lesão corporal; o furto em casa habitada absorve a violação de domicílio etc.
+ ..
+Todavia, in casu, a Corte estadual concluiu que as imputações criminais feitas contra o paciente decorreram de condutas autônomas, com efetiva violação de diferentes bens jurídicos em cada uma delas. É o que se depreende do seguinte trecho: "Assim, não há como se aferir se quando adquiriu o artefato o recorrente tinha como objetivo único atingir a vítima Douglas, pois a arma em questão estava à sua disposição há um mês, podendo ela servir tanto para ceifar a vida da vítima como de outrem, como também para outras finalidades, colocando, pois, em risco a incolumidade pública. A tese de consunção é, pois, controversa, e deverá ser melhor analisada pelo Conselho de Sentença" (fl. 365, destaquei).
+Dessa forma, para absolver o paciente do crime de porte de arma, tal como pretende a impetrante, seria necessária a análise minuciosa de todo o acervo probatório, o que não é concebível no âmbito estreito do writ, sobretudo nessa fase da lide. No mesmo sentido, confiram-se os seguintes julgados desta Corte Superior:
+ ..
+3. In casu, as instâncias ordinárias concluíram que a posse ilegal de arma de fogo decorreu de desígnio autônomo e, para se chegar a qualquer conclusão em sentido contrário, seria necessária uma análise acurada dos fatos, depoimentos e elementos de convicção em que se arrimaram as instâncias ordinárias. Tal procedimento é inviável em sede de habeas corpus, pois importaria em transformar o writ em recurso dotado de ampla devolutividade.
+4. Habeas corpus não conhecido. (HC n. 270.330/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 18/6/2014)
+ ..
+2. A absorção do crime de porte ilegal de arma pelo de homicídio pressupõe que as condutas tenham sido praticadas em um mesmo contexto fático, guardando entre si uma relação de dependência ou de subordinação. Destarte, o porte da arma de fogo deve ter como fim unicamente a prática do crime de homicídio para ser absorvido como ante factum impunível. Ausente essa vinculação com o crime fim, não há falar em consunção, havendo, pois, crime autônomo de porte ou posse de arma de fogo.
+3. As instâncias ordinárias, com base na persuasão racional acerca dos elementos de prova concretos e coesos dos autos, concluíram o paciente detinha a arma em contexto fático distinto e anterior à prática do homicídio, o que caracteriza conduta autônoma e independente, tornando-se inviável a aplicação da regra da consunção. Outrossim, para reconhecê-la, seria necessário revolvimento de todo o conjunto fático-probatório, providência incabível na via estreita do habeas corpus, de cognição sumária, para expurgar conclusão pela posse da arma de fogo pela paciente em contexto diverso.
+4. Habeas corpus não conhecido. (HC n. 325.387/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 19/12/2016)
+ ..
+3. Para a aplicação do princípio da consunção, pressupõe-se a existência de ilícitos chamados de consuntos, que funcionam apenas como estágio de preparação ou de execução, ou como condutas, anteriores ou posteriores de outro delito mais grave, nos termos do brocardo lex consumens derogat legi consumptae.
+4. A conduta de portar arma ilegalmente não pode ser absorvida pelo crime de roubo quando restar evidenciada a existência de crimes autônomos, sem nexo de dependência ou subordinação.
+5. Ademais, no caso, para a adoção de entendimento diverso, seria necessário proceder a uma análise aprofundada de todo o conjunto fático-probatório dos autos, o que se afigura incabível na estreita via do habeas corpus.
+6. Ordem de habeas corpus não conhecida. (HC n. 236.846/MG, Rel. Ministra Laurita Vaz, 5ª T., DJe 5/3/2014)
+ ..
+2. Tendo os crimes de tentativa de homicídio qualificado e porte ilegal de arma de fogo sido praticados em momentos diferentes, consoante se depreende da denúncia, a conclusão pela absorção requer análise aprofundada do contexto fático em que se deram tais crimes, o que é inviável em sede habeas corpus.
+ ..
+4. Ordem denegada. (HC n. 168.171/RS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 9/11/2011)
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
