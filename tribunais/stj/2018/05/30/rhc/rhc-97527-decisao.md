@@ -1,0 +1,10 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. TRÁFICO DE DROGAS. AUSÊNCIA DE CÓPIA DA DECISÃO QUE DECRETOU A PRISÃO CAUTELAR. INSTRUÇÃO DEFICIENTE. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. SUPRESSÃO DE INSTÂNCIA.
+Recurso não conhecido.
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por [NOME] contra o acórdão proferido pelo Tribunal de Justiça de Alagoas no HC n. 0803616-26.2017.8.02.0000, no qual requer a expedição de alvará de soltura, sob a alegação de ausência de fundamentação idônea para a manutenção da prisão cautelar.
+Ocorre que, como opinou o Subprocurador-Geral da República [NOME], o presente recurso não possui os requisitos essenciais para o seu processamento, uma vez que não veio instruído com os documentos mínimos necessários para verificação das alegações da recorrente. Percebe-se que sequer foi colacionada a decisão que decretou a prisão preventiva da acusada, sendo inviável decidir acerca da legalidade ou não de uma decisão a qual não se tem ciência. Ademais, constata-se que a questão relativa à fundamentação da prisão cautelar não foi tratada pela Corte de origem, tendo o acórdão se limitado a análise acerca do excesso de prazo da instrução e da prisão domiciliar (fl. 116).
+Ora, como é cediço, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente, e por esse motivo, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante. Nesse sentido, por exemplo: HC n. 317.882/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 31/8/2015; e RHC 45789/RJ, Ministro Newton Trisotto (Desembargador convocado do TJ/SC), Quinta Turma, DJe 30/9/2015).
+De mais a mais, é inviável a supressão de instância para tratar, diretamente no Superior Tribunal de Justiça, de tema que, ao que parece, sequer foi objeto de decisão pelo Tribunal local.
+Por tais razões, não conheço do presente recurso.
+Publique-se.
