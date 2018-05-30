@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão que manteve a extinção do processo sem resolução do mérito por ausência de previsão legal para o ajuizamento de ação autônoma em execução provisória (eDOC 41).
+    Os embargos declaratórios opostos restaram rejeitados (eDOC 48).
+    No recurso extraordinário, interposto com base no art. 102, III, a do permissivo constitucional, aponta-se violação aos arts. 5º, LIV e 93, IX, da Constituição da República.
+    Nas razões recursais, sustenta-se, em suma, “a negativa do TRF da 4ª Região em suprir as omissões apontadas nos declaratórios, implicou a negativa da própria prestação jurisdicional, a gerar a nulidade dos julgados, em face da violação ao não menos importante princípio do devido processo legal (“due process of law”), constitucionalmente assegurado (art. 5º, inciso LIV). (eDOC 51, p. 5).
+    A Presidência das T urmas Recursais do Rio Grande do Sul inadmitiu o recurso sob o fundamento de que a ofensa, se existente, seria meramente reflexa à Constituição Federal (eDOC 59, pp. 1-2).
+    É o relatório. Decido.
+    Inicialmente, observo que inexiste a alegada violação ao art. 93, IX, da Constituição Federal. Com efeito, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses do recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ademais, no que diz respeito à ofensa ao art. 5º, LIV, da Constituição, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013, Tema 660, o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, do ato jurídico perfeito e da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Carta da República, como no caso dos autos.
+    No mérito, convém reproduzir o que assentado pelo relator do recurso inominado (eDOC 41, p. 2):
+    “Do exame desses dois dispositivos, e independentemente da natureza jurídica da obrigação exequenda, uma conclusão exsurge de forma clara: no JEF, a execução pressupõe o trânsito em julgado.
+    Consequentemente, pode-se afirmar que, no âmbito dos Juizados, a execução provisória está logicamente afastada.
+    Com efeito, tanto nas obrigações de fazer, de não fazer ou de entregar coisa certa (art. 16), quanto na hipótese de obrigação de pagar quantia certa (art. 17), o trânsito em julgado mostra-se necessário à pretensão executória.
+    No mesmo sentido, confira-se o enunciado FONAJEF 35:
+    A execução provisória para pagar quantia certa é inviável em sede de juizado, considerando outros meios jurídicos para assegurar o direito da parte.
+    Cabe esclarecer que, a despeito de o art. 52 da Lei 9.099/1995 admitir a aplicação subsidiária do CPC à execução da sentença proferida no Juizado Especial, resta evidente que, diante da expressa dicção dos art. 16 e 17 da Lei do JEF, essa aplicação subsidiária está afastada no âmbito federal, visto que inexistente a necessária lacuna normativa e, ademais, não se encontra satisfeita a condição de compatibilidade prevista no art. 1º da Lei 10.259”.
+    Na espécie, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Leis Federais 9.099/1995, 10.259/2001 e 11.445/2007 e 13.105/2015). Desse modo, a discussão referente à possibilidade de se proceder a execução parcial da sentença de processos oriundos dos Juizados Especiais Federais, revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Ante o exposto, determino a remessa dos autos à Turma de origem para adequação à sistemática da repercussão geral, no tocante à aplicação dos Temas 339, 660 (arts. 1.036 do CPC e 328 do RISTF), e nego provimento ao recurso quanto à questão remanescente (arts 932, IV, a e 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
