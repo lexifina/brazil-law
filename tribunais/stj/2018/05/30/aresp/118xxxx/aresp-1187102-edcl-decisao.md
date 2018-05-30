@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PROTECSPUMA COMERCIO E INDUSTRIA DE EMBALAGENS LTDA - EPP, contra a decisão singular de fls. 309-311, e-STJ, de lavra deste signatário, a qual negou provimento ao agravo (art. 1.042, do CPC/15) interposto pela ora insurgente.
+Em suas razões de fls. 314-315, e-STJ, sustenta a embargante a ocorrência de omissão a macular o decisum hostilizado, porquanto não houve pronunciamento quanto a insurgência recursal sobre o dissídio jurisprudencial, restando apreciada a questão apenas tocante a violação legal.
+Sem impugnação.
+É o relatório.
+Decido.
+Os embargos de declaração merecem acolhida, apenas, para correção de omissão, sem alteração do resultado do julgamento.
+1. Nos os estreitos limites do artigo 535 do Código de Processo Civil de 1973 e artigo 1.022 do CPC/2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+Nesse sentido, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente. 2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. 3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes. 4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. REITERAÇÃO DE EMBARGOS DECLATÓRIOS ADUZINDO AS MESMAS TESES, JÁ APRECIADAS. ELEVAÇÃO DA MULTA APLICADA E CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. EMBARGOS REJEITADOS. MULTA. 1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Eles não se prestam, portanto, ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso. 2. No caso, inexistem omissões ou contradições a serem sanadas, pois todas as teses da parte já foram apreciadas. O que se observa é o resistente inconformismo com a decisão exarada, contrária aos interesses da parte, circunstância a justificar a certificação do trânsito em julgado e a elevação da multa aplicada nos termos do art. 538 do CPC para 5%, ante a insistente oposição de embargos declaratórios aduzindo as mesmas questões. 3. Embargos de declaração rejeitados, com aplicação de multa e determinação de certificação do trânsito em julgado. (EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015)  grifou-se
+De fato, verifica-se que a decisão embargada, embora tenha negado provimento ao agravo em recurso especial da ré, ora embargante, por falta de prequestionamento restou omissa quanto à análise do dissídio jurisprudencial.
+Dessa forma, em razão da ausência de prequestionamento dos dispositivos apontados, mister se faz salientar a prejudicialidade do dissídio jurisprudencial.
+Nesse mesmo sentido, confiram-se os precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. TRATAMENTO DE SAÚDE NO EXTERIOR. PORTADOR DE RETINOSE PIGMENTAR. VALORES PAGOS POR FORÇA DE LIMINAR EM SEDE DE MANDADO DE SEGURANÇA POSTERIORMENTE REVOGADA. REPOSIÇÃO AO ERÁRIO. BOA-FÉ. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO E FUNDAMENTOS INATACADOS. SÚMULAS 282 E 283/STF.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento (Súmula 211 do STJ).
+2. Não obstante a oposição de embargos de declaração na origem, não se conhece de recurso especial, por ausência de prequestionamento, se a parte recorrente não interpõe o apelo alegando violação do art. 535, II, do CPC, por manutenção da omissão de questão relevante.
+ ..
+4. A inexistência do prequestionamento, bem como a falta de impugnação aos fundamentos suficientes para manter o acórdão recorrido inviabilizam o recurso especial pela alínea "c", diante da impossibilidade de se configurar o dissídio jurisprudencial, pois não há como se demonstrar a similitude das circunstâncias fáticas e do direito aplicado, permanecendo hígidas as razões adotadas pelo Tribunal de origem, o que torna evidente a falta de interesse recursal.
+5. Recurso especial não conhecido.
+(REsp 1397076/CE, Segunda Turma, Rel. Ministra Eliana Calmon, DJe 10/12/2013)  grifou-se
+PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE PROCESSAMENTO DO RECURSO ESPECIAL. SÚMULA 182 DO STJ.
+ ..
+3. Ademais: o art. 58 da Lei n. 8.213/91 não foi enfrentado pelo acórdão recorrido, incidência das Súmulas 282 e 356 do Excelso Supremo Tribunal Federal; a análise de legislação local (arts. 112 e 105, II, "b" e parágrafo único, da Lei Municipal 79/97) não enseja a abertura da via especial, nos termos da Súmula 280/STF; e, quanto à alínea "c", a falta de prequestionamento impossibilita, também, o conhecimento pela divergência.
+Agravo regimental não conhecido.
+(AgRg no AREsp 387.339/MS, Segunda Turma, Rel. Ministro Humberto Martins, DJe 04/10/2013)  grifou-se
+Ressalta-se que tal fato se traduz em mera omissão, cuja correção não atribui qualquer efeito infringente no resultado da decisão embargada.
+2. Do exposto, acolho os embargos de declaração, para reconhecer a existência de omissão na decisão embargada (fls. 309-311, e-STJ), sem alteração do resultado do julgamento.
+Publique-se.
+Intimem-se.
