@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo fundado no CPC/73, interposto pela Superintendência de Seguros Privados, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 101):
+AGRAVO. DECISÃO MONOCRÁTICA. ART. 557, CAPUT, DO CÓDIGO DE PROCESSO CIVIL. EXECUÇÃO FISCAL. MULTA. MANUTENÇÃO DA SITUAÇÃO FÁTICA.
+I - Nos termos do caput e §1º-A, do art. 557, do Código de Processo Civil e da Súmula 253/STJ, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento ao recurso e ao reexame necessário, nas hipóteses de pedido inadmissível, improcedente, prejudicado ou em confronto com a jurisprudência dominante da respectiva Corte ou de Tribunal Superior.
+II - A decisão monocrática está em absoluta consonância com o entendimento do Colendo Superior Tribunal de Justiça.
+III - É vedada a cobrança, em sede de execução fiscal, de multa administrativa em face das seguradoras sujeitas ao regime de liquidação extrajudicial.
+IV - Inexistência de elementos novos capazes de modificar o entendimento adotado por esta Relatora no momento em que proferida a decisão monocrática.
+V - Agravo Legal improvido.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 34 da Lei n. 6.024/74; 83, inciso VII, e 197 da Lei n. 11.101/05; e 5º e 29 da Lei n. 6.830/80. Sustenta, em resumo, que: (I) as multas administrativas podem ser cobradas, tanto das empresas em recuperação judicial quanto extrajudicial; (II) deve ser aplicado regime jurídico da Lei de Falências às instituições financeiras e de seguros; e (III) não são devidas as multas impostas após o ato de liquidação, porém são devidas as aplicadas antes desse ato administrativo.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n.2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, cumpre transcrever o quanto restou assentado pela Corte recorrida (fls. 97/100):
+Com efeito, a decisão monocrática esta em absoluta consonância entendimento firmado pelo Egrégio Superior Tribunal de Justiça.
+ ..
+Inicialmente, observo que a Lei n. 10.190/01, em seu art. 3º, determina que "Às sociedades seguradoras de capitalização e às entidades de previdência privada aberta aplica-se o disposto nos arts. e 15 do Decreto-Lei nº 2.321, de 25 de fevereiro de 1987, 1º a 8º da Lei nº 9.447, de 14 de março de 1997 e, no que couber, nos arts. 3º a 49 da Lei no 6.024, de 13 de março de 1974."
+Por sua vez, o art. 18 da Lei n. 6.024/74 estabelece que, dentre os efeitos da decretação da liquidação extrajudicial, destacam-se a "não fluência de juros, mesmo que estipulados, contra a massa, enquanto não integralmente pago o passivo", e a "não reclamação de correção monetária de quaisquer divisas passivas, nem de penas pecuniárias por infração de leis penais ou administrativas."
+Por fim, observo que o Decreto-lei n. 73/66, que dispõe sobre o Sistema Nacional de Seguros Privados, em seu art. 98, § 4º, especifica que "A massa liquidanda não estará obrigada a reajustamentos salariais sobrevindos durante a liquidação, nem responderá pelo pagamento de multas, custas, honorários e demais despesas feitas pelos credores em interesse próprio, assim como não se aplicará correção monetária aos créditos pela mora resultante de liquidação".
+Desse modo, conclui-se ser vedada a cobrança, em sede de execução fiscal, de multa administrativa em face das seguradoras sujeitas ao regime de liquidação extrajudicial.
+ ..
+Desta forma, a decisão atacada merece ser mantida.
+Da leitura do excerto acima transcrito, depreende-se que a matéria pertinente aos dispositivos de lei indicados no apelo nobre não foi apreciada pela instância judicante de origem, que não se manifestou acerca do ora aventado cabimento da cobrança, em execução judicial, das multas administrativas aplicadas antes da decretação de liquidação extrajudicial da instituição de seguros.
+Dessa forma, a questão que é objeto do recurso não foi debatida nas instâncias ordinárias sob o enfoque do momento da aplicação da multa, tal como trazido na insurgência especial, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
