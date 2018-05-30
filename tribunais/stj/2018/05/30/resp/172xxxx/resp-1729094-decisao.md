@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, objetivando a reforma do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+AÇÃO ORDINÁRIA - RECURSO DE APELAÇÃO - SERVIDORES PÚBLICOS ESTADUAIS - PRESCRIÇÃO - INOCORRÊNCIA - APLICA-SE, NO PRESENTE CASO, A SÚMULA Nº 85, DO STJ CONVERSÃO DOS VENCIMENTOS EM URV - MEDIDA PROVISÓRIA Nº 434/94 CONVERTIDA NA LEI Nº 8.880/94 - A LEI OBRIGOU OS ENTES FEDERADOS À CONVERSÃO - MATÉRIA DE COMPETÊNCIA PRIVATIVA DA UNIÃO - RECURSO PROVIDO (fl. 168, e-STJ).
+Opostos Embargos de Declaração (fls. 177-179, e-STJ), estes foram rejeitados (fls. 181-187, e-STJ).
+Nas razões do Recurso Especial (fls. 202-216, e-STJ), a parte recorrente sustenta violação dos arts. 333, I, e 535, I e II, do CPC/1973; 876 do CC; e 1º do Decreto 20.910/1932. Defende a reforma do acórdão recorrido "julgando-se prescrita, ou, sucessivamente, improcedente a demanda, em última hipótese determinando-se a compensação com os reajustes concedidos no período" (fl. 216, e-STJ).
+Apresentadas as contrarrazões (fls. 219-235, e-STJ), a Presidência da Seção de Direito Público negou seguimento ao Recurso Especial quanto à matéria decidida com base no art. 543-C, § 7º, I, do CPC/1973 (prescrição e conversão dos vencimentos em URV), tendo em vista que a controvérsia foi julgada sob o rito dos recursos repetitivos no REsp 1.101.726/SP, e não admitiu no que diz respeito às demais questões (afronta ao art. 535 do CPC/1973 e à demonstração de efetivo prejuízo).
+Seguiu-se a interposição de Agravo Interno (fls. 256-267, e-STJ). A Turma Julgadora, em cumprimento ao disposto no art. 543-C, § 7º, I, do CPC/1973, negou provimento à matéria firmada sob o rito dos recursos repetitivos, mantendo o entendimento anteriormente adotado e, relativamente aos demais tópicos, determinou a remessa dos autos ao STJ (fls. 314-325, e-STJ).
+Entretanto, verifica-se dos autos que, decorrido o prazo legal, não houve interposição do competente Agravo contra a parte da decisão que não admitiu o Recurso Especial concernente aos pontos referentes à alegada ofensa ao art. 535 do CPC/1973 e à comprovação de efetivo prejuízo.
+Assim, ante a ausência do Agravo em Recurso Especial, não há nada a apreciar e decidir por esta Corte Superior.
+Observadas as formalidades legais, devolvam-se os autos ao Tribunal de origem.
+Publique-se.
+Intimem-se.
