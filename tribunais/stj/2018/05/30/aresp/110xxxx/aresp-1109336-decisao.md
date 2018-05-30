@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por [NOME] e MARIA DAS GRAÇAS DE OLIVEIRA [NOME], em face de decisão que inadmitiu o Recurso Especial manejado contra acórdão do Tribunal Regional Federal da 2ª Região.
+O Recurso Especial restou inadmitido, pelo seguinte fundamento: incidência da Súmula 83/STJ.
+A parte agravante, todavia, deixou de infirmar, especificamente, o aludido fundamento.
+Diante desse contexto, o presente Agravo em Recurso Especial não pode ser conhecido.
+Com efeito, com o advento da Lei 12.322, de 09/09/2010, o Agravo de Instrumento contra decisão que não admite Recurso Especial passou a ser Agravo nos próprios autos. Porém, o legislador incorporou, ao texto legal, o princípio da dialeticidade, há muito sedimentado na jurisprudência desta Corte, com amparo na doutrina acerca do tema.
+Assim, de acordo com o inciso I do § 4º do art. 544 do CPC/73 - aplicável, no caso, quanto à admissibilidade do Agravo -, é dever da parte agravante atacar, especificamente, todos os fundamentos da decisão do Tribunal de origem que nega trânsito ao Recurso Especial, sob pena de não conhecimento de sua irresignação.
+Esta Corte, com fundamento no citado dispositivo, bem como no princípio da dialeticidade recursal, vem aplicando, por analogia, a Súmula 182/STJ ao Agravo que não refute, de maneira específica, todos os fundamentos da decisão que não admitiu o Recurso Especial. É o que se depreende da leitura dos seguintes julgados:
+
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. EFEITO SUSPENSIVO. VIA INADEQUADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A teor do verbete n. 182 da Súmula desta Corte, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+(..)
+3. Agravo regimental improvido" (STJ, AgRg no AREsp 620.602/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 29/06/2016).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DECISÃO QUE INADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA 182/ STJ.
+I - Não se conhece do agravo que não tenha atacado especificamente os fundamentos da decisão que inadmitiu, na origem, o recurso especial, nos termos da Súmula 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+II - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+III - Agravo Regimental improvido" (STJ, AgRg no Ag 1.368.414/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 27/03/2015).
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO MONOCRÁTICA NÃO REFUTADOS. PRINCÍPIO DA DIALETICIDADE RECURSAL FUNDAMENTOS AUTÔNOMOS. SÚMULA 182/STJ. OBRIGAÇÃO DE INFIRMAR TODOS ELES. PRECEDENTE. RESOLUÇÃO N. 432 DO CONTRAN. NORMA INFRALEGAL NÃO ABRANGIDA PELO CONCEITO DE LEI FEDERAL. PRECEDENTE. ART. 306 DO CTB. ALTERAÇÃO PELA LEI N. 12.760/2012. ADMISSÃO DE OUTROS MEIOS DE PROVA. PRECEDENTE.
+Agravo regimental improvido" (STJ, AgRg no AREsp 811.800/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe de 17/03/2016).
+"PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. INOVAÇÃO RECURSAL. LEI ESTADUAL N. 9.664/2012. LEGISLAÇÃO LOCAL. SÚMULA 280/STF. ALÍNEA "C". DISPOSITIVO DE LEI EM QUE TERIA OCORRIDO A DISSIDÊNCIA INTERPRETATIVA. AUSÊNCIA DE INDICAÇÃO. SÚMULA 284 DO STF. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência, por analogia, da Súmula 182 do STJ.
+2. No agravo regimental, a agravante não impugna todas as razões da decisão agravada, limitando-se apenas a rebater a incidência da Súmula 284/STF.
+3. Nos termos do art. 544, § 4º, inciso I, do Código de Processo Civil, "a parte deve impugnar todos os fundamentos da decisão agravada, autônomos ou não, pois não existe identidade entre a lógica da Súmula n. 182/STJ e a Súmula n. 283 do STF, uma vez que o conhecimento, ainda que parcial do agravo em especial, obriga a corte a conhecer de todos os fundamentos do especial, inclusive os não impugnados de modo específico". (AgRg no AREsp 68.639/GO, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 13/12/2011, DJe de 2/2/2012).
+Agravo regimental não conhecido" (STJ, AgRg no AREsp 450.558/MA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 24/02/2014).
+Assim, se a lei estabelece pressupostos ou requisitos para a admissibilidade do recurso - no particular, o art. 544, § 4º, I, do CPC/73 determina a necessidade de impugnação específica aos fundamentos da decisão que inadmitir o Recurso Especial -, cabe à parte proceder em estrito cumprimento às determinações legais.
+O novo Código de Processo Civil ratificou tal entendimento, conforme se depreende do seu art. 932, III, in verbis:
+"Art. 932. Incumbe ao relator:
+(..)
+III. não conhecer do recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+(..)".
+De fato, "não se pode desconhecer os pressupostos de admissibilidade do recurso. O aspecto formal é importante em matéria processual não por obséquio ao formalismo, mas para segurança das partes e resguardo do due process of law" (STJ, AgRg no Ag 427.696/RJ, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, DJU de 12/08/2002).
+Ressalto que, "fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ" (STJ, AgRg no REsp 1.374.369/RS, Rel. Ministro HERMAN BENJAMIN, DJe de 26/06/2013), com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, o que não ocorreu, no caso.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação de todos os fundamentos da decisão denegatória da subida do recurso especial para que seja conhecido o respectivo agravo. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+2. Inadmitido o recurso especial com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Precedentes.
+3. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 630.126/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 24/09/2015).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO GENÉRICA DO FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE. INSUFICIÊNCIA. INCIDÊNCIA DO ART. 544, § 4º, I, DO CPC. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE.
+(..)
+2. Não se conhece do agravo em recurso especial que deixa de atacar especificamente e suficientemente os fundamentos da decisão de inadmissibilidade. Incidência do art. 544, § 4º, I, do CPC.
+3. Tendo a decisão de inadmissibilidade decidido que o acórdão recorrido estaria em sintonia com a jurisprudência do STJ (Súmula 83/STJ), compete à agravante demonstrar que o entendimento adotado pelo acórdão encontra-se em descompasso com o atual entendimento do STJ, trazendo para tanto precedentes do STJ favoráveis à sua tese recursal, ou que os precedentes invocados na decisão de inadmissibilidade não se aplicariam ao casu, por versarem sobre situações diversas, sendo insuficiente a mera alegação de que os precedentes invocados pela decisão de inadmissibilidade não formariam a jurisprudência uníssona do STJ e que o óbice da Súmula 83/STJ não se aplica aos recursos especiais interposto com base na alínea "a" do permissivo constitucional. Nesse sentido: AgRg no AREsp 293.726/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 13/08/2013, DJe 26/08/2013.
+(..)
+6. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento" (STJ, EDcl no AREsp 527.100/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/08/2014).
+Por fim, é firme o entendimento desta Corte no sentido de que, "para a aplicação do entendimento previsto na Súmula 83/STJ, basta que o acórdão recorrido esteja de acordo com a orientação jurisprudencial firmada por esta Corte, sendo prescindível a consolidação do entendimento em enunciado sumular ou a sujeição da matéria à sistemática dos recursos repetitivos, nos termos do art. 543-C do Código de Processo Civil" (STJ, AgRg no REsp 1.447.734/SE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 17/06/2015).
+No mesmo sentido:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. IRPJ E CSLL. BASE DE CÁLCULO. EXCLUSÃO DOS CRÉDITOS DE PIS/COFINS DO REGIME NÃO CUMULATIVO. IMPOSSIBILIDADE. ARTS. 557 E 543-C DO CPC. CONFRONTO COM O TEOR DA SÚMULA 83/STJ. INEXISTÊNCIA.
+(..)
+2. Não se há falar que a sistemática dos recursos repetitivos advinda com a Lei 11.672/2008 tornou inócuo o verbete contido na Súmula 83 desta Corte, pois não há qualquer previsão no art. 543-C do Código de Processo Civil que obste o julgamento de matérias já pacificadas pelo Superior Tribunal de Justiça ou de temas contemplados pela jurisprudência dominante, sem que sejam submetidas a julgamento sob o rito ali descrito, previsto para os casos de multiplicidade de recursos.
+3. Fundamentar-se em jurisprudência dominante desta Corte Superior é motivo suficiente para deixar de adotar as teses aventadas pelos recorrentes nas hipóteses de mesma quaestio juris e mesma situação fática.
+4. A escassez de precedentes de outro órgão julgador só atesta a ausência de multiplicidade de recursos sobre o mesmo tema e, bem assim, a alegação de que a sistemática trazida pelo art. 543-C do CPC esvaziou a razão de ser da Súmula 83/STJ.
+Agravo regimental improvido" (STJ, AgRg no REsp 1.318.139/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/09/2012).
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do presente Agravo em Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
