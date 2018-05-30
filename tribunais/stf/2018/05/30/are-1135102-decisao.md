@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO MUNICIPAL. CÔMPUTO DO PERÍODO LABORADO SOB REGIME CELETISTA PARA FINS DE CONCESSÃO DE ADICIONAL DE TEMPO DE SERVIÇO. LEI COMPLEMENTAR 187/2011 DO MUNICÍPIO DE VOTUPORANGA – SP. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. ALEGADA AFRONTA AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo nas alíneas a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    "SERVIDORA PÚBLICA MUNICIPAL – VOTUPORANGA – ADICIONAL POR TEMPO DE SERVIÇO – CÁLCULO QUE DEVE LEVAR EM CONTA TODO O TEMPO DE SERVIÇO PRESTADO – INTERPRETAÇÃO DA LEI COMPLEMENTAR MUNICIPAL 187/11 – AÇÃO PROCEDENTE – SENTENÇA CONFIRMADA." (Doc. 1, fl. 180)
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação aos artigos 18, 30, I e II, 37, caput, X e XIII, e 40, § 9º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a matéria não foi devidamente prequestionada e que incide no caso o óbice da Súmula 280 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, ressalte-se que a matéria relativa ao direito ao cômputo do tempo de serviço prestado sob o regime celetista para fins de concessão de adicional por tempo de serviço, quando sub judice a controvérsia, implica a análise da legislação infraconstitucional local aplicável à espécie (Lei Complementar 187/2011 do Município de Votuporanga). Incide, na espécie, o óbice da Súmula 280 do STF, in verbis: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “Agravo regimental no recurso extraordinário. Servidor público. Transformação do regime celetista em estatutário. Lei estadual nº 10.219/02. Concessão de licença prêmio relativa ao tempo do regime celetista. Ofensa a direito local. Ausência de repercussão geral do tema. Precedentes.
+    1. O recurso extraordinário não se presta ao reexame de matéria ínsita ao plano normativo local. Incidência da Súmula nº 280 do Supremo Tribunal Federal.
+    2. Esta Corte, no exame do RE nº 575.526/PR, concluiu pela ausência de repercussão geral do tema relativo à possibilidade de se deferir a servidor público cujo regime jurídico é alterado do celetista para o estatutário direito previsto no estatuto dos servidores públicos.
+    3. Agravo regimental não provido.” (RE 384.529-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 21/9/2012)
+    “Agravo regimental em embargos de declaração em recurso extraordinário. 2. Administrativo. Transformação do regime celetista em estatutário. Concessão de licença especial. Lei 6.174/1970 do Estado do Paraná. 3. Necessidade de rever interpretação conferida na origem à legislação infraconstitucional. Impossibilidade. Incidência do Enunciado 280 da Súmula do STF. Precedentes. 4. Ausência de repercussão geral. RE-RG 575.526. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE 550.368-ED-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 28/2/2013)
+    No que diz respeito à alegação de ofensa ao princípio da legalidade, verifico que o acórdão ora recorrido tão somente interpretou o que dispõe a legislação aplicável à espécie em sentido contrário àquele desejado pela parte ora agravante, o que configura ofensa indireta à Constituição Federal, não suscetível de apreciação em sede de recurso extraordinário.
+    Assevere-se, ainda, que a jurisprudência desta Suprema Corte se consolidou no sentido de que “não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida” (Súmula 636 do STF).
+    Por fim, observo que o agravo foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do RISTF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao máximo legal (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
