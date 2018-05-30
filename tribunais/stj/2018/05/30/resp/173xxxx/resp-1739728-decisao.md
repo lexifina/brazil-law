@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REPARAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. COMPRA E VENDA DE VEÍCULO USADO. FINANCIAMENTO POR INSTITUIÇÃO DE CRÉDITO. NEGÓCIOS JURÍDICOS DISTINTOS E INDEPENDENTES. NULIDADE DO PRIMEIRO. MANUTENÇÃO DO FINANCIAMENTO.
+1. São distintos e independentes os contratos de compra e venda de bem de consumo e de financiamento, perante instituição financeira, não havendo acessoriedade entre eles.
+2. Eventual rescisão da compra e venda não afeta o contrato de financiamento, salvo na hipótese em que a instituição financeira seja vinculada diretamente à revenda de veículos, o que não se configura no presente caso. Precedentes do STJ.
+3. Recurso especial conhecido e provido.
+DECISÃO
+Cuida-se de recurso especial interposto por BANCO PECÚNIA S/A, com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de rescisão contratual cumulada com reparação por dano material e compensação por dano moral, ajuizada por [NOME], em face do recorrente, VHC VEICULOS (interessada), [NOME] (interessado) e de [NOME] (interessado), devido a não disponibilização da documentação necessária para concluir a transferência do veículo em questão, na qual pleiteia a rescisão dos contratos de compra e venda do automóvel e de financiamento, bem como reparação por dano material e compensação por dano moral.
+Sentença: julgou procedente o pedido, para declarar rescindido o contrato de compra e venda do veículo, bem como o contrato de financiamento celebrado entre o recorrente e o recorrido. Condenou, ainda, a VHC VEICULOS ao pagamento de R$ 5.000,00 (cinco mil reais) a título de compensação por dano moral.
+Acórdão: negou provimento à apelação interposta pelo recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - RESCISÃO DE CONTRATO DE COMPRA E VENDA VEÍCULO - PRELIMINAR - ILEGITIMIDADE PASSIVA DO BANCO - REJEIÇÃO - CONTRATO ACESSÓRIO DE FINANCIAMENTO COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA - RESCISÃO DO CONTRATO ACESSÓRIO.
+1. A legitimidade é a pertinência subjetiva da demanda, a qual deve ser aferida de acordo com o objeto do litigio. Tem legitimidade passiva o banco que concedeu dinheiro para compra do bem, tendo em vista que a rescisão do contrato de compra e venda do veículo repercutirá, também, no contrato de financiamento.
+2 - Rescindido o contrato principal de compra e venda de veículo, o pacto acessório de financiamento do bem deverá seguir ter o mesmo deslinde. (e-STJ Fl. 441)
+Recurso especial: alega violação dos arts. 14, § 3º, I e II, 18 e 19 do CDC; 104, 186 e 927 do CC; 267, IV, do CPC/73; 485, VI, do CPC/15, bem como dissídio jurisprudencial. Sustenta a inexistência de acessoriedade entre o contrato de compra e venda de veículo e o contrato de financiamento. Afirma que a rescisão do contrato de compra e venda de veículo não dá azo à rescisão do contrato de financiamento.
+Relatado o processo, decide-se.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado Administrativo nº 3).
+- Da independência entre os contratos de compra e venda de bem de consumo e de financiamento
+O TJ/MG, ao decidir que a rescisão do contrato de compra e venda do veículo repercute no contrato de financiamento, por se tratar o financiamento de contrato acessório, contrariou o entendimento do STJ no sentido de que "são distintos e independentes os contratos de compra e venda de bem de consumo e de financiamento, perante instituição financeira, não havendo acessoriedade entre eles" (AgInt no REsp 1519556/SP, Terceira Turma, Dje de 25/11/2016 e AgInt no REsp 1497758/SP, Quarta Turma, Dje de 02/03/2018). Logo, o acórdão recorrido merece reforma.
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, para manter válido o contrato de financiamento celebrado entre o recorrente e o recorrido.
+Diante da reforma do acórdão recorrido, deverá a interessada VHC VEICULOS arcar integralmente com as custas processuais e honorários advocatícios fixados na sentença.
+Publique-se. Intimem-se.
