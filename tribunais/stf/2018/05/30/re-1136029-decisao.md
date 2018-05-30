@@ -1,0 +1,13 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, proferido pela 4ª Turma Cível do Colégio Recursal de Araraquara/SP, está assim ementado:
+    “Policial Militar. Adicional de insalubridade referente ao período de curso de formação de soldados. Sentença de primeiro grau que determinou o pagamento. Recurso da Fazenda Pública do Estado de São Paulo. Recurso não provido.”
+    O Estado de São Paulo, ao deduzir o apelo extremo, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    O exame dos presentes autos evidencia que o recurso extraordinário em questão não se revela viável.
+    É que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 870.947-RG/SE, Rel. Min. LUIZ FUX, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “DIREITO CONSTITUCIONAL. REGIME DE ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS INCIDENTE SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ART. 1º-F DA LEI Nº 9.494/97 COM A REDAÇÃO DADA PELA LEI Nº 11.960/09. IMPOSSIBILIDADE JURÍDICA DA UTILIZAÇÃO DO ÍNDICE DE REMUNERAÇÃO DA CADERNETA DE POUPANÇA COMO CRITÉRIO DE CORREÇÃO MONETÁRIA. VIOLAÇÃO AO DIREITO FUNDAMENTAL DE PROPRIEDADE (CRFB, ART. 5º, XXII). INADEQUAÇÃO MANIFESTA ENTRE MEIOS E FINS. INCONSTITUCIONALIDADE DA UTILIZAÇÃO DO RENDIMENTO DA CADERNETA DE POUPANÇA COMO ÍNDICE DEFINIDOR DOS JUROS MORATÓRIOS DE CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA, QUANDO ORIUNDAS DE RELAÇÕES JURÍDICO- -TRIBUTÁRIAS. DISCRIMINAÇÃO ARBITRÁRIA E VIOLAÇÃO À ISONOMIA ENTRE DEVEDOR PÚBLICO E DEVEDOR PRIVADO (CRFB, ART. 5º, ‘CAPUT’). RECURSO EXTRAORDINÁRIO PARCIALMENTE PROVIDO.”
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se, no ponto, à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, nego provimento ao recurso extraordinário, por achar-se em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
