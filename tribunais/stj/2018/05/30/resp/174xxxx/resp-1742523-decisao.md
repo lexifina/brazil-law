@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO ESPECIAL. SÚMULA Nº 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Município de Astorga, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal de Justiça do Estado do Paraná, nesses termos ementado:
+ADMINISTRATIVO. AÇÃO DECLARATÓRIA DE INCORPORAÇÃO DE GRATIFICAÇÃO. SERVIDOR QUE RECEBEU GRATIFICAÇÃO DE FUNÇÃO E TIDE POR MAIS DE 10 ANOS, DE FORMA QUE DEVE SER INCORPORADA AO SEU VENCIMENTO A GRATIFICAÇÃO RECEBIDA POR MAIS TEMPO. PREVISÃO DO ART. 163 DO ESTATUTO DOS SERVIDORES PÚBLICOS DE ASTORGA. MUNICÍPIO QUE SUSTENTA QUE TIDE E GRATIFICAÇÃO DE FUNÇÃO NÃO POSSUEM A MESMA NATUREZA JURÍDICA. INTERPRETAÇÃO DESTA CÂMARA QUE DEFENDE A NECESSIDADE DE ANÁLISE DA FUNÇÃO EFETIVAMENTE DESEMPENHADA PARA FINS DE CUMULAÇÃO DE GRATIFICAÇÕES PARA QUE AMBAS SEJAM INCORPORADAS. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram parcialmente acolhidos, nos seguintes termos:
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. MUNICÍPIO QUE ALEGA HAVER INCOMPATIBILIDADE ENTRE A INCORPORAÇÃO DA GRATIFICAÇÃO E A PREVISÃO DO ART. 40, §2º DA CONSTITUIÇÃO FEDERAL INCOMPATIBILIDADE QUE NÃO SE VERIFICA. VEDAÇÃO DE RECOLHIMENTO DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE GRATIFICAÇÕES E CARGOS COMISSIONADOS. ALEGAÇÃO DE IMPOSSIBILIDADE DE INCORPORAÇÃO DE GRATIFICAÇÃO SOBRE A QUAL NÃO FOI RECOLHIDA A CONTRIBUIÇÃO. VEDAÇÃO QUE NÃO PODE SER IMPUTADA AO SERVIDOR. VERBA QUE DEVE SER INCORPORADA AINDA QUE NÃO TENHA SIDO PAGA A CONTRIBUIÇÃO PREVIDENCIÁRIA DEVIDA. OMISSÃO SANADA. DECISÃO EMBARGADA QUE DEVE SER MANTIDA. EMBARGOS ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+Em suas razões de recurso especial, sustenta a parte recorrente violação do art. 4º, § 1º, VIII, da Lei nº 10.887/2004, na medida em que "a aposentadoria passou a ter por parâmetro exclusivamente o cargo efetivo, não mais se cogitando da função gratificada, sendo vedado que o servidor se aposente com as vantagens decorrentes do exercício em função gratificada".
+Não foram apresentadas contrarrazões.
+Juízo positivo de admissibilidade.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não deve prosperar.
+A orientação preconizada no verbete 283 da Súmula do Supremo Tribunal Federal, também aplicada ao especial, impõe à parte recorrente o dever de impugnar todos os fundamentos suficientes, por si só, para a manutenção do acórdão recorrido, sob pena de não conhecimento desta espécie recursal. No caso concreto, verifica-se que a parte se furtou ao dever de impugnar a compreensão do Tribunal a quo segundo a qual "no presente caso, o valor da gratificação recebida a mais tempo, só está sendo incorporada no momento da aposentadoria vez que não foi incorporada quando completados os 10 anos necessários, conforme art. 163 da Lei nº 1232/2004".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
