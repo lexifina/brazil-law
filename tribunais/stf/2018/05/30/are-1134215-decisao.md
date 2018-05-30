@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. APLICAÇÃO DO ÍNDICE DE 39,67%. IRSM DE FEVEREIRO DE 1994. LEIS 8.213/1991 E 10.999/2004. DECADÊNCIA AFASTADA NA ORIGEM. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. PRECEDENTES. HIPÓTESE DA ALÍNEA B DO PERMISSIVO CONSTITUCIONAL. INADMISSIBILIDADE. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo nas alíneas a e b do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “REVISÃO DE BENEFÍCIO — RMI — IRSM de fevereiro de 1994 — Decadência — Não ocorrência - Aplicação do IRSM integral em fevereiro (39,67%) de 1994 — Admissibilidade — Entendimento jurisprudencial — Recurso oficial, considerado interposto, parcialmente provido, improvido o apelo autárquico.
+    PORTE DE REMESSA E RETORNO — Recolhimento a final — Artigo 27 do Código de Processo Civil.” (Doc. 1, fl. 112)
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, caput e XXXVI, e 201, § 1º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso por entender que encontraria óbice nas Súmulas 279 e 282 do STF e que se trataria, na espécie, de matéria infraconstitucional, além de que o acórdão recorrido não teria declarado a inconstitucionalidade de tratado ou lei federal.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Para divergir das razões do referido acórdão quanto ao transcurso de prazo decadencial em virtude de previsão expressa de lei seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Leis 8.213/1991 e 10.999/2004), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal.
+    Nesse sentido foram proferidas as seguintes decisões monocráticas transitadas em julgado: ARE 848.631, Rel. Min. Gilmar Mendes, DJe de 4/8/2015, RE 986.678, Rel. Min. Celso de Mello, DJe de 15/8/2016, e RE 910.691-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 7/3/2016, assim ementado:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Previdenciário. Revisão de benefício. Decadência. RE nº 626.489/SE-RG. Repercussão geral reconhecida. Inaplicabilidade. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    1. Inviável, em recurso extraordinário, a interpretação da legislação infraconstitucional, bem como o reexame dos fatos e das provas da causa. Incidência das Súmulas nºs 636 e 279/STF.
+    2. Agravo regimental não provido.”
+    Por fim, no que tange à interposição do recurso extraordinário pela alínea b do inciso III do artigo 102 da Constituição Federal, destaco que a jurisprudência desta Suprema Corte entende ser necessária a declaração formal de inconstitucionalidade de tratado ou lei federal pelo plenário ou órgão especial do Tribunal a quo. Nesse sentido, menciono os seguintes julgados:
+          “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. CABIMENTO. ALÍNEA B. DECLARAÇÃO DE INCONSTITUCIONALIDADE. AUSÊNCIA. AGRAVO DESPROVIDO. 1. Não tendo sido declarada a inconstitucionalidade pelo Tribunal a quo do dispositivo legal questionado, não há como conhecer de recurso extraordinário interposto pela alínea b do inc. III do art. 102 da Constituição da República. 2. Agravo regimental desprovido.” (RE 334.723-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJ de 6/11/2006)
+          “AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. 1) INEXISTÊNCIA DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. 2) ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DE TRIBUNAL DIVERSO. TEMA SEM REPERCUSSÃO GERAL. 3) RECURSO EXTRAORDINÁRIO INTERPOSTO COM BASE NA ALÍNEA B DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. INEXISTÊNCIA DE DECLARAÇÃO DE INCONSTITUCIONALIDADE DE TRATADO OU LEI FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.” (ARE 725.856, Rel. Min. Cármen Lúcia, DJe de 17/12/2012)
+    Por fim, observo que o agravo foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do RISTF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao máximo legal (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
