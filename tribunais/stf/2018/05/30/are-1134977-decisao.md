@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão de Tribunal de Justiça de São Paulo assim ementado (eDOC 1, p. 279):
+    “APELAÇÃO - ICMS — Pretensão do apelante à exclusão integral da base de cálculo do ICMS dos valores referentes aos encargos das administradoras de cartões de crédito sobre o valor das vendas de mercadorias que realiza, reconhecendo ainda o direito ao ressarcimento dos valores recolhidos indevidamente a este título — Improcedência do pedido corretamente pronunciada em primeiro grau — Imposto recolhido que foi incorporado ao preço das mercadorias e/ou produtos vendidos a terceiros, não se identificando qualquer lesão para o contribuinte de direito — Incidência do disposto no art. 166 do CTN — Base de cálculo do tributo que deve corresponder ao valor expresso nas notas fiscais emitidas — Precedentes do STJ — Taxas cobradas nas operações que decorrem de negócio jurídico entabulado entre a contribuinte e as administradoras de cartões de crédito, não podendo ser oposto ao Fisco — Apelo do autor improvido.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos artigos 155, II e § 2º, I, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, a inconstitucionalidade da inclusão, na base de cálculo do ICMS, dos valores referentes à taxa de administração fixada pela empresa de cartão de crédito, “uma vez que o imposto recolhido não foi incorporado ao preço da mercadoria vendida ao consumidor, ao contrário, o imposto em questão é arcado unicamente pela Recorrente, uma vez que a instituição financeira, ao efetuar o pagamento à Recorrente, já o faz com a dedução de encargos financeiros” (eDOC 2, p. 47).
+    O recurso extraordinário foi inadmitido na origem por ausência de prequestionamento e de ofensa direta ao Texto Constitucional (eDOC 2, pp. 90-91).
+    Decido.
+    As razões recursais não merecem prosperar.
+    De plano, verifica-se que o Tribunal de origem, ao proferir a decisão recorrida, não divergiu da jurisprudência desta Corte, segundo a qual a taxa cobrada pelas administradoras de cartão de crédito deve ser incluída na base de cálculo do imposto.
+    Confira-se, a propósito, o seguinte precedente:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ICMS. TAXA DE ADMINISTRAÇÃO DE CARTÃO DE CRÉDITO. BASE DE CÁLCULO VALOR REGISTRADO EM NOTA. 1. O Supremo Tribunal Federal consolidou o entendimento no sentido de que a base de cálculo do ICMS é o valor da operação de que decorrer a saída da mercadoria do estabelecimento. Nessas condições, a taxa cobrada pelas administradoras de cartão de crédito deve ser incluída na base de cálculo do imposto. 2. Agravo regimental a que se nega provimento.”
+(RE 820.525 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 01.03.2016)
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ICMS. TAXA DE ADMINISTRAÇÃO. CARTÃO DE CRÉDITO. BASE DE CÁLCULO. 1. Reputa-se haver jurisprudência dominante quanto ao caso, como se depreende de julgamentos monocráticos posteriores à decisão recorrida. Precedentes: ARE 954.999, de relatoria do Ministro Teori Zavascki, DJe 05.08.2016; e ARE 890.781, de relatoria do Ministro Gilmar Mendes, DJe 24.05.2016. 2. A taxa cobrada pelas administradoras de cartão de crédito deve ser incluída na base de cálculo do ICMS. Precedentes. 3. Agravo regimental a que se nega provimento.
+    (ARE 952169 AgR, de minha relatoria, Primeira Turma, DJe 17-10-2016)
+    Cito, ainda, os seguintes julgados: AI 726.737, Rel. Min. Roberto Barroso, DJe 12.11.2015; RE 783.026, Rel. Min. Celso de Mello, DJe 22.10.2014; e RE633.708, de relatoria do Ministro Marco Aurélio, DJe 18.12.2015.
+    Ante o exposto, conheço do agravo para negar provimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
