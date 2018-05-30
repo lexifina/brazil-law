@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de conflito positivo de competência, em que é suscitante a empresa TUT TRANSPORTES LTDA. - EM RECUPERAÇÃO JUDICIAL e suscitados o JUÍZO DE DIREITO DA VARA ESPECIALIZADA DE FALÊNCIA E CONCORDATA DE CUIABÁ - MT, onde tramita a recuperação judicial da empresa, e o JUÍZO DA 9ª VARA DO TRABALHO DE CUIABÁ - MT, que processa a execução fiscal.
+Discute-se, no presente conflito, qual dos Juízos é competente para processar e julgar atos executivos contra a empresa recuperanda. No processo trabalhista, a União teria requerido a penhora de ativos operacionais da empresa, bem como a alienação de bens essenciais a sua atividade, "buscando o recebimento de tributos" (e-STJ fl. 3).
+A suscitante ingressou com pedido de recuperação judicial, na forma prevista pela Lei Federal n. 11.101/2005, deferido em 12/6/2007, seguindo-se a determinação de suspensão de ações e execuções contra a empresa recuperanda (e-STJ fl. 5).
+Sustenta que comunicou ao Juízo Trabalhista o processamento da recuperação judicial. Destaca ainda que (e-STJ fl. 6):
+Depreende-se que a competência deve recair, na casuística em apreço, ao Juízo da Vara Especializada de Falência e Recuperação Judicial da Comarca de Cuiabá/MT, a fim de dar a efetiva operacional idade ao plano recuperacional e, sem sombra de dúvidas à preservação da empresa como unidade geradora de emprego e renda, fomentando o desenvolvimento social. Admitir a concomitância de decisões proferidas em ações paralelas e autônomas ao processo de Recuperação Judicial, que impliquem na expropriação de ativos da Recuperanda, além de constituir uma verdadeira leviandade, atenta contra o princípio da preservação da empresa (artigo 47 da Lei n. 11.101/05).
+Requer liminarmente a suspensão da execução fiscal e a determinação provisória do Juízo recuperacional para resolver as medidas urgentes (e-STJ fl. 9).
+Liminar deferida às fls. 399/401 (e-STJ).
+Informações prestadas às fls. 413/429 (e-STJ).
+Parecer do Ministério Público Federal pela competência do JUÍZO UNIVERSAL (e-STJ fls. 431/433).
+É o relatório.
+Decido.
+Seguindo orientação desta Corte Superior, consolidada na Súmula n. 568/STJ, o relator pode decidir monocraticamente, de plano, o conflito de competência, quando exista jurisprudência dominante do Tribunal sobre o tema.
+É esse precisamente o caso dos autos, no qual se busca fixar o juízo competente, para processar atos expropriatórios contra o patrimônio da TUT TRANSPORTES LTDA. - EM RECUPERAÇÃO JUDICIAL.
+Com efeito, a jurisprudência do STJ é pacífica quanto ao tema, afirmando que, "com a edição da Lei n. 11.101, de 2005, respeitadas as especificidades da falência e da recuperação judicial, é competente o respectivo Juízo para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais, ainda que tenha ocorrido a constrição de bens do devedor" (AgRg n. CC n. 127.629/MT, Relator Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 23/4/2014, Dje 25/4/2014). Ainda nesse sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL. CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO NO ÂMBITO TRABALHISTA. NATUREZA FISCAL. DEFERIMENTO DA RECUPERAÇÃO JUDICIAL. ART. 6º, § 7º, DA LEI Nº 11.101/05, COM A RESSALVA NELE PREVISTA. PRÁTICA DE ATOS QUE COMPROMETAM O PATRIMÔNIO DO DEVEDOR OU EXCLUAM PARTE DELE DO PROCESSO DE RECUPERAÇÃO JUDICIAL. IMPOSSIBILIDADE. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 97 DA CF E DE DESRESPEITO À SÚMULA VINCULANTE N. 10/STF.
+1. "Apesar de a execução fiscal não se suspender em face do deferimento do pedido de recuperação judicial (art. 6º, §7º, da LF n. 11.101/05, art. 187 do CTN e art. 29 da LF n. 6.830/80), submetem-se ao crivo do juízo universal os atos de alienação voltados contra o patrimônio social das sociedades empresárias em recuperação, em homenagem ao princípio da preservação da empresa." (CC 114987/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 14/03/2011, DJe 23/03/2011).
+(..)
+3. Agravo regimental não provido.
+(AgRg no CC n. 123.228/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/6/2013, DJe 1/7/2013.)
+CONFLITO DE COMPETÊNCIA. AGRAVO. EXECUÇÃO FISCAL. SOCIEDADE EM RECUPERAÇÃO JUDICIAL. PRÁTICA DE ATOS EXPROPRIATÓRIOS NO JUÍZO DA AÇÃO EXECUTIVA. IMPOSSIBILIDADE.
+- As execuções fiscais ajuizadas em face da empresa recuperanda não se suspenderão em virtude do deferimento do processamento da recuperação judicial.
+- Todavia, embora a execução fiscal, em si, não se suspenda, devem ser obstados os atos judiciais que reduzam o patrimônio da empresa em recuperação judicial, enquanto mantida essa condição. Na hipótese, a aplicação literal do art. 6º, § 7º, da Lei 11.101/05 conduziria à inibição do cumprimento do plano de recuperação previamente aprovado e homologado.
+- Agravo não provido.
+(AgRg no CC n. 119.970/RS, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 14/11/2012, DJe 20/11/2012.)
+Assim, embora a execução fiscal, em si, não se suspenda, devem ser obstados os atos judiciais que reduzam o patrimônio da empresa em recuperação judicial, enquanto mantida essa condição. A providência evita o eventual comprometimento do sucesso do plano de recuperação pelas decisões prolatadas no Juízo da execução individual, preservando, assim, o princípio da continuidade da empresa, previsto no artigo 47 da Lei de Recuperação Judicial.
+Diante do exposto, CONHEÇO do presente conflito positivo de competência, a fim de DECLARAR COMPETENTE o JUÍZO DE DIREITO DA VARA ESPECIALIZADA DE FALÊNCIA E CONCORDATA DE CUIABÁ - MT, para apreciar os atos executivos que incidam sobre o patrimônio vinculado à recuperação judicial.
+Publique-se e intimem-se.
