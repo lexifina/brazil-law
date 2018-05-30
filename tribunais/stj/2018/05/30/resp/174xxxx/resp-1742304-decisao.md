@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO CONFIGURAÇÃO. INEXISTÊNCIA DE OMISSÃO OU CONTRADIÇÃO. REDISTRIBUIÇÃO DE ÔNUS SUCUMBENCIAIS. ACÓRDÃO FUNDAMENTADO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial do ESTADO DO CEARÁ fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado:
+PROCESSO CIVIL E ADMINISTRATIVO. TÉCNICO EM RADIOLOGIA. ADICIONAL DE RISCO DE VIDA. PERÍODO REMOTO AO TERMO DE CONCESSÃO NA ESFERA ADMINISTRATIVA. PRESCRIÇÃO DO FUNDO DO DIREITO - INOCORRÊNCIA. TRATO SUCESSIVO - SÚMULA 85 DO EXCELSO SUPERIOR TRIBUNAL DE JUSTIÇA. DEFERIMENTO PERTINENTE AO INTERLÚDIO DE 21 DE OUTUBRO DE 2003 A AGOSTO DE 2006. PROVIMENTO, EM PARTE, DO APELATÓRIO. PROCEDÊNCIA PARCIAL DO PEDIDO.
+1 - Segundo a jurisprudência dos Regionais Trabalhistas, adrede destacada no bojo do voto condutor, teria optado o legislador, ao regulamentar a profissão de técnico em radiologia, por presumir a existência de risco de vida e condições de insalubridade, garantindo um acréscimo para remunerar o trabalho em tais condições, de modo trata-se de regra especial que prevalece sobre a regulação geral relativa às hipóteses de insalubridade e periculosidade.
+2 - Em sendo deferida na esfera administrativa o beneficio gratificatório, não se pode aludir à prescrição do fundo do direito, mas ao trato sucessivo, consoante posição destacada pelo excelso Superior Tribunal de Justiça.
+3 - Iniciando a administração o adimplemento do acréscimo vencimental em setembro de 2006 e sendo a demanda condenatória, alusiva ao período pretérito, ajuizada em 21 de outubro de 2008, encontram-se prescritas as parcelas anteriores a cinco anos - ar. Io, d o Decreto nº 20.910 - de 6 de janeiro de 1932 -, do termo de protocolo da lide. Em arremate, são devidas as parcelas atinentes ao lapso corrente entre 21 de outubro de 2003 e agosto de 2006.
+4 - Apelo provido, em parte, para se dar pela procedência parcial do pleito vestibular.
+ACÓRDÃO: Vistos, relatados c discutidos estes autos, acorda a 8a Câmara Cível do Tribunal de Justiça do Estado do Ceará, por unanimidade, em conhecer do recurso, para dar-lhe parcial provimento, nos termos do voto do Relator.
+Fortaleza, 27 de outubro de 2015
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte recorrente aponta violação dos arts. 458, II, e 535, do CPC/1973, aduzindo que houve recusa da Corte Local em analisar a omissão apontada pela recorrente no acórdão quanto à necessidade de redistribuição dos ônus sucumbenciais, ante a sucumbência recíproca, vez que o pedido autoral foi apenas parcialmente atendido em sede de recurso.
+Houve contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+A pretensão não merece acolhida.
+A alegada ofensa aos art. 535 do CPC não merece prosperar, eis que o Tribunal de origem já havia se manifestado de forma clara e fundamentada sobre alegação a insurgência da recorrente.
+Ademais, a bem da verdade, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater, um a um, os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia (EDcl no AgRg no AREsp 195.246/BA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 04/02/2014).
+Quanto à violação do art. 458, II, do CPC/1973, o Tribunal de origem, ao analisar a controvérsia, assentou que:
+Quanto à omissão na apreciação da verba honorária sucumbencial, há categórica afirmação na decisão hostilizada (fl. 192), a qual determinou a inversão dos ônus sucumbenciais ante relevante sucumbência da parte embargante, o que retira a razão para o acolhimento dos embargos.
+Dessarte, não se verifica a alegada violação, na medida em que a instância ordinária dirimiu, fundamentadamente, as questões que lhe foram submetidas. Inexistem os vícios apontados na insurgência recursal, porquanto o aresto recorrido, a despeito de não acolher os argumentos suscitados pelo recorrente, está devidamente motivado, havendo suficiente manifestação acerca dos temas necessários à integral solução da lide.
+Impende ressaltar que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994).
+Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Relator o eminente Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16.05.2005; REsp 685.168/RS, Relator o eminente Ministro JOSÉ DELGADO, DJ de 02.05.2005.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intime-se.
