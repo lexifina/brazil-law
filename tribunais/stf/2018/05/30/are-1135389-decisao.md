@@ -1,0 +1,27 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DESAPROPRIAÇÃO. CÁLCULOS. JUROS MORATÓRIOS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “Agravo de instrumento. Execução. Juros moratórios já definidos na apelação que decidiu os embargos à execução. Remessa ao Contador para apuração do saldo devedor. Redução parcial do valor. Recurso parcialmente provido.”
+    Os embargos de declaração opostos pela exequente foram parcialmente providos apenas para retificar a parte dispositiva do acórdão embargado no sentido de dar “provimento em parte ao recurso para fixar em R$ 309.069,70 o saldo devedor da 8ª parcela na data de 30/11/09”.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 93, IX e 100, § 5º, da Constituição Federal e à Súmula Vinculante 17.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontraria óbice na Súmula 279 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Com efeito, divergir do entendimento do Tribunal a quo quanto à incidência de juros moratórios, no presente caso, demandaria o reexame do conjunto fático–probatório dos autos.
+    Não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático–probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe à discussão eminentemente de direito, face ao óbice erigido pela Súmula 279 do STF.
+    Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do referido verbete sumular, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática. Nesse sentido:
+    “DIREITO ADMINISTRATIVO. DESAPROPRIAÇÃO. REFORMA AGRÁRIA. AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. JUSTA INDENIZAÇÃO. JUROS MORATÓRIOS E COMPENSATÓRIOS. MATÉRIA INFRACONSTITUCIONAL. REEXAME INCABÍVEL NO ÂMBITO DO RECURSO EXTRAORDINÁRIO. INVIABILIDADE DE REEXAME DE FATOS E PROVAS.
+    Impossibilidade de exame em recurso extraordinário de alegada violação, acaso existente, situada no âmbito infraconstitucional.
+    Inviabilidade de reenquadramento fático em sede recursal extraordinária. Aplicação da Súmula 279/STF: ‘para simples reexame de prova não cabe recurso extraordinário’.
+    Agravo regimental conhecido e não provido.” (AI 794.488-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 1º/8/2012)
+    Por oportuno, vale destacar preciosa lição de Roberto Rosas sobre a Súmula 279 do STF:
+    “Chiovenda nos dá os limites da distinção entre questão de fato e questão de direito. A questão de fato consiste em verificar se existem as circunstâncias com base nas quais deve o juiz, de acordo com a lei, considerar existentes determinados fatos concretos.
+    A questão de direito consiste na focalização, primeiro, se a norma, a que o autor se refere, existe, como norma abstrata (Instituições de Direito Processual, 2ª ed., v. I/175).
+    Não é estranha a qualificação jurídica dos fatos dados como provados (RT 275/884 e 226/583). Já se refere a matéria de fato quando a decisão assenta no processo de livre convencimento do julgador (RE 64.051, Rel. Min. Djaci Falcão, RTJ 47/276); não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821). No processo penal, a verificação entre a qualificação de motivo fútil ou estado de embriaguez para a apenação importa matéria de fato, insuscetível de reexame no recurso extraordinário (RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666).
+    A Súmula 279 é peremptória: ‘Para simples reexame de prova não cabe recurso extraordinário’. Não se vislumbraria a existência da questão federal motivadora do recurso extraordinário. O juiz dá a valoração mais conveniente aos elementos probatórios, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes. Não se confunda com o critério legal da valorização da prova (RTJ 37/480, 56/65)(Pestana de Aguiar, Comentários ao Código de Processo Civil, 2ª ed., v. VI/40, Ed. RT; Castro Nunes, Teoria e Prática do Poder Judiciário, 1943, p. 383). V. Súmula STJ-7.” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 137-138)
+    Por fim, relativamente à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada, ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Nesse sentido: AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
