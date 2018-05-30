@@ -1,0 +1,31 @@
+DECISÃO
+ Trata-se de conflito negativo de competência em que é suscitante o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, tendo como suscitado o JUÍZO DA 2ª VARA DO TRABALHO DE GRAVATAÍ - RS.
+Originariamente, DEBORA DELMANTO LAMBERTY ajuizou ação trabalhista visando a reparação de danos morais sofridos em decorrência de suposta prática discriminatória durante processo de seleção para preenchimento de vaga de emprego. A autora alegou que foi desclassificada do processo seletivo em virtude de inscrição no SPC.
+O Juízo suscitado declinou da competência sob os seguintes fundamentos:
+"Note-se que inexiste qualquer relação de trabalho entre as partes e uma simples leitura da peça portal dá conta de que a autora detinha apenas expectativa à vaga, porquanto do processo seletivo do qual participou (juntamente com diversas outras pessoas) não decorre seu direito ao emprego, inclusive por estar dentro do poder diretivo da empresa contratar ou não determinada pessoa que se submete a entrevista. Inexiste, portanto, qualquer obrigatoriedade de o empregador contratar os que se submetem a processo seletivo apenas pelo simples fato de sua existência, podendo, sim, estabelecer critérios de acordo com os cargos que visa a preencher. Tal procedimento não representa qualquer ofensa aos princípios constitucionais invocados pela parte, inclusive porque estes dizem respeito a circunstâncias completamente distintas da tratada no presente feito. Note-se que o dano moral objeto da competência trabalhista é aquele que ocorre no âmbito da relação empregado-empregador, agravado pelo fato de uma das partes se encontrar em estado de subordinação em relação à outra, o que não se verifica na hipótese em comento. Aliás, no aspecto, sequer se pode falar em pré-contrato, porquanto inexistente tal fase preliminar de contratação no caso em apreço, inclusive porque não há vinculação entre o ato de entrevistar o candidato e o ato de contratá-lo efetivamente, não havendo falar, assim, em garantia à vaga. Nesse sentido, a própria peça portal dá conta de quê a vaga de emprego buscada pela autora não passava de mera expectativa, não só sua como das diversas pessoas que a ela se candidataram e que também tiveram sua expectativa frustrada" (fl. 24 e-STJ).
+A ação foi julgada pela 2ª Vara Cível de Gravataí - RS e, por ocasião do julgamento do recurso de apelação, o Tribunal de Justiça do Estado do Rio Grande do Sul suscitou o presente conflito de competência.
+Observou a Corte suscitante que "(..) do relato contido na exordial, não se perfectibilizou relação de emprego entre as partes litigantes, mas estas entreteram tratativas com vistas à formação de vínculo laboral e a autora sujeitou-se a entrevista de emprego" (fl. 289 e-STJ - grifou-se). Entendeu existir uma promessa de contratação que caracterizaria uma relação de trabalho, afetando o julgamento da lide à competência da Justiça especializada.
+O Ministério Público Federal, em seu parecer, opinou pela declaração de competência da Justiça comum estadual.
+É o relatório.
+DECIDO.
+O conflito encontra-se configurado e deve ser dirimido.
+No caso em comento, não se vislumbra nenhuma relação de emprego entre as partes, sequer havendo falar em promessa de contratação, haja vista que a autora ainda estava em pleno processo seletivo com vários outros candidatos à mesma vaga de emprego.
+A causa de pedir e o pedido não se referem à existência de vínculo laboral, mas, no máximo, à mera expectativa de contratação, o que afasta o processamento e julgamento do feito da Justiça trabalhista.
+Nesse sentido:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA TRABALHISTA E JUSTIÇA COMUM ESTADUAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. OBRIGAÇÃO DE NATUREZA CIVIL NÃO ALBERGADA PELA RELAÇÃO TRABALHISTA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. A ação de indenização por danos materiais entre empregado e empregador, quando não relacionada ao contrato de trabalho, é de natureza civil, e cabe ser processada e julgada perante a Justiça Estadual.
+2. Agravo interno no conflito de competência não provido."
+(AgInt no CC 146.894/RJ, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 26/10/2016, DJe 4/11/2016)"
+"CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM ESTADUAL. AÇÃO DE COBRANÇA CUMULADA COM DANOS MORAIS. COMISSÕES PELA PRESTAÇÃO DE SERVIÇOS DE PUBLICIDADE. PROFISSIONAL LIBERAL. RELAÇÃO DE TRABALHO NÃO ALEGADA. CAUSA DE PEDIR. PEDIDO. ÍNDOLE EMINENTEMENTE CIVIL.
+1. Compete à Justiça Comum Estadual processar e julgar ação de cobrança de comissões, cumulada com indenização por danos morais, porquanto a controvérsia posta na demanda, derivada da prestação de serviços por profissional liberal a empresa de publicidade, possui caráter eminentemente civil.
+2. A causa de pedir e o pedido deduzidos na exordial nem sequer se referem à existência de relação de trabalho entre as partes.
+3. Conflito conhecido para declarar competente a Justiça Comum Estadual."
+(CC 118.649/SP, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 24/4/2013, DJe 2/4/2014)
+"CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM ESTADUAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RELAÇÃO DE TRABALHO NÃO ALEGADA. OFENSAS MORAIS IRROGADAS POR PROPRIETÁRIO DE EMPRESA PARA A QUAL A AUTORA PRESTOU SERVIÇOS. CAUSA DE PEDIR. PEDIDO. ÍNDOLE EMINENTEMENTE CIVIL.
+1. Compete à Justiça Comum Estadual processar e julgar ação de indenização por danos morais, na hipótese em que a autora da ação afirma ter sido ofendida moralmente por proprietário de empresa para a qual prestou serviços, em período posterior à prestação dos serviços e fora das dependências da empresa.
+2. A demanda deriva de relação jurídica de cunho eminentemente civil, porquanto a causa de pedir e o pedido deduzidos na exordial não se referem à existência de relação de trabalho entre as partes.
+3. Conflito conhecido para declarar competente a Justiça Comum Estadual."
+(CC 126.216/SP, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 24/4/2013, DJe 29/4/2013)
+Ante o exposto, conheço do conflito para declarar competente o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL - ora suscitante, para prosseguir no julgamento do recurso de apelação.
+Oficiem-se.
+Publique-se.
