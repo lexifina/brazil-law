@@ -1,0 +1,17 @@
+EMENTA
+DIREITO ADMINISTRATIVO. PROCESSO CIVIL. VIOLAÇÃO AO ART. 535 DO CPC/1973. RETORNO DOS AUTOS AO TRIBUNAL A QUO PARA UM NOVO JULGAMENTO.
+DECISÃO
+Trata-se de recurso especial de [NOME] fundado na alínea "a" do permissivo constitucional, interposto contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (e-STJ fl. 313):
+RESPONSABILIDADE CIVIL DA ADMINISTRAÇÃO. ACIDENTE EM SERVIÇO. INDENIZAÇÃO. ILEGITIMIDADE DA UNIÃO FEDERAL. SERVIDOR CEDIDO A OUTRO ENTE ESTATAL. REMESSA À JUSTIÇA DO ESTADO.
+Se o servidor público, embora pertencendo aos quadros da União Federal ou de autarquia federal, é cedido a outra entidade federativa (Estado do Espírito Santo), na qual vem a se acidentar, no exercício de seus misteres perante o órgão cessionário, não é pertinente a inserção da UNIÃO FEDERAL no polo passivo da demanda, cujo exame refoge por completo a qualquer atuação do ente cedente. Pleito que objetiva a reparação por danos morais, materiais e estéticos, oriundos do acidente, ocorrido quando o servidor se encontrava cedido a outro ente estatal. Acidente em serviço que levou à amputação de dedo mínimo da mão esquerda do autor. Exclui-se da lide a União Federal e, com fulcro no artigo 113 do CPC, pronuncia-se a nulidade da sentença, determinando-se a remessa dos autos à Justiça do Estado. Apelo da União provido. Prejudicado o apelo do Estado do Espírito Santo.
+Os embargos de declaração do recorrente fora rejeitado (e-STJ fls. 344).
+No recurso especial, a parte recorrente sustenta que a União é parte legítima para figurar no polo passivo da demanda, em razão do que dispõe o art. 93 da Lei 8112/1990 e art. 20 da Lei n.º 8270/1991, que não foi cedido para exercício de cargo de confiança, mas sim por lei específica (o retrocitado art. 20 da Lei n.º 8270/1991), ademais aduz que, mesmo com a oposição dos aclaratórios, o Tribunal não se manifestou sobre tais questões e, portanto, merecia ser anulado.
+Houve contrarrazões (e-STJ fls. 401/411).
+O Ministério Público Federal, em seu parecer, opina pelo provimento do recurso especial do recorrente.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+Primeiramente, no que diz respeito a suposta violação ao art. 535 do CPC/73, com razão o recorrente, porquanto não houve pronunciamento da instância originária sobre a premissa de que o recorrente não teria sido cedido em razão de cargo em comissão ou confiança (inciso I do artigo 93 Lei 8112/90), mas sim, de acordo com os documentos anexos à inicial, que o recorrente foi cedido em razão de lei própria, a saber Lei 8.270/91, artigo 20, estando portanto enquadrado no inciso II do artigo 93 Lei 8112/90.
+Houve, portanto, inequívoca falha na prestação jurisdicional, dada a ausência e a contradição de enfrentamento de questões, em tese passíveis de modificar o acórdão hostilizado.
+Essencial, assim, que os autos retornem à instância a quo, para que seja proferido novo julgamento.
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão proferido no âmbito dos embargos de declaração, determinando ao Tribunal a quo um novo julgamento do recurso, enfrentando o ponto tido por omisso.
+Publique-se. Intimem-se.
