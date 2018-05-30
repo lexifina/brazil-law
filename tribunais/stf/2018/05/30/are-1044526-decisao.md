@@ -1,0 +1,22 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 390, Vol. 1):
+    “APELAÇÃO CÍVEL - TRIBUTÁRIO E ADMINISTRATIVO - REGIME DE TRIBUTAÇÃO - SIMPLES MINAS - DESENQUADRAMENTO DE OFÍCIO - ILEGALIDADE - INSTAURAÇÃO DE PROCESSO ADMINISTRATIVO PRÉVIO - IMPRESCINDIBILIDADE.
+    O contribuinte não pode ser desenquadrado do regime especial de tributação denominado ‘Simples Minas’ sem instauração prévia de processo administrativo, haja vista o flagrante acinte à norma contida no item LV do art. 5o. da CR.”
+    No apelo extremo, alega-se, com amparo no art. 102, III, a, da Constituição Federal, que o acórdão recorrido violou o art. 5º, LV, da Carta Magna.
+    Por meio de despacho exarado pela ilustre Ministra CÁRMEM LÚCIA, determinou-se a devolução destes autos ao Tribunal de origem para fins de aplicação do entendimento firmado no ARE 748.371, GILMAR MENDES, Tema 660 (Doc. 4)
+    Todavia, o Tribunal de origem, após manter o seu entendimento em em juízo de retratação, remeteu os autos a esta CORTE (Doc. 7, fls. 8-10).
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar formal e motivadamente a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, ao apreciar a controvérsia, o Tribunal de origem consignou o seguinte (fl. 392, Vol. 1):
+    “Verifico, na hipótese dos autos, que o Estado de Minas Gerais afirma que a autora foi comunicada da exclusão do Simples, por meio do ofício ‘GAB/AFBH-I/SRF-1 nº 204/2006 de 01/08/2006’ (f.254). No entanto, tal ofício não foi colacionado aos autos, mas apenas é citado em uma cópia de outro ofício à f. 41.
+    Ora, caberia ao Estado apresentar ou demonstrar por meio de documento hábil a comunicação do desenquadramento da recorrida, pois somente a partir da regular notificação é que o contribuinte poderia impugnar o ato, dando início ao processo administrativo.”
+    A solução dessa controvérsia, portanto, depende do reexame do contexto fático-probatório dos autos, o que é incabível em recurso extraordinário, conforme consubstanciado na Súmula 279 desta CORTE (Para simples reexame de prova não cabe recurso extraordinário).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
