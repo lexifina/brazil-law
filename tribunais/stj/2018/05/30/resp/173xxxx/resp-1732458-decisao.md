@@ -1,0 +1,21 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO interpõe recurso especial, fundado no art. 105, III, "c", da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça daquele estado no Agravo em Execução n. 143424/2016.
+Na hipótese, a Corte de origem negou provimento ao agravo em execução interposto pelo Ministério Público estadual para manter "o entendimento aplicado pelo juízo a quo, segundo qual o cômputo do prazo para a obtenção de novos benefícios executivos se inicia a partir da data da última prisão (11.6.2012)" (fl. 970).
+Confira-se a ementa do referido julgado (fl. 962):
+AGRAVO EM EXECUÇÃO - DECISÃO A QUO QUE CONCEDEU PROGRESSÃO DE REGIME - IRRESIGNAÇÃO MINISTERIAL - ALEGADO O NÃO PREENCHIMENTO DO REQUISITO OBJETIVO - SUSTENTA COMO MARCO INICIAL A DATA DO ÚLTIMO TRÂNSITO EM JULGADO - IMPROCEDÊNCIA - ELEMENTOS OBJETIVO E SUBJETIVO DO ARTIGO 112 DA LEP FORAM DEVIDAMENTE PREENCHIDOS - DATA-BASE PARA FINS DE PROGRESSÃO DE REGIME É A DATA DA ÚLTIMA PRISÃO DO REEDUCANDO - RECURSO DESPROVIDO.
+Entende-se como termo inicial para o cômputo do prazo para a concessão de progressão de regime a data da última prisão do reeducando e não a do trânsito em julgado da decisão condenatória.
+Preenchidos os requisitos objetivo e subjetivo exigidos pelo art. 112 da LEP, imperiosa a transferência para o regime mais brando.
+Nas razões do recurso especial, o Parquet alega divergência entre a interpretação dada pelo Tribunal de Justiça estadual e a dos Tribunais Superior a respeito dos arts. 1º e 112, ambos da Lei de Execução Penal.
+Pleiteia, assim, a reforma do acórdão recorrido "a fim de se considerar a data do trânsito em julgado da nova condenação como a data-base para contagem de eventuais benefícios da execução penal" (fl. 991).
+Contrarrazões às fls. 1.003-1.013.
+O Ministério Público Federal, às fls. 1.037-1.038, opinou pelo provimento do recurso especial.
+Decido.
+Inicialmente, observo que o recurso especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade do recurso especial (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), razões pelas quais avanço na análise de mérito.
+A controvérsia deduzida neste recurso cinge-se à alteração da data-base para futuros benefícios da execução ante a superveniência de nova condenação e já foi amplamente debatida pela Terceira Seção no julgamento do REsp n. 1.557.461/SC, finalizado em 22/2/2018, a cujas razões de decidir faço expressa referência, para evitar repetições inúteis.
+Na oportunidade, depois de vários debates, este Superior Tribunal modificou sua jurisprudência sobre o tema e, desde então, haja vista o princípio da segurança jurídica, a Quinta e a Sexta Turma passaram a compreender que a unificação de penas não altera a data-base para concessão de benefícios executórios.
+Se nem sequer a regressão de regime é consectário lógico do somatório das reprimendas, não é possível indicar o parágrafo único do art. 111 e o inc. II do art. 118, ambos da Lei de Execução Penal, para fins de interromper a data-base para concessão de futuros benefícios. Não existe nenhuma disposição legal expressa nesse sentido e a interpretação é prejudicial ao sentenciado.
+A providência constituiria afronta ao princípio da legalidade e ofensa à individualização da pena, motivo pelo qual se faz necessária a preservação do marco interruptivo anterior à unificação das penas.
+Deveras, a prática de novo crime no curso da execução constitui falta grave e já altera a data-base para progressão de regime. Ademais, se o sentenciado cometeu outro ilícito em data anterior ao início da execução, o fato é irrelevante para avaliar seu mérito carcerário. Assim, em qualquer das duas hipóteses, configura excesso de execução desconsiderar, à míngua de previsão legal, o período de cumprimento de pena desde a última infração disciplinar ou desde a última prisão.
+Portanto, o acórdão impugnado está em harmonia com o atual entendimento da Terceira Seção deste Superior Tribunal de Justiça.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. art. 34, XVIII, "b", parte final, do RISTJ, nego provimento ao recurso especial.
+Publique-se e intimem-se.
