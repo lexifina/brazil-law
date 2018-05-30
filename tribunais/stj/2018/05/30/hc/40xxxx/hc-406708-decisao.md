@@ -1,0 +1,14 @@
+DECISÃO
+[NOME], paciente neste habeas corpus, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação n. 0001535-02.2016.8.24.0020.
+Depreende-se dos autos que o paciente foi condenada, em primeiro grau, à pena de 4 anos e 2 meses de reclusão, em regime fechado, mais multa, pela prática do delito de tráfico de drogas, pois trazia consigo 53 g de cocaína.
+O Tribunal de origem, deu parcial provimento ao recurso da defesa, reduziu a pena-base ao mínimo legal e tornou a reprimenda definitiva em 4 anos e 2 meses de reclusão, em regime semiabeto, mais multa.
+Nesta Corte, busca a impetrante a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 em seu patamar máximo.
+A liminar foi indeferida e, prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+Decido.
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+Assim, observa-se que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nela prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+No caso, a Corte de origem considerou devida a incidência da fração de 1/6, em razão da natureza e quantidade de drogas apreendidas, de modo que, havendo sido concretamente fundamentada a aplicação da minorante em comento no patamar de 1/6, não identifico nenhum constrangimento ilegal de que estaria sendo vítima o paciente neste ponto, máxime porque a quantidade de drogas apreendidas não foi sopesada para fins de exasperação da pena-base.
+Nesse ponto, importante frisar que as circunstâncias relativas à natureza e à quantidade de drogas apreendidas só podem ser usadas, na dosimetria da pena, ou na primeira ou na terceira fase, sempre de forma não cumulativa. Assim, corretamente decidiu a Corte estadual ao não considerar essas circunstâncias na primeira fase a fim de evitar o bis in idem.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
