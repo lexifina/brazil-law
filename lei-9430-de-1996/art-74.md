@@ -6,11 +6,11 @@ I - o saldo a restituir apurado na Declaração de Ajuste Anual do Imposto de Re
 II - os débitos relativos a tributos e contribuições devidos no registro da Declaração de Importação.
 III - os débitos relativos a tributos e contribuições administrados pela Secretaria da Receita Federal que já tenham sido encaminhados à Procuradoria-Geral da Fazenda Nacional para inscrição em Dívida Ativa da União;
 IV - o débito consolidado em qualquer modalidade de parcelamento concedido pela Secretaria da Receita Federal - SRF;
-V - o débito que já tenha sido objeto de compensação não homologada, ainda que a compensação se encontre pendente de decisão definitiva na esfera administrativa; e
-VI - o valor objeto de pedido de restituição ou de ressarcimento já indeferido pela autoridade competente da Secretaria da Receita Federal - SRF, ainda que o pedido se encontre pendente de decisão definitiva na esfera administrativa.
-VII - os débitos relativos a tributos e contribuições de valores originais inferiores a R$ 500,00 (quinhentos reais);
-VIII - os débitos relativos ao recolhimento mensal obrigatório da pessoa física apurados na forma do art. 8º da Lei nº 7.713, de 1988; e
-IX - os débitos relativos ao pagamento mensal por estimativa do Imposto sobre a Renda da Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL apurados na forma do art. 2º.
+V - o débito que já tenha sido objeto de compensação não homologada, ainda que a compensação se encontre pendente de decisão definitiva na esfera administrativa;
+VI - o valor objeto de pedido de restituição ou de ressarcimento já indeferido pela autoridade competente da Secretaria da Receita Federal do Brasil, ainda que o pedido se encontre pendente de decisão definitiva na esfera administrativa;
+VII - o crédito objeto de pedido de restituição ou ressarcimento e o crédito informado em declaração de compensação cuja confirmação de liquidez e certeza esteja sob procedimento fiscal;
+VIII - os valores de quotas de salário-família e salário-maternidade; e
+IX - os débitos relativos ao recolhimento mensal por estimativa do Imposto sobre a Renda das Pessoas Jurídicas (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL) apurados na forma do art. 2º desta Lei.
 § 4º Os pedidos de compensação pendentes de apreciação pela autoridade administrativa serão considerados declaração de compensação, desde o seu protocolo, para os efeitos previstos neste artigo.
 § 5º O prazo para homologação da compensação declarada pela sujeito passivo será de 5 (cinco) anos, contado da data da entrega da declaração de compensação.
 § 6º A declaração de compensação constitui confissão de dívida e instrumento hábil e suficiente para a exigência dos débitos indevidamente compensados.
