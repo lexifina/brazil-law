@@ -1,0 +1,24 @@
+Vistos etc.
+    Referente à Petição/STF nº 76.762/2018:
+    1. Wagner Mota Alves de Souza postula a nulidade dos atos decisórios desta Reclamação Constitucional e, sucessivamente, a extinção do feito sem resolução de mérito, nos termos do art. 485, VI, do CPC/2015.
+    Reporta ter sido determinada, nos Recursos Extraordinários nº 1.059.466 e 968.646 (Temas 966 e 976 da sistemática da repercussão geral), a suspensão de todos os processos em tramitação no território nacional que versem o pagamento, respectivamente, de licença-prêmio e de diárias a membros da Magistratura em simetria com os do Ministério Público.
+    Defende que o efeito suspensivo das decisões nos casos paradigmáticos deve se estender a quaisquer feitos cujo objeto seja a concessão de vantagens com base na simetria constitucional entre as supracitadas carreiras, ainda que as parcelas sejam diversas daquelas descritas nos recursos submetidos à repercussão geral.
+    Assevera que a suspensão do processo é matéria de ordem pública, pelo que pode ser conhecida a qualquer tempo.
+    2. Destaco veiculada, nesta reclamação, a violação da Súmula Vinculante 37 em razão do reconhecimento, a magistrado federal, do direito ao pagamento de ajuda de custo em decorrência de provimento inicial, na forma em que realizado aos membros do Ministério Público da União, ao fundamento de serem carreiras simétricas.
+    Em 26.9.2018, julguei procedente a reclamação, a fim de cassar a decisão reclamada e determinar que outra seja proferida em observância à Súmula Vinculante nº 37 (Dje 206, de 28.9.2018).
+    É o relatório.
+    Decido.
+    1. Incognoscível o pedido.
+    2. De início, a decisão pela qual julgada procedente a reclamação foi publicada em 28.9.2018 (sexta-feira). Esta Petição nº 76.762/2018 somente foi protocolada em 21.11.2018 (quarta-feira), quando, em 22.10.2018, segunda-feira, esgotara-se o prazo previsto no artigo 1.021, § 2º, do CPC/2015.
+    3. De rigor, portanto, o não conhecimento da peça processual em questão e, por conseguinte, a certificação do trânsito em julgado.
+    4. Demais disso, inviável o requerimento manejado por meio de simples petição, o qual, com aparência de pedido de reconsideração, não tem forma nem figura de juízo, à luz do princípio da taxatividade dos recursos. Nesse sentido, inter plures: AR 2457 ExecFazPub, Rel. Min. Edson Fachin, Dje 28.3.2019, Rcl 32724, Rel. Min. Edson Fachin, Dje 14.12.2018, Rcl 22188 AgR-ED, da minha lavra, Dje 28.9.2018, Rcl 27046 AgR-ED, Rel. Min. Luiz Fux, Dje 28.8.2018.
+    5. Registro, por derradeiro, falecer a esta petição qualquer utilidade na obtenção do provimento jurisdicional. Extraio do sítio do Tribunal Regional Federal da 1ª Região que já ocorreu o colimado sobrestamento do Processo nº 0038936-69.2013.4.01.3300, a teor do art. 1.035, §5º do CPC. Confira-se a decisão da Corte de origem:
+    “Pendem de apreciação no STF os temas 966 e 976 para os quais foi reconhecida repercussão geral:
+    Ementa: CONSTITUCIONAL E ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO. DIREITO DOS JUÍZES À LICENÇA-PRÊMIO COM BASE NA ISONOMIA EM RELAÇÃO AO MINISTÉRIO PÚBLICO. REPERCUSSÃO GERAL RECONHECIDA. 1. Revela especial relevância, na forma do art. 102, § 3º, da Constituição, a questão acerca da concessão de licença-prêmio a magistrados com base na isonomia em relação aos membros do Ministério Público. 2. Repercussão geral da matéria reconhecida, nos termos do art. 1.035 do CPC. (RE 1059466 RG, Relator(a): Min. ALEXANDRE DE MORAES, julgado em 12/10/2017, PROCESSO ELETRÔNICO DJe-257 DIVULG 10-11-2017 PUBLIC 13- 11-2017 )
+    Ementa: CONSTITUCIONAL E ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO. DIÁRIAS DEVIDAS AOS JUÍZES. EQUIPARAÇÃO AO VALOR PAGO AOS MEMBROS DO MINISTÉRIO PÚBLICO. ISONOMIA ENTRE AS CARREIRAS. REPERCUSSÃO GERAL RECONHECIDA. 1. Revela especial relevância, na forma do art. 102, § 3º, da Constituição, a questão acerca da equiparação do valor das diárias devidas a membros da Magistratura e do Ministério Público, em nome da isonomia entre as carreiras. 2. Repercussão geral da matéria reconhecida, nos termos do art. 1.035 do CPC. (RE 968646 RG, Relator(a): Min. ALEXANDRE DE MORAES, julgado em 16/11/2017, PROCESSO ELETRÔNICO DJe-265 DIVULG 22-11-2017 PUBLIC 23- 11-2017 )
+    A solução de ambos os temas, assim como da questão tratada nos presentes autos cuida daquilo que se convencionou chamar de “simetria”. Ante o exposto, sobreste-se o julgamento do presente recurso até que haja pronunciamento a respeito pelo Supremo Tribunal Federal, conforme art. 1.035, §5º do CPC”.
+    6. Posto isso, ausente a aptidão do petitório em epígrafe para interromper o decurso do prazo recursal, pelo que dele não conheço. Exaurida a prestação jurisdicional, certifique-se o trânsito em julgado.
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministra Rosa Weber
+Relatora
