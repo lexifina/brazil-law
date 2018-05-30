@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INTERPRETAÇÃO — INVIABILIDADE — AGRAVO DESPROVIDO
+    1. O Tribunal Regional Federal da 5ª Região confirmou o entendimento do Juízo quanto à parcial procedência de pedido formulado em ação regressiva de ressarcimento de danos relativos a acidente do trabalho. No extraordinário cujo trânsito busca alcançar, a recorrente aponta violado o artigo 5º, incisos LIV e LV, da Constituição Federal. Argui nulidade do processo por cerceamento de defesa, considerado o indeferimento da produção de prova pericial
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese da decisão recorrida:
+    PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RETORNO DOS AUTOS DO STJ. OMISSÃO. OCORRÊNCIA.
+    1. Os autos retornam do Superior Tribunal de Justiça que deu provimento ao Recurso Especial interposto pela Calçados Hispana Ltda., aduzindo omissão quanto à prescrição da pretensão do INSS de ressarcimento decorrente da concessão de benefício previdenciário e à necessidade da realização de perícias atuais (médica e técnica).
+    2 A questão da ocorrência de prescrição do fundo de direito foi rejeitada em decisão na Primeira Instância, ao entendimento de que estariam prescritas apenas as parcelas anteriores aos cinco anos do ajuizamento da ação, por se tratar de prestações de trato sucessivo. Contra essa decisão, a Empresa/Embargante interpôs Agravo de Instrumento, o qual foi improvido pela Terceira Turma deste Regional, em julgamento realizado na. Sessão- de .15/10/2010, tendo . o acórdão transitado em julgado em 14/10/2010. Questão que se encontra acobertada pelo manto da coita julgada, não podendo mais ser rediscutida.
+    3. Acórdão embargado que se valeu de prova emprestada, produzida em respeito ao contraditório, para formação da decisão. Admissão da prova emprestada em conformidade com o entendimento pacificado pelo STJ - (AgRg no AREsp 299.583/CE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 22/5/2013).
+    4. Embargante que foi parte no processo trabalhista do qual foi extraído o laudo pericial médico-trabalhista que comprovou ser a enfermidade apresentada pela ex-empregada (tendinite cálcica de supra espinhoso esquerdo) urna doença ocupacional, sendo concluída a existência de nexo técnico. Na ocasião, fora respeitado o contraditório, tendo a Empresa demandada se manifestado sobre a perícia.
+    5. Não há que se falar em necessidade da realização de perícia atual, eis que o referido laudo foi elaborado em 2009, - sendo, portanto, contemporâneo à presente demanda (ação ajuizada em 2010).
+    6. Realização de perícia técnica no, ambiente de trabalho desnecessária, face à suficiência da prova emprestada (perícia médico-trabalhista) para o julgamento da lide. Embargos de Declaração providos, sem a atribuição de efeito modificativo.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Nego seguimento ao extraordinário. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 5.000,00 (cinco mil reais), fixo os honorários recursais no patamar de R$ 2.500,00 (dois mile quinhentos reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 30 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
