@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "c", da Constituição Federal, interposto por LINANIA EMPREENDIMENTOS IMOBILIARIOS LTDA E OUTRO contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"CONTRATO IMOBILIÁRIO Ação de indenização Recurso contra sentença de parcial procedência Descabimento Legitimidade passiva solidária que emerge da cadeia de fornecedores que caracteriza a relação de consumo Entrega de empreendimento em desconformidade com o contratado Indenização pela desvalorização do imóvel Ressarcimento de danos materiais e morais Possibilidade Recurso desprovido." (e-STJ, fl. 559)
+Nas razões do recurso especial, a parte agravante alega divergência jurisprudencial quanto à interpretação dos arts. 186 e 927 do CC/2002, sustentando, em síntese, que o mero descumprimento contratual não enseja danos morais.
+Contrarrazões às fls. 590/609 (e-STJ).
+É o relatório. Decido.
+O Tribunal de origem, no que se refere aos danos morais, expressamente consignou ser devida a indenização por danos morais diante da frustração das expectativas adquirente do imóvel que se viu privado do direito de utilizar o bem nos termos em que o comprou, nos seguintes termos:
+"Devida igualmente compensação por dano imaterial, vez que manifesta a frustração da adquirente.
+Como bem consignado pela sentença, "presumidos são os percalços enfrentados na resolução do conflito pela requerente, emergindo a obrigação de indenizar. O dano moral existe in re ipsa, derivando inexoravelmente do próprio fato ofensivo, de tal modo que, provada a ofensa, automaticamente está demonstrado o dano moral à guisa de uma presunção material. Aliás, é impossível se conceber que alguém que adquire um imóvel que tinha certo projeto e se encontra privado do direito de utilizar o bem nos exatos termos em que o comprou e o pagou, tudo em conformidade com o contrato celebrado, não esteja sofrendo contratempos com os quais não contava". Mais não é preciso." (e-STJ, fls. 561)
+Nesse contexto, a alteração do quadro fático delineado pelo Tribunal de origem para se reconhecer que a situação dos autos trata de mero descumprimento contratual, a fim de se afastar a condenação por danos morais, demandaria o revolvimento do suporte fático-probatório dos autos, o que é vedado em sede de recurso especial em razão da incidência da Súmula 7/STJ, e impede a análise da divergência jurisprudencial invocada. A propósito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO (ART. 1042 do CPC/15) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS AUTORES.
+1. Na hipótese, o Tribunal de origem, com base nos elementos fático-probatórios constantes dos autos, concluiu pela inexistência de nexo causal entre a conduta da ré e o acidente que vitimou a filha dos autores, tendo ocorrido, no caso, culpa exclusiva de terceiro. A revisão de tal entendimento encontra óbice na Súmula 7 do STJ.
+2. A incidência da Súmula 7 do STJ impede o exame do dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal a quo.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1065692/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/03/2018, DJe 03/04/2018 - grifo nosso)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NÃO COMPROVAÇÃO DE PRÁTICA DE AGIOTAGEM. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. INVERSÃO DO ÔNUS DA PROVA. IMPOSSIBILIDADE.
+SÚMULA N. 7 DO STJ. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO IMPROVIDO.
+1. A conclusão a que chegou o Tribunal de origem acerca da ausência de prática de agiotagem decorreu de convicção formada em face dos elementos fáticos e peculiaridades existentes nos autos. Rever os fundamentos do acórdão recorrido importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal em razão do óbice sumular n. 7 do STJ.
+2. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+3. Agravo improvido.
+(AgRg no AREsp 846.410/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/05/2016, DJe 27/05/2016 - grifo nosso)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11%.
+Publique-se.
