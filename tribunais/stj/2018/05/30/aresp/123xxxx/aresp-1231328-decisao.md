@@ -1,0 +1,26 @@
+DECISÃO
+
+Trata-se de agravo interposto por SERGIO VIEIRA FERRARO contra decisão do Tribunal de Justiça do Rio de Janeiro, que não admitiu recurso especial fundado na alínea "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 142):
+APELAÇÃO. DIREITO ADMINISTRATIVO. POLICIAL MILITAR. GRATIFICAÇÃO ESPECIAL DE ATIVIDADE (GEAT). SUPRESSÃO COMPENSADA PELO REAJUSTAMENTO DE 67,5% PREVISTO NO DECRETO ESTADUAL 28.585/01 E LEI ESTADUAL 3.691/01, QUE MENCIONAM A APLICAÇÃO DO PERCENTUAL MENSAL DE 5,625% DURANTE DOZE MESES. PRETENSÃO DE REVISÃO DO SOLDO POR CÁLCULO EQUIVOCADO REALIZADO PELA ADMINISTRAÇÃO. O CÁLCULO DO REAJUSTE FINAL DE 67,5% TEM POR BASE O SOLDO ORIGINÁRIO DO MILITAR, COMO ASSIM SINALIZADO PELA ADMINISTRAÇÃO, E NÃO OS VALORES RESULTANTES DOS ACRÉSCIMOS CORRESPONDENTES AOS VALORES REAJUSTADOS MÊS A MÊS, COMO PRETENDE O APELANTE.
+DECISÃO CORRETA, NA FORMA E NO CONTEÚDO, QUE INTEGRALMENTE SE MANTÉM.
+DESPROVIMENTO DO RECURSO.
+No especial obstaculizado, a parte recorrente apontou a existência de dissídio jurisprudencial acerca do equívoco no aumento e incorporação da Gratificação Especial de Atividade - GEAT nos soldos dos Policiais Militares.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que o recurso manejado apresenta os mesmos fundamentos já apreciados na decisão que o inadmitiu. (e-STJ fls. 367/368).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, ressalvado o meu entendimento pessoal, a jurisprudência desta Corte de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp. 1.346.588/DF, relator Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+Na espécie, a parte recorrente não se desincumbiu de indicar o dispositivo de lei federal supostamente violado em razão do dissídio, limitando-se a apontar que o Tribunal de origem deu interpretação divergente à Leis e Decretos editados pelo Estado do Rio de Janeiro, daquela empregada nos acórdãos paradigmas. Assim, em respeito à orientação firmada pela Corte Especial deste Tribunal, ajusta-se à hipótese a aplicação do contido nas Súmulas 280 e 284 do STF.
+A propósito, os precedentes de ambas as Turmas que integram a Primeira Seção deste Tribunal Superior:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. PROVA DISCURSIVA. ALEGAÇÃO DE INADEQUAÇÃO AO CONTEÚDO DO EDITAL. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO SUPOSTAMENTE APLICADO DE MODO DIVERGENTE. SÚMULA 284/STF. INTERPRETAÇÃO DE CLÁSULA DO EDITAL. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 5 E 7/STJ.
+ ..
+2. Também no recurso especial lastreado na alegada existência de divergência pretoriana se exige do recorrente a precisa indicação do dispositivo de lei federal que se afirma violado, sob pena de incidência da Súmula 284/STF. Precedentes: AgRg no REsp 1.346.588/DF, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, DJe 17/3/2014; AgRg no REsp 1.527.274/MG, Rel.ª Ministra Regina Helena Costa, Primeira Turma, DJe 23/9/2015; AgRg no AREsp 736.813/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 22/9/2015; AgRg no Ag 1.088.576/RS, Rel.ª Ministra Maria Isabel Gallotti, DJe 26/8/2015.
+ ..
+4. Agravo regimental a que se nega provimento (AgRg no AREsp n. 770.014/SC, relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 03/02/2016).
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. APOSENTADORIA. RURAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+Observa-se grave defeito de fundamentação no apelo especial, uma vez que o agravante não particulariza quais os preceitos legais infraconstitucionais estariam supostamente afrontados. Assim, seu recurso não pode ser conhecido nem pela alínea "a" e tampouco pela alínea "c" do permissivo constitucional, porquanto, ao indicar a divergência jurisprudencial sem a demonstração do dispositivo de lei violado, caracterizadas estão a alegação genérica e a deficiência de fundamentação recursal.
+Agravo regimental improvido (AgRg no AREsp n. 821.869/SP, relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe 24/02/2016).
+Por fim, consigno que "não cabem honorários recursais na hipótese de inexistência de condenação prévia em honorários sucumbenciais principais, quando, por exemplo, houver a estipulação de sucumbência recíproca. Inteligência do art. 85, § 11, do CPC/2015". (REsp 1697387/RO, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 18/12/2017)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
