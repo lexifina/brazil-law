@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra a decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AÇÃO DE COBRANÇA. Seguro de Vida em Grupo. Previsão de cobertura securitária para invalidez permanente por acidente e invalidez funcional permanente total por doença. Segurado acometido com lesão nos ombros, decorrente de sua atividade profissional. SENTENÇA de improcedência. APELAÇÃO do autor, que visa à reforma da sentença para o acolhimento do pedido inicial, com a inversão da sucumbência. REJEIÇÃO. Doença profissional que não se equipara a acidente de trabalho. Cláusula expressa de exclusão de cobertura para o caso de doença profissional. Não configuração de abusividade ou de ilicitude contratual. Limitação de cobertura que se relaciona à fixação do prêmio. Contrato de seguro com informações claras e acessíveis ao segurado, que não admite interpretação extensiva, "ex vi" do artigo 757 do Código Civil. Sentença mantida. RECURSO NÃO PROVIDO" (fl. 184, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, foi alegada, além de divergência jurisprudencial, violação dos artigos 20, I e II, e 21, I, da Lei nº 8.213/1991 e 2º, 3º e 6º, III, 46, 47, 51, IV, § 1º, e II, e 54 da Lei nº 8.078/1990.
+O recorrente sustenta, em síntese, que a invalidez permanente, ocasionada por doença ocupacional, se equipara à causada por acidente de trabalho, ensejando o pagamento da indenização do seguro de vida em grupo.
+Após a apresentação das contrarrazões (fls. 271/294, e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Na presente hipótese, o Tribunal de origem entendeu que o ora recorrente não faz jus à indenização por seguro de vida em grupo, pois a sua incapacidade decorreu de doença profissional, cuja cobertura foi expressamente excluída da apólice.
+É o que se colhe nos seguintes trechos do acórdão recorrido:
+"(..)
+Ao que se colhe dos autos, o autor, ora apelante, é segurado e beneficiário do Contrato de Seguro de Vida em Grupo nº 3314088, firmado com a Seguradora ré, ora apelada, referente à Apólice nº 01.93.6975715, com vigência a partir de 01 de agosto de 2012, figurando sua empregadora, a Empresa Parker Hannifin Indústria e Comércio Ltda., como estipulante. Consta que a Apólice em questão previa, entre outras, cobertura para caso de invalidez permanente por acidente (IPA) e invalidez funcional permanente total por doença (IFPD).
+Consta ainda que o autor apresentou lesões nos ombros decorrentes de esforço repetitivo e foi submetido à intervenção cirúrgica no dia 18 de novembro de 2006, culminando com a concessão de aposentadoria por invalidez (acidente de trabalho) a partir de 23 de novembro de 2007.
+Comunicado o sinistro à ré, ela negou o pagamento da indenização securitária a pretexto ausência de cobertura. Daí a Ação (fls. 1/8 e 9/38).
+Malgrado a insistência do autor, ora apelante, a r. sentença apelada não comporta a pretendida reforma.
+Com efeito, o autor, ora apelante, alega que padece de invalidez permanente por acidente (lesões nos ombros, síndrome de impacto com tendinite, bursite e síndrome do manguito rotador), como fundamento do pedido de cobertura securitária.
+Ocorre que a documentação que instrui os autos evidencia que ele foi acometido por "doença de trabalho" ("doença osteomuscular relacionada ao trabalho - DORT"), que não se equipara a "acidente de trabalho", conforme pacífico entendimento jurisprudencial, especialmente porque há cláusula expressa de exclusão da cobertura securitária para o caso de doenças profissionais (v. fl. 72).
+Demais, não se vislumbra cogitada abusividade ou ilicitude contratual pela exclusão do risco referente à doença em causa, já que relacionado à ocorrência de um evento, que é importante para a fixação do prêmio e para a realização dos cálculos atuariais elaborados pela Seguradora.
+Outrossim, havendo limitação aos riscos cobertos no contrato, não se admite interpretação extensiva para beneficiar o segurado (v. artigo 757 do Código Civil), sequer pela incidência das normas previstas no Código de Defesa do Consumidor Lei nº 8.078/90), tendo em vista a suficiência e a possibilidade de acesso e de compreensão das informações constantes da Apólice em causa, em atendimento ao dever de informação previsto no artigo 6º, inciso III, da Lei nº 8.078/90.
+Assim, não demonstrada nos autos a ocorrência do cogitado acidente passível da cobertura securitária pleiteada, era mesmo de rigor o decreto de improcedência.
+(..)" (fls. 185/187, e-STJ - grifou-se).
+Com efeito, rever tal entendimento, para reconhecer o direito do recorrente de receber a indenização securitária contratada, implicaria o reexame de cláusulas contratuais e do contexto fático-probatório dos autos, procedimento inadmissível no recurso especial pela incidência das Súmulas nºs 5 e 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE SAÚDE E/OU ACIDENTES PESSOAIS. APÓLICE EM GRUPO. AÇÃO DE COBRANÇA DE INDENIZAÇÃO. ARGUIÇÃO DE QUE A DOENÇA DO TRABALHO É EQUIPARADA AO ACIDENTE DE TRABALHO PARA EFEITOS DE INDENIZAÇÃO SECURITÁRIA. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO DESPROVIDO.
+1. A revisão da conclusão a que chegou o Tribunal de origem, de que a incapacidade laboral parcial se deu por doença ocupacional não coberta pela apólice, esbarra no óbice das Súmulas 5 e 7/STJ .
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido" (AgInt no AREsp 1.007.809/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 9/3/2017, DJe 21/3/2017).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS DA APÓLICE. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. LIMITAÇÃO DE COBERTURA. INEXISTÊNCIA DE ILEGALIDADE. INTERPRETAÇÃO RESTRITIVA. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou a revisão de cláusulas contratuais, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, o Tribunal de origem, com base no conjunto fático-probatório dos autos e nos termos da apólice, concluiu que a incapacidade parcial do segurado decorreu de doença, e não de acidente, razão pela qual este não faria jus à cobertura securitária. Alterar esse entendimento é inviável em recurso especial, ante o óbice das referidas súmulas.
+3. Consoante a jurisprudência desta Corte, inexiste ilegalidade na cláusula que condiciona o pagamento da indenização securitária, em caso de invalidez por doença, à incapacidade permanente total do segurado.
+4. Agravo regimental desprovido."
+(AgInt no REsp 1.446.939/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/5/2016, DJe 20/5/2016)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE ACIDENTES PESSOAIS. COBRANÇA. INVALIDEZ PERMANENTE OU TOTAL POR DOENÇA. AUSÊNCIA DE COBERTURA CONTRATUAL. MOLÉSTIA NÃO CARACTERIZADA COMO ACIDENTE. AS TURMAS QUE INTEGRAM A SEGUNDA SEÇÃO FIRMARAM JURISPRUDÊNCIA NO SENTIDO DE QUE, NOS CASOS DE AÇÃO DE INDENIZAÇÃO EM VIRTUDE DE CONTRATO DE SEGURO DE VIDA EM GRUPO E ACIDENTES PESSOAIS, O CONCEITO DE ACIDENTE PESSOAL, POR DEPENDER DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS, NÃO PODE SER AFERIDO NA INSTÂNCIA ESPECIAL, POR INCIDÊNCIA DAS SÚMULAS NºS 5 E 7/STJ. AGRAVO REGIMENTAL DESPROVIDO" (AgRg no AREsp 683.856/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 24/11/2015, DJe 1º/12/2015).
+"AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SEGURO EM GRUPO. INCAPACIDADE. ACIDENTE PESSOAL. AUSÊNCIA DE COBERTURA. SÚMULAS Nº 5 E Nº 7/STJ. PRECEDENTES.
+1. As Turmas que integram a Segunda Seção firmaram jurisprudência no sentido de que, nos casos de ação de indenização em virtude de contrato de seguro de vida em grupo e acidentes pessoais, o conceito de acidente pessoal, por depender de interpretação de cláusulas contratuais, não pode ser aferido na instância especial, por incidência das Súmulas nºs 5 e 7/STJ.
+2. Agravo regimental não provido" (AgRg no Ag 1.340.291/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/5/2012, DJe 28/5/2012).
+Por fim, resta consignar que a incidência das Súmulas nºs 5 e 7/STJ prejudica a análise da divergência jurisprudencial alegada.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 500,00 (quinhentos reais), os quais devem ser majorados para R$ 1.000,00 (mil reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
