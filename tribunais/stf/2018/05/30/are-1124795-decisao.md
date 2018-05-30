@@ -1,0 +1,27 @@
+DECISÃO: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (eDOC 3, p. 36):
+    “APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. AÇÃO DECLARATÓRIA. ICMS. TRANSPORTE INTERESTADUAL DE CARGAS. DECRETO N. 43.352/04. PREVISÃO DE ISENÇÃO. DESRESPEITO À LIMITAÇÃO IMPOSTA PELO CONVÊNIO INTERESTADUAL N. 04/2004. CREDITAMENTO. AQUISIÇÃO DE COMBUSTÍVEIS E LUBRIFICANTES. AUSÊNCIA DE COMPROVAÇÃO DA UTILIZAÇÃO DOS INSUMOS NA ATIVIDADE FIM DA EMPRESA.
+    1. Decisão extra petita. Inocorrência. Ao contrário do alegado, há correlação entre pedido e a decisão exarada, porquanto é defeso ao julgador decidir aquém (citra ou infra petita), fora (extra petita) ou além (ultra petita) do que foi pedido, exegese do art. 460 do CPC/1973.
+    2. A alteração estabelecida pelo Decreto nº 43.532/04 extrapolou os limites estabelecidos no Convênio nº 04/2004, que restringe a concessão da isenção à prestação do serviço de transporte intermunicipal de cargas a contribuinte do imposto, que tenha início e término no seu território, pois de forma mais ampla, estabeleceu o benefício ao transporte de cargas realizadas a contribuinte inscrito no CGC/TE.
+    3. No caso, mostra-se indevida a concessão de direito ao creditamento porquanto inexistente comprovação da utilização dos insumos pretendidos, quais sejam, combustível e óleo lubrificante, na atividade fim da empresa, tendo em vista o largo escopo do objeto constante do Contrato Social, bem como, ausente quaisquer outros documentos que demonstrem a aquisição dos insumos e sua efetiva destinação. Precedentes.
+    PRELIMINAR AFASTADA. NO MÉRITO, APELO DO ESTADO PARCIALMENTE PROVIDO. PREJUDICADO O APELO DA PARTE AUTORA.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigo 155, inciso I, § 2º e inciso II, da Constituição Federal.
+    Sustenta-se, em síntese, violação ao princípio da não cumulatividade do ICMS sob o fundamento de que não pode apropriar-se dos créditos estornados (eDOC 3, p. 90).
+    A Primeira Vice-Presidência do TJ/RS inadmitiu o recurso extraordinário pela ausência de preparo do recurso (eDOC 4, p. 3).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, em relação à deserção do recurso, a parte agravante observa que obteve informações contraditórias referentes ao pagamento. Defende que não foi intimada a fazer qualquer complementação de custas conforme previsão legal e, na oportunidade que teve, assim o fez. Superado o óbice.
+    Quanto ao mérito, convém ressaltar o assentado pelo Tribunal de origem (eDOC 3, pp. 41, 45 e 46):
+    “Assim, verifica-se que a alteração estabelecida pelo Decreto nº 43.532/04 extrapolou os limites estabelecidos no Convênio nº 04/2004, que restringe a concessão da isenção à prestação do serviço de transporte intermunicipal de cargas a contribuinte do imposto, que tenha início e término no seu território, pois estabeleceu de forma mais ampla, o benefício ao transporte de cargas realizadas a contribuinte inscrito no CGC/TE.
+    (...)
+    Portanto, a isenção concedida, de forma indevida, não permitiu a empresa que se creditasse nos créditos relativos aos insumos.
+    Por sua vez, a sociedade tem por objetivos (Cláusula 4 do Contrato de Social – fl. 13): “Transporte de cargas em geral, municipal, intermunicipal, e interestadual, atividades auxiliares aos transportes aéreos, comércio varejistas e atacadista de produtos alimentícios em geral, depósito de produtos em geral próprio e de terceiros.”
+    Com a inicial foi juntado tão somente cópias do Contrato Social da sociedade, com as devidas alterações ocorridas (fls. 09-15), o que se mostra insuficiente para comprovar a utilização dos insumos pretendidos ao creditamento, quais sejam, combustível e óleo lubrificante, na atividade fim da empresa, tendo em vista o largo escopo do objeto por ela apresentado. Ademais, ausentes notas fiscais de compra dos insumos, bem como certificado de registro de veículos ou qualquer outro documento ou relatório que comprove a efetiva utilização destes na atividade fim da sociedade.
+    Diante disso, tenho que no caso, indevida a concessão de direito ao creditamento pleiteado.
+    Desta forma, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação local aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em conta os enunciados das Súmulas 279 e 280 do STF. Neste sentido o seguinte precedente:
+    “AGRAVO REGIMENTAL. TRIBUTÁRIO. ICMS. COMBUSTÍVEIS. PAUTA FISCAL. VIOLAÇÃO DA REGRA DA LEGALIDADE. NECESSIDADE DE REEXAME DE FATOS E DE PROVAS. Para que fosse possível reverter o acórdão recorrido nos moldes pretendidos pela parte agravante, seria necessário reexaminar fatos e provas, para se constatar a inidoneidade dos critérios estabelecidos no Convênio ICMS 03/1999 do CONFAZ para refletir a expectativa da operação de circulação da mercadoria cuja base de cálculo é substituída (Súmula 279/STF). Agravo regimental ao qual se nega provimento.” (AI 786.621-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 04.06.2012)
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 932, IV, a, CPC, e 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
