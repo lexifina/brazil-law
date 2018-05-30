@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo interno interposto por [NOME] em face da decisão monocrática da lavra deste signatário (fls. 416-418), que rejeitou os embargos de declaração e manteve a deliberação de fls. 399-401 que negou provimento ao reclamo.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. CONTRATO DE IMPLANTAÇÃO DE SISTEMA TELEFÔNICO. PLANTA COMUNITÁRIA DE TELEFONIA. PRETENSÃO DE RESTITUIÇÃO DO VALOR INVESTIDO. DOAÇÃO.
+Consolidou-se, na jurisprudência do Superior Tribunal de Justiça e da Câmara, a validade da doação à companhia telefônica da denominada Planta Comunitária de Telefonia - PCT, elaborada conforme regulamentação ministerial competente e vigente à época da contratação discutida, justificando-se a improcedência do pedido de restituição dos valores investidos no referido sistema.
+Opostos embargos de declaração, esses foram rejeitados pelo acórdão de fls. 198-205.
+Nas razões do especial (fls. 210-223), os insurgentes apontaram, além de dissídio jurisprudencial, violação dos artigos 289 e 535, II, do CPC/1973; 4º, 51, IV, § 1º, III, do CDC; e 115 e 475 do CC/2002, sustentando, em síntese: a) haver negativa de prestação jurisdicional por omissão no que toca à apreciação das peculiaridades do caso concreto, pois inadequada a aplicação do entendimento consolidado no Recurso Especial 1.391.089/RS, na medida em que a tese firmada não pode ser aplicada nos contratos firmados na vigência da Portaria 117/91; b) ser necessária a retribuição aos contratantes da subscrição de ações, em razão de contrato na modalidade denominada Planta Comunitária de Telefonia - PCT, afastando a aplicação da Portaria 610/94 e reconhecendo a submissão do ajuste aos efeitos da Portaria 117/91.
+Contrarrazões às fls. 285-301.
+Em juízo de admissibilidade, a Corte local inadmitiu o reclamo, o que levou à interposição do agravo do art. 544 do CPC/73 (fls. 313-324), que buscava destrancar o processamento daquela insurgência.
+Contraminuta às fls. 363-385.
+Julgando monocraticamente o feito (fls. 399-401), este signatário negou provimento ao recurso, sob os seguintes fundamentos: i) inexistência de negativa de prestação jurisdicional; ii) incidência da Súmula 7 do STJ na espécie.
+Inconformados, os embargantes, em sede de aclaratórios (fls. 404-411), tempestivamente opostos, alegaram contradição quanto à aplicação da tese firmada no julgamento dos Recursos Especiais 1.220.934/RS e 1.391.089/RS, ao fundamento de que essa providência esbarra no óbice da Súmula 7 do STJ.
+Sem impugnação da parte ex adversa.
+Em deliberação monocrática (fls. 416-418), os embargos de declaração foram rejeitados, pois inexistentes na decisão embargada os vícios que ensejam a sua oposição.
+Daí o presente agravo interno (fls. 422-430), no qual os agravantes alegam ter havido negativa de prestação jurisdicional. Aduzem ter sido o contrato de aquisição de terminal telefônico firmado antes da vigência da Portaria 610/94 e, portanto, seriam inaplicáveis suas disposições ao caso dos autos.
+Impugnação às fls. 433-436.
+É o relatório.
+Ante as razões expendidas no agravo interno, em sede de juízo de retratação, reconsidero as decisões de fls. 399-401 e 416-418 e passo, de plano, ao novo exame da insurgência.
+A irresignação merece prosperar na parte conhecida.
+1. Na forma do art. 535 do CPC/1973, cabem embargos de declaração quando "for omitido ponto sobre o qual devia pronunciar-se o juiz o tribunal".
+Nesse aspecto, o NCPC considera omissa a decisão que "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador" (art. 489, § 1º, IV).
+Segundo os recorrentes, o Tribunal de origem teria sido omisso, pois não analisou os questionamentos acerca da inaplicabilidade da Portaria 610/94, porquanto o contrato teria sido firmado em 15/01/1993 (fls. 18, 31 e 37), data na qual estaria vigente a Portaria 117/91, cujas disposições deveriam ser aplicadas ao caso dos autos, nos termos em que deliberado na sentença de fls. 142, cujo trecho transcreve-se:
+Nos termos das alegações da demandada, corroboradas pelos documentos acostados, observo que a contratação efetuada se deu através do sistema denominado Planta Comunitária de Telefonia - PCT, criado no ano de 1991, através da Portaria n. 117/91, diferentemente de outros contratos firmados através do Plano de Expansão - PEX.
+Como visto, as questões aduzidas nos embargos de declaração opostos na origem não foram objeto de pronunciamento judicial.
+1.1. Pois bem. É cediço que o enfrentamento dos pontos aventados pelas partes, além de ser uma determinação constitucional (art. 93, IX), visa, sobretudo, possibilitar o acesso das controvérsias de direito às instâncias extraordinárias. É dizer que, caso não averiguadas as matérias pelas instâncias ordinárias, os recursos carecem do necessário prequestionamento e sequer poderão ser examinados. Exemplo disso são os verbetes contidos nas Súmula 211 do STJ e 282 do STF, que vedam o exame de questões não prequestionadas (sem o pronunciamento do órgão a quo sobre as teses jurídicas em torno dos dispositivos legais tidos como violados).
+Os órgãos julgadores não podem deixar de apreciar e decidir as alegações capazes de alterar o desfecho da demanda. Devem, em sentido oposto, enfrentá-las de modo direito, objetivo e claro, tal como preconizado pelo art. 93, IX, da Constituição Federal.
+Não à toa são os reiterados posicionamentos deste Superior Tribunal de Justiça reconhecendo a negativa de prestação jurisdicional dos acórdãos que deixam de se manifestar sobre questões relevantes para o deslinde da controvérsia.
+Confiram-se, nesse sentido, os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EMBARGOS DECLARATÓRIOS. NULIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DECISÃO AGRAVADA MANTIDA.
+1.- Confirmada a ocorrência de negativa de prestação jurisdicional, pois o acórdão deixou de se manifestar sobre questões relevantes para o deslinde da controvérsia.
+2.- Agravo Regimental improvido.
+(AgRg no AREsp 453741/CE, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 18/03/2014, DJe 10/04/2014)
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. PRESCRIÇÃO. APELAÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. VIOLAÇÃO DO ART. 535 DO CPC. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO.
+1. Da análise do acórdão recorrido é possível constatar que a questão da ocorrência de prescrição, suscitada nas contrarrazões ao recurso de apelação e reiterada por ocasião dos embargos de declaração, não foi, efetivamente, discutida pelo Tribunal de origem.
+2. Quanto à relevância do tema, impende apontar que a omissão, indubitavelmente, acarretou ao recorrente nítido prejuízo, pois, ausente o prequestionamento, impossível a revisão da questão diretamente em recurso especial, sendo que esta Corte já firmou o entendimento de que mesmo as chamadas questões de ordem pública devem estar prequestionadas, a fim de viabilizar sua análise nesta Instância Especial.
+3. A existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 535 do CPC.
+4. Recurso especial provido, para, em consequência do reconhecimento da violação do artigo 535 do CPC, determinar o retorno dos autos ao Tribunal de origem a fim de que seja proferido novo julgamento.
+(REsp 1171712/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/09/2011, DJe 02/02/2012) (grifou-se)
+Ademais, como já mencionado, a omissão sobre pontos capazes de alterar o deslinde da controvérsia acarreta nítido prejuízo à parte recorrente, na medida em que veda a revisão da questão em sede de recurso especial, ante a ausência de prequestionamento.
+Nessa medida, considerando que a alegação suscitada pelos insurgentes possui o condão de modificar o deslinde da controvérsia, bem como que, ante a omissão do Colegiado, restou inviabilizado o prequestionamento da matéria, é de rigor o acolhimento do reclamo a fim de cassar o acórdão recorrido e de determinar o retorno dos autos ao órgão julgador para o enfrentamento de mérito da referida tese.
+Não se quer dizer com isso, destaque-se, que as questões levantadas serão acolhidas, muito menos que serão rejeitadas. O intuito do retorno dos autos é conferir às partes uma prestação jurisdicional completa, fundamentada e que possibilite o acesso às instâncias extraordinárias.
+2. Do exposto, torno sem efeito as decisões de fls. 399-401 e 416-418 e conheço do agravo para, de plano, conhecer em parte do recurso especial e, na extensão, dar-lhe provimento, com fulcro no art. 932 do NCPC c/c Súmula 568/STJ, a fim de cassar o acórdão proferido em sede de embargos de declaração (fls. 198-205), determinando o retorno dos autos ao Tribunal de origem para apreciação das omissões suscitadas pelos ora insurgentes.
+Restam prejudicadas as demais questões arguidas no recurso especial.
+Publique-se.
+Intimem-se.
