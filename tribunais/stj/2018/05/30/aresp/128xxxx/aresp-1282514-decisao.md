@@ -1,0 +1,12 @@
+DECISÃO
+[NOME] agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (Apelação n. 1.0024.11.314383-8/001).
+O agravante - condenado a 2 anos de detenção, em regime aberto, pelo crime previsto no art. 302 do CTB, cuja a reprimenda foi substituída por duas penas restritivas de direitos - busca, em síntese, o processamento do recurso especial inadmitido na origem, a fim de ser absolvido, nos termos do art. 386, III, do Código Penal, pois "não há nos autos deste processo crime nenhuma prova material, concreta e robusta que indique que o resultado morte de Gerval Teles dos Santos tenha qualquer relação com o acidente de trânsito que se envolveu com o recorrente [NOME]" (fls. 368-369).
+O recurso especial foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local pelo óbice da incidência da Súmula n. 7 do STJ, o que motivou a interposição deste agravo.
+O Ministério Público opinou pelo não conhecimento ou não provimento do agravo.
+Decido.
+O recurso especial interposto pelo agravante deixou de ser admitido ante a incidência da Súmula n. 7 do STJ, uma vez que "não haveria como albergar a pretensão deduzida no arrazoado interpositivo ora manejado, sem o readentramento na seara fático-probatória" (fl. 388).
+No recurso de fls. 395-406, a defesa apenas alega que ao contrário do que acentuou a decisão judicial agravada, o acórdão contraria diretamente lei federal - o art. 386, III, do CPP -, "uma vez que manteve a decisão condenatória de primeira instância, ainda que presentes todos os requisitos necessários para a absolvição do recorrente [NOME]" (fl. 400) e, em seguida, reitera as razões do apelo especial".
+O agravante não impugnou, portanto, a incidência da Súmula n. 7 do STJ, o que atrai a aplicação do enunciado contido na Súmula n. 182 do STJ, pois é inviável o agravo que deixa de atacar especificamente o único fundamento da decisão agravada.
+À vista do exposto, com fundamento no art. 932, III, do NCPC, c/c o art. 253, I, do RISTJ, não conheço do agravo em recurso especial.
+Em tempo, determino o envio de cópia dos autos ao Juízo da condenação, a fim de que sejam tomadas as providências cabíveis para a execução imediata da pena. A determinação deve ser desconsiderada caso o réu cumpra, atualmente, a reprimenda.
+Publique-se e intimem-se.
