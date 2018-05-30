@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. APLICABILIDADE DO CPC/1973. RECONHECIMENTO DA OFENSA AO ART. 535, II, DO CPC. QUESTÃO IMPRESCINDÍVEL AO DESLINDE DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO. RETORNO DOS AUTOS À ORIGEM.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 3ª Região, assim ementado (fl. 187):
+PREVIDENCIARJO. PROCESSUAL CIVIL. AGRA VO. ART. 557, § 1º, CPC REVISÃO. DECADÊNCIA. OCORRÊNCIA. PRECEDENTES DO C STJ E DESTA E. CORTE. AGRAVO DESPROVIDO.
+- Quanto à ocorrência da decadência do direito de rever o ato de concessão do beneficio, a Prime ira Seção do C. Superior Tribunal de Justiça firmou entendimento no sentido de que os beneficios anteriores à MP 1523/9 7 terão prazo de decadência que flui a partir de 28/06/1997, vigência desta última norma referida. Os posteriores a esta data terão lapso decadencial contabilizado do dia primeiro do mês seguinte ao do recebimento da primeira prestação ou do dia em que tomar conhecimento da decisão desfavorável e definitiva no âmbito administrativo. Precedentes.
+- No caso dos autos, visto que a parte autora percebe beneficio de pensão por morte decorrente de acidente do trabalho com DIB em 12.07.1996 (fis. 25), e que a presente ação foi ajuizada em 22.02.2008 (fis. 02), não tendo havido pedido de revisão na seara administrativa, efetivamente operou-se a decadência de seu direito
+de pleitear o recálculo da renda mensal do beneficio de que é titular.
+- Agravo desprovido.
+Embargos de declaração rejeitados (201-209).
+O recorrente alega violação dos artigos 535, II, do CPC/73; 3º, I, 198, I, e 208, todos do Código Civil e ao art. 6º, caput, da Lei de Introdução às Normas do Direito Brasileiro. Sustentam, além da ocorrência de omissão no julgado, haja vista que a Corte local, mesmo provocada, não se pronunciou quanto a não fluência da decadência ou prescrição em razão da presença de menor absolutamente incapaz no pólo ativo da demanda.
+Quanto à questão de fundo, sustenta ofensa aos dispositivos de lei federal acima listados, além de outros de cunho constitucional.
+Sem contrarrazões (Certidão fl. 236).
+Juízo positivo de admissibilidade às fls. 255-258.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+A irresignação do recorrente merece prosperar.
+Com efeito, verifica-se da leitura dos embargos que o ora recorrente requereu expressamente que a Corte de origem se manifestasse a respeito da ocorrência da decadência e da prescrição, nos casos em que constatada a presenta de absolutamente incapaz integrando o pólo ativo da demanda. Entretanto, ao julgar o recurso integrativo, a Corte Regional silenciou sobre o tema, limitando-se a afirmar não haver omissão, contradição ou obscuridade a ser sanada, sem se manifestar quanto ao referido ponto. Em situações em que o ponto omisso, obscuro ou contraditório é necessário para o deslinde da controvérsia, cabe reconhecer a nulidade do acórdão, devendo os autos retornar ao Tribunal de origem para que seja proferido novo julgamento dos embargos de declaração com manifestação expressa a seu respeito. A jurisprudência desta Corte orienta-se neste sentido. Assim, para ilustrar, confira-se o seguinte precedente:
+PROCESSO CIVIL. DESAPROPRIAÇÃO PARA REFORMA AGRÁRIA. EXECUÇÃO. TERRA NUA. INSCRIÇÃO EM PRECATÓRIO. OBJEÇÕES APONTADAS NOS EMBARGOS DECLARATÓRIOS. OMISSÃO. OFENSA AO ART. 535 DO CPC. OCORRÊNCIA. MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC. INDEVIDA. RETORNO DOS AUTOS À CORTE DE ORIGEM. AGRAVO REGIMENTAL NÃO PROVIDO.
+PROCESSO CIVIL. DESAPROPRIAÇÃO PARA REFORMA AGRÁRIA. EXECUÇÃO. TERRA NUA. INSCRIÇÃO EM PRECATÓRIO. OBJEÇÕES APONTADAS NOS EMBARGOS DECLARATÓRIOS. OMISSÃO. OFENSA AO ART. 535 DO CPC. OCORRÊNCIA. MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC. INDEVIDA. RETORNO DOS AUTOS À CORTE DE ORIGEM. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte de origem permitiu a expedição de precatório da quantia supostamente incontroversa na fase executiva da ação de desapropriação para fins de reforma agrária, com base no art. 100, § 1º, da CF.
+2. Há ofensa ao art. 535 do CPC quando a Corte de origem, apesar de regularmente provocada, silencia acerca de questões essenciais à resolução da controvérsia.
+3. Na espécie, a Corte de origem não se manifestou sobre pontos imprescindíveis à solução da lide, quais sejam, a impossibilidade da indenização da terra nua ser efetivada por meio de precatório, em virtude dos dispositivos constitucionais e legais citados pelo Incra, os quais preceituam que o pagamento deve ser feito por títulos da dívida agrária, assim como em razão do que foi determinado no próprio título judicial exequendo.
+4. O reconhecimento do vício de fundamentação constante no acórdão impugnado afasta o caráter protelatório dos embargos de declaração e, consequentemente, a multa prevista no art. 538, parágrafo único, do CPC.
+5. Agravo regimental a que se nega provimento (AgRg no REsp 1314241/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 07/11/2013, DJe 27/11/2013).
+Ficam prejudicadas as demais questões elencadas no apelo nobre.
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão integrativo quanto à omissão não sanada. Determino o retorno dos autos à Corte de origem.
+Publique-se. Intimem-se.
