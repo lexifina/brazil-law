@@ -1,0 +1,29 @@
+DECISÃO
+RECLAMAÇÃO – AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE Nº 48 – DECISÃO – DESRESPEITO – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Avon Cosméticos Ltda. assevera haver o Juízo da 54ª Vara do Trabalho do Rio de Janeiro/RJ, na ação civil pública nº 0010711-25.2015.5.01.0054, olvidado o que decidido na medida cautelar na ação declaratória de constitucionalidade nº 48.
+    Segundo narra, figura como ré em ação civil pública ajuizada pelo Ministério Público do Trabalho visando a condenação em obrigação de fazer, consistente no registro dos contratos de trabalho de motoristas e de todos os funcionários do setor de logística da área administrativa e operacional, quando preenchidos os elementos da relação de emprego. Diz em jogo, consoante arguido na contestação, a aplicação dos artigos 1º, cabeça; 2º, parágrafos 1º e 2º; 4º, parágrafos 1º e 2º; e 5º, cabeça, da Lei nº 11.442/2007, alusiva ao transporte rodoviário de cargas por terceiros e mediante remuneração. Conforme esclarece, postulado, na origem, o sobrestamento do processo coletivo com base no paradigma, o pleito foi indeferido, surgindo daí o alegado desrespeito.
+    Reputa contrariado o paradigma porquanto o Relator da ação declaratória de constitucionalidade nº 48, mediante ato individual, implementou, em 19 de dezembro de 2017, medida acauteladora para determinar a imediata suspensão de todos os casos a envolverem a aplicação dos referidos dispositivos de lei, bem como determinou a liberação do processo objetivo para referendo da liminar e apreciação concomitante do tema de fundo.
+    Sob o ângulo do risco, afirma que, se prosseguir a ação coletiva, poderá nela advir decisão de mérito contrária ao entendimento a ser adotado no processo objetivo.
+    Requer, no campo precário e efêmero, a suspensão do ato impugnado. Pretende, alfim, a confirmação da providência, como o sobrestamento do caso.
+    Em 20 de abril de 2018, a Presidente assentou inadequado o pedido de redistribuição ao ministro Luís Roberto Barroso e determinou o envio ao Gabinete de Vossa Excelência.
+    2. Percebam as balizas desta reclamação. O Ministério Público do Trabalho ajuizou ação civil pública contra a reclamante buscando o registro de certos contratos de trabalho, tendo como configurados os elementos da relação de emprego relativamente a prestadores de serviços de transporte de cargas. Embora não esteja mencionada, na inicial da demanda coletiva, a Lei nº 11.442/2007, colhe-se do seguinte trecho a síntese da causa de pedir veiculada:
+    [...]
+    Primeiramente, é importante ressaltar que é inegável que são funções típicas no âmbito da AVON as atividades de logística em geral e controle e processamento de pedidos. E é este o motivo ensejador da presente ação civil pública: pelo fato da AVON COSMÉTICOS LTDA. se utilizar, em suas atividades habituais e finalísticas, de trabalhadores contratados como autônomos por duas outras pessoas jurídicas, com o claro intuito de furtar-se ao registro e à anotação na CTPS desses trabalhadores.
+    [...]
+    Em decorrência da apontada ilegalidade na intermediação de mão de obra, o Ministério Público do Trabalho pede, alfim, além da reparação de dano moral coletivo:
+    […]
+    1) seja a ré condenada na obrigação de fazer consistente em registrar diretamente os contratos de trabalho dos motoristas e de todos os trabalhadores componentes do setor de logística da área administrativa e operacional que lhe prestam serviços com o preenchimentos de todos os elementos da relação de emprego;
+    2) seja a ré condenada na obrigação de não-fazer consistente em se abster de contratar empresas que não contratem diretamente seus trabalhadores, observando os arts. 29 e 41 da CLT.
+    [...]
+    A leitura da contestação apresentada revela a alegação, entre outras teses de defesa, da licitude da terceirização verificada no tocante aos transportadores de cargas, considerado o disposto no citado diploma legal, cujo artigo 5º prevê:
+    Art. 5º As relações decorrentes do contrato de transporte de cargas de que trata o art. 4º desta Lei são sempre de natureza comercial, não ensejando, em nenhuma hipótese, a caracterização de vínculo de emprego.
+    Parágrafo único. Compete à Justiça Comum o julgamento de ações oriundas dos contratos de transporte de cargas.
+    Postulada a suspensão do processo na origem em virtude da liminar implementada, pelo ministro Luís Roberto Barroso, na ação declaratória de constitucionalidade nº 48, o pleito foi indeferido. Entendeu a autoridade reclamada que, uma vez não versado, na ação coletiva, controle abstrato de validade de norma, não estaria configurado desrespeito ao paradigma.
+    Mostra-se relevante a irresignação. A ação declaratória foi ajuizada pela Confederação Nacional do Transporte – CNT com a finalidade de ver reconhecida a constitucionalidade dos artigos 1º, cabeça, 2º, parágrafos 1º e 2º, 4º, parágrafos 1º e 2º, e 5º, cabeça, da Lei nº 11.442/2007. Em 19 de dezembro de 2017, o Relator acolheu o pedido de concessão de medida de urgência para determinar o sobrestamento de todos os processos que envolvam a aplicação dos preceitos legais. Estando em jogo, na origem, discussão sobre a licitude de terceirização realizada com base no mencionado diploma, está evidenciada a apontada contrariedade ao paradigma.
+    3. Defiro a liminar para suspender, até o julgamento final desta reclamação, a eficácia da decisão proferida pelo Juízo da 54ª Vara do Trabalho do Rio de Janeiro/R na ação civil pública nº 0010711-25.2015.5.01.0054 e determinar o sobrestamento do caso na origem enquanto vigente a medida acauteladora implementada na ação declaratória de constitucionalidade nº 48.
+    4. Deem ciência ao interessado e solicitem informações. Com o recebimento, colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 30 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
