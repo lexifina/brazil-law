@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMALA 5/STJ. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. A interpretação de cláusulas contratuais não é permitida nesta via recursal.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+O EXMO. SR. MINISTRO NANCY ANDRIGHI:
+Cuida-se de agravo interno interposto pela CAIXA SEGURADORA S/A contra decisão unipessoal de fls. 781/784 (e-STJ).
+Ação: de obrigação de fazer ajuizada pelo ESPÓLIO DE [NOME] SOARES, em face da CAIXA ECONÔMICA FEDERAL e CAIXA SEGURADA S/A, na qual requer a quitação de contrato de financiamento habitacional e o conseqüente levantamento da hipoteca que agrava o imóvel, em razão do falecimento da mutuária.
+Sentença: julgou procedente o pedido formulado na petição inicial.
+Acórdão: negou provimento ao recurso de apelação interposto pelas rés, nos termos do aresto assim ementado:
+CIVIL. PROCESSUAL CIVIL. APELAÇÃO CÍVEL. MÚTUO HABITACIONAL COM RECURSOS DO FGTS. INDENIZAÇÃO SECURITÁRIA POR SINISTRO DE MORTE. ÓBITO CAUSADO POR DOENÇA PREEXISTENTE À ASSINATURA DO CONTRATO. AUSÊNCIA DE PERÍCIA MÉDICA POR PARTE DA SEGURADORA. COBERTURA SECURITÁRIA DEVIDA. ANTECIPAÇÃO DA TUTELA: DECORRÊNCIA DA PROCEDÊNCIA DO PEDIDO INICIAL. HONORÁRIOS RECURSAIS: NÃO CABIMENTO. RECURSOS NÃO PROVIDOS.
+1. A falecida [NOME] firmou com a CEF, em 29/08/2001, contrato de carta de crédito individual com recursos do FGTS, no qual está prevista a contratação obrigatória de seguro. O espólio pretende perceber a indenização decorrente do seguro contratado, invocando a ocorrência de sinistro que culminou no óbito da mutuária. Busca, em suma, a cobertura do risco de natureza pessoal previsto no item 5.1.1 da apólice de seguro.
+2. A Seguradora não pode alegar doença preexistente a fim de negar cobertura securitária, nos casos em que recebeu pagamento de prêmios e concretizou o seguro sem exigir exames prévios. Precedentes.
+3. Somente a demonstração inequívoca de má-fé do mutuário, que contrata o financiamento ciente da moléstia incapacitante com o fito de obter precocemente a quitação do contrato, poderia afastar o entendimento jurisprudencial consagrado. Não é o caso dos autos, no entanto.
+4. A Caixa Seguradora S/A embasou a negativa de cobertura em parecer médico no sentido de que a mutuária era portadora das doenças associadas que a levaram a óbito desde outubro de 1999. No entanto, a seguradora deixou precluir a prova pericial indireta que requereu, ao não apresentar manifestação de profissional da área médica quanto aos quesitos a serem respondidos.
+5. Incabível a conclusão pela má-fé da segurada ao omitir doença preexistente, ressaltando-se que o óbito foi causado por doenças com as quais o paciente pode conviver por anos a fio, ante a não exigência de exames prévios por parte da seguradora.
+6. A antecipação da tutela deferida, para obstar a execução extrajudicial, a exigibilidade do pagamento de prestações e a inscrição em cadastros de inadimplentes, é mera decorrência da procedência do pedido inicial. Com efeito, uma vez mantida a condenação à quitação por cobertura securitária, naturalmente restam inviabilizadas as providências obstadas pelo decisum.
+7. Considerando que o recurso foi interposto sob a égide do CPC/1973 e, nos termos do Enunciado Administrativo nº 7, elaborado pelo Superior Tribunal de Justiça para orientar a comunidade jurídica acerca da questão do direito intertemporal, tratando-se de recurso interposto contra decisão publicada anteriormente a 18/03/2016, não é possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do CPC/2015.
+8. Apelações não providas (e-STJ fls. 714/715).
+Decisão agravada: não conheceu do agravo para negar provimento ao recurso especial interposto pela recorrente, com base nos seguintes fundamentos: i) ausência de prequestionamento do art. 36 do Decreto-Lei n. 73/66 e dos arts. 757 e 760 do CC, aplicando a Súmula 211/STJ; e ii) aplicação das Súmulas 5 e 7/STJ.
+Agravo Interno: a agravante, em suas razões recursais, alega que desde a sua contestação vem demonstrando a impossibilidade de se declarar abusivas as cláusulas das condições gerais da apólice do SFH, eis que são fixados pelo próprio Estado, tendo sido opostos embargos para sanar a omissão quanto à aplicabilidade do art. 36 do Decreto-Lei n. 73/66.
+Assinala ainda que deve ser afastada a aplicação da Súmula 5 e 7 desta Corte, visto que não se pretende o reexame do conjunto fático-probatório dos autos e que, tendo como incontroversos os fatos e cláusulas contratuais, é possível a revaloração das provas em sede de recurso especial.
+Pugna, por fim, pelo provimento do agravo interno e pela reforma da decisão agravada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NANCY ANDRIGHI(RELATOR):
+O agravo interno não merece acolhida, porquanto os argumentos deduzidos nas razões recursais pela agravante são incapazes de alterar o julgado.
+De fato, conforme consignado na decisão ora agravada não houve o devido prequestionamento do art. 36 do Decreto-Lei n. 73/66 e dos arts. 757 e 760 do CC, haja vista que, embora tenha sido opostos embargos de declaração pela recorrente, o Tribunal de origem permaneceu silente acerca das matérias neles insertas. Assim, deveria a agravante ter interposto o apelo nobre por violação ao artigo 1.022 do CPC e não ter defendido a vulneração de dispositivos que não foram apreciados pela Corte a quo. Incide, portanto, a Súmula 211/STJ.
+No mais, quanto ao argumento da recorrente, segundo o qual a questão acerca da aplicação do art. 36 do Decreto-Lei n. 73/66 teria sido abordada desde a sua contestação, esse igualmente não merece guarida, haja vista que o prequestionamento não emerge da comprovada manifestação dos temas de direito federal nas razões dos recursos ordinários, mas da sua efetiva apreciação pelo acórdão recorrido (AgRg no AREsp n. 605.924/SP, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe 04/08/2015), o que não ocorreu na hipótese dos autos.
+Em relação à incidência das Súmulas 5 e 7/STJ, essas também devem ser mantidas, haja vista que o Tribunal de origem ao apreciar a questão acerca do cabimento da cobertura securitária contratada pela recorrida, entendeu que:
+Somente a demonstração inequívoca de má-fé do mutuário, que contrata o financiamento ciente da moléstia incapacitante com o fito de obter precocemente a quitação do contrato, poderia afastar o entendimento jurisprudencial consagrado. Não é o caso dos autos, no entanto.
+A Caixa Seguradora S/A, por sua vez, embasou a negativa de cobertura em parecer médico no sentido de que a mutuária era portadora das doenças associadas que a levaram a óbito desde outubro de 1999.
+No entanto, a seguradora deixou precluir a prova pericial indireta que requereu, ao não apresentar manifestação de profissional da área médica quanto aos quesitos a serem respondidos.
+Desse modo, incabível a conclusão pela má-fé da segurada ao omitir doença preexistente, ressaltando-se que o óbito foi causado por doenças com as quais o paciente pode conviver por anos a fio, ante a não exigência de exames prévios por parte da seguradora.
+Devida, portanto, a cobertura securitária contratada, nos termos da r. Sentença (e-STJ fl. 712).
+E, conforme consignado na decisão, rever tal entendimento, de fato, implicaria em reexame do acervo probatório e a interpretação de cláusula contratual, o que é obstado pelas referidas súmulas.
+Frise-se que, na hipótese em tela, não se cuida de valoração de prova, o que é viável no âmbito do recurso especial, mas de reapreciação da prova buscando sufragar reforma na convicção do julgador sobre o fato, para, in casu, se ter como provado o que a Corte de origem afirmou não estar.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
