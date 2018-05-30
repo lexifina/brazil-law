@@ -1,0 +1,21 @@
+DECISÃO
+
+Trata-se de agravo interposto pela JUNTA COMERCIAL DO ESTADO DO ESPÍRITO SANTO contra decisão do Tribunal de Justiça do Espírito Santo, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fls. 334/335):
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL - PRELIMINARES - AUSÊNCIA DE INTERESSE RECURSAL - RECURSO NÃO CONHECIDO PARCIALMENTE - ACOLHIDA - PRECLUSÃO - INOCORRÊNCIA - DEVOLUÇÃO DA MATÉRIA EM RAZÃO DA PROFUNDIDADE - REJEITADA - AÇÃO DE ORDINÁRIA - DESVIO DE FUNÇÃO - CARACTERIZADO - PAGAMENTO DAS DIFERENÇAS SALARIAIS - SÚMULA 387, STJ - SUCUMBÊNCIA RECÍPROCA - OCORRÊNCIA - RECURSOS PARCIALMENTE CONHECIDO E O OUTRO CONHECIDO - AMBOS IMPROVIDOS - SENTENÇA MANTIDA. 1. Não preenchendo, apenas quanto a determinado ponto do apelo, o requisito de admissibilidade do interesse em recorrer (art. 499 do CPC/73), não deve ser conhecido parcialmente o recurso.
+2. Limitando-se a extensão fixada pelo recorrente, esta Corte, em razão da profundidade, poderá analisar todo o material constante dos autos.
+3. "Reconhecido o desvio de função, o servidor faz jus às diferenças salariais decorrentes". Enunciado da Súmula nº 387, do Colendo Superior Tribunal de Justiça
+4. Se cada litigante for em parte vencedor e vencido, serão recíproca e proporcionalmente distribuídos e compensados entre eles os honorários e as despesas. Inteligência do artigo 21, do CPC/73.
+5. Recursos parcialmente conhecido e o outro conhecido, e ambos improvidos. Sentença mantida.
+No especial obstaculizado, apontou-se violação do art. 42 da Lei n. 8.934/1994, sustentando-se a inexistência do desvio de função, pois a recorrida também poderia, no cargo ocupado, proferir decisões singulares em processo, sendo as decisões colegiadas uma atribuição exclusiva do cargo paradigma, cujas minutas nunca foram elaboradas por ela.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de incidência da Súmula 7 do STJ. (e-STJ fls. 371/375)
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, em relação à possível ofensa ao dispositivo invocado, percebe-se que o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu que ficou caracterizado o desvio de função. Desse modo, para ser revista estas circunstâncias seria necessário o reexame de fatos e provas, o que é vedado em recurso especial ante o óbice constante na Súmula 7.
+Segue o excerto em que o tema foi expressamente enfrentado:
+"Nesse passo, não vejo como prosperar a alegação da autarquia estadual no sentido de que, em observância ao artigo 42 da Lei nº 8.934/94, qualquer servidor poderá ser designado para proferir decisões, uma vez que, pelo que consta na Instrução normativa nº 005/2004, a autora foi designada para emitir pareceres, e, esta é função inerente ao cargo de assessor técnico de registro de comércio (atual analista) conforme restou esclarecido pela prova testemunhal. Ademais, o documento de fl. 14, corrobora com os testemunhos ao incluir a autora na escala de plantão dos assessores técnicos, cargo diverso do que deveria ocupar.
+Assim, restou comprovado que a requerente exerce funções diversas daquelas atribuídas ao seu cargo, e, neste caso, a servidora faz jus às diferenças salariais dele decorrentes, sob pena de se locupletar indevidamente a Administração.". (e-STJ fl. 346)
+Por fim, consigno que "não cabem honorários recursais na hipótese de inexistência de condenação prévia em honorários sucumbenciais principais, quando, por exemplo, houver a estipulação de sucumbência recíproca. Inteligência do art. 85, § 11, do CPC/2015". (REsp 1697387/RO, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 18/12/2017)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
