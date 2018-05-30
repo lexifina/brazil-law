@@ -1,0 +1,12 @@
+EMENTA
+PROCESSUAL CIVIL E SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. OMISSÃO. SUCUMBÊNCIA RECURSAL. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+DECISÃO
+Trata-se de embargos de declaração opostos por AMARILDO DE ROCCO contra decisão assim ementada (e-STJ fl. 1180):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. VIOLAÇÃO AO ART. 53 E 54 DA LEI Nº 9.784/99. REVOGAÇÃO DA AVERBAÇÃO DO TEMPO DE SERVIÇO RURAL PARA FINS DE APOSENTADORIA ESTATUTÁRIA. DECADÊNCIA RECONHECIDA NA ORIGEM. POSSIBILIDADE DE REVOGAÇÃO DO ATO DE AVERBAÇÃO ENQUANTO NÃO CONCEDIDA, APRECIADA E REGISTRADA A APOSENTADORIA PELO TRIBUNAL DE CONTAS DA UNIÃO. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM, MESMO APÓS NOVO JULGAMENTO DOS EMBARGOS DECLARATÓRIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS Nº 282 E 356/STF. OFENSA AO ART. 96, IV, DA LEI Nº 8.213/91. INDENIZAÇÃO DO TEMPO RURAL PARA FINS DE COMPENSAÇÃO FINANCEIRA A SER REALIZADA ENTRE OS REGIMES GERAL E PÚBLICO. FALTA DE IMPUGNAÇÃO DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ART. 932, III, DO CPC/2015 E SÚMULA Nº 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões de embargos de declaração, a embargante afirma que há omissão no julgado, pois deixou de majorar os honorários advocatícios, em razão de sucumbência recursal.
+É o relatório, decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: _Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC .
+De acordo com o artigo 1.022 do CPC/2015, os embargos declaratórios são cabíveis quando houver na decisão judicial, obscuridade ou contradição, quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal ou quando vislumbrado a existência de erro material.
+Em verdade, cumpre sanar a omissão verificada em relação majoração do ônus de sucumbência, o qual, considerando o trabalho adicional realizado em grau recursal, impõe-se a majoração dos honorários advocatícios (a título de sucumbência recursal), em montante correspondente a 10% (dez por cento) sobre o valor estipulado pela instância de origem.
+Ante o exposto, acolho os embargos de declaração sem efeitos modificativos.
+Publique-se. Intimem-se.
