@@ -1,0 +1,38 @@
+DECISÃO
+TIAGO HENRIQUE GOMES FERREIRA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul (Apelação Criminal n. 0000184-47.2017.8.12.0002).
+Nas razões do recurso especial, a defesa sustenta violação dos arts. 386, VII, do Código de Processo Penal, e 157, § 2º, I, do Código Penal, ao argumento de que não há provas de autoria para embasar o decreto condenatório, bem como do emprego de arma para a incidência da majorante, uma vez que a arma não foi apreendida e periciada.
+Requer o provimento do recurso para que seja absolvido. Subsidiariamente pretende a exclusão do emprego de arma.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal local (fls. 360-362), o que ensejou a interposição deste agravo (fls. 366-374).
+O Ministério Público Federal manifestou-se, às fls. 395-399, pelo não provimento do agravo.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+Quanto ao recurso especial, observo que suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade do recurso especial (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), razões pelas quais avanço na análise de mérito da controvérsia.
+O Juízo monocrático condenou o agravante pela prática do roubo majorado pelo emprego de arma. Afirmou que "a confissão e delação de [NOME] em juízo (fls. 186), as confissões em fase inquisitorial (fls. 38/39, 47/48 e 186), os depoimentos (fls. 25/26, 29/37, 57/66 e 186) e as demais provas acostadas aos autos são suficientes para a expedição de um édito condenatório" (fl. 228).
+A Corte de origem confirmou os termos da sentença e, sobre a comprovação do crime, registrou que "o manancial probatório que foi coligido durante toda a atividade de persecução penal, sobretudo na fase judicial, vislumbra-se suficiente no sentido de embasar o pronunciamento do juízo condenatório em desfavor do apelante" (fl. 318).
+Assim, constato que as instâncias ordinárias, após a minuciosa análise do acervo fático-probatório, produzido sob o crivo do contraditório, condenaram o agravante por entenderem devidamente comprovadas a autoria e a materialidade do crime de roubo circunstanciado pelo emprego de arma e pelo concurso de agentes que lhe foi imputado, notadamente com base na prova oral colhida.
+Portanto, afastar tal conclusão, para reconhecer a absolvição por insuficiência de provas de autoria, tal como pretende o recorrente no especial, demandaria o reexame do acervo fático-probatório do feito, procedimento vedado em recurso especial, por força do Enunciado Sumular de n. 7 do Superior Tribunal de Justiça.
+Ilustrativamente:
+ ..
+2. Rever o entendimento externado pelas instâncias ordinárias, para afastar as elementares do crime de roubo, implicaria necessário reexame de provas, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula n. 7 desta Corte.
+ ..
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no AREsp n. 628.684/SC, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 2/2/2016)
+No tocante à configuração da majorante relativa ao emprego de arma, o Juiz de primeiro grau consignou que "os réus foram enfáticos em seus depoimentos prestados em delegacia ao afirmarem que para subtraírem os aparelhos celulares fizeram uso de um revólver calibre 22", o que foi reforçado pela vítima "clara ao mencionar que um dos acusados entrou no estabelecimento empunhando um revólver" (fl. 229).
+A Corte de origem registrou que o emprego de arma ficou comprovado e ressaltou que a incidência da referida majorante "independe da apreensão e perícia no artefato utilizado para a prática do crime, desde que comprovada a sua utilização por outros meios de prova" (fl. 320).
+Faço lembrar que, quanto à incidência da majorante prevista no art. 157, § 2º, I, do Código Penal, nas hipóteses em que a arma não foi apreendida e periciada e, via de consequência, não foi comprovado o seu efetivo poder vulnerante, a Terceira Seção deste Superior Tribunal, no julgamento dos EREsp n. 961.863/RS, de relatoria do Ministro Celso Limongi (Desembargador convocado do TJ/SP), com relator para acórdão o Ministro Gilson Dipp, DJe 6/4/2011, assentou o entendimento de que, para a incidência da causa especial de aumento, mostram-se prescindíveis a apreensão e a realização de perícia na arma utilizada no crime de roubo, desde que seja comprovada a sua utilização por outros meios de prova.
+Vale dizer, nas hipóteses em que não for possível a apreensão e a perícia da arma para a prova do seu efetivo potencial de lesividade, como na hipótese, mostra-se devida a incidência da majorante, quando existirem nos autos elementos de prova que confirmem a sua utilização na prática do delito, exatamente como consignado pelas instâncias antecedentes, que destacaram a confissão dos réus e o depoimento da vítima. Cito, por oportuno, o seguinte julgado do Supremo Tribunal Federal, que bem sintetiza a matéria:
+ ..
+I - Não se mostra necessária a apreensão e perícia da arma de fogo empregada no roubo para comprovar o seu potencial lesivo, visto que tal qualidade integra a própria natureza do artefato.
+II - Lesividade do instrumento que se encontra in re ipsa.
+III - A qualificadora do art. 157, § 2º, I, do Código Penal, pode ser evidenciada por qualquer meio de prova, em especial pela palavra da vítima - reduzida à impossibilidade de resistência pelo agente - ou pelo depoimento de testemunha presencial.
+IV - Se o acusado alegar o contrário ou sustentar a ausência de potencial lesivo da arma empregada para intimidar a vítima, será dele o ônus de produzir tal prova, nos termos do art. 156 do Código de Processo Penal.
+V - A arma de fogo, mesmo que não tenha o poder de disparar projéteis, pode ser empregada como instrumento contundente, apto a produzir lesões graves.
+VI - Hipótese que não guarda correspondência com o roubo praticado com arma de brinquedo.
+VII - Precedente do STF.
+VIII - Ordem indeferida. (HC n. 96.099, Rel. Ministro Ricardo Lewandowski, Tribunal Pleno, DJe 5/6/2009, grifei.)
+Aplico esse entendimento em termos análogos e vejo que a conclusão alcançada no julgado proferido pelo Tribunal de origem está, portanto, em consonância com a jurisprudência desta Corte Superior.
+Ademais, para desconstituir a conclusão adotada pela Corte local, necessário seria o revolvimento do arcabouço fático-probatório, o que é vedado pela Súmula n. 7 desta Corte.
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do Código de Processo Civil, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Em tempo, determino o envio de cópia dos autos ao Juízo de primeiro grau, para que expeça o mandado de prisão e encaminhe a guia de recolhimento provisório ao Juízo da VEC, dando efetivo início à execução da pena imposta ao recorrente. A determinação deve ser desconsiderada caso o réu cumpra, atualmente, a reprimenda.
+Publique-se e intimem-se.
