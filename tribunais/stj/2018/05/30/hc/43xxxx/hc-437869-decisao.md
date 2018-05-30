@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso especial, impetrado em benefício de ROBERTO CASTTELANI DA SILVA, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se da inicial que o paciente formulou requerimento de comutação de penas, após ter descontado o lapso necessário, bem como de apresentar boa conduta carcerária no período indicado no Decreto nº 8.615/2015. Sobreveio a r. decisão que deferiu o requerimento, determinando a redução da pena remanescente em 1/5 (um quarto), sem contudo, mencionar a base de cálculo sobre a qual deveria incidir a fração redutora.
+Irresignada, a Defesa impetrou habeas corpus, denegado na origem, sob os seguintes fundamentos:
+" .. cumpre ressaltar que a ação constitucional de Habeas Corpus é antídoto invocado contra constrangimento ilegal evidente, claro, indisfarçável, que de pronto se revela à apreciação do julgador; contra ato que, ictu oculi, avulta caracterizador de comprometimento, efetivo ou potencial, da liberdade de locomoção. Com procedimento pautado pela celeridade e pela sumariedade, não constitui o instrumento jurídico-processual adequado à análise de pedidos de benefícios ou de qualquer outro incidente no âmbito da execução penal.
+Não se presta à correção de equívocos que, mesmo se existentes, têm sua percepção e reconhecimento subordinados ao exame e à consideração da prova. Não funciona, tampouco, como sucedâneo do recurso apropriado. Sim, porque é sabido e consabido que o Agravo em Execução é o meio adequado e eficiente para impugnar julgado desfavorável ao condenado que busca benefício em sede de execução criminal (art. 197, LEP), de sorte que, podendo se utilizar voluntariamente desse remédio, não está habilitado a valer-se da via estreita do Habeas Corpus para sanar constrição supostamente contrária ao ordenamento jurídico.
+ ..
+A decisão monocrática, então, sem embargo de sua inequívoca razoabilidade, seria impugnável por Agravo (art. 197 da Lei de Execuções Penais), apenas. Eventual correção do que ficou decidido no Juízo de primeiro grau será examinada no julgamento do recurso interposto, não no âmbito restrito, e para tanto inadequado, da ação constitucional.
+ ..
+Por conseguinte, por revelar-se inadequada a utilização do Habeas Corpus para a finalidade apontada na impetração, configurando a falta de interesse de agir na perspectiva da adequação e consoante reza o artigo 663, do Código de Processo Penal (aqui c.c. o artigo 248 do Regimento Interno desta Colenda Corte), impõe-se, de plano, o desacolhimento do pedido, indeferindo-se a petição inicial, dispensadas informações da autoridade tida como coatora e exsurgindo desnecessário o parecer da douta Procuradoria-Geral de Justiça" (fl. 26-32).
+Daí o presente mandamus, no qual a Defesa alega que "o paciente já havia cumprido mais da 1/2 do lapso da reprimenda até a data da publicação do decreto, logo, a pena cumprida deve ser usada como base de cálculo para fins de comutação" (fl.7).
+Requer a concessão da ordem, para que seja determinada "a utilização da pena cumprida como base de cálculo para a comutação concedida com fulcro no Decreto 8.615/2015" (fl. 7).
+Não foi formulado pedido liminar.
+Informações prestadas às fls. 53-54.
+O Ministério Publico Federal, às fls. 56-58, manifestou-se pela concessão da ordem, em parecer que restou assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. UTILIZAÇÃO INADEQUADA. DECRETO N. 8.615/2015. BASE DE CÁLCULO DA COMUTAÇÃO DE PENA EM DESACORDO COM O DECRETO. FLAGRANTE ILEGALIDADE. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS E. SE CONHECIDO. PELA CONCESSÃO DA ORDEM."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento do writ, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+In casu, não é cabível o presente mandamus, porquanto substitutivo de recurso especial. Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Verifica-se no v. acórdão impugnado que a questão aqui tratada, qual seja, a base de cálculo para a redução da pena, não foi analisada pelo eg. Tribunal de origem, que entendeu que o habeas corpus não pode ser utilizado para apreciação da matéria, para a qual deveria ter sido interposto agravo em execução.
+Assim, se o eg. Tribunal a quo não se manifestou acerca da quaestio ventilada na presente impetração, fica impedida esta Corte de proceder à sua análise, sob pena de indevida supressão de instância.
+Nesse sentido é o entendimento das Turmas que compõem a Terceira Seção desta eg. Corte de Justiça, in verbis:
+"PROCESSUAL PENAL. HABEAS CORPUS. FALSIDADE IDEOLÓGICA. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. SUSPENSÃO CONDICIONAL DO PROCESSO. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS DENAGADO.
+ ..
+5. A tese relativa à suspensão condicional do processo ainda não foi objeto de julgamento pelo Tribunal de origem, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância.
+6. Habeas corpus denegado." (HC 393.684/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 16/08/2017, grifei)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. AMEAÇA. FALTA DE JUSTA CAUSA. AUSÊNCIA DE AUDIÊNCIA DE CONCILIAÇÃO. NULIDADE PROCESSUAL. SUPRESSÃO DE INSTÂNCIA. SUBSTITUIÇÃO DA PENA. REINCIDÊNCIA. EXECUÇÃO IMEDIATA DA PENA. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As alegações de falta de justa causa para a ação penal relativas ao porte ilegal de arma de fogo de uso permitido e de nulidade processual, por não haver sido realizada audiência de conciliação para composição civil entre o réu e as vítimas, não foram analisadas pelo Tribunal estadual, de forma que seu exame diretamente por esta Corte Superior importaria em indevida supressão de instância.
+ .. 5. Agravo regimental não provido." (AgRg no HC 382.949/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 24/05/2017, grifei).
+Ante o exposto, não conheço do habeas corpus, considerando a supressão de instância.
+[NOME]
