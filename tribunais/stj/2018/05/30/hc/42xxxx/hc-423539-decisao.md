@@ -1,0 +1,22 @@
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. TERCEIRA FASE DO CÁLCULO DA PENA. EXASPERAÇÃO SUPERIOR A 1/3. VIOLAÇÃO DA SÚMULA 443/STJ. NÃO OCORRÊNCIA. REGIME DE CUMPRIMENTO DA PENA. AUSÊNCIA DE INTERESSE DE AGIR. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] e [NOME] - condenados como incurso no crime de roubo circunstanciado (Ação Penal n. 0005491-47.2014.8.26.0050) -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que manteve a sentença exarada pelo Juízo de Direito da 10ª Vara Criminal da comarca de São Paulo/SP.
+Alega o impetrante violação ao enunciado da Súmula 443/STJ, uma vez que, no caso em tela, não há qualquer motivação idônea para que o aumento efetuado pela MM. Juíza de primeiro grau e confirmado pelo E. Tribunal de Justiça, em sede de apelação, fosse superior a 1/3 em razão da incidência de duas causas de aumento de pena no roubo (fl. 3).
+Sustenta, também, que não bastasse o constrangimento ilegal impingido por conta da indevida exasperação de pena, ao paciente Sergio foi imposto regime de cumprimento de pena mais severo do que aquele a que teria direito, levando-se em conta as circunstâncias judiciais e a quantidade de pena aplicada  ..  Assim, no caso em apreço, de rigor a fixação do regime semiaberto, nos termos do artigo 33, parágrafo 2º, alínea "b", do Código Penal. (fl. 4).
+Pleiteia, liminarmente e no mérito, a concessão da ordem para a redução da majoração da reprimenda pela incidência de mais de uma causa de aumento de pena para 1/3 para ambos os pacientes, bem como para a fixação do regime semiaberto para Sergio (fl. 6).
+O pedido de liminar foi parcialmente deferido para assegurar ao paciente [NOME] o direito de iniciar o cumprimento da pena imposta em regime semiaberto, até o julgamento do mérito do presente writ (fls. 26/26).
+Prestadas as informações (fls. 36/68), o Ministério Público Federal, em parecer exarado pelo Subprocurador-Geral da República [NOME], manifestou-se pela denegação da ordem (fls. 70/71).
+É o relatório.
+A ilegalidade passível de justificar a impetração do writ deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre, como bem expôs o parecer ministerial, cujos fundamentos adoto como razões de decidir (fls. 71):
+Cumpre observar, primeiramente, que apenas consta nos autos recurso de apelação interposto em favor de Fernando. Assim, sob pena de supressão de instância, as teses em favor de Sérgio não podem ser debatidas neste writ. Por oportuno:
+2. O capítulo acerca do quantum de aumento das majorantes do roubo não foi devolvido ao Tribunal a quo, nem por ele foi apreciado. Portanto, como não há decisão do Colegiado de origem sobre o tema, inviável o seu enfrentamento por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República (HC 425061/SP, STJ, 5ª T., rel. Min. Ribeiro Dantas, j. em 6.3.2018).
+Quanto à Fernando, não se verifica tenha o juízo processante feito mero cálculo aritmético para chegar à fração de 3/8 na terceira fase da dosimetria da pena.
+Ao contrário, apontou para circunstâncias concretas, reveladoras de maior gravidade no caso, como o número de agentes e a natureza da arma usada no delito. Veja-se (fls. 13):
+Em razão das causas de aumento de pena, previstas no art. 157, § 2º, incisos I e II, levando em conta que foi utilizada arma de fogo, quando poderia ter sido usada arma branca, de menor potencial lesivo, bem como que foram em número de 03 (três) os agentes, acima do mínimo que seriam 02 (dois), elevo a pena fixada em 3/8..
+Portanto, pelo conhecimento do habeas corpus somente em relação a Fernando a fim de denegar-lhe a ordem.
+De fato, no caso, o aumento da pena na terceira fase de cálculo em fração superior ao mínimo decorreu das peculiaridades concretas do crime. Em tais condições, fica afastada a aplicação da Súmula 443/STJ. Nessa linha, entre vários, o seguinte julgado: HC n. 422.670/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/12/2017.
+Apenas por apego ao argumento, cumpre observar a ausência de interesse de agir, no que se refere ao pleito de fixação do regime semiaberto ao réu Sérgio, na medida em que foi esse o regime inicial fixado pelo magistrado sentenciante, mantido pelo Tribunal a quo.
+Ante o exposto, denego a ordem.
+Publique-se.
