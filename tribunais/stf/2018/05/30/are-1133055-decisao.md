@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “JUIZADO ESPECIAL DA FAZENDA PÚBLICA. ADMINISTRATIVO. CONCURSO PÚBLICO. PAPILOSCOPISTA DA PCDF. TESTE DE APTIDÃO FÍSICA. VALIDADE E LEGALIDADE. RECURSO CONHECIDO E NÃO PROVIDO.
+    1. O cargo de Papiloscopista encontra-se submetido aos requisitos estabelecidos pelo artigo 9°, VI, da Lei n° 4.878/65, que dispõe sobre o regime jurídico peculiar dos funcionários policiais civis da União e do Distrito Federal, sendo requisito para ingresso na Academia de Polícia, dentro outros, gozar de boa saúde física, não havendo necessidade de previsão expressa na lei sobre a comprovação por meio de prova física.
+    2. O teste físico está previsto no edital, do qual o recorrente tinha plena ciência, e não há nos autos nenhuma notícia e tampouco comprovação de impugnação tempestiva aos termos do edital, cuja irresignação surgiu apenas após reprovação na prova física. A pretensão do afastamento desta fase do concurso, a qual foram submetidos todos os demais candidatos, por meio de decisão judicial, fere o princípio da isonomia, pois se concederia condição privilegiada a determinado candidato em detrimento aos demais, o que contraria o ordenamento jurídico como um todo.
+    3. Má condição da pista. O Tribunal de Justiça já decidiu que problemas da pista de corrida não é suficiente para a anulação da prova para se prestigiar o princípio da isonomia, posto que os demais candidatos realizaram a prova na mesma pista e em condições idênticas as do recorrente.
+    4. Recurso conhecido e não provido.” (pág. 86 do documento eletrônico 4).
+    No RE, fundado no art. 102, III, a, b e c da Constituição, sustenta-se, em suma, violação aos arts. 5°, II e XXXV; e 37, II, da mesma Carta. Alega-se que
+    “[...] o direito do Recorrente reside em razão da imprecisão nos métodos utilizados para auferir a metragem da prova, bem como a violação dos princípios da Isonomia, Razoabilidade, Proporcionalidade, Finalidade e Legalidade previstos na CF em face da aplicação do teste de aptidão física” (pág. 17 do documento eletrônico 5).
+    A pretensão recursal não merece acolhida.
+    Verifica-se que o Tribunal de origem concluiu pela validade do teste de aptidão física como requisito para o ingresso no cargo de papiloscopista, mantendo a reprovação do ora recorrente no concurso público. Desse modo, para divergir desse entendimento, seria necessário o reexame do conjunto fático-probatório dos autos e de cláusulas do edital do certame, o que é vedado pelas Súmulas 279 e 454 deste Tribunal. Nesse sentido, destaco o seguinte julgado desta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. TESTE DE APTIDÃO FÍSICA. REPROVAÇÃO. ANÁLISE NO CONTEXTO FÁTICO-PROBATÓRIO. INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. PRECEDENTES. DESPROVIMENTO DO AGRAVO.
+    1. É inviável o processamento do apelo extremo quando sua análise implica a análise no contexto fático-probatório. Incidência da Súmula 279 do STF.
+    2. Há necessidade de rever cláusulas editalícias que fundamentaram a conclusão o Tribunal de origem, tal providência é inadmissível em sede de recurso extraordinário, como expressamente reconhece a jurisprudência deste Tribunal. Incidência da Súmula 454 do STF.
+    3. Agravo Regimental a que se nega provimento” (ARE 907.189-AgR/GO, Rel. Min. Edson Fachin, Primeira Turma).
+    Por fim, ressalto que o Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 20% os honorários advocatícios anteriormente fixados pelo Juízo de origem, observados os limites do art. 85, § 2°, do CPC e eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro Ricardo Lewandowski
+Relator
