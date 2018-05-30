@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CAIXA DE ASSISTÊNCIA DOS SERVIDORES DO ESTADO DE MATO GROSSO DO SUL - CASSEMS contra decisão que negou seguimento ao recurso especial, manejado com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+O apelo nobre desafia acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul/MS, assim ementado (fl. 317, e-STJ):
+APELAÇÕES CÍVEIS. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. CASSEMS. PLANO DE SAÚDE. RELAÇÃO DE CONSUMO. APLICAÇÃO DO CDC. RESOLUÇÃO NORMATIVA 20/2006. PROFESSORES E SERVIDORES CONVOCADOS. NULIDADE DE CLÁUSULA CONTRATUAL QUE PREVÊ O PAGAMENTO INTEGRAL DE MENSALIDADES À CAIXA DE ASSISTÊNCIA DOS SERVIDORES. PERÍODO DE FÉRIAS. ABUSIVIDADE. MAJORAÇÃO DOS DANOS MORAIS PARA R$ 5.000,00. RAZOABILIDADE E PROPORCIONALIDADE. RECURSO DA AUTORA PARCIALMENTE PROVIDO. RECURSO DA CASSEMS IMPROVIDO.
+Reforma-se parcialmente a sentença que julgou procedente a ação de indenização por danos morais, tão somente para majorar o valor da indenização para R$ 5.000,00 (cinco mil reais).
+Nada obstante ser legítima em contrato de plano de saúde a cláusula que limita os direitos do consumidor, deve ser ela redigida com as cautelas exigidas pelo CDC.
+Havendo demonstração da necessidade de realização de exame para o tratamento cirúrgico recomendado pelo médico que atende a paciente, é abusiva a Resolução Normativa n. 20/2006, referente a professores e servidores convocados, na parte em que determina que os beneficiários devem arcar com o pagamento integral das contribuições devidas à Cassems nos meses que inexistir vínculo com o Estado.
+Nas razões do especial (fls. 329-355, e-STJ), a recorrente apontou, além de dissídio jurisprudencial, violação ao art. 54, §§ 3.º e 4.º, da Lei n.º 8.078/90, sustentando, em síntese, a validade de cláusulas limitativas, desde que expressas, claras e de forma a facilitar a compreensão (fl. 335, e-STJ). Aduziu, ainda: "(..) as AUTOGESTÕES, ENTIDADES FECHADAS DE ASSISTÊNCIA, têm seus limites e obrigações, e o fato do servidor convocado que durante sua desvinculação com o Estado, ter inadimplido suas contribuições, e por isso, teve suspensa a cobertura do seu plano de saúde, não pode ser tida como ensejadora de dano moral" (fl. 335, e-STJ).
+Contrarrazões às fls. 472-485 (e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso com fundamento na incidência das Súmulas n. 282/STF e 5, 7 e 83 do STJ (fls. 487-490, e-STJ).
+Irresignada, aduz a agravante que o reclamo merece trânsito, refutando os retrocitados óbices (fls. 402-505, e-STJ).
+Contraminuta às fls. 612-625 (e-STJ).
+É o relatório.
+Decide-se.
+A insurgência merece prosperar.
+1. Cinge-se a controvérsia recursal à aplicabilidade do Código de Defesa do Consumidor aos planos de saúde na modalidade autogestão.
+Sobre o tema, o Tribunal de origem decidiu que (fls. 324-326, e-STJ):
+No caso em epígrafe, o procedimento médico a ser realizado na apelada - biópsia em uma verruga - não é, a toda evidência, para fins estéticos, mas sim para fins terapêuticos.
+De outro norte, o exame solicitado pelo médico está diretamente ligado ao ato cirúrgico (f. 40), sem o qual a cirurgia não tem como ser realizada, razão pela qual não há como se aplicar as exceções previstas na Resolução Normativa nº 20/2006.
+Com efeito, mesmo que se entenda que a conduta da apelante esteja em consonância com a Resolução Normativa nº 20/2006, ainda assim a procedência do pedido inaugural da autora ora apelada se impõe, em razão do sopesamento das normas em conflito, isto porque, muito embora a referida norma possua regras específicas relativamente aos serviços de saúde regidos pela iniciativa privada, o fato é que a mesma não pode sobrepujar ou contrariar o Código de Defesa do Consumidor, o qual estabeleceu normas gerais protetivas aos consumidores por serem eles a parte mais fraca na relação obrigacional de consumo.
+ ..
+Por fim, conforme concluído na sentença atacada, considerando que o exame foi realizado em 5.5.2014 e concluído em 7.5.2014, mas somente foi disponibilizado em 1.7.2014, certamente tal fato causou à apelada angústias e frustrações que extrapolam o mero aborrecimento, porquanto ela permaneceu por mais de dois meses sem ter conhecimento de seu verdadeiro estado de saúde .
+Diante do exposto, nego provimento ao recurso de apelação cível interposto pela Caixa de Assistência dos Servidores do Estado de Mato Grosso do Sul CASSEMS.
+Contudo, o Superior Tribunal de Justiça, na oportunidade do julgamento do Resp n.º 1.285.483/PB, pela Segunda Seção, consolidou o entendimento de que não se aplica o Código de Defesa do Consumidor quando o contrato de plano de saúde for administrado por entidade de autogestão.
+Confira-se a ementa do referido julgado:
+RECURSO ESPECIAL. ASSISTÊNCIA PRIVADA À SAÚDE. PLANOS DE SAÚDE DE AUTOGESTÃO. FORMA PECULIAR DE CONSTITUIÇÃO E ADMINISTRAÇÃO. PRODUTO NÃO OFERECIDO AO MERCADO DE CONSUMO. INEXISTÊNCIA DE FINALIDADE LUCRATIVA. RELAÇÃO DE CONSUMO NÃO CONFIGURADA. NÃO INCIDÊNCIA DO CDC.
+1. A operadora de planos privados de assistência à saúde, na modalidade de autogestão, é pessoa jurídica de direito privado sem finalidades lucrativas que, vinculada ou não à entidade pública ou privada, opera plano de assistência à saúde com exclusividade para um público determinado de beneficiários.
+2. A constituição dos planos sob a modalidade de autogestão diferencia, sensivelmente, essas pessoas jurídicas quanto à administração, forma de associação, obtenção e repartição de receitas, diverso dos contratos firmados com empresas que exploram essa atividade no mercado e visam ao lucro.
+3. Não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo.
+4. Recurso especial não provido.
+(REsp 1.285.483/PB, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/06/2016, DJe 16/08/2016).
+No mesmo sentido, os seguintes precedentes: REsp 1.684.207/MT, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/09/2017, DJe 10/10/2017; AgInt no REsp 1.563.986/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/08/2017, DJe 06/09/2017; AgInt no AREsp 943.838/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/06/2017, DJe 27/06/2017; REsp 1.644.829/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/02/2017, DJe 23/02/2017.
+No caso em apreço, o Tribunal de origem, ao entender que a norma consumerista incide mesmo nos planos de saúde de autogestão, julgou em dissonância com a jurisprudência mais recente desta Corte, razão pela qual merece reforma o acórdão recorrido, impondo-se o provimento do recurso especial.
+2. Do exposto, com fundamento no art. 932 do NCPC c/c Súmula 568 do STJ, conheço do presente agravo e, por conseguinte, dou provimento ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem, para que, afastando o Código de Defesa do Consumidor, proceda a novo julgamento do recurso de apelação, como entender de direito.
+Publique-se. Intimem-se.
