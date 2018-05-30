@@ -1,0 +1,10 @@
+DECISÃO: O presente agravo foi interposto contra decisão que negou trânsito ao apelo extremo deduzido nestes autos, no qual sustentou que o acórdão, complementado em sede embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, teria transgredido o preceito inscrito na Constituição da República.
+    O exame da presente causa evidencia que o recurso extraordinário não se revela viável.
+    É que, no que concerne ao termo inicial da incidência de juros de mora sobre os honorários, a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, pois a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Código de Processo Civil) circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
