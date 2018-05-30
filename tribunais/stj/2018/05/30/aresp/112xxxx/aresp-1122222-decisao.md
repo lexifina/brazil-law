@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a"e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ Fl.305):
+"APELAÇÃO CÍVEL - AÇÃO COMINATÓR1A - PLANO DE SAÚDE
+- CÓDIGO DE DEFESA DO CONSUMIDOR - APLICAÇÃO - CONTRATAÇÃO ANTERIOR À LEI 9.656/98 - AUSÊNCIA DE OPÇÃO DE MIGRAÇÃO PARA NOVO PLANO - CIRURGIA DE RECONSTITUIÇÃO DE MAMA - PRÓTESE - EXCLUSÃO DA COBERTURA - CLÁUSULA ABUSIVA - DANOS MORAIS - CONFIGURAÇÃO.
+Os contratos de planos de saúde sujeitam-se às normas consumeristas, caracterízando-se a relação entre as partes como de consumo, por se encaixar perfeitamente nos ditames dos artigos 2o e 3o, § 2o, do Código de Defesa do consumidor, razão pela qual suas cláusulas poderão ser revisadas. Configura-se como abusiva a cláusula contratual que exclui o fornecimento de prótese indispensável à realização de cirurgia de reconstituição de mama, mesmo nos contratos celebrados antes da Lei 9.656/98. Ademais, como o réu não comprovou que foi oferecida ao autor a opção de migração para o novo plano de saúde instituído com as normas da Lei 9.656/98, essas devem ser aplicadas, restando configurada a responsabilidade daquele pelos itens não autorizados. A recusa, pela operadora de plano de saúde, em autorizar tratamento a que esteja legal ou contratualmente obrigada, implica dano moral ao conveniado, na medida em que agrava a situação de aflição psicológica e de angústia quando a parte contratante espera que tenha pronto atendimento exatamente no momento que está mais fragilizada devido ao seu estado de saúde. "
+Os embargos declaratórios opostos foram rejeitados (fls. 340/344).
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 4º e 54, §§ 3º 4º, do CDC, bem como, aos arts. 5º e 6º da Lei de Introdução ao Código Civil. Sustenta, em síntese, que a hipótese cuida de contrato celebrado antes da vigência da Lei 9.656/98, com cláusula expressa de exclusão de cobertura de prótese. Assim sendo, não há que se falar em abusividade.
+É o relatório. Decido.
+De início, quanto à alegada violação dos arts. 5º e 6º da Lei de Introdução ao Código Civil, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciado pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Quanto à ausência de violação ao Direito do Consumidor ante a recusa de cobertura da prótese, o acórdão recorrido foi assim fundamentado:
+(..)
+Dessa maneira, ainda que a negativa de realização da implantação de prótese tenha ocorrido com base no contrato, resta evidente que a implantação da prótese está inserida no contexto da cirurgia de reconstituição de mama, sendo indispensável ao pleno restabelecimento da paciente.
+Ademais, ainda que se entenda de outra forma, como a apelante não comprovou que foi oferecida à apelada a opção de migração para o novo plano de saúde instituído com as normas da Lei 9.656/98, essas devem ser aplicadas, restando configurada a responsabilidade daquela pelos itens não autorizados.
+(..)
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
