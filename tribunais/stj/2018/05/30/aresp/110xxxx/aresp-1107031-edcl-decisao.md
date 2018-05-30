@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CONCRETO REDIMIX DO BRASIL S/A contra decisão que negou provimento ao agravo em recurso especial em razão do óbice da Súmula nº 7/STJ (e-STJ fls. 249-251).
+Nas razões do presente recurso (fls. 255-262, e-STJ), a embargante alega que a decisão é omissa em relação a violação dos artigos nºs 489 e 1.022; 297, 300 e 1.019, II, todos do Código de Processo Civil de 2015.
+Assevera não ser possível a incidência do óbice da Súmula nº 7/STJ, pois alega ter ficado demonstrado que a pretensão não é a de simples reexame do conjunto probatório, mas de negativa de vigência à legislação federal.
+Contraminuta de AREALSUL LTDA. em que requer o não provimento do recurso por ausência de omissão no julgado, bem como aplicação da multa do art. 1.026 do Código de Processo Civil de 2015.
+É o relatório.
+DECIDO.
+Os embargos não merecem acolhimento.
+Segundo o artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+Não merece ser acolhido o pleito da parte embargante de que a decisão foi omissa ao não analisar os dispositivos apontados como violados em seu recurso especial.
+No caso dos autos, o recurso especial não foi provido com fundamentação completa, clara e coerente, consoante se colhe da fundamentação da decisão embargada.
+Com efeito, no tocante à alegada negativa de prestação jurisdicional, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+No que concerne ao mérito, o Tribunal de origem concluiu pela inexistência de dados objetivos que permitam o deferimento da liminar pleiteada, conforme se extrai da leitura do voto condutor, merecendo destaque os seguintes trechos:
+"Outrossim, da análise preliminar dos documentos acostados ao instrumento, sobretudo, do contrato objeto do litígio (fls. 39/45), não se verifica, ao menos nesta fase de cognição sumária, a alegada abusividade. Ademais, mostra-se, ainda, plausível a cobrança de valores que, em tese, possam decorrer da incidência de multa moratória sobre os valores devidos, desde que, previamente ajustada pelas partes. Desse modo, frente à ausência de demonstração da alegada abusividade nos encargos contratados, inviável se mostra a antecipação dos efeitos da tutela, nos termos do pretendido pela parte agravante, a qual somente pode ser deferida quando presentes indícios de ilegalidade, consoante tem entendido este Tribunal: (..)" (fl. 129, e-STJ).
+Dessa forma, em nova análise do recurso especial, rever tal conclusão demandaria, inevitavelmente, o reexame de matéria fático-probatória, o que é inviável em recurso especial, nos termos da Súmula nº 7/STJ: "a pretensão de simples reexame de prova não enseja recurso especial".
+Ademais, impõe-se ressaltar que não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o Tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+Registre-se que, mesmo à luz do novel 489 do Código de Processo Civil de 2015, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre aqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+A motivação contrária ao interesse da parte ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador não autoriza o acolhimento dos embargos declaratórios.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir algum erro material, mas, sim, reformar o julgado por via inadequada.
+Sendo assim, não há, no caso dos autos, omissão de ponto ou questão sobre o qual o juiz de ofício ou a requerimento devia se pronunciar, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Por fim, com relação ao pedido da parte embargada para aplicação da multa prevista no art. 1.026 do Código de Processo Civil de 2015, esclareça-se que não se verifica, no caso, o intuito manifestamente protelatório dos presentes embargos de declaração, sendo indevida, por ora, a aplicação da multa prevista no art. 1.026, § 2º, do CPC/15.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
