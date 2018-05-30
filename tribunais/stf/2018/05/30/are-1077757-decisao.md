@@ -1,0 +1,19 @@
+DECISÃO
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto com base no art. 102, III, da Constituição Federal contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (Vol. 9):
+    “Desapropriação - fase de execução do julgado - prescrição intercorrente em face da inércia dos expropriados - impossibilidade - a demora ou a inércia, no caso de ação expropriatória é sempre da expropriante - inexistência de beneficio obtido com a própria torpeza, marcada pelo atraso na liquidação da divida judicial - depósito insuficiente - na fase de execução processual, as partes do processo não ficam em posição simétrica determinada pela igualdade, como ocorre na etapa de cognição, posto que o propósito do julgador é exigir o cumprimento da decisão exeqüenda - embargos à execução julgados procedentes com fundamento no art. 794, I, do CPC - inexistência de impugnação da Fazenda em relação aos cálculos efetuados pela Contadoria Judicial - sentença reformada para prosseguimento da execução “
+    Nas razões recursais, a parte recorrente aponta violação ao artigo 100 da CF/88.
+    É o relatório. Decido.
+    O Tribunal de origem, ao apreciar a apelação nos embargos à execução, assim se manifestou nos autos (fl. 890, e-STJ, Vol. 9):
+    “Precatório algum pode ou deve ser extinto antes da sua cabal liquidação. Condenada a Fazenda do Estado, esta deve prover o pagamento integral do título, e a sua inércia em pagar ou complementar os valores insuficientemente depositados não confere ensejo à contagem de prazo prescricional.
+    Por esse mesmo motivo, aliás, não se pode cogitar nem mesmo de prescrição de parte do crédito, com referência às prestações anteriores ao quinquênio precedente ao aforamento da ação executiva, mormente por se tratar de inaceitável e exorbitante demora da Administração no pagamento de “justa e prévia indenização oriunda de ação expropriatória iniciada há mais de 31 (trinta e um) anos.
+    Em suma, se a Fazenda pagou de forma deficiente e insuficiente, deve honrar integralmente o valor do título judicial com o pagamento do saldo remanescente, portanto, inexiste prescrição intercorrente em sede de ação expropriatória em fase de execução, pois a ação de desapropriação só finaliza com a prévia e justa indenização
+    Observe-se, por fim, que a Fazenda do Estado concordou expressamente com os cálculos efetuados pela d. Contadoria Judicial, no valor de R$ 90.798,52 (válido para 18.08.2010). Ou seja, os presentes embargos tem como única argumentação a prescrição intercorrente, que restou afastada.”
+    Assim, para examinar a prescrição, seria necessário o exame da legislação infraconstitucional aplicável à espécie. Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas indicadas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil e Processual Civil. 3. Título executivo extrajudicial. Prescrição intercorrente. Matéria de índole infraconstitucional. Ofensa à Constituição, se ocorrente, seria indireta ou reflexa. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 775.292-AgR, Rel. Min. GILMAR MENDES Segunda Turma, DJe de 30/4/2014).
+    Por fim, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
