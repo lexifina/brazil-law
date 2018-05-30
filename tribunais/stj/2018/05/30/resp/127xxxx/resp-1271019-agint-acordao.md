@@ -1,0 +1,23 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. RATEIO DA VERBA HONORÁRIA ENTRE OS PROCURADORES QUE ATUARAM NO FEITO. TESE DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ALTERAÇÃO, DE OFÍCIO, DA VERBA HONORÁRIA CONVENCIONADA ENTRE A PARTE E O SEU PROCURADOR. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. Não houve oposição, pelo ora recorrente, de embargos de declaração perante a Corte de origem. Assim, ao indicar violação ao art. 535 do CPC, revela-se manifesta a deficiência na fundamentação do recurso especial. Imperiosa, portanto, a incidência do óbice constante da Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.".
+2. A instância ordinária não tratou da alegação segundo a qual não é dado ao juiz, ex-officio, alterar o que entre a parte e seu procurador foi convencionado, e não foram opostos embargos de declaração no intuito de sanar eventual omissão. Ausente o requisito do prequestionamento, incide a Súmula 282/STF.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO SÉRGIO KUKINA: A hipótese é de agravo interno interposto pelo Espólio de [NOME] contra decisão que negou provimento ao agravo em recurso especial, em razão da incidência das Súmulas 284 e 282 do STF (fls. 1.262/1.263).
+Inconformado, o agravante afirma que embora os declaratórios tenham sido opostos por [NOME] (interessado), são manifestos a legitimidade e o interesse recursal também do aqui recorrente/agravante para obter, via recurso especial, a correção dos vícios apontados e não sanados pelo Tribunal a quo, pois qualquer decisão tomada nestes autos repercutirá no SEU direito a honorários advocatícios (como também na verba honorária do causídico [NOME]).
+Acrescenta que a pretensão recursal veiculada por [NOME] (que também aproveitaria ao ora agravante) foi desacolhida pelo Tribunal a quo, mas sem que os fundamentos jurídicos ao acolhimento daquela pretensão fossem examinados pelo julgador, o que justificaria o acolhimento dos declaratórios que, todavia, também não foram acolhidos.
+Defende o prequestionamento dos dispositivos legais invocados no recurso especial.
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+É o relatório.
+VOTO
+O SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pesem os argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Consoante anteriormente mencionado, a parte ora agravante não opôs, perante a instância de origem, os competentes embargos de declaração, a fim de que fossem sanadas eventuais omissões. Não se viabiliza, dessa forma, a análise de violação ao art. 535 do CPC, ante a manifesta deficiência na fundamentação do recurso especial. Inafastável, no ponto, a incidência da Súmula 284/STF.
+Importa mencionar que os aclaratórios opostos por [NOME] não aproveitam ao agravante, ante a sua inércia em recorrer, razão pela qual não há possibilidade de extensão, a seu favor, dos efeitos do recurso.
+Frise-se que, na linha da jurisprudência deste Superior Tribunal, o recurso, em regra, produz efeitos tão-somente para o litisconsorte que recorre. Apenas na hipótese de litisconsórcio unitário, ou seja, nas palavras de [NOME], "quando o julgamento haja de ter, forçosamente, igual teor para todos os litisconsortes", mostra-se aplicável a norma de extensão da decisão, prevista no art. 509, caput, do Código de Processo Civil (STJ, RMS 15.354/SC, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, DJU de 1/7/2005).
+De outro lado, a instância ordinária, efetivamente, não tratou da alegação segundo a qual não é dado ao juiz, ex-officio, alterar o que entre a parte e seu procurador foi convencionado, e não foram opostos embargos de declaração no intuito de sanar eventual omissão. Ausente o requisito do prequestionamento, incide a Súmula 282/STF.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
