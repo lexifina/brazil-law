@@ -1,0 +1,46 @@
+DECISÃO
+1. Trata-se de embargos de divergência interpostos contra acórdão proferido pela Primeira Turma, assim ementado:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. COMPENSAÇÃO. LEI 10.355/2001. POSSIBILIDADE. OFENSA A COISA JULGADA. INEXISTÊNCIA.
+1. A jurisprudência do STJ firmou entendimento no sentido de que não ofende a coisa julgada a compensação do índice de 28,86% com reajustes concedidos por leis posteriores à última oportunidade de alegação da objeção de defesa no processo cognitivo.
+2. Agravo regimental não provido.
+Sustenta a embargante dissídio jurisprudencial com o seguinte aresto:
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EXECUÇÃO. ARGUIÇÃO INCIDENTAL DE NULIDADE DA CITAÇÃO. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA EM AÇÃO DECLARATÓRIA COM O MESMO OBJETIVO. FATO SUPERVENIENTE. ART. 462 DO CPC. CONSIDERAÇÃO. RESPEITO À COISA JULGADA.
+1. O julgamento deve refletir o estado de fato da lide no momento da entrega da prestação jurisdicional.
+2. O fato superveniente (art. 462 do CPC) deve ser tomado em consideração no momento do julgamento a fim de evitar decisões contraditórias e prestigiar os princípios da economia processual e da segurança jurídica.
+3. No caso dos autos, o fato superveniente - consubstanciado na coisa julgada produzida em lide (ação declaratória) que tramitava paralelamente ao processo de execução que deu origem aos presentes autos - é tema relevante e deve guiar a solução do presente recurso especial sob pena ofensa à coisa julgada.
+4. Recurso especial provido para restabelecer a decisão de primeira instância.
+(REsp 911.932/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/03/2013, DJe 25/03/2013)
+Assevera que (fl.):
+No presente feito, a C. 1ª Turma manteve a limitação do pagamento do reajuste de 28,86% à data da edição da lei que reestrutura a carreira dos servidores por entender que, quando editada o referido diploma legal, encontrava-se esgotada a instância ordinária e, consequentemente, a possibilidade de sua arguição, afastando a aplicação do artigo 462, do Código de Processo Civil.
+De outro turno, a Colenda 3ª Turma, com apoio no mencionado dispositivo do diploma processual então vigente, considerou inafastável a apreciação, mesmo em sede de recurso especial, de fato novo/superveniente que possa modificar a lide, sob pena de ofensa à coisa julgada ("fato superveniente - consubstanciado na coisa julgada produzida em lide (ação declaratória) que tramitava paralelamente ao processo de execução que deu origem física aos presentes autos - é tema relevante e deve guiar a solução do presente recurso especial sob pena ofensa à garantia da coisa julgada e ao princípio da segurança jurídica" - fl. 10 do acórdão proferido nos autos do REsp nº 911.932/RJ);
+É o relatório.
+2. Verifica-se que não foi demonstrada a divergência na forma preconizada no art. 266, § 4º, do RISTJ, uma vez que, da leitura da fundamentação do acórdão recorrido, tanto no agravo interno quanto nos embargos de declaração, não é possível aferir o alegado dissídio jurisprudencial, uma vez que não há nenhuma menção quanto à ocorrência ou não de alegação, pela Fazenda Pública, de eventual compensação ainda no processo cognitivo, o que renderia ensejo à aferição da existência de divergência entre os arestos cotejados.
+Confiram-se trechos do voto condutor do agravo:
+Argumenta que a reestruturação da carreira se deu após o advento das Leis 10.355/01 e 10.855/04, pelo menos quatro anos antes do trânsito em julgado da decisão proferida nos autos da Ação 97.0004375-4.
+Afirma haver violação do art. 2º, §§ 2º e 3º, da MP 2.169-43/01 tendo em vista ser inviável a compensação de reajustes de natureza setorial com o reajuste de 28,86%, que possui caráter geral, sendo parte integrante do próprio vencimento.
+ ..
+Na hipótese dos autos o Tribunal de origem consignou:
+Desse modo, tendo em conta que a Lei nº 10.355/01 reestruturou a carreira previdenciária, o percentual de aumento concedido absorve, no que for cabível, a diferença relativa ao reajuste de 28,86%.
+No caso dos autos, foi concedido um reajuste de 4% em maio de 2002 (fl.13), retroativo a fevereiro/02, absorvendo o resíduo de 3,64% que faltava para incorporar o reajuste de 28,86%. (fls. 149-153)
+Quando do julgamento dos embargos de declaração, acrescentou-se:
+É firme na jurisprudência o entendimento no sentido de que a limitação temporal de pagamento de diferenças de reajuste ou as compensações remuneratórias podem ser arguidas até o exaurimento das instâncias ordinárias. No caso dos autos, a edição das Leis 10.355, de 1º de fevereiro de 2002, que criou a Carreira Previdenciária, modificada, posteriormente alterada pela Lei n.º 10.855/04 Lei nº MP nº 2.150/2001 é posterior ao exaurimento da instância ordinária no processo de conhecimento, de forma que reconhecer tal limitação nos embargos à execução não ofende a coisa julgada. Em verdade, apenas obsta o eventual enriquecimento indevido dos exequentes. (fls. 282-292, grifo nosso)
+ ..
+Quanto ao mérito, verifica-se que o acórdão recorrido está em consonância com a jurisprudência do STJ, a qual firmou entendimento no sentido de que não ofende a coisa julgada, a compensação do índice de 28,86% com reajustes concedidos por leis posteriores à última oportunidade de alegação da objeção de defesa no processo cognitivo.
+Outrossim, no acórdão dos embargos de declaração também não se verifica tal informação:
+No caso, consta no acórdão embargado que: (i) não houve violação dos artigos 458, II, e 535, II, do CPC/1973, uma vez que os arestos recorridos estão devidamente fundamentados; (ii) o acórdão recorrido está em consonância com a jurisprudência do STJ, a qual firmou entendimento no sentido de que não ofende a coisa julgada, a compensação do índice de 28,86% com reajustes concedidos por leis posteriores à última oportunidade de alegação da objeção de defesa no processo cognitivo.
+Na espécie, o Tribunal de origem registrou, expressamente, que "a edição das Leis 10.355, de 1º de fevereiro de 2002, que criou a Carreira Previdenciária, modificada, posteriormente, alterada pela Lei nº 10.855/04 Lei nº MP nº 2.150/2001 é posterior ao exaurimento da instância ordinária no processo de conhecimento, de forma que reconhecer tal limitação nos embargos à execução não ofende a coisa julgada. Em verdade, apenas obsta o eventual enriquecimento indevido dos exequentes" (fl. 285).
+Nessa linha de intelecção, verifica-se a impossibilidade de verificação da efetiva existência de dissídio jurisprudencial entre os julgados em confronto, o que tem o condão de inviabilizar o conhecimento do presente recurso, mormente tendo em vista que, na estreita via dos embargos de divergência, não é possível o reexame da causa, mas tão somente a ocorrência da dissensão interpretativa, que deve, para tanto, estar comprovada na petição recursal.
+Confiram-se:
+AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. SEGURO HABITACIONAL. TRANSCRIÇÃO DE EMENTAS. APLICAÇÃO DA SÚMULA 168/STJ.
+1. Para a configuração da divergência, na forma dos arts. 266, § 1º, c/c 255, § 2º, do RISTJ, os acórdãos confrontados devem apresentar similitude de base fática, discutindo determinada questão sobre o mesmo enfoque legal, alcançando resultados discrepantes; tudo isso evidenciado mediante o indispensável cotejo analítico.
+2. "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado" (Súmula 168, CORTE ESPECIAL, julgado em 16/10/1996, DJ 22/10/1996, p. 40503).
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EAREsp 330.517/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 12/08/2015, DJe 18/08/2015)
+AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RECURSO NÃO ADMITIDO POR AUSÊNCIA DE COTEJO ANALÍTICO. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA.
+1. Nos termos da jurisprudência reiterada desta Corte Superior, a comprovação da divergência jurisprudencial exige o cotejo analítico entre os julgados confrontados e a demonstração da similitude fática, partindo-se de quadro fático semelhante, ou assemelhado, para conclusão dissonante de julgamento quanto ao direito federal aplicável.
+2. Na espécie, a recorrente se limitou a trazer transcrição da ementa, sem sequer fazer a juntada do voto, tampouco a confrontação entre os arestos. Descumpriu, portanto, o requisitos do cotejo analítico dos acórdãos, apenas citando supostas ementas. Consoante disposto nos art. 266, § 1º, do RISTJ, a comprovação da divergência será realizada, nos moldes previstos no art. 255, §§ 1º e 2º, do citado estatuto.
+3. Mostra-se evidente a impropriedade dos presentes embargos de divergência, na medida em que não se demonstrou a existência de situações idênticas sendo julgadas por esta Corte de Justiça de modo dissonante.
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EREsp 1459222/RJ, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 05/08/2015, DJe 14/08/2015)
+3. Ante o exposto, com fundamento no art. 266-C do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimações necessárias.
