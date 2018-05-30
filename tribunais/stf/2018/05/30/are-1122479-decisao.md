@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (eDOC 2, p. 97):
+    “TRIBUTÁRIO E ADMINISTRATIVO. ANISTIADO POLÍTICO. PRETENDIDA ISENÇÃO DO IMPOSTO DE RENDA E DA CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE OS PROVENTOS DE APOSENTADORIA. NECESSIDADE DE QUE SE REQUEIRA A SUBSTITUIÇÃO DOS PROVENTOS PELO REGIME DE PRESTAÇÃO MENSAL. ART. 19 DA LEI 10.559/2002. DECRETO 4.987/2003.
+    1. O art. 9º da Lei 10.559/2002 estabelece que os valores pagos por anistia não poderão ser objeto de contribuição previdenciária. O parágrafo único do mesmo artigo isenta do imposto de renda os valores pagos a título de indenização a anistiados políticos.
+    2. A isenção do imposto de renda concedida aos valores pagos a título de indenização inclui as aposentadorias, pensões ou proventos de qualquer natureza pagos aos já anistiados políticos, desde que requerida a respectiva substituição pelo regime de prestação mensal, de caráter permanente e continuado, prevista no art. 19 da Lei 10.559/2002. Por analogia, o mesmo tratamento jurídico deve ser adotado relativamente às contribuições previdenciárias.
+    3. A ausência de comprovação de que foi requerida a substituição do pagamento de proventos pelo regime de prestação mensal impede a concessão da segurança.
+    4. Apelação a que se nega provimento.”
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se violação do art. 8º do ADCT.
+    Requer-se o reconhecimento da condição de anistiado político e, por consequência, o direito à isenção ao recolhimento do Imposto de Renda e da Contribuição Previdenciária.
+    É o relatório. Decido.
+    O recurso não merece prosperar.
+    O art. 8º do Ato das Disposições Constitucionais Transitórias foi regulamentado pela Lei 10.559/2002, que passou a dispor acerca do regime do anistiado político e da reparação econômica de caráter indenizatório.
+    Desse modo, as discussões acerca de isenções relativamente ao imposto de renda e a contribuição previdenciária demandaria o reexame de fatos e provas e o exame da legislação infraconstitucional aplicável à espécie (Lei 10.559/2002). Não restando demonstrada a ocorrência de ofensa constitucional direta, resta inviabilizado o processamento do apelo extremo. No mesmo sentido, confiram-se os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. ANISTIADO POLÍTICO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO FEDERAL NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 27.04.2012. Eventual ofensa à Constituição Federal só poderia ser constatada a partir da análise da legislação infraconstitucional (Lei nº 10.559/02 e Decreto nº 4.897/03) que fundamentou o acórdão da origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido. (ARE 770.418, Rel. Min. Rosa Weber, Segunda Turma, DJe 04.04.2014)”
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. Contribuição previdenciária. Anistiado político. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Matéria restrita ao âmbito da legislação infraconstitucional. 5. Agravo regimental a que se nega provimento.” (ARE 692.795, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 12.11.2014)
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ANISTIADO POLÍTICO. ISENÇÃO FISCAL CONCEDIDA PELA LEI Nº 10.559/2002. CONTROVÉRSIA INFRACONSTITUCIONAL. 1. A matéria controvertida está restrita à análise da legislação infraconstitucional aplicável ao caso concreto. Precedentes. 2. Agravo interno a que se nega provimento.”(ARE 715.272-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 17.11.2016)”
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 21, §1º do RISTF.
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
