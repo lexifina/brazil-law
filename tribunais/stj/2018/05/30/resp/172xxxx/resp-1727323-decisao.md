@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. ARTIGO 1.022, II, DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fls. 232/233):
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. CÉDULA. DE CRÉDITO RURAL. PRESCRIÇÃO. NÃO OCORRÊNCIA. COMISSÃO DE PERMANÊNCIA: INEXIGIBILIDADE. LIMITAÇÃO DA MULTA MORATÓRIA. DESCARACTERÍZAÇÃO DA MORA.
+1. Tratando-se de execução de crédito da União, o prazo de prescrição aplicável é o quinquenal, previsto no Decreto nº 20.910/32, uma vez que, cedidas as cédulas de crédito rural à União, por força da MP 2.196-3/01, estas assumiram a natureza de créditos da Fazenda Pública.
+2. O vencimento: antecipado das prestações vincendas em razão do inadimplemento do executado não altera o termo inicial da contagem do prazo, prescricional, que continua ser a data do vencimento previsto no título: Precedentes do STJ.
+3. É firme entendimento do Superior Tribunal de .Justiça de que, embora haja previsão contratual de incidência de comissão de permanência, tal encargo é inexigível nas cédulas de crédito rural, disciplinadas, pelo Decreto -Lei nº 167/1967, uma vez que o § único do art. 5º do referido diploma legal, prevê a possibilidade de cobrança somente de juros e multa.
+4. A limitação da multa contratual em 2%, nos termos do art. 52, § 1º do CDC, alterado pela Lei n.º 9.298, de 01/08/1996, aplica-se aos contratos bancários firmados somente após a vigência da referida alteração legislativa.
+5. A 2ª Seção do STJ, no julgamento do REsp n º 1 061.530, consolidou entendimento no sentido de que o reconhecimento da abusividade dos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora e, por consequência, devem ser afastados seus consectários legais. Hipótese em que não foram identificados encargos abusivos no período da normalidade.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1.022, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito de ofensa aos arts. 2º, do CDC, 14 da Lei nº 4829/65, do disposto no inciso II, da Resolução nº1.129/86 do BACEN, 5º da MP nº 2.170-63/2001, 71 do DL nº 167/1967 e 4º, VI, da Lei nº 4.595/1964.
+Quanto à questão de fundo, sustenta ofensa aos artigos 2º, do CDC, 14 da Lei nº 4829/65, do disposto no inciso II, da Resolução nº1.129/86 do BACEN, 5º da MP nº 2.170-63/2001, 71 do DL nº 167/1967 e 4º, VI, da Lei nº 4.595/1964, sob o seguinte argumento: "Se para operações diversas das instituições financeiras já se questiona a incidência da lei do consumidor, muito menos possível a incidência da mesma no crédito rural, que possui lei própria a lhe regular - eis que nesta espécie de empréstimo o valor mutuado tem por finalidade o implemento de alguma atividade produtiva, e o mutuante, portanto, não utiliza o dinheiro como destinatário final. Logo, não está preenchido o requisito do art. 2º do CDC, pois inexiste a condição de destinatário final do produto ou serviço" (fl. 253).
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 259.
+É o relatório. Passo a decidir.
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que a recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito de ofensa aos arts. 2º, do CDC, 14 da Lei nº 4829/65, do disposto no inciso II, da Resolução nº1.129/86 do BACEN, 5º da MP nº 2.170-63/2001, 71 do DL nº 167/1967 e 4º, VI, da Lei nº 4.595/1964.
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022, II, do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Prejudicada a análise das demais questões.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
