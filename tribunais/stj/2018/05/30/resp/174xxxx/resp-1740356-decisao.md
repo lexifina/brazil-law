@@ -1,0 +1,22 @@
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. OFENSA A PRECEITO E PRINCÍPIOS CONSTITUCIONAIS E A ENUNCIADO SUMULAR. INADEQUAÇÃO DA VIA ELEITA. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. DATA-BASE PARA A CONCESSÃO DE NOVOS DIREITOS. DATA DA ÚLTIMA PRISÃO, RESSALVADA, QUANTO AO BENEFÍCIO DA PROGRESSÃO DE REGIME, EVENTUAL FALTA GRAVE SUBSEQUENTE. ENTENDIMENTO PREVALECENTE NO JULGAMENTO DO RECURSO ESPECIAL Nº 1.557.461/SC E DO HABEAS CORPUS Nº 381.218/MG.
+Recurso especial provido, determinando ao juízo da execução penal que considere como data-base para a obtenção de eventuais direitos, a data da última prisão, ressalvada, quanto ao benefício de progressão de regime, a hipótese de eventual prática de infração disciplinar de natureza grave posterior.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea c do permissivo constitucional dirigido contra o acórdão do Tribunal de Justiça do Tocantins proferido no Agravo em Execução n. 0000505-44.2017.827.2725.
+Narram os autos que o Ministério Público interpôs recurso de agravo em execução contra decisão que determinou a unificação das reprimendas do apenado, fixando como marco efetivo para o cálculo da benesse progressiva a data da última prisão.
+O Tribunal a quo, por unanimidade, deu provimento ao recurso (fls. 12/20) em acórdão assim ementado (fl. 20):
+AGRAVO DE EXECUÇÃO PENAL. POSTERIOR CONDENAÇÃO CRIMINAL DO APENADO. MARCO TEMPORAL INICIAL PARA FUTUROS BENEFÍCIOS. DATA DO TRÂNSITO EM JULGADO DA CONDENAÇÃO SUPERVENIENTE. PRECEDENTES DAS CORTES SUPERIORES. RECURSO PROVIDO.
+A alteração da data base para cálculos referentes à concessão de benefícios futuros, previstos na Lei n o 7.210, de 1984 (Lei de Execução Penal), em casos de unificação das penas, é o trânsito em julgado da última condenação, nos termos do posicionamento jurisprudencial dominante.
+Contra referido acórdão foi interposto o recurso especial de fls. 30/44, apontando violação da Possibilidade de Detração Penal e Execução Provisória (Súmula 716 do STF, Art. 387. CPP e Art.42 CP), violação ao sistema progressivo - excesso de execução penal (artigos 112 da LEP e Art. 2º, §2º da Lei 8072/90 e Art. 5º da CF, incisos XXXVI e XXXIX), violação ao Princípio da Isonomia (art. 3º, parágrafo único, da LEP, e item 23 da Exposição de Motivos e art. 5º, caput, da CF), violação ao Princípio da Ampla Defesa (art. 5º, LV, da CF) e violação ao Princípio do Non Bis In Idem (fl. 35). Pretende, em suma, a manutenção da decisão do juízo das execuções que determinou como marco efetivo para o cálculo dos benefícios executórioos a data da última prisão.
+Apresentadas contrarrazões (fls. 47/53), o recurso especial foi admitido na Corte de origem (fls. 55/60)
+O Ministério Público Federal opinou pelo improvimento do recurso (fls. 70/74).
+É o relatório.
+Logo de plano, registro ser incabível a análise acerca de eventual ofensa a preceitos e princípios constitucionais ou mesmo de preceito sumulares, dada a inadequação da via eleita para tal.
+No mais, com razão o recorrente.
+A Terceira Seção desta Corte, no julgamento do Resp 1.557.461/SC e do HC n. 381.218/MG, encerrado em 22/2/2018, alterou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+No caso de cometimento de falta grave, é importante ressaltar que devem ser observadas as diretrizes estabelecidas nas Súmulas 441, 534 e 535 desta Corte:
+A falta grave não interrompe o prazo para obtenção de livramento condicional. (Súmula 441/STJ)
+A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração. (Súmula 534/STJ)
+A prática de falta grave não interrompe o prazo para fim de comutação de pena ou indulto. (Súmula 535/STJ)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, determinando ao juízo da execução penal que considere como data-base para a obtenção de eventuais direitos, a data da última prisão, ressalvada, quanto ao benefício de progressão de regime, a hipótese de eventual prática de infração disciplinar de natureza grave posterior.
+Publique-se.
