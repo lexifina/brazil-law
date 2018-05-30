@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 2, p. 88):
+    “EMENTA: MANDADO DE SEGURANÇA - CANDIDATO APROVADO EM CONCURSO PÚBLICO - REVOGAÇÃO DO CONCURSO POR CONVENIÊNCIA ADMINISTRATIVA - INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO A SER AMPARADO. Uma vez que a revogação de concurso público constitui ato legal, decorrente do dever-poder de autotutela administrativa, não há violação de direito líquido e certo dos candidatos aprovados, a ser corrigida pela via mandamental.”
+    Os embargos de declaração foram rejeitados (eDOC 2, p. 121).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 37, IV, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “a fundação Recorrida procedeu à contratação de 77 (setenta e sete) funcionários "temporários" - não concursados - dentro do prazo de validade do concurso.” (eDOC 2, p. 142).
+    Acrescenta-se, ainda, que “Não parece razoável falar em discricionariedade no caso em tela, sobretudo quando a própria Recorrida confessa que contratou trabalhadores temporários, em detrimento daqueles que se submeteram ao concurso público e foram aprovados dentro do número de vagas.” (eDOC 2, p. 144).
+    A 1ª Vice-Presidência do TJ/MG inadmitiu o recurso extraordinário em virtude de incidir na hipótese as Súmulas 282 e 356 do STF (eDOC 2, p. 197).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, quando do julgamento da apelação, asseverou que (eDOC 2, p. 89-91):
+    “Pleiteiam os apelantes a concessão da segurança em socorro do alegado direito liquido e certo à nomeação para o cargo de Analista de Saúde e Tecnologia, por terem sido aprovados no respectivo concurso, dentro do número de vagas.
+    Ocorre que o Presidente da Fundação Ezequiel Dias, através da Portaria n°41, de 28/08/2008, revogou o ato anterior, de homologação do concurso em referência, especificamente com relação ao provimento das vagas da carreira de Técnico de Saúde e Tecnologia (fl. 73/74). Tal ato revogatório deu-se em observância à Lei Delegada 135, de 25/01/2007, que criou a Escola de Saúde Pública do Estado de Minas Gerais, como órgão autônomo, e que recebeu a competência antes confiada 6 Diretoria da Escola de Saúde Pública da FUNED. Prescreve o art. 30 da Lei Delegada 135/2007:
+    ‘Art. 3º - Ficam transferidas para a ESP-MG as atribuições da Diretoria da Escola de Saúde Pública de Minas Gerais da Fundação Ezequiel Dias – FUNED – e as atividades de formação profissional da Diretoria de Pesquisa e Ensino da Fundação Hospitalar de Minas Gerais – FHEMIG – ressalvadas as atividades de residência médica.’
+    Logo, uma vez que a carreira de Analista de Saúde e Tecnologia integrava a Diretoria da Escola de Saúde Pública da FUNED, e, portanto, foi transferida para outra entidade pública, então criada, a Escola de Saúde Pública, cumpria ao Presidente da FUNED revogar o concurso quanto aos cargos da citada carreira, já que ele não mais detinha competência para executar os atos pertinentes ao certame. Afinal, os cargos que seriam providos pelos candidatos aprovados naquele concurso deixaram de existir na estrutura organizacional da FUNED.
+    Ora, é cediço que o dever/poder de autotutela administrativa autoriza a Administração Pública revogar os seus próprios atos por critérios de conveniência e oportunidade. E dessa regra não destoa o concurso público.
+    (…)
+    De modo que a edição da Lei Delegada 135/2007 fez surgir uma nova situação para a FUNED, que se viu obrigada a revogar o concurso, para os cargos em questão, através de ato do seu presidente.
+    Tal comportamento administrativo se apresenta legítimo, desautorizando a concessão da segurança.”
+    Como se depreende dos fundamentos do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo, no que concerne à revogação do ato administrativo (concurso público), demandaria o reexame da legislação aplicável à espécie(Lei Delegada 135/2007), além das cláusulas editalícias do concurso, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 280 e 454 do STF. Nesse sentido:
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. MAGISTÉRIO SUPERIOR. CARGO DE PROFESSOR ADJUNTO. ANULAÇÃO DO CONCURSO POR ATO ADMINISTRATIVO. ANÁLISE DE CLÁUSULAS DO EDITAL E DE NORMAS INFRACONSTITUCIONAIS. ALEGAÇÃO DE OFENSA AO ART. 5º, II E LV, DA CONSTITUIÇÃO DA REPÚBLICA. LEGALIDADE. CONTRADITÓRIO E AMPLA DEFESA. NATUREZA INFRACONSTITUCIONAL DA CONTROVÉRSIA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 02.7.2015”. (ARE 951651 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 3.5.2016).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Concurso público. Anulação com base em lei local e no edital do certame. Incidência dos enunciados 279, 280 e 454 da Súmula do STF. 7. Agravo regimental a que se nega provimento.” (ARE 809.402-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 23/6/2014).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
