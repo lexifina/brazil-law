@@ -1,0 +1,39 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO. DOSIMETRIA. PENA-BASE. AUMENTO DE 09 (NOVE) MESES EM VIRTUDE DE APENAS UMA CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. DESPROPORCIONALIDADE. PLEITO DE REDUÇÃO. POSSIBILIDADE. PLEITO DE APLICAÇÃO DO PATAMAR DE 1/6 (UM SEXTO). ADEQUADO. PRECEDENTES. SÚMULA N. 568/STJ. INCIDÊNCIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por RONILDO DANIEL ANTUNES SANTOS manejado contra a decisão que inadmitiu o recurso especial interposto perante o eg. TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Consta dos autos que o MM. Juízo de primeiro grau condenou o ora recorrente como incurso nas sanções do art. 157, caput, do Código Penal, à pena de 05 (cinco) anos e 01 (um) mês de reclusão, em regime inicial fechado, mais 12 dias-multa (fls. 121-126).
+O eg. Tribunal de origem, por seu turno, deu provimento ao recurso de apelação criminal ali interposto pela Defesa, para reformar a sentença condenatória recorrida e reduzir a reprimenda corporal para 04 (quatro) anos e 09 (nove) meses de reclusão, mantido o regime inicial fechado, mais 12 dias-multa (fls. 175-184). Eis a ementa do acórdão:
+"PENAL E PROCESSO PENAL. APELAÇÃO. CRIME DE ROUBO. DOSIMETRIA. ANTECEDENTES. AGRAVANTE DA REINCIDÊNCIA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. MULTIRREINCIDÊNCIA. NÃO CONFIGURAÇÃO. BIS IN IDEM. COMPENSAÇÃO DEVIDA. RECURSO PROVIDO."
+Opostos embargos de declaração, pela combativa Defesa, foram eles rejeitados, à unanimidade de votos (fls. 201-208). Eis a ementa do acórdão:
+"PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO. DOSIMETRIA. DISCRICIONARIEDADE DO MAGISTRADO. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. NEGADO PROVIMENTO AOS EMBARGOS DE DECLARAÇÃO."
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, a Defesa alega ofensa ao art. 59, do Código Penal. Para tanto, argumenta que:
+a) "em observância aos preceitos da necessidade e da suficiência para reprovação e prevenção do crime, bem como aos princípios da proporcionalidade e da razoabilidade, a jurisprudência passou a admitir que, em regra, deve-se respeitar o aumento de 1/6 (um sexto) para cada circunstância judicial desfavorável" (fl. 219);
+b) " ..  diante da única circunstância judicial considerada desfavorável, era necessário e suficiente um aumento na fração de 1/6 (um sexto), o que levaria à fixação da pena-base em 4 (quatro) anos e 8 (oito) meses" (fl. 221);
+Contrarrazões às fls. 228-232.
+O recurso especial foi inadmitido pelo Tribunal de origem em razão do óbice da Súmula n. 7/STJ (fls. 233-235).
+Nas razões do presente agravo, a parte alega que não incide o referido óbice e reitera os argumentos expendidos no apelo nobre (fls. 237-244). Menciona que "o reconhecimento da violação ao artigo 59 do Código Penal não demanda o reexame do acervo fático-porbatório constante dos autos" (fl. 239).
+O Ministério Público Federal, em seu d. parecer, manifestou-se pelo desprovimento do agravo (fls. 261-266).
+É o relatório.
+Decido.
+Tendo em vista os relevantes fundamentos apontados pela parte agravante, conheço do agravo e passo a examinar os requisitos do recurso especial.
+No que concerne à alegação de violação ofensa ao art. 59, do Código Penal, no sentido de que "em observância aos preceitos da necessidade e da suficiência para reprovação e prevenção do crime, bem como aos princípios da proporcionalidade e da razoabilidade, a jurisprudência passou a admitir que, em regra, deve-se respeitar o aumento de 1/6 (um sexto) para cada circunstância judicial desfavorável" (fl. 219), identifico que o recurso merece prosperar.
+O MM Juízo de primeiro grau, ao estabelecer a pena-base em desfavor do ora recorrente, no que importa ao caso, assim se manifestou:
+"A culpabilidade não se afasta daquela prevista no tipo penal. O réu ostenta maus antecedentes, nos termos da certidão de fl.s 103. Não há elementos nos autos capazes de aferir a conduta social e personalidade do réu. O motivo, as circunstâncias e as consequências do crime são inerentes ao tipo penal. O comportamento da vítima em nada contribuiu para a eclosão do evento.
+Ante o exposto, fixo a pena base em 04 (quatro) anos e 09 (nove) meses de reclusão." (fl. 124).
+O eg. Tribunal a quo, por seu turno, deu parcial provimento ao apelo da Defesa, para proceder a compensação da circunstância judicial agravante da reincidência com a atenuante da confissão espontânea, e reduzir a reprimenda corporal para 04 (quatro) anos e 09 (nove) meses de reclusão, mantido o regime inicial fechado, mais 12 dias-multa (fls. 175-184).
+Diante dos excertos acima transcritos, mostra-se incorreto o v. acórdão objurgado, tendo em vista que não se encontra em consonância com o entendimento estabelecido nesta Corte Superior de Justiça, no sentido de que "A jurisprudência destaca que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração superior a 1/6 exige motivação concreta e idônea, o que não restou declinado no caso em apreço" (HC n. 416.418/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, Dje de 3/5/2018, grifei).
+A propósito, confira-se o seguinte precedente:
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO. DOSIMETRIA DA PENA. ART. 59 DO CÓDIGO PENAL - CP. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. CIRCUNSTÂNCIAS DO CRIME. PATAMAR DE ACRÉSCIMO DISCRICIONARIEDADE DO JULGADOR. REVISÃO. IMPOSSIBILIDADE. PRECEDENTES DO STJ. CRIME CONTINUADO. RECONHECIMENTO. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. PARADIGMA EM HABEAS CORPUS. COMPROVAÇÃO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A dosimetria da pena somente pode ser reexaminada no especial quando verificado, de plano, erro ou ilegalidade na fixação da reprimenda, o que não ocorre nestes autos.
+2. A jurisprudência desta Corte firmou-se no sentido de que a exasperação da pena-base, pela existência de circunstâncias judiciais negativas, deve seguir o parâmetro da fração de 1/6 (um sexto) para cada fator desfavorável (AgRg no AREsp 484.057/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 9/3/2018).
+ ..
+Agravo regimental desprovido." (AgRg no REsp n. 1.500.080/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, Dje 9/5/2018, grifei).
+Assim, considerando que o acórdão recorrido não está em conformidade com a jurisprudência desta Corte Superior de Justiça acerca do tema, incide, in casu, a Súmula n. 568/STJ, que assim dispõe, verbis:
+"O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Diante do exposto, imperioso o provimento do reclamo, para se rever a dosimetria da pena-base.
+Considerando a fundamentação retro, na primeira fase da dosimetria, utilizo o patamar de 1/6 (um sexto) para aumento pela circunstância judicial desfavorável mantida, fixando a pena-base em 04 (quatro) anos e 08 (oito) meses de reclusão, mantido o regime inicial fechado, mais 11 dias-multa.
+Na segunda fase, mantenho a compensação da circunstância atenuante com a circunstância agravante, operada pelo eg. Tribunal a quo, ao dar provimento ao apelo da Defesa, pelo que fica a pena mantida no referido patamar.
+Na terceira e última fase, não havendo causa de diminuição ou de diminuição de pena, fica a pena estabelecida, definitivamente, em 04 (quatro) anos e 08 (oito) meses de reclusão, mantido o regime inicial fechado, mais 11 dias-multa.
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso II, alínea c, do Regimento Interno deste Superior Tribunal de Justiça, acolho o parecer ministerial e conheço do agravo para dar provimento ao recurso especial para reduzir a reprimenda corporal do recorrente, nos termos acima delineados.
+P. e I.
