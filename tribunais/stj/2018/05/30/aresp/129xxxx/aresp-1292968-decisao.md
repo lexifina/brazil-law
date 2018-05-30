@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que, sob argumento de incidência da Súmula n. 7 do STJ, negou seguimento ao recurso especial.
+A decisão colegiada recorrida apresenta a seguinte ementa (e-STJ fl. 380):
+Apelações cíveis. Ação de obrigação de fazer c/c pleito indenizatório. Plano de saúde. Recusa injustificada de realização de cirurgia e material cirúrgico. Réus que opõem óbices formais à autorização do procedimento cirúrgico, negligenciando o estado emergencial por que passava a parte autora. Dano moral corretamente reconhecido e razoavelmente fixado. Acerto da sentença. Recursos a que se nega provimento.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 400/404).
+Sobreveio o recurso especial (e-STJ fls. 406/419), fundado no art. 105, III, "a", da CF, no qual a parte recorrente sustentou violação dos arts. 186, 188 e 927 do CC/2002, argumentando que, na espécie, não praticou qualquer ato ilícito e que o valor arbitrado na origem a título de danos morais é exorbitante.
+No agravo (e-STJ fls. 392/399), afirma a presença dos requisitos de admissibilidade do recurso especial.
+É o relatório.
+Decido.
+Ao reconhecer a existência dos danos morais, entendeu o Tribunal de origem que houve negativa indevida de atendimento, pois o procedimento cirúrgico solicitado pela parte recorrida estava incluído na cobertura, de maneira que era devido também o custeio dos materiais necessários ao tratamento, alegações que foram comprovadas (e-STJ fls. 381/383).
+O Tribunal de origem se baseou nos fatos e provas dos autos para reconhecer a responsabilidade da empresa por danos morais. Nesse sentido, para rever o entendimento da Corte local, seria necessário reexaminar o conjunto fático-probatório do feito, bem como reinterpretar os termos contratuais, o que é incabível no recurso especial, ante a Súmula n. 7/STJ.
+Além do mais, ao considerar que a negativa ilegal de cobertura pelo plano de saúde gerou dano moral, decidiu o Tribunal a quo em conformidade com a orientação deste Tribunal Superior, a qual preconiza que "a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico, a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário. Caracterização de dano moral in re ipsa. Precedentes." (AgRg no AREsp n. 527.140/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 2/9/2014, DJe 16/9/2014). A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. NEGATIVA. PROCEDIMENTO DE URGÊNCIA. DANO MORAL. CABIMENTO. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. "Nos termos da jurisprudência reiterada do STJ, "a recusa indevida à cobertura pleiteada pelo segurado é causa de danos morais, pois agrava a sua situação de aflição psicológica e de angústia no espírito" (REsp 657717/RJ, Rel. Ministra NANCY ANDRIGHI, DJ 12/12/2005)" (AgRg no Ag 1318727/RS, de minha relatoria, QUARTA TURMA, julgado em 17/05/2012, DJe 22/05/2012) 2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 525.097/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 9/9/2014, DJe 22/9/2014.)
+Por fim, a redução do valor arbitrado nas instâncias de origem a título de dano moral é possível em sede de recurso especial somente em casos de valor exorbitante. Na espécie, o valor fixado (R$ 10.000,00 - dez mil reais) não se mostra exagerado, esbarrando seu exame no óbice da Súmula n. 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
