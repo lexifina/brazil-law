@@ -1,0 +1,32 @@
+EMENTA
+PENAL. PROCESSO PENAL. PORTE DE MUNIÇÃO DE USO RESTRITO. UM PROJÉTIL GUARDADO PARA CONFECÇÃO DE CHAVEIRO. PRINCÍPIO PROPORCIONALIDADE JUSTIFICA A INTERVENÇÃO MÍNIMO DO ESTADO. FUNDAMENTO CONSTITUCIONAL. SÚMULA 126/STJ. TRIBUNAL AFIRMA, DIANTE DOS ELEMENTOS DE PROVA, A VERACIDADE DA ALEGAÇÃO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
+DECISÃO
+Trata-se de agravo interposto pelo Ministério Público do Rio de Janeiro contra decisão que não admitiu seu recurso especial, fundamentado na alínea a do permissivo constitucional, apresentado contra o acórdão do Tribunal de Justiça local, proferido na Apelação Criminal n. 0334684-79.2014.8.19.0001 (fl. 198):
+APELAÇÃO - PORTE DE MUNIÇÃO DE USO RESTRITO - ART. 16. CAPUT. DA LEI N. 10.826/2003 - MANUTENÇÃO DA SENTENÇA ABSOLUTÓRIA - COM O APELADO FOI APREENDIDA UMA MUNIÇÃO CALIBRE .45, QUE ELE ARRECADARA NO CHÃO, PARA FAZER UM CHAVEIRO, DEPOIS DE UMA TROCA DE TIROS NA LOCALIDADE ENTRE POLICIAIS E TRAFICANTES - CRIME DE MERA CONDUTA - APESAR DE SER UM FATO FORMALMENTE TÍPICO, ANTIJURÍDICO E CULPÁVEL, PARA A CONFIGURAÇÃO DA CONDUTA COMO CRIME DEMANDARIA A ANÁLISE MATERIALMENTE VALORATIVA DO CASO CONCRETO. NÃO DEVEMOS NOS ATER APENAS A OBSERVÂNCIA DA SUBSUNÇÃO DA CONDUTA À DESCRIÇÃO LEGAL DE CRIME - O DIREITO PENAL DEVE SE OCUPAR DOS BENS DE MAIOR RELEVÂNCIA. ONDE HAJA A NECESSIDADE DE SUA INTERVENÇÃO E, CONSEQUENTEMENTE, DA INCIDÊNCIA DE SUAS GRAVES REPRIMENDAS - OS DANOS DE PEQUENA MONTA, LEVÍSSIMOS, SEM REPERCUSSÃO SOCIAL. NÃO DEVEM OCUPAR LUGAR NA TUTELA PENAL - PRESENTES TODOS OS VETORES CUMULATIVOS NECESSÁRIOS PARA APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA: MÍNIMA OFENSIVIDADE DA CONDUTA DO AGENTE; NENHUMA PERICULOSIDADE SOCIAL DA AÇÃO; REDUZIDÍSSIMO GRAU DE REPROVABILIDADE DO COMPORTAMENTO DA LESÃO JURÍDICA PROVOCADA - DESPROVIMENTO DO APELO MINISTERIAL.
+Alega o agravante, no especial, violação do art. 16 da Lei n. 10.826/2003, sustentando que o crime de porte de arma é de perigo abstrato, bastando para sua configuração que o agente porte o armamento ou munição sem autorização ou em desacordo com determinação legal ou regulamentar (fl. 230).
+Em razão disso, busca o reconhecimento da tipicidade da conduta, condenando-se o recorrido pela prática do crime do artigo 16. caput da Lei 10.826/2003 (fl. 245).
+A Subprocuradoria-Geral da República opinou pelo provimento do agravo em parecer assim resumido (fl. 309):
+Agravo. Recurso especial inadmitido com base na súmula 7 do STJ. Revaloração da prova. Art. 105, III, a, da Constituição da República. Art. 16, caput, da Lei n.º 10.826/03. Princípio da insignificância. Inaplicabilidade. Precedentes do superior tribunal de Justiça.
+Parecer pelo conhecimento do agravo e provimento do recurso especial.
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade, sobretudo por infirmar especificamente os fundamentos adotados.
+Passo ao exame do recurso especial.
+O inconformismo não merece abrigo.
+De fato, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que os delitos de porte de armas e munição de uso permitido ou restrito, tipificados nos artigos 12 e 16 da Lei n.º 10.826/2003, são crimes de mera conduta e de perigo abstrato, em que se presume a potencialidade lesiva, sendo inaplicável o princípio da insignificância independentemente da quantidade apreendida. (AgRg no REsp n. 1.682.315/RJ, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 13/11/2017).
+Entretanto, a hipótese dos autos traz uma peculiaridade que, a meu ver, configura o distinguishing que afasta a aplicação do referido entendimento.
+Explico.
+Ao que se observa do acórdão recorrido, o Tribunal de Justiça fluminense afirmou, com base no lastro probatório dos autos, que o local em que fora abordado o acusado é palco de constantes trocas de tiros entre policiais e traficantes, inclusive, que teria ocorrido no dia anterior e no dia dos fatos, e uma única munição não seria suficiente para armar a facção criminosa da localidade.
+Eis os fundamentos do acórdão (fls. 201/202):
+No caso em tela, porém, forçoso reconhecer que a versão apresentada pelo recorrido em seu interrogatório está em harmonia com as provas trazidas aos autos, porquanto alega ter arrecadado uma única munição no chão e que pretendia fazer um chaveiro com a mesma.
+Como ficou comprovado nos autos, o local é conhecido como ponto de venda de drogas e por haver constantes trocas de tiros entre policiais e traficantes e não obstante as anotações na FAC do apelado, não parece crível que ele estivesse portanto uma única munição de pistola para armar ainda mais os integrantes da facção criminosa que domina a localidade.
+Dessa forma, a inversão do que ficou decidido, como pretendido pelo recorrente, demanda o reexame do acervo fático-probatório constante dos autos, providência que contraria a Súmula 7/STJ, configurando evidente hipótese de distinção da situação fática que impede a aplicação da jurisprudência desta Corte.
+Não obstante isso, há fundamento constitucional autônomo que não fora objeto de impugnação mediante recurso extraordinário, impedindo o conhecimento do recurso especial, em razão do óbice da Súmula 126/STJ.
+Confira-se o seguinte excerto (fls. 186/187):
+A análise da questão, tendo em vista o princípio da proporcionalidade, pode justificar, dessa forma, a ilegitimidade da intervenção estatal por meio do Direito Penal.
+Ressalto, ainda, que a hipótese não comporta a aplicação do art. 1.032 do Código de Processo Civil de 2015.
+É que tal dispositivo confere fungibilidade ao reclamo que, embora denominado pelo recorrente como recurso especial, trata de matéria constitucional, própria do extraordinário. Confira-se a redação:
+Art. 1.032. Se o relator, no Superior Tribunal de Justiça, entender que o recurso especial versa sobre questão constitucional, deverá conceder prazo de 15 (quinze) dias para que o recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional.
+No caso, não há um simples equívoco na escolha do recurso, há a ausência do próprio recurso, qual seja, do extraordinário, acompanhada da argumentação apta a infirmar o fundamento constitucional autônomo.
+Ante o exposto, com fundamento no art. 253, parágrafo único, inc. II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
