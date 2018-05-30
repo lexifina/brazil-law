@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Paraná, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EXTINÇÃO EM RAZÃO DA DESISTÊNCIA.CONDENAÇÃO DO ESTADO DO PARANÁ AO PAGAMENTO DAS CUSTAS PROCESSUAIS.POSSIBILIDADE. PEDIDO DE DESISTÊNCIA FEITO PELO ESTADO DO PARANÁ. APLICAÇÃO DO CONTIDO NO ARTIGO 26 DO CÓDIGO DE PROCESSO CIVIL. INAPLICABILIDADE DO ART.4º DA LEI ESTADUAL Nº 16.035/2008.DISPOSITIVO ILEGAL QUE DISPÕE CONTRA TEXTO DE LEI FEDERAL LEGITAMENTE EDITADO NO ÂMBITO DA COMPETÊNCIA DA UNIÃO PARA PRIVATIVAMENTE LEGISLAR SOBRE MATÉRIA DE PROCESSO CIVIL, ART. 22, INC. I, DA CF. IMPOSSIBILIDADE DE O ESTADO LEGISLAR SOBRE MATÉRIA PROCESSUAL DE FORMA DISTINTA DA QUE A LEI FEDERAL DISPÕE. RECURSO A QUE SE NEGA PROVIMENTO.” (eDOC 1, p. 190)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 97 do texto constitucional (eDOC 1, p. 222-230).
+    Nas razões recursais, alega-se violação à cláusula de reserva de plenário na medida em que o acórdão recorrido teria afastado, na espécie, a incidência de norma estadual que previa o encargo do executado de arcar com as custas judiciais na hipótese de desistência do Procurador-Geral do Estado em ação de execução fiscal.
+    É o relatório.
+    Decido.
+    A irresignação merece prosperar.
+    No caso em análise, observo que o Tribunal de origem afastou a incidência do art. 4º, da Lei Estadual n. 16.035/08, fazendo-o nos seguintes termos:
+    “Assim, não há que se falar em aplicação do art. 4º da Lei Estadual nº 16.035/2008. Não é permitido ao Estado usurpar a competência do União, já que não cabe a ele legislar sobre sucumbência, matéria adstrita ao processo civil que é de competência privativa da União a teor do art. 22, inc. I, do CPC” (eDOC 1, p. 192)
+    Instado a se manifestar acerca da violação ao art. 97 da Constituição Federal por meio de embargos de declaração, o Tribunal a quo assentou:
+    “Não existe violação a cláusula de reserva de plenário quando a menção ao vício de constitucionalidade é feita apenas como reforço de argumentação, não constituindo o único fundamento para a não aplicação da norma.
+    (...)
+    Foi o que ocorreu no caso. O acórdão consignou que a condenação do Estado do Paraná ao pagamento de custas é correta por dois motivos: a) em se tratando de serventia não oficializada, a remuneração dos serventuários deriva do pagamento das custas, ficando excepcionada a regra do artigo 4ª da Lei Estadual 16035/2008; b) o artigo 4ª da Lei Estadual 16035/2008 colide com o artigo 26 do Código de Processo Civil, devendo prevalecer o último por se tratar de matéria relativa a competência da União. Claramente, a inconstitucionalidade da norma estadual é apenas reforço argumentativo, não havendo que se falar em violação a cláusula de reserva de plenário.” (eDOC 1, p. 213-214) (grifo nosso)
+    Verifica-se, portanto, que o órgão fracionário do Tribunal de origem, ao expressamente consignar a inconstitucionalidade da norma estadual, violou o disposto no art. 97 do texto constitucional, bem como incidiu no óbice da Súmula Vinculante 10, segundo a qual:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. PRÊMIO EDUCAR. CLAUSÚLA DE RESERVA DE PLENÁRIO. VIOLAÇÃO. SÚMULA VINCULANTE 10. 1. A jurisprudência deste Supremo Tribunal é firme no sentido de que viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF). 3. Agravo interno a que se nega provimento.” (RE-AgR 627299, Rel. Min. Roberto Barroso, Primeira Turma, DJe 1º.2.2017)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO (ART. 97 DA CF/88). OCORRÊNCIA. DESRESPEITO À SÚMULA VINCULANTE 10. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE-AgR 503029, Rel. Min. Teori Zavascki, Segunda Turma, DJe 18.10.2016).
+    Ante o exposto, dou provimento ao recurso para cassar o acórdão recorrido e determinar que outro seja proferido, com a observância do art. 97 do texto constitucional, e da Súmula Vinculante n. 10.
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
