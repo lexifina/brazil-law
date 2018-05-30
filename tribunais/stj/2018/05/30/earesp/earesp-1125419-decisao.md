@@ -1,0 +1,33 @@
+DECISÃO
+1. Trata-se de embargos de divergência, com pedido de efeito suspensivo, interpostos contra acórdão proferido pela Terceira Turma, assim ementado:
+AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. RESILIÇÃO UNILATERAL PELA OPERADORA. CABIMENTO. DISTINÇÃO COM OS PLANOS INDIVIDUAIS E FAMILIARES. JULGADOS ESPECÍFICOS DESTA CORTE. NOTIFICAÇÃO PRÉVIA. PRAZO DE 60 DIAS. SÚMULA 7/STJ. .
+1. Possibilidade de resilição unilateral imotivada de contrato de plano de saúde coletivo empresarial após o primeiro ano de vigência.
+2. Inaplicabilidade aos planos coletivos empresariais da vedação à resilição unilateral prevista no art. 13, parágrafo único, inciso II, da Lei 9.656/1998.
+3. Julgados específicos de ambas as Turmas de Direito Privado desta Corte Superior.
+4. Incidência da Súmula 7 do STJ no que tange à alegada ausência de notificação prévia.
+5. AGRAVO INTERNO DESPROVIDO.
+Sustentam os embargantes dissídio jurisprudencial, em relação à necessidade de notificação prévia, com os seguintes arestos: AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL Nº 1.111.399 - SP (2017/0128524-7), AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.085.841 - RS (2017/0084370-1) e AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL Nº 1.083.267 - SP (2017/0077515-7).
+Assere que:
+Muito embora seja entendimento pacificado nesta Corte no que se refere à possibilidade de resilição unilateral de contrato de plano de saúde coletivo, a Egrégia 3ª Turma não enfrentou o tema na forma levantada pelos embargantes, sobre a necessidade de notificação prévia até o qüinquagésimo dia de inadimplemento, a teor do que prescreve o art. 13, § único, inc. II, da Lei nº 9.656/98.
+Nesse sentido, o d. Ministro Relator do acórdão embargado apenas consignou que o MM. Juiz de primeiro grau atestou a ocorrência da notificação prévia dos embargantes (e-STJ FI. 387), não podendo haver mais a revisão deste ponto da decisão, a teor da Súmula 7/STJ.
+É o relatório.
+2. Consoante cediço, nos termos do art. 266, caput, do RISTJ c/c o art. 1.043 do CPC/2015, os embargos de divergência têm como requisito de admissibilidade a existência de dissenso interpretativo entre diferentes órgãos jurisdicionais deste Tribunal Superior, desde que tenha sido apreciada a matéria de mérito do recurso especial - seja de natureza processual seja material -, tendo em vista que este recurso é incabível para o reexame de regra técnica de admissibilidade recursal, como sói ser a incidência da Súmula 7 do STJ, que respaldou a decisão ora embargada no ponto ora impugnado.
+Confira-se o seguinte excerto do acórdão recorrido:
+De outra parte, quanto à alegada ausência de notificação prévia, verifica-se que o juízo sentenciante consignou a sua ocorrência (e-STJ fl. 387), sendo, portanto, vedada a revisão a teor da Súmula 7/STJ.
+É de sabença que as peculiaridades do caso concreto ora dão azo à incidência da Súmula 7 do STJ ora não, cabendo ao relator do recurso especial avaliar as circunstâncias fático-processuais trazidas ao seu conhecimento e aplicar o direito à espécie, de modo que se revela inviável rever, em sede de embargos de divergência, o juízo de admissibilidade efetuado pela Segunda Turma para o conhecimento do recurso especial.
+Confiram-se:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. RESPONSABILIZAÇÃO DO SÓCIO. PROVIMENTO DO ESPECIAL SOB DOIS FUNDAMENTOS, AUTÔNOMOS E SUFICIENTES, QUANDO ISOLADAMENTE CONSIDERADOS, PARA A MANUTENÇÃO DO ACÓRDÃO. DEMONSTRAÇÃO DA DIVERGÊNCIA ADSTRITA A UMA DAS MOTIVAÇÕES. FUNDAMENTO REMANESCENTE ACERCA DO QUAL SOMENTE FOI AFIRMADO QUE CONTRARIARIA A JURISPRUDÊNCIA DOMINANTE DO STJ, SEM A INDISPENSÁVEL PARTICULARIZAÇÃO DA DIVERGÊNCIA. INVIABILIDADE DOS EMBARGOS ASSIM FORMULADOS. CASO EM QUE O DISSÍDIO RELACIONADO AO SEGUNDO FUNDAMENTO DO ACÓRDÃO EMBARGADO, AINDA QUE HOUVESSE SIDO DEVIDAMENTE DEMONSTRADO, NÃO VIABILIZARIA OS EMBARGOS, POR ENVOLVER DISCUSSÃO SOBRE REGRA TÉCNICA DE CONHECIMENTO DE RECURSO ESPECIAL. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+3. A divergência envolvendo a aplicação de regra técnica de conhecimento de recurso especial não autoriza a interposição de embargos de divergência. Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EREsp 1193789/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 22/06/2016, DJe 28/06/2016)
+--
+PROCESSUAL CIVIL E CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. FINANCIAMENTO HABITACIONAL. ANÁLISE DE REGRA TÉCNICA DE ADMISSIBILIDADE DO NOBRE APELO. INVIABILIDADE. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O fundamento dos Embargos do art. 546 do CPC e do art. 266 do RISTJ é a divergência atual de entendimento jurídico, de interpretação de Lei Federal, manifestado em face de uma mesma situação fática.
+2. Este egrégio Superior Tribunal de Justiça possui entendimento sedimentado acerca da inadmissibilidade de Embargos de Divergência para analisar regra técnica atinente à admissibilidade do Nobre Apelo. Precedentes: AgRg nos EREsp 1325194/RN, Rel. Min. PAULO DE TARSO SANSEVERINO, 2S, DJe 29.09.2014; AgRg nos EREsp 1.110.558/RJ, Rel. Min. MARIA THEREZA DE ASSIS MOURA, CE, DJe 24.09.2014; AgRg nos EAREsp 369.540/RJ, Rel. Min. HUMBERTO MARTINS, CE, DJe 23.09.2014.
+3. In casu, observou-se que não houve o preenchimento dos requisitos de admissibilidade do recurso, pois a oposição de Embargos de Divergência contra acórdão proferido em Agravo Regimental somente possui viabilidade quando, neste recurso, o Órgão Julgador decide a matéria jurídica trazida à baila em sede de Recurso Especial e, na presente demanda, a douta 3a. Turma manteve a decisão monocrática de não conhecimento do Recurso Especial, em face da incidência dos óbices das Súmulas 282 e 356 do STF, por ausência de prequestionamento da matéria, bem como da Súmula 283/STF, ante a falta de impugnação de um dos fundamentos do acórdão, suficiente à sua manutenção.
+4. Agravo Regimental desprovido.
+(AgRg nos EREsp 1279788/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 26/02/2015, DJe 04/03/2015)
+3. Ante o exposto, com fundamento no art. 266-C do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente os embargos de divergência.
+4. Havendo prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, em 10 % do valor já arbitrado, nos termos do art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
