@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão proferido pelo TJRS, assim ementado (e-STJ fl. 307):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. INDENIZAÇÃO DE AÇÕES.
+Decisão proferida no STJ que determinou o emprego do valor vigente para a ação apurado conforme o balancete mensal, sem qualquer ressalva quanto aos rendimentos concernentes à telefonia fixa cujas diferenças de ações foram apuradas em demanda anterior.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 325/327).
+Em suas razões, o recorrente alega dissídio interpretativo e ofensa à coisa julgada, asseverando que os dividendos e juros sobre capital próprio das ações da telefonia fixa devem ser calculados de acordo com a quantidade de ações já reconhecida em demanda anterior, não sendo admissível a adoção do balancete mensal.
+Juízo de admissibilidade positivo (e-STJ fls. 390/393).
+É o relatório.
+Decido.
+O recurso merece provimento.
+A Corte estadual negou provimento ao agravo de instrumento interposto pelo autor, manifestando-se nos seguintes termos (e-STJ fls. 308/309):
+A demanda versa sobre indenizações de ações relacionadas à telefonia móvel e indenização de rendimentos sobre as ações da telefonia móvel alcançadas em demanda anterior.
+A decisão proferida pelo STJ em sede de recurso especial deliberou o emprego do valor vigente para ação segundo o balancete mensal da companhia.
+Nesta conjuntura, não havendo ressalva quanto à indenização das ações relativas aos rendimentos da telefonia fixa, descabe apurar-se o montante considerando os valores verificados em demanda anterior.
+Os rendimentos, inclusive quanto à telefonia fixa devem, assim, ser apurados de acordo com o balancete mensal, sob pena de afronta à decisão do STJ.
+Este entendimento diverge da jurisprudência desta Corte, conforme os seguintes precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUBSCRIÇÃO DE AÇÕES. AQUISIÇÃO DE LINHA TELEFÔNICA. CUMPRIMENTO DE SENTENÇA. DIVIDENDOS E JUROS SOBRE CAPITAL PRÓPRIO. COISA JULGADA.
+1. Definitivamente fixado na demanda anterior o número de ações a complementar, com base nesse número será calculada a parcela de dividendos e juros sobre capital próprio, pleiteada no presente feito e correspondente a tais ações, por força da coisa julgada. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.008.814/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 8/8/2017, DJe 22/8/2017.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CUMPRIMENTO DE SENTENÇA. VALOR PATRIMONIAL DA AÇÃO. DECISÃO TRANSITADA EM JULGADO. IMUTABILIDADE. DIVIDENDOS. CÁLCULO COM BASE NO NÚMERO DE AÇÕES DEFINIDO EM DEMANDA ANTERIOR. AGRAVO INTERNO DESPROVIDO.
+1. É inviável, na fase de cumprimento de sentença, modificar o valor patrimonial das ações definido expressamente no título executivo, sob pena de ofensa à coisa julgada.
+2. Os dividendos e juros sobre capital próprio deverão ser calculados proporcionalmente à quantidade de ações cujo direito à subscrição foi judicialmente reconhecido em demanda anterior, transitada em julgado.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1308933/RS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/3/2017, DJe 27/3/2017.)
+AGRAVO REGIMENTAL. AGRAVO. DIVIDENDOS. JUROS SOBRE CAPITAL PRÓPRIO. CUMULAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS STF/283 E 284. DIFERENÇA DE AÇÕES RECONHECIDA E DETERMINADA EM DEMANDA ANTERIOR. VIOLAÇÃO DO ART. 170, § 1º, DA LEI N. 6.404/76. INOCORRÊNCIA. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- O Acórdão recorrido não trouxe à discussão a questão da cumulação do pagamento de dividendos e de juros sobre capital próprio, ao contrário restou consignado que são devidos tanto os dividendos quanto os juros sobre capital próprio gerados pelas ações que deveriam ter sido subscritas e não foram.
+2.- Não basta à parte alegar a ocorrência das hipóteses do permissivo constitucional, sendo indispensável que seja deduzida a necessária fundamentação, com a finalidade de demonstrar o cabimento do recurso e o desacerto do acórdão impugnado. Incidente, por analogia, os enunciados 283 e 284 da Súmula do excelso Supremo Tribunal Federal.
+3.- Na presente hipótese, o Tribunal de origem deixou assente que, em ação anterior, a Brasil Telecom restou condenada ao pagamento da diferença das ações em quantidade correspondente ao seu valor na data da integralização e a dobra acionária, sendo pagos os valores equivalentes a 1.987.666 ações da ré e 40.928 da Celular CRT. Na presente ação, a autora visa a receber os dividendos e os juros sobre o capital próprio das ações não subscritas pelas duas empresas, cujo valor patrimonial já foi determinado anteriormente, não havendo portanto, que se falar em violação ao art. 170, § 1º, da Lei n. 6.404/76, sob pena de ofensa à coisa julgada.
+4.- A agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+5.- Agravo Regimental improvido.
+(AgRg no AREsp n. 74.420/RS, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 22/5/2012, DJe 31/5/2012.)
+Diante do exposto, DOU PROVIMENTO ao recurso especial, para determinar que os dividendos e os juros sobre capital próprio decorrentes das ações da telefonia fixa sejam calculados observando-se o número de ações deferido nos autos da ação anteriormente ajuizada (ações da telefonia fixa).
+Condeno a parte recorrida às custas e aos honorários advocatícios, os quais fixo em 10% (dez por cento) sobre o valor atualizado da causa, com fundamento no art. 85, § 2º, do CPC/2015.
+Publique-se e intimem-se.
