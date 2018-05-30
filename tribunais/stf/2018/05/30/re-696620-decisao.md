@@ -1,0 +1,31 @@
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PROCESSUAL CIVIL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE AJUIZADA CONTRA LEI MUNICIPAL. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO PELO PRESIDENTE DA CÂMARA MUNICIPAL DE AMERICANA – SP. ILEGITIMIDADE. ARTIGO 90, II, DA CONSTITUIÇÃO DO ESTADO DE SÃO PAULO. RECURSO NÃO CONHECIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado pelo Presidente da Câmara Municipal de Americana, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “Arguição de inconstitucionalidade. Lei municipal que estende benefício de gratuidade no transporte público a maiores de sessenta anos. Vício de iniciativa. Arts. 5º e 47, XVIII, da Constituição Estadual. Iniciativa do Prefeito Municipal. Sanção que não convalida o vício. Ausência de previsão dos recursos necessários a fazer frente à nova despesa. Violação aos arts. 25 e 176, I, da Constituição Bandeirante. Ação julgada procedente.” (Vol. 4 – fl. 118)
+    Os embargos de declaração opostos foram desprovidos (Vol. 4 – fls. 144-147).
+    Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, afirma que o entendimento adotado pelo acórdão recorrido – para reconhecer a inconstitucionalidade da legislação local que estendeu o benefício de gratuidade no transporte público a maiores de sessenta anos por suposto vício de iniciativa – viola os artigos 5°, 25, 47, XVIII, e 176 da Constituição da República (Vol. 4 – fls. 170-200).
+    O Sindicato das Empresas de Transportes de Passageiros do Estado de São Paulo – SETPESP, em contrarrazões, pugna, preliminarmente, pelo não conhecimento do recurso extraordinário e, acaso superado o juízo de admissibilidade, pelo desprovimento do apelo extremo (Vol. 5 – fls. 8-12).
+    O Tribunal a quo admitiu o recurso extraordinário por entender que preencheria os requisitos extrínsecos e intrínsecos (Vol. 5 – fls. 26-28).
+    O Ministério Público Federal opina pelo desprovimento do recurso, em parecer assim ementado:
+    “Recurso extraordinário em representação por inconstitucionalidade julgada por Tribunal de Justiça. Inexistência de ofensa à Constituição Federal na decisão que tem por inválida lei municipal que não resultou da iniciativa do Chefe do Executivo e que interfere sobre o objeto de contratos de concessão de serviço público. Precedentes do STF.” (Vol. 5 – fl. 35)
+    É o relatório. DECIDO.
+    O recurso não merece ser conhecido.
+    Ab initio, pontuo que o Presidente da Câmara Municipal de Americana – SP, ora recorrente, não ostenta legitimidade recursal para manejar o presente apelo.
+    Esta Corte firmou entendimento de que apenas os entes que possuem legitimidade para suscitar o processo de fiscalização abstrata de constitucionalidade podem recorrer no âmbito da ação direta.
+    Nesse sentido, à guisa de exemplo, confiram-se os seguintes precedentes:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE AJUIZADA PERANTE TRIBUNAL DE JUSTIÇA ESTADUAL (CF, ART. 125, § 2º) – RECURSO EXTRAORDINÁRIO INTERPOSTO, EM REFERIDO PROCESSO DE CONTROLE ABSTRATO, PELO PROCURADOR-GERAL DO MUNICÍPIO – DECISÃO DO RELATOR QUE NÃO CONHECEU DO MENCIONADO APELO EXTREMO – A QUESTÃO DA LEGITIMIDADE ATIVA (E RECURSAL) DO PRÓPRIO MUNICÍPIO E DE SEU PROCURADOR-GERAL, EM SEDE DE FISCALIZAÇÃO CONCENTRADA DE CONSTITUCIONALIDADE – RECURSO DE AGRAVO IMPROVIDO.
+    AUSÊNCIA DE LEGITIMIDADE RECURSAL DO PROCURADOR-GERAL DO MUNICÍPIO EM SEDE DE CONTROLE NORMATIVO ABSTRATO.
+    - É do Prefeito do Município, e não do próprio Município ou de seu Procurador-Geral, a legitimidade para fazer instaurar, mesmo em âmbito local (CF, art. 125, § 2º), o processo de fiscalização abstrata de constitucionalidade e, neste, interpor os recursos pertinentes, inclusive o próprio recurso extraordinário. Precedentes.” (RE 831.936-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 7/10/2014)
+    “(...) O ESTADO-MEMBRO NÃO POSSUI LEGITIMIDADE PARA RECORRER EM SEDE DE CONTROLE NORMATIVO ABSTRATO.
+    - O Estado-membro não dispõe de legitimidade para interpor recurso em sede de controle normativo abstrato, ainda que a ação direta de inconstitucionalidade tenha sido ajuizada pelo respectivo Governador, a quem assiste a prerrogativa legal de recorrer contra as decisões proferidas pelo Relator da causa (Lei nº 9.868/99, art. 4º, parágrafo único) ou, excepcionalmente, contra aquelas emanadas do próprio Plenário do Supremo Tribunal Federal (Lei nº 9.868/99, art. 26).” (ADI 2.130-AgR, Rel. Min. Celso de Mello, Plenário, DJ de 14/12/2001)
+    “Agravo regimental. Ação direta de inconstitucionalidade. Ilegitimidade recursal do Estado-membro nas ações de controle concentrado de constitucionalidade. Agravo não provido.
+    1. A teor da jurisprudência da Corte, a legitimidade recursal no controle concentrado é paralela à legitimidade processual ativa, não se conferindo ao ente político a prerrogativa de recorrer das decisões tomadas pela Corte em sede de ação direta, seja de modo singular (art. 4º, parágrafo único, da Lei nº 9.868/99) seja colegiadamente (art. 26 da mesma legislação). A jurisprudência da Corte não merece qualquer tipo de revisão, uma vez que espelha a decorrência lógica da previsão, em rol taxativo, dos legitimados a provocar o processo objetivo de controle de constitucionalidade e a nele atuar como partes (CF, art. 103).
+    2. Agravo ao qual se nega provimento.” (ADI 1.663-AgR-AgR, Rel. Min. Dias Toffoli, Plenário, DJe de 5/8/2013)
+    In casu, o recorrente – Presidente da Câmara Municipal de Americana – não corresponde à Mesa da Câmara Municipal nem dispõe de legitimidade ad causam para propor ação direta de inconstitucionalidade de lei ou ato normativo municipal (artigo 90, II, da Constituição do Estado de São Paulo).
+    No mesmo sentido foram as decisões monocráticas que proferi no ARE 768.083 e no ARE 774.264, DJe de 4/9/2017, recorrente a Câmara Legislativa do Distrito Federal.
+    Destarte, evidencia-se a inviabilidade do recurso extraordinário sub examine.
+    Ex positis, NÃO CONHEÇO o recurso extraordinário interposto pelo Presidente da Câmara Municipal de Americana, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
