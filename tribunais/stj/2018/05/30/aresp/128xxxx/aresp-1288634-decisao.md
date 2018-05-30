@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. TRANSPORTE AÉREO. CANCELAMENTO DE VÔO POR PROBLEMAS TÉCNICOS NA AERONAVE. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA AUTORA. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. PLEITO DE REFORMA DA SENTENÇA VISANDO RECONHECER A OCORRÊNCIA DE FALHA NA PRESTAÇÃO DOS SERVIÇOS DA REQUERIDA. SUBSISTÊNCIA. PROBLEMAS TÉCNICOS NA AERONAVE QUE CONFIGURAM FORTUITO INTERNO. APLICAÇÃO DA TEORIA DO RISCO DA ATIVIDADE ECONÔMICA. RESPONSABILIDADE OBJETIVA RECONHECIDA. INTELIGÊNCIA DO ARTIGO 14 DO CÓDIGO DE DEFESA DO CONSUMIDOR. PLEITO DE CONDENAÇÃO DA REQUERIDA AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS. INSUBSISTÊNCIA. SITUAÇÃO QUE NÃO CONFIGURA ABALO MORAL INDENIZÁVEL. INEXISTÊNCIA, ADEMAIS, DE COMPROVAÇÃO DE SITUAÇÃO EXTRAORDINÁRIA CAPAZ DE AFETAR O ESTADO ANÍMICO DA AUTORA, ÔNUS QUE LHE INCUMBIA (ART. 333, I, DO CPC). DEVER DE INDENIZAR NÃO EVIDENCIADO. PEDIDO DE CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MATERIAIS (REEMBOLSO DO VALOR DA PASSAGEM). INOVAÇÃO RECURSAL. PLEITO NÃO VENTILADO NA INICIAL. PRINCÍPIO DA ESTABILIDADE OBJETIVA DA LIDE. EXEGESE DO ARTIGO 264, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL. ANÁLISE DO PEDIDO PREJUDICADA. SENTENÇA DE IMPROCEDÊNCIA MANTIDA, POR FUNDAMENTO DIVERSO. RECURSO CONHECIDO EM PARTE E NESTA EXTENSÃO DESPROVIDO" (fl. 142, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a recorrente, além de divergência jurisprudencial, alega a violação dos artigos 6º, VIII, 14 e 20 do Código de Defesa do Consumidor, e 230, 231 e 256 do Código Brasileiro de Aeronáutica, sustentando a existência de dano moral presumido em decorrência do cancelamento de vôo por responsabilidade da companhia aérea.
+Após a apresentação das contrarrazões (fls. 238/246, e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No que tange aos arts. 230, 231 e 256 do Código Brasileiro de Aeronáutica, verifica-se que a matéria não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+No mais, o Tribunal de origem entendeu que o cancelamento do vôo não gerou dano moral indenizável à ora recorrente, com base nos seguintes fundamentos:
+"(..)
+In casu, infere-se dos autos ter ocorrido o cancelamento do vôo da autora em razão de problemas técnicos na aeronave, tendo a requerente realizado o trajeto contratado através de transporte terrestre ofertado pela requerida.
+Observa-se, no entanto, que, apesar de a demandada não ter providenciado a reacomodação dos passageiros nos termos previstos na Resolução da ANAC (prestação de serviço equivalente em data e horário de conveniência do passageiro), o fato de a requerente não ter usufruído do serviço contratado, por si só, não se mostra apto a caracterizar lesão anímica indenizável, sendo necessário para a configuração do dano moral a efetiva prova do abalo sofrido.
+Nesse viés, embora a requerente alegue que deixou de realizar compromissos por estar cansada da viagem, a qual teria demorado cerca de sete horas a mais do que o previsto, não logrou êxito em demonstrar referidos prejuízos, muito menos de que deixou realmente de realizar os referidos compromissos (art. 333, I, do CPC), tendo, inclusive, postulado o julgamento antecipado da lide (fl. 104).
+Assim, diante da ausência de comprovação de situação suficiente para abalar a ordem psicológica da autora, impossível reconhecer-se a ocorrência de abalo moral.
+(..)" (fls. 152/153/155, e-STJ - grifou-se).
+De fato, a jurisprudência desta Corte é no sentido de que o cancelamento de vôo por mero inadimplemento contratual não gera, por si só, dano moral ao consumidor, o que deve ser aferido a partir das peculiaridades do caso concreto (REsp 1.595.145/RO, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 15/12/2016, DJe 6/2/2017).
+Nesse contexto, rever o entendimento do Tribunal de origem, para condenar a recorrida ao pagamento de indenização por danos morais, demandaria a análise de circunstâncias fático-probatórias dos autos, o que é inviável no recurso especial em virtude do óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA NEGANDO SEGUIMENTO AO APELO EXTREMO - INSURGÊNCIA DOS AUTORES.
+1. No caso em exame, tanto o juízo de piso, quanto o Tribunal de origem, afirmaram que não há nos autos prova alguma de os autores terem experimentado dano moral passível de indenização, cujos transtornos decorrentes do atraso do vôo por algumas horas não passaram de meros dissabores, o que é insuficiente para ensejar a indenização pretendida.
+2. As conclusões do aresto reclamado acerca da não configuração de dano moral indenizável encontram-se firmadas no acervo fático-probatório constante dos autos e a sua revisão esbarra no óbice da Súmula 7 do STJ.
+3. Agravo regimental desprovido" (AgRg no REsp 1.546.645/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 15/12/2016, DJe 1º/2/2017).
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o artigo 85, § 11, do CPC/2015, haja vista que estes não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
