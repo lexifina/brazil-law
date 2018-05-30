@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VALDEMAR ALVES BRIZOLA, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Paraná (Recurso de Agravo n.º 1.714.510-5).
+Narra a impetração que o paciente foi absolvido impropriamente do crime previsto no artigo 121, §2º, incisos I, III e IV, sendo determinada a aplicação de medida de segurança de internação em hospital de custódia penitenciário com prazo mínimo de um ano.
+Requerida a desinternação do paciente, o juízo das execuções penais indeferiu o pedido e manteve a medida de segurança de internação.
+Inconformada, a defesa interpôs agravo, pleiteando a desinternação do paciente e seu encaminhamento para tratamento ambulatorial, sendo negado provimento ao recurso, em acórdão assim fundamentado (fls. 16-21):
+O Agravante foi absolvido impropriamente pelo ilícito tipificado no Código Penal, artigo 121, §2º, incisos I, III e IV, que determinou a aplicação da medida de segurança de internação Em hospital de custódia penitenciário, com prazo mínimo de um ano (mov.7.3).
+Ante os pareceres desfavoráveis ao levantamento da medida de segurança, elaborados pelo psiquiatra e psicólogo, e diante da manifestação do Ministério Público por sua manutenção, o Magistrado da Execução manteve a medida de segurança aplicada.
+Inicialmente, A Defensoria Pública, por meio do Agravo, manifestou seu descontentamento com a Decisão, alegando que o artigo 97, do Código Penal e disposições similares da Lei de Execução Penal foram revogadas tacitamente diante do conteúdo trazido pela Lei Antimanicomial (Lei 10.216/2001).
+Afirmou a Defesa que referida Lei "engloba a aplicação da medida de segurança imposta ao paciente", e que "a aplicação da medida não visa a retribuição da responsabilidade (inexistente) do condenado, mas, antes, o tratamento, e, nesse caso, de acordo com a política de saúde geral, que é regida atualmente pela não internação manicomial.
+Em que pese os argumentos da Defesa, o pleito inicial não merece conhecimento, porquanto já analisado perante esta Egrégia Primeira Câmara quando do julgamento do Recurso de Agravo nºl .566.466-1 interposto pelo ora Agravante (mov.54.1).
+(..)
+Dessa forma, conforme bem pontuado pela Ilustre Procuradora de Justiça (fls. 12): "Eventual descontentamento do doutor Defensor Público com o provimento advindo desse Tribunal de Justiça deve ser direcionado a instância Superior, não cabendo, aqui, reanalisar o que já foi decidido pelo colegiado".
+Com relação ao pleito de não comprovação da periculosidade, embora sustente a Defesa que nenhum laudo demonstrou período de surto, forçoso reconhecer que, sua recolocação no convívio social deve ser analisada com intensificada cautela, não se podendo permitir que sua reintegração seja realizada sem a demonstração de controle de suas faculdades mentais, tampouco se admitindo o levantamento da medida apenas por não estar o Reeducando em "período de surto", sob pena de colocar em risco a integridade de terceiros e do próprio paciente.
+Neste caso, a medida de internação foi mantida em decorrência do trabalho realizado por profissionais competentes, em que restou evidenciada a imprescindibilidade do regime de custódia hospitalar.
+Por certo que a medida de segurança detentiva (de aplicação obrigatória nos crimes punidos com reclusão), neste caso, imposta por força da inimputabilidade e periculosidade do Agravante, deve ser periodicamente reavaliada afim de se constatar a sua real necessidade de manutenção.
+Insta destacar que o artigo 97, § 1º, do Código Penal, prevê:
+"A internação, ou tratamento ambulatorial, será por tempo indeterminado, perdurando enquanto não for averiguada, mediante perícia médica, a cessação de periculosidade. O prazo mínimo deverá ser de 1 (um) a 3(três) anos"
+(..)
+Portanto, ao contrário do alegado na tese defensiva, os laudos se mostram suficientes e expõe de forma adequada os fundamentos reveladores da periculosidade do Paciente.
+Em assim sendo, mesmo ele não apresentando período de surto, a sua periculosidade não foi ainda cessada, do contrário encontra-se elevada como afirmou o perito.
+Também não pode ser acolhido, o pedido de realização de novo exame pericial, com o necessário apontamento, pelos peritos responsáveis, acerca das possibilidades de tratamento extramuros, pois os pareceres apresentados demonstraram de maneira apropriada e correspondente suas razões de convencimento a revelar a periculosidade do Agravante.
+Da mesma forma, o pedido de realização de novo exame pericial - nos termos da Resolução nº 81/2013 da Secretaria da Justiça, Cidadania e Direitos Humanos, também não deve prosperar, porquanto como bem destacou o Magistrado em sua decisão (mov.93.1):
+"denota-se das avaliações que foi realizada no sentenciado pelos menos uma entrevista psicológica e outra psiquiátrica. Além do mais, o Sentenciado recolhido no Complexo Medico Penal está diariamente assistido por experts pertencentes ao quadro clínico do Estado. Assim, eventual insurgência da Defesa, teria cabimento no caso de peritos nomeados pelo Juízo c estranhos ao quadro daquele nosocômio, que desconhecessem as normas para a realização das avaliçôes psiquiátrica e psicológica. A não observância da dita Resolução nº 81/2013 como quer fazer transparecer a Defesa, não tem o caráter de macular eventual decisão baseada nos laudos elaborados pelos Peritos daquele CMP na fé de seus graus, tendo em conta que resolução é espécie de forma de um ato administrativo não emanada da Chefia do Executivo." (mov.93.1).
+(..)
+Por todo o exposto, conclui-se evidenciada a não cessação da periculosidade do Agravante, não sendo possível o acolhimento do pedido de levantamento da medida de segurança, bem como sua substituição por tratamento ambulatorial.
+Da mesma forma, restou evidenciada a desnecessidade de novo exame pericial neste momento, já que notoriamente satisfatória a avaliação realizada.
+Diante do exposto, NEGO PROVIMENTO ao Recurso.
+No presente mandamus, o impetrante sustenta que há ilegalidade no acórdão guerreado porquanto o teor do enunciado Sumular nº 527 do STJ dispõe que a duração da medida de segurança tem prazo determinado, sendo tal prazo o máximo previsto na lei para o tipo penal imputado ao apenado.
+Defende que o prazo de cumprimento da medida de segurança não pode ser por prazo ilimitado.
+Requer, liminarmente e no mérito, seja determinada que a medida de segurança imposta ao paciente seja limitada em 20 anos, descontados os anos de internação já cumpridos.
+É o relatório.
+De pronto, verifica-se que a pretensão não pode ser acolhida por esta Corte Superior de Justiça, sob pena de indevida supressão de instância, pois o tema acerca da possibilidade de limitação em 20 anos da medida de segurança imposta ao paciente não foi debatido no Tribunal local.
+Com efeito, dispõe o artigo 105, I, "c", da Constituição Federal, que compete ao Superior Tribunal de Justiça processar e julgar habeas corpus somente quando o coator for Tribunal sujeito à sua jurisdição, o que não se verifica no caso em questão. O pedido também não encontra arrimo em nenhuma das hipóteses de competência originária deste Tribunal Superior.
+Por tais motivos, indefiro liminarmente o habeas corpus, conforme disciplina do art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Em homenagem ao princípio da ampla defesa, intime-se a Defensoria Pública a fim de que proceda às medidas que entender pertinentes.
+Cientifique-se ao Ministério Público Federal.
+Publique-se.
