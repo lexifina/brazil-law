@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial, com fulcro no art. 105, III, alínea"a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que, durante o curso de execução da pena determinada à VALDINEI DA SILVA, sobreveio nova condenação, o que ocasionou unificação das penas e fixada, pelo Juízo da Vara de Execuções Penais de Ribeirão das Neves/MG, como marco inicial para a concessão de novos benefícios, a data da última prisão (fls. 2/5).
+Houve interposição de agravo em execução ministerial, o qual foi desprovido nos termos da seguinte ementa (fl. 79):
+EMENTA: AGRAVO EM EXECUÇÃO PENAL - CUMPRIMENTO DE PENA EM REGIME FECHADO - SUPERVENIÊNCIA DE NOVA CONDENAÇÃO - UNIFICAÇÃO DAS PENAS - ART. 111 DA LEP - MARCO INICIAL PARA A CONTAGEM DE NOVOS BENEFÍCIOS - DATA DA ÚLTIMA PRISÃO - RECURSO NÃO PROVIDO.
+- Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento de pena será feita pelo resultado da soma ou da unificação das penas, observada, quando for o caso, a detração ou remição. Sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime.
+- Considerando que a Lei de Execuções Penais não prevê a data do reinício da contagem para concessão de benefícios após a unificação das penas e determinação do regime, deve ser considerada a data da última prisão do condenado, não sendo admitida a fixação de nova data-base como sendo do trânsito em julgado da última condenação.
+V.V. - Unificada a pena, o marco inicial para a contagem do prazo para a concessão dos benefícios da execução deve ser o dia do trânsito em julgado da última condenação.
+Foram opostos embargos de declaração ministeriais, os quais foram rejeitados (fls. 112/118):
+EMENTA: EMBARGOS DE DECLARAÇÃO - AGRAVO EM EXECUÇÃO PENAL - DECISÃO AMPLAMENTE FUNDAMENTADA EM RAZÕES DE FATO E DE DIREITO - OMISSÃO INEXISTENTE - MERO INCONFORMISMO - EMBARGOS NÃO ACOLHIDOS. - Não cabem embargos de declaração quando se verificar que a omissão suscitada não passa de mero inconformismo com a decisão vergastada.
+Houve a interposição de recurso especial ministerial, alegando violação ao art. 111, caput e parágrafo único; da Lei de Execução Penal, e art. 75, § 2º, do Código Penal.
+Sustenta que o acórdão recorrido destoou do pacífico entendimento desta Corte Superior, o qual fixou como marco inicial para a concessão de benefícios futuros no curso da execução penal, o trânsito em julgado da última sentença condenatória, bem como o Supremo Tribunal Federal, colacionado julgados nesse sentido.
+Consigna a existência do desconto da pena unificada do período de pena já cumprido pelo condenado, previsto nos artigos de lei supramencionados, e seguido pelos Tribunais Superiores, elencando precedentes.
+Pugna pelo provimento do apelo nobre para cassar o acórdão recorrido e fixar, como marco inicial para a o reinício da contagem do prazo para a concessão de novos benefícios, a data do trânsito em julgado da última condenação (fls. 123/143).
+Contrarrazões às fls. 148/152.
+Admitido o recurso (fl154), os autos vieram a esta Corte.
+O Ministério Público, em seu parecer de fls166/168 opina pelo provimento do apelo nobre.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O voto condutor assim se posicionou quanto à controvérsia, no que importa, verbis (fls 83/87):
+Peço vênia ao em. Des. Relator para divergir de seu judicioso voto somente com relação ao marco inicial para concessão de novos benefícios, pelas razões que passo a expor.
+Como se sabe, a LEP dispõe que, quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição. E pontua que, sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime.
+Note-se que não há menção no texto legal à data a ser considerada como termo inicial para contagem de prazo para obtenção de benefícios pelo condenado.
+Pois bem, já tive oportunidade de me posicionar acerca deste tema em outros julgamentos, entendendo que o termo inicial para contagem de prazo para obtenção de benefícios pelo condenado é a data da última prisão a que foi submetido.
+Não se vislumbra, data vênia, base legal ou fundamento jurídico para se estabelecer a data da decisão de unificação como marco inicial para a contagem dos prazos para fins de execução da pena, e muito menos do trânsito em julgado da última condenação. .. .
+Portanto, verifico que o reinício da contagem do prazo para obtenção de benefícios pelo apenado deve levar em consideração o tempo remanescente de cumprimento da pena, fixando-se como marco inicial a data da sua última prisão em regime fechado.
+Ressalto que a Terceira Seção deste Tribunal Superior, em recentíssimo julgamento (REsp 1557461, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, DJe 15/3/2018), alterou seu entendimento para estabelecer como marco inicial para a concessão de benefícios, após a unificação das penas, a data da última prisão do apenado. Veja-se a ementa:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido (REsp 1557461, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 15/3/2018).
+Assim, verifico que o acórdão recorrido se encontra em consonância com o entendimento jurisprudencial desta Corte Superior.
+Incide, pois, o óbice do Enunciado n. 83 da Súmula/STJ.
+Diante do exposto, com fundamento no Enunciado n. 568 da Súmula/STJ, nego provimento ao recurso.
+Publique-se. Intimem-se.
