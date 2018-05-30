@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. ALEGADO AUMENTO DA JORNADA DE TRABALHO SEM A CORRESPONDENTE MAJORAÇÃO NA REMUNERAÇÃO. LEI COMPLEMENTAR 135/2012 DO MUNICÍPIO DE GUARUJÁ-SP. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo nas alíneas a e c do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “SERVIDORES PÚBLICOS – Município do Guarujá – Cargo de escriturário – LCM nº 135/12 – Alegação de aumento de jornada de trabalho de 30 para 36 horas semanais sem o proporcional aumento de remuneração – Não reconhecimento – Conclusão fundamentada em jornada de trabalho fixada em Ordens de Serviço, em regime de trabalho (CLT) já inexistente – Autores que ingressaram no serviço público pelo regime celetista que prevê, em regra, jornada de trabalho de 40 a 44 horas semanais, o que foi indicado nos editais de concurso para o cargo – Regime estatutário posterior com jornada de 36 horas semanais – Reexame necessário e recurso de apelação providos.” (Vol. 4, fl. 89)
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustentam preliminar de repercussão geral e, no mérito, apontam violação ao artigo 37, XV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a análise da questão encontraria óbice nas Súmulas 279, 280 e 636 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, ressalte-se que para divergir do acórdão recorrido quanto ao alegado aumento da jornada de trabalho sem a correspondente majoração da remuneração necessária seria a análise da legislação infraconstitucional local aplicável à espécie (Lei Complementar Municipal 135/2012), bem como o reexame do conjunto fático-probatório dos autos, o que encontra óbice nas Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Servidor público municipal. Regime de turnos (12/36). Horas extras. Percepção. Discussão. Legislação local. Ofensa reflexa. Precedentes. 1. Não se abre a via do recurso extraordinário para a análise de matéria ínsita ao plano normativo local. Incidência da Súmula nº 280/STF. 2. Agravo regimental não provido.” (ARE 894.086-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 3/9/2015)
+    Por fim, observo que o agravo foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do RISTF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao máximo legal (artigo 85, § 11, do CPC/2015), ficando suspensa sua exigibilidade, nos termos do artigo 98, § 3º, do referido código.
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
