@@ -1,0 +1,49 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] e outros contra decisão que não admitiu o recurso especial com base no óbice da Súmula 7 do STJ e na ausência de comprovação do dissídio jurisprudencial.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo nas alíneas "a" e "c" do permissivo constitucional em oposição a acórdão assim ementado (e-STJ, fl. 2.511):
+AÇÃO CIVIL PÚBLICA - Ato de improbidade administrativa. Conjunto probatório que permite aferir inequívocas condutas ilícitas que resultaram em fraude à licitação. Desconstituição dos atos e a devolução dos respectivos montantes pelos corréus ao erário.
+Reforma parcial da r. sentença.
+RECURSO DO MINISTÉRIO PÚBLICO PROVIDO. APELAÇÃO DOS RÉUS NÃO PROVIDA.
+Os recorrentes alegam violação dos arts. 10 e 12, parágrafo único, da Lei n. 8.429/1992, porquanto não agiram com dolo ou culpa capaz de causar dano ao erário.
+Afirmam que as sanções aplicadas não são razoáveis, uma vez que não houve qualquer dano causado e nem proveito econômico obtido pelo agente.
+É o relatório.
+Quanto ao elemento subjetivo na conduta dos recorrentes, o Tribunal de origem, com base nos documentos dos autos, entendeu que (e-STJ, fls. 2.514-2.521):
+E o conjunto probatório coligido permite aferir, com a certeza necessária que houve burla aos aludidos certames licitatórios.
+ ..
+Em suma, o conjunto probatório é no sentido de que [NOME] determinava, com aval e conivência de [NOME], previamente, quais as empresas participariam do certame e qual seria a vencedora.
+[NOME], por sua vez, era o responsável por apresentar as propostas das empresas na qual era contador, juntamente com [NOME] (e por esse motivo Nelson, com a conivência de [NOME], as convidava), a fim de que [NOME] (tio de [NOME] e titular da microempresa "[NOME] - ME") e a sua própria empresa "Apraserv - Assessoria e Informática Ltda" fossem os vencedores das licitações.
+ ..
+ ..  o elemento subjetivo das condutas praticadas pelos corréus foi sobejamente demonstrado, em especial porque todo o certame licitatório foi revestido, como já afirmado, de ilegalidade e em total dissociação para com a Lei de Licitações e Contratos, bem como ao princípio da moralidade administrativa, a teor do disposto no artigo 5º, da Lei nº 8.429/92, cujo conhecimento não poderiam alegar desconhecimento. - grifos acrescidos
+Como se verifica, rever o entendimento da Corte local no tocante à existência de elemento subjetivo na conduta dos insurgentes, implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, ante o que preceitua a Súmula 7 do STJ.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. ART. 11 DA LEI N. 8.429/92. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE CONSIGNA A AUSÊNCIA DE DOLO E MÁ-FÉ. NÃO CARACTERIZAÇÃO DO ATO ÍMPROBO. PRECEDENTES. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. PRECEDENTES.
+1. O entendimento do STJ é que, para que seja reconhecida a tipificação da conduta do réu como incurso nas prescrições da Lei de Improbidade Administrativa, é necessária a demonstração do elemento subjetivo, consubstanciado pelo dolo para os tipos previstos nos artigos 9º e 11 e, ao menos, pela culpa, nas hipóteses do artigo 10.
+Precedentes: AgInt no REsp 1.532.296/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19/12/2017; AgRg no REsp 1.167.958/SP, Rel. Min. Sergio Kukina, Primeira Turma, DJe 11/12/2017.
+2. O Tribunal a quo ao entender pela necessidade da demonstração do elemento subjetivo (dolo) para o enquadramento no art.11, caput, da Lei 8.429/92, decidiu em conformidade com a jurisprudência desta Corte. Além do mais, foi com base no conjunto fático e probatório constante dos autos, que o Tribunal de Origem afastou a prática de ato de improbidade administrativa previsto no art. 11, caput, da lei 8.429/92, diante da ausência do elemento subjetivo (dolo). Assim, a reversão do entendimento exarado no acórdão exige o reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ. Precedentes: AgInt no AREsp 813040/SE, Rel. Min. Humberto Martins, Segunda Turma, DJe 25/08/2016; AgRg no AREsp 627294/DF, Rel. Min. Benedito Gonçalves, Primeira Turma, Dje 07/10/2015.
+3. Agravo interno não provido.
+(AgInt no REsp 1.450.533/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 13/4/2018)
+De outro lado, relativamente à dosimetria de sanções impostas em ação de improbidade administrativa, a sua apreciação igualmente implica revolvimento fático-probatório, hipótese também inadmitida pelo verbete sumular n. 7 do Superior Tribunal de Justiça.
+A propósito:
+ADMINISTRATIVO. ATO DE IMPROBIDADE ADMINISTRATIVA. REPASSE DE VERBAS PÚBLICAS EM DESACORDO COM A LEI. SUBSUNÇÃO DOS ATOS COMO ÍMPROBOS E ALTERAÇÃO DA DOSIMETRIA DA SANÇÃO IMPOSTA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem trata-se de ação civil pública por atos de improbidade administrativa proposta pelo Ministério Público do Estado do Espírito Santo em que se sustenta, em síntese, que os acusados, Presidente da Câmara Municipal de Vitória/ES, à época dos fatos, bem como o então Diretor Financeiro do órgão legislativo, incorreram na prática de atos de improbidade administrativa ao permitirem, de forma irregular, o repasse de verbas públicas destinadas àquela Câmara para a promoção de eventos coordenados pela entidade Mulheres Unidas de São Pedro (MUSP) e pelo Centro Educacional FAESA.
+II - Aduziu-se ofensa aos princípios que regem a administração pública por meio da execução de atos manifestamente ímprobos, com consequentes danos materiais e morais ao erário municipal.
+III - Julgou-se parcialmente procedente o pedido da ação civil pública por ato de improbidade administrativa (fls. 1.180-1.189), a fim de condenar Presidente da Câmara Municipal e o Diretor Financeiro: a) ao ressarcimento de forma solidária; b) à perda da função pública; c) à suspensão dos direitos políticos pelo período de cinco anos; d) ao pagamento de multa civil; e) à proibição de contratar ou receber benefícios ou incentivos fiscais do Poder Público.
+IV - No Tribunal de Justiça do Estado do Espírito Santo, decidiu-se pela manutenção parcial da sentença (fls. 1.405-1.430), alterando-a no sentido de afastar as condenações de perda da função pública e de suspensão dos direitos políticos.
+V - Parecer do Ministério Público Federal pelo não conhecimento do recurso especial (fls. 1.693-1.698).
+VI - O enfrentamento de alegações atinentes à inadequação da subsunção dos atos praticados como ímprobos demanda, para a reversão do entendimento firmado pelo Tribunal a quo, inconteste revolvimento fático-probatório.
+VII - Por consequência, o conhecimento da referida temática fica obstaculizado diante do verbete sumular n. 7 do Superior Tribunal de Justiça, impondo um juízo negativo de prelibação nesse ponto.
+VIII - O raciocínio jurídico ora perfilhado não discrepa do adotado por esta Corte.
+IX - No tocante à questão da dosimetria de sanções impostas em ação de improbidade administrativa, a sua apreciação igualmente implica revolvimento fático-probatório, hipótese também inadmitida pelo verbete sumular n. 7 do Superior Tribunal de Justiça.
+X - Oportuno salientar que não se está diante de situação de manifesta desproporcionalidade da sanção, situação essa que, caso presente, autorizaria a reanálise excepcional da dosimetria da pena.
+XI - Ainda em juízo de admissibilidade, não prospera a alegação de que deveria ser aplicada a regra de crime continuado. A presente tese não merece ser conhecida, em razão do não cumprimento do pressuposto recursal objetivo - extrínseco - do prequestionamento.
+XII - A ausência de discussão da temática pelo Tribunal a quo constitui óbice intransponível ao conhecimento do recurso, a teor do que dispõem as Súmulas n. 282 e n. 356 do Supremo Tribunal Federal, aplicáveis analogicamente aos recursos especiais em questão.
+XIII - Ainda que houvesse prequestionamento expresso, a tese em comento, desenvolvida em torno do princípio do non bis in idem, não prosperaria. Não há se falar em bis in idem, em razão do sancionamento do agente ímprobo ocorrer por condutas diversas.
+Ressalte-se que o postulado do non bis in idem representa uma vedação a uma dupla punição decorrente de uma mesma situação fática.
+XIV - A regra de continuidade delitiva é afeta ao direito sancionador penal. Ainda que fosse reputada admissível a tese de continuidade delitiva, conforme sustentado pela parte recorrente, não poderia ser objeto de análise em recurso especial, por demandar incursão fático-probatória. Esclareça-se que, para se firmar um posicionamento a respeito da pertinência ou não da referida regra de exasperação, seria necessário avaliar dados objetivos e subjetivos do agente. XV - A análise da alegação de que há provas nos autos suficientes para a comprovação da continuidade delitiva demanda, necessariamente, o reexame do conjunto fático-probatório dos autos, procedimento este que esbarra no óbice contido no enunciado 7 da Súmula desta Corte.
+XVI - Agravo interno improvido.
+(AgInt nos EDcl no AREsp 1.016.077/ES, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 10/4/2018)
+Por fim, relativamente ao apelo extremo fundado na alínea "c" do dispositivo constitucional, é pacífica a jurisprudência desta Corte de que a incidência do enunciado n. 7 da Súmula do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
