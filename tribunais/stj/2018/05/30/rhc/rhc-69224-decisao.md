@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JOSE MARCELO GOMES DE OLIVEIRA, também conhecido como MARCELO GOMES DE OLIVEIRA, contra acórdão do Tribunal Tribunal Regional Federal da 1ª Região no julgamento do HC n. 0039035-74.2015.4.01 .0000.
+Extrai-se dos autos que o recorrente propôs incidente de falsidade ideológica no curso da Ação Penal n. 0004250-62.2015.4.01.3500, em trâmite perante no juízo da 11ª Vara Federal de Goiânia/GO, na qual responde pela suposta prática dos delitos tipificados nos arts. 33, caput, c/c art. 40, I e VII, e art. 35, todos da Lei 11.343/2006 (tráfico e associação para o tráfico internacional de entorpecentes) e arts. 14 e 16, ambos da Lei 10.826/2003 (porte ilegal de arma de fogo de uso permitido e posse ou porte ilegal de arma de fogo de uso restrito).
+Irresignada com indeferimento, pelo juízo ordinário, do pedido de sobrestamento da ação principal até o julgamento final do incidente de falsidade, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem em acórdão que restou assim ementado:
+PROCESSUAL PENAL. HABEAS CORPUS. INCIDENTE DE FALSIDADE. APLICAÇÃO, POR ANALOGIA, DO ART. 394 DO CÓDIGO DE PROCESSO CIVIL. SOBRESTAMENTO DA AÇÃO PENAL. NÃO OBRIGATORIEDADE. ANÁLISE DO CASO CONCRETO. RAZOABILIDADE.
+1. O art. 30 do Código de Processo Penal autoriza a aplicação, por analogia, do art. 394 do Código de Processo Civil na análise do incidente de falsidade, mas a suspensão do processo criminal não é obrigatória, como se dá no processo civil por força do mencionado art. 394, ficando a critério do julgador, mediante o exercício da razoabilidade na análise do caso concreto, decidir pelo sobrestamento ou não do processo penal.
+2. Na hipótese, não houve nenhum prejuízo ao paciente na ausência de sobrestamento da ação principal, que não é obrigatório no processo penal. A decisão impugnada, portanto, resta razoável e fundamentada e entendeu corretamente pelo descabimento do sobrestamento da ação penal enquanto perdurou o trâmite do incidente de falsidade, decidido por sentença de improcedência (fís. 134 -144), e que desafia recurso próprio (art. 581, XVII - CPP).
+3. Denegação da ordem de habeas corpus (fl. 53).
+No presente recurso, alega a obrigatoriedade do sobrestamento da ação penal quando da propositura do incidente de falsidade documental, ante a incidência do art. 394 do Código de Processo Civil de 1973, c/c art. 3º do Código de Processo Penal, porquanto a instrução criminal encontra-se em fase de alegações finais e a formação da convicção do juízo processante "passaria, necessariamente, pela análise da veracidade (ou falsidade) dos documentos impugnados" (fls. 453).
+Pugna, assim, em liminar e no mérito, pelo sobrestamento da ação penal n. 4250-62.2015.4.01.3500, em trâmite perante no juízo da 11ª Vara Federal de Goiânia/GO, até o julgamento final do incidente de falsidade n. 19641-57.2015.4.01.3500.
+Indeferido o pleito liminar por decisão do eminente Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região (fls. 478/479), e prestadas as informações solicitadas (fls. 490/527), o Ministério Público Federal opinou pelo não conhecimento do recurso ordinário (fls. 531/533).
+É o relatório.
+Decido.
+O presente recurso está prejudicado.
+Isso porque, de acordo com informações colhidas no endereço eletrônico do Tribunal de Origem, que ora faço juntar, em ações conexas à ação penal n. 4250-62.2015.4.01.3500, a que se refere o presente feito, constatou-se que em 9.4.2018 foi juntado aos autos certidão de óbito do recorrente.
+Desse modo, constata-se a perda superveniente do objeto do presente feito.
+ Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
