@@ -1,0 +1,29 @@
+DECISÃO
+Cuida de agravo (art. 1.042 do CPC/15), interposto por [NOME] E FUNDACOES LTDA, contra decisão que não admitiu o recurso especial.
+O apelo nobre, fundamentado no artigo 105, III, alínea "c" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 90, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO COMINATÓRIA. PEDIDO PARA ENTREGA DE VEÍCULO PARADO NA OFICINA DESDE 17.11.2014 PARA CONSERTO. DECISÃO AGRAVADA CONSISTENTE EM TUTELA ANTECIPADA DEFERIDA PARA QUE A AGRAVANTE (OFICINA RÉ) ENTREGASSE O VEICULO EM 05 (CINCO) DIAS, SOB PENA DE MULTA DIÁRIA DE R$ 1.000,00 (MIL REAIS). ENTRAVES DA SEGURADORA PARA LIBERAÇÃO DOS SERVIÇOS. AGRAVANTE QUE DEMONSTROU, EM COGNIÇÃO SUMÁRIA, QUE A DEMORA NÃO SE DEU POR SUA CULPA, BEM COMO QUE SE ESFORÇOU PARA AGILIZAR A ENTREGA. PETIÇÃO DA AGRAVADA NOS AUTOS DE ORIGEM CONFESSANDO QUE SE RECUSOU A RETIRAR O VEÍCULO DA OFICINA, HÁ MAIS DE 60 (SESSENTA) DIAS JÁ CONSERTADO. RECURSO PROVIDO PARA CASSAR A DECISÃO QUE DEFERIU A TUTELA ANTECIPADA.
+Os embargos de declaração opostos foram rejeitados na origem (fls. 113-122, e-STJ).
+Nas razões de recurso especial (fls. 126-144, e-STJ), a insurgente aponta divergência jurisprudencial acerca da interpretação dada aos artigos 273 e 461 do CPC/73 e 300 e 497 do CPC/15, ao argumento de que é inadmissível a revogação de liminar que impôs multa pelo descumprimento de obrigação de fazer.
+Sem contrarrazões (fl. 161, e-STJ).
+Em razão do juízo negativo de admissibilidade na origem (fls. 162-163, e-STJ), fora interposto o presente agravo (fls. 166-177, e-STJ), visando destrancar o processamento da insurgência.
+Contraminuta às fla. 178-201, e-STJ.
+É o relatório.
+Decido.
+A pretensão recursal não prospera.
+1. Cinge-se a controvérsia acerca da possibilidade de revogação de medida liminar concedida para determinar o cumprimento de obrigação de fazer.
+A insurgente sustenta a existência de divergência jurisprudencial acerca da interpretação dada aos artigos 273 e 461 do CPC/73 (300 e 497 do CPC/15), ao argumento de que é inadmissível a revogação de liminar que impôs multa pelo descumprimento de obrigação de fazer.
+O Tribunal local, por sua vez, assim decidiu:
+Pelos elementos até então apresentados nos autos evidente que a responsabilidade pela não entrega do veículo não pode ser atribuída somente à agravante, que, ao que parece, sempre agiu corretamente dentro das suas limitações, esforçando-se para atender às expectativas do cliente.
+Percebe-se que não são apenas entraves da seguradora, mas o próprio representante da agravada recusa-se a receber o veículo. A assinatura do "termo de quitação" é procedimento padrão nessas situações e os seus termos não impedem o exercício do direito de ação pelo segurado em caso de descontentamento.
+Segundo informações constantes no e-mail juntado pela própria agravada no Projudi, evento 59.4, enviado pelo representante da agravante ao representante da agravada em 18.12.2015, o veículo já estava pronto há mais de 60 (sessenta) dias aguardando retirada.
+Caso mantida a liminar, a multa diária de RS 1.000,00 (mil reais) se transformará em valor vultuoso e continuará a ser aplicada, sem demonstração, de plano, de culpa do agravante pela situação criada, mas sim pela recalcitrância do agravado que se recusa a retirar o veículo.
+Caso o veículo seja entregue ao agravado com defeito, deve comunicar o juiz para que sejam tomadas as providências cabíveis.
+Conclusão.
+Diante do exposto, voto no sentido de dar provimento ao recurso de agravo de instrumento para casar (indeferindo) o pedido de tutela antecipada requerido pela agravada. (fl. 94, e-STJ)
+De início, destaca-se que o entendimento do acórdão recorrido está em consonância com a jurisprudência desta Corte, segundo a qual "A determinação de multa diária como meio de garantir o cumprimento da decisão judicial tem nítida feição liminar, o que permite ao magistrado, no uso de sua discricionariedade, aferir sua oportunidade e razoabilidade, majorando-a, reduzindo-a, ou até mesmo suprimindo-a." (REsp 1685400/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 16/10/2017).
+Incidência, no ponto, do teor da Súmula 83 do STJ, aplicável para ambas as alíneas do permissivo constitucional.
+Ademais, infere-se que o Tribunal local entendeu estarem ausentes os elementos ensejadores da tutela antecipada, cassando a decisão de primeira instância para indeferir o pedido de tutela de urgência formulado nos autos.
+No ponto, a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional (artigo 300 do CPC/15) reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7 do STJ. Nesse sentido, confiram-se os seguintes precedentes: REsp 1694439/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017; AgInt no AREsp 954.205/PA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 15/12/2016; AgInt no AREsp 1046613/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 13/06/2017; AgInt no AREsp 986.163/MA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 31/05/2017.
+Por fim, a jurisprudência desta Corte é no sentido de ser incabível, em sede de recurso especial, o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação, por analogia, da Súmula 735/STF, a saber: "Não cabe recurso extraordinário contra acórdão que defere medida liminar.".
+2. Do exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
