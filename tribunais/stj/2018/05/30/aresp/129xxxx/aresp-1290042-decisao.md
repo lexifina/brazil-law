@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial, sob argumento de incidência das Súmulas n. 7 e 83 do STJ e 284 do STF.
+A decisão colegiada recorrida apresenta a seguinte ementa (e-STJ fl. 407):
+INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CIRURGIA. NEGATIVA DE COBERTURA PELA UNIMED. RECURSO DA ASSOCIAÇÃO EMPRESARIAL. PARTE ILEGÍTIMA. PLANO DE SAÚDE COLETIVO. BENEFÍCIO REPASSADO AOS ASSOCIADOS. AUSÊNCIA DE RELAÇÃO DIRETA OU INDIRETA COM A NEGATIVA NO PAGAMENTO DO PROCEDIMENTO MÉDICO-HOSPITALAR. MERA INTERMEDIADORA DO CONTRATO. EXTINÇÃO SEM ANÁLISE DO MÉRITO. EXEGESE DO ART. 267, VI, DO CPC. APELO ACOLHIDO, POR UNANIMIDADE.
+A estipulante de contrato de plano de saúde coletivo é parte ilegítima para figurar no pólo passivo de ação de cobrança ajuizada pelos segurados ou beneficiários diretos.
+RECURSO DAS AUTORAS. PESSOA JURÍDICA QUE ADERIU AO PLANO COLETIVO PARA BENEFICIAR SEUS EMPREGADOS E PESSOA FÍSICA BENEFICIÁRIA. DANO MATERIAL. EMPRESA EXCLUÍDA POR ILEGITIMIDADE ATIVA. VALOR DISPENDIDO COM A CIRURGIA ARCADO POR PESSOA ESTRANHA À LIDE. VOTO VENCIDO, NO PONTO.
+O demandante não tem legitimidade para postular devolução em dobro, assim como indenização por lesão patrimonial, se o pagamento supostamente indevido foi realizado, segundo os termos da inicial, por outra pessoa.
+AUSÊNCIA DE RECLAMO QUESTIONANDO A OCORRÊNCIA DO ATO ILÍCITO. DANO [NOME]. ASPECTO ACOLHIDO POR UNANIMIDADE. MAJORAÇÃO DA VERBA ARBITRADA. CRITÉRIOS SUBJETIVOS. NEGATIVA DA UNIMED INDEVIDA. INDENIZAÇÃO FIXADA EM VALOR MÓDICO. MAJORAÇÃO. VOTO VENCIDO NO PONTO.
+A fixação dos danos morais é resultado da análise razoável das circunstâncias do caso concreto. Punição do ofensor e reparação de danos havidos, respeitadas as peculiaridades da demanda. I
+ATUALIZAÇÃO DO VALOR REPARATÓRIO. MARCO INICIAL A CONTAR DO ARBITRAMENTO. MANUTENÇÃO PARA A CORREÇÃO MONETÁRIA (SÚMULA N. 362 DO STJ). JUROS. ADEQUAÇÃO. RELAÇÃO CONTRATUAL. CONTAGEM COM BASE NO ART. 405 DO CC. RETIFICAÇÃO POR UNANIMIDADE.
+Tratando-se de responsabilidade contratual, os juros de mora incidem a partir da citação. "A correção monetária do valor da indenização do dano moral", por outro lado, "incide desde a data do arbitramento" (Súmula n. 362 do STJ), obedecendo o INPC-IBGE, índice adotado por esta Corte de Justiça.
+SUCUMBÊNCIA RECÍPROCA. ADEQUAÇÃO POR UNANIMIDADE. QUANTUM. POR MAIORIA.
+Vencidos e vencedores autor e réu, as custas e despesa processuais devem ser fixadas proporcionalmente à vitória e à derrota de cada um.
+Sobreveio o recurso especial (e-STJ fls. 444/465), fundado no art. 105, III, "a" e "c", da CF, no qual as recorrentes sustentaram violação dos arts. 6º, 18 e 42 do CDC, 186 e 927 do CC/2002, argumentando que, na espécie, seria irrisório o valor da indenização fixada na origem a título de dano moral por negativa de cobertura do plano de saúde (R$ 2.000,00 - dois mil reais).
+Alegam ainda que os juros de mora sobre o valor do dano material e moral, assim como a correção monetária, devem incidir, respectivamente, desde o desembolso e a partir do evento danoso.
+Por fim, aduzem inexistir sucumbência recíproca, pois teria decaído de parte mínima do pedido.
+No agravo (e-STJ fls. 515/530), afirma a presença dos requisitos de admissibilidade do recurso especial.
+É o relatório.
+Decido.
+A redução ou majoração do valor arbitrado nas instâncias de origem, a título de dano moral, é possível em sede de recurso especial somente em casos de valor exorbitante ou irrisório. Na espécie, o valor fixado (R$ 2.000,00 - dois mil reais) não se mostra desproporcional, esbarrando seu exame no óbice da Súmula n. 7/STJ.
+Quanto ao termo inicial dos juros e da correção monetária, as recorrentes não indicaram, especificamente, quais dispositivos legais teriam sido contrariados, limitando-se a fazer apontamentos genéricos sobre os marcos iniciais pretendidos. Portanto, o recurso especial não é passível de conhecimento. Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA DO NOME DO AUTOR EM ROL DE INADIMPLENTES. DANO MORAL. ALEGAÇÃO DE VIOLAÇÃO A ENUNCIADO DE SÚMULA. IMPOSSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL COM INTERPRETAÇÃO DIVERGENTE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. JUROS DE MORA. SÚMULA 54/STJ.
+1. Incabível a interposição de recurso especial por violação de súmulas, por se tratar de enunciados que não se enquadram no conceito de lei federal a sofrer o controle de legalidade desta Corte.
+2. Nos termos da jurisprudência do STJ, é imprescindível que no recurso especial sejam particularizados, de forma inequívoca, os normativos federais supostamente contrariados pelo Tribunal de origem, sob pena de incidência da Súmula n.º 284 do STF.
+3. Na hipótese, a recorrente não indicou os dispositivos de lei federal supostamente violados e, no tocante à alínea "c" do recurso especial, limitou-se a transcrever precedentes paradigmas sem, contudo, precisar qual artigo de lei teria recebido interpretação divergente.
+4. Observa-se que o Tribunal de origem decidiu a tese relativa ao juros de mora em consonância com a jurisprudência desta Corte Superior, no sentido de que, em se tratando de responsabilidade extracontratual, os referidos juros fluem a partir da data do evento danoso, nos termos da Súmula 54/STJ.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 457.958/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 1/4/2014, DJe 7/4/2014.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+1. "A inépcia da petição inicial, escorada no inciso II do parágrafo único do artigo 295 do Código de Processo Civil, se dá nos casos em que se impossibilite a defesa do réu ou a efetiva prestação jurisdicional" (REsp 1.134.338/RJ, Rel. Min. MASSAMI UYEDA, Terceira Turma, DJe 29/9/11).
+2. Hipótese em que a petição inicial, além de descrever de forma objetiva os fatos (candidato inscrito em concurso público que, aprovado nas fases iniciais, foi obstado de continuar no certame por não lograr êxito no teste psicotécnico), informa o direito subjetivo supostamente ofendido, ensejador do writ, sem causar qualquer espécie de embaraço à defesa do réu ou à efetiva prestação jurisdicional, tanto assim que o pedido foi julgado procedente.
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(AgRg no REsp n. 1.346.588/DF, Relator Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/3/2014.)
+Por fim, a análise da extensão da sucumbência, a fim de afastar a reciprocidade, esbarra na ausência de indicação de dispositivo legal supostamente violado, além de ser inviável em recurso especial, em virtude do óbice erigido pela Súmula n. 7 do STJ. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. CONTRATO DE REPRESENTAÇÃO COMERCIAL. AJUSTE POR PRAZO DETERMINADO. RESCISÃO SEM JUSTA CAUSA. CARACTERIZAÇÃO. INDENIZAÇÃO. CABIMENTO. SUCUMBÊNCIA RECÍPROCA. VERBAS. DISTRIBUIÇÃO PROPORCIONAL. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. ÓBICE DA SÚMULA 07/STJ. AGRAVO DESPROVIDO.
+(AgRg no AREsp 526.619/DF, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/8/2016, DJe 23/8/2016.)
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. PRINCÍPIO DA FUNGIBILIDADE. AGRAVO REGIMENTAL. SUCUMBÊNCIA RECÍPROCA. SÚMULA N. 7/STJ.
+1. Admitem-se como agravo regimental embargos de declaração opostos a decisão monocrática proferida pelo relator do feito no Tribunal, em nome dos princípios da economia processual e da fungibilidade.
+2. Tendo o Tribunal de origem concluído pela existência de sucumbência recíproca, a revisão dos critérios por ele adotado importaria em apreciação de matéria fático-probatória. Incidência da Súmula n. 7/STJ.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no Ag 1.430.658/SC, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 15/10/2013, DJe 21/10/2013.)
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. AÇÃO COBRANÇA. CONTA CORRENTE. AUTORIZAÇÃO DE LANÇAMENTOS. IMPUGNAÇÃO EM CONTESTAÇÃO. INEXISTÊNCIA. SUCUMBÊNCIA RECÍPROCA. CARACTERIZAÇÃO. APLICAÇÃO DA SÚMULA 7/STJ.
+1. A adoção de entendimento diverso por esta Corte quanto à existência de impugnação acerca da autorização de lançamentos na contestação e da sucumbência recíproca, na forma propugnada, encontra óbice no teor do enunciado n. 7 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+(AgRg no Ag 1.257.668/MG, Relator Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 2/6/2016, DJe 9/6/2016.)
+Ante do exposto, NEGO PROVIMENTO ao agravo.
+Deixo de majorar os honorários advocatícios, diante do reconhecimento, na origem, da sucumbência recíproca.
+Publique-se e intimem-se.
