@@ -1,0 +1,19 @@
+Decisão: Trata-se de recurso extraordinário contra acórdão do Tribunal Regional Federal da 4ª Região, em que se decidiu sobre a incidência de contribuições previdenciárias sobre os valores pagos ao empregado a título de adicional constitucional de férias e aviso prévio indenizado, bem como sobre as verbas pagas pelo empregador durante os quinze dias que antecedem a concessão do auxílio-doença.
+    Em 20.10.2016, determinei a a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral relativamente ao Tema 908, nos termos do art. 328 do RISTF (eDOC 82).
+    Em juízo de retratação, a Turma julgadora do Tribunal a quo entendeu “o que não se trata de hipótese a ser submetida a juízo de retratação (manutenção ou não do entendimento), visto que o acórdão desta Turma não contrariou o decidido pelo STF no tema 20, com ele sendo harmônico, razão pela qual não se faz necessária a submissão da questão ao órgão colegiado” (eDOC 101, p. 1).
+    Em seguida, a Vice-Presidência do TRF da 4ª Região admitiu o recurso, razão pela qual os autos foram devolvidos ao Supremo Tribunal Federal (eDOC 103).
+    É o relatório.
+    Assiste razão ao juízo a quo, de modo que passo ao exame do recurso extraordinário.
+    De plano, observa-se que o STF já rejeitou a repercussão geral das questões alusivas à incidência de contribuição previdenciária sobre os valores pagos pelo empregador ao empregado nos primeiros quinze dias do auxílio-doença (Tema 482), bem como sobre as verbas pagas título de aviso prévio indenizado (Tema 759).
+    Confiram-se, a propósito, as ementas dos referidos julgados:
+    “REPERCUSSÃO GERAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE VALORES PAGOS PELO EMPREGADOR NOS PRIMEIROS QUINZE DIAS DE AUXÍLIO-DOENÇA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. I – A discussão sobre a incidência, ou não, de contribuição previdenciária sobre valores pagos pelo empregador nos primeiros quinze dias de auxílio-doença situa-se em âmbito infraconstitucional, não havendo questão constitucional a ser apreciada. II – Repercussão geral inexistente.”
+(RE 611505 RG, Relator(a): Min. AYRES BRITTO, Relator(a) p/ Acórdão: Min. RICARDO LEWANDOWSKI, julgado em 30/09/2011, DJe-211 DIVULG 24-10-2014 PUBLIC 28-10-2014 EMENT VOL-02753-01 PP-00001 )
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. AVISO PRÉVIO INDENIZADO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. NATUREZA JURÍDICA DA VERBA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à incidência de contribuição previdenciária sobre as verbas pagas a título de aviso prévio indenizado, fundada na interpretação da Lei 8.212/91 e do Decreto 6.727/09, é de natureza infraconstitucional. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+(ARE 745901 RG, Relator(a): Min. TEORI ZAVASCKI, julgado em 04/09/2014, PROCESSO ELETRÔNICO DJe-181 DIVULG 17-09-2014 PUBLIC 18-09-2014 )
+    Por outro lado, a discussão relativa à incidência do mencionado tributo sobre os valores pagos a título de terço constitucional de férias está compreendida no tema 985 da Repercussão Geral, cujo leading case é o RE 1.072.485, em que, por maioria e ressalvado meu entendimento pessoal, foi reconhecida a repercussão geral da tese.
+    Ante o exposto, torno sem efeito a decisão anterior (eDOC 82) e determino novamente a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF .
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
