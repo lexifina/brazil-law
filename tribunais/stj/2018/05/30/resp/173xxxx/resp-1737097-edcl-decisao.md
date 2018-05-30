@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AGROPECUÁRIA SCHIO LTDA, inconformada com a decisão que deu provimento ao recurso especial apenas para reconhecer o cabimento do agravo de instrumento em face de decisão lançada em exceção.
+Em suas razões, a embargante aponta erro material no julgado. Nessa linha, defende que a embargada opôs exceção de suspeição do perito, o que acarretaria a modificação do julgado em razão da falta de previsão legal da recorribilidade mediante agravo de instrumento da decisão que julgou a citada exceção.
+É o relatório.
+Nos termos do art. 1.022 do CPC/2015, é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+No caso dos autos, de fato, a embargada opôs exceção de suspeição do perito.
+Nesse contexto, cumpre registrar que a matéria relativa à natureza do rol do art. 1.015 do CPC/15 e à possibilidade de sua interpretação extensiva, para se admitir a interposição de agravo de instrumento contra decisão interlocutória que verse sobre hipóteses não expressamente versadas nos incisos de referido dispositivo do Novo CPC foi afetada à Corte Especial do STJ, em sessão virtual, pelo rito do artigo 1.036 do NCPC, (ProAfR no REsp 1.696.396/MT, Rel. Ministra NANCY ANDRIGHI, Corte Especial, julgado em 20/2/2018), (ProAfR no REsp 1.704.520/MT, Rel. Ministra NANCY ANDRIGHI, Corte Especial, julgado em 20/2/2018.
+Não obstante, o referido órgão julgador, por unanimidade tenha decidido pela não suspensão do processamento dos recursos de agravo de instrumento e eventuais recursos especiais que versem sobre idêntica questão em tramitação no território nacional, é possível ao relator, levando em consideração razões de economicidade processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias, na forma do artigo 1.040, II e III, do CPC/2015 e 34, XXIV, do RISTJ.
+Diante do exposto, acolho os embargos declaratórios, com efeitos modificativos, para determinar a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC/1973 e 1.040 e seguintes do CPC/2015, após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia:
+a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
