@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105 da Constituição Federal, sem a indicação da alínea correspondente, contra acórdão proferido pelo Tribunal de Justiça do Estado de Tocantins.
+Consta dos autos que o recorrente foi condenado como incurso no artigo 121, § 2º, IV, do Código Penal - CP (homicídio qualificado) e no art. 14 da Lei n. 10.826/03, na forma do art. 69 do CP, à pena de 12 anos de reclusão, em regime inicial fechado, além do pagamento de 10 dias-multa (fls. 403/411).
+A defesa interpôs recurso de apelação que foi parcialmente provido. O acórdão ficou assim ementado:
+"APELAÇÃO. HOMICÍDIO QUALIFICADO. POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ART. 69 DO CÓDIGO PENAL. TRIBUNAL DO JÚRI. MENÇÃO EM PLENÁRIO À SENTENÇA DE PRONÚNCIA PELO REPRESENTANTE DO MINISTÉRIO PÚBLICO. INEXISTÊNCIA DE ARGUMENTO QUE PUDESSE TER INFLUENCIADO A DECISÃO DOS JURADOS. MERA LEITURA DA DECISÃO. ALEGAÇÃO DE NULIDADE DO JULGAMENTO, POR OFENSA AO INCISO I, DO ART. 478, DO CPP. [NOME].
+1. A mera leitura da sentença de pronúncia pelo representante do Ministério Público em plenário, sem a intenção de direcionar a decisão do e. Conselho de Sentença, não é suficiente para invalidar o julgamento. A nulidade prevista no inciso I, do artigo 478 do CPP é relativa. Em tais circunstâncias, só pode ser declarada quando demonstrado efetivo prejuízo à Defesa do acusado.
+FIXAÇÃO DA PENA. REDUÇÃO PELO RECONHECIMENTO DO PRIVILÉGIO. INVIABILIDADE. CRITÉRIO DE
+PROPORCIONALIDADE. OBSERVÂNCIA.
+2. Não há se cogitar de redução da pena aplicada pela sentença, cuja fundamentação revela-se pertinente e apoiada em elementos concretos extraídos dos autos, resultando proporcional e adequada a redução pelo reconhecimento da figura do privilégio no patamar de um sexto operada pela sentença.
+INDENIZAÇÃO A TÍTULO DE DANOS MORAIS. DECOTE. NECESSIDADE.
+3. A vista da ausência de instrução específica para a fixação da indenização devida à vítima, não pode o agente arcar com o valor aleatoriamente determinado pelo juízo, sob pena de ofensa aos princípios constitucionais do contraditório e da ampla defesa.
+RECURSO PARCIALMENTE PROVIDO." (fls. 487/494).
+Em sede de recurso especial, a defesa alegou violação ao art. 478, I, do Código de Processo Penal - CPP, porquanto a acusação teria lido a pronúncia em plenário. Requer a anulação do processo e novo julgamento.
+As contrarrazões foram apresentadas às fls. 510/515.
+Admitido o recurso (fls. 517/519), os autos vieram a esta Corte.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 529/532).
+É o relatório. Decido.
+Não assiste razão ao recorrente.
+O Tribunal de origem entendeu que a acusação, em sessão de julgamento do júri, apenas mencionou o silêncio do acusado na audiência de instrução, sem evidenciar intenção de o prejudicar. Cito trecho:
+Com efeito, reza o artigo 478,1, do CPP que "Durante os debates as partes não poderão, sob pena de nulidade, fazer referências: I - à decisão de pronúncia, às decisões posteriores que julgaram admissível a acusação ou à determinação do uso de algemas como argumento de autoridade que beneficiem ou prejudiquem o acusado."
+Sucede que, no caso dos autos, nada indica que houve prejuízo, porquanto o documento lido pelo Representante Ministerial foi o mesmo entregue aos jurados, não havendo sequer demonstração de que o órgão acusado tenha utilizado de argumentos de autoridade de sorte a convencer os jurados a respeito da culpa do acusado sobre o fato narrado na denúncia.
+A propósito, em que pese parte da doutrinária inclinar-se no sentido da inconstitucionalidade de tal dispositivo, o excelso Supremo Tribunal Federal, em julgado recente, posicionou-se no sentido de admitir, com ressalvas, a leitura da decisão de pronúncia em plenário.
+Destaca-se:
+"Recurso ordinário em habeas corpus. 2. Tribunal do júri. Art. 478, I, do CPP. Vedação de referências "à decisão de pronúncia, às decisões posteriores que julgaram admissível a acusação ou à determinação do uso de algemas como argumento de autoridade que beneficiem ou prejudiquem o acusado". Interpretação do dispositivo. A lei não veda toda e qualquer referência às peças. Apenas sua utilização como argumento de autoridade c vedada. No caso da pronúncia, é vedada sua utilização como forma de persuadir o júri a concluir que, se o juiz pronunciou o réu, logo este é culpado. 3. Negado provimento ao recurso ordinário." (ROHC nº 120.598/MT, Rei. Min. Gilmar Mendes).
+No voto condutor do acórdão, Sua Excelência, o Min. Gilmar Mendes, ressaltou que "..a idéia por trás da vedação da leitura de decisões judiciais parece ser reforçar a autonomia do júri. No entanto, faz isso mediante séria limitação do direito de manifestação das partes, o que poderia ser aprofundado do ponto de vista da constitucionalidade."
+Mais adiante destacou que "Se, por um lado, a nova redação da lei veda referência às peças como "argumento de autoridade", por outro, não há vedação à simples menção ao conteúdo dessas, ou a simples leitura."
+No caso concreto, pelo que se depreende dos autos, houve leitura de peça cm plenário (pronúncia) pelo promotor público, inclusive sem protesto consignado em ata de parte da Defesa, o que, aliás, seria suficiente para ruir sua pretensão de nulidade em face da preclusão. Mas o fato é que nada indica que a peça lida foi usada como argumento de autoridade.
+Daí que, aparentemente, estamos diante de pura e simples leitura da decisão de pronúncia.
+De tal modo, não há nulidade a ser pronunciada." (fls. 416/424).
+No mesmo sentido, ou seja, de que a simples menção à pronúncia, sem objetivo de prejudicar o réu e sem a utilização de argumento de autoridade, não acarreta nulidade, cito precedente:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. HOMICÍDIO. SESSÃO DE JULGAMENTO PELO TRIBUNAL DO JÚRI. MENÇÃO À PRONÚNCIA. ART. 471, I, DO CPP. NULIDADE. INOCORRÊNCIA. REFERÊNCIAS NÃO UTILIZADAS COMO ARGUMENTO DE AUTORIDADE. PREJUÍZO NÃO DEMONSTRADO. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. O reconhecimento de nulidades no curso do processo penal reclama uma efetiva demonstração do prejuízo à parte, sem a qual prevalecerá o princípio da instrumentalidade das formas positivado pelo art. 563 do Código de Processo Penal (pas de nullité sans grief).
+3. Na hipótese, a menção a trechos da pronúncia não induz à nulidade do julgamento, tendo em vista que eles foram utilizados pela magistrada apenas para fundamentar o indeferimento do pleito defensivo de exclusão de quesitos relativos a qualificadoras, sob o argumento de que não foram descritos na pronúncia nem no acórdão que a confirmou.
+4. Não há falar em violação do art. 471, I, do CPP, tendo em vista que a referência à sentença que determinou a submissão do paciente ao Tribunal do Júri não se revestiu de argumento de autoridade, capaz de influenciar no convencimento dos jurados. Prejuízo não demonstrado.
+5. Habeas corpus não conhecido. (HC 323.474/MT, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 01/12/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO NA FORMA TENTADA. REFERÊNCIA À DECISÃO DE PRONÚNCIA NA SESSÃO DE JULGAMENTO. NULIDADE. INEXISTÊNCIA. AUSÊNCIA DE ARGUMENTO DE AUTORIDADE E DE PREJUÍZO AO RÉU. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor do enunciado contido na Súmula n. 83 do STJ, não se conhece de recurso especial interposto contra acórdão que reflete julgamento em harmonia com o entendimento pacificado nesta Corte de Justiça.
+2. O fato de o Parquet, em réplica, apenas mencionar a decisão de pronúncia, cujas cópias estavam nos autos, sem entrar no mérito da decisão e tampouco entrar em detalhes sobre ela, não induz à nulidade do julgamento.
+3. A intenção do legislador, insculpida no art. 478, I, do CPP, não foi a de vedar toda e qualquer referência à decisão de pronúncia e às decisões posteriores que julgaram admissível a acusação, mas evitar que o Conselho de Sentença seja influenciado por decisões técnicas, impingindo aos jurados o argumento de autoridade.
+4. A simples leitura da decisão de pronúncia no Plenário do Júri ou a referência a tal decisão, sem a especificação do seu conteúdo, não induzem à nulidade do julgamento se não forem utilizadas para fundamentar o pedido de condenação (HC n. 248.617/MT, Rel. Ministro Jorge Mussi, 5ª T., DJe 17/9/2013).
+5. Agravo regimental não provido. (AgRg no AREsp 429.039/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 10/10/2016)
+Diante do exposto, com fundamento na Súmula 568 do STJ, nego provimento ao recurso.
+Publique-se. Intimem-se.
