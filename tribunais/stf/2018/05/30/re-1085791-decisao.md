@@ -1,0 +1,12 @@
+Decisão: Trata-se de dois recursos extraordinários interpostos em face do acórdão Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (eDOC 8, p. 13):
+    AÇÃO COLETIVA. TUTELA DE DIREITOS INDIVIDUAIS HOMOGÊNEOS. CONCEITO ALARGADO DE NECESSITADOS. LEGITIMIDADE ATIVA DA DEFENSORIA PÚBLICA. Com base na jurisprudência consolidada do STJ, entende-se que a Defensoria Pública tem legitimidade para propor Ações Coletivas na defesa da tutela de interesses e direitos individuais homogêneos. A fim de se garantir o amplo acesso à Justiça, deve-se interpretar o artigo 134 da Constituição Federal de forma a alargar o conceito de "necessitado", para abranger não apenas o hipossuficiente no aspecto econômico, mas também sob o prisma organizacional (hipossuficiência social)." AGRAVO DESPROVIDO. UNÂNIME.”
+    No recurso extraordinário interposto pelo Ministério Público do Estado do Rio Grande do Sul (eDOC 8, p. 65/90), com fundamento no permissivo constitucional do art. 102, III, a, aponta-se ofensa ao art. 134, da Constituição Federal. Alega-se que, entre os órgãos públicos, é exclusivamente sua a legitimidade extraordinária para defesa de direitos coletivos lato sensu.
+    No recurso extraordinário interposto pela Novaportal Comércio de Autopeças Ltda. (eDOC 9, p. 70/89), com fundamento no permissivo constitucional do art. 102, III, a, alega-se ofensa ao art. 134, da Constituição Federal. Assevera-se que o acórdão recorrido estendeu em demasia o conceito de necessitado para justificar a legitimidade ativa da defensoria pública.
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos.
+    Em exame do ARE-RG 690.838, substituído pelo RE-RG 733433, ambos de relatoria do Ministro Dias Toffoli, o Plenário desta Corte, em julgamento de 04.11.2015 (Tema 607), fixou, por maioria, o entendimento de que a Defensoria Pública tem legitimidade para a propositura da ação civil pública em ordem a promover a tutela judicial de direitos difusos e coletivos de que sejam titulares, em tese, pessoas necessitadas.
+    Ante o exposto, em vista do pronunciamento do Supremo Tribunal Federal acerca do tema suscitado neste recurso extraordinário, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 30 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
