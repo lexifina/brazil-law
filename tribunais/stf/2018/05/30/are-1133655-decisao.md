@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. O Tribunal de Justiça do Estado de São Paulo, confirmando o entendimento do Juízo, assentou, observada a legislação de regência, a impossibilidade de suspensão de exigibilidade do crédito tributário, porquanto não preenchidos os requisitos legais. No extraordinário, cujo trânsito busca alcançar, o recorrente alega violados os artigos 5º, incisos XXXV, LIV e LV, 100, § 9º e § 10, 170, incisos III, XIII e parágrafo único, e artigo 174, da Carta Política. Diz ser desnecessária norma regulamentar no caso de compensação do crédito originado de precatório, na forma estabelecida pelas Emendas constitucionais nº 30/2000 e nº 62/2009. Alega o direito à suspensão da exigibilidade do crédito tributário executado até a manifestação final do Conselho Nacional de Justiça sobre a compensação do débito fiscal por meio do uso de crédito de precatório, ante o decidido nas ações diretas de inconstitucionalidade nº 4.357 e 4.425.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência  é pacífica  a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Não obstante, tenha sido reconhecido o poder liberatório dos precatórios em relação aos débitos inscritos em dívida ativa até 25/03/2015, quando da modulação dos efeitos das ADINs nºs. 4357 e 4425, referida decisão depende de regulamentação pelo Conselho Nacional de Justiça, com a apresentação, inclusive, de uma proposta normativa perante do Supremo Tribunal Federal. Logo, sua aplicação não é imediata.
+    Pois bem.
+    A pretensão da agravante da suspensão da exigibilidade do crédito tributário até o pronunciamento do CNJ em relação ao pedido de providências formulado no sentido de que o órgão regulamente de forma urgente a modulação não possui amparo legal, pois equivaleria à suspensão da exigibilidade do crédito tributário, que só é possível nas hipóteses expressamente previstas no art. 151, do Código Tributário Nacional, o que não é caso dos autos.
+    Assim, em sede de cognição sumária não exauriente, não se encontram presentes os requisitos autorizadores da tutela de urgência, especialmente a plausibilidade do direito invocado a ensejar o deferimento da liminar perseguida.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o acórdão impugnado interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 30 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
