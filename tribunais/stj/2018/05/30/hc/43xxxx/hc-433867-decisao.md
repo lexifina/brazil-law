@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JACIRA LEMOS BARROZO apontando como autoridade coatora o Tribunal de Justiça do Distrito Federal que indeferiu liminarmente o HC n. 0716738-60.2017.8.07.0000.
+Consta dos autos que a paciente foi condenada à 5 (cinco) anos e 4 (quatro) meses de detenção, em regime semiaberto, pela suposta prática dos crimes tipificados nos artigos 89, caput, 2a parte, c/c artigo 26, parágrafo único, incisos II e III, c/c artigo 84, § 2o, e artigo 99, todos da Lei n. 8.666/1993, por seis vezes.
+Foram interpostos recursos de Apelação contra a sentença, tanto pela defesa quanto pelo Ministério Público, sendo ambos parcialmente providos para majorar a pena-base, fixando a pena definitiva em 6 (seis) anos 2 (dois) meses e 20 (vinte) dias de detenção, em regime inicial semiaberto, e reduzir a pena de multa.
+A execução provisória da pena foi determinada mediante expedição de carta de guia provisória pelo Juízo de primeiro grau.
+Irresignada, a defesa interpôs habeas corpus perante o Tribunal de Justiça do Distrito Federal e dos Territórios, que indeferiu a inicial por entender restar o mandamus instruído insuficientemente (e-STJ fl. 153).
+Na presente impetração (e-STJ fls. 1/148), a defesa alega, em síntese, a ilegalidade da determinação de execução provisória da pena, diante da violação ao princípio da coisa julgada, visto que, em ocasião da prolação da sentença, foi garantido à paciente o direito de recorrer em liberdade.
+Afirma que, no julgamento da Apelação, a Turma Criminal preservou o direito da paciente de recorrer em liberdade, sendo a execução provisória determinada pelo Juiz de primeira instância uma ofensa ao preceito de proibição ao reformatio in pejus, destacando que cabe consignar que o Excelso SUPREMO TRIBUNAL FEDERAL em diversas decisões monocráticas firmou que o Juiz do primeiro grau JAMAIS poderia atender ao pedido de execução provisória da pena por simples petição, no caso, do douto "parquet", como ocorrido, sem efetiva justificativa da necessidade para tal, sob pena da incidência do odioso reformatio in pejus, vedado no nosso ordenamento jurídico (e-STJ fl. 47).
+Ressalta que a paciente é idosa, possui a saúde debilitada e respondeu a todo o processo em liberdade.
+Pugna, liminarmente e no mérito, pela suspensão da ordem de execução provisória da pena para que a paciente possa aguardar o trânsito em julgado da sentença penal condenatória em liberdade.
+É o relatório. Decido.
+De plano, verifico que nesta Corte também houve a impetração do HC n. 436.673/DF, em favor da ora paciente, requerendo igualmente a suspensão da ordem de execução provisória da pena, sendo que a ordem foi denegada em 25/5/2018.
+Assim, por se tratar de mera reiteração, o presente mandamus não pode prosseguir. Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, de minha relatoria, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido (AgRg no RCD no HC n. 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1o/9/2015, DJe 22/9/2015).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intime-se.
