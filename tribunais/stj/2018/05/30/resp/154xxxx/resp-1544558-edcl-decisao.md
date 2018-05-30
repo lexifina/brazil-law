@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra a decisão mediante a qual neguei seguimento a seu recurso especial.
+O embargante afirma que a decisão é omissa, pois não apreciou a alegação de violação do art. 535 do Código de Processo Civil (1973). Sustenta que o acórdão recorrido, no julgamento de embargos de declaração, mudou seu entendimento a respeito de matéria já apreciada anteriormente, atribuindo efeitos infringentes a recurso que não o tem.
+Em sua impugnação aos embargos, ADM do Brasil Ltda afirma que não houve mudança de entendimento, mas reconhecimento de que o acórdão embargado assentava-se em premissa equivocada.
+Assim posta a questão, observo que a decisão embargada, de fato, é omissa quanto à alegação de contrariedade ao artigo apontado. Do relatório consta que o embargante fez a alegação em suas razões de recurso especial, mas o ponto não foi apreciado. Passa-se, então, ao seu exame.
+Não foi contrariado o art. 535 do CPC.
+Com efeito, a jurisprudência desta Corte admite a atribuição de efeitos infringentes a embargos de declaração quando o acolhimento destes implicar a alteração do julgamento como resultado inevitável. Confiram-se, a propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. VALOR ANTECIPADO PELA ADQUIRENTE. PROVAS NÃO ANALISADAS NO JULGAMENTO DA APELAÇÃO. OMISSÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO. EFEITOS INFRINGENTES. POSSIBILIDADE. DECISÃO MANTIDA.
+1. "De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, é possível a atribuição de efeitos infringentes aos embargos de declaração, em situações excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que o acolhimento dos embargos tiver como consectário lógico a alteração da decisão" (AgRg no AREsp n. 622.677, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/3/2016, DJe 1º/4/2016).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1199124/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/04/2018, DJe 02/05/2018)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CARÁTER INFRINGENTE. POSSIBILIDADE. EXCEPCIONALIDADE. EMBARGOS DE DECLARAÇÃO. TEMPESTIVIDADE. INTERRUPÇÃO DE PRAZO. 1. A atribuição de efeitos infringentes aos embargos de declaração é possível, em hipóteses excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que, sanada a omissão, a contradição ou a obscuridade, a alteração da decisão surja como consequência necessária.
+2. Os embargos de declaração interrompem o prazo para interposição de outros recursos, exceto nos casos em que não conhecidos por intempestividade.
+3. Embargos de declaração acolhidos, com efeitos modificativos, para dar provimento ao recurso especial e, declarando a tempestividade dos embargos de declaração opostos na origem, determinar o retorno dos autos ao Tribunal de origem para julgamento da apelação.
+(EDcl no AgInt no AREsp 897.842/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/04/2018, DJe 27/04/2018)
+No caso, não houve simples mudança de entendimento quando do julgamento dos embargos, o que, se fosse o caso, não permitiria o acolhimento com efeitos infringentes. O que se verifica é que o Tribunal corrigiu premissa de julgamento.
+No acórdão embargado, foi ressaltado, equivocadamente, o fato da ausência de previsão contratual para o pagamento da dívida em dinheiro; a obrigação era de entrega de grãos, sem que fosse estabelecido o equivalente pecuniário (e-STJ fl. 860).
+Tal premissa fática, todavia, foi corrigida no acórdão dos embargos. O Tribunal reconheceu que, ao contrário do que dito anteriormente, o contrato tinha cláusula expressa estabelecendo a conversão da obrigação em pecúnia, com eleição pelas partes da cotação apurada em publicação especializada, observada a época do vencimento (e-STJ fl. 906).
+Correto, portanto, o proceder do Tribunal de origem, que não só poderia, como deveria reconhecer o equívoco e corrigir a premissa fática sobre a qual se assenta a decisão, de modo a corrigir o rumo do julgamento. Dessa forma, aplicou-se o direito ao fato devidamente apresentado.
+Os efeitos infringentes atribuídos aos embargos de declaração eram consequência necessária e, por isso, não ocasionaram violação do art. 535 do CPC (1973).
+Em face do exposto, acolho os embargos de declaração para suprir a omissão nos termos supra, sem alteração do resultado.
+Intimem-se.
