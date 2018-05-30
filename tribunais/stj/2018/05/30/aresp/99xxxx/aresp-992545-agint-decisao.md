@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interno interposto por [NOME] em face de decisão monocrática de fls. 283-284, da lavra deste signatário, que negou provimento ao agravo (art. 544 do CPC/73), por não ter sido vislumbrado qualquer vício no aresto impugnado, afastando a preliminar de nulidade decorrente de negativa de prestação jurisdicional.
+Em suas razões (fls. 288-294), a agravante sustenta a necessidade de reconsideração do decisum, porquanto demonstrada a existência de negativa de prestação jurisdicional, a determinar o provimento do recurso especial. Isso porque, conforme alega a insurgente, o Tribunal de origem manteve a sentença que julgou improcedentes os pedidos iniciais, sob o fundamento de que a ora agravante ajuizou anteriormente demanda com o mesmo objetivo, da qual desistiu sem explicitar os motivos. Aduz que a mera desistência não pode implicar no reconhecimento de eventual restituição do bem.
+Sem impugnação.
+É o relatório.
+Decido.
+Ante as razões expendidas no presente recurso, verifica-se a existência da alegada negativa de prestação jurisdicional, consoante a seguir exposto.
+1. Nas razões do recurso especial, arguiu a ora agravante omissão do Tribunal de origem quanto à questão de não competir à autora a produção de prova de que o bem não teria sido restituído, fato esse que não pode ser presumido com base na desistência em demanda de mesmo objeto ajuizada anteriormente.
+Efetivamente, a despeito de o Tribunal de origem ter sido provocado em sede de embargos de declaração a se pronunciar acerca da tese da recorrente, o órgão a quo manteve-se omisso, não emitindo juízo de valor sobre a matéria.
+Nessa medida, mostra-se inafastável a constatação da ocorrência de omissão por parte do Tribunal de origem, isso porque não teria emitido pronunciamento sobre relevantes matérias capazes de influir no deslinde da controvérsia, houve prejuízo à recorrente, ao se inviabilizar o exame da controvérsia por este Superior Tribunal de Justiça.
+1.1. Pois bem. É cediço que o enfrentamento dos pontos aventados pelas partes, além de ser uma determinação constitucional (art. 93, IX), visa, sobretudo, possibilitar o acesso das controvérsias de direito às instâncias extraordinárias. É dizer que, caso não averiguadas as matérias pelas instâncias ordinárias, os recursos carecem do necessário prequestionamento e sequer poderão ser examinados. Exemplo disso são os verbetes contidos nas Súmula 211 do STJ e 282 do STF, que vedam o exame de questões não prequestionadas (sem o pronunciamento do órgão a quo sobre as teses jurídicas em torno dos dispositivos legais tidos como violados).
+Os órgãos julgadores não podem deixar de apreciar e decidir as alegações capazes de alterar o desfecho da demanda. Devem, em sentido oposto, enfrentá-las de modo direito, objetivo e claro, tal como preconizado pelo art. 93, IX, da Constituição Federal.
+Não à toa são os reiterados posicionamentos deste Superior Tribunal de Justiça reconhecendo a negativa de prestação jurisdicional dos acórdãos que deixam de se manifestar sobre questões relevantes para o deslinde da controvérsia.
+Confiram-se, nesse sentido, os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EMBARGOS DECLARATÓRIOS. NULIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DECISÃO AGRAVADA MANTIDA.
+1.- Confirmada a ocorrência de negativa de prestação jurisdicional, pois o acórdão deixou de se manifestar sobre questões relevantes para o deslinde da controvérsia.
+2.- Agravo Regimental improvido.
+(AgRg no AREsp 453741/CE, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 18/03/2014, DJe 10/04/2014)
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. PRESCRIÇÃO. APELAÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. VIOLAÇÃO DO ART. 535 DO CPC. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO.
+1. Da análise do acórdão recorrido é possível constatar que a questão da ocorrência de prescrição, suscitada nas contrarrazões ao recurso de apelação e reiterada por ocasião dos embargos de declaração, não foi, efetivamente, discutida pelo Tribunal de origem.
+2. Quanto à relevância do tema, impende apontar que a omissão, indubitavelmente, acarretou ao recorrente nítido prejuízo, pois, ausente o prequestionamento, impossível a revisão da questão diretamente em recurso especial, sendo que esta Corte já firmou o entendimento de que mesmo as chamadas questões de ordem pública devem estar prequestionadas, a fim de viabilizar sua análise nesta Instância Especial.
+3. A existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 535 do CPC.
+4. Recurso especial provido, para, em consequência do reconhecimento da violação do artigo 535 do CPC, determinar o retorno dos autos ao Tribunal de origem a fim de que seja proferido novo julgamento.
+(REsp 1171712/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/09/2011, DJe 02/02/2012) (grifou-se)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO ANULATÓRIA DE PARTILHA. ALEGAÇÃO DE USUCAPIÃO PELO RÉU. POSSIBILIDADE DE UTILIZAÇÃO COMO MATÉRIA DE DEFESA. VIOLAÇÃO DO ART. 535 DO CPC. OCORRÊNCIA. OMISSÃO CONFIGURADA.
+1. A jurisprudência deste Tribunal Superior é no sentido de ser possível a arguição de usucapião como meio de defesa, ainda que se cuide de ação anulatória (cf. Súmula 237 do STF).
+2. Há ofensa ao art. 535 do CPC quando a Corte a quo não se manifesta sobre as questões suscitadas nas contrarrazões ao recurso de apelação, reiteradas nos embargos de declaração e imprescindíveis ao escorreito deslinde da controvérsia, o que acaba por evidenciar omissão no julgado embargado.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 601113/RS, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), TERCEIRA TURMA, julgado em 19/08/2010 DJe 27/08/2010) (grifou-se)
+Ademais, como já mencionado, a omissão sobre pontos capazes de alterar o deslinde da controvérsia acarreta nítido prejuízo à recorrente, na medida em que veda a revisão da questão em sede de recurso especial, ante a ausência de prequestionamento.
+Nessa medida, considerando que a alegação suscitada pela parte possui o condão de modificar o deslinde da controvérsia, bem como que, ante a omissão do Colegiado, restou inviabilizado o prequestionamento da matéria, é de rigor o acolhimento do reclamo a fim de cassar o acórdão recorrido e de determinar o retorno dos autos ao órgão julgador para o enfrentamento de mérito da referida tese.
+Não se quer dizer com isso, destaque-se, que as questões levantadas serão acolhidas, muito menos que serão rejeitadas. O intuito do retorno dos autos é conferir às partes uma prestação jurisdicional completa, fundamentada e que possibilite o acesso às instâncias extraordinárias.
+2. Do exposto, torno sem efeito a decisão de fls. 283-284 e conheço do agravo para, de plano, dar provimento ao recurso especial, com fulcro no art. 932 do NCPC c/c Súmula 568/STJ, a fim de cassar o acórdão proferido em sede de embargos de declaração (fls. 186-190), determinando o retorno dos autos à origem para apreciação da questão omitida apontada pela agravante.
+Publique-se.
+Intimem-se.
