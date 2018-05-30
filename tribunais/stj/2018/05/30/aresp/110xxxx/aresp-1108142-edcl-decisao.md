@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 176/177 e-STJ) opostos por [NOME] à decisão de fls. 168/173 (e-STJ), que conheceu do agravo para negar provimento ao recurso especial.
+O embargante sustenta, em síntese, a existência de omissão, afirmando que:
+"Desde a instância ordinária, o embargante vem proclamando que nunca houve "encerramento ou inatividade da empresa", mas apenas mudança de endereço; desde a sua primeira manifestação, vem assinalando que foi decretada a falência da empresa e, como é sabido, falência não configura modo irregular de dissolução da sociedade; desde o começo vem sublinhando que mero inadimplemento não caracteriza fraude ou abuso; e vem enfatizando em todas as oportunidades que o repasse da quota societária da filha [NOME] não implica a "dissolução irregular da sociedade", até porque a medida - corriqueira no meio empresarial - é indiscutivelmente legítima" (fl. 176 e-STJ).
+"Quanto à desconsideração da personalidade jurídica, a decisão impugnada sustenta que "a jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que .. prescinde da instauração de procedimento próprio, podendo ser decidida como incidente processual".
+Acontece que todos os julgados trazidos como paradigmas - todos eles - são muitíssimo anteriores ao Código de Processo Civil de 2015, que expressamente determina a instauração do Incidente de Desconsideração da Personalidade Jurídica (art. 133) e não foi observado" (fl. 177 e-STJ).
+A parte agravada apresentou impugnação às fls. 180/181 (e-STJ).
+É o breve relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+No que diz respeito à aplicação do art. 133 do Código de Processo Civil/2015, verifica-se que referido dispositivo não foi objeto de prequestionamento, nem foi provocada manifestação a seu respeito nos embargos de declaração opostos.
+Ainda que superado este óbice, a decisão que rejeitou a exceção de pré-executividade e confirmou a desconsideração da personalidade jurídica é anterior ao referido diploma processual, não havendo que se falar na respectiva incidência.
+A respeito do preenchimento dos requisitos da desconsideração da personalidade jurídica, o acórdão impugnado decidiu com base nas provas constantes dos autos, conforme se depreende do seguinte trecho:
+"Da prova dos autos, houve apropriação indébita de valores pertencentes ao condomínio agravado, resultando, inclusive, em demanda na esfera criminal. No julgamento do recurso de apelação nº [CPF], foi reconhecida a apropriação indevida, com imputação de pena à pessoa física pela prática abusiva da pessoa jurídica.
+Transcrevo a ementa:
+APELAÇÕES CRIMINAIS. CRIMES CONTRA O PATRIMÔNIO. APROPRIAÇÃO INDÉBITA MAJORADA EM RAZÃO DA PROFISSÃO EM CONTINUIDADE DELITIVA. PLEITO MINISTERIAL DE CONDENAÇÃO. ACOLHIDO. MATERIALIDADE E AUTORIA COMPROVADAS.
+Comprovadas a materialidade e a autoria delitivas, imperiosa a condenação. Caso dos autos em que o réu, aproveitando-se do fato de possuir contrato de prestação de serviços junto a determinada empresa, atinente à administração de valores a serem adimplidos a título de alugueis e condomínios, apropriou-se de diversos pagamentos efetuados nos meses de maio, julho e agosto de 2012. Prova suficiente para a condenação. Imputação penal que recai sobre a pessoa física, que responde pelas ações da pessoa jurídica. Nexo de causalidade demonstrado, entre a conduta do réu e os crimes a ele atribuídos.
+Pena carcerária fixada em 02 anos, 02 meses e 20 dias de reclusão, em regime aberto, substituída por duas penas restritivas direitos, consistentes na prestação de serviços à comunidade, pelo mesmo período da condenação, e na prestação pecuniária, no valor de um salário mínimo, ambos com destinação a ser indicada pelo juízo da execução, além de 10 dias - multa, à razão 1/30 do salário mínimo vigente à época do fato, como incurso nas sanções do art. 168, §1º Ill, por 12 vezes, na forma do art. 71, caput, do CP.
+Reparação de danos aplicada em consonância com o disposto no art. 387, IV do CPP.
+Apelações providas.
+A par disso, no ano de 2012, houve alteração societária renunciando a acionista [NOME] ao cargo de diretora e transferindo pela venda a totalidade das ações ao aqui agravante, seu pai, com posterior decreto da falência, em outubro de 2014, o que sugere dissolução irregular da sociedade.
+Por outro lado, não há argumento plausível a aceitar tenha a empresa se tornado itinerante, sem endereço certo, porquanto demonstrado o encerramento da empresa, sem honrar débitos junto aos credores.
+Além disso, não demonstrou a parte agravante, tenha a empresa PRODOMO patrimônio suficiente para garantia do débito, prova que era essencial ao provimento do agravo.
+Então, tendo exaurido a parte credora na busca de bens da empresa, ou esgotados os meios para ressarcir o crédito, é admissível a desconsideração da personalidade jurídica.
+Logo, aceitável a declaração de abuso da personalidade jurídica, quando da dissolução irregular da empresa e inexistente patrimônio desta para fins de garantia de débito reconhecido, o que importa na inclusão do sócio no polo passivo da fase de cumprimento de sentença" (e-STJ fls. 78/80).
+Rever as conclusões do julgado sobre o tema demandaria o reexame de matéria fático-probatória, medida inviável em sede de recurso especial, nos termos da Súmula nº 7/STJ: "a pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/1973). AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VALORAÇÃO DA PROVA. PRINCÍPIO DO LIVRE CONVENCIMENTO DO JUIZ. SÚMULA 7/STJ. APLICAÇÃO DA TEORIA DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA PARA ATINGIR PATRIMÔNIO DE SÓCIO. ADMISSIBILIDADE. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO."
+(AgInt no AREsp 894.668/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 24/04/2018, DJe 30/04/2018)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. AUSÊNCIA DE FUNDAMENTAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA. 2. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. REEXAME DE PROVA. SÚMULA N. 7/STJ. 3. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. De fato, "a desconsideração da personalidade jurídica é admitida em situações excepcionais, devendo as instâncias ordinárias, fundamentadamente, concluir pela ocorrência do desvio de sua finalidade ou confusão patrimonial desta com a de seus sócios, requisitos sem os quais a medida torna-se incabível" (REsp 1.311.857/RJ, Rel. Min. Nancy Andrighi, Terceira Turma, julgado em 13/5/2014, DJe 2/6/2014).
+2.1. No caso, para refutar as conclusões fáticas alcançadas pela Corte estadual, a respeito da caracterização dos requisitos para a desconsideração da personalidade jurídica da empresa e do esgotamento dos bens dos executados, exigiria o reexame de provas, providência vedada nesta instância especial, em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.200.666/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/04/2018, DJe 26/04/2018)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
