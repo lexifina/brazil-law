@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, do qual se extrai da ementa o seguinte trecho:
+    “APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - RECURSO DA DEFESA - PROVAS SUFICIENTES - MANUTENÇÃO DA CONDENAÇÃO - CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4°, DA LEI 11.343/06 - NÃO CABIMENTO - DEDICAÇÃO À ATIVIDADE CRIMINOSA - RECURSO MINISTERIAL - EXASPERAÇÃO DAS PENAS - POSSIBILIDADE - ART.42 DA LEI 11.343/06 - REGIME SEMIABERTO MANTIDO - CRIME DE POSSE IRREGULAR DE MUNIÇÕES DE USO PERMITIDO - VACATIO LEGIS TEMPORALIS - EXTINÇÃO DA PUNIBILIDADE - CABIMENTO - ATO OCORRIDO NO INTERIOR DA RESIDÊNCIA DO AGENTE - ATIPICIDADE DA CONDUTA - SEGURANÇA JURÍDICA - PRECEDENTES JURISPRUDENCIAIS.
+    […].”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 5º, XXXV, XLIX, LIV, LV, LVI, LVII, 37 e 93, IX, da Constituição. Sustenta que: (i) “após toda a instrução criminal, restou provado a inocência do ora recorrente, em razão de não ter o mesmo participado dos eventos elencados na peça exordial”; (ii) a “denúncia é inepta e lhe falta justa causa com relação ao ora recorrente, portanto, é imperativo ser a mesma julgada improcedente”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal (STF) rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660).
+    A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual (Súmula 279/STF).
+    O STF tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    Cabe ressaltar, por fim, que não foram ofendidas as garantias da inafastabilidade do controle jurisdicional, do devido processo legal, do contraditório e da ampla defesa, uma vez que a parte recorrente teve acesso a todos os meios de impugnação previstos na legislação processual, havendo o acórdão recorrido examinado todos os argumentos e fundamentado suas conclusões de forma satisfatória.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 30 de maio de 2018.
+Ministro Luís Roberto Barroso
+Relator
