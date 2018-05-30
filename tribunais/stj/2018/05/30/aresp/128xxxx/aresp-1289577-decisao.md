@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento a recurso especial ante a ausência de fundamentação suficiente do acórdão recorrido.
+O acórdão do Tribunal de origem recebeu a seguinte ementa (e-STJ fl. 216):
+Ação de obrigação de fazer, cumulada com pedido de antecipação dos efeitos da tutela - Autor acometido por enfermidade denominada púrpura trombocitopênica idiopática - Prescrição de medicamento denominado Revolade (Eltrombobag) - Requerida que se recusa a fornecer os medicamentos, sob alegação de que não está
+previsto pelo rol da ANS e é de uso domiciliar - Abusividade - Necessidade de cobertura pela requerida do tratamento indicado por médico assistente - Cláusula de exclusão genérica dc caráter abusivo - Aplicação do Código de Defesa do Consumidor e da Súmula 102 do Tribunal de Justiça ao caso - Impossibilidade de discussão pelo plano de saúde acerca da pertinência da prescrição feita pelo médico assistente - Necessidade de cobertura - Utilização do medicamento que foi prescrito pelo medico assistente diante do quadro apresentado pela requerente - Exclusão contratual que coloca em risco o objeto do contrato - Prevalência do princípio ao acesso à saúde - Abusividade da negativa de cobertura - Sentença de procedência em parte - Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 229/233).
+Sobreveio o recurso especial (e-STJ fls. 236/244), fundado no art. 105, III, "a", da CF, no qual a recorrente sustentou violação dos arts. 10, VI, e 12, II, da Lei n. 9.656/1998, pois seria lícita a cláusula contratual que exclui da cobertura o custeio de remédio para tratamento domiciliar.
+Apontou também afronta ao art. 1.022 do CPC/2015, pois o acórdão teria sido omisso em relação a principal tese defensiva, segundo a qual o medicamento pleiteado pela parte recorrida é de uso domiciliar, cuja cobertura não encontra previsão contratual.
+No agravo (e-STJ fls. 263/270), afirma a presença dos requisitos de admissibilidade do recurso especial, nos pontos não admitidos pela instância a quo.
+É o relatório.
+Decido.
+Inicialmente, o recurso foi interposto com fundamento no Código de Processo Civil de 2015, pois ataca decisão publicada em 27/06/2016 (e-STJ fl. 259), motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3/STJ).
+O Tribunal de origem reconheceu a procedência da pretensão de cobertura do segurado, pois há cobertura para a doença a ser tratada pelo medicamento, não sendo possível a negativa de custeio ao procedimento necessário ao tratamento da doença que atinge o beneficiário do plano (e-STJ fls. 218/220).
+Constata-se que o entendimento do Tribunal a quo coaduna-se com a jurisprudência do STJ, segundo a qual é abusiva a exclusão contratual de tratamento prescrito para o bem da saúde e da vida do segurado, pois a empresa pode restringir as doenças asseguradas, mas não o tipo de procedimento para a cura a ser indicado pelo especialista habilitado. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE ANTECIPAÇÃO DE TUTELA. TRATAMENTO MÉDICO DOMICILIAR (HOME CARE). CLÁUSULA CONTRATUAL OBSTATIVA. ABUSIVIDADE. DECISÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ.
+1. "A jurisprudência do STJ tem entendimento firmado no sentido de ser abusiva a cláusula contratual que exclui tratamento prescrito para garantir a saúde ou a vida do segurado, porque o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura. Precedentes. Incidência da Súmula 83/STJ" (AgRg no AREsp 734.111/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/12/2015, DJe 03/02/2016).
+2. Agravo interno não provido.
+(AgInt no AREsp 987.203/RJ, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2016, DJe 2/2/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. SERVIÇO DE HOME CARE PRESCRITO PELO MÉDICO DO BENEFICIÁRIO. RECUSA INDEVIDA À COBERTURA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULAS 7 E 83 DO STJ. 2. INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE PLEITO NA INICIAL E DE CONDENAÇÃO. FALTA DE INTERESSE RECURSAL CONFIGURADA. 3. AGRAVO INTERNO IMPROVIDO.
+1. O serviço de Home Care (tratamento domiciliar) constitui desdobramento do tratamento hospitalar contratualmente previsto, que não pode ser limitado pela operadora do plano de saúde. Na dúvida, a interpretação das cláusulas dos contratos de adesão deve ser feita da forma mais favorável ao consumidor.
+2. Indenização por danos morais não foi objeto de pleito inicial e tampouco houve condenação a esse respeito. Ausência de interesse recursal.
+3. Agravo interno improvido.
+(AgInt no AREsp 1.071.680/MG, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/6/2017, DJe 26/6/2017.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
