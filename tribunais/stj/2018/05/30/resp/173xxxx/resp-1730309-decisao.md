@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por HAPVIDA ASSISTENCIA MEDICA LTDA, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (e-STJ fl. 1.556):
+Administrativo e Processual Civil. Execução Fiscal. Agência Nacional de Saúde Suplementar. 1. Prescrição. Inocorrência. - Examinando a CDA que embasa a execução fiscal ora embargada, verifica-se que o vencimento do débito data de 25/04/2014. Por sua vez, a decisão final do processo administrativo foi publicada em 07/02/2014, após apreciação dos recursos apresentados pelo embargante, bem como a inscrição em dívida ativa ocorreu em 31/01/2012, e o ajuizamento da demanda executiva deu-se em 15/10/2014. Não há, portanto, que se falar em prescrição. 3. Desnecessidade da juntada da forma de cálculo dos juros, sendo suficiente apresentar apenas a fundamentação legal. Inteligência dos arts. 3º e 6º da Lei nº 6.830/80. Precedentes: PROCESSO: 00026339120154058500, [OAB]/SE, DESEMBARGADOR FEDERAL CID MARCONI, Terceira Turma, JULGAMENTO: 09/02/2017, PUBLICAÇÃO: DJE 15/02/2017 e PROCESSO: 00029637720154050000, AG143188/PE, DESEMBARGADOR FEDERAL RUBENS DE MENDONÇA CANUTO, Quarta Turma, JULGAMENTO: 11/10/2016, PUBLICAÇÃO: DJE 14/10/2016. 4. Apelação improvida.
+Embargos de declaração rejeitados (e-STJ fl. 1.595).
+Nas suas razões, a parte recorrente aponta violação do art. 2º, § 5º, III, da Lei n.6.830/1980. Para tanto, sustenta que a Certidão da Dívida Ativa - CDA é inválida.
+Contrarrazões às e-STJ fls. 1.625/1.629.
+Juízo positivo de admissibilidade pelo Tribunal a quo (e-STJ fl. 1.632).
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Isso considerado, verifico que a irresignação recursal não merece prosperar.
+Extrai-se do julgado o seguinte trecho (e-STJ fls. 1.563/1.565):
+O apelante, trazendo argumentos diversos ao expostos na inicial, alega a nulidade das CDA"s. Em sua petição inicial, a HAPVIDA assevera que as CDA"s são nulas: a) ante a ausência das AIHs - Autorizações de Internação Hospitalar; b) por não informar o mês da emissão da AIH: c) por não informar a data de encerramento do processo administrativo; d) pela ausência de descrição do fato constitutivo da infração. Em suas razões recursais, contudo, a recorrente afirma que as CDA"s são nulas porque não identificaram a forma de cálculo dos juros, bem como por ausência da descrição da suposta infração.
+Pelo que se constata, a HAPVIDA, tenta, por um argumento ou outro, atestar a nulidade das CDA"s. Ocorre que, analisando as CDA"s que guarnecem as execução fiscal, verifica-se que tais alegações não merecem prosperar, haja vista que consta da mesma a origem, natureza e fundamento legal da dívida, restando ali explicitado que não se trata de dívida tributária ou multa em razão de infração, mas tão somente de ressarcimento ao SUS pelos atendimentos realizados a consumidores do plano de saúde embargante, crédito este constituído em consonância com a disposição do art. 32 da Lei 9656/1998.
+No que concerne a alegação de nulidade por ausência, na CDA, da forma de cálculo dos juros, ressalto que o artigo 3º da Lei nº 6.830/80 dispõe que: "A dívida ativa regularmente inscrita goza de presunção de certeza e liquidez." Por sua vez, o artigo 6º da mesma lei traz os requisitos da petição inicial e, em seu § 2º, estatui: "A petição inicial e a Certidão de Dívida Ativa poderão constituir um único documento, preparado inclusive por processo eletrônico", o que demonstra a desnecessidade da juntada da de dos , sendo suficiente apresentar apenas a fundamentação legal.
+ ..
+Assim, em face da presunção de legitimidade dos atos administrativo, não identifico hipótese de nulidade.
+Como se vê, em face das premissas fáticas assentadas no acórdão objurgado, a modificação do entendimento firmado pelas Instâncias ordinárias - no sentido de que a CDA é válida e contém todos os requisitos legais - demandaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, desiderato incompatível com a via especial, a teor da Súmula n. 7 do STJ.
+Nesse sentido:
+TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE COISA JULGADA. INCIDÊNCIA DOS ENUNCIADOS N. 7 E 283 DA SÚMULA DO STJ. ALEGAÇÃO DE INEXIGIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - A aferição da certeza e liquidez da Certidão da Dívida Ativa - CDA, bem como da presença dos requisitos essenciais à sua validade, conduz necessariamente ao reexame do conjunto fático-probatório dos autos, medida inexequível na via da instância especial, por incidência do enunciado n. 7 da Súmula do STJ.
+ ..
+IV - A incidência do enunciado n. 7 para inadmissão do recurso especial pela alínea a do permissivo constitucional impossibilita a análise da alegação de divergência jurisprudencial.
+V - Agravo interno improvido. (AgInt no AREsp 1021659/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/05/2017, DJe 24/05/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. CDA. PREENCHIMENTO DOS REQUISITOS LEGAIS (ART. 202 DO CTN E ART. 2º, § 5º, DA LEI 6.830/1980). IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. APLICAÇÃO DA SÚMULA 7/STJ. ISS. SERVIÇOS BANCÁRIOS. DL 406/1968. LISTA DE SERVIÇOS. TAXATIVIDADE. INTERPRETAÇÃO EXTENSIVA DE CADA ITEM. SÚMULA 7/STJ.
+ ..
+5. Rever o entendimento a que chegou a Corte a quo, de modo a albergar a tese do recorrente em relação a nulidade da CDA, enseja revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em Recurso Especial, por óbice da Súmula 7/STJ.
+ ..
+8. Recurso Especial  parcialmente conhecido e, nessa parte, não provido. (REsp 1692315/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe 16/10/2017)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
