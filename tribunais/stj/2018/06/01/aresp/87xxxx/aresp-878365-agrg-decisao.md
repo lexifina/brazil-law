@@ -1,0 +1,95 @@
+DECISÃO
+CLEBIO DE [NOME] [NOME] e [NOME] [NOME] [NOME] agravam de decisão da Presidência do Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial com fundamento na Súmula n. 182 do STJ.
+Nesta oportunidade, a defesa sustenta que as razões de inadmissão do recurso especial foram devidamente infirmadas no agravo de fls. 778-781.
+Requer, dessa forma, a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado, para que seja conhecido o agravo e provido o recurso especial.
+Com vistas dos autos, o Ministério Público Federal opinou "pelo desprovimento do agravo interno" (fl. 826).
+Decido.
+I. Motivos da inadmissão do recurso especial infirmados
+O recurso especial foi inadmitido sob os seguintes motivos (fls. 774-776): a) argumentação insuficiente (Súmula n. 284 do STF); b) necessidade de revolvimento fático-probatório (Súmula n. 7 do STJ); c) ausência de demonstração do dissídio jurisprudencial.
+No agravo, a defesa afirma que: a) "a contrariedade a lei federal está claramente demonstrada" (fl. 781); b) "o presente caso não requer reexame do conjunto fático-probatório" (fl. 781); c) o recurso foi interposto "por entender que o V. Acórdão foi proferido de forma contrária a dispositivo da Lei Federal" (fl. 780).
+Pela análise do caso, observo que a defesa concordou com a inadmissão do recurso quanto à alínea "c" do permissivo constitucional. Com efeito, a insurgência foi apenas no tocante à suscitada violação dos arts. 33 e 35 da Lei n. 11.343/2006, 12 da Lei n. 10.826/2003 e 329, § 1º, do Código Penal, em relação à qual foram efetivamente impugnados os fundamentos adotados pelo Tribunal a quo para inadmitir o recurso especial. Desse modo, reconsidero a decisão agravada e conheço do agravo de fls. 778-781.
+Desse modo, passo à análise do recurso especial, nos moldes já delimitados pela instância antecedente - art. 105, III, "a", da Constituição Federal.
+II. Matéria suscitada no recurso especial
+A defesa sustenta, em resumo, não estar comprovada a prática das condutas delitivas pelos réus, por inexistirem elementos nos autos que os vinculem à residência em que foram encontradas as drogas e munições. Afirma que a existência de "alguns trechos de 22 (vinte e duas) conversas  ..  não tem o condão de provar qualquer envolvimento ilícito por parte dos Recorrentes" (fl. 714).
+Considera, ainda, não haver "prova conclusiva da associação habitual e estável entre os Recorrentes, ou que tivessem financiado ou mantivessem o local para o tráfico de drogas" (fl. 716). Aduz que "não foi apurado no presente caso, a quem pertencia o imóvel onde foram localizadas as munições" (fl. 717).
+Por fim, ressalta que "a viatura e os investigadores estavam descaracterizados, sendo plausível, portanto, sua afirmação  réu [NOME]  de que não imaginou tratar-se de policiais  .. , sendo assim, natural resistir" (fl. 717).
+Pugna, dessa forma, pela absolvição dos réus.
+III. Contextualização
+Os ora agravantes foram condenados, em primeira instância, às seguintes reprimendas: a) [NOME] - 11 anos e 7 meses de reclusão, em regime inicial fechado, e 1.749 dias-multa, como incurso nos arts. 33, caput, e 35 da Lei n. 11.343/2006, 1 ano e 5 meses de detenção, em regime inicial semiaberto, e 14 dias-multa, pela prática do crime previsto no art. 12 da Lei n. 10.826/2003; b) [NOME] - 11 anos e 6 meses de reclusão, em regime inicial fechado, e 1.500 dias-multa, pelo cometimento dos delitos previstos nos arts. 33, caput, e 35 da Lei n. 11.343/2006 e 329, § 1º, do Código Penal, 1 ano e 3 meses de reclusão, em regime inicial semiaberto, e 12 dias-multa, como incurso no art. 12 da Lei n. 10.826/2003.
+Irresignada, a defesa recorreu. O Tribunal a quo negou provimento ao apelo, sob a seguinte motivação (fls. 682-701, grifei):
+Narra a denúncia que investigadores tomaram conhecimento de que os apelantes, integrantes de um grupo de RAP denominado "Sorokaus" promoviam shows na região de Sorocaba em que disseminavam músicas e faziam apologia ao uso de droga.
+Diante disso, deflagrou-se uma investigação que, auxiliada por interceptação telefônica, logrou constatar que os apelantes haviam se associado para o comércio ilícito de entorpecentes, utilizando-se para tanto de veículos e residências naquela Urbe.
+Na data dos fatos, em poder das informações coletadas, os investigadores se deslocaram até a residência de Rogério, onde aguardaram até que ele saísse de sua casa para realizar uma suposta entrega de entorpecente, ocasião em que foi abordado. Na oportunidade, nada de ilícito foi com Rogério encontrado, tampouco em seu veículo GM/Corsa, de placas [PLACA]/São Paulo-SP.
+Contudo, após ser indagado Rogério acabou confessando os fatos, bem como conduziu os investigadores até o interior de sua residência localizada na rua  .. , onde lhes apontou precisamente o esconderijo dos entorpecentes, isto é, no interior do guarda roupas de seu quarto; apreendeu-se mais de 215g de cocaína, acondicionada em um saco plástico, bem como a quantia de R$ 900,00 em dinheiro.
+Ato contínuo, novamente indagado, Rogério confirmou a existência de mais entorpecentes, alojados na residência localizada na rua  .. , onde então se deu continuidade às diligências.
+Frise-se que esse local foi revelado nas interceptações telefônicas como sendo de frequência rotineira dos apelantes, sobretudo de Rogério.
+E lá chegando, constatou-se que a casa era efetivamente utilizada como depósito da associação criminosa, porquanto em seu interior foram localizados 12 tijolos de maconha, totalizando quase 14 kg do entorpecente, bem como 3 grandes porções de cocaína, sendo uma prensada e duas acondicionadas em sacos plásticos distintos, encerrando quase 2 kg de cocaína.
+Ainda nessa residência foram encontrados 53 cartuchos íntegros de calibre 38SPL, bem como inúmeros petrechos destinados ao preparo e embalo das drogas, entre eles colheres, faca, peneiras, bacias, liquidificador, balança, prensa, todos com resquícios de substâncias entorpecentes, inclusive 2 sacos contendo pó branco, comumente utilizado para o rendimento das porções de cocaína.
+Ante os fatos, Rogério foi preso em flagrante.
+Em seguida, cediço de que os entorpecentes e a munição localizados seriam de propriedades de todos os apelantes, desencadeou-se nova diligência visando à prisão de [NOME] e [NOME], os quais se encontravam no Bairro  .. .
+Chegando ao local os investigadores obtiveram sucesso em surpreender [NOME] defronte a sua residência, situada na rua  .. , ocasião em que foi abordado, revistado e conduzido ao interior de sua casa, onde, após minuciosa revista, foi encontrado um saco plástico transparente, contendo várias pedras grandes de crack, ainda na forma bruta, acondicionada sobre a caixa de descarga do vaso sanitário, com peso aproximado de 287g.
+O esconderijo já era de conhecimento dos policiais, uma vez que declinado pelo próprio [NOME] em meio à ligação interceptada durante as investigações regressas.
+Nesse momento, [NOME] foi preso em flagrante delito.
+Por fim, os investigadores deixaram a residência de [NOME], com vistas à localização do apelante [NOME].
+Ocorre que, ao saírem da residência de [NOME], de plano os policiais se depararam com [NOME], na companhia de outros indivíduos, conduzindo o veículo GM/Astra, de cor preta, pelo que proferiram ordem de parada, a qual foi ignorada.
+Não obstante, o apelante [NOME], decidido a fugir do local, opôs-se à ordem dos investigadores, bem como, mediante grave ameaça, avançou com o veículo em direção ao policial [NOME], e desferiu dois tiros contra ele, logrando êxito em impedir a execução de ato legal.
+Diante dos fatos, [NOME] e Rogério foram presos em flagrante, não se logrando deter [NOME] em razão de sua resistência.
+A condenação dos acusados, nos moldes em que lançada em primeiro grau era medida de rigor, devendo prevalecer.
+Tanto a autoria quanto a materialidade restaram devidamente comprovadas pelas provas documentais, a saber, auto de prisão em flagrante delito (fls. 02/03), boletim de ocorrência (fls. 18/25), auto de exibição e apreensão (fls. 26/37), laudo de constatação provisório (fls. 43/46), caderno com anotações para o tráfico (fls. 90/96), exame químico toxicológico definitivo com resultado positivo para maconha e cocaína (fls. 129/141, 179/183), laudo pericial realizado nos objetos apreendidos - prensa, maca hidráulico (fls. 179/190), laudo pericial das interceptações telefônicas (fls. 199/210), laudo pericial realizado na bacia, liquidificador, facas, colheres apreendidas, constatando a existência de resquícios de cocaína (fls. 240/250) e pela prova oral produzida tanto na fase policial quanto em juízo (fls. 05/08,10/16, 385/409, 419/459).
+[NOME] negou a prática dos delitos, inclusive o crime de resistência. Afirmou que  .. .
+O acusado [NOME] também negou a prática do delito. Afirmou que  .. .
+Rogério, igualmente, afirmou que não praticou o crime. Contou que  .. .
+As exculpatórias dos acusados, no sentido de que não praticaram o delito, insinuando que as drogas foram "plantadas", e que os policiais nada encontraram nas casas dos acusados, ou que não conheciam a residência da Rua  .. , restaram isoladas no conjunto prova.
+O policial civil [NOME] (fls. 395/408), narrou em detalhes a ocorrência dos fatos. Contou em juízo que  .. .
+E os depoimentos do policial civil Fernando, em todas as fases, ainda se confirmou pelo laudo da interceptação telefônica colacionado aos autos.
+Ha diálogos de [NOME], Rogério e [NOME] (fls. 204), [NOME] e [NOME] (fls. 205), de [NOME] com Rogério (fls. 206), [NOME] e Rogério (fls. 208), todos referentes a acertos de comercialização de droga e até mesmo de preparo, como, por exemplo, da compra de bicarbonato de cálcio para o preparo das substâncias entorpecentes, confirmando toda a dinâmica relatada pelo policial Fernando.
+Verifica-se, ainda, o Diálogo de Clebio com sua esposa, de quando havia a viatura policial defronte a sua residência e ele afirmou para que dispensasse a droga.
+E mais, no mesmo sentido está o depoimento do Delegado de Polícia (fls. 385/394) que, a despeito de não ter participado da apreensão das drogas, presidiu o inquérito e participou das investigações.
+Assim, temos que os policiais prestaram depoimentos coerentes e concisos em ambas as sedes, sendo que narraram os fatos com precisão e riqueza de detalhes, contando como se deu a abordagem policial.
+Desse modo, não há qualquer elemento nos autos que permita afastar as falas dos policiais civis ouvidos, sendo certo que os réus Clebio e Rogério foram surpreendidos tendo em depósito grande quantidade de drogas, dinheiro, munição, petrechos para o fracionamento, e não apresentaram justificativa plausível para tanto. O réu [NOME], ainda, resistiu à abordagem policial.
+ ..
+Assim, não é crível a versão da defesa no sentido de que os policiais civis não encontraram drogas com os apelantes.
+ ..
+As falas destes profissionais possuem fé-pública, sendo seus depoimentos dignos de crédito e plena validade, mesmo porque não restou provada qualquer intenção dos servidores em, de alguma forma, prejudicar os réus, sendo certo que sendo certo que policiais não perambulam pelas imputando crimes a inocentes, por mero capricho.
+ ..
+Não há nos autos sequer indícios de que os policiais e os demais envolvidos nas diligências tivessem motivos para imputar falsamente aos réus a prática de crimes tão graves.
+ ..
+Assim, as circunstâncias nos presentes casos, as investigações realizadas, a assombrosa quantidade de drogas apreendidas, variedade, os petrechos, as munições, o fato de destinarem um local para a realização da traficância, as denúncias anônimas, tudo isso indica que as drogas que os acusados tinham em depósito destinavam-se à vil mercancia.
+Por outro lado, as versões apresentadas pelos réus não foram coerentes e harmônicas, sendo que se limitaram a negar os fatos, aduzindo que estavam sendo falsamente acusados pelos policiais civis o que, repise-se, não restou demonstrado.
+Vejamos.
+Desse modo, inviável também a absolvição de quaisquer dos réus, ficando demonstrado que praticavam o tráfico nos locais dos fatos.
+ ..
+No mais, os elementos probatórios trazidos foram hábeis a demonstrar a associação entre os todos réus. Restou comprovado das interceptações telefônicas, que foram confirmadas em juízo pelos depoimentos dos policiais civis, que as investigações duraram por cerca de dois meses, período este em que se ouvia a comercialização e transporte e preparação da droga por todos esses réus.
+Inclusive, durante o trabalho de investigação feito pela polícia civil, constatou-se que a traficância ocorria de forma extremamente organizada, sendo que havia um local que os apelantes alugavam e tinham inclusive uma prensa para a preparação dos entorpecentes.
+Desse modo, nítido que a associação dos réus não era meramente eventual, havendo estabilidade do vínculo associativo, sendo que há tempos estavam traficando drogas naquele local, de forma organizada.
+ ..
+Verifica-se, ainda, que os apelantes possuíam munições de uso permitido no imóvel que os três utilizavam para o depósito da substância entorpecente, conduta esta que a defesa sustenta que estaria abrangida pela descriminalização temporária dada ao longo dos tempos pela extensão dos prazos dos arts. 30, 31 e 32 da Lei nº 10.826/2003.
+ ..
+Desse modo, a conduta dos réus, de possuírem na residência que utilizavam para o depósito de entorpecentes, é material e formalmente típica.
+Alegam os apelantes que não ficou demonstrada a propriedade das munições. Contudo, por óbvio, a posse era de todos os réus, já que todos eles utilizavam o imóvel da Rua  .. , tanto que foi Rogério quem indicou aos policiais civis o local, e, naquela mesma data, [NOME] desferiu tiros contra o investigador [NOME], resistindo a sua prisão.
+No mais, tampouco há que se falar em atipicidade porque as munições não estavam na residência do acusado, porque a residência em tela estava na posse dos apelantes que utilizavam para o deposito das drogas.
+No mais, também restou configurado o delito de resistência, pois consoante declarações do policial civil Fernando, a despeito da viatura ser descaracterizada, o sinal sonoro e luminoso já estava acionado, e, portanto, [NOME] já sabia que o sinal de parada estava sendo feito por funcionário competente a executá-lo. Aliás, a resistência se deu da forma qualificada, pois em razão dela os policiais não conseguiram realizar a prisão do apelante.
+Assim, as condenações dos apelantes devem ser mantidas, não havendo que ser modificadas.
+IV. Pleito absolutório
+A defesa postula a absolvição dos réus, em relação aos crimes de tráfico de drogas, associação para o tráfico, posse irregular de arma de fogo de uso permitido e resistência.
+Pela leitura dos excertos transcritos, verifica-se que a Corte local, após toda a análise do conjunto fático-probatório amealhado aos autos, concluiu haver elementos concretos e coesos a ensejar a condenação dos agravantes, pelos crimes tipificados nos arts. 33, caput, e 35 da Lei n. 11.343/2006 e 12 da Lei n. 10.826/2003, bem como, no que tange ao réu [NOME], como incurso no art. 329, § 1º, do Código Penal.
+Ao justificar a condenação dos agravantes, o Juízo singular ressaltou a prévia investigação da autoridade policial, o resultado das interceptações telefônicas, as circunstâncias fáticas que levaram à prisão em flagrante de dois acusados e à fuga do réu [NOME], as declarações dos próprios acusados em âmbito judicial e, também, os depoimentos prestados por testemunhas sob o crivo do contraditório. Dessa forma, observo que a condenação foi embasada tanto em elementos informativos quanto em provas colhidas sob o crivo do contraditório judicial.
+Relativamente ao crime previsto no art. 35 da Lei n. 11.343/2006, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo penal, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+Nesse sentido: "nos termos da jurisprudência desta Corte Superior de Justiça e do Supremo Tribunal Federal, para configuração do tipo de associação para o tráfico, necessário estabilidade e permanência na associação criminosa" (HC n. 248.844/GO, Rel. Ministra Laurita Vaz, 5ª T., DJe 28/5/2013, grifei).
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado um mero concurso de agentes para a prática do crime de tráfico de drogas.
+Na espécie, o acórdão recorrido foi claro ao demonstrar, com base nas provas amealhadas aos autos, a existência de vínculo estável e duradouro entre os réus para a prática do comércio ilegal de drogas.
+Portanto, pelas razões expostas pelo Tribunal de origem, mostra-se inviável a absolvição dos acusados, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, contanto que o faça fundamentadamente, exatamente como verificado nos autos.
+Ademais, para entender pela absolvição dos agravantes, seria imprescindível o reexame do acervo fático-probatório amealhado aos autos, procedimento vedado em recurso especial, por força da Súmula n. 7 do STJ.
+Ilustrativamente:
+ ..
+1. Para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+2. As instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação dos agravantes pelo crime de associação para o tráfico de drogas, de maneira que, para se concluir pela insuficiência de provas para a condenação, seria necessário o revolvimento do suporte fático-probatório delineado nos autos, procedimento vedado em recurso especial, a teor do Enunciado Sumular n. 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 303.453/RJ, Rel. Ministro Rogerio Schietti, 6ª T., DJe 30/5/2017, destaquei)
+Logo, não conheço do recurso especial.
+V. Execução imediata da pena
+Ante o esgotamento das instâncias ordinárias - como no caso -, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+VI. Dispositivo
+À vista do exposto, reconsidero a decisão agravada e, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Por fim, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena imposta. A determinação deve ser desconsiderada caso os agravantes já cumpram a reprimenda.
+Publique-se e intimem-se.
