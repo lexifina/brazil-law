@@ -1,0 +1,37 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. ROMPIMENTO DE PRÓTESE MAMÁRIA. DEFEITO DE FABRICAÇÃO. NÃO COMPROVADO. VIOLAÇÃO AO DEVER DE INFORMAÇÃO. NÃO VERIFICADA. INCIDÊNCIA DA SÚMULA 7/STJ, PELAS ALÍNEAS A E C, III, ART. 105, DA CF. 2. AUSÊNCIA DE PREQUESTIONAMENTO. ART. 186 DO CC. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULAS N. 282 e 356 DO STF, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. 3. RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ, fl. 875):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ROMPIMENTO DE PRÓTESE MAMÁRIA. NECESSIDADE DE CIRURGIA PARA SUBSTITUIÇÃO DO IMPLANTE. FATO DO PRODUTO. DEFEITO DE FABRICAÇÃO. NÃO  DEMONSTRADO . VIOLAÇÃO AO DEVER DE INFORMAÇÃO. NÃO VERIFICADO. RESPONSABILIDADE DA FABRICANTE. NÃO CONFIGURADA. IMPROCEDÊNCIA MANTIDA. HONORÁRIOS RECURSAIS. FIXADOS. CPC/2015. RECURSO NÃO PROVIDO.
+Nas razões do apelo especial, a recorrente alega, além da existência de divergência jurisprudencial, violação dos arts. 12 do Código de Defesa do Consumidor e 186 do Código Civil, sob as seguintes assertivas:
+(i) a responsabilidade do fornecedor do produto é objetiva, haja vista ser inerente à atividade por este desempenhada, razão pela qual a recorrida deve responder pelo rompimento da prótese mamária; e
+(ii) ocorrência de dano moral, independente de culpa, considerados os abalos à integridade física e psíquica por ela suportados.
+Contrarrazões às fls. 897-909 (e-STJ).
+O apelo extremo foi admitido na origem (fls. 912-914, e-STJ), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+Inicialmente, cabe observar que a jurisprudência deste Superior Tribunal de Justiça é no sentido de que a responsabilidade do fabricante pelos danos causados aos consumidores por defeitos de fabricação do produto é objetiva, contudo, há que se comprovar o defeito do produto e o nexo de causalidade entre o defeito e o evento danoso.
+A propósito:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. RESPONSABILIDADE OBJETIVA. ELEMENTOS. ÔNUS DA PROVA.
+1.- A responsabilidade civil do fabricante de produtos destinados a consumo, conquanto de ordem objetiva, não se estabelece sem que comprovado o defeito do produto e o nexo de causalidade entre esse defeito e o evento danoso.
+2.- No caso dos autos o Tribunal de origem afirmou expressamente que não estavam provados nenhum desses elementos, de modo que a pretensão indenizatória formulada em recurso especial, porque assentada na premissa fática contrária, esbarra na Súmula 07/STJ.
+3.- Agravo Regimental a que se nega provimento.
+(AgRg no AREsp 208.145/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 20/09/2012, DJe 04/10/2012)
+Ademais, os riscos normais e previsíveis, em decorrência da natureza ou da fruição do produto, são absolutamente admissíveis e, por consectário lógico, não o tornam defeituoso, impondo-se ao fornecedor, em qualquer hipótese, a obrigação de conferir e prestar informações suficientes e adequadas a seu respeito.
+No caso, a Corte de origem, soberana na análise dos elementos fáticos e probatórios dos autos, corroborando a sentença, concluiu que não ficou provado defeito no produto, nem descumprimento do dever de informação, conforme se verifica dos trechos a seguir transcritos (e-STJ, fls. 878-880):
+Perguntado sobre a possibilidade do rompimento ter decorrido de defeito do produto, disse o cirurgião plástico nomeado perito pelo Juízo que: Sim, há a possibilidade de ruptura por falha do produto, entretanto, sem um laudo técnico do estado das próteses quando da ruptura, não é possível afirmar se houve ou não referida falha do produto (quesito 6 - fl. 499).
+Desse modo, ante a impossibilidade de avaliar a prótese apontada como defeituosa e, uma vez que as demais provas produzidas nos autos não evidenciam, de forma indene de dúvidas, que a ruptura do implante decorreu de falha na fabricação do produto, não há como atribuir responsabilidade à ré pelo rompimento do implante.
+Até porque, além de defeito na fabricação, a ruptura das próteses pode ocorrer por diversas causas, inclusive naturais, como uma contratura capsular (quesito 9 - fl. 495), o que, aliás, pode ter sido o motivo do rompimento da primeira prótese colocada na autora, como se verifica do relatório de cirurgia de fl. 30.
+E, como disse o perito, não há nenhum tipo de implante mamário que pode ser considerado vitalício, não se podendo prever com precisão o tempo de duração de um implante de silicone (quesito 2 - fl. 494).
+Oportuno ressaltar, ainda, que não há como aceitar que a autora, acreditando ser o produto defeituoso e pensando em acionar a apelada para cobrar os danos que teriam decorrido da suposta falha, sequer pensou em preservá-lo para eventual exame técnico.
+E não se fale em descumprimento do dever de informação pela fabricante em relação à necessidade de comunicação e devolução das próteses explantadas.
+Isso porque o manual de instruções sempre acompanha o produto na caixa, sendo dever do cirurgião apresentar todos os riscos e procedimentos inerentes ao produto adquirido e, após a intervenção cirúrgica, entrega-lo ao paciente (quesito 3 - fl. 551).
+Nesse manual, constam todas as informações relativas às próteses, tais como advertências, riscos, garantia, assim como o protocolo de devolução das próteses retiradas para análise (fls. 142, 145, 150 e 151), não havendo como atribuir à fabricante a obrigação de acompanhar individualmente cada produto vendido para saber se houve algum problema, se precisam ser devolvidos para avaliação, entre outras questões, como pretende a recorrente.
+O que se estranha é o fato da autora ter usado a garantia que consta no manual por ocasião do primeiro rompimento da prótese, substituindo-a por uma da mesma marca, e agora alegar desconhecimento acerca dos procedimentos a serem tomados em casos como esse.
+Acrescente-se a isso o fato de que o médico que fez a segunda cirurgia na autora, Dr. [NOME], informou apenas não lembrar de como teria ocorrido a advertência relativa ao rompimento dos implantes no caso da apelante, mas que existe um procedimento padrão nesse sentido, ou seja, ao que tudo indica, as informações foram repassadas para a paciente (fl. 653).
+Assim, a controvérsia foi solvida sob premissas fáticas, inviáveis de reexame no recurso especial. Dessa maneira, como é cediço, aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+Outrossim, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas da Constiuição Federal.
+Em relação à ofensa ao art. 186 do Código Civil, constata-se que a matéria inserta no referido dispositivo não foi objeto de debate pela Corte de origem, tampouco foram opostos embargos de declaração a fim de provocar o pronunciamento do Colegiado.
+Incide, portanto, por analogia, o óbice disposto nas Súmulas 282 e 356 do STF, por ambas as alíneas do permissivo constitucional.
+Diante do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor atualizado da causa.
+Publique-se.
