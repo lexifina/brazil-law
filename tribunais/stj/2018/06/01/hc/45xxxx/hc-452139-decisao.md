@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de Sergipe, que recebeu a denúncia nos autos da Ação Penal n. 201700321302 (fl. 24):
+AÇÃO PENAL ORIGINÁRIA - CRIMES DE FALSIDADE IDEOLÓGICA (ART. 299 DO CP) E PECULATO (ART.312 DO CP), EM CONCURSO MATERIAL - RATIFICAÇÃO DO RECEBIMENTO DA DENÚNCIA - PEÇA ACUSATÓRIA INICIALMENTE RECEBIDA PELO JUÍZO DE PRIMEIRO GRAU - PREENCHIMENTO DOS REQUISITOS DO ARTIGO 41 DO CPP - PRESENÇA DE JUSTA CAUSA - RECEBIMENTO UNÂNIME.
+Se a denúncia está, formalmente, perfeita, retratando um crime em tese e possuindo sustentação nos elementos colhidos no decorrer do procedimento investigatório, seu recebimento é a regra, deixando-se às partes a oportunidade de trazer aos autos, no curso da instrução criminal, as provas de que dispõem. Denúncia recebida.
+Alega-se na impetração que diante da ausência de descrição e direcionamento dos tipos penais anotados na denúncia ao paciente [NOME], cabe a este pugnar pela aplicação do art. 41, do CPP, para que seja reconhecida e inépcia da inicial acusatória, dado que a continuidade processual nos ditames expostos feriria em grande monta o contraditório, a ampla defesa e todos os demais princípios inerentes ao acusado.
+Requer, em liminar, a suspensão da Ação Penal n. 201700321302 e, no mérito, o seu trancamento.
+É o relatório.
+A ilegalidade apontada não está configurada nos autos.
+A jurisprudência desta Corte é tranquila no sentido de que o trancamento do inquérito ou da ação penal é medida de exceção, possível somente quando inequívoca a inépcia da denúncia e a ausência de justa causa, o que não se verifica na hipótese, na qual o acórdão impugnado, com ampla e suficiente fundamentação, entendeu devidamente preenchidos os requisitos contidos no artigo 41 do CPP (fl. 28):
+No momento, cabe examinar, tão somente, se a denúncia preenche os requisitos previstos no artigo 41 do Código de Processo Penal, que assim estabelece:
+"Art. 41. A denúncia ou queixa conterá a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá- lo, a classificação do crime e, quando necessário, o rol das testemunhas."
+Em suas defesas prévias, os denunciados, na realidade, refutam a acusação, afirmando não haver provas das alegações ministeriais e que não cometeram os delitos descritos na denúncia.
+Ao proceder à leitura da denúncia, constato que os fatos narrados constituem, em tese, as condutas típicas previstas nos arts. 299 e 312 do CP, ou seja, os crimes de falsidade ideológica e peculato.
+A denúncia descreveu, pormenorizadamente, como se deu a suposta prática delitiva e, segundo a aludida peça, consistiu na nomeação de "funcionário fantasma", lotado no Gabinete do então Deputado Estadual Antônio [NOME] [NOME], ora denunciado, com o fito de se apropriarem de recursos públicos para beneficiarem-se ou a terceiros, além de inserirem em documentos públicos e particulares declarações diversas daquelas que deviam ser escritas.
+Outrossim, a inicial está calcada no Inquérito Policial n. 2015/06520.2-000005, do qual se extraem elementos que revelam indícios suficientes de autoria e comprovam a materialidade delitiva.
+Assim, não obstante as bem lançadas defesas preliminares, o certo é que a denúncia preenche os requisitos do art.41 do CPP, e, além disso, os elementos probatórios colhidos até então, sem o crivo do contraditório, não autorizam conclusão diversa, como também não permitem, de logo, a improcedência da pretensão punitiva estatal.
+Com efeito, inviável a pretensão manifestada pelo impetrante, sendo certo que a tese da Defesa, relativa à inexistência da prática delitiva pelo paciente, poderá ser suscitada oportunamente, no curso da instrução criminal, sob o crivo do contraditório, com ampla possibilidade de produção e análise de provas.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
