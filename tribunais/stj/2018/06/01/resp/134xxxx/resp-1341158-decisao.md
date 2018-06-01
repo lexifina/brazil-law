@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL - SENAC, na vigência do CPC/73, com base nas alíneas a e c do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+"TRIBUTÁRIO E PROCESSO. CIVIL. ILEGITIMIDADE AD CAUSAM DO SESC E SENAC. CONTRIBUIÇÃO AO SESC/SENAC. ART. 3º, DO DECRETO-LEI Nº 9.853/46. ART. 4º, DO DECRETO-LEI Nº 8.621/46. ART. 577, DA CLT. ART. 240,.DA CF/88. PRESTADORA DE SERVIÇO. HONORÁRIOS. ART. 20, § 4º, DO CPC.
+1. Inexistência de relação jurídico-tributária entre o SESC e o SENAC e a parte autora (contribuinte), já que, no Direito Tributário, não há solidariedade ativa. Extinção do processo, sem resolução do mérito, com relação às referidas organizações sociais.
+2. As contribuições para o SESC e SENAÇ são previstas, respectivamente, no art. 3º, do Decreto-Lei nº 9.853/46, e no art. 4º, do Decreto-Lei nº 8.621/46, ,sendo devidas também pelas empresas prestadoras de serviço, já que se enquadram no conceito de empresa de acordo o art. 577, da CLT, e seu anexo e a nova ordem constitucional (art. 240, da CF/88) . Precedentes do STJ.
+3. Conforme dispõe o art. 240, da CF/88, as contribuições para o SESC e SENAC são contribuições sociais gerais, não possuindo natureza de contribuição social de interesse de categoria profissional. (STJ, Ag no Resp 800955/RJ, Relator Ministro Luiz Fux, 1ª Turma, DJ 16/11/2006).
+4. Redução do percentual da verba honorária de 20% para 10%, em observância aos critérios do § 4º do art. 20 do CPC.
+5. Extinção do processo, sem resolução do mérito, com relação ao SESC e SENAC, apelação da parte autora parcialmente provida" (fls. 517/518e).
+Opostos Embargos de Declaração, foram eles rejeitados (fls. 530/534e).
+A parte recorrente alega violação aos arts. 535 e 47, ambos do CPC/73 e 4º do Decreto-Lei 8.621/46, sustentando que existe contradição no acórdão proferido pelo Tribunal de origem, não suprida em sede de embargos de declaração.
+Aduz, ainda, que "a situação ora em exame é de típico litisconsórcio necessário"; que sendo o recorrente o principal beneficiário da contribuição discutida nos autos, não há como se falar em inexistência de relação jurídico-tributária entre as partes; que "se uma das partes tivesse que ser excluída da lide, deveria ser o INSS - que é mero ente arrecadador das contribuições em tela - mas jamais o ora Recorrente, que tem todo o interesse no recebimento das mesmas e delas depende para seu custeio e manutenção de suas atividades, essenciais ao Estado" (fl. 552e).
+Requer, por fim, o provimento do Recurso Especial para que seja reconhecida sua legitimidade para figurar no polo passivo da lide (fls. 538/554e).
+Não foram apresentadas as contrarrazões (fls. 580/581e).
+O Recurso Especial foi admitido, pelo Tribunal de origem (fls. 588/589e).
+O presente recurso não merece prosperar.
+Em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Quanto à alegada ofensa aos arts. 47 do CPC/73 e 4º do Decreto-Lei 8.621/46, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada aos dispositivos tidos como violados não foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ainda que não fosse o caso de se aplicar o referido óbice, cumpre ressaltar que a jurisprudência desta Corte firmou-se no sentido de que é o INSS, na qualidade de agente responsável pela fiscalização e arrecadação das contribuições para o SESC e SENAC, quem deve integrar o polo passivo das demandas em que se discute a inexigibilidade desses tributos.
+Nesse sentido:
+"TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. SESC E SENAC. LEGITIMIDADE DO INSS.
+1. Como órgão responsável pela fiscalização e arrecadação da contribuição social, é o INSS parte legítima para figurar no pólo passivo de demanda em que se discute a legitimidade da exação.
+2. Recursos especiais providos" (STJ, REsp 555.214/MG, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJ de 25/10/2004).
+"RECURSO ESPECIAL - ALÍNEAS "A" E "C" - TRIBUTÁRIO - CONTRIBUIÇÃO PARA O SESC E O SENAC - EMPRESA PRESTADORA DE SERVIÇOS - LEGITIMIDADE DO INSS - AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS DE LEI FEDERAL INDICADOS - DIVERGÊNCIA JURISPRUDENCIAL SUPERADA. INCIDÊNCIA DA SÚMULA 83 DO STJ. PRECEDENTES.
+Quanto à questão da legitimidade do INSS nas demandas em que se questiona a legitimidade para o recolhimento da contribuição destinada ao SESC e ao SENAC pelas empresas prestadoras de serviço, não logra perspectiva de êxito o recurso especial da autarquia recorrente.
+A par da ausência de prequestionamento dos dispositivos de lei federal indicados pela recorrente, quais sejam, arts. 4º dos Decretos-Leis ns. 8.621/46 e 9.853/46 e 3º do CPC, verifica-se que ambas as Turmas que compõem a colenda Primeira Seção deste Sodalício já firmaram o entendimento de que o INSS é parte legítima para figurar no pólo passivo de tais ações.
+Precedentes: REsp 404.606/RS, Relator Min. Castro Meira, DJU 28/10/2003; REsp 605.701/PR, Relator Min. José Delgado, DJU 03.05.2004, e decisão proferida no REsp 582.691/SC, da relatoria deste magistrado, DJU 31.05.2004.
+Recurso especial não-conhecido" (STJ, REsp 447.250/PR, Rel. Ministro FRANCIULLI NETTO, SEGUNDA TURMA,DJ de 21/02/2005).
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do Recurso Especial, e, nessa parte, nego-lhe provimento.
+I.
