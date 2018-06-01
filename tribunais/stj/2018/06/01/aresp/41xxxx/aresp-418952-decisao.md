@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] E OUTROS contra decisão, exarada pela il. Vice-Presidência do eg. Tribunal de Justiça do Estado do Mato Grosso do Sul (TJ-MS), que inadmitiu seu recurso especial.
+Historiam os autos que [NOME] E OUTROS ajuizaram "ação de cobrança" (fls. 02-10) em desfavor de RODOGRANDE TRANSPORTES RODOVIÁRIOS LTDA., cujo pedido foi julgado improcedente, conforme sentença às fls. 120-123.
+Diante disso, [NOME] E OUTROS interpuseram apelação, que foi parcialmente conhecida e, nessa parte, desprovida pelo eg. TJ-MS, nos termos do v. acórdão assim ementado (fls. 145):
+"EMENTA - APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - JUÍZO DE ADMISSIBILIDADE - CONTRATO DE TRANSPORTE HIPOSSUFICIÊNCIA DO MOTORISTA AUTÔNOMO FACE À TRANSPORTADORA E EXISTÊNCIA DE VÍCIO DE CONSENTIMENTO - INOVAÇÃO DA LIDE - MATÉRIA NÃO CONHECIDA - MÉRITO - EXISTÊNCIA DE PRETENSO SALDO DE FRETE E ESTADIAS - JUNTADA DE COMPOSIÇÕES DE FRETE SUBSCRITAS PELOS MOTORISTAS AUTÔNOMOS - TRANSAÇÃO REALIZADA - FALTA DE COMPROVAÇÃO DO FATO CONSTITUTIVO DO DIREITO RECLAMADO NA PETIÇÃO INICIAL - RECURSO CONHECIDO EM PARTE E, NESTE PARTICULAR, NÃO PROVIDO.
+I. Não se conhece do recurso na parte em que acrescenta, em grau recursal, causas de pedir remota e próxima, sob pena de acarretar indevida supressão de instância, além de ofensa aos princípios do contraditório, da ampla defesa e do devido processo legal, exatamente porque a parte ex adversa, em relação a elas, não deteve oportunidade de discutir e fazer provas em sentido contrário.
+II. A subscrição, pelo motorista autônomo, da composição de frete faz presumir a inexistência do direito ao percebimento de estadias ou saldo de frete.
+III. À mingua de outras prova no sentido de aclarar a existência de saldo de frete e o direito ao percebimento de estadias, o pedido de cobrança deve ser julgado improcedente."
+Os embargos de declaração opostos foram rejeitados (acórdão às fls. 163-169).
+Inconformados, [NOME] manejaram recurso especial (fls. 172-184), com arrimo nas alíneas "a" e "c" do permissivo constitucional, alegando, além de divergência jurisprudencial, ofensa ao art. 11, §5º, da Lei n. 11.442/2007, ao argumento, entre outros, de que "(..) mesmo diante do texto legal de eficácia plena que determina o pagamento de estadia, bem como das provas nos autos de que os Recorrentes realmente tiveram de esperar por 09 dias para descarregar suas cargas, tanto o magistrado de primeiro grau, quanto a Colenda 3ª Câmara do TJMS julgaram improcedente a pretensão dos Recorrentes, sem aplicar a lei ou justificar a sua não aplicação" (fls. 176).
+Afirmam, também, que o cerne da presente lide "(..) cinge-se no fato de que a Lei Federal que determina a aplicação do pagamento de estadia para os casos em que os transportadores permaneçam por mais de 05 horas esperando pela descarga, o que não foi sequer apreciado pelo magistrado de primeiro grau, assim como em grau de recurso" (fls. 189).
+Aduzem, ainda, que "(..) evidente a ocorrência de danos materiais, pois o autor teve o seu caminhão que explica economicamente para a sua sobrevivência e de sua família retido por 09 dias aguardando desembarque da mercadoria" (fls. 179).
+Não foram apresentadas contrarrazões, conforme certidão à fls. 186.
+Como dito, o recurso foi inadmitido (decisão às fls. 187-190), motivando o manejo do presente agravo em recurso especial (fls. 192-199).
+Tampouco foi oferecida contraminuta, conforme certidão à fl. 201.
+É o relatório. Passo a decidir.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+A irresignação não merece prosperar.
+Conforme relatado, os então recorrentes, ora agravantes, sustentam ofensa ao art. 11, §5º, da Lei n. 11.442/2007, que assim dispõe, in verbis:
+ "Art. 11. O transportador informará ao expedidor ou ao destinatário, quando não pactuado no contrato ou conhecimento de transporte, o prazo previsto para a entrega da mercadoria.
+(..)
+ §5º Atendidas as exigências deste artigo, o prazo máximo para carga e descarga do veículo de transporte Rodoviário de Cargas será de 5 (cinco) horas, contadas da chegada do veículo ao endereço de destino, após este preíodo será devido ao TAC ou à ETC o valor de R$1,00 (um real) por tonelada/hora ou fração"
+(Redação anterior à Lei n. 13.103/2015)
+Suscitando malferimento a tal norma, os recorrentes afirmam que tiveram que aguardar por 09 (nove) dias para que a então recorrida, ora agravada, realizasse a descarga dos caminhões, logo, pretendem o "(..) pagamento de valores, correspondentes as estadias do período de 30 de setembro de 2009 até 09 de outubro de 2009" (fls. 184 - destaques no original).
+Por outro lado, o eg. TJ-MS, soberano na análise do acervo fático-probatório carreado aos autos, concluiu que os então promovente, ora agravantes, não comprovaram suas alegações, mormente quanto ao atraso da ora recorrida em realizar a descarga dos caminhões, logo, entendeu por não comprovado o fato constitutivo do pretendido direito dos recorrente. É o que se infere da leitura do seguinte excerto do v. acórdão estadual (fls. 149-150):
+ "Inexistência de prova do fato constitutivo do direito reclamado
+ Como relatado, a pretensão de cobrança aviada pelos requerentes, ora apelantes, está consubstanciada na falta de pagamento de um saldo de frete, que não fora adiantado na carta-frete, bem como o pagamento das estadias pelo período que permaneceram impossibilitados de descarregar a carga no destino contratado.
+ A empresa requerida sustentou, em contestação, que o pleito é indevido, porquanto firmou com cada motorista uma nota de composição, que encerrou um acordo quanto ao pagamentos dos referidos fretes.
+ Como se percebe, a lide circunscreve-se na verificação da prova do fato constitutivo do direito reclamando na inicial, em cotejo com o exame de eventual prova de fato impeditivo, modificativo ou extintivo do direito pretendido.
+ E, sobre este aspecto, a Lei Processual vigente estabelece categoricamente em seu art. 333, in verbis:
+(..)
+ Seguindo esta intelecção, evidentemente que cabia aos requerentes fazer prova de que, de fato, é-lhes devido um saldo de frete, que não fora adiantado na carta-frete, além da existência do atraso no descarregamento da carga, ocasionado por culpa da requerida, sob pena de ver o pedido não acolhido pelo Estado-Juiz.
+ Por outro lado, à requerida cabia comprovar o pagamento integral do frete e das estadias, ou mesmo qualquer outro fato que impedisse, modificasse ou extinguisse o direito reclamado.
+ No caso vertente, como bem ressaltado pelo julgador monocrático, as provas dos autos corroboram a tese da requerida, no sentido de que os requerentes subscreveram com a requerida uma composição de frete, formalizando uma transação.
+(..)
+ Em vista desta verificação, considerando-se que as partes transacionaram em relação aos fretes reclamados nos autos, não há como acolher a tese de que há saldo de frete em favor dos motoristas, que pretensamente não lhes fora pago pela requerida.
+ Do mesmo modo, tendo em vista que restou ofertada a quitação por meio da subscrição das composições de frete, juntadas à f. 70-72, não há como presumir, em desfavor da requerida, a existência do direito de os requerentes receberem estadias pelo período de 30 de setembro de 2009 até 09 de outubro de 2009, mormente porque, como já mencionado, as provas coligidas aos autos confirmam a tese defensiva.
+ Deveriam os requerentes produzir outras provas do fato alegado na inicial, a exemplo de depoimentos testemunhais sobre a existência de saldo a receber, ou mesmo em relação ao período que ficaram impossibilitados de descarregar a carga, sob pena de a incúria ser interpretada em seu desfavor." (grifou-se)
+Com efeito, a alteração do entendimento ora transcrito, sob alegada ofensa ao art. 11, §5º, da Lei n. 11.442/2007, demandaria o revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, conforme preconiza a Súmula n. 7/STJ.
+Nesse panorama, conclui-se que o presente apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "b", do RI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
