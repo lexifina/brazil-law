@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] DO PRADO contra decisão de minha lavra que deu provimento ao recurso ministerial para alterar o seu regime inicial de cumprimento da pena do aberto para o semiaberto (e-STJ, fls. 1.482-1.488)
+A defesa aponta contradição na decisão recorrida, sob o argumento de que "houve análise factual ao se afirmar que "a quantidade da droga apreendida" e as "circunstâncias" em que os fatos ocorreram autorizam estabelecer o regime prisional inicial do embargante no semiaberto." (e-STJ, fls. 1.498-1.499)
+Requer, assim, seja sanada a contradição apontada.
+É o relatório.
+Decido.
+O inconformismo do recorrente não merece acolhimento.
+Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, obscuridade ou, segundo a jurisprudência e doutrina, erro material existente no julgado.
+Ao contrário do afirmado pelo embargante, no tocante ao regime prisional, a decisão ora impugnada enfrentou satisfatoriamente a contrariedade dos arts. 33, § 3.º e 59, caput e III, do Código Penal, suscitada pelo Ministério Público. Por oportuno, confiram-se os fundamentos adotados na hipótese:
+"Como é cediço, a obrigatoriedade do regime inicial fechado aos sentenciados por crimes hediondos e aos a eles equiparados não mais subsiste, diante da declaração de inconstitucionalidade, incidenter tantum, do § 1º do art. 2º da Lei n. 8.072/1990, pelo Supremo Tribunal Federal, no julgamento do HC 111.840/ES (em 27/7/2012).
+Na identificação do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal, e, na hipótese de condenado condenação por crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006, segundo o qual serão consideradas com preponderância a natureza e a quantidade de substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal.
+Em relação ao recorrido [NOME], observa-se que, embora ele seja primário e a pena tenha sido estabelecida em patamar inferior a 4 anos, o modo semiaberto é o adequado para o cumprimento da pena reclusiva, diante da valoração negativa das circunstâncias judiciais (espécies e quantidades de drogas apreendidas: 12 pedras de crack, pesando aproximadamente 13 gramas cada; 4 tabletes de maconha, pesando aproximadamente 55 gramas cada, e 1 pedra de crack, pesando aproximadamente 70 gramas), nos temos do art. 33, §§ 2º e 3º, e art. 59, ambos do CP.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. APLICAÇÃO DA MINORANTE. IMPOSSIBILIDADE. ORGANIZAÇÃO CRIMINOSA. SÚMULA 7/STJ. DELAÇÃO PREMIADA. PERCENTUAL DE REDUÇÃO DA PENA. FUNDAMENTAÇÃO IDÔNEA. SUM. 7/STJ. DOSIMETRIA ALTERADA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. NOCIVIDADE DA DROGA. POSSIBILIDADE. ART. 42, DA LEI 11.343/06. RECRUDESCIMENTO DO REGIME. LEGALIDADE. PENA-BASE ACIMA DO MÍNIMO LEGAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência pacífica do STJ.
+2. As instâncias ordinárias negaram a aplicação da causa de diminuição da pena, do art. 33, § 4º, da Lei n. 11.343/06, em virtude das circunstâncias concretas, pois o recorrente estaria envolvido com integrantes de organização criminosa, motivação considerada idônea por esta Corte Superior.
+3. A redução da pena com fundamento no art. 41, da Lei de Drogas é possível desde que as informações dadas contribuam para a identificação dos integrantes envolvidos na organização criminosa.
+Rever as considerações da instância ordinária para estabelecer a fração de 1/3 ante o reconhecimento do benefício demandaria incursão na análise de fatos e provas, o que é vedado nos termos da Súmula 7/STJ.
+4. Nos termos do art. 42 da Lei de Drogas, é possível a utilização da natureza da droga apreendida (12,022g de cocaína) para fixar a pena-base acima do mínimo legal por se tratar de substância entorpecente altamente nociva à saúde humana. 5. Fixada a pena-base acima do mínimo legal, justifica-se o agravamento do regime prisional para o semiaberto a condenado à pena inferior a 4 anos.
+6. Agravo regimental improvido.
+(AgRg no REsp 1482065/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 26/09/2017, DJe 04/10/2017)" (e-STJ, fls. 1.486-1.487)
+Com efeito, segundo assentado na decisão recorrida, a valoração negativa de circunstâncias judiciais na primeira etapa da dosimetria (espécies e quantidades de drogas apreendidas: 12 pedras de crack, pesando aproximadamente 13 gramas cada; 4 tabletes de maconha, pesando aproximadamente 55 gramas cada, e 1 pedra de crack, pesando aproximadamente 70 gramas ) justificam o regime inicial semiaberto.
+Como se percebe, na verdade, pretende o embargante revisar o julgado que lhe foi desfavorável a fim de que as questões suscitadas sejam solucionadas de acordo com as teses que julga corretas. Tal pretensão, contudo, não se coaduna com a finalidade dos embargos de declaração, que vincula a demonstração de alguns dos vícios previstos no art. 619 do CPP.
+A toda evidência, deve subsistir a decisão embargada por ausência de vício.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
