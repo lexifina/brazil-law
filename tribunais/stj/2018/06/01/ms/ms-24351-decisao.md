@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Mandado de Segurança impetrado por Rust Consultoria em Engenharia LTDA, apontando como autoridades coatoras o Ministro de Estado da Defesa, o [NOME] Geral do [NOME] Brasileiro e o [NOME] e Ordenador de Despesas da Base Administrativa do Comando de Comunicação e Guerra Eletrônica do [NOME] Brasileiro.
+A impetrante alega que "em 21 de março de 2018, o [NOME] Brasileiro abriu licitação, na modalidade Pregão Eletrônico do tipo menor preço, envolvendo a contratação de empresa para realizar a manutenção do Simulador de Operações Cibernéticas (SIMOC), software de propriedade exclusiva da impetrante, e que por ela fora desenvolvido justamente após a sua vitória em certame anterior, do próprio [NOME], objeto do edital nº 07/2013".
+Aduz, ainda, que "admitindo-se que outra empresa passe a ser a responsável pela manutenção de seu software, estar-se-á, com isso, automaticamente violando as garantias em torno da propriedade intelectual da impetrante, na medida em que todas as informações confidenciais e protegidas do SIMOC precisarão ser transmitidas àquela concorrente que, muito em breve, será escolhida pelo [NOME]".
+Sustenta, ademais, que "a pretensão levada à lúcida apreciação de V.Exa. é simples e se materializa, meritoriamente, no direito líquido e certo da impetrante de ver anulado o concurso promovido ilegalmente pelas autoridades coatoras".
+Pleiteia a concessão de liminar para "suspender, temporariamente, a continuidade do certame 14/2017", bem como para que "seja ordenada (sic) o adiamento da sessão agendada para o próximo dia 30 de maio de 2018, até o julgamento final do presente writ".
+
+É o relatório.
+Decide-se.
+Os autos me foram distribuídos em 29.5.2018, às 15:10h.
+Nos termos do art. 105, I, "b", da Constituição da República, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os Mandados de Segurança contra ato de Ministro de Estado, dos Comandantes da Marinha, do [NOME] e da Aeronáutica ou do próprio Tribunal.
+No presente caso, apesar de arrolar o Ministro de Estado da Defesa e o [NOME] Geral do [NOME] Brasileiro como autoridades coatoras, a impetrante não aponta ato concreto por eles praticados ou omissivo a eles imputável. Limita-se a afirmar:
+ ..
+Sob este diapasão, muito embora o ato coator tenha sido praticado diretamente pelo [NOME], que vem a ser o ordenador de despesas da Base Administrativa do Comando de Comunicação e Guerra Eletrônica do [NOME], e que assinou o Edital 14/2017, a verdade é que, além dele, devem também ser indicados, como autoridades coatoras, o [NOME] Geral do [NOME] Brasileiro, [NOME], e o Ministro da Defesa interino, [NOME].
+Isso porque o objeto do Pregão 14/2017 (Doe. 07) tem tanto a ver com a Segurança Nacional, que vem de se alinhar (ver Doe. 08) ao Plano Estratégico de Defesa (PEEx) 2016-2019 Edição 2015 (Doe. 13), cujos termos foram criados pelo Sr. [NOME].
+Não bastasse, a abertura do Pregão Eletrônico em tela exige a expressa autorização do Ministro da Defesa, por força do regramento estampado no Decreto 7.970/2013.
+Recorde-se que a Lei 12.016/2009 traz o conceito de autoridade coatora nos seguintes termos:
+Art. 6º  ..
+§3º Considera-se autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática.
+Assim, em Mandado de Segurança, falece legitimidade passiva ad causam ao órgão estatal apontado como coator, se este não dispuser de competência para praticar o ato reclamado; para ordenar a suspensão da deliberação questionada, ou, ainda, de autoridade para suprir a omissão indicada.
+In casu, não há indicação precisa do(s) suposto(s) ato(s) coator(es) praticado(s) pelo Ministro de Estado da Defesa e pelo [NOME] Geral do [NOME] Brasileiro, sendo manifesta a ilegitimidade passiva de ambos para figurar no polo passivo do presente writ.
+A propósito:
+CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDORES. ASSOCIAÇÃO. PLEITO PARA INCLUSÃO DE PREVISÃO ORÇAMENTÁRIA. AUSÊNCIA DE ATO COATOR DA MINISTRA DE ESTADO DO PLANEJAMENTO, ORÇAMENTO E GESTÃO. ILEGITIMIDADE PASSIVA AD CAUSAM. PRECEDENTES.
+1. Cuida-se de impetração contra o não andamento de processo administrativo, indicado como "parado" no gabinete da Secretária de Relações do Trabalho no Serviço Público. O writ postula a inclusão, no Projeto de Lei n. 4.371/2012 que está tramitando no Congresso Nacional, de previsão orçamentária para reajuste de servidores.
+2. A petição inicial indica como coatora a Ministro de Estado do Planejamento, Orçamento e Gestão; contudo, traz informação de que o processo administrativo "parado" estaria com autoridade subordinada, e não indicada na petição inicial. De outro lado, o pedido trata de inclusão em projeto de lei cuja competência para envio reside tão somente na alçada da Presidente da República, também não indicada como autoridade coatora na petição inicial.
+3. Inexistindo qualquer ato, omissivo ou comissivo, da parte de qualquer autoridade indicada art. 105, I, "b", da Constituição Federal, falece ao Superior Tribunal de Justiça competência para o processamento do mandado de segurança. Precedentes: MS 18.187/DF, Rel. Min. Humberto Martins, Primeira Seção, DJe 19.10.2012; e AgRg no MS 15.852/DF, Rel. Min. Arnaldo Esteves Lima, Primeira Seção, DJe 6.6.2012.
+Agravo regimental improvido. (AgRg no MS 19.414/DF, Rel. Min. Humberto Martins, Primeira Seção, DJe 5.12.2012)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. INSCRIÇÃO NO FIES. ILEGITIMIDADE PASSIVA DO MINISTRO DA EDUCAÇÃO. AUSÊNCIA DE COMPROVAÇÃO DE ATO LESIVO OU OMISSIVO DE DIREITO LÍQUIDO E CERTO. AGRAVO NÃO PROVIDO.
+1. A competência originária do Superior Tribunal de Justiça estabelecida no art. 105, I, b, da Constituição Federal, para conhecer e julgar mandado de segurança, é de interpretação restrita, limitando-se aos casos em que houver ato omissivo ou comissivo praticado por Ministro de Estado, por Comandantes da Marinha, do [NOME] e da Aeronáutica ou pelo próprio Tribunal, que seja lesivo a direito líquido e certo do impetrante.
+2. Para fins de mandado de segurança, autoridade coatora é aquela que pratica, ordena ou omite a prática do ato impugnado e tem poderes para refazê-lo.
+3. No presente caso, o impetrante se insurge exclusivamente contra a impossibilidade de realizar sua inscrição no sítio eletrônico do Ministério da Educação para concorrer a uma vaga no FIES. Entretanto, não trouxe nenhuma prova pré-constituída comprovando que o Ministro de Estado da Educação tenha praticado, ou deixado de praticar algum ato ilegal ou abusivo violador de seu direito líquido e certo.
+4. Agravo não provido. (AgRg no MS 15.852/DF, Rel. Min. Arnaldo Esteves Lima, Primeira Seção, DJe 6.6.2012)
+Diante do exposto, excluo os senhores Ministro de Estado da Defesa e [NOME] Geral do [NOME] Brasileiro do polo passivo, indeferindo a petição inicial em relação a essas autoridades, nos termos do art. 10 da Lei 12.016/2009.
+Remanescendo no polo passivo o senhor [NOME] e Ordenador de Despesas da Base Administrativa do Comando de Comunicação e Guerra Eletrônica do [NOME] Brasileiro, declaro a incompetência do STJ para conhecer do presente feito e julgá-lo, determinando a remessa dos autos à Seção Judiciária do Distrito Federal.
+Publique-se.
+Intimem-se.
