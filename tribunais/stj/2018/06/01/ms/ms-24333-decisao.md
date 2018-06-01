@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA IMPETRADO CONTRA ATO JUDICIAL. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA, DE ABUSO DE PODER OU DE TERATOLOGIA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
+DECISÃO
+Trata-se mandado de segurança, com pedido para concessão de liminar, impetrado por [NOME], contra ato judicial exarado pela Presidência desta Corte, consubstanciado no não conhecimento do AgInt nos EDcl no ARE nos EDcl no AgInt nos Embargos de Divergência em Agravo em Recurso Especial n. 596.738/DF, cujo teor é o seguinte:
+Vistos, etc.
+Trata-se de agravo interno interposto por [NOME] contra decisão monocrática de fls. 933-934, que não conheceu do agravo dirigido ao Supremo Tribunal Federal por ser manifestamente incabível.
+Em suas razões, sustenta o Agravante que " a  falha da agravante se deu, unicamente, no endereçamento do agravo, cujo princípio da fungibilidade merece aplicação nos termos do art. 277 do CPC. Mesmo que a parte tenha interposto um recurso inadequado para determinado momento, o julgador poderá aceitá-lo para se alcançar a finalidade desejada" (fl. 981). Acrescenta que " t al adoção normativa se deu com o objetivo de garantir maior aproveitamento dos recursos. Neste cerne, o CPC/2015, aliou a este principio o princípio da fungibilidade recursal, buscando efetivamente, a primazia do mérito, constatando a inata complexidade do sistema recursal" (ibidem).
+No mais, o Agravante repisa os argumentos aventados na petição do recurso extraordinário.
+Impugnação apresentada às fls. 1.000-1.001.
+É o relatório.
+Decido.
+Resta esgotada a jurisdição desta Corte Superior, motivo pelo qual o agravo interno não pode ser apreciado.
+Explico. No decisum ora recorrido esclareci que a decisão que indefere liminarmente ou julga prejudicado recurso extraordinário deve ser impugnada por agravo interno, a ser apreciado pelo próprio Tribunal que procedeu ao juízo de admissibilidade, conforme orientação firmada pelo Supremo Tribunal Federal (AI n.º 760.358 QO/SE, Rel. Min. GILMAR MENDES, Tribunal Pleno, DJe de 19/02/2010).
+São manifestamente incabíveis, portanto, os recursos direcionados ao Supremo Tribunal Federal quando o Tribunal a quo reconhece ou não a configuração de repercussão geral da matéria de fundo, com base na jurisprudência do Pretório Excelso - como ocorreu na hipótese.
+Mais: o julgamento pelo STF do AI n.º 760.358 QO/SE, Rel. Min. GILMAR MENDES, afastou qualquer dúvida objetiva acerca do cabimento do recurso adequado na hipótese, motivo pelo qual não é invocável o princípio da fungibilidade - ainda que o equívoco tenha sido praticado dentro do prazo para a interposição da via de impugnação correta.
+Dessa feita, o trânsito em julgado da causa ocorreu após a decisão em que apliquei a sistemática da repercussão geral (fls. 899-901), não impugnada por intermédio de agravo interno.
+Ante o exposto, com fundamento no art. 932, inciso III, c.c. o art. 1.029, § 3.º, do Código de Processo Civil, NÃO CONHEÇO do agravo interno. Oportunamente, determino que a Secretaria certifique o trânsito em julgado, considerando como dies a quo a decisão considerada publicada em 29/6/2017. Após, os autos serão imediatamente baixados, independentemente do decurso de prazo ou da protocolização de qualquer outro pedido.
+Publique-se. Intimem-se.
+A impetrante sustenta, em suma, que a senhora presidente do STJ, ao julgar o agravo interno interposto por si, acabou usurpando a competência do STF, " ..  em razão da incompetência do órgão de recebimento do recurso realizar a análise da repercussão geral da matéria, posto que de competência exclusiva desta Egrégia Corte Maior" (fl. 15).
+Ao final, pugna pela " ..  concessão de liminar inaudita altera pars, destinada a assegurar à Impetrante a suspensão dos efeitos da decisão coatora, notadamente quanto à decretação de trânsito em julgado retroativo, suspendo o tramitar do processo até que o presente writ seja confirmado, o que deverá ser comunicado à Autoridade Coatora pela via mais rápida" (fl. 32).
+É o relatório. Decido.
+Segundo entendimento consolidado pela Corte Especial, não é cabível mandado de segurança contra ato jurisdicional dos órgãos fracionários ou de relator desta Corte Superior, salvo nos casos de teratologia ou de flagrante ilegalidade.
+Nesse sentido, confiram-se: AgRg no MS 21.838/DF, Rel. Min. Og Fernandes, Corte Especial, DJe 14/8/2015; AgRg no MS 21.247/DF, Rel. Min. Jorge Mussi, Corte Especial, DJe 17/11/2014; AgRg no MS 21.624/DF, Rel. Min. Luis Felipe Salomão, Corte Especial, DJe 25/5/2015; e EDcl no MS 20.855/DF, Rel. Min. João Otávio de Noronha, Corte Especial, DJe 19/3/2015.
+No caso dos autos, a impetrante se insurge contra a decisão da Presidência desta Corte, a qual não conheceu do seu agravo interno, sob o argumento de que seria do STF a competência para reconhecer, ou não, a existência de repercussão geral encartada no arrazoado do recurso extraordinário.
+Contudo, verifica-se, à toda evidência, que a fundamentação empregada no ato judicial atacado, para não conhecer do agravo interno, não está impregnado de nenhuma teratologia ou mesmo de ilegalidade manifesta.
+Deveras, o agravo interno não foi conhecido acertadamente, porquanto "São manifestamente incabíveis, portanto, os recursos direcionados ao Supremo Tribunal Federal quando o Tribunal a quo reconhece ou não a configuração de repercussão geral da matéria de fundo, com base na jurisprudência do Pretório Excelso - como ocorreu na hipótese".
+Ta fundamentação encontra respaldo no julgamento do AI n.º 760.358 QO/SE, da Relatoria do senhor Ministro Gilmar Mendes, no qual foi elidida eventual dúvida no concernente ao cabimento do recurso adequado na hipótese. Por isso, assentou-se a impossibilidade de ser aplicado o princípio da fungibilidade, mesmo que o equívoco tenha sido praticado dentro do prazo para a interposição do recurso correto.
+Logo, não é hipótese para o processamento do writ, na medida em que não se verifica a ocorrência de evidente de teratologia ou ilegalidade manifesta.
+Ante o exposto, com fundamento no artigo 10 da Lei n. 12.016/2009 combinado com o artigo 212 do RI/STJ, indefiro liminarmente a inicial e julgo extinto o mandamus, sem resolução de mérito.
+Sem condenação em honorários advocatícios, conforme Súmula n. 105/STJ.
+Publique-se. Intimem-se.
