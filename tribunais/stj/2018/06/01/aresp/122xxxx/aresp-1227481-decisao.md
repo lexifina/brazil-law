@@ -1,0 +1,28 @@
+DECISÃO
+Agrava-se de decisão que negou seguimento ao recurso especial de [NOME], fundado no art. 105, III, "a", da Constituição Federal e interposto contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios.
+Depreende-se dos autos que o Juízo da Vara das Execuções Penais indeferiu o pedido do agravante que visava à unificação das reprimendas advindas das duas condenações por roubo majorado.
+O Tribunal de Justiça negou provimento ao agravo em execução penal apresentado pela defesa. O acórdão proferido recebeu a seguinte ementa (e-STJ fl. 106):
+RECURSO DE AGRAVO - EXECUÇÃO PENAL - UNIFICAÇÃO DE PENAS - CONTINUIDADE DELITIVA - INOCORRÉNCIA.
+I. O ordenamento jurídico brasileiro adotou a teoria da ficção jurídica para explicar a natureza jurídica do crime continuado. Trata-se de um benefício concedido ao apenado, quando delitos de mesma espécie, praticados em mesmas condições de tempo, lugar, modo de execução e ainda com unidade de desígnios, serão considerados como crime único para fins de aplicação de pena, com exasperação variável de acordo com o número de crimes cometidos
+II. Não se pode confundir delito continuado com delito repetido. O traço característico do delito continuado é poder ser ele objetivamente considerado como autêntica continuação dos anteriores, além de reunir todos aqueles outros pressupostos legais da conexão temporal, espacial, modo de execução etc.
+III. Inadmissível a outorga do beneficio da continuidade delitiva quando se trata de habitualidade criminosa.
+IV. Agravo desprovido.
+Nas razões do recurso especial, o recorrente alegou ofensa ao art. 71 do Código Penal, sustentando, em suma, que preenche os requisitos para o reconhecimento da continuidade delitiva.
+O Ministério Público Federal manifestou-se, às e-STJ fls. 175/176, pelo provimento do agravo e do recurso especial.
+É o relatório. Decido.
+Nos termos do art. 71 do Código Penal, verifica-se a continuidade delitiva quando o agente, mediante pluralidade de condutas, realiza uma série de crimes da mesma espécie, guardando entre si um elo de continuidade - mesmas circunstâncias de tempo, lugar e modo de execução.
+O Superior Tribunal de Justiça firmou orientação de que, para o reconhecimento da continuidade delitiva, além de preenchidos os requisitos de natureza objetiva, deve existir um dolo unitário ou global, que torne coesas todas as infrações perpetradas, por meio da execução de um plano preconcebido, adotando, assim, a teoria mista ou objetivo-subjetiva.
+No mesmo sentido: HC n. 222.225/SP, rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/3/2016, DJe 31/3/2016; HC n. 300.941/RS, rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/2/2016, DJe 25/2/2016.
+No caso em apreço, o Tribunal a quo concluiu que a análise dos autos evidencia reiteração e habitualidade, consignando que "os ilícitos, embora com semelhante modus operandi, não decorreram de um plano de ação comum. Inexiste relação de contexto entre o primeiro roubo e o subsequente" (e-STJ fl. 110).
+Desse modo, a reforma do julgamento exigiria o reexame das provas e fatos dos autos, para chegar-se à conclusão diversa da estampada pelo colegiado de origem, providência inviável em recurso especial, nos termos da Súmula n. 7/STJ.
+Citam-se os seguintes julgados:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE VIGÊNCIA AO 71 DO CP. CONTINUIDADE DELITIVA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático probatório a fim de analisar se estariam presentes ou não os requisitos indispensáveis ao reconhecimento da continuidade delitiva, porquanto é vedado, na via eleita, o reexame de provas, conforme disciplina o enunciado 7 da Súmula desta Corte.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1009338/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 6/12/2016, DJe 15/12/2016)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRELIMINAR DE IMPOSSIBILIDADE DE JULGAMENTO MONOCRÁTICO. JURISPRUDÊNCIA DOMINANTE SOBRE O TEMA. SÚMULA 568/STJ. ART. 255, § 2º, II, DO RISTJ. INÉPCIA DA DENÚNCIA. DESNECESSIDADE DE INDICAÇÃO PRECISA DA DATA DOS FATOS. PRINCÍPIOS DA IDENTIDADE FÍSICA DO JUIZ E DA [NOME]. REDISTRIBUIÇÃO DA AÇÃO PENAL. CRIAÇÃO DE NOVA VARA ESPECIALIZADA. JUSTIÇA DA INFÂNCIA E JUVENTUDE. COMPETÊNCIA PARA JULGAMENTO DE CRIMES SEXUAIS CONTRA CRIANÇAS E ADOLESCENTES. RECONHECIMENTO PESSOAL. FORMALIDADES. ART. 226 DO CPP. NULIDADE. NÃO OCORRÊNCIA. ATENTADO VIOLENTO AO PUDOR CONTRA MENOR DE 14 ANOS. ART. 224, ALÍNEA A, DO CÓDIGO PENAL (ANTIGA REDAÇÃO). PRESUNÇÃO DE VIOLÊNCIA. ABSOLUTA. MATÉRIA PACIFICADA. ART. 228 DO CP. ALEGAÇÃO DE ATIPICIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. PLEITO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. INVIABILIDADE. DEMONSTRAÇÃO DA UNIDADE DE DESÍGNIOS. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+ ..
+IX - Para efeito de reconhecimento da continuidade delitiva, é indispensável que o agente tenha praticado as condutas delituosas em idênticas condições de tempo, lugar, maneira de execução e outras semelhantes, e, ainda, que exista entre elas um liame a indicar a unidade de desígnios do agente, análise que demanda inadmissível reexame do material fático-probatório acostado aos autos. Agravo regimental desprovido.
+(AgRg no REsp 1434538/AC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 2/6/2016, DJe 15/6/2016)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
