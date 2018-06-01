@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que negou seguimento ao recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 243/247).
+O acórdão recorrido está assim ementado (e-STJ fl. 199):
+AGRAVO DE INSTRUMENTO. PROMESSA DE COMPRA E VENDA. AÇÃO DE EXECUÇÃO. PEDIDO DE SUBSTITUIÇÃO DA PENHORA. INDEFERIMENTO EM PRIMEIRO GRAU. DECISÃO CONFIRMADA. AUSÊNCIA DE JUSTIFICATIVA PLAUSÍVEL PARA A SUBSTITUIÇÃO DO BEM PENHORADO. HIPÓTESE, AINDA, EM QUE SEQUER DEMONSTRADO, DE MODO ESCORREITO, O PROPALADO EXCESSO DE PENHORA. NEGARAM PROVIMENTO. UNÂNIME.
+Nas razões do recurso especial (e-STJ fls. 209/216), fundamentado no art. 105, III, "a", da CF, a recorrente alegou contrariedade ao art. 847 do CPC/2015, sustentando o excesso de penhora e a consequente necessidade de substituição da penhora da integralidade do bem por parte dele, desmembrando-o, em obediência ao princípio da menor onerosidade.
+No agravo (e-STJ fls. 252/258), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pelos recorridos (e-STJ fls. 272/277).
+É o relatório.
+Decido.
+Quanto à suposta infringência ao art. 847 do CPC/2015, o Tribunal de origem consignou que (e-STJ fls. 201/202):
+Isso porque, primeiro, não há demonstração escorreita de que o imóvel tenha, de fato, o valor indicado pela agravante, que se baseou em avaliação unilateral, não havendo, assim, elementos suficientes para amparar a tese de excesso de penhora. Ademais, há, ao que tudo indica, supervalorização do imóvel (em relação à avaliação anterior), pois que pouco crível que um hectare tenha, desde outubro de 2009, passado de R$ 1.500,00 para R$ 25.650,00, mormente considerando a atual retração do mercado imobiliário.
+Segundo, porque, ainda que a parte agravante pugne pelo desmembramento do bem imóvel (sequer havendo elementos suficientes que autorize a que se reconheça tratar-se de bem passível de ser desmembrado, ao menos para que remanesça fração suficiente para garantir a execução que ora se divisa), certo é que há, sobre o bem, outras penhoras (fl. 39), do que redunda já conter reduzida liquidez, o que se agravará com eventual desmembramento.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. O acórdão impugnado concluiu que não há demonstração escorreita de que o imóvel tenha, de fato, o valor indicado pela recorrente e de que o bem seja passível de desmembramento. Afirmou ainda a existência de outras penhoras incidentes sobre o bem. Tais pontos, aptos, por si sós, a sustentarem o juízo emitido, não foram rebatidos nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Ainda que assim não fosse, o Tribunal de origem, com base nas provas coligidas aos autos, concluiu pela inexistência de excesso na execução e pela impossibilidade de substituição da penhora realizada. Para alterar os fundamentos do acórdão recorrido, seria imprescindível a reavaliação da aplicação do princípio da menor onerosidade e, consequentemente, o revolvimento do conjunto fático-probatório, o que é vedado em recurso especial, ante o disposto na Súmula n. 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
