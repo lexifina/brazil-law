@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+2. Agravo não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, não conhecer do agravo, nos termos do voto do(a) Sr(a) Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+Cuida-se de agravo interno interposto por [NOME], [NOME], [NOME] e WILSON MENDES contra decisão que não conheceu do agravo em recurso especial.
+Ação: ordinária de responsabilidade securitária ajuizada pelos ora agravantes contra LIBERTY SEGUROS S/A, na qual alegam que são mutuários pelo Sistema Financeiro de Habitação - SFH e que suas residências foram adquiridas por meio de financiamento com recursos públicos. Sustentam que após cinco anos contados da aquisição dos imóveis, estes passaram a apresentar inúmeros problemas físicos que acabam por comprometer o conforto e a estabilidade da edificação. Requerem, assim, a condenação da agravada ao pagamento da importância a ser apurada em perícia como necessário para a recuperação dos imóveis sinistrados, o pagamento da importância apurada em perícia como necessárias e desembolsadas pelos agravantes a fim de que fossem consertados os elementos danificados e ao pagamento da multa decendial de dois por cento do valor de cada laudo para cada dez dias de atraso em favor de cada um dos agravantes.
+Sentença: julgou improcedentes os pedidos e condenou os agravantes ao pagamento de R$ 5.000,00 a título de honorários advocatícios.
+Acórdão: o TJ/PR deu parcial provimento ao recurso de apelação interposto pelos agravantes, nos termos assim ementados (e-STJ fls. 939/940):
+APELAÇÃO CÍVEL. AÇÃO DE RESPONSABILIDADE SECURITÁRIA. SEGURO HABITACIONAL. SFH. SENTENÇA QUE JULGOU IMPROCEDENTES OS PEDIDOS INICIAIS DE ALGUNS AUTORES, ANTE O RECONHECIMENTO DA ILEGIMITIDADE PASSIVA DA SEGURADORA RÉ. E DETERMINOU A REMESSA DOS AUTOS À JUSTIÇA FEDERAL COM RELAÇÃO AO AUTOR REMANESCENTE. DECISÃO COM CONTEÚDO HÍBRIDO. APELAÇÃO COM DEVOLUTIVIDADE MAIS AMPLA QUE O AGRAVO. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. CONHECIMENTO.
+APELAÇÃO CÍVEL INTERPOSTA PELOS REQUERENTES. APÓLICE DE UM DOS AUTORES DO RAMO PÚBLICO. REMESSA À JUSTIÇA FEDERAL. APÓLICES DOS DEMAIS REQUERENTES VINCULADAS AO RAMO PRIVADO. INFORMAÇÃO DA CEF. INEXISTÊNCIA DE "POOL" DE SEGURADORAS. INFORMAÇÃO DA COHAPAR DE QUE A COMPANHIA EXCELSIOR DE SEGUROS É A RESPONSÁVEL PELA CARTEIRA DO SEGURO HABITACIONAL. SEGURADORA INDICADA NA INICIAL QUE É DIVERSA DA CONTRATADA PELA COHAPAR. ILEGITIMIDADE PASSIVA CONFIGURADA. SENTENÇA QUE EXTINGUIU O PROCESSO COM RESOLUÇÃO DO MÉRITO, NOS TERMOS DO ART. 269, I, DO CPC/1973. IMPOSSIBILIDADE. ILEGITIMIDADE DE PARTE QUE É CAUSA DE EXTINÇÃO DA DEMANDA SEM RESOLUÇÃO DO MÉRITO. ART. 267, VI. DO CPC/1973. DECISÃO REFORMADA NESTE PONTO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Embargos de declaração: opostos pelos agravantes, foram rejeitados.
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto pelos agravantes devido à ausência de impugnação específica dos fundamentos da decisão denegatória de seguimento do recurso especial (Súmula 182/STJ).
+Agravo interno: os agravantes alegam que rebateram todos fundamentos da decisão denegatória de processamento do recurso e requerem a sua reconsideração.
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+A decisão agravada não conheceu do agravo em recurso especial da parte agravante, ante a incidência da Súmula 182/STJ.
+Da análise do presente recurso, verifica-se que a parte agravante deixou de rebater, pontualmente, o fundamento da decisão agravada, pois não demonstrou, de maneira consistente e específica, a inaplicabilidade da Súmula 182/STJ à hipótese dos autos.
+De fato, a parte agravante não demonstrou que, nas razões do agravo em recurso especial, impugnou a incidência dos óbices das Súmulas 7/STJ e 211/STJ e o fundamento referente à ausência/deficiência de cotejo analítico.
+Quanto ao referido fundamento, seria necessário que a parte agravante apontasse, de maneira inequívoca, a divergência de entendimento, quanto ao mesmo direito objeto da controvérsia, por diferentes tribunais da federação, através da transcrição dos trechos dos acórdãos, mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não se verifica na hipótese dos autos.
+Outrossim, cumpre ressaltar que é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela aplicação do enunciado n. 7/STJ, incumbiria à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos, o que, de fato, não se observa na hipótese dos presentes autos.
+Por fim, quanto ao óbice da Súmula 211/STJ, caberia a parte agravante apontar de que maneira o Tribunal de origem teria abordado as questões trazidas no recurso especial, o que também não ocorreu.
+Assim, consoante jurisprudência pacífica desta Corte, não merece conhecimento o agravo que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula nº 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do presente agravo.
