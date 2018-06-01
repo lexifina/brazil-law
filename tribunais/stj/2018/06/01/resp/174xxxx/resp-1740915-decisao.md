@@ -1,0 +1,29 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDORA PÚBLICA FEDERAL. ASSISTENTE SOCIAL. VÍNCULO ESTATUTÁRIO. REDUÇÃO DA JORNADA DE TRABALHO. LEI 12.317/2010. INAPLICABILIDADE. REGRAS APLICADAS EXCLUSIVAMENTE AOS EMPREGADOS REGIDOS PELA CLT. PRECEDENTES DO STJ. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial do Estado de Mato Grosso fundado nas alíneas "a" e "c" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça de Mato Grosso, assim ementado:
+CONSTITUCIONAL E ADMINISTRATIVO - MANDADO DE SEGURANÇA - ASSISTENTE SOCIAL - REDUÇÃO DA JORNADA DE TRABALHO PARA 30 (TRINTA) HORAS SEMANAIS - SEM PREJUÍZO DA REMUNERAÇÃO - ARTIGO 5º-A, DA LEI Nº 8662, DE 7 DE JUNHO DE 1993, ACRESCIDO PELA LEI Nº 12.317, DE 27 DE AGOSTO DE 2010 - APLICAÇÃO - LEGISLAÇÃO SOBRE CONDIÇÕES PARA O EXERCÍCIO DE PROFISSÕES - COMPETÊNCIA PRIVATIVA DA UNIÃO - ARTIGO 22, XVI, DA CONSTITUIÇÃO FEDERAL - ORDEM CONCEDIDA.
+Não foram opostos embargos de declaração.
+Nas razões de recurso especial, o recorrente apontou, além do dissídio jurisprudencial, violação dos seguintes dispositivos: arts. 5º- A, da Lei Federal nº 8.662/93, com a alteração introduzida pela Lei Federal nº 12.317/2010, e 2º da Lei Federal nº 12.317/2010, bem como dissenso pretoriano sobre o tema. Argumenta que "o âmbito de incidência da Lei se restringe tão somente aos contratos de trabalho, circunscrevendo- a, portanto, aos empregados sujeitos ao regime jurídico de direito privado regulado pela CLT" (fl. 139), não podendo ser aplicada a redução de jornada a servidores estatutários estaduais.
+Houve contrarrazões (e-STJ fls. 171/182).
+O Ministério Público Federal, em seu parecer, opina pelo provimento do recurso especial (192/194).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com razão o recorrente.
+O acórdão combatido encontra-se em dissonância com a orientação desta Corte Superior, que já teve a oportunidade de se pronunciar sobre o tema, em caso análogo ao dos presentes autos, chegando a conclusão no sentido oposto à adotada pela Corte a quo.
+Confira-se os precedentes:
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. ASSISTENTE SOCIAL. JORNADA DE TRABALHO. REDUÇÃO. REGRA RESTRITA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Esta Corte pacificou entendimento de que a norma inserta no art. 5º-A da Lei n. 8.662/1993, incluído pela Lei n. 12.317/2010, que versa sobre a redução da jornada de trabalho de 40 (quarenta) para 30 (trinta) horas semanais, aplicada à carreira de Assistente Social, vincula apenas os empregados regidos pela Consolidação das Leis do Trabalho e não pelos demais regimes jurídicos estatutários
+3. Agravo interno desprovido.
+(AgInt no REsp 1490683/MT, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 07/12/2017, DJe 16/02/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDORA PÚBLICA FEDERAL. ASSISTENTE SOCIAL. VÍNCULO ESTATUTÁRIO. REDUÇÃO DA JORNADA DE TRABALHO. LEI 12.317/2010. INAPLICABILIDADE. REGRAS APLICADAS EXCLUSIVAMENTE AOS EMPREGADOS REGIDOS PELA CLT. PRECEDENTES DO STJ. SÚMULA 83/STJ. RECURSO ESPECIAL NÃO PROVIDO.
+I. Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+II. Na origem, trata-se de Mandado de Segurança, ajuizado por servidora pública federal, regida pela Lei 8.112/90, contra suposto ato omissivo do Reitor da Universidade do Rio Grande, que teria deixado de reduzir a sua jornada de trabalho a 30 (trinta) horas semanais, sem a redução de seus vencimentos, conforme determina a Lei 12.317/2010.
+III. Consoante pacífica jurisprudência desta Corte, a norma inserta no art. 5º-A da Lei 8.662/93, incluído pela Lei 12.317/2010 - que versa sobre a redução da jornada de trabalho de 40 (quarenta) para 30 (trinta) horas semanais, aplicada à carreira de Assistente Social -, vincula apenas os empregados regidos pela Consolidação das Leis do Trabalho, e os servidores vinculados a regimes jurídicos estatutários. Nesse sentido: STJ, AgInt no REsp 1.635.628/MT, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 24/05/2017; AgInt no REsp 1.620.796/MT, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 15/02/2017; AgRg no REsp 1.571.655/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/09/2016; AgInt nos EDcl no REsp 1.466.316/MT, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/09/2016; AgRg nos EDcl no AREsp 637.721/MT, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 09/11/2015; AgRg no REsp 1.480.208/PB, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 06/11/2015; RMS 35.196/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 19/12/2011.
+IV. Encontrando-se o acórdão impugnado em harmonia com a jurisprudência desta Corte, é de ser aplicada, no caso, a Súmula 83/STJ.
+V. Recurso Especial improvido.
+(REsp 1342750/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 10/10/2017, DJe 23/10/2017)
+ Incidente o teor da Súmula nº 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intime-se.
