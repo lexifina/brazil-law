@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ASSOCIAÇÃO CRISTÃ PROJETO VIDA contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra acórdão assim ementado:
+"Apelação cível. Ação anulatória. Pretensão de anulação de adjudicação. Sentença que reconheceu a prescrição do direito de ação. Pretensão da autora fundada em contrato de compra e venda não registrado. Imóvel penhorado em ação de execução e adjudicado por decisão judicial. Inaplicável ao caso o prazo decadencial de 4 anos previsto no art. 178 do Código Civil. A hipótese é de anulação de adjudicação e registro da matrícula junto ao Registro Imobiliário. Prazo prescricional de 2 anos a contar da conclusão do ato. Artigo 179 do Código Civil. Prescrição configurada. Apelo desprovido" (fl. 393, e-STJ).
+No recurso especial, a recorrente alega, além de dissídio jurisprudencial, violação dos arts.  178 e 179 do Código Civil. Sustenta que, "(..) o prazo decadencial para rescisão dos atos judiciais que não dependem de sentença ou aqueles em que esta for meramente homologatória é de quatro anos" (fl. 403, e-STJ).
+Não admitido o recurso na origem, vieram os autos conclusos a esta relatoria.
+Contraminuta não apresentada (fl. 489, e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+O tribunal estadual, ao dirimir a controvérsia, consignou:
+"(..)
+Cuida-se de ação anulatória ajuizada por ASSOCIAÇÃO CRISTÃ PROJETO VIDA, representada por RONEI SCHIAVINATTO, contra CÉLIO CÍCERO FERREIRA COSTA, SILVANIA DE FREITAS GOUVEIA COSTA e AUFER CONSTRUTORA E ENGENHARIA LTDA., requerendo, em síntese, a anulação da adjudicação judicial do lote 39, quadra 10, do loteamento "Auferville III".
+Ante o reconhecimento da prescrição, a autora recorre alegando ser de 4 anos o prazo previsto para anular a arrematação, conforme prevê o artigo 178, II, do Código Civil. Portanto, o termo inicial iniciou-se com o auto de adjudicação, em 11 de agosto de 2009 e a ação foi distribuída em 1º de agosto de 2012. Alega que não foi intimada acerca da penhora lavrada junto à matrícula do imóvel em 15/08/2008 e que o ato de adjudicação não foi levado a registro.
+Ao que consta dos autos, a corré AUFER CONSTRUTORA & ENGENHARIA LTDA. firmou compromisso particular de venda e compra com a autora ASSOCIAÇÃO CRISTÃ PROJETO VIDA referente ao lote 39, da quadra 10, com área total de 200,00 m2 (fls. 20/26). Todavia, conforme narra a própria autora, referido contrato não foi levado a registro no Cartório de Imóveis.
+Referido terreno consta como de propriedade de AUFER CONSTRUTORA E ENGENHARIA LTDA., conforme matrícula n. 68486, junto ao Cartório de Imóveis (fls. 31).
+Os corréus CÉLIO CÍCERO FERREIRA COSTA e SILVANIA DE FREITAS GOUVEIA COSTA ajuizaram ação de rescisão c.c. pedido de devolução de valores pagos contra AUFER CONSTRUTORA & ENGENHARIA LTDA. (fls. 35/40), julgada procedente, para o fim de decretar a rescisão do instrumento particular entre as partes firmado, por culpa da ré, e condená-la a restituir aos autores, os valores por eles pagos, conforme se apurar em regular liquidação de sentença, acrescida de correção monetária a partir dos desembolsos, incidindo juros de mora à taxa legal (fls. 41/45).
+Em cumprimento de sentença, referido lote foi penhorado (fls. 66), e, após avaliação, adjudicado aos autores (fls. 96).
+Ainda que a autora não tenha registrado o contrato, embasando-se no seu direito pessoal e como terceiro de boa-fé, pretende anular a adjudicação compulsória, alegando que o preço do imóvel foi pago à vista, em parcela única, dando o promitente vendedor, AUFER CONSTRUTORA & ENGENHARIA LTDA., quitação à quantia de R$ 16.000,00.
+O artigo 1048 do Código de Processo Civil expressamente dispõe:
+(..)
+Ainda que referida penhora tenha sido averbada no Registro de Imóveis, dando-se a devida publicidade, com a presunção absoluta de conhecimento por terceiros (art. 659 do CPC), os autores não se atentaram ao prazo para apresentar embargos, razão pela qual ajuizaram a presente ação de anulação da adjudicação, uma vez tenha sido perfeita e acabada com a lavratura e assinatura do auto pelo juiz (art. 685-B do CPC).
+Por fim, era mesmo caso de se reconhecer a prescrição do direito de ação conforme constou da sentença recorrida. Não se ajusta ao caso dos autos o prazo decadencial de 4 anos, previsto no art. 178 do Código Civil. Aqui a hipótese é de anulação da adjudicação e consequentemente do registro da transferência da propriedade no Registro Público.
+Aplicável ao caso o previsto o artigo 179 do Código Civil: "Quanto a lei dispuser que determinado até é anulável, sem estabelecer prazo para pleitear-se anulação, será este de dois anos, a contar da data da conclusão do ato".
+No caso, a carta de adjudicação foi expedida no dia 31 de agosto de 2009 (fls. 98) e a presente ação foi ajuizada em 01 de agosto de 2012, configurando a prescrição, ultrapassado o lapso temporal de 02 anos" (fls. 394-396, e-STJ-grifou-se).
+Tem-se, do excerto acima transcrito, que a conclusão do aresto recorrido, após a análise do contexto fático dos autos, foi de que o caso em tela não se ajusta ao prazo decadencial de 4 anos, pois a hipótese é de anulação da adjudicação e consequentemente do registro da transferência da propriedade no Registro Público. Rever tal entendimento é vedado a esta Corte, ante o óbice da Súmula nº 7/STJ.
+Ademais, não há como conhecer da insurgência com base na alínea "c" do permissivo constitucional, visto que a divergência jurisprudencial, nos moldes legais, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não ocorreu na espécie.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
