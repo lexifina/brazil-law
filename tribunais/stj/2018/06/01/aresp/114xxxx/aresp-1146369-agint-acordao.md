@@ -1,0 +1,51 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. DANO MORAL FIXADO APENAS PELO ATRASO NA ENTREGA DE IMÓVEL. MERO DESCUMPRIMENTO CONTRATUAL. AUSÊNCIA DE OUTROS ELEMENTOS A ENSEJAREM A ALUDIDA CONDENAÇÃO. DECISÃO RECORRIDA REFORMADA PARA ADEQUAÇÃO À ATUAL JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência desta Corte, em regra, o mero inadimplemento contratual não causa, por si só, a citada indenização por dano moral, porquanto não houve a indicação de nenhuma circunstância especial a justificar a condenação ao pagamento da aludida indenização, além do atraso na entrega do imóvel adquirido.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por [NOME] e [NOME] contra a decisão de fls. 500-505 (e-STJ), da lavra deste signatário, que conheceu do agravo e negou provimento ao recurso especial da ora recorrente.
+O apelo extremo foi deduzido com base no artigo 105, inciso III, alíneas a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Maranhão assim ementado (fls. 256-257, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER E DANOS MORAIS E MATERIAIS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. RESPONSABILIDADE DA CONSTRUTORA. DANOS MATERIAIS. NÃO CONFIGURADO. DANOS MORAIS. POSSIBILIDADE. SUCUMBÊNCIA RECÍPROCA. MEAÇÃO PROPORCIONAL DOS ÔNUS SUCUMBENCIAIS. POSSIBILIDADE.
+1. Inexiste o dever de indenizar os danos materiais relativos ao pagamento de alugueis do período de março a julho de 2013, quando o inadimplemento contratual e respectiva mora das apelantes restou materializado apenas em setembro de 2013, não havendo que se falar, portando, em responsabilidade da construtora em reparar prejuízo dentro do período de regularidade do contrato.
+2. Se restou estipulado no contrato a data de entrega do imóvel, e não tendo a construtora cumprido o prazo, em razão de eventos referentes aos riscos inerentes à atividade-fim da empresa, assume, com sua inércia, o ônus de indenizar o promissário-comprador pelos danos morais eventualmente ocasionados.
+3. O montante da indenização por danos morais é estabelecido com base em pautas de mensuração que levam em consideração o grau de reprovação da conduta lesiva, a intensidade e duração do dano sofrido pela vítima, a capacidade econômica do ofensor e do ofendido e, ainda, as condições pessoais da vítima, de modo que se revela adequada, in casu, a fixação em R$ 20.000,00 (vinte mil reais), sendo R$ 10.000,00 (dez mil) para cada apelado.
+4. A dicção do art. 86 do CPC dispõe que, se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas, de modo que, in casu, se faz imperioso o seu rateio.
+5. Apelação parcialmente provida.
+Os embargos de declaração opostos foram desacolhidos (fls. 282-293, e-STJ).
+Nas razões do recurso especial (e-STJ, fls. 299-321), além de dissídio jurisprudencial, os então insurgentes alegaram que o acórdão impugnado incorreu em violação dos seguintes normativos:
+a) art. 5º da Constituição Federal;
+b) arts. 186 e 927 do Código Civil de 2002; e
+c) arts. 371, 373 e 489 do Código de Processo Civil de 2015.
+Sustentaram, em síntese: (i) negativa de prestação jurisdicional ante a ausência de fundamentação na decisão impugnada; (ii) excesso no valor arbitrado a título de danos morais, em desatenção aos princípios da razoabilidade e da proporcionalidade; e (iii) ser indevida sua condenação ao pagamento de indenização por dano moral, tendo em vista que o mero inadimplemento contratual, consistente no atraso na entrega do imóvel adquirido pelos consumidores, não configura conduta ilícita a ensejar a condenação a esse título.
+Em razão do juízo negativo de admissibilidade, os então recorrentes interpuseram o agravo (artigo 1.042 do CPC/2015) o qual foi conhecido para dar parcial provimento ao recurso especial, a fim de afastar a indenização por dano moral concedida pelas instâncias ordinárias, apenas pelo atraso na entrega do imóvel adquirido pelos consumidores.
+No presente agravo interno, os ora agravantes sustentam: a) fazerem jus à indenização por dano moral, porquanto a conduta das recorridas, que atrasaram a entrega do imóvel por eles adquirido em 15 (quinze) meses após o prazo de tolerância, não se refere a mero descumprimento contratual, mas sim a situação excepcional, de atraso considerável, que ultrapassa, em muito, o mero aborrecimento ou desconforto que o homem médio tem que suportar em razão do cotidiano, motivo pelo qual devida a indenização; e b) em razão das inúmeras decisões desta Corte, que mantiveram a indenização concedida na origem, ao aplicar os óbices dispostos nas Súmulas 5 e 7/STJ, pleiteia a aplicação da mesma motivação em seu reclamo, e assim, seja restabelecida a indenização concedida.
+Ao final, requerem a reconsideração da decisão agravada ou a apreciação do agravo interno pelo Colegiado.
+Impugnação às fls. 524-529 (e-STJ).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Com efeito, conforme asseverado na decisão agravada, esta Corte possui o entendimento pacífico no sentido de que, em regra, o mero inadimplemento contratual não causa, por si só, dano moral.
+Na hipótese específica de atraso na entrega de imóvel, em decorrência do descumprimento do prazo previsto em contrato de promessa de compra e venda, essa análise deverá ser feita caso a caso, ficando afastado, em princípio, o caráter absoluto da presunção de existência do dever reparatório, salvo se existente algum fato concreto capaz de transformar a mera frustração quanto à expectativa inicial de cumprimento do prazo avençado - o que não ultrapassa a barreira do aborrecimento e dissabor próprios do cotidiano - em situação de grave abalo na esfera subjetiva do promitente comprador e, por esse motivo, capaz de ensejar reparação por danos morais.
+Com efeito, na espécie, constata-se que, apesar da mora das agravadas pelo prazo de 15 (quinze) meses, de fevereiro de 2013 a maio de 2014 - o que se revela de todo indesejável -, não foi comprovado que o atraso teria afetado, de maneira excepcional, o direito da personalidade dos ora agravantes, não havendo que se falar, portanto, em abalo moral indenizável.
+Nesse sentido:
+CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO C/C INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. ABORRECIMENTO E DISSABOR. EXAME DAS PREMISSAS FÁTICAS DO ACÓRDÃO RECORRIDO. ENUNCIADO N. 7 DA SÚMULA DO STJ. NÃO INCIDÊNCIA.
+1. O simples descumprimento contratual, por si, não é capaz de gerar danos morais, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável pela sua gravidade.
+2. A Corte local, para reformar a sentença e julgar procedente o pedido de indenização por danos morais, concluiu que o atraso na entrega do imóvel, de aproximadamente 9 (nove) meses, por si, frustrou a expectativa do casal de ter um lar, causando, consequentemente, transtornos por não ter domicílio próprio. Com efeito, o Tribunal de origem apenas superestimou o desconforto, o aborrecimento e a frustração da autora, sem apontar, concretamente, situação excepcional específica, desvinculada dos normais aborrecimentos do contratante que não recebe o imóvel no prazo contratual.
+3. A orientação adotada na decisão agravada não esbarra no óbice contido no enunciado n. 7 da Súmula do STJ, tendo em vista que foram consideradas, apenas, as premissas fáticas descritas no acórdão recorrido.
+4. Agravo regimental desprovido (AgRg no REsp n. 1.408.540/MA, Relator o Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 19/2/2015)
+CONSUMIDOR E PROCESSUAL CIVIL. RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DE UNIDADE IMOBILIÁRIA. CLÁUSULA PENAL MORATÓRIA. POSSIBILIDADE DE CUMULAÇÃO COM LUCROS CESSANTES. JURISPRUDÊNCIA CONSOLIDADA NO STJ. DANOS MORAIS. SIMPLES ATRASO. AUSÊNCIA.
+1. Ação ajuizada em 29/08/2014. Recurso especial interposto em 06/06/2016 e distribuído a este gabinete em 22/09/2016.
+2. É possível cumular a cláusula penal decorrente da mora com indenização por lucros cessantes quando há atraso na entrega do imóvel pela construtora. Precedentes.
+3. Danos morais: ofensa à personalidade. Precedentes. Necessidade de reavaliação da sensibilidade ético-social comum na configuração do dano moral. Inadimplemento contratual não causa, por si, danos morais. Precedentes.
+4. O atraso na entrega de unidade imobiliária na data estipulada não causa, por si só, danos morais ao promitente-comprador.
+5. Recurso especial conhecido e parcialmente provido (REsp n. 1.642.314/SE, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 16/3/2017, DJe 22/3/2017)
+Ademais, a Segunda Seção do STJ, em análise de recurso repetitivo, consagrou o entendimento acerca da não ocorrência de abalo moral indenizável pelo atraso de alguns meses na conclusão da obra, em razão das circunstâncias do caso concreto (REsp 1.551.968/SP, Segunda Seção, DJe 06/09/2016).
+Na hipótese ora em análise, constata-se que o Colegiado estadual utilizou como único fundamento, para condenar as construtoras à indenização por dano moral, o atraso na entrega do imóvel, caracterizando essa conduta o mero descumprimento contratual por parte delas, o qual, segundo a jurisprudência desta Corte, não enseja a citada indenização, porquanto não houve a indicação de nenhuma circunstância especial a justificar a condenação ao pagamento da aludida indenização, além do atraso na entrega do imóvel adquirido.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
