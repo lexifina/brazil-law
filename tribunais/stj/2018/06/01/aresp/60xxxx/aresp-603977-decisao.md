@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manejado pela Transportadora Bompreço Ltda contra decisão que não admitiu recurso especial com fundamento no art. 543-C, § 7º, I do CPC, este desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 274):
+MANDADO DE SEGURANÇA. PRESCRIÇÃO DO CRÉDITO. ART. 174 DO CTN. INOCORRÊNCIA. APELAÇÃO E REMESSA OFICIAL DESPROVIDAS.
+1- Apelação interposta contra sentença que concedeu em parte a segurança requestada, extinguindo o crédito cobrado na CDA nº 40 2 04 001127-75, mantendo, entretanto, íntegra a CDA nº 40 6 03 010576 00 pela inocorrência do lapso prescricional e ausência de pagamento integral do débito.
+2. No caso em liça, o crédito tributário foi constituído no ano de 2003, após o prazo da defesa administrativa, conforme explicado à inicial, sendo a Execução Fiscal nº 2004.83.00.002791-6 proposta ainda na data de 02/02/2004, descabendo, pois, a alegação de que a Fazenda Nacional não teria ajuizada ação de cobrança durante o quinquindio legal.
+3. Proposta a ação executiva dentro do prazo legalmente previsto, não pode reverter
+em prejuízo à exequente a demora na citação decorrente do mecanismo da justiça, conforme entendimento pacificado pelo STJ (Súmula 106), sendo certo, por outro lado, que, não comportando dilação probatória, o mandado de segurança deve ser analisado com base nas provas apresentadas juntamente com a vestibular.
+4. Sendo o pagamento do crédito tributário realizada a destempo, cabe ao contribuinte acrescer ao principal os acréscimos legais, de forma que plenamente exigível o débito cobrado na CDA nº 40 6 03 010576 00, pois que derivado de saldo remanescente ao pagamento efetuado pela empresa.
+5. A teor do preconizado pelo art. 151, II, do CTN, o depósito do montante integral suspende a exigibilidade do crédito tributário.
+6. Apelação e remessa oficial desprovidas.
+Opostos embargos de declaração por Transportadora Bompreço Ltda, foram rejeitados (fls. 284/288).
+Nas razões de agravo em recurso especial, a recorrente sustenta que "a decisão acima é suscetível de ser atacada por dois recursos: o agravo regimental (da parte que nega seguimento nos termos do art. 543-C § 7o, I, do CPC) e o agravo nos próprios autos, previstos pelo art. 544 do CPC com redação dada pela Lei 12.322/10 (da parte que inadmitiu o Recurso Especial)" (fl. 314). Esclarece que "vem interpor o presente recurso no menor dos prazos apontados na legislação, apontando os fundamentos pelos quais a decisão merece reforma (quer seja pela apreciação do agravo regimental, quer seja pela apreciação do agravo interposto nos próprios autos). " (fl. 314).
+Parecer do Ministério Público pelo não conhecimento do agravo (fls. 341/344).
+É o relatório.
+Ao apreciar a Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, DJe 12/5/2011, a Corte Especial deste Tribunal assentou que "não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543, § 7º, inciso I, do CPC". Esse entendimento vem sendo reiteradamente aplicado, como demonstram os seguintes precedentes: AgRg no AREsp 191.631/MA, Rel. Ministro Raul Araújo, Quarta Turma, DJe 6/11/2012; AgRg no Ag 1.368.497/SP, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 24/8/2012; e AgRg no AREsp 24.353/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 7/12/2011.
+Ante o exposto, não conheço do agravo em recurso especial.
+Determino a remessa dos autos ao Tribunal de origem, para apreciação do recurso como agravo interno, na esteira do que foi decidido no julgamento do AgRg no AREsp 84.138/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 23/3/2012; e do AgRg no Ag 1.345.024/SP, Rel. Ministro Napoleão Nunes Maia Filho, DJe 20/4/2012.
+Publique-se.
