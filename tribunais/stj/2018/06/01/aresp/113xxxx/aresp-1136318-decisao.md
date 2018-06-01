@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Agravo, interposto por CRISTIANO CESAR DOS SANTOS, em face de decisão que inadmitiu Recurso Especial manejado contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. CONCURSO PÚBLICO PARA INGRESSO NO CURSO DE FORMAÇÃO DE SARGENTOS. PEDIDO DE ANULAÇÃO DE DIVERSAS QUESTÕES. SENTENÇA ACOLHENDO A PRELIMINAR DE PRESCRIÇÃO E JULGANDO EXTINTO O FEITO. APELO AUTORAL. PRAZO PRESCRICIONAL. PRINCÍPIO DA ESPECIALIDADE. A REGRA DE REGÊNCIA DA MATÉRIA É O ARTIGO 1º DO DECRETO 20.910/32, QUE PREVÊ A PRESCRIÇÃO QUINQUENAL. DIREITO DO AUTOR QUE PASSOU A EXISTIR QUANDO FOI PUBLICADA A ÚLTIMA LISTA DE CLASSIFICAÇÃO DOS CANDIDATOS, 30/01/2008, MOMENTO ESTE QUE SE INICIOU A CONTAGEM DO PRAZO PRESCRICIONAL, SENDO QUE O PRESENTE FEITO FOI PROTOCOLIZADO EM 13/04/2015, NÃO HAVENDO DÚVIDAS DE QUE A PRETENSÃO FOI FULMINADA PELA PRESCRIÇÃO. COISA JULGADA QUE SOMENTE VINCULA AS PARTES DO PROCESSO, NÃO ATINGINDO TERCEIROS, SEJA PARA BENEFICIÁ-LOS OU PREJUDICÁ-LOS. ENTENDIMENTO DESTA CORTE DE JUSTIÇA ACERCA DO TEMA. RECURSO MANIFESTAMENTE IMPROCEDENTE. NEGO PROVIMENTO AO RECURSO" (fl. 900e)
+Sustenta a parte agravante, nas razões do Recurso Especial, violação ao art. 1º do Decreto 20.910/32. Afirma que não ocorreu a prescrição porquanto: a) "(..) a "actio nata" para requerer a recontagem dos pontos iniciou-se a partir da publicação do Boletim 031 de Dezembro de 2014, data a partir da qual o Autor tomou ciência do fato lesivo de seu direito (..)" (fl. 938e); b) "(..) os atos ilegais praticados em concursos realizados na esfera de órgãos da União, para promover o provimento de cargos e empregos tanto da administração direta como na indireta (que se aplica ao caso concreto, por analogia, ante à falta de disposição legal estadual), sujeitam-se à impugnação durante o lapso de um ano, a partir da homologação do concurso, conforme Lei nº 7.144/1983 (o que, de fato, não ocorreu; não há nenhum documento ou publicação que comprove a homologação do certame)" (fl. 941e).
+Requer, ao final, o conhecimento e provimento do Recurso Especial.
+Foram apresentadas contrarrazões (fls. 976/985e).
+Negado seguimento ao Recurso Especial (fls. 994/995e), foi interposto o presente Agravo (fls. 1.004/1.019e).
+Foi apresentada contraminuta (fls. 1.040/1.049e).
+A irresignação não merece acolhimento.
+O acórdão recorrido está calcado nas seguintes razões de decidir:
+"Em verdade, a sentença não merece qualquer reprimenda. Vejamos, objetivamente.
+A pretensão recursal da parte autora é contra a pronúncia da prescrição.
+Na forma do artigo 189 do CC, a prescrição tem por finalidade fulminar a pretensão do titular de um direito subjetivo violado, em razão da sua inércia durante um lapso temporal estabelecido em lei.
+Os prazos prescricionais são previstos em lei não podendo ser alterados pela vontade das partes. Contudo, a fluência desse prazo se inicia com o surgimento da pretensão correspondente, ou seja, com a possibilidade de o titular do direito subjetivo subjacente poder exigi-lo.
+Nesse sentido o Enunciado nº 14 da Jornada de Direito Civil: "O início do prazo prescricional ocorre com o surgimento da pretensão, que decorre da exigibilidade do direito subjetivo".
+Aplica-se ao caso o princípio da actio nata, pelo qual somente a partir do efetivo conhecimento do ato que viola um direito subjetivo, originando a pretensão, é que se inicia a contagem do prazo extintivo contemplado na norma legal.
+Com efeito, é cediço que as ações patrimoniais dos administrados contra a Fazenda Pública, seja qual for a sua natureza, prescrevem em cinco anos, na forma do artigo 1º do Decreto nº 20.910/1932, in verbis:
+(..)
+Insta salientar que a aludida norma legal possui caráter especial. Portanto, afasta a incidência da regra geral sobre a prescrição estabelecida no Código Civil.
+Conforme se verifica pelo exame das provas dos autos, a pretensão autoral se encontra prescrita, pois, nos termos do artigo 1º do Decreto nº 20.910/32, as dívidas passivas, bem como todo e qualquer direito ou ação em face da Fazenda Pública, prescrevem em cinco anos, contados da data do fato do qual se originar.
+Compulsando os autos, constata-se em análise aos documentos acostados aos autos, que as questões 30, 34 e 38 da Instrução Policial Militar foram anuladas pela Administração, conforme publicação em BOL PM nº 153, de 18/08/2006. Posteriormente, a Administração anulou a questão nº 13 da prova de Português, tendo sido publicada uma nova lista classificatória do concurso, conforme Aditamento ao BOL PM nº 001, de 30/01/2008.
+Assim, na hipótese, o direito do autor passou a existir quando da publicação do aditamento da lista de classificação dos candidatos, ocorrido em 30/01/2008, fls. 76/78, momento este que se iniciou a contagem do prazo prescricional.
+Destarte, considerando que o prazo prescricional quinquenal iniciou-se, no ano de 2008 e que o presente feito foi protocolizado no ano de 2015, não há dúvidas de que a pretensão foi fulminada pela prescrição.
+A jurisprudência deste E. Tribunal de Justiça alicerça o presente posicionamento:
+(..)
+Por fim, quanto a alegação de que seria beneficiário da coisa julgada, tal pretensão não merece prosperar.
+Conforme previsto no artigo 472 do CPC, a coisa julgada somente vincula as partes do processo, não atingindo terceiros, seja para beneficiá-los ou prejudicá-los.
+Neste diapasão, não se pode admitir que a decisão proferida em uma ação individual produza efeitos sobre quem não participou da lide.
+Destarte, porquanto examinou com extrema perfeição os fatos e aplicou corretamente o direito, a sentença não merece qualquer modificação ou reparo.
+Sem mais considerações, conheço e nego provimento ao recurso, mantendo a sentença em todos os seus termos" (fls. 901/903e)
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+A propósito:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ.
+1. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, incidindo o óbice da Súmula 282 do STF.
+2. A revisão do entendimento do aresto hostilizado acerca da prescrição, considerada a data de homolagação do concurso discutido, esbarra no óbice da Súmula 7 do STJ, uma vez que o Tribunal de origem decidiu a questão com base na realidade fático-probatório dos autos.
+3. Agravo interno desprovido" (STJ, AgInt no AREsp 294.410/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/11/2017, DJe de 02/02/2018).
+No mesmo sentido, as seguintes decisões monocráticas: STJ, AREsp 1.214.365/RJ, Rel. Min. SÉRGIO KUKINA, DJe de 23/04/2018; STJ, AREsp 1.194.922/RJ, Rel. Min. FRANCISCO FALCÃO, DJe de 19/03/2018; STJ, AREsp 1.130.214/RJ, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe de 19/03/2018; STJ, AREsp 1.197.730/RJ, Rel. Min. MAURO CAMPBELL MARQUES, DJe de 30/11/2017; e STJ, AREsp 1.079.588/RJ, Rel. Min. OG FERNANDES, DJe de 30/06/2017
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios, anteriormente fixados em 10% (dez por cento) sobre o valor da causa, para 11% (onze por cento) sobre o valor da causa, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
