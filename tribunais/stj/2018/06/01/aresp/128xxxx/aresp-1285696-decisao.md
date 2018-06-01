@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 264/265).
+O acórdão recorrido está assim ementado (e-STJ fl. 229):
+PRESTAÇÃO DE SERVIÇOS HOSPITALARES. AÇÃO MONITÓRIA. PACIENTE. LEGITIMIDADE PASSIVA. NULIDADE DO CONTRATO NÃO VISLUMBRADA. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. O paciente é responsável solidário com o signatário do termo de responsabilidade pelo pagamento das despesas hospitalares do qual se beneficiou. Situação emocional no momento da internação que, por si só, não enseja a ocorrência de coação por parte do hospital que justifique a desconsideração do termo de responsabilidade. Impossibilidade de indicar os serviços a serem prestados e os materiais a serem utilizados no momento da internação feita a título de emergência. Valor exigido que deve ser mantido por ausência de impugnação objetiva e diante da robusta prova documental discriminando os gastos, os quais se afiguram compatíveis com a gravidade do estado de saúde do paciente à época.
+Recurso desprovido.
+No especial (e-STJ fls. 240/254), fundamentado no art. 105, III, "a", da CF, os recorrentes alegaram afronta aos arts. 151 e 156 do CC/2002 e 46 do CDC, sob o argumento de nulidade do negócio jurídico por vícios na declaração de vontade consistentes no estado de perigo e na coação. Acrescentaram que teria sido violado o direito de informação.
+No agravo (e-STJ fls. 269/274), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pelo recorrido (e-STJ fls. 278/280).
+É o relatório.
+Decido.
+Ao não reconhecer o estado de perigo, assim se manifestou o Tribunal de origem (e-STJ fls. 231/232):
+Ademais, em que pese à situação emocional da corré Alessandra no momento da internação do tio, tal fato por si só não enseja a ocorrência de coação por parte do hospital, que justificasse a desconsideração do termo de responsabilidade por ela subscrito, pelo que não se vislumbra qualquer nulidade da contratação.
+De se consignar que também não se verifica qualquer irregularidade na contratação dos serviços hospitalares sem que do instrumento constasse especificamente os valores a serem pagos, tendo em vista que, no momento da internação, não é possível inferir-se todos os serviços e materiais necessários para o atendimento do paciente, ainda mais em hipótese de emergência como ocorreu no caso em tela. Tanto isso é verdade que o objeto do contrato consiste na prestação de serviços hospitalares ao paciente, ficando o hospital contratado autorizado a executar todos os procedimentos indicados pelo médico responsável ou por outros profissionais que venham a participar do atendimento, que se façam necessários à salvaguarda da vida do paciente (fl. 42).
+Para alterar os fundamentos acima transcritos e afastar as conclusões do acórdão impugnado, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
