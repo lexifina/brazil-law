@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA DE SEGUROS ALIANÇA DO BRASIL, contra decisão que negou seguimento ao recurso especial, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado:
+CIVIL - PROCESSUAL CIVIL - AÇÃO DE COBRANÇA DE SEGURO DE VIDA - APELAÇÃO - PRELIMINAR DE FALTA DE INTERESSE DE AGIR - AUSÊNCIA DE PRETENSÃO RESISTIDA - DESCABIMENTO - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - SUICÍDIO DA SEGURADA NO PRAZO BIENAL DE CARÊNCIA PREVISTO NA APÓLICE - PRESUNÇÃO RELATIVA DE PREMEDITAÇÃO NO BIÊNIO INICIAL A PERFECTIBILIZAÇÃO DO CONTRATO - AFASTAMENTO - RESPONSABILIDADE DA SEGURADORA QUE SE IMPÕE - SÚMULAS 105 DO STF E SÚMULA 61 DO STJ NÃO REVOGADAS PELO CC/2002- CORREÇÃO MONETÁRIA DEVIDA A PARTIR DA DATA DA RECUSA ADMINISTRATIVA INDEVIDA.
+Opostos embargos de declaração pela seguradora, foram rejeitados pelo Tribunal de origem (fls. 327-338, e-STJ).
+Nas razões do especial, a parte agravante sustentou a existência de dissídio jurisprudencial, além de negativa de vigência do artigo 798 do Código Civil, sustenta que o único critério previsto em lei, para que não haja o pagamento do capital estipulado é o lapso temporal de 2 (dois) anos entre a data do contrato de seguro e o dia em que ocorreu o suicídio.
+Assim delimitada a controvérsia, passo a decidir.
+Com razão a agravante.
+A Corte local consignou haver necessidade de se demonstrar a prévia intenção do segurado em cometer o suicídio, no momento da contratação do seguro de vida, a fim de obstar o pagamento do capital segurado ao beneficiário (fls. 266-282, e-STJ).
+Anoto que a conclusão da origem está em dissonância com o entendimento pacificado no Superior Tribunal de Justiça cuja orientação foi cristalizada por meio do Enunciado nº 610 desta Corte Superior, sob a compreensão de que o suicídio ocorrido nos 2 (dois) primeiros anos de vigência inicial do contrato de seguro de vida não enseja o pagamento da indenização contratada na apólice, devendo, contudo, ser observado o direito do beneficiário ao ressarcimento do montante da reserva técnica já formada.
+Acrescente-se que o art. 798 do Código Civil de 2002 adotou critério objetivo, afastando a discussão acerca da premeditação da morte.
+A propósito, cito:
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. SUICÍDIO DENTRO DO PRAZO DE DOIS ANOS DO INÍCIO DA VIGÊNCIA DO SEGURO. RECURSO ESPECIAL PROVIDO.
+1. Durante os dois primeiros anos de vigência do contrato de seguro de vida, o suicídio é risco não coberto. Deve ser observado, porém, o direito do beneficiário ao ressarcimento do montante da reserva técnica já formada (Código Civil de 2002, art. 798 c/c art. 797, parágrafo único).
+2. O art. 798 adotou critério objetivo temporal para determinar a cobertura relativa ao suicídio do segurado, afastando o critério subjetivo da premeditação. Após o período de carência de dois anos, portanto, a seguradora será obrigada a indenizar, mesmo diante da prova mais cabal de premeditação.
+3. Recurso especial provido.
+(REsp 1334005/GO, Rel. Ministro PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, DJe 23/6/2015)
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, a fim de julgar improcedente a pretensão de indenização securitária, mas condenar a seguradora à devolução dos valores relativos à reserva técnica já formada, com o cômputo de juros de mora desde a citação e correção monetária a partir do óbito do segurado até a data do efetivo pagamento.
+Salienta-se a impossibilidade de cômputo de correção monetária a partir da incidência da Taxa Selic (na qual juros moratórios e atualização encontram-se embutidos).
+Em razão da sucumbência recíproca das partes, a seguradora arcará com 40% (quarenta por cento) das custas apuradas e os agravados com o remanescente. Os honorários advocatícios são fixados em R$ 1.500,00 (mil e quinhentos reais) em favor da seguradora e R$ 1.000,00 (mil reais) para os agravados, observado o disposto no § 3º do art. 98 do novo Código de Processo Civil, se os agravados forem beneficiários da gratuidade da justiça.
+Intimem-se.
