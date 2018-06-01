@@ -1,0 +1,17 @@
+DECISÃO
+EDUARDO COSTA MARTINS FERREIRA alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão do Tribunal de Justiça do Estado de Goiás, denegatório do HC n. 213730-78.2017.8.09.0000.
+O recorrente busca a revogação do decreto de prisão preventiva exarado em seu desfavor no Processo n. 201702076169, vinculado à 2ª Fase da Operação Hicsos (Roda Presa). Argumenta, em breve resumo, que o ato judicial carece de fundamentação idônea para decretar a sua prisão preventiva, pela suposta prática dos crimes previstos nos arts. 2º, § 4º, IV, da Lei n. 12.850/2013 e 180, § 1º, do Código Penal.
+Suscita a ocorrência de excesso de prazo para o encerramento do feito, porquanto "encontra-se preso a mais de 100 (cem) dias, além do prazo estipulado pela lei aos atos processuais para o término da prestação jurisdicional" (fl. 187).
+Requer, liminarmente e no mérito, a expedição de alvará de soltura.
+Decido.
+Em consulta processual realizada na página eletrônica desta Corte Superior, verifico a anterior impetração do HC n. 432.917/GO, em que figura como paciente EDUARDO COSTA MARTINS FERREIRA, sendo que o referido habeas corpus se insurge contra o mesmo acórdão que aqui é apontado como ato coator (HC n. 213730-78.2017.8.09.0000) e possui objeto idêntico. Assim, este mandamus é mera reiteração de pedido anterior.
+Ademais, na sessão de julgamentos do dia 17/4/2018, a Sexta Turma desta Corte Superior, em acórdão de minha relatoria, denegou a ordem pleiteada, por identificar motivação suficiente a justificar a custódia preventiva do réu, conforme se verifica da seguinte transcrição, in verbis (grifei):
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E ROUBO CIRCUNSTANCIADO. OPERAÇÃO "HICSOS - RODA PRESA - 2ª FASE". PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO PARA ENCERRAMENTO DO FEITO. SUPRESSÃO DE INSTÂNCIA. ORDEM DENEGADA.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. A decisão que decretou a custódia preventiva evidenciou o fundado risco de reiteração delitiva, ante os indícios de o paciente ser um dos integrantes de organização criminosa voltada à prática de crimes contra o patrimônio.
+3. A questão atinente ao excesso de prazo para o encerramento do feito não foi apreciada pelo Tribunal a quo, de modo que seu exame diretamente por esta Corte Superior importaria em indevida supressão de instância.
+4. Ordem denegada.
+Dito isso, é incabível o processamento deste recurso ordinário. Confira-se:
+1. Hipótese na qual o recurso ordinário interposto consiste em mera reiteração de pedido formulado no HC n. 426.876/PE, que não foi conhecido por esta Turma em 6/2/2018. 2. Embora o recurso ordinário em habeas corpus consista no meio próprio para a apreciação da irresignação, a defesa optou por impetrar, também, habeas corpus substitutivo, o qual primeiramente foi despachado nesta Corte. Desse modo, a tese idêntica não pode ser simultaneamente analisada em impetrações/interposições posteriores.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente este recurso ordinário.
+Publique-se e intimem-se.
