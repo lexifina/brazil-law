@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo MUNICÍPIO DE NOVA IGUAÇU, em 12/08/2014, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+"ADMINISTRATIVO. COMPETÊNCIA DA JUSTIÇA FEDERAL PARA APRECIAR DESVIO OU APLICAÇÃO IRREGULAR DE VERBAS DO SUS. INTERESSE DA UNIÃO.
+1. Compete à Justiça Federal o processamento e julgamento de causas que tenham como objeto o desvio de verbas do Sistema Único de Saúde, repassada a Município pela União.
+2 - "O fato de os Estados e Municípios terem autonomia para gerenciar a verba financeira destinada ao SUS não elide a necessidade de prestação de contas perante o Tribunal de Contas da União, nem exclui o interesse da União na regularidade do repasse e da correta aplicação desses recursos." Precedente do STJ.
+3 - Apelação a que se dá provimento para anular a sentença recorrida, reconhecendo a competência da Justiça Federal, e determinar o retorno dos autos à Vara de Origem, a fim de que o MM. Juízo de 1º Grau dê seguimento ao feito" (fl. 332e).
+O acórdão em questão foi objeto de Embargos Declaratórios, os quais restaram rejeitados, nos seguintes termos:
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 535, DO CPC. MATÉRIA ANALISADA DE FORMA INTEGRAL. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. ENFRENTAMENTO DE TODOS OS DISPOSITIVOS LEGAIS. DESNECESSIDADE.
+- Cabem Embargos de Declaração quando houver, na sentença ou no acórdão, obscuridade, contradição ou for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal (art. 535, do CPC).
+- Não cabem Embargos de Declaração para reexame de matéria já decidida, ainda que a título de mero prequestionamento, sendo que a rediscussão do mérito do julgado só é viável através de recurso próprio.
+- A matéria foi analisada pelo órgão colegiado de forma integral, com motivação suficiente ao deslinde da controvérsia.
+- O Tribunal não está obrigado a examinar todos os argumentos e dispositivos legais ventilados no recurso. Basta fundamentação suficiente à elucidação da controvérsia.
+- Embargos de Declaração a que se nega provimento" (fl. 344e).
+Nas razões do Recurso Especial, aduz a parte recorrente violação ao art. 535, II, do CPC/73, pois "se omitiu o referido acórdão sobre a competência da Justiça Estadual para julgar a ação de cobrança de prestador de serviços à rede municipal, já que uma vez ingressado o recurso federal na esfera municipal, cabe ao Município a sua gestão, entendimento já consolidado pelo E. STJ, conforme demonstrado nas contrarrazões apresentadas pelo ora embargante" (fl. 350e).
+Requer, ao final, o provimento do Recurso Especial, "anulando-se o v. acórdão recorrido e, proferindo-se outro em seu lugar para determinar a extinção do processo sem julgamento do mérito, ante a ausência de interesse da União na demanda, sendo incompetente a Justiça Federal para processar e julgar o feito, nos termos do art. 267, IV do CPC" (fl. 351e).
+Apresentadas contrarrazões (fls. 355/361e), foi o recurso foi admitido na origem (fl. 368e).
+A insurgência não merece amparo.
+Trata-se, na origem, de ação de cobrança, ajuizada pela parte ora recorrida, em desfavor do Município de Nova Iguaçu, objetivando o repasse de verbas decorrentes de atendimento médico prestado.
+A sentença julgou extinto o processo sem resolução de mérito, em razão da incompetência da Justiça Federal para o julgamento da lide.
+O acórdão recorrido, por sua vez, anulou a sentença e determinou o retorno dos autos à Vara de Origem, ao fundamento de que, em conformidade com o art. 33 da Lei 8.090/90, "o Ministério da Saúde exerce o controle e fiscalização direta no caso de não aplicação ou desvios de verbas públicas federais advindas do Sistema Único de Saúde, repassadas a Estados e Municípios, razão porque não há como afastar a competência da Justiça Federal para o processamento e julgamento do feito" (fl. 322e).
+Desse modo, verifica-se que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1360762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Deixo de majorar os honorários recursais, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
