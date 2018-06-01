@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 261/262).
+O acórdão recorrido está assim ementado (e-STJ fl. 198):
+EMBARGOS DE TERCEIRO - DAÇÃO EM PAGAMENTO - Negócio realizado em instrumento particular, sem reconhecimento de firma - Previsão contratual de que o dador faria a outorga de escritura pública de procuração com poderes para a transferência do imóvel - Prova de que referida escritura foi efetivamente outorgada quatro meses depois, perante tabelião - Dívida que veio a ser constituída muito depois da outorga da referida escritura - Boa-fé das embargantes - Irrelevância da falta de registro imobiliário - Inexistência de fraude - Sentença reformada - APELAÇÃO PROVIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 210/213).
+No especial (e-STJ fls. 221/248), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa ao art. 1.227 do CC/2002, sustentando que a aquisição dos direitos reais sobre os imóveis ocorre exclusivamente quando do registro no fólio real, o que não ocorreu no caso em tela.
+Apontou afronta aos arts. 373 e 409, parágrafo púnico, IV, do CPC/2015, argumentando a fraude contra credores, tendo em vista que o instrumento particular de dação em pagamento acostado aos embargos de terceiro não traz certeza quanto à sua data, de modo que não teria ficado comprovada a pre-existência do referido documento, notadamente pelo fato de a procuração outorgada posteriormente à celebração do negócio jurídico não aludir ao cumprimento de escritura de dação em pagamento.
+No agravo (e-STJ fls. 265/272), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pelas recorridas (e-STJ fls. 275/282).
+É o relatório.
+Decido.
+Quanto ao art. 1.227 do CC/2002, o Tribunal de origem consignou que (e-STJ fl. 201):
+Não é demais lembrar a desnecessidade do registro da dação em pagamento para a concessão da tutela possessória pleiteada na ação de embargos de terceiro, conforme entendimento já sumulado pelo Colendo STJ, sob nº 84.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão de que é admissível a oposição de embargos de terceiro fundados em alegação de posse advinda de negócio jurídico não submetido a registro. Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Em relação aos arts. 373 e 409, parágrafo púnico, IV, do CPC/2015, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 199/200):
+Com efeito, as embargantes já eram titulares de 2/3 do domínio da referida unidade autônoma desde 1991, conforme registrado no fólio real, por força de doação então realizada por seus genitores, até que sua genitora, usufrutuária, adoeceu e então os filhos arcaram com as despesas de tratamento. E para reembolsar as despesas realizadas pelas irmãs, [NOME] firmou a dação em pagamento, transferindo-lhes a terça parte ideal que lhe cabia, conforme instrumento particular datado de 03/07/11, encartado a fls. 19/21, onde consta que
+(..)
+E conforme pactuado no instrumento de dação em pagamento, as partes contratantes comparecem ao 4º Tabelião de Notas de Santos em 10/11/11, onde [NOME] outorgou às apelantes a procuração de fls. 29/30, com poderem amplos de negociação do referido imóvel.
+E a penhora da fração ideal correspondente a uma terça parte da unidade autônoma, que se acreditava pertencente a [NOME], se realizou em 19/10/15, como se vê no Termo de Penhora e Depósito juntado a fls. 17.
+A r. sentença, portanto, não considerou a existência do instrumento público de procuração, datado de 10/11/11, que muito antes da constituição da dívida sucumbencial em execução, confirmou os termos da dação em pagamento, ao menos para fins de se afastar a suspeita de fraude mencionada no decisum.
+Para alterar os fundamentos acima transcritos e reconhecer que o instrumento público de procuração não seria suficiente para confirmar os termos da dação em pagamento, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
