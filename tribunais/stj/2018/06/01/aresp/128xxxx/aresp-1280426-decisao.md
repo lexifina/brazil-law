@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que inadmitiu o recurso especial, devido à incidência da Súmula n. 7/STJ (e-STJ fl. 158).
+O acórdão do TJMG traz a seguinte ementa (e-STJ fl. 118):
+EMENTA: AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. PENHORA INCIDENTE SOBRE IMÓVEL DE PROPRIEDADE DO EXECUTADO. SUBSISTÊNCIA DA PENHORA. EMBARAÇO À REALIZAÇÃO DA PENHORA PELO EXECUTADO. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. MULTA. MANUTENÇÃO. - Comprovado nos autos o fato de que a penhora incidiu sobre bem imóvel de propriedade do executado, deve ser mantida a constrição. - Diante da prática, pelo executado, de atos atentatórios à dignidade da justiça, com o intuito de dificultar as tentativas de penhora em seu imóvel, deve ser mantida a multa fixada na instância de origem, a ser revertida em favor do exequente, em observância ao disposto no art. 774, parágrafo único, do CPC/15.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 132/138).
+Nas razões do recurso especial (e-STJ fls. 141/146), interposto com fundamento no art. 105, III, alínea "c", da CF, o recorrente defendeu existir dissídio interpretativo, visto que seria inviável a penhora de bens de terceiro, sem a expressa anuência dos proprietários desses, justificando, dessa maneira, o levantamento da penhora do imóvel constrito.
+Acrescentou que a mera ausência de bens passíveis de penhora em nome do executado não autorizaria a aplicação de multa por ato atentatório à dignidade da justiça, sendo, dessa forma, devido o afastamento da incidência do referido encargo.
+Não foram apresentadas contrarrazões (e-STJ fl. 156).
+No agravo (e-STJ fls. 161/167), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 170/175).
+É o relatório.
+Decido.
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015).
+De tais ônus o recorrente não se desincumbiu, pois não indicou os dispositivos legais supostamente objeto de interpretação divergente.
+Referida providência é indispensável ao recurso especial, mesmo quando interposto com fundamento na alínea "c" do permissivo constitucional. Ausente tal requisito, a fundamentação recursal mostra-se deficiente e torna inviável o conhecimento do recurso, ante o óbice da Súmula n. 284/STF, aplicada por analogia. Sobre o tema:
+PROCESSO CIVIL E ADMINISTRATIVO. EMBARGOS DE DIVERGÊNCIA. DIVERGÊNCIA NOTÓRIA. NÃO DEMONSTRAÇÃO. FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO.
+1. Três foram os motivos para o não conhecimento do recurso especial interposto pela alínea "c" do permissivo constitucional: a) inexistência de dissídio notório em torno do quantum indenizatório fixado em razão dos danos morais; b) simples transcrição de ementas não serve para comprovar divergência; c) não indicação do dispositivo legal para configuração do dissídio jurisprudencial.
+2. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados, é imprescindível a indicação do dispositivo de lei tido por violado quer recurso tenha sido interposto pela alínea "a" ou pela "c" do permissivo constitucional. "Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial." (AgRg no REsp 1.346.588/DF, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, julgado em 18/12/2013, DJe 17/03/2014.).
+3. (..) Agravo regimental improvido.
+(AgRg nos EAREsp n. 75.689/RJ, Relator Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 17/6/2015, DJe 4/8/2015.)
+Ainda nesse sentido: AgInt no AREsp n. 280.380/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 6/10/2016, DJe 17/10/2016, e AgInt no REsp n. 1.631.631/RS, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 28/3/2017, DJe 31/3/2017.
+Registre-se, por fim, que "a divergência entre julgados do mesmo Tribunal não enseja recurso especial" (Súmula n. 13/STJ).
+Nessa linha: AgInt no AREsp n. 1.121.068/SP, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 21/11/2017, DJe 28/11/2017, e AgInt no AREsp n. 1.082.508/SC, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/8/2017, DJe 4/9/2017.
+Nas alegações do especial, o recorrente indicou precedentes do TJMG, para justificar a existência do apontado dissídio jurisprudencial (e-STJ fls. 144/146).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
