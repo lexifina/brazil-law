@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos ter sido o recorrente condenado às penas de 2 anos de reclusão e de 15 dias de detenção, no regime semiaberto, mais pagamento de 20 dias-multa, pela prática dos crimes previstos nos arts. 14 da Lei n. 10.826/2003 e 330 do Código Penal, ocasião em que lhe foi negado o recurso em liberdade.
+Impetrado habeas corpus no Tribunal de origem objetivando a liberdade do ora recorrente, a ordem foi parcialmente conhecida e, nessa extensão, denegada, nos termos da seguinte ementa (e-STJ fl. 97):
+HABEAS CORPUS - PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO - DESOBEDIÊNCIA - AUSÊNCIA DE DOCUMENTAÇÃO INDISPENSÁVEL À ANÁLISE DAS ALEGAÇÕES DEFENSIVAS - CARÊNCIA INSTRUTÓRIA - INCOGNIÇÃO - AFIRMAÇÃO DE INCOMPATIBILIDADE DA SEGREGAÇÃO DO PACIENTE COM O REGIME SEMIABERTO IMPOSTO NA SENTENÇA - AUSÊNCIA DE COMPROVAÇÃO.
+1. A ação de habeas corpus, por sua natureza célere, não comporta dilação probatória, exigindo-se para a sua análise prova pré -constituída a cargo do impetrante. 2. Não tendo a impetração promovido a juntada de cópia da documentação indispensável para a análise do alegado, impossível apreciar-lhe o conteúdo. 3. Inviável acolher a alegação de que há incompatibilidade da segregação do paciente em relação ao regime semiaberto imposto na sentença, se não foi trazido qualquer documento apto a comprová-la e se constado que houve a expedição da guia de execução provisória, com a posterior transferência do paciente para Comarca em que há recolhimento dos presos nas condições do regime semiaberto.
+No presente recurso, sustenta a defesa que a negativa do recurso em liberdade não veio acompanhada da devida motivação, visto que não apontada, concretamente, a presença dos requisitos contidos no art. 312 do Código de Processo Penal.
+Aduz a desproporcionalidade da manutenção da custódia em razão da fixação, na sentença, do regime prisional semiaberto, asseverando, ainda, que tanto o Juízo de primeiro grau quanto o Tribunal de origem foram omissos no tocante à detração penal, a qual, se aplicada, teria culminado no estabelecimento do regime aberto para início de desconto da reprimenda privativa de liberdade e até mesmo na concessão do livramento condicional.
+Busca, liminarmente, possa o recorrente aguardar em liberdade o julgamento deste recurso.
+No mérito, pugna seja fixado o regime aberto ou concedido o livramento condicional.
+Liminar indeferida às e-STJ fls. 122/124.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ fl. 143).
+É, em síntese, o relatório.
+Pois bem. Compulsando os autos verifico que os pleitos meritórios formulados neste recurso, a saber, fixação do regime aberto ou concessão do livramento condicional, não foram submetidos ao crivo do Tribunal de origem, o que impede o exame das questões por esta Corte, sob pena de incorrer em vedada supressão de instância e violação do princípio do duplo grau de jurisdição.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que se revela "inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: Ed. JusPodivm, 2016, p. 2.470).
+Logo, ante a falta de manifestação do colegiado estadual sobre a tese, percebe-se a incompetência desta Corte Superior para o processamento e julgamento do tema, já que inexiste, no ponto, ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça.
+A propósito:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA. INVIÁVEL. NÃO CONHECIMENTO. CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.
+1. Em sede de habeas corpus não há espaço para discussão de autoria delitiva, uma vez que a ação mandamental em comento visa sanar ilegalidade verificada de plano.
+2. Constatada a falta de manifestação do Tribunal de origem a respeito do constrangimento ilegal decorrente de excesso de prazo para formação da culpa, obsta-se a análise da matéria nesse momento, pois provocaria indevida supressão de instância.
+ ..
+(HC 387.938/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017, grifei)
+Outro não foi o entendimento exarado pelo Ministério Público Federal (e-STJ fl. 143).
+À vista do exposto, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
