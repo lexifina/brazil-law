@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que inadmitiu o recurso especial, sob os seguintes fundamentos: (a) ausência de ofensa ao art. 1.022, II, do CPC/2015 e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 541/542).
+O TJDFT deu parcial provimento à apelação, em acórdão assim ementado (e-STJ fl. 494):
+PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS, SOCIEDADE EMPRESÁRIA. RETIRADA DE SÓCIO. RESPONSABILIDADE.
+Na primeira fase da ação de prestação de contas, apenas se deve perquirir acerca da obrigatoriedade ou não do réu em prestá-los, ficando para a segunda fase o pronunciamento valorativo quanto à sua regularidade, apurando-se a existência de crédito ou débito que remeta à responsabilidade das partes.
+Nos termos do art. 1032 do CC, a responsabilidade do sócio pelas obrigações sociais anteriores subsiste até o biênio posterior à averbação da resolução da sociedade.
+Inexistindo nos autos prova de que a alteração do quadro societário tenha sido devidamente averbada no órgão competente, deve a sentença ser reformada Apelação do réu conhecida e não provida. Apelação do autor conhecida e provida parcialmente.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 519/525).
+Nas razões do recurso especial (e-STJ fls. 529/536), interposto com base no art. 105, III, "a" e "c", da CF, os recorrentes apontaram violação do art. 1.022, II, do CPC/2015 (CPC/1973, art. 535, II), pois a Corte local, apesar dos aclaratórios, teria se omitido quanto às teses de que: (a) o sócio retirante não teria legitimidade ou interesse para aferir contas da empresa da qual teria se retirado, (b) "autorizar a eterna prestação de contas a ex-sócio que se nega a assinar a alteração contratual, data venia, corresponde a deixar ex-sócio interferir na administração da empresa" (e-STJ fl. 532), (c) a sentença proferida após o julgamento da apelação teria reconhecido ser o recorrido ex-sócio da empresa e (d) o acórdão deveria ser integrado para nele fazer constar os fundamentos da negativa das contas prestadas enquanto o recorrido teria sido sócio, visto que teria assinado os balanços de 2011 e 2012, não havendo, portanto, controvérsia quanto à sua apresentação.
+Sustentaram afronta ao art. 1.032 do CC/2002, defendendo que "a interpretação dada ao citado artigo não pode prevalecer, uma vez que o sócio retirante (espontaneamente) não possui qualquer interesse ou legitimidade em analisar as contas da sociedade. É fato que o art. 1.032 do CC/2002 indica uma ultratividade do contrato social. Contudo, tal artigo não edifica uma obrigação da sociedade como o ex-sócio" (e-STJ fl. 534).
+Argumentaram, segundo a jurisprudência do STJ, que o artigo teria aplicação somente se descumpridas as obrigações da empresa e de seus sócios, não se tratando de obrigação ordinária (e-STJ fls. 535/536).
+Não foram apresentadas contrarrazões (e-STJ fl. 540).
+No agravo (e-STJ fls. 546/555), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 558).
+É o relatório.
+Decido.
+Com relação à afronta ao art. 1.022 do CPC/2015, importa esclarecer que os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+A Justiça de origem, ao rejeitar a tese de contradição no acórdão impugnado, esclareceu que (e-STJ fl. 524):
+De fato, o decidido no acórdão embargado - na oportunidade de julgamento de recurso em desfavor de sentença proferida na ação de prestação de contas nº 2013.01.1.187643-7 - e o proferido em sentença na ação de dissolução de sociedade nº 2014.01.1.154927r5 não traduz a alegada contradição apontada.
+Com efeito, a contradição apta a ser sanada via embargos de declaração é o vício da decisão entre a fundamentação e a parte conclusiva da sentença/acórdão ou dentro do próprio dispositivo.
+Ressalto que o acórdão analisou detidamente o recurso, concluindo que somente após a averbação no órgão competente, a mudança do quadro societário possui efeito erga omnes e, no caso, analisando os documentos juntados pelas partes nos autos, não havia comprovação de que a averbação da retirada do autor como sócio da sociedade ré tivesse ocorrido até aquele momento.
+Assim, não há qualquer contradição a ser sanada.
+De toda sorte, saliento que se houve erro no julgamento ou decisão equivocada à luz da documentação e dos fatos constantes dos autos, não se está frente à contradição ou omissão, mas frente à hipótese de revisão do julgamento, para a qual não sé presta a via recursal eleita.
+No caso dos autos, a Corte local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte. Não há, portanto, omissão alguma a ser sanada.
+O TJDFT, à luz do art. 1.032 do CC/2002, entendeu que a responsabilidade do sócio recorrido pelas obrigações sociais anteriores subsistia até o biênio posterior à averbação da resolução da sociedade e que, somente após a averbação no órgão competente, a mudança do quadro societário possuía efeito erga omnes.
+O TJDFT concluiu, segundo os documentos juntados aos autos, que não havia prova da averbação da retirada do recorrido dos quadros da sociedade empresária recorrente, conforme de infere do excerto a seguir (e-STJ fls. 500/502):
+Todavia, cabe ao sócio retirante promover a notificação daquele ou daqueles que irão permanecer na sociedade, de acordo com o legalmente previsto.
+Por meio do documento de f. 29/30, resta comprovado que o autor notificou extrajudicialmente os demais sócios, a fim de proceder sua retirada da sociedade empresarial, cujo documento foi devidamente recebido em 06/09/2013, conforme documento de f. 36. A resposta dos réus, confirmando o recebimento da notificação, se deu em 31/10/2013 (f. 40/41).
+Noutro giro, comprova o autor que continuava recebendo cobranças de dívidas da sociedade referentes ao período de julho, setembro, outubro o novembro de 2013 (f. 43/46).
+Aliado a isso, a certidão de f. 331/333 do 1º Oficio de Registro Civil das Pessoas Naturais e Jurídicas comprova que o autor ainda constava como sócio da sociedade empresária até 10/10/2014.
+Dessa forma, apesar do primeiro réu ter alegado que o comparecimento do autor, atuando como sócio da empresa, findou em 31/05/2013 (f. 130 e 134/137). tenho que assiste razão ao autor.
+Com efeito, nos termos do art. 1032 do CC, a responsabilidade do sócio pelas obrigações sociais anteriores subsiste até o biênio posterior à averbação da resolução da sociedade. Logo, somente após a averbação no órgão competente, a mudança do quadro societário possui efeito erga omnes.
+Analisando os documentos juntados pelas partes nos autos, não há comprovação de que a averbação da retirada do autor como sócio da sociedade ré tenha ocorrido até o presente momento.
+(..)
+Assim sendo, inexistindo nos autos prova de que a alteração do quadro societário tenha sido devidamente averbada no órgão competente e que subsiste até então a responsabilidade obrigacional do autor, tenho que o termo final da prestação de contas não coincide com seu comparecimento na sociedade ré, devendo a sentença ser reformada.
+A Corte local assentou ainda que (e-STJ fls. 505/506):
+Afirma que sua retirada da sociedade, de fato, ocorreu em 5.9.13, quando enviou notificação extrajudicial aos réus. No entanto, os réus só responderam a notificação em 31.10.13, ou seja, até esta data o autor permaneceu no quadro social da empresa.
+A retirada, exclusão ou morte do sócio, não o exime, ou a seus herdeiros, da responsabilidade pelas obrigações sociais anteriores, até dois anos após averbada a resolução da sociedade; nem nos dois primeiros casos, pelas posteriores e em igual prazo, enquanto não se requerer a averbação (art. 1.032 do CC).
+Certidão do 1º Oficio de Registro Civil das Pessoas Naturais e Jurídicas, de 10.10.14, demonstra que o autor ainda consta como sócio da sociedade (fls. 331/3).
+Não há nos autos nenhum documento que prove a alteração do quadro social com a retirada do autor.
+Se não averbada a retirada do sócio, subsiste sua responsabilidade pelas obrigações sociais e o direito de exigir prestação de contas da empresa e de seu administrador.
+Ressalte-se que não pode o réu ser obrigado a prestar contas sem data limite definida, eis que as contas devem ser prestadas em 48 horas, nos termos do art. 917 do CPC.
+Nego provimento ao recurso do réu. Dou provimento, em parte, ao recurso do autor apenas para que a obrigação dos réus de prestar contas ao autor seja até a data de julgamento do recurso.
+A respeito de tais razões de decidir, os recorrentes não se manifestaram, limitando-se a alegar afronta ao art. 1.032 do CC/2002, porque o sócio retirante não teria interesse ou legitimidade para analisar as contas da sociedade, uma vez que o citado dispositivo, apesar de indicar ultratividade do contrato social, moderando a responsabilidade do sócio retirante, não geraria obrigação da sociedade para com o ex-sócio (e-STJ fl. 534).
+Assim, não estando impugnado fundamento suficiente para manter o acórdão recorrido, aplicável a Súmula n. 283/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+O recurso especial e agravo nos próprios autos foram interpostos na vigência do CPC/2015 (e-STJ fls. 526 e 542, respectivamente), sendo-lhes aplicável a disposição inserta no art. 85, § 11, da nova lei processual (conforme orientação emanada do Enunciado n. 7 aprovado no Plenário do STJ em 16/3/2016, segundo a qual somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível arbitrar honorários sucumbenciais recursais, na forma do art. 85, § 11, do CPC/2015).
+Em tal circunstância, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado (e-STJ fl. 372), fazendo-o com fundamento no art. 85, § 11, do CPC/2015, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
