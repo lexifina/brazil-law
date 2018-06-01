@@ -1,0 +1,78 @@
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. SUBVERSÃO DA ORDEM E DISCIPLINA CARCERÁRIAS. ART. 50, I, DA LEP. FALTA GRAVE. CARACTERIZAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. Consolidou-se nesta Corte Superior de Justiça entendimento no sentido de que a subversão da ordem e disciplina carcerárias constitui-se em falta grave, a teor do art. 50, I, da Lei de Execuções Penais.
+3. In casu, a Corte de origem ressaltou que: Restou apurado, por meio de regular procedimento disciplinar, que [NOME] participou de movimento para subverter a ordem e a disciplina do estabelecimento prisional no qual estava preso.
+4. Impende ressaltar que o habeas corpus não é a via adequada para apreciar o pedido de absolvição/desclassificação da falta grave, tendo em vista que, para se desconstituir o decidido pela instância ordinária, mostra-se necessário o reexame aprofundado dos fatos e provas constantes dos autos da execução, procedimento vedado pelos estreitos limites do remédio heroico, caracterizado pelo rito célere e por não admitir dilação probatória.
+5. Inexistência, portanto, na espécie, de constrangimento ilegal, a justificar a concessão da ordem de ofício.
+6. Habeas corpus não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido. Os Srs. Ministros Ribeiro Dantas e Felix Fischer votaram com o Sr. Ministro Relator. Ausentes, justificadamente, os Srs. Ministros Joel Ilan Paciornik e Jorge Mussi.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça de São Paulo.
+Consta dos autos que o Juízo das Execuções Penais da Comarca de Marília/SP considerou de natureza média a infração disciplinar cometida pelo ora paciente.
+Irresignado, o Ministério Público interpôs agravo em execução junto ao TJSP, o qual deu provimento ao recurso, em decisum assim sumulado (e-STJ fl. 37):
+DERAM PROVIMENTO AO RECURSO MINISTERIAL, PARA O FIM DE CLASSIFICAR A CONDUTA DO SENTENCIADO COMO INFRAÇÃO DISCIPLINAR DE NATUREZA GRAVE, FICANDO A CARGO DA JUÍZA "A QUO" A APLICAÇÃO DAS SANÇÕES DISTO DECORRENTES. V.U.
+Na presente impetração, alega a Defensoria Pública que tal decisão "ofende a literal disposição do princípio da estrita legalidade penal", uma vez que a conduta do paciente, in casu, não se encontra descrita no rol taxativo do artigo 50 da LEP.
+Argumenta que a decisão impugnada desrespeita, também, o princípio constitucional da proporcionalidade no reconhecimento e imposição das sanções disciplinares em sede de execução penal, princípio esse sustentado pela jurisprudência dos tribunais superiores.
+Requer, liminarmente, a suspensão - até o julgamento final do mandamus - dos efeitos do acórdão impugnado, e, no mérito, a cassação do acórdão prolatado pela Corte de origem.
+Liminar indeferida (e-STJ fls. 46/47).
+Informações prestadas pelo Juízo das Vara das Execuções Criminais da Comarca de Marília/SP (e-STJ fl. 53) e pelo Presidente da Seção de Direito Criminal do TJSP (e-STJ fls. 56/52).
+O Ministério Público Federal opina pelo não conhecimento do habeas corpus (e-STJ fls. 64/68).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O Superior Tribunal de Justiça, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo em que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+Nesse sentido, a título de exemplo, confiram-se os seguintes precedentes: STF, HC n. 113890, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 3/12/2013, publicado em 28/2/2014; STJ, HC n. 287.417/MS, Relator Ministro SEBASTIÃO REIS JÚNIOR, Quarta Turma, julgado em 20/3/2014, DJe 10/4/2014; e STJ, HC n. 283.802/SP, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014).
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa, passo à análise do pleito a fim de verificar a existência de eventual constrangimento ilegal.
+No caso dos autos, o Tribunal impetrado deu provimento ao agravo em execução interposto pelo Ministério Público - reformando o decisum do Juízo das Execuções Criminais -, sob alegação de que o apenado participou de subversão da ordem e disciplina do presídio, o que configura falta grave.
+Confira-se excerto do voto condutor do acórdão proferido, verbis (e-STJ fls. 38941):
+O reclamo merece guarida.
+Restou apurado, por meio de regular procedimento disciplinar, que [NOME] participou de movimento para subverter a ordem e a disciplina do estabelecimento prisional no qual estava preso.
+O funcionário [NOME], declarou que, no dia do episódio, ao realizar a inclusão de [NOME] no estabelecimento prisional referido no procedimento disciplinar, encontrou entre os seus pertences vários papéis contendo regras de uma facção criminosa. Ao ser indagado, [NOME] confessou a propriedade do material e afirmou que era membro de tal facção.
+Nesse sentido foram as declarações do agente [NOME], que acompanhava o seu companheiro de trabalho [NOME].
+É isto o que consta de fls. 5v., 11/14, 16v., 17 e 19/21.
+Na presença de seu defensor, [NOME] confessou a falta (fl. 15v.).
+Vê-se, todavia, que a Magistrada a quo desclassificou a infração disciplinar atribuída a [NOME], apurada em regular procedimento administrativo, entendendo que a falta existiu, mas que era, apenas, de média gravidade (fls. 47/47v.).
+No entanto, segundo dispõe o artigo 50, inciso I, da Lei nº 7.210/84, comete falta grave o condenado a pena privativa de liberdade que incitar ou participar de movimento para subverter a ordem ou a disciplina.
+Nesse sentido esta Câmara já decidiu o seguinte:
+"Agravo cm execução penal. Falta grave. 1. Prova que assegura a ocorrência do fato caracterizador da falta grave e a identificação da respectiva autoria. 2. A posse de documentos que estimulam a criminalidade organizada. Agravo não provido" (TJSP - Agravo de Execução Penal nº 7003960-98.2015.8.26.0071 - 6ª Câmara de Direito Criminal - Relator Desembargador JOSÉ RAUL GAVIÃO DE ALMEIDA - Julgamento realizado em 15/SET/2016).
+Portanto, sem dúvida nenhuma, [NOME] praticou falta disciplinar de natureza grave, nos termos do dispositivo legal acima referido.
+Quanto aos efeitos decorrentes dessa infração disciplinar, adoto o entendimento de que "(..) reconhecido o cometimento de falta grave pelo preso, cabe ao juízo da execução decretar a perda dos dias remidos, medida que não ofende direito adquirido ou coisa julgada. A própria Lei de Exeução Penal estabelece nos arts. 50 e 127 que as faltas disciplinares de natureza grave impõem a perda dos dias remidos, gerando como consequência o reinício da contagem do prazo para a concessão dos benefícios. Precedentes" (STJ - 5ª Turma - HC nº 73.682/SP - Relatora Ministra LAURITA VAZ - Julgamento realizado em 28/NOV/2007 - DJU 17/DEZ/2007, página 244).
+Pelo exposto, DOU PROVIMENTO ao recurso ministerial, para o fim de classificar a conduta do sentenciado como infração disciplinar de natureza grave, ficando a cargo da Juíza a quo a aplicação das sanções disto decorrentes.
+Com efeito, consolidou-se nesta Corte Superior de Justiça entendimento no sentido de que a subversão da ordem e disciplina carcerárias constitui-se em falta grave, a teor do art. 50, I, da Lei de Execuções Penais.
+A propósito, confira-se, a título exemplificativo, o seguinte aresto:
+EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. FALTA GRAVE. INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR - PAD. PRAZO PRESCRICIONAL DE 3 ANOS. NÃO OCORRÊNCIA. VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. DEFESA TÉCNICA. EXISTÊNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. A jurisprudência do Superior Tribunal de Justiça estabelece o prazo prescricional de três anos para a aplicação de sanção disciplinar decorrente do cometimento de falta grave, após a edição da Lei n. 12.234/2010, utilizando-se, para tanto, o art. 109, VI, do Código Penal, diante da inexistência de legislação específica quanto à prescrição em sede de execução.
+3. In casu, o fato ocorreu em 27/4/2012, data em que agentes penitenciários tomaram conhecimento de que o paciente, juntamente com outros sentenciados, "estavam exercendo forte liderança negativa sobre os demais sentenciados, causado subversão à ordem e à disciplina na unidade prisional", e a decisão que homologou a falta disciplinar de natureza grave foi proferida em 10/1/2013.
+4. Não há falar em ofensa aos princípios da ampla defesa e do contraditório, uma vez que o paciente foi devidamente acompanhado de defesa técnica durante o procedimento disciplinar, com apresentação de alegações finais e posterior interposição de agravo em execução, que inclusive foi parcialmente provido, para afastar a interrupção do lapso temporal para a concessão de livramento condicional e comutação de penas.
+5. Habeas corpus não conhecido.
+(HC 303.862/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/06/2016, DJe 03/08/2016)
+Impende ressaltar que o habeas corpus não é a via adequada para apreciar o pedido de absolvição/desclassificação da falta grave, tendo em vista que, para se desconstituir o decidido pelo Juízo das Execuções Criminais, mostra-se necessário o reexame aprofundado dos fatos e provas constantes dos autos da execução, procedimento vedado pelos estreitos limites do remédio heroico, caracterizado pelo rito célere e por não admitir dilação probatória.
+Incide, na espécie, a seguinte diretriz jurisprudencial, litteris:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. NOVA ORIENTAÇÃO JURISPRUDENCIAL. FALTA GRAVE. VIOLAÇÃO DO DEVER DE OBEDIÊNCIA AO SERVIDOR. INSUBORDINAÇÃO. PEDIDO DE ABSOLVIÇÃO OU DE DESCLASSIFICAÇÃO PARA FALTA LEVE OU MÉDIA. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. TESE DE INCONSTITUCIONALIDADE DE DISPOSITIVO DA RESOLUÇÃO SAP Nº 144/2010 POR VIOLAÇÃO DA RESERVA LEGAL. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+I - Não mais se admite, perfilhando o entendimento do col. Pretório Excelso e da eg. Terceira Seção deste Superior Tribunal de Justiça, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não-conhecimento da impetração. Contudo, no caso de se verificar configurada flagrante ilegalidade, recomenda a jurisprudência a concessão da ordem, de ofício.
+II - O paciente não teve contra si reconhecida falta disciplinar grave apenas pela posse de bens sem autorização no interior do estabelecimento prisional, mas pela sua postura de desobediência e por haver proferido ameaças contra agentes penitenciários, o que se enquadra como falta grave nos termos do art. 39 incisos II e IV c.c. art. 50, inciso VI, da Lei de Execução Penal.
+III - "A análise da tese de não-configuração da falta grave, ou de desclassificação para falta de natureza média, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede  .. " (HC n. 259.028/SP, Quinta Turma, Rei. Min. Laurita Vaz, DJe de 7/3/2014).
+IV - Quanto à alegação de que o art. 90 da Resolução SAP n.0 144/2010 violaria a reserva de lei, observo que o eg. Tribunal a quo sequer se manifestou acerca da matéria, ficando impedida esta Corte de proceder à sua análise, sob pena de indevida supressão de instância. Habeas corpus não conhecido.
+(HC 352.49l/SP, Rel.. Ministro FELIX FISCHER, Quinta Turma, julgado em 7/6/2016, DJe 3/8/2016).
+EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. PRÁTICA DE FALTA GRAVE. HOMOLOGAÇÃO. PAD. OCORRÊNCIA. DECISÃO FUNDAMENTADA. MODIFICAÇÃO. REEXAME DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Hipótese em que o apenado "evadiu-se da área do presídio""para adquirir bebida alcoólica para seu consumo, fato que foi considerado
+falta disciplinar de de natureza grave pelas instâncias ordinárias, com aplicação dos consectários legais.
+3. O reexame da questão, consubstanciada na alegação de que o fato não configura falta disciplinar de natureza grave, não se coaduna com a via estreita do habeas corpus, em virtude da necessidade de incursão no conjunto fático-probatório dos autos, incabível nesta sede.
+4. Habeas corpus não conhecido.
+HC 298.281/RS, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 1º/12/2015, DJe 9/12/2015).
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. AUSÊNCIA DE EXAME DE CORPO DE DELITO. DESAPARECIMENTO DOS VESTÍGIOS. FALTA SUPRIDA POR OUTROS MEIOS DE PROVA. ART. 167 DO CPP. ABSOLVIÇÃO. IMPROPRIEDADEDA VIA ELEITA. ORDEM DENEGADA.
+1. Em que pese o art. 158 do Código de Processo Penal determinar que ""quando a infração deixar vestígios, será indispensável o exame de corpo de delito, direto ou indireto, não podendo supri-lo a confissão do acusado", esta não é a hipótese dos autos, uma vez que o apenado engoliu toda a substância entorpecente que trazia consigo, inviabilizando a realização do aludido exame pericial.
+2. Nesses casos, deve ser observado o art. 167 do Código de Processo Penal que, na hipótese de desaparecimento dos vestígios, autoriza a utilização da prova testemunhai, solução adotada pelas instâncias ordinários que, valendo-se dos diversos depoimentos judiciais e da confissão extrajudicial ao apenado, entenderam haver elementos suficientes para caracterização da falta grave.
+3. O habeas corpus não é a via adequada para apreciar o pedido de absolvição da falta grave, tendo em vista que para se desconstituir o decidido pelo Juiz das execuções, confirmado pelo Tribunal de origem, mostra-se necessário o reexame aprofundado dos fatos e provas constantes dos autos da execução, procedimento vedado pelos estreitos limites do remédio heróico, caracterizado pelo rito célere e por não admitir dilação probatória.
+4. Habeas corpus denegado.
+(HC 233.107/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 7/8/2012, DJe 23/8/2012).
+Inexistência, portanto, de constrangimento ilegal, a justificar a concessão da ordem de ofício.
+Diante do exposto, não conheço do habeas corpus.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
