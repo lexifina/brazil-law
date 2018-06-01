@@ -1,0 +1,11 @@
+DECISÃO
+CARLOS ROBERTO DE SIQUEIRA CASTRO interpõe agravo regimental contra decisão de fls. 634-638, em que neguei provimento ao recurso especial, por aplicar a Súmula n. 7 do STJ, quanto à ausência de demonstração dos requisitos e das elementares dos crimes de calúnia, difamação e injúria.
+Decido.
+O pedido deduzido neste agravo regimental visa, em síntese, à reforma do julgado para processar o recurso especial, a fim de que seja a queixa-crime recebida na origem.
+Todavia, pela análise dos autos, verifico a superveniente perda do interesse-utilidade deste agravo regimental, o que prejudica a análise do pedido.
+O art. 109 do Código Penal disciplina que o prazo prescricional, antes do trânsito em julgado da decisão condenatória, regula-se pelo máximo da pena privativa de liberdade aplicada aos crimes (injúria - 6 meses, difamação - 1 ano e calúnia - 2 anos), cujos prazos prescricionais não ultrapassam 4 anos, nos termos do art. 109, V e VI, do CP.
+Assim, ainda que o recurso especial do querelante fosse provido para a queixa-crime ser recebida - considerando-se que a peça inaugural foi rejeitada pelo Magistrado de 1º grau e pelo Tribunal de origem e que não houve, portanto, nenhuma causa interruptiva prevista no art. 117 do Código Penal -, observa-se que da data do fato (24/1/2013) até o presente momento, já decorreram mais de 4 anos. Então, o reconhecimento da prescrição da pretensão punitiva seria medida cogente na espécie, o que evidencia a perda do interesse-utilidade deste recurso.
+Nas palavras de [NOME], [NOME] e [NOME]:
+ ..  a postulação de um conceito unitário do interesse em recorrer exige uma ótica antes prospectiva que retrospectiva, em que se dá ênfase à utilidade, entendida como proveito que a futura decisão seja capaz de propiciar ao recorrente. Esta visão permite abranger todas as hipóteses, quer se trate de recurso das partes, quer de terceiros, quer do Ministério Público, como fiscal da lei ou órgão da justiça. (Recursos no Processo Penal, 6. ed. rev., atual. e ampl. São Paulo: Editora Revista dos Tribunais, 2009, p. 71)
+À vista do exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado este agravo regimental.
+Publique-se e intimem-se.
