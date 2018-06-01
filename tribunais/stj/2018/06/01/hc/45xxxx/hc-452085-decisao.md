@@ -1,0 +1,21 @@
+DECISÃO
+[NOME] e EMILLY CAROLINE OLIVEIRA SANTANA alegam sofrer coação ilegal em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo, que indeferiu a liminar do HC n. 2104602-81.8.26.0000.
+A defesa ponta ilegalidade na determinação da prisão preventiva decretada contra os ora pacientes, ante a suposta incursão nos arts. 33 e 35 da Lei n. 11.343/2006. Aponta a falta de fundamentação concreta do decisum, pois ausentes os requisitos do art. 312 do Código de Processo Penal.
+Requer, em liminar, a soltura dos acusados.
+Decido.
+Aponto, de início, o óbice contido no enunciado da Súmula n. 691 do STF, cujo raciocínio empregado em sua compreensão tem sido observado por esta Corte nos casos que aqui aportam, originados com o indeferimento de liminar na origem. Apenas em casos excepcionais, o rigor da súmula é mitigado, quando o constrangimento ilegal é manifesto, o que não verifico na hipótese.
+O édito prisional foi assim fundamentado:
+Cerca de vinte dias depois da prisão do irmão do autuado por tráfico, com mais de um quilo de maconha, os policiais que efetuaram a prisão do casal receberam a delação de que o autuado, vulgo "gordo, guardaria drogas no local dos fatos. Para lá se dirigiram e, franqueada a entrada destes, depararam-se com a autuada embalando entorpecentes. No local foram apreendidos dez tijolos de maconha, várias porções menores prontas para a venda, além de balanças de precisão.
+Pelo que se colhe até o momento, trata-se de expressivo delito de tráfico, considerando-se os padrões da comarca. Não se descarta a associação, diante das cinrcunstâncias.
+Ademais, há auto de exibição e apreensão, bem como laudo de constatação provisória, a atestar a materialidade das substâncias entorpecentes apreendidas.
+A pena cominada aos crimes cm tese praticados pelos custodiados superam 04 anos.
+Ademais, a primariedade dos custodiados não os eximem da possibilidade de segregação cautelar, presentes os requisitos legais, caso dos autos.
+ ..
+Sem prejuízo, o regramento processual penal dispõe que a liberdade provisória ou a fiança serão concedidas quando ausentes os requisitos da prisão preventiva. Não é o caso dos autos.
+Nào vislumbro possibilidade de que sejam aplicadas aos custodiados medidas cautelares diversas da prisão, sobretudo diante da necessidade de salvaguardar a ordem pública, considerando que o crime de tráfico traz enorme desassossego á sociedade atual, destruindo famílias c corroendo uma miríade de jovens, alem de fomentar tantos outros delitos violentos (fls. 64-66, grifei).
+O Desembargador, ao indeferir a liminar, consignou que "os pacientes são apontados como envolvidos em crimes de tráfico de entorpecentes e associação para tal finalidade, de sorte que é prematura, nos limites desse juízo de cognição sumária, a imediata soltura, se a decisão que converteu a prisão em flagrante em preventiva está, de alguma forma, fundamentada" (fls. 52/53).
+Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+Não se verifica manifesta teratologia jurídica do decreto de prisão preventiva. O Juiz entendeu devida a medida extrema com base em elementos concretos dos autos. Narrou que os pacientes foram flagrados com dez tabletes de maconha (mais de 14 kg, conforme auto de constatação de fls. 84-85), além de diversos petrechos, inclusive balança de precisão, o que, de fato, sinaliza a prática não ocasional do comércio espúrio.
+Assim, sem prejuízo de melhor análise da questão pelo TJSP, não se verifica manifesto vício de fundamentação do édito prisional, o que impede a superação da Súmula n. 691 do STF e a interferência prematura, em indevido salto de instância, na competência da instância ordinária.
+À vista do exposto, com lastro no art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
