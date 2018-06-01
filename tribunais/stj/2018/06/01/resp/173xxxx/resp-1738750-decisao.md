@@ -1,0 +1,56 @@
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. RECUSA JUSTIFICADA NA COBERTURA DE TRATAMENTO DE SAÚDE. HOSPITAL NÃO CREDENCIADO. EMERGÊNCIA NÃO VERIFICADA. DANOS MORAIS AFASTADOS PELO TRIBUNAL DE ORIGEM. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DAS CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. RECURSO ESPECIAL IMPROVIDO.
+DECISÃO
+Trata-se de recurso especial apresentado por [NOME], com base no art. 105, III, alíneas a e c, da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Paraná assim ementado (e-STJ, fls. 628-630):
+APELAÇÃO CÍVEL (1) - INSURGÊNCIA RECURSAL - VALOR DO QUANTUM INDENIZATÓRIO E DOS HONORÁRIOS ADVOCATÍCIOS - SOLUÇÃO CONFERIDA À LIDE EM SEGUNDO GRAU - RECURSO PREJUDICADO.
+APELAÇÃO CÍVEL (2) - OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS - PLANO DE SAÚDE - PROCEDIMENTO CIRÚRGICO - TROCA VALVAR AÓRTICA - INSTITUTO DO CORAÇÃO (INCOR) - NEGATIVA - NOSOCÔMIO NÃO CREDENCIADO - ANTECIPAÇÃO DE TUTELA - NEGADA - EMERGÊNCIA DA CIRURGIA QUE NÃO FOI INICIALMENTE COMPROVADA - AUSÊNCIA DE PROFISSIONAIS CREDENCIADOS E HABILITADOS PARA A REALIZAÇÃO DO PROCEDIMENTO - DEBATE TRAVADO APÓS O AJUIZAMENTO DA DEMANDA - POSTERIOR CONCESSÃO DA ANTECIPAÇÃO DE TUTELA - APLICAÇÃO DE MULTA DIÁRIA - AFASTADA - PLANO DE SAÚDE QUE NÃO SE MANTEVE INERTE FRENTE AO COMANDO JUDICIAL - REEMBOLSO INTEGRAL - EFETUADO - PRINCÍPIO DA BOA-FÉ - AUSÊNCIA DE PREJUÍZO À AUTORA - DANOS MORAIS - AFASTADOS - PARTICULARIDADES DO CASO - REDISTRIBUIÇÃO DO ÔNUS SUCUMBENCIAL - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 672-682).
+No caso em exame, a recorrente ajuizou ação de obrigação de fazer cumulada com indenização por danos morais em desfavor de [NOME] - Sociedade Cooperativa de Médicos, postulando a condenação da requerida a arcar com os gastos médico-hospitalares de troca da válvula aórtica em hospital não credenciado à rede de atendimento do plano (Instituto do Coração de São Paulo - INCOR).
+Nas razões do especial, a recorrente alega ofensa aos arts. 186 e 927 do Código Civil, além da existência de dissídio jurisprudencial, ao argumento da necessidade de condenação do plano de saúde pela recusa de liberação do tratamento cirúrgico emergencial necessário ao resguardo da sua vida.
+Contrarrazões não foram apresentadas, conforme certidão juntada à fl. 741 (e-STJ).
+Admitido o recurso especial na origem, os autos ascenderam a esta Corte.
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A jurisprudência desta Corte é pacífica no sentido de que a recusa indevida pela operadora de plano de saúde à cobertura de tratamento médico emergencial ou de urgência, a depender das circunstâncias particulares de cada caso, pode caracterizar afronta aos direitos da personalidade, a ensejar reparação por dano moral, não havendo que se falar em mero inadimplemento contratual.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO (ARTIGO 544 DO CPC/73) - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO AGRAVO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL. IRRESIGNAÇÃO DA RÉ.
+1. Cabimento de indenização por dano moral.
+Consoante cediço nesta Corte, a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico de emergência, a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário.
+Caracterização de dano moral in re ipsa. Precedentes.
+2. Hipótese em que o Tribunal de origem, à luz das peculiaridades do caso concreto, arbitrou a indenização por danos morais em R$ 8.000, 00 (oito mil reais), o que não se distancia dos princípios da razoabilidade e proporcionalidade.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 789.374/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/04/2016, DJe 06/05/2016)
+No presente caso, o Tribunal de origem afastou a condenação por danos morais, ante a recusa legítima da [NOME], por não ser um tratamento médico de emergência, no momento do requerimento administrativo para liberação do procedimento cirúrgico, além de ter sido custeado integralmente pelo plano de saúde a cirurgia em hospital não credenciado, conforme trecho abaixo transcrito (e-STJ, fls. 652-655):
+A conduta da ré (negativa de cobertura - hospital não credenciado) não foi capaz de ferir a honra subjetiva da requerente, não colocando em risco sua credibilidade ou imagem.
+A autora, em peça inaugural, sustentou o dano moral em razão da recusa do plano de saúde, já que, em seu entender, o hospital INCOR não estava excluído da rede credenciada e o procedimento cirúrgico era de emergência.
+Importante, todavia, ponderar que, no momento do requerimento administrativo para liberação do procedimento cirúrgico (prescrição - 25/08/2015 - fl. 162-CD), não havia indicação médica acerca da emergência do tratamento (fls. 163/166-CD - 31/08/2015).
+Lembra-se que a antecipação de tutela foi inicialmente indeferida (fls. 261/263-CD), eis que não constatada a emergência do procedimento.
+Além disso, mesmo interpondo agravo de instrumento (n. 1.447.045-8 - fls. 272/284-CD), o efeito ativo foi negado, pois, não configurado o periculum in mora.
+A emergência do tratamento foi atestada, tão somente, após o ajuizamento da ação, oportunidade que a autora requereu a reconsideração da decisão que indeferiu a antecipação de tutela (nova declaração médica - fls. 314-CD - 09/10/2015).
+De outra sorte, como outrora mencionado, a exclusão do INCOR da rede credenciada tornou-se incontroversa ao longo da demanda, eis que reconhecido o documento assinado pela autora (fls. 418-CD - anexo).
+Pontua-se que o dever de cobertura imposto deu-se exclusivamente em razão da falta de profissionais e hospitais credenciados e habilitados para a realização da cirurgia de Troca Valvar Aórtica.
+No entanto, a discussão sobre a existência - ou não - de profissionais foi travada após o ajuizamento da ação (11/09/2015 - fls. 01-CD).
+O requerimento quanto à presença de profissionais e hospitais credenciados, nas cidades de [NOME]/PR e São Paulo/SP, foi efetuado em 08/10/2015 (fls. 329 -CD), com resposta parcial em 15/10/2015 (fls. 312 -CD).
+A antecipação de tutela foi concedida (fls. 332/334 -CD - 16/10/2015), pautando-se justamente na ausência de profissionais credenciados ao plano de saúde.
+A autora, tão logo, recebeu o atendimento médico, sendo submetida à cirurgia em 20/10/2015 e integralmente reembolsada (06/11/2015).
+A recusa apresentada pelo plano de saúde (fls. 163/166-CD), portanto, foi legítima, pois o INCOR, de fato, não era credenciado e o tratamento prescrito à autora não era de emergência à época do requerimento.
+Outrossim, não noticiado o agravamento do estado clínico da autora, que necessitou aguardar por 8 (oito) dias a resposta da seguradora sobre a existência de profissionais e hospitais credenciados e habilitados.
+Neste diapasão, ante as particularidades do caso concreto, a falta de profissionais credenciados e aptos para a realização da cirurgia, por si, não pode justificar a condenação da requerida ao pagamento de indenização por danos morais.
+(..)
+Ao realizar um contrato, a parte tem plena ciência de que ele pode vir a não ser cumprido. Ou seja, o inadimplemento é previsível, revelando-se mal-estar corriqueiro, próprio da contratação, não atingindo a esfera do dano compatível com a ofensa moral.
+Diante da solução conferida à lide, impõe-se a retribuição do ônus
+Desse modo, para superar tal cognição e acolher a pretensão recursal no tocante à indenização por danos morais, seriam imprescindíveis o reexame do contexto fático-probatório dos autos e a interpretação de cláusula do contrato de plano de saúde, providências inviáveis no âmbito do julgamento do recurso especial, ante os óbices das Súmulas 5 e 7 do STJ.
+Nesse mesmo sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). AÇÃO CIVIL. PLANO DE SAÚDE. DEMANDA POSTULANDO INDENIZAÇÃO POR DANO MORAL. RECUSA JUSTIFICADA DE COBERTURA DE TRATAMENTO MÉDICO. CUMPRIMENTO DE NORMA CONTRATUAL NÃO GERA DANO MORAL. REEXAME DE CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS N. 5 E 7 DO STJ. RECURSO ESPECIAL DESPROVIDO.
+(RECURSO ESPECIAL Nº 1.530.972 - SP, Relator Ministro PAULO DE TARSO SANSEVERINO, DJe 30/10/2017)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE INDENIZAÇÃO - PLANO DE SAÚDE - REEMBOLSO DE DESPESAS MÉDICO-HOSPITALARES - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+1. Inicialmente, quanto à afronta aos artigos tidos como violados (artigos 151, 152, 156, 422 do Código Civil e 51, inciso IV, do Código de Defesa do Consumidor), verifica-se não terem sido objeto de exame pela instância ordinária, nem foram opostos embargos de declaração a fim de suscitar a discussão do tema nele contido, tampouco houve alegação de violação do artigo 535 do CPC/73 nas razões do recurso especial, razão pela qual incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. Nos termos da jurisprudência desta Corte, à luz do disposto no artigo 12, inciso VI, da Lei 9.656/98, o reembolso das despesas efetuadas pelo usuário do plano de saúde com internação em hospital não conveniado somente é admitido em casos excepcionais (situação de urgência ou emergência, inexistência de estabelecimento credenciado no local e/ou impossibilidade de utilização dos serviços próprios da operadora em razão de recusa injustificada, entre outros).
+3. Para aferir, no caso, o preenchimento dos requisitos necessários para o reembolso das despesas médico-hospitalares, seria necessário o exame de fatos, bem como de cláusulas contratuais, providência vedada nesta esfera recursal pelos enunciados 5 e 7 da súmula desta Casa.
+4. Rever o entendimento do Tribunal de origem que, com base nos elementos de convicção do autos, afastou a ocorrência de dano moral na espécie, demandaria o revolvimento do arcabouço probatório dos autos, providência inviável em recurso especial, dado o óbice da Súmula 7 desta Corte.
+5. A incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução a causa.
+6. Agravo interno desprovido.
+(AgInt no AREsp 943.700/DF, Relator Ministro MARCO BUZZI, QUARTA TURMA, DJe 12/6/2017)
+Por fim, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
