@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por [NOME], na vigência do CPC/73, com base na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"PREVIDENCIÁRIO. TEMPO DE SERVIÇO ESPECIAL. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. CONVERSÃO DE TEMPO DE SERVIÇO COMUM EM TEMPO ESPECIAL. IMPLEMENTAÇÃO DOS REQUISITOS PARA APOSENTADORIA EM DATA POSTERIOR À EDIÇÃO DA LEI Nº 9.032, DE 28/04/1995. IMPOSSIBILIDADE. ORIENTAÇÃO FIRMADA PELO STJ EM SEDE DE RECURSO REPETITIVO. RESP. 1.310.034/PR.
+1. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer-se a especialidade da atividade laboral por ele exercida.
+2. O Colendo Superior Tribunal de Justiça, em sede de recurso repetitivo (Resp. 1.310.034/PR), estabeleceu que, à conversão entre tempos de serviço especial e comum, aplica-se a lei em vigor à época da aposentadoria. Desse modo, deve ser julgado improcedente pedido de conversão de tempo comum em especial (fator 0,71), nos casos em que, na data da aposentadoria, já vigia a Lei nº 9.032, de 28/04/1995.
+3. Tem direito à aposentadoria por tempo de serviço/contribuição o segurado que, mediante a soma do tempo judicialmente reconhecido com o tempo computado na via administrativa, possuir tempo suficiente e implementar os demais requisitos para a concessão do benefício" (fl. 900e).
+Opostos Embargos de Declaração por ambas as partes, a Corte a quo acolheu parcialmente o recurso integrativo do INSS e rejeitou o do segurado, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO. REJULGAMENTO. PREQUESTIONAMENTO.
+São pré-requisitos autorizadores dos embargos de declaração a omissão, contradição ou obscuridade na decisão embargada. Também a jurisprudência os admite para a correção de erro material e para fim de prequestionamento.
+Os embargos declaratórios não se prestam para reexame da matéria sobre a qual houve pronunciamento do órgão julgador.
+Prequestionam-se artigos de lei na intenção de evitar não sejam conhecidos eventuais recursos a serem manejados nas instâncias superiores" (fl. 950e).
+Alega o recorrente, nas razões do Recurso Especial (fls. 965/972e), ofensa aos arts. 6º e 7º, XXIV, da Constituição Federal, argumentando, em síntese, que:
+"(..) não foi considerado o período laborado em atividade rural, devidamente reconhecido pelo INSS como atividade especial, integrando o tempo de serviço para aposentadoria especial, qual seja de 01/01/1970 a 31/12/1970, apesar das provas e fundamentos juntados aos autos.
+(..)
+Em que pese o período não ser objeto de controvérsia, ele deve computar o tempo de serviço especial na DER, totalizando a atividade especial período superior a 25 (vinte e cinco) anos, diversamente do que constou no v. acórdão.
+Nota-se que na r. sentença a D. Juíza a quo contabilizou este período para integrar o tempo de serviço especial: "Somando-se o período rural (de 01/01/1970 a 31/12/1970), devidamente convertido para especial, e os períodos especiais, reconhecidos administrativa e judicialmente (..)".
+Veja, o raciocínio utilizado pelo TRF 4ª Região ao caso concreto é uma afronta e fere as garantias previstas nos artigos 6º e 7º, XXIV, ambos da Constituição Federal.
+Nota-se que o benefício visa a sobrevivência do cidadão, assegurando-lhe a alimentação, habitação, tratamento médico, entre outros, quando não mais pode prover seu próprio sustento, garantindo o princípio constitucional da dignidade da pessoa humana" (fls. 970/971e).
+Não foram apresentadas contrarrazões (fl. 979e), tendo sido o Recurso Especial admitido pelo Tribunal de origem (fl. 990e).
+A irresignação não prospera.
+Com efeito, não se pode conhecer da alegada ofensa aos arts. 6º e 7º, XXIV, ambos da Constituição Federal, pois "é inviável, em recurso especial, a análise de ofensa à matéria constitucional, sob pena de o STJ invadir a competência constitucionalmente atribuída ao STF" (STJ, AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ANÁLISE DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. ADMINISTRATIVO. NULIDADE DE CLÁUSULA CONTRATUAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 5 E 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+II - O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar possível ofensa à norma constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+(..)
+VII - Agravo Interno improvido" (STJ, AgInt no REsp 1.674.024/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 18/05/2018).
+"TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. CREDITAMENTO INDEVIDO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. VIOLAÇÃO AO ART. 535, I E II, DO CPC/73. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. INOVAÇÃO RECURSAL. NÃO CABIMENTO. EXAME DE ALEGADA VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. VIA INADEQUADA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. OBSERVÂNCIA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+V. A discussão em torno de questão de índole constitucional deve ser realizada na via apropriada, descabendo ao Superior Tribunal de Justiça, em sede de recurso especial, pronunciar-se sobre alegada violação a dispositivos da Constituição Federal, sob pena de usurpação da competência reservada à Suprema Corte (art. 102, III, da CF/88). Precedentes do STJ (AgRg no REsp 1.449.708/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 06/08/2014; AgRg no AREsp 459.862/RO, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 06/08/2014; AgRg no AREsp 507.224/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 01/08/2014).
+(..)
+VIII. Agravo interno improvido" (STJ, AgInt no AREsp 1.124.739/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 09/05/2018).
+Em face do exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
