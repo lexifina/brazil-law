@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos, interposto contra decisão que inadmitiu recurso especial por aplicação das Súmulas n. 7 e 83 do STJ (e-STJ fls. 287/191).
+O Tribunal de origem negou provimento ao apelo da agravante, em julgado que recebeu a seguinte ementa (e-STJ fl. 149):
+AGRAVO DE INSTRUMENTO - REQUERIMENTO DE JUSTIÇA GRATUITA - RECOLHIMENTO DAS CUSTAS INICIAIS NO PROCESSO DE ORIGEM - ATO INCOMPATÍVEL COM A ALEGAÇÃO DE MISERABILIDADE - PRECLUSÃO LÓGICA - RECURSO CONHECIDO E DESPROVIDO.
+O recolhimento do preparo recursal não se compatibiliza com o pedido de gratuidade judicial, operando-se sobre a matéria a preclusão lógica, uma vez que o pagamento das custas iniciais presume a condição financeira favorável da recorrente.
+Opostos embargos declaratórios, foram rejeitados (e-STJ fls. 166/170).
+No recurso especial (e-STJ fls. 172/176), com fundamento no art. 105, III, alínea "a" e "c", da CF, a recorrente apontou negativa aos arts. 489, § 1º, III, e 1.022, II, do CPC/2015, sustentando, em síntese, erro na fundamentação do embargos de declaração, uma vez que foi citado o artigo 535 do CPC/1973, o qual não tem nenhuma relação com os embargos.
+Indicou também violação dos arts. 98, 99, §§ 2º e 3º, e 1.019, I, do CPC/2015, defendendo a presença de todos requisitos para concessão da justiça gratuita.
+Ofereceram-se contrarrazões (e-STJ fls. 179/185).
+No agravo (e-STJ fls. 193/196), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 199/205).
+É o relatório.
+Decido.
+Não há falar em afronta aos arts. 489, § 1º, III, e 1.022, II, do CPC/2015, pois o Tribunal a quo não foi instado a se manifestar acerca do erro alegado pela recorrente. Posto isso, incabível a alegação de omissão, contradição ou obscuridade no acórdão recorrido sem que se tenha provocado o Tribunal de origem a manifestar-se sobre a matéria.
+O Tribunal de origem enfrentou assim a questão da contrariedade aos artigos 98 e 99, §§ 2º e 3º, e 1.019, I, do CPC/2015 (e-STJ fls. 150/151):
+[NOME], irresignada com a decisão proferida pelo Juízo da 2ª Vara de Cassilândia nos autos da tutela cautelar antecedente ajuizada contra OI Móvel S/A e outro, interpõe o presente recurso.
+Sustenta que não possui condições financeiras de arcar com as custas do processo, sem prejuízo seu e de sua família e que a agravada trouxe um aumento de despesas mensais incompatível com seus vencimentos, sendo assim, a prestação jurisdicional requerida, deve ser concedida de forma imediata.
+Intimada a agravante, para juntar aos autos comprovantes de suas alegações, por entender este Relator, que os documentos trazidos na inicial do agravo, não eram suficientes para demonstrar a alegada hipossuficiência, às fls. 67, a recorrente requereu a análise do pedido com base nos documentos já colacionados quando da propositura da ação.
+O cerne da irresignação recursal consubstancia-se na concessão dos benefícios da justiça gratuita.
+Entretanto, verifica-se às f. 76-82/TJMS, informou que recolheu as custas e taxas judiciais, ato este incompatível com o pedido de justiça gratuita objeto do recurso, cuja finalidade é assegurar a todos o amplo acesso à justiça, e evitar que a particular situação financeira de alguém lhe restrinja esse direito.
+De fato, ao liquidar as custas iniciais na origem, a recorrente atestou, implicitamente, sua concordância com a situação de não deferimento da gratuidade, praticando ato contrário com a pretensão recursal postulada. Não havendo que se falar em motivação quanto ao recolhimento dos valores, na ausência da análise do pedido de antecipação de tutela, vez que havia recurso cabível para sanar qualquer omissão na decisão proferida, e não o fez.
+Assim, forçoso reconhecer que ocorreu a preclusão lógica, inviabilizando a declaração de interesse no prosseguimento do julgamento do recurso que, vale ressaltar, desde o início, havia informação de que a necessidade alegada não estava suficientemente comprovada nos autos, o que, possivelmente, levaria ao desprovimento do recurso, considerando não ter a parte cumprido o despacho de fls. 64-66.
+Portanto, no caso presente, não resta a menor dúvida que o recolhimento das custas iniciais constitui ato incompatível com o pedido recursal de concessão da justiça gratuita, operando-se a preclusão lógica.
+A matéria versada nos arts. 98 e 99, §§ 2º e 3º, e 1.019, I, do CPC/2015 não foi tratada pelo Tribunal, em virtude do reconhecimento da preclusão lógica. Dessa forma, não tendo sido debatida pela Corte local, não pode ser objeto de discussão em recurso especial, em virtude da ausência de prequestionamento. Incidente, portanto, o óbice da Súmula n. 282/STF.
+Ademais, o conhecimento de recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico, nos termos definidos pelos arts. 255, §§1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973 (CPC/2015, art.1.029, §1º). O recorrente não se desincumbiu de tais ônus. Assim, é inviável conhecer da divergência jurisprudencial apontada. A propósito: AgInt no REsp n. 1.602.814/SC (Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/5/2017, DJe 31/5/2017).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
