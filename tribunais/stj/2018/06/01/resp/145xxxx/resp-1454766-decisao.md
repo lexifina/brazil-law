@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por CHOCOLATES GAROTO S/A, em 02/06/2011, mediante o qual se impugna acórdão, promanado do Tribunal Regional Federal da 2ª Região, assim ementado:
+"TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. ANULAÇÃO DE NFLD. SUBSTITUIÇÃO TRIBUTÁRIA PREVISTA NO ART. 31 DA LEI Nº 8.212/91, COM REDAÇÃO DADA PELA LEI Nº 9.711/98. CONSTITUCIONALIDADE.
+1. A jurisprudência é pacífica quanto à validade da alteração da sistemática de recolhimento das contribuições previdenciárias, levada a efeito pela modificação do art. 31 da Lei nº 8.212/91 pela Lei nº 9.711/98, que estabeleceu a responsabilidade exclusiva do tomador de serviço, por substituição tributária. Precedentes, inclusive do STF.
+2. Nos termos do § 3º do art. 31 da Lei nº 8.212/91, não há necessidade que os serviços contratados estejam relacionados à atividade fim da contratante, para a configuração da cessão de mão de obra.
+3. Tampouco há inconstitucionalidade pela possibilidade de indicação, por regulamento, de outros serviços além daqueles expressamente arrolados nos incisos do § 4º do art. 31 da Lei nº 8.212/91, para fins de enquadramento da atividade como cessão de mão de obra, já que o próprio § 3º do mesmo dispositivo cuidou de delimitar os contornos necessários a tal subsunção, demonstrando o quão abrangente pretendia ser a substituição da responsabilidade tributária na contratação de serviços terceirizados.
+4. Embora a jurisprudência dos tribunais superiores tenha se consolidado no sentido da incompatibilidade da responsabilidade, por substituição, da tomadora de mão de obra na contratação de prestadoras de serviços optantes pelo SIMPLES, na hipótese dos autos já havia sido excluída a autuação em relação a tais empresas na esfera administrativa, mantendo-se o lançamento apenas em relação às contratadas que não se sujeitavam ao regime simplificado da Lei nº 9.317/96.
+5. Desnecessária a produção de prova pericial para comprovação do recolhimento das contribuições pelas empresas contratadas, uma vez que a responsabilidade tributária da contratante é exclusiva, de modo que eventual pagamento realizado por aquelas daria ensejo a posterior pedido de restituição do indébito.
+6. Caso a apelante tenha deixado de descontar o valor que deveria ter retido, na forma do art. 31 da Lei nº 8.212/91, com redação dada pela Lei nº 9.711/98, do pagamento que efetuou pelos serviços prestados, resta-lhe apenas posterior ação regressiva, na esfera civil, contra as empresas contratadas.
+7. Apelação improvida" (fls. 301/302e).
+Embargos de Declaração não acolhidos (fls. 313/318e).
+No Recurso Especial, manejado com base na alínea a do permissivo constitucional, alega-se violação ao art. 31, § 1º, da Lei 8.212/91.
+Sustenta-se, em apertada síntese, o seguinte:
+"(1) - que não se trata de cessão de mão de obra, pois os serviços prestados não são relacionados à atividade-fim da empresa tomadora;
+(2) - que os prestadores de serviço não se consideraram cedentes de mão de obra e por isso não fizeram o destaque do percentual de 11% nas notas fiscais" (fl. 322e).
+Requer-se, por fim, "seja este recurso especial admitido e encaminhado ao Eg. SUPERIOR TRIBUNAL DE JUSTIÇA, ao qual suplica seu conhecimento e provimento, para reformar o V. Ac. recorrido" (fl. 335e).
+Contrarrazões às fls. 345/3574e.
+Recurso Especial admitido (fls. 359/340e).
+O presente recurso não merece prosperar.
+Ao julgar improcedente o pleito da ora recorrente, assim se manifestou o Tribunal de origem:
+"A partir da análise da planilha anexada às fls. 36/60, verifica-se que há a descrição individualizada de cada um dos serviços contratados, com o respectivo enquadramento caracterizador da cessão de mão de obra para fins de reponsabilização, por substituição tributária, da empresa tomadora dos serviços, nos moldes do art. 31, § 4º, da Lei nº 8.212/91, com redação dada pela Lei nº 9.711/98.
+O fato de os serviços não se relacionarem com a atividade fim da empresa contratante não elide sua responsabilidade tributária exclusiva, conforme expressa ressalva contida no § 3º do art. 31 da Lei nº 8.212/91:
+"Art. 31. (..) § 3º. Para os fins desta Lei, entende-se como cessão de mão-de-obra a colocação à disposição do contratante, em suas dependências ou nas de terceiros, de segurados que realizem serviços contínuos, relacionados ou não com a atividade-fim da empresa, qualquer que sejam a natureza e a forma de contratação".
+Nem tampouco o fato de não ter havido o correspondente destaque da retenção na nota fiscal apresentada pelos contratados é argumento hábil para afastar a responsabilidade imposta por lei à contratante dos serviços" (fls. 296/297e).
+Entretanto, no Recurso Especial, nenhum dos dois fundamentos do acórdão recorrido foi devidamente impugnado. Com efeito, não se consegue depreender, do arrazoado recursal, a razão jurídica pela qual o aludido § 3º, do art. 31 - embora consigne, expressamente, que os serviços objeto da cessão de mão-de-obra podem, ou não, relacionar-se com a atividade-fim da empresa - não deveria, no caso, ser observado. Outrossim, também não se consegue compreender, do arrazoado recursal, por que razão jurídica o descumprimento de obrigação tributária acessória, pela cessionária de mão-de-obra, afastaria o dever de cumprimento da obrigação tributária principal, pela contratante dos serviços.
+Com efeito, de aplicar, no caso em tela, por analogia, as Súmulas 283 e 284/STF.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
