@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça de São Paulo, com a seguinte ementa (fl. 127):
+AGRAVO DE INSTRUMENTO RESPONSABILIDADE CIVIL ACIDENTE DE TRÂNSITO DANOS MORAIS E MATERIAIS GRATUIDADE PROCESSUAL.
+Decisão agravada indeferiu o pedido de gratuidade processual. Não comprovada a incapacidade financeira.
+RECURSO DA DENUNCIADA IMPROVIDO.
+Embargos de declaração rejeitados.
+Nas razões recursais a parte recorrente alega dissidio jurisprudencial e ofensa ao art. 99, §7º, do CPC/2015. Sustenta "que é a pessoa jurídica com insuficiência de recursos tem direito ao benefício de assistência judiciária, na forma de seus arts. 98 e 99, § 2º, ambos do CPC." (fl. 161).
+É o relatório. Decido.
+O reclamo versa sobre a concessão do benefício da justiça gratuita, razão pela qual analisarei o recurso sem o preparo, em atenção a atual jurisprudência desta Corte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PEDIDO DE CONCESSÃO DE JUSTIÇA GRATUITA. OBJETO DO RECURSO ESPECIAL. DESERÇÃO AFASTADA. EMBARGOS DE DECLARAÇÃO CONTRA DECISÃO DE INADMISSIBILIDADE. INTEMPESTIVIDADE DO AGRAVO. AGRAVO IMPROVIDO.
+1. Na hipótese em exame, aplica-se o Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. A Corte Especial, no julgamento dos EREsp 1.222.355/MG, de minha relatoria, chegou à conclusão de que "é desnecessário o preparo do recurso cujo mérito discute o próprio direito ao benefício da assistência judiciária gratuita. Não há lógica em se exigir que o recorrente primeiro recolha o que afirma não poder pagar para só depois a Corte decidir se faz jus ou não ao benefício".
+3. Esta Corte pacificou o entendimento de que a oposição de embargos de declaração contra decisão que nega seguimento a recurso especial, como regra, não tem o condão de interromper o prazo para interposição do agravo previsto no art. 544 do CPC. Excepcionalmente, nos casos em que a decisão for proferida de forma tão genérica que nem sequer permita a interposição do agravo, caberá a oposição de referido recurso.
+4. Agravo regimental improvido.
+(AgRg no AREsp 673.698/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/04/2016, DJe 04/05/2016, n.g)
+
+Nos termos da Súmula 481/STJ, a concessão dos benefícios da assistência judiciária gratuita às pessoas jurídicas, com ou sem fins lucrativos, requer a demonstração da impossibilidade de arcarem com os encargos processuais.
+No caso, o col. Tribunal de origem, analisando o substrato probatório dos autos, concluiu que não ficou comprovado a hipossuficiência da pessoa jurídica, ora recorrente, para arcar com as custas do processo, tecendo a seguinte fundamentação, verbis:
+"(..) o cálculo da relação entre o ativo e o passivo financeiros da empresa liquidanda não infirma a capacidade de pagamento das custas e despesas processuais e, ainda, está sujeito às oscilações durante o procedimento da liquidação extrajudicial, nos termos do artigo 31 da Lei número 6.024/74 ("No resguardo da economia pública, da poupança privada e da segurança nacional, sempre que a atividade da entidade liquidanda colidir com os interesses daquelas áreas, poderá o liquidante, prévia e expressamente autorizado pelo Banco Central do Brasil, adotar qualquer forma especial ou qualificada de realização do ativo e liquidação do passivo, ceder o ativo a terceiros, organizar ou reorganizar sociedade para continuação geral ou parcial do negócio ou atividade da liquidanda"). Dessa forma, porque não demonstrada a carência de recursos financeiros, correta a decisão agravada, que é mantida." (fls. 128/129, n.g.)
+Com efeito, a jurisprudência desta Corte é firme no sentido de que o fato de haver a decretação da liquidação extrajudicial ou falência, não remete, por si só, ao reconhecimento da necessidade para fins de concessão da assistência judiciária gratuita à pessoa jurídica" (AgInt no AREsp n. 1.140.206/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Nesse contexto, a alteração das premissas adotadas na origem - de que a empresa não demonstrou a hipossuficiência - demandaria o reexame do conjunto fático-probatório dos autos, o que não se admite no âmbito do recurso especial, a teor da Súmula 7/STJ. Confiram-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PESSOA JURÍDICA. RECUPERAÇÃO JUDICIAL. BENEFÍCIO DA GRATUIDADE DA JUSTIÇA. LEI 1.060/50. NECESSIDADE DE COMPROVAÇÃO DA INSUFICIÊNCIA DE RECURSOS. SÚMULA 481/STJ. ACÓRDÃO RECORRIDO. ALINHAMENTO JURISPRUDÊNCIA STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL.
+1. Nos termos da Súmula 481/STJ, a concessão dos benefícios da assistência judiciária gratuita às pessoas jurídicas, com ou sem fins lucrativos, requer a demonstração da impossibilidade de arcarem com os encargos processuais.
+2. Na hipótese sob análise, o acórdão recorrido afirmou a ausência da comprovação de que o requerente não poderia arcar com as custas processuais, para justificar a concessão do benefício da Lei 1.060/50. Alterar esse entendimento esbarra no óbice da Súmula 7/STJ.
+3. A jurisprudência desta Corte é no sentido de que fica prejudicado o exame do recurso especial pela alínea "c" do permissivo constitucional quando incidente na hipótese a Súmula 7/STJ.
+4. Agravo interno no agravo em recurso especial não provido." (AgInt no AREsp 927.851/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/05/2018, DJe 10/05/2018, n.g).
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. PREPARO. DESERÇÃO. MASSA FALIDA. INEXISTÊNCIA DE HIPOSSUFICIÊNCIA ECONÔMICA PRESUMIDA.
+1. É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos (Súmula 187/Superior Tribunal de Justiça).
+2. Não é presumível a existência de dificuldade financeira da pessoa jurídica, em face de sua insolvabilidade pela decretação da falência, para justificar a concessão de justiça gratuita. Precedentes.
+3. Agravo interno a que se nega provimento." (AgInt no AREsp 989.189/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/03/2018, DJe 13/03/2018, n.g)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
