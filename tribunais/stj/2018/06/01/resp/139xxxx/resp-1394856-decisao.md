@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSC assim ementado (e-STJ fl. 251):
+EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. Participação financeira. Adimplemento contratual. Insurgência da companhia telefônica. Relação de consumo. Determinação de exibir documentos mantida. Multa diária no descumprimento. Medida excepcional para garantir a efetividade da decisão judicial. Agravo desprovido.
+A ação de adimplemento contratual envolve relação de consumo, razão pela qual viável inverter o ônus probatório e carrear à empresa de telefonia a obrigação de exibir os documentos solicitados na inicial.
+A multa cominatória é mantida em caráter excepcional para garantir o resultado prático esperado com o cumprimento da decisão judicial.
+Nas razões recursais (e-STJ fls. 258/269), fundamentadas no art. 105, III, "a" e "c", da CF, a recorrente alega divergência jurisprudencial e violação dos arts. 333, I, 359 e 461 do CPC/1973.
+Sustenta: (a) impossibilidade de apresentação dos documentos que afirma não possuir e cuja existência a autora não se desincumbiu do ônus de provar e (b) indevida aplicação cumulativa de sanções processuais - presunção de veracidade e multa pecuniária.
+Não foram apresentadas contrarrazões (e-STJ fl. 281).
+Juízo de admissibilidade positivo (e-STJ fls. 282/284).
+É o relatório.
+Decido.
+O recurso merece parcial provimento.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, por isso devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas até então pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O Tribunal a quo entendeu ser devida a apresentação dos documentos pela companhia telefônica com fundamento no art. 358, III, do CPC/1973, in verbis (e-STJ fl. 253):
+Ninguém ignora que compete à parte instruir a petição inicial com os documentos destinados a comprovar suas alegações, a teor do artigo 396 do Código de Processo Civil. Todavia, o pedido de complementação acionária envolve relação de consumo, onde incide norma especial protetiva da parte hipossuficiente, razão pela qual viável carrear a exibição à empresa de telefonia.
+Além disso, por serem comuns às partes, ainda que entregues cópias no momento da contratação, permanece o dever de exibi-los quando solicitado (artigo 358, III, do Código de Processo Civil).
+Ademais, no caso em apreço, houve requerimento administrativo da documentação, tanto que a inicial foi instruída com resposta enviada pela empresa, que não exigiu prévio recolhimento de custas (fl. 27).
+A insurgência recursal, todavia, não trouxe impugnação específica capaz de combater esse fundamento do acórdão, pois limitou-se a sustentar não possuir os documentos e a afirmar ser ônus da autora provar o fato constitutivo do seu direito.
+Apresentada a questão nesses termos, conclui-se que o recurso encontra óbice na Súmula n. 283/STF, in verbis:
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Além disso, a Corte estadual reconheceu demonstrada a existência de relação jurídica entre as partes conforme o seguinte excerto (e-STJ fl. 253):
+A agravante sustentou, ainda, que não seria possível obrigá-la a apresentar documentos de terceiros, pois o contrato teria sido firmado com a Telebrás, não incorporada pela Brasil Telecom no processo de privatização.
+Do documento emitido pela própria agravante constou que o contrato foi firmado com a Telesc, o que comprova a condição de acionista (fl. 27) e, ao contrário do que alegou, a Brasil Telecom responde por obrigações assumidas por aquela empresa, na qualidade de sucessora (Apelação Cível n. 2011.085834-0, da Capital, na qual oficiei como Relator, j. em 29.11.2011).
+Rever esse entendimento demandaria o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Entretanto, o STJ possui jurisprudência firmada no sentido que a recusa injustificada da parte à determinação judicial de exibição implica o reconhecimento da veracidade dos fatos que se pretendia provar, por meio do documento, a teor do que dispõe o art. 359 do CPC/1973, sendo incabível a incidência da multa cominatória em razão do descumprimento de determinação incidental de exibição de documento.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO. EXIBIÇÃO DE DOCUMENTOS. DEVER DE EXIBIÇÃO DE DOCUMENTOS CONFIGURADO. EXIBIÇÃO INCIDENTAL DE DOCUMENTO. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- Conforme assente jurisprudência desta Corte, tratando-se de documento comum às partes, não se admite a recusa de exibi-lo, notadamente quando a instituição recorrente tem a obrigação de mantê-lo enquanto não prescrita eventual ação sobre ele.
+2.- Segundo a jurisprudência consolidada do STJ, na ação de exibição de documentos não cabe a aplicação de multa cominatória (Súmula 372). Este entendimento aplica-se, pelos mesmos fundamentos, para afastar a cominação de multa diária para forçar a parte a exibir documentos em medida incidental no curso de ação ordinária. Nesta, ao contrário do que sucede na ação cautelar, cabe a presunção ficta de veracidade dos fatos que a parte adversária pretendia comprovar com o documento (CPC, art. 359), cujas consequências serão avaliadas pelo juízo em conjunto com as demais provas constantes dos autos, sem prejuízo da possibilidade de busca e apreensão, nos casos em que a presunção ficta do art. 359 não for suficiente, ao prudente critério judicial. (EDcl no AgRg no REsp 1092289/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 25/05/2011).
+3.- O agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+4.- Agravo Regimental improvido.
+(AgRg no AREsp n. 260.973/MG, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 26/2/2013, DJe 19/3/2013.)
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. AÇÃO DE CONHECIMENTO. FASE INSTRUTÓRIA. DIFERENÇAS DE CORREÇÃO EM CONTA DE POUPANÇA. EXIBIÇÃO INCIDENTAL DE DOCUMENTO. EXTRATOS.
+1. A ordem incidental de exibição de documentos, na fase instrutória de ação ordinária de cobrança, encontra respaldo, no sistema processual vigente, não no art. 461 invocado no recurso especial, mas no art. 355 e seguintes do CPC, que não prevêem multa cominatória. Isso porque o escopo das regras instrutórias do Código de Processo Civil é buscar o caminho adequado para que as partes produzam provas de suas alegações, ensejando a formação da convicção do magistrado, e não assegurar, de pronto, o cumprimento antecipado (tutela antecipada) ou definitivo (execução de sentença) de obrigação de direito material de fazer, não fazer ou entrega de coisa.
+2. Segundo a jurisprudência consolidada do STJ, na ação de exibição de documentos não cabe a aplicação de multa cominatória (Súmula 372). Este entendimento aplica-se, pelos mesmos fundamentos, para afastar a cominação de multa diária para forçar a parte a exibir documentos em medida incidental no curso de ação ordinária condenatória. Nesta, ao contrário do que sucede na ação cautelar, cabe a presunção ficta de veracidade dos fatos que a parte adversária pretendia comprovar com o documento (CPC, art. 359), cujas consequências serão avaliadas pelo juízo em conjunto com as demais provas constantes dos autos, sem prejuízo da possibilidade de busca e apreensão, nos casos em que a presunção ficta do art. 359 não for suficiente, ao prudente critério judicial.
+3. Agravo regimental não provido.
+(AgRg no Ag n. 1.179.249/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/4/2011, DJe 3/5/2011.)
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial, tão somente para afastar a multa cominatória imposta na origem.
+Publique-se e intimem-se.
