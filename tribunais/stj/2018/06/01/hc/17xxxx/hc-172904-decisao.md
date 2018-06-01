@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de GABRIEL BENAVENTANA SANTOS, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+O paciente foi preso em flagrante, em 31/8/2007, pela prática do delito previsto no art. 35 da Lei n. 11.343/2006.
+Homologado o flagrante, a prisão foi convertida em preventiva, pelo Juízo de origem, para conveniência da instrução criminal e para assegurar a aplicação da lei penal, conforme o art. 312 do Código de Processo Penal.
+Em 19/2/2009 foi prolatada sentença julgando parcialmente procedente a ação penal para absolver o paciente do delito descrito como quarto fato na denúncia e para condená-lo pelo crime de associação para a prática de tráfico de substâncias entorpecentes, formando uma organização criminosa, tipificado no art. 35 da Lei n. 11.343/2006, e pela prática do delito de tráfico de drogas.
+O colegiado local negou provimento aos apelos defensivos e - apesar de constar que foi provida a apelação do Ministério Público quanto à aplicação da majorante do art. 40, inciso VI, da Lei n. 11.343/2006, sendo o paciente condenado em concurso material com o delito do art. 35 da referida legislação à pena total de 13 (treze) anos e 20 (vinte) dias de reclusão em regime fechado - na conclusão do acórdão constou provimento para aplicar a causa de aumento do art. 40, inciso VI, sendo o réu condenado à pena de 15 (quinze) anos e 8 (oito) meses de reclusão.
+No Superior Tribunal de Justiça, aponta a defesa os erros materiais no cálculo da sanção do paciente. Esclarece que a Magistrada, ao reconhecer a continuidade delitiva, na forma do art. 71 do Código Penal, tomou equivocadamente a pena de 5 (cinco) anos e 6 meses, tida como a mais grave, aumentando-a em 2/6 (dois sextos), totalizando 7 (sete) anos e 4 (quatro) meses, quando, na verdade, a pena mais grave imposta na sentença é de 5 anos, o que totalizaria 6 (seis) anos e 8 (oito) meses. Prossegue, alegando que o Tribunal de Justiça, ao aplicar a majorante do art. 40, inciso VI, da Lei n. 11.343/2006, utilizou-se da pena erroneamente imposta pela Magistrada de primeiro grau, reconhecendo, equivocadamente, a existência do concurso material de crimes.
+O pedido liminar foi indeferido (e-STJ fl. 183).
+Ouvido, o Ministério Público Federal manifestou-se pela concessão parcial da ordem (e-STJ fls. 264/271).
+É, em síntese o relatório.
+O inconformismo encontra-se prejudicado.
+Isso porque, conforme esclareceram as informações juntadas às e-STJ fls. 359/365, o Magistrado da Vara de Execuções Criminal, em 8/10/2012, percebeu a presença de erro material no cálculo da reprimenda do paciente e corrigiu o equívoco, estabelecendo a sanção do paciente em 13 (treze) anos e 20 (vinte) dias de reclusão, no regime inicial fechado. Além disso, foi deferido ao paciente, em 7/3/2016, o benefício de livramento condicional.
+Nada mais há, portanto, a ser apreciado nesta oportunidade.
+Ante o exposto, com fulcro no art. 34, inciso XX, do Regimento Interno desta Casa, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
