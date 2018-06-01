@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. PROCEDÊNCIA. IRRESIGNAÇÃO DA RÉ. DEFENDE A LEGALIDADE DA CLÁUSULA QUE EXCLUI O ATENDIMENTO DOMICILIAR (HOME CARE) - IMPROCEDÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto por Unimed de Araraquara Cooperativa de Trabalho Médico contra a decisão de fls. 238-239 (e-STJ), proferida em juízo provisório de admissibilidade, na qual foi negado seguimento ao seu recurso especial.
+O apelo extremo foi deduzido em desafio ao acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+Plano de saúde - Atendimento "home care" - Recusa de cobertura - Paciente idosa e portadora de graves patologias, a necessitar de cuidados intensivos - "Assistência domiciliar" que se traduz por amplo atendimento com equipe multidisciplinar - Questão, ademais, superada pela edição da Súmula nº 90 deste Tribunal de Justiça - Sentença mantida - Recurso da ré não provido.
+Nas razões do recurso especial (e-STJ, fls. 187-191), apontou a insurgente, além de dissídio jurisprudencial, a existência de violação ao artigo 16, VI, da Lei 9.656/1998. Sustentou, em síntese, a legalidade da cláusula que exclui a cobertura de atendimento na modalidade home care.
+Contrarrazões às fls. 215-221 (e-STJ).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) não demonstração da violação ao dispositivo arrolado; b) incidência da Súmula 7/STJ; e c) não comprovação do dissídio jurisprudencial.
+Daí o presente agravo, no qual a insurgente contesta a aplicação dos óbices.
+Contraminuta às fls. 250-253 (e-STJ).
+Brevemente relatado, decido.
+Presentes os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A jurisprudência desta Corte tem se firmado pela abusividade da cláusula que exclui o atendimento na modalidade home care.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. PLANO DE SAÚDE. PRESTAÇÃO DE SERVIÇO HOME CARE. TRATAMENTO SOLICITADO PELO MÉDICO. REVISÃO DE CLÁUSULA CONTRATUAL ABUSIVA. AGRAVO DESPROVIDO.
+1. De acordo com a orientação jurisprudencial do STJ, o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma, sendo abusiva a cláusula contratual que exclui tratamento domiciliar quando essencial para garantir a saúde ou a vida do segurado.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1204136/PE, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 22/03/2018, DJe 02/04/2018);
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. CONSUMIDOR. PLANO DE SAÚDE. COBERTURA. TRATAMENTO HOME CARE. RECUSA INJUSTIFICADA. CLÁUSULA ABUSIVA. TRIBUNAL ESTADUAL ALINHADO À JURISPRUDÊNCIA DESTA CORTE. SÚMULA Nº 83 DO STJ. PRECEITOS LEGAIS NÃO PREQUESTIONADOS. SÚMULA Nº 282 E 356 DO STF. CONCLUSÕES DO ACÓRDÃO LOCAL ACERCA DA NECESSIDADE DO TRATAMENTO PLEITEADO. SÚMULA Nº 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inaplicabilidade do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Não se conhece de recurso especial se ausente o prequestionamento dos preceitos ditos violados, ainda que opostos embargos de declaração. Súmulas nºs 282 e 356 do STF.
+3. O serviço de home care (tratamento domiciliar) constitui desdobramento do tratamento hospitalar contratualmente previsto que não pode ser limitado pela operadora do plano de saúde. Na dúvida, a interpretação das cláusulas dos contratos de adesão deve ser feita da forma mais favorável ao consumidor (REsp nº 1.378.707/RJ, Rel.
+Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 15/6/2015).
+Aplicação da Súmula nº 83 do STJ.
+4. A revisão das conclusões do acórdão recorrido acerca da necessidade do consumidor em receber o tratamento home care é obstado, na via especial, pela Súmula nº 7 do STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp 835.018/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/02/2017, DJe 16/02/2017);
+RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. INTERNAÇÃO HOSPITALAR. CONVERSÃO EM ATENDIMENTO MÉDICO DOMICILIAR. POSSIBILIDADE. SERVIÇO DE HOME CARE. CLÁUSULA CONTRATUAL OBSTATIVA. ABUSIVIDADE. SUSPENSÃO TEMPORÁRIA DO TRATAMENTO. DANO MORAL. CONFIGURAÇÃO. AGRAVAMENTO DAS PATOLOGIAS. GRANDE AFLIÇÃO PSICOLÓGICA.
+1. Ação ordinária que visa a continuidade e a prestação integral de serviço assistencial médico em domicílio (serviço home care 24 horas), a ser custeado pelo plano de saúde bem como a condenação por danos morais.
+2. Apesar de os planos e seguros privados de assistência à saúde serem regidos pela Lei nº 9.656/1998, as operadoras da área que prestam serviços remunerados à população enquadram-se no conceito de fornecedor, existindo, pois, relação de consumo, devendo ser aplicadas também, nesses tipos contratuais, as regras do Código de Defesa do Consumidor (CDC). Ambos instrumentos normativos incidem conjuntamente, sobretudo porque esses contratos, de longa duração, lidam com bens sensíveis, como a manutenção da vida. Incidência da Súmula nº 469/STJ.
+3. Apesar de, na Saúde Suplementar, o tratamento médico em domicílio não ter sido incluído no rol de procedimentos mínimos ou obrigatórios que devem ser oferecidos pelos planos de saúde, é abusiva a cláusula contratual que importe em vedação da internação domiciliar como alternativa de substituição à internação hospitalar, visto que se revela incompatível com a equidade e a boa-fé, colocando o usuário (consumidor) em situação de desvantagem exagerada (art. 51, IV, da Lei nº 8.078/1990). Precedentes.
+4. O serviço de saúde domiciliar não só se destaca por atenuar o atual modelo hospitalocêntrico, trazendo mais benefícios ao paciente, pois terá tratamento humanizado junto da família e no lar, aumentando as chances e o tempo de recuperação, sofrendo menores riscos de reinternações e de contrair infecções e doenças hospitalares, mas também, em muitos casos, é mais vantajoso para o plano de saúde, já que há a otimização de leitos hospitalares e a redução de custos: diminuição de gastos com pessoal, alimentação, lavanderia, hospedagem (diárias) e outros.
+5. Na ausência de regras contratuais que disciplinem a utilização do serviço, a internação domiciliar pode ser obtida como conversão da internação hospitalar. Assim, para tanto, há a necessidade (i) de haver condições estruturais da residência, (ii) de real necessidade do atendimento domiciliar, com verificação do quadro clínico do paciente, (iii) da indicação do médico assistente, (iv) da solicitação da família, (v) da concordância do paciente e (vi) da não afetação do equilíbrio contratual, como nas hipóteses em que o custo do atendimento domiciliar por dia não supera o custo diário em hospital.
+6. A prestação deficiente do serviço de home care ou a sua interrupção sem prévia aprovação ou recomendação médica, ou, ainda, sem a disponibilização da reinternação em hospital, gera dano moral, visto que submete o usuário em condições precárias de saúde à situação de grande aflição psicológica e tormento interior, que ultrapassa o mero dissabor, sendo inidônea a alegação de mera liberalidade em seu fornecimento.
+7. Recurso especial não provido.
+(REsp 1537301/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/08/2015, DJe 23/10/2015).
+Assim, a decisão recorrida se mostra em sintonia com o entendimento desta Corte Superior, motivo pelo qual não merece reforma.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 5% (cinco por cento) sobre o valor atualizado da causa.
+Publique-se.
