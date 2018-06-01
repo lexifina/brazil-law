@@ -1,0 +1,58 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC. EXAME DE ADMISSIBILIDADE. MÉRITO. SÚMULA Nº 123 DO STJ. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Infere-se da minuta do agravo de instrumento que LISBETE MENDES DOS SANTOS COSTA e outros (SEGURADOS) ajuizaram ação de indenização securitária contra a SUL AMERICA COMPANHIA NACIONAL DE SEGUROS (SEGURADORA).
+No curso do processado, o Juízo de piso reconheceu a incompetência da Justiça comum para julgar o feito, em virtude do interesse jurídico da CAIXA ECONÔMICA FEDERAL, e determinou a remessa dos autos à Justiça federal.
+Contra essa decisão os SEGURADOS manejaram agravo de instrumento.
+O Tribunal de origem, em decisão unipessoal, deu provimento ao recurso para declarar a ausência de interesse da Caixa Econômica Federal no feito e a competência desta Justiça Estadual para processar e julgar a presente ação (e-STJ, fl. 183), no que foi corroborado pelo órgão colegiado em acórdão que recebeu a seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO LEGAL EM AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO SECURITÁRIA FUNDADA EM CONTRATO DO SISTEMA FINANCEIRO HABITACIONAL. INTERVENÇÃO DA CAIXA ECONÔMICA FEDERAL. INTERESSE DA UNIÃO. INEXISTÊNCIA DE COMPROMETIMENTO DO FCVS. AFETAÇÃO DE RECURSOS PÚBLICOS. INOCORRÊNCIA. INOVAÇÃO LEGISLATIVA. LEI No 13.000/2014. AUSÊNCIA DE REPERCUSSÃO PRÁTICA NO CASO CONCRETO. INAPLICABILIDADE IMEDIATA DA SÚMULA 150 DO STJ. IRRESIGNAÇÃO. INVIABILIDADE DO PEDIDO.
+1. A Quarta Câmara Cível deste Egrégio Tribunal de Justiça já se posicionou no sentido de ser desnecessária a participação da Caixa Econômica Federal no feito originário (ação securitária), uma vez que não há nos autos a demonstração da ocorrência concreta de comprometimento do Fundo de Compensação de Variações Salariais (FCVS);
+2. Registra a súmula 094/TJPE que "A Justiça Estadual é competente para processar e julgar ações de seguro habitacional";
+3. Não tem aplicabilidade imediata a Súmula 150 do Tribunal da Cidadania, tendo em vista que a ausência de interesse processual da União, em situações idênticas, já foi proclamada em precedentes do Superior Tribunal de Justiça;
+4. A alteração introduzida pela Medida Provisória 633 de 2013, convertida na Lei 13.000 de 2014, tem por objetivo autorizar a Caixa Econômica Federal (CEF) a representar judicial e extrajudicialmente os interesses do FCVS, sendo que a CEF intervirá, em face do interesse jurídico, nas ações judiciais que representem risco ao FCVS ou às suas subcontas. Se não há prova de risco ou impacto jurídico ou econômico ao FCVS, a inovação legislativa não traz nenhuma repercussão prática. Decisão unânime (e-STJ, fl. 237).
+A SEGURADORA, então, manejou recurso especial calcado no art. 105, III, a e c, da CF, alegando, além de dissídio, ofensa aos arts. 1º da Lei nº 12.409/11; 1º da Lei nº 8.004/90; Lei nº 7.682/88; e, aos Decretos-lei nºs 2.406/88 e 2.476/88.
+As contrarrazões foram apresentadas (e-STJ, fls. 349/369).
+O recurso foi inadmitido na origem por (1) aplicação do art. 1.030, I, b, do NCPC, com relação à competência da Justiça federal para análise do feito; (2) incidência das Súmulas nºs 5, 7 e 211, todas do STJ, e 284 do STF; e, (3) não demonstração do dissídio e deficiência das suas razões (e-STJ, fls. 372/376).
+A SEGURADORA interpôs agravo interno, que foi desprovido pelo TJPE (e-STJ, fls. 641/652).
+Ainda inconformada, a SEGURADORA manifestou o presente agravo, em cujas razões, além de reiterar seu recurso especial, aduziu, em resumo, que (1) a análise do seu apelo nobre independe do reexame de matéria fático-probatória, mas, sim, de sua revaloração; (2) a decisão agravada usurpou da competência dessa Corte; (3) foi efetivamente demonstrado o cotejo jurisprudencial; (4) não é possível aplicar a Súmula nº 211 do STJ, porque o prequestionamento e a análise da matéria pela Corte estadual está implícito no seio da lide; (5) não é possível a incidência da Súmula nº 284 do STF porque este enunciado é apenas aplicável nos recursos extraordinários; e, (6) a decisão agravada usurpou da competência dessa Corte porque analisou o mérito do apelo nobre (e-STJ, fls. 381/431).
+A contraminuta foi apresentada (e-STJ, fls. 603/637).
+É o relatório.
+DECIDO.
+O recurso não comporta conhecimento.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Observa-se, da leitura das razões recursais, que o inconformismo não se dirigiu de forma específica contra todos os fundamentos da decisão agravada, pois a SEGURADORA não infirmou seus esteios, na medida em que não refutou de forma arrazoada (1) o óbice pela incidência das Súmulas nºs 211 do STJ e 284 do STF; e, (2) a deficiência do dissídio jurisprudencial.
+ Em suma, a SEGURADORA limitou-se a renegar genericamente os motivos apresentados pelo julgado impugnado, sem, no entanto, evidenciar a inadequação da fundamentação adotada.
+Na espécie, a SEGURADORA, além de indicar a norma que teria sido interpretada diversamente (Súmula nº 284 do STF), deveria ter comprovado o cotejo e a similitude fática entre os acórdãos paradigmas, apontando trechos do apelo nobre, de modo a afastar a falta de comprovação do dissídio, o que não ocorreu.
+Ressalte-se que a Súmula nº 284 do STF aplica-se, por analogia, aos recursos especiais, conforme entendimento aqui dominante. Além disso, ao contrário do que quer fazer crer, este enunciado apenas sintetiza o direito aplicado reiteradamente nesta Corte, qual seja: de que a deficiência do recurso especial, manejado por qualquer uma das alíneas do permissivo constitucional, impede o seu conhecimento.
+No que se refere à aplicação da Súmula nº 211 do STF, a SEGURADORA deveria ter demonstrado o efetivo prequestionamento dos dispositivos de lei que entendeu afrontados, apontando trechos do acórdão recorrido para esse fim, o que não ocorreu.
+Registra-se, por oportuno, ter o art. 1.025 do NCPC consagrado o prequestionamento ficto, ao determinar que se consideram incluídos no acórdão embargado os elementos suscitados nas razões do recurso integrativo, se o Tribunal entender que houve vício no julgamento.
+Entretanto, para que se considere prequestionada a matéria, é necessário que o recorrente suscite, nas razões do recurso especial, a existência de violação do art. 1.022 do NCPC, a possibilitar a aferição de eventual negativa de prestação jurisdicional.
+No caso, a SEGURADORA não suscitou o vício, estando, portanto, ausente o requisito para o prequestionamento ficto.
+A propósito, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 15/9/2017 - sem destaque no original)
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+A propósito, vejam-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA QUE MANTEVE A INADMISSÃO DO RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. PLEITO DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO NÃO REBATIDO. MANUTENÇÃO DA DECISÃO ORA AGRAVADA. RECURSO NÃO PROVIDO.
+1. O agravo em recurso especial que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, ônus do qual não se desincumbiu a parte insurgente. Aplicação, por analogia, da Súmula 182/STJ.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp 964.429/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 16/9/2016 - sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 544, § 4º, I, do CPC).
+2.  ..
+3. Agravo regimental não provido.
+(AgRg no AREsp 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014 - sem destaque no original)
+Frise-se que a jurisprudência desta Corte é pacífica quanto à possibilidade de o Tribunal de origem adentrar o mérito do recurso especial, pois o exame de admissibilidade pela alínea "a" do permissivo constitucional envolve o próprio mérito da controvérsia (AgRg no AREsp nº 497.819/MG, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe 26/5/2014).
+Nesse sentido, aliás, é o Enunciado nº 123 da Súmula do STJ: A decisão que admite, ou não, o recurso especial deve ser fundamentada, com exame dos seus pressupostos gerais e constitucionais.
+Nessas condições, nos termos do art. 932, III, do NCPC, NÃO CONHEÇO do agravo.
+Inaplicável ao caso a majoração de honorários.
+Advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se.
+Intimem-se.
