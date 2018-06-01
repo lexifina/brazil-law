@@ -1,0 +1,39 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. REDIRECIONAMENTO. INSCRIÇÃO DOS SÓCIOS NA CDA. HIGIDEZ DO TÍTULO NÃO INFIRMADA, TAL COMO CONSTATADO NA INSTÂNCIA DE ORIGEM. NECESSIDADE DE DILAÇÃO PROBATÓRIA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A ORIENTAÇÃO DESTA CORTE. RESP. 1.104.900/ES, REL. MIN. DENISE ARRUDA, DJE 1.14.2009. AGRAVO DESPROVIDO.
+1. Agrava-se da decisão que negou seguimento a Recurso Especial interposto por [NOME] DE SALVO COIMBRA, [NOME], e VOX MERCADO PESQUISAS E PROJETOS LTDA., com fundamento no art. 105, III a da CF, contra acórdão do egrégio TJMG, assim ementado:
+PROCESSO CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. ILEGITIMIDADE PASSIVA. INADMISSIBILIDADE. NECESSIDADE DE PROVA. INSCRIÇÃO DOS SÓCIOS NA CERTIDÃO DE DÍVIDA ATIVA..
+- É cabível o redirecionamento da execução fiscal aos sócios que constem como responsáveis na Certidão de Dívida Ativa , sendo legítima sua figuração como sujeito passivo da relação processual executiva, a teor do que dispõem o art. 568, I do CPC e o art. 4º, I da Lei 6.830/80.
+- Hipótese de cabimento do redirecionamento da pretensão executória, já que os sócios, enquanto co-obrigados constantes na Certidão de Dívida Ativa, em virtude de processo tributário administrativo, não se desincumbiram de provar vícios e incorreções na referida inclusão (fls. 136).
+2. Nas razões de seu Apelo Nobre inadmitido, a parte recorrente sustenta, em suma, que a decisão que negou provimento ao Agravo Interno infringiu os artigos 134 e 135 do Código Tributário Nacional, ao não observar as limitações à responsabilização dos sócios impostas nos próprios dispositivos normativos, bem como ao artigo 50 da Lei 9.784/1999, que dispõe que as decisões proferidas no âmbito do processo administrativo fiscal ou tributário deverão ser fundamentadas (fls. 153).
+3. Com contrarrazões (fls. 166/174), o recurso foi inadmitido na origem (fls. 175/177).
+4. É o relatório. Decido.
+5. O Tribunal de origem entendeu que as questões arguidas pela parte ora agravante vão além das provas apresentadas nos autos, afirmando, expressamente, que, embora a presunção de veracidade da Certidão de Dívida Ativa seja relativa e possa ser ilidida por prova contrária, no caso em espécie, os agravados não se desincumbiram deste ônus (fls. 139).
+6. Nesse aspecto, destacou a Corte de origem:
+Na espécie dos autos, a Fazenda Pública demonstrou (e-doc. 3) que, de fato, os recorridos foram incluídos no polo passivo da execução fiscal por figurarem como co-obrigados na Certidão da Dívida Ativa que embasa a execução.
+Consoante entendimento do Superior Tribunal de Justiça, cabe aos sócios, e não à Fazenda Pública Municipal, o ônus de provar a ausência dos requisitos do art. 135 do CTN, em razão da relativa presunção de liquidez e certeza da referida certidão.
+Processual Civil. Recurso especial submetido à sistemática prevista no art. 543-C do CPC. Execução fi scal. Inclusão dos representantes da pessoa jurídica, cujos nomes constam da CDA, no pólo passivo da execução fiscal. Possibilidade. Matéria de defesa. Necessidade de dilação probatória. Exceção de pré-executividade. Inviabilidade. Recurso especial desprovido.
+1. A orientação da Primeira Seção desta Corte firmou- se no sentido de que, se a execução foi ajuizada apenas contra a pessoa jurídica, mas o nome do sócio consta da CDA, a ele incumbe o ônus da prova de que não ficou caracterizada nenhuma das circunstâncias previstas no art. 135 do CTN, ou seja, não houve a prática de atos "com excesso de poderes ou infração de lei, contrato social ou estatutos".
+2. Por outro lado, é certo que, malgrado serem os embargos à execução o meio de defesa próprio da execução fiscal, a orientação desta Corte firmou-se no sentido de admitir a exceção de pré-executividade nas situações em que não se faz necessária dilação probatória ou em que as questões possam ser conhecidas de ofício pelo magistrado, como as condições da ação, os pressupostos processuais, a decadência, a prescrição, entre outras.
+3. Contudo, no caso concreto, como bem observado pelas instâncias ordinárias, o exame da responsabilidade dos representantes da empresa executada requer dilação probatória, razão pela qual a matéria de defesa deve ser aduzida na via própria (embargos à execução), e não por meio do incidente em comento.
+4. Recurso especial desprovido. Acórdão sujeito à sistemática prevista no art. 543-C do CPC, c.c. a Resolução n. 8/2008 - Presidência/STJ.
+(REsp 1.104.900-ES, Relator (a) Min. Denise Arruda, julgamento em 25/03/2009). (destaquei)
+É o que se extrai do art. 3o. e parágrafo único da Lei de Execuções Fiscais:
+(..).
+Por certo, embora a presunção de veracidade da Certidão de Dívida Ativa seja relativa e possa ser ilidida por prova contrária, no caso em espécie, os agravados não se desincumbiram deste ônus.
+Isto porque, a formação do título executivo foi precedida do processo administrativo n. 01.135941.11/13, não juntado aos autos do recurso, o que impede a constatação de eventual irregularidade ou vícios em sua composição.
+7. Tal conclusão, além de estar amparada na jurisprudência do STJ, para ser afastada seria necessário o reexame das provas carreadas aos autos, o que, entretanto, é defeso em Recurso Especial.
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INCLUSÃO DOS REPRESENTANTES DA PESSOA JURÍDICA, CUJOS NOMES CONSTAM DA CDA, NO PÓLO PASSIVO DA EXECUÇÃO FISCAL. POSSIBILIDADE. DISCUSSÃO SOBRE A NECESSIDADE DE DILAÇÃO PROBATÓRIA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ.
+1. A jurisprudência do STJ. no julgamento do REsp 1.104.900/ES, submetido ao rito dos recurso repetitivos, firmou-se no sentido de que, se a execução fui ajuizada contra a pessoa jurídica, mas o nome do sócio consta na CDA, a ele incumbe o ônus da prova de que não ficou caracterizada nenhuma das circunstâncias previstas no art. 135 do CTN.
+2. A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória (Súmula 393/STJ).
+3. Inviável em sede de recurso especial o reexame de matéria de fato. Óbice da Súmula 7/STJ.
+4. Agravo regimental não provido (AgRg no AREsp. 844.674/MT, Rel. Min. MAURO CAMPBELL MARQUES, DJe 17.3.2016).
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. CDA. REQUISITOS. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INVIABILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. ALEGAÇÃO DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. O reconhecimento, pelo Tribunal de origem, de que a resolução do debate necessita de produção de prova impossibilita a utilização da defesa por Exceção de Pré-Executividade. Orientação reafirmada no julgamento do REsp 1.104.900/ES, sob o regime do art. 543-C do CPC.
+3. Não se pode conhecer da alegação acerca da nulidade da CDA decorrente de vício formal, visto que a aferição dos requisitos de validade da CDA, quais sejam a certeza, a liquidez e a exigibilidade do título, demanda obrigatoriamente revolvimento do acervo fático-probatório dos autos, exame que encontra óbice na Súmula 7/STJ.
+4. Inviável a discussão em Recurso Especial acerca de suposta ilegalidade da multa administrativa que originou a CDA, porquanto prevista em mera resolução, uma vez que exige análise de violação de dispositivo constitucional (art. 5º, II, da CF), cuja competência é exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+5. Agravo Regimental não provido (AgRg no AREsp. 187.807/RJ, Rel. Min. HERMAN BENJAMIN, DJe 27.8.2012).
+8. Ante o exposto, nega-se provimento ao Agravo.
+9. Publique-se.
+10. Intimações necessárias.
