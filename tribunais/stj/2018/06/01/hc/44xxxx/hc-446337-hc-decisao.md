@@ -1,0 +1,6 @@
+DECISÃO
+ADEILSON RIBEIRO TELLES pede a extensão da liminar concedida a ora paciente.
+O fundamento da decisão de fls. 398-409 é de natureza subjetiva e somente aproveita à paciente, uma vez que diz respeito às suas circunstâncias personalíssimas, sopesadas pelo então relator do feito. Na oportunidade, o Ministro Sebastião Reis Júnior considerou que a investigada praticou atos banais a mando de [NOME], e a qualificou como mera executora de ordens e instruções recebidas de seu chefe.
+A petição de extensão, por sua vez, traz argumentos que apenas se aplicam ao requerente, o qual não está na mesma situação fática da paciente. Em relação a ele (apontado como o contato de [NOME] relativo ao Postalis, que tinha [NOME] como operador financeiro do esquema relacionado a esse fundo de pensão), se a defesa entende que não estão caracterizados o fumus comissi delicti e o periculum in mora, deverá impetrar habeas corpus próprio (e não pedido de extensão), com fundamentos que aproveitam ao requerente, respeitadas as regras de competência deste Superior Tribunal e do Tribunal a quo.
+À vista do exposto, indefiro o pedido de extensão, pois ausente igualdade de situações a atrair o art. 580 do CPP.
+Publique-se e intimem-se.
