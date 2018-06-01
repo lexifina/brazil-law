@@ -1,0 +1,19 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. REDIRECIONAMENTO DA EXECUÇÃO FISCAL. DISSOLUÇÃO IRREGULAR. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS: TEMAS 962 (RESP. 1.377.019/SP) E 981 (RESP"S. 1.645.333/SP, 1.643.944/SP E 1.645.281/SP). RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 1.040 DO CPC/2015.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento na alínea a do art. 105, III, da CF/1988, objetivando a reforma do acórdão proferido pelo egrégio TRF da 3a. Região, assim ementado:
+APELAÇÃO. EXECUÇÃO FISCAL. REDIRECIONAMENTO DA EXECUÇÃO EM FACE DO" SÓCIO. DISSOLUÇÃO REGISTRADA NA JUNTA COMERCIAL. REGULARIDADE.
+SÚMULA 435 DO STJ. NÃO COMPROVAÇÃO DAS CONDIÇÕES PREVISTAS NO ARTIGO 135 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCLUSÃO DE SÓCIO PELO INADIMPLEMENTO. IMPOSSIBILIDADE. SÚMULA 430 DO STJ.
+1. A jurisprudência do Egrégio SUPERIOR TRIBUNAL DE JUSTIÇA orienta no sentido de que a inclusão de sócio de empresa devedora do Fisco, no polo passivo de execução fiscal, só se legitima quando esse sócio tiver praticado atos com excesso de poderes ou com infração à lei ou ao contrato social, dentre os quais se inclui a irregular dissolução da sociedade.
+2. 0 C. Superior Tribunal de Justiça já sumulou entendimento no sentido de que Presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente (Súmula 435).
+3. Caso concreto em que não houve irregular dissolução, dado que o distrato foi devidamente averbado na Junta Comercial.
+4. Aplicada ao caso da orientação sumulada pelo Superior Tribunal de Justiça (verbete 430) no sentido de que o inadimplemento da obrigação tributária pela sociedade não gera, por si só, a responsabilidade solidária do sócio-gerente.
+5. Apelação a que se nega provimento (fls. 162/163).
+2. Os Embargos de Declaração opostos (fls. 166/171), foram rejeitados (fls. 174/178).
+3. Em seu Apelo Nobre (fls. 181/193), a parte recorrente sustenta violação do art. 135 do CTN, sob o seguinte argumento: o mero registro do distrato é insuficiente para ilidir a presunção de dissolução regular da sociedade, uma vez que a extinção da empresa deve seguir um procedimento que se inicia pelo distrato, mas que deve ser seguido de liquidação, apuração e pagamento do passivo. O v. Acórdão entendeu que não teria ocorrido as hipóteses acima citadas, pois havia distrato registrado na JUCESP. Ocorre que a dissolução das sociedades, inclusive das civis, envolve um procedimento complexo, e implica, na obrigatoriedade de serem liquidados todos os débitos (fls. 184).
+4. Sem contrarrazões (fls. 195), fora o recurso admitido na origem (fls. 198/202).
+5. É o relatório. Decido.
+6. Verifica-se que a matéria versada no presente recurso se encontra afetada à 1a. Seção do STJ como representativo da controvérsia e aguarda julgamento: Temas 962 (REsp. 1.377.019/SP) e 981 (REsp"s. 1.645.333/SP, 1.643.944/SP e 1.645.281/SP).
+7. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 1.040 do CPC/2015.
+8. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos do art. 1.040 do CPC/2015.
+9. Publique-se.
+10. Intimações necessárias.
