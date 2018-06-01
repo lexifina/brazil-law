@@ -1,0 +1,13 @@
+DECISÃO
+AGRAVO EM RECURSO ESPECIAL. MILITAR. EXCLUSÃO. APONTADA VIOLAÇÃO DOS ARTS. 92 DO CÓDIGO PENAL E 2o. DA LEI 9.784/1999. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por EDMAR BRITO FRANÇA, com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio TJBA, que foi assim ementado:
+APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDOR MILITAR. VARA DE AUDITORIA MILITAR. INFRAÇÃO ADMINISTRATIVA. DEMISSÃO. RECURSO DESPROVIDO. SENTENÇA MANTIDA.
+O apelante pretende a anulação do ato administrativo que determinou sua exclusão da Polícia Militar e, via de conseqüência, obter a sua reintegração aos quadros da corporação.
+Cumpre salientar, inicialmente, que são independentes as esferas penal e administrativa. Assim, o servidor público pode ser punido pela Administração em. razão da conduta tipificada como crime, bem como não está obrigado a aguardar o desfecho dos demais processos, nem mesmo em face da presunção constitucional de não culpabilidade.
+Torna-se imperioso explicitar que a conduta firmada pelo Apelante na esfera penal e que ensejou o ato ora hostilizado desautoriza o pleito esposado na inicial, mormente por exercer função intrinsecamente ligada a um comportamento contrário àquele adotado. O Recorrente foi formalmente acusado de praticar ato que deveria, efetivamente e, por dever de ofício, evitar e combater.
+NEGA-SE PROVIMENTO AO RECURSO, e, em reexame necessário, confirma-se a sentença de primeiro grau (fls. 113).
+2. Em suas razões recursais, o recorrente aponta violação dos arts. 92 do Código Penal e 2o. da Lei 9.784/1999, defendendo que a perda do cargo somente pode ocorrer após o trânsito em julgado da sentença condenatória. Afirma que os atos apontados pelo referido procedimento administrativo carecem de sustento documental e o ato de demissão foi tomado baseando-se, exclusivamente, em meras suposições hipotéticas, depoimentos combinados dos Denunciantes, que não indicam o efetivo envolvimento do Autor na imputação que lhe foi feita (fls. 173).
+3. É o relatório. Decido.
+4. Os temas insertos nos artigos 92 do Código Penal e 2o. da Lei 9.784/1999 não foram debatidos pelo Tribunal de origem, tampouco foram suscitados nos Embargos de Declaração opostos. Carecem, portanto, de prequestionamento, requisito indispensável ao acesso às instâncias excepcionais. Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+5. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial.
+6. Publique-se. Intimações necessárias.
