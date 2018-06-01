@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que foi decretada a prisão preventiva do ora paciente, denunciado como incurso no art. 33 da Lei n. 11.343/2006, por vender e trazer consigo um tablete de maconha e 7 buchas de maconha (e-STJ fl. 50), além de uma faca e balança de precisão (e-STJ fl. 96).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça, que denegou a ordem, nos termos do acórdão assim ementado (e-STJ fl. 117):
+"HABEAS CORPUS". TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. RELAXAMENTO. IMPOSSIBILIDADE. EXCESSO DE PRAZO. INOCORRÊNCIA. EXTRAPOLAÇÃO DO PRAZO DEVIDAMENTE JUSTIFICADA. PRINCÍPIO DA RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA, COM RECOMENDAÇÃO. OFÍCIO. 1. O prazo legal para a conclusão de processo de réu preso não pode ser resultado exclusivo da simples somatória dos lapsos para a realização de todos os atos previstos na Lei, devendo se adequar às particularidades da causa. 2. Eventual excesso de prazo no encerramento do procedimento criminal deve ser examinado levando-se em conta a complexidade do feito, o comportamento dos litigantes e seus procuradores e, sobretudo, do Órgão Jurisdicional, que, "in casu", vem adotando todas as providências necessárias para o regular andamento dos atos procedimentais. 3. Atento ao princípio da razoabilidade, o excesso de prazo só deve ser reconhecido quando a demora for injustificada, o que não se vislumbra na hipótese dos autos, em que foi necessária a expedição de cartas precatórias. 4. Ordem denegada, com recomendação. Oficiar.
+Na presente impetração, a defesa sustenta que o paciente encontra-se preso provisoriamente desde 20/4/2017, sem que a instrução processual haja se encerrado. Ademais, afirma a ausência de fundamentação idônea do decreto prisional.
+Diante disso, pleiteia, liminarmente e no mérito, a revogação da prisão preventiva (e-STJ fls. 1/11).
+O pleito urgente foi indeferido (e-STJ fls. 131/133).
+Prestadas informações pela autoridade apontada como coatora, opinou o Ministério Público Federal pela denegação da ordem (e-STJ fls. 140/164 e 166/169, respectivamente).
+É, em síntese, o relatório.
+Em consulta à página eletrônica do Tribunal de Justiça do Estado de Minas Gerais, verifica-se que o paciente, na data de 24/5/2018, foi beneficiado com a concessão da liberdade provisória.
+Nessas circunstâncias, havendo a superveniência de decisão judicial concedendo ao ora paciente o benefício da liberdade provisória, o presente habeas corpus - que objetivava, justamente, a liberdade do paciente - perdeu seu objeto.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
