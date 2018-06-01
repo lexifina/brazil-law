@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos a decisão desta relatoria que negou provimento ao agravo nos próprios autos, confirmando a inadmissibilidade do recurso especial (e-STJ fls. 714/717).
+Em suas razões (e-STJ fls. 720/726), o embargante alega a existência de omissão, pois, apesar de apresentar com clareza a divergência jurisprudencial nas razões do recurso especial (e-STJ fls. 565/589), o dissídio não teria sido apreciado, deixando de ser analisadas as razões exaustivamente expostas para demonstrar o dissenso interpretativo entre o acórdão guerreado e os arestos paradigmas em relação à incidência da Súmula n. 385/STJ ao caso, demonstrando que ante as anotações pré-existentes da recorrida em cadastro de inadimplentes.
+Ao final, requer o acolhimento dos declaratórios.
+Foi apresentada impugnação (e-STJ fls. 730/732).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015 (CPC/1973, art. 535).
+Ademais, os aclaratórios, em regra, não permitem rejulgamento da causa, sendo certo que o efeito modificativo somente é possível em hipóteses excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado. Sob esse enfoque, confiram-se os seguintes precedentes da Corte Especial:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. DECISÃO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. EMBARGOS REJEITADOS.
+I - Os embargos de declaração devem atender aos seus requisitos, quais sejam, suprir omissão, contradição ou obscuridade. Não havendo qualquer um desses pressupostos, rejeita-se o recurso integrativo.
+II - Consoante jurisprudência firmada por esta Corte Superior, a tempestividade dos recursos é aferida quando do protocolo na secretaria do Tribunal e não da entrada na agência dos correios.
+III - Ademais, embora o embargante tenha juntado comprovante da entrega em Brasília, no dia 14/01/2013, não há comprovação de que tenha sido, na mesma data, entregue na secretaria deste Tribunal. Não tendo sido, inclusive, juntado até o presente momento os originais do recurso interposto.
+IV - Embargos rejeitados.
+(EDcl no AgRg no ARE no AgRg nos EDcl no RE no Ag n. 1.423.681/BA, Relator Ministro GILSON DIPP, CORTE ESPECIAL, julgado em 16/9/2013, DJe 25/9/2013.)
+SEGUNDOS EMBARGOS DECLARATÓRIOS. EMBARGOS DE DIVERGÊNCIA. TELEFONIA. APLICAÇÃO DA SÚMULA 182. AUSÊNCIA DE ATAQUE AOS FUNDAMENTOS DA DECISÃO. PEDIDO DE EFEITOS INFRINGENTES. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO.
+À mingua dos vícios previstos no art. 535 do CPC e não sendo a via escolhida meio de resposta a questionamentos da partes, é de se ter como inviável a oposição, alertando ao embargante para a aplicação de multa processual caso persista o intuito de adiar a conclusão da causa.
+Embargos rejeitados.
+(EDcl nos EDcl no AgRg nos EAREsp n. 220.572/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 11/7/2013, DJe 12/8/2013.)
+A decisão embargada assentou que o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015.
+No caso concreto, verifica-se que o embargante, nas razões do apelo especial, realizou o cotejo, de modo analítico, entre o acórdão impugnado e o aresto paradigma do STJ invocado, transcrevendo trechos dos julgados, em fls. 577/578 (e-STJ), a fim de demonstrar que a inscrição pré-existente em cadastro de inadimplentes afastaria a caracterização do dano moral advindo de posterior protesto ilegítimo de título, segundo previsto na Súmula n. 385/STJ.
+Todavia, o dissenso interpretativo não foi evidenciado, ante a falta de similitude fática entre o acórdão do TJSP e o aresto paradigma, na medida em que aquele reconheceu o dano moral praticado à empresa recorrida, ora embargada, pelo recorrente ao protestar indevidamente duplicata desprovida de causa subjacente, assentando que a existência de protesto anterior, ainda que legítimo, não afastaria o dano extrapatrimonial reconhecido.
+Essa situação específica não se verifica no acórdão do STJ usado como paradigma (e-STJ fls. 577/582), o qual se restringiu a aplicar a Súmula n. 385/STJ para afastar o dano moral requerido por consumidor cadastrado indevidamente em lista de inadimplentes, mas detendo anterior inscrição em rol de maus pagadores.
+Inexiste, portanto, omissão a ser sanada.
+Na verdade, sob o pretexto de ver sanado suposto vício, pretende o recorrente a reforma da decisão, para que seu recurso especial seja admitido e provido. Contudo, o simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Assim, não se constata nenhuma das hipóteses de cabimento dos aclaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+Por fim, a QUARTA TURMA no julgamento do AgInt no AREsp n. 845.221/RS, Relator Ministro MARCO BUZZI, ocorrido em 28/6/2016 (acórdão publicado em 1º/8/2016), concluiu pela inaplicabilidade da majoração dos honorários advocatícios prevista no art. 85, § 11, do CPC/2015, na hipótese em que o recurso for dirigido ao mesmo órgão prolator ou ao órgão colegiado do qual participe o Magistrado que proferiu a decisão recorrida, a exemplo dos embargos de declaração ou do agravo interno. No mesmo sentido: AgInt no AREsp n. 788.432/SP, Relatora Ministra MARIA ISABEL GALLOTTI, julgado em 4/10/2016, DJe de 11/10/2016.
+Assim, com fundamento em tais precedentes, ressalvado o entendimento em contrário desta Relatoria, deixo de majorar a verba honorária.
+Publique-se e intimem-se.
