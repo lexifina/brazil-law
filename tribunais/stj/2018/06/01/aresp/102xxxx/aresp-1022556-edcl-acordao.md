@@ -1,0 +1,70 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL NÃO DEMONSTRADO. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DO ART. 1.021, § 1º, DO CPC/2015. PREMISSA EQUIVOCADA NO ACÓRDÃO EMBARGADO. NÃO OCORRÊNCIA. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. EMBARGOS REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade, contradição ou erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de embargos de declaração opostos por [NOME] ao acórdão desta Terceira Turma, o qual foi conhecido em parte e, nesta extensão, desprovido.
+O decisum está assim ementado (e-STJ, fl. 953):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. PUBLICAÇÃO DE MATÉRIA JORNALÍSTICA EM BLOG. 1. AFERIÇÃO DE QUE A PARTE RECORRENTE É FIGURA PÚBLICA. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. 2. DANO MORAL NÃO DEMONSTRADO. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DO ART. 1.021, § 1º, DO CPC/2015. 3. AGRAVO INTERNO CONHECIDO EM PARTE E, NESTA EXTENSÃO, DESPROVIDO.
+1. A alteração do entendimento firmado no aresto impugnado e o consequente acolhimento da tese defendida no apelo extremo - de que o recorrente é figura pública - só seriam possíveis mediante o revolvimento do acervo fático-probatório do respectivo processo, providências vedadas nesta instância extraordinária em decorrência do disposto na Súmula 7 do STJ.
+2. Cabe à parte agravante, nas razões do agravo interno, trazer argumentos suficientes para contestar a decisão agravada. A ausência de fundamentos válidos para impugnar a decisão proferida no agravo em recurso especial, atrai a aplicação do disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+3. Agravo interno conhecido em parte e, nesta extensão, desprovido.
+Em suas razões (e-STJ, fls. 959-962), o embargante aduz que o acórdão está fulcrado em premissa equivocada, asseverando que, "embora rechace a aplicação da Súmula 7 do STJ, o agravo interno apresentado pelo embargante também questiona a sobreposição da liberdade de imprensa aos seus direitos fundamentais, ainda mais por tratar-se de matérias manifestamente ofensivas e inverídicas".
+Impugnação apresentada (e-STJ, fls. 969-971).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Razão não assiste ao embargante.
+Ressalte-se que apenas são cabíveis os aclaratórios quando existir no julgado omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015, situação que não se observa na espécie.
+A jurisprudência desta Corte é pacífica no sentido de ser possível a atribuição de efeitos infringentes aos embargos de declaração, em situações excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que o acolhimento dos embargos tiver como consectário lógico a alteração da decisão.
+A propósito (sem grifo no original):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CARÁTER INFRINGENTE. POSSIBILIDADE. EXCEPCIONALIDADE. CABIMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. HONORÁRIOS ADVOCATÍCIOS. VALOR. MAJORAÇÃO. DESCABIMENTO. RAZOABILIDADE.
+1. A atribuição de efeitos infringentes aos embargos de declaração é possível, em hipóteses excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que, sanada a omissão, a contradição ou a obscuridade, a alteração da decisão surja como consequência necessária.
+2. A tese vinculada aos artigos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não foi indicada a contrariedade ao art. 535 do Código de Processo Civil, motivo pelo qual, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211 do STJ.
+3. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias a título de honorários advocatícios apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso.
+4. Embargos declaratórios recebidos como agravo regimental.
+5. Agravo regimental não provido.
+(EDcl no AgRg no AREsp n. 613.597/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/2/2016, DJe 18/2/2016).
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. COMPROMISSO DE VENDA E COMPRA. MULTA MORATÓRIA. PERCENTUAL. ALEGAÇÃO DE VIOLAÇÃO AO ART.535 DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA DIANTE DA CONFIGURAÇÃO DO VÍCIO DE OMISSÃO. POSSIBILIDADE DE EFEITOS INFRINGENTES. AGRAVO REGIMENTAL NÃO PROVIDO. APLICAÇÃO DE MULTA.
+1. Inexiste violação ao artigo 535, I e II do CPC, pois o acórdão, ao afirmar nos primeiros embargos que a base de cálculo da multa moratória era o valor do contrato, poderia, em face de cumprimento de 80% do valor contratado, ter determinado a redução da multa conforme permitido pelo artigo 924 do CC/1916, inclusive porque houve requerimento expresso da agravada neste sentido.
+2. A rigor, o recurso de embargos de declaração não se presta à modificação do julgado. Contudo, no caso concreto da lide, verificada a necessária complementação dos embargos anteriormente opostos pela recorrida/agravada, mediante o suprimento de omissão no acórdão, é possível que se emprestem efeitos infringentes à decisão embargada.
+3. Agravo regimental não provido. Aplicação de multa.
+(AgRg no Ag n. 1.264.074/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/10/2011, DJe 18/10/2011).
+No caso, não se verifica a existência de premissa equivocada no julgado ora embargado pela seguinte fundamentação.
+Na decisão monocrática de fls. 914-919 (e-STJ), esta relatoria conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negou-lhe provimento nos termos da ementa assim redigida:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. PUBLICAÇÃO DE MATÉRIA JORNALÍSTICA EM BLOG. DANOS MORAIS E MATERIAIS. NÃO OCORRÊNCIA. 1. CONCLUSÃO DE QUE O RECORRENTE É PESSOA PÚBLICA. ALTERAÇÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 2. RÉU QUE SE LIMITOU A TECER CRÍTICAS A RESPEITO DO AUTOR, CONSIDERANDO O CONTEXTO QUE SE INSERIA. EXERCÍCIO REGULAR DA LIBERDADE DE EXPRESSÃO. AFASTADA A PRETENSÃO INDENIZATÓRIA. 3. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Como se vê, em relação à alegação de que o demandante é pessoa pública, foi refutada com supedâneo na Súmula 7/STJ; e, no tocante à questão de fundo (dano moral por suposta ofensa proferida pelo recorrido contra o recorrente) foi apreciado o mérito, ficando exarado que os fatos descritos configuravam exercício regular do direito constitucional à liberdade de expressão, inexistindo, com isso, ato ilícito indenizável.
+Inconformado, o autor, ora recorrente, interpôs agravo interno (e-STJ, fls. 925-929), visando refutar tão somente a Súmula 7/STJ, descurando-se de impugnar devidamente os argumentos expostos na deliberação unipessoal concernente à matéria central do apelo nobre.
+É o que se depreende das seguintes passagens extraídas das razões do agravo (sem grifo no original):
+2. Conquanto prolatada por eminente e culto Magistrado, a r. decisão agravada concluiu - equivocadamente, d.v. - que a pretensão dirigida no presente recurso especial esbarraria no Enunciado nº 7 da Súmula do Superior Tribunal de Justiça, na medida em que sua análise demandaria o reexame das provas dos autos.
+3. Com o devido respeito, merece reforma a r. decisão agravada, eis que, tal como demonstrado nas razões do agravo, a decisão que inadmitiu o recurso especial efetivamente o fez de forma absolutamente genérica, sem atentar para a circunstância de que o recurso especial não suscita discussão de fato nem requer o reexame de prova, limitando-se a discutir a qualificação jurídica de fatos e aplicação do direito à espécie.
+ ..
+Nesse contexto, e tomando emprestada a lição de José Carlos Barbosa Moreira acima citada, o enquadramento dos fatos ao conceito legal envolve qualificação jurídica do fato apurado, e, portanto, matéria jurídica, i.e., questão de direito a ser submetida ao crivo desse e. STJ.
+8. Com efeito, a questão disposta no especial consiste, em suma, no seguinte: pode jornalista, valendo-se do direito à liberdade de imprensa, publicar matéria sabidamente inverídica e ofensiva  Ou seja, o abuso do exercício da livre manifestação do pensamento impõe ao ofensor o dever de reparar
+9. Registre-se que o quadro fático que constitui a causa de pedir mediata dos pedidos autorais é incontroverso. De fato, em nenhum momento o Agravado negou ser o autor das matérias questionadas, tampouco alegou - muito menos provou - que os fatos nelas narrados são verdadeiros.
+10. Fato é que, o próprio v. acórdão impugnado reconhece que (i) o Agravado nutre sentimento de inimizade pelo Agravante; e (ii) usa a expressão "passador de bola apanhado no ato de passar bola" para se referir ao Agravante em suas publicações:
+"Pela análise dos documentos acostados aos autos (indexador 00039 e indexador 00114/00225), o apelado [NOME], além de anunciar que não gosta do apelante [NOME], denomina-o como "passador de bola apanhado no ato de passar bola" e "Gilmar Dantas", com o fim de associar o nome do apelante ao Ministro do Supremo Tribunal Federal Gilmar Mendes." (fls. 758)
+11. Assim, não é preciso, quanto a este ponto, qualquer análise de fatos. Basta ler-se os termos do acórdão, que contém exatamente o que foi dito pelo Agravado em seu blog.
+12. Pela simples leitura do que foi dito pelo Agravado, é difícil, quiçá impossível, denotar um caráter informal ou crítico em afirmações claramente ofensivas e que representam unicamente a opinião do Agravado.
+13. A despeito dessas constatações, o v. aresto não enfrentou o ponto de que, nessas circunstâncias, os abusos e excessos da liberdade de imprensa devem ser remediados mediante reparação civil. Isso porque, a liberdade de imprensa deve vir junto com a responsabilidade da imprensa, de forma que, em contrapartida ao poder-dever de informar, exista a obrigação de divulgar a verdade, preservando-se a honra alheia.
+14. Dessa forma, com o devido respeito, não se está diante de revisão de fatos e provas. A questão já está posta no acórdão, de modo que o que se pretende no Recurso Especial é demonstrar a aplicação das normas jurídicas aos fatos incontroversos descritos no acórdão.
+15. Trata-se apenas da correta aplicação dos arts. 186.187.927 e 953 do Código Civil.
+16. Mostra-se, deste modo, incogitável a aplicação do enunciado da Súmula nº 7 do STJ ao presente recurso, que não pretende reexame de fato ou prova, mas tão somente que este e. STJ avalie se, dado o quadro fático posto (e incontroverso), o acórdão recorrido aplicou corretamente os enunciados legais mencionados.
+Assim, não merecia, de fato, conhecimento a questão a respeito dos danos morais, porquanto não observado, pelo ora embargante, o princípio da dialeticidade, sendo mesmo o caso de aplicação do disposto no art. 1.021, § 1º, do CPC/2015, como asseverado no acórdão embargado.
+Em face disso, constata-se, na verdade, o nítido caráter modificativo dos presentes embargos de declaração, medida inadmissível nesta espécie recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. REEXAME DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE. INOVAÇÃO NOS EMBARGOS DE DECLARAÇÃO. IMPOSSIBILIDADE.
+1. O inconformismo da parte com o resultado do julgamento não caracteriza vício na decisão, tampouco constitui hipótese de cabimento de embargos declaratórios.
+2. É vedado inovar nas razões dos embargos de declaração, ante o princípio da preclusão consumativa.
+3. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 313771/GO, Rel. Min. João Otávio de Noronha, Terceira Turma, julgado em 17/12/2015, DJe 02/02/2016)
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL IMPROVIDO. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos em 28/03/2016, a acórdão prolatado pela Primeira Seção do Superior Tribunal de Justiça, publicado em 15/03/2016, na vigência do CPC/73.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo Regimental, em face da impossibilidade de conhecimento de Embargos de Divergência em que os acórdãos confrontados foram proferidos em juízo de cognição distintos.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material - seja à luz do art. 535 do CPC/73 ou do art. 1.022 do CPC vigente -, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Embargos de Declaração rejeitados. (EDcl no AgRg nos EAREsp 667287/RS, Relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 25/05/2016, DJe 02/06/2016)
+Diante dessas considerações, rejeito os embargos de declaração.
+É como voto.
