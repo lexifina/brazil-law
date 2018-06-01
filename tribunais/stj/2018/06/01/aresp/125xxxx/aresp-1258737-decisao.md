@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+EMENTA. Apelação. Embargos de terceiro. Sentença de improcedência. Inconformismo dos embargantes. Descabimento. Aquisição de imóvel litigioso pelos embargantes. Sentença mantida. Recurso não provido.
+Não foram opostos embargos de declaração.
+Nas razões de recurso especial, alegam os agravantes, em suma, violação ao artigo 167 da Lei 6.015/73.
+Sustentam a validade do negócio de compra e venda de imóvel, que teve sua eficácia afastada pelo Tribunal de origem.
+Defendem que o acórdão local deveria ter observado o disposto na Súmula 375 do STJ, alegando que não havia registro, em cartório, de qualquer pendência acerca do imóvel, quando da celebração do contrato, bem como que adquiriram o imóvel de boa-fé.
+Aduzem que cabia aos agravados a obrigação de registrar qualquer pendência havida acerca do imóvel para que o negócio de compra e venda, anterior ao que realizou, produzisse efeitos contra si, na qualidade de terceiro.
+Não foram apresentadas contrarrazões.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 989 - 990, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Não assiste razão aos agravantes.
+Ao contrário do que aludem, o Tribunal de origem concluiu pela existência da má-fé dos agravantes, na qualidade de terceiros adquirentes, apesar de não haver prévia restrição registrada em cartório.
+Assim, com base na análise dos fatos e provas trazidos aos autos, afastou a pretensão utilizando os seguintes fundamentos (fls. 972 - 973):
+Como bem destacado na sentença: "Os embargantes adquiriram imóvel litigioso: a vendedora alienou bem objeto de anterior contrato de promessa de venda e compra, contrato esse ainda não dado definitivamente como rescindido.
+Os embargantes sujeitam-se à eficácia da sentença proferida na ação principal, devendo ser aguardado o seu trânsito em julgado.
+Antes disso, permanece a decisão que declarou ineficaz perante esta a ação a alienação aos embargantes do imóvel descrito na inicial." Os embargantes adquiriram imóvel que não estava completamente livre e desembaraçado, uma vez que o contrato de promessa de compra e venda com os embargados ainda não tinha sido definitivamente rescindido.
+Desse modo, imperioso que se reconheça que a compra e venda feita com os embargantes é ineficaz perante aqueles que tinham adquirido o imóvel previamente, os embargados, e ainda não viram seu contrato definitivamente rescindindo e os valores despendidos reembolsados.
+Vale ressaltar que na escritura de venda e compra (fls. 29/31), os embargantes assumem o risco da não apresentação da certidão de feitos ajuizados ao dispensá-la (fl. 30 -verso), não podendo alegar que agiam conforme a boa -fé (grifamos).
+Destarte, escorreita a sentença, que, agora, em sede de recurso, fica mantida tal como lançada.
+Entrementes, tendo a Corte estadual, que é soberana na análise dos dos fatos e provas, concluído que houve má-fé em relação aos terceiros adquirentes (ora agravantes), a alteração dessa premissa esbarraria na vedação de análise de reexame do conjunto fático-probatório prevista na Súmula 7/STJ.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. ALIENAÇÃO DE BEM IMÓVEL LITIGIOSO. LIBERAÇÃO DA CONSTRIÇÃO JUDICIAL. TERCEIRO ADQUIRENTE. ILEGITIMIDADE. SÚMULAS 5 E 7 DO STJ. PUBLICIDADE ACERCA DA SITUAÇÃO DO IMÓVEL. CIÊNCIA DO COMPRADOR. REGRA DO ART. 42, § 3º, DO CPC. OPOSIÇÃO DE EMBARGOS. PRECEDENTES. NÃO-PROVIMENTO.
+1. A convicção a que chegou o Acórdão acerca de que o Recorrente, ao comprar o imóvel, tinha pleno conhecimento de que estava adquirindo coisa litigiosa, decorreu da análise do contrato de compra e venda firmado pelas partes e do conjunto fático-probatório, de modo que o acolhimento da pretensão recursal demandaria o reexame dos mencionados suportes, obstando a admissibilidade do especial à luz das Súmulas 5 e 7 desta Corte.
+2. Ao adquirente de qualquer imóvel impõe-se a cautela de obter certidões junto aos cartórios de distribuição, de processos judiciais, devendo, ainda, informar-se acerca da situação pessoal dos alienantes bem como do próprio imóvel, cientificando-se da existência de eventuais demandas e ônus sobre a unidade objeto do contrato, como, aliás, é do agir comum nos negócios imobiliários.
+3. A regra do art. 42, § 3º, do CPC, que estende ao terceiro adquirente os efeitos da coisa julgada, somente deve ser mitigada quando for evidenciado que a conduta daquele tendeu à efetiva apuração da eventual litigiosidade da coisa adquirida. Há uma presunção relativa de ciência do terceiro adquirente acerca da litispendência, cumprindo a ele demonstrar que adotou todos os cuidados que dele se esperavam para a concretização do negócio, notadamente a verificação de que, sobre a coisa, não pendiam ônus judiciais ou extrajudiciais capazes de invalidar a alienação. (RMS 27.358/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 05/10/2010, DJe 25/10/2010).
+4. Não se considera terceiro quem adquire a coisa litigiosa, não podendo, portanto, opor embargos, aplicando-se o disposto no art. 42, par. 3º, do CPC. Precedentes.
+5. Recurso Especial a que se nega provimento (REsp 1227318 / MT Relator: Ministro SIDNEI BENETI, TERCEIRA TURMA, Julgamento, 06/11/2012, DJe 14/11/2012).
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ALIENAÇÃO. BEM IMÓVEL LITIGIOSO. EMBARGOS DE TERCEIRO. BOA-FÉ NÃO COMPROVADA. FRAUDE À EXECUÇÃO. SÚMULA N. 375/STJ. INAPLICABILIDADE. INCIDÊNCIA DA SÚMULA N. 83/STJ. IMÓVEL. VENDA. TERCEIRO ADQUIRENTE. BOA-FÉ. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA.
+(..) III - O recurso especial, interposto pela alínea a e/ou pela alínea c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência dessa Corte, a teor da Súmula n. 83/STJ.
+IV - In casu, rever o entendimento do Tribunal de origem, que consignou pelo afastamento da boa-fé do adquirente que deixou de atentar para as cautelas mínimas na realização do negócio, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+V - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+VI - Agravo Regimental improvido. (AgRg no AREsp 448235 / PR, Relatora: Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, Julgamento, 25/08/2015, DJe 03/09/2015).
+Em relação à aplicação da Súmula 375, cumpre esclarecer que o Superior Tribunal de Justiça, diante das controvérsias resultantes do reconhecimento de fraude à execução sem o preenchimento dos requisitos necessários, bem como para evitar a desconstituição de negócios jurídicos licitamente realizados, editou o verbete em análise o qual dispõe que "o reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente."
+Como destacado na sentença, o caso dos autos, todavia, é de alienação de bem litigioso, e não de fraude à execução (conforme se verifica à fl. 927, e-STJ), não havendo que se falar em aplicação da Súmula em espeque.
+Outrossim a incidência da Súmula, na forma como pretendida pelos agravantes, teria efeito contrário à pretensão veiculada, posto que o Tribunal de origem entendeu por caracterizada a má-fé destes.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
