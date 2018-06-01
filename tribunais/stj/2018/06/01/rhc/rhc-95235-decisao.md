@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão prolatado pelo Tribunal de Justiça do Estado da Paraíba no julgamento do HC n. 0805827-72.2017.815.0000.
+Depreende-se dos autos que o recorrente foi denunciado, em 11/10/2013, pela suposta prática dos delitos de estelionato e de falsidade ideológica, tipificados nos arts. 171 e 299, ambos do Código Penal.
+Narra a inicial acusatória que [NOME] teria falsificado registro de nascimento para obter carteira de identidade, a qual foi usada para lesar a GVT, com a contratação de seus serviços, bem como Manoel da Cruz, na compra de um Toyota Corolla, e, por fim, [NOME] na compra de um relógio.
+Consta dos autos que o ora recorrente foi condenado no primeiro grau de jurisdição e que a condenação foi mantida em grau de apelação (e-STJ fl. 60).
+Impetrado prévio writ na origem, no qual se buscava o trancamento da ação penal por atipicidade da conduta e por não haver lastro probatório a estear a acusação, a ordem não foi conhecida, conforme evidencia a seguinte ementa (e-STJ fl. 64):
+HABEAS CORPUS. ESTELIONATO. FALSIDADE IDEOLÓGICA. SENTENÇA CONDENATÓRIA. CONFIRMADA EM SEDE RECURSAL. TRANCAMENTO DA AÇÃO. IMPOSSIBILIDADE. CURSO PROCESSUAL ENCERRADO. NÃO CONHECIMENTO.
+Não há que se falar em trancamento da ação penal, quando o curso processual já encerrou, onde houve instrução probatória e comprovação da autoria e materialidade delitiva.
+Daí o presente recurso ordinário (e-STJ fls. 69/74), no qual a defesa reitera os argumentos lançados na impetração anterior objetivando o trancamento da ação penal. Sustenta não ter havido crime com relação à compra do veículo e que não se pode condenar apenas com base em confissão.
+Requer, liminarmente e no mérito, a reforma do acórdão recorrido a fim de ser determinado o trancamento da ação penal.
+O pedido liminar foi indeferido (e-STJ fls. 105/107).
+Informações prestadas às e-STJ fls. 112/115.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fl. 118/121).
+É, em síntese, o relatório.
+A leitura do acórdão impugnado evidencia que a matéria veiculada no presente recurso - trancamento da ação penal - não foi tratada pelo Tribunal de origem, que concluiu pela impossibilidade de seu exame, valendo-se dos seguintes fundamentos, in verbis (e-STJ fls. 59/60):
+Para fins de trancamento da ação penal, cumpre salientar que o pedido formulado é medida excepcional, somente admitida quando a mera exposição dos fatos evidencia a ilegalidade, imputando ao paciente fato atípico, ou, ainda, quando ausente qualquer fundamento para embasar a acusação (ausência de materialidade ou de indícios de autoria), desde que não seja necessário um exame aprofundado dos elementos probatórios) caso em que não seria analisada pela via estreita do writ.
+In casu, consoante se extrai das informações da autoridade dita coatora (Id. 1796958) o Paciente já fora sentenciado em primeiro grau, trazendo, portanto, a certeza da materialidade e da autoria delitiva. E, ainda informa que essa sentença primeva fora alvo de recurso apelatório.
+Ademais, cumpre ressaltar que, em consulta realizada ao Sistema de Banco de Dados deste tribunal, constatei que já fora julgado tal recurso de apelação pela Egrégia Câmara Criminal, sendo dado provimento parcial ao apelo. Ainda, que os autos do processo foram remetidos ao Superior Tribunal de Justiça para análise recursal.
+Assim, com o término do curso processual, uma vez que já houve toda a instrução probatória e análise da autoria e materialidade, com o advento da sentença de primeiro grau e confirmação em sede recursal, não há mais que se falar em trancamento de ação penal.
+No mais, ainda que houvesse a possibilidade de sobrestamento, vê-se que houve equívoco no apontamento da autoridade coatora, haja vista que o processo não mais tramita no primeiro grau, sendo, portanto, cabível, enquanto Impetrado, a Câmara Criminal do Tribunal de Justiça, onde seria este writ analisado no Superior Tribunal de Justiça.
+Forte em tais razões e com base no art. 252 do RITJPB, NÃO CONHEÇO a presente ordem.
+Portanto, é inviável o conhecimento do pedido, pois não apreciada a matéria pelo Tribunal de origem, circunstância que impede que esta Corte ingresse na apreciação do tema. Do contrário, haveria indevida supressão de instância, situação repudiada pela jurisprudência desta Corte.
+Nesse sentido:
+PROCESSUAL PENAL. INCOMPETÊNCIA DO JUÍZO DE PRIMEIRO GRAU E NULIDADE POR INDICAÇÃO TIDA POR CASUÍSTICA DA MAGISTRADA À FRENTE DO PROCESSO. MATÉRIAS NÃO DECIDIDAS PELO TRIBUNAL DE ORIGEM. NÃO CONHECIMENTO SOB PENA DE SUPRESSÃO DE INSTÂNCIA. CRIMES DE QUADRILHA E CORRUPÇÃO PASSIVA. DEMONSTRAÇÃO DE INDÍCIOS DE AUTORIA E DA MATERIALIDADE. INÉPCIA. NÃO OCORRÊNCIA. AÇÃO PENAL. FALTA DE JUSTA CAUSA. AUSÊNCIA DE MÍNIMO SUPORTE PROBATÓRIO NÃO DEMONSTRADA DE PLANO. TRANCAMENTO. REVOLVIMENTO FÁTICO. IMPOSSIBILIDADE NA VIA ELEITA.
+1. Não se conhece da impetração na parte que a defesa suscita matérias que não foram decididas pelo Tribunal de origem, sob pena de supressão de instância e censura direta e indevida ao próprio juízo de primeiro grau.
+(..)
+4. Impetração conhecida em parte e, nesta extensão, denegada a ordem.
+(HC 393.970/PB, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 1º/6/2017, DJe 9/6/2017)
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. ART. 15 E 16 DA LEI N. 10.826/2003. ART. 2º, § 2º, DA LEI N. 12.850/2013. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. INÉPCIA DA PEÇA ACUSATÓRIA. TRANCAMENTO DA AÇÃO PENAL. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. PARECER ACOLHIDO.  ..  3. A questão da inépcia da peça acusatória, assim como do trancamento da ação penal, não foi objeto de apreciação pela Corte estadual quando do julgamento do writ originário. Assim, a análise pelo Superior Tribunal de Justiça implicaria indevida supressão de instância.
+4. Ordem denegada.
+(HC 379.867/PI, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 1º/06/2017, DJe 13/6/2017)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. CRIME DE TORTURA. NULIDADE DECORRENTE DO FATO DE O ADVOGADO DO PACIENTE, AO FINAL DA AÇÃO PENAL, TER PASSADO À CONDIÇÃO DE ASSISTENTE DA ACUSAÇÃO. SUPRESSÃO DE INSTÂNCIA. REGIME PRISIONAL FECHADO. PREVISÃO LEGAL DECLARADA INCONSTITUCIONAL PELO STF. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..  2. As alegações de nulidade decorrente do fato de o advogado do paciente, ao final da ação penal, ter passado à condição de assistente da acusação não foi enfrentada no acórdão combatido, o que impede a análise da matéria pelo Superior Tribunal de Justiça, sob pena de supressão de instância. Precedentes.  ..
+(HC 272.125/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 3/5/2016, DJe 12/5/2016.)
+No mesmo sentido, o posicionamento do Supremo Tribunal Federal:
+Agravo regimental em recurso ordinário em habeas corpus. 2. Delito de vias de fato e violação de domicílio (art. 21, caput, do Decreto-Lei n. 3.688/41 e art. 150, § 1º, do Código Penal) 3. Inépcia da denúncia. Trancamento da ação penal por ausência de justa causa. Matéria não examinada nas instâncias anteriores. Supressão de instância. A extinção da ação penal de forma prematura somente é possível em situação de manifesta ilegalidade. Precedentes. 4. Agravo regimental a que se nega provimento.
+(RHC 133.585 AgR, Rel. Ministro GILMAR MENDES, Segunda Turma, julgado em 21/06/2016, DJe 1º/08/2016.)
+De mais a mais, ainda que assim não fosse, verifica-se, por meio de informações extraídas do sítio eletrônico desta Corte, que não foi conhecido o agravo em recurso especial e nem foi conhecido o agravo regimental, interpostos pela defesa do recorrente (AREsp n. 1.027.755/PB ). Em 22 de agosto de 2017 foi certificado o trânsito em julgado.
+Tal o contexto, não conheço do presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
