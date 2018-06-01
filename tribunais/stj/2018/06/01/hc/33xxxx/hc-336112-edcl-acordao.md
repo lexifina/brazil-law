@@ -1,0 +1,52 @@
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. ALEGADA OMISSÃO E CONTRADIÇÃO NO JULGADO. NÃO OCORRÊNCIA. MERO INCONFORMISMO DA PARTE. ERRO MATERIAL. RECONHECIMENTO. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. Hipótese em que, ao contrário do afirmado pelo embargante, a matéria foi objeto de exame pelo TJSC que afastou a preliminar suscitada pelo Procurador de Justiça atuante naquela Corte, que acertadamente, como fiscal da lei, arguiu a nulidade formal da sentença, razão pela qual não há falar em preclusão da matéria.
+3. Erro material no julgado o qual dever ser prontamente corrigido, para que conste que a referida nulidade foi promovida pela Procuradoria-Geral da República.
+4. Embargos de declaração parcialmente acolhidos apenas para corrigir erro material.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, acolher parcialmente os embargos, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Felix Fischer e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Joel Ilan Paciornik e Jorge Mussi.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA de julgado da Quinta Turma que rejeitou os primeiros embargos opostos contra acórdão que não conheceu do habeas corpus, mas, concedeu a ordem, de ofício, para anular o julgamento da apelação, em decisão assim ementada:
+"PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. SENTENÇA PENAL CONDENATÓRIA POR MEIO AUDIOVISUAL. TRANSCRIÇÃO PARCIAL DO SEU CONTEÚDO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. OCORRÊNCIA. VIOLAÇÃO DO ART. 97 DA CF E DA SÚMULA VINCULANTE 10/STF. INOCORRÊNCIA. EXAME INFRACONSTITUCIONAL. NULIDADE. PREJUÍZO DEMONSTRADO. PRECLUSÃO TEMPORAL E ALTERAÇÃO DO MARCO INTERRUPTIVO PARA A CONTAGEM DO PRAZO PRESCRICIONAL. NÃO OCORRÊNCIA. MERO INCONFORMISMO DA PARTE. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. A afetação ao órgão especial (reserva de plenário; full bench) somente é obrigatória quando o órgão fracionário pretende declarar a inconstitucionalidade (art. 949, I, e parágrafo único do CPC, e Súmula Vinculante 10, a contrario sensu), o que não se verifica na espécie.
+3. A interpretação extensiva da norma infraconstitucional efetuada pelos órgãos fracionários que compõem o Superior Tribunal de Justiça não se confunde com a declaração de inconstitucionalidade, que requer rito próprio, nos termos do art. 97 da Constituição Federal.
+4. No caso em exame, não se verifica a inobservância à Súmula Vinculante n. 10 da Suprema Corte, uma vez que não houve a declaração de inconstitucionalidade dos 241-A, § 4º, e 241-C, V, ambos do Código de Normas da Corregedoria Geral de Justiça do Estado de Santa Catarina.
+5. O acórdão embargado afirmou que, "Nas alterações promovidas pela Lei n. 11.719/2008, não se estabeleceu a possibilidade de se dispensar a transcrição de sentença penal registrada por meio audiovisual (ex vi, do título XII do CPP). Ao contrário, manteve-se o art. 388 do CPP, que prevê a possibilidade da sentença "ser datilografada", admitindo-se, na atualidade, a utilização de outros meios tecnológicos similares, como por exemplo o computador, para o seu registro escrito". Patente, portanto, que a análise do tema foi realizada no espectro infraconstitucional, não se mostrando necessária a observância da cláusula de reserva de plenário, nos termos do que dispõe o art. 97 da Constituição Federal.
+6. Hipótese em que o acórdão embargado afirmou que "a ausência de registro escrito dos termos da sentença penal condenatória dificulta o exercício do contraditório e da ampla defesa - princípios consagrados no art. 5º, incisos LIV e LV, da Constituição Federal -, ainda que, nos autos, conste o registro de parte da sentença penal prolatada por meio audiovisual". Assim, o prejuízo à ampla defesa restou configurado pois, "existindo apenas transcrição parcial do seu conteúdo, consistente nos fundamentos da dosimetria e no dispositivo da sentença, não havendo menção das razões do convencimento do magistrado acerca da autoria e da materialidade do crime, nem da sua convicção pela livre apreciação da prova produzida, em afronta do preceito inscrito no art. 155 do CPP."
+7. Não há falar em preclusão temporal, uma vez que a defesa técnica arguiu a nulidade da sentença no momento processual oportuno, qual seja, no recurso de apelação.
+8. Conforme consignado no acórdão embargado, a ordem foi concedida para, "anulando o acórdão da apelação, determinar que o Juízo da 4ª Vara Criminal da Comarca de Joinville/SC promova a transcrição integral da sentença condenatória por ele prolatada oralmente em 21/11/2014". Assim, não tendo sido anulada a sentença, permanece hígido o seu conteúdo material, não havendo, portanto, alteração do marco interruptivo para a contagem do prazo prescricional.
+9. Embargos de declaração rejeitados." (e-STJ, fls. 453-454).
+O embargante insiste na existência de vícios no julgado, alegando, em síntese, que "o acórdão embargado foi, a um só tempo, omisso e contraditório, uma vez que concluiu, justamente por ter utilizado premissa fática equivocada - de que suposta nulidade da sentença fora arguida pela defesa no recurso de apelação -, que não teria se operado a preclusão da matéria."
+Requer, assim, o acolhimento dos embargos de declaração, "para que se reconheça a omissão e a contradição apontadas e, conferindo caráter infringente aos aclaratórios, reconhecer que a pretensa nulidade restou alcançada pela preclusão, declarando-se a validade da sentença registrada em meio audiovisual e, por consequência, todos os demais atos processuais" (e-STJ, fls. 467-473).
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. ALEGADA OMISSÃO E CONTRADIÇÃO NO JULGADO. NÃO OCORRÊNCIA. MERO INCONFORMISMO DA PARTE. ERRO MATERIAL. RECONHECIMENTO. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. Hipótese em que, ao contrário do afirmado pelo embargante, a matéria foi objeto de exame pelo TJSC que afastou a preliminar suscitada pelo Procurador de Justiça atuante naquela Corte, que acertadamente, como fiscal da lei, arguiu a nulidade formal da sentença, razão pela qual não há falar em preclusão da matéria.
+3. Erro material no julgado o qual dever ser prontamente corrigido, para que conste que a referida nulidade foi promovida pela Procuradoria-Geral da República.
+4. Embargos de declaração parcialmente acolhidos apenas para corrigir erro material.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Razão em parte assiste ao embargante.
+A teor do art. 619 do Código Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte (EDcl no AgRg no AREsp 1.023.903/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1/8/2017).
+Para melhor análise, transcrevo os seguintes excertos do voto condutor da apelação acerca do tema:
+"Anteriormente à análise dos recursos, cumpre considerar a tese suscitada pela Procuradoria-Geral de Justiça, no sentido de que há nulidade da sentença proferida em meio audiovisual, por ofensa aos direitos fundamentais à liberdade, ao devido processo legal e à ampla defesa insertos na Constituição Federal de 1988.
+Todavia, embora a norma processual penal não faça referência à possibilidade de o Juízo a quo proferir sentença através de gravação audiovisual, o art. 241-A, § 4o, do Código de Normas da Corregedoria-Geral de Justiça do Estado de Santa Catarina (CNCGJ/SC). autoriza o registro da sentença por meio de áudio, observadas as regras do art. 241 -C do referido Estatuto.
+ ..
+No caso, observa-se que a sentença atendeu a todos os requisitos exigidos pela Corregedoria-Geral de Justiça do Estado de Santa Catarina. O Juízo a quo transcreveu os fundamentos da dosimetria e o dispositivo da sentença.
+Ademais, os apelantes, defensores, o representante do Ministério Público e as vítimas estavam presentes na solenidade (fls. 180-181) e tiveram conhecimento integral do ato, de modo que nâo há como reconhecer violação aos preceitos constitucionais da liberdade, devido processo legal e ampla defesa, inclusive porque a audiência foi realizada nos moldes dos arts. 400 a 403, ambos do Código de Processo Penal.
+ ..
+Não bastasse, vale a pena mencionar que, se fosse admitida a alegada irregularidade, tratar-se-ia de nulidade relativa e, por conta disso, o prejuízo deveria ser demonstrado, em observância ao princípio pas de nulhté sans griel, consagrado no art. 563 do CPP, o qual reza:
+Art. 563. Nenhum ato será declarado nulo, se da nulidade nâo resultar
+prejuízo para a acusação ou para a defesa.
+Por essas razões, rejeita-se a preliminar." (e-STJ, fls. 279-282).
+Como se vê, ao contrário do afirmado pelo embargante, a matéria foi objeto de exame pelo TJSC que afastou a preliminar suscitada pelo Procurador de Justiça atuante naquela Corte, que acertadamente, como fiscal da lei, arguiu a nulidade formal da sentença, razão pela qual não há falar em preclusão da matéria.
+Assim, verifica-se a ocorrência de erro material no julgado, o qual dever ser prontamente corrigido, para que conste que a referida nulidade foi promovida pela Procuradoria-Geral da República.
+Ante o exposto, acolho em parte os embargos de declaração apenas para correção do erro material supra mencionado.
+É como voto.
