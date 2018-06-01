@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSC assim ementado (e-STJ fls. 221/222):
+APELAÇÃO CÍVEL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. PRETENSÃO DE COMPLEMENTAÇÃO DA SUBSCRIÇÃO DE AÇÕES E, ALTERNATIVAMENTE, DE INDENIZAÇÃO CORRESPONDENTE. SENTENÇA QUE ACOLHEU O PRIMEIRO PLEITO, REGISTRANDO A POSSIBILIDADE DE CONVERSÃO EM PERDAS E DANOS. IRRESIGNAÇÃO DA RÉ.
+PRELIMINAR DE ILEGITIMIDADE PASSIVA AD CAUSAM TANTO EM RELAÇÃO ÀS AÇÕES DA TELEFONIA FIXA QUANTO NO QUE PERTINE ÀS AÇÕES DA TELEFONIA MÓVEL AFASTADA. PRECEDENTES DESTE AREÓPAGO. RESPONSABILIDADE DA UNIÃO EM RAZÃO DE TER FIGURADO COMO ACIONISTA CONTROLADORA NA ÉPOCA DA CELEBRAÇÃO DO PACTO. INOCORRÊNCIA. SUCESSORA DA EMPRESA ESTATAL PRESTADORA DE SERVIÇOS DE TELECOMUNICAÇÕES QUE DETÉM LEGITIMIDADE PARA RESPONDER TANTO PELA COMPLEMENTAÇÃO DAS AÇÕES NÃO SUBSCRITAS À CONSUMIDORA, QUANTO POR EVENTUAL INDENIZAÇÃO DECORRENTE DA IMPOSSIBILIDADE DE CUMPRIMENTO DESTA OBRIGAÇÃO.
+PRESCRIÇÃO. MATÉRIA EM DEBATE QUE SE SUBMETE À DISCIPLINA DO ART. 177 DO CÓDIGO CIVIL DE 1916 E ARTS. 206, § 3º, INCISO V, E 2.028 DO CÓDIGO CIVIL DE 2002. LAPSO TEMPORAL EXTINTIVO QUE NÃO SE COMPLETOU.
+PERDA DA PRETENSÃO DE RECEBER OS DIVIDENDOS. INOCORRÊNCIA. SURGIMENTO DO DIREITO APENAS EMPÓS O RECONHECIMENTO DO DIREITO ÀS AÇÕES COMPLEMENTARES.
+CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA. RELAÇÃO DE CONSUMO CARACTERIZADA. EXEGESE DOS ARTS. 2º E 3º DA LEI 8.078/90. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. HIPOSSUFICIÊNCIA CONSTATADA. ADEMAIS, APRESENTAM ONEROSIDADE EXCESSIVA À CONSUMIDORA.
+MÉRITO. RECONHECIMENTO DA NECESSIDADE DA COMPLEMENTAÇÃO DE VALORES MOBILIÁRIOS. MATÉRIA DE FUNDO ALBERGADA.
+" ..  na complementação de ações em contrato de participação financeira firmado entre a Brasil Telecom S/A e o adquirente de linha telefônica, este tem direito a receber a quantidade de ações correspondente ao valor patrimonial na data da integralização" (Min. Aldir Passarinho Junior).
+MONTANTE INDENITÁRIO. VALOR DA AÇÃO CONFORME A MAIOR COTAÇÃO DO PERÍODO COMPREENDIDO ENTRE A INTEGRALIZAÇÃO E O TRÂNSITO EM JULGADO. CRITÉRIO CORRETO. SENTENÇA MANTIDA.
+HONORÁRIOS ADVOCATÍCIOS. PLEITO DE ALTERAÇÃO. MANUTENÇÃO EM 15% (QUINZE POR CENTO) SOBRE O VALOR DA CONDENAÇÃO. INTELIGÊNCIA DO ART. 20, § 3º, DO CPC.
+" ..  em ações de perfazimento obrigacional resultante da subscrição deficitária de ações de empresa de telefonia, os honorários advocatícios não devem ser fixados em valor determinado, mas em percentual, adotado o de 15%, tendo como base de imposição o valor patrimonial das ações a serem complementadas ou, no caso de conversão da obrigação em indenização por perdas e danos, sobre a quantia que, a tal título, vier a ser encontrada na etapa de liquidação" (Des. Trindade dos Santos).
+PLEITO DE INVERSÃO DOS ÔNUS SUCUMBENCIAIS CALCADO NA REFORMA DA SENTENÇA. MANUTENÇÃO IN TOTUM DO DECISUM QUE REDUNDA NO SEU INACOLHIMENTO.
+REBELDIA IMPROVIDA.
+Nas razões recursais (e-STJ fls. 242/271), fundamentadas no art. 105, III, "a" e "c", da CF, a recorrente alega violação dos seguintes dispositivos legais: (a) art. 3º do CPC/1973, por ilegitimidade passiva da companhia, (b) arts. 205, 206, § 3º, IV e V, do CC/2002 e 1º-C da Lei n. 9.494/1997, no que diz respeito ao prazo prescricional da complementação de ações da telefonia móvel, (c) art. 2º do CDC, diante da aplicabilidade da legislação consumerista ao caso concreto e (d) art. 20, § 3º, do CPC/1973, em decorrência da fixação de honorários advocatícios em valores excessivos.
+Sustenta, ainda, dissídio jurisprudencial quanto ao critério de cálculo da verba indenizatória decorrente da conversão da obrigação em perdas e danos, requerendo que seja aplicada a cotação da data do trânsito em julgado da Bolsa de Valores.
+Não foram apresentadas contrarrazões (e-STJ fl. 286).
+Juízo de admissibilidade positivo (e-STJ fls. 308/309).
+É o relatório.
+Decido.
+O recurso merece parcial provimento.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, por isso devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas até então pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Art. 3º do CPC/1973 - legitimidade passiva
+A Segunda Seção do STJ, no julgamento de recurso especial processado nos moldes do art. 543-C do CPC/1973, decidiu que a empresa Brasil Telecom S.A. possui legitimidade passiva para responder pelos atos praticados pela Telesc quanto a credores cujo título não tiver sido constituído até o ato de incorporação, independentemente de se referir a obrigações anteriores, ante a sucessão empresarial (REsp n. 1.322.624/SC, Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 12/6/2013, DJe 25/6/2013):
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. BRASIL TELECOM. INCORPORAÇÃO DA TELESC. EXTINÇÃO DA PERSONALIDADE JURÍDICA DA INCORPORADA. DIREITOS E OBRIGAÇÕES TRANSMITIDOS À INCORPORADORA. BRASIL TELECOM TORNOU-SE SUBSTITUTA, POR INCORPORAÇÃO, DA TELESC. LEGITIMIDADE PASSIVA RECONHECIDA. CONSOLIDAÇÃO DA JURISPRUDÊNCIA SOBRE A COMPLEMENTAÇÃO DE AÇÕES DECORRENTE DE CONTRATO DE PARTICIPAÇÃO FINANCEIRA.
+1. Para fins do art. 543-C do CPC:
+1.1. A sucessão, por incorporação, de empresas, determina a extinção da personalidade jurídica da incorporada, com a transmissão de seus direitos e obrigações à incorporadora.
+1.2. Legitimidade passiva da Brasil Telecom S/A para responder pelos atos praticados pela Telesc, quanto a credores cujo título não tiver sido constituído até o ato de incorporação, independentemente de se referir a obrigações anteriores, ante a sucessão empresarial.
+2. Situação análoga à apreciada pela Segunda Seção desta Corte no julgamento de recurso repetitivo atinente à sucessão da Companhia Riograndense de Telecomunicações (CRT) pela Brasil Telecom (REsp. 1.034.255/RS, Rel. Ministro Luis Felipe Salomão, 2ª Seção, j. 28/04/2010, DJe 11/05/2010).
+3. RECURSO ESPECIAL DESPROVIDO.
+Prescrição
+Conforme a jurisprudência desta Corte, a pretensão é de natureza pessoal e prescreve de acordo com os prazos previstos no ordenamento jurídico: art. 177 do CC/1916 - 20 (vinte) anos -, art. 205 do CC/2002 - 10 (dez) anos - e art. 2.028 do CC/2002, que trata da regra de transição entre os referidos Códigos.
+Além disso, o termo a quo para contagem do prazo prescricional a fim de pleitear a emissão de ações da telefonia móvel é a data da cisão, no caso, ocorrida em 1998, e, consequentemente, deve ser aplicado o prazo decenal, nos termos dos artigos 205 e 2.028 do Código Civil 2002 (cf. EDcl no AREsp n. 749.455/RS, Relator Ministro MARCO BUZZI, DJe de 2/12/2016).
+No caso, o acórdão recorrido encontra-se em consonância com o entendimento desta Corte quanto ao prazo prescricional (e-STJ fls. 229/231), motivo pelo qual não há falar em ofensa a lei federal.
+Art. 2º do CDC
+No concernente à legislação consumerista, mostra-se adequada a aplicação do Código de Defesa do Consumidor no contrato em análise, visto que, acobertada pela relação societária, há clara relação de consumo na espécie, conforme se extrai do seguinte precedente:
+RECURSO ESPECIAL. AÇÃO COLETIVA CONSUMERISTA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. PRETENSÃO À RETRIBUIÇÃO ACIONÁRIA. RELAÇÃO DE CONSUMO CONFIGURADA. DEMANDA JURIDICAMENTE POSSÍVEL. APLICAÇÃO DO CDC.
+- Acionistas minoritários da Brasil Telecom, adquirentes em condomínio de assinaturas telefônicas, buscam a devida retribuição em ações da Companhia, além da indenização do valor equivalente às ações sonegadas, acrescido de danos emergentes e lucros cessantes.
+- Esta Corte entende que o Código de Defesa do Consumidor incide na relação jurídica posta a exame, porquanto, não basta que o consumidor esteja rotulado de sócio e formalmente anexado a uma Sociedade Anônima para que seja afastado o vínculo de consumo.
+- Além da presença de interesse coletivo existe, na hipótese, a prestação de serviços consistente na administração de recursos de terceiros, a evidenciar a relação de consumo encoberta pela relação societária.
+Recurso Especial conhecido e provido.
+(REsp n. 600.784/RS, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/6/2005, DJ 1º/7/2005, p. 518.)
+Critério para se fixar indenização em decorrência da impossibilidade de subscrição de ações
+Razão assiste à recorrente quanto a este tópico.
+No julgamento do Recurso Especial n. 1.301.989/RS (Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 12/3/2014, DJe 19/3/2014), submetido à sistemática dos recursos repetitivos (art. 543-C do CPC/1973), esta Corte Superior firmou entendimento de que, na impossibilidade de subscrição de ações, o critério de conversão em perdas e danos deve ser a cotação das ações em bolsa de valores na data do trânsito em julgado da demanda, em acórdão assim ementado:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. CIVIL E PROCESSUAL CIVIL. BRASIL TELECOM S/A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CESSÃO DE DIREITOS. LEGITIMIDADE ATIVA DO CESSIONÁRIO. COMPLEMENTAÇÃO DE AÇÕES. CONVERSÃO DA OBRIGAÇÃO EM PERDAS E DANOS. CRITÉRIOS. COISA JULGADA. RESSALVA.
+1. Para fins do art. 543-C do CPC: 1.1. O cessionário de contrato de participação financeira tem legitimidade para ajuizar ação de complementação de ações somente na hipótese em que o instrumento de cessão lhe conferir, expressa ou tacitamente, o direito à subscrição de ações, conforme apurado nas instâncias ordinárias.
+1.2. Converte-se a obrigação de subscrever ações em perdas e danos multiplicando-se o número de ações devidas pela cotação destas no fechamento do pregão da Bolsa de Valores no dia do trânsito em julgado da ação de complementação de ações, com juros de mora desde a citação.
+1.3. Os dividendos são devidos durante todo o período em que o consumidor integrou ou deveria ter integrado os quadros societários.
+1.3.1. Sobre o valor dos dividendos não pagos, incide correção monetária desde a data de vencimento da obrigação, nos termos do art. 205, § 3º, Lei 6.404/76, e juros de mora desde a citação.
+1.3.2. No caso das ações convertidas em perdas e danos, é devido o pagamento de dividendos desde a data em que as ações deveriam ter sido subscritas, até a data do trânsito em julgado do processo de conhecimento, incidindo juros de mora e correção monetária segundo os critérios do item anterior.
+1.4. Ressalva da manutenção de critérios diversos nas hipóteses de coisa julgada.
+(..)
+3. RECURSO ESPECIAL DE BRASIL TELECOM S/A NÃO CONHECIDO E RECURSO ESPECIAL DE SÉRGIO MARQUES ASSESSORIA IMOBILIÁRIA LTDA PARCIALMENTE CONHECIDO E, NESSA PARTE, PARCIALMENTE PROVIDO.
+Honorários de sucumbência
+O reexame dos critérios fáticos sopesados de forma equitativa para a fixação dos honorários advocatícios (art. 20, §§ 3º e 4º, do CPC/1973) revela-se, em princípio, inviável em recurso especial, em virtude do óbice erigido pela Súmula n. 7/STJ. Precedentes do STJ: AgRg no REsp n. 1.260.999/CE, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 13/9/2011, DJe 21/9/2011, e AgRg no Ag n. 1.266.152/SC, Relator Ministro VASCO DELLA GIUSTINA, Desembargador convocado do TJRS, TERCEIRA TURMA, julgado em 3/8/2010, DJe 16/8/2010.
+Apenas em hipóteses excepcionais, quando manifestamente irrisório ou exorbitante o valor da verba honorária, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar sua revisão, o que não ocorreu, todavia, na hipótese em análise, na qual os honorários foram fixados em 15% (quinze por cento) sobre o valor da condenação, com base no art. 20, § 3º, do CPC/1973.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial, para determinar que o critério de cálculo da verba indenizatória, decorrente da conversão da obrigação em perdas e danos, seja a cotação da Bolsa de Valores da data do trânsito em julgado da demanda.
+Publique-se e intimem-se.
