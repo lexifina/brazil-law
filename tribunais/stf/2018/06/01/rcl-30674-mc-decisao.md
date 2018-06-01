@@ -1,0 +1,23 @@
+Decisão: 1. Trata-se de reclamação ajuizada em 29.5.2018 contra ato do Juiz Eleitoral da 98ª Zona Eleitoral do Tribunal Regional Eleitoral do Rio de Janeiro.
+    Os autos foram a mim distribuídos por determinação da Presidência desta Suprema Corte.
+    Narra o reclamante, em síntese, que:
+    a) a investigação foi instaurada em primeiro grau em decorrência de notícias veiculadas pela imprensa e associadas a acordo de colaboração celebrado no bojo da Pet. 7.003/DF, bem como que o feito “encontra-se maculado por uma série de ilegalidades”;
+    b) a deflagração da apuração verificou-se antes da deliberação deste Relator quanto à competência para supervisão de eventual investigação decorrente do aludido meio de obtenção de prova, o que, na visão da defesa, configuraria violação à competência do Supremo Tribunal Federal;
+    c) o Juízo reclamado ignorou a autoridade de decisão homologatória proferida nesta Corte, “pois homologou a concessão à André Luiz Rodrigues da Silva de benefício ao qual ele nunca faria jus, em virtude da precedência da colaboração de Saud a respeito dos mesmos fatos”.
+    Requer, liminarmente, a suspensão do curso processual, visto que “se avizinha seu deslinde, com a realização de interrogatórios no próximo dia 4 de junho”. No mérito, postula “o reconhecimento da incompetência absoluta do Juízo da 98ª Zona Eleitoral do Estado do Rio de Janeiro, anulando-se, por conseguinte, tudo quanto processado desde o ato reclamado, em especial a própria decisão que o consubstancia, uma vez que homologa a concessão de benefício legal à revelia do quanto deliberado em acordo de colaboração premiada homologado por este Supremo Tribunal Federal.”
+    É o relatório. Decido.
+    2. De início, observo que a reclamação tem como destinação constitucional a tutela da autoridade das decisões proferidas pela Suprema Corte, bem como a observância de sua competência (art. 102, “i”). Não se revela viável, nessa perspectiva, o exame, nesta sede, das alegadas diversas ilegalidades que acometeriam a ação penal de origem, limitando-se a apreciação deste STF, como dito, aos lindes constitucionais de preservação de competência e autoridade da Corte.
+    Incognoscível, da mesma forma, ao menos diretamente, o pleito de anulação da decisão que homologou a alegada concessão ilegal de sanção premial a colaboradores, visto que se trata de negocial jurídico processual de caráter personalíssimo que não comporta impugnação de terceiros, conforme compreensão assentada pelo Tribunal Pleno:
+    “Por se tratar de negócio jurídico personalíssimo, o acordo de colaboração premiada não pode ser impugnado por coautores ou partícipes do colaborador na organização criminosa e nas infrações penais por ela praticadas, ainda que venham a ser expressamente nominados no respectivo instrumento no ‘relato da colaboração e seus possíveis resultados’ (art. 6º, I, da Lei nº 12.850/13).” (HC 127483, Relator(a): Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 27/08/2015)
+    Quanto ao aludido tema, remanesce, contudo, a possibilidade de exame, a tempo e modo, da questão associada à articulada violação à competência desta Suprema Corte no que toca ao juízo homologatório, o que poderá, em tese, eventualmente repercutir na validade do ato negocial.
+    3. Em relação à tutela de urgência, cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante no ato reclamado a justificar a concessão da liminar, tampouco urgência apta a exigir imediato pronunciamento desta Suprema Corte.
+    Acrescento que a requisição ministerial de instauração de inquérito é datada de 14.6.2017, com efetiva instauração em 20.6.2017 e denúncia oferecida em 16.11.2017.
+    Sendo assim, sem prejuízo de ulterior reapreciação da matéria no julgamento final da presente reclamação, indefiro a liminar.
+    Colham-se as informações da autoridade reclamada, com urgência e pelo meio mais expedito, utilizando-se de fax, e-mail ou malote digital, se necessário.
+    Após, dê-se imediata vista à PGR.
+    Publique-se.
+    Brasília, 1 de junho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
