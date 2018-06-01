@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 211 do STJ e 282 do STF (e-STJ fls. 366/368).
+O acórdão recorrido está assim ementado (e-STJ fls. 296/297):
+DIREITO PROCESSUAL CIVIL. CONTRATO DE COMPRA E VENDA. DUPLO APELO. ALEGAÇÃO DE QUE TODOS OS PLEITOS FORAM RECONHECIDOS. NÃO VERIFICADO. DESCUMPRIMENTO DE OBRIGAÇÃO CONTRATUAL. NÃO OCORRÊNCIA. OBRIGAÇÕES RECÍPROCAS. CUMPRIMENTO UNILATERAL OBSERVADO. HONORÁRIOS FIXADOS COM BASE NO CPC/1973. SENTENÇA PROFERIDA SOB A ÉGIDE DO NOVO CPC. FIXAÇÃO DEVE OBSERVAR A NOVA LEI PROCESSUAL.
+1 - Para que um pedido posto à apreciação do Poder Judiciário seja considerado deferido, se faz necessário que, de fato, tenha havido manifestação judicial expressa nesse sentido, o que não ocorreu nestes autos. Assim, não há como prosperar a tese quanto a se considerar totalmente procedente a ação, eis que um dos pedidos foi negado.
+2 - A alegação de que a apelada não cumpriu com suas obrigações, não pode prevalecer, porquanto a obrigação que possuía, por força de contrato, era a de quitar o preço das unidades, o que foi realizado, já que demonstrado o pagamento nos autos.
+3 - Como a sentença combatida foi proferida em agosto de 2016, a regra sobre os honorários deve respeitar a atual
+legislação processual civil.
+4 - Ambos os recursos conhecidos. DadoPROVIMENTO EM PARTE ao recurso da VEC Participações Ltda., apenas para fazer incidir na fixação dos honorários os dispositivos do CPC/2015. DadoPROVIMENTO EM PARTE ao recurso de JF 2 Empreendimentos Imobiliários, para também fazer incidir na fixação dos honorários os dispositivos do CPC/2015, mas os reduzindo.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 322/329).
+No especial (e-STJ fls. 332/347), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015, por negativa de prestação jurisdicional. Sustentou que o acórdão teria sido omisso quanto à apreciação do pedido de cancelamento do gravame hipotecário ainda incidente sobre os imóveis adquiridos.
+Apontou ainda afronta aos arts. 926 e 927, IV, § 4º, do CPC/2015, aduzindo a "necessidade de cancelamento do gravame, em decorrência lógica da Súmula 308/STJ, que estabelece que a hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel" (e-STJ fl. 343).
+No agravo (e-STJ fls. 370/384), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela recorrida (e-STJ fls. 388/398).
+É o relatório.
+Decido.
+Não há falar em contrariedade aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo.
+O conteúdo dos arts. 926 e 927, IV, § 4º, do CPC/2015 não foi analisado pela Corte local, mesmo após a oposição dos embargos de declaração. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+Além disso, o Tribunal de origem concluiu que "não há como prosperar a tese em referência quanto a se considerar totalmente procedente a ação, motivo pelo qual mantenho a sentença sob este enfoque" (e-STJ fl. 303).
+A sentença, por sua vez, tendo em vista as peculiaridades do caso concreto, consignou que (e-STJ fl. 186):
+No que concerne ao cancelamento da hipoteca, por outro lado, vislumbro a impossibilidade de acolhimento do pleito. Com efeito, tal medida afetaria diretamente os agentes financeiros perante os quais foi concedida a garantia, os quais, no entanto, não fazem parte do processo, o que impede o acolhimento da pretensão em razão dos limites subjetivos da coisa julgada impostos no artigo 506 do Código de Processo Civil.
+Ademais, com o registro da transferência dos imóveis, nenhum efeito tais hipotecas terão sobre o demandante, pois, por força do entendimento consolidado no enunciado nº 308 supracitado, a hipoteca garante a dívida da construtora tão somente enquanto o bem se situa na propriedade de tal devedora.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. O acórdão impugnado, ao adotar os fundamentos da sentença, concluiu que a baixa do gravame prejudicaria terceiros que não fazem parte do processo e que com o registro da transferência dos imóveis as hipotecas não produzirão efeitos sobre a recorrente. Tais pontos, aptos, por si sós, a sustentarem o juízo emitido, não foram rebatidos nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
