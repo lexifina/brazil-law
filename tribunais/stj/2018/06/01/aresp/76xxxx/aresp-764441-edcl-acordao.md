@@ -1,0 +1,30 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO. PRAZO. ART. 508 DO CPC/73. SUSPENSÃO. COMPROVAÇÃO. DOCUMENTO IDÔNEO. AUSÊNCIA. REJEIÇÃO.
+1. Sob a égide do CPC DE 1973, "a comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental" (AgRg no AREsp 137.141/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, julgado em 19/9/2012, DJe 15/10/2012).
+2. A ocorrência de feriado local, paralisação ou interrupção do expediente forense há de ser demonstrada por documento oficial ou certidão expedida pelo Tribunal de origem, capaz de evidenciar, no ato de sua interposição, a prorrogação do prazo do recurso que se pretende seja conhecido por este Superior Tribunal, sob pena de preclusão consumativa, não servindo, para tanto, página extraída da rede mundial de computadores.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de embargos de declaração opostos por Caixa Vida e Previdência S.A. em face de acórdão com a seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. INADIMPLÊNCIA. CANCELAMENTO. INTERPOSIÇÃO. PRAZO. ART. 508 DO CPC/73. SUSPENSÃO. COMPROVAÇÃO. DOCUMENTO IDÔNEO. AUSÊNCIA. NÃO PROVIMENTO.
+1. Sob a égide do CPC DE 1973, "a comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental" (AgRg no AREsp 137.141/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, julgado em 19/9/2012, DJe 15/10/2012).
+2. A ocorrência de feriado local, paralisação ou interrupção do expediente forense há de ser demonstrada por documento oficial ou certidão expedida pelo Tribunal de origem, capaz de evidenciar, no ato de sua interposição, a prorrogação do prazo do recurso que se pretende seja conhecido por este Superior Tribunal, sob pena de preclusão consumativa, não servindo, para tanto, página extraída da rede mundial de computadores.
+3. Agravo interno a que se nega provimento.
+A embargante afirma que o acórdão é omisso, porquanto teria juntado documento suficiente para a comprovação da ocorrência de feriado local.
+Pede o acolhimento do recurso que, embora intimada a parte contrária, não foi respondido.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O inconformismo não merece acolhida.
+Como a própria embargante diz, teria ela juntado, para a comprovação da ocorrência de feriado local, "notícia vinculada  sic  no site do tribunal a quo, em que há expressa menção ao Provimento nº 1.948/12, também do e. TJSP" (e-STJ, fl. 283).
+É, todavia, iterativa a jurisprudência do Superior Tribunal de Justiça que possibilidade de comprovação a posteriori de ocorrência de feriado local há de ser feita por meio de documento idôneo, não servido cópias de páginas da internet, ainda que oriunda do sítio eletrônico do Tribunal de origem.
+Assim:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL, INTERPOSTO SOB A ÉGIDE DO CPC/73. ALEGADA AUSÊNCIA DE EXPEDIENTE, NO TRIBUNAL DE ORIGEM. NÃO DEMONSTRAÇÃO, TODAVIA, POR DOCUMENTO OFICIAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto em 22/06/2016, contra decisão publicada em 10/05/2016, que, por sua vez, julgara intempestivo Recurso Especial, interposto contra acórdão publicado na vigência do CPC/73.
+II. Na forma da jurisprudência - firmada à época da publicação do acórdão recorrido e da decisão que inadmitira o Recurso Especial -, "a comprovação da tempestividade do recurso, em decorrência de feriado local ou suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final pode ocorrer posteriormente, em sede de Agravo Regimental" (STJ, AgRg no AREsp 137.141/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, DJe de 15/10/2012).
+III. De igual modo, a Corte Especial do STJ pacificou o entendimento no sentido de que a existência de feriado local, paralisação ou interrupção do expediente forense há de ser demonstrada por documento oficial ou certidão, expedida pelo Tribunal de origem, que afirme o período no qual ocorreu um desses fatos (STJ, EREsp 884.009/RJ, Rel. Ministro CASTRO MEIRA, Rel. p/ acórdão Ministro ARI PARGENDLER, CORTE ESPECIAL, DJe de 11/04/2014). Consoante a jurisprudência do STJ, ""a mera juntada de cópia de informações extraídas da página oficial do Tribunal de origem na internet não se revela suficiente para a prorrogação de prazo processual" (AgRg no AREsp 389.309/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/02/2014, DJe 25/02/2014)" (STJ, AgRg no AREsp 543.594/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 08/10/2014).
+IV. Todavia, no caso dos autos, "não houve qualquer comprovação, por documento idôneo, de que foram suspensos os prazos processuais. Não basta a simples menção, nas razões do presente agravo regimental, da existência de Resolução da Corte de origem constituindo o recesso forense" (STJ, AgRg no AREsp 564.097/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 03/11/2014).
+V. Agravo interno ao qual se nega provimento.
+(AgInt no AREsp 875.496/BA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 27/9/2016, DJe 13/10/2016)
+Diante do exposto e à míngua, portanto, de quaisquer dos vícios constantes na norma de regência dos embargos de declaração e tendo em vista, ainda, que tal recurso integrativo não se presta à rediscussão da lide, rejeito os embargos de declaração.
+É como voto.
