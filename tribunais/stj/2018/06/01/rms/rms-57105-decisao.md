@@ -1,0 +1,36 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto por [NOME] e FRANCISCO XAVIER DA SILVA, com base nos arts. 105, II, b, da Constituição da República e 1.027, II, a, do Código de Processo Civil de 2015, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM MANDADO DE SEGURANÇA. INDEFERIMENTO DA EXORDIAL. EX-FUNCIONÁRIOS DO BANDERN. ABSORÇÃO NOS QUADROS DA ADMINISTRAÇÃO PÚBLICA ESTADUAL EM FACE DO ART. 4o DA LEI COMPLEMENTAR ESTADUAL Nº 322/2002. NORMA DECLARADA INCONSTITUCIONAL PELO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO (ART. 485, IV, DO CPC). PRECEDENTE DESTA CORTE. DESPROVIMENTO DO AGRAVO.
+Nas razões recursais, alega-se, em síntese, que a legislação não veda que "se processe, a posteriori, como agora fazem, pedidos de absorção, relotação ou outro qualquer provimento administrativo, na medida em que o ponto nuclear dos fins sociais a que a lei se destina, no caso específico, reside na proteção do emprego e no amparo à pessoa hipossuficiente" (fl. 91e).
+Acrescenta que, embora o acórdão recorrido tenha indeferido a inicial com fundamento exclusivo na declaração de inconstitucionalidade da LCE n. 233/02 pelo Supremo Tribunal Federal, a declaração limitou-se à inconstitucionalidade formal lei o que não impediria a produção de efeitos pela norma. Ademais, o STF não teria disposto sobre a modulação dos efeitos da decisão.
+Sem contrarrazões (fls. 107e), subiram os autos a esta Corte.
+O Ministério Público Federal manifestou-se às fls. 115/119e, pelo improvimento do recurso.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+O tribunal de origem indeferiu a petição inicial, sob o fundamento de que a pretensão dos Recorrentes se baseia em norma declarada materialmente inconstitucional pelo Supremo Tribunal Federal, com efeitos ex tunc, o que leva ao reconhecimento da impossibilidade jurídica do pedido, conforme extrai-se dos seguintes excertos do acórdão recorrido (fls. 75/84e):
+Razão não assiste aos recorrentes, na medida em que a legislação que autorizava o ingresso dos ex-funcionários do Bandern aos quadros de funcionário público do Estado do Rio Grande do Norte, sem concurso público, é a LCE nº 233/2002, especificamente no seu art. 4o, e este, a teor da decisão agravada, foi declarada inconstitucional pelo Supremo Tribunal Federal, com efeitos ex-tunc, posto inexistir qualquer modulação dos efeitos no julgado, cuja ementa destaquei na fundamentação que expus na decisão contestada, que reproduzo:
+(..)
+No entanto, referido diploma foi declarado inconstitucional por vício formal e material, pelo Supremo Tribunal Federal, consoante precedentes seguintes, onde, inclusive, ressalta-se que o caso dos autos não se enquadra na hipótese de estabilidade excepcional preconizada no art. 19 do Ato das Disposições Constitucionais Transitórias1, por se tratar de empregados de sociedade de economia mista:
+(..)
+Neste cenário, conforme conclui em minha decisão, as pretensões fundadas em lei declarada inconstitucional, resulta em indeferimento da exordial, por impossibilidade jurídica do pedido (..)
+Nas razões do Recurso Ordinário, tal fundamentação não foi refutada, repercutindo na inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ACÓRDÃO RECORRIDO. FUNDAMENTO NÃO IMPUGNADO. APLICABILIDADE DA SÚMULA 283/STF.
+1. A jurisprudência do STJ é pacífica quanto à aplicabilidade da Súmula 283/STF nos julgamentos de Recursos Ordinários em Mandado de Segurança.
+2. Hipótese na qual o Tribunal a quo denegou a Segurança, por entender que a verba controvertida possui natureza de gratificação de caráter temporário e que a incorporação desse tipo de parcela remuneratória aos proventos de aposentadoria passou a ser vedada pelo art. 7º da LC Estadual 64/2002.
+3. Por seu turno, o recorrente não combateu especificamente o fundamento autônomo relativo ao art. 7º da LC 64/2002, o que atrai o incidência da Súmula 283/STF, aplicável por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. Agravo Regimental não provido.
+(AgRg no RMS 45.594/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/02/2015, DJe 20/03/2015).
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO ATACADO. INCIDÊNCIA ANALÓGICA DO VERBETE SUMULAR 283/STF. RECURSO NÃO PROVIDO.
+1. Nos termos do enunciado sumular 283/STF, de aplicação analógica ao recurso ordinário, deve o recorrente impugnar especificamente todos os fundamentos do pronunciamento judicial que pretende reverter, sob pena de, não o fazendo, vê-lo mantido.
+2. Recurso ordinário não provido.
+(RMS 37.941/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 18/12/2012, DJe 04/02/2013).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. APOSTILAMENTO. INTERPRETAÇÃO SISTÊMICA DA LEGISLAÇÃO DE REGÊNCIA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. INCIDÊNCIA.
+1. A Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido.
+2. Agravo regimental a que se nega provimento.
+(AgRg no RMS 30.555/MG, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 26/06/2012, DJe 01/08/2012).
+Com efeito, à luz do princípio da dialeticidade, constitui ônus do Recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Isto posto, com fundamento nos arts. 932, III, do Código de Processo Civil e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Ordinário.
+Publique-se e intimem-se.
