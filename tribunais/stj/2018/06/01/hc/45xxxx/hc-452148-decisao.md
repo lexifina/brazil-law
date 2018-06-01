@@ -1,0 +1,9 @@
+DECISÃO
+JOICE ELIANE MARINO RIBEIRO, paciente neste habeas corpus substitutivo de recurso ordinário, alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 2006370-34.2018.8.26.0000.
+No caso vertente, a paciente buscou a concessão de prisão albergue domiciliar. Todavia, a Corte de origem indeferiu o processamento do writ lá interposto, ao considerar que "a via eleita não configura meio idôneo à apreciação da matéria cujo deslinde se pretende, uma vez que sua análise configuraria indevida supressão de instância, eis que, ao que tudo indica, a questão ainda não foi apreciada pelo MM. Juízo a quo" (fl. 18). Portanto, não analisada a configuração da infração disciplinar pelo Juízo da execução penal, o exame da irresignação diretamente pelo Superior Tribunal de Justiça caracterizaria indevida supressão de instância.
+A esse respeito, mutatis mutandis:
+ ..
+4. Incabível o pedido de conversão da prisão em domiciliar na forma do art. 318, inciso V do Código de Processo Penal, uma vez que, após o exaurimento da jurisdição das instâncias ordinárias, a segregação configura execução provisória da pena, não havendo que se falar em prisão preventiva.
+5. Embora o benefício encontre espaço para aplicação sob a norma contida no art. 117, inciso III da Lei de Execução Penal, a análise do cabimento compete ao juízo das execuções, já que não se trata de efeito automático da existência de filhos menores, não podendo, portanto, ser deferido diretamente por esta Corte, sob pena de indevida supressão de instância  ..  (HC n .394.532/MG, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/6/2017, destaquei).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
