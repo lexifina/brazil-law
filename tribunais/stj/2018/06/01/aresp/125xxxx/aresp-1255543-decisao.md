@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que inadmitiu o recurso especial, ante a incidência da Súmula n. 284/STF (e-STJ fl. 380).
+O acórdão do TJSP está assim ementado (e-STJ fl. 337):
+Apelação. Falência; Embargos de terceiro. Preclusão. Ação ajuizada muito tempo depois da declaração de ineficácia da arrematação do imóvel pelo embargante. Inicial indeferida. Ação extinta, sem resolução do mérito (CPC, art. 267, I, e 295, III). Arrecadação do imóvel mantida. Sentença reformada. Apelo a que se dá provimento.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 348/352).
+Nas razões do recurso especial (e-STJ fls. 356/363), interposto com base no art. 105, III, "a", da CF, o recorrente alegou ser indevido decretar a nulidade da arrematação por ele realizada nos atos da falência, pois o procedimento adotado, segundo o Código de Processo Civil, seria correto.
+Argumentou que "a fundamentação trazida no acórdão há que ser clarificada posto que, uma vez que a decisão dessa E. Corte foi de determinar que os Embargos de Terceiro opostos não é o meio adequado para discussão acerca da validade da arrematação, prevalecendo essa sobre a arrecadação, supõe-se, dessa forma, que a decisão proferida pelo Juízo Falimentar deveria ter sido objeto de Agravo de Instrumento" (e-STJ fl. 358).
+Acrescentou inexistir preclusão de seu direito de reclamar contra a nulidade decretada, porque não teria sido intimado da decisão anulando sua arrematação, pois não estaria representado nos autos - motivo por que lhe faltaria capacidade postulatória - e não seria parte no processo de falência, sendo terceiro interessado na demanda, com a faculdade de interpor recurso, segundo o art. 499 do CPC/1973 (e-STJ fl. 358).
+Aduziu não ter ocorrido preclusão também em virtude de ter opostos embargos de terceiro e ação anulatória da nulidade da arrematação realizada. Afirmou que a nulidade da arrematação deveria ocorrer por meio de ação própria e, ao final, pugnou pelo conhecimento e provimento do recurso, ante a necessidade de julgar a ação anulatória, visto que a nulidade decretada de forma genérica em despacho não poderia prevalecer.
+Foram apresentadas contrarrazões (e-STJ fls. 369/375).
+No agravo (e-STJ fls. 383/402), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 410/416).
+É o relatório.
+Decido.
+Nas razões recursais, o recorrente não indicou a legislação federal que teria sido objeto de ofensa pela Corte local no acórdão impugnado, ao defender que decretar a nulidade da arrematação realizada nos autos da falência seria indevido, visto que realizada por mero despacho do juízo de origem e por inexistir preclusão de seu direito de se insurgir quanto à tal decisão, questionada por meio de embargos de terceiro e de ação anulatória.
+Ausente tal providência, a fundamentação do recurso mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF como óbice ao recurso. A propósito: "No recurso interposto pela alínea "a" do permissivo constitucional é imprescindível a individualização do artigo de lei federal tido por violado, sem o que incide, por analogia, a Súmula 284 do STF" (AgInt no AREsp n. 623.110/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMPRA E VENDA DE IMÓVEL. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS SUPOSTAMENTE VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A falta de indicação dos dispositivos legais que teriam sido eventualmente violados faz incidir à hipótese o teor da Súmula 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+2. A revisão da conclusão estadual - acerca da legitimidade passiva da recorrente, da desnecessidade da produção de prova pericial, da competência da Justiça Estadual para julgar o feito, bem como pela cobrança indevida dos juros de obra ao consumidor - demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providência inviável na via estreita do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+3. Por fim, registre-se não ser cabível o arbitramento de honorários recursais previstos no § 11 do art. 85 do Novo Código de Processo Civil no recurso de agravo interno.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.213.182/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/4/2018, DJe 3/5/2018.)
+Ademais, segundo assente na jurisprudência desta Corte Superior, "não enseja interposição de recurso especial matéria que não tenha sido ventilada no aresto atacado e sobre a qual, embora tenham sido opostos os embargos declaratórios competentes, o órgão julgador não se pronunciou, tampouco houve alegação, por parte do interessado, de ofensa ao art. 535 do CPC/1973 (1.022 do CPC/2015). Incidência da Súmula 211 do STJ" (AgInt no AREsp n. 1.100.940/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/9/2017, DJe 28/9/2017.)
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.098.633/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/9/2017, DJe 15/9/2017.)
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+(..)
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+(..)
+06. Recurso especial não provido.
+(REsp n. 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4/4/2017, DJe 10/4/2017.)
+A Corte de origem não se manifestou quanto à tese de que o recorrente, como terceiro interessado, segundo o art. 499 do CPC/1973, por não ser parte nos autos da falência, não teria sido intimado do despacho de anulação da arrematação. O recorrente, por sua vez, não apontou em suas razões recursais em fls. 356/363 (e-STJ) ofensa ao art. 1.022 do CPC/2015 (CPC/1973, art. 535).
+Dessa forma, na linha dos precedentes acima expostos, conclui-se que, sem ter sido objeto de debate na decisão recorrida, a despeito dos aclaratórios opostos, a matéria carece de prequestionamento e sofre, por conseguinte, o empecilho da Súmula n. 211/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
