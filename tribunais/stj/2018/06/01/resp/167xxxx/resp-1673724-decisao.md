@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME] ROSA, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 111):
+APELAÇÃO. Ação revisional. Contrato de financiamento de veículo.
+TARIFA DE AVALIAÇÃO DE BENS, REGISTRO DE CONTRATO, INSERÇÃO DE GRAVAME e SERVIÇOS DE CORRESPONDENTE PRESTADOS À FINANCEIRA. Abusividade, pois não comprovada a finalidade e o repasse a terceiros. Exigibilidade corretamente afastada pela sentença. Dever de restituição dos valores cobrados indevidamente. Sentença confirmada no ponto.
+CÁLCULO DA RESTITUIÇÃO. Tarifas que foram incorporadas ao financiamento, conforme previsão contratual. Restituição que deve ser integral, considerando-se os juros remuneratórios contratuais. Recurso da autora provido no ponto.
+HONORÁRIOS CONTRATUAIS. Ressarcimento pela parte adversa. Impossibilidade. Precedentes do STJ no sentido de que os custos decorrentes da contratação de advogado para ajuizamento de ação, por si só, não constituem ilícito capaz de ensejar danos materiais indenizáveis. Sentença confirmada no ponto.
+Recurso da autora parcialmente provido e apelo do réu desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 125/128).
+Nas razões do recurso especial (e-STJ, fls. 130/134), a parte recorrente aponta a violação dos artigos 389, 395 e 404 do CC.
+Sustenta, em síntese, ser devida a condenação da Instituição Financeira recorrida ao ressarcimento/pagamento dos prejuízos materiais decorrentes da contração de advogado para a propositura da ação, devendo arcar com o valor dos honorários contratuais.
+Contrarrazões ofertadas às fls. 138/144 (e-STJ).
+Após o juízo positivo de admissibilidade (e-STJ, fls. 145/147), ascenderam os autos a esta Corte Superior.
+É o relatório.
+Decido.
+A irresignação não comporta acolhimento.
+1. Após várias julgados divergentes, a questão referente à condenação ao pagamento dos honorários advocatícios contratados foi levada à Segunda Seção, onde se firmou a orientação de que a contratação de advogados para atuação judicial na defesa de interesses das partes não poderia se constituir em dano material passível de indenização, porque inerente ao exercício regular dos direitos constitucionais de contraditório, ampla defesa e acesso à Justiça.
+Confira-se:
+EMBARGOS DE DIVERGÊNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS DE ADVOGADO DO RECLAMANTE, COBRADOS AO RECLAMADO PARA RECLAMAÇÃO TRABALHISTA JULGADA PROCEDENTE. 1) COMPETÊNCIA DA JUSTIÇA DO TRABALHO, A DESPEITO DE ORIENTAÇÃO ANTERIOR À EMENDA CONSTITUCIONAL 45/2004, MAS EMBARGOS CONHECIDOS DADA A PECULIARIDADE DOS EMBARGOS DE DIVERGÊNCIA; 2) INEXISTÊNCIA DE DEVER DE INDENIZAR, NO ÂMBITO GERAL DO DIREITO COMUM, RESSALVADA INTERPRETAÇÃO NO ÂMBITO DA JUSTIÇA DO TRABALHO; 3) IMPOSSIBILIDADE DE ALTERAÇÃO DO JULGADO PARADIGMA; 4) EMBARGOS DE DIVERGÊNCIA IMPROVIDOS.
+(..)
+2.- No âmbito da Justiça comum, impossível superar a orientação já antes firmada por este Tribunal, no sentido do descabimento da cobrança ao Reclamado de honorários advocatícios contratados pelo Reclamante: para a Reclamação Trabalhista, porque o contrário significaria o reconhecimento da sucumbência por via oblíqua e poderia levar a julgamentos contraditórios a respeito do mesmo fato do patrocínio advocatício na Justiça do Trabalho.
+3.- Manutenção do Acórdão Embargado, que julgou improcedente ação de cobrança de honorários contratuais ao Reclamado, a despeito da subsistência do julgamento paradigma em sentido diverso, pois não sujeito à devolução recursal nestes Embargos de Divergência. (EREsp 1155527/MG, Rel. Ministro SIDNEI BENETI, SEGUNDA SEÇÃO, DJe 28/06/2012).
+No mesmo sentido:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544, DO CPC) - AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO - INSURGÊNCIA DO AUTOR.
+1. A pretensão recursal não pode ser acolhida, tendo em vista que a matéria controvertida nos autos foi pacificada pela Segunda Seção do STJ no sentido de que a contratação de advogados para atuação judicial na defesa de interesses das partes não poderia se constituir em dano material passível de indenização, porque inerente ao exercício regular dos direitos constitucionais de contraditório, ampla defesa e acesso à Justiça.
+2. Agravo regimental desprovido."
+(AgRg no AREsp 516.277/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/8/2014, DJe de 4/9/2014)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CONTRATAÇÃO DE ADVOGADO. DANO MATERIAL NÃO CONFIGURADO. QUANTUM INDENIZATÓRIO. REVISÃO. INVIABILIDADE. VALOR RAZOÁVEL.
+1. A contratação de advogado, por si só, não enseja danos materiais, sob pena de atribuir ilicitude a qualquer pretensão questionada judicialmente. (AgRg no REsp 1229482/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 23/11/2012);
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. MANUTENÇÃO INDEVIDA EM CADASTRO DE RESTRIÇÃO AO CRÉDITO. PERÍODO EXÍGUO. VALOR FIXADO. RAZOABILIDADE. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. RESTITUIÇÃO. IMPOSSIBILIDADE. SUSPENSÃO EM RAZÃO DE PROCESSO REPETITIVO EM TRÂMITE NO STJ. DESNECESSIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, foi estabelecida pela instância ordinária em conformidade com os princípios da proporcionalidade e razoabilidade.
+2. A Segunda Seção do STJ já se pronunciou no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora.
+3. A suspensão determinada pelo art. 543-C do CPC aos processos que cuidam de matéria repetitiva orienta-se às causas que ainda não ascenderam aos tribunais superiores.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 810.591/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 15/02/2016 - grifou-se).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. VIOLAÇÃO AO ART. 535, II, DO CPC. INEXISTÊNCIA. PERDAS E DANOS. HONORÁRIOS CONTRATUAIS DO ADVOGADO PARA O AJUIZAMENTO DA AÇÃO. INCLUSÃO A TÍTULO DE INDENIZAÇÃO POR DANOS MATERIAIS. INVIABILIDADE. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. O Tribunal a quo manifestou-se fundamentadamente a respeito de todas as questões postas à sua apreciação, tendo decidido, entretanto, contrariamente aos interesses da parte recorrente, que buscou, com os embargos de declaração, a reapreciação do mérito da causa. Logo, em virtude da não ocorrência de omissão, contradição ou obscuridade, não se verifica a aludida ofensa ao art. 535 do CPC.
+2. "Esta Corte possui entendimento firmado no sentido de que os custos decorrentes da contratação de advogado para ajuizamento de ação, por si só, não constituem ilícito capaz de ensejar danos materiais indenizáveis. Precedentes da Segunda Seção" (AgRg no AREsp 477.296/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/12/2014, DJe de 2/2/2015)
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1370501/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/08/2015, DJe 16/09/2015, grifou-se)
+Assim, não obstante a insurgência da recorrente, verifica-se que o entendimento do Tribunal de origem está em consonância com a orientação perfilhada por esta Corte.
+2. Outrossim, a recorrente não logrou demonstrar a divergência jurisprudencial nos moldes exigidos pelos artigos 1029, § 1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+Isto porque a interposição de recurso especial pela alínea "c" do permissivo constitucional reclama o cotejo analítico dos julgados confrontados a fim de restarem demonstradas a similitude fática e a adoção de teses divergentes, máxime quando não configurada a notoriedade do dissídio. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 157, § 3º, PRIMEIRA PARTE, DO CÓDIGO PENAL. RECURSO INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESATENÇÃO AO ÔNUS DA DIALETICIDADE. I - O recurso especial, interposto com fulcro no art. 105, inciso III, alínea c, da Constituição Federal, exige a demonstração do dissídio jurisprudencial através da realização do indispensável cotejo analítico, para demonstrar a similitude fática entre o v. acórdão recorrido e o eventual paradigma (arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ), o que não ocorreu na espécie. II - Não pode ser conhecido o agravo regimental que não infirma os fundamentos da decisão monocrática agravada. Agravo regimental parcialmente conhecido e, nesta extensão, não provido. (AgRg no AREsp 1164414/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/04/2018, DJe 11/04/2018)
+3. Do exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
