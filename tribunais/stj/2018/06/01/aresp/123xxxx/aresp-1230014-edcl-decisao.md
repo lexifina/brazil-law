@@ -1,0 +1,23 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por DIRECIONAL CONSTRUTORA VALPARAISO LTDA contra a decisão de fls. 824/826, que não conheceu do recurso.
+Em suas razões, sustenta a parte Embargante, em síntese, que " ..  há erro material em tal trecho da decisão, visto que foi interposto recurso especial CONTRA ACÓRDÃO DE AGRAVO REGIMENTAL julgado pelo TJMG, esgotando-se todos os recursos cabíveis no tribunal de origem." (fl. 836).
+Aduz, ainda, que "Em sede de agravo em recurso especial, objetivou-se demonstrar que a inadmissibilidade pela ausência de comprovação de multa apenas pode ocorrer se o STJ também entender que o agravo regimental realmente foi protelatório e a multa cabível." (fl. 836).
+Alude, também, que "Seguindo esse raciocínio, utiliza-se dos presentes embargos de declaração para que Vossa Excelência analise os argumentos para afastar a aplicabilidade da multa do agravo regimental e, se revogada a multa, admitir o recurso especial." (fl. 836).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanada a obscuridade apontada.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que a multa é uma condição de procedibilidade e o prévio recolhimento é uma condição necessária para o processamento do recurso especial. A juntada posterior não é válida em razão da preclusão consumativa.
+Nesse sentido, confira-se:
+TRIBUTÁRIO. RECOLHIMENTO DIFERENCIAL DE ICMS. APLICAÇÃO DA MULTA DO ART. 557, § 2º, CPC/73. NECESSIDADE DE DEPÓSITO PRÉVIO COMO CONDIÇÃO PARA INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO. FAZENDA PÚBLICA APLICABILIDADE. RECURSO ESPECIAL NÃO CONHECIDO.
+I - "O Supremo Tribunal Federal, à luz do CPC/1973, tem entendido ser aplicável à Fazenda Pública a necessidade do depósito prévio da multa prevista no art. 557, § 2º, do CPC/1973 como condição para a interposição de qualquer outro recurso (STF, RE 521.424 AgR-EDv-AgR/RN, Rel.
+Ministro Celso de Mello, Pleno, DJe de 27/08/2010; STF, AI 775.934 AgR-ED-ED/AL, Rel. Ministro Cezar Peluso, Pleno, DJe de 13/12/2011)." (AgRg no AREsp 550.893/DF, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/11/2016, DJe 30/11/2016).
+II - A jurisprudência desta Corte Superior, alterando posicionamento anterior, firmou-se no sentido de "que o depósito prévio da multa cominada com base no art. 557, § 2º, do CPC 73  configura pressuposto objetivo de recorribilidade, que também se impõe às pessoas jurídicas de direito público" (STJ, AgRg nos EAREsp 22.230/PA, Rel. Ministro Sidnei Beneti, Corte Especial, DJe de 1º/7/2014).
+III - Agravo interno improvido.
+(AgInt no AREsp 917.435/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/04/2017, DJe 27/04/2017)
+Quanto ao exaurimento da instância ordinária, conforme jurisprudência desta Corte, "Não é possível o conhecimento do recurso especial na hipótese em que, na origem, foram julgados monocraticamente os embargos de declaração opostos contra decisão colegiada, tendo em vista que não ocorreu o exaurimento da instância, mormente quando no recurso especial se aventa teses abarcadas nos referidos aclaratórios, incidindo, portanto, no caso, o entendimento firmado na Súmula n.º 281 do STF, aplicado por analogia ao recurso especial. Precedentes do STJ" (AgRg no AREsp 587.686/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/12/2014, DJe 12/12/2014).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
