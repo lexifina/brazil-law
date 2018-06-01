@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2103982-69.2018.8.26.0000).
+Depreende-se dos autos que o paciente foi preso em flagrante, em 31/3/2017, e denunciado por infração aos arts. 33, caput, 34 e 35, da Lei n. 11.343/2006, porque ele e outros 6 indivíduos preparavam, guardavam, tinham em depósito e transportavam 165 (cento e sessenta e cinco) tijolos de maconha, pesando aproximadamente 111,650kg (cento e onze quilos e seiscentos e cinquenta gramas); 10 (dez) porções de maconha acondicionadas em invólucros plásticos, pesando aproximadamente 5,400kg (cinco quilos e quatrocentos gramas); 8 (oito) porções de maconha acondicionadas em invólucros plásticos; 4 balanças de precisão; 1 liquidificador; 1 saco plástico com substância de cor branca não identificada, pesando aproximadamente 170g (cento e setenta gramas); 46 sacos com diversos eppendorfs vazios; e 41 tubos de ensaio, objetos e produtos destinados à fabricação, preparação, produção e transformação de drogas, sem autorização e em desacordo com determinação legal ou regulamentar
+A prisão em flagrante foi convertida em preventiva.
+Superadas as demais fases processuais, o paciente foi condenado, em primeiro grau, como incurso no art. 33, caput, da Lei de Drogas, c/c o art. 61, I, do Código Penal, à pena de 11 anos e 8 meses de reclusão e 1.166 dias-multa, mantida a segregação cautelar.
+Irresignada, a defesa interpôs apelação. Impetrou, também, habeas corpus perante o Tribunal estadual, objetivando assegurar ao paciente o direito de recorrer em liberdade, com ou sem imposição de medidas cautelares alternativas. Contudo, o pedido liminar foi indeferido pelo Desembargador relator (e-STJ fls. 12/13).
+No presente writ, o impetrante sustenta, em linhas gerais, excesso de prazo para formação da culpa, tendo em vista que o paciente está preso desde 31/3/2017 (e-STJ fls. 3/9). Assere ser possível a superação da Súmula n. 691/STF (e-STJ fl. 10).
+Requer, em tema liminar e no mérito, que seja concedido ao paciente o direito de recorrer em liberdade com ou sem imposição das medidas cautelares previstas no art. 319 do Código de Processo Penal.
+É, em síntese, o relatório.
+O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus impetrado ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do STF), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido. (AgRg no HC 349.925/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido. (AgRg no HC 345.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+A questão em exame necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar a argumentação da impetração e as provas juntadas ao habeas corpus no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
