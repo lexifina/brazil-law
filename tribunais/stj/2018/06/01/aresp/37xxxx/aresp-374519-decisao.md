@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão, exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu seu recurso especial.
+Historiam os autos que GRACINDO SEGUR ajuizou "ação de indenização por danos morais" (fls. 04-12) em desfavor de [NOME], cujo pedido foi julgado procedente, para, entre outras determinações, condenar os promovidos ao pagamento de indenização no valor de R$30.000,00 (trinta mil reais) a título de danos morais, conforme sentença às fls. 344-348.
+Diante disso, os promovidos interpuseram apelações (fls. 352-363 e fls. 367-379), sendo ambas desprovidas pelo eg. TJ-SP, conforme v. acórdão assim ementado:
+"NULIDADE - CERCEAMENTO DE DEFESA - Não caracterização - O destinatário da prova é o Juiz, cabendo a ele avaliar a necessidade de realização de nova perícia - Ademais, o Juiz não está adstrito ao laudo pericial, podendo formar a sua convicção com outros elementos ou fatos provados nos autos - Princípio do livre convencimento motivado - Aplicação do art. 330, I do CPC - PRELIMINAR REJEITADA.
+DANOS MORAIS - Indenização - Utilização indevida dos documentos do autor para incluí-lo, sem que soubesse, como sócio de empresa, e retirada dos réus da sociedade - Fraude caracterizada quando da alteração do contrato social - Aceitação de documentos sem devidas cautelas e confirmação dos dados apresentados - Ilicitude configurada - Caracterização do prejuízo e abalo de ordem moral - Indicação pela perícia de se tratar de indevida e falsa utilização de documentos - Autor que teve o seu CPF cancelado por conta das irregularidades registradas na Secretaria da Receita Federal e conseqüente bloqueio no crédito de rendimentos de aposentadoria - Indenização devida - Valor fixado de forma moderada - Objetivos reparatórios e didáticos - Sentença confirmada - Aplicação do disposto no artigo 252 do Regimento Interno do Tribunal de Justiça -
+RECURSOS NÃO PROVIDOS." (fls. 403)
+Os embargos de declaração opostos foram rejeitados (acórdão às fls. 416-421).
+Inconformado, [NOME] interpôs recurso especial, com arrimo na alínea "a" do permissivo constitucional, alegando ofensa aos arts. 130, 333, I, 364 e 365 do CPC/73, afirmando que o v. acórdão estadual fundamenta-se em "(..) confuso Laudo Pericial Técnico, sem que houvesse contrariedade ao mesmo e condenou o Recorrente ao pagamento de indenização por danos morais e exclusão do Recorrido dos quadros societários da empresa Cedac - Unidade de Ultrassonografia e Radiologia Ltda" (fls. 449-450).
+Sustenta, também, violação aos arts. 927 e 944 do Código Civil, ao argumento de que "(..) não foi comprovado nos autos nenhum abalo à moral do Recorrido, sendo que a mesma não foi ofendida nem sofreu turbação em sua mente, razão pela qual, não merece prosperar a condenação em R$ 30.000,00 (trinta mil reais) a título de danos morais, por ser totalmente desproporcional e exorbitante para o caso concreto" (fls. 453)
+Não foi apresentada contrarrazões, conforme certidão à fl. 467.
+Como dito, o recurso foi inadmitido (decisão às fls. 471-472), motivando o manejo do presente agravo em recurso especial (fls. 475-481).
+Também não foi oferecida contraminuta, conforme certidão à fl. 492.
+É o relatório. Passo a decidir.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+A irresignação não merece prosperar.
+De início, não se vislumbra a alegada ofensa ao art. 130 do CPC/73, na medida em que o eg. Superior Tribunal de Justiça entende que não configura cerceamento de defesa o julgamento da demanda, sem a realização das provas postuladas pelas partes, quando o juiz da causa entender substancialmente instruído o feito, declarando a prescindibilidade de produção de determinada prova. Ademais, a livre apreciação da prova e o livre convencimento motivado do juiz são princípios basilares do sistema processual civil brasileiro.
+Nesse sentido, confiram-se os seguintes julgados:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. CONTRATO BANCÁRIO. CONSIGNAÇÃO EM PAGAMENTO. PERÍCIA TÉCNICA. DESNECESSIDADE. 2. LIMITAÇÃO DO VALOR. 30% DO SALÁRIO E COMPENSAÇÃO DE VERBA HONORÁRIA. INOVAÇÃO RECURSAL. INVIABILIDADE.PRECLUSÃO CONSUMATIVA. 3. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não caracteriza cerceamento de defesa o julgamento da demanda sem a realização de prova pericial, quando o seu destinatário entender que o feito está adequadamente instruído, com provas suficientes para seu convencimento.
+(..)
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 566.307/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/09/2014, DJe 26/09/2014 - grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA.OMISSÃO. NÃO OCORRÊNCIA. ACIDENTE. RESPONSABILIDADE. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADO 7 DA SÚMULA DO STJ. LIVRE CONVENCIMENTO. PERÍCIA. REQUERIMENTO GENÉRICO. AUSÊNCIA DE IMPUGNAÇÃO. ENUNCIADO 283 DA SÚMULA DO STF. NÃO PROVIMENTO.
+(..)
+3. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento.
+4. Agravo a que se nega provimento."
+(AgRg no AREsp 121.314/PI, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/05/2013, DJe 21/05/2013 - grifou-se)
+Melhor sorte não socorre ao recorrente no que pertine à ofensa aos arts. 333, I e 364 e 365 do CPC/73 e art. 927 do Código Civil. Com efeito, apontando ofensa a tais normas, defende o recorrente que "(..) trouxe aos autos documentos que comprovam que a inclusão do Recorrido dos quadros societários é legítima, isto é, documentos devidamente chancelados pelo cartório" (fls. 451). Noutro giro, o eg. TJ-SP, soberano na análise do acervo fático-probatório carreado aos autos, concluiu que era indevida a inclusão de GRACINDO SEGUR nos autos da sociedade empresária "Cedac - Unidade de Ultrassonografia e Radiologia Ltda", devendo o recorrido ser indenizado por danos morais, confirmando a sentença em sua integralidade.
+Nesse cenário, a pretensão posta no apelo nobre demandaria o revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, conforme preconiza a Súmula n. 7/STJ.
+Avançando na análise do apelo, sustenta o recorrente violação ao art. 944 do Código Civil, ao argumento de que o valor da indenização é exagerado.
+Sobre o tema, a jurisprudência desta eg. Corte é no sentido de que a discussão referente ao valor de indenização por danos morais, em regra, esbarra no óbice da aludida Súmula 7/STJ. No entanto, essa súmula pode ser afastada em hipóteses excepcionais, quando o quantum indenizatório se mostrar irrisório ou exorbitante. Nessa linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. DESNECESSIDADE DE REITERAÇÃO DO PEDIDO. CADASTROS RESTRITIVOS. INCLUSÃO INDEVIDA. DANOS MORAIS. REVISÃO DO QUANTUM INDENIZATÓRIO. INCIDÊNCIA DA SUMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REQUERIMENTO DE MAJORAÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7. HONORÁRIOS SUCUMBENCIAIS RECURSAIS. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A alteração da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ.
+(..)
+5. Agravo interno não provido."
+(AgInt no AREsp 1150003/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/02/2018, DJe 05/03/2018 - grifou-se)
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PROTESTO INDEVIDO DE DUPLICATA. DANO MORAL. DEVER DE INDENIZAR. REVISÃO NESTA CORTE. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. VALOR. REVISÃO. NÃO CABIMENTO. JUROS DE MORA. TERMO INICIAL. EVENTO DANOSO. NÃO PROVIMENTO.
+(..)
+2. O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela existência de dano moral. A revisão da conclusão adotada encontra óbice no verbete 7 da Súmula desta Corte.
+3. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, foi estabelecida pela instância ordinária em conformidade com os princípios da proporcionalidade e razoabilidade.
+4. No caso de indenização por dano moral puro, decorrente de ato ilícito, os juros moratórios fluem a partir do evento danoso (Súmula 54 do STJ). Entendimento majoritário da Segunda Seção, sufragado no REsp 1.132.866/SP (julgado em 23.11.2011).
+5. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 128.689/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/02/2014, DJe 24/02/2014)
+No caso em liça, o eg. TJ-SP fixou a indenização em R$30.000,00 (trinta mil reais), o que não se mostra exorbitante, como alega o recorrente. Nesse jaez, não consubstanciada a mencionada hipótese excepcional, o apelo nobre encontra óbice na referida Súmula n. 7/STJ.
+Nesse panorama, conclui-se que o presente apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a" e "b", do RI-STJ, conheço do agravo para conhecer parcialmente do recurso especial e, na extensão, negar-lhe provimento.
+Publique-se.
