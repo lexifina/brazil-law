@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por VALDEIR CRISTIANO DE OLIVEIRA contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Sustenta a defesa, nas razões do recurso especial, violação dos artigos 155 do Código Penal, 156 e 386, VII, do Código de Processo Penal.
+Aduz que: a) "o Recorrente foi condenado pela prática do delito de furto, por ter sido detido por milicianos na posse das res furtiva, tempos após a ocorrência do fato. Em que pese a apreensão da res furtiva em poder do acusado, nem a vítima nem o policiais militares que detiveram o denunciado são capazes de afirmar ser Valdeir o agente que rompeu a porta de entrada do estabelecimento comercial e de lá subtraiu os bens descritos no auto de apreensão de fl. 22" (e-STJ, fls. 280-281); e b) foi invertido o ônus da prova, que, na hipótese, seria da acusação, que deveria provar que o recorrente foi o autor do delito.
+Por fim, defende a ausência de provas suficientes para a condenação do agravante, razão pela qual requer sua absolvição.
+Apresentadas as contrarrazões (e-STJ, fls. 289-294).
+O recurso foi inadmitido com fundamento no óbice da Súmula 7/STJ (e-STJ, fl. 295).
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 322-325).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal de origem manteve a condenação do recorrente pelo cometimento do delito de furto com os seguintes fundamentos:
+"É que, da análise que fiz dos autos, não tenho a menor dúvida de que o recorrente foi o autor do crime de furto qualificado narrado na denúncia, senão vejamos:
+Conforme se extrai dos relatos do condutor do flagrante, fls. 02 e 72, após a guarnição policial ter sido acionada por uma vizinha do estabelecimento vítima, que informou que um indivíduo magro de estatura mediana, cor negra, trajando camisa preta e bermuda, teria acabado de quebrar o vidro blindex da vitrine da loja e subtraído de lá alguns objetos, se dirigiram ao local, onde acionaram o proprietário, que verificou que haviam sido subtraídos um aparelho MP3 com fone de ouvido, dois aparelhos celulares e um boné.
+A partir de então, os militares iniciaram rastreamento a fim de localizar o autor do crime, quando localizaram o apelante - que possuía as mesmas características informadas pela denunciante.
+Procedida à abordagem, os policiais localizaram em poder do recorrente um aparelho MP3 com fone de ouvido, um aparelho celular e um boné, objetos estes que foram reconhecidos pela vítima como aqueles subtraídos de seu estabelecimento comercial.
+Os relatos do condutor foram corroborados pelo depoimento judicial do também militar [NOME], fls. 73.
+Mas não é só. O proprietário do estabelecimento vítima afirmou, também em giro (fls. 74) que foi avisado por uma vizinha de sua loja acerca da ocorrência do furto, sendo que foi até o local, onde lhe foi apresentado o recorrente que foi encontrado logo após, na posse dos objetos subtraídos.
+Ademais, tendo sido o apelante encontrado na posse da res, instantes após a subtração, para safar-se da imputação, deveria ter se desincumbido do ônus da prova que, no caso, se vê invertido (ao contrário do que crê a defesa), apresentando justificativa plausível e razoável para o fato, o que não foi feito - sendo que a infantil versão apresentada pelo recorrente, no sentido de que teria "encontrado os objetos na rua" (fls. 07), não merece a menor credibilidade, até mesmo porque, como salientado pelo i. Revisor quando do julgamento do apelo, "é altamente improvável que alguém tenha se dado ao trabalho de furtar o estabelecimento comercial da vítima, mediante destruição de obstáculo, simplesmente abandonasse na rua os objetos angariados na ação".
+Acerca da inversão do ônus da prova em hipótese análogo à dos autos, confira-se a recente jurisprudência do Colendo STJ:
+"HABEAS CORPUS. RECEPTAÇÃO. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. NULIDADE. INVERSÃO DO ONUS DA PROVA. OFENSA AO ARTIGO 156 DO CÓDIGO DE PROCESSO PENAL. INEXISTÊNCIA. DESCLASSIFICAÇÃO. REVOLVIMENTO FATICO- PROBATÓRIO. IMPOSSIBILIDADE. DOSIMETRIA. CONDUTA SOCIAL DESFAVORÁVEL. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. LEGALIDADE EVIDENCIADA. NÃO CONHECIMENTO. ORDEM DE OFÍCIO
+(..)
+2. Não há falar em nulidade absoluta em razão de alegada ofensa ao disposto no artigo 156 do Código de Processo Penal, eis que, diante da apreensão da res furtiva em poder do paciente, caberia à defesa apresentar prova acerca da origem lícita do bem. " (ementa parcial, HC 348.374/SC, Rel.
+Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 16/03/2016 - destaquei).
+Dessa forma, rogando vênia ao ilustre Desembargador Sálvio Chaves, Relator vencido quando do julgamento da Apelação Criminal, entendo que a prova colhida nos autos comprova seguramente a prática, pelo embargante, do crime de furto qualificado, sendo de rigor a manutenção de sua condenação nos termos do acórdão embargado.
+Ante o exposto, não acolho os presentes embargos infringentes." (e-STJ, fls. 262-264).
+O acórdão combatido concluiu que o recorrente foi o autor do delito de furto, uma vez que "tendo sido o apelante encontrado na posse da res, instantes após a subtração, para safar-se da imputação, deveria ter se desincumbido do ônus da prova que, no caso, se vê invertido (ao contrário do que crê a defesa), apresentando justificativa plausível e razoável para o fato, o que não foi feito" (e-STJ, fl. 263). Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela absolvição do recorrente, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME MILITAR. FURTO SIMPLES. ABSOLVIÇÃO. INSUFICIÊNCIA DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Para adotar a tese suscitada pela defesa - de não haver certeza quanto ao envolvimento do agravante na prática delitiva - e, consequentemente, absolver o réu com base no art. 439, "e", do Código de Processo Penal Militar, seria necessário o revolvimento das provas constantes dos autos, o que ultrapassa a mera revaloração das premissas estabelecidas no acórdão impugnado e, por conseguinte, atrai a incidência da Súmula n. 7 desta Corte Superior.
+2. Agravo regimental não provido."
+(AgRg no REsp 1376286/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/05/2017, DJe 11/05/2017).
+Ademais, quanto à insurgência em razão da inversão do ônus da prova, "não há falar em nulidade absoluta em razão de alegada ofensa ao disposto no artigo 156 do Código de Processo Penal, eis que, diante da apreensão da res furtiva em poder do paciente, caberia à defesa apresentar prova acerca da origem lícita do bem" (HC 348.374/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/03/2016, DJe 16/03/2016).
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
