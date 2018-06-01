@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado pela Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 308):
+AÇÃO ANULATÓRIA. DISSOLUÇÃO IRREGULAR. REDIRECIONAMENTO. ANULAÇÃO DOS ATOS EXPROPRIATÓRIOS. ART. 694 DO CPC.
+1. Demonstrado que o autor, à época da dissolução irregular, não mais integrava o quadro social, não é cabível o redirecionamento da execução fiscal contra ele.
+2. Incabível a anulação dos atos expropriatórios em ação ordinária, sendo caso de condenar a União a pagar o valor recebido como produto da arrematação ou, sendo ele inferior ao valor do bem, também a diferença correspondente, nos termos do art. 694, caput e § Io do CPC.
+Opostos embargos declaratórios, foram rejeitados (fls. 323/324).
+A parte recorrente aponta violação aos arts. 535, 2º, 128, 460, 515, 649, §2º, e 694, §2º, do CPC/73. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas; e (II) ocorreu julgamento extra petita em prejuízo à Fazenda Nacional, pois "o autor apenas requereu a anulação de todos os atos expropriatórios, sendo determinado pela sentença o desfazimento dos atos e a liberação da penhora principalmente porque ainda não homologada a arrematação e não expedida carta de arrematação" (fl. 337); e (III) "a arrematação ainda não foi perfectibilizada e a União ainda não dispõe do "produto da arrematação", pois existem apenas depósitos do arrematante nos autos, à disposição do juízo. Não há como condenar a União a ressarcir o executado se os valores ainda estão à disposição do juízo" (fl. 337).
+Contrarrazões apresentadas (fls. 345/347).
+É o relatório.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A pretensão recursal merece acolhida pelo art. 535 do CPC/73.
+Com efeito, na petição dos embargos de declaração, a recorrente aponta a omissão em relação: (I) a julgamento diverso do pedido do autor; (II) ao fato da arrematação não ter sido perfectibilizada e (III) os depósitos do arrematante estarem à disposição do juízo, nestes termos (fl. 317):
+Repita-se que o autor apenas requereu a anulação de todos os atos expropriatórios, sendo determinado pela sentença o desfazimento dos atos e a liberação da penhora principalmente porque ainda não homologada a arrematação e não expedida carta de arrematação.
+A arrematação ainda não foi perfectibilizada e a União ainda não dispõe do "produto da arrematação", pois existem apenas depósitos do arrematante nos autos, à disposição do juízo.
+Não há como condenar a União a ressarcir o executado se os valores ainda estão à disposição do juízo.
+Assim, também o próprio art. 694, § 2o do CPC, fundamento da decisão, restou violado pois prevê a devolução do " valor recebido pelo exequente como produto da arrematação", o que inocorre no caso.
+Contudo, no julgamento dos aclaratórios (fls. 323/325), a Corte local quedou-se silente sobre tais argumentações, rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 535 do CPC/73, porquanto não prestada a jurisdição de forma integral.
+Uma vez reconhecida a negativa de prestação jurisdicional, resta, por ora, prejudicada a análise das demais questões suscitadas no apelo raro.
+Ante o exposto, dou provimento ao recurso especial do Fazenda Nacional por violação do art. 535 do CPC/73, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos aludidos embargos de declaração.
+Publique-se.
