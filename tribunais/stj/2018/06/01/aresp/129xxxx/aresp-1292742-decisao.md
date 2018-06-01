@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. VALOR DO DANO MORAL. MAJORAÇÃO. IMPOSSIBILIDADE. VEDADO O REEXAME DAS PECULIARIDADES FÁTICAS DO CASO CONCRETO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por [NOME], com base no art. 105, III, a, da Constituição da República, desafiando acórdão assim ementado (e-STJ, fl. 243):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS - INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES - PEDIDO DE MAJORAÇÃO DO QUANTUM INDENIZATÓRIO - IMPOSSIBILIDADE - VALOR FIXADO COM RAZOABILIDADE E PROPORCIONALIDADE - PARTICULARIDADES DO CASO CONCRETO - INÚMERAS NEGATIVAÇÕES ILEGÍTIMAS EM DECORRÊNCIA DE ESTELIONATO - PROPOSITURA DE DIVERSAS AÇÕES JUDICIAIS - APELANTE QUE JÁ FOI BENEFICIADO COM QUANTIAS ELEVADAS A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS - SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+Nas razões do recurso especial, o recorrente alegou a violação dos arts. 186, 927 e 944 do Código Civil e 6º, VI, do CDC, requerendo, em síntese, a majoração do valor fixado a título de danos morais.
+Juízo de admissibilidade negativo, no Tribunal de origem (e-STJ, fls. 275-277), ante a incidência do enunciado n. 7 da Súmula do STJ.
+Irresignado, aduz o agravante que o reclamo merece trânsito, refutando o retrocitado óbice de admissibilidade (fls. 280-290, e-STJ).
+Brevemente relatado, decido.
+A insatisfação do recorrente limita-se ao montante da indenização por danos morais sofridos em virtude de indevida negativação de seu nome.
+Nesse aspecto, registre-se que a intervenção deste Superior Tribunal para alterar os valores fixados pelas instâncias ordinárias a título de reparação por danos morais apenas se justifica nas hipóteses em que estes se mostrem ínfimos ou exorbitantes.
+A propósito:
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO DECORRENTE DE MORTE DE MENOR EM CANTEIRO DE OBRA. OFENSA AO ARTIGO 535/CPC. INOBSERVÂNCIA. DEVER DE INDENIZAR. CONFIGURADO. REEXAME FÁTICO-PROBATÓRIO. DANOS MORAIS. REDUÇÃO. IMPOSSIBILIDADE.
+1. Observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+2. Verifica-se que o acolhimento da pretensão recursal, a fim de afastar o dever de indenizar, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+3. No que tange à pretendida redução do valor da indenização por danos morais, esta Corte de Justiça tem orientação firmada, no sentido de que a quantia arbitrada para a compensação dos danos morais somente pode ser revista quando exorbitante ou manifestamente irrisória. Importa ressaltar que o valor fixado a título de danos morais, qual seja, 100 salários mínimos, não escapa à razoabilidade, nem se distancia do bom senso e dos critérios recomendados pela doutrina e pela jurisprudência desta Corte.
+4. Recurso especial a que se nega provimento.
+(RECURSO ESPECIAL Nº 1.388.251 - SP, Relator Ministro LUIS FELIPE SALOMÃO, DJe 6/9/2016)
+Ao estabelecer a quantia da indenização, o Tribunal de Justiça do Estado do Paraná assim se manifestou (fls. 242-248, e- STJ):
+ ..
+Através de suas razões, o apelante pretende, apenas, a majoração do valor indenizatório arbitrado na sentença proferida.
+Considerando, então, a ausência de interposição de recurso pelo BANCO TRIÂNGULO S/A, é incontroverso nos autos que, em 11.04.2013, ele inscreveu o nome de [NOME] nos órgãos de restrição ao crédito por dívida não contraída, no valor de R$ 128,22 (vide fls. 29/30), o que ensejou a declaração judicial de inexistência do débito e a sua condenação a indenizar o apelante pelos danos morais suportados em decorrência da violação da sua honra objetiva.
+Em relação à valoração do dano moral, diante da notória dificuldade em arbitrar valores e da ausência de critérios legais objetivos para auxiliar o magistrado na sua fixação, a doutrina e a jurisprudência se pautam em certos parâmetros, a saber: as circunstâncias do caso concreto, a gravidade da conduta, o alcance da ofensa e a capacidade econômica do ofensor e do ofendido.
+Além disso, é certo que o valor da indenização deve atender aos princípios da proporcionalidade e razoabilidade, mostrando-se suficiente para compensar a vítima pelo dano sofrido e, ao mesmo tempo, para sancionar o causador do prejuízo e servir de desestímulo à repetição do ato ilícito, sem, contudo, acarretar em locupletamento indevido pelo ofendido.
+Com base nisso e levando em conta as peculiaridades do caso em questão, sobretudo a circunstância de que o apelante foi vítima de estelionato (fls. 28 - boletim de ocorrência) e, por isso, sofreu aproximadamente 30 (trinta) inscrições ilegítimas de seu nome em cadastros de inadimplentes, entendo que a quantia de R$ 5.000,00 fixada na sentença não merece majoração.
+Isso porque o apelado, em suas contrarrazões, juntou cópia de algumas decisões judiciais, demonstrando que o apelante obteve ganho de causa em outras ações que ajuizou, com procedência do pedido de indenização por dano moral nos seguintes valores:
+i) autos n. 0009692-64.2013.8.16.0028 - R$ 10.000,00 (o valor inicial de R$ 5.000,00 foi majorado no julgamento do recurso de apelação n. 1424185-9);
+ii) autos n. 0011199-60.2013.8.16.0028 - R$ 8.000 (o valor inicial de R$ 5.000,00 foi majorado no julgamento do recurso de apelação nQ 1471583-8);
+iii) autos n5 0009691-79.2013.8.16.0028 - R$ 4.000,00, mantido o valor indenizatório fixado na sentença, por ocasião do julgamento do recurso de apelação n. 1318884-8;
+Dessa forma, considerando, por um lado, a propositura de inúmeras demandas declaratórias com pedido indenizatório e, de outro, o fato de que o réu/apelado foi tão vítima de terceiros falsários quanto o autor/apelante, a indenização no valor de R$ 5.000,00 atende à finalidade compensatória e pedagógica da condenação, sendo razoável para inibir novas práticas ilícitas e, também, para minimizar os danos sofridos pelo apelante, sem gerar enriquecimento ilícito.
+ ..
+Por tais fundamentos, voto no sentido de que esta Corte NEGUE PROVIMENTO AO RECURSO DE APELAÇÃO, mantendo a sentença em sua integralidade.
+Na espécie, o valor indenizatório fixado em R$ 5.000,00 (cinco mil reais) pelo Tribunal de origem não pode ser considerado ínfimo, mormente porque aquela Corte, ao aplicar os princípios da razoabilidade e da proporcionalidade, levou em consideração as circunstâncias que envolvem o caso concreto, razão pela qual sua revisão implicaria no revolvimento do conjunto fático-probatório dos autos, medida defesa em recurso especial, por incidir a Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
