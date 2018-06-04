@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ASSOCIAÇÃO EVANGÉLICA BENEFICENTE DE LONDRINA contra decisão exarada pela il. 1ª Vice-Presidência do eg. Tribunal de Justiça do Estado do Paraná (TJ-PR), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de "ação de ressarcimento" promovida por INSTITUTO FILADÉLFIA DE LONDRINA em desfavor de ASSOCIAÇÃO EVANGÉLICA BENEFICENTE DE LONDRINA, cujo pedido foi julgado procedente, conforme sentença da qual se decalca o seguinte trecho (fls. 565-566):
+ "Em face do exposto julgo procedente o pedido do autor (CPC, art. 269, I, e, de conseqüência condeno a ré a pagar ao primeiro a quantia de R$32.503,24 (trinta e dois mil quinhentos e três reais e vinte quatro centavos), atualizada por correção monetária desde a data do ajuizamento da açao (22/12/2009 - fls.02) e juros de mora legais contados da citação."
+Diante disso, ASSOCIAÇÃO EVANGÉLICA BENEFICENTE DE LONDRINA interpôs apelação, a qual foi parcialmente provida pelo eg. TJ-PR, conforme v. acórdão assim ementado (fl. 606):
+"AÇÃO DE RESSARCIMENTO - DÉBITO ORIUNDO DE AÇÃO TRABALHISTA - CONDENAÇÃO SOLIDÁRIA DE AMBAS EMPRESAS NA JUSTIÇA TRABALHISTA - PAGAMENTO INTEGRAL POR UMA DELAS - POSSIBILIDADE DE EXIGIR A QUOTA PARTE DA OUTRA DEVE DORA SOLIDÁRIA - INTELIGÊNCIA DO ARTIGO 283 DO CÓDIGO DE PROCESSO CIVIL - PRESCRIÇÃO NÃO CONFIGURADA NO CASO DOS AUTOS - SUCUMBÊNCIA REDISTRIBUÍDA - RECURSO OE APELAÇÃO CÍVEL CONHECIDO E PARCIALMENTE PROVIDO".
+Opostos embargos de declaração, estes foram rejeitados (fls. 636-641).
+Inconformada, ASSOCIAÇÃO EVANGÉLICA BENEFICENTE DE LONDRINA manejou recurso especial, com arrimo no art. 105, III, "a", da Constituição Federal, no qual alega violação ao art. 206, § 3º, IV do Código Civil.
+Contrarrazões às fls. 653-659.
+Como dito, o apelo nobre foi inadmitido (fl. 665-667).
+Irresignada, ASSOCIAÇÃO EVANGÉLICA BENEFICENTE DE LONDRINA manejou o presente agravo em recurso especial (fls. 670-674), refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Sem contraminuta, a teor da certidão de fl. 676.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+A irresignação não merece prosperar.
+Nas razões recursais, sustenta a recorrente vulneração ao art. 206, § 3º, IV do Código Civil, em síntese, ao argumento de que a pretensão do autor, ora recorrido, de pleitear o ressarcimento relativo à dívida decorrente da ação trabalhista discutida nos autos prescreveu em 18/01/2009, vencidos os três anos de prazo previstos no precitado dispositivo legal, observado que a ação foi ajuizada em 22/12/2009.
+Por sua vez, o eg. TJ-PR asseverou que a recorrente não carreou aos autos documentos que comprovassem a obrigação de pagar consignada na sentença trabalhista, com exaurimento em 2006, para fins de aferição do mencionado ano como marco inicial de contagem do prazo prescricional. É o que se depreende da leitura do v. acórdão combatido:
+ "Entretanto,  a ré, ora recorrente  não trouxe documentos comprovando que a obrigação de pagar imposta pela sentença trabalhista se exauriu em 2006, ou seja, que a transferência se deu integralmente em 2006. Ao contrário. Os documentos de f. 150/162 (vara de origem; e 639/651 da vara trabalhista) demonstram a ocorrência de bloqueio de valores para complementação da importância devida também em 2008 (em 29/1/2008 e 27/03/2008)". (fl. 609)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, ora transcrito, acerca da documentação comprobatória apta a demarcar o início da fluência do prazo prescricional objurgado, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
