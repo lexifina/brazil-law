@@ -1,0 +1,27 @@
+DECISÃO
+ Trata-se de recurso especial interposto pelo BANCO ITAUCARD S.A., fundado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão assim ementado:
+PRESTAÇÃO DE CONTAS. PRIMEIRA FASE. CONTRATO DE CARTÃO DE CRÉDITO.
+APELO 1 (BANCO). 1. CONHECIMENTO DO RECURSO OBSERVÂNCIA AO PRINCÍPIO DA DIALETICIDADE. 2. DEVER DO BANCO DE PRESTAR CONTAS INDEPENDENTE DO FORNECIMENTO REGULAR DE EXTRATOS BANCÁRIOS. 3. INEXISTÊNCIA DE PEDIDO GENÉRICO NA INICIAL. 4. POSSIBILIDADE DE CUMULAÇÃO DE AÇÕES. 5. DILAÇÃO DO PRAZO. POSSIBILIDADE (30 DIAS). RECURSO PARCIALMENTE PROVIDO.
+APELO 2 (CORRENTISTA). 1. DECADÊNCIA (ART. 26 DO CDC). INAPLICABILIDADE AO CASO. DIREITO À PRESTAÇÃO DE CONTAS. 2. REFORMA DOS ÔNUS DE SUCUMBÊNCIA. RECURSO PROVIDO.
+Nas razões do recurso, o recorrente alega violação dos arts. 267, VI, e 914 do Código de Processo Civil de 1973 e 26, I, do Código de Defesa do Consumidor.
+Sustenta, em síntese: a) ausência de interesse de agir para pleitear prestação de contas sem impugnação específica dos lançamentos havidos nas faturas de cartão de crédito; e b) seja reconhecida a decadência do direito de exigir prestação de contas em relação aos débitos das tarifas, seguros, taxas e encargos, relativas ao período anterior aos 90 dias que antecederam a propositura da ação, com base no art. 26, I, do CDC.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Esta Corte já decidiu que o pedido de prestação de contas deve indicar a relação jurídica entre as partes, delimitar o período de apuração e apontar, fundamentadamente, os lançamentos que o autor entender duvidosos na hipótese em que receber extratos ou faturas do réu, sendo certo que, após a citação, não é possível a emenda da inicial, porquanto a alteração implicaria alteração do pedido e da causa de pedir, a par de que, na hipótese dos autos, o réu já apresentou contestação, estando o feito sentenciado.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. SENTENÇA CASSADA PARA EMENDA DA PETIÇÃO INICIAL. IMPOSSIBILIDADE. OFERECIMENTO DE CONTESTAÇÃO. INTELIGÊNCIA DO ART. 264 DO CPC/1973. PRESTAÇÃO DE CONTAS. REQUISITOS ESTABELECIDOS PELA JURISPRUDÊNCIA DO STJ. NÃO ATENDIMENTO. PEDIDO GENÉRICO. EXTINÇÃO DA AÇÃO POR FALTA DE INTERESSE DE AGIR. AGRAVO REGIMENTAL DESPROVIDO.
+1. A vedação de emenda da petição inicial após a citação, sem o consentimento do réu, somente incide nas hipóteses em que há alteração da causa de pedir ou do pedido, sendo possível nos casos em que a adição não implicar a referida modificação. Precedentes.
+2. Na hipótese, entretanto, a emenda da petição inicial modificaria tanto o pedido (período determinado em relação ao qual busca esclarecimentos o correntista) quanto a causa de pedir (os encargos que provocaram dúvida quanto à regularidade das cobranças), o que impede a autorização de tal providência.
+3. A Quarta Turma, no julgamento do AgRg no REsp 1.203.021/PR, sob a relatoria da eminente Ministra MARIA ISABEL GALLOTTI, assentou entendimento quanto às especificidades que compõem o pedido em ação de prestação de contas, dispondo acerca da necessidade de que se demonstre o vínculo jurídico entre autor e réu, a delimitação temporal do objeto da pretensão e os suficientes motivos pelos quais se busca a prestação de contas, para que esteja demonstrado o interesse de agir do autor da ação.
+4. Na espécie, constata-se que o autor não delimita no tempo o período que seria objeto da prestação de contas, tampouco aponta os lançamentos que considera indevidos, configurando, assim, pedido genérico.
+5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.554.906/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12.4.2016, DJe 22.4.2016).
+No caso vertente, a parte autora, no capítulo destinado ao pedido, sequer indica o período sobre o qual pretende a prestação de contas e não indica os lançamentos que entende duvidosos, requerendo os pleitos de forma genérica, o que revela inequívoca generalidade do pedido.
+Em relação à decadência, a pretensão encontra óbice no posicionamento desta Corte Superior, assim sedimentado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PRAZO DECADENCIAL. ART. 26 DO CÓDIGO DE DEFESA DO CONSUMIDOR. NÃO INCIDÊNCIA. RECURSO REPRESENTATIVO DA CONTROVÉRSIA.
+1. O art. 26 do Código de Defesa do Consumidor dispõe sobre o prazo decadencial para a reclamação por vícios em produtos ou serviços prestados ao consumidor, não sendo aplicável à ação de prestação de contas ajuizada pelo correntista com o escopo de obter esclarecimentos acerca da cobrança de taxas, tarifas e/ou encargos bancários.
+2. Julgamento afetado à Segunda Seção com base no procedimento estabelecido pela Lei nº 11.672/2008 (Lei dos Recursos Repetitivos) e pela Resolução/ STJ nº 8/2008.
+3. Recurso especial provido.
+(REsp 1.117.614/PR, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, DJe de 10.10.2011).
+Em face do exposto, dou provimento ao recurso especial para declarar a carência de ação, por ausência de interesse de agir. Invertidos os ônus de sucumbência, suspensa a sua exigibilidade em virtude dos benefícios da gratuidade de justiça concedidos ao recorrido na origem (fl. 87, e-STJ).
+Intimem-se.
