@@ -1,0 +1,27 @@
+DECISÃO
+LUIS AUGUSTO DIAS DA SILVA interpõe recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação n. 0096860-59.2013.8.26.0050.
+Depreende-se dos autos que o réu foi condenado à pena de 2 anos, 2 meses e 20 dias de reclusão, em regime aberto, e 16 dias-multa pela prática do crime previsto no art. 304, c/c o art. 298, ambos do Código Penal. A pena privativa de liberdade foi substituída por duas restritivas de direitos.
+O Tribunal de origem deu parcial provimento à apelação defensiva, a fim de "reduzir as penas do réu para 01 (um) ano, 01 (um) mês e 10 (dez) dias de reclusão, em regime aberto, e 10 (dez) dias-multa, no piso, mantendo-se, no mais, a r. sentença recorrida" (fl. 163).
+Nas razões do recurso especial, alega a defesa, além de divergência jurisprudencial, violação do art. 67 do Código Penal, ao argumento de que "a Terceira Seção do Colendo Superior Tribunal de Justiça assentou o entendimento, por maioria de votos, de que é possível se compensar a agravante da reincidência com a atenuante da confissão espontânea, uma vez que esta diz respeito à personalidade, circunstância esta que também é preponderante" (fl. 173).
+Requer o provimento do recurso, "de modo que a agravante da reincidência seja compensada com a atenuante da confissão" (fl. 178).
+Apresentadas as contrarrazões e admitido o recurso especial na origem, o Ministério Público Federal opinou pelo seu não provimento.
+Decido.
+O acórdão recorrido asseriu o seguinte (fls. 160-162, destaquei):
+Por tal razão, reconduz-se a pena-base do apelante ao piso legal, fixando-a em 01 (um) ano de reclusão e 10 (dez) dias-multa.
+Na segunda fase, incidiram a atenuante da confissão, dosada em 1/6 (um sexto), e a agravante da reincidência (fls. 13/15 do apenso), calibrada em 1/3 (um terço). Neste contexto, o pleito que pugna pela compensação tais circunstancias não procede.
+Embora não se desconheça o entendimento perfilhado pelo Superior Tribunal de Justiça, que entende por tal possibilidade, o preceptivo do art. 67 do Código Penal é expresso ao atribuir à reincidência, que denota o passado desabonador e a propensão à delinquência, preponderância frente a outras atenuantes, não sendo a confissão atributo relacionado à personalidade do agente.
+ ..
+A fração aplicada à recidiva, por certo, não representa nenhuma ilegalidade ou abusividade e está em consonância com a repressão expectável em relação a agente que demonstra iteratividade no mundo do crime, em desprestígio a normas basilares de convivência em comunidade.
+ ..
+Por tais razões, mantém-se o agravamento em 1/3 (um terço), conduzindo as penas a 01 (um) ano e 04 (quatro) meses de reclusão e 13 (treze) dias-multa; atenuando-as, em seguida, para alcançarem 01 (um) ano, 01 (um) mês e 10 (dez) dias de reclusão e 10 (dez) dias-multa.
+O réu, recalcitrante, foi beneficiado com a fixação do regime aberto, de sorte que não há de que se queixar.
+A pena corporal foi substituída por duas alternativas (prestação de serviços à comunidade e prestação pecuniária no valor de 03 salários mínimos a entidade assistencial), beneficiando-o também neste aspecto.
+Acerca do tema, no julgamento dos EREsp n. 1.154.752/RS e do Recurso Especial Representativo de Controvérsia n. 1.341.370/MT, a Terceira Seção deste Superior Tribunal fixou o entendimento de que, observadas as peculiaridades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal".
+Na espécie, destaco que as instâncias ordinárias se limitaram a registrar a reincidência do réu, sem indicar qualquer elemento que a jurisprudência desta Corte Superior entenda ser incompatível com a compensação, como o número de reiterações criminosas, razão por que o pleito do recorrente é procedente. Nesse contexto, observo que a folha de antecedentes (fls. 13-15 do Apenso 1) indica apenas uma condenação ainda não atingida pelo prazo depurador.
+Feitas essas considerações, passo a refazer a dosimetria.
+O Tribunal local fixou a pena-base do crime de uso de documento falso no patamar mínimo de 1 ano de reclusão e 10 dias-multa.
+Na segunda fase, compenso a confissão com a reincidência, ficando estabelecida a pena em 1 ano de reclusão e 10 dias-multa, reprimenda que torno definitiva, em razão da ausência de causas de aumento e de diminuição.
+As instâncias ordinárias, mesmo considerando "a existência de condenação caracterizadora da reincidência", preferiram fixar o regime aberto e aplicar o § 3º do art. 44 do CP: "Se o condenado for reincidente, o juiz poderá aplicar a substituição, desde que, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime".
+Como consectário da redução efetivada na pena do acusado, nos termos do art. 44, § 2º, do Código Penal, caberá ao Juízo das Execuções estabelecer como se dará a substituição da pena privativa de liberdade (por multa ou por uma pena restritiva de direitos).
+À vista do exposto, com fundamento no art. 932, V, "b", do CPC, c/c o art. 34, XVIII, "c", do RISTJ, dou provimento ao recurso especial, a fim de reduzir a pena do recorrente para 1 ano de reclusão e 10 dias-multa. Caberá ao Juízo das Execuções Criminais a escolha entre substituir a pena privativa de liberdade por restritiva de direitos ou por pena de multa.
+Publique-se e intimem-se.
