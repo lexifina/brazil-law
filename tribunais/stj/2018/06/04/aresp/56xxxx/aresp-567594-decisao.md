@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão, exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu seu recurso especial.
+Historiam os autos que [NOME] ajuizou "ação indenizatória" (fls. 04-13) em desfavor de COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO, cujo pedido foi julgado improcedente, conforme sentença às fls. 76-78.
+Diante disso, [NOME] manejou apelação (fls. 87-100), que foi desprovida pelo eg. TJ-SP, conforme v. acórdão assim ementado (fls. 124):
+"Ementa: Ação de indenização por danos morais, movida por morador de rua contra alegado funcionário da ré, por agressões físicas. Em primeiro grau, decisão de improcedência.
+Preliminar. Decisão proferida que preenche todos os requisitos do artigo 458, do Código de Processo Civil. Todos os fundamentos relevantes da lide foram abordados. Não há nulidade da sentença ou do procedimento.
+Mérito. Ausência de comprovação dos fatos alegados pelo autor. Inteligência do artigo 333, inciso I, do Código de Processo Civil.
+Dano moral não configurado. Reparação indevida. Sentença devidamente fundamentada. Motivação do decisório adotada como julgamento em segundo grau. Inteligência do art. 252 do RITJ.
+Preliminar rejeitada. Recurso não provido."
+Inconformado, [NOME] interpôs recurso especial, com arrimo na alínea "a" do permissivo constitucional, alegando ofensa ao art. 348 do CPC/73 e aos arts. 932, 933, 942 e 1.178 do Código Civil afirmando que "(..) apesar de o Recorrente apresentar todos os documentos que comprovam a agressão e de quem partiu a mesma, e a Recorrida se defender com alegações apócrifas, as decisões alegam que cabia ao Recorrente comprovar os fatos, sendo que o apresentado pela Recorrida sem nenhuma comprovação ou justificativa, acabou sendo aceito como válido e lícito, mesmo com os esclarecimentos apresentados na Réplica, o que não faz sentido" (fls. 147).
+Intimada, COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO apresentou contrarrazões (fls. 158-164), pugnando pelo desprovimento do recurso.
+Como dito, o recurso foi inadmitido (decisão às fls. 166-167), motivando o manejo do presente agravo em recurso especial (fls. 170-173).
+Também foi oferecida contraminuta (fls. 176-182), pugnando pelo desprovimento do agravo.
+É o relatório. Passo a decidir.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+A irresignação não merece prosperar.
+Como sabido, o prequestionamento é requisito de admissibilidade do apelo especial, uma vez que compete ao eg. STJ julgar, em sede de recurso especial, conforme dicção do art. 105, III, da Carta Magna, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+Na espécie, tem-se que o conteúdo normativo do art. 348 do CPC/73 e dos arts. 942 e 1.178 do Código Civil não foram apreciados pelo eg. TJ-SP, acarretando a ausência de prequestionamento desses dispositivos legais. Impende salientar, ainda, que não foram opostos embargos de declaração para fins de prequestionar essas normas. Nesse diapasão, nessa parte o apelo nobre não merece conhecimento, em face da incidência, por analogia, do óbice das Súmulas n. 282 e n. 356 do STF. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282 E 356/STF. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+(..)
+3. Agravo interno não provido."
+(AgInt no AREsp 1208802/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/04/2018, DJe 20/04/2018 - grifou-se)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE CONTRATO CUMULADA COM INDENIZAÇÃO. ARTS. 6º DA LEI DE INTRODUÇÃO ÀS NORMAS DO DIREITO BRASILEIRO E 4º, PARÁGRAFO ÚNICO, DA LEI N. 8.955/94. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. CONTRATO DE FRANQUIA. RESCISÃO. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ.
+1. A ausência de prequestionamento de dispositivos legais tidos por violados impede o conhecimento do recurso especial. Incidem as Súmulas n. 282 e 356 do STF.
+(..)
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 234.398/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/04/2018, DJe 16/04/2018 - grifou-se)
+Melhor sorte não socorre ao recorrente no que pertine à ofensa aos arts. 932, 933 e 1.178 do Código Civil. Com efeito, apontando violação a tais normas, pretende o recorrente a reforma do v. acórdão estadual para reconhecer o direito a indenização por danos morais decorrentes das agressão física que teria sofrido por funcionário da recorrida, nas imediações da "Loja Pão de Açucar da Rua Pedroso na Bela Vista", na cidade de São Paulo/SP.
+Por sua vez, o eg. TJ-SP, soberano na análise do acervo fático-probatório carreado aos autos, concluiu que o recorrente, apesar de requerer o julgamento antecipado da lide, não fez prova de vínculo empregatício ou de prestação de serviços do agressor com a ora recorrida, o que inviabiliza a aplicação do art. 932, III, do CPC/73. A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fls. 125-126):
+"Consigna-se que a r. sentença bem apreciou a matéria aqui debatida como se evidência:
+".. O feito comporta julgamento no estado (art. 330, I, do Código de Processo Civil), assinalando-se que tal providência foi requerida pelo próprio autor (fls. 67) a quem incumbia o ônus da prova dos fatos constitutivos do direito alegado, ao passo que a demanda envolve direito patrimonial disponível, de sorte que não cabe a iniciativa probatória do julgador.
+..
+O autor fundamenta a sua pretensão no alegado vínculo de emprego entre o causador do dano e a ré. Sucede que esta juntou documentos em sua contestação - não impugnados de modo específico na réplica - demonstrando que a relação de preposição se dá com terceiro.
+Portanto, descarta-se à hipótese de responsabilidade civil por ato de terceiro, prevista no art. 932, III, do Código Civil, lembrando-se que não há na causa petendi exposta na petição inicial, a imputação de culpa in elegendo da ré pela má escolha da empresa prestadora dos serviços de estacionamento e segurança.
+Some-se a isso a lícita cláusula contratual do instrumento juntado a fls. 42/44, que exclui a responsabilidade civil da ré pelos danos causados a terceiros pelos empregados da prestadora de serviço.."
+
+A tais razões de decidir acrescente-se que a questão posta nos autos se resolve, pela aplicação da regra ido artigo 333, inciso I, do Código de Processo Civil. O legislador estabeleceu certas e determinadas regras de julgamento, visando evitar que a distribuição do ônus da prova fícasse a exclusivo arbítrio do julgador. Nessas condições, "as regras sobre ônus da prova implicam verdadeira "distribuição de riscos" entre os litigantes, quanto "mau êxito da prova", constituindo sua aplicação, "em certo sentido, como elemento de motivação, um sucedâneo da prova faliante" (José Carlos Barbosa Moreira, "Julgamento e ônus da Prova", págs. 75 e 81).
+(..)
+ Relativamente às questões postas nestes autos, é obrigação do autor a prova dos fatos alegados na petição inicial. No caso presente, o autor requereu expressamente o julgamento antecipado da lide, satisfeito com as provas então existentes nos autos. No entanto, tais documentos são insuficientes para a prova de fato essencial: relação de emprego com a ré ou mesmo prestação de serviços do autor em favor da ré. Sem tais provas, não há que se falar na aplicação do artigo 932, inciso III, CPC. Em suma: não há prova de culpa e conseqüente responsabilidade civil da ré." (grifou-se)
+Nesse cenário, a pretensão posta no apelo nobre demandaria o revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, conforme preconiza a Súmula n. 7/STJ.
+Nesse panorama, conclui-se que o presente apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
