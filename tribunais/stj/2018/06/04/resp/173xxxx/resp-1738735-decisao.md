@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. FORNECIMENTO DE ENERGIA ELÉTRICA. IRREGULARIDADE NA COBRANÇA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. VIOLAÇÃO À RESOLUÇÃO DA ANEEL. NÃO CABIMENTO. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fulcro na alínea "a" e "c" do permissivo constitucional, contra acórdão do TJPR, assim ementado (fl. 176):
+APELAÇÃO CÍVEL I E 2 - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E PATRIMONIAIS, MEDIDA CAUTELAR INCIDENTAL E AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE CRÉDITO E INEXISTÊNCIA DE DÉBITO JULGADAS CONJUNTAMENTE EM PRIMEIRO GRAU - DISCUSSÃO DE CONTRATO DE FORNECIMENTO DE ENERGIA ELÉTRICA - APRECIAÇÃO DE REGULARIDADE DE COBRANÇA E CONSEQÜENTE LEGALIDADE DE PROTESTO DE TITULO DECORRE NECESSARIAMENTE DA ANÁLISE DO CONTRATO DE PRESTAÇÃO DE SERVIÇO - MATÉRIAS DISCUTIDAS NOS RECURSOS QUE NÃO SE ENQUADRAM DENTRE AQUELAS DE COMPETÊNCIA DESTA CÂMARA - FEITO QUE DEVE SER REMETIDO À DÉCIMA PRIMEIRA E DÉCIMA SEGUNDA CÂMARAS C%VE/S NOS TERMOS DO ARTIGO 90, INCISO ALINEA "G"; DO REGIMENTO INTERNO DESTE TRIBUNAL -RECURSOS NÃO CONHECIDOS
+Os embargos de declaração foram rejeitados.
+No apelo especial, a recorrente discorre acerca da divergência de entendimento de Tribunal Superior quanto à inércia da concessionária ao deixar de verificar mensalmente a discrepância no consumo registrado pelo medidor de energia, bem como acerca da necessidade da comprovação da autoria da fraude.
+Em seguida, suscita ofensa ao art. 5º, LV, da CF, eis que não foi assegurado no caso dos autos o contraditório e a ampla defesa.
+Por fim, aponta que a Resolução Normativa da ANEEL prevê expressamente que o consumidor deve ser comunicado quanto à realização da perícia, contudo, não houve notificação quanto à data, sendo a perícia realizada de forma unilateral pela recorrida, tendo a recorrente conhecimento da realização de tais atos quando recebeu notificação para realizar o pagamento do montante apurado unilateralmente pela concessionária de energia. Para tanto, cita violação aos arts. 129 e 137, §7º, da Resolução Normativa nº 414/2010 da ANEEL.
+Juízo positivo de admissibilidade às fls. 362.
+É o relatório. Passo a decidir.
+O recurso não merece prosperar.
+Inicialmente, nos termos do art. 105, inciso III, da Constituição da República, o recurso especial é destinado tão somente à uniformização da interpretação do direito federal, não sendo, assim, a via adequada para a análise de eventual ofensa a dispositivos constitucionais, cuja competência pertence ao Supremo Tribunal Federal. Por tal motivo, não se conhece do apelo especial no tocante à alegação de violação do artigo 5º da CF/88.
+No que pertine a irresignação acerca da divergência de entendimento, a jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente, configura deficiência na fundamentação recursal a impedir o conhecimento do apelo nobre interposto com fundamento na alínea "c" do artigo 105, III, da Constituição Federal. Incidência da Súmula 284/STF, no caso dos autos.
+Por fim, também incabível verificar suposta violação à dispositivo da Resolução nº 414/2010 da ANEEL, que não é apta a ensejar recurso especial, por não se enquadrar no conceito de lei federal.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
