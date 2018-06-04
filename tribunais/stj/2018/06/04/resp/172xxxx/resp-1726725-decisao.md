@@ -1,0 +1,26 @@
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. OMISSÃO DA ADMINISTRAÇÃO. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 238):
+ADMINISTRATIVO. ACIDENTE DE TRÂNSITO. OMISSÃO DA ADMINISTRAÇÃO. RESPONSABILIDADE SUBJETIVA. TEORIA DA CULPA DO SERVIÇO. OMISSÃO. NÃO COMPROVAÇÃO.
+1. Trata-se de pedido indenizatório em face de acidente automobilístico que resultou na morte do cônjuge da parte autora, sob alegação de omissão da Administração na sinalização da rodovia.
+2. Em se tratando de atos omissivos, impõe-se a aplicação da responsabilidade subjetiva, pela adoção da teoria da culpa do serviço ou falta do serviço, a denominada entre os franceses. Trata-se faute du service de situação em que se verifica o não funcionamento do serviço público, seu funcionamento insatisfatório ou atrasado. Nessas situações, não se mostra suficiente a mera comprovação entre o dano e o nexo causal, sendo indispensável, ainda, a presença do elemento subjetivo, dolo ou culpa, essa última em qualquer de suas modalidades, imprudência, negligência ou imperícia.
+3. , não houve a juntada de Boletim de Acidente de Trãnsito ou perícia oficial do local do acidente, in casu a fim de se verificar a ausência de sinalização e o local exato onde o condutor teria se desequilibrado do veículo (motocicleta). O boletim de ocorrência feito perante a polícia Civil não serve de prova, uma vez que foi confeccionado exclusivamente com declarações de parente da vítima, sendo certo que as fotografias juntadas pela autora não estão datadas e contrastam com aquelas apresentadas pelo DNIT, devidamente datadas, nas quais resta demonstrada a presença de placa de sinalização.
+4. Saliente-se que consta nos autos notícia do acidente divulgado em site de notícias local, onde há a informação da presença de sinalização vertical na lombada. Ademais, a vítima conhecia o local, tendo passado pela lombada no mesmo dia, pois teria ido deixar um amigo em município vizinho, ocorrendo o acidente em seu retorno.
+5. Apelação desprovida.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 1º, § 3º e 88 da Lei nº 9.503/1997 e dissídio jurisprudencial, sob os seguintes argumentos:
+(a) As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa;
+(b) "As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa" (fl. 340);
+(c) Requer a majoração da quantia arbitrada a título de danos morais para 500 (quinhentos) salários mínimos, bem como a condenação do ora recorrido ao pagamento de pensão previdenciária vitalícia aos herdeiros da vítima, tendo em vista a possibilidade de sua cumulação com pensionamento de natureza civil.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 385/386.
+É o relatório. Passo a decidir.
+Aplica-se a Súmula 284/STF quanto à alegada violação dos arts. 1º, § 3º e 88 da Lei nº 9.503/1997, tendo em vista que não desenvolveu a parte recorrente argumentos para demonstrar de que modo tais dispositivos foram ofendidos.
+No que diz respeito à responsabilidade estatal pelo acidente que vitimou [NOME], a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que (fl. 236):
+"Está comprovado que [NOME] sofreu acidente na BR 405, nas proximidades da comunidade Fazenda Nova, Município de Major Sales/RN, vindo a óbito dias após o acidente. Ocorre que, das provas dos autos, não é possível concluir se o acidente ocorreu especificamente em razão de omissão do réu, pois não há prova de que o condutor perdeu o controle da motocicleta quando atravessava uma lombada em virtude de suposta ausência de sinalização".
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+O dissídio jurisprudencial não foi demonstrado nos moldes estabelecidos nos artigos 541, parágrafo único, do CPC/1973 e 255, §§ 1º e 2º do RISTJ, pois não realizado o devido cotejo analítico. Imprescindível a apresentação objetiva do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como suficiente, a simples transcrição de ementa ou voto.
+Ante o exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, observado, se for o caso, o benefício da assistência judiciária gratuita, nos termos do art. 98, § 3º, do CPC/15".
+Publique-se. Intimem-se.
