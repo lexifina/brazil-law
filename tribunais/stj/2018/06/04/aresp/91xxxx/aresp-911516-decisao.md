@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo interposto por SUPERPESA CIA DE TRANSPORTES ESPECIAIS E INTERMODAIS EM RECUPERAÇÃO JUDICIAL, inconformada com a decisão que inadmitiu o recurso especial contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo e assim ementado:
+AÇÃO DE RESSARCIMENTO. Contribuições previdenciárias. Parcelamento concedido à agravada. Benefício que não alcança a agravante. Cumprimento de sentença. Juros e correção monetária. Termo a quo.
+1. O parcelamento das contribuições previdenciárias é um benefício da legislação de regência para aquele que se dispôs a pagar e não alcança o reembolso por falta de amparo legal.
+2. Valor cobrado na ação de ressarcimento que deve ser corrigido monetariamente a partir do ajuizamento e acrescido de juros de mora da citação.
+3. Manutenção do julgado por seus próprios fundamentos, por força do art. 252 do Regimento Internodeste Egrégio Tribunal de Justiça.
+Recurso não provido.
+Nas razões do recurso especial, a ora agravante aponta afronta ao artigo 884 do Código Civil, ao argumento de que, se a Codesp parcelou seus débitos em um determinado número de parcelas, em cada parcela há de ser considerada incidente parte dos débitos dela e parte dos débitos da Superpesa para fins de calcular os juros e a correção monetária. Nessa linha, defende que "o prosseguimento do cumprimento de sentença, portanto, demanda a apresentação pela Codesp do pagamento de cada uma das parcelas da confissão, com a respectiva data de seus desembolsos e correlação com a confissão juntada aos autos,sob pena de enriquecimento sem causa" (fl. 479).
+É o relatório.
+No que diz respeito à alegada ofensa ao artigo 884 do Código Civil, cumpre observar que, para a configuração de prequestionamento da matéria devolvida ao Superior Tribunal de Justiça, faz-se necessário que haja efetiva discussão a respeito do conteúdo do artigo tido por desrespeitado.
+No caso, o tribunal local, mesmo após a oposição de embargos de declaração, não emitiu juízo acerca do conteúdo do artigo apontado como violado.
+Cabia, então, à parte apontar, no recurso especial, ofensa ao art. 535 do CPC/1973 - o que aqui não ocorreu, de modo que inafastável subsiste o Enunciado Sumular 211/STJ. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO OPOSTOS NO TRIBUNAL DE ORIGEM, SOB A PREMISSA DE QUE AS MATÉRIAS EMBARGADAS NÃO HAVIAM SIDO DECIDIDAS. REJEIÇÃO DOS EMBARGOS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. HONORÁRIOS. EQUIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Incide a Súmula 211 desta Corte diante da ausência de prequestionamento das teses defendidas no recurso especial, envolvendo os dispositivos legais supostamente violados, apesar de opostos embargos de declaração.
+2. Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+3. Havendo omissão, cabe à parte, no recurso especial, alegar ofensa ao art. 535, II do CPC, demonstrando, objetivamente, a imprescindibilidade da manifestação sobre a matéria impugnada e em que consistiria o vício apontado. Não o fazendo, incide, da mesma forma, nas disposições da Súmula 211/STJ, pois não basta a alegação genérica de violação ao dispositivo da Lei Processual.
+4. "A fixação da verba honorária pelo critério da eqüidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, ante o óbice da Súmula 7." (AgRg no Edecl. no REsp 641.240).
+5. Agravo regimental improvido (AgRg no Ag 723.601/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/09/2008, DJe 06/10/2008).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 794, I, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. OMISSÃO. NÃO INTERPOSIÇÃO DE OFENSA AO ART. 535 DO CPC. ENUNCIADO 211 DA SÚMULA DO STJ. APLICAÇÃO DE JUROS SOBRE JUROS. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não tendo havido o prequestionamento do tema posto em debate nas razões do recurso especial e não tendo sido apontada ofensa ao art. 535 do CPC, incidente o enunciado 211 da Súmula do STJ.
+2. O Tribunal de origem concluiu pela não aplicação de juros sobre juros e a revisão do entendimento adotado esbarra no óbice do enunciado 7 da Súmula/STJ.
+3. Agravo regimental a que se nega provimento (AgRg no AREsp 531.031/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/09/2014, DJe 30/09/2014).
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
