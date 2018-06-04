@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno interposto em face da decisão de fls. 920-922/e-STJ.
+Reputo relevantes as alegações da ora agravante, motivo pelo qual reconsidero a decisão agravada, tornando-a sem efeito, e passo a nova análise do recurso.
+Trata-se de agravo interposto por SIMPER Sistemas e Revestimentos Anticorrosivos Ltda. (SIMPER) contra decisão que negou seguimento a recurso especial que impugnava acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATOS DE REPRESENTAÇÃO COMERCIAL E DISTRIBUIÇÃO.
+JUÍZO DE ADMISSIBILIDADE. APELO QUE ATACA A DIFERENÇA DAS COMISSÕES E MATÉRIA VENTILADA NA RECONVENÇÃO. AUSÊNCIA DE INTERESSE RECURSAL. SENTENÇA QUE ACOLHEU A TESE DE DIFERENÇA NAS COMISSÕES E JULGOU IMPROCEDENTE O PEDIDO RECONVENCIONAL. RECURSO NÃO CONHECIDO NESTE PARTICULAR.
+AGRAVO RETIDO. INTEMPESTIVIDADE. DESPACHO SANEADOR QUE INDEFERIU TACITAMENTE A PROVA TÉCNICA NÃO FOI ATACADO POR RECURSO CABÍVEL.
+MÉRITO. AÇÃO INDENIZATÓRIA. CONTRATOS DE DISTRIBUIÇÃO FORMALIZADOS. DUPLICATAS ATINENTE A COMPRA DAS MERCADORIAS PELA APELANTE INADIMPLIDAS. CLÁUSULAS CONTRATUAIS QUE PERMITEM A RESCISÃO EM RAZÃO DA INADIMPLÊNCIA SUPERIOR A TRINTA DIAS. SUPOSTO DISTRATO VERBAL NÃO COMPROVADO. ÔNUS PROBATÓRIO QUE RECAIU SOBRE A APELANTE. INTELIGÊNCIA DO ART. 333, INCISO I, CPC. DÍVIDA EXISTENTE E COMPROVADA. RESCISÃO UNILATERAL MOTIVADA. PLEITOS INDENIZATÓRIOS INDEVIDOS. RESPONSABILIDADE CONTRATUAL ATRIBUÍDA À APELANTE. ART. 389 DO CÓDIGO CIVIL.
+MÉRITO. AÇÃO CAUTELAR. DUPLICATAS ORIGINÁRIAS DA COMPRA DE MERCADORIAS EM CONTRATOS DE DISTRIBUIÇÃO. PROTESTO LEGÍTIMO. DÍVIDA EVIDENCIADA. SUPOSTO DISTRATO VERBAL NÃO COMPROVADO. ATO NOTARIAL LEGÍTIMO.
+RECURSO ADESIVO.
+MÉRITO. AÇÃO INDENIZATÓRIA. CONTRATOS DE REPRESENTAÇÃO COMERCIAL. DIFERENÇA NO PAGAMENTO DAS COMISSÕES. AUSÊNCIA DE PROVAS DE QUE O PAGAMENTO FOI INTEGRALMENTE EFETIVADO. ÔNUS QUE RECAIU SOBRE A RECORRENTE/REPRESENTADA.
+ "O ônus da prova do pagamento das comissões recai sobre a empresa representada." (Apelação cível n. 2008.024716-9, de Blumenau. Relator: Jânio Machado)
+MÉRITO. RECONVENÇÃO. CONTRATO DE COMODATO VINCULADO AOS DE DISTRIBUIÇÃO. ALEGADA DEVOLUÇÃO DOS EQUIPAMENTOS DANIFICADOS. AUSÊNCIA DE PROVA. ÔNUS QUE RECAI SOBRE A RECONVINTE.
+Para ver a sua pretensão atendida, tem o reconvinte o ônus processual de demonstrar a veracidade de seus articulados, comprovando satisfatoriamente os argumentos fáticos e jurídicos trazidos à baila na reconvenção, pois, segundo exegese do artigo 333, I, do Código de Processo Civil, incumbe-lhe a prova dos fatos constitutivos do seu direito. (Apelação Cível n. 2008.040227-7, de Orleans. Relator: Des. Joel Dias Figueira Júnior).
+Recursos desprovidos.
+Opostos embargos de declaração, foram rejeitados, com aplicação de multa.
+Nas razões de recurso especial, alega a ora agravante violação aos arts. 5º e 93 da Constituição Federal; e 130, 465, 420, 458, 463, 535 e 538 do Código de Processo Civil de 1973, além de divergência jurisprudencial.
+A decisão agravada foi publicada antes da entrada em vigor da Lei 13.105/2015, que se deu em 18.3.2016, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Pois bem.
+De início, anoto que a análise de suposta violação a artigos da Constituição é inviável em sede de recurso especial, sendo reservada ao Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Constituição Federal, nos termos da iterativa jurisprudência desta Corte (cf. AgInt no AREsp 1054632/DF, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12.9.2017, DJe 21.9.2017).
+Depois, anoto que a apontada violação do artigo 535 do Código de Processo Civil de 1973 deve ser afastada, na medida em que o Tribunal de origem, ainda que contrariamente aos interesses da recorrente, proferiu decisão suficientemente fundamentada, justificando a preclusão da oportunidade para impugnar o indeferimento tácito da produção da prova pericial, devendo-se aplicar a orientação do Superior Tribunal de Justiça no sentido de que "não viola o art. 535 do Código de Processo Civil, tampouco nega a prestação jurisdicional, o acórdão que adota fundamentação suficiente para decidir de modo integral a controvérsia" (REsp 1.111.175/SP, Primeira Seção, Relatora Ministra Denise Arruda, DJe 1º.7.2009). É o que se depreende dos seguintes fundamentos do acórdão recorrido (fls. 689-691/e-STJ):
+Como preliminar do recurso de Apelação Cível, sustentou a apelante a apreciação do Agravo Retido manejado às fls. 234/235.
+No curso da demanda em epígrafe, a empresa apelante, por meio do petitório de fls. 219/221, pugnou pela realização da prova pericial, qual restou indeferida pelo juízo a quo na interlocutória de fls. 222/223.
+Como fundamento para a a reforma da decisão agravada, asseverou ser imprescindível a realização da prova técnica, a ausência de interferência no transcurso da ação e a ausência de encerramento da fase instrutória.
+Não pairam dúvidas que ao autor, quando da formulação da pretensão inaugural, além de outros requisitos, deve indicar as provas que pretende produzir para demonstrar a verdade dos fatos alegados (art. 282, inciso VI, CPC), permitindo-se para tanto, todos os meios legais e moralmente legítimos ainda que não consubstanciados na legislação processual (art. 332, CPC),
+Na espécie, visando corroborar como todo o arcabouço fático reportado na causa de pedir, a empresa apelante, então autora, sustentou interesse na " ..  produção de todos as provas em direito admitidas, notadamente o depoimento pessoal do representante legal da Requerida, oitiva de testemunhas e perícia,  .. " (fl. 31).
+O douto magistrado singular, atendendo as exigências legais esculpidas no art. 331 e art. 332, ambos do CPC, exarou despacho saneador (fl. 160) que, além de relegar a apreciação da preliminar aventada em contestação à reconvenção, deferiu apenas a produção de prova testemunhai e depoimentos pessoais, designando, para tanto, audiência de instrução e julgamento.
+Destaca-se que a apelante, intimada para a apresentação do rol de testemunhas, silenciou acerca da reiteração na produção da prova técnica (petição de fls. 165/166).
+Desta forma, não é crível admitir, em processo judicial, que a parte autora, pautada necessidade indubitável da prova técnica, deixe fluir in albis os prazos processuais para irresignação do indeferimento tácito praticado pelo juízo a quo.
+Portanto, como bem anotou a decisão interlocutória, o pedido de produção de prova técnica alocado às fls. 219/221 é inquestionavelmente intempestivo, pois competiria a parte, a partir da intimação do despacho saneador, manejar o competente agravo retido.
+Rever tal entendimento, ademais, demandaria o reexame de matéria de fato, o que é vedado pela Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE NULIDADE DE DOAÇÃO C.C. REPARAÇÃO DE DANOS MATERIAIS E MORAIS. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. PRECLUSÃO. OFENSA AO PRINCÍPIO DO JUIZ NATURAL. INOCORRÊNCIA. SÚMULAS NºS 83 E 283 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A alegação de cerceamento de defesa decorrente do julgamento antecipado da lide não procede quando a parte deixa de interpor o recurso cabível contra o despacho saneador que indeferiu a produção de provas, por força da preclusão temporal. Precedentes.
+2. Não se qualifica como prova o pedido de depoimento pessoal da parte para fins de conciliação.
+3. Não há ofensa ao princípio do juiz natural se não houve a produção de provas em audiência e a decisão do magistrado substituto se baseou exclusivamente em prova documental.
+4. Agravo regimental não provido.
+(AgRg no REsp 1512244/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 01/09/2015, DJe 10/09/2015)
+Em um ponto, no entanto, assiste razão à agravante.
+É que este STJ sumulou a orientação no sentido de que "embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório" (Súmula 98).
+Em face do exposto, conheço do agravo de fls. 836-842/e-STJ e dou parcial provimento ao recurso especial interposto por SIMPER, apenas para afastar a multa do artigo 538, parágrafo único, do Código de Processo Civil de 1973.
+Intimem-se.
