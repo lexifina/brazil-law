@@ -1,0 +1,62 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. ALEGADA OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURAÇÃO. AUSÊNCIA DE OMISSÃO. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. LUCROS CESSANTES. PRESUNÇÃO DOS PREJUÍZOS SOFRIDOS PELO PROMITENTE COMPRADOR. ACÓRDÃO RECORRIDO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. RECURSO ESPECIAL PROVIDO. HONORÁRIOS RECURSAIS (ART. 85, §11, CPC/2015).
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMBARGOS INFRINGENTES - ACORDÃO NÃO UNANIME - REFORMA EM GRAU DE APELAÇÃO - SENTENÇA DE MÉRITO - LUCROS CESSANTES - NÃO COMPROVAÇÃO - IMPROCEDÊNCIA.
+- "Lucros cessantes" é uma expressão utilizada para distinguir os lucros de que alguém foi privado, e que deveriam ter vindo ao patrimônio desta pessoa e não vieram em virtude de impedimento decorrente de fato ou ato, não acontecido ou não praticado por vontade desta pessoa.
+- Os "lucros cessantes" devem ser cabalmente demonstrado dos autos, não podendo ser presumidos, de forma que não tendo conseguido demonstrar o fato, a improcedência é medida que se impõe." (e-STJ fl. 274)
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 297-302).
+Em suas razões, o recorrente alega a violação dos arts. 489, § 1º, incisos III, IV e V, e 1.022, inciso II, do Código de Processo Civil de 2015, bem como a existência de dissídio jurisprudencial, ao argumento, em síntese, de que houve a configuração de negativa de prestação jurisdicional e de que "há lucros cessantes presumidos na hipótese de descumprimento contratual derivado de atraso de entrega do imóvel" (e-STJ fl. 319).
+Contrarrazões às fls. 346-352 (e-STJ).
+É o relatório.
+Passo a decidir.
+Inicialmente, a irresignação não merece acolhida quanto à alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, pois não se vislumbra a suposta omissão.
+Ocorre que, no acórdão recorrido, assim se manifestou o Tribunal de origem acerca da controvérsia:
+"No mérito, cinge-se a controvérsia recursal sobre a existência ou não de lucros cessantes devidos ao autor/embargado no caso em apreço.
+Assim como os danos emergentes, o deferimento de verba a título de lucros cessantes, que não se presumem nem podem ser imaginários, depende da prova da existência do dano efetivo.
+"Lucros cessantes" é uma expressão utilizada para distinguir os lucros de que alguém foi privado, e que deveriam ter vindo ao patrimônio desta pessoa e não vieram em virtude de impedimento decorrente de fato ou ato, não acontecido ou não praticado por vontade desta pessoa. São os ganhos que eram certos ou próprios ao nosso direito, que foram frustrados por ato alheio ou fato de outrem.
+ ..
+No caso em apreço, verifica-se, como bem se manifestou o em. Desembargador em seu voto minoritário, que não restou comprovado a qualquer momento, o que a parte deixou de lucrar, de forma que não há o que se acolher neste sentido.
+Diante do exposto, sem mais delongas, é de se reconhecer que acaso a parte houvesse provado a existência do prejuízo em relação a lucros cessantes até poder-se-ia considerar a sua indenização, fato que não pode simplesmente ser presumido." (e-STJ fls. 275-276)
+Da análise do excerto acima transcrito, verifica-se que a Corte estadual expôs adequadamente os fundamentos pelos quais concluiu pela impossibilidade de condenação ao pagamento dos lucros cessantes na espécie, destacando o seu entendimento de que estes devem ser comprovados, e não presumidos.
+Com efeito, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp 1070607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/08/2017, DJe 25/08/2017, g.n.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL. ATRASO NA ENTREGA. ART. 1.022 DO CPC. AUSÊNCIA DE OMISSÕES. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. LUCROS CESSANTES. CABIMENTO. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE PROVAS. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela alegada violação art. 1.022 do Novo CPC. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.  ..  4. Agravo interno não provido. (AgInt no AREsp 1075056/MA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/08/2017, DJe 18/08/2017, g.n.)
+Por outro lado, a irresignação recursal merece acolhida quanto à configuração dos lucros cessantes.
+Isso porque o Tribunal de origem decidiu em confronto com o entendimento pacificado desta Corte Superior de que a ausência da entrega do imóvel na data acordada acarreta o pagamento de indenização por lucros cessantes, havendo presunção do prejuízo do consumidor, que, portanto, não precisa ser demonstrado.
+Sobre o tema, confiram-se os seguintes julgados:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. ATRASO NA ENTREGA DA OBRA. LUCROS CESSANTES. CABIMENTO. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 282/STF).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu pela ausência de caso fortuito ou força maior a justificar o atraso na entrega da obra. Alterar esse entendimento demandaria reexame das provas produzidas nos autos, vedado em recurso especial.
+4. De acordo com a jurisprudência desta Corte, o atraso na entrega de imóvel enseja pagamento de lucros cessantes, sendo presumível o prejuízo experimentado pelo promitente comprador. Precedentes.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp 1189236/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/03/2018, DJe 27/03/2018, g.n.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. VIOLAÇÃO À COISA JULGADA NÃO RECONHECIDA PELO TRIBUNAL DE ORIGEM. DECISÃO FUNDAMENTADA NOS ELEMENTOS DE CONVICÇÃO DOS AUTOS. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. VIOLAÇÃO A DISPOSITIVO DE LEI. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. OFENSA AO ART. 1.022 DO CPC/2015 NÃO SUSCITADA. INVIABILIDADE DE PREQUESTIONAMENTO FICTO. INDENIZAÇÃO A TÍTULO DE LUCROS CESSANTES DEVIDA. PREJUÍZO PRESUMIDO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS SUPOSTAMENTE VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (enunciado n. 211 da Súmula do STJ).
+3. A jurisprudência desta Corte Superior já consolidou entendimento de que os lucros cessantes são presumíveis na hipótese de descumprimento contratual derivado de atraso de entrega do imóvel. Somente haverá isenção da obrigação de indenizar do promitente vendedor caso configure uma das hipóteses de excludente de responsabilidade, o que não ocorreu na espécie.
+4. A falta de indicação do dispositivo legal que teria sido eventualmente violado faz incidir à hipótese o teor da Súmula 284 do STF, por analogia. (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+5. Razões recursais insuficientes para a revisão do julgado.
+6. Agravo interno desprovido. (AgInt no REsp 1698513/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/02/2018, DJe 08/03/2018, g.n.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESCISÃO CONTRATUAL. ATRASO NA ENTREGA DE IMÓVEL. CUMULAÇÃO DOS LUCROS CESSANTES COM CLÁUSULA PENAL. POSSIBILIDADE. MATÉRIA SUBMETIDA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO DO FEITO. REGRAMENTO DIRIGIDO ÀS INSTÂNCIAS ORDINÁRIAS. AGRAVO NÃO PROVIDO.
+1. "A afetação de determinado recurso ao rito dos repetitivos, nos termos do art. 543-C do CPC, não implica a suspensão ou o sobrestamento das demais ações já em curso no Superior Tribunal de Justiça, mas, apenas, as em trâmite nas instâncias ordinárias" (AgRg na Rcl 27.689/MG, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/11/2015, DJe de 16/11/2015).
+2. De acordo com a jurisprudência desta Corte, o não cumprimento do prazo para entrega do imóvel objeto do compromisso de compra e venda, por culpa do vendedor, gera a condenação por lucros cessantes por presunção de prejuízo do promitente comprador, podendo ser cumulados com a cláusula penal moratória estabelecida no contrato celebrado entre as partes. Precedentes.
+3. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp 1655903/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/09/2017, DJe 11/10/2017, g.n.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO BEM. REEXAME DE PROVAS. VEDAÇÃO EM RECURSO ESPECIAL. SÚMULAS NºS 5 E 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DANOS MATERIAIS. LUCROS CESSANTES. CONFIGURAÇÃO. PREJUÍZO PRESUMIDO. DISSÍDIO NÃO DEMONSTRADO.
+1. Rever o que decidido pelo tribunal de origem quanto à responsabilidade da agravante pelo atraso na entrega da obra e legitimidade na relação processual esbarra necessariamente no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+2. Reapreciar a conclusão do aresto impugnado acerca da abusividade da cláusula contratual em debate encontra óbice, no caso concreto, nas Súmulas nºs 5 e 7 do Superior Tribunal de Justiça.
+3. Rescindido o contrato de promessa de compra e venda pela demora na entrega do imóvel por culpa exclusiva do promitente vendedor, assiste ao promitente comprador o direito à restituição de toda a quantia paga. Precedente.
+4. A jurisprudência desta Corte Superior é no sentido de que, descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promissário comprador, cabendo ao vendedor, para se eximir do dever de indenizar, fazer prova de que a mora contratual não lhe é imputável.  ..
+6. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+7. Agravo interno não provido.
+(AgInt no AREsp 1059699/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/08/2017, DJe 18/08/2017, g.n.)
+Ante o exposto, com base no art. 932, inciso V, do CPC/2015 c/c a Súmula 568/STJ, dou provimento ao recurso especial para restabelecer a condenação ao pagamento de indenização por lucros cessantes, nos termos dos votos vencedores do acórdão de fls. 194-212 (e-STJ).
+Nesse contexto, impõe-se o retorno da distribuição dos ônus de sucumbência ao que foi determinado no mesmo acórdão e, considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, majoro o valor dos honorários advocatícios arbitrados na sentença (e-STJ fl. 139) para R$ 11.000,00 (onze mil reais).
+Intimem-se.
