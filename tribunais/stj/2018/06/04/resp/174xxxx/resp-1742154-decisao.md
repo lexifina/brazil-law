@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão da Terceira Câmara de Direito Privado do TJCE.
+Na origem, a parte recorrida ajuizou ação, visando cobertura para tratamento home care, bem como indenização por danos morais. A demanda foi sentenciada procedente.
+A recorrente interpôs apelação, tendo o Tribunal de origem negado provimento ao recurso em acórdão que ficou assim ementado (e-STJ fl. 222):
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. APLICAÇÃO DA LEI CONSUMERISTA. NEGATIVA DE COBERTURA DO SERVIÇO DE HOME CARE. ABUSIVIDADE. INDICAÇÃO MÉDICA PARA O TRATAMENTO DOMICILIAR. DANO MORAL CONFIGURADO. RAZOABILIDADE, SEGUNDO PARÂMETROS DESTA CORTE, DO VALOR DE RS 10.000,00 (DEZ MIL REAIS) FIXADO, NA INSTÂNCIA A QUO, A TÍTULO DE INDENIZAÇÃO. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA HÍGIDA.
+1. Aplicam-se as disposições do Código dc Defesa do Consumidor (CDC) ao caso cm questão, conforme preconiza a Súmula 469 do STJ.
+2. Notória a existência de dano moral oriundo da injusta recusa de cobertura securitária, pelo plano de saúde, pois esta conduta agrava a situação de aflição psicológica e de angústia do segurado, caracterizando ofensa à dignidade da pessoa humana.
+3. O quantum indenizatório fixado pelo juízo de primeira instância, no montante dc RS 10.000 (dez mil reais), mostra-se, no caso concreto, razoável e coerente com os precedentes deste Tribunal de Justiça.
+4. Recurso conhecido e improvido.
+Sobreveio o recurso especial (e-STJ fls. 258/271), fundado no art. 105, III, "a" e "c", da CF, no qual a recorrente sustentou violação do art. 54, § 4º, do CDC e 188 do CC/2002, argumentando que não causou dano moral a ser indenizado, pois sua negativa de cobertura ocorreu com base nas cláusulas do contrato.
+Afirmou ainda ter havido omissão no acórdão quanto aos alegados dispositivos legais apontados como violados.
+É o relatório.
+Decido.
+Não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos
+O Tribunal de origem reconheceu que a negativa de atendimento do plano foi indevida, pois desrespeitou a prescrição médica do tratamento domiciliar, cabendo ao médico especialista dispor sobre o procedimento adequado à doença coberta pelo plano (e-STJ fls. 224/226).
+Para alterar a conclusão da Corte local, seria imprescindível reexaminar o conjunto fático-probatório dos autos, bem como analisar os termos contratados, o que é incabível no recurso especial, ante as Súmulas n. 5 e 7 do STJ.
+Constata-se, além disso, que o entendimento do Tribunal a quo coaduna-se com a jurisprudência do STJ, segundo a qual é abusiva a exclusão contratual de tratamento prescrito para o bem da saúde e da vida do segurado, pois a empresa pode restringir as doenças asseguradas, mas não o tipo de procedimento para a cura a ser indicado pelo especialista habilitado. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE ANTECIPAÇÃO DE TUTELA. TRATAMENTO MÉDICO DOMICILIAR (HOME CARE). CLÁUSULA CONTRATUAL OBSTATIVA. ABUSIVIDADE. DECISÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ.
+1. "A jurisprudência do STJ tem entendimento firmado no sentido de ser abusiva a cláusula contratual que exclui tratamento prescrito para garantir a saúde ou a vida do segurado, porque o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura.
+Precedentes. Incidência da Súmula 83/STJ". (AgRg no AREsp 734.111/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/12/2015, DJe 03/02/2016).
+2. Agravo interno não provido.
+(AgInt no AREsp 987.203/RJ, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2016, DJe 2/2/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. SERVIÇO DE HOME CARE PRESCRITO PELO MÉDICO DO BENEFICIÁRIO. RECUSA INDEVIDA À COBERTURA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULAS 7 E 83 DO STJ. 2. INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE PLEITO NA INICIAL E DE CONDENAÇÃO. FALTA DE INTERESSE RECURSAL CONFIGURADA. 3. AGRAVO INTERNO IMPROVIDO.
+1. O serviço de Home Care (tratamento domiciliar) constitui desdobramento do tratamento hospitalar contratualmente previsto, que não pode ser limitado pela operadora do plano de saúde. Na dúvida, a interpretação das cláusulas dos contratos de adesão deve ser feita da forma mais favorável ao consumidor.
+2. Indenização por danos morais não foi objeto de pleito inicial e tampouco houve condenação a esse respeito. Ausência de interesse recursal.
+3. Agravo interno improvido.
+(AgInt no AREsp 1.071.680/MG, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/6/2017, DJe 26/6/2017.)
+Ademais, o acórdão do Tribunal a quo também está em conformidade com a jurisprudência do STJ, ao concluir pela existência de danos morais decorrentes da negativa ilícita de cobertura pela operadora de plano de saúde. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. SERVIÇO DE HOME CARE PRESCRITO PELO MÉDICO DO BENEFICIÁRIO. RECUSA INDEVIDA À COBERTURA. DANO MORAL CONFIGURADO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. 2. MONTANTE INDENIZATÓRIO. PLEITO DE REDUÇÃO. NÃO DEMONSTRADA A ABUSIVIDADE NO VALOR FIXADO NAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7/STJ. 3. AGRAVO INTERNO DESPROVIDO. 1. A jurisprudência do STJ é iterativa no sentido de configurar dano moral indenizável a recusa injustificada pela operadora de plano de saúde à cobertura de despesas com serviço de internação domiciliar (home care) prescrito pelo médico ao beneficiário.
+2. "A intervenção desta egrégia Corte para alterar os valores fixados pelas instâncias ordinárias a título de reparação por danos morais somente se justifica nas hipóteses em que estes se mostrem ínfimos ou exorbitantes, não sendo este o caso dos autos" (AgRg na Rcl n. 4.847/SE, Rel. Ministro Raul Araújo, Segunda Seção, DJe 17/2/2011). No caso, o montante indenizatório de danos morais arbitrado na instância ordinária (R$ 10.000,00 - dez mil reais), em decorrência da recusa indevida ao fornecimento do serviço de home care prescrito pelo médico, revela-se adequado e proporcional. Por conseguinte, alterar esse valor atrai o óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.059.299/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/6/2017, DJe 22/6/2017.)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - PLANO DE SAÚDE - RECUSA INDEVIDA DE CUSTEIO DE TRATAMENTO DE URGÊNCIA EM UNIDADE DE TERAPIA INTENSIVA (HOME CARE) - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA RÉ.
+1. Inviável o exame do pleito relativo à redução do valor arbitrado a título de danos morais, o qual não fora alegado no recurso especial, mas apenas neste agravo interno, restando caracterizada a inovação recursal. 2. A jurisprudência do STJ é no sentido de que a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico de urgência, tal como no presente caso, a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário.
+3. Agravo interno desprovido.
+(AgInt no AREsp 967.348/DF, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/4/2017, DJe 18/4/2017.)
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
