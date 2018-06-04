@@ -1,0 +1,16 @@
+DECISÃO
+Agrava-se de decisão que negou seguimento ao recurso especial, fundamentado no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça Regional Federal da 5ª Região que negou provimento ao apelo defensivo e deu parcial provimento ao apelo ministerial para majorar a pena-base para 3 (três) anos de reclusão, resultando a pena final imposta ao recorrente em 4 (quatro) anos de reclusão, em regime aberto, pelo cometimento do crime do art. 1º, I, da Lei n. 8.137/1990.
+A defesa aponta a violação dos arts. 619, do Código de Processo Penal alegando, em síntese, que o acórdão recorrido foi silente em relação aos seguintes argumentos lançados pela defesa: a) necessidade de transcrição da prova oral no acórdão e; b) indicação de qual ato de gestão, enquanto procurador da indigitada empresa, imputado ao recorrente restou provado nos autos.
+Contrarrazões às e-STJ fls. 567/575.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 634/639.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Anota-se que não procede a alegação da defesa de ofensa ao art. 619 do CPP, porquanto o magistrado deve apresentar as razões que o levaram a decidir desta ou daquela maneira, apontando fatos, provas, jurisprudência, aspectos inerentes ao tema e a legislação que entender aplicável ao caso; porém não está obrigado a se pronunciar, ponto a ponto, sobre todas as teses elencadas pelas partes, desde que haja encontrado razões suficientes para decidir (ut, AgRg nos EDcl no AREsp 1127961/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 08/03/2018).
+In casu, a instância de origem, soberana na apreciação do acervo fático-probatório dos autos concluiu pela existência de provas suficientes para a condenação do recorrente. Confira-se:
+A materialidade criminosa é inconteste, na medida em que a supressão dos tributos devidos pela empresa gerida pelo réu foi descortinada por fiscalização da Receita Federal encetada a partir dos próprios documentos contábeis da pessoa jurídica, que apontavam para a existência de um recolhimento do INSS compatível com um giro comercial muito maior do que o declarado, e, consequentemente, não poderia ser incluída no Sistema de Tributação Simplificado (Simples). Ademais, a ilicitude foi confirmada, em juízo, pela testemunha [NOME], f. 280.
+Outrossim, embora o réu se esforce por negar a autoria dos fatos, todos os elementos carreados à instrução corroboram a tese de que era o responsável pela gerência da empresa, tendo amplos e irrevogáveis poderes registrados em procuração pública (f. 99, autos apensados), para praticamente tudo o que dissesse respeito ao trato da pessoa jurídica.
+Ademais, também há prova testemunhai exitosa nesse sentido (f. 188v).
+E, embora, eventualmente, dividisse a gerência da empresa com o seu cunhado e também denunciado [NOME] veio a falecer, em 01 de janeiro de 2007 (f. 53), cuidando o magistrado de primeiro grau de extinguir a punibilidade (f. 58).
+Sendo assim, confirmo o édito condenatório. (e-STJ fl. 460)
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
