@@ -1,0 +1,40 @@
+DECISÃO
+RECURSO ESPECIAL. TRIBUTÁRIO. IPTU. ALIENAÇÃO FIDUCIÁRIA. INAPLICABILIDADE DA LEI FEDERAL 9.514/1997. QUESTÃO DE ÍNDOLE CONSTITUCIONAL. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pelo MUNICÍPIO DE JUNDIAÍ, com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, em face de acórdão proferido pelo egrégio TRF da 3a. Região, assim ementado:
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. IPTU. ALIENAÇÃO FIDUCIÁRIA. ILEGITIMIDADE PASSIVA DA CEF.
+1. Consolidado o entendimento de que a CEF não pode ser executada, como contribuinte do IPTU, em razão da sua condição contratual de credora fiduciária do imóvel.
+2. Agravo de instrumento desprovido (fls. 58).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 75/80).
+3. Nas razões de seu Apelo Nobre, a parte recorrente defende, com base nos arts. 123 do CTN e 27, § 8o. da Lei 9.514/1997, que a Caixa Econômica Federal, na qualidade de credora fiduciária, é contribuinte do IPTU e deve figurar no polo passivo da Execução Fiscal.
+4. Com contrarrazões (fls. 140/146), o recurso foi admitido na origem (fls. 161/162).
+5. É o relatório.
+6. Embora alegue ofensa a dispositivo de lei federal, da análise do Apelo Nobre, no qual o recorrente sustenta que uma Lei Ordinária (Lei 9.514/1997) não pode contrariar uma disposição reservada a Lei Complementar (Código Tributário Nacional) (fls. 89), verifica-se o caráter constitucional da demanda. Posta a controvérsia nestes termos, percebe-se que não se trata de hipótese de cabimento de Recurso Especial, uma vez que a competência desta Corte refere-se à matéria infraconstitucional:
+Art. 105 - Compete ao Superior Tribunal de Justiça:
+(..).
+III - julgar, em Recurso Especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão recorrida:
+a) contrariar tratado ou lei federal, ou negar-lhes vigência;
+b) julgar válido ato de governo local contestado em face de lei federal;
+c) der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal.
+7. Cito, a título ilustrativo, os seguintes precedentes:
+TRIBUTÁRIO. AGRAVO INTERNO RECURSO ESPECIAL. IPTU. CAIXA ECONÔMICA FEDERAL. CREDORA FIDUCIÁRIA. LEGITIMIDADE PASSIVA. LEI ORDINÁRIA QUE VERSA SOBRE MATÉRIA RESERVADA A LEI COMPLEMENTAR. MATÉRIA CONSTITUCIONAL. DISCUSSÃO INVIÁVEL NA INSTÂNCIA ESPECIAL. PRECEDENTES.
+1. Na hipótese dos autos, a controvérsia gira em torno da possibilidade de lei ordinária alterar disposições de lei complementar.
+2. Verifica-se a inadequação da via eleita, porquanto o caráter constitucional da demanda emerge das próprias razões da agravante, no qual sustenta a tese de que a lei ordinária não poderia alterar disposições de lei complementar. Precedentes: AgRg no AREsp 657.665/RJ, Rel. Ministro Humberto Martins, Segunda Turma, DJe 13/4/2015; AgRg no AREsp 196.596/BA, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 27/3/2015.
+3. Assim, inviável o exame do pleito da recorrente, porquanto o instrumento utilizado não comporta esta análise. A competência do Superior Tribunal de Justiça refere-se a matéria infraconstitucional. A discussão sobre preceitos da Carta Maior cabe à Suprema Corte, ex vi do art. 102 da Constituição Federal.
+4. Agravo interno não provido (AgInt no REsp. 1.650.095/SP, Min. BENEDITO GONÇALVES, DJe 26.10.2017).
+
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. IPTU. CREDORA FIDUCIÁRIA. ILEGITIMIDADE PASSIVA. CONFLITO ENTRE LEI ORDINÁRIA E LEI COMPLEMENTAR. TEMA CONSTITUCIONAL. POSSE DO IMÓVEL. QUESTÃO DECIDIDA COM BASE EM FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 29/06/2017, que julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Trata-se, na origem, de Agravo de Instrumento interposto em face de decisão que, em Execução Fiscal, reconhecera a ilegitimidade da Caixa Econômica Federal para figurar no polo passivo da ação de cobrança de débito de IPTU, e extinguira o processo, sem julgamento de mérito, nos termos do art. 267, VI, do CPC/73.
+III. É firme nesta Corte o entendimento de que o conflito entre lei ordinária e lei complementar não dá ensejo à interposição de Recurso Especial, por envolver discussão de índole eminentemente constitucional. Nesse sentido: STJ, AgInt no REsp 1.584.966/AL, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada do TRF/3ª Região), SEGUNDA TURMA, DJe de 15/04/2016; AgInt no REsp 1.647.612/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/03/2017.
+IV. O Tribunal de origem, ao decidir que a posse apta a ensejar a incidência do IPTU somente seria aquela qualificada pelo animus domini, fê-lo com base em fundamento exclusivamente constitucional (art. 156, I, da Constituição Federal), cujo exame é inviável, em sede de Recurso Especial.
+V. Agravo interno improvido (AgInt no REsp. 1.676.282/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe 4.10.2017).
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. CAIXA ECONÔMICA FEDERAL. ALIENAÇÃO FIDUCIÁRIA. ILEGITIMIDADE PASSIVA. IPTU. RESPONSABILIDADE DO FIDUCIANTE. ANÁLISE DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+1. A controvérsia versa sobre a legitimidade passiva da Caixa Econômica Federal, como credora fiduciária, em execução fiscal de IPTU.
+2. A apreciação sobre a possibilidade de lei ordinária determinar quem é o contribuinte do IPTU refere-se a questão constitucional, prevista no artigo 146 da CF. Conforme dispõe o art. 105 da CF, a competência do Superior Tribunal de Justiça restringe-se à interpretação e uniformização do direito infraconstitucional federal, restando a impossibilidade de exame de eventual violação a dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao STF.
+3. Com efeito, das próprias razões do Recurso Especial é possível depreender o caráter constitucional da demanda, no qual o recorrente sustenta a tese de que lei ordinária não poderia alterar disposições de lei complementar. Por outro lado, o Tribunal de origem, ao decidir tal questão, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido.
+4. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+5. Recurso Especial não provido (REsp. 1.670.295/SP, Rel. Min. HERMAN BENJAMIN, DJe 13.9.2017).
+8. Ante o exposto, nega-se seguimento ao Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
