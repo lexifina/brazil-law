@@ -1,0 +1,13 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por CIPRESA EMPREENDIMENTO LTDA. contra a decisão de fls. 240/241, que não conheceu do recurso.
+Em suas razões, sustenta a parte Embargante, em síntese, que "o Tribunal a quo, quando da inadmissão do Recurso Especial não se manifestou sobre a tempestividade, uma vez que tal requisito encontrava-se claramente preenchido" e que "apresentou a evidente tempestividade do Recurso Especial e do Agravo, juntando-se a Resolução n.º 38, de 25 de Novembro de 2015 do TJPB (fls. 220/221 do e-STJ)" (fls. 246/248).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Veja-se que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade" (EDcl no AREsp 289.109/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/05/2014, DJe 21/05/2014).
+Cumpre esclarecer que as disposições da Resolução n.º 38 de 25 de novembro de 2015, usada pelo ora Embargante como fundamento para justificar a suspensão do expediente forense no inicio do ano não o socorre, uma vez que a referida lei somente diz respeito à suspensão dos prazos processuais no período entre 07 a 20 de janeiro, não abrangendo o período do seu prazo recursal. Com efeito, a parte ora embargante foi intimada do acórdão recorrido em 17/12/2015, seu prazo começou no dia 18/12/2015 e terminou no dia 04/01/2016, fora da vigência da Resolução citada.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
