@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECESSO FORENSE NO TRIBUNAL DE ORIGEM. JUNTADA DE DOCUMENTO IDÔNEO. POSSIBILIDADE. INTEMPESTIVIDADE AFASTADA. DIREITO PROCESSUAL CIVIL. ART. 535 DO CPC/1973. AUSÊNCIA DE VIOLAÇÃO. COISA JULGADA. CAUSA DE PEDIR. AFERIÇÃO DA DISTINÇÃO ENTRE CAUSAS. ANÁLISE FÁTICO-PROBATÓRIA. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA, MEDIANTE JUÍZO DE RECONSIDERAÇÃO, CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Na origem, consta dos autos que [NOME], ora agravado, opôs embargos à execução de título extrajudicial proposta por Caixa Econômica Federal, ora agravante, aduzindo que a embargada pretendia reaver valores que haviam sido afastados na esfera trabalhista.
+Na impugnação aos embargos, a CEF sustentou que o título executivo extrajudicial que lastreou a ação principal é decorrente de acórdão exarado do Tribunal de Contas da União.
+A sentença julgou procedentes os embargos, extinguiu a execução por ausência dos requisitos inerentes ao título executivo e condenou a Caixa Econômica Federal ao pagamento de honorários advocatícios, fixados em 10% (dez por cento) sobre o valor atualizado da causa.
+A sentença foi mantida pelo Desembargador Relator e ratificada pelo Tribunal Regional Federal da 2ª Região (e-STJ, fls. 177-184), nos termos da seguinte ementa (e-STJ, fls. 183-184):
+ADMINISTRATIVO - AGRAVO INTERNO EM APELAÇÃO CÍVEL - ACÓRDÃO DO TRIBUNAL DE CONTAS DA UNIÃO APONTANDO IRREGULARIDADES FUNCIONAIS DE RESPONSABILIDADE DO RÉU - SENTENÇA JUDICIAL TRABALHISTA TRANSITADA EM JULGADO RECONHECENDO QUE O DEMANDADO NÃO FAZ JUS AO PAGAMENTO DE INDENIZAÇÃO - COISA JULGADA EM SENTIDO MATERIAL - RECURSO IMPROVIDO I - O cerne do inconformismo do Apelante reside na reafirmação de que as razões de decidir do acórdão do TCU que se pretende executar são diferentes daquelas que ensejaram a sentença prolatada na esfera trabalhista, já transitada em julgado.
+II - No caso concreto, a par do título executivo extrajudicial datado de 2009, existe sentença judicial proferida em 2007 pela justiça trabalhista de Campinas/SP, transitada em julgado, no sentido de que o ora demandado não faz jus ao pagamento da indenização relativa à quantia equivalente ao prejuízo apurado no procedimento administrativo interno da CEF nº 1/00.021.00202/2003.
+III - Assim sendo, considerando que a questão está acobertada pela preclusão máxima decorrente da coisa julgada, assegurada como direito fundamental na Carta Constitucional (art. 5o, XXXVI), não pode a decisão administrativa do Tribunal de Contas da União obstar seus efeitos.
+IV - Neste contexto, sopesando-se os comandos constitucionais, conclui-se que a decisão do TCU não tem o condão de desconstituir sentença judicial transitada em julgado.
+V - Tem-se, pois, que o pedido e a causa de pedir desta demanda são os mesmos já apreciados por ocasião do julgamento da ação trabalhista nº 0082500-75.2006.5.15.0130 RTOr, não merecendo, a toda evidência, qualquer reforma a Sentença recorrida.
+VI - Portanto, os argumentos apresentados pela Parte Agravante não foram capazes de viabilizar a alteração dos fundamentos da decisão hostilizada, persistindo, pois, a mesma causa de decidir expendida na Decisão agravada.
+VII - Agravo Interno improvido.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 192-196).
+Nas razões do recurso especial (e-STJ, fls. 198-203), a recorrente alegou violação aos arts. 474 e 535, II, do Código de Processo Civil de 1973.
+Sustentou, em síntese, que, embora tenha havido a oposição de embargos de declaração, o Tribunal de origem não abordou a matéria suscitada no tocante à incidência do art. 267, III e § 1º, do CPC/1973.
+Ressaltou que as razões de decidir entre o acórdão do TCU e a decisão prolatada na esfera trabalhista são diferentes, argumentando que os fatos que originam as causas de pedir das duas ações são distintos e, por tal motivo, não há que se falar em desconstituição da sentença judicial transitada em julgado.
+O Tribunal de origem inadmitiu o processamento do recurso especial em virtude da deserção (e-STJ, fl. 212).
+A Presidente do Superior Tribunal de Justiça, Ministra Laurita Vaz, não conheceu do recurso em razão da sua intempestividade, ressaltando a necessidade de comprovação dos feriados forenses ocorridos nos tribunais de justiça estaduais no ato de sua interposição (e-STJ, fls.225-226).
+No presente agravo interno (e-STJ, fls. 230-246), a recorrente sustenta a tempestividade do recurso, juntando documentação oficial idônea (Portaria TRF2-[PLACA]/00819 - proferido pelo Tribunal Regional Federal da 2ª Região) que comprova a ausência de expediente forense no dia 23/4/2014.
+Foi apresentada impugnação ao recurso (e-STJ, fl. 250).
+Brevemente relatado, decido.
+O Superior Tribunal de Justiça admite a comprovação do recesso forense, no âmbito dos Tribunais de Justiça, em agravo interno.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO CARACTERIZADA. INTEMPESTIVIDADE DO RECURSO ESPECIAL AFASTADA. SUSPENSÃO DO EXPEDIENTE FORENSE E DOS PRAZOS PROCESSUAIS NA CORTE DE ORIGEM. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. NOVA ORIENTAÇÃO DA CORTE ESPECIAL.
+(..)
+2. A Corte Especial, a partir do julgamento do AgRg no AREsp nº 137.141/SE, modificou o entendimento aplicado no Superior Tribunal de Justiça para admitir que a comprovação de tempestividade recursal, em virtude de feriado local ou de suspensão de expediente forense no tribunal de origem, ocorra quando da interposição do agravo regimental. 3. Embargos acolhidos, com efeitos infringentes, para tornar sem efeito acórdão e decisão monocrática anteriores e determinar nova conclusão dos autos ao relator para o prosseguimento na análise do recurso de agravo em recurso especial.
+(EDcl no AgRg no AREsp n. 84.122/SC, Relator o Ministro Ricardo Villas Bôas Cueva, DJe de 11/11/2013.)
+Portanto, diante da relevância das alegações da agravante, com base no art. 259 do RISTJ, reconsidero a decisão de fls. 225-226 (e-STJ), tendo em vista a tempestividade do recurso especial, e passo ao seu exame.
+De início, verifico dos autos que o recurso foi interposto quando ainda estava em vigor o Código de Processo Civil de 1973. Sendo assim, sua análise obedecerá ao regramento nele previsto.
+Dito isso, observa-se que a violação ao art. 535 do Código de Processo Civil de 1973 não ficou caracterizada, tendo em conta que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da agravante.
+Na hipótese vertente, o Tribunal de origem consignou que a despeito do título executivo extrajudicial datado de 2009, havia sentença judicial proferida em 2007 pela justiça trabalhista, transitada em julgado, afastando a responsabilidade civil do ora agravado ao pagamento da indenização relativo ao prejuízo apurado em procedimento administrativo interno da CEF N. 1/00.021.00202/2003.
+Desse modo, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, no sentido de que "os fatos que originam as causas de pedir das duas ações são distintos" (e-STJ, fl. 203), demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. GDATEM. PARIDADE. REITERAÇÃO DE AÇÃO. COISA JULGADA. IDENTIDADE DA RELAÇÃO JURÍDICA. DISTINÇÃO ENTRE CAUSAS. AFERIÇÃO. IMPOSSIBILIDADE SÚMULA 7/STJ.
+1. Para acolher a pretensão da parte recorrente, modificando a decisão do Tribunal de origem que reconheceu a existência de coisa julgada, seria necessário o reexame da matéria fático-probatória, o que é vedado em recurso especial, nos termos do verbete da Súmula 7 desta Egrégia Corte.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1613975/RN, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 15/12/2016, DJe 19/12/2016)
+Diante do exposto, mediante juízo de reconsideração, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
