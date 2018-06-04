@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de pedido de reconsideração de decisão que indeferiu liminarmente este habeas corpus em razão da falta de peça imprescindível para a análise da impetração (e-STJ, fls. 35-36).
+Nesta petição, a impetrante apresenta cópia da decisão que converteu a prisão em flagrante em preventiva, bem como cópia de decisão do Juízo de primeiro grau que indeferiu pleito de revogação da prisão cautelar.
+É o relatório.
+É manifesta a superveniente ausência de interesse de agir que atingiu a impetração, haja vista que, apesar da juntada do documento faltante, a questão aqui levantada já foi examinada, em 22.5.2018, quando do julgamento do Habeas Corpus n. 444.390/SP, de minha relatoria, interposto pela mesma parte e impugnando o mesmo acórdão (Habeas Corpus Criminal n. 2244350-65.2017.8.26.0000)). Naquela oportunidade, foi concedida habeas corpus, de ofício, para revogar a prisão preventiva imposta ao paciente, mediante a aplicação de medidas cautelares previstas no art. 319 do CPP.
+Veja-se, a propósito, a ementa do julgado:
+"PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+3. No caso, não foram apontados dados concretos que justifiquem a segregação provisória. O magistrado singular utilizou apenas fundamentos genéricos relacionados à gravidade abstrata do crime de tráfico de drogas, assim como baseou-se em elementos inerentes ao próprio tipo penal, deixando de observar o disposto no art. 312 do CPP. Nem mesmo a quantidade de entorpecentes apreendida - 48 gramas de cocaína - pode ser considerada relevante a ponto de autorizar, por si só, a custódia cautelar do paciente, sobretudo quando considerada sua primariedade e seus bons antecedentes.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para revogar a prisão preventiva imposta ao paciente, mediante a aplicação de medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau."
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intime-se.
