@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. MULTA DIÁRIA POR DESCUMPRIMENTO DE OBRIGAÇÃO DE FAZER. PRETENSÃO DE REVISÃO DO VALOR TOTAL LIMITADO PELO TRIBUNAL DE ORIGEM PARA AS ASTREINTES. PROPORCIONALIDADE E RAZOABILIDADE DO MONTANTE ARBITRADO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo manejado por MARCUS VINÍCIUS VIEIRA AMARAL em face de decisão que negou seguimento a recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"APELAÇÃO CÍVEL - ATRASO NO CUMPRIMENTO DA DECISÃO DE ANTECIPAÇÃO DE TUTELA - DEMONSTRAÇÃO - APLICAÇÃO DE ASTREINTE - POSSIBILIDADE - PENALIDADE QUE ALCANÇOU VALOR MANIFESTAMENTE EXCESSIVO - REDUÇÃO - POSSIBILIDADE - ART. 537, § 1º, INCISO I, DO CPC. Deixando a parte de comprovar o cumprimento da ordem de antecipação de tutela no tempo fixado pelo Magistrado, impõe-se a aplicação da multa (astreinte) prevista na decisão. Em conformidade com a regra insculpida no inciso I, do § 2º, do art. 537 do CPC, ao magistrado é facultado, de ofício ou a requerimento, modificar o valor ou a periodicidade da multa vincenda ou excluí-la, caso verifique que se tornou insuficiente ou excessiva." (e-STJ fl. 581)
+Nas razões do recurso especial, o recorrente alega a violação do art. 537, § 1º, inciso I, do Código de Processo Civil de 2015, bem como a existência de dissídio jurisprudencial, ao argumento, em síntese, de que o Tribunal de origem "não decidiu com o costumeiro acerto ao reduzir o valor da multa fixada de R$ 14.400,00 (catorze mil e quatrocentos reais) para R$ 5.000,00 (cinco mil reais), vez que, conforme restou devidamente comprovado nos autos, o atraso de 18 (dezoito) dias no cumprimento da decisão judicial, além de importar em desrespeito ao próprio Poder Judiciário, colocou em risco a integridade física e a própria vida do recorrente" (e-STJ fl. 598). Pugna, assim, para que o valor total pelas astreintes seja mantido no montante anteriormente alcançado.
+Contrarrazões às fls. 625-632 (e-STJ).
+Sobreveio juízo de admissibilidade do Tribunal de origem (e-STJ fls. 634-635), que negou seguimento ao recurso especial, por considerar que incidem, no caso, os óbices das Súmulas 7 e 83 deste Superior Tribunal de Justiça.
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar, uma vez que o teor da Súmula 7 deste Superior Tribunal de Justiça obsta o conhecimento do recurso especial.
+Com efeito, no tocante ao valor total pela multa diária, o Tribunal de origem, após o exame dos elementos fáticos contidos nos autos, entendeu que a penalidade alcançou montante excessivo - R$ 14.400,00 (catorze mil e quatrocentos reais) -, razão pela qual determinou a sua redução para quantia que reputou mais adequada ao caso, qual seja, R$ 5.000,00 (cinco mil reais).
+Nesse contexto, verifica-se que não se justifica, in casu, a excepcional intervenção desta Corte Superior a fim de revisar o valor das astreintes, pois o montante não se mostra ínfimo ou exagerado, diante das peculiaridades do caso concreto, o que atrai a incidência do óbice constante da Súmula 7/STJ.
+Sobre o tema, confiram-se os seguintes julgados, mutatis mutandis:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTERPOSIÇÃO DE AGRAVO REGIMENTAL E EMBARGOS DE DECLARAÇÃO CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE. PRINCÍPIO DA UNICIDADE RECURSAL. ASTREINTES. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO IMPROVIDO.
+1. Conforme a jurisprudência consolidada no âmbito desta Corte, a interposição de dois recursos pela mesma parte contra a mesma decisão impede o exame do que tenha sido protocolizado por último, haja vista a preclusão consumativa e a observância ao princípio da unirrecorribilidade das decisões.
+2. É pacífica a jurisprudência do Superior Tribunal de Justiça de que o valor da multa diária aplicada como meio coercitivo para o cumprimento da ordem judicial só pode ser revisto nesta Corte nos casos em que se mostrar irrisório ou exorbitante. No caso, o valor fixado pelas instâncias ordinárias não se apresenta exorbitante, de modo que a sua revisão encontra óbice na Súmula n. 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 849.518/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017, g.n.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DECISÃO SINGULAR DE RELATOR. MULTA DIÁRIA. DESCUMPRIMENTO DE ORDEM JUDICIAL. MANUTENÇÃO DO VALOR. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não viola o art. 557, do Código de Processo Civil, a decisão singular de relator fundada em confronto com súmula ou jurisprudência dominante, pois facultada à parte a interposição de agravo regimental, por meio do qual, neste caso, se submeterá a questão ao colegiado competente. Precedente.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+3. É possível a redução do valor da multa por descumprimento de decisão judicial (art. 461 do Código de Processo Civil) quando se verificar que foi estabelecida fora dos parâmetros da razoabilidade ou quando se tornar exorbitante, o que não ocorre no caso dos autos.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp 511.410/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/04/2016, DJe 25/04/2016, g.n.)
+Ante o exposto, com base no art. 253, inciso II, alínea "a", do Regimento Interno deste Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
