@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial, interposto por MINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Pará, assim ementado:
+"PENAL. PROCESSUAL PENAL. CRIME DE TRANSPORTE DE MADEIRA SEM LICENÇA. ABSORÇAO DO CRIME DE USO DE DOCUMENTO FALSO PELO CRIME AMBIENTAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA DO CRIME AMBIENTAL CRIMES CAPITULADOS NOS ARTS. 68 E 69 DA LEI N. 9.605/98. NÃO CONFIGURAÇÃO PRINCÍPIO DA ESPECIALIDADE.
+1; Para o juízo de admissibilidade da acusação é razoável que figure o denunciado no contrato social, ostentando a condição de gerente ou diretor, ou tenha sido constituído como mandatário, dà sociedade empresária.
+2. Absorção do crime de uso de documento falso (art. 304 do CP) pelo crime ambiental (art. 46 da Lei nc 9 605/98) quando as ATPF s falsificadas sâo utilizadas exclusivamente com o fim de transportar madeira.
+3. De acordo com o art. 109, inciso VI, do Código Penal, a prescrição, antes de transitar em julgado a sentença final, regula-se pelo máximo da pena privativa de liberdade cominada ao crime, verificando-se em 04 anos se o máximo da pena é igual a 01 ano. Tendo sido ultrapassado o prazo prescricional previsto para a pena em abstrato, ocorreu a prescrição da pretensão punitiva.
+4. Tendo em vista que a comercialização de madeira sem licença válida atinge, primordialmente, a flora brasileira, tutelada pela lei ambiental (Lei nº 9.605;98). seção II, do capítulo V, especificamente, no art. 46, parágrafo único, não se pode. diante do princípio da especialidade, imputar ao agente, pelo mesmo fato, também os crimes previstos nos arts. 68 e 69 daquele mesmo diploma legal, que tutelam genericamente a administração ambiental, tratada na seção V, daquele capítulo.
+5. As condutas narradas na denúncia, conforme o princípio da especialidade, subsumem-se apenas à descrição contida no art. 46. parágrafo único, da Lei 9.605/98. A fundamentação contida na sentença, nesse sentido, não merece qualquer reparo" (e-STJ, fl. 653).
+Consta dos autos que o recorrido foi condenado à pena de 1 ano e 4 meses de reclusão, em regime inicial aberto, com o pagamento de 10 dias-multa, pela prática do crime previsto no art. 304 c/c os arts. 299 e 71, todos do Código Penal, reconhecendo a extinção da punibilidade quanto ao crime ambiental previsto no art. 46 da Lei 9.605/96, em face do advento da prescrição.
+Nas razões do recurso especial, sustenta a defesa afronta ao disposto no art. 69, 119 e 304, c/c o art. 299, todos do Código Penal, asseverando que não estariam presentes, no caso, os requisitos necessários à aplicação do princípio da consunção, pois o crime de uso de documento falso não seria meio necessário à prática do crime ambiental. Acrescenta que o crime mais grave não poderia ser absorvido pelo mais leve.
+Requer, assim, o afastamento da absorção de um delito pelo outro.
+Contrarrazões apresentadas (e-STJ, fls. 679-682).
+Admitido o recurso (e-STJ, fls. 684-687), os autos ascenderam a esta Corte.
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (e-STJ, fls. 658-666).
+É o relatório.
+Decido.
+Cumpre anotar, desde logo, que se verifica, no caso, a existência de matéria de ordem pública que demanda a concessão da ordem, de ofício, para que se declare a extinção da punibilidade do agente.
+Observe-se que a sentença condenatória aplicou ao recorrido a pena de 1 ano e 4 meses de reclusão, no regime aberto, por infração ao disposto no art. 304, c/c os arts. 299 e 71, todos do Código Penal, substituída a sanção corporal por uma restritiva de direitos, consistente em prestação pecuniária (R$ 80.000,00) e outra de multa, na mesma quantia (e-STJ, fls. 433-443).
+Nota-se, assim, que se faz imperioso reconhecer a prescrição do delito perpetrado pelo recorrido.
+Considerada a sanção definitiva aplicada pelo crime em tela (1 ano e 4 meses de reclusão), a prescrição da pretensão punitiva ocorre em 4 anos (art. 109, V, do CP). Transcorridos mais de 4 anos desde a data da publicação da sentença condenatória (12/8/2009 - e-STJ, fl. 444) e a presente data, e não havendo outra causa interruptiva da prescrição, deve ser declarada extinta a punibilidade do sentenciado.
+À vista do exposto, com fundamento no art. 109, V, do Código Penal, concedo habeas corpus, de ofício, para declarar extinta a punibilidade de CARLOS ANTÔNIO VIEIRA, nos autos da Apelação 0004226-81.2004.4.01.3900. Consequentemente, julgo prejudicado o recurso especial.
+Publique-se. Intimem-se.
