@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] e outro contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial.
+Nas razões dos declaratórios, os embargantes alegam a existência de erro material e contradição na decisão embargada.
+É o relatório. Passo a decidir.
+Fundamentou-se a decisão embargada, em relação à admissibilidade do apelo extremo com fundamento na alínea "a" do permissivo constitucional, na ausência de indicação dos dispositivos de tratado ou de lei federal que teriam sido violados, atraindo a censura da Súmula 284/STF. O mesmo óbice foi aplicado em relação ao dissídio jurisprudencial, eis que não foram particularizados de forma inequívoca os dispositivos legais acerca dos quais haveria a divergência interpretativa.
+Nos aclaratórios, os embargantes sustentam haver erro material na decisão embargada e contradição em relação à peça recursal, já que os dispositivos legais acerca dos quais alega violação e divergência jurisprudencial teriam sido apontados no recurso especial e no correspondente agravo.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+O erro material verifica-se "quando o que está escrito na decisão não corresponde à intenção do juiz, desde que isso seja perceptível por qualquer homem médio" (Didier Jr, Fredie e da Cunha, Leonardo Carneiro, in "Curso de Direito Processual Civil", 14ª ed., 2017, Editora JusPodivm, p. 287).
+Não há que se falar em erro material na decisão embargada, nada existindo nela que não tenha correspondido à intenção deste Ministro Relator.
+A contradição que autoriza a oposição de embargos declaratórios, por sua vez, é a interna, ou seja, entre as proposições do próprio julgado, e não entre a sua conclusão e o que fora discutido nos autos, como pretende a parte embargante. Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. INEXISTÊNCIA. FALTA DE PREQUESTIONAMENTO.
+1. Os embargos de declaração são cabíveis quando "houver, na sentença ou no acórdão, obscuridade ou contradição;" ou "for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal." (artigo 535 do Código de Processo Civil).
+2. A jurisprudência deste Superior Tribunal de Justiça consolidou já o entendimento segundo o qual deve a parte vincular a interposição do recurso especial à violação do artigo 535 do Código de Processo Civil quando, mesmo após a oposição de embargos declaratórios, o Tribunal a quo insiste em não se manifestar sobre questões em relação às quais deveria ter emitido algum juízo de valor, por força do princípio tantum devolutum quantum appellatum, ou, ainda, quando houver contradição ou obscuridade no decisum.
+3. Na dicção da lei e no ensinamento da doutrina, a contradição verifica-se quando, no contexto do acórdão, estão contidas proposições inconciliáveis entre si, dificultando-lhe a compreensão. Assim, a contradição que rende ensejo à oposição de embargos de declaração é aquela interna do julgado e, não, a existente entre o acórdão e o constante de alguma peça dos autos.
+4. Ausência do indispensável prequestionamento quanto à violação do artigo 143 da Lei 8.213/91, a teor dos enunciados das Súmulas 282 e 356 do Excelso Supremo Tribunal Federal.
+5. Recurso especial não conhecido.
+(REsp 329.903/SP, Sexta Turma, Rel. Min. HAMILTON CARVALHIDO, DJ de 4/2/2002, grifou-se)
+Diante do exposto, rejeitam-se os embargos de declaração.
+Publique-se.
