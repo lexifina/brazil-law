@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base neste(s) fundamento(s): não cabimento de REsp alegando violação a norma constitucional, Súmula 83/STJ (quanto à limitação territorial dos efeitos da sentença e à ilegitimidade ativa para propositura do cumprimento de sentença), Súmula 283/STF (alíneas "a" e "c" - no tocante à inovação recursal no que pertine à necessidade de prévia liquidação de sentença)e Súmula 83/STJ (em relação ao s juros de mora).
+Entretanto, a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do(s) seguinte(s) óbices: não cabimento de REsp alegando violação a norma constitucional, Súmula 83/STJ (quanto à limitação territorial dos efeitos da sentença e à ilegitimidade ativa para propositura do cumprimento de sentença), Súmula 283/STF (alíneas "a" e "c" - no tocante à inovação recursal no que pertine à necessidade de prévia liquidação de sentença) e Súmula 83/STJ (em relação ao s juros de mora).
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 253, parágrafo único, I, do RISTJ.
+Publique-se. Intimem-se.
