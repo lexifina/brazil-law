@@ -1,0 +1,36 @@
+Decisão:
+    Vistos.
+    Habeas corpus impetrado em favor de Alexandre Codorniz Zaghini, apontando como autoridade coatora a Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, que proveu parcialmente o REsp nº 1.647.768/SP.
+    Sustenta o impetrante, em suma, que o Tribunal de Justiça de São Paulo incorreu em reformatio in pejus, quando, em recurso exclusivo da defesa, majorou negativamente a pena do paciente ao considerar circunstância judicial não sopesada na sentença condenatória.
+    Para a defesa,
+     “[a]o reconhecer circunstância judicial desfavorável não apreciada na sentença, sem que exista recurso por parte da acusação, a Colenda Câmara contrariou o disposto no artigo 617 do Código de Processo Penal, incorrendo, portanto, na reformatio in pejus, inadmissível no direito pátrio.”
+    Argumenta a defesa, ainda, que “o fato de a pena privativa de liberdade aplicada pelo Tribunal ser inferior a estabelecida em primeiro grau não afasta a reformatio in pejus (...)”
+    Requer a concessão da ordem para
+    “a fim de afastar o aumento de pena decorrente de circunstância judicial desfavorável não reconhecida pelo MM. Juízo de primeiro grau (quantidade de medicamentos apreendidos), mantendo-se, dessa forma, a aplicação da causa de diminuição do artigo 33, § 4º, da Lei no 11.343/06, em seu patamar máximo.”
+    Não houve pedido de liminar a ser apreciado e, por estar a impetração devidamente instruída, foram dispensadas as informações.
+    A Procuradoria-Geral da República ofertou parecer pelo não conhecimento da impetração.
+    É o relatório.
+    Decido.
+    Transcrevo a síntese da decisão questionada:
+    “PENAL E PROCESSO PENAL. RECURSO ESPECIAL. CRIME DE FALSIFICAÇÃO, CORRUPÇÃO, ADULTERAÇÃO OU ALTERAÇÃO DE PRODUTO DESTINADO A FINS TERAPÊUTICOS OU MEDICINAIS. APLICAÇÃO DO PRECEITO SECUNDÁRIO DO CRIME DE TRÁFICO DE ENTORPECENTES. POSSIBILIDADE. APLICAÇÃO DA MINORANTE DO ARTIGO 33, § 4º, DA LEI Nº 11.343/06 EM PATAMAR DIVERSO DO MÁXIMO LEGAL. AUSÊNCIA DE REFORMATIO IN PEJUS. MAJORAÇÃO DA PENA DE MULTA NO JULGAMENTO DE RECURSO EXCLUSIVO DA DEFESA. NÃO CABIMENTO. RECURSO ESPECIAL PROVIDO EM PARTE.”
+    Como visto dos autos, a impetração tem como escopo decisão singular proferida no bojo do REsp nº 1.647.768/SP. Portanto, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente.” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14)
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Ainda que assim não fosse, anoto que a decisão em questão não encerra situação de constrangimento ilegal.
+    Com efeito, consoante consignou Ministra Maria Thereza de Assis Moura,
+    “preceito secundário do tipo penal relativo ao tráfico de drogas quanto à prática criminosa prevista no artigo 273 do Código Penal, com o retorno dos autos ao Tribunal de origem para que se manifestasse quanto à aplicação ou não da minorante do artigo 33, § 4º, da Lei nº 11.343/06 em favor do acusado, com vistas a permitir que se verifique se seria mais vantajoso a ele a aplicação da Lei nº 11.343/06 ou da Lei nº 6.368/76, tendo em vista a impossibilidade de serem combinados dispositivos de diplomas legais distintos.
+    Encaminhado o feito à segunda instância, a Corte local aplicou, em detrimento do artigo 12 da Lei nº 6.368/76, o artigo 33 da Lei n° 11.343/06, com a incidência da causa de diminuição prevista do § 4o do referido dispositivo legal no patamar da metade (em razão da quantidade de drogas apreendidas), tendo sido a pena do réu redimensionada para 02 (dois) anos e 06 (seis) meses de reclusão e pagamento de 250 (duzentos e cinquenta) dias-multa, no valor unitário mínimo.
+    Dessarte, não há falar em reformatio in pejus na espécie em razão da não aplicação em seu patamar máximo da minorante prevista no § 4º do artigo 33 da atual Lei de Drogas tendo em vista a consideração da quantidade de drogas apreendidas, eis que aplicada pena privativa de liberdade inferior a estabelecida pelo Juízo de primeiro grau.
+    Saliente-se, ademais, que a pena-base foi aplicada no mínimo legal em ambas as instâncias e que, apenas quando da aplicação da referida redutora em favor do recorrente, optou a Corte local pela incidência de patamar diverso do máximo legal tendo em vista as circunstâncias fáticas delineadas nos autos.”
+    Esse entendimento não fere a jurisprudência da Corte, segundo a qual “não há reformatio in pejus na sentença penal condenatória que, ao manter a pena definitiva anteriormente fixada, não agrava a pena aplicada na sentença anulada nem piora a situação dos Pacientes” (HC nº 113.512/MT, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 17/12/13).
+    De outra parte, este Supremo Tribunal já decidiu que
+    “o efeito devolutivo da apelação, ainda que em recurso exclusivo da defesa, ‘autoriza o Tribunal a rever os critérios de individualização definidos na sentença penal condenatória para manter ou reduzir a pena, limitado tão-somente pelo teor da acusação e pela prova produzida’ (HC nº 106.113/MT, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 1º/2/12)” (RHC nº 135.524/MG, Segunda Turma, de minha relatoria, DJe de 28/9/16).
+    Outro não foi o entendimento do Parquet Federal. Transcrevo do parecer:
+    “[Não] é o caso de concessão de habeas corpus de ofício, pois conforme asseverado no acórdão impugnado, ‘predomina em ambas as Turmas de Direito Penal deste Sodalício entendimento no sentido da possibilidade de que o Tribunal de origem, ainda que no julgamento de recurso exclusivo da defesa, utilize fundamentos diversos da sentença para justificar a majoração da reprimenda, desde que observados os limites da pena estabelecida pelo Juízo sentenciante, bem como as circunstâncias fáticas delineadas na sentença e na exordial acusatória’.
+    E como concluiu o Superior Tribunal de Justiça, a sentença havia condenado o paciente à pena de 12 anos de reclusão e a 1 ano de detenção, mas o Tribunal de Justiça ‘aplicou, em detrimento do artigo 12 da Lei n° 6.368/76, o artigo 33 da Lei n° 11.343/06, com a incidência da causa de diminuição prevista do § 4º do referido dispositivo legal no patamar da metade (em razão da quantidade de drogas apreendidas), tendo sido a pena do réu redimensionada para 02 (dois) anos e 06 (seis) meses de reclusão’, o que foi mais vantajoso. Ademais, a pena-base foi fixada no mínimo legal nas duas instâncias e a quantidade de droga apreendida só foi utilizada quando da escolha da fração referente à aplicação da minorante prevista no § 4º do art. 33 da Lei nº 11.343/2006, considerando as circunstâncias fáticas dos autos” (grifos do autor).
+    Ante o exposto, nos termos do art. 192, caput, do Regimento Interno do Supremo Tribunal Federal, denego a ordem de habeas corpus.
+    Publique-se.
+    Brasília, 4 de junho de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
