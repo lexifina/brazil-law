@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, contra acórdão assim ementado:
+PLANO DE SAÚDE - Ausência do procedimento no rol da ANS - Irrelevância - Súmula nº 102 da Corte - Sentença mantida.
+PLANO DE SAÚDE - DANOS MORAIS - Inocorrência - Descumprimento contratual que causa mero aborrecimento, insuscetível de provocar sofrimento suficiente a justificar condenação - Ensinamentos doutrinários e precedentes jurisprudenciais - Sentença reformada na espécie, para afastar tal indenização, reconhecida a sucumbência recíproca - Apelo provido em parte.
+Nas razões do especial, apontam os recorrentes violação dos arts. 186 e 927 Código Civil.
+Sustentam, em síntese, necessidade de condenação à indenização por danos morais, em razão da negativa de cobertura do plano de saúde.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela não ocorrência de danos morais indenizáveis, assim se pronunciando (fls. 165-168, e-STJ):
+Mas não se houve com o mesmo acerto a r. sentença quanto aos danos morais. A negativa de cobertura fundou-se em interpretação do contrato que as partes mantinham à época. E esta Câmara tem reiteradamente entendido que descumprimento de contrato, por si só, não gera dano moral, porquanto a parte tem o direito de defender, na interpretação da respectiva cláusula contratual, a tese mais adequada ao seu interesse.
+Mutatis mutandis, aplica-se aqui a corrente jurisprudencial que entende que o simples exercício do direito de defesa não configura litigância de má-fé. A propósito, já decidiu o STJ que "não se pode negar à parte o direito de pleitear uma interpretação que lhe parece mais correta e favorável à sua causa" (..)
+Não se discute que a negativa de cobertura podem ter causado certos dissabores nos autores. Mas isso está sendo resolvido judicialmente. O fato dos autores terem necessitado se socorrer do Judiciário para resolver o impasse contratual não gera dano moral.
+Caso contrário, toda demanda julgada improcedente geraria para o réu direito de pedir ao autor igual indenização, o que não é admissível, pois, como visto acima, ambos estarão exercendo direito legítimo, de ação e de defesa e recurso. Nas palavras do precedente do STJ supra indicado, não se pode negar à parte o direito de pleitear uma interpretação que seja mais favorável aos seus interesses, tanto no pólo ativo como no passivo.
+Repita-se que os autores podem ter experimentado constrangimentos e ansiedade ao ter recusada a cobertura. No entanto, não chegam tais circunstâncias a caracterizar a dor moral grave que justifique uma condenação pecuniária com caráter indenizatório.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+Destaque-se que a conclusão acima reproduzida está em perfeita harmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, no sentido de que dano moral deve ser comprovado, não se podendo indenizar o mero descumprimento contratual. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE AUTORIZAÇÃO PARA TRATAMENTO DE EMERGÊNCIA. PERÍODO DE CARÊNCIA. CLÁUSULA ABUSIVA. DANO MORAL. QUANTUM RAZOÁVEL E PROPORCIONAL. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento emergencial, como ocorrido no presente caso, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento.
+2. A cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde não é considerada abusiva, desde que não obste a cobertura do segurado em casos de emergência ou urgência.
+3. O valor de R$ 12.000,00 (doze mil reais) arbitrado a título de dano moral não se mostra excessivo, tendo em vista as circunstâncias específicas do caso concreto.
+4. Agravo regimental não provido.
+(AgRg no AgRg no REsp 1.503.003/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16.6.2015, DJe 3.8.2015).
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DESCUMPRIMENTO CONTRATUAL. MERO ABORRECIMENTO. DANO MORAL. NÃO OCORRÊNCIA. CONCLUSÃO OBTIDA MEDIANTE ANÁLISE DO ACERVO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Embargos de declaração recebidos como agravo regimental, em face do nítido caráter infringente das razões recursais. Aplicação dos princípios da fungibilidade e da economia processual.
+2. In casu, o Tribunal a quo concluiu pela inexistência de dano moral passível de reparação, tendo em vista o curto lapso temporal transcorrido entre a negativa de cobertura da cirurgia bariátrica pelo plano de saúde e a antecipação dos efeitos da tutela que garantiu, à agravada, a cobertura pretendida, situação que não se mostrou suficiente para comprometer a sua saúde ou violar seus direitos da personalidade.
+3. A jurisprudência desta Corte entende que, quando a situação experimentada não tem o condão de expor a parte a dor, vexame, sofrimento ou constrangimento perante terceiros, não há falar em dano moral, uma vez que se trata de circunstância a ensejar mero aborrecimento ou dissabor, mormente quando mero descumprimento contratual, embora tenha acarretado aborrecimentos, não gerou maiores danos ao recorrente.
+4. Agravo regimental não provido.
+(EDcl no AREsp 626.695/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19.5.2015, DJe 18.6.2015).
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. DEVER DE INDENIZAR. CLÁUSULA CONTRATUAL CONTROVERTIDA.
+1. O mero descumprimento de cláusula contratual controvertida não enseja a condenação por dano moral.
+2. Embora a jurisprudência tenha posteriormente se consolidado no sentido da invalidade de cláusula que exclua a cobertura de stent, no caso em exame, a circunstância de o contrato não ter sido adaptado à Lei 9.656/98 emprestava, na época em que ocorridos os fatos, relevância à discussão travada pelo réu, tese acolhida pelo relator originário da apelação 3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.457.475/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16.9.2014, DJe 24.9.2014).
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a orientação desta Corte, não há o que se reformar, esbarrando o recurso no óbice da Súmula 83/STJ.
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
