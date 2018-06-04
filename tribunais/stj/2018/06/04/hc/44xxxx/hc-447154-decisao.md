@@ -1,0 +1,22 @@
+DECISÃO
+GHESSICA MARIA GREGORIO DE MORAES, paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, nos autos da Apelação Criminal n. 0012071-94.2017.8.19.0014.
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. no art. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006.
+Nas razões deste mandamus, sustenta o impetrante, resumidamente, que deve ser fixado à sentenciada regime inicial menos gravoso de cumprimento de pena, haja vista que a reprimenda-base foi estabelecida no mínimo legal, ou seja, com a avaliação favorável de todas as circunstâncias judiciais previstas no art. 59 do Código Penal.
+Requer a concessão da ordem, para que seja estabelecido o regime inicial semiaberto.
+A liminar foi indeferida e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pela concessão da ordem.
+Decido.
+O Tribunal de origem, ao manter a imposição do regime inicial fechado, assim fundamentou (fls. 63-66):
+Na hipótese em tela, corretamente o magistrado não reconheceu a incidência da causa especial de diminuição de pena em razão das circunstâncias do crime que evidenciam a maturidade da acusada no tráfico de drogas, situação incompatível com a de traficantes iniciantes no comércio ilícito ou mesmo eventual, certo, ainda, que ela possui condenação provisória pela prática do mesmo comportamento ilícito, o que, na linha da jurisprudência do STJ, apesar de não poder ser considerado no calibre da pena base (súmula 444), pode ser observado quando do exame de eventual cabimento do redutor em apreciação.
+ ..
+De outro giro, as mesmas circunstâncias que justificaram a não incidência do redutor do § 4º do artigo 33 da Lei 11.343/06, no caso concreto, autorizam a mantença do regime fechado estabelecido na sentença, ficando prejudicado o pedido de substituição da PPL por PRD.
+Embora a Corte estadual haja justificado a fixação do regime inicial fechado também com base em peculiaridade do caso concreto - qual seja, no fato de a paciente ostentar condenação não transitada em julgado por crime de tráfico de drogas -, considero que, no caso, tal argumento de mostra manifestamente desproporcional para, si só, ensejar a imposição do modo mais gravoso. Isso porque a paciente era tecnicamente primária ao tempo do delito, possuidora de bons antecedentes, teve a pena-base estabelecida no mínimo legal (fl. 57) e foi apreendida com pequena quantidade de drogas (13,7 gramas de maconha), circunstâncias que evidenciam ser o regime inicial semiaberto o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal e do disposto no art. 42 da Lei n. 11.343/2006.
+Essa, aliás, também foi a compreensão do Ministério Público Federal que, em seu parecer, assim se manifestou, no que interessa (fl. 91):
+Entendemos que merece guarida o pedido de alteração do regime inicial para o cumprimento da pena, haja vista que, realmente, não houve fundamentação idônea a ensejar a aplicação do regime fechado, uma vez que este fora imposto com base apenas na gravidade abstrata do delito.
+Levando-se em conta a primariedade e demais circunstâncias favoráveis à ré, bem como a sua reprimenda final - 5 (cinco) anos e 10 (dez) meses de reclusão - descabe a aplicação de regime mais gravoso do que aquele previsto no art. 33, § 2º, "b", do Código Penal.
+Prescreve, ainda, o § 3º do aludido dispositivo que: "a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+Logo, óbice ao estabelecimento do regime inicial intermediário haveria se as circunstâncias judiciais da paciente fossem desfavoráveis e/ou se fosse ela reincidente, o que, facilmente se percebe, não constou da fundamentação do regime que lhe fora imposto.
+ ..
+Diante do exposto, opinamos pela concessão da ordem para que seja fixado o regime inicial semiaberto para o desconto da pena imposta à paciente.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, para fixar à paciente o regime inicial semiaberto de cumprimento de pena, nos autos da condenação objeto do Processo n. 0012071-94.2017.8.19.0014.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
