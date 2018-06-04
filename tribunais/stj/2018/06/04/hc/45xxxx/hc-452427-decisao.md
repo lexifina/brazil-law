@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n. 00038115220128260129) - fl. 38:
+APELAÇÃO - Homicídios qualificados tentados - Artigo 121, § 2º, III e IV, c/c artigo 14, II, ambos do Código Penal - MÉRITO - Recurso defensivo com fundamento no artigo 593, inciso III, alínea "d" do Código de Processo Penal - Decisão dos Jurados manifestamente contrária à prova dos autos - Inocorrência - Veredicto que se baseou em uma das vertentes de prova existentes nos autos - Penas - Dosimetria - Reprimendas aplicadas de forma apropriada - Regime prisional inicial semiaberto - Adequado à espécie - APELO NÃO PROVIDO.
+Consta dos autos que o paciente foi condenado, como incurso no art. 121, § 2º, III e IV, c.c. art. 14, II, do Código Penal, à pena de 4 anos de reclusão, no regime inicial semiaberto.
+Alega-se na impetração que o regime prisional foi fixado apenas em razão da gravidade abstrata do crime, o que seria ilegal.
+ Requer a concessão da ordem para que seja determinado o cumprimento da pena no regime aberto domiciliar.
+É o relatório.
+A apontada ilegalidade não ficou evidenciada nos autos.
+O regime prisional semiaberto foi fixada em razão da gravidade concreta do crime, destacando o acórdão impugnado que foi praticado durante a noite, na via pública, mediante meio cruel (pauladas) e com a utilização de recurso que dificultou a defesa das vítimas (superioridade de agentes), tendo considerado, ainda, o quantum de pena imposto.
+Regular, portanto, a aplicação do regime semiaberto ao caso concreto dos autos. A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO MAJORADO. EMPREGO DE ARMA. AUSÊNCIA DE APREENSÃO E PERÍCIA DO ARTEFATO. INCIDÊNCIA DA CAUSA DE AUMENTO COM FUNDAMENTO EM PROVA TESTEMUNHAL. POSSIBILIDADE. REGIME PRISIONAL FECHADO. GRAVIDADE CONCRETA DA CONDUTA. MAUS ANTECEDENTES DO RÉU. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento dos Embargos de Divergência n. 961.863/RS, firmou o entendimento de que é despicienda a apreensão e a perícia da arma de fogo, para a incidência da majorante do § 2º, I, do art. 157 do CP, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo, como na hipótese, em que há farta comprovação testemunhal atestando o seu emprego.
+3. Nada obstante o fato de a pena-base ter sido imposta no piso legal, o estabelecimento do regime mais severo do que o indicado pelo quantum da reprimenda baseou-se na gravidade concreta do delito, evidenciada pelo seu modus operandi, considerando se tratar de crime de roubo praticado com o emprego de arma de fogo e em comparsaria com um menor, o que exige resposta estatal superior, dada a maior reprovabilidade da conduta, em atendimento ao princípio da individualização da pena. Além disso, o Colegiado de origem reconheceu os maus antecedentes do réu, o que permite, de per si, a fixação de meio prisional ao indicado pela quantidade de pena corporal definida na sentença.
+4. A aplicação de pena no patamar mínimo previsto no preceito secundário na primeira fase da dosimetria não conduz, obrigatoriamente, à fixação do regime indicado pela quantidade de sanção corporal, sendo lícito ao julgador impor regime mais rigoroso do que o indicado pela regra geral do art. 33, §§ 2º e 3º, do Código Penal, desde que mediante fundamentação idônea.
+5. Writ não conhecido.
+(HC 419.278/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/05/2018)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
