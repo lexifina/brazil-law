@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98133, de 25 de maio de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 9027.80.99 Mercadoria: Aparelho portátil de plástico, com visor de controle e de resultado, contendo tira de teste que possui anticorpos, tais como o monoclonal anti-beta HCG (gonadotrofina coriônica humana), o monoclonal anti-beta TSH, o IgG de cabra anti-coelho e o IgG de coelho, para fins de realização de auto-teste de gravidez, utilizando uma amostra de urina. DISPOSITIVOS LEGAIS: RGI 1 c/c RGI 3b (texto da posição 90.27), RGI 6 (texto da subposição 9027.80) e RGC 1 (texto do item e subitem 9027.80.99) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 8 de fevereiro de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.133-2018 .pdf]
