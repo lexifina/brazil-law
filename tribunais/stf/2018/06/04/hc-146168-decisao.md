@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Douglas Lopes de Menezes, apontando como autoridade coatora a Sexta Turma do Superior Tribunal de Justiça, que denegou a ordem no HC nº 392.942/PR, Relatora a Ministra Maria Thereza de Assis Moura.
+    Segundo se infere dos autos, o paciente foi condenado à pena de 35 (trinta e cinco) anos de reclusão, em regime fechado, pela prática de triplo homicídio qualificado (CP, art. 121, § 2º, incisos II e IV).
+    Segundo o impetrante, à míngua de fundamentação idônea, as circunstancias e consequências dos crimes foram sopesadas negativamente para majorar a pena-base do paciente.
+    Para a defesa, ”[a]s circunstancias eram normais, não havendo nada que possa acentuar o fato. Inobstante ter sido em via pública, mostra-se certo descontrole por parte do paciente”.
+    No tocante as consequências do crime, afirma o impetrante que
+    “o tipo penal já prevê o resultado morte. Assim, o legislador elevou a reprimenda corporal, já valorando a referida circunstancia [consequência], não podendo, todavia, ser valorada. Ademais, o crime já foi qualificado onde possui uma pena-base maior, sendo iniciada em 12(doze) anos de reclusão, e tratando-se de crime hediondo, onde terá o cumprimento de pena de dois quintos.”
+    Nesse sentido, requer, liminarmente, a concessão da ordem para que seja decotada da pena-base do paciente a fração de pena decorrente da majoração negativa das circunstancias e consequências dos crimes.
+    Em 1º/8/17 indeferi a liminar e, por considerar a impetração devidamente instruída, abri vista à Procuradoria-Geral da República.
+    O parecer do Ministério Público Federal é pela denegação da ordem.
+    Examinados os autos, decido.
+    Transcrevo a ementa do aresto questionado:
+    “PENAL. HABEAS CORPUS. ART. 121, § 2º, II E IV, DO CÓDIGO PENAL. DOSIMETRIA. PRIMEIRA FASE. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE. ORDEM DENEGADA.
+    1. Não há ilegalidade na primeira fase da dosimetria da pena se instâncias de origem apontam motivos concretos para a fixação das penas patamar estabelecido. Em sede de habeas corpus não se afere o quantum aplicado, desde que devidamente fundamentado, como ocorre na espécie, sob pena de revolvimento fático-probatório.
+    2. Ordem denegada” (anexo 8).
+    Pelo que há no julgado do Superior Tribunal de Justiça, não há situação de ilegalidade flagrante, abuso de poder ou teratologia que justifique a concessão da presente ordem. Com efeito, o aresto ora hostilizado encontra-se suficientemente fundamentado, estando justificado o convencimento formado.
+    Consoante assentou a Ministra Maria Thereza de Assis Moura,
+    “verifica-se escorreita a valoração negativa das circunstâncias do crime, já que presente um plus de reprovabilidade, tendo em vista ‘a atitude assumida pelo acusado’ (fl. 732), revelada pela premeditação, nos termos da narrativa dos fatos (agiram de forma premeditada visto que na data dos fatos, no período vespertino, reuniram-se na residência do segundo, com o fito de combinar como cometeriam o delito. Após avançarem os detalhes, o denunciado Marcelo da Silva Alexandre armou-se com o revólver descrito nos autos e os dois seguiram até a Quermesse que estava ocorrendo na Praça da Cultura, nesta cidade e Comarca de Matelândia. No local, os denunciados ficaram em companhia das vítimas, e de outros conhecidos, sendo que, por volta das 23 horas, quando aquelas decidiram deixar o evento, os denunciados foram atrás, objetivando cometer os homicídios), bem como pelo efetivo modus operandi também delineado na narrativa dos acontecimentos (após alguns instantes no local, sem que houvesse qualquer tipo de discussão entre estes, os denunciados se despediram das vitimas e, de inopinos, sem possibilitar qualquer chance de defesa ou reação às mesmas sacou o denunciado Marcelo da arma de fogo que trazia consigo e efetuou os disparos contra os ofendidos, os quais foram atingidos na cabeça, a uma certa distância ), o que respalda a valoração negativa da aludida circunstância judicial.
+    Com relação às consequências do crime, também não há reparos a serem feitos, diante da idoneidade dos argumentos alinhavados para considerá-las desfavoráveis. Com efeito, nos termos do pontuado pela instância de origem ‘lesão jurídica em relação as vítimas Gislaine e Vanessa e seus familiares, na medida em que tiveram suas vidas ceifadas na tenra idade’, não se pode desmerecer a pouca idade de duas das vítimas, as quais contavam com apenas 13 e 15 anos de idade, e que nenhuma relação guardavam com o ora paciente”.
+    Depreende-se, portanto, desses fundamentos que houve motivação adequada para a valoração negativa das circunstâncias e das consequências do crime, demonstrando-se, com base em elementos concretos, o maior grau de censurabilidade da conduta do paciente, que desborda dos elementos normais do tipo penal, justificando, assim, exasperação de sua pena-base.
+    Ademais, é pacífica a jurisprudência da Corte no sentido de que a via estreita do habeas corpus não permite que se proceda à ponderação e ao reexame das circunstâncias judiciais referidas no art. 59 do Código Penal consideradas na sentença condenatória (v.g. HC nº 134.193/GO, Segunda Turma, de minha relatoria, DJe de 28/11/16).
+    Confira-se, na mesma esteira, o HC nº 100.371/CE, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 21/5/10 e o RHC 119.960/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 2/6/14.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus.
+    Brasília, 4 de junho de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
