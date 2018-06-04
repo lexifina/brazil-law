@@ -1,0 +1,32 @@
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. INADIMPLÊNCIA. VENCIMENTO ANTECIPADO DA DÍVIDA. PRESCRIÇÃO. TERMO INICIAL INALTERADO. DATA DE VENCIMENTO DA ÚLTIMA PRESTAÇÃO. ACÓRDÃO RECORRIDO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por COMPANHIA DE HABITAÇÃO DE LONDRINA - COHAB-LD, com base no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+AGRAVO INTERNO - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO PRECEDENTE AGRAVO DE INSTRUMENTO - EXECUÇÃO HIPOTECÁRIA PARA COBRANÇA DE PRESTAÇÕES LÍQUIDAS DE CONTRATO DE FINANCIAMENTO IMOBILIÁRIO - RECONHECIMENTO DE PRESCRIÇÃO DAS PARCELAS VENCIDAS HÁ MAIS DE CINCO ANOS DA DISTRIBUIÇÃO - PRAZO QUINQUENAL - EXEGESE DOS ARTIGOS 2028 E 206, §5º DO CC - PRECEDENTES - DESPROVIMENTO DO PRESENTE RECURSO ANTE A NÃO VIOLAÇÃO AO DISPOSTO NO CAPUT DO ART. 557 DO CPC. Agravo interno desprovido. (e-STJ fl. 139)
+Nas razões recursais, a recorrente defende a violação do art. 199 do Código Civil e dos arts. 282, 283 e 284 do Código de Processo Civil de 1973, bem como a existência de dissídio jurisprudencial, ao argumento, em síntese, de que deve ser afastado o reconhecimento da prescrição das prestações contratuais vencidas há mais de cinco anos da distribuição da ação, pois, "em que pese a lesão ao direito da recorrente ter ocorrido em junho/2003, o que possibilitaria a execução antecipada de todo o contrato, evidenciado ficou o vencimento antecipado da dívida, mas não a antecipação do início do curso da prescrição, o qual somente passará a correr com o término do contrato" (e-STJ fl. 158), isto é, com o vencimento de sua última parcela. Assevera, ainda, que a garantia hipotecária deve ser reconhecida como causa suspensiva do prazo prescricional e que a prescrição não é causa para a determinação de emenda à petição inicial.
+Sem contrarrazões.
+É o breve relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do Código de Processo Civil de 1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (cf. Enunciado Administrativo n. 2/STJ).
+A irresignação recursal merece acolhida.
+A discussão dos presentes autos gira em torno do termo inicial do prazo prescricional na hipótese de contrato de execução continuada - prestações sucessivas -, com expressa previsão, no caso de impontualidade, de vencimento antecipado da dívida.
+Sobre o tema, esta Corte Superior tem entendimento firmado no sentido de que, nas hipóteses de financiamento de mútuo habitacional, o vencimento antecipado da obrigação não modifica o início do prazo prescricional, a ser contado da data do vencimento certo indicado no título, isto é, o dia do vencimento da última prestação.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE MÚTUO. EMBARGOS DO DEVEDOR. PRESCRIÇÃO. TERMO INICIAL. ÚLTIMA PRESTAÇÃO. DATA DO VENCIMENTO.
+1. O vencimento antecipado da dívida não altera o início da fluência do prazo prescricional, prevalecendo para tal fim o termo ordinariamente indicado no contrato, que, no caso (mútuo imobiliário), é o dia do vencimento da última parcela.
+2. Agravo interno não provido
+(AgInt no AREsp 1.094.478/RS, TERCEIRA TURMA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe 02/02/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. MÚTUO IMOBILIÁRIO. INADIMPLEMENTO. VENCIMENTO ANTECIPADO DA DÍVIDA. PRESCRIÇÃO. TERMO INICIAL. DATA DO VENCIMENTO DA ÚLTIMA PARCELA DO CONTRATO.
+PRECEDENTES. NEGADO PROVIMENTO.
+1. A jurisprudência desta Corte de Justiça firmou entendimento de que o vencimento antecipado do contrato por inadimplemento do devedor não altera o termo inicial da prescrição, que, no caso de mútuo imobiliário, é o dia do vencimento da última parcela.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1520483/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL.  ..  PRESCRIÇÃO. TERMO INICIAL. CLÁUSULA QUE PREVÊ O VENCIMENTO ANTECIPADO DA DÍVIDA NA HIPÓTESE DE INADIMPLEMENTO. DISPOSIÇÃO CONTRATUAL QUE NÃO ALTERA O TERMO A QUO, QUE CONTINUA SENDO A DATA DO VENCIMENTO DA ÚLTIMA PARCELA DO CONTRATO. JUROS REMUNERATÓRIOS. RAZOABILIDADE E PROPORCIONALIDADE. INEXISTÊNCIA DE CAPITALIZAÇÃO DE JUROS. MULTA CONTRATUAL REDUZIDA NA ORIGEM. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO IMPROVIDO.  ..
+5. A jurisprudência desta Corte de Justiça tem reiterado o entendimento de que o vencimento antecipado do contrato por inadimplemento do devedor não altera o termo inicial da prescrição, o qual deve ser contado do término da avença nos termos em que estipulado. 6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.356.274/MG, TERCEIRA TURMA, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 06/04/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 206, § 3º, II, CC. INOCORRÊNCIA. VENCIMENTO ANTECIPADO DA DÍVIDA. PRAZO PRESCRICIONAL. DATA DO VENCIMENTO INDICADO NO TÍTULO. SÚMULA 83/STJ. INCIDÊNCIA. REGIMENTAL NÃO PROVIDO. 1. Esta Corte pacificou entendimento no sentido de que, mesmo diante do vencimento antecipado da dívida, subsiste inalterado o termo inicial do prazo de prescrição - no caso, o dia do vencimento da última parcela. Precedentes. 2. Agravo regimental não provido. (AgRg nos EDcl no AREsp 522.138/SP, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 01/02/2016)
+No caso sob apreciação, o Tribunal de origem afastou o termo inicial do prazo prescricional a partir do vencimento da última parcela em atraso, ao entendimento de que, tratando-se de prestações periódicas, a pretensão executiva nasce com o vencimento de cada parcela, em dissonância, portanto, com o entendimento desta Corte Superior, razão pela qual se impõe a reforma do acórdão recorrido.
+Ante o exposto, com base no art. 932, inciso V, do CPC/2015 c/c a Súmula 568/STJ, dou provimento ao recurso especial para reconhecer como termo inicial do prazo prescricional a data de vencimento da última prestação do contrato, determinando o retorno dos autos ao Tribunal de origem para prosseguir no julgamento, conforme entender de direito.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do Código de Processo Civil de 2015 (cf. Enunciado Administrativo n. 3/STJ).
+Intimem-se.
