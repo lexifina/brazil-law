@@ -1,0 +1,61 @@
+EMENTA
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E RESPECTIVA ASSOCIAÇÃO. PRISÃO CAUTELAR. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar para garantia da ordem pública, especialmente em elemento extraído da conduta perpetrada pelos acusados, qual seja, a reiteração delitiva, eis que consignado pelo juízo de primeiro grau que os recorrentes possuem outros processos em tramitação pela prática do crime de tráfico de drogas.
+2. Recurso a que se nega provimento.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça: A Sexta Turma, por unanimidade, negou provimento ao recurso ordinário, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+Ministra MARIA THEREZA DE ASSIS MOURA (Relatora):
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto pelos recorrentes acima descritos contra acórdão do Tribunal de Justiça do Estado do Piauí (HC nº 2017.0001.011211-2).
+Consta dos autos que os recorrentes foram presos em flagrante, em 14/9/2017 (fls. 8 a 34), e denunciados, em 25/10/2017 (fls. 51 a 53), como incurso nos arts. 33 e 35, c.c. o art. 40, III, da Lei nº 11.343/2006, sendo que a custódia foi convertida em preventiva em 25/9/2017 (fl. 7).
+Irresignada, a defesa ajuizou prévio writ perante o Tribunal de origem, que denegou a ordem, conforme acórdão assim ementado (fls. 74 e 75):
+HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. PERICULOSIDADE SOCIAL. RISCO REAL DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. PROCEDIMENTOS CRIMINAIS ANTERIORES. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. HABEAS CORPUS CONHECIDO E DENEGADO.
+1 - A decisão do magistrado a quo não carece de fundamentação concreta, uma vez que fez referência expressa às circunstâncias do caso, apontando a gravidade concreta do delito imputado, com base na natureza e na quantidade de drogas, a periculosidade social dos pacientes e ainda o risco real de persistência delitiva.
+2 - Segundo consta dos autos, a Polícia recebeu diversas denúncias de vizinhos de que a residência de [NOME] estava sendo utilizada como ponto de venda, distribuição e consumo de drogas. Efetuadas então diligências preliminares, e constatadas as suspeitas diante do intenso fluxo de pessoas, foi requerido pela autoridade policial um mandado judicial de busca e apreensão na referida residência, que foi deferido pelo magistrado a quo. Na diligência, os policiais flagraram os pacientes com dois invólucros de maconha, oitenta pedras de crack, uma balança de precisão, dinheiro em cédulas e moedas diversas, e ainda seis celulares e duas motocicletas. Ouvindo usuários de drogas, apurou-se que os pacientes supostamente aceitavam alguns bens em troca de drogas.
+3 - A aparente comercialização ilícita de drogas tinha sede na própria residência de um dos pacientes, durante dia e noite, o que torna claramente inócua a fixação de medidas cautelares diversas da prisão, como a restrição domiciliar ou o recolhimento noturno e em finais de semana, mesmo o monitoramento eletrônico. Enfim, o magistrado também ressalta que existem procedimentos criminais em tramitação contra os pacientes, reforçando a impossibilidade de fixação de medidas cautelares diversas e justificando de forma suficiente a decretação da prisão preventiva, de forma a proteger a ordem pública da insistente atuação delitiva dos pacientes.
+4 - Habeas Corpus conhecido e denegado, acordes com o parecer ministerial superior.
+No presente recurso, reitera os argumentos vertidos na origem, alegando, em suma, fundamentação inidônea na decisão que converteu a segregação dos recorrentes em provisória, bem como ausência dos requisitos previstos no art. 312 do Código de Processo Penal.
+Aduz que "a decisão que decretou a prisão preventiva dos recorrentes não deve prevalecer, dês que calcado em fundamento frágeis e incoerentes" (fl. 87).
+Argumenta que, "analisando os autos deste caso em comento, não há razões para a decretação da prisão preventiva dos recorrentes, ou seja, a decisão do magistrado não tem amparo legal, tendo em vista que não dados concretos demonstrativos de que a liberdade dos indiciados representaria ameaça à instrução criminal ou mesmo que se furtariam à aplicação da lei penal, caso sejam condenados" (fl. 88).
+Assere que ", o fato de os Recorrentes responderem a outra Ação Penal, por si só, não pode orientar a decretação da sua prisão preventiva" (fl. 89).
+Requer, liminarmente e no mérito, o provimento do recurso para que seja revogada a prisão cautelar dos recorrentes.
+A liminar foi indeferida às fls. 101-104.
+Foram juntadas informações às fls. 109-111 e 115-125.
+O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República [NOME], manifestou-se pelo não provimento do recurso ordinário. (fls. 127-134).
+É o relatório.
+EMENTA
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E RESPECTIVA ASSOCIAÇÃO. PRISÃO CAUTELAR. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar para garantia da ordem pública, especialmente em elemento extraído da conduta perpetrada pelos acusados, qual seja, a reiteração delitiva, eis que consignado pelo juízo de primeiro grau que os recorrentes possuem outros processos em tramitação pela prática do crime de tráfico de drogas.
+2. Recurso a que se nega provimento.
+
+VOTO
+Ministra MARIA THEREZA DE ASSIS MOURA (Relatora):
+A questão trazida a deslinde abarca o exame acerca da fundamentação empregada no encarceramento cautelar dos recorrentes.
+Conforme reiterada jurisprudência desta Corte Superior de Justiça, toda custódia imposta antes do trânsito em julgado de sentença penal condenatória exige concreta fundamentação, nos termos do disposto no art. 312 do Código de Processo Penal.
+In casu, o juízo de primeiro grau converteu a prisão em flagrante dos recorrentes em preventiva dada a suposta prática dos delitos previstos nos arts. 33 e 35, c.c. o art. 40, III, da Lei nº 11.343/2006 , sob os seguintes fundamentos (fl. 7):
+(..)
+As prisões, analisadas pelos aspectos legais, não comportam, aqui, oportunidade para o relaxamento, vez que no caso em tela constato que se encontram presentes a materialidade dos delitos, haja vista que os produtos do tráfico, objetos e valores a ele relacionados foram encontrados na casa ocupada pelos autuados.
+Registre-se que as prisões levadas a efeito foram decorrentes de um mandado de busca e apreensão expedido contra o primeiro autuado, cuja medida se deu com grande êxito, vez que drogas, dinheiro, balança de precisão e outros bens relacionados ao tráfico foram encontrados e apreendidos.
+Ademais, os indícios de autorias dos delitos se fazem presentes, pelo que se extrai dos depoimentos colhidos e dos próprios interrogatórios dos autuados presos, com narrativas detalhadas dos crimes cometidos.
+Percebe-se que a atividade criminosa na casa do primeiro autuado era fato de conhecimento de toda a vizinhança, e que as ações tinham participação de todos os indiciados.
+Importante ressaltar, também, que contra os indiciados já há registro de outros processos em tramitação nesta Comarca, por tráfico de drogas, ficando claro que os crimes agora cometidos não constituem atos isolados em suas vidas.
+Assim sendo, revela-se inadequada a aplicação de medidas cautelares diversas da prisão preventiva, esta necessária para a garantia da ordem pública, tão vulnerabilizada com o crescente e alarmante número de delitos dessa natureza, que vem assombrando nossa sociedade.
+Isto posto, nos termos do art. 310, II, e presentes os requisitos do art. 312 c/c art. 313, I, todos do CPP, CONVERTO a prisão de [NOME] ALVES [NOME] GUEDES, JAMES DA COSTA BRITO e DYEGO DA CRUZ ALVES em PREVENTIVA, determinando sejam expedidos mandados respectivos, para cumprimento imediato.
+Verifica-se, pois, que a custódia cautelar foi decretada para o resguardo da ordem pública, em razão da reiteração delitiva dos recorrentes, eis que consignado pelo juízo de primeiro grau que os acusados possuem outros processos em tramitação pela prática do crime de tráfico de drogas.
+Dessarte, estando o decreto prisional lastreado em elementos concretos colhidos dos próprios autos, não há imputar qualquer ilegalidade à custódia. Neste sentido:
+RECURSO EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juízo singular ressaltou o fundado risco de reiteração delitiva, visto que o acusado ostenta diversas passagens por atos infracionais análogos a delitos de roubo, homicídio, tráfico de drogas, porte ilegal de arma de fogo, entre outros, além de registrar processos diversos em andamento.
+3. Consoante entendimento firmado pela Terceira Seção do Superior Tribunal de Justiça no julgamento do RHC n. 63.855/MG, não constitui constrangimento ilegal a manutenção da custódia ante tempus com fulcro em anotações registradas durante a menoridade do agente se a prática de atos infracionais graves, reconhecidos judicialmente e não distantes da conduta em apuração, é apta a demonstrar a periculosidade do custodiado.
+4. Recurso não provido.
+(RHC 95.702/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/04/2018, DJe 16/04/2018)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. INOCORRÊNCIA. RISCO DE REITERAÇÃO DELITIVA. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - A tese referente à ilegalidade da prisão preventiva diante da demora na realização da audiência de custódia, restou superada diante da análise da prisão em flagrante e a sua conversão em da prisão preventiva, que ocorreu pouco mais de 48 horas após o fato (precedentes).
+III - In casu, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade dos ora recorrentes acarretaria risco à ordem pública, notadamente em razão dos indícios de contumácia na prática de delitos, visto que um dos recorrentes teria um mandado de prisão em aberto, e outros dois estariam em prisão domiciliar, tudo a indicar o fundado receio de reiteração delitiva, assim como pela forma pela qual o delito foi perpetrado, roubo em concurso de agentes, com emprego de arma de fogo e restrição da liberdade das vítimas (precedentes).
+Recurso ordinário parcialmente conhecido e, nesta extensão, desprovido.
+(RHC 77.895/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 14/03/2017, DJe 22/03/2017)
+Assim, dada as particularidades acima citadas, indicativas da necessidade do encarceramento, penso ser inviável a liberação dos recorrentes, visto que existente fundamentação idônea da cautelaridade.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+É como voto.
