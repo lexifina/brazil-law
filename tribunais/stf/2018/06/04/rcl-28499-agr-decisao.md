@@ -1,0 +1,27 @@
+Decisão: Trata-se de reclamação com pedido de medida liminar, ajuizada por Júlio Sérgio Freitas, em favor de Joacir Franzen, com fundamento no artigo 103-A, § 3º, da Constituição Federal, apontando como autoridade reclamada o Tribunal de Justiça do Estado de Santa Catarina, por alegada violação da Súmula Vinculante 56 do STF.
+    Narra a inicial que o reclamante foi condenado à pena total de 5 anos e 4 meses de reclusão, a ser cumprida inicialmente no regime semiaberto. (eDOC 7)
+    Foi então concedida ao apenado a prisão domiciliar, por entender o Juízo da Execução que o local de cumprimento da pena não atendia aos padrões exigidos pela Lei de Execução Penal. (eDOC 5)
+    Irresignado, o Ministério Público interpôs agravo em execução no Tribunal de Justiça catarinense, que conheceu do recurso e lhe deu provimento a fim de cassar a prisão domiciliar e determinar o retorno do apenado a estabelecimento compatível com o cumprimento da pena no regime semiaberto.
+    Em 11.10.2017, em decisão de minha lavra, foi negado seguimento à reclamação (eDOC 12).
+    A defesa apresentou agravo regimental afirmando que não foi disponibilizado ao apenado estabelecimento compatível com o regime semiaberto. Reitera que a Penitenciária Industrial de Joinville não possui condições de atender os presos do regime intermediário.
+    Requer, assim, seja determinado ao sentenciado o cumprimento de pena em regime domiciliar.
+    Em parecer, a Procuradoria-Geral da República opinou pelo provimento do agravo regimental e acolhimento da reclamação (eDOC 16).
+    Verifico que, em inspeção realizada na Penitenciária Industrial de Joinville, o Juízo da Execução atestou:
+    “a ala intitulada ‘semiaberto’ segue os moldes do regime fechado da Penitenciária, com murada, grades, arames farpados e segurança externa, sendo a única diferença que as portas dos cubículos não são trancadas durante o dia, tendo os detentos acesso aos outros cubículos, todos concentrados porém no corredor, úmido e sem ventilador. Ficam eles recolhidos, fechados, na galeria, margeados por muros e grades, repita-se: nos mesmos moldes do regime fechado. No momento da inspeção estavam no setor cerca de 100 detentos e muitos pediam por trabalho, estudo ou que voltassem ao regime fechado, onde teriam essas possibilidades. Assim, constata-se que a ala inspecionada não se enquadra em absoluto nos termos legais de ‘Colônia Agrícola, Industrial’ ou sequer similar”. (eDOC 6, p. 11).
+    Examino, ainda, que o mesmo juízo informou que alertou ao Estado sobre a referida situação e que oficiou à Secretaria de Estado da Justiça e Cidadania de Santa Catarina e ao Diretor da DEAP para adequar o cumprimento das penas dos detentos do regime semiaberto. Comunica, entretanto, que nenhuma ação foi realizada (eDOC 5, p. 9).
+    É o relatório.
+    No Recurso Extraordinário 641.320/RS, esta Corte atestou que o fato de o apenado encontrar-se em estabelecimento prisional mais gravoso do que aquele estipulado viola a Súmula Vinculante 56, cujo teor é o seguinte: “A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS”.
+    Verifica-se que o precedente paradigma da citada súmula vinculante foi o tema 423 da repercussão geral, cuja tese firmada restou assim ementada:
+    “I - A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso;
+    II - Os juízes da execução penal poderão avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para qualificação como adequados a tais regimes. São aceitáveis estabelecimentos que não se qualifiquem como ‘colônia agrícola, industrial’ (regime semiaberto) ou ‘casa de albergado ou estabelecimento adequado’ (regime aberto) (art. 33, § 1º, alíneas ‘b’ e ‘c’);
+    III - Havendo déficit de vagas, deverá determinar-se: (i) a saída antecipada de sentenciado no regime com falta de vagas; (ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; (iii) o cumprimento de penas restritivas de direito e/ou estudo ao sentenciado que progride ao regime aberto. Até que sejam estruturadas as medidas alternativas propostas, poderá ser deferida a prisão domiciliar ao sentenciado”.
+    Ou seja, o STF reconheceu a ilegitimidade do cumprimento de pena em regime mais grave que o imposto na sentença, justificado pela ausência de vaga em estabelecimento prisional adequado a seu regime.
+    Sendo assim, diante das informações do Juízo da Execução e do parecer da Procuradoria-Geral da República, oficie-se:
+    a) ao Conselho Nacional de Justiça, para que, no prazo de 10 dias, informe sobre o andamento da criação do Cadastro Nacional de Presos (BNMP 2.0), em todo o Brasil e, em especial, em razão desta Reclamação, no Estado de Santa Catarina.
+    b) à Secretaria de Estado da Justiça e Cidadania de Santa Catarina, para que, também no prazo de 10 dias, informe quais medidas estão sendo tomadas para adequar o cumprimento das penas dos detentos do regime semiaberto.
+    c) ao Diretor da Penitenciária Industrial de Joinville- DEAP, para que, no prazo de 10 dias, informe quais medidas estão sendo tomadas para adequar o cumprimento das penas dos detentos do regime semiaberto.
+    Publique-se.
+    Brasília, 4 de junho de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
