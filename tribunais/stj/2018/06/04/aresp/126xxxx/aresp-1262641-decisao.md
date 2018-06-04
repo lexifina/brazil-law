@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NOBRE SEGURADORA DO BRASIL S.A - EM LIQUIDACAO - EM LIQUIDAÇÃO EXTRAJUDICIAL, em face de decisão que negou seguimento ao recurso especial, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, contra acórdão assim ementado:
+EMENTA: APELAÇÃO - INDENIZAÇÃO - ACIDENTE DE TRANSITO ÔNIBUS - MORTE DE PASSAGEIRO - RESPONSABILIDADE OBJETIVA - CULPA CONCORRENTE DA VÍTIMA - REDUÇÃO DO VALOR DOS DANOS MORAIS - JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA - TERMO INICIAL.
+- É objetiva a responsabilidade do transportador em relação ao transportado, sendo elidida somente quando comprovado que o evento danoso ocorreu por culpa exclusiva da vítima ou por caso fortuito ou força maior.
+- A vítima que coloca a cabeça para fora do ônibus em movimento contribui, inequivocamente, para o sinistro, configurando culpa concorrente, devendo ser considerada a reciprocidade de culpas quando do arbitramento dos danos morals.
+- A perda de filho prematuramente, em virtude de acidente de trânsito gera indiscutível dor moral, passível de ressarcimento.
+-O valor da indenização por danos morais merece ser reduzido, tendo em vista a concorrência de culpas e a condição econômica do autor, de modo a evitar o seu enriquecimento.
+- Entre o transportador e o transportado há relação contratual, ainda que tácita, sendo inaplicável em razão disso o enunciado da Súmula 54 do STJ, incidindo os juros moratórios desde a citação (art. 219 do CPC) e a correção monetária a partir do arbitramento da indenização por danos morais.
+PENSÃO MENSAL - FAMÍLIA DE BAIXA RENDA - DEPENDÊNCIA DOS PAIS EM RELAÇÃO AO FILHO MENOR - PRESUMIDA - IDADE LIMITE - TERMO FINAL - CONSTITUIÇÃO DE CAPITAL - SÚMULA 313 DO STJ - SUBSTITUIÇÃO PELA INCLUSÃO EM FOLHA DE PAGAMENTO - ART. 475-0, § 2º DO CPC - POSSIBILIDADE.
+-É devido ao pal, que perde filho menor, pagamento de pensão mensal, sendo presumida a sua dependência econômica em relação a ele, principalmente quando se trata de família de baixa renda, segundo entendimento consolidado no Colendo Superior Tribunal de Justiça.
+- A pensão deve corresponder a 2/3 do salário mínimo no período em que o menor falecido teria entre 16 e 25 anos, reduzida a partir de então para 113 até o momento em que completaria 65 anos de idade.
+- É devida a constituição de capital, nas hipóteses de condenação ao pensionamento mensal, podendo ser substituída por inclusão em folha de pagamento, em razão da capacidade econômica da parte ré.
+DESCONTO DO SEGURO DPVAT DA INDENIZAÇÃO POR DANOS MATERIAIS - CABIMENTO.
+- É admitida a a dedução do valor devido a titulo de seguro obrigatório do montante fixado a título de danos materiais, o que inclui as despesas com o funeral, bem como o pensionamento mensal.
+LIDE SECUNDARIA - DIREITO DE REGRESSO DO DENUNCIANTE - SEGURADORA DENUNCIADA - DEVER DE REEMBOLSO NOS LIMITES DO CONTRATO.
+- A seguradora tem o dever de reembolsar as coberturas expressamente contratadas e até o limite das importâncias seguradas constantes da apólice.
+APELAÇÃO CÍVEL Nº 1.0145.08.437764-0/001- COMARCA DE JUIZ DE FORA -1º APELANTE: VIAÇÃO SAO FRANCISCO LTDA E OUTRO(A)(S), [NOME] - 2º APELANTE: NOBRE SEGURADORA BRASIL S/A - APELADO(A)(S): JOSE MARIA DA SILVA
+Não foram opostos embargos de declaração.
+Nas razões do especial, aponta a parte agravante violação aos artigos 186 e 738 do Código Civil, e do artigo 14, § 3º, inciso II, do Código de Defesa do Consumidor, ante a culpa exclusiva da vítima, que colocou a cabeça para fora da janela do ônibus, e a ausência de responsabilidade civil da transportadora; alega ofensa ao artigo 407 do Código Civil, uma vez que os juros de mora, em indenização por danos morais, devem incidir a partir do arbitramento.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, observo que o Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela caracterização do dano moral indenizável, assim se pronunciando (e-STJ fls. 650/656):
+In casu, o julgador monocrático arbitrou a indenização em R$124.400,00, tomando como parâmetro 200 (duzentos) salários mínimos, quantia que reputo excessiva considerando, especialmente, a ocorrência de culpa concorrente e a condição econômica do autor, pessoa simples, de poucos recursos financeiros, para quem tal valor representaria o seu evidente enriquecimento, situação que foge aos objetivos do dano moral e que não se pode admitir.
+Entendo, desse modo, que o valor da indenização por danos morais merece ser reduzido para o montante equivalente a 50 (cinquenta) salários mínimos atuais, ou seja, R$33.900,00, importância que reputo razoável e suficiente para reparar a dor sofrida e, ainda, atender ao caráter punitivo -pedagógico da condenação.
+ ..
+No presente caso, tem-se que tal substituição deve ser autorizada, como pleiteado pelo primeiro apelante, tendo em vista que se trata de empresa concessionária de transporte público, em funcionamento desde 1966 e com elevado capital integralizado, conforme consta do contrato social colacionado a folhas 88/100, o que demonstra sua estabilidade financeira, autorizadora da substituição pretendida.
+Referentemente ao pleito de dedução do DPVAT, conquanto este seguro tenha sido idealizado para atender às primeiras necessidades decorrentes de danos pessoais provocados poracidente de trânsito, principalmente os relativos às despesas com funeral, com médicos, com medicamentos e hospitais, possui um limite inexorável que, na maioria dos casos, fica aquém do prejuízo material efetivamente sofrido pela vítima. Daí a necessidade de se fixar o complemento até o exato limite do dano.
+ ..
+Quanto à NOBRE SEGURADORA DO BRASIL S/A, esta deve suportar os danos no limite do valor contratado na apólice nº 66604, fls.
+117.
+Por todo o exposto, acompanho o voto do Douto Relator para DAR PARCIAL PROVIMENTO A AMBAS OS RECURSOS, para reduzir o valor dos danos morais para R$33.900,00, que deverá ser corrigido monetariamente a partir do arbitramento e acrescido de juros moratórios de 1 % ao mês, a contar da citação, por não se tratar de dano extracontratual, autorizando a substituição da constituição de capital pela inclusão do Autor na folha de pagamento da empresa Ré, determinando a dedução do valor do seguro DPVAT da indenização por danos materiais.
+O acolhimento das razões do recurso especial, a fim de demover as conclusões da Corte de origem, demandaria reexame de matéria fática, o que esbarra na Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil/2015, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
