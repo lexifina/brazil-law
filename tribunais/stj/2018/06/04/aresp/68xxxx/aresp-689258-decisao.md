@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado pelo DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL contra decisão em que foi inadmitido recurso especial interposto com apoio nas alíneas "a" e "c" do permissivo constitucional contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ fl. 59):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. CRITÉRIOS PARA APURAÇÃO DO CRÉDITO EXEQUENDO. PRECLUSÃO. OCORRÊNCIA. MATÉRIA JÁ DECIDIDA.
+1. Considerando que a questão relativa aos cálculos para apuração do crédito exequendo já havia sido apreciada pelo julgador de primeiro grau, tem-se por operada a preclusão.
+2. Tem-se, pois, que o MM. Juiz a quo agiu com acerto ao indeferir o pedido de reenvio dos autos à Contadoria Judicial, em face da ocorrência da preclusão.
+3. Agravo de Instrumento conhecido e não provido.
+No especial obstaculizado, o ora agravante apontou, além de divergência jurisprudencial, violação do art. 1º-F da Lei n. 9.494/1997 e 4º do Lei n. 4.595/1964, sustentando que a legislação de regência proíbe a incidência de juros sobre juros (anatocismo), bem como não se operar a preclusão quanto a erro de cálculo, "devendo os autos ser encaminhados à contadoria judicial para elaboração da planilha de atualização" (e-STJ fl. 77).
+Sem contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que a reforma do acórdão demandaria novo exame fático-probatório (Súmula 7 do STJ).
+Em sua irresignação, o agravante infirma a decisão agravada e, no mais, reitera os argumentos articulados no recurso especial.
+Sem contraminuta .
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado n. 2).
+Disto isso, no que diz respeito à alegação de contrariedade aos arts. 1º-F da Lei n. 9.494/1997 e 4º do Decreto n. 4.595/1964, verifica-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.".
+Quanto à inexistência de preclusão, verifica-se que a parte recorrente não indicou o dispositivo legal sobre o qual recai a divergência jurisprudencial invocada, atraindo, dessa forma, a incidência da Súmula 284 do STF, por deficiência na fundamentação.
+Nesse mesmo sentido, confiram-se precedentes:
+PROCESSUAL CIVIL E RESPONSABILIDADE CIVIL DO ESTADO. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. NECESSIDADE DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL NO RECURSO ESPECIAL INTERPOSTO PELA ALÍNEA "C". SÚMULA 284/STF. PRISÃO PREVENTIVA. POSTERIOR ABSOLVIÇÃO. INDENIZAÇÃO POR DANOS MORAIS. EXCESSO DE PRAZO E ERRO JUDICIÁRIO. INEXISTÊNCIA. RESPONSABILIDADE OBJETIVA DO ESTADO NÃO CONFIGURADA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Destaco que a divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. É indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de caracterizar a interpretação legal divergente.
+2. O desrespeito a esses requisitos legais e regimentais impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+3. Ainda quanto ao dissídio jurisprudencial, segundo a firme jurisprudência assentada neste Superior Tribunal, a interposição do Recurso Especial com fundamento na alínea "c" não dispensa a indicação do dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais.
+4. O não cumprimento de tal requisito, como no caso, importa deficiência de fundamentação, atraindo a incidência do contido no enunciado 284 da Súmula do Supremo Tribunal Federal.
+(..)
+7. Recurso Especial não conhecido.
+(REsp 1660460/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/05/2017, DJe 20/06/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. DIREITO À NOMEAÇÃO. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO FEDERAL. NÃO INDICAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. DIVERGÊNCIA PRETORIANA NÃO DEMONSTRADA. REPERCUSSÃO GERAL RECONHECIDA PELO STF. SOBRESTAMENTO DO FEITO NO STJ. DESNECESSIDADE. PRECEDENTES. 1. Na interposição do recurso especial com base na alínea c do permissivo constitucional é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial. Assim, não pode ser conhecido o presente recurso especial, nos termos da Súmula 284/STF.
+2. Ainda com relação à alegada divergência jurisprudencial, o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ. Com efeito, a parte recorrente não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar os pontos em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 707.506/PB, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 30/06/2015)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
