@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A, com fundamentado no art. 105, III, a, da Constituição Federal, contra acórdão assim ementado:
+AGRAVO REGIMENTAL. AÇÃO DE REVISÃO DE CLAUSULAS. TARIFAS BANCÁRIAS. TARIFA DE CADASTRO. REGISTRO D E CONTRATO. GRAVAME ELETRÔNICO. SERVIÇOS PRESTADOS À FINANCEIRA. COMISSÃO DE PERMANÊNCIA.
+1) Desde a Resolução CRM 3.518/2007, é possível a cobrança de tarifas nos contratos de operação de crédito e de arrendamento mercantil, desde que o fato gerador esteja previsto em ato normativo do Banco Central e no contrato, conforme jurisprudência do STJ (REsp 1255573 e REsp 1251331).
+2) Desde a Resolução CRM 3.518/2007, é possível a cobrança de tarifa de cadastro, para o início da relação jurídica, considerando a sua previsão expressa, bem como a definição do seu fato gerador.
+3) Não cabe a estipulação de ressarcimento de serviço prestado por terceiro - incluídas as despesas relativas a registro do contrato, gravame e serviços prestados à financeira - diante da vedação estabelecida na Resolução 3954/2011, pois se trata de repasse de custo inerente à atividade principal da instituição bancária, além de violar os princípios da publicidade e da transparência previstos no CDC.
+4) Ainda que sob nomenclatura distinta, não é possível a incidência da comissão de permanência com outros encargos moratórios, devendo prevalecer no contrato de forma isolada (fl. 309).
+Opostos embargos de declaração, foram rejeitados.
+O recorrente aponta ofensa aos arts. 535, II, e 458, II, do CPC/73, 4º, IX, e 9º da Lei 4.595/64 e à Resolução 2303/96. Sustenta, em síntese, legalidade das tarifas operacionais.
+É o relatório. Passo a decidir.
+Nos termos do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Quanto à apontada ofensa ao art. 535 e 458 do CPC/1973, cabe ao recorrente indicar os motivos específicos pelos quais haveria violação da norma, apontando, de forma clara e objetiva, o vício existente no acórdão recorrido e qual sua pertinência na solução da controvérsia. Na espécie, isso deixou de ser feito.
+A alegação genérica de ofensa ao art. 535 do CPC configura deficiência na fundamentação recursal, o que atrai a incidência da Súmula 284/STF. Nesse sentido, salienta o Ministro Sidnei Beneti, que "a ausência de demonstração de como ocorreu a ofensa ao art. 535, do CPC é deficiência, com sede na própria fundamentação da insurgência recursal, que impede a abertura da instância especial, a teor do enunciado 284 da Súmula do Supremo Tribunal Federal, aplicável por analogia, também ao recurso especial" (AgRg no Ag 1.162.073/MG, Terceira Turma, DJe de 12.5.2010). Confiram-se ainda: AgInt no AREsp 288.217/RS, AgInt no REsp 1552190/RS, REsp 1659713/SP.
+No mais, não houve manifestação do tribunal a quo a respeito do conteúdo normativo dos arts. 4º, IX, e 9º da Lei 4.595/64 (Súmulas 282/STF e 211/STJ).
+Registre-se, ainda, que é inviável a insurgência recursal quanto à alegada ofensa a resolução, tendo em vista que a competência desta Corte restringe-se ao exame de violação à lei federal (CF, art. 105).
+Além disso, o recurso especial deixou de impugnar especificamente a motivação do acórdão recorrido, assim resumida:
+Não cabe a estipulação de ressarcimento de serviço prestado por terceiro - incluídas as despesas relativas a registro do contrato, gravame e serviços prestados à financeira - diante da vedação estabelecida na Resolução 3954/2011, pois se trata de repasse de custo inerente à atividade principal da instituição bancária, além de violar os princípios da publicidade e da transparência previstos no CDC (fl. 309).
+Nesse contexto, as razões recursais estão deficientemente fundamentadas, aplicando-se ao caso as Súmulas 283 e 284/STF.
+Ante o exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
