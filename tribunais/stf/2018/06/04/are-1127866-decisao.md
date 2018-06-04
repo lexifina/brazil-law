@@ -1,0 +1,10 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 228):
+    “APELAÇÃO — AÇÃO ORDINÁRIA — SERVIDORES PÚBLICOS ESTADUAIS — ESCRIVÃES, PERITOS E INVESTIGADORES DA POLÍCIA CIVIL — ADICIONAL POR TEMPO DE SERVIÇO (QUINQUÊNIO) — Pretensão à inicial dos  autores, servidores  públicos estaduais, vinculados à polícia civil, voltada à condenação da Administração Pública a proceder ao recálculo de seus respectivos adicionais por tempo de serviço, na espécie quinquênio, fazendo com que passe a incidir sobre a integralidade de suas verbas remuneratórias — Impossibilidade — Observação à legislação específica aplicável a esta espécie de servidor - Adicional quinquenal, cuja base de cálculo é integrada pelo vencimento padrão, mais as gratificações especificadas no inciso I e II, do art. 122 31, da LCE n° 731/93 - Inteligência do art. 115, XVI, da Constituição Estadual cc. art. 37, XIV, da CF/88 e art. 17, do ADCT - Sentença de improcedência do feito confirmada — Recurso desprovido.”
+    De plano, verifica-se que a controvérsia cinge-se ao Tema 702 da sistemática da repercussão geral, cujo recurso paradigma é o RE 764.332 RG, Rel. Min. Joaquim Barbosa, Tribunal Pleno, DJe 21.03.2014, assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. QUINQUÊNIO. INCIDÊNCIA SOBRE OS VENCIMENTOS INTEGRAIS, INCLUINDO OS ADICIONAIS E AS GRATIFICAÇÕES REPUTADOS COMO DE NATUREZA PERMANENTE. INTERPRETAÇÃO DE LEGISLAÇÃO ESTADUAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. ATRIBUIÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 1.036 do CPC, combinado com o art. 328 do RISTF.
+    Publique-se.
+    Brasília, 4 de junho de 2018.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
