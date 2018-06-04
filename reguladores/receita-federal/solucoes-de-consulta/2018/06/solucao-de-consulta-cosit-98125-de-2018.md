@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98125, de 24 de maio de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 2938.90.90 Mercadoria: Adoçante natural obtido mediante extração do glicosídeo de esteviol de folhas da planta Stevia Rebaudiana, contendo rebaudiosídeo A e/ou esteviosídeo, que conferem sabor doce a alimentos e bebidas, em substituição ao açúcar, e apresentado para comercialização, na forma líquida, em frascos de 30 ml e de 80 ml, e, na forma sólida, em cartuchos com 50 envelopes de 0,05g ou de 0,07g ou, a granel, em caixas de 20 quilos. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 29.38), RGI 6 (texto da subposição 2938.90) e RGC 1 (texto do item 2938.90.9) da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.125-2018 .pdf]
