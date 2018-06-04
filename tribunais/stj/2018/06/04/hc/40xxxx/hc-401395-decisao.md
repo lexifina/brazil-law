@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora a 6ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de Minas Gerais, no julgamento da Apelação n. 1.0090.14.004585-8/001.
+Sustenta o impetrante a existência de constrangimento ilegal, em razão do excesso de prazo na formação da culpa, uma vez que o paciente encontra-se enclausurado há mais de três anos.
+Alega que o acórdão recorrido manteve indevidamente a prisão preventiva, ignorando o fato de que o paciente já se encontrava no gozo de livramento condicional.
+Defende que a guia de execução provisória da pena ainda não teria sido recolhida, mesmo após a anulação da sentença.
+Por fim, afirma ser o paciente primário e possuir bons antecedentes, o que lhe permitiria responder ao processo em liberdade.
+Requereu, liminarmente e no mérito, a concessão da ordem para que fosse revogada a segregação cautelar do paciente, expedindo-se alvará de soltura e, ainda, o recolhimento da guia de execução provisória da pena.
+A liminar foi indeferida.
+Solicitadas informações, foram devidamente prestadas.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do writ, "mas pela concessão parcial da ordem de ofício para que seja determinado o recolhimento da guia de execução provisória da pena e recomendado ao TJ/MG que promova determinação ao juízo de origem para que tome as providências necessárias para dar maior celeridade ao feito" (e-STJ fl. 171).
+É o relatório.
+Infere-se dos autos, que o paciente teve prisão preventiva decretada em 10-7-14, e restou denunciado pela suposta prática do delito tipificado nos art. 2º, § 4º, inciso I, da Lei n. 12.850/13, porque, juntamente com 14 corréus, "constituíram e integraram pessoalmente organização criminosa, vez que se associaram em mais de 4 (quatro) pessoas, com estrutura ordenada e caracterizada pela divisão de tarefas, ainda que informalmente, a fim de obter direta ou indiretamente, vantagem de qualquer natureza, mediante a prática de infrações penais diversas, dentre elas o tráfico de drogas, homicídio e posse de arma de fogo de uso restrito, havendo em seus quadros a participação de criança e adolescentes" (e-STJ fl. 18).
+Consta dos autos, que a denúncia imputou a alguns dos acusados a prática dos crimes de homicídio e de organização criminosa, enquanto que, em relação aos demais, apenas o crime de organização criminosa (e-STJ fl. 90).
+No curso do processo, o magistrado singular optou por desmembrar o feito, que seguiu o rito ordinário quanto aos denunciados apenas pelo crime de organização criminosa.
+Em 20-08-2018, o Juízo processante julgou procedente a denúncia e condenou o acusado nas sanções do artigo 2º, § 2º e § 4º, inciso I, da Lei n. 12.850/13, à pena de 5 (cinco) anos de reclusão, mais multa, no regime inicial semiaberto, vedando-lhe o apelo em liberdade e determinando a expedição de guia para execução provisória.
+Inconformada, a defesa interpôs recurso de apelação para a Corte estadual que, por sua vez, rejeitou a preliminar de inépcia da denúncia e acolheu a preliminar de incompetência do juízo primevo, para anular a referida sentença em relação a todos os réus, determinando que o processo seguisse o rito dos crimes dolosos contra a vida, diante da existência de conexão entre os delitos - organização criminosa e homicídio -, ocasião em que manteve a prisão preventiva decretada em desfavor do ora paciente, sob os seguintes fundamentos:
+" ..  no que tange ao pedido de expedição de alvará de soltura em favor dos réus razão não socorre à Defesa, porquanto não há que se falar em excesso de prazo.
+Isto porque, a instrução do feito já se encerrou e o retorno dos autos à origem é apenas para se prolatar uma decisão da fase de pronúncia.
+Ademais, ainda permanecem presentes os motivos que ensejaram a prisão dos réus, mormente para a garantia da ordem publica, tendo em vista o envolvimento dos réus com o submundo do crime e da reiteração criminosa" (e-STJ fl. 98-99).
+Opostos embargos de declaração, foram rejeitados, tendo sido o acórdão assim ementado (e-STJ fls. 128-131):
+EMENTA: EMBARGOS DECLARATÓRIOS - OBSCURIDADE - INEXISTÊNCIA - NULIDADE DA SENTENÇA - EXPEDIÇÃO DE ALVARÁ - INCONFORMISMO COM O RESULTADO DO JULGAMENTO.
+1. Se consta no acórdão que a prisão do embargante deveria ser mantida, mesmo diante da nulidade da sentença, não há omissão ou obscuridade a ser suprida. 2. O que visa o embargante é modificar parte do julgado, o que não é cabível através da via dos embargos de declaração. 3. Eventuais inconformismos com o resultado devem ser levados á apreciação de Instâncias Superiores.
+Das informações colhidas na origem, verifica-se que, encerrada a primeira fase do processo afeto ao Júri - judicium accusationis -, no dia 4-9-2017, o acusado e demais corréus foram pronunciados para serem submetidos a julgamento popular, como incurso no art. 2º, § 2º e § 4º, inciso I, da Lei n. 12.850/13, oportunidade em que a prisão processual do paciente foi mantida, nestes termos:
+"Denego aos acusados, ora pronunciados, o direito de recorrerem em liberdade, vez que não há nos autos fatos novos autorizadores de suas liberações e, ainda, por estarem presentes os requisitos exigidos para a prisão cautelar, em especial para a garantia da ordem pública, aplicação da lei penal e por conveniência da instrução criminal (art. 312 do CPP)".
+Delineado o contexto fático, inicialmente, quanto a tese de excesso de prazo na instrução criminal, verifica-se que houve o encerramento da primeira etapa do processo - já tendo inclusive sido prolatada pronúncia -, hipótese que atrai a incidência do entendimento firmado no Enunciado n.º 21 da Súmula desta Corte Superior, que possui o seguinte teor: "Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução".
+Colacionam-se, a propósito, os seguintes precedentes:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO. SUPERVENIÊNCIA DE PRONÚNCIA. ENUNCIADO Nº 21 DA SÚMULA DO STJ. RECURSO DESPROVIDO.
+ ..
+2. As circunstâncias descritas denotam a personalidade violenta e perigosa do recorrente, o qual teria praticado a tentativa de homicídio por desconfiar que a vítima o denunciara pela participação em crime de tráfico ilícito de entorpecentes, de modo que a segregação se mostra necessária como forma de garantir a ordem pública e a própria segurança da vítima.
+3. Nos termos do enunciado n. 21 da Súmula do Superior Tribunal de Justiça, pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução.
+4. Recurso desprovido.
+(RHC 64.279/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/04/2016, DJe 20/04/2016 - grifamos)
+AGRAVO REGIMENTAL. EXCESSO DE PRAZO. SENTENÇA DE PRONÚNCIA PROFERIDA. INCIDÊNCIA DA SÚMULA 21 DO STJ.
+1. Pronunciado o réu, fica superada a alegação de constrangimento ilegal da prisão por excesso de prazo na instrução, nos termos da Súmula 21/STJ.
+2. Agravo regimental improvido.
+(AgRg no HC 340.517/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2015, DJe 05/02/2016)
+Quanto as alegações de ilegalidade da decisão que manteve a segregação cautelar do paciente que se encontrava no gozo de livramento condicional, bem como quanto ao pedido de recolhimento da guia de execução provisória, razão não assiste ao impetrante, uma vez que, conforme demonstrado, a sentença condenatória foi anulada pelo Tribunal recorrido e, posteriormente, foi proferida sentença de pronúncia mantendo a prisão preventiva do paciente, restando prejudicado o habeas corpus quanto tais alegações, tendo em vista que a segregação passou a decorrer de novo título, cuja legalidade ainda não foi examinada pelo Tribunal originário.
+Ante o exposto, julga-se prejudicado o HABEAS CORPUS, com fulcro no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intimem-se.
+Após o trânsito em julgado, arquivem-se.
