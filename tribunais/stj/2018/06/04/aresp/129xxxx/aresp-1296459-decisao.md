@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+" PLANO DE SAÚDE Contrato coletivo - Pedido de revisão do reajuste aplicado para fins de reequilíbrio contratual A operadora não demonstrou os critérios adotados nos cálculos Parâmetros obscuros Reajuste que deve ser considerado como abusivo Adoção dos índices estabelecidos pela ANS Necessidade Recurso desprovido."
+Embargos declaratórios opostos foram rejeitados (fls. 330/332).
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 1022 do CPC/2015 e 884 do CC, além de divergência jurisprudencial. Sustenta, em síntese: (a) omissão no acórdão recorrido porquanto determinou, segundo o agravante, a observância dos limites de reajustes da ANS, todavia, a referida agência não regulamenta preços nos contratos coletivos; e (b) no mérito, defende enriquecimento ilícito em razão do indeferimento do reajuste.
+É o relatório. Decido.
+Na hipótese em exame, aplica-se o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Não assiste razão ao recorrente.
+Primeiro, porque a matéria apresentada na petição de embargos (fls. 330/332) não tratou da "observância dos índices da ANS", logo não há que se falar em omissão quanto à questão.
+Segundo, ao contrário do que alega, o acórdão recorrido, firmado na jurisprudência do STJ, concluiu pela abusividade das cláusulas em razão de não terem sido apresentados os critérios ou a justificativa contábil para a majoração. Tal fundamento, aliás, que não foi impugnado, o que atrai a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, a revisão desse entendimento esbarra nas Súmulas 05 e 07/STJ.
+Terceiro, que a tese apresentada no recurso especial, não foi apreciada pelo Tribunal a quo, tampouco foram opostos embargos declaratórios, a ela concernente, para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Por fim, o entendimento do acórdão recorrido esposa o entendimento deste STJ no sentido da necessidade de que o reajuste dos planos de saúde reflitam os critérios apresentados ao consumidor de sua motivação, bem como sejam claros quanto aos seus cálculos. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem consigna que o percentual de reajuste de 23, 53% implementado no contrato de plano de saúde coletivo, aos usuários que completam 59 anos é abusivo. Além disso, considerou nula a cláusula contratual que tratava de reajuste da mensalidade por mudança de faixa etária, embasada no aumento de sinistralidade, por ser abusiva, visto não estar amparada por critérios objetivos. A reforma do aresto, nestes aspectos, demanda inegável necessidade de interpretação de cláusula contratual e reexame de matéria probatória, providências inviáveis de serem adotadas em sede de recurso especial, ante o óbice das Súmulas 5 e 7 desta Corte.
+2. Agravo interno não provido." (AgInt no AREsp 1207360/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/05/2018, DJe 14/05/2018);
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO. READEQUAÇÃO DO MODELO CONTRIBUTIVO. REVISÃO DO JULGADO. REEXAME DE CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. REAJUSTE REALIZADO SEM OS CRITÉRIOS DEFINIDOS. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. AUSÊNCIA DE FUNDAMENTOS NOVOS CAPAZES DE DERRUIR A DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO." (AgInt no AREsp 1083955/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/02/2018, DJe 02/03/2018)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
