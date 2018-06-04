@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Apelação Cível - Mandado de Segurança - Idade mínima, aproveitamento e certificação - Cursos de Educação para Jovens e Adultos (EJA) - Deliberação n° 82/2009, do Conselho Estadual de Educação – Sentença que julgou improcedente a demanda, denegando a segurança – Recurso voluntário da impetrante - Desprovimento de rigor - Preliminar insubsistente Carência da ação - Inocorrência - Condição para o exercício do direito de ação que está preenchida, porquanto possui a impetrante a necessidade na propositura da demanda a fim de obter o bem jurídico pretendido – No mérito, o apelo não comporta acolhimento - Direito líquido e certo não demonstrado de plano - Deliberação CEE n° 82/2009 que exige, dos alunos, idade mínima de 18 (dezoito) anos e submissão a exame organizado pela Secretaria Estadual de Educação para o recebimento da correspondente certificação - Atendimento aos Princípios da Legalidade e da Razoabilidade - Precedente desta C. Corte de Justiça - Sentença mantida e ratificada, nos termos do art. 252 do Regimento Interno deste E. Tribunal de Justiça - Preliminar rejeitada - Recurso voluntário da impetrante desprovido”
+    O recuso extraordinário foi interposto com fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 22, XXIV; 205, e 209 da Constituição.
+    O recurso é inadmissível, tendo em vista que, para chegar a conclusão diversa do acórdão recorrido, seriam imprescindíveis a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável em recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 04 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
