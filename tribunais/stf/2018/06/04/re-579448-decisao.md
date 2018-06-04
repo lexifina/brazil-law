@@ -1,0 +1,13 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 1ª Região.
+    No apelo extremo, interposto com amparo no art. 102, III, da Constituição Federal, a parte recorrente sustenta que houve ofensa a dispositivos constitucionais.
+    É o relatório. Decido.
+    A fundamentação do Tribunal de origem não diverge do entendimento firmado no SUPREMO TRIBUNAL FEDERAL. Nesse sentido:
+    “MANDADO DE SEGURANÇA - CONCURSO PÚBLICO - CARGO DE DELEGADO DE POLÍCIA FEDERAL - INSCRIÇÃO EM CURSO DE FORMAÇÃO PROFISSIONAL ASSEGURADA POR FORÇA DE LIMINAR JUDICIAL - PRETENDIDA NOMEAÇÃO, EM CARÁTER DEFINITIVO, PARA O REFERIDO CARGO PÚBLICO - INADMISSIBILIDADE - PROVISORIEDADE DA LIMINAR MANDAMENTAL - COMPETÊNCIA MONOCRÁTICA DO MINISTRO-RELATOR PARA NEGAR PROVIMENTO A RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA - AGRAVO IMPROVIDO. A CONCESSÃO DE LIMINAR MANDAMENTAL NÃO BASTA, SÓ POR SI, PARA GARANTIR, EM CARÁTER DEFINITIVO, A NOMEAÇÃO E A POSSE EM DETERMINADO CARGO PÚBLICO. A mera concessão de liminar mandamental - consideradas as notas de transitoriedade, cautelaridade, provisoriedade e instabilidade que tipificam esse provimento judicial - não basta, só por si, em face de sua evidente precariedade, para assegurar, em caráter permanente, a nomeação e a posse em determinado cargo público, pois tais atos administrativos, quando vindicados em sede judicial, somente se revelam compatíveis com a definitiva prolação de ato sentencial favorável. Precedentes. JULGAMENTO MONOCRÁTICO DO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. O Relator, na direção dos processos em curso perante a Suprema Corte, dispõe de competência, para, em decisão monocrática, julgar recurso ordinário em mandado de segurança, desde que - sem prejuízo das demais hipóteses previstas no ordenamento positivo (CPC, art. 557) - a pretensão deduzida em sede recursal esteja em confronto com Súmula ou em desacordo com a jurisprudência predominante no Supremo Tribunal Federal.” (RMS 23.590-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJ de 14/6/2002) “
+    Apreciado o mérito do apelo extremo, fica prejudicada a análise dos pedidos constantes nas Petições 2.732/2011 e 9.931/2012.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO. Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 4 de junho de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
