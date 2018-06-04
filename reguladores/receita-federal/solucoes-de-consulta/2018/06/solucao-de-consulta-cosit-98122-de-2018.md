@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98122, de 24 de maio de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3401.11.90 Mercadoria: Lenço e toalha umedecido(a), de toucador, de falso tecido impregnado de solução detergente, contendo água, lanolina, extrato de babosa, perfume, cocoamidopropil betaína, solventes e conservantes, próprio para higiene corporal, de uso infantil ou adulto. DISPOSITIVOS LEGAIS: RGI-1 (textos da Nota 3 do Capítulo 34 e da posição 34.01), RGI-6 (textos da subposição de 1º nível 3401.1 e de 2º nível 3401.11) e RGC-1 (texto do item 3401.11.90) da NCM/SH, constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.122-2018 .pdf]
