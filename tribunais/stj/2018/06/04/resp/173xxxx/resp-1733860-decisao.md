@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+Atraso na entrega da obra. Chaves liberadas com seis meses de atraso, tendo ocorrido um mês depois de quitada a parcela final. Inocorrência de danos morais e ausência de prejuízo material. Cobrança de juros antes da entrega admitida pelo STJ. Inadmissível restituição de despesas com escrituração. Ação improcedente. Recurso das rés provido, prejudicado o adesivo.
+Alega-se violação dos artigos 10, 489 e 1.022 do Código de Processo Civil; 402, 476 e 1.228 do Código Civil; e 44 da Lei 4.591/64 ao argumento de que o acórdão é omisso, que houve danos indenizáveis em razão do atraso na entrega do imóvel, que é inexigível a prestação da parte contrária antes de realizada a própria nos contratos bilaterais e que, por fim, devem ser restituídos das despesas cartorários para registro e translação do imóvel.
+Assim delimitada a controvérsia, passo a decidir.
+Não é omisso e nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+Quanto ao pedido indenizatório, esta Corte tem, de fato, entendimento de que o atraso na entrega do imóvel enseja, por si só, a indenização por lucros cessantes.
+Há, todavia, peculiaridades nos autos que demonstram que os recorrentes também estavam em mora.
+Isso porque "foi definida a data de fevereiro/2011 para a liberação, com prazo de tolerância de 180 dias (cláusula XXII  fls. 43), sendo que em 30.1.2012 os autores celebraram o contrato de financiamento que permitiu a quitação (fls. 94). As chaves foram entregues em 1.2.2012" (e-STJ, fl. 531).
+Concluiu a Corte local, portanto, "que o pagamento do preço ocorreu antes (trinta dias) da entrega das chaves, sendo natural entender que somente quando quitado integralmente o preço da aquisição é que os compradores passam o a ter prerrogativas equiparadas ao proprietário com título registrado (art. 1228, do CC)" (e-STJ, fl. 533).
+Se a Corte de origem entendeu que o atraso em questão não gerou danos indenizáveis, seja porque os compradores não tinham o direito ao imóvel após a quitação do preço, seja porque razoável a demora de 30 (trinta) dias para a sua entrega após a quitação, o reexame da questão esbarra no óbice de que tratam os enunciados n. 5 e 7 da Súmula desta Casa.
+Por fim, foi rejeitado pedido de ressarcimento das despesas cartorárias porque os recorrentes "agiram de forma espontânea quando concordaram em realizar o pagamento. Essa posição é mantida independente de ter ocorrido pagamento direto ou para a construtora, porque na essência o que importa é que não houve erro" (e-STJ, fl. 543).
+Esse fundamento, de que o pagamento foi espontâneo e indene de erro, fundamento para o ressarcimento, deixou de ser combatido, a atrair as disposições do verbete n. 283 da Súmula do Supremo Tribunal Federal.
+Diante do exposto, nego provimento ao recurso especial. Tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro, sobre o seu próprio valor, em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil.
+Intimem-se.
