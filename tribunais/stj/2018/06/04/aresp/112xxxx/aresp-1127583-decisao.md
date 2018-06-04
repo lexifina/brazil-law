@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra decisão do Tribunal Regional Federal da 1ª Região, a qual não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 96):
+PREVIDENCIÁRIO E CONSTITUCIONAL. APELAÇÃO EM MANDADO DE SEGURANÇA. AUXÍLIO-DOENÇA. COPES (ALTA PROGRAMADA). ILEGITIMIDADE DO PROCEDIMENTO. OFENSA AO ARTIGO 62 DA LEI 8.213/91. DIREITO AO BENEFÍCIO. NECESSIDADE DE COMPROVAÇÃO DO RESTABELECIMENTO.
+1. O INSS, reiteradamente, utiliza-se do programa denominado Cobertura Previdenciária Estimada (COPES), também conhecido como alta programada, o qual fixa a data da cessação do benefício automaticamente com base no diagnóstico do paciente, simplesmente pelo decurso de tempo.
+2. É evidente que se a prática instituída pelo procedimento em testilha tivesse se mostrado favorável aos segurados do RGPS eles não teriam ajuizado a verdadeira avalanche de processos judiciais contra a prática adotada.
+3. A latere, caso o INSS pretendesse otimizar os procedimentos relativos às perícias feitas para primariamente uma nova perícia, o pagamento da prestação ficaria assegurado até pelo menos a data para ela aprazada.
+4. Ao fim, a regra infralegal combatida neste mandamus colide frontalmente com a determinação presente no art. 62 da Lei n. 8.213/91, dispositivo que garante ao segurado o direito à percepção do auxílio-doença até que se comprove a sua reabilitação, não havendo espaço, portanto, para prévias presunções de recuperação.
+5. Apelação da parte autora provida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 110/114).
+No especial obstaculizado, o recorrente apontou, além de dissídio jurisprudencial, violação do art. 78, § 1º, do Decreto 3.048/1999, sob o argumento da desnecessidade de prévia perícia médica para cessação do auxílio-doença, considerando suficiente o mecanismo da alta programada.
+Transcorrido in albis o prazo para contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de ausência de dissídio jurisprudencial e incidência da Súmula 83 do STJ.
+Na presente irresignação, o agravante sustenta que demonstrou a divergência jurisprudencial, bem como não haver jurisprudência pacífica no STJ sobre a necessidade de nova perícia para a manutenção ou suspensão do auxílio-doença.
+Parecer da douta Subprocuradoria-Geral da República pelo não provimento do recurso especial (e-STJ fls. 156/160).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito tal esclarecimento, verifico que não prospera a irresignação.
+É que a jurisprudência do Superior Tribunal de Justiça tem se firmado no sentido da impossibilidade de cancelamento automático do benefício previdenciário, "ainda que diante de desídia do segurado em proceder à nova perícia perante o INSS, sem que haja prévio procedimento administrativo, sob pena de ofensa aos princípios da ampla defesa e do contraditório" (REsp 1.544.417/MT, Relator Ministro MAURO CAMPBELL MARQUES, DJe de 19/08/2015).
+No mesmo sentido:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUXÍLIO-DOENÇA. ALTA PROGRAMADA. IMPOSSIBILIDADE. OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. NECESSIDADE DE PERÍCIA. INCIDÊNCIA DA SÚMULA N. 83/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. CABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - É pacífico o entendimento no Superior Tribunal de Justiça no sentido da impossibilidade da alta médica programada para cancelamento automático do benefício previdenciário de auxílio-doença, sem que haja prévia perícia médica que ateste a capacidade do segurado para o desempenho de atividade laborativa que lhe garanta a subsistência, sob pena de ofensa aos princípios da ampla defesa e do contraditório. Precedentes.
+III - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação.
+VI - Considera-se manifestamente improcedente e enseja a aplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 nos casos em que o Agravo Interno foi interposto contra decisão fundamentada em precedente julgado sob o regime da Repercussão Geral, sob o rito dos Recursos Repetitivos ou quando há jurisprudência pacífica de ambas as Turmas da 1ª Seção acerca do tema (Súmulas ns. 83 e 568/STJ).
+VII - Agravo Interno improvido, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(AgInt no REsp 1547268/MT, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 24/10/2017, DJe 10/11/2017) (Grifos acrescidos).
+Dessa forma, o art. 78, § 1º, do Decreto 3.048/1999, alterado pelo Decreto 5.844/2006, ao dispor que "o INSS poderá estabelecer, mediante avaliação médico-pericial, o prazo que entender suficiente para a recuperação da capacidade para o trabalho do segurado, dispensada nessa hipótese a realização de nova perícia", extrapolou os limites legais expressos nos arts. 60 e 62, os quais asseguram a manutenção do benefício enquanto o segurado permanecer incapaz e a submissão deste a processo de reabilitação profissional, in verbis:
+Art. 60. O auxílio-doença será devido ao segurado empregado a contar do décimo sexto dia do afastamento da atividade, e, no caso dos demais segurados, a contar da data do início da incapacidade e enquanto ele permanecer incapaz.
+Art. 62. O segurado em gozo de auxílio-doença, insuscetível de recuperação para sua atividade habitual, deverá submeter-se a processo de reabilitação profissional para o exercício de outra atividade
+A propósito:
+TRIBUTÁRIO. AITP. LEI 8.630/93 E DECRETO 1.035/93. SUJEITO PASSIVO DA OBRIGAÇÃO. NULIDADE DO ACÓRDÃO. PRELIMINAR REJEITADA.
+JURISPRUDÊNCIA PACÍFICA. PRECEDENTES.
+- Preliminar de nulidade rejeitada, por não caracterizada violação ao art. 535 do CPC.
+- O decreto regulamentar não pode ir além do disposto na lei a que se refere.
+- O sujeito passivo do adicional de indenização do trabalhador portuário avulso é o operador portuário.
+- Recurso especial conhecido e provido.
+(REsp 433.829/SP, Rel. Ministro FRANCISCO PEÇANHA MARTINS, SEGUNDA TURMA, julgado em 20/09/2005, DJ 24/10/2005, p. 233) (Grifos acrescidos).
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. VIOLAÇÃO DO ARTIGO 535 DO CPC. NÃO CARACTERIZAÇÃO. EXERCÍCIO DE ATIVIDADE ESPECIAL. SEGURADO CONTRIBUINTE INDIVIDUAL NÃO COOPERADO. POSSIBILIDADE. COMPROVAÇÃO DA ATIVIDADE ESPECIAL. REVISÃO DO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NESSA PARTE NÃO PROVIDO.
+1. Não há violação do artigo 535 do Código de Processo Civil, pois in casu o Tribunal Regional Federal da 4ª Região analisou integralmente todas as questões levadas à sua apreciação, notadamente, a possibilidade de se reconhecer ao segurado contribuinte individual tempo especial de serviço, bem como conceder o benefício aposentadoria especial.
+2. O caput do artigo 57 da Lei 8.213/1991 não traça qualquer diferenciação entre as diversas categorias de segurados, elegendo como requisitos para a concessão do benefício aposentadoria especial tão somente a condição de segurado, o cumprimento da carência legal e a comprovação do exercício de atividade especial pelo período de 15 (quinze), 20 (vinte) ou 25 (vinte e cinco) anos.
+3. O artigo 64 do Decreto 3.048/1999, ao limitar a concessão do benefício aposentadoria especial ao segurado empregado, trabalhador avulso e contribuinte individual cooperado, extrapola os limites da Lei de Benefícios que se propôs regulamentar, razão pela qual deve ser reconhecida sua ilegalidade.
+4. Tese assentada de que é possível a concessão de aposentadoria especial ao contribuinte individual não cooperado que cumpra a carência e comprove, nos termos da lei vigente no momento da prestação do serviço, o exercício de atividade sob condições especiais que prejudiquem a sua saúde ou sua integridade física pelo período de 15 (quinze), 20 (vinte) ou 25 (vinte cinco) anos.
+5. Alterar a conclusão firmada pelo Tribunal de origem quanto à especialidade do trabalho, demandaria o necessário reexame no conjunto fático-probatório, prática que esbarra no óbice da Súmula 7/STJ.
+6. Recurso especial parcialmente conhecido e nessa parte não provido.
+(REsp 1436794/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/09/2015, DJe 28/09/2015) (Grifos acrescidos).
+Dessa forma, incide o óbice da Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
