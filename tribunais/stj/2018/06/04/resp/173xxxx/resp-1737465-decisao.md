@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial, interposto por SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 1.293/1.315, e-STJ):
+Ação de Indenização - Seguro habitacional - inversão do ônus probatório determinada no saneador, que não foi objeto de recurso - Ausência de depósito dos honorários periciais pela ré - Preclusão da prova técnica - Danos nos imóveis que se reputam existentes - Dever de indenizar configurado - Aplicação da multa decendial - Necessidade - Legitimidade dos autores para a respectiva cobrança - Precedentes do Colendo Superior Tribunal de Justiça e desta Egrégia Câmara - Preliminares rejeitadas e apelo desprovido.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial (fls. 1.362/1.387, e-STJ), a recorrente aponta, além de dissídio jurisprudencial, violação, pelo aresto estadual, aos artigos 757 do Código Civil
+Sustenta, em suma: a) que "analisando conjuntamente o instrumento da apólice (cláusulas 3ª e 4ª) bem como a legislação de regência (artigo 757 do Código Gvil), notamos claramente a impossibilidade de cobertura - por exclusão contratual - de riscos ou danos oriundos de má execução ou vícios na execução da obra (causa interna)" (fl. 1.368, e-STJ); e, b) a ocorrência da prescrição ânua.
+Contrarrazões (fls. 1.416/1.439, e-STJ), e após decisão de admissão do recurso especial (fls. 1.441/1.443, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Relativamente à alegação de ausência de previsão de cobertura contratual de vícios construtivos, igualmente, na hipótese, a sua análise da demandaria a incursão em aspectos probatórios e contratuais, o quais foram minuciosamente examinados pela instância precedente, portanto, inviável em sede de recurso especial, nos termos das Súmulas 05 e 07 do STJ.
+Nesse diapasão:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO HABITACIONAL. DISCUSSÃO ENTRE SEGURADORA E MUTUÁRIO. NÃO COMPROMETIMENTO DO FUNDO DE COMPENSAÇÃO DE VARIAÇÕES SALARIAIS (FCVS). APLICAÇÃO DA SÚMULA 83 DESTE STJ. PRESCRIÇÃO. INOCORRÊNCIA. TERMO INICIAL. INVIABILIDADE DE SE DETERMINAR COM EXATIDÃO A DATA DA CIÊNCIA INEQUÍVOCA DO DANO. ESCORREITA APLICAÇÃO DA SÚMULA 83 DESTA CORTE. RESPONSABILIDADE DA SEGURADORA. NECESSIDADE DE REEXAME DE ACERVO PROBATÓRIO E INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O julgamento do REsp n.º 1.091.363/SC, representativo de causas repetitivas, assentou o entendimento de que "nos feitos em que se discute a respeito de contrato de seguro adjeto a contrato de mútuo, por envolver discussão entre seguradora e mutuário, e não afetar o FCVS (Fundo de Compensação de Variações Salariais), inexiste interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário, sendo, portanto, da Justiça Estadual a competência para o seu julgamento."
+2. Consoante entendimento deste Superior Tribunal de Justiça, não é possível determinar com exatidão o termo inicial do prazo prescricional, uma vez que, pela natureza dos danos, estes só foram exteriorizados ao longo do tempo. Precedente.
+3. Alterar a conclusão da Corte local acerca da cobertura da apólice securitária quanto aos vícios de construção demandaria interpretação de cláusulas contratuais e análise de provas, o que atrai a incidência das Súmulas 5 e 7/STJ.
+4. Agravo regimental a que se nega provimento, com aplicação de multa.
+(AgRg no AREsp 128.710/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/02/2013, DJe 18/02/2013)
+2. Por fim, quanto à alegação de prescrição, melhor sorte não lhe assiste.
+Na hipótese, vale destacar que o acórdão recorrido, em sintonia com o entendimento do Superior Tribunal de Justiça, reconheceu que os danos físicos a darem gênese ao pedido de pagamento de indenização securitária surgiram progressivamente, não se podendo extrair data certa para a deflagração da contagem do prazo prescricional.
+É, aliás, o que se verifica do seguinte excerto do aresto guerreado (fl. 1.005, e-STJ):
+Prescrição igualmente inocorreu porque no caso em se tratando de danos que se desenvolvem no tempo, impossibilitavam a definição exata do início do termo prescricional.
+Ademais, na hipótese não são os autores os segurados diretos, mas sim os beneficiários do seguro habitacional.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. FCVS. CAIXA ECONÔMICA FEDERAL. LITISCONSÓRCIO PASSIVO NECESSÁRIO. INEXISTÊNCIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. JURISPRUDÊNCIA. PRESCRIÇÃO. NÃO OCORRÊNCIA. SÚMULA 7/STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. A Segunda Seção do Superior Tribunal de Justiça, ao julgar os recursos sujeitos aos efeitos do artigo 543-C do CPC (repetitivos), REsp 1.091.363/SC, DJe de 25/05/2009, consolidou o entendimento no sentido de não existir interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário nas causas cujo objeto seja a pretensão resistida à cobertura securitária dos danos oriundos dos vícios de construção do imóvel financiado mediante contrato de mútuo submetido ao Sistema Financeiro da Habitação, quando não afetar o FCVS (Fundo de Compensação de Variações Salariais), sendo, portanto, da Justiça Estadual a competência para processar e julgar o feito.
+2. "Sendo os danos ao imóvel de natureza sucessiva e gradual, sua progressão dá azo a inúmeros sinistros sujeitos à cobertura securitária, renovando seguidamente a pretensão do beneficiário do seguro e, por conseguinte, o marco inicial do prazo prescricional" (REsp 1143962/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/03/2012, DJe 09/04/2012).
+3. Não tendo o acórdão fixado um marco inicial para a fluência do prazo prescricional, não se revela possível, na via especial, reconhecer a prescrição, uma vez que demandaria reexame de provas.
+Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 533.161/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/09/2014, DJe 23/09/2014 - grifo nosso)
+Aplica-se, pois, na espécie, o óbice insculpido na Súmula 07 do STJ.
+3. Ante o exposto, nego seguimento ao recurso especial.
+Publique-se. Intimem-se.
