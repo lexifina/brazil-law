@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de reclamação ajuizada por Evenmob Consultoria de Imóveis Ltda em face de decisão proferida pela Ministra Laurita Vaz no AREsp nº 1277812/SP nos seguintes termos:
+Trata-se de agravo interposto contra a decisão que negou seguimento ao recurso especial em virtude de o acórdão recorrido estar em consonância com tese firmada sob o rito dos recursos repetitivos, cuja intimação efetivou-se já na égide do novo Código de Processo Civil.
+É o breve relato do necessário.
+Decido.
+Consoante o disposto no art. 1.030, § 2.º, do Código de Processo Civil, é cabível agravo interno contra a decisão que nega seguimento a recurso especial com base no art. 1.030, I, b, do mesmo Codex Processual. Confira-se:
+"Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..  b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021." Na hipótese, a decisão agravada foi publicada já na vigência do atual Código de Processo Civil, o que inviabiliza a aplicação do princípio da fungibilidade, uma vez que não há mais dúvidas objetivas acerca do recurso cabível.
+Ante o exposto, com fundamento no artigo 932, inciso III, do Código de Processo Civil, NÃO CONHEÇO do presente agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte Recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos no § 2.º do referido dispositivo legal, bem como a eventual concessão da gratuidade de justiça.
+Aduz a reclamante que "a decisão monocrática proferida pelo I. Ministra Relatora LAURITA VAZ, nos autos do AGRAVO EM RECURSO ESPECIAL Nº 1277812/SP (2018/0086893-8)", está em desacordo com a orientação da Colenda 2ª Turma desta Corte Superior relativa ao prazo prescricional e àtransferência do ônus ao promitente comprador quanto à cobrança dos valores desembolsados a titulo de corretagem e taxa de serviço técnico imobiliário.
+Afirmar que no caso dos autos "os Reclamados foram devidamente informados, no ato da negociação de compra e venda, o valor total do negócio, incluídas aí as despesas de corretagem, que seriam destinadas à Reclamante; inclusive, anuíram com todas as cláusulas contratuais do instrumento de particular de compromisso de compra e venda, restando perfeitamente válida a transferência da cobrança em seu favor".
+Assim posta a questão, passo a decidir.
+Compete ao Superior Tribunal de Justiça processar e julgar, originariamente, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões, bem como para garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência, conforme disposto nos artigos 105, I, "f", da Constituição Federal, e 988 do Código de Processo Civil de 2015, sendo, pois, instrumento processual de caráter específico e de aplicação restrita.
+No presente caso, a reclamação não foi manejada para preservar a competência desta Corte nem para garantir a autoridade de suas decisões, mas, simplesmente, com o propósito de reformar decisão proferida pela Ministra Laurita Vaz, não se verificando, pois, nenhuma das hipóteses previstas nos artigos 105, I, "f", da Constituição Federal, e 988 do Código de Processo Civil de 2015, mostrando-se totalmente incompatível com os objetivos tutelados pelo instituto processual-constitucional da Reclamação, tornando inviável o seu seguimento, não servindo a reclamação como via do recurso e, tão pouco, para revisão de decisão proferida por esta Corte que, inclusive, já transitou em julgado e, ainda, não adentrou no mérito do recurso, dado ter sido a ele negado seguimento em razão do seu não cabimento.
+Cumpre destacar ser assente nesta Corte o entendimento no sentido de que é incabível reclamação para impugnar julgado proferido pelo próprio Superior Tribunal de Justiça. São, dentre outros, os seguintes julgados:
+AGRAVO INTERNO NA RECLAMAÇÃO. PROPOSITURA CONTRA ATO DO PRÓPRIO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO CABIMENTO.
+1. Reclamação ajuizada contra decisão proferida nos autos do REsp nº 1.438.263/SP, que determinou a suspensão de todos os processos em trâmite no País versando sobre a legitimidade ativa de não associado para a liquidação/execução da sentença coletiva.
+2. De acordo com a pacífica jurisprudência desta Corte, é incabível a reclamação que objetiva impugnar decisão do próprio Superior Tribunal de Justiça.
+3. Agravo interno não provido."
+(AgInt na Rcl 31.835/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 10/8/2016, DJe 19/8/2016)
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DO DESCUMPRIMENTO DE DECISÃO DO TRIBUNAL POR ÓRGÃO JULGADOR DO PRÓPRIO STJ. DESCABIMENTO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A competência originária desta Corte para processar e julgar reclamação, prevista nos arts. 105, I, f, da Constituição Federal e 187 do RISTJ, limita-se à preservação de sua competência ou à garantia da autoridade de suas próprias decisões, não sendo admissível o seu uso quando a autoridade reclamada for órgão julgador do próprio STJ.
+2. Agravo regimental desprovido.
+(AgRg na Rcl 29.987/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 13/4/2016, DJe 19/4/2016).
+PROCESSO CIVIL. RECLAMAÇÃO. A reclamação supõe ato de juiz ou tribunal que afronte a autoridade de decisão do Superior Tribunal de Justiça ou que lhe usurpe competência; não é o caso quando o ato impugnado é de órgão julgador do próprio Superior Tribunal de Justiça. Agravo regimental desprovido.
+(AgRg na Rcl 10.593/DF, Rel. Ministro ARI PARGENDLER, PRIMEIRA SEÇÃO, julgado em 12/12/2012, DJe 1º/2/2013)
+Em face do exposto, com fundamento no art. 34, XVIII, do Regimento Interno do Superior Tribunal de Justiça, nego seguimento à reclamação.
+Intimem-se.
