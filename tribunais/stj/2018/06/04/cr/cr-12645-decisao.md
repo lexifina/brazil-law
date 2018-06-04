@@ -1,0 +1,21 @@
+DECISÃO
+Vistos, etc.
+Trata-se de carta rogatória pela qual a Justiça portuguesa solicita que se proceda à citação de JULIO MASTER COELHO DE MENDONCA para responder a uma ação penal pelo crime de "usurpação de funções" (fl. 11), devendo ser tomado o "Termo de Identidade e Residência" (fl. 14), segundo o texto rogatório.
+A intimação prévia foi recebida por terceiro, conforme documento postal de fls. 28-29.
+Em seguida, a parte Interessada, por intermédio de patrono devidamente constituído, colacionou petição às fls. 31-40. Requereu a não concessão da ordem em razão da deficiência na instrução do feito e a ocorrência da prescrição da pretensão punitiva.
+O Ministério Público Federal, em parecer à fl. 42, opina pela concessão do exequatur.
+É o relatório. Decido.
+De início, a alegação de que a carta rogatória foi deficientemente instruída não se sustenta, porque o pedido de diligência (fls. 1-20) está com todas as informações necessárias à compreensão da controvérsia e da providência requerida pela Justiça rogante, motivo pelo qual é desnecessária a juntada de elementos informativos aos autos.
+Nesse sentido, veja-se precedente:
+"AGRAVO INTERNO NA CARTA ROGATÓRIA. TESE DE DEFICIÊNCIA NA INSTRUÇÃO. DOCUMENTAÇÃO SUFICIENTE PARA COMPREENSÃO DA CONTROVÉRSIA. A CONCESSÃO DE EXEQUATUR À CARTA ROGATÓRIA NÃO IMPORTA EM VIOLAÇÃO DA GARANTIA CONTRA A AUTOINCRIMINAÇÃO. DIREITO DE O AGRAVANTE NÃO PRODUZIR PROVA CONTRA SI PRESERVADO. AGRAVO INTERNO DESPROVIDO.
+1. A carta rogatória para a concessão do exequatur não precisa estar acompanhada de todos os documentos existentes na petição inicial e de detalhes do processo em curso, mas de peças suficientes para a compreensão da controvérsia.
+2.  ..
+3. Agravo interno desprovido." (AgInt na CR 11.000/EX, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 16/11/2016, DJe 06/12/2016)
+Alem disso, cabe esclarecer que a comissão foi encaminhada pela via diplomática, o que presume a autenticidade dos documentos. A tramitação oficial faz dispensar a tradução por profissional juramentado no Brasil e, nos presentes autos, os documentos que acompanham a comissão permitem a compreensão da controvérsia, não havendo comprometimento do direito de defesa.
+Do mesmo modo, a tese defensiva de ocorrência de prescrição da pretensão punitiva deve ser analisada pelo Juízo rogante, pois transcende os limites estabelecidos no art. 216-Q, § 2.º, do Regimento Interno do Superior Tribunal de Justiça, o que impede o seu exame por este órgão julgador.
+Assim sendo, o objeto da presente carta rogatória não atenta contra a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública, razão pela qual, com fundamento no art. 216-O, c.c. o 216-P do Regimento Interno do Superior Tribunal de Justiça, CONCEDO O EXEQUATUR.
+Apesar do êxito na intimação prévia da parte Interessada e seu comparecimento espontâneo aos autos (fls. 31-40), mostra-se necessária a remessa dos autos à Justiça Federal apenas para ser tomado o "Termo de Identidade e Residência".
+Portanto, remeta-se a comissão à Justiça Federal - Seção Judiciária de Goiás, para as providências cabíveis quanto ao "Termo de Identidade e Residência".
+Cumpra-se a diligência em 30 dias.
+Após, devolvam-se os autos a esta Corte, para que sejam enviados ao país de origem por meio da autoridade central competente.
+Publique-se. Intimem-se.
