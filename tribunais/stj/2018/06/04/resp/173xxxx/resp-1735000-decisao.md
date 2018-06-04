@@ -1,0 +1,39 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO PENAL. HOMICÍDIO SIMPLES. FIXAÇÃO DE REGIME MAIS GRAVOSO QUE O PREVISTO PARA A PENA FIXADA. GRAVIDADE GENÉRICA. SUMULA 440/STJ. RECURSO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação criminal - Artigo 121, "caput", c.c o artigo 14, inciso II, ambos do Código Penal - júri - Decisão manifestamente contrária a prova dos autos - Impossibilidade - Ao contrário do alegado pela combativa defesa, não houve manifesta afronta da decisão à prova dos autos, porquanto o veredicto dos jurados encontra satisfatório e idôneo sustento nas evidências reunidas na instrução, não se mostrando com elas destoante - Redução da pena - necessidade - Regime semiaberto - mantido - sentença ratificada - Apelo provido parcialmente, determinando, após o trânsito em julgado, a expedição de mandado de prisão em desfavor do réu.
+Sustenta o recorrente violação do artigo 33 do Código Penal ao argumento, em suma, de que foi fixado regime mais severo do que o previsto para a pena cominada com base apenas na gravidade em abstrato do delito, sem qualquer fundamentação concreta.
+Requer, ao final, o provimento do recurso de "modo a estabelecer o regime inicial aberto para cumprimento de pena, nos termos do artigo 33, § 2º, "c", § 3º, do Código Penal"(fl. 477).
+Apresentadas as contrarrazões e admitido o recurso especial, opina o Ministério Público Federal pelo seu provimento.
+É o relatório.
+É assente neste Superior Tribunal de Justiça o entendimento de que a fundamentação abstrata, assentada apenas na gravidade dos fatos ou nos elementos objetivos do próprio tipo penal, não é idônea para legitimar a fixação de regime prisional mais rigoroso do que o previsto na legislação para a pena fixada, mormente se as circunstancias judiciais foram todas consideradas favoráveis, com a fixação da pena-base no mínimo legal.
+De fato, a gravidade genérica do crime e as elementares do próprio delito, por si sós, não justificam a imposição de regime prisional mais gravoso do que o previsto nas balizas do artigo 33, §§ 2º e 3º do Código Penal.
+A propósito, não é outro o entendimento consolidado no enunciado nº 440 da Súmula deste Superior Tribunal de Justiça, verbis:
+"Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+E também nos Enunciados nº 718 e 719 da Súmula do Pretório Excelso:
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+No presente caso, ao que se tem dos autos, a sentença de primeiro grau fixou o regime semiaberto à consideração de que "Tendo em vista a quantidade da pena aplicada, fixo o regime inicial semi-aberto, a teor do que prevê o art. 33, §2º, alínea "b", do Código Penal."
+E o Tribunal de Justiça manteve o regime mais gravoso à motivação de que:
+O regime prisional fixado, qual seja, o inicial semiaberto está correto e não merece reparo, levando em consideração a gravidade do delito cometido pelo ora apelante.
+Opostos embargos de declaração, estes foram rejeitados, afirmando que:
+Quanto à fixação do regime inicial semiaberto, igualmente não ocorreu nenhuma omissão , porquanto, ante as circunstâncias em que foi cometido o delito, em se tratando de crime grave, ressaltando a periculosidade do agente, revela-se o regime intermediário o mais adequado a prevenção e reprovação da prática delitiva.
+Vê-se, pois, que o regime semiaberto foi fixado com base apenas na gravidade em abstrato do delito, sem qualquer circunstância do caso concreto que justifique o regime mais gravoso, para além dos elementos inerentes ao próprio tipo penal de homicídio simples.
+Nesse sentido, colhem-se os seguintes julgados:
+HABEAS CORPUS. HOMICÍDIO CULPOSO E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO COM NUMERAÇÃO SUPRIMIDA. REGIME. FUNDAMENTAÇÃO. SUBSTITUIÇÃO. PENA RESTRITIVA DE DIREITOS. POSSIBILIDADE. ORDEM CONCEDIDA.
+1. A ausência de peculiaridades específicas dos crimes praticados pelo paciente nulifica a imposição de regime prisional mais gravoso, por violação aos enunciados das Súmulas n. 440 do STJ e 718 e 719 do STF.
+2. Considerando a primariedade do réu, o qual conta com todas as circunstâncias judiciais favoráveis, e, ainda, a pena inferior a 4 anos por crime cometido sem violência ou grave ameaça em concurso com crime culposo, impõe-se o benefício da substituição da pena privativa de liberdade por restrita de direitos, por estarem atendidos todos os requisitos do art. 44 do Código Penal.
+3. Habeas corpus concedido para fixar o regime aberto ao paciente e permitir a substituição da reprimenda por penas restritivas de direitos, nos termos a serem fixados pelo Juízo das Execuções Criminais.
+(HC 347.793/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/04/2017, DJe 04/05/2017)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. (ART. 157, § 2º, INCISOS I E II, DO CP). REGIME INICIAL FECHADO DETERMINADO COM BASE NA GRAVIDADE EM ABSTRATO DO DELITO. DESCABIMENTO. PENA-BASE FIXADA NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS DO CASO CONCRETO. ART. 33, §§ 2º E 3º DO CÓDIGO PENAL. SÚMULAS 440 DESTE STJ, 718 E 719 DA SUPREMA CORTE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. FIXAÇÃO DO MODO SEMIABERTO. ORDEM CONCEDIDA DE OFÍCIO. DECISÃO MONOCRÁTICA CONFIRMADA. RECURSO IMPROVIDO.
+1. O art. 33, §§ 2º e 3º, do Código Penal estabelece que o condenado à pena superior a 4 anos e não excedente a 8 poderá iniciar o cumprimento da reprimenda no regime semiaberto, observando-se os critérios do art. 59 do aludido diploma legal.
+2. A Suprema Corte, nos verbetes n. 718 e 719, sumulou entendimento no sentido de que a opinião do julgador acerca da gravidade abstrata do delito não constitui motivação idônea a embasar o encarceramento mais gravoso do sentenciado, orientação que é acompanhada pelo Superior Tribunal de Justiça na Súmula n. 440.
+3. Na hipótese, diante da ausência de fundamentação concreta para a imposição do sistema prisional fechado e estabelecida a pena-base no mínimo legal, com consideração favorável das circunstâncias judiciais do art. 59 do CP, evidente o constrangimento ilegal a que estavam submetidos os acusados, dando ensejo à concessão da ordem mandamental para fixar o regime inicial semiaberto.
+4. Ressalte-se que o julgador optou por não utilizar uma das causas de aumento para qualificar a pena-base ou agravar a fração de aumento na terceira fase da dosimetria, circunstâncias que indicam a inexistência de elementos concretos da conduta imputada aos apenados capazes de agravar sua sanção. Dessa forma, considerar a fundamentação baseada em elementos do próprio tipo penal para piorar o regime de cumprimento da pena não se revela proporcional.
+5. Agravo regimental improvido.
+(AgRg no HC 403.530/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/03/2018, DJe 22/03/2018)
+Assim, tratando-se de réu primário, sendo favoráveis todas as circunstâncias judiciais, estando a pena-base fixada no mínimo legal e a pena definitiva estabelecida aquém de 4 anos, é cabível a fixação do regime aberto para o início de cumprimento de pena.
+Ante o exposto, com fundamento no artigo 932, V, "a", do Código de Processo Civil em vigor (Lei nº 13.105/2015) c/c artigo 3º do Código de Processo Penal, e no artigo 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial para fixar o regime aberto para o início do cumprimento da pena.
+Publique-se.
+Intime-se.
