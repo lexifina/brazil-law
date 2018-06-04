@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98128, de 24 de maio de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8521.90.90 Mercadoria: Aparelho de gravação de vídeo e áudio, com armazenamento de dados em disco rígido (HD), podendo vir acompanhado de controle remoto, “mouse” e fonte de alimentação ou apenas destes dois últimos componentes, especialmente projetado para ser utilizado com câmeras de segurança, comercialmente denominado "Digital Vídeo Recorder (DVR)”. DISPOSITIVOS LEGAIS: RGI-1 (texto da posição 85.21), RGI-6 (texto das subposição 8521.90) e RGC-1 (texto do item 8521.90.90) da NCM/SH, constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.128-2018 .pdf]
