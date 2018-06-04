@@ -1,0 +1,28 @@
+EMENTA
+PENAL. PROCESSO PENAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. RES FURTIVAE AVALIADA EM R$ 50,00 (32 COLHERES E 2 GRAXAS DE SAPATO). INEXPRESSIVIDADE DA LESÃO JURÍDICA PROVOCADA NA VÍTIMA (ESTABELECIMENTO COMERCIAL).
+Agravo conhecido para dar provimento a recurso especial.
+DECISÃO
+Trata-se de agravo interposto por [NOME], representada pela Defensoria Pública do Rio de Janeiro, contra decisão que não admitiu seu recurso especial, fundamentado na alínea a do permissivo constitucional, apresentado contra o acórdão do Tribunal de Justiça do Rio de Janeiro, proferido no Recurso em Sentido Estrito n. 0011520-09.2015.8.19.0007 assim ementado (fl. 96 - grifo nosso):
+Recurso em Sentido Estrito. Furto - art. 155, caput, do Código Penal. Rejeição da denúncia. O princípio da insignificância não se confunde com o bem de pequeno valor. O princípio da insignificância exige não apenas que a coisa subtraída seja de pequeno valor, mas também a mínima ofensividade da conduta do agente, a completa ausência de periculosidade social da ação e o reduzido grau de reprovabilidade do comportamento. Fato típico, ilícito e culpável, satisfatoriamente descrito e devidamente individualizado na peça acusatória, cumpridos os requisitos do art. 41 do Código de Processo Penal - inicial instruída com peças do inquérito policial. Presença de Justa causa capaz de deflagrar a ação penal - lastro mínimo para embasar a acusação. Bem furtado não se revela como de primeira necessidade - 32 (trinta e duas) colheres e 02 (duas) unidades de graxa de sapato.
+Recurso provido para cassar a decisão, receber a denúncia e determinar o prosseguimento do feito.
+Alega o agravante, no especial, violação dos arts. 386, inc. III, e 395, inc. III, do Código de Processo Civil, sustentando a falta de justa causa para o recebimento da denúncia, em razão da atipicidade material da conduta de subtrair trinta e duas colheres e duas unidades de graxa de sapato, devendo ser restabelecida a decisão que rejeitou a denúncia aplicando o princípio da insignificância.
+Aponta ofensa ao art. 189, V, da LC estadual n. 26/2006, sustentando que é vedado ao defensor público atuar em feito em que seu cônjuge tenha atuado ou atue como membro do Ministério Público.
+Diz haver contrariedade ao art. 5º, § 5º, da Lei n. 1.060/1950, argumentando que o defensor não foi pessoalmente intimado para apresentar defesa, configurando nulidade absoluta, sendo necessária a anulação do acórdão.
+A Subprocuradoria-Geral da República opinou pelo desprovimento do agravo em parecer assim resumido (fl. 188):
+AGRAVO CONTRA DECISÃO QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL FUNDADO NA ALÍNEA "A" DO PERMISSIVO CONSTITUCIONAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. DECISÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. REEXAME FÁTICO-PROBATÓRIO. NÃO CABIMENTO. SÚMULA 7/STJ. DESPROVIMENTO.
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade, sobretudo por infirmar especificamente os fundamentos adotados.
+Passo ao exame do recurso especial.
+Busca-se a aplicação do princípio da insignificância, afastando a tipicidade material da conduta de furto de trinta e duas colheres e duas unidades de graxa de sapato, avaliados em R$ 50,00 (cinquenta reais).
+Com efeito, o Supremo Tribunal Federal consagrou o entendimento segundo o qual, para a aplicação de tal princípio, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada (HC n. 107.689/RS, Ministro Luiz Fux, Primeira Turma, DJe 7/3/2012).
+Sobre o tema, o Tribunal local consignou o seguinte (fl. 101):
+A conduta do furtador não pode ser considerada (materialmente) atípica, pois, não se confunde "pequeno valor" com "valor insignificante". Acresce-se que o bem furtado não se revela como de primeira necessidade, ou seja, 32 (trinta e duas) colheres e 02 (duas) unidades de graxa de sapato, avaliados em R$ 50,00 (cinqüenta reais) demonstrando a reprovabilidade da conduta praticada.
+Assim, a rejeição da denúncia com base em suposta insignificância do bem subtraído mostra-se indevida e precipitada.
+Entretanto, a meu ver, ainda que não se revelem de primeira necessidade, em se tratando a vítima de estabelecimento comercial, o valor dos bens, no presente caso, se mostra irrisório, justificando a aplicação do princípio da insignificância, notadamente pelo ínfimo valor da res furtivae (inexpressividade da lesão jurídica provocada), sobretudo por já estarem configurados nos autos os demais requisitos que ensejam a incidência do referido postulado.
+Por oportuno, trago à colação os seguintes trechos da decisão reformada pelo acórdão atacado (fl. 35):
+Compulsando os autos, verifico que o furto de objetos cujo valor se apresenta diminuto (fls. 13 - colhetes e graxa de sapato) não tem o condão sequer de ameaçar o bem jurídico relacionado ao delito em análise - no caso, o patrimônio de estabelecimento comercial. O Auto de Avaliação Indireta d  fl. 13 registra o pequeno valor pecuniário da "res furtiva", R$ 50,00 (cinqüenta reais), suficiente para levar à conclusão da ausência de conduta típica.
+ ..
+De registrar, por oportuno, que os bens foram recuperados e devolvidos ao proprietário, consoante auto de entrega de fl. 12.
+Dessa forma, a meu ver, a hipótese dos autos se amolda ao disposto na Súmula 568/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, restabelecendo a decisão que rejeitou a denúncia.
+Publique-se.
