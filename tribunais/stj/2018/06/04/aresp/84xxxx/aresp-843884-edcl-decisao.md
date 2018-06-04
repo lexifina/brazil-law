@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos em face da decisão de fl. 286 e-STJ, que negou provimento ao agravo em recurso especial.
+O embargante sustenta a existência de erro material, pois os fundamentos da decisão recorrida se referem a outro processo.
+À vista dos fundamentos expostos, reconsidero a decisão ora agravada e passo à análise do agravo.
+Cuida-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXPURGOS INFLACIONÁRIOS DA CADERNETA DE POUPANÇA. AÇAO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. AUSÊNCIA DE INTERESSE DE AGIR.
+O ajuizamento da ação principal concomitante ou durante o trâmite da ação cautelar de exibição de documentos enseja a extinção da ação exibitória por falta de interesse processual.
+APELAÇÃO DESPROVIDA.
+O recorrente sustenta que, "ainda que inexistente a pretensão resistida no âmbito administrativo", resta configurada a resistência na via judicial, da qual decorre o interesse da recorrente na propositura da demanda cautelar. Afirma ser indevida a exigência do pagamento do custo do serviço para o fornecimento de segunda via de documentos bancários.
+No que tange ao interesse de agir, a Corte de origem assim manifestou seu entendimento:
+Neste caso, o autor ajuizou ações de cobrança dos expurgos relativos aos planos econômicos, uma antes (nº 005/1 070001 3503 - [NOME] Gonçalves), outra simultaneamente (nº 001/1 090031 7853 - Porto Alegre - fl. 66), e outras duas durante o trâmite da presente cautelar exibitória (nº 005/[CPF] e nº 005/[CPF]- [NOME]), o que evidencia a falta de interesse de agir nesta ação, na medida em que poderia obter todos os documentos pretendidos, e certamente os obteve, nos próprios autos das respectivas demandas principais, não sendo necessária ação específica a essa finalidade.
+Com efeito, o Tribunal revisor afirmou que não se vislumbra o interesse de agir no ajuizamento da ação cautelar juntamente com quatro ações ordinárias com o mesmo objeto, em cujo bojo é possível a realização do pedido de exibição. Tal fundamento, não impugnado, é suficiente por si só para manter o acórdão, que por consequência não pode ser alterado por força do veto contido no enunciado 283 da Súmula do STF.
+Ainda que assim não se entendesse, a parte confessa, em seu recurso especial, que não houve recusa no fornecimento dos extratos na via administrativa, além de não ter pagado a tarifa para a prestação do serviço. A Segunda Seção do STJ pacificou, sob o rito do art. 543-C do Código de Processo Civil, que: "a propositura de ação cautelar de exibição de documentos bancários (cópias e segunda via de documentos) é cabível como medida preparatória a fim de instruir a ação principal, bastando a demonstração da existência de relação jurídica entre as partes, a comprovação de prévio pedido à instituição financeira não atendido em prazo razoável, e o pagamento do custo do serviço conforme previsão contratual e normatização da autoridade monetária." (REsp 1349453/MS, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 2.2.2015).
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
