@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto pela FUNDAÇÃO DE PROTEÇÃO E DEFESA DO CONSUMIDOR - PROCON contra decisão do Presidente da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 366):
+AÇÃO ANULATÓRIA. Reexame necessário. Auto de infração. PROCON. Prática abusiva. Afronta ao art. 39, caput, do CDC e art. 1º. da Lei Estadual 13.747/09 ("Lei da Entrega"). Ausência de fixação de data e turno para entrega de produtos ao adquirente de mercadoria por comércio eletrônico. Imposição de penalidade de multa. Recálculo determinado de acordo com o art. 32, § 3º, da Portaria Normativa 26/2006 do Procon. Utilização da média trimestral da receita bruta do estabelecimento. Valor que observa a gravidade da infração e a condição econômica do fornecedor. Ação procedente em parte. Sentença mantida.
+No especial obstaculizado, o ora agravante apontou violação do art. 57 do Código de Defesa do Consumidor, sustentando que a redução da multa, em decorrência da utilização apenas do faturamento da filial infratora como base de cálculo, retirou o seu caráter punitivo e educativo, devendo, portanto, ser restabelecida para o patamar arbitrado pela Administração Pública, R$ 555,586,67 (quinhentos e cinquenta e cinco mil, quinhentos e oitenta e seis reais e sessenta e sete centavos).
+Aduziu que a infração à lei estadual, conhecida como "Lei da Entrega", revelou uma postura institucional, pois o consumidor acessa o sítio eletrônico da drogaria e não de uma de suas filiais, destacando que o CDC, ao tratar da imposição de penalidades, não faz distinção entre matriz, filial, agência ou sucursal.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 419/420).
+Na presente irresignação, o agravante alega que o recurso obstado atende aos pressupostos para a sua admissão (e-STJ fls. 433/439).
+Contraminuta às e-STJ fls. 445/449.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Na hipótese, observa-se que a sociedade empresária foi autuada pelo órgão de proteção ao consumidor, porque teria descumprido legislação estadual, conhecida como "Lei da Entrega", e, por consequência, incorrido na infração de prática abusiva, prevista no art. 39 do CDC.
+O juízo sentenciante reduziu o valor da penalidade imposta, de R$ 555.586.67 para R$ 26.999,04, o qual foi mantido pelo Tribunal de origem, em reexame necessário, ao seguinte fundamento (e-STJ fls. 367/372):
+O Procon se conformou com o acolhimento parcial do pedido. Em sede de reexame necessário, cumpre transcrever parte dos fundamentos da sentença, que adoto e são suficientes para demonstrar o seu acerto:
+"É procedente o argumento da autora de que a base de cálculo utilizada para a quantificação da sanção imposta não deve utilizar-se do faturamento bruto da matriz, mas sim do faturamento da filial responsável pelas vendas eletrônicas, procede, como adiante se verá.
+"Assim, prescreve o decreto estadual 55.015/2009, que regulamenta a Lei nº 13.747, de 7 de outubro de 2009:
+(..)
+"No sentido de fixação do "quantum", prescreve o Código de Defesa do Consumidor:
+(..)
+"Foi editada a Portaria Normativa nº 26/2006 do PROCON que detalha em minúcias o cálculo da pena base. Há de se perceber, pelos excertos colacionados abaixo que o ato normativo trata de dividir a receita bruta do fornecedor entre os estabelecimentos onde se deu a infração consumerista. Senão vejamos:
+(..)
+"Assim, no meu entendimento, a base de cálculo da multa é a receita bruta do estabelecimento e não da empresa como um todo. É a interpretação literal do disposto na Portaria Normativa nº 26/2006.
+"Por fim, observo que também a multa imposta esbarra no princípio da razoabilidade, violando-o. Na verdade, ainda que considerando o poderio econômico da autora, a multa se mostra excessiva. Nesse sentido: (..)
+"O ato administrativo praticado pela Fundação de Proteção e Defesa do Consumidor é existente e válido, porém o valor formal da multa imposta não se encontra em perfeita sintonia com os princípios da proporcionalidade e razoabilidade, devendo ser reduzida.
+"Não há dúvida de que a gravidade da infração e a vantagem auferida são indiscutíveis, mas os critérios pertinentes à condição econômica do fornecedor podem ser analisados pelo Julgador.
+"A referida norma jurídica têm um conteúdo determinado, cujos núcleos da "condição econômica do fornecedor" podem ser constatados judicialmente, sem que se adentre no campo do conteúdo mínimo subjetivo da discricionariedade.
+"A vantagem auferida, a gravidade da infração e a condição econômica do fornecedor são requisitos cumulativos que devem ser apreciados pela autoridade administrativa ao proceder à constatação e imposição da multa administrativa.
+"Não há dúvida de que a multa deve ter um caráter preventivo para obstar o transgressor na prática de outros atos ilícitos e deve ter também um caráter repressivo para que o sancionado se intimide na reincidência da prática de atos ilícitos. No entanto, o montante arbitrado afigura-se excessivo, devendo ser reduzido para adequar-se aos princípios da razoabilidade e da proporcionalidade.
+"De rigor, então, a redução da multa que se dará nosexatos termos da Portaria nº 26/2006 do Procon, que em seu art. 33, dispõe:
+(..)
+"No entanto, há nos autos indícios de circunstância agravante (fls. 74), com aumento de 1/3 da pena-base, por ser a autora reincidente na prática de infrações às normas da Lei nº 8078/90, e nos termos do art. 34, inc. II, "a" da supracitada portaria. Assim, totaliza a multa a ser aplicada em RS 26.999,04."
+De tudo isso se conclui que foi correto o recálculo da multa determinado pela r. sentença, que nada mais fez que aplicar a própria Portaria Normativa 26/06 do Procon. Ela não comporta reparo.
+Nota-se que as instâncias ordinárias entenderam que a base de cálculo para a imposição da penalidade deveria considerar apenas o faturamento da filial responsável pelas vendas eletrônicas, com fundamento em dispositivos da Portaria Normativa n. 26/2006.
+Nesse passo, a modificação do julgado, nos moldes pretendidos, demandaria a análise do referido ato normativo, o que é inviável na via recursal eleita, ante o óbice estampado na Súmula 280 do STF. Portanto, eventual contrariedade ao dispositivo de lei federal indicado só estaria configurada de forma reflexa.
+Nesse sentido: AgInt no REsp 1715549/SP, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 23/04/2018; e AgInt no AREsp 1203211/SP, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 27/03/2018.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
