@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, inciso III, alínea "a" e "c", da Constituição Federal interposto por LUCIANA MELKE MOLINA E OUTRAS contra o v. acórdão exarado pelo eg. Tribunal de Justiça do Estado de Mato Grosso do Sul (TJ-MS).
+Historiam os autos que LUCIANA MELKE MOLINA E OUTRAS promoveram "ação de indenização" em desfavor de MARPAS MUNK LTDA, cujo pedido foi julgado parcialmente procedente para condenar a promovente ao pagamento de R$40.000,00 (quarenta mil reais) a título de indenização por danos morais.
+Diante disso, as partes interpuseram apelações, as quais não foram providas pelo eg. TJ-MS, nos termos do v. acórdão, assim ementado (fl. 690-691):
+"EMENTA - APELAÇÕES CÍVEIS - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS F. MORAIS DECORRENTES DE ATO ILÍCITO ACIDENTE DE TRÂNSITO PRELIMINAR ILEGITIMIDADE ATIVA AD CAUSAM- AFASTADA - MÉRITO - NEXO DE CAUSALIDADE COMPROVADO - VEÍCULO QUE AO FAZER RETORNO EM BR INTERROMPE A TRAJETÓRIA DE OUTRO ART. 37 DO CTB - ACIDENTE DECORRENTE DA MANOBRA IMPRUDENTE DO SEGUNDO RÉU - FALECIMENTO DA GENITORA DAS AUTORAS - DANO MORAL IN RE IPSA - QUANTUM INDENIZATÓRIO MANTIDO JUROS - JUROS DE MORA CONTADOS DO EVENTO DANOSO - DANO MATERIAL E PENSIONAMENTO MENSAL - AUSÊNCIA DE COMPROVAÇÃO DO PREJUÍZO - SENTENÇA MANTIDA - RECURSOS CONHECIDOS E IMPROVIDOS.
+I - Embora a violação moral atinja apenas direitos subjetivos da vítima, o direito à respectiva indenização transmite-se com o falecimento do titular, possuindo o espólio legitimidade ativa ad causam para prosseguir na
+ação indenizatória por danos morais, em virtude da ofensa moral suportada pelo de cujus. Precedentes do STJ.
+II - Acidente de transito decorrente da culpa do condutor do veículo que, no intuito de fazer conversão cm rodovia, não se utiliza previamente do acostamento c intercepta automóvel que pretendia ultrapassá-lo. Art. 37 do CTB. Manifesta imprudência.
+III - O valor fixado a título de indenização por danos morais, por não se mostrar ínfimo ou exagerado, mas sim estabelecido em atenção às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade, há de ser mantido.
+IV - Tratando-se de responsabilidade extracontratual, incidem juros de mora desde o evento danoso, conforme o enunciado da Súmula 54 do STJ.
+V- Os elementos ã disposição nos autos não permitem presumir a interdependência econômica das autoras cm relação à falecida genitora, que aliás, sequer exercia atividade laborativa ou era assalariada à ocasião do acidente. Pensionamento mensal que não merece acolhida por falta de prova da necessidade.
+VI - Os danos materiais devem ser devidamente comprovados por meio de prova documental, não sendo hábeis para esse fim aqueles emitidos em nome de terceiros estranhos à lide".
+Os embargos de declaração opostos por LUCIANA MELKE MOLINA E OUTRAS foram rejeitados (fls. 737-745).
+Inconformadas, LUCIANA MELKE MOLINA E OUTRAS interpuseram recurso especial em que alegam, além de divergência jurisprudencial, violação aos arts. 944 e 948 do Código Civil.
+Contrarrazões às fls. 787-805.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+A irresignação não merece prosperar.
+Nas razões recursais, sustentam as recorrentes infringência aos arts. 944 e 948 do Código Civil, sob a alegação de que há necessidade de majoração da indenização, do arbitramento de pensão e do pagamento de despesas, dada a dimensão sobrelevada do dano suportado.
+Por sua vez, o eg. TJ-MS, soberano na análise do acervo fático-probatório dos autos, consignou que, em que pese a gravidade do sofrimento suportado, em observância ao princípio da proporcionalidade e à capacidade econômica do ofensor, entre outros fatores, o valor indenizatório não comporta a alteração, razão pela qual manteve a d. sentença, conforme se infere da seguinte transcrição do v. aresto impugnado (fl. 698-700):
+ "No tocante ao valor arbitrado a título de indenização por danos morais, há que se levar em conta o princípio da proporcionalidade, a capacidade econômica do ofensor, a reprovabilidade da conduta ilícita praticada e, por fim, que o ressarcimento do dano não se transforme em ganho desmesurado, importando em enriquecimento ilícito.
+ (..)
+ No caso dos autos, é certa a gravidade dos latos e os danos ocasionados às autoras com o falecimento de sua genitora.
+ Entretanto, ainda que não haja dados específicos acerca da condição sócio-econômica das partes, é possível extrair dos autos que a primeira ré trata-se de empresa de pequeno porte com capital social constituído cm R$ 500,00 (quinhentos reais) (f. 205), sendo o correu, à época dos fatos, seu empregado.
+ Nesse norte, a quantia fixada na sentença R$ 40.000.00 - para cada uma das autoras, partindo-se das premissas acima referidas, preenche as finalidades precípuas da indenizabilidade por prejuízos imateriais (sic)".
+Diante das conclusões postas, não prospera a pretensão das recorrentes, pois para revisar o entendimento ora transcrito, quanto à gravidade do sofrimento experimentado e a implicação desta no valor indenizatório arbitrado, seria necessário o revolvimento de matéria fático-probatória, providência esta, no entanto, inadmissível em sede de recurso especial, a teor da Súmula n. 7 deste eg. Colegiado.
+Ainda no contexto, a orientação deste Superior Tribunal de Justiça se dá no sentido de que a revisão de valores a título de indenização só ocorre em hipóteses excepcionais, em que for deflagrada a exorbitância ou a irrisoriedade do montante. Nesse sentido, confira-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. DIVERGÊNCIA NÃO DEMONSTRADA. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+(..)
+2. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, a análise das razões apresentadas pela recorrente quanto à inexistência de conduta ilícita e à falta de configuração do abalo moral demandaria o revolvimento de fatos e provas, o que é vedado em recurso especial.
+4. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra desproporcional, a justificar sua reavaliação em recurso especial.
+5. O STJ firmou entendimento de ser incabível o reexame do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica a fixação do quantum indenizatório distinto.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 155.116/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 05/10/2017, DJe 09/10/2017 - grifou-se)
+No caso dos autos, verifica-se que o valor arbitrado na origem, R$40.000,00 (quarenta mil reais) para cada autora, mostra-se razoável e proporcional, o que não enseja qualquer alteração nas conclusões do eg. TJ-MS. Nesse mesmo sentido, confira-se ainda:
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - ATROPELAMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+(..)
+2. Para o reconhecimento da existência de causa excludente do nexo causal, concernente à culpa exclusiva das vítimas, seria imprescindível o revolvimento dos fatos e provas juntadas aos autos, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça.
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais fixado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula 7 do STJ. No caso dos autos, verifica-se que o quantum estabelecido pelo Tribunal a quo não se mostra desproporcional, a justificar sua reavaliação em recurso especial.
+4. Agravo regimental desprovido".
+(AgRg no AREsp 513.191/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/08/2017, DJe 23/08/2017 - grifou-se)
+Por fim, pela alínea "c" do permissivo constitucional, o recurso tampouco prospera, ante a ausência de similitude fático-jurídica entre os acórdãos em comparação, o que inviabiliza a demonstração da divergência pretoriana.
+ Diante do exposto, nos termos do art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.
