@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo desafiando decisão que não admitiu recurso especial interposto contra acórdão, proferido pelo TRF da 4ª Região, o qual não reconheceu o interesse jurídico da CEF, tampouco a competência da Justiça Federal, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. SEGURO HABITACIONAL. INCOMPETÊNCIA DA JUSTIÇA FEDERAL.
+A União e a CEF não são partes legítimas passivas nas ações em que se discute indenização decorrente de contrato de seguro adjeto ao mútuo habitacional.
+Em se tratando de mera cobertura securitária entre seguradora e mutuários, cabe exclusivamente àquela, como pessoa jurídica de direito privado, integrar o polo passivo da relação processual.
+Os embargos de declaração opostos foram acolhidos, para esclarecer que "a averbação de cessão de créditos procedida no registro do imóvel, no caso dos autos, diz com garantia relativa a negócio jurídico diverso daquele discutido na demanda de origem e, portanto, não tem o condão de implicar a legitimidade da CEF para ação revisional do contrato de financiamento do imóvel".
+Em suas razões recursais, a parte recorrente alega que o acórdão recorrido violou o disposto nos arts. 128 e 460 do CPC de 1973. Afirma, para tanto, que "o fundamento da demanda refere-se à existência de averbação matricular a qual informa a cessão da garantia creditícia à Caixa Econômica Federal. Em momento algum se refere a contrato de seguro habitacional (..). Logo, visivelmente ocorreu a negativa de vigência do artigo 128 do Código de Processo Civil, pois tal artigo determina que, o juiz deve decidir a ação nos limites em que foi proposta, sendo-lhe defeso conhecer de questões, não suscitadas, a cujo respeito a lei exige a iniciativa das partes". Salienta, ademais, que "basta singela leitura da matrícula do imóvel .juntada aos autos, pelos Recorrentes, para verificar que a Caixa Econômica Federal tem claro e inafastável interesse na lide, posto" que, revisado o contrato, incerto o futuro da garantia hipotecária caucionada aquela instituição".
+Não tendo sido admitido o recurso na origem foi interposto o presente agravo.
+É o relatório. Passo a decidir.
+De início, cumpre salientar que o recurso foi interposto ainda na vigência do CPC/1973, de maneira que incide, na espécie, o Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+As matérias insertas nos arts. 128 e 460 do CPC de 1973 não foram objeto de debate e decisão na instância a quo, não obstante a oposição de embargos declaratórios. E a parte recorrente, ao interpor o recurso especial, não alegou violação do art. 535 do CPC de 1973.
+Desse modo, tendo em vista a falta do indispensável prequestionamento do tema infraconstitucional suscitado na petição do apelo especial, deve ser aplicado o princípio estabelecido na Súmula 211/STJ.
+Esta eg. Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, não sendo suficiente a simples invocação da matéria na petição de embargos de declaração.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. FALTA DE PREQUESTIONAMENTO - SÚMULA 211/STJ - AUSÊNCIA DE ALEGAÇÃO DE CONTRARIEDADE AO ART. 535 DO CPC - DESPROVIMENTO.
+I - Não enseja interposição de Recurso Especial matéria que não tenha sido ventilada no v. aresto atacado e sobre a qual, embora tenham sido opostos os embargos declaratórios competentes, o órgão julgador não se pronunciou e a parte interessada não alegou ofensa ao art. 535 do CPC, incidindo, na hipótese, o verbete sumular n. 211 do STJ.
+II - Agravo Regimental desprovido.
+(AgRg no REsp 881.416/RS, Relator o Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, DJ de 05/03/2007)
+Ademais, é necessário o prequestionamento dos temas ventilados no recurso especial, ainda que a violação a dispositivos infraconstitucionais surja no julgamento de recurso pelo Tribunal a quo ou que se trate de matéria de ordem pública.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
