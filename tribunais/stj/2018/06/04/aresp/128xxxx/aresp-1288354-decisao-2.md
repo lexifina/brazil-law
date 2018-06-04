@@ -1,0 +1,20 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE ADIMPLEMENTO CONTRATUAL. CUMPRIMENTO DE SENTENÇA. 1. OFENSA À COISA JULGADA. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA DE ORDEM PÚBLICA. IMPOSSIBILIDADE DE DISPENSA DO PREQUESTIONAMENTO. 2. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE OI S.A. - EM RECUPERAÇÃO JUDICIAL.
+DECISÃO
+Trata-se de agravo interposto por Oi S.A. - Em Recuperação Judicial contra decisão que negou seguimento ao recurso especial, com fundamento na alínea a do permissivo constitucional, desafiando acórdão proferido pelo Tribunal de Justiça de Santa Catarina assim ementado (e-STJ, fl. 42):
+AGRAVO DE INSTRUMENTO. AÇÃO DE ADIMPLEMENTO CONTRATUAL. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE HOMOLOGOU O CÁLCULO DO DÉBITO EFETUADO PELO CONTADOR JUDICIAL. RECURSO DA EMPRESA DE TELEFONIA DEVEDORA. EXCESSO DE EXECUÇÃO. DESPROVIMENTO DA ASSERTIVA. ALEGAÇÃO GENÉRICA. AUSÊNCIA DE ATAQUE ESPECÍFICO AO CÁLCULO DO DÉBITO APRESENTADO PELA PARTE CREDORA. NÃO CONHECIMENTO DO PONTO. ALEGADO EXCESSO DE EXECUÇÃO QUANTO AO VALOR DO CONTRATO. PROVIMENTO NO PONTO. UTILIZAÇÃO PELA CREDORA, EM SEU PEDIDO DE CUMPRIMENTO DE SENTENÇA, BEM COMO DEFENDIDO PELA EMPRESA DEVEDORA, DO QUANTUM EXPRESSO NA RADIOGRAFIA DO CONTRATO. IMPOSSIBILIDADE DE UTILIZAÇÃO, PELO CONTADOR JUDICIAL, DE VALOR DO CONTRATO DIVERSO E ESTRANHO AO FEITO PARA A APURAÇÃO DA DÍVIDA. RECÁLCULO DA DÍVIDA QUE SE FAZ NECESSÁRIO CONFORME VALOR DO CONTRATO ADOTADO PELAS PARTES. ALEGAÇÃO DE AUSÊNCIA DE DEMONSTRATIVO DE EVOLUÇÃO DO DÉBITO DOS DIVIDENDOS. INSURGÊNCIA ACOLHIDA. NECESSIDADE DE DEMONSTRAÇÃO DOS CRITÉRIOS UTILIZADOS QUE RESULTARAM NO MONTANTE TOTAL. REFAZIMENTO DO DEMONSTRATIVO DO DÉBITO RELATIVO AOS DIVIDENDOS. EXCESSO DE EXECUÇÃO QUANTO À COTAÇÃO. ALEGAÇÃO QUE NÃO SE CONHECE. MATÉRIA NÃO ABORDADA NA DECISÃO SINGULAR. RECURSO CONHECIDO PARCIALMENTE E PROVIDO EM PARTE.
+Foram, ainda, opostos embargos de declaração por ambas as partes, que acabaram rejeitados (e-STJ, fls. 80-96).
+Nas razões do recurso especial, a recorrente alegou violação aos arts. 141, 492 e 503 do CPC/2015, aduzindo, em síntese, haver violação à coisa julgada, pois foram adotados índices diversos daqueles estabelecidos no título executivo.
+As contrarrazões não foram apresentadas - fl. 165 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial pela incidência das Súmulas 282, 283 e 356 do STF.
+Brevemente relatado, decido.
+Com efeito, relativamente à ofensa à coisa julgada, conforme assinalado pelo Tribunal de origem à fl. 47 (e-STJ), constata-se que a matéria nem sequer foi suscitada em primeiro grau de jurisdição, estando caracterizada a inovação recursal, bem como configurada a ausência de prequestionamento, atraindo a incidência das Súmulas 282 do STF e 211 do STJ.
+Oportuno assinalar, ainda, que a jurisprudência deste Tribunal Superior é tranquila no sentido da necessidade de prequestionamento dos dispositivos que se entende violados, mesmo em se tratando de matéria de ordem pública.
+Confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO - AGRAVO REGIMENTAL EM AGRAVO - VIOLAÇÃO À COISA JULGADA - AUSÊNCIA DE PREQUESTIONAMENTO - MATÉRIA DE ORDEM PÚBLICA - NECESSIDADE - ACUMULAÇÃO DE PENSÃO ESPECIAL DE EX-COMBATENTE E BENEFÍCIO PREVIDENCIÁRIO - POSSIBILIDADE.
+1. Os artigos 267, inc. V, 467, 471, inc. I, do CPC, e a tese de afronta a coisa julgada, não podem ser conhecidos por ausência de prequestionamento.
+2. É tranquila a jurisprudência desta Corte no sentido de que, mesmo as matérias de ordem pública, necessitam do prequestionamento para serem analisadas em sede de recurso especial.
+3. Com base no disposto nos arts. 53, II, do ADCT e 4º, caput, da Lei n. 8.059/1990, a pensão especial de ex-combatente é passível de cumulação com benefícios de cunho previdenciário junto ao INSS.
+4. Agravo regimental não provido. (AgRg no AREsp 196.847/RJ, Rel. Ministra ELIANA CALMON, Segunda Turma, julgado em 13/8/2013, DJe 20/8/2013)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial de Oi S.A. - Em Recuperação Judicial.
+Publique-se.
