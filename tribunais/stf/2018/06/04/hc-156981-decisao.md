@@ -1,0 +1,24 @@
+Decisão:
+Ementa: Penal. Habeas Corpus. Tráfico de drogas. Dosimetria da pena. Inadequação da via eleita.
+1. Não cabe habeas corpus contra decisão monocrática de Ministro de Tribunal superior. Precedentes.
+2. Possibilidade de fixação de regime inicial diverso do fechado em face de condenação por tráfico de drogas. Precedentes.
+3.  Habeas corpus não conhecido. Ordem concedida de ofício.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 448.734, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente, preso preventivamente, foi condenado pelo crime tipificado no art. 33, caput, da Lei 11.343/2006, à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, e 583 dias-multa.
+    3. Irresignada, a defesa interpôs apelação, pendente de julgamento.
+    4. Foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Indeferida a liminar, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 448.734, Nefi Cordeiro, indeferiu liminarmente o writ.
+    5. Neste habeas corpus, a parte impetrante sustenta a possibilidade de “aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei nº 11.343/06”; aponta que não foi “aplicado a atenuante da menoridade”; que “a pena aplicada com o reconhecimento do tráfico privilegiado determina o regime inicial aberto ou no mínimo semiaberto”; e que “não houve motivação em elementos concretos na sentença que demonstrasse a necessidade da manutenção do paciente em cárcere”.
+    6. Com essa argumentação, requer a concessão da ordem a fim de aplicar “o tráfico privilegiado ou fixando o regime inicial de cumprimento de pena menos gravoso bem como convertendo a pena restritiva de liberdade por restritivas de direito ou ao menos que seja revogado a prisão preventiva, ou ainda, determinado que o juiz de piso analise a detração”.
+    Decido.
+    7. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do STF, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via processual (HC 115.659, Rel. Min. Luiz Fux).
+    8. Com efeito, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes. II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte. III – Agravo regimental a que se nega provimento.”
+    9. Sem prejuízo desse encaminhamento, a ordem deve ser concedida de ofício.
+    10. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que “A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea” (Súmula 719/STF). No caso, para além de não encontrar fundamentação idônea para o estabelecimento do regime prisional fechado, tenho que a imposição de regime mais gravoso a um jovem primário de 20 anos, pelo tráfico de quantidade pouco expressiva de drogas, mesmo se tratando de diferentes tipos de entorpecentes, mostra-se contraproducente do ponto de vista da política criminal.
+    11. Diante do exposto, não conheço do habeas corpus , com base no art. 21, § 1º, do RI/STF. Contudo, concedo a ordem de ofício para fixar, desde logo, o regime inicial semiaberto e determinar ao Tribunal de Justiça do Estado de São Paulo que, no julgamento da apelação, observe a jurisprudência do Supremo Tribunal Federal.
+    Publique-se.
+    Comunique-se, com urgência.
+    Brasília, 04 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
