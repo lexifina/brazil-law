@@ -1,0 +1,50 @@
+DECISÃO
+Em virtude das razões expostas na petição de fls. 296 - 306, reconsidero a decisão de fls. 291 - 292, , proferida pela Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, e passo à nova análise do recurso especial interposto, contra acórdão assim ementado:
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. AÇÃO ORDINÁRIA. RESILIÇÃO UNILATERAL DO CONTRATO PELA COMPRADORA. ONEROSIDADE CONFIGURADA. LIMITAÇÃO DO PERCENTUAL A SER RETIDO PELA VENDEDORA. SENTENÇA DE PROCEDÊNCIA REFORMADA.
+À decisão publicada a partir do dia 18/03/2015 aplicam-se as normas do Código de Processo Civil de 2015 (CPC/2015).
+Conforme entendimento jurisprudencial desta Corte, é perfeitamente possível a resilição do compromisso de compra e venda, por parte do promissário comprador, quando economicamente insuportável o adimplemento das parcelas do preço. Ocorrendo a resilição do compromisso, deverá o comprador ser parcialmente ressarcido dos valores pagos.
+CLÁUSULA PENAL COMPENSATÓRIA. REDUÇÃO DO PERCENTUAL FIXADO NO CONTRATO. Mostra- se abusiva a cláusula contratual que prevê a retenção, pela vendedora, de 85% dos valores adimplidos pelo comprador, em caso de resilição unilateral da avença, por importar-lhe onerosidade excessiva. De acordo com a jurisprudência pacífica do STJ, o percentual máximo a ser retido pela construtora, em caso de desistência do promissário comprador, é o de 25% sobre os valores pagos. No ponto, recurso parcialmente provido.
+ÔNUS SUCUMBENCIAIS. Fixação dos honorários advocatícios conforme o disposto no art. 85, § 11, do Código de Processo Civil de 2015.
+Apelação cível parcialmente provida. Unânime.
+Nas razões do recurso especial, alega o agravante violação aos artigos 85, § 2º, do Código de Processo Civil de 2015.
+ Defende que, por haver o delineamento do proveito econômico na causa, consistente na restituição de parte do valor pago em contrato de compra e venda de imóvel rescindido, a condenação de honorários na origem deveria observar índice compreendido entre 10% e 20% sobre o valor da condenação, ao revés de fixar o respectivo montante por equidade.
+Alega que, ao reformar a sentença e majorar o valor do percentual de retenção previsto em cláusula penal abusiva, de 10% para 25% sobre o valor pago, o Tribunal local fundamentou a decisão em jurisprudência do STJ, aplicando o valor máximo admitido por esta Corte Superior, sem observar parâmetro algum inerente ao caso concreto.
+Não foram apresentadas contrarrazões.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 242 -256 (e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Com relação aos honorários advocatícios, verifico que, a despeito da condenação da agravada à devolução de valores referentes ao contrato rescindido, os honorários advocatícios foram fixados na forma do art. 85, § 8º, do novo Código de Processo Civil. Confira-se, a propósito, o pertinente trecho do acórdão (e-STJ, fl. 113):
+Por outro lado, a empresa ré deverá arcar com o pagamento de 80% das custas processuais, além de honorários sucumbenciais, devidos em favor dos patronos do requerente, os quais vão arbitrados em R$ 2.000,00, em congruência com o montante fixado supra.
+O art. 85, § 2º, do NCPC, dispõe que os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, de acordo com os critérios nele estabelecidos.
+No caso concreto, não apenas o proveito econômico é mensurável, como efetivamente houve condenação da parte agravada ao pagamento dos valores referentes à obrigação de restituir parte do valor pago até a rescisão contratual.
+Nesse contexto, não havia motivo para a fixação dos honorários advocatícios por apreciação equitativa. Assim, foi negada vigência ao art. 85, § 2º, do NCPC.
+A propósito, confiram-se:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES.
+CONTRATO DE PARTICIPAÇÃO FINANCEIRA. HONORÁRIOS ADVOCATÍCIOS. CUNHO CONDENATÓRIO. FIXAÇÃO SOBRE O VALOR DA CONDENAÇÃO.
+1. Quando a decisão é de cunho condenatório, devem os honorários advocatícios ser fixados entre o mínimo de 10% e o máximo de 20% sobre o valor da condenação, nos termos do artigo 20, § 3º, do Código de Processo Civil (CPC). Precedentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 755.784/RS, desta Relatoria, QUARTA TURMA, julgado em 15/10/2015, DJe 23/10/2015)
+RECURSO ESPECIAL. FALÊNCIA. AÇÃO DECLARATÓRIA DE INEFICÁCIA DE NEGÓCIO JURÍDICO CELEBRADO DENTRO DO TERMO LEGAL. RESTITUIÇÃO DE VALORES À MASSA FALIDA. VIOLAÇÃO AOS ARTIGOS 535, I E II, DO CPC, 129, I E II, DA LEI DE FALÊNCIAS, 884 DA CC/02 E § § 3º E 4º DO ART. 20 DO CPC. SUMULA 07 DO STJ. AUSENTE PREQUESTIONAMENTO DO ARTIGO 884 DO CC/02. SÚMULA 211 DO STJ E SUMULAS 282 E 389 DO STF. RECURSO PARCIALMENTE CONHECIDO E, NESTA PARTE, DESPROVIDO.
+1. Inocorrência de nulidade por ofensa ao art. 535 do CPC, nem negativa de prestação jurisdicional, no acórdão que, mesmo não examinando individualmente cada um dos argumentos trazidos pela vencida, decide de modo integral e com fundamentação suficiente, a matéria devolvida à sua apreciação.
+2. A verificação dos requisitos necessários à aplicação do disposto no art. 129, I e II, da Lei de Falência, no caso em tela, encontra óbice da Súmula 07, por exigir, para a mudança do entendimento assentado pelo Tribunal de Origem, no revolvimento fático-probatório, o que não é possível nesta instância especial.
+3. A alegação de violação ao artigo 884 do Código Civil não conhecida em face da ausência de prequestionamento acerca da questão pelo Tribunal "a quo", encontrando óbice nas súmulas 211/STJ e 282/STF.
+4. Acolhimento da alegação de violação ao parágrafo 3º do artigo 20 do CPC, fixando-se a base de cálculo da verba honorária em 15% sobre o valor da condenação, em face da carga condenatória da decisão recorrida.
+5. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA PARTE, PROVIDO.
+(REsp 1193602/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/10/2011, DJe 18/11/2011)
+No tocante ao percentual de restituição, não assiste razão ao agravante. No ponto, ao fixar o índice em 25% para fins de restituição do valor pago em rescisão de contrato de compra e venda do imóvel, o Tribunal local atendeu ao limite de razoabilidade aceito por esta Corte Superior com base nos fatos e provas trazidos aos autos.
+Assim, a revisão do entendimento proferido pelo Colegiado estadual demandaria o reexame do conjunto fático-probatório dos autos e das cláusulas contratuais pactuadas entre as partes, cuja revisão é obstada diante dos óbices erigidos pelas Súmulas 5 e 7/STJ, respectivamente. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DESCONSTITUTIVA c/c PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTENDO HÍGIDA A NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA RÉ.
+ ..
+2. A jurisprudência desta Corte tem considerado razoável, em resolução de contrato de compra e venda de imóvel por culpa do comprador, que o percentual de retenção, pelo vendedor, de parte das prestações pagas, seja arbitrado entre 10% e 25%, conforme as circunstâncias de cada caso, avaliando-se os prejuízos suportados.
+Desse modo, a discussão acerca do percentual de retenção, no caso, pressupõe o reexame dos fatos da causa, bem como das cláusulas do respectivo contrato, o que encontra obstáculo nos enunciados n. 5 e 7 da Súmula do STJ.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp 725.986/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/06/2017, DJe 29/06/2017).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CONTRATO DE COMPRA E VENDA. DESFAZIMENTO. 1. ANTECIPAÇÃO DE TUTELA. ART. 273 DO CPC/1973. REQUISITOS. PREENCHIMENTO. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. 2. RESOLUÇÃO DO CONTRATO. ABUSIVIDADE. CDC. SÚMULA 543/STJ. 3. DEVOLUÇÃO DE VALORES PAGOS. PERCENTUAL DE RETENÇÃO. REVISÃO DE CLÁUSULA CONTRATUAL E MATÉRIA FÁTICA. SÚMULAS 7 E 83/STJ. 3. AGRAVO IMPROVIDO.
+1. O Tribunal estadual concluiu, com base nos elementos de prova dos autos, pela possibilidade de concessão da antecipação da tutela requerida, ante a presença de demonstração do fumus boni iuris e do periculum in mora. No caso, rever tal entendimento demanda reexame do conjunto fático-probatório, a atrair o óbice das Súmulas n. 5 e 7 do STJ.
+2. A jurisprudência desta Corte se firmou no sentido da possibilidade da devolução de todas as parcelas pagas, desde que a vendedora seja responsável pela rescisão do contrato. Esse entendimento foi consolidado na Súmula 543 do STJ.
+3. O percentual de retenção estabelecido pelo acórdão recorrido em 20% dos valores pagos, não destoa da atual jurisprudência desta Corte que, em caso de resolução do compromisso de compra e venda por culpa do promitente comprador, entende ser lícito ao vendedor reter entre 10% e 25% dos valores pagos, sendo que a fixação desse percentual foi analisada de acordo com as peculiaridades do caso concreto, não sendo viável a sua revisão nesta instância extraordinária, sob pena de afronta à Súmula 7/STJ.
+4. Agravo interno improvido.
+(AgInt no AREsp 952.241/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/11/2016, DJe 29/11/2016)
+Em face do exposto, conheço do agravo e dou parcial provimento ao recurso especial, apenas para o fim de restabelecer a condenação de honorários sucumbenciais fixada em sentença, sendo desnecessária qualquer redistribuição de ônus sucumbenciais, tendo em vista que o agravante decaiu de parte mínima do pedido ao obter êxito em reduzir o percentual previsto em cláusula abusiva de 85% para 10% em sentença, e após ver o percentual majorado para 25% em acórdão.
+Intimem-se.
