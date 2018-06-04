@@ -1,0 +1,16 @@
+DECISÃO
+Com a alegação de excesso de prazo para formação da culpa e ausência de fundamentação idônea a amparar a custódia cautelar de [NOME] - pronunciado pela suposta prática dos crimes inscritos no art. 121, § 2º, I, IV, e V, e art. 288, parágrafo único, ambos do Código Penal -, impetrou-se este habeas corpus contra o acórdão proferido pelo Tribunal de Justiça de Pernambuco no HC n. 0000953-86.2018.8.17.0000.
+Ressalta-se que o paciente encontra-se preso há mais de 3 anos, sendo há 2 anos e 4 meses após sentença de pronúncia, sem que seja designada data para seu julgamento em Plenário de Júri.
+Requer-se, assim, inclusive em liminar, a concessão da ordem para que seja expedido alvará de soltura.
+Em 24/5/2018, as informações solicitadas foram prestadas pelo Juízo de origem (fls.73/74).
+É o relatório.
+O deferimento de liminar em habeas corpus é medida de caráter excepcional, cabível apenas quando a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano.
+Na espécie, neste juízo de cognição preliminar, sem um exame mais pormenorizado dos elementos que instruem o feito, não há como afastar, por ora, a conclusão da Corte local. Segundo o acórdão (fls. 54/55 - grifo nosso):
+ ..  Na ação originária, a denúncia, que envolve mais outro acusado, foi recebida em 25 de maio de 2015, ocasião em que também foi decretada a prisão preventiva. A instrução foi encerrada e o paciente foi pronunciado, pelo crime de homicídio qualificado, no dia 21 de dezembro de 2015. Aberta a sessão de julgamento no dia 11 de maio de 2016, o Promotor de Justiça requereu o adiamento do julgamento em face da ausência da perícia balística, pelo que foi deferida a expedição de ofício ao Instituto de Criminalística. Atualmente, o feito encontra-se no aguardo do referido exame.
+A hipótese em tela trata de processo criminal intricado, em virtude da pluralidade de réus e testemunhas, gravidade do crime apurado, constantes requerimentos de diligências, necessidade de laudo técnico, o que sabidamente ocasiona atraso na marcha processual, mas sem se cogitar em excesso de prazo, já que justificado e dentro dos limites da razoabilidade.
+Nesse ponto, é imperioso destacar que o excesso de prazo não pode ser interpretado como a mera contagem aritmética dos dias, mas antes, consideradas as peculiaridades de cada caso  ..
+Registre-se, ainda, que após consulta a Sistema SDS, verificou-se que o paciente é contumaz no mundo do crime, ostentando em seu desfavor mais 02 (dois) processos por crimes diversos, dentre os quais: porte ilegal de arma de fogo de uso permitido (art. 14, parágrafo único da Lei 10.826/03) e condenação pelo crime previsto no art. 157, § II e V, do CP (roubo majorado), a pena de 07 (sete) anos 06 (seis) meses de reclusão  ..
+Com essas considerações, indefiro o pedido liminar. Recomendo, porém, que a Magistrada reitere o ofício expedido ao Instituto de Criminalística, solicitando urgência na realização da perícia de confrontação balística.
+Solicitem-se informações, no prazo de 20 dias, por malote digital, ao Juízo de direito da Vara Criminal da comarca de Camaragibe/PE acerca dos Autos n. 0002290-19.2015.8.17.0420. Deve a autoridade judicial enviar cópia da denúncia, bem como da sentença de pronúncia.
+Após, ao Ministério Público Federal para parecer.
+Publique-se.
