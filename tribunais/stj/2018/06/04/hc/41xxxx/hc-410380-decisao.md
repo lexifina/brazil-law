@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo que denegou a medida pleiteada perante aquela instância, autos de n. 2090023-65.2017.8.26.0000 (e-STJ fl. 213):
+"Habeas Corpus". Pretendida revogação da prisão preventiva. Tráfico ilícito de entorpecentes e associação para o tráfico. Critério judicial ponderado, notadamente pelas circunstâncias e gravidade dos crimes. Incompatibilidade da liberdade, para casos graves. Impossibilidade da concessão do benefício pleiteado. Inaplicabilidade de medidas cautelares alternativas. Garantia da ordem pública preservada. Precedentes fortes na jurisprudência. Prisão cautelar mantida. Ordem denegada.
+Nesta impetração, a defesa sustenta a ilegitimidade da segregação cautelar, ante a ausência de fundamentação concreta no decreto prisional. Também afirma que teria se apresentado espontaneamente perante a autoridade policial, entre outros indícios de que sua liberdade provisória não prejudicará a aplicação do direito, e que, "embora o paciente tenha sido indiciado pela prática do delito de associação para o tráfico, a dd. promotoria de justiça de primeira instância, ao ofertar a respectiva denúncia, pugnou pelo afastamento da imputação de referido delito, vez que ausentes os elementos constitutivos de tal tipo penal" (e-STJ fl. 12).
+Pede, liminarmente e no mérito, o relaxamento da prisão preventiva, com a expedição de alvará de soltura.
+Indeferida a liminar (e-STJ fls. 222/224), o Ministério Público Federal manifestou-se pela prejudicialidade do habeas corpus (e-STJ fl. 228).
+É o relatório. Decido.
+Consoante informações obtidas no endereço eletrônico do Tribunal de origem, verifica-se a existência de registro, de 12/4/2018, noticiando o trânsito em julgado da sentença proferida nos autos da ação penal originária. Assim, entendo que fica sem objeto o pedido contido na inicial.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique. Intime-se.
