@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por VITAL JOÃO ECCHER contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ fl. 176):
+APELAÇÃO-CRIME. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ART. 14, CAPUT, DA LEI Nº. 10.826/03. ATIPICIDADE DA CONDUTA POR AUSÊNCIA DE LESIVIDADE. CRIME DE PERIGO ABSTRATO. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. ARMA DE FOGO REGISTRADA (REGISTRO VENCIDO). INFRAÇÃO ADMINISTRATIVA. TESE NÃO APLICÁVEL AO CRIME DE PORTE ILEGAL DE ARMA DE FOGO.
+I - Materialidade delitiva e autoria comprovadas, pois houve a apreensão da arma, tendo o réu confessado a prática em juízo, relato que foi corroborado pelos depoimentos dos policiais.
+II - Por se tratar de crime de perigo abstrato no qual a comprovação acerca do mero cometimento da conduta é suficiente a ensejar a tipicidade do crime, não vinga a tese de atipicidade sob a argumentação de ausência de lesividade do bem jurídico tutelado.
+III - Flagrado o acusado em via pública portando a arma de fogo, inviável a desclassificação delitiva, posto que o art. 12, da Lei nº 10.826/03, dispõe sobre possuir arma de fogo no interior de residência ou no local de trabalho, quando o agente for o responsável legal deste.
+IV - A mera expiração do prazo de vencimento do registro de arma de fogo não é suficiente para a tipificação do crime de posse ilegal de arma, constituindo mera irregularidade administrativa. Porém, tal entendimento é restrito ao delito de posse irregular de arma de fogo, não se aplicando ao crime de porte ilegal de arma de fogo (art. 14, da Lei 10.826/03), cuja elementar é diversa e a reprovabilidade mais intensa. Entendimento preconizado pelo Colendo STJ e adotado nesta Quarta Câmara.
+APELAÇÃO DEFENSIVA DESPROVIDA.
+Nas razões do recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, a defesa aponta, além de divergência jurisprudencial, negativa de vigência ao art. 14 da Lei n. 10.826/2003 e ao art. 2º do Código Penal.
+Argumenta que "o direito penal não pode se preocupar com condutas que sequer geram dano em abstrato à sociedade, ou seja, pelo fato da arma desmuniciada não poder ser utilizada sozinha para efetuar disparos, não pode provocar danos imediatamente, não havendo tipicidade material, sendo que a conduta do denunciado é atípica" (e-STJ fl. 203).
+Contra-arrazoado (e-STJ fls. 249/260), o recurso foi admitido (e-STJ fls. 270/281), manifestando-se o Ministério Público Federal, nesta instância, pelo seu desprovimento (e-STJ fls. 313/314).
+É o relatório. Decido.
+O recurso é tempestivo e a matéria foi devidamente prequestionada.
+Inicialmente, registre-se que, nos termos da Súmula n. 568 desta Corte, "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Não assiste razão ao recorrente.
+A jurisprudência desta Corte Superior consolidou-se no sentido de que "o simples porte de arma de fogo, acessório ou munição, por si só, coloca em risco a paz social, porquanto o instrumento, independentemente de sua potencialidade lesiva, intimida e constrange as pessoas, o que caracteriza um delito de perigo abstrato. O tipo penal visa à proteção da incolumidade pública, não sendo suficiente a mera proteção à incolumidade pessoal" (AgRg no REsp n. 1.434.940/GO, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 4/2/2016).
+A propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ATIPICIDADE DA CONDUTA. CRIME DE PERIGO ABSTRATO. I - O crime de porte irregular de arma de fogo de uso permitido (art. 14 da Lei n. 10.826/2003) é crime de perigo abstrato, dispensando-se prova de efetiva situação de risco ao bem jurídico tutelado.
+II - "O simples porte de arma de fogo, acessório ou munição, por si só, coloca em risco a paz social, porquanto o instrumento, independentemente de sua potencialidade lesiva, intimida e constrange as pessoas, o que caracteriza um delito de perigo abstrato. O tipo penal visa à proteção da incolumidade pública, não sendo suficiente a mera proteção à incolumidade pessoal" (AgRg no REsp n. 1.434.940/GO, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 4/2/2016).
+Agravo regimental não provido. (AgRg no AREsp 1065328/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 17/10/2017, DJe 23/10/2017)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. POSSE ILEGAL DE MUNIÇÃO RELATIVA A ARMA DE USO RESTRITO. CRIME DE PERIGO ABSTRATO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO APLICAÇÃO. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que os crimes previstos nos art. 12, 14 e 16 da Lei 10.826/2003 são de perigo abstrato, razão pela qual é desnecessária a comprovação de prejuízo para a configuração do ilícito e incabível a aplicação do princípio da insignificância.
+2. Recurso ordinário improvido. (RHC 65.385/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/12/2015, DJe 10/12/2015)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. POSSE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. ART. 12 DA LEI N. 10.826/03. CRIME DE PERIGO ABSTRATO.
+O crime de posse ilegal de munição de uso permitido, tipificado no art. 12 da Lei n. 10.826/03, é de perigo abstrato ou de mera conduta, e visa proteger a segurança pública e paz social. Sendo assim, é irrelevante a quantidade de munição apreendida, uma vez que o delito se configura com a simples posse em desacordo com a legislação (precedentes).
+Agravo regimental desprovido. (AgRg no REsp 1527882/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 30/06/2015, DJe 17/08/2015)
+Logo, típica a conduta do recorrente em portar espingarda calibre 32 com uma cartucheira e 48 cartuchos para espingarda, em desacordo com determinação legal e regulamentar, não merecendo reforma do acórdão recorrido por se encontrar em conformidade com a jurisprudência deste Tribunal Superior.
+Ante o exposto, com fundamento no art. 932, IV, do CPC, c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
