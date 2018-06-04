@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. TRANSPORTE. INDEFERIMENTO DA DENUNCIAÇÃO À LIDE. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se, na origem, de agravo de instrumento interposto por DC Logistics Brasil Ltda. contra decisão que, em ação proposta por Imply Tecnologia Eletrônica Ltda., indeferiu o pedido de denunciação da lide formulado em contestação.
+A Décima Segunda Câmara Cível do Tribunal de Justiça do Rio Grande do Sul negou provimento ao recurso em acórdão assim ementado (e-STJ, fl. 500):
+AGRAVO DE INSTRUMENTO. TRANSPORTE. AÇÃO DE INDENIZAÇÃO C/C REPARAÇÃO POR DANOS MORAIS.
+DENUNCIAÇÃO DA LIDE DA EMPRESA QUE EFETUOU O TRANSPORTE DAS MERCADORIAS.
+1. Para o acolhimento da denunciação da lide, a parte deve demonstrar o enquadramento exato nas disposições do artigo 125 do Código de Processo Civil, seja pelo exercício de um direito decorrente da evicção, seja pela existência de um direito de regresso previsto na lei ou em contrato, não se prestando o instituto para eximir a requerida da responsabilidade a ela acometida, como no caso concreto, em que a agravante, inclusive, suscitou preliminar de ilegitimidade passiva.
+2. Ausência de qualquer disposição legal ou contratual capaz de amparar o pedido de denunciação da lide, limitando-se a recorrente a, genericamente, sustentar o direito de ser ressarcida pela transportadora FedEx em caso de condenação, pois seria ela a responsável direta pelos danos causados à autora.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+DC Logistics Brasil Ltda. interpôs recurso especial fundamentado na alínea a do permissivo constitucional, apontando violação ao art. 125 do CPC/2015.
+Sustentou, em síntese, a imperiosidade de se acolher a denunciação à lide de Federal Express Corporation - FEDEX -, considerando que esta "figurou como transportadora de fato da operação, tendo emitido o conhecimento de embarque genérico" (e-STJ, fl. 516).
+Contrarrazões às fls. 538-543 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso sob o fundamento de incidência das Súmulas 5 e 7 do STJ.
+Irresignada, a recorrente apresenta agravo refutando os óbices apontados pela Corte estadual.
+Contraminuta às fls. 578-585 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, ao analisar a questão referente à obrigatoriedade de denunciação da lide, o acórdão recorrido consignou a ausência de qualquer disposição legal ou contratual capaz de amparar o pedido da recorrente, tendo esta sustentado genericamente o direito de ser ressarcida pela transportadora FEDEX em caso de condenação, pois seria ela a responsável direta pelos danos causados à autora.
+Imperiosa a transcrição dos fundamentos do acórdão recorrido (e-STJ, fls. 502-504):
+A lide principal trata do atraso na entrega de mercadorias produzidas na cidade de Santa Cruz do Sul a serem transportadas até a cidade de Mumbai, na Índia, onde seria realizada uma feira internacional, tendo a autora, Imply Tecnologia Eletrônica Ltda., contratado a requerida DC Logistics Brasil Ltda. para a realização do transporte.
+Sucede que demandada, em contestação, alega ser mera intermediadora do contrato de transporte, operando na função de agente de carga, razão de ter suscitado preliminar de ilegitimidade passiva e postulado a denunciação da lide da empresa Federal Express Corporation (FedEx), que teria realizado o efetivo transporte das mercadorias, sendo esse último item o objeto da insurgência recursal, que, antecipo, não merece prosperar.
+Para o acolhimento da denunciação da lide, a parte deve demonstrar o enquadramento exato nas disposições do artigo 125 do Código de Processo Civil, seja pelo exercício de um direito decorrente da evicção, seja pela existência de um direito de regresso previsto na lei ou em contrato.
+No caso em apreço, é evidente que não há esse direito de regresso alegado, não tendo a agravante apontado qualquer disposição legal ou contratual capaz de amparar seu pedido, limitando-se a, genericamente, sustentar que deverá ser ressarcida pela transportadora FedEx em caso de condenação, pois seria ela a responsável direta pelos danos causados à autora.
+Além disso, tendo formulado preliminar de ilegitimidade passiva, resta flagrante que a requerida busca se eximir de eventual responsabilidade, transferindo-a a litisdenunciada, para o que não se presta o instituto da denunciação da lide, devendo ser mantida a rejeição do pedido.
+Nesse sentido, confira-se precedente deste Colegiado:
+ ..
+Nesse contexto, reverter a conclusão do Tribunal local para acolher a pretensão recursal, quanto ao pedido de denunciação à lide, demandaria o revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DA ADMINISTRAÇÃO PÚBLICA. INDENIZAÇÃO POR DANO MORAL.OFENSA AOS ARTS. 165, 458 E 535, INCISO II, DO CPC/73. INEXISTÊNCIA. NEXO DE CAUSALIDADE E HIPÓTESE DE DENUNCIAÇÃO DA LIDE. REVISÃO. PRETENSÃO DE REEXAME DE PROVA. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E IMPROVIDO.  ..  II - Havendo o Tribunal de origem, com base no acervo fático-probatório dos autos, concluído pela existência de nexo de causalidade entre a conduta omissiva da parte recorrente na prestação do serviço público e dano sofrido pela parte recorrida, bem como por estar configurada a hipótese legal de denunciação da lide prevista no inciso III do art. 70 do Código de Processo Civil de 1973, a inversão do julgado implicaria, necessariamente, no reexame das provas carreadas aos autos, o que é vedado na instância especial ante o óbice do enunciado n. 7 da Súmula do STJ. Precedentes: REsp 1667793/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/6/2017, DJe 20/6/2017 e REsp 1652776/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 21/3/2017, DJe 24/4/2017.  ..  IV - Agravo interno improvido. (AgInt no AREsp 463395/RS, Rel. Min. Francisco Falcão, Segunda Turma, julgado em 26/09/2017, DJe 04/10/2017)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
