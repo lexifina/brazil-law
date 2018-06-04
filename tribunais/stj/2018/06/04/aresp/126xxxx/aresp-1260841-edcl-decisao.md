@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SOCIEDADE BENEFICENTE SÃO CAMILO E OUTRO em face de decisão de fls. 770/772.
+Os embargantes sustentam que "há menção de que o Autor da ação indenizatória, ora Recorrente, é beneficiário da justiça gratuita, contudo, há que se ressaltar que o Recorrente, NÃO É BENEFICIÁRIO DA JUSTIÇA GRATUITA" (fl. 775).
+Impugnação de [NOME] pela rejeição dos embargos.
+Intimados à fl. 782, não houve impugnação do HOSPITAL SÃO LUCAS DE TAUBATÉ LTDA e de [NOME] (fl. 787).
+O recurso não merece prosperar.
+Da leitura dos autos não identificado, na decisão embargada, nenhum dos vícios necessários ao conhecimento dos embargos declaratórios, a teor do art. 1022 do Código de Processo Civil/2015, adstrito à correção de omissão, contrariedade, obscuridade ou, ainda, erro material. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. FALÊNCIA. IMPONTUALIDADE. TÍTULO EXECUTIVO JUDICIAL. EXECUÇÃO FRUSTRADA. DESNECESSIDADE. LIQUIDEZ DO TÍTULO. SIMPLES CÁLCULO ARITMÉTICO PARA INCLUSÃO DO VALOR DOS ENCARGOS E ABATIMENTO DOS PAGAMENTOS PARCIAIS. ACLARATÓRIOS. AUSÊNCIA DE OMISSÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. DESCABIMENTO. (..) 2. Ausentes as hipóteses insertas no art. 535 do CPC, inexistindo omissão, contradição ou obscuridade, não merecem acolhida os embargos que se apresentam com nítido caráter infringente, onde se objetiva rediscutir a causa já devidamente decidida. 3. Caráter manifestamente protelatório dos embargos de declaração, ensejando a aplicação da multa prevista no artigo 538, parágrafo único, do CPC. 4. Embargos de declaração rejeitados, com aplicação de multa. (EDcl no AgRg no Ag 1073663/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/08/2011, DJe 16/08/2011)
+Observe-se que em sua petição o embargante, sequer, demonstra omissão, obscuridade ou contradição no julgado embargado, fazendo arguições genéricas e sem similitude com o disposto no art. 1022 do Código de Processo Civil/2015.
+A decisão embargada abordou, expressamente, as questões que se pretenderam discutidas no especial, estando assim redigida (fls. 770/772):
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por [NOME], em face de acórdão assim ementado (fl. 658):
+RESPONSABILIDADE CIVIL - Erro médico - Danos material e moral - Infortúnio ocorrido no local de trabalho do autor, ocasionando a amputação do quarto dedo da mão esquerda - Conclusão, em laudo pericial, de que a necrose avascular não poderia ter sido evitada e de ter, o demandante, recebido atendimento e tratamento adequados ao caso e dentro das boas normas de conduta e ética médicas Imposição de indenização - Descabimento - Inexistência de deficiência no atendimento prestado pelos médicos, já que dentro do recomendado - Recurso improvido.
+Os embargos de declaração opostos na origem foram acolhidos por "não ter havido manifestação expressa em relação à irresignação contra a condenação às custas e honorários de sucumbência" (fl. 669).
+Nas razões do especial, o ora agravante alega violação dos arts. 85, § 2º, e 87 do Código de Processo Civil/2015, arguindo que os honorários advocatícios fixados em R$ 20.000,00 (vinte mil reais) - R$ 5.000,00 (cinco mil reais) para cada réu, mostram-se exorbitantes, devendo ser reduzidos, tendo em vista o valor atribuído à causa, de R$ 31.000,00 (trinta e um mil reais).
+Passo a decidir.
+O Tribunal de origem, com base nos fatos e provas dos autos, assim entendeu (fl. 671):
+Em relação à condenação nas verbas de sucumbência e em honorários sucumbenciais, não se vislumbra terem sido fixados em patamar excessivo, valendo lembrar que o apelante é beneficiário da justiça gratuita, o que não impede a imposição de tal penalidade, a qual é inócua, uma vez que ele somente responderá pela quantia arbitrada acaso, no futuro, tenha alterada a sua capacidade econômica, ficando, assim, suspensa a sua exigibilidade, conforme dispõe o art. 12 da Lei nº 1.060/50 (..).
+Observe-se que os honorários advocatícios foram fixados com base na apreciação da prestação do serviço pelo advogado, em face da natureza e das peculiaridades da causa e a sua revisão impõe incontornável reexame dos aspectos fáticos da lide, o que encontra óbice no enunciado 7 da Súmula do STJ. Na linha desse raciocínio:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. BRASIL TELECOM. HONORÁRIOS ADVOCATÍCIOS EM CUMPRIMENTO DE SENTENÇA. PEDIDO DE MINORAÇÃO. MATÉRIA DE PROVA. SÚMULA 07/STJ. EQUIDADE. AGRAVO NÃO PROVIDO COM APLICAÇÃO DE MULTA.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de ser inadmissível o exame do valor fixado a título de honorários advocatícios, em sede de recurso especial, tendo em vista que tal providência depende da reavaliação do contexto fático-probatório inserto nos autos, o que é vedado pela Súmula 7/STJ.
+2. Somente em situações excepcionais, notadamente quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada a título de honorários, se permite o afastamento do óbice contido na referida súmula, o que não ocorreu, todavia, na hipótese em análise.
+(..)
+(AgRg no REsp 1268695/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/09/2011, DJe 23/09/2011)
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo.
+Intimem-se.
+Esclareça-se que a menção à gratuidade de justiça deu-se em uma transcrição do julgado proferido pela origem, não tendo qualquer relação com o que decidido nesta Corte.
+Em face do exposto, não configurado vício no julgado ora embargado, rejeito os embargos de declaração.
+Intimem-se.
