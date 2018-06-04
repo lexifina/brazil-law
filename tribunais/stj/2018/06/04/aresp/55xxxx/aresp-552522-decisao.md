@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Agravo, interposto por THYSSENKRUPP METALÚRGICA CAMPO LIMPO LTDA, na vigência do CPC/73, em face de decisão que inadmitiu Recurso Especial, manejado contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+"EMBARGOS A EXECUÇÃO FISCAL. PIS. COMPENSAÇÃO. PROCEDIMENTO NÃO ADMITIDO NA SEARA ADMINISTRATIVA. INOPONIBILIDADE EM SEDE DE EMBARGOS.
+1 - É possível opor-se a compensação como matéria de defesa em sede de embargos à execução, a despeito da previsão do § 3º, do art. 16, da LEF, desde que haja pedido administrativo ou decisão judicial anterior ao ajuizamento da ação, posto que os embargos prestam-se à desconstituição do título executivo. Precedentes do C. STJ e das Cortes Regionais.
+3 - No caso, houve anterior implemento da compensação pela autoria dos créditos de PIS decorrentes de decisão judicial transitada em julgado reconhecendo a não-exigibilidade nos moldes dos Decretos-leis nº 2.445/88 e 2.449/88, com débitos ora executados, os quais são resultantes de revisão, em razão da constatação de inexistência de créditos a serem compensados, porquanto os montantes foram depositados mensalmente em juízo, sendo convertida em renda somente a parte efetivamente devida, nos termos da decisão judicial e o restante foi levantado pela própria embargante.
+4 - Somente em face de crédito líquido e certo da embargante é que seria admissível sua discussão em sede de embargos à execução, o que não ocorreu no caso concreto.
+5 - Sem condenação em verba honorária, ante a incidência do encargo-legal previsto no Decreto-lei nº 1.025/69.
+6 - Apelo da União e remessa oficial a que se dá provimento" (fl. 382e).
+Opostos Embargos de Declaração, foram eles rejeitados (fls. 403/410e).
+Alega a parte agravante, nas razões do Recurso Especial interposto pela alínea a do permissivo constitucional, violação aos arts. 535, II, do CPC/73, 74, § 5º, da Lei 9.430/96 e 173 do CTN, sustentando, omissão não suprida em sede de declaratórios, bem como, que "o posicionamento da Fazenda no sentido de rever as compensações e considerar o crédito indevido foi proferido depois de decorridos mais de cinco anos da apresentação dos pedidos de compensação, o que implicou a sua homologação ou, ainda, na decadência dos créditos tributários" (fl. 426e).
+Afirma, por fim, que "resta caracterizada a extinção do crédito tributário inscrito em Dívida Ativa da União sob o nº 80 7 04 005106-20, pela ocorrência da decadência do direito da Fazenda em homologar a compensação realizada pela Recorrente e a patente violação ao §5º, do art. 74, da Lei 9.430/96 e art. 173 do CTN pelo E. Tribunal a quo" (fl. 430e).
+Apresentadas as contrarrazões (fls. 464/466e), o Recurso Especial foi inadmitido (fls. 499/502e), o que ensejou a interposição do presente Agravo (fls. 507/515e).
+O Recurso Especial não merece prosperar.
+Com efeito, em relação ao art. 535, II, do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1360762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+Por outro lado, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida nos arts. 74, § 5º, da Lei 9.430/96 e 173 do CTN , sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+ Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Pelo exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
