@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo fundado no CPC/73, manejado pela Fazenda Nacional contra decisão da Vice-Presidência do Tribunal Regional da 2ª Região que inadmitiu o recurso especial ante o seguinte fundamento: o Tribunal de origem decidiu a controvérsia dos autos após percuciente análise de fatos e provas, sendo certo que, para se chegar à conclusão diversa com o recurso especial, seria necessário reexaminar o conjunto fático-probatório dos autos, providência vedada nos termos da Súmula 7/STJ.
+A agravante sustenta não ser aplicável à Súmula 7/STJ à espécie, pois "o recurso especial debate exclusivamente questão de direito (violação ao art. 151, III, do CTN)" (fl. 337).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A irresignação não merece prosperar.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial, a saber, a apontada aplicação do óbice previsto na Súmula 7/STJ, fundamento autônomo e suficiente para a manutenção da decisão ora agravada.
+Em relação ao referido óbice, em que pese a parte agravante ter mencionado não ser aplicável a Súmula 7/STJ (fl. 336), apenas cingiu-se a defender a "não ofensividade à referida súmula", à míngua de demonstração da situação particular do caso dos autos que justificasse o afastamento de tal óbice, o que consiste em argumentação insuficiente para refutá-lo.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Ante o exposto, não conheço do agravo.
+Publique-se.
