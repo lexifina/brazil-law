@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 701, e-STJ):
+RECURSO DE APELAÇÃO CIVEL - AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA ANTECIPADA - PLANO DE SAÚDE - PROCEDIMENTO SOLICITADO PELO MÉDICO ASSISTENTE NEGADO - COBERTURA DE TRATAMENTO DIVERSO - ESCOLHA DO MEDICO - DANO MORAL EXISTENTE - SENTENÇA PARCIALMENTE REFORMADA - RECURSO PARCIALMENTE PROVIDO PARA CONDENAR A APELADA NO PAGAMENTO DO DANO MORAL, COM READEQUAÇÃO DA SUCUMBÊNCIA.
+Opostos embargos de declaração, esses foram rejeitados pelo acórdão de fls.722-725, e-STJ.
+No recurso especial, aponta violação aos artigos 186, 188, 421, 422, 480 e 927 do Código Civil.
+Sustenta que deve ser afastada a condenação ao pagamento de indenização por danos morais fixada em R$ 8.000,00 (oito mil reais) pelo Tribunal de origem, porquanto, segundo alega, "o não fornecimento do medicamento requerido não ensejou nada além de mero aborrecimento cotidiano, não passível de reparação" (fl. 731, e-STJ). Subsidiariamente, pede a redução do valor fixado.
+Contrarrazões às fls. 744-751, e-STJ.
+Delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+No que diz respeito à extensão da cobertura securitária, o acórdão recorrido entendeu que deveriam ser autorizados todos os procedimentos necessários ao tratamento do recorrido, conforme se verifica (fls. 702-703, e-STJ):
+Consta dos autos que o apelante [NOME] ALBANO possui contrato de plano de saúde junto à apelada [NOME], e que, no ano de 2013, foi diagnosticado com "hérnia discal nas vértebras C-4 e L-5 extrusa e hérnia discal L5 S-1 central", fato que lhe gerou dor incapacitante com irradiação para membro inferior com parestesia e déficit neurológico.
+Devido ao diagnóstico, o médico do apelante solicitou liberação da guia para a realização do procedimento de "descompressão cirúrgica com espaçador interespinhoso", porém a cobertura de tal procedimento foi negada pela apelada, que teria aprovado um procedimento diverso do indicado, chamado "discectomia simples", que não apenas possui um pós-operatório mais demorado, como também é mais invasivo, e encontra-se defasado em relação à técnica escolhida pelo médico.
+Apesar da apelada não ter sido totalmente omissa em relação ao tratamento do apelante, a técnica por ela autorizada é diferente do procedimento escolhido pelo médico, sendo que o entendimento jurisprudencial é no sentido de que não cabe ao plano de saúde argumentar em face da recomendação dada pelo médico especialista.
+De acordo com a jurisprudência desta Corte, de fato, revela-se indevida a recusa de cobertura de exame médico essencial ao diagnóstico e tratamento de enfermidade coberta por plano de saúde contratado. No caso dos autos, o Tribunal de origem decidiu em consonância com a jurisprudência desta Corte, o que atrai a incidência da Súmula 83/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. ALEGADA VIOLAÇÃO AO ART. 6º DA LINDB. INSTITUTO DE NATUREZA CONSTITUCIONAL. 2. NEGATIVA DE COBERTURA. INCIDÊNCIA DO CDC. FORNECIMENTO DE MEDICAMENTO INDISPENSÁVEL AO TRATAMENTO DO SEGURADO. CLÁUSULA LIMITATIVA. ABUSIVIDADE. PRECEDENTES. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. 3. AGRAVO IMPROVIDO.
+ ..
+2. Em se tratando de contrato de adesão submetido às regras do Código de Defesa do Consumidor, a interpretação das cláusulas deve ser realizada da maneira mais favorável ao consumidor, considerando-se abusivas aquelas que visam a restringir procedimentos médicos essenciais para a saúde do segurado.
+3. Compete ao profissional habilitado indicar a opção adequada para o tratamento da doença que acomete seu paciente, não incumbindo à seguradora discutir o procedimento, mas custear as despesas de acordo com a melhor técnica. Além disso, a jurisprudência do Superior Tribunal de Justiça reconhece a possibilidade de o plano de saúde estabelecer as doenças que terão cobertura, mas não o tipo de procedimento utilizado para o tratamento de cada uma delas.
+Precedentes.
+4. Na hipótese, o Tribunal de origem, soberano no exame do acervo fático-probatório dos autos, concluiu pela necessidade do uso do medicamento para complementação do tratamento de câncer do paciente, além de que consta do contrato previsão de cobertura para procedimento de quimioterapia e que essa medicação faz parte do tratamento, portanto, reverter esta conclusão demandaria interpretação das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é obstado em recurso especial pelas Súmulas 5 e 7 desta Corte.
+5. Agravo interno a que se nega provimento
+(AgInt no AREsp 900.021/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/08/2016, DJe 30/08/2016).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. ABUSIVIDADE DA CLÁUSULA CONTRATUAL. MEDICAMENTO IMPORTADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO.
+SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O Tribunal estadual, ao determinar o oferecimento do medicamento solicitado, decidiu em conformidade com a jurisprudência desta Corte no sentido de considerar que "a exclusão de cobertura de determinado procedimento médico/hospitalar, quando essencial para garantir a saúde e, em algumas vezes, a vida do segurado, vulnera a finalidade básica do contrato" (REsp 183.719/SP, Relator o Ministro LUIS FELIPE SALOMÃO, DJe de 13.10.2008).
+2. Consoante a jurisprudência desta Corte, a recusa indevida da operadora de plano de saúde em autorizar o tratamento do segurado é passível de condenação por dano moral.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos a teor do que dispõe a Súmula n. 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 327.404/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/03/2015, DJe 27/03/2015).
+Saliente-se que para rever a conclusão adotada pelo Tribunal de origem seria necessário proceder-se à interpretação de cláusulas contratuais, bem como reexaminar o conjunto probatório dos autos, providências vedadas em sede de recurso especial, em razão dos óbices erigidos pelas Súmulas 5 e 7/STJ, respectivamente. A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO ONCOLÓGICO. NEGATIVA DE COBERTURA DE EXAME (PET SCAN). ABUSIVIDADE COMPROVADA. DANO MORAL IN RE IPSA. CONFIGURAÇÃO. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. DECISÃO MANTIDA.
+1. O Superior Tribunal de Justiça entende que é abusiva a cláusula contratual que exclui tratamento prescrito para garantir a saúde ou a vida do beneficiário, porque o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura.
+ ..
+3. Na espécie, não há que se falar no afastamento da presunção de dano moral, porque o Tribunal de origem, soberano na análise de matéria fático-probatória, destacou que não houve dúvida razoável na interpretação de cláusula contratual, mas sim declaração de sua nulidade por restringir direitos e obrigações inerentes ao próprio contrato, nos termos do Código de Defesa do Consumidor.
+4. A operadora do plano de saúde não apresentou argumento novo capaz de modificar a conclusão adotada, que se apoiou em entendimento aqui consolidado para dar provimento ao recurso especial a fim de reconhecer o cabimento da indenização por dano moral. Incidência das Súmulas nºs 7 e 83 do STJ.
+5. Inaplicabilidade das disposições do NCPC ao caso concreto ante os termos do Enunciado nº 1 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+6. Agravo regimental não provido.
+(AgRg no REsp 1.546.908/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 26/04/2016, DJe 03/05/2016).
+Por fim, quanto ao pedido de afastamento ou minoração do valor fixado em 8.000,00 (oito mil reais) a título de indenização por danos morais, melhor sorte não socorre à recorrente, uma vez que o referido valor não se distancia da razoabilidade e proporcionalidade, além de estar em perfeita harmonia com o entendimento desta Corte em casos similares. Ressalte-se ser inviável a revisão do julgado nesse ponto, em razão da Súmula 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. HOME CARE. NEGATIVA DE COBERTURA. NATUREZA ABUSIVA. RECUSA INJUSTIFICADA.
+DANO MORAL. CABIMENTO. QUANTUM INDENIZATÓRIO. REVISÃO. NECESSIDADE DE REEXAME DE PROVAS. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça possui entendimento de que, havendo cobertura para a doença, consequentemente deverá haver cobertura para procedimento ou medicamento necessário para assegurar o tratamento de doenças previstas no referido plano. Precedentes.
+2. Nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, como ocorrido no presente caso, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento. Precedentes.
+3. É possível a revisão do montante da indenização por danos morais nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame, pois o valor da indenização, arbitrado em R$ 8.000,00 (oito mil reais), não é excessivo nem desproporcional aos danos sofridos - recusa do plano de saúde em custear home care.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1236085/PE, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 8/5/2018 - grifou-se).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INCAPAZ DE ALTERAR O JULGADO. PLANO DE SAÚDE. AUTORIZAÇÃO DE PROCEDIMENTO. DEMORA. DANO MORAL. CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. REEXAME. SÚMULA Nº 7/STJ. INDENIZAÇÃO. VALOR. REVISÃO. PARÂMETROS DESTA CORTE.
+ ..
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. A fixação da indenização por danos morais baseia-se nas peculiaridades da causa. Assim, somente comporta revisão por este Tribunal quando irrisória ou exorbitante, o que não ocorreu na hipótese dos autos, em que o valor foi arbitrado em R$ 8.000,00 (oito mil reais).
+4. Agravo interno não provido.
+(AgInt no AREsp 1.173.569/PB, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 3/4/2018 - grifou-se).
+
+Tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
