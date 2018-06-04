@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. 1. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. RESCISÃO UNILATERAL ANTECIPADA. DIREITO A ARBITRAMENTO JUDICIAL. SÚMULA 83/STJ. 2. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por BANCO DA AMAZÔNIA S.A. contra decisão que não admitiu o processamento do apelo extremo.
+Infere-se dos autos que foi ajuizada ação de arbitramento de honorários, tendo o pedido sido julgado parcialmente procedente para condenar o ora insurgente ao pagamento de honorários advocatícios em favor da outra parte.
+Interposta apelação por ambas as partes, a Terceira Câmara de Direito Privado do Tribunal de Justiça do Mato Grosso negou provimento à insurgência do banco e deu parcial provimento à insurgência do autor, em acórdão assim ementado (e-STJ, fls. 635-636):
+ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS  CONTRATAÇÃO DE ADVOGADO  CONTRATO DE REMUNERAÇÃO EXCLUSIVAMENTE PELA VERBA SUCUMBENCIAL  RESCISÃO SEM JUSTA CAUSA  MAJORAÇÃO DO VALOR FIXADO DE ACORDO COM O TRABALHO DESEMPENHADO PELO CAUSÍDICO  SENTENÇA REFORMADA EM PARTE.
+O interesse processual nasce no momento em que a parte tem necessidade de ir a juízo para atingir a tutela pretendida e, ainda, quando esta tutela jurisdicional lhe traz alguma utilidade do ponto de vista prático.
+É plenamente possível o arbitramento de honorários advocatícios, sob o fundamento dos princípios da razoabilidade, boa-fé contratual, função social do contrato e da vedação do locupletamento sem causa, em razão do trabalho desempenhado pelo causídico, até o momento de sua destituição, nos casos em que o contrato de remuneração por êxito é rescindido unilateralmente sem justa causa pelo contratante.
+O valor arbitrado a título de honorários advocatícios deve estar de acordo com o trabalho desempenhado pelo patrono, o que não se observou na espécie, razão pela qual a sua majoração é medida que se impõe.
+No caso de ação de arbitramento de honorários advocatícios, os juros de mora incidem a partir da citação e a correção monetária do arbitramento.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, o recorrente apontou a ocorrência de violação aos arts. 473 do Código Civil; e 22 e 23 da Lei n. 8.906/1994.
+Sustentou que, mesmo diante da rescisão, o contrato de prestação de serviços advocatícios é válido, devendo ser mantido na forma como ajustado entre as partes. Aduziu que o aludido contrato previu expressamente a proporção devida no caso de rescisão durante o trâmite da ação de execução em que prestou os serviços advocatícios. Pugnou, ao final, pela reforma do acórdão recorrido, mantendo-se as cláusulas contratuais como originalmente pactuado pelas partes para que o recorrido "perceba os valores que lhe são devidos a título de honorários de sucumbência ao término da ação executiva com a recuperação do crédito" (e-STJ, fl. 698).
+O processamento do apelo nobre não foi admitido pela Corte local, levando o insurgente a interpor o presente agravo.
+Contraminuta apresentada às fls. 755-760 (e-STJ).
+Brevemente relatado, decido.
+A respeito da fixação de honorários advocatícios, a Corte de origem assim se manifestou (e-STJ, fls. 638-639):
+ In casu, é fato incontroverso que o autor laborou na ação de execução n. 7752-83.2001.811.0041 - Cód. 33246, que tramita perante a 1ª Vara Especializada em Direito Bancário da Comarca de Cuiabá, no interesse do banco, tendo este resilido o contrato de prestação de serviços advocatícios de forma unilateral e sem justa causa (fl. 80).
+ O contrato firmado entre os litigantes (fls. 66/79), realmente regula a forma de remuneração do advogado durante a vigência do pacto, contudo, não alberga nenhuma hipótese no caso da rescisão da avença antes do seu deslinde, consoante se observa na espécie.
+ Destarte, tem-se que nos contratos de remuneração por êxito, como é o caso dos autos, o causídico faz uma ponderação entre o direito defendido pelo seu cliente e a possibilidade de ganho da causa, de modo que, em regra, somente será remunerado pelo serviço prestado, caso haja a procedência do seu pedido, e com o devido pagamento da verba sucumbencial pela parte contrária.
+ Todavia, pacifico é o entendimento da relativização da regra epigrafada, sob a proteção do locupletamento indevido, mormente pela situação em que contrato é rescindido unilateralmente pela parte contratante, sem justa causa, porquanto tal hipótese não pode ser assumida como risco pelo patrono, de modo que o cliente deve assumir o ônus correspondente ao labor despendido por aquele na causa.
+ Ora, é nítida a afronta aos princípios da boa-fé contratual, função social do contrato, razoabilidade e não locupletamento sem causa, o fato de ter que remunerar o patrono apenas ao final da demanda, após ter laborado por mais de 14 (quatorze) anos, de modo que só foi destituído o seu poder procuratório por alvedrio do banco contratante, sem que houvesse qualquer justificativa para tanto.
+ Assim, deve ser aplicado o disposto no art. 22, §2º, do Estatuto da OAB, que dispõe (..)
+ Com efeito, agiu com o costumeiro acerto a d. magistrada neste ponto, vez que é plenamente possível o arbitramento de honorários advocatício, em razão do trabalho desempenhado pelo causídico até o momento da sua destituição, nos casos em que o contrato é rescindido unilateralmente pelo contratante, e sem justa causa.
+Do trecho acima colacionado, observa-se que o Tribunal de origem concluiu que, apesar de ter sido pactuado que a remuneração do recorrido seria por meio de honorários de sucumbência, a rescisão contratual impediria a remuneração na forma ajustada, o que autorizaria o arbitramento judicial da verba honorária a fim de remunerar o serviço prestado.
+O entendimento acima externado se harmoniza com a jurisprudência deste Sodalício, que se firmou no sentido de que, revogado imotivadamente o mandato judicial que seria remunerado pela sucumbência da outra parte (contrato de risco), é cabível o ajuizamento da ação de arbitramento para cobrar os honorários, de forma proporcional aos serviços até então prestados.
+A esse respeito, confira-se:
+RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. CONTRATO PARA ATUAÇÃO PROCESSUAL COM PREVISÃO DE REMUNERAÇÃO EXCLUSIVAMENTE MEDIANTE HONORÁRIOS DE SUCUMBÊNCIA. ROMPIMENTO ANTECIPADO EFETUADO PELO ADVOGADO. INEXISTÊNCIA DE PREVISÃO CONTRATUAL ESPECÍFICA. ARBITRAMENTO JUDICIAL. AUSÊNCIA DE PRECEDENTE. NECESSIDADE DE JULGAMENTO PELO COLEGIADO VIABILIZANDO-SE A SUSTENTAÇÃO ORAL DAS PARTES. AGRAVO INTERNO PROVIDO PARA JULGAMENTO DO RECURSO ESPECIAL.
+1. A jurisprudência pacifica do STJ possua o entendimento, no sentido de que nos contratos de prestação de serviços advocatícios com cláusula de remuneração exclusivamente por verbas sucumbenciais, a rescisão unilateral do contrato pelo cliente/contratante justifica o arbitramento judicial da verba honorária pelo trabalho exercido pelo advogado até o momento da rescisão contratual.
+ ..
+4. Agravo interno a que se dá provimento a fim de julgar o recurso especial em colegiado.
+(AgInt no REsp 1.337.749/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2016, DJe 10/02/2017)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CIVIL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. REMUNERAÇÃO EXCLUSIVAMENTE PELOS HONORÁRIOS. SUCUMBENCIAIS. DESTITUIÇÃO DO PATRONO ANTES DO TÉRMINO DO PROCESSO.
+DIREITO AO ARBITRAMENTO.
+1. Apesar da previsão no contrato firmado entre a parte e o seu advogado de remuneração mediante o recebimento de honorários de sucumbência, a denúncia pelo cliente, de forma unilateral e imotivada, antes do término do processo, frustrando a justa expectativa do profissional, conduz à possibilidade de ser pleiteado, em juízo, o arbitramento da verba honorária correspondente.
+ ..
+4. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp 886.504/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 12/04/2011, DJe 19/04/2011)
+Desse modo, estando o acórdão recorrido em consonância com o entendimento dominante desta Corte Superior, incide, ao caso, o Enunciado n. 83 da Súmula do STJ, aplicável também aos recursos especiais interpostos pela alínea a do permissivo constitucional, segundo iterativa jurisprudência deste Tribunal.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
