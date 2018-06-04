@@ -1,0 +1,15 @@
+DECISÃO
+Agrava-se de decisão que negou seguimento ao recurso especial interposto, com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Rio de Janeiro que deu provimento ao recurso em sentido estrito interposto pelo Ministério Público local para determinar o recebimento da denúncia e o prosseguimento do feito.
+A defesa aponta a violação do art. 17 do Código Penal alegando, em síntese, que "não é possível roubar alguém que, no ato da tentativa de subtração, nada detinha para ser subtraído, não sendo caso de não-consumação por circunstância alheia à vontade do agente e sim de impossibilidade de consumação por fato intrínseco à vítima (inexistência de patrimônio)." (e-STJ fl. 196)
+Contrarrazões às e-STJ fls. 212/219.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 276/278.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Os elementos existentes nos autos informam que o Tribunal de Justiça do Rio de Janeiro deu provimento ao recurso em sentido estrito interposto pelo Ministério Público local para determinar o recebimento da denúncia e o prosseguimento do feito sob seguintes fundamentos:
+In casu, não há de se falar de impossibilidade do roubo, não sendo possível alcançar o resultado final pretendido pelos denunciados, mas sim de verdadeira tentativa, fazendo-se irrelevante que a vítima não tenha consigo qualquer quantia em dinheiro ou qualquer objeto de valor no momento da violência ou da grave ameaça.
+Segundo narra a denúncia os recorridos, no presente caso, deram início a execução do crime, mediante grave ameaça à vítima, visando a subtração de dinheiro ou celular, que apenas não se consumou por circunstâncias alheias a vontade dos mesmos.
+Ressalta-se que ainda que não exista nenhum bem com a vítima, o crime de roubo, é um delito complexo, e quando iniciada a execução do crime, visando a subtração de coisa alheia móvel, realiza o núcleo da conduta meio, o que no caso se deu com o constrangimento da vítima mediante grave ameaça, mesmo que não consiga atingir o crime fim, ou seja, a subtração dos bens. (e-STJ fl. 174 - grifo nosso)
+O entendimento do Tribunal de origem está em harmonia com a jurisprudência desta Corte no sentido de que o roubo consiste em crime complexo, cuja execução é iniciada com a realização da conduta meio - constrangimento ilegal, lesão corporal ou vias de fato -, ainda que não consume o crime fim - subtração do bem. A propósito: HC 320.873/SP, desta Relatoria, DJe 29/06/2016.
+Registre-se, também, que o fato de inexistir bens materiais em poder da vítima não desnatura a ocorrência do crime de roubo em sua modalidade tentada (ut, AgRg no AREsp 428.672/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 10/10/2014)
+Diante do exposto, com fundamento no art. 932, VII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
