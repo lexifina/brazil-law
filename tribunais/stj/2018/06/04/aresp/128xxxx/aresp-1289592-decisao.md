@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 160):
+"AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. AÇÃO DE COMPLEMENTAÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+1. O fato de a assistência judiciária gratuita poder ser concedida a qualquer tempo e grau de jurisdição não exonera a parte interessada da obrigação de, instada judicialmente, comprovar a necessidade do benefício.
+2. No caso, o comprovante de rendimentos atesta que a parte agravante percebe mensalmente quantia superior a 05 salários-mínimos, renda incompatível com a concessão do benefício.
+RECURSO DESPROVIDO."
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 489, do Código de Processo Civil de 2015; arts. 4º e 5º, da Lei nº 1.060 de 1950; art. 1º, da Lei nº 7.115 de 1983 e divergência jurisprudencial, sustentando, em síntese, que: a) houve negativa de prestação judicial; b) "o r. acórdão recorrido fundamenta o indeferimento do beneplácito da AJG à parte autora com base em critério objetivo, qual seja, de percebimento de renda mensal bruta superior a 05 (cinco) salários mínimos" (e-STJ, fl. 216); c) "é pacífico neste C. STJ que a declaração da parte afirmando não possuir condições de arcar com tais ônus possui presunção de veracidade, e cabe à parte contrária provar o inverso. Não é o que ocorreu no caso dos autos, conforme bem fundamentou o Juízo da sentença de primeiro grau" (e-STJ, fl. 230).
+É o relatório. Decido.
+Cinge-se a controvérsia acerca da concessão de assistência judiciária gratuita à pessoa física.
+A Corte de origem, ao dirimir a controvérsia, concluiu que caberia ao agravante comprovar a necessidade em perceber o benefício da justiça gratuita, não bastando para tanto a simples afirmação nos autos de não possuir condições de arcar com as despesas processuais, ressalvando, ainda, que há comprovante com rendimentos que ultrapassam 5 (cinco) salários mínimos, o que demonstraria sua capacidade financeira.
+Confira-se (e-STJ, fl. 165):
+ "Na hipótese vertente, tenho que o comprovante de rendimentos acostado aos autos (fls. 125-134) afasta a possibilidade de concessão do benefício, porquanto atesta que a parte agravante percebe mensalmente valor superior a 05 (cinco) salários-mínimos mensais, rendimentos incompatíveis com a benesse pretendida."
+Em observância ao princípio constitucional da inafastabilidade da tutela jurisdicional, previsto no art. 5º, XXXV, da Constituição Federal, é plenamente cabível a concessão do benefício da assistência judiciária gratuita às partes. Disciplinando a matéria, a Lei nº 1.060/50, recepcionada pela nova ordem constitucional, em seu art. 1º, caput e § 1º, prevê que o referido benefício pode ser pleiteado a qualquer tempo, sendo suficiente para sua obtenção que a pessoa física afirme não ter condição de arcar com as despesas do processo, in verbis:
+"Art. 4º. A parte gozará dos benefícios da assistência judiciária, mediante simples afirmação, na própria petição, de que não está em condições de pagar as custas do processo e os honorários do advogado, sem prejuízo próprio ou de sua família.
+§ 1º Presume-se pobre, até prova em contrário, quem afirmar essa condição nos termos desta lei, sob pena de pagamento até o décuplo das custas judiciais." (grifo nosso)
+O dispositivo legal em apreço traz a presunção juris tantum de que a pessoa física que pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Por isso, a princípio, basta o simples requerimento, sem qualquer comprovação prévia, para que lhe seja concedida a assistência judiciária gratuita. Contudo, tal presunção é relativa, podendo a parte contrária demonstrar a inexistência do estado de miserabilidade ou o magistrado indeferir o pedido de assistência se encontrar elementos que infirmem a hipossuficiência do requerente.
+Com efeito, a jurisprudência firmada no âmbito desta eg. Corte de Justiça delineia que o benefício da assistência judiciária pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVOGAÇÃO DE BENEFÍCIO, PARA POSTERIOR COMPROVAÇÃO DE NECESSIDADE DA SITUAÇÃO ECONÔMICO-FINANCEIRA. POSSIBILIDADE.
+1. A declaração de pobreza, para fins de obtenção da assistência judiciária gratuita, goza de presunção relativa de veracidade, admitindo-se prova em contrário.
+2. Quando da análise do pedido da justiça gratuita, o magistrado poderá investigar sobre a real condição econômico-financeira do requerente, solicitando que comprove nos autos que não pode arcar com as despesas processuais e com os honorários de sucumbência.
+3. Agravo Regimental não provido."
+(AgRg no AREsp 329.910/AL, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/05/2014, DJe 13/05/2014)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL. BENEFÍCIO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO RELATIVA DE VERACIDADE. EXIGÊNCIA DE COMPROVAÇÃO. POSSIBILIDADE. SÚMULA 83.
+1. O Superior Tribunal de Justiça possui entendimento no sentido de que, para a concessão dos benefícios da assistência judiciária gratuita, basta que o postulante afirme não possuir condições de arcar com as custas e despesas processuais sem prejuízo ao sustento próprio e de sua família, ressalvado ao juiz indeferir a pretensão, se tiver fundadas razões para tanto, conforme reza o art. 5º da Lei 1.060/1950.
+2. No entanto, o magistrado pode determinar que a parte comprove tal condição, haja vista a declaração de hipossuficiência de rendas deter presunção relativa de veracidade, admitindo prova em sentido contrário.
+3. In casu, verifica-se que não houve negativa de concessão do benefício da justiça gratuita, mas tão somente determinação de juntada de provas acerca da condição de hipossuficiência dos agravantes.
+4. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ.
+5. Agravo Regimental não provido.
+(AgRg no AREsp 755.621/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/10/2015, DJe 02/02/2016)
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA. ASSISTÊNCIA JUDICIÁRIA. VALOR DA CAUSA. CORREÇÃO DE OFÍCIO. SUSPENSÃO DO FEITO. LITIGÂNCIA DE MÁ-FÉ. SÚMULA Nº 7/STJ.
+1. Esta Corte Superior é firme no sentido de que a declaração de pobreza que tenha por fim o benefício da assistência judiciária gratuita tem presunção relativa de veracidade, podendo ser afastada fundamentadamente.
+(..)
+6. Agravo regimental não provido.
+(AgRg nos EDcl no Ag 1404991/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 05/11/2015, DJe 10/11/2015)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. REEXAME DE MATÉRIA FÁTICA. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. É relativa a presunção de hipossuficiência oriunda da declaração feita pelo requerente do benefício da justiça gratuita, sendo possível a exigência, pelo magistrado, da devida comprovação.
+(..)
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no AgRg no AREsp 715.417/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/11/2015, DJe 26/11/2015)
+Compulsando os autos, observa-se, contudo, que o critério adotado pela Corte estadual para indeferir a concessão do benefício considerou apenas o valor dos rendimentos do ora agravante.
+Da leitura da Lei nº 1.060/50, contudo, não se depreende qualquer interpretação no sentido de ser possível fixar parâmetro objetivo para o deferimento da assistência judiciária gratuita, pois a concessão do referido benefício deve ser analisada observando-se as peculiaridades do caso concreto.
+Com efeito, o fato de o imposto de renda declarar rendimentos que se mostrem à primeira vista incompatíveis com a concessão do benefício, não elide, por si só, a situação da parte em poder arcar ou não com as despesas processuais e verbas de sucumbência sem prejuízo de seu sustento e/ou de seus familiares.
+Na hipótese, constata-se que o indeferimento da concessão, baseado unicamente neste critério estipulado pelo Tribunal a quo, passou ao largo de qualquer incursão fática acerca da atual situação financeira do recorrente, do confronto de suas despesas e de suas receitas, o que daria suporte para eventual concessão ou indeferimento do benefício ora pleiteado.
+Deste modo, tenho que o critério adotado pelo Tribunal de origem, com base em rendimentos declarados, não tem o condão de, isoladamente, fundamentar o indeferimento do pedido de concessão da assistência judiciária gratuita.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. BENEFÍCIO AFASTADO NA ORIGEM. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7/STJ. CRITÉRIO OBJETIVO DE RENDA INFERIOR A 10 SALÁRIOS MÍNIMOS. REJEIÇÃO. NECESSIDADE DE ANÁLISE DO CASO CONCRETO.
+(..)
+2. Esta Corte Superior já refutou a utilização do critério objetivo de renda inferior a dez salários mínimos, pois "a desconstituição da presunção estabelecida pela lei de gratuidade de justiça exige perquirir, in concreto, a atual situação financeira do requerente" (REsp nº 1.196.941/SP, Rel. Min. Benedito Gonçalves, DJe 23/3/2011).
+3. Agravo regimental não provido."
+(AgRg no AREsp 626.487/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 28/04/2015, DJe 07/05/2015)
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. ASSISTÊNCIA JUDICIÁRIA GRATUITA INDEFERIDA COM AMPARO EM CRITÉRIO NÃO PREVISTO NA NORMA. ILEGALIDADE.
+1. Na origem, o magistrado refutou os dois critérios comumente adotados pelo Tribunal Regional Federal da 4ª Região para avaliar concessão do benefício da Assistência Judiciária Gratuita - dez salários mínimos e limite de isenção do imposto de renda - para estabelecer um terceiro, consistente no limite de isenção da contribuição previdenciária prevista no art. 195, II, da CF/88, indeferindo o benefício porque a renda bruta do autor supera esse patamar.
+2. "Há violação dos artigos 2º e 4º da Lei n. 1.060/50, quando os critérios utilizados pelo magistrado para indeferir o benefício revestem-se de caráter subjetivo, ou seja, criados pelo próprio julgador, e pelos quais não se consegue inferir se o pagamento pelo jurisdicionado das despesas com o processo e dos honorários irá ou não prejudicar o seu sustento e o de sua família" (REsp 1.196.941/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 23.3.2011). Demais precedentes.
+3. Omissão reconhecida no acórdão do Agravo Regimental.
+4. Embargos Declaratórios acolhidos com efeitos infringentes para determinar o retorno dos autos à origem de modo que seja oportunizada ao autor a concreta demonstração de sua alegada hipossuficiência econômica."
+(EDcl no AgRg no AREsp 345.573/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/11/2013, DJe 09/12/2013)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. LEI 1.060/1950. ADOÇÃO DE CRITÉRIO NÃO PREVISTO EM LEI. RENDA LÍQUIDA INFERIOR A 10 SALÁRIOS MÍNIMOS. NECESSÁRIO RETORNO DOS AUTOS À ORIGEM. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O exame da controvérsia não encontra óbice na Súmula 7/STJ, porquanto não exige o reexame do conjunto fático, haja vista limitar-se à questão exclusivamente de direito, in casu, à legalidade do critério adotado pelo Tribunal de origem a fim de deferir o benefício da assistência judiciária gratuita.
+2. O Tribunal de origem decidiu que a recorrida faz jus à assistência judiciária gratuita porquanto aufere renda inferior a 10 (dez) salários mínimos, o que possibilitaria presumir o seu estado de miserabilidade. Contudo, o critério adotado como parâmetro para o deferimento do benefício vindicado não encontra amparo na Lei 1.060/1950. Precedentes.
+3. Agravo regimental não provido."
+(AgRg no AREsp 353.863/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/09/2013, DJe 11/09/2013)
+"AGRAVO REGIMENTAL. PROCESSUAL CIVIL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. DECLARAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA. RENDA DO REQUERENTE. PATAMAR DE DEZ SALÁRIOS MÍNIMOS. CRITÉRIO SUBJETIVO. IMPOSSIBILIDADE. APLICAÇÃO DO QUE DISPÕEM OS ARTS. 4º E 5º DA LEI N. 1.060/50. AFASTAMENTO DA SÚMULA 7/STJ. RETORNO DOS AUTOS À ORIGEM.
+1. A assistência judiciária gratuita pode ser requerida a qualquer tempo, desde que o requerente afirme não possuir condições de arcar com as despesas processuais sem que isso implique prejuízo de seu sustento ou de sua família.
+2. A declaração de pobreza, com o intuito de obter os benefícios da justiça gratuita, goza de presunção relativa, admitindo prova em contrário.
+ 3. Na hipótese, o Tribunal de origem decidiu pela concessão do benefício, com base no fundamento de que sua renda mensal é inferior a 10 (dez) salários-mínimos, critério esse subjetivo e que não encontra amparo nos artigos 2º, 4º e 5º da Lei nº 1.060/50, que, dentre outros, regulam o referido benefício.
+ 4. "Para o indeferimento da gratuidade de justiça, conforme disposto no artigo 5º da Lei n. 1.060/50, o magistrado, ao analisar o pedido, perquirirá sobre as reais condições econômico-financeiras do requerente, podendo solicitar que comprove nos autos que não pode arcar com as despesas processuais e com os honorários de sucumbência. Isso porque, a fundamentação para a desconstituição da presunção estabelecida pela lei de gratuidade de justiça exige perquirir, in concreto, a atual situação financeira do requerente" (REsp 1.196.941/SP, Rel. Min. Benedito Gonçalves, DJe 23/3/2011).
+5.Agravo regimental não provido."
+(AgRg no AREsp 250239/SC, Rel. Min. CASTRO MEIRA, SEGUNDA TURMA, julgado em 16/04/2013, DJe de 26/04/2013)
+
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial para determinar o retorno dos autos ao TJRS a fim de que seja analisado o pedido de justiça gratuita na forma da orientação jurisprudencial firmada nesta Corte Superior.
+Publique-se.
