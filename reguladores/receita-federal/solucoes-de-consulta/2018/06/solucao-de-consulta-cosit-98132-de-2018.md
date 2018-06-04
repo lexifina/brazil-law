@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98132, de 25 de maio de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 2106.90.10, Ex 01 da Tipi Mercadoria: Preparação para elaboração de refresco, mediante diluição em água (16 partes de refresco para 1 parte da preparação), composta de polpa de maracujá, água, aroma natural de maracujá, metabissulfito de sódio, benzoato de sódio, betacaroteno, ácido cítrico e goma xantana, apresentada em garrafa de plástico com 500 ml ou 980 ml, denominada “concentrado líquido para refresco de fruta”. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 21.06), RGI 6 (texto da subposição 2106.90) e RGC 1 (texto do item 2106.90.10), da TEC, aprovada pela Resolução Camex nº 125/2016, e da Tipi, aprovada pelo Decreto nº 8.950/2016, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.132-2018 .pdf]
