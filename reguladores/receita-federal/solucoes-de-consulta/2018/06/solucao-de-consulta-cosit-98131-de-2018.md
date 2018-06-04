@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98131, de 25 de maio de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8543.70.99 Mercadoria: Aparelho eletrônico denominado “disco diagrama digital”, destinado a registrar (de forma inalterável) velocidade, distância e tempo decorrido (em substituição ao disco diagrama de papel), medidos por cronotacógrafo de veículos, a receber (por ondas de rádio) e registrar dados do aparelho “ponto eletrônico” do motorista e, ainda, a transmitir (por ondas de rádio) todas as informações armazenadas para dispositivos remotos. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.43), RGI 6 (texto da subposição 8543.70) e RGC 1 (texto do item 8543.70.9 e do subitem 8543.70.99), da TEC, aprovada pela Resolução Camex nº 125/2016, e da Tipi, aprovada pelo Decreto nº 8.950/2016, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.131-2018 .pdf]
