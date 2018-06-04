@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo nos próprios autos em face de decisão de admissibilidade negativa de recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, visando à reforma de acórdão assim ementado (fl. 233):
+RECURSO DE APELAÇÃO. RAZÕES RECURSAIS INTEGRALMENTE DISSOCIADAS DOS FUNDAMENTOS DA R. SENTENÇA RECORRIDA. VIOLAÇÃO AO ARTIGO 1.010, INCISO II, DO CÓDIGO DE PROCESSO CIVIL. RECURSO DE APELAÇÃO NÃO CONHECIDO.
+No recurso especial apontou-se contrariedade aos artigos 1.010, inciso II, do Código de Processo Civil e 28 da Lei 10.931/2004. Buscou o recorrente demonstrar a constitucionalidade da Lei 10.931/2004. Sustenta a instituição financeira que demonstrou a evolução do débito, calculado segundo as cláusulas da cédula de crédito bancário, que é título executivo extrajudicial, de modo que a inicial da execução não é inepta, estando alicerçada em contrato apto da instruir a execução.
+Adiciona que impugnou especificamente os fundamentos da sentença atacada na apelação.
+Nas constrarrazões, Meg Store Instituto de Beleza Ltda. e outros denunciam a ausência de prequestionamento, o propósito de reexame de matéria fática e pleiteiam a manutenção do decisório.
+A admissibilidade negativa do especial deveu-se à alegação de que não houve demonstração da infringência dos dispositivos legais, argumento que foi suficientemente impugnado na petição de fls. 271/274, de modo que considero superado o limite do conhecimento.
+Assim delimitada a questão, passo a decidir.
+Vinga a pretensão reformatória.
+De início, conforme o art. 514, II, do CPC revogado (atual art. 1.010, inciso II) o princípio da dialeticidade determina que sejam impugnados todos os fundamentos aptos à manutenção da sentença.
+É evidente que a apelação na qual se alega que houve o cálculo da dívida segundo os critérios estabelecidos no contrato é mais que suficiente para contrariar a sentença que consigna não haver a demonstração da evolução da dívida. O recorrente, no recurso de apelação, deixou claro seu interesse em ver a reforma do decidido pela sentença, tendo realizado suficiente impugnação aos fundamentos do referido julgado.
+Com efeito, o STJ já consolidou entendimento no sentido de que mesmo "a reprodução, na apelação, dos argumentos já lançados na petição inicial ou na contestação não é, em si, obstáculo bastante para negar conhecimento ao recurso" (Terceira Turma, AgRg no AREsp 175.517/MS, Rel. Ministro Sidnei Beneti, DJe de 27.6.2012).
+Nesse sentido, confiram-se ainda:
+PROCESSUAL CIVIL. AGRAVO NO RECURSO ESPECIAL. REPETIÇÃO DOS ARGUMENTOS DEDUZIDOS NA CONTESTAÇÃO. ADMISSIBILIDADE. DEMONSTRAÇÃO DO INTERESSE PELA REFORMA.
+- A reprodução na apelação das razões já deduzidas na contestação não determina a negativa de conhecimento do recurso, especialmente quando as razões ali esposadas são suficientes à demonstração do interesse pela reforma da sentença.
+ - Agravo não provido.
+(Terceira Turma, AgRg no REsp 1.265.900/SC, Rel. Ministra NANCY ANDRIGHI, DJe de 24.5.2012)
+PROCESSUAL CIVIL. APELAÇÃO. OBSERVÂNCIA DOS REQUISITOS PREVISTOS NO ART. 514 DO CPC. NÃO-CONHECIMENTO. RIGOR EXCESSIVO E INJUSTIFICADO.
+1. Um dos pressupostos de admissibilidade da apelação é a exposição das razões do inconformismo da parte (causa de pedir recursal). Não se pode, todavia, prestigiar o formalismo. A repetição dos argumentos deduzidos na contestação não impede, por si só, o conhecimento do recurso de apelação, notadamente quando suas razões deixam claro o interesse pela reforma da sentença.
+2. Havendo impugnação específica dos fundamentos que motivaram a sentença, contendo a apelação os nomes e a qualificação das partes, os fundamentos de fato e de direito e o pedido de nova decisão, ficam preenchidos os requisitos previstos no art. 514 do CPC.
+3. Na hipótese, o não-conhecimento do recurso, sob o fundamento de que houve mera reprodução da contestação, constitui rigor excessivo e injustificado.
+4. Recurso especial provido.
+(Segunda Turma, REsp 1.156.982/PR, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 22.3.2011)
+De toda sorte, eventuais falhas na inicial da execução não conduzem à extinção do feito, mas à intimação do exequente para saná-las.
+Na dicção dos arts. 616 e 614, II, do CPC anterior (atuais 798, inciso I, alínea "b", e 801), é cabível a intimação do credor para complementar a inicial da execução. Nesse sentido:
+EMBARGOS À EXECUÇÃO. CONTRATO DE RENEGOCIAÇÃO DE OPERAÇÃO DE CRÉDITO. DEMONSTRATIVO DO DÉBITO INCOMPLETO. DILIGÊNCIA DO ARTIGO 616, CPC. CABIMENTO. PRECEDENTES.
+Seguindo entendimento assente nesta eg. Corte, considerando o juiz incompletos ou insuficientes os documentos ou cálculos apresentados pelo credor, tem lugar a emenda da inicial da ação executiva e não a extinção do processo, ainda que já opostos os embargos do devedor, caso em que, regularizado o vício, deve ser oportunizado ao embargante o aditamento dos embargos.
+Recurso especial conhecido e provido.
+(Quarta Turma, REsp 440.719/SC, Rel. Ministro CESAR ASFOR ROCHA, unânime, DJU de 9.12.2002)
+Acerca da aptidão da cédula de crédito bancário para instruir execução, conclui-se que o acórdão recorrido violou o art. 28 da Lei 10.931/2004 e divergiu do entendimento desta Corte, que se firmou no sentido de que a cédula de crédito bancário, mesmo quando o valor nela expresso seja oriundo de saldo devedor em contrato de abertura de crédito em conta corrente, possui natureza de título executivo, exprimindo obrigação líquida e certa, por força do disposto na Lei 10.931/2004. Como exemplo:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO EXECUTIVO EXTRAJUDICIAL. LEI 10.931/2004.
+1. A cédula de crédito bancário, mesmo quando o valor nela expresso seja oriundo de saldo devedor em contrato de abertura de crédito em conta corrente, tem natureza de título executivo, exprimindo obrigação líquida e certa, por força do disposto na Lei n.10.930/2004. Precedente da 4a Turma do STJ.
+2. Agravo regimental a que se nega provimento.
+(Quarta Turma, AgRg no REsp 1.038.215/SP, minha relatoria, unânime, DJe de 19.11.2010)
+AGRAVO REGIMENTAL. PROVIMENTO PARA DAR PROSSEGUIMENTO AO RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO COM EFICÁCIA EXECUTIVA. SÚMULA N. 233/STJ. INAPLICABILIDADE.
+1. As cédulas de crédito bancário, instituídas pela MP n. 1.925 e vigentes em nosso sistema por meio da Lei n. 10.931/2004, são títulos que, se emitidos em conformidade com os requisitos na lei exigidos, expressam obrigação líquida e certa.
+2. O fato de ter-se de apurar o quantum debeatur por meio de cálculos aritméticos não retira a liquidez do título, desde que ele contenha os elementos imprescindíveis para que se encontre a quantia a ser cobrada mediante execução. Portanto, não cabe extinguir a execução aparelhada por cédula de crédito bancário, fazendo-se aplicar o enunciado n. 233 da Súmula do STJ ao fundamento de que a apuração do saldo devedor, mediante cálculos efetuados credor, torna o título ilíquido. A liquidez decorre da emissão da cédula, com a promessa de pagamento nela constante, que é aperfeiçoada com a planilha de débitos.
+3. Os artigos 586 e 618, I, do Código de Processo Civil estabelecem normas de caráter geral em relação às ações executivas, inibindo o ajuizamento nas hipóteses em que o título seja destituído de obrigação líquida, certa ou que não seja exigível. Esses dispositivos não encerram normas sobre títulos de crédito e muito menos sobre a cédula de crédito bancário.
+4. Agravo de instrumento provido para dar prosseguimento ao recurso especial.
+5 . Recurso especial provido.
+(Quarta Turma, REsp 599.609/SP, Rel. p/ acórdão Ministro JOÃO OTÁVIO DE NORONHA, por maioria, DJe de 8.3.2010)
+A Seção de Direito Privado desta Corte adotou a mesma tese, conforme se constata do julgamento do REsp 1.283.621/MS (Rel. Ministro Luís Felipe Salomão, unânime, DJe de 18.6.2012).
+Dessa forma, o acórdão recorrido, ao afastar a característica de título de crédito expressamente conferida à cédula de crédito bancário, violou a literalidade da norma legal. A liquidez e a certeza da cédula de crédito bancário derivam do próprio diploma legal, não considerado nos precedentes que deram origem aos verbetes sumulares 233 e 258 do STJ. Título de crédito é aquele ao qual a lei confere esta qualidade, lei esta publicada em 2004 e expressamente violada pelo acórdão recorrido.
+Por outro lado, conforme ressaltado acima, cumpre salientar que "é cabível, nos termos do art. 616 do CPC, a determinação judicial no sentido de que o exequente emende a inicial, ainda que já tenham sido ofertados os embargos do devedor" (Quarta Turma, REsp 264.807/MG, Rel. Ministro Barros Monteiro, DJU de 4.10.2004) ou que o processo esteja tramitando em grau de recurso perante o Tribunal (Terceira Turma, REsp 648.108/SC, Rel. Ministra Nancy Andrighi, DJU de 26.9.2005).
+Em face do exposto, conheço do agravo para, de logo, conhecer do recurso especial e a ele dar provimento para determinar o retorno dos autos à origem, para o correto processamento do feito e, se necessário, para que se faculte ao exequente a complementação da inicial, que deve satisfazer os requisitos do art. 28, § 2º, incisos I e II, da Lei 10.931/2004.
+Intimem-se.
