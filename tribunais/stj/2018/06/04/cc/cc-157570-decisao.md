@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da 1ª Vara de Conceição do Araguaia/PA - suscitante, e o Juízo de Direito da Vara Criminal de Colinas do Tocantins/TO - suscitado.
+ De acordo com os autos, o conflito foi instaurado para definição do juízo competente para a fiscalização do cumprimento da pena sob regime semiaberto, aplicada pelo juízo ora suscitado, contra [NOME]. O interessado foi denunciado pelo Ministério Público tocantinense pela prática do crime previsto no art. 157, § 2º, incisos I e II, do Código Penal e condenado a 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto. A Vara criminal tocantinense realizou audiência admonitória em 3.10.2017, quando foi informado que o réu possui emprego e apoio da família na cidade de Conceição do Araguaia, no estado do Pará (e-STJ, fl. 68). Em razão disso, o Juízo de Colinas do Tocantis determinou a remessa dos autos ao município paraense.
+O Juízo de Direito da 1ª Vara de Conceição do Araguaia suscitou o conflito aduzindo ser incompetente para o processo de execução, cabendo ao juízo da condenação a execução da pena.
+Nesta instância, o Ministério Público Federal opinou pela competência do Juízo de Direito da vara Criminal de Colinas do Tocantins (e-STJ, fls. 152-154).
+É o relatório.
+O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d da Constituição Federal.
+Como bem lembrado pelo Ministério Público Federal, é pacífica "a jurisprudência desta Corte Superior no sentido de competir ao juízo da condenação executar sua sentença, ou seja, competente" (e-STJ, fl. 154). Deste modo, competente é o juízo suscitado, cabendo ao juízo suscitante apenas a fiscalização de atos
+Nesse viés, a firme jurisprudência do Superior Tribunal de Justiça:
+PENAL E PROCESSO PENAL. CONFLITO DE COMPETÊNCIA. PENAS RESTRITIVAS DE DIREITOS. MUDANÇA DE DOMICÍLIO DO APENADO. EXECUÇÃO. COMPETÊNCIA NÃO ALTERADA. EXPEDIÇÃO DE CARTA PRECATÓRIA PARA CUMPRIMENTO DA PENA. COMPETÊNCIA DO JUÍZO DE DIREITO DA VARA DE EXECUÇÃO CRIMINAL E CORREGEDORIA DE PRESÍDIOS DE SÃO VICENTE/SP.
+1. Aplicadas as penas restritivas de direitos, na hipótese do apenado mudar o seu domicílio, cabe ao Juízo da Execução Penal expedir carta precatória para a nova localidade, deprecando-se, no caso, a realização da audiência admonitória e a fiscalização do cumprimento das condições fixadas.
+2. Não há a transferência da competência, apenas de alguns atos, sendo que os decisórios permanecem atribuídos ao juízo responsável pela execução no local da condenação.
+3. Conflito de competência conhecido para declarar competente o Juízo de Direito da Vara de Execução Criminal e Corregedoria de Presídios de São Vicente/SP, ora suscitado. (CC 106.036/PE, Rel. Min. MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, DJe. 21/08/2009)
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Criminal de Colinas do Tocantins/TO - suscitado, cabendo ao juízo suscitante fiscalizar os atos relacionados ao cumprimento da sanção aplicada ao reeducando.
+Dê-se ciência aos Juízes em conflito.
+Publique-se.
