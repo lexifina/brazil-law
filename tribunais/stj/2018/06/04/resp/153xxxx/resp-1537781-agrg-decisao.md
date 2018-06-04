@@ -1,0 +1,14 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS interpõe agravo regimental contra decisão de minha relatoria (fls. 295-300), na qual neguei seguimento ao recurso especial, por incidir na hipótese o óbice da Súmula n. 7 do STJ.
+Alega o agravante, em síntese, que "o recurso especial em questão não pretende sejam reexaminados os fatos que originaram o processo, tampouco as provas produzidas na instrução. Objetiva, tão somente, que aos fatos e ao conjunto probatório já analisados nas instâncias ordinárias incidam raciocínios jurídicos diversos daqueles consignados no acórdão impugnado pelo recurso especial" (fl. 316).
+Pleiteia a reconsideração da decisão anteriormente proferida ou o encaminhamento deste recurso para o julgamento pelo órgão colegiado.
+Decido.
+Pela análise dos autos, verifico a superveniente perda do interesse-utilidade deste agravo regimental, o que prejudica a análise do pedido.
+Com efeito, o agravado foi condenado a 6 meses de detenção, no regime inicial aberto, como incurso na sanção do art. 306 do CTB. Em apelação exclusiva da defesa, o Tribunal de origem absolveu o réu por entender ausente a prova da materialidade delitiva. O acórdão impugnado no recurso especial do Ministério Público foi por mim confirmado no decisum de fl. 295-300.
+O pedido deduzido neste agravo regimental visa, em síntese, o restabelecimento da sentença penal condenatória.
+O art. 109 do Código Penal disciplina que o prazo prescricional, antes do trânsito em julgado da decisão condenatória, regula-se pelo máximo da pena privativa de liberdade aplicada ao crime.
+Assim, ainda que o recurso especial da acusação fosse provido, subsistiria a pena fixada na sentença condenatória, ou seja, 6 meses de detenção, cujo prazo prescricional é de 3 anos, conforme dicção do artigo 109, VI, do Código Penal.
+Nessa perspectiva, considerando-se que o último marco interruptivo é a publicação da sentença condenatória, ocorrida em 14/2/2014 (fl. 139), e transcorridos mais de 3 anos entre a referida data e o presente momento, o reconhecimento da prescrição da pretensão punitiva seria medida cogente na espécie, o que evidencia a perda do interesse-utilidade deste recurso. Ou nas palavras de [NOME], [NOME] e [NOME]:
+(..) a postulação de um conceito unitário do interesse em recorrer exige uma ótica antes prospectiva que retrospectiva, em que se dá ênfase à utilidade, entendida como proveito que a futura decisão seja capaz de propiciar ao recorrente. Esta visão permite abranger todas as hipóteses, quer se trate de recurso das partes, quer de terceiros, quer do Ministério Público, como fiscal da lei ou órgão da justiça. (Recursos no Processo Penal, 6ª ed. rev., atual. e ampl. - São Paulo: Editora Revista dos Tribunais, 2009, p. 71).
+À vista do exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o agravo regimental.
+Publique-se e intimem-se.
