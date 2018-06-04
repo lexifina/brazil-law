@@ -1,0 +1,14 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO INDENIZATÓRIA. DANO AMBIENTAL. ART. 9º, § 1º, VIII, DO RISTJ. COMPETÊNCIA DAS TURMAS DA PRIMEIRA SEÇÃO DESTA CORTE. REDISTRIBUIÇÃO DO FEITO.
+DECISÃO
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado de Sergipe que não admitiu o recurso especial apresentado por MARIA ROSIMEIRE CARDOSO GONÇALVES, com base no art. 105, III, alineas a e c, da CF, desafiando acórdão assim ementado (e-STJ, fls. 289-290):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL DECORRENTE DE DANO AMBIENTAL. PARTES QUE NÃO SE ENQUADRAM NOS CONCEITOS DE CONSUMIDOR E FORNECEDOR ELENCADOS NO CÓDIGO DO DIREITO DO CONSUMIDOR. INAPLICABILIDADE DO REFERIDO CODEX E LOGICAMENTE A REGRA QUE DISPÕE SOBRE A INVERSÃO DO ÔNUS DA PROVA. AUTORA QUE NÃO DISPÕE DE CONDIÇÕES PLENAS DE RESPONDER PELO ÔNUS. EXCEPCIONAL POSSIBILIDADE DE INVERSÃO COM AMPARO NA TEORIA DA CARGA DINÂMICA DE DISTRIBUIÇÃO DO ÔNUS DA PROVA. RESPONSABILIDADE OBJETIVA DO ESTADO (ART. 37, §6º, da CF). DIMINUIÇÃO DA VAZÃO PARA PATAMAR INFERIOR A 1.300M /S A PARTIR DA HIDRELÉTRICA DE XINGÓ. NECESSIDADE DA REDUÇÃO EM RAZÃO DA NATURAL REDUÇÃO DA VAZÃO DO RIO SÃO FRANCISCO EM SUA EXTENSÃO ANTERIOR A REPRESA, OCASIONADA PRINCIPALMENTE PELA ESCASSEZ DAS CHUVAS. MINORAÇÃO AUTORIZADA PELOS ÓRGÃOS DE FISCALIZAÇÃO ANA E IBAMA. IMPERIOSA NECESSIDADE COMO FORMA DE GARANTIR O FORNECIMENTO DE ENERGIA ELÉTRICA E ÁGUA POTÁVEL. INEXISTÊNCIA DE ATO ILÍCITO. CONDUTA ENQUADRADA NA SEARA DO EXERCÍCIO REGULAR DE DIREITO. RECURSO CONHECIDO E DESPROVIDO.
+Em suas razões de recurso especial, a insurgente alegou violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015; 186, 393 e 927 do Código Civil de 2002; e 14 da Lei n. 6.938/1981, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a ocorrência de negativa de prestação jurisdicional e a existência de nexo de causalidade entre a conduta da ora agravada e os danos sofridos.
+Foram apresentadas contrarrazões (e-STJ, fls. 551-567).
+O Tribunal de origem não admitiu o processamento do recurso especial, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Dispõe o art. 9º do Regimento Interno do Superior Tribunal de Justiça que a natureza da relação jurídica em litígio determina a competência entre as Seções desta Corte, e, no caso, está-se diante de competência da Primeira Seção, disciplinada no inciso VIII do § 1º do art. 9º do referido regimento interno.
+A propósito, confiram-se as seguintes decisões monocráticas: AREsp n. 1.144.245/SE, Ministro Og Fernandes, DJe de 24/10/2017, e AREsp n. 1.168.134/SE, Ministra Assusete Magalhães, DJe de 19/10/2017.
+Dessa forma, determino sejam os autos encaminhados para redistribuição a um dos Ministros integrantes das Turmas da Primeira Seção.
+Publique-se.
