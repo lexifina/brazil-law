@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por MARCONELY DA CRUZ ALVES contra decisão de fls. 301/303 (e-STJ), que não admitiu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, por sua vez, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fls. 240/241, e-STJ):
+APELAÇÃO CÍVEL, AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. PROCEDÊNCIA PARCIAL EM PRIMEIRO GRAU PARA RECONHECER A PRESCRIÇÃO DO DÉBITO E NEGAR A INDENIZAÇÃO PELO ABALO MORAL DECORRENTE DE NEGATIVAÇÃO INDEVIDA. RECURSO DE AMBAS AS PARTES. PRESCRIÇÃO. DÍVIDA ORIGINADA DE CONTRATO DE ABERTURA DE CONTA CORRENTE, REPACTUADA EM 2007 PARA PAGAMENTO EM 12 PARCELAS MENSAIS. TERMO INICIAL. VENCIMENTO DA ÚLTIMA PARCELA DA REPACTUAÇÃO, INDEPENDENTE DO VENCIMENTO ANTECIPADO. ALEGAÇÃO DE CONFISSÃO FICTA PELA REVELIA. INEXISTÊNCIA NO CASO CONCRETO. REVELIA QUE NÃO TRADUZ ACOLHIMENTO AUTOMÁTICO DA MATÉRIA DE FATO. PRESUNÇÃO RELATIVA. REPACTUAÇÃO E SUA DATA DEVIDAMENTE CITADAS NA PETIÇÃO INICIAL. INTERRUPÇÃO DA PRESCRIÇÃO PELO AFORAMENTO DE AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO PELO DEVEDOR. " ..  A propositura de demanda judicial pelo devedor, seja anulatória, seja de sustação de protesto, que importe em impugnação do débito contratual ou de cártula representativa do direito do credor, é causa interruptiva da prescrição. 4. A manifestação do credor, de forma defensiva, nas ações impugnativas promovidas pelo devedor, afasta a sua inércia no recebimento do crédito, a qual implicaria a prescrição da pretensão executiva; além de evidenciar que o devedor tinha inequívoca ciência do interesse do credor em receber aquilo que lhe é devido. 5. o art. 585, § 1º, do CPC deve ser interpretado em consonância com o art. 202, VI, do Código Civil. Logo, se admitida a interrupção da prescrição, em razão das ações promovidas pelo devedor, mesmo que se entenda que o credor não estava impedido de ajuizar a execução do título, ele não precisava fazê-lo antes do trânsito em julgado dessas ações, quando voltaria a correr o prazo prescricional" (STJ, REsp. n. 1.321.610/SP, Terceira Turma, rela. Mina. [NOME], j. em 21-2-2013).  .. . (TJSC, Apelação Cível n. 2016.019267-0, de Indaial, rel. Des. Janice Goulart [NOME], j. 05-05-2016). PRESCRIÇÃO NÃO IMPLEMENTADA REFORMA DA DECISÃO A QUO NESTE SENTIDO, PARA DESCONSTITUIR A PRESCRIÇÃO DO DÉBITO. NEGATIVAÇÃO QUE NÃO SE MOSTROU INDEVIDA. CONSIDERANDO QUE A DÍVIDA NÃO ESTAVA PRESCRITA. ABALO MORAL, NESTE SENTIDO, INEXISTENTE. ÔNUS SUCUMBENCIAL. CONDENAÇÃO DA PARTE AUTORA NO PAGAMENTO INTEGRAL. RECURSOS CONHECIDOS, DESPROVIDO DA PARTE AUTORA E PROVIDO O DA PARTE REQUERIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 254/258).
+Em suas razões recursais (e-STJ, fls. 261/273), o insurgente apontou, além de divergência jurisprudencial, a violação dos arts. 205, parágrafo 5º, do Código Civil; e 581, parágrafo único, do CPC/1973.
+Sustentou, em síntese, não ser possível atribuir-se à ação revisional de cláusulas contratuais o efeito de interromper o curso da prescrição da pretensão de cobrança da dívida decorrente deste mesmo contrato.
+Contrarrazões às fls. 287/299 (e-STJ).
+Em juízo de admissibilidade, negou-se seguimento ao reclamo. Daí o presente agravo, buscando destrancar o processamento daquela insurgência.
+Sem impugnação.
+É o relatório.
+Decido.
+A irresignação não tem como prosperar.
+1. De início, verifica-se que o conteúdo normativo do artigo 581 do CPC/1973, tido por violado, não foi objeto de exame pela instância ordinária, mesmo após o julgamento dos embargos de declaração.
+Ademais, nas razões do especial deixou o insurgente de apontar eventual violação do artigo 535 do CPC/73 (correspondente ao artigo 1.022 do CPC/2015), razão pela qual incide, na espécie, a Súmula nº 211 desta Corte, de seguinte teor: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+2. Relativamente ao artigo 205, "parágrafo 5º", do CC, verifica-se que o recorrente desenvolve sua argumentação defendendo não ser possível atribuir-se à ação revisional de cláusulas contratuais o efeito de interromper o curso da prescrição da pretensão de cobrança da dívida decorrente deste mesmo contrato.
+Leia-se, a propósito, o seguinte trecho das razões do recurso especial interposto pela recorrente, in verbis, (e-STJ, fl. 265):
+O Acórdão recorrido ao prolatar a decisão na qual afasta o reconhecimento da prescrição da dívida por entender que a propositura de ação revisional de débito teria efeitos de interrupção da prescrição para o credor que apresenta resposta processual é integralmente contrário ao comando normativo contido nos artigos 205 parágrafo 5º do Código Civil e parágrafo único do artigo 581 do Código de Processo Civil vigente a época da prolação da sentença de primeiro grau.
+DOS FUNDAMENTOS RECURSAIS QUANTO A AFRONTA À LEI FEDERAL - ARTIGO 205 PARÁGRAFO 5º DO CÓDIGO CIVIL
+A declaração do reconhecimento da interrupção da prescrição de forma reflexiva, ou seja, a prescrição teria sido interrompida por ter o devedor ter proposto a ação revisional de débito, não encontra respaldo na legislação e é tão somente um entendimento jurisprudencial deveras equivocado.
+As causas interruptivas da prescrição contida no artigo 202 do Código Civil não se aplicam ao caso em tela, no qual a instituição financeira sempre teve uma conduta passiva em relação ao débito.
+Deixou de ajuizar ação competente para sua execução ou cobrança sendo impedida de ser beneficiada pela discussão do débito por iniciativa do devedor.
+O entendimento proferido pelo Tribunal de Justiça do Estado de Santa Catarina afronta completamente o artigo 205 do Código Civil que é imperioso ao estipular em cinco anos o prazo de cobrança de dívidas fundadas em instrumento público ou particular.
+Ao deixar de propor ação neste sentido a instituição bancária permitiu a ocorrência da prescrição sabiamente reconhecida em primeira instância.
+A reversão do julgado em primeira instância para atribuir efeito de interrupção da prescrição a ação revisional proposta pelo Recorrente e desta forma beneficiar a instituição bancária com o afastamento da prescrição do débito é contrária ao referido artigo do Código Civil e se demonstra manifestamente injusta e ilícita.
+Ocorre que, no caso, o acórdão guerreado, com base no substrato fático-probatório dos autos, considerou não implementada a prescrição do débito, sob os seguintes fundamentos:
+Há inconsistência sobre as datas apontadas por autor e instituição financeira sobre a pactuação e as renegociações realizadas.
+Os contratos não foram juntados, apenas cópias do espelho das negociações retirada dos computadores da demandada, sob alegação de que a contratação das renegociações ocorreram de forma eletrônica.
+A parte autora sustenta na inicial que o débito foi originado em 20/02/2003 (fl. 02) e houve um parcelamento em 01/2007, quando realizou o pagamento de 6 parcelas do total de 12 parcelas acordadas.
+Muito embora tenha alegado no recurso a existência desta repactuação do débito, este fato fica cristalino na exordial:
+Ao deixar de promover o pagamento do mútuo denominado cheque especial o autor ficou em débito no valor equivalente a R$ 1.500.00 (hum mil e quinhentos reais) na data de 20/02/2003.
+Após sucessivas tentativas de negociação as partes promoveram o parcelamento do débito no mês de janeiro de 2007.
+Este parcelamento do débito que não importou em novação da divida permitiu ao autor que promovesse a redução do débito mediante a quitação de seis parcelas das 12 que foram negociadas.
+É incontroverso, portanto, que houve o parcelamento do valor devido no ano de 2007 e confissão pela parte autora de que houve convenção para o pagamento da divida renegociada em 12 parcelas.
+O inadimplemento deste parcelamento gerou a anotação do nome da parte autora em cadastro de restrição ao crédito em 05/12/2007.
+Portanto, não há como reconhecer o termo inicial da prescrição em 20/02/2003, uma vez que houve pelo menos uma repactuação, onde a parte teve o parcelamento em 12 vezes e alega ter quitado 6 parcelas.
+Como a renegociação se trata de contrato bancário de trato sucessivo, o termo inicial da prescrição é o vencimento da última parcela, ainda que tenha havido o vencimento antecipado diante do inadimplemento.
+(..)
+No caso concreto, a repactuação ocorreu em 01/2007, segundo confessado pela autora, em 12 parcelas mensais e sucessivas, razão pela qual a última parcela venceria em 01/2008, termo inicial da prescrição.
+Muito embora a parte autora alegue que a questão está fulminada pela presunção de verdade dos fatos diante da confissão fícta provocada pela revelia do requerido, tal presunção é apenas relativa.
+(..)
+Portanto, o prazo prescricional é de cinco anos, nos termos do artigo 206, § 5º, I, do Código Civil e, considerando o inicio do prazo em 01/2008,o prazo prescricional somente se implementaria em 01/2013.
+Há de se mencionar ainda que a presente ação de inexistência de débito interrompeu o prazo prescricional em 20/07/2012, o qual somente iniciará com o trânsito em julgado da presente demanda, a qual tem como objeto a impugnação do crédito existente em favor da instituição bancária.
+(..)
+Portanto, não se implementou a prescrição do débito.
+Dessa forma, constata-se que as razões de recurso especial estão dissociadas do conteúdo abordado no v. acórdão recorrido, não tendo o dispositivo apontado como violado teor normativo capaz de alterar a fundamentação lançada no acórdão recorrido, o que torna patente a falha de fundamentação do apelo especial, circunstância que atrai, por analogia, o disposto nas Súmulas 283 e 284 do Supremo Tribunal Federal. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RAZÕES DISSOCIADAS DO RECURSO ESPECIAL EM RELAÇÃO AO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ, 282/STF E 356/STF. PREQUESTIONAMENTO FICTO ADMITIDO PELO ART. 1.025 DO CPC/2015. NECESSIDADE DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. ADEQUAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1132325/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 12/12/2017, DJe 02/02/2018 - grifos nossos)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CÓDIGO DE PROCESSO CIVIL. INOCORRÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. CONTRIBUIÇÕES DESTINADAS ÀS ENTIDADES DO SISTEMA "S". LEGITIMIDADE PARA COBRANÇA. SÚMULA N. 83/STJ. CERCEAMENTO DE DEFESA. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+DESCABIMENTO.
+I - (..)
+III - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem.
+Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+(..)
+IX - Agravo Interno improvido.
+(AgInt no REsp 1693576/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 12/12/2017, DJe 15/12/2017 - grifos nossos)
+3. Do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/2015, majoro em 1% (um por cento) o valor dos honorários advocatícios arbitrados na origem (e-STJ, fls. 176 e 248).
+Publique-se. Intimem-se.
