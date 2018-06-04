@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE EXECUÇÃO DE HONORÁRIOS. RECONSIDERAÇÃO. MATÉRIA QUE MERECE MELHOR ANÁLISE E REFLEXÃO. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. DETERMINADA SUA AUTUAÇÃO COMO RECURSO ESPECIAL.
+DECISÃO
+Da leitura da minuta de agravo de instrumento, extrai-se que MALULY JR ADVOGADOS (MALULY) propôs ação de execução de honorários contra BRASIMET COMÉRCIO E INDÚSTRIA S.A (BRASIMET).
+O juízo de piso concluiu que a BRASIMET depositou nos autos o valor integral da dívida, decisão contra a qual foi interposto agravo de instrumento por MALULY.
+O Tribunal de origem deu parcial provimento ao agravo de instrumento com o fim de determinar o prosseguimento da execução apenas em relação aos honorários advocatícios sucumbenciais referentes à impugnação ao cumprimento de sentença devidos, em acórdão assim ementado:
+EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS - SUPERVENIÊNCIA DE JULGAMENTO PELO C. STJ - DISCUSSÃO QUANTO AO VALOR DO DÉBITO REMANESCENTE. Existência de v. acórdão proferido por esta C. Câmara, em julgamento de agravo interposto contra a r. decisão que julgou improcedente a impugnação ao cumprimento de sentença, que havia extinto o processo, sem resolução do mérito, por falta de interesse de agir do Exequente, afastando todas as condenações impostas à Executada - superveniência de v. acórdão lavrado pelo C. STJ que reconheceu a intempestividade da impugnação, reformando a r. Decisão interlocutória anterior que havia a recebido - prejudicialidade de todos os atos posteriores ao recebimento da impugnação pela magistrada "a quo", incluindo o v. acórdão lavrado por esta C. Câmara, uma vez conflitantes ao posicionamento sedimentado pelo v. acórdão do C. STJ - decorrência lógica do efeito substitutivo recursal - inexigibilidade da multa prevista no art. 475-J do CPC - ausência de intimação da Executada, nos termos exigidos pelo referido dispositivo legal - honorários advocatícios sucumbenciais referentes à impugnação ao cumprimento de sentença devidos, consoante o dispositivo do v. acórdão do C. STJ - fixação equitativa pela magistrada "a quo" que deverá observar as peculiaridades do caso, mormente o longo trâmite processual da impugnação - reforma parcial da r. decisão agravada. RECURSO DO EXEQUENTE PARCIALMENTE PROVIDO (e-STJ, fl. 715/716).
+Os Embargos de Declaração foram rejeitados (e-STJ, fls. 739/753).
+Inconformada, BRASIMET interpôs, então recurso especial, com fundamento nas alíneas a e c do permissivo constitucional, no qual alegou ofensa aos arts. do art. 21, 182 e 512, do CPC/73, além de dissídio jurisprudencial. Sustenta que a sucumbência deveria ter sido arbitrada de forma recíproca. Aduz ser indevida a determinação para majoração do valor dos honorários já pagos.
+Contrarrazões do apelo nobre (e-STJ, fls. 802/812).
+O recurso especial não foi admitido na origem (e-STJ, fls. 825/827).
+Dessa decisão, foi interposto agravo em recurso especial, que não foi provido, em monocrática da e. Ministra NANCY ANDRIGHI, em virtude da incidência da Súmula nº 7 do STJ e ausência de comprovação do dissídio jurisprudencial (e-STJ, fls. 930/932).
+BRASIMET manejou agravo interno insistindo na violação dos arts. 21, 182 e 512, do CPC/73, pois indevida a majoração do valor dos honorários já pagos.
+É o relatório.
+DECIDO.
+Merece prosperar a presente irresignação.
+De plano, vale pontuar que as disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Para melhor exame da controvérsia suscitada, convém dar provimento ao agravo interno de BRASIMET para autuar o agravo como recurso especial.
+Nessas condições, CONHEÇO do agravo para determinar sua AUTUAÇÃO COMO RECURSO ESPECIAL (art. 253, II, d, do Regimento Interno do STJ).
+Publique-se. Intimem-se.
