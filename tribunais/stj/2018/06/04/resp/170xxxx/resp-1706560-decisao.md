@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, contra acórdão do TJDFT assim ementado (e-STJ fl. 211):
+IMÓVEL. ATRASO NA OBRA. CULPA DA CONSTRUTORA. MORA CONFIGURADA. LUCROS CESSANTES. CESSÃO DE DIREITOS. ILEGITIMIDADE DO CEDENTE. RECURSO PROVIDO. O contrato de promessa de compra e venda celebrado entre as partes, estabelece uma relação de consumo, de forma que o pacto travado sofre a incidência das normas protetivas do consumidor, de ordem pública e interesse social. Sendo fato incontroverso nos autos que há mora da construtora na entrega do imóvel, são devidos lucros cessantes, pois o adquirente não pôde usufruir, tampouco alugar o imóvel, devido à inexecução contratual por culpa exclusiva da parte ré. Ocorre que a parte autora cedeu seus direitos sobre o imóvel em data anterior à mora, nesse sentido, os cessionários é que devem perseguir a referida indenização.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 247/255).
+Nas razões apresentadas (e-STJ fls. 262/280), a recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 20, §§ 3º e 4º e 85, §§ 2º e 11, do CPC/2015, insurgindo-se contra a fixação dos honorários de sucumbência em R$ 500,00 (quinhentos reais).
+Acrescenta que o arbitramento da verba honorária em tal patamar não remuneraria o trabalho dos seus patronos de forma justa, em virtude da complexidade da causa, devendo ser arbitrada, no mínimo, no percentual de 1% (um por cento) do valor atualizado da demanda.
+Requer a fixação de honorários recursais entre 10% (dez por cento) e 20% (vinte por cento) do valor da causa, uma vez que a quantia de R$ 100,00 (cem reais) seria irrisória.
+Não foram ofertadas contrarrazões (e-STJ fl. 336).
+O recurso foi admitido na origem (e-STJ fls. 337/338).
+É o relatório.
+Decido.
+Esta Corte pacificou o entendimento segundo o qual, em regra, o reexame do valor dos honorários advocatícios arbitrados pelo Tribunal de origem encontra óbice na Súmula n. 7/STJ, pois demanda o revolvimento do contexto fático-probatório dos autos.
+Apenas em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a quantia fixada, é possível afastar o referido óbice para a revisão do valor.
+Os precedentes deste Tribunal Superior têm considerado irrisórios os honorários advocatícios fixados com base no § 4º do art. 20 do CPC/1973 (CPC/2015, art. 85, § 8º) em quantia inferior a 1% (um por cento) do valor da causa principal. Confiram-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM QUANTIA INFERIOR A 1% (UM POR CENTO) DO VALOR DA CAUSA. DECISÃO MONOCRÁTICA QUE RECONHECEU A INSUFICIÊNCIA DO QUANTUM FIXADO, PROCEDENDO A SUA MAJORAÇÃO.
+1. Hipótese em que a verba honorária, baseada no artigo 20, § 4º, do CPC, restou fixada em patamar inferior a 1% do valor da causa, afigurando-se, no caso dos autos, insuficiente a remunerar condignamente o causídico.
+(..)
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.226.683/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 8/10/2013, DJe 25/10/2013.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA. OFENSA AOS ARTS. 20, §§ 3º E 4º, E 125, I, DO CPC. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EM VALOR IRRISÓRIO. NECESSIDADE DE MAJORAÇÃO RECONHECIDA.
+(..)
+- A jurisprudência do STJ firmou-se no sentido de que o montante fixado pelas instâncias ordinárias a título de honorários advocatícios somente pode ser alterado se patente seu exagero ou quando fixado de forma irrisória, sob pena de incidência da Súmula 7/STJ.
+- Igualmente, encontra-se pacificado nesta Corte o entendimento de que, nas causas onde não há condenação, os honorários advocatícios devem ser fixados com base nos parâmetros do art. 20, § 4º, do CPC, consoante apreciação equitativa do Juiz.
+(..)
+- A jurisprudência do STJ tem considerado irrisórios honorários fixados em patamar inferior a 1% sobre o valor da causa. A fixação de honorários em R$ 100.000,00, numa execução de 26.833.608,91, portanto, comporta revisão.
+- A revisão dos honorários deve se basear nos seguintes parâmetros, previstos no § 3º do art. 20 do CPC: a) o grau de zelo do profissional; b) o lugar de prestação do serviço; c) a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Recurso especial provido para fixar os honorários devidos aos advogados da recorrente em R$ 1.500.000,00 (um milhão e quinhentos mil de reais).
+(REsp n. 1.042.946/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 1º/12/2009, DJe 18/12/2009.)
+Por sua vez, a Corte local fixou a verba honorária devida aos patronos da recorrente em R$ 500,00 (quinhentos reais), nos seguintes termos (e-STJ fls. 222/223):
+Consigno que, quanto ao regramento dos honorários advocatícios, aplicam-se ainda ao presente feito, ajuizado antes de 18/03/2016, as disposições Código de Processo Civil de 1973, nos termos já manifestados por esta Turma nos acórdãos nº s 977517, 977829, 981577, 977829, dentre outros.
+Por fim, cumpre observar que, conforme previsto no artigo 85, § 11, do Código de Processo Civil, deverão ser fixados, nesta fase processual, os honorários de sucumbência recursais, diversos daqueles estabelecidos em primeiro grau de jurisdição, que com eles serão acumulados, devido ao trabalho adicional realizado em segundo grau de jurisdição, observando-se os limites estabelecidos nos §§2º e 3º do mesmo dispositivo legal.
+Ante o exposto, conheço do recurso e a ele DOU PROVIMENTO, para afastar a condenação da ré ao pagamento de indenização por lucros cessantes à autora. Diante da improcedência total da demanda, condeno a parte autora nas custas e honorários advocatícios, os quais fixo em R$ 500,00 (quinhentos reais), conforme artigo 20, §4º, do Código de Processo Civil de 1973, norma aplicável ao caso. Nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, fixo, de ofício, honorários recursais no valor de R$100,00 (cem reais) em favor do patrono da apelante.
+No caso concreto, de fato, não há como se afastar do entendimento de que o valor de R$ 500,00 (quinhentos reais), a título de honorários advocatícios, mantido pelo Tribunal a quo, apresenta-se irrisório, uma vez que o valor da causa totaliza R$ 61.307,98 (sessenta e um mil, trezentos e sete reais e noventa e oito centavos) (e-STJ fl. 16).
+Nessas circunstâncias, deve-se aplicar a excepcionalidade prevista na jurisprudência deste Tribunal, ao admitir a possibilidade de afastar-se a incidência da Súmula n. 7 do STJ, constatado ser irrisória a condenação arbitrada (equivalente a aproximadamente 0,81% do valor da causa), não remunerando, de forma digna, o trabalho desenvolvido pelo profissional habilitado no ramo do direito.
+Portanto, na excepcionalidade, diante do valor da causa e observados os critérios previstos nas alíneas do § 3º do art. 20 do CPC/1973 (CPC/2015, art. 85, § 2º) e considerando o princípio da justa remuneração do trabalho profissional, a verba honorária deve ser elevada para 10% (dez por cento) do valor atualizado da causa.
+Por fim, não merece reparos a decisão que majorou em 20% o valor arbitrado a título de honorários advocatícios -, nos estritos limites do art. 85, § 11, do CPC/2015, levando em conta o trabalho adicional realizado em grau recursal, bem como os requisitos previstos nos incisos I a IV do § 2º do mesmo dispositivo (e-STJ fl. 223).
+Ante o exposto, CONHEÇO e DOU PARCIAL PROVIMENTO ao recurso especial, a fim de fixar a verba honorária em 10% (dez por cento) do valor atualizado da causa.
+Publique-se e intimem-se.
