@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por ÉVORA COMERCIAL DE GÊNEROS ALIMENTÍCIOS LTDA., fundado na alínea "a" do permissivo constitucional, contra acórdão assim ementado (e-STJ fl. 463):
+Embargos à execução fiscal. Sentença. Acolhimento parcial. Inconformismo, recursos.
+Apelação Cível da Fazenda Pública do Estado do Paraná. Carência de ação. Inexistência. Ônus de sucumbência. Art. 21 do CPC. Incidência. Redução de honorários advocatícios. Descabimento. Súmula 306, do STJ. Aplicação. Recurso parcialmente provido.
+Apelação Cível de Évora Comercial de Gêneros Alimentícios Ltda. Incerteza e inexigibilidade dos títulos exequendos. Alegação afastada. Crédito tributário em execução extinto diante de compensação. Inaplicabilidade do art. 16 da LEF. Questões despiciendas diante da EC 62/09. Afastamento da taxa SELIC como índice de correção monetária. Não acolhimento da tese. Enunciado 12 das Câmaras de Direito Tributário do TJPR e precedentes ao STJ. Recurso desprovido.
+Questão incidente. Crédito tributário já baixado administrativamente. Extinção de ofício ex vi do contido no art. 515, § 1º, do CPC. Prosseguimento da Ação de Execução Fiscal quanto às demais CDAs.
+Apelação Cível da Fazenda Pública do Estado do Paraná parcialmente provida.
+Apelação Cível  de  Évora Comercial de Gêneros Alimentícios Ltda. desprovida.
+Rejeitados os aclaratórios (e-STJ fls. 502/508).
+Nas suas razões (e-STJ fls. 514/576), o recorrente aponta violação dos arts. 535, 586 e 618, I, do CPC e 151, III, do CTN. Sustenta, em resumo, que: (a) o acórdão recorrido é nulo, porquanto não sanou os vícios de integração suscitados nos embargos de declaração; (b) o pedido de compensação de débito tributário com crédito de precatório suspende a exigibilidade do crédito tributário e, no caso, por ser anterior à execução fiscal, impõe a extinção desse feito; e (c) à época do protocolo do pedido administrativo, havia decreto "autorizando expressamente a quitação de débito de ICMS com a utilização de precatório com poder liberatório do pagamento de tributos, nos termos do artigo 78, § 2º do ADCT (Decreto Estadual nº 5154/2000)", não podendo esse direito sofer restrição em razão da inovação normativa advinda com a Emenda Constitucional n. 62/2009, que reputa inconstitucional.
+Contrarrazões às e-STJ fls. 648/657.
+Depois de processado o apelo nobre, a Corte a quo, em sede de juízo de conformação, manteve o acórdão da apelação (e-STJ fls. 689/694).
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Isso considerado, registro que o acolhimento de recurso especial por violação do art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+Com efeito, o acórdão recorrido afastou a alegação de que o pedido de compensação com precatório vencido e não pago elaborado antes do ajuizamento da execução fiscal teria suspendido a exigibilidade do crédito ao fundamento de que não há permissivo legal autorizando o encontro de contas. Veja-se:
+Ainda, efetivamente as compensações já deferidas na seara administrativa estão convalidadas. Porém, não há que se falar nesta hipótese para àquelas que ainda pendiam de análise.
+Isso porque, como já dito no Acórdão, a EC nº 62/09 tem aplicação de imediato, cf. recente decisão do STJ:
+ ..
+O Estado do Paraná, diante do disposto no § 12 do artigo 97 do ADCT emitiu o Decreto nº 6.335 de 23 de fevereiro de 2010, optando pelo sistema previsto no inciso 1º, do § 1º, e 97 do ADCT.
+Demais, os pedidos pendentes, mesmo àqueles deduzidos no âmbito de processo judiciais, em razão da imediata incidência da EC nº 62/09, não mais podem ser objeto de processamento, porquanto o ente público somente poderá, de agora em diante, efetuar pagamentos na forma preconiza pela citada EC, não mais subsistindo qualquer outra hipótese de compensação, sequestro ou parcelamento.
+Afasto, pois, a alegada violação do art. 535 do CPC/1973.
+Quanto ao juízo de reforma, melhor sorte não socorre ao recorrente.
+Com efeito, o acórdão recorrido está em sintonia com a jurisprudência do Superior Tribunal de Justiça, segundo a qual a apresentação de pedido administrativo não amparado por lei especifica que autorize a pretendida compensação de débitos tributários com créditos de precatórios não é apta à suspensão da exigibilidade do crédito tributário.
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PEDIDO ADMINISTRATIVO DE COMPENSAÇÃO COM PRECATÓRIO. AUSÊNCIA DE PREVISÃO LEGAL. SUSPENSÃO DE EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. IMPOSSIBILIDADE.
+1. Esta Corte Superior perfilha o entendimento no sentido da impossibilidade de suspensão da exigibilidade do crédito tributário pela inexistência de lei autorizativa da compensação de débitos tributários com crédito de precatório. Precedente recente: AgRg no REsp 1.477.896/RS, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 3/3/2015, DJe 9/3/2015.
+2. Agravo regimental a que se nega provimento (AgRg no REsp 1450406/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 09/04/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 535, II DO CPC: ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. TRIBUTÁRIO. ICMS. O PEDIDO ADMINISTRATIVO DE COMPENSAÇÃO FUNDADO EM PRECATÓRIOS NÃO É APTO PARA A SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO, TENDO EM VISTA A IMPOSSIBILIDADE DE COMPENSAÇÃO, NO CASO, ANTE A INEXISTÊNCIA DE LEI QUE AUTORIZE A OPERAÇÃO, BEM COMO POR NÃO COMPREENDER-SE NA NORMA DO ART. 151, III DO CTN. PRECEDENTE. RESSALVA DO PONTO DE VISTA DO RELATOR. ARTS. 286 E 368 DO CCB, E ART. 156 DO CTN: INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Esta Corte já reconheceu em outras oportunidades a inexistência de lei autorizativa, no Estado do Rio Grande do Sul, que permita a compensação pretendida. Nesse sentido: AgRg no AREsp 125.196/RS, Rel. Min. HERMAN BENJAMIN, DJe 15.02.2013. Ora, se a própria compensação não é possível, tampouco a suspensão da exigibilidade amparada em pedido administrativo que busque implementá-la.
+4. De acordo com precedente da 1a. Turma desta Corte, o requerimento avulso que, reconhecendo embora o crédito tributário, pretenda compensá-lo com outros créditos oponíveis à Fazenda Pública é processado sem efeito suspensivo, porque inalcançável pela norma do art. 151, III do Código Tributário Nacional. Veja-se: AgRg no AgRg na MC 19.349/RJ, Rel. Min. ARI PARGENDLER, DJe 13.03.2013.
+Ressalva do ponto de vista do Relator.
+ ..  (AgRg no AREsp 68.600/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 16/12/2014, DJe 19/12/2014).
+No mesmo sentido: AgRg no AREsp 108.853/RS, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Primeira Turma, DJe 10/11/2015; AgRg no REsp 1.477.896/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 09/03/2015.
+Incide, pois, a Súmula 83 do STJ.
+Cumpre ainda salientar a conclusão do acórdão recorrido acerca da ausência de autorização legal para a aludida compensação foi respaldada em fundamento eminentemente constitucional, referente aos efeitos operados pela EC n. 62/2009, cuja revisão é inviável na via do recurso especial.
+Por fim, cumpre salientar que, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 09/03/2016), o que não é o caso dos autos.
+Ante o exposto, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO (art. 255, § 4º, I e II, do RISTJ).
+Publique-se.
+Intimem-se.
