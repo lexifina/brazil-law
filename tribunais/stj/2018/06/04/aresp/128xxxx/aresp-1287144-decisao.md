@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo manejado pela Oi S.A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 244):
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. MULTA ADMINISTRATIVA APLICADA PELO PROCON. PRETENSÃO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO AOS EMBARGOS OPOSTOS. DECISÃO AGRAVADA QUE RECEBEU OS EMBARGOS SEM ATRIBUIÇÃO DO EFEITO SUSPENSIVO. A OPOSIÇÃO DOS EMBARGOS DO EXECUTADO NÃO ACARRETA A SUSPENSÃO AUTOMÁTICA DA EXECUÇÃO. ARTIGO 739-A DO CPC. POSSIBILIDADE DE SER ATRIBUÍDO PELO JUIZ, DESDE QUE, A REQUERIMENTO DO EMBARGANTE, HAJA RELEVÂNCIA DA FUNDAMENTAÇÃO, RISCO DE GRAVE DANO DE DIFÍCIL REPARAÇÃO OU INCERTA REPARAÇÃO, APÔS A GARANTIA DA EXECUÇÃO. RECORRENTE NÃO PREENCHEU TAIS REQUISITOS. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 919, §1º do CPC/15. Para tanto, sustenta, em síntese, que "todos os requisitos atinentes à concessão do beneplácito (efeito suspensivo) foram preenchidos no caso concreto" - (fl. 261).
+É o relatório.
+Inicialmente, verifico que o Tribunal de origem, tendo por base as peculiaridades do caso concreto, manteve o indeferimento da concessão de efeito suspensivo aos embargos à execução, por compreender pela insuficiência dos elementos necessários para a sua autorização, conforme se infere do trecho a seguir (fl. 249):
+No caso, ainda que a empresa tenha garantido o juízo, não se vislumbra a presença de prova inequívoca da verossimilhança do direito defendido pelo recorrente, eis que a decisão que indeferiu o efeito suspensivo aos embargos foi tomada com fundamento nas exigências previstas no artigo 739-A, § 1o do CPC.
+Também não merece ser acolhida a tese arguida pelo Agravante de que o título executivo seria nulo, eis que o próprio Executado ao requerer na execução fiscal originária a quitação integral do débito e a extinção do feito reconheceu a exigibilidade e regularidade do título, sendo que tal valor inclusive já foi levantado pelo Município de Maringá".
+Além disso, o fato de ter sido realizada penhora sobre os valores devidos a títulos de honorários advocatícios e custas processuais não acarreta em extrapolação da quantia executada, pois essas verbas são próprias da demanda executiva, circunstância que afasta a alegação de que haveria excesso de execução.
+Desta forma, depreende-se que a alteração das conclusões adotadas pela Corte de origem para verificar a presença dos requisitos ensejadores da concessão de efeito suspensivo aos embargos executivos, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Em reforço:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. PRESENÇA DOS REQUISITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+III - In casu, rever o entendimento do Tribunal de origem, que consignou não estarem presentes os pressupostos necessários para atribuição do efeito suspensivo aos embargos à execução, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+(..)
+(AgInt no REsp 1705211/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/03/2018, DJe 10/04/2018)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. EFEITO SUSPENSIVO. ANÁLISE SOBRE A EXISTÊNCIA DOS REQUISITOS DO ART. 739-A DO CPC/1973. NECESSIDADE DE REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Esta Corte Superior firmou compreensão de que o art. 739-A do CPC/1973 se aplica às execuções fiscais, pelo que a atribuição de efeito suspensivo aos embargos do devedor está condicionada ao cumprimento dos três requisitos legais: apresentação de garantia;
+verificação pelo juiz da relevância da fundamentação; e perigo de dano irreparável ou de difícil reparação.
+2. Hipótese em que o Tribunal de origem consignou, expressamente, que os requisitos do art. 739-A do CPC/1973 não foram preenchidos.
+Para afastar essa afirmação, de modo a albergar as peculiaridades do caso e verificar a possível existência dos referidos requisitos, como sustentado neste apelo extremo, necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. O óbice estampado na Súmula 7 do STJ impede igualmente a análise do apelo nobre com base na alínea "c" do permissivo constitucional.
+Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp 639.353/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 12/12/2017, DJe 02/03/2018)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
