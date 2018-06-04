@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado com esteio no art. 105, inciso I, alínea d, da Constituição Federal, entre o Juízo de Direito de Palmeira das Missões, Rio Grande do Sul - suscitante, e o Juízo de Direito da 3ª Vara Criminal de Blumenau, Santa Catarina - suscitado.
+De acordo com os autos, [NOME] cumpria pena no Presídio de Blumenau, Santa Catarina, de onde teria fugido, sendo preso em flagrante, posteriormente, no município de Palmeira das Missões, no Rio Grande do Sul, pela suposta prática de um crime de roubo.
+A Terceira Vara Criminal de Blumenau, Santa Catarina, declinou da competência para apreciar pedido de homologação de remições e progressão para o regime semiaberto com autorização de saída temporária. O magistrado aduziu que, uma vez que o apenado está recolhido preventivamente em outra comarca, esta é a competente para apreciar pedidos inerentes à execução penal.
+O Juízo suscitante argumenta que o apenado não possui qualquer vínculo no município gaúcho, estando recolhido no Presídio de Palmeira das Missões em razão do decreto de prisão preventiva e, tão logo encerrada a instrução criminal, deverá retornar à comarca de origem.
+Nessa instância, o Ministério Público Federal manifestou-se pelo conhecimento do conflito e pela declaração de competência do Juízo suscitado (e-STJ, fls. 301-304).
+É o relatório.
+O conflito merece ser conhecido, uma vez que os Juízos que suscitam a incompetência estão vinculados a Tribunais diversos, sujeitando-se, portanto, à jurisdição desta Corte, a teor do disposto no art. 105, inciso I, alínea "d", da Constituição Federal.
+Sobre o tema, a jurisprudência nesta Corte Superior é consolidada no sentido de que, havendo alteração do domicílio, a competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado somente a supervisão e acompanhamento do cumprimento da pena determinada, inexistindo deslocamento de competência.
+Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS CRIMINAIS ESTADUAIS: EXECUÇÃO DE PENA. PRISÃO PREVENTIVA EM OUTRA COMARCA. AUSÊNCIA DE TRANSFERÊNCIA LEGAL - ART. 86 DA LEP. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO DO LOCAL EM QUE FOI PROFERIDA A SENTENÇA CONDENATÓRIA DEFINITIVA.
+1. O simples fato de o condenado estar preso em Comarca diversa daquela competente para a execução da sentença, em cumprimento de mandado de prisão preventiva expedido por um terceiro Juízo, não constitui causa legal de deslocamento da competência originária para a execução da pena. Precedentes.
+2. Conflito conhecido, para declarar a competência do Juízo de Direito da Comarca de Rio Meleiro/SC, o suscitado, para a execução da pena do condenado (CC 148.926/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, DJe 27/10/2016).
+PROCESSO PENAL. CONFLITO DE COMPETÊNCIA. CONDENAÇÃO A PENA PRIVATIVA DE LIBERDADE. PROGRESSÃO AO REGIME SEMIABERTO. TRANSFERÊNCIA. DOMICÍLIO DO REEDUCANDO. NECESSIDADE DE PRÉVIA CONSULTA. COMPETÊNCIA PARA EXECUÇÃO E FISCALIZAÇÃO DA PENA: JUÍZO ORIGINÁRIO DA EXECUÇÃO PENAL.
+1. A competência para a execução da pena não se confunde com a fiscalização do seu cumprimento que, em algumas situações, é deprecada em razão da transferência do reeducando ao local de seu domicílio ou do domicílio de sua família.
+2. A jurisprudência desta Corte entende que a transferência de preso para local próximo de sua família, onde possa obter resultados mais favoráveis no processo de ressocialização, depende de consulta prévia ao juízo de destino.
+3. Inexistindo vaga, na localidade de domicílio do reeducando, no regime em que se encontra em cumprimento de pena, tanto a execução quanto a fiscalização da reprimenda devem ser mantidas com o Juízo originário da Execução.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da Vara de Execuções Penais e Corregedoria dos Presídios de Foz do Iguaçu/PR, suscitado. (CC 148.441/DF, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 17/08/2017).
+Ante o exposto e tendo em conta que o entendimento a respeito do tema já é pacificado nesta Corte, conheço do conflito negativo de competência, para dar por competente o Juízo de Direito da 3ª Vara Criminal de Blumenau, Santa Catarina - suscitado.
+Dê-se ciência aos Juízes em conflito.
+Publique-se. Intimem-se.
