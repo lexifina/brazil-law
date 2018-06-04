@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e Cia Ltda. contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+CIVIL. CONSUMIDOR. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. PRELIMINAR DE ILEGITIMIDADE ATIVA. ALEGAÇÃO DE DECADÊNCIA NÃO ACOLHIDAS PELO JUÍZO A QUO. TEORIA DA ASSERÇÃO. INADIMPLEMENTO CONTRATUAL. PUBLICIDADE ENGANOSA. APURAÇÃO DE RESPONSABILIDADE DECORRENTE DESSE FATO. TEORIA DO DIÁLOGO DAS FONTES. PRAZO PRESCRICIONAL DE 10 ANOS. RECURSO DESPROVIDO. DECISÃO MANTIDA.
+1 - A aferição da legitimidade das partes define-se da narrativa formulada inicial e não da análise do mérito da demanda, tendo
+em vista ter-se adotado a teoria da asserção.
+2 - Na inicial todos os agravados afirmaram ter sido vítima de propaganda enganosa perpetrada pelos agravantes com, relação a um dos portões do edifício, o que teria causado danos materiais e morais a eles. Tal afirmação já basta, segundo a teoria da asserção, para que os agravados sejam considerados partes legítimas ativas para o feito em discussão, haja vista que a alegação acima narrada já traria a pertinência subjetiva daqueles com a questão posta em discussão.
+3 - A questão discutida nos autos diz respeito ao eventual inadimplemento contratual e as responsabilidades daí decorrentes, consubstanciado na não observância da oferta" publicitária apresentada pelo fornecedor, a qual integra o contrato firmado e torna cogente o cumprimento do ali contido. Assim, em razão do diálogo das fontes, deve-se aplicar o Código Civil neste particular, notadamente o artigo 205 que traz o prazo prescricional de 10 (dez) anos, em virtude de não haver no micro sistema consumerista regra jurídica que discipline a questão ora discutida. Precedente do STJ.
+4 - Recurso conhecido e desprovido.
+Nas razões de recurso especial, as agravantes alegam violação dos arts. 489, § 1º, II e VI, e 1.022, I e II, do Código de Processo Civil de 2015; 18 e 26, II, do Código de Defesa do Consumidor.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Rejeito, portanto, a alegação de violação dos arts. 489 e 1.022 do CPC.
+Quanto ao mais, o recurso não dispensa o reexame de prova. Os fatos que autorizam o entendimento de que não houve decadência estão assim descritos:
+Por outro lado, também não prospera a alegação de decadência, vez que no caso em apreço, não se trata de fato do produto ou do serviço, assim como de vício do produto ou do serviço, de modo que não há que falar no prazo decadencial previsto no artigo 26, tampouco do prazo decadência inscrito no artigo 27, ambos do Código de Defesa do Consumidor.
+A questão discutida nos autos diz respeito ao eventual inadimplemento contratual, consubstanciado na não observância da oferta publicitária apresentada pelo fornecedor, a qual integra o contrato firmado e torna cogente o cumprimento do ali contido.
+Assim, em razão do diálogo das fontes, deve-se aplicar o Código Civil neste particular, notadamente o artigo 205 que traz o prazo prescricional de 10 (dez) anos, em virtude de não haver no micro sistema consumerista regra jurídica que discipline a questão ora discutida.
+Afastar a conclusão de que, no caso, não se trata de fato do produto ou do serviço é inviável em recurso especial, dado o disposto na Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
