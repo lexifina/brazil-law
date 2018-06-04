@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por SINDICATO RURAL DE DIAMANTINO, fundamentado na alínea "a" do permissivo constitucional, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado (fl. 723):
+APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA PROPOSTA POR SINDICATO RURAL - PRETENSÃO DE CÉDULAS [NOME] PELOS SINDICALIZADOS EM FAVOR DE INSTITUIÇÃO FINANCEIRA - AQUISIÇÃO DE INSUMOS AGRÍCOLAS - PRODUTORES QUE NÃO SE CARACTERIZAM COMO DESTINATÁRIOS FINAIS DOS INSUMOS - AUSÊNCIA DE RELAÇÃO DE CONSUMO - DIREITO INDIVIDUAL HETEROGÊNEO - ILEGITIMIDADE ATIVA DO SINDICATO RECONHECIDA - FALTA DE INTERESSE DE AGIR POR INADEQUAÇÃO DA VIA ELEITA - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO - SENTENÇA MANTIDA - RECURSO DESPROVIDO. O sindicato não tem legitimidade para, via ação civil pública, propor a revisão de contratos de seus filiados, uma vez que incabível a análise de direitos e interesses individuais heterogêneos por mecanismo de tutela jurisdicional coletiva, devendo estes ser analisados individualmente em ação de conhecimento (TJMT - 1ª Câmara Cível - RAC 49065/2013 - Rel. Des. Adilson Polegato de Freitas - n. 26/08/2014, Publicado no DJE 01/09/2014.
+Em suas razões recursais (fls. 733/754), o recorrente aponta ofensa ao art. 81 da Lei n. 8.078/90.
+Sustenta, em síntese, que o sindicato possui legitimidade e interesse de agir para ajuizar ação coletiva em defesa dos interesses individuais homogêneos dos seus sindicalizados.
+Contrarrazões às fls. 760/772.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+1. Conforme já reconhecido por esta Corte Superior, os sindicatos possuem legitimidade e interesse de agir para ajuizar ação coletiva em defesa dos interesses individuais homogêneos de seus sindicalizados.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. 1. CONHECIMENTO DO RECURSO ESPECIAL. PREENCHIMENTO DOS PRESSUPOSTOS. PRESCINDIBILIDADE DE ANÁLISE DO CONTRATO E DAS PROVAS. 2. SINDICATO. CÉDULAS DE CRÉDITO RURAL. DIREITOS INDIVIDUAIS HOMOGÊNEOS. LEGITIMIDADE ATIVA. RECONHECIMENTO. 3. AGRAVO DESPROVIDO.
+1. O recurso especial preencheu todos os pressupostos para o seu conhecimento, sendo prescindível a interpretação de cláusulas contratuais ou o reexame de provas, pois as questões foram decididas com base no quadro fático delineado pelo acórdão recorrido.
+2. O sindicato possui legitimidade para ajuizar ação civil pública, baseada em direitos individuais homogêneos, a fim de discutir a legalidade e abusividade de cláusulas contratuais constantes de cédulas de crédito rural firmadas entre seus associados e instituição financeira. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no REsp 1377411/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017)
+Na espécie, conforme se lê da petição inicial, a pretensão do legitimado extraordinário é ver declaradas nulas cláusulas uniformes previstas em todos os contratos celebrados entre seus sindicalizados e a instituição financeira ré, tais como as relativas à comissão de permanência, à multa moratória de 10% (dez por cento), à comissão de reserva e etc..
+O exame da controvérsia, portanto, pode facilmente ser obtido por meio de sentença genérica, de caráter nitidamente coletivo, reservando à fase de liquidação individual a discussão de peculiaridades relacionadas a cada um dos interessados. Considerar, por exemplo, nula a cobrança da comissão de permanência à taxa livre de mercado o é possível sem qualquer consideração sobre a relação individual de determinado sindicalizado, pois basta cotejar a exigência do encargo com o ordenamento aplicável.
+A lide, portanto, não se confunde com aquelas ações denominadas pela doutrina de pseudocoletivas, algumas das quais expressamente excluídas da tutela coletiva pelo art. 1º, parágrafo único, da Lei da Ação Civil Pública, em que as várias demandas individuais deixam de formar relação jurídica homogênea com a parte demandada, prejudicando o exercício do direito de defesa desta.
+2. Ante o exposto, com fundamento no art. 932 do NCPC e na Súmula 568/STJ, dou provimento ao recurso especial para anular o acórdsão recorrido e a sentença a fim de considerar admissível a ação coletiva ajuizada, determinando o retorno dos autos ao juízo da 1ª Vara da Comarca de Diamantino, no Estado do Mato Grosso, para dar andamento regular ao feito.
+Publique-se.
+Intimem-se.
