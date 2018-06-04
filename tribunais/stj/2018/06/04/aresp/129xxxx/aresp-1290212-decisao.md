@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto com fulcro no art. 105, III, alínea "c", da Constituição Federal.
+Consta dos autos que o agravante foi condenado pela prática dos delitos tipificados no art. 157, § 2.º, incisos I e II (roubo majorado) e art. 157, § 3º (roubo qualificado tentado) c/c art. 14, II todos do Código Penal, à pena de 17 (dezessete) anos, 09 (nove) meses e 10 (dez) dias de reclusão, em regime fechado, e ao pagamento de 19 (dezenove) dias-multa.
+Irresignados, defesa e acusação interpuseram recurso de apelação. O Tribunal de origem negou provimento ao apelo defensivo e deu provimento ao recurso ministerial para reconhecer o concurso material entre os crimes, exasperando a reprimenda para 19 (dezenove) anos de reclusão, em regime fechado, e pagamento de 19 (dezenove) dias-multa.
+O acórdão ficou assim ementado:
+NEGARAM PROVIMENTO AOS APELOS DEFENSIVOS E DERAM PROVIMENTO AO RECURSO MINISTERIAL, A FIM DE, RECONHECIDO O CONCURSO MATERIAL ENTRE OS CRIMES, EXASPERAR AS PENAS IMPOSTAS A DAVID SANTOS DA SILVA E VINÍCIUS DOMINGUES DOS SANTOS PARA DEZENOVE ANOS DE RECLUSÃO, EM REGIME INICIAL FECHADO, ALÉM DO PAGAMENTO DE DEZENOVE DIÁRIAS, NO PISO LEGAL, CORRIGIDO, DANDO-OS COMO INCURSOS NO ARTIGO 157, § 2o, I E II E ARTIGO 157, § 3o, IN FINE, C.C. O ARTIGO 14, II, NA FORMA DO ARTIGO 69, TODOS DO CÓDIGO PENAL, MANTENDO-SE, NO MAIS, A R. SENTENÇA. V. U.
+Em sede de recurso especial, a defesa apresenta dissídio jurisprudencial, consistente no reconhecimento de crime continuado entre os delitos de latrocínio e roubo, por se tratarem de crimes contra o patrimônio com mesma maneira de execução e em momentos próximos.
+A r. decisão agravada inadmitiu o recurso especial, haja vista a ausência de cotejo analítico do dissídio jurisprudencial apresentado e a necessidade de reexame de matéria fática-probatória, óbice contido na súmula n. 7/STJ.
+Em agravo em recurso especial, a defesa aduz que foi realizado o devido cotejo analítico, com transcrição dos trechos nos quais se encontram o dissídio entre o acórdão recorrido e outras decisões, além da desnecessidade de reexame de provas.
+Contraminuta às fls. 559/567.
+O Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 581/584).
+É o relatório. Decido.
+Atendidos os requisitos de admissibilidade e impugnados os fundamentos da decisão agravada, conheço do agravo.
+Passo à análise do recurso especial.
+O recurso não merece ser conhecido.
+É assente nesta Corte Superior o entendimento de que há a necessidade de indicação do dispositivo de lei federal objeto da divergência, mesmo quando o apelo nobre é interposto com fundamento apenas na alínea "c" do permissivo constitucional.
+Nessa linha:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO PELA ALÍNEA "C" DO INCISO III DO ART. 105 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO NO QUAL SE FUNDA A DIVERGÊNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DO ENUNCIADO N. 284 DA SÚMULA DO STF. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO. 1. A interposição pela alínea "c" do inciso III do art. 105 da CF exige a indicação do dispositivo de lei federal sobre o qual se funda a divergência. Incidência da Súmula 284 do STF. Precedentes. 2. Agravo regimental improvido. (AgRg no AREsp 1013384/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017 - Grifo Nosso).
+RECURSO ESPECIAL. PENAL E PROCESSO PENAL. ANÁLISE DE OFENSA A DISPOSITIVO CONSTITUCIONAL. USURPAÇÃO DA COMPETÊNCIA DO PRETÓRIO EXCELSO. OMISSÃO NO ACÓRDÃO DO TRIBUNAL A QUO. INEXISTÊNCIA. INTIMAÇÃO PARA SUSTENTAÇÃO ORAL. QUESTÃO SURGIDA NO JULGAMENTO DOS EMBARGOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. RECEBIMENTO DA DENÚNCIA. FUNDAMENTAÇÃO. SUFICIÊNCIA DA PROVA PARA EMBASAR A DENUNCIA. SÚMULA 7/STJ. ADITAMENTO. REGULARIDADE. QUEBRA DO SIGILO BANCÁRIO. VALIDADE. PODERES INVESTIGATÓRIOS DO MINISTÉRIO PÚBLICO. RECURSO EXTRAORDINÁRIO Nº 593.727. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. RECURSO COM FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+9. A falta de indicação do dispositivo de lei federal a que os acórdãos teriam conferido interpretação divergente evidencia deficiência na fundamentação recursal que impede o conhecimento do recurso especial ante à incidência do enunciado 284 da súmula do Supremo Tribunal Federal. 10. Recurso improvido. (REsp 1525437/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 03/03/2016, DJe 10/03/2016 - Grifo Nosso).
+Diante disso, o conhecimento do recurso especial encontra óbice na Súmula n. 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, com fulcro no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
