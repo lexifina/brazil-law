@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial interposto em face de acórdão assim ementado (fl. 215, e-STJ):
+APELAÇÃO Ação indenizatória por danos morais Declaração de inexistência do débito Contratação de empréstimo consignado negada pela autora Ação julgada parcialmente procedente para desconstituir o empréstimo consignado, condenar o réu ao pagamento das parcelas descontadas desde julho de 2013, bem como ao pagamento de indenização por danos morais Apelo do réu Preliminar de sentença extra petita afastada Desconstituição do negócio jurídico que autoriza o pagamento das parcelas descontadas indevidamente da conta da autora Sobre tal quantia, deve ser abatido o valor creditado à autora, de R$ 17.697,48, a fim de evitar o enriquecimento ilícito das partes Réu não se desincumbiu do seu ônus probatório (art. 373, II, do CPC/2015) Contratação do empréstimo consignado pela autora não comprovado Abalo moral não verificado Condenação ao pagamento de indenização por dano moral afastada Recurso parcialmente provido.
+Opostos embargos de declaração, esses foram rejeitados pelo acórdão de fls. 260-263, e-STJ.
+No recurso especial, a recorrente aponta violação aos arts. 186, 927 e 932 do Código Civil; 6º, inciso VIII e seguintes, do Código de Defesa do Consumidor; bem como ao art. 5º e incisos, da Constituição Federal, sustentando que os descontos indevidos em sua conta bancária, decorrentes de empréstimo consignado que não contratou, geram direito à indenização por danos morais.
+Contrarrazões às fls. 275-278, e-STJ.
+Delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+O recurso especial não merece prosperar, em razão da falta de prequestionamento dos dispositivos de lei federal nele apontados como violados. Com efeito, apesar de a recorrente ter oposto embargos de declaração contra o acórdão que deu parcial provimento à apelação do recorrido, o Tribunal de origem não emitiu juízo de valor acerca da norma contida nos dispositivos entendidos como violados, e a recorrente, no recurso especial, não apontou violação ao art. 1.022, do Código de Processo Civil de 2015, razão por que incide na espécie o óbice da Súmula 211/STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. FALTA DE ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ.
+2. Segundo assente na jurisprudência desta Corte Superior, "o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art.
+1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento" (AgInt no AREsp n. 1.098.633/MG, Relator Ministro LUÍS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/9/2017, DJe 15/9/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.164.351/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 27/3/2018).
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. IMPROBIDADE. ENUNCIADO 3/STJ. APLICABILIDADE. ACÓRDÃO QUE INDEFERIU PEDIDO DE INDISPONIBILIDADE DE BENS. AUSÊNCIA DE FUMUS BONI IURIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO DOS ARTS. 10 E 11 DA LIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211 DO STJ. APLICAÇÃO DA REGRA PREVISTA NO ART. 1.025 DO CPC/2015. PREQUESTIONAMENTO FICTO. INVIABILIDADE. REQUISITOS LEGAIS NÃO PREENCHIDOS.
+ ..
+5. O Superior Tribunal de Justiça vem se posicionando no sentido de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017).
+6. Recurso especial não conhecido.
+(REsp 1.684.231/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 26/2/2018).
+Ademais, ao solucionar a controvérsia, o Tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, concluiu que não houve danos morais na espécie, conforme se verifica (fl. 219, e-STJ):
+Portanto, está configurado o ato ilícito praticado pelo recorrente, relativo aos descontos mensais de suposto empréstimo consignado que não fora subscrito pela recorrida.
+Já, com relação à indenização por danos morais, merece acolhimento a pretensão do apelante para afastar a condenação.
+Com efeito, da narrativa dos autos não se observa relato algum do qual se possa depreender ofensa a direito personalíssimo da apelada ou grave transtorno psicológico.
+Afinal, a apelada não demonstrou de onde adviria o abalo moral supostamente experimentado, até porque não restou comprovado que houve a negativação do seu nome.
+Ademais, embora a apelada seja aposentada e tenha sofrido os descontos indevidos do empréstimo há meses, não se vislumbra afronta a sua dignidade humana, considerando-se que deixou transcorrer quase dois anos entre o início dos descontos e a propositura da ação.
+Dessa forma, para rever as conclusões adotadas no acórdão recorrido, seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, em razão do óbice erigido pela Súmula 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RETENÇÃO DE SALÁRIO PARA AMORTIZAÇÃO DE EMPRÉSTIMOS REALIZADOS COM A INSTITUIÇÃO FINANCEIRA. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO IMPROVIDO.
+ ..
+2. O eg. Tribunal de origem, à luz das circunstâncias fáticas da causa, concluiu pela não configuração de dano moral a ser indenizado pela instituição financeira que, diante da ausência de prova sobre eventual dano extrapatrimonial sofrido, afasta a lesividade da conduta. Destarte, no caso, a alteração das premissas fáticas adotadas demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do Superior Tribunal de Justiça.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.068.570/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 31/10/2017).
+Tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
