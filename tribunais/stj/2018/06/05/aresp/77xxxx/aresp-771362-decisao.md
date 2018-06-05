@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto pela SAO PAULO PREVIDENCIA - SPPREV contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 74):
+PENSÃO POR MORTE. Filha solteira de ex-policial militar que contava 40 anos quando do óbito do iristituidor, ocorrido em julho de 2000. Benefício supostamente concedido sem base legal. Anulação do ato que deve observar os prazos prescricionais, tanto no âmbito administrativo, como em sede judicial. Lei Estadual nº 10.177/98. Inaplicabílidade do prazo previsto no Código Civil, em atenção ao princípio da simetria. Precedentes dos Tribunais Superiores e deste E. Tribunal. Sentença mantida, por fundamento diverso.
+Recursos desprovidos.
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 205 e 2.028 do Código Civil, sustentando a não incidência do Decreto n. 20.910/1932 ao caso, bem como que aplicada lei estadual em detrimento do Código Civil.
+Transcorrido in albis o prazo para contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de incidência das Súmulas 280 do STF e 7 do STJ (e-STJ fl. 103).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação dos fundamentos aludidos.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+No que toca às alegações respeitantes ao Decreto n. 20.910/1932, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+No pertinente à tese remanescente sustentada no apelo nobre, verifica-se que o Tribunal de origem dirimiu a questão com respaldo em lei local, solução ora contestada em face de lei federal invocada pelo recorrente, o que revela a natureza constitucional da controvérsia (art. 102, III, "d", da Carta Política), insuscetível, portanto, de exame pela via do recurso especial.
+Nesse sentido: AgRg no REsp 1312516/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 23/02/2016, DJe 04/03/2016; AgRg no AREsp 798.590/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/02/2016, DJe 29/02/2016.
+In casu, a Corte de origem afastou a pretendida incidência de dispositivos do Código Civil por entender aplicáveis as disposições da Lei do Estado de São Paulo n. 10.177/1998, controvérsia que não enseja a abertura da via especial.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
