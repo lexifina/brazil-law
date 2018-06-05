@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ART. 475-R DO CPC/1973. APLICAÇÃO SUBSIDIÁRIA DAS REGRAS DA EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL AO CUMPRIMENTO DE SENTENÇA. LITISCONSÓRCIO COM PROCURADORES DIFERENTES. PRAZO EM DOBRO. AFASTAMENTO. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça de São Paulo que não admitiu o recurso especial apresentado por Cyrela Brazil Realty S.A. Empreendimentos e Participações, com base no art. 105, III, a e c, da CF, desafiando acórdão assim ementado (e-STJ, fl. 572):
+Agravo de instrumento Cumprimento de sentença Decisão que declarou intempestiva a impugnação apresentada pela agravante Irresignação da interessada Alegação de que se deve contar o prazo em dobro, para apresentação da impugnação, conforme dispõe o art. 191 do CPC/1973 Descabimento Inteligência dos arts. 475-R e 738, §§1º e 3º do CPC/1973, vigente à época Decisão mantida AGRAVO DESPROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 936-964), fundamentado no art. 105, III, alínea a, da CF, a recorrente apontou violação dos arts. 191 e 475-J do Código de Processo Civil de 1973, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a necessidade de aplicação do prazo em dobro quando se tratar de impugnação ao cumprimento de sentença em que houver litisconsortes com procuradores distintos, sendo inaplicável a regra prevista aos embargos à execução.
+Foram apresentadas contrarrazões (e-STJ, fls. 602-607).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da ausência de comprovação de violação dos dispositivos apontados e da incidência da Súmula n. 7 desta Corte (e-STJ, fls. 608-609).
+Brevemente relatado, decido.
+O acórdão recorrido afastou a aplicação dos prazos em dobro para apresentação da impugnação ao cumprimento de sentença, porquanto o art. 475-R do CPC/1973 determina a aplicação subsidiária das normas da execução de título extrajudicial às impugnações ao cumprimento de sentença.
+Assim, tendo em vista que o art. 738, § 3º, do CPC/1973 afasta aplicação da regra do prazo em dobro prevista no art. 191 do mesmo diploma processual, a impugnação ao cumprimento de sentença apresentada pela insurgente é intempestiva, ainda que os devedores estejam representados nos autos por procuradores distintos.
+Dessa forma, constata-se que o entendimento adotado pela Corte estadual se alinha à jurisprudência deste Tribunal Superior, segundo a qual deve haver a aplicação subsidiária das normas que regem o processo de execução de título extrajudicial ao regramento do cumprimento de sentença naquilo que não o contrariar.
+Assim, em razão da aplicação subsidiária das regras relativas ao processo de execução de título executivo, torna-se imperiosa a aplicação do art. 738, § 3º, do CPC/1973, o qual dispõe que aos embargos do executado não se aplica o disposto no art. 191 do CPC/1973 (previsão do prazo em dobro para os litisconsortes que possuem procuradores diferentes).
+Nesse sentido, confiram-se os seguintes precedentes desta Corte:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NÃO APLICAÇÃO. PRAZO EM DOBRO. ART. 191 DO CPC.
+1. "O prazo para embargar é de dez (10) dias, ainda em que os executados tenham constituído advogados diferentes, pois os embargos do devedor constituem uma ação, processo incidental de conhecimento, visando atacar a eficácia do título ou a regularidade da própria execução, assumindo o devedor, nos embargos, a posição de autor, e o credor a de réu, sendo inaplicável a regra do art. 191 do CPC." (AgRg no Ag 1386175/MG, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 12/04/2011, DJe 15/04/2011) 2. Agravo regimental a que se nega provimento, com aplicação de multa.
+(AgRg no AREsp n. 185.415/SC, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/8/2012, DJe 27/8/2012).
+PROCESSO CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EMBARGOS DO DEVEDOR. EXECUÇÃO CONTRA MAIS DE UM DEVEDOR. CONSTITUIÇÃO DE PROCURADORES DISTINTOS. NÃO INCIDÊNCIA DO PRAZO EM DOBRO, PREVISTO NO ARTIGO 191 DO CPC. IMPROVIMENTO.
+I. O prazo para embargar é de dez (10) dias, ainda em que os executados tenham constituído advogados diferentes, pois os embargos do devedor constituem uma ação, processo incidental de conhecimento, visando atacar a eficácia do título ou a regularidade da própria execução, assumindo o devedor, nos embargos, a posição de autor, e o credor a de réu, sendo inaplicável a regra do art. 191 do CPC.
+II. Agravo improvido.
+(AgRg no Ag n. 1.386.175/MG, Reator Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 12/4/2011, DJe 15/4/2011).
+Portanto, a adoção, pelo acórdão recorrido, de entendimento em consonância com a jurisprudência deste Tribunal, atrai a aplicação da Súmula n. 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
