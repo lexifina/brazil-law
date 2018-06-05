@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO ESTADUAL. AUSÊNCIA DE COMPARECIMENTO AO TRABALHO EM DECORRÊNCIA DE DECRETAÇÃO DE PRISÃO PREVENTIVA. ABANDONO DE CARGO. PENA DE DEMISSÃO APLICADA. AGRAVO INTERNO PROVIDO PARA TORNAR SEM EFEITO DECISÃO MONOCRÁTICA E DETERMINAR SUA REAUTUAÇÃO EM RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interno manejado por [NOME] em face de decisão de fls. 369/371 (e-STJ), onde conheci do agravo para não conhecer do recurso especial, nestes termos ementado:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. RECURSO ESPECIAL QUE NÃO APONTA DE QUE FORMA OS DISPOSITIVOS 1NFRACONSTITUCIONAIS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões de agravo interno, sustenta a parte recorrente violação ao art. 138 da Lei nº 8.112/1990. Aduz que foi denunciado pelo denunciado pelo Ministério Público do Estado de São Paulo, com base nas condutas do art. 12, "caput" e 14, da Lei nº 6.368/1976 c/c art. 29 e 69 do CP (e-STJ fls. 139/149). Ato contínuo, teve sua prisão preventiva decretada (e-STJ fls. 152/154).
+Aponta que em razão da expedição do decreto preventivo, peticionou, por intermédio de seus advogados, junto ao Departamento de Narcóticos - DENARC, da Polícia Civil do Estado de São Paulo, informando que não compareceria ao trabalho, por considerar a prisão injusta, bem como se resguardar de eventual processo de abandono de cargo (e-STJ fls. 73/75).
+Às (fls. 126-STJ) consta instauração de Portaria de Processo Administrativo Disciplinar, o qual, em breve síntese, culminou em sua demissão por abandono de cargo face ausência por mais de 30 dias (176 dias), publicada no Diário Oficial de 22 de agosto de 2008 (fl. 62 e-STJ).
+Por sua vez, argumenta que não restou demonstrado o animus abandonandi, apto a ensejar a pena de demissão do serviço público, na hipótese em que pendente mandado de prisão preventiva, a qual inclusive, foi posteriormente revogada em sede de Habeas Corpus em decisão proferida pelo STJ (fls. 32/38-STJ).
+Por fim, salienta que no processo criminal que deu origem a decretação da prisão preventiva, o Tribunal de Justiça do Estado de São Paulo o considerou inocente, fundamentando sua absolvição no art. 386, inciso III, do CPP (fls. 64/65- e STJ).
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com razão o agravante, porquanto, inaplicável ao feito a Súmula 284/STF, eis que devidamente demonstrado a violação ao disposto no art. 138 da Lei nº 8.112/1990.
+Deste modo, tendo em vista o atendimento dos requisitos de admissibilidade do recurso e as peculiaridades do caso concreto, dou provimento ao agravo interno para tornar sem efeito da decisão monocrática de fls. 369/371 (e-STJ) e determinar sua REAUTUAÇÃO como recurso especial e possibilitar posterior inclusão em pauta.
+Após, cumprida tal providência, abra-se vista ao Ministério Público.
+Publique-se. Intimem-se.
