@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por BRUNA DA COSTA ROCHA contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 125):
+"APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. INSCRIÇÃO INDEVIDA. DANO MORAL NÃO CONFIGURADO.
+A preexistência de outro registro no cadastro de maus pagadores inviabiliza a pretensão indenizatória com base no abalo creditício. Recurso Repetitivo n. 1.386.424/MG, do STJ. Súmula n. 385 do STJ.
+NEGARAM PROVIMENTO AO RECURSO DE APELAÇÃO. UNÂNIME."
+No especial obstaculizado, o ora agravante apontou violação dos arts. 186; 187; 927 do CC/2002; e 39 do CDC. Sustentou, em síntese, que a inscrição irregular em cadastro de inadimplentes configura o dano moral in re ipsa e que a Súmula 385 do STJ não incidiria quando a anotação é decorrente de cobrança indevida feita pelo prestador de serviço.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, o que desafiou a interposição do presente agravo.
+Contraminuta.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Dito isso, registro que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, tanto nos termos do art. 544, § 4º, I, do CPC/1973, quanto nos moldes dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ.
+Nesse sentido, vide: AgRg no AREsp 834978/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 19/04/2016; AgInt no AREsp 1036445/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 04/04/2017, DJe 17/04/2017.
+In casu, o Tribunal a quo negou seguimento ao recurso especial pelos seguintes fundamentos: a) não cabimento de REsp para apreciar contrariedade a enunciado sumular; b) Súmula 83 do STJ, em razão da consonância do acórdão com o entedimento firmado no REsp 1.386.424/MG (Tema 922); e c) Súmula 7 do STJ (e-STJ fls.175/179).
+Todavia, nas razões do agravo em recurso especial, a agravante não infirmou de forma clara e específica todos os fundamentos da decisão agravada, em evidente desrespeito ao princípio da dialeticidade.
+Com efeito, nas razões do agravo, a parte aduziu que a Súmula 7 desta Corte não poderia ser aplicada, porquanto demonstrou-se o cumprimento de "todos os requisitos necessários à espécie" (e-STJ fl. 186).
+Já em relação à Súmula 83 do STJ, alegou que "inexiste recurso especial paradigma, bem como o Superior Tribunal de Justiça possui entendimento de que é cabível a condenação à indenização por danos morais quando caracterizado o ato ilícito indenizável" e que o "caso concreto em julgamento apresenta particularidades que não permitem aplicar adequadamente a jurisprudência do Tribunal" (e-STJ fl. 187).
+O primeiro fundamento apontado na decisão agravada sequer foi mencionado no arrazoado.
+Sem adentrar na legitimidade da argumentação apresentada, registro não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+No que tange à Súmula 7 do STJ, é de rigor que a impugnação venha acompanhada de uma mínima contextualização do caso concreto e da tese jurídica objeto do recurso especial, bem assim das razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, o que não ocorreu no caso.
+Quanto à Súmula 83 do STJ, caberia à agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+Ante o exposto, o art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do referido dispositivo. Suspensa a exigibilidade por se tratar de beneficiário de justiça gratuita, conforme dicção do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
