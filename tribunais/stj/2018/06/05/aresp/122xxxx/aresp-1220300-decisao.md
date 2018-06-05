@@ -1,0 +1,27 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA MOVIDA CONTRA MASSA FALIDA. EMBARGOS DE DECLARAÇÃO. COMPETÊNCIA INTERNA DO TRIBUNAL DE JUSTIÇA. OMISSÃO INEXISTENTE. EMBARGOS CONSIDERADOS PROTELATÓRIOS. MULTA. CABIMENTO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Massa Falida de AF Administradora de Consórcio Ltda. em liquidação, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 115):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. GRUPO DE CONSÓRCIO. PRESCRIÇÃO C/C CANCELAMENTO DE GRAVAME . ALIENAÇÃO FIDUCIÁRIA. RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO DE COBRANÇA DA DÍVIDA. NECESSIDADE DE BAIXA DO GRAVAME.
+Ocorrendo a prescrição da pretensão do réu de reclamar sobre o débito decorrente do financiamento em que o veículo foi dado como garantia, não há razão para ser mantido o gravame, devendo ser providenciada a baixa da alienação fiduciária.
+Os embargos de declaração foram rejeitados com aplicação de multa (e-STJ, fls. 145-153).
+Nas razões do recurso especial, a recorrente alegou violação dos arts. 1.022, III, e 1.026, § 2º, do CPC/2015, sustentando: a) negativa de prestação jurisdicional por não haver manifestação quanto à incompetência da Décima Segunda Câmara Cível para o julgamento das ações contra a massa falida; e b) não cabimento da multa, pois não houve interesse em protelar o feito.
+Brevemente relatado, decido.
+Compulsando os autos, verifico que a apelação foi distribuída inicialmente à da Terceira Câmara Cível, competente para julgar processos referentes à falência e recuperação de empresas. Todavia, na decisão de fls. 100-101 (e-STJ), a Desembargadora relatora, [NOME], declinou da competência ao argumento de que, embora a ação tenha sido proposta contra massa falida, a Corte Superior daquele Tribunal determinou a competência das Câmaras de Direito Privado, para o julgamento dos recursos que não envolvessem matéria falimentar.
+Contra essa decisão não houve recurso.
+O processo então foi redistribuído para a Décima Segunda Câmara, que proferiu o acórdão de fls. 112-122, dando provimento à apelação de [NOME], ora agravado.
+Em vista de resultado desfavorável no acórdão proferido pela Décima Segunda Câmara, a Massa Falida da AF Administradora de Consórcio Ltda. Opôs embargos alegando a incompetência das Câmaras de Direito Privado para o julgamento do feito, sendo rejeitados os aclaratórios nos seguintes termos:
+No caso dos autos, verifica-se que determinada a remessa do recurso apelatório a esta unidade do e. Tribunal de Justiça, às fl. 77, pela d. Desembargadora [NOME] Costa, o embargante não se insurgiu contra a ordem, quedando-se inerte, vindo somente agora, em sede de embargos declaratórios, aviar a questão da incompetência desta Turma Recursal.
+Saliente-se que matéria não debatida anteriormente nos autos não ser apreciada quando do julgamento dos embargos de declaração, mesmo que se trate de temas de ordem pública, por constituir inovação recursal.
+(..)
+Esclareça-se, ademais, que a estratégia da embargante que permaneceu silente acerca da suposta nulidade quando da determinação de redistribuição do recurso a esta unidade do Tribunal de Justiça, vindo a suscitá-la somente em sede de embargos de declaração é rechaçada pela Corte Superiores, recebendo o nome de "nulidade de algibeira ou de bolso".
+Por fim, e não mais importante, é necessário ressaltar que o comportamento da embargante está em dissonância com o moderno processo civil e os princípios da boa-fé processual e cooperação, que prezam pelo diálogo processual, de foram que exigem que a atuação das partes integrantes da relação processual sejam balizadas pela ética e lealdade.
+Diante do caráter protelatório dos presentes embargos condeno a embargante ao pagamento de multa de 1% (hum por cento) sobre o valor atualizado da causa.
+Assim, não reconheço a apontada violação do art. 1.022 do Novo Código de Processo Civil, pois, de um lado, não existia omissão a ser suprida; de outro, foram apropriados e legítimos os fundamentos que sustentaram a conclusão alcançada pelo acórdão local, não se podendo a ele atribuir o vício de omissão apenas porque decidiu em sentido contrário ao postulado pela parte.
+De igual modo, improcedente o inconformismo manifestado pela recorrente em relação à multa aplicada no julgamento dos embargos de declaração.
+A questão submetida ao Juízo de origem por meio dos embargos não deixa dúvida quanto ao intuito da agravante de tumultuar o feito, pois trata-se de matéria já decidida anteriormente nos autos e não impugnada oportunamente pela parte.
+Esta Corte entende que "O Poder Judiciário não pode compactuar com a chamada nulidade guardada, em que falha processual sirva como uma "carta na manga", para utilização eventual e oportuna pela parte, apenas caso seja do seu interesse" (Pet 9.971/DF, Rel. Ministra Nancy Andrighi).
+Exatamente é essa a hipótese dos autos, pois tendo a Desembargadora relatora da Câmara de Falência e Recuperação de Empresas declinado da competência, a agravante ficou silente, somente sustentando a incompetência da Câmara de Direito Privado após o julgamento da apelação, que decidiu de forma desfavorável aos seus interesses.
+Portanto, este é o motivo pelo qual deve ser mantida a multa aplicada.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
