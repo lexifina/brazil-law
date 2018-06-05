@@ -1,0 +1,63 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INCLUSÃO INDEVIDA NO CADASTRO DE PROTEÇÃO AO CRÉDITO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. VALOR QUE ATENDE OS PARÂMETROS DESTA CORTE E QUE ENTENDE SER RAZÓAVEL A CONDENAÇÃO EM ATÉ 50 SALÁRIOS MÍNIMOS POR INSCRIÇÃO INDEVIDA EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. TERMO INICIAL DOS JUROS DE MORA. RESPONSABILIDADE EXTRACONTRATUAL. DATA DO EVENTO DANOSO. SÚMULAS 54 E 83/STJ. RECURSO ESPECIAL IMPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por Aymoré Crédito, Financiamento e Investimento S.A., fundado nas alíneas a e c da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fl. 103):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. INCLUSÃO INDEVIDA NOS CADASTROS DE PROTEÇÃO AO CRÉDITO. DANO
+MORAL IN RE IPSA. INDENIZAÇÃO DEVIDA. QUANTUM. RAZOABILIDADE E PROPORCIONALIDADE. MAJORAÇÃO DEVIDA. CORREÇÃO MONETÁRIA. JUROS. TERMO A QUO DE INCIDÊNCIA. ALTERAÇÃO DE OFÍCIO.
+- Os danos extrapatrimoriais causados em razão da inclusão indevida do nome do autor nos cadastros de restrição de crédito têm natureza in re ipsa e, portanto, independem de comprovação dos prejuízos suportados.
+- Para fixação do valor do dano moral, deverá o Julgador se ater aos critérios de razoabilidade e proporcionalidade, para que a medida não represente enriquecimento ilícito, bem como para que seja capaz de coibir a prática reiterada da conduta lesiva pelo seu causador.
+- Os juros de mora e a correção monetária constituem matérias de ordem pública. Portanto, pode a Instância Revisora reapreciá-las, a fim de que adequação das questões à jurisprudência do STJ, que estabelece, na Súmula 54, o termo a quo da incidência dos juros de mora e, na Súmula 362, a data de início da incidência da correção monetária.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 131-137).
+Nas razões do recurso especial, a recorrente alega que o acórdão impugnado incorreu em violação dos arts. 236 do Código de Processo Civil/1973; 14, § 3º, II, do Código de Defesa do Consumidor; e 944 do Código Civil.
+Aduz, de início, que há nulidade no feito, na medida em que informou que foi nomeado novo patrono - Dr. [NOME] - e este não foi devidamente cadastrado como expressamente requerido, o que resultou na falta de interposição da apelação por falta de intimação.
+De outro ponto, sustenta que houve culpa exclusiva de terceiro, o que exclui a responsabilidade da recorrente.
+Quanto ao termo inicial dos juros de mora, assevera que estes devem ser fixados a partir da data da sentença e da data do evento danoso como determinado pelo acórdão impugnado.
+Por fim, destaca que o valor da condenação é excessivo, razão pela qual deve ser reduzido, sob pena de sobejar indevido enriquecimento ilícito do recorrido.
+Juízo positivo de admissibilidade (e-STJ, fls. 199-200).
+Brevemente relatado, decido.
+De início, verifico dos autos que o recurso foi interposto quando ainda estava em vigor o Código de Processo Civil de 1973. Sendo assim, sua análise obedecerá ao regramento nele previsto.
+No que diz respeito à alegada afronta aos arts. 206 do Código de Processo Civil/1973 e 14, § 3º, II, do Código de Defesa do Consumidor, verifica-se não ter sido ela objeto de exame pela instância ordinária, mesmo após a interposição de embargos declaratórios, razão pela qual incide na espécie a Súmula 211 do STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+Com efeito, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não ocorreu no caso em análise.
+Quanto aos danos morais, o acórdão recorrido verificou a devida comprovação do abalo psicológico sofrido pelo ora recorrido, notadamente em razão do constrangimento e do incômodo gerado pela inscrição de seu nome nos órgãos de proteção ao crédito.
+Acerca do tema, a jurisprudência desta Corte Superior é pacífica em entender que a lesão extrapatrimonial decorrente de protesto indevido de título ou inscrição irregular em cadastro de inadimplentes se configura in re ipsa, ou seja, independentemente de prova.
+Ilustrativamente:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CADASTRO DE INADIMPLENTES. MANUTENÇÃO INDEVIDA. ATO ILÍCITO. DANO MORAL IN RE IPSA. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. DIVERGÊNCIA NÃO DEMONSTRADA. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Consoante a jurisprudência desta Corte, "nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova" (REsp n. 1.059.663/MS, Relatora Ministra NANCY ANDRIGHI, DJe 17/12/2008).
+(..) 5. Agravo interno a que se nega provimento. (AgInt no REsp 1692761/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 05/12/2017, DJe 12/12/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REPARAÇÃO DE DANOS. INSCRIÇÃO EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. EXISTÊNCIA DE OUTRAS NOTIFICAÇÕES ANTERIORES. IMPROCEDÊNCIA. RECURSO ESPECIAL OBSTADO NOS TERMOS DO ART. 543-C, § 7º, I, DO CPC/73 E SÚMULAS NºS 284 DO STF E 83 DO STJ. AGRAVO QUE NÃO INFIRMA OS FUNDAMENTOS DA DECISÃO É INVIÁVEL EM HIPÓTESES DE INADMISSÃO COM FUNDAMENTO NA APLICAÇÃO DE ENTENDIMENTO FIRMADO EM JULGAMENTO DE RECURSOS REPETITIVOS (ART.1.042 DO NCPC) POR SE TRATAR DE ERRO GROSSEIRO.
+(..) 2. A jurisprudência desta Corte firmou o entendimento de que a inscrição indevida em cadastro negativo de crédito, bem como o protesto indevido caracterizam, por si sós, dano in re ipsa, o que implica responsabilização por danos morais.
+(..) 6. Agravo interno não provido, com aplicação de multa. (AgInt no AREsp 1075299/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 03/08/2017, DJe 24/08/2017)
+De outro ponto, conforme reiterada jurisprudência desta Corte, o valor dos danos morais só poderá ser revisto, na via do especial, nos casos em que o montante fixado afronta os princípios da razoabilidade e da proporcionalidade. Dessa forma, somente quantias ínfimas ou exorbitantes, isto é, desarrazoadas diante dos valores comumente estabelecidos em situações análogas, revelam aptidão para ensejar o exame e revisão por este Tribunal.
+No caso em comento, o valor da condenação ao pagamento de danos morais, arbitrado em R$ 15.000,00 (quinze mil reais), considerada a peculiaridade do caso em questão, qual seja, a inscrição indevida do nome do agravado perante órgãos de proteção ao crédito, não se distancia dos patamares adotados por esta Corte Superior, que preleciona ser razoável a condenação em até 50 (cinquenta) salários mínimos por indenização decorrente de inscrição indevida em órgãos de proteção ao crédito.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO. AUSÊNCIA DE INDICAÇÃO DA VIOLAÇÃO AO ART. 131 DO CPC/73. INCIDÊNCIA DA SÚMULA 284/STF. COMPROVAÇÃO DOS LUCROS CESSANTES. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.
+ ..
+3. O valor da indenização por danos morais somente pode ser revisto, nesta Corte Superior, nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que não ocorre na presente hipótese, em que fixado em R$ 10.000,00 (dez mil reais).
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 808.263/MS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 14/11/2017, DJe 20/11/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INCAPAZ DE ALTERAR O JULGADO. INSCRIÇÃO INDEVIDA. DANO MORAL. INDENIZAÇÃO. VALOR. REVISÃO. PARÂMETROS DESTA CORTE. SÚMULA Nº 568/STJ. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. SÚMULA Nº 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. A fixação da indenização por danos morais baseia-se nas peculiaridades da causa. Assim, somente comporta revisão por este Tribunal quando irrisória ou exorbitante, o que não ocorreu na hipótese dos autos, em que o valor foi arbitrado em R$ 10.000,00 (dez mil reais).
+2. É inadmissível o inconformismo quando o acórdão recorrido está em consonância com o entendimento do Superior Tribunal de Justiça.
+ ..
+4. Agravo interno não provido. (AgInt no AREsp 794.128/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8/11/2016, DJe 17/11/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA. RESPONSABILIDADE CIVIL. ILEGITIMIDADE PASSIVA. FUNDAMENTO AUTÔNOMO E SUFICIENTE PARA MANTER O ACÓRDÃO NÃO ATACADO. SÚMULA 283/STF. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente, por si só, para manter incólume o aresto recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. O entendimento pacificado no Superior Tribunal de Justiça é de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso. Desse modo, não se mostra desproporcional a fixação em cinquenta salários mínimos a título de reparação moral decorrente da inscrição irregular em cadastro de inadimplentes, motivo pelo qual não se justifica a excepcional intervenção desta Corte no presente feito, como bem consignado na decisão agravada.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 498.493/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/4/2015, DJe 6/5/2015)
+Incidência da Súmula 7/STJ.
+Por último, no que se refere aos juros de mora, observa-se que a decisão vergastada também não merece reparos.
+Segundo a jurisprudência consolidada deste Tribunal Superior, nos casos de inscrição indevida em cadastro de inadimplementes, por se tratar de responsabilidade extracontratual, os juros moratórios incidem desde a data do evento danoso, nos termos da Súmula 54/STJ.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. DANOS MORAIS. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. JUROS DE MORA. TERMO INICIAL. RESPONSABILIDADE EXTRACONTRATUAL. SÚMULA N. 54/STJ. DECISÃO MANTIDA. INOVAÇÃO RECURSAL. DESCABIMENTO.
+(..)
+3. Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual (Súmula n. 54/STJ).
+4. Incabível o exame de tese não exposta no recurso especial e invocada apenas em recurso posterior, pois configura indevida inovação recursal.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 862.889/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/10/2017, DJe 30/10/2017)
+CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/73. INDENIZAÇÃO MORAL. INSCRIÇÃO INDEVIDA NO CADASTRO DE INADIMPLENTES. AUSÊNCIA DE OFENSA AO ART. 535 DO CPC/73. APRESENTAÇÃO ANTECIPADA DE CHEQUE PÓS-DATADO. MAJORAÇÃO DO VALOR INDENIZATÓRIO PELO ACÓRDÃO ESTADUAL COM BASE NAS PREMISSAS FÁTICAS DA LIDE. POSSIBILIDADE. INEXISTÊNCIA DE JULGAMENTO ULTRA PETITA. ILÍCITO EXTRACONTRATUAL. SÚMULA Nº 54 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+6. Conforme a jurisprudência firmada nesta Corte, o dano extrapatrimonial decorrente da inscrição indevida em cadastro de inadimplentes é extracontratual, ainda que a dívida objeto da inscrição seja contratual (EDcl no REsp 1.375.530/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 6/10/2015, DJe 9/10/2015), incidindo os juros de mora a partir do evento danoso nos termos da Súmula nº 54 do STJ.
+7. Agravo regimental não provido.
+(AgRg no AREsp 634.369/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/08/2017, DJe 06/09/2017)
+Incide, no ponto, a Súmula 83/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
