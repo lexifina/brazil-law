@@ -1,0 +1,86 @@
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. 1. ATRASO NA ENTREGA DO IMÓVEL. 2. COMISSÃO DE CORRETAGEM. POSSIBILIDADE DESDE QUE DESTACADA NO CONTRATO. RESP N. 1.599.511/SP. ACÓRDÃO QUE CONSIGNOU A AUSÊNCIA DE CONTRATAÇÃO. SÚMULAS N. 5, 7 E 83 DO STJ. 3. DANOS MORAIS. AFASTAMENTO. NECESSIDADE. MERO INADIMPLEMENTO CONTRATUAL. 4. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+DECISÃO
+A ação de rescisão de contrato com restituição de quantia paga cumulada com indenização por danos materiais e morais ajuizada por [NOME] contra Gold Los Angeles Empreendimentos Imobiliários SPE Ltda. e outra foi julgada procedente, em parte, na primeira instância para: a) declarar resolvido o negócio havido entre as partes; b) condenar as rés a restituírem à parte autora a importância de R$ 10.771,45 (dez mil, setecentos e setenta e um reais e quarenta e cinco centavos), acrescida de correção monetária desde o efetivo desembolso e de juros moratórios de 1% (um por cento) ao mês, a contar da citação; c) condenar as requeridas ao pagamento de indenização no montante equivalente a 0,5% sobre o valor venal do bem a partir junho de 2012 até a data da rescisão contratual; d) condenar as rés a indenizarem a parte autora pelos danos morais que lhe foram causados, na quantia de R$ 10.000,00 (dez mil reais), com correção monetária a partir desta data e juros moratórios de 1% ao mês, observados os termos dos arts. 406 CC c/c o art. 161, parágrafo único, do Código Tributário Nacional e da Súmula n. 54 do e. STJ.
+Contra essa decisão as partes recorreram.
+A Quinta Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso das rés e deu parcial provimento ao do autor apenas para reconhecer a nulidade da clausula de tolerância. Eis a ementa:
+COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. Atraso na entrega de obra imobiliária.
+Sentença de procedência parcial em primeiro grau.
+1. Atraso na entrega da obra incontroverso. Inexistência da caracterização de motivos de força maior ou caso fortuito.
+2. Inadimplemento da promitente vendedora configurado. Artigo 475 do Código Civil.
+3. Validade da cláusula de prorrogação de 180 dias no prazo para entrega da obra. Prorrogação do prazo se mostra justa e não extrapola o razoável.
+4. Cabimento da restituição da taxa de corretagem.
+Caracterização de venda casada. Serviço não contratado pelo consumidor. Devolução de forma simples, ante a inaplicabilidade do artigo 42 do Código de Defesa do Consumidor.
+5. Restituição de valores pagos. Retomo das partes ao estado anterior à celebração do negócio, o que consiste na devolução integral das parcelas pagas pelo autor.
+6. Lucros cessantes devidos. Indisponibilidade do bem imóvel, correspondendo ao que o autor deixou de auferir, caso o imóvel lhe tivesse sido entregue no prazo. Indenização fixada no percentual de 0,5% do valor atualizado de venda do imóvel mantida.
+7. Multa moratória. Cabimento. Obediência aos princípios da boa -fé objetiva e do equilíbrio contratual.
+8. Danos morais configurados. Verba arbitrada mantida, atualizada a partir do arbitramento (Súmula 362 do STJ) e juros de mora de 1% ao mês, a partir da citação (CC, artigo 405).
+Recurso das rés desprovido, provido em parte o recurso do autor.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 383-386).
+Diante disso, as requerentes interpõem recurso especial, fundamentado na alínea a do permissivo constitucional, apontando violação aos arts. 421 e 422 do Código Civil e 725 do CPC/2015.
+Sustentam, em síntese, que não houve descumprimento contratual a gerar ilícito cível indenizável, sendo, portanto, descabida a condenação por danos morais, e que a remuneração pela taxa de corretagem é devida.
+Contrarrazões às fls. 444-458 (e-STJ).
+Juízo positivo de admissibilidade (e-STJ, fls. 456-458).
+Brevemente relatado, decido.
+Na hipótese ora examinada, o Tribunal de Justiça concluiu pela caracterização do dano moral apenas em consequência do descumprimento da obrigação contratual (atraso na entrega do imóvel).
+Entretanto, firmou-se na Terceira Turma deste Tribunal o entendimento de que o simples descumprimento contratual, concernente ao atraso na entrega de bem imóvel adquirido na planta, não resulta em danos morais indenizáveis, conforme se observa destes recentes precedentes:
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. CURTO PERÍODO. MERO INADIMPLEMENTO CONTRATUAL. DANO MORAL AFASTADO. ENTREGA DE IMÓVEL EM CONFORMAÇÃO DISTINTA ÀQUELA ADQUIRIDA. DANO MORAL MANTIDO. LUCROS CESSANTES. PRESUNÇÃO. CABIMENTO.
+1. Ação ajuizada em 14/02/2014. Recurso especial concluso ao gabinete em 19/09/2016. Julgamento: CPC/73.
+2. Cinge-se a controvérsia em determinar se o atraso das recorrentes na entrega de unidade imobiliária, objeto de contrato de compra e venda firmado entre as partes, bem como de entrega em conformação distinta àquela adquirida gera danos morais e materiais (lucros cessantes) aos recorridos.
+3. Muito embora o entendimento de que o simples descumprimento contratual não provoca danos morais indenizáveis, tem-se que, na hipótese de atraso na entrega de unidade imobiliária, o STJ tem entendido que as circunstâncias do caso concreto podem configurar lesão extrapatrimonial.
+4. Na hipótese dos autos, contudo, em razão de lapso temporal não considerável a ponto de se considerar afetado o âmago da personalidade do recorrido não há que se falar em abalo moral indenizável.
+5. Quanto à entrega da unidade imobiliária em conformação distinta da contratada - já que as chaves entregues referiam-se à unidade sem vista para o mar e sem uma suíte - impossível não se reconhecer a existência de abalo moral compensável, pois ultrapassa o simples descumprimento contratual.
+6. A ausência de entrega do imóvel na data acordada em contrato gera a presunção relativa da existência de danos materiais na modalidade lucros cessantes. Precedentes.
+7. Recurso especial conhecido e não provido.
+(REsp n. 1.634.751/SP. Relatora Ministra Nancy Andrighi, Terceira Turma, DJe 16/2/2017. Sem grifo no original).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO. DESCUMPRIMENTO CONTRATUAL. LOCATÁRIO. PESSOA JURÍDICA. RETENÇÃO. IMPOSTO DE RENDA. REPASSE. RECEITA FEDERAL. AUSÊNCIA. INÉPCIA. INICIAL. NÃO OCORRÊNCIA. QUITAÇÃO. INVALIDADE. IMPOSTO DE RENDA. RETENÇÃO INDEVIDA. DANO MORAL. OCORRÊNCIA.
+1. A petição inicial em que se pode aferir com clareza a causa de pedir e o pedido e que permite a ampla defesa da parte ré não pode ser considerada inepta. Precedentes.
+2. A matéria relativa à inexigibilidade do crédito tributário em virtude de ter transcorrido o prazo para sua constituição não foi objeto de decisão pelo aresto recorrido, ressentindo-se o recurso especial do indispensável prequestionamento.
+3. A jurisprudência desta Corte entende que o mero descumprimento contratual não dá ensejo à indenização por dano moral. No caso dos autos, porém, o descumprimento contratual deu origem à inscrição do recorrido na dívida ativa, sendo executado pela União Federal. Portanto, o dano experimentado extrapolou o mero descumprimento contratual.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 463.520/RJ. Relator Ministro Ricardo Villas, Terceira Turma, DJe 13/2/2017. Sem grifo no original).
+RECURSOS ESPECIAIS REPETITIVOS. CIVIL E PROCESSUAL CIVIL. ADMISSIBILIDADE PELO CPC/1973. ENUNCIADO ADMINISTRATIVO N. 2/STJ. PROCESSAMENTO PELO CPC/2015. CORRETAGEM. INCORPORAÇÃO IMOBILIÁRIA. RITO DOS ARTS. 1.036 E SEGUINTES DO CPC/2015. I - RECURSO ESPECIAL DA INCORPORADORA. LEGITIMIDADE PASSIVA "AD CAUSAM". TEORIA DA ASSERÇÃO. PRESCRIÇÃO E CASO FORTUITO. ALEGAÇÃO GENÉRICA. ÓBICE DA SÚMULA 284/STF. II - RECURSO ESPECIAL ADESIVO DOS CONSUMIDORES. INOCORRÊNCIA DE DANO MORAL. ATRASO DA OBRA. CURTO PERÍODO. MERO INADIMPLEMENTO. INDENIZAÇÃO POR LUCROS CESSANTES. ÓBICE DA SÚMULA 7/STF. REPETIÇÃO EM DOBRO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. III - TESE PARA OS FINS DO ART. 1.040 DO CPC/2015:
+3.1. Legitimidade passiva "ad causam" da incorporadora, na condição de promitente-vendedora, para responder a demanda em que é pleiteada pelo promitente-comprador a restituição dos valores pagos a título de comissão de corretagem e de taxa de assessoria técnico-imobiliária, alegando-se prática abusiva na transferência desses encargos ao consumidor. IV. RECURSO ESPECIAL DA INCORPORADORA:
+4.1. Aplicação da tese ao caso concreto, rejeitando-se a preliminar de ilegitimidade passiva.
+4.2. Incidência do óbice da Súmula 284/STF no que tange às alegações de prescrição e de caso fortuito, tendo em vista o caráter genérico das razões recursais. V. RECURSO ESPECIAL ADESIVO DOS CONSUMIDORES:
+5.1. Inocorrência de abalo moral indenizável pelo atraso de alguns meses na conclusão da obra, em razão das circunstâncias do caso concreto.
+5.2. Incidência do óbice da Súmula 7/STJ, no que tange à pretensão de condenação da incorporadora ao pagamento de indenização por lucros cessantes durante o curto período do atraso na entrega da obra.
+5.3. Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal "a quo" (Súmula 211/STJ).
+5.4. Ausência de prequestionamento da questão referente à repetição em dobro dos valores da comissão de corretagem e do serviço de assessoria imobiliária. VI - RECURSOS ESPECIAIS DESPROVIDOS.
+(REsp n. 1.551.968/SP. Relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, DJe 6/9/2016. Sem grifo no original).
+Em razão da discordância com o recente entendimento da Terceira Turma desta Corte, o acórdão recorrido deve ser reformado no ponto.
+Relativamente à cobrança e a consequente devolução da comissão de corretagem pelas recorrentes, a Corte a quo assim entendeu (e-STJ, fls. 372-374):
+Respeitado o posicionamento adotado pela MMa Juíza de Primeiro Grau, cabível a restituição da taxa de corretagem.
+Primeiramente, temos que é questionável a existência de corretagem no presente caso. A principal função do corretor é a aproximação das partes. É a busca por interessados na concretização do negócio.
+"É possível afirmar que a qualificação da corretagem exige i) a atividade de uma pessoa (física ou jurídica, o corretor), com o desiderato de angariar interessados em celebrar um contrato com outra pessoa (física ou jurídica, também, que o contratou, o seu cliente) e ii) a efetiva aproximação entre as partes, decorrente da atuação do corretor"1 Estabelece o Código Civil:
+Art. 726. Iniciado e concluído o negócio diretamente entre as partes, nenhuma remuneração será devida ao corretor.
+De qualquer forma, ainda que se entenda pela efetiva prestação de serviço de corretagem, os vendedores-corretores foram contratados pelas rés, cabendo a ela arcar com os respectivos custos.
+É elucidativa a definição dada pelo Código Civil:
+Art. 722. Pelo contrato de corretagem, uma pessoa, não o) ligada a outra em virtude de mandato, de prestação de serviços ou por qualquer relação de dependência, obriga-se a obter para a segunda um ou mais negócios, conforme as instruções recebidas.
+Por ela é possível notar que a relação obrigacional existente no contrato de corretagem se estabelece entre o corretor e o comitente. Ou seja, entre aquele que contrata o serviço de corretagem e o corretor. O terceiro interessado no negócio, captado pelo corretor não faz parte da relação de corretagem.
+"Trata-se de alguém (corretor) que é contratado por uma pessoa (dono do negócio, cliente, incumbente ou comitente) para desenvolver atividades no sentido de localizar uma outra pessoa que tenha interesse direto em celebrar um determinado contrato (compra e venda, seguro, locação..).
+A função do corretor, portanto, é de aproximar pessoas, de construir contatos e pontes para celebração de determinados negócios. Dai porque usualmente é o comitente quem arca com o pagamento da comissão.
+Ensina o ilustre desembargador Antônio Carlos Mathias Coltro, na obra clássica "Contrato de Corretagem Imobiliária" 3a ed. São Paulo: Atlas, 2011, p. 161:
+"(..) normalmente, quem solicita a interferência do corretor é o vendedor do imóvel e, ao fazê-lo, assume a obrigação pelo pagamento da corretagem. O Código Civil em vigor não disciplina, de forma específica, a questão, sendo possível entender, contudo e por lógica interpretação dos arts. 722 ss, caber tal incumbência àquele que tenha contratado o corretor. Aliás, e no Ementário das decisões do conselho pleno do Creci de São Paulo 2º Região, pode-se verificar ementa de Processo Disciplinar em que consta o seguinte: "Pelo costume vigente, desde os primórdios do ano de 1970, por ocasião da aprovação do Regulamento na Mediação das Transações Imobiliárias, cabe ao vendedor arcar com os honorários devidos pela intermediação imobiliária concluída."" Portanto, mesmo que houvesse corretor no estande de vendas, estaria ele ligado às rés, agindo no interesse da fornecedora. A remuneração de eventual corretor deve ser paga por quem o contratou.
+Não há impedimento, é verdade, para que as partes livremente acordem em sentido contrário, ou seja, para que o comprador arque com os custos da corretagem. Mas, para isso, é preciso concordância expressa do adquirente.
+Vale ressaltar que, no presente caso, trata-se de relação de consumo, estabelecida por contrato de adesão, em que não houve possibilidade de alteração de suas cláusulas pelo consumidor. Impor ao consumidor os custos de corretagem, no momento da contratação de compra e venda de imóvel, é prática que fere o direito de escolha e cerceia a liberdade. Assim, as verbas cobradas a título de corretagem violam o Código de Defesa do Consumidor, por abusividade.
+Ademais, as informações não foram prestadas de forma correta, como reza o artigo 31, CPC. Também não foi respeitado direito básico do consumidor:
+Art. 6º São direitos básicos do consumidor:
+- a informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade e preço, bem como sobre os riscos que apresentem.
+Em suma, não é possível impor ao consumidor os custos desse serviço, que não foi por ele contratado e pelo qual não se beneficiou.
+Em verdade, os fatos noticiados nos autos traduzem a ocorrência de venda casada, prática vedada pelo Código de Defesa do Consumidor. A conduta adotada pela ré também fere o princípio da boa-fé objetiva na forma do art. 4º, inciso III, da Lei 8.078/90.
+Quanto ao tema, a Segunda Seção do STJ firmou, em recurso submetido ao rito dos recursos repetitivos, o entendimento de ser válida a cláusula contratual que transfere ao promitente comprador o ônus de pagar a comissão de corretagem nos contratos de promessa de compra e venda, desde que previamente informado do preço total do imóvel, com destaque para o valor da aludida comissão.
+A propósito:
+RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL E DO CONSUMIDOR. INCORPORAÇÃO IMOBILIÁRIA. VENDA DE UNIDADES AUTÔNOMAS EM ESTANDE DE VENDAS. CORRETAGEM. CLÁUSULA DE TRANSFERÊNCIA DA OBRIGAÇÃO AO CONSUMIDOR. VALIDADE. PREÇO TOTAL. DEVER DE INFORMAÇÃO. SERVIÇO DE ASSESSORIA TÉCNICO-IMOBILIÁRIA (SATI). ABUSIVIDADE DA COBRANÇA.
+I - TESE PARA OS FINS DO ART. 1.040 DO CPC/2015:
+1.1. Validade da cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem.
+1.2. Abusividade da cobrança pelo promitente-vendedor do serviço de assessoria técnico-imobiliária (SATI), ou atividade congênere, vinculado à celebração de promessa de compra e venda de imóvel.
+II - CASO CONCRETO:
+2.1. Improcedência do pedido de restituição da comissão de corretagem, tendo em vista a validade da cláusula prevista no contrato acerca da transferência desse encargo ao consumidor. Aplicação da tese 1.1.
+2.2. Abusividade da cobrança por serviço de assessoria imobiliária, mantendo-se a procedência do pedido de restituição. Aplicação da tese 1.2.
+III - RECURSO ESPECIAL PARCIALMENTE PROVIDO. (REsp 1599511/SP, Rel. Min. Paulo de Tarso Sanseverino, Segunda Seção, julgado em 24/08/2016, DJe 06/09/2016)
+Na hipótese dos autos, o Tribunal de origem consignou que nada constou do contrato acerca da contratação da comissão de corretagem e afastou a sua cobrança, tendo, portanto, adotado entendimento em consonância com a jurisprudência acima transcrita, incidindo a Súmula 83/STJ.
+Insta salientar, ainda, que, para verificar se houve ou não a expressa contratação do encargo, seriam imprescindíveis o reexame das provas e a interpretação do contrato, o que atrairia a incidência das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, dou parcial provimento ao recurso especial, apenas para afastar a condenação das rés ao pagamento de indenização por danos morais.
+Redimensiono os ônus sucumbenciais, devendo as recorrentes arcarem com 90% das custas processuais, e a parte recorrida com o restante, e fixo os honorários sucumbenciais em 15% sobre o valor da condenação, os quais deverão ser pagos aos patronos de ambas as partes naquela mesma proporção.
+Publique-se.
