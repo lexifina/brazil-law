@@ -1,0 +1,38 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. TORTURA. SEQUESTRO E CÁRCERE PRIVADO. ORGANIZAÇÃO CRIMINOSA. CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. INEVIDENTE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. Havendo fundamentação concreta para a manutenção da prisão preventiva, a evidenciar a necessidade da rigorosa providência, não há falar em substituição da custódia cautelar por medidas alternativas previstas no art. 319 do Código de Processo Penal.
+2. No caso, somado aos maus antecedentes, a periculosidade concreta do agente, revelada pelo modo como teria cometido o delito (o ora recorrente e outros dois corréus, na companhia de três adolescentes, amarraram a vítima e agrediram-lhe fisicamente, batendo sua cabeça, desferindo-lhe socos, chutes e joelhadas, por toda a madrugada), confere lastro de legitimidade à manutenção da medida extrema, pois revela a necessidade de se garantir a ordem pública.
+3. Recurso em habeas corpus improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso ordinário nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME] contra o acórdão proferido pelo Tribunal de Justiça de São Paulo no HC n. 2124731-78.2016.8.26.0000.
+Narram os autos que o recorrente foi preso em flagrante no dia 2/6/2016 pela prática, em tese, dos crimes de tortura, sequestro e cárcere privado, organização criminosa e corrupção de menores, tendo o Juízo de Direito da 1ª Vara da comarca de Ituverava/SP convertido a prisão em preventiva, ao fundamento da garantia da ordem pública (Autos n. 0001514-41.2016.8.26.0288).
+Inconformada, a defesa impetrou habeas corpus na origem. A Sexta Câmara de Direito Criminal, em 28/7/2016, denegou a ordem nos termos da seguinte ementa (fl. 124):
+Habeas Corpus. Crime de tortura, sequestro e cárcere privado, organização criminosa, e corrupção de menores. Revogação da prisão preventiva. Impossibilidade. Requisitos autorizadores presentes. Constrangimento ilegal não configurado. Ordem denegada.
+Aqui, reitera o recorrente, em síntese, a existência de constrangimento ilegal ante a falta de fundamentação idônea para a manutenção da prisão provisória.
+Aduz que a segregação cautelar se encontra fundamentada, apenas, na gravidade abstrata do crime.
+Postula, inclusive em liminar, o provimento do recurso para que seja revogada a prisão preventiva.
+Contrarrazões às fls. 154/155.
+Em 17/10/2016, indeferi o pedido liminar (fls. 164/165).
+O Ministério Público Federal opinou pelo não provimento do recurso (fl. 171):
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIMES DE TORTURA, SEQUESTRO, CÁRCERE PRIVADO E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. CONCURSO DE AGENTES, INCLUSIVE COM A PARTICIPAÇÃO DE ADOLESCENTES. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA PARA JUSTIFICAR A PRESERVAÇÃO DA CUSTÓDIA PARA GARANTIA DA ORDEM PÚBLICA. PARECER PELO DESPROVIMENTO DO RECURSO ORDINÁRIO.
+Conforme consulta realizada ao portal oficial do Tribunal local na internet, no dia 30/5/2018, ainda não houve prolação de sentença.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): É certo que custódia provisória é cabível mediante decisão devidamente fundamentada, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema nos termos do art. 312 e seguintes do Código de Processo Penal. No caso, diferentemente do que alega o recorrente, a prisão cautelar não está desprovida de fundamentação idônea.
+O Juízo de origem, ao converter a prisão em flagrante em preventiva, mencionando a periculosidade dos acusados, além dos maus antecedentes, destacou que o recorrente é integrante da organização criminosa PCC e que, na ocasião dos fatos ora analisados, [NOME] e outros dois corréus, na companhia de três adolescentes  ..  amarram a vítima e agrediram-lhe fisicamente, batendo sua cabeça, desferindo-lhe socos, chutes e joelhadas. Tais agressões perduraram por toda madrugada (fl. 10).
+O Tribunal local, por sua vez, ao denegar a ordem, entendeu que (fl. 129/130)
+ ..  não há que se falar em constrangimento ilegal quanto à manutenção da prisão preventiva que tem como base a prova da materialidade e os indícios de autoria, aliada à necessidade de garantir a ordem pública, demonstrada pelas circunstâncias específicas do caso, bem como à possibilidade real e concreta de continuidade da prática criminosa  ..
+Com efeito, pelo exposto acima, não há falar em falta de fundamentação concreta para manter a prisão preventiva, pois concluiu a instância ordinária pela necessidade de se garantir a ordem pública, destacando, além dos maus antecedentes, a periculosidade concreta do recorrente, revelada pelo modo como teria cometido o delito que lhe é imputado.
+Ora, já foi dito que,  ..  quando da maneira de execução do delito sobressair a extrema periculosidade do agente, abre-se ao decreto de prisão a possibilidade de estabelecer um vínculo funcional entre o "modus operandi" do suposto crime e a garantia da ordem pública" (HC n. 97.688/MG, Ministro Ayres Brito, Primeira Turma, DJe 27/11/2009).
+Ainda nesse sentido: RHC n. 65.283/BA, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 8/3/2016; e RHC n. 67.848/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 29/6/2016.
+Ademais, neste Tribunal Superior há a compreensão de que o histórico criminal do agente, a revelar fundado receio de reiteração na prática criminosa, autoriza, por si só, o decreto de prisão preventiva como forma de garantir a ordem pública nos termos do art. 312 do Código de Processo Penal (HC n. 327.626/SP, da minha relatoria, Sexta Turma, DJe 25/11/2015).
+E não é outra a opinião do Subprocurador-Geral da República, [NOME], cujo parecer acolho, também, como razão de decidir (fl. 172 - grifo nosso):
+ ..  A prisão preventiva foi decretada para a garantia da ordem pública e assegurar a aplicação da lei penal, considerando a gravidade concreta dos delitos, eis que o recorrente, integrante da organização criminosa denominada PCC (primeiro comando da capital), associou-se a outros dois acusados e mais três adolescentes para a prática de crimes.
+Observa-se que o acusado, em concurso de agentes, amarraram a vítima [NOME], no interior de sua residência, e passaram a agredí-la fisicamente, batendo em sua cabeça, desferindo-lhe socos, chutes e ajoelhadas, durante toda a madrugada, para fins de obter informações a respeito de traficantes, localização de drogas e pontos de venda de entorpecentes, segundo consta da denúncia.
+Registrou-se, ainda, no decreto prisional, que o recorrente possui maus antecedentes, e, compulsando os autos, vê-se que o recorrente já foi condenado pelo delito de tráfico de entorpecentes.
+Assim, entende-se que a prisão preventiva está devidamente fundamentada, sendo necessária a manutenção da medida para garantia da ordem pública, tendo a vista a periculosidade do acusado, evidenciada no modus operandi do delito, e a possível reiteração criminosa  ..
+Assim, tenho que ficou demonstrada a necessidade da prisão preventiva, não se revelando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
