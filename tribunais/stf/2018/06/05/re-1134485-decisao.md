@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. Atentem para o decidido na origem. O Tribunal Regional Federal da 4ª Região, confirmando o entendimento do Juízo, assentou, observada a legislação de regência, a impossibilidade de considerar como custo de aquisição de mercadorias obtidas para revenda, para fins de apuração de créditos das contribuições ao PIS e da COFINS, o valor correspondente ao Imposto sobre a Circulação de Mercadorias e Serviços – ICMS no regime de substituição tributária e no de antecipação. No extraordinário, cujo trânsito busca alcançar, a recorrente alega violados os artigos 150, § 7º e 195, inciso I, alínea “b” e § 12, da Constituição Federal. Diz ser inconstitucional negar o direito de compensação do crédito relativo ao ICMS com as contribuições em questão, na forma estabelecida nas Leis nº 10.637/2002 e nº 10.833/2003. Alega consubstanciada a indevida restrição ao direito constitucional de creditamento.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    […]
+    Como se vê, a Lei nº 9.718, de 1998, expressamente excluiu da base de cálculo do PIS e da COFINS, no regime cumulativo, os valores cobrados do adquirente da mercadoria - contribuinte substituído - pelo vendedor, a título de reembolso do ICMS recolhido por esse na condição de substituto tributário. Por outro lado, ainda que nas Leis nºs 10.637, de 2002, e 10.833, de 2003, não tenha igual previsão de exclusão desses valores da base de cálculo da contribuição ao PIS e da COFINS no regime não-cumulativo, essa previsão é desnecessária. É que o substituto tributário atua como mero agente repassador do tributo, e o valor que cobra do contribuinte substituído, quando a esse vende a mercadoria, não representa receita ou faturamento, mas mero reembolso pelo valor despendido a título de tributo recolhido na condição de responsável, em relação ao qual não é o contribuinte de direito.
+    […].
+    Em resumo, não tem o contribuinte o direito à dedução de crédito, no âmbito do regime não-cumulativo do PIS e da COFINS, dos valores pagos ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição, conforme a jurisprudência dominante deste Tribunal e do Superior Tribunal de Justiça, in verbis:
+    […].
+    Enfim, o mesmo entendimento se aplica em relação ao ICMS-Antecipação, que se diferencia do recolhimento pelo regime de substituição tributária 'para frente' apenas, basicamente, porque não há a transferência da responsabilidade pelo recolhimento do imposto a outro contribuinte, sendo o próprio contribuinte quem antecipa o valor do imposto devido pela sua própria operação de saída.
+    Também no caso do ICMS-Antecipação é descabido o creditamento pretendido, dessarte, porque (a) os valores de ICMS-Antecipação não representam custo de aquisição, mas sim encargo incidente na venda/revenda da mercadoria ao consumidor final, cujo pagamento foi antecipado; e ainda (b) tais valores não constituem receita/faturamento da pessoa jurídica da qual adquire as mercadorias.
+    O acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 5 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
