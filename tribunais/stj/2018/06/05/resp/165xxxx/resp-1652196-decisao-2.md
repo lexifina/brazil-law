@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de Agravo interposto, em 11/12/2014, por [NOME], de decisão que inadmitiu o Recurso Especial, manifestado com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco.
+Na decisão agravada, o Tribunal de origem negou seguimento ao Recurso Especial ao fundamento de que "foi interposto antes do esgotamento desta instância ordinária, eis que então se encontrava pendente de julgamento um recurso integrativo de embargos de declaração. Não tendo sido, ao depois, ratificado pelo recorrente" (fl. 2.346e).
+A insurgência não merece prosperar
+De início, cumpre destacar que a "Corte Especial do STJ, no julgamento da Questão de Ordem no REsp n. 1.129.215/DF, rel. Min. Luis Felipe Salomão, firmou o entendimento de que "a única interpretação cabível para o enunciado da Súmula 418 do STJ é aquela que prevê o ônus da ratificação do recurso interposto na pendência de embargos declaratórios apenas quando houver alteração na conclusão do julgamento anterior". (AgRg nos EAREsp 300.967/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe 20/11/2015)" (STJ, REsp 1.449.949/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2016).
+No caso, quando da apreciação dos Embargos de Declaração, opostos pelos corréus, não houve alteração do julgamento anterior, pelo que desnecessária, no caso, a ratificação, pelo agravante, das razões de seu Recurso Especial.
+Todavia, na presente data proferi decisão dando provimento ao Recurso Especial interposto por CLEMILDO DO NASCIMENTO TABOSA e CHRYSTIANNE BARBOSA TABOSA, "a fim de anular os acórdãos que julgaram os Embargos de Declaração, e determinar o retorno dos autos ao Tribunal de origem, para que profira nova decisão com a análise das alegações dos recorrentes".
+Assim, prejudicado o exame do presente Recurso Especial, pois com a anulação dos acórdãos de fls. 1.548/1.575e e 1.685/1.690e, os Embargos de Declaração opostos pelo agravante serão novamente apreciados.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+I.
