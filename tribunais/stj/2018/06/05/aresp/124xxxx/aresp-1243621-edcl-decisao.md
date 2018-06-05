@@ -1,0 +1,25 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por ENIT PROJETOS E CONSULTORIA LTDA contra a decisão de fls. 570/571, que não conheceu do recurso.
+Em suas razões, sustenta a parte Embargante, em síntese, que:
+"Considerando que a intimação do acórdão recorrido ocorreu em 11/04/2017 (terça-feira), e que o primeiro dia útil após a data de publicação deve ser considerado a da data 17/04/2017 (conforme próprio calendário 2017 - Superior Tribunal de Justiça) em decorrência dos feriados 12/04/2017 (quarta-feira santa), 13/04/2017 (quinta-feira santa), 14/04/2017 (sexta-feira Paixão de Cristo), 15/04/2017 (sábado) e 16/04/2017 (domingo).
+Assim temos como o primeiro dia útil a data 17/04/2017 (segunda-feira), o segundo dia útil a data 18/04/2017 (terça-feira), o terceiro dia útil a data 19/04/2017 (quarta-feira), o quarto dia útil a data 20/04/2017 (quinta-feira), sendo que a data 21/04/2017 foi feriado (Tiradentes), 22/04/2017 (sábado) e 23/04/2017 (domingo).
+Dando prosseguimento, temos o quinto dia útil a data 24/04/2017 (segunda-feira), o sexto dia útil a data 25/04/2017 (terça-feira), o sétimo dia útil a data 26/04/2017 (quarta-feira), o oitavo dia útil a data 27/04/2017(quinta-feira), o nono dia útil a data 28/04/2017 (sexta-feira), 29/04/2017 (sábado), 30/04/2017 (domingo).
+Considerando o feriado do dia do Trabalho na data 01/05/2017 (segunda-feira), temos como o décimo dia útil a data 02/05/2017 (terça-feira), o décimo primeiro dia útil a data 03/05/2017 (quarta-feira), o décimo segundo dia útil a data 04/05/2017 (quinta-feira), o décimo terceiro dia útil a data 05/05/2017 (sexta-feira), 06/05/2017 (sábado), 07/05/2017 (domingo), o décimo quarto dia útil a data 08/05/2017 (segunda-feira) e o décimo quinto dia útil a data 09/05/2017 (terça-feira), data do protocolo" (fl. 575).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Ressalte-se que, para fins de verificação da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o agravo e o recurso especial interpostos são endereçados ao presidente do tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local (AgRg no Ag 1.156.557, MG, Relator o Ministro Arnaldo Esteves Lima, Dje de 22.09.2010).
+Por sua vez, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que pretende seja conhecido por esta Corte, providência que não foi cumprida no caso, tanto na apresentação do agravo em recurso especial, quanto destes aclaratórios.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO. SUSPENSÃO DO PRAZO RECURSAL. NÃO COMPROVAÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+I. Nos termos da jurisprudência desta Corte, eventual suspensão do prazo recursal, decorrente de ausência de expediente ou de recesso forense, feriados locais, entre outros, deve ser comprovada, por ocasião da interposição do recurso, no Tribunal de origem.
+Precedentes do STJ.
+II. Na hipótese, não foi colacionado documento oficial ou certidão do Tribunal a quo, seja no Agravo em Recurso Especial, seja por ocasião da interposição do presente Agravo Regimental, comprovando a ausência de expediente forense, na origem, nos dias 16 e 17/04/2014, quarta e quinta-feiras, de forma a afastar a intempestividade do Agravo em Recurso Especial.
+III. Agravo Regimental improvido."
+(AgRg no AREsp 527.290/MG, 2ª Turma, Rel. Min. Assusete Magalhães, DJe de 22/8/2014).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
