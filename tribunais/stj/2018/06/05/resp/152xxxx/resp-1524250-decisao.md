@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região que, ao apreciar agravo regimental, manteve a inadmissão do primeiro apelo nobre, formulado às (e-STJ fls. 394/310).
+O referido aresto foi assim ementado (e-STJ fl. 338):
+AGRAVO REGIMENTAL. NEGATIVA DE SEGUIMENTO A RECURSO ESPECIAL. NO CASO DOS AUTOS, ALÉM DA DISCUSSÃO SOBRE A POSSIBILIDADE DO RECONHECIMENTO DA ATIVIDADE DE ELETRICISTA COMO ESPECIAL MESMO DEPOIS DA EDIÇÃO DO DECRETO 2.172/97, A DECISÃO CONSIDEROU A PRESTAÇÃO DO OFÍCIO EM CARÁTER PERMANENTE E NÃO INTERMITENTE, COMO SUSTENTA GENERICAMENTE A PARTE AGRAVANTE. PLENA ADEQUAÇÃO DA SITUAÇÃO VIVENCIADA AO PRECEDENTE ORIUNDO DO RESP 1.306.113 - SC, SUBMETIDO À SISTEMÁTICA DO ART. 543-C DO CPC. IMPROVIMENTO.
+Rejeitados os aclaratórios (e-STJ fls. 346/349).
+Nas suas razões, o recorrente aponta violação do art. 543-C, § 7º, I, do CPC/1973, sustentando que o caso dos autos diverge daquele objeto de julgamento no RESp n. 1.306.113-SC, pois nele havia apontado afronta ao art. 535 do CPC/73 e nova valoração da prova de exposição ao agente eletricidade em voltagem inferior a 250 v. Por sua vez, o citado representativo de controvérsia discutiu o reconhecimento do agente nocivo eletricidade após a edição do Decreto n. 2.172/1997.
+Sem contrarrazões (e-STJ fl. 319).
+Passo a decidir.
+De início, registro que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito tal esclarecimento, verifico que o Supremo Tribunal Federal, no julgamento da Questão de Ordem no Ag n. 760.358-7, assentou o entendimento de que o agravo interno para o Colegiado do Tribunal de origem é o único recurso cabível contra o juízo negativo de admissibilidade de recurso extraordinário sem repercussão geral, na forma do art. 543-B, § 2º, do Código de Processo Civil/1973.
+No âmbito deste Tribunal Superior, idêntica compreensão foi acolhida com respeito aos recursos especiais sobrestados devido à assunção de representativo de controvérsia (QO no Ag n. 1.154.599/SP, Rel. Ministro CESAR ASFOR ROCHA, CORTE ESPECIAL, julgado 16/2/2011, DJe 12/5/2011).
+Nesse contexto, mostra-se incabível o recurso especial em desafio a acórdão que mantém decisão em juízo negativo de apelo extremo, porquanto, na vigência do CPC de 1973, não havia previsão legal de cabimento de recurso ou de outro remédio processual.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. TEMA 405. REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO DECLARADO PREJUDICADO. RECURSO ESPECIAL EM QUE SE ALEGA VIOLAÇÃO DO ART. 543-B, § 2º, DO CPC. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE PREVISÃO LEGAL DE CABIMENTO DE RECURSO.
+1. A Corte Especial afirmou o entendimento de que são manifestamente incabíveis recursos direcionados à Suprema Corte, quando o Tribunal a quo aplica o instituto da repercussão geral, como na hipótese dos autos.
+2. É firme o entendimento desta Corte de que o único recurso cabível para impugnação sobre possíveis equívocos na aplicação do art. 543-B ou 543-C é o Agravo Interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual.
+3. Agravo Regimental do INSS desprovido (AgRg no AREsp 451.572/PR, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 01/04/2014) (Grifos acrescidos).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
