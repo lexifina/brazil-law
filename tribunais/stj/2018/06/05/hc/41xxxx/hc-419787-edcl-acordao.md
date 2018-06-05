@@ -1,0 +1,40 @@
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE. EXTINÇÃO DA PUNIBILIDADE. ALEGADA OMISSÃO. NÃO OCORRÊNCIA. SENTENÇA ANULADA. PENA EM ABSTRATO. PRAZO PRESCRICIONAL DE 8 ANOS. ART. 109, IV, DO CP. EMBARGOS REJEITADOS. TUTELA PROVISÓRIA PREJUDICADA.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. No caso em exame, a Quinta Turma concedeu a ordem para anular a Ação Penal a partir da decisão que deferiu a suspensão condicional do processo, incluindo, portanto, a sentença condenatória. Assim, o lapso temporal para se verificar a possível prescrição da pretensão punitiva deve ser regulado pelo máximo da pena privativa cominada ao crime, nos termos do art. 109, IV, do Código Penal, qual seja, 8 anos.
+3. Hipótese em que não se verifica a ocorrência da extinção da punibilidade, pois não transcorrido o prazo prescricional de 8 anos entre a data do recebimento da denúncia (9/6/2014) e a presente data (5/6/2018).
+4. Embargos de declaração rejeitados. Prejudicado o pleito de tutela provisória.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos e julgar prejudicado o pleito de tutela provisória. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de embargos de declaração opostos por [NOME] de julgado da Quinta Turma que acolheu os aclaratórios, em acórdão assim ementado:
+"PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE. PROCEDIMENTO COMUM SUMÁRIO. SUSPENSÃO CONDICIONAL DO PROCESSO DEFERIDA. RESPOSTA À ACUSAÇÃO. ART. 396-A DO CPP, COM A REDAÇÃO DADA PELA LEI N. 11.719/2008, E ART. 89 DA LEI N. 9.099/1995. NECESSIDADE DE EXAME. NULIDADE EVIDENCIADA. ERRO MATERIAL. EXISTÊNCIA. EMBARGOS ACOLHIDOS, COM EFEITOS INFRINGENTES. ORDEM CONCEDIDA DE OFÍCIO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. Narram os autos que o paciente, ora embargante, foi preso em flagrante no dia 18 de maio de 2014 e denunciado pela prática do crime previsto no art. 306, caput, do Código de Trânsito Brasileiro, cujas penas previstas são detenção de seis meses a três anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.
+3. Hipótese em que se verifica a existência de erro material no julgado, uma vez que o processo se desenvolveu sob o procedimento sumário.
+4. No caso em exame, o Juízo singular, sem que o paciente tivesse apresentado resposta à acusação, determinou audiência para propositura do sursis processual, o que se efetivou.
+5. No procedimento comum sumário, o exame da proposta de suspensão condicional do processo deve ser realizado em audiência específica designada exclusivamente para tal finalidade, depois de recebida a denúncia e afastadas as hipóteses de absolvição sumária, bem como antes da audiência de instrução e julgamento.
+6. Verifica-se nulidade apta a justificar a intervenção desta Corte, com a concessão da ordem, para que o Juízo singular examine a resposta à acusação, nos termos do art. 396-A do CPP e, se afastadas as hipóteses de absolvição sumária (art. 397 do CPP), designe audiência extraordinária para a realização da proposta de suspensão do processo.
+7. Embargos de declaração acolhidos, com efeitos infringentes, para, de ofício, conceder a ordem, a fim de anular a Ação Penal n. 0004788-65.2014.8.01.0001 a partir da decisão que deferiu a suspensão condicional do processo." (e-STJ, fls. 430-431).
+O embargante alega a existência de omissão no julgado, sob o argumento de que, ao acolher os anteriores embargos, a Quinta Turma "olvidou também declarar, ex offcio (CPP, art. 61) e como consequência direta da anulação, a extinção da punibilidade pela prescrição" (e-STJ, fl. 443).
+Sustenta, para tanto, que "entre o recebimento da denúncia (9/6/2014) e a presente data (30/5/2018) transcorreu o prazo prescricional de três anos previsto no art. 109, VI 2 do Código Penal para os casos, como aqui, cuja pena seja inferior a 1 (um) ano" (e-STJ, fl. 445).
+Requer, assim, o acolhimento dos embargos de declaração para declarar a extinção da punibilidade pela prescrição da pretensão punitiva, nos termos do art. 107, IV, c/c o art. 109, VI, ambos do Código Penal.
+Por meio da PET n. 00298.234/2018, a defesa postula tutela de urgência para atribuir efeito suspensivo aos presentes embargos, a fim de sobrestar o curso da ação penal até o seu julgamento.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE. EXTINÇÃO DA PUNIBILIDADE. ALEGADA OMISSÃO. NÃO OCORRÊNCIA. SENTENÇA ANULADA. PENA EM ABSTRATO. PRAZO PRESCRICIONAL DE 8 ANOS. ART. 109, IV, DO CP. EMBARGOS REJEITADOS. TUTELA PROVISÓRIA PREJUDICADA.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. No caso em exame, a Quinta Turma concedeu a ordem para anular a Ação Penal a partir da decisão que deferiu a suspensão condicional do processo, incluindo, portanto, a sentença condenatória. Assim, o lapso temporal para se verificar a possível prescrição da pretensão punitiva deve ser regulado pelo máximo da pena privativa cominada ao crime, nos termos do art. 109, IV, do Código Penal, qual seja, 8 anos.
+3. Hipótese em que não se verifica a ocorrência da extinção da punibilidade, pois não transcorrido o prazo prescricional de 8 anos entre a data do recebimento da denúncia (9/6/2014) e a presente data (5/6/2018).
+4. Embargos de declaração rejeitados. Prejudicado o pleito de tutela provisória.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A teor do art. 619 do Código Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte (EDcl no AgRg no AREsp 1.023.903/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1/8/2017).
+Razão não assiste ao embargante.
+Cumpre registrar, inicialmente, que a Quinta Turma concedeu a ordem para anular a Ação Penal n. 0004788-65.2014.8.01.0001 a partir da decisão que deferiu a suspensão condicional do processo, incluindo, portanto, a sentença condenatória. Assim, o lapso temporal para se verificar a possível prescrição da pretensão punitiva deve ser regulado pelo máximo da pena privativa cominada ao crime, nos termos do art. 109, IV, do Código Penal, qual seja, 8 anos.
+Nesse contexto, não se verifica a ocorrência da extinção da punibilidade, pois não transcorrido o prazo prescricional de 8 anos entre a data do recebimento da denúncia (9/6/2014) e a presente data (5/6/2018).
+Desse modo, os precedentes colacionados pelo embargante não se amoldam ao caso em exame, motivo pelo qual não há falar em omissão acerca da extinção da punibilidade pela ocorrência da prescrição.
+Por fim, eventual nova condenação e possível implemento da extinção da punibilidade deverá ser examinada pelo Juízo de primeiro grau, não cabendo a esta Corte antecipar-se sobre o tema, sob pena de indevida supressão de instância.
+Ante o exposto, rejeito os embargos de declaração. Em consequência, julgo prejudicado o pleito de tutela provisória.
+É como voto.
