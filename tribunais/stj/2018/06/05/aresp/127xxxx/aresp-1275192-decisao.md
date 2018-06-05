@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro que inadmitiu o seu apelo nobre.
+Consta dos autos que o agravante foi condenado nas sanções dos artigos 288, parágrafo único e art. 351, § 1.º, na forma do art. 69, todos do Código Penal, às penas de 7 (sete) anos de reclusão, em regime inicial fechado.
+Interposto recurso especial, este não foi admitido pela Instância de origem, ensejando a presente insurgência, na qual o recorrente sustenta que os óbices indicados na decisão objurgada não incidiriam na hipótese dos autos.
+Requerem o acolhimento do agravo a fim de que seja admitido o recurso especial.
+Parecer do Ministério Público Federal às e-STJ fls. 2989/2990.
+É o relatório.
+No recurso especial, suscitando contrariedade aos artigos 155, caput, e 203, ambos do Código de Processo Penal, a parte defende, em síntese, a sua absolvição, sob o argumento de que os depoimentos dos policiais não seriam meios de prova idôneos para firmar a sua condenação.
+Sobre a questão submetida ao crivo deste Sodalício, a Corte estadual destacou (e-STJ fls. 2409/2414):
+A materialidade e autoria delitivas restaram sobejamente demonstradas através do Inquérito Policial (doe. 20) e pela farta prova oral produzida em Juízo (does. 2.152, 2.171 e 2.188).
+Ao serem interrogados em Juízo, os apelantes reservaram-se ao direito de calar (doc. 2.188).
+Ocorre que a versão apresentada pela Defesa restou isolada diante das provas carreadas aos autos, não havendo dúvidas quanto à prática dos crimes de quadrilha armada e fuga de pessoa presa pelos recorrentes.
+(..)
+Frise-se que os policiais foram harmônicos e coerentes entre si, relatando em Juízo, detalhadamente, toda a dinâmica da ação criminosa perpetrada pelos apelantes, da mesma forma como já declarado anteriormente, em sede policial.
+O fato é que os apelantes e diversos integrantes da malta, armados de fuzis, empreenderam uma audaciosa e planejada invasão à 25ª Delegacia de Polícia, oportunidade em que renderam os agentes policiais que lá estavam, mediante grave ameaça de morte, e arrombaram o cadeado que trancava a cela em que o traficante DIOGO DE SOUZA FEITOZA (vulgo "DG") aguardava a formalização de sua prisão em flagrante, promovendo a sua fuga.
+Insofismável, ainda, que os apelantes integravam quadrilha armada que atua mediante o emprego de armas de fogo e explosivos e que está vinculada à facção criminosa "COMANDO VERMELHO", sendo especializada na prática de crimes contra o patrimônio e no auxílio aos seus componentes para se furtarem da aplicação da lei penal.
+Nesta perspectiva, note-se que ambos os recorrentes desempenhavam papel de destaque na súcia, eis que [NOME], vulgo "Leno", atuava como uma das lideranças criminosas do Jacarezinho, ao passo que [NOME], vulgo "[NOME]", era um dos emissários do traficante "[NOME]", do Comando Vermelho.
+Registre-se, assim, que não há qualquer indício de suspeição ou parcialidade dos agentes da lei, e nenhuma prova foi feita que elidisse suas declarações, que merecem total credibilidade.
+Neste aspecto, veja-se que os policiais civis ouvidos estavam em diferentes locais quando da empreitada criminosa, tendo cada um deles presenciado as diferentes atuações da súcia no desenvolvimento do resgate do traficante.
+Por isso os depoimentos dos agentes da lei se complementam e devem ser analisados no contexto do que presenciaram, dado que alguns estavam em um bar em frente à unidade policial, outros no interior da Delegacia e, também, em sua porta de entrada.
+Desta feita, não se pode exigir que todos os policiais civis apresentem versão totalmente idêntica sobre os fatos.
+A verdade é que os depoimentos das testemunhas de acusação refletem o que visualizaram sobre a ação delituosa, contendo as suas especificidades e impressões pessoais, sendo complementares e compatíveis entre si.
+Tais peculiaridades não se chocam a ponto de tirar a credibilidade que se deve conferir às declarações dos agentes da lei. Pequena divergência como a que houve nos depoimentos dos policiais, não macula a idoneidade das suas declarações.
+Ressalte-se, por oportuno, que ambos os apelantes foram reconhecidos em Juízo por agentes de Polícia Civil que presenciaram a invasão à unidade policial e o resgate do preso (does. 2.171 e 2.188).
+Inquestionável, portanto, que os depoimentos dos policiais comprovam a materialidade e autoria dos delitos tipificados, revestindo-se assim da necessária eficácia probatória.
+A já desgastada tentativa de desacreditar os depoimentos dos agentes da lei não procede, eis que os mesmos devem ser avaliados no contexto probatório em que inseridos, mas sem prevenção ou preconceito em razão de seu ofício. Até porque os policiais conhecem as conseqüências de calar ou falsear a verdade.
+(..)
+Vale ressaltar que a qualidade da prova oriunda de depoimento de policial somente deve ser afastada se comprovado que, por alguma razão efetivamente demonstrada nos autos, tal agente não merece qualquer crédito em seu depoimento, o que não ocorreu no caso em comento.
+Da leitura do excerto acima transcrito, observa-se que o Tribunal recorrido concluiu pela existência de provas suficientes para lastrear o édito condenatório, destacando os harmônicos depoimentos prestados pelos policiais, sob o crivo do contraditório, assentando, ainda, a inexistência de qualquer elemento hábil a desconstituir as narrativas das testemunhas.
+Nesse ponto, para se proceder à desconstituição do julgado por suposta ausência ou insuficiência de provas, no intuito de abrigar o pleito absolutório, seria necessário o revolvimento do acervo fático-probatório dos autos, o que não encontra espaço na via eleita por se tratar de procedimento exclusivo das instâncias ordinárias e vedado ao Superior Tribunal de Justiça no âmbito do recurso especial, a teor do disposto na Súmula n. 7 deste Sodalício.
+Note-se que "É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a embasar o decreto condenatório, ou a ensejar a absolvição" (AgRg no REsp 1512026/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 04/08/2015, DJe 17/08/2015).
+Nesse sentido:
+RECURSO ESPECIAL. TRÁFICO TRANSNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. PROVAS JUDICIAIS. ABSOLVIÇÃO. IMPOSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. CRIME PREVISTO NO ART. 35 DA LEI N. 11.343/2006. ESTABILIDADE E PERMANÊNCIA DA ASSOCIAÇÃO. PAPEL DE LIDERANÇA. AGRAVANTE CONFIGURADA. MAJORANTE DA TRANSNACIONALIDADE DO DELITO. CONTINUIDADE DELITIVA. FALTA DE INTERESSE DE AGIR.  ..
+6. As instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do recorrente tanto pelos crimes de tráfico de drogas quanto pelo de associação para o narcotráfico, de modo que, para entender-se pela sua absolvição em relação aos crimes que lhe foram imputados, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que esbarra na Súmula n. 7 do STJ.
+(..)
+(REsp 1302515/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/05/2016, DJe 17/05/2016)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ABSOLVIÇÃO. REEXAME DE PROVAS. CONDENAÇÃO LASTREADA EXCLUSIVAMENTE NAS PROVAS PRODUZIDAS NA FASE INVESTIGATÓRIA. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte de origem, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante a análise soberana do acervo fático-probatório dos autos, entendeu que restou devidamente comprovadas a autoria e a materialidade do crime. Nesse contexto, a absolvição dos acusados, baseada na insuficiência de provas, demandaria necessariamente nova análise do conjunto fático-probatório dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+(..)
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 1236166/ES, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 03/05/2018, DJe 11/05/2018)
+Ademais, nos termos da pacífica e iterativa jurisprudência desta Corte, o depoimento dos policiais prestados em juízo constitui elemento hábil à comprovação delitiva, mormente na espécie dos autos, em que, como assentado no aresto a quo, inexiste suspeita de imparcialidade dos agentes.
+ A propósito, vejam-se:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DA PROVA. ACESSO DA POLÍCIA ÀS MENSAGENS DE TEXTO TRANSMITIDAS POR TELEFONE CELULAR. AUTORIZAÇÃO DOS RÉUS. DEPOIMENTO DE POLICIAIS. MEIO DE PROVA IDÔNEO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO IMPROVIDO.
+(..)
+2. O depoimento dos policiais prestado em juízo constitui meio de prova idôneo a respaldar a condenação, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, fato que não ocorreu na hipótese.
+3. Agravo regimental improvido. (AgRg no HC 391.080/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. PRETENDIDA ABSOLVIÇÃO. PALAVRA DE POLICIAIS. PROVA PARA A CONDENAÇÃO. VALIDADE. INSUFICIÊNCIA DO ACERVO PROBATÓRIO. INVIABILIDADE DE ANÁLISE NA VIA ESTREITA DO HABEAS CORPUS. WRIT NÃO CONHECIDO.
+(..)
+II - O depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, o que não ocorreu no presente caso. Precedentes.
+(..)
+Habeas corpus não conhecido. (HC 404.507/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/04/2018, DJe 18/04/2018)
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO INTERESTADUAL DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE INIDONEIDADE DAS PROVAS QUE ENSEJARAM A CONDENAÇÃO. TESTEMUNHAS POLICIAIS CORROBORADAS POR OUTROS ELEMENTOS DE PROVA. AUSÊNCIA DE ILEGALIDADE. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI Nº 11.343/06. INCOMPATIBILIDADE. CONDENAÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. DIREITO DE RECORRER EM LIBERDADE. INSTRUÇÃO DEFICIENTE. HABEAS CORPUS NÃO CONHECIDO. (..)
+3. É assente nesta Corte o entendimento no sentido de que o depoimento dos policiais prestado em juízo constitui meio de prova idôneo a resultar na condenação do paciente, notadamente quando ausente qualquer dúvida sobre a imparcialidade das testemunhas, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, fato que não ocorreu no presente caso (HC 165.561/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 15/02/2016). Súmula nº 568/STJ.
+(..)
+8. Habeas corpus não conhecido. (HC 393.516/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/06/2017, DJe 30/06/2017)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. CONDENAÇÃO BASEADA EM TESTEMUNHOS POLICIAIS. (I) NÃO INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DE DIVERGÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. (II) ACÓRDÃO RECORRIDO DE ACORDO COM O ENTENDIMENTO DO STJ. SÚMULA 568/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+(..)
+2. É assente nesta Corte o entendimento no sentido de que "O depoimento dos policiais prestado em juízo constitui meio de prova idôneo a resultar na condenação do paciente, notadamente quando ausente qualquer dúvida sobre a imparcialidade das testemunhas, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, fato que não ocorreu no presente caso" (HC 165.561/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 15/02/2016). Súmula nº 568/STJ.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 1054663/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/03/2017, DJe 04/04/2017)
+Desse modo, evidenciado que o aresto objurgado está em consonância com jurisprudência firmada neste Sodalício, a pretensão do agravante esbarra no óbice previsto no Enunciado n.º 83 da Súmula deste Tribunal Superior, também aplicável ao recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+Por tais razões, afigurando-se inadmissível o apelo nobre, conhece-se do agravo para não conhecer o recurso especial, nos termos do artigo 34, VII, combinado com o artigo 253, parágrafo único, inciso II, alínea a, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intime-se.
+Cientifique-se o Ministério Público Federal.
