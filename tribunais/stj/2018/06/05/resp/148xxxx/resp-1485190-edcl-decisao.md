@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO FEDERAL. MAGISTÉRIO. REAJUSTE DE 28,86%. MP 1.0704/1998. LIMITAÇÃO TEMPORAL DE INCIDÊNCIA DO ÍNDICE DE REAJUSTE. JANEIRO DE 1993 À MAIO DE 1998. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA INTEGRAÇÃO DO JULGADO.
+DECISÃO
+Trata-se de embargos de declaração opostos pela Associação dos Docentes da Universidade Federal de Pernambuco - ADUFEPE em face de decisão monocrática de minha relatoria, cuja ementa é a seguinte:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. AUSÊNCIA DE OMISSÕES. ALEGAÇÕES GENÉRICAS. FUNDAMENTAÇÃO DEFICIENTE. SÚM. N. 284/STF. VIOLAÇÃO DE COISA JULGADA. EXAME DE PROVAS. IMPOSSIBILIDADE. SÚM. N. 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+A embargante alega, em síntese, que a decisão foi obscura pois, a despeito de entender devido o reajuste de 28,86% sobre vantagem percebida pelo exercício de cargo em comissão ou função gratificada, não analisou a impossibilidade de limitação após junho de 1998.
+Requer o acolhimento dos embargos.
+Sem impugnação.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Assiste razão a parte embargante.
+Os embargos de declaração merecem ser acolhidos, na medida em que não houve manifestação na decisão de fls. 637/641-e, acerca da alegação de impossibilidade de limitação da incidência do reajuste apenas até junho de 1998, a qual passo a analisar.
+É cediço nesta Corte que, reconhecido no título judicial exequendo o direito ao reajuste de 28,86% sobre os vencimentos, o índice deve incidir sobre a vantagem paga pelo exercício de cargo em comissão e de função gratificada incorporada a título de quintos ou décimos, de natureza permanente, sobretudo porque a própria Medida Provisória n. 2.169-43/2001 (reedição da Medida Provisória n. 1.704/98), que tratou da extensão administrativa das diferenças de 28,86%, elencou a hipótese de incidência do reajuste sobre as funções comissionadas, no período de 1º/1/1993 a 4/5/1998, para os servidores das Instituições Federais de Ensino, nos seguintes termos:
+Art. 5º Os ocupantes dos Cargos de Direção e das Funções Gratificadas, níveis 1, 2, 3, 4, 5 e 6, das Instituições Federais de Ensino farão jus ao percentual a que se refere o art. 1º desta Medida Provisória, aplicado sobre os valores efetivamente pagos a partir de 1º de janeiro de 1993 até 4 de maio de 1998.
+Nesse sentido, vale conferir os seguintes precedentes:
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO FEDERAL. MAGISTÉRIO. ÍNDICE DE 28,86%. VENCIMENTOS E REMUNERAÇÃO. FUNÇÃO GRATIFICADA. OFENSA À COISA JULGADA.
+1. Cuida-se de controvérsia sobre o pagamento do reajuste de 28,86%, retroativos, por função gratificada, a servidora pública federal da carreira do magistério federal de 1º e 2º graus. O Tribunal de origem entendeu que somente uma função gratificada incorporada seria objeto de incidência.
+2. Aplicável ao caso idêntico entendimento de que "deve incidir não somente sobre o vencimento básico do servidor, mas também sobre a vantagem paga pelo exercício de cargo em comissão e de função gratificada, bem como sobre as vantagens pessoais incorporadas a tal título, por se cuidarem de vantagens de natureza permanente que, por isso mesmo, compõem os vencimentos" (AgRg no REsp 908.241/PR, Rel. Min. Hamilton Carvalhido, Sexta Turma, DJ 10.9.2007, p. 334).
+3. Ademais, a própria Medida Provisória n. 2.169/2001, oriunda da conversão da MP n. 1.704/98, que tratou da extensão administrativa dos 28,86%, indicou o caso da recorrente como devido, no seu art. 5º; ao que fica evidente a infração à coisa julgada.
+Recurso especial provido.
+(REsp 1224920/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 22/03/2011, DJe 11/04/2011)
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO FEDERAL. MAGISTÉRIO. ÍNDICE DE 28,86%. VENCIMENTOS E REMUNERAÇÃO. FUNÇÃO GRATIFICADA. COISA JULGADA.
+1. É cediço nesta Corte que reconhecido no título judicial exequendo o direito ao reajuste de 28,86% sobre os vencimentos, o índice deve incidir sobre a vantagem paga pelo exercício de cargo em comissão e de função gratificada incorporada a título de quintos ou décimos, de natureza permanente, sobretudo porque a própria Medida Provisória n. 2.169-43/2001 (reedição da Medida Provisória n. 1.704/98), que tratou da extensão administrativa das diferenças de 28,86%, elencou a hipótese de incidência do reajuste sobre as funções comissionadas, no período de 1º/1/1993 a 4/5/1998, para os servidores das Instituições Federais de Ensino. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no REsp 1289032/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/02/2013, DJe 14/02/2013)
+PROCESSUAL E CIVIL E ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO FEDERAL. MAGISTÉRIO. ÍNDICE DE 28,86%. VENCIMENTOS E REMUNERAÇÃO. FUNÇÃO GRATIFICADA. SÚMULA 83/STJ. COISA JULGADA. SÚMULA 7/STJ.
+1. É cediço no STJ que, reconhecido no título judicial exequendo o direito ao reajuste de 28,86% sobre os vencimentos, o índice deve incidir sobre a vantagem paga pelo exercício de cargo em comissão e de função gratificada incorporada a título de quintos ou décimos, de natureza permanente, sobretudo porque a própria Medida Provisória 2.169-43/2001 (reedição da Medida Provisória n. 1.704/1998), que tratou da extensão administrativa das diferenças de 28,86%, elencou a hipótese de incidência do reajuste sobre as funções comissionadas, no período de 1º/1/1993 a 4/5/1998, para os servidores das Instituições Federais de Ensino.
+2. Modificar o acórdão recorrido quanto à coisa julgada e à preclusão, como pretende o recorrente, demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte em vista do óbice da Súmula 7/STJ.
+3. Recurso Especial não provido.
+(REsp 1697911/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/11/2017, DJe 19/12/2017)
+Ante o exposto, acolho os embargos de declaração para integralizar a decisão embargada, nos termos da fundamentação.
+Publique-se. Intimem-se.
