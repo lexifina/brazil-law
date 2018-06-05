@@ -1,0 +1,55 @@
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. REJEIÇÃO DA INICIAL. ART. 17, § 8º, DA LEI 8.429/92. SUFICIÊNCIA PROBATÓRIA PARA O FIM DE AFERIR A INEXISTÊNCIA DE ATO ÍMPROBO OU A IMPROCEDÊNCIA DA AÇÃO. REVISÃO. SÚMULA 7/STJ. PRECEDENTES.
+1. Recurso especial em que se discute a existência de indícios da prática de atos de improbidade administrativa para o recebimento da inicial da ação civil pública.
+2. Hipótese em que a Corte de origem assentou inexistentes indícios da prática de ato de improbidade administrativa. Rever tal entendimento demandaria reexame do conjunto fático-probatório, inviável em sede de recurso especial, nos termos da súmula 7/STJ. Precedentes: AgRg no AREsp 492385/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 10/06/2015; AgRg no REsp 1.342.973/SC, Rel. Min. Og Fernandes, Segunda Turma, DJe 13/12/2017.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por maioria, vencidos os Srs. Ministros Sérgio Kukina e Gurgel de Faria, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente) e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de Agravo Interno interposto em face da decisão que negou seguimento ao Recurso Especial, assim ementada (e-STJ 337):
+ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. REJEIÇÃO DA INICIAL. ART. 17, § 8º, DA LEI 8.429/92. SUFICIÊNCIA PROBATÓRIA PARA O FIM DE AFERIR A INEXISTÊNCIA DE ATO ÍMPROBO OU A IMPROCEDÊNCIA DA AÇÃO. REVISÃO. SÚMULA 7/STJ. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+Em suas razões, o Ministério Público Federal alega a existência de indícios de conduta improba devendo a ação de improbidade administrativa ser recebida e processada. Pugna pela inaplicabilidade da Súmula 7/STJ.
+Sem impugnação.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. REJEIÇÃO DA INICIAL. ART. 17, § 8º, DA LEI 8.429/92. SUFICIÊNCIA PROBATÓRIA PARA O FIM DE AFERIR A INEXISTÊNCIA DE ATO ÍMPROBO OU A IMPROCEDÊNCIA DA AÇÃO. REVISÃO. SÚMULA 7/STJ. PRECEDENTES.
+1. Recurso especial em que se discute a existência de indícios da prática de atos de improbidade administrativa para o recebimento da inicial da ação civil pública.
+2. Hipótese em que a Corte de origem assentou inexistentes indícios da prática de ato de improbidade administrativa. Rever tal entendimento demandaria reexame do conjunto fático-probatório, inviável em sede de recurso especial, nos termos da súmula 7/STJ. Precedentes: AgRg no AREsp 492385/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 10/06/2015; AgRg no REsp 1.342.973/SC, Rel. Min. Og Fernandes, Segunda Turma, DJe 13/12/2017.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): O recurso não merece prosperar.
+Com efeito, quanto a suposta pratica de ato de improbidade e a rejeição da ação de improbidade administrativa, assentou a Corte de origem (fls. 239/240- grifo nosso):
+ ..
+Entretanto, em que pese todas essas irregularidades expostas, o caso, claramente, não concerne à prática de ato ímprobo pelo ex-gestor da municipalidade, e sim se mostra como evidente ineficiência em sua atuação, como Prefeito da edilidade referida, haja.vista, que nenhum" ambiente dã área beneficiada com -"a ampliação foi concluído e disponibilizado à população; mesmo com a existência de verbas, além de não ter resolvido questões pertinentes ao desdobramento da obra, entre outras situações que demonstram certa inépcia por parte do agravante. - - Ademais; não se verifica, na hipótese, a existência de qualquer enriquecimento ilícito por parte do ex-gestor, seja porque não resta comprovado que este se apropriou dos valores repassados a título do convênio supramencionado, seja porque inexiste evidência de, que ele tenha beneficiado indevidamente outrem com as ,referidas verbas transferidas pelo Fundo Nacional de Saúde, razão pela qual, em princípio, merece reproche a decisão agravada, para não receber a peça exordial da ação civil pública por ato de improbidade administrativa.
+ ..
+No ponto, constata-se que o Tribunal a quo baseou-se nas provas dos autos, fundamentando suficientemente a inexistência de pratica de atos de improbidade e a respectiva rejeição da ação de improbidade, rever tal entendimento, demandaria o reexame dos fatos e provas, o que é vedado em face da Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. REJEIÇÃO DA INICIAL. ARTIGO 17, §§ 6º, 7º E 8º DA LEI N. 8.429/1992. ACÓRDÃO RECORRIDO FUNDADO NA INEXISTÊNCIA DE INDÍCIOS PARA O RECEBIMENTO DA INICIAL. REEXAME. IMPOSSIBILIDADE. NECESSIDADE DE REVISÃO DE FATOS E PROVAS. SÚMULA N. 7 DO STJ.
+1. Recurso especial em que se discute a existência de indícios da prática de atos de improbidade administrativa para o recebimento da inicial da ação civil pública.
+2. Hipótese em que a Corte de origem assentou inexistentes indícios da prática de ato de improbidade administrativa. Rever tal entendimento demandaria reexame do conjunto fático-probatório, inviável em sede de recurso especial, nos termos da súmula 7/STJ.
+3. Agravo regimental não provido (AgRg no AREsp 492385/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 10/06/2015, grifo nosso).
+ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. LICITAÇÃO - MODALIDADE CONVITE. OBSERVÂNCIA DOS REQUISITOS LEGAIS. REJEIÇÃO DA PETIÇÃO INICIAL. INEXISTÊNCIA DO ATO DE IMPROBIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. Em observância ao princípio do in dubio pro societate, a petição inicial da ação civil pública só será rejeitada quando constatada a "inexistência do ato de improbidade, a improcedência da ação ou a inadequação da via eleita".
+2. Hipótese em que a instância ordinária - soberana na apreciação da matéria fático-probatória - concluiu pela inexistência do ato de improbidade face à manifesta legalidade no procedimento licitatório realizado pelo município.
+3. A prova documental demonstrou que: (i) o valor do bem adquirido pela prefeitura admite a realização de licitação na modalidade convite; (ii) foi encaminhado o número mínimo de convites estabelecido na legislação e (iii) a documentação apresentada pela empresa vencedora não continha qualquer irregularidade.
+4. A reforma do acórdão recorrido, quanto à existência dos indícios da prática do ato de improbidade, demandaria o reexame do substrato fático-probatório dos autos, o que é inviável no âmbito do recurso especial, a teor do disposto na Súmula 7/STJ.
+5. Agravo regimental desprovido (AgRg no AREsp 544361/SP, Rel. Min. Marga Tessler, Primeira Turma, DJe 13/03/2015, grifo nosso).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE IMPROBIDADE. REJEIÇÃO DA INICIAL DETERMINADA PELAS INSTÂNCIAS ORDINÁRIAS. REANÁLISE SÚMULAS 7/STJ E 280/STF.
+1. As instâncias ordinárias - de plano - concluíram, com base na interpretação de lei local e ainda na análise dos elementos probatórios coligidos aos autos, que o ato praticado estaria desprovido de dolo e má-fé aptos a alicerçar a propositura da ação de improbidade manejada pelo Parquet.
+2. Para modificar tal entendimento e concluir pela presença dos elementos subjetivos e indiciários mínimos para a propositura da ação e, por conseguinte afastar as hipóteses de rejeição da inicial previstas no art. 17, § 8º, da Lei n. 8.429/1992, seria imprescindível o reexame das provas constantes dos autos, bem como a análise da legislação municipal que embasou a concessão das diárias (Lei Municipal n. 3.650/2001). Tais medidas são vedadas em recurso especial ante o que preceitua a Súmula 7/STJ e 280/STF.
+3. Agravo interno a que se nega provimento (AgRg no REsp 1.342.973/SC, Rel. Min. Og Fernandes, Segunda Turma, DJe 13/12/2017, grifo nosso).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
+VOTO-VENCIDO
+O SENHOR MINISTRO SÉRGIO KUKINA: No presente caso, a ação inicial da ação de improbidade vem calcada no argumento de que o Município de Quixadá/RN, do qual o réu era prefeito à época, teria recebido pelo menos duas parcelas relativas a um convênio, cuja verba se destinava à ampliação do hospital da cidade. Entretanto, por razões várias, essa ampliação acabou não acontecendo, principalmente, porque a empresa construtora que havia sido vitoriosa na licitação argumentou que passaria no local da ampliação uma tubulação da Companhia de Água e Esgoto do Ceará - Cagece. Então, esse foi um dos impedimentos que acabou gerando alguma burocracia e, ao cabo de tudo, o convênio acabou rompido, o que motivou a propositura da ação de improbidade.
+De acordo com o eminente Relator, o Tribunal de origem entendeu que era caso de se rejeitar a inicial da ação de improbidade, porque não teria havido favorecimento pecuniário, nem enriquecimento ilícito. Demais disso, o TRF argumentou que, pelo acervo probatório, estaria muito evidente de que a obra não foi adiante por conta de descuido, de inaptidão, de negligência do então prefeito. Portanto, sua conduta teria sido culposa.
+Ocorre que, na petição inicial da ação de improbidade, a tipificação da conduta está exatamente no art. 10 inciso X: dano ao erário. O que diz o art. 10 no seu inciso X  "Agir negligentemente..". Portanto, a hipótese em exame é um caso típico em que se admite o enquadramento no art. 10 exatamente na forma culposa.
+E fato é que só se admite a forma culposa exatamente na hipótese do art. 10. Nas hipóteses dos arts. 9º e 11, só a conduta dolosa enseja a propositura da ação de improbidade.
+Nesse contexto, a meu sentir, não é o caso de se rejeitar a inicial, porque a imputação é exatamente de uma conduta culposa do gestor. E, no entanto, o Tribunal reformou a decisão de primeiro grau, por entender que está evidente que a conduta do prefeito foi culposa.
+Entendo que, se a imputação fosse de cometimento de uma conduta dolosa e o Tribunal reconhecesse que teria havido no máximo uma culpa, até poder-se-ia objetar com a aplicação da Súmula 7.
+Mas, ao que parece, o Tribunal de origem não se atentou para a circunstância de que a imputação veio fincada no inciso X do art. 10, que é exatamente uma hipótese clássica de conduta ímproba culposa. Assim, o equacionamento jurídico da controvérsia não reclama o reexame de fatos ou provas. Com efeito, o juízo que se impõe restringe-se ao enquadramento jurídico, ou seja, à consequência que o Direito atribui aos fatos e provas, tal como delineados pelas instâncias ordinárias.
+Em suma, a partir do quadro fático incontroverso, entendo que o recebimento da exordial da ação de improbidade é medida que se impõe.
+Peço vênia para divergir do eminente Relator e dar provimento ao agravo interno.
+É como voto.
