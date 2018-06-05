@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. PERCENTUAL DE CONTRIBUIÇÃO DOS PARTICIPANTES. ENTIDADE DE PREVIDÊNCIA PRIVADA. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA 563 DO STJ. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Fundação Petrobras de Seguridade Social Petros, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 691):
+APELAÇÃO CÍVEL. PREVIDÊNCIA COMPLEMENTAR. FUNDAÇÃO PETROS. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. NOVO REGIME DE CONTRIBUIÇÃO PREVIDENCIÁRIA QUE IMPLICOU EM MAJORAÇÃO DO PERCENTUAL DE CONTRIBUIÇÃO. AUSÊNCIA DE CONCORDÂNCIA EXPRESSA DO AUTOR. IMPOSSIBILIDADE. PRESCRIÇÃO QÜINQÜENAL. SÚMULA nº 291 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRESTAÇÕES DE TRATO SUCESSIVO CUJA PRESCRIÇÃO NÃO ATINGE O FUNDO DE DIREITO. COBRANÇA DO PERCENTUAL PRETÉRITO DE 11% E A DEVOLUÇÃO SIMPLES DOS VALORES COBRADOS A MAIOR. PREDEDENTES DESTA E. CORTE. REFORMA DA SENTENÇA. PROVIMENTO DO RECURSO. UNÂNIME.
+Na origem, consta dos autos que os autores ajuizaram ação ordinária contra a Fundação Petrobras de Seguridade Social Petros objetivando a revisão de sua aposentadoria, alegando que sofreram perdas em virtude de alterações implementadas por novo regulamento.
+O Juízo singular julgou improcedente o pedido, extinguindo o feito com fundamento no art. 269, I, do CPC/1973, condenando os autores ao pagamento das custas processuais e honorários advocatícios fixados em 10% (dez por cento) sobre o valor da causa (e-STJ, fls. 581-583).
+O Tribunal de Justiça deu parcial provimento à apelação dos autores para reconhecer a prescrição da pretensão relativamente às prestações pagas anteriormente ao quinquênio que antecedeu o ajuizamento da ação; condenar a ré a proceder à cobrança da contribuição na base de 11% (onze por cento) do salário de participação dos autores e a restituir, de forma simples, o valor pago a maior a partir da propositura da demanda, corrigido monetariamente e acrescido de juros legais desde cada pagamento indevido (e-STJ, fls. 690-697).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 744-747).
+Nas razões do recurso especial (e-STJ, fls. 758-771), a recorrente alegou violação aos arts. 1º, 13, § 1º, 17 e 21 da Lei Complementar n. 109/2001.
+Sustentou, em síntese, que a modificação no regulamento foi fundamentada em estudos de impacto atuarial em respeito à constituição de reservas, afirmando que todos os beneficiários do plano foram cientificados do aumento.
+Ressaltou que o resultado deficitário nos planos ou nas entidades fechadas deve ser equacionado por patrocinadores, participantes e assistidos.
+Discorreu sobre a inaplicabilidade do Código de Defesa do Consumidor às relações que envolvam entidades fechadas de previdência complementar, citando a edição da Súmula n. 563 do STJ.
+Postulou, ao final, a anulação do acórdão recorrido, "com a consequente remessa dos autos à Câmara de Origem para que a matéria objeto de violação possa ser de fato apreciada" (e-STJ, fl. 771), ou a reversão do decisum, julgando-se totalmente improcedentes os pedidos autorais.
+A decisão da Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro deixou de admitir o recurso especial por incidência das Súmulas 284 do STF; e 5 e 7 do STJ (e-STJ, fls. 794-796).
+Foi interposto agravo em recurso especial às fls. 805-811 (e-STJ), e contraminuta apresentada às fls. 846-855 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Consoante se denota das razões do acórdão, o Tribunal de origem balizou a solução da controvérsia na aplicação do Código de Defesa do Consumidor, ao assim consignar (e-STJ, fls. 692-697):
+ Por outro lado, o silêncio do consumidor não pode ser interpretado como manifestação de vontade, sobretudo quando significa aumento de contribuição, com relevante impacto financeiro sobre sua remuneração.
+ A interpretação do silêncio, nos termos do artigo 111 do Código Civil, deve se dar com base nos costumes estabelecidos entre os contratantes, bem como nas circunstâncias em que as manifestações de vontade tácitas teriam ocorrido.
+ Na hipótese, o silêncio de uma das partes, notadamente do consumidor, não pode modificar o contrato, sobretudo majorando o valor da contribuição mensal pelo participante.
+ Há clara e inequívoca necessidade de manifestação de vontade expressa, sem a qual o silêncio representa ausência de vontade.
+ ..
+ Diante disso há procedência do pedido, devendo a ré restituir, na forma simples, as contribuições pessoais pagas a maior pelo Autor.
+Contudo, o entendimento adotado pelo acórdão, de que seria aplicável o Código do Consumidor à presente lide, não encontra respaldo na jurisprudência atual desta Corte.
+Consolidando o mais recente entendimento do Tribunal sobre tal questão, a Segunda Seção do Superior Tribunal de Justiça aprovou a edição da Súmula 563, que preceitua que "o Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas".
+Assim, não deve subsistir o acórdão recorrido, tendo em conta a impossibilidade de aplicação do Código de Defesa do Consumidor à relação jurídica mantida entre a entidade fechada de previdência privada e seus participantes.
+Em razão da necessidade de devolução dos autos à Corte local para reexaminar a apelação dos autores, fica prejudicada a análise das demais matérias delineadas no apelo extremo.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial a fim de determinar o retorno dos autos ao Tribunal de origem para que aprecie novamente a apelação interposta pelos ora recorridos, com base no direito aplicável à espécie, afastada a incidência da legislação consumerista.
+Publique-se.
