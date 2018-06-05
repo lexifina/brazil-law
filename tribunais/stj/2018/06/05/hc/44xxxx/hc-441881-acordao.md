@@ -1,0 +1,53 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. ORDEM DENEGADA.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. A imposição da constrição cautelar baseou-se na quantidade e na forma de acondicionamento das drogas, além da apreensão de petrechos utilizados para sua comercialização, dados que reforçam os indícios de dedicação continuada dos acusados a tal prática
+3. Por idênticas razões, as demais medidas cautelares não se prestariam a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. Ordem denegada.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, denegar a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro e Sebastião Reis Júnior votaram com o Sr. Ministro Relator. Ausente, justificadamente, a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+[NOME], [NOME] SABINO BASSANI, LUCAS MANOEL LEMES CAVALHEIRO e RAPHAEL CARLOS FERREIRA PINTO, pacientes neste habeas corpus, estariam sofrendo coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou o HC n. 2247537-81.2017.8.26.0000.
+Consta dos autos que, em 11/12/2017, os pacientes foram presos em flagrante e, posteriormente, tiveram a custódia convertida em preventiva pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. Isso porque foram surpreendidos na posse de 454 porções de cocaína, com peso de 172,44 g, para entrega ao consumo de terceiros.
+A impetrante sustenta a ocorrência de constrangimento ilegal, ao argumento de que "a autoridade de primeiro grau não indicou nenhum elemento fático concreto, no caso dos pacientes, no sentido de que havia provas de que a sua liberdade realmente pudesse afetar a ordem pública, instrução criminal, etc" (fl. 4). Assere, ainda, que tal decisão foi chancelada pelo Tribunal de origem, que, ao denegar a ordem, não apontou nenhum fundamento concreto para manter a segregação cautelar dos pacientes. Ao final, ressalta a primariedade e os bons antecedentes dos acusados.
+Requer, liminarmente, a expedição de alvará de soltura em favor dos réus, e, no mérito, a revogação de suas prisões preventivas.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. ORDEM DENEGADA.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. A imposição da constrição cautelar baseou-se na quantidade e na forma de acondicionamento das drogas, além da apreensão de petrechos utilizados para sua comercialização, dados que reforçam os indícios de dedicação continuada dos acusados a tal prática
+3. Por idênticas razões, as demais medidas cautelares não se prestariam a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. Ordem denegada.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Ao convolar a prisão em flagrante dos pacientes em preventiva, assim consignou o Magistrado quanto à necessidade da medida extrema:
+ ..
+E no caso em exame, os indiciados foram surpreendidos na posse de várias porções tóxicos, inclusive havendo a apreensão de material para seu preparo e embalagem, isto conforme o relato dos guardas municipais responsáveis por suas prisões. Logo, percebe-se a ofensa que causa à ordem pública a concessão de liberdade provisória para quem se vê acusado de tão grave delito, sobretudo considerando os antecedentes do acusado [NOME], inclusive com condenação pelo crime de furto, ficando assim claramente demonstrado seu perfil voltado ao crime. Portanto, sendo regular a manutenção da prisão processual, justificável para garantia da ordem pública, inexistem motivos para sua revogação. Anote-se ainda que a decretação da prisão preventiva é adequada à gravidade do crime de tráfico. E efetivamente inadequadas as demais medidas cautelares, pois comparecimentos periódicos em Juízo não se coadunam com a acusação de prática de crime grave, havendo ofensa à aplicação da lei penal e à própria instrução criminal. Quanto à proibição de acesso ou frequência a determinados lugares, de ausência da Comarca ou recolhimento domiciliar, são medidas de difícil fiscalização e de fácil descumprimento, também não se ajustando à finalidade precípua das medidas cautelares, ou seja, garantia à aplicação da lei penal e à escorreita instrução criminal. A respeito do monitoramento eletrônico do réu ou indiciado, desconhecida a disponibilização de tal aparelhamento do Juízo, bem como quem será responsável por tal monitoramento, ainda mais sendo conhecida a penúria do quadro pessoal dos serventuários da Justiça (fl. 75).
+A Corte local, ao denegar a ordem, registrou o seguinte:
+Quanto à autoria, guardas municipais foram informados que uma pessoa tinha ingressado na residência com drogas. Dirigiram-se ao local e no interior do imóvel se depararam com os ora pacientes. No chão do quarto, encontraram 454 flaconetes contendo cocaína (172,44g), diversos flaconetes vazios e embalagens plásticas destinadas ao acondicionamento da droga, cerca de 291,8g de pó branco não identificado, comumente utilizado para misturar à cocaína e aumentar seu volume, balança de precisão, além de um liquidificador, uma vasilha plástica, um prato e uma colher com resquícios de pó branco.
+ ..
+Diversamente do alegado pelo impetrante, a decisão que decretou a prisão preventiva não se baseou apenas na gravidade abstrata do crime, mas sim nas características do caso concreto, mais especificamente a apreensão de considerável quantidade de droga e petrechos destinados ao tráfico.
+Imperiosa, portanto, a necessidade da segregação cautelar como forma de garantia da ordem pública.
+Nesse contexto, mostram-se insuficientes a aplicação das medidas cautelares alternativas ao cárcere previstas no artigo 319 do Código de Processo Penal.
+Ademais, ressalto que as condições subjetivas dos pacientes, por si sós, não afastam a decretação da prisão cautelar quando presentes seus requisitos legais (fls. 71-72, destaquei).
+Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão dos ora pacientes, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação dos acusados.
+Pela leitura dos excertos acima transcritos, observo que a imposição da constrição cautelar se baseou na quantidade e na forma de acondicionamento das drogas, além da apreensão de petrechos utilizados para sua comercialização, dados que reforçam os indícios da sua dedicação continuada dos réus a tal prática. Ficou, ainda, registrada a condenação do paciente [NOME] por crime de furto, a reforçar o risco de reiteração delitiva.
+Ilustrativamente:
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. ORDEM DENEGADA.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art.
+312, ambos do Código de Processo Penal.
+2. A negativa do direito de recorrer em liberdade foi baseada no fundado risco de reiteração delitiva, ao afirmar que o paciente é conhecido no meio policial pelo comércio habitual de entorpecentes. Além disso, ao converter a prisão em flagrante em custódia preventiva, o Juízo singular havia mencionado a quantidade e a forma de acondicionamento das drogas, além da apreensão de petrechos utilizados para a sua comercialização, dados que reforçam os indícios de sua dedicação continuada a tal prática.
+3. Por idênticas razões, as demais medidas cautelares não se prestariam a evitar o cometimento de novas infrações penais (art.
+282, I, do Código de Processo Penal).
+4. Ordem denegada.
+(HC n. 438.821/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 11/5/2018, grifei)
+Concluo, portanto, haver motivos suficientes para justificar a prisão preventiva dos réus, ante o fundado risco de reiteração delitiva.
+De igual modo, evidenciado o risco de reiteração na conduta criminosa, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal).
+Nesse sentido:
+ ..
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada no risco concreto de que o acusado, uma vez posto em liberdade, volte a delinquir.
+Precedentes.
+5. Recurso ordinário improvido.
+(RHC n. 95.544/PA, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 2/4/2018, destaquei)
+À vista do exposto, denego a ordem.
