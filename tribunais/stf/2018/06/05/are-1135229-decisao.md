@@ -1,0 +1,20 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Primeira Turma do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “VOTO DO RELATOR – APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA – SERVIDOR ESTADUAL VISA OBTER ISENÇÃO PARCIAL DA CONTRIBUIÇÃO PREVIDENCIÁRIA EM DECORRÊNCIA DE MOLÉSTIA GRAVE – Julgada procedente a ação. Recurso da SPPREV, alegando que a isenção não se aplica aos policiais militares; que interpretação da lei foi contrária à Constituição e Leis Ordinárias. Voto do Relator, no sentido de que o parágrafo 21, do artigo 40, da Constituição Federal, não faz, para a concessão do benefício, qualquer distinção entre servidores civis e militares. Negaram provimento ao recurso, VU”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 40, § 20; e 42, § 1º, da CF. Sustenta que a imunidade parcial da contribuição previdenciária não se estende aos militares e seus dependentes, aplicando-se tão somente aos servidores públicos civis.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[…]
+    O STF tem decidido de maneira reiterada no sentido da impossibilidade de admissão de Recurso Extraordinário contra decisões do Juizado Especial, quando a questão tiver sido decidida à luz de legislação infraconstitucional e eventual violação de dispositivos constitucionais só tiver ocorrido de maneira reflexa ou indireta, tal como ocorre no caso presente. Neste sentido:
+    […]
+    Assim, em razão da ausência dos requisitos de admissibilidade, NEGO SEGUIMENTO ao recurso extraordinário”.
+    A pretensão recursal não merece prosperar. O Tribunal de origem, com base no acervo fático-probatório e na legislação infraconstitucional aplicável (Lei Complementar estadual nº 1.012/2007 e Decreto nº 52.859/2008), decidiu que a parte ora recorrida faz jus à imunidade parcial do recolhimento da contribuição previdenciária, visto ser portador de doença incapacitante.
+    Para dissentir das conclusões do acórdão recorrido, seria imprescindível o reexame da legislação infraconstitucional local e do acervo probatório dos autos, providência vedada em recurso extraordinário. A hipótese atrai a incidência das Súmulas 279 e 280/STF. Confiram-se os julgados:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279/STF. 1. Não é possível, em recurso extraordinário, reexaminar a legislação infraconstitucional aplicada ao caso, bem como analisar o acervo fático-probatório dos autos. 2. Agravo regimental desprovido.” (RE 660.911-AgR, Rel. Min. Ayres Britto).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ISENÇÃO DE IMPOSTO
+    DE RENDA. PORTADOR DE MOLÉSTIA GRAVE. DECLARAÇÃO DE INCONSTITUCIONALIDADE. INOCORRÊNCIA. NECESSIDADE DE REEXAME DE PROVAS E DA LEGISLAÇÃO CORRELATA. O acórdão recorrido consignou expressamente o atendimento aos requisitos necessários para a contribuinte usufruir do benefício fiscal concedido em favor de portadores de moléstias graves. Dessa forma, o acolhimento da pretensão demandaria o reexame das provas e da legislação infraconstitucional pertinente. Mostram-se aplicáveis ao caso as Súmulas 279/STF e 280/STF. Agravo regimental a que se nega provimento.” (ARE 785.110-AgR, de minha relatoria)
+    No mesmo sentido, as seguintes decisões monocráticas: ARE 1.061.529, Rel. Min. Luiz Fux; ARE 1.071.181, Rel. Min. Dias Toffoli; e ARE 1.102.336, Rel. Min. Alexandre de Moraes.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 05 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
