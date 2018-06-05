@@ -1,0 +1,21 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE. INCIDÊNCIA. NÃO OCORRÊNCIA. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. FUNDAMENTOS CONCRETOS A AFASTAR A APLICAÇÃO DO REDUTOR. REGIME FECHADO. LEGALIDADE E PROPORCIONALIDADE.
+Petição inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo.
+Narram os autos que o paciente foi condenado, como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, em regime fechado e, 500 dias-multa (fls. 213/219 - Processo n. 0001769-92.2016.8.26.0548).
+Irresignada, a defesa recorreu, tendo o Tribunal de Justiça negado provimento à apelação defensiva, mantendo incólumes os termos da sentença condenatória (fls. 289/312 - Apelação criminal n. 0001769-92.2016.8.26.0548).
+Daí a presente impetração, em que se alega constrangimento ilegal quanto a não incidência da minorante do § 4º do art. 33 da Lei n. 11.343/2006, bem como a fixação de regime mais gravoso para o início de cumprimento da pena.
+Postula-se, então, a concessão liminar da ordem para o fim de que lhe sejam concedidos a redução do artigo 33, parágrafo 4º da lei de drogas e o regime inicial aberto para cumprimento da reprimenda, expedindo-se, por consequência, com urgência, o alvará de soltura clausulado (fl. 15).
+É o relatório.
+Extrai-se do acórdão impugnado (fls. 296/297/298):
+ ..  A incidência de tal minorante está condicionada ao preenchimento cumulativo dos requisitos legais, quais sejam, primariedade, bons antecedentes e que o agente não se dedique a atividades criminosas, nem integre organização criminosa.
+E o apelante esbarra nestes últimos itens, por conta da prova circunstancial entranhada no processo, a evidenciar que sua conduta ultrapassa a do mero traficante eventual, ocasional, este sim destinatário do benefício legal.
+Ora, não comprovou o desempenho de trabalho lícito. Com ele auferiria renda legal e, por tabela, teria comprado coisa defesa com dinheiro de boa origem. Mas aqui não é o que acontece. Não há explicação de como teria conseguido renda para adquirir os estupefacientes. Senão com o desempenho da mercancia ilícita.
+Não bastasse isso, variedades e quantidades excessivas, como as dos presentes autos (um total de 253 porções), são denotadoras de que o agente, para ter acesso a elas, incorporou-se à organização criminosa, critério jurisprudencial encontrável tanto no Col. Supremo Tribunal Federal (RHC 117.867/MG rel. Min. Luiz Fux j. 22.10.2013), quanto no E. STJ (AgRg no AREsp 359.220/MG rel. Min. Maria Thereza de Assis Moura j. 3.9.2013 e AgRg no AREsp 180.580/MG mesma rel. j. 7.3.2013).
+Note-se que o Tribunal de Justiça, corroborando o entendimento do magistrado de piso, afastou as insurgências defensivas e, manteve a decisão que afastou a minorante do § 4º do art. 33 da Lei n. 11.343/2006, pautando-se em dados concretos para afirmar que o ora paciente se dedicava a atividades criminosas, razão pela qual, inadmissível a concessão da causa de diminuição da pena.
+Nesse cenário, este Superior Tribunal de Justiça firmou entendimento segundo o qual, em observância ao disposto no art. 33, § 4º, da Lei n. 11.343/2006, que havendo demonstração de que o paciente se dedica à atividade criminosa, mostra-se inaplicável a minorante em questão (AgRg no AREsp 1052340/SC, Sexta Turma, Ministro Rogerio Schietti Cruz, DJe 11/05/2017).
+Ademais, alcançar conclusão inversa, demandaria o exame do conjunto probatório dos autos, providência inviável na via estreita do habeas corpus, carente de dilação probatória.
+Quanto ao regime prisional, razão, também, não socorre à defesa, eis que fixado em virtude da natureza, diversidade e quantidade das substâncias entorpecentes apreendidas e, in casu, temos: 9,6g de "Cannabis sativa L.", acondicionadas em 08 invólucros de plástico; a quantia de 60,6g de cocaína, acondicionadas em 166 microtubos de plástico; a quantia de 19,4g de cocaína, na forma de "crack", acondicionadas em 79 invólucros de plástico (fl. 213) (grifo nosso). Nesse sentido: AgRg no AgRg no AREsp 1166871/SP, Quinta Turma, Ministro Reynaldo Soares da Fonseca, DJe 25/04/2018.
+Ante o exposto, com fulcro no art. 34, XVIIII, a, do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
