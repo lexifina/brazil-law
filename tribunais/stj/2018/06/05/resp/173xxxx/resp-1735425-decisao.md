@@ -1,0 +1,44 @@
+DECISÃO
+[NOME] interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0043168-14.2014.8.26.0050).
+O recorrente foi condenado às penas de 23 anos e 4 meses de reclusão, em regime inicial fechado, e 11 dias-multa, pela prática do crime previsto no art. 157, § 3º, segunda parte, c/c o art. 29, ambos do Código Penal. A sentença foi mantida, na íntegra, pelo Tribunal a quo, ao negar provimento à apelação criminal interposta pela defesa.
+Nas razões de recurso especial, a defesa alega ofensa aos arts. 59 e 65, III, "d", do Código Penal, ao argumento de que a pena-base foi majorada sem a devida motivação concreta e que a confissão espontânea não foi reconhecida.
+Requer, desse modo, o provimento do recurso, a fim de que seja reconhecida a atenuante da confissão e reduzida a pena-base ao mínimo legal.
+Apresentadas as contrarrazões (fls. 760-765) e admitido o recurso (fl. 768), veio o parecer do Ministério Público Federal (fls. 790-793), que opinou pelo não conhecimento ou pelo desprovimento do recurso.
+Decido.
+O recurso é tempestivo e preenche os demais requisitos de admissibilidade.
+I. Pena-base
+No que tange à pretendida redução da pena-base imposta ao recorrente, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto, cumprindo-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não deve se furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; e comportamento da vítima.
+As instâncias ordinárias, na primeira etapa da dosimetria, consideraram negativas as circunstâncias do crime.
+Para tanto, o Juízo singular assim consignou:
+Na primeira fase aplico as penas acima do mínimo legal, no patamar de 23 anos e 04 meses de reclusão e pagamento de 11 dias-multa, considerando as circunstâncias de que se revestiu o caso concreto, em especial pela personalidade violenta e deturpada dos réus, que mataram a vítima com requintes de crueldade, desferindo-lhe um tiro a queima-roupas com arma de calibre restrito, na região frontal da cabeça, demonstrando profundo desvalor pela vida humana.
+Destaco ainda a frieza de [NOME], que compareceu no dia seguinte aos fatos ao local e afirmou ter visto agentes estranhos no local, na nítida intenção de despistar a investigação policial (fls. 549-550, destaquei).
+O Tribunal local manteve o aumento da pena-base em 1/6 pela ponderação negativa das circunstâncias, ao argumento de evidenciada frieza na execução do bárbaro crime (fl. 27)
+Em relação a essa vetorial não verifico a ocorrência de constrangimento ilegal, pois foi destacado que o latrocínio foi cometido por dois agentes, que dispararam tiro "a queima-roupas" na região frontal da cabeça da vítima. Ressalte-se que o recorrente retornou ao local após os fatos, com a intenção de atrapalhar as investigações. A superioridade numérica, a capacidade de reação reduzida da vítima e a frieza, a meu ver, exacerbada empregada para o resultado morte evidenciam, de maneira idônea, a maior gravidade do crime.
+Ilustrativamente:
+ ..
+2. Deve ser reconhecida a ilegalidade na individualização da pena, em relação à culpabilidade, pois foi registrado, apenas, o desprezo do paciente pelo bem jurídico tutelado, fundamento genérico e aplicável a todo sujeito ativo do crime de latrocínio, que não demonstra o elevado grau de censurabilidade da conduta ante o contexto do crime praticado.
+3. Quanto às vetoriais motivos e circunstâncias do crime, não há ilegalidade a ser reconhecida neste writ, pois o julgador registrou que: o agente praticou o latrocínio para "efetuar a compra de substância entorpecente"; o crime foi cometido por três agentes; a vítima estava embriagada e foi alvejada com pedras na cabeça, antes de ser atingida com três tiros. Tais elementos evidenciam a desprezível finalidade do crime e a especial reprovabilidade do agir, ante a desmedida violência empregada para o resultado morte.
+4. Ordem não conhecida. Habeas corpus concedido, de ofício, para redimensionar a pena-base do paciente e fixar a pena definitiva em 20 anos, 7 meses e 10 dias de reclusão.
+(HC n. 218.220/MS, Rel. Ministro Rogerio Schietti Cruz, 6ª T., Dje 3/8/2015)
+ ..
+2. No caso, o acórdão recorrido se firmou em fundamentos suficientes e idôneos para exasperar a pena-base, valorando negativamente a culpabilidade e as circunstâncias do delito. Com efeito, a Corte estadual explicitou a maior reprovabilidade na conduta do agravante, uma vez que esse atuou com extrema frieza em relação à vítima. Além disso, as circunstâncias foram consideradas desfavoráveis, tendo em vista o modo de execução do crime e a superioridade numérica de quatro acusados em desfavor de um sujeito passivo.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 982.992/TO, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., Dje 8/3/2018)
+II. Confissão espontânea
+O Magistrado singular afastou a incidência da confissão, tendo em vista que os réus confessaram "somente a intenção de praticarem um roubo" (fl. 550, destaquei).
+O Tribunal local, ao corroborar o pensamento acerca da confissão externado pelo Magistrado de primeiro grau, disse ser inviável acolher o pleito, pois a versão apresentada "não acarretou qualquer colaboração para apuração dos fatos" e "não pode ser aproveitada como atenuante genérica" (fl. 712)
+Nesse cenário, entendo que as instâncias ordinárias agiram de forma contrária à assente jurisprudência desta Corte Superior, de que: "Se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no artigo 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação" (HC n. 289.943/SP, de minha relatoria, 6ª T., DJe 4/8/2014).
+No mesmo sentido: "Se a confissão do réu, ainda que parcial ou retratada, for utilizada pelo magistrado para fundamentar a condenação, deve incidir a respectiva atenuante" (HC n. 246.940/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 24/4/2014).
+Logo, a confissão realizada foi utilizada para corroborar o acervo probatório e fundamentar a condenação, devendo incidir a atenuante prevista no art. 65, III, "d", do Código Penal. São os termos da Súmula n. 545 do STJ, verbis: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+III. Readequação da pena
+Reconhecida a ilegalidade na segunda fase da dosimetria, passo à readequação da pena.
+Na primeira fase, mantida a exasperação da pena-base pela valoração negativa das circunstâncias, a reprimenda é fixada em 23 anos e 4 meses de reclusão mais 11 dias-multa. Na segunda fase, reconhecida a confissão espontânea, a reprimenda é reduzida para 20 anos de reclusão mais 10 dias-multa. Na terceira etapa, ausentes causas de aumento e de diminuição, a sanção e estabelecida, definitivamente, em 20 anos de reclusão mais 10 dias-multa.
+IV. Execução imediata da pena
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+V. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou parcial provimento ao recurso especial, a fim de reconhecer a violação do art. 65, III, "d", do Código Penal e reduzir a pena do recorrente para 20 anos de reclusão mais 10 dias-multa.
+Por fim, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena imposta. A determinação deve ser desconsiderada caso o recorrente já cumpra a reprimenda.
+Publique-se e intimem-se.
