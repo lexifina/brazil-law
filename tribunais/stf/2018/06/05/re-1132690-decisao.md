@@ -1,0 +1,15 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região.
+    No apelo extremo, com amparo no art. 102, III, a, da Constituição Federal, o recorrente alega que o acórdão recorrido violou dispositivos constitucionais, pois entendeu que a taxa de juros deve ser fixada pelo índice da caderneta de poupança a partir de junho de 2009, nos termos do art. 5º da Lei 11.960/2009 que deu nova redação ao art. 1º-F da Lei 9.494/1997 (fls. 280, e-STJ, Evento 19, Vol. 1).
+    É o relatório. Decido.
+    Não assiste razão à recorrente. O Tribunal de origem decidiu que os juros são devidos (..) “a contar de 01/07/2009, por força da Lei 11.960/2009 (...), no mesmo percentual dos juros incidentes sobre a caderneta de poupança (fl. 264, e-STJ, Evento 14, Vol. 1).
+    Esse entendimento está em consonância com o que foi decidido no RE 870.947-RG (Rel. Min. LUIZ FUX, Tema 810), julgado sob a sistemática da repercussão geral, onde se assentou que “quanto às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09”. Confira-se a tese fixada nesse paradigma:
+    “O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídico-tributária, aos quais devem ser aplicados os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito tributário, em respeito ao princípio constitucional da isonomia (CRFB, art. 5º, caput); quanto às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09; e 2) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida.” (grifo nosso)
+    Tratando-se o presente caso de execução de sentença em que se reconheceu o direito a benefício previdenciário, não se tratando de relação jurídica tributária, o acórdão recorrido não diverge da orientação acima destacada.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 5 de junho de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
