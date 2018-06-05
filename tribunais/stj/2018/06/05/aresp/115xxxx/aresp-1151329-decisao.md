@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA DOLORES CAPOLLA DA ROSA contra decisão do Tribunal de Justiça do Rio Grande do Sul, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 106):
+APELAÇÃO CÍVEL. MEIO AMBIENTE. SAÚDE PÚBLICA. MUNICÍPIO DE GRAVATAÍ. AÇÃO COMINATÓRIA. INSTALAÇÃO DE FOSSA SÉPTICA, FILTRO ANAERÓBICO OU BIOLÓGICO E SUMIDOURO. RESPONSABILIDADE DO PARTICULAR. AGRAVO RETIDO. PROVA PERICIAL.
+1. Agravo retido. Desnecessidade da prova pericial requerida. Indeferimento pelo Julgador. Decisão confirmada.
+2. Apelação. De acordo com legislação federal, estadual e municipal acerca da matéria, é do particular a responsabilidade pela ligação de seu esgoto à rede pública, sendo vedado o lançamento sanitário in natura e a céu aberto ou mesmo nas redes pluviais, em atenção à saúde pública e proteção do meio ambiente. Quando o Município não contar com rede pública coletora, é responsabilidade do particular a instalação de fosse séptica, filtro anaeróbico ou biológico e sumidouro. Precedentes.
+RECURSOS DESPROVIDOS.
+No especial obstaculizado, a parte agravante aponta violação do art. 330, I, do CPC/1973. Para tanto, sustenta que houve cerceamento de defesa, em razão do julgamento antecipado da lide.
+Depois de contra-arrazoado (e-STJ fls. 128/130), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que incide a Súmula n. 7 do STJ (e-STJ fls. 133/138).
+Na presente irresignação, a agravante alega, em resumo, que o recurso obstado atende aos pressupostos de admissibilidade, bem como que o Tribunal a quo usurpou da competência do STJ. Ao final, reitera os argumentos anteriormente expendidos.
+Contraminuta às e-STJ fls. 160/161.
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Isso considerado, verifico que a irresignação recursal não merece prosperar.
+Com efeito, observo que a jurisprudência desta Corte Superior é firme no sentido de que a decisão do Tribunal de origem de admissibilidade do recurso especial não vincula o Superior Tribunal de Justiça, o qual procederá a um novo juízo de admissibilidade, uma vez que é competência exclusiva desta Casa a análise definitiva de admissibilidade do recurso. Nesse sentido: AgRg no AREsp 570.216/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 05/04/2017.
+Por outro lado, esta Corte Superior tem o entendimento de que o julgamento antecipado da lide, por si só, não caracteriza cerceamento de defesa, já que cabe ao magistrado apreciar livremente as provas dos autos, indeferindo aquelas que considere inúteis ou meramente protelatórias (AgRg no AREsp 420.011/DF, Rel. Ministro Sidnei Beneti, Terceira Turma, DJe 10/12/2013).
+Cita-se, ainda, no mesmo sentido:
+DIREITO ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÕES GENÉRICAS. ARGUMENTOS GENÉRICOS QUE NÃO INFIRMAM A DECISÃO AGRAVADA. SÚMULAS 182/STJ E 284/STF. PROVA TESTEMUNHAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA. EXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A utilização de argumentos genéricos incapazes de infirmar de forma clara e precisa os fundamentos da decisão agravada atraem o óbice das Súmulas 182/STJ e 284/STF.
+2. Admite-se o julgamento antecipado da lide, sem a produção de outras provas requeridas pelas partes, quando o julgador ordinário considera suficiente a instrução do processo. Impossibilidade de aferir se a prova requerida era ou não imprescindível, diante da necessidade de incursão ao contexto fático-probatório dos autos.
+Incidência da Súmula 7/STJ (AgRg no AREsp 423.978/DF, Rel. Min. ELIANA CALMON, Segunda Turma, DJe 18/12/13).
+3. Agravo regimental não provido. (AgRg no AREsp 349.870/SE, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe 18/02/2014)
+Dessa orientação não divergiu o Tribunal de origem, de modo que inexiste ensejo para o acolhimento do recurso (e-STJ fl. 108).
+Por fim, destaca-se que "o STJ possui entendimento de que a avaliação quanto à necessidade e à suficiência ou não das provas, para autorizar o julgamento antecipado da lide e averiguar eventual cerceamento de defesa, demanda, em regra, incursão no acervo fático-probatório dos autos e encontra óbice na Súmula 7/STJ" (REsp 1612296/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/08/2016, DJe 13/09/2016).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
