@@ -1,0 +1,80 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. REPARAÇÃO DE DANOS MORAIS. MINORAÇÃO DO VALOR ARBITRADO. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. É procedente a alegação de violação ao artigo 485, V, do CPC/73, vez que verificada a ofensa ao direito em tese, ou seja, existente a vulneração aberrante aos artigos de lei apontados na ação rescisória.Isso porque o caso ora em exame não revela nenhuma excepcionalidade a ponto de justificar o arbitramento da indenização no valor fixado nas instâncias de origem, qual seja, 200 salários mínimos vigentes à época do proferimento da sentença.
+2. A jurisprudência desta Corte Superior possui entendimento uniforme no sentido de que a inscrição/manutenção indevida do nome do devedor no cadastro de inadimplentes enseja o dano moral in re ipsa, ou seja, dano vinculado a própria existência do ato ilícito, cujos resultados são presumidos.
+3. A jurisprudência do STJ é firme ao proclamar que a revisão de indenização por danos morais só é possível em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade. Ausentes tais hipóteses, incide a Súmula 7 do STJ, a impedir o conhecimento do recurso. Entretanto, no presente caso, a quantia indenizatória fixada pela Corte de piso escapa à razoabilidade e se distancia dos parâmetros adotados por este Tribunal Superior, que preleciona ser razoável a condenação em até o equivalente a 50 (cinqüenta) salários mínimos por indenização decorrente de inscrição indevida em órgãos de proteção ao crédito (REsp 295.130/SP, Relator Ministro Humberto Gomes de Barros, DJ 04/04/2005).
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1.Trata-se de agravo interno interposto por TERESINHA MEDEIROS ALENCAR DA SILVEIRA em face de decisão deste Relator de fls. 1319-1326, que deu provimento ao recurso especial interposto pelo agravado.
+Nas razões recursais, a parte agravante sustenta, em síntese: a) que os requisitos de admissibilidade e juízo de mérito do ARESP não foram especificamente impugnados pelo agravante, incidindo a Súmula 182 do STJ; b) O improvimento do Recurso Especial, seja porque incabível Ação Rescisória nesse caso, seja pela ausência de literal disposição de lei, seja porque respeitado os princípios da proporcionalidade e razoabilidade; c) a majoração do valor arbitrado na indenização.
+Requer o conhecimento e provimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. REPARAÇÃO DE DANOS MORAIS. MINORAÇÃO DO VALOR ARBITRADO. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. É procedente a alegação de violação ao artigo 485, V, do CPC/73, vez que verificada a ofensa ao direito em tese, ou seja, existente a vulneração aberrante aos artigos de lei apontados na ação rescisória.Isso porque o caso ora em exame não revela nenhuma excepcionalidade a ponto de justificar o arbitramento da indenização no valor fixado nas instâncias de origem, qual seja, 200 salários mínimos vigentes à época do proferimento da sentença.
+2. A jurisprudência desta Corte Superior possui entendimento uniforme no sentido de que a inscrição/manutenção indevida do nome do devedor no cadastro de inadimplentes enseja o dano moral in re ipsa, ou seja, dano vinculado a própria existência do ato ilícito, cujos resultados são presumidos.
+3. A jurisprudência do STJ é firme ao proclamar que a revisão de indenização por danos morais só é possível em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade. Ausentes tais hipóteses, incide a Súmula 7 do STJ, a impedir o conhecimento do recurso. Entretanto, no presente caso, a quantia indenizatória fixada pela Corte de piso escapa à razoabilidade e se distancia dos parâmetros adotados por este Tribunal Superior, que preleciona ser razoável a condenação em até o equivalente a 50 (cinqüenta) salários mínimos por indenização decorrente de inscrição indevida em órgãos de proteção ao crédito (REsp 295.130/SP, Relator Ministro Humberto Gomes de Barros, DJ 04/04/2005).
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Conforme consignado na decisão monocrática de minha Relatoria (fls. 1319-1326), é procedente a alegação de violação ao artigo 485, V, do CPC/73, feito pelo agravado, uma vez que verificada a ofensa ao direito em tese, ou seja, existente a vulneração aberrante aos artigos de lei apontados na ação rescisória.Isso porque o caso ora em exame não revela nenhuma excepcionalidade a ponto de justificar o arbitramento da indenização no valor fixado nas instâncias de origem, qual seja, 200 salários mínimos vigentes à época do proferimento da sentença.
+Nesse sentido:
+DIREITO TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AFRONTA AO ART. 475 DO CPC. PRINCÍPIO DO NON REFORMATIO IN PEJUS EM REMESSA OBRIGATÓRIA. AÇÃO RESCISÓRIA. CABIMENTO. EMBARGOS DE DIVERGÊNCIA REJEITADOS.
+1. O fundamento para o ajuizamento da ação rescisória, mormente aquele previsto no inciso V do art. 485 do CPC - violação de literal disposição de lei -, é de tipificação estrita, em respeito à estabilidade das relações jurídicas acobertadas pela coisa julgada, visando a paz social.
+2. A interpretação restrita do art. 485, V, do CPC não importa em sua interpretação literal, sob pena de não ser possível alcançar seu verdadeiro sentido e intento, e, por conseguinte, assegurar uma efetiva prestação jurisdicional.
+3. É cabível ação rescisória, com amparo no art. 485, V, do CPC, contra provimento judicial de mérito transitado em julgado que ofende direito em tese, ou seja, o correto sentido da norma jurídica, assim considerada não apenas aquela positivada, mas também os princípios gerais do direito que a informam. Precedente do STJ.
+(..) (EREsp 935.874/SP, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 17/06/2009, DJe 14/09/2009)
+3. Conforme asseverei às fls. 1319-1326, a jurisprudência desta Corte Superior possui entendimento uniforme no sentido de que a inscrição/manutenção indevida do nome do devedor no cadastro de inadimplentes enseja o dano moral in re ipsa, ou seja, dano vinculado a própria existência do ato ilícito, cujos resultados são presumidos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. COMPROVAÇÃO DO DANO MORAL. INAPLICABILIDADE. DANO IN RE IPSA. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.O entendimento firmado pelo Tribunal de origem, no sentido de que não cabe falar em falta de comprovação do dano moral, uma vez que a inscrição/ manutenção indevida do nome do devedor em cadastros restritivos de crédito geram dano moral in re ipsa, está em sintonia com a jurisprudência deste Superior Tribunal de Justiça. Aplicável, portanto, à espécie, o óbice da Súmula 83 desta Corte.
+2. Agravo regimental não provido.
+(AgRg no AREsp 190.658/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/03/2013, DJe 12/03/2013)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. CENTRAL DE RISCO DE CRÉDITO DO BANCO CENTRAL. NATUREZA DE CADASTRO DE PROTEÇÃO AO CRÉDITO. DANO MORAL "IN RE IPSA".
+PRESUNÇÃO. DESNECESSIDADE DE PROVA. AGRAVO DESPROVIDO.
+(AgRg no REsp 1183247/MT, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14/08/2012, DJe 20/08/2012)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. MANUTENÇÃO DA INSCRIÇÃO INDEVIDA DO NOME DO AGRAVADO EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO MESMO APÓS A QUITAÇÃO DA DÍVIDA NO VALOR ACORDADO. DANO MORAL. SÚMULA STJ/7. QUANTUM INDENIZATÓRIO FIXADO COM RAZOABILIDADE.
+1.- A revisão do julgado, como pretendido pela Recorrente, para afastar a sua responsabilidade para a ocorrência do fato danoso, necessitar-se-ia do revolvimento de matéria de prova dos autos, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+2.- Esta Corte já firmou entendimento que nos casos de inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa.
+3.- A intervenção do STJ, Corte de Caráter nacional, destinada a firmar interpretação geral do Direito Federal para todo o país e não para a revisão de questões de interesse individual, no caso de questionamento do valor fixado para o dano moral, somente é admissível quando o valor fixado pelo Tribunal de origem, cumprindo o duplo grau de jurisdição, se mostre teratológico, por irrisório ou abusivo.
+4.- Inocorrência de teratologia no caso concreto, em que, para a manutenção indevida da inscrição do nome da Parte agravada em órgão de restrição ao crédito por débito quitado no valor acordado, foi fixado, em 18.08.2010, o valor da indenização em R$ 7.000,00 (sete mil reais) a título de dano moral, consideradas as forças econômicas da autora da lesão.
+5.- Agravo Regimental improvido.
+(AgRg no AREsp 55.177/MG, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 14/08/2012, DJe 04/09/2012)
+4. A jurisprudência do STJ é firme ao proclamar que a revisão de indenização por danos morais só é possível em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade. Ausentes tais hipóteses, incide a Súmula 7 do STJ, a impedir o conhecimento do recurso.
+Entretanto, no presente caso, a quantia indenizatória fixada pela Corte de piso escapa à razoabilidade e se distancia dos parâmetros adotados por este Tribunal Superior, que preleciona ser razoável a condenação em até o equivalente a 50 (cinqüenta) salários mínimos por indenização decorrente de inscrição indevida em órgãos de proteção ao crédito (REsp 295.130/SP, Relator Ministro Humberto Gomes de Barros, DJ 04/04/2005).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS DECORRENTE DE INCLUSÃO INDEVIDA EM CADASTRO DE INADIMPLENTES - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA RÉ.
+1. O STJ já firmou entendimento que "nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova, ainda que a prejudicada seja pessoa jurídica" (REsp 1059663/MS, Rel.
+Min. NANCY ANDRIGHI, DJe 17/12/2008). Precedentes.
+2. A indenização por danos morais, fixada em quantum em conformidade com o princípio da razoabilidade, não enseja a possibilidade de interposição do recurso especial, ante o óbice da Súmula n. 7/STJ.
+3. Este Tribunal Superior tem prelecionado ser razoável a condenação no equivalente a até 50 (cinquenta) salários mínimos por indenização decorrente de inscrição indevida em órgãos de proteção ao crédito.
+Precedentes.
+4. A incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão hostilizado, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 777.018/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/12/2015, DJe 03/02/2016- g.n.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTROS DE PROTEÇÃO AO CRÉDITO. DANO MORAL IN RE IPSA. VALOR DA INDENIZAÇÃO RAZOÁVEL E PROPORCIONAL. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Esta Corte firmou o entendimento de que é razoável o valor do dano moral fixado em valor equivalente a até 50 salários mínimos para os casos de inscrição inadvertida em cadastros de inadimplentes, devolução indevida de cheques, protesto incabível e outras situações assemelhadas. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no AREsp 796.500/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/11/2015, DJe 01/12/2015- g.n.)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. MANUTENÇÃO DA INSCRIÇÃO INDEVIDA DO NOME DO AGRAVADO EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO MESMO APÓS A QUITAÇÃO DA DÍVIDA NO VALOR ACORDADO. DANO MORAL. SÚMULA STJ/7. QUANTUM INDENIZATÓRIO FIXADO COM RAZOABILIDADE.
+1.- A revisão do julgado, como pretendido pela Recorrente, para afastar a sua responsabilidade para a ocorrência do fato danoso, necessitar-se-ia do revolvimento de matéria de prova dos autos, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+2.- Esta Corte já firmou entendimento que nos casos de inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa.
+3.- A intervenção do STJ, Corte de Caráter nacional, destinada a firmar interpretação geral do Direito Federal para todo o país e não para a revisão de questões de interesse individual, no caso de questionamento do valor fixado para o dano moral, somente é admissível quando o valor fixado pelo Tribunal de origem, cumprindo o duplo grau de jurisdição, se mostre teratológico, por irrisório ou abusivo.
+4.- Inocorrência de teratologia no caso concreto, em que, para a manutenção indevida da inscrição do nome da Parte agravada em órgão de restrição ao crédito por débito quitado no valor acordado, foi fixado, em 18.08.2010, o valor da indenização em R$ 7.000,00 (sete mil reais) a título de dano moral, consideradas as forças econômicas da autora da lesão.
+5.- Agravo Regimental improvido.
+(AgRg no AREsp 55.177/MG, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 14/08/2012, DJe 04/09/2012)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CADASTROS DE PROTEÇÃO AO CRÉDITO. INSCRIÇÃO INDEVIDA. NOTIFICAÇÃO DIRIGIDA A ENDEREÇO DIVERSO DO DOMICÍLIO DO CONSUMIDOR. SÚMULA N. 7/STJ. DANO MORAL.VALOR. PROPORCIONALIDADE E RAZOABILIDADE.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, foi estabelecida pela instância ordinária em conformidade com os princípios da proporcionalidade e razoabilidade.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1132522/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/04/2018, DJe 02/05/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSCRIÇÃO INDEVIDA NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. DANO MORAL. VALOR. REVISÃO. DIVERGÊNCIA JURISPRUDENCIAL. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O quantum indenizatório arbitrado na instância ordinária, a título de danos morais, só pode ser examinado nesta Corte nos casos em que o valor indenizatório for irrisório ou exorbitante, o que não ocorre no caso dos autos, haja vista que os princípios da proporcionalidade e da razoabilidade foram observados. Incidência da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1203964/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/03/2018, DJe 02/04/2018)
+Dessa forma, restou violado os artigos 884, 927 e 944 do Código Civil, não merecendo reparos a decisão de fls. 1319-1326 que minorou o valor indenizatório arbitrado contra o banco agravado.
+5. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
