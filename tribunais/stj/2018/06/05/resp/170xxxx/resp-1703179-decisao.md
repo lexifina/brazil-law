@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E REPETIÇÃO DE INDÉBITO CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. JUNTADA DE DOCUMENTOS FUNDAMENTAIS/SUBSTANCIAIS À DEFESA EM GRAU DE APELAÇÃO. NÃO CABIMENTO.
+1. Os documentos fundamentais/substanciais à defesa devem ser apresentados juntamente com a contestação, não se admitindo a juntada tardia com a interposição de recurso de apelação, não sendo o caso também de documento novo ou destinado a fazer prova de fatos ocorridos depois dos articulados. Precedentes.
+2. Recurso especial provido.
+DECISÃO
+Cuida-se de recurso especial interposto por MARIA DE JESUS SANTOS, com fundamento, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 16/06/2017.
+Conclusão ao Gabinete em: 23/10/2017.
+Ação: declaratória de inexistência de débito e repetição de indébito cumulada com compensação por danos morais, ajuizada pela recorrente, em face de BANCO BRADESCO FINANCIAMENTOS S.A. Alega ter sido surpreendida com o desconto de valores do seu benefício previdenciário em razão de empréstimos consignados nunca contratados.
+Sentença: julgou parcialmente procedente o pedido, para declarar a inexistência do débito e condenar o recorrido a restituir os valores descontados indevidamente do benefício previdenciário da recorrente, de forma simples. Além disso, condenou o recorrido ao pagamento da quantia de R$ 10.000,00 a título de compensação por danos morais.
+Acórdão: deu provimento à apelação interposta pelo recorrido, para julgar improcedente o pedido inicial, e julgou prejudicada a apelação da recorrente, nos termos da seguinte ementa (e-STJ fl. 205):
+APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. EXISTÊNCIA DE PROVA DA CONTRATAÇÃO. LEGITIMIDADE DA COBRANÇA REALIZADA. EXERCÍCIO REGULAR DE DIREITO - REFORMA DA DECISÃO - RECURSO DA PARTE REQUERIDA CONHECIDO E PROVIDO. RECURSO DA PARTE AUTORA PREJUDICADO.
+- Demonstrada a regularidade do contrato celebrado entre as partes, não há falar em danos morais por cobrança de dívida dele decorrente. Documentação dos autos que evidencia a prévia contratação de conta bancária pelo consumidor e a origem e legitimidade do débito cobrado.
+Embargos de declaração: interpostos pela recorrente, foram parcialmente acolhidos, apenas para sanar omissão no tocante à análise da possibilidade de juntada de documentos em sede de apelo, sem ensejar alteração do julgamento, nos termos da seguinte ementa:
+EMBARGOS DECLARATÓRIOS - APELAÇÃO CÍVEL - RESPONSABILIDADE CIVIL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS - OMISSÃO QUANTO À ANÁLISE DA POSSIBILIDADE DE JUNTADA DE DOCUMENTOS EM SEDE DE APELO QUE COMPROVARAM A LEGITIMIDADE DA CONTRATAÇÃO - ANÁLISE DOS DOCUMENTOS EM GRAU DE RECURSO, EM OBSERVÂNCIAAO PRINCÍPIO DA VERDADE REAL E VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA - EXISTÊNCIA DE CONTRADITÓRIO -JURISPRUDÊNCIA DO STJ - SANADA A OMISSÃO SEM ALTERAÇÃO DO ENTENDIMENTO - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Recurso especial: alega violação dos arts. 223 e 434 do CPC/15. Sustenta que não cabe a juntada de documentos em sede recursal sem qualquer fato novo, sob pena de impossibilitar o contraditório.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: CPC/15.
+- Da impossibilidade da juntada de documento fundamental/substancial à defesa em sede recursal
+O TJ/SE, ao considerar a documentação juntada pela instituição financeira recorrida em sede de apelação e julgar improcedente a demanda, contrariou a jurisprudência do STJ no sentido de que os documentos fundamentais/substanciais à defesa devem ser apresentados juntamente com a contestação, não se admitindo a juntada tardia com a interposição de recurso de apelação, não sendo o caso também de documento novo ou destinado a fazer prova de fatos ocorridos depois dos articulados (AgInt no AREsp 1.103.855/SP, 4ª Turma, DJe de 21/11/2017; AgRg no AREsp 641.561/RS, 3ª Turma, DJe de 5/6/2017; AgInt no AREsp 853.985/RJ, 3ª Turma, DJe de 28/03/2017; e REsp 1.262.132/SP, 4ª Turma, DJe de 3/2/2015).
+Verifica-se que a documentação juntada pelo recorrido em sede de apelação é fundamental/substancial à defesa, pois se vincula diretamente ao próprio objeto da demanda. Na hipótese, foram carreados ao recurso de apelação cópias dos contratos que supostamente comprovariam existir relação jurídica entre as partes. Trata-se de prova central do objeto da ação, da causa de pedir, que devia ser levada aos autos no momento da defesa apresentada pelo recorrido.
+Logo, o recurso especial merece provimento, com base na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para restabelecer a sentença proferida nos autos.
+Publique-se. Intimem-se.
