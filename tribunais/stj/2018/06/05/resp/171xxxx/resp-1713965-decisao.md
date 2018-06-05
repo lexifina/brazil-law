@@ -1,0 +1,21 @@
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF.
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do TRF - 4ª Região, assim ementado (fls. 279-280):
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. ATIVIDADE ESPECIAL. AGENTE NOCIVO ELETRICIDADE. CONCESSÃO. CORREÇÃO MONETÁRIA E JUROS DE MORA. FASE DE CUMPRIMENTO DE SENTENÇA. DIFERIMENTO.
+1. O reconhecimento da especialidade e o enquadramento da atividade exercida sob condições nocivas são disciplinados pela lei em vigor à época em que efetivamente exercidos, passando a integrar, como direito adquirido, o patrimônio jurídico do trabalhador.
+2. Até 28-04-1995 é admissível o reconhecimento da especialidade por categoria profissional ou por sujeição a agentes nocivos, admitindo-se qualquer meio de prova (exceto para ruído e calor); a partir de 29-04-1995 não mais é possível o enquadramento por categoria profissional, sendo necessária a comprovação da exposição do segurado a agentes nocivos por qualquer meio de prova até 05-03-1997 e, a partir de então, através de formulário embasado em laudo técnico, ou por meio de perícia técnica.
+3. A despeito da ausência de previsão expressa pelos Decretos n.º 2.172/97 e 3.048/99, é possível o reconhecimento da especialidade do labor desenvolvido com exposição à eletricidade média superior a 250 volts após 05/03/1997, com fundamento na Súmula n.º 198 do extinto Tribunal Federal de Recursos e na Lei n.º 7.369/85, regulamentada pelo Decreto n.º 93.412/96. Precedentes desta Corte.
+4. A habitualidade e permanência do tempo de trabalho em condições especiais prejudiciais à saúde ou à integridade física referidas no artigo 57, § 3º, da Lei 8.213/91 não pressupõem a submissão contínua ao agente nocivo durante toda a jornada de trabalho. Não se interpreta como ocasional, eventual ou intermitente a exposição ínsita ao desenvolvimento das funções cometidas ao trabalhador, que está integrada à sua rotina de trabalho. Em se tratando de exposição a atas tensões, o risco de choque elétrico é inerente à atividade, cujos danos podem se concretizar em mera fração de segundo.
+5. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer-se a especialidade do tempo de labor correspondente.
+6. Implementados mais de 25 anos de tempo de atividade sob condições nocivas e cumprida a carência mínima, é devida a concessão do benefício de aposentadoria especial, a contar da data do requerimento administrativo, nos termos do § 2º do art. 57 c/c art. 49, II, da Lei n. 8.213/91.
+7. Deliberação sobre índices de correção monetária e taxas de juros diferida para a fase de cumprimento de sentença, a iniciar-se com a observância dos critérios daLei 11.960/2009, de modo a racionalizar o andamento do processo, permitindo-se a expedição de precatório pelo valor incontroverso, enquanto pendente, no Supremo Tribunal Federal, decisão sobre o tema com caráter geral e vinculante. Precedentes do STJ e do TRF da 4ª Região.
+Opostos embargos de declaração, foram rejeitados (fls. 294-300).
+O recorrente alega violação do art. 1.022, II, do CPC/2015, por omissão no julgado, afirmando que a corte local não se manifestou sobre a legislação apontada, qual seja, o art. 57, § 8º da Lei 8.213/91.
+Contrarrazões não apresentadas.
+Juízo positivo de admissibilidade à fl. 338.
+É o relatório. Passo a decidir.
+O recurso não merece prosperar.
+Ao apontar ofensa ao art. 1.022 do CPC/2015, para alegar omissão quanto a artigos de lei, deve o recorrente tecer os argumentos jurídicos cabíveis a respeito do que alega, de forma a demonstrar a relevância da manifestação do órgão julgador acerca dos normativos indicados, a fim de caracterizar a omissão alegada, sob pena de configurar fundamentação deficiente, por alegação genérica de violação - caso em tela - o que faz atrair, por analogia, a incidência do teor da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, nego seguimento ao recurso especial.
+Publique-se. Intimem-se.
