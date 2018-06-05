@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] PALMAS S/A em que pretende a admissão de recurso especial que discute a incidência de correção monetária sobre créditos escriturais de ICMS cujo pedido de aproveitamento extemporâneo teria decorrido de resistência oposta pelo fisco.
+Apresentada contraminuta (e-STJ fl. 748).
+Parecer do Ministério Público Federal pelo não provimento do agravo (e-STJ fls. 767/770).
+Passo a decidir.
+A Primeira Seção do Superior Tribunal de Justiça, em 24/06/2009, quando do julgamento do REsp n. 1.035.847/RS, submetido à sistemática dos recursos repetitivos, decidiu a questão jurídica referente à correção monetária de créditos escriturais decorrentes de aplicação do princípio da não-cumulatividade, tratando o processo piloto de "créditos escriturais de IPI referentes à operações de matérias-primas e insumos empregados na fabricação de produto isento ou beneficiado com alíquota zero".
+Na ocasião, firmou-se o entendimento de que "a oposição constante de ato estatal, administrativo ou normativo, impedindo a utilização do direito de crédito oriundo da aplicação do princípio da não-cumulatividade, descaracteriza referido crédito como escritural, assim considerado aquele oportunamente lançado pelo contribuinte em sua escrita contábil", de modo que, "ocorrendo a vedação ao aproveitamento desses créditos, com o consequente ingresso no Judiciário, posterga-se o reconhecimento do direito pleiteado, exsurgindo legítima a necessidade de atualizá-los monetariamente, sob pena de enriquecimento sem causa do Fisco".
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
