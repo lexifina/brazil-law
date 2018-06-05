@@ -1,0 +1,47 @@
+DECISÃO
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO. REAJUSTAMENTO DO TETO DOS BENEFÍCIOS (ARTIGO 14 DA EC 20/98, E ARTIGO 5O. DA EC 41/2003). CUMPRIMENTO DO §3.. DO ARTIGO 21 DA LEI 8.880/94. ARTIGO 26 DA LEI 8.870/94. AGRAVO DO SEGURADO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por GILBERTO ZANI, com base nas alíneas a e c do art. 105, III, da Constituição Federal, objetivando a reforma do acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+PREVIDENCIÁRIO. DIREITO ADQUIRIDO AO MELHOR BENEFÍCIO. RETROAÇÃO DO PERÍODO BÁSICO DE CÁLCULO. POSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS.
+1. O segurado tem direito adquirido ao cálculo do beneficio de conformidade com as regras vigentes quando da reunião dos requisitos da aposentação independentemente de prévio requerimento administrativo para tanto. Precedentes do STF e do STJ.
+2. Muito embora o art. 122 da Lei n. 8.213/91 tenha previsto a retroação do período básico de cálculo nos casos de aposentadoria integral (regra reproduzida nas normas regulamentadoras), é possível a extensão desse direito aos casos de concessão de aposentadoria proporcional, em face do princípio da - isonomia e em respeito ao critério da garantia do beneficio mais vantajoso, como, aliás, preceitua o Enunciado 5 do próprio Conselho de Recursos da Previdência Social - CRPS: "A Previdência Social deve conceder o melhor beneficio a que o segundo fizer jus, cabendo ao servidor orientá-lo nesse sentido."
+3. Os salários de contribuição que integrarão o novo período básico de cálculo (PBC) deverão ser atualizados até a data em que reconhecido o direito adquirido, apurando-se nessa data a renda mensal inicial (RMI), a qual deverá ser reajustada, nos mesmos meses e índices oficiais de reajustamento utilizados para os beneficios em manutenção, até a Data do Inicio do Beneficio-DIB. A data de início de pagamento (DIP) deverá coincidir com a DER.
+5. Os honorários advocatícios a que se condena a Autarquia devem ser fixados em 10%, incidindo tão-somente sobre as parcelas vencidas até a data da sentença, consoante a Súmula n" 76 deste TRF, excluídas as parcelas vincendas, na forma da Súmula n" 1,11 do STJ.
+2. Em seu Apelo Nobre, sustenta o recorrente, além de dissídio jurisprudencial, violação aos arts. 26 da Lei 8.870/1994 e 21 da Lei 8.880/1994
+3. É o relatório. Decido.
+4. De início, no que tange ao disposto no art. 26 da Lei 8.870/1994, esta Corte já consolidou a orientação de que suas disposições aplicam-se, tão somente, aos benefícios concedidos entre 5.4.1991 a 31.12.1993, o que não é o caso dos autos, uma vez que o benefício foi concedido em 30.9.1996.
+5. Confira-se, a propósito, os seguintes julgados:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. BENEFÍCIO. REVISÃO. LEI 8.870/1994. ART. 26. AGRAVO REGIMENTAL DESPROVIDO.
+I - Nos termos da Jurisprudência deste STJ, a revisão prevista no artigo 26 da Lei 8.870/1994 só alcança os benefícios concedidos entre 5/4/1991 e 31/12/1993.
+II - No caso, o benefício previdenciário foi concedido em 11/12/1990, fora, portanto, do período estabelecido.
+Agravo regimental desprovido (AgRg no REsp. 1.236.028/RS, Rel. Min. FELIX FISCHER, DJe 24.11.2015).
+
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO. ARTIGO 26 DA LEI 8.870/1994. OBSERVÂNCIA DA JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante jurisprudência do STJ, a revisão prevista no artigo 26 da Lei 8.870/1994 alcança os benefícios concedidos entre 5/4/1991 e 31/12/1993.
+2. No presente caso, o benefício previdenciário foi concedido em 11/10/1993.
+3. Agravo regimental não provido (AgRg no REsp. 1.455.773/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 1.9.2014).
+
+PREVIDENCIÁRIO. INCORPORAÇÃO DO VALOR EXCEDENTE AO TETO. ART. 26 DA LEI 8.880/94. INAPLICABILIDADE. ART. 144 DA LEI DE BENEFÍCIOS. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+1. De acordo com a jurisprudência deste Superior Tribunal de Justiça, o disposto no art. 26 da Lei nº 8.870/94 incide somente aos benefícios concedidos entre 5.4.1991 e 31.12.1993.
+2. O pedido de revisão com base no art. 144 da Lei nº 8.213/91 caracteriza inovação recursal, daí porque não merece ser acolhido.
+3. Agravo regimental a que se nega provimento (AgRg no REsp. 1.271.092/RS, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 14.11.2012).
+6. No mais, o acórdão recorrido encontra-se em consonância com o entendimento firmado por esta Corte e pelo Supremo Tribunal Federal de que não existe direito adquirido ao teto do valor do benefício previdenciário. Neste sentido, os seguintes julgados:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. SALÁRIO-DE-BENEFÍCIO. REAJUSTE DO TETO PREVIDENCIÁRIO. RECÁLCULO DA APOSENTADORIA. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+1. O salário de benefício deve ser limitado ao teto previdenciário vigente na data do seu início.
+2. Não há direito adquirido à reposição da renda mensal, por força dos tetos estabelecidos pelas ECs nos 20/1998 e 41/2003, sendo inviável o seu recálculo após o deferimento do benefício tão- somente para se adaptar aos novos limites.
+3. Agravo regimental a que se nega provimento (AgRg no REsp. 1.243.138/RS, Rel. Min. JORGE MUSSI, DJe 15.10.2014).
+
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. REVISÃO DO ART. 26 DA LEI Nº 8.870/1994. SALÁRIO DE BENEFÍCIO. TETO LIMITE FIXADO EM LEI.
+1. A decisão agravada foi proferida em consonância com a jurisprudência firmada nesta Corte, no sentido de que, o benefício concedido dentro ou fora do lapso de que trata o art. 26 da Lei nº 8.870/1994, o salário de benefício deve ser limitado ao teto vigente na data do seu início, haja vista que os salários de contribuição, sobre os quais incidem as contribuições do segurado, sempre obedeceram a limites fixados por lei, tendo a Lei nº 8.212/1991 estabelecido critérios para regular o limite mínimo (art. 28, § 3º) e o limite máximo (art. 28, § 5º).
+2. Assim, limitada a renda mensal - quando do deferimento do benefício ao teto então vigente, e devidamente reajustada nos termos da legislação previdenciária, não há direito adquirido à reposição da renda mensal, por força dos novos tetos das ECs nos 20/1998 e 41/2003, não sendo razoável que o segurado siga calculando, após o deferimento do benefício, qual seria sua renda mensal caso esta não houvesse sido tolhida pelo valor-teto e busque, quando das majorações deste, a implantação de novos valores a título de salário de benefício, em claro descumprimento às regras de reajuste legalmente impostas.
+3. Agravo regimental a que se nega provimento (AgRg no Ag 1.271.450/RJ, Rel. Min. MARCO AURÉLIO BELLIZZE, DJe 25.4.2013).
+7. Por fim, não é demais registrar que os arts. 29, § 2o. e 33, ambos da Lei 8.213/1991 dispõem que o salário de benefício e a renda mensal inicial devem ser limitados ao valor-teto do salário de contribuição vigente na data de início do benefício, sendo certo que tais limites não restaram revogados pelo art. 26 da Lei 8.870/1994, o qual apenas fixa o teto máximo para os benefícios concedidos no interregno de 5.4.1991 e 31.12.1993. Ilustrativamente, colaciona-se o seguinte precedente:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL DO SEGURADO. REVISÃO DE BENEFÍCIO. PRETENSA AFRONTA AO ART. 21, § 3.º, DA LEI N.º 8.880/94. INOVAÇÃO EM SEDE DE AGRAVO REGIMENTAL. INCABÍVEL. NÃO-INCIDÊNCIA DO ART. 26 DA LEI N.º 8.870/94. SALÁRIO-DE-BENEFÍCIO E RENDA MENSAL INICIAL. LIMITAÇÃO. SALÁRIO-DE-CONTRIBUIÇÃO. ART. 29, § 2.º, E ART. 33 DA LEI 8.213/91. PRECEDENTES. PRETENSÃO DE PREQUESTIONAR DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DO INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS. ART. 103 DA LEI N.º 8.213/91. ALTERAÇÃO LEGISLATIVA. PRAZO DECADENCIAL. APLICAÇÃO ÀS SITUAÇÕES JURÍDICAS CONSTITUÍDAS A PARTIR DA NOVA REDAÇÃO DADA PELA MEDIDA PROVISÓRIA N.º 1.523/97. PRECEDENTES. REVISÃO DE BENEFÍCIO. ACÓRDÃO RECORRIDO. FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. IMPOSSIBILIDADE DE DISCUSSÃO NA VIA ELEITA. AGRAVOS REGIMENTAIS DESPROVIDOS.
+1. A questão relativa à suposta contrariedade ao art. 21, § 3.º, da Lei n.º 8.880/94 não foi aventada nas razões do recurso especial e, portanto, não comporta conhecimento, na medida em que se configura inovação inviável de ser examinada em sede de agravo regimental.
+2. Os critérios revisionais previstos no art. 26 da Lei n.º 8.870/94 aplicam-se tão-somente aos benefícios com data de início entre 05 de abril de 1991 e 31 de dezembro de 1993, o que não ocorre no caso dos autos.
+3. De acordo com as normas insertas nos artigos 29, § 2.º, e 33, ambos da Lei n.º 8.213/91, o salário-de-benefício e a renda mensal inicial devem ser limitados ao valor-teto do salário-de-contribuição vigente na data de início do benefício, sendo certo que tais limites não restaram revogados pelo art. 26, da Lei n.º 8.870/94, o qual apenas fixa o teto máximo para os benefícios concedidos no interregno de 05/04/1991 e 31/12/1993.
+4. A esta Corte é vedada a análise de dispositivos constitucionais em sede de recurso especial, ainda que para fins de prequestionamento, sob pena de usurpação da competência da Suprema Corte. Precedentes.
+ ..
+8. Agravos regimentais desprovidos (AgRg no REsp. 1.264.214/RS, Rel. Min. LAURITA VAZ, DJe 28.9.2012).
+8. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
