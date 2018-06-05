@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial, com fulcro no art. 105, III, alínea"a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que, durante o curso de execução da pena determinada à LEANDRO ALVES DA SILVA, sobreveio nova condenação, o que ocasionou unificação das penas e fixada, pelo Juízo da Vara de Execuções Criminais da Comarca de Teófilo Otôni/MG, como marco inicial para a concessão de novos benefícios, a data do trânsito em julgado da última condenação (fls. 9/10).
+Houve interposição de agravo em execução ministerial, quanto ao livramento condicional, o qual foi provido, por maioria, nos termos da seguinte ementa (fl. 69):
+EMENTA: AGRAVO DE EXECUÇÃO - IRRESIGNAÇÃO MINISTERIAL - LIVRAMENTO CONDICIONAL - SUPERVENIÊNCIA DE NOVA CONDENAÇÃO - UNIFICAÇÃO DAS PENAS - DATA-BASE PARA OBTENÇÃO DE NOVOS BENEFÍCIOS DA EXECUÇÃO - INTERRUPÇÃO DO PRAZO - CONTAGEM A PARTIR DO TRÂNSITO EM JULGADO DA NOVA CONDENAÇÃO.
+- "Sobrevindo nova condenação no curso da execução da pena, interrompe-se a contagem do prazo para a concessão do benefício do livramento condicional, que deverá ser novamente calculado com base na soma das penas restantes a serem cumpridas". Precedente STJ.
+V.V.
+- Na omissão da LEP quanto à definição da data-base para concessão dos benefícios da execução da pena, a solução mais adequada é aquela que se revelar mais favorável ao réu, de acordo com uma análise das particularidades do caso concreto.
+Foram opostos embargos infringentes pela defesa, os quais foram acolhidos, conforme a seguinte ementa (fl. 124):
+EMENTA: EMBARGOS INFRINGENTES - AGRAVO EM EXECUÇÃO - NOVA CONDENAÇÃO - UNIFICAÇÃO DAS PENAS - MARCO INICIAL PARA OBTENÇÃO DE NOVOS BENEFÍCIOS - DATA DA EFETIVA PRISÃO - RAZOABILIDADE.
+-Sobrevindo condenação no curso da execução criminal, o marco inicial para a obtenção dos benefícios assegurados na LEP, deve ser verificado caso a caso, em consonância com os princípios da proporcionalidade e razoabilidade.
+- O período que o agravado esteve preso antes da condenação em definitivo deve ser considerado também como pena cumprida, face o consagrado instituto da Detração adotado pelo ordenamento jurídico brasileiro, razão pela qual desde a data em que o agente efetivamente iniciou a execução da pena, com a sua prisão, deve ser considerada para a contagem dos benefícios na execução penal.
+Foram opostos embargos de declaração pela acusação, os quais foram rejeitados (fls. 161/165).
+Foi interposto recurso especial ministerial, alegando ofensa ao art. 111, caput e parágrafo único; da Lei de Execução Penal, e art. 75, § 2º, do Código Penal.
+Sustenta que o acórdão recorrido destoou do pacífico entendimento desta Corte Superior, o qual fixou como marco inicial para a concessão de benefícios futuros no curso da execução penal, o trânsito em julgado da última sentença condenatória, bem como o Supremo Tribunal Federal, colacionado julgados nesse sentido.
+Consigna que o entendimento do STJ foi adotado a partir do Incidente de Uniformização de Jurisprudência n. 1.704.09.136730-7/002, daquele Tribunal mineiro, o qual vincula todos os julgamentos ocorridos nos órgãos fracionários daquela Corte regional.
+Defende que a fixação como marco inicial, a data do trânsito em julgado da última condenação não viola os princípios da isonomia e ampla defesa, e muito menos configura o vedado bis in idem.
+Pugna pelo provimento do apelo nobre para cassar o acórdão recorrido e fixar como marco inicial para a o reinício da contagem do prazo para a concessão de novos benefícios, a data do trânsito em julgado da última condenação (fls. 169/193).
+Contrarrazões às fls. 197/211.
+Admitido o recurso (fl. 213), os autos vieram a esta Corte.
+O Ministério Público, em seu parecer de fls. 227/230 opina pelo desprovimento do apelo nobre.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O voto condutor assim se posicionou quanto à controvérsia, no que importa, verbis (fls 126/131):
+ ..  Entretanto, entendo, com a devida vênia, que a data referência para o início da contagem dos benefícios da execução da pena deve ser apurada de acordo com as peculiaridades do caso em concreto, em virtude do caráter personalíssimo da reprimenda imposta e da situação fática de cada situação, de forma a evitar o prejuízo do apenado e o comprometimento da execução.
+A unificação das penas há de se dar conforme os moldes estabelecidos nas sentenças, mas não deixará de observar os períodos de prisão já cumpridos porque do contrário, flagrante é o prejuízo ao apenado e violado também se vê o princípio da ressocialização da pena.  ..
+Com efeito, entendo deva ser resgatado o voto mais benéfico ao reeducando para se estabelecer a data da última prisão do agente como sendo a data-base para a contagem dos novos benefícios na execução penal do ora embargante. Isso porque, na presente situação, desde a última prisão do reeducando, que se deu em 02/10/2012, ele permaneceu custodiado, de modo que, à época da superveniência da nova condenação, ainda se encontrava cumprindo pena no regime fechado.  ..
+A data da última prisão do reeducando (02/10/2012, conforme se vê do atestado de penas acostado à fl.. 06)b deve ser considerada como marco para a contagem do prazo para a concessão dos benefícios referentes à execução penal  .. .
+Dessa forma, se o apenado já vem, em razão da prisão cautelar, cumprindo pena em regime mais gravoso, a data de sua última sentença condenatória.
+Ressalto que a Terceira Seção deste Tribunal Superior, em recente julgamento (REsp 1557461, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, DJe 15/3/2018), alterou seu entendimento para estabelecer como marco inicial para a concessão de benefícios, após a unificação das penas, a data da última prisão do apenado. Veja-se a ementa:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido (REsp 1557461, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 15/3/2018).
+Assim, verifico que o acórdão recorrido se encontra em consonância com o entendimento jurisprudencial desta Corte Superior.
+Incide, pois, o óbice do Enunciado n. 83 da Súmula/STJ.
+Diante do exposto, com fundamento no Enunciado n. 568 da Súmula/STJ, nego provimento ao recurso.
+Publique-se. Intimem-se.
