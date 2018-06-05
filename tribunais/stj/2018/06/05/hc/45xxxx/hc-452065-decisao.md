@@ -1,0 +1,24 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS (50,21 G DE COCAÍNA, 22,37 G DE CRACK E 153,9 G DE MACONHA). SENTENÇA. DOSIMETRIA. REDIMENSIONAMENTO DA PENA. CAUSA DE DIMINUIÇÃO. ART. 33, § 4º, DA LEI N. 11.343/06. QUANTIDADE E VARIEDADE DA DROGA APREENDIDA. REGIME INICIAL FECHADO. QUANTIDADE E NATUREZA DA DROGA APREENDIDA. FUNDAMENTO IDÔNEO. PRECEDENTES. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que o Juízo de Direito da 4ª Vara Criminal da comarca de Osasco/SP condenou o paciente, pela prática do crime de tráfico de drogas (50,21 g de cocaína, 22,37 g de crack e 153,9 g de maconha - fl. 9), às penas de 5 anos de reclusão, em regime inicial fechado, e de 500 dias multa, mantendo a prisão cautelar anteriormente decretada (fls. 11/15 - Autos n. 0001381-13.2016.8.26.0542).
+Inconformada com a sentença, a defesa do paciente interpôs apelação na colenda Corte local, que negou provimento ao recurso (fls. 17/32 - Apelação n. 0001381-13.2016.8.26.0542).
+Aqui, alega constrangimento ilegal consistente no afastamento da causa de diminuição de pena decorrente do tráfico privilegiado (art. 33, § 4º, Lei n. 11.343/06) e na fixação do regime inicial fechado.
+Sustenta a impetrante que o paciente  ..  faz jus ao direito líquido e certo de se beneficiar da causa de diminuição da pena na fração de 2/3, pois, para a incidência da norma é necessário, taxativamente, que o agente seja primário, de bons antecedentes e que não se dedique às atividades criminosas, tampouco integre organização criminosa. É o caso. (fl. 7).
+Aduz ainda  ..  a ausência de motivação idônea a justificar o estabelecimento do regime mais gravoso (fl. 7).
+Postula-se, então, a concessão liminar da ordem para que seja redimensionada a pena do paciente e seja fixado o regime inicial diferente do fechado para cumprimento de pena.
+É o relatório.
+Busca a impetração o redimensionamento da pena imposta, com a aplicação da fração máxima da causa de redução da pena do art. 33, § 4º, da Lei 11.343/06, e o abrandamento do regime inicial.
+Ao que se tem, da atenta análise dos autos, tem-se que, na sentença, a minorante foi afastada ao fundamento de que o paciente se dedicada a atividade criminosa,  ..  ante a expressiva quantidade de narcóticos que portava para fins de tráfico (fl. 12).
+Por sua vez, a Corte local manteve o decisum, nos seguintes fundamentos (fl. 27):
+ ..
+Também deve ser afastado o pleito defensivo de aplicação da causa de diminuição de pena prevista no artigo 33, §4º, da Lei 11.343/06, no caso em tela, ante ao fato que em poder do réu restaram apreendidas nada menos que cinquenta e nove porções de ""Erythroxilon coca ("cocaína"), sessenta e seis porções de "crack", e sessenta e cinco porções de "Cannabis sativa L ("maconha"), entorpecentes que seriam colocados á disposição dos consumidores da cidade. Ora tamanha quantidade e diversidade representa um perigo maior a saúde pública, atingindo incontáveis usuários. Além de apresentarem um alto risco á saúde pública com a colocação de tamanha quantidade de narcóticos na rua.
+ ..
+Esta Corte tem reiteradamente decidido, em observância ao disposto no art. 33, § 4º, da Lei n. 11.343/2006, que havendo demonstração de que as instâncias ordinárias deixaram de reconhecer a minorante com base na quantidade e variedade de droga e nos pormenores da situação concreta, que demonstraram que o agravante dedicava-se à atividade criminosa, excluindo a possibilidade do pretendido redutor. Concluir de forma diversa, aliás, ensejaria o revolvimento de matéria fático-probatória, tarefa para a qual não se presta o habeas corpus (AgRg no HC n. 424.827/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 26/3/2018).
+Em relação ao regime inicial, observa-se que o juízo de primeiro grau fixou o fechado, em razão de o paciente  ..  ter personalidade facilmente permeável ao instinto criminoso, além da disseminação do consumo de narcóticos proscritos atentar intensamente contra a saúde pública e a consequente segurança da sociedade (fl. 14).
+A Corte local manteve o regime, adicionando o fundamento de que  ..  o apelante não apresenta circunstâncias judiciais favoráveis, pois demostra elevada periculosidade, sendo detido em poder de elevada quantidade e diversidade de drogas (fl. 339).
+Assim,  ..  o Superior Tribunal de Justiça possui o entendimento de que a natureza e a quantidade da droga apreendida constituem elementos idôneos a justificar a imposição do regime prisional mais gravoso do que o cabível em razão da sanção imposta (AgRg no HC n. 414.345/MS, de minha relatoria, Sexta Turma, DJe 15/12/2017).
+Ante o exposto, indefiro liminarmente o pedido de habeas corpus nos termos do art. 210 do RISTJ.
+Publique-se.
