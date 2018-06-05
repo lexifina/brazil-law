@@ -1,0 +1,26 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por WHITE MARTINS GASES INDUSTRIAIS LTDA, contra a decisão de fls. 341/342, que não conheceu do recurso.
+Em suas razões, sustenta a parte Embargante, em síntese, que:
+"Conforme se depreende dos autos, em 04 de maio do corrente ano, a procuradora que esta subscreve foi surpreendida com o recebimento da intimação que não conheceu do Agravo em Recurso Especial interposto, por suposta irregularidade na representação processual.
+E diz-se surpreendida, pois, conforme se apura dos documentos juntados às fls. dos autos, a procuração está devidamente juntada às fls. 9/337 dos autos. Não obstante, a Embargante anexa a presente novo instrumento de mandato judicial.
+Ademais, compulsando-se os autos verifica-se que não há nos autos nenhum trabalho apresentado pelo Embargado nesta sede recursal, razão pela qual é incabível a majoração dos honorários advocatícios, com base no artigo 85, § 11 do CPC.
+Ademais, segundo o Enunciado 16 da ENFAM, a majoração dos honorários recursais só é possível quando inaugurada a instância recursal, hipótese que não se verifica no caso em tela (Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição).
+requer-se se digne V. Exa. a receber e julgar os presentes embargos de declaração, para o fim de dar seguimento ao recurso, ante a regularidade da representação processual da Embargante, ou alternativamente, seja reconhecida a impossibilidade de majoração dos honorários de sucumbência, os quais foram indevidamente fixados nesta sede recursal." (344/345).
+
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, o recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes aos subscritores do agravo Dra. [NOME], [OAB] e do recurso especial, Dr. Luis Roberto Moreira Filho, [OAB], conforme certificado à fl. 338.
+Veja-se que não há a procuração originária da parte ora Embargante, conferindo poderes ao Dr. Luis Roberto Moreira Filho, o causídico que substabeleceu à fl. 337.
+Dessa forma, o instrumento de substabelecimento à Dra. [NOME] não tem eficácia, pois o substabelecimento não subsiste por si só, sem uma procuração que lhe dê suporte, sendo impossível substabelecer um poder que não existe nos autos (AgRg nos EREsp 685.903/RJ, Rel. Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 10/09/2008, DJe 10/10/2008.)
+Quanto ao honorários, o novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n.º 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+No presente caso, tendo em vista que estão preenchidos os requisitos acima delineados, correta a majoração dos honorários recursais.
+Alerte-se que o resultado da demanda não tem valor para a fixação dos honorários advocatícios recursais.
+Isso porque, apesar de a regra geral da sucumbência, para fins de fixação de honorários, ter como critério o resultado da demanda, a sucumbência recursal é distinta, na medida em que possui como critério a utilidade prática na interposição do recurso, daí decorrendo uma das finalidades de seu arbitramento, a de desestimular a interposição indiscriminada de recursos sem probabilidade de êxito. Ressalte-se que no caso dos autos os honorários sucumbenciais fixados na instância ordinária serviram apenas como base para cálculo dos honorários recursais.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
