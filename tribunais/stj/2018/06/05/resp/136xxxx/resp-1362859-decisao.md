@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE SANTA CATARINA, fundado na alínea "a" do permissivo constitucional, contra acórdão assim ementado (e-STJ fl. 95):
+TRIBUTÁRIO. OBTENÇÃO DE CERTIDÃO POSITIVA COM EFEITOS DE NEGATIVA. CÓDIGO DE DIREITOS E DEVERES DO CONTRIBUINTE DO ESTADO DE SANTA CATARINA (LEI COMPLEMENTAR Nº 313/05). NORMA AMPLIATIVA. ART. 206 DO CTN E ART. 23, § 1º, DA LEI COMPLEMENTAR Nº 313/05.
+Não afronta o ordenamento jurídico vigente norma ampliativa trazida pelo Código Estadual do Contribuinte (art. 23, § 1º, LC nº 313/05) que concede ao contribuinte direito não previsto no Código Tributário Nacional, qual seja, a obtenção da certidão positiva com efeitos de negativa no caso de existir crédito definitivamente constituído, porém ainda não ajuizado.
+Nas suas razões (e-STJ fls. 104/110), o recorrente aponta violação dos arts. 5º, caput, da CF/1988, 480 do CPC/1973, 206 do CTN, e 27, IV, da Lei n. 8.666/1993. Sustenta, em resumo, que: (a) o Colegiado local não observou o rito relativo à reserva de plenário, porquanto não remeteu os autos ao órgão especial para que fosse analisada a arguição de inconstitucionalidade defendida pela Fazenda Pública; (b) depois de vencida a obrigação tributária, o fornecimento de certidão positiva com efeitos de negativa (CPD-EN) pressupõe a existência de causa de suspensão da exigibilidade do crédito ou oferecimento de garantia em execução fiscal, não podendo a lei local obrigar a Administração a fornecer essa certidão pelo fato de ainda não ter sido ajuizada a cobrança judicial da dívida; e (c) "ao ampliar as hipóteses de fornecimento de certidão com efeitos positivos, alarga-se, indevidamente, os autorizados a participar de processo licitatório, em explícita contrariedade à legislação federal e usurpação de competência legislativa da União Federal".
+Contrarrazões às e-STJ fls. 115/119.
+Decisão a quo de admissão do recurso especial às e-STJ fls. 123/124.
+Parecer do Ministério Público Federal pelo não conhecimento do recurso (e-STJ fls. 136/141).
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Isso considerado, tenho que a presente irresignação recursal não merece prosperar.
+Primeiro, é cediço que o recurso especial não se presta para rever eventual violação de dispositivo constitucional, no caso, do apontado art. 5º, caput, da CF/1988.
+No tocante à apontada violação do art. 480 do CPC/1973, o recurso especial encontra-se dissociado da realidade do processo, tendo em vista que o acórdão recorrido expressamente assentou que a arguição de inconstitucionalidade da lei estadual não foi acolhida pela câmara julgadora, dispensando, assim, o envio dos autos ao órgão especial.
+Com efeito, o acórdão recorrido não declarou inconstitucionalidade de lei ou ato normativo que pudesse ensejar a alegada afronta à cláusula de reserva de plenário.
+Incide, nesse particular, o óbice contido na Súmula 284 do STF.
+Quanto ao mais, constata-se que o recurso especial volta-se contra acórdão que julgou válida lei local (Lei Complementar Estadual n. 313/2005) e que ora é contestada em face de lei federal (arts. 206 do CTN, e 27, IV, da Lei n. 8.666/1993), sendo certo que essa pretensão é de índole constitucional, própria de recurso extraordinário (art. 102, III, "d", da Constituição Federal)
+Ante o exposto, NEGO PROVIMENTO ao recurso especial (art. 255, § 4º, I, do RISTJ).
+Publique-se. Intimem-se.
