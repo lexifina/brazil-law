@@ -1,0 +1,61 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ARTS. 288, PARÁGRAFO ÚNICO, E 316 DO CÓDIGO PENAL. CONEXÃO INSTRUMENTAL. ART. 76, III, DO CPP. INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. INOCORRÊNCIA. SÚMULA 235/STJ. DELITOS AUTÔNOMOS. INDEPENDÊNCIA PROBATÓRIA. ANÁLISE FÁTICA. INVIABILIDADE. AGRAVO IMPROVIDO.
+1. Denomina-se conexão processual ou instrumental, caso do art. 76, III, do CPP, quando não há nexo entre os delitos, mas a comprovação de um reflete na do outro, ou seja, é aquela útil à colheita unificada da prova.
+2. Não há falar-se em conexão probatória ou instrumental a justificar o julgamento conjunto dos crimes de concussão e contrabando pela Justiça Federal, quando praticados em contextos distintos e por sujeitos ativos diversos.
+3. A conexão não determina a reunião dos processos, se um deles já foi julgado - Súmula n. 235/STJ.
+4. O reconhecimento da conexão instrumental demandaria o afastamento do enquadramento fático do acórdão impugnado, que considerou tratar-se de delitos autônomos, independentes um do outro, o que inviabiliza a sua análise na presente via.
+5. O simples fato de a apuração dos delitos investigados ter tido início a partir da mesma diligência policial não implica, necessariamente, a existência de conexão entre eles - AgRg no CC 136.913/PR, Rel. Ministro Antônio Saldanha Palheiro, Terceira Seção.
+6. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face de decisão que negou provimento ao recurso em habeas corpus, no qual se pretendia o reconhecimento da incompetência da Justiça Estadual.
+Insistem os agravantes que, no caso dos autos, a prova de uma infração penal é a evidência irrefutável de que a outra não foi praticada e, diversamente do consignado no acórdão proferido pelo Tribunal paulista, há sim a possibilidade de decisões contraditórias, uma vez que, condenado aquele que mantinha cigarro objeto de contrabando, não há lógica alguma na acusação de que lhe foi solicitada qualquer quantia, sendo patente a incidência da Súmula n. 122/STJ.
+Entendem que (..), havendo conexão entre o crime atribuído em hipótese a [NOME] e os delitos que são acusados os policiais civis, a exemplo dos precedentes citados do E. STF e desse C. STJ, sendo o crime previsto no art. 334 do CP de competência da Justiça Federal, em razão da vinculação apontada, a Justiça Estadual é incompetente, ex vi do art. 69, incisos III e V, do CPP (fl. 994).
+Requerem, ao final, que seja conhecido e provido o presente agravo para, atentando-se à inteligência da Súmula n. 122/STJ e à interpretação dada a matéria pelo STF e por esta Corte, em casos análogos, nos termos do art. 76, III, do CPP, reconhecer a incompetência da Justiça Estadual, remetendo-se os autos à Justiça Federal.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Os recorrentes não apresentaram qualquer elemento capaz de alterar a conclusão do julgado, devendo ser mantido o posicionamento firmado na decisão impugnada.
+A decisão agravada foi assim proferida (fls. 974/977):
+No mandamus denegado na origem, assim se manifestou o Tribunal estadual (fls. 931/933):
+(..).
+Extrai-se da documentação, que instruiu a impetração, que os pacientes, no exercício das funções de policiais civis, durante a tarde do dia 19 de abril de 2016, utilizando-se de viatura da Polícia Civil, teriam se dirigido a três estabelecimentos comerciais e, em todos, exigido pagamento, em dinheiro, para deixar de prender os comerciantes, em virtude da venda de cigarros de origem ilícita.
+[NOME], uma das supostas vítimas do delito, ora em questão, foi denunciado, perante a 2a Vara da 33a Subseção Judiciária da Justiça Federal - São Paulo, e condenado, por sentença proferida, em 30 de junho de 2017, como incurso no artigo 334-A, § 1º, IV e V, do Código Penal, porquanto, em 19 de abril de 2016, em estabelecimento comercial situado em Mogi das Cruzes - SP, teria adquirido, recebido, exposto à venda e mantido em depósito mercadoria proibida, consistente em 330 maços de cigarro da marca "Eight", de origem paraguaia.
+A presente impetração objetiva seja reconhecida a competência da Justiça Federal para julgamento do feito, diante da conexão instrumental ou probatória entre as duas ações penais.
+A junção de ações penais é devida para evitar decisões contraditórias e facilitar a colheita de provas. A concentração dos atos perante o juízo prevalente pode propiciar exercício da defesa em maior amplitude e evitar a possibilidade de decisões antagônicas.
+Segundo o artigo 76, III, do Código de Processo Penal, há conexão quando a prova de uma infração ou de qualquer de suas circunstâncias elementares influir na prova de outra infração. Ou seja, quando as infrações estiverem ligadas por elos tais de modo a sugerir atividade instrutória una e conjunta.
+Conexas as infrações, a competência, por força do disposto no artigo 78, III, do Código de Processo Penal, é da Justiça Federal. Nesse sentido, a Súmula 122, do Superior Tribunal de Justiça - Compete à Justiça Federal o processo e julgamento unificado dos crimes conexos de competência federal e estadual, não se aplicando a regra do art. 78, II, "a", do Código de Processo Penal.
+No caso presente, embora condutas originárias do mesmo contexto fático, trata-se de delitos autônomos. Aos ora pacientes é imputado crime de concussão, praticado, em tese, contra três vítimas, um das quais foi processada e condenada, perante a Justiça Federal, pelo delito de contrabando. Condutas que independem uma da outra e dispensam a colheita conjunta de provas. Tanto mais que, na ação movida perante a Justiça Federal, fora proferida sentença condenatória, antes mesmo da colheita da prova oral, no feito ora em questão.
+Nessas circunstâncias, como consignado na decisão, ora impugnada, distintas as partes, nas ações penais, tampouco há possibilidade de prolação de decisões contraditórias.
+Ausente a alegada conexão, não se justifica o deslocamento da competência.
+Assim, não se vislumbra ilegalidade a ser reparada, em sede de habeas corpus.
+Diante do exposto, por votação unânime, denegaram a ordem. (destaquei).
+Entendem os recorrentes, como relatado na decisão agravada, que há conexão fático-probatória entre os crimes de concussão, ao qual são acusados, e o de contrabando, este já julgado e condenado [NOME] - perante a 2ª Vara da 33ª Subseção Judiciária da Justiça Federal/SP, em sentença datada de 30 de junho de 2017, por ofensa ao art. 334-A, § 1º, IV e V, do Código Penal - uma das supostas vítimas do delito de concussão.
+Prescreve o art. 76, III, do Código de Processo Penal:
+Art. 76. A competência será determinada pela conexão:
+(..).
+III - quando a prova de uma infração ou de qualquer de suas circunstâncias elementares influir na prova de outra infração.
+Denomina-se conexão processual ou instrumental, caso do dispositivo citado, quando não há nexo entre os delitos, mas a comprovação de um reflete na do outro, ou seja, é aquela útil à colheita unificada da prova, como sustentaram os ora recorrentes.
+Para o deslinde da controvérsia, necessário identificar se ao caso é pertinente que ambos os delitos sejam julgados em conjunto e se há relevância fática e processual entre os crimes de contrabando e concussão.
+Todavia, in casu, inexiste tal pertinência, mesmo porque, como visto acima, o crime de contrabando já foi julgado, incidindo, assim, a Súmula n. 235 desta Corte, que dispõe: A conexão não determina a reunião dos processos, se um deles já foi julgado.
+Ademais, o reconhecimento da conexão instrumental demandaria o afastamento do enquadramento fático do acórdão impugnado, que considerou tratar-se de delitos autônomos, independentes um do outro, o que inviabiliza, outrossim, a sua análise na presente via. Nesse sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. DUPLICATA SIMULADA. NECESSIDADE DE REUNIÃO DE DUAS AÇÕES PENAIS INSTAURADAS CONTRA O RECORRENTE. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ILEGALIDADE NA AUSÊNCIA DO MÉRITO DO WRIT ORIGINÁRIO. CRIMES QUE TERIAM SIDO PRATICADOS EM CONTINUIDADE DELITIVA. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ELEITA. SENTENÇA PROFERIDA EM UM DOS FEITOS. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.
+1. Ainda que superado o referido óbice, constata-se que a alegada necessidade de reunião dos processos deflagrados contra o réu não foi alvo de deliberação pelo Tribunal de origem no aresto impugnado, circunstância que impede qualquer manifestação deste Sodalício sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+2. Para se aferir se os crimes apurados nas ações penais instauradas contra o recorrente teriam sido praticados em continuidade delitiva, seria necessária a apreciação aprofundada dos fatos e provas constantes de ambos os processos, providência que não é admitida na via estreita do habeas corpus. Precedentes.
+3. A prolação de sentença condenatória em um dos feitos que se pretende reunir, ainda que posterior ao pedido de unificação das ações, obstaculiza a medida. Enunciado 235 da Súmula desta Corte Superior de Justiça. Precedentes do STJ.
+4. Recurso desprovido. (RHC 80.007/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 5/12/2017, DJe 19/12/2017 - destaquei).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 180 DO CP. RECONHECIMENTO DA CONEXÃO INSTRUMENTAL. ABSOLVIÇÃO. INVIABILIDADE. NECESSIDADE DE REEXAME DO CONTEÚDO PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O art. 76, III, do CP define a conexão instrumental quando a prova de uma infração ou de qualquer de suas circunstâncias elementares influir na prova de outra infração.
+2. Consoante o enquadramento fático do acórdão, o furto de bens diversos, apurado em outro processo, não foi antecedente da receptação dos bens da vítima destes autos, de forma que a descoberta dos crimes na mesma oportunidade não significa que a prova de uma infração irá influenciar na prova de outra.
+3. O reconhecimento da conexão instrumental demandaria o afastamento do enquadramento fático do acórdão, e não sua revaloração, mediante análise, inclusive, de fatos atinentes a processo diverso, já julgado, o que atrai o óbice da Súmula n. 7 do STJ e a incidência da Súmula n. 235 do STJ.
+(..).
+5. Agravo regimental não provido. (AgRg no AREsp 1024178/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/5/2017, DJe 11/5/2017 - destaquei).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Como visto acima, prescreve o art. 76, III, do CPP, que há conexão fática-probatória quando a prova de uma infração ou de qualquer de suas circunstâncias elementares influir na prova de outra infração, ou seja, quando não há nexo entre os delitos, mas a comprovação de um reflete na do outro, o que não se verificou, in casu.
+Outrossim, o crime de contrabando já foi julgado, o que faz incidir a Súmula n. 235 desta Corte, que dispõe: A conexão não determina a reunião dos processos, se um deles já foi julgado.
+Ademais, considerando o Tribunal local que os crimes são autônomos, independentes um do outro, ir de encontro a tal conclusão seria adentrar em matéria fática, procedimento inviável na via do mandamus.
+Por fim, como bem observado pelo Parquet, nesta sede, à fl. 970, (..) o simples fato de a apuração dos delitos investigados ter tido início a partir da mesma diligência policial não implica, necessariamente, a existência de conexão entre eles (AgRg no CC 136.913/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, TERCEIRA SEÇÃO, julgado em 10/05/2017, DJe 18/05/2017).
+Ante o exposto, voto por negar provimento ao agravo regimental.
