@@ -1,0 +1,53 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO QUE PROVEU O RECURSO ESPECIAL, EM VIRTUDE DE OFENSA AO ART. 1.022 DO CPC/2015. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. ACÓRDÃO RECORRIDO. OMISSÃO CARACTERIZADA.
+1. Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 1.022 do CPC/2015.
+2. Por fim, cumpre registrar que, conforme entendimento jurisprudencial e doutrinário, uma das importantes funções do princípio da boa-fé objetiva é impedir que a parte exerça o seu direito de forma abusiva. Ressalte-se que "a jurisprudência desta Corte, com base no princípio da boa fé objetiva, tem consagrado a proibição do venire contra factum proprium" (REsp 876.682/PR, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 5.8.2010), ou seja, "o princípio da boa-fé objetiva proíbe que a parte assuma comportamentos contraditórios no desenvolvimento da relação processual, o que resulta na vedação do venire contra factum proprium, aplicável também ao direito processual" (AgRg no REsp 1.280.482/SC, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 13.4.2012). Ressalte-se que a proibição do comportamento contraditório aplica-se, inclusive, ao magistrado, quando cria na parte a legítima expectativa de que suas razões serão apreciadas (REsp 1.116.574/ES, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 14/04/2011, DJe 27/04/2011).
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno (fls. 187/192) apresentado contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA.
+1. Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 1.022 do CPC/2015.
+2. Recurso especial provido.
+A agravante sustenta, em suma, que:
+Os Embargos de Declaração às fls. 114/117 foram opostos para que o Eg. Regional se manifestasse sobre três pontos que no entender da UNIÃO não o foram quando do julgamento do recurso de agravo.
+O primeiro ponto, diz respeito ao fato de que o v. acórdão não apreciou o pedido de devolução de prazo para oposição de embargos à execução.
+O segundo, diz respeito ao recebimento da petição de fls. 73/75 como "status" de ação de embargos à execução.
+E, o terceiro e último, querendo inovar em sede de recurso, cita o disposto no art. 475, §3º., do antigo CPC, onde em seus dizeres, deveria o Juízo lançar mão deste dispositivo com vistas ao exercício do seu Poder Geral de Cautela.
+(..) Em outras palavras, o prazo para oposição de embargos à execução, recurso de apelação, ou mesmo contestação é o que na doutrina se denomina de prazos peremptórios, não podem ser modificados ou alterados pela vontade das partes, não comportam dilações.
+Requer seja provido o recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO QUE PROVEU O RECURSO ESPECIAL, EM VIRTUDE DE OFENSA AO ART. 1.022 DO CPC/2015. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. ACÓRDÃO RECORRIDO. OMISSÃO CARACTERIZADA.
+1. Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 1.022 do CPC/2015.
+2. Por fim, cumpre registrar que, conforme entendimento jurisprudencial e doutrinário, uma das importantes funções do princípio da boa-fé objetiva é impedir que a parte exerça o seu direito de forma abusiva. Ressalte-se que "a jurisprudência desta Corte, com base no princípio da boa fé objetiva, tem consagrado a proibição do venire contra factum proprium" (REsp 876.682/PR, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 5.8.2010), ou seja, "o princípio da boa-fé objetiva proíbe que a parte assuma comportamentos contraditórios no desenvolvimento da relação processual, o que resulta na vedação do venire contra factum proprium, aplicável também ao direito processual" (AgRg no REsp 1.280.482/SC, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 13.4.2012). Ressalte-se que a proibição do comportamento contraditório aplica-se, inclusive, ao magistrado, quando cria na parte a legítima expectativa de que suas razões serão apreciadas (REsp 1.116.574/ES, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 14/04/2011, DJe 27/04/2011).
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+O recurso não merece prosperar.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A despeito do que constou do acórdão de fls. 106/111, verifica-se que o Tribunal de origem não se pronunciou de forma adequada sobre a seguinte alegação:
+Aos 10/06/2011, a parte autora a conta de liquidação do principal no valor de R$ 879.598,39 (fls. 68/70). Foi determinada a citação da União (fl. 72) que se manifestou nos autos informando que não poderia concordar pura e simplesmente com os cálculos da parte autora e requerendo fosse oficiado à mesma para que juntasse aos autos cópias de documentos apontados pela Receita Federal de Bauru como imprescindíveis para a devida conferência das planilhas apresentadas pela parte autora. Dada a justificativa, a União requereu, após a apresentação dos referidos documentos, a restituição do prazo para embargos à execução (fls. 73/76).
+Instada a se manifestar, a parte autora requereu fosse certificado o decurso de prazo para embargos, no que foi atendida. Assim, o juízo de primeiro grau determinou a expedição de precatório.
+O acórdão considerando que efetivamente não houve a oposição de embargos à execução negou provimento ao agravo de instrumento da União, sob o fundamento de que o procedimento estaria de acordo com o art. 730 do CPC de 1973.
+Cumpre registrar que tal alegação foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, os quais foram rejeitados pelo acórdão de fls. 128/135, persistindo a omissão destacada.
+Para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca da tese de direito suscitada, ou seja, a ausência de prequestionamento impede o conhecimento do recurso (Súmulas 282 e 356 do STF e Súmula 211/STJ). Assim, tratando-se de questão relevante para o deslinde da causa que foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, a ausência de manifestação sobre ela caracteriza ofensa ao art. 1.022 do CPC/2015. Verificada tal ofensa, em sede de recurso especial, impõe-se, em regra, a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão.
+No mesmo sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC. APELAÇÃO. SUPOSTA INTEMPESTIVIDADE. OMISSÃO CONFIGURADA.
+1. Apesar de provocada pela via dos embargos declaratórios, a Corte de origem não se pronunciou efetivamente sobre a tese articulada em torno da ocorrência de julgamento extra petita e de reformatio in pejus consistentes na redução da alíquota do ITCD sem que houvesse apelação do contribuinte, mas apenas do Fisco Estadual.
+2. Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada, prejudicada a análise dos demais tópicos.
+3. Recurso especial provido.
+(REsp 1.187.583/RS, 2ª Turma, Rel. Min. Castro Meira, DJe de 17.5.2010)
+PROCESSUAL CIVIL. AUSÊNCIA DE MANIFESTAÇÃO PELO TRIBUNAL A QUO. EMBARGOS DE DECLARAÇÃO. REJEIÇÃO. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA.
+1. Caracteriza-se ofensa ao art. 535 do Código de Processo Civil se o Tribunal de origem deixar de pronunciar-se acerca de matéria veiculada pela parte sobre a qual era imprescindível manifestação expressa. Determinação de retorno dos autos para que se profira nova decisão nos Embargos de Declaração.
+3. Embargos Declaratórios acolhidos com efeitos infringentes.
+(EDcl no AgRg no REsp 1.137.175/RJ, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 6.4.2010)
+Assim, merece ser provido o presente recurso, a fim de anular o aresto proferido no julgamento dos embargos de declaração, determinando-se o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento.
+Por fim, cumpre registrar que, conforme entendimento jurisprudencial e doutrinário, uma das importantes funções do princípio da boa-fé objetiva é impedir que a parte exerça o seu direito de forma abusiva. Ressalte-se que "a jurisprudência desta Corte, com base no princípio da boa fé objetiva, tem consagrado a proibição do venire contra factum proprium" (REsp 876.682/PR, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 5.8.2010), ou seja, "o princípio da boa-fé objetiva proíbe que a parte assuma comportamentos contraditórios no desenvolvimento da relação processual, o que resulta na vedação do venire contra factum proprium, aplicável também ao direito processual" (AgRg no REsp 1.280.482/SC, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 13.4.2012). Ressalte-se que a proibição do comportamento contraditório aplica-se, inclusive, ao magistrado, quando cria na parte a legítima expectativa de que suas razões serão apreciadas (REsp 1.116.574/ES, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 14/04/2011, DJe 27/04/2011).
+Assim, merece ser mantida a decisão agravada que, reconhecendo ofensa ao art. 1.022 do CPC/2015, anulou o aresto proferido em sede de embargos de declaração e determinou fosse proferido novo julgamento.
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
