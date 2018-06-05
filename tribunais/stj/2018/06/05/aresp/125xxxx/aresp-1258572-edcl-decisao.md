@@ -1,0 +1,14 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por MARTINHO HUMBERTO LOPES ANDRADE contra a decisão de fls. 1833/1834, que não conheceu do recurso.
+Em suas razões, sustenta a parte Embargante, em síntese, que:"inicialmente Excelência é importante ressaltar que o protocolo fora realizado dentro do prazo legal, no dia 17 de dezembro de 2015 por e-mail às 13h35min. O Protocolo só fora realizado por e-mail por Orientação do Protocolo do Tribunal de Justiça de Goiás - Divisão de Atendimento/Protocolo pela servidora Dinair, tendo em vista que o Fax daquele departamento no dia não estava em funcionamento" (fl. 1838).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme já consignado na decisão ora embargada, que agora se repete, a jurisprudência firmada no âmbito deste Superior Tribunal de Justiça consolidou o entendimento de que, para fins de aplicação do art. 1.º da Lei n.º 9.800/1999, o e-mail não configura meio eletrônico equiparado ao fac-símile, como, de fato, foi o modo de interposição recursal na espécie (fls. 1649/1690).
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 454.499/MG, 4.ª Turma, Rel. Min. Luis Felipe Salomão, DJe de 8/4/2014; AgRg no AREsp 430.273/MG, 4.ª Turma, Rel. Min. Marco Buzzi, DJe de 26/2/2014; AgRg no AREsp 362.615/MG, 6.ª Turma, Rel.ª Min.ª Assusete Magalhães, DJe de 12/11/2013; e AgRg no EREsp 1.119.463/RO, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 29/5/2013.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
