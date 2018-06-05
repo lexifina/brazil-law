@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. IMPORTAÇÃO DE SEMENTES DE CANNABIS SATIVA LINNEU. MATÉRIA-PRIMA PARA PRODUÇÃO DE DROGA. FATO TÍPICO. PRECEDENTES. PERIGO ABSTRATO OU PRESUMIDO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO DESPROVIDO.
+1. Inexiste maltrato ao princípio da colegialidade, pois, consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica, uma vez que a parte possui mecanismos processuais de submeter a controvérsia ao colegiado por meio do competente agravo regimental. Ademais, o julgamento colegiado do recurso pelo órgão competente supera eventual mácula da decisão monocrática do relator.
+2. A jurisprudência majoritária desta Corte é no sentido de que a importação clandestina de sementes de cannabis sativa linneu (maconha) configura o tipo penal descrito no art. 33, § 1º, I, da Lei n. 11.343/2006.
+3. Prevalece na Quinta Turma deste Superior Tribunal de Justiça a diretriz no sentido de que não se aplica o princípio da insignificância aos delitos de tráfico de drogas e de uso de substância entorpecente, por se tratar de crimes de perigo abstrato ou presumido, sendo irrelevante para esse específico fim a quantidade de sementes da droga apreendida. Precedentes.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por [NOME] contra decisão monocrática que deu provimento ao recurso especial do Ministério Público Federal para considerar típica a conduta do recorrido relativa à importação de semente de maconha e determinar o prosseguimento da ação penal ajuizada em seu desfavor (e-STJ fls. 458/463).
+Nas razões recursais, argumenta a defesa a inexistência de posicionamento pacificado nesta Corte sobre o tema, motivo pelo qual alega a impossibilidade de julgamento monocrático pelo relator.
+Reafirma a atipicidade da conduta, uma vez que se trata da importação de pequena quantidade de matéria-prima ou insumo destinado à preparação de droga para o consumo pessoal - 45 sementes de maconha. Pugna, assim, pela aplicação do princípio da insignificância.
+Destaca, ainda, a ausência de previsão da conduta de "importar" no inciso II, do § 1º, do art. 33 da Lei 11.343/2006, o que igualmente afasta a tipicidade da conduta.
+Requer, assim, a reconsideração da decisão agravada ou a submissão do feito ao colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Inicialmente, não há maltrato ao princípio da colegialidade, pois, consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica, uma vez que a parte possui mecanismos processuais de submeter a controvérsia ao colegiado por meio do competente agravo regimental. Ademais, o julgamento colegiado do recurso pelo órgão competente supera eventual mácula da decisão monocrática do relator.
+A jurisprudência majoritária desta Corte Superior de Justiça é no sentido de que a importação clandestina de sementes de cannabis sativa linneu (maconha) configura o tipo penal descrito no art. 33, § 1º, I, da Lei n. 11.343/2006.
+Com efeito, não desconheço o entendimento que vem sendo adotado recentemente pela Sexta Turma desta Corte, que, em alguns julgados, permitiu a aplicação da insignificância à conduta em análise, considerando a pequena quantidade de sementes importada.
+No entanto, observo que a decisão foi tomada por maioria de votos, de forma que permaneço alinhado ao entendimento da Quinta Turma, Colegiado do qual faço parte, segundo o qual é inaplicável o princípio da insignificância aos delitos de tráfico de drogas e de uso de substância entorpecente, por se tratarem de crimes de perigo abstrato ou presumido, sendo irrelevante para esse específico fim a quantidade de sementes da droga apreendida. Nessa linha, os seguintes julgados:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. IMPORTAÇÃO DE SEMENTES DE CANNABIS SATIVA LINNEU. MATÉRIA-PRIMA PARA PRODUÇÃO DE DROGA.
+FATO TÍPICO. PRECEDENTES. PERIGO ABSTRATO OU PRESUMIDO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. 1. A jurisprudência desta Corte é no sentido de que a importação clandestina de sementes de cannabis sativa linneu (maconha) configura o tipo penal descrito no art. 33, § 1º, I, da Lei n. 11.343/2006. 2. Nessa linha de raciocínio, o fruto da planta cannabis sativa lineu, conquanto não apresente a substância tetrahidrocannabinol (THC), destina-se à produção da planta, e esta à substância entorpecente, sendo, pois, matéria prima para a produção de droga. Por isso, sua importação clandestina, por si só, amolda-se ao tipo penal insculpido no artigo 33, § 1º, da Lei n. 11.343/2006, não havendo falar em atipicidade da conduta, tampouco em desclassificação para contrabando. (AgRg no REsp. 1.658.937/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 25/04/2017, DJe 03/05/2017).
+3. Prevalece neste Superior Tribunal de Justiça a diretriz no sentido de que não se aplica o princípio da insignificância aos delitos de tráfico de drogas e de uso de substância entorpecente, por se tratar de crimes de perigo abstrato ou presumido, sendo irrelevante para esse específico fim a quantidade de sementes da droga apreendida.
+4. Agravo regimental não provido. (AgRg no REsp 1691992/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 12/12/2017, DJe 18/12/2017)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPORTAÇÃO CLANDESTINA DE SEMENTES DE CANNABIS SATIVA LINEU (MACONHA). PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido da inaplicabilidade do princípio da insignificância às hipóteses de importação clandestina de sementes de cannabis sativa lineu (maconha), não havendo se falar em atipicidade da conduta.
+2. Agravo regimental desprovido. (AgRg no AREsp 1119750/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 26/9/2017, DJe 6/10/2017)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. IMPORTAÇÃO DE SEMENTES DE CANNABIS SATIVA LINEU. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REAPRECIAÇÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. MATÉRIA NÃO ARGUIDA EM RECURSO ESPECIAL. PRECLUSÃO CONSUMATIVA. SÚMULA 7 DO STJ. NÃO INCIDÊNCIA.
+1. O entendimento deste Superior Tribunal de Justiça é no sentido de que a importação clandestina de sementes de maconha, por si só, amolda-se ao tipo penal insculpido no artigo 33, § 1º, I, da Lei n. 11.343/2006.
+2. Não se aplica o princípio da insignificância aos delitos de tráfico de drogas e uso de substância entorpecente por se tratarem de crimes de perigo abstrato ou presumido.
+(..).
+4. Não há necessidade de incursão em acervo de provas dos autos se o objeto do apelo nobre é a revisão de interpretação jurídica referente ao enquadramento penal da conduta.
+5. Agravo regimental desprovido. (AgRg no REsp 1639494/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 22/8/2017, DJe 30/8/2017)
+PENAL E PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. IMPORTAÇÃO CLANDESTINA DE SEMENTES DE CANNABIS SATIVA LINEU (MACONHA). PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. TRANCAMENTO DA AÇÃO PENAL. AUSÊNCIA DE JUSTA CAUSA. OCORRÊNCIA. RECURSO DESPROVIDO.
+I - A jurisprudência do Superior Tribunal de Justiça é firme no sentido da inaplicabilidade do princípio da insignificância às hipóteses de importação clandestina de sementes de maconha, não havendo se falar em trancamento da ação penal por atipicidade da conduta.
+(..).
+Recurso ordinário desprovido. (RHC 57.435/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 27/04/2017, DJe 08/05/2017)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
