@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GUILHERME HENRIQUE CANDIDO DE MESQUITA, apontando como autoridade coatora o Tribunal de Justiça do Estado de Goiás.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, pela prática do delito previsto no artigo 33 da Lei n. 11.343/06, à pena de 5 anos de reclusão, em regime prisional fechado. Observa-se, ainda, que interposta apelação criminal, o Tribunal de origem manteve a condenação, mas alterou o regime para o semiaberto.
+Infere-se, ainda, que o paciente, em outra ação penal, foi condenado pelo Tribunal do Júri, ao cumprimento de 15 anos de reclusão, em regime inicial fechado, pela prática do delito previsto no artigo 121, § 2º, inciso IV, c/c o artigo 29, ambos do Código Penal.
+Nesse contexto, houve pleito defensivo, ao juiz monocrático, para que o paciente continuasse a cumprir pena em regime semiaberto, em razão da fixação feito pelo Tribunal de origem, na ação penal em que o acusado foi condenado pela prática de tráfico de drogas. O pedido foi indeferido em decisum assim fundamentado:
+"Em atenção ao pedido defensivo de fls. 16/21, esclarece-se que, embora o Tribunal de Justiça do Estado de Goiás tenha alterado o regime inicial de cumprimento de pena do reeducando para o semiaberto, quanto à condenação por tráfico de drogas (Guia de fs. 2/3 - PEP), verifica-se que o apenado também cumpre pena pela prática do crime de homicídio qualificado, no regime fechado (Guia de fs. 19/20 - PEP)
+No que se refere à unificação das penas, o art. 111 da LEP prevê que "quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feito pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição".
+Portanto, as penas objeto de execução nestes autos devem ser consideradas cumulativamente, por construírem reprimendas de mesma espécie, inclusive para efeito de fixação de regime.
+Quanto à alegação defensiva de que o sentenciado responde ao processo referente ao homicídio qualificado em liberdade, afere-se que, por ocasião da sentença condenatória, o Juizo considerou presentes os requisitos da prisão preventiva, negando-lhe o direito de recorrer em liberdade (fs. 55/61 - PEP), sendo restabelecida, portanto, a prisão preventiva.
+Ante o exposto, mesmo diante do acórdão de f. 36, fixa-se o regime fechado para continuação do cumprimento da pena unificada, nos termos do art. 111 da LEP e do art. 33, § 2º, a, do CP, ficando indeferido o pedido da defesa de fs. 16/21, por meio do qual se requer a progressão ao regime semiaberto". (fl. )
+Insatisfeita, a defesa impetrou prévio Habeas Corpus no Tribunal de origem, que em decisão monocrática, não conheceu do referido mandamus em decisão de fls. 263/268.
+No presente writ o impetrante sustenta que não estão presentes os requisitos previstos no artigo 312 do Código de Processo penal a sustentar a prisão preventiva do paciente. Para tanto, assevera que "o decreto prisional, para ser válido, deve ser fundamentado nos elementos concretos do caso em exame, individualizando as circunstâncias que condizem o julgador à conclusão de que a liberdade do paciente colocaria em risco a ordem pública. Não bastando, para tanto, o mero juízo perfunctório".
+Alega, ainda, que deve ser fixado o regime prisional semiaberto, sob fundamento de que "a condenação do paciente por crime de homicídio não transitou em julgado, mas ainda está pendente de recurso, não sendo lícito ao magistrado unificar penas provisórias, consoante vedações expressas na Constituição Federal (CF, art. 5º, LVII) e no artigo 105 da Lei de execução Penal, que ao tratar sobre o procedimento de unificação de penas, traz como requisito essencial o trânsito em julgado da condenação".
+Requer, liminarmente, a revogação da prisão preventiva. No mérito, a fixação do regime semiaberto.
+Decido.
+O writ não comporta conhecimento.
+De saída, note-se que o decisum atacado foi proferido monocraticamente pelo Desembargador relator na origem, que não conheceu do prévio habeas corpus, não havendo deliberação colegiada do Tribunal a quo sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por este Sodalício.
+Com efeito, é fundamental, no caso, o prévio exaurimento da jurisdição na anterior instância, antes de se comparecer aos Tribunais de Cúpula. Confira-se, a propósito, o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE DELIBERAÇÃO COLEGIADA DA CORTE DE ORIGEM. EXIGÊNCIA DE PRÉVIO EXAURIMENTO DA JURISDIÇÃO NA ANTERIOR INSTÂNCIA. SUPRESSÃO DE INSTÂNCIA. INTERPOSIÇÃO CONCOMITANTE DE RECURSO DE APELAÇÃO. MATÉRIAS QUE SERÃO ANALISADAS NO JULGAMENTO DO APELO DEFENSIVO. PRÉVIO WRIT NÃO CONHECIDO. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Se não há deliberação colegiada da Corte de origem, inviabiliza-se a apreciação, por este Sodalício, do teor da decisão unipessoal proferida em sede de habeas corpus.
+2. É fundamental, no caso, o prévio exaurimento da jurisdição na anterior instância, antes de se comparecer aos Tribunais de Cúpula. Portanto, não existe propriamente uma opção em ingressar, ou não, com o competente agravo regimental, a fim de se ensejar o pronunciamento colegiado do Tribunal local.
+3. A ausência de manifestação do Tribunal a quo sobre a matéria suscitada na impetração impede sua apreciação por esta Corte, sob pena de indevida supressão de instância.
+4. Escorreita a decisão proferida pelo Desembargador-relator do prévio writ, que não conheceu da impetração por inadequação da via eleita. As matérias ventiladas serão objeto de discussão e análise pelo Tribunal a quo por ocasião do julgamento do apelo defensivo - interposto e pendente de julgamento - dotado de efeito devolutivo amplo.
+5. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma.
+6. Agravo regimental a que se nega provimento.
+(AgRg no HC 411.212/SP, de minha Relatoria, SEXTA TURMA, julgado em 05/09/2017, DJe 18/09/2017)
+Como cediço, a ausência de manifestação do Tribunal de origem sobre a matéria suscitada na impetração impede sua apreciação por esta Corte Superior, sob pena de indevida supressão de instância. Nesse sentido:
+HABEAS CORPUS. OPERAÇÃO MELAÇO. FRAUDES AO SEGURO-DESEMPREGO E A BENEFÍCIOS ASSISTENCIAIS. EXCESSO DE PRAZO DO INQUÉRITO. SUPERVENIENTE OFERECIMENTO DE DENÚNCIA. PERDA DO OBJETO. EXTENSÃO DE BENEFÍCIOS CONCEDIDOS A OUTROS INDICIADOS. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA.
+(..)
+2. Os temas não decididos pelo Tribunal de origem não podem ser resolvidos no Superior Tribunal de Justiça por configurar indevida supressão de instância.
+(..)
+6. Writ parcialmente conhecido e parcialmente prejudicado e, no mais, denegado.
+(HC 398.346/BA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/10/2017, DJe 27/10/2017)
+Diante do exposto, com fundamento no art. 34, XVIII, "a", e XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
