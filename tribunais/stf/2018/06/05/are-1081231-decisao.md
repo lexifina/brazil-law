@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “DIREITO PREVIDENCIÁRIO – REGIME DE PREVIDÊNCIA COMPLEMENTAR – SERVIDOR VINDO DE OUTRO ESTADO – INGRESSO EM CARGO NO ESTADO DE SÃO PAULO – AUSÊNCIA DE SOLUÇÃO DE CONTINUIDADE – APLICAÇÃO DO REGIME ANTERIOR – Nos termos do § 16 do art. 126 da Constituição do Estado de São Paulo, o servidor que tiver ingressado no serviço público antes do ato de instituição do regime de previdência complementar tem direito a se manter no sistema anterior – Inconstitucionalidade da restrição “estadual” imposta pela Lei Estadual 14.653/2011 – Inconstitucionalidade declarada, em sede de medida cautelar, pelo Colendo Órgão Especial deste tribunal de Justiça na ADIN 2165511-31.2014.8.26.0000 – Eficácia contra todos – Julgamento proferido por decisão monocrática, nos termos do art. 557 do CPC – Sentença mantida. Reexame necessário e recurso voluntário não providos.” (eDOC 1, p. 119)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alínea “a”, da Constituição Federal, aponta-se violação ao art. 40, §§ 14, 15 e 16, do texto constitucional.
+    Nas razões recursais, alega-se que a aposentadoria do autor está limitada ao teto do Regime Geral de Previdência Social – RGPS, vez que seu vínculo funcional com o Estado de São Paulo é posterior ao regime estabelecido pela Lei Estadual nº 14.653/2011.
+    A Procuradoria Geral da República, manifestou-se pelo desprovimento do agravo, em parecer assim ementado:
+    “Recurso Extraordinário com Agravo. Óbices formais que se opõem ao conhecimento do recurso extraordinário. Parecer pelo desprovimento do agravo.”
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Estadual 14.653/2011) e o conjunto probatório constante dos autos, consignou que ao autor é conferido o direito à aposentadoria integral. (eDOC 1, p. 123)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito do Trabalho. 3. Complementação de aposentadoria. Controvérsia decidida com base na legislação local. 4. Incidência das Súmulas 279 e 280 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE-AgR 978296, de minha relatoria, Segunda Turma, Dje 26.4.2018)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA. REQUISITOS: IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE-AgR 1106.528, Rel. Min. Cármen Lúcia, Tribunal Pleno, Dje 9.5.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 5 de junho de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
