@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS AGRAVOS REGIMENTAIS. PRECLUSÃO CONSUMATIVA. UNIRRECORRIBILIDADE. DUPLICIDADE DE INTIMAÇÕES. PROCESSO ELETRÔNICO. PREVISÃO EXPRESSA NO ART. 5º DA LEI N. 11.419/2006. PREVALÊNCIA DA COMUNICAÇÃO VIA PORTAL ELETRÔNICO. MATÉRIA PENAL. INTERPRETAÇÃO MAIS BENÉFICA AO RÉU NA HIPÓTESE DE DÚVIDA. TEMPESTIVIDADE AFERIDA. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ARGUMENTAÇÃO GENÉRICA. APLICAÇÃO DA SÚMULA 182/STJ.
+1. Quando da interposição simultânea de dois agravos regimentais contra o mesmo ato judicial e pelo mesmo agravante, deve ser conhecido apenas o primeiro deles, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+2. Em se tratando de processo eletrônico, conforme expressamente previsto no art. 5º da Lei n. 11.419/2006, deve prevalecer a intimação via portal eletrônico, em virtude de tal modalidade dispensar a publicação via Diário da Justiça eletrônico. Precedente: AgInt no AREsp n. 903.091/RJ, Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 27/3/2017
+3. Em se tratando de matéria penal, havendo dúvidas, deve prevalecer a interpretação que seja mais benéfica ao réu.
+4. A impugnação genérica, na qual o agravante deixa de mencionar qualquer argumento relativo à não incidência dos óbices sumulares utilizados na decisão agravada, atrai a incidência da Súmula 182/STJ à espécie.
+5. Agravo regimental às fls. 696/706 (Petição n. 117751/2018) não conhecido e agravo regimental às fls. 685/695 (Petição n. 117615/2018) provido para reconsiderar a decisão da Presidência, reconhecendo a tempestividade do recurso especial às fls. 613/622. Agravo em recurso especial não conhecido (art. 253, I, do RISTJ).
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental às fls. 696/706 (Petição n. 117751/2018) e dar provimento ao agravo regimental às fls. 685/695 (Petição n. 117615/2018) para reconsiderar a decisão da Presidência, reconhecendo a tempestividade do recurso especial às fls. 613/622; entretanto, com fundamento no art. 253, I, do RISTJ, não conhecer do agravo em recurso especial. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão da Presidência deste Tribunal que não conheceu do agravo em recurso especial, ante sua intempestividade (fls. 679/680).
+Alega o agravante  ..  que a intimação em discussão ocorreu dentro do sistema eletrônico utilizado por aquela Corte de Justiça. Referido sistema eletrônico é regido pela Lei Federal n. 11.419/2006, sendo certo que essa, em seu artigo 5º, expressamente determina que as intimações a serem efetivadas nos processos eletrônicos por ela regidos, serão realizadas por intermédio do próprio portal eletrônico. E ainda que, quando não for certificada a leitura do ato que se pretende dar publicidade, a Parte será considerada intimada 10 dias após o lançamento da informação no portal (fl. 688). Requer a reforma da decisão.
+Pugna seja reformada a decisão agravada,  ..  de modo a conhecer e prover o agravo em recurso especial, para que, por fim, possa o apelo nobre ser conhecido e provido (fl. 695).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): De início, observo que a defesa interpôs dois agravos regimentais contra a decisão que não conheceu do agravo em recurso especial (Petições n. 117615/2018 e 117751/2018). Contudo, pelo princípio da unirrecorribilidade e pela preclusão consumativa, analisarei apenas do primeiro deles.
+Entendo por bem afastar a intempestividade reconhecida na decisão agravada.
+Sobre o tema, não obstante existam julgados em sentido contrário, coaduno do entendimento segundo o qual, em se tratando de processo eletrônico, conforme expressamente previsto no art. 5º da Lei n. 11.419/2006, deve prevalecer a intimação via portal eletrônico, em virtude de tal modalidade de intimação dispensar a publicação via DJe. Nesse sentido: AgInt no AREsp 903.091/RJ, Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 27/03/2017.
+Ademais, a hipótese versa sobre matéria penal, na qual, havendo dúvidas, deve prevalecer a interpretação que seja mais benéfica ao réu.
+Assim, verificada a tempestividade recursal, dou provimento ao agravo regimental para reconsiderar a decisão da Presidência, reconhecendo a tempestividade do recurso especial às fls. 613/622.
+Ultrapassada essa questão, passo à análise do agravo às fls. 650/653, afirmando, desde já, que a insurreição em tela não comporta conhecimento.
+A decisão ora agravada inadmitiu o recurso especial,  ..  por incidência das Súmulas 7 e 83 do STJ e 279 do STF (fl. 639).
+Nas razões do agravo, entretanto, a defesa se limita a afirmar que  ..  preencheu todos os requisitos fundamentais exigidos para a interposição do Recurso Especial (fl. 651), acrescentando que se deve  ..  ter em mente o objetivo maior do recurso especial que é o de assegurar o cumprimento de um direito constitucional, para que através de uma análise mais profunda de determinadas questões sejam possíveis chegar à verdadeira Justiça (fl. 652). Afirma, ainda, que não tendo reproduzido os acórdãos na íntegra, não pode ter seu direito cerceado mais uma vez, mesmo porque, não se fugiu ao sentido real do recurso especial (idem).
+Como se percebe, as razões do agravo, tal como postas, não impugnaram os fundamentos da decisão ora agravada, o que atrai a incidência da Súmula 182/STJ à hipótese em comento.
+Com efeito, o agravante nem sequer mencionou, ainda que genericamente, qualquer argumento relativo à não incidência dos óbices sumulares utilizados na decisão agravada. Nesse passo, não há como negar a aplicação analógica da Súmula 182/STJ à espécie.
+Em casos similares, em que a argumentação lançada foi demasiadamente genérica, esta Corte Superior tem aplicado o óbice em comento:
+ ..
+3. Em obediência ao princípio da dialeticidade, deve o agravante demonstrar o desacerto da decisão agravada, não se afigurando suficiente a impugnação genérica ao "decisum" combatido. Precedentes.
+ ..
+(AgRg no AREsp n. 114.531/PR, Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 17/2/2014 - grifo nosso)
+ ..
+2. Não se mostra suficiente mera alegação genérica sobre as razões que levaram à inadmissão do recurso especial, para que se alcance a pretendida reforma do decisum atacado. A esse respeito: "Com efeito, à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP, Ministra Eliana Calmon, Segunda Turma, DJe 26/11/2008).
+ ..
+(AgRg no AREsp n. 392.653/PB, Ministro Og Fernandes, Sexta Turma, DJe 3/2/2014 - grifo nosso)
+ ..
+1. O Tribunal de origem indeferiu o processamento do Recurso Especial sob o fundamento, dentre outros, de que a verificação da responsabilidade pela demora na citação demanda reexame de provas (incidência da Súmula 7/STJ).
+2. Nesse ponto, a agravante limitou-se a afirmar que não há discussão sobre matéria de cunho fático. Acontece que essa simples afirmação caracteriza impugnação genérica à decisão agravada, o que atrai a incidência da Súmula 182/STJ.
+ ..
+(AgRg no AREsp n. 97.169/RJ, Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 13/5/2013 - grifo nosso)
+Ante o exposto, não conheço do agravo regimental às fls. 696/706 (Petição n. 117751/2018) e dou provimento ao agravo regimental às fls. 685/695 (Petição n. 117615/2018) para reconsiderar a decisão da Presidência, reconhecendo a tempestividade do recurso especial às fls. 613/622. Entretanto, com fundamento no art. 253, I, do RISTJ, não conheço do agravo em recurso especial.
