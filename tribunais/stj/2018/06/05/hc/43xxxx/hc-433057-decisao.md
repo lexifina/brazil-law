@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GEVERSON RODRIGO FIORUCCI, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, a ser cumprida inicialmente no regime fechado, e ao pagamento de 583 (quinhentos e oitenta e três) dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, tendo em vista que, juntamente com outro acusado, foi surpreendido, transportando, no interior do veículo em que se encontrava, um tablete de maconha com peso de 488,11g (quatrocentos e oitenta e oito gramas e onze centigramas) - e-STJ fls. 27/29. E, em continuidade, foram encontrados em sua residência mais 25,37g (vinte e cinco gramas e trinta e sete centigramas) da mesma substância distribuídos em 21 (vinte e uma) porções (e-STJ fl. 10).
+Interposta apelação pelas partes, os desembargadores da Sétima Câmara de Direito Criminal negaram provimento aos recursos (e-STJ fls. 8/26).
+Recebeu o acórdão esta ementa (e-STJ fl.9):
+Tráfico ilícito de drogas.  ..  Recurso das defesas requerendo a absolvição por insuficiência de provas. Impossibilidade. Desclassificação do crime para o delito previsto no artigo 28 da Lei 11.343/06. Incabível. Redução da pena do réu Geverson segundo o artigo 33, § 4º, da Lei 11.343/06. Inatendível.  ..  Pena e regime mantidos quanto ao réu Geverson  ..
+No Superior Tribunal de Justiça, a defesa aponta constrangimento ilegal decorrente da imposição do regime fechado para início de cumprimento da sanção.
+Sustenta que o acusado é primário e a pena aplicada encontra-se dentro dos limites legais para a fixação de regime diverso do fechado.
+Dessa forma, requer, liminarmente, possa o paciente aguardar no regime semiaberto o julgamento deste writ. No mérito, postula a confirmação da liminar (e-STJ fls. 1/7).
+O pedido liminar foi indeferido (e-STJ fls. 33/35).
+Prestadas as informações (e-STJ fls. 40/80), os autos foram encaminhados ao Ministério Público Federal, que se manifestou pelo não conhecimento do habeas corpus (e-STJ fls. 82/85).
+É, em síntese, o relatório.
+Objetiva a defesa, na presente impetração, o abrandamento do regime prisional sob o argumento de que o paciente é primário e a pena aplicada é inferior a oito anos de reclusão.
+Conforme relatado pelo Tribunal local, os pedidos constantes do recurso de apelação interposto pela defesa cingiram-se ao seguinte (e-STJ fl. 11):
+As defesas de ambos os réus apelaram, postulando, em síntese, a absolvição por insuficiência probatória, a desclassificação do crime para o delito previsto no artigo 28 da Lei 11.343/06, bem como a substituição da pena privativa de liberdade por restritiva de direitos  ..  enquanto a defesa de GEVERSON busca a redução da pena de acordo com o previsto no artigo 33, § 4º, da Lei 11.343/06.
+Logo, a questão referente ao abrandamento do regime prisional não pode ser conhecida por esta Corte, tendo em vista a falta de manifestação do Tribunal de Justiça sobre o tema, sob pena de configuração do chamado habeas corpus per saltum, a ensejar verdadeira supressão de instância e violação aos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Ao discorrer sobre o tema, BRASILEIRO doutrina, com clareza, que se revela "inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heróico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: Ed. JusPodivm, 2016, p. 2470).
+Ante a falta de manifestação do colegiado estadual, percebe-se a incompetência desta Casa para o processamento e julgamento deste writ, já que inexiste ato a ser imputado à autoridade coatora, nos termos do art. 105, I, c da Constituição Federal, bem como do art. 13, I, b, do Regimento Interno do Superior Tribunal de Justiça. A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. REGIME INICIAL. MATÉRIA NÃO DEBATIDA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+Inviável a apreciação da alegada inadequação do regime prisional fixado na sentença, diretamente por esta Corte Superior de Justiça, sob pena de se incorrer em indevida supressão de instância, considerando a ausência de manifestação do eg. Tribunal de origem sobre a questão
+ ..  (AgRg no HC 425.034/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 22/03/2018, DJe 02/04/2018.)
+PROCESSO PENAL. HABEAS CORPUS.  ..  DOSIMETRIA DA PENA E ABRANDAMENTO DO REGIME PRISIONAL. MATÉRIAS QUE NÃO FORAM DEBATIDAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+ ..
+3. As questões trazidas na presente impetração  dosimetria da pena e abrandamento do regime prisional  não podem ser analisadas por este Superior Tribunal de Justiça, tendo em vista que a irresignação do ora agravante não foi apreciada pelo Tribunal de origem, fato que obsta a análise da impetração por este Sodalício, sob pena de indevida supressão de instância.
+4. Agravo regimental a que se nega provimento. (RCD no HC 440.957/SP, Minha Relatoria, SEXTA TURMA, julgado em 05/04/2018, DJe 09/04/2018.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
