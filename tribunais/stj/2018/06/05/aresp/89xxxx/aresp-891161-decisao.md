@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto pela UNIÃO contra decisão do Tribunal Regional Federal da 1ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 177)
+CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CUMULAÇÃO DE PROVENTOS COM VENCIMENTOS. INGRESSO NO SERVIÇO PÚBLICO ANTERIOR À EDIÇÃO DA EC 20/98. HIPÓTESE DE APLICABILIDADE DA EXCEÇÃO PREVISTA NO ARTIGO 11. ILEGALIDADE DA EXIGÊNCIA DE OPÇÃO.
+1. A Emenda Constitucional nº 20/98, acrescentando o § 10 ao artigo 37 da Constituição Federal, regulamentou a acumulação de proventos e í vencimentos no serviço público, excepcionando no artigo 11 a percepção de proventos civis ou militares cumulada com a remuneração do serviço público para aqueles que haviam ingressado novamente no serviço público até a data de sua publicação.
+2. As impetrantes, que ingressaram no serviço público anteriormente à edição da referida EC nº 20/98, inserem-se na hipótese que excepciona aj acumulação de vencimentos e proventos, sendo ilegal a exigência de apresentação do Termo de Opção.
+3. Apelação e remessa oficial desprovidas.
+Embargos de declaração rejeitados, com aplicação da multa e da indenização previstas nos arts. 538, parágrafo único e 18, § 2º do CPC/1973 (e-STJ fls. 188/192).
+No especial obstaculizado, a recorrente apontou violação dos arts. 18, § 2º, e 538, parágrafo único, do CPC/1973, sustentando que não devidas a multa e a indenização aplicadas em sede de embargos de declaração, uma vez que manejados com intuito de prequestionamento. Por fim, defendeu a inaplicabilidade da indenização por litigância de má-fé.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que a decisão recorrida está em conformidade com a jurisprudência do STJ (e-STJ fl. 210/212)
+No presente agravo, a parte recorrente alega, em resumo, a inadequação dos aludidos fundamentos.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal merece prosperar.
+ Quanto à aplicação da multa com fundamento no art. 538, parágrafo único, do CPC/1973, assiste razão à recorrente, porquanto os embargos declaratórios foram utilizados com o propósito de prequestionar dispositivos legais relacionados a questões enfrentadas pelo acórdão recorrido, atraindo o entendimento firmado na Súmula 98 do STJ, in verbis: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+Da mesma forma, não se mostra cabível a condenação prevista no art. 18 do CPC/1973, tendo em vista que "não há litigância de má-fé na mera interposição de recursos legalmente previstos no ordenamento jurídico, sem abuso do direito de recorrer e inexistindo descaso com o Poder Judiciário" (AgInt no REsp 1598961/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 02/08/2017).
+Ante o exposto, com base no art. 253, II, parágrafo único, "c", do RISTJ, CONHEÇO do agravo e DOU PROVIMENTO ao recurso para afastar a multa e a indenização aplicadas no julgamento dos embargos de declaração na origem.
+ Publique-se. Intimem-se
