@@ -1,0 +1,18 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL INEXISTENTE. ALTERAÇÃO DO JULGADO PELA CORTE DE ORIGEM QUE RESULTA EM REVOLVIMENTO DE ELEMENTOS FÁTICO-PROBATÓRIOS. AGRAVO EM RECURSO ESPECIAL DO MUNICÍPIO DO RIO DE JANEIRO/RJ A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Agravo em face de decisão que negou seguimento a Recurso Especial interposto pelo MUNICÍPIO DO RIO DE JANEIRO/RJ, fundado na alínea a do art. 105, III da CF/88, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+AGRAVO INTERNO. APELAÇÃO CÍVEL. Agravo do art. 557, § 1o do CPC, interposto contra decisão monocrática deste Relator que deu provimento ao recurso de apelação, nos termos do artigo 557, § 1o - A, do CPC, para cassar a sentença, e na forma do artigo 515, § 3o, do CPC, conheceu do mérito, para julgar procedente os embargos à execução e, em consequência, julgar extinta a execução. Recurso improvido (fls. 5179).
+2. Nas razões de seu Apelo Nobre (fls. 542/552), a parte recorrente alega violação dos arts. 265, IV, a e b, 515, § 3o., e 535 do CPC/1973. Sustenta, além de negativa de prestação jurisdicional, conexão por prejudicialidade e inaplicabilidade da Teoria da Causa Madura.
+3. É o relatório.
+4. A irresignação não merece prosperar.
+5. De início, observa-se que os Embargos de Declaração opostos perante a instância de origem, em vez de apontarem vício formal do julgado, pleitearam a reapreciação do mérito da demanda, pretensão essa que não autoriza o manejo do Recurso Aclaratório. De fato, todas as teses, cuja apreciação teria sido sonegada, foram analisadas com proficiência pela Corte Estadual.
+6. Não houve, portanto, ausência de exame da insurgência recursal, e, sim, um exame que conduziu a resultado diverso do que a parte pretendia. Isso não configura vício da prestação jurisdicional.
+7. Quanto ao mérito recursal, diante das circunstâncias postas nos autos, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão recorrido, com o objetivo de acolher a pretensão recursal, seria necessário o revolvimento de matéria fática, inviável em sede de Recurso Especial, nos termos da Súmula 7 desta Corte Superior, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial. Nesse sentido:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. AFRONTA À LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CONTRIBUIÇÃO PREVIDENCIÁRIA INCIDENTE SOBRE A RUBRICA DE PARTICIPAÇÃO NOS LUCROS. SÚMULA 7/STJ. RESPONSABILIDADE SOLIDÁRIA. BENEFÍCIO DE ORDEM. ÓBICE DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Não ocorreu ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. É inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo (Súmula 211/STJ).
+3. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo regimental não provido (AgRg no REsp. 1.303.191/BA, Rel. Min. MAURO CAMPBELL MARQUES, DJe 29.2.2016).
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial interposto pelo MUNICÍPIO DO RIO DE JANEIRO/RJ.
+9. Publique-se.
+10. Intimações necessárias.
