@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por CLÁUDIO ROBERTO KFURI PEREIRA contra decisão do Tribunal de Justiça do Estado de Minas Gerais, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 204):
+"EMENTA: APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - CEMIG - REGULAR PROCEDIMENTO ADMINISTRATIVO - OBSERVÂNCIA ÀS GARANTIAS DO CONTRADITÓRIO E DA AMPLA DEFESA - COBRANÇA LEGÍTIMA - DESPROVIMENTO DO RECURSO.
+- Não há qualquer vício na instauração do processo administrativo, visto que garantido ao apelante ampla defesa e contraditório, sendo o titular da unidade consumidora responsável da guarda do equipamento.
+- Verificado que houve um consumo a menor não decorrido de falha técnica no medidor, bem como apurado adulteração no aparelho medidor, afigura-se legitima a cobrança em análise."
+Embargos de declaração rejeitados (e-STJ fls. 229/239).
+No especial obstaculizado, o ora agravante apontou violação dos arts. 319 do CPC/1973; 6º, 12, 18, 23, 24, 25, 42, 47, 51, 56 e 83, todos do CDC. Sustentou, inicialmente, que a r. sentença errou ao declarar que o feito versa apenas sobre matéria de direito e ao reconhecer a revelia do réu, sem aplicar os seus efeitos.
+Aduziu, ainda, não ser responsável pela custódia do medidor instalado na área externa do seu imóvel, atribuindo à agravada a responsabilidade objetiva por eventual defeito, adulteração ou mau funcionamento do aparelho (e-STJ fls. 242/267).
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, o que desafiou a interposição do presente agravo.
+Contraminuta.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Dito isso, registro que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, tanto nos termos do art. 544, § 4º, I, do CPC/1973, quanto nos moldes dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ.
+Nesse sentido, vide: AgRg no AREsp 834978/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 19/04/2016; AgInt no AREsp 1036445/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 04/04/2017, DJe 17/04/2017.
+In casu, o Tribunal a quo negou seguimento ao recurso especial pelos seguintes fundamentos: a) Súmula 283 do STF; b) Súmula 7 do STJ; c) consonância do acórdão recorrido com a jurisprudência do STJ, no que tange aos efeitos da revelia; e d) ausência de prequestionamento dos artigos do CDC (Súmulas 282 e 356 do STF) (e-STJ fls.175/179).
+O agravante, contudo, não se desincumbiu de infirmar todos os fundamentos impeditivos do seguimento do especial, notadamente as Súmulas 283 do STF e 7 do STJ e a consonância do acórdão com a jurisprudência, em evidente desrespeito ao princípio da dialeticidade.
+A apresentação de razões genéricas sobre os óbices apontados pela decisão de inadmissibilidade não é suficiente para infirmar a decisão agravada, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+No atinente à Súmula 283 do STF, insuficiente a mera alegação de que o recurso obstado abrangeu todos os fundamentos do aresto (e-STJ fl. 335), sem especificar o argumento constante do apelo nobre que teria contraposto o fundamento do acórdão tido por não atacado pela decisão de inadmissibilidade do especial.
+Em relação à Súmula 7 do STJ, é de rigor que a impugnação venha acompanhada de uma mínima contextualização do caso concreto e da tese jurídica objeto do recurso especial, bem assim das razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, o que não ocorreu no caso.
+Por fim, relativamente à consonância, limitou-se a apontar informativo de jurisprudência desta Corte Superior, sem contrapor frontalmente o fundamento.
+Caberia ao agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+Ante o exposto, o art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do referido dispositivo. Suspensa a exigibilidade por se tratar de beneficiário de justiça gratuita, conforme dicção do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
