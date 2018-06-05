@@ -1,0 +1,24 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MORTE DA PARTE AUTORA. HABILITAÇÃO DOS SUCESSORES. SUSPENSÃO DO PRAZO PROCESSUAL. ARTS. 265, I E 791, II, DO CPC/1973. PRESCRIÇÃO INTERCORRENTE. INEXISTÊNCIA DE PREVISÃO LEGAL. INTERPRETAÇÃO RESTRITIVA. AGRAVO DA FAZENDA DO ESTADO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO, com base na alínea a do art. 105, III da Constituição Federal, objetivando a reforma do acórdão proferido pelo Tribunal de Justiça daquela unidade federativa, assim ementado:
+EMBARGOS À EXECUÇÃO. Embargante que alega a ocorrência da prescrição e excesso de execução. Falecimento de um dos autores da ação. Aplicação do art 265, inciso I, do CPC. Até a habilitação dos respectivos sucessores não há que se falar em prescrição intercorrente. Inexiste prazo específico para a aludida habilitação, consoante o posicionamento firmado no âmbito do C. Superior Tribunal de Justiça. Embargos julgados procedentes em parte. Sentença mantida. Recurso conhecido e não provido (fls. 125).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 138/143).
+3. Em seu Apelo Nobre inadmitido, sustenta a parte recorrente violação dos arts. 535 do CPC/1973; e 25 da Lei 8.906/1994, aos seguintes fundamentos: (a) o acórdão recorrido, a despeito da oposição de Embargos de Declaração, permaneceu omisso sobre ponto relevante ao deslinde do feito; e (b) de que não deve prevalecer o entendimento de que o falecimento do exequente acarretaria a suspensão do lapso prescricional, uma vez que ação executiva tem por objeto a cobrança de honorários e não dos valores devidos aos herdeiros do falecido.
+4. É o relatório. Decido.
+5. No tocante ao art. 535 do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+6. No mais, observa-se que o acórdão recorrido está alinhado ao entendimento desta Corte de que o óbito de uma das partes do processo implica em sua suspensão, deste modo, ausente previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente. Nesse sentido, os seguintes julgados:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. ÓBITO DA PARTE AUTORA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. SUSPENSÃO DO PRAZO PRESCRICIONAL ATÉ HABILITAÇÃO DOS SUCESSORES. FALTA DE PREVISÃO LEGAL. PRECEDENTES DO STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos dos arts. 265, I, e 791, II, do CPC, a morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente.
+2. Agravo regimental a que se nega provimento (AgRg no AREsp. 286.713/CE, Rel. Min. MAURO CAMPBELL MARQUES, DJe 1.4.2013).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. FALECIMENTO. SUSPENSÃO. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA.
+1. O falecimento de uma das partes do processo importa na sua suspensão, razão pela qual, na ausência de previsão legal que imponha prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente. Precedentes do STJ.
+2. Agravo Regimental não provido (AgRg no AREsp. 282.115/CE, Rel. Min. HERMAN BENJAMIN, DJe 8.5.2013).
+
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, II, CPC. NÃO OCORRÊNCIA. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO. ÓBITO DA PARTE AUTORA. SUSPENSÃO DO PRAZO PRESCRICIONAL ATÉ HABILITAÇÃO DOS SUCESSORES. PRESCRIÇÃO INTERCORRENTE. FALTA DE PREVISÃO LEGAL.
+1. Com a morte do exequente deve o processo ser suspenso a fim de que seja regularizado o polo ativo da relação jurídica processual, nos termos do que dispõem os artigos 43, 265, I, e 791, II, do CPC, o que afasta a declaração da prescrição intercorrente por falta de previsão legal a respeito. Nesse sentido, confiram-se: AgRg no REsp 1.215.823/RJ, Rel. Min. Hamilton Carvalhido, Primeira Turma, DJe 26/04/2011; AgRg no AREsp 269.902/CE, Rel. Min. Humberto Martins, Segunda Turma, DJe 19/02/2013; AgRg no REsp 891.588/RJ, Quinta Turma, Rel. Min. Arnaldo Esteves Lima, DJe de 19/10/2009.
+2. Agravo regimental não provido (AgRg no AREsp. 259.255/CE, Rel. Min. BENEDITO GONÇALVES, DJe 18.3.2013).
+7. Ademais, importante ressaltar que a execução dos honorários foi promovida em nome da parte autora que veio a falecer no curso do processo, de modo que não há que se falar em prescrição intercorrente.
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial da FAZENDA DO ESTADO DE SÃO PAULO.
+9. Publique-se.
+10. Intimações necessárias.
