@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+LIMINAR – EXTENSÃO – CORRÉUS.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Vara Plantão da Comarca de Itapecerica da Serra/SP, no processo nº 0001624-53.2017.8.26.0628, converteu em preventivas as prisões em flagrante dos pacientes e de outras seis pessoas, ocorridas no dia 25 de agosto de 2017, ante o suposto cometimento das infrações versadas nos artigos 157, § 3º (roubo qualificado por resultar em lesão corporal grave), 148 (cárcere privado) do Código Penal e 16 (porte de arma de fogo de uso restrito) da Lei nº 10.826/2003. Frisou a gravidade dos delitos, no que envolvidos concurso de agentes, emprego de armas de fogo – 4 fuzis, 4 revólveres e 2 espingardas –, disparos de tiros contra policiais, vigilantes e transeuntes e manutenção de vítimas como reféns. Consignou indispensável a custódia para garantir a ordem pública, a instrução processual e a aplicação da lei penal, aludindo aos malefícios dos crimes para a sociedade e ao fato de os agentes haverem empreendido fuga. Afastou a viabilidade de medida cautelar diversa, tendo-a como inadequada, insuficiente. Pedido de liberdade provisória não foi acolhido pelo Juízo da Vara Única da Comarca de Embu-Guaçu/SP.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 435.469/SP. A Sexta Turma indeferiu a ordem.
+    O impetrante sustenta a inidoneidade da fundamentação do ato que implicou a preventiva, articulando com a ofensa aos artigos 5º, inciso LVII, e 93, inciso IX, da Constituição Federal. Aduz ausentes os requisitos ensejadores da preventiva. Sublinha o caráter excepcional da constrição provisória. Destaca as condições pessoais favoráveis dos pacientes – primariedade e residência fixa.
+    Requer, em âmbito liminar, o reconhecimento do direito de recorrerem em liberdade. No mérito, pretende a confirmação da providência.
+    Em consulta ao sítio do Tribunal de Justiça, em 2 de junho de 2018, verificou-se que o processo-crime está na fase de apresentação de alegações finais.
+    A etapa é de exame da medida acauteladora.
+    2. A prisão em flagrante pela prática de roubo qualificado, em concurso de agentes, com emprego de armas de fogo – 4 fuzis, 4 revólveres e 2 espingardas –, disparos de tiros contra policiais, vigilantes e transeuntes e manutenção de vítimas como reféns, revela estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a constrição se impunha, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Ocorre que, a esta altura, sem culpa formada, os pacientes estão presos há 9 meses e 10 dias. Surge o excesso de prazo. A preventiva deve ser balizada no tempo. Privar da liberdade, por período desproporcional, pessoas cuja responsabilidade penal não foi declarada em definitivo viola o princípio da não culpabilidade. Nada, absolutamente nada justifica tal fato.
+    3. Defiro a liminar. Expeçam alvarás de soltura a serem cumpridos com as cautelas próprias: caso os pacientes não se encontrem recolhidos por motivo diverso da prisão preventiva formalizada no processo nº 0001624-53.2017.8.26.0628, da Vara Plantão da Comarca de Itapecerica da Serra/SP, que passou a tramitar na Vara Única da Comarca de Embu-Guaçu/SP. Advirtam-nos da necessidade de permanecerem com as residências indicadas ao Juízo, atendendo aos chamamentos judiciais, de informarem eventual transferência e de adotarem a postura que se aguarda do homem médio, integrado à sociedade.
+    4. Sendo idêntica a situação jurídica dos corréus Ana Lúcia da Silva Melo, Roberto Dias, Thiago da Silva Melo, Marcos Paulo Fernandes Adão, Fernando Rodrigues de Aquino e Felipe Pereira Campos, no tocante ao excesso de prazo, estendo-lhes a medida acauteladora, com os mesmos cuidados, observado o disposto no artigo 580 do Código de Processo Penal.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 5 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
