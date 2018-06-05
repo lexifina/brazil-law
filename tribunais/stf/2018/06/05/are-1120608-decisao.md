@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “APELAÇÃO e REEXAME NECESSÁRIO – Ação declaratória Agente de Segurança Penitenciária Aposentadoria voluntária Reconhecimento do direito aos proventos integrais e com paridade aos vencimentos do pessoal da ativa Sentença de procedência Pretensão de reforma Inadmissibilidade - Preenchimento dos requisitos constantes da Lei Complementar Estadual nº 1.109/2010 - Alteração dos critérios de juros de mora e correção monetária Observância dos critérios de atualização da Lei Federal nº 11.960/09 Possibilidade até julgamento da Repercussão Geral nº 810, pelo E. STF Recurso de apelação a que se nega provimento. Reexame Necessário parcialmente provido.” (eDOC 1 p. 89)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 40, § 1°, III, do texto constitucional.
+    Nas razões recursais, alega-se que é necessário o cumprimento do prazo mínimo de 5 anos no nível em que for se aposentar para fazer jus aos proventos deste nível.
+    A Procuradoria-Geral da República manifestou-se pelo não conhecimento do agravo, em parecer assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGADA VIOLAÇÃO AO ARTIGO 40, § 1º, INCISO III, DA CONSTITUIÇÃO FEDERAL.
+    AÇÃO ORDINÁRIA PREVIDENCIÁRIA. PROCEDÊNCIA DO PEDIDO. APELAÇÃO DESPROVIDA E REEXAME NECESSÁRIO PARCIALMENTE PROVIDO. EMBARGOS DE DECLARAÇÃO REJEITADOS. RECURSO EXTRAORDINÁRIO. SEGUIMENTO NEGADO. AGRAVO.
+    AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 287/STF. PRECEDENTES.
+    MANIFESTAÇÃO PELO NÃO CONHECIMENTO DO AGRAVO.”
+    Decido.
+    A irresignação não merece prosperar.
+    Registro que a controvérsia versada no recurso extraordinário não se confunde com a versada no tema 578 da sistemática da repercussão geral, cujo paradigma é o RE-RG 662.423, rel. Min. Dias Toffoli, DJe 12.9.2012, a qual se dirige a cargos escalonados em carreira. Transcrevo sua ementa:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. APOSENTADORIA DE MEMBRO DO MINISTÉRIO PÚBLICO. IMPLEMENTAÇÃO DOS REQUISITOS ANTES DA ENTRADA EM VIGOR DA EMENDA CONSTITUCIONAL Nº 20/98. EXIGÊNCIA DE EFETIVO EXERCÍCIO DO CARGO EM QUE OCORRERÁ A APOSENTADORIA PELO PRAZO MÍNIMO DE CINCO ANOS. ANÁLISE DA ESTRUTURAÇÃO DE CARREIRA ESCALONADA EM CLASSES. MATÉRIA PASSÍVEL DE REPETIÇÃO EM INÚMEROS PROCESSOS, A REPERCUTIR NA ESFERA DE INTERESSE DE MILHARES DE SERVIDORES PÚBLICOS. TEMA COM REPERCUSSÃO GERAL.”
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, consignou que o recorrido passara mais de cinco anos em um cargo único, dividido em níveis, antes de se aposentar.
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PREVIDENCIÁRIO. CONCESSÃO DE APOSENTADORIA POR IDADE. PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS. REEXAME DE PROVAS E PRÉVIA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE-AgR 922.295, rel. Min. Cármen Lúcia, Segunda Turma, DJe 1.2.2016)
+    “Agravo regimental no recurso extraordinário. Servidor militar. Artigo 40, § 2º, da Constituição Federal. Inaplicabilidade. Pensão infortunística. Pensão previdenciária. Acumulação. Diferentes fundamentos legais. Preenchimento dos requisitos. Legislação local. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A Corte já se manifestou no sentido de que não se aplica aos militares a vedação imposta aos servidores públicos civis constante do art. 40, § 2º, da Constituição Federal. 2. Inadmissível, em recurso extraordinário, a análise da legislação local e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 280 e 279/STF. 3. Agravo regimental não provido.” (RE-AgR 901844, rel. Min. Dias Toffoli, Segunda Turma, DJe 14.12.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita
+    Publique-se.
+    Brasília, 5 de junho de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
