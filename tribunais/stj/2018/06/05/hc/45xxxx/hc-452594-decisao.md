@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n. 7002349-96.2017.8.26.0344).
+Consta dos autos que o Juízo da execução deferiu ao paciente a progressão ao regime semiaberto.
+Irresignado, o Ministério Público interpôs agravo em execução, que foi provido para cassar esse benefício e regredir o paciente ao regime fechado, determinando-se que outra decisão seja proferida após a realização do exame criminológico. O acórdão foi assim ementado (e-STJ fl. 16):
+Agravo em execução - Progressão de regime prisional - Requisito subjetivo - Sentenciado que cumpre pena por homicídio duplamente qualificado - Art. 112, LEP, alterado pela Lei n. 10.792/03, apesar de não exigir a realização de exame criminológico, fica a critério do Juiz sua realização - Não ficou provado que o sentenciado possui méritos para a obtenção do benefício - Decisão reformada para cassar a progressão de regime concedida, regredindo o sentenciado ao regime fechado e determinando-se que o pedido de progressão de regime prisional do sentenciado seja reapreciado com a realização de exame criminológico.
+No presente writ, alega a defesa que a regressão de regime para a feitura do exame criminológico não foi devidamente fundamentada no aresto impugnado, que apenas apontou a gravidade abstrata dos crimes pelos quais foi o paciente condenado. Aduz que ele ostenta bom comportamento carcerário e que não registra intercorrências que possam impedi-lo de adimplir o requisito subjetivo para o benefício (e-STJ fl. 9).
+Assim, requer, liminarmente, a sustação da submissão do paciente ao regime de pena mais rigoroso.
+É, em síntese, o relatório.
+Depreende-se dos autos que o presente writ impugna acórdão proferido pela 6ª Câmara de Direito Criminal do Tribunal de origem - HC n. 7002349-96.2017.8.26.0344 (e-STJ fls. 13/21).
+Ocorre que a causa de pedir e o pedido deste habeas corpus são idênticos aos do HC n. 437.976/SP, impetrado nesta Corte e também atribuído a esta relatoria, que igualmente impugna a mesma decisão prolatada pelo Tribunal de Justiça de São Paulo no habeas corpus originário, tombado com o mesmo número.
+Ante o exposto, diante da constatação de que o presente remédio constitucional é mera reiteração do HC n. 437.976/SP, indefiro-o liminarmente, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
