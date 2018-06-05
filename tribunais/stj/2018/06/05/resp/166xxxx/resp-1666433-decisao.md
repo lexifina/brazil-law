@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fulcro no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça da mesma unidade federativa, que deu parcial provimento ao apelo defensivo para afastar o acréscimo pelos maus antecedentes, reduzindo a pena para 2 anos e 4 meses de reclusão, bem como para fixar o regime semiaberto para o cumprimento da pena.
+Nas razões recursais, o órgão acusatório aponta, além de divergência jurisprudencial, contrariedade ao artigo 59, caput, do Código Penal, sob o fundamento de que a Corte de origem desconsiderou que a existência de condenações diversas daquela sopesada no cálculo da reincidência possibilita o aumento na primeira fase da dosimetria a título de maus antecedentes, sem que isso se configure em bis in idem.
+Requer, assim, o provimento do recurso especial, para o fim de agravar a pena-base em razão dos maus antecedentes do recorrido, sem prejuízo do aumento imposto pela reincidência.
+Contrarrazões não apresentadas.
+Admitido o inconformismo, os autos ascenderam a esta Corte Superior de Justiça.
+O Ministério Público Federal manifestou-se pelo provimento do recurso. E, na mesma oportunidade, requereu o início da execução da pena (e-STJ, fls. 381-387).
+É o relatório.
+Decido.
+A pretensão recursal merece acolhimento.
+O Tribunal de origem, ao redimensionar a pena da recorrida, adotou entendimento diverso desta Corte, em decisão assim fundamentada:
+"A sentença recorrida aumentou a pena, em razão dos antecedentes criminais, que entendeu configurados.
+Ocorre que as certidões, invocadas para tanto, revelam condenações trânsitas em julgado, em data anterior aos presentes fatos (fls. 51, 52, 55 - apenso). Configuram reincidência, circunstância agravante, que deve ser considerada no segundo momento, observado que deve ser o sistema trifásico, na graduação da pena. Não podem incidir a título de maus antecedentes.
+Assim sendo, afasta-se o acréscimo, em face da nota de maus antecedentes criminais, devendo permanecer unicamente a majoração de um sexto, decorrente da reincidência, circunstância agravante devidamente comprovada, resultando a pena de dois anos e quatro meses de reclusão e onze dias-multa, em regime semiaberto." (e-STJ, fls. 243-244)
+Entretanto, a jurisprudência desta Corte, em diversos julgados, já se manifestou na linha de que a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes e, ainda, para exasperar a pena, em razão da agravante da reincidência, não caracteriza bis in idem, desde que as sopesadas na primeira fase sejam distintas da valorada na segunda, como no caso em apreço.
+Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. REGIME FECHADO. LEGALIDADE. PENA ABAIXO DE 4 ANOS. PENA-BASE ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES. RÉU REINCIDENTE. INOCORRÊNCIA DE BIS IN IDEM. AGRAVO IMPROVIDO.
+1. Admite-se a fixação de regime prisional fechado ao réu reincidente, condenado à pena inferior à 4 anos, se a pena-base é estabelecida acima do mínimo legal.
+2. Consideradas distintas condenações criminais transitadas em julgado para elevar a reprimenda básica a título de antecedentes e agravar a pena pela reincidência, não há que se falar em violação do sistema trifásico, por apontado bis in idem.
+3. Agravo regimental improvido." (AgRg no AREsp 598.570/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/11/2016, DJe 29/11/2016);
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. PENA-BASE. PERSONALIDADE E MAUS ANTECEDENTES. DIVERSAS CONDENAÇÕES COM TRÂNSITO EM JULGADO. BIS IN IDEM. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não ocorre bis in idem na elevação da pena-base pela valoração negativa da personalidade, da conduta social e dos antecedentes, em virtude da existência de diversas condenações definitivas. Ressalva do Relator.
+2. O Juiz de primeiro grau - no que foi corroborado pela corte local - nada mais fez que reconhecer a reincidência, atribuir valoração negativa aos antecedentes e, ainda, sopesar desfavoravelmente a personalidade, dada a quantidade de condenações com trânsito em julgado, suficientes para alicerçar cada uma das vetoriais, além da agravante.
+3. Agravo regimental não provido." (AgRg no REsp 1.583.012/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/06/2016, DJe 01/08/2016).
+Logo, sendo distintas as condenações valoradas na primeira e segunda fase da dosimetria, não há se falar em bis in idem, razão pela qual é de rigor a incidência dos maus antecedentes.
+Portanto, deve ser restabelecida a pena dosada na sentença condenatória, que restou fixada em 2 anos, 8 meses e 20 dias de reclusão e 12 dias-multa (pena-base majorada em 1/6 pela valoração negativa dos antecedentes na primeira fase e aumentada em 1/6 pelo reconhecimento da agravante da reincidência na segunda fase).
+Por fim, verifica-se que o MINISTÉRIO PÚBLICO FEDERAL requereu sejam tomadas as providências cabíveis para a execução imediata do decreto condenatório.
+Diante da decisão proferida pelo Supremo Tribunal Federal, nos autos do HC 126.292/SP, ficou assente que, esgotadas as instâncias ordinárias, a interposição de Recurso Especial ou Extraordinário não obsta a execução da decisão penal condenatória. Esse entendimento foi reforçado no julgamento das medidas liminares nas ações declaratórias de constitucionalidade n. 43 e 44.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para restabelecer a pena fixada na sentença condenatória, estabelecida no patamar de 2 anos, 8 meses e 20 dias de reclusão e 12 dias-multa, mantendo-se, no mais, o acórdão recorrido. Outrossim, defiro o pleito ministerial e determino o envio de cópia dos autos ao Tribunal de origem, para que adote as providências cabíveis quanto ao início da execução provisória da pena imposta ao recorrido.
+Publique-se. Intimem-se.
