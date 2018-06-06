@@ -1,0 +1,31 @@
+EMENTA
+CONSUMIDOR. RECURSO ESPECIAL. RECURSO MANEJADO NA VIGÊNCIA DO NCPC. CONTRATO DE PLANO DE SAÚDE. OPERADORA FECHADA CONSTITUÍDA E ADMINISTRADA SOB A FORMA DE AUTOGESTÃO, SEM FINS LUCRATIVOS. APLICAÇÃO DA LEGISLAÇÃO CONSUMERISTA. NEGATIVA. PRECEDENTE RECENTE DA SEGUNDA SEÇÃO DO STJ. JULGAMENTO REALIZADO PELA CORTE DE ORIGEM À LUZ DO CDC. NECESSIDADE DE RETORNO DOS AUTOS PARA NOVA ANÁLISE. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+ETELVINA TORRES FERRO (ETELVINA) ajuizou ação em desfavor de POSTAL SAÚDE - CAIXA DE ASSISTÊNCIA E SAÚDE DOS EMPREGADOS DOS EMPREGADOS DOS CORREIOS (POSTAL), sob alegação de que é beneficiária de plano de saúde fornecido pela ré em razão do vínculo empregatício de seu marido com a Empresa Brasileira de Correios e Telégrafos, tendo sido surpreendida com a interrupção da prestação do respectivo plano de saúde após 180 (cento e oitenta) dias do óbito do titular, seu esposo.
+Em primeiro grau, o processo foi extinto com julgamento de mérito, tendo sido julgado improcedente o pedido autoral (e-STJ, fls. 334/337).
+Irresignada, ETELVINA interpôs apelação, que foi provida pelo Tribunal de origem em acórdão assim ementado:
+DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. MORTE DO TITULAR. DEPENDENTES. MANUTENÇÃO DO BENEFÍCIO. CONTRIBUIÇÃO. EMPREGADOR. SALÁRIO. INDIRETO.
+1. A juntada de instrumento de procuração original ou documento autenticado, bem como do respectivo substabelecimento, mostra-se desnecessária, visto que a cópia apresentada goza de presunção relativa de veracidade e legitimidade - Precedentes.
+2. Na espécie, aplica-se o regramento do Código de Defesa do Consumidor, pois a ré se enquadra na qualidade de fornecedora de serviços de saúde, enquanto o autor, por sua vez, é destinatário final desses serviços.
+3. Segundo o que dispõe a lei nº 9.656/98, art. 30, § 3º, está assegurado aos dependentes o direito de manter sua condição de beneficiário de plano de saúde, mesmo após a morte do titular, sem limitação de prazo.
+4. O pagamento pelo empregador da quantia correspondente à mensalidade devida ao plano de saúde configura salário indireto e, portanto, contribuição indireta paga pelo próprio empregador pela manutenção do respectivo plano, fato que assegurada ao dependente a permanência em plano de saúde, ainda que tenha advindo a morte do titular, nas mesmas condições contratuais, com a assunção das obrigações decorrentes.
+5. Recurso conhecido e provido. (e-STJ, fls. 399/400).
+Os embargos de declaração opostos por POSTAL foram conhecidos em parte e, nessa extensão, improvidos (e-STJ, fls. 484/498).
+Inconformada, POSTAL interpôs recurso especial com fundamento nas alíneas a e c do permissivo constitucional, apontando a violação dos arts. 2º e 3º, § 2º, do CDC e art. 30, § 6º, da Lei 9.656/98, por aduzir que o CDC não se aplica às operadoras de plano de saúde que operam na modalidade de autogestão, constituindo a recorrente uma pessoa jurídica sem fins lucrativos, administrada por seus próprios assistidos, sendo que seus serviços são oferecidos apenas a um universo fechado de empregados da Empresa Brasileira de Correios e Telégrafos. Também indicou dissídio jurisprudencial, tendo por paradigma precedente do Tribunal de Justiça do Estado de São Paulo.
+Em juízo de admissibilidade, a Presidência do Tribunal estadual admitiu o apelo nobre (e-STJ, fls. 520/522).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+No que se refere à aplicação do CDC, verifica-se que o aresto recorrido está em desconformidade com a orientação da Segunda Seção desta Corte no sentido de afastar a incidência da legislação consumerista sobre os serviços prestados pelas operadoras fechadas de planos privados de assistência à saúde sob o sistema de autogestão, sem fins lucrativos, nos seguintes termos:
+RECURSO ESPECIAL. ASSISTÊNCIA PRIVADA À SAÚDE. PLANOS DE SAÚDE DE AUTOGESTÃO. FORMA PECULIAR DE CONSTITUIÇÃO E ADMINISTRAÇÃO. PRODUTO NÃO OFERECIDO AO MERCADO DE CONSUMO. INEXISTÊNCIA DE FINALIDADE LUCRATIVA. RELAÇÃO DE CONSUMO NÃO CONFIGURADA. NÃO INCIDÊNCIA DO CDC.
+1. A operadora de planos privados de assistência à saúde, na modalidade de autogestão, é pessoa jurídica de direito privado sem finalidades lucrativas que, vinculada ou não à entidade pública ou privada, opera plano de assistência à saúde com exclusividade para um público determinado de beneficiários.
+2. A constituição dos planos sob a modalidade de autogestão diferencia, sensivelmente, essas pessoas jurídicas quanto à administração, forma de associação, obtenção e repartição de receitas, diverso dos contratos firmados com empresas que exploram essa atividade no mercado e visam ao lucro,
+3. Não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo.
+4. Recurso especial não provido.
+(REsp 1.285.483/PB, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, DJe 16/8/2016)
+Assim, considerando que a Corte de origem baseou-se no CDC para fundamentar a condenação da recorrente a reintegrar a recorrida ao plano de saúde da qual era beneficiária, se revela necessário o reexame da questão sob outro viés, de modo que a prestação jurisdicional seja dada de forma completa.
+É medida de rigor, portanto, o retorno dos autos à Corte de origem para que seja reavaliada a matéria.
+Nessas condições, DOU PROVIMENTO ao recurso especial a fim de afastar a incidência da legislação consumerista e determinar o retorno dos autos ao Tribunal de origem para que reanalise as questões à luz de novas bases, como entender de direito.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
