@@ -1,0 +1,46 @@
+EMENTA
+CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ATRASO NA ENTREGA DA OBRA. RECURSO DA PARTE AUTORA. LUCROS CESSANTES DEVIDOS. MORA COMPROVADA. DISSÍDIO JURISPRUDENCIAL. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DOMINANTE DESTA CORTE. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. REFORMA DO ACÓRDÃO, QUANTO AO PONTO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+CRISTIANA SARDÃO BARRETO (CRISTIANA) AJUIZOU AÇÃO de indenização por danos morais e materiais contra MRV ENGENHARIA E PARTICIPAÇÕES S.A. (MRV) em virtude de atraso na entrega de unidade habitacional adquirida na planta.
+Em primeira instância, o pedido foi julgado procedente em parte, a fim de condenar a demandada (1) ao pagamento de multa contratual de 2% sobre o valor atualizado do contrato, a partir da ocorrência do inadimplemtno (dez/2012) até a efetiva entrega do imóvel (jul/2013), com juros de mora de 1% ao mês; (2) ao ressarcimento das quantias pagas a título de "taxa de evolução da obra", a partir de dez/20112, no total de R$ 4.199,16 (quatro mil cento e noventa e nove reais e quinze centavos), de forma simples, corrigidos desde a data de cada vencimento, incluindo, ainda, os valores eventualmente quitados pela autora no decorrer da ação, a serem apurados em liquidação de sentença; (3) a quantia de R$ 15.000,00 (quinze mil reais) a título de danos morais, atualizados a partir da publicação da sentença, com juros de mora de 1% ao mês, desde a citação; e, (4) fixar a sucumbência recíproca.
+O Tribunal a quo negou provimento aos recursos interpostos, nos termos do acórdão a seguir ementado:
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA DE INDENIZAÇÃO - PROMESSA DE COMPRA E VENDA DE IMÓVEL - PRELIMINAR DE ILEGITIMIDADE PASSIVA - REJEIÇÃO. MÉRITO. ATRASO NA ENTREGA DAS CHAVES - DANOS MORAIS - REPARAÇÃO DEVIDA - DANOS MATERIAIS - DESPESAS COM ALUGUEL NÃO COMPROVADA - MULTA PELO ATRASO - APLICABILIDADE - Revela-se descabida a pretensão da apelada de ver afastada_a_sua Legitimidade para responder pedido de restituição da taxa de evolução da obra, pois, embora não seja a responsável direta pela cobrança de tal valor, porque previsto no contrato de financiamento celebrado entre a parte autora e a Caixa Econômica Federal, ela poderá responder igualmente perante o consumidor devido à demonstração de que tal cobrança persistiu em razão do atraso para a entrega da obra. No compromisso de compra e venda, o compromitente vendedor assume a obrigação de entregar o imóvel na data aprazada.
+Caso não cumpra o contratado deve arcar com a multa contratual. Não sendo afastado, por motivo de força maior, o atraso na entrega do imóvel, pela regra do ônus de prova (artigo 333 do CPC) reconhece-se o direito do adquirente do imóvel à indenização pelos danos morais suportados. A multa pelo atraso na entrega do imóvel constitui penalidade decorrente do contrato, sendo, no presente caso, inequivocamente devida pela construtora ré, em virtude de seu inadimplemento (e-STJ, fl. 438).
+Os embargos de declaração de MRV foram rejeitados (e-STJ, fls. 489/494).
+No recurso especial, fundado no art. 105, III, a e c, da CF, CRISTIANE alegou violação dos arts. 186 e 927 do CC/02, ao sustentar que, reconhecida a ocorrência de ato ilícito (atraso na entrega da obra), os lucros cessantes são devidos, independente da comprovação de prejuízo, em virtude da presunção de que o imóvel poderia ser utilizado para fins de locação, a fim de gerar renda para o seu adquirente.
+Após transcorrer in albis o prazo para apresentação das contrarrazões, o recurso foi admitido na origem (e-STJ, fls. 612/614).
+É o relatório.
+DECIDO.
+O recurso merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Dos lucros cessantes (arts. 186 e 927 do CC/02)
+CRISTIANA afirmou que, comprovado o ato ilícito, consubstanciado no atraso na entrega da unidade imobiliária adquirida em construção, são devidos os lucros cessantes, que não dependem de provas, sendo presumido o prejuízo acarretado ao adquirente, que deixou de dispor e gozar do imóvel e fruir dos frutos que poderia obter por meio da sua locação.
+Com relação ao tema, a Corte de origem destacou que:
+Com relação ao recurso da parte autora requerendo o pagamento dos lucros cessantes, razão não lhe assiste. É que indenização a respeito daquilo que deixou de receber dever ser acompanhada de prova contundente do dano material sofrido.
+Nestes autos, tal prova não existe e o que realmente consta dos autos é o documento de f. 116, que indica que o recibo de aluguel ali constante encontra-se datado em 06 de outubro de 2013, ou seja, date posterior a entrega das chaves não configurando indenização por lucros cessantes (e-STJ, fls. 445/446).
+Ocorre que o conteúdo decisório do Tribunal de origem está desacordo com a orientação firmada nesta Corte, de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promitente-comprador.
+Nesse sentido, vejam-se os julgados:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. ATRASO NA ENTREGA DA OBRA. LUCROS CESSANTES. CABIMENTO. DECISÃO MANTIDA.
+ .. ..
+4. De acordo com a jurisprudência desta Corte, o atraso na entrega de imóvel enseja pagamento de lucros cessantes, sendo presumível o prejuízo experimentado pelo promitente comprador. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.189.236/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 20/3/2018, DJe 27/3/2018).
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PROMESSA DE COMPRA E VENDA. APELO DA CONSTRUTORA. ENTREGA DO IMÓVEL. ATRASO INJUSTIFICADO. LUCROS CESSANTES. PROMITENTE COMPRADOR. DEMONSTRAÇÃO DE PREJUÍZO. DESNECESSIDADE. PRESUNÇÃO. ADMISSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+ .. .
+2. A decisão agravada consignou a possibilidade de condenação por lucros cessantes, havendo presunção de prejuízo do promitente comprador, nos casos em que há atraso na entrega do imóvel, estando em consonância com a atual jurisprudência desta Corte.
+ ..
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1.000.722/SP, Rel. Ministro MOURA RIBEIRO, Terceira Turma, j. 4/4/2017, DJe 17/4/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/73. AUSÊNCIA DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. MULTA DO ART. 538 DO CPC APLICADA PELO TRIBUNAL A QUO. AFASTAMENTO DA INCIDÊNCIA DA SÚMULA 98/STJ. FORÇA MAIOR. FORTUITO INTERNO. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. LUCROS CESSANTES. PRESUNÇÃO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. FALTA DE COTEJO ANALÍTICO. DISSÍDIO NÃO CONFIGURADO. AGRAVO NÃO PROVIDO.
+ .. .
+4. De acordo com a jurisprudência desta Corte, é cabível a condenação da construtora em indenização por lucros cessantes pelo retardo na entrega de imóvel objeto de contrato de compra e venda, independente de sua comprovação, tendo em vista que tal demora impossibilita o adquirente de fruir do bem. Além disso, é cabível neste caso a cumulação de lucros cessantes com cláusula penal decorrente da mora. Precedentes.
+ .. .
+6. Agravo interno não provido.
+(AgInt no AREsp 978.237/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 7/3/2017, DJe 16/3/2017, sem destaque no original).
+Aplicável, portanto, a Súmula nº 568 do STJ, segundo a qual, o relator, monocraticamente e no Superior Tribunal de Justiça poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Assim, comprovado o atraso na entrega da obra, é devida a indenização por lucros cessantes, que corresponderá à quantia mensal de 0,5% do valor atualizado do negócio, por mês de atraso, a partir do fim do prazo de tolerância estabelecido até a data da efetiva entrega das chaves, com incidência de correção monetária e juros de mora, a partir da citação.
+Nessas condições, DOU PROVIMENTO ao recurso especial, nos termos acima explicitados.
+Mantenho a sucumbência recíproca, determinando a sua distribuição na proporção em que vencidas as partes, conservando, quanto aos honorários advocatícios, o percentual fixado na origem (10% do valor da condenação).
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
