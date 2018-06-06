@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] e MARCOS CORREA DE LIMA, contra decisão indeferitória de provimento urgente proferida nos autos da impetração originária, em trâmite perante o Tribunal de Justiça do Estado de São Paulo (writ n.º: 0003753-75.2016.8.26.0366).
+Consta dos autos que os Pacientes, presos em flagrante delito, 13/10/2016, foram ambos denunciados pela suposta prática dos delitos tipificados nos arts. 180, caput, c.c. 311, caput, c.c. 288, caput, todos do Código Penal, sendo que o Paciente Marcos Correa de Lima foi também denunciado pelo eventual cometimento dos ilícitos previstos nos arts. 28, da Lei n.º 11.343/2006, e 304 c.c. 297, ambos do Código Penal.
+Consta, ainda, que ambos os Pacientes, juntamente com outros dois comparsas, "associaram-se estavelmente para o fim específico de cometer crimes"; "ocultavam, para proveito próprio, veículos automotores que sabiam ser produto de crimes anteriores"; e "adulteraram sinal identificador de veículo automotor, seus componentes e equipamentos" (fls. 26-27). Verifica-se, também, que [NOME] e outro indivíduo "guardavam, para consumo pessoal, 09 porções de maconha" e teria usado "documento público falsificado, consistente em Carteira Nacional de Habilitação adulterada" (fl. 27).
+Nas razões do writ, a Defesa sustenta, em suma, a necessidade de superação da Súmula n.º 691/STF, tendo em vista que "os delitos em questão são desprovidos de violência ou grave ameaça à pessoa" e que os "pacientes estão presos preventivamente desde 13/10/2016, sem formação da culpa, por tempo indeterminado, aguardando o retorno das precatórias e laudos faltantes" (fl. 02). Alega que "não há necessidade da mantença da prisão preventiva em regime fechado em razão das condições pessoais favoráveis dos pacientes (primariedade, bons antecedentes e residência fixa)" (fl. 03).
+Requer a concessão da ordem para que seja revogada a prisão preventiva em desfavor dos pacientes.
+A liminar foi indeferida às fls. 56-60.
+O Ministério Público Federal manifestou-se às fls. 160-165 pelo não conhecimento do writ, em parecer assim ementado:
+"HABEAS CORPUS. CRIMES DE RECEPTAÇÃO, ASSOCIAÇÃO CRIMINOSA E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR (ART. 180, CAPUT ART 311, CAPUT E ART 288, CAPUT. TODOS DO CP). PRISÃO PREVENTIVA DECRETADA. DECISÃO DO JULGADOR SINGULAR MANTIDA PELO TRIBUNAL ESTADUAL. WRIT QUE BUSCA A REVOGAÇÃO DA MEDIDA DE FORÇA, SOB ALEGATIVA DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. ALEGAÇÃO DE MOROSIDADE DA MARCHA PROCESSUAL NÃO EVIDENCIADA. APLICAÇÃO DO PRINCÍPIO DA RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. PARECER PELO CONHECIMENTO DO MANDAMUS E PELA DENEGAÇÃODA ORDEM POSTULADA".
+É o relatório.
+Decido.
+Ab initio, faz-se necessário asseverar que o presente writ investe contra decisão proferida por em. Desembargador de Tribunal de Justiça que denegou o pedido liminar em habeas corpus impetrado na origem.
+Sobre o tema, insta consignar que a jurisprudência desta Corte, há muito já se firmou no sentido de que, ressalvadas hipóteses excepcionais, descabe o instrumento heróico em tais situações, sob pena de ensejar supressão de instância.
+Tal matéria encontra-se, inclusive, sumulada, conforme se depreende do enunciado sumular n. 691/STF, in verbis: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Ademais, de acordo com as informações obtidas no sítio do Tribunal de origem (www.tjsp.jus.br), houve a superveniência do julgamento definitivo do habeas corpus originário na data de 08 de março de 2018.
+Desse modo, forçoso reconhecer a prejudicialidade do presente mandamus pela perda superveniente de seu objeto, uma vez que os seus argumentos, expostos contra a decisão monocrática indeferitória da medida liminar, encontram-se superados, em vista do pronunciamento final acerca do mandamus na origem.
+Nesse sentido a jurisprudência deste Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO DE LIMINAR NA ORIGEM. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. SÚMULA 691 DO STF. SUPERVENIÊNCIA DO JULGAMENTO DO WRIT ORIGINÁRIO. PERDA DO OBJETO. AGRAVO PREJUDICADO.
+1. A inexistência de flagrante ilegalidade não autoriza a superação da Súmula 691 do Supremo Tribunal Federal.
+2. A superveniência do julgamento do habeas corpus em que havia sido indeferido pedido de liminar, motivando impetração nesta Corte Superior, torna prejudicado o presente writ pela perda do seu objeto.
+3. Agravo regimental prejudicado" (AgRg no HC n. 341.136/PR, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 23/2/2016).
+"HABEAS CORPUS. INDEFERIMENTO DE LIMINAR. SUPERVENIÊNCIA DE DECISÃO COLEGIADA. ARGUMENTOS NÃO ATACADOS NA IMPETRAÇÃO. PERDA DO OBJETO. PREJUDICIALIDADE.
+1. Uma vez que a impetração insurge-se contra a decisão indeferitória da medida liminar pretendida no remédio constitucional originário, com o julgamento definitivo, cujos argumentos não foram atacados na impetração, prejudicado resta o pedido, ante a perda de seu objeto.
+ ..
+3. Ordem concedida de ofício para deferir ao paciente a liberdade provisória, mediante termo de comparecimento a todos os atos do processo, expedindo-se o competente alvará de soltura em seu favor, se por outro motivo não estiver preso" (HC n. 93.445/MS, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 26/5/2008).
+Ante o exposto, com fulcro no art. 34, inciso XI, do RISTJ, julgo prejudicado o presente habeas corpus.
+P.I.
