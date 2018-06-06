@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2232190-08.2017.8.26.0000).
+Consta dos autos que o recorrente está sendo processado nos autos da ação penal n. 0000596-59.2016.8.26.0604, em curso na 2.ª Vara Criminal da Comarca de Sumaré/SP, pela prática, em tese, dos crimes previstos nos arts. 33, caput, e 35, caput, c.c. art. 40, V, todos da Lei n. 11.343/06.
+A defesa impetrou habeas corpus perante o Tribunal a quo, o qual denegou a ordem em acórdão assim ementado:
+HABEAS CORPUS TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA FINS DE TRÁFICO PLEITO DE RECONHECIMENTO DE NULIDADE NULIDADE NÃO CARACTERIZADA DE PLANO INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE OU TERATOLOGIA PEDIDO DE REVOGAÇÃO DA PRISÃO PREVENTIVA PRESENÇA DOS PRESSUPOSTOS DA PRISÃO CAUTELAR ORDEM DENEGADA (fl. 41)
+No presente recurso, a defesa alega, em suma, "a nulidade do interrogatório do paciente como primeiro ato da instrução processual, realizado na forma do art. 57 da Lei de Drogas" (fl. 51)
+Requer, em liminar, a suspensão da Ação Penal nº 0000596-59.2016.8.26.0604 e revogação a prisão preventiva decretada em desfavor do recorrente. No mérito, pede o provimento do recurso para que seja "determinada a realização de "novo interrogatório" ao final da instrução criminal, a fim de possibilitar a Recorrente a contradição a todas as provas produzidas" (fl. 65).
+O Ministério Público Federal opinou pelo não conhecimento do reclamo, por ser reiteração do HC n. 428.745/SP (fls. 90/92).
+É o relatório.
+De início, cumpre ressaltar que foi formulado pedido idêntico em benefício do ora recorrente no HC n. 428.745/SP.
+Assim, tendo o presente recurso a mesma parte e questionando matéria anteriormente arguida no referido writ, o qual diz respeito à mesma ação penal de origem e impugna, inclusive, o mesmo julgado, resta configurada inadmissível reiteração, o que impede o conhecimento das alegações.
+Confira-se a jurisprudência pacífica deste Tribunal:
+HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS (533, 725 KG DE MACONHA). POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO E DE USO RESTRITO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. QUESTÃO NÃO DEBATIDA NO ACÓRDÃO IMPUGNADO. EXCESSO DE PRAZO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A impetração de habeas corpus com o objeto idêntico ao de outro já julgado caracteriza indevida reiteração de pedidos, circunstância que impede o conhecimento das alegações suscitadas.
+2. Se o Tribunal de origem não decidiu o tema referente aos fundamentos da prisão cautelar da paciente no acórdão impugnado e a atual impetração não foi instruída com o julgado que debateu a questão na origem, não tem cabimento o Superior Tribunal de Justiça falar a respeito da idoneidade ou não da motivação da custódia provisória.
+3. Quando o retardo na instrução decorre de circunstâncias excepcionais (por exemplo, da necessidade de se deprecar a realização de atos processuais, inclusive para citar a própria paciente, e da dificuldade em citar o outro acusado, que não está sendo localizado e contra quem está em aberto mandado de prisão), não há falar em extrapolação dos limites da razoabilidade ou em demora injustificável. A fim de que não se efetive o apontado constrangimento ilegal de excesso de prazo para formação da culpa, é recomendável o desmembramento do feito em relação à paciente.
+4. Habeas corpus conhecido em parte e, nessa parte, denegado, com a recomendação ao Juízo a quo de imprimir celeridade no julgamento da ação penal, inclusive desmembrando o processo se necessário for (HC 340.037/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 18/04/2016).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE DA SENTENÇA. ABSOLVIÇÃO. REITERAÇÃO DE PEDIDO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+I - A inicial do presente mandamus pugna pelo reconhecimento da nulidade da sentença e pela absolvição do paciente, sendo esse o mesmo pedido formulado no HC n. 334.031/SP, o que configura reiteração de pedido, processualmente inadmissível.
+II - Ademais, há também, no caso, supressão de instância, uma vez que o eg. Tribunal a quo não se pronunciou sobre as matérias ventiladas no presente writ, o que impede a análise, por esta Corte Superior de Justiça, pela vez primeira, de temas não debatidos pelas instâncias ordinárias.
+Agravo regimental desprovido (AgRg no HC 335.596/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 04/04/2016).
+Ante o exposto, nos termos do art. 34 do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente recurso em habeas corpus.
+Publique-se.
