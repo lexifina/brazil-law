@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Vara do Plantão da Comarca de Piracicaba/SP, no processo nº 0000382-49.2017.8.26.0599, converteu em preventiva a prisão em flagrante do paciente, ocorrida em 8 de abril de 2017, ante a suposta prática da infração versada no artigo 121, § 2º, incisos II e IV (homicídio qualificado por motivo fútil e uso de recurso que tornou impossível a defesa da vítima), combinado com o 29 (concurso de pessoas), do Código Penal. Frisou necessária a custódia para garantir a ordem pública. Aludiu à violência exacerbada da conduta, ressaltando haver o paciente, embora estivesse a vítima caída em razão de disparos de arma de fogo, desferido contra ela vários golpes com taco de bilhar, continuando a atacá-la, já desfalecida, com uma cadeira. Afirmou presente risco à aplicação da lei penal, realçando não demonstrado vínculo com o distrito da culpa. Entendeu insuficiente medida cautelar diversa. O Juízo da Vara do Júri e Execuções da Comarca de Piracicaba/SP, ao proferir sentença de pronúncia, em 14 de agosto de 2017, manteve a constrição, dizendo permanecerem os requisitos ensejadores. A Nona Câmara de Direito Criminal do Tribunal local desproveu recurso em sentido estrito protocolado pela defesa, mantendo a sentença de pronúncia.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 450.676/SP, o qual teve a liminar indeferida.
+    O impetrante assevera ser o caso de superação do verbete nº 691 da Súmula do Supremo. Aponta a demora injustificada para o julgamento do paciente e o excesso de prazo da preventiva, a perdurar por mais de 1 ano e 1 mês.
+    Requer, no campo precário e efêmero, o afastamento da prisão. No mérito, pretende a confirmação da providência.
+    Consulta ao andamento processual, em 5 de junho de 2018, revelou a interposição de embargos declaratórios no recurso em sentido estrito.
+    Vossa Excelência, no habeas de nº 154.638, implementou liminar em favor do corréu Ednildo Miranda de Assis, determinando a expedição de alvará de soltura. Não acolheu pedido de extensão formulado pelo paciente, salientando que a custódia deste foi imposta em decisão anterior, com fundamentação diversa.
+    A fase é de exame da medida de urgência.
+    2. Observem estar o paciente preso, sem culpa formada, desde 8 de abril de 2017, ou seja, há 1 ano, 1 mês e 27 dias. Surge o excesso de prazo. A preventiva deve ser balizada no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não foi declarada em definitivo viola o princípio da não culpabilidade. Nada, absolutamente nada justifica tal fato.
+    A superveniência de sentença de pronúncia não afasta a natureza preventiva da prisão. O artigo 283, cabeça, do Código de Processo Penal, ao versar os títulos prisionais provisórios, contempla o flagrante, a temporária e a preventiva, revelando que as custódias decorrentes da pronúncia e da sentença penal condenatória ainda não alcançada pela preclusão maior integram a última. O artigo 387, § 1º, denomina, expressamente, preventiva a constrição oriunda da condenação não transitada em julgado.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da prisão preventiva formalizada no processo nº 0000382-49.2017.8.26.0599, da Vara do Júri e Execuções da Comarca de Piracicaba/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do homem médio, integrado à sociedade.
+    4. O curso deste habeas não prejudica o de nº 450.676/SP, em trâmite no Superior Tribunal de Justiça. Com as homenagens merecidas, remetam cópia desta decisão ao relator, ministro Jorge Mussi.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 6 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
