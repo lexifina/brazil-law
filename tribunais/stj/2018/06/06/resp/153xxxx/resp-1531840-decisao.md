@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. APLICABILIDADE DO CPC/1973. AGRAVO DE INSTRUMENTO EM EXECUÇÃO DE SENTENÇA. FIXAÇÃO DE HONORÁRIOS PARA A EXECUÇÃO. ACÓRDÃO QUE ANALISA PORMENORIZADAMENTE O CASO CONCRETO E CONCLUI QUE INICIADA A EXECUÇÃO, O INSS FOI CITADO PARA CUMPRIMENTO DO ART. 730 DO CPC/1973 E CONDENADO A PAGAR HONORÁRIOS DE EXECUÇÃO, QUE FORAM ARBITRADOS COM EQUIDADE E UMA VEZ FIXADOS, NÃO PODE A AUTARQUIA EXECUTADA SOFRER NOVA CONDENAÇÃO. SOB PENA DE INCORRER-SE EM DUPLA CONDENAÇÃO. REVER A CONCLUSÃO DA CORTE DE ORIGEM EXIGIRIA, NECESSARIAMENTE, O REVOLVIMENTO DE MATÉRIA FÁTICA. INCIDÊNCIA DA SÚMULA 7/STJ. RAZÕES RECURSAIS QUE SE APRESENTAM DEFICIENTES NA TENTATIVA DE DEMONSTRAR QUE O ACÓRDÃO RECORRIDO CONTRARIOU DISPOSITIVO DE LEI FEDERAL. INCIDÊNCIA DA SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 3ª Região, assim ementado (fl. 133):
+AGRAVO. ARTIGO 557, § 1º, DO CPC. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA NO VALOR DE R$ 500,00. FIXAÇÃO DE HONORÁRIOS PARA A EXECUÇÃO NO VALOR DE R$ 300,00, APÓS ANTERIOR FIXAÇÃO DE HONORÁRIOS NO VALOR DE R$ 74,34. EXCLUSÃO.
+- Preliminar de descumprimento do artigo 526, parágrafo único, do Código de Processo Civil rejeitada: não impede o conhecimento de agravo de instrumento a não indicação dos documentos que instruíram o recurso, ausente prejuízo experimentado pelo agravado para a apresentação de contraminuta.
+- Execução de honorários de sucumbência cujo valor do principal importa em R$ 500,00 (quinhentos reais).
+- Fixação de honorários, na execução, no valor de R$ 74,34 (setenta e quatro reais e trinta e quatro centavos), que bem remunera o advogado, pouco importando se em razão ou não do Convênio PGE/OAB.
+- Fixação posterior de honorários em R$ 300,00 (trezentos reais), para a mesma execução de sucumbência, diga-se, já finda.
+- Exclusão, por se considerar desarrazoado outro arbitramento além dos R$ 74,34 (setenta e quatro reais e trinta e quatro reais) determinados.
+- Agravo a que se nega provimento.
+Embargos de declaração rejeitados.
+O recorrente sustenta negativa de vigência do art. 20, § 4º, do CPC/2015, são devidos honorários na execução, mesmo que não embargada, haja vista que a ação executiva iniciou em 20/10/1999, ou seja, anterior à edição da MP n. 2.180-35, de 24/8/2001 (em vigor diante do disposto no artigo 2º da Emenda Constitucional n. 32, de 11/9/2001.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 173/176.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+In casu, verifica-se que a Corte local conclui que, ao contrário do que alegado pela parte agravada, ora recorrente, os R$ 74,34 (setenta e quatro reais e trinta e cinco centavos) são honorários de execução, fixados quando da citação do INSS para cumprimento do art. 730 do CPC/1973 (fl. 49, e-STJ). Extrai-se, ainda, que o julgador a quo consignou que o autor deu início à execução em 20/10/1999, com a apresentação dos cálculos atualizados dos honorários arbitrados no processo de conhecimento (fl. 47, e-STJ), e em 21/10/1999, foi ordenada a citação do INSS para cumprimento do art. 730 do CPC/1973, ocasião em que foi fixado os honorários de execução. Em 7/12/1999 (fl. 51, e-STJ) o INSS junta petição concordando com os cálculos apresentados na execução e em 21/12/1999 (fl. 53, e-STJ) os cálculos são homologados pelo julgador a quo e alvará de levantamento do valor depositado (fl. 63). Após, em 18/4/2002, o exequente juntou petição requerendo a fixação de honorários de execução (fl. 65) e assim, a Corte de origem, incorrendo em equívoco, ordenou nova citação do INSS para cumprimento do art. 730 do CPC/1973, para pagamento de honorários advocatícios no valor de R$ 300,00 (fl. 67). Confira-se, no que interessa, o consignado pela Corte de origem (fls. 107-108)
+ ..
+Iniciou-se, no ano de 1999, dessa forma, a execução dos honorários advocatícios; o INSS foi citado em 10 de novembro do mesmo ano, manifestando-se, em 15 de dezembro seguinte, pela concordância com o cálculo do agravado (fls. 27-29).
+Ato seguinte (fls. 30), o cálculo foi homologado e requisitado o valor dos honorários, no importe de R$ 582,21 (quinhentos e oitenta e dois reais e vinte e um centavos). Então, em 18 de abril de 2002, o agravado veio aos autos para "requerer a fixação de honorários para a fase de execução, nos termos do art. 20, §§ 4º do CPC" (fls. 36), ocasionando seu arbitramento em R$ 300,00 (trezentos reais), conforme a decisão agravada.
+ ..
+Mas, de ver que os honorários advocaticios, na execução, foram fixados duas vezes, e duas vezes foi determinada a citação do INSS, nos termos do artigo 730 do Código de Processo Civil.
+Às fls. 28, tem-se, em decisão de 21 de outubro de 1999:
+"Vistos..
+Oficie-se ao Instituto requerido para que expeça a certidão de tempo de serviço em favor do requerente, nos termos dá sentença proferida a f 35- 36.
+Cite-se, nos termos do artigo 730 do C.P.C.
+Fixo honorários advocatícios do procurador da requerente em R$ 74,34 (setenta e quatro reais e trinta e quatro centavos), expedindo-se a competente certidão.
+Int."
+(fls. 130-131)
+ ..
+Vencedor o autor em ação de natureza declaratória, nada havia a executar quanto a valores atrasados.
+Iniciou-se, então, em 1999, a execução dos honorários de sucumbência, no valor de 10% (dez por cento) sobre o valor da causa.
+Simples cálculo foi apresentado pelo exequente, em 20 de outubro de 1999 (fls. 27).
+À vista do cálculo, no início do processo de execução da verba de sucumbência, no dia seguinte, foi proferida decisão determinando a citação do INSS e, ao mesmo tempo, fixando honorários advocatícios no valor de R$ 74,34 (setenta e quatro reais e trinta e quatro centavos), que, sob todos os aspectos, bem remunera execução de R$ 500,00 (quinhentos reais).
+A decisão não foi impugnada, como se não pudesse vir o exequente aos autos e requerer a fixação de honorários para a execução.
+Assim, diante de pedido inicial em processo de execução - o que se tem é a fixação de honorários no valor de R$ 74,34 (setenta e quatro reais e trinta e quatro centavos), sem especificação da respectiva natureza, pouco importando se o valor diz respeito ou não a honorários conveniado.
+Há, é fato, no recurso de agravo, a alegação de que o valor de R$ 74,34 diria respeito a honorários do Convênio PGE/OÂB, pagos ao advogado em virtude de assistência judiciária requerida, o que o distinguiria dos honorários da execução.
+Contudo, a decisão que fixou os honorários distinção não fez, sendo portanto, sem fundamento nos autos suposição de que se inferiam os R$ 74,34, exclusivamente, aos honorários conveniados, bem podendo se referir igualmente aos sucumbenciais, carente razão lógica para a dissociação.
+A execução da sucumbência resultou no levantamento de R$ 682,40 (seiscentos e oitenta e dois reais e quarenta centavos), correspondentes a R$ 672,41 "mais os acréscimos legais" (fls. 35), ao que se denota liquidada em fevereiro de 2002.
+Os R$ 74,34 (setenta e quatro reais e trinta e quatro centavos) remuneram a execução.
+A indicar que é despropositada a fixação de honorários para execução já finda no valor de R$ 300,00 (trezentos reais), diga-se, mais da metade do principal de R$ 500,00 (quinhentos reais), outro excesso.
+Quanto à argumentação de que o Supremo Tribunal Federal e o Superior Tribunal de Justiça decidem pela fixação de honorários advocatícios em execução de pequeno valor, a discussão, em verdade; ao fim, não tomou essa direção, até porque a decisão agravada arbitrou, por equidade - que no caso não existe -, o valor dos honorários.
+Nesse contexto, diante da análise pormenorizada da situação concreta dos autos é impossível, em sede de recurso especial, rever a conclusão da Corte de origem para alterar o julgado nos moldes em que pretendido pela parte ora recorrente, o que faz aplicável a Súmula 7/STJ.
+Ademais, ao alegar "negativa de vigência do art. 20, § 4º, do CPC/2015, pois são devidos honorários na execução, mesmo que não embargada, haja vista que a ação executiva iniciou em 20/10/1999, ou seja, anterior à edição da MP n. 2.180-35, de 24/8/2001 (em vigor diante do disposto no artigo 2º da Emenda Constitucional n. 32, de 11/9/2001" (fl. 161), incorreu a parte recorrente em equívoco, pois esse não é o fundamento que embasou o convencimento do julgador a quo, mas sim que a verba honorária que remuneraria o patrono na execução, já havia sido fixada, sob pena de se incorrer em dupla condenação da Autarquia previdenciária, cuja obrigação já se encontrava cumprida. Portanto, não se verifica no acórdão recorrido, contrariedade ao art. 20, §4º, do CPC/1973, nos moldes em que argumentado pela parte recorrente, isso porque a Corte de origem refere que os honorários advocatícios foram fixados com equidade, considerando o trabalho do advogado, e o valor pequeno valor da execução. Assim, tem-se que as razões recursais apresentam-se deficientes, atraindo a Súmula 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
