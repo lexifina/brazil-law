@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] fundamentado no artigo 105, inciso III, alínea "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"PLANO DE SAÚDE. Tratamento recusado pela seguradora, sob o fundamento de não estar previsto pela ANS. Abusividade. Decisão que cabe ao médico responsável pela segurada. Necessidade de se aferir o melhor tratamento ante o estado de saúde da paciente. Cabe à seguradora apenas limitar a doença coberta no contrato, mas não o tipo de tratamento. Procedimento cirúrgico de redução de seios para tratamento de coluna que se mostra necessário, porquanto sem caráter estético. Discussão e interpretação de cláusulas contratuais que não ensejam o dever de indenizar. Recurso provido em parte" (e-STJ fl. 169).
+No recurso especial, a recorrente alega divergência jurisprudencial com precedentes deste Superior Tribunal de Justiça, ao fundamento de que faz jus ao recebimento de indenização pelos danos morais sofridos em decorrência da recusa do plano de saúde em arcar com a cirurgia prescrita pelo médico. Sustenta que, conforme estabelece o princípio da causalidade, a recorrida deve arcar integralmente com os ônus de sucumbência.
+Sem as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência merece prosperar.
+A controvérsia reside no cabimento da reparação civil por dano moral na hipótese de recusa por parte do plano de saúde de arcar com as despesas de cirurgia voltada à redução de mamas (mamoplastia), recomendada pelo médico ortopedista porque o volume exagerado dos seios ocasionou à recorrente grave quadro álgico na coluna.
+No presente caso, diante da negativa do plano de saúde, a sentença de mérito determinou o ressarcimento integral dos danos materiais e morais - estes últimos arbitrados em R$ 15.000,00 (quinze mil reais).
+O acórdão recorrido, apesar de afirmar que o contrato não exclui a cobertura para o tratamento da patologia da recorrida, afastou a condenação em danos morais, por concluir que houve mero dissabor do paciente, causado pelo simples descumprimento contratual da recorrida. Entretanto, reconhece que o procedimento cirúrgico indicado para a demandante era necessário e prescrito pelo médico.
+Deste modo, não se trata de mero inadimplemento contratual. A negativa de cobertura do procedimento cirúrgico por parte da operadora do plano de saúde foi, sim, abusiva.
+Como cediço, em regra, a recusa indevida pela operadora de plano de saúde de cobertura médico-assistencial gera dano moral, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo, portanto, mero dissabor, ínsito às hipóteses correntes de inadimplemento contratual (vide REsp nº 1.651.289/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 5/5/2017).
+Nesse mesmo sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. RECUSA INJUSTIFICADA NA COBERTURA DE TRATAMENTO DE SAÚDE. REALIZAÇÃO DE CIRURGIA. PRESCRIÇÃO MÉDICA. DANOS MORAIS CONFIGURADOS. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal a quo, após acurada análise do acervo fático-probatório dos autos, concluiu que houve injustificada negativa de cobertura de tratamento de saúde.
+2. A jurisprudência desta Corte é pacífica no sentido de que a recusa indevida pela operadora de plano de saúde à cobertura de tratamento médico emergencial ou de urgência, a depender das circunstâncias particulares de cada caso, pode caracterizar afronta aos direitos da personalidade, a ensejar reparação por dano moral, não havendo que se falar em mero inadimplemento contratual.
+3. In casu, é inequívoco ter havido indevida recusa de cobertura de procedimento médico que foi indicado ao demandante, somente autorizado mediante decisão judicial, circunstâncias que ensejaram manifesto abalo a aspectos de sua dignidade, tendo em vista a urgência que o caso requeria, como devidamente comprovado nos autos.
+4. Nesse diapasão, de imposição o reconhecimento do dano moral sofrido pelo autor, visto que a conduta da ré, em muito, transbordou as raias do mero dissabor cotidiano, como assentado na decisão impugnada.
+5. Agravo interno desprovido" (AgInt nos EDcl no REsp 1.700.770/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 3/5/2018 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE PROCEDIMENTO CIRÚRGICO. DANO MORAL. RECUSA INJUSTIFICADA. CARACTERIZAÇÃO. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. Nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, como ocorrido no presente caso, em que a autora, portadora de tumor cerebral, teve negada cirurgia em situação de urgência e emergência, é assente a caracterização de dano moral, não se tratando apenas de mero aborrecimento.
+2. Agravo interno a que se nega provimento" (AgInt no AREsp 1.210.314/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 2/4/2018 - grifou-se).
+Logo, o acórdão recorrido merece reforma, incidindo, na espécie, o enunciado da Súmula nº 568/STJ, tendo-se como corolário lógico a readequação da sucumbência.
+Ante o exposto, dou provimento ao recurso especial a fim de manter, na íntegra, a sentença de fls. 131/139 (e-STJ).
+Publique-se. Intimem-se.
