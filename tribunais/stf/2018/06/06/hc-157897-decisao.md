@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor Wellington de Souza Silva, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao RHC nº 97.035/AL, Relator o Ministro Reynaldo Soares da Fonseca.
+    Sustenta a impetrante, em suma, a falta de fundamentação apta a justificar a necessidade da custódia preventiva do paciente, bem como a ausência dos pressupostos autorizadores da prisão, previstos no art. 312 do Código de Processo Penal.
+    Requer o deferimento da liminar, “expedindo-se alvará de soltura em favor do paciente, a título precário, até o julgamento do mérito do presente writ” (grifos da autora).
+    No mérito, pleiteia a concessão da ordem para “relaxar a prisão cautelar, expedindo-se o pertinente alvará de soltura clausulado em seu favor”(grifos da autora).
+    Examinados os autos, decido.
+     Transcrevo a ementa do aresto questionado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO DESPROVIDO.
+    1. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico (art. 5º, LXI, LXV e LXVI, da CF). Assim, a medida, embora possível, deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, sendo vedadas considerações abstratas sobre a gravidade do crime.
+    2. Hipótese na qual as instâncias ordinárias expuseram circunstâncias concretas que são aptas a indicar a periculosidade do recorrente, justificando, portanto, a segregação cautelar, como forma de assegurar a ordem pública. No caso, o recorrente foi flagrado com armas de fogo e munições diversas - 1 revólver calibre .38, com 6 munições, duas delas deflagradas; 1 espingarda calibre 28 com quatro munições intactas - bem como entorpecentes - 1 pedra de crack pesando cerca de 30g e mais 28g de maconha -, além de uma balaclava e diversos sacos plásticos para embalagem das drogas, tendo ainda admitido em seu interrogatório sua dedicação à traficância. Não se constata, portanto, a existência de constrangimento ilegal a ser sanado.
+    3. Recurso desprovido.” (anexo 3).
+    Pelo que há no acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça não evidencia ilegalidade flagrante, abuso de poder ou teratologia. Pelo contrário, encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    Consoante consignado pelo Ministro Reynaldo Soares da Fonseca no voto condutor do acórdão recorrido, o decreto de prisão preventiva do paciente
+    “encontra-se devidamente fundamentado, tal qual exige a legislação vigente. Foram regularmente tecidos argumentos idôneos e suficientes ao cárcere provisório na decisão e no acórdão transcritos.
+    As instâncias ordinárias expuseram circunstâncias concretas que são aptas a indicar a periculosidade do recorrente, justificando, portanto, a segregação cautelar, como forma de assegurar a ordem pública. No caso, o recorrente foi flagrado com armas de fogo e munições diversas - 1 revólver calibre .38, com 6 munições, duas delas deflagradas; 1 espingarda calibre 28 com quatro munições intactas - bem como entorpecentes - 1 pedra de crack pesando cerca de 30g e mais 28g de maconha -, além de uma balaclava e diversos sacos plásticos para embalagem das drogas, tendo ainda admitido em seu interrogatório sua dedicação à traficância.”
+    Como visto, o decreto prisional apresenta fundamentos aptos a justificar a constrição processual da liberdade do paciente, uma vez que calcado em elementos concretos da conduta, a saber, natureza da droga apreendida (crack e maconha), a grande quantidade de armas e munições encontradas em posse do paciente o risco concreto de reiteração delitiva.
+    Consoante entendimento da Corte, “não há ilegalidade evidente ou teratologia (...) na decisão que impõe prisão preventiva com base em elementos concretos aptos a revelar a especial gravidade da conduta” (HC nº 141.583/RN, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 2/10/17).
+    Ademais, o risco concreto de reiteração delitiva, como verificado na espécie, também autoriza a custódia preventiva (v.g. HC nº 140.215/RS-AgR, Segunda Turma, de minha relatoria, DJe de 27/4/17).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 6 de junho de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
