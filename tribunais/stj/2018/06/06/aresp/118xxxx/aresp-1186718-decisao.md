@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do NCPC), interposto por [NOME] RESORTS 91 WORLDWIDE, INC, contra decisão que não admitiu recurso especial (fl. 2055, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fls. 1.900, e-STJ):
+APELAÇÃO E REMESSA NECESSÁRIA - PROPRIEDADE INDUSTRIAL - PEDIDO PARA ALTERAR APOSTILAMENTO DE MARCA - SENTENÇA PROCEDENTE - RECURSO PROVIDO.
+I - Sabe-se que a proteção de exclusividade conferida pela Lei de Propriedade Industrial não abrange expressões de uso comum indispensáveis à descrição de produtos ou serviços e suas características, nem tampouco letras, algarismos ou datas, de forma isolada, em atenção aos preceitos dos incisos II e VI, do art.124.
+II - No caso, à evidência que a expressão "W HOTEL" insere-se nas duas hipóteses, assistindo razão ao INPI quando diz que a apostila aplicada ao título visa oferecer a única proteção "possível" a um sinal indiscutivelmente fraco, constituído de dois elementos que a lei de antemão recusa registro, desprovidos de qualquer originalidade, com a letra "W" do alfabeto em fonte padrão, acompanhada da expressão que nomeia a própria atividade comercial.
+III- Apelação e remessa necessária providas.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação do artigo 535, II, do CPC/73; e do artigo 124, II, da Lei n.º 9.279/96.
+Sustenta, em síntese, que sua marca, evidentemente, preenche todos os requisitos de registrabilidade, mesmo que não houvesse o termo "hotels" associado a ela.
+Afirma que, impõe-se o reconhecimento da distintividade do elemento estilizado "W" na composição de sua marca.
+Contrarrazões às fls. 2047/2050 (e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, pelos seguintes fundamentos: (i) não houve demonstração das vulnerações legais suscitadas; (ii) incidência da Súmula 7/STJ.
+Daí o presente agravo (art. 1042 do NCPC), no qual a agravante lança argumentos a fim de combater os retrocitados óbices.
+Não foi apresentada contraminuta, conforme certidão à fl. 2097, e-STJ.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Saliente-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como de fato ocorreu na hipótese dos autos.
+Assim, a apontada violação ao art. 535 do CPC/73 não se efetivou no caso dos autos, uma vez que não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de tornar nula a decisão impugnada no especial, porquanto a Corte de origem apreciou a demanda de modo suficiente, havendo se pronunciado acerca de todas as questões relevantes.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. OFENSA AOS ARTS. 165, 458, II, E 535, I E II, DO CPC DE 1973. IMPROCEDÊNCIA DA ARGUIÇÃO. ACIDENTE AMBIENTAL. CONTAMINAÇÃO DO SOLO E DAS ÁGUAS SUBTERRÂNEAS. DOENÇA GRAVE. PRAZO PRESCRICIONAL. TERMO A QUO. CIÊNCIA INEQUÍVOCA DOS EFEITOS DANOSOS À SAÚDE. SÚMULA N. 83/STJ. RECURSO NÃO PROVIDO.
+1. Improcede a arguição de ofensa aos arts. 165, 458, II, e 535, I e II, do CPC de 1973, quando o Tribunal de origem se pronuncia, de forma motivada e suficiente, sobre as questões relevantes e necessárias ao deslinde do litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1478280/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/08/2017, DJe 15/08/2017)
+2. Com efeito, ressalta-se, inicialmente, marca, segundo definição do próprio Instituto Nacional de Propriedade Industrial - INPI, constante de seu sítio na internet é: "todo sinal distintivo, visualmente perceptível, que identifica e distingue produtos e serviços, bem como certifica a conformidade dos mesmos com determinadas normas ou especificações técnicas. A marca registrada garante ao seu proprietário o direito de uso exclusivo no território nacional em seu ramo de atividade econômica. Ao mesmo tempo, sua percepção pelo consumidor pode resultar em agregação de valor aos produtos ou serviços."
+De acordo com entendimento do Superior Tribunal de Justiça, "marca é qualquer sinal distintivo (tais como palavra, letra, numeral, figura), ou combinação de sinais, capaz de identificar bens ou serviços de um fornecedor, distinguindo-os de outros idênticos, semelhantes ou afins de origem diversa"; mais, a proteção à marca "consiste em garantir a seu titular o privilégio de uso ou exploração, sendo regido, entre outros, pelos princípios constitucionais de defesa do consumidor e de repressão à concorrência desleal"; e, ainda, objetiva "proteger os adquirentes de produtos ou serviços, conferindo-lhes subsídios para aferir a origem e a qualidade do produto ou serviço, tendo por escopo, ainda, evitar o desvio ilegal de clientela e a prática do proveito econômico parasitário" (REsp 1327773/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/11/2017, DJe 15/02/2018).
+Em linhas gerais, qualquer sinal ou combinação de sinais que tenha capacidade distintiva poderá constituir uma marca. Podem ser palavras, letras, combinação de cores, elementos figurativos (logos), nomes, numerais, bem como qualquer combinação desses sinais.
+2. Na espécie, a recorrente pretende seja lhe conferido o direito ao registro do sinal "W", visto que, conforme alga "flagrante a distintividade intrínseca da marca, amplamente reconhecida no segmento hoteleiro" (fl. 2021, e-STJ).
+Por sua vez, o Tribunal a quo consignou, quanto ao tema, que a proteção à marca não abrange expressões de uso comum indispensáveis à descrição de produtos ou serviços e suas características, nem tampouco letras, algarismos ou datas, de forma isolada.
+A Corte regional concluiu, cotejando a marca da recorrente, que falta a figura da letra "W" recurso gráfico que lhe dê distinção; diferentemente da marca do provedor de internet Yahoo, cujo "Y" apresenta formatação tão singular, que perde o valor linguístico.
+Afirmou, também, que caso fosse permitido o apostilamento poderia haver risco de associação indevida, face a sabida existência de outras empresas que atuam no mesmo mercado, como a rede de hotéis WINDSOR que também faz uso da mesma letra em sua logomarca.
+Convém colacionar, o seguinte excerto retirado do acórdão recorrido (fls. 1987/1988, e-STJ):
+Como relatei, cuida-se de Remessa Necessária e Apelação contra sentença que determinou a substituição do apostilamento das marcas mistas "W HOTELS", de "sem direito ao uso exclusivo dos elementos nominativos isoladamente" para "sem direito ao uso exclusivo do termo HOTELS isoladamente"
+Sentença que não merece prosperar.
+Sabe-se que a proteção de exclusividade conferida pela Lei de Propriedade Industrial não abrange expressões de uso comum indispensáveis à descrição de produtos ou serviços e suas características, nem tampouco letras, algarismos ou datas, de forma isolada, em atenção aos preceitos dos incisos II e VI, do art.124, verbis:
+(..)
+No caso, à evidência que a expressão "W HOTEL" insere-se nas duas hipóteses, assistindo razão ao INPI quando diz que a apostila aplicada ao título visa oferecer a única proteção "possível" a um sinal indiscutivelmente fraco, constituído de dois elementos que a lei de antemão recusa registro, desprovidos de qualquer originalidade, com a letra "W" do alfabeto em fonte padrão, acompanhada da expressão que nomeia a própria atividade comercial.
+O cotejo da marca não deixa dúvida de que a figura da letra "W" destacada do conjunto esbarra sim no impedimento da lei, por falta de recurso gráfico que lhe confira suficiente distinção.
+Bem diferente dos exemplos que a Apelada usa como paradigma, extraídos das "Diretrizes de Análise de Marcas" do INPI, notadamente criativos, como a da empresa YAHOO, representada por um ""Y" acompanhado de um ponto de exclamação, com formatação tão singular, que perde o valor linguístico para adquirir o de mercado, representativo da empresa e dela indissociável.
+Da mesma forma como acontece com as marcas da WOLKSWAGEM, ITÁU, MAC DONALD, HONDA, e tantas outras, que a despeito fazerem uso de letras de forma isolada, dispensam o uso de qualquer outra palavra para auxiliar o reconhecimento.
+Não se podendo dizer o mesmo do título da Apelada que necessita de referência à atividade comercial, em seu conjunto, para dar identidade à marca.
+Ademais, forçoso reconhecer que o uso da letra "W" de forma isolada, permitida pelo novo apostilamento, poderá ensejar risco de associação indevida, face a sabida existência de outras empresas que atuam no mesmo mercado, como a rede de hotéis WINDSOR que também faz uso da mesma letra em sua logomarca.
+Assim, com razão o INPI, não havendo como admitir o uso com exclusividade de uma letra do alfabeto, sem nenhuma distinção, como faz o Magistrado em sua sentença.
+Ressalto que, ainda que o signo W possa ser considerado como registrável, evidentemente que a titular não poderá impedir a utilização, por outrem, da letra W em uma marca, ainda que para designar serviços idênticos ou afins, desde que não seja ela o elemento principal da marca em questão, e que esteja necessariamente acrescida de outros elementos preponderantes que sirvam como designativos e característicos, dando identidade própria à marca.
+Diante do exposto, reputo incorreta a decisão administrativa que determinou a imposição de apostila de não exclusividade do signo W para os registros n.ºs 828.629.668, 828.664.927 e 828.629.684, devendo, portanto, ser julgada procedente a pretensão autoral, para que seja retificada a mencionada ressalva, de "sem direito ao uso exclusivo dos elementos nominativos isoladamente" para "sem direito ao uso exclusivo do termo HOTELS isoladamente".
+Diante desse contexto, o aresto recorrido encontra amparo na jurisprudência do Superior Tribunal de Justiça.
+Observe-se:
+PROPRIEDADE INDUSTRIAL. REGISTRO DA MARCA "PORTAPRONTA". PRETENDIDA EXCLUSIVIDADE. IMPOSSIBILIDADE. USO DE TERMOS COMUNS E SIMPLESMENTE DESCRITIVOS DO PRODUTO QUE VISAM A DISTINGUIR. LEI 9.279/96. ART. 124, VI.
+1.- Para a composição da marca "PortaPronta" a Recorrente não criou palavra nova, mas valeu-se de palavras comuns, que, isolada ou conjuntamente, não podem ser apropriadas com exclusividade por ninguém, já que são de uso corriqueiro e desprovidas de originalidade.
+2.- Adequado o registro realizado pelo INPI, com a observação de que "concedida sem exclusividade de uso dos elementos normativos".
+3.- Recurso Especial improvido.
+(REsp 1039011/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 14/06/2011, DJe 17/06/2011)
+PROPRIEDADE INDUSTRIAL. AÇÃO DE NULIDADE DE REGISTRO DE MARCA COMERCIAL. MARCA FRACA OU EVOCATIVA. POSSIBILIDADE DE CONVIVÊNCIA COM OUTRAS MARCAS. IMPOSSIBILIDADE DE CONFERIR EXCLUSIVIDADE À UTILIZAÇÃO DE EXPRESSÃO DE POUCA ORIGINALIDADE OU FRACO POTENCIAL CRIATIVO.
+1. Marcas fracas ou evocativas, que constituem expressão de uso comum, de pouca originalidade ou forte atividade criativa, podem coexistir harmonicamente. É descabida, portanto, qualquer alegação de notoriedade ou anterioridade de registro, com o intuito de assegurar o uso exclusivo da expressão de menor vigor inventivo.
+2. Marcas de convivência possível não podem se tornar oligopolizadas, patrimônios exclusivos de um restrito grupo empresarial, devendo o Judiciário reprimir a utilização indevida da exclusividade conferida ao registro quando esse privilégio implicar na intimidação da concorrência, de modo a impedi-la de exercer suas atividades industriais e explorar o mesmo segmento mercadológico.
+Aplicação da doutrina do patent misuse.
+RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+(REsp 1166498/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/03/2011, DJe 30/03/2011)
+CIVIL E PROCESSUAL CIVIL. PROPRIEDADE INDUSTRIAL. CONFLITO ENTRE NOME FANTASIA E NOME EMPRESARIAL. REGISTRO DE MARCA SUPERVENIENTE. VOCÁBULO DE USO COMUM.
+1. O Tribunal a quo manifestou-se acerca de todas as questões relevantes para a solução da controvérsia, tal como lhe fora posta e submetida. Não cabe alegação de violação do artigo 535 do CPC, quando a Corte de origem aprecia a questão de maneira fundamentada, apenas não adotando a tese da recorrente. Precedentes.
+2. A falta de prequestionamento em relação aos arts. 58 e 175 da Lei 9.279/96; 33 e 34 da Lei 8.934/94; 129 e 130, III, da Lei 9.279/96, impede o conhecimento do recurso especial. Incidência da súmula 211/STJ.
+3. É vedada a esta Corte apreciar violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Em princípio, os elementos que formam o nome da empresa, devidamente arquivado na Junta Comercial, não podem ser registrados à título de marca, salvo pelo titular da denominação ou terceiros autorizados.
+5. O termo "Brasil", principal elemento do nome empresarial, é, contudo, vocábulo de uso comum, podendo, em função de seu caráter genérico, ser objeto de registro de marca até mesmo por empresas que atuem no mesmo ramo comercial, pois carece da proteção firmada nos termos do art. 124, V, da Lei Lei 9.279/96.
+6. Recurso especial conhecido em parte e, na extensão, provido, para julgar improcedentes os pedidos iniciais, invertendo os ônus sucumbenciais.
+(REsp 1082734/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 03/09/2009, DJe 28/09/2009)
+Ademais, sob pena de ampliar o efeito devolutivo e caracterizar este Superior Tribunal de Justiça como terceira instância ordinária, distanciando-se, por consequência, da atribuição constitucional extraordinária estabelecida, é vedado, nos termos do Enunciado n. 7 da Súmula deste STJ, e por quaisquer das alíneas do permissivo constitucional, o exame de pretensões que, para o seu acolhimento, reclamem o revolvimento dos elementos fáticos e probatórios dos autos.
+Assim, diante das razões do recurso especial e da fundamentação do acórdão recorrido, rever o entendimento do Tribunal de origem demandaria, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7/STJ.
+Predecente:
+RECURSO ESPECIAL. NULIDADE DE REGISTRO DE MARCA. PRODUTOS. MESMO RAMO COMERCIAL. MARCAS REGISTRADAS. USO COMUM. EXCLUSIVIDADE. NÃO OCORRÊNCIA. ALTO RENOME. EFEITO PROSPECTIVO.
+1. Visa a presente ação ordinária a declaração de nulidade do registro de propriedade industrial da marca SANYBRIL, que atua no mesmo ramo comercial da autora de marca BOM BRIL.
+2. Conforme a jurisprudência consolidada desta Corte, marcas fracas ou evocativas, que constituem expressão de uso comum, de pouca originalidade, atraem a mitigação da regra de exclusividade decorrente do registro, admitindo-se a sua utilização por terceiros de boa-fé.
+3. Tendo o Tribunal estadual concluído, diante do contexto fático-probatório dos autos, que o termo BRIL seria evocativo e de uso comum, e que as marcas teriam sido registradas sem a menção de exclusividade dos elementos nominativos, não haveria como esta Corte Superior rever tal entendimento, sob pena de esbarrar no óbice da Súmula nº 7/STJ.
+4. O Superior Tribunal de Justiça decidiu que, a partir do momento que o INPI reconhece uma marca como sendo de alto renome, a sua proteção se dará com efeitos prospectivos (ex nunc). Assim, a marca igual ou parecida que já estava registrada de boa-fé anteriormente não será atingida pelo registro daquela de alto renome, como no caso em apreço.
+5. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1582179/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/08/2016, DJe 19/08/2016)
+3. Do exposto, com amparo no artigo 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao recurso.
+Publique-se.
+Intimem-se.
