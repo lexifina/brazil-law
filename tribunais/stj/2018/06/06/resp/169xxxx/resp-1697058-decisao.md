@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. ARTIGO 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fulcro na alínea "a" do permissivo constitucional, contra acórdão do TRF da 1ª Região, assim ementado (fl. 110):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - HONORÁRIOS: ADVOGADO DATIVO - TABELA DE HONORÁRIOS - VIGÉNCIA - ADEQUAÇÃO - REDUÇÃO. 1. Os pressupostos de justificativa para nomeação de defensor dativo, bem como os valores arbitrados a titulo de honorários são analisados pelo juiz singular, que os fixa considerando a participação daquele profissional nas causas. 2. Mantém-se o valor do crédito do advogado dativo fixado antes da vigência da tabela veiculada no Termo de Cooperação Mútua entre este Tribunal, a OAB/MG e o Estado de Minas Gerais. Após o referido termo, os honorários devem ser reduzidos em adequação à tabela da OAB.
+Os embargos de declaração foram rejeitados.
+No apelo especial, a parte recorrente alega negativa de vigência ao art. 535, do CPC/1973, correspondente ao 1.022, II, do CPC/2015, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia, em especial sobre o fato das sentenças terem sido transitadas em julgado e de que os requisitos legais postos no art. 20 do CPC/73 não estavam sendo analisados para minorar os honorários advocatícios posto em títulos executivos transitados em julgado em outro feito.
+Quanto ao mérito, sustenta ofensa aos arts. 5º, II, LIV, LV, XXXVI da Carta Constituinte, art. 20, § 3º alíneas "a", "b" e "c", § 4º; 128, 460 e 467 todos do CPC/73, artigo 141, 492, 502 CPC/15 c/c art. 6º da LICC.
+Juízo positivo de admissibilidade às fls. 173.
+É o relatório. Passo a decidir.
+Com efeito, a recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que a recorrente argumenta e requer a manifestação expressa do órgão julgador a respeito da omissão acerca do fato das sentenças terem sido transitadas em julgado e de que os requisitos legais postos no art. 20 do CPC/73 não estavam sendo analisados para minorar os honorários advocatícios posto em títulos executivos transitados em julgado em outro feito.
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação sem esclarecimento suficiente a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022, do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
