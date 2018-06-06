@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por PEDRA SUL CONSTRUTORA S.A. E OUTROS contra a decisão que não admitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. I - DECISÃO QUE INDEFERE EFEITO SUSPENSIVO. AUSÊNCIA DO REQUISITO DA GARANTIA DA EXECUÇÃO POR MEIO DE PENHORA, DEPÓSITO OU CAUÇÃO. INOBSERVÂNCIA DO DISPOSTO NO ART. 739-A, § 1º, DO CPC. II - PLEITO DE SOBRESTAMENTO. EMPRESA EM RECUPERAÇÃO JUDICIAL. PERDA PARCIAL DO OBJETO. PEDIDO JÁ DEFERIDO. III - SOBRESTAMENTO QUE NÃO ABRANGE OS COOBRIGADOS. ART. 49, §1º, DA LEI DE FALÊNCIAS E RECUPERAÇÃO JUDICIAL.
+I - "A teor do art. 739-A, caput, do Código de Processo Civil, via de regra, "os embargos do executado não terão efeito suspensivo". Excepcionam-se, contudo, os casos em que estiverem presentes, cumulativamente, os requisitos previstos no §1º do mencionado dispositivo (houver requerimento do embargante; forem relevantes os fundamentos dos embargos; o prosseguimento da execução puder causar ao executado grave dano de difícil ou incerta reparação, e; a execução esteja garantida por penhora, depósito ou caução suficientes)" (TJPR 15 C.Cívei - Al - 611230-7 - Londrina - Rel.: Luiz Carlos Gabardo - Unânime - J. 04.11.2009).
+II - Já havendo sido deferida a suspensão da execução em face da empresa recuperanda, perdeu-se o objeto do presente recurso que era de seu interesse.
+III - "A suspensão prevista no art. 6º, caput, da Lei nº 11.101/2005 atinge somente a empresa devedora em regime de falência, recuperação judicial ou liquidação extrajudicial, não impedindo o curso das execuções contra os coobrigados, fiadores e obrigados de regresso (art. 49, § 1º, da citada lei), com ressalva dos sócios com responsabilidade ilimitada e solidária" (AgRg no REsp 1191297 / RJ.TERCEIRA TURMA. Rel. Ministro JOÃO OTÁVIO DE NORONHA. J. 25/06/2013. DJe 01/07/2013).
+AGRAVO DE INSTRUMENTO CONHECIDO E NÃO PROVIDO" (e-STJ fls. 327/328).
+Os embargos de declaração opostos foram rejeitados.
+A denegação se deu pelos seguintes fundamentos:
+(i) não ocorrência de negativa de prestação jurisdicional; e
+(ii) incidência da Súmula nº 83/STJ e do artigo 1.030, I, "b", do Código de Processo Civil de 2015 em relação ao pedido de extensão do sobrestamento da execução que foi deferido à empresa em recuperação judicial.
+No especial, além de divergência jurisprudencial, os agravantes alegam violação dos artigos 535, II, do Código de Processo Civil de 1973 e 6º e 59 da Lei nº 11.101/2015.
+Aduzem que o Tribunal de origem incorreu em negativa de prestação jurisdicional ao deixar de examinar a documentação trazida e a presença de fato novo, consistente no deferimento de recuperação judicial de Pedra Sul Construtora S.A., sendo demonstrada a grave crise financeira que referida empresa enfrenta.
+Sustentam que a suspensão das ações e execuções do Grupo Sultepa decorrente do deferimento da Recuperação Judicial estende-se aos coexecutados.
+Afirmam que, em virtude da novação da dívida por conta da habilitação do crédito objeto da execução no Plano de Recuperação da empresa, deve-se respeitar a ordem de credores existente, de modo que permitir a execução contra os garantidores poderá importar em pagamento em duplicidade.
+Após a apresentação das contrarrazões (e-STJ fls. 514/520), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Inicialmente, observa-se que a decisão de inadmissibilidade do recurso especial foi publicada em 4/11/2016 (e-STJ fl. 533), ocasião em que já se encontrava em vigor o Código de Processo Civil de 2015, que prevê, expressamente, em seu art. 1.030, I, "b", § 2º, que o recurso admissível, na hipótese do inconformismo ter sido obstado em razão de julgamento sob o rito do repetitivo, é o de agravo interno, in verbis:
+"Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+(..)
+b)  a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+II - encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça exarado, conforme o caso, nos regimes de repercussão geral ou de recursos repetitivos
+§  2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021. - grifou-se"
+A propósito, a Terceira Turma deste Superior Tribunal, quando do julgamento do AREsp nº 959.991/RS, Rel. Ministro Marco Aurélio Bellizze, em 16/8/2016, firmou entendimento que, quando a Corte de origem inadmitir o recurso especial com base em recurso repetitivo, a interposição de agravo em recurso especial constitui erro grosseiro.
+Eis a ementa:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/2015. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA (CPC/2015, ART 932, III). NECESSIDADE. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC: TAXA DE JUROS REMUNERATÓRIOS CONTRATADOS. CAPITALIZAÇÃO MENSAL DE JUROS. NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART. 1.042). 3. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. CARACTERIZAÇÃO. 4. RECURSO CONHECIDO APENAS QUANTO À ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. MÉRITO. AFASTAMENTO. 5. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 8º E 11, DO CPC/2015.
+1. Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.042, caput). Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+2. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.
+3. Não se configura ofensa ao art. 535 do CPC/73 quando o Tribunal de origem, embora rejeite os embargos de declaração opostos, manifesta-se acerca de todas as questões devolvidas com o recurso e consideradas necessárias à solução da controvérsia, sendo desnecessária a manifestação pontual sobre todos os artigos de lei indicados como violados pela parte vencida.
+4. Agravo parcialmente conhecido para, nessa extensão, negar provimento ao recurso especial, com majoração dos honorários advocatícios, na forma do art. 85, §§ 8º e 11, do CPC/2015."
+Por tais razões, entende-se incabível o agravo interposto contra a decisão de admissibilidade na parte que aplicou a orientação firmada sob o rito de recurso especial repetitivo (suspensão da execução aos coobrigados).
+No mais, quanto à violação do art. 535 do CPC/1973, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+De fato, o aresto que apreciou os embargos declaratórios se manifestou no tocante ao pedido de extensão da suspensão das execuções do seguinte modo:
+"(..)
+A despeito das razões invocadas pelo embargante, não se vislumbra a ocorrência de qualquer das hipóteses referidas, tendo o acórdão devidamente apreciado as questões tais quais postas, fundamentando as razões pelas quais entendeu que a suspensão da execução em face da empresa em recuperação judicial não impõe a suspensão ou extinção da execução proposta contra os avalistas do devedor recuperando, haja vista que referida suspensão não se estende à obrigação garantida por aval.
+(..) em nenhum momento houve qualquer insurgência da parte no sentido de que o prosseguimento da execução acarretará pagamento em duplicidade e que implicará em privilégio descabido em favor de alguns credores.
+Insurgir-se neste momento, por meio de embargos de declaração, acerca de pagamento em duplicidade ou indevido privilégio de parte dos credores caracteriza inovação recursal" (e-STJ fls. 365 e 368).
+ Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Ante o exposto, conheço em parte do agravo e, nessa parte, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
