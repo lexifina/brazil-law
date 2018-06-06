@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de IRANDI PAIS BEZERRA contra decisão proferida por Desembargador do Tribunal de Justiça de São Paulo nos autos do HC n. 2091330-20.2018.8.26.0000.
+Consta dos autos que o paciente foi preso em flagrante (convertida a custódia em prisão preventiva) e denunciado pela suposta prática do crime previsto no artigo 33, caput, da Lei n. 11.343/2006.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A liminar requerida, todavia, foi indeferida pelo Desembargador Relator (e-STJ fls. 69/71).
+Na presente oportunidade, o impetrante sustenta, em síntese, a ilegalidade da segregação cautelar, ante a ausência de fundamentação idônea do decreto de prisão preventiva e dos motivos autorizadores previstos no art. 312 do Código de Processo Penal, ressaltando que nem a gravidade abstrata do delito nem meras suposições podem servir como fundamento para a manutenção da medida constritiva.
+Destaca, ainda, que o paciente é primário, portador de bons antecedentes, possui residência fixa e ocupação lícita, além de ter se entregado espontaneamente na delegacia, reunindo, assim, condições subjetivas favoráveis ao pleito de liberdade, não se podendo desconsiderar, por fim, a viabilidade de imposição de medidas cautelares diversas da prisão.
+Diante disso, requer, em liminar e no mérito, com superação do enunciado da Súmula n. 691 do STF, a revogação da prisão preventiva, com ou sem aplicação de medidas cautelares alternativas.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (Súmula 691/STF), o que não ocorre na espécie. A propósito:
+CRIMINAL. HC. QUADRILHA. FURTO QUALIFICADO. PRISÃO PREVENTIVA. FALTA DE FUNDAMENTAÇÃO. ATO DE DESEMBARGADOR. INDEFERIMENTO DE LIMINAR. SÚMULA N.º 691/STF. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. ORDEM NÃO CONHECIDA.
+1- Não cabe habeas corpus contra indeferimento de liminar, exceto em casos de evidente e flagrante ilegalidade, sob pena de indevida supressão de instância, uma vez que o mérito da ordem originária ainda não foi apreciado no Tribunal a quo.
+2- Súmula n.º 691 que teve sua validade reafirmada pelo Supremo Tribunal Federal, com a ressalva de que o enunciado não impede o conhecimento de habeas corpus, se evidenciado flagrante constrangimento ilegal.
+3- Não sendo possível constatar qualquer ilegalidade na decisão recorrida, deve o paciente aguardar a apreciação do mérito da questão aduzida em 2º grau.
+4- Ordem não conhecida. (HC 82.163/SP, Rel. Ministra JANE SILVA - Desembargadora Convocada do TJ/MG - DJe 1º/10/2007).
+In casu, a segregação cautelar foi determinada com o fim de resguardar a ordem pública, diante da gravidade concreta da conduta e periculosidade do agente. Nesse contexto, ainda que eventualmente se possa entender que a quantidade de drogas apreendida não justifica, por si só, a determinação da custódia cautelar, o certo é que outros materiais típicos da mercancia foram encontrados na própria residência do acusado, local que era apontado como ponto de venda de drogas, indicando, portanto, um significativo envolvimento do acusado com o tráfico de entorpecentes, tal como apontou o decreto prisional (e-STJ fls. 54/56).
+Dessa forma, a questão em exame - a presença dos requisitos autorizadores da medida constritiva - necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar a argumentação da impetração e as provas juntadas ao mandamus no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intime-se.
