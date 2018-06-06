@@ -1,0 +1,31 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - Base de cálculo do imposto sobre transmissão causa mortis e doação (ITCMD) - Valor venal - Valor de mercado do bem ou direito na data da abertura da sucessão ou da realização do ato ou contrato de doação – Impossibilidade de utilizar os parâmetros do Decreto no 55.002/2009, que alterou o Regulamento do ITCMD - Sentença mantida - Recurso voluntário da Fazenda Estadual improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, 2º, 5º, LXIX, 18 e 25 a 28, 155, I, todos da CF. Sustenta que após a promulgação da Lei estadual nº 10.705/2000, há previsão legal para que a Fazenda do Estado de São Paulo possa exigir, como base de cálculo do ITCMD, o valor de mercado do bem na data da abertura da sucessão ou na realização do ato ou contrato de doação.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “Opôs-se recurso extraordinário hospedado na alínea "a" do inciso III do artigo 102 da Constituição da República, por indicada violação aos seguintes dispositivos constitucionais: 1º, 2º, 5º, LXIX, 18, 25 a 28 e 155, I.
+    O recorrente aponta a existência de repercussão geral de questão constitucional, exigência contida no §2º do art. 1035 do Código de Processo Civil, matéria cuja apreciação é da competência do C. Supremo Tribunal Federal.
+    No entanto, o recurso não merece trânsito.
+    Com efeito, os dispositivos da Lei Maior tidos como violados não foram apreciados pelo acórdão hostilizado de modo explícito como vem sendo exigido, faltando, assim, o requisito do prequestionamento a despeito da oposição de embargos de declaração. Incidente, portanto, a Súmula 282 do Colendo Supremo Tribunal Federal.
+    Inadmito, pois, o recurso extraordinário com fundamento no inciso V do art. 1.030 do Código de Processo Civil.”
+    A pretensão recursal não merece prosperar. Incide na hipótese a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário nos casos em que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional. No caso dos autos, o acórdão recorrido consignou o seguinte:
+    “Com efeito, a Constituição Federal e o Código Tributário Nacional, em seus arts. 155, inc. I, e 35, inc. I, respectivamente, determinam ser competência dos Estados a instituição do Imposto de Transmissão Causa Mortis e Doação (ITCMD).
+    O Código Tributário Nacional determina, em seu art. 38, que “a base de cálculo do imposto é o valor venal dos bens ou direitos transmitidos”, sem, contudo, expressar o conceito de “valor venal”.
+    O Estado de São Paulo, por sua vez, publicou a Lei Estadual 10.705/2000, a fim de instituir a cobrança do ITCMD. Nela, dispôs:
+    Artigo 9º. A base de cálculo do imposto é o valor venal do bem ou direito transmitido, expresso em moeda nacional ou em UFESPs (Unidades Fiscais do Estado de São Paulo).
+    § 1º - Para os fins de que trata esta lei, considera-se valor venal o valor de mercado do bem ou direito na data da abertura da sucessão ou da realização do ato ou contrato de doação.
+    (...)
+    Artigo 13. No caso de imóvel, o valor da base de cálculo não será inferior:
+    I - em se tratando de imóvel urbano ou direito a ele relativo, ao fixado para o lançamento do Imposto sobre a Propriedade Predial e Territorial Urbana - IPTU;
+    II - em se tratando de imóvel rural ou direito a ele relativo, ao valor total do imóvel declarado pelo contribuinte para efeito de lançamento do Imposto sobre a Propriedade Territorial Rural ITR (destacou-se).
+    Desse modo, de acordo com a clara e objetiva redação do conjunto normativo explicitado, a base de cálculo do ITCMD corresponde ao valor venal do bem, não podendo ser inferior ao fixado para o lançamento do IPTU ou ITR, tornando-se possível, portanto, ser igual ou superior a ele.
+    No entanto, no caso em tela a Fazenda Pública Estadual, fundada em previsão posta no Decreto Estadual nº 55.002/09, alterou a disposição legal acima referida e elegeu como base de cálculo do ITCMD o “valor venal de referência do ITBI”. Ou seja, como bem destacou a sentença recorrida, a Fazenda Pública agiu de modo a ferir o princípio da legalidade e o disposto no artigo 97, II, §1º do CTN, já que utilizou, no cálculo do ITCMD, base de cálculo diversa daquela prevista em lei.”
+    Dissentir das conclusões adotadas demandaria tão somente o reexame da legislação infraconstitucional pertinente, providência vedada nesta fase processual. Nesse sentido, os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO – ITCMD. JUROS LEGAIS E MULTA. 1. Reserva de plenário. Ausência de contrariedade ao art. 97 da Constituição da República. Inexistência de declaração de inconstitucionalidade de lei federal. Precedentes. 2. Análise de normas infraconstitucionais. Ofensa constitucional indireta. 3. Agravo regimental ao qual se nega provimento.” (ARE 768.206 AgR, Relª. Minª. Cármen Lúcia)
+     “RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. AÇÃO DECLARATÓRIA SOB O RITO SUMARÍSSIMO. ITCMD. BASE DE CÁLCULO. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. PRECEDENTES. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO CÓDIGO DE PROCESSO CIVIL DE 2015. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.” (ARE 1.095.331, Rel. Min. Luiz Fux)
+    No mesmo sentido, vejam-se as seguintes decisões monocráticas: ARE 1.087.868, Rel. Min. Ricardo Lewandowski; ARE 1.065.426, Rel. Min. Marco Aurélio; ARE 1.041.655, Rel. Min. Edson Fachin; e ARE 1.095.331, Rel. Min. Luiz Fux.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015, e no art. 21, §1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, §11, do CPC/2015, uma vez que não é cabível condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 06 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
