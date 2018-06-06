@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO DE DESAPROPRIAÇÃO INDIRETA – Decreto Estadual nº 10.251/1977 que criou o Parque Estadual da Serra do Mar – Pedido de indenização pelo suposto esvaziamento da propriedade – Ausência de dano indenizável – Sentença de improcedência mantida – Recurso não provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, caput, XXII, XXIII, XXIV e XXXVI, da Constituição.
+    A decisão agravada negou seguimento ao recurso por entender que incidem, no caso, as Súmulas 279 e 280/STF.
+    O recurso não deve ser admitido, tendo em vista que, para divergir do entendimento firmado pelo Tribunal de origem, seria necessário o reexame dos fatos e do material probatório constante dos autos, bem como a análise da legislação infraconstitucional aplicada ao caso, procedimentos inviáveis neste momento processual. Nesse sentido, cito o seguinte precedente:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PARQUE ESTADUAL SERRA DO MAR. INDENIZAÇÃO. ARTIGO 5º, XXII E XXIV, DA CONSTITUIÇÃO FEDERAL. OCORRÊNCIA DE PREJUÍZO. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. 1. As restrições ao direito de propriedade impostas pelo Poder Público, em virtude de criação de reservas florestais, não exonera o Estado de indenizar o proprietário do imóvel (RE n. 134.297, Relator o Ministro Celso de Mello, 1ª Turma, DJ de 22.09.05) 2. Essa orientação não se aplica ao caso sub judice, porquanto entendimento diverso do adotado pelo Tribunal a quo como deseja o recorrente quanto ao alegado esvaziamento do conteúdo econômico da propriedade a ensejar a referida indenização, implicaria a análise da legislação infraconstitucional que disciplina a espécie (Decreto n. 10.251/77 e 4.771/65), bem como o reexame do contexto fático-probatório engendrado nos autos, o que inviabiliza o extraordinário, a teor do Enunciado da Súmula n. 279 do Supremo Tribunal Federal, que interdita a esta Corte, em sede de recurso extraordinário, sindicar matéria fática. (Precedentes) […].” (RE 677582 AgR, Rel. Min. Luiz Fux)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 06 de junho de 2018.
+Ministro LUÍS ROBERTO BARROSO
+Relator
