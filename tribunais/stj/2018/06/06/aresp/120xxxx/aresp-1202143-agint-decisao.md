@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno desafiando decisão monocrática da Presidência desta Corte que não conheceu do agravo, diante de sua intempestividade (fls. 416/417).
+A parte agravante, em suas razões, sustenta que "Não se vislumbrou a necessidade de comprovar a existência de feriado por se tratar de ato emanado do próprio Tribunal recorrido (Provimento CSM nº 1948/2012 (doc. 01), houve suspensão dos prazos processuais em Ia e 2a Instância no Estado de São Paulo no período de 20/12/14 a 06/01/2015 e Provimento CSM nº 2.216/2014 que determinou a suspensão dos prazos processuais em 1a e 2a Instância no Estado de São Paulo no período de 07/01/2015 a 18/01/2015), que faria juízo de admissibilidade do REsp." (fl. 427).
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+É o relatório.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, tenho que o agravo interno comporta acolhimento.
+A Corte Especial, no julgamento do AREsp 137.141/SE, firmou entendimento, em consonância com a Corte Constitucional, de que a "comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental. Precedentes do STF e do STJ".
+Publicada a decisão agravada em 14/12/2015, conclui-se que o agravo em recurso especial interposto em 29/01/2015 é tempestivo, diante do recesso forense entre 20/12/14 a 06/01/2015 e da suspensão dos prazos processuais entre 07/01/2015 a 18/01/2015 no Tribunal de Justiça do Estado de São Paulo.
+Assim, exercendo o juízo de retratação, reconsidero a decisão às fls. 416/417, para reconhecer a tempestividade do recurso.
+Após, voltem-me os autos conclusos para nova apreciação do agravo em recurso especial.
+Publique-se.
