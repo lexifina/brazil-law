@@ -1,0 +1,19 @@
+Decisão: Trata-se de recurso extraordinário, no qual, o então Presidente do Supremo Tribunal Federal determinou a devolução dos autos ao Tribunal de origem para que se cumprisse o disposto no art. 543-B do CPC/73, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral no tema 646, cujo paradigma é o RE-RG 678.112.
+    No entanto, os autos foram reenviados ao STF, em 8.2.2018, em despacho do seguinte teor:
+    “no caso em tela, o intento do recorrente não é impugnar a possibilidade de o Edital de abertura estabelecer limitação etária mínima ou máxima para o ingresso nos quadros da Polícia Militar do Estado de Minas Gerais, mas sim suscitar a falta de razoabilidade de se obstar a sua participação no Curso de Formação de Soldados, por ter completado 30 anos durante a realização das etapas anteriores do concurso, embora não tenha completados os 31 anos de idade.
+    Evidenciadas as particularidades da demanda, imperioso concluir que a situação dos autos não coincide com aquela analisada no sobredito paradigma, não sendo possível adotar neste feito o procedimento previsto no art. 543-B: do CPC.”
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, bem como interpretar cláusulas contidas em acordo coletivo de trabalho, consignou que o limite de idade deve ser aferido no momento da matrícula no curso de formação dos candidatos, conforme se pode verificar do seguinte trecho:
+    “Relativamente ao caso em tela, é de se ver que, quando da publicação do edital DRH/CRS nº 14/2012, em 11/12/2012, constava como data prevista para o início do curso o dia 06/01/2014, o que implicava a exigência do candidato ter nascido no período compreendido de 06/01/1984 a 06/01/1996, requisito não atendido pelo impetrante, pois nascido em 05/01/1984. As inscrições teriam início em 14/02/2013, perdurando até 28/02/2013.”
+    Assim, divergir do entendimento firmado pelo tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Ressalte-se, ainda, que o provimento de cargo público, quando confrontado em face da verificação do preenchimento dos requisitos exigidos em edital, estando sub judice a controvérsia, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido em caso análogo no ARE 690.113-RG (tema 646), Rel. Min. Cezar Peluso, o qual possui a seguinte ementa:
+     “CONCURSO PÚBLICO. Cargo de professor. Habilitação específica para o cargo. Não atendimento. Qualificação superior à exigida por Edital. Questão infraconstitucional. Ausência de repercussão geral. Recurso extraordinário recusado. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto a análise de habilitação superior à prevista por Edital, mas inespecífica em relação ao exigido neste, versa sobre matéria infraconstitucional.”
+     Frise-se, que tais entendimentos culminaram na reafirmação de jurisprudência da Corte, representada na sistemática de repercussão geral através do ARE 678.112-RG (Tema 112), Rel. Min. Luiz Fux, cujo acórdão foi assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. CONCURSO PÚBLICO. LIMITAÇÃO DE IDADE FIXADA EM EDITAL. POLICIAL CIVIL. ART. 7º, XXX, DA CONSTITUIÇÃO FEDERAL. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA. (ARE 678112-RG, Rel. Min. Luiz Fux, DJe 17.5.2013)”
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 6 de junho de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
