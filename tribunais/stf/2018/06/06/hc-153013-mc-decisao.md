@@ -1,0 +1,31 @@
+DECISÃO
+AUTUAÇÃO – RETIFICAÇÃO.
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Quinta Vara Criminal da Comarca de Santa Rita/PB, no processo nº 1407-68.2016.815.0331, converteu em preventiva a prisão em flagrante do paciente, ocorrida em 16 de junho de 2016, ante a suposta prática da infração versada no artigo 33 (tráfico de drogas) da Lei nº 11.343/2006. Aludiu à apreensão de 2 trouxas e 1 saquinho de maconha, 44 pedras de crack e 9 comprimidos de “artane”, afirmando-o composto por princípio ativo descrito no rol da Portaria nº 344/1998 da Agência Nacional de Vigilância Sanitária – ANVISA. Consignou imperiosa a custódia para garantir a ordem pública, mencionando antecedentes relacionados ao comércio ilegal de entorpecentes e a possibilidade de reiteração delituosa.
+    Condenou-o a 9 anos de reclusão, em regime inicial fechado, e ao pagamento de 600 dias-multa. Deixou de manifestar-se sobre a necessidade de continuidade da constrição.
+    No Tribunal de Justiça, a Câmara Criminal indeferiu a ordem na impetração de nº 0805966-24.2017.7.15.0000. Assentou presentes os requisitos autorizadores da preventiva, frisando ter o paciente permanecido preso durante o processo.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 433.246/PB, o qual teve a liminar indeferida.
+    O impetrante aduz constrangimento ilegal, destacando não demonstrado o atendimento dos pressupostos do artigo 312 do Código de Processo Penal. Diz genérico o que articulado nas instâncias ordinárias no tocante à manutenção da custódia. Afirma inobservados os artigos 93, inciso IX, da Constituição Federal, 315 e 387 do citado Código. Evoca precedentes dos Tribunais Superiores no sentido da excepcionalidade da prisão provisória. Ressalta que o Tribunal de Justiça, em sede de habeas corpus, acrescentou fundamentação, suprindo a ausência de manifestação do Juízo para justificar a medida. Menciona a interposição de apelação contra o título condenatório.
+    Requer, no campo precário e efêmero, a expedição de alvará de soltura, a fim de assegurar ao paciente o direito de aguardar, em liberdade, o exame da apelação. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Superior Tribunal de Justiça, em 5 de maio de 2018, revelou haver a Sexta Turma deferido a ordem para determinar ao Juízo da Quinta Vara Criminal da Comarca de Santa Rita/PB que se pronunciasse, motivadamente, em 5 dias, sobre a continuação da preventiva.
+    No sítio do Tribunal estadual não constam informações sobre o cumprimento da decisão proferida pelo Superior Tribunal de Justiça. O andamento processual revelou encontrar-se pendente de julgamento a apelação protocolada pela defesa.
+    A etapa é de análise da liminar.
+    2. Ante a apreciação, pelo Colegiado, do habeas corpus nº 433.246/PB, retifiquem a autuação para fazer constar, como coator, o Superior Tribunal de Justiça.
+    3. A prisão em flagrante bem assim a gradação do tráfico de drogas, considerada a quantidade de substâncias apreendidas – 2 trouxas e 1 saquinho de maconha, 44 pedras de crack e 9 comprimidos de “artane”, composto por princípio ativo especificado no rol da Portaria nº 344/1998 da Agência Nacional de Vigilância Sanitária –, justificaram a imposição da custódia preventiva durante o curso do processo-crime, uma vez em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a medida se impunha, ante a periculosidade, ao menos sinalizada. A inversão da ordem processual – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Ocorre que, ao proferir sentença condenatória, o Juízo deixou de manifestar-se sobre a necessidade de manutenção da custódia, inobservando o disposto no artigo 387, § 1º do Código de Processo Penal:
+    Art. 387. O juiz, ao proferir sentença condenatória:
+    […]
+    § 1º O juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta.
+    […]
+     No julgamento da impetração formalizada no Tribunal estadual, a Câmara Criminal acrescentou fundamentação alusiva à continuidade da constrição cautelar, suprindo a ausência de pronunciamento pelo Juízo. Veiculou razões complementares em desfavor do paciente, por meio de via impugnativa exclusiva da defesa, a consubstanciar ofensa ao artigo 617 do citado Código, que veda a reforma gravosa.
+    Há mais: a esta altura, sem culpa formada, o paciente está preso há 1 ano, 11 meses e 19 dias. Surge o excesso de prazo considerada a custódia provisória e o estágio do processo-crime, porquanto pendente de análise apelação interposta pela defesa. A preventiva deve ser balizada no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não foi declarada em definitivo viola o princípio da não culpabilidade. Nada, absolutamente nada justifica tal fato.
+    Observem que a prolação de decisão condenatória recorrível não afasta a natureza preventiva da prisão. O artigo 283, cabeça, do Código de Processo Penal, ao versar os títulos prisionais provisórios, contempla o flagrante, a temporária e a preventiva, revelando que as custódias decorrentes da pronúncia e da sentença penal condenatória ainda não alcançada pela preclusão maior integram a última. O artigo 387, § 1º, denomina, expressamente, preventiva a constrição oriunda da condenação recorrível.
+    4. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da prisão preventiva retratada no processo nº 1407-68.2016.815.0331, da Quinta Vara Criminal da Comarca de Santa Rita/PB. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do homem médio, integrado à sociedade.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 6 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
