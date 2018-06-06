@@ -1,0 +1,24 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 1º, caput, III e IV, parágrafo único, 3º, caput, IV, 5º, caput, V, X, XIII, XLI, LV e LXXI, §§ 1º e 2º, 6º, caput, 7º, XXII e XXIII, 39, §§ 2º e 3º, 60, § 4º, IV, 193, caput, 196, caput, e 225, caput, § 1º, II, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Inicialmente anoto que este Supremo Tribunal Federal já se manifestou no sentido da inexistência de repercussão geral da controvérsia relativa ao indeferimento de produção de provas em processo judicial, bem como no tocante à alegação de cerceamento de defesa, considerada a análise prévia da legislação infraconstitucional, verbis:
+    “Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.” (ARE 639.228-RG, Rel. Min. Presidente, Pleno, DJe 31.8.2011.)
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.” (ARE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 01.8.2013)
+    No que remanesce melhor sorte não colhe o extraordinário, porquanto o Tribunal de origem não divergiu da jurisprudência firmada no âmbito desta Suprema Corte. Compreensão diversa do entendimento adotado pelo acórdão recorrido demandaria a análise prévia da legislação infraconstitucional aplicável, bem como a reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas 279 e 280/STF.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Precedentes:
+    “Agravo regimental no recurso extraordinário. Servidor público. Adicional de insalubridade. Supressão de tal vantagem pela EC nº 19/98. Possibilidade de previsão por legislação infraconstitucional. Impossibilidade do reexame de fatos e provas dos autos. Precedentes.
+    1. A jurisprudência desta Corte firmou o entendimento de que é perfeitamente possível a previsão, por meio de legislação infraconstitucional, de vantagens ou garantias não expressas na Constituição Federal.
+    2. O recurso extraordinário não se presta ao reexame de fatos e provas dos autos. Incidência da Súmula nº 279 desta Corte.
+    3. Agravo regimental não provido.” (RE 543.198-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 12.11.2012)
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 26.9.2016. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE INSALUBRIDADE. INEXISTÊNCIA DE PREVISÃO LEGAL. REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO INFRACONSTITUCIONAL.
+    1. Nos termos da orientação firmada no Supremo Tribunal Federal, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia de fatos e provas e de legislação infraconstitucional.
+    2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os §§ 2º e 3º do mesmo dispositivo.” (ARE 991.075-AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 06.6.2018)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 06 de junho de 2018.
+Ministra Rosa Weber
+Relatora
