@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por CLARO S.A., com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO COLETIVA DE CONSUMO. PONTO EXTRA (PONTO ADICIONAL) EM TV POR ASSINATURA. ABUSIVIDADE DA COBRANÇA. RESTITUIÇÃO DE VALORES. CABIMENTO.
+Extensão/limitação territorial. Os efeitos da decisão se aplicam nos limites da jurisdição do TJ/RS.
+Disposição acerca da cobrança de aluguel do aparelho decodificador extirpada, por configurada decisão extra petita.
+O chamado "ponto extra" ou "ponto adicional" não resulta em nova prestação de serviço pela operadora, não podendo esta exigir contraprestação mensal dos assinantes, havendo apenas um único repasse do sinal televisivo aos consumidores, através da antena ou cabo já instalados. Conduta ilícita reconhecida, com condenação de obrigação de não fazer.
+Restituição em dobro em caso de descumprimento da decisão. Cabimento.
+Multas diárias com caráter de coerção ao cumprimento do comando judicial. Manutenção.
+Dano moral coletivo. Hipótese não configurada.
+Verba honorária fixada em montante adequado à espécie.
+Agravo retido provido, em parte.
+Preliminar de decisão extra petita acolhida.
+Apelo da ré provido, em parte.
+Recurso do autor improvido" (fl. 1.468 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 2.115/2.119 e-STJ).
+Nas razões do recurso especial, o recorrente alega, além da divergência jurisprudencial, violação dos artigos 165, 458 do Código de Processo Civil de 1973, 128, da Lei nº 9.472/97, 23, 26 e 30 da Lei 8.977/95, 884, 885, 886 do Código Civil e 51 do Código de Defesa do Consumidor.
+Menciona que "a recorrente (..) incorre em elevados custos constantes com o fornecimento do serviço de ponto extra para seus assinantes" (fl. 2.191 e-STJ).
+Aduz que "as operadoras de TV por Assinatura são livres para cobrar por seus serviços prestados dentre os quais o serviço de ponto extra, exatamente porque incorrem em custos para a prestação" (fl. 2.202 e-STJ).
+Argumenta, por fim, que "a cobrança de mensalidade de ponto extra realizada pela recorrente (..) era absolutamente lícita, a determinação de devolução de valores aos assinantes representa flagrante enriquecimento ilícito dos consumidores" (fl.
+Contrarrazões às fls. 2.349/2.355 e-STJ.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+Quanto à cobrança do ponto extra, o acórdão recorrido foi fundamentado nos seguintes termos:
+"(..)
+Nessa senda, comungo do entendimento de que inexiste serviço passível de cobrança uma vez que há apenas um único repasse do sinal televisivo aos consumidores, pois a antena pela qual é recebido o sinal já se encontra instalada, sendo desnecessárias novas instalações físicas para disponibilizar o sinal para os outros aparelhos.
+(..)
+A programação do Ponto-Principal, inclusive programas pagos individualmente pelo Assinante, qualquer que seja o meio ou forma de contratação, deve ser disponibilizada, sem cobrança adicional, para Pontos-Extras e para Pontos-de-Extensão, instalados no mesmo endereço residencial, independentemente do Plano de Serviço contratado.
+(..)
+Com efeito, reconhecida a abusividade na cobrança relativa ao ponto extra, correta a decisão no ponto em que determinou a repetição dos valores, na forma simples do indébito, nos contratos findos e em andamento, observada a prescrição quinquenal, dos valores cobrados pela ré referentes ao ponto extra, devendo dar-se em dobro em caso de descumprimento da liminar" (fls. 1.492/1.494 e-STJ).
+O entendimento do Tribunal de origem, entretanto, encontra-se em dissonância com a recente jurisprudência desta Corte de Justiça, que concluiu pela legalidade da cobrança do ponto extra nos casos de TV por assinatura.
+A propósito:
+"RECURSO ESPECIAL - AÇÃO DE REPETIÇÃO DE INDÉBITO - SERVIÇOS DE TELEVISÃO A CABO - COBRANÇA POR PONTO EXTRA E ALUGUEL DE EQUIPAMENTO - INSTÂNCIAS ORDINÁRIAS QUE REPUTARAM INDEVIDA A ARRECADAÇÃO PECUNIÁRIA POR PONTOS ADICIONAIS, CONDENANDO A PRESTADORA DE TV POR ASSINATURA À REPETIÇÃO DO INDÉBITO NOS CINCO ANOS ANTECEDENTES AO AJUIZAMENTO DA DEMANDA - IRRESIGNAÇÃO DA ACIONADA - RECURSO ESPECIAL PROVIDO PARA REFORMAR O ACÓRDÃO E A SENTENÇA E JULGAR IMPROCEDENTE O PEDIDO VEICULADO NA INICIAL QUANTO À REPETIÇÃO DO INDÉBITO.
+Hipótese: Controvérsia acerca da viabilidade de cobrança por ponto extra de televisão por assinatura, bem ainda de aluguel dos aparelhos, equipamentos, conversores e decodificadores pertencentes à prestadora de serviço instalados na residência da autora.
+1. Inocorrência de negativa de prestação jurisdicional, porquanto a tese jurídica acerca da possibilidade ou não de cobrança da taxa decorrente da contratação de pontos extras de TV por assinatura restou amplamente discutida pela Corte local.
+2. Inaplicabilidade do prazo prescricional quinquenal previsto no art. 27 do CDC, uma vez que a cobrança indevida de valores por suposto ponto extra de TV ou aluguel de decodificadores não se subsume a fato do produto ou serviço. 2.1. A pretensão ressarcitória funda-se nos prazos estabelecidos pelo Código Civil, notadamente em virtude de ser assente nesta Corte Superior a jurisprudência, inclusive firmada em sede de recurso repetitivo (Resp 1.360.969/RS, relator para acórdão o Ministro Marco Aurélio Bellizze, Dje 19/09/2016), segundo a qual o reembolso/devolução/repetição de valores decorrentes da declaração de abusividade de cláusula contratual submete-se ao prazo prescricional trienal previsto no art. 206, § 3º, inciso IV, do Código Civil de 2002, estabelecido para direitos fundados no enriquecimento sem causa, referente às prestações pagas a maior no período de três anos compreendido no interregno anterior à data da propositura da ação.
+3. É lícita a conduta da prestadora de serviço que em período anterior à Resolução nº 528, de 17 de abril de 2009, da agência reguladora ANATEL, efetua cobranças por ponto extra de TV por assinatura, face a ausência de disposição regulamentar à época vedando o recolhimento a esse título.
+4. Não se afigura abusiva a percepção por aluguel de equipamentos adicionais de transmissão ou reprodução do sinal de TV, pois, por serem opcionais, permitem cobrança mensal em número correspondente ao de sua disponibilização, visto acarretarem custos para o fornecedor e vantagens para o consumidor. 4.1. Caso o consumidor não pretenda pagar o aluguel pelos aparelhos disponibilizados pela própria fornecedora do serviço de TV por assinatura em razão direta dos pontos adicionais requeridos, pode optar por comprar ou alugar ou obter em comodato de terceiros os equipamentos necessários para a decodificação do sinal nos exatos termos da faculdade conferida pela normatização regente. Contudo, optando/preferindo o cliente adquirir o pacote de serviços da própria fornecedora do sinal da TV por assinatura contratada, ou seja, com a inclusão do conversor/decodificador, plenamente justificável a cobrança de valor adicional na mensalidade, não havendo falar em abuso.
+5. A sucumbência rege-se pela lei vigente à data da deliberação que a impõe ou a modifica, na qual ficarão estabelecidas a proporção de derrota e vitória entre os pedidos das partes, bem ainda todos os requisitos valorativos para a fixação da verba sucumbencial (honorários advocatícios).
+Nos termos do § 8º do artigo 85 do NCPC, nas causas em que for inestimável ou irrisório o proveito econômico ou quando o valor da causa for muito baixo, os honorários serão fixados por apreciação equitativa consoante o grau de zelo profissional, o lugar da prestação do serviço, a natureza e a importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+6. Recurso especial provido a fim de reformar o acórdão e a sentença e julgar improcedente o pedido veiculado na inicial quanto à repetição do indébito, ficando prejudicados os demais pontos do reclamo especial" (REsp 1449289/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/11/2017, DJe 13/12/2017).
+"RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. TV A CABO. COBRANÇA POR PONTO EXTRA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. MÉRITO DA COBRANÇA. FALTA DE PREQUESTIONAMENTO DOS DISPOSITIVOS INVOCADOS E ÓBICE DA SÚMULA N. 7 DO STJ. DANO MORAL COLETIVO. MATÉRIA PREJUDICADA EM RAZÃO DO RECONHECIMENTO DA LEGALIDADE DA COBRANÇA.
+1. É descabida a alegação de negativa de prestação jurisdicional se a Corte de origem examinou e decidiu, de forma motivada e suficiente, as questões que delimitaram a controvérsia.
+2. Não se conhece do recurso especial quando ausente o prequestionamento dos dispositivos invocados como violados.
+3. Tendo o Tribunal a quo, com base no laudo pericial, reconhecido que a instalação e manutenção de ponto extra de TV a cabo implica custos adicionais para a empresa, premissa fática cujo revolvimento encontra óbice na Súmula n. 7 do STJ, não há como chegar a conclusão diversa daquela adotada pelo acórdão recorrido. Além disso, a ausência de impugnação do fundamento central do acórdão recorrido atrai a incidência da Súmula n. 283 do STF.
+4. Reconhecida a legalidade da cobrança pelo ponto extra no período anterior à edição da Resolução ANATEL n. 528 de 17.4.2009, fica prejudicado o exame do cabimento de dano moral coletivo.
+5. Recurso especial parcialmente conhecido e desprovido" (REsp 1386539/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 14/6/2016, DJe 16/6/2016).
+Ante o exposto, dou provimento ao recurso especial para cassar o acórdão recorrido, bem como a sentença de fls. 814/850 e-STJ, e julgar improcedentes os pedidos formulados na inicial. Deve a parte recorrida arcar com as custas processuais e honorários advocatícios, estes fixados em 10% (dez por cento) sobre o valor da causa (R$ 3.000.000,00 - três milhões de reais - fl. 35 e-STJ), nos termos do art. 85, § 2º, do CPC/2015, observado o benefício da gratuidade de justiça, se for o caso.
+Publique-se.
+Intimem-se.
