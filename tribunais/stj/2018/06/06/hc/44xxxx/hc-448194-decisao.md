@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de JHONY DA SILVA TINOCO, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que o ora paciente foi denunciado pela prática dos crimes tipificados nos arts. 33, caput, e 35, da Lei de Drogas, pois foi flagrado armazenando em depósito 82,9g (oitenta e dois gramas e nove decigramas) de maconha e 64,6g (sessenta e quatro gramas e seis decigramas) de cocaína, bem como arma de fogo municiada.
+Recebida a denúncia e devidamente processado, o paciente foi condenado à pena de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime fechado, e ao pagamento de 583 (quinhentos e oitenta e três) dias-multa, pelo delito inserido no art. 33, da Lei 11.343/06.
+Irresignada, a defesa interpôs apelação, a qual foi desprovida pelo Tribunal-Coator.
+No presente mandamus, a impetração alega constrangimento ilegal com a fixação de regime fechado para o cumprimento da pena.
+Afirma que a sentença condenatória, ao impor regime mais gravoso ao paciente, violou o art. 33, §§ 2º e 3º, do CP.
+Sustenta que a determinação do regime inicial de cumprimento da pena imposta deve se basear na quantidade da reprimenda imposta e nas circunstância judiciais previstas no art. 59, do CP.
+Argumenta que, no caso do paciente, a penalidade imposta na sentença condenatória foi inferior a 08 (oito) anos e as circunstâncias judiciais mostraram-se favoráveis ao condenado.
+Assevera que os argumentos apresentados são inidôneos, pois estão alicerçados em fatos abstratos.
+Desse modo, requer o provimento do apelo nobre, a fim de que sejam reconhecidas as violações apontadas.
+Parecer ministerial às fls. 58/63.
+É o relatório.
+A princípio, o pedido deduzido na inicial não comporta conhecimento na via eleita, já que formulado em flagrante desrespeito ao sistema recursal vigente no âmbito do Direito Processual Penal pátrio, tendo em vista a impetração se destinar a atacar acórdão contra o qual seria cabível a interposição de recurso específico para tal fim, nos termos do artigo 105, inciso II, alínea "a", da Constituição Federal.
+Nesses termos, o entendimento pacífico no âmbito deste Sodalício:
+HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. CONDENAÇÃO. SUBSTITUIÇÃO A RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. REGIME PRISIONAL MAIS GRAVOSO. POSSIBILIDADE, EM TESE. ANÁLISE DE CADA CASO. FUNDAMENTAÇÃO CONCRETA. CIRCUNSTÂNCIAS DO DELITO. AUSÊNCIA DE ILEGALIDADE. NÃO CONHECIMENTO. MATÉRIA AFETADA À SEÇÃO.
+1.Tratando-se de habeas corpus substitutivo de recurso próprio, inviável o seu conhecimento, cabendo a análise de flagrante ilegalidade.  ..
+3. Hipótese em que não há flagrante ilegalidade, haja vista que a Corte estadual invocou concretamente as circunstâncias do delito para justificar o regime prisional fechado, em consonância com a jurisprudência deste Superior Tribunal de Justiça e do Supremo Tribunal Federal. Foi indicada a concreta gravidade do crime (tentativa de matar mulher grávida de 4 meses, valendo-se das relações domésticas, mediante meio cruel e motivo fútil, inclusive na presença do filho de 4 anos da vítima e mediante "roleta russa").
+4. Writ não conhecido. (HC 362.535/MG, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 14/12/2016, DJe 08/03/2017)
+No caso em exame, o ora paciente alega estar sofrendo coação ilegal com a fixação do regime fechado para início de cumprimento da pena.
+Acerca do tema, assim se manifestou o Tribunal de origem (fl. 52):
+ ..
+ O regime inicial fechado se mostra o mais correto no caso vertente, não pela gravidade abstrata do delito ou pela impo- sição prevista no artigo 2º, § 1º, da Lei nº 8.072/90, mas sim porque as circunstâncias em que se deram os fatos traduzem maior reprova- bilidade da ação e acentuada periculosidade do apelante, em cuja re- sidência foram apreendidas, repita-se, arma de fogo municiada e dro- gas devidamente preparadas para a disseminação ilícita, sem menci- onar a comprovada dedicação do réu à atividade criminosa.
+ ..
+
+ É necessário frisar que, o magistrado, durante a aplicação da sanção penal, deve estar atento ao princípio da individualização da pena, explicitando, de forma fundamentada, as circunstâncias judiciais, agravantes, atenuantes e causas de aumento e diminuição de pena aptas a embasarem o quantum da penalidade, bem como o regime adequado para seu cumprimento.
+Todavia, em que pese não se desconhecer o entendimento firmado pela Suprema Corte acerca da inconstitucionalidade da obrigatoriedade do regime fechado para execução das penas aplicadas aos delitos hediondos, no crime de tráfico de drogas, ao ser fixado o modo de cumprimento da reprimenda, o magistrado deve estar atento não só às circunstâncias judiciais inseridas no art. 59, do CP, como também o disposto no art. 42, da Lei 11.343/2006, o qual prevê a possibilidade de menção à quantidade e natureza da substância entorpecente como fundamento para a aplicação de regime mais gravoso.
+Diante do exposto, constata-se inexistir qualquer irregularidade passível de ser sanada por meio do presente mandamus, pois a fundamentação aplicada para justificar a fixação do regime fechado ao caso do paciente está em estreita consonância com a jurisprudência vigente nesta Corte Superior, a qual considera plausível a utilização da quantidade e da natureza da droga apreendida, bem como os demais elementos desabonadores da conduta do acusado como fatores suficientes para aplicação do regime mais gravoso para a execução da pena.
+Nesse sentido, confiram-se os seguintes precedentes oriundos de julgados proferidos por esta Quinta Turma:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS. PENA TOTAL SUPERIOR A 4 (QUATRO) E INFERIOR A 8 (OITO) ANOS DE RECLUSÃO. REGIME INICIAL FECHADO. POSSIBILIDADE. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. ELEVADA QUANTIDADE DE DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, ante as alegações expostas na inicial, afigura-se razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. O Supremo Tribunal Federal, no julgamento do HC n. 111.840/ES, declarou inconstitucionalidade do § 1º do art. 2.º da Lei n. 8.072/90, com a redação que lhe foi dada pela Lei n. 11.464/07, afastando, dessa forma, a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados.
+3. Sedimentou-se nesta Corte Superior o entendimento segundo o qual, nos delitos previstos na Lei de Drogas, a fixação do regime prisional deve observar a regra imposta no art. 33, § 2º, do Código Penal em conjunto com o art. 42 da Lei 11.343/2006, que determina a consideração, preponderante, da natureza e quantidade da droga.
+Na hipótese dos autos, não evidencio a existência de flagrante ilegalidade na fixação do regime prisional mais gravoso, uma vez que a pena-base foi fixada acima do mínimo legal em razão da existência de circunstância judicial desfavorável. Ademais, a grande quantidade de droga apreendida - 50.777 gramas de maconha e 0,8 gramas de ecstrasy -, utilizada na terceira fase da dosimetria para afastar a aplicação do redutor previsto no § 4º do art. 33 da Lei de Drogas, justifica a fixação do regime fechado, nos termos do art. 33, § 2º, b e § 3º, do Código Penal, c/c o art. 42 da Lei n. 11.343/06.
+Habeas corpus não conhecido.
+(HC 429.542/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 06/03/2018, DJe 16/03/2018)
+HABEAS CORPUS SUBSTITUTO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. REGIME PRISIONAL. CIRCUNSTÂNCIAS DO DELITO. EXPRESSIVA QUANTIDADE DE DROGAS. CRITÉRIO IDÔNEO E SUFICIENTE PARA O ESTABELECIMENTO DE REGIME PRISIONAL MAIS GRAVOSO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. O STF, no julgamento do HC n. 111.840/ES, assentou que inexiste a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, determinando, também nesses casos, a observância do disposto no art. 33, §§ 2º e 3º, do Código Penal.
+3. A valoração negativa da quantidade e a natureza dos entorpecentes constituem fatores suficientes para a determinação de regime inicial mais gravoso para o cumprimento da pena privativa de liberdade.
+Precedentes.
+4. No caso, em que pese o paciente seja primário e a condenação seja superior a 4 e não exceda 8 anos de reclusão, o regime inicial fechado possui lastro em circunstância idônea e suficiente, qual seja, a expressiva quantidade de entorpecentes apreendidos.
+5.Habeas corpus não conhecido.
+(HC 419.097/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/02/2018, DJe 22/02/2018)
+ Inexistente, portanto, qualquer ilegalidade a ser sanada por meio deste writ.
+Ante o exposto, com fundamento no artigo 34, inciso XX, do RI/STJ, não se conhece do habeas corpus.
+Publique-se. Intime-se.
+Após ciência do Ministério Público Federal e o trânsito em julgado da presente decisão, arquivem-se os autos.
