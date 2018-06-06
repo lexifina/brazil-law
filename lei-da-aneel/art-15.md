@@ -5,3 +5,4 @@ III - no contrato de concessão celebrado em decorrência de desestatização, n
 IV - em ato específico da ANEEL, que autorize a aplicação de novos valores, resultantes de revisão ou de reajuste, nas condições do respectivo contrato.
 § 1º A manifestação da ANEEL para a autorização exigida no inciso IV deste artigo deverá ocorrer no prazo máximo de trinta dias a contar da apresentação da proposta da concessionária ou permissionária, vedada a formulação de exigências que não se limitem à comprovação dos fatos alegados para a revisão ou reajuste, ou dos índices utilizados.
 § 2º A não manifestação da ANEEL, no prazo indicado, representará a aceitação dos novos valores tarifários apresentados, para sua imediata aplicação.
+§ 3º A concessionária deverá divulgar em seu sítio eletrônico, de forma clara e de fácil compreensão pelo consumidor final, tabela com o valor das tarifas praticadas e a evolução das revisões ou reajustes realizados nos últimos cinco anos.

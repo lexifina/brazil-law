@@ -3,3 +3,4 @@ Art. 9º A tarifa do serviço público concedido será fixada pelo preço da pro
 § 2º Os contratos poderão prever mecanismos de revisão das tarifas, a fim de manter-se o equilíbrio econômico-financeiro.
 § 3º Ressalvados os impostos sobre a renda, a criação, alteração ou extinção de quaisquer tributos ou encargos legais, após a apresentação da proposta, quando comprovado seu impacto, implicará a revisão da tarifa, para mais ou para menos, conforme o caso.
 § 4º Em havendo alteração unilateral do contrato que afete o seu inicial equilíbrio econômico-financeiro, o poder concedente deverá restabelecê-lo, concomitantemente à alteração.
+§ 5º A concessionária deverá divulgar em seu sítio eletrônico, de forma clara e de fácil compreensão pelos usuários, tabela com o valor das tarifas praticadas e a evolução das revisões ou reajustes realizados nos últimos cinco anos.
