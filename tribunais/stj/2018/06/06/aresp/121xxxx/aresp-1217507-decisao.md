@@ -1,0 +1,68 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL E RECURSO ESPECIAL MANEJADOS SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. CONTRATO DE SEGURO DE VIDA. INVALIDEZ. PRESCRIÇÃO ÂNUA. INOCORRÊNCIA. QUANTUM INDENIZATÓRIO. CIÊNCIA PRÉVIA DO SEGURADO DAS CONDIÇÕES GERAIS DO CONTRATO. FALTA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+CLAYTON BRITO TAVARES DA MOTA (CLAYTON) propôs ação contra BRADESCO PREVIDÊNCIA E SEGUROS S.A. (BRADESCO) e MAPFRE SEGUROS GERAIS S.A. , atual denominação de VERA CRUZ VIDA E PREVIDÊNCIA S.A. (MAPFRE), visando ao recebimento de indenização securitária, em razão de sequela permanente e incapacitante que o acometeu, considerando o contrato de seguro de vida no qual figurou como beneficiário, sendo estipulante a Fundação Habitacional do Exército - FHE. Afirmou que fez pedido administrativo, no qual foi reconhecida, por BRADESCO e VERA CRUZ, a incapacidade parcial, sendo-lhe pago R$ 310,00 (trezentos e dez reais), aos 9/4/2009.
+O Juízo de primeira instância julgou parcialmente procedente o pedido, para o fim de condenar BRADESCO e MAPFRE ao pagamento de indenização em favor de CLAYTON no valor de R$ 185.111,20 (cento e oitenta e cinco mil, cento e onze reais e vinte centavos), referente ao contrato de seguro firmado entre as partes, sobre a qual incidirá correção monetária pelo IGPM/FGV e juros de mora de 1% ao mês, ambos a fluir de 9/4/2009, observando-se que MAPFRE responderá por 29% (vinte e nove por cento) da indenização e BRADESCO por 71% (setenta e um por cento) da indenização. Em razão da sucumbência, considerando que CLAYTON decaiu de parte de seu pedido, este foi condenado ao pagamento de 20% (vinte por cento) das custas, despesas processuais e honorários periciais, bem como dos honorários advocatícios da parte adversa fixados em R$ 1.500,00 (um mil e quinhentos reais). Por seu turno, BRADESCO e MAPFRE arcarão com o saldo remanescente das custas, despesas processuais e honorários periciais (80%), bem como honorários em favor do advogado de CLAYTON fixados em 10% (dez por cento) sobre o valor da condenação, atento ao quanto disposto no art. 12 da Lei nº 1.060/50, por ser CLAYTON beneficiário da Justiça Gratuita (e-STJ, fls. 489/490).
+O Tribunal de origem negou provimento ao recurso de apelação de MAPFRE, com a seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA - LAUDO PERICIAL - INVALIDEZ PERMANENTE - AUSÊNCIA DE NOTIFICAÇÃO SOBRE A TABELA DE VALORES - RECURSO DESPROVIDO.
+O contrato de seguro deve ser interpretado de forma favorável ao consumidor-segurado se as cláusulas limitativas não forem claras e precisas ou não houver prova da ciência prévia do segurado quanto à respectiva limitação, cabendo o pagamento integral do capital ao segurado, quando comprovada a lesão ensejadora da cobertura (e-STJ, fl. 602).
+Os embargos de declaração opostos por MAPFRE foram rejeitados (e-STJ, fls. 629/634).
+Irresignada, MAPFRE interpôs recurso especial (e-STJ, fls. 638/658), com fundamento no art. 105, III, a e c, da Constituição Federal, alegando violação dos arts. 206, § 1º, II, 757, 759 e 760 do CC, ao sustentar que (1) deve ser reconhecida a prescrição, pois ultrapassado o prazo ânuo da data do acidente, aos 3/9/2002 e a data do ajuizamento da presente demanda, aos 5/8/2009; (2) devem ser observados os termos do contrato celebrado e, caso seja reconhecida a invalidez, deve ser apurado o grau e calculado o percentual devido de acordo com tabela da SUSEP; e, (3) divergência jurisprudencial, no que se refere à previa notificação do segurado da tabela de indenização da SUSEP.
+As contrarrazões ao recurso especial foram apresentadas (e-STJ, fls. 678/684).
+O Tribunal de Justiça do Estado do Mato Grosso do Sul inadmitiu o apelo nobre diante da consonância do entendimento do acórdão recorrido com o desta Corte, de forma que a revisão do posicionamento do acórdão objurgado implicaria o reexame do conjunto fático-probatório, incidindo, ao caso, as Súmulas nºs 7 e 83 desta Corte, tanto para a alínea a quanto para a alínea c (e-STJ, fls. 686/690).
+Nas razões do agravo em recurso especial, MAPFRE aduziu que não se aplicam, ao caso, as Súmulas nºs 7 e 83 do STJ (e-STJ, fls. 702/708).
+A contraminuta ao agravo em recurso especial foi apresentada (e-STJ, fls. 713/718).
+É o relatório.
+DECIDO.
+De início, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na Sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/15 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não comporta acolhimento.
+(1) Da prescrição
+O Tribunal local manteve a rejeição à preliminar de mérito, nos seguintes termos:
+III - Com relação a preliminar de prescrição, não merece ser acolhida. O Autor tomou ciência da incapacidade permanente apenas em 03.03.2009, depois da realização de novo procedimento cirúrgico no joelho esquerdo, em razão de recidiva da lesão do ligamento cruzado anterior, conforme laudo médico de f.46 e anotação do Perito a f.398. Assim, como o prazo prescricional passa a correr a partir da ciência inequívoca da invalidez, consoante entendimento do Superior Tribunal de Justiça (Súmula 278), e a ação ingressou em 04.08.2009, a pretensão não se encontra prescrita. Ressalto que desacolho a arguição de prescrição por fundamento diverso daquele invocado pelo Juízo a quo, por entender que o cheque de f.48 não diz respeito ao seguro objeto dos autos. Três são as razões para tanto: o número da apólice do recibo de f.436 é diverso daquele do Certificado de f.28; as datas de emissão do cheque e de emissão do recibo de f.436 coincidem; no recibo consta Vera Cruz Vida e Previdência S/A como seguradora líder, enquanto no Certificado de f.28 consta Bradesco Vida e Previdência S/A nessa condição. Assim, pelas razões esposadas, afasto a preliminar de prescrição (e-STJ, fl.604 - sem destaques no original)
+Como se vê dos autos, o Tribunal a quo, soberano na análise das provas, concluiu que CLAYTON teve ciência inequívoca de sua invalidez aos 3/3/2009, data a partir da qual se iniciou a contagem do prazo prescricional ânuo e a ação foi ajuizada aos 4/8/2009, inocorrendo, portanto, a prescrição.
+O entendimento do acórdão recorrido está em consonância com o desta Corte no sentido de ser ânuo o prazo prescricional para o exercício da pretensão do segurado contra o segurador, iniciando-se o termo do lapso prescricional a partir da ciência inequívoca da invalidez, ou seja, do fato gerador da pretensão indenizatória, nos termos da Súmula nº 278 do STJ.
+Dessa forma, para adotar conclusão diversa da que chegou o eg. Tribunal a quo, acerca do termo inicial do prazo prescricional, qual seja, da data da ciência inequívoca da invalidez, seria inevitável o revolvimento do arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, a teor do que dispõe a Súmula nº 7 desta Corte, a qual não pode ser considerada terceira instância recursal.
+A propósito, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. PRAZO PRESCRICIONAL ÂNUO. PRECEDENTES. TERMO INICIAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Chegar à conclusão diversa acerca da data da ciência inequívoca da invalidez permanente e do termo inicial do prazo de prescrição, aferidos com base nas provas dos autos, encontra óbice na Súmula nº 7/STJ.
+2. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 508.533/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 13/12/2016, DJe 3/2/2017 - sem destaques no original)
+CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. PRAZO PRESCRICIONAL ÂNUO. PRECEDENTES. TERMO INICIAL. REEXAME DE PROVA. APLICAÇÃO DAS SÚMULA NºS 7, 101 E 278 DO STJ. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O prazo prescricional para o segurado ajuizar ação contra a seguradora, buscando pagamento de indenização por invalidez, com base em seguro em grupo, é de 1 ano e começa a fluir da data em que teve ciência inequívoca de sua incapacidade (Súmulas nºs 101 e 278 do STJ).
+2. Chegar à conclusão diversa acerca da data da ciência inequívoca da invalidez permanente e do termo inicial do prazo de prescrição, aferidos com base nas provas dos autos, encontra óbice na Súmula nº 7/STJ.
+ ..
+4. Agravo regimental não provido.
+(AgRg no REsp 1.577.481/PR, de minha relatoria, Terceira Turma, j. 26/4/2016, DJe 3/5/2016 - sem destaques no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PRESCRIÇÃO. TERMO INICIAL. REVISÃO. IMPEDIMENTO DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. MATÉRIA CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 201.625/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 9/8/2016, DJe 16/8/2016 - sem destaque no original)
+(2) Da observância dos termos do contrato de seguro celebrado (limitação do capital segurado ao grau de perda constatado)
+O Tribunal de origem, por maioria, asseverou que o pagamento do seguro de forma proporcional ao grau de invalidez somente tem cabimento quando a seguradora comprovar, de forma inequívoca, que o segurado foi previamente informado sobre a tabela de graduação das lesões editada pela SUSEP, prevista nas "condições gerais" do contrato de seguro firmado.
+Por seu turno, MAPFRE, nas razões do recurso especial, restringiu-se a alegar que foi apurado que o grau de invalidez de CLAYTON é de 25% devendo ser aplicada, ao caso, a tabela da circular 29/91 da SUSEP, interpretando-se de forma restritiva o contrato de seguro. Nada mencionou sobre a ausência de notificação ao segurado da tabela de valores constante das "condições gerais", ou seja, não impugnou especificamente os fundamentos do acórdão recorrido, incidindo, à espécie, a Súmula nº 283 do STF.
+A propósito, vejam-se os seguintes julgados:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. FORÇA MAIOR NÃO CONFIGURADA. AUSÊNCIA DE EXCLUDENTE. SÚMULA Nº 7 DO STJ. MULTA CONTRATUAL. INVERSÃO. POSSIBILIDADE. SÚMULA Nº 83 DO STJ. PRINCÍPIOS DO EQUILÍBRIO CONTRATUAL E BOA-FÉ. FUNDAMENTO INATACADO. SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. A ausência de impugnação de fundamento válido e autônomo do acórdão atrai a incidência da Súmula nº 283 do STF.
+6. Agravo interno não provido.
+(AgInt no AREsp 929.972/MG, de minha relatoria, Terceira Turma, j. 13/12/2016, DJe 14/2/2017 - sem destaque no original)
+AGRAVO INTERNO NO ESPECIAL. RECUPERAÇÃO JUDICIAL. ADIANTAMENTO DE CONTRATO DE CÂMBIO - ACC. NATUREZA EXTRACONCURSAL. ART. 49, §4º, DA LEI Nº 11.101/2005. SÚMULA Nº 83/STJ. TRANSCURSO DO PRAZO DE SUSPENSÃO. PLANO HOMOLOGADO. FUNDAMENTOS. SÚMULA Nº 283/STF. DECISÃO MANTIDA.
+ ..
+2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal - Súmula nº 283/STF.
+3. Agravo interno não provido.
+(AgInt no REsp 1.258.939/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 14/3/2017, DJe 20/3/2017 - sem destaque no original)
+(3) Da divergência jurisprudencial
+O dissídio jurisprudencial não pode ser conhecido porque não realizado o necessário cotejo analítico entre os julgados trazidos a confronto. A mera transcrição de ementas ou de passagens dos arestos indicados como paradigma não atende aos requisitos dos arts. 1.029, § 1º, do NCPC (541, caput, parágrafo único, do CPC/73) e 255, §§ 1º e 3º, do RISTJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INVERSÃO DO ÔNUS PROBATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INFIRMAR TAIS CONCLUSÕES. INVIABILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO DESPROVIDO.
+ ..
+4. A ausência de similitude fática entre o acórdão impugnado e o acórdão paradigma torna inviável o conhecimento do recurso especial pela divergência jurisprudencial.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1.011.318/ES, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 4/5/2017, DJe 18/5/2017 - sem destaques no original)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO os honorários fixados anteriormente em desfavor de MAPFRE em 5% sobre o valor da condenação, limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC, observado, se o caso, o art. 98, § 3º, do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º).
+Publique-se.
+Intimem-se.
