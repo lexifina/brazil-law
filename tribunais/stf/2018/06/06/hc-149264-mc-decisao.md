@@ -1,0 +1,20 @@
+DECISÃO
+HABEAS CORPUS – RECONSIDERAÇÃO – INDEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    Vossa Excelência, em 13 de dezembro de 2017, deixou de acolher o pedido de medida acauteladora, ressaltando a subsistência dos fundamentos concernentes à prisão preventiva imposta pela Primeira Turma Julgadora da Primeira Câmara Criminal do Tribunal de Justiça do Estado de Tocantins, no julgamento de embargos de declaração interpostos pelo Ministério Público para suprir omissão quanto ao previsto no artigo 387, § 1º, do Código de Processo Penal, no processo nº 0005912-29.2015.8.27.0000. Neste, foi o paciente condenado a 15 anos e 2 meses de reclusão, em regime inicial fechado, e ao pagamento de 845 dias-multa, ante a prática dos crimes versados nos artigos 158, § 1º (extorsão com causa de aumento de pena alusiva ao concurso de pessoas), 297, cabeça (falsificação de documento público), do Código Penal e 33, cabeça (tráfico de entorpecentes), da Lei nº 11.343/2006; e a 1 ano e 3 meses de detenção e 17 dias-multa por infração ao artigo 12 (posse irregular de munição de uso permitido) da Lei nº 10.826/2003.
+    Por meio das petições/STF nº 15.598/2018 e nº 21.126/2018, os impetrantes buscam a reconsideração da decisão. Destacam ser a prisão decorrente de determinação, pelo Tribunal estadual, de execução provisória da sanção. Dizem não se tratar de preventiva, razão pela qual, segundo aduzem, não se há de perquirir o enquadramento da medida no artigo 312 do Código de Processo Penal. Realçam configurada violação do princípio da não culpabilidade.
+    Consulta ao sítio do Superior Tribunal de Justiça, em 2 de junho de 2018, revelou a formalização do agravo em recurso especial nº 923.436, o qual foi concluso ao Relator em 6 de outubro de 2016.
+    Em pesquisa no Banco Nacional de Mandados de Prisão, no último dia 5 de junho, verificou-se estar pendente de cumprimento o alusivo ao paciente.
+    O processo encontra-se concluso para análise do pedido de reconsideração.
+    2. Quanto do indeferimento da liminar, em 13 de dezembro de 2017, fiz ver:
+    […]
+    2. A gradação do tráfico de entorpecentes, considerada a quantidade e variedade de drogas, munições e objetos apreendidos 31,9 gramas de maconha, duas cartelas embutidas em discos de plástico com 15 sementes de maconha, 15 cartões de 6 x 6 milímetros contendo ácido lisérgico (LSD), uma balança de precisão, sete cartuchos intactos de munição calibre .380, um cartucho calibre .32 e dois estojos calibre .38, além de um leitor de cartão magnético e uma cédula de identidade em nome de Wellington da Silva Souza com a foto do paciente , os contornos do delito de extorsão mediante concurso de pessoas e a notícia de ameaças a testemunha revelam estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a custódia se impunha, ante a periculosidade do agente, ao menos sinalizada. Daí ter-se como razoável e conveniente o pronunciamento atacado. A inversão da ordem do processo-crime no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender foi justificada, atendendo-se ao figurino legal.
+    […]
+    Não há o que reconsiderar. Embora os impetrantes insistam no argumento – diga-se, do qual compartilho – alusivo à inadequação da execução provisória da pena, considerada a ausência da preclusão maior do título condenatório, a determinação da custódia do paciente, conforme se depreende do acórdão formalizado pelo Tribunal estadual nos embargos declaratórios, foi respaldada no artigo 312 do Código de Processo Penal. A constrição, diversamente do alegado, assume caráter cautelar, surgindo descabido cogitar de execução antecipada da sanção.
+    A par disso, verifiquem que, no mandado de prisão expedido, consta, expressamente, a referência a prisão preventiva. Improcede o que articulado pelos impetrantes.
+    3. Indefiro o pedido de reconsideração.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 6 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
