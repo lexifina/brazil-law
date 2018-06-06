@@ -1,0 +1,27 @@
+EMENTA
+PEDIDO DE RECONSIDERAÇÃO EM HABEAS CORPUS RECEBIDO COMO AGRAVO REGIMENTAL. PLEITO ATENDIDO. LIVRAMENTO CONDICIONAL. COMETIMENTO DE NOVO DELITO DURANTE O PERÍODO DE PROVA. AUSÊNCIA DE SUSPENSÃO/REVOGAÇÃO NO CURSO DO BENEFÍCIO. EXTINÇÃO DA PUNIBILIDADE. OCORRÊNCIA. PRECEDENTES. ILEGALIDADE RECONHECIDA.
+Agravo provido para reconsiderar a decisão agravada. Habeas corpus concedido.
+DECISÃO
+Mediante a decisão às fls. 129/130, julguei prejudicado o writ interposto em favor de [NOME], no qual se pretendia a extinção da punibilidade da pena do paciente referente à execução n.º 2, argumentando que o período de prova do livramento condicional se findou sem que houvesse a sustação ou revogação do benefício, razão pela qual deve ser considerado cumprido, não obstante a prática de novo delito durante o seu curso.
+Sobreveio o presente pedido de reconsideração, em que a Defensoria Pública sustenta que o exame do pleito não se encontra prejudicado, porquanto a pena referente à Execução Penal n.º 2 foi julgada extinta, em 16/3/2016, pelo integral cumprimento da reprimenda, o que não importa em alteração da situação fática e processual do caso em tela.
+Argumenta que a ilegalidade arguida permanece, porquanto o paciente foi beneficiado com o livramento condicional em 31/1/2012, com término de cumprimento previsto para 1º/5/2013, não tendo sido sustado ou revogado em nenhum momento, motivo pelo qual deve ser declarado cumprido, ao término do período de prova.
+Requer, assim, seja reconsiderada a decisão que julgou prejudicado o presente writ para que se dê andamento na análise do Habeas Corpus e seja declarada a extinção da punibilidade da pena referente à Execução nº 02 do paciente desde 01/05/2013, em razão de seu integral cumprimento (fl. 137).
+É o relatório.
+Como o pedido de reconsideração foi formulado dentro do prazo do art. 258 do RISTJ, contado em dobro, recebo-o como agravo regimental.
+Assiste razão ao recorrente, motivo pelo qual a decisão agravada deve ser reconsiderada.
+Com efeito, depreende-se dos autos que ao paciente, depois de preenchidos os requisitos do art. 83 do Código Penal, foi concedido o livramento condicional na data de 31/1/2012, com o término do período de prova em 1º/5/2013.
+A despeito de ter o paciente, durante o período de prova do referido livramento condicional, cometido novo delito (tráfico de drogas), em 7/11/2012, o Juízo da Execução não tomou a providência prevista no art. 145 da Lei de Execução Penal.
+Como preconiza tal dispositivo, a benesse deveria ter sido suspensa cautelarmente ainda durante o seu curso, situação que se manteria até o trânsito em julgado da sentença condenatória, o que acarretaria a sua revogação.
+Nesse passo, a ausência de suspensão/revogação do benefício antes do término do período de prova acarreta a extinção da punibilidade pelo cumprimento integral da pena privativa de liberdade, nos termos dos arts. 90 do Código Penal e 146 da Lei de Execução Penal, sendo entendimento pacífico no Superior Tribunal de Justiça
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. COMETIMENTO DE NOVO DELITO DURANTE O PERÍODO DE PROVA. AUSÊNCIA DE SUSPENSÃO/REVOGAÇÃO NO CURSO DO BENEFÍCIO. EXTINÇÃO DA PUNIBILIDADE. OCORRÊNCIA. PRECEDENTES. ORDEM CONCEDIDA, COM RESSALVA DE ENTENDIMENTO.
+1. O cometimento de novo delito no curso do período de prova do livramento condicional acarreta, obrigatoriamente, a extinção do benefício após o trânsito em julgado da sentença condenatória (art. 86, inciso I, do Código Penal).
+2. A ausência de suspensão/revogação do livramento condicional antes do término do período de prova acarreta a extinção da punibilidade, pelo cumprimento integral da pena privativa de liberdade (art. 90 do Código Penal).
+3. Precedentes do STJ e do STF.
+4. Ordem concedida, com ressalva da relatora, para declarar extinta a punibilidade pelo cumprimento integral da pena privativa de liberdade, ocorrido em 27.6.2006, relativamente ao Processo de Execução n.º 548.291, Ação Penal n.º 31490.0/2000, que tramitou perante a 23.ª Vara Criminal de São Paulo/SP. (HC n. 129.497/SP, Sexta Turma, Ministra Maria Thereza de Assis Moura, DJe 4/5/2011)
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. DELITO COMETIDO DURANTE O PERÍODO DE PROVA. TÉRMINO DO PERÍODO SEM EXPRESSA SUSPENSÃO OU PRORROGAÇÃO. EXTINÇÃO DA PUNIBILIDADE. OCORRÊNCIA.
+1. Durante o período de prova, o livramento condicional pode ser revogado ou suspenso caso o apenado descumpra as condições que lhe foram impostas.
+2. Não havendo a suspensão ou revogação do benefício, antes do término do período de prova, deve ser declarada extinta a pena, nos termos do art. 90 do Código Penal.
+3. Ordem concedida, com o intuito de restabelecer a decisão proferida pelo Juízo da 2ª Vara das Execuções Criminais da Comarca de Araçatuba/SP, mediante a qual se considerou extintas as penas privativas de liberdade referentes às Ações Penais nos 747/96 da 2ª Vara Distrital de Taboão da Serra/SP, 323/96 da 27ª Vara Criminal de São Paulo/SP e 116/97 da 24ª Vara Criminal de São Paulo/SP. (HC n. 179.867/SP, Sexta Turma, Ministro Og Fernandes, DJe 29/11/2010.)
+Ante o exposto, dou provimento ao agravo regimental e reconsidero a decisão agravada (fls. 129/130), para declarar que, em 1º/5/2013, houve a extinção da punibilidade pelo cumprimento integral da pena, no que se refere ao Processo-Crime n. 3527/2008 - Controle 168/2008 (2ª execução), em curso no Juízo da Vara de Execuções Criminais da comarca de Ribeirão Preto/SP.
+Publique-se.
+Comunique-se, com urgência.
