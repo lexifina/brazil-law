@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial manejado com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo, assim ementado (fl. 324):
+PROCESSUAL CIVIL - AGRAVO INOMINADO NO AGRAVO DE INSTRUMENTO - AÇÃO ORDINÁRIA - HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - FAZENDA PÚBLICA VENCEDORA - INTERESSE RECURSAL - ENTE ESTATAL X ASSOCIAÇÃO DE PROCURADORES DO ESTADO DO ESPÍRITO SANTO (APES).
+O Estado não possui interesse em recorrer quando as razões recursais se limitam a impugnar a destinação dos honorários advocatícios sucumbenciais, notadamente porque tal verba honorária, quando vencedora a Fazenda Pública, pertence ao próprio ente estatal, ou seja, não constitui direito autônomo do respectivo procurador judicial.
+2. Nega-se provimento a agravo interposto com fundamento no art. 557,§ 1º, do Código de Processo Civil, quando a decisão monocrática hostilizada tiver sido prolatada nos termos do mesmo art. 557, caput, do Estatuto Processual Civil.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015 (fls. 367/372).
+A parte recorrente aponta violação aos arts. 23 e 24 da Lei nº 8.906/94 e 85, §19 e 1.022 do CPC/2015. Sustenta, além de negativa de prestação jurisdicional e dissídio jurisprudencial, o manifesto interesse/legitimidade do Estado do Espírito Santo para cobrar, em favor dos Procuradores do Estado do Espírito Santo, a verba honorária no feito em que é parte.
+É o relatório.
+A irresignação não comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, o entendimento perfilhado pelo Tribunal de origem encontra-se em consonância com a jurisprudência desta Corte, firme no sentido de que "a titularidade dos honorários advocatícios de sucumbência, quando vencedora a Administração Pública Direta da União, dos Estados, do Distrito Federal e dos Municípios, ou as autarquias, as fundações instituídas pelo Poder Público, as empresas públicas ou as sociedades de economia mista, não constitui direito autônomo do procurador judicial, porque integra o patrimônio público da entidade. Precedente: AgRg no REsp 1.169.515/RS, Rel. Min. Olindo Menezes (Desembargador convocado do TRF 1ª Região), Primeira Turma, DJe 2/3/2016)" (AgInt no REsp 1347421/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/02/2018, DJe 19/02/2018).
+Em reforço:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA, QUANDO VENCEDOR O ENTE PÚBLICO, NÃO CONSTITUEM DIREITO AUTÔNOMO DO PROCURADOR JUDICIAL, PORQUE INTEGRAM O PATRIMÔNIO PÚBLICO DA ENTIDADE. AGRAVO INTERNO DA FAZENDA DO ESTADO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. Cinge-se a controvérsia em definir se os honorários de sucumbência fixados em favor da Fazenda Pública podem ser compensados com crédito a ser recebido por meio de precatório, por integrarem o patrimônio da entidade pública, ou se referidos valores são de titularidade dos Procuradores da entidade estatal, circunstância que inviabilizaria eventual compensação.
+2. O entendimento adotado no acórdão impugnado encontra amparo na jurisprudência do Superior Tribunal de Justiça de que os honorários advocatícios de sucumbência, quando vencedora a Fazenda Pública, integram o patrimônio da entidade estatal, não constituindo direito autônomo do Procurador judicial, o que viabiliza sua compensação.
+Precedentes: REsp. 1.668.647/SP, Rel. Min. HERMAN BENJAMIN, DJe 20.6.2017; AgInt no AREsp. 859.401/DF, Rel. Min. HUMBERTO MARTINS, DJe 30.8.2016; AgInt no REsp. 1.198.678/RS, Rel. Min. GURGEL DE FARIA, DJe 21.11.2016. 3. Agravo Interno da FAZENDA DO ESTADO DE SÃO PAULO a que se nega provimento.
+(AgInt no AREsp 909.941/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 22/08/2017, DJe 31/08/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRAÇÃO PÚBLICA. HONORÁRIOS DE SUCUMBÊNCIA. TITULARIDADE.
+1. As Turmas que integram a Primeira Seção do Superior Tribunal de Justiça firmaram o entendimento de que a titularidade dos honorários de sucumbência, quando vencedora a Administração Pública, suas autarquias, fundações e empresas públicas ou sociedades de economia mista, não constituem direito autônomo do procurador judicial, porquanto integram o patrimônio público da entidade estatal.
+Precedentes.
+2. Agravo interno desprovido.
+(AgInt no REsp 1198678/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 25/10/2016, DJe 21/11/2016)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
