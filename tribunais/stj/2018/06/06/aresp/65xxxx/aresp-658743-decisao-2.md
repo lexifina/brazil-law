@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. NÃO INDICAÇÃO DO PERMISSIVO CONSTITUCIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. PRECEDENTE DA CORTE ESPECIAL. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto interposto por [NOME] (fls. 635-643) contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 418/STJ.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 536):
+EMBARGOS À EXECUÇÃO. CORREÇÃO MONETÁRIA. LEI Nº 11.960/09.
+As alegações deduzidas pela Fundação Universidade Federal do Rio Grande - FURG pecam pela generalidade, tendo se resumido a apresentar novo cálculo, com valores diferentes daqueles apontados como devidos pelo embargado.
+A partir da entrada em vigor da Lei nº 11.960/09, nas condenações impostas à Fazenda Pública, haverá a incidência uma única vez, até o efetivo pagamento, dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança. Essa nova disciplina legal tem aplicação imediata sem, contudo, retroagir ao período anterior à sua vigência.
+Embargos de declaração acolhidos para prequestionamento.
+No recurso especial, os recorrentes alegam estando o julgado acima transcrito sujeito à sistemática do art. 543-C do CPC, impõe-se a observância do entendimento nele firmado, razão pela qual, a partir de 01/07/2009, data em que passou a viger a Lei 11.960/2009, que alterou o art. 1º-F da Lei 9.494/97, os juros moratórios devem ser calculados com base nos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, restando, no entanto, afastada incidência do referido dispositivo legal para fins de correção monetária dos valores devidos.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que a Súmula 418/STJ não se aplica ao caso, porquanto não houve alteração do julgado.
+É o relatório. Decido.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Com relação à Súmula 418/STJ, com razão os agravantes. No entanto, ainda assim o recurso especial não merece conhecimento.
+Com efeito, a Corte Especial do STJ firmou o entendimento de que a ausência de indicação da alínea do permissivo constitucional em que se fundamenta o recurso especial, impede a apreciação do mesmo. In casu, os recorrentes não indicaram a alínea do permissivo constitucional que embasa o seu Recurso Especial, o que implica deficiência de fundamentação, atraindo o óbice da Súmula 284/STF.
+A propósito, confira-se o julgado da Corte Especial:
+PROCESSO CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. DISSÍDIO NÃO DEMONSTRADO. AUSÊNCIA DE INDICAÇÃO DO PERMISSIVO CONSTITUCIONAL. SÚMULA 284/STF. JURISPRUDÊNCIA PACÍFICA. SÚMULA 168/STJ. REGRA TÉCNICA DE CONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 315 DO STJ.
+1. Não prospera a pretensão recursal, na medida em que a jurisprudência se firmou no mesmo sentido do acórdão embargado, qual seja, que a ausência de indicação da alínea do permissivo constitucional em que se fundamenta o recurso especial, impede a apreciação do recurso especial. Precedentes: AgRg no AREsp 551.606/PB, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 06/10/2015, DJe 03/02/2016; AgRg no Ag 760.867/PE, Rel. Min. José Delgado, Primeira Turma, julgado em 07/11/2006, DJ 23/11/2006, p. 221; AgRg no REsp 1244392/AL, Rel. Min. Massami Uyeda, Terceira Turma, julgado em 20/10/2011, DJe 08/11/2011.
+2. In casu, incide a Súmula 168 do STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+3. Os agravantes pleiteiam rever acórdão que aplicou o entendimento de que "a falta de indicação do dispositivo constitucional em que se funda o recurso especial implica deficiência de fundamentação recursal, o que atrai (por analogia) o óbice contido no enunciado da Súmula 284 do STF". Porém, revela-se inviável rever - em embargos de divergência - o conhecimento do recurso especial. Precedentes: AgRg nos EAREsp 681.574/SP, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 25/02/2016, DJe 02/03/2016; AgRg nos EAg 1.421.413/MG, Rel. Min. Og Fernandes, Corte Especial, julgado em 02/12/2015, DJe 18/12/2015; AgRg nos EDcl nos EAREsp 204.278/MG, Rel.Min. Luis Felipe Salomão, Corte Especial, julgado em 04/11/2015, DJe 18/11/2015.
+4. Aplica-se ao caso dos autos a Súmula 315/STJ, que assim dispõe: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Agravo regimental improvido. (STJ, AgRg nos EAREsp 278.959/MG, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe 06/05/2016).
+Ante o exposto, nego provimento ao agravo de [NOME] OUTROS
+Publique-se. Intimem-se.
