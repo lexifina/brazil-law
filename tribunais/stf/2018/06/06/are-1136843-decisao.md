@@ -1,0 +1,23 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “EMBARGOS À EXECUÇÃO FISCAL IPVA Discussão de débito referente aos exercícios 2010 a 2012 Embargante que não ofereceu prova relativa ao veículo objeto da cobrança Irregularidades não reconhecidas Recurso não provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 22, XI e parágrafo único; 24, § 3º; 146, III; 155, III; e 158, III, todos da CF. Sustenta que: (i) somente ao Estado que tiver registrado o veículo é conferida a capacidade tributária ativa do IPVA; (ii) a Fazenda Pública estadual usurpou sua competência legislativa.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “Opôs-se recurso extraordinário hospedado na alínea "a" do inciso III do artigo 102 da Constituição da República, sob alegada violação aos seguintes dispositivos constitucionais: 22, XI, 155, III e 158, III.
+    Em preliminar, o recorrente aponta a existência de repercussão geral de questão constitucional, exigência contida no §2º do art. 1035 do Código de Processo Civil, matéria cuja apreciação é da competência do C. Supremo Tribunal Federal.
+    No entanto, o recurso não merece trânsito.
+    Com efeito, a fundamentação careceu do imprescindível prequestionamento, uma vez que nenhum dos dispositivos da Carta Magna arrolados foi expressamente ventilado no v. acórdão guerreado. Incidente a Súmula 282 do Colendo Supremo Tribunal Federal, que já decidiu ser inadmissível o prequestionamento na forma implícita.
+    Inadmito, pois, o recurso extraordinário.”
+    A pretensão recursal não merece prosperar. Isso porque a alegada ofensa à Constituição não foi apreciada pelo acórdão impugnado. Tampouco a oposição dos embargos de declaração foi suficiente para prequestionar a matéria, uma vez que o objeto dos aclaratórios foi diverso daquele constante no recurso extraordinário, o qual carece de prequestionamento (Súmulas 282 e 356/STF).
+    No caso dos autos, o Tribunal de origem consignou o seguinte:
+    “No caso concreto, a embargante não ofereceu qualquer documento relativo ao veículo objeto da cobrança de IPVA (Sandero Aut 1.0 16V, placas ASR-5958), a prejudicar a análise do mérito da discussão proposta.
+    Ausente demonstração de que o automóvel esteja licenciado em outro Estado da Federação, ou mesmo que o imposto foi exigido e recolhido perante outro ente político, inviável presumir irregularidades na cobrança, ressaltando que, na hipótese, o fundamento legal das inscrições em dívida é o art. 21 da LE nº 13.296/08 (falta de pagamento fls. 49/54), sem indicação de que o imposto tenha sido lançado com base no art. 3º, X, “c”, da mesma norma (veículo de propriedade de empresa locadora que integra frota destinada à locação).
+    Além disso, mesmo que o imposto tenha sido lançado com base no art. 3º, X, “c”, da LE nº 13.296/08, não são reconhecidas as irregularidades invocadas,adotando entendimento exposto pelo Órgão Especial desta Corte nos autos da Arg. Incons. nº 0127403-35.2012.8.26.0000, rel. Des. Enio Zulliani, j. 22/08/2012, que reconheceu a constitucionalidade da referida norma, acolhido por esta Câmara (v.g. AP 1012113-62.2015.8.26.0577, rel. Des. Rubens Rihl, j. 23/08/2016), ressaltando que inexiste nos autos documento comprovando o recolhimento do imposto em outro Estado da Federação ou o cumprimento dos requisitos previsto pelo art. 15 da LE nº 13.396/08, de aplicação específica às locadoras.
+    Ao final, anoto que, ao contrário do alegado, a multa moratória foi aplicada com fulcro no art. 27 da LE nº 13.296/08 (fls. 49/54), “até o limite de 20% (vinte por cento), calculado sobre o imposto”, o que não se mostra abusivo, prejudicada, igualmente a avaliação da alíquota aplicada, por falta de demonstração da própria base de cálculo (valor de mercado do veículo) considerada.
+    Ante o exposto, meu voto é pelo não provimento do recurso.”
+    Assim, para firmar entendimento diverso do acórdão recorrido quanto aos pontos aduzidos pela parte recorrente, seria indispensável o reexame do acervo probatório constante dos autos. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 06 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
