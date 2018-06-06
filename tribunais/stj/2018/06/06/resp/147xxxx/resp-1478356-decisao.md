@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. APLICABILIDADE DO CPC/1973. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 160, e-STJ):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. RECONHECIMENTO DE TEMPO DE SERVIÇO ESPECIAL. CONVERSÃO EM APOSENTADORIA ESPECIAL. IMPOSSIBILIDADE. AGENTE NOCIVO (RUIDO). EXPOSIÇÃO NÃO COMPROVADA.
+1. O autor pede que sejam reconhecidas as condições especiais do período de 26/10/1978 a 26/03/1982  Madeira Sintética S/A , laborado como operador de máquina.
+2. No processo n" 0500064.96.2011.4.05.8307S, o pleito limitou-se ao período de 08/10/1983 a 14/01/2008, cujas condições especiais foram reconhecidas pela Turma Recursal. Considerando que há disparidade entre os pedidos, não se pode falar em existência de coisa julgada, impondo-se a reforma da sentença objurgada.
+3. É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que, com relação a ruído, sempre foi necessária a aferição técnica por laudo pericial, elaborado por médico do trabalho ou engenheiro de segurança do trabalho, nos termos do art. 58, § 20, da Lei n 0 8.213/91.
+4. O apelante alega que sofreu exposição habitual e permanente ao agente nocivo - ruido de 90 dB3(A) - durante a jornada laboral. Para comprovar as suas alegações, anexou apenas o formulário [PLACA], sem o imprescindível laudo pericial.
+5. Considerando que não foi comprovada a efetiva exposição ao agente nocivo, mantém- se o período de 26/10/1978 a 26/03/1982 como tempo laboral comum.
+6. Provimento da apelação para reformar in totum a sentença objurgada e, com espeque no art. 515, § 30, do CPC, julgar improcedente o pedido.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 535, II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia, em especial quanto ao teor do art. 70, § 1º, do Decreto n. 3.048/1999, com redação do Decreto 4.827/2003; Lei n. 9. 528/97 (resultantes das MPs 1523/1996, 1523-13 e 1596-14) e o seu Decreto 2.172/1997, anexo IV, que alterou o art. 58 da Lei n. 8.213/1991.
+Quanto a questão de fundo, sustenta ofensa aos artigos 70, § 1º, do Decreto n. 3.048/1999, com redação do Decreto 4.827/2003; Lei n. 9. 528/97 (resultantes das MPs 1523/1996, 1523-13 e 1596-14) e o seu Decreto 2.172/1997, anexo IV, que alterou o art. 58 da Lei n. 8.213/1991 e dissídio jurisprudencial.
+Nesse diapasão, aduz o recorrente que o período compreendido entre 26/10/1978 a 26/03/1982 deve ser considerado insalubre para fins de aposentadoria especial, mormente levando-se em consideração que entre 29/04/1995 e 10/12/1997 a especialidade do vínculo se comprovava unicamente com base no enquadramento por categoria profissional, bem como, na exposição a agentes nocivos, cuja demonstração se fazia por meio dos formulários SB-40 e [PLACA], em razao do advento da Lei 9.032/1995.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 224, e-STJ.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Não se conhece da suposta afronta ao artigo 535, II, do CPC/1973, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar a efetiva omissão quanto à apreciação aos dispositivos indicados, bem como sua relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+O Tribunal a quo manifestou-se, quanto à questão de fundo, nos seguintes moldes:
+E firme a jurisprudência do Superior Tribunal de Justiça no sentido de que, com relação a ruído, sempre foi necessária a aferição técnica por laudo pericial, elaborado por médico do trabalho ou engenheiro de segurança do trabalho, nos termos do art. 58, § 20, da Lei nº 8.213/91. (..)
+O apelante alega que sofreu exposição habitual e permanente ao agente nocivo - ruído de 90 dB3(A) - durante a jornada laboral. Para comprovar as suas alegações, anexou apenas o formulário [PLACA], desacompanhado do laudo pericial.
+O recorrente, ao indicar ofensa ao art. 70, § 1º, do Decreto n. 3.048/1999, com redação do Decreto 4.827/2003; Lei n. 9. 528/97 (resultantes das MPs 1523/1996, 1523-13 e 1596-14) e o seu Decreto 2.172/1997, anexo IV, que alterou o art. 58 da Lei n. 8.213/1991 e dissídio jurisprudencial, direcionando a sua tese no sentido de à época da prestação do serviço não se exigia laudo técnico para caracterizar o labor especial, deixou de impugnar o fundamento do acórdão recorrido segundo o qual "com relação a ruído, sempre foi necessária a aferição técnica por laudo pericial, elaborado por médico do trabalho ou engenheiro de segurança do trabalho, nos termos do art. 58, § 20, da Lei nº 8.213/91".
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
