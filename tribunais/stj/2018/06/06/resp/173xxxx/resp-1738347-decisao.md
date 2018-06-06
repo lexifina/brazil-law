@@ -1,0 +1,33 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. PRESCRIÇÃO. TERMO INICIAL. TEORIA DA ACTIO NATA.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "c", da Constituição Federal, contra acórdão proferido pelo TJ/Maranhão, assim ementado (fl. 585):
+APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO REPARATÓRIA DE DANOS MORAIS E MATERIAIS. USINA HIDRELÉTRICA.
+PRESCRIÇÃO. TERMO INICIAL. ENCHIMENTO DO RESERVATÓRIO. PRAZO PRESCRICIONAL. ART. 206, §3º, CÓDIGO CIVIL. APELO IMPROVIDO. SENTENÇA MANTIDA. ART. 487, INCISO II, DO CPC.
+1. Em demandas que envolvam pretensão indenizatória em razão da instalação de usina hidrelétrica, o prazo prescricional inicia-se com o enchimento do reservatório. Precedente do STJ. 2. Não obstante se reconheça a imprescritibilidade das ações coletivas que versem sobre tutela do meio ambiente, o caso debatido envolve demanda indenizatória visando reparação de dano de cunho individual e patrimonial, motivo pelo qual entende-se pela aplicação do interregno de 03 (três) anos previsto no art. 206, §3º, do Código Civil.
+3.Considerando que o enchimento do reservatório se deu em dezembro de 2010 e a ação de base foi proposta em meados de 2016, tem-se verificada a prescrição na espécie, cabendo extinguir o feito originário, com resolução do mérito, consoante o disposto no .art. 487, inciso II, do CPC. 4. Apelo conhecido e improvido.
+4.Unanimidade.
+Embargos de declaração rejeitados.
+A recorrente suscita a existência de dissídio jurisprudencial no tocante à interpretação do artigo 206, § 3º, V, do CC/2002, sob os seguintes argumentos:
+(a) O termo inicial do prazo prescricional das ações indenizatórias, em observância ao princípio da actio nata, é a data em que a lesão e os seus efeitos são constatados;
+(b) Não obstante o art. 206, § 3º, V, do CC/02 estabeleça o prazo prescricional de 3 (três) anos para a pretensão de reparação civil, é certo que, na hipótese dos autos, tratando-se de dano de caráter contínuo e permanente, é possível o ajuizamento de ação indenizatória enquanto perdurar o dano decorrente de causa que se protrai no tempo, pois o prazo prescricional se renovaria diariamente.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 723/726.
+É o relatório. Passo a decidir.
+Acerca da controvérsia, manifestou-se o Tribunal de origem no sentido de que o termo inicial da pretensão indenizatória relativa à instalação de usina hidroelétrica ocorre a partir do enchimento do reservatório.
+Contudo, esta Corte possui entendimento dominante no sentido de que o termo inicial da pretensão indenizatória tem início a partir da ciência inequívoca dos efeitos decorrentes do ato lesivo, nos termos do princípio da actio nata.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. AUSÊNCIA DE OMISSÕES NO ACÓRDÃO. PRESCRIÇÃO. TERMO INICIAL. TEORIA DA ACTIO NATA. SÚMULA 83/STJ. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1. A distribuição da competência entre os órgãos julgadores que compõem o Superior Tribunal de Justiça é definida pela natureza da relação jurídica litigiosa. No caso concreto, a matéria tratada nos presentes autos refere-se a responsabilidade civil decorrente de dano ambiental, incluindo-se, portanto, no conceito de direito público, disposto no art. 9º, § 1º, I, do Regimento Interno do Superior Tribunal de Justiça.
+2. Não ocorre ofensa aos arts. 458, II e 535, II, do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+3. O entendimento adotado pelo colegiado de origem encontra-se em consonância com a jurisprudência desta Corte, que é firme no sentido de que "no ordenamento jurídico pátrio, o termo inicial da prescrição surge com o nascimento da pretensão (actio nata), assim considerada a data a partir da qual a ação poderia ter sido ajuizada"(REsp 1.355.636/PE, Rel. o Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/12/2012, DJe 17/12/2012).
+4. A alteração da conclusão adotada pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providências vedadas em recurso especial a teor da Súmula 7/STJ.
+5. Agravo regimental improvido. (AgRg no AREsp 531.654/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/03/2015, DJe 13/03/2015).
+EMBARGOS DE DIVERGÊNCIA. PROCESSUAL CIVIL E ADMINISTRATIVO. ACÓRDÃO EMBARGADO DA 2.ª TURMA. PARADIGMAS DAS PRIMEIRA E QUINTA TURMAS. RESPONSABILIDADE CIVIL DO ESTADO. ART. 1.º DO DECRETO N.º 20.910/32. PRAZO PRESCRICIONAL QUINQUENAL. QUESTÃO CONTROVERTIDA: TERMO INICIAL. ATO SUPOSTAMENTE ILÍCITO QUE REPERCUTE NA ESFERA JURÍDICA DO INTERESSADO. PRINCÍPIO DA ACTIO NATA. EMBARGOS DE DIVERGÊNCIA CONHECIDOS, MAS REJEITADOS. PREJUDICADA A ANÁLISE DO ALEGADO DISSÍDIO EM FACE DO PARADIGMA DA PRIMEIRA TURMA.
+1. Com acerto, decidiu o acórdão embargado que "O direito de pedir indenização, pelo clássico princípio da actio nata, surge quando constatada a lesão e suas consequências, fato que desencadeia a relação de causalidade e leva ao dever de indenizar."
+2. De fato, a partir do ato da Administração que pretensamente repercute na esfera jurídica do administrado é que surge para o interessado o direito de buscar em juízo tanto a declaração de ilicitude do ato quanto a reparação de eventual dano dele decorrente. Precedentes citados: AgRg no AgRg no Ag 1362677/PR, PRIMEIRA TURMA, Rel. Ministro BENEDITO GONÇALVES, DJe de 07/12/2011; e REsp 1213662/AC, SEGUNDA TURMA, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 03/02/2011.
+3. No julgamento dos embargos de divergência pela Corte Especial, quando houver pronunciamento desse órgão colegiado mais amplo acerca do mérito do recurso, quer acolhendo quer rejeitando a insurgência, fica prejudicada a análise do alegado dissídio, sobre a mesma questão, em face de paradigmas remanescentes, por outro órgão julgador.
+4. Embargos de divergência conhecidos, mas rejeitados. Prejudicada a análise do alegado dissídio em face do paradigma remanescente. (EREsp 1176344/MG, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 07/11/2012, DJe 28/11/2012).
+Portanto, deve-se determinar o retorno dos autos para que o Tribunal de origem analise novamente a prescrição, tendo como termo inicial a data no momento em que ficou constatada a lesão e os seus efeitos.
+Ante o exposto, dou provimento ao recurso especial.
+Publique-se. Intimem-se.
