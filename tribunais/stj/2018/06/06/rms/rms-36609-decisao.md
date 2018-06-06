@@ -1,0 +1,35 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso ordinário em mandado de segurança interposto pelo Sindicato dos Trabalhadores em Seguridade Social no Mato Grosso do Sul - SINTSS/MS contra acórdão assim ementado:
+MANDADO DE SEGURANÇA - REDUÇÃO DE JORNADA DE TRABALHO - ASSISTENTE SOCIAL - PRELIMINAR DE IMPOSSIBILIDADE JURÍDICA DO PEDIDO - AFASTADA - LEI N. 12.317/2010 - REDUÇÃO DA JORNADA DE, TRABALHO DE 40 HORAS SEMANAIS PARA 30 NORAS SEMANAIS - IMPOSSIBILIDADE - AUSÊNCIA DE DIREITO LÍQUIDO E CERTO A SER PROTEGIDO PELA VIA MANDAMENTAL - SEGURANÇA DENEGADA.
+Rejeita-se a preliminar de impossibilidade jurídica do pedido, pois não existe no ordenamento jurídico proibição expressa que impeça a impetração de mandado de segurança objetivando reduzir sua jornada de trabalho, sendo que a vedação legal de qualquer alteração na carga horária de trabalho das impetrantes é questão de mérito que serve para justificar a denegação da segurança, mas não para extinguir o processo por impossibilidade jurídica do pedido.
+A questão acerca da jornada de trabalho dos servidores públicos diz te respeito ao regime jurídico, e, nesse contexto, a competência legislativa é do ente federativo que com eles mantêm vínculo jurídico-profissional. Tal competência decorre da autonomia política, administrativa e organizacional dos entes federados, prevista no art. 18, da Constituição Federal.
+A competência privativa da União em legislar sobre as condições para o exercício das profissões (art. 22, XVI, da Constituição Federal), não implica a possibilidade da aplicação da legislação federal ao caso em tela, pois a norma constitucional acima citada diz respeito aos requisitos legais a serem preenchidos para habilitação ao exercício de determinada profissão.
+A alteração da carga horária de trabalho é ato discricionário da administração pública, baseado na conveniência e oportunidade, não possuindo, o demandante, qualquer direito adquirido a regime jurídico, que, inclusive, já havia previsão da jornada. de trabalho no edital do concurso.
+Opostos embargos de declaração, estes foram acolhidos para a supressão de erro material, fazendo-se constar que houve denegação da segurança (e-STJ, fls. 125/126).
+O recorrente alega que os seus filiados têm direito líquido e certo à redução da sua jornada de trabalho, na forma da Lei n. 12.317/2010.
+Contrarrazões às e-STJ, fls. 150/154.
+Em manifestação de e-STJ, fls. 172/175, o Ministério Público Federal opina pelo desprovimento do recurso.
+É o relatório.
+O presente recurso não merece prosperar.
+O Tribunal local assim solucionou a controvérsia (e-STJ, fls. 114/115):
+A questão acerca da jornada de trabalho dos servidores públicos diz respeito ao regime jurídico, e, nesse contexto, a competência legislativa é do ente federativo que com eles mantêm vínculo jurídico-profissional. Tal competência decorre da autonomia política, administrativa e organizacional dos entes federados, prevista no art. 18, da Constituição Federal.
+Na hipótese, o impetrante, na qualidade de substituto de servidores públicos efetivos do Estado de Mato Grosso do Sul, sujeitos ao regime jurídico estabelecido no Estatuto dos Servidores Públicos Estaduais, cuja jornada de trabalho, é de 40 horas semanais para o cargo que ocupam (assistente social).
+A competência privativa da União em legislar sobre as condições para o exercício das profissões (art. 22, XVI, da Constituição Federal), não implica a possibilidade da aplicação da legislação federal ao caso em tela, pois a norma constitucional acima citada diz respeito aos requisitos legais a serem preenchidos para habilitação ao exercício de determinada profissão.
+Assim, a norma inserta no art. 50-A, da Lei Federal n0 12.317/2010, que fixa a jornada de trabalho dos assistentes sociais em 30 horas semanais não pode ser aplicada em detrimento da Lei Estadual (Estatuto dos Servidores Públicos Estaduais) que estabelece a jornada de 40 horas semanais para o cargo das impetrantes.
+Ademais, a atuação da Administração pública deve pautar-se pelo disposto em lei, não podendo dela se afastar, sob pena de responsabilização administrativa, civil e penal por conceder direitos sem amparo legal.
+Conforme a jurisprudência desta Corte Superior, "a norma inserta no art. 5-A da Lei 8.662/93, incluído pela Lei 12.317/10, que versa sobre a redução da jornada de trabalho para 30 horas semanais aplicada à carreira de assistente social, vincula apenas os empregados submetidos à Consolidação das Leis Trabalhistas (CLT, Decreto-Lei n. 5.452/43) e não aos demais regimes jurídicos estatutários" (AgRg no REsp 1.480.208/PB, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 6/11/2015).
+No mesmo sentido, cito:
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. ASSISTENTE SOCIAL. JORNADA DE TRABALHO. REDUÇÃO. REGRA RESTRITA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Esta Corte pacificou entendimento de que a norma inserta no art. 5º-A da Lei n. 8.662/1993, incluído pela Lei n. 12.317/2010, que versa sobre a redução da jornada de trabalho de 40 (quarenta) para 30 (trinta) horas semanais, aplicada à carreira de Assistente Social, vincula apenas os empregados regidos pela Consolidação das Leis do Trabalho e não pelos demais regimes jurídicos estatutários.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.490.683/MT, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 7/12/2017, DJe 16/2/2018)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. ART. 535 DO CPC. VIOLAÇÃO. INOCORRÊNCIA. JORNADA DE TRABALHO. 30 (TRINTA) HORAS SEMANAIS. CARREIRA DE ASSISTENTE SOCIAL. LEI N. 8.662/93. APLICABILIDADE APENAS AOS EMPREGADOS REGIDOS PELA CLT. RECURSO ESPECIAL PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - A jornada de trabalho de 30 (trinta) horas semanais, para a carreira de assistente social, prevista pelo art. 5º-A da Lei n. 8.662/93, incluído pela Lei n. 12.317/10, aplica-se, exclusivamente, aos profissionais submetidos ao regime da Consolidação das Leis Trabalhistas (CLT). Precedentes.
+IV - Recurso Especial parcialmente provido.
+(REsp 1.695.353/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 7/11/2017, DJe 30/11/2017)
+Ante o exposto, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
