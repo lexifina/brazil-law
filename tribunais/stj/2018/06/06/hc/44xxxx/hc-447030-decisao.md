@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0007227-76.2015.8.26.0564).
+Consta dos autos que o paciente foi condenado como incurso no art. 155, § 4º, icnisos I, II e IV, n/f do art. 14, inciso II, ambos do Código Penal, à pena de 1 ano, 7 meses e 6 dias de reclusão, em regime fechado, e ao pagamento de 7 dias-multa (fls. 252/271).
+Interposta apelação, o Tribunal local negou provimento ao recurso, nos seguintes termos (fls. 393/404):
+Apelação. Crime de furto qualificado tentado. Absolvição por insuficiência de provas. Impossibilidade. Autorias e materialidade demonstradas. Afastamento da qualificadora da escalada. Impossibilidade. Fixação de regime inicial mais brando. Não cabimento. Detração penal. Impossibilidade. Não provimento aos recursos.
+No presente writ, a defesa alega que o paciente está sofrendo constrangimento ilegal, tendo em vista a fixação do regime mais gravoso. Aduz que o regime prisional foi estabelecido em inicial fechado sem fundamentação idônea, sendo cabível a fixação de regime mais brando. No ponto, assevera que não foi aplicada a regra da detração prevista no § 2º do art. 387 do Código de Processo Penal na fixação do regime inicial, sendo que o paciente já cumpriu mais da metade da pena.
+Ao final, liminarmente e no mérito, pede a fixação do regime inicial aberto.
+O pedido liminar foi indeferido às fls. 560/561.
+O Ministério Público Federal opinou, às fls. 564/568, pela denegação da ordem.
+É o relatório. Decido.
+Inicialmente, cumpre analisar a adequação da via eleita para a manifestação da irresignação contra o acórdão proferido pelo Tribunal a quo.
+O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+No caso, a impetração insurge-se contra acórdão do Tribunal de origem que julgou o apelo defensivo, o que, de acordo com a nossa sistemática recursal, enseja a hipótese do recurso especial.
+Dessa forma, o habeas corpus em tela não merece conhecimento.
+Contudo, a coação ilegal apontada na inicial será analisada, a fim de verificar a existência de flagrante ilegalidade que justifique a atuação, de ofício, por este Superior Tribunal de Justiça.
+Busca-se, na presente impetração, o reconhecimento da ilegalidade na fixação do regime mais gravoso.
+Quanto à fixação do regime prisional, sabe-se que a jurisprudência desta Corte firmou-se no sentido de que é necessária a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal, na primariedade do acusado e na gravidade concreta do delito, evidenciada esta última por um modus operandi que desborde dos elementos normais do tipo penal violado.
+Foi elaborado, então, o enunciado n. 440 da Súmula deste Tribunal, segundo o qual, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, são os enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Na mesma esteira, a jurisprudência desta Corte firmou o entendimento de que é admissível a adoção do regime prisional semiaberto aos reincidentes condenados à pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais, o que culminou na edição do enunciado n. 269 da Súmula do STJ.
+Verifica-se, inicialmente, que o paciente é reincidente, o que atrairia a aplicação do enunciado n. 269 da Súmula desta Corte e a fixação do regime inicial semiaberto.
+Entretanto, no caso dos autos, a pena-base foi fixada acima do mínimo legal, em razão da valoração negativa das circunstâncias do art. 59 do Código Penal (maus antecedentes), portanto, fundamentação idônea para a fixação do regime prisional mais gravoso previsto para a pena aplicada.
+Diante disso, em razão da reincidência e da circunstância judicial desfavorável, não obstante a pena ser inferior a 4 (quatro) anos, o regime fechado está devidamente justificado.
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO MEDIANTE FRAUDE. DESCLASSIFICAÇÃO PARA ESTELIONATO. AUSÊNCIA DE VONTADE DO DESPOJAMENTO DO BEM. REGIME FECHADO. POSSIBILIDADE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEL E REINCIDÊNCIA. INAPLICABILIDADE DA SÚMULA 269/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Como muito bem observado na decisão combatida: "no furto com fraude, o ofendido não dispõe de seu bem, podendo até entregá-lo, momentaneamente, ao autor do delito, mas pensando em tê-lo de volta", não havendo portanto falar em estelionato. (Precedente.) 2.
+Apresenta-se inaplicável à espécie o disposto na Súmula 269/STJ, e isto porque, embora condenado a pena inferior a quatro anos, o agravante é reincidente e teve a pena-base fixada acima do mínimo legal, em face da valoração negativa das circunstâncias judiciais.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 986.850/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/08/2017, DJe 30/08/2017)
+HABEAS CORPUS. FURTO. REGIME PRISIONAL FECHADO. CIRCUNSTÂNCIAS DO CRIME DESFAVORÁVEIS. RÉU REINCIDENTE. POSSIBILIDADE DE IMPOSIÇÃO DO MODO MAIS GRAVE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É válida a imposição do regime inicial fechado ao réu reincidente que teve a circunstância judicial considerada desfavorável, mesmo quando condenado a pena inferior a 4 anos. Súmula n. 269 do STJ.
+2. No caso, o regime inicialmente fechado foi concretamente fundamentado pelas instâncias ordinárias, pois o réu é reincidente e praticou o novo crime enquanto cumpria pena por outro delito, o que levou à consideração desfavorável das circunstâncias do crime.
+3. Agravo regimental não provido.
+(AgRg no HC 417.996/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/02/2018, DJe 15/02/2018)
+Por fim, em relação ao pedido de aplicação da regra prevista no art. 387, § 2º, do Código de Processo Penal, tendo em vista que a pena já se encontrava em patamar não superior a 4 anos de reclusão, sendo fixado o regime inicial fechado em virtude de reincidência e existência de circunstância judicial desfavorável, a efetiva detração de eventual pena cumprida de forma provisória seria irrelevante.
+A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TENTATIVA DE FURTO QUALIFICADO. REINCIDÊNCIA. FOLHA DE ANTECEDENTES CRIMINAIS. COMPROVAÇÃO IDÔNEA. TENTATIVA. ITER CRIMINIS. FRAÇÃO DE REDUÇÃO. REEXAME DO CONJUNTO PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. REGIME FECHADO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL E REINCIDÊNCIA. NÃO INCIDÊNCIA DA SÚMULA 269/STJ. DETRAÇÃO. CRITÉRIO OBJETIVO. PENA FIXADA EM PATAMAR INFERIOR A 4 ANOS. REGIME MAIS GRAVOSO COM BASE NA REINCIDÊNCIA E CIRCUNSTÂNCIA CONCRETA DESFAVORÁVEL. IRRELEVÂNCIA DO EVENTUAL APROVEITAMENTO DO TEMPO DE PRISÃO PROVISÓRIA. HABEAS CORPUS NÃO CONHECIDO.
+1. O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+2. O entendimento desta Corte Superior é no sentido de que a folha de antecedentes criminais ou certidão do Instituto Nacional de Identificação, por serem revestidos de fé pública, mostram-se suficientes para o reconhecimento de reincidência ou da presença de maus antecedentes.
+3. Rever as premissas fáticas que conduziram a Corte de origem a concluir pelo expressivo transcurso do iter criminis, com reflexo no quantum da redução decorrente da tentativa, demandaria reexame probatório, procedimento inviável na via estreita do habeas corpus.
+4. Não há se falar em regime mais brando, tendo em vista que o paciente é reincidente e as circunstâncias judiciais não lhe são favoráveis. Inaplicabilidade do enunciado n. 269/STJ.
+5. No que toca à pretendida aplicação da norma prevista no § 2º do art. 387 do Código de Processo Penal, é possível identificar que os fundamentos utilizados pelo Tribunal local não são idôneos, na medida em que simplesmente remetem para a execução penal a análise da detração, mediante a alegada necessidade de aferição do elemento subjetivo, próprio da progressão de regime, o que contraria o expresso comando normativo e a jurisprudência desta Corte.
+Entretanto, o cômputo da prisão provisória para efeito de fixar o regime inicial, conforme o comando do § 2º do art. 387 do CPP, demanda análise objetiva sobre a eventual redução da pena para patamar mais brando, dentre as balizas previstas no § 2º do art. 33 do Código Penal.
+6. No caso, a pena já se encontrava em patamar não superior a 4 anos de reclusão, sendo fixado o regime inicial fechado em virtude da reincidência e existência de circunstância judicial desfavorável, razão pela qual a efetiva detração de eventual pena cumprida de forma provisória seria irrelevante.
+7. Habeas corpus não conhecido.
+(HC 376.384/SP, minha relatoria, QUINTA TURMA, julgado em 09/03/2017, DJe 14/03/2017)
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do presente habeas corpus.
+Publique-se. Intime-se.
