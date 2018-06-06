@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de processo em que se discute a obrigatoriedade de o Poder Público fornecer medicamento/tratamento à luz do direito social à saúde (arts. 5º, 6º, 196 e 197 da Constituição Federal).
+    O recurso extraordinário não deve ser admitido. A jurisprudência do Supremo Tribunal Federal (STF), reafirmada no julgamento do RE 855.178-RG, Rel. Min. Luiz Fux, é firme no sentido de que constitui obrigação solidária dos entes federativos o dever de fornecimento gratuito de tratamentos e de medicamentos necessários à saúde de pessoas hipossuficientes. Diante disso, infere-se que qualquer ente da federação é parte legítima para figurar no polo passivo de ações voltadas a esse fim, independentemente de eventual inserção dos demais entes federativos como litisconsortes passivos da demanda. Veja-se a ementa do leading case (Tema 793):
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. DIREITO À SAÚDE. TRATAMENTO MÉDICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA.
+    O tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente.”
+    O STF entende não haver incompatibilidade entre a solidariedade para fornecimento de medicamentos de saúde pelos entes federativos e a descentralização dos serviços no âmbito do SUS. Essa questão foi discutida no julgamento da STA 175-AgR, caso em que o Relator Ministro Gilmar Mendes, em seu voto condutor, assim discorreu sobre o assunto:
+    “A competência comum dos entes da Federação para cuidar da saúde consta do art. 23, II, da Constituição. União, Estados, Distrito Federal e Municípios são responsáveis solidários pela saúde, tanto do indivíduo quanto da coletividade e, dessa forma, são legitimados passivos nas demandas cuja causa de pedir é a negativa, pelo SUS (seja pelo gestor municipal, estadual ou federal), de prestações na área de saúde.
+    O fato de o Sistema Único de Saúde ter descentralizado os serviços e conjugado os recursos financeiros dos entes da Federação, com o objetivo de aumentar a qualidade e o acesso aos serviços de saúde, apenas reforça a obrigação solidária e subsidiária entre eles.”
+    Ademais, observa-se que, para dissentir da conclusão do Tribunal de origem no sentido de que ficou comprovada a necessidade do internamento do paciente para procedimento essencial à manutenção da vida, seria necessário reexaminar os fatos e provas constantes dos autos, providência inviável de ser realizada neste momento processual (Súmula 279/STF). Nesse sentido, confira-se a ementa do ARE 850.973-AgR, Rel. Min. Dias Toffoli:
+    “Agravo regimental no recurso extraordinário. Direito Administrativo. Prequestionamento. Ausência. Direito à saúde. Dever do Estado. Tratamento médico-hospitalar. Necessidade. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF.
+    2. Incumbe ao Estado, em todas as suas esferas, prestar assistência à saúde da população, nos termos do art. 196 da Constituição Federal.
+    3. A verificação acerca da necessidade de tratamento médico-hospitalar em hospital particular em razão da inexistência de vaga imediata na rede pública, inevitavelmente, demanda o reexame do conjunto fático-probatório da causa, para o que não se presta o recurso extraordinário. Incidência da Súmula nº 279/STF.
+    4. Agravo regimental não provido.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 06 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
