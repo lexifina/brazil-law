@@ -1,0 +1,7 @@
+DECISÃO
+1. Trata-se de RECURSO EM HABEAS CORPUS interposto em favor de [NOME], indicando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, aduzindo-se, em apertada síntese, a existência de ilegalidade a ser sanada pela via do presente recurso, uma vez que a prisão preventiva imposta seria desproporcional e desarrazoada.
+2. De acordo com as informações prestadas pelo Juízo de 1º Grau , verifica-se que, em 30-3-2018, "foi prolatada sentença condenatória, em desfavor do paciente, pela prática do crime previsto no art. 157, §2º, incisos I e II, do Código Penal, sendo fixada a pena definitiva de 05 (cinco) anos, 07 (sete) meses e 06 (seis) dias de reclusão e 14 (quatorze) dias -multa, em regime SEMIABERTO, não sendo concedido o direito de apelar em liberdade" (e-STJ fl. 146).
+Na hipótese, resta prejudicado o presente recurso constitucional voltado a abordar a legalidade da prisão provisória aplicada a [NOME] [NOME] [NOME], visto que os fundamentos utilizados pelo Juízo singular são diferentes daqueles mencionados na decisão primeva, isto é, trata-se de decisão diversa da questionada na presente irresignação, sendo, portanto, novo título cuja legalidade ainda não foi examinada pelo Tribunal originário.
+3. Diante do exposto, com fundamento no art. 38 da Lei nº 8.038/90 e art. 34, inciso XI, do Regimento Interno deste Tribunal, julga-se prejudicado o writ, pela perda de seu objeto.
+Publique-se e intimem-se.
+Em seguida, arquivem-se os autos.
