@@ -1,0 +1,31 @@
+EMENTA
+PREVIDENCIÁRIO. RECURSO ESPECIAL. PENSÃO POR MORTE. FILHO QUE ATINGIU A MAIORIDADE MAIS DE 5 ANOS ANTES DO AJUIZAMENTO DA AÇÃO. PRESCRIÇÃO DAS PARCELAS ATRASADAS. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 295):
+"APELAÇÃO CÍVEL - DIREITO PREVIDENCIÁRIO - CONCESSÃO DE PENSÃO POR MORTE - FILHA QUE ATINGIU A MAIORIDADE MAIS DE 5 ANOS ANTES DA AÇÃO - PRESCRIÇÃO DAS PARCELAS ATRASADAS - SEGURADO ESPECIAL - COMPROVAÇÃO DE ATIVIDADE RURAL - PESCADOR PROFISSIONAL - VIÚVA - QUALIDADE DE DEPENDENTE - DIREITO AO BENEFÍCIO.
+I - Há que se reconhecer a prescrição quanto ao recebimento das parcelas atrasadas em relação à segunda autora, filha do segurado. Com efeito, apesar de ela contar com 14 anos, quando do óbito (24/04/2000), completou 18 anos em 26/06/2003 e 21 anos em 26/06/2006. Contudo, a presente ação somente foi proposta em agosto de 2013, mais de 10 anos depois da maioridade civil e mais de 5 anos da maioridade previdenciária.
+II - Os documentos colacionados aos autos constituem, sim, início de prova material, nos termos do que exige a legislação aplicável ao caso, que somados à prova testemunhal produzida, são aptos a comprovar o exercício de atividade rural (pescador profissional), e, por conseguinte, a qualidade de segurado especial do falecido.
+III - A condição de dependente da primeira autora, na qualidade de viúva, também foi comprovada. Logo, ela tem direito à pensão, nos termos da Lei nº 8.213/91.
+IV - Apelação parcialmente provida. Antecipação de tutela deferida."
+Embargos de declaração opostos pelo INSS e pelo autor não providos (fls. 329-325).
+A parte recorrente sustenta, além do dissenso pretoriano, ofensa aos artigos 79 c/c parte final do parágrafo único, 103, da Lei n. 8213/91, 3º e 198, I do Código Civil (Lei 10406/2002); artigo 4º o e 9º do Decreto n. 20.910/32, ao argumento de que a segunda recorrente era absolutamente incapaz à época do falecimento do instituidor da pensão, pois tinha 14 anos de idade, motivo pelo qual não corre a prescrição quanto às parcelas pretéritas.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fl. 468.
+É o relatório. Passo a decidir.
+Na origem, trata-se de ação em que se pleiteia benefício previdenciário de pensão por morte rural cumulada com danos morais, em face do Instituto Nacional do Seguro Social - INSS.
+Na Primeira instância o feito foi julgado improcedente, pronunciando a prescrição em relação ao pedido da 2ª autora ([NOME]), de receber quaisquer valores porventura devidos a título de pensão por morte de seu falecido pai ([NOME]). A Corte Regional, no julgamento do recurso de apelação reformou parcialmente a sentença, "de modo a julgar procedente o pedido, em relação à primeira autora, [NOME], e condenar o INSS a concedê-la pensão pela morte de seu marido, desde a data do requerimento administrativo (9/2/2012 - fl. 62), bem como a pagar-lhe as parcelas atrasadas, respeitadas a prescrição quinquenal." (fl. 294). Do julgado pelas instâncias de origem, depreende-se que, nos cinco anos seguintes à maioridade, a segunda autora ([NOME]) não ajuizou qualquer requerimento ou ação para reclamar o pagamento da pensão por morte que entende ser devida, ou seja, de 24/04/2000 (data do óbito) a 26/06/2003 (quando completou 18 anos ou a maioridade.
+Nesse contexto, sabido que o prazo prescricional previsto no inciso II do artigo 74 da Lei n. 8.213/91, não se aplica ao menor de idade a teor do artigo 198, inciso I, do Código Civil e artigos 79 e 103, parágrafo único, da Lei nº 8.213/91. Contudo, no caso dos autos, conforme extrai-se do bem lançado Parecer do Ministério Público Federal (fl. 485) "atingida a maioridade, a prescrição passa a correr naturalmente. Assim, prescrevem as prestações não reclamadas dentro do prazo de 5 anos, em virtude da inércia do beneficiário.". Nesse sentido:
+"PROCESSO CIVIL. PENSÃO POR MORTE. EMBARGOS DE DECLARAÇÃO COM EFEITOS INFRINGENTES ATÍPICOS, CORREÇÃO DE ERRO MATERIAL. POSSIBILIDADE. PRESCRIÇÃO QUINQUENAL DO DIREITO DE AÇÃO.
+PEDIDO ADMINISTRATIVO FORMULADO QUANDO JÁ OPERADA A PRESCRIÇÃO DO DIREITO DE AÇÃO. OCORRÊNCIA. MATÉRIA PACIFICADA NO STJ. AGRAVO INTERNO IMPROVIDO.
+I - Trata-se de ação em que busca o recorrente desconstituir acórdão que reconheceu a prescrição do fundo de direito, bem como que considerou possível conceder efeitos infringentes nos aclaratórios por evidenciar erro material em acórdão recorrido.
+(..)
+V - De outro modo, a prescrição atinge o próprio direito de ação, quando decorridos mais de 5 (cinco) anos entre a morte do instituidor da pensão, servidor público estadual, e o ajuizamento da ação em que se postula o reconhecimento do benefício da pensão por morte, o que ocorreu in casu.
+(..)
+VII - Agravo interno improvido." (AgInt no REsp 1614600/RS, Rel. Min. Francisco Falcão, Segunda Turma, Dje 6/3/2018).
+Ressalte-se que o STJ, no julgamento do REsp 1.405.909, firmou compreensão no sentido de que "A expressão "pensionista menor", de que trata o art. 79 da Lei n 8.213, de 1990, identifica uma situação que só desaparece aos dezoitos anos de idade, nos termos do art. 5º do Código Civil". Assim, no caso, o autor, ao completar 18 (dezoito) anos, em 26/06/2003, deveria ter exercido seu direito de ação dentro dos 5 (cinco) anos seguintes, o que não o fez, vindo a ajuizar a ação mais de 10 (dez) ano depois do implemento da maioridade (8/2013). Confira-se a Ementa do citado precedente:
+PREVIDÊNCIA SOCIAL. PENSIONISTA MENOR. INÍCIO DO BENEFÍCIO.
+ A expressão "pensionista menor", de que trata o art. 79 da Lei nº 8.213, de 1990, identifica uma situação que só desaparece aos dezoito anos de idade, nos termos do art. 5º do Código Civil.
+ Recurso especial provido para que o benefício seja pago a contar do óbito do instituidor. (REsp 1405909/AL, Rel. Min. Sérgio Kukina, Rel. p/ Acórdão Min. Ari Pargendler, Primeira Turma, DJe 09/09/2014)
+Em sendo assim, com o implemento dos 18 anos de idade, inicia-se a fluência do prazo quinquenal, quando, então, todas as parcelas não reclamadas há mais de 5 (cinco) anos contadas dos 18 (dezoito) anos é que se tornam inexigíveis.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se Intimem-se.
