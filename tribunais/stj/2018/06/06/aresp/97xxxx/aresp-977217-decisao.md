@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de São João da Boa Vista contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 877):
+JULGAMENTO CITRA PETITA. Causa que versou sobre a responsabilidade dos réus na morte do filho dos autores, atropelado por veículo em estrada vicinal, em perímetro urbano. Ação ajuizada contra o condutor do veículo e contra o município de São João da Boa Vista - Juiz a quo que apreciou apenas a conduta do motorista do veículo e não apreciou a conduta omissiva, específica, atribuída ao município, nem abordou a responsabilidade objetiva da Administração. SENTENÇA ANULADA, DE OFÍCIO, PREJUDICADO O EXAME DO RECURSO.
+Opostos embargos declaratórios, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 37, § 6º, da Constituição Federal; 128 e 131 do CPC/73.
+Sustenta que o acórdão recorrido incorreu em violação ao princípio do livre convencimento do juiz. Ademais, alega que "o artigo 128 do Código de Processo Civil foi ofendido, uma vez que ao julgar a causa reconhecendo a culpa exclusiva da vítima, caíram por terra todas as demais argumentações, cuja avaliação se tornaram desnecessárias uma vez que a primeira (culpa EXCLUSIVA da vítma, elidem as demais)" (fl. 898). Ademais, alega violação ao texto constitucional pelo reconhecimento da responsabilidade objetiva da administração pois, no presente caso, houve culpa exclusiva da vítima.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+O inconformismo não prospera.
+Em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa ao art. 37, § 6º, da Constituição Federal.
+Ademais, a matéria pertinente aos arts. 128 e 131 do CPC/73, não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios, nesse ponto, para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
