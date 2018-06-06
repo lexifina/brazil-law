@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] e [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (Apelação n. 1.0479.15.015483-5/001).
+Consta dos autos que os pacientes foram condenados, em primeiro grau de jurisdição, às pena de 13 anos, 1 mês e 15 dias de reclusão, em regime inicial fechado, e multa, pela prática do crime previsto no art. 157, § 2º, incisos I e II, do Código Penal, por seis vezes, sendo um na forma tentada e todos em concurso formal (e-STJ fls. 346/361).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi improvido, reduzindo-se, de ofício, a fração de aumento em virtude da incidência das majorantes, razão pela qual as penas dos pacientes foram redimensionadas para 12 anos e 10 meses de reclusão, mantidos os demais termos das condenações (e-STJ fls. 500/519). Segue a ementa do acórdão:
+ROUBOS QUALIFICADOS. PALAVRA FIRME E CONSISTENTE DAS VÍTIMAS. CONDENAÇÃO MANTIDA. ARMAS DE FOGO NÃO APREENDIDAS. DECOTE DA MAJORANTE. DESCABIMENTO. CONCURSO FORMAL. PATAMAR DE AUMENTO. CRITÉRIO MATEMÁTICO.
+Em crimes cometidos sem a presença de testemunhas, como é o caso do roubo, a palavra da vítima, desde que se apresente segura, coesa e seja condizente com as demais provas dos autos, pode render ensejo à condenação, mesmo que o agente negue a prática do delito.
+No crime de roubo, o maior poder intimidatório gerado pelo emprego de arma de fogo, ainda que não apreendida e periciada, com a conseqüente redução da capacidade de resistência da vitima, justifica a incidência da majorante do inc. I do §2º do art. 157 do Código Penal.
+Em se tratando de aumento de pena referente ao concurso formal, recomenda a jurisprudência pátria dos Tribunais Superiores aplicar-se a fração de 1/6 pela prática de duas infrações; 1/5 para três infrações; 1/4 para quatro infrações; 1/3 para cinco infrações; 1/2 para seis infrações e 2/3 para sete ou mais infrações.
+Os embargos de declaração opostos pela defesa foram rejeitados (e-STJ fls. 529/532).
+No presente mandamus (e-STJ fls. 1/8), a impetrante sustenta que os pacientes sofrem constrangimento ilegal, tendo em vista o desvalor dos antecedentes, na primeira fase da dosimetria, com base em processos em curso. Nesse contexto, entende ser hipótese de aplicação do entendimento consolidado na Súmula 444/STJ, reduzindo-se as penas-base dos pacientes.
+Ao final, liminarmente e no mérito, pede a redução das penas dos pacientes.
+O pedido liminar foi indeferido às e-STJ fls. 539/541 e, por estar suficientemente instruída a impetração, dispensou-se o envio de informações.
+Instado a se manifestar, o Ministério Público Federal, em parecer exarado às e-STJ fls. 546/551, opinou pelo não conhecimento do writ.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção dos pacientes.
+Busca-se, na presente impetração, a redução das penas-base impostas aos pacientes, ao argumento de que ações penais em curso não são idôneas à configuração de maus antecedentes.
+Reconheceu-se, nas instâncias ordinárias, a existência de condenação não apta a gerar reincidência em desfavor dos pacientes (fls. 191/192 em relação a [NOME] e fl.200 em relação a [NOME]), pelo que foi utilizada para a configuração dos maus antecedentes.
+Examinando a folha de antecedentes criminais dos acusados, vejo que, de fato, [NOME] possui uma condenação transitada em julgado anterior à condenação pelo crime ora em exame, a qual já se encontra em fase de execução (Ação Penal n. 0149215-12.2015.8.13.0479) e, por conseguinte, é perfeitamente apta à configuração dos maus antecedentes (e-STJ fl. 240).
+Em relação a [NOME], também lhe desfavorece a existência de uma condenação transitada em julgado pretérita à condenação pelo crime ora em exame (Ação penal n. 0028850-48.2015.8.13.0019), igualmente apta à configuração de maus antecedentes (e-STJ fl. 249).
+Assim, ao contrário do afirmado pelo impetrante, o desabono dos maus antecedentes não teve como base ações penais em curso, mas, sim, condenações definitivas transitadas em julgado, de modo que é de ser mantida a dosimetria da pena realizada em sede ordinária.
+Diante do exposto, com fundamento no artigo 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
