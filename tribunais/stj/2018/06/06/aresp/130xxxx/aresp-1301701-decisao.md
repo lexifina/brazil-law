@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Tibagi contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 227):
+APELAÇÃO CÍVEL. REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO. AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO MUNICIPAL. MOTORISTA. ADICIONAL DE INSALUBRIDADE. BASE DE CÁLCULO. VENCIMENTO BÁSICO (INTELIGÊNCIA DO ART. 137, DA LEI Nº 1.392/93). ALTERAÇÃO POSTERIOR PELA LEI MUNICIPAL Nº 2.387/2011. REMUNERAÇÃO ATRIBUÍDA AO NÍVEL I DA TABELA DE VENCIMENTOS. PRESCRIÇÃO AFASTADA. REQUERIMENTO ADMINISTRATIVO. SUSPENDE PRAZO. CONDENAÇÃO DO RÉU AO PAGAMENTO INTEGRAL DAS VERBAS DE SUCUMBÊNCIA.
+1. O exercício de trabalho em condições insalubres assegura a percepção de gratificação, que tem como base de cálculo o vencimento básico do servidor municipal, nos termos da redação original do art. 137, da Lei 01.392/93, posteriormente modificada pela Lei n2 2.387/2011, que estabeleceu como base a remuneração atribuída ao nível I da tabela de vencimentos.
+2. Na ausência de contraprova do fato alegado e, tampouco da resposta ao pedido administrativo, afasta-se a prescrição conforme reconhecida pela r. sentença, para estabelecer a data de 24 de março de 2009 para fins de suspensão da contagem do prazo prescricional quinquenal, e não a data do ajuizamento da ação de cobrança.
+3. Em decorrência da sucumbência, condena-se o Município de Tibagi/PR ao pagamento integral das custas processuais e dos honorários advocatícios.
+RECURSO 1 PROVIDO.
+RECURSO 2 NÃO PROVIDO.
+MANUTENÇÃO DA SENTENÇA EM REEXAME NECESSÁRIO, CONHECIDO DE OFÍCIO.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante aponta dissídio jurisprudencial e violação aos arts. 1º, 2º e 3º do Decreto 20.910/32 . Sustenta o ocorrência da prescrição, sob o argumento de que "não há que se falar que o requerimento administrativo suspendeu o prazo prescricional nos termos do artigo 4º, do Decreto 20.910/32, uma vez que, ao contrário do que ficou consignado no acórdão de fls. - O ENTENDIMENTO DO STJ É O DE QUE OCORRE A PRESCRIÇÃO DAS PARCELAS ANTERIORES AO QÜINQÜÊNIO QUE ANTECEDEU O AJUIZAMENTO DA AÇÃO SÚMULA, cf. SÚMULA 85/ STJ" (fl. 258).
+Assevera que, no caso, incide o art. 3º do Decreto 20.910/32, e não o art. 4º, pois a prescrição atinge o fundo de direito.
+É o relatório.
+A irresignação não comporta acolhida.
+Inicialmente, as matérias pertinentes aos arts. 2º e 3º do Decreto 20.910/32 não foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, o Tribunal de origem afastou a ocorrência da prescrição, com base nas seguintes razões (fls. 237/240):
+[NOME] pleiteia a reforma da sentença para afastar a prescrição, alegando que a interposição do pedido administrativo, em 24 de março de 2009, suspendeu a prescrição. Portanto, deve ser reconhecido o direito do autor desde 22 de outubro de 2007 (data da admissão) a 9 de dezembro de 2011 (data da publicação da Lei Municipal n2 2.387/2011.
+Com a razão o apelante.
+O prazo prescricional para ajuizamento de ações contra a Fazenda Pública, na ausência de legislação específica a regular a matéria, é o quinquenal, conforme previsão no art. 12, do Decreto 20.910/32:
+(..)
+Ocorre, porém, que o art. 4º do Decreto citado, preceitua:
+(..)
+No exame das provas, todavia, verifica-se do Ofício nº 31/2009, de 23 de março de 2009, que ocorreu requerimento administrativo, efetuado pelo Sindicato dos Servidores Públicos Municipais de Tibagi (PROJUDI 1.6). Consta do documento o Protocolo da Prefeitura Municipal de Tibagi, sob nº 242/09. Há um carimbo abaixo que está rasurado, com "nº 642/2012, e a data 13/06".
+Não há dúvida quanto o envio do recurso administrativo pelo Sindicato e o recebimento pelo Município de Tibagi/PR. A única desconfiança é sobre a data do efetivo recebimento. Nesse contexto, difícil acreditar que o recurso fora recebido pelo Município somente no ano de 2012, portanto, o protocolo de nº 242/09 é o que demonstra maior credibilidade.
+Como há dúvida somente em relação à data do recebimento, penso que a melhor solução é considerar a data de 24 de marco de 2009, conforme afirmado pelo autor e que não foi objeto de desconstituição específica pelo Município de Tibagi, no sentido de afastar a tese do apelante.
+Esta data, portanto, deve ser considerada para efeitos de suspensão do prazo prescricional do direito do autor.
+Assim, no caso de ausência de contraprova do fato alegado e, tampouco da resposta ao pedido administrativo, é o caso de modificação da r. sentença, para estabelecer a data de 24 de março de 2009 como termo de suspensão da contagem do prazo prescricional, e não a data em que a ação de cobrança fora ajuizada.
+Nesse sentido a fundamentação da Apelação Cível nº 1377095-5, de relataria do Desembargador Salvatore Antônio Astuti, julgada em 16 de fevereiro de 2016: "Extrai-se dos autos que a apelante pleiteia remunerações desde 24/03/2004, verbas estas que estariam prescritas a partir de 24/03/2009. Contudo, exatamente neste dia a apelante protocolou pedido administrativo, tratando do mesmo tema (fl. 17). Assim, a prescrição ficou suspensa desde então. E, tendo em vista que a apelante não obteve resposta com relação ao pleiteado administrativamente, o prazo quinquenal permanece suspenso".
+(..)
+Desse modo, afasta-se a prescrição do direito alegado pelo autor/apelante em relação ao período quinquenal anterior à 24/03/2009, já que o prazo prescricional estava suspenso, pelo requerimento administrativo do Sindicato.
+Destarte, o acórdão recorrido está em conformidade com a jurisprudência desta Corte, firme no sentido de que "a teor do disposto no art. 4º do Decreto 20.910/32, o curso do prazo prescricional aplicável às ações contra a Fazenda Pública é suspenso durante a pendência de requerimento administrativo, e somente torna a correr com a decisão final ou ato que põe fim ao processo administrativo" (AgRg no AREsp 419.690/ES, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 04/11/2015).
+Em reforço:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ABONO DE PERMANÊNCIA. ADICIONAL DE INSALUBRIDADE. GRATIFICAÇÃO DE TITULAÇÃO. ABONO DE FÉRIAS. REQUERIMENTO ADMINISTRATIVO. SUSPENSÃO DO LAPSO PRESCRICIONAL.
+1. Os recursos interpostos com fulcro no CPC/1973 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo n. 2 do Plenário do STJ.
+2. "A teor do disposto no art. 4º do Decreto 20.910/32, o curso do prazo prescricional aplicável às ações contra a Fazenda Pública é suspenso durante a pendência de requerimento administrativo, e somente torna a correr com a decisão final ou ato que põe fim ao processo administrativo" (AgRg no AREsp 419.690/ES, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 4/11/2015). Em igual sentido: AgRg no REsp 1.362.580/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 8/5/2017; AgInt no AgInt no AREsp 883.636/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 27/10/2016; AgRg no REsp 1.450.490/GO, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 9/10/2014.
+3. Agravo regimental não provido.
+(AgRg no AREsp 376.965/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/10/2017, DJe 20/10/2017)
+Ante o exposto, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
