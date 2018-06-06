@@ -1,0 +1,16 @@
+DECISÃO
+TRIBUTÁRIO. EMBARGOS DECLARATÓRIOS NO RECURSO ESPECIAL. CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. INDÉBITO TRIBUTÁRIO. APLICAÇÃO DA TAXA SELIC. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE MAJORAÇÃO. DESCABIMENTO VALOR FIXADO EM R$ 1 MIL (VALOR DA CAUSA R$ 1 MIL). EMBARGOS ACOLHIDOS PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL TÃO SOMENTE PARA INCIDIR A TAXA SELIC DESDE O RECOLHIMENTO INDEVIDO, RESPEITADA A PRESCRIÇÃO. MANTIDA A DECISÃO DE FLS. 849/851 QUANTO AO AGRAVANTE, O MUNICÍPIO DE DIVINÓPOLIS/MG.
+1. Trata-se de Embargos de Declaração opostos por SENGEL CONSTRUÇÕES LTDA., contra a decisão assim ementada:
+TRIBUTÁRIO. INCIDÊNCIA DO ISS SOBRE MATERIAIS EMPREGADOS NA CONSTRUÇÃO CIVIL. REPERCUSSÃO GERAL RECONHECIDA PELO STF (TEMA 247 - RE 603.497/MG). RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM PARA OBSERVÂNCIA DO DISPOSTO NO ART. 1.040 DO CPC/2015).
+2. Aduz a parte embargante que a questão tratada na repercussão geral já se encontra superada, restando agora somente a análise do Recurso Especial quanto a aplicação da SELIC desde o pagamento indevido, e não da citação; e a reforma da verba honorária.
+3. Impugnação não apresentada (fls. 862).
+4. É o relatório.
+5. De início, cumpre esclarecer que o art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; destinam-se a suprir omissão, esclarecer obscuridade ou eliminar contradição existente no julgado ou corrigir erro material.
+6. Com razão a embargante, pelo que, passo a analisar o Apelo Raro.
+7. O Tribunal de origem, ao analisar o índice a ser aplicado ao caso concreto, assim entendeu:
+Sobre restituição do quantum pago a maior, cujos valores serão apurados em sede de liquidação de sentença, incide juros de mora calculados pela taxa Selic, desde a data da citação (fls. 606).
+8. Na dicção da Súmula 523/STJ, a taxa de juros de mora incidente na repetição de indébito de tributos estaduais deve corresponder à utilizada para cobrança do tributo pago em atraso, sendo legítima a incidência da taxa Selic, em ambas as hipóteses, quando prevista na legislação local, vedada sua cumulação com quaisquer outros índices. Outrossim, após a edição da Lei 9.250/1995, passou a incidir a taxa SELIC desde o recolhimento indevido devendo o acórdão recorrido ser reformado quanto ao ponto.
+9. A orientação desta Corte Superior é de que a revisão dos honorários advocatícios fixados pelas instâncias ordinárias somente é admissível em situações excepcionais, quando o valor revelar-se manifestamente irrisório ou excessivo, por demandar, em tese, a averiguação e avaliação do contexto fático-probatório dos autos, o que atrai a incidência da Súmula 7/STJ.
+10. No caso, o Tribunal de origem, nos termos do art. 20, § 4o. do CPC, limitou os honorários advocatícios em R$ 1.000,00, não demonstrando a parte qualquer situação excepcional apta a afastar o óbice sumular, ainda mais se considerado o valor da causa de R$ 1.000,00.
+11. Ante o exposto, acolhem-se os Declaratórios, para dar parcial provimento ao Recurso Especial, tão somente para incidir a taxa SELIC desde o recolhimento indevido, respeitada a prescrição. Mantida a decisão de fls. 849/851 quanto ao Agravante, o Município de Divinópolis/MG.
+12. Publique-se. Intimações necessárias.
