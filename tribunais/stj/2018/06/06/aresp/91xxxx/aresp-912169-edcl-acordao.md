@@ -1,0 +1,65 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. EXISTÊNCIA DE ERRO MATERIAL. CORREÇÃO. QUANTO AO MÉRITO. PRETENSÃO DE APLICAÇÃO DE TESE DISTINTA. IMPOSSIBILIDADE.
+1. Merecem acolhida os embargos de declaração tão somente para correção de erro material.
+2. Não subsiste a alegação de ofensa ao art. 93, inciso IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+Embargos de declaração acolhidos em parte, sem efeitos infringentes.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, acolheu em parte os embargos de declaração, sem efeitos infringentes, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Herman Benjamin, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Francisco Falcão, Nancy Andrighi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, o Sr. Ministro Felix Fischer e a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de embargos de declaração opostos pela REZENDE E ISIDORO ADVOGADOS ASSOCIADOS - ME contra acórdão da Corte Especial, por meio do qual foi negado provimento ao agravo interno em recurso extraordinário da embargante nos termos da ementa (fl. 2754, e-STJ):
+"AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. NEGATIVA DA PRESTAÇÃO JURISDICIONAL E DO DEVER DE FUNDAMENTAR AS DECISÕES. NÃO OCORRÊNCIA. MALFERIMENTO DO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+1. Não subsiste a alegação de ofensa ao art. 93, inciso IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+2. A Corte Suprema, ao examinar o ARE/RG 748.371/MT, reconheceu que carece de repercussão geral o tema relativo à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, o que resulta, quanto a esses assuntos, no indeferimento liminar da insurgência (Tema 660/STF).
+Agravo interno improvido".
+O recurso extraordinário foi interposto contra acórdão da Terceira Turma desta Corte assim ementado (fl. 2.651, e-STJ):
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. ALEGAÇÃO DE DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. SIMILITUDE FÁTICA NÃO DEMONSTRADA. 2. RECURSO IMPROVIDO.
+1. Consoante asseverado no decisum agravado e ao contrário do afirmado pela agravante, não se extrai do apelo extremo o devido cotejo analítico, tampouco a demonstração da necessária similitude fática, o que, como cediço, inviabiliza, no ponto, o conhecimento do recurso especial aviado com fulcro na alínea c do permissivo constitucional.
+2. Agravo interno a que se nega provimento".
+Embargos de declaração foram rejeitados (fls. 2.674/2.679, e-STJ).
+Suscita a embargante omissão no acórdão da Corte Especial, ao alegar que o referido julgado também carece de fundamentação, quando não foram apreciados todos os argumentos por ela apresentados. Aduz que "não se trata de reanálise de matéria fático-probatória, mas sim de questão de direito colocada a frente desta Corte Superior, que recebe supedâneo na moderna jurisprudência não só desta Corte, como do C. Supremo Tribunal Federal" (fl. 2.771, e-STJ).
+Aponta, ainda, contradição no julgado embargado consistente na transcrição de excerto de julgado estranho à presente demanda.
+Não foram impugnados os presentes embargos (fls. 2.776, e-STJ).
+Pugna pelo acolhimento dos embargos de declaração.
+É, no essencial, o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. EXISTÊNCIA DE ERRO MATERIAL. CORREÇÃO. QUANTO AO MÉRITO. PRETENSÃO DE APLICAÇÃO DE TESE DISTINTA. IMPOSSIBILIDADE.
+1. Merecem acolhida os embargos de declaração tão somente para correção de erro material.
+2. Não subsiste a alegação de ofensa ao art. 93, inciso IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+Embargos de declaração acolhidos em parte, sem efeitos infringentes.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Merece a guarida em parte a pretensão da embargante.
+Com efeito, merecem acolhida os embargos de declaração para correção de erro material.
+Impõe-se a correção de erro material existente na fundamentação do acórdão embargado, da qual constou matéria diversa da debatida no presente feito.
+Assim, às fl. 2.761, e-STJ, acórdão do agravo interno ora embargado, onde se lê:
+"(..)
+No caso dos autos, o acórdão recorrido apresenta fundamentação suficiente para justificar as razões de não conhecimento do recurso especial da recorrente. É o que se depreende do seguinte excerto do voto condutor (fls. 515/516, e-STJ):
+"- Da existência de fundamento não impugnado A recorrente não impugnou o fundamento utilizado pelo TJ/SP de estar prelusa a discussão acerca da suspensão da execução decorrente do processamento da recuperação judicial. Como esse fundamento não foi impugnado, deve-se manter o acórdão recorrido. Aplica-se, no particular, a Súmula 283/STF.
+- Da divergência jurisprudencial A falta da similitude fática - requisito indispensável à demonstração da divergência - inviabiliza a análise do dissídio. No particular, o acórdão do TJ/SP registrou situação fática diversa dos precedentes invocados nas razões recursais, pois trata especificamente da ausência de aprovação do plano de recuperação judicial pela assembleia geral de credores e da inexistência de demonstração de que a dívida perseguida na execução foi incluída no plano de soerguimento".
+leia-se:
+"No caso dos autos, o acórdão recorrido apresenta fundamentação suficiente para justificar as razões de não conhecimento do recurso especial. É o que se depreende do seguinte excerto do voto condutor (fl. 2.653, e-STJ):
+"Como visto no relatório, tem-se que o presente agravo interno volta-se contra o fundamento adotado na decisão agravada no tocante ao recurso especial interposto com base em alegação de dissídio jurisprudencial.
+Todavia, consoante asseverado no decisum agravado e ao contrário do afirmado pela agravante, não se extrai do apelo extremo o devido cotejo analítico, tampouco a demonstração da necessária similitude fática, o que, como cediço, inviabiliza, no ponto, o conhecimento do recurso especial aviado com fulcro na alínea c do permissivo constitucional. De se ver que, na hipótese, deteve-se a agravante a transcrever o teor de ementas, sem, contudo, confrontar pontualmente o acórdão recorrido com aqueles tidos por paradigmas".
+No mais, não prospera as alegações da embargante.
+Nos termos do art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+Para a configuração dos vícios elencados no referido dispositivo legal, necessário que algum fundamento relevante para o julgamento da controvérsia não tenha sido objeto de apreciação pelo órgão julgador ou que a omissão, a contradição e a obscuridade suscetíveis de serem afastadas por meio de embargos declaratórios estejam contidas entre os próprios termos do dispositivo ou entre a fundamentação e a conclusão do acórdão embargado. Todavia, o embargante insurge-se tão somente contra fundamentação que não acolhe seus interesses.
+No caso dos autos, insurgiu-se a ora embargante contra a negativa de seguimento do recurso extraordinário, ao reiterar a alegação de negativa de prestação jurisdicional, em ofensa aos arts. arts. 1º, incisos III e IV, 5º, incisos XXXV, LIV e LV, e 93, IX, da Constituição da República, e ao defender o malferimento dos princípios do devido processo legal e do dever de motivação das decisões judiciais.
+Conforme consignado no acórdão embargado, quanto à alegada ofensa ao art. 93, inciso IX, da Constituição Federal por violação do dever de fundamentação no acórdão recorrido, a questão foi decidida pelo Supremo Tribunal Federal, no regime da repercussão geral, por ocasião do julgamento do AI-RG-QO n. 791.292/PE, relatado pelo Ministro Gilmar Mendes nos termos da seguinte ementa, in verbis:
+"Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LV do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral" (STF, AI 791.292 QO-RG, Rel. Ministro Gilmar Mendes, DJe de 13/8/2010 - Tema n. 339 da sistemática da repercussão geral.).
+Nos termos da jurisprudência firmada pelo Pretório Excelso, o atendimento ao comando normativo contido no inciso IX do art. 93 da Carta da República e ao art. 5º, inciso XXXV, da Lex Maxima exige que as decisões judiciais estejam alicerçadas, ainda que de maneira sucinta, em fundamentação apta à solução da controvérsia, embora a consecução de tal desiderato não imponha ao órgão julgador o exame minudente de todas as alegações veiculadas pelas partes.
+Assim, para efeito de análise de conformidade da decisão com o decidido sob o regime de repercussão geral, deve ser verificado se o aresto atacado possui motivação suficiente à solução da controvérsia ou se, à míngua da satisfação desse requisito, caracterizou-se a afronta ao princípio constitucional inscrito no inciso IX do art. 93 da Constituição Federal.
+Importante consignar que, nesta fase processual, a análise da questão constitucional ora em comento está adstrita à aferição da existência ou não de fundamentação suficiente para lastrear o acórdão recorrido. Por conseguinte, a verificação do acerto ou desacerto da motivação adotada no provimento judicial atacado extrapola os limites da cognição inerente ao juízo de admissibilidade exercido por esta Vice-Presidência.
+Na hipótese em análise, o acórdão recorrido apresentou fundamentação suficiente para justificar as razões de negativa de provimento ao agravo interno da recorrente. Logo, não subsiste a alegação de ofensa ao art. 93 da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+Outrossim, quanto à alegação de malferimento do princípio do devido processo legal, conforme também ficou assentado, a Corte Suprema, ao examinar o ARE/RG 748.371/MT, reconheceu que carece de repercussão geral o tema relativo à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, o que resulta, quanto a esses assuntos, no indeferimento liminar da insurgência (Tema 660/STF).
+Nessa linha de entendimento, os fundamentos do aresto atacado não são passíveis de revisão quanto a esse ponto pela Suprema Corte.
+Infere-se, pois, que pretende a embargante a análise do acerto ou desacerto da decisão de admissibilidade do recurso extraordinário. Ocorre que o recurso de embargos de declaração não tem a finalidade de confrontar julgados ou teses dissonantes e, por conseguinte, dirimir eventual divergência acerca da matéria em exame.
+Nesse sentido: EDcl no AgRg no RE no AgRg no REsp 1.363.698/SP, Rel. Ministra Laurita Vaz, Corte Especial, julgado em 15/6/2016, DJe 3/8/2016; EDcl no AgRg no RE no AgRg no AREsp 11.972/RJ, Rel. Ministra Laurita Vaz, Corte Especial, julgado em 1º/6/2016, DJe 28/6/2016.
+Ante o exposto, acolho os embargos de declaração em parte tão somente para correção de erro material.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
