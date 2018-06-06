@@ -1,0 +1,93 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/73). RESPONSABILIDADE CIVIL. PROPRIEDADE INTELECTUAL. DIREITO AUTORAL. INDENIZAÇÃO POR DANO MORAL. REPRODUÇÃO DE OBRA MUSICAL. DEFICIENTE FUNDAMENTAÇÃO. INCIDÊNCIA DO ENUNCIADO N.º 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRADA.
+1. Incide o Enunciado n.º 284/STF, por deficiência na fundamentação, quando o recorrente não apresenta, com clareza e objetividade, quais razões amparam a insurgência, limitando-se a tecer alegações genéricas.
+2. Não demonstrada a divergência pretoriana conforme preconizado nos arts. 541, parágrafo único, do CPC, e 255, § 1º, a, e § 2º, do RISTJ, deixa-se de conhecer o recurso especial.
+3. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (fls. 437/439):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. PROPRIEDADE INTELECTUAL. DIREITO AUTORAL. INDENIZAÇÃO POR DANO MORAL. REPRODUÇÃO DE OBRA MUSICAL. TOQUES MUSICAIS. "RINGTONES". DISPONIBILIZAÇÃO DA OBRA NA INTERNET. FRACIONAMENTO DA OBRA. INERENTE À MODALIDADE DE REPRODUÇÃO. AUSÊNCIA DE IDENTIFICAÇÃO DA AUTORIA DA OBRA. AÇÃO AJUIZADA POR CO-AUTOR JÁ JULGADA, RECONHECIDO O DEVER DE INDENIZAR DA MESMA RÉ. AÇÃO AJUIZADA PELO OUTRO AUTOR DA OBRA APÓS JULGAMENTO DAQUELA AÇÃO. INDENIZAÇÃO ANTERIOR QUE DEVE SER SATISFATIVA À VIOLAÇÃO DOS DIREITOS AUTORAIS, INDEPENDENTEMENTE DO NÚMERO DE AUTORES DA OBRA. AUSÊNCIA DE INTERESSE PROCESSUAL. EXTINÇÃO DA AÇÃO EX OFFICIO.
+1) Trata-se de examinar apelações interpostas em razão da sentença de parcial procedência proferida nos autos da presente ação de indenização por dano moral decorrente de violação de direito autoral em obra musical. No caso, disponibilização na internet de trecho de música do autor como ringtone sem informação de sua autoria.
+2) A ação proposta por um dos autores foi ajuizada em 12 de dezembro de 2008 e tramitou perante a 3a Vara Cível do Foro Central e foi julgada em 30 de novembro de 2009. A presente ação proposta também pelo co-autor da obra musical foi ajuizada quase seis meses depois daquele julgamento, em 08 de abril de 2010, sendo distribuída para a 6a Vara Cível do mesmo Juízo. Não há na petição inicial desta ação referência alguma acerca do ajuizamento ou julgamento da ação anterior. As iniciais de ambas as ações são praticamente idênticas. A parte ré é a mesma. A obra musical é a mesma. Os fatos e fundamentos são os mesmos. O procurador é o mesmo. Assim, não pode ser outra a conclusão senão a de que a parte autora deveria, por obviedade e obrigatoriedade, por força de litisconsórcio ativo necessário, ter feito parte do pólo ativo daquela ação. Independentemente das razões recursais exibidas pelas partes, entendo que a questão posta acima é prejudicial a seus enfrentamentos. É que a condenação estabelecida no primeiro processo deveria reparar o abalo sofrido pela violação de direito de autoria da obra, pouco importando o número de autores. Não concordo com a possibilidade de desdobramentos de ações principalmente após os julgamentos. A crise verificada entre as partes deve ser solvida na mesma e única oportunidade possível, não podendo, salvo determinação judicial ou impossibilidade de prestação jurisdicional, ser desdobrado direitos de autores que fazem parte da mesma relação contratual, no caso, intelectual. Que não se permita qualquer comparação com situações análogas envolvendo vários autores que, desconectados em suas idéias e ações, são afetados pelo mesmo ato-fato ou ato jurídico. Concluindo o fundamento, já realizada a reparação pela violação dos direitos autorais naquela ação, entendo que o autor carece de interesse no resultado útil da ação, não podendo a suplicada indenizar em duplicidade dano decorrente da mesma prática ilícita. Assim, com a extinção da ação a partir do reconhecimento de ofício da falta da condição da ação, resta prejudicada a análise dos fundamentos recursais. Com a extinção da ação, extinta está a reconvenção.
+3) Sucumbência invertida. PREJUDICADO O EXAME DAS APELAÇÕES.
+Consta dos autos que [NOME] ajuizou ação ordinária em desfavor de TELET S.A, objetivando a condenação da requerida ao pagamento de indenização por dano moral em razão da utilização indevida de obra musical.
+A demandada apresentou contestação e denunciou à lide a empresa SUPPORTCOMM S.A.
+O juízo de primeiro grau julgou parcialmente procedente o pedido inicial para condenar a requerida ao pagamento de indenização fixada em R$ 10.000,00 (dez mil reais), atualizada pelo IGPM a partir da sentença e juros legais contados da citação. Diante da sucumbência recíproca, condenou as partes ao pagamento das despesas processuais na proporção de 50% (cinquenta por cento) para cada uma, bem como aos honorários advocatícios da parte adversa em 10% (dez por cento) sobre o valor da condenação, reciprocamente compensados. Por fim, em razão da improcedência do pedido inicial na parte em que a denunciada poderia ser responsabilizada regressivamente - modificações melódicas e ofensa à integridade da obra - julgou prejudicada a apreciação da denunciação da lide.
+Irresignadas, as parte litigantes interpuseram recurso de apelação.
+O Tribunal de Justiça do Estado do Rio Grande do Sul, à unanimidade, extinguiu a ação ordinária, de ofício, julgando prejudicadas as apelações conforme a ementa acima transcrita.
+[NOME] opôs embargos declaratórios, os quais restaram acolhidos sem efeitos infringentes nos seguintes termos (fl. 340):
+EMBARGOS DE DECLARAÇÃO. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. ALEGAÇÃO DE OMISSÃO QUANTO À POSSIBILIDADE DE EXERCÍCIO INDIVIDUAL DO DIREITO DE CO-OBRA MUSICAL REALIZADA EM CO-AUTORIA. ACOLHIMENTO SEM EFEITOS INFRINGENTES.
+1) Trata-se de embargos de declaração opostos pela parte autora em face do acórdão que julgou prejudicado o exame das apelações interposta contra a sentença de parcial procedência dos pedidos formulados em ação de indenização por dano moral.
+2) O acolhimento dos embargos declaratórios só encontra respaldo nos pressupostos insculpidos no art. 535 do CPC.
+3) Não obstante a omissão apontada, a pretensão recursal não merece prosperar, pois, de acordo com o art. 23 da Lei n. 9.610/98, os co-autores exercerão conjuntamente o seu direito, salvo convenção em contrário. Denota-se da ressalva feita pela Lei que o exercício individual dos direitos decorrentes da co-titularidade da obra depende de previsão contratual expressa, circunstância inocorrente no caso em análise.
+4) Embargos declaratórios acolhidos para fins de suprimir a omissão, mantendo hígida a decisão embargada.
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+Opostos novos aclaratórios, estes restaram rejeitados conforme a seguinte ementa (fl. 353):
+EMBARGOS DE DECLARAÇÃO. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. DESACOLHIMENTO.
+1) Trata-se de embargos de declaração opostos pela parte autora em face do acórdão que acolheu os embargos de declaração.
+2) O acolhimento dos embargos declaratórios só encontra respaldo nos pressupostos insculpidos no art. 535 do CPC.
+3) In casu, embora alegando omissão em relação à aplicação da norma contida no art. 32, § 3º da Lei nº 9.610/98, almeja a parte embargante, visivelmente, o reexame da matéria debatida e decidida no acórdão, providência descabida em embargos de declaração.
+4) Ausência de quaisquer das hipóteses autorizadoras da espécie recursal.
+EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+Em suas razões recursais, o recorrente alegou violação aos arts. 23; 24, incisos II e IV e 32, § 3º, da Lei n.º 9.610/98 e ao art. 267, inciso VI, do Código de Processo Civil/73, ao argumento de que indevida a extinção do processo, posto que flagrante a violação aos seus direitos autorais. Acenou pela ocorrência de dissídio jurisprudencial. Requereu, por fim, o provimento do recurso especial.
+Houve apresentação de contrarrazões às fls. 423/435 e 437/444.
+É o breve relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (cf. Enunciado Administrativo n.º 2/STJ).
+No que tange à alínea "a" do permissivo constitucional.
+Na hipótese dos autos, o Tribunal de Justiça do Estado do Rio Grande do Sul, ao julgar o recurso de apelação interposto pelo ora recorrente, decretou de ofício a extinção da ação por falta de condições ação nos seguintes termos (fls. 328/330):
+(..)
+De plano, como diz o paisano, importa registrar que a questão relacionada à ilicitude da ré restou exaustivamente discutida nos autos da ação 001/1.08.0350124-6, onde o também autor da obra BEIRA DA ESTRADA, [NOME], teve direito à indenização reconhecido pelos mesmos fatos e fundamentos agora repetidos nesta ação pelo, por que não assim dizer, co-autor.
+Em recente julgamento plenário, foi confirmado na apelação n8 [CPF] o dever de reparação àquele co-autor.
+A ação proposta por [NOME] foi ajuizada em 12 de dezembro de 2008 e tramitou perante a 3a Vara Cível do Foro Central e foi julgada em 30 de novembro de 2009.
+A presente ação proposta também pelo co-autor da obra musical foi ajuizada quase seis meses depois daquele julgamento, em 08 de abril de 2010, sendo distribuída para a 6â Vara Cível do mesmo Juízo.
+Não há na petição inicial desta ação referência alguma acerca do ajuizamento ou julgamento da ação anterior.
+As iniciais de ambas as ações são praticamente idênticas. A parte ré é a mesma. A obra musical é a mesma. Os fatos e fundamentos são os mesmos. O procurador é o mesmo.
+Assim, não pode ser outra a conclusão senão a de que a parte autora deveria, por obviedade e obrigatoriedade, por força de litisconsórcio ativo necessário, ter feito parte do pólo ativo daquela ação.
+Mas a circunstância "passou batida", como se diz no linguajar popular.
+Independentemente das razões recursais exibidas pelas partes, entendo que a questão posta acima é prejudicial a seus enfrentamentos.
+É que a condenação estabelecida no primeiro processo deveria reparar o abalo sofrido pela violação de direito de autoria da obra, pouco importando o número de autores.
+Não concordo com a possibilidade de desdobramentos de ações principalmente após os julgamentos.
+A crise verificada entre as partes deve ser solvida na mesma e única oportunidade possível, não podendo, salvo determinação judicial ou impossibilidade de prestação jurisdicional, ser desdobrado direitos de autores que fazem parte da mesma relação contratual, no caso, intelectual.
+Que não se permita qualquer comparação com situações análogas envolvendo vários autores que, desconectados em suas idéias e ações, são afetados pelo mesmo ato-fato ou ato jurídico.
+Concluindo o fundamento, já realizada a reparação pela violação dos direitos autorais naquela ação, entendo que o autor carece de interesse no resultado útil da ação, não podendo a suplicada indenizar em duplicidade dano decorrente da mesma prática ilícita.
+Assim, com a extinção da ação a partir do reconhecimento de ofício da falta da condição da ação, resta prejudicada a análise dos fundamentos recursais. (grifou-se)
+Em sede de embargos declaratórios, o Tribunal de Justiça a quo destacou o seguinte (fls. 344/345):
+(..)
+A questão trazida à baila no presente recurso foi objeto de debate na sessão de julgamento, contudo, não constou da fundamentação do voto deste Relator.
+Em virtude disso, impõe-se sanar a omissão, esclarecendo que, conforme adiantado na declaração do eminente Revisor, de acordo com o art. 23 da Lei n. 9.610/98, os co-autores exercerão conjuntamente o seu direito, salvo convenção em contrário.
+Denota-se da ressalva feita pela Lei que o exercício individual dos direitos decorrentes da co-titularidade da obra depende de previsão contratual expressa, circunstância inocorrente no caso em análise.
+Revisando-se a inicial e os documentos que a acompanham, não se encontra referência alguma acerca da existência de contrato ou de termo que tenha revelado o interesse dos autores na divisibilidade da autoria, inclusive para fins de ajuizamento de ação judicial. (grifou-se)
+No entanto, da leitura das razões do presente recurso especial, verifica-se a ausência de articulação de argumentos jurídicos a embasar o arrazoado, atraindo a incidência, por analogia, do Enunciado n.º 284/STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+4. No caso dos autos, o acolhimento da tese defendida pelo agravante, de que demonstrou o pagamento do débito que teria originado a nota promissória, demandaria análise de matéria de fato.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp 181.287/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/05/2018, DJe 23/05/2018)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS E INDENIZAÇÃO POR DANOS MATERIAIS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DANOS MORAIS. PEDIDO DE REDUÇÃO. REVISÃO QUE SE ADMITE TÃO SOMENTE NOS CASOS EM QUE O VALOR SE APRESENTAR IRRISÓRIO OU EXORBITANTE. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+6. A análise da divergência jurisprudencial atinente a danos morais mostra-se incabível, porquanto, no aspecto subjetivo, os acórdãos serão sempre distintos.
+7. Agravo não provido. (AgInt no AREsp 1242832/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/05/2018, DJe 18/05/2018)
+Em relação à alínea "c" do permissivo constitucional.
+Ao interpor o recurso especial, com fundamento na letra "c" do permissivo constitucional, o recorrente assume o ônus de comprovar a similitude fática entre os arestos confrontados, cotejando as conclusões jurídicas tiradas dos julgados comparados para demonstrar que, diante do mesmo quadro fático, soluções jurídicas diversas foram adotas.
+Dessa forma, na esteira dos precedentes do Superior Tribunal de Justiça, a mera transcrição de ementas de acórdão, como realizado pelo recorrente, não caracteriza o cotejo analítico, inviabilizando-se, por conseqüência, a abertura da via especial, pelo dissídio jurisprudencial.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts.
+489, §1º e 1022 do CPC/15.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+5. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente. 6. Agravo interno no agravo em recurso especial não provido. (AgInt no AREsp 1169385/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/05/2018, DJe 25/05/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. HONORÁRIOS ADVOCATÍCIOS. MINORAÇÃO. SÚMULA 7. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO DESPROVIDO.
+1. Quanto à alegada divergência jurisprudencial, é preciso registrar que a fixação de honorários advocatícios é providência peculiar de caso concreto, de forma que o julgamento de um caso sob determinado contexto não pode ser tomado como regra para o julgamento de outros casos em contextos diferentes, sobretudo porque o revolvimento de tais contextos, seja para mais, seja para menos, é inviável no recurso especial, à luz da Súmula 7 do STJ.
+2. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico, que evidencie a similitude fática entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial. 3. Agravo interno não provido. (AgInt no AREsp 1182905/PR, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/05/2018, DJe 23/05/2018)
+Ante o exposto, com base no art. 932, incisos III e IV, do CPC/15 c.c. o Enunciado n.º 568/STJ, não conheço do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n.º 3/STJ).
+Intimem-se.
