@@ -1,0 +1,24 @@
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DE VALOR QUE ENCONTRA OBSTÁCULO NA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+THARMON MONTAGENS INDUSTRIAIS LTDA. EPP (MONTADORA) ajuizou ação de cobrança em desfavor de COROL AGROENERGIA USINA DE AÇ UCAR E ÁLCOOL LTDA. (USINA), que foi julgada parcialmente procedente (e-STJ, fls. 133/137).
+Irresignada, MONTADORA interpôs apelação, que foi provida pelo Tribunal de origem em acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - FIXAÇÃO DOS HONORÁRIOS DO ADVOGADO PELO PERCENTUAL ESTABELECIDO NO §3º DO ARTIGO 20 DO CPC - INAPLICABILIDADE DO §4º DO ARTIGO 20 DO CPC POR SER DEMANDA CONDENATÓRIA - MAJORAÇÃO - SENTENÇA MODIFICADA - RECURSO PROVIDO.(e-STJ, fl. 173).
+Os embargos de declaração opostos por USINA foram rejeitados (e-STJ, fls. 203/206).
+Inconformada, USINA interpôs recurso especial com fundamento nas alíneas a do permissivo constitucional, apontando a violação do art. 20 do CPC/73 e do art. 22 da Lei 8.906/94, por considerar que o valor dos honorários advocatícios arbitrados pelo juízo de primeiro grau, correspondente a R$ 1.400,00 (mil e quatrocentos reais), deveria ser restabelecido, reduzindo-se o patamar de 10% do valor da condenação, tendo em vista que este montante extrapola a proporcionalidade e a equidade, tendo em conta a singeleza da ação, onde não foram produzidas outras provas além da documental, e não ser a matéria em discussão de grande complexidade, bem como diante da circunstância de que os procuradores do recorrido não necessitaram se deslocar até a Comarca, uma vez não ter havido audiência de conciliação e instrução.
+Em juízo de admissibilidade, a Primeira Vice-Presidência do Tribunal estadual admitiu o apelo nobre (e-STJ, fls. 229/230).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A parte recorrente sustentou a violação do art. 20 do CPC/73 e do art. 22 da Lei 8.906/94, por considerar que o valor dos honorários advocatícios arbitrados pelo juízo de primeiro grau, correspondente a R$ 1.400,00 (mil e quatrocentos reais), deveria ser restabelecido, reduzindo-se o patamar de 10% do valor da condenação, tendo em vista que este montante extrapola a proporcionalidade e a equidade, tendo em conta a singeleza da ação, onde não foram produzidas outras provas além da documental, e não ser a matéria em discussão de grande complexidade, bem como diante da circunstância de que os procuradores do recorrido não necessitaram se deslocar até a Comarca, uma vez não ter havido audiência de conciliação e instrução.
+No que se refere à revisão de valores fixados a título de honorários advocatícios, a jurisprudência desta Corte é firme no sentido de que a pretendida modificação implica o revolvimento de matéria fático-probatória, além das peculiaridades do caso concreto, salvo quando os honorários se revelem irrisórios ou exorbitantes, por se distanciarem dos critérios legais e dos padrões da razoabilidade, passando a questão a ser de direito.
+No caso, o Tribunal a quo se valeu dos seguintes fundamentos para arbitrar o patamar dos honorários advocatícios:
+Com efeito, analisando a importância da causa, o grau de zelo do profissional, a natureza da causa e o trabalho exigido ao processo, sem aporte de variedade de atos, tenho como correto e adequado que os honorários sejam fixados em valor correspondente a 10% (dez por cento) do valor da condenação, por conceber quantia que bem recompensa o trabalho realizado pelos advogados, em se tratando de demanda de pouca complexidade.
+Desta feita, proponho a fixação da verba honorária de acordo com o §3º do artigo 20 do CPC no percentual de 10% (dez por cento) do valor da condenação, majorando-a. (e-STJ, fl. 176)
+Desta feita, tendo em conta as circunstâncias da demanda, não se mostra excessivo o patamar dos honorários advocatícios arbitrado pela Corte a quo a ponto de merecer a revisão por esta Corte Superior.
+É o caso, portanto, de incidir a Súmula nº 7 do STJ.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios sucumbenciais fixados em desfavor da USINA, nos termos do art. 85, §§ 2º e 11 do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
