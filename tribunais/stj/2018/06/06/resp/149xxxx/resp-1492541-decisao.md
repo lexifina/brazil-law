@@ -1,0 +1,49 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. EMBARGOS À EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ARGUMENTO NÃO ENFRENTADO. VIOLAÇÃO DO ART. 535 DO CPC/73. CONFIGURAÇÃO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Consta dos autos que INDÚSTRIA E COMÉRCIO DE CEREAIS GUABIRUBENSE LTDA E OUTROS (INDÚSTRIA E OUTROS) propuseram embargos à execução que lhe move COMPANHIA NACIONAL DE ABASTECIMENTO - CONAB (CONAB), objetivando o reconhecimento da prescrição da execução, a inexigibilidade do título e o excesso de execução, julgada improcedente (e-STJ, fls. 35/39).
+O tribunal de origem negou provimento ao apelo de INDÚSTRIA E OUTROS em acórdão assim ementado:
+EMBARGOS À EXECUÇÃO E PROCESSO CIVIL. PRESCRIÇÃO. INOCORRÊNCIA. SOLIDARIEDADE NA OBRIGAÇÃO. CITAÇÃO DE UM DEVEDOR APENAS. POSSIBILIDADE.
+- A prescrição trimestral argüida pelas embargantes, encontra previsão legal no Decreto 1105 de 1903, anterior, portanto, à codificação. Contudo, a entrada em vigor do Código Civil de 1916 revogou expressamente os decretos referentes à matéria de direito civil reguladas no novo codex, consoante dispõe o art.1807. Desse modo, aplicável ao caso a prescrição vintenária, prevista no art. 177 do CC/16.
+- Havendo solidariedade entre as partes condenadas, não há falar em extinção do processo devido à ausência de citação de uma delas. Conforme bem explicitado na decisão de primeira instância "se a responsabilidade era solidária, bastaria que um dos sócios fosse citado para responder pela integralidade da dívida, subsidiariamente, em relação à empresa, também citada (fl. 39)".
+- A decisão que fixou o valor de mercado como critério de cálculo não foi objeto de apelação nesse tocante pelas oras embargantes, já tendo transitado em julgado. Além disso, caberia ao depositário o ônus de comprovar que os valores de mercado apresentados pelo depositante estavam errados, juntando, para tanto, comprovantes de preços de outras empresas. Estabelece o art.333, inc.II do CPC que incumbe ao réu a prova quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor (e-STJ fl. 45).
+Os Embargos de declaração opostos por INDÚSTRIA E OUTROS foram rejeitados (e-STJ, fls. 47/54).
+Irresignadas, INDÚSTRIA E OUTROS interpuseram recurso especial, que foi provido pela e. Ministra NANCY ANDRIGHI para determinar a remessa dos autos ao TRF da 4ª Região para que se faça a contagem do prazo prescricional (e-STJ, fls. 55/59).
+Retornando os autos ao Tribunal Regional Federal da 4ª Região, os Embargos de declaração foram acolhidos para sanar omissão existente (e-STJ, fls. 60/67).
+O segundo recurso especial interposto por INDÚSTRIA E OUTROS foram providos para determinar a remessa dos autos ao Tribunal Regional Federal da 4ª Região, a fim de que este se pronuncie, na esteira do devido processo legal, a respeito da desnecessidade de liquidação de sentença na presente hipótese, o que manteria a fluência do prazo prescricional (e-STJ, fls. 73/76).
+Os Embargos de declaração opostos por INDÚSTRIA E OUTROS foram acolhidos para sanar omissão relativa ao argumento de violação não só dos arts. 471, 603 e 604 do CPC/73 atinente à autoridade da coisa julgada (e-STJ, fls. 81/82).
+Retornando os autos, o Tribunal de origem deu provimento aos Embargos de declaração de INDÚSTRIA E OUTROS para prover a apelação, nos termos do acórdão que ficou assim ementado:
+EMBARGOS À EXECUÇÃO. PROCESSO CIVIL. PRESCRIÇÃO. ARMAZÉNS GERAIS. DECRETO N.º 1.102/1903. REAPRECIAÇÃO DE EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. ARTIGO 543-C DO CPC.
+1. De acordo com o entendimento do Superior Tribunal de Justiça (artigo 543-C do CPC), o Código Civil não instituiu regras específicas para empresas de armazéns gerais. Tratou somente, genericamente, sobre contrato de depósito. Dessa forma, não há como reconhecer a revogação do Decreto n.º 1.102/1903, que regulou especificamente a matéria (prazo prescricional trimestral).
+2. Na hipótese concreta, o mandado de intimação dos devedores para cumprimento voluntário da sentença (em 24h) fora juntado ao processo em 15 de abril de 2003, sendo certo que a executiva somente foi ajuizada em 27 de janeiro de 2004 - ou seja, após o decurso do prazo prescricional delimitado no destacado diploma legal.
+3. Embargos, de declaração providos. Modificação do julgamento da apelação. Execução extinta. Inversão dos ônus sucumbenciais (e-STJ, fl. 189)
+Em sede de cumprimento de sentença, [NOME] [NOME] ADVOGADOS ASSOCIADOS S/C ([NOME] E [NOME]) contra a CONAB, o juízo de piso indeferiu o pedido de fixação de honorários advocatícios, decisão contra a qual foi interposto agravo de instrumento.
+O tribunal de origem negou provimento ao agravo de instrumento interposto por [NOME] em acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. INVIABILIDADE.
+1. A incidência de honorários advocatícios, em sede de cumprimento de sentença, somente se justifica quando impugnado o pedido para cumprimento do título executivo judicial.
+2. Hipótese em que, concordando a parte com os cálculos apresentados, não há lide, e, portanto, parte vencida, pressuposto necessário para concluir pela sucumbência e justificar a condenação ao pagamento de honorários advocatícios (e-STJ, fl. 361).
+Retornando os autos para novo julgamento, consoante a sistemática prevista no art. 543-C, § 7º, II, do CPC/73, em juízo de retratação, o Tribunal Regional Federal da 4ª Região deu provimento ao agravo de instrumento interposto por [NOME] estando o acórdão assim ementado:
+PROCESSUAL CIVIL. JUÍZO DE RETRATAÇÃO. ART. 543-C, §7º, II, DO CPC. REPERCUSSÃO GERAL. RECURSO REPETITIVO - RESP 1134186/SC. CUMPRIMENTO DE SENTENÇA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. Fundando-se a decisão colegiada em posição superada por nova assentada do Plenário daquele Sodalício, cujo acórdão transitou em julgado, impõe-se adotar a nova exegese, a fim de que não seja retardada a entrega da prestação jurisdicional.
+2. Tendo em vista o entendimento do Colendo STJ firmado no REsp 1134186/SC, versando sobre assunto representativo da controvérsia, é possível a fixação de honorários advocatícios em cumprimento de sentença, impugnada ou não, após finalizado o prazo para o pagamento voluntário a que alude o art. 475-J do CPC/73 (e-STJ, fl. 468).
+Os embargos de declaração opostos pela CONAB argumentam que o acórdão é obscuro e omisso, por não esclarecer qual o critério utilizado para o estabelecimento dos honorários advocatícios - o parágrafo 3º ou 4º do artigo 20 do CPC/73 -, além de ter deixado de especificar os critérios que foram considerados para determinar o montante adequado dos referidos aos honorários. Foram parcialmente providos para prequestionar os arts. 20, §§ 3º e 4º, 458, II, e 525, I, II do CPC/73 (e-STJ, fls. 486/490).
+No recurso especial, interposto com fundamento no art. 105, III, a e c, da CF, a CONAB aponta, além de divergência jurisprudencial, violação dos arts. 20, §§ 3º e 4º, 458 e 535 do CPC/73, sob o argumento de que: 1) houve negativa de prestação jurisdicional, pois o tribunal de origem não se manifestou acerca do alegado nos embargos de declaração; e 2) o percentual arbitrado a título de verba honorária deveria atender ao critério de equidade.
+As contrarrazões foram apresentadas (e-STJ, fls. 543/551).
+O recurso especial não foi admitido (e-STJ, fls. 554/556), tendo seguimento pro força de agravo provido (e-STJ, fl. 584).
+É o relatório.
+DECIDO.
+Não merece prosperar a presente irresignação.
+De plano, vale pontuar que as disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+O Tribunal de origem, ao analisar os embargos de declaração, foi omisso em relação aos argumentos trazidos nos embargos de declaração.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado. Assim, recusando-se a Corte de origem a se manifestar sobre a questão federal terminou por negar prestação jurisdicional à Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a analise das demais questões.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Por derradeiro, advirta-se que eventual recurso interposto contra este acórdão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º) e honorários recursais (art. 85, § 11).
+Publique-se. Intimem-se.
