@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por EDULA MARIA DE SOUZA LEANDRO contra v. acórdão do eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. CONTRATO ANTECIPAÇÃO DE TUTELA DEFERIDA NA ORIGEM. INSURGÊNCIA DO BANCO.
+PRELIMINAR. DIREITO TEMPORAL. DECISÃO PROFERIDA SOB À ÉGIDE DA LEI 5.869/73. ANÁLISE RECURSAL NA ÓTICA DESTA LEI. EXEGESE DO ARTIGO 14 DA LEI 13.105/2015. TEORIA DO ISOLAMENTO DOS ATOS PROCESSUAIS.
+"O art. 14 do Novo Código de Processo Civil deixa evidente que a intenção do legislador foi a de adoção da teoria de isolamento dos atos processuais, em que cada ato é identificado de forma clara e individualizada, de modo que a aplicação da nova lei (no caso, do NCPC) somente se dará após o término do ato processual anterior. Em resumo, significa dizer que, tanto os atos e fatos já consumados na vigência da lei antiga, quanto aqueles cujos efeitos estão pendentes, devem ser respeitados, ainda que a lei nova preveja situação diferente.  .. " (TJSC, Apelação Cível n. 2013.024806-4, de Curitibanos, rel. Des. Francisco Oliveira Neto, j. 29-03-2016).
+MÉRITO. FIXAÇÃO DE ASTREINTES PARA O CUMPRIMENTO DE OBRIGAÇÃO DE FAZER. LEGALIDADE. AMPARO NOS PARÁGRAFOS 4º E 5º DO ARTIGO 461 DO CÓDIGO DE PROCESSO CIVIL E DO MESMOS PARÁGRAFOS DO ARTIGO 84 DO CÓDIGO DE DEFESA DO CONSUMIDOR. NORMA FACULTATIVA AO MAGISTRADO. EXISTÊNCIA DE MÉTODO DE MAIOR EFICÁCIA PARA OBTENÇÃO DO MESMO RESULTADO QUANTO A OBRIGAÇÃO DE FAZER. EXPEDIÇÃO DE OFÍCIO. OBSERVÂNCIA QUE SE IMPÕE. DECISÃO PARCIALMENTE MODIFICADA.
+"O § 5º do art. 461 do Código de Processo Civil traz hipóteses exemplificativas de medidas das quais o julgador pode se valer para a obtenção do resultado prático equivalente ao do adimplemento ou a efetivação da tutela específica.
+Assim, dentre os meios aceitos pelo Direito, cabe ao Juiz escolher a medida mais adequada para o caso em concreto, pois a multa não é a única providência possível de ser utilizada, conquanto seja a mais empregada.
+Sendo a nova providência ineficiente, a medida poderá ser modificada, adotando-se outra mais eficaz, até a cominação da própria multa, nos termos do § 3º do artigo 461 do Código de Processo Civil". (Agravo de Instrumento n.
+2011.053714-7, de São José, Rela. Desa. [NOME], julgado em 16.2.2012).
+Recurso provido." (e-STJ, fls. 103/104)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 128/131).
+Nas razões do recurso especial, a parte agravante alega violação do art. 492 do CPC/2015, sustentando, em síntese, ocorrência de julgamento extra petita no que tange ao afastamento da multa diária para o cumprimento da obrigação de fazer fixada na decisão agravada, uma vez que o pedido formulado pelo agravante foi somente pela manutenção dos contratos firmados entre as partes.
+Apresentadas contrarrazões às fls. 147/151 (e-STJ).
+É o relatório. Decido.
+Verifica-se, do exame dos autos, que a tese de julgamento extra petita trazida pela recorrente em suas razões recursais não foi apreciada pelo Tribunal a quo, ainda que a recorrente tenha oposto embargos de declaração a fim de sanar eventual irregularidade.
+Esta eg. Corte de Justiça consagrou a necessidade de prequestionamento dos temas ventilados no recurso especial. Assim, para que se verifique o requisito do prequestionamento, a questão jurídica trazida nas razões do apelo especial deve ter sido efetivamente discutida e devidamente fundamentada pelo acórdão recorrido, não sendo suficiente a simples invocação da matéria na petição de embargos de declaração, como ocorreu no caso em exame.
+Caberia, então, à parte recorrente, na hipótese, alegar afronta ao art. 1.022 do CPC/2015 a fim de ver sanada eventual omissão, providência, todavia, da qual não se desincumbiu, perseverando o óbice da ausência de prequestionamento.
+Incide, por analogia, a Súmula 282 do STF. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. ARTIGOS 112 E 113, DO CÓDIGO CIVIL. FALTA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA N. 282 DO STF. CASO FORTUITO. FORÇA MAIOR. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. APLICAÇÃO DA SÚMULA N. 284 DO STF. RECURSO NÃO PROVIDO.
+1. As matérias referentes aos arts. 112 e 113, do Código Civil, relacionadas à livre disposição da vontade das partes expressada no contrato, não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF).
+2. Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Em relação ao alegado caso fortuito/força maior, não cabe recurso especial quando o recorrente não declina, nas razões, qual o dispositivo legal afrontado. Deficiência na fundamentação que enseja a aplicação da Súmula n. 284/STF.
+Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1199570/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/02/2018, DJe 05/03/2018 - grifei)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
