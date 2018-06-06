@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por COOPERATIVA TRITICOLA TAPERENSE LTDA, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO E ARREMATAÇÃO PELO CREDOR HIPOTECÁRIO. ARGUIÇÃO DE IMPENHORABILIDADE APRESENTADA ANTES DE EXPEDIDA A CARTA. EXCEÇÃO DO ART. 32, INC. V, DA LEI 8.009/90 INAPLICÁVEL AO CASO. IMÓVEL INFERIOR A QUATRO MÓDULOS FISCAIS DA REGIÃO, TRABALHADO PELA FAMÍLIA, LEVADO À HASTA POR DÍVIDA DECORRENTE DA ATIVIDADE PRODUTIVA. CARACTERIZADA, ASSIM, A PEQUENA PROPRIEDADE RURAL COM ESPECIAL PROTEÇÃO CONSTITUCIONAL (ART. 52, XXVI, CONSTITUIÇÃO FEDERAL). PRECEDENTES.
+A pequena propriedade rural conta com especial proteção constitucional, sendo indiferente que a mesma tenha sido oferecida como garantia hipotecária, notadamente, quando a dívida em questão origina-se da própria atividade de exploração do imóvel, inferior a quatro módulos fiscais da região, sendo inaplicável a exceção contida no art. 32, inc. V, da lei nº 8.009/90.
+AGRAVO DE INSTRUMENTO PROVIDO." (fl. 388)
+Nas razões do recurso especial, a recorrente aponta violação aos arts. 649, VIII, 655, §1º, do Código de Processo Civil de 1973; 3º, V, da Lei 8.009/90 e dissídio jurisprudencial, sustentando, em síntese que o bem de família, dado em garantia hipotecária, pode ser penhorado.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Consoante entendimento consolidado nesta Corte Superior, é impenhorável a pequena propriedade rural trabalhada pela entidade familiar, ainda que dada pelos proprietários em garantia hipotecária de dívida oriunda da atividade agrícola, nos termos do art. 649, VIII, do CPC/73.
+Nesse sentido:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - PEQUENA PROPRIEDADE RURAL - IMPENHORABILIDADE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA EXEQUENTE.
+1. Com efeito, a jurisprudência desta Corte Superior é assente no sentido de que "o imóvel que se enquadra como pequena propriedade rural, indispensável à sobrevivência do agricultor e de sua família, é impenhorável, consoante disposto no parágrafo 2º do artigo 4º da Lei n. 8.009/1990, norma cogente e de ordem pública que tem por escopo a proteção do bem de família, calcado no direito fundamental à moradia" (EDcl nos EDcl no AgRg no AREsp 222936/SP, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 26/02/2014).
+2. "A pequena propriedade rural, trabalhada pela família, é impenhorável, ainda que dada pelos proprietários em garantia hipotecária para financiamento da atividade produtiva. Artigos 649, VIII, do Código de Processo Civil, e 5º, XXVI, da Constituição Federal." (REsp 1368404/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/10/2015, DJe 23/11/2015) 3. Agravo interno desprovido." (AgInt nos EDcl no AREsp 832.464/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017, g.n.)
+Assim, estando o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior, incide, na espécie, o óbice previsto na Súmula 83 do STJ.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
