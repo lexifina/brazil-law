@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. HONORÁRIOS. MAJORAÇÃO NA FASE RECURSAL. OBSERVÂNCIA DOS LIMITES DOS §§ 2º E 11 DO ART. 85 DO CPC/2015. DECISÃO RECONSIDERADA.
+DECISÃO
+Trata-se de agravo interno apresentado contra decisão da Presidência da qual se extrai:
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: consonância do acórdão recorrido com jurisprudência do STJ.
+Entretanto, a parte Agravante deixou de impugnar especificamente o referido fundamento.
+E, como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+(..)
+Ante o exposto, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do agravo em recurso especial.
+Havendo prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Nas razões do agravo, o agravante sustenta que os honorários já foram fixados na origem no patamar máximo de 20% (vinte por cento) sobre o valor da condenação. Não havendo mais margem legal para a fixação de honorários nesta fase recursal.
+Ao final, pugna pela reconsideração da decisão para viabilizar o regular seguimento do recurso interposto ou julgamento pelo Colegiado.
+É o relatório.
+No mérito, deve-se ressaltar que os §§ 2º e 11 do art. 85 do CPC/2015 estabelecem teto de pagamento de honorários advocatícios, que deve ser observado sempre que a verba sucumbencial é majorada na fase recursal, como no presente caso.
+Compulsando os autos, observa-se que os honorários advocatícios foram arbitrados no valor de 20% (vinte) por cento do valor da causa, assim resta inviável a condenação dos recorrentes em honorários recursais uma vez que ultrapassaria o limite do teto legal.
+Nesse sentido, mutatis mutandi:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, DO CPC/2015. OMISSÃO. ACOLHIMENTO. SÚMULA ADMINISTRATIVA 7/STJ. MAJORAÇÃO NA FASE RECURSAL. OBSERVÂNCIA DOS LIMITES DOS §§ 3º E 11 DO ART. 85 DO CPC/2015. 1. A parte embargante alega que o acórdão recorrido é omisso com relação à majoração dos honorários advocatícios prevista no art. 85, § 11, do CPC/2015. 2.
+Segundo o § 11 do art. 85 do CPC/2015: "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento". 3. De acordo com a Súmula Administrativa 7/STJ, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC". 4. No caso específico do autos, trata-se de processo eletrônico no qual se constata que a publicação da decisão de origem ocorreu depois de 2.8.2016 e onde houve a condenação em honorários sucumbenciais em R$ 5.000,00 (cinco mil reais) para cada réu.
+5. Para majoração dos honorários, o art. 85, § 11, do CPC/2015 expressamente requer a valoração da atividade do advogado na fase recursal. Mais que isso, o CPC exige que seja demonstrado qual o trabalho adicional apresentado pelo advogado.
+6. Por conseguinte e diante das circunstâncias do caso, majoro em 2% os honorários fixados anteriormente, considerando que matéria discutida nos autos está pacificada na jurisprudência do STJ e que a atuação recursal da parte embargante consistiu basicamente na apresentação de contrarrazões.
+7. Ressalto que os §§ 3º e 11 do art. 85 do CPC/2015 estabelecem teto de pagamento de honorários advocatícios quando a Fazenda Pública for sucumbente, o que deve ser observado sempre que a verba sucumbencial é majorada na fase recursal, como no presente caso.
+8. A majoração da verba sucumbencial deve se ater, por ocasião da liquidação de sentença, aos limites previstos nos §§ 3º e 11 do art.
+85 do CPC/2015.
+9. Embargos de Declaração acolhidos para complementação do julgado.
+(EDcl no REsp 1666312/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe 11/10/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85. § 11, DO CPC/2015. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 05/09/2017, que julgou recurso aviado contra decisão que inadmitira Recurso Especial, interposto contra acórdão publicado na vigência do CPC/2015.
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015;
+EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel.
+Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art.
+932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia. IV. No caso, o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/2015. Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art.
+85, § 11, do NCPC"), deve ser mantida a majoração dos honorários advocatícios, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição do Recurso Especial, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+V. Agravo interno improvido.
+(AgInt no AREsp 1144218/PI, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 01/03/2018, DJe 08/03/2018)
+Ante o exposto, com fulcro no art. 1.021, § 2º, do CPC/2015 c/c o art. 259 do RISTJ, conheço do agravo interno para, em juízo de retratação, reconsiderar a decisão agravada, a fim de afastar a condenação em honorários recursais.
+Publique-se. Intimem-se.
