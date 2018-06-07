@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime de estelionato previdenciário, previsto no artigo 171, § 3º, do Código Penal. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação dos artigos 5º, incisos XXXVII, LIII e LVII, e 93, inciso IX, da Constituição Federal. Argui a nulidade do processo por contrariado o princípio do juiz natural. Discorre sobre a legislação de regência, adentrando nos contornos da situação fática. Afirma a ausência de tipicidade material, dizendo tratar-se de crime impossível. Insurge-se contra dosimetria da pena. Requer a absolvição. Sucessivamente, pleiteia a desclassificação do tipo penal para o do artigo 302 do mencionado Código, o reconhecimento de extinção de punibilidade ou diminuição da pena.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão proferida os seguintes trechos:
+    Com efeito, a emissão de atestados falsos ocorria no campo do esquema fraudulento para a obtenção de benefícios previdenciários indevidos, sendo, então, crime-meio para a consecução do estelionato contra o INSS, crime-fim.
+    Dessa forma, absorvida pelo estelionato a emissão de atestado falso, não há falar em desclassificação da conduta para o crime do artigo 302 do Código Penal.
+    Além disso, tais argumentos foram analisados e refutados no voto condutor da apelação criminal n° 2005.71.00.043025-2/RS (deste Relator), em que são réus José Luís Grutcki e Waldir Alcides Früehlich, um dos beneficiários do esquema fraudulento desbaratado pela Polícia Federal na Operação Fênix, de que tratam os autos originários.
+    A tese de desclassificação para o tipo do artigo 302 do Código Penal foi rechaçada também no voto condutor do recurso em sentido estrito n° 0043785-30.2005.404.7100 (de rclatoria do então Desembargador Federal Néfi Cordeiro), interposto pelo réu, cujo trecho transcrevo:
+    O magistrado a quo reenquadrou as condutas descritas na denúncia no artigo 304 c/c 302, ambos do CP (uso de documento falso e falsidade de atestado médico), declinando da competência em favor da 3" Vara Federal Criminal de Porto Alegre, sob o rito do juizado especial federal. Contra tal decisão, o Ministério Público Federal interpôs o presente recurso, alegando a correta tipificacão dos fatos em apreciação na denúncia.
+    A descrição fálica imputada, porém, parece-me claramente indicar terem os falsos atestados sido desde o inicio dirigidos à obtenção de beneficio previdenciário, a configurar crime de estelionato - como outros vários casos similares que tramitaram nesta Cone. (grifei)
+    Por tais motivos, rejeito a preliminar arguida.
+    Em relação à absolvição do réu pelo Conselho Regional de Medicina do Rio Grande do Sul - CREMERS ressalto a independência entre as esferas administrativa e penal.
+    […]
+    Ora, as provas constantes dos presentes autos, colhidas principalmente no inquérito policial que deu origem a eles, demonstram que o réu José Luís Grutcki fazia parte da quadrilha comandada por Márcia Elísia, sendo um dos médicos responsáveis pela emissão de atestados médicos ideologicamente falsos utilizados para requerimentos e concessões de benefícios previdenciários no INSS.
+    Restou comprovado que José Luís Grutcki emitia atestados sem examinar, de fato, os supostos pacientes, declarando que eram portadores de doenças psiquiátricas incapacitastes para o trabalho.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo criminal, descabendo, portanto, referida condenação.
+    4. Publiquem.
+Brasília, 7 de junho de 2018.
+ Ministro MARCO AURÉLIO
+Relator
