@@ -1,0 +1,49 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. CONDENAÇÃO À OBRIGAÇÃO DE FAZER. FINANCIAMENTO DE IMÓVEL PELA CDHU. ALTERAÇÃO DOS PARÂMETROS DO TÍTULO EXECUTADO. CONDENAÇÃO AO PAGAMENTO DO VALOR DO IMÓVEL OU FORNECIMENTO DE OUTRO EM ÁREA DIVERSA. IMPOSSIBILIDADE. TRÂNSITO EM JULGADO. PRECEDENTES. SÚMULA Nº 83/STJ.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2.. O Tribunal estadual julgou nos moldes da jurisprudência pacífica desta Corte, no tocante à impossibilidade de modificação dos termos da sentença já transitada em julgado, em fase de liquidação/cumprimento de sentença, sob pena de violação à coisa julgada. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+3. Agravo interno não conhecido.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, não conheceu do agravo interno, nos termos da Sra. Ministra Relatora. Os Srs. Ministros Marco Buzzi (Presidente), Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+Impedido o Sr. Ministro Antonio Carlos Ferreira.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face de decisão por meio da qual rejeitei os embargos, mantendo o não conhecimento do recurso especial.
+Nas razões do agravo, a parte recorrente pugnou pelo reconhecimento de error in judicando e argumentou que a decisão recorrida "olvidou que a questão essencial da querela restringia-se ao fato de a parte adversa não ter reservado imóveis à satisfação do título judicial".
+Alegou que, por a recorrida "não ter condições de cumprir a obrigação objeto do título judicial, por conta disso e com amparo no artigo 461 do CPC/73 e Súmula nº 344 desse sodalício, os Agravantes pleitearam a FORMA ALTERNATIVA de constrição de imóveis equivalentes na região do Ipiranga ou a condenação da agravada ao valor do imóvel."
+A parte agravada, regularmente intimada, não se manifestou.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os frágeis argumentos desenvolvidos pelo agravante não têm plausibilidade jurídica para infirmar a conclusão da decisão impugnada, visto que apenas reiterados os argumentos do recurso especial, razão pela qual o presente recurso não merece prosperar.
+Da análise das razões despendidas no agravo interno, saliento que o agravante sequer impugnou o fundamento utilizado pela decisão ora agravada de que a parte recorrida foi condenada a uma obrigação de fazer, qual seja, a contratar financiamento de imóvel com as vantagens oferecidas pela CDHU e não a uma obrigação de dar/entregar imóvel, como pretende a ora agravante.
+Também não foi objeto de impugnação específica as razões atinentes à legalidade da anulação da decisão de condenação em perdas e danos no valor dos imóveis, caso frustrado o financiamento, visto que, conforme já mencionado, o que a parte recorrente somente estaria perdendo seriam os benefícios de financiar os imóveis pela CDHU, à luz da teoria da perda de uma chance.
+Como salientado, o título executivo judicial objeto de cumprimento de sentença foi expresso ao determinar a entrega "aos autores, no prazo de 30 (trinta) dias, dois imóveis na região central do município de São Paulo e a celebrar novos compromissos de compra e venda com o fim de retomar o financiamento imobiliário antes acordado entre as partes".
+O Tribunal de origem, em respeito à coisa julgada e tendo em vista o desrespeito aos limites do título executivo por parte do juízo de primeiro grau, anulou de ofício a determinação de fornecer imóveis residenciais em áreas distintas daquela previamente determinada em ação transitada em julgado.
+Dessa forma, a presente via não é adequada para a desconstituição do julgado, possuindo o recorrente meios próprios para fazê-lo.
+Reitero, portanto, que não houve violação à inteligência do enunciado nº 344, desta Corte, visto que não foi alterada a forma de liquidação da sentença condenatória, mas sim alterados, em sede de cumprimento de sentença, os limites da coisa julgada.
+Com efeito, verifico que o Tribunal de origem decidiu em consonância com a jurisprudência já consolidada desta Corte, que entende pela impossibilidade de modificação dos termos da sentença já transitada em julgado, em fase de liquidação/cumprimento de sentença, sob pena de violação à coisa julgada, o que atrai o óbice previsto na Súmula nº 83/STJ aplicável aos recursos interpostos com base em ambas as alíneas (AgInt no AREsp 720.037/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 3/5/2016, DJe 11/5/2016).
+Destaco, outrossim, que não houve ilegalidade alguma por parte do Tribunal de origem ao anular de ofício a fase de cumprimento de sentença.
+Como sabido, a violação à coisa julgada é matéria de ordem pública, cognoscível ex officio em todas as instâncias ordinárias, a qual desafia, inclusive, o aviamento de ação rescisória.
+Nesses termos, precisa é a fundamentação final do acórdão recorrido, trazido nas razões dos embargos, por meio da qual a Corte estadual estabeleceu os limites a serem respeitados pelo magistrado de primeira instância em relação ao título judicial executado (fl. 119 e-STJ):
+"Embora se reconheça a boa intenção do MM. Juiz de primeiro grau de buscar uma rápida solução do litígio, deve-se ter em mente que os exequentes não obtiveram uma condenação da executada na obrigação de "dar" dois imóveis, mas de "contratar" um financiamento.
+Ora, fixar a conversão em perdas em danos no exato valor dos bens extrapola os limites do título executivo e configura injusto enriquecimento sem causa.
+Portanto, se não houver imóveis disponíveis na região central e se as exequentes, por meio de transação, não aceitarem financiar dos imóveis em outro local, a conversão em perdas e danos deve dar-se pela teoria da perda de uma chance, pois os exequentes estariam perdendo a oportunidade de financiar um imóvel com as conhecidas vantagens oferecidas pela CDHU, o que tem um valor econômico a ser apurado segundo o prudente arbítrio do juiz."
+Com efeito, nos termos do disposto no artigo 932, III, do novo Código de Processo Civil, incumbe ao relator, de forma singular, negar seguimento a recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, o que verifico nos presentes autos em relação a todos os argumentos utilizados na fundamentação da decisão ora recorrida.
+Assim sendo, imperioso concluir que o presente agravo interno esbarra no óbice previsto pela Súmula 182, deste Tribunal, que dispõe que "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (atual artigo 1.021, do novo Código de Processo Civil).
+Assim se manifesta esta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. SÚMULA 182 DO STJ. INCIDÊNCIA.
+1. Diante do princípio da dialeticidade, expressamente disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015, aplica-se à nova sistemática processual, por analogia, o conteúdo do enunciado 182 da Súmula do Superior Tribunal de Justiça ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+2. Agravo interno não conhecido.
+(AgRg no AREsp 809.889/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/9/2016, DJe 5/10/2016)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. COMPROVAÇÃO DA MORA. CONTRATO DE FINANCIAMENTO COM GARANTIA FIDUCIÁRIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA (STJ). INTERPOSIÇÃO DE SEGUNDO AGRAVO REGIMENTAL. ERRO GROSSEIRO. INTEMPESTIVIDADE.
+1. O agravo regimental não impugnou especificamente toda a fundamentação da decisão agravada, o que atrai a incidência da Súmula 182 do STJ.
+2. A interposição de recurso manifestamente incabível não interrompe ou suspende o prazo para a interposição de outros recursos, nem impede o trânsito em julgado do acórdão ou decisão inadequadamente impugnados. Intempestividade do recurso especial. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 750.225/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/12/2015, DJe 1/2/2016)
+PROCESSUAL CIVIL. MEDIDA CAUTELAR. NEGATIVA DE SEGUIMENTO. AGRAVO REGIMENTAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 182 DO STJ. INCIDÊNCIA.
+1. Quando a parte recorrente não traz, na minuta do agravo regimental, impugnação integral e específica aos fundamentos da decisão recorrida, há de ser aplicada a Súmula nº 182 do Superior Tribunal de Justiça ao caso.
+2. Ademais, não há como dar efeito suspensivo a recurso especial inadmitido na origem quando, do exame do acórdão recorrido, este não se revela teratológico, na medida em que constatado que o valor levantado pelo agravante não foi reconhecido em sua integralidade como seu e, mais ainda, que, instado por diversas vezes a devolver o que não lhe era devido, jamais o fez. Assim, por se tratar de uma forma de se dar efetividade à determinação judicial não cumprida de restituição de valores - no caso, a única que restou -, não seria o caso de impenhorabilidade salarial, notadamente quando foram dadas reiteradas oportunidades para a devolução da quantia.
+3. Agravo regimental não provido.
+(AgRg na MC 24.495/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/12/2015, DJe 2/2/2016)
+Em face do exposto, não conheço do agravo interno.
+É o voto.
