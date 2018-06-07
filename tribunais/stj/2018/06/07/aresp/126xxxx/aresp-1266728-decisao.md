@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NULIDADES. INOCORRÊNCIA. MERO INCONFORMISMO COM A SOLUÇÃO JURÍDICA ADOTADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por SHELL BRASIL PETROLEO LTDA em face de decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o recurso especial fundado no artigo 105, inciso III, alínea "a", da Constituição Federal, manejado contra acórdão assim ementado:
+"Apelação. Compra e venda. Ação de rescisão contratual c.c. indenização por perdas e danos.
+1. A preliminar de inépcia da inicial foi afastada pelo despacho saneador, não sendo interposto qualquer recurso contra essa decisão. Ocorrência da preclusão. Precedentes deste [NOME].
+2. Preliminar de ilegitimidade passiva afastada. O apelante [NOME] e sua esposa [NOME] figuraram como fiadores e responsáveis solidários pelas obrigações decorrentes do contrato de promessa de compra e venda de produtos e outras avenças pactuado com a autora, razão pela qual são partes legítimas para o polo passivo da presente demanda.
+3. Acerca da validade do termo de prorrogação, deve mesmo incidir a teoria da aparência, cuja finalidade é a preservação da boa -fé nas relações negociais, pois [NOME] figurou no contrato inicial como sócio, bem como fiador e principal responsável em ambos os instrumentos. Vedação ao comportamento contraditório.
+4. O fato de o termo de prorrogação não estar assinado por duas testemunhas não acarreta qualquer consequência ao presente caso, pois a presente demanda não trata de execução de título executivo extrajudicial, mas de ação de rescisão contratual cumulada com indenização por perdas e danos.
+5. As garantias prestadas pelo apelante [NOME] e por [NOME] abrangem todas as obrigações contratuais, inclusive multas compensatórias e moratórias, dentre outras, estão abrangidas pelas referidas garantias, cujo adimplemento deve ser suportado pelos garantidores da obrigação. Incidência do art. 1.486, do Código Civil de 1916.
+6. A validade da fiança e da hipoteca não depende da assinatura de duas testemunhas, como sustentado pelos apelantes, inexistindo qualquer exigência de observância desse requisito para que a fiança e a garantia hipotecária sejam prestadas. Inteligência dos arts. 1.481 e seguintes e 761, do Código Civil de 1916.
+7. As obrigações de [NOME] perduraram mesmo após o seu falecimento em 08/03/1998, devendo ser suportadas por seus sucessores, tal como pactuado na escritura pública que constituiu a garantia hipotecária.
+8. As obrigações de [NOME], na qualidade de .
+dador hipotecante, devem se limitar ao período de 10 (dez) anos, tal como pactuado pelas partes. Assim, a escritura pública foi firmada em 27/04/1993, devendo o espólio de [NOME] responder pela garantia hipotecária até 27/04/2003.
+9. As cláusulas contratuais que impõem a aquisição de quantidade mínima de combustível e que determina exclusividade no fornecimento, não padecem de abusividade. Precedentes deste E. Tribunal.
+10. Descumprimento contratual pelos apelantes, que .
+violaram as cláusulas de exclusividade na aquisição do combustível e de aquisição de quantidade mínima, ao comprar combustível de distribuidoras diversas, sendo descabida a invocação à exceção de contrato não cumprido.
+11. Cabimento da redução do montante das perdas e danos, em razão do cumprimento parcial do contrato. Aplicação do art. 924, do Código Civil de 1916.
+Recursos providos em parte." (e-STJ fl. 1.071/1.072).
+Opostos embargos de declaração pela parte aqui agravante, esses foram rejeitados (e-STJ fls. 1.099/1.105).
+Em sede de recurso especial, a recorrente aponta o malferimento do artigo 1.022, I e II, do Código de Processo Civil/2015 alegando: (i) contradição "uma vez que, embora houvesse imposição de redução valor da multa contratual, foi indicado, pelo referido julgado, que deveria ser obedecido, no seu cálculo, exatamente o mesmo critério contido no instrumento contratual celebrado pelas partes e constante do pedido formulado pela ora recorrente na petição inicial" e obscuridade "já que não havia no V. Acórdão em questão nenhuma indicação dos parâmetros pelos quais se daria a eventual redução do montante dessa indenização por perdas e danos." (e-STJ fls. 1.115/1.116); e (ii) omissão e obscuridade do Tribunal local "ao não analisar a questão à luz da manifesta ocorrência do vencimento antecipado da garantia hipotecária durante o seu prazo de vigência e nem determinar o que exatamente significava a limitação por ele expressa" (e-STJ fl. 1117).
+[NOME] OUTRA às e-STJ fls. 1126/1130.
+Contrarrazões de CESAR E CIA LTDA às e-STJ fls. 1135/1140.
+Em suas razões do agravo em recurso especial, a empresa agravante infirmou especificamente os fundamentos da decisão agravada (e-STJ fls. 1198/1210).
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Com efeito, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios. Tenho que, acerca da redução da multa pelo inadimplemento contratual dos recorridos, bem como acerca da garantia hipotecária, assim caminharam as razões do aresto integrativo:
+" ..  não há que se falar em omissões, contradições ou obscuridades no acórdão recorrido.
+Acerca da redução do valor das perdas e danos, constou expressamente do julgado os critérios para cálculo desse montante (fls. 964/966):
+Por fim, é procedente o pedido de redução do montante das perdas e danos, em razão do cumprimento parcial do contrato.
+Com efeito, a cláusula décima segunda (fls. 47/48) estabelece:
+Com exceção das hipóteses previstas na cláusula sexta, a parte que ensejar a rescisão do presente contrato fica obrigada a pagar à outra as perdas e danos correspondentes, tomando-se por base o tempo restante para o término do contrato e as quantidades mínimas mensais estabelecidas na cláusula primeira, aplicando-se o disposto nos parágrafos seguintes, além de responder, ainda, pelas despesas judiciais, juros, correção monetária, honorários de advogado e demais cominações.
+Por sua vez, o parágrafo primeiro da citada cláusula contratual prevê:
+Fica desde já convencionado que, se inadimplente a compradora, as perdas e danos correspondem ao resultado das quantidades mensais de produtos que a mesma deixar de adquirir desde o momento da infração até o termo final do contrato, multiplicado pela diferença entre os preços do litro de cada um daqueles produtos constantes da Tabela de Preços do Conselho Nacional de Petróleo para o fornecimento "ex refinaria" à vendedora e desta "ex deposito" para a compradora, preços estes vigentes na data em que ocorrer a citação desta para responder à competente medida judicial.
+(..) No caso dos autos, a corré César e Cia. Ltda. cumpriu o contrato desde o seu início até 01/2001, quando deixaram de adquirir combustível junto à apelada (fls. 60). Acrescente-se que o término do prazo contratual seria em 31/12/2007, conforme previsto no termo de prorrogação de fls. 50/52.
+Desse modo, a multa por inadimplemento contratual deve ser calculada considerando-se o período compreendido entre 01/2001 até 31/12/2007, uma vez que a apelante César e Cia cumpriu o contrato por, aproximadamente, 16 (dezesseis) anos, desde 06/1985 a 01/2001.
+Sobre a responsabilidade do Espólio pela garantia hipotecária prestada por [NOME], a Turma Julgadora decidiu (fls. 960/963):
+No tocante à responsabilidade de [NOME] pelas obrigações decorrentes da escritura pública de constituição de hipoteca, a cláusula quinta da referida escritura pública estabelece: "a devedora e os dadores hipotecantes declaram que se obrigam por si e seus sucessores ao fiel cumprimento desta escritura" (fls. 67).
+Nesse contexto, as obrigações de [NOME] perduraram mesmo após o seu falecimento, ocorrido em 08/03/1998 (fls. 446), devendo ser suportadas por seus sucessores, tal como pactuado na escritura pública que constituiu a garantia hipotecária.
+Dessa forma, o espólio de [NOME] responde pelas obrigações contratuais, conforme decidiu o magistrado de primeiro grau, não havendo de que se falar em exoneração da obrigação por ela assumida.
+Todavia, a cláusula primeira da escritura pública de constituição da garantia hipotecária estabelece (fls. 66):
+Para garantir a credora de quaisquer débitos da devedora, inclusive os eventuais já existentes e anteriores a esta data ou que venham a existir no futuro, bem como em garantia de quaisquer prejuízos, inclusive juros de mora, multas e demais honorários advocatícios, correção monetária, faltas e demais cominações e ainda de indenização por perdas e danos provenientes de transações comerciais, de quaisquer espécies ou causas atuais e futuras entre a credora hipotecária e a devedora a interveniente dador hipotecante dão a Shell Brasil S/A em primeira e especial hipoteca por um prazo de 10 anos a contar desta data, pelo valor a ser apurado em execução (..)
+Diante disso, as obrigações de [NOME], na qualidade de dador hipotecante, devem se limitar ao período de 10 (dez) anos, tal como pactuado pelas partes. Assim, a escritura pública foi firmada em 27/04/1993, devendo o espólio de [NOME] responder pela garantia hipotecária até 27/04/2003.
+Assim, evidente que os embargos sob análise têm nítido caráter infringente, sendo manifesto o inconformismo com o resultado pronunciado por esta Câmara julgadora, o que não deve ser admitido.  .. " (e-STJ fls. 1103/1105, grifei).
+Como se vê, não obstante o esforço argumentativo da parte, não há se falar nulidade por omissão, contradição ou obscuridade.
+Isso porque, o Tribunal recorrido entendeu pela procedência do pedido de redução do montante das perdas e danos em razão do cumprimento parcial do contrato, a teor das disposições contratuais, concluindo que "a multa por inadimplemento contratual deve ser calculada considerando-se o período compreendido entre 01/2001 até 31/12/2007, uma vez que a apelante César e Cia cumpriu o contrato por, aproximadamente, 16 (dezesseis) anos, desde 06/1985 a 01/2001".
+De outro lado, houve o entendimento de que, a teor do contrato entabulado, "as obrigações de [NOME], na qualidade de doador hipotecante, devem se limitar ao período de 10 (dez) anos, tal como pactuado pelas partes. Assim, a escritura pública foi firmada em 27/04/1993, devendo o espólio de [NOME] responder pela garantia hipotecária até 27/04/2003".
+No caso dos autos, a Corte estadual enfrentou e decidiu, de maneira integral e com fundamentação coerente, a questão posta.
+Assim, o inconformismo recursal revela-se como mera intenção de rejulgamento da causa, tão-somente, porque a solução jurídica adotada foi desfavorável à pretensão da recorrente.
+Destarte, não merece guarida a alegada violação ao artigo 1.022 do CPC/2015.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b" do RISTJ, conheço do agravo para NEGAR provimento ao recurso especial.
+Considerando o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, fixo os honorários advocatícios recursais em R$ 1.000,00 (mil reais), a serem pagos pelo vencido ao advogado do vencedor.
+Intimem-se.
