@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor RAPHAEL SANTOS CARDOSO e RECIERE PINHEIRO LEITAO, em face de acórdão do Tribunal de Justiça de São Paulo.
+Consta dos autos que os pacientes foram condenados como incursos no art. 180, §§1º e 2º, c/c os arts. 29 e 71, todos do CP, à pena de 9 anos de reclusão, em regime inicial fechado, e 45 dias-multa.
+Interposta apelação defensiva, o Tribunal de Justiça deu parcial provimento ao recurso para reduzir a pena para 5 anos e 3 meses de reclusão, em regime inicial semiaberto, e 16 dias-multa.
+Neste writ sustenta a impetrante, em suma, haver constrangimento ilegal na fundamentação utilizada para majorar a pena acerca da periculosidade do agente e sobre sua medida de responsabilidade no fomento de outras ocorrências (fl. 5), bem como porque exagerado o aumento decorrente da continuidade delitiva.
+Requer, assim, a revogação da prisão preventiva, a redução da pena-base ao mínimo legal, a fixação da fração de 1/6 de aumento na terceira fase da dosimetria, com o consequente abrandamento do regime prisional.
+Indeferida a liminar e prestadas as informações, o Ministério Publico Federal ofertou parecer pela denegação do habeas corpus.
+É o relatório.
+DECIDO.
+Vale destacar, de início, que conforme informações prestadas, a condenação transitou em julgado em 25/11/2016, superando o pedido de revogação da prisão preventiva, porquanto agora o que subsiste é a prisão para cumprimento da pena.
+No que concerne à dosimetria da pena, o Tribunal de Justiça manteve a pena-base acima do mínimo legal aos seguintes fundamentos (fl. 19):
+As penas aplicadas aos apelantes merecem reparos.
+Atendendo ao disposto no artigo 59. do Código Penal, as penas básicas foram fixadas acima dos mínimos legais, fundamentando o douto Magistrado nas circunstâncias do delito, eis que os acusados, de forma concatenada e organizada, atuavam no local dos fatos para ocultar um desmanche de veículos de ilícita origem, pois os carros eram recebidos, ocultados, mantidos em depósito, desmontados e reduzidos a inúmeras peças que abasteciam o mercado ilegal. Além disso, a criminosa ação fomentava diversos outros delitos, ou seja, latrocínio, o roubo, e o furto indiscnminado de veículo. Entretanto, entendo exacerbado o aumento (dobro) fixado pelo Juízo "a quo", devendo prevalecer o percentual de 1/6 (um sexto), o que resultam nas penas de 03 (três) anos e 06 (seis) meses de reclusão, e ao pagamento de 11 (onze) dias-multa. no valor mínimo legal.
+Em regra, não se presta o recurso especial à revisão da dosimetria da pena estabelecida pelas instâncias ordinárias. Admite-se, contudo, o reexame quando configurada manifesta violação dos critérios dos arts. 59 e 68 do CP, sob o aspecto da legalidade, nas hipóteses de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica.
+Observa-se que foi mantida a valoração negativa das circunstâncias do crime com base no sistema organizado de desmanche do qual participavam os pacientes com o fim de ocultar a origem ilícita dos veículos, motivação concreta que justifica a exasperação da reprimenda.
+A afirmação pelo Colegiado de origem de que a criminosa ação fomentava diversos outros delitos, ou seja, latrocínio, o roubo, e o furto indiscriminado de veículo, em nada acresceu na pena dos sentenciados, sendo complemento à fundamentação anterior, sem configurar agravamento de circunstância judicial diversa, como pretendeu fazer crer a defesa, sem razão, portanto.
+Quanto à fração de aumento pela continuidade delitiva, assim registraram as instâncias ordinárias:
+Sentença - fl. 34
+Ocorre que a receptação qualificada era cometida de maneira continuada no local dos fatos, sendo disso exemplo a apreensão de vários veículos e peças automotivas deles retiradas. Por conta da multiplicidade de ações criminosas e estando caracterizada a situação prevista no artigo 71 do Código Penal, aumento em 1/2 (metade) a sanção estabelecida para o art. 180, §§ 1º e 2o, do CP..
+Acórdão - fl. 19
+Pela continuidade delitiva devidamente reconhecida pelo Juízo, houve a majoração da pena em (metade), na forma do artigo 71 do Código Penal, o que resultam nas penas de 05 (cinco) anos e 03 (três) meses de reclusão, e ao pagamento de 16 (dezesseis) dias-multa. no valor mínimo legal, tomadas definitivas.
+Vê-se que diante da multiplicidade de delitos que não se pode precisar por fazerem parte de um esquema de desmanche, o Magistrado a quo majorou a pena em 1/2, fração mais benéfica do que se infere das circunstâncias do caso.
+Veja-se, à propósito:
+CONSTITUCIONAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. ROUBOS MAJORADOS. CONCURSO FORMAL ENTRE OS DOIS PRIMEIROS DELITOS. CONTINUIDADE DELITIVA COM UMA TERCEIRA CONDUTA. AUMENTO NA FRAÇÃO DE 1/3 QUE SE REVELA EXCESSIVO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO COM EXTENSÃO DOS EFEITOS AOS CORRÉUS.
+ ..
+3. Hipótese em que as instâncias ordinárias reconheceram a continuidade delitiva entre os dois primeiros crimes de roubo e o terceiro delito, por se tratarem de condutas da mesma espécie, praticadas em semelhantes condições de tempo, lugar e modus operandi, tendo sido demonstrada a unidade de desígnios entre os delitos cometidos, ou seja, a presença de um liame entre as condutas apto a evidenciar que o crime subsequente constitui um desdobramento lógico do primeiro, o que ensejou novo incremento da pena na fração de 1/3.
+4. A exasperação da pena do crime de maior reprimenda, realizado em continuidade delitiva, será determinada, basicamente, pelo número de infrações penais cometidas, parâmetro este que especificará, no caso concreto, a fração de aumento, dentro do intervalo legal de 1/6 a 2/3. Nesse diapasão, esta Corte Superior de Justiça  possui o entendimento consolidado de que, em se tratando de aumento de pena referente à continuidade delitiva, se aplica a fração de aumento de 1/6 pela prática de 2 infrações; 1/5, para 3 infrações; 1/4 para 4 infrações; 1/3 para 5 infrações; 1/2 para 6 infrações e 2/3 para 7 ou mais infrações. In casu, tratando-se de duas infrações praticadas em continuidade delitiva, deve incidir o aumento na fração de 1/6.
+ ..
+7. Writ não conhecido. Habeas corpus concedido, de ofício, determinar que o Juízo das Execuções proceda à nova dosimetria das penas, devendo incidir o aumento de 1/6 pela continuidade delitiva, com extensão dos efeitos da ordem aos corréus [NOME] e [NOME], nos moldes do art. 580 do Código de Processo Penal.
+(HC 325.160/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2017, DJe 09/05/2017)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
