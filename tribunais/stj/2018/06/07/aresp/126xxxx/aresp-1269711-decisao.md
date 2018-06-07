@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO E CORRUPÇÃO DE MENOR. DOSIMETRIA. VIOLAÇÃO DO ART. 59 DO CP. INIDONEIDADE NA FUNDAMENTAÇÃO EMPREGADA NA VALORAÇÃO NEGATIVA DA CULPABILIDADE. IMPROCEDÊNCIA. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. SUPOSTA DESPROPORCIONALIDADE NA FIXAÇÃO DA PENA-BASE. IMPROCEDÊNCIA. DOSIMETRIA QUE NÃO SEGUE CRITÉRIO MATEMÁTICO. PRECEDENTES DO STJ.
+Agravo conhecido para negar provimento ao recurso especial.
+DECISÃO
+[NOME] interpôs recurso especial, fundado no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Tocantins, proferido no julgamento da Apelação Criminal n. 0017987-32.2017.827.0000, assim ementado (fl. 148):
+APELAÇÃO CRIMINAL. ROUBO. CORRUPÇÃO DE MENORES. AUTORIA E MATERIALIDADE DEVIDAMENTE DEMONSTRADAS. DOSIMETRIA DA PENA. BIS IN IDEM. OCORRÊNCIA. RECÁLCULO DA PENA BASE. APLICAÇÃO DO CONCURSO MATERIAL MAIS BENÉFICO. SEGREGAÇÃO CAUTELAR. MANUTENÇÃO.
+1. A autoria e materialidade do delito de roubo restaram devidamente demonstradas pelas declarações das testemunhas e pelas declarações extrajudiciais do réu e do menor.
+2. A dosimetria da pena, por sua vez, incorreu em bis in idem ao considerar a pratica da infração com filho menor em duas oportunidades na fixação da pena base, e os antecedentes, na 1ª e 2ª fases de dosimetria.
+3. Lado outro, conforme disposto no parágrafo único do artigo 70, do Código Penal, quando o concurso formal, com a incidência da fração de aumento, exasperar a pena que seria obtida pela somatória das mesmas (hipótese dos autos), aplica-se a regra do concurso formal mais benéfico.
+4. Por fim, em se tratando de réu reincidente e de prática de delitos graves, a garantia da ordem pública se mostra como forte elemento a sustentar a segregação cautelar do réu.
+5. Recurso conhecido e provido parcialmente.
+Nas razões, aduziu que o aresto violou o disposto no art. 59 do Código Penal, pois manteve a valoração negativa do vetor culpabilidade, ignorando a inexistência de fundamentação idônea para a negativação do referido vetor.
+Alegou, ainda, que a pena-base foi majorada de forma exacerbada e desproporcional (fls. 156/163).
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 7/STJ (fls. 173/178). Daí, sobreveio agravo (fls. 182/188). Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 206/209).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Quanto ao recurso especial em si, verifico que a insurgência não merece acolhida.
+Colhe-se dos autos que o recorrente foi condenado pela prática dos crimes de roubo majorado e corrupção de menores, pois, no dia 10/4/2017, teria arquitetado o roubo de uma motocicleta, levado a efeito por seu próprio filho adolescente, que agiu mediante o emprego de arma branca (fl. 56):
+ ..
+Nota-se que conforme depoimento das testemunhas o adolescente, filho do acusado, praticou o roubo utilizando-se de uma faca, quando se apossou da moto da vítima. Em seguida foi perseguido por uma das testemunhas, Willian, que vira o ocorrido e declarou que avistou, na estrada em direção a Cristalândia, uma pessoa, dentro de um carro, um Fiat azul, entregando um capacete para o adolescente. Este fugiu em direção à cidade vizinha. A segunda testemunha, [NOME], declarou que saiu em seu carro na direção de Cristalândia para ajudar a recuperar o bem da vítima. Passou por Fiat azul em sua perseguição ao adolescente. Adiante o adolescente caiu da moto, deixou-a às margens da estrada e saiu correndo. Disse que estranho ele estar de capacete, pois quando praticou o roubo não estava. Foi até a moto, desligou, retirou a chave e pegou o capacete para trazer para a proprietária. Neste momento viu que o Fiat azul deu carona ao adolescente que fugia. Cabe registrar que o réu foi preso em Cristalândia, logo a seguir, neste veículo acompanhado do menor. Portanto, a versão do réu não se sustenta. Ficou demonstrado que ele arquitetou o roubo com o menor e o aguardou na saída para a cidade vizinha com o capacete para auxiliar à fuga e a garantia da posse da res furtiva. E, na sequência, ajudou seu filho, o adolescente, a fugir quando caiu com a moto na estrada. Portanto, há elementos que demonstram a materialidade e, as declarações uníssonas das testemunhas, corroborados em parte pela narrativa dos fatos pelo réu quando confirma que estava com o adolescente em Pium, bem como teria visto ele com a moto, bem como deixado ele pegar o capacete em seu veículo conduzem à convicção de sua co-autoria no delito.
+ ..
+O magistrado sopesou a circunstância do recorrente ser pai do menor coautor, a quem deveria educar, como elemento para negativar sua culpabilidade (fl. 62):
+ ..
+culpabilidade: devidamente comprovada nos autos, merece reprovabilidade, eis que agiu com dolo direto e penalmente imputável, pois tinha potencial consciência da ilicitude de sua conduta, sendo-lhe perfeitamente exigível conduta diversa. Mormente por se tratar de seu filho a quem teria o dever de educar.
+ ..
+Tal elemento indubitavelmente é idôneo, pois o fato do recorrente ter iniciado e instigado o seu próprio filho menor na prática criminosa, indica uma conduta efetivamente mais gravosa além daquela própria ao tipo penal.
+Quanto ao argumento de que o aumento efetivado foi desarrazoado ou desproporcional, a insurgência também não comporta acolhida, pois a orientação jurisprudencial desta Corte é no sentido de que a fixação da pena-base - com base nas circunstâncias judiciais do art. 59 do Código Penal - não se dá por critério puramente objetivo ou matemático, uma vez que é admissível certa discricionariedade do órgão julgador, desde que vinculada aos elementos concretos dos autos (AgRg no AREsp n. 138.807/SP, de minha relatoria, Sexta Turma, DJe 11/3/2015).
+A propósito, destaco:
+  ..  A ponderação das circunstâncias judiciais do art. 59 do Código Penal não é uma operação aritmética, em que se dá pesos absolutos a cada uma delas, a serem extraídas de cálculo matemático levando-se em conta as penas máxima e mínima cominadas ao delito cometido pelo agente, mas sim um exercício de discricionariedade vinculada.  ..
+(HC n. 176.405/RO, Ministro Jorge Mussi, Quinta Turma, DJe 3/5/2013)
+  ..  É devido o aumento da pena-base quando apontados elementos concretos que evidenciam a desfavorabilidade das circunstâncias judiciais, lembrando que a dosimetria da pena submete-se a certa discricionariedade judicial, não obedecendo a critérios rígidos ou puramente objetivos.  ..
+ (HC n. 170.860/SP, Ministra Marilza Maynard (Desembargadora convocada do TJ/SE), Quinta Turma, DJe 8/3/2013)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
