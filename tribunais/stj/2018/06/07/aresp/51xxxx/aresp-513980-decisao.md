@@ -1,0 +1,14 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973 NÃO CONFIGURADA. MANDADO DE SEGURANÇA. INCLUSÃO DO PPI DO ICMS. ILEGITIMIDADE DA AUTORIDADE INDICADA COMO COATORA. ACÓRDÃO RECORRIDO ANCORADO EM LEI LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO EM RECURSO ESPECIAL DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto por IRMÃOS ALVES DA SILVA LTDA., com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurgiu contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+MANDADO DE SEGURANÇA. Insurgência para assegurar seu direito líquido e certo à inclusão no PPI do ICMS, mediante abatimento dos débitos,parcelados por meio da conversão em renda dos depósitos judiciais de precatórios - Ilegitimidade da Procuradora Chefe do Município - Sentença mantida.
+Recurso não provido (fls. 279).
+2. Os Embargos de Declaração opostos foram rejeitados.
+3. Nas razões de seu Apelo Nobre inadmitido, a recorrente alega violação dos arts. 46 e 535 do CPC/1973, art. 1o. da Lei 12.016/2009 e 156, VI do CTN, asseverando, em síntese, que (a) o Tribunal de origem não se manifestou sobre questões essenciais ao deslinde da controvérsia; (b) a autoridade coatora legitima a figurar no pólo passivo do mandado de segurança preventivo é o agente responsável (fls. 324); e (c) os créditos precatórios são sim depósitos judiciais, e devern ser abatidos no valor do débito, por meio do conversão dos referidos depósitos em renda.
+4. Apresentadas contrarrazões (fls. 358/379), sobreveio juízo negativo de admissibilidade.
+5. É o relatório. Decido.
+6. De início, cumpre destacar que a alegada violação ao art. 535, II do CPC/1973 não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas com clareza, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+7. No pertinente à ilegitimidade passiva da Procuradora Chefe de Taubaté e da Fazenda do Estado de São Paulo, verifica-se que a questão controvertida foi dirimida com base na legislação estadual (Lei Complementar Paulista 478/1986 e Lei Orgânica da Procuradoria Geral do Estado de São Paulo), sendo impertinente a impugnação deduzida em Recurso Especial, porquanto necessária a análise da legislação local, medida vedada na via estreita do Recurso Especial, a teor da Súmula 280 do STF, aplicável ao caso por analogia.
+8. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial da Contribuinte.
+9. Publique-se.
+10. Intimações necessárias.
