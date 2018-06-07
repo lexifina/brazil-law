@@ -1,0 +1,45 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Divergência interpostos por MADEIREIRA THOMAS S/A, com base no 266 do Regimento Interno desta Corte, contra acórdão proferido pela 1ª Turma, assim ementado (fl. 3.623e):
+TRIBUTÁRIO. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. COMPENSAÇÃO. DENÚNCIA ESPONTÂNEA NÃO CARACTERIZADA. PRECEDENTES.
+Nos termos da jurisprudência dominante do Superior Tribunal de Justiça, "a extinção do crédito tributário por meio de compensação está sujeita à condição resolutória da sua homologação. Caso a homologação, por qualquer razão, não se efetive, tem-se por não pago o crédito tributário declarado, havendo incidência, de consequência, dos encargos moratórios.
+Nessa linha, sendo que a compensação ainda depende de homologação, não se chega à conclusão de que o contribuinte ou responsável tenha, espontaneamente, denunciado o não pagamento de tributo e realizado seu pagamento com os acréscimos legais, por isso que não se observa a hipótese do art.
+138 do CTN"
+(AgRg no REsp 1.461.757/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/09/2015, DJe 17/09/2015.).
+Agravo interno improvido.
+Alega a Embargante, em síntese, a existência de dissenso caracterizado pelo precedente formado pela 1ª Turma, no AgRg no REsp n. 1.136.372/RS.
+Nas razões recursais, alega-se, em síntese, que resta configurada a denúncia espontânea, quando a extinção do crédito tributário se dá pela apresentação de pedido de compensação.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+ii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Os Embargos de Divergência têm por finalidade a uniformização da jurisprudência desta Corte quanto à interpretação do direito em tese, sendo cabíveis quando tratar-se de decisão proferida em sede de recurso especial cujo teor divirja do julgamento de qualquer outro órgão do Tribunal (art. 1.043, I e III do CPC/15), devendo o dissenso ser comprovado na forma do art. 266, § 4º, do RISTJ.
+A jurisprudência da Corte firmou-se no mesmo sentido do acórdão embargado, incidindo a Súmula 168/STJ: Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado, como seguem:
+TRIBUTÁRIO. COMPENSAÇÃO. DENÚNCIA ESPONTÂNEA. IMPOSSIBILIDADE.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça .
+2. A jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que é incabível a aplicação do benefício da denúncia espontânea, previsto no art. 138 do CTN, aos casos de compensação tributária, justamente porque, nessa hipótese, a extinção do débito estará submetida à ulterior condição resolutória da sua homologação pelo Fisco, a qual, caso não ocorra, implicará o não pagamento do crédito tributário, havendo, por consequência, a incidência dos encargos moratórios. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no REsp 1308902/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 10/04/2018, DJe 17/05/2018);
+TRIBUTÁRIO. COMPENSAÇÃO. ART. 138 DO CTN. DENÚNCIA ESPONTÂNEA NÃO CONFIGURADA.
+1. Hipótese em que o Tribunal local consignou: "o instituto da denúncia espontânea é perfeitamente aplicável aos casos em que o pagamento do tributo é realizado através da compensação" (fl. 665, e-STJ).
+2. A Segunda Turma do STJ no julgamento do REsp 1.461.757/RS, de relatoria do Ministro Mauro Campbell Marques, firmou o entendimento de que "a extinção do crédito tributário por meio de compensação está sujeita à condição resolutória da sua homologação. Caso a homologação, por qualquer razão, não se efetive, tem-se por não pago o crédito tributário declarado, havendo incidência, de consequência, dos encargos moratórios. Nessa linha, sendo que a compensação ainda depende de homologação, não se chega à conclusão de que o contribuinte ou responsável tenha, espontaneamente, denunciado o não pagamento de tributo e realizado seu pagamento com os acréscimos legais, por isso que não se observa a hipótese do art. 138 do CTN".
+3. Recurso Especial provido.
+(REsp 1657437/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/04/2017, DJe 25/04/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SUPOSTA OFENSA AO ARTIGO 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. DISPOSITIVOS APONTADOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. TRIBUTÁRIO. COMPENSAÇÃO. DENÚNCIA ESPONTÂNEA NÃO CONFIGURADA. AGRAVO NÃO PROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo." (Súmula 211/STJ).
+3. "A extinção do crédito tributário por meio de compensação está sujeita à condição resolutória da sua homologação. Caso a homologação, por qualquer razão, não se efetive, tem-se por não pago o crédito tributário declarado, havendo incidência, de consequência, dos encargos moratórios. Nessa linha, sendo que a compensação ainda depende de homologação, não se chega à conclusão de que o contribuinte ou responsável tenha, espontaneamente, denunciado o não pagamento de tributo e realizado seu pagamento com os acréscimos legais, por isso que não se observa a hipótese do art. 138 do CTN".
+(AgRg no AREsp 174.514/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 04/09/2012, DJe 10/09/2012)
+4. Agravo regimental não provido.
+(AgRg no REsp 1461757/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/09/2015, DJe 17/09/2015)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. COMPENSAÇÃO. DENÚNCIA ESPONTÂNEA. NÃO CARACTERIZAÇÃO. PRETENSÃO QUE ENCONTRA ÓBICE NA SÚMULA N. 7 DO STJ. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC.
+1. A revisão da conclusão do acórdão recorrido, no sentido da ausência de direito líquido e certo a ser amparado pelo mandamus, importaria em novo exame do conjunto fático-probatório dos autos.
+Precedentes: AgRg no AREsp 144.012/MA, Rel. Ministro Humberto Martins, Segunda Turma, DJe 15/05/2012; AgRg no AREsp 98.066/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23/04/2012; REsp 1206178/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 17/11/2011; AgRg no Ag 1378589/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 13/09/2011.
+2. A extinção do crédito tributário por meio de compensação está sujeita à condição resolutória da sua homologação. Caso a homologação, por qualquer razão, não se efetive, tem-se por não pago o crédito tributário declarado, havendo incidência, de consequência, dos encargos moratórios. Nessa linha, sendo que a compensação ainda depende de homologação, não se chega à conclusão de que o contribuinte ou responsável tenha, espontaneamente, denunciado o não pagamento de tributo e realizado seu pagamento com os acréscimos legais, por isso que não se observa a hipótese do art. 138 do CTN.
+3. Agravo regimental não provido.
+(AgRg no AREsp 174.514/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 04/09/2012, DJe 10/09/2012)
+Por conseguinte, verifica-se que as insurgências traduzem mero inconformismo com o decidido no acórdão impugnado.
+Isto posto, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO dos Embargos de Divergência.
+Publique-se e intimem-se.
