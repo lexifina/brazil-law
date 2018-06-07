@@ -1,0 +1,17 @@
+DECISÃO
+Vistos.
+Trata-se de mandado de segurança, com pedido liminar, impetrado por [NOME], apontando como autoridade coatora o Exmo. Desembargador Presidente do Tribunal de Justiça do Estado de Minas Gerais.
+O Impetrante indica como ato coator a omissão da referida autoridade em efetivar sua nomeação para o cargo de Oficial de Justiça Avaliador, tendo em vista que foi aprovado em 1º lugar na Comarca de Itamarandiba/MG, ressaltando o caráter ilícito da realização de concurso apenas para cadastro reserva.
+Feito breve relato, decido.
+Nos termos do art. 105, I, b, da Constituição da República, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+Com efeito, verifica-se que não está inserida no rol das hipóteses constitucionais a apreciação originária de ações mandamentais contra atos de outros Tribunais ou de seus respectivos órgãos, consoante dispõe o enunciado sumular n. 41/STJ:
+O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros Tribunais ou dos respectivos órgãos.
+Nesse sentido:
+MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA DECISÃO DE 1ª INSTÂNCIA E ACÓRDÃO DO TRIBUNAL DE JUSTIÇA. MANIFESTA INCOMPETÊNCIA DO STJ. SÚMULA 41/STJ. ATO JUDICIAL. INEXISTÊNCIA DE MANIFESTA TERATOLOGIA OU ABSURDO. PREVISÃO DE RECURSO CABÍVEL. SÚMULA 267/STF. INDEFERIMENTO LIMINAR DO WRIT.
+1. A parte impetrante aponta como atos coatores decisões judiciais de Juiz, Desembargadores e Ministros, ou seja, vários atos e várias autoridades, não cabendo neste Mandado de Segurança a análise de todos. A uma, "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos" (Súmula n.º 41 do STJ). A duas, "descabida a impetração do mandado de segurança contra ato jurisdicional dos órgãos fracionários ou de relator desta Corte Superior. Deveras, o artigo 11,IV, do Regimento Interno do Superior Tribunal de Justiça, que estabelece a competência da Corte Especial para julgar os mandados de segurança contra ato do próprio Tribunal, conforme preceitua o artigo 105, inciso I, "b", da Constituição Federal, não se refere a atos judiciais, mas, sim, aos de ordem administrativas" (AgRg no MS 21.063/DF, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 05/11/2014, DJe 17/11/2014).
+2. No presente caso, considera-se ato coator decisão judicial proferida em processo em que se buscava anular contrato de compra e venda. Ocorre que é descabida a impetração do mandado de segurança contra o referido ato jurisdicional, pois o ajuizamento de mandado de segurança contra decisão judicial pressupõe a inexistência de recurso cabível contra tal ato, bem como que ele seja manifestamente teratológico ou absurdo, o que não ocorreu no presente caso.
+3. Agravo regimental não provido.
+(AgRg no MS 21.368/MG, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 17/12/2014, DJe 19/12/2014)
+Isto posto, nos termos dos arts. 34, XIX e 212 do RISTJ, declaro a incompetência desta Corte para conhecer e julgar a presente ação e determino a remessa dos autos ao Tribunal de Justiça do Estado de Minas Gerais, nos termos do art. 64, § 3º, do Código de Processo Civil de 2015.
+Cumpra-se com urgência.
+Publique-se. Intimem-se.
