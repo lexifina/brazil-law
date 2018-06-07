@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo interposto da decisão que não admitiu recurso extraordinário interposto contra acórdão da Oitava Turma Especializada do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO - FARMACÊUTICA - ACUMULAÇÃO DE CARGOS - COMPATIBLIDADE DE HORÁRIOS - POSSIBILIDADE.
+    I - Trata-se de Apelação interposta, em face da sentença proferida nos autos da ação ordinária nº2011.51.01.008103-0, que julgou improcedente o pedido objetivando o provimento jurisdicional para a garantia da permanência no exercício dos dois cargos públicos de farmacêutica.
+    II - O cerne da questão consiste na possibilidade, ou não, de a apelante acumular os cargos públicos de farmacêutica que ocupa, no Hospital Federal de Bonsucesso com carga horária de 30 (trinta) horas semanais, e na Subsecretaria de Vigilância, Fiscalização Sanitária e Controle de Zoonoses, vinculada à Prefeitura Municipal do Rio de Janeiro, com carga horária de 24 horas semanais.
+    III - A garantia de acumulação de dois cargos privativos de profissionais de saúde encontra previsão no art. 37, inciso XVI, alínea, "c", da Constituição Federal, com a redação dada pela Emenda Constitucional nº 34, de 13 de dezembro de 2001.
+    IV - A Constituição Federal, em seu art. 37, XVI, bem como, a Lei 8.112/90, em seu art. 118, § 2° condicionam a acumulação à compatibilidade de horários, não havendo qualquer previsão de carga horária máxima.
+    V - Comprovada a compatibilidade de horários como, de fato, ocorreu no caso em análise, e estando os cargos dentro do rol taxativo previsto na Constituição Federal, não há que se falar em ilegalidade na acumulação.
+    VI - Apelação a que se dá provimento.”
+    Alega-se, no apelo extremo, violação do artigo 37, caput e inciso XVI, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que para ultrapassar o entendimento do Tribunal de origem acerca da compatibilidade de horários dos cargos ocupados pela autora, ora recorrida, demandaria, induvidosamente, o revolvimento do conjunto fático-probatório dos autos, procedimento vedado em sede extraordinária. Incidência, na espécie, da Súmula nº 279/STF. Sobre o tema:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CUMULAÇÃO DE CARGOS OCORRIDA EM 1990. PROFISSIONAL DA SAÚDE. ART. 17, § 2º, DO ADCT E ART. 37, XVI, C, DA CONSTITUIÇÃO. IMPOSSIBILIDADE. VERIFICAÇÃO DE COMPATIBILIDADE DE HORÁRIOS. EXAME DE MATÉRIA FÁTICA. SÚMULA 279. AGRAVO IMPROVIDO. I – A regra prevista no art. 17, § 2º, do ADCT assegura a acumulação de dois cargos privativos de profissionais de saúde àqueles que, à época da promulgação da Carta de 1988, estavam exercendo os cargos. II – A redação original do art. 37, XVI, c, da Constituição autorizava apenas a acumulação de dois cargos privativos de médico, não abrangendo os cargos privativos de profissionais de saúde contemplados posteriormente pela Emenda Constitucional 34/2001. III – A verificação da compatibilidade de horários dos cargos exercidos pelo agravante demandaria o reexame do conjunto fático-probatório dos autos, o que inviabiliza o recurso extraordinário, nos termos da Súmula 279 desta Corte. IV – Agravo regimental improvido” (RE nº 570.213/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 26/5/11).
+    ”Agravo regimental no agravo de instrumento. Servidor público estadual. Acumulação de cargos. Compatibilidade de horários. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes. 1. A verificação da compatibilidade de horários em relação aos cargos exercidos pelo ora agravado demandaria a análise da legislação local, bem como dos fatos e das provas dos autos, o que encontra óbice nas Súmulas ns. 280 e 279/STF. 2. Agravo regimental não provido” (AI nº 730.343-AgR, Primeira Turma, de minha relatoria, DJe de 14/12/12).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS: PROFISSIONAIS DE SAÚDE. COMPATIBILIDADE DE HORÁRIOS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO” (ARE nº 748.734/RJ, Relatora a Ministra Cármen Lúcia, DJe de 22/8/13).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 7 de junho de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
