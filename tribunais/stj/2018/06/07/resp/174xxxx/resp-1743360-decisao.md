@@ -1,0 +1,61 @@
+DECISÃO
+[NOME] e outra ajuizaram ação contra o Estado do Paraná e o Município de Curitiba no intuito de obterem indenização, por danos morais e materiais, decorrente da morte de familiar que sofria de esquizofrenia com retardo mental e transtorno bipolar, alvejado por tiros desferidos pela Polícia Militar.
+ O pedido foi parcialmente acolhido (fls. 48-55), condenando o Estado ao pagamento do valor de R$ 15.000,00 (quinze mil reis) por danos morais.
+ Em grau recursal, o Tribunal de Justiça do Estado do Paraná manteve a sentença, nos termos da seguinte ementa (fls. 94-95):
+APELAÇÃO CÍVEL E AGRAVO RETIDO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONDUTA ILÍCITA DE POLICIAL MILITAR. DISPARO DE ARMA DE FOGO CONTRA PESSOA PORTADORA DE ESQUIZOFRENIA COM RETARDO MENTAL E TRANSTORNO BIPOLAR. ATENDIMENTO AO DISPOSTO NO ART. 523, CAPUT E § 1º DO CPC/73, VIGENTE À ÉPOCA DA INTERPOSIÇÃO DO AGRAVO. ALEGAÇÃO DE ILEGITIMIDADE ATIVA DE UM DOS REQUERENTES, ORA APELADOS. NÃO ACOLHIMENTO. TIA QUE POSSUÍA LAÇOS AFETIVOS COM A VÍTIMA. AGRAVO DESPROVIDO. RESPONSABILIDADE CIVIL DO ESTADO VERIFICADA. MODALIDADE OBJETIVA. CONDUTA, DANO E NEXO CAUSAL COMPROVADOS. VERBA INDENIZATÓRIA QUE SE MOSTRA JUSTA E RAZOÁVEL. TERMO INICIAL DE JUROS DE MORA DA CONDENAÇÃO. OBSERVÂNCIA DA SÚMULA 45 DO STJ, QUE PROIBE A "REFORMATIO IN PEJUS" EM DESFAVOR DA FAZENDA PÚBLICA. REEXAME NECESSÁRIO NÃO CONHECIDO. RECURSO DESPROVIDO.
+O Estado do Paraná interpõe recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando violação do art. 407 do Código Civil, afirmando que os juros de mora devem incidir somente a partir da fixação, conforme definido pelo REsp n. 1.479.864/SP, julgado sob o rito dos repetitivos.
+Não foram apresentadas contrarrazões (fl. 126).
+É o relatório. Decido.
+Inicialmente cumpre salientar que, na sessão de julgamento de 04.10.2017, a Corte Especial deliberou pela desafetação do REsp n. 1.479.864/SP do rito dos repetitivos, cancelando-se o respectivo Tema.
+Ao apreciar o recurso, a Terceira Turma dirimiu a controvérsia nos termos assim ementados (g.n.):
+RECURSOS ESPECIAIS. RESPONSABILIDADE CIVIL. ACIDENTE FERROVIÁRIO. ATROPELAMENTO EM VIA FÉRREA. MORTE DE TRANSEUNTE. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 13ª PARCELA DO PENSIONAMENTO. DESCABIMENTO NO CASO. VALOR DA INDENIZAÇÃO. ÓBICE DA SÚMULA 7/STJ. JUROS DE MORA. TERMO "A QUO". DATA DO EVENTO DANOSO. RESPONSABILIDADE EXTRACONTRATUAL. DISPOSITIVO DE LEI FEDERAL. AUSÊNCIA DE INDICAÇÃO. ÓBICE DA SÚMULA 284/STF.
+1. Recursos oriundos de ação de indenização por danos morais e materiais decorrentes de acidente ferroviário.
+2. A responsabilidade civil por danos causados por acidente ferroviário é, em regra, contratual quando o evento esteja relacionado com contrato de transporte previamente celebrado com a empresa responsável pela ferrovia, sendo extracontratual nas demais hipóteses em que não exista prévio vínculo contratual.
+3. Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual, nos termos da Súmula 54/STJ.
+4. Aplicação da Súmula 54/STJ tanto para a indenização por danos materiais como para a por danos morais.
+5. RECURSO ESPECIAL DA EMPRESA DEMANDADA.
+5.1. Descabimento da parcela correspondente ao 13º salário a título de pensionamento na hipótese em que a vítima não possuía vínculo empregatício na data do acidente. Precedentes.
+5.2. Inviabilidade de se revisar o valor da indenização arbitrada pelo Tribunal de origem em razão do óbice da Súmula 7/STJ, ressalvadas as hipóteses de arbitramento em valor excessivo ou irrisório, o que não se verifica na espécie.
+5.3. Incidência de juros de mora desde o evento danoso, seja quanto à indenização por danos morais, seja quanto à por danos materiais, por se tratar de responsabilidade extracontratual no caso de atropelamento de transeunte em via férrea.
+6. RECURSO ESPECIAL DOS DEMANDANTES.
+6.1. Imprescindibilidade da indicação do dispositivo de lei federal objeto de divergência jurisprudencial, ainda na hipótese de dissídio notório, por se tratar de requisito que emana do diretamente art. 105, inciso III, alínea "c", da Constituição Federal, ao enunciar que cabe recurso especial quando a decisão recorrida "der à lei federal" interpretação divergente da que lhe haja atribuído outro tribunal.
+6.2. Impossibilidade de saneamento do vício de pelo órgão julgador, sob pena de ofensa aos princípios da imparcialidade e do contraditório. Julgado específico da Corte Especial.
+7. RECURSO ESPECIAL DA EMPRESA DEMANDADA PARCIALMENTE PROVIDO E RECURSO ESPECIAL DOS DEMANDANTES NÃO CONHECIDO.
+(REsp 1479864/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/03/2018, DJe 11/05/2018)
+In casu, sobre o termo inicial dos juros moratórios, o acórdão recorrido assentiu (fl. 116):
+Por fim, insurge-se o apelante aduzindo que o termo inicial dos juros de mora incidentes sobre a verba indenizatória deve ser a partir do arbitramento da indenização em detrimento da citação.
+Não lhe assiste razão.
+Ocorre que, no entendimento desta Câmara, os juros de mora devem ser apurados pela variação do índice oficial de remuneração da caderneta de poupança desde o evento danoso, de acordo com a Súmula nº 54 do STJ.
+Entretanto, tendo em vista que a sentença determinou que os juros de mora devem se dar a partir da citação, eventual alteração acarretaria em reformatio in pejus à Fazenda Pública, o que é vedado pela Súmula nº 45 do STJ.
+Assim, mantém-se fixação do termo inicial dos juros moratórios conforme na sentença.
+Veja-se que o entendimento preconizado pelo acórdão recorrido sobre o termo inicial dos juros moratórios em se tratando de indenização extracontratual, encontra-se em perfeita sintonia com a jurisprudência do Superior Tribunal de Justiça, não só espelhada pelo citado precedente, mas também, como pelo entendimento jurisprudencial pacificado:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. ACIDENTE DE TRÂNSITO. REEXAME DE PROVA. ENUNCIADO N. 7 DA SÚMULA DO STJ. VALOR INDENIZATÓRIO. PROPORCIONALIDADE E RAZOABILIDADE. MANUTENÇÃO. ENTENDIMENTO ADOTADO NESTA CORTE. JUROS DE MORA. SÚMULA 54 DO STJ.
+1. Inviável o recurso especial cuja análise das razões impõe reexame do contexto fático-probatório da lide, nos termos da vedação imposta pela Súmula n. 7 do STJ.
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. O termo inicial para a incidência dos juros moratórios, em caso de indenização por danos morais, é a data do evento danoso, nos termos da Súmula n. 54 do STJ. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1060780/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/11/2017, DJe 21/11/2017)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. ÍNDICES DE CORREÇÃO MONETÁRIA E JUROS DE MORA. ART. 1º-F DA LEI N. 9.494/1997, COM REDAÇÃO DA LEI N. 11.960/2009. RESPONSABILIDADE DO ESTADO. ACIDENTE RODOVIÁRIO. DANO MORAL. PARÂMETROS. RESP REPETITIVO 1.495.146/MG.
+1. A Primeira Seção desta Corte Superior, reexaminando a questão relativa à aplicação do art. 1º-F da Lei n. 9.494/1997, com a redação dada pela Lei n. 11.960/2009, após a decisão do Supremo Tribunal Federal no RE 870.947/SE, estabeleceu que as condenações de natureza administrativa em geral se sujeitam aos seguintes encargos: "(a) até dezembro/2002: juros de mora de 0,5% ao mês; correção monetária de acordo com os índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) no período posterior à vigência do CC/2002 e anterior à vigência da Lei 11.960/2009: juros de mora correspondentes à taxa Selic, vedada a cumulação com qualquer outro índice; (c) período posterior à vigência da Lei 11.960/2009: juros de mora segundo o índice de remuneração da caderneta de poupança; correção monetária com base no IPCA-E" (REsp 1.495.146/MG, Rel. Ministro Mauro Campbell Marques, julgado em 22/2/2018, DJe 2/3/2018).
+2. "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual" (Súmula 54/STJ).
+3. "A correção monetária do valor da indenização do dano moral incide desde a data do arbitramento" (Súmula 362/STJ).
+4. Embargos de declaração acolhidos.
+(EDcl no REsp 1290999/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 24/04/2018, DJe 30/04/2018)
+RECURSO ESPECIAL. DIREITO CIVIL. PROCESSUAL CIVIL. ARTS. 458 E 535 DO CPC/1973. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DISPOSITIVOS CONSTITUCIONAIS. VIOLAÇÃO. INADEQUAÇÃO DA VIA ELEITA. COMPETÊNCIA EXCLUSIVA DO SUPREMO TRIBUNAL FEDERAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS E MATERIAIS. ACIDENTE AUTOMOBILÍSTICO. TRANSPORTE DE PASSAGEIROS. MORTE DE GENITOR. FILHAS MENORES. PENSIONAMENTO MENSAL. DEPENDÊNCIA ECONÔMICA. PRESUNÇÃO. VÍTIMA. VERBA INDENIZATÓRIA. DEMORA PARA AJUIZAMENTO DA DEMANDA. DESINFLUÊNCIA NO ARBITRAMENTO. RAZOABILIDADE. JUROS DE MORA. TERMO INICIAL. SÚMULA Nº 54/STJ.
+1. Na origem, trata-se de ação indenizatória ajuizada em abril de 2009 pelas filhas de vítima de acidente automobilístico ocorrido em outubro de 1991 provocado por condutor de ônibus de propriedade da empresa ré. Autoras que, à época do evento danoso, eram absolutamente incapazes, atingindo a maioridade relativa apenas em dezembro de 2004 e março de 2008, respectivamente.
+2. Recurso especial interposto pela empresa ré objetivando ver reduzida a verba indenizatória fixada na origem (no valor de 100  cem  salários mínimos  ou R$ 54.500,00 - cinquenta e quatro mil e quinhentos reais  pelos danos morais suportados por cada uma das duas filhas da falecida vítima), afastado o pensionamento mensal e fixada a data em que proferida a sentença como termo inicial de incidência dos juros moratórios.
+ ..
+7. A teor do que expressamente estabelece a Súmula nº 54/STJ, em caso de responsabilidade extracontratual, os juros moratórios fluem a partir do evento danoso.
+8. No caso, estabelecendo as instâncias de origem a data da citação como termo inicial de incidência dos juros de mora sobre a indenização devida, descabe, em recurso especial exclusivo da parte requerida, a adequação de tal entendimento à inteligência da Súmula nº 54/STJ, sob pena de indevida reformatio in pejus.
+9. Recurso especial parcialmente conhecido e não provido.
+(REsp 1529971/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/09/2017, DJe 19/09/2017)
+PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE DE TRÂNSITO. DEVER DE INDENIZAR. CONFIGURAÇÃO DOS REQUISITOS. REVISÃO DO ENTENDIMENTO DO TRIBUNAL DE ORIGEM. REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DANOS MORAIS. RESPONSABILIDADE EXTRACONTRATUAL. SÚMULA 54/STJ.
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 1.022 do CPC/2015 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+ ..
+4. O termo inicial de juros de mora nos casos de indenização por danos morais por responsabilidade extracontratual é o evento danoso, conforme Súmula 54/STJ ("Os juros moratórios fluem a partir do evento danoso em caso de responsabilidade extracontratual"). A propósito: REsp 1.301.595/RJ, Rel. Ministro Herman Benjamin, Corte Especial, DJe 7.4.2015.
+5. Recurso Especial parcialmente conhecido e, nessa extensão, desprovido.
+(REsp 1673264/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/08/2017, DJe 12/09/2017)
+Observado que o entendimento aqui consignado, lastreado na jurisprudência, é prevalente no Superior Tribunal de Justiça, aplica-se o enunciado da Súmula n. 568/STJ, in verbis:
+O relator, monocraticamente e no STJ, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RI/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
