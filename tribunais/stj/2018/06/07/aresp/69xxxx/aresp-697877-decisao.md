@@ -1,0 +1,28 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. CANDIDATO APROVADO FORA DO NÚMERO DE VAGAS. MERA EXPECTATIVA DE DIREITO. DISPOSITIVO LEGAL VIOLADO. AUSÊNCIA DE INDICAÇÃO. SÚMULA 284/STF. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por RENATA ABUNAHMAN RINALDI com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO E CONSTITUCIONAL. CONCURSO PÚBLICO.
+PETROBRÁS. 1) Se a Administração, durante o prazo de validade do concurso, contrata terceiros em situação precária em detrimento dos profissionais aprovados, transmuda-se em direito subjetivo a mera expectativa que estes possuem no que tange à convocação. 2) Contratação de terceiros que, entretanto, deve ser cabalmente demonstrada. 3) Documentação existente que, embora seja farta em demonstrar que a demandada, de fato, terceiriza diversos de seus serviços, não logra êxito em demonstrar a existência de correlação entre as contratações efetivadas por ela através de interposta pessoa jurídica e o cargo pretendido pela autora - [NOME]. 4) Recurso ao qual se dá provimento (fls. 344).
+2. Em seu Apelo Nobre, a parte recorrente sustenta, em suma, que tem-se reconhecido o direito líquido e certo à nomeação de candidatos aprovados em cadastro de reserva, nos casos de contratação precária para o exercício do cargo efetivo no período de validade do certame.
+3. É o relatório.
+4. Não é possível conhecer do Recurso Especial fundado no art. 105, III, alíneas a e c da Constituição Federal, uma vez que o recorrente não indicou qual seria o dispositivo de Lei Federal de interpretação controvertida nos Tribunais, o que atrai a incidência do enunciado 284 da Súmula de jurisprudência do Supremo Tribunal Federal, por analogia.
+5. De qualquer forma, ainda quanto à alínea c, esta Corte entende que é necessária a indicação do dispositivo da legislação infraconstitucional federal sobre o qual recai a divergência, o que não foi realizado, sob pena de atração da Súmula 284/STF, por analogia (fundamentação deficiente). Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRANSFERÊNCIA DE TECNOLOGIA. CLÁUSULAS CONTRATUAIS. INTERPRETAÇÃO. SÚMULA Nº 5 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DIVERGÊNCIA JURISPRUDENCIAL. DISPOSITIVO LEGAL VIOLADO. AUSÊNCIA DE INDICAÇÃO. SÚMULA Nº 284/STF.
+1. A reapreciação da conclusão do aresto impugnado encontra óbice, no caso concreto, na Súmula nº 5 do Superior Tribunal de Justiça.
+2. Se nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+3. A mera transcrição de trecho do acórdão não serve para demonstrar precisamente o dispositivo legal tido como violado.
+4. Agravo regimental não provido (AgRg no REsp. 1.327.582/RS, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe 13.11.2015).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ALÍNEA C. INCIDÊNCIA DO VERBETE DA SÚMULA 284 DO STF. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Incide o verbete da Súmula 284 do STF quando o recorrente deixa de indicar qual dispositivo de lei federal teve sua interpretação divergente pelo Tribunal, mesmo quando o recurso foi interposto pela alínea "c" do permissivo constitucional.
+2. A análise da alegação recursal, no que tange à alegação de violação da coisa julgada, demandaria o reexame do conjunto fático-probatório, obstado nesta instância, conforme o disposto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento (AgRg no REsp. 1.347.791/DF, Rel. Min. OG FERNANDES, DJe 19.11.2015).
+
+ADMINISTRATIVO. AGRAVO REGIMENTAL CONTRA DECISÃO QUE NEGOU PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. ENSINO SUPERIOR. PREENCHIMENTO INCORRETO DE FICHA DE INSCRIÇÃO. MATRÍCULA NEGADA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. NÃO INDICAÇÃO DE DISPOSITIVOS LEGAIS SUPOSTAMENTE VIOLADOS. DISSÍDIO NOTÓRIO NÃO CARACTERIZADO SEQUER MINIMAMENTE ATRAVÉS DE COTEJO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para se comprovar a divergência é indispensável haver identidade ou similitude fática entre os acórdãos paradigmas e recorrido, bem como teses jurídicas contrastantes, de modo a demonstrar a alegada interpretação oposta. Tendo os arestos apontados como paradigmas sido colacionados apenas por suas ementas, impossibilitada a comprovação da identidade de bases fáticas entre os julgados em confronto.
+2. A alegação de notoriedade do dissídio não dispensa a mínima demonstração da ocorrência da divergência (AgRg nos EREsp. 909.177/MS, Rel. Min. GILSON DIPP, CE, DJe 7.6.2011).
+3. A recorrente não indicou quais dispositivos da legislação federal a decisão recorrida teria dado interpretação divergente da que lhe atribuiu outro Tribunal, circunstância que implica o não conhecimento do apelo com base na alegada divergência jurisprudencial, a teor do disposto na Súmula 284/STF, aplicável também ao recurso interposto pela alínea c.
+4. Agravo Regimental de ADRIANA MATARREDONA RABASSA a que se nega provimento (AgRg no AREsp. 22.776/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 16.11.2015).
+6. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial.
+7. Publique-se.
+8. Intimações necessárias.
