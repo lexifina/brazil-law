@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 247):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. BOLSA DE ESTUDOS. PROUNI. PRINCÍPIO DA RAZOABILIDADE. O fato de o candidato a bolsa de estudos pelo PROUNI ter cursado apenas seis meses em estabelecimento particular (curso supletivo), com o fim de concluir o segundo grau, não afasta sua condição de aluno egresso do Ensino Público. A negativa de matrícula não tem fundamento razoável.
+Nas suas razões, a parte recorrente aponta violação do art. 2º da Lei n. 11.096/2005. Para tanto, sustenta que o recorrido não preenche os requisitos legais para receber bolsa do PROUNI.
+Contrarrazões às e-STJ fls. 279/288.
+Juízo positivo de admissibilidade pelo Tribunal a quo (e-STJ fl. 291).
+Em parecer (e-STJ fls. 309/312), o Ministério Público Federal opinou pelo desprovimento do recurso especial.
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Isso considerado, cumpre consignar que, nos termos da Jurisprudência desta Corte, admite-se a aplicação da teoria do fato consumado nos casos em que a manutenção da situação consolidada pelo decurso do tempo gera menos prejuízo do que a observância do princípio da legalidade. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENSINO SUPERIOR. INGRESSO PELO SISTEMA DE COTAS RACIAIS E SOCIAIS. LIMINAR CONCEDIDA PARA INGRESSO NO CONCURSO VESTIBULAR DE 2008. MATRÍCULA EFETIVADA. PRECEDENTES DO STJ. OFENSA A DISPOSITIVO CONSTITUCIONAL. COMPETÊNCIA DO PRETÓRIO EXCELSO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade, razão pela qual não há que se falar em violação do art. 535, II do CPC.
+2. No caso dos autos, houve a concessão de liminar para determinar o ingresso no vestibular de 2008, através do sistema de cotas raciais e sociais, tendo sido efetivada a matrícula, não se afigurando razoável a reversão fática da situação após sete anos, tempo maior do que a duração do curso superior.
+3. O decurso de tempo consolida fatos jurídicos que devem ser respeitados, sob pena de causar à parte desnecessário prejuízo e afronta ao disposto no art. 462 do CPC.
+4. A ofensa a princípios e preceitos da Carta Magna não se revela passível de apreciação em sede de Recurso Especial.
+5. Agravo Regimental da UNIVERSIDADE FEDERAL DE SANTA CATARINA a que se nega provimento. (AgRg no Ag 1338054/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/10/2015, DJe 05/11/2015)
+ADMINISTRATIVO. PROCESSUAL CIVIL. DEMANDA CAUTELAR. EFEITO SUSPENSIVO A RECURSO ESPECIAL NÃO INTERPOSTO. EMBARGOS DE DECLARAÇÃO. FUNGIBILIDADE. AGRAVO REGIMENTAL. SÚMULAS 634 E 635/STF. LIMINAR. CURSO EM UNIVERSIDADE POR SEIS MESES. FATO CONSUMADO. INAPLICABILIDADE.
+1. Trata-se de Medida Cautelar preparatória movida contra reitor de Universidade para atribuir efeito suspensivo a Recurso Especial ainda não interposto, referente à decisão que recebeu Apelação em Mandado de Segurança no efeito devolutivo.
+2. O embargante foi classificado em 1º lugar da lista de espera e perdeu o prazo para declaração de interesse na vaga. Obteve liminar em Mandado de Segurança para garantir sua matrícula, frequentou aulas por seis meses e a decisão foi cassada por sentença, pendente o julgamento da Apelação.
+3. Por inexistir omissão, obscuridade ou contradição na decisão embargada e pelo princípio da fungibilidade recursal, recebem-se os presentes Embargos de Declaração como Agravo Regimental.
+4. Cabível Medida Cautelar no STJ com o intuito de emprestar efeito suspensivo, depois de aberta a instância especial, ou seja, após o juízo de admissibilidade do recurso pelo Tribunal de origem. Súmulas 634 e 635/STF.
+5. Não se aplica a teoria do "fato consumado" às situações em que liminar vigorou por apenas seis meses. Tal teoria tem valia em hipóteses extremas, de modo a não eternizar liminares indevidas e a não gerar expectativas de definitividade em juízos proferidos em cognição não exauriente, apenas em razão da demora do Judiciário. Cogita-se sua incidência quando a liminar permite a realização do curso por três a quatro anos, caso em que o interessado estaria "prestes a concluir o curso", o que não ocorreu. Precedentes do STJ.
+6. Agravo Regimental não provido. (EDcl na MC 19.817/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/09/2012, DJe 24/09/2012)
+No caso dos autos, observa-se que o recorrido obteve a liminar em 2010 (e-STJ fl. 53), a qual foi mantida pela sentença em 2011 (e-STJ fl. 187) e confirmada no acórdão exarado 2012 (e-STJ fl. 248).
+Diante desse contexto, não se afigura razoável a reversão fática da situação, uma vez que passados mais de 8 (oito) anos da data em que se determinou a inclusão do recorrido no PROUNI.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
