@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. CONCURSO INTERNO PARA PROMOÇÃO. ARTIGO SUPOSTAMENTE VIOLADO NÃO PREQUESTIONADO PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO DA FAZENDA DO ESTADO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Agravo em face de decisão que negou seguimento a Recurso Especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO, fundado na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+EMENTA: Ação declaratória de nulidade de ato jurídico - Policial Militar - Concurso interno para promoção de cabo PM - Sentença de improcedência reformada - Recurso provido (fls. 208).
+2. Nas razões de seu Apelo Nobre, a parte recorrente alega violação do art. 2o.-B da Lei 9.494/1997, ao argumento de que deve ser revogada a tutela antecipada, uma vez que implica na concessão de vantagens ao Servidor, sem que tenha ocorrido o trânsito em julgado.
+3. Sobreveio juízo negativo de admissibilidade (fls. 250), o que ensejou a interposição do presente Agravo (fls. 257/260).
+4. É o relatório. Decido.
+5. A irresignação não merece prosperar.
+6. Observa-se da leitura do acórdão recorrido, que a questão relacionada a previsão contida no art. 2o.-B da Lei 9.494/1997 não foi efetivamente debatida pelo Tribunal de origem e a parte interessada não opôs Embargos de Declaração com o fim de obter um pronunciamento pela Corte Regional acerca do mencionado tema; ausente, portanto, o indispensável prequestionamento, incidindo, no caso, o disposto nas Súmulas 282 e 356/STF. A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CANCELAMENTO DE REGISTRO ESPECIAL DE FABRICANTE DE CIGARROS. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. TUTELA ANTECIPADA. REEXAME FÁTICO-PROBATÓRIO.
+1. O Superior Tribunal de Justiça firmou jurisprudência no sentido de que "o julgamento pelo órgão colegiado via agravo regimental convalida eventual ofensa ao art. 557, caput, do CPC, perpetrada na decisão monocrática" (REsp n. 1.355.947/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 12/6/2013, DJe 21/6/2013). Portanto, inexistiu violação ao art. 557 do CPC/73.
+2. A tese jurídica defendida nas razões do apelo extremo (alegada supressão de instância) não foi enfrentada pela Corte de origem, carecendo tal premissa do necessário prequestionamento viabilizador das instâncias extraordinárias (Súmulas 282 e 356 do STF).
+3. A análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional (art. 273 do CPC/73) reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+4. Agravo interno desprovido (AgInt no AREsp. 934.294/SP, Rel. Min. GURGEL DE FARIA, DJe 26.6.2017).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LEGITIMIDADE ATIVA. ANÁLISE DO ESTATUTO SOCIAL DA ASSOCIAÇÃO. IMPOSSIBILIDADE DE REVISÃO DO ACERVO PROBATÓRIO. SÚMULA 07/STJ. VIOLAÇÃO DE NORMAS FEDERAIS. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 E 356/STF.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O Tribunal de origem não examinou a controvérsia sob o enfoque do contido no art. 21, VI, da Lei n.º 9.612/1998 e art. 19, XIX, da Lei n.º 9.472/1997 carecendo, portanto, do necessário prequestionamento, incidindo as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. O fundamento adotado no acórdão, ao firmar a legitimidade ativa da associação para pretensão, está atrelado ao objetivo instituído em seu estatuto social e a correlação com a demanda. Atrelando-se tal fundamento ao contexto fático-probatório da causa, para desconstitui-lo exige que se adote o mesmo procedimento, o que todavia escapa ao âmbito do recurso especial diante da Súmula 07/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. Agravo interno não provido (AgInt no AREsp. 1.020.187/SC, Rel. Min. MAURO CAMPBELL MARQUES, DJe 30.6.2017).
+7. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial da FAZENDA DO ESTADO DE SÃO PAULO.
+8. Publique-se. Intimações necessárias.
