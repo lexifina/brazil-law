@@ -1,0 +1,44 @@
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022, II, do CPC/2015.
+1. Inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, fundamento da decisão agravada, incidindo, na espécie, a Súmula 182/STJ.
+2. Verifica-se não ter ocorrido ofensa ao art. 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, conhecer parcialmente do agravo interno e, nessa extensão, negar-lhe provimento, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A hipótese é de agravo interno interposto pelo Estado de Pernambuco contra decisão que negou provimento ao agravo em recurso especial pelos seguintes fundamentos: (I) não houve ofensa ao art. 1022, II, do CPC/2015; (II) não cabe, em recurso especial, invocar violação a norma constitucional; (III) incidência da Súmula 284/STF com relação à tese de que inexiste relação de causalidade por fato praticado exclusivamente por terceiro não integrante da Administração; (IV) incidência da Súmula 7/STJ com relação ao pleito de redução do valor da indenização; (V) a aferição da sucumbência recíproca das partes demanda o reexame de provas, providência vedada pela Súmula 7/STJ.
+A parte agravante, em suas razões, alega que o acórdão recorrido foi omisso a respeito da violação ao art. 37, § 6º, da Constituição Federal e com relação ao art. 944 do Código Civil. Aduz, por outro lado, que a discussão envolve a divergência na aplicação de Lei Federal. Alega não incidir a Súmula 284/STF pelo disposto no acórdão e nas razões do recurso especial é possível perceber o cerne da controvérsia instaurada. Ademais, alega que não incide a Súmula 7/STJ, pois é perfeitamente possível mensurar o valor arbitrado a título de astreintes.
+O prazo para impugnação transcorreu in albis (fl. 516).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que submeto ao colegiado nos limites da insurgência.
+No caso, acerca da incidência da Súmula 7/STJ, a parte agravante, de forma dissociada, alega ser possível mensurar o valor arbitrado à título de astreints, uma vez que foi fixada de forma arbitrária e desproporcional. Contudo, a incidência do mencionado óbice se deu com relação ao valor da indenização.
+Já com relação à incidência da Súmula 284/STF, a parte não teceu fundamentação apta a afastar o mencionado óbice, que incidiu em razão da ausência de dispositivo legal, pois limitou-se a afirmar que pelo acórdão e pelas razões do recurso especial é possível perceber o cerne da controvérsia instaurada.
+Assim, a parte agravante deixou de rebater, de modo específico, os pontos da decisão agravada de incidência das Súmulas 7/STJ e 284/STF, o que atrai a incidência da Súmula 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida"). Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. EXAME DE MÉRITO DO RECURSO ESPECIAL PELA CORTE DE ORIGEM. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para viabilizar o prosseguimento do agravo, a irresignação recursal há de ser completa, especifica e objetiva. Não basta a impugnação genérica (Súmula 182/STJ).
+ ..
+3. Agravo regimental desprovido.
+(AgRg no AREsp 621.634/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, DJe 26/10/2015)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - ACIDENTE DE VEÍCULO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO COM BASE NA SÚMULA 182/STJ E APLICOU MULTA DE 1% SOBRE O VALOR DA CAUSA, FICANDO A INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO CONDICIONADA AO RECOLHIMENTO DO RESPECTIVO VALOR. INSURGÊNCIA DO AUTOR.
+1. Razões do agravo que não impugnaram especificamente os fundamentos invocados na decisão de inadmissão do recurso especial. Em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão agravada. Correta aplicação analógica da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. De acordo com a jurisprudência desta Corte, mesmo que o recorrente seja beneficiário da justiça gratuita, é indispensável o recolhimento da multa em questão, pois "o benefício da assistência judiciária não tem o condão de tornar o assistido infenso às penalidades processuais legais por atos de procrastinação ou litigância de má-fé por ele praticados no curso da lide." (EDcl no AgRg no Resp 1.113.799/RS).
+Portanto, caracterizada uma das hipóteses previstas no caput do art. 557 do CPC, autorizado estará o relator, desde logo, a aplicar multa sancionatória e, consequentemente, condicionar a interposição de qualquer outro recurso ao depósito do respectivo valor.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 239.360/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 1º/2/2016)
+Ademais, o Tribunal de origem manifestou-se a respeito do disposto no art. 37, § 6º, da CF/88 e com relação ao art. 944 do CC, notadamente com relação ao valor da indenização, conforme se verifica pelo seguinte excerto do acórdão recorrido (fls. 217/220):
+2.1. Da preliminar de ilegitimidade passiva ad causam arguida pelo Estado.
+Os danos morais buscados na presente ação se referem à emissão de via de identidade civil - RG - pelo Instituto de Identificação Tavares Buril, e sua entrega a pessoa que não a titular dos dados.
+Na forma do artigo 37, § 6o, da CF/88, o Estado é responsável pela conduta ilícita de seus agentes, que impliquem prejuízo aos indivíduos:
+Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, a Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte: (Redação dada pela Emenda Constitucional nº 19, de 1998)
+§ 6º As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.
+Assim, sendo a responsabilidade pela emissão errônea de via de identidade civil - RG - de órgão vinculado à Administração do Estado de Pernambuco, não há como não lhe atribuir a responsabilidade objetiva do dispositivo constitucional, porque o órgão em comento se encontra atrelado à Secretaria de Defesa Social do Estado.
+Rejeito a preliminar.
+(..)
+Por outro lado, verifico que o quantum indenizatório fixado em R$ 30.000,00 (trinta mil reais) revela-se suficiente à reparação do dissabor causado à autora ELIZÂNGELA IOLANDA DE ARAÚJO.
+De fato, ela suportou a perda do benefício do Bolsa Família por alguns meses, teve uma criança registrada em seu nome, de forma equivocada e, por fim, foi levada em viatura policial ao IITB para averiguação de sua identidade, quando da prisão em flagrante da falsária, que, aliás, já foi condenada criminalmente pelo estelionato.
+Assim, apesar do recurso adesivo comportar pedido para elevação dos danos morais, entendo que estes foram fixados de forma correta a reparar todo o constrangimento sofrido, do ponto de vista subjetivo/moral, fixados que foram de forma equilibrada e razoável.
+Sem mais delongas, resta demonstrado cabalmente o dano com o seu custo, a conduta ilícita, o nexo causai e o resultado, que consistiu no prejuízo moral em desfavor da autora.
+Pela transcrição, verifica-se não ter ocorrido ofensa ao art. 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
