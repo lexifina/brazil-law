@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C REPETIÇÃO DE INDÉBITO E LUCROS CESSANTES. AGRAVO DE INSTRUMENTO AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. . REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. A ausência de prequestionamento dos dispositivos de lei indicados como violados impede o conhecimento do recurso especial. Aplicação das Súmulas 211/STJ e 282/STF.
+2. O reexame de fatos e provas não é permitido na via especial ante o óbice da Súmula 7 desta Corte.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+O EXMO. SR. MINISTRO NANCY ANDRIGHI:
+Cuida-se de agravo manejado pela CAUZZO & MEIRELLES POLICLÍNICAS LTDA - EPP contra decisão unipessoal de fls. 1352/1354.
+Ação: rescisória de contrato c/c pedido de ressarcimento, repetição de indébito e lucros cessantes ajuizada por CAUZZO SERVIÇOS ASSISTENCIAIS LTDA, em face da ora agravante.
+Agravo de Instrumento: interposto pela recorrida contra decisão monocrática proferida em fase de cumprimento de sentença, a qual liberou parcialmente os valores penhorados.
+Acórdão: negou provimento ao agravo de instrumento interposto pela recorrente, nos seguintes termos:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DISSOLUÇÃO DE SOCIEDADE. VALOR BLOQUEADO. PRETENSÃO DE LIBERAÇÃO DESTE, SOB ARGUMENTO DE QUE DESTINADO PARA CUMPRIMENTO DE CONTRATO QUE, NO ENTANTO, JÁ SE ENCONTRA FINDADO FACE À NOTIFICAÇAO DE 12.4.2014. ADEMAIS, FACE À FALTA DE INTIMAÇÃO DA AGRAVANTE DA EXPEDIÇÃO DE ALVARÁ, TAL DECISÃO TORNOU- SE NULA.
+À UNANIMIDADE, DERAM PROVIMENTO AO RECURSO (e-STJ fl. 919).
+Decisão agravada: conheceu do agravo para negar provimento ao recurso especial da agravante, com base nos seguintes fundamentos: i) ausência de prequestionamento dos artigos 7º ao 10, 485, 492, 493 e 1013 do CPC, aplicando as Súmulas 211/STJ e 282/STF; e ii) incidência da Súmula 7/STJ, quanto à violação da coisa julgada e do cerceamento de defesa.
+Agravo interno: em suas razões recursais, a agravante defende a inaplicabilidade da Súmula 211/STJ, visto que houve o prequestionamento dos dispositivos de lei tidos como violados e que deve ser afastada a aplicação da Súmula 7/STJ, uma vez que é fato incontroverso que houve violação da coisa julgada pelo Tribunal de origem.
+Na oportunidade, reprisa a questão de mérito deduzida em seu recurso especial e pugna, por fim, pela reforma da decisão agravada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NANCY ANDRIGHI(RELATOR):
+O agravo interno não merece acolhida, porquanto os argumentos deduzidos nas razões recursais pela agravante são incapazes de alterar o julgado.
+A falta de prequestionamento é condição suficiente para obstar o processamento do recurso especial e exigência indispensável para o seu cabimento. Insatisfeito, este não supera o âmbito de sua admissibilidade, atraindo a incidência da Súmula 211 do STJ ou 282 do STF.
+Desse modo, conforme consignado na decisão ora agravada não houve o devido prequestionamento dos artigos 7º ao 10, 485, 493 e 1013 do CPC/2015, haja vista que tais dispositivos sequer constaram das razões dos embargos de declaração opostos pela recorrente, nem mesmo foram apreciados pelo Tribunal de origem. Não havendo, portanto, como afastar a Súmula 282/STF.
+ Quanto ao art. 492 do CPC/2015, observa-se que, embora tenha sido opostos embargos de declaração pela recorrente, o Tribunal de origem permaneceu silente acerca da matéria nele inserta. Assim, deveria o agravante ter interposto o apelo nobre por violação ao artigo 1.022, II, do CPC e não ter defendido a vulneração de dispositivo que não foi apreciado pela Corte a quo. Incide, portanto, a Súmula 211/STJ.
+Em relação à incidência da Súmula 7 do STJ, essa também deve ser mantida, haja vista que o Tribunal de origem ao apreciar as questões relativas à violação da coisa julgada e à ocorrência de cerceamento de defesa, entendeu que:
+No que diz respeito ao documento juntado antes do julgamento do agravo de instrumento e após a designação de sessão, esclareço que tal documento não foi levado em conta por ocasião da confecção do voto e, por isso, não causou qualquer nulidade. Não reconheço, pois, o alegado cerceamento de defesa.
+Não houve ofensa à coisa julgada relativa ao julgamento da apelação cível [CPF], uma vez que a análise efetivada no agravo de instrumento ampara-se em documentos já do conhecimento das partes e inegável o fato de que a embargante notificou a embargada em 2.4.2014 no sentido de que, no prazo de trinta dias do recebimento daquela notificação, não atenderia mais seus usuários, da Cauzzo Assistencial, rescindindo, assim, todo e qualquer contrato existente entre as partes, o que obrigou a embargada a criar os denominados CAM (Centro de Atendimento Médico) e CAD (Centro de Atendimentos e Diagnósticos).
+Apesar dos embargos de declaração n. [CPF] haver rejeitado os argumentos da embargada, bem como esclarecido que bastaria uma comunicação expressa da embargante para retornar o atendimento aos usuários da embargada, tal não ocorreu até o momento, pelo que se tem notícias nos autos. E, como ressaltado pela embargada, tal fato constou na Ata n. 3/2014, ocasião em que o administrador judicial afirmou que os custos com o contrato de prestação de serviços de saúde iriam até maio de 2014, data da rescisão efetivada naquele contrato.
+Ademais, o resultado do agir da embargante, mostrou-se por ocasião da liquidação judicial que foi processada em primeiro grau, demonstrando que a embargante não mais tinha condições de atender os usuários da embargada. Neste sentido o processo n. 027/1.14.0007951-9 disponível na Internet os principais atos, e cópias que acompanham a resposta aos embargos (e-STJ fls. 1045/1046).
+E, conforme consignado na decisão, rever tal entendimento, de fato, implicaria no reexame do acervo probatório dos autos, o que é obstado pelas supracitadas súmulas.
+Frise-se que, na hipótese, não se cuida de valoração de prova, o que é viável no âmbito do recurso especial, mas de reapreciação da prova buscando sufragar reforma na convicção do julgador sobre o fato, para, in casu, se ter como provado o que a Corte de origem afirmou não estar.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
