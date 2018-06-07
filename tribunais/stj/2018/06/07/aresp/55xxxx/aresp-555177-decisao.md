@@ -1,0 +1,9 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO EM RECURSO ESPECIAL DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. Trata-se de Agravo em Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a da Constituição da República, em adversidade ao acórdão proferido pelo egrégio Tribunal Regional Federal da 1a. Região, assim ementado:
+TRIBUTÁRIO - CONTRIBUIÇÃO PARA O PIS - MEDIDA PROVISÓRIA 1.212, DE 29.11.1995 - INCONSTITUCIONALIDADE DA COBRANÇA NO PERÍODO COMPREENDIDO ENTRE OUTUBRO/95 E FEVEREIRO/96 PRINCÍPIOS DA IRRETROATIVIDADE DA NORMA TRIBUTÁRIA E DA ANTERIORIDADE MITIGADA - APLICAÇÃO DA LEI COMPLEMENTAR 07/70 - INEXISTÊNCIA DE VÁCUO LEGISLATIVO - PRESCRIÇÃO - NOVO ENTENDIMENTO DO E. STJ EXPLICITADO NO JULGAMENTO DA ARGUIÇÃO DE INCONSTITUCIONALIDADE NOS AUTOS DO ERESP 644.736.
+2. A irresignação, contudo, não merece ser admitida, visto que a parte agravante não infirmou adequadamente os fundamentos da decisão agravada, qual seja, a incidência da Súmula 284 do STF, acerca da mera indicação dos arts. 488 e 535 do CPC (fls. 196/200). Na verdade, limitou-se a tecer considerações genéricas, sem, todavia, explanar de forma escorreita a fundamentação apta a impugnar a decisão hostilizada para ascender o seu Apelo Especial.
+3. Com efeito, o Agravo em Recurso Especial tem por escopo desconstituir a decisão de inadmissão de Recurso Especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados, com o fito de demonstrar o seu desacerto. Dessa forma, à míngua de impugnação pertinente, incólume fica a decisão agravada; aplicação por analogia da Súmula 182 do STJ.
+4. Diante dessas considerações, não se conhece do Agravo em Recurso Especial interposto pela FAZENDA NACIONAL.
+5. Publique-se.
+6. Intimações necessárias.
