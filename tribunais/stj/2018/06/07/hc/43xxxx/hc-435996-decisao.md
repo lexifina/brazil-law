@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, que deferiu parcialmente o pedido revisional.
+Consta dos autos que o paciente foi condenado à pena de 7 anos, 3 meses e 9 dias de reclusão, em regime inicial semiaberto, mais 16 dias-multa, pela prática do delito previsto no art. 157, § 2º, I e II, do Código Penal.
+Ato seguinte, a defesa apresentou pedido de revisão criminal perante a Corte estadual, a qual lhe deferiu parcialmente para reduzir a reprimenda final a 6 anos, 2 meses e 14 dias de reclusão, mais 15 dias-multa.
+No presente habeas corpus, alega a ocorrência de constrangimento ilegal sob o argumento de que a pena-base teria sido mantida acima do mínimo legal com fundamentação inidônea, razão pela qual deveria ser afastada com a consequente redução da sanção inicial. Argumenta, ainda, que a fração referente às majorantes do roubo teria sido fixada em patamar superior a 1/3 sem fundamentação concreta, malferindo, assim, a Súmula 443/STJ.
+Requer a concessão da ordem constitucional para que seja reduzida a reprimenda final.
+Indeferida a liminar, prestadas as informações, manifestou-se o Ministério Público Federal pela concessão da ordem.
+É o relatório.
+DECIDO.
+No concernente ao pleito de redução da pena-base, via de regra, não se presta o remédio heróico à revisão da dosimetria das penas estabelecidas pelas instâncias ordinárias. Contudo, a jurisprudência desta Corte admite, em caráter excepcional, o reexame da aplicação das penas, nas hipóteses de manifesta violação aos critérios dos arts. 59, 68, do Código Penal, sob o aspecto da ilegalidade, nos casos de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica.
+Colaciono, por oportuno, o trecho do acórdão de revisão criminal que analisou a dosimetria realizada pelo sentenciante (fls. 440/444):
+O postulado revisional merece parcial provimento.
+Extrai-se do pronunciamento que o Magistrado a quo fixou a sanção final em sete anos, três meses e nove dias de reclusão, bem como pagamento de dezesseis dias-multa, sob os seguintes fundamentos:
+Analisando as circunstâncias judiciais do art. 59 do Código Penal, tenho a culpabilidade como própria ao crime; o réu não registra antecedentes criminais, sendo tecnicamente primário; a respeito de sua conduta social vejo que é negativa diante da certidão de fls. 98-99; sobre sua personalidade, nada foi observado; o móvel do crime é inerente ao tipo penal; as circunstâncias foram normais à espécie; as conseqüências são graves, já que as vítimas recuperaram apenas dois celulares, contudo não podem mais usar os números por medo; as vítimas, com seus comportamentos, não contribuíram para a ocorrência do crime.
+Atenta às circunstâncias acima, fixo a pena base em 5 (cinco) anos e 5 (cinco) meses e 10 (dez) dias de reclusão e 12 (doze) dias-multa.
+Na segunda fase, verifico a agravante prevista no art. 61, II, "h", do Código Penal, porquanto uma das vítimas é maior de 60 (sessenta) anos (Ivo, fl. 8), Ainda, reconheço a atenuante da confissão espontânea, disposta no art. 65, III, "d", do mesmo diploma legal, razão pela qual fixo a pena em 5 (cinco) anos, 3 (três) meses e 15 (quinze) dias de reclusão. A pena de multa permanece inalterada.
+Na terceira fase, tendo em conta a incidência de 2 (duas) causas especiais de aumento de pena, acresce-se 3/8, resultando uma pena de 7 (sete) anos, 3 (três) meses e 9 (nove) dias de reclusão, e 16 (dezesseis) dias multa  ..1. (sic, fls. 20-21).
+Feito o registro, percebe-se que o fundamento utilizado pelo Juiz a quo não é suficiente para negativar a conduta social do agente, pois esbarra no enunciado sumular n. 444 do Superior Tribunal de Justiça, que dita: "É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena- base".
+Salienta-se que, quando da prolação da sentença em 14-2-2013 (fls. 22), a referida orientação sumular já havia sido publicada (13-5-2010).
+ ..
+Assim, a má conduta social deve ser afastada, mantendo-se apenas as conseqüências do crime como vetor apto a refletir na estipulação da pena-base.
+De fato, as vítimas tiveram prejuízo em razão da não recuperação integral dos objetos subtraídos, já que apenas dois celulares foram recuperados e os números respectivos, por precaução e segurança, não poderão mais ser usados, motivo pelo qual escorreita a fundamentação do julgado.
+ ..
+Portanto, a motivação utilizada afigura-se idônea para a estipulação das reprimendas acima do mínimo previsto para o tipo penal.
+Nesse contexto, afastada a má conduta social e presente tão somente uma circunstância judicial negativa, a pena mínima abstratamente cominada deve ser majorada em um sexto, perfazendo quatro anos e oito meses de reclusão e pagamento de onze dias-multa.
+Da mesma forma, vislumbra-se que não há reparo a ser feito na terceira fase da dosimetria no que tange às duas causas de especial aumento, quais sejam, emprego de arma e concurso de agentes.
+Com efeito, o Juízo a quo, embora tenha utilizado vetusto entendimento desta Corte quanto à fração de incremento à luz de o roubo ser duplamente circunstanciado, não perdeu de vista as particularidades da hipótese em concreto, expostas na fundamentação do julgado, a respeito das quais, muito bem observou a ilustrada Procuradora de Justiça oficiante:
+No que concerne a alteração da fração de aumento relativa às causas majorantes, percebe-se que o Magistrado singular apoiou-se na análise dos fatos procedida no bojo da própria sentença e considerou ser pertinente o aumento da pena em 3/8 na etapa final da dosimetria diante da forma como se deu o roubo  5 agentes, em concurso, utilizando uma arma de fogo e um pé de cabra, para invadir a residência da vítima [NOME], rendendo as 3 pessoas lá presentes e subtraindo delas seus bens móveis, mediante grave ameaça . Isso, em atenção à jurisprudência fixada pelo Tribunal Catarinense à época dos fatos (fls. 33).
+ ..
+Logo, como podem ser extraídas, da totalidade da sentença, situações concretas que autorizam a majoração em três oitavos, em virtude de duas causas de aumento, não há reparo a ser feito.
+Ademais, por se tratar de revisão criminal, que constitui ação autônoma de caráter excepcional, a alteração só seria possível no caso de erro crasso do julgador na terceira etapa do cômputo penal, o que não é o caso.
+Assim, a sanção deve ser redimensionada à vista do afastamento da má conduta social.
+A pena-base, com o incremento de um sexto em virtude das conseqüências do crime passa a ser quatro anos e oito meses.
+A reprimenda intermediária, sem retificação, tem uma circunstância agravante e outra atenuante, com decréscimo de um mês e vinte e cinco dias (fls. 21), restando em quatro anos, seis meses e cinco dias.
+Finalmente, na etapa ulterior, com o acréscimo de três oitavos em razão de duas causas de aumento, resulta em seis anos, dois meses e catorze dias de reclusão, a ser resgatada em regime inicialmente semiaberto.
+Outrossim, a pena pecuniária deve ser adequada para quinze dias- multa, tendo em vista a majoração de um sexto na primeira fase e de três oitavos na terceira.
+Com efeito, nota-se que a pena-base permaneceu acima do mínimo legal em razão das consequências do delito, consignando o Tribunal estadual que as vítimas tiveram prejuízo em razão da não recuperação integral dos objetos subtraídos, já que apenas dois celulares foram recuperados e os números respectivos, por precaução e segurança, não poderão mais ser usados, motivo pelo qual escorreita a fundamentação do julgado.
+Contudo, tem-se que tal fundamentação não revela-se idônea a justificar o incremento da pena-base, porquanto o prejuízo patrimonial é inerente ao próprio tipo penal violado, e o fato de as vítimas não poderem mais usar os números dos celulares somente justificaria o aumento da sanção inicial caso trouxesse algum prejuízo adicional aos ofendidos. Nesse sentido:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. CRIME DE CRIME DE FURTO QUALIFICADO. DOSIMETRIA DA PENA. PLEITO DE REDUÇÃO DA PENA-BASE. MOTIVOS DO DELITO. LUCRO FÁCIL. RAZÃO INERENTE AOS DELITOS PATRIMONIAIS. FUNDAMENTO INVÁLIDO. CONSEQUÊNCIAS DO DELITO. RECUPERAÇÃO PARCIAL DA RES FURTIVA. DECORRÊNCIA COMUM À ESPÉCIE. PREJUÍZO EXPRESSIVO PARA AS VÍTIMAS. MOTIVAÇÃO IDÔNEA. PRESENÇA DE DUAS MAJORANTES. FALTA DE FUNDAMENTAÇÃO PARA JUSTIFICAR A EXASPERAÇÃO DA PENA ALÉM DA FRAÇÃO MÍNIMA LEGAL. CRITÉRIO MATEMÁTICO. INCIDÊNCIA DA SÚMULA 443/STJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. Ainda que o prejuízo material - no caso a recuperação parcial da res furtiva - não tenha o condão de justificar, por si só, o aumento da pena, por configurar, em regra, fator comum à espécie (furto) - cujo dano moral é elementar do tipo -, quando o prejuízo se mostrar anormal ou expressivo, desbordando dos ínsitos à espécie, constitui justificativa válida para o desvalor. Precedentes.
+ ..
+5. Habeas corpus não conhecido, mas concedida a ordem de ofício para reduzir as penas dos pacientes [NOME] e JONATAN, respectivamente, a 8 anos, 10 meses e 20 dias de reclusão e 24 dias-multa, e a 7 anos, 1 meses e 10 dias de reclusão e 17 dias-multa.
+(HC 307.853/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/10/2016, DJe 25/10/2016)
+Com relação ao pleito de redução das majorantes de roubo, tem-se que as instâncias de origem apresentaram fundamentação concreta para a exasperação da fração de aumento quando mencionou que o delito foi praticado mediante o concurso de 5 agentes, em concurso, utilizando uma arma de fogo e um pé de cabra, para invadir a residência da vítima [NOME], rendendo as 3 pessoas lá presentes e subtraindo delas seus bens móveis, mediante grave ameaça. Assim, não há se falar em violação à Súmula 443/STJ. Nesse mesmo sentido, tem-se:
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO.
+ ..
+ROUBO CIRCUNSTANCIADO (ARTIGO 157, § 2º, INCISOS I, II e V, DO CÓDIGO PENAL). DOSIMETRIA. CAUSAS DE AUMENTO DE PENA. TRÊS MAJORANTES. ACRÉSCIMO DA REPRIMENDA EM 1/2. FUNDAMENTAÇÃO IDÔNEA E CONCRETA. OFENSA À SÚMULA 443 DESTA CORTE NÃO CONFIGURADA. PRECEDENTES DESTE STJ. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. É possível a exasperação da pena em patamar superior ao mínimo de 1/3 (um terço) quando há a presença de três causas de aumento previstas no § 2º do artigo 157 do Código Penal, desde que as circunstâncias do caso assim autorizem.
+2. Na hipótese, constata-se que o aumento da pena em 1/2 (metade) não foi efetuado tão-somente em razão da presença de três majorantes, encontrando-se perfeitamente justificado em fatores concretos, dadas as circunstâncias em que ocorreu o roubo em questão, inexistente, portanto, ilegalidade a ser sanada através de via eleita. Precedentes desta Corte Superior.
+ ..
+3. Habeas corpus não conhecido.
+(HC 314.301/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 16/02/2016, DJe 23/02/2016)
+Dessa forma, estando devidamente justificada a fixação do quantum de 3/8 na terceira fase da dosimetria, ausente qualquer ilegalidade a ser sanada por esta Corte superior.
+Passo, assim, à dosimetria.
+Afastada a circunstância judicial referente às consequências do delito, reduzo a pena-base ao mínimo legal, qual seja, 4 anos de reclusão, mais 10 dias-multa, a qual, mantém-se inalterada na segunda fase, não obstante a presença da atenaunte da confissão espontânea e da agravante do art. 61, II, h, do CP, conforme a Súmula 231/STJ. Por fim, exaspera-se a reprimenda em 3/8 pelas majorantes reconhecidas, restando a sanção final em 5 anos e 6 meses de reclusão, mais 13 dias-multa.
+Ante o exposto, concedo o habeas corpus para reduzir a reprimenda final a 5 anos e 6 meses de reclusão, mais 13 dias-multa.
+Publique-se.
+Intimem-se.
