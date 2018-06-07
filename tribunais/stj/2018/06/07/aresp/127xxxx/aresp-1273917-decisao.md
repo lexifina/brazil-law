@@ -1,0 +1,64 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. HOME CARE. PRESCRIÇÃO DO MÉDICO DO PACIENTE. POSSIBILIDADE NEGATIVA DE COBERTURA. ABUSIVIDADE. JURISPRUDÊNCIA. INAPLICABILIDADE DO CDC AOS CONTRATO DE AUTOGESTÃO. VIOLAÇÃO DE NORMAS QUE REGEM A RELAÇÃO CONTRATUAL. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por [NOME] EM SAUDE contra decisão do Tribunal de Justiça do Estado da Paraíba que negou seguimento a recurso especial com fundamento na alínea "a" do permissivo constitucional.
+A agravante infirmou os fundamentos da decisão agravada.
+Nas razões do recurso especial, a recorrente alega ofensa aos artigos 186, 188, e, 927 do Código Civil, e, 1º, inciso II, 35-F, e, 35-G, da Lei 9.656/98.
+Insurge-se, em síntese, contra o deferimento de indenização por danos morais, sem a ocorrência de ato ilícito.
+Defende, ainda, a redução do valor arbitrado a título de danos morais.
+Por fim, requer o afastamento da aplicação do Código de Defesa do Consumidor
+É o relatório.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Inicialmente, esclareço que em razão de o recurso ter sido interposto na vigência do Código de Processo Civil de 2015, o juízo de admissibilidade será realizado com base no regramento nele previsto, conforme Enunciado Administrativo nº. 3/STJ.
+Acerca da controvérsia em torno da recusa da Recorrente à cobertura do tratamento domiciliar pelo sistema home care, o acórdão reclamado deu solução à lide sob o seguinte enfoque:
+"Extrai-se da inicial que o Autor, [NOME], foi diagnosticado, em novembro de 2010, como portador de doença do neurônio motor, conhecido como [NOME] (ELA), evoluindo com tetraplegia.
+A médica geriatra, Dra. [NOME], indicou a internação domiciliar, de nominada "home care", com acompanhamento de
+"Art. 51. São nulas de pleno direito, entre outras, as cláusulas contratuais relativas ao fornecimento de produtos e serviços que:
+(..) IV - estabeleçam obrigações consideradas iníquas, abusivas, que coloquem o consumidor em desvantagem exagerada, ou seja, incompatíveis com a boa -fé ou a equidade.
+(..) § 1º. Presume-se exagerada, entre outros casos, a vantagem que:
+(..) II - restringe direitos ou obrigações fundamentais inerentes à natureza do contrato, de tal modo a ameaçar seu objeto ou o equilíbrio contratual.
+Ill - se mostra excessivamente onerosa para o consumidor, considerando-se a natureza e conteúdo do contrato, o interesse das partes e outras circunstâncias peculiares do caso." (grifo nosso).
+O sistema "home care" ou assistência domiciliar, segundo definição obtida do site do Hospital Albert Einstein (http: //www. einstei n. br/Hospital/home-ca re/o-que-e-home-ca re/Paginas/o-q ue- e-home-care.aspx), "é uma modalidade continuada de prestação de serviços na área da saúde que visa à continuidade do tratamento hospitalar no domicílio, realizado pela equipe multidisciplinar com a mesma qualidade, tecnologia e conhecimento. O atendimento domiciliar evita a permanência prolongada no hospital, a interrupção do cuidado ao paciente e o distanciamento dos profissionais envolvidos no tratamento. Entre seus benefícios está a diminuição dos riscos de infecção em ambientes hospitalares, a humanização do atendimento no ambiente domiciliar, redução de complicações clínicas e reinternações desnecessárias e otimização do tempo de recuperação do paciente. Regulamentada pela Anvisa por meio da Resolução nº 11 em 30.01.2006, a assistência domiciliar visa à estabilidade clínica e a superação do grau de dependência do paciente, reunindo no conforto domiciliar os cuidados e a atenção especializados".
+In casu, exigir que o paciente se locomova aos hospitais, clinicas e postos médicos, a fim de receber tratamento médico, é muito mais que abusivo, é desumano" (e-STJ fls. 582/584, gn, sic)
+No caso, o Tribunal a quo decidiu de modo integral e com fundamentação suficiente a controvérsia posta, trilhando caminho no sentido de que, diante da gravidade do estágio atual da parte Recorrida, há urgência/emergência para o tratamento, sendo inequívoco, consoante os laudos médicos, que este deve ser na forma domiciliar (home care), tratando-se, a recusa do plano de saúde, de ato ilegal e abusivo.
+Ademais, ressalto que, ao concluir pela abusividade da recusa ao atendimento domiciliar, prescrito por médico, a Corte local assentou entendimento alinhado à jurisprudência deste Superior Tribunal de Justiça.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. HOME CARE. RECUSA INDEVIDA. DANO MORAL. INDENIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. "O contrato de plano de saúde pode limitar as doenças a serem cobertas não lhe sendo permitido, ao contrário, delimitar os procedimentos, exames e técnicas necessárias ao tratamento da enfermidade constante da cobertura" (AgInt no AREsp n. 622.630/PE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 18/12/2017).
+2. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, o Tribunal de origem concluiu que seria indevida a recusa ao procedimento a que a agravada deveria ser submetida. Alterar esse entendimento demandaria reexame das provas produzidas nos autos, vedado em recurso especial.
+4. A recusa indevida da operadora de plano de saúde a autorizar o tratamento do segurado é passível de condenação por dano moral, uma vez que agrava a situação de aflição e angústia do enfermo, comprometido em sua higidez físico-psicológica. Precedentes.
+5. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1049408/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/03/2018, DJe 02/04/2018)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. PLANO DE SAÚDE. PRESTAÇÃO DE SERVIÇO HOME CARE. TRATAMENTO SOLICITADO PELO MÉDICO. REVISÃO DE CLÁUSULA CONTRATUAL ABUSIVA. AGRAVO DESPROVIDO.
+1. De acordo com a orientação jurisprudencial do STJ, o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma, sendo abusiva a cláusula contratual que exclui tratamento domiciliar quando essencial para garantir a saúde ou a vida do segurado.
+2. Agravo interno desprovido".
+(AgInt no AREsp 1204136/PE, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 22/03/2018, DJe 02/04/2018)
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. HOME CARE. COBERTURA. NEGATIVA INDEVIDA. PRECEDENTES. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Essa Corte possui o entendimento de que o serviço de home care (tratamento domiciliar) constitui desdobramento do tratamento hospitalar contratualmente previsto que não pode ser limitado pela operadora do plano de saúde e que, na dúvida, a interpretação das cláusulas dos contratos de adesão deve ser feita da forma mais favorável ao consumidor (REsp nº 1.378.707/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 15/6/2015).
+3. A [NOME] não apresentou argumento novo capaz de modificar a conclusão adotada, que se apoiou em entendimento aqui consolidado para dar provimento ao recurso especial manejado pela beneficiária.
+4. Em virtude da improcedência do presente recurso, e da anterior advertência quanto a aplicação do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa".
+(AgInt no AREsp 1201805/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/03/2018, DJe 20/03/2018)
+A revisão do valor arbitrado a título de indenização, por demandar reexame de provas, também é inviável no âmbito desta Corte Superior em razão, novamente, do óbice da Súmula 7/STJ.
+Excepcionalmente, quando o valor arbitrado na origem se mostrar ínfimo ou excessivo, admite-se a intervenção desta Corte para ajustar o quantum aos patamares da razoabilidade (AgRg no AREsp 211.917/RJ, Rel. Min. Sidnei Beneti, Terceira turma, julgado em 21/03/2013, DJe 02/04/2013).
+No caso concreto, não se pode reputar ínfima ou exorbitante a indenização de R$ 20.000,00 (vinte mil reais), arbitrada em função de negativa de cobertura de plano de saúde.
+Por fim, em que pese a inaplicabilidade da legislação consumerista ao caso dos autos, os fatos narrados pelo Tribunal de origem permitem identificar a infringência a outras normas que regem os planos de saúde, revelando a abusividade na negativa de cobertura. A fundamentação da Corte de origem se adequa à pacífica jurisprudência firmada por este Tribunal Superior no sentido de que o plano de saúde pode estabelecer as doenças que serão cobertas, mas não a terapêutica a ser aplicada na busca da cura.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. DECISÃO UNIPESSOAL. AGRAVO REGIMENTAL. NULIDADE. INEXISTENTE. PLANO DE SAÚDE. ENTIDADE DE AUTOGESTÃO. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. CONTRATO DE ADESÃO. CLÁUSULAS AMBÍGUAS E GENÉRICAS. INTERPRETAÇÃO EM FAVOR DO ADERENTE. NEGATIVA DE COBERTURA DE TRATAMENTO. [NOME]. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DANOS MORAIS. INADIMPLEMENTO CONTRATUAL. AGRAVAMENTO PSICOLÓGICO. VALOR ARBITRADO. SÚMULA 7/STJ. HONORÁRIOS RECURSAIS. LIMITE MÁXIMO ATINGIDO.
+1. Ação ajuizada em 11/09/13. Recurso especial interposto em 25/07/16 e concluso ao gabinete em 18/11/16. Julgamento: CPC/15.
+2. O propósito recursal é definir se há violação ao princípio do colegiado ante o julgamento monocrático da controvérsia, se incide o Código de Defesa do Consumidor nos plano de saúde de autogestão e se há abusividade na conduta da operadora, passível de compensação por danos morais, ao negar cobertura de tratamento ao usuário final. 3. O julgamento pelo órgão colegiado via agravo regimental convalida eventual ofensa ao art. 557, caput, do CPC/73, perpetrada na decisão monocrática. Tese firmada em acórdão submetido ao regime dos repetitivos.
+4. A Segunda Seção do STJ decidiu que não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo.
+5. A avaliação acerca da abusividade da conduta da entidade de autogestão ao negar cobertura ao tratamento prescrito pelo médico do usuário atrai a incidência do disposto no art. 423 do Código Civil, pois as cláusulas ambíguas ou contraditórias devem ser interpretadas em favor do aderente.
+6. Quando houver previsão contratual de cobertura da doença e respectiva prescrição médica do meio para o restabelecimento da saúde, independente da incidência das normas consumeristas, é dever da operadora de plano de saúde oferecer o tratamento indispensável ao usuário.
+7. O médico ou o profissional habilitado - e não o plano de saúde - é quem estabelece, na busca da cura, a orientação terapêutica a ser dada ao usuário acometido de doença coberta. Precedentes.
+8. Esse entendimento decorre da própria natureza do Plano Privado de Assistência à Saúde e tem amparo no princípio geral da boa-fé que rege as relações em âmbito privado, pois nenhuma das partes está autorizada a eximir-se de sua respectiva obrigação para frustrar a própria finalidade que deu origem ao vínculo contratual.
+9. Honorários advocatícios recursais não majorados, pois fixados anteriormente no patamar máximo de 20% do valor da condenação.
+10. Recurso especial conhecido e não provido.
+(REsp 1639018/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/02/2018, DJe 02/03/2018, grifou-se)
+Deixo de majorar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015 tendo em vista que o patamar fixado na origem encontra-se em seu limite máximo legal, consoante e-STJ fl. 250.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
