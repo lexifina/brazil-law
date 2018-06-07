@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação do art. 5º, LIV e LV, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    A Corte de origem decidiu a controvérsia em acórdão assim ementado:
+    "RECURSO EM SENTIDO ESTRITO - PRONÚNCIA - HOMICÍDIO QUALIFICADO - ART. 121, § 2°, II e IV, DO CÓDIGO PENAL - INCONFORMISMO DO RÉU - EXCESSO DE LINGUAGEM - PROCEDÊNCIA - INOBSERVÂNCIA DA REGRA DO ART. 413, § 1°, DO CPP - DECISÃO QUE EXTRAPOLA OS LIMITES LEGAIS - NOVO INTERROGATÓRIO DO RÉU - ALTERAÇÃO DO ART. 531 DO CPP DESNECESSIDADE - REGRA INAPLICÁVEL AOS PROCESSOS JÁ INSTRUÍDOS RECURSO PARCIALMENTE PROVIDO. É nula a decisão de pronúncia em que se emite juízo de valor acerca da procedência da acusação, em descumprimento à regra do art. 413, § 1º, do Código de Processo Penal. Considerando-se que, em matéria processual; tempus regit actum (art. 2° do Código de Processo Penal), inexiste direito na realização de novo interrogatório do réu para fins de adequar o procedimento à nova ordem instrutória estabelecida pelo art. 531 também do CPP com a reforma implantada pela Lei n°. 11.719/2008. Pronúncia anulada.”
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que a norma processual penal –  incluída a que dá nova disciplina ao interrogatório - não retroage, preservando-se os atos praticados anteriormente à sua vigência. Aplicação do princípio do tempus regit actum (art. 2º do CPP), razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “HABEAS CORPUS. CONSTITUCIONAL. PROCESSO PENAL MILITAR. CRIME DE CONCUSSÃO. APLICAÇÃO DO RITO PREVISTO NA LEI N. 11.719/2008 COM A REALIZAÇÃO DO INTERROGATÓRIO AO FINAL DA INSTRUÇÃO. PRETENSÃO DE REALIZAÇÃO DE NOVO INTERROGATÓRIO AO FINAL DA INSTRUÇÃO CRIMINAL. ART. 400 DO CÓDIGO DE PROCESSO PENAL. IMPOSSIBILIDADE. ATO PRATICADO CONFORME À LEI VIGENTE À ÉPOCA. TEMPUS REGIT ACTUM. ORDEM DENEGADA. 1. Interrogatório dos Pacientes ocorrido em data anterior à publicação da Lei n. 11.719/2008. Impossibilidade de realização de novo interrogatório. Aplicação do princípio do tempus regit actum. 2. Ordem denegada com revogação da liminar deferida.” (HC 123228, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 28-09-2015)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 07 de junho de 2018.
+Ministra Rosa Weber
+Relatora
