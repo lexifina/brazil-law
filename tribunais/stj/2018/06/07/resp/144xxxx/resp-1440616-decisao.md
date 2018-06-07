@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pela EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS , com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (e-STJ fl. 283):
+
+DIREITO ADMINISTRATIVO, CIVIL E PROCESSUAL CIVIL. CONCURSO PÚBLICO. [NOME]. PERÍCIA JUDICIAL. APTIDÃO DO CANDIDATO. PAGAMENTO DE SALÁRIOS RETROATIVOS. PEDIDO. INEXISTÊNCIA. DECISÃO ULTRA PETITA. INOCORRÊNCIA. PRECEDENTES DO STJ. CUSTAS PROCESSUAIS. CORREIOS. ISENÇÃO. DECRETO-LEI 509/69. APLICAÇÃO. HONORÁRIOS. ART. 20, § 40, DO CPC.
+APLICAÇÃO.
+Os aclaratórios foram rejeitados.
+Nas suas razões, a parte recorrente aponta violação dos arts. 460, 535, II, 884 e 885, do CPC/1973, sustentando a impossibilidade de pagamento retroativo de salários à data do ajuizamento da ação, uma vez que só é devido a partir do efetivo exercício do cargo. Alega, também, a necessidade de redução do quantum indenizatório.
+Por fim, aduz que não se pode conceder pagamento de salário a quem não trabalhou.
+Contrarrazões apresentadas (e-STJ fls. 319/322).
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 324.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Na presente hipótese, assiste razão à parte ora recorrente.
+No tocante às demais alegações, o Superior Tribunal de Justiça, em consonância com a orientação emanada do STF no julgamento de recuso extraordinário submetido à sistemática da repercussão geral - RE 724347/DF, tem o entendimento de que os candidatos aprovados em concurso público que tiveram suas nomeações tardiamente efetivadas por força de decisão judicial não têm direito à indenização, uma vez que isso não caracteriza preterição ou ato ilegítimo da administração pública, tampouco a efeitos funcionais, porquanto estes pressupõem o efetivo exercício do cargo. Nesse sentido:
+ADMINISTRATIVO. CONCURSO PÚBLICO. NOMEAÇÃO TARDIA. INDENIZAÇÃO. REMUNERAÇÃO RETROATIVA. IMPOSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. COMPENSAÇÃO. CABIMENTO.
+1. O Superior Tribunal de Justiça firmou a compreensão de que os candidatos aprovados em concurso público, que tiveram suas nomeações tardiamente efetivadas, não têm direito à indenização, tampouco à retroação dos efeitos funcionais.
+2. Cumpre destacar que esse entendimento restou pacificado no Supremo Tribunal Federal, em repercussão geral, no julgamento do Recurso Extraordinário 724.347/DF, Rel. p/ acórdão Ministro Roberto Barroso, julgado em 26/02/2015, DJe 13/05/2015.
+3. A Corte Especial deste Tribunal, mediante a sistemática instituída pelo art. 543-C do CPC, concluiu que "a Lei nº 8.906/94 assegura ao advogado a titularidade da verba honorária incluída na condenação, sendo certo que a previsão, contida no Código de Processo Civil, de compensação dos honorários na hipótese de sucumbência recíproca, não colide com a referida norma do Estatuto da Advocacia. É a ratio essendi da Súmula 306 do STJ" (REsp 963.528/PR, Rel. Ministro Luiz Fux, julgado em 2/12/2009, DJe 4/2/2010).
+4. Agravo interno a que se nega provimento. (AgInt AREsp 870.960/MS, Rel. Min. SÉRGIO KUKINA, Primeira Turma, DJe 08/06/2016).
+ADMINISTRATIVO. CONCURSO PÚBLICO. NOMEAÇÃO TARDIA POR FORÇA DE DECISÃO JUDICIAL. IMPOSSIBILIDADE DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS OU REMUNERAÇÕES RETROATIVAS. 1. Nos termos da jurisprudência do STF, o pagamento de remuneração a servidor público e o reconhecimento de efeitos funcionais pressupõem o efetivo exercício do cargo, sob pena de enriquecimento sem causa.
+2. O STJ, acompanhando o entendimento do STF, mudou anterior posicionamento para pacificar sua jurisprudência no sentido de que o candidato, cuja nomeação tardia decorreu por força de decisão judicial, não tem direito à indenização pelo tempo que aguardou a solução definitiva pelo Judiciário, uma vez que esse retardamento não configura preterição ou ato ilegítimo da administração pública a justificar contrapartida indenizatória. Precedentes. Agravo regimental improvido. (AgRg no REsp 1457197/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 02/10/2014, DJe 13/10/2014)
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para reformar o aresto proferido pelo Tribunal de origem para determinar como termo inicial para pagamento dos efeitos financeiros a data do efetivo exercício do cargo.
+Publique-se. Intimem-se.
