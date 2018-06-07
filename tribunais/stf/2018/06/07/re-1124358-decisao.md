@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO CORREÇÃO MONETÁRIA – JUROS DA MORA – FAZENDA PÚBLICA – CONDENAÇÃO – REPERCUSSÃO GERAL JULGADA – ACÓRDÃO PUBLICADO – NEGATIVA DE SEGUIMENTO .
+    1. O Tribunal Regional Federal da 5ª Região confirmou o entendimento do Juízo quanto à procedência do pedido de diferenças de retribuição por titulação, considerado o atraso no respectivo pagamento. No extraordinário, o recorrente alega a violação dos artigos 165, § 5º, 167 e 169 da Constituição Federal. Diz inexistir fonte de custeio. Insurge-se contra os critérios de cálculo dos juros e da correção monetária fixados.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    A despeito de reconhecidos administrativamente, os valores em questão não foram pagos, configurando mora da Administração, o que justifica a atuação do Judiciário.
+     Tampouco é de se acolher a alegação de que não haveria previsão orçamentária para proceder ao pagamento dos atrasados, visto que não pode o servidor, para receber o que lhe é devido, ficar sujeito a condições administrativas ou a ter que aguardar dotação orçamentária sem termo definido.
+    Quanto aos juros da mora e à correção monetária, o Supremo, no recurso extraordinário nº 870.947/SE, relatado pelo ministro Luiz Fux, acórdão publicado no Diário da Justiça de 20 de novembro de 2011, assentou, sob o ângulo da repercussão geral, a inconstitucionalidade parcial do artigo 1º-F da Lei 9494/1997, com redação dada pela Lei nº 11.960/2009. O índice de correção monetária aplicável às condenações impostas à Fazenda Pública será o decorrente da variação de preços da economia, evitando-se enriquecimento sem causa do Estado-devedor. No tocante aos juros da mora, proclamou, se de natureza tributária a condenação, a pertinência do mesmo parâmetro utilizado pelo Estado relativamente à dívida ativa. Declarou a valia constitucional do referido dispositivo na parte concernente aos juros da mora, quando envolvida relação diversa da tributária.
+    No caso, faz-se em jogo controvérsia estranha ao campo tributário. O Tribunal de origem, ao fixar os juros da mora e a correção monetária, decidiu em harmonia ao entendimento do Supremo. O quadro impõe a manutenção do pronunciamento, considerada a óptica revelada no paradigma, submetido ao regime da repercussão maior.
+    3. Nego seguimento ao extraordinário. Fixo os honorários recursais no patamar de 5 % do valor da condenação, nos termos do artigo 85, § 11 do Código de Processo Civil.
+    4. Publiquem.
+Brasília, 7 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
