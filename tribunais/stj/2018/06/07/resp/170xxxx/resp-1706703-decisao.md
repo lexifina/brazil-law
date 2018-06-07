@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e GIOVANI DA SILVA com fundamento na alínea "a" do permissivo constitucional, em que se pleiteia que os honorários do advogado dativo sejam estabelecidos com base nos valores mínimos fixados na tabela da OAB-SC.
+É o relatório.
+Acerca da matéria posta em deslinde, o ilustre Ministro Rogério Schietti Cruz afetou os Recursos Especiais n. 1.656.322/SC e n. 1.665.033/SC para julgamento pela Terceira Seção pela sistemática dos recursos repetitivos (artigo 1.036, § 5º, do Código de Processo Civil), ocasião em que determinou o sobrestamento e a devolução dos processos pendentes de julgamento ao Tribunal de origem, onde deverão aguardar o julgamento do tema repetitivo, relativo aos parâmetros de fixação de honorários de advogados indicados para atuar como defensores dativos no âmbito penal.
+Em consequência de tanto, nos termos do artigo 256-L do Regimento Interno deste Superior Tribunal de Justiça, determine-se o retorno dos presentes autos à origem com baixa na distribuição para que, após o pronunciamento definitivo deste Superior Tribunal de Justiça quanto ao tema e a publicação do acórdão paradigma, seja dado encaminhamento nos termos do artigo 1.040 do Código de Processo Civil.
+Publique-se. Intime-se.
