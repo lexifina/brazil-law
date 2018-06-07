@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FUNDAÇÃO EZEQUIEL DIAS, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ fl. 216):
+EMENTA: DIREITO ADMINISTRATIVO - SERVIDOR PÚBLICO - FUNED - GIEFS - REFLEXOS NO CÁLCULO DO DÉCIMO TERCEIRO SALÁRIO - POSSIBILIDADE - INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA Nº 1.0024.10.090327-7/002-PAGAMENTO A MENOR - DIFERENÇAS DEVIDAS - PRESCRIÇÃO QÜINQÜENAL - JUROS E CORREÇÃO MONETÁRIA - ADIs Nº 4.357 E 4.425 - MODULAÇÃO DOS EFEITOS PELO SUPREMO TRIBUNAL FEDERAL - HONORÁRIOS ADVOCATÍCIOS - MANUTENÇÃO DO VALOR ARBITRADO - JUROS DE MORA DOS HONORÁRIOS - TERMO INICIAL - TRÂNSITO EM JULGADO - SENTENÇA PARCIALMENTE REFORMADA.
+Os aclaratórios foram rejeitados (e-STJ fls. 248/252).
+A recorrente sustenta violação dos arts. 219 e 535 do CPC/1973, 394 e 397 do Código Civil. Aduz que a Corte de origem não se manifestou a respeito do termo inicial dos juros de mora sobre a verba honorária e que a jurisprudência iterativa do STJ firmou o entendimento de que nos processos de execução de honorários sucumbenciais fixados em sentença definitiva o termo inicial dos juros moratórios é a data da citação do executado.
+ Contrarrazões às e-STJ fls. 269/270.
+Juízo positivo de admissibilidade às e-STJ fls. 272/273.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+ Feito tal esclarecimento, ressalto que a alegada negativa de vigência ao art. 535 do CPC/1973 não comporta acolhimento.
+Com efeito, o Tribunal de origem decidiu expressamente sobre o termo inicial dos juros de mora incidentes sobre os honorários advocatícios, in verbis (e-STJ fls. 226):
+Os consectários legais incidentes sobre os honorários"de sucumbência devem ser aplicados nos termos acima Registre-se que no que se refere ao termo inicial da atualização monetária e dos juros de mora, não merece reparos a sentença, sendo o trânsito em julgado a ocasião a partir da qual a verba honorária se torna exigível e,
+portanto, o dies a quo da fluência de juros de mora.
+Logo, não há que se falar em nulidade do acórdão que decidiu o tema posto nos aclaratórios.
+Quanto ao termo inicial dos juros de mora aplicáveis à condenação em honorários advocatícios, quando arbitrados em valor certo, o Tribunal local entendeu que é a data do trânsito em julgado na ação de conhecimento, e não a da citação na execução. Esse posicionamento, contudo, não é consentâneo à jurisprudência dominante do Superior Tribunal de Justiça. A propósito:
+PROCESSUAL CIVIL. EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. DEVEDOR. FAZENDA PÚBLICA. TERMO INICIAL. CITAÇÃO. PRECEDENTES.
+1. Controverte-se acerca do termo inicial dos juros de mora nas condenações da Fazenda Pública ao pagamento de honorários advocatícios de sucumbência.
+2. A jurisprudência do STJ encontra-se assentada no sentido de que, na Execução de honorários, os juros moratórios são computados a partir da citação do devedor (AgRg no REsp 1.553.410/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 26/10/2015; AgRg no REsp 1.208.670/MG, Rel. Ministro Sidnei Beneti, Terceira Turma, DJe 30/8/2013; AgRg no REsp 1.530.786/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/2/2016).
+3. Esse panorama não foi modificado com o advento da Lei 11.960/2009, que, ao dar nova redação ao art. 1º-F da Lei 9.494/1997, faz expressa alusão à "compensação da mora" e aos "juros", o que denota que a natureza desses não teve alteração.
+4. Destaque-se que, no AgInt no REsp 1.362.981/MG, Rel. Ministro Humberto Martins, a Segunda Turma do STJ ratificou a jurisprudência acima aludida, em precedente sob o regime da Lei 11.960/2009. 5. Recurso Especial não provido. (REsp 1648576/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/04/2017)
+PROCESSUAL CIVIL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. EXECUÇÃO DE HONORÁRIOS. INCLUSÃO DE JUROS DE MORA. POSSIBILIDADE. TERMO INICIAL. INCIDÊNCIA A PARTIR DA CITAÇÃO DO EXECUTADO.
+1. Não cabe falar em ofensa ao art. 535 do CPC quando o acórdão recorrido se pronuncia de modo inequívoco e suficiente sobre a questão posta nos autos.
+2. A jurisprudência majoritária do STJ possui entendimento de que é legítima a inclusão de juros de mora na condenação em honorários, ainda que não postulados na inicial ou não previstos na sentença executada.
+3. A Súmula 254 do STF assegura a possibilidade de inclusão de juros moratórios não previstos na sentença executada.
+4. In casu, o Tribunal a quo decidiu de acordo com jurisprudência desta Corte, segundo a qual, na execução de honorários advocatícios, os juros moratórios incidem a partir da intimação do devedor para efetuar o pagamento. Súmula 83/STJ. Agravo regimental improvido.(AgRg no REsp 1553410 / RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/10/2015, Dje 26/10/2015)
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. MONTANTE ARBITRADO EM VALOR FIXO. TERMO INICIAL DOS JUROS MORATÓRIOS. DATA DA INTIMAÇÃO DO DEVEDOR PARA PAGAR O CRÉDITO EXEQUENDO. PRECEDENTES.
+1. Na execução de honorários advocatícios, arbitrados em valor fixo, os juros moratórios devem incidir a partir da intimação do devedor para pagar, e não da data do trânsito em julgado do respectivo título executivo judicial.
+2. Recurso especial a que se nega provimento. (REsp 1.131.492/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/10/2015, DJe 27/10/2015)
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PARCIAL PROVIMENTO ao recurso especial para determinar que, somente quanto à execução dos honorários advocatícios sucumbenciais, os juros moratórios deverão ser computados a partir da citação do devedor para o cumprimento de sentença.
+Publique-se. Intimem-se.
