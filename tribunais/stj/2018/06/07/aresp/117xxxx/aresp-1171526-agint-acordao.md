@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL. PREPARO. AUSÊNCIA DE JUNTADA DOS COMPROVANTES. DESERÇÃO. FALHAS NO ENVIO DE DOCUMENTOS PELO TRIBUNAL DE ORIGEM. NÃO COMPROVAÇÃO.
+1. "Nos termos da jurisprudência do Superior Tribunal de Justiça, no ato de interposição, o recurso especial deve estar acompanhado das guias de preparo, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção." (AgInt no AREsp 957.219/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/09/2017, DJe 21/11/2017).
+2. A despeito de a parte alegar a ocorrência de falhas na remessa de peças pelo Tribunal de origem, não traz qualquer documento comprovando suas alegações, circunstância que não tem o condão de afastar o reconhecimento da deserção do apelo especial.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por TANIA REGINA RAMALHO DE OLIVEIRA, desafiando decisão da Presidência do Superior Tribunal de Justiça que não conheceu do recurso especial, em razão de sua deserção.
+Inconformada, a parte agravante, em suas razões, sustenta que o Recurso Especial foi enviado a esta Corte pelo Tribunal de Origem faltando vários documentos necessários à sua admissibilidade, dentre eles, o comprovante de pagamento das custas.
+As razões do recurso não foram impugnadas (fl. 537).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados:
+Vistos, etc.
+Trata-se de AGRAVO EM RECURSO ESPECIAL interposto contra decisão que inadmitiu recurso especial.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verifica-se que o recurso especial não foi instruído com a guia de custas e o respectivo comprovante de pagamento. Assim, incide na espécie o disposto na Súmula n.º 187 deste Tribunal, o que leva à deserção do recurso.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do recurso.
+Conforme consignado na decisão agravada, a jurisprudência desta Corte é firme no sentido de que a guia de custas e o comprovante de pagamento devem ser juntados aos autos de forma visível e legível, sob pena de deserção do recurso.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO PUBLICADO NA VIGÊNCIA DO CPC/73. AUSÊNCIA DE PREPARO. COMPROVANTE ILEGÍVEL. VÍCIO INSANÁVEL. SÚMULA 187/STJ. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Agravo Regimental aviado contra decisão que, por sua vez, negou seguimento a Recurso Especial, interposto contra acórdão publicado na vigência do CPC/73.
+II. No caso, o Recurso Especial fora interposto contra acórdão publicado na vigência do CPC/73. Aplicação do Enunciado Administrativo 2/2016, do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+III. Consoante pacífica jurisprudência desta Corte, firmada à luz do CPC/73, no ato de interposição o Recurso Especial deve estar acompanhado das guias do preparo, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível - o que não ocorreu, in casu -, sob pena de deserção, nos termos do art. 511, caput, do CPC/73.
+IV. Descabe a concessão de oportunidade para realizar a comprovação do preparo, após a interposição do recurso, uma vez que o art. 511, § 2º, do CPC/73 - vigente à época da interposição do recurso - só concedia prazo para a regularização de preparo na hipótese de recolhimento a menor.
+V. Com efeito, à luz do CPC/73, "a jurisprudência do STJ consolidada no sentido de que as cópias dos comprovantes de pagamento do preparo constituem peças essenciais à formação do recurso, sendo que somente com esses documentos torna-se possível verificar a sua regularidade.
+Os recursos interpostos devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido: AgRg no AREsp 625.696/PE, Rel.
+Ministro Mauro Campbell Marques, Segunda Turma, DJe 27.8.2015; EDcl no AgRg no AREsp 559.442/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 15.12.2014; AgRg no REsp 1.501.587/RN, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 28.8.2015; AgRg no AREsp 675.610/SP, Rel. Ministro João Otávio de Noronha, Terceira Turma, DJe 8.9.2015; AgRg no Ag 1.252.865/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 29.11.2010 (..) não procede o pleito em favor da concessão de oportunidade de realizar a comprovação do preparo após a interposição do recurso, após intimação para que apresente a via original do citado comprovante, uma vez que o art. 511, § 1º, do CPC só admite a intimação da parte para complementar valor insuficiente, o que não é o caso dos presentes autos. Assim, "a juntada de cópias ilegíveis dos comprovantes de recolhimento impossibilitam a aferição da regularidade formal do recurso", e "o teor do art. 511, § 2º, do CPC, só se concede prazo para a regularização de preparo na hipótese de recolhimento a menor" (AgRg no REsp 1.111.355/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe de 25.3.2015)" (STJ, AgRg no AREsp 746.851/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/02/2016). VI. Ademais, "a alegação referente à existência de eventual vício na digitalização do processo deve vir acompanhada de elementos probatórios que a respalde, para o fim de elidir a presunção relativa de que goza a regular formação dos autos eletrônicos, o que não ocorreu na espécie" (STJ, AgRg no AREsp 690.967/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 04/11/2016).
+VII. Agravo Regimental improvido.
+(AgRg no REsp 1509139/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 13/06/2017, DJe 27/06/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECORRIDA PUBLICADA NA VIGÊNCIA DO CPC/1973. PREPARO. DESERÇÃO. COMPROVANTE DE PAGAMENTO ILEGÍVEL. SÚMULA N. 187/STJ. DECISÃO MANTIDA.
+1. Os recursos interpostos para o Superior Tribunal de Justiça devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção, a teor da Súmula 187/STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos." 2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 665.383/BA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 26/04/2016, DJe 02/05/2016)
+Ademais, a despeito de a parte ora recorrente alegar a ocorrência de falhas na remessa de peças pelo Tribunal de origem, não traz qualquer documento comprovando suas alegações, o que não afasta a deserção do recurso especial.
+No mesmo sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. COMPROVANTES DO PREPARO ILEGÍVEIS. ALEGAÇÃO DE FALHA DO TRIBUNAL DE ORIGEM. NÃO COMPROVAÇÃO. NOVO CPC. INAPLICABILIDADE. ENUNCIADO ADMINISTRATIVO N. 2/STJ.
+1. A alegação de falha ou erro no procedimento de remessa de peças realizado pelo Tribunal de origem, quando não comprovada, não tem o condão de afastar o óbice da deserção.
+2. Agravo regimental desprovido.
+(AgRg no REsp 1529976/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 10/05/2016, DJe 23/05/2016)
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
