@@ -1,0 +1,76 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. RESPONSABILIDADE CIVIL. AÇÃO DE REPARAÇÃO DE DANO MORAL E MATERIAL. ALEGAÇÃO DE OBSCURIDADE E OMISSÕES NA DECISÃO EMBARGADA. INEXISTÊNCIA. PRETENSÃO INFRINGENTE. IMPOSSIBILIDADE. MAJORAÇÃO DA VERBA HONORÁRIA SUCUMBENCIAL. POSSIBILIDADE. ENUNCIADO ADMINISTRATIVO Nº 7 DO STJ. PRECEDENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+RODRIGO CECCHINE MANZATTO (RODRIGO) promoveu ação de responsabilidade civil cumulada com pedido de indenização por dano moral e material contra PEUGEOT CITROEN DO BRASIL S.A. (MONTADORA) e AUTOMOBILES DE PARIS LTDA (CONCESSIONÁRIA), objetivando ver-se ressarcido pelos prejuízos advindos de defeitos em veículo de fabricação da primeira corré e adquirido pelo autor junto a segunda corré (e-STJ, fls. 1/14)
+A sentença foi de improcedência dos pedidos, sendo a parte autora condenada ao pagamento das custas, despesas processuais e honorários advocatícios fixados em R$ 1.200,00 (mil e duzentos reais) (e-STJ, fls. 208/209).
+O Tribunal local negou provimento à apelação de RODRIGO, o que ensejou a interposição de recurso especial, com base no art. 105, III, a e c, da CF/88, sustentando a violação dos arts. 27 do CDC; 145 e 420 do CPC/73 (arts. 156 e 464 do NCPC).
+O recurso foi inadmitido na origem, advindo agravo em recurso especial, a que conheci, em decisão monocrática de minha lavra, a fim de conhecer do apelo nobre para negar-lhe provimento, nos termos da ementa a seguir transcrita:
+CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. VEÍCULO ZERO QUILÔMETRO. RESPONSABILIDADE POR VÍCIO DO PRODUTO. DECADÊNCIA DO DIREITO DE RECLAMAR O RESSARCIMENTO DOS VALORES GASTOS NO REPARO DO VEÍCULO. APLICAÇÃO DO PRAZO DECADENCIAL DO ART. 26 DO CDC. PRECEDENTES. CERCEAMENTO DE DEFESA PELO JULGAMENTO ANTECIPADO DA LIDE. INOCORRÊNCIA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DOMINANTE DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO (e-STJ, fl. 382).
+No presente recurso aclaratório, RODRIGO alegou a existência de omissão no julgado, aduzindo que o prazo decadencial para a propositura da ação deve ser aferido nos termos do § 2º do art. 26 do CDC, ou seja, a partir de 16/4/2013, já que houveram sucessivas reclamações sobre os problemas com o veículo, obstando, dessa forma, a decadência, conforme disposto no inciso I do referido dispositivo.
+Apontou, ainda, erro material, no que se refere a majoração dos honorários advocatícios, a qual somente e permitida em virtude do acréscimo de trabalho causado aos advogados da parte contrária, o que não se verifica no caso dos autos, pois não houve sequer apresentação de contraminuta ao agravo em recurso especial, inexistindo, portanto, trabalho adicional que justificasse a majoração da verba honorária sucumbencial (e-STJ, fls. 393/396).
+Não foi apresentada impugnação (e-STJ, fl. 398).
+É o relatório.
+DECIDO.
+Os embargos de declaração comportam rejeição.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos a decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da violação do art. 1022 do NCPC
+Inexistem omissões na decisão embargada.
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão de desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais sobre o qual deveria manifestar-se o juiz ou o Tribunal, e que, nos termos do NCPC, seja capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, ambos do NCPC).
+Nestes aclaratórios, RODRIGO afirmou a existência de omissão no julgado quanto ao termo inicial do prazo decadencial.
+Entretanto, ao contrário do que alegou o insurgente, observa-se que a decisão embargada analisou minudentemente as questões suscitadas, reconhecendo a ocorrência do instituto da decadência, nos termos do art. 26 do CDC e não o prazo prescricional (art. 27 do CDC), como pretende RODRIGO, o fazendo ante as seguintes razões:
+Da decadência (art. 27 do CDC)
+o Tribunal a quo manteve a sentença que reconheceu a ocorrência do instituto da decadência, o fazendo ante as seguintes razões:
+Extrai-se da narrativa inicial que o autor, em 25/7/2008, adquiriu o veículo zero/km, da marca Peugeot/307 Feline, ano 2008/2009, placa EDC 1774, efetuando o pagamento à vista. Ocorre que a partir de 16/9/2008, o veículo apresentou vício no câmbio e que arcou com toda a manutenção. Dessa forma ajuizou a presente demanda pretendendo a substituição do veículo e, subsidiariamente, a devolução do valor pago.
+O D. Magistrada de Primeiro Grau, reconhecendo a operação da decadência, julgou a demanda improcedente, remanescendo o inconformismo por parte do requerente.
+ .. .
+Da análise dos autos, constata-se que o pedido se funda na responsabilização das rés pelos problemas de câmbio apresentado no veículo, tratando-se, portanto, de vício, e não de fato do produto.
+A distinção é importante, porquanto "o Código de Defesa do Consumidor estabelece dois regimes jurídicos para a responsabilidade civil do fornecedor: a responsabilidade por fato do produto ou serviço (arts. 12 a 17) e a responsabilidade por vício do produto ou serviço (arts. 18 a 25). Basicamente, a distinção entre ambas reside em que, na primeira, além da desconformidade do produto ou serviço com uma expectativa legítima do consumidor, há um acontecimento externo (acidente de consumo) que causa dano material ou moral ao consumidor. Na segunda, o prejuízo do consumidor decorre do defeito interno do produto ou serviço (incidente de consumo)." (sem grifos no original).
+Na lição de SERGIO CAVALIERI FILHO, "ambos decorrem de um defeito do produto ou do serviço, só que no fato do produto ou do serviço o defeito é tão grave que provoca um acidente que atinge o consumidor, causando-lhe dano material ou moral. É também chamado de defeito de segurança porque compromete a segurança do produto ou serviço, gerando riscos à incolumidade do consumidor ou de terceiro. Vício, por sua vez, é defeito menos grave, circunscrito ao produto ou serviço em si; um defeito que lhe é inerente ou intrínseco. É chamado de vício de adequação porque apenas causa o mau funcionamento, utilização ou fruição do produto ou do serviço; compromete a sua prestabilidade."2 (grifo no original)
+Fixada esta premissa, tem-se que na espécie se aplica o prazo decadencial, previsto no artigo 26 do Código de Defesa do Consumidor, e não o prescricional, conforme sustentado pelo recorrente.
+Neste sentido, "no sistema do CDC, a responsabilidade pela qualidade biparte-se na exigência de adeuação e segurança, segundo o que razoavelmente se pode esperar dos produtos e serviços.. O CDC apresenta duas regras distintas para regular o direito de reclamar, conforme se trate de vício de adequação ou defeito de segurança.
+Na primeira hipótese, os prazos para reclamação são decadenciais, nos termos do art. 26 do CDC, sendo de 30 (trinta) dias para produto ou serviço não durável e de 90 (noventa) dias para produto ou serviço durável. A pretensão à reparação pelos danos causados por fato do produto ou serviço vem regulada no art. 27 do CDC, prescrevendo em 05 (cinco) anos" (REsp n.º 967.623/RJ).
+Como o requerente adquiriu o veículo em 25/7/2008, narrando na própria inicial da demanda que os vícios tornaram-se aparentes assim que tomou posse do bem, evidente que operada a decadência na medida em que a ação foi ajuizada em 27/6/2013.
+Assim, configurada a decadência do direito de pleitear a substituição do bem ou a restituição dos valores pagos, de rigor a improcedência da demanda. (e-STJ, fls. 283/285).
+Observa-se, da transcrição acima, que o acórdão recorrido está em plena consonância com a jurisprudência desta Corte, no sentido de que, quando se tratar de responsabilidade civil por vícios do produto aparentes ou de fácil constatação, o prazo decadencial é de 30 ou 90 dias para a reclamação por parte do consumidor, conforme se trate de produtos ou serviços não duráveis ou duráveis, nos termos do art. 26 do Código de Defesa do Consumidor.
+Assim, inaplicável, ao caso concreto, a prescrição do art. 27 do mesmo Código, pois restrita à ação de indenização para reparação de danos.
+A esse respeito, vejam-se os precedentes.
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - EMBARGOS MONITÓRIOS - PLEITO RECONVENCIONAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA EMBARGANTE.
+1. O Código de Defesa Consumidor, em observância ao princípio da segurança jurídica, fixou limites no tempo para o consumidor reclamar de vícios (prazo decadencial previsto art. 26) e para pleitear indenização pela reparação de danos causados por fato do produto ou do serviço (prazo prescricional indicado no art. 27).
+2. Quando se tratar de responsabilidade civil por vícios do produto aparentes ou de fácil constatação, o prazo decadencial é de 30 ou 90 dias para a reclamação por parte do consumidor, conforme se trate de produtos ou serviços não duráveis ou duráveis, nos termos do art. 26 do Código de Defesa do Consumidor. Inaplicável a prescrição do art. 27 do mesmo Código, pois restrita à ação de indenização para reparação de danos.
+3. Agravo interno desprovido.
+(AgInt no AREsp 738.587/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 6/3/2018, DJe 13/3/2018).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. DECADÊNCIA. OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. VÍCIO DE PRODUTO. PRAZO.
+1. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+2. Em se tratando de produto durável, o direito de reclamar pelos vícios aparentes ou de fácil constatação caduca em 90 (noventa) dias (art. 26, incisos I e II, do CDC).
+3. Agravo interno não provido.
+(AgInt no AREsp 773.538/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 15/8/2017, DJe 22/8/2017).
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. VENDA E COMPRA DE IMÓVEL. METRAGEM. PROPAGANDA. CONTRATO. DIFERENÇA. VÍCIO. PRODUTO DURÁVEL. PRAZO DECADENCIAL. ART. 26, II, DO CDC. INDENIZAÇÃO. DANOS MORAIS. PRESCRIÇÃO QUINQUENAL.
+1. O Código de Defesa do Consumidor estabeleceu limites temporais diferentes para a responsabilização civil do fornecedor. O art. 27 prevê o prazo prescricional de 5 (cinco) anos para a pretensão indenizatória pelos danos causados por fato do produto ou do serviço; e o art. 26, o prazo decadencial de 30 (trinta) ou 90 (noventa) dias para a reclamação, conforme se trate de vícios aparentes ou de fácil constatação de produtos ou serviços não duráveis ou duráveis.
+2. Segundo a jurisprudência desta Corte, se o produto apresenta vício quanto à quantidade ou qualidade, ou que lhe diminua o valor, estar-se-á diante de vício aparente ou de fácil constatação, de acordo com o art. 26 do Código Consumerista.
+3. No caso, decaiu em 90 (noventa) dias o direito de os autores reclamarem da diferença entre a metragem do imóvel veiculada em propaganda e a área do apartamento descrita na promessa de contra e venda.
+ .. .
+5. Recurso especial parcialmente provido.
+(REsp 1488239/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 1º/3/2016, DJe 7/3/2016).
+Observa-se, portanto, que não foi demonstrado nenhum vício na decisão embargada a ensejar a integração do julgado, porquanto a fundamentação adotada é clara e suficiente para respaldar a conclusão alcançada.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+(2) Da majoração dos honorários advocatícios
+Com relação ao tema, o Enunciado Administrativo nº 7 do STJ deliberou que nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC.
+No caso dos autos, a decisão de inadmissibilidade do apelo nobre foi publicada sob a égide do NCPC, aos 4/8/2017 (cf. e-STJ, fl. 340), sendo possível a majoração dos honorários.
+Nesse sentido, vejam-se os julgados.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. DECISÃO DENEGATÓRIA DE RECURSO ESPECIAL. EXAME PRÉVIO DE ADMISSIBILIDADE. NÃO CABIMENTO DO RECURSO. INTERRUPÇÃO DO PRAZO RECURSAL. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, CPC/2015.
+ .. .
+4. O Enunciado Administrativo nº 7 do Superior Tribunal de Justiça deliberou que nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do Código de Processo Civil de 2015.
+5. Agravo interno não provido.
+(AgInt no AREsp 1194884/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 15/5/2018, DJe 25/5/2018)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §11, DO CPC/15. NÃO APLICAÇÃO. RECURSO INTERPOSTO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/73.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado na decisão embargada.
+2. Nos termos do Enunciado Administrativo nº 7 do STJ, somente os recursos interpostos contra decisão publicada a partir do dia 18/3/2016 estarão sujeitos à majoração dos honorários advocatícios em âmbito recursal, prevista no art. 85, §11, do CPC/15.
+3. Embargos de declaração no agravo interno no agravo em recurso especial rejeitados.
+(EDcl no AgInt no AREsp 963.872/PR, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 27/02/2018, DJe 2/3/2018).
+Assim, correta a decisão que majorou os honorários advocatícios anteriormente fixados em desfavor de RODRIGO de R$ 1.200,00 (mil e duzentos reais) para cada réu, para R$ 1.500,00 (mil e quinhentos reais) para cada um deles, nos termos do art. 85, §§ 2º e 11, do NCPC.
+E considerando anterior advertência quanto à incidência das normas do NCPC, no que tange ao cabimento de multa, verifica-se o caráter protelatório dos presentes embargos de declaração a ensejar a aplicação da multa prevista no art. 1.026, § 2º, do NCPC.
+Nessas condições, REJEITO os embargos de declaração, aplicando ao embargante a multa de 2% sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do NCPC.
+Por fim, advirto que eventual recurso interposto contra esta decisão estará sujeito ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 3º, do NCPC).
+Publique-se. Intime-se.
