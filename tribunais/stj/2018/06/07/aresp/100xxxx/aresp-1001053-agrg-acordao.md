@@ -1,0 +1,57 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, II, DA LEI N. 8.137/90. 1) OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. AUSÊNCIA DE PREJUÍZO. 2) VIOLAÇÃO AO ART. 578 DO CÓDIGO DE PROCESSO PENAL - CPP. TEMPESTIVIDADE DA INTERPOSIÇÃO DO RECURSO DE APELAÇÃO. 3) VIOLAÇÃO AO ART. 13 DO CÓDIGO PENAL - CP. AUS NCIA DE PREQUESTIONAMENTO. 4) AGRAVO DESPROVIDO.
+1. Inexiste ofensa ao princípio da colegialidade nas hipóteses em que a decisão monocrática foi proferida em obediência ao art. 932 do Código de Processo Civil - CPC e art. 3º do Código de Processo Penal - CPP, por se tratar de recurso que impugnava julgado contrário à jurisprudência desta Corte. Ademais, o julgamento colegiado do agravo regimental supre eventual vício da decisão agravada.
+2. A tempestividade do recurso de apelação é verificada na interposição, conforme prazo do art. 593 do CPP. Caso o recurso de apelação tenha sido interposto sem apresentação das razões, a juntada destas fora do referido prazo é mera irregularidade. Precedentes.
+3. Conforme entendimento do Superior Tribunal de Justiça - STJ: "mesmo que se trate de questão de ordem pública, é imprescindível que a matéria tenha sido decidida no v. acórdão impugnado, para que se configure o prequestionamento" (REsp 1.020.855/RS, Rel. Ministro FELIX FISCHER, DJ de 2/2/2009). Incidência do enunciado das Súmulas 282 e 356/STF.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Cuida-se de agravo regimental interposto contra decisão de fls. 1912/1916 que, admitindo o agravo em recurso especial, negou provimento ao recurso especial, com fundamento na Súmula 568/STJ.
+A agravante alega que a decisão monocrática viola o princípio da colegialidade, em atenção ao art. 5º, LIII, da Constituição Federal - CF, porque as razões do recurso especial devem ser enfrentadas pela Turma Julgadora.
+Requer, assim, o provimento do agravo regimental com provimento do recurso especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (Relator):
+Em que pesem os argumentos veiculados, não há como modificar a decisão ora agravada em favor da tese do agravante.
+Sobre a análise do recurso especial por decisão monocrática, consoante o entendimento desta Corte, não existe ofensa ao princípio da colegialidade nas hipóteses em que a decisão monocrática foi proferida com fundamento no art. 932 do Código de Processo Civil - CPC e art. 3º do Código de Processo Penal - CPP, os quais autorizam o relator negar provimento a recurso manifestamente inadmissível, prejudicado, deficientemente fundamentado, em confronto com súmula ou jurisprudência dominante, como é o caso dos autos. A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. CONTRARIEDADE AO ART. 16 DO CP. ARREPENDIMENTO POSTERIOR. REPARAÇÃO NÃO INTEGRAL DO DANO. AUSÊNCIA DE VOLUNTARIEDADE. INAPLICABILIDADE DA MINORANTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Não há ofensa ao princípio da colegialidade quando a decisão monocrática é proferida em obediência ao artigo 253, parágrafo único, inciso II, alínea "b", do Regimento Interno do Superior Tribunal de Justiça, que permite ao relator negar provimento ao recurso quando a pretensão recursal esbarrar em súmula do STJ ou do STF, ou ainda, em jurisprudência dominante acerca do tema.
+ ..
+3. Agravo regimental a que se nega provimento (AgRg no AREsp 979.835/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 21/10/2016).
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. ALEGADA OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+I - O art. 253, parágrafo único, inciso II, alínea b, do Regimento Interno deste Superior Tribunal de Justiça, com amparo no art. 932, inciso IV, alínea a, do Código de Processo Civil/2015, autoriza o relator a negar provimento a recurso nas hipóteses ali previstas (precedentes).
+ ..
+Agravo regimental desprovido (AgRg no AREsp 651.408/ES, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 19/09/2016).
+Ainda que assim não fosse, a interposição do agravo regimental leva ao órgão colegiado o julgamento do recurso especial, afastando qualquer nulidade eventualmente existente. Cito precedente:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PRINCÍPIO DA COLEGIALIDADE. CRIME CONTINUADO. AUSÊNCIA DOS REQUISITOS LEGAIS. ESPAÇO TEMPORAL ENTRE OS DELITOS SUPERIOR A TRINTA DIAS. CONCURSO MATERIAL CONFIGURADO. REVOLVIMENTO DE PROVAS DESNECESSÁRIO. SÚMULA 7/STJ. NÃO INCIDÊNCIA. REVALORAÇÃO DOS FATOS EXPRESSAMENTE DELINEADOS NO ACÓRDÃO RECORRIDO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Inexiste maltrato ao princípio da colegialidade, pois, consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica, uma vez que a parte possui mecanismos processuais de submeter a controvérsia ao colegiado por meio do competente agravo regimental. Ademais, o julgamento colegiado do recurso pelo órgão competente supera eventual mácula da decisão monocrática do relator.
+ ..
+8. Agravo regimental improvido (AgRg no REsp 1419834/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 13/12/2017).
+Sobre a violação do art. 578 do CPP, o Tribunal de origem rechaçou a intempestividade na interposição e no oferecimento das razões recursais do MPE, nos seguintes termos:
+O Ministério Público tomou ciência da decisão em 29 de novembro de 2013, sexta-feira (fls. 936), e manifestou o desejo de recorrer em 4 de dezembro de 2013, quarta-feira (fls. 937), ou seja, dentro do quinquídio legal estabelecido pelo artigo 593, do Código de Processo Penal.
+Intimado a apresentar as razões de apelação em 3 abril de 2014 (fls. 968), o parquet as ofereceu no mesmo dia (fls. 969/979).
+Destarte, não há intempestividade na apelação do Ministério Público, seja na interposição, seja no oferecimento das razões recursais (fls. 1150/1151).
+No recurso de apelação criminal, há que se destacar a existência de prazos distintos para a interposição do recurso e para a apresentação das razões recursais, sendo praxe a intimação da parte para apresentação das razões quando não juntadas no ato da interposição. Cito precedente:
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO (ARTIGO 157, § 2º, INCISOS I E II, COMBINADO COM O ARTIGO 14, INCISO II, AMBOS DO CÓDIGO PENAL. ALEGADA FALTA DE INTIMAÇÃO DO ACUSADO ACERCA DA INTERPOSIÇÃO DE RECURSO DE APELAÇÃO PELO MINISTÉRIO PÚBLICO. DESNECESSIDADE. ARTIGOS 600 E 601 DO CÓDIGO DE PROCESSO PENAL. INFORMAÇÕES NO SENTIDO DE QUE A DEFENSORIA PÚBLICA TERIA SIDO DEVIDAMENTE NOTIFICADA E APRESENTADO CONTRARRAZÕES RECURSAIS. AUSÊNCIA DE DOCUMENTAÇÃO COMPROBATÓRIA DA SUPOSTA MÁCULA. NECESSIDADE DE PROVA PRÉ-CONSTITUÍDA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. DENEGAÇÃO DA ORDEM.
+1. Nos termos dos artigos 600 e 601 do Código de Processo Penal, as partes são intimadas para oferecer razões ou contrarrazões aos recursos interpostos, inexistindo qualquer disposição no sentido de se notificar, seja pessoalmente, seja por qualquer outro meio, o réu na ação penal.
+ ..
+5. Ordem denegada (HC 190.470/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 19/12/2011).
+Ainda que assim não fosse, observado o prazo de 5 dias para interposição, na forma do art. 593 do CPP, não há que se falar em intempestividade decorrente da apresentação das razões. Cito precedentes:
+PROCESSUAL PENAL. RECURSO ESPECIAL. ARTS. 297, 171, § 2º, INCISO II (DUAS VEZES), E 304, TODOS DO CÓDIGO PENAL. RECURSO DE APELAÇÃO CRIMINAL. ART. 578 DO CÓDIGO DE PROCESSO PENAL. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. INTEMPESTIVIDADE. NÃO-OCORRÊNCIA.
+I - Tendo sido demonstrada inequívoca a vontade do assistente da acusação em recorrer no momento em restou intimado da r. sentença absolutória, sendo que tal manifestação restou certificada nos autos pelo oficial de justiça comunicante, tem-se como interposta apelação criminal por termo nos autos, em observância ao princípio da instrumentalidade das formas.
+II - Por outro lado, considera-se a juntada aos autos das razões recursais fora do prazo uma mera irregularidade, também em observância ao princípio da instrumentalidade das formas (Precedentes).
+Recurso provido (REsp 1038870/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 09/02/2009).
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. APELAÇÃO CRIMINAL. INTEMPESTIVIDADE. RAZÕES APRESENTADAS FORA DO PRAZO LEGAL. MERA IRREGULARIDADE. NULIDADE DA SENTENÇA. AUSÊNCIA DE FUNDAMENTAÇÃO NA DOSIMETRIA DA PENA. IMPUGNAÇÃO GENÉRICA. ILEGALIDADE NÃO DEMONSTRADA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. A apresentação extemporânea das razões recursais pela parte, mesmo acusadora, não tem o condão de prejudicar apelação criminal tempestivamente interposta.
+ ..
+4. Habeas corpus não conhecido (HC 66.625/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 05/11/2015).
+Sobre a violação do art. 13 do CP, sob o argumento de que [NOME] não era administrador da empresa, verifica-se que o Tribunal de origem não analisou a questão. Vale destacar, ainda, que a defesa opôs embargos de declaração e nada suscitou sobre a violação. Logo, o conhecimento do recurso especial no ponto carece do adequado e indispensável prequestionamento, motivo pelo qual incidentes, por analogia, as Súmulas 282 e 356/STF. No mesmo sentido, cito precedente:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTS. 4º, CAPUT, DA LEI Nº 7.492/86, E 62, I, DO CP. TESE JURÍDICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. VIOLAÇÃO AOS ARTS. 4º, CAPUT, E 25, AMBOS DA LEI Nº 7.492/86. CRIME DE GESTÃO FRAUDULENTA. POSSIBILIDADE DE PARTICIPAÇÃO DE TERCEIRO NO DELITO. ART. 29 DO CÓDIGO PENAL. ARESTO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO STJ. CONTRARIEDADE AO ART. 59 DO CP. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. INEXISTÊNCIA DE ILEGALIDADE. REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal. (AgRg no AREsp 454.427/SP, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 19/02/2015)
+ ..
+5. Agravo regimental a que se nega provimento (AgRg no AREsp 1061456/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/11/2017, DJe 28/11/2017).
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
