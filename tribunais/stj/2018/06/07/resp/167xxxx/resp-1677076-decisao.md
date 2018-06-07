@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO E PROCESSO CIVIL. AÇÃO CIVIL PÚBLICA. AGRAVO. MPF. CUSTOS LEGIS. LEGITIMIDADE RECURSAL. REVISÃO. APOSENTADORIA DE PROFESSOR. APURAÇÃO DA RENDA MENSAL INICIAL. FATOR PREVIDENCIÁRIO. INCONSTITUCIONALIDADE. DECADÊNCIA. PRESCRIÇÃO. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. TUTELA ESPECÍFICA. REVISÃO IMEDIATA. CONSECTÁRIOS. DIFERIMENTO.
+1. Possui o MPF legitimidade para interpor recurso em ação civil pública na qual oficie como fiscal da lei, conforme decisão do STJ no REsp. 1.220.835/RS.
+2. Conforme decidido pela Corte Especial no julgamento da ARGINC n.º 5012935-13.2015.404.8000, é inconstitucional, por violação à isonomia, a aplicação do fator previdenciário à aposentadoria do professor com tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio.
+3. O pedido de revisão alcança todas as aposentadorias de professores da categoria representada pelo Sindicato autor. Precedente do STJ.
+4. Devem ser revisadas todas as aposentadorias não alcançadas pela decadência, contado o prazo decenal retroativamente ao ajuizamento da ação.
+5. Condenação ao pagamento das parcelas vencidas, respeitada a prescrição qüinqüenal.
+6. Por critério de simetria, não cabe a condenação da parte vencida em ação civil pública ao pagamento de honorários advocatícios. Precedentes do STJ.
+7. A definição dos índices de correção monetária e juros de mora deve ser diferida para a fase de cumprimento do julgado.
+8. O cumprimento imediato da tutela específica independe de requerimento expresso do segurado ou beneficiário, e o seu deferimento sustenta-se na eficácia mandamental dos provimentos fundados no art. 461 do CPC/1973, bem como nos artigos 497,536 e parágrafos e 537 do CPC/2015.
+9. A determinação de revisão imediata do benefício, com fundamento nos artigos supracitados, não configura violação dos artigos 128 e 475-0,1, do CPC/1973 e 37 da CF/1988.
+Naquela ocasião, o Tribunal a quo, para afastar a utilização do Fator Previdenciário do cálculo da aposentadoria da recorrida (professora), adotou fundamentação utilizada na Arguição de Inconstitucionalidade n. 5012935-13.2005.4.04.0000, em que o Pleno daquela corte declarou a inconstitucionalidade do inciso I do art. 29, da Lei 8.213/91, sem redução de texto e dos incisos II e III do § 9 do mesmo artigo, com redução de texto.
+Segundo a explicação adotada no acórdão recorrido, a adoção do fator previdenciário na aposentadoria dos professores fere os princípios constitucionais da proporcionalidade e isonomia ao dispensar tratamento que subverte a aposentadoria com tempo reduzido prevista no §8º do art. 201 da CF/88 a esta classe de trabalhadores.
+E a afronta à isonomia e proporcionalidade decorreria da adoção da fórmula matemática utilizada no Fator Previdenciário, que emprega os elementos "idade" e "tempo de contribuição", sem a adoção de critério de correção que corrigisse a distorção em relação aos professores sobre ambos os elementos ("idade" e "tempo de contribuição"), porquanto a Lei 8.231/91, em seu art. 29, § 9, incisos II e III, corrige apenas o elemento "tempo de contribuição".
+O TRF da 4ª Região entende que sem a adoção de critério que corrija a distorção em relação também ao critério "idade", na fórmula do Fator Previdenciário, a adoção dessa fórmula matemática acaba sendo mais gravosa em relação aos professores do que em relação aos outros trabalhadores.
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial, o recorrente alega as seguintes teses a saber:
+a) violação do art. 949, parágrafo único, do CPC/15. Aduz que o Tribunal a quo jamais poderia ter declarado a inconstitucionalidade do art. 29, § 9º, incisos I a III, da Lei 8.213/91, porquanto o dispositivo tido por violado veda a apreciação de inconstitucionalidade quando já houver pronunciamento do plenário do Supremo Tribunal Federal sobre o Tema.
+No caso, segundo o seu entender, o art. 2º da Lei 9.876/99, na parte que deu nova redação ao art. 29, caput, incisos, e parágrafos da Lei 8.213/91 já foi declarado constitucional pelo Supremo na ADI 2111, julgada em 16/3/2000, em decisão cautelar, a qual, contudo, adentrou o mérito da demanda.
+b) Violação da Lei 8.213/91, art. 29, inciso I e § 9º, II e III. Argumenta que o STF entende que o fator previdenciário é constitucional e que cabe ao STJ analisar se é aplicável aos professores. O STJ, por sua vez, teria pacificado o entendimento de que incide nas aposentadorias dos professores o fator previdenciário.
+Argumenta, ainda, que tanto o tempo menor de aposentadoria conferido aos professores, quanto o critério de correção utilizado na aplicação do fator previdenciário são frutos de escolhas democráticas, não cabendo ao judiciário, a título de isonomia, modificar os critérios adotados pelos poderes competentes.
+Em contrarrazões, a recorrida aduz que a jurisprudência desta e. Corte é no sentido de que não incide o fator previdenciário no calculo do salário-de-beneficio de aposentadoria de professor.
+É o relatório. Decido.
+Quanto a este tema específico, compartilhava do entendimento de que a questão havia sido decidida no Tribunal a quo com fundamento constitucional, motivo pelo qual, careceria o STJ de competência para julgamento do feito.
+Contudo, o Supremo Tribunal Federal, nos autos do RE 1.029.608, julgando a repercussão geral de processo análogo (tema 960), entendeu, por maioria de votos, pela ausência de matéria constitucional a ser analisada, eis que o tema é decidido unicamente pela aplicação à espécie das Leis 9.876/99 e 8.213/91, sendo a questão constitucional dos autos apenas reflexa, o que não dá ensejo à manifestação daquela corte.
+O acórdão ficou ementado, in verbis:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR. FATOR PREVIDENCIÁRIO. INCIDÊNCIA. PRECEDENTES. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL.
+(RE 1029608 RG, Relator(a): Min. EDSON FACHIN, julgado em 24/08/2017, PROCESSO ELETRÔNICO DJe-195 DIVULG 30-08-2017 PUBLIC 31-08-2017 )
+Diante do exposto, tenho que a questão deve ser analisada sob a ótica da legislação infraconstitucional.
+E a respeito do tema, esta Corte já concluiu que a Constituição Federal e a legislação de regência não tratam a atividade de professor como atividade especial, de modo a não incidir sobre ela o fator previdenciário, nos termos em que dispõe o art. 29, II, da Lei 8.213/91 para as atividades consideradas insalubres.
+Na verdade a categoria tem apenas uma proteção especial constitucional que lhe garante a aposentadoria em tempo reduzido em relação aos outros trabalhadores, de modo que incide quanto aos professores a norma que prevê a incidência do fator previdenciário, nos termos do art. 29, I, da Lei 8.213/91, com o critério de correção previsto nos incisos II e III do § 9º, do art. 29, da Lei 8.213/91.
+Assim, preenchidos os requisitos para a aposentadoria após a introdução no ordenamento da Lei 9.876/99, que introduziu no sistema o fator previdenciário, tenho que há incidência do cálculo aos professores de educação infantil e ensino fundamental médio.
+Neste sentido, os seguintes precedentes, in verbis:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA DE PROFESSOR. SALÁRIO-DE-BENEFÍCIO. FATOR PREVIDENCIÁRIO. INCIDÊNCIA.
+1. À luz do Decreto 53.831/64 (Quadro Anexo, Item 2.1.4), a atividade de professor era considerada penosa, situação modificada com a entrada em vigor da Emenda Constitucional 18/81 e, consequentemente, das alterações constitucionais posteriores, porquanto o desempenho da atividade deixou de ser considerada especial para ser uma regra "excepcional", diferenciada, na qual demanda um tempo de serviço menor em relação a outras atividades, desde que se comprove o exclusivo trabalho nessa condição.
+2. A atividade de professor não é especial em si, para fins de seu enquadramento na espécie "aposentadoria especial" a que alude o art.57 da Lei n. 8.213/91, mas regra diferenciada para a aposentadoria que exige o seu cumprimento integral, o que afasta seu enquadramento às disposições do inciso II do art. 29 do mesmo diploma, que não prevê a utilização do fator previdenciário no cálculo do salário-de-benefício.
+3. Amoldando-se a aposentadoria do professor naquelas descritas no inciso I, "c", inafastável o fator previdenciário, incidência corroborada ainda pelas disposições do § 9º do art. 29 da Lei de Benefícios, em que foram estabelecidos acréscimos temporais para minorar o impacto da fórmula de cálculo sobre o regime diferenciado dos professores.
+4. Recurso especial improvido.
+(REsp 1146092/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/09/2015, DJe 19/10/2015)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. ATIVIDADE DE PROFESSOR. FATOR PREVIDENCIÁRIO. INCIDÊNCIA. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. O STJ já teve a oportunidade de se manifestar pela incidência do fator previdenciário no cálculo do salário de benefício da aposentadoria por tempo de serviço/contribuição de professor, quando o segurado não tiver tempo suficiente para a concessão do benefício anteriormente à edição da Lei 9.876, de 1999, como no presente caso.
+Precedentes.
+2. Agravo interno não provido.
+(AgInt no REsp 1625813/CE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/12/2016, DJe 19/12/2016)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA DE PROFESSOR. GRATUIDADE DE JUSTIÇA. CONCEDIDA NA INSTÂNCIA DE ORIGEM. INCIDÊNCIA DO FATOR PREVIDENCIÁRIO. ENTENDIMENTO ATUAL DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Desnecessário o pleito de gratuidade de justiça, pois já obtida nas instâncias de origem.
+2. A insurgência é manifestamente improcedente, em face do atual entendimento deste Superior Tribunal quanto à incidência do fator previdenciário à aposentadoria de professor.
+3. Agravo interno não provido, com aplicação de multa de 1% do valor da causa, observado o disposto no art. 98, § 3º, do CPC/2015.
+(AgInt no AREsp 534.313/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 26/09/2017, DJe 29/09/2017)
+PREVIDENCIÁRIO. APOSENTADORIA DE PROFESSOR. IMPLEMENTAÇÃO DOS REQUISITOS APÓS A EDIÇÃO DA LEI N. 9.876/99. INCIDÊNCIA DO FATOR PREVIDENCIÁRIO NO CÁLCULO DA RENDA MENSAL INICIAL -RMI DO BENEFÍCIO.
+1. Na hipótese de implementação dos requisitos necessários à obtenção do benefício após a edição da Lei n. 9.876/99, não há falar em exclusão do fator previdenciário do cálculo da RMI da aposentadoria por tempo de serviço/contribuição de professor. A benesse conferida pela Constituição à essa importante categoria profissional resume-se tão-somente à redução em cinco anos no tempo de serviço, frente aos demais segurados.
+2. Recurso especial do INSS provido.
+(REsp 1599097/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/06/2017, DJe 27/06/2017)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RI/STJ, dou provimento ao recurso especial, nos termos da fundamentação supra.
+Publique-se. Intimem-se.
