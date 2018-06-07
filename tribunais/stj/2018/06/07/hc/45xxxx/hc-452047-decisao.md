@@ -1,0 +1,32 @@
+DECISÃO
+1. Trata-se de habeas corpus no qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que indeferiu pleito liminar no HC n. 2105541-61.2018.8.26.0000.
+Argumenta-se, em suma, a existência de evidente ilegalidade e arbitrariedade, as quais, por sua vez, estariam violando o direito à livre locomoção de STEPHEN KWAKU GOKAH, tendo em vista que o paciente teria sido denunciado apenas por suposta infração ao art. 288, caput, do CP, razão pela qual não haveria fundamentação concreta para a manutenção da prisão cautelar.
+Requer, desse modo, a concessão sumária e definitiva da ordem constitucional para que o paciente possa aguardar em liberdade o deslinde da ação penal.
+É o relatório.
+2. Este Superior Tribunal de Justiça, "na esteira do preceituado no Enunciado n. 691 da Súmula do Pretório Excelso, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada perante os Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta" (AgRg no HC 427.758/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/03/2018, DJe 27/03/2018).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações:
+"Segundo o apurado, o paciente e os codenunciados se associaram para atuar com o propósito de praticar estelionatos diversos contra grande quantidade de vítima, em São Paulo e em outras cidades.
+Por meio da rede mundial de computadores, apresentavam-se com perfis falsos, passando-se por homens sedutores e galantes, captando a confiança de suas vítimas.
+Seduzidas por promessas de relacionamento, induzidas em erro, as vítimas estabeleciam relações de natureza passional e sentimental e concediam vantagens indevidas solicitadas pelos codenunciados.
+A fraude era consumada na cobrança de falsas taxas alfandegárias para liberação de mercadorias importadas por aquele que seduziu as vítimas, sob pretexto de ser uma caixa com presentes com jóias, relógios e roupas ou dinheiro para comprar imóvel no Brasil, sendo que os denunciados apresentavam-se como oficiais das forças armadas norte-americanas, solteiros ou viúvos e alegavam estar prestando serviços em locais de conflito como Afeganistão, Iraque, dentre outros e com o encerramento das missões militares, desejam vir ao Brasil para morar com as vítimas.
+Consta da peça acusatória que as vítimas, então, depositavam valores variados de R$1.000,00 a R$3.500,00, em contas bancárias fornecidas pela associação criminosa. Há notícias de vítimas que hipotecavam seus imóveis para conseguir dinheiro para fornecer aos denunciados, supondo-os companheiros para o futuro, em uma relação estável.
+Segundo o apurado, tal golpe, conhecido como "[NOME]", ludibriava geralmente mulheres solteiras, separadas, divorciadas ou viúvas, com idade igual ou superior a 40 anos, sendo que os denunciados localizavam suas vítimas por meio de redes sociais e sítios de relacionamento disponíveis na Internet.
+A associação foi descoberta em 04/05/2018 quando policiais civis dirigiram-se ao local dos fatos e deram cumprimento ao mandado de busca e apreensão contra [NOME], o qual também possuia mandado de prisão temporária, expedidos nos autos n. 0027447-80.2018.8.26.0050 e 0027446-97.2018.8.26.0050, referentes ao inquérito policial n. 259/2017, que apura a prática do referido golpe. 0027447-80.2018.8.26.0050 e 0027446-97.2018.8.26.0050, referentes ao inquérito policial n. 259/2017, que apura a prática do referido golpe.
+No local dos fatos foram encontrados equipamentos utilizados para a prática dos delitos de estelionato, ou seja, computadores pessoais, pen drives, cartões internacionais recarregáveis, dez aparelhos de telefonia celular além de R$4.987,00.
+No computador de responsabilidade dos denunciados foram encontrados diversos materiais utilizados para a prática de crime dos estelionatos.
+Nos notebooks de Isaac e Kelly foram encontrados vários textos montados, utilizados como padrão para a prática do crime.
+No notebook do paciente foram encontradas mensagens de e-mail, nas quais mulheres são cobradas pela entrega de um "pacote" supostamente enviado pelos denunciados.
+Foram localizadas notas de consignação visivelmente adulteradas em nome de várias vítimas.
+A prisão em flagrante foi convertida em prisão preventiva, em 05/05/2018 (fls. 502/505 dos autos principais).
+Argumenta que a r. decisão esta fundamentada em elementos abstratos.
+Aduz que não há como reconhecer a prisão em flagrante.
+Alega que não houve autorização judicial para a coleta dos dados no computador do paciente.
+Afirma que, por ter sido denunciado apenas por infração ao art. 288, caput, do Código Penal, que prevê pena privativa de liberdade de 01 a 03 anos, não é admissível a prisão preventiva.
+Assevera que o crime imputado não foi cometido com violência ou grave ameaça.
+Destaca que o paciente possui endereço fixo, ocupação lícita, primariedade e nenhuma ligação com os demais acusados.
+No entanto, a providência liminar em habeas corpus é excepcional, razão pela qual está reservada para os casos em que avulta flagrante o constrangimento ilegal. E essa não é a hipótese dos autos" (e-STJ, fls. 281/283).
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária, para manter, ao menos por ora, a constrição cautelar do paciente.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+3. Pelo exposto, indefere-se liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Após ciência do Ministério Público Federal e com o trânsito em julgado da presente decisão, arquivem-se os autos.
