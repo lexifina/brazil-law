@@ -1,0 +1,40 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO PENAL. CRIME DE DANO QUALIFICADO PRATICADO CONTRA O PATRIMÔNIO PÚBLICO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Dano - Elementos de prova que demonstram autoria e materialidade delitiva - Pretendida absolvição por aplicação do princípio da insignificância e ausência de dolo específico - Descabimento - Penas corretamente fixadas - Regime intermediário que se ajusta à hipótese dos autos - Recurso desprovido.
+Sustenta o recorrente divergência jurisprudencial e violação do artigo 163, parágrafo único, III, do Código Penal ao argumento de que o princípio da insignificância "tem plena aplicabilidade também em casos em envolvendo o patrimônio público, pois o Direito Penal não deve intervir em casos em que há evidente desproporção entre a sanção penal e a gravidade do injusto" (fl. 206).
+Requer, ao final, o provimento do recurso para absolver o réu "uma vez que a lesão causada ao patrimônio público foi ínfima, dando-se plena aplicabilidade ao entendimento da Corte gaúcha" (fl. 206).
+Apresentadas as contrarrazões e admitido o recurso especial, opina o Ministério Público Federal pelo seu provimento.
+É o relatório.
+É assente neste Superior Tribunal de Justiça o entendimento de que o bem jurídico tutelado no crime tipificado no artigo 163, parágrafo único, III, do Código Penal envolve a proteção ao patrimônio público, invocando, portanto, o interesse público, o que afasta a aplicação do princípio da insignificância.
+Nesse sentido, confiram-se os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 163, § ÚNICO, III, DO CÓDIGO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA NÃO APLICÁVEL. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PRESCRIÇÃO DA PRETENSÃO PUNITIVA SUPERVENIENTE OU INTERCORRENTE. RECURSO ESPECIAL INADMITIDO. TRÂNSITO EM JULGADO PARA A DEFESA. DATA QUE RETROAGE AO ESCOAMENTO DO PRAZO DE INTERPOSIÇÃO DO RECURSO ESPECIAL. PRECEDENTES. LAPSO TEMPORAL DA PRESCRIÇÃO NÃO CONFIGURADO. AGRAVO DESPROVIDO.
+1. A figura típica do delito previsto no art. 163, § único, III, do Código Penal cuida-se de conduta que provoca lesão a bem jurídico de relevante valor social, afetando toda a coletividade, razão pela qual não cabe a aplicação do princípio da insignificância.
+Precedentes. Incidência do enunciado n. 83 da Súmula do STJ. 2. O prazo da prescrição da pretensão punitiva superveniente é verificado pela pena cominada, nos termos do art. 110, § 1º, c/c art. 109, ambos do Código Penal - CP, porquanto pressupõe o trânsito em julgado para a acusação. 3. Em caso de interposição de recurso especial inadmitido e de agravo em recurso especial sem êxito, conforme especificado no EAREsp 386.266/SP, a data do trânsito em julgado para a defesa, exclusivamente para fins de prescrição, retroagirá ao último dia do prazo de interposição do recurso especial na origem. Precedentes.
+Agravo regimental desprovido.
+(AgRg no AREsp 1006934/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/11/2017, DJe 01/12/2017)
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CRIME DE DANO QUALIFICADO. VIOLAÇÃO DO ART. 155 DO CP. SÚMULA N. 284 DO STF. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+(..)
+2. O bem jurídico protegido relativamente ao crime de dano qualificado previsto no art. 163, III, do Código Penal consiste na proteção do patrimônio de seus titulares - União, Estados, Municípios, empresa concessionária de serviço ou sociedade de economia mista -, afeto ao interesse público.
+3. Na espécie, a lesão produzida atinge direta e concretamente a população, notadamente a mais carente, que se vê impossibilitada de utilizar os serviços de atendimento da farmácia básica do município - assistência pública de saúde. Ademais, pela certidão de antecedentes, o recorrente responde a outros oito processos envolvendo o mesmo tipo penal, circunstâncias que afastam a aplicação do princípio da insignificância.
+4. Recurso parcialmente conhecido e, nessa extensão, não provido. Determinação de execução imediata da sanção.
+(REsp 1416273/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/08/2017, DJe 24/08/2017).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. CRIME DE DANO QUALIFICADO. PATRIMÔNIO PÚBLICO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. ELEVADO GRAU DE REPROVABILIDADE DA CONDUTA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO DESPROVIDO.
+1. A aplicação do princípio da insignificância, para afastar a tipicidade penal, é possível quando se evidencia que o bem jurídico tutelado (no caso, o patrimônio) sofreu mínima lesão e a conduta do agente expressa pequena reprovabilidade e irrelevante periculosidade social.
+2. Na hipótese dos autos, a despeito da reduzida expressividade financeira do bem danificado, o delito praticado pelo Agravante possui expressividade penal, na medida em que atenta contra serviço essencial à comunidade, qual seja, a assistência pública à saúde. De fato, a agressão contra bem pertencente ao Centro de Saúde local afeta toda a coletividade.
+3. Agravo desprovido.
+(AgRg no AREsp 330.813/MG, Rel. Ministra LAURITA VAZ, QUINTA TURMA, Julgado em 05/11/2013, DJe 19/11/2013).
+"PROCESSUAL PENAL. CRIME MATERIAL. VESTÍGIOS. DESAPARECIMENTO. PERÍCIA. IMPOSSIBILIDADE. PROVA TESTEMUNHAL. SUPRIMENTO. DIREITO PENAL. DANO. PATRIMÔNIO PÚBLICO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. ATIPICIDADE MATERIAL. NÃO RECONHECIMENTO.
+(..)
+2. Julgamento na origem em consonância com o entendimento desta Corte sobre o tema.
+3. Consoante entendimento jurisprudencial, o "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentaridade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material. (..) Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público". (HC nº 84.412-0/SP, STF, Min. Celso de Mello, DJU 19.11.2004)
+4. Não é insignificante a conduta do paciente que, preso em cadeia pública, destruiu uma torneira em sua cela, visando deixar os demais detentos sem água, tumultuando o ambiente carcerário.
+5. Em tais circunstâncias, não há como reconhecer o caráter insignificante do comportamento imputado, ainda que o objeto material do crime seja de ínfimo valor, havendo afetação do bem jurídico pelo modo como perpetrado o delito e pela qualidade da vítima (Município).
+6. Ordem denegada".
+(HC 148.599/MG, minha relatoria, SEXTA TURMA, Julgado em 02/02/2012, DJe 15/02/2012).
+Do exposto resulta que a pretensão recursal deduzida na insurgência especial é contrária à jurisprudência desta Corte Superior de Justiça acerca do tema, cabendo a esta relatora negar provimento ao recurso nos termos do enunciado nº 568 da Súmula desta Corte, verbis:
+O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no artigo 932, IV, "a", do Código de Processo Civil em vigor (Lei nº 13.105/2015) c/c artigo 3º do Código de Processo Penal, e no artigo 34, XVIII, "b", parte final, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+Intime-se.
