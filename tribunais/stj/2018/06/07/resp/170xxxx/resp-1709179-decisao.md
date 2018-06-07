@@ -1,0 +1,17 @@
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. RESCISÃO UNILATERAL DE CONTRATO COLETIVO PELA EMPREGADORA. SEGURADORA QUE NEGOU AO AUTOR A POSSIBILIDADE DE MIGRAÇÃO PARA OUTRO PLANO POR ELA COMERCIALIZADO, SEM O CUMPRIMENTO DE PRAZO DE CARÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ARTIGOS VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA Nº 211/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO A QUE SE NEGA PROVIMENTO.
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A, com fundamento no art. 105, inciso III, alínea "a", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Plano de saúde  Rescisão unilateral de contrato coletivo pela empregadora, com obediência aos termos do ajuste  Seguradora que negou ao autor a possibilidade de migração para outro plano por ela comercializado, sem o cumprimento de prazo de carência  Autor portador de doença grave  Tumor Glómico  e que cumpriu integralmente o contrato coletivo pactuado em 2006  Determinação de manutenção pela seguradora do plano, em caráter individual e sem o cumprimento de qualquer prazo de carência, como disposto na Resolução n 0 19 do CONSU e Resolução Normativa n0 254 da ANS  Admissibilidade - Ocorrência de danos morais, na hipótese, mantido o quantum fixado em R$ 5.000,00  Não provimento" (e-STJ, fl. 309, gn).
+Nas razões do apelo especial, sustenta a parte recorrente, além de divergência jurisprudencial, violação dos arts. 535, inciso II, do Código de Processo Civil/1973; 186, 188, inciso I, 478, e, 944, parágrafo único, do Código Civil.
+Defende, em síntese, negativa de prestação jurisdicional, eis que, o acórdão recorrido não teria se manifestado sobre todas as questões postas em debate pela recorrente.
+No mais, insurge-se contra a determinação de migração da parte recorrida para um contrato individual pagando o mesmo valor de plano coletivo. Aduz que "ao se admitir a manutenção do mesmo preço da mensalidade do plano coletivo, o que sabidamente tem um custo bem menor em razão do maior número de beneficiários, estar-se-ia autorizando, como dito, a manutenção de um contrato coletivo para um único segurado, o que certamente não está nenhuma operadora obrigada a fazer, até mesmo para não tornar inviável o setor" (e-STJ Fl. 346).
+Assim, requer à ora recorrente a possibilidade de cobrar o valor referente ao plano individual.
+É o relatório. Passo a decidir.
+A pretensão recursal não merece acolhida.
+Os embargos declaratórios não merecem acolhida. No caso não se configura a existência de quaisquer das deficiências apontadas, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Quanto à tese relativa aos valores a serem cobrados na migração do plano de saúde coletivo para o individual, o recurso especial não pode ser conhecido, pois, sobre referida matéria não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+Cumpre asseverar que referida matéria apenas foi trazida pela recorrente em sede de embargos de declaração interposto na origem(e-STJ Fl. 320/324), tratando-se de verdadeira inovação recursal.
+Ante o exposto, conheço em parte do recurso especial para negar-lhe provimento.
+Intimem-se.
