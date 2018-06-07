@@ -1,0 +1,19 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO. TEMPO DE CUMPRIMENTO DA PENA NO REGIME ABERTO DESCONSIDERADO, SEGUNDO A DEFESA. COMPROVAÇÃO DE AUSÊNCIA POR PARTE DO PACIENTE, NÃO SENDO ELE LOCALIZADO PARA O INÍCIO DA EXECUÇÃO PENAL. CARÊNCIA DE VIGILÂNCIA.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], apontando-se como autoridade coatora a Décima Terceira Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos que decisão do Juízo de primeiro grau da comarca de Sorocaba/SP (PEC n. 805.132) deixou de considerar como pena cumprida o período transcorrido entre a data da soltura do paciente (regime aberto) e a data da prática de novo crime (fl. 38).
+Inconformada, a defesa interpôs agravo, no entanto a Décima Terceira Câmara Criminal do Tribunal de Justiça de São Paulo negou-lhe provimento (AG n. 9000429-89.2016.8.26.0602), mantendo a decisão proferida pelo Juízo das Execuções da comarca de Sorocaba/SP (PEC n. 805.132).
+No presente writ, alega a impetrante que o  ..  Juiz de primeira instância proferiu decisão nos autos da Execução Criminal sem considerar o cumprimento da pena quando estava  o paciente  no regime aberto, o que demonstra ilegalidade.
+Sustenta, ainda, que somente o livramento condicional compartilha do entendimento adotado pelas instâncias de origem, porém  ..  o período em que o agravante permaneceu no regime aberto deverá ser computado como pena cumprida, ante a inexistência de norma vedadora, com base no princípio da legalidade e da vedação de analogia in malam partem (fl. 5).
+Requer, diante disso, a concessão da ordem para que a decisão seja reformada.
+Decisão deste Relator indeferindo a liminar (fls. 71/73).
+Parecer ministerial opinando pelo não conhecimento do writ (fls. 90/92).
+É o relatório.
+Aqui, aduz-se que foi proferida decisão pelo Juiz de piso, nos autos da execução criminal, sem ter sido considerado o cumprimento da pena quando o paciente estava no regime aberto, o que demonstraria ilegalidade.
+Razão não assiste à impetrante, porquanto, para que tenha início o cumprimento da pena no regime aberto, deve ser o sentenciado intimado para tal intento, mediante condições a serem seguidas, por ter a sua liberdade restringida. No caso, consta do acórdão hostilizado que  ..  foi determinada a intimação do agravante para iniciar o cumprimento das condições estabelecidas para o regime aberto, todavia, não foi ele localizado no endereço constante dos autos (fl. 13), tendo sido preso em flagrante pelo cometimento de novo crime em 20/9/2015 (fl. 14), razão pela qual foi determinada a sustação do regime aberto (fl. 22) e considerado interrompido o período entre 19/9/2014, data da soltura para o cumprimento da pena em regime aberto, e 19/9/2015, data da prática do novo crime doloso  ..  (fl. 60).
+Com efeito, não houve o cumprimento da pena em regime aberto, pois o paciente não seguiu as determinações impostas para restringir a sua liberdade, ou seja, não houve controle estatal. Vê-se dos autos que, durante o suposto cumprimento da pena nesse regime,  ..  o sentenciado não permaneceu em casa de albergado ou estabelecimento adequado, tampouco demonstrou autodisciplina e senso de responsabilidade, mas, ao contrário, esteve isento de qualquer controle estatal, tendo, inclusive, afirmado que achava que "não devia mais nada a Justiça" (fl. 25) e praticado novo delito, o que caracteriza falta grave, a qual autoriza até mesmo a interrupção do cálculo de penas para fins de progressão de regime, impossível considerar tal período como pena cumprida, sob pena de consagrar a total impunidade  ..  (fls. 61/62).
+Assim, não obstante tenha sido deferido ao ora paciente a progressão para o regime aberto - solto em 19/9/2014 -, não houve o efetivo cumprimento da pena no aludido regime prisional, inclusive foi ele preso por outro delito em 19/9/2015 (fl. 59).
+Ante o exposto, denego a ordem.
+Publique-se.
