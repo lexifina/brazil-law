@@ -1,0 +1,63 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO CONTRA DECISÃO QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO. ART. 1.022, II, DO CPC. NORMA LOCAL. COMPETÊNCIA DO STF.
+1. Não se configurou a ofensa ao art. 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Deve ser ratificado o entendimento de que o STF é o órgão competente para dirimir "tais situações, pois há conflito entre a lei local e a federal, questão que só pode ser resolvida pelo Supremo Tribunal Federal, pois trata, em última análise, de matéria constitucional relacionada ao pacto federativo. Não foi por outro motivo que a Emenda Constitucional 45/2004 passou para o Supremo Tribunal Federal a competência para apreciar, em recurso extraordinário, as decisões que julgarem válida lei local contestada em face da lei federal" (AgRg no AREsp 600.368/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 15.12.2014).
+3. Acrescento que o art. 1.032 do Código de Processo Civil de 2015 não pode ser aplicado à espécie, porquanto a adoção do Princípio da Fungibilidade ao Recurso Especial que versar questão constitucional exige constatação de equívoco quanto à escolha do recurso cabível, o que não ocorreu na hipótese dos autos.
+4. Verifica-se que a questão em debate envolve, na realidade, análise de legislação local, art. 37, § 8º, da RICMS/RS, o que encontra óbice na Súmula 280 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário"), além de usurpar a competência do STF, no que tange à apreciação de ofensa a dispositivos constitucionais.
+5. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática deste relator que negou seguimento ao recurso interposto, com base no art. 932 do CPC.
+A agravante afirma que a decisão monocrática é omissa, porquanto deixou de analisar diversas questões de direito (fl. 634, e-STJ).
+Aduz que possui direito aos créditos de ICMS originados nas aquisições de produtos agropecuários de empresas localizadas em outros Estados (fl. 638, e-STJ).
+Argui que Decreto não pode inovar no mundo jurídico (fl. 638, e-STJ).
+A parte agravada apresentou impugnação às fls. 657-664, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 2.4.2018.
+A irresignação não merece prosperar.
+Constato que não se configurou a ofensa ao art. 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Ademais, verifica-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição. Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Confiram-se:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS À EXECUÇÃO. ART. 535, I e II, DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE VÍCIO. PERCENTUAL DOS JUROS DE MORA. COISA JULGADA. REDISCUSSÃO DA MATÉRIA. NÃO CABIMENTO. SEGUNDOS EMBARGOS DE DECLARAÇÃO. ABUSIVIDADE MANIFESTA. APLICAÇÃO DE MULTA. POSSIBILIDADE. ART. 538, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL.
+I - A oposição de embargos de declaração, consoante o disposto no art. 535, I e II, do Código de Processo Civil, é restrita às hipóteses de correção de obscuridade, contradição ou omissão no acórdão embargado, revelando-se tal via inadequada para a pretensão de rejulgamento da causa.
+II - Para interpretação de toda decisão judicial, não basta o exame de seu dispositivo, integrado que está à fundamentação que lhe dá sentido e alcance; havendo dúvidas, deve ser adotada a que seja mais conforme à fundamentação e aos limites da lide, em harmonia com o pedido formulado na inicial, conforme expressamente consignado no MS 6.864/DF, ou seja, juros de mora de 1% ao mês.
+III - A impropriedade da alegação nos segundos aclaratórios opostos com o escopo de rediscutir a suposta existência de vícios no julgado, já enfrentada nos primeiros embargos de declaração, constitui prática processual abusiva sujeita à aplicação de multa, nos termos do art. 538, parágrafo único, do Código de Processo Civil.
+IV - Embargos de declaração rejeitados, com aplicação de multa de 1% sobre o valor atualizado da causa.
+(EDcl nos EmbExeMS 6.864/DF, Rel. Ministra REGINA HELENA COSTA, TERCEIRA SEÇÃO, DJe 21/8/2014).
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE IMPENHORABILIDADE DO BEM. PEQUENA PROPRIEDADE RURAL. PREQUESTIONAMENTO. NECESSIDADE.
+1. Os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado.
+(..)
+(Resp 1.222.936/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 26/2/2014).
+Por outro lado, deve ser ratificado o entendimento de que o STF é o órgão competente para dirimir "tais situações, pois há conflito entre a lei local e a federal, questão que só pode ser resolvida pelo Supremo Tribunal Federal, pois trata, em última análise, de matéria constitucional relacionada ao pacto federativo. Não foi por outro motivo que a Emenda Constitucional 45/2004 passou para o Supremo Tribunal Federal a competência para apreciar, em recurso extraordinário, as decisões que julgarem válida lei local contestada em face da lei federal" (AgRg no AREsp 600.368/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 15.12.2014).
+Acrescento que o art. 1.032 do Código de Processo Civil de 2015 não pode ser aplicado à espécie, porquanto a adoção do Princípio da Fungibilidade ao Recurso Especial que versar questão constitucional exige a constatação de equívoco quanto à escolha do recurso cabível, o que não ocorreu na hipótese dos autos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PORTE ILEGAL DE MUNIÇÃO. PRINCÍPIO DA PROPORCIONALIDADE. FUNDAMENTO DE NATUREZA INFRACONSTITUCIONAL E CONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ.
+I - "É inadmissível o recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário." (Súmula 126/STJ).
+II - Na hipótese, o v. acórdão vergastado utilizou o princípio da proporcionalidade como fundamento autônomo e suficiente para absolver o ora agravado, razão pela qual se justifica a incidência do verbete sumular mencionado.
+III - O art. 1.032 do Código de Processo Civil de 2015 prevê a aplicação do princípio da fungibilidade ao recurso especial que versar questão constitucional, hipótese em que há um equívoco quanto à escolha do recurso cabível.
+IV - No caso vertente, entretanto, o v. acórdão objurgado pautou-se também em fundamento constitucional, utilizando-se do princípio da proporcionalidade como fundamento autônomo e suficiente para absolver o réu, não tendo sido interposto simultaneamente o recurso extraordinário cabível (precedente). Aqui, a hipótese não é de equívoco quanto à escolha do recurso, mas, sim, a própria ausência de recurso em separado no tocante ao capítulo decisório de jaez constitucional.
+V - Mesmo com a entrada em vigor do CPC/2015, ainda permanece hígido o enunciado 126 da súmula desta Corte, no qual "é inadmissível o recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário" (Súmula 126/STJ), razão pela qual não há falar em aplicação do art. 1.032 à espécie.
+Agravo regimental não provido.
+(AgRg no REsp 1.665.154/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 30/8/2017).
+O Tribunal local interpretando norma local consignou:
+No ponto, tenho adotado orientação no sentido de que a restrição imposta no art. 37, § 8Q, do Regulamento do ICMS/RS, no sentido de que "os créditos fiscais relativos ao benefício do não-estorno somente poderão ser utilizados para a compensação com débitos fiscais decorrentes de operação de saída ou de importação de mercadoria da mesma espécie da que originou o respectivo não-estorno" não fere o princípio da não cumulatividade do ICMS.
+Verifica-se que a questão em debate envolve, na realidade, análise de legislação local, art. 37, § 8º, da RICMS/RS, o que encontra óbice na Súmula 280 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário"), além de usurpar a competência do STF, no que tange à apreciação de ofensa a dispositivos constitucionais. A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. IPTU. TERMO INICIAL DO PRAZO PRESCRICIONAL. NOTIFICAÇÃO DO CONTRIBUINTE. ALTERAÇÃO DO MARCO PRESCRICIONAL, POR MEIO DE LEI MUNICIPAL. EXAME DE LEGISLAÇÃO LOCAL, EM SEDE DE RECURSO ESPECIAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+III. Assim, é de se reconhecer que o exame da insurgência recursal demanda, necessariamente, a prévia análise da legislação local, no caso, o Código Tributário Municipal (Lei Complementar Municipal 7/97) e o Decreto Municipal 6.392/2001. Correta, portanto, a aplicação da Súmula 280 do STF, como óbice ao processamento do Recurso Especial.
+(..)
+V. Agravo Regimental improvido.
+(AgRg no AREsp 745.219/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 17/11/2015).
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. INEXISTÊNCIA DE RELAÇÃO JURÍDICA. IPVA. ALIENAÇÃO DE VEÍCULO. RESPONSABILIDADE PELO PAGAMENTO DO IMPOSTO. INCIDÊNCIA DO ART. 4º DA LEI ESTADUAL 6.606/89. APLICAÇÃO DA SÚMULA 280/STJ.
+1. A Corte local, ao julgar a demanda, utilizou como fundamento o art. 4º da Lei Estadual 6.606/89, o qual impõe responsabilidade solidária pelo pagamento do IPVA ao "proprietário de veículo de qualquer espécie, que o alienar e não comunicar a ocorrência ao órgão público encarregado do registro e licenciamento, inscrição ou matrícula". Portanto, torna-se impossível a reforma do acórdão proferido, em sede de recurso especial, ante o óbice da Súmula 280/STF. Dentre os precedentes: AgRg no AREsp 106.355/SP, Rel.
+Ministro Mauro Campbell Marques, Segunda Turma, DJe 22/03/2012.
+2. Agravo regimental não provido.
+(AgRg no AREsp 111.274/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 25/9/2012).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUTÁRIO. IPVA. DECISÃO JUDICIAL DETERMINANDO O LICENCIAMENTO DE VEÍCULO, INDEPENDENTEMENTE DO PAGAMENTO DE MULTA (DECORRENTE DE INFRAÇÃO DE TRÂNSITO). PROVIDÊNCIA QUE NÃO TEM EFICÁCIA LIBERATÓRIA DE OBRIGAÇÃO FISCAL. PRECEDENTES.
+1. A orientação das Turmas que integram a Primeira Seção/STJ pacificou-se no sentido de que "o certificado de licenciamento do veículo, ainda que condicionada a sua expedição à quitação de tributos incidentes sobre a propriedade de veículo automotor, não é dotado de qualquer eficácia liberatória de obrigação fiscal" (REsp 590.461/RS, 2ª Turma, Rel. Min. Castro Meira, DJ de 25.8.2006). No mesmo sentido: REsp 776.570/RS, 1ª Turma, Rel. Min. Luiz Fux, DJ de 2.4.2007; REsp 600.995/RS, 2ª Turma, Rel. Min. João Otávio de Noronha, DJ de 25.4.2007.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.257.967/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/9/2012).
+Com essas considerações, nego provimento ao Agravo Interno.
+É como voto.
