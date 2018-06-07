@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MARCIO DE [NOME] MENDES, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Maranhão que indeferiu a liminar no writ de origem.
+O impetrante traz a seguinte síntese do processo:
+"Excelências, o paciente fora preso na data de 24.01.2014 pela suposta prática dos crimes previstos no artigo 121, forma qualificada e, ainda, artigo 2º, modalidade majorada, da lei nº 12.850/13.
+Fora absolvido na data de 16.02.2016 pelo Egrégio Tribunal Popular de todas as imputações atribuídas e, de forma subsequente, teve revogada a prisão preventiva outrora decretada, que, registre-se, perdurava por longos 02 anos e 23 dias.
+Diante da absolvição, o Parquet Estadual interpôs o cabível recurso de apelação, tão somente, em relação ao crime previsto no artigo 2º da lei 12.850/13.
+A nobre Corte Estadual de Justiça, por sua vez, deu provimento ao recurso interposto pelo MPE.
+Submetido, novamente, a julgamento perante o plenário popular, restou paciente condenado em relação ao crime de organização criminosa à uma pena privativa de liberdade consistente em 04 anos e 02 meses de reclusão a ser descontada em regime inicialmente fechado."
+Neste writ argumenta-se que o paciente sofre constrangimento ilegal, porque foi-lhe negado o direito de recorrer em liberdade sem fundamentação idônea e sem a presença das hipóteses do art. 312 do CPP, sobretudo porque se encontrava em liberdade antes da sentença.
+Sustenta-se ainda que a custódia é desproporcional, pois foi aplicada pena de 4 (quatro) anos e 2 (dois) meses de reclusão, tendo o paciente permanecido preso preventivamente por mais de 2 (dois) anos e 3 (três) meses.
+Requer a concessão da ordem, para que possa aguardar o julgamento do recurso de apelação em liberdade.
+O paciente foi condenado pela prática do crime tipificado no art. 2º, §2º, da Lei n. 12.850/2013, à pena de 4 (quatro) anos, 2 (dois) meses e 22 (vinte e dois) dias de reclusão, em regime inicial semiaberto.
+Na origem, o processo n. 0002802-27.2014.8.10.0001 encontra-se na fase recursal, sendo que o recurso de apelação foi encaminhado ao Tribunal de origem em 29/5/2018, conforme informações processuais eletrônicas do site do Tribunal a quo consultadas em 30/5/2018.
+É o relatório.
+DECIDO.
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+A decisão do Tribunal de origem que indeferiu a liminar, foi fundamentada nos seguintes termos (fls. 15/17):
+"Trata-se de habeas corpus com pedido de liminar, impetrado pelos advogados [NOME] e [NOME], em favor de [NOME], contra ato tido por ilegal, praticado pelo Juiz de Direito da 2ª Vara do Tribunal do Júri do termo judiciário de [NOME].
+Os impetrantes narram, em síntese, que o paciente foi absolvido pelo e. Tribunal do Júri Popular, da prática dos crimes de homicídio e organização criminosa. Contra essa decisão, o Ministério Público manejou recurso de apelação relativamente ao segundo delito, o qual restou provido. Submetido a novo julgamento popular, o paciente foi condenado por incidência comportamental no art. 2º, § 2º, da Lei nº 12.850/13, sendo aplicada, pelo juiz presidente, a pena de 04 (quatro) anos e 02 (dois) meses de reclusão, a ser cumprida em regime semiaberto.
+Diante dessa quadra fática, aduzem os impetrantes que o paciente está sofrendo constrangimento ilegal, uma vez que:
+I - o magistrado de base não fundamentou a necessidade da prisão preventiva por ocasião da sentença, em franca violação ao art. 387, § 1º, do CPP, negando-lhe o direito de recorrer em liberdade para viabilizar o início da execução provisória da pena, alegando, apenas, a soberania dos veredictos; e
+II - a imposição da prisão preventiva fere o princípio da homogeneidade, pois o paciente permaneceu preso preventivamente por 02 (dois) anos e 04 (quatro) meses, portanto, já cumpriu mais da metade da pena imposta, de 04 (quatro) anos e 02 (dois) meses, fazendo jus, inclusive, ao livramento condicional ou ao regime aberto.
+Com fulcro nesses argumentos requer, liminarmente, a concessão da ordem, para que seja garantido ao paciente o direito de aguardar o julgamento de seu recurso em liberdade.
+Dentre os documentos que instruem a inicial, destaca-se a cópia da sentença condenatória (Id 1943090).
+Suficientemente relatado, decido.
+A concessão do pleito liminar, em sede de habeas corpus, exige a demonstração, de plano, da presença dos requisitos fumus boni juris e periculum in mora, além da comprovação, inequívoca, de urgência na cessação da coação ilegal incidente sobre a liberdade do paciente.
+No caso vertente, em que pesem os argumentos do impetrante, não vislumbro, prima facie, a presença dos requisitos legais para a concessão da tutela urgente, na linha dos fundamentos adiante expostos.
+O cerne da argumentação deduzida na inicial cinge-se na desnecessidade da prisão preventiva, por duas razões fundamentais: a) ausência de motivação concreta, não sendo suficiente, para este fim, a possibilidade de execução provisória da pena em decorrência da soberania dos veredictos; e b) ofensa ao princípio da homogeneidade.
+Sob o primeiro aspecto, observo, pelo menos por ora, que não assiste razão aos impetrantes, uma vez que a decisão do magistrado de base está em consonância com o atual posicionamento da 1ª Turma do Supremo Tribunal Federal que, no julgamento do habeas corpus nº 118.770/SP, da lavra do ministro Luís Roberto Barroso, passou a adotar a seguinte linha de compreensão, in litteris:
+ ..  não viola o princípio da presunção de inocência ou da não culpabilidade a execução da condenação pelo Tribunal do Júri, independentemente do julgamento da apelação ou de qualquer outro recurso.Essa decisão está em consonância com a lógica do precedente firmado em repercussão geral no ARE 964.246-RG, Rel. Min. Teori Zavascki, já que, também no caso de decisão do Júri, o Tribunal não poderá reapreciar os fatos e provas, na medida em que a responsabilidade penal do réu já foi assentada soberanamente pelo Júri.
+ ..  .
+Ou seja, atualmente, aExcelsa Corte admitea viabilidade da execução provisória da penanas condenações proferidas pelo Tribunal do Júri, tendo em vista que, em eventual recurso da defesa, a Corte Togada não poderáreapreciarfatos e provas, face a soberania dos veredictos no que tange ao exame da matéria fático-probatória.
+Muito embora o magistrado apontado coator mencione em sua decisão "decreto a prisão preventiva", os seus fundamentos, em última análise, condizem com a possibilidade de execução provisória da pena, pois assentou que, "em decorrência da decisão soberana do Egrégio Tribunal Popular, nego ao acusado o direito de apelar em liberdade, e assim o faço para fins de imediato cumprimento da decisão condenatória  ".
+Portanto, não entrevejo, nessa perspectiva, coação ilegal a ser sanada nesta sede perfunctória.
+No que concerne a suposta ofensa ao princípio da homogeneidade, entendo, a priori, que a impetração não deve ser conhecida no ponto.
+A possibilidade de modificação do regime inicial de cumprimento da pena, computado o tempo de prisão preventiva, com base no art. 387, §2º, do CPP, é matéria reservada à apreciação do juiz de conhecimento, no momento da prolação da sentença.
+A eventual omissão a esse respeito, in casu, deveria ter sido impugnada em sede processual adequada (embargos declaratórios ou recurso de apelação criminal), não sendo lícita a utilização da estreita via do habeas corpuscomo sucedâneo de recurso para esta finalidade, sob pena, ainda, de supressão de instância.
+Com essas considerações, indefiro a liminar vindicada.
+Requisitem-se as informações à autoridade impetrada, no prazo de 05 (cinco) dias, servindo esta decisão, desde já, como ofício para esta finalidade."
+A sentença negou ao paciente o direito de recorrer em liberdade sob a seguinte fundamentação (fls. 18/21 - com destaques):
+" ..
+Em decorrência da decisão soberana do Egrégio Tribunal Popular, nego ao acusado o direito de apelar em liberdade, e assim o faço, para fins de imediato cumprimento da decisão condenatória, levando-se em conta que o acusado já foi condenado a 19 anos e 05 meses de reclusão, com decisão transitado em julgado, portanto, encontra-se cumprindo pena, de modo que seria um contra senso que, na condição de integrante de organização criminosa, permitir que o mesmo aguarde o trânsito em julgado solto.
+Assim, decreto a prisão preventiva do acusado [NOME], vulgo "[NOME]", nos autos qualificado, uma vez que nos autos existe a prova da materialidade e indícios de autoria, o que faço para fins de imediato início da execução da reprimenda aplicada, tudo com fundamento nos artigos 311 a 313, inciso I, do Código de Processo Penal.
+Expeça-se o competente mandado de prisão, oficiando-se a direção do presídio onde o mesmo se encontra recolhido, dando conta desta decisão, para que ali fique a disposição deste juízo, até ulterior deliberação."
+
+Como se vê, o juízo de primeiro grau negou ao paciente o direito de recorrer em liberdade com fundamento na reiteração delitiva, ao apontar que "o acusado já foi condenado a 19 anos e 05 meses de reclusão, com decisão transitado em julgado, portanto, encontra-se cumprindo pena", de modo que não se verifica ilegalidade na decisão recorrida.
+Por outro lado, em sede de apreciação de liminar em Súmula 691 não é possível se aferir, até pela falta de informação do juízo de primeiro grau, se o paciente respondeu solto ao processo e por quanto tempo permaneceu preso preventivamente antes da anulação do julgamento anterior, de modo que fica inviabilizada a apreciação dessas questões nesse momento processual.
+Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Não se verifica, portanto, ilegalidade para justificar a mitigação do enunciado da Súmula n. 691 do STF.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
