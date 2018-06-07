@@ -1,0 +1,19 @@
+DECISÃO: O presente recurso extraordinário foi interposto pela União contra acórdão que, proferido pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA CONTRA LEI EM TESE. INOCORRÊNCIA. PEDIDO DE RESSARCIMENTO OU DE COMPENSAÇÃO INDEFERIDO. PRESUNÇÃO DE BOA-FÉ. ART. 74, §§ 15 E 17, DA LEI Nº 9.430/96. MULTA INDEVIDA. VIOLAÇÃO DO DIREITO DE PETIÇÃO.
+    1. ‘In casu’, não há que se falar em mandado de segurança contra lei em tese, mas sim de impetração contra os efeitos concretos da norma, visto que o indeferimento de pedido de ressarcimento ou de compensação enseja necessariamente, por se tratar de ato vinculado, a autuação fiscal contra a impetrante, o que lhe confere interesse de agir consistente na busca de proteção preventiva, na forma do disposto no art. 1º, da Lei nº 12.016/09, contra uma ação punitiva da autoridade coatora.
+    2. A Lei nº 12.249, de 11 de junho de 2010, instituiu penalidades ao contribuinte que não alcança sucesso em pedido de ressarcimento de tributos ou que não obtém a homologação da declaração de compensação oferecidos perante à Receita Federal do Brasil.
+    3. A Constituição da República, no rol dos direitos e garantias fundamentais, expressamente assegura o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder, sendo que os pedidos de ressarcimento e de compensação apresentados à Receita Federal indubitavelmente se amoldam ao presente caso.
+    4. O disposto nos §§ 15 a 17, do art. 74, da Lei nº 9.430/96, acrescentados pelo art. 62, da Lei nº 12.249/2010 obsta ou ao menos dificulta sobremaneira o regular direito constitucional de pedir do contribuinte, o qual, quando dotado de boa-fé, não pode ser ameaçado de multa em caso de mero indeferimento de pedido de ressarcimento ou de compensação, apenas por exercer regularmente seu direito fundamental de petição.
+    5. Dessa maneira, exceto se o contribuinte obrou de má-fé ao pleitear pedido de restituição ou declaração de compensação, não há que se falar na imposição da referida multa, devendo os parágrafos 15 e 17, do art. 74, da Lei nº 9.430/96, ser interpretados à luz da Constituição, de modo que a multa punitiva fique condicionada à verificação de má-fé por parte do contribuinte.
+    6. Apelação parcialmente provida. ”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 2º, 60, § 4º, 61, § 1º, II, “b”, e 97, todos da Constituição da República, e a Súmula Vinculante nº 10.
+    Cumpre registrar, desde logo, que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 796.939-RG/RS, Rel. Min. EDSON FACHIN, Tema nº 736/RG, reconheceu existente a repercussão geral da questão constitucional nele suscitada, e que coincide com a mesma controvérsia jurídica ora versada na presente causa, fazendo-o em acórdão assim ementado:
+    “CONSTITUCIONAL. PROCESSO ADMINISTRATIVO TRIBUTÁRIO. INDEFERIMENTO DE PEDIDOS DE RESSARCIMENTO, RESTITUIÇÃO OU COMPENSAÇÃO DE TRIBUTOS. MULTAS. INCIDÊNCIA ‘EX LEGE’. SUPOSTO CONFLITO COM O ART. 5º, XXXIV. REPERCUSSÃO GERAL RECONHECIDA.
+    I – A matéria constitucional versada neste recurso consiste na análise da constitucionalidade dos §§ 15 e 17 do art. 74 da Lei 9.430/1996, com redação dada pelo art. 62 da Lei 12.249/2010.
+    II – Questão constitucional que ultrapassa os limites subjetivos ad causa, por possuir relevância econômica e jurídica.
+    III – Repercussão geral reconhecida.”
+    Isso significa que se impõe quanto ao Tema nº 736/RG, nos  termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução destes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 07 de junho de 2018.
+Ministro CELSO DE MELLO
+Relator
