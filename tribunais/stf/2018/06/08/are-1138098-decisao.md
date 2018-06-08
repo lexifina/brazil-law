@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR. ANULAÇÃO DE ATO DEMISSIONAL. NULIDADE DO PROCESSO ADMINISTRATIVO DISCIPLINAR. INOCORRÊNCIA. PROPORCIONALIDADE DA PENA APLICADA. APELAÇÃO DESPROVIDA. 1. A irregularidade na intimação do servidor para a oitiva de uma testemunha no processo administrativo disciplinar contra ele instaurado, consistente na realização da assentada apenas dois dias após a referida intimação, não tem o condão de nulificar o referido processo, ante a aplicação do princípio pas de nulitte sans grief. 2. Com efeito, a irrelevância do referido depoimento para o desfecho do PAD fica evidenciado ante a constatação de que ele sequer foi mencionado no parecer lastreador da demissão do servidor, devendo ser ainda registrada a comprovação cabal de sua participação na irregularidade que lhe foi imputada, fato, aliás, que por ele próprio foi confessado, não obstante a alegação de que teria cometido o ilícito movido pela singela vontade de ajudar a uma segurada em dificuldade. 3. Não impressiona, de igual modo, a alegação de que ele teria devolvido o numerário desviado antes da deflagração do PAD, porque a referida devolução foi feita após o início das investigações levadas a efeito em razão de auditoria promovida pelo INSS. 4. Apelação desprovida. ”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, caput, XLVI, LIV e LV, da CF.
+    O recurso não deve ser provido. O Tribunal de origem entendeu que não houve irregularidades no procedimento administrativo que culminou na pena de demissão do ora recorrente. Com efeito, dissentir dessa conclusão, exigiria o reexame de fatos e provas constantes dos autos, o que não cabe neste momento processual, conforme a Súmula 279/STF:
+    “Para simples reexame de prova não cabe recurso extraordinário.”
+    Ademais, incide a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da constituição. Nessa linha, veja-se o seguinte trecho da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 08 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
