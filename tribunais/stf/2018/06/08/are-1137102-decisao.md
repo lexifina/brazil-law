@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de Agravo contra decisão da instância de origem que inadmitiu Recurso Extraordinário interposto com fundamento no art. 102 da Constituição Federal, ao argumento de que o recurso é deserto, pois não houve o recolhimento do preparo, mesmo após a parte ser intimada a promover o ato, permaneceu inerte.
+    Contra esses argumentos, a parte agravante aduz, em suma, que faz jus ao benefício da justiça gratuita requerendo ainda o efeito suspensivo ao agravo.
+    É o relatório. Decido.
+    O apelo não pode ser conhecido, pois não foi comprovado o recolhimento do preparo quando da interposição do apelo extremo.
+    Cumpre à parte recorrente comprovar, no ato da interposição da recurso, o efetivo recolhimento do preparo de acordo com que preceitua a lei de regência. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PORTE DE REMESSA E RETORNO. RECOLHIMENTO IRREGULAR. DESERÇÃO. O Supremo Tribunal Federal assentou o entendimento de que compete à parte recorrente o ônus de comprovar o efetivo recolhimento do preparo em conformidade com os ditames legais, o que deve ocorrer no momento da interposição. Não há como afastar a deserção do recurso extraordinário sob exame, cujo preparo foi recolhido mediante Guia de Recolhimento da União – GRU, em desacordo com a Resolução nº 352/2008-STF, vigente ao tempo do recolhimento. Agravo regimental desprovido. (ARE 707959 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 3/4/2014)”
+    Saliente-se que o acórdão recorrido foi publicado antes da entrada em vigor do novo Código de Processo Civil, razão pela qual não se aplica o disposto no art. 1.007 do referido diploma processual.
+    Mesmo que fosse possível superar esse grave óbice, os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    Observe-se, ainda, que, mesmo a CORTE já tendo reconhecido, em processo distinto, a transcendência geral da matéria discutida, o recorrente não se exime de apresentar, formal e motivadamente, a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), desde que a intimação da decisão que se pretende impugnar tenha ocorrido a partir de 3 de maio de 2007, data da publicação da Emenda Regimental 21, de 30 de abril de 2007 (Plenário, AI 664.567-QO, Relator: MIN. SEPÚLVEDA PERTENCE, Tribunal Pleno, DJe de 6/9/2007), como na presente hipótese.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 8 de junho de 2018.
+Ministro Alexandre de Moraes
+Relator
+documento assinado digitalmente
