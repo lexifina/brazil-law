@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região, cujo voto condutor reproduzo a seguir (eDOC 51, p. 1):
+    “PREVIDÊNCIÁRIO. REVISÃO DE AUXÍLIO DOENÇA COM REPERCUSSÃO EM APOSENTADORIA DE INVALIDEZ. APLICAÇÃO DA SÚMULA 260. PRESCRIÇÃO.  1. Objetiva-se a aplicação da primeira parte da Súmula 260 do extinto Tribunal Federal de Recursos, para que seja utilizado o índice integral quando do primeiro reajuste do auxílio-doença, acarretando, assim, reflexos financeiros na RMI da aposentadoria por invalidez decorrente da transformação do referido benefício e, consequentemente, na renda mensal atual, em razão da revisão determinada pelo art. 58 do ADCT.
+    2. Afastada a prescrição da pretensão à revisão do auxílio-doença, em virtude da repercussão no benefício vigente de aposentadoria por invalidez. Ressalvadas as parcelas pretéritas ao quinquênio que antecedeu o ajuizamento desta demanda.
+    3. Segundo o entendimento prevalente nesta Turma Recursal, para os benefícios derivados da transformação de benefício anterior concedido antes da Constituição Federal de 1988, a aplicação da primeira parte da Súmula 260 do extinto TFR é devida. Isto porque, apesar da previsão do inciso I do art. 21 do Decreto 89.312/84, havendo benefício anterior, o INSS aplicava a regra do § 3º do referido artigo, ou seja, calculava o salário-de-benefício do período de gozo do auxílio-doença a partir da renda mensal do benefício, proporcionalmente ao coeficiente de cálculo. Desta forma, a não-aplicação da primeira parte da Súmula 260 do extinto TFR ao beneficio precedente (auxílio-doença) implicaria em defasagem na renda mensal da aposentadoria.
+    4. Recurso do INSS o qual se nega provimento.”.
+    Os embargos de declaração opostos foram providos em parte para incluir a análise da decadência (eDOC 2, p. 32).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 5º, caput e XXXVI e 201 §1º, da Constituição da República.
+    Nas razões recursais, sustenta-se a ocorrência da decadência do direito à revisão da renda mensal inicial, porquanto teriam se passado mais de dez anos entre o início do benefício e o ajuizamento da demanda.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Constata-se que as razões recursais estão dissociadas dos fundamentos do acórdão recorrido, o que torna aplicável ao caso a Súmula 284 desta Corte.
+    Isso porque o acórdão recorrido tratou da controvérsia sobre critérios de reajustamentos contidos na Súmula 260 do extinto TFR e art. 58 do ADCT do benefício solicitado, não de revisão do ato de concessão.
+    O recurso extraordinário, por seu turno, trata especificamente da ocorrência da decadência do direito à revisão da renda mensal inicial do auxílio doença.
+    Sobre o tema, confiram-se os seguintes julgados de ambas as Turmas:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E PREVIDENCIÁRIO. 1. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. 2. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 652.247 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 10.10.2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE DO APELO EXTREMO. SÚMULA 284 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. OFENSA INDIRETA. AGRAVO A QUE SE NEGA PROVIMENTO. I O recorrente não impugnou especificadamente os fundamentos do acórdão recorrido. Inviável, portanto, o recurso extraordinário, a teor da Súmula 284 do STF. Para se chegar à conclusão contrária à adotada pelo acórdão impugnado, seria necessário o exame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF, bem como a análise de normas infraconstitucionais, sendo certo que a ofensa à Lei Maior, se ocorrente, seria apenas indireta. - Agravo regimental a que se nega provimento.” (RE 718.234-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 9.12.2013).
+    Ante o exposto, com fulcro no artigo 21, § 1º, do RISTF, nego provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 8 de junho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
