@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto por LUCILA DA CONCEIÇÃO TEIXEIRA SANTOS contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"PROCESSUAL CIVIL E CIVIL. MONITÓRIA. CONTRATO DE EMPRÉSTIMO. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. COMISSÃO DE PERMANÊNCIA. POSSIBILIDADE DE COBRANÇA DESDE QUE NÃO CUMULADA COM OUTRO FATOR MORATÓRIO. RENEGOCIAÇÃO DE DÍVIDA. FACULDADE DA INSTITUIÇÃO FINANCEIRA.
+Afastada a preliminar de cerceamento de defesa, na medida em que os presentes embargos tem por escopo a revisão de cláusulas contratuais tidas por abusivas, tratando-se a discussão em matéria eminentemente de direito, sendo desnecessária a perícia contábil, de modo que não há óbice ao julgamento antecipado da lide.
+Não há qualquer ilegalidade, tampouco cerceamento de defesa, na hipótese em que o Juiz, em harmonia com o disposto nos artigos 125 e 130 do CPC, indefere pedido de produção de prova pericial, reputada inútil diante do cenário dos autos.
+0 STJ pacificou o entendimento no sentido de que "a importância cobrada a título de comissão de permanência não poderá ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato, ou seja: a) juros remuneratórios à taxa média de mercado, não podendo ultrapassar o percentual contratado para o período de normalidade da operação; b) juros moratórios até o limite de 12% ao ano; e c) multa contratual limitada a 2% do valor da prestação, nos termos do art. 52, § 14, do CDC" (REsp 1058114/RS, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 12/08/2009, DJe 16/11/2010). Aplicabilidade da Súmula 294 do STJ.
+Não há qualquer óbice à cobrança da comissão de permanência (que abrange juros remuneratórios, correção monetária, multa e juros de mora) da data do inadimplemento, desde que não cumulada com outro fator moratório.
+A renegociação da dívida, pleiteada pelo apelante, é uma faculdade da instituição financeira, na medida em que ela significa acordo de vontades, o que implica em concessões mútuas e como bem salientou o douto representante do Ministério Público, em seu parecer de fls. 167/170, "não há obrigatoriedade de negociar o débito vencido e o apelante não comprovou: a) o oferecimento de proposta de acordo; b) a possibilidade de arcar com qualquer valor". Dessa forma, ninguém está obrigado a fazer um acordo, pois a renegociação depende da vontade das partes e tal iniciativa deve partir dos contratantes" (fls. 197/198 e-STJ).
+Os embargos de declaração interpostos foram rejeitados (fls. 233/242 e-STJ).
+Nas razões do especial (fls. 246/280 e-STJ), a parte recorrente aponta negativa de vigência dos arts. 130, 231, 330, I, 332, 333, I, 420 e 421 do Código de Processo Civil de 1973, 4º do Decreto nº 22.626/1933, 2º, 3º, 6º ,46, V, 47 e 51 do Código de Defesa do Consumidor, 396 do Código Civil e 1.022 do CPC/2015.
+Sustenta, em síntese, que caso não se entenda prequestionadas as matérias insertas nos artigos apontados como violados, requer-se a nulidade do acórdão por omissão.
+Afirma que:
+(i) o indeferimento da prova pericial cerceou o seu direito de defesa;
+(ii) é vedada a capitalização mensal dos juros,e
+(iii) o CDC é aplicável à hipótese e que a cobrança indevida descaracteriza a mora.
+Oferecidas as contrarrazões, o recurso não foi admitido na origem, daí o presente agravo no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece acolhida.
+De início, registra-se que a negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o Tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Não é o caso dos autos.
+Com efeito, as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Impende asseverar que cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, não há falar em deficiência de fundamentação da decisão o não acolhimento de teses ventiladas pelos recorrentes, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AOS ARTS. 165, 458 E 535 DO CPC. INEXISTÊNCIA. ARGUMENTOS DO RECURSO ESPECIAL CUJA ANÁLISE DEPENDE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+1. Não há ofensa aos arts. 165, 458, 515 e 535 do CPC se o tribunal de origem se pronuncia fundamentadamente sobre as questões postas a exame, dando suficiente solução à lide, sem incorrer em qualquer vício capaz de maculá-lo.
+2. Com base nos elementos circunstanciais da demanda, a corte local entendeu que os devedores não têm direito ao alongamento da dívida em decorrência de ação dolosa, o que, para ser desconstituído, impõe reexame de matéria fático-probatória da lide, vedado nesta sede (Súmula 7 do STJ). Precedente.
+3. Agravo regimental a que se nega provimento" (AgRg no Ag 930.113/MG, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 6/10/2011, DJe 13/10/2011).
+Além disso, verifica-se que as matérias versadas nos arts. 2º, 3º, 6º ,46, V, 47 e 51 do Código de Defesa do Consumidor e 396 do Código Civil não foram objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+De mais a mais, não há impropriedade em afirmar a falta de prequestionamento e afastar a negativa de prestação jurisdicional, haja vista que o julgado está devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente.
+Quanto à alegação de cerceamento de defesa, impende asseverar ser possível o julgamento da causa sem a produção de perícia atuarial se magistrado entender substancialmente instruído o feito, declarando a existência de provas suficientes para o seu convencimento.
+De fato, devem ser levados em consideração os princípios da livre admissibilidade da prova e do livre convencimento do juiz, que, nos termos do art. 130 do CPC/1973, permitem ao julgador determinar as provas que entender necessárias à instrução do processo, bem como o indeferimento daquelas que considerar inúteis ou protelatórias.
+Dessa forma, não há falar em nulidade processual por ausência de produção da prova pericial, visto que a decisão vergastada procedeu à devida análise dos fatos e a sua adequação ao direito.
+De resto, discute-se nos autos a validade da cobrança da comissão de permanência e, sobre o ponto, o acórdão encontra-se assim fundamentado:
+"(..) Insurge-se a apelante contra a importância cobrada a título de comissão de permanência, contudo tal inconformismo não merece prosperar, na medida em que o contrato em comento está alinhado com o decidido pelo Superior Tribunal de Justiça no julgamento do REsp nº 1.058.114/RS, submetido ao procedimento previsto no artigo 543-C do CPC, no sentido de "a importância cobrada a título de comissão de permanência não poderá ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato, ou seja: a) juros remuneratórios à taxa média de mercado, não podendo ultrapassar o percentual contratado para o período de normalidade da operação; b) juros moratórios até o limite de 12% ao ano; e c) multa contratual limitada a 2% do valor da prestação, nos termos do art. 52, § 1º, do CDC".
+Ainda quanto a tal aspecto, o Superior Tribunal de Justiça assinala, em Súmula de enunciado nº 294, que não é potestativa a cláusula que prevê a comissão de permanência nos moldes contratados, ou seja, calculada pela taxa média de mercado, apurada pelo Banco Central do Brasil.
+Por outro lado, a previsão contratual de incidência de comissão de permanência acrescida da taxa de rentabilidade implica verdadeira capitalização, sendo vedada por lei.
+Ademais, encontra-se pacificado que a comissão de permanência é devida para o período de inadimplência, limitada à taxa do contrato (Súmula 294/STJ), desde que não cumulada com correção monetária (Súmula 30/STJ), juros remuneratórios (Súmula 296/STJ), moratórios, multa contratual (AgREsp 712.801/RS), inclusive no que se refere à "taxa de rentabilidade". Isto porque, como já se disse, o CDI (Certificado de Depósito Interbancário) compreende a rentabilidade do capital, o que afasta a cobrança cumulativa de tal taxa com qualquer outra.
+(..)
+Assim, não há qualquer óbice à cobrança da comissão de permanência (que abrange juros remuneratórios, correção monetária, multa e juros de mora) da data do inadimplemento, desde que não cumulada com outro fator moratório, razão pela qual deve ser mantida a sentença, nesse aspecto" (fls. 191/193 e-STJ).
+Verifica-se, pois, que a conclusão acórdão recorrido está em consonância com o que restou pacificado pela Seção de Direito Privado do Superior Tribunal de Justiça quanto ao tema:
+1. "Não é potestativa a cláusula contratual que prevê a comissão de permanência, calculada pela taxa média de mercado apurada pelo Banco Central do Brasil, limitada à taxa do contrato" (Súmula nº 294/STJ).
+2. "A comissão de permanência e a correção monetária são inacumuláveis" (Súmula nº 30/STJ).
+3. "A cobrança de comissão de permanência - cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato - exclui a exigibilidade dos juros remuneratórios, moratórios e da multa contratual" (Súmula nº 472/STJ).
+4. É inviável a cobrança da comissão de permanência caso o contrato não esteja juntado aos autos e silente o acórdão recorrido quanto ao reconhecimento da pactuação expressa do encargo, em virtude dos óbices das Súmulas nºs 5 e 7/STJ.
+Essas conclusões são extraídas dos REsps 1.058.114/RS e 1.063.343/RS, Rel. Ministra Nancy Andrighi, Rel. p/ Acórdão Ministro João Otávio de Noronha, Segunda Seção, julgado em 12/8/2009, DJe 16/11/2010, julgados submetidos ao rito do art. 543-C do CPC.
+Assim, tem incidência o enunciado da Súmula nº 568/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
