@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME], apontando como autoridade coatora Desembargador do Tribunal de Justiça do Estado de São Paulo, no julgamento do HC 2109995-84.2018.8.26.0000.
+Noticiam os autos que o paciente foi preso em flagrante e denunciado como incurso no artigo 33 da Lei 11.343/2006.
+Buscando o trancamento da ação penal, a defesa impetrou prévio writ na origem, cujo pedido liminar foi indeferido, concedendo-se, de ofício, liberdade provisória ao corréu [NOME].
+Sustenta o impetrante que não haveria justa causa para que a deflagração da persecução criminal em desfavor do paciente pela prática do crime de tráfico de drogas.
+Afirma que se estaria diante de manifesto excesso acusatório.
+Alega que o paciente não teria agido com dolo, e que estaria sendo objetivamente responsabilizado pelos fatos.
+Entende que a peça vestibular estaria divorciada dos indícios colhidos no curso do inquérito policial.
+Requer, liminarmente, a suspensão do feito originário até o julgamento definitivo do presente mandamus, e, no mérito, pugna pela concessão da ordem para que seja trancado.
+É o relatório.
+Este Superior Tribunal de Justiça, "na esteira do preceituado no Enunciado n. 691 da Súmula do Pretório Excelso, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada perante os Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta" (AgRg no HC 427.758/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/03/2018, DJe 27/03/2018).
+E, da análise da documentação acostada, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, tendo em vista que a decisão objurgada não se mostrou teratológica, restando fundamentada a negativa do pleito liminar.
+Com efeito, o Desembargador Relator consignou que, "respeitado o entendimento dos combativos impetrantes, incabível a suspensão do feito", pois "não se divisa irregularidade alguma na denúncia apresentada pelo Ministério Público, a qual, aliás, já foi correta e formalmente recebida em primeiro grau" (e-STJ fl. 314).
+Acrescentou que "a peça acusatória descreve com detalhes a ação delituosa e está escorada em significativos indícios, colhidos na fase pré-processual", salientando que "a prova da existência do crime e a existência de indícios da respectiva autoria foram validadas quando, em audiência de custódia, decretou-se a prisão preventiva dos agentes" (e-STJ fl. 314).
+E, após ressaltar que "a defesa prévia apresentada pelo paciente não trouxe matéria alguma que pudesse elidir, sumariamente, a acusação que lhe foi lançada, limitando-se, genericamente, a alegar a impropriedade da inicial acusatória", concluiu estar "presente, pois, à toda evidência, a justa causa para a ação penal de natureza condenatória" (e-STJ fl. 314).
+Desta forma, não se constata qualquer vício na negativa do pleito liminar formulado no mandamus originário, tendo sido declinadas justificativas plausíveis para o indeferimento da cautela almejada, sendo certo que o revolvimento das questões nele aventadas e aqui reiteradas certamente acarretaria a indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça indicada como coatora quando do julgamento do seu mérito.
+Ademais, "o habeas corpus não se apresenta como via adequada ao trancamento da ação penal, quando o pleito se baseia em falta justa causa (ausência de indícios de autoria), não relevada, primo oculi, por prova pré-constituída. Intento que demanda revolvimento fático-probatório, não condizente com a via restrita do writ" (HC 426.685/GO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 20/03/2018, DJe 27/03/2018), circunstância que reforça a impossibilidade de conhecimento do presente mandamus.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o habeas corpus.
+Publique-se. Intime-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
