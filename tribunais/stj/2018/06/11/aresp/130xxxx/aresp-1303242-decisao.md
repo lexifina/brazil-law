@@ -1,0 +1,9 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ESPECIAL. EXECUÇÃO FISCAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. AGRAVO DA FAZENDA DO ESTADO DE SÃO PAULO DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto, com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO. EXECUÇÃO FISCAL. EXTINÇÃO DA EXECUÇÃO. EXECUÇÃO FISCAL. EXTINÇÃO. ARTIGO 26 DA LEI N. 6.830/80. CANCELAMENTO DAS CDA"S. Pedido de extinção apresentado pela Fazenda sem ressalvas. Alegação de que o cancelamento dos títulos somente se deu em razão da existência de sentença de procedência proferida em ação anulatória ajuizada pela contribuinte. Superveniência de acórdão que reformou em parte a sentença mantendo subsistentes as CDA"s. Irrelevância. Ausência de provimento jurisdicional que determinasse o cancelamento definitivo das CDA"s. Sentença proferida de acordo com o requerimento da Fazenda. Inocorrência de erro material. Irrelevância do fato novo apresentado. Manutenção da sentença. NEGADO PROVIMENTO AO RECURSO (fls. 627).
+2. Nas razões de seu Apelo Nobre inadmitido, a recorrente se limita a alegar que o acórdão recorrido violou o art. 26 da LEF.
+3. É o breve relatório. Decido.
+4. Verifica-se que o Apelo Nobre se encontra deficientemente fundamentado, porquanto o recorrente não demonstrou de forma precisa como teria ocorrido tal afronta, restringindo-se a apontar o dispositivo legal. Aplica-se, na hipótese, por analogia, a Súmula 284 do STF, segundo a qual é inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+5. Diante do exposto, nega-se provimento ao Agravo.
+6. Publique-se. Intimações necessárias.
