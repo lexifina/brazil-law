@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. RESPONSABILIDADE DO ALIENANTE INFORMAR A TRANSFERÊNCIA DE VEÍCULO AO ÓRGÃO COMPETENTE. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJSP, assim ementado (fl. 155):
+INEXISTÊNCIA DE RELAÇÃO JURÍDICA E ANULATÓRIA DE DÉBITO  IPVA e multas de trânsito  Veículo alienado em 2005  Responsabilidade solidária do alienante ao pagamento dos débitos correspondentes termina a partir da comunicação da venda, conforme preceitua o art. 134 do CTB, e art. 40, III, da Lei nº 6.606/89  Admite-se como satisfeita a exigência legal com a determinação de bloqueio do veículo  Alienante que não pode ser indefinidamente penalizado pelas multas e tributos incidentes no automóvel  Bloqueio como meio a compelir o adquirente a regularizar a situação da transferência de propriedade do bem - Precedentes  Condição de beneficiário da assistência judiciária que não implica na isenção ao pagamento do ônus da sucumbência, mas apenas suspende a exigibilidade, consoante a regra do art. 12, da Lei nº 1.060/50. R. Sentença mantida.
+Recursos improvidos.
+Depreende-se dos autos que o recorrente vendeu veículo para concessionária que, por sua vez, o vendeu para terceiro, mas deixou de realizar a transferência no órgão competente. Desde então ora recorrente passou a receber multas cuja autoria é de terceiro não identificado, por responsabilidade da concessionária compradora direta do veículo.
+Alega violação dos artigos 1.267 e 1.275 do CC/2002 e dissídio jurisprudencial, sob o argumento de que a transferência de bem se perfaz com a mera tradição do bem, devendo ser afastada sua condição de proprietário do veículo e demais responsabilidades consectárias dessa condição jurídica.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 187/188.
+É o relatório. Passo a decidir.
+Verifica-se que não houve juízo de valor por parte da Corte de origem a respeito da alegada violação aos artigos 1.267 e 1.275 do CC/2002, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que não opostos embargos de declaração na origem com o intuito de sanar eventual vício relativo à aplicação dos aludidos dispositivos legais.
+Ainda que assim não fosse, observa-se que, ao indicar ofensa aos dispositivos do Código Civil e direcionar a sua tese no sentido de que a transferência do bem se dá com a tradição, o recorrente deixou de impugnar o fundamento do acórdão recorrido segundo o qual há previsão legal no sentido de caber ao proprietário de veículo alienado informar a transferência da propriedade, sob pena de responder solidariamente por penalidades impostas, verbis:
+O artigo 134 da Lei nº 9.503/97 estabelece o prazo de trinta (30) dias para que o alienante informe ao órgão executivo de trânsito a transferência de propriedade do veículo automotor, mediante cópia autenticada do comprovante de transferência, sob pena de se responsabilizar solidariamente pelas penalidades impostas, até que cumpra a comunicação:
+"Art. 134. No caso de transferência de propriedade, o proprietário antigo deverá encaminhar ao órgão executivo de trânsito do Estado dentro de um prazo de 30 (trinta) dias, cópia autenticada do comprovante de transferência de propriedade, devidamente assinado e datado, sob pena de ter que se responsabilizar solidariamente pelas penalidades impostas e suas reincidências até a data da comunicação".
+Ora, a singela interpretação da norma implica na responsabilidade solidária do antigo proprietário desidioso até a data da comunicação da transferência.
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Deixo de analisar o alegado dissidio jurisprudencial, posto que não foi apontado nas razões de recurso especial nenhuma jurisprudência como paradigma.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
