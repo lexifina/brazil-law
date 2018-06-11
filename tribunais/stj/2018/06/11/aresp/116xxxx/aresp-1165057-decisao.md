@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo MUNICÍPIO DE SOROCABA na vigência do CPC/2015, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO - Fase de execução de obrigação de fazer - Reconhecimento de preclusão do direito de opor embargos - Inexistência de prejuízo ao recorrente - Multa diária - Ausência de pronunciamento judicial a respeito - Matérias não conhecidas - Ônus das custas periciais - Incumbência do devedor - Precedentes - Decisão mantida. Recurso improvido na parte em que conhecido" (fl. 75e).
+Não foram opostos Embargos de Declaração.
+Nas razões do Recurso Especial, a parte recorrente aponta violação ao art. 371 do CPC/2015. Argumenta, em síntese, que:
+
+"3 - Iniciou-se a execução, tendo esta Municipalidade informado que "os décimos no valor de R$ 249,12 (duzentos e quarenta e nove reais e doze centavos) correspondente a 23,5% da diferença entre os vencimentos dos referidos cargos, a partir do final da disfunção já foram incorporados aos vencimentos da interessada, conforme informações do Órgão Técnico Municipal".
+4 - A autora, contudo, não concordou com o valor apresentado e pugnou pelo pagamento de R$ 471,55 mensais. Após, ante a controvérsia, sobreveio a decisão do douto Juízo a quo, determinando a produção de prova pericial e o recolhimento dos respectivos honorários periciais pelo Município.
+(..)
+9 - No caso em apreço, o município ressaltou que já estava cumprindo a determinação contida na r. sentença, havendo, contudo, irresignação por parte da autora quanto ao cálculo feito. Ante tal controvérsia, houve, pelo próprio Juízo, a determinação de prova pericial para verificação dos cálculos.
+10 - Neste aspecto, indaga-se a quem incumbia o ônus probatório: à Municipalidade de comprovar que a servidora já estava recebendo o quanto devido e determinado pelas decisões judiciais ou à autora de comprovar eventual equívoco nos cálculos da Municipalidade
+11 - Como é cediço, à autora incumbe, por força do artigo 373, inciso I, do Código de Processo Civil vigente (correspondente ao art. 333, inciso I, do Código de Processo Civil de 1973), comprovar os fatos constitutivos de seu direito" (fls. 85/87e).
+
+Por fim, requer "a reforma da decisão proferida pelo v. Aresto ora guerreado, in totum, fazendo desse modo a mais lídima JUSTIÇA" (fl. 89e).
+Negado seguimento ao Recurso Especial (fl. 96e), foi interposto o presente Agravo (fls. 98/102e).
+Contraminuta apresentada (fls. 104/108e).
+A irresignação não merece acolhimento.
+O Superior Tribunal de Justiça firmou o entendimento de que a Corte de origem é soberana na análise das provas, podendo concluir pela necessidade da produção de provas periciais, documentais e testemunhais.
+Isso porque o Código de Processo Civil consagra o princípio do livre convencimento motivado, segundo o qual o juiz é livre para apreciar as provas produzidas, bem como para decidir quanto à necessidade de produção ou não das que forem requeridas pelas partes, sendo-lhe lícito indeferir, motivadamente, as diligências que reputar inúteis ou protelatórias.
+Assim, tendo em vista a fundamentação adotada na origem, o acórdão objeto do Recurso Especial, que entendeu necessária a produção de nova perícia contábil, somente poderia ser modificado mediante o necessário revolvimento dos aspectos fáticos-probatórios da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 do STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. NÃO OCORRÊNCIA DE CERCEAMENTO DE DEFESA PELO INDEFERIMENTO DA PRODUÇÃO DE NOVA PROVA PERICIAL. OBSERVÂNCIA DO PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não ocorre cerceamento de defesa, pelo indeferimento de produção de nova prova pericial, quando o Magistrado entende que há elementos suficientes para o julgamento da lide.
+2. Ademais, considerando o princípio do livre convencimento motivado, cabe ao Magistrado valorar acerca da necessidade de complementação do material probatório.
+3. A alteração do julgado a fim de identificar a necessidade de realização de nova perícia, sob pena de cerceamento de defesa, implicaria, no presente caso, o reexame de provas, vedado pela Súmula 7/STJ.
+(..)
+5. Agravo regimental não provido" (STJ, AgRg no AREsp 696.506/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 12/08/2015).
+Quanto ao ônus das custas periciais, o Tribunal de origem, para decidir a controvérsia dos autos, deixou consignado o seguinte:
+"Resta decidir quem deve arcar com os ônus das custas periciais.
+Neste ponto, a irresignação não merece prosperar.
+Com efeito, bem observou o magistrado singular que:
+" ..  O meio empregado pela executada, que optou por não opor Embargos, não afasta o ônus de provar a retidão de sua recusa ao cumprimento da obrigação executada, e de arcar com as respectivas despesas processuais  .. " (fl. 12).
+De mais a mais, não se olvida do entendimento de que incumbe ao devedor arcar com a antecipação dos honorários periciais na fase de liquidação.
+Por pertinente:
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. ANTECIPAÇÃO DA REMUNERAÇÃO DO PERITO. OBRIGAÇÃO DO DEVEDOR. 1. Na fase autônoma de liquidação de sentença (por arbitramento ou por artigos), incumbe ao devedor a antecipação dos honorários periciais (Recurso Especial 1.274.466/SC, Segunda Seção, Rel. Min. Paulo de Tarso Sanseverino, DJe 21.5.2014). 2. Agravo regimental a que se nega provimento." (STJ - AgRg no REsp: 1.291.106 MS 2011/0264546-2, Relator: Ministra MARIA ISABEL GALLOTTI, Data de Julgamento: 02/06/2015, T4 - QUARTA TURMA, Data de Publicação: DJe 08/06/2015)
+Assim, inviável alterar o direcionamento das custas do perito, sob pena de privilegiar o devedor em detrimento do credor.
+Enfim, nenhuma reforma está a merecer o r. decisum monocrático - o qual inclusive fica ratificado, nos termos do art. 252 do Regimento Interno desta E. Corte de Justiça - proferido em consonância com os argumentos acima articulados, não se vislumbrando, para fins de prequestionamento, qualquer violação aos dispositivos legais e constitucionais invocados pelas partes.
+Isto posto, nega-se provimento ao agravo de instrumento na parte em que conhecido" (fls. 79/81e).
+Verifica-se que o acórdão está em consonância com o entendimento do Superior Tribunal de Justiça, conforme se verifica abaixo:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS PERICIAIS. ÔNUS DE PAGAMENTO. RECURSO REPETITIVO. SIMILITUDE FÁTICA. DECISÃO MANTIDA. 1. "Na fase autônoma de liquidação de sentença (por arbitramento ou por artigos), incumbe ao devedor a antecipação dos honorários periciais" (REsp n. 1.274.466/SC, SEGUNDA SEÇÃO, Rel. Min. PAULO DE TARSO SANSEVERINO). 2. Agravo interno a que se nega provimento"(STJ, AAgInt no AREsp 1.061.905/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 12/12/2017).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. LIQUIDAÇÃO DE SENTENÇA. REALIZAÇÃO DE NOVOS CÁLCULOS CONTÁBEIS. POSSIBILIDADE. ADEQUAÇÃO AOS PARÂMETROS DO TÍTULO JUDICIAL. REVISÃO. SÚMULA 7 DO STJ. HONORÁRIOS PERICIAIS. ANTECIPAÇÃO PELO DEVEDOR. JURISPRUDÊNCIA. RECURSO NÃO PROVIDO.
+1. O col. Tribunal a quo, após a análise dos cálculos apresentados pelas partes, concluiu pela necessidade da realização de novos cálculos para adequar a execução aos parâmetros do título exequendo. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. 2. A eg. Segunda Seção do Superior Tribunal de Justiça, sob o rito previsto no art. 543-C do CPC/73, no julgamento do REsp 1.274.466/SC, firmou entendimento de que, "na fase autônoma de liquidação de sentença (por arbitramento ou por artigos), incumbe ao devedor a antecipação dos honorários periciais".
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 943.986/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 07/04/2017).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO. ANTECIPAÇÃO DOS HONORÁRIOS PERICIAIS. RESPONSABILIDADE DO DEVEDOR. SÚMULA 83/STJ.
+1. Na hipótese em exame, aplica-se o Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. Conforme orientação firmada, pela eg Segunda Seção, em sede de recurso representativo da controvérsia, "na fase autônoma de liquidação de sentença (por arbitramento ou por artigos), incumbe ao devedor a antecipação dos honorários periciais" (REsp 1.274.466/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 14/05/2014, DJe de 21/05/2011).
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 761.405/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 02/06/2016).
+Destarte, estando o acórdão recorrido em sintonia com a jurisprudência desta Corte, aplica-se, ao caso, o entendimento consolidado na Súmula 83 desta Corte, in verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo para conhecer parcialmente do Recurso Especial e, nessa parte, negar-lhe provimento.
+Deixo de majorar os honorários recursais, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
