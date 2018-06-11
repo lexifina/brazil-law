@@ -1,0 +1,35 @@
+DECISÃO
+VINICIUS LINHARES, paciente neste habeas corpus substitutivo de recurso especial, estaria sofrendo constrangimento ilegal em seu direito de locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação n. 0008540-23.2012.8.13.0408.
+Neste writ, alega a impetrante constrangimento ilegal, pois a Corte de origem "considerou as consequências do crime desfavoráveis, negou a incidência da atenuante da confissão espontânea e impôs o aumento de 3/8 (três oitavos) na terceira fase de fixação da reprimenda, a despeito da inidoneidade da fundamentação para tanto" (fl. 2).
+Requer, assim, a concessão do habeas corpus, a fim de que "reduzir a pena-base diante da consideração favorável das consequências do crime, aplicar a atenuante da confissão espontânea e impor o acréscimo de até 1/3 (um terço) previsto no artigo 157, § 2º, do Código Penal" (fl. 8).
+Indeferida a liminar (fls. 631-632) e prestadas as informações (fls. 635-672 e 673-689), veio parecer do Ministério Público Federal, que opinou pela denegação da ordem (694-698).
+Decido.
+I. Redução da pena-base
+No que tange à pretendida redução da pena-base imposta ao paciente, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto, devendo, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do artigo 59 do Código Penal, as quais não deve se furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, a Corte estadual deu provimento ao apelo da acusação, a fim de condenar o réu pela prática do delito previsto no art. 157, § 2º, I, II e V, do Código Penal. Ao dosar a pena, assim fundamentou a primeira etapa da dosimetria (fl. 566):
+A culpabilidade na espécie é ínsita e própria do tipo penal; o acusado não possui bons antecedentes; não há dados para aferir a sua conduta social e personalidade; os motivos são comuns aos delitos dessa natureza; as circunstâncias, normais do tipo penal; as conseqüências desfavoráveis.
+Diante disso, na primeira fase. fixo as penas-base em 04 (quatro) anos e 08 (oito) meses de reclusão e 13 (treze) dias-multa;  ..
+Dessa forma, verifico que a pena-base foi exasperada em 8 meses, considerando desfavoráveis os antecedentes e as consequências do crime - 4 meses para cada vetorial.
+No tocante às consequências do crime, a Corte local asseverou tão somente que eram "desfavoráveis". Reputo, portanto, inválida a fundamentação apresentada, pois não foi calcada em nenhum elemento concreto dos autos para justificar a análise desfavorável da vetorial e, consequentemente, a exasperação da pena.
+II. Confissão espontânea
+O Tribunal estadual entendeu inviável o reconhecimento da confissão espontânea, pois a circunstância, "para ensejar a atenuação da sanção é aquela completa, que coincide com a imputação, sem ressalvas ou qualquer desculpa para amenizar o fato, o que inocorre na espécie" (fl. 565).
+No caso, verifico que o réu em seu interrogatório judicial asseverou que "conhece a imputação da denúncia sendo ela parcialmente verídica" (fl. 406).
+Este Superior Tribunal possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação.
+Dessa forma, verifico o constrangimento ilegal de que está sendo vítima o paciente, haja vista que a confissão realizada na fase informativa foi utilizada para corroborar o acervo probatório e fundamentar a condenação, devendo incidir a atenuante prevista no art. 65, III, "d", do Código Penal.
+Nesse sentido, menciono o seguinte julgado: "Nos termos da jurisprudência do Superior Tribunal de Justiça, se a confissão dos réus, ainda que parcial (qualificada) ou retratada, for utilizada pelo magistrado para fundamentar a condenação, deve incidir a respectiva atenuante" (HC n. 237.252/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 26/2/2014).
+III. Majorantes do roubo
+A Corte de origem elevou a pena em 3/8, na terceira fase da dosimetria, "em razão das causas de aumento" (fl. 566).
+Do trecho acima transcrito, verifico que a instância antecedente justificou o aumento da pena apenas com base no número de majorantes incidentes no caso, sem apontar elementos dos autos (modus operandi, por exemplo) que, efetivamente, evidenciassem a real necessidade de exasperação da pena no patamar estabelecido.
+Este Superior Tribunal vem reiteradamente decidindo que, em se tratando de roubo com a presença de mais de uma causa de aumento, a majoração da pena acima do mínimo legal (um terço) requer devida fundamentação, com referência a circunstâncias concretas que justifiquem um acréscimo mais expressivo, não sendo suficiente a simples menção à existência de causas de aumento de pena, como ocorrido no caso em análise.
+Confira-se, a propósito, o seguinte precedente: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes. Súmula n. 443 do STJ" (HC n. 297.160/SP, 6ª T., de minha relatoria, DJe 3/11/2014).
+Ressalto que a matéria se encontra sumulada por esta Corte, em seu enunciado n. 443, verbis: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+IV. Nova dosimetria
+Caracterizadas as coações ilegais, passo à readequação da pena.
+Partindo dos critérios adotados pela Corte estadual, verifico que a pena-base foi fixada em 4 anos e 8 meses de reclusão mais 13 dias-multa. Afasto a valoração negativa das consequências do crime, razão pela qual reduzo a pena para 4 anos e 4 meses de reclusão e 11 dias-multa.
+Na segunda fase, a reprimenda permaneceu inalterada. Todavia, reconheço a incidência da confissão espotânea, e diminuo a pena para 4 anos de reclusão e 10 dias-multa.
+Na terceira etapa, a sanção é reduzida em 1/3 pelas majorantes, o que a torna, definitivamente estabelecida em 5 anos e 4 meses de reclusão mais 13 dias-multa.
+V. Dispositivo
+À vista do exposto, concedo a ordem, a fim de reduzir a reprimenda para 5 anos e 4 meses de reclusão mais 13 dias-multa.
+Publique-se e intimem-se.
