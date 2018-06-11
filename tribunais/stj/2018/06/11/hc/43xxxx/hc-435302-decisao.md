@@ -1,0 +1,34 @@
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. TERCEIRA FASE DE FIXAÇÃO DA REPRIMENDA. AUSÊNCIA DE FUNDAMENTAÇÃO. ILEGALIDADE. REGIME MAIS GRAVOSO. ELEMENTOS INERENTES AO TIPO PENAL. CONSTRANGIMENTO ILEGAL RECONHECIDO.
+Ordem concedida.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] - condenado como incurso no crime de roubo circunstanciado -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que deu provimento à apelação interposta pelo Ministério Público para fixar o regime inicial fechado de cumprimento da pena, bem como manteve o percentual de 3/8, em razão das majorantes do crime de roubo (fls. 25/32 - Apelação Criminal n. 0000734-67.2015.8.26.0537).
+Alega a impetrante constrangimento ilegal consistente no aumento da pena em 3/8, em razão das majorantes do emprego de arma e concurso de agentes, bem como na fixação do regime inicial fechado de cumprimento da pena, com fundamento, apenas, em circunstâncias inerentes ao próprio tipo penal.
+Postula, ao final, a concessão liminar da ordem, a fim de que seja aplicado o aumento na terceira fase em 1/3 e fixado o regime inicial semiaberto de expiação.
+O pedido de liminar foi indeferido (fls. 38/39).
+Dispensadas as informações, o Ministério Público Federal, em parecer exarado pelo Subprocurador-Geral da República, [NOME], manifestou-se pelo não conhecimento do writ ou, caso contrário, pela denegação da ordem (fls. 44/53).
+É o relatório.
+Para melhor compreensão da controvérsia, confiram-se os fundamentos do magistrado sentenciante ao fixar a pena (fls. 21/22 - sem grifos no original):
+Diante dessas circunstâncias judiciais, fixo a pena-base de cada um dos roubos no mínimo legal em 4 (quatro) anos de reclusão e 10 (dez) dias-multa, no valor unitário Não há agravantes.
+As atenuantes da confissão espontânea e da menoridade de 21 (vinte e um) anos não tem reflexo na pena, pois já fixada no mínimo, sendo inviável redução aquém deste patamar, nos termos da Súmula 231 do Superior Tribunal de Justiça.
+Tendo em vista a presença de duas causas de aumento de pena do parágrafo 2º incisos I e II do artigo 157, do Código Penal, aumento a pena em 3/8 (três oitavos), restando esta em 5 (cinco) anos e 6 (seis) meses de reclusão e 13 (treze) dias-multa, no valor unitário mínimo legal.
+Interpretação em outro sentido estimularia, sem dúvida, a prática de roubos à mão armada com vários coautores, pois, estando o agente sozinho e armado a pena seria a mesma que em concurso, não tendo ele nada a perder ao se associar a outros roubadores, mas só a ganhar com a perspectiva de impunidade e pela maior possibilidade de consumação ocorrente na espécie.
+Em razão da continuidade delitiva e com base no artigo 71, caput, do Código Penal, aumento a pena de um dos crimes de roubo em 1/6 (um sexto), pois, o réu praticou o delito contra somente duas vítimas diferentes, não tendo, sequer, consumado o roubo subsequente, restando esta em 6 (seis) anos e 5 (cinco) meses de reclusão e 15 (quinze) dias-multa no valor unitário mínimo legal.
+Pena esta que converto em definitiva pela ausência de outras circunstâncias modificadoras.
+O Tribunal a quo, por sua vez, asseverou que na terceira fase, presentes duas causas de aumento e, em especial sendo uma delas o emprego de arma de fogo, razão assiste ao pleito ministerial impondo-se o aumento das penas à fração de três oitavos, tornando-as definitivas em 5 anos e 6 meses de reclusão e 13 dias-multa (fl. 31).
+Dos excertos acima transcritos, verifica-se que as instâncias ordinárias, no tocante às causas de aumento de pena, fixaram o respectivo percentual em patamar acima do mínimo (1/3) sem tecer fundamentação concreta e objetiva para tanto, o que caracteriza manifesto constrangimento ilegal, porquanto o critério de elevação da reprimenda na terceira fase da dosimetria possui caráter subjetivo, por ser mais favorável ao réu e por obedecer ao princípio constitucional da individualização da pena, e não meramente matemático, a depender, pois, das circunstâncias do caso concreto.
+Assim, obedecidas as diretrizes fixadas pelas instâncias ordinárias, passo ao redimensionamento da reprimenda.
+Fica mantida a pena-base estabelecida nas instâncias ordinárias no patamar de 4 anos de reclusão, e pagamento de 10 dias-multa. Na fase intermediária, não incide as atenuantes, em obediência ao enunciado da Súmula nº 231/STJ. Na terceira fase, a incidência das majorantes previstas no art. 157, § 2º, I e II, do Código Penal implica um acréscimo de 1/3 da pena, ficando esta em 5 anos e 4 meses de reclusão, e pagamento de 13 dias-multa. Por fim, a pena deve ser recrudescida em 1/6, pela continuidade delitiva, tornando-se definitiva em 6 anos, 2 meses e 20 dias de reclusão, e pagamento de 15 dias-multa.
+Outrossim, ao alterar o regime fixado pelo magistrado de 1º grau, afirmou a Corte de origem (fl. 31):
+Dessa forma, o crime de roubo praticado com emprego de arma de fogo demonstra maior gravidade da conduta ante o grande poder vulnerante do objeto empregado pelo agente.
+Assim, ao escolher como modus operandi o emprego de arma de fogo, o agente denota a gravidade concreta de sua conduta, colocando em efetivo risco a vida do ofendido, a justificar maior rigorismo quanto ao regime.
+Por fim, importante ressaltar constituir-se a mera posse de arma de fogo crime autônomo e grave, sendo apenas absorvido em razão de ser o crime de roubo delito apenado de maneira mais severa.
+Sendo assim, as circunstâncias do crime - emprego de arma de fogo - e o quantum de pena aplicado, autorizam a fixação de regime inicial fechado.
+Como visto, o regime mais rigoroso foi determinado apenas em razão da gravidade abstrata do delito, baseando-se o magistrado em elementos inerentes ao próprio tipo penal, já considerados na terceira fase de fixação da reprimenda, o que, segundo as Súmulas 718 e 719/STF, não constitui fundamentação idônea, in verbis:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Além disso, a pena-base foi fixada no mínimo legal, o que também atrai a aplicação da Súmula 440/STJ:
+Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Destarte, ausentes circunstâncias judiciais desfavoráveis, em respeito ao art. 33, § 2º, b, do Código Penal, o regime adequado para cumprimento da pena é o semiaberto.
+Ante o exposto, concedo a ordem, a fim de redimensionar a pena para 6 anos, 2 meses e 20 dias de reclusão, e pagamento de 15 dias-multa, em regime semiaberto.
+Publique-se.
