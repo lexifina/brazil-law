@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. DIREITO DE RECORRER EM LIBERDADE. HOMICÍDIO QUALIFICADO. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. FALSIFICAÇÃO DE DOCUMENTO PÚBLICA E USO DE DOCUMENTO FALSO. CONTEMPORANEIDADE. TEMA NÃO APRECIADO NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO. MATÉRIA SUPERADA. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA. ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS DENEGADO.
+1. Matéria não analisada pelo Tribunal de origem não pode ser diretamente enfrentada por esta Corte Superior de Justiça, sob pena de supressão de instância.
+2. Havendo o julgamento do embargos de declaração opostos pelo Ministério Público, encontra-se superada a alegação de excesso de prazo.
+3. Apresentada fundamentação concreta para manter prisão preventiva, evidenciada na referência à reiteração delitiva, diante da prática reiterada de crimes, sem olvidar que atualmente cumpre pena em regime fechado por condenação pela prática de crime de tráfico e associação ao tráfico, não há que se falar em ilegalidade do decreto de prisão preventiva.
+4. Habeas corpus denegado.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, denegar a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de habeas corpus interposto por [NOME], em face do acórdão do Tribunal de Justiça do Paraná, que negou provimento ao recurso de apelação e acolheu embargos declaratórios.
+O Tribunal de origem negou provimento ao recurso de apelação por acórdão que possui a seguinte ementa (fls. 47/48):
+APELAÇÃO CRIMINAL - TRIBUNAL DO JÚRI - HOMICÍDIO QUALIFICADO PELA SURPRESA, POSSE IRREGULAR DE ARMA DE FOGO, FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E USO DE DOCUMENTO FALSO (ART. 121, § 2o, IV, DO CP - ART. 16, PARÁGRAFO ÚNICO, IV, DA LEI  10.826/2003 - ART. 304 C/C O ART. 297, AMBOS DO CP) - DOSIMETRIA DA PENA - CRIME DE HOMICÍDIO QUALIFICADO - PRIMEIRA FASE DO ART. 68 DO CP. - ALEGAÇÃO DE PENA EXACERBADA PROPONDO A REDUÇÃO AO MÍNIMO LEGAL - IMPROCEDÊNCIA - CULPABILIDADE DESFAVORÁVEL AO AGENTE - VALORAÇÃO CORRETA - DO CRIME DE POSSE ILEGAL DE ARMA DE FOGO - INVOCAÇÃO DO PRINCÍPIO DA CONSUMAÇÃO PARA QUE O CRIME MEIO SEJA ABSORVIDO PELO CRIME FIM - IMPOSSIBILIDADE - O DELITO DE HOMICÍDIO CONSUMOU-SE EM DATA E SITUAÇÃO DIVERSA DO CRIME DE POSSE DE ARMA DE FOGO COM IDENTIFICAÇÃO SUPRIMIDA E MUNIÇÕES - DO CRIME DE FALSIFICAÇÃO DE DOCUMENTO PÚBLICO C/C USO DE DOCUMENTO FALSO - FASE PRIMEIRA DO ART. 68 DO CP. - POSTULAÇÃO DE REDUÇÃO DA PENA AO MÍNIMO LEGAL - IMPROCEDÊNCIA - CULPABILIDADE DESFAVORÁVEL AO AGENTE - VALORAÇÃO CORRETA - SEGUNDA FASE DO CÁLCULO DA PENA - MENSURAÇÃO DA FRAÇÃO DE 1/3 (UM TERÇO) EM RAZÃO DA AGRAVANTE DA REINCIDÊNCIA - SENTENÇA CORRETA - RECURSO DESPROVIDO.
+Os embargos declaratórios foram acolhidos por acórdão cuja ementa é a seguinte:
+EMBARGOS DE DECLARAÇÃO - FALTA DE INTIMAÇÃO DE ADVOGADA CONSTITUÍDA PARA A SESSÃO DE JULGAMENTO - VERIFICADA NULIDADE ABSOLUTA DO V. ACÓRDÃO - NECESSIDADE DE RENOVAÇÃO DO JULGAMENTO - DIREITO CONSTITUCIONAL DA AMPLA DEFESA - EMBARGOS ACOLHIDOS.
+O Parquet opôs novos embargos, que foram acolhidos em 13/7/2017, tendo sido interposto recurso especial pela defesa.
+Neste recurso, argumenta-se a ocorrência de excesso de prazo para julgamento dos embargos de declaração opostos pelo Ministério Público, não estarem presentes os requisitos indicados para manter a prisão preventiva e negar o direito de recorrer em liberdade, bem como ausência de contemporaneidade da prisão. Por isso, requer o provimento, para que seja expedido alvará de soltura.
+O paciente, [NOME] DE OLIVEIRA [NOME], foi condenado às penas de 25 (vinte e cinco) anos e 8 (oito) meses de reclusão, e 39 (trinta e nove) dias-multa, pela prática do delito tipificado no artigo 121, § 2º, IV, do Código Penal, bem como artigo 16, parágrafo único, IV, da Lei nº 10.826/2003 e artigo 304 c/c o artigo 297, do Código Penal.
+A liminar foi indeferida.
+As informações foram prestadas.
+Na origem, na apelação criminal n. 12121943 (00050632420118160026), foi negado seguimento ao recurso especial interposto pelo paciente no dia 3/5/2018, conforme informações processuais eletrônicas disponíveis em 14/5/2018.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Neste habeas corpus, busca-se o direito de recorrer em liberdade, com a alegação de excesso de prazo para julgamento dos embargos de declaração opostos pelo Ministério Público e por não estarem presentes os requisitos indicados para manter a custódia cautelar, bem como ausência de contemporaneidade da prisão.
+Conforme informações de fls. 132/135, constata-se que houve o julgamento dos embargos de declaração opostos pelo Ministério Público em 13/7/2017, encontrando-se superada a discussão sobre o excesso de prazo.
+Posto isso, a matéria relativa à contemporaneidade da prisão não foi objeto de análise do Tribunal de origem. Então, esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+Ademais, tem-se que o recurso de apelação foi improvido pelo Tribunal de origem, sem que fosse determinada a execução provisória da pena, mantendo-se na sentença condenatória.
+A sentença, por sua vez, quanto ao direito de recorrer em liberdade, restou assim fundamentada (fl. 46):
+ .. .Nos termos do art. 492, inciso I, alínea "e", do CPP, como estão configurados os requisitos do art. 312. do CPP, sobretudo o risco à ordem pública diante da prática reiterada de crimes, sem olvidar que atualmente cumpre pena em regime fechado por condenação pela prática de crime de tráfico e associação ao tráfico, impõe-se manter a prisão preventiva do acusado. .. .
+Como se vê, integra a sentença condenatória fundamento idôneo, consubstanciado na referência à reiteração delitiva, tendo em vista que ao tempo da condenação já estava em cumprimento de pena pela prática do crime tráfico e associação ao tráfico. Razão, portanto, apta a manter a prisão.
+Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Ante o exposto, voto por denegar o habeas corpus.
