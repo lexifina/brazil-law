@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o recorrente foi preso em flagrante (convertida a custódia em prisão preventiva) e denunciado pela prática, em tese, dos delitos previstos nos artigos 33 e 35 da Lei n. 11.343/2006.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 83):
+EMENTA: HABEAS CORPUS - TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA TAL FIM - PRISÃO PREVENTIVA - ARTS. 312 E 313, TODOS DO CPP - DECISÃO FUNDAMENTADA - ORDEM DENEGADA. 1. Atendidos os requisitos Instrumentais do art. 313 do CPP, bem como presentes os pressupostos e requisitos do art. 312 do CPP, deve ser a prisão preventiva mantida, não havendo que se falar em concessão da liberdade provisória mediante o cumprimento de medidas cautelares diversas da prisão previstas no art. 319 do CPP, pelo fato de estas se revelarem absolutamente insuficientes. 2. Denegado o habeas corpus.
+No presente recurso, a defesa sustenta, em síntese, a ilegalidade da segregação cautelar, ante a ausência de fundamentação idônea do decreto de prisão preventiva e dos motivos autorizadores previstos nos art. 312 do Código de Processo Penal, ressaltando que a gravidade abstrata do delito e a periculosidade presumida do acusado não podem servir como fundamento para a manutenção da medida constritiva.
+Afirma que a audiência de custódia teria sido realizada após o prazo legal, tratando-se de nulidade insanável que conduz ao relaxamento da prisão.
+Destaca, ainda, que a custódia cautelar se mostra desproporcional e inadequada no caso concreto, uma vez que, em caso de eventual condenação, o acusado fará jus à fixação de regime prisional menos gravoso que o fechado, não se podendo desconsiderar, por fim, a possibilidade de imposição de medidas cautelares diversas da prisão.
+Diante disso, requer, liminarmente e no mérito, a revogação da prisão preventiva, para que o recorrente possa aguardar o julgamento do processo em liberdade até o trânsito em julgado de eventual sentença condenatória.
+É o relatório. Decido.
+A liminar em recurso ordinário em habeas corpus, bem como em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto na impetração.
+No caso dos autos, ao menos em juízo de cognição sumária, não verifico manifesta ilegalidade apta a justificar o deferimento da medida de urgência.
+Isso porque, em princípio, a decisão impugnada encontra suporte na jurisprudência desta Corte, segundo a qual a gravidade concreta dos fatos é fundamento idôneo para decretação da prisão preventiva, sendo certo que, no caso em exame, a apreensão de considerável quantidade de entorpecentes - mais de 2 quilos de maconha - e outros petrechos relacionados à sua comercialização, na residência do próprio acusado, evidencia tamanha gravidade, revelando, sobretudo, a periculosidade do paciente e o risco de reiteração delitiva.
+Não obstante os argumentos apresentados, mostra-se imprescindível um exame mais aprofundado dos elementos de convicção carreados aos autos, para se aferir a sustentada desnecessidade da prisão cautelar.
+Ademais, o pedido liminar confunde-se com o próprio mérito da impetração, o qual deverá ser analisado em momento oportuno, por ocasião do julgamento definitivo deste writ.
+Ante o exposto, indefiro a liminar.
+Devidamente instruídos, encaminhem-se os autos ao Ministério Público Federal.
+Publique-se. Intime-se.
