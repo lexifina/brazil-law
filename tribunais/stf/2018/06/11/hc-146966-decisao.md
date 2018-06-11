@@ -1,0 +1,36 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Cícero Adriano Lucena da Silva, apontando como autoridade coatora a Sexta Turma, do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 388.197/SP, Relator o Ministro Sebastião Reis Júnior.
+    Os impetrantes sustentam que o paciente, condenado à pena de 16 (dezesseis) anos e 4 (quatro) pela prática do crime descrito no art. 121, § 2º, incisos II, III e IV, do Código Penal, teve sua pena-base fixada acima do mínimo legal à míngua de fundamentação idônea.
+    Argumenta a defesa “que nenhuma sanção pode ser fixada acima do mínimo legal de modo aleatório, não adequado ou sequer fundamentado, sob pena de se desvirtuar da finalidade da pena, isto é, deve haver motivação apta a ensejar a fixação da pena-base acima do mínimo legal, que ausente no caso in concreto”.
+    Aduz-se de outra parte, que
+    “os motivos da exasperação acima do mínimo não podem ser os mesmos já valorados nos elementos do tipo legal, o que foi legitimado pelo v. acórdão, constituindo-se, portanto, defeso bis in idem, ou seja, ao reproduzir os fundamentos da respeitável sentença, adotou-se o entendimento de que os mesmos elementos podem ser valorados no próprio tipo legal e, ao mesmo tempo, na exasperação da pena, o que configura bis in idem, como já afirmado” (grifos dos autores).
+    Afirmam que o paciente é primário e possui bons antecedentes.
+    Alegam, ainda, que “a gravidade abstrata do delito não pode ser utilizado para a imposição de regime mais ser severo”.
+    Requerem, liminarmente, a concessão da ordem ”para o fim de reduzir a pena-base, tendo em vista a flagrante ilegalidade operada (…)”.
+    Ausentes os pressupostos, indeferi a liminar requerida e, por considerar a impetração devidamente instruída, dispensei o pedido informações.
+    Instado a se manifestar, o Ministério Público Federal opinou pela denegação da ordem.
+    Examinados os autos, decido.
+    Transcrevo a ementado do julgado ora impugnado:
+    “PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO TRIPLAMENTE QUALIFICADO. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTOS PARA A EXASPERAÇÃO DA PENA-BASE ACIMA DO PISO MÍNIMO. MOTIVAÇÃO CONCRETA AO PRESENTE CASO. ELEVAÇÃO DA PENA-BASE JUSTIFICADA.
+    1. A majoração da pena ocorreu também por uma das qualificadoras (recurso que dificultou a defesa da ofendida), que pode, sem problema algum, ser levada para a primeira fase da dosimetria, haja vista a existência de mais duas qualificadoras que foram consideradas na terceira fase (motivo fútil e meio cruel).
+    2. Em relação às circunstâncias, o Julgador considerou a intensa culpabilidade, no sentido de incomum reprovabilidade da conduta, em razão da longa e duradoura amizade que havia entre o acusado e a vítima de apenas 21 anos de idade.
+    3. Agravo regimental improvido” (anexo 2).
+    O julgado proferido pelo Superior Tribunal de Justiça não evidencia ilegalidade flagrante abuso de poder ou teratologia. Pelo contrário, encontra-se suficientemente motivado, estando justificado o convencimento formado.
+    Conforme o entendimento da Corte, “[a] existência de mais de uma qualificadora possibilita a consideração de uma delas como circunstância judicial e a consequente fixação da pena-base em patamar superior ao mínimo legal no crime de homicídio qualificado” (RHC nº 120.599/ES, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 11/4/14).
+    As circunstâncias evidenciadas na espécie refletem exatamente esse entendimento, pois, conforme destacado pelo Ministro Sebastião Reis Júnior em seu voto,
+    “o Tribunal trouxe motivação concreta a respeito das circunstâncias, e não próprias do tipo penal, como afirma o agravante. A majoração deu-se não só pelas circunstâncias judiciais, mas também por uma das qualificadoras (recurso que dificultou a defesa da ofendida), que pode, sem problema algum, ser levada para a primeira fase da dosimetria, haja vista a existência de mais duas qualificadoras que foram consideradas na terceira fase (motivo fútil e meio cruel).
+    Como já mencionado, em relação às circunstâncias, o Julgador considerou a intensa culpabilidade, no sentido de incomum reprovabilidade da conduta, em razão da longa e duradoura amizade que havia entre o acusado e a vítima, de apenas 21 anos de idade. Também foi relevada a personalidade dissimulada, egoísta, perversa e fria do pronunciado, com marcante e preocupante desvio de caráter, que logo após o crime adotou postura cínica e tentou a todo custo iludir a família da vítima e confundir a autoridade policial (fls. 700/701). Com efeito, não se tratam de questões próprias do tipo penal, tendo havido, por parte do Julgador, motivação concreta e amparada na avaliação dos fatos e provas dos autos, com apresentação de detalhes sobre o comportamento do agravante.” (grifos do autor)
+    De outra parte, colhe-se da reiterada jurisprudência da Corte que
+    “[a] dosimetria da pena, bem como os critérios subjetivos considerados pelos órgãos inferiores para a sua realização, não são passíveis de aferição na via estreita do habeas corpus, por demandar minucioso exame fático e probatório inerente a meio processual diverso” (HC nº 130.886/SP-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 19/6/17).
+    Perfilhando esse entendimento:
+    “[H]avendo a indicação de circunstâncias judiciais desfavoráveis pelas instâncias ordinárias, não é o habeas corpus a via adequada para ponderar, em concreto, a suficiência delas para a majoração da pena-base” (HC nº 92.956/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 25/4/08).
+    A Corte também já se pronunciou no sentido de que “[a] dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena” (HC nº 144.341/CE-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 27/9/17).
+    Por fim, no que se refere ao regime inicial de cumprimento da pena, vê-se que os fundamentos declinados pelo Superior Tribunal de Justiça para negar provimento ao recurso de agravo regimental permitem concluir que a referida questão, submetida ao Supremo Tribunal Federal nesta impetração, não foi analisada pelo Colegiado daquela Corte. Portanto, sua análise, de forma originária, neste ensejo, configuraria inadmissível supressão de instância.
+    Perfilhando esse entendimento: HC nº 131.466/DF-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 18/11/16; HC nº 113.565/MS, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 18/3/13; HC nº 95.977/SP, Primeira Turma, Relator para o acórdão o Ministro Luiz Fux, DJe de 12/12/12; HC nº 103.131/SP, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 15/10/10; HC nº 102.783/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 28/5/10; e HC nº 96.555/MG, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 18/12/09, entre outros.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 11 de junho de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
