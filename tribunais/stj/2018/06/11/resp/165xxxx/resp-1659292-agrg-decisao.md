@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo regimental interposto por [NOME] contra decisão de minha lavra, que deu provimento ao recurso especial do Ministério Público do Estado do Rio Grande do Sul, para cassar o benefício de indulto concedido ao ora agravante.
+Aduz o agravante que o fato que ensejou o reconhecimento da falta grave, definido como crime, e que seria obstáculo à concessão do indulto, foi arquivado na origem. Por conseguinte, requer seja reconsiderada a decisão, haja vista o fato superveniente que torna prejudicado o recurso especial.
+Instado a se manifestar, o Ministério Público do Estado do Rio Grande do Sul aquiesceu com o agravante, afirmando que, "considerando a notícia de fato superveniente, consistente na absolvição do recorrido quanto ao delito que gerou a falta grave obstativa do indulto questionado no presente feito (057/2.15.0003311-5 - 1ª Vara da Comarca de Lagoa Vermelha/RS 1 ), está caracterizada a perda superveniente do objeto do recurso especial, a ser reconhecida por esta Corte Cidadã" (e-STJ fl. 192).
+O Ministério Público Federal, por sua vez, opinou pelo desprovimento do recurso, aduzindo que, "em que pese este fato corresponda àquele que ensejou o reconhecimento da falta grave, a jurisprudência dessa Corte Superior é assente no sentido de que, ressalvados os casos de prova de inexistência do fato ou da negativa da autoria do delito, a absolvição na esfera criminal não repercute no âmbito administrativo, instância na qual se apura a prática de falta grave no curso da execução penal" (e-STJ fl. 200).
+É, em síntese, o relatório.
+Assiste razão ao agravante.
+Consta dos autos que o Juiz da Vara de Execuções Criminais da Comarca de Lagoa Vermelha/RS concedeu ao recorrido o benefício do indulto, com base no Decreto Presidencial n. 8.615/2015.
+O recurso de agravo em execução interposto pelo Ministério Público foi desprovido nos termos da seguinte ementa (e-STJ fl. 107):
+AGRAVO EM EXECUÇÃO. CRIMES CONTRA O PATRIMÔNIO. CRIMES. INDULTO. FALTA GRAVE NÃO APURADA ANTES DA PUBLICAÇÃO DO DECRETO N. 8.615/2015. CONCESSÃO MANTIDA.
+A prática de conduta definida como falta grave poderá impedir o indulto da pena. Para tanto, é necessário que sua ocorrência, apuração judicial em audiência de justificação e reconhecimento ocorram nos doze meses anteriores à publicação do Decreto Presidencial, tendo como resultado a aplicação de sanção.
+AGRAVO MINISTERIAL DESPROVIDO.
+
+Tendo em vista a orientação fixada nesta Corte, dei provimento ao recurso especial da acusação, cassado o indulto deferido ao agravante, pois, segundo a jurisprudência deste Tribunal Superior, não se exige, para o indeferimento do pedido de indulto, que a homologação da falta grave praticada nos 12 meses antecedentes à publicação do decreto presidencial tenha ocorrido nesse mesmo lapso de tempo.
+No caso em exame, a falta grave imputada ao agravante consistiu na acusação de prática de crime de roubo majorado, em relação ao qual, conforme noticia o agravante, sobreveio sentença absolutória por falta de provas.
+Nesse caso, impõe-se reconhecer a prejudicialidade do recurso especial, pois a superveniente absolvição gera, como efeito imediato, a desconsideração da falta grave, pouco importando o fundamento do decreto absolutório, na linha da orientação firmada nesta Corte:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. ANOTAÇÃO DE FALTA GRAVE. POSTERIOR ABSOLVIÇÃO PELO CRIME QUE ENSEJOU A ANOTAÇÃO. CONSTRANGIMENTO ILEGAL CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+III - Esta Corte possui entendimento no sentido de que "muito embora se reconheça a independência entre as instâncias administrativa, civil e penal, não pode subsistir o reconhecimento de falta disciplinar de natureza grave decorrente do suposto cometimento de crime diante da posterior absolvição."
+Habeas Corpus não conhecido. Ordem concedida de ofício para cassar a decisão do juízo de primeiro grau que determinou a anotação de falta grave pelo cometimento de crimes pelos quais o paciente restou absolvido, determinando-se ao Juízo da Execução que reaprecie o pedido de progressão de regime prisional do paciente, à luz do art. 112 da Lei de Execução Penal.
+(HC 289.123/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/05/2015, DJe 11/06/2015)
+RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. PRÁTICA DE CRIME DOLOSO. TRÁFICO DE DROGAS. ABSOLVIÇÃO NO JUÍZO CRIMINAL. INSUFICIÊNCIA DE PROVAS. REPERCUSSÃO NA ESFERA ADMINISTRATIVA. POSSIBILIDADE. PRECEDENTE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PARECER ACOLHIDO.
+1. Embora não se possa negar a independência entre as esferas - segundo a qual, em tese, admite-se repercussão da absolvição penal nas demais instâncias apenas nos casos de inexistência material ou de negativa de autoria -, não há como ser mantida a incoerência de se ter o mesmo fato por não provado na esfera criminal e por provado na esfera administrativa. Precedente.
+2. Em hipóteses como a dos autos, em que o único fato que motivou a penalidade administrativa resultou em absolvição no âmbito criminal, ainda que por ausência de provas, a autonomia das esferas há que ceder espaço à coerência que deve existir entre as decisões sancionatórias.
+3. Recurso provido a fim de determinar o cancelamento da falta grave apurada no procedimento administrativo disciplinar e de todos os efeitos dela decorrentes.
+(RHC 33.827/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/11/2014, DJe 12/12/2014)
+Ante o exposto, reconsidero a decisão constante às e-STJ fls. 165/167 e julgo prejudicado o recurso especial.
+Publique-se. Intimem-se.
