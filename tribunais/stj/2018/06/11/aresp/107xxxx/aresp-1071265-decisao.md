@@ -1,0 +1,30 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NÃO CABIMENTO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. ENTENDIMENTO DA SÚMULA 393/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto por [NOME], EM LOGÍSTICA E EM COMÉRCIO EXTERIOR LTDA., com fundamento no art. 105, inciso III, alínea a da CF, no qual se insurge contra acórdão proferido pelo egrégio TRF da 2a. Região, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. POSSIBILIDADE DE APRECIAÇÃO DA MATÉRIA ALEGADA EM EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CONTUDO, NÃO SE ADMITE TAL EXCEÇÃO QUANDO A QUESTÃO EXIGIR DILAÇÃO PROBATÓRIA. LEGITIMIDADE PASSIVA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. RECURSO IMPROVIDO.
+1. No caso em questão, a UNIÃO propôs ação de execução fiscal para cobrança de débitos fiscais, em face da sociedade empresária O & F Comercial Importadora e Exportadora Ltda. (devedora principal) e da empresa ora agravante, cujo débito é decorrente de multa aplicada em razão da introdução de mercadorias estrangeiras em território nacional mediante interposição fraudulenta de terceiros.
+2. Admite-se a exceção de pré-executividade na execução fiscal relativamente às matérias não demandem dilação probatória.
+3. Em verdade, a pretensão da ora agravante de comprovar que a empresa atuou como mera mandatária da devedora principal, desconstituindo assim a presunção (relativa) de legitimidade da certidão de dívida ativa, necessita de análise do processo administrativo, com exercício de pleno contraditório, o que não se coaduna com a natureza da exceção de pré-executividade.
+4. Pairando dúvidas sobre a questão suscitada, impossível a sua solução por meio de exceção de pré-executividade. Entretanto, sempre que não houver informações suficientes para que seja possível ao juiz conhecer tais questões de oficio, este poderá rejeitar a exceção de pré- executividade, fato que não cerceará a defesa do executado, tendo em vista que esta poderá ser exercida via embargos à execução, momento em que todos os tipos de prova poderão ser produzidos, comprovando-se o direito que se alega, não sendo possível se falar em violação ao contraditório e a ampla defesa.
+4. Agravo de instrumento improvido (fls. 72).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 97).
+3. Nas razões de seu Apelo Nobre, a parte recorrente aponta violação dos arts. 5o., XXXV da CF, 267, VI do CPC/1973, 121 do CTN e 106 do Regulamento Aduaneiro. Sustenta, em síntese, o cabimento da exceção de pré-executividade diante da desnecessidade de dilação probatória para se reconhecer a ilegitimidade passiva.
+4. Juízo negativo de admissibilidade do Recurso Especial às fls. 178/179.
+5. É o relatório. Passo a decidir.
+6. A insurgência não merece prosperar.
+7. A jurisprudência desta Corte entende pelo cabimento da exceção de pré-executividade nas situações em que as questões possam ser conhecidas de ofício pelo magistrado e que não demandem dilação probatória.
+8. A propósito, registre-se que o tema em questão já foi alvo de debate pela 1a. Seção desta Corte, em sede de recurso repetitivo. Veja-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL SUBMETIDO À SISTEMÁTICA PREVISTA NO ART. 543-C DO CPC. EXECUÇÃO FISCAL. INCLUSÃO DOS REPRESENTANTES DA PESSOA JURÍDICA, CUJOS NOMES CONSTAM DA CDA, NO PÓLO PASSIVO DA EXECUÇÃO FISCAL. POSSIBILIDADE. MATÉRIA DE DEFESA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INVIABILIDADE. RECURSO ESPECIAL DESPROVIDO.
+(..).
+2. Por outro lado, é certo que, malgrado serem os embargos à execução o meio de defesa próprio da execução fiscal, a orientação desta Corte firmou-se no sentido de admitir a exceção de pré-executividade nas situações em que não se faz necessária dilação probatória ou em que as questões possam ser conhecidas de ofício pelo magistrado, como as condições da ação, os pressupostos processuais, a decadência, a prescrição, entre outras.
+3. Contudo, no caso concreto, como bem observado pelas instâncias ordinárias, o exame da responsabilidade dos representantes da empresa executada requer dilação probatória, razão pela qual a matéria de defesa deve ser aduzida na via própria (embargos à execução), e não por meio do incidente em comento.
+4. Recurso especial desprovido. Acórdão sujeito à sistemática prevista no art. 543-C do CPC, c/c a Resolução 8/2008 - Presidência/STJ (REsp. 1.104.900/ES, Rel. Min. DENISE ARRUDA, DJe 1o.4.2009).
+9. Confira-se, também, o disposto na Súmula 393/STJ: A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória.
+10. Na espécie, o Tribunal de origem consignou que a tese relativa à legitimidade passiva, no presente caso, necessitaria de dilação probatória. Veja-se:
+No caso em tela, verifica-se que a discussão a respeito da legitimidade da empresa [NOME] ASSESSORIA EM LOGÍSTICA E EM COMÉRCIO EXTERIOR LTDA, para figurar no pólo passivo da demanda executiva, necessita de dilação probatória, o que torna impossível o deslinde da controvérsia na via eleita. Isto porque pretende a ora agravante comprovar que não há motivo para a mesma figurar no polo passivo.
+Em verdade, a pretensão da ora agravante de comprovar que a empresa atuou como mera mandatária da devedora principal, desconstituindo assim a presunção (relativa) de legitimidade da certidão de dívida ativa, necessita de análise do processo administrativo, com exercício de pleno contraditório, o que não se coaduna com a natureza da exceção de pré-executividade.
+Surge, assim, uma necessidade de pormenorização dos elementos constantes nas condutas descritas, o que é impossível por meia da via eleita, sobretudo porque seria necessária a dilação probatória, com efetivo exercício do contraditório (fls. 71).
+11. Logo, incabível a presente exceção de pré-executividade.
+12. Ante o exposto, conhece-se do Agravo e nega-se provimento ao Recurso Especial.
+13. Publique-se.
+14. Intimações necessárias.
