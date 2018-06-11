@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interno interposto por VISION MED ASSISTÊNCIA MÉDICA LTDA. (nova denominação de GOLDEN CROSS ASSISTÊNCIA INTERNACIONAL DE SAÚDE LTDA.) contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial em razão de sua intempestividade.
+Inconformada, a agravante interpõe o presente recurso (fls. 418-429 e-STJ), alegando, em em síntese, que
+"A questão é que o PRÓPRIO TJ/MA, através de publicação ocorrida em 07.06.2017 (disponibilizado em 06.06.2017) e no Diário de Justiça local, considerou o dia de Corpus Christi como feriado nacional.
+Nesse sentido, veja-se que no considerando de decreto do Presidente do TJ/MA publicado em 07.06.17 em que decretou-se ponto facultativo no dia 16.06.2017, é dito que "o Poder Executivo Estadual decretou ponto facultativo no dia 16 de junho de 2017, sexta-feira, em razão do feriado nacional de Corpus Christi no dia 15.06.2017" (cf. doc 1).
+Assim, ainda que o dia de Corpus Christi não seja feriado nacional, o próprio TJ/MA assim o considerou, tanto que apenas decretou como ponto facultativo o dia 16.06, dia seguinte ao feriado, induzindo a agravante , dessa forma, em erro!!
+Como o próprio TJ/MA considerou em publicação oficial o dia 15.06.2017 como "feriado nacional", a ora agravante seguiu essa linha de raciocínio na contagem do prazo para a interposição do recurso especial, principalmente porque se tratou de ato do Presidente daquele e. Tribunal que, a toda evidência, possui fé pública.
+Dessa forma, deixando de contar o dia 15.06.17, dia de Corpus Christi por ter sido considerado feriado nacional pelo TJ/MA, a ora agravante protocolou o seu recurso especial no dia 30.06, 15º dia do prazo, tempestivamente, portanto".
+Ao final, postula seja reconhecida a tempestividade do recurso especial e determinado o imediato processamento do agravo em recurso especial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Considerando a manifestação da recorrente, faz-se imperiosa a reconsideração da decisão de fls. 413-414 (e-STJ).
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial interposto por VISION MED ASSISTÊNCIA MÉDICA LTDA. (nova denominação de GOLDEN CROSS ASSISTÊNCIA INTERNACIONAL DE SAÚDE LTDA.).
+O apelo extremo (e-STJ fls. 336-347), interposto com fundamento no art. 105, III, alínea "a" do permissivo constitucional, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão assim ementado:
+"EMBARGOS INFRINGENTES. PLANO DE SAÚDE. RECUSA INDEVIDA. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS CONFIGURADOS. CABIMENTO. RAZOABILIDADE E PROPORCIONALIDADE DO QUANTUM INDENIZATÓRIO. PRECEDENTES. 1. O STJ entende que a recusa indevida ou injustificada, pela operadora de plano de saúde, de autorizar a cobertura financeira de tratamento médico, a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário (STJ - AgRg no AREsp: 431999 MA 2013/0377845-6, Relator: Ministro RICARDO VILLAS BOAS CUEVA, Data de Julgamento: 10/06/2014, T3 - Terceira Turma, Data de Publicação: DJe 17/06/2014). 2. Reconhecida a abusividade da recusa de cobertura, entende-se caracterizado o ato ilícito apto a dar ensejo aos abalos extrapatrimoniais alegados na inicial, na medida em que os Embargados tiveram frustrada a sua justa expectativa de serem amparados pela Operadora de seu plano de saúde, não se tratando apenas de mero aborrecimento. 3. Analisando a gravidade da questão, a capacidade econômica das partes, bem como o caráter reprovatório - compensatório e/ou inibitório-punitivo que devem ser observados na reparação por danos morais, compreende-se que a importância de R$ 20.000,00 (vinte mil reais), a título de indenização, coaduna-se com a realidade fática exposta nos autos. 4. Embargos Infringentes conhecidos e improvidos. 5. Unanimidade" (e-STJ fl. 310).
+Nas razões do recurso especial, a recorrente alega que o acórdão violou os artigos 884 e 944 do Código Civil, ao majorar a condenação por danos morais para a elevada quantia de R$ 20.000,00, sem observância dos princípios da proporcionalidade e da razoabilidade.
+Aduz que não há que se falar em indenização a título de danos morais, tendo em vista que não praticou qualquer ato ilícito.
+A pretensão recursal não merece acolhida.
+No que tange à caracterização do dano moral, observa-se que o acórdão recorrido está de acordo com o entendimento jurisprudencial dominante nesta Corte, segundo o qual
+"A recusa indevida pela operadora do plano de saúde em autorizar a cobertura financeira de tratamento médico faz nascer o dever de reparar os danos morais produzidos pelo agravamento da situação de aflição psicológica e de angústia no espírito do beneficiário, ante a inequívoca violação, nesse caso, dos direitos da personalidade" (AgInt no REsp 1.656.501/SE, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/8/2017, DJe 31/8/2017)
+Nesse sentido, confiram-se ainda:
+"DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO DE DANOS MORAIS. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA 284/STF. PALNO DE SAÚDE. NEGATIVA DE COBERTURA DE DESPESAS MÉDICO-HOSPITALARES. RECUSA INDEVIDA. DANO MORAL CONFIGURADO.
+1. Ação ajuizada em 27/12/2011. Recurso especial concluso ao gabinete em 12/05/2017. Julgamento: CPC/2015.
+2. O propósito recursal é definir se a negativa de cobertura integral, por parte da recorrida, de gastos com a internação de recém-nascida gera danos morais às recorrentes.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+4. A ausência de fundamentação ou a sua deficiência implica o não conhecimento do recurso quanto ao tema.
+5. A recusa indevida à cobertura médica é causa de danos morais, pois agrava o contexto de aflição psicológica e de angústia sofrido pelo segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada.
+6. Nos presentes autos, a infundada recusa na cobertura do plano de saúde ocorreu após a realização do tratamento médico da recém-nascida.
+7. A latente preocupação e aflição com as despesas médico-hospitalares, por parte da primeira recorrente, ainda que posteriormente ao tratamento médico, certamente afetaram os cuidados com a criança, ora segunda recorrente, devendo ser reconhecido o direito de ambas em serem compensadas pelos danos morais sofridos na oportunidade.
+8. Recurso especial parcialmente conhecido e, nessa parte, provido."
+(REsp 1.668.302/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/6/2017, DJe 22/6/2017)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. PLANO DE SAÚDE. AUTORIZAÇÃO DE PROCEDIMENTO POR INDICAÇÃO MÉDICA. RECUSA DE COBERTURA. ABUSO. DANO MORAL VERIFICADO. RESPONSABILIDADE CIVIL. JURISPRUDÊNCIA. VALOR COMPENSATÓRIO. REVISÃO. DESCABIMENTO. SÚMULA 7/STJ.
+1. Considerando o quadro clínico do segurado e a necessidade de imediato tratamento, a recusa indevida do Plano de Saúde revela-se abusiva e atentatória à dignidade da pessoa humana e aos direitos da personalidade, configurando dano moral in re ipsa, o qual dispensa a comprovação de prejuízo aos direitos da personalidade no caso concreto. Precedentes desta Corte Superior.
+2. AGRAVO INTERNO DESPROVIDO."
+(AgInt no AREsp 831.777/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/4/2017, DJe 9/5/2017)
+No que tange ao valor fixado a título de indenização, há de se esclarecer que esta Corte somente promove a sua revisão, afastando a incidência da Súmula nº 7/STJ, quando o montante se mostra flagrantemente excessivo ou irrisório, não sendo nenhuma dessas hipóteses a dos autos.
+A análise do pedido de redução do montante indenizatório, no caso, dependeria inevitavelmente do revolvimento do contexto fático-probatório dos autos, procedimento vedado na via do recurso especial.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da condenação.
+Desse modo, por já ter sido atingido o limite máximo (art. 85, § 2º, do CPC/2015), deixo de fixar honorários recursais.
+Publique-se.
+Intimem-se.
