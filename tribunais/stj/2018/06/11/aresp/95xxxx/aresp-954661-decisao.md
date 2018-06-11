@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo manejado pelo Instituto Nacional do Seguro Social - INSS contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 135):
+CONDOMÍNIO EDILÍCIO. RESPONSABILIDADE DO PROPRIETÁRIO PELO PAGAMENTO DAS DESPESAS CONDOMINIAIS. OBRIGAÇÃO PROPTER REM.
+1. As despesas condominiais constituem obrigação propter rem, decorrente da coisa e diretamente vinculada ao direito real de propriedade do imóvel, cujo cumprimento é da responsabilidade do titular.
+2. O artigo 1.245 do Código Civil estabelece que a propriedade se transfere, entre vivos, mediante o registro do título translativo no Registro de Imóveis.
+3. A mera existência de compromisso de compra e venda não registrado em cartório não tem o condão de isentar o alienante da responsabilidade pela solvência dos débitos eventualmente existentes quanto às despesas condominiais não saldadas pelo adquirente do imóvel.
+4. Agravo legal não provido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC (fls. 143/150).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 3º, 535, II, do CPC/73 e 12, da Lei 4.591/64, bem como dissídio jurisprudencial.
+Para tanto, sustenta que: (i) houve negativa de prestação jurisdicional no tocante à responsabilização do adquirente; (ii) é parte ilegítima para figurar no polo passivo da ação, pois não é proprietário do imóvel; (iii) cada condômino deve concorrer nas despesas do condomínio, valendo o compromisso de compra e venda como instrumento translativo da titularidade do imóvel.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, ao reconhecer a legitimidade passiva da agravante para causa, consignou-se o seguinte no acórdão recorrido (fls. 133/134):
+A questão ora posta cinge-se à responsabilidade do Instituto Nacional do Seguro Social pelas despesas condominiais relativas a imóvel de sua propriedade, de acordo com a matrícula do bem registrada em cartório.
+Não prosperam as alegações do apelante de que não é responsável pelo pagamento dos débitos condominiais ora cobrados.
+A Lei nº 4.591/64, que dispõe sobre o condomínio em edificações e as incorporações imobiliárias, estabelece:
+"Artigo 12. Cada condômino concorrerá nas despesas do condomínio, recolhendo, nos prazos previstos na Convenção, a quota-parte que lhe couber em rateio."
+Depreende-se da leitura desse dispositivo legal que a taxa de condomínio constitui obrigação propter rem, decorrente da coisa e diretamente vinculada ao direito real de propriedade do imóvel.
+Com efeito, a obrigação propter rem só é transmitida juntamente com a propriedade, e o seu cumprimento é da responsabilidade do titular.
+Por sua vez, de acordo com o que estabelece o art. 1.245 do Código Civil, a propriedade se transfere, entre vivos, mediante o registro do título translativo no Registro de Imóveis e o seu § Io dispõe que: "Enquanto não se registrar o título translativo, o alienante continua a ser havido como dono do imóvel."
+Assim, a mera existência de compromisso de compra e venda não registrado em cartório não tem o condão de isentar o alienante da responsabilidade pela solvência dos débitos eventualmente existentes quanto a despesas condominiais não saldadas pelo adquirente do imóvel, caso em que poderá cobrar-lhe o valor em ação regressiva.
+Dessa forma, está claro que a responsabilidade pelo pagamento das despesas condominiais, porquanto obrigação propter rem, incumbe ao proprietário do imóvel constante do registro do bem em cartório, tendo em vista que o contrato de compromisso de compra e venda só produz efeitos entre as partes contratantes, mas não perante terceiros.
+Também não merece acolhida a alegação do apelante de que a parte autora não juntou aos autos documentos comprobatórios das suas alegações. Os documentos de fls. 10/40 são suficientes à instrução do pedido deduzido na inicial.
+Por esses fundamentos, nego seguimento à apelação e à remessa oficial, mantendo integralmente a r. sentença recorrida."
+Como se vê, o acórdão recorrido destoa do entendimento desta Corte, firmado em sede de recurso repetitivo, no sentido de que a responsabilidade para adimplir despesas condominiais, ante a inexistência de registro da promessa de compra e venda, pode recair tanto sobre o promitente-comprador quanto sobre o promitente-vendedor, devendo-se, no entanto, analisar as circunstâncias do caso concreto.
+A propósito, confira-se:
+PROCESSO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. CONDOMÍNIO. DESPESAS COMUNS. AÇÃO DE COBRANÇA. COMPROMISSO DE COMPRA E VENDA NÃO LEVADO A REGISTRO. LEGITIMIDADE PASSIVA. PROMITENTE VENDEDOR OU PROMISSÁRIO COMPRADOR. PECULIARIDADES DO CASO CONCRETO. IMISSÃO NA POSSE. CIÊNCIA INEQUÍVOCA.
+1. Para efeitos do art. 543-C do CPC, firmam-se as seguintes teses: a) O que define a responsabilidade pelo pagamento das obrigações condominiais não é o registro do compromisso de compra e venda, mas a relação jurídica material com o imóvel, representada pela imissão na posse pelo promissário comprador e pela ciência inequívoca do condomínio acerca da transação.
+b) Havendo compromisso de compra e venda não levado a registro, a responsabilidade pelas despesas de condomínio pode recair tanto sobre o promitente vendedor quanto sobre o promissário comprador, dependendo das circunstâncias de cada caso concreto.
+c) Se ficar comprovado: (i) que o promissário comprador se imitira na posse; e (ii) o condomínio teve ciência inequívoca da transação, afasta-se a legitimidade passiva do promitente vendedor para responder por despesas condominiais relativas a período em que a posse foi exercida pelo promissário comprador.
+2. No caso concreto, recurso especial não provido.
+(REsp 1345331/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 08/04/2015, DJe 20/04/2015)
+Ademais, não é possível extrair do acórdão impugnado a informação sobre a efetiva ciência do condomínio recorrente quanto à concretização do referido ato negocial, consoante prevê o item c da referida ementa, tornando inviável o exame da alegada ilegitimidade passiva da parte agravante.
+Assim, é necessária a devolução dos autos à origem para que a análise da questão seja feita à luz da jurisprudência do STJ.
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial, a fim de determinar o retorno dos autos à origem para novo julgamento do recurso de apelação, sob o enfoque da tese jurídica firmada por esta Corte em sede de recurso repetitivo.
+Publique-se.
