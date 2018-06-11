@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] por meio do qual postula a extensão do benefício, nos termos do art. 580 do Código de Processo Penal, concedido a [NOME], no AREsp n. 1.163.225/SP, sustentando que a situação do ora interessado seria idêntica à do agravante, razão pela qual também faria jus à absolvição do delito de associação para o tráfico, bem como ao redimensionamento da pena e à alteração do regime prisional e substituição das penas.
+Verificada a identidade fático-processual entre a situação do paciente e a do agravante [NOME], e que a decisão que deu provimento ao recurso especial não se encontra fundada em motivos de caráter pessoal, aplica-se o disposto no artigo 580 do Código de Processo Penal.
+Ante o exposto, com fundamento no artigo 34, inciso XX, do Regimento Interno deste Superior Tribunal de Justiça, concede-se a ordem, nos termos do artigo 654, § 2º, do Código de Processo Penal, para absolver o paciente do crime capitulado no art. 35 da Lei n.º 11.343/06 e, na sequência, reduzir a penas do crime de tráfico de entorpecentes, fixando-as em 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial aberto, e 166 (cento e sessenta e seis) dias-multa, além do direito à substituição da sanção corporal por duas restritivas de direitos, a serem definidas ao talante do Juízo da execução, mantido o acórdão hostilizado nos demais termos.
+Publique-se. Intimem-se.
+Comunique-se com urgência o Juízo das execuções, bem como o eg. Tribunal de origem.
+Cientifique-se o Ministério Público Federal.
