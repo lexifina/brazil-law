@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ROBERTH ASSUNÇÃO PEREIRA, contra acórdão do Tribunal de Justiça do Estado de Goiás (HC n. 266639-97.2017.8.09.0000).
+Extrai-se dos autos que o paciente foi preso em flagrante pela suposta prática do delito tipificado no art. 14 da Lei n. 10.826/2003 (porte ilegal de arma de fogo de uso permitido). A referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem em acórdão assim ementado:
+EMENTA: HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. REVOGAÇÃO DA PRISÃO PREVENTIVA. CARÊNCIA DE FUNDAMENTAÇÃO IDÔNEA DAS DECISÕES E AUSÊNCIA DO REQUISITO DO ART. 313, INC. I DO CPP. INOCORRÊNCIA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. POSSIBILIDADE DE REITERAÇÃO DELITIVA. PRINCÍPIO DA HOMOGENEIDADE NÃO VIOLADO. FIANÇA ARBITRADA PELA AUTORIDADE POLICIAL. IRRELEVÂNCIA. PRESENÇA DOS REQUISITOS DO ART. 312 DO CPP. PREDICADOS PESSOAIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. 1) Estando as decisões combatidas embasadas na imprescindibilidade para garantia da ordem pública por meio de elementos concretos dos fatos que autorizem a medida cautelar, especialmente no risco de reiteração criminosa, a manutenção da medida constritiva não caracteriza constrangimento ilegal, não sendo a regra insculpida no artigo 313, inciso I do CPP absoluta, nos termos do artigo 310, inciso II do mesmo diploma legal, não havendo que se falar em ofensa ao princípio da homogeneidade. 2) Se não há nos autos elementos que comprovem que a hipossuficiência financeira foi a razão da manutenção da prisão preventiva por falta de pagamento da fiança arbitrada pela autoridade policial, estando a segregação cautelar devidamente justificada pelo juízo singular na necessidade de garantir a ordem pública diante da periculosidade e possibilidade de reiteração delitiva do paciente, não há que se falar em ilegalidade do ergástulo. 3) Bons predicados pessoais, por si sós, não ensejam a liberdade provisória, especialmente quando demonstrada a imprescindibilidade da custódia cautelar. 4) Preenchidos os requisitos legais para a manutenção da prisão preventiva, incomportável é a aplicação das medidas cautelares diversas da prisão, por restarem demonstradas insuficientes para garantir a ordem pública. 5) ORDEM CONHECIDA E DENEGADA. (fls. 25/26).
+No presente writ, sustenta o impetrante a ocorrência de excesso de prazo para a formação da culpa, pois o paciente se encontra segregado desde 02/08/2017 sem que se tenha encerrado a instrução criminal.
+Alega ausência dos requisitos previstos no art. 312 do Código de Processo Penal, de modo que a custódia cautelar não estria suficientemente fundamentada.
+Ressalta as condições pessoais favoráveis do acusado.
+Aduz não estarem presentes os pressupostos autorizadores da prisão preventiva, previstos no art. 313 do CPC, salientando que, considerando que a pena máxima para o delito imputado não ultrapassa 4 anos.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura.
+Indeferida a liminar (fls. 51/53) e informações prestadas (fls. 58/63 e 66/71), o Ministério Público Federal opinou pela denegação da ordem (fls. 73/78).
+É o relatório.
+Decido.
+O writ está prejudicado.
+Isso porque, das informações colhidas na página eletrônica do Tribunal de origem, constatou-se que, no dia 7/3/2018, nos autos da Ação Penal n. 201701958397, foi expedido alvará de soltura em favor do paciente.
+Assim, não há como negar a perda superveniente do objeto deste habeas corpus, tendo em vista ter cessado as circunstâncias determinantes da impetração.
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus, ante a superveniente perda do seu objeto.
+Publique-se.
+Intimações necessárias.
