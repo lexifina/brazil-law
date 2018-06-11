@@ -1,0 +1,63 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO. COMBATE INSUFICIENTE. SÚMULA 283/STF.
+1. "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles" (Súmula 283/STF).
+2. A Corte de origem, interpretando o art. 185-A do CTN, estabeleceu que a comunicação da indisponibilidade de bens é diretamente aplicável às entidades de registro público de imóveis e às autoridades supervisoras dos mercados bancário e de capitais. A realização da medida para outras instituições, por outro lado, dependeria de prova da necessidade.
+3. A recorrente, apenas genericamente, afirma a necessidade da comunicação à ANAC e à Capitania dos Portos, sem apresentar argumentação jurídica para a sua tese.
+4. Recurso especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. INDISPONIBILIDADE PATRIMONIAL. ARTIGO 185-A DO CTN.
+1. A decretação de indisponibilidade de bens está jungida no poder geral de cautela do magistrado e tem por objetivo garantir a liquidez patrimonial dos executados.
+2. São requisitos para ser decretada a indisponibilidade patrimonial, nos termos do artigo 185-A do CTN, a citação do devedor; o não pagamento; o não oferecimento de bens à penhora; e a não localização de bens penhoráveis.
+3. A jurisprudência do E. Superior Tribunal de Justiça recentemente assentou entendimento, inclusive na sistemática do artigo 543-C do CPC, que a indisponibilidade de bens prevista no artigo 185-A do CTN pressupõe a comprovação de que houve o esgotamento das diligências para localização de bens do devedor.
+4. Relativamente à comunicação aos. órgãos acerca da medida, verifica-se que o artigo 185-A do CTN é claro com relação às entidades de registro público de imóveis e às autoridades supervisoras do mercado bancário e do mercado de capitais.
+5. O pedido formulado pela Fazenda Nacional perante o MM. Juiz a quo foi pela aplicação do artigo 185-A do CTN e a comunicação da indisponibilidade ao Banco Central do Brasil, Corregedoria do Tribunal de Justiça do Estado de São Paulo, Capitania dos Portos de São Paulo e à Agência Nacional de Aviação Civil - ANAC (fls. 193/193 v.).
+6. Merece prosperar o pleito da União Federal no tocante a comunicação da indisponibilidade de bens e direitos ao Banco Central do Brasil e à Corregedoria do Tribunal de Justiça do Estado de São Paulo. Precedentes do C. STJ e desta Corte.
+7. Agravo de instrumento parcialmente provido, para autorizar a comunicação da medida de indisponibilidade, preferencialmente por meio eletrônico, ao Banco Central do Brasil e à Corregedoria do Tribunal de Justiça do Estado de São Paulo.
+A recorrente aponta violação do art. 185-A do CTN. Defende a necessidade de comunicação da indisponibilidade dos bens não apenas ao Banco Central e à Corregedoria do TJSP, mas também à Agência Nacional de Aviação Civil - ANAC e à Capitania dos Portos. Defende a necessidade da medida, já que a executada atua na área de turismo. Argumenta, outrossim, que a exigência de indício de propriedade registrada nesses órgãos contraria o escopo da medida.
+Sem contrarrazões.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (RELATOR): O presente recurso não merece prosperar.
+O Tribunal a quo, após consignar o cumprimento dos requisitos para a decretação de indisponibilidade dos bens, estabeleceu o seguinte (e-STJ, fls. 277/278):
+Relativamente à comunicação aos órgãos acerca da medida, verifica-se que o artigo 185-A do CTN é claro com relação às entidades de registro público de imóveis e às autoridades supervisoras do mercado bancário e do mercado de capitais.
+Todavia, o pedido formulado pela Fazenda Nacional perante o MM. Juiz a quo foi pela aplicação do artigo 185-A do CTN e a comunicação da indisponibilidade ao Banco Central do Brasil, Corregedoria do Tribunal de Justiça do Estado de São Paulo, Capitania dos Portos de São Paulo e à Agência Nacional de Aviação Civil - ANAC (fls. 193/193 v.).
+Assim, merece prosperar o pleito da União Federal no tocante a comunicação da indisponibilidade de bens e direitos ao Banco Central do Brasil e à Corregedoria do Tribunal de Justiça do Estado de São Paulo, consoante os precedentes do C. STJ e desta Corte colacionados a seguir:
+TRIBUTÁRIO - PROCESSO CIVIL - EXECUÇÃO FISCAL - ART. 185-A DO CTN - ORDEM DE INDISPONIBILIDADE - REQUERIMENTO FUNDAMENTADO DO CREDOR - NECESSIDADE.
+1. O requerimento de indisponibilidade de bens, nos termos do art. 185-A do CTN, deve ser fundamentado quanto à necessidade da medida e quanto à existência de bens passíveis de penhora.
+2. Foge ao escopo do referido enunciado transferir para o Poder Judiciário a obrigação do credor em localizar bens penhoráveis.
+3. Desnecessidade de oficiar à Capitania dos Portos, ao Departamento de Viação Civil e à Secretaria do Patrimônio da União se não houve comprovação da existência de bens com registro nestes órgãos.
+4. Recurso especial não provido.
+(REsp n. 1.028.166, Segunda Turma, Relatora Ministra Eliana Calmon, j. 4/9/2008, DJ 2/10/2008, destaquei)
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. ART. 185-A, DO CTN. DECRETAÇÃO DE INDISPONIBILIDADE DE BENS E DIREITOS DO DEVEDOR. EXPEDIÇÃO DE OFÍCIOS À CVM, AERONÁUTICA, MARINHA. AUSÊNCIA DE DEMONSTRAÇÃO DE UTILIDADE E EFETIVIDADE DA MEDIDA.
+1. Dispõe o art. 185, do CTN que na hipótese de o devedor tributário, devidamente citado, não pagar nem apresentar bens à penhora no prazo legal e não forem encontrados bens penhoráveis, o juiz determinará a indisponibilidade de seus bens e direitos, comunicando a decisão, preferencialmente por meio eletrônico, aos órgãos e entidades que promovem registros de transferência de bens, especialmente ao registro público de imóveis e às autoridades supervisoras do mercado bancário e do mercado de capitais, a fim de que, no âmbito de suas atribuições, façam cumprir a ordem judicial.
+2. Diante da comprovação de que foram esgotados todos os meios para localizar bens, em nome dos executados, passíveis de penhora, de modo a garantir o juízo e possibilitar o prosseguimento do feito, é cabível a decretação de indisponibilidade de bens e direitos dos devedores como requerido.
+3. No caso vertente, observo que foi determinada a utilização do sistema Bacenjud no sentido de rastrear e bloquear eventuais ativos financeiros porventura existentes em contas corrente do devedor, providência que resultou negativa; a exequente também pesquisou junto aos sistemas Renavan e Doi, sendo a diligência também negativa.
+4. A agravante, nesse passo, requereu a decretação da indisponibilidade dos bens do devedor, mediante expedição de ofícios à CVM, Marinha, Aeronáutica, Departamento Nacional de Registro do Comércio, dentre outros, sem demonstrar a utilidade e efetividade da medida, eis que, nos autos, não restou evidenciada a existência de bens penhoráveis, muito menos em referidos órgãos de modo a justificar o pleito.
+5. Agravo de instrumento improvido.
+(TRF3, AI n. 201003000307650, Sexta Turma, Relatora Desembargador a Federal [NOME], DJ11/3/2011, destaquei)
+AGRAVO LEGAL. ART. 557, § 1º, CPC. EXECUÇÃO FISCAL. INDISPONIBILIDADE DE BENS DO EXECUTADO. ART. 185-A, CTN. EXPEDIÇÃO DE OFÍCIO AOS ÓRGÃOS DE TRANSMISSÃO DE BENS E DIREITOS. COMPLEMENTAÇÃO DAS DILIGÊNCIAS. AGRAVO DESPROVIDO.
+- A decisão agravada está em consonância com o disposto no artigo 557 do Código de Processo Civil, visto que supedaneada em jurisprudência consolidada do Colendo Superior Tribunal de Justiça e desta Corte.
+- Consoante o artigo 185-A do CTN, introduzido pela Lei Complementar nº 118/05, compete ao juiz a decretação de indisponibilidade dos bens e direitos do executado, bem como a devida comunicação da decisão aos órgãos e entidades pertinentes.
+- No caso vertente, o Juízo de origem determinou a adoção de medidas para cumprimento do decreto de indisponibilidade junto aos seguintes órgãos: Banco Central, por meio do sistema BACENJUD; C1RETRAN; Oficial de Registro de Imóveis e Bolsa de Valores.
+- Não se justifica a complementação das diligências com expedição de ofício aos órgãos mencionados pela agravante, considerando que o comando legal de indisponibilidade dá preferência aos órgãos de registro público de imóveis e às autoridades supervisoras do mercado bancário e do mercado de capitais, cabendo à exequente diligenciar na procura de outros bens ou ao menos trazer aos autos indícios que demonstrem a necessidade da medida. Precedentes desta Corte e do C. STJ.
+-As razões recursais não contrapõem tal fundamento a ponto de demonstrar o desacerto do decisum, limitando-se a reproduzir argumento visando a rediscussão da matéria nele contida.
+- Agravo desprovido.
+(TRF3, AI n. 201003000265023, Relatora Desembargadora Federal DIVA MALERBI, SEXTA TURMA, DJ17/2/2012, grifos acrescidos)
+Dessa leitura, extrai-se que, segundo a Corte de origem, o disposto no art. 185-A do CTN aplica-se imediatamente para as entidades de registro público de imóveis e às autoridades supervisoras dos mercados bancário e de capitais. Por outro lado, a comunicação da medida a outras instituições depende da demonstração da sua necessidade.
+A recorrente, porém, apenas genericamente afirma que, por atuar a recorrida na área de turismo, fica demonstrada essa necessidade, bem como que a exigência contraria o escopo da norma.
+Essas alegações não são suficientes para combater o fundamento do acórdão impugnado. Deveria a recorrente demonstrar, mediante argumentos jurídicos, o dever de comunicação da indisponibilidade de bens não apenas aos registros públicos de imóveis e às autoridades supervisoras dos mercados bancário e de capitais.
+Desse modo, incide a orientação da Súmula 283/STF.
+A propósito:
+PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO. ART. 535, II, DO CPC. EXECUÇÃO FISCAL. FALTA DE INDICAÇÃO DOS PONTOS OMISSOS. INDISPONIBILIDADE DE BENS. MEDIDA DEFERIDA PARCIALMENTE. QUESTÃO NÃO IMPUGNADA. SÚMULA 283/STF.
+1. A parte recorrente sustenta que o art. 535, II, do CPC foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+2. É pacífico o entendimento de que a prerrogativa da Fazenda Pública para requerer a indisponibilidade de bens, conforme dispõe o art. 185-A do CTN, pressupõe a comprovação do esgotamento das diligências para localização de bens do devedor.
+3. Deve-se entender como "esgotamento de diligências" o uso dos meios ordinários que possibilitam o encontro de bens e direitos de titularidade da parte executada, como, por exemplo, o acionamento do sistema [NOME] e a expedição de ofícios aos registros públicos de bens para que informem se há patrimônio em nome do devedor.
+4. A questão apreciada nos autos possui uma peculiaridade relevante, pois a Fazenda Nacional teve o seu pedido de comunicação da indisponibilidade dos bens da devedora deferido pelo juízo, contudo este oficiou apenas a Receita Federal, a Junta Comercial e ao Banco Central, negando-se a expedir ofício a todos os órgãos indicados pelo Fisco, porquanto tal medida "atravancaria ainda mais os feitos e não há provas de que o executado possua outros bens nos órgão listados".
+5. Verifica-se que o Recurso Especial não impugnou toda a fundamentação do acórdão, principalmente quanto aos empecilhos encontrados pelo juízo a quo para providenciar as medidas administrativas requeridas pela recorrente. Assim, há fundamento não atacado pela parte recorrente, o qual, sendo apto, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+6. Recurso Especial não conhecido.
+(REsp 1.645.312/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 7/3/2017, DJe 20/4/2017)
+Ante o exposto, não conheço do recurso especial.
+É como voto.
