@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 5ª Turma da Segunda Câmara Cível do Tribunal de Justiça do Estado de Tocantins, assim ementado:
+    “APELAÇÃO – INDENIZAÇÃO – PRELIMINARES DE PRESCRIÇÃO – INÉPCIA DA INICIAL – ILEGITIMIDADE PASSIVA – JULGAMENTO ULTRA PETITA E INOBSRVÂNCIA DO DEVIDO PROCESSO LEGAL (AUSÊNCIA DE INTIMAÇÃO PARA ATOS PROCESSUAIS) – REJEIÇÃO. ADVOGADO - RESPONSABILIDADE CIVIL PELA PERDA DO PRAZO PARA RESGATAR CRÉDITO JUNTO À JUSTIÇA FEDERAL – DANOS MATERIAIS CONFIGURADOS - RECURSO NÃO PROVIDO.
+    - Impõe-se a reparação pelos danos materiais suportados pela parte, quando demonstrada manifesta negligência do advogado no cumprimento do mandato e na prestação dos serviços contratados.
+    APELOS IMPROVIDOS.”.
+    Opostos embargos declaratórios, foram desprovidos.
+    No recurso extraordinário sustenta-se violação dos artigos 5º, inciso LV, e 93, inciso IX, da Constituição Federal.
+    Decido.
+    Não procede a alegada violação do artigo 93, inciso IX, da Constituição, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    Ademais, a jurisprudência desta Corte encontra-se consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (ARE nº 748.371/MT-RG, Relator o Ministro Gilmar Mendes, DJe de 1°/8/13).
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes.” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).”
+    Ressalte-se, por fim, que as instâncias de origem decidiram a lide amparadas nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636/STF.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda, a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 11 de junho de 2018.
+Ministro Dias Toffoli
+Relator
+      Documento assinado digitalmente
