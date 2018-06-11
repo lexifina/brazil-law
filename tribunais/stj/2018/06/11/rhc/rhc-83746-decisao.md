@@ -1,0 +1,8 @@
+DECISÃO
+EMERSON DAVINO DA SILVA, ora recorrente, alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de acórdão prolatada pelo Tribunal de Justiça do Estado de Pernambuco no Habeas Corpus n. 0014553-48.2016.8.17.0000.
+Em consulta ao sítio eletrônico do Tribunal a quo, verifiquei que, em 14/4/2018, foi proferida decisão de pronúncia, por meio da qual o Juízo singular empreendeu nova avaliação sobre os fundamentos suscitados para a imposição da segregação cautelar (art. 413, § 3º, do CPP).
+A prolação desse decisum evidencia a prejudicialidade deste recurso ordinário em habeas corpus, por meio do qual busca o recorrente a revogação da sua custódia preventiva - decretada, para garantia da aplicação da lei penal, por suposta prática do crime previsto no art. 121, caput, c/c o art. 14, II, ambos do Código Penal -, seja por ausência de fundamentação idônea ou por excesso de prazo para encerramento da instrução criminal.
+As razões deduzidas - ou não - pelo Juízo de primeiro grau nessa nova decisão devem ser submetidas previamente ao crivo do Tribunal a quo, porquanto defesa sua imediata apreciação por esta Corte Superior, sob pena de indevida supressão de instância. Nesse sentido:AgRg no HC n. 251.260/MG, Rel. Ministro Og Fernandes, 6ª T., DJe 24/6/2013 e HC n. 243.953/MG, Rel. Ministro Marco Aurélio Bellizze, 5ª T., DJe 13/3/2013.
+Ademais, pronunciado o réu, fica superada, ao menos por hora, a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução (Súmula n. 21 do STJ).
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado o recurso, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
