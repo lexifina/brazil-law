@@ -1,0 +1,20 @@
+DECISÃO
+TRIBUTÁRIO. ILEGITIMIDADE DA INCLUSÃO DE CRÉDITO PRESUMIDO DE ICMS NA BASE DE CÁLCULO DO IRPJ, CSLL, PIS E DA COFINS. RECURSO ESPECIAL PROVIDO.
+1. Trata-se de Recurso Especial interposto por GARTRAN LOGÍSTICA DE TRANSPORTE LTDA., com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, em face de acórdão proferido pelo egrégio TRF da 4a. Região, assim ementado:
+TRIBUTÁRIO. EMPRESA TRIBUTADA PELO LUCRO PRESUMIDO. INCLUSÃO DO ICMS NA BASE DE CÁLCULO DO IRPJ E DA CSLL. CABIMENTO.
+1. A base de cálculo, tanto do imposto de renda quanto da contribuição social sobre o lucro líquido, quando haja opção pelo lucro presumido, é a receita bruta, assim entendida como o produto da venda de bens nas operações de conta própria, nos termos do art. 31 da Lei 8.981/95. E nesse caso, o recebimento do ICMS por parte da empresa vendedora (sujeito passivo do imposto de renda) ao consumidor final, caracteriza produto da venda de bens, que detém conteúdo monetário
+2. O valor de ICMS destacado na nota de venda de mercadoria representa lucro auferido pela empresa vendedora, transitando pela contabilidade da empresa como receita bruta, assim conceituada pela legislação que apura o IRPJ e a CSLL pelo lucro presumido (art. 31 da Lei 8.981/95) (fls. 512).
+2. Nas razões de seu Apelo Nobre, a parte recorrente defende, em suma, que o ICMS (..) não representa a receita bruta da empresa, afastando-se, igualmente, do cômputo do IRPJ e da CSLL sobre o lucro presumido (fls. 528).
+3. É o breve relatório. Decido.
+4. A Primeira Seção desta Corte Superior de Justiça, no julgamento do EREsp n. 1.517.492/PR, pacificou o entendimento de que o crédito presumido de ICMS não compõe a base de cálculo do PIS e da COFINS. Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CRÉDITO PRESUMIDO DE ICMS. INCLUSÃO NA BASE DE CÁLCULO DO IRPJ E DA CSLL. IMPOSSIBILIDADE. ERESP 1.517.492/PR. PRECEDENTES.
+1. A Primeira Seção do STJ ao julgar os EREsp n. 1.517.492/PR (Rel. Min. Regina Helena Costa), assentou a inviabilidade de inclusão do crédito presumido de ICMS nas bases de cálculo do IRPJ e do CSLL, porquanto entendimento contrário sufragaria a possibilidade de a União retirar, por via oblíqua, o incentivo fiscal que o Estado-membro, no exercício de sua competência tributária, outorgou. Precedentes: AgInt no REsp 1.671.906/RS, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 15/12/2017; AgInt no REsp 1400947/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 14/12/2017.
+2. Agravo interno não provido (AgInt no REsp. 1.708.901/RS, Rel. Min. BENEDITO GONÇALVES, DJe 2.5.2018).
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. ICMS PRESUMIDO. BASE DE CÁLCULO. IPRJ E CSLL. MUDANÇA DE ENTENDIMENTO. NÃO INCIDÊNCIA.
+1. Inexiste contrariedade ao art. 1.022 do CPC/2015 quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. A Segunda Turma desta Corte possuía o entendimento de que "o crédito presumido do ICMS, ao configurar diminuição de custos e despesas, aumenta indiretamente o lucro tributável e, portanto, deve compor a base de cálculo do IRPJ e da CSLL" (AgRg no REsp 1.537.026/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 2/2/2016).
+3. Entretanto, a Primeira Seção desta Corte, por ocasião da apreciação do EREsp 1.517.492/PR, firmou o entendimento pela "inviabilidade de inclusão do crédito presumido de ICMS nas bases de cálculo do IRPJ e do CSLL, porquanto entendimento contrário sufragaria a possibilidade de a União retirar, por via oblíqua, o incentivo fiscal que o Estado-membro, no exercício de sua competência tributária, outorgou" (AgInt no REsp 1.671.906/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 15/12/2017).
+4. Recurso especial a que se nega provimento (REsp 1.691.837/RS, Rel. Min. OG FERNANDES, DJe 9.4.2018).
+5. Diante do exposto, dá-se provimento ao Recurso Especial.
+6. Publique-se. Intimações necessárias.
