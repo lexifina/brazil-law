@@ -1,0 +1,42 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "c", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Rio Grande do Sul que deu parcial provimento ao apelo defensivo apenas para reduzir a pena pecuniária e parcial provimento ao apelo ministerial para exasperar a reprimenda do acusado no que tange à agravante da reincidência, aumentando a pena do delito mais grave em dobro, pelo crime continuado, totalizando a reprimenda em 14 (quatorze) anos e 08 (oito) meses de reclusão.
+Sustenta a defesa a divergência jurisprudencial em relação à interpretação do art. 64, I, do Código Penal, alegando, em síntese, que a utilização da reincidência, mesmo específica, e com base em único crime, admite a compensação integral com a atenuante da confissão na segunda fase da dosimetria. Insurge-se, também contra a fração utilizada pelo reconhecimento da continuidade delitiva.
+Contrarrazões às e-STJ fls. 928/935.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 1.069/1.074.
+É o relatório. Decido.
+A irresignação merece prosperar, em parte.
+Os elementos existentes nos autos noticiam que o Tribunal de Justiça do Rio Grande do Sul deu parcial provimento ao apelo defensivo apenas para reduzir a pena pecuniária e parcial provimento ao apelo ministerial para exasperar a reprimenda do acusado no que tange à agravante da reincidência, aumentando a pena do delito mais grave em dobro, pelo crime continuado, totalizando a reprimenda em 14 (quatorze) anos e 08 (oito) meses de reclusão pela prática do crime do art. 157, § 2º, I, do Código Penal.
+A dosimetria da pena foi assim efetuada pelo Tribunal a quo:
+O réu registra péssimos antecedentes.
+Havendo nove condenações transitadas em julgado, utilizam-se oito (processos nos. 001/2050696470-2; 001/2050709624-0, 001/2050717207-9, 001/2050759951-0, 001/2060005650-4, 001/2060070274-0, 001/2070007816-0 e 001/2110129772-5 para esta valoração desfavorável.
+As circunstâncias do fato são desfavoráveis, seja porque o réu agiu violentamente contra uma das vítima (dupla elementar), seja porque a ação delitiva foi praticada contra dois ofendidos, sendo que o veículo subtraído, embora restituído, foi encontrado danificado.
+Assim, pelas circunstâncias judiciais acima analisadas, mas atenta para os péssimos antecedentes do acusado, mantenho a basilar em 05 (cinco) anos de reclusão, o que julgo atender os critérios de retribuição, prevenção e proporcionalidade da pena.
+Pena provisória:
+Presente a agravante da reincidência (processo nº 001/2080004742-8), bem como a atenuante da confissão espontânea. Deixo, entretanto, de compensá-las integralmente, dado que se trata de réu (multi)reincidente específico, o que reclama maior repressão estatal.
+ ..
+Assim, aumento a pena em 01 (um) ano pela agravante da reincidência (mesmo quantum operado pelo juízo a quo, que corresponde a patamar inferior à 1/3, que é a fração entendida como proporcional pelo Superior Tribunal de Justiça em casos semelhantes) e a diminuo em 06 (seis) meses pela atenuante da confissão espontânea, restando a pena provisória estabelecida em 05 (cinco) anos e 06 (seis) meses de reclusão.
+Pena definitiva:
+Pela majorante do emprego de arma, a pena foi aumentada de 1/3, mínimo legal, o que totaliza a pena de 07 (sete) anos e 04 (quatro) meses de reclusão. (e-STJ fls. 829/830 - grifo nosso)
+Observa-se que o Tribunal de origem deixou de operar a compensação integral da agravante da reincidência com a atenuante da confissão com fundamento na multirreincidência específica, utilizando, entretanto, nessa fase apenas uma condenação, o que contraria a jurisprudência desta Corte Superior. Confira-se:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E MULTIRREINCIDÊNCIA ESPECÍFICA. APENAS UMA CONDENAÇÃO ANTERIOR DEFINITIVA UTILIZADA NA SEGUNDA FASE. COMPENSAÇÃO INTEGRAL. POSSIBILIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência pacífica do STJ.
+2. A Terceira Seção do STJ, em 23/05/2012, por ocasião do julgamento do EREsp n. 1.154.752/RS, de relatoria do Ministro Sebastião Reis Júnior, pacificou o entendimento segundo o qual a atenuante da confissão espontânea, na medida em que compreende a personalidade do agente, é circunstância preponderante, devendo ser compensada com a agravante da reincidência, igualmente preponderante.
+3. O mesmo órgão julgador, na análise do HC n. 365.963/SP, de relatoria do Ministro Felix Fischer, em 11/10/2017, firmou entendimento no sentido de ser devida a compensação integral entre as citadas atenuante e agravante ainda que a reincidência seja pela prática do mesmo delito, ou seja, específica.
+4. Registrando o réu mais de uma condenação anterior definitiva, sendo apenas uma valorada na segunda fase da dosimetria da pena para fins de reincidência, não há óbice à integral compensação.
+5. Agravo regimental improvido. (AgRg no HC 436.924/SC, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe 23/05/2018 - grifo nosso)
+No que se refere à continuidade delitiva, observa-se que mesmo para os recursos interpostos pela alínea "c" do permissivo constitucional, é necessário que se aponte o artigo da legislação federal a que se deu interpretação divergente, o que não se verifica na espécie. Nessa linha:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+ ..
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido. (AgRg no REsp 1346588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe 17/03/2014)
+Nesse panorama, necessário pequena alteração na dosimetria da pena.
+Na primeira fase, a pena do crime mais grave ficou estabelecida em 5 anos de reclusão.
+Na segunda fase, conforme acima explicitado, fica compensada a agravante da reincidência com a atenuante da confissão espontânea.
+Na última fase, mantém-se o acréscimo de 1/3 operado pelas instâncias de origem, ficando a pena estabelecida em 6 (seis) anos e 8 (oito) meses de reclusão.
+Em razão da continuidade delitiva específica a pena foi aumentada no dobro (e-STJ fl. 833), totalizando agora 13 (treze) anos e 4 (quatro) meses de reclusão.
+Ante o exposto, com amparo no art. 932, VII, do CPC, c/c o art. 253, parágrafo único, II, "c", parte final, do RISTJ, conheço do agravo e dou parcial provimento ao recurso especial para fixar a pena do recorrente em 13 (treze) anos e 4 (quatro) meses de reclusão.
+Publique-se. Intimem-se.
