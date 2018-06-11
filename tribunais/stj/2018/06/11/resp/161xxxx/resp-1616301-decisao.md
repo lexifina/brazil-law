@@ -1,0 +1,47 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por FERRAGENS E ARGAMASSA ARAGUAIA LTDA., contra acórdão prolatado pela 2ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 273e):
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. NULIDADE DOS CRÉDITOS DECLARADA EM AÇÃO ORDINÁRIA. EXTINÇÃO DO FEITO EXECUTIVO. HONORÁRIOS ADVOCATÍCIOS. DUPLA CONDENAÇÃO.
+DESCABIMENTO.
+A execução fiscal foi extinta como decorrência direta da anulação dos créditos, o que ocorreu em ação autônoma e não por força da exceção de pré-executividade oposta, inexistindo causa para que sejam fixados honorários também na execução fiscal, pois o labor desenvolvido pelo causídico já foi remunerado na ação anulatória.
+Opostos embargos de declaração, foram acolhidos em parte (fls. 561/563e), para sanar omissão nos seguintes termos (fl. 287e):
+
+ .. Assim, passo a sanar a omissão apontada, integrando o julgado nos seguintes termos:
+De início registro que entendo que o novo CPC, com entrada em vigor em 18-03-2016, não se aplica ao caso. Nesse sentido, lecionam Teresa Arruda Alvim Wambier, Fredie Didier Jr, Eduardo Talamini, Bruno Dantas (Breves Comentários ao Novo Código de Processo Civil, p.
+2419): "..a lei do recurso é a que está em vigor no momento em que a decisão da qual se pretende recorrer é proferida. Entendemos que o dia da sentença é o que determina a lei que deve incidir". Desta forma o presente recurso deve observar o disposto no CPC/73.
+Com amparo no art. 105, III, a e c, da Constituição da República, a Recorrente aponta ofensa a dispositivos legais, alegando em síntese, que "o fato de a sentença originária ter sido prolatada em data anterior a vigência do novo CPC é irrelevante, pois deve ser aplicada a legislação vigente na data em que forem fixados os honorários advocatícios"  ..  é devida a dupla condenação em honorários advocatícios na Ação Autônoma e na Execução Fiscal" (fl. 305/307e).
+Com contrarrazões (fls. 336/338e), o recurso foi admitido (fl. 341e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+ii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Quanto ao argumento de que deve ser aplicada a legislação vigente na data em que forem fixados os honorários advocatícios, observo que a orientação desta Corte é no mesmo sentido do posicionamento do acórdão recorrido, segundo o qual a sentença é o marco para delimitação do regime jurídico aplicável à fixação de honorários advocatícios, revelando-se escorreito seu arbitramento, com fundamento no CPC de 1973, anteriormente à 18.03.2016 (data da entrada em vigor da novel legislação).
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. DIREITO INTERTEMPORAL. REGIME JURÍDICO APLICÁVEL. PROPOSITURA DA AÇÃO SOB A ÉGIDE DO ESTATUTO PROCESSUAL CIVIL DE 1973. PROLAÇÃO DE SENTENÇA QUANDO EM VIGOR O CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE DA NOVEL LEGISLAÇÃO. NECESSIDADE DE ARBITRAMENTO DA VERBA HONORÁRIA SUCUMBENCIAL À LUZ DO ART. 85 DA LEI N. 13.105/2015. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 no julgamento do Agravo Interno.
+II - Consoante o entendimento desta Corte, a sentença é o marco para delimitação do regime jurídico aplicável à fixação de honorários advocatícios, revelando-se incorreto seu arbitramento, com fundamento no CPC de 1973, posteriormente à 18.03.2016 (data da entrada em vigor da novel legislação).
+III - Inviabilizado, in casu, o arbitramento dos honorários advocatícios de sucumbência, com base no art. 85 do Código de Processo Civil de 2015, sob pena de restar configurada a supressão de grau de jurisdição e desvirtuar a competência precípua desta Corte em grau recursal (uniformização da interpretação da legislação federal), mediante a fixação de honorários de sucumbência casuisticamente e não apenas nas hipóteses de irrisoriedade e exorbitância no seu arbitramento.
+IV - Necessidade de reforma do acórdão recorrido, a fim de que seja procedido novo julgamento da apelação, com análise dos honorários advocatícios de sucumbência, respeitadas as peculiaridades do caso concreto, com base no estatuto processual civil de 2015.
+V - Recurso Especial parcialmente provido.
+(REsp 1647246/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 21/11/2017, DJe 19/12/2017).
+Contudo, verifico que o acórdão recorrido está em confronto com orientação desta Corte, segundo a qual a condenação em honorários na ação de embargos à execução independe da existência de outra condenação no próprio juízo executivo ou na ação anulatória, como o demonstram os julgados assim ementados:
+PROCESSO CIVIL - ADESÃO AO REFAZ - EXECUÇÃO FISCAL - AÇÃO ANULATÓRIA - HONORÁRIOS RECOLHIDOS NA EXECUÇÃO FISCAL - CONDENAÇÃO NA AÇÃO ANULATÓRIA - BIS IN IDEM - INEXISTÊNCIA.
+1. A adesão ao parcelamento tributário implica no dever de recolher os honorários advocatícios decorrentes do reconhecimento da procedência do crédito, nos termos em que disposto na legislação própria.
+2. O STJ fixou o entendimento jurisprudencial (EREsp 81.755/SC, Corte Especial, rel. Min. Waldemar Zveiter), no sentido da validade da condenação em honorários na ação de embargos à execução, independente da existência de condenação própria no juízo executivo.
+3. Idêntica razão autoriza a condenação em honorários na ação anulatória, conexa à execução fiscal.
+4. Recurso especial provido.
+(REsp 884.071/GO, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 02/09/2008, DJe 10/10/2008, destaquei).
+PROCESSUAL CIVIL - EMBARGOS DE DIVERGÊNCIA - PROCESSO DE EXECUÇÃO - EMBARGOS DO DEVEDOR - NATUREZA - AÇÃO DE CONHECIMENTO - FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS - CUMULAÇÃO - POSSIBILIDADE - JURISPRUDÊNCIA UNIFORMIZADA NO ÂMBITO DA CORTE ESPECIAL DO STJ.
+I - Mais do que mero incidente processual, os embargos do devedor constituem verdadeira ação de conhecimento. Neste contexto, é viável a cumulação dos honorários advocatícios fixados na ação de execução com aqueles arbitrados nos respectivos embargos do devedor. Questão jurídica dirimida pela Corte Especial do STJ, no julgamento dos Embargos de Divergência nº 97.466/RJ.
+II - Conhecimento e provimento dos Embargos de Divergência.
+(EREsp 81.755/SC, Rel. Ministro WALDEMAR ZVEITER, CORTE ESPECIAL, julgado em 21/02/2001, DJ 02/04/2001, destaquei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECURSO ESPECIAL PROVIDO. EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. CUMULAÇÃO. POSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A condenação em honorários na ação de embargos à execução independe da existência de outra condenação no próprio juízo executivo ou na ação anulatória. Precedentes.
+III - A Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida. IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp 1523844/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 21/09/2017, DJe 29/09/2017).
+Isto posto, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PARCIAL PROVIMENTO ao Recurso Especial para restabelecer a condenação em honorários advocatícios fixada na sentença.
+Publique-se. Intime-se.
