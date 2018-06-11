@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] OUTROS contra decisão que inadmitiu recurso especial. O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c" da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. SEGURO HABITACIONAL. SISTEMA FINANCEIRO DE HABITAÇÃO. PACTOS QUITADOS. CESSÃO. "CONTRATO DE GAVETA" COMPETÊNCIA. JUSTIÇA ESTADUAL. LEGITIMIDADE ATIVA E PASSIVA. INÉPCIA DA INICIAL E FALTA DE INTERESSE DE AGIR DESACOLHIDOS. PREFACIAL DE PRESCRIÇÃO ACOLHIDA. RELAÇÃO JURÍDICA ENTRE A PARTE SEGURADA E A SEGURADORA. PRAZO ANUAL PARA OBTER INDENIZAÇÃO SECUROTÁRIA. INEXISTÊNCIA DE COMUNICAÇÃO OPORTUNA DA OCORRÊNCIA DO RISCO GARANTIDO" (e-STJ fl. 74).
+No recurso especial, os recorrentes alegam a existência de divergência jurisprudencial acerca do prazo prescricional para as ações de indenização por danos de vícios de construção.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Com efeito, a jurisprudência desta Corte é no sentido de que na hipótese de contrato de mútuo habitacional firmado no âmbito do Sistema Financeiro Habitacional (SFH), é ânuo o prazo prescricional da pretensão do mutuário/segurado para fins de recebimento de indenização relativa ao seguro habitacional obrigatório.
+A propósito:
+"CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SEGURO. SISTEMA FINANCEIRO DA HABITAÇÃO. INVALIDEZ DO MUTUÁRIO. PRESCRIÇÃO ANUAL. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. É firme o entendimento desta Corte de que se aplica o prazo de prescrição anual do art. 178, § 6º, II, do Código Civil de 1916, às ações do segurado/mutuário contra a seguradora, buscando a cobertura de sinistro relacionado a contrato de mútuo habitacional celebrado no âmbito do Sistema Financeiro da Habitação.
+2. O Tribunal de origem, ao concluir pela prescrição ânua da ação de cobrança securitária, está em consonância com a orientação do STJ.
+Incidência da Súmula n. 83/STJ.
+3. Agravo regimental a que se nega provimento" (AgRg no AREsp 123.250/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/08/2013, DJe 27/8/2013 - grifou-se).
+"RECURSO ESPECIAL. SEGURO HABITACIONAL. SISTEMA FINANCEIRO DA HABITAÇÃO. SFH. PRESCRIÇÃO ANUAL. ART. 178, § 6º DO CÓDIGO CIVIL DE 1916. INAPLICABILIDADE DO ART. 27 DO CDC.
+1. Aplica-se o prazo de prescrição anual do art. 178, § 6º, II do Código Civil de 1916 às ações do segurado/mutuário contra a seguradora, buscando a cobertura de sinistro relacionado a contrato de mútuo habitacional celebrado no âmbito do Sistema Financeiro da Habitação.
+2. Não incidência da regra do art. 27 do CDC, porquanto restrito às hipóteses de fato do produto ou do serviço. Ressalva de fundamentação de voto vogal no sentido de que tal dispositivo se aplicaria quando buscada cobertura securitária por vício de construção, do que não se cogita no caso em exame.
+3. Hipótese em que a ação foi ajuizada quando decorrido mais de um ano da negativa de cobertura por sinistro de invalidez.
+4. Recurso especial provido" (REsp 871.983/RS, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 25/4/2012, DJe 21/5/2012 - grifou-se).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SEGURO HABITACIONAL. SISTEMA FINANCEIRO DA HABITAÇÃO. AÇÃO DE COBRANÇA. PRESCRIÇÃO ANUAL. ART. 178, § 6º DO CÓDIGO CIVIL DE 1916. SÚMULAS 7 E 182/STJ. DECISÃO AGRAVADA. MANUTENÇÃO. 1.- Aplica-se o prazo de prescrição anual do art. 178, § 6º, II do Código Civil de 1916 às ações do segurado/mutuário contra a seguradora, buscando a cobertura de sinistro relacionado a contrato de mútuo habitacional celebrado no âmbito do Sistema Financeiro da Habitação. 2.- Não tendo o acórdão recorrido fixado um termo inicial para a contagem do prazo prescricional não é possível, em sede de Recurso Especial, reconhecer o advento da prescrição, pois seria necessário reexame dos elementos fático-probatórios dos autos, soberanamente delineados pelas instâncias ordinárias, o que é defeso nesta fase recursal a teor da Súmula 7 do STJ. 3.- Nas razões do agravo regimental, devem ser expressamente impugnados os fundamentos lançados na decisão do Julgado. Incidência da Súmula 182 do Superior Tribunal de Justiça. 4.- Agravo Regimental improvido" (AgRg nos EDcl nos EDcl no REsp 1273293/SP, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 18/12/2012, DJe 4/2/2013 - grifou-se).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial. Na origem, os honorários sucumbenciais foram fixados em R$ 3.000,00 (três mil reais), os quais devem ser majorados para o patamar de R$ 3.200,00 (três mil e duzentos reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
