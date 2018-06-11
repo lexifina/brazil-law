@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pelo TJSC, assim ementado (fl. 295):
+APELAÇÃO CÍVEL. CONTRATOS. AÇÃO MANDAMENTAL. PLANO DE SAÚDE. NEGATIVA DE FORNECIMENTO. PRÓTESE IMPORTADA. IMPROCEDÊNCIA NA ORIGEM. - BOA-FÉ CONTRATUAL. CLÁUSULA CONTRATUAL EXCLUDENTE, APOSTA EM DESTAQUE E COM EXPRESSA CIÊNCIA DO TITULAR DO PLANO. EXISTÊNCIA DE SIMILAR NACIONAL. HIGIDEZ DA AVENÇA, NO CASO. RESSARCIMENTO DO VALOR EQUIVALENTE À PRÓTESE NACIONAL. - SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+- "Não se pode ter como abusiva a cláusula contratual só pelo fato de prever a exclusão de cobertura de medicamentos, materiais de enfermagem e cirúrgico importado, uma vez que a abusividade de cláusula deve ser analisada caso a caso. A aplicação das normas consumeristas à relação jurídica decorrente de contrato de plano de saúde não implica, necessariamente, no direito do segurado à utilização de material cirúrgico importado (prótese), quando não há prova nos autos de que o similar nacional não atenderia às necessidades do paciente  .. " (TJMG, AC 1.0024.06.229511-8/001; Belo Horizonte; Décima Quarta Câmara Cível, Relª Desª HILDA TEIXEIRA DA COSTA, j. em 09.08.2007).  .. " (TJSC, AC 2008.007300-7, rel. o signatário, j. em 27/05/2009).
+Os embargos de declaração opostos na origem foram rejeitados (fls. 312/319).
+Nas razões do especial, o recorrente alega violação do art. 51, IV, e § 1º, II e III, do CDC, bem como dissídio jurisprudencial, arguindo que "a cláusula que limita o fornecimento de prótese importada (..) é (..) abusiva por restringir direito" (fl. 325).
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento, passo a decidir.
+A Corte Estadual, com base nos fatos, provas e conteúdo contratual dos autos, entendeu pela não abusividade da cláusula de exclusão, assim se pronunciando (fl. 301):
+A respeito da cobertura do fornecimento próteses e órteses, prevê o contrato entabulado entre as partes (fls. 65/75) no parágrafo sexto da cláusula 16ª que:
+Parágrafo Sexto. Condições diferenciadas de atendimento:
+A CONTRATADA autorizará medicamentos e materiais (inclusive órteses e próteses cirúrgicas) nacionais, com certificados de boas práticas, conforme exigência da ANVISA, (somente autorizando os importados, caso não existam similares nacionais). As eventuais divergências serão dirimidas pelo mecanismo de junta médica, abaixo previsto. (destaque original).
+Desse contexto, em nome da boa-fé contratual, não há como afastar, no caso, a aplicação da mencionada cláusula excludente de fornecimento de materiais estrangeiros, como é o caso da prótese perseguida pelo autor. É que o seu conteúdo não é abusivo, e ela apresenta-se em destaque como determina a regra do art. 54, § 4º do Código de Defesa do Consumidor.
+(..)
+Sendo assim, resta agora saber se existe prótese nacional similar à importada.
+Não se discute nos autos que a prótese nacional que a ré se propôs a fornecer ao autor cumpre a mesma função da importada. A distinção que se faz quanto a elas diz respeito à qualidade.
+A prova que trouxe o autor para apontar a necessidade da utilização da prótese importada foi a declaração do seu médico:
+(..)
+Embora entenda o médico ser a prótese importada de qualidade superior à nacional, sua declaração não é o bastante para provar a imprescindibilidade do material importado. É que a prótese nacional fornecida pelo réu é produto certificado pela ANVISA - fato que incontroverso porque alegado na contestação e não impugnado pelo autor na réplica. Assim, não se pode supor que a ANVISA permita seja utilizada no mercado próteses que ofereçam risco à saúde dos pacientes. (..)
+Dos autos, não está a parte ré querendo impor a utilização de produto de má qualidade como afirma o autor, mas sim, produto de igual qualidade ao importado, como a única diferença de ser o produto utilizado nacional.
+(..)
+Por outro lado, não se encontra nos autos outras provas conclusivas a respeito da qualidade superior e imprescindibilidade do material importado. Portanto, tenho que possível o fornecimento da prótese nacional.
+(..)
+2.4 Um destaque final
+Não desconhece o signatário que o teor da declaração de fl. 33, firmada pelo médico do autor ([NOME]), é na sua essência igual a outras tantas emitidas por pelo mesmo profissional da Medicina e que foram autuadas, e serviram de subsídio às decisões, nos processos 2010.038035-6, 2008.079384-8, 2008.064121-9, 2007.035666-1, e 2007.035667-8, todos de minha relatoria. Interessante. E inusitado, porquanto segue um padrão, na estrutura e no conteúdo, como se possível fosse ignorar as particularidades de cada paciente e criar uma solução única, que a todos servisse.
+Inusitado, mesmo, que a todos esses cidadãos fosse possível uma só alternativa, como taxativa e incisivamente conclui o nominado, em todas as hipóteses mencionadas:
+Como condição absoluta, indico para esse paciente: prótese total de quadril híbrida com cabeça em cerâmica e polietileno acetabular "cross-linked", de fabricação estrangeira, das marcas Johnsons&johnsons  ou Zimmer . (destaquei).
+O acolhimento das razões do recurso demandaria inevitável apreciação das cláusulas contratuais, bem como o reexame de matéria fática, procedimentos que encontram óbice nos verbetes 5 e 7 da Súmula desta Corte.
+Acrescente-se que não foram devidamente impugnadas as razões expostas pela origem, não havendo o recorrente combatido a afirmação de que a prótese importada não se mostra superior à nacional. Assim, inviável o provimento do especial, também, por aplicação da Súmula 283/STF.
+Por fim, em relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado nos moldes dos arts. 541, parágrafo único, do CPC, e 255, parágrafos 1º e 2º, do RISTJ. Vale destacar que as circunstâncias fáticas e as peculiaridades diferem em cada caso, o que inviabiliza, em regra, o recurso especial interposto pela divergência jurisprudencial, que se funda em premissa fático-probatória.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
