@@ -1,0 +1,26 @@
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. TERCEIRA ETAPA DO CÁLCULO DA PENA. PRESENÇA DE DUAS MAJORANTES. EXASPERAÇÃO DA REPRIMENDA ALÉM DA FRAÇÃO MÍNIMA LEGAL. FALTA DE FUNDAMENTAÇÃO. CRITÉRIO MATEMÁTICO. INCIDÊNCIA DA SÚMULA 443/STJ. REGIME INICIAL FECHADO. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTO CONSTRANGIMENTO ILEGAL.
+Ordem parcialmente concedida.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], [NOME] e [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro.
+Os autos dão conta de que os pacientes foram condenados às penas de 5 anos e 4 meses de reclusão, em regime semiaberto, como incursos no art. 157, § 2º, II, do Código Penal (fls. 13/16 - Processo n. 0010883-49.2015.8.19.0204).
+Defesa e acusação recorreram, tendo o Tribunal de Justiça negado provimento ao recurso defensivo e, provido integralmente o apelo ministerial, redimensionando a pena dos acusados para 5 anos, 7 meses e 6 dias de reclusão, em regime fechado (fls. 41/56 - Apelação criminal n. 0010883-49.2015.8.19.0204).
+Daí a presente impetração em que se alega constrangimento ilegal quanto à dosimetria da pena, no que pertine à exasperação da pena na 3ª fase da dosimetria (Súmula 443) e a aplicação do regime inicial fechado (Súmula 440) (fl. 3).
+Postula-se, liminarmente e no mérito, a concessão da ordem para que seja reduzida a fração de aumento de pena oriunda da aplicação das majorantes do crime de roubo, readequando, em sequência, o regime prisional.
+O pedido de liminar foi indeferido (fls. 61/62).
+Dispensadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ ou, caso contrário, pela denegação da ordem (fls. 67/74).
+É o relatório.
+É manifesto o constrangimento ilegal suportado pelos pacientes.
+Conforme o acórdão da apelação (fls. 52/53 - sem grifos no original):
+Nesta perspectiva, veja-se que a presença de mais de uma causa especial de aumento de pena no crime de roubo pode agravar a pena em até metade, quando o Magistrado, diante das peculiaridades do caso concreto, constatar a ocorrência de circunstâncias que indiquem a necessidade da elevação da pena acima da fração mínima, respeitando o entendimento consolidado na Súmula 443 do Egrégio Superior Tribunal de Justiça.
+Na realidade, não fica o Julgador adstrito, simplesmente, à quantidade de majorantes para fixar a fração de aumento, pois, havendo nos autos elementos que conduzam à exasperação da reprimenda, a fração pode e deve ser elevada, acima de 1/3, contanto que devidamente justificada no decisum.
+Assim, diante da existência de duas majorantes no crime de roubo (emprego de arma e concurso de agentes), constatam-se particularidades que indicam a necessidade de exasperação da sanção na fração de 2/5.
+Valoração esta, proporcional à sua gravidade, sendo indubitável a maior reprovabilidade da conduta dos agentes.
+É consabido que o Superior Tribunal de Justiça consagrou o entendimento de que o recrudescimento da pena na terceira fase da dosimetria alusiva ao delito de roubo circunstanciado em fração mais elevada que 1/3 demanda fundamentação concreta, não se afigurando idônea a simples menção ao número de majorantes, a teor da Súmula 443/STJ. A propósito: HC n. 358.000/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 12/8/2016.
+Na hipótese, não obstante a menção à Súmula 443/STJ, a Corte de origem fixou o percentual em patamar acima do mínimo (1/3) sem obedecer a referida diretriz, o que caracteriza manifesto constrangimento ilegal, porquanto o critério de elevação da reprimenda pela presença de causas de aumento de possui caráter subjetivo, por ser mais favorável ao réu e por obedecer ao princípio constitucional da individualização da pena, e não meramente matemático, a depender, pois, das circunstâncias do caso concreto. No mesmo sentido: HC n. 421.192/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 21/2/2018.
+Assim, deve ser alterada a fração aplicada pelo acórdão impugnado de 2/5 para 1/3, em consequência a reprimenda dos pacientes passa a totalizar 5 anos e 4 meses de reclusão, e pagamento de 13 dias-multa.
+Melhor sorte não socorre os pacientes, no que se refere ao regime de cumprimento de pena fixado.
+Com efeito, de acordo com nossa jurisprudência, é possível que o condenado cumpra sua sanção penal em regime mais gravoso do que o indicado pela quantidade de pena aplicada, desde que as circunstâncias judiciais previstas no art. 59 do Código Penal tenham sido valoradas negativamente, ou haja motivação idônea, baseada em fatos concretos. Nesse sentido, por exemplo, HC n. 345.856/RJ, Ministro Reynaldo Soares da Fonseca, Quinta turma, DJe 21/6/2016.
+E, no caso, ainda que reconhecidas como favoráveis as circunstâncias judiciais, o Tribunal de origem fundamentou concretamente a opção pelo regime inicial fechado, com base, notadamente, nas circunstâncias que envolveram a prática do delito (violência exacerbada). Como destacou, o firme mosaico probatório revelou que os apelados agiram com extrema violência durante a empreitada criminosa, colocando a arma de fogo na cabeça da vítima (fl. 54).
+Ante o exposto, concedo parcialmente a ordem apenas para redimensionar as reprimendas dos pacientes, fixando-as em 5 anos e 4 meses de reclusão, e pagamento de 13 dias-multa.
+Publique-se.
