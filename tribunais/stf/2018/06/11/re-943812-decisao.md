@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PROVENTOS DE APOSENTADORIA. REAJUSTE. PERÍODO ANTERIOR À LEI 11.748/2008. ADOÇÃO DO ÍNDICE APLICADO AOS BENEFÍCIOS DO REGIME GERAL DE PREVIDÊNCIA SOCIAL – RGPS. ACÓRDÃO RECORRIDO QUE DIVERGE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. RECURSO PROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que, em embargos de declaração, assentou, in verbis:
+    “EMBARGOS DE DECLARAÇÃO. ART. 535 DO CPC. EFEITOS INFRINGENTES. SERVIDOR PÚBLICO. REAJUSTE DE BENEFÍCIOS PELOS MESMOS ÍNDICES DO RGPS – PERÍODO DE 2004 A 2007. INEXISTÊNCIA DE LEI FORMAL.
+    1. Ente 2004 e 2007, inexiste expediente normativo capaz de respaldar pretensão que visa a assegurar que servidores públicos e seus beneficiários tenham proventos de aposentadoria e pensão reajustados por índices idênticos aos que foram empregados para reajustar os benefícios vinculados ao Regime Geral de Previdência Social (RGPS). Precedente da 2ª Seção da Corte.
+    2. Embargos de declaração da União Federal providos. Prejudicados os embargos do Sindicato.” (Doc. 7, fl. 116)
+    Os embargos de declaração opostos pelo SINDISERF/RS foram desprovidos.
+    Nas razões do apelo extremo, o SINDISERF/RS sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, XXXV, XXXVI e LV, 8º, III, 37, caput e XV, 40, § 8º, e 93, IX, da Constituição Federal.
+    É o relatório. DECIDO.
+    O recurso merece prosperar.
+    O acórdão recorrido divergiu do entendimento firmado pelo Plenário desta Corte que, no julgamento do Mandado de Segurança 25.871, Rel. Min. Cezar Peluso, DJe de 4/4/2008, assentou que as aposentadorias dos servidores públicos e as pensões dos respectivos dependentes devem ser reajustadas pelos índices aplicados aos benefícios do regime geral de previdência social no período anterior à Lei 11.748/2008. Por oportuno, trago à colação a ementa do referido julgado:
+    “1. MANDADO DE SEGURANÇA. Legitimidade. Passiva. Tribunal de Contas da União - TCU. Caracterização. Servidor público aposentado desse órgão. Proventos. Pedido de ordem para reajuste e pagamento. Verba devida pelo Tribunal a que está vinculado o funcionário aposentado. Efeito jurídico eventual de sentença favorável que recai sobre o TCU. Aplicação do art. 185, § 1º, da Lei Federal nº 8.112/90. Preliminar repelida. O Tribunal de Contas da União é parte passiva legítima em mandado de segurança para obtenção de reajuste de proventos de servidor seu que se aposentou.
+    2. SERVIDOR PÚBLICO. Funcionário aposentado. Proventos. Reajuste ou reajustamento anual. Exercício de 2005. Índice. Falta de definição pelo TCU. Adoção do índice aplicado aos benefícios do RGPS. Direito líquido e certo ao reajuste. MS concedido para assegurá-lo. Aplicação do art. 40, § 8º, da CF, cc. art. 9º da Lei nº 9.717/98, e art. 65, § único, da Orientação Normativa nº 3 de 2004, do Ministério da Previdência Social. Inteligência do art. 15 da Lei nº 10.887/2004. Servidor aposentado do Tribunal de Contas da União tem direito líquido e certo a reajuste dos proventos na ordem de 5,405%, no exercício de 2005.”
+    Seguindo essa orientação, destaco as seguintes decisões: RE 712.779, Rel. Min. Luiz Fux, DJe de 16/10/2012; RE 1.049.908, Rel. Min. Celso de Mello, DJe de 20/6/2017; RE 914.360, Rel. Min. Edson Fachin, DJe de 14/12/2016; RE 1.005.038, Rel. Min. Roberto Barroso, DJe de 4/11/2016; RE 987.187, Rel. Min. Rosa Weber, DJe de 4/11/2016; RE 712.702, Rel. Min. Teori Zavascki, DJe de 25/4/2016; e RE 947.099, Rel. Min. Cármen Lúcia, DJe de 30/3/2016.
+    Ex positis, PROVEJO o recurso extraordinário, com fundamento no disposto no artigo 932, V, do CPC/2015, invertidos os ônus de sucumbência estabelecidos na sentença proferida nestes autos.
+    Publique-se.
+    Brasília, 11 de junho de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
