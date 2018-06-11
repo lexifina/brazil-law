@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão proferida pelo Tribunal de Justiça local que inadmitiu recurso especial interposto com fundamento na alínea c do permissivo constitucional.
+Depreende-se dos autos que o Tribunal de origem, reconhecendo a ocorrência de erro judiciário, deferiu o pedido revisional "para proceder a exclusão de todas as notas e registros referentes à imputação prevista no art. 157, caput, do Código Penal, ocorrida no dia 10/08/2007, nos autos de nº 0194.07.076299-3, constantes na Certidão de Antecedentes Criminais e na Folha de Antecedentes Criminais do requerente [NOME], bem como o cancelamento da suspensão de seus direitos político; e condenar o Estado de Minas Gerais a indenizar-lhe pelos prejuizos morais sofridos, restando à esfera civil a apuração do valor da indenização, nos termos dos arts. 630, caput, e § 1º, do CPP e 509 a 512, do NCPC" (e-STJ fl. 304), conforme a seguinte ementa (e-STJ fl. 299):
+REVISÃO CRIMINAL - ROUBO - ERRO JUDICIÁRIO CARACTERIZADO - AGENTE QUE AO SER PRESO EM FLAGRANTE PASSOU-SE PELO REQUERENTE - COMPROVAÇÃO QUE O PETICIONÁRIO NÃO FOI A PESSOA QUE PRATICOU O CRIME IMPUTADO NA DENÚNCIA - EXCLUSÃO DAS ANOTAÇÕES CONSTANTES NA CAC E FAC DO PETICIONÁRIO - DEFERIMENTO - INDENIZAÇÃO POR DANOS MORAIS - ADMISSIBILIDADE - PEDIDO REVISIONAL DEFERIDO.
+- Restando cabalmente demonstrado que o crime foi cometido por terceira pessoa que, ao ser presa em flagrante, passou-se pelo peticionário, imperiosa é a cassação da sentença e, consequentemente, a exclusão de todas as anotações constantes em sua CAC e FAC.
+- Restando demonstrado o erro judiciário, é devida a indenização em favor peticionário em face dos prejuízos sofridos, nos termos do art. 5º, inciso LXXV, da Constituição Federal e do art. 630, do CPP.
+- Pedido revisional deferido.
+Daí o presente recurso especial, no qual o Parquet alegou que ""os novos documentos" exigem sua submissão ao crivo do contraditório, não sendo possível que documentos extrajudiciais, sem qualquer valor jurídico, tenham o condão de afastar a condenação já transitada em julgado" (e-STJ fls. 316/317). Suscitou divergência jurisprudencial.
+Contrarrazões às e-STJ fls. 325/328.
+Inadmitido pelo Tribunal de origem, o recurso subiu a esta Corte por meio de agravo.
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial (e-STJ fls. 362/364).
+É o relatório. Decido.
+O apelo raro nem sequer merece conhecimento, conforme consignado na decisão de admissibilidade proferida pelo Tribunal a quo.
+De fato, verifico que a aventada divergência jurisprudencial não foi demonstrada nos termos exigidos pela legislação processual de regência. A mera transcrição de ementas não serve à comprovação do dissídio, sendo necessário o cotejo analítico entre os acórdãos recorrido e paradigma, com a efetiva confirmação da similitude dos casos confrontados. A propósito:
+REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL.  .. . DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO DO DISSÍDIO NOS TERMOS ART. 541, PARÁGRAFO ÚNICO, DO CPC/73 E DO ART. 255 DO RISTJ. RECURSO IMPROVIDO.
+1. O conhecimento do recurso especial interposto pela alínea "c" do permissivo constitucional exige a demonstração do dissídio jurisprudencial, de acordo com os requisitos do art. 541, parágrafo único, do CPC/73 e do art. 255 do RISTJ.
+2. Na espécie, deixou o recorrente de realizar o cotejo analítico entre os acórdãos confrontados, evidenciando que foram adotadas soluções diversas em litígios semelhantes, sendo insuficiente a mera transcrição das ementas dos julgados apontados como paradigma.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 729.869/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/10/2016, DJe 07/11/2016)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PROCESSO PENAL. LESÃO CORPORAL GRAVE. PLEITO ABSOLUTÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NECESSIDADE DE TRANSCRIÇÃO DE TRECHOS DOS ACÓRDÃOS RECORRIDOS E PARADIGMA. REINCIDÊNCIA. AGRAVAMENTO DA PENA-BASE EM 1/6. RAZOABILIDADE E PROPORCIONALIDADE. CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO INTEGRAL. INVIABILIDADE. AGENTE MULTIRREINCIDENTE. AGRAVO REGIMENTAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+ ..
+2. O conhecimento do recurso especial pela divergência exige a transcrição dos trechos dos acórdãos impugnado e paradigma, evidenciando-se, de forma clara e objetiva, o suposto dissídio jurisprudencial. Diante disso, não é bastante, à realização do cotejo analítico, a simples transcrição de ementas ou votos - como ocorreu na espécie -, pois insuficiente para demonstrar a similitude fática entre o acórdão recorrido e o considerado mais adequado ou "padrão" (arts. 541, parágrafo único, do CPC e 1.029, § 1º, do NCPC).
+ ..
+6. Agravo regimental conhecido em parte e, nessa extensão, não provido. (AgInt no REsp 1.475.151/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/10/2016, DJe 27/10/2016)
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
