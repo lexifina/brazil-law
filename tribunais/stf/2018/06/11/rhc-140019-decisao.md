@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus, interposto por Mario Gilberto de Oliveira, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que não conheceu do HC nº 352.390/DF, Relator o Ministro Jorge Mussi.
+    Sustenta o recorrente, em suma, a falta de justa causa para o prosseguimento da ação penal, deflagrada em seu desfavor.
+    Afirma também que as instâncias de origem negaram a ele o direito de produzir prova pericial tempestivamente requerida, bem como, segundo relatou a PGR,
+    “as petições nos 3494 e 3495, assinadas pelo recorrente e que foram protocolizadas nos autos dos processos de Exceção de Suspeição nos 2012.00.2.010758-e e 2012.00.2.010778-4, perante o Conselho Especial do TJDFT, não se consubstanciam em atos ilícitos passiveis de serem reprovados nos autos da referida ação penal.”
+    Por essas razões, pleiteia o provimento do recurso para que seja concedida a ordem de habeas corpus, determinando-se o trancamento da ação penal a qual responde, “por falta de justa causa, e por evidenciada, também, a atipicidade dos fatos a ele imputados e narrados na peça de denúncia.”
+    Pleiteia, alternativamente, a anulação “da Ação Penal nº 2014.01.1.068599-3, da 5º Vara Criminal de Brasília-DF, para deferir ao Recorrente o direito de produzir a prova pericial, que foi requerida na fase da defesa prévia.” (fl. 1.537)
+    A Procuradoria-Geral da República ofertou parecer pela prejudicialidade do recurso.
+    Examinados os autos, decido.
+    Com razão o Parquet Federal, pois o sítio eletrônico do Tribunal de Justiça do Distrito Federal indica que o recorrente, em data posterior ao julgado do STJ, objeto deste recurso, foi condenado pelo juízo de origem
+    “às penas de 3 anos e 8 meses de reclusão e 43 dias-multa, e 3 meses detenção, em regime inicial aberto (com substituição da pena privativa de liberdade por duas restritivas de direitos), como incurso nos arts. 339, caput, 347, caput, 299, caput, e 138, caput, combinado com os arts. 141, caput, inciso II, 69 e 70, todos do Código Penal (processo nº 2014.01.1.068599-3).”
+    O sítio eletrônico do TJDFT atesta, ainda, que o recurso de apelação defensivo apresentado, foi desprovido pela 1ª Turma Criminal aos 19/10/17.
+    Com efeito, essas circunstâncias sinalizam relevante alteração no quadro fático-processual apresentado, o que conduz à prejudicialidade deste recurso.
+    Segundo o entendimento deste Supremo Tribunal,
+    “[a] superveniente modificação do quadro processual, resultante de inovação do estado de fato ou de direito ocorrida posteriormente à impetração do ‘habeas corpus’, faz instaurar situação configuradora de prejudicialidade (RTJ 141/502), justificando-se, em consequência, a extinção anômala do processo” (RHC nº 83.799-AgR/CE, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 24/8/07).
+    Perfilhando esse entendimento:
+    “Recurso ordinário em habeas corpus. Processual Penal. Interposição contra julgado em que colegiado do Superior Tribunal de Justiça não conheceu da impetração, ao fundamento de ser substitutivo de recurso ordinário cabível. Constrangimento ilegal não evidenciado. Entendimento que encampa a jurisprudência da Primeira Turma da Corte. Precedente. Temas não analisados no acórdão recorrido. Dupla supressão de instância. Homicídio qualificado. Dosimetria da pena. Julgamento superveniente do recurso de apelação parcialmente provido para se reduzir a pena aplicada em grau primeiro. Novo título judicial. Prejudicialidade do recurso. Precedentes. 1. O entendimento do Superior Tribunal de Justiça quanto ao cabimento do habeas corpus encampou a jurisprudência da Primeira Turma da Corte no sentido da inadmissibilidade do habeas corpus que tenha por objetivo substituir o recurso ordinário (HC nº 109.956/PR, Relator o Ministro Marco Aurélio, DJe de 11/9/12), o que resultou no seu não conhecimento. 2. O Superior Tribunal de Justiça, ao não conhecer daquela impetração, deixou de analisar o tema trazido à apreciação da Suprema Corte porque o Tribunal local também não o analisara. Portanto, sua apreciação pela Suprema Corte, de forma originária, configuraria verdadeira dupla supressão de instância, o que não se admite. 3. O julgamento superveniente pelo Tribunal de Justiça do Estado de Pernambuco do apelo interposto pelo recorrente, reduzindo a pena a ele aplicada, inseriu novo título judicial no mundo jurídico, tornando, assim, prejudicado o recurso dirigido contra a decisão precedente. 4. Recurso ordinário prejudicado” (RHC nº 118.520/DF, Primeira Turma, de minha relatoria, DJe de 21/11/13).
+    Ante o exposto, nos termos do art. 21, inciso IX, do RISTF, julgo prejudicado o presente recurso ordinário em habeas corpus.
+    Publique-se.
+    Brasília, 11 de junho de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
