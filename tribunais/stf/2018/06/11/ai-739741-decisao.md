@@ -1,0 +1,16 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 708, Vol. 4):
+    “Usinas termelétricas – A questão da competência para o licenciamento ambiental – Empreendimento cuja natureza implica em problemas que superam o evidente interesse local – Necessidade de manifestação do órgão ambiental estadual, especialmente sendo caso de impacto a poder se projetar além dos limites de um só Município – Demora do órgão ambiental estadual a ser tolerada – Apelação da D.S.G. provida apenas em parte, para ficar autorizada a tomar medidas de contenção de aterro, de modo a serem impedidos aluvião e assoreamento de curso d’água existente nas proximidades do local em que inciadas atividades de implementação do projeto – Recursos dos demais apelantes não providos, bem como o recurso oficial, considerado interposto”
+    Nas razões recursais iniciais, com amparo no art. 102, III, “a”, da Constituição Federal, foi alegada violação aos arts. 5º, LIV e LV, 23, VI e VII, 24, VI, VII e VIII, 30, I e II, da CF/88.
+    É o relatório. Decido.
+    Quanto à alegação de afronta ao art. 5º, LIV e LV, da CF/88, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Ademais, o SUPREMO TRIBUNAL FEDERAL, na análise do ARE 639.228-RG (Rel. Min. CEZAR PELUSO (Presidente), Tema 424), assentou que não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.
+    Efetivamente, o Juízo de origem, com base na legislação infraconstitucional de regência (Lei 6.938/81) e no conteúdo probatório constante dos autos, asseverou que a “(...) instalação de usina termelétrica, por suas implicações, não envolve apenas problema de predominante e evidente interesse local, de maneira a que suas atividades devam depender simplesmente de licenças municipais” (fl. 716).
+    Verifica-se, portanto, que a solução dessa controvérsia depende da análise da legislação infraconstitucional, o que é inviável em sede de recurso extraordinário, bem como do reexame do contexto fático-probatório dos autos, providência igualmente incabível nesta sede recursal, conforme consubstanciado na Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) do STF.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 11 de junho de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
