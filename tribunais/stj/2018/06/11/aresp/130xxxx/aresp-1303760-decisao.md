@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fl. 194):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO - POLICIAL MILITAR - PROMOÇÃO POR MÉRITO INTELECTUAL - AUSÊNCIA DE CONCLUSÃO DAS DISCIPLINAS A TEMPO - RECURSO DESPROVIDO.
+1. Caso em que o Policial Militar, aprovado em seleção interna que, por desídia, não conclui a tempo o curso de formação de Cabos, uma vez que deixou de participar no número de fóruns necessários à abertura de avaliação final do certame.
+2. Apresentação de certificado de conclusão da disciplina em momento posterior que não se mostra apto a anular o ato administrativo que reconheceu a sua evasão no processo seletivo do qual participou.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 5º, do Decreto-Lei 4.657/42. Afirma que a Administração Pública permitiu fosse inscrito novamente na matéria evadida, de modo a criar a legítima expectativa de seu reaproveitamento na matéria versada. Ocorre que, mesmo tendo sido aprovado no novo ciclo, a Administração o reprovou por evasão, ofendendo a finalidade inerente dos próprios Cursos de Formações. Acrescenta que tendo sido remediada a causa da reprovação do Recorrente, ainda dentro do prazo de validade do Curso de Formação de Cabos, tem-se que o decisum fustigado violou o que ficou disposto no art. 5º, do Decreto-Lei 4.657/42, vez que os cursos capacitatórios devem sempre prestigiar ao princípio da eficiência em detrimento do princípio da legalidade.
+É o relatório.
+O inconformismo não prospera.
+A matéria pertinente ao dispositivo legal invocado não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF, bem anotado pelo decisório agravado.
+Ante o exposto, nego provimento ao agravo.
+ Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015), observando-se, contudo, o disposto no art. 98, § 3º, do CPC/2015, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
