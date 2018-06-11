@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 720):
+Funcionalismo - Adequação da jornada de trabalho à proporção prevista no § 4º do art. 2º da Lei Federal nº 11.738/08 e indenização por serviço extraordinário - Parcial procedência na origem - Aulas atribuídas de acordo com a legislação federal, em conformidade com a proporção de 2/3 para atividades de interação com alunos e 1/3 para atividade extraclasse - Ausência de serviço extraordinário que ultrapassasse a jornada semanal - Precedentes deste E. Tribunal de Justiça - Improcedência dos pedidos - Apelo da autora desprovido e recurso da Municipalidade e reexame necessário providos.
+Nas razões do recurso especial, a parte agravante aponta a existência de dissídio jurisprudencial quanto ao direito ao pagamento de horas extraordinárias de trabalho alem do limite estabelecido na Lei nº 11.738/08, desrespeitado pelo Município na distribuição das atividades docentes.
+É o relatório.
+Colhe-se do acórdão recorrido a seguinte fundamentação, verbis (fls. 722/728):
+Dessume-se dos autos que a autora, admitida em 14.4.2005, exerce o cargo de Professor I da Municipalidade de Hortolândia.
+Com efeito, acerca da Lei Federal nº 11.738/08, mister observar que alguns artigos foram objeto da ADIN nº 4167, dentre eles o § 4º do art. 2º, que dispõe:
+§ 4º Na composição da jornada de trabalho, observar-se-á o limite máximo de 213 (dois terços) da carga horária para o desempenho das atividades de interação com os educandos.
+Observa-se, no entanto, que no julgamento do aludido processo, em controle concentrado, reconheceu-se a constitucionalidade de tal dispositivo.
+Consabido, a Lei Municipal nº 2.00412008 dispõe sobre o regime jurídico dos servidores públicos de Hortolândia, estabelecendo no art. 217 sobre as atividades de magistério:
+(..)
+Por sua vez, o Decreto Municipal nº 2.399/2010 estabelecia que a jornada semanal de trabalho do professor seria constituída de horas em atividade com alunos, de horas de trabalho pedagógico coletivo e de horas de trabalho pedagógico individual
+(..)
+Posteriormente, foi editado o Decreto Municipal nº 3.07412013 que alterou os dispositivos acima mencionados
+(..)
+Infere-se que o Decreto Municipal nº 3.074/2013 supratranscrito está em consonância com a legislação federal, prevendo jornada compatível com a determinação legal.
+Isso porque, tomando-se como exemplo a Jornada Básica de Trabalho Docente do Ensino Fundamental (anos iniciais), verifica-se que 20 horas correspondem a atividades com alunos e as outras 10 horas são destinadas a trabalho pedagógico.
+Logo, conclui-se pelo atendimento à proporção de 2/3 estipulada pelo § 4º do art. 2º da Lei Federal 11.738/08.
+Vislumbra-se, portanto, que a Municipalidade de Hortolândia já estava cumprindo os termos da legislação federal ao tempo do ajuizamento da demanda (3.10.2014), razão pela qual o pedido relativo ao referido descumprimento não pode ser acolhido.
+Melhor sorte não assiste ao pleito de indenização por horas trabalhadas que houvessem extrapolado a proporção de dois terços, posto que não há nos autos demonstração de que a requerente realizou serviço extraordinário que superasse a jornada semanal, mesmo que houvesse excedido o tempo de interação com alunos em sala de aula.
+Verifica-se que o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Ademais, a alteração das conclusões adotadas pela Corte de origem, quanto à verificação do excesso na jornada de trabalho e o direito às horas extraordinárias, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Este Tribunal tem entendimento firme no sentido de que a incidência dos referidos óbices impede o exame de dissídio jurisprudencial, ante falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática dos autos, com base na qual foi dada solução à causa pelo Tribunal a quo.
+Nessa linha de entendimento:
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. AUXÍLIO-DOENÇA. INCAPACIDADE TOTAL E PERMANENTE PARA O TRABALHO. NÃO COMPROVADA. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONHECIDA.
+1. A Corte de origem, com amparo nos elementos de convicção dos autos, assentou que não há comprovação da incapacidade total e permanente do agravante para o exercício de atividade laboral, a fazer jus ao benefício de aposentadoria por invalidez.
+2. Inviável a revisão do referido entendimento, por demandar reexame de matéria fática, defeso em recurso especial, nos termos da Súmula 7/STJ.
+3. A incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso, com base na qual a Corte de origem deu solução à causa Agravo regimental improvido.
+(AgRg no AREsp 449.922/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 20/02/2014, DJe 27/02/2014)
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. SÓCIO. REDIRECIONAMENTO. EXISTÊNCIA DE CERTIDÃO DO OFICIAL DE JUSTIÇA ATESTANDO QUE A EMPRESA NÃO FUNCIONA NO LOCAL INDICADO. SUMULA 453/STJ. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1."Para se chegar à conclusão diversa da firmada pelas instâncias ordinárias no tocante ao redirecionamento da execução fiscal em razão do descumprimento ao art. 135, III do CTN pelo sócio-gerente seria necessário o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 desta Corte, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial" (AgRg no Ag 1.341.069/PR, Primeira Turma, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 15/9/11).
+2. "Quanto à interposição pela alínea "c", este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso, com base na qual deu solução à causa a Corte de origem" (AgRg no AREsp 346.367/SP, Rel. Min. HUMBERTO MARTINS, Segunda Turma, DJe 11/9/13) 3. Agravo regimental não provido.
+(AgRg no AREsp 424.727/PR, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 17/12/2013, DJe 06/02/2014)
+Ante o exposto, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015), observando-se, contudo, o disposto no art. 98, § 3º, do CPC/2015, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
