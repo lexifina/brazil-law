@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. RECONHECIMENTO. CONTRADIÇÃO. OBSCURIDADE. OMISSÃO. INEXISTÊNCIA. REVISÃO DO JULGADO DESFAVORÁVEL. LITIGÂNCIA DE MÁ-FÉ. NÃO CABIMENTO NA SEARA PENAL. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. Havendo erro material no acórdão, e respectiva certidão de julgamento, impõe-se a sua correção, inclusive de ofício.
+2. Não tendo sido conhecido o recurso especial, tanto pela alínea a quanto pela alínea c do permissivo constitucional, não há falar em vícios do acórdão no tocante às teses suscitadas nas razões recursais, por serem matérias afetas ao mérito.
+3. Os embargos de declaração servem ao saneamento do julgado eivado de um dos vícios previstos no art. 619 do CPP, e não à revisão de decisão de mérito que resultou desfavorável.
+4. É inaplicável, na seara penal, a imposição de multa por litigância de má-fé. Precedentes.
+5. Embargos de declaração parcialmente acolhidos, sem efeitos modificativos.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos infringentes, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de embargos de declaração opostos em face de acórdão que acolheu os embargos anteriormente opostos para, reconhecida a tempestividade do recurso especial, negar provimento ao agravo em recurso especial por outro fundamento.
+Sustentam a ocorrência de obscuridade e contradição, na medida em que, embora acolhidos os embargos, consta da certidão de julgamento que os aclaratórios teriam sido recebidos como agravo regimental e, assim, negado provimento.
+Afirmam a existência de omissão, no tocante à comprovação do dissídio jurisprudencial, relativamente à imprescindibilidade de perícia técnica, asseverando que as nulidades absolutas não se convalidam com o decurso do prazo.
+Asseveram, ademais, omissão quanto à execução provisória da pena, tendo em vista que, sem o trânsito em julgado, há maltrato à legislação federal e à Constituição Federal.
+Buscam, ainda, o reconhecimento de que o Ministério Público, ao insistir na tese de intempestividade do especial, teria incorrido em litigância de má-fé.
+Requerem, assim, o acolhimento dos embargos, aclarando-se o venerando Acórdão, sob pena de violação ao artigo 263, incisos I, II e III, do Regimento Interno do Egrégio Superior Tribunal de Justiça; aos artigos 105 e 106 da Lei de Execução Penal; aos artigos 619, 620, 674 e 675 do Código de Processo Penal; aos artigos 93, inciso IX e 5º, inciso LIV, todos da Constituição Federal (fl. 2.716).
+O MPF apresentou impugnação aos embargos, pugnando pelo parcial acolhimento, para corrigir erro material no dispositivo do acórdão.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver, no acórdão, ambiguidade, obscuridade, contradição ou omissão, ou, então, retificar, quando constatado, erro material do julgado.
+De fato, há erro material, cuja correção se impõe.
+Embora conste no acórdão (fl. 2.670) e na certidão de julgamento (fl. 2.681) que os embargos teriam sido recebidos como agravo regimental, negando-lhe provimento, em verdade, os embargos foram acolhidos para, reconhecida a tempestividade do recurso especial, negar provimento ao agravo por outro fundamento, tal como consta do voto (fl. 2.680).
+No mais, inexistem outros vícios a serem sanados.
+Conforme salientado, os embargos declaratórios de fls. 2625/2641 foram acolhidos, reconhecendo-se a tempestividade do especial, passando, ato contínuo, a analisar os seus pressupostos de admissibilidade, concluindo-se, ao final, pelo improvimento do agravo em recurso especial.
+As teses relativas à nulidade do feito foram afastadas.
+No tocante à apontada violação do art. 552, § 1º, do CPC, aplicável subsidiariamente ao processo penal, o acórdão entendeu que tal matéria não estaria prequestionada, circunstância que atrai as Súmulas 282 e STF, asseverando, a despeito de tal óbice, que inexistiria nulidade a ser reconhecida, uma vez que a alteração da pauta de julgamento obedeceu ao prazo mínimo de 48 horas, contido no referido dispositivo.
+Afastou a tese de violação do art. 499 do CPP, bem como de cerceamento de defesa, porque cabe ao juiz, destinatário final das provas, deferir a produção de provas que sejam necessárias à formação do seu convencimento, entendendo as instâncias de origem que os pleitos de diligência pericial em diversos setores da Receita Federal extrapolaria a instrução do feito e os fatos concretos da ação (fl. 2.677).
+Quanto à comprovação de materialidade e autoria delitivas, o acórdão entendeu pela incidência da Súmula 7/STJ porque seria necessária incursão ao acervo fático-probatório para se chegar à conclusão diversa da adotada pelo Tribunal de origem.
+Por fim, o recurso não foi conhecido pela alínea c do permissivo constitucional, devido à ausência de cotejo analítico, demonstrando a existência de similitude fática entre o acórdão guerreado e o paradigma, conforme exigem o art. 1.029, § 1º, CPC e o art. 255, §§ 1º e 2º, do RISTJ.
+Assim, não tendo sido conhecido o recurso especial, tanto pela alínea a quanto pela alínea c, não há falar em vícios do acórdão no tocante às razões e fundamentos ali expostos, por serem matérias afetas ao mérito recursal, tendo a matéria sido decidida com a devida e clara fundamentação.
+Sobre a execução provisória da pena, consta do acórdão ora embargado (fl. 2680):
+ Por fim, relativamente ao deferimento da execução antecipada da pena, não há falar em reformatio in pejus ou desconsideração da formação da coisa julgada, porquanto a condenação foi confirmada pelo Tribunal de origem, instância soberana na análise das provas.
+Aliás, o Pleno do Supremo Tribunal Federal, apreciando medida cautelar nas Ações Declaratórias de Constitucionalidade 43 e 44 (DJE 11/10/2016), por maioria, reafirmou o entendimento da possibilidade de execução provisória da pena, na ausência de recurso com efeito suspensivo, confirmada, ainda, em repercussão geral (ARE 964246 RG, Rel. Min. TEORI ZAVASCKI, DJe 25/11/2016).
+Ressalto que esta Corte permanece cumprindo a decisão mencionada do precedente do plenário da Suprema Corte, inobstante as fortes razões em contrário contidas em decisões da segunda turma daquela egrégia Corte - dispensada indicação casuística de necessidade da cautelar, pois assim não exigida pelo precedente aqui seguido.
+Observa-se, portanto, que o embargante pretendem apenas a rediscussão da matéria, visando alterar a conclusão que lhe resultou desfavorável, o que é incabível na via eleita. Os embargos de declaração servem ao saneamento do julgado eivado de um dos vícios previstos no art. 619 do CPP, e não à revisão de decisão de mérito.
+Quanto ao pleito de condenação do Parquet por litigância de má-fé, a jurisprudência desta Corte é firme no sentido de ser inadmissível na seara penal, uma vez que inexiste previsão legal neste sentido. Nesse sentido: AgRg nos EDcl nos EAREsp 316129 / SC, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 25/05/2016, DJe 01/06/2016.
+Outrossim, a intempestividade do recurso especial foi inicialmente reconhecida nesta instância (fls. 2.489/2.491 e 2.615/2.618), tendo sido afastada apenas no acórdão ora embargado, não havendo falar, por ora, em indevida procrastinação do feito pelo órgão de acusação.
+Ante o exposto, voto por acolher parcialmente os embargos de declaração, sem efeitos modificativos, apenas para fazer constar do acórdão embargado, e respectiva certidão de julgamento, que os anteriores embargos de declaração foram acolhidos para, reconhecida a tempestividade do recurso especial, negar provimento ao agravo em recurso especial por outro fundamento.
