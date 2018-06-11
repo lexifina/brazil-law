@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, na vigência do CPC/73, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"ACIDENTE DO TRABALHO - PRELIMINAR - Cerceamento de defesa - Não ocorrência - Realização de nova perícia médica - Desnecessidade - Prova técnica suficiente para o deslinde da causa.
+ACIDENTE DO TRABALHO - Acidente in itinere - Antebraço e mão direitos - Comprovação da lesão, do nexo causal e da incapacidade parcial e permanente do autor para o trabalho - Auxilio-acidente devido - Autor beneficiário de auxílio-acidente - Assegurado o recálculo do benefício, nos termos da Súmula 146 do STJ - Recurso do autor provido em parte" (fl. 172e).
+Opostos Embargos de Declaração, foram rejeitados (fls. 189/192e).
+Alega o recorrente, no Recurso Especial, fundamentado na alínea a do permissivo constitucional, ofensa aos arts. 535 do CPC/73; 23 do Decreto 79.037/76; 242 do Decreto 83.080/79; 28, 29 e 124, V, da Lei n. 8.213/91; e 884 do Código Civil.
+Sustenta, inicialmente, negativa de prestação jurisdicional.
+No mais, aduz a inaplicabilidade da Súmula 146/STJ à espécie, aduzindo que tal enunciado foi elaborado com base em precedentes que consideraram o disposto nos Decretos 79.037/76 e 83.080/79, já revogados, os quais permitiam a inclusão do valor do auxílio-acidente no salário de contribuição do outro auxílio-acidente, concedido em face de novo acidente de trabalho (fls. 197/198e).
+Assinala, ainda, que, "(..) ante a impossibilidade de cumulação dos benefícios, necessária a reforma do v. acórdão recorrido com a necessidade de cessação do primeiro auxílio-acidente, sem inclusão de seu valor na base de cálculo do benefício concedido nestes autos, sob pena de ofensa ao art. 884, "caput", do Código Civil" (fl. 199e).
+Ao final, requer o provimento do recurso.
+Oferecidas as contrarrazões (fls. 203/206e), o recurso foi inadmitido pelo Tribunal de origem (fl. 208e), advindo o presente Agravo (fls. 212/216e), ao qual foi apresentada contraminuta (fls. 219/224e)
+A irresignação não merece acolhimento.
+Em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1.360.762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+No mais, melhor sorte não assiste ao recorrente.
+O Tribunal de origem, após conceder ao recorrido o pleiteado auxílio-acidente, entendeu que não poderia haver cumulação entre tal prestação e outro benefício anteriormente deferido, aplicando ao caso a Súmula 146/STJ e precedente desta Corte, nos seguintes termos:
+"(..) a concessão do auxílio-acidente, é medida que se impõe.
+No entanto, o autor já é beneficiário de outro auxílio-acidente desde 04.03.1997 (fls. 77).
+Não obstante a ocorrência de fatos geradores distintos é vedado o recebimento cumulativo de dois auxílios-acidente.
+Este é o entendimento que tem prevalecido no Superior Tribunal de Justiça.
+Destarte, sendo o autor beneficiário de auxílio-acidente e vítima de novo infortúnio, fica assegurado o recálculo de seu benefício, somando-se ao salário de contribuição do período básico de cálculo o valor do benefício que percebe. Sobre o salário de benefício então apurado, calcula-se o novo auxílio-acidente.
+É o que dispõe a Súmula 146 do C. STJ: - "O segurado vítima de novo infortúnio, faz jus a um único benefício somado ao salário de contribuição no dia do acidente" (..).
+(..)
+Solução esta que se harmoniza com o entendimento esposado pela Corte Superior (..)" (fls. 174/176e).
+Com efeito, a Corte Estadual não dissentiu dos precedentes desta Corte no sentido de que, após as alterações promovidas pela Lei 9.032/95, que conferiu nova redação ao art. 124, V, da Lei 8.213/91, o segurado, vítima de novo infortúnio, não tem direto à acumulação de mais de um auxílio-acidente. Todavia, faz jus a um único benefício, somando-se o valor do auxílio-acidente, até então recebido, ao salário de contribuição, vigente na data do novo infortúnio.
+É o teor da Sumula 146/STJ, in verbis: "O segurado, vítima de novo infortúnio, faz jus a um único benefício somado ao salário de contribuição vigente no dia do acidente".
+A compreensão firmada na orientação sumular foi mantida pela jurisprudência desta Corte, independentemente da lei em vigor na data do fato gerador do novo benefício.
+Nesse sentido, destaco os seguintes precedentes, por ilustrativos:
+"EMBARGOS DE DIVERGÊNCIA. AUXÍLIO SUPLEMENTAR E AUXÍLIO-ACIDENTE. CUMULAÇÃO. IMPOSSIBILIDADE.
+1. "O segurado, vítima de novo infortúnio, faz jus a um único benefício somado ao salário de contribuição vigente no dia do acidente." (Súmula 146-STJ).
+2. Embargos acolhidos" (STJ, EREsp 166.230/SP, Rel. Ministro FERNANDO GONÇALVES, CORTE ESPECIAL, DJ de 17/02/2003).
+"EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. ACÓRDÃO QUE ACOLHE AS RAZÕES RECURSAIS, MAS NEGA PROVIMENTO AO RECURSO ESPECIAL. CONTRADIÇÃO. RECONHECIMENTO. SENTENÇA QUE EXTINGUIRA O PROCESSO SEM JULGAMENTO DO MÉRITO. RETORNO DOS AUTOS AO JUÍZO DE PRIMEIRO GRAU.
+1. Impõe-se acolher os embargos para dirimir contradição efetivamente existente no acórdão que, a despeito de reconhecer que o segurado, vítima de novo infortúnio, tem direito à revisão do seu benefício, somando-se o valor do auxílio-acidente ao salário-de-contribuição vigente na data do novo infortúnio, nega provimento ao recurso especial, mantendo, em última análise, decisão que extinguira o processo sem julgamento do mérito, por impossibilidade jurídica do pedido.
+2. A superveniência da Lei nº 9.032/95, que deu nova redação ao artigo 124, inciso V, da Lei nº 8.213/91, não exclui a pretensão ora em exame, de modo a que possa ser qualificada como juridicamente impossível, pois que se discute mera sucessão de leis no tempo.
+3. Embargos acolhidos" (STJ, EDcl no REsp 650.147/SP, Rel. Ministro HAMILTON CARVALHIDO, SEXTA TURMA, DJ de 03/10/2005).
+"AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. IMPOSSIBILIDADE DE CUMULAÇÃO. POSSIBILIDADE DE NOVO CÁLCULO DO BENEFÍCIO ANTE A SUPERVENIÊNCIA DE OUTRO INFORTÚNIO. SÚMULA N.º 146 DO STJ. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. PARCIAL PROVIMENTO AO RECURSO ESPECIAL (ART. 544, § 3º, PRIMEIRA PARTE, CPC).
+1. É pacífica a jurisprudência desta Corte quanto à impossibilidade de acumulação de mais de um auxílio acidente. Contudo, havendo novo infortúnio, admite-se recalcular o benefício que já vinha sendo pago, somando-se ao salário de contribuição vigente no dia do segundo acidente, a fim de se obter um valor melhorado. Incidência da Súmula n.º 146 do STJ.
+2. Reconsideração da decisão agravada para, conhecendo do agravo de instrumento, dar parcial provimento ao recurso especial a fim de determinar o novo cálculo do auxílio-acidente" (STJ, AgRg no Ag 434.825/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJ de 05/05/2003).
+"PREVIDENCIÁRIO. ACUMULAÇÃO DE MAIS DE UM AUXÍLIO-ACIDENTE. IMPOSSIBILIDADE. ENTENDIMENTO PACIFICADO NA CORTE ESPECIAL. APLICAÇÃO DA SÚMULA 146-STJ.
+I- A Lei 8.213/91, em sua redação original, não vedava a acumulação de mais de um auxílio-acidente, desde que os fatos geradores fossem diversos. Com a edição da Lei 9.032/95, a acumulação tornou-se expressamente proibida.
+II- As Turmas integrantes da Eg. Terceira Seção oscilaram entendimento, no sentido de que era possível a acumulação de mais de um auxílio-acidente, se provenientes de causas diversas, levando-se em consideração a lei vigente na data do fato gerador do benefício. A Corte Especial, no entanto, pacificou a jurisprudência em sentido contrário, qual seja, da impossibilidade de percepção simultânea dos dois benefícios. Aplicação do artigo 124 da Lei 8.213/91, alterado pela Lei 9.032/95.
+III- A teor do verbete Sumular 146-STJ: "O segurado, vítima de novo infortúnio, faz jus a um único benefício somado ao salário de contribuição vigente no dia do acidente".
+IV- Recurso desprovido" (STJ, REsp 450.279/SP, Rel. Ministro GILSON DIPP, QUINTA TURMA, DJ de 10/03/2003).
+"AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE DE ACUMULAÇÃO DE MAIS DE UM AUXÍLIO-ACIDENTE. SÚMULA Nº 146/STJ. OFENSA A DISPOSITIVOS CONSTITUCIONAIS DEVE SER SUSCITADA EM SEDE DE RECURSO EXTRAORDINÁRIO. DECISÃO MANTIDA.
+1. "O segurado, vítima de novo infortúnio, faz jus a um único benefício somado ao salário-de-contribuição vigente no dia do acidente" (Súmula nº 146 ).
+2. A ofensa a dispositivos constitucionais haveria de ser suscitada em sede de recurso extraordinário, nos termos do art. 102, III, da Constituição Federal, e não nesta sede.
+3. Agravo regimental improvido" (STJ, AgRg nos EDcl no Ag 959.624/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe de 29/09/2008).
+No mesmo sentido, entre outras, as seguintes decisões monocráticas: STJ, AREsp 875.655/SP, Rel. Ministro SÉRGIO KUKINA, DJe de 23/08/2017; STJ, AREsp 1.096.908/SP, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 24/05/2017; STJ, AREsp 1.080.644/SP, Rel. Ministra ASSUSETE MAGALHÃES, DJe de 15/05/2017; e STJ, AREsp 845.133/SP, Rel. Ministro OG FERNANDES, DJe de 27/04/2017.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para negar provimento ao Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
