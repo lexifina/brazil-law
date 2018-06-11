@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de ROGER BERTOLDI DA SILVA, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 0051107-49.2018.8.21.7000).
+Extrai-se dos autos que o paciente foi preso em flagrante em 13/2/2018 por ter supostamente praticado o delito tipificado no art. 33, caput, da Lei n. 11.343/06 (tráfico de entorpecentes). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem em acórdão assim ementado:
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA.
+Decreto prisional, lançado em 20/02/18, apresenta fundamentação adequada. O paciente restou preso em flagrante em frente a um clube, localizado na cidade de Gramado, durante as festividades do Carnaval, sendo surpreendido, em tese, na posse de dinheiro, 17 tabletes de substância semelhante a maconha (pesando 160g) e 3 cigarros de substância semelhante a maconha (pesando 4g).
+Segundo o expediente, o paciente inclusive confirmou aos policiais militares a existência, em sua residência, de um pé de maconha e uma estufa para secagem da droga. Dessa forma, demonstrada a materialidade do fato e presentes indícios suficientes de autoria, cabível a prisão preventiva do paciente, especialmente para garantia da ordem pública. A presença de predicados pessoais favoráveis, por si só, não justifica a concessão da liberdade provisória. No caso, estão presentes os requisitos do art. 312 do CPP. Medidas cautelares diversas da prisão. Insuficientes e inadequadas. Os demais argumentos apresentados pela defesa deverão ser analisados em momento processual oportuno, já que não é possível o exame de provas de forma pormenorizada em sede de habeas corpus, de cognição sumária. A quantidade e a qualidade das substâncias apreendidas, bem como as circunstâncias do flagrante, apontam para a prática do tráfico de drogas, em tese. A prisão preventiva não ofende o princípio constitucional da presunção de inocên cia, nem se trata de execução antecipada de pena. A Constituição Federal prevê, no seu art. 5º, LXI, a possibilidade de prisão, desde que decorrente de ordem escrita e fundamentada. ORDEM DENEGADA (fl. 131).
+No presente mandamus, afirma, inicialmente, não ser o paciente traficante e sim usuário. Alega que o decreto prisional carece de fundamentação idônea, uma vez que pautado exclusivamente na gravidade abstrata do delito. Aponta ausência dos requisitos previstos no art. 312 do Código de Processo Penal.
+Ressalta as condições pessoais favoráveis do paciente e sustenta a suficiência da aplicação de medidas cautelares alternativas.
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva, com a expedição do competente alvará de soltura, se for o caso com aplicação de medidas cautelares alternativas, nos termos do art. 319 do Código de Processo Penal.
+Liminar indeferida às fls. 148/150.
+Informações prestadas às fls. 155/158 e 160/175.
+O Ministério Público Federal se manifestou pela concessão da ordem, conforme parecer de fls. 421/424.
+É o relatório.
+O pedido está prejudicado, pois conforme demonstram as informações obtidas na página eletrônica do Tribunal de origem, foi concedida a liberdade ao paciente em 28/5/2018, nada mais havendo, portanto, a ser aqui examinado.
+Ante todo o exposto, nos termos do art. 34, XI do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
