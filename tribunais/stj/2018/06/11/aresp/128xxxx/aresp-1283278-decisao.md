@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por [NOME] S/A - EM RECUPERAÇÃO JUDICIAL, em face de acórdão assim ementado (fl. 566):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ACIDENTE DE TRÂNSITO. MORTE. PREJUDICIAIS DE MÉRITO NÃO ACOLHIDAS. PEDIDO DE SUSPENSÃO E ENCAMINHAMENTO DOS AUTOS AO JUÍZO DA RECUPERAÇÃO JUDICIAL. IMPOSSIBILIDADE.
+OFENSA AO DUPLO GRAU DE JURISDIÇÃO. RECURSO NÃO CONHECIDO QUANTO A INOVAÇÃO RECURSAL. VEÍCULO CONDUZIDO POR FUNCIONÁRIO DA EMPRESA APELANTE. RESPONSABILIDADE DA EMPRESA EMPREGADORA. ART. 932, III, DO CÓDIGO CIVIL. REPARAÇÃO POR DANOS MORAIS AOS APELADOS FIXADA EM R$ 50.000,00.
+OBSERVÂNCIA AO PRINCÍPIO DA RAZOABILIDADE. PENSÃO MENSAL.
+DEPENDÊNCIA ECONÔMICA PRESUMIDA. FAMÍLIA DE BAIXA RENDA.
+PRECEDENTES. AUSÊNCIA DE COMPROVAÇÃO DOS DANOS MATERIAIS.
+INDISPENSABILIDADE DE PROVAS PARA IMPOSIÇÃO DO RESSARCIMENTO POR DANOS MATERIAIS. HONORÁRIOS SUCUMBENCIAIS MANTIDOS.
+RECURSO PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO.
+Nas razões do especial, a ora agravante alega afronta aos arts. 493 e 1.014 do Código de Processo Civil/2015, pretendendo seja julgada nula a "sentença por ter sido proferida por Juízo diverso da recuperação judicial" (fl. 610).
+Aponta, ainda, dissídio jurisprudencial em relação aos valores fixados a título de pensão mensal e de danos morais.
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+Inicialmente, no que concerne aos dispositivos trazidos à discussão, as matérias neles tratadas não foram objeto de debate pela Corte de origem, que entendeu devidamente fundamentado seu acórdão, sem necessidade de se pronunciar sobre ponto que não julgou necessário ao deslinde da questão. Assim, ressentindo-se o especial do requisito de prequestionamento, exigido inclusive para as matérias de ordem pública, inviabilizada a apreciação do recurso por esta Corte, por se tratar de óbice intransponível contido no enunciado 282 da Súmula do STF.
+Acrescente-se que, em relação à pretensão de anulação da sentença, a corte Estadual entendeu que "o art. 6º, parágrafo 1º, da Lei de Falência (Lei n.11.101/2005) diz que o processo de recuperação não suspende as ações indenizatórias ilíquidas, com os valores a serem apurados, nem tampouco exige a remessa dos autos ao Juízo falimentar" (fl. 601).
+O fundamento acima reproduzido não foi impugnado nas razões do especial, não havendo a recorrente, sequer, apontado violação do art.6º, § 1º, da Lei n. 11.101/2005, utilizado como razão de decidir. Assim, inviável o provimento do especial, também, por aplicação da Súmula 283/STF.
+No que tange ao valor da verba indenizatória por dano moral, o Tribunal de origem fixou o valor de R$ 50.000,00 (cinquenta mil reais), com base nos fatos e provas dos autos, e a revisão do julgado, neste sentido, fica obstada pela incidência do enunciado 7 da Súmula do STJ, eis que dependente de reexame de matéria fática da lide.
+Acrescente-se que a jurisprudência desta Corte, excepcionalmente, em recurso especial, admite o reexame do valor fixado, a título de indenização por danos morais, quando ínfimo ou exagerado, o que não ocorreu no caso dos autos, pois registra-se precedentes admitindo indenizações por danos morais no equivalente a até 500 (quinhentos) salários mínimos em favor de parentes próximos da vítima fatal. Nesses termos:
+RECURSO ESPECIAL - RESPONSABILIDADE CIVIL - ACIDENTE EM PLATAFORMA DE EXPLORAÇÃO DE PETRÓLEO - MORTE DE FILHO - DANOS MORAIS - QUANTUM INDENIZATÓRIO - NÚMERO DE LESADOS - RAZOABILIDADE - RECURSO NÃO CONHECIDO.
+(..)
+2. Ante as peculiaridades da espécie, a manutenção do quantum indenizatório arbitrado pelo Tribunal a quo, em valor equivalente a 500 salários mínimos para cada um dos autores, pais da vítima do acidente laboral, denota eqüidade e moderação, não implicando em enriquecimento sem causa.
+3. Recurso Especial não conhecido.
+(REsp 745.710/RJ, Rel. Ministro CESAR ASFOR ROCHA, Rel. p/ Acórdão Ministro JORGE SCARTEZZINI, QUARTA TURMA, julgado em 05/12/2006, DJ 09/04/2007, p. 254)
+Quanto à pretensão de redução da pensão, fixada em 2 (dois) salários mínimos, com razão a recorrente.
+O Tribunal de origem, ao julgar a apelação, assim se pronunciou (fl. 575):
+Devo ressaltar, que embora não conste nos autos a comprovação de que o de cujus exercia trabalho remunerado e ajudava na mantença de sua família, comungo do entendimento de que o pagamento de pensão mensal no valor de 2 (dois) salários mínimos até o ano em que a vítima completaria 65 (sessenta e cinco) anos, deriva da presunção de dependência econômica, já que a vítima contava à época com 25 (vinte e cinco) anos, por se tratar de família economicamente hipossuficiente.
+A conclusão acima reproduzida está em desarmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, no sentido de ser "devido o pensionamento aos pais, pela morte de filho, nos casos de família de baixa renda, equivalente a 2/3 (dois terços) do salário mínimo ou do valor de sua remuneração, desde os 14 até os 25 anos de idade e, a partir daí, reduzido para 1/3 até a data correspondente à expectativa média de vida da vítima, segundo tabela do IBGE na data do óbito ou até o falecimento dos beneficiários, o que ocorrer primeiro" (AgRg no REsp 1287015/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/4/2016, DJe 20/4/2016).
+Em face do exposto, conheço do agravo e, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dou parcial provimento ao recurso especial, para determinar que o valor da pensão seja fixado nos termos da jurisprudência sedimentada nesta Corte acima reproduzida.
+Intimem-se.
