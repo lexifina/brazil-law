@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, em 19/06/2017, com base na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+"APELAÇÃO - APOSENTADORIA POR IDADE - REQUISITOS COMPROVADOS - CARÊNCIA. ADIMPLEMENTO. APELAÇÃO DO INSS IMPROVIDA.
+1.O trabalhador tem direito a se aposentar com as idades citadas no § 3º, do artigo 48, da Lei nº 8.213/1991, desde que cumprida a carência com a utilização de labor urbano ou rural, ou de ambos.
+2.A autora alega ter trabalhado em empresas com comprovação de recolhimento efetuados à Previdência Social nos informes do CNIS e períodos anotados na Carteira de Trabalho.
+3.A autora recolheu ao INSS, contribuições que atingem 144, conforme tabela constante da Lei 8.213/91, deste modo, cumprida a carência.
+4.Dessa forma, preenchidos os requisitos legais, é devido o benefício de aposentadoria por idade pleiteado.
+5.Apelação da autarquia previdenciária improvida" (fl. 95e).
+Opostos Embargos de Declaração, foram rejeitados, nos seguintes termos:
+"PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. REQUISITOS. COMPROVAÇÃO. EMBARGOS DE DECLARAÇÃO. CABIMENTO. MATÉRIA ANALISADA PELA C.TURMA. PRESSUPOSTOS. NÃO CONTEMPLAÇÃO. IMPROVIMENTO DOS EMBARGOS.
+1.Os embargos de declaração têm por finalidade a função integrativa do aresto, sem provocar qualquer inovação. Somente em casos excepcionais, é possível conceder-lhes efeitos infringentes.
+2.No caso vertente, esta E.Corte analisou a matéria ora posta, considerando a documentação trazida aos autos pela autora e entendeu pela comprovação dos requisitos exigidos, o que veio assentado na decisão monocrática recorrida confirmada pela C.Turma.
+3.Embargos improvidos" (fl. 114e).
+Alega-se, nas razões do Recurso Especial, ofensa aos arts. 489, 494, I e 1.022, todos do CPC/2015. Para tanto, sustenta que:
+"Com efeito, o v. acórdão que rejeitou os embargos declaratórios contraria o disposto nos artigos 494, I e 1022 do Código de Processo Civil.
+Os embargos de declaração foram opostos para que fossem sanadas omissão e obscuridade do v. acórdão proferido pela E. Corte Regional, assim como ERRO MATERIAL demonstrado na apuração do tempo de serviço/carência.
+Assim dispõe o artigo 494, I, do CPC/2015, mantendo o que já dispunha o artigo 463, I do CPC/1973:
+(..)
+Foram rejeitados, sob o argumento de que possuiriam caráter infringente, para modificação do julgado.
+Todavia, o que se pediu nos embargos de declaração foi apenas o pronunciamento sobre a possibilidade de apuração de tempo de serviço APÓS O TERMO INICIAL fixado para o pagamento do beneficio, já que concedida aposentadoria por idade urbana desde 04/07/2011 e o ilustre Relator expressamente afirma ter computado contribuições até 31/12/2014.
+De fato, tal como constou nos embargos declaratórios, o E. Tribunal Regional concedeu aposentadoria por idade à autora, DESDE 04/07/2011 (citação - ls.38), considerando as contribuições encontradas no CNIS até 12/2014, que, somadas àquelas referentes ao período anotado na CTPS (09/1966 a 12/1971) e àquelas constantes do CNIS de fls. 46 (de 05/2006 a 04/2011), atingiriam mais de 144 contribuições, considerando a exigência do artigo 142 da Lei 8213/91 (60 anos de idade em 2005).
+Relembrando, até a citação, a autora possuía apenas 123 contribuições, considerando exatamente o tempo de serviço reconhecido no V. Acórdão.
+Há, portanto, ERRO MATERIAL a ser sanado, na medida em que TODOS os requisitos devem estar preenchidos na data da concessão do benefício, não sendo lícito computar tempo de serviço posterior ao termo inicial dos pagamentos. Afinal, somente há direito adquirido quando TODOS os requisitos para a concessão do beneficio se completam, não havendo que se invocar o artigo 5º, XXXVI da CF/88 antes disso, inclusive com base no parágrafo 5º do artigo 195 da CF/1988 (prévia fonte de custeio).
+O v. acórdão que apreciou os embargos de declaração é, pois, nulo, porquanto contraria o disposto no artigo 1022 e 489 do Código de Processo Civil, ante a evidente negativa de prestação jurisdicional, pois, sem entrar nas questões especificamente colocadas pelo embargante, a douta Turma Julgadora rejeitou os competentes embargos declaratórios. Deve, então, ser anulado para que a C. Regional aprecie todas as questões formuladas pela Autarquia Previdenciária.
+Assim, requer seja o presente Recurso Especial provido, em razão da afronta ao artigo 1022 do diploma processual civil, retomando os autos à origem para pronunciamento acerca da matéria debatida.
+Caso se entenda estar a matéria devidamente prequestionada, inclusive com base no que dispõe o artigo 1025 do NCPC, requer o conhecimento e o provimento do presente recurso, para que seja decretada a improcedência do pedido inicial ou, ao menos, alterado o termo inicial da condenação.
+De fato, não havendo apresentação dos documentos que fundamentaram a decisão, o termo inicial da condenação não poderá ser anterior à data do V. Acórdão que concede o beneficio, especialmente à luz do que dispõe o artigo 396 do Código Civil" (fls. 120/121e).
+Requer, ao final, "o conhecimento e provimento do presente Recurso Especial, para reforma do v. acórdão recorrido, em face da violação aos artigos 1022, 494,1 e 489 do NCPC" (fl. 121e).
+Em sede de contrarrazões, a parte recorrida defende a manutenção do acórdão impugnado (fls. 125/128e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 130e).
+Sem razão a parte recorrente.
+Inicialmente, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente, senão vejamos excerto do aresto objurgado, no que interessa:
+"No caso vertente, esta E.Corte analisou a matéria ora posta, considerando a documentação trazida aos autos pela autora e entendeu pela comprovação dos requisitos exigidos, o que veio assentado na decisão recorrida que sobreveio nos seguintes termos:
+"A parte autora, [NOME], nasceu em 21/10/1945 (fl.07) e completou o requisito idade mínima em 21/10/2005, devendo, assim, demonstrar a carência mínima de 144 contribuições, conforme previsto no artigo 142 da Lei nº 8.213/91.
+A autora alegou na inicial ajuizada em 2012, contar com 65 anos de idade, tendo cumprido a carência, sendo ainda que labora, desde março de 2006, como microempresária juntamente com a sua filha na Livraria e Sebo coruja Ltda.ME, conforme provas juntadas aos autos.
+Como início de prova material de seu trabalho apresentou os seguintes documentos:
+Cópia da Carteira de Trabalho e Previdência Social emitida em 1966, com anotação de vínculo empregatício no Comércio de Automóveis Caraigá Ltda, de setembro de 1966 a dezembro de 1971;
+Declarações com firma reconhecida de [NOME], de que a autora trabalhou na Organização Contábil Penafiél Ltda, de 1962 a 1964, de [NOME] e [NOME] e [NOME], de trabalho na mesma empresa contábil, de 1963 a 1965 e declaração de que após a autora e ela foram trabalhar na Caraigá; (estas, por si, não servem ao reconhecimento do suposto vínculo, porquanto extemporâneas aos fatos.
+CNPJ da Livraria Sebo Coruja no ano de 2006 e recolhimento de contribuições.
+A consulta do CNIS aponta recolhimentos efetuados à Previdência Social de 2006 a 2011 (fl.46).
+Em consulta ao CNIS que ora determino, verifica-se que além dos anos de vínculo na CTPS, de set/1966 a dez/1971 e do CNIS constante dos autos de 2006 a 2011, em consulta ao CNIS que ora determino a juntada aos autos, verifico que a autora continuou a recolher contribuições individuais até 31/12/2014, sendo que a autora comprova o tempo exigido de carência em face da prova material coligida.
+Desse modo, comprovado o labor rural da autora desde o período apontado na Carteira de Trabalho, recolhimento das contribuições reconhecidas pelo INSS, a soma dos períodos atinge o número de contribuições necessárias, deste modo, cumprida a carência.
+Dessa forma, preenchidos os requisitos legais, é devido o benefício de aposentadoria por idade pleiteado.".
+Não há erro material a ser sanado.
+A autora faz jus ao benefício de aposentadoria por tempo de serviço, porquanto perfez os requisitos para tanto, inclusive à vista de informações que constam dos cadastros do próprio instituto que a eles tem acesso para verificação do pedido direcionado administrativamente pela parte interessada.
+A data do início do benefício é fixada conforme o implemento dos pressupostos para a sua obtenção, quando surge o direito que a parte demandante haure.
+Nesse aspecto, não se verifica qualquer omissão no "decisum" colegiado que manteve o indeferimento do benefício, porquanto a questão ora trazida foi integralmente analisada e decidida na r. decisão embargada" (fls. 110/111e).
+Vale destacar que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+De outra banda, considerando que a Corte estadual, com base no conjunto probatório, concluiu pela inexistência de erro material, resta evidente que os argumentos do recorrente somente poderiam ser acolhidos mediante o necessário revolvimento dos aspectos concretos da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte Superior.
+"PROCESSUAL CIVIL. AGRAVO INTERNO. ERRO MATERIAL. CORREÇÃO. CPC DE 1973, ART. 463, INCISO I. VIOLAÇÃO À COISA JULGADA. INTERPRETAÇÃO. LIMITES. TESE DO RECURSO ESPECIAL QUE DEMANDA REEXAME FÁTICO E PROBATÓRIO DOS AUTOS - SÚMULA 7/STJ.
+1. A interpretação a cerca do alcance do decidido e da existência de erro material foi realizada, na origem, com base em circunstâncias de causa, insusceptíveis de reexame na via do recurso especial; Inexistência de ofensa a lei federal.
+2. Agravo interno a que se nega provimento" (STJ, AgRg no AREsp 6.841/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 20/02/2017).
+"PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO JUDICIAL. ERRO MATERIAL. NÃO SUJEIÇÃO À PRECLUSÃO E COISA JULGADA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+(..)
+3. Além disso, é evidente que, para modificar o entendimento firmado no acórdão recorrido, verificando se houve ou não erro material conforme disposto na origem, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7/STJ.
+4. Agravo Regimental não provido" (STJ, AgRg no AREsp 781.407/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 04/02/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios, anteriormente fixados em 10% (dez por cento) sobre o valor da condenação (parcelas vencidas), para 11% (onze por cento) sobre o valor da condenação (parcelas vencidas), levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
