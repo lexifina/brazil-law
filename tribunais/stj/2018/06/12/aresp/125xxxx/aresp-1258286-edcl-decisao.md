@@ -1,0 +1,13 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por [NOME] DE ALMEIDA QUEIROZ e [NOME] DE ALMEIDA QUEIROZ em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte Embargante, em síntese, que "restou omissa quanto ao pedido dos Embargantes de aplicação de multa por recurso inadmissível conforme art. 1.021 do CPC/2015, corroborado com a condenação por litigância de má-fé na propositura de recursos meramente protelatórios, como o caso, com fulcro no art. 80, VII e art. 81 do mesmo diploma legal" (fl. 243).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Primeiramente, inviável a aplicação da multa prevista no art. 1.021 do Código de Processo Civil, uma vez que segundo dicção legal, somente pode ser aplicada apenas aos casos de interposição de agravo interno, sendo que o recurso ora interposto foi agravo em recurso especial previsto no art. 1.042 do Código de Processo Civil (fls. 212/221).
+Ademais, veja-se que, até o presente momento, "não há que falar em litigância de má-fé no presente caso, pois a parte ora embargada interpôs recursos legalmente previstos no ordenamento jurídico, e sem abusar do direito de recorrer; pelo que não se verifica afronta ou descaso com o Poder Judiciário" (EDcl no AgRg no AREsp 303.406/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/06/2016, DJe 01/08/2016).
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
