@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO CIVIL PÚBLICA. EXECUÇÃO PROVISÓRIA. ARTS. 41, 434, 435, 492 E 525, § 4º, DO NCPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NºS 282 E 356 DO STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL ajuizou a ação civil pública contra o BANCO DO BRASIL S.A. (BB), o BANCO CENTRAL DO BRASIL (BACEN) e a UNIÃO FEDERAL, objetivando a aplicação do BTNF como índice de correção nas operações de crédito rural corrigidas pela caderneta de poupança e não o IPC, julgada procedente.
+O Tribunal de origem deu provimento ao recurso de apelação do BACEN e do BB, julgando improcedentes os pedidos formulados na ação civil pública, sob o fundamento de que o índice aplicável às cédulas de crédito rural, cujo débito esteja vinculado à variação das cadernetas de poupança, foi o IPC em março de 1990 (84,32%).
+Contra referido acórdão, o MINISTÉRIO PÚBLICO FEDERAL, a SOCIEDADE RURAL BRASILEIRA e a FEDERARROZ - ASSOCIAÇÃO DOS ARROZEIROS DO RIO GRANDE DO SUL, estas duas assistentes nos autos, interpuseram recursos especiais, que foram providos pela Terceira Turma desta Corte para julgar procedentes os pedidos, declarando que o índice de correção monetária aplicável às cédulas de crédito rural, no mês de março de 1990, nos quais prevista a indexação aos índices da caderneta de poupança, foi a variação do BTN no percentual de 41,28%.
+Os embargos de declaração opostos pelos demandados foram acolhidos, sem efeitos modificativos.
+Novos aclaratórios foram opostos pela UNIÃO e pelo BACEN, os quais foram rejeitados.
+Ainda irresignada, a UNIÃO opôs embargos de divergência, que, após sua admissão, estão pendentes de julgamento.
+[NOME] e [NOME] ([NOME] e outra), então, deram início ao cumprimento provisório da referida sentença contra o BB, que ofereceu impugnação, a qual foi rejeitada.
+O agravo de instrumento interposto pelo BB foi parcialmente provido pelo Tribunal de origem, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXECUÇÃO PROVISÓRIA DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. [NOME]. CORREÇÃO MONETÁRIA. DEVOLUÇÃO DOS VALORES COBRADOS A MAIOR.
+- De regra, cumpre ao executado ofertar impugnação e informar de imediato o valor que entende correto, sob pena de indeferimento liminar da alegação de excesso de execução.
+- No caso em apreço, trata-se de execução provisória de ação coletiva, tendo o título judicial reconhecido que o índice de correção monetária aplicável às cédulas de crédito rural, no mês de março de 1990, nas quais prevista a indexação aos índices da caderneta de poupança, foi o BTNF no percentual de 41,28% (e não 84,32%), afirmando-se o direito dos agricultores à devolução do montante cobrado a maior.
+- Nessas execuções, tem-se admitido a deflagração mediante apresentação de elementos mínimos sobre a relação havida entre o titular do crédito e o banco réu, exigindo-se do mutuário que demonstre a existência da cédula, para, a partir de então, determinar a inversão do ônus probatório de forma que a instituição financeira apresente comprovantes de pagamento e demais informações.
+- Estando a documentação em posse do devedor, possível o melhor esclarecimento posterior da situação, caso a caso, sem que isso constitua empeço ao aparelhamento da execução. Nesse contexto, afigura-se razoável que ao executado se confira prazo para prestar adequadamente todas as informações e ofertar o detalhamento de sua defesa. Se os documentos estão em seu poder, e se eles são essenciais ao esclarecimento de toda a situação, não há razão para se negar o deferimento de prazo.
+- Hipótese em que, apesar de não se acolher as alegações de cerceamento de defesa e de necessidade de liquidação da sentença exequenda, tem-se que, excepcionalmente, deve ser deferido o prazo de 30 dias, razoável para que traga documentos essenciais ao deslinde das questões suscitadas e apresente os cálculos aritméticos correspondentes (e-STJ, fl. 331).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 369/372).
+Inconformados, [NOME] e outra interpuseram recurso especial, com fundamento no art. 105, III, a, da CF, sustentando violação dos arts. 141, 434, 435, 492 e 525, §§ 1º e 4º, todos do NCPC, sob o argumento de que houve julgamento extra petita ao ter sido concedido prazo para o BB apresentar documentos e cálculos do débito sem requerimento para tanto.
+Sustentaram, ainda, que a prova documental deveria ter sido apresentada junto com a impugnação ao cumprimento de sentença e, caso não fosse possível, cabia ao impugnante requerer prazo para tal apresentação, sendo considerada lícita a juntada posterior somente de documentos novos, o que não é o caso dos autos.
+O apelo nobre foi admitido (e-STJ, fls. 444/445).
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+(1) Da alegada violação dos arts. 41, 434, 435 e 492 do NCPC
+Verifica-se que o conteúdo normativo dos referidos dispositivos legais não foi objeto de debate no acórdão recorrido, carecendo, assim, do necessário prequestionamento viabilizador do recurso especial. Incidem, no ponto, as Súmulas nºs 282 e 356 do STF.
+(2) Da ofensa ao art. 525, §§ 1º e 4º, do NCPC
+[NOME] e outra sustentaram que a impugnação ao cumprimento de sentença deveria ter sido instruída com o cálculo demonstrativo do débito que entende devido, não sendo possível a concessão de prazo para a juntada de documentos e do demonstrativo discriminado e atualizado de cálculo do débito.
+Quanto ao ponto, o Tribunal assim entendeu:
+Por fim, consigno que, de regra, cumpre ao executado ofertar impugnação e informar de imediato o valor que entende correto, sob pena de indeferimento liminar da alegação de excesso de execução.
+Não obstante, no caso específico dos autos, há particularidades que recomendam seja adotado procedimento um tanto diverso.
+No caso em apreço, trata-se de execução provisória de ação coletiva, tendo o título judicial reconhecido que o índice de correção monetária aplicável às cédulas de crédito rural, no mês de março de 1990, nas quais prevista a indexação aos índices da caderneta de poupança, foi o BTNF no percentual de 41,28% (e não 84,32%), afirmando-se o direito dos agricultores à devolução do montante cobrado a maior.
+Nessas execuções, tem-se admitido a deflagração mediante apresentação de elementos mínimos sobre a relação havida entre o titular do crédito e o banco réu, exigindo-se do mutuário que demonstre a existência da cédula, para, a partir de então, determinar a inversão do ônus probatório de forma que a instituição financeira apresente comprovantes de pagamento e demais informações.
+ ..
+Como se percebe, esta Corte, em atendimento a agravos dos exequentes, tem entendido que, estando a documentação em posse do devedor, possível o melhor esclarecimento posterior da situação, caso a caso, sem que isso constitua empeço ao aparelhamento da execução.
+Nesse contexto, afigura-se razoável que ao executado se confira prazo para prestar adequadamente todas as informações e ofertar o detalhamento de sua defesa. Se os documentos estão em seu poder, e se eles são essenciais ao esclarecimento de toda a situação, não há razão para se negar o deferimento de prazo.
+Assim, apesar de não acolher as alegações de cerceamento de defesa e de necessidade de liquidação da sentença exequenda, tem-se que, excepcionalmente, deve ser deferido o prazo de 30 dias, razoável para que traga documentos essenciais ao deslinde das questões suscitadas e apresente os cálculos aritméticos correspondentes (e-STJ, fls. 328/329 - sem destaque no original).
+Tal fundamento não foi impugnado de forma efetiva nas razões do recurso especial, a atrair a incidência da Súmula nº 283 do STF.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
