@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base neste(s) fundamento(s): Súmula 7/STJ (em relação à apontada ofensa ao art. 784, do Código de Processo Civil e ao correspondente dissenso) e Súmula 83/STJ ("os boletos de cobrança bancária vinculados ao título virtual, devidamente acompanhados dos instrumentos de protesto por indicação e dos comprovantes de entrega da mercadoria ou da prestação dos serviços, suprem a ausência física do título cambiário eletrônico e constituem, em princípio, títulos executivos extrajudiciais").
+Entretanto, a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do(s) seguinte(s) óbices: Súmula 7/STJ (em relação à apontada ofensa ao art. 784, do Código de Processo Civil e ao correspondente dissenso) e Súmula 83/STJ ("os boletos de cobrança bancária vinculados ao título virtual, devidamente acompanhados dos instrumentos de protesto por indicação e dos comprovantes de entrega da mercadoria ou da prestação dos serviços, suprem a ausência física do título cambiário eletrônico e constituem, em princípio, títulos executivos extrajudiciais").
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 253, parágrafo único, I, do RISTJ.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC/15.
+Publique-se. Intimem-se.
