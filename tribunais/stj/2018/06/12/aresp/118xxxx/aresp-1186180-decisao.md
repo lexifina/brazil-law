@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por MUNICÍPIO DE TABOÃO DA SERRA, contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"RECURSO - APELAÇÃO CÍVEL - LOCAÇÃO DE IMÓVEIS - AÇÃO REVISIONAL DE ALUGUEL. 1) Ausente consenso entre as partes quanto a majoração do valor locativo, há necessidade de realização de perícia judicial para a obtenção de subsídios necessários ao arbitramento ( Lei nº 8.245, artigo 68, inciso IV). Perito nomeado, equidistante dos interesses em conflito, que aferiu o valor do locativo. Acolhimento da proposição pericial pelo juízo de origem, que muito bem rechaçou laudo crítico elaborado por assistente. Insurgência recursal genérica. Impossibilidade. Ausente, portanto, crítica fundamentada passível de acolhimento. 2) Valor do novo locativo fixado a partir da citação. Possibilidade. Ausente prova da desvalorização entre a data da citação e a confecção do laudo pericial. Termo inicial do locativo que deve prevalecer. Aluguel que já se encontra defasado muito tempo antes da propositura desta ação. Procedência. Sentença mantida. Recurso de apelação da requerida não provido" (fl. 207 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 236-242 e-STJ).
+No recurso especial, a parte recorrente alega violação dos arts. 1.022, II do Código de Processo Civil de 2015 sob o argumento de que o julgado incorreu em omissão pois
+"não enfrentada a questão em relação ao desconto da evolução do IGPM que medeou entre a data da citação e a data de elaboração do laudo (01/2012), considerando-se que entre tal ato processual e a elaboração do laudo pericial medearam vários anos, a tornar distorcida a fixação do valor do aluguel desde aquela data, tal como confirmado em segundo grau de jurisdição" (fl. 249 e-STJ).
+Afirma que esta questão que deve ser enfrentada, sob pena de enriquecimento injustificado do locador.
+Requer o conhecimento e provimento do recurso especial para que seja decretada a nulidade do acórdão integrativo.
+Contrarrazões apresentadas às fls. 255-261 (e-STJ).
+O Presidente do Tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência merece prosperar.
+Apesar de instada por meio de embargos de declaração, a Corte local permaneceu silente quanto ao requerimento de manifestação expressa acerca do pedido de afastamento da incidência do IGPM no período compreendido entre a data da citação e a data de elaboração do laudo pericial.
+Trata-se de questão relevante que demanda o pronunciamento do tribunal de origem.
+O não enfrentamento pela instância ordinária da matéria ventilada nos embargos de declaração e imprescindível à solução do litígio, implica na violação do artigo 1.022 do CPC/2015, segundo o qual os embargos de declaração são cabíveis para (a) esclarecer obscuridade ou eliminar contradição, (b) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz, de ofício ou a requerimento, incluindo-se as condutas descritas no artigo 489, § 1º, do CPC/2015, que configurariam a carência de fundamentação válida, e (c) corrigir o erro material.
+A recorrente afirma que o julgado é omisso.
+A propósito, eis as ponderações do jurista [NOME]:
+"(..) Há omissão sobre ponto ou questão, isso é, ainda que não tenham controvertido as partes (questão), mas apenas uma delas tenha suscitado o fundamento (..). Pode, também, tratar-se de tema a respeito do qual deve o órgão jurisdicional pronunciar-se de ofício (p. ex., art. 485, § 3º do COPC/2015), ou em razão de requerimento da parte. Deve ser a decretada a nulidade da decisão, caso a omissão não seja sanada (..)" (Novo Código de Processo Civil Comentado - com remissões e notas comparativas ao CPC/1973, 3ª ed., São Paulo, Ed. Revista dos Tribunais, 2015, fl. 1.415).
+Cumpre destacar que à luz da jurisprudência desta Corte "a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal, e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC)" (EDcl no AREsp 737.982/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/8/2017, DJe 04/09/2017)
+Na presente hipótese, em que pese constar pedido expresso da parte recorrente objetivando o desconto da evolução do IGPM, entre a datada citação e data da confecção do laudo pericial, não houve pronunciamento do Tribunal local no recurso de apelação (fls. 205-210 e-STJ e tampouco nos aclaratórios (fls. 236-242 e-STJ).
+Ante o exposto, dou provimento ao recurso especial para determinar a devolução dos autos ao tribunal de origem para que realize novo julgamento dos embargos de declaração de fls. 236-242 e-STJ, eliminando a omissão apontada.
+Publique-se.
+Intimem-se.
