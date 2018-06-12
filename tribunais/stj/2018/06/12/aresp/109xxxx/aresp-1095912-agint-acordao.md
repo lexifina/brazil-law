@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. AFASTAMENTO. SUSPENSÃO LEGAL DO PRAZO PROCESSUAL. ART. 220 DO CPC/2015. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF. ATUALIZAÇÃO MONETÁRIA. IGP-M. VERIFICAÇÃO DO ACERTO DO CÁLCULO. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO E RECURSO ESPECIAL DESPROVIDO.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, dar provimento ao agravo interno para conhecer do agravo e negar provimento ao recurso especial, nos termos do voto Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Trata-se de agravo interno manejado pela CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI contra decisão de fls. 260/261 que afirmou a intempestividade do agravo em recurso especial.
+Na presente irresignação, a recorrente defende a tempestividade do agravo em recurso especial em razão da suspensão dos prazos processuais no período de 20 de dezembro a 20 de janeiro, nos termos do art. 220 do CPC/2015.
+Aduz que impugnou satisfativamente os fundamentos do acórdão recorrido na petição do recurso especial, e que não é necessário, para a revisão do entendimento do Tribunal estadual, o revolvimento de matéria fática.
+É o relatório.
+VOTO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Inicialmente, quanto à intempestividade, com razão a agravante em razão da suspensão legal do prazo processual no período de 20 de dezembro a 20 de janeiro, nos termos do art. 220 do Código de Processo Civil em vigor.
+Prossigo na análise do recurso especial.
+O acórdão recorrido foi assentado nos seguintes fundamentos (e-STJ, fls. 192/193):
+"Com relação à incidência de juros e correção monetária sobre o valor da condenação, é importante assinalar que estes são corolários lógicos, de sorte que é desnecessário que a sentença disponha expressamente a esse respeito.
+Frise-se que a correção monetária não representa encargo, uma vez que neutraliza os efeitos do tempo sobre o valor da moeda, ou seja, é consequência do próprio crédito, não importando em acréscimo ao quantum devido, mas mera manutenção do poder aquisitivo da moeda em curso no país, de sorte que a não-satisfação desta importa em enriquecimento sem causa por parte da agravada.
+(..)
+o índice que medirá esta atualização deve ser o IGP-M, que é o parâmetro adotado por esta Corte como fator de correção monetária,
+(..)
+A correção monetária e a incidência dos juros moratórios continuam a incidir sobre o débito mesmo após a morte do credor, na medida em que persiste o direito de crédito, cuja titularidade passa a Sucessão. Ademais, aquela apenas mantém o poder aquisitivo da moeda em curso no país, como já explicitado anteriormente, não devendo haver limitação da incidência de tais índices.
+Note-se que cessa o benefício previdenciário devido aos autores depois da morte destes, mas não as parcelas constituídas e devidas até este termo, os cálculos apresentados apenas atualizam monetariamente o montante a ser pago até a data do depósito do valor reconhecido como devido, ou seja, 19/08/2015, conforme comprovante de depósito juntado aos autos, mas a conta geral em questão não inclui novas parcelas devidas a partir do óbito dos demandantes."
+O recurso especial apresentou como razões recursais os seguintes itens:
+(I) Os autores afirmam ter utilizado o índice IGP-M como fator de correção monetária, fator também utilizado pela PREVI. Ocorre que o fator de atualização monetária aplicado por eles é divergente do apresentado pela PREVI;
+(II) A data de atualização do valor de abono dos autores [NOME] e [NOME] deverá ser até a data de óbito de cada autor, sendo 28/08/2014 e 20/03/2005, respectivamente.
+Assim, verifica-se que o fundamento do acórdão recorrido de que o débito deve ser corrigido mesmo após a morte dos autores, em razão da transmissão do crédito aos herdeiros, não foi impugnado, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Quanto à correta aplicação, no cálculo do valor devido apresentado pelo credor, da correção monetária com base no IGP-M, por se tratar de mero cálculo aritmético, sua verificação é inviável na via do recurso especial, em razão do óbice da Súmula 7/STJ. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NUNCIAÇÃO DE OBRA NOVA. CUMPRIMENTO DE SENTENÇA. CÁLCULOS APRESENTADOS PELOS EXEQUENTES BASEADOS NA SENTENÇA DE LIQUIDAÇÃO. DESNECESSIDADE DE PERÍCIA CONTÁBIL. SIMPLES ATUALIZAÇÃO DOS VALORES. CÁLCULOS ARITMÉTICOS. REEXAME. DESCABIMENTO. SÚMULA 7/STJ. CPC/73, ART. 620. AUSÊNCIA DE PERTINÊNCIA COM A QUESTÃO DOS AUTOS. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO." (AgInt no AREsp 512.629/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/08/2017, DJe de 21/09/2017).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. LIQUIDAÇÃO. AFERIÇÃO DO VALOR DEVIDO MEDIANTE SIMPLES CÁLCULOS ARITMÉTICOS.
+IMPOSSIBILIDADE. NECESSÁRIO REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO. 1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Com efeito, não se pode conhecer da violação ao artigo 535 do CPC/1973 (art. 1.022 do CPC/2015), tendo em vista que as razões de recorrer são genéricas e desprovidas de argumentação jurídica, já que não apontam os temas supostamente omitidos, contraditórios ou obscuros. Trata-se de deficiência na fundamentação, caso em que se aplica, por analogia, o disposto na Súmula 284/STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. Ademais, conforme restou consignado na decisão de fls. 360/361-e, é assente o entendimento segundo o qual em sede de liquidação a aferição do valor devido mediante simples cálculos aritméticos demandaria o reexame do conjunto probatório a atrair a incidência da Súmula 7/STJ.
+4. Agravo interno não provido. (AgInt no AREsp 1.029.987/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02/05/2017, DJe de 05/05/2017)
+Pelas razões expostas, dou provimento ao agravo interno para conhecer do agravo e negar provimento ao recurso especial.
+É o voto.
