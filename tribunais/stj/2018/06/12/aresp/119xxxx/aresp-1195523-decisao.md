@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão que negou seguimento a recurso especial. O apelo extremo, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO - ACIDENTE CAUSADO POR DESCARGA ELÉTRICA - AUTOR COLHIA PINHAS EM ARAUCÁRIA COM VARA DE BAMBU QUANDO SOFREU CHOQUE ELÉTRICO, COM GRAVES QUEIMADURAS E SEQUELAS - APLICAÇÃO DA TEORIA DA RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE ENERGIA - INCIDÊNCIA CLARA DA EXCLUDENTE DE RESPONSABILIDADE DA CULPA EXCLUSIVA DA VÍTIMA - LAUDO PERICIAL COMPROVA ATENDIMENTO ÀS NORMAS DE SEGURANÇA POR PARTE DA COPEL - CONDUTA IMPRUDENTE DO REQUERENTE É CAUSA PRINCIPAL E EFICIENTE PARA A OCORRÊNCIA DO EVENTO DANOSO - IMPROCEDÊNCIA DA AÇÃO CORRETAMENTE RECONHECIDA EM PRIMEIRO GRAU APELAÇÃO DESPROVIDA" (fls. 1.396/1.397 e-STJ).
+Nas razões do especial, o agravante alega violação dos artigos 186 e 927 do Código Civil. Sustenta que o material probatório não deixa dúvidas sobre o direito do autor, em virtude da responsabilidade objetiva, pois a concessionária foi omissa em garantir a segurança mínima no local, pois permitiu que os galhos do pinheiro ficassem próximos á fiação. No caso da responsabilidade objetiva, a obrigação de indenizar independe da culpa, bastando a comprovação do dano e do nexo causal..
+Por fim, requer que o recurso especial seja conhecido e provido.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De fato, assim decidiu o tribunal de origem a respeito do tema:
+"Aplicável ao caso, portanto, a teoria da responsabilidade objetiva em relação a danos ocorridos, bastando a prova do dano e do nexo de causalidade, ilidida apenas por meio de caso fortuito, força maior ou culpa exclusiva da vítima.
+Cumpre estabelecer, portanto, se existe ou não nexo causal entre a exposição dos cabos de energia elétrica e os danos suportados pelo autor em razão do choque elétrico.
+Deste modo, não poderá haver imputação da responsabilidade civil sem que a conduta do agente tenha dado causa direta, concreta e imediata ao resultado danoso. Em outras palavras, para haver responsabilidade civil, deve existir relação direta e imediata entre a conduta, o nexo causal e o resultado lesivo.
+No caso em questão, ao contrário do que afirma o autor/apelante, o acidente foi provocado por sua própria imprudência e negligência, uma vez que estava em cima dos galhos mais baixos da araucária colhendo pinhas, utilizando uma taquara de bambu de aproximadamente 4 metros de comprimento, deixando de observar a existência de cabos de alta tensão no local, e sem utilizar qualquer equipamento de segurança.
+A perícia técnica realizada nos autos afirmou, em resposta aos quesitos formulados, que a rede elétrica no local em questão estava de acordo com as especificidades técnicas exigidas.
+(..)
+Fica claro, portanto, que a parte autora tinha ciência da presença dos fios de alta tensão no local e dos riscos decorrentes, mas mesmo assim assumiu o risco de escalar a araucária para colher pinhas, com ajuda de vara de bambu e sem a tomada das devidas precauções.
+Assim, por mais que os ferimentos sofridos pelo autor sejam extensos e capazes de gerar graves sequelas de cunho estético e moral, há que se reconhecer a ausência de nexo de causalidade entre os danos suportados pelo autor e a alegada irregularidade da rede elétrica de alta tensão. Correto, portanto, o entendimento adotado pelo juízo de primeiro grau, no sentido da improcedência da demanda" (e-STJ fls. 1.403/1.407).
+Dessa forma, alterar a conclusão do tribunal estadual de que houve culpa exclusiva da vítima exigiria o reexame de provas, inviável na estreita via do recurso especial.
+Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a", quanto pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. PRESCRIÇÃO CONSUMADA. DESCONSTITUIÇÃO DO ENTENDIMENTO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ANÁLISE FEITA COM BASE NO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO DESPROVIDO.
+1. Rever as conclusões das instâncias ordinárias quanto à ocorrência de prescrição da ação declaratória de inexistência de débito cumulada com repetição de indébito e indenização por danos morais exige, necessariamente, a incursão no material fático-probatório dos autos, notadamente porque as alegações da recorrente são no sentido de considerar outro termo inicial para a contagem do prazo prescricional, o que atrai a aplicação da Súmula 7/STJ.
+2. No que toca ao conhecimento do apelo especial por divergência jurisprudencial, também não colhe êxito. Isso porque julgado fundado em fatos e provas (incidência da Súmula 7/STJ) não enseja a possibilidade de demonstração da similitude fática, conforme tranquilo entendimento desta Corte Superior.
+3. Agravo interno desprovido" (AgInt no AREsp 1.114.253/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 6/11/2017 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Em atendimento ao disposto no art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários fixados na origem (3.500,00 - fl. 1.317 e-STJ) para 4.000,00 (um mil e quinhentos reais), ressalvada a justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
