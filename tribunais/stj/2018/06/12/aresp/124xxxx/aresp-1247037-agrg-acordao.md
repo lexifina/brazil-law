@@ -1,0 +1,106 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. EXAME PERICIAL NÃO REALIZADO. APRESENTAÇÃO DE JUSTIFICATIVA PLAUSÍVEL. COMPROVAÇÃO POR OUTROS MEIOS. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A incidência da qualificadora prevista no art. 155, § 4º, I, do Código Penal, exige exame pericial para a comprovação do rompimento de obstáculo, somente admitindo-se prova indireta quando justificada a impossibilidade de realização do laudo direto. Precedentes.
+2. Conforme registrado no aresto impugnado, a realização da perícia para atestar o rompimento de obstáculo não foi possível, tendo em vista que a manutenção do local a ser periciado nas condições em que se encontrava após a realização do crime de furto, ou seja, com a porta da residência arrombada, colocaria em risco a segurança de seus moradores. Assim, tendo as instâncias ordinárias apresentado justificativa plausível para não realizar a perícia, as declarações da vítima e o depoimento testemunhal, meios de prova indireta, são válidos para a comprovação da qualificadora.
+3. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por maioria, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Votaram vencidos os Srs. Ministros Felix Fischer e Jorge Mussi.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de agravo regimental interposto por [NOME] contra decisão desta Relatoria que, fundamentada no art. 932, VIII, do CPC c/c o art. 253, parágrafo único, II, "b", do RISTJ, conheceu do agravo para negar provimento ao recurso especial.
+O agravante alega que se trata "de tema exclusivamente de direito, ou seja, o propósito da presente inconformação é restringido a debater puramente uma questão jurídica, sem aprofundar-se em fatos e provas, visto estes já analisados anteriormente" (e-STJ, fls. 564-565).
+Afirma, ainda, a não incidência da Súmula 83/STJ, "pois há orientação do próprio Superior Tribunal de Justiça em sentido oposto" (e-STJ, fl. 569).
+Requer a reconsideração da decisão agravada ou a submissão do feito à Turma Julgadora.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. EXAME PERICIAL NÃO REALIZADO. APRESENTAÇÃO DE JUSTIFICATIVA PLAUSÍVEL. COMPROVAÇÃO POR OUTROS MEIOS. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A incidência da qualificadora prevista no art. 155, § 4º, I, do Código Penal, exige exame pericial para a comprovação do rompimento de obstáculo, somente admitindo-se prova indireta quando justificada a impossibilidade de realização do laudo direto. Precedentes.
+2. Conforme registrado no aresto impugnado, a realização da perícia para atestar o rompimento de obstáculo não foi possível, tendo em vista que a manutenção do local a ser periciado nas condições em que se encontrava após a realização do crime de furto, ou seja, com a porta da residência arrombada, colocaria em risco a segurança de seus moradores. Assim, tendo as instâncias ordinárias apresentado justificativa plausível para não realizar a perícia, as declarações da vítima e o depoimento testemunhal, meios de prova indireta, são válidos para a comprovação da qualificadora.
+3. Agravo regimental a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A pretensão não merece êxito, na medida em que o agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+Conforme consignado na decisão agravada, o Tribunal a quo concluiu que, no caso, a ausência de perícia em relação à qualificadora prevista no § 4º do art. 155 do Código Penal restou devidamente justificada nos autos.
+A propósito, confira-se o seguinte trecho do aresto impugnado:
+"O furto é qualificado se cometido com destruição ou rompimento de obstáculo à subtração da coisa (CP, art. 155, § 4º).
+É pacífica a jurisprudência do c. STJ no sentido de que a perícia para caracterizar o rompimento de obstáculo pode ser substituída por outras provas na hipótese em que as circunstâncias do crime não permitirem a realização da perícia. Confira-se:
+"(..)
+1. A jurisprudência deste Tribunal firmou-se no sentido de que somente é possível a substituição da prova técnica para o reconhecimento do furto qualificado pelo rompimento de obstáculo por outros meios de prova quando o delito não deixa vestígios, estes tenham desaparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo.
+2. A Corte de origem registrou que a impossibilidade de o laudo pericial atestar o rompimento de obstáculo decorreu da inexistência dos vestígios materiais, já que a manutenção do local a ser periciado nas condições em que se encontrava após a realização do crime de furto, ou seja, sem o telhado e uma das portas, e, ainda, por se tratar de estabelecimento comercial, impediria a própria continuidade das atividades e causaria insegurança no local. Assim, tendo as instâncias ordinárias apresentado justificativas para a não realização da perícia, é válido o exame indireto para atestar o rompimento do obstáculo, como feito.
+3. Agravo regimental não provido." (AgRg no HC 371.211/MS, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, Quinta Turma, julgado em 22/11/2016, DJe 2/12/2016).
+Não se pode exigir que o morador, que teve a porta de sua residência arrombada, aguarde por horas ou dias pela realização de perícia, pondo em risco a sua segurança e a de sua família.
+As declarações da vítima e da testemunha, informando o arrombamento, são provas suficientes de que houve o rompimento de obstáculo.
+Incide, pois, a qualificadora." (e-STJ, fls. 476-477).
+Como se vê, a Corte de origem justificou concretamente a ausência de perícia no fato de que a manutenção do local a ser periciado nas condições em que se encontrava após o crime, ou seja, com a porta da residência arrombada, colocaria em risco a segurança de seus moradores.
+Assim, no caso concreto, verifica-se que houve justificativa plausível para a ausência da perícia, de modo que a incidência da qualificadora do rompimento de obstáculo pode ser comprovada por outras provas, já que não foi possível a manutenção do local em condições adequadas para a confecção do laudo pericial.
+Na espécie, a Corte de origem consignou que a referida qualificadora foi demonstrada por meio de declarações da vítima e de depoimentos de testemunhas, razão pela qual deve ser mantida.
+A corroborar esse entendimento, confira-se o seguinte julgado:
+" ..
+2. A Corte de origem registrou que a impossibilidade de o laudo pericial atestar o rompimento de obstáculo decorreu da inexistência dos vestígios materiais, já que a manutenção do local a ser periciado nas condições em que se encontrava após a realização do crime de furto, ou seja, sem o telhado e uma das portas, e, ainda, por se tratar de estabelecimento comercial, impediria a própria continuidade das atividades e causaria insegurança no local. Assim, tendo as instâncias ordinárias apresentado justificativas para a não realização da perícia, é válido o exame indireto para atestar o rompimento do obstáculo, como feito.
+3. Agravo regimental não provido."
+(AgRg no HC 371.211/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/11/2016, DJe 2/12/2016).
+" ..
+1. A Jurisprudência desta Corte consolidou-se no sentido da necessidade de perícia para a caracterização do rompimento de obstáculo, salvo em caso de ausência de vestígios, quando a prova testemunhal poderá suprir-lhe a falta, conforme a exegese dos arts. 158 e 167 do Código de Processo Penal.
+2. Na espécie, a inexistência da perícia restou justificada no fato de a vítima ter efetuado o reparo da porta violada, dando causa, assim, ao desaparecimento dos vestígios do arrombamento em sua residência.
+3. Tratando-se, in casu, de causa idônea de desaparecimento de vestígios - inclusive reconhecida na doutrina e em precedente da Sexta Turma -, é o caso de admitir o depoimento da vítima e a confissão do acusado como meios de prova da qualificadora prevista no inciso I do § 4º do art. 155 do Código Penal.
+4. Ordem denegada."
+(HC 188.718/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 7/2/2012, DJe 21/3/2012).
+Assim, tem-se que o acórdão recorrido foi proferido em sintonia com a jurisprudência desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+VOTO-VISTA
+O EXMO. SR. MINISTRO FELIX FISCHER: O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto contra decisão proferida no agravo em recurso especial no qual [NOME], oferecido em face de decisão do eg. Tribunal Tribunal de Justiça do Distrito Federal e dos Territórios.
+A controvérsia cinge-se à apontada contrariedade aos arts. 155, § 4º, I, do Código Penal, 158 e 171, do Código de Processo Penal, sob o fundamento de que, para a configuração da qualificadora do rompimento de obstáculo, é imprescindível a realização de perícia que comprove o arrombamento.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo ou pelo não provimento (fls. 548-551).
+O Senhor Ministro Relator proferiu decisão na qual conheceu do agravo regimental para negar provimento ao recurso especial. Asseverou que no caso concreto, a ausência da perícia restou justificada pelo eg. Tribunal de origem, "no fato de que a manutenção do local a ser periciado nas condições em que se encontrava após o crime, ou seja, com a porta da residência arrombada, colocaria em risco a segurança da família" (fl. 555).
+Pedi vista dos autos para melhor examinar a questão.
+Eis, em síntese, o que basta relatar. Passo ao exame da insurgência.
+Superadas as questões relativas à admissibilidade do agravo, passo à análise do recurso especial.
+Busca o agravante, nas razões do presente recurso, em síntese, o afastamento da qualificadora do rompimento de obstáculo para o delito previsto no art. 155 do Código Penal, considerando, para tanto, a não realização de perícia para comprovar o arrombamento.
+Sobre o tema, assim dispôs o v. acórdão de apelação:
+"O furto é qualificado se cometido com destruição ou rompimento de obstáculo à subtração da coisa (CP, art. 155, § 4o).
+É pacífica a jurisprudência do c. STJ no sentido de que a perícia para caracterizar o rompimento de obstáculo pode ser substituída por outras provas na hipótese em que as circunstâncias do crime não permitirem a realização da perícia. Confira-se:
+"(..)
+1. A jurisprudência deste Tribunal firmou-se no sentido de que somente é possível a substituição da prova técnica para o reconhecimento do furto qualificado pelo rompimento de obstáculo por outros meios de prova quando o delito não deixa vestígios, estes tenham desaparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo.
+2. A Corte de origem registrou que a impossibilidade de o laudo pericial atestar o rompimento de obstáculo decorreu da inexistência dos vestígios materiais, já que a manutenção do local a ser periciado nas condições em que se encontrava após a realização do crime de furto, ou seja, sem o telhado e uma das portas, e, ainda, por se tratar de estabelecimento comercial, impediria a própria continuidade das atividades e causaria insegurança no local. Assim, tendo as instâncias ordinárias apresentado justificativas para a não realização da perícia, é válido o exame indireto para atestar o rompimento do obstáculo, como feito.
+3. Agravo regimental não provido." (AgRg no HC 371.211/MS, Rei. Ministro Reynaldo Soares da Fonseca, Quinta Turma, Quinta Turma, julgado em 22.11.2016, DJe 02.12.2016).
+Não se pode exigir que o morador, que teve a porta de sua residência arrombada, aguarde por horas ou dias pela realização de perícia, pondo em risco a sua segurança e a de sua família.
+As declarações da vítima e da testemunha, informando o arrombamento, são provas suficientes de que houve o rompimento de obstáculo.
+Incide, pois, a qualificadora" (fls. 476-477, grifei).
+Do excerto acima colacionado, nota-se que o eg. Tribunal de origem entendeu ser prescindível a realização de perícia para a incidência da qualificadora, pois o rompimento de obstáculo teria sido comprovado por outros meios, notadamente a prova oral.
+Contudo, ao contrário do disposto na decisão, consoante acima transcrita, a jurisprudência deste Tribunal Superior é pacífica no sentido de que o exame de corpo de delito é imprescindível para a caracterização da qualificadora do rompimento de obstáculo, sendo admitido o exame de forma indireta ou comprovação por outros meios de prova, apenas nas hipóteses de não existirem vestígios ou no caso de desaparecimento deles.
+Nesse diapasão, os seguintes precedentes desta Corte Superior:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLEITO MINISTERIAL. MANUTENÇÃO DA QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PERÍCIA. IMPRESCINDIBILIDADE.
+I - A jurisprudência deste Tribunal Superior é pacífica no sentido de que o exame de corpo de delito é imprescindível para a caracterização da qualificadora do rompimento de obstáculo, sendo admitido o exame de forma indireta apenas nas hipóteses de não existirem vestígios ou em caso de desaparecimento deles.
+II - Tendo as instâncias ordinárias optado deliberadamente por desconsiderar a imprescindibilidade do exame pericial para caracterização da qualificadora do rompimento de obstáculo no crime de furto, imperioso reconhecer o confronto com a jurisprudência desta Corte.
+Agravo regimental não provido." (AgRg no AREsp 1134043/RS, Quinta Turma, de minha relatoria, DJe 01/12/2017, grifei)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO PELA ESCALADA. LAUDO PERICIAL. INEXIGIBILIDADE. CRIME QUE NÃO DEIXOU VESTÍGIOS. AFASTAMENTO DA QUALIFICADORA.IMPOSSIBILIDADE. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A incidência da qualificadora prevista no art. 155, § 4º, I, do Código Penal, exige exame pericial para a comprovação do rompimento de obstáculo, somente admitindo-se prova indireta quando justificada a impossibilidade de realização do laudo direto. Precedentes.
+2. No caso em análise, o Tribunal de origem, ao apreciar a questão, consignou que o delito não deixou vestígios, o que afastou a imprescindibilidade do exame pericial.
+3. Rever as conclusões a que chegaram as instâncias ordinárias, a fim de constatar se a escalada do muro teria ou não deixado vestígios, seria necessário o reexame do contexto fático-probatório dos autos - o que é vedado em recurso especial, consoante o enunciado da Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento." (AgRg no AREsp 1002431/MT, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 19/12/2017, grifei).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. FURTO QUALIFICADO. EXAME PERICIAL NÃO REALIZADO. INEXISTÊNCIA DE JUSTIFICATIVAS PARA A NÃO REALIZAÇÃO DA PERÍCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AFASTAMENTO DA QUALIFICADORA. DESCLASSIFICAÇÃO PARA FURTO SIMPLES. REDIMENSIONAMENTO DA PENA. REGIME FECHADO. PACIENTE REINCIDENTE E CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. POSSIBILIDADE DE FIXAÇÃO DO REGIME INTERMEDIÁRIO. SÚMULA N. 269/STJ. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. A jurisprudência desta Corte entende que, para reconhecimento das qualificadoras do rompimento do obstáculo, é imprescindível a realização de exame pericial, sendo possível a sua substituição por outros meios probatórios somente se não existirem ou tenham desaparecido, ou se as circunstâncias do crime não permitirem a confecção do laudo.
+3. No caso em análise, o Tribunal local, ao apreciar a questão, não apresentou justificativas para a não realização da perícia. Assim, de rigor o afastamento da qualificadora.
+4. Ainda que presente a agravante da reincidência, o paciente teve a pena-base fixada no mínimo legal e foi condenado a pena privativa de liberdade inferior a 4 anos de reclusão. Dessa forma, é cabível o regime semiaberto. Súmula n. 269/STJ.
+5. Habeas corpus não conhecido. Concedida a ordem, de ofício, apenas para afastar a qualificadora, redimensionar a pena do paciente e fixar o regime semiaberto." (HC 420.597/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 28/11/2017, grifei)
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. EXAME PERICIAL. PRESCINDIBILIDADE. VESTÍGIOS DESAPARECIDOS. QUALIFICADORA MANTIDA. AGRAVO IMPROVIDO. EXECUÇÃO PROVISÓRIA DEFERIDA.
+1. O reconhecimento da qualificadora de rompimento de obstáculo exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+ .. " (AgRg no REsp 1705450/RO, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 26/03/2018, grifei)
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO TENTADO. ESCALADA. ROMPIMENTO DE OBSTÁCULO. RECONHECIMENTO. IMPOSSIBILIDADE. AUSÊNCIA DE PROVA PERICIAL. FURTO SIMPLES TENTADO. CONDENAÇÃO. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. No julgamento do REsp n. 1.320.298/MG, a Sexta Turma desta Corte Superior examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste. Na oportunidade - na qual fiquei vencido -, firmou-se o entendimento de que o exame pericial é imprescindível para a configuração da qualificadora da escalada.
+2. Em relação à qualificadora do rompimento de obstáculo, não é diferente a conclusão das duas Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça. Precedentes.
+3. A Corte de origem não reconheceu a incidência das qualificadoras do rompimento de obstáculo e da escalada em razão da ausência do devido exame pericial para comprovar a sua configuração. Incidência da Súmula n. 83 do STJ.  ..
+5. Agravo regimental não provido" (AgRg no AREsp 644.717/PA, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 19/5/2016, grifei).
+No caso concreto, o fundamento utilizado pelo eg. Tribunal de origem, qual seja, suposta e eventual demora para a realização da perícia, não é idôneo para afastar a imprescindibilidade do exame, notadamente por se tratar de providência que cabe ao Estado realizar, com a máxima prontidão, configurando o argumento mero exercício de futurologia.
+Assim, não fundamentada de maneira idônea a imprescindibilidade do exame pericial para caracterização da qualificadora do rompimento de obstáculo no crime de furto, imperioso reconhecer o confronto com a jurisprudência desta Corte.
+Destarte, imperioso o afastamento da qualificadora do rompimento de obstáculo, utilizada no caso em análise na primeira fase da dosimetria, tendo em vista a existência de circunstância diversa, a saber, o concurso de agentes, para qualificar o delito. Necessária se faz, por conseguinte, a revisão da dosimetria da pena.
+Na primeira fase, verifica-se que o d. Magistrado de 1º Grau sopesou duas circunstâncias judiciais desfavoráveis, quais sejam, os maus antecedentes e as circunstâncias do delito, em vista da qualificadora afastada. Fixou então a pena-base em 3 (três) anos e 6 (seis) meses de reclusão e 96 (noventa e seis) dias-multa. Afastada a qualificadora e de consequência, as circunstâncias do crime, estabeleço a pena-base em 2 (dois) anos e 9 (nove) meses de reclusão, além de 70 (setenta) dias-multa.
+Não há circunstâncias atenuantes ou agravantes, causas de redução ou de aumento, motivo pelo qual fixo a pena definitivamente em 2 (dois) anos e 9 (nove) meses de reclusão, além de 70 (setenta) dias-multa.
+Considerando a configuração dos maus antecedentes, o regime adequado para o início do cumprimento da pena é o semiaberto, nos termos do art. 33, § 2º, "c", c/c § 3º, do Código Penal. Inviável a substituição da pena privativa de liberdade por restritivas de direitos, nos termos do art. 44, III, do Código Penal.
+Entretanto, em se tratando de recurso exclusivo da Defesa, inviável a modificação do julgado para prejudicar o réu. Assim sendo, mantenho o regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+Diante do exposto, ouso divergir do voto proferido pelo nobre Relator para conhecer do agravo a fim de dar provimento ao recurso especial, nos termos do art. 253, inc II, "c", do Regimento Interno deste Tribunal, para redimensionar a pena do agravante nos termos acima expostos.
+Por fim, tendo em vista a r. decisão do eg. Supremo Tribunal Federal, por ocasião do julgamento do ARE n. 964.246/SP, determino, independentemente da certificação do trânsito em julgado, que a Coordenadoria da Quinta Turma remeta cópia da r. sentença, do v. acórdão proferido em grau de apelação e das decisões proferidas nesta Corte para o Juízo de primeira instância, a fim de que seja iniciada a execução provisória da pena.
+É o voto.
