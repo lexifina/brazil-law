@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acordão do Tribunal Regional Federal da 1ª Região, assim ementado (eDOC 4, p. 201-202):
+    “PROCESSUAL CIVIL. CONCURSO PÚBLICO. RECURSO DE APELAÇÃO INTERPOSTO CONTRA SENTENÇA CONFIRMATÓRIA DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA (CPC, ART. 520, VII). AGRAVO DE INSTRUMENTO MANIFESTAMENTE IMPROCEDENTE. INADMISSIBILIDADE.
+    I – No caso em exame, o recurso de apelação interposto contra sentença que confirmou o deferimento da antecipação da tutela, independentemente da concessão ter-se efetivado por ocasião da prolação da sentença, deve ser recebido, tão-somente, no efeito devolutivo, nos termos do art. 520, VII, do CPC. Precedentes.
+    II – Ademais, na hipótese dos autos não mais subsiste o empecilho que impedia o prosseguimento do autor no concurso público, qual seja, ausência de apresentação de todos os exames médicos (já apresentados), afinando-se, assim, com a orientação jurisprudencial deste egrégio Tribunal, no sentido de que “não se mostra razoável aguardar o trânsito em julgado de decisum onde à impetrante foi assegurado o prosseguimento no certame indicado na espécie para que se efetivem a sua nomeação e posse, eis que a questão posta nos autos encontra-se em sintonia com a jurisprudência deste Tribunal e do egrégio Superior Tribunal de Justiça, assegurando-se, assim, a garantia dos princípios da eficiência, da moralidade e da razoável duração do processo, conforme preceitua a Lei nº 9.784/99 e os dispositivos insertos nos artigos 5º, inciso LXXVIII e 37, caput, da Constituição Federal, que a todos assegura o direito à celeridade na tramitação dos processos judiciais” (AMS 0033874-15.2008.4.01.3400 / DF, Rel. DESEMBARGADOR FEDERAL SOUZA PRUDENTE, QUINTA TURMA, e-DJF1 p.116 de 22/08/2013).
+    III – Afigurando-se manifestamente improcedente o agravo de instrumento, como no caso, em que se pretende dar efeito suspensivo a recurso de apelação interposto contra sentença confirmatória de antecipação dos efeitos da tutela cautelar, deve o Relator negar-lhe seguimento, nos termos do art. 557, caput, do CPC.
+    IV - Agravo regimental desprovido.”
+    Os embargos de declaração foram rejeitados (eDOC 5, p. 24).
+    No recurso extraordinário, com fulcro no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, caput e 37, II, da Constituição Federal.
+    Discorre acerca do mérito da controvérsia buscando demonstrar a impossibilidade de nomeação e posse de forma precária, sustentando a necessidade de se aguardar o trânsito em julgado das decisões judiciais para se nomear e dar posse ao candidato subjudice.
+    É o relatório. Decido.
+    De plano, verifica-se que o acórdão desafiado por meio do recurso extraordinário foi proferido em julgamento de agravo de instrumento interposto em face de decisão que recebeu, somente no efeito devolutivo, o recurso de apelação (eDOC 4, p. 178).
+    A jurisprudência do STF consolidou o entendimento segundo o qual as decisões que concedem ou denegam antecipação de tutela, medidas cautelares ou provimentos liminares, passíveis de alteração no curso do processo principal, não configuram decisão de última instância a ensejar o cabimento de recurso extraordinário. Aplica-se, portanto, a Súmula 735 do STF.
+    A esse respeito, confiram-se os seguintes precedentes: ARE-AgR 876.946, de relatoria do Ministro Luiz Fux, Primeira Turma, DJe 19.6.2015; RE-AgR 606.305, de Relatoria do Ministro Luiz Fux, Primeira Turma, DJe de 1.8.2013; e AI-AgR 597.618, de relatoria do Ministro Celso de Mello, Segunda Turma, DJe 29.6.2007.
+    Ante o exposto, nos termos do art. 21, §1º, do RISTF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 12 de junho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
