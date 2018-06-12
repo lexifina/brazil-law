@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] e OUTRO contra decisão em que foi inadmitido recurso especial interposto com apoio na alínea "a" do permissivo constitucional contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 197):
+SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. FCVS. LEI 10.150/00. LIQUIDAÇÃO ANTECIPADA. AUSÊNCIA DE PREVISÃO CONTRATUAL. ARTIGO 131 DO CPC.
+O contrato de financiamento imobiliário em exame não tem previsão de cobertura pelo FCVS, consoante aponta o item "C12" de seu quadro resumo. Neste sentido, as planilhas de evolução da dívida demonstram que não houve o recolhimento de qualquer valor ao respectivo fundo, inexistindo portanto qualquer fundamento jurídico a embasar a pretensão de quitação do saldo devedor residual pelo FCVS.
+A sentença impugnada não se mostra "citra petita", uma vez que o "juiz apreciará livremente a prova, atendendo aos fatos e circunstâncias constantes dos autos" (CPC, art. 131).
+Os embargos de declaração opostos foram rejeitados.
+No especial obstaculizado, os agravantes apontaram violação dos arts. 300, 302, 459 e 460 do CPC/1973.
+Defendem, em síntese, a ocorrência de julgamento citra petita, visto que a recorrida, em momento algum, alegou que o contrato não possui cobertura pelo FCVS, tampouco a ausência de pagamento, mas somente a possibilidade de quitação do imóvel em virtude da existência de multiplicidade de financiamentos com o referido Fundo.
+Sem contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que a reforma do acórdão demandaria novo exame fático-probatório (Súmula 7 do STJ).
+Em sua irresignação, os agravantes infirmam a decisão agravada e, no mais, reiteram os argumentos articulados no recurso especial.
+Sem contraminuta.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado n. 2).
+Isso considerado, segundo a jurisprudência desta Corte de Justiça, não se falar em violação do princípio da congruência quando o órgão julgador aplica o direito à espécie com base em fundamentos diversos dos apresentados pela parte, desde que a prestação jurisdicional guarde correspondência com as questões veiculadas no processo, como ocorreu na espécie.
+Com efeito, segundo a teoria da substanciação, apenas os fatos vinculam o julgador, que poderá atribuir-lhes a qualificação jurídica que entender adequada ao acolhimento ou à rejeição do pedido, como fruto dos brocardos iura novit curia e da mihi factum dabo tibi ius.
+Nesse sentido: AgRg no AREsp 736.884/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 27/10/2015, DJe 06/11/2015 e AgInt no REsp 1627683/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 21/03/2017, DJe 30/03/2017.
+No caso, o Tribunal de origem, soberano na análise do material cognitivo produzido nos autos, consignou expressamente que (e-STJ fl. 195) "o contrato em exame - fl. 13 - não tem previsão de cobertura pelo FCVS, consoante aponta o item "C12" de seu quadro resumo, que se encontra "zerado" em relação ao valor do fundo."
+Acrescentou que, "as planilhas de evolução da dívida - fls. 41/68 e 93/106 - demonstram que não houve o recolhimento de qualquer valor ao respectivo fundo, inexistindo portanto qualquer fundamento jurídico a embasar a pretensão de quitação do saldo devedor residual pelo FCVS".
+Por fim, conclui que "a sentença impugnada não se mostra "citra petita" uma vez que o "juiz apreciará livremente a prova, atendendo aos fatos e circunstâncias constantes dos autos" (CPC, art. 131)" (e-STJ fl. 196).
+Nessa quadra, dissentir da conclusão a que chegou a Corte de origem implica inevitável revolver de aspectos fático-probatórios, notadamente a avença celebrada entre as partes, providência inviável em sede de recurso especial, nos termos da Súmula 7 e 5 do STJ.
+Nesse sentido, trago o precedente a seguir:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. SEGURO HABITACIONAL. AUSÊNCIA DE INTERESSE DA CAIXA ECONÔMICA FEDERAL. DECISÃO RECORRIDA AMPARADA NAS PROVAS DOS AUTOS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Cuida-se, na origem, de agravo de instrumento contra decisão do juízo da 8ª Vara Cível de Londrina - PR, que determinou o desmembramento do feito em relação a alguns autores, a fim de que o processo fosse encaminhado à Justiça Federal, e, em relação à autora [NOME], determinou o prosseguimento no feito na Justiça Estadual.
+2. O Tribunal de origem negou provimento ao recurso, ante a expressa manifestação da Caixa Econômica Federal no sentido de que não tem interesse no feito em relação à autora excluída, haja vista que a apólice de seu seguro não conta com cobertura dos recursos do Fundo de Compensação das Variações Salariais - FCVS. Assim, para infirmar as conclusões do Tribunal de origem, necessário seria o revolvimento do acervo fático-probatório, o que não é possível a esta Corte, ante o óbice da Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1485479/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/10/2015, DJe 26/10/2015)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
