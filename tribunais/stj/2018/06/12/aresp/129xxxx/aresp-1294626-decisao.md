@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] MARZAGÃO JÚNIOR contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra acórdão assim ementado:
+"AÇÃO DE RESTITUIÇÃO DE VALORES C.C. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS.
+Compra e venda de jet-ski em 28 de fevereiro de 2014, com garantia de um (1) ano. Aparecimento de vício no motor ainda no prazo de garantia contratual, mas com recusa de reparo pela Revenda a pretexto de responsabilidade exclusiva da Fabricante.
+Fabricante que, acionada para a adoção das medidas cabíveis, silencia. Ajuizamento somente contra a Fabricante. SENTENÇA de improcedência, impondo ao demandante os ônus sucumbenciais, arbitrada a honorária em 10% do valor atualizado da causa. APELAÇÃO do autor, que insiste na reforma para a integral procedência do pedido inicial. ACOLHIMENTO PARCIAL. Caso que versa relação de consumo, sujeita às normas do CDC. Artigo 18 do CDC que prevê o prazo de trinta (30) dias para a Fornecedora sanar o vício do produto reclamado, podendo o consumidor, após esse prazo, exigir a substituição do produto, a restituição da quantia paga ou o abatimento proporcional do preço.
+Prazo não observado pelo autor. Pronunciamento da decadência quanto à pretensão de restituição do preço, por aplicação do artigo 26, II, §3º, do CDC. Pretensão de indenização sujeita ao prazo prescricional de três (3) anos não consumado, "ex vi" do artigo 206, §3º, inciso V, do Código Civil, tratando-se de vício, e não fato do produto. Existência do vício bem evidenciada pela prova documental. Padecimento moral indenizável bem demonstrado.
+Indenização corretamente arbitrada em R$ 10.000,00, ante as circunstâncias específicas do caso concreto e os critérios da razoabilidade e da proporcionalidade. Correção monetária que deve ter incidência a contar do arbitramento e juros moratórios, a contar da citação, versando o caso responsabilidade civil contratual. Aplicação da Súmula 362 do STJ e do artigo 405 do Código Civil, respectivamente. Prejuízo material correspondente aos gastos para a identificação do vício bem caracterizado.
+Correção monetária a juros de mora a contar do desembolso correspondente. Inversão da sucumbência, arbitrada a honorária em 20% do valor da condenação. Sentença reformada. RECURSO PARCIALMENTE PROVIDO" (fl. 114, e-STJ).
+Os embargos declaratórios foram rejeitados (fl. 149, e-STJ).
+No recurso especial, o recorrente alega que houve violação do art. 26, § 2º, I, e § 3º, da Lei nº 8.078/1990, pois o direito de reclamar do vício do produto caduca em noventa dias, a contar de quando ficou evidenciado o defeito, que, no caso, foi da constatação da fissura do motor por oficina especializada.
+Não admitido o recurso na origem, vieram os autos conclusos a esta relatoria.
+Sem contraminuta.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+A despeito de o alegado pelo recorrente, o tribunal estadual, ao analisar o contexto fático dos autos, concluiu que a ciência inequívoca do defeito se deu em data diversa, consoante se verifica do seguinte excerto de seu julgado:
+"(..)
+Pelo que se depreende dos autos, a negativa de reparo por parte da Revenda se deu em outubro de 2015. O autor, então, buscou a solução diretamente com a Fabricante ré, mediante o envio de "e- mail" à representante da marca no dia 03 de outubro de 2015, mas não obteve resposta (v. fl. 25), recebendo a confirmação do vício no produto durável no dia 04 de novembro de 2015, mediante diagnóstico elaborado por mecânica especializada (v. fl. 22).
+A par do reconhecimento do início da contagem do prazo para a exigência da substituição do produto, restituição do preço pago ou abatimento proporcional do preço a partir da negativa da Oficina Yamaha, do envio do "e-mail" diretamente à Fabricante ou ainda da confirmação do vício por mecânico especializado, o fato é que, ainda que se conte o prazo decadencial dessa última data, tem-se que ele já se achava irremediavelmente consumado quando do ajuizamento da Ação, no dia 18 de fevereiro de 2016 (v. artigo 18, §1º, do Código de Defesa do Consumidor).
+Não se há falar em início da contagem do prazo decadencial a contar da data em que o autor notificou extrajudicialmente a Fabricante para as providências cabíveis, pois a ciência irrefutável do dano no tocante se deu com a confirmação, no dia 04 de novembro de 2015, do dano já apontado pela Oficina da Revenda no dia 23 de outubro de 2015, mesmo porque a primeira solicitação direta à Yamaha de que se tem prova nos autos se deu em outubro de 2015, mediante a comunicação com o representante da marca, dando conta da ciência da existência do vício (v. fl. 25).
+Assim, a pretensão para reparação do vício, substituição do produto, restituição da quantia paga ou abatimento proporcional do preço já estava há muito coberta pelo prazo decadencial quando do ajuizamento da Ação, em 18 de fevereiro de 2016, por aplicação do prazo de noventa (90) dias previsto no artigo 26, inciso II, §3º, do Código de Defesa do Consumidor" (fls. 117-119, e-STJ).
+Nesse contexto, é inviável a esta Corte Superior rever tal entendimento, sob pena de esbarrar no óbice da Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC/73. ACÓRDÃO ESTADUAL DEVIDAMENTE FUNDAMENTADO. DECADÊNCIA. VÍCIO OCULTO DO PRODUTO. REVISÃO DA DATA EM QUE O CONSUMIDOR TEVE CIÊNCIA DO DEFEITO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Inexistência de violação ao art. 535 do CPC/73, pois a eg. Corte a quo dirimiu as questões que lhe foram submetidas, apresentando os fundamentos de suas conclusões e manifestando-se acerca dos temas necessários à integral solução da lide.
+2. A pretensão posta no recurso especial para rediscutir o dies a quo no prazo decadencial esbarra no óbice da Súmula 7/STJ, porque depende do reexame da data em que o consumidor teve ciência do vício oculto do produto.
+3. Agravo interno desprovido"
+(AgInt no AREsp 1.070.277/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/8/2017, DJe 21/9/2017).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
