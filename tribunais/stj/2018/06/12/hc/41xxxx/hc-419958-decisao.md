@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de CRISTIANO PEREIRA, contra acórdão do Tribunal de Justiça do Estado do Espirito Santo (HC n. 0016136-83.2017.8.08.0000), assim ementado:
+HABEAS CORPUS - UNIFICAÇÃO DE PENAS - FIXAÇÃO DE FRAÇÃO PARA PROGRESSÃO DE REGIME - MATÉRIA AFETA A INTERPOSIÇÃO DE AGRAVO DE EXECUÇÃO - HABEAS CORPUS NÃO CONHECIDO.
+1. A ação constitucional do Habeas Corpus, assim como outras garantias previstas em sede constitucional, deve ser sempre utilizada no controle da intervenção do Estado rios direitos fundamentais da pessoa, não se prestando à análise de qualquer matéria, mormente aquelas impugnáveis por recurso específico. Para cada tipo de decisão há um meio de impugnação próprio, não se podendo manejar instrumentos diferentes, como regra, para atacar a mesma manifestação judicial. Dessa forma, não se percebe qual seria a coação ilícita a ser sanada pela via eleita, uma vez que o procedimento se demonstra impróprio para o exame da matéria pretendida, sendo o agravo de execução o meio correto para tanto. Não pode o Habeas Corpus suprir a omissão da interposição do recurso adequado, õu mesrtio tornar-se sucedâneo de recursos.
+2. HABEAS CORPUS NÃO CONHECIDO (fl. 15).
+A impetrante sustenta que o Juízo da Vara de Execuções Penais da Comarca de Vila Velha/ES proferiu decisão estabelecendo o patamar de 3/5 (três quintos) para a progressão de regime. Alega que a defesa impetrou habeas corpus objetivando a alteração da fração para a progressão de regime, entretanto, o Tribunal de origem não conheceu da impetração por inadequação da via eleita sob alegação de que a matéria deve ser tratada em recurso próprio - agravo em execução.
+Daí o presente mandamus, no qual aduz que "apesar de ser o agravo o recurso próprio cabível contra decisão que resolve incidente em execução, não há óbice ao manejo do habeas corpus, quando a análise da legalidade do ato coator prescindir do exame aprofundado de provas, bem como quando ausente decisão, provocando o atraso injustificado na prestação jurisdicional, como na espécie ocorre" (fl. 7).
+Requer, assim, em liminar e no mérito, a cassação da decisão atacada, a fim de que o Tribunal de Justiça do Estado do Espírito processe regularmente o habeas corpus nº 0016136-83.2017.8.08.0000" (fl. 8).
+A liminar foi deferida, para tornar nulo o decisum de fls. 14/19 que julgou o HC n. 0016136-83.2017.8.08.0000 e determinar que o Tribunal de Justiça do Estado do Espirito Santo proceda ao reexame do writ lá deduzido verificando a eventual existência de flagrante constrangimento ilegal que autorize a concessão de habeas corpus de ofício (fls. 29/31).
+As informações foram prestadas às fls. 84/102.
+O Ministério Público Federal manifestou-se pela prejudicialidade da ordem (fls. 80/82).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Conforme relatado, busca-se na presente impetração a cassação da decisão prolatada pelo Tribunal de Justiça do Estado do Espírito Santo, determinando que o referida Corte processe regularmente o HC n. 0016136-83.2017.8.08.0000.
+O pedido está prejudicado, pois conforme aponta o parecer do Ministério Público Federal, após o deferimento do pedido liminar (fls. 29/31), o Tribunal de Justiça do Estado do Espírito Santo analisou o mérito da impetração originária, já tendo ocorrido o trânsito em julgado.
+Desse modo, constata-se a alteração do cenário fático-processual, sendo que restam superados os argumentos deduzidos na presente impetração em razão dos novos fundamentos adotados pela corte de origem.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
