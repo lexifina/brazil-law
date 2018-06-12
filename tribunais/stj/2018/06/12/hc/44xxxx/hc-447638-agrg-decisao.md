@@ -1,0 +1,22 @@
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU A TUTELA DE URGÊNCIA NO WRIT ORIGINÁRIO. ORDEM DENEGADA PELO TRIBUNAL A QUO. ARGUMENTOS DA IMPETRAÇÃO SUPERADOS. NECESSIDADE DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO PROFERIDO. PRECEDENTES DESTA CORTE SUPERIOR. PERDA DO OBJETO.
+Agravo regimental prejudicado.
+DECISÃO
+Trata-se de agravo regimental interposto por [NOME] contra decisão monocrática que indeferiu liminarmente o habeas corpus impetrado em seu favor, com a seguinte ementa (fl. 521):
+HABEAS CORPUS CONTRA DECISÃO QUE INDEFERIU PEDIDO LIMINAR NA ORIGEM. CRIME DESCRITO NO ART. 121, § 2º, II E IV, DO CÓDIGO PENAL. PRISÃO PREVENTIVA. ILEGALIDADE MANIFESTA NÃO DEMONSTRADA. APLICAÇÃO DA SÚMULA 691/STF.
+Habeas corpus indeferido liminarmente.
+Alega-se que, na presente situação,  ..  Como se não bastasse à ausência de justificativa para a decretação, algo evidente, a prisão cautelar foi decretada com fundamento em elementos abstratos e genéricos.  ..  o caso demanda uma atenção especial capaz de ouvir o que diz o paciente em relação às suas condições pessoais, qualidades essas que são (I) primariedade e portador de bons antecedentes, (II) possuidor de documentos de identificação civil, (III) filho de tenra idade, (IV) ocupação lícita como coordenador de monitoramento; (V) cursos profissionalizantes; (VI) residência fixa e (VI) comparecimentos à Delegacia de Polícia, indicando disposição à justiça e à investigação, estando, portanto, ausentes os requisitos autorizadores - que devem ser atuais - para a manutenção da prisão preventiva (art. 312 do CPP), fazendo jus o paciente à concessão de liberdade provisória, nos termos do artigo 321 do Código de Processo Penal (fls. 530 e 532).
+Requer-se a reconsideração da decisão agravada ou o provimento do agravo regimental para determinar o julgamento do feito pela Turma e, ao final, ser concedida a ordem.
+É o relatório.
+Das informações obtidas junto à página eletrônica do Tribunal apontado como coator verifica-se que sobreveio o julgamento de mérito do habeas corpus originariamente impetrado, tendo a ordem sido denegada, por unanimidade, na data de 5/6/2018.
+Desse modo, consoante precedentes desta Corte Superior, divisa-se a perda do presente agravo regimental, vez que se insurge contra a decisão indeferitória da medida liminar pretendida no remédio constitucional originário, sob os argumentos que expôs, os quais, com o julgamento definitivo, restaram superados. Cabe à Defesa, agora, impugnar os fundamentos do acórdão proferido pelo Tribunal de origem.
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DE HABEAS CORPUS QUE IMPUGNAVA O INDEFERIMENTO DE LIMINAR, EM WRIT IMPETRADO EM 2º GRAU. APLICAÇÃO DA SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO, NO TRIBUNAL DE ORIGEM. PERDA DE OBJETO. JURISPRUDÊNCIA DO STF E DO STJ. AGRAVO REGIMENTAL PREJUDICADO.
+I. A Súmula 691 do Supremo Tribunal Federal, plenamente adotada pelo Superior Tribunal de Justiça, afirma a impossibilidade de utilização do habeas corpus contra decisão de Relator que, em writ impetrado perante o Tribunal de origem, indeferira o pedido de liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, sob pena de supressão de instância, aspectos não evidenciados, na espécie.
+II. Conforme a jurisprudência do Supremo Tribunal Federal e desta Corte, a superveniência de acórdão, apreciando o mérito do writ originário, impetrado em 2º Grau, torna prejudicada a análise do Habeas corpus, impetrado no Superior Tribunal de Justiça, que ataca a decisão indeferitória da liminar, naquela primitiva impetração.
+III. Não há como negar a prejudicialidade do Agravo Regimental, que ataca decisão monocrática de Relator, no Superior Tribunal de Justiça, que indeferira, liminarmente, o Habeas corpus, com fundamento na Súmula 691 do Supremo Tribunal Federal, em face da perda superveniente de objeto do próprio writ.
+IV. Agravo Regimental prejudicado.
+(AgRg no HC n. 242.650/SP, Ministra Assusste Magalhães, Sexta Turma, DJe 17/4/2013)
+E ainda: RCD no HC n. 349.107/BA, Ministro Nefi Cordeiro, Sexta Turma, DJe 1º/6/2016 e AgRg no HC n. 335.437/ES, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 27/10/2015.
+Tal o contexto, julgo prejudicado o presente agravo regimental.
+Publique-se.
