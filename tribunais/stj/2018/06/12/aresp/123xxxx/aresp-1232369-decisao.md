@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por FLEET ONE GESTÃO DE FROTAS E VEÍCULOS LTDA. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+" LIQUIDAÇÃO DE SENTENÇA - Divergência entre as partes em torno da compensação a ser observada entre as verbas fixadas na sentença liquidanda - Caso em que a compensação que leva em conta o ainda devido pela agravada deve se operar automaticamente, apenas, com a verba referente às variações cambiais - Possível a compensação entre as demais verbas contempladas na sentença entre si, do que resulta saldo favorável à agravada de R$ 115.764,11 (data base janeiro/2015) - Litigância de má-fé da agravante não reconhecida - Agravo de instrumento provido em parte" (fl.1.157 e-STJ).
+Nas razões do especial, a agravante alegou violação dos arts. 2º, 492 e 1.022 do Código de Processo Civil de 2015
+Sustentou, em síntese, que a recorrida delimitou os pedidos de sua reconvenção em lucros cessantes e indenização por danos morais, no entanto, o acórdão recorrido julgou além dos limites da lide ao condená-la "a efetuar o pagamento, mediante compensação, de um valor que nunca foi cobrado porque jamais foi objeto da reconvenção proposta pela EGSA, e que deveria ser buscada através de ação apropriada, nunca intentada por aquela" (fl. 1.195 e-STJ).
+Afirmou, ainda, que houve negativa de prestação jurisdicional, pois "se o v. acórdão recorrido reconhece que não se poderia efetuar compensação de valores que nunca foram judicialmente cobrados, fica a indagação de como não considerar contraditório e omisso o v. acórdão que determina a compensação de valores que nunca foram cobrados judicialmente" (fl. 1.202 e-STJ).
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+ É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A alegação de negativa de prestação jurisdicional merece prosperar.
+Foram opostos declaratórios pela parte ora recorrente, firme nas seguintes argumentações:
+"(..)
+Com o devido respeito, se a EGSA, ora embargada, não ajuizou a competente ação judicial para cobrar o crédito que alega ter, oportunidade em que a FLEET ONE, ora embargante, poderia apresentar sua defesa, com todos os recursos e meios a ela inerentes, nos termos do art. 5º, II, XXXVI, LIV e LV, da CF/88, não há como ser compensado o crédito que alega possuir (cerca de R$ 690 mil, em valores históricos), nesta ação, em que não houve qualquer pedido contraposto nesse sentido.
+Assim estabelecem os arts. 2º e 492 do Código de Processo Civil, através de uma redação praticamente idêntica àquela prevista nos revogados arts. 2º, 262 e 460 do Código de Processo Civil de 1973(..)" (fl. 1.165 e-STJ)
+Compulsando os autos, verifica-se que, não obstante a oposição de embargos declaratórios, a Corte local permaneceu silente quanto à questão de que houve violação dos arts. 2º e 492 do Código de Processo Civil, porque
+"(..) não há como ser mantido um v. acórdão que declara ser impossível compensar valores que nunca foram objeto da ação, mas que, ao mesmo tempo, determina a aludida compensação, sem qualquer pedido formulado pela parte" (fl. 1.202 e-STJ).
+Nas razões do presente recurso ressalta a recorrente que a recorrida delimitou os pedidos de sua reconvenção em lucros cessantes e indenização por danos morais, no entanto, o acórdão recorrido julgou além dos limites da lide ao condená-la "a efetuar o pagamento, mediante compensação, de um valor que nunca foi cobrado porque jamais foi objeto da reconvenção proposta pela EGSA, e que deveria ser buscada através de ação apropriada, nunca intentada por aquela" (fl. 1.195 e-STJ).
+O artigo 1.022, parágrafo único, II, do CPC/2015, remetendo-se ao artigo 489, § 1º, IV, determina que é omissa a decisão que "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+Assim, não tendo o Tribunal local enfrentado questão necessária ao deslinde da controvérsia, resta impossibilitado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a transgressão ao art. 1.022 do CPC/2015 a fim de anular o acórdão recorrido para suprir a omissão existente.
+A propósito:
+"PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. OMISSÃO. NULIDADE DO JULGADO. RETORNO DOS AUTOS. NECESSIDADE.
+1. Existindo na petição recursal alegação de ofensa ao art. 1.022 do CPC/2015, a constatação de que o Tribunal de origem, mesmo após a oposição de Embargos Declaratórios, não se pronunciou sobre pontos essenciais ao deslinde da controvérsia autoriza o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Nesse contexto, deve ser dado provimento ao Recurso Especial a fim de que os autos retornem ao Tribunal de origem para que este se manifeste sobre a matéria articulada nos Embargos de Declaração, em face da relevância da omissão apontada.
+3. Recurso Especial provido, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração" (REsp 1.642.708/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/02/2017, DJe 17/04/2017).
+Ante o exposto, dou provimento ao recurso especial a fim de determinar o retorno dos autos ao Tribunal de origem para que seja apreciada a matéria suscitada nos declaratórios de fls. 1.186/1.189 e-STJ como entender de direito, restando prejudicadas as demais questões.
+Publique-se.
+Intimem-se.
