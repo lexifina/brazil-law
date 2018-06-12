@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo, desafiando decisão que inadmitiu recurso especial, este fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL RECURSO ADESIVO. DESERÇÃO. TRANSPORTE AÉREO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. Recurso adesivo não conhecido, por deserto. A responsabilidade da ré é objetiva, devendo responder pelos danos causados. A necessidade de manutenção da aeronave não configura força maior para excluir a responsabilidade da empresa aérea.
+Atraso de cerca de 20 horas para chegar ao destino enseja indenização por danos morais. Quantum mantido. RECURSO ADESIVO NÃO CONHECIDO. APELAÇÃO IMPROVIDA. (fl. 258)
+Em suas razões recursais, a agravante aponta, além de dissídio jurisprudencial, violação aos arts. 884 e 944 do CC/02, sustentando, em síntese, a necessidade de redução do montante indenizatório a título de dano moral, porquanto exorbitante.
+É o relatório.
+Passo a decidir.
+A irresignação não prospera.
+No que tange ao montante arbitrado a título de dano moral, o Superior Tribunal de Justiça firmou orientação no sentido de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+A respeito do tema, salientou o eminente Ministro ALDIR PASSARINHO JUNIOR: "A intromissão do Superior Tribunal de Justiça na revisão do dano moral somente deve ocorrer em casos em que a razoabilidade for abandonada, denotando um valor indenizatório abusivo, a ponto de implicar enriquecimento indevido, ou irrisório, a ponto de tornar inócua a compensação pela ofensa efetivamente causada" (REsp 879.460/AC, Quarta Turma, DJe de 26/4/2010).
+Com efeito, somente é possível a revisão do montante da indenização nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame. Isso, porque o valor da indenização por danos morais, arbitrado em R$ 10.000,00 (dez mil reais) não é exorbitante nem desproporcional aos danos sofridos pela agravada.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
