@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO Nº 2 DO STJ. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PRA FRENTE. RESTITUIÇÃO DA DIFERENÇA ENTRE A BASE DE CÁLCULO PRESUMIDA E A BASE DE CÁLCULO REAL. POSSIBILIDADE RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL EM SEDE DE REPERCUSSÃO GERAL (RE 593.849). RECURSO PROVIDO.
+1. Publicado o acórdão proferido pelo STF em sede de repercussão geral, aplicam-se os efeitos do artigo 1.040, II, do CPC/2015, retornando os autos para novo exame.
+2. O Supremo Tribunal Federal, em sede de repercussão geral reconhecida nos autos do RE nº 593.849, fixou tese no sentido de que "É devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços - ICMS pago a mais no regime de substituição tributária para frente se a base de cálculo efetiva da operação for inferior à presumida".
+3. Juízo de retratação exercido, na forma do art. 1.040, II, do CPC/2015, para dar provimento ao recurso em mandado de segurança.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, deu provimento ao recurso ordinário, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Em razão do disposto no art. 1.030, II, do CPC/2015, passa-se à apreciação do recurso ordinário em mandado de segurança, no que concerne à questão relativa à possibilidade de restituição do excesso de ICMS recolhido por substituição tributária pra frente quando a base de cálculo real for inferior à base de cálculo presumida.
+Trata-se de recurso em mandado de segurança interposto com fundamento no art. 105, II, b, da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul de cuja ementa se extrai:
+Só é devida a restituição do imposto pago na hipótese de não realização do fato gerador, no caso de substituição tributária progressiva, possuindo a base de cálculo do ICMS caráter definitivo, não sendo devida quando apurada diferença entre a base de cálculo presumida e a base de cálculo do real valor de venda do produto.
+A recorrente sustenta, em suma, que a existência de crédito em razão de venda a menor (fato gerador real) em face do fato gerador presumido, impõe a restituição imediata e preferencial da diferença concernente ao ICMS pago no regime de substituição tributária.
+Em suas contrarrazões, o recorrido pugna pela manutenção do aresto atacado.
+O Ministério Público Federal, por meio do parecer de e-STJ fls. 424/430, opina pelo não provimento do recurso.
+A decisão de e-STJ fls. 432/435 negou provimento ao recurso e o acórdão de fls. 455/460 manteve a decisão.
+Opostos embargos de declaração, foram rejeitados.
+Na sequência, a recorrente interpôs recurso extraordinário, mas a Presidência desta Corte determinou o sobrestamento dos autos, em cumprimento da providência prevista no art. 1.030, III, do CPC/2015, tendo em vista a repercussão geral da matéria no RE 593.849/MG (Tema 201).
+Após a publicação do acórdão, voltaram os autos a esta relatoria, para eventual juízo de retratação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO Nº 2 DO STJ. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PRA FRENTE. RESTITUIÇÃO DA DIFERENÇA ENTRE A BASE DE CÁLCULO PRESUMIDA E A BASE DE CÁLCULO REAL. POSSIBILIDADE RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL EM SEDE DE REPERCUSSÃO GERAL (RE 593.849). RECURSO PROVIDO.
+1. Publicado o acórdão proferido pelo STF em sede de repercussão geral, aplicam-se os efeitos do artigo 1.040, II, do CPC/2015, retornando os autos para novo exame.
+2. O Supremo Tribunal Federal, em sede de repercussão geral reconhecida nos autos do RE nº 593.849, fixou tese no sentido de que "É devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços - ICMS pago a mais no regime de substituição tributária para frente se a base de cálculo efetiva da operação for inferior à presumida".
+3. Juízo de retratação exercido, na forma do art. 1.040, II, do CPC/2015, para dar provimento ao recurso em mandado de segurança.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+O presente recurso teve seu provimento negado em relação ao mérito, conforme se verifica da decisão de e-STJ fls. 432/435, posteriormente confirmada por julgamento colegiado desta Segunda Turma, em sede de agravo regimental, às e-STJ fls. 455/460, reafirmando a tese da impossibilidade de restituição da diferença entre o imposto pago em substituição tributária pra frente sobre a base de cálculo presumida e aquele que seria devido em caso da venda realizada por preço inferior.
+Após rejeitados os embargos de declaração opostos, a recorrente interpôs recurso extraordinário, ao qual foi determinado o sobrestamento, consoante se verifica às e-STJ fls. 527/528, em razão da repercussão geral admitida nos autos do RE 593.849/MG.
+Publicado o acórdão paradigma, passo ao reexame do recurso, nos termos do art. 1040, II, do CPC/2015.
+Registro que o presente reexame do recurso se limita à adequação à tese fixada pelo Supremo Tribunal Federal em repercussão geral, nos estritos termos do inciso II do art. 1.040 do CPC/2015, somente sendo possível decidir questões ainda não enfrentadas cuja análise tenha se tornado necessária em razão do juízo de retratação exercido, consoante o disposto no § 2º do art. 1.041 do CPC/2015.
+Com efeito, o tema relativo à possibilidade de restituição do excesso de ICMS recolhido por substituição tributária pra frente quando a base de cálculo real for inferior à base de cálculo presumida foi definitivamente julgado pelo Supremo Tribunal Federal em sede de repercussão geral consoante a seguinte ementa:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA OU PARA FRENTE. CLÁUSULA DE RESTITUIÇÃO DO EXCESSO. BASE DE CÁLCULO PRESUMIDA. BASE DE CÁLCULO REAL. RESTITUIÇÃO DA DIFERENÇA. ART. 150, §7º, DA CONSTITUIÇÃO DA REPÚBLICA. REVOGAÇÃO PARCIAL DE PRECEDENTE. ADI 1.851.
+1. Fixação de tese jurídica ao Tema 201 da sistemática da repercussão geral: "É devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços - ICMS pago a mais no regime de substituição tributária para frente se a base de cálculo efetiva da operação for inferior à presumida".
+2. A garantia do direito à restituição do excesso não inviabiliza a substituição tributária progressiva, à luz da manutenção das vantagens pragmáticas hauridas do sistema de cobrança de impostos e contribuições.
+3. O princípio da praticidade tributária não prepondera na hipótese de violação de direitos e garantias dos contribuintes, notadamente os princípios da igualdade, capacidade contributiva e vedação ao confisco, bem como a arquitetura de neutralidade fiscal do ICMS.
+4. O modo de raciocinar "tipificante" na seara tributária não deve ser alheio à narrativa extraída da realidade do processo econômico, de maneira a transformar uma ficção jurídica em uma presunção absoluta.
+5. De acordo com o art. 150, §7º, in fine, da Constituição da República, a cláusula de restituição do excesso e respectivo direito à restituição se aplicam a todos os casos em que o fato gerador presumido não se concretize empiricamente da forma como antecipadamente tributado.
+6. Altera-se parcialmente o precedente firmado na ADI 1.851, de relatoria do Ministro Ilmar Galvão, de modo que os efeitos jurídicos desse novo entendimento orientam apenas os litígios judiciais futuros e os pendentes submetidos à sistemática da repercussão geral.
+7. Declaração incidental de inconstitucionalidade dos artigos 22, §10, da Lei 6.763/1975, e 21 do Decreto 43.080/2002, ambos do Estado de Minas Gerais, e fixação de interpretação conforme à Constituição em relação aos arts. 22, §11, do referido diploma legal, e 22 do decreto indigitado.
+8. Recurso extraordinário a que se dá provimento" (RE 593.849, Relator Min. EDSON FACHIN, Tribunal Pleno, julgado em 19/10/2016, Acórdão eletrônico repercussão geral - mérito DJe-065, divulgado em 30/3/2017, publicado em 31/3/2017, republicação: DJe-068, divulgado em 4/4/2017, publicado em 5/4/2017.)
+Por ocasião do referido julgado o Supremo Tribunal Federal, em sede de repercussão geral reconhecida nos autos do RE nº 593.849, fixou tese no sentido de que "É devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços - ICMS pago a mais no regime de substituição tributária para frente se a base de cálculo efetiva da operação for inferior à presumida".
+Ante o exposto, deve ser exercido o juízo de retratação previsto no art. 1.040, II, do CPC/2015, para dar provimento ao presente recurso, nos termos da fundamentação.
+É como voto.
