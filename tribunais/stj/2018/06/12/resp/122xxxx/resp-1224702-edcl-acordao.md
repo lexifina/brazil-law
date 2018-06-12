@@ -1,0 +1,54 @@
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. REVISÃO DE ATO DE CONCESSÃO DE BENEFÍCIO. REPERCUSSÃO GERAL. ACÓRDÃO SUBMETIDO A JUÍZO DE RETRATAÇÃO. ALEGAÇÃO DE OMISSÕES NO JULGADO. INEXISTÊNCIA. INTUITO INFRINGENTE.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado.
+2. No caso em apreço, o aresto embargado solveu fundamentadamente toda a questão posta, readequando o julgado anteriormente proferido, considerando, para tanto, o decidido pela Suprema Corte no RE n. 626.489/SE, nos exatos termos do inciso II do art. 1.030 do Código de Processo Civil, não se constatando, assim, a presença de nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de embargos de declaração opostos por [NOME] ao acórdão da Sexta Turma assim ementado (fl. 276):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. REVISÃO DE ATO DE CONCESSÃO DE BENEFÍCIO. REPERCUSSÃO GERAL. ACÓRDÃO SUBMETIDO A JUÍZO DE RETRATAÇÃO. ART. 1.030, II, DO CPC. RE N. 626.489/RG/SE. TEMA N. 313. APLICAÇÃO DO PRAZO DECADENCIAL DE 10 ANOS FIXADO PELA LEI N. 9.528/1997 AOS BENEFÍCIOS CONCEDIDOS EM DATA ANTERIOR. TERMO INICIAL DA CONTAGEM DO PRAZO: 1º/8/1997. DECADÊNCIA RECONHECIDA. RECURSO ESPECIAL IMPROVIDO.
+1. O Supremo Tribunal Federal, no julgamento do RE n. 626.489/SE, em sede de repercussão geral, consolidou o entendimento segundo o qual o prazo decadencial de 10 anos, instituído pela Medida Provisória n. 1.523, de 28/6/1997, tem como termo inicial o dia 1º/8/1997, por força de disposição nela expressamente prevista. Tal regra incide, inclusive, sobre benefícios concedidos anteriormente, sem que isso importe em retroatividade vedada pela Constituição Federal.
+2. No caso concreto, o julgado proferido pela Sexta Turma firmou que o prazo decadencial instituído na referida medida provisória não alcançava os benefícios concedidos antes da sua edição, o que não se coaduna com a tese apreciada pelo Supremo Tribunal Federal em sede de repercussão geral, merecendo, nesse aspecto, o seu realinhamento.
+3. Considerando que, na espécie, o benefício previdenciário objeto de revisão foi concedido em 1º/1/1993 e que a ação foi ajuizada apenas em 2/12/2008, configurada está a decadência do direito.
+4. Juízo de retratação exercido. Recurso especial improvido.
+Sustenta o embargante a inexistência de pertinência temática entre a controvérsia instaurada nos presentes autos e o tema julgado em repercussão geral pelo Supremo Tribunal Federal (fl. 291), bem como a existência de omissão, no tocante à alegação de que o prazo decadencial não alcança  ..  questões que não restaram resolvidas no ato administrativo que apreciou o pedido de concessão do benefício (fl. 292).
+Registra, sobre o mérito do tema relativo à incidência ou não do prazo decadencial previsto no art. 103, caput, da Lei n. 8.213/1991, que  ..  foi afetado, nesta Corte, em 9/11/2016, nos autos Resp 1.631.021/PR e do REsp 1.612.818/PR, ambos de relatoria do Ministro Mauro Campbell Marques, para julgamento pela Primeira Seção, segundo o rito dos recursos representativos de controvérsia (fl. 292).
+Requer, ao final, o sobrestamento do presente feito (fl. 293).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): A pretensão do embargante não merece acolhida.
+Não se verifica nenhuma das hipóteses ensejadoras dos embargos de declaração, pois o acórdão às fls. 276/282 decidiu toda a questão posta em debate, com a devida fundamentação e nos limites necessários ao deslinde do feito.
+É entendimento jurisprudencial pacífico nesta Corte que o órgão julgador não está obrigado a responder a todas as alegações das partes, especialmente quando já tenha encontrado motivo suficiente para fundamentar a sua decisão, uma vez que, ao qualificar os fatos trazidos ao seu conhecimento, não fica o órgão judicante adstrito ao fundamento legal invocado (jura novit curia e da mihi factum dabo tibi jus).
+Além do mais, os embargos de declaração não se prestam a perquirições acerca do julgado, de forma que  ..  não cabe ao Tribunal, que não é órgão de consulta, responder a "questionários" postos pela parte sucumbente, que não aponta de concreto nenhuma obscuridade, omissão ou contradição no acórdão (EDcl no REsp n. 739/RJ, Ministro Athos Carneiro, Quarta Turma DJ 23/10/1990).
+Por oportuno, no tocante à alegação de configuração de decadência, trago à colação os seguintes trechos do acórdão proferido pela Sexta Turma ora embargado (fls. 280/281):
+ ..  Na hipótese dos autos, a decisão monocrática que deu provimento ao recurso especial da parte autora afastou o reconhecimento da decadência do direito de pleitear a revisão do benefício previdenciário (fls. 179/181).
+O mencionado decisum foi referendado pela Sexta Turma, em sede de agravo regimental. Na oportunidade, o Colegiado firmou que o prazo decadencial instituído pela Medida Provisória n. 1.523, de 27/6/1997, posteriormente convertida na Lei n. 9.528/1997, não alcançava os benefícios concedidos antes da sua vigência. Transcrevo os seguintes trechos do voto condutor do julgado (fls. 200/193):
+ ..  De feito, é firme neste Superior Tribunal de Justiça o entendimento de que o prazo decadencial instituído pela Medida Provisória n. 1.523, de 27/6/1997, posteriormente convertida na Lei n. 9.528/1997, não alcança os benefícios concedidos antes da sua vigência.
+Assim, a decisão agravada se mantém por seus próprios fundamentos, os quais transcrevo para que integrem o presente julgado:
+No mais, assiste razão ao recorrente, pois é firme neste Superior Tribunal de Justiça o entendimento de que o prazo decadencial instituído pela Medida Provisória n. 1.523, de 27/6/1997, posteriormente convertida na Lei n. 9.528/1997, não alcança os benefícios concedidos antes da sua vigência.
+A propósito:
+ ..
+Nesse sentido, ainda: REsp 953596/RS, Rel. Ministro Arnaldo Esteves Lima, DJ 4/8/2009; Ag 988163/RS, Rel. Ministro Napoleão Nunes Maia Filho, DJ 20/5/2009; REsp 1056627/SC, Rel. Ministro Og Fernandes, DJ 8/5/2009; Ag 1113911/RS, Rela. Ministra Laurita Vaz, DJ 5/3/2009; Ag 1088308/SP, Rel. Ministro Paulo Gallotti, DJ 6/12/2008.
+No caso dos autos, como o benefício foi concedido antes da edição da Medida Provisória n. 1.523/1997, não ocorreu a decadência do direito do segurado à revisão da aposentadoria.
+Em face do exposto, nego provimento ao agravo interno.
+ ..
+Ocorre que, no julgamento da repercussão geral, o Supremo Tribunal Federal, ao apreciar o mérito do RE n. 626.489/SE, definiu que a instituição do prazo decadencial de 10 anos pela Medida Provisória n. 1.523, de 28/6/1997, é compatível com a Constituição Federal e incide, inclusive, sobre benefícios concedidos anteriormente, e tem como termo inicial o dia 1º/8/1997, por força de disposição nela expressamente prevista.
+Confira-se a ementa do mencionado julgado (grifo nosso):
+RECURSO EXTRAORDINÁRIO. DIREITO PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS). REVISÃO DO ATO DE CONCESSÃO DE BENEFÍCIO. DECADÊNCIA.
+1. O direito à previdência social constitui direito fundamental e, uma vez implementados os pressupostos de sua aquisição, não deve ser afetado pelo decurso do tempo. Como consequência, inexiste prazo decadencial para a concessão inicial do benefício previdenciário.
+2. É legítima, todavia, a instituição de prazo decadencial de dez anos para a revisão de benefício já concedido, com fundamento no princípio da segurança jurídica, no interesse em evitar a eternização dos litígios e na busca de equilíbrio financeiro e atuarial para o sistema previdenciário.
+3. O prazo decadencial de dez anos, instituído pela Medida Provisória 1.523, de 28/6/1997, tem como termo inicial o dia 1º de agosto de 1997, por força de disposição nela expressamente prevista. Tal regra incide, inclusive, sobre benefícios concedidos anteriormente, sem que isso importe em retroatividade vedada pela Constituição.
+4. Inexiste direito adquirido a regime jurídico não sujeito a decadência.
+5. Recurso extraordinário conhecido e provido.
+(RE n. 626.489/SE, Ministro Roberto Barroso, Tribunal Pleno, DJe 23/9/2014)
+Ressalto que essa compreensão já havia sido chancelada no âmbito da Primeira Seção desta Corte Superior no julgamento dos recursos especiais n. 1.309.529/PR e 1.326.114/SC, processados nos termos do art. 543-C do Código de Processo Civil de 1973, como representativos da controvérsia, da relatoria do Ministro Herman Benjamin, julgados em 28/11/2012.
+Dessume-se, com isso, que o julgado da Sexta Turma diverge do entendimento firmado pelo Supremo Tribunal Federal no RE n. 626.489/SE, razão pela qual deve ser exercido o juízo de retratação.
+Na espécie, o ato de concessão do benefício previdenciário objeto de revisão ocorreu em 1º/3/1993, isto é, antes do advento da mencionada MP n. 1.523/1997. Desse modo, conta-se o prazo de 10 anos a partir de 1º/8/1997. No entanto, a ação revisional da qual decorre o presente recurso foi ajuizada apenas em 2/12/2008 (fl. 3), quando o direito pleiteado já se encontrava extinto.
+Logo, impõe-se a adequação do posicionamento adotado nestes autos à orientação jurisprudencial firmada pelo Supremo Tribunal Federal no julgamento do RE n. 626.489/SE, para reconhecer a decadência do direito.
+ ..
+Assim, inexiste a alegada omissão, haja vista que o acórdão embargado está albergado em jurisprudência firmada nos autos do RE n. 626.489/SE pelo Supremo Tribunal Federal.
+Disse e repito, na espécie, a Turma apenas se manifestou sobre a tese firmada no julgamento da referida repercussão geral, readequando o julgado anteriormente proferido, considerando, para tanto, o decidido pela Suprema Corte, nos exatos termos do inciso II do art. 1.030 do Código de Processo Civil.
+Ao que se observa, os presentes embargos buscam, na verdade, atribuir caráter infringente ao recurso, com a modificação do provimento anterior, bem como intenta discutir questão que nem sequer foi abarcada pelo recurso especial, providência incompatível com a via eleita, inexistindo, assim, vício - obscuridade, omissão ou mesmo contradição - sobre o qual deva o órgão judicial se pronunciar (EDcl no AgRg no REsp n. 1.153.353/GO, Ministro Jorge Mussi, Quinta Turma, DJe 9/3/2016).
+Ante o exposto, rejeito os embargos de declaração.
