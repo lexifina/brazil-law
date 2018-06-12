@@ -1,0 +1,7 @@
+DECISÃO
+Por intermédio da PET 00277511/2018, a requerente CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO NORDESTE DO BRASIL - CAPEF informa a distinção entre a questão jurídica objeto destes autos e a discutida no REsp 1.435.837/RS, afetada para julgamento sob o rito dos recursos repetitivos (tema 907).
+Salienta que a alteração regulamentar ocorrida na CAPEF foi precedida de ato de vontade, concretizada por meio da realização de transações, com ônus e bônus recíprocos para os transatores. Assevera, ainda, que as aludidas transações contaram com a anuência das associações de classe, além de terem sido posteriormente homologadas pelo Poder Judiciário.
+Diante da apontada distinção, requer o prosseguimento do julgamento do presente recurso.
+De fato, a questão de direito foi afetada para julgamento sob o rito dos recursos repetitivos (tema 907), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental n. 24, de 28/09/2016.
+Forte nessas razões, reitero os termos da decisão de e-STJ Fls. 1.709/1.710 e determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que permaneça suspenso o recurso até a publicação do acórdão paradigma, nos termos dos arts. 1.036, § 1º, e 1.037, II, ambos do CPC/2015.
+Publique-se. Intimem-se.
