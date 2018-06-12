@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por CAROLINA LUCINDA PERES e JAQUELINE TAISA FERNANDES. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL. DESPEJO C/C COBRANÇA. RECURSO DESERTO APENAS COM RELAÇÃO À RÉ FIADORA. RECURSO DE APELAÇÃO INTERPOSTO POR UM DOS LITISCONSORTES A TODOS APROVEITA. ART. 509 DO CPC. INÉPCIA DA INICIAL NÃO CONFIGURADA. PLANILHA DISCRIMINADA DO DÉBITO DEVIDAMENTE JUNTADA NA PETIÇÃO INICIAL. LEGITIMIDADE PASSIVA DA FIADORA. RESPONSABILIDADE PELO PAGAMENTO DOS ALUGUERES EXPRESSAMENTE ASSUMIDA NO CONTRATO DE LOCAÇÃO. IMÓVEL DETERIORADO. AUSÊNCIA DE COMPROVAÇÃO DE QUE A DETERIORAÇÃO NÃO SE DEU COM O USO DO IMÓVEL PELA LOCATÁRIA. PRETENSÃO DE REVISÃO DE ALUGUERES QUE DEVERIA SER PROPOSTA EM AÇÃO PRÓPRIA. SENTENÇA MANTIDA. RECURSO DE APELAÇÃO NÃO PROVIDO" (fl. 319, e-STJ).
+Os embargos de declaração foram rejeitados (fl. 349 e-STJ).
+Nas razões do especial, a agravante alega, além de divergência jurisprudencial, violação dos arts. 62, I, da Lei nº 8.245/1991. Afirma que "a inépcia da inicial há de ser reconhecida por este Tribunal Superior, visto que a Recorrida não apresentou cálculo discriminou do débito, como, por exemplo, quais os juros incididos, a sua metodologia e qual o índice utilizado na correção monetária" (fl. 365, e-STJ).
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+ É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+De início, verifica-se que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No caso concreto, o Tribunal de origem consignou:
+"Ocorre que, ao contrário do que sustenta a ré apelante, foi juntada com a petição inicial planilha dos alugueres vencidos com detalhamento dos acréscimos de multa e juros (mov. 1.1 - fls. 03).
+Dessa forma, não há que se falar em inépcia da inicial, foi atendida a norma supracitada pela autora apelada com a juntada do cálculo discriminado do valor do débito" (fl. 324 e-STJ).
+Assim como posta a matéria, a verificação da procedência dos argumentos expendidos no recurso exigiria o reexame de matéria fática, o que é vedado pela Súmula nº 7/STJ, consoante iterativa jurisprudência desta Corte.
+Pela alínea "c" do permissivo constitucional, o recurso não merece conhecimento, pois a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não ocorreu na presente hipótese.
+Nesse sentido:
+"RECURSO ESPECIAL - EMBARGOS DE DECLARAÇÃO - POSSIBILIDADE DE CONCESSÃO DE EFEITO INFRINGENTE - ARTS. 541, PARÁGRAFO ÚNICO, DO CPC, E 255, § 2º, DO RISTJ - AUSÊNCIA DE DEMONSTRAÇÃO DA DIVERGÊNCIA SUSCITADA - IDENTIDADE DE AÇÕES (ART. 301, §2º, DO CPC) - (..).
+1. O conhecimento do recurso especial pela divergência exige a transcrição dos trechos dos acórdãos impugnado e paradigma, evidenciando-se, de forma clara e objetiva, o suposto dissídio jurisprudencial, não sendo suficiente a simples transcrição de ementas ou votos, sem a exposição das circunstâncias que identifiquem ou assemelhem os casos confrontados. (..)
+4. Recurso parcialmente provido" (REsp 935.004/PE, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 07/04/2011, DJe 19/4/2011).
+"PROCESSUAL CIVIL. DIREITO CIVIL. RECURSO ESPECIAL. INEXISTÊNCIA. ATO. GOVERNO LOCAL. AUSÊNCIA. DEMONSTRAÇÃO. DISSÍDIO JURISPRUDENCIAL. IMPENHORABILIDADE. BEM DE FAMÍLIA. PRECEDENTES. (..)
+2. Para a análise da admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, torna-se imprescindível a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, mediante o cotejo dos fundamentos da decisão recorrida com o acórdão paradigma, a fim de demonstrar a divergência jurisprudencial existente (arts. 541 do CPC e 255 do RISTJ). Nesse sentido, confira-se o AgRg no Ag 1053014/RN, Rel. Min. JORGE MUSSI, QUINTA TURMA, DJe 15.09.2008. Malgrado a tese de dissídio jurisprudencial, o recorrente não realizou o necessário cotejo analítico, que não se satisfaz pela mera transcrição de ementas ou votos, não restando demonstradas, assim, as circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma. (..)" (REsp 715.259/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/8/2010, DJe 09/09/2010).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o artigo 85, § 11, do CPC/2015, haja vista que estes não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
