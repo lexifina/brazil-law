@@ -1,0 +1,70 @@
+EMENTA
+PROCESSUAL CIVIL. DECISÃO QUE INADMITE RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO INTERNO. RECURSO MANIFESTAMENTE INCABÍVEL. ERRO GROSSEIRO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF.
+1. É assente no STJ que a interposição de Agravo Interno (art. 1.021, CPC/2015), em vez de Agravo em Recurso Especial (art. 1.042 do CPC/2015) contra decisão que não admite o Recurso Especial na origem, configura erro grosseiro que inviabiliza a aplicação do princípio da fungibilidade recursal.
+2. O Tribunal de origem firmou a compreensão de que "o agravo interno, interposto com apoio no art. 1021 do NCPC, mostra-se inadequado pelas regras atuais, já que há previsão específica de agravo dirigido às Cortes Superiores, contra a decisão que indamite recurso excepcional (art. 1.042, do NCPC). Por conseguinte, o ato processual carrega a pecha denominada pelos Tribunais Superiores de erro grosseiro, porquanto impede a aplicação do princípio da fungibilidade recursal".
+3. A parte recorrente alega, por sua vez, que "por se tratar de relação consumerista, não há se falar em culpa in elegendo ou culpa in vigilando, visto que a responsabilidade, neste caso, é objetiva do prestador de serviço, nos termos do art. 14 da Lei nº. 8.078/1990".
+4. As razões recursais estão dissociadas da motivação do acórdão impugnado. Incidência, por analogia, do enunciado da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu em parte do recurso e, nessa parte, negou-lhe provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição Federal) contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO.
+O novo Código de Processo Civil prevê, no seu art. 1021, o cabimento de agravo interno das decisões proferidas pelo relator, que nega seguimento aos recursos excepcionais.
+De outra banda, o mesmo Diploma processual prevê a figura do agravo ao Tribunal superior somente para a decisão do Vice-Presidente que inadmite os recursos especial e/ou extraordinário.
+Sendo assim, o agravo interno, interposto com apoio no art. 1021 do NCPC, mostra-se inadequado pelas regras atuais, já que há previsão específica de agravo dirigido às Cortes Superiores, contra a decisão que indamite recurso excepcional (art. 1.042, do NCPC). Por conseguinte, o ato processual carrega a pecha denominada pelos Tribunais Superiores de erro grosseiro, porquanto impede a aplicação do princípio da fungibilidade recursal.
+Agravo improvido.
+Não foram opostos Embargos de Declaração.
+A parte recorrente alega, em breve síntese, violação dos arts. 489, §1º, II do CPC/2015; 70, 71 e 72 do CC/2002; 14 da Lei 8.078/1990; 1º do Tratado de Assunção. Sustenta, preliminarmente, que "não se trata de erro grosseiro a interposição de agravo interno ao invés de agravo de instrumento, vez que o art. 1.021 do CPC permite o ataque de toda e qualquer decisão proferida pelo relator".
+Aduz, ainda, que "por se tratar de relação consumerista, não há se falar em culpa in elegendo ou culpa in vigilando, visto que a responsabilidade, neste caso, é objetiva do prestador de serviço, nos termos do art. 14 da Lei nº. 8.078/1990".
+Contrarrazões apresentadas às fls. 978-985, e-STJ.
+O Recurso Especial não foi admitido pelo Tribunal de origem.
+Dei provimento ao Agravo em Recurso Especial, para determinar sua conversão em Recurso Especial, sem prejuízo de exame mais profundo de admissibilidade.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 15.5.2018.
+Inicialmente, há que se esclarecer que o primeiro apelo nobre interposto pelos recorrentes (fls. 842-854, e-STJ) foi inadmitido pelo Tribunal de origem (fls. 879-880, e-STJ), sendo tal decisão impugnada através de Agravo Interno, não conhecido por manifestamente incabível (fls. 915-916, e-STJ).
+A parte recorrente opôs novo Agravo Interno (fls. 926-931, e-STJ), solicitando a observância do princípio da fungibilidade e a remessa do feito ao STJ para sua apreciação na modalidade de Agravo de Instrumento.
+A Primeira Seção do Tribunal Regional Federal da 4ª Região (fls. 941-948, e-STJ) negou provimento ao recurso de fls. 926-931, e -STJ, tendo em vista a configuração de erro grosseiro que impede a aplicação do princípio da fungibilidade.
+Assim, o Recurso Especial ora em análise é o de fls. 958-972, e-STJ, interposto contra o acórdão de fls. 941-948, e-STJ.
+A irresignação não merece acolhida.
+É assente no STJ que a interposição de Agravo Interno (art. 1.021, CPC/2015), em vez de Agravo em Recurso Especial (art. 1.042 do CPC/2015), contra decisão que não admite o Recurso Especial na origem, configura erro grosseiro que inviabiliza a aplicação do princípio da fungibilidade recursal.
+Nesse sentido:
+AGRAVO REGIMENTAL INTERPOSTO CONTRA DECISÃO QUE INADMITE RECURSO EXTRAORDINÁRIO. RECURSO MANIFESTAMENTE INCABÍVEL.
+1. A decisão que não admite o recurso extraordinário com base no art. 1.030, inciso V, do CPC é impugnável tão somente por meio de agravo em recurso extraordinário.
+2. A interposição de agravo interno/regimental é considerada erro grosseiro, insuscetível de aplicação da fungibilidade recursal, por não mais subsistir dúvida quanto ao único recurso adequado (art. 1.042 do CPC).
+Agravo regimental não conhecido. (AgRg no RE nos EDcl no AgRg no AREsp 993.438/SP, Rel. Min. Humberto Martins, Corte Especial, DJe 4.4.2018)
+PROCESSUAL CIVIL. DECISÃO QUE INADMITIU O ESPECIAL. EMBARGOS DE DECLARAÇÃO. INTERRUPÇÃO DO PRAZO. INOCORRÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. De acordo com a jurisprudência firme desta Corte Superior e do Supremo Tribunal Federal, o agravo então previsto no art. 544 do CPC/73 e atualmente no art. 1.042 do CPC/2015 é o único recurso cabível contra a decisão que não admite recurso especial na origem, de modo que a oposição de embargos de declaração, por caracterizar erro grosseiro, não interrompe o prazo para a interposição do recurso cabível.
+3. Agravo interno desprovido. (AgInt no AREsp 1.230.889/SP, Rel. MIn. Gurgel de Faria, Primeira Turma, DJe 26.4.2018)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO. IRRESIGNAÇÃO DOS AUTORES.
+1. A jurisprudência desta Corte é firme no sentido de ser manifestamente incabível a interposição de agravo regimental contra decisão de inadmissibilidade do recurso especial, eis que o único recurso cabível é o agravo do art. 544 do CPC/1973 (cujo correspondente, no CPC/2015, é o art. 1.042).
+2. A interposição de agravo regimental em vez do agravo em recurso especial impede a aplicação do princípio da fungibilidade recursal, pois caracterizado erro grosseiro no uso do recurso cabível. Precedentes.
+3. Mesmo que assim não fosse, o recurso especial é intempestivo, pois para fins de contagem de prazo processual, esta Corte considera dia útil a quarta-feira de cinzas, competindo ao recorrente comprovar, quando da interposição do recurso, a alegada ausência de expediente forense, o que não correu na hipótese. Precedentes do STJ.
+4. Agravo interno desprovido. (AgInt no AREsp 729.092/SP, Rel. Min. Marco Buzzi, Quarta Turma, DJe 27.2.2018)
+Dessume-se, portanto, que quanto à questão preliminar o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, motivo pelo qual não demanda qualquer reparo.
+Em relação às demais questões, verifica-se que as razões recursais estão dissociadas da motivação do aresto vergastado. Como já exposto acima, a Corte de origem firmou a compreensão de que "o agravo interno, interposto com apoio no art. 1021 do NCPC, mostra-se inadequado pelas regras atuais, já que há previsão específica de agravo dirigido às Cortes Superiores, contra a decisão que indamite recurso excepcional (art. 1.042, do NCPC). Por conseguinte, o ato processual carrega a pecha denominada pelos Tribunais Superiores de erro grosseiro, porquanto impede a aplicação do princípio da fungibilidade recursal".
+A parte recorrente alega, por sua vez, que "por se tratar de relação consumerista, não há se falar em culpa in elegendo ou culpa in vigilando, visto que a responsabilidade, neste caso, é objetiva do prestador de serviço, nos termos do art. 14 da Lei nº. 8.078/1990".
+Dessarte, incide, por analogia, o enunciado da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS DA MATÉRIA VERSADA NO ACÓRDÃO RECORRIDO. SÚMULA 284/STF.
+1. Hipótese em que a Corte a quo entendeu que "merece ser extinta a presente execução, visto que se encontra ausente dos autos a prévia liquidação da sentença condenatória genérica proferida nos autos da ação coletiva, cuja necessidade decorre do comando do Artigo 97 e seu parágrafo único, do Código de Defesa do Consumidor".
+2. Nas razões recursais, o recorrente sustenta que "a competência para a liquidação e a execução de título individual decorrente de sentença coletiva é concorrente entre o foro do domicílio do credor e o foro onde prolatada a sentença coletiva". Diante disso, é imperioso concluir que as razões recursais mostram-se dissociadas da motivação perfilhada no acórdão impugnado. Aplica-se, portanto, por analogia, o enunciado sumular 284 do Supremo Tribunal Federal.
+3. Recurso Especial não conhecido. (REsp 1.696.983/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 23.10.2017)
+PROCESSUAL CIVIL. IRPF. PREVIDÊNCIA PRIVADA. DECADÊNCIA. PRESCRIÇÃO. JUROS. ALÍQUOTA. REVISÃO. IMPOSSIBILIDADE. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 e 356/STF. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. DISSÍDIO JURISPRUDENCIAL. ALÍNEA C. NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+I - Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu o crédito tributário foi regularmente constituído no momento da apresentação pelo contribuinte de sua declaração de rendimentos. Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em recurso especial. Enunciado n. 7 da Súmula do STJ.
+II - Aplicam-se os óbices previstos nas Súmulas n. 282 e 356/STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+III - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem.Incidência, por analogia, do enunciado n. 284 da Súmula do STF.
+IV - Agravo interno improvido. (AgInt no AREsp 979.234/SP , Rel. Min. Francisco Falcão, Segunda Turma, DJe 14.8.2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS NS. 283 E 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Agravo em Recurso Especial e o Recurso Especial estivessem sujeitos ao Código de Processo Civil de 1973.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Honorários recursais. Não cabimento.
+VI - Agravo Interno improvido. (AgInt no AREsp 489.063/ES, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 3.8.2017)
+Por fim, havendo prévia fixação de honorários de advogado pelas instâncias de origem, é possível sua majoração em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Diante do exposto, conheço parcialmente do Recurso Especial e, nessa parte, nego-lhe provimento. Honorários advocatícios majorados no importe de 15% (quinze por cento) do valor já arbitrado.
+É como voto.
