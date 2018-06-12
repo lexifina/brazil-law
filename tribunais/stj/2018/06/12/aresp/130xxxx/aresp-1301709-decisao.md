@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto por SUL AMERICA COMPANHIA NACIONAL DE SEGUROS, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão assim ementado:
+Processo civil. Honorários periciais. Ônus da prova e sua inversão, como a constante do art. 6º, VIII, CDC, que não se confunde com o custeio da prova. Autora que é beneficiária da gratuidade da justiça, devendo o Estado arcar com a sua parte. Art. 95, § 3º, II, NCPC. Recurso parcialmente provido para afastar o pagamento dos honorários periciais pela requerida (fl. 186).
+No recurso especial, a parte aponta ofensa ao art. 373, § 2º, do CPC e alega, em síntese, inaplicabilidade do CDC e não cabimento da inversão do ônus da prova.
+Contrarrazões (fls.228/233).
+É o relatório. Passo a decidir.
+A parte recorrente alega que o tribunal a quo violou o art. 373, do CPC, ao declarar aplicável o CDC, considerando tratar-se de relação de consumo. Entendimento que a recorrente reputa equivocado, porque os recorridos não teriam demonstrado sua hipossuficiência ou vulnerabilidade e, além disso, o CDC não seria aplicável em matéria de SH/SFH. Assim, seria incabível a inversão do ônus da prova.
+Acrescenta que "o Código de Processo Civil não traz como regra a aplicação da teoria da carga dinâmica do ônus da prova, em seu artigo 373 e seus respectivos incisos, traz a regra geral, ou seja, aplicação da teoria estática do ônus da prova. A aplicação da carga dinâmica no ônus da prova é exceção no Código de Processo Civil, e será aplicada somente nos casos em que haja relação entre impossibilidade ou à excessiva dificuldade de cumprir o encargo, àquele que deveria" (fl. 198).
+Conclui que, "no presente caso sequer há a aplicação do Código de Defesa do Consumidor e, além disso, estamos diante de uma das hipóteses previstas no artigo 373, § 2º, do Código de Processo Civil e, por isso, tal inversão não poderia ter ocorrido" (fl. 198).
+Tais questões não foram tratadas no acórdão recorrido, que decidiu o seguinte:
+Dispõe o art. 95 do Novo Código de Processo Civil que: "Cada parte adiantará a remuneração do assistente técnico que houver indicado, sendo a do perito adiantada pela parte que houver requerido a perícia ou rateada quando a perícia for determinada de ofício ou requerida por ambas as partes".
+Sobreleva esclarecer que, com a devida vênia do digno Juiz de Direito prolator da r. decisão agravada, a regra acerca do ônus da prova, ou mesmo sua eventual inversão, tal como autorizada pelo Código de Defesa do Consumidor (art. 6º, VIII) e efetivamente determinada pelo digno Magistrado, não se confunde com as normas que disciplinam o custeio da prova, de sorte que o caso permanece regido inteiramente pelo artigo 95, caput, do Novo Código de Processo Civil quanto ao custeio da perícia.
+E, sendo os autores beneficiários da assistência judiciária, benefício este que abrange os honorários do perito (art. 98, VI, NCPC), cabe ao Estado arcar com o pagamento da parcela de sua responsabilidade, já que o perito nomeado não está obrigado a realizar o trabalho gratuitamente nem a receber os honorários ao final do processo (fls. 186/187).
+Nesse contexto, a matéria articulada no recurso especial carece do indispensável prequestionamento, o que impede o conhecimento da insurgência recursal.
+Além do que, não foi demonstrada a alegada ofensa ao art. 373, § 2º, do CPC.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
