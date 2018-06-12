@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pela UNIÃO contra decisão do Tribunal Regional Federal da 4ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 344):
+PROCESSUAL CIVIL. TRIBUTÁRIO. PERDIMENTO. PROCESSO ADMINISTRATIVO FISCAL. ART. 23 DO DECRETO Nº 70.235/72. NOTIFICAÇÃO DO CONTRIBUINTE POR EDITAL. NULIDADE. CERCEAMENTO DE DEFESA. OCORRÊNCIA. APREENSÃO DO VEÍCULO. MANUTENÇÃO.
+1. O art. 23 do Decreto nº 70.235/72 estabelece a possibilidade de intimação do contribuinte no procedimento administrativo fiscal por via postal, com prova de recebimento no domicílio tributário eleito pelo sujeito passivo. No caso, a notificação por edital foi feita antes de esgotadas as tentativas de intimação pessoal do contribuinte, providências estas que sequer se pode afirmar que existiram.
+2. A notificação editalícia somente se justifica se forem esgotadas as tentativas de notificação pessoal, por encontrar-se o sujeito passivo em local incerto e não sabido, 3. Cumpre observar que se trata de contribuinte com endereço certo e conhecido, de modo que incumbia à Fazenda Pública promover a prévia notificação da parte autora, de forma a viabilizar o exercício do seu direito ao contraditório e à ampla defesa.
+4. A ausência de intimação pessoal não importa na declaração de ilegalidade do ato que apreendeu o veículo, uma vez que se tratam de atos distintos. Portanto, fica mantida a apreensão do bem.
+Embargos de declaração rejeitados (e-STJ fls. 359 e 401).
+No especial obstaculizado, o ora agravante aponta violação dos arts. 535 do Código de Processo Civil/1973 e 27 do Decreto-Lei n. 1.455/1976.
+Depois de contra-arrazoado (e-STJ fls. 414/419), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que: (I) inexiste ofensa ao art. 535 do Código de Processo Civil/1973 e (II) incide a Súmula n. 7 do STJ (e-STJ fls. 422/423).
+Na presente irresignação, o agravante alega, em resumo, que o recurso obstado atende aos pressupostos de admissibilidade e, ao final, reitera os argumentos anteriormente expendidos.
+Contraminuta às e-STJ fls. 441/445.
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Isso considerado, verifico que a irresignação recursal merece prosperar.
+O artigo 535 do Código de Processo Civil/1973 prevê que os embargos de declaração são cabíveis quando houver, no acórdão ou na sentença, omissão, contrariedade ou obscuridade, in verbis:
+Art. 535. Cabem embargos de declaração quando:
+I - houver, na sentença ou no acórdão, obscuridade ou contradição;
+II - for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão deve ser observada entre as razões de decidir e a conclusão adotada.
+No presente caso, tem razão a parte recorrente, tendo em vista que o Tribunal de origem, mesmo após provocado por embargos de declaração, manteve a conclusão adotada em seu acórdão de apelação, contudo não se pronunciou sobre o ponto central da controvérsia, consubstanciado no fato incontroverso de que a recorrida foi devidamente intimada do auto de infração, nos seguintes termos:
+O fato incontroverso de que a condutora/autora foi devidamente intimada do auto de infração (Evento1-PROCADM6 e Evento1-PROCADM9 e PROCADM10), constando expressamente nos referidos documentos, além de sua assinatura, a informação de que a parte poderia, conforme o artigo 27, § 1º, do Decreto-lei nº 1.455/76 impugnar o procedimento, no prazo de 20 (vinte) dias contados da intimação, sob pena de ficar caracterizada a revelia, não foi enfrentado pelo v. acórdão recorrido, razão pela qual merece provimento o apelo especial para o fim de anular-se o julgado, determinando-se o retorno do processo à instância a quo para nova apreciação dos declaratórios. (e-STJ fl. 390). (Grifos acrescidos).
+Assim, estando configurada a violação do artigo 535 do Código de Processo Civil/1973, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios para que o vício seja sanado pelo Tribunal de origem.
+Nesse sentido:
+TRIBUTÁRIO. ISSQN. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC. OCORRÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DA CORTE A QUO, A DESPEITO DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO, SOBRE QUESTÃO RELEVANTE PARA O DESLINDE DA CONTROVÉRSIA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+ ..
+2. A jurisprudência deste Superior Tribunal de Justiça é firme no entendimento de que deve a parte vincular a interposição do recurso especial à violação do art. 535 do Código de Processo Civil, quando, mesmo após a oposição de embargos declaratórios, o tribunal a quo persiste em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum ou, ainda, quando persista desconhecendo obscuridade ou contradição arguidas como existentes no decisum.
+3. Por restar configurada a agressão ao disposto no art. 535 da legislação processual, impõe-se a declaração de nulidade do acórdão que julgou os embargos declaratórios, a fim de que o vício no decisum seja sanado.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp 1313492/SP, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 17/03/2016, DJe 31/03/2016). (grifos acrescidos)
+Ante o exposto, com base no art. 253, II, parágrafo único, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso, para anular o acórdão prolatado em sede de embargos declaratórios de e-STJ fl. 401 e determinar o retorno dos autos ao Tribunal a quo, a fim de que seja analisada a questão omissa, como entender de direito.
+Publique-se. Intimem-se.
