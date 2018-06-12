@@ -1,0 +1,31 @@
+EMENTA
+PENAL E PROCESSO PENAL. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu o seu recurso especial manejado em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o ora agravante foi condenado, em primeiro grau, como incurso nas sanções do art. 14 da Lei n. 10.826/03, à pena de 2 (dois) anos de reclusão, em regime inicial aberto, mais 10 (dez) dias-multa, no mínimo legal (fls. 168-176).
+Irresignada, a Defesa interpôs recurso de apelação criminal, tendo o eg. Tribunal a quo, em decisão unânime, negado provimento ao recurso, em acórdão assim ementado:
+"Porte ilegal de arma de fogo de uso permitido. Sólidas provas material e da autoria. Depoimentos prestados em Juízo que se coadunam aos demais demonstrativos. Condenação mantida. Pena corretamente dosada e individualizada. Portanto, recurso improvido." (fl. 226)
+Sobreveio recurso especial (fls. 22-235), com fundamento no art. 105, inciso III, alíneas a e c, do permissivo constitucional, no qual se sustentou a atipicidade da conduta por ausência de dolo e de risco ou ameaça de lesão ao bem jurídico tutelado pela norma pena incriminadora, uma vez que a arma estava registrada em nome de terceiro. Transcreve precedente em habeas corpus em reforço a sua tese.
+O eg. Tribunal de origem inadmitiu o apelo nobre, por óbice da Súmula 7/STJ e porque não comprovação do dissídio jurisprudencial, "pois não foram preenchidas as condições exigidas pelo Código de Processo Civil, pelo Regimento Interno do Superior Tribunal de Justiça e pela própria Constituição Federal" (fls. 285).
+No presente agravo, repisam-se os fundamentos apresentados em sede de recurso especial e refutam-se os argumentos expendidos para negar-lhe trânsito (fls. 290-299). No que concerne à admissibilidade do recurso pela alínea c do permissivo constitucional, limita-se o agravante a alegar que "a matéria suscitada pelo recorrente, no sentido do v. acórdão ter contrariado lei federal, ou negar-lhe vigência. conforme previsto na alínea "a", inciso III, do artigo 105 da Constituição Federal não foi afastada por Sua Excelência, por isso não há se falar em inadmissibilidade do presente recurso especial" (fl. 292).
+O Ministério Público Federal, em seu d. parecer, manifestou-se pelo não provimento do agravo (fls. 343-344):
+"AGRAVO. RECURSO ESPECIAL. APELAÇÃO. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ALEGADA OFENSA AOS ARTS. 18, PAR. ÚNICO, DO CP E 386, III, DO CPP E DISSÍDIO JURISPRUDENCIAL. INADMISSÃO. SÚMULA N.7/STJ. - A falta de impugnação específica dos fundamentos utilizados na decisão agravada atrai a incidência do enunciado sumular n. 182 do STJ. Pelo não conhecimento." (fl. 343)
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, ante a falta de comprovação da divergência jurisprudencial.
+Com efeito, limitou-se a asseverar que "a matéria suscitada pelo recorrente, no sentido do v. acórdão ter contrariado lei federal, ou negar-lhe vigência. conforme previsto na alínea "a", inciso III, do artigo 105 da Constituição Federal não foi afastada por Sua Excelência, por isso não há se falar em inadmissibilidade do presente recurso especial" (fl. 292).
+Em suas razões, a parte agravante também não infirmou as razões empregadas pela eg. Corte de origem para inadmitir o recurso, qual seja a Súmula 7/STJ, demonstrando a inaplicabilidade do óbice utilizado para impedir a subida do recurso especial a esta Corte.
+No ponto, o agravo apenas reforçou as teses recursais e acrescentou que a matéria impugnada não necessita de dilação probatória, deixando de satisfazer, com isso, a exigência legal de impugnação específica dos fundamentos da decisão agravada.
+Com efeito, devia a parte agravante ter demonstrado que realizou a comprovação da divergência nos moldes legais, atendendo-se, assim, os requisitos de admissibilidade do recurso especial interposto com fundamento na alínea c do permissivo constitucional, bem como demonstrar a incidência da Súmula 7/STJ à espécie.
+Desse modo, a ausência de impugnação do fundamento empregado pela eg. Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade do motivo indicado na decisão de inadmissibilidade do recurso por meio de impugnação específica.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO. EXECUÇÃO PROVISÓRIA DEFERIDA.
+1. O Agravante não infirmou, especificamente, todos os fundamentos da decisão combatida, o que atrai a incidência da Súmula n. 182 desta Corte.
+2. Os Tribunais Superiores, em recentes decisões, firmaram o entendimento de que, após esgotadas as via recursais ordinárias, apenas casuísticos efeitos suspensivos concedidos aos recursos excepcionais impedirão a execução provisória.
+3. Agravo regimental improvido e deferida a execução provisória da pena, determinando o imediato cumprimento da condenação, delegando-se ao Tribunal local a execução de todos os atos preparatórios." (AgRg no AREsp 984.287/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 26/06/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
