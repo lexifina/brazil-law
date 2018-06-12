@@ -1,0 +1,64 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC/1973 (ART. 1.022 DO CPC/2015) FEITA DE FORMA GENÉRICA. SÚMULA 284/STF. SERVIDOR ESTADUAL. COMPLEMENTAÇÃO DE APOSENTADORIA. CONVERSÃO DOS VENCIMENTOS EM URV. LEI 8.880/1994. NÃO OCORRÊNCIA DA PRESCRIÇÃO DO FUNDO DE DIREITO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO DA MATÉRIA EM RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE APRECIAÇÃO PELO STJ. SÚMULA 280/STJ.
+1. É deficiente a fundamentação do Recurso Especial em que a alegação de ofensa ao art. 535 do CPC/1973 se faz de forma genérica, sem a demonstração exata dos pontos nos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. A jurisprudência do STJ possui o entendimento de que, nas ações em que se pretende o recebimento de diferenças salariais decorrentes da conversão em URV, não ocorre a prescrição do fundo de direito, aplicando-se ao caso a Súmula 85/STJ, pois caracterizada a relação de trato sucessivo. Nesse sentido: AgReg no REsp 1.313.537, Primeira Turma, Rel. Ministro Napoleão Nunes Maia Filho, julgamento 2/8/2016, DJe 16/8/2016; AgRg no REsp 1.412.478, Rel. Ministra Assussete Magalhães, Segunda Turma, julgamento 17/9/2015, DJe 28/5/2015).
+3. O acórdão recorrido tem como fundamento matéria eminentemente constitucional. Sendo assim, destaca-se a inviabilidade da discussão em Recurso Especial acerca de suposta ofensa a matéria constitucional, porquanto seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição.
+4. Ademais, o exame da pretensão recursal pressupõe a apreciação de normas de Direito local, mais especificamente da Lei estadual 4.819/1958. Isso posto, a Corte de origem decidiu a lide à luz da referida legislação local, fazendo referência às suas disposições para solucionar a controvérsia. Aplicação, in casu, da Súmula 280 do STF.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu em parte do recurso e, nessa parte, negou-lhe provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+COMPLEMENTAÇÃO DE PROVENTOS - Funcionários ó inativos e pensionistas da Fepasa - Complementação de ºo proventos - Cabimento - Dissídio coletivo de Greve que ó concedeu diferença de vencimentos em razão de erro na conversão dos salários em URV por força da MP 434/94 - ó medida de caráter geral, pelo que extensivo aos aposentados o - Observância de preceito constitucional - Art. 126, § 4º, da 8 m CF - incidência da lei n. 11960/09 - inocorrência da có prescrição do fundo do direito - ação improcedente Recurso provido.
+Os Embargos de Declaração foram rejeitados (fl. 417, e-STJ).
+A recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 1º do Decreto 20.910/1932; 884 do Código Civil; 333, I, e 535 do CPC/1973; 19 e 22 da Lei 8.880/1994. Argumenta a) houve omissão no acórdão local; b) ocorreu a prescrição do fundo de direito; e c) não foi constatado eventual prejuízo advindo do reajuste instituído pela legislação estadual.
+Contrarrazões apresentadas às fls. 463-470, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 3.5.2018.
+Preliminarmente, a recorrente sustenta que o art. 535 do CPC/1973 (art. 1.022 do CPC/2015) foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF. Cito precedentes:
+PROCESSO CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. ARGUIÇÃO GENÉRICA. SÚMULA 284/STF. CONTRATAÇÃO TEMPORÁRIA. DIREITO A FGTS. NULIDADE DO CONTRATO DE TRABALHO. SÚMULA 7/STJ. ART. 37, IX, DA CF. MATÉRIA CONSTITUCIONAL. SÚMULA 282/STF.
+1. Alegações genéricas quanto à prefacial de afronta ao art. 535 do Código de Processo Civil não bastam à abertura da via especial pela alínea "a" do permissivo constitucional, a teor da Súmula 284 do Supremo Tribunal Federal.
+(..)
+4. Agravo regimental não provido.
+(AgRg no REsp 1.369.290/MG, Rel. Min. CASTRO MEIRA, Segunda Turma, DJe 26/04/2013).
+PROCESSUAL CIVIL. MULTA ADMINISTRATIVA. PROCON. AUTUAÇÃO. VENDA CASADA. VIOLAÇÃO AO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA N. 284 DO STF, POR ANALOGIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Não se pode conhecer da apontada violação ao art. 535 do CPC pois as alegações que fundamentaram a pretensa ofensa são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros ou sobre os quais tenha ocorrido erro material. Incide, no caso, a Súmula n. 284 do Supremo Tribunal Federal, por analogia.
+(..)
+4. Agravo regimental não provido.
+(AgRg no REsp 1.344.701/RJ, Rel. Min. MAURO CAMPBEL, Segunda Turma, DJe 10/04/2013).
+Relativamente à prescrição, o STJ firmou o entendimento de que, nas ações em que se busca o pagamento das diferenças salariais decorrentes da edição da Lei 8.880/1994, a relação é de trato sucessivo, incidindo a prescrição tão somente sobre as parcelas vencidas no quinquênio anterior ao ajuizamento da ação, não alcançando o fundo de direito, ex vi da Súmula 85/STJ.
+Sobre o tema:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. URV. PRESCRIÇÃO DE FUNDO DE DIREITO. INCIDÊNCIA DO ENUNCIADO N. 85 DA SÚMULA DO STJ.
+I - Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo nº 2 do Superior Tribunal de Justiça.
+II - A jurisprudência desta Corte possui o entendimento de que, nas ações em que se pretende o recebimento de diferenças salariais decorrentes da conversão em URV, não ocorre a prescrição do fundo de direito, aplicando-se ao caso a Súmula 85/STJ, pois caracterizada a relação de trato sucessivo. Nesse sentido: AgReg no REsp 1313537, PRIMEIRA TURMA, Rel. Ministro Napoleão Nunes Maia Filho, julgamento 02/08/2016, DJe 16/08/2016; AgRg no REsp 1412478, Rel. Ministra Assussete Magalhães, SEGUNDA TURMA, julgamento 17/09/2015, DJe 28/05/2015). III - Assim, ao se afastar a prescrição do fundo de direito há de se considerar prejudicada a parte recursal relativa à violação à Lei n. 8.880/94.
+IV - Diante da constatação que o Tribunal a quo não se manifestou acerca do mérito da causa, resta o Superior Tribunal de Justiça impedido de analisar tal questão, sob pena de supressão de instância.
+V - Agravo interno improvido.
+(AgInt no REsp 1689449/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 05/04/2018, DJe 10/04/2018).
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CONVERSÃO DOS VENCIMENTOS EM URV. NÃO OCORRÊNCIA DA PRESCRIÇÃO DO FUNDO DE DIREITO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. AGRAVO INTERNO DO MUNICÍPIO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. O acórdão recorrido contraria a jurisprudência desta Corte, segundo a qual não se opera a prescrição do fundo de direito nos casos em que se busca o pagamento de diferenças salariais decorrentes da omissão da Administração em converter corretamente cruzeiros reais para URV, mas tão-somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, porquanto resta caracterizada relação de trato sucessivo, que se renova mês a mês, nos termos da Súmula 85 desta Corte (AgInt no REsp. 1.694.727/SP, Rel. Min. REGINA HELENA COSTA, DJe 21.2.2018).
+2. Agravo Interno do Município de São Paulo a que se nega provimento.
+(AgInt no REsp 1476171/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 22/03/2018, DJe 10/04/2018).
+Em relação ao mérito, melhor sorte não assiste à insurgente.
+Dessume-se que o acórdão recorrido tem como fundamento matéria eminentemente constitucional. Sendo assim, destaco a inviabilidade da discussão em Recurso Especial acerca de suposta ofensa a matéria constitucional, porquanto seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição.
+Nesse sentido, confiram-se os precedentes:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO. VIOLAÇÃO DO ART. 535 DO CPC. NÃO CARACTERIZAÇÃO. SENTENÇA ILÍQUIDA E INCERTA. VIOLAÇÃO DO PARÁGRAFO ÚNICO DO ART. 460 DO CPC. ACÓRDÃO DE ÍNDOLE EXCLUSIVAMENTE CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inexistindo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. A questão controvertida foi dirimida sob fundamento exclusivamente constitucional, o que inviabiliza a revisão do acórdão proferido pelo Tribunal a quo na via eleita, uma vez que o recurso especial não se presta à análise de matéria constitucional, cuja competência é do Supremo Tribunal Federal.
+3. Agravo regimental não provido.
+(AgRg no REsp 1446484/SC, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 09/06/2014).
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. SERVIDOR MUNICIPAL. APOSENTADORIA APÓS A INSTITUIÇÃO DO REGIME JURÍDICO ÚNICO. EXERCÍCIO DO MESMO CARGO. CUMULAÇÃO DE PROVENTOS. VEDAÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTO CONSTITUCIONAL.
+1. Tendo em conta o caráter manifestamente infringente, e em face do princípio da fungibilidade recursal, recebe-se os presentes embargos de declaração como agravo regimental.
+2. As matérias pertinentes aos arts. 49, I, b e 54 da Lei nº 8.213/91, não foram apreciadas pela instância judicante de origem, não obstante a oposição dos competentes embargos de declaração. Caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.").
+3. Mesmo que assim não fosse, observa-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial.
+4. Agravo regimental a que se nega provimento.
+(EDcl no AREsp 480345/RN, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 19/05/2014).
+Ademais, o exame da pretensão recursal pressupõe necessariamente a apreciação de normas de Direito local, mais especificamente da Lei estadual 4.819/1958. Isso posto, a Corte de origem decidiu a lide à luz da referida legislação local, fazendo referência às suas disposições para solucionar a controvérsia. Aplicação, in casu, da Súmula 280 do STF. A propósito:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO CONFIGURAÇÃO. COMPLEMENTAÇÃO DE APOSENTADORIA. ANÁLISE DE LEI LOCAL. SÚMULA N. 280/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O mero julgamento da causa em sentido contrário aos interesses e à pretensão das partes não caracteriza a ausência de prestação jurisdicional, tampouco viola o art. 535 do CPC/1973.
+2. A despeito da parte recorrente apontar contrariedade aos dispositivos da LICC, mas precisamente, o art. 6º, § 2º, observo que o exame da pretensão recursal pressupõe a apreciação de normas de Direito local (Leis Estaduais nrsº 1.386/1951 e 4.819/1958), restando obstado o conhecimento do recurso, em virtude da incidência da Súmula n. 280/STF, in verbis: "Por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno não provido.
+(AgInt no AREsp 1.226.647/SP, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 24/04/2018).
+Diante do exposto, conheço parcialmente do Recurso Especial e, nessa parte, nego-lhe provimento.
+É como voto.
