@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem consigna que a decisão acautelatória proferida pelo juízo singular encontra-se devidamente fundamentada, uma vez que as conclusões acerca da necessidade de ser restaurada a habitabilidade do imóvel baseiam-se nas imagens acostadas aos autos e no laudo de vistoria da Caixa Econômica Federal. Outrossim, salienta que a eventual irreversibilidade do provimento antecipado se torna menor in casu tendo em vista a existência de apenas implicações financeiras, ao passo que, sua manutenção visa proteger a saúde do agravado e de sua família. A reforma do aresto, nestes aspectos, demanda reexame do acervo fático-probatório soberanamente delineado perante as instâncias ordinárias, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial, tendo em vista a impossibilidade de reexame do acervo probatório dos autos (Súmula 7/STJ).
+Insurgem-se os agravantes, aduzindo que o deslinde da controvérsia prescinde do revolvimento de matéria probatória, vedado pela Súmula 7/STJ, mas depende da "revaloração jurídica atribuída pelo acórdão recorrido".
+Sustentam que ".. é perfeitamente cabível o Recurso Especial no caso em tela, pois a pretensão dos Agravantes está firmada no art. 105, III, alínea "a" da Constituição Federal, por violação expressa dos artigos 131 e 273, § 2º, ambos do Código de Processo Civil de 1973, bem como os artigos 11, 489 e 208, todos do NCPC/2015. Assim, conforme as leis apontadas é evidente que a matéria em questão deveria ter sido considerada como suficiente para admissão do recurso, não havendo de se falar em inadmissibilidade do Recurso." (fl. 428).
+É o sucinto relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem consigna que a decisão acautelatória proferida pelo juízo singular encontra-se devidamente fundamentada, uma vez que as conclusões acerca da necessidade de ser restaurada a habitabilidade do imóvel baseiam-se nas imagens acostadas aos autos e no laudo de vistoria da Caixa Econômica Federal. Outrossim, salienta que a eventual irreversibilidade do provimento antecipado se torna menor in casu tendo em vista a existência de apenas implicações financeiras, ao passo que, sua manutenção visa proteger a saúde do agravado e de sua família. A reforma do aresto, nestes aspectos, demanda reexame do acervo fático-probatório soberanamente delineado perante as instâncias ordinárias, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. O agravo interno não merece ser acolhido.
+Como dito, o Tribunal Estadual consigna que a decisão monocrática determinou aos agravantes a realização de reforma a fim de que o agravado e sua família possam residir no imóvel objeto da demanda, restaurando a habitalidade dele. Destaca que a decisão encontra-se devidamente fundamentada, com fulcro nas imagens acostadas e no laudo de vistoria da Caixa Econômica Federal, sendo impossível, por ora, ser afastada a responsabilidade dos agravantes diante do comprador do imóvel.
+Além disso, no tocante a irreversibilidade do provimento antecipado, o Sodalício de origem salienta que esta se torna menor in casu, com apenas implicações financeiras, ante o provimento alcançado que visa proteger a saúde do agravado e de sua família. Por isso, o Tribunal a quo entende ser necessária a manutenção da decisão acautelatória proferida na origem.
+A propósito, colho o seguinte excerto do acórdão recorrido:
+"(..) Em suas informações, o MM juiz mencionou que não deferiu em tutela antecipada a reconstrução de um novo imóvel, mas que, na forma de medida cautelar, determinou a realização de reformas a fim de que o agravado e sua família possam residir no local.
+Foi corretamente fundamentada a decisão, com base nas imagens acostadas e no laudo de vistoria da CEF, sendo impossível ser afastada a responsabilidade dos agravantes diante do comprador em virtude da possibilidade de haver responsabilidade da Caixa Econômica Federal ou da seguradora.
+Destacou-se no referido laudo que não houve alteração no imóvel, mas que há perigo de agravamento de danos na estrutura da fundação do objeto; no reboco; no rodapé das paredes; no revestimento; na laje; na calçada dos fundos, que cedeu junto com a fundação.
+É inegável que os danos na fundação do imóvel geram perigo à vida do agravado e de seus familiares, motivo pelo qual se mostra imperiosa a manutenção da decisão a quo, a fim de que ocorra a pronta reforma do imóvel para garantir a habitabilidade deste.
+Visto que os danos possivelmente provocados pelo provimento do agravo podem trazer consequências à saúde do agravado e de sua família, a alegada irreversibilidade da medida, que apenas acarretaria implicações financeiras, que podem resultar em indenização por perdas e danos, não se apresenta capaz de alterar a decisão recorrida.
+Posto isso, não há que se falar em ausência de fundamentação, ilegitimidade passiva ou em reforma da decisão." (fls. 286/287) - g.n.
+A reforma do aresto, nestes aspectos, demanda inegável necessidade de reexame de matéria fático-probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+3. Ante o exposto, nego provimento ao agravo interno.
+É o voto.
