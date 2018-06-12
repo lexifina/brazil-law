@@ -1,0 +1,29 @@
+DECISÃO
+LEOCIMAR DA CRUZ alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, nos autos da Apelação Criminal n. 1.0142.15.001570-9/001.
+Consta dos autos que o paciente foi condenado, em primeira instância, como incurso nas sanções previstas no art. 155, § 1º, do Código Penal, à pena de 2 anos de reclusão, no regime semiaberto, mais multa.
+Neste habeas corpus, a defesa sustenta a ilegalidade da qualificadora de rompimento de obstáculo pela falta de perícia.
+Pede, inclusive liminarmente, seja decotada a referida qualificadora.
+Indeferida a liminar (fls. 258-259) e prestadas as informações (fls. 265-309), veio parecer do Ministério Público Federal, que opinou pela concessão da ordem (fls. 316-317).
+Decido.
+O paciente foi condenado pela prática do crime previsto no art. 155, § 4º, I, do Código Penal. Sobre a comprovação da qualificadora do rompimento de obstáculo, o Juiz de primeiro grau asseverou que "deve haver sua aplicação, mesmo diante da ausência de laudo pericial", por entender que "pode ser suprida pela prova testemunhal" (fl. 112, destaquei).
+A Corte de origem manteve a incidência da referida qualificadora, pelos seguintes fundamentos (fls. 199-200):
+Ademais, registre-se não ser necessário exame pericial para a configuração da qualificadora de rompimento de obstáculo, especialmente quando há nos autos prova suficiente de que o agente, para adentrar no local do furto, tenha se valido de meio anormal, artificial, ou impróprio, que demandou esforço incomum e que, para atingir o seu intento, tenha ele causado dano ao patrimônio da vítima.
+ ..
+Destarte, em atenção ao robusto acervo probatório dos autos, o qual revela de forma segura o rompimento de obstáculo, não há falar-se em decole da respectiva qualificadora.
+No julgamento do REsp n. 1.320.298/MG, a Sexta Turma do STJ examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste. Na oportunidade, empreendi análise mais aprofundada do tema, com proposta de modificação de entendimento predominante na Corte.
+Levado o referido recurso a julgamento, meu voto não foi acolhido pela Sexta Turma, ficando como relator para o acórdão o Ministro Nefi Cordeiro, que consignou o entendimento da maioria de que "o reconhecimento da qualificadora da escalada, prevista no art. 155, § 4º, II, do Código Penal, exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo" (REsp n. 1.320.298/MG, Rel. Ministro Rogerio Schietti, Rel. p/ acórdão Ministro Nefi Cordeiro, 6ª T., DJe 23/2/2016).
+Em relação à qualificadora de rompimento de obstáculo, a Sexta Turma deste Tribunal Superior também conclui pela imprescindibilidade, em regra, da sua comprovação por laudo pericial, admitida, excepcionalmente, a realização de exame indireto ou a sua complementação por outros meios de prova quando não subsistirem os vestígios materiais ou não forem suficientes para a confecção do laudo.
+ Portanto, com a ressalva de meu entendimento pessoal, aderi ao posicionamento predominante, para reconhecer, como regra, a imprescindibilidade da realização de exame pericial para constatação de rompimento de obstáculo.
+Como na hipótese dos autos é incontroverso que não foi realizado exame pericial para atestar o rompimento do obstáculo - comprovado, segundo as instâncias ordinárias, pela prova testemunhal - e a Corte estadual não demonstrou nenhuma excepcionalidade que justificasse a não realização do referido exame no local, deve ser afastada a incidência da qualificadora.
+Exemplificativamente:
+ ..
+1. A jurisprudência desta Corte Superior é firme em assinalar que, nos casos em que o rompimento de obstáculo não deixa vestígios, bem como nas hipóteses em que os vestígios materiais são insuficientes ou não mais subsistem no momento da apuração da prática delitiva, a qualificadora em questão pode ser atestada com base em outros elementos probatórios, que não o laudo pericial.
+2. As instâncias ordinárias não demonstraram nenhuma excepcionalidade que justificasse a não realização de exame pericial para atestar o rompimento de obstáculo, motivo pelo qual deve ser afastada a qualificadora em questão.
+ ..
+10. Habeas corpus não conhecido. Ordem concedida de ofício, para desclassificar a conduta imputada ao paciente para furto simples e reduzir a pena a ele imposta.
+(HC n. 330.890/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 19/5/2016, destaquei)
+No mesmo sentido, o Ministério Público Federal salientou que "não sendo mencionada pelo Tribunal de origem a presença de nenhuma das situações excepcionais  ..  não se mostra cabível a substituição do exame pericial direto por outros meios de prova" (fl. 317).
+Procedo, então, à nova dosimetria da pena.
+Partindo dos critérios adotados pelas instâncias antecedentes, verifico que a pena-base foi fixada no mínimo legal (fl. 209). Afastada a incidência da qualificadora do rompimento de obstáculo, fixo a pena-base em 1 ano de reclusão e 10 dias-multa, o que a torna definitivamente estabelecida, ante a compensação da confissão espontânea com a reincidência na segunda etapa da dosimetria e a ausência de causas de diminuição e de aumento de pena.
+À vista do exposto, concedo a ordem, a fim de afastar a incidência da qualificadora do rompimento de obstáculo e, por conseguinte, readequar a pena imposta ao réu, tornando-a definitiva em 1 ano de reclusão e 10 dias-multa, mantido, nos demais termos, o acórdão recorrido.
+Publique-se e intimem-se.
