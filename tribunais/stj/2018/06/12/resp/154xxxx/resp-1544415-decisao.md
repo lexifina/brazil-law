@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alíneas "a" e "c", da Constituição Federal, interposto em desfavor de decisão proferida pelo Tribunal de Justiça do Estado de Goiás.
+Consta dos autos que o Ministério Público do Estado de Goiás, em processo suspenso na forma do art. 366 do Código de Processo Penal, teve seu pedido de produção antecipada de provas indeferido (fls. 133/136). Irresignado, interpôs recurso em sentido estrito que foi desprovido.
+O acórdão ficou assim ementado:
+Indeferida produção antecipada de provas em feito que decretou a suspensão do processo e o curso do prazo prescricional. Recurso em sentido estrito pleiteando a medida excepcional para inquirição de testemunhas. 1 - Por não se encontrar elencado no rol taxativo do artigo 581 do CPP, impõe-se não conhecido o recurso em sentido estrito que impugna decreto que indefere pleito antecipatório de produção de provas. 2 - Conclusão: recurso não conhecido; parecer desacolhido.
+Em sede de recurso especial, o Ministério Público do Estado de Goiás aponta violação ao disposto no art. 581 do Código de Processo Penal, porquanto se admite a interpretação extensiva da aludida norma para cabimento do recurso em sentido estrito em caso de indeferimento de produção antecipada de provas.
+Contrarrazões às fls. 259/262.
+Admitido o recurso (fls. 266/267), os autos vieram a esta Corte.
+O Ministério Público Federal opinou pelo provimento do recurso especial (fls. 280/285).
+É o relatório. Decido.
+O Tribunal de origem não conheceu do recurso em sentido estrito, em razão da hipótese dos autos não se encontrar elencada no rol taxativo do art. 581 do Código de Processo Penal, mediante fundamentação que ora se destaca (fls. 179/182):
+De logo, anoto que há óbice para conhecimento do presente recurso. É que o rol taxativo do artigo 581 do Código de Processo Penal delimita as hipóteses de cabimento do recurso em sentido estrito.
+A orientação jurisprudencial e doutrinária é no sentido de que aquele rol é taxativo, tornando-se inadmissível o recurso por fundamentos ali não elencados (..)
+Assim, como a hipótese de negativa da realização de prova por antecipação não se encontra elencada no rol do artigo 581 do Código de Processo Penal, tenho que o recurso não pode ser conhecido.
+Contudo, a jurisprudência desta Corte fixou-se no sentido do cabimento do recurso em sentido estrito contra decisão de juízo de primeiro grau que indefere a produção antecipada de provas. Cito precedente:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO EM SENTIDO ESTRITO. DECISÃO QUE INDEFERE PRODUÇÃO ANTECIPADA DE PROVA. CABIMENTO. Esta Corte Superior vem admitindo a possibilidade de interpretação extensiva das hipóteses, a princípio taxativas, previstas no art. 581 do Código de Processo Penal, inclusive quanto à possibilidade de impugnação, por recurso em sentido estrito, de decisão interlocutória de primeiro grau que indefere pedido de produção antecipada de provas, para que se verifique, no caso concreto, a necessidade dessa providência processual (precedentes). Agravo regimental desprovido (AgRg no REsp 1539695/GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 12/06/2017).
+No mesmo sentido, ainda, as decisões monocráticas proferidas por ministros integrantes de ambas as Turmas da Terceira Seção desta Corte: Resp 1.654.391/RN, de MINHA RELATORIA, publicação no DJe de 14/02/2018, REsp 1.604.709/RN, relatora Ministra MARIA THEREZA DE ASSIS MOURA, publicação no DJe de 09/08/2016; REsp 1.601.399/RN, relator Ministro FELIX FISCHER, publicação no DJe de 02/09/2016; e REsp 1.605.331/RN, relator Ministro SEBASTIÃO REIS JÚNIOR, publicação no DJe de 22/06/2016.
+Diante do exposto, com fundamento na Súmula 568/STJ, dou provimento ao recurso especial para reformar o acórdão e determinar que o eg. Tribunal de origem aprecie o mérito do recurso em sentido estrito interposto pelo Parquet, no que tange à produção antecipada de provas.
+Publique-se. Intimem-se.
