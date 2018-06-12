@@ -1,0 +1,48 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça daquele estado, proferido nos autos do Recurso em Sentido Estrito n. 1.0295.10.000878-4/001.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 506/511).
+Nas razões do recurso especial, o Parquet estadual suscita violação do art. 413, caput, e § 1º, do Código de Processo Penal e do art. 121, § 2º, II, do Código Penal.
+Afirma, para tanto, que "o decote de qualificadoras somente deve ser admitido como uma medida de caráter excepcional, aplicável, tão-somente, em situações em que se revelem manifestamente descabidas, sob pena de se retirar do Tribunal do Júri a possibilidade de analisar o delito em todos os seus relevantes aspectos" (fl. 526).
+Sustenta, ainda, que "o fato de o acusado agir impelido por ciúme não autoriza, automaticamente, o afastamento da qualificadora do motivo fútil, porquanto a valoração das provas quanto à incidência, ou não, da referida circunstância, está afeta ao Conselho de Sentença" (fl. 529).
+Requer a reforma do acórdão recorrido, para restabelecer a qualificadora do motivo fútil (fl. 535).
+As contrarrazões foram oferecidas, às fls. 544-553, e o Ministério Público Federal opinou, às fls. 580-585, pelo provimento do recurso especial.
+Decido.
+I. Admissibilidade
+De início, constato a tempestividade do recurso especial, interposto com espeque no art. 105, III, "a", da Constituição Federal e verifico o preenchimento dos requisitos constitucionais, legais e regimentais para seu processamento.
+II. Contextualização
+O recorrido foi denunciado pela prática de tentativa de homicídio qualificado por motivo fútil (fls. 2-4).
+Após regular instrução, foi proferida a decisão de pronúncia nos termos da inicial acusatória (fls. 349-354).
+Inconformada, a defesa interpôs recurso em sentido estrito. A Corte de origem deu parcial provimento ao recurso para excluir a qualificadora do motivo fútil, conforme acórdão que recebeu a seguinte ementa (fl. 481, destaquei):
+RECURSO EM SENTIDO ESTRITO. DECISÃO DE PRONÚNCIA. TENTATIVA DE HOMICÍDIO QUALIFICADO. MATERIALIDADE DELITIVA E INDÍCIOS DE AUTORIA EVIDENCIADOS. DECRETO DE PRONÚNCIA. MANUTENÇÃO. DESCLASSIFICAÇÃO PARA O DELITO DE LESÃO CORPORAL. INVIABILIDADE. AUSÊNCIA DE PROVAS [NOME] DA AUSÊNCIA DE ANIMUS NECANDI. DECOTE DA QUALIFICADORA DO MOTIVO FÚTIL. POSSIBILIDADE. CONCESSÃO DA LIBERDADE PROVISÓRIA. DESCABIMENTO. MANUTENÇÃO DA PRISÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. RECURSO PROVIDO EM PARTE.
+- Extraindo-se dos autos provas conclusivas quanto à materialidade delitiva e suficientes indícios de autoria, a edição de decreto de pronúncia constitui medida de rigor, cumprindo ao Tribunal Popular perquirições quanto à pertinência das teses defensivas a afastar o animus necandi na conduta do recorrente.
+- Se não resta comprovada a perpetração do homicídio por motivação fútil, não tem lugar a qualificadora prevista no art. 121, § 2º, II, do CP.
+Contra esse acórdão, o Parquet estadual interpôs este recurso especial.
+III. Ciúme - qualificadora do motivo fútil
+A Constituição Federal conferiu ao Tribunal do Júri a competência para julgar crimes dolosos contra a vida e assegurou-lhe a soberania dos veredictos.
+É cediço, ainda, que a decisão de pronúncia consubstancia um mero juízo de admissibilidade da acusação, razão pela qual basta que o juiz esteja convencido da materialidade do delito e da existência de indícios suficientes de autoria ou de participação para que o acusado seja pronunciado, consoante o disposto no art. 413 do Código de Processo Penal.
+Por oportuno, assim dispõe o art. 413, caput e § 1º, do Código Penal, com redação dada pela Lei n. 11.689/2008:
+Art. 413. O juiz, fundamentadamente, pronunciará o acusado, se convencido da materialidade do fato e da existência de indícios suficientes de autoria ou de participação.
+§ 1º A fundamentação da pronúncia limitar-se-á à indicação da materialidade do fato e da existência de indícios suficientes de autoria ou de participação, devendo o juiz declarar o dispositivo legal em que julgar incurso o acusado e especificar as circunstâncias qualificadoras e as causas de aumento de pena.
+A decisão que submete o acusado a julgamento perante o Conselho de Sentença deve ser fundamentada não apenas em relação à materialidade do fato e aos indícios suficientes de autoria ou de participação, mas também no que se refere às qualificadoras, haja vista o disposto no art. 93, IX, da Constituição Federal. Vale dizer, embora a decisão de pronúncia deva ser comedida na apreciação das provas, é preciso que contenha uma fundamentação mínima para o reconhecimento de qualificadoras, enquanto o juízo de valor acerca da sua efetiva ocorrência será apreciado pelo Conselho de Sentença.
+Ademais, também é entendimento dominante nesta Corte Superior de Justiça que "somente é cabível a exclusão das qualificadoras, na decisão de pronúncia, quando manifestamente improcedentes, uma vez que cabe ao Tribunal do Júri, diante dos fatos narrados na denúncia e colhidos durante a instrução probatória, a emissão de juízo de valor acerca da conduta praticada pelo réu" (AgRg no AREsp n. 813.200/DF, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 6/6/2016, destaquei).
+Assim, "ausente qualquer fundamentação idônea para o afastamento das qualificadoras e havendo pertinência entre as referidas qualificadoras e as provas dos autos, cabe ao Conselho de Sentença a tarefa de analisá-las" (REsp n. 1.095.226/SP, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 18/4/2016).
+No caso, conforme relatado, o Parquet estadual sustenta que "o fato de o acusado agir impelido por ciúme não autoriza, automaticamente, o afastamento da qualificadora do motivo fútil, porquanto a valoração das provas quanto à incidência, ou não, da referida circunstância, está afeta ao Conselho de Sentença" (fl. 529, destaquei).
+A decisão de pronúncia fundamentou a incidência provável da referida qualificadora da seguinte forma (fl. 353, destaquei):
+Em sede judicial, a vítima [NOME] confirmou suas declarações de fase extrajudicial (fl. 14/15), bem como esclareceu que acha que foi atacado pelo réu em razão de ciúme, pois acredita que passaram para o acusado um boato de que o declarante estava se encontrando com sua ex-amásia.
+No mesmo sentido são os depoimentos, de fase administrativa e judicial (fls. 08/08v, 137 e 173), prestados pelas testemunhas [NOME] e [NOME].
+Assim é que, admissível a acusação formulada na denúncia, é o caso do réu ser submetido a julgamento pelo Tribunal do Júri.
+O Tribunal a quo, ao decotar a qualificadora do motivo fútil, assim consignou (fl. 484, destaquei):
+Por outro lado, tem-se por pertinente a tese alegada em razões recursais pela qual não se colhe do processado elementos objetivos a demonstrar a futilidade motivacional, impondo-se o afastamento da qualificadora prevista no art. 121, § 2º, II, do CP.
+Conforme narrativa contida em denúncia, corroborada pelos depoimentos alhures transcritos, agira o recorrente motivado por ciúme, em razão da vítima já ter convivido maritalmente com sua atual companheira, Sra. [NOME], havendo suspeitas de que ambos estavam se relacionando novamente.
+Todavia, segundo remansosa orientação jurisprudencial, o ciúme não deve ser considerado como motivo fútil.
+No entanto, "embora os ciúmes não caracterizem, por si só, a motivação fútil, tem-se que cabe ao Conselho de Sentença avaliar se o contexto trazido nos autos autoriza a qualificação dos ciúmes como motivo fútil" (HC 296.167/MS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 17/02/2017, destaquei).
+Vale dizer, se, "de um lado, não há consenso doutrinário nem jurisprudencial acerca da possibilidade de o ciúme configurar a qualificadora do motivo fútil, de outro, não é admissível ao Tribunal de origem emitir qualquer juízo de valor, na fase do iudicium accusationis, acerca da motivação do crime de homicídio expressamente narrada na denúncia" (AgRg no AREsp 630.056/MG, Rel. Ministro Gurgel de Faria, 5ª T., DJe 15/06/2015).
+No mesmo sentido, segue a orientação da Suprema Corte:
+HABEAS CORPUS. PENAL. PROCESSUAL PENAL. HOMICÍDIO. CIÚME. MOTIVO FÚTIL. QUALIFICADORA ADMITIDA NA PRONÚNCIA. EXCLUSÃO PELO TRIBUNAL DE JUSTIÇA. RECURSO ESPECIAL PROVIDO PARA DETERMINAR SUA INCLUSÃO. ADMISSIBILIDADE. PRECEDENTES. ORDEM DENEGADA.
+I - A jurisprudência desta Corte está assentada no sentido de que apenas a qualificadora manifestamente improcedente deve ser excluída da pronúncia, o que não acontece na hipótese dos autos.
+II - De todo modo, a análise da existência ou não da qualificadora do motivo fútil deve ser feita pelo Tribunal do Júri, que é o juiz natural da causa. Precedentes.
+III - Ordem denegada. (HC n. 107.090/RJ, Rel. Ministro Ricardo Lewandowski, 1ª T., DJe 21/11/2013, destaquei)
+Portanto, verifica-se que o acórdão recorrido está em desconformidade com a jurisprudência do STJ e do STF, e que a qualificadora do motivo fútil, decorrente de ciúmes, não se mostra manifestamente improcedente, pois amparada em vertente probatória, em tese, viável, conforme depoimentos judiciais da vítima [NOME] e das testemunhas [NOME] e [NOME]. Caberá, assim, aos jurados a análise da referida qualificadora.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial, para reconhecer a violação do art. 413 do Código de Processo Penal e restabelecer na decisão de pronúncia a qualificadora do inciso II do § 2º do art. 121 do Código Penal.
+Publique-se e intimem-se.
