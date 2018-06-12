@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"Apelação Cível. Ação de indenização por danos morais com pedido de tutela antecipada. Negativação. Parte autora que alega ter sido indevidamente inscrita nos cadastros restritivos de crédito por débito que desconhece. Sentença de extinção em razão de litispendência. Recurso autoral requerendo a manutenção da gratuidade de justiça; a procedência do pedido autora; a exclusão do aponte de fls 17; a condenação do réu ao pagamento de R$15.000,00 a título de danos morais, bem como das custas, despesas processuais e honorários advocatícios, argumentando que o débito dos presentes autos é de 05.03.2014. Litispendência que se reconhece, já que na sentença proferida nos autos de nº 0014290-09.2014.8.19.0007, houve a inclusão do débito de 05.03.2014 . Propositura de múltiplas demandas. Questão que deve ser discutida em sede de cumprimento de sentença. O pedido desta demanda, com efeito, JÁ FOI APRECIADO. Recurso conhecido e desprovido" (e-STJ fl. 251).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 1.022, I e II, e parágrafo único, II, e 489, II, e § 1º, IV, do Código de Processo Civil de 2015, ao fundamento de que o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios,
+(ii) arts. 505 e 507 do Código de Processo Civil de 2015, por ser vedada a discussão de temas que já foram objeto de decisão anterior no mesmo processo,
+(iii) art. 337, §§ 1º, 2º e 3º, do Código de Processo Civil de 2015, haja vista a inexistência da propalada litispendência, pois o débito discutido na presente ação é diverso daquele objeto do processo anterior, e
+(iv) art. 14, § 3º, do Código de Defesa do Consumidor, porque faz jus à indenização por dano moral em virtude da inscrição indevida de seu nome em cadastro de inadimplentes.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Assim, impende asseverar que cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pelo recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CHEQUES. RECONSIDERAÇÃO DA DECISÃO MONOCRÁTICA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial são inadmissíveis.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+6. Agravo interno provido. Agravo conhecido. Recurso especial não conhecido" (AgInt no AREsp 1.033.786/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 20/6/2017 - grifou-se).
+No que se refere à preclusão, verifica-se que a questão não foi objeto de debate pelas instâncias ordinárias e, embora opostos embargos de declaração, o tema não foi suscitado de forma específica. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+No mais, as conclusões do tribunal de origem acerca da litispendência decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+Observa-se, portanto, que fez a sentença menção às inscrições cm cadastros restritivos de crédito que estivessem relacionados com a Oi Móvel no dia 05/03/2014. A parte autora, por sua vez, nada esclareceu em sua petição inicial na presente demanda, novamente formulando pedido genérico e somente após a arguição de litispendência indicou qual seria a inscrição que questionava.
+À luz da boa-fé processual, deveria ter indicado que era cliente da ré Telemar e que os débitos são oriundos dessa discussão judicial que já se estende por outras três demandas, mas não o fez, preferindo deixar a demanda sem esclarecimentos, o que poderia ter induzido o juízo de 1º grau a erro. Coube à ré, portanto, indicar a rediscussão de questão tratada em outro processo, demonstrando a ocorrência de litispendência, a qual, por se tratar de questão de ordem pública, pode ser reconhecida a qualquer tempo, podendo ser reapreciada pelo magistrado no momento de prolação da sentença, que foi justamente o que aconteceu.
+Ademais, sendo tal inscrição já objeto de decisão proferida em ação que ainda se encontra em curso, não pode ser proposta nova ação tendo as mesmas partes, mesmo objeto e causa de pedir, à luz da teoria da tríplice identidade, devendo peticionar naqueles autos para obter providência do relator da apelação nº 0014290-09.201-4.8.19.0007.
+Por fim, destaque-se que não pode o Poder Judiciário ser utilizado como mecanismo de enriquecimento das partes com a multiplicação de ações que tenham o mesmo objeto, pois, se isso fosse admitido, haveria o risco de que a apelada fosse condenada duas vezes pela mesma inscrição em cadastros restritivos de crédito.
+Com efeito se a sentença proferida nos autos de nº 0014290-09.2014.8.19.0007, englobou o débito de 05.03.2014, forçosamente há de se reconhecer a litispendência entre as ações, até porque a mesma determina o cancelamento do termo de adesão e contratação de serviços referentes ao contrato celebrado no número do CPF da parte autora" (e-STJ fl. 256).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em R$ 800,00 (oitocentos reais), os quais devem ser majorados em 2% (dois por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
