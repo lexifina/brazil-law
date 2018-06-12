@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. PRETENSÃO DE SE REDISCUTIR REGRA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO CABIMENTO. ENTENDIMENTO DA CORTE ESPECIAL DO STJ. ACÓRDÃO EM HARMONIA COM O ENTENDIMENTO DO STJ. SÚMULA Nº 168/STJ. RECURSO NÃO ADMITIDO. DIVERGÊNCIA COM PARADIGMA DA TERCEIRA TURMA. AUSÊNCIA DE COMPETÊNCIA DA CORTE ESPECIAL. CISÃO DO JULGAMENTO. REDISTRIBUIÇÃO DO FEITO.
+DECISÃO
+Trata-se de agravo interno interposto por [NOME] contra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. PRETENSÃO DE SE REDISCUTIR REGRA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO CABIMENTO. ENTENDIMENTO DA CORTE ESPECIAL DO STJ. RECURSO NÃO ADMITIDO.
+No presente recurso, sustenta-se que há sobreposição de competência, que, "em que pese no dispositivo da decisão monocrática mantida pelo acórdão embargado ter constado que foi negado provimento ao agravo em recurso especial manejado pelo agravante, houve verdadeiro exame do mérito do recurso especial", e que "perfeitamente cabível os embargos de divergência, mesmo quando o acórdão recorrido não tenha conhecido do recurso do recorrente".
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O presente agravo merece parcial acolhida, tão somente quanto à necessidade de cisão do julgamento.
+O recurso de embargos de divergência não pode ser oposto contra os fundamentos expressos em decisão monocrática, senão contra as razões dispostas em julgado colegiado (cf. AgInt nos EAREsp 808.165/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 09/05/2018, DJe 14/05/2018; AgInt nos EAREsp 901.366/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 09/05/2018, DJe 14/05/2018).
+A tese de que "as matérias de ordem pública, como a decadência, podem ser apreciadas a qualquer momento nas instâncias ordinárias, inclusive de ofício" não foi apreciada pela Quarta Turma.
+Dessarte, consoante já jungido aos autos, a Corte Especial deste STJ
+firmou compreensão segundo a qual não cabem embargos de divergência com a finalidade de discutir eventual equívoco quanto ao exame dos requisitos de admissibilidade de recurso especial, tais como aqueles referentes à deficiência de fundamentação, ausência de prequestionamento, ao reexame de provas, à necessidade de interpretação de cláusulas contratuais. (AgRg nos EREsp 1.191.545/RJ, Corte Especial, Rel. Min. Arnaldo Esteves Lima, DJe de 13.9.2012).
+A corroborar esse entendimento, destaca-se:
+É inviável o dissenso interpretativo entre os julgados confrontados quando o paradigma conhece do recurso e adentra o mérito e o acórdão impugnado não ultrapassa o juízo de admissibilidade (AgRg nos EREsp 1104244/PR, Corte Especial, Rel. Min. João Otávio de Noronha, DJe 18/05/2012)
+Ainda que assim não fosse, seria o caso de aplicar a Súmula nº 168/STJ. Ilustrativamente:
+A jurisprudência desta Corte firmou entendimento no sentido de que a decadência, por ser matéria de ordem pública, deve ser declarada a qualquer tempo, inclusive de ofício. Precedentes: (RMS 21.760/RS, Rel. Min. Arnaldo Esteves Lima, Quinta Turma, julgado em 21/08/2007, DJ 01/10/2007, p. 297; RMS 15.893/PA, Rel. Min. Paulo Gallotti, Sexta Turma, julgado em 07/06/2005, DJ 29/08/2005, p. 440; RMS 18.842/MG, Rel. Min. Felix Fischer, Quinta Turma, julgado em 02/06/2005, DJ 01/07/2005, p. 568).(AgInt no RMS 42.388/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 09/08/2016, DJe 18/08/2016)
+Nos termos da jurisprudência do Superior Tribunal de Justiça, "as matérias de ordem pública, tais como prescrição e decadência, podem ser apreciadas a qualquer tempo nas instâncias ordinárias.  .. " (STJ, AgInt no REsp 1.447.224/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 26/02/2018). (AgInt no REsp 1584287/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 15/05/2018, DJe 21/05/2018).
+Entendo, outrossim, que é caso de cisão de julgamento.
+Ante o exposto, no exercício do juízo de retratação, deixo de admitir os embargos de divergência, exceto quanto à alegada divergência com o paradigma da Terceira Turma.
+Publique-se. Intimem-se.
+Redistribua-se o feito para um dos e. Min. integrantes da Segunda Seção, não havendo recurso.
