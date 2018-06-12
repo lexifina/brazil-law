@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por [NOME] e FRANCISCO DE SALES [NOME] contra a decisão de fls. 413/414, que não conheceu do recurso.
+Em suas razões, sustentam as partes Embargantes, em síntese, que "o embargante, no dia 13/04/2018 (DOC_01) às 16:51:41, protocolou petição de juntada com 02 anexos ( Procurações dos Recorrentes DOC_02 e DOC_03), a saber, Procuração do Embargante Sra. [NOME]. Francisco, tudo com o número de controle 2959776 e respectivas Hash"s (DOC_01)" (fls. 419).
+Requerem, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, as partes Recorrentes, no momento da interposição do recurso, não procederam à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do agravo em recurso especial, Dr. [NOME], o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/03/2016, já sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n.º 3 do STJ, "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76, c.c. o art. 932, parágrafo único, ambos do Código de Processo Civil, foram intimadas as partes Recorrentes para regularizarem a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação das partes, não houve a devida regularização, uma vez que a representação não foi devida e oportunamente regularizada, uma vez que ainda persiste a falha na representação processual.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto as partes Embargantes sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
