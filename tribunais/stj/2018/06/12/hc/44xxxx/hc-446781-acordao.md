@@ -1,0 +1,69 @@
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. TRÁFICO DE DROGAS. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REGIME INICIAL. PROGRESSÃO. PEDIDO PREJUDICADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A instância ordinária afastou a incidência da causa especial de redução da pena prevista no § 4º do art. 33 da Lei n. 11.343/2006 em face das circunstâncias apuradas na instrução processual evidenciarem a dedicação do réu em atividade criminosa. A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito.
+3. Quanto ao regime prisional, há notícia nos autos de que no dia 14/12/2017 o paciente foi progredido ao regime semiaberto (fls. 35/36), portanto o presente writ está prejudicado nessa parte.
+Habeas corpus não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de DANILO VITORINO DOS SANTO contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0000338-58.2015.8.26.0580).
+Depreende-se dos autos que o Juízo de primeiro grau condenou o paciente, como incurso no art. 33 da Lei n. 11.343/06 (tráfico de drogas).
+Interposta apelação pela defesa, o Tribunal a quo deu parcial provimento ao recurso e reduziu a pena para 5 anos de reclusão, em regime inicial fechado, nos termos do julgamento assim resumido:
+APELAÇÃO. Tráfico ilícito de entorpecentes. Artigo 33, caput, combinado com o seu §4º, da lei nº 11.343/06. Autoria e materialidade delitivas do delito de tráfico devidamente comprovadas pelo conjunto probatório carreado aos autos. O valor do depoimento testemunhal de servidores policiais, especialmente quando prestado em juízo, sob a garantia do contraditório, reveste-se de inquestionável eficácia probatória. Dosimetria que comporta reparo. A consideração da quantidade de substâncias apreendidas para elevar a pena-base e impedir a aplicação da causa de diminuição de pena prevista no artigo 33, 4º, da lei n. 11.343/06 configura o vedado bis in idem. Mantido o regime inicial fechado, mais adequado ao sentenciado. A primariedade e os bons antecedentes não determinam de forma sistemática a fixação de regime inicial mais brando. Sentença reformada. RECURSO PARCIALMENTE PROVIDO (fl. 16).
+No presente writ, o impetrante alega que o julgamento colegiado impôs constrangimento ilegal ao réu, ao afastar a incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/06, não obstante ele preencher os requisitos legais para tanto. Aduz, ainda fundamentação inidônea quanto à imposição do regime prisional fechado.
+Indeferido o pedido liminar e prestadas as informações pela autoridade coatora, o Ministério Público Federal opinou pelo não conhecimento do mandamus e, subsidiariamente, pela denegação da ordem, nos termos da seguinte ementa:
+HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTORA DO ARTIGO 33, § 4º, DA LEI Nº 11.343/06. FUNDAMENTAÇÃO IDÔNEA. REGIME INICIAL FECHADO. CONCESSÃO DE PROGRESSÃO AO REGIME SEMIABERTO. PERDA SUPERVENIENTE DO OBJETO.
+1. Não é cabível habeas corpus substitutivo de recurso, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, conforme a jurisprudência do Superior Tribunal de Justiça.
+2. Não é cabível a incidência da redutora estabelecida no artigo 33, § 4º, da Lei nº 11.343/06, quando assentado pelas instâncias ordinárias que o condenado dedica-se a atividades criminosas, segundo jurisprudência do Superior Tribunal de Justiça.
+3. Não é possível apreciar pedido de fixação do regime semiaberto quando houver superveniência de decisão no Juízo da Execução que concede ao condenado progressão ao regime semiaberto, por resultar na prejudicialidade da impetração.
+4. Parecer pelo não conhecimento do writ e, no mérito, pela denegação da ordem (fl. 53).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Conforme relatado, a primeira controvérsia diz respeito à incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/06.
+O paciente foi preso em flagrante porque trazia consigo, para fins de comercialização e difusão ilícita a terceiros, aproximadamente 2kg de cocaína e 117,53g de crack, razão pela qual foi condenado por tráfico ilícito de drogas.
+No julgamento da apelação criminal, o Tribunal de origem reduziu-lhe a reprimenda, consignando:
+ ..
+Na etapa inaugural da dosimetria, as penas sofreram incremento de 1/3 (um terço), em razão da elevada quantidade de drogas apreendida. Posteriormente, o mesmo motivo foi utilizado para, na terceira etapa, deixar de aplicar a causa especial de diminuição de pena prevista no artigo 33, §4º, da lei n. 11.343/06. A consideração da quantidade de entorpecentes para aumentar a pena-base e, ao mesmo tempo, justificar a impossibilidade de aplicação do redutor previsto no artigo 33, §4º, da lei 11.343/2006 configura o vedado bis in idem, consoante atual orientação dos Colendos Supremo Tribunal Federal e Superior Tribunal de Justiça:
+ ..
+Em razão do exposto, na esteira dessa orientação, afasto o aumento aplicado na primeira etapa, devolvendo a basilar ao mínimo legal.
+Na segunda etapa, por outro lado, a confissão oferecida pelo apelante não tem o condão de reduzir a pena-base já fixada no mínimo legal a patamar inferior, nos termos da súmula nº 231, do Colendo Superior Tribunal de Justiça.
+Na derradeira etapa, não era mesmo o caso de aplicação do privilégio previsto no artigo 33, §4º, da lei n. 11.343/06, cuja fundamentação exarada pelo douto magistrado não comporta modificação, mormente em razão da elevadíssima quantidade de drogas que, na espécie, é apta a demonstrar a gravidade em concreto da conduta e demonstra dedicação a atividades criminosas. Assim, à míngua de outras modificadoras, torno definitiva a sanção penal em 5 (cinco) anos de reclusão e no pagamento de 500 (quinhentos) dias- multa, no piso legal (fls. 21/23).
+Vê-se, a instância ordinária negou a aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, em face das circunstâncias apuradas na instrução processual, evidenciarem a dedicação do réu em atividades criminosas. A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito.
+A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. RÉU QUE SE DEDICA A ATIVIDADES CRIMINOSAS. ALTERAÇÃO DESSE ENTENDIMENTO. REEXAME DE PROVAS. PENA SUPERIOR A 4 (QUATRO) ANOS DE RECLUSÃO. REGIME INTERMEDIÁRIO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. INVIABILIDADE. FALTA DO PREENCHIMENTO DO REQUISITO OBJETIVO. AUSÊNCIA DE MANIFESTA ILEGALIDADE. WRIT NÃO CONHECIDO.
+ ..
+2. Os requisitos legais para a incidência da causa especial de diminuição de pena do art. 33, § 4º, da Lei de Drogas são agente reconhecidamente primário, com bons antecedentes e que não se dedique a atividades criminosas ou integre organização criminosa.
+3. Concluído pelas instâncias ordinárias, com fulcro nas circunstâncias fáticas do delito e na natureza da droga apreendida, assim como nos demais elementos colhidos na instrução, que o paciente se dedica ao tráfico de drogas, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+ ..
+5. Habeas corpus não conhecido (HC 330.342/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 27/4/2016)
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. NEGATIVA DE APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N.º 11.343/06. BIS IN IDEM. NÃO OCORRÊNCIA. MOTIVOS DIVERSOS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO INCIDÊNCIA. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. CONCLUSÃO DE QUE O PACIENTE DEDICAVA-SE ÀS ATIVIDADES CRIMINOSAS E INTEGRAVA ORGANIZAÇÃO CRIMINOSA. AFERIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. ILEGALIDADE. AUSÊNCIA. NÃO CONHECIMENTO.
+ ..
+2. Concluído pelas instâncias ordinárias, com arrimo nos fatos da causa, que o paciente se dedicava às atividades criminosas e integrava organização criminosa, não incide a causa especial de diminuição de pena, porquanto não preenchidos os requisitos previstos no art. 33, § 4º, da Lei n.º 11.343/06. Para concluir em sentido diverso, há necessidade de revolvimento do acervo fático-probatório, providência incabível na via estreita do habeas corpus.
+ ..
+5. Habeas corpus não conhecido (HC 353.208/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 29/04/2016)
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. PLEITO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. CIRCUNSTÂNCIAS CONCRETAS IDÔNEAS QUE EMBASAM A CONCLUSÃO DE QUE O PACIENTE SE DEDICAVA A ATIVIDADES CRIMINOSAS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.  ..  CONSTRANGIMENTO ILEGAL CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Rever o entendimento externado pela Corte de origem para o fim de aplicar o redutor previsto no § 4º do art. 33 da Lei 11.343/2006 demandaria, necessariamente, o reexame do conjunto fático-probatório, inviável em sede de habeas corpus.
+ ..
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime inicial semiaberto (HC 344.751/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 19/04/2016).
+No que diz respeito ao regime prisional, há notícia nos autos de que no dia 14/12/2017 o paciente foi progredido ao regime semiaberto (fls. 35/36), portanto o presente writ está prejudicado nessa parte.
+No mesmo sentido:
+HABEAS CORPUS. ART. 157, § 2.º, I E II, DO CÓDIGO PENAL. (1) IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA. (2) PENA-BASE. ACRÉSCIMO. MOTIVADO. AUSÊNCIA DE ILEGALIDADE. (3) WRIT PREJUDICADO, EM PARTE, E, NO MAIS, NÃO CONHECIDO.
+ ..
+2. A dosimetria é uma operação lógica, formalmente estruturada, de acordo com o princípio da individualização da pena. Tal procedimento envolve profundo exame das condicionantes fáticas, sendo, em regra, vedado revê-lo em sede de habeas corpus (STF: HC 97677/PR, 1.ª Turma, rel. Min. Cármen Lúcia, 29.9.2009 - Informativo 561, 7 de outubro de 2009. Assim, a dosimetria somente pode ser aferida em sede de habeas corpus quando há ilegalidade patente, o que não se verifica na espécie, uma vez que a pena-base foi exasperada, em razão da existência de elemento concreto, que revela um plus de reprovabilidade na conduta do paciente. Ademais, o paciente foi beneficiado com a progressão para o regime semiaberto.
+3. Habeas corpus prejudicado quanto ao regime inicial de cumprimento da pena e, no mais, não conhecido (HC 266.465/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 24/04/2014).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. CRIME CONTRA O PATRIMÔNIO. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. SUBTRAÇÃO DE OBJETOS NO INTERIOR DE VEÍCULO AUTOMOTOR. CONFIGURAÇÃO DA QUALIFICADORA. PRECEDENTES. PLEITO DE FIXAÇÃO DO REGIME PRISIONAL SEMIABERTO. PREJUDICIALIDADE.
+ ..
+3. Em relação a modificação do cumprimento do regime para semiaberto, extraio dos autos que por decisão proferida em 20/09/11 foi deferido ao sentenciado a progressão ao regime semiaberto, restando prejudicado o pedido.
+4. Habeas corpus não conhecido, por ser substitutivo do recurso cabível. (HC 174.289/SP, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, DJe 23/09/2013)
+HABEAS CORPUS SUBSTITUTO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. REGIME PRISIONAL. ELEVADA QUANTIDADE DE ENTORPECENTES. VALORAÇÃO NEGATIVA NA PRIMEIRA FASE DA DOSIMETRIA DA PENA. CRITÉRIO IDÔNEO PARA A FIXAÇÃO DE REGIME PRISIONAL MAIS GRAVOSO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+6. Por fim, extrai-se das informações prestadas pela autoridade impetrada que os pacientes, em sede de execução provisória da pena, progrediram para o regime semiaberto, razão pela qual, também sob esse aspecto, o eventual direito à fixação do regime inicial semiaberto estaria prejudicado.
+7. Habeas corpus não conhecido.
+(HC 336.900/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/11/2015).
+Ante o exposto, voto pelo não conhecimento do habeas corpus.
