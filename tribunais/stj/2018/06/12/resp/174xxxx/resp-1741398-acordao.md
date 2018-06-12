@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. QUESTÕES RELEVANTES. AUSÊNCIA DE VALORAÇÃO. OMISSÃO CONFIGURADA.
+1. A controvérsia tem por objeto acórdão que extinguiu Execução Fiscal com base no entendimento de que, a despeito da ausência de arquivamento dos autos, a exequente permaneceu inerte por período equivalente a sete (7) anos. 2. Merece transcrição o seguinte excerto do voto condutor (fl. 104, e-STJ): "No caso concreto, a execução fiscal foi ajuizada perante a Justiça Estadual, sendo sua última manifestação um requerimento de vista dos autos em 2003 (fls. 28). Em 05.11.2010, foi proferida decisão declinando da competência para a Justiça Federal (fls. 34). De 2003 a 2010 a Fazenda Nacional manteve-se inerte".
+3. A Fazenda Nacional opôs Embargos de Declaração para apontar omissão relativamente ao fato de que o requerimento de vista, formulado em 2003, não foi apreciado pela autoridade judicial. Acrescentou que o juízo de primeiro grau, sem apreciar o pedido de vista, somente voltou a atuar na demanda em 2010, para determinar a redistribuição dos autos à Justiça Federal. Sustentou, finalmente, que o art. 20 da Lei 11.033/2004 lhe assegurava a intimação pessoal, com vista dos autos, o que não ocorreu.
+4. Conforme se verifica no excerto anteriormente transcrito, os temas não foram valorados no Tribunal de origem, que de forma genérica se limitou a reconhecer que houve "requerimento de vista dos autos em 2003", sem especificar, no entanto, se esse pedido foi deferido, bem como se a intimação da Fazenda credora se deu nos termos legais.
+5. A necessidade de maior aprofundamento da valoração do tema ganha relevância decisiva quando se verifica que, nas contrarrazões do apelo nobre, a parte recorrida contraria a premissa fática da parte adversa, afirmando que o ente público foi intimado para se manifestar nos autos em 18.11.2003 (fl. 158, e-STJ).
+6. Em novo julgamento dos aclaratórios, portanto, caberá à Corte local se manifestar especificamente a respeito dos seguintes pontos: a) se houve apreciação do pedido de vista formulado em 2003 pela Fazenda Nacional; b) se houve intimação regular da parte exequente, nos termos do art. 20 da Lei 11.033/2004, antes da determinação de remessa dos autos, em 2010, para a Justiça Federal.
+7. Recurso Especial parcialmente provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu parcial provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto com fundamento no art. 105, III, "a", da Constituição da República contra acórdão assim ementado:
+APELAÇÃO - EXECUÇÃO FISCAL - PRESCRIÇÃO INTERCORRENTE - RECONHECIMENTO DE OFÍCIO - LEI 11.280/06 - POSSIBILIDADE - AUSÊNCIA DE ARQUIVAMENTO OU SUSPENSÃO DO FEITO - DESNECESSIDADE - PROCESSO PARALISADO POR MAIS DE 05 ANOS POR INÉRCIA DA EXEQUENTE.
+A recorrente alega violação do art. 535 do CPC/1973, do art. 20 da Lei 11.033/2004 e do art. 40 da Lei 6.830/1980.
+Foram apresentadas as contrarrazões.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 17 de maio de 2018.
+A controvérsia tem por objeto acórdão que extinguiu Execução Fiscal com base no entendimento de que, a despeito da ausência de arquivamento dos autos, a exequente permaneceu inerte por período equivalente a sete (7) anos. Transcrevo o seguinte excerto do voto condutor (fl. 104, e-STJ):
+No caso concreto, a execução fiscal foi ajuizada perante a Justiça Estadual, sendo sua última manifestação um requerimento de vista dos autos em 2003 (fls. 28). Em 05.11.2010, foi proferida decisão declinando da competência para a Justiça Federal (fls. 34).
+De 2003 a 2010 a Fazenda Nacional manteve-se inerte.
+Merece acolhida a tese de omissão no julgado.
+A Fazenda Nacional afirma que o requerimento de vista, formulado em 2003, não foi apreciado pela autoridade judicial. Acrescenta que o juízo de primeiro grau, sem apreciar o pedido de vista, somente voltou a atuar na demanda em 2010, para determinar a redistribuição dos autos à Justiça Federal. Sustenta, finalmente, que o art. 20 da Lei 11.033/2004 lhe assegurava a intimação pessoal, com vista dos autos.
+Conforme se verifica no excerto acima transcrito, os temas não foram valorados no Tribunal de origem, que de forma genérica se limita a reconhecer que houve "requerimento de vista dos autos em 2003", sem especificar, no entanto, se esse pedido foi deferido, bem como se a intimação da Fazenda credora se deu nos termos legais.
+A necessidade de maior aprofundamento da valoração do tema ganha relevância decisiva quando se verifica que, nas contrarrazões do apelo nobre, a parte recorrida contraria a premissa fática da parte adversa, afirmando que o ente público foi intimado para se manifestar nos autos em 18.11.2003 (fl. 158, e-STJ).
+Assim, em novo julgamento dos aclaratórios, caberá à Corte local se manifestar especificamente a respeito dos seguintes pontos: a) se houve apreciação do pedido de vista formulado em 2003 pela Fazenda Nacional; b) se houve intimação regular da parte exequente, nos termos do art. 20 da Lei 11.033/2004, antes da determinação de remessa dos autos, em 2010, para a Justiça Federal.
+Com essas considerações, dou parcial provimento ao Recurso Especial.
+É como voto.
