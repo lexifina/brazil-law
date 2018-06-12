@@ -1,0 +1,12 @@
+DECISÃO
+[NOME], ora recorrente, alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2145760-53.2017.8.26.0000.
+Registro que, em consulta processual realizada na página eletrônica desta Corte Superior, verifiquei a impetração do HC n. 418.959/SP, em que também figura como paciente [NOME], que se volta, em tal writ, contra o mesmo ato aqui impugnado (acórdão prolatado no HC n. 2145760-53.2017.8.26.0000) e possui objeto idêntico ao deste recurso (revogação da prisão preventiva ou substituição por cautelares diversas).
+Ademais, observo o mérito do mandamus referido foi julgado pela Sexta Turma desta Corte Superior em 7/5/2018, ocasião em que foi denegada a ordem, em acórdão de minha relatoria, assim ementado:
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. IMPOSIÇÃO DE CAUTELARES MENOS GRAVOSAS. INADEQUAÇÃO E INSUFICIÊNCIA. ORDEM DENEGADA.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. O Juízo singular evidenciou a gravidade concreta da conduta perpetrada - em razão de discussão acerca do pagamento por serviço prestado, o paciente, com a ajuda de seu filho, desferiu golpes de faca contra a vítima, o que ocasionou sua morte. Além disso, o decisum ressaltou que o comportamento agressivo do paciente demonstrava prognóstico de reiteração delitiva, circunstâncias idôneas, nos termos da jurisprudência desta Corte Superior, para justificar a custódia cautelar.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do CPP).
+4. Ordem denegada.
+Desse modo, identifico a superveniente perda do objeto deste recurso, porquanto a matéria aqui suscitada já foi apreciada por esta Corte Superior.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado o recurso em habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
