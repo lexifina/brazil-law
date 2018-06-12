@@ -1,0 +1,68 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA INSIGNIFICÂNCIA. CONTUMÁCIA DELITIVA. INAPLICABILIDADE. DECISÃO MANTIDA.
+I - Esta Corte tem entendimento pacificado no sentido de que não há que se falar em atipicidade material da conduta pela incidência do princípio da insignificância quando não estiverem presentes todos os vetores para sua caracterização, quais sejam: (a) mínima ofensividade da conduta; (b) nenhuma periculosidade social da ação; (c) reduzido grau de reprovabilidade do comportamento, e; (d) inexpressividade da lesão jurídica provocada.
+II - É inaplicável, na hipótese, o denominado princípio da insignificância, tendo em vista que, apesar do pequeno valor da res furtiva, o recorrente é contumaz na prática de delitos patrimoniais.
+III - É descabida a concessão da ordem de habeas corpus, de ofício, como forma de tentar burlar a inadmissão do recurso especial ou de recursos posteriores, se não demonstrados o constrangimento ilegal e a flagrante ilegalidade a que esteja eventualmente submetido o recorrente. In casu, ao contrário, restou sobejamente demonstrado pelas instâncias a não aplicação do denominado princípio da insignificância, dada a contumácia delitiva do ora recorrente.
+Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto por [NOME] contra a decisão de fls. 223-227, de minha lavra, na qual conheci do agravo para negar provimento ao recurso especial.
+Consta dos autos que o MM. Juízo de primeiro grau, com fulcro no art. 395, inciso II, do Código de Processo Penal, rejeitou a denúncia ofertada em desfavor do ora agravante, pela suposta prática do delito previsto no art. 155, caput, do Código Penal (fls. 66-67).
+Irresignado, o Parquet Estadual interpôs recurso em sentido estrito, sendo que o eg. Tribunal a quo, em decisão unânime, deu-lhe provimento, para determinar o prosseguimento da ação penal (fls. 114-120). Eis a ementa do julgado:
+"Recurso em Sentido Estrito - Furto - Princípio da Insignificância - Relevância da conduta aferida ao ser cotejado o valor da res com as condições econômicas da vítima - Não reconhecimento do crime de bagatela.
+O princípio da insignificância traduz a ideia de não dever o Direito Penal ocupar-se de condutas que não importem em lesão minimamente significativa, seja ao titular do bem jurídico tutelado, seja à integridade da própria ordem social. O fato de as coisas subtraídas serem de pequeno valor comercial não implica necessariamente que seu proceder seja insignificante ao mundo jurídico, mesmo porque impende cotejar o valor da res com as condições econômicas de cada vítima. Eventual aplicação do princípio da insignificância acarretará a exclusão ou o afastamento da própria tipicidade penal, sendo necessária a seu reconhecimento a presença concomitante dos seguintes requisitos: (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de periculosidade do comportamento e (d) a inexpressividade da lesão jurídica provocada."
+Sobreveio recurso especial, interposto com fundamento no art. 105, inciso III, alínea a, do permissivo constitucional, no qual a Defesa sustentou violação aos arts. 1º, caput, e 155, caput, ambos do Código Penal, e ao art. 395, inciso III, do Código de Processo Penal. Para tanto, argumentou que:
+a) " ..  não há como se compreender o real alcance de determinado bem jurídico tutelado sem levar em consideração a potencialidade lesiva da conduta do agente" (fl. 133);
+b) "no caso dos autos, o valor dos bens é ínfimo" (fl. 135).
+O eg. Tribunal de origem inadmitiu o apelo nobre com fundamento na Súmula n. 7/STJ e na Súmula n. 284/STF (fls. 162-163).
+No respectivo agravo, repisam-se os fundamentos apresentados em sede de recurso especial e refuta-se os argumentos expendidos para negar-lhe trânsito (fls. 299-305). Alegou que não incidiria a Súmula n. 284/STF, pois "no Recurso Especial interposto às fls. 105/115, houve breve relato dos fatos foi feito sem item 1 "do histórico processual e do cabimento recursal"" (fl. 173). Disse, outrossim, que não se aplica o óbice da Súmula n. 7/STJ, ao argumento de que não pretende a discussão de fatos e provas dos autos.
+O Ministério Público Federal, em seu d. parecer, manifestou-se pelo desprovimento do agravo (fls. 208-220).
+Em decisão de fls. 223-227, conheci do agravo para negar provimento ao recurso especial. Confira-se, a propósito, a ementa do decisum:
+"PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. CONTUMÁCIA DELITIVA. INAPLICABILIDADE. PRECEDENTES. SÚMULA N. 568/STJ. INCIDÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL."
+Daí a interposição do presente agravo regimental, no qual alega o recorrente, em síntese, que:
+a) " ..  a aplicação do princípio da insignificância recai sobre o elemento típico da conduta, diante da inexpressividade econômica dos bens subtraídos. Não haveria a realização da conduta típica de subtração de bens, já que esses não teriam valor suficiente para caracterizar o furto" (fl. 235);
+b) "a circunstância de ser o recorrente reincidente, aspecto concernente à sua culpabilidade, em nada altera a situação de não realização da conduta típica em razão do pouco valor dos bens furtados e da ausência de lesividade da conduta" (fl. 235);
+c) requer, por fim, "a concessão de ordem de habeas corpus de ofício no sentido de reconhecer a atipicidade da conduta praticada" (fl. 237).
+Pugna, ao final, pela apresentação do recurso ao colegiado.
+Por manter o decisum, trago o feito para apreciação da eg. Turma.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA INSIGNIFICÂNCIA. CONTUMÁCIA DELITIVA. INAPLICABILIDADE. DECISÃO MANTIDA.
+I - Esta Corte tem entendimento pacificado no sentido de que não há que se falar em atipicidade material da conduta pela incidência do princípio da insignificância quando não estiverem presentes todos os vetores para sua caracterização, quais sejam: (a) mínima ofensividade da conduta; (b) nenhuma periculosidade social da ação; (c) reduzido grau de reprovabilidade do comportamento, e; (d) inexpressividade da lesão jurídica provocada.
+II - É inaplicável, na hipótese, o denominado princípio da insignificância, tendo em vista que, apesar do pequeno valor da res furtiva, o recorrente é contumaz na prática de delitos patrimoniais.
+III - É descabida a concessão da ordem de habeas corpus, de ofício, como forma de tentar burlar a inadmissão do recurso especial ou de recursos posteriores, se não demonstrados o constrangimento ilegal e a flagrante ilegalidade a que esteja eventualmente submetido o recorrente. In casu, ao contrário, restou sobejamente demonstrado pelas instâncias a não aplicação do denominado princípio da insignificância, dada a contumácia delitiva do ora recorrente.
+Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: Nas razões do presente agravo regimental busca a defesa, em síntese, seja aplicado o princípio da insignificância.
+Inicialmente, no que concerne ao pleito de aplicação do princípio da insignificância, a insurgência não merece prosperar, devendo ser mantida a decisão ora objurgada por seus próprios fundamentos.
+Como dito no decisum objurgado, esta Corte tem entendimento pacificado no sentido de que não se há falar em atipicidade material da conduta pela incidência do princípio da insignificância quando não estiverem presentes todos os vetores para sua caracterização, quais sejam: (a) mínima ofensividade da conduta; (b) nenhuma periculosidade social da ação; (c) reduzido grau de reprovabilidade do comportamento, e; (d) inexpressividade da lesão jurídica provocada.
+Na linha da jurisprudência do eg. Supremo Tribunal Federal (HC n. 101.998/MG, Rel. Min. Dias Toffoli, DJe de 31/3/2011 e HC n. 103.359/RS/MG, Relª. Ministra Cármen Lúcia, DJe de 22/3/2011) e desta eg. Corte (HC n. 143.304/DF, Relª. Ministra Laurita Vaz, DJe 4/5/2011 e HC n. 182.754/MG, Rel. Min. Jorge Mussi, DJe de 27/5/2011), a alegação de pequeno valor da res furtiva, por si só, não se revela suficiente para o reconhecimento do crime de bagatela. Nessa linha, deve-se observar, também, as peculiaridades do caso concreto e as características do autor.
+In casu, verifica-se que, de fato,apesar de ser de pequeno valor a res furtiva,  03 (três) kits de narguilé, da marca "Hookah", avaliados em R$ 60,00 (sessenta reais)  , mostra-se incompatível com o princípio da insignificância a conduta ora examinada pelas razões explicitadas no v. acórdão objurgado, que demonstra que o ora agravante é contumaz na prática de delitos patrimoniais  , conforme consta dos autos.
+Sobre a quaestio, confira-se trechos do acórdão recorrido:
+"Apesar de o valor total dos bens furtados ser, de fato, reduzido (R$ 60,00), a conduta do agente, que ostenta envolvimentos anteriores em delitos contra o patrimônio (conforme fls. 19/42), corresponde a comportamento reprovável e revela ainda certa periculosidade social. Conforme muito bem ponderado em sede de razões recursais:
+ .. " (fls. 114-120, grifei).
+Como bem observado pelo d. representante do Parquet Federal, em seu d. parecer: "no caso sob exame, como já dito, ao afastar o princípio despenalizante, o v. acórdão fez referência à folha de antecedentes do Recorrente, registrando que "Apesar de o valor total dos bens furtados ser, de fato, reduzido (R$ 60,00), a conduta do agente, que ostenta envolvimentos anteriores em delitos contra o patrimônio (conforme fls. 19/42), corresponde a comportamento reprovável e revela ainda certa periculosidade social. Conforme muito bem ponderado em sede de razões recursais" (e-STJ. 120) - Grifo nosso - sendo impossível aplicar-se o princípio da bagatela" (fl. 220).
+Nesse sentido, e em reforço:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. REINCIDÊNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas do caso, o que não se infere na hipótese em apreço, máxime por se tratar de réu reincidente. Precedentes.
+2. Agravo regimental não provido." (AgRg no AREsp n. 1.040.868/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 18/8/2017, grifei).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. MULTIRREINCIDÊNCIA ESPECÍFICA. NÃO INCIDÊNCIA DO PRINCÍPIO BAGATELAR.
+1. Não se aplica a insignificância em crimes de furto, como ocorre na espécie, quando o autor do delito, não somente seja reincidente específico, mas quando tem também reiterados envolvimentos em delitos deste jaez.
+2. Agravo regimental improvido." (AgRg no REsp n. 1.1.683.320/RS, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 18/8/2017, grifei).
+"PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. RES FURTIVA. VALOR NÃO IRRISÓRIO. REINCIDÊNCIA. INAPLICABILIDADE.
+ ..
+II - Ademais, na linha da jurisprudência desta eg. Corte, ressalvado o meu entendimento pessoal, mostra-se incompatível com o princípio da insignificância a conduta ora examinada, haja vista que o agravante é reincidente (precedentes).
+Agravo regimental não provido." (AgRgt no REsp n. 1.683.364/MG, Quinta Turma, de minha lavra, DJe de 25/9/2017, grifei).
+Assim, considerando que o decisum reprochado está em conformidade com a jurisprudência desta Corte Superior de Justiça acerca do tema, deve ser mantida, in casu, a aplicação da Súmula n. 568/STJ, que assim dispõe, verbis:
+"O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Por fim, no que se refere ao pleito de concessão da ordem de habeas corpus, de ofício, no sentido de se "reconhecer a atipicidade da conduta praticada" (fl. 237), de igual modo, constata-se que o pleito não merece prosperar.
+Isso porque, na linha da jurisprudência desta Corte Superior de Justiça, não se admite a concessão de habeas corpus, de ofício, como forma de burlar a inadmissão de recurso especial ou de seus posteriores recursos, ante a inexistência de constrangimento ilegal ou de flagrante ilegalidade, pois o que se tem nos autos é a impossibilidade de aplicação do denominado princípio da insignificância, dada a contumácia delitiva do recorrente, em delitos patrimoniais.
+Nessa linha:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE. NÚMERO DE MAJORANTES. SÚMULA N. 443/STJ. GRAVIDADE CONCRETA. AGRAVO DESPROVIDO.
+1. "É descabido postular a concessão da ordem de habeas corpus de ofício, como forma de tentar burlar a inadmissão do recurso especial." (EDcl no AgRg no AREsp 794.247/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/03/2016, Dje 14/03/2016).
+ ..
+4. Agravo regimental desprovido" (AgRg no REsp 1.688.359/TO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 27/11/2017 - grifei).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
