@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROMERO EVANDRO CARVALHO, com fundamento no art. 105, inc. III, alíneas "a" e "c", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO REGIMENTAL. Agravo de Instrumento. Ação civil pública. Execução individual de título judicial. Interposição contra decisão monocrática que julgou agravo de instrumento. Inteligência do art. 557 do CPC que autoriza ao Desembargador Relator o julgamento de plano de recurso que esteja em conformidade com entendimento dominante na Câmara. Mantença da rejeição das teses levantadas pelo ora agravante. Decisão monocrática que não merece reparo, devendo ser mantida por seus próprios e jurídicos fundamentos. Recurso desprovido" (e-STJ fl. 281).
+No especial, além da divergência jurisprudencial, o recorrente alega violação dos arts. 219 do Código de Processo Civil/1973 e 405 do Código Civil. Sustenta, em síntese, que o termo inicial de incidência dos juros de mora se conta a partir da citação do válida no processo de conhecimento (ação civil pública).
+Apresentadas as contrarrazões (e-STJ fls. 302/307).
+O recurso foi admitido na origem (e-STJ fls. 308/310).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece acolhida.
+Eis a letra do acórdão transcrita no que interessa à espécie:
+"(..) necessária a reforma da decisão hostilizada quanto ao termo inicial dos juros moratórios, a fim de que sejam calculados a partir da citação do executado para o presente cumprimento de sentença" (e-STJ fl. 268).
+O acórdão recorrido destoa do entendimento firmado por esta Corte Superior, por ocasião do julgamento do REsp nº 1.361.800/SP, proferido sob o rito do art. 543-C do CPC, segundo o qual a contagem dos juros de mora se dá partir da citação do devedor na fase de conhecimento da ação civil pública, quando esta se fundar em responsabilidade contratual, salvo a configuração da mora em momento anterior.
+Eis a ementado do aludido aresto:
+"AÇÃO CIVIL PÚBLICA - CADERNETA DE POUPANÇA - PLANOS ECONÔMICOS - EXECUÇÃO - JUROS MORATÓRIOS A PARTIR DA DATA DA CITAÇÃO PARA A AÇÃO COLETIVA - VALIDADE - PRETENSÃO A CONTAGEM DESDE A DATA DE CADA CITAÇÃO PARA CADA EXECUÇÃO INDIVIDUAL - RECURSO ESPECIAL IMPROVIDO.
+1.- Admite-se, no sistema de julgamento de Recursos Repetitivos (CPC, art. 543-C, e Resolução STJ 08/98), a definição de tese uniforme, para casos idênticos, da mesma natureza, estabelecendo as mesmas consequências jurídicas, como ocorre relativamente à data de início da fluência de juros moratórios incidentes sobre indenização por perdas em Cadernetas de Poupança, em decorrência de Planos Econômicos.
+2.- A sentença de procedência da Ação Civil Pública de natureza condenatória, condenando o estabelecimento bancário depositário de Cadernetas de Poupança a indenizar perdas decorrentes de Planos Econômicos, estabelece os limites da obrigação, cujo cumprimento, relativamente a cada um dos titulares individuais das contas bancárias, visa tão-somente a adequar a condenação a idênticas situações jurídicas específicas, não interferindo, portando, na data de início da incidência de juros moratórios, que correm a partir da data da citação para a Ação Civil Pública.
+3.- Dispositivos legais que visam à facilitação da defesa de direitos individuais homogêneos, propiciada pelos instrumentos de tutela coletiva, inclusive assegurando a execução individual de condenação em Ação Coletiva, não podem ser interpretados em prejuízo da realização material desses direitos e, ainda, em detrimento da própria finalidade da Ação Coletiva, que é prescindir do ajuizamento individual, e contra a confiança na efetividade da Ação Civil Pública, O que levaria ao incentivo à opção pelo ajuizamento individual e pela judicialização multitudinária, que é de rigor evitar.
+3.- Para fins de julgamento de Recurso Representativo de Controvérsia (CPC, art. 543-C, com a redação dada pela Lei 11.418, de 19.12.2006), declara-se consolidada a tese seguinte: "Os juros de mora incidem a partir da citação do devedor na fase de conhecimento da Ação Civil Pública, quando esta se fundar em responsabilidade contratual, se que haja configuração da mora em momento anterior."
+4.- Recurso Especial improvido" (REsp nº 1.361.800/SP, Corte Especial, Relator o Ministro Raul Araújo, Rel. p/ acórdão Ministro Sidnei Beneti, DJe de 14/10/2014 - grifou-se).
+Ante o exposto, dou provimento ao recurso especial para que juros moratórios tenham incidência desde a citação na ação civil pública.
+Publique-se.
+Intimem-se.
