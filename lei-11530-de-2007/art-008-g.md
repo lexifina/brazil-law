@@ -1,0 +1,1 @@
+Art. 8º-G. A percepção dos auxílios financeiros previstos por esta Lei não implica filiação do beneficiário ao Regime Geral de Previdência Social de que tratam as Leis nos 8.212 e 8.213, ambas de 24 de julho de 1991.
