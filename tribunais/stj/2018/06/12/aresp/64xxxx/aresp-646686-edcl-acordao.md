@@ -1,0 +1,65 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE DESPROVEU O RECLAMO.
+INSURGÊNCIA DA AGRAVANTE.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Inexistindo quaisquer das máculas previstas no aludido dispositivo, não há razão para modificar a decisão impugnada. Precedentes.
+3. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+ O EXMO SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de embargos de declaração, opostos por FUNDAÇÃO CODESC DE SEGURIDADE SOCIAL contra o acórdão de fl. 272, e-STJ, de relatoria deste signatário, que desproveu o agravo interno interposto pela insurgente.
+O aresto em questão está assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA AGRAVANTE/RÉ.
+1. Na situação em análise, não se configuram as alegadas omissões no acórdão atacado, pois a improcedência da impugnação à execução foi devidamente fundamentada, de modo que não se viabiliza o recurso especial pela alegada violação do art. 535 do CPC/1973.
+2. Inarredável o óbice da Súmula n. 7/STJ, quanto à alegada imprescindibilidade da perícia atuarial, como pretendido pela agravante, tendo em vista que a Corte de origem atestou a suficiência do laudo contábil para fins de apuração do cálculos devidos.
+3. Nos termos do que ficou decidido pela Segunda Seção no REsp 1.345.326/RS, fica caracterizado o cerceamento de defesa, quando indeferida a realização da perícia atuarial, na fase de conhecimento, por ser ela indispensável à demonstração de eventual desequilíbrio atuarial do plano de custeio, nos termos do art. 23 da Lei Complementar n.
+109/2001, situação diversa da que trata os autos em análise, pois já em sede de impugnação ao cumprimento de sentença.
+4. Agravo interno desprovido.
+O acórdão deste órgão fracionário desproveu o agravo interno, ante a incidência das Súmulas 7 e 83 do STJ e por ausência de negativa de prestação jurisdicional.
+Irresignada, a insurgente opôs embargos de declaração (fls. 276/282, e-STJ), apontando a existência de omissão no julgado porquanto não analisou os fundamentos que ensejaram a impugnação aos cálculos apresentados pela parte autora em sede de cumprimento de sentença.
+Impugnação às fls. 286/291, e-STJ, alertando não poder discutir-se matérias atinentes ao processo de conhecimento já transitado em julgado.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE DESPROVEU O RECLAMO.
+INSURGÊNCIA DA AGRAVANTE.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Inexistindo quaisquer das máculas previstas no aludido dispositivo, não há razão para modificar a decisão impugnada. Precedentes.
+3. Embargos de declaração rejeitados.
+
+VOTO
+ O EXMO SR. MINISTRO MARCO BUZZI (Relator): Os embargos de declaração não merecem acolhimento, visto que a embargante não demonstrou a existência de nenhum vício a macular o julgado, possuindo o recurso nítido caráter infringente.
+1. Nos estreitos lindes do artigo 1.022 do Código de Processo Civil de 2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretendem os embargantes.
+Nesse sentido, precedentes desta Corte:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso. 2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.  ..  4. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 860.920/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/06/2016, DJe 07/06/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO OPOSTOS SOB A ÉGIDE DO CPC/2015. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE MATÉRIA JÁ DECIDIDA. NÃO CABIMENTO. CORREÇÃO DE VÍCIO FORMAL. ENUNCIADO ADMINISTRATIVO N. 5/STJ.  ..  2. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015. 3. Os embargos de declaração não se prestam para provocar o reexame de matéria já apreciada. 4. Primeiros embargos de declaração rejeitados. Segundos embargos de declaração não conhecidos. (EDcl no AgRg no AREsp 799.126/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 02/06/2016, DJe 09/06/2016)  grifou-se
+Na hipótese dos autos, o acórdão embargado desproveu o agravo interno da insurgente, mantendo a decisão singular que aplicou os óbices das Súmulas 7 e 83 do STJ, de forma clara e fundamentada, sem omissões ou contradições, bem como por inexistir ofensa ao art. 535 do CPC/73.
+É o que se observa no seguinte excerto do acórdão recorrido:
+1. Com efeito, não se vislumbram as alegadas omissões no acórdão atacado, no sentido de que "impugnações pontuais" não foram atendidas pelo Superior Tribunal de Justiça julgado.
+Isso porque da leitura dos autos, depreende-se que a questão foi claramente tratada, na medida em que o acórdão esclareceu o motivo pelo qual a impugnação aos cálculos foi indeferida, confira-se (fl. 88, e-STJ):
+Ignorando o comando judicial, a agravante apresentou os cálculos de fls.
+31/46, dos autos de impugnação à execução de sentença, todos obviamente em série e inclinados a induzir o magistrado em erro, já que no cálculo é possível visualizar a coluna "Valor da UPF antes da aplicação dos expurgos" e "Valor da UPF depois da substituição dos expurgos", gerando um valor muito aquém daquele apresentado pelo agravado.
+Assim, diante do cálculo procedido de forma incorreta, tenho que a impugnação e irresignação do cálculo apresentado pelo agravado foi feito de forma genérica e não contundente, devendo, então, prevalecer o cálculo de fls. 407/411.
+Ademais, não se deve tolerar a impugnação genérica dos cálculos apresentados pelo agravado, pois trata-se de comodismo inaceitável, além de total desrespeito ao artigo 333, II, do CPC.
+E em reforço, ainda quando do julgamento dos aclaratórios opostos, a Corte local bem apreciou a causa, se posicionando nos seguintes termos (fls. 106-107, e-STJ):
+Ab initio, aponto que não há omissão em relação a análise dos cálculos elaborados pela exequente, uma vez que às fls. 80 do acórdão atacado, verifica-se que referidos cálculos foram submetidos à análise, de modo que a decisão atacada teve o seguinte teor, verbis:
+ ..  Logo, foi efetivamente explicitado à embargante que correta estava a decisão atacada, de modo que não havia como acolher sua pretensão, uma vez que o cálculo apresentado por ela foi feito de forma genérica, de modo que devem prevalecer os cálculos de fls. 407/411.
+No que tange aos limites da coisa julgada, verifica-se que assim manifestou-se a decisão atacada:
+"Com efeito, infere-se dos autos que a agravante foi condenada a aplicar nos valores vertidos em benefício da recorrida a correção monetária com base nos expurgos inflacionários, decisão que foi atacada sucessivamente por meio recursal, sem, contudo, obter êxito, de modo que se manteve inalterado o provimento exarado pelo Juízo de primeiro grau." (fls. 82) (grifou-se) Por fim, no tocante a ausência de análise da necessidade ou não da participação de um perito atuarial, restou satisfatoriamente demonstrado à embargante a desnecessidade de socorrer-se de um perito atuarial, uma vez que, no caso dos autos, trata-se de simples cálculo aritmético, senão vejamos:
+"Sabe-se que o perito deve assistir o julgador quando a prova depender de conhecimentos técnicos especiais, e a escolha é feita pelo próprio Magistrado, entre profissionais de nível universitário devidamente inscritos no órgão de classe competente, salvo se estes não existirem na localidade, hipótese em que o Juiz escolhe livremente o perito. (fls. 83/84) (..) No caso dos autos, como já mencionado, a ação ajuizada pela parte agravada, já em fase de cumprimento de sentença, foi julgada procedente para condenar a agravante ao pagamento das diferenças da atualização monetária relativa aos expurgos inflacionários.
+Logo, a perda de índices de correção monetária e expurgos inflacionários já determinados na sentença exequenda é questão que dispensa maiores labores, de modo que, por se tratar de simples cálculo aritmético, torna-se desnecessário socorrer-se de um perito atuarial." (fls. 84) (grifou-se) Nesse compasso, de fato, não se verificam omissões no acórdão atacado.
+2. Da mesma forma, inarredável o óbice da Súmula n. 7/STJ, quanto à alegada imprescindibilidade da perícia atuarial, como pretendido pela agravante.
+O Tribunal local entendeu pela dispensabilidade da perícia atuarial, ante a suficiência dos cálculos contábeis realizados.
+Assim sendo, para afastar tal entendimento, de modo a acolher a pretensão da agravante, é imprescindível a reanálise dos fatos da causa, o que não admite nesta via extraordinária.
+(..)
+Ainda na esteira do que já foi decidido, vale ressaltar que a situação em análise não se equipara à caracterização de cerceamento de defesa, quando indeferida a perícia atuarial, na fase de conhecimento, por ser ela indispensável à demonstração de eventual desequilíbrio atuarial do plano de custeio, nos termos do art. 23 da Lei Complementar n. 109/2001, nos termos do que ficou decidido pela Segunda Seção no REsp 1.345.326/RS.
+A situação dos autos trata unicamente de cálculos apresentados na Impugnação à Execução de Sentença, não havendo, portanto, que se falar no aventado cerceamento. (fls. 268/270, e-STJ)
+Na hipótese em foco, o decisum não possui qualquer vício a ser sanado por meio de embargos de declaração, visto que esta eg. Quarta Turma decidiu a controvérsia com base no entendimento adotado no âmbito desta Corte, sendo clara na sustentação das razões do desprovimento do agravo interno interposto.
+Nota-se que a embargante pretende, na verdade, que a Turma reveja o decisum, cuja pretensão não está em harmonia com a natureza e a função dos embargos declaratórios, não demonstrando, em suas razões recursais, qualquer omissão, contradição ou obscuridade que a decisão embargada tenha incorrido.
+Diante disso, por inexistir qualquer das máculas prevista no artigo 1.022 do CPC/15, não há razão para modificar o decisum embargado.
+2. Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/2015, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+3. Do exposto, rejeitam-se os presentes embargos de declaração.
+É como voto.
