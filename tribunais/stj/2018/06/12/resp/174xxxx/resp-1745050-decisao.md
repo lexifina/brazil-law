@@ -1,0 +1,36 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, contra acórdão prolatado, por unanimidade, pela 7ª Turma do Tribunal Regional Federal da 1ª Região, assim ementado (fl. 219e):
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A FOLHA DE SALÁRIOS. NÃO INCIDÊNCIA. AVISO PRÉVIO INDENIZADO. 13º SALÁRIO PROPORCIONAL. INCIDÊNCIA. HORAS EXTRAS. ADICIONAIS DE PERICULOSIDADE, INSALUBRIDADE E NOTURNO. COMPENSAÇÃO.
+1. No julgamento do REsp 1.230.957/RS, sob a sistemática dos recursos repetitivos, art. 543-C do CPC/1973, o egrégio Superior Tribunal de Justiça reconheceu a inexigibilidade da contribuição social previdenciária sobre aviso prévio indenizado.
+2. Sobre os valores relativos às horas extras e adicionais noturno, de insalubridade e de periculosidade, cumpre destacar que o egrégio Superior Tribunal de Justiça, em julgamento sob o regime do art. 543-C do CPC/1973 (Recursos Repetitivos) decidiu pelo reconhecimento da incidência da contribuição previdenciária sobre tais verbas, entendendo que: "Os adicionais noturno e de periculosidade, as horas extras e seu respectivo adicional constituem verbas de natureza remuneratória, razão pela qual se sujeitam à incidência de contribuição previdenciária (..). 9. Recurso Especial parcialmente conhecido e, nessa parte, não provido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 8/2008." (REsp 1358281/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 23/04/2014, DJe 05/12/2014).
+3. Possibilidade de compensação somente com contribuições destinadas ao custeio da Seguridade Social, nos termos da Lei nº 11.457/07, art. 26, parágrafo único.
+4. Deve incidir a Taxa SELIC, aplicável a partir de 01/01/1996, excluindo-se qualquer índice de correção monetária ou juros de mora (art. 39, § 4º, da Lei nº 9.250/95).
+5. Apelações e remessa oficial não providas.
+Opostos embargos de declaração, foram rejeitados.
+Com amparo no art. 105, III, a, da Constituição da República, a FAZENDA NACIONAL aponta ofensa a dispositivos, alegando, em síntese, omissão e a exigibilidade da contribuição previdenciária patronal sobre o 13º proporcional ao aviso prévio indenizado.
+Com contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+ii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Esta Corte adota o entendimento segundo o qual incide contribuição previdenciária sobre o 13º salário proporcional pago em decorrência da dispensa do cumprimento do aviso prévio (indenizado), porquanto tal verba integra o salário de contribuição.
+Nessa linha:
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL. INCIDÊNCIA.
+1. "Embora o Superior Tribunal de Justiça tenha consolidado jurisprudência no sentido de que não incide contribuição previdenciária sobre os valores pagos a título de aviso prévio indenizado, por não se tratar de verba salarial, relativamente à incidência da exação sobre o décimo terceiro salário proporcional no aviso prévio indenizado, prevalece o entendimento firmado em sede de recurso repetitivo, de que o décimo terceiro salário (gratificação natalina) integra o salário de contribuição para fins de incidência de contribuição previdenciária"(AgRg nos EDcl nos EDcl no REsp 1379550/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 13/04/2015).
+2. Recurso Especial provido.
+(REsp 1529155/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/06/2015, DJe 06/08/2015);
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. AVISO PRÉVIO INDENIZADO. NÃO INCIDÊNCIA. DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. DECISÃO MONOCRÁTICA. INAPTIDÃO.
+1. Embora o Superior Tribunal de Justiça tenha consolidado jurisprudência no sentido de que não incide contribuição previdenciária sobre os valores pagos a título de aviso prévio indenizado, por não se tratar de verba salarial, relativamente à incidência da exação sobre o décimo terceiro salário proporcional no aviso prévio indenizado, prevalece o entendimento firmado em sede de recurso repetitivo, de que o décimo terceiro salário (gratificação natalina) integra o salário de contribuição para fins de incidência de contribuição previdenciária.
+2. Decisões monocráticas trazidas como paradigmas na divergência jurisprudencial invocada se mostram imprestáveis à caracterização do dissídio, nos termos dos arts. 546, inciso I, do Código de Processo Civil, 266 do Regimento Interno do Superior Tribunal de Justiça e 105, inciso III, alínea "c", da Constituição Federal.
+Agravo regimental improvido.
+(AgRg nos EDcl nos EDcl no REsp 1379550/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 07/04/2015, DJe 13/04/2015).
+PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO AOS ARTS. 458 E 535 DO CPC. INOCORRÊNCIA. CONTRIBUIÇÃO PREVIDENCIÁRIA. 13º PAGO EM DECORRÊNCIA DO CUMPRIMENTO DO AVISO PRÉVIO INDENIZADO. INCIDÊNCIA.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - Incide contribuição previdenciária sobre o 13º salário proporcional pago em decorrência da dispensa do cumprimento do aviso prévio (indenizado), porquanto tal verba integra o salário de contribuição.
+III - Recurso especial parcialmente provido.
+(REsp 1531412/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 20/10/2015, DJe 17/12/2015)
+Isto posto, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial da FAZENDA NACIONAL, para reconhecer a incidência da contribuição previdenciária sobre o 13º salário proporcional pago em decorrência da dispensa do cumprimento do aviso prévio (indenizado).
+Publique-se. Intime-se.
