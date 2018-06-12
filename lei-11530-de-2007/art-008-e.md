@@ -1,0 +1,16 @@
+Art. 8º-E. O projeto Bolsa-Formação é destinado à qualificação profissional dos integrantes das Carreiras já existentes das polícias militar e civil, do corpo de bombeiros, dos agentes penitenciários, dos agentes carcerários e dos peritos, contribuindo com a valorização desses profissionais e conseqüente benefício da sociedade brasileira.
+§ 1º Para aderir ao projeto Bolsa-Formação, o ente federativo deverá aceitar as seguintes condições, sem prejuízo do disposto no art. 6º desta Lei, na legislação aplicável e do pactuado no respectivo instrumento de cooperação:
+I - viabilização de amplo acesso a todos os policiais militares e civis, bombeiros, agentes penitenciários, agentes carcerários e peritos que demonstrarem interesse nos cursos de qualificação;
+II - instituição e manutenção de programas de polícia comunitária; e
+III - garantia de remuneração mensal pessoal não inferior a R$ 1.300,00 (mil e trezentos reais) aos membros das corporações indicadas no inciso I deste parágrafo, até 2012.
+§ 2º Os instrumentos de cooperação não poderão ter prazo de duração superior a 5 (cinco) anos.
+§ 3º O beneficiário policial civil ou militar, bombeiro, agente penitenciário, agente carcerário e perito dos Estados-membros que tiver aderido ao instrumento de cooperação receberá um valor referente à Bolsa-Formação, de acordo com o previsto em regulamento, desde que:
+I - freqüente, a cada 12 (doze) meses, ao menos um dos cursos oferecidos ou reconhecidos pelos órgãos do Ministério da Justiça, nos termos dos §§ 4º a 7º deste artigo;
+II - não tenha cometido nem sido condenado pela prática de infração administrativa grave ou não possua condenação penal nos últimos 5 (cinco) anos; e
+III - não perceba remuneração mensal superior ao limite estabelecido em regulamento.
+§ 4º A Secretaria Nacional de Segurança Pública do Ministério da Justiça será responsável pelo oferecimento e reconhecimento dos cursos destinados aos peritos e aos policiais militares e civis, bem como aos bombeiros.
+§ 5º O Departamento Penitenciário Nacional do Ministério da Justiça será responsável pelo oferecimento e reconhecimento dos cursos destinados aos agentes penitenciários e agentes carcerários.
+§ 6º Serão dispensados do cumprimento do requisito indicado no inciso I do § 3º deste artigo os beneficiários que tiverem obtido aprovação em curso de especialização reconhecido pela Secretaria Nacional de Segurança Pública ou pelo Departamento Penitenciário Nacional do Ministério da Justiça.
+§ 7º O pagamento do valor referente à Bolsa-Formação será devido a partir do mês subseqüente ao da homologação do requerimento pela Secretaria Nacional de Segurança Pública ou pelo Departamento Penitenciário Nacional, de acordo com a natureza do cargo exercido pelo requerente.
+§ 8º Os requisitos previstos nos incisos I a III do § 3º deste artigo deverão ser verificados conforme o estabelecido em regulamento.
+§ 9º Observadas as dotações orçamentárias do projeto, fica autorizada a inclusão dos guardas civis municipais e dos agentes de trânsito, enquadrados nos limites inferior e superior de remuneração definidos nas normas de concessão da Bolsa-Formação, como beneficiários do projeto, mediante o instrumento de cooperação federativa de que trata o art. 5º desta Lei, observadas as demais condições previstas em regulamento.
