@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. FUNDAMENTOS NÃO INFIRMADOS. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não há ofensa ao princípio da colegialidade diante da existência de previsão legal e regimental para que o relator julgue, monocraticamente, o agravo em recurso especial quando constatar as hipóteses descritas no art. 932, VIII, do Código de Processo Civil, c/c o art. 253, parágrafo único, II, "a", do RISTJ, situação ocorrida nos autos.
+2. Embora as agravantes reiterem os argumentos trazidos no seu recurso especial, não impugnam, de modo concreto, a aplicação do óbice da Súmula n. 284 do STF.
+3. Não demonstrada a suficiência dos argumentos do recurso especial, incide a Súmula n. 182 do STJ, a impedir o conhecimento do agravo regimental.
+4. Agravo regimental não conhecido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro e Sebastião Reis Júnior votaram com o Sr. Ministro Relator. Ausente, justificadamente, a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MAGNA OLIVEIRA DE ANDRADE, [NOME] e MARCIA ALVES DE OLIVEIRA SANTOS agravam de decisão em que conheci do agravo para negar seguimento ao recurso especial.
+No agravo regimental, alegam que, "No caso em tela, o Ministro Relator, de imediato, proferiu decisão acerca do mérito do recurso, de forma monocrática, contrariando, assim, preceito legal explícito, o que significa, em última análise, a supressão da instância jurisdicional natural para a apreciação da matéria, que é o órgão julgador, e não o decisor singular" (fl. 382).
+Sustenta a defesa que "nada impede sejam as apenadas beneficiadas com o SURSIS  ..  Não há, portanto, motivo algum para que o agravante seja submetido a situação mais gravosa, impondo-se a reforma do acórdão impugnado também neste ponto" (fl. 383).
+Pugna pela reconsideração da decisão agravada ou pela submissão do feito ao órgão colegiado, para que seja provido o agravo em recurso especial.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. FUNDAMENTOS NÃO INFIRMADOS. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não há ofensa ao princípio da colegialidade diante da existência de previsão legal e regimental para que o relator julgue, monocraticamente, o agravo em recurso especial quando constatar as hipóteses descritas no art. 932, VIII, do Código de Processo Civil, c/c o art. 253, parágrafo único, II, "a", do RISTJ, situação ocorrida nos autos.
+2. Embora as agravantes reiterem os argumentos trazidos no seu recurso especial, não impugnam, de modo concreto, a aplicação do óbice da Súmula n. 284 do STF.
+3. Não demonstrada a suficiência dos argumentos do recurso especial, incide a Súmula n. 182 do STJ, a impedir o conhecimento do agravo regimental.
+4. Agravo regimental não conhecido.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos expendidos pelas agravantes, não identifico suficientes razões para alterar a conclusão da decisão impugnada, cujo teor transcrevo:
+A defesa deixou de deduzir as razões por que entende ter havido violação dos vários dispositivos de lei federal que menciona. Limitou-se a requerer a concessão do sursis e dizer que nada impede a sua concessão, o que dificulta sobremaneira a compreensão das teses que pretende deduzir nesta Corte Superior.
+Evidencia-se, portanto, deficiência na fundamentação, o que atrai a aplicação do óbice da Súmula n. 284 do STF, a impedir o conhecimento do recurso especial.
+(fl. 373)
+De início, registro que o princípio da colegialidade, por estar estreitamente ligado ao devido processo legal (em sentido lato) e, em particular, com a vertente do duplo grau de jurisdição, traduz-se, em regra, na imposição de que as questões litigiosas submetidas aos tribunais sejam analisadas por um grupo de magistrados de modo a garantir, em tese, uma decisão substancialmente mais adequada. Nas palavras de [NOME]: "O princípio que domina e rege todo o Direito Processual pátrio, em matéria de recurso, é o princípio da colegialidade do Juízo ad quem. Com isto, os julgamentos em grau de recurso infundem maior confiança e, de certo modo, são mais seguros que os de primeiro grau" (Instituições de direito processual civil. Rio de Janeiro: Forense, v. IV, 2. ed., 1963, p. 7, destaquei.)
+Contudo, o aumento expressivo no número de demandas não só no Brasil mas no mundo, somado à lentidão na prestação jurisdicional, tem feito com que nações, com contencioso judicial tradicionalmente colegiado, abrissem a possibilidade de o julgamento ser efetuado por um único juiz, como ocorreu na Itália a partir de 1998 (CINTRA; GRINOVER; DINAMARCO. Teoria Geral do Processo. São Paulo: Malheiros, 2007, p. 188).
+Essas mesmas razões serviram e têm servido de justificativa no Brasil, em que o julgamento colegiado é feito por tribunais, para adoção, cada vez mais intensa, do julgamento monocrático por cortes de superposição e cortes superiores.
+Nessa diretriz, observa-se que a lei processual brasileira, após sucessivas inovações, alargou o leque de possibilidades de o relator de um recurso, de forma unipessoal, pôr termo à irresignação (ex vi do art. 557 do Código de Processo Civil de 1973, atualmente previsto no art. 932, do Código de Processo Civil que, indiscutivelmente é aplicável ao processo penal, tal como tem decidido pacificamente este Tribunal Superior).
+Assim, ainda que por exceção, é possível ao relator de um recurso decidir de maneira monocrática quando o tema a ele submetido se inserir no rol contido no referido dispositivo legal (manifesta inadmissibilidade do pedido, improcedência, prejudicialidade ou em confronto com súmula ou jurisprudência dominante), de forma a não incorrer em violação do princípio da ampla defesa apenas quando a permissividade legal de exclusão do julgamento colegiado advenha, a um só tempo, do exaustivo debate reiterado e da solidez do entendimento acerca do tema, culminando, por isso, no prestígio à celeridade e à economia processuais (duração razoável do processo).
+Não bastasse isso, dispõe a Súmula n. 568 do STJ, editada em 16/3/2016, que "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso especial quando houver entendimento dominante sobre o tema" (grifei).
+Ademais, prevê o art. 34 do Regimento Interno desta Corte Superior que "são atribuições do relator" dar ou negar provimento a recurso ou pedido cuja tese seja contrária a súmula do Supremo Tribunal Federal ou do Superior Tribunal de Justiça ou, ainda, a jurisprudência dominante acerca do tema.
+Por tudo isso, ressalto, na hipótese, que a decisão agravada não descurou do princípio da colegialidade, pois visualizou situação abarcada pelo art. 932, VIII, do Código de Processo Civil, em combinação com o disposto no art. 253, parágrafo único, II, "a", do RISTJ, ao constatar que o recurso especial apresenta fundamentação deficiente, o que impede o julgamento do mérito recursal, a teor da Súmula n. 284 do STF.
+Além disso, nas razões do agravo regimental, em vez de demonstrar a suficiência dos fundamentos elencados no recurso especial, a defesa limitou-se a reiterar as alegações daquela petição e a aduzir que julguei o mérito recursal em decisão monocrática, o que não ocorreu na espécie.
+Portanto, não demonstrada a suficiência dos argumentos do recurso especial, incide a Súmula n. 182 do STJ, o que impede o conhecimento do agravo regimental.
+Por fim, ressalto que a defesa não trouxe, nem mesmo no agravo regimental, nenhum elemento do caso concreto que evidencie as razões por que entende necessária a suspensão condicional da pena, a impossibilitar o exame da matéria.
+À vista do exposto, não conheço do agravo regimental.
