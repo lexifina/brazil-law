@@ -1,0 +1,14 @@
+Trata-se de embargos de declaração opostos contra decisão por mim proferida, que negou seguimento ao recurso, por intempestividade do agravo.
+    Nos presentes embargos, busca-se, em síntese, demonstrar a tempestividade do recurso.
+    Após ser regularmente intimada para se manifestar sobre os embargos opostos, a parte embargada permaneceu inerte (doc. eletrônico 15).
+    É o relatório necessário. Decido.
+    Bem reexaminados os autos, reconheço a tempestividade do agravo interposto com base no art. 544 do CPC/1973, nos termos da pacífica jurisprudência desta Corte. Confiram-se: RE 626.358-AgR/MG, Rel. Min. Cezar Peluso (Presidente), Tribunal Pleno; AI 797.795-AgR/SP-ED-ED, Rel. Min. Cármen Lúcia (Presidente), Tribunal Pleno.
+    Assim, passo a fazer uma nova apreciação do recurso extraordinário com agravo e verifico, de plano, que a pretensão recursal não merece acolhida.
+    Isso porque as questões constitucionais arguidas pela parte recorrente não foram prequestionadas. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido.
+    Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356/STF. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. Prequestionamento. Não ocorrência. Prequestionamento implícito. Inadmissibilidade. Incidência das Súmulas 282 e 356/STF. Procedimento de retenção de contribuição previdenciária. Fundo de Participação dos Municípios. Debate infraconstitucional. Afronta reflexa. 1. A Corte não admite a tese do chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal a quo, é necessária e indispensável a oposição de embargos de declaração, os quais devem trazer a discussão da matéria a ser prequestionada, a fim de possibilitar ao Tribunal de origem a apreciação do ponto sob o ângulo constitucional. 2. Para se ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar a controvérsia à luz da legislação infraconstitucional de regência (Leis nºs 8.212/91; 11.941/09; Decreto 3.048/99 e IN MPS/SRP nº 3/05). A ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. 3. Agravo regimental não provido” (ARE 772.836-AgR/PE, Rel. Min. Dias Toffoli - grifei).
+    Isso posto, com base no art. 1.024, § 2°, do CPC, acolho os embargos de declaração, para tornar a decisão embargada sem efeito, e nego seguimento ao recurso extraordinário com agravo (art. 21, § 1°, do RISTF), por fundamento diverso do anterior.
+    Publique-se.
+    Brasília, 12 de junho de 2018.
+Ministro Ricardo Lewandowski
+Relator
