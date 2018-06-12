@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por MEDICAL MEDICINA COOPERATIVA ASSISTENCIAL DE LIMEIRA, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"SEGURO. PLANO DE SAÚDE. CONTRATO COLETIVO. EXISTÊNCIA DE LIMINAR VIGENTE DETERMINANDO A MANUTENÇÃO DO PLANO DE ASSISTÊNCIA MÉDICA. APLICAÇÃO DOS ARTS. 30 E 31 DA LEI N. 9.656/98. GARANTIDA À BENEFICIÁRIA A VINCULAÇÃO À APÓLICE VIGENTE PARA OS FUNCIONÁRIOS ATIVOS, DESDE QUE ASSUMA PAGAMENTO INTEGRAL DO PRÊMIO OU DE OUTRA EVENTUAL FORMA DE CUSTEIO DOS BENEFÍCIOS, CONSISTENTE NA SOMA DA PARCELA PAGA PELA FUNCIONÁRIA ACRESCIDA DA PARCELA PAGA PELA EMPRESA EMPREGADORA, DEVIDAMENTE REAJUSTADA. IMPOSSIBILIDADE, TODAVIA, DE APLICAÇÃO DE TABELAS DE PREÇO DISTINTAS PARA ATIVOS E INATIVOS. DEVOLUÇÃO DOS VALORES COBRADOS INDEVIDAMENTE A PARTIR DO AJUIZAMENTO DA DEMANDA QUE É DE RIGOR. SENTENÇA MANTIDA. RECURSO DESPROVIDO" (fl. 197, e-STJ).
+No especial, a recorrente aponta, além de divergência jurisprudencial, violação dos artigos 30, § 6º, e 31, § 1º, da Lei nº 9.656/1998 e Resolução Normativa nº 279/2011.
+Sustenta, em síntese, que "um dos requisitos necessários à outorga do plano extensivo aos aposentados é a contribuição pelo aposentado para o plano de saúde, mediante o pagamento de um percentual relativo a mensalidade, o que inocorreu no caso presente" (fl. 206 e-STJ), haja vista que o valor do benefício era custeado integralmente pela ex-empregadora.
+Alega que
+"(..) o direito de manutenção da condição de beneficiário garantido pelo dispositivo de lei diz respeito à mantença da segmentação, da rede assistencial, da área de abrangência, do padrão de internação e de eventual fator moderador, mas não à garantia de mesmo valor ou prêmio".
+Daí, deve-se concluir que o pagamento integral a ser agora suportado pelo ex-empregado não necessita corresponder ao montante efetivamente por este pago somado da parcela subsidiada pela antiga empregadora à época da vigência do contrato de trabalho.
+Assim, não havendo que se falar em direito adquirido e sendo certo, à luz dos argumentos despendidos, que o Recorrido, bem como todos os ex-funcionários que atualmente figuram no plano inativo em razão de tutelas jurisdicionais concedidas se submetem a tabela própria, devidamente legitimada pelos termos da Resolução Normativo 279/11, notadamente pelos artigos 13, inciso I, e 15, § 2º.
+(..)
+Vê-se desta forma, que o valor cobrado do Recorrido contempla exatamente o valor da Tabela de inativos constante do contrato celebrado no ano de 2012 (cláusula XIII) acrescido de reajustes anuais praticados e eleitos pelas partes contraentes, em estrita observância aos termos da cláusula XII, utilizando-se percentual idêntico ao aplicado aos valores constantes da Tabela de funcionários ativos, constante da cláusula XI do Contrato.
+Registre-se ainda que o valor pago pelo Recorrido revela-se consideravelmente inferior ao valor que lhe seria cobrado na hipótese de celebração de plano individual/familiar, sendo beneficiado pela contratação coletiva da ampla carteira mantida com a TRW, ajustando-se condições notadamente vantajosas para todos os seus integrantes.
+Desta feita, tem-se que a existência de tabela específica ajustando-se os valores relativos aos beneficiários integrantes do plano inativo encontra previsão no contrato que rege os direitos e obrigações das partes contraentes, e se mostra consonante com os artigos 13, inciso I, e 15, § Segundo, da Resolução Normativa 279/11, inexistindo qualquer infração legal ou contratual legitimadora do pedido formulado pelo Recorrido, principal e acessório" (fls. 208/209, e-STJ).
+Contrarrazões às fls. 234/243 (e-STJ).
+O recurso foi admitido às fls. 256/258 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso está prejudicado.
+Na origem, a parte recorrida ajuizou ação revisional de plano de saúde, sustentando que "a cláusula contratual que prevê preço diferenciado para aposentados inativos deve ser considerada nula de pleno direito, pois não foi a intenção do legislador, quando da edição do art. 31 da Lei 9.656/98" (fl. 3, e-STJ).
+A revisional somente foi possível após o provimento parcial de ação de obrigação de fazer (Processo nº 1009364-04.2014.8.26.0320), na qual restou determinado que a ora recorrente mantivesse a parte autora e seus dependentes no plano de saúde, nas mesmas condições anteriores, devendo a parte autora arcar integralmente com os custos do plano.
+Contra o acórdão proferido naquele feito, a recorrente interpôs recurso especial, que nesta Corte foi autuado sob o nº 1.664.373/SP.
+O mencionado recurso foi provido para julgar improcedentes os pedidos formulados na inicial da ação de obrigação de fazer. Nesse contexto, objeto do presente recurso esvaziou-se, pois não havendo obrigatoriedade de manutenção da segurada no plano de saúde, não há falar em revisão de cláusulas contratuais.
+Ante o exposto, nos termos do art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso pela perda superveniente de seu objeto.
+Publique-se.
+Intimem-se.
