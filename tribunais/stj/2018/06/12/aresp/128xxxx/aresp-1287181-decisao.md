@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA INDEVIDA DE REALIZAÇÃO DE EXAME INDICADO POR MÉDICO. DANO MORAL. CONFIGURAÇÃO. SÚMULA N. 7. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por Climepe Total Ltda. contra decisão que negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no artigo 105, inciso III, alínea a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça de Minas Gerais assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO. PRELIMINAR DE OFÍCIO. INADEQUAÇÃO DA VIA ELEITA. REVOGAÇÃO DA ASSISTÊNCIA JUDICIÁRIA. PEDIDO FORMULADO EM CONTRARRAZÕES. ART. 100 CPC/15. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. EXAME. DOENÇA GRAVE. DANO MORAL CONFIGURADO. RECURSO PROVIDO.
+. Apesar de o momento da impugnação depender da ocasião do deferimento do pedido de justiça gratuita (art. 100 do CPC/15), a reação da parte contrária é preclusiva e, portanto, não havendo a devida manifestação dentro do prazo legal esta não será mais cabível.
+. Consoante entendimento jurisprudencial, a injusta recusa de cobertura por parte do plano de saúde não equivale a mero dissabor, mas sim uma situação excepcional de anormalidade, ensejando ao consumidor o direito de ressarcimento dos danos extrapatrimoniais sofridos.
+Os embargos de declaração opostos foram desacolhidos (e-STJ, fls. 249-252).
+Nas razões do especial (e-STJ, fls. 255-276), a recorrente alegou ofensa aos arts. 188 e 422 do Código Civil de 2002.
+Sustentou, em síntese, que "não agiu com boa-fé no cumprimento de suas obrigações contratuais", tendo em vista que a recorrida tinha ciência da forma de procedimento da solicitação de exames prevista no contrato nas cláusulas 3.5.2.1. e 3.5.1.1. (e-STJ, fl. 257).
+Alegou que "não se trata de uma negativa de cobertura sem qualquer justificativa" (e-STJ, fl. 260), uma vez que a recorrida não preencheu as exigências da Agência Nacional de Saúde - ANS para a autorização de exames de pesquisa de mutação BRCA1 e BRCA2, que dependia de indicação médica para a realização de cirurgia.
+Afirmou ter agido "no exercício regular de direito, o que elide o dever de indenizar" e que o mero inadimplemento contratual não enseja a indenização por danos morais (e-STJ, fl. 260).
+Em juízo de admissibilidade, a Corte de origem negou o processamento do recurso especial pela incidência da Súmula 83/STJ.
+Irresignada (e-STJ, fls. 422-445), aduz a agravante que o reclamo merece trânsito, refutando o retrocitado óbice de admissibilidade.
+Contraminuta apresentada às fls. 448-452 (e-STJ).
+Brevemente relatado, decido.
+No caso em tela, o Tribunal de origem condenou a ré ao pagamento de indenização a título de danos morais pela ausência de autorização do plano de saúde para a realização dos exames indicados pelo médico da autora, conforme trecho abaixo transcrito (e-STJ, fls. 228-230, sem grifo no original):
+ É incontroverso nos autos que a autora é beneficiária dos serviços prestados pela requerida e necessitava da realização do exame denominado "pesquisa BRCA1 e BRCA2" indicado por seu médico, em razão do histórico de saúde pessoal e familiar.
+ Diante da prescrição do profissional competente sobre a necessidade do procedimento e do reconhecimento da abusividade da negativa, foi deferida a tutela de urgência pelo juízo monocrático e esta confirmada em sentença, com base no princípio da boa-fé contratual.
+ A discussão aqui em sede recursal resume-se à análise do dano moral que a parte autora alega ter sofrido em razão da ausência de autorização do plano de saúde e da demasiada espera (um ano) para se submeter ao exame, o que só foi possível com a intervenção do Poder Judiciário.
+ Sabe-se que o dano moral passível de indenização é aquele capaz de abalar a estrutura psíquica e emocional do homem médio, ou seja, da pessoa que goza de toda a sua capacidade de percepção da realidade e é capaz de suportar os transtornos da vida moderna (..)
+ Posto isso, não obstante haja entendimento jurisprudencial no sentido de que o mero inadimplemento contratual não geral, por si só, dano moral, entendo que, o caso dos autos, deixa de se encaixar nessa hipótese.
+ Tem-se que os fatos alegados geram lesão de ordem moral. Isso porque, o consumidor diagnosticado com graves problemas de saúde fixa, evidentemente, fragilizado e sensível em virtude da doença acometida.
+ Ora, a usuária suporta o pagamento mensal de plano de saúde particular, com pesador custos, justamente para que quando lhe falte saúde, tenha a segurança de ser amparada, não por mera liberalidade, mas em razão do cumprimento uma obrigação estabelecida contratualmente.
+ Entretanto, em virtude da conduta da operadora do plano de saúde, que, na maioria das vezes, contraria solicitação médica, a consumidora é impedida de ter acesso a determinado recurso médico que certamente possibilitaria a prevenção ou o imediato tratamento de uma doença grave e progressiva que leva a óbito quando não diagnosticada e cuidada de forma precoce.
+ Desta feita, entendo que a recusa abusiva ocasiona dano moral, pois a paciente é agredida em sua esfera psíquica, que já se encontra abalada pelo risco de morte e demais complicações em sua saúde dada existência de nódulos em seu corpo, a retirada de outros em ocasião anterior e o histórico de câncer em sua família, amplamente comprovado através dos documentos anexados (docs. 8/18). Logo, não se pode falar em mero dissabor, mas sim em situação excepcional de anormalidade.
+Dessarte, depreende-se que o Colegiado estadual julgou a lide, com base no substrato fático-probatório dos autos, concluindo que houve negativa de autorização do procedimento. A revisão do julgado importa necessariamente no reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado n. 7 da Súmula deste Tribunal.
+Outrossim, a questão relativa à existência de normas para autorização de exames estabelecidas pela ANS não foi objeto de análise por parte do Tribunal de origem, atraindo, assim, a incidência do óbice da Súmula 211 desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
