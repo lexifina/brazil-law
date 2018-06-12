@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ, fls. 253/257) opostos por [NOME] contra decisão unipessoal (e-STJ, fls. 248/250) que deu provimento ao recurso especial interposto pela embargante, para reconhecer o direito à indenização securitária, determinando a remessa dos autos ao Tribunal de origem para que prossiga no julgamento.
+Em suas razões, a embargante alega que a decisão embargada foi obscura e contraditória, porquanto a jurisdição do TJ/RS esgotou-se no julgamento da apelação, cabendo ao STJ, em face do reconhecimento do direito à cobertura securitária, definir os limites da indenização. Aponta, ainda, omissão a respeito dos ônus sucumbenciais.
+A embargada apresentou impugnação (e-STJ, fls. 262/263).
+É o relatório. Passo a decidir.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso dos autos, não se constata a omissão aventada, porquanto se verifica na decisão embargada expressa manifestação quanto à necessidade de remessa dos autos ao Tribunal de origem.
+De outro lado, a decisão unipessoal não é obscura, tendo em vista que, após o reconhecimento do direito à cobertura securitária, seria necessária a remessa dos autos à origem para averiguar o valor devido à luz da apólice de seguro, matéria inclusive objeto da apelação interposta pela embargante, que deixou de ser analisada pelo Tribunal de origem em face da conclusão então adotada de que não havia direito à indenização securitária e que não pode ser analisada por esta Corte, sob pena de supressão de instância, além de demandar a análise do caderno fático-probatório.
+Quanto aos ônus sucumbenciais, ao prosseguir no julgamento da demanda, caberá ao Tribunal de origem redistribuir os ônus sucumbenciais de acordo com a sucumbência verificada ao final, não se configurando omissão nesse ponto.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
