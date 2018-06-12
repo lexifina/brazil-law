@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. COTEJO ANALÍTICO ENTRE ACÓRDÃOS PARADIGMA E EMBARGADO. AUSÊNCIA. SIMILITUDE FÁTICA. NÃO DEMONSTRADA. DIVERGÊNCIA QUANTO A TÉCNICAS DE CONHECIMENTO. EXAME. IMPOSSIBILIDADE.
+1. Os embargos não podem ser conhecidos pela divergência se o embargante não providencia o devido cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, nos termos do disposto no artigo 266, § 4º, do RISTJ.
+2. Revela-se inviável rever, em embargos de divergência, a aplicação de regras técnicas de conhecimento do recurso especial, o que ocorre quando o acórdão embargado ou o paradigma sequer adentram no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Herman Benjamin, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Francisco Falcão votaram com a Sra. Ministra Relatora. Ausentes, justificadamente, o Sr. Ministro Felix Fischer e a Sra. Ministra Maria Thereza de Assis Moura.
+RELATORA: MINISTRA NANCY ANDRIGHI
+RELATÓRIO
+Cuida-se de agravo interposto por AUTO POSTO RIO VERDE LTDA contra decisão unipessoal que indeferiu liminarmente os embargos de divergência que interpusera em face de acórdão da 2ª Turma do STJ que, em sede de ação anulatória de débito fiscal, não conheceu do recurso especial, ante a aplicação das Súmulas 7/STJ e 283/STF.
+Nas razões do presente recurso, o agravante afirma que houve a devida confrontação das partes idênticas e semelhantes do acórdão embargado e do acórdão paradigma, tendo sido demonstradas as peculiaridades e as similitudes fáticas de cada caso concreto, através da análise comparativa do voto condutor de cada decisão. Insurge-se, ainda, contra a aplicação da Súmula 315/STJ, sob o argumento de que o acórdão embargado examinou o mérito do recurso especial. Defende a inaplicabilidade das Súmulas 7/STJ e 283/STF e reitera a violação dos dispositivos legais indicados em sua peça recursal.
+É o relatório.
+RELATORA: MINISTRA NANCY ANDRIGHI
+VOTO
+A decisão agravada indeferiu liminarmente os embargos de divergência opostos pela agravante sob o fundamento de i) ausência de cotejo analítico e similitude fática entre os acórdãos comparados, inviabilizando a análise da suposta divergência jurisprudencial; e ii) aplicação analógica da Súmula 315/STJ, diante da impossibilidade de rever, em sede de embargos de divergência, a aplicação de regras técnicas de conhecimento do recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Com efeito, na hipótese dos autos, observa-se que, da atenta leitura dos embargos de divergência, de fato, não foram indicadas as circunstâncias que assemelham as decisões em confronto de forma a justificar solução unívoca. Realmente, limitou-se o agravante, tão somente, a citar trechos do acórdão paradigma, sem, contudo, proceder ao devido cotejo analítico e demonstrar a similitude fática entre os julgados.
+No mais, e diferentemente do que quer fazer crer o agravante, o acórdão embargado não adentrou na análise de mérito do recurso especial que, em razão de sequer ultrapassar os requisitos de admissibilidade, sequer foi conhecido.
+Ressalte-se que, quando do julgamento do recurso especial, a 2ª Turma desta Corte Superior manteve a decisão unipessoal do relator, que havia aplicado as Súmulas 7/STJ e 283/STF, motivo pelo qual, com efeito, mostra-se imperiosa a aplicação analógica da Súmula 315/STJ.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
