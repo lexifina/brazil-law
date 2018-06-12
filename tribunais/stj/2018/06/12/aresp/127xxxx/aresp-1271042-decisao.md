@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por BERNARDES ADMINISTRACAO DE BENS SOCIEDADE SIMPLES LTDA. - ME. O apelo extremo, com fundamento no art. 105, inc. III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"PRESTAÇÃO DE SERVIÇOS. AÇÃO DE INDENIZAÇÃO. 1. Verificada a falha na prestação de serviços de administração condominial, de rigor a condenação da administradora na reparação dos danos decorrentes. 2. Não havendo demonstração de que a conduta da ré tenha acarretado ao autor, condomínio edilício, abalo à sua imagem, incabível a indenização por dano moral, destinada a efetiva reparação do dano, não como meio de enriquecimento sem causa. Recurso parcialmente provido" (e-STJ fls. 528).
+No especial, as recorrentes alegaram violação dos arts. 93 da Constituição Federal; 373, 374, 375, 479, 489, 492 e 1.022 do Código de Processo Civil de 2015, além de dissídio jurisprudencial.
+Sustentou, preliminarmente, a nulidade do acórdão ao argumento de que o Tribunal de origem não se manifestou quanto às razões que afastaram a ausência de culpa da prestadora de serviço atestada na perícia.
+No mérito, insistiu na inexistência de provas do enriquecimento ilícito, tese adotada na petição inicial. Destacou, ainda, que a perícia não aferiu indícios de conduta ilícita na sua administração do condomínio recorrido. Concluiu, ao final, que a não comprovação do falseamento de guias ou da apropriação de valores resulta na sua irresponsabilidade pelo inadimplemento dos valores devidos a título de INSS e FGTS.
+Com fulcro nos argumentos expostos, pleiteou o provimento do recurso.
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+Preliminarmente, importante consignar que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Dito isso, registra-se que compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável discutir, nesta seara, a violação de dispositivos constitucionais, matéria afeta à competência do Supremo Tribunal Federal (art. 102, III, da Carta Magna).
+No tocante à alegada negativa de prestação jurisdicional, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AOS ARTS. 165, 458 E 535 DO CPC. INEXISTÊNCIA. ARGUMENTOS DO RECURSO ESPECIAL CUJA ANÁLISE DEPENDE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+1. Não há ofensa aos arts. 165, 458, 515 e 535 do CPC se o tribunal de origem se pronuncia fundamentadamente sobre as questões postas a exame, dando suficiente solução à lide, sem incorrer em qualquer vício capaz de maculá-lo.
+(..)" (AgRg no Ag 930.113/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 13/10/2011).
+Confira-se, por oportuno, o excerto que abordou a responsabilidade da administradora pelo inadimplemento das contas do condomínio, em razão de expressa previsão contratual:
+"(..)
+Assim, a perícia concluiu pela inexistência de culpa por parte da administradora uma vez que esta não tinha acesso às contas correntes do condomínio, sendo que as contas e contribuições eram pagas por meio de emissões de cheques.
+Ocorre que, respeitada a conclusão do ilustre perito judicial, o fato de a administradora não ter acesso direto à conta corrente do condomínio não a exime do cumprimento de suas obrigações contratuais claramente definidas:
+Dos serviços:
+1- A contratada obriga-se a prestar ao contratante os seguintes serviços:
+h) Efetuar pontualmente o pagamento de todas as despesas do Condomínio mediante autorização do Síndico, assim como os pagamentos de rotina, como contas de luz, água, esgoto, telefone, impostos e taxas, salários e encargos sociais e despesas previamente autorizadas por contrato" (fls.138).
+É importante observar que, ao que tudo indica, as contribuições não foram pagas por mero equívoco administrativo, eis que a conta corrente do condomínio costumava ter saldo positivo, conforme atestou o perito com base nos documentos que lhe foram entregues (fls.422), não havendo evidências de que o pagamento não se deu por falta de fundo em caixa.
+Portanto, verifica-se que a dinâmica de pagamentos adotada pelas partes era relativamente informal. Se verdadeira a versão dos fatos apontada pelo condomínio, a administradora passava informalmente os valores a serem pagos e o condomínio lhe encaminhava um cheque para cobrir a despesa, sem qualquer recibo ou protocolo. De outro lado, a requerida informa que simplesmente encaminhava a guia para o condomínio por meio de malote mensal, mas não foi capaz de apresentar um recibo sequer de tal malote, não demonstrando, portanto, o encaminhamento da guia naqueles meses em que a contribuição acabou inadimplida.
+Entendo que o prejuízo decorrente de tal informalidade não pode ser oposto ao condomínio, eis que contrata administradora exatamente para tornar confiáveis os trâmites burocráticos exercidos independentemente de quem sejam os representantes da massa condominial, protegendo os interesses de todos os seus integrantes, sendo o contrato hialino ao estipular a obrigação de pagar os débitos e contribuições do condomínio, não tendo a requerida demonstrado qualquer óbice ao cumprimento dessa obrigação contratual.
+Assim, de rigor que arque a administradora com o prejuízo causado ao condomínio, que teve de pagar, a título de juros e encargos a quantia de R$ 46.315,28, conforme narrado às fls.04 e comprovado por meio dos extratos de parcelamento de fls.30/33, sem qualquer impugnação específica por parte da requerida" (e-STJ fls. 531-533).
+No ponto, oportuno rememorar que, mesmo após a edição do Código de Processo Civil de 2015, o julgador não está obrigado a responder todas as questões suscitadas, se já tiver encontrado motivo suficiente para proferir a decisão. Com efeito, assiste ao julgador o dever de enfrentar todas as questões capazes de infirmar a conclusão adotada na decisão recorrida e não todos os argumentos ventilados pelas partes.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+(..)
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(..)
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados" (EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, DJe 15/06/2016, vinculado ao informativo nº 585/STJ).
+Ademais, da leitura do excerto transcrito é possível observar que a irresignação recursal se fundamenta em elementos de índole eminentemente fático-probatória e de interpretação de cláusulas contratuais, pois a recorrente pretende convencer esta Corte de que não é a responsável pelo inadimplemento dos valores devidos pelo condomínio administrado, circunstância expressamente refutada na origem com base na valoração das provas, do comportamento das partes e de previsão contratual.
+Nesse contexto, não obstante a irresignação da parte recorrente, o acolhimento da pretensão recursal, mediante a predileção da prova pericial, encontra óbice no teor das Súmulas nºs 5 e 7 deste Superior Tribunal.
+Note-se, por fim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+É o que se observa do seguinte julgado:
+"Recurso Especial. Civil. Responsabilidade civil. Cirurgião e anestesiologista. Recurso com fundamento nas alíneas "a" e "c" do art. 105, III, da CF. Reexame fático-probatório. Súmula 07/STJ. Incidência.
+- A constatação de ter o médico cirurgião e o anestesista agido ou não com culpa no atendimento a paciente, nas modalidades negligência, imprudência ou imperícia, demanda necessariamente o reexame do conjunto fático-probatório da causa, o que é vedado pela Súmula 7 do STJ.
+- O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a", quanto pela "c" do permissivo constitucional.
+- Recurso especial não conhecido" (REsp 765.505/SC, Rel. Ministra Nancy Andrighi, Terceira Turma, DJ 20/3/2006).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Em atendimento ao disposto no art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários fixados na origem em favor do patrono da parte recorrida (10% do valor da condenação - fl. 534 e-STJ) para 15% (quinze por cento) do valor da condenação, respeitada eventual concessão de gratuidade de justiça.
+Publique-se.
+Intimem-se.
