@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. INDEFERIMENTO DO PEDIDO DE PENHORA NO ROSTO DOS AUTOS DE AÇÃO DE FALÊNCIA. HABILITAÇÃO DA DÍVIDA ATIVA. DESNECESSIDADE. INTELIGÊNCIA DO ART. 187 DO CTN E DO ART. 29 DA LEF.
+1. O STJ possui orientação pacífica no sentido de que "Uma vez inscrita em dívida ativa obrigação consubstanciada em outro título executivo, deve ser aplicado o regime jurídico próprio da dívida ativa que implica seu controle administrativo, orçamentário e financeiro (emissão de certidões positivas - art. 31, da LEF, parcelamentos, remissões, anistias, programas fiscais em geral, etc.) e agrega ao crédito inscrito a eficácia de não se sujeitar a concurso de credores ou habilitação em falência, concordata, liquidação, inventário ou arrolamento (art. 29, da LEF)" (REsp 1.247.650/RN, Rel. Ministro Mauro Campbell Marques, DJe 19/12/2013).
+2. Desnecessária, portanto, a apresentação de prova negativa (inexistência de pedido, nos autos da Ação Falimentar, de habilitação do crédito), para o fim de análise do requerimento apresentado, nos autos da Execução Fiscal, de realização de penhora no rosto dos autos.
+3. Recurso Especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto com fundamento no art. 105, III, "a", da Constituição da República contra acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. FAZENDA PÚBLICA. PROSSEGUIMENTO NA EXECUÇÃO. HABILITAÇÃO NOS AUTOS DA FALÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DO PEDIDO DE RESERVA DE CRÉDITO. PENHORA NO ROSTO DOS AUTOS. INDEFERIMENTO. DECISÃO MANTIDA.
+O recorrente alega violação do art. 187 do CTN, do art. 29 da Lei 6.830/1980 e do art. 6º, § 7º, da Lei 11.101/2005.
+A recorrida não apresentou contrarrazões.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 11 de maio de 2018.
+A controvérsia tem por objeto acórdão que indeferiu, nos autos da Execução Fiscal, o pedido de penhora no rosto dos autos da Ação Falimentar, ao fundamento de que o GDF não atendeu ao despacho anterior do juízo de primeiro grau, no sentido de esclarecer se havia requerido habilitação no juízo de Falências.
+A jurisprudência do STJ, relativamente à exegese do art. 187 do CTN e do art. 29 da Lei 6.830/1980, ratifica a orientação literal dos referidos dispositivos, no sentido de que a dívida ativa não está sujeita à habilitação em Falência. Nesse sentido:
+PROCESSUAL CIVIL. HONORÁRIOS DEVIDOS À FAZENDA PÚBLICA EM RAZÃO DE SENTENÇA JUDICIAL. INSCRIÇÃO EM DÍVIDA ATIVA. EXECUÇÃO PELO RITO DO CPC. APLICAÇÃO DO ART. 29 DA LEF POR CONSTITUIR REGIME JURÍDICO PRÓPRIO DOS CRÉDITOS INSCRITOS EM DÍVIDA ATIVA.
+1. Ao crédito inscrito em dívida ativa, mesmo que intentada a execução pelo rito do Código de Processo Civil - CPC, aplica-se o art. 29 da Lei n. 6.830/80 - LEF, em razão do regime jurídico próprio da dívida ativa decorrente do ato administrativo de inscrição, afastando-se o art. 18, "a", da Lei n. 6.024/74, que determina a suspensão das execuções contra instituição financeira em procedimento de liquidação extrajudicial.
+2. Uma vez inscrita em dívida ativa obrigação consubstanciada em outro título executivo, deve ser aplicado o regime jurídico próprio da dívida ativa que implica seu controle administrativo, orçamentário e financeiro (emissão de certidões positivas - art. 31, da LEF, parcelamentos, remissões, anistias, programas fiscais em geral, etc.) e agrega ao crédito inscrito a eficácia de não se sujeitar a concurso de credores ou habilitação em falência, concordata, liquidação, inventário ou arrolamento (art. 29, da LEF) e de atribuir a responsabilidade universal do patrimônio do executado (art. 30, da LEF), além de possibilitar a extração da certidão que vai ensejar o rito executivo pela LEF. Esse regime jurídico deriva do próprio ato administrativo de inscrição e não do rito executivo eleito (CPC ou LEF).
+3. Recurso especial não provido.
+(REsp 1.247.650/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 19/12/2013)
+Com a devida vênia, portanto, o despacho do juízo de primeiro grau que demandou o esclarecimento pela Fazenda Pública, por si só, já se revela desamparado de fundamento legal, não sendo lícito condicionar a penhora no rosto dos autos ao prévio esclarecimento a respeito da existência de pedido de habilitação.
+Conquanto o tema não tenha sido mais aprofundado no acórdão recorrido, presume-se que houve preocupação excessiva, tendente a evitar possível duplicidade de medidas de garantia, o que se revela desnecessário, pois tal controle, na melhor das hipóteses, cabe ao juízo falimentar, e será exercido por ocasião da eventual liquidação do débito.
+Com essas considerações, dou provimento ao Recurso Especial.
+É como voto.
