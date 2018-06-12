@@ -1,0 +1,2 @@
+Institui o Sistema Nacional de Informações de Segurança Pública, Prisionais e sobre Drogas - SINESP; altera as Leis nº s 10.201, de 14 de fevereiro de 2001, e 11.530, de 24 de outubro de 2007, a Lei Complementar nº 79, de 7 de janeiro de 1994, e o Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal; e revoga dispositivo da Lei nº 10.201, de 14 de fevereiro de 2001.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
