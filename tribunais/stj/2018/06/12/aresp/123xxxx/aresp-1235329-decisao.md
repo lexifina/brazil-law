@@ -1,0 +1,15 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO. SÚMULA 284/STF. NORMA CONSTITUCIONAL. COMPETÊNCIA DO STF. DEMAIS DISPOSITIVOS LEGAIS E TESES VINCULADAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por SOCIEDADE AMIGOS DA CIDADE JARDIM, em face de decisão que inadmitiu recurso especial interposto contra acórdão assim ementado (fl. 1.221):
+Agravo de Instrumento Ação civil pública Execução do julgado - Deferimento do bloqueio "on line" de ativos financeiros, de titularidade da municipalidade-executada, até o limite do débito-exequendo Inadmissibilidade Hipótese em que a execução deve submeter-se ao regime dos precatórios Aplicação do art. 730, do CPC, e do art. 100, da CF - Recurso provido.
+No recurso especial, a recorrente, em suma, alega, além de dissídio jurisprudencial, contrariedade aos arts. 496 e 473 do CPC/73, por violação aos princípios da unirrecorribilidade, da preclusão e da coisa julgada; arts. 462 e 267, VI, do CPC/73, ao argumento de perda superveniente do objeto e ausência de interesse recursal; e arts. 461, § 4º, 644, 645 e 730 do CPC/73 e 100 da CF/88, diante da legalidade da multa por descumprimento de obrigação determinada em sentença.
+Contrarrazões a fls. 1.280-1.296.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Na espécie, verifica-se que a Corte de origem decidiu que a execução da multa imposta à municipalidade, cujo valor será revertido para o Fundo Especial de Despesa de Reparação de Interesses Difusos, e não para a entidade-exequente, ora recorrente, deve submeter-se à sistemática do precatório, nos estritos termos do art. 730 do CPC e do art. 100 da CF, "não cabendo, na hipótese, bloqueio on line de valores até o limite do crédito executado, existentes em contas e/ou aplicações bancárias de sua titularidade, como ordenado no Juízo de origem" (fls. 1.226/1.227).
+Quanto ao art. 730 do CPC/1973, a recorrente não demonstra em que medida a Corte de origem teria incorrido na suposta vulneração, situação essa que não permite a exata compreensão da controvérsia, o que impõe o não conhecimento do recurso. Incide à hipótese o teor da Súmula 284/STF.
+No pertinente ao art. 100 da CF, inviável a abertura da via especial, a fim de alegar violação de normas de cunho eminentemente constitucional, sob pena de supressão de competência do próprio STF, ainda que seja a título de prequestionamento objetivando a interposição de recurso extraordinário.
+Quanto aos demais dispositivos legais e as teses a eles vinculadas, não houve juízo de valor pela Corte de origem, motivo pelo não se conhece do recurso por falta de cumprimento do requisito do prequestionamento. Incidência do óbice da Súmula 282/STF.
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
