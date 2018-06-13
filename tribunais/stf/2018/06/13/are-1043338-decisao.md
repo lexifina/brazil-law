@@ -1,0 +1,15 @@
+Despacho: Na petição juntada no evento eDOC 17 pp. 7/8, a Defensoria Pública requereu a devolução dos autos ao Supremo Tribunal Federal tendo em via a sua não intimação pessoal.
+    A Secretaria Judiciária, por sua vez, informou o seguinte (evento 19):
+    “Em 18 de novembro de 2016, foi publicado no Diário da Justiça Eletrônico n. 245/2016 o “Edital para cadastramento de entidades públicas da Administração direta e indireta para o recebimento de intimações por meio eletrônico no Supremo Tribunal”, cujo texto reproduzo abaixo:
+    “A PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL, no uso das atribuições conferidas por lei e pelo art. 13, inc. VI, do Regimento Interno do Supremo Tribunal Federal, determina à União, aos Estados, ao Distrito Federal, aos Municípios e suas correspondentes entidades da administração indireta, ao Ministério Público, à Defensoria Pública e à Advocacia Pública que, por seus representantes legais, efetuem o cadastro previsto no § 2º do art. 246 da Lei n. 13.105, de 16 de março de 2015, para o recebimento de intimações por meio eletrônico. Essas entidades deverão encaminhar a lista dos administradores no sistema de intimação eletrônica e dos representantes com prerrogativa de intimação para serem vinculados aos processos, por ofício, em conformidade com o modelo constante do Anexo. A atualização cadastral ficará sob a responsabilidade do administrador indicado. Transcorridos trinta dias da publicação deste edital no Diário da Justiça Eletrônico, a intimação dos atos processuais observará o disposto no art. 272 do Código de Processo Civil.”
+    Finalizado o prazo previsto no mencionado Edital, a Presidente do Supremo implementou a modalidade de intimação por meio eletrônico, prevista na Lei n. 13.105, de 16 de março de 2015, e as entidades públicas que realizaram o devido cadastramento neste Tribunal passaram a receber a intimação por meio eletrônico, o que se deu a partir de 1º de fevereiro de 2017.
+    Destaco ter a parte final do Edital determinado que, transcorridos trinta dias da publicação no Diário da Justiça Eletrônico, a intimação dos atos processuais deverá observar o disposto no art. 272 do Código de Processo Civil vigente, cujo caput abaixo transcrevo:
+    Art. 272. Quando não realizadas por meio eletrônico, consideram- se feitas as intimações pela publicação dos atos no órgão oficial.
+    A Defensoria Pública de Mato Grosso do Sul, representante da parte recorrente no processo eletrônico ARE 1.043.338, realizou o cadastramento de seus representantes judiciais junto à Secretaria Judiciária e, portanto, aderiu ao sistema de intimações eletrônicas somente em 25 de janeiro de 2018.
+    Diante disso, a intimação da decisão monocrática proferida no ARE 1.043.338 ocorreu pela publicação no Diário da Justiça Eletrônico n. 227 de 04 de outubro de 2017, não ocorrendo, portanto, a intimação pessoal da referida Defensoria.”
+    Diante destas informações, nada a prover.
+    Publique-se.
+    Brasília, 13 de junho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
