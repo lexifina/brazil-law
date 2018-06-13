@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Maria do Carmo dos Santos. Aparelhado o recurso na afronta aos arts. 37, XV, e 42, § 2º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    ”Agravo regimental no recurso extraordinário com agravo. Previdenciário. Militar. Pensão por morte. Paridade e Integralidade. Lei Estadual nº 6.660/09. Legislação local. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. O recurso extraordinário não se presta para o exame de matéria ínsita ao plano normativo local, tampouco para o reexame dos fatos e provas que compõem a lide. Incidência das Súmulas nº 280 e 279/STF. 2. Agravo regimental não provido. 3. Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, §§ 2º, 3º e 11, do CPC), observada a eventual concessão do benefício da gratuidade da justiça.” (ARE 1052973 AgR, Relator(a):  Min. DIAS TOFFOLI, Segunda Turma, julgado em 18/12/2017, PROCESSO ELETRÔNICO DJe-027 DIVULG 14-02-2018 PUBLIC 15-02-2018)
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PENSÃO POR MORTE. POLICIAL MILITAR. PARIDADE E INTEGRALIDADE. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (RE 1056051 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 11/12/2017, PROCESSO ELETRÔNICO DJe-292 DIVULG 18-12-2017 PUBLIC 19-12-2017)
+    De mais a mais, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de junho de 2018.
+Ministra Rosa Weber
+Relatora
