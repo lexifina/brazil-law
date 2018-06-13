@@ -1,0 +1,19 @@
+DECISÃO:
+    1. Trata-se de embargos de declaração opostos contra decisão monocrática por meio da qual neguei seguimento à reclamação.
+    2. A parte embargante alega que a decisão impugnada seria obscura e contraditória, pois o Tema 660 da repercussão geral refere-se apenas aos princípios do contraditório e da ampla defesa, não abrangendo possíveis violações à coisa julgada. Argumenta que a violação à coisa julgada é matéria de ordem pública, podendo ser reconhecida de ofício a qualquer tempo e grau de jurisdição. Por fim, alega que não houve manifestação sobre os benefícios da gratuidade de justiça.
+    3. É o relatório. Decido.
+    4. Conheço dos embargos, porquanto tempestivos.
+    5. Nos termos do art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial com a finalidade de suprir omissão, esclarecer obscuridade ou eliminar contradição. Na hipótese, a decisão monocrática por meio da qual neguei seguimento à reclamação é omissa, pois não contém análise do pedido referente à concessão dos benefícios da gratuidade de justiça.
+    6. No entanto, em relação aos demais argumentos, o recurso não merece provimento.
+    7. As alegações da parte embargante expressam inconformismo com a decisão impugnada, que não contém obscuridade, contradição ou inexatidão material.
+    8. Na hipótese, a decisão monocrática deixou claro que o Tema 660 da repercussão geral aplica-se não apenas aos princípios do contraditório e da ampla defesa, mas também à coisa julgada. Transcrevo trecho elucidativo da decisão embargada:
+    “12. Em seu recurso extraordinário, a parte reclamante alegou violação ao artigo 5º, XXXVI, da Constituição, em especial à coisa julgada. No ARE 748.371, Rel. Min. Gilmar Mendes, paradigma do tema 660 da repercussão geral, o Supremo Tribunal Federal entendeu pela ausência de repercussão geral da questão relativa à alegação de violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depender de prévia análise de adequada aplicação de normas infraconstitucionais, por caracterizar ofensa meramente reflexa à Constituição.
+    13. Portanto, entendo que a tese de repercussão geral foi corretamente aplicada pelo juízo reclamado. Observo que a aplicação do tema 660 da repercussão geral ao recurso extraordinário foi determinada por esta Corte no ARE 1.004.356, Rel. Min. Cármen Lúcia.” (grifei)
+    9. Ressalto que a reclamação dirigida a esta Corte só é cabível quando se sustenta usurpação de sua competência, ofensa à autoridade de suas decisões ou contrariedade a Súmula Vinculante (CF/88, arts. 102, I, l, e 103-A, § 3º). No segundo e no terceiro casos, exige-se que o pronunciamento tenha efeito vinculante ou, ao menos, que tenha sido proferido em processo subjetivo no qual o reclamante figurou como parte. A alegação de ofensa ao direito objetivo ou a precedente e enunciado de Súmula sem força vinculante não dá ensejo à propositura de reclamação. Nesse sentido firmou-se a jurisprudência: Rcl 5.063-AgR/PR, Rel. Min. Ayres Britto; Rcl 4.381-AgR/RJ, Rel. Min. Celso de Mello; Rcl 4.119-AgR/BA, Rel. Min. Cármen Lúcia; Rcl 5.391-AgR, Rel. Min. Dias Toffoli.
+    10. Inviável, portanto, analisar, em sede de reclamação, eventual violação ao direito objetivo.
+    11. Conclui-se, assim, que a parte embargante se limita a insistir no acolhimento de teses manifestamente inadmissíveis, sem demonstrar a necessidade de integração da decisão ora impugnada.
+    12. Diante do exposto, com base no art. 1.024, § 2º, do CPC/2015, acolho parcialmente os embargos de declaração para sanar a omissão e deferir ao reclamante os benefícios da gratuidade de justiça.
+    Publique-se.
+          Brasília, 13 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
