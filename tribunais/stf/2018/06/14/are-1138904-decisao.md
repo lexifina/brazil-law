@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “APELAÇÃO. MANDADO DE SEGURANÇA. PRETENSÃO DE REFORMA DA SENTENÇA QUE DENEGOU A SEGURANÇA. MÉRITO. Servidor público municipal. Itapetininga. Promoção por merecimento. Professores de Educação Básica empossados em novo cargo de Diretor. Impossibilidade de incorporação do adicional. Falta de previsão legal. A legislação permite a incorporação somente quando o servidor passar à inatividade. Exercício de funções diversas. Regime jurídico diverso. Inexistência de direito líquido e certo. Denegação da segurança. Manutenção da sentença. NEGADO PROVIMENTO AO RECURSO”. (eDOC 1, p. 105)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, XXXV, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que a “promoção por merecimento” seria uma vantagem permanente que compõe os vencimentos do servidor e se incorpora para fins de aposentadoria, de modo que não poderia ser suprimida com a posse em novo cargo. (eDOC 1, p. 190)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Estatuto dos Funcionários Públicos Municipais – Lei Complementar 26/2008), consignou que a vantagem discutida não se incorporaria aos vencimentos dos servidores. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Acontece que a promoção por merecimento carece de disposição similar, não havendo qualquer menção no sentido de que deve ser considerada após a posse em novos cargos existentes em carreiras similares.
+    Também não há falar em incorporação do adicional. A Lei Complementar Municipal nº 03/98 previu em seu art. 24 §8º que a promoção por merecimento incorpora-se aos vencimentos do servidor por ocasião da aposentadoria, e não após o transcurso de determinado tempo de atividade. Isto significa que a mudança de cargo não determina a incorporação do adicional, vez que por força legal esta só será possível quando o servidor passar à inatividade”. (eDOC 1, p. 107)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO ESPECIAL. INCORPORAÇÃO. LEIS 3.270/1979 E 3.419/1981 DO ESTADO DO ESPÍRITO SANTO. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. (...) AGRAVO INTERNO DESPROVIDO”. (ARE 1033421 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 27.10.2017)
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Servidor público. Gratificações previstas pela Lei Estadual nº 6.613/09. Incorporação. Direito local. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria ínsita ao plano normativo local, tampouco para o reexame dos fatos e das provas constantes dos autos. Incidência das Súmulas nºs 280 e 279/STF. 2. Agravo regimental não provido. (...)”. (RE 1.071.596 AgR, rel. Min. Dias Toffoli, Segunda Turma, DJe 15.2.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista tratar-se de mandado de segurança na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC, em virtude do art. 25 da Lei 12.016/2009.
+    Publique-se.
+    Brasília, 14 de junho de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
