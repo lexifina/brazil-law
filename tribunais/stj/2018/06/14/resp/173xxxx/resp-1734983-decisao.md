@@ -1,0 +1,48 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO COLETIVA DE CONSUMO. BANCÁRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO INDICAÇÃO. SÚMULA 284/STF. CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. POSSIBILIDADE JURÍDICA DO PEDIDO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. TARIFA DE LIQUIDAÇÃO ANTECIPADA. LEGALIDADE. PRECEDENTE DA 2ª SEÇÃO.
+1. Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. É legítima a cobrança da tarifa de liquidação antecipada de contrato, desde que expressamente pactuada nos contratos entabulados até a data da entrada em vigor da Resolução nº 3.501/2007, ou seja, para as operações celebradas antes de 10/12/2007, podem ser cobradas tarifas pela liquidação antecipada no momento em que for efetivada a liquidação, desde que a cobrança dessa tarifa esteja claramente identificada no extrato de conferência. Precedente.
+5. Recurso especial parcialmente conhecido e, nessa parte, provido.
+DECISÃO
+Cuida-se de recurso especial interposto por ITAÚ UNIBANCO S.A, com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 30/05/2014.
+Conclusos ao gabinete em: 26/08/2016.
+Ação: coletiva de consumo, ajuizada pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL em face do recorrente, na qual questiona a cobrança da tarifa de "liquidação antecipada", incidente sobre o valor das prestações vincendas e cobrada em valor mínimo de R$ 250,00, pedindo, ao final, a restituição em dobro do valor cobrado a esse título dos contratantes de financiamentos e mútuos bancários.
+Sentença: julgou procedentes os pedidos da inicial para: a) declarar a nulidade das cláusulas contratuais que prevejam a cobrança da tarifa pela liquidação antecipada; b) condenar a recorrente à obrigação de não mais inserir referida cláusula nos contratos de outorga de crédito ou concessão de financiamento; c) condenar a recorrente a não mais cobrar referida tarifa; d) impor a restituição em dobro dos valores exigidos a esse título; e) fixar a condenação genérica a indenizar e compensar os danos materiais e morais causados aos consumidores individualmente considerados; f) condenar a recorrente a compensar danos morais coletivos; g) impor a obrigação de publicar a sentença em jornais de grande circulação, sob pena de multa diária, no valor de R$ 200.000,00 (duzentos mil reais) para o descumprimento da determinação de publicação em jornais de grande circulação e R$ 10.000,00 (dez mil reais) para as demais obrigações de não-fazer.
+Embargos de declaração: interpostos pelo recorrente, foram acolhidos apenas para esclarecer que os efeitos da sentença abrangem todo o território nacional.
+Acórdão: deu parcial provimento à apelação interposta pelo recorrente para afastar a compensação de danos morais coletivos, estabelecer o prazo prescricional, para fins de restituição, segundo o art. 206, § 3º, VI, do CC e delimitar a eficácia da sentença à competência territorial do órgão jurisdicional prolator.
+Embargos de declaração: interpostos pelo recorrente, foram acolhidos apenas para a correção de erro material.
+Embargos infringentes: interpostos pelo recorrido, foram providos, para dar prevalência ao voto vencido que havia estendido os efeitos da sentença a todo o território nacional.
+Recurso especial: aponta violação dos arts. 219, 267, VI, 461, §§ 4º e 5º, 475-L, e 535, I e II, do CPC/73; 4º, IX, 9º e 10 da Lei 4.595/64; 6º, VII, 42, parágrafo único, 51, IV, 52, III e § 2º, 94 e 95 do CDC; 397, 402 e 422 do CC/02; 13,016,021 da Lei 7.347/85, além de dissídio jurisprudencial.
+Afirma que houve negativa de prestação jurisdicional.
+Alega que o pedido é impossível, pois é vedado ao Poder Judiciário se imiscuir, de maneira abstrata e genérica, no mérito do poder regulamentar e fiscalizatório do Sistema Financeiro Nacional, exercendo controle abstrato de constitucionalidade das normas emitidas pelo CNM/BACEN.
+Argumenta que só o CMN e o BACEN têm competência para regulamentar tarifas bancárias, que as normas por eles editadas autorizam a cobrança da tarifa de liquidação antecipada, cuja exigibilidade não poderia ser afastada pela incidência do CDC.
+Sustenta que não há abusividade na cobrança da tarifa de liquidação antecipada, pois não coloca o consumidor em desvantagem exagerada frente ao fornecedor, não é desproporcional e foi livremente pactuada para reestabelecer o equilíbrio contratual.
+Aduz que os juros de mora somente poderiam ser contabilizados a partir da citação nas ações de liquidação, pois, se a obrigação não é líquida, não pode haver inadimplemento ou mora do devedor.
+Afirma que a condenação à repetição em dobro exige que a cobrança indevida tenha sido praticada de má-fé, o que não ocorre na hipótese dos autos.
+Obtempera que não há determinação legal para a publicação da sentença em jornais de grande circulação.
+Aduz que, por ser legal a tarifa de liquidação antecipada, não há danos materiais e morais e perdas e danos individuais a serem indenizados, sobretudo porque não há prova da ocorrência desses danos e porque a devolução da tarifa já é suficiente para ressarcir os prejuízos dos consumidores.
+Argumenta que as astreintes foram fixadas em valor exorbitante e desproporcional e que não pode ser fixada multa cominatória para obrigação de pagar.
+Sustenta, por fim, que a sentença somente poderia ter eficácia nos limites da competência territorial do órgão prolator.
+Decisão de admissibilidade: o TJ/RS negou seguimento ao recurso especial.
+Agravo: interposto pelo recorrente, determinei sua reautuação como recurso especial (e-STJ, fl. 1.094).
+Parecer do Ministério Público: pelo não provimento do agravo em recurso especial.
+É O RELATO DO NECESSÁRIO. DECIDO.
+Aplicação do CPC/73.
+- Da violação do art. 535, I e II, do CPC
+As supostas omissões não foram individualizadas de forma expressa pelo recorrente, que se limitou, seu recurso especial, a alegar que, caso se entenda que os dispositivos tidos por violados não foram prequestionados, deve ser reconhecida a violação do art. 535, II, do CPC/73.
+Como não houve indicação precisa dos pontos supostamente omissos, o exame do recurso especial, no ponto, é impedido pelo óbice da Súmula 284/STF, ante a ocorrência de deficiência da fundamentação recursal.
+Ademais, não se verifica do acórdão recorrido a apontada contradição, haja vista que a exoneração da compensação de danos morais coletivos não conduz, por si só, ao necessário afastamento da condenação à compensação e indenização dos danos morais e materiais individuais, por se tratarem de distintas ordens de dano que podem ser causadas pela conduta do recorrente, embasadas em também diversos fundamentos de ocorrência.
+De fato, o entendimento do acórdão recorrido de que não há, na hipótese, "lesão a um grupo de pessoas ou ao patrimônio valorativo de uma certa comunidade de pessoas" (e-STJ, fl. 483) não influencia o reconhecimento de danos morais e materiais individuais eventualmente sofridos pelos consumidores, os quais devem ser apurados nas ações individuais de cumprimento.
+Desse modo, não existindo a mencionada contradição e adequadamente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 535, I, do CPC/73.
+- Da impossibilidade jurídica do pedido - ausência de prequestionamento (art. 267, VI, do CPC/73)
+O acórdão recorrido não decidiu acerca dos art. 267, IV, do CPC/73, indicado como violado, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, neste caso, a Súmula 211/STJ.
+- Da incidência do CDC e a legalidade da cobrança de tarifa de liquidação antecipada
+A jurisprudência da 2ª Seção desta Corte recentemente consolidou seu posicionamento a respeito do tema, firmando a orientação de "viabilidade da cobrança da tarifa de liquidação antecipada de contrato, desde que expressamente prevista nos contratos entabulados até a data da entrada em vigor da Resolução nº 3.501/2007, ou seja, para as operações de crédito e arrendamento mercantil contratadas antes de 10/12/2007 podem ser cobradas tarifas pela liquidação antecipada no momento em que for efetivada a liquidação, desde que a cobrança dessa tarifa esteja claramente identificada no extrato de conferência" (REsp 1392449/DF, Segunda Seção, DJe 02/06/2017).
+O acórdão recorrido merece, portanto, reforma, haja vista ter decido em descompasso com a jurisprudência desta Corte, que assentou a legalidade da cobrança da tarifa de liquidação antecipada até 10/12/2007, desde que expressamente pactuada.
+Assim, os pedidos da ação civil pública devem ser julgados integralmente improcedentes, ficando, desse modo, prejudicados os demais temas veiculados no recurso especial, atinentes a: a) repetição em dobro; b) publicação da sentença em jornais de grande circulação; c) danos morais e materiais individuais; d) valor das astreintes; e e) extensão dos efeitos da sentença de procedência do pedido de ação coletiva.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial, e, nessa parte, DOU-LHE PROVIMENTO, com fundamento no art. 255, § 4º, I e III, do RISTJ, para, reformando o acórdão recorrido, julgar IMPROCEDENTES os pedidos da ação coletiva de consumo.
+Isento o autor dos ônus da sucumbência, nos termos dos arts. 87 do CDC e 18 da Lei 7.347/85.
+Publique-se. Intimem-se.
