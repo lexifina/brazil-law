@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. DECADÊNCIA DO DIREITO DE REVISÃO - ART. 103 DA LEI DE BENEFÍCIOS. RE Nº 626.489/SE. REVISÃO DE PENSÃO POR MORTE MEDIANTE RECÁLCULO DO BENEFÍCIO ORIGINÁRIO. DECADÊNCIA - NÃO OCORRÊNCIA. RECÁLCULO DA RMI. RECONHECIMENTO E CÔMPUTO DE TEMPO RURAL. INÍCIO DE PROVA MATERIAL. CONFIGURAÇÃO. REVISÃO DO BENEFÍCIO. CORREÇÃO MONETÁRIA E JUROS DE MORA. DIFERIMENTO. TUTELA ESPECÍFICA. REVISÃO IMEDIATA.
+1. A revisão do ato concessório dos benefícios previdenciários submete-se ao instituto da decadência, em razão da necessidade de manutenção do equilíbrio atuarial do sistema.
+2. Segundo decisão do Plenário do Egrégio STF (RE nº 626.489), o prazo de dez anos (previsto no art. 103, caput, da Lei nº 8.213/91) para a revisão de benefícios previdenciários é aplicável aos benefícios concedidos antes da Medida Provisória nº 1.523-9/1997, que o instituiu, passando a contar a partir do início de sua vigência (28-06- 1997), ou a contar do dia primeiro do mês seguinte ao do recebimento da primeira prestação.
+3. No caso dos autos, entre a concessão da pensão que a autora pretende ver recalculada e o ajuizamento da presente ação não transcorreu o prazo de decadência do direito à revisão postulada.
+4 . É possível o aproveitamento do tempo de serviço rural até 31-10-1991 independentemente do recolhimento das contribuições previdenciárias, exceto para efeito de carência.
+5. No tocante ao trabalho do segurado especial em regime de economia familiar a partir dos 12 anos de idade, a Terceira Seção desta Corte ao apreciar os Embargos Infringentes em AC n.º 2001.04.01.025230-0/RS, Rel. Juiz Federal Ricardo Teixeira do Valle Pereira, na sessão de 12-03-2003, firmou entendimento no sentido da possibilidade de seu cômputo, na esteira de iterativa jurisprudência do egrégio Superior Tribunal de Justiça, tendo a Segunda Turma do Supremo Tribunal Federal.
+6. Considera-se provada a atividade rural do segurado especial havendo início de prova material complementado por idônea prova testemunhal.
+7. A definição dos índices de correção monetária e juros de mora deve ser diferida para a fase de cumprimento do julgado.
+8. A determinação de revisão imediata do benefício, com fundamento nos artigos supracitados, não configura violação dos artigos 128 e 475-O, I, do CPC/1973 e 37 da CF/1988.
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial, o recorrente aponta violação dos arts. 73 e 103, caput, da Lei 8.213/1991.
+Sustenta, em síntese, que o direito de revisão da pensão por morte, recebida pela autora, está fulminado pelo instituto da decadência, vez que o próprio instituidor da pensão já tinha decaído do seu direito de postular a revisão de sua aposentadoria.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O início do prazo decadencial para revisão do valor do benefício originário da pensão por morte se dá após o deferimento desta, em decorrência do princípio da actio nata, tendo em vista que apenas com o óbito do instituidor adveio a legitimidade da pensionista para o pedido de revisão, já que, por óbvio, não era titular do benefício originário de seu marido, direito personalíssimo." (REsp n. 1.675.120/SC, Rel. Min. Og Fernandes, Segunda Turma, julgado em 03.08.2017, DJe de 09.08.2017).
+Assim, de acordo com o princípio da actio nata, não há falar em decadência em relação à pretensão da parte autora de revisão da pensão por morte por intermédio da revisão da renda mensal inicial da aposentadoria, se proposta a ação antes de decorridos 10 anos contados do ato de concessão do benefício derivado.
+Ademais, a decadência é a extinção de um direito em razão da inércia para seu exercício no período determinado em lei.
+No caso em tela, entre a data de concessão da pensão por morte que a Autora pretende ver recalculada (DIB em 11.10.2009) e o ajuizamento da presente ação (em 11.09.2013) não transcorreu o prazo decadencial previsto no art. 103, caput, da Lei 8.213/91.
+No mesmo sentido:
+PREVIDENCIÁRIO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PENSÃO DERIVADA DE APOSENTADORIA OBTIDA JUNTO AO INSS. VIÚVA TITULAR DE PENSÃO POR MORTE DE MARIDO APOSENTADO. MAJORAÇÃO DA PENSÃO MEDIANTE A REVISÃO DA RENDA MENSAL INICIAL (RMI) DA PRETÉRITA APOSENTAÇÃO. PRINCÍPIO DA ACTIO NATA. INÉRCIA NÃO CONFIGURADA.
+DECADÊNCIA AFASTADA. AGRAVO INTERNO PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 no julgamento do Agravo Interno.
+II - A Autora, somente com o falecimento do titular da aposentadoria, e, consequentemente, com a concessão da pensão por morte, adquiriu legitimidade para questionar o ato de concessão do benefício originário recebido pelo falecido marido, cujos reflexos financeiros afetam diretamente o cálculo da renda mensal inicial do benefício derivado - pensão por morte.
+III - De acordo com o princípio da actio nata, não há falar em decadência em relação à pretensão da parte autora de revisão da pensão por morte por intermédio da revisão da renda mensal inicial da aposentadoria, se proposta a ação antes de decorridos 10 anos contados do ato de concessão do benefício derivado.
+IV - O prazo extintivo do direito só pode ser imputado àquele que se manteve silente e inerte no decorrer do tempo quando poderia ter atuado. Logo, a inércia do titular da aposentadoria não pode prejudicar o titular do benefício derivado em buscar a revisão da renda mensal inicial da pensão morte por intermédio da revisão do benefício originário de aposentadoria, porque, antes do óbito do segurado, a pensionista, por óbvio, não possuía legitimidade para discutir o ato de concessão da aposentadoria e seus efeitos patrimoniais no benefício derivado.
+V - No caso em tela, entre a data de concessão da pensão por morte que a Autora pretende ver recalculada (DIB em 26.08.2011) e o ajuizamento da presente ação (em 09.04.2015) não transcorreu o prazo decadencial previsto no art. 103, caput, da Lei n. 8.213/91.
+VI - Agravo Interno provido.
+(AgInt no REsp 1576274/SC, Rel. Ministro SÉRGIO KUKINA, Rel. p/ Acórdão Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 21/11/2017, DJe 11/12/2017)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REGIME GERAL DE PREVIDÊNCIA SOCIAL. REVISÃO DE PRESTAÇÕES. DECADÊNCIA. ART. 103, CAPUT, DA LEI 8.213/1991. NÃO INCIDÊNCIA.
+1. No caso, a autora ajuizou ação de revisão de pensão por morte, objetivando o recálculo da renda mensal inicial do benefício originário de aposentadoria de seu falecido marido.
+2. Tal situação denota que a pretensão veiculada na presente ação consiste na revisão do ato de concessão do benefício de pensão por morte.
+3. Não merece acolhida a irresignação quanto à alegada violação ao artigo 103, caput, da Lei 8.213/1991. O início do prazo decadencial se deu após o deferimento da pensão por morte, em decorrência do princípio da actio nata, tendo em vista que apenas com o óbito do segurado adveio a legitimidade da parte recorrida para o pedido de revisão, já que, por óbvio, esta não era titular do benefício originário, direito personalíssimo.
+4. Ressalte-se que a revisão da aposentadoria gera efeitos financeiros somente pela repercussão da alteração de sua RMI (renda mensal inicial) na pensão por morte subsequente.
+5. Agravo Interno não provido.
+(AgInt no REsp 1522447/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/05/2017, DJe 16/06/2017)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
