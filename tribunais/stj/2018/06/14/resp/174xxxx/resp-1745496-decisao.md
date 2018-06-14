@@ -1,0 +1,40 @@
+EMENTA
+CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS. COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL ADQUIRIDO NA PLANTA. (1) LUCROS CESSANTES. PRESUNÇÃO DE EXISTÊNCIA. PRECEDENTES. (2) ALEGADA INADIMPLÊNCIA DOS ADQUIRENTES COMO CAUSA DE EXCLUSÃO DA RESPONSABILIDADE DA INCORPORADORA E SUPOSTA DESPROPORCIONALIDADE NO ARBITRAMENTO DO PATAMAR DOS LUCROS CESSANTES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+ERIVALDO ALVES DOS [NOME] e JOSINEIDE [NOME] (ERIVALDO e outra) ajuizaram ação de rescisão contratual cumulada com indenização por danos materiais em desfavor de CALGARY INVESTIMENTOS IMOBILIÁRIOS (CALGARY), que foi julgada procedente (e-STJ, fls. 349/356).
+Irresignada, CALGARY interpôs apelação, que foi parcialmente provida pelo Tribunal de origem em acórdão assim ementado:
+EMENTA: Inépcia da inicial. Inocorrência. Pedidos deduzidos que não incompatíveis entre si.
+Legitimidade de parte. Legitimidade passiva da incorporadora, na condição de promitente-vendedora, para responder pela restituição ao consumidor dos valores pagos a título de comissão de corretagem em demanda em que se alega prática abusiva na transferência do encargo (REsp 1.551.951/SP).
+Prescrição. Pretensão de restituição de valores pagos a título de comissão de permanência. Incidência da prescrição trienal (art. 206, § 3º, IV do CC e REsp 1.551.956/SP). Lapso temporal transcorrido. Preliminar acolhida.
+Compromisso de compra e venda. Atraso na entrega da obra. Inadimplemento da ré caracterizado.
+Restituição dos valores pagos. Pretensão à retenção de 50%. Descabimento.Restituição imediata e integral aos acionantes. Incidência do verbete n. 2 das Súmulas desta C. Corte.
+Danos materiais. Determinação de reembolso dos valores pagos a título de alugueres no período de atraso mantida. Despesas comprovadas.
+Juros. Devolução de parcelas pagas. Mora a partir da citação.
+Recurso parcialmente provido. (e-STJ, fl. 522).
+Os embargos de declaração opostos por CALGARY foram rejeitados (e-STJ, fls. 605/605).
+Inconformada, CALGARY interpôs recurso especial, com fundamento no art. 105, a e c, da CF, alegando (1) violação do art. 402 do Código Civil, por considerar que não seriam devidos lucros cessantes quando não houvesse a comprovação do dano, além de o adquirente pretender utilizar o imóvel para residência própria e da circunstância que os recorridos não teriam quitado o saldo devedor. (2) Também indicou dissídio jurisprudencial, tendo por paradigmas precedentes dos Tribunais de Justiça do Estado do Paraná e do Distrito Federal e dos Territórios quanto ao patamar excessivo arbitrado a título de lucros cessantes.
+Em juízo de admissibilidade, a Presidência da Seção de Direito Privado do Tribunal estadual admitiu o referido apelo nobre (e-STJ, fls. 614/616).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Dos lucros cessantes
+Além da Corte de origem haver expressamente assentado que há demonstração de que os recorridos despenderam valores a título de aluguel durante o período de mora da incorporadora, no que se refere ao cabimento de presunção de lucros cessantes em favor de promitente-adquirente de unidade imobiliária enquanto perdurar o atraso na entrega do imóvel pela construtora, verifica-se que o aresto recorrido está em conformidade com a jurisprudência desta Corte no sentido de serem presumidos os lucros cessantes em caso de adiamento na imissão na posse de imóvel pela incorporadora, nos termos das seguintes ementas:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL. EXCLUDENTES DE RESPONSABILIDADE. CASO FORTUITO E FORÇA MAIOR. SÚMULA 7 DO STJ. LUCROS CESSANTES CONFIGURADOS. SÚMULA 83 DO STJ. ENTREGA DAS CHAVES. ENCARGOS CONDOMINIAIS. RESPONSABILIDADE DO PROMITENTE COMPRADOR A PARTIR DA POSSE. PRECEDENTES. SÚMULA 83 DO STJ. DANO MORAL. VALOR. SÚMULA 7 DO STJ.
+1. O reconhecimento de caso fortuito ou força maior no atraso da entrega do imóvel demanda o reexame do contexto fático e probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+2. Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+3. O promitente comprador somente é responsável pelos encargos condominiais após a sua imissão na posse do imóvel. Precedentes. Súmula 83 do STJ.
+4. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade, de modo que a tese defendida no agravo em recurso especial demanda o reexame do contexto fático e probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+(AgInt no AREsp 1.034.823/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, j. 23/05/2017, DJe 02/06/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. CLÁUSULA DE TOLERÂNCIA. INOBSERVÂNCIA. DANOS MATERIAIS. LUCROS CESSANTES. CONFIGURAÇÃO. PREJUÍZO PRESUMIDO.
+1. Não há falar em negativa de prestação jurisdicional se o Tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A jurisprudência desta Corte Superior é no sentido de que, descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, sobretudo após o esgotamento do período de prorrogação, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promissário comprador, cabendo ao vendedor, para se eximir do dever de indenizar, fazer prova de que a mora contratual não lhe é imputável.
+3. Chegar a conclusão diversa acerca de quem foi o responsável pelos prejuízos sofridos pelos adquirentes, se eles próprios ou a construtora, demanda o revolvimento do acervo fático-probatório dos autos, o que é vedado na via do recurso especial, a teor da Súmula nº 7/STJ.
+(AgInt no REsp 1.582.318/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, j. 23/05/2017, DJe 31/05/2017)
+(1) e (2) Da alegação de negativa de pagamento do saldo devedor pelos recorridos e do sustentado valor desproporcional dos lucros cessantes
+O Tribunal de origem não chegou a se manifestar acerca das alegações de negativa de pagamento do saldo devedor pelos recorridos como causa de exclusão da responsabilidade da incorporadora e do excessivo patamar dos lucros cessantes.
+Portanto, os temas, da forma como apresentados, carecem do devido prequestionamento, trazendo à incidência o teor das Súmulas nºs 282 e 356 do STF e 211 do STJ.
+Nessas condições, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados pela Corte de origem em desfavor de CALGARY, limitados a 20%, nos termos do art. 85, § 11 do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
