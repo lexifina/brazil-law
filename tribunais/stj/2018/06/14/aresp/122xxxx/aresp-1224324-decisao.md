@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. IMPUGNAÇÃO AO CUMPRIMENTO DA SENTENÇA. COISA JULGADA. VALOR PATRIMONIAL A SER CONSIDERADO PARA O CÁLCULO DO NÚMERO DE AÇÕES. O cálculo do número de ações deve observar o determinado na decisão exequenda vinculada à execução, sendo inviável a rediscussão da lide.
+RENDIMENTOS. Os rendimentos das ações devem ser limitados até a data do pedido de cumprimento da sentença, por execução.
+CÁLCULO DOS JUROS SOBRE CAPITAL PRÓPRIO. Valores incluídos no cálculo da contadoria judicial referentes a juros sobre capital próprio distribuídos pela Brasil Telecom Participações S/A, empresa diversa da condenada, Brasil Telecom S/A. Necessidade de exclusão dessas parcelas.
+CÁLCULO DO NÚMERO DE AÇÕES. GRUPAMENTO ACIONÁRIO. O cálculo das ações a serem indenizadas deve considerar também o grupamento acionário definido em Assembléia-Geral realizada pelas empresas.
+MULTA. ART. 475-J DO CPC. TERMO INICIAL DO PRAZO. NECESSIDADE DE INTIMAÇÃO POR NOTA DE EXPEDIENTE. O prazo de quinze dias previsto no art. 475-J, caput, do CPC, começa a correr da intimação por nota de expediente do advogado do devedor, sendo desnecessária a intimação pessoal.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.
+(e-STJ, fl. 633)
+Opostos embargos de declaração, foram rejeitados (fls. 664/667).
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 170, § 1º, e 205 da Lei 6.404/76, 92 e 884 do CC e 475-J do antigo CPC, bem como divergência jurisprudencial, sustentando, em síntese, que: (a) deve ser utilizado o balancete mensal para aferição do valor patrimonial da ação na data da integralização ; (b) os dividendos devem ser distribuídos até a data da cotação para conversão das ações em pecúnia, ou seja, o momento em que a parte adversa deixa de ser acionista; e (c) não deve incidir a multa prevista no art. 475-J, aduzindo tratar-se a execução de provisória.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Inicialmente, no tocante à alegada violação do art. 475-J do antigo CPC, quanto à inaplicabilidade da referida multa na hipótese de execução, verifica-se que a discussão invocada no apelo nobre não foi apreciada pelo Tribunal a quo, ainda que a parte ora recorrente tenha oposto embargos de declaração a fim de sanar eventual irregularidade.
+Caberia à recorrente, na espécie, alegar a violação do art. 1.022 do CPC/2015, providência, todavia, da qual não se desincumbiu.
+Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe de 15/09/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. PREVIDÊNCIA PRIVADA. ART. 884 DO CÓDIGO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. 1
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. Se a questão levantada não foi discutida pelo tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 562.067/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017)
+Quanto à apuração do valor patrimonial da ação, o acórdão recorrido assim consignou:
+"Em síntese, a execução encontra-se vinculada à decisão exequenda, sendo inviável a rediscussão da lide.
+A Vigésima Quarta Câmara Cível, na esteira da jurisprudência do Egrégio STJ (Recurso Especial n. 1.033.241-RS e Súmula n. 371), firmou entendimento no sentido de que. nos contratos de participação financeira, o cálculo do número de ações deve considerar o valor patrimonial da ação apurado no balancete mensal correspondente à data da integralização.
+No entanto, a alteração da jurisprudência não possui o condão de atingir a coisa julgada, sendo que o cálculo do número de ações realizado em sede de cumprimento da sentença deve observar o determinado na decisão exequenda.
+A tese da impugnante acerca do balancete mensal não restou acolhida na ação de conhecimento, razão pela qual não pode ser novamente deduzida e discutida em sede de impugnação ao cumprimento da sentença, sob pena de manifesta afronta à coisa julgada. (e-STJ, fl. 636).
+Diante desse quadro acima, verifica-se que o Tribunal de origem alinhou-se ao entendimento desta Corte no sentido de que a alteração, na fase de cumprimento de sentença, do critério de cálculo do valor patrimonial da ação definido no título exequendo configura ofensa à coisa julgada. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. OFENSA À COISA JULGADA. BRASIL TELECOM S.A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SÚMULA Nº 371/STJ. VALOR PATRIMONIAL DA AÇÃO (VPA). APURAÇÃO. DIVIDENDOS. TERMO FINAL. TRÂNSITO EM JULGADO DO PROCESSO DE CONHECIMENTO. JUROS SOBRE JUROS. VERIFICAÇÃO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. INVIABILIDADE.
+1. Constando do título judicial exequendo o critério de cálculo do VPA, inviável alterá-lo, em cumprimento de sentença, (adoção do balancete mensal), sem que se configure ofensa à coisa julgada.
+2. Em homenagem ao princípio da coisa julgada, inaplicável na espécie a Súmula nº 371/STJ, que estabelece, para os contratos de participação financeira para a aquisição de linha telefônica, que o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização.
+3. Os dividendos são devidos até o trânsito em julgado do processo de conhecimento, conforme entendimento firmado em recurso processado sob o rito do artigo 543-C do Código de Processo Civil.
+4. A reforma do julgado no que diz respeito ao excesso de execução demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp 511.116/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/04/2016, DJe 15/04/2016)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. DIVIDENDOS. FORMA DE CÁLCULO ESTABELECIDO NO TÍTULO EXEQUENDO. COISA JULGADA. VIOLAÇÃO. NÃO OCORRÊNCIA. AGRAVO IMPROVIDO.
+1. Na fase de cumprimento de sentença não pode ser alterada a forma de cálculo da indenização prevista no título executivo judicial, sob pena de violação da coisa julgada.
+2. Agravo interno improvido.
+(AgInt nos EDcl no REsp 1577235/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/05/2017, DJe 31/05/2017)
+Quanto aos dividendos, a Segunda Seção do STJ, no julgamento do Recurso Especial repetitivo n. 1.301.989/RS (relator Ministro Paulo de Tarso Sanseverino, DJe de 19.3.2014), firmou entendimento no sentido de que o termo final para o seu pagamento é a data da conversão das ações em pecúnia, isto é, a data do trânsito em julgado da ação de conhecimento, momento em que a parte autora deixa de ser detentora do direito a ações para ser credora de indenização. A propósito, transcrevo a ementa do referido julgado:
+"RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. CIVIL E PROCESSUAL CIVIL. BRASIL TELECOM S/A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CESSÃO DE DIREITOS. LEGITIMIDADE ATIVA DO CESSIONÁRIO. COMPLEMENTAÇÃO DE AÇÕES. CONVERSÃO DA OBRIGAÇÃO EM PERDAS E DANOS. CRITÉRIOS. COISA JULGADA. RESSALVA.
+1. Para fins do art. 543-C do CPC: 1.1. O cessionário de contrato de participação financeira tem legitimidade para ajuizar ação de complementação de ações somente na hipótese em que o instrumento de cessão lhe conferir, expressa ou tacitamente, o direito à subscrição de ações, conforme apurado nas instâncias ordinárias.
+1.2. Converte-se a obrigação de subscrever ações em perdas e danos multiplicando-se o número de ações devidas pela cotação destas no fechamento do pregão da Bolsa de Valores no dia do trânsito em julgado da ação de complementação de ações, com juros de mora desde a citação.
+1.3. Os dividendos são devidos durante todo o período em que o consumidor integrou ou deveria ter integrado os quadros societários.
+1.3.1. Sobre o valor dos dividendos não pagos, incide correção monetária desde a data de vencimento da obrigação, nos termos do art. 205, § 3º, Lei 6.404/76, e juros de mora desde a citação.
+1.3.2. No caso das ações convertidas em perdas e danos, é devido o pagamento de dividendos desde a data em que as ações deveriam ter sido subscritas, até a data do trânsito em julgado do processo de conhecimento, incidindo juros de mora e correção monetária segundo os critérios do item anterior.
+1.4. Ressalva da manutenção de critérios diversos nas hipóteses de coisa julgada.
+2. Caso concreto: 2.1. Recurso Especial de BRASIL TELECOM S/A: Ausência de indicação do dispositivo de lei federal que fundamenta a alegada divergência jurisprudencial, o que atrai a incidência do óbice da Súmula 284/STF.
+2.2. Recurso Especial de SÉRGIO MARQUES ASSESSORIA IMOBILIÁRIA LTDA: 2.2.1. Inocorrência de maltrato ao art. 535 do CPC quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos deduzidos pelas partes.
+2.2.2. Ausência de indicação do dispositivo de lei federal que fundamenta a alegada divergência jurisprudencial no que tange à questão da legitimidade ativa. Óbice da Súmula 284/STF.
+2.2.3. "Nos contratos de participação financeira para a aquisição de linha telefônica, o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização" (Súmula 371/STJ).
+2.2.4. Aplicação do item 1.2 ao caso concreto.
+2.2.5. Aplicação do item 1.3.2. ao caso concreto.
+2.2.6. Carência de interesse recursal no que tange ao critério de arbitramento dos honorários advocatícios, devido à sucumbência recíproca.
+3. RECURSO ESPECIAL DE BRASIL TELECOM S/A NÃO CONHECIDO E RECURSO ESPECIAL DE SÉRGIO MARQUES ASSESSORIA IMOBILIÁRIA LTDA PARCIALMENTE CONHECIDO E, NESSA PARTE, PARCIALMENTE PROVIDO." (g.n.)
+Assim, estando o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior, incide, na espécie, o óbice previsto na Súmula 83 do STJ, aplicável, também, às hipóteses de interposição pela alínea "a" do artigo 105, III, da Constituição Federal.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
