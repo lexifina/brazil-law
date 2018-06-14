@@ -1,0 +1,36 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. CONFIGURADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS
+DECISÃO
+SUCESSÃO DE ENIO ALVES FORTES e SUCESSÃO DE ALBERTO ERNANI BIER (SUCESSÃO DE ENIO) interpuseram agravo de instrumento contra decisão que indeferiu o pedido de aplicação de multa de 10% sobre o valor da condenação, prevista no art. 475-J do CPC/73 e deixou de fixar honorários advocatícios relativos à fase de cumprimento de sentença movida em desfavor de FUNDAÇÃO BANRISUL DE SEGURIDADE SOCIAL (FUNDAÇÃO).
+Irresignada, SUCESSÃO DE ENIO interpôs agravo de instrumento, que não foi provido pelo Tribunal de origem em acórdão, assim ementado:
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. CUMPRIMENTO DE SENTENÇA. MULTA ART. 523, §1º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO SOBRE A PARTE INCONTROVERSA DA CONDENAÇÃO DEPOSITADA INTEGRALMENTE. PAGAMENTO ESPONTÂNEO DA OBRIGAÇÃO. DEPÓSITO EFETUADO DENTRO DO PRAZO LEGAL.
+1. Preambularmente, cumpre destacar que a decisão recorrida foi publicada após 17/03/2016. Assim, em se tratando de norma processual, há a incidência da legislação atual, na forma do art. 1.046 do Código de Processo Civil de 2015 e de acordo com o enunciado do Superior Tribunal de Justiça quanto à incidência da legislação processual.
+2. O artigo 523, caput e §1º do novel Código de Processo Civil estabelece que o cumprimento de sentença se inicia a requerimento do exeqüente, sendo intimado o devedor para satisfazer o débito, no prazo de quinze dias, acrescendo-se a multa em caso de ausência de pagamento voluntário no interregno de tempo fixado em lei, conforme segue.
+3. Contudo, pela análise dos documentos carreados aos autos, verifica-se que no presente caso a parte agravada foi intimada, por meio de nota de expediente, para efetuar o pagamento do valor devido, tendo efetuado o depósito judicial do valor tempestivamente, ou seja, antes do término do prazo de quinze dias para pagamento da dívida, sendo, portanto, inaplicável a aludida multa do art. 523, §1º, do novel diploma processual.
+4. Ademais, no que diz respeito ao arbitramento de honorários advocatícios em sede de cumprimento de sentença, a súmula n. 517 do Superior Tribunal de Justiça dispõe que: são devidos honorários advocatícios no cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário, que se inicia após a intimação do advogado da parte executada.
+5. Assim, não há que se falar em fixação de honorários advocatícios para o caso de pagamento espontâneo de parte obrigação, dentro do prazo legal.
+Negado provimento ao agravo de instrumento (e-STJ, fls. 342/343).
+Os embargos de declaração opostos por SUCESSÃO DE ENIO foram rejeitados (e-STJ, fls. 365/373).
+Inconformado, SUCESSÃO DE ENIO interpôs recurso especial com fundamento nas alíneas a e c do permissivo constitucional, apontando a violação dos seguintes dispositivos legais: (1) art. 1.022 II, do CPC/73, por considerar que o acórdão recorrido se quedou omisso quanto à alegação de que o simples depósito no prazo legal com a finalidade de impugnar, com pedido de suspensão e caução, não pode ser considerado como pagamento voluntário do débito; e (2) art. 475-J do CPC/73, por reputar que a respectiva multa é devida quando o depósito visou apenas garantir o juízo para o manejo da impugnação ao cumprimento de sentença, tendo inclusive sido requerida a atribuição de efeito suspensivo e a prestação de caução para a liberação de valores. Também indicou dissídio jurisprudencial, tendo por paradigma precedente desta Corte Superior.
+O apelo nobre não foi provido em decisão monocrática de minha relatoria, assim ementada:
+PROCESSO CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. FASE DE CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS E MULTA DO ART. 475-J DO CPC/73. DEPÓSITO ESPONTÂNEO DENTRO DO PRAZO LEGAL. NEGATIVA DE CABIMENTO DOS ENCARGOS. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fl. 480).
+Nas razões deste aclaratório, SUCESSÃO DE ENIO afirmou a existência de omissão quanto à alegada violação do art. 1.022 do NCPC indicada nas razões do apelo nobre.
+Houve impugnação (e-STJ, fls. 491/494).
+É o relatório.
+DECIDO.
+O atual inconformismo merece prosperar.
+De plano vale pontuar que a disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório, SUCESSÃO DE ENIO afirmou a existência de omissão quanto à alegada violação do art. 1.022 do NCPC indicada nas razões do apelo nobre. Alegaram que o Tribunal de origem não se manifestou quanto à alegação que o mero depósito para garantia do juízo não se comporta como pagamento.
+Assiste razão ao embargante porque o tema não foi tratado na decisão embargada.
+Da violação do art. 1.022 do NCPC no recurso especial
+Da acurada análise do acórdão proferido pelo Tribunal de origem, no julgamento dos aclaratórios, é possível verificar que a Corte concluiu que o depósito visou o pagamento do valor devido e, portanto, inaplicável a multa pretendida, confira-se:
+No ponto em discussão, cumpre salientar que pela análise dos documentos carreados aos autos, verifica-se que no presente caso a parte embargada foi intimada, por meio de nota de expediente, para efetuar o pagamento do valor devido, tendo efetuado o depósito judicial do valor tempestivamente, ou seja, antes do término do prazo de quinze dias para pagamento da dívida, sendo, portanto, inaplicável a aludida multa do art. 523, §1Q, do novel diploma processual.
+Verifica-se, portanto, que nada há a declarar, tendo em vista que não há qualquer obscuridade, contradição, omissão ou sequer erro material na fundamentação constante no acórdão embargado, não se enquadrando o presente recurso em quaisquer das hipóteses previstas no art. 1.022 da novel legislação processual  ..  (e-STJ, fl. 367).
+Assim, não há como ser acolhida a alegada violação do art. 1.022 do NCPC porque houve pronunciamento da Corte de origem ainda que em sentido contrário a pretensão da parte.
+Nessas condições, ACOLHO os embargos de declaração.
+Por fim, advirto que eventual recurso interposto contra esta decisão estará sujeito ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 3º, do NCPC).
+Publique-se. Intime-se.
