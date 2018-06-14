@@ -1,0 +1,18 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO DE BEM DE FAMÍLIA. NÃO OCORRÊNCIA DE FRAUDE À EXECUÇÃO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto com fundamento no art. 105, III, a da Constituição da República e voltado contra o acórdão proferido pelo egrégio Tribunal Regional Federal da 4a. Região, assim ementado:
+EMBARGOS À EXECUÇÃO. RESPONSABILIDADE DO SÓCIO. DISSOLUÇÃO IRREGULAR. FRAUDE À EXECUÇÃO. BEM DE FAMÍLIA.
+Nos termos da Súmula nº 435 do STJ, "presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente."
+A venda do bem de família não caracteriza fraude à execução (fls. 533).
+2. Os Embargos de Declaração foram rejeitados (fls. 558/567).
+3. Nas razões do Apelo Nobre, o Recorrente defende, com base no art. 185 do CTN, que a simples alienação ou oneração de bens ou rendas, ou seu começo, pelo sujeito passivo por quantia inscrita em dívida ativa, sem a reserva de meios para quitação do débito, gera presunção absoluta (jure et de jure) de fraude à execução (fls. 580).
+4. É o breve relatório. Decido.
+5. Sobre o tema, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, mesmo quando o devedor aliena o imóvel que lhe sirva de residência, deve ser mantida a cláusula de impenhorabilidade porque imune aos efeitos da execução, e, caso reconhecida a invalidade do negócio, o imóvel voltaria à esfera patrimonial do devedor ainda como bem de família (AgInt no REsp 1.486.437/PR, Rel. Min. OG FERNANDES, DJe 14.5.2018). No mesmo sentido:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRELIMINAR DE DESERÇÃO AFASTADA PELO ACÓRDÃO RECORRIDO. REEXAME. SÚMULA 7 DO STJ. BEM DE FAMÍLIA. IMPENHORABILIDADE. PROTEÇÃO À MORADIA CONFERIDA PELA CF E PELA LEI 8.009/90. ALIENAÇÃO DE BEM DE FAMÍLIA. NÃO-OCORRÊNCIA DE FRAUDE À EXECUÇÃO. PRECEDENTES DO STJ. INCIDÊNCIA DA SÚMULA 83 DESTA CORTE. REVERSÃO DAS CONCLUSÕES DO ACÓRDÃO QUE IMPLICARIA, NECESSARIAMENTE, O REEXAME DO ACERVO PROBATÓRIO DOS AUTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte Regional afastou a alegada deserção, afirmando que o preparo foi regularmente complementado dentro do prazo, após intimação regular da parte. A reversão da conclusão alcançada na instância ordinária, como pretendida pelo recorrente, imporia a necessidade do revolvimento de circunstâncias fáticas, providência vedada pelo Enunciado 7 da Súmula desta Corte.
+2. Em se tratando de único bem de família, o imóvel familiar é revestido de impenhorabilidade absoluta, consoante a Lei 8.009/1990, tendo em vista a proteção à moradia conferida pela CF; segundo a jurisprudência desta Corte, não há fraude à execução na alienação de bem impenhorável, tendo em vista que o bem de família jamais será expropriado para satisfazer a execução, não tendo o exequente qualquer interesse jurídico em ter a venda considerada ineficaz. Incidência da Súmula 83 desta Corte.
+3. A inversão do julgado a fim de reverter as conclusões do acórdão recorrido de que não se trata de bem impenhorável, por não ser bem de família implicaria, necessariamente, o reexame do acervo probatório dos autos, o que é defeso nesta Corte, a teor da Súmula 07/STJ.
+4. Agravo Regimental da Fazenda Nacional desprovido (AgRg no AREsp 255.799/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 27.9.2013).
+6. Diante do exposto, conhece-se do Agravo para negar provimento ao Recurso Especial.
+7. Publique-se.
+8. Intimações necessárias.
