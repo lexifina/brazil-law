@@ -1,0 +1,16 @@
+Despacho: Trata-se de Ação Direta de Inconstitucionalidade, com pedido de medida cautelar, proposta pela Associação Brasileira de Distribuidores de Energia Elétrica - ABRADEE, em face dos arts. 1º e 2º da Lei 14.040/2003 do Estado do Paraná, a qual proíbe que as empresas de concessão de serviços públicos de água e luz façam o corte do fornecimento residencial de seus serviços por falta de pagamento de contas em dias específicos e dá outras providências.
+    Eis, em destaque, o teor dos dispositivos legais impugnados:
+    Art. 1º. Ficam, as empresas de concessão de serviços públicos de água e luz, proibidas de cortar o fornecimento residencial de seus serviços, por falta de pagamento de suas respectivas contas, às sextas-feiras, sábados, domingos, feriados e no último dia útil anterior a feriado.
+    Art. 2º. Ao consumidor que tiver suspenso o fornecimento nos dias específicos no artigo anterior, fica assegurado o direito de acionar juridicamente a empresa concessionária por perdas e danos, além de ficar desobrigado do pagamento do débito que originou o referido corte.
+    Art. 3º. Esta lei entrará em vigor na data de sua publicação.
+    A autora argumenta ser parte legítima para o ajuizamento da ação, por possuir caráter nacional e contar com associados em todos os Estados da Federação, tendo, entre os seus objetivos, a representação judicial e extrajudicial das empresas concessionárias de distribuição de energia elétrica. Alega estar presente o requisito da pertinência temática, já que a norma impugnada afeta diretamente os interesses de seus associados, “impondo-lhes restrições para o fornecimento de energia elétrica que não estão previstas nem no contrato de concessão, nem na legislação federal”.
+    No mérito, a requerente sustenta serem os dispositivos questionados formalmente inconstitucionais, por usurpação de competência privativa da União (i) para legislar sobre energia elétrica (art. 22, IV, da CF); (ii) para dispor sobre o regime das empresas concessionárias e permissionárias de serviço público federal e sobre direitos dos usuários (art. 175, caput e parágrafo único, I e II, da CF); e (iii) para legislar sobre matéria de direito civil, no caso, extinção da dívida (art. 22, I, da CF) e materialmente inconstitucionais, por violação ao princípio do equilíbrio econômico-financeiro dos contratos de concessão (art. 37, XXI, da CF). Colaciona jurisprudência deste SUPREMO TRIBUNAL FEDERAL que entende abonar sua tese.
+    Foi formulado pedido cautelar para suspensão da eficácia dos dispositivos impugnados, ou, alternativamente, da expressão “e luz” constante do art. 1º atacado.
+    Diante da relevância da matéria constitucional suscitada e de seu especial significado para a ordem social e a segurança jurídica, mostra-se adequada a adoção do rito do art. 12 da Lei 9.868/1999, pelo que determino:
+    a) solicitem-se as informações, a serem prestadas, no prazo de 10 (dez) dias, pelo Governador do Paraná e pela Assembleia Legislativa daquele Estado; e
+    b) em seguida, remetam-se os autos à Advogada-Geral da União e à Procuradora-Geral da República, sucessivamente, no prazo de 5 (cinco) dias, para a devida manifestação.
+    Publique-se.
+    Brasília, 14 de junho de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
