@@ -1,0 +1,71 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. VIOLAÇÃO AO ART. 59 DO CP. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL DAS CONSEQUÊNCIAS DO DELITO. RES FURTIVAE NÃO RECUPERADA. ELEMENTO INERENTE AO TIPO PENAL. COMPORTAMENTO DA VÍTIMA. CONDUTA NEUTRA. FUNDAMENTAÇÃO INIDÔNEA. REDUÇÃO DA PENA-BASE. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME], contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Piauí, ementado verbis:
+"APELAÇÃO CRIMINAL. ROUBO MAJORADO. PRELIMINAR DE INTEMPESTIVIDADE. REJEITADA. ABSOLVIÇÃO. IMPOSSIBILIDADE. DECOTE DAS MAJORANTES. TESE AFASTADA. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. NÃO CABIMENTO. RÉU PARTICIPOU ATIVAMENTE DE TODAS AS ETAPAS DO ITER CRIMINIS. DOSIMETRIA DA PENA. REALIZADA EM ACORDES COM A LEGISLAÇÃO. CONHECIMENTO E IMPROVIMENTO DO RECURSO.
+1. Não consta dos autos certidão de intimação do réu acerca do inteiro teor da sentença condenatória, que deveria ser pessoal, em virtude de o mesmo ser patrocinado pela Defensoria Pública. Por conta de dificuldades de ordem prática que obstam o contato entre assistido e defensor público, o chamado para a prática do ato processual deverá ser realizado por meio da intimação pessoal da própria parte, não sendo suficiente a remessa dos autos à Defensoria Pública. Por conseguinte, o recurso apresentado é tempestivo, o que afasta a preliminar levantada.
+2. A sentença proferida pelo magistrado está em harmonia com todo o bojo probatório constante do feito, não vislumbro qualquer vício que permita a modificação do julgado. A prova produzida, conforme analisado, forneceu a convicção necessária para a prolação do decreto condenatório, por ser consistente e verossímil, não deixando transparecer dúvida concreta da ligação do apelante com a prática delituosa.
+3. As provas colhidas em sede inquisitorial e corroboradas em juízo denotam que as causas de aumento em liça são incontestáveis, na medida em que as declarações da vítima denotam que esta realmente acreditou que pudesse ser atingida pela arma utilizada pelo comparsa do apelante, caso não colaborasse com o sucesso da empreitada criminosa, circunstância capaz de reduzir a capacidade de defesa de qualquer pessoa.
+4. Inconteste que o apelante agiu em conluio com outros dois agentes para a prática do delito descrito na peça exordial, sendo que enquanto um deles, mediante uso de arma de fogo, ameaçava a vítima e determinava que lhe entregasse dinheiro, o ora apelante encontrava-se pilotando a motocicleta utilizada no delito, aguardando o término da execução para empreenderem fuga do local, tendo todos, portanto, participado ativamente da empreitada criminosa, exercendo papel decisivo na configuração do delito.
+5. A estipulação de uma pena-base no montante de 5 (cinco) anos e 6 (seis) meses, mesmo quando tomado em conta que o crime admite pena abstrata de 4 (quatro) a 10 (dez) anos, não consubstancia violação à proporcionalidade ou razoabilidade, haja vista a presença de elementos negativadores da conduta (conseqüências do crime e comportamento da vítima).
+6. Recurso conhecido e improvido" (fls. 365/366).
+Em seu recurso especial, às fls. 383/392, sustenta o recorrente afronta ao artigo 59 do Código Penal, alegando que a pena-base deveria ter sido fixada no mínimo legal, porquanto as instâncias ordinárias utilizaram fundamentos inidôneos para a exasperação.
+Ademais, aponta violação aos artigos 49 e 60, ambos do Código Penal, ao argumento de que não houve proporcionalidade na imposição da pena de multa.
+Requer seja a pena-base fixada no mínimo legal, bem como seja a pena de multa imposta proporcionalmente à pena privativa de liberdade fixada.
+O Tribunal de origem, entretanto, negou seguimento ao recurso, às fls. 415/417, sob os seguintes fundamentos:
+"O presente recurso atende aos pressupostos processuais genéricos de admissibilidade.
+Quanto ao pressuposto específico do art. 105, III, "a", da CF, a tese recursal relativa ao art. 59 do CP é insuscetível de apreciação na via eleita, porquanto rever os critérios utilizados pelos julgadores na fixação da pena-base exigiria profundo reexame do conjunto fático-probatório dos autos (Súmula 07/STJ).
+A jurisprudência da Corte Superior é assente no sentido de que a pretensão de revisão da dosimetria implica revolvimento de fatos e provas, mormente se o pleito é direcionado à nova valoração das circunstâncias judiciais, como ocorre no presente caso.
+Ademais, preceitua que a dosimetria se insere dentro de um juízo de discricionariedade do julgador e está diretamente vinculada às particularidades fáticas do caso concreto e subjetivas dos agentes, somente podendo ser revista pelo Superior Tribunal em situações excepcionais, quando malferida alguma regra de direito, o que não restou demonstrado na espécie.
+No que se refere à pena de multa, o intuito de reexame probatório é ainda mais evidente, porquanto a matéria sequer foi discutida no acórdão vergastado e não houve oposição de embargos declaratórios para sanar eventual omissão (Súmulas 282 e 356 do STF).
+Em virtude do exposto, nego seguimento ao Recurso Especial".
+Em seu agravo, às fls. 424/431, assevera o recorrente que "a figura do prequestionamento implícito é aceita, uma vez que o assunto fora levantado em sede de apelação". Ademais, afirma que "o que se almeja com o recurso especial em comento não é o reexame de provas, mas sim a revaloração das provas".
+O Ministério Público Federal manifestou-se às fls. 458/465 pelo não provimento do agravo em recurso especial.
+É o relatório.
+A insurgência não merece prosperar.
+Com efeito, no que se refere à suposta violação ao artigo 59 do Código Penal, entendo que assiste razão ao recorrente. Para melhor análise da controvérsia, transcreve-se trecho da sentença condenatória que tratou do assunto (fl. 297/298):
+"1. DOSIMETRIA:
+a) Circunstâncias Judiciais (art.59, CP):
+a.l) culpabilidade: favorável, pois o réu agiu com dolo compatível com o crime.
+a.2) antecedentes: Favorável, pois o réu não apresenta antecedentes criminais;
+a.3) conduta social: item prejudicado, pois não foi possível aferir;
+a.4) personalidade: item prejudicado, pois não foi possível verificar a personalidade do Réu.
+a.5) motivos do crime: item prejudicado, pois não foi possível aferi-lo.
+a.6) circunstâncias do crime: Favorável,
+a.7) conseqüências do crime: Desfavorável ao réu, pois o dinheiro subtraído não foi totalmente recuperado.
+a.8) comportamento da vítima: Desfavorável ao réu, pois a vítima em nenhum momento contribuiu, com o seu comportamento, para a prática do ato".
+O Tribunal a quo, por sua vez, manifestou-se nos seguintes termos (fl. 375):
+"O réu argumenta, ainda, que houve errônea dosimetria da pena ao se analisar as circunstâncias judiciais, pugnando pelo redimensionamento da sanção imposta.
+Em que pese a irresignação do acusado, vejo que a sua tese não merece maiores debates, inexistindo base para que a sanção imposta seja anulada ou modificada. A fundamentação da sentença encontra-se em consonância com os dispositivos pátrios que tratam do assunto, porquanto observados os requisitos necessários à finalização da sanção.
+A estipulação de uma pena-base no montante de 5 (cinco) anos e 6 (seis) meses, mesmo quando tomado em conta que o crime admite pena abstrata de 4 (quatro) a 10 (dez) anos, não consubstancia violação à proporcionalidade ou razoabilidade, haja vista a presença de elementos negativadores da conduta (conseqüências do crime e comportamento da vítima).
+Com efeito, as balizas do art. 59 do Código Penal não possuem uma tarifação legal sobre o quantum para a exasperação da reprimenda, donde a análise cabe dentro de um prudente e fundamentado juízo do magistrado. Por óbvio que tal discricionariedade não pode ser confundida com arbitrariedade, devendo o julgador, embora com certa margem de liberdade, estabelecer a pena base em atenção aos limites legais e tomando por base os dados objetivos do processo.
+Feita esta consideração, sendo idôneos os fundamentos e razoável a quantidade de aumento em face de aspectos desfavoráveis, é de se manter a decisão proferida pelo julgador monocrático, inexistindo motivos para modificar a sanção, vez que inexistente erro ou flagrante injustiça".
+Da análise da fundamentação acima exposta, observa-se que as instâncias ordinárias afastaram a pena-base do mínimo legal por considerar em desfavor do recorrente as circunstâncias judiciais das consequências do delito e do comportamento da vítima.
+No que tange às consequências do crime, verifica-se que esta foi considerada negativa porque a res furtiva não foi totalmente recuperada.
+Contudo, constata-se que essa fundamentação é inidônea, merecendo, portanto, reparo por este Sodalício. Com efeito, é assente nesta Corte Superior o entendimento de que "o fato da res, no crime de roubo, não ter sido recuperada, ou devolvida com avarias, não pode legitimar o aumento na pena-base, com supedâneo nas consequências do crime, pois a subtração é elemento do próprio tipo penal." (HC 156500/DF, 5.ª Turma, Rel. Ministra LAURITA VAZ, DJe de 21/11/2011.)
+No mesmo sentido, confira-se:
+"HABEAS CORPUS SUBSTITUTO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. FURTO SIMPLES. EXASPERAÇÃO DA PENA-BASE. NÃO RESTITUIÇÃO DOS BENS À VITIMA. FUNDAMENTAÇÃO INIDÔNEA. CONSEQUÊNCIAS INERENTES AO TIPO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+3. O fundamento utilizado para valorar negativamente as consequências do crime não é idôneo. Isso porque, o fato de os bens não terem sido restituídos à vítima é uma circunstância inerente ao próprio tipo do furto, portanto, não pode ser utilizado para exasperar a pena-base.
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, para redimensionar a pena do paciente".
+(HC 379.522/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 14/02/2017, DJe 17/02/2017)
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO. VIOLAÇÃO DOS ARTS. 59 E 68, AMBOS DO CP. DOSIMETRIA. PENA-BASE. NEGATIVAÇÃO DAS CONSEQUÊNCIAS DO DELITO. PREJUÍZOS SOFRIDOS PELAS VÍTIMAS. NÃO RESTITUIÇÃO DOS BENS APREENDIDOS. ELEMENTAR DO TIPO.
+1. O fundamento apresentado pelo Tribunal de origem para exasperação da pena-base se ateve tão somente ao fato de as vítimas não terem recuperado os seus bens subtraídos.
+2. Tal razão não se mostra suficiente a ponto de elevar a pena-base, pois, além de descrever fato comum ao tipo penal do furto, para caracterizar uma maior reprovabilidade da referida conduta, seria necessária a apresentação de outros elementos que dessem maior robustez à negativação.
+3. Agravo regimental improvido".
+(AgRg no REsp 1577453/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/06/2016, DJe 27/06/2016)
+Da mesma forma, verifica-se que a fundamentação utilizada pelas instâncias ordinárias para exasperar a pena-base em razão do comportamento da vítima, que não teria concorrido para o crime, é inidônea, devendo, portanto, ser extirpada da dosagem penal. Com efeito, este Tribunal Superior já pacificou o entendimento de que "não colaborando a vítima para a ocorrência criminosa, a vetorial é neutra, e não gravosa ao condenado" (HC 279.148/RN, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/10/2016, DJe 25/10/2016). Neste sentido:
+"PENAL. HABEAS CORPUS. ATENTADO VIOLENTO AO PUDOR. DOSIMETRIA. FLAGRANTE ILEGALIDADE EVIDENCIADA. CARÊNCIA DE FUNDAMENTAÇÃO VÁLIDA PARA INCREMENTO DA PENA BASE PELOS VETORES CULPABILIDADE, PERSONALIDADE DO RÉU E COMPORTAMENTO DA VÍTIMA. CONSEQUÊNCIAS DO CRIME. MOTIVAÇÃO IDÔNEA DECLINADA. QUANTUM DE REPRIMENDA REVISTO. REGIME FECHADO MANTIDO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+5. Conforme o entendimento consolidado deste Tribunal, o comportamento da vítima, que em nada concorreu para a prática delitiva, não poderá ser sopesado para fins de exasperação da pena-base, tratando-se de circunstância neutra ou favorável.
+(..)
+10. Writ não conhecido e habeas corpus concedido, de ofício, a fim de estabelecer a pena de 6 (seis) anos e 6 (seis) meses de reclusão, ficando mantido o regime prisional fechado para o início do desconto da reprimenda imposta ao paciente".
+(HC 368.613/GO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/12/2016, DJe 19/12/2016)
+Dessa forma, diante da inidoneidade dos fundamentos empregados para a valoração negativa das citadas circunstâncias judiciais, necessário refazer a dosimetria da pena do recorrente.
+Na primeira fase, diante da ausência de circunstâncias judiciais negativas, fixo a pena-base em 4 anos de reclusão e 10 dias-multa, a qual é mantida inalterada na segunda fase, vez que o reconhecimento da atenuante da menoridade relativa não tem o condão de conduzir a pena para patamar menor do que o mínimo legal, nos termos do enunciado n.º 231 da Súmula deste STJ. Na terceira fase, mantenho o aumento de 3/8 (três oitavos) decorrente das causas de aumento previstas no § 2º do artigo 157 do Código Penal, ficando a pena definitivamente estabelecida no patamar de 5 anos e 6 meses de reclusão e 13 dias-multa.
+Dessa forma, estando o acórdão recorrido em confronto com a jurisprudência dominante desta Corte Superior de Justiça acerca do tema, de rigor o conhecimento do agravo para dar provimento ao recurso especial, nos termos da Súmula 568 deste Sodalício, que assim dispõe:
+Súmula 568. O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Por fim, ressalte-se que as razões apresentadas englobam o pleito referente à pena de multa, que foi devidamente reduzida, ficando imposta de forma proporcional à pena privativa de liberdade.
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea "c", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para dar provimento ao recurso especial para fixar a pena do recorrente no patamar de 5 anos e 6 meses de reclusão e 13 dias-multa, mantidos os demais termos do acórdão recorrido.
+Publique-se.
+Intime-se.
