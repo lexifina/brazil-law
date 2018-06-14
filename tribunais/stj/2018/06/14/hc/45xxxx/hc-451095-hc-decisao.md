@@ -1,0 +1,10 @@
+DECISÃO
+Por meio da petição de fls. 125-202, a defesa de [NOME] faz juntada da decisão que decretou a prisão preventiva em seu desfavor.
+Todavia, verifico que persiste a ausência de cópia do acórdão atacado, o que prejudica sobremaneira a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal de que estaria sendo vítima o paciente.
+Conforme dito, é cogente ao impetrante, sobretudo quando se tratar de advogado, como no caso, apresentar elementos documentais suficientes para se permitir aferir a alegada existência de constrangimento ilegal no ato atacado na impetração.
+Nessa diretriz, menciono:
+ ..
+2. Na espécie, deixou-se de proceder à demonstração, mediante documentação comprobatória suficiente, de que o auto de constatação de dano realizado seria inidôneo, eis que ausente a peça, cabendo ao impetrante a escorreita instrução do habeas corpus, indicando, por meio de prova pré-constituída, o alegado constrangimento ilegal.
+3. Habeas corpus não conhecido. (HC n. 166.551/RS, Rel. Min. Maria Thereza de Assis Moura, 6ª T., DJe 17/6/2013)
+À vista do exposto, mantenho o indeferimento liminar deste habeas corpus.
+Publique-se e intimem-se.
