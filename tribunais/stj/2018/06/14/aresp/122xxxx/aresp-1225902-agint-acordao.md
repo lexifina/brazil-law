@@ -1,0 +1,57 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. DESERÇÃO. AUSÊNCIA DE RECOLHIMENTO DAS CUSTAS EM DOBRO. NÃO CUMPRIMENTO DO QUE DISPÕE O ART. 1.007, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Embora devidamente intimada para efetivar o recolhimento em dobro das custas processuais (nos termos do art. 1.007, § 4º, do NCPC), a parte não cumpriu a referida determinação, devendo ser declarada a deserção do recurso especial.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Senhores Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, em negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SENHOR MINISTRO MOURA RIBEIRO (Relator):
+ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO - ECAD (ECAD) ajuizou ação de interdito proibitório com pedido liminar cumulada com perdas e danos contra ASSOCIAÇÃO BLOCO RECREATIVO LULA LELÉ e outros (ASSOCIAÇÃO e outros), sustentando que estes participarão de evento que não possui autorização necessária para uso de obras artístico-musicais.
+Em primeira instância, a ação foi julgada procedente para condenar ASSOCIAÇÃO e outros ao pagamento dos direitos autorais efetivamente utilizados no período de 24 a 26 de outubro de 1996, correspondentes aos respectivos valores de R$ 27.127,78 (vinte e sete mil, cento e vinte e sete reais e setenta e oito centavos); R$ 3.956,13 (três mil, novecentos e cinqüenta e seis reais e treze centavos); R$ 29.671,00 (vinte e nove mil, seiscentos e setenta e um reais); R$ 8.590,46 (oito mil, quinhentos e noventa reais e quarenta e seis centavos), valores calculados conforme demonstrativo de débito, autos de violação ao Direito Autoral e Roteiros Musicais, acostados às fls. 122-145. Na ocasião, ainda foram condenados ao pagamento das custas e despesas processuais, além dos honorários que foram fixados em 15% sobre o valor da condenação.
+A apelação interposta pela ASSOCIAÇÃO não foi provida pelo Tribunal de origem, nos termos do acórdão assim ementado:
+APELAÇÃO. UTILIZAÇÃO DE OBRA MUSICAL EM EVENTO CARNAVALESCO. RECIFOLIA. COBRANÇA DE DIREITOS AUTORAIS. LEGITIMIDADE DO ECAD. APLICAÇÃO DA LEI Nº 9.610/98. TABELA PRÓPRIA. VALIDADE. APELO NÃO PROVIDO. DECISÃO UNÂNIME.
+1. O ECAD (Escritório Central de Arrecadação e Distribuição) é uma instituição privada, sem fins lucrativos, instituída pela lei 5.988/73 e mantida pela Lei Federal 9.610/98, com modificações feitas pela lei nº 12.853/13, e tem como principal objetivo centralizar a arrecadação e distribuição dos direitos autorais de execução pública musical. Trata-se de pessoa jurídica que age como mandatário dos titulares de obras intelectuais, possuindo plena legitimidade para fiscalizar e cobrar os direitos autorais não recolhidos com valores previamente definidos, constantes em tabela própria, pelos seus membros, sendo único escritório central arrecadador, de acordo com o teor do art. 99 da Lei 9.610/ 98. Precedentes STJ.
+2. Constando nos autos a ocorrência dos eventos carnavalescos com a utilização de obras musicais, revela-se incontroversa a obrigação do demandado em pagar a contribuição devida ao ECAD.
+3. Os valores cobrados pelo ECAD, tendo em vista a existência de regulamentação própria, e por tratar direito de natureza privada, não estão sujeitos a tabela imposta por lei ou pelo Poder Judiciário.
+Precedentes STJ.
+4. Apelo improvido à unanimidade (e-STJ, fl. 906).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 949/955).
+Inconformada, a ASSOCIAÇÃO interpôs recurso especial com base no art. 105, III, a e c, da CF, alegando violação do art. 99 da Lei nº 9.610/98 e dissídio jurisprudencial, ao sustentar (1) que, apesar de a Lei nº 9.610/98 atribuir ao ECAD a arrecadação e distribuição dos direitos relativos à execução pública de obras musicais, não disciplina a forma de tal cobrança, seus parâmetros, bases de cálculo ou quaisquer outras especificações; (2) que o ECAD não divulga claramente os critérios de cálculo do valor cobrado a título de retribuição autoral, estabelecendo-os de forma discricionária e não isonômica; e, (3) que, como instituição privada, o ECAD não pode exercer atividades típicas do poder de polícia nem regulamentar legislação infraconstitucional, ou fixar unilateralmente os valores a serem cobrados a título de direitos autorais.
+Verificada a ausência de recolhimento do preparo, foi proferido despacho determinando o recolhimento em dobro no prazo de cinco dias e regularização da representação processual da recorrente. (e-STJ, fl. 996).
+Decorrido o prazo, o apelo nobre não foi admitido em virtude do reconhecimento da sua deserção.
+Seguiu-se o agravo em recurso especial que, em decisão monocrática do Ministro Presidente do STJ, foi conhecido para não conhecer do apelo nobre, com amparo no art. 21-E, V, do RISTJ, diante do reconhecimento da sua deserção.
+Nas razões do presente agravo interno, a ASSOCIAÇÃO, alegando as razões do seu recurso especial, sustentou que deve ser deferido prazo para a complementação do preparo tendo em vista que ele foi efetivado, ainda que não integralmente.
+Foi apresentada impugnação (e-STJ, fls. 1050/1058)
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. DESERÇÃO. AUSÊNCIA DE RECOLHIMENTO DAS CUSTAS EM DOBRO. NÃO CUMPRIMENTO DO QUE DISPÕE O ART. 1.007, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Embora devidamente intimada para efetivar o recolhimento em dobro das custas processuais (nos termos do art. 1.007, § 4º, do NCPC), a parte não cumpriu a referida determinação, devendo ser declarada a deserção do recurso especial.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SENHOR MINISTRO MOURA RIBEIRO (Relator):
+O recurso não merece ser provido.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Como antes relatado, ECAD ajuizou ação de interdito proibitório com pedido liminar cumulada com perdas e danos contra ASSOCIAÇÃO e outros, sustentando que estes participarão de evento que não possui autorização necessária para uso de obras artístico-musicais.
+A sentença de procedência foi mantida pelo Tribunal de origem.
+Não admitido seu apelo nobre, a ASSOCIAÇÃO manejou agravo em recurso especial, que foi conhecido para não conhecer do apelo nobre, em virtude do reconhecimento da deserção.
+É contra essa decisão o inconformismo agora manejado, que não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Conforme explicitado na decisão agravada, o recurso especial não foi instruído com a guia de custas e o respectivo comprovante de pagamento, o que leva a sua deserção, nos termos da Súmula nº 187 do STJ.
+Não procede, no caso, a alegação da ASSOCIAÇÃO de necessidade de deferimento de novo prazo para complementação, pois, após verificada a ausência de recolhimento do preparo, o Tribunal de origem assinou prazo de cinco dias para sua regularização, nos termos do art. 1007, § 4º, do NCPC, que não foi cumprido.
+Portanto, correta a aplicação da Súmula nº 187 do STJ.
+Nesse sentido, é a jurisprudência desta Corte, a saber:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO CPC/2015. PREPARO RECURSAL.AUSÊNCIA DA GUIA DE CUSTAS (GRU) E RESPECTIVO COMPROVANTE DE PAGAMENTO. INTIMAÇÃO PARA SANAR O VÍCIO. ART. 1.007, § 4º, DO CPC/2015. NÃO ATENDIMENTO. DESERÇÃO. SÚMULA 187/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 06/09/2017, que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Segundo a jurisprudência do STJ, "a comprovação do preparo do recurso especial deve ser feita mediante a juntada, no ato da interposição do recurso, das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento. A juntada apenas do comprovante de pagamento das custas processuais, desacompanhado da respectiva guia de recolhimento, é insuficiente à comprovação do preparo" (STJ, AgInt no REsp 1.622.574/RS, Rel.Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 27/04/2017). No mesmo sentido: STJ, AgInt nos EDcl no AREsp 912.078/SP, Rel.Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 22/02/2017;AgInt no AREsp 954.666/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 14/02/2017.
+III. No caso, deixando a parte recorrente de juntar aos autos, no momento da interposição do recurso, a guia de custas (GRU) e o respectivo comprovante de pagamento, foi ela intimada para efetuar o recolhimento em dobro, em termos do art. 1.007, § 4º, do CPC/2015. Apresentou, porém, apenas comprovantes de pagamento das custas, recolhidas em dobro, deixando de trazer a Guia de Recolhimento da União, peça essencial à aferição da regularidade formal do Recurso Especial. Assim, é de se julgar deserto o Recurso Especial. Incidência da Súmula 187/STJ.
+IV. Agravo interno improvido. (AgInt no REsp 1.675.553/PB, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, j. em 10/4/2018, DJe 17/4/2018 - sem destaque no original).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESERÇÃO. AUSÊNCIA DE RECOLHIMENTO DAS CUSTAS EM DOBRO. NÃO CUMPRIMENTO DO QUE DISPÕE O ART. 1.007, §4º DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. Restou incontroverso que, embora tenha sido devidamente intimado para providenciar o recolhimento em dobro das custas processuais (nos termos do art. 1.007, §4º do Código de Processo Civil de 2015), a parte ora Recorrente não cumpriu a referida determinação. Está, pois, configurada a deserção.
+(..)
+3. Agravo interno não provido. (AgInt no AREsp 1.146.615/SP, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, j. em 8/2/2018, DJe 21/2/2018 - sem destaque no original).
+Assim, como a ASSOCIAÇÃO não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantida a deserção do apelo nobre.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
+Advirto que eventual recurso interposto contra este acórdão estará sujeito ao possível cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º, e 1.026, § 2º, todos do NCPC).
