@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto em face de acórdão assim ementado:
+AÇÃO REVISIONAL - Contratos de conta garantida (limite de crédito rotativo - cheque especial) - Inexistência de capitalização de juros, ante o próprio sistema de uso do crédito e a obrigação de compor o saldo devedor nos respectivos vencimentos - Recurso provido. AÇÃO REVISIONAL - Contratos de empréstimo - Capitalização de juros - Inocorrência, em sua acepção legal, quando da celebração do contrato - Incidência, apenas, de método composto de formação da taxa de juros, calculada previamente ao início da relação contratual - Procedimento que não se confunde com a capitalização de juros, tampouco é proibido pelo ordenamento jurídico vigente, de acordo com o entendimento do C. STJ, sedimentado na forma do art. 543-C do CPC (REsp 973.827/RS) - Recurso provido.
+Opostos embargos infringentes, foram rejeitados.
+Opostos embargos de declaração, foram rejeitados, com aplicação da multa prevista no artigo 538, parágrafo único, do Código de Processo Civil de 1973 (1% sobre o valor da causa), "ficando condicionada a interposição de qualquer outro recurso ao depósito do respectivo valor".
+O recurso especial não foi admitido "porque o recorrente não efetuou o depósito da multa".
+Conforme a jurisprudência do Superior Tribunal de Justiça, a exigência de recolhimento (depósito) do valor da multa imposta com base no parágrafo único do artigo 538 do CPC de 1973 (entendida, tal exigência, como pressuposto objetivo para a interposição de recurso posterior) tem lugar na hipótese de reiteração de embargos de declaração protelatórios (procrastinatórios), o que, no caso, não ocorreu, pois oposto apenas um recurso integrativo (com o qual a parte "aponta a matéria para fins de prequestionamento"). A propósito:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO INTERPOSTOS NA ORIGEM PARA FINS DE PREQUESTIONAMENTO. SÚMULA 98/STJ. AFASTAMENTO DAS MULTAS APLICADAS.
+1. Não identificado o caráter protelatório dos embargos de declaração ou o abuso da recorrente pela sua oposição, impõe-se o afastamento da multa processual, nos termos do enunciado 98 da Súmula do STJ.
+2. O parágrafo único do art. 538 do CPC exige o prévio recolhimento da multa imposta apenas na hipótese de reiteração de embargos protelatórios.
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no Ag 891.741/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/3/2015, DJe 23/3/2015)
+SEGUNDOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - ACÓRDÃOS DESTE ÓRGÃO FRACIONÁRIO QUE INADEQUADAMENTE MANTIVERAM A APLICAÇÃO DE ÓBICE PROCESSUAL À ADMISSIBILIDADE DO RECURSO ESPECIAL.
+INSURGÊNCIA DA CASA BANCÁRIA Acórdãos desta Corte Superior e decisão monocrática do então relator fundamentadas na assertiva de que, na origem, teria havido a interposição, pela mesma parte, de dois embargos de declaração considerados protelatórios, e ainda, que teria sido aplicada multa de 1% já no primeiro recurso interposto.
+1. Este não é o caso dos autos, ensejando o acolhimento dos presentes aclaratórios face a omissão existente no julgado embargado, que não analisou a problemática envolvendo os embargos interpostos na origem, tendo se pautado em premissa equivocada para o deslinde da controvérsia.
+2. O condicionamento da interposição de qualquer recurso ao depósito da multa do art. 538 do CPC só é admissível quando se está diante da segunda interposição de embargos de declaração protelatórios, o que não ocorreu na espécie.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para anular os acórdãos proferidos por esta Quarta Turma, bem como a decisão monocrática de fls. 273-274, porquanto não se fazia imprescindível o recolhimento da multa aplicada, uma vez que não houve a reiteração de embargos de declaração considerados protelatórios.
+Converte-se o agravo de instrumento em recurso especial para posterior inclusão do feito em pauta para análise do colegiado.
+(EDcl nos EDcl no AgRg no Ag 1349660/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/6/2015, DJe 24/6/2015)
+Portanto, o fundamento da decisão ora agravada não coincide com a jurisprudência do STJ, impondo-se sua reforma.
+Por oportuno, esclareço que, segundo o artigo 1.026 do CPC de 2015, a parte beneficiária de gratuidade da justiça está dispensada do prévio depósito do valor da multa, que deverá ser recolhida "ao final".
+Assim, considerando-se a existência de pedido de concessão de justiça gratuita na petição de recurso especial (e-STJ fl. 6.538), o qual se fez acompanhar de documentação, necessário o pronunciamento da Corte de origem a respeito.
+Em face do exposto, dou provimento ao agravo para determinar que o Tribunal de origem promova novo juízo de admissibilidade do recurso especial e analise, como se entender de direito, o pedido de concessão de justiça gratuita.
+Intimem-se.
