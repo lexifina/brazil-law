@@ -1,0 +1,16 @@
+Trata-se de ação direta de inconstitucionalidade com pedido de cautelar ajuizada pela Associação Brasileira de Distribuidores de Energia Elétrica – ABRADEE contra os arts. 1° e 2° da Lei 15.008/2006 do Estado do Paraná.
+    O proponente resumiu a demanda assim:
+    “Ao impedir que as concessionárias de distribuição de energia elétrica procedam com o corte no fornecimento de energia de consumidores inadimplentes, ‘na rede externa (calçada, poste, via pública)‘, a Lei Estadual 15.008/2006 impõe vedação não prevista no contrato de concessão, na legislação federal, nem nas normas regulamentares da ANEEL, que, conforme visto acima (Resolução Normativa n. 414/2010, arts. 2º, XL IX, ‘a’ e 78 e seguintes), preveem que as concessionárias de distribuição de energia elétrica poderão instalar medidores externos. E, obviamente, com a instalação de medidores externos, o corte no fornecimento de energia elétrica dos consumidores inadimplentes se dará exatamente em tais medidores e não mais dentro das unidades consumidoras.
+    Da mesma forma, a Lei Estadual n. 15.008/2006, ao impedir que a concessionária de distribuição de energia elétrica cobre pelos serviços de religação de energia, após a suspensão do fornecimento por inadimplência do consumidor, impõe vedação não prevista no contrato de concessão, na legislação federal, nem nas normas regulamentares da ANEEL, que, conforme visto acima (Resolução Normativa n. 414/2010, arts. 102, IV e §4º e 176 e seguintes), permitem que as concessionárias de distribuição de energia elétrica cobrem pelo serviço de ‘religação normal’, serviço este que incluiu a ‘religação’ após a suspensão do fornecimento ocorrida em virtude de inadimplência do consumidor.
+    […]
+    Segundo, porque, conforme visto acima, para que o serviço público concedido pela União Federal tenha uma mesma regra independentemente do local onde é prestado, toda a matéria relativa a energia elétrica está reservada à competência legislativa da União Federal (art. 22, IV, da CF), inclusive as normas que regulamentam a prestação do serviço e os direi tos e deveres dos concessionários e dos usuários.
+    Terceiro, Excelências, porque os estados somente podem dispor sobre questões relativas às matérias de competência privativa da União quando autorizadas por lei complementar – art. 22, parágrafo único, da CF – o que não ocorre no presente caso” (págs. 11-12 da petição inicial).
+    Alega, assim, que a mencionada lei violou o art. 21, XII, b, art. 22, IV e parágrafo único, art. 37, XXI, art. 24 e art. 175, parágrafo único, todos da Constituição Federal.
+    Pois bem. Entendo que o proponente não conseguiu demonstrar a plausibilidade do pedido cautelar.
+    Assim, tendo em vista a conveniência de um julgamento único e definitivo sobre o tema, além da evidente relevância da matéria e de seu especial significado para a ordem social e a segurança jurídica, adoto o procedimento abreviado previsto no art. 12 da Lei 9.868/1999.
+    Isso posto, solicitem-se informações à Assembleia Legislativa do Estado do Paraná.
+    Após, ouçam-se, sucessivamente, a Advocacia-Geral da União e a Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 14 de junho de 2018.
+Ministro Ricardo Lewandowski
+Relator
