@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL (2015). AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO A DISPOSITIVOS DO CÓDIGO DE TRÂNSITO BRASILEIRO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº07/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por JEISON PEREIRA AGOSTINHO, contra decisão que inadmitiu o recurso especial fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+EMENTA: Acidente de veículos. Sub-rogação. Seguradora que paga por danos causados a veículo segurado. Ausência de controvérsia a respeito da dinâmica do evento. Acidente ocorrido com caminhão, que realiza manobra de conversão à esquerda, em via de dupla mão de direção. Inobservância das cautelas devidas. Violação aos artigos 34, 35 e 38 do Código de Trânsito Brasileiro. Culpa do condutor do caminhão demonstrada. Danos ressarcidos devidamente comprovados. Documentação idônea a justificar o valor dos danos materiais. Apelo da autora provido. (e-STJ, fls. 173).
+Nas razões do recurso especial, às fls. 181-188, e-STJ, o recorrente alega violação aos artigos 34, 35, 38, 169 e 220 do Código de Trânsito Brasileiro.
+Sustenta, em síntese, que "não houve indevida manobra e sim manobra permitida pelo Código de Trânsito, já que em nenhum momento houve contestação por parte da recorrida nesse sentido" (e-STJ, fl. 184).
+Contrarrazões às folhas 199-203, e-STJ.
+Sobreveio o juízo de admissibilidade do Tribunal de origem, às fls. 212-213, e-STJ, que inadmitiu o recurso especial por considerar que incide no caso o óbice da Súmula nº 07/STJ, o que ensejou a interposição do presente recurso.
+Nas razões do agravo em recurso especial, às folhas 215-220, e-STJ, a parte agravante impugnou os fundamentos da decisão agravada.
+É o relatório.
+Passo a decidir.
+A controvérsia diz respeito à irresignação do recorrente no tocante a decisão que reconheceu sua responsabilidade em acidente de trânsito.
+Primeiramente, quanto a alegação de violação aos dispositivos do Código de Trânsito Brasileiro, o recurso não comporta provimento, haja vista que a alegação de afronta a tais dispositivos de forma genérica, sem a adequada indicação da questão federal controvertida, impede o conhecimento do recurso especial ante a deficiência na fundamentação, o que atrai a incidência da Súmula nº 284/STF, por analogia.
+No tocante aos artigos 34, 35 e 38, o recorrente argumenta que "não hovue indevida manobra e sim manobra permitida pelo Código de Trânsito, já que em nenhum momento houve contestação por parte da Recorrida nesse sentido" (e-STJ, fls. 184), sem apontar, contudo, como o Tribunal de origem violou os dispositivos supracitados. Desse modo, a deficiência de fundamentação impede a exata compreensão da controvérsia, atraindo, por analogia, a incidência da Súmula nº 284/STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. CONTRATO BANCÁRIO. ARRENDAMENTO MERCANTIL. AUSÊNCIA DE CONTRATO BANCÁRIO. ARRENDAMENTO MERCANTIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. RELAÇÃO DE CONSUMO. HIPOSSUFICIÊNCIA. INEXISTÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+ ..
+3. A interposição do recurso especial, deixando a parte recorrente de demonstrar em que consistiu a violação da lei federal, atrai a incidência da Súmula nº 284 do Supremo Tribunal Federal.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp 1121877 / RJ, TERCEIRA TURMA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe 04/12/2017).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. RAZÕES RECURSAIS DISSOCIADAS DOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ARGUMENTAÇÃO RECURSAL NÃO ATRELADA A DISPOSITIVO SUPOSTAMENTE OFENDIDO. SÚMULA 284/STF. TERMO INICIAL DOS JUROS DE MORA. CITAÇÃO. ENTENDIMENTO CONSOLIDADO NESTA CORTE SUPERIOR. AGRAVO DESPROVIDO.
+ ..
+2. A jurisprudência desta Corte é pacífica no sentido de que a simples demonstração de inconformismo não é suficiente à abertura da instância especial, cabendo à parte atrelar a sua argumentação a dispositivo legal supostamente violado ou a divergência jurisprudencial, sem o que incide, por analogia, a Súmula 284 do STF.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp 1147009 / RS, TERCEIRA TURMA, Rel. Ministro MARCO AURÉLIO BELLIZZE, Julgado em 06/03/2018, Dje 13/03/2018).
+Ainda que assim não fosse, o Tribunal de origem, tendo em vista o conjunto fático-probatório, entendeu estar demonstrada a culpa do ora recorrente, sendo o caso de condenação ao pagamento dos valores reclamados na inicial (e-STJ, fls. 178), nestes termos:
+"Com efeito, a lei exige do motorista responsável pela conversão cuidados específicos para efetuar a manobra. E, assim sendo, incumbe a ele o ônus de demonstrar que, embora tenha observado todas as regras dispostas na legislação de trânsito, não pode evitar a colisão, em razão da conduta culposa do outro motorista. E é natural que assim o seja, posto que a existência de normas de circulação e conduta faz surgir nos motoristas que transitam pela via pública a confiança de que aquele que tem a preferência de passagem, segundo essas mesmas normas, terá essa preferência respeitada pelos demais, que observarão o dever de cuidado que lhes é imposto por lei ao efetuar qualquer manobra extraordinária. O réu-apelado não logrou demonstrar que o condutor do veículo segurado tenha agido com culpa no acidente em questão, tendo restado totalmente isolada a alegação de que ele trafegava em velocidade incompatível com a via. Em verdade, em se tratando de manobra de conversão, aquele que a executa acaba por atrair para si a presunção de culpa em caso de abalroamento, já que os demais veículos continuam trafegando em suas rotas normais. Daí resta evidente a culpa do condutor do caminhão do réu no evento, sendo caso de condenação ao pagamento dos valores reclamados na inicial, justificados plenamente pela autora, que se valeu dos indicativos da Tabela FIPE para a data do evento, já abatido o valor de venda dos salvados" (e-STJ, fls. 177-178).
+Nesse sentido:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/73). AÇÃO ORDINÁRIA. TELEFONIA. CONTRATOS DE MANUTENÇÃO, REPAROS E OPERAÇÕES. RESPONSABILIDADE CONTRATUAL. PRAZO PRESCRICIONAL TRIENAL. QUITAÇÃO DOS DÉBITOS. PRETENSÃO DE REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DOS ENUNCIADOS N.º 5 E 7/STJ. NATUREZA ADESIVA DO CONTRATO. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS LEGAIS. SERVIÇOS DE ADSL. NÃO PRESTADOS. PRETENSÃO DE REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. DANOS CAUSADOS POR TERCEIROS. PERÍODO ABARCADO PELA QUITAÇÃO OUTORGADA NOS AUTOS. PEDIDO IMPROCEDENTE. BÔNUS. CUMPRIMENTO DAS METAS. NÃO COMPROVAÇÃO. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. INCIDÊNCIA DO ENUNCIADO N.º 283/STF. PARALISAÇÃO DOS SERVIÇOS DE MANUTENÇÃO. PREVISÃO
+CONTRATUAL. INCIDÊNCIA DO ENUNCIADO N.º 5/STJ. ONEROSIDADE EXCESSIVA. ROUBO DE CABOS. TEORIA DA IMPREVISÃO. INAPLICABILIDADE. VALORES RETRIBUÍDOS. INCIDÊNCIA DOS ÓBICES SUMULARES 5 E 7/STJ. INÉPCIA DA PETIÇÃO INICIAL.
+ ..
+17. Modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese do recorrente, demandaria reexame do acervo fático-probatório dos autos, o que é inviável em recurso especial, sob pena de violação do Enunciado n.º 7 do STJ.
+18. RECURSO ESPECIAL DESPROVIDO.
+(REsp 1632842 / RS, TERCEIRA TURMA, Rel. Ministro PAULO DE TARSO SANSEVERINO, Julgado em 12/09/2017, Dje 15/09/2017).
+Desse modo, elidir as conclusões do Tribunal de origem quanto à culpa ou não do recorrente no acidente, demandaria o reexame fático-probatório, o que é vedado ante a incidência da Súmula nº 07 desta Corte.
+Assim, ante a incidência dos óbices das Súmulas nº 284/STF e nº 07/STJ, o não provimento do recurso é medida que se impõe.
+Por fim, considerando que o presente recurso foi interposto na vigência do Código de Processo Civil de 2015 (Enunciado administrativo n. 7/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao que dispõe o artigo 85, § 11, do Novo Código.
+No caso dos autos, a verba honorária foi fixada pelo Tribunal de origem no patamar de 15% (quinze por cento) sobre o valor da causa (e-STJ fl. 178). Destarte, a majoração dos honorários sucumbenciais para 17% (dezessete por cento) sobre o valor da condenação é medida adequada ao caso.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial e, com base no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios para 17% (dezessete por cento) sobre o valor da condenação, ressalvada a concessão do benefício da gratuidade da justiça.
+Intimem-se.
