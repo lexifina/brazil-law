@@ -1,0 +1,8 @@
+DECISÃO
+MÁRIO OLIVEIRA DOS SANTOS estaria sofrendo constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Agravo em Execução Penal n. 0006807-64.2012.8.24.0004).
+Alega a impetrante que o Juízo de primeiro grau concedeu ao paciente autorização de saídas temporárias (automáticas) a fim de serem gozadas durante todo o ano de 2016. Afirma que o referido benefício, tal como proposto, foi afastado pelo Tribunal de origem, que determinou o exame de cada pedido de saída temporária, sempre precedido da oitiva do Ministério Público. Por isso, requer neste habeas corpus que seja desconstituído o acórdão impugnado e, desta forma, restabelecida a decisão de primeiro grau.
+Indeferida a liminar e prestadas as informações, foram os autos ao Ministério Público Federal, que se manifestou pelo não conhecimento do habeas corpus.
+Decido.
+Não obstante a Terceira Seção desta Corte Superior, no julgamento do Recurso Especial Repetitivo n. 1.544.036/RJ, tenha revisado o Tema n. 445 do STJ, consolidando o entendimento de que a autorização de saídas temporárias, excepcionalmente, pode ser deferida por meio de decisão única, desde que haja prévia fixação, pelo Juiz das Execuções, do calendário e das datas específicas do benefício, o que ocorreu na hipótese, observo que o habeas corpus está prejudicado.
+Com efeito, o pedido de saídas temporárias refere-se ao ano de 2016, cujo calendário previamente fixado pelo Magistrado das execuções exauriu-se em 29/12/2016 (fl. 153). Assim, houve a perda superveniente de objeto, razão pela qual, nos termos do art. 34, XX, do RISTJ, julgo predicado este habeas corpus.
+Publique-se e intimem-se.
