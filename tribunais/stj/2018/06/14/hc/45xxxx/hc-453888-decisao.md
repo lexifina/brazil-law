@@ -1,0 +1,21 @@
+DECISÃO
+[NOME], paciente neste habeas corpus substitutivo de recurso especial, alega sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 7000142-11.2018.8.26.0047.
+Depreende-se dos autos que o Juízo da execução penal deferiu o pedido de progressão ao regime semiaberto. Irresignado, o Ministério Público estadual interpôs agravo em execução, ao qual o Tribunal de Justiça deu provimento para cassar a decisão atacada, oportunidade em que determinou, ainda, a realização de exame criminológico.
+Nesta Corte a defesa alega a ocorrência de constrangimento ilegal, sob o fundamento de que "a decisão não possui nenhum fundamento e não se coaduna com a realidade do Paciente, que se encontrava no Semiaberto no endereço citado nos autos de execução e até a presente data não teve qualquer tipo de problema" (fl. 2).
+Requer, assim, a concessão da ordem para restabelecer a decisão de primeiro grau.
+Decido.
+A respeito da matéria suscitada, esta Corte Superior possui o entendimento de que "com as alterações trazidas pela Lei n. 10.792/2003, o exame criminológico deixa de ser requisito obrigatório para a progressão de regime, podendo, todavia, ser determinado de maneira fundamentada pelo Juízo da execução penal, de acordo com as peculiaridades do caso" (HC n. 122.486/MT, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/4/2011).
+Vale dizer, embora não mais se exija, de plano, a realização de exame criminológico, o Juízo da execução penal ou mesmo o Tribunal de Justiça estadual podem, de forma devidamente fundamentada e diante das peculiaridades do caso concreto, determinar a realização do referido exame para a formação do seu convencimento acerca do implemento do requisito subjetivo.
+Nesse sentido, foi editada a Súmula n. 439 do STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+No caso vertente, a Corte de origem, ao analisar o agravo ministerial, salientou que "deve-se considerar a extrema gravidade do delito perpetrado pelo sentenciado, porquanto se trate de delito hediondo e praticado com violência à pessoa, o que acarreta cautela na concessão de qualquer tipo de benefício" (fl. 21, destaquei).
+Portal razão, apontou que, "Em tais casos, para a aferição do mérito do reeducando, é evidente a conveniência de realização do exame criminológico, não sendo suficiente o simples atestado de boa conduta carcerária para verificação das condições permissivas para a progressão com o menor risco social possível" (fls. 21-22, grifei).
+Portanto, verifica-se que o Tribunal local não indicou qualquer fundamento hábil a demonstrar que o atestado de bom comportamento carcerário não é suficiente para aferir o preenchimento do requisito de ordem subjetiva. Limitou-se a ressaltar tão-somente que o sentenciado cometeu crimes graves, o que, sem maiores detalhamentos, não justifica a determinação da produção da prova pericial, uma vez que não reflete a avaliação do efetivo cumprimento da pena pelo condenado.
+Confira-se:
+ ..
+A gravidade abstrata do delito praticado e a longevidade da pena a cumprir não servem, por si sós, como fundamento para a realização do exame criminológico, tendo em vista que a exigência da perícia técnica deve ser fundamentada com base em algum elemento concreto, constante da execução da pena, que ateste o demérito do apenado.
+ ..
+Habeas corpus não conhecido. Ordem concedida de ofício, para restabelecer a decisão monocrática que concedeu ao paciente a progressão ao regime semiaberto (HC n. 326.430/SP, Rel. Ministro Ericson Maranho (Desembargador convocado do TJ/SP), 6ª T., DJe 31/3/2016, destaquei).
+Dessa forma, o que se verifica é que foi determinada a elaboração de laudo pericial sem a devida fundamentação, com fulcro apenas em considerações abstratas acerca dos delitos cometidos pelo reeducando, a impor-lhe patente constrangimento ilegal.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem postulada, a fim de restabelecer a decisão de primeiro grau.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
