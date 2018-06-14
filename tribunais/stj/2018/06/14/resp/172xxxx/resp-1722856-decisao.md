@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Recurso Especial interposto em face de acórdão assim ementado (fl. 131, e-STJ):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE NEGÓCIO JURÍDICO C/C INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA EM CADASTROS DE INADIMPLENTES. DANO MORAL CARACTERIZADO. INDENIZAÇÃO ARBITRADA. QUANTUM INDENIZATÓRIO. RAZOABILIDADE E PROPORCIONALIDADE. CORREÇÃO MONETÁRIA. SÚMULA 362 DO STJ. HONORÁRIOS DE ADVOGADO. INCISO 4º DO ART. 85 DO NCPC. SENTENÇA PARCIALMENTE REFORMADA. I - Declarada a inexistência do débito, é de se considerar indevida a inscrição do nome do consumidor em cadastros desabonadores de crédito, sendo o dano moral presumido. II - No arbitramento do dano moral, o julgador deve levar em conta o caráter reparatório e pedagógico da condenação, cuidando para não permitir o lucro fácil do ofendido, mas também não reduzindo a indenização a valor irrisório, sempre atento aos princípios da razoabilidade e proporcionalidade, bem como às nuanças do caso concreto. III - Em relação à correção monetária incidente sobre a indenização por danos morais, tem-se que deve ser contada a partir da data do arbitramento, conforme dispõe a Súmula nº 362 do Superior Tribunal de Justiça, in verbis: "A correção monetária do valor da indenização do dano moral incide desde a data do arbitramento". IV - Nas causas de pequeno valor os honorários serão fixados consoante apreciação equitativa do juiz, de acordo com o que se extrai do art. 20, § 4º, CPC. V - Recurso conhecido e parcialmente provido.
+Opostos embargos de declaração, esses foram rejeitados em acórdão de fls. 151-158, e-STJ.
+No recurso especial, aponta violação aos artigos 489, § 1º , inciso VI, e 1.022 do Código de Processo Civil de 2015; 206, § 3º, inciso V, 8º,330, III, e 485, VI, todos do CPC; 884, 944, 945, todos do Código Civil.
+Sustenta excessivo e desproporcional a majoração do montante arbitrado à título de danos morais.
+Pleiteia a diminuição do montante arbitrado.
+Contrarrazões às fls. 173-190, e-STJ.
+Delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento.
+Para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso, onde os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.  ..
+3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. 4.Embargos de declaração rejeitados. (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/06/2016, DJe 03/08/2016 - grifou-se).
+Ao solucionar a controvérsia, o Tribunal de origem, assim consignou (fl. 134/135, e-STJ):
+Inexistindo preliminar ou prejudicial a exigir solução, passo à análise e resolução do mérito recursal.
+Insurge-se a apelante contra a decisão a quo que julgou procedentes os pedidos iniciais, condenando a empresa ré ao pagamento de R$5.000,00 (cinco mil reais) a título de danos morais, em face da irregular inscrição de seu nome nos cadastros de inadimplentes.
+Pois bem. Primeiramente, cumpre-me ressaltar que a pretensão autoral deve ser analiáda à luz da Lei nº 8.078/1990 (CDC), haja vista terem sido caracterizadas as figuras do consumidor e do fornecedor, personagens abrangidos pelos artigos 2º e 3º da lei retromencionada, imersos de forma indireta na inteligência do art. 17.
+ ..
+Em segundo lugar, saliento ser incontroversa, no caso dos autos, a inscrição do nome do autor nos cadastros restritivos de crédito (fl. 24).
+Por outro lado, tendo dito o apelante que não celebrou com a empresa apelada qualquer contrato, razão pela qual não se justifica a aludida dívida, tampouco a inscrição de seu nome nos cadastros de inadimplentes, era ônus desta comprovar o alegado. No entanto, limitou-se a afirmar que o apelado teve seu nome negativado devido a uma divida contraída e não adimplida, configurando-se, assim, exercício regular de direito.
+Ora, a partir dos documentos acostados aos autos, é patente reconhecer a falha na prestação de serviços, razão pela qual há de se invocar o instituto da responsabilidade civil o qual, de acordo com o ordenamento jurídico pátrio, consiste na aplicação de medidas que obriguem uma pessoa a reparar dano, moral ou patrimonial, causado a terceiro, em virtude da prática de um ato ilícito (art. 186 do Código Civil de 2002).
+ ..
+É importante também salientar que está pacificado na jurisprudência o direito à indenização por danos morais para aquele que teve, indevidamente, a inclusão/manutenção de seu nome nos cadastros de inadimplentes, ou seja, o dano moral aqui é presumido (in re ipsa).
+ O Tribunal de origem, à luz das circunstâncias fáticas da causa, concluiu pela configuração de dano moral a ser indenizado pelo recorrido.
+Destarte, no caso, a alteração das premissas fáticas adotadas demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do Superior Tribunal de Justiça.
+Tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
