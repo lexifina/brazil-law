@@ -1,0 +1,61 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. ARBITRAMENTO DE MULTA DIÁRIA. PLEITO DE REDUÇÃO QUE FOI ACOLHIDO PELA DECISÃO AGRAVADA, EM RAZÃO DE SUA DESPROPORCIONALIDADE. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Casa é iterativa no sentido de que a decisão que comina a multa não preclui nem faz coisa julgada material. Assim, é possível a modificação do valor dessa sanção até mesmo de ofício, a qualquer tempo, inclusive na fase de execução, quando irrisório ou exorbitante.
+2. Para verificar se o valor das astreintes é exorbitante ou irrisório, isto é, se está fora do patamar de proporcionalidade e de razoabilidade, deve-se considerar o quantum da multa diária no momento da sua fixação, em vez de comparar o total alcançado com a integralidade da obrigação principal, tendo em vista que este último critério incentivaria a conduta de recalcitrância do devedor em cumprir a decisão judicial, além de estimular a interposição de recursos a esta Corte para a redução da sanção, em total desprestígio à atividade jurisdicional das instâncias ordinárias.
+3. Constatado o apontado excesso no quantum da multa cominatória arbitrado pelo Tribunal local, impositiva a sua redução de R$ 5.000,00 (cinco mil reais) para R$ 500,00 (quinhentos reais), por dia de descumprimento, assim como assinalou a decisão agravada.
+4. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+5. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se, na origem, de agravo interposto contra decisão que não admitiu o recurso especial apresentado por BANCO DO BRASIL S.A., com base no art. 105, III, a e c, da Constituição da República, desafiando acórdão assim ementado (e-STJ, fl. 73):
+DIREITO PROCESSUAL CIVIL E DIREITO DO CONSUMIDOR. PRETENSÃO CONDENATÓRIA EM OBRIGAÇÃO DE FAZER CUMULADA COM REPARATÓRIA DE DANOS. EXECUÇÃO PROVISÓRIA DE ASTREINTES. MULTA DIÁRIA REDUZIDA PARA R$ 100,00. AGRAVO DE INSTRUMENTO INTERPOSTO PELO AUTOR, VISANDO À REFORMA DA DECISÃO. MULTA DIÁRIA ARBITRADA EM 1º GRAU E RATIFICADA EM 2º GRAU DE JURISDIÇÃO. SUBSISTÊNCIA DA MULTA ATÉ O CUMPRIMENTO DA OBRIGAÇÃO IMPOSTA PELO PODER JUDICIÁRIO. SOMENTE APÓS SERÃO AVALIADAS A RAZOABILIDADE E A PROPORCIONALIDADE DO TOTAL DEVIDO AO CREDOR. RECURSO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 129-132, e-STJ).
+Nas razões do recurso especial, a instituição financeira alegou, além de dissídio jurisprudencial, violação do art. 944 do CC, sustentando, em síntese, que a multa foi fixada de maneira elevada e desproporcional.
+As contrarrazões foram apresentadas às fls. 189-194 (e-STJ).
+Juízo de admissibilidade negativo, no Tribunal de origem, por força da Súmula 7/STJ (e-STJ, fls. 197-199).
+Contraminuta às fls. 223-228 (e-STJ).
+Ao apreciar o agravo em recurso especial, foi proferida decisão monocrática por este Relator às fls. 243-246 (e-STJ), conhecendo do agravo para dar provimento ao recurso especial, a fim de reduzir o valor da multa diária de R$ 5.000,00 (cinco mil reais) para R$ 500,00 (quinhentos reais), nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER. ARBITRAMENTO DE MULTA DIÁRIA. PLEITO DE REDUÇÃO. DESPROPORCIONALIDADE CARACTERIZADA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões do presente agravo interno (e-STJ, fls. 251-555), [NOME] alega, em síntese, que "não há que se falar em redução da multa diária neste momento, visto que a obrigação ainda não foi cumprida, ou seja, uma redução da medida coercitiva poderia operar como um incentivo ao Banco Réu para continuar a descumprir a ordem judicial e permanecer a prejudicar o Recorrente".
+Impugnação às fls. 259-266 (e-STJ), requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, bem como o arbitramento de honorários recursais, em consonância com o art. 85, § 11, do referido diploma legal.
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+A jurisprudência desta Casa é iterativa no sentido de que a decisão que comina a multa não preclui nem faz coisa julgada material.
+Assim, é possível a modificação do valor dessa sanção até mesmo de ofício, a qualquer tempo, inclusive na fase de execução, quando irrisório ou exorbitante.
+A propósito, confira-se:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO - REVISÃO DE ASTREINTES - VALOR EXCESSIVO - POSSIBILIDADE - AUSÊNCIA DE PRECLUSÃO OU OFENSA À COISA JULGADA - PRECEDENTES - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INCONFORMISMO DO AGRAVADO.
+1. É uníssona a jurisprudência desta Eg. Corte superior no sentido de que o valor da multa cominatória prevista no art. 461 do CPC, quando irrisório ou exorbitante, pode ser alterado pelo magistrado a qualquer tempo, não se revestindo da imutabilidade da coisa julgada, sendo insuscetível de preclusão, inclusive pro judicato.
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no Ag 1348521/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/11/2015, DJe 06/11/2015).
+Para verificar se o valor das astreintes é exorbitante ou irrisório, isto é, se está fora do patamar de proporcionalidade e de razoabilidade, deve-se considerar o quantum da multa diária no momento da sua fixação, em vez de comparar o seu total alcançado com a integralidade da obrigação principal, tendo em vista que este critério prestigiaria a conduta de recalcitrância do devedor em cumprir a decisão judicial, além de estimular a interposição de recursos a esta Corte para a redução da sanção, em total desprestígio à atividade jurisdicional das instâncias ordinárias.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE MEDICAMENTO PARA TRATAMENTO DE CÂNCER NO CÉREBRO. ANTECIPAÇÃO DE TUTELA. MULTA DIÁRIA. QUANTUM. PROPORCIONALIDADE E RAZOABILIDADE. REFORMA DO JULGADO. NECESSIDADE DO REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULAS NºS 7 E 83, AMBAS DO STJ. DECISÃO MANTIDA.
+1. A operadora do plano de saúde não apresentou argumento novo capaz de modificar a conclusão adotada, que se apoiou em entendimento aqui consolidado para negar provimento ao agravo em recurso especial.
+2. A apuração da razoabilidade e da proporcionalidade do valor da multa diária deve ser verificada no momento da sua fixação, em relação ao da obrigação principal, uma vez que a redução do montante fixado a título de astreinte, quando superior ao valor da obrigação principal, acaba por prestigiar a conduta de recalcitrância do devedor em cumprir a decisão judicial e estimula a interposição de recursos a esta Corte para a redução da sanção, em total desprestígio da atividade jurisdicional das instância ordinárias.
+Precedente. Inafastável a incidência da Súmula nº 83 do STJ.
+3. Para modificar as conclusões do Tribunal de origem em relação ao valor da multa diária, é necessário o reenfrentamento do acervo fático-probatório dos autos, o que encontra óbice no enunciado da Súmula nº 7 desta Corte.
+4. Agravo interno não provido.
+(AgInt no AREsp 857.956/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/06/2016, DJe 01/07/2016).
+Compulsando os autos, verifica-se que a Corte estadual, ao fixar a multa em R$ 5.000,00 (cinco mil reais) diários, assim fundamentou (fls. 71-75, e-STJ):
+Agravo de Instrumento interposto por [NOME] contra a r. decisão proferida pelo MM. Juízo da 1- Vara Cível da Regional da Barra da Tijuca, em ação com pedido de obrigação de fazer cumulada com reparatória de danos, ajuizada em face de BANCO DO BRASIL S/A, nos seguintes termos:
+"É manifestamente excessiva a multa cominada na decisão de antecipação da tutela (R$ 5.000,00 diários) que gerou, segundo o Autor, um crédito pela não inclusão de seu nome no FIES, de R$ 1.850.000,00 (um milhão oitocentos e cinqüenta mil reais), razão pela qual reduzo a multa para o padrão habitual de R$ 100,00 (cem reais) por dia de atraso no cumprimento da obrigação. Retifique-se a planilha para prosseguimento."
+ ..
+As astreintes possuem caráter coercitivo-punitivo, sendo fixadas pelo juiz com o escopo de promover a efetividade de uma decisão judicial, sentença ou decisão antecipatória, destinando-se a evitar que o devedor se furte, indeterminadamente, ao cumprimento de sua obrigação em flagrante prejuízo da parte contrária. Lado outro, não pode se prestar a promover o enriquecimento ilícito.
+Sabe-se ser possível eventual revisão do montante fixado a título de multa diária, desde que tenha se tornado insuficiente ou excessivo, na forma do disposto no art. 537, §1º, do NCPC:
+ ..
+Ocorre que, no presente caso, a multa foi arbitrada em 1º grau, ratificada em 2º, grau de jurisdição. Pelo que qualquer redução desta somente se dará pelo órgão julgador de 2º grau.
+Tratando-se de execução provisória e diante da impossibilidade de alteração pelo r. juízo a quo, do valor da multa diária, deve-se admitir a juntada da planilha tal qual produzida pelo credor.
+Ressalte-se, finalmente, a subsistência da multa até o cumprimento da obrigação imposta pelo Poder Judiciário e, somente após, serão avaliadas a razoabilidade e a proporcionalidade do total devido ao credor.
+À conta de tais fundamentos, voto no sentido de se dar provimento ao recurso, para reformar a r. decisão agravada, mantendo o valor da multa inicialmente arbitrada em R$ 5.000,00 (cinco mil reais) diários.
+Conforme assinalado na decisão ora agravada, o valor da multa cominatória tal qual fixado pelo Tribunal de origem mostrou-se excessivo, razão pela qual, afastando-se a incidência da Súmula 7/STJ, mostrou-se imperiosa a sua redução para R$ 500,00 (quinhentos reais), por dia de descumprimento, quantia que se afigura adequada e proporcional à obtenção dos fins almejados pela lei.
+Nesse sentido, considerando que as razões ora deduzidas não são suficientes para derruir a conclusão da decisão objurgada, deve ser ela mantida por seus próprios fundamentos.
+A despeito disso, a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória.
+No presente caso, contudo, o agravo interno apresentado não se mostra manifestamente inadmissível ou improcedente, tampouco sua interposição pode ser considerada abusiva ou protelatória.
+Diante do exposto, nego provimento ao agravo interno. Em atenção ao requerimento formulado pela parte contrária, não é cabível a fixação de honorários recursais no presente caso, pois o recurso especial é decorrente de agravo de instrumento interposto, e como não são cabíveis honorários sucumbenciais na origem, também não o são nesta instância extraordinária (EDcl no AgInt no REsp n. 1.573.573/RJ, Relator o Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/4/2017, DJe de 8/5/2017).
+É o voto.
