@@ -1,0 +1,34 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade ao artigo 37, caput, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da 4ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “AÇÃO CIVIL PÚBLICA. PROCESSO SELETIVO PARA SERVIÇO MILITAR VOLUNTÁRIO. HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE.
+    Descabe ao Judiciário fixar qual o melhor critério e tipos de prova a serem adotadas em processo seletivos, não havendo, por si só, nulidade ou subjetividade capaz de invalidar a realização de entrevista.
+    Não tem cabimento a condenação do autor de ação civil pública ao pagamento de honorários advocatícios, salvo comprovada má-fé (art. 18 da Lei nº 7.347/85)”.
+    Opostos embargos de declaração, foram rejeitados.
+    Opina o Ministério Público Federal, em parecer da lavra do ilustrado Subprocurador-Geral da República Dr. Odim Brandão Ferreira, pelo provimento do agravo e do recurso extraordinário. O mencionado parecer recebeu a seguinte ementa:
+    “Recurso extraordinário. Inconstitucionalidade de parâmetros de seleção de candidatos aos postos temporários das forças armadas caracterizados por mera subjetividade da escolha, com preterição de qualquer teste de conhecimentos de natureza objetiva. A questão da validade de regulamento de escolha de candidatos aos postos temporários das forças armadas nada tem que ver com matéria de fato; cuida-se apenas da verificação da compatibilidade entre os critérios seletivos eleitos pela Marinha com as diretivas da administração pública do art. 37 da CR. Inconstitucionalidade de regulamento militar que fixa como critérios de seleção de militares temporários a análise curricular e entrevista, dispensada toda a modalidade de prova de conhecimentos. Parecer pelo provimento do agravo e do recurso extraordinário”.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem entendeu pela impossibilidade de reapreciação dos critérios escolhidos pela Marinha para a seleção de militares temporários, ressaltando que o ingresso nas Forças Armadas, quer do tipo voluntário, ou compulsório, não se equipara ao ingresso no serviço público.
+    Para tanto, utilizou como fundamento a norma do artigo 142, inciso IX, da Constituição Federal, como forma de justificar o tratamento distinto empregado pela Magna Carta, para referida categoria profissional.
+    Tal fundamento não foi combatido nas razões do recurso extraordinário interposto nos autos, a atrair, para o presente caso, o preceito da Súmula nº 283 desta Corte.
+    Nesse sentido, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. 1. É deficiente a fundamentação do recurso cujas razões não atacam os fundamentos da decisão impugnada. Incidência da Súmula 283 do STF. 2. Agravo regimental a que se nega provimento” (RE nº 677.773-AgR-segundo/SP, Segunda Turma, Rel. Min. Edson Fachin, DJe de 4/4/18)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO E DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: SÚMULAS 283 E 287 DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.071.573-AgR/MG, Tribunal Pleno, Relª Minª Cármen Lúcia (Presidente), DJe de 14/3/18).
+    Como se não bastasse, o acórdão recorrido também utilizou, em suas razões de decidir, normas da Lei nº 6.880/80, para aduzir que a seleção de militares temporários é efetivamente distinta da seleção de servidores públicos e que não incumbiria ao Poder Judiciário “intervir no ato administrativo para definir qual o melhor critério de seleção dos candidato”.
+    Assim, para dissentir de tal conclusão, seria necessária a análise desse conteúdo normativo infraconstitucional, bem como dos fatos e provas dos autos, ínsitos ao aludido certame, o que se mostra de insuscetível realização, nesta via extraordinária, a teor do disposto nas Súmulas nºs 279 e 280 desta Suprema Corte. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Concessão de pensão militar por morte. Lei federal 10.486/2002 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmulas 279 e 280 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (RE nº 1.034.182/RJ-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 6/9/17)
+    “Agravo regimental no recurso extraordinário com agravo. Direito previdenciário. Pensão por morte. Integralidade. Lei vigente ao tempo do óbito do instituidor do benefício. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    1. O benefício previdenciário de pensão por morte rege-se pelas normas vigentes à data do óbito do instituidor do benefício.
+    2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas constantes dos autos. Incidência das Súmulas nºs 280 e 279/STF.
+    3. Agravo regimental não provido.
+    4. Inaplicável o art. 85, § 11, do CPC, pois não houve a condenação dos agravantes ao pagamento de honorários advocatícios” (ARE nº 1.111.068/SP-AgR, Segunda Turma, de minha relatoria, DJe de 5/6/18).
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO.  OFENSA REFLEXA  OU INDIRETA À CONSTITUIÇÃO  FEDERAL. 1. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. Agravo interno a que se nega provimento. Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem” (ARE nº 1.101.897-AgR/SP, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 18/5/18).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Anoto, por fim, ser incabível, na espécie, a aplicação do disposto no artigo 85, § 11, do CPC, porque não ocorreu, na origem, fixação de honorários de sucumbência.
+    Publique-se.
+    Brasília, 14 de junho de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
