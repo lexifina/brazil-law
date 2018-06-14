@@ -1,0 +1,31 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno manejado por Canaã Veículos Ltda. contra decisão monocrática de e-STJ, fls. 476/482, que conheceu em parte do recurso especial e, nessa extensão, deu-lhe provimento para declarar a prescrição decenal e determinar a incidência de correção monetária, nos termos da fundamentação.
+Pretende a agravante, em suma, o total provimento do apelo nobre, sob alegativa de que não teria deixado de impugnar qualquer fundamento da decisão do Tribunal de origem e que a análise da sucumbência recíproca não esbarraria no óbice da Súmula 7/STJ.
+Requer, assim, a submissão do feito ao colegiado.
+É o relatório.
+Assiste razão à agravante, uma vez que o provimento parcial do recurso especial alterou a quantidade de pedidos formulados pela sociedade contribuinte que foram atendidos na demanda judicial.
+Observa-se que a embargante sucumbiu em parte mínima, o que importa na condenação da Fazenda Nacional em ônus sucumbenciais no aporte de 10% sobre o valor atribuído à causa, devidamente corrigido, desde a origem, nos termos do art. 21, parágrafo único, do CPC/1973:
+Art. 21. Se cada litigante for em parte vencedor e vencido, serão recíproca e proporcionalmente distribuídos e compensados entre eles os honorários e as despesas.
+Parágrafo único. Se um litigante decair de parte mínima do pedido, o outro responderá, por inteiro, pelas despesas e honorários.
+Registre-se, por oportuno, que, de acordo com o entendimento desta Corte Superior, a sentença é o marco para delimitação do regime jurídico aplicável à fixação de honorários advocatícios, revelando-se incorreto seu arbitramento, com fundamento no CPC de 2015, anteriormente a 18/3/2016 (data da entrada em vigor da novel legislação).
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. DIREITO INTERTEMPORAL. REGIME JURÍDICO APLICÁVEL. PROPOSITURA DA AÇÃO SOB A ÉGIDE DO ESTATUTO PROCESSUAL CIVIL DE 1973. PROLAÇÃO DE SENTENÇA QUANDO EM VIGOR O CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE DA NOVEL LEGISLAÇÃO. NECESSIDADE DE ARBITRAMENTO DA VERBA HONORÁRIA SUCUMBENCIAL À LUZ DO ART. 85 DA LEI N. 13.105/2015. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 no julgamento do Agravo Interno.
+II - Consoante o entendimento desta Corte, a sentença é o marco para delimitação do regime jurídico aplicável à fixação de honorários advocatícios, revelando-se incorreto seu arbitramento, com fundamento no CPC de 1973, posteriormente à 18.03.2016 (data da entrada em vigor da novel legislação).
+III - Inviabilizado, in casu, o arbitramento dos honorários advocatícios de sucumbência, com base no art. 85 do Código de Processo Civil de 2015, sob pena de restar configurada a supressão de grau de jurisdição e desvirtuar a competência precípua desta Corte em grau recursal (uniformização da interpretação da legislação federal), mediante a fixação de honorários de sucumbência casuisticamente e não apenas nas hipóteses de irrisoriedade e exorbitância no seu arbitramento.
+IV - Necessidade de reforma do acórdão recorrido, a fim de que seja procedido novo julgamento da apelação, com análise dos honorários advocatícios de sucumbência, respeitadas as peculiaridades do caso concreto, com base no estatuto processual civil de 2015.
+V - Recurso Especial parcialmente provido.
+(REsp 1.647.246/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 21/11/2017, DJe 19/12/2017)
+PROCESSUAL CIVIL. RECURSO ESPECIAL DA SOCIEDADE EMPRESÁRIA. ART. 1.022, II, do CPC/2015. CONTRARIEDADE. INEXISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. MARCO TEMPORAL PARA INCIDÊNCIA DO CPC/2015. PROLAÇÃO DA SENTENÇA. ANÁLISE DA IRRISORIEDADE. SÚMULA 7/STJ.
+1. Inexiste ofensa ao art. 1.022 do CPC/2015, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos.
+2. De acordo com a orientação deste Tribunal Superior, a sentença, como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015. Precedentes.
+3. Na espécie, o Tribunal de origem foi categórico ao afirmar que a sentença foi publicada em 26/5/2015, ou seja, antes do início da vigência do CPC/2015 (e-STJ, fl. 317). Desse modo, a pretensão da recorrente, direcionada à aplicação do art. 85, § 3º, do CPC/2015, não merece prosperar.
+4. A revisão da verba honorária implica, como regra, reexame da matéria fático-probatória, o que é vedado em recurso especial (Súmula 7/STJ). Excepciona-se apenas a hipótese de valor irrisório ou exorbitante, o que não se configura neste caso.
+5. A análise dos autos, notadamente do acórdão de e-STJ, fls. 290/299 e dos aclaratórios de e-STJ, fls. 302/305, denota que o objetivo da então embargante era apenas obter o prequestionamento de tese e dispositivos que entendia relevantes para o deslinde da controvérsia. Tanto é que, no acórdão dos embargos de declaração, o Tribunal de origem enfrentou as questões suscitadas pela embargante para concluir pela inaplicabilidade do novo CPC. Desse modo, inexistem razões a justificar a aplicação da multa do art. 1.026, § 2º, do CPC/2015. Precedentes.
+6. Recurso especial conhecido em parte e, nessa extensão, parcialmente provido.
+ ..
+(REsp 1.691.118/MG, de minha relatoria, SEGUNDA TURMA, julgado em 5/10/2017, DJe 11/10/2017)
+Por fim, quanto ao argumento de que teria a agravante impugnado todos os fundamentos da decisão do Tribunal a quo, verifica-se a deficiência na referida alegação, visto que tal ponto não consta do decisum ora agravado.
+Ante o exposto, dou provimento ao agravo interno apenas para determinar que a Fazenda Nacional deve arcar com as custas judiciais e os honorários advocatícios, no aporte de 10% sobre o valor da causa, devidamente atualizado, nos termos do art. 20, § 3º, c/c o art. 21, parágrafo único, do CPC/1973.
+Publique-se. Intimem-se.
