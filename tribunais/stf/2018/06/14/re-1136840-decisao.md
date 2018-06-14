@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a Fundação Nacional do Índio (Funai). Aparelhado o recurso na afronta aos arts. 2º, 20, XI, e 231, §§ 2º, 4º e 6º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “DEMARCAÇÃO DE TERRAS INDÍGENAS. O MARCO REFERENCIAL DA OCUPAÇÃO É A PROMULGAÇÃO DA CONSTITUIÇÃO FEDERAL DE 1988. NECESSIDADE DE OBSERVÂNCIA DAS SALVAGUARDAS INSTITUCIONAIS. PRECEDENTES. 1. A configuração de terras tradicionalmente ocupadas pelos índios, nos termos do art. 231, § 1º, da Constituição Federal, já foi pacificada pelo Supremo Tribunal Federal, com a edição da Súmula 650, que dispõe: os incisos I e XI do art. 20 da Constituição Federal não alcançam terras de aldeamentos extintos, ainda que ocupadas por indígenas em passado remoto. 2. A data da promulgação da Constituição Federal (5.10.1988) é referencial insubstituível do marco temporal para verificação da existência da comunidade indígena, bem como da efetiva e formal ocupação fundiária pelos índios (RE 219.983, DJ 17.9.1999; Pet. 3.388, DJe 24.9.2009). 3. Processo demarcatório de terras indígenas deve observar as salvaguardas institucionais definidas pelo Supremo Tribunal Federal na Pet 3.388 (Raposa Serra do Sol). 4. No caso, laudo da FUNAI indica que, há mais de setenta anos, não existe comunidade indígena e, portanto, posse indígena na área contestada. Na hipótese de a União entender ser conveniente a desapropriação das terras em questão, deverá seguir procedimento específico, com o pagamento de justa e prévia indenização ao seu legítimo proprietário. 5. Recurso ordinário provido para conceder a segurança.” (RMS 29087, Relator(a): Min. RICARDO LEWANDOWSKI, Relator(a) p/ Acórdão: Min. GILMAR MENDES, Segunda Turma, julgado em 16/09/2014, ACÓRDÃO ELETRÔNICO DJe-200 DIVULG 13-10-2014 PUBLIC 14-10-2014)”
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de junho de 2018.
+Ministra Rosa Weber
+Relatora
