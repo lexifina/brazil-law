@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO POSSESSÓRIA. AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS PARA A AÇÃO DE INTERDITO PROIBITÓRIO. DELIMITAÇÃO. REVER A CONCLUSÃO DO ACÓRDÃO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por [NOME] e outro, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 227):
+CIVIL E PROCESSUAL CIVIL. AÇÃO POSSESSÓRIA. DISPUTA DE BEM PÚBLICO POR PARTICULARES. INDEFERIMENTO. NÃO DELIMITAÇÃO DA ÁREA POSSUÍDA TURBADA. SENTENÇA MANTIDA. SUCUMBÊNCIA RECÍPROCA. MAJORAÇÃO DA VERBA ORIGINALMENTE FIXADA.
+A sentença acertou ao observar que não se encontram presentes os pressupostos de constituição e de desenvolvimento válido e regular do processo, uma vez que a ação de interdito possessório exige a delimitação da área efetivamente possuída e turbada.
+Os autores não cumpriram o disposto no art. 561, inc. I e II, do Código de Processo Civil, tendo em vista que não conseguiram comprovar a exata delimitação do imóvel, com a clara especificação da área turbada.
+Os apelantes não comprovaram o fato constitutivo de seu direito, seja quanto à posse ou à turbação, razão pela qual eventual julgamento de mérito da demanda acarretaria, nos presentes autos, a improcedência do pedido inicial, em face do não cumprimento do disposto no inciso I do artigo 373 do Código de Processo Civil.
+Apelação desprovida.
+Nas razões do recurso especial (e-STJ, fls. 238-243), os recorrentes alegaram violação ao art. 561 do Código de Processo Civil de 2015.
+Sustentaram, em síntese, que cumpriram todos os requisitos exigidos para fazer jus à tutela possessória, tendo sido demonstrado nos autos, a comprovação da posse sobre a área litigiosa e a turbação perpetrada pelo recorrido através dos documentos juntados e depoimentos colhidos na instrução processual.
+A decisão da Presidência do Tribunal de Justiça do Distrito Federal e dos Territórios deixou de admitir o recurso especial por incidência da Súmula 7/STJ (e-STJ, fls. 248-249).
+Foi interposto agravo em recurso especial às fls. 252-255 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem, com base no suporte fático trazido aos autos, ratificou a sentença de primeiro grau quanto à conclusão de que os recorrentes não lograram êxito em delimitar a área sobre a qual exerciam a posse, consignando, ainda, que o cercamento da área não foi suficiente para comprovar o exercício da referida posse.
+Confira-se elucidativo trecho do acórdão recorrido (e-STJ, fls. 232-233):
+ No caso dos autos, os autores/apelantes não cumpriram o disposto no art. 561, inc. I e II do Código de Processo Civil, tendo em vista não terem conseguido comprovar a exata delimitação do imóvel com a clara especificação da área turbada.
+ Os apelantes juntaram aos autos os seguintes documentos na tentativa de comprovar o exercício da posse: 1) certidão de f. 17, onde consta área total de 3,17ha; 2) contrato de cessão de direitos, de f. 19-21, onde consta a área total de 2,00ha, sendo que os apelantes seriam cessionários de metade desse total; 3) croqui de f. 42, onde consta área total de 3,60ha; 4) contrato de compra e venda entre autor e autora (companheiros), no valor de R$ 300,00, onde consta área total de 4,41 ha; 5) contrato de cessão de direitos, tendo como cessionários o apelante e o Sr. [NOME], onde consta área total de 3,00ha.
+ Os apelantes, conforme se observa pelos documentos acima listados, não tiveram êxito em delimitar o terreno sobre o qual exercem sua posse, sendo essa uma condição para adentrar em uma discussão sobre quem eventualmente teria a melhor posse.
+ O Juízo de Primeiro Grau não teve, assim, meios de auferir se houve ou não turbação ou esbulho, se nem ao menos houve a efetiva prova da posse.
+ Pelos testemunhos colhidos pelo Juízo de Primeiro Grau, ficou evidenciado que a área em disputa passou a ser pretendida por varias pessoas após as obras realizadas, que a tornou atrativa. Conclui-se que o terreno inicialmente se tratava apenas de um buraco utilizado pela Administração de Brazlândia para despojo de entulhos, mas depois de finalizado o aterro passou a ser disputado.
+ A sentença acertou ao observar que não se encontram presentes os pressupostos de constituição e de desenvolvimento válido e regular do processo,uma vez que a ação de interdito possessório exige a delimitação da área efetivamente possuída e turbada.
+ ..
+ Os apelantes não comprovaram o fato constitutivo de seu direito, seja quanto à posse ou à turbação, razão pela qual eventual julgamento de mérito da demanda acarretaria, nos presentes autos, a improcedência do pedido inicial, em face do não cumprimento do disposto no inciso I do artigo 373 do Código de Processo Civil.
+Dessa forma, para elidir a conclusão do acórdão recorrido quanto à ausência de comprovação do fato constitutivo do direito dos agravantes no tocante à posse e à turbação, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, providência vedada no âmbito do recurso especial nos termos da Súmula 7/STJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em R$ 300,00 (trezentos reais), suspensa a exigibilidade em razão da gratuidade de justiça deferida aos recorrentes.
+Publique-se.
