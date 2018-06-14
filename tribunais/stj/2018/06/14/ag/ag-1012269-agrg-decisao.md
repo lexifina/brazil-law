@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de agravo interno interposto por [NOME] e outros contra decisão com a qual o então Relator convocado, Desembargador Federal Carlos Fernando Mathias, negou provimento a agravo de instrumento interposto contra decisão que negara seguimento a recurso especial que impugnava acórdão assim ementado:
+EXECUÇÃO - Titulo judicial - Hipótese em que o depósito do valor devido, a disposição do juízo, teve o condão de evitar os riscos do inadimplemento, especialmente os efeitos da mora - Inexistência de diferenças a serem pagas pelo executado - Levantamento dos valores depositados pelos exequentes e posterior arquivamento dos autos determinado - Decisão mantida - Recurso improvido.
+Os agravantes insistem nas violações apontadas no recurso especial, quais sejam, as dos artigos 307 do Código Civil e 588, I e II, do revogado Código de Processo Civil, sob a afirmação de que o depósito judicial não elide a mora do devedor, de modo que continua responsável por seus encargos, notadamente os juros.
+Tendo em vista as razões do agravo interno, reconsidero a decisão agravada e, para melhor exame da matéria, dou provimento ao agravo de instrumento, determinando a subida do recurso especial.
+Intimem-se.
