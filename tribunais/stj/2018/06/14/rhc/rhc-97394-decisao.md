@@ -1,0 +1,5 @@
+DECISÃO
+ALAX TENISSON SILVA SANTOS alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Tribunal Regional Federal da 5ª Região, que denegou o HC n. 0810238-73.2017.4.05.0000.
+De acordo com as informações prestadas às fls. 120-130, foi noticiado que foi revogada a prisão preventiva do ora recorrente, expedido o competente alvará de soltura, o que evidencia a prejudicialidade deste mandamus, em que se pugna pela revogação da constrição cautelar. O Magistrado juntou cópia da decisão e consignou que "o cenário acima exposto, salvo melhor juízo, evidencia a perda de objeto do presente writ, ante a revogação da prisão preventiva imposta ao paciente ALAX TENISSON SILVA SANTOS, o qual está preso por ordem de outro juízo (7ª Vara Criminal de João Pessoa/PB), acusado da prática de outro fato" (fl. 124, grifei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado este recurso habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
