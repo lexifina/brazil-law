@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, do qual se extrai do voto condutor o seguinte trecho:
+    “[...]
+    Não se conhece do recurso.
+    Com efeito. O r. decisum julgou extinta a punibilidade do recorrente, com fulcro no artigo 107, IV, do Código Penal.
+    Logo, o recurso em apreço não merece ser conhecido, pois não é possível analisar-se o mérito de causa em que a punibilidade do autor já se encontra extinta, denotando a ausência de interesse recursal.
+    […]
+    Assim, como o interesse constitui pressuposto, sem o qual a parte não está legitimada a recorrer (artigo 577, parágrafo único, do Código de Processo Penal), não é de se conhecer do recurso.
+    [...]”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, III, 5º, XXXV, LV, 37 e 93, IX, da Constituição. Afirma que: (i) “está provado, nos autos, conforme os itens 58/158 das Alegações Finais, às fls, que o recorrente nunca esteve na cidade de Praia Grande, local onde teria havido a suposta "reunião da quadrilha' e a suposta "concussão", consoante narra a denúncia de fls. 02.”; (ii) “não é justo, data maxima venia, que se mantenha a r. Decisão que extinguiu a punibilidade pela prescrição”; (iii) “a absolvição do recorrente com apoio nos incisos I ou IV do artigo 386, do Código de Processo Penal, afastariam os efeitos do referido processo-administrativo-disciplinar”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal (STF) rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660).
+    Ademais, a jurisprudência do STF é no sentido da inexistência de repercussão geral da discussão acerca dos pressupostos de admissibilidade de recursos de competência de cortes diversas, por não se tratar de matéria constitucional. Veja-se a ementa do RE 598.365-RG, Rel. Min. Ayres Britto.
+    No caso, a parte recorrente se limita a postulara análise da legislação infraconstitucional pertinente, o que não é possível nesta fase processual. Nessa linha, veja-se o ARE 1.126.119, Rel. Min. Luiz Fux, assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ARTIGO 3º, II, DA LEI 8.137/1990. PRESCRIÇÃO DECLARADA NA ORIGEM. DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. APLICAÇÃO DE PRECEDENTE DESTA CORTE PROFERIDO NA SISTEMÁTICA DA REPERCUSSÃO GERAL. INTERPOSIÇÃO DE AGRAVO. NÃO CABIMENTO. AGRAVO NÃO CONHECIDO NESSA PARTE. ALEGAÇÃO DE OFENSA AO ARTIGO 5º, LIV E LV, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. INTERESSE RECURSAL. PRESCRIÇÃO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. RECURSOS DE OUTROS TRIBUNAIS. ADMISSIBILIDADE. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA NO RE 598.365. TEMA 181. AGRAVO CONHECIDO, EM PARTE, E, NESSA PARTE, DESPROVIDO.”
+    O STF tem orientação no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    Cabe ressaltar, por fim, que não foram ofendidas as garantias da inafastabilidade do controle jurisdicional, do devido processo legal, do contraditório e da ampla defesa, uma vez que a parte recorrente teve acesso a todos os meios de impugnação previstos na legislação processual, havendo o acórdão recorrido examinado todos os argumentos e fundamentado suas conclusões de forma satisfatória.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 14 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
