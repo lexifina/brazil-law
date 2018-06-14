@@ -1,0 +1,34 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto pela Fazenda Nacional, com base no art. 105, inc. III, alínea "a", da CF/1988, em oposição a acórdão do TRF da 2ª Região, assim ementado (e-STJ, fls. 375-376):
+TRIBUTÁRIO - EMBARGOS À EXECUÇÃO - IR - LUCRO PRESUMIDO - DARF"S QUE COMPROVAM PAGAMENTO.
+1. A despeito de ter a União procedido à substituição da CDA originária (fls. 03 e 04 da Execução Fiscal), dela descontando tão somente os valores de R$ 912,49, R$ 1.022,16, R$ 467,41 e R$ 10,77, recolhidos em 30/09/1996 (guia de fl. 34 da EF), 27/08/1997 (guia de fl. 40 da EF), 27/08/1997 (guia de fl. 41 da EF) e 22/04/1996 (guia de fl. 53 da EF), respectivamente, fato é que, de acordo com a documentação acostada aos autos, os DARF"s apresentados às fls. 24/105 devidamente autenticados comprovam o pagamento efetuado do IR - Lucro Presumido nas competências que abrangem os mesmos períodos de apuração ano base/exercício constantes da CDA substituída.
+2. Além disso, a União, tanto em sua impugnação, às fls. 200/201, quanto em suas razões de apelação, às fls. 270/272, em nada esclarece acerca dos DARF"s acostados aos autos, ao contrário, apenas se limita a afirmar que "toda a documentação apresentada no presente feito já foi examinada no processo administrativo com conclusão desfavorável à Embargada (sic)" (fl. 202) ou ainda que "os DARFs apresentados pela embargante foram examinada (sic) no processo administrativo com a devida imputação em pagamento dos valores recolhidos" (fl. 271).
+3. Entretanto, o embargante apresentou prova efetiva da quitação dos valores que lhe estão sendo exigidos, não prestando a desqualificá-las, a simples menção de que a CDA substituída goza de presunção de certeza e liquidez e demais alegações genéricas apresentadas pela União. Portanto, temos, de um lado, os documentos acostados à inicial demonstrando a efetiva quitação da dívida por parte do embargante; e, de outro, apenas uma impugnação genérica por parte da União.
+4. Remessa necessária e apelação interposta pela União desprovidas.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 387-393).
+Alega a agravante, nas razões do recurso especial, existência de violação do art. 535 do CPC/1973. Nessa esteira, defende que o Tribunal de origem, não obstante a oposição de aclaratórios, se omitiu a respeito de questões relevantes ao deslinde da controvérsia.
+Aponta, em apertada síntese, que (e-STJ, fl. 400):
+Demonstrou-se que o r. voto condutor é totalmente obscuro, na medida em que negou provimento à apelação, por considerar que caberia ao Fisco comprovar que houve a imputação dos DARF"s antes da cobrança, o que fora efetivamente demonstrado pela prova dos autos que não fora analisada pelo n. Desembargador federal.
+O erro do ilustre prolator do voto condutor reside no fato de considerar que os DARFs não foram imputados ao valor cobrado, quando na verdade o que está sendo cobrado resulta na diferença apurada após os referidos pagamentos.
+Não houve oposição de contrarrazões pela contribuinte.
+A negativa de admissibilidade teve por fundamento a ausência de omissão a ser sanada pela Corte local.
+É o relatório.
+Assiste razão à parte no ponto em que sustenta violação do art. 535, I e II, do CPC/1973, pois uma análise detida das decisões proferidas pelo Tribunal a quo (e-STJ, fls. 369-376 e 387-393), em cotejo com as peças processuais da recorrente (e-STJ, fls. 348-350, 379-381 e 396-402), revela que houve omissão no acórdão combatido a respeito da tese contida na petição de apelação, consignada nos seguintes termos (e-STJ, fl. 349):
+05. Todos os DARFs apresentados pela embargante foram examinados no processo administrativo com a devida imputação em pagamento dos valores recolhidos.
+06. Depois de realizada a imputação pela autoridade fazendária, foi constatada diferença entre o tributo devido e o efetivamente recolhido. E exatamente esta diferença originou a execução fiscal ora embargada.
+07. Corroborando o ora alegado, o pedido de análise do recolhimento via DARF formulado pelo próprio contribuinte obteve resposta definitiva e desfavorável no dia 22/03/2002, com a orientação para a alteração da inscrição (ff. 205).
+08. Antes mesmo da citação do executado (dia 28/06/2002), a própria Procuradoria da Fazenda Nacional requereu a substituição da Certidão da Dívida Ativa onde somente o valor remanescente verificado após a imputação de pagamento dos DARFs acostados aos Embargos à Execução. (ff. 6-8 do processo de execução fiscal n. 2002.5101512211-1, em apenso)
+Por estar configurada a agressão ao disposto no art. 535, II, do CPC/1973, impõe-se a decretação de nulidade do acórdão que apreciou os embargos declaratórios, a fim de que os vícios sejam sanados.
+No particular:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022/2015. CONTRADIÇÃO ENTRE A FUNDAMENTAÇÃO E A PARTE DISPOSITIVA. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+1. Constatada a contradição entre a fundamentação adotada e a parte dispositiva do julgado, impõe-se reconhecer a violação do art. 1.022 do CPC/2015.
+2. Nesse contexto, deve ser dado provimento ao Recurso Especial para determinar o retorno dos autos ao Tribunal de origem para que se manifeste sobre a matéria articulada nos Embargos de Declaração, em face da relevância do ponto suscitado.
+3. Recurso Especial parcialmente provido, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração.
+(REsp 1.642.833/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/2/2017, DJe 7/3/2017)
+PROCESSO CIVIL - APELAÇÃO - JULGAMENTO - OMISSÃO ACERCA DE QUESTIONAMENTO SUSCITADO NAS RAZÕES RECURSAIS. EMBARGOS DE DECLARAÇÃO OPOSTOS COM O OBJETIVO DE PREQUESTIONAMENTO - REJEIÇÃO - FUNDAMENTO INCONSISTENTE - VIOLAÇÃO AO ARTIGO 535 DO CPC.
+Suscitada, nas razões recursais da apelação, questão relevante para o deslinde da controvérsia, se não for examinada no respectivo julgamento, a omissão enseja a interposição de embargos declaratórios com o fito de prequestionamento. Se o Tribunal a quo persistir na omissão, ao fundamento inconsistente de que não há necessidade de mencionar o dispositivo legal discutido, porque o preceito nele contido é estudado e analisado, configura-se violação ao artigo 535 do CPC, justificando-se a nulidade do decisum.
+Recurso provido.
+(REsp 319.127/DF, Rel. Ministro GARCIA VIEIRA, PRIMEIRA TURMA, DJ 27/8/2001)
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar provimento ao recurso especial, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória, em especial quanto à tese de que estaria sendo objeto de cobrança apenas a diferença apurada após os pagamentos originários.
+Publique-se. Intimem-se.
