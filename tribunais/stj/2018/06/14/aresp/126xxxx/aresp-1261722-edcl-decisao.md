@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E/OU ERRO MATERIAL NA DECISÃO EMBARGADA. INEXISTÊNCIA. PRETENSÃO DE EFEITO INFRINGENTE. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+DECISÃO
+DANIEL GALLIANO DE MENEZES PIMENTEL e ANA CAROLINA MOTA MARTINHO DE MELLO (DANIEL e ANA CAROLINA) ajuizaram ação de revisão/nulidade contratual cumulada com repetição de indébito contra [NOME] UNIÃO DE BANCOS BRASILEIROS S.A (ITAU [NOME]), SPE ABELARDO BUENO INCORPORADORA E CONSTRUTORA LTDA (INCORPORADORA) e CONSTRUTORA SANTA CECÍLIA DO RIO DE JANEIRO LTDA (CONSTRUTORA).
+Em primeira instância, os pedidos foram julgados improcedentes, sendo os autores condenados ao pagamento de custas, despesas processuais e honorários advocatícios fixados em 10% do valor da causa, com correção monetária a partir da sentença e juros de mora desde a citação.
+O Tribunal a quo deu parcial provimento à apelação de DANIEL e ANA CAROLINA, a fim de reconhecer a abusividade da cobrança de juros moratórios contados antes da entrega do imóvel (juros no pé) e determinar a devolução dos valores pagos indevidamente pelos apelantes, de forma simples, condenando-se as demandas nos ônus da sucumbência (custas, despesas processuais e honorários advocatícios ao patronos dos autores, fixados nem 20% do valor atualizado da condenação, nos termos do art. 20, § 3º, do CPC/73).
+Os embargos de declaração das rés foram parcialmente acolhidos, sem efeito modificativo (e-STJ, fls. 571/579).
+Irresignadas, as rés interpuseram recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal.
+O BANCO alegou violação dos arts. 4º, IV e IX, e 9º da Lei nº 4.595/64 e 591 do CC/02.
+A INCORPORADORA e a CONSTRUTORA apontaram ofensa ao art. 1º da Lei nº 4.864/65, além de dissídio jurisprudencial.
+Ambos os recursos foram inadmitidos na origem, ensejando a interposição de agravo em recurso especial.
+O agravo em recurso especial do BANCO não foi conhecido, ante a falta de prequestionamento dos dispositivos legais tidos por ofendidos (e-STJ, 956/960); o agravo da INCORPORADORA e da CONSTRUTORA foi conhecido, a fim de conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe provimento, a fim de, reformando o acórdão, restabelecer a sentença de improcedência (e-STJ, fls. 961/966).
+Contra tais decisões, DANIEL e ANA CAROLINA opuseram embargos de declaração, alegando que os julgados são conflitantes entre si, já que uma (a do BANCO) mantém o acórdão e a outra (da INCORPORADORA e da CONSTRUTORA), modifica o acórdão. E que assim sendo, evidente que deve prevalecer o entendimento de que o acórdão exarado em favor dos co-embargados SPE ABELARDO e CONSTRUTORA SANTA CECÍLIA NÃO deverá ser estendido para o co-embargado [NOME]. Ou seja, o [NOME] [NOME], de forma isolada, deverá responder pela condenação exarada pela TJSP, visto que seu Agravo de Instrumento foi Improvido (e-STJ, fls. 974, sem destaque no original).
+Não foi apresentada impugnação (e-STJ, fl. 979).
+É o relatório.
+DECIDO.
+Os embargos de declaração comportam rejeição.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos a decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da violação do art. 1022 do NCPC
+Inexiste omissão, contradição, obscuridade ou erro material na decisão embargada.
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão de desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais sobre o qual deveria manifestar-se o juiz ou o Tribunal, e que, nos termos do NCPC, seja capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, ambos do NCPC).
+Nestes aclaratórios, DANIEL e ANA CAROLINA alegaram, em síntese, que, em virtude de o agravo em recurso especial do BANCO ter sido improvido, deverá ele responder pela condenação exarada pelo acórdão proferido pelo TJSP, que, reformando a sentença, reconheceu a abusividade da cláusula que estipulou cobrança de juros no pé, determinando a restituição dos valores cobrados a esse título.
+Entretanto, os embargantes deixaram de observar que a decisão proferida às e-STJ, fls. 961/966, conheceu do agravo para conhecer parcialmente do apelo nobre e dar-lhe provimento para, com base na jurisprudência dominante desta Corte, reconhecer que não é abusiva a cláusula de cobrança de juros compensatórios incidentes em período anterior à entrega das chaves (juros no pé) nos contratos de compromisso de compra e venda de imóveis em construção sob o regime de incorporação imobiliária, conforme decido no julgamento do EREsp 670.117/PB.
+E ao fazê-lo, a decisão ora embargada reformou o acórdão a fim de restabelecer a sentença que julgou improcedente os pedidos formulados na inicial, mantendo a condenação na parte autora no pagamento dos ônus da sucumbência.
+Desse modo, cumpre esclarecer que a condenação imposta as rés, em apelação, foi reformada pela decisão proferida nesta Corte, não havendo, assim falar em condenação do ITAU [NOME] em verbas sucumbenciais, que, repita-se, foram imputadas, pela decisão de fls. 961/966, integralmente, aos ora embargantes.
+Nessas condições, REJEITO os embargos de declaração.
+Advirto que eventual recurso interposto contra esta decisão estará sujeito ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intime-se.
