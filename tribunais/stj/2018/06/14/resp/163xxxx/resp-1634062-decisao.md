@@ -1,0 +1,43 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por [NOME] contra acórdão prolatado, por unanimidade, pela 17ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo no julgamento de apelação, assim ementado (fls. 161e):
+Acidente do trabalho - Reexame necessário - Revisional - Auxílio-doença - Renda mensal inicial - Cálculo do salário de beneficio sem o descarte dos 20% menores salários de contribuição - Previsão legal expressa contida no art. 29, II, da Lei nº 8.213/91 - Comprovação da realização de revisão administrativa - Reconhecimento da perda do objeto - Extinção nos termos do art. 267, inciso VI do CPC - Recurso provido.
+Opostos embargos de declaração, foram rejeitados (fls. 174/178e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 29, II, da Lei n. 8.213/91 - não foi observada a regra das 80% maiores contribuições do período básico de cálculo de sua renda mensal inicial; e
+Art. 5º, XXXVI, da Constituição da República - "Assim, se a Parte Autora detém direito a revisão (conforme admitido pela própria Autarquia), pode ela almejar receber os atrasados desde agora, não podendo ser obrigada a sujeitar-se a cronogramas, calendários e parcelamentos impostos pelo INSS, que em nenhum momento privilegiam o segurado, para que o direito passe a ser respeitado.".
+Alega, ainda, que "A existência de ação civil pública versando sobre direitos individuais homogêneos não inibe o titular do direito de propor ação, individualmente, e assim pleitear o que é de seu interesse, pois permanece incólume, nesses casos, o interesse de agir, que decorre da liberdade (e-STJ FI.189) concedida à parte de preferir deduzir a pretensão isoladamente, invocando os argumentos que entende serem os mais pertinentes e por intermédio de advogado de sua confiança, sendo essa faculdade decorrência do próprio primado insculpido no artigo 5o, XXXV, da Constituição Federal, que assegura não possa ser excluída da apreciação do Poder Judiciário qualquer lesão ou ameaça a direito."
+Sem contrarrazões, o recurso foi admitido (fl. 200e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+A tese quanto à presença de interesse de agir não encontra amparo no dispositivo apontado, o que impede sua apreciação em recurso especial.
+Com efeito, incide na espécie, por analogia, o óbice contido na Súmula 284, do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUTORIZAÇÃO DE PESQUISA E LAVRA DE MINÉRIOS. PEDIDO PROTOCOLADO NO ÚLTIMO DIA DA LICENÇA ANTERIOR. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS CONSTANTES DOS AUTOS, SER DESARRAZOADO O INDEFERIMENTO DO REQUERIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ARTIGO 18, INCISO I, DO CÓDIGO DE MINERAÇÃO. DISPOSITIVO LEGAL QUE NÃO CONTEM COMANDO CAPAZ DE SUSTENTAR A TESE RECURSAL E INFIRMAR O JUÍZO FORMULADO PELO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF.
+(..)
+2. Não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contem comando capaz de sustentar a tese recursal e infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, da orientação posta na Súmula 284/STF.
+3. Agravo regimental não provido.
+(AgRg no AREsp 385.170/GO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PEDIDO. DIREÇÃO CONTRA SENTENÇA. EXISTÊNCIA DE ACÓRDÃO POSTERIOR QUE A SUBSTITUIU. PEDIDO. IMPOSSIBILIDADE JURÍDICA. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. ARTS. 485, V, E 512 DO CPC. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONFIGURAÇÃO.
+(..)
+2. Há deficiência argumentativa quando o preceito legal apontado como violado (arts. 485, V, e 512 do CPC) não é suficiente para amparar a tese defendida no recurso especial. Precedentes.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1369630/BA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/10/2013, DJe 20/11/2013)
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar possível ofensa a norma constitucional, razão pela qual a presente insurgência não pode ser conhecida no que tange à alegada violação aos arts. 5º, XXXVI, da Constituição da República. A respeito do tema, os seguintes precedentes: AgRg no AREsp 500.795/MG, 1ª T., Rel. Min. Sérgio Kukina, DJe de 11.06.2014; AgRg no AREsp 304.877/SP, 1ª T., Rel. Min. Napoleão Nunes Maia Filho, DJe de 14.11.2013; REsp 1.388.332/PR, 2ª T., Rel. Min. Humberto Martins, DJe de 12.06.2014; REsp 1.355.641/PR, 2ª T., Rel. Min. Mauro Campbell Marques, DJe de 29.04.2014.
+Por fim, o Recurso Especial não pode ser conhecido com fundamento na alínea c, do permissivo constitucional, pois a parte recorrente deixou de proceder ao cotejo analítico entre os arestos confrontados, com o escopo de demonstrar que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+Cumpre ressaltar, ainda, que o Recorrente deve transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. EXECUÇÃO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL EM VIRTUDE DE PROPOSITURA DE DEMANDA JUDICIAL PELO DEVEDOR NA QUAL O DÉBITO É IMPUGNADO. ALEGADA AUSÊNCIA DE PRECLUSÃO. RECURSO ANCORADO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL SOBRE O QUAL SUPOSTAMENTE RECAI A CONTROVÉRSIA. INCIDÊNCIA DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. Além do que, para se comprovar a divergência, não basta a mera transcrição de ementas, é indispensável o cotejo analítico entre os julgados, de modo que ressaia a identidade ou similitude fática entre os acórdãos paradigma e recorrido, bem como teses jurídicas contrastantes, a demonstrar a alegada interpretação oposta.
+4. Agravo Regimental do IRGA desprovido.
+(AgRg no REsp 1.355.908/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 15/08/2014).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENSÃO POR MORTE. DECADÊNCIA. SÚMULA 211/STJ. DEVOLUÇÃO DE VALORES E PRESCRIÇÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI SUPOSTAMENTE VIOLADOS. SÚMULA 284/STF. CONDIÇÃO DE DEPENDENTE. FILHO MAIOR INVÁLIDO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+4. O conhecimento de recurso especial fundado na alínea "c" do art. 105, III, da CF/1988 requisita, em qualquer caso, a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados, não sendo bastante a simples transcrição de ementas ou votos (artigos 541, parágrafo único, do Código de Processo Civil e 255, § 2º, do RISTJ). A não observância a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do recurso especial.
+5. Agravo regimental não provido.
+(AgRg no REsp 1.420.639/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/03/2014, DJe 02/04/2014).
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
