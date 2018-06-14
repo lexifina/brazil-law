@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA DOLORES DE FREITAS ABREU contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de "ação de arbitramento cumulado com pedido de cobrança de alugueres" proposta por [NOME] em desfavor de ESPÓLIO DE [NOME] DE ABREU, MARIA DOLORES DE FREITAS ABREU e MINI MERCADO ABREU LTDA.
+O il. Magistrado julgou procedente o pedido e, quanto ao réu MINI MERCADO ABREU LTDA, julgou extinto o feito sem resolução do mérito (sentença às fls. 443/448).
+Diante disso, as partes interpuseram os respectivos recursos. O eg. TJ-SP negou provimento ao recurso de ESPÓLIO DE [NOME] DE ABREU, MARIA DOLORES DE FREITAS ABREU e MINI MERCADO ABREU LTDA e concedeu parcialmente provimento à apelação de MARIA DOLORES DE FREITAS ABREU, nos termos do v. acórdão, assim ementado (fl. 533):
+" CONDOMÍNIO. IMÓVEL. INDENIZAÇÃO. USO EXCLUSIVO PELOS RÉUS. ALUGUÉIS DESDE A CITAÇÃO ATÉ EFETIVA DIVISÃO. OBRAS REALIZADAS PELOS RÉUS QUE NÃO INFLUENCIARAM NO VALOR DOS LOCATÍCIOS. O condômino de coisa comum que não exerce posse sobre o bem tem direito de ser indenização pelo uso exclusivo dos demais coproprictários. Incidência do art. 1.319, CC/02. Direito desde a citação até a efetiva divisão. Precedente desta Câmara. As obras introduzidas pelos réus não influenciaram no valor dos locatícios. Perícia. Recurso do autor parcialmente provido. Apelo dos réus não provido."
+Os embargos de declaração opostos foram rejeitados (acórdão às fls. 555/560).
+Inconformados, ESPÓLIO DE [NOME] DE ABREU, MARIA DOLORES DE FREITAS ABREU e MINI MERCADO ABREU LTDA interpôs recurso especial, com fulcro no art. 105, inciso III, alínea "a", da CF/88, no qual alegam violação do art. 267, inciso VI, do CPC/73; e do art. 68 da Lei n. 8.245/91.
+Como dito, o apelo nobre foi inadmitido à fl. 572.
+Irresignados, ESPÓLIO DE [NOME] DE ABREU, MARIA DOLORES DE FREITAS ABREU e MINI MERCADO ABREU LTDA manejou o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Não foi apresentada contraminuta (certidão de fl. 581).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+No apelo nobre que pretendem trânsito, sustentam os recorrentes ofensa do art. 267, inciso VI, do CPC/73; e do art. 68 da Lei n. 8.245/91, ao argumento de inadequação da via eleita pela parte autora, ora recorrida, porquanto a ação a ser demandada não seria de arbitramento de aluguel, mas revisão dos valores locatícios.
+O eg. TJ-SP, por sua vez, assentou que não há qualquer vício nas condições da ação, nem mesmo na via eleita pela autora, conforme transcrição a seguir do v. acórdão estadual (fl. 558):
+"A decisão recorrida julgou o mérito da causa e manteve a parte da sentença que condenou os embargantes ao pagamento de aluguéis.
+Tendo decidido efetivamente o pedido, a decisão recorrida acabou por afastar implicitamente a alegação de carência de ação dos embargantes.
+De todo modo, não era o caso de se acolher o argumento, vez que o embargado preenche as condições da ação e o pedido mostrou-se adequado para a via eleita, contrariamente ao sustentado pelos recorrentes."
+Com efeito, não houve ofensa do art. 267, inciso VI, do CPC/73; e do art. 68 da Lei n. 8.245/91 porque o nomen iuris da ação não é suficiente para definir o pleito do autor, mas sim os pedidos contidos na exordial. Nessa linha de intelecção, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. INDENIZAÇÃO. 1. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. 2. OCORRÊNCIA DE PREJUÍZO CONSTATADO PELA CORTE DE ORIGEM: A DEMORA NO LEVANTAMENTO DO GRAVAME INVIABILIZOU O EMPREGO REGULAR DO AUTOMÓVEL. DANO MORAL. SÚMULA 7 DO STJ. 3. INEXISTÊNCIA DE VIOLAÇÃO AOS LIMITES DA DEMANDA. ÓBICE DO ENUNCIADO SUMULAR 7 DO STJ. 4. COMPATIBILIDADE DO RITO E DO PEDIDO DE DANO MORAL. NA HIPÓTESE EM FOCO, A AÇÃO COMINATÓRIA NÃO IMPEDE A COBRANÇA CONCOMITANTE DOS PREJUÍZOS DA MORA. 4.1. NOMEN IURIS DADO À AÇÃO. É NECESSÁRIA A AFERIÇÃO DA CONGRUÊNCIA ENTRE O QUE FOI PEDIDO E O CONTEÚDO DA PRESTAÇÃO JURISDICIONAL, INDEPENDENTEMENTE DA DENOMINAÇÃO QUE TENHA SIDO EXTERNADA NA PEÇA VESTIBULAR. 5. AGRAVO INTERNO IMPROVIDO.
+(..)
+4.1. Saliente-se que a demanda foi intitulada de ação de execução da obrigação de fazer c/c indenizatória de perdas e danos, mas, em realidade, trata-se de ação de cumprimento de obrigação de fazer c/c indenizatória de perdas materias e morais. Convém assinalar que pouco importa a denominação dada à demanda. Anote-se que o formalismo exacerbado deve ser combatido. É necessária a aferição da congruência entre o que foi pedido e o conteúdo da prestação jurisdicional, independentemente da denominação que tenha sido externada na peça vestibular. Precedentes.
+5. Agravo interno improvido.
+(AgInt no AREsp 1109299/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 19/12/2017)
+Ademais, cumpre salientar iterativa jurisprudência desta eg. Corte no sentido de que nulidade, ainda que absoluta, exige demonstração de eventual prejuízo. Na espécie, ainda que houvesse ocorrido violação do art. 267, inciso VI, do CPC/73, não foi apontado qualquer prejuízo sofrido pelos recorrentes. Nessa linha de intelecção, os arestos a seguir:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CUMPRIMENTO DE SENTENÇA. GARANTIA DO JUÍZO POSTERIOR AO OFERECIMENTO DA IMPUGNAÇÃO. AUSÊNCIA DE PREJUÍZO. NULIDADE NÃO RECONHECIDA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1 - Para o reconhecimento de vício causador de anulação de ato processual, é exigida a existência de prejuízo, mesmo que seja a hipótese de nulidade absoluta, em respeito ao princípio da economia processual. Precedente.
+2 - Agravo interno no recurso especial não provido, com majoração dos honorários."
+(AgInt no REsp 1.497.185/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 28/03/2017, DJe de 30/03/2017 - grifou-se)
+"EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. RECURSO INTERPOSTO POR LITISCONSORTE. PUBLICAÇÃO DA DECISÃO FAZENDO CONSTAR O LITISCONSORTE E A PARTE ADVERSA COMO RECORRIDOS. NULIDADE. INEXISTÊNCIA. ANULAÇÃO DE ATO QUE NÃO ACARRETOU PREJUÍZO ÀS PARTES. DESCABIMENTO. ACÓRDÃO EMBARGADO QUE APRECIOU O RECURSO DOS RÉUS. ACLARATÓRIOS ACOLHIDOS, SEM EFEITOS MODIFICATIVOS, APENAS PARA ESCLARECIMENTO.
+(..)
+2. "O princípio norteador das nulidades processuais é aquele haurido do direito francês, segundo o qual não há de ser declarada qualquer nulidade se ausente efetivo prejuízo (pas de nullité sans grief)".(EDcl no REsp 1087163/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/10/2011, DJe 24/10/2011)
+3. Embargos de declaração acolhidos, sem efeitos modificativos, apenas para fins de esclarecimento."
+(EDcl nos EDcl no REsp 945.551/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/09/2012, DJe de 03/10/2012 - grifou-se)
+Nesse cenário, conforme salientado, não se verifica a ofensa do art. 267, inciso VI, do CPC/73; e do art. 68 da Lei n. 8.245/91.
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC/2015, de R$ 2.900,00 (dois mil e novecentos reais) para R$ 3.200,00 (três mil e duzentos reias).
+Publique-se.
