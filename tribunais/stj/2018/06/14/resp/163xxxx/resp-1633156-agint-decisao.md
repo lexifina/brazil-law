@@ -1,0 +1,49 @@
+DECISÃO
+O presente feito decorre do ajuizamento de ação por [NOME], representado pela Defensoria Pública do Estado de Mato Grosso, em desfavor do Estado de Mato Grosso e do Município de Cuiabá/MT, objetivando sua transferência para hospital especializado para a realização de cirurgia cardíaca.
+Na primeira instância, os pedidos formulados na inicial foram julgados procedentes. No Tribunal de Justiça do Estado de Mato Grosso, a sentença foi parcialmente reformada, para excluir a condenação dos honorários advocatícios e a multa cominatória, nos termos do acórdão assim ementado:
+REEXAME NECESSÁRIO E APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - SAÚDE - DEVER DE TODOS OS ENTES ASSEGURAR À POPULAÇÃO - MULTA COMINATÓRIA - EXTIRPADA - HONORÁRIOS SUCUMBENCIAIS EM FAVORDA DEFENSORIA PÚBLICA - EC Nº 80, DE 04 DE JUNHO DE 2014 - EQUIPARAÇÃO ÀS PRERROGATIVAS DA MAGISTRATURA E MINISTÉRIO PÚBLICO - HONORÁRIOS INDEVIDOS - RECURSO PARCIALMENTE PROVIDO E SENTENÇA RATIFICADA NOS DEMAIS TERMOS.
+O direito público subjetivo à saúde representa prerrogativa jurídica indisponível,assegurada à generalidade das pessoas pela própria Constituição da República (art. 196); que traduz um bem jurídico constitucionalmente tutelado, por cuja integridade deve velar, de maneira responsável, o Poder Público.
+Com o advento da Emenda Constitucional nº 80, de 04 de junho de 2014, equiparando a Defensoria Pública à Magistratura e Ministério Público, deve-se firmar entendimento de ser incabível o pagamento de honorários sucumbenciais em favor dos membros da Defensoria Pública. Precedente deste Tribunal (RAC nº 33060/2014).
+Considerando que o § 5º, do art. 461, do CPC, confere ao juiz poderes para a imposição de outros meios coercitivos, no caso da Fazenda Pública, embora necessário um meio de coercibilidade, deve sê-lo através de meio mais eficaz e efetivo, de modo que seja realmente assegurado o cumprimento da obrigação. Portanto, deve ser extirpada a multa cominatória.
+[NOME] interpôs recurso especial, fundamentado na alínea a do inciso III do art. 105 da Constituição Federal, por ofensa ao art. 134, § 4º, da Constituição Federal; ao art. 4º, inciso XXI, da Lei Complementar n. 80/94; aos arts. 33, inciso XI e § 2º, e 179, caput, e inciso I, da Lei Complementar Estadual n. 146/03; bem como ao art. 20, § 4º do Código de Processo Civil de 1973.
+O Tribunal de origem negou seguimento ao recurso especial, o que ensejou a interposição de agravo nos próprios autos.
+Recebidos os autos pelo Superior Tribunal de Justiça, foi proferida decisão pela qual deu-se provimento ao recurso especial, para restabelecer os honorários fixados na sentença em favor da Defensoria Pública Estadual.
+Contra essa decisão, interpõe-se este agravo interno, no qual a parte agravante alega, em síntese, que (fl. 427):
+ ..  em face do Tribunal de origem ter decidido a controvérsia à luz de fundamentos eminentemente constitucionais (Emenda Constitucional 80/2014 - artigo 134 da Constituição Federal), a matéria é insuscetível de ser examinada em sede de recurso especial, impondo-se o provimento do presente recurso a fim de revogar a decisão monocrática a qual restabeleceu a sentença de primeiro grau no tocante aos honorários advocatícios.
+Não foi apresentada impugnação ao agravo interno (fl. 429).
+É o relatório. Decido.
+Diante das razões apresentadas pela parte agravante, reconsidero a decisão agravada.
+O recurso especial não comporta conhecimento.
+Ainda que o julgamento ocorra quando já em vigor o Código de Processo Civil de 2015, como a decisão sobre a qual foi interposto o recurso especial foi publicada sob a égide da legislação processual civil anterior, quanto ao cabimento, aos demais pressupostos de admissibilidade e ao processamento do recurso, aplicam-se as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do enunciado administrativo n. 2 do Superior Tribunal de Justiça.
+Segundo se observa dos fundamentos que serviram de base para a Corte de origem apreciar a controvérsia, fica claro que a matéria foi dirimida no âmbito constitucional, de modo a afastar a competência desta Corte Superior de Justiça para o deslinde da controvérsia. É o que se verifica na simples leitura da ementa do acórdão regional recorrido, in verbis (fl. 265):
+REEXAME NECESSÁRIO E APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - SAÚDE - DEVER DE TODOS OS ENTES ASSEGURAR À POPULAÇÃO - MULTA COMINATÓRIA - EXTIRPADA - HONORÁRIOS SUCUMBENCIAIS EM FAVORDA DEFENSORIA PÚBLICA - EC Nº 80, DE 04 DE JUNHO DE 2014 - EQUIPARAÇÃO ÀS PRERROGATIVAS DA MAGISTRATURA E MINISTÉRIO PÚBLICO - HONORÁRIOS INDEVIDOS - RECURSO PARCIALMENTE PROVIDO E SENTENÇA RATIFICADA NOS DEMAIS TERMOS.
+O direito público subjetivo à saúde representa prerrogativa jurídica indisponível,assegurada à generalidade das pessoas pela própria Constituição da República (art. 196); que traduz um bem jurídico constitucionalmente tutelado, por cuja integridade deve velar, de maneira responsável, o Poder Público.
+Com o advento da Emenda Constitucional nº 80, de 04 de junho de 2014, equiparando a Defensoria Pública à Magistratura e Ministério Público, deve-se firmar entendimento de ser incabível o pagamento de honorários sucumbenciais em favor dos membros da Defensoria Pública. Precedente deste Tribunal (RAC nº 33060/2014).
+Considerando que o § 5º, do art. 461, do CPC, confere ao juiz poderes para a imposição de outros meios coercitivos, no caso da Fazenda Pública, embora necessário um meio de coercibilidade, deve sê-lo através de meio mais eficaz e efetivo, de modo que seja realmente assegurado o cumprimento da obrigação. Portanto, deve ser extirpada a multa cominatória.
+Ressalte-se que não houve, nos presentes autos, a interposição do recurso extraordinário.
+Ademais, cumpre esclarecer que não compete ao Superior Tribunal de Justiça analisar suposta ofensa a dispositivos constitucionais - art. 134, § 4º, da Constituição Federal -, sob pena de usurpar a competência constitucional do Supremo Tribunal Federal. Nesse sentido, veja-se a jurisprudência:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. NOMEAÇÃO. APROVAÇÃO FORA DAS VAGAS. HIPÓTESES DO ART. 535 DO CPC. AUSÊNCIA.
+ ..
+4. Estando ausentes quaisquer das hipóteses previstas no art. 535 do CPC, é desnecessária a menção expressa aos normativos constitucionais suscitados pelo embargante, sequer a título de prequestionamento.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no RMS 44.108/AP, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, julgado em 1º/3/2016, DJe 10/3/2016).
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE. PROCESSO ADMINISTRATIVO DISCIPLINAR. APLICAÇÃO SUBSIDIÁRIA DA LEI Nº 8.112/90 À MAGISTRADO. POSSIBILIDADE. PRECEDENTES. PREQUESTIONAMENTO DE DISPOSITIVOS DA CONSTITUIÇÃO FEDERAL. IMPOSSIBILIDADE.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida. Precedentes.
+ ..
+5. Não compete ao Superior Tribunal de Justiça se manifestar sobre suposta ofensa a preceitos constitucionais, ainda que para fins de prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República. Precedentes.
+6. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EDcl no RMS 46.678/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2015, DJe 18/12/2015).
+Por fim, não é cabível a interposição de recurso especial sob alegação de violação à lei local - art. 33, inciso XI, § 2º, e 179, caput, inciso I, da Lei Complementar do Estado de Mato Grosso n. 146/03, ante a incidência, por analogia, do enunciado n. 280 da Súmula do STF - "por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido é a jurisprudência do Superior Tribunal de Justiça,
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DE RECURSO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA, NOS MOLDES LEGAIS E REGIMENTAIS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL, EM TESE, VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. INTERPRETAÇÃO DO DIREITO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+ ..
+VI. O exame de normas de caráter local é inviável, na via do Recurso Especial, em virtude da vedação prevista na Súmula 280 do STF, aplicada por analogia, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+VII. Agravo Regimental parcialmente conhecido, e, nessa parte, improvido.
+(AgRg no AREsp 623.351/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 23/02/2016, DJe 09/03/2016)
+ADMINISTRATIVO. PAGAMENTO DE HORAS EXTRAS. CARGO EM COMISSÃO. LEI LOCAL. SÚMULA 280 DO STF. REVISÃO DA VERBA HONORÁRIA. SÚMULA 7/STJ.
+1. O exame de normas de caráter local (Lei Municipal 223/1974) é inviável em Recurso Especial, em face da vedação prevista na Súmula 280 do STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário", aplicável por analogia.
+ ..
+3. Agravo Interno não provido.
+(AgInt no AREsp 990.627/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 19/12/2016)
+Ante o exposto, com fundamento no art. 259, caput, c/c art. 253, parágrafo único, inciso II, alínea a, do Regimento Interno do STJ, reconsidero a decisão agravada para não conhecer do recurso especial.
+Publique-se. Intimem-se.
