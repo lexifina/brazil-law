@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por ENPAL SHOPPING CENTERS LTDA., com fundamento na alínea "a" do inc. III do art. 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Pernambuco assim ementado:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL CONTRA DECISÃO DENEGATÓRIA DE SEGUIMENTO A AGRAVO DE INSTRUMENTO MANIFESTAMENTE INADMISSÍVEL. DECISÃO AGRAVADA TORNADA PÚBLICA ANTES DA VIGÊNCIA DO CPC/2015. INTELIGÊNCIA DA REGRA DO ART. 557 DO CPC/73. RECEPÇÃO COMO SE RECURSO DE AGRAVO FOSSE. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. SÚMULA 42/TJPE. FORMAÇÃO DEFICIENTE DO INSTRUMENTO DO AGRAVO À LUZ DO ART. 525, Nº I, DO CPC/73. AUSÊNCIA DE PEÇA OBRIGATÓRIA. INCOGNOSCIBILIDADE DO AGRAVO PRINCIPAL. PRECEDENTES DO STJ. DECISÃO MANTIDA.
+1. Mercê do princípio da fungibilidade recursal, homenageado pela Súmula nº 42 do TJPE, é irrelevante o errôneo manejo do agravo doméstico ao invés do agravo versado no § 1º do art. 557 do CPC/73. Agravo regimental recepcionado como se recurso de agravo fosse.
+2. A respeito da correta formação do instrumento do agravo preconizada no nº I do art. 525 do CPC/73, é dominante no Superior Tribunal de Justiça a jurisprudência que exige a certidão cartorária atestando a inexistência nos autos da causa de origem de procuração outorgada a advogado da parte agravada, sob pena de inadmissibilidade desse agravo. Precedentes: AgRg no REsp 1294743/PR, rel. Min. Ricardo Villas Bôas Cueva, DJe 01.12.2015; AgRg no AREsfp 599253/MG, rel. Min. Moura Ribeiro, DJe 18.05.2015; AgRg no Ag 1230872/AL, rel. Min. Rogério Schietti Cruz, DJe 28.10.2013; AgRg no AREsp 202345/PB, rel. Min. Herman Benjamin, DJe 19.12.2012.
+3. Certo que até independentemente de provocação do recorrido o art. 557 do CPC/73 autorizava o relator a negar seguimento a recurso manifestamente inadmissível, em sítio de integração da convicção do órgão colegiado, motivado pela interposição do agravo previsto no § 1º daquela norma, pela suficiente apreciação dos elementos postos nos autos confirma-se a adequação da decisão unipessoal ao caso concreto. Recurso desprovido" (e-STJ fl. 417).
+Os embargos de declaração foram rejeitados sem acréscimo de fundamentação e com a imposição de multa (e-STJ fls. 469-478).
+Nas razões do recurso, a recorrente alega violação dos arts. 334 e 525 do Código de Processo Civil de 1973.
+Sustenta, em síntese, que informou na petição de agravo de instrumento a ausência de citação da parte recorrida, circunstância que impediu o aperfeiçoamento da relação processual e, por consequência, da juntada de procuração da agravada. Ressalta, ainda, que o agravo de instrumento foi acompanhado de cópia integral dos autos. Por fim, defende que esta Corte Superior já firmou posicionamento no sentido de que é dispensável a juntada de procuração ou certidão cartorária, quando a falta de citação revela a notoriedade da sua inexistência.
+Com fulcro nos argumentos expostos, pleiteia o provimento do recurso.
+Após as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+Preliminarmente, importante consignar que o acórdão impugnado pelo recurso especial inadmitido foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+No mérito, como bem destacado nas razões recursais, esta Corte Superior tem considerado dispensável a juntada de certidão cartorária atestando a ausência da procuração outorgada aos procuradores da parte agravada, na formação do instrumento de agravo, quando nos autos da ação principal não se houver angularizado a relação processual com a citação da parte demandada.
+Nesse sentido são os precedentes:
+"PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PROCURAÇÃO OUTORGADA AO ADVOGADO DA PARTE AGRAVADA. INEXISTÊNCIA DE CITAÇÃO. DESNECESSIDADE. PRECEDENTES. APLICAÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ EM SEDE DE EMBARGOS DE DECLARAÇÃO QUE SE REPELE.
+1. Se a circunstância do processo aponta para a certeza de inexistência de procuração ao advogado do agravado, porquanto este ainda não foi citado, desnecessária a exigência de juntada da peça, que inexiste, ou mesmo de certidão do cartório que venha a atestar o que já se concluiu como certo. Precedentes.
+ ..
+3. Recurso especial provido" (REsp 1.258.525/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 14/9/2011).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. PROCURAÇÃO. AGRAVADO. ARTIGO 544, § 1º, DO CPC. PEÇA OBRIGATÓRIA. AUSÊNCIA DE CITAÇÃO. DISPENSA. BUSCA E APREENSÃO. PEDIDO LIMINAR. FUNDAMENTO CONSTITUCIONAL. SÚMULA N. 126/STJ.
+1. "A inexistência de procuração do advogado do agravado ainda não citado torna desnecessária a exigência de juntada da peça, ou mesmo de certidão do cartório que venha a atestar o que já se concluiu como certo" (AgRg no Ag 513607/PA, Rel. Min. Barros Monteiro, Quarta Turma, DJ 02/05/2005 p. 356).
+ ..
+3. Agravo regimental a que se dá provimento somente para conhecer, porém negar provimento ao agravo de instrumento" (AgRg no Ag 773.690/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 4/8/2011).
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CITAÇÃO. JUNTADA DA PROCURAÇÃO DA PARTE AGRAVADA (ART. 525, INC. I, CPC). RELAÇÃO PROCESSUAL NÃO ANGULARIZADA. DESNECESSIDADE DO REFERIDO DOCUMENTO OU DE CERTIDÃO NO SENTIDO DA INEXISTÊNCIA DE PARTE RÉ. FATO NOTÓRIO QUE INDEPENDE DE PROVA (ART. 334, INC. I, CPC). EMBARGOS DE DECLARAÇÃO CONSIDERADOS PROTELATÓRIOS NA ORIGEM. APLICAÇÃO DA SÚMULA N. 98 DESTA CORTE SUPERIOR.
+1. Na espécie, o agravo de instrumento - interposto pelo recorrente em face de decisão que determinou (i) a emenda da inicial para dela fazer constar outros litisconsortes passivos e (ii) a citação da ré e do beneficiário do ato impugnado judicialmente - não foi conhecido sob o argumento de ausência de cópia da procuração da parte agravada (art. 535, inc. I, do CPC). Trata-se, portanto, de situação em que fica evidente que sequer chegou a ocorrer a angularização da relação processual.
+2. A jurisprudência desta Corte Superior consolidou-se no sentido de que é despicienda a juntada da procuração da parte agravada quando esta ainda não participa da relação processual (ausência de citação). Precedentes.
+3. Igualmente desnecessário que a parte agravante promova a anexação de certidão expedida por serventia judicial neste sentido, em razão da certeza de sua inexistência nos autos, na forma do art. 334, inc. IV, do CPC (não se provam fatos em relação aos quais existe presunção legal de inexistência - no caso concreto, antes do despacho citatório, presume-se inexistir "parte ré").
+ ..
+5. Recurso especial provido" (REsp 1.181.167/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 30/9/2010).
+"AGRAVO DE INSTRUMENTO. PROCURAÇÃO DO ADVOGADO DO AGRAVADO. INEXISTÊNCIA. AUSÊNCIA DE CITAÇÃO.
+- A inexistência de procuração do advogado do agravado ainda não citado torna desnecessária a exigência de juntada da peça, ou mesmo de certidão do cartório que venha a atestar o que já se concluiu como certo" (AgRg no REsp 849.197/RN, Rel. Ministro HUMBERTO GOMES DE BARROS, TERCEIRA TURMA, DJ 15/10/2007, p. 260).
+"Processo civil. Recurso especial. Ação cautelar. Agravo de instrumento. Peça. Procuração outorgada ao advogado do agravado. Ausência. Inexistência de citação do agravado na hipótese. Desnecessidade. Precedente.
+- Se a circunstância do processo aponta para a certeza de inexistência de procuração ao advogado do agravado, porquanto este ainda não foi citado, desnecessária a exigência de juntada da peça, que inexiste, ou mesmo de certidão do cartório que venha a atestar o que já se concluiu como certo.
+Recurso especial não conhecido" (REsp 542.392/ES, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJ 10/2/2004, p. 253).
+Oportuno ressaltar que a leitura da petição de agravo de instrumento revela a efetiva informação quanto à ausência de citação da parte recorrida, conforme se observa do seguinte excerto:
+"(..)
+Informa ainda que a Associação dos Lojistas do Parque das Feiras de Toritama/PE, ora agravada, ainda não foi citada, não constando ainda sua intervenção nos autos do processo, não sendo possível juntar a cópia da procuração de seu representante" (e-STJ fl. 3).
+Indubitável, portanto, que a conclusão adotada pelo acórdão recorrido está dissociada da jurisprudência do Superior Tribunal de Justiça, merecendo reforma.
+Ante o exposto, dou provimento ao recurso especial para afastar o óbice da não juntada de procuração da parte agravada, e determino a remessa dos autos ao Tribunal de origem para que aprecie o agravo de instrumento como entender de direito.
+Publique-se.
+Intimem-se.
