@@ -1,0 +1,28 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão da Primeira Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “AGRAVO DE INSTRUMENTO. ANTECIPAÇÃO DE TUTELA EM AÇÃO ORDINÁRIA. URGÊNCIA NÃO CONFIGURADA.
+    Em juízo perfunctório, típico dos agravos, como é o presente caso, não verifico a necessária urgência em se reformar a decisão atacada, devendo-se aguardar a regular instrução do feito de origem, em observância aos princípios constitucionais do contraditório e da ampla defesa”.
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 93, IX; 145, § 1º; 150; 151 e 152, todos da CF. Sustenta que: (i) o acórdão recorrido não se pronunciou sobre todos os pontos suscitados pela parte ora recorrente; (ii) não há no acórdão recorrido fundamentação satisfatória; (iii) houve violação do princípio democrático e do devido processo legislativo para aprovação da Lei nº 12.955/2014; (iv) a exação instituída pela Lei nº 12.955/2014 fere os princípios da capacidade contributiva, da isonomia tributária e do não confisco.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[…]
+    No caso em tela, o recurso não merece seguimento, na medida em que a decisão atacada funda-se em matéria eminentemente infraconstitucional, assim supostamente, constituiria a irresignação da parte, ofensa indireta e reflexa à Constituição Federal, inapta a autorizar o recurso extraordinário”.
+    […]
+    Ante o exposto, não admito o recurso extraordinário”.
+    O Tribunal de origem, ao fundamentar o acórdão recorrido, consignou:
+    “No presente caso não restou demonstrada a possibilidade da decisão agravada provocar lesão grave e de difícil reparação à parte agravante a justificar a intervenção desta instância revisora.
+    Em juízo perfunctório, típico dos agravos, como é o presente caso, não verifico a necessária urgência em se reformar a decisão atacada, devendo-se aguardar a regular instrução do feito de origem, em observância aos princípios constitucionais do contraditório e da ampla defesa.
+    Neste sentido decidiu recentemente esta Corte:
+    ‘TRIBUTÁRIO. AGRAVO. AÇÃO ORDINÁRIA. EXTENSÃO DA LIMINAR. DILAÇÃO PROBATÓRIA. JUÍZO DE ORIGEM. AUSÊNCIA DA DEMONSTRAÇÃO DE URGÊNCIA 1. Ausente a demonstração de risco de dano grave, irreparável ou de difícil reparação, deve-se aguardar a instrução regular do processo, à luz dos princípios constitucionais do contraditório e da ampla defesa. 2. Não se encontram presentes, em exame precário realizado em sede de agravo de instrumento, todos requisitos necessários à inversão da regra de entrega da prestação jurisdicional ao final da demanda, por meio de antecipação da tutela. 3. Não há fato extremo que reclame urgência e imediata intervenção desta instância revisora. (TRF4, AGRAVO DE INSTRUMENTO Nº 5017607-30.2016.404.0000, 2ª TURMA, Juíza Federal CLÁUDIA MARIA DADICO, POR UNANIMIDADE, JUNTADO AOS AUTOS EM 13/07/2016)’
+    Ante o exposto, voto por negar provimento ao agravo de instrumento”.
+    A matéria discutida no acórdão recorrido cinge-se à existência ou não dos requisitos autorizadores da concessão de tutela provisória.
+    Delimitada a matéria a ser conhecida, passo à análise do recurso.
+    A pretensão recursal não merece prosperar.
+    Quanto à alegada ofensa ao art. 93, IX, da Constituição, o Plenário do Supremo Tribunal Federal (STF) já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. A fundamentação pode, inclusive, ser realizada de forma sucinta. Nesse sentido, confira-se:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes)
+    Ademais, a jurisprudência do STF entende não ser possível a interposição de recurso extraordinário contra decisão que concede ou indefere medida liminar ou antecipação de tutela. A hipótese atrai a incidência da Súmula 735/STF. Nesse sentido, confira-se o julgado:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. LIMINAR OU TUTELA ANTECIPADA. ATO DECISÓRIO NÃO DEFINITIVO. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 735 DO STF. AGRAVO REGIMENTAL IMPROVIDO. I – As decisões que concedem ou denegam antecipação de tutela, medidas cautelares ou provimentos liminares não perfazem juízo definitivo de constitucionalidade que enseje o cabimento do recurso extraordinário. Incidência da Súmula 735 do STF. Precedentes. II – Agravo regimental improvido.” (AI 741.770-AgR, Min. Ricardo Lewandowski)
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 14 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
