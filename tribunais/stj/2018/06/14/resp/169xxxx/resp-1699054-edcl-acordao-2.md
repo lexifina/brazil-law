@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015. INCORPORAÇÃO DE QUINTOS. ADEQUAÇÃO AO DECIDIDO PELO STF. SOBRESTAMENTO DO FEITO ATÉ O TRANSITO EM JULGADO DO RECURSO. DESNECESSIDADE. APLICAÇÃO IMEDIATA.
+1. De acordo com o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou para corrigir erro material.
+2. Inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, impõe-se a rejeição dos presentes embargos de declaração.
+3. A jurisprudência do STJ firmou entendimento no sentido de ser desnecessário aguardar o trânsito em julgado para a aplicação do paradigma firmado em sede de Recurso Repetitivo ou de Repercussão Geral. Precedentes: AgRg no REsp 1481098/RN, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 26/06/2015; AgRg nos EDcl no REsp 1477866/RN, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, Dje 27/08/2015; AgRg no REsp 1491892/RN, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 03/06/2015; AgRg no REsp 1296196/RS, Rel. Ministro Gurgel de Faria, Quinta Turma, DJe 02/06/2015. (AgRg nos EDcl no AREsp 706.557/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/10/2015, DJe 13/10/2015).
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração de [NOME] e Outros, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por FATIMA [NOME] DOS [NOME] [NOME] e OUTROS de acórdão que, em juízo de retratação a que alude o art. 1.030, II, do CPC/2015, deu provimento a recurso especial, invertendo os ônus sucumbenciais.
+A parte embargante sustenta a existência de omissão no acórdão recorrido, em razão da oposição de embargos de declaração no RE 638.115/CE, fato que enseja o sobrestamento dos presentes autos até seu julgamento final.
+As razões do recurso não foram impugnadas (fl. 616).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): De acordo com o previsto no artigo 1.022 do novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão atacada ou para corrigir erro material.
+Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado que "o Supremo Tribunal Federal, no julgamento do Recurso Extraordinário 638.115/CE, em sede de repercussão geral, assentou a compreensão segundo a qual não é devida a incorporação de quintos/décimos por servidores em razão do exercício de funções gratificadas no período compreendido entre a edição da Lei 9.624/98 e a Medida Provisória nº 2.225-45/2001, ante a ausência de norma expressa autorizadora." e que "perfilhando essa orientação, o Superior Tribunal de Justiça realinhou a sua jurisprudência." (fl. 595).
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas obscuridades do decisum embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer omissão no julgado embargado, conforme exige o art. 1022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1471797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 2/12/2014)
+Ademais, a aplicação da tese pacificada em julgamento de recurso submetido ao rito da repercussão geral não depende do seu trânsito em julgado. Nesse sentido, os seguintes julgados do STF e deste STJ:
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL. INSURGÊNCIA VEICULADA CONTRA A APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL (ARTS. 543-B DO CPC E 328 RISTF). POSSIBILIDADE DE JULGAMENTO IMEDIATO INDEPENDENTEMENTE DA PUBLICAÇÃO OU DO TRÂNSITO EM JULGADO DO PARADIGMA. PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO 01.10.2010. A existência de precedente firmado pelo Plenário desta Corte autoriza o julgamento imediato de causas que versem sobre o mesmo tema, independente da publicação ou do trânsito em julgado do paradigma. Precedentes. Adequada à espécie, merece manutenção a sistemática da repercussão geral aplicada (arts. 543-B do CPC e 328 do RISTF). Agravo regimental conhecido e não provido.
+(AgRg no ARE 673.256/RS, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, julgado em 08/10/2013, DJe 22/10/2013)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO NO AGRAVO EM RECURSO ESPECIAL. REPERCUSSÃO GERAL. ART. 543-B, § 1º, DO CPC. SOBRESTAMENTO DO FEITO ATÉ O TRANSITO EM JULGADO DO RECURSO. DESNECESSIDADE. APLICAÇÃO IMEDIATA.
+1. A jurisprudência do STJ firmou entendimento no sentido de ser desnecessário aguardar o trânsito em julgado para a aplicação do paradigma firmado em sede de Recurso Repetitivo ou de Repercussão Geral. Precedentes: AgRg no REsp 1481098/RN, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 26/06/2015; AgRg nos EDcl no REsp 1477866/RN, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, Dje 27/08/2015; AgRg no REsp 1491892/RN, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 03/06/2015; AgRg no REsp 1296196/RS, Rel. Ministro Gurgel de Faria, Quinta Turma, DJe 02/06/2015.
+2. Agravo regimental não provido.
+(AgRg nos EDcl no AREsp 706.557/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/10/2015, DJe 13/10/2015)
+Ante o exposto, rejeitam-se os embargos declaratórios.
+É como voto.
