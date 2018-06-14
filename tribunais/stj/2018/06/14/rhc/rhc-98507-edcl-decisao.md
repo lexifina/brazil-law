@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por WESLEY HENRIQUE LIMA TIMOTEO contra a decisão proferida às e-STJ fls. 64/65, por meio da qual não conheci do presente recurso ordinário, por ter sido interposto diretamente perante esta Corte, bem assim por constituir reiteração do pedido contido no HC n. 450.810/SP.
+Sustenta o embargante a existência de omissão na decisão ora embargada, uma vez que o HC n. 450.810/SP foi indeferido liminarmente por ausência de cópia do decisum proferido na audiência de custódia, "por um lapso esquecido da juntada no primeiro pedido" (e-STJ fl. 69), ao passo que, neste recurso, teria sido acrescida a peça necessária ao exame da controvérsia, razão pela qual pugna pelo acolhimento dos embargos e pelo devido processamento do recurso ordinário (e-STJ fls. 68/69).
+Colaciona, novamente, às e-STJ fls. 70/73, a decisão que homologou sua prisão em flagrante e converteu-a em prisão preventiva.
+É, em síntese, o relatório.
+Inicialmente, assevero, em mais uma oportunidade, que a interposição de recurso ordinário em habeas corpus deve ser feita perante o Tribunal prolator do acórdão impugnado, o qual remeterá o feito a esta Corte Superior, após a devida análise quanto aos requisitos de admissibilidade do recurso.
+Na hipótese, não se mostra possível o conhecimento do presente recurso ordinário, uma vez que o recorrente interpôs o recurso diretamente neste Tribunal Superior, olvidando-se, portanto, de observar as regras legais que lhe são atinentes.
+Ademais, não obstante afirmar o embargante que a cópia da decisão que converteu sua prisão em flagrante em custódia preventiva foi devidamente juntada aos presentes autos, não há como conhecer do reclamo, visto que, da cópia do referido decisum juntada às e-STJ fls. 39/41, não consta o inteiro teor da decisão proferida pelo Juízo de primeiro grau.
+Além disso, a cópia juntada às e-STJ fls. 70/73 tampouco traz o inteiro teor da decisão impugnada, mantendo-se a impossibilidade de apreciação do ato apontado como coator.
+Como afirmei na decisão que indeferiu liminarmente o HC n. 450.810/SP, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente, de maneira que a ausência de prova pré-constituída das alegações torna impossível examinar o suposto constrangimento ilegal sofrido.
+Não vislumbro, portanto, a existência de nenhuma omissão ou obscuridade na decisão aqui embargada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
