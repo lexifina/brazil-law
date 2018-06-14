@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto por LUMIERE VEÍCULOS LIMITADA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão assim ementado:
+APELAÇÃO. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS. COMÉRCIO DE VEÍCULOS. SENTENÇA DE IMPROCEDÊNCIA - AUTORA QUE SE COMPROMETEU À QUITAÇÃO DO VEÍCULO OFERECIDO PELA REQUERIDA COMO PARTE DE PAGAMENTO - RECONHECIDA A RESPONSABILIDADE DA AUTORA PELO PAGAMENTO DA PARCELA INADIMPLIDA, REFERENTE AO FINANCIAMENTO DO VEÍCULO ENTREGUE PELA REQUERIDA. TRADIÇÃO DO BEM QUE OCORREU ANTERIORMENTE AO VENCIMENTO DA PARCELA. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS A TEOR DO ART. 252, DO REGIMENTO INTERNO DO TJSP. RECURSO DESPROVIDO (fl. 125).
+No recurso especial, a insurgente aponta ofensa aos arts. 186, 389, 502, 927 e 944 do CC. Alega, em síntese, responsabilidade da recorrida por parcela de financiamento vencida e não paga antes da tradição do veículo.
+Contrarrazões às fls. 140/146.
+É o relatório. Decido.
+Nos termos do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+As razões recursais estão deficientemente fundamentadas no tocante aos arts. 186, 389, 927 e 944 do CC.
+Em recurso especial, a parte tem que apresentar, de modo inequívoco, os dispositivos violados, bem como os argumentos, com a finalidade de demonstrar, com clareza, a ofensa praticada pelo acórdão impugnado, sob pena de o inconformismo ser inadmitido (EDcl no AREsp 374.221/MS e AgInt no AREsp 912.372/BA).
+No mais, a irresignação também não prospera.
+A recorrente ajuizou ação de cobrança, pretendendo "o recebimento da importância de R$ 1.745,71, correspondente à parcela de financiamento do veículo Citroen C4 - 2009/2010, financiado junto ao Banco PSA Finance Brasil S.A., o qual lhe foi entregue pela requerida em 30.12.2011 como parte de pagamento do automóvel Citroen C4 Hatch - 2011/2011 , por ela adquirido no valor de R$ 73.900,00" (fl 125). Afirmou que o valor pleiteado seria referente a parcela vencida e não paga antes da tradição do veículo à recorrente, não havendo acordo imputando-lhe o respectivo pagamento.
+O tribunal de origem, apreciando o acervo fático-probatório dos autos, concluiu que a responsabilidade pelo pagamento da parcela inadimplida seria da autora. Ressaltou que a recorrente se comprometeu à quitação do financiamento do veículo usado e que a tradição de tal bem ocorreu antes do vencimento da parcela cujo recebimento é pleiteado.
+Confira-se no acórdão recorrido:
+Com efeito, conforme se constata no documento de fls. 15, é incontroverso o fato de que a autora comprometeu-se à quitação do veículo usado, o qual foi oferecido pela requerida como parte de pagamento.
+Assim, não pode a autora eximir-se do pagamento de valor relacionado ao referido veículo, uma vez que ficou responsável pela quitação de seu financiamento.
+Nesse sentido, o MM. Juiz sentenciante asseverou que (fls. 82):
+"As partes contrataram que empresa autora receberia como parte do pagamento o veiculo da ré, descrito na inicial. No entanto, a autora, conforme relatado em sua inicial ficou responsável pela quitação do financiamento existente, referente ao veículo dado como parte do pagamento, conforme pode-se verificar em fls. 15, devendo a autora cumprir com o que foi contratado, não podendo agora repassar a ré a obrigação pela quitação." sic
+Ademais, ao contrário do que afirma a autora, a tradição do veículo efetivou-se anteriormente ao vencimento da despesa ora em cobrança. Isto é, o veículo deu entrada na empresa autora em 09/01/2012, como se verifica na nota fiscal de fls. 17, sendo que o vencimento da parcela inadimplida ocorreu em 08/02/2012 (fls. 20).
+Dessa forma, incumbe à autora o pagamento do valor de R$ 1.745,71, uma vez que se refere ao financiamento do veículo que lhe foi oferecido pela requerida, cuja tradição operou-se anteriormente ao vencimento da respectiva parcela (fl. 126).
+Nesse contexto, eventual reforma do acórdão recorrido, demandaria necessariamente revolvimento de matéria fática, inviável em recurso especial (Súmula 7/STJ).
+Ante o exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
