@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+RESPONSABILIDADE CIVIL. Cancelamento de vôo. Responsabilidade objetiva e solidária das fornecedoras do serviço. Operadora de turismo faz parte da cadeia de consumo. Inteligência dos arts. 7º, parágrafo único, 14, "caput", e 25, § 1º, todos do CDC. Dano moral caracterizado. Indenização bem arbitrada. Recursos não providos.
+A agravante sustenta que não pode ser responsabilizada solidariamente pelo pagamento de danos materiais ou materiais (arbitrados, respectivamente em R$ 999,64 - novecentos e noventa e nove reais e sessenta e quatro centavos; e R$ 12.000,00 - doze mil reais) porque apenas a corré IBÉRIA foi responsável pela alteração do voo da consumidora. Afirma ainda que a compra de outra passagem deveu-se à desídia da própria consumidora, que não foi atenta à mudança da operadora aérea.
+No que se refere à alegação de culpa exclusiva da recorrida, o Tribunal de origem afirmou que houve falha no dever de informação clara ao consumidor, nos seguintes termos (fl. 333/334 e-STJ):
+No caso dos autos, não há indício concreto de que o consumidor tenha sido minimamente informado acerca da alteração do voo e, tampouco, que tenham sido adotadas as medidas para contornar o contratempo.
+Nessa quadra, como bem salientou o juízo de o primeiro grau, "de nada adianta à ré Ibéria imputar culpa à autora por supostamente não ter comparecido ao balcão de "check -in" da Air Nostrum, se a consumidora não foi alertada sobre a mudança/alteração da operação. Constitui obrigação legal do fornecedor prestar informações claras e adequadas sobre os serviços contratados e postos à disposição do cliente, especialmente as alterações ocorridas após a negociação, evitando assim a frustração das expectativas do consumidor" (fl. 230).
+Portanto, não houve culpa exclusiva do consumidor as corres cometeram prática abusiva apta a ensejar indenização.
+Nem se diga que "não houve alteração de operadora no trecho em questão"; que "restou demonstrado documentalmente pela corre Ibéria (fl. 162) que a Apelada tinha plena ciência de que o voo naquele trecho seria operado por outra companhia (Air Nostrum)"; e que se trata de "caso clássico de desatenção da própria consumidora (fl. 260).
+O aludido documento de fls. 162 está parcialmente ilegível e não apresenta nenhum dado que o vincule à autora. Além disso, há robusta prova do cancelamento: (i)- o itinerário fornecido pela agência corre com o detalhamento dos voos (fls. 68/69), que apontava vôo de volta operado pela companhia Ibéria; (ii) o e-mail enviado pela agência corre confessando que "a cia mandou uma mensagem dentro da sua reserva aérea dizendo sobre a alteração do vôo, mas como você me falou, em nenhum momento eles a informaram sobre esta alteração" (fl. 77); e (iii) a confissão da própria agência corre em sua contestação, segundo a qual "a requerida interveio junto à Requerida Ibéria para que a Requerente pudesse ter um posicionamento do que aconteceu em relação ao seu embarque e ( .. ) obteve a resposta de que a Requerida Ibéria cancelou a operação " (fl. 104).
+A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+No mais, o caso é de incidência da Súmula 83/STJ, pois o STJ tem jurisprudência pacífica no sentido de que a agência de turismo que vende pacote de viagem é responsável solidária por qualquer vício na prestação do serviço, não havendo que se falar em responsabilidade exclusiva de terceiro no caso de alteração de vôo pela companhia aérea. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. IRRESIGNAÇÃO DA RÉ.
+1. "Esta eg. Corte tem entendimento no sentido de que a agência de
+turismo que comercializa pacotes de viagens responde solidariamente, nos termos do art. 14 do Código de Defesa do Consumidor, pelos defeitos na prestação dos serviços que integram o pacote" (REsp nº 888751/BA, Rel. Ministro Raul Araújo, Quarta Turma, DJe 27/10/2011).
+2. O Tribunal de origem concluiu tratar-se de má prestação de um serviço ao falhar no seu dever de informar, e sendo a agência de turismo uma prestadora de serviço, como tal responde, independentemente de culpa, pela reparação dos danos causados aos consumidores. Infirmar as conclusões do acórdão recorrido acerca da inexistência de informações suficientes e claras no contrato demandaria o reexame das provas e a interpretação do contrato, atraindo a aplicação das Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 461.448/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, DJe 16/12/2014)
+RECURSO ESPECIAL. CONSUMIDOR. OFENSA AO ART. 535 DO CPC. NÃO CARACTERIZADA. FALHA NA PRESTAÇÃO DE SERVIÇOS. PACOTE TURÍSTICO. INOBSERVÂNCIA DE CLÁUSULAS CONTRATUAIS. AGÊNCIA DE TURISMO. RESPONSABILIDADE (CDC, ART. 14). INDENIZAÇÃO. DANOS MATERIAIS. NECESSIDADE DE COMPROVAÇÃO. SÚMULA 7 DO STJ. DANOS MORAIS RECONHECIDOS. RECURSO PARCIALMENTE PROVIDO.
+1. Não há ofensa ao art. 535 do Código de Processo Civil se o Tribunal a quo decide, fundamentadamente, as questões essenciais ao julgamento da lide.
+2. Esta eg. Corte tem entendimento no sentido de que a agência de turismo que comercializa pacotes de viagens responde solidariamente, nos termos do art. 14 do Código de Defesa do Consumidor, pelos defeitos na prestação dos serviços que integram o pacote.
+(..)
+6. Recurso especial conhecido e parcialmente provido.
+(REsp 888751/BA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/10/2011, DJe 27/10/2011)
+CIVIL. RESPONSABILIDADE CIVIL. AGÊNCIA DE TURISMO.
+Se vendeu "pacote turístico", nele incluindo transporte aéreo por meio de vôo fretado, a agência de turismo responde pela má prestação desse serviço.
+Recurso especial não conhecido.
+(REsp 783016/SC, Rel. Ministro ARI PARGENDLER, TERCEIRA TURMA, julgado em 16/05/2006, DJ 05/06/2006, p. 279)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
