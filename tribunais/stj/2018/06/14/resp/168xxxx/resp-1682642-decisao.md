@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] CIDADE DE ANGELI, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado (e-STJ, fl. 81):
+APELAÇÃO CÍVEL DIREITO PRIVADO NÃO ESPECIFICADO. MEDICAMENTO VENCIDO. DANO MORAL. No sistema da Lei n. 8.078/90 - Código de Defesa do Consumidor - CDC, produto ou serviço defeituoso é aquele que coloca em risco a segurança do consumidor, enquanto o produto ou serviço viciado é aquele que não apresenta a qualidade esperada, não sendo adequado ao uso destinado. Doutrina e jurisprudência. ÔNUS DA PROVA. Ainda que se trate de relação de consumo, é do consumidor o ônus de provar a ocorrência dos danos e o nexo causai entre estes e o alegado defeito ou vício. A simples aquisição de fármaco com prazo de validade expirado, por si só, não enseja indenização por dano moral. No caso concreto, não restou demonstrando sequer minimamente a prescrição do medicamento, sua efetiva utilização e a ocorrência de efeitos colaterais ou agravamento do estado clínico do paciente, razão pela qual a manutenção da sentença que julgou improcedente o pedido de indenização por dano moral é medida que se impõe.
+APELAÇÃO DESPROVIDA.
+Em suas razões, aponta a recorrente violação do art. 18, § 6º, inciso I, do Código de Defesa do Consumidor, além de dissídio jurisprudencial.
+Aduz que, ao comercializar medicamento vencido, impróprio para consumo, a recorrida deixou de observar os princípios da segurança e confiança, colocando o consumidor em risco. Afirma que "a ingestão de medicamento vencido possui gravidade, que demonstra a ocorrência de dano para o consumidor/vítima." (fl. 99, e-STJ).
+Busca que seja condenada a recorrida ao pagamento de indenização pelos danos morais e materiais sofridos.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+O Tribunal de origem, analisando os fatos, manteve a sentença sob os seguintes fundamentos (fls. 89-91, e-STJ):
+Na hipótese dos autos, restou incontroverso que a autora adquiriu em 09.05.2015 o medicamento fumurato de quetiapina 25mg com o prazo de validade expirado desde 02/15 (fl. 13). Com base nisso, alegando ter feito o uso do medicamento e ingerido 09 (nove) drágeas, aduz a ocorrência de dano moral em razão da interrupção dos efeitos do medicamento e ocorrência de "síndrome de abstinência" (fl. 03).
+Ocorre que a parte-autora não traz qualquer elemento probatório nesse sentido.
+Note-se que o conjunto de provas produzido no feito resume-se à nota fiscal relativa à aquisição do medicamento (fl. 13), à caixa e envelope das drágeas (fl. 13) e à atestado médico declarando que a autora se encontra em tratamento psiquiátrico e realiza terapia 02 (duas) vezes por semana em razão de episódio depressivo grave - CID10 F322 (fl. 11).
+Todavia, não há nos autos qualquer elemento indicativo da prescrição do medicamento, que faça referência a ser ou não de uso contínuo, que faça menção à freqüência de uso, tampouco qualquer prova concreta de sua ingestão e da ocorrência de efeitos colaterais ou agravamento de sua situação clínica em razão dos efeitos ou inexistência de efeitos do fármaco.
+Note-se que, ainda que o envelope sem 09 (nove) drágeas seja indicativo de sua utilização, não é suficiente para a demonstração de qualquer efeito colateral ou agravamento de sua situação clínica exigidos para a configuração do dano moral.
+Como bem referido pela sentença, a declaração médica juntada data de 05.06.2015 - quase um mês após a aquisição do medicamento com prazo de validade expirado, não trazendo qualquer referência à ingestão ou suas conseqüências.
+Ressalta-se que a alienação de medicamento vencido é fato grave, que viola normas de âmbito penal e de ordem consumerista. Contudo, tal fato, por si, não é apto a ensejar indenização por dano moral.
+Exige-se, para tanto, prova mínima da efetiva utilização do medicamento e da ocorrência de efeito colateral ou agravamento da situação clínica do paciente, elementos que não vieram aos autos, impondo-se, assim, a manutenção da sentença de improcedência do pedido de indenização por dano moral.
+No presente recurso especial, a recorrente afirma que o acórdão recorrido violou o disposto no art 18, § 6º, inciso I, do CDC, segundo o qual são impróprios ao uso e consumo os produtos cujo prazo de validade esteja vencido.
+Conforme depreende-se do acórdão acima transcrito, em nenhum momento o Tribunal de origem tratou como próprio para consumo o medicamento com prazo de validade vencido, mas tão-somente negou o pedido de condenação ao pagamento de indenização por danos morais por falta de " ..  prova mínima da efetiva utilização do medicamento e da ocorrência de efeito colateral ou agravamento da situação clínica do paciente." (fl. 90, e-STJ).
+Ocorre que a recorrente não atacou esses fundamentos no recurso especial, motivo pelo qual a argumentação exposta não possui elementos aptos a infirmar as razões lançadas no acórdão recorrido, aplicando-se, na espécie, por analogia, o óbice das Súmulas 283 e 284/STF.
+Precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 283 E 284 DO STF. DECISÃO MANTIDA.
+(..)
+3. O recurso especial que não traz insurgência específica capaz de combater fundamento do acórdão recorrido, suficiente para mantê-lo, não deve ser admitido. Incidência das Súmulas n. 283 e 284 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 926.467/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 1º.12.2016, DJe 9.12.2016).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. RECONHECIMENTO DE CONTRATO DE DISTRIBUIÇÃO DE CARTÕES TELEFÔNICOS COM CLÁUSULA DE EXCLUSIVIDADE. INCIDENTE DE EXIBIÇÃO DE DOCUMENTOS. PRESUNÇÃO DE VERACIDADE. SÚMULA N. 83 DO STJ. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 211 DO STJ E 282 DO STF. AUSÊNCIA DE JUÍZO DE VALOR. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO IMPUGNAÇÃO ESPECÍFICA. SÚMULAS N. 283 E 284 DO STF.
+(..)
+4. É deficiente a argumentação que não guarda correlação com o decidido nos autos, deixando de impugnar a fundamentação do julgado. Súmulas n. 283 e 284 do STF.
+5. Agravo regimental desprovido.
+(AgRg no REsp 1.391.525/PE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 25.11.2014, DJe 12.12.2014).
+Por fim, tendo a decisão de admissibilidade sido proferida já na vigência do novo diploma processual e à luz do disposto no art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
