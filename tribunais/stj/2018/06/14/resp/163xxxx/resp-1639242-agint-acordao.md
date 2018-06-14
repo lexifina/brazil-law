@@ -1,0 +1,20 @@
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. INDISPONIBILIDADE DE BENS. ART. 185-A DO CTN. NECESSIDADE DE CITAÇÃO. PRECEDENTE DA 1a. SEÇÃO, RESP 1.377.507/SP, JULGADO 543-C DO CPC/1973. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. A 1a. Seção desta Corte, ao apreciar o REsp. 1.377.507/SP (Rel. Min. OG FERNANDES, DJe 2.12.2014), julgado sob o rito do art. 543-C do CPC/1973, concluiu que a indisponibilidade de bens e direitos autorizada pelo art. 185-A do CTN depende da observância dos seguintes requisitos: (i) citação do devedor tributário; (ii) inexistência de pagamento ou apresentação de bens à penhora no prazo legal; e (iii) a não localização de bens penhoráveis após esgotamento das diligências realizadas pela Fazenda, caracterizado quando houver nos autos (a) pedido de acionamento do [NOME] e consequente determinação pelo magistrado e (b) a expedição de ofícios aos registros públicos do domicílio do executado e ao Departamento Nacional ou Estadual de Trânsito - DENATRAN ou DETRAN.
+2. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pela FAZENDA NACIONAL, em face da decisão assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. INDISPONIBILIDADE DE BENS. ART. 185-A DO CTN. NECESSIDADE DE CITAÇÃO. PRECEDENTE DA 1a. SEÇÃO, RESP. 1.377.507/SP, JULGADO 543-C DO CPC/1973. RECURSO ESPECIAL DO PARTICULAR A QUE SE DÁ PROVIMENTO.
+2. Alega a parte agravante que a decisão deve ser reconsiderada pois existe autorização legal para determinar o bloqueio de valores antes da citação do executado.
+3. Impugnação apresentada (fls. 250/256).
+4 É o relatório.
+VOTO
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. INDISPONIBILIDADE DE BENS. ART. 185-A DO CTN. NECESSIDADE DE CITAÇÃO. PRECEDENTE DA 1a. SEÇÃO, RESP. 1.377.507/SP, JULGADO 543-C DO CPC/1973. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. A 1a. Seção desta Corte, ao apreciar o REsp. 1.377.507/SP (Rel. Min. OG FERNANDES, DJe 2.12.2014), julgado sob o rito do art. 543-C do CPC/1973, concluiu que a indisponibilidade de bens e direitos autorizada pelo art. 185-A do CTN depende da observância dos seguintes requisitos: (i) citação do devedor tributário; (ii) inexistência de pagamento ou apresentação de bens à penhora no prazo legal; e (iii) a não localização de bens penhoráveis após esgotamento das diligências realizadas pela Fazenda, caracterizado quando houver nos autos (a) pedido de acionamento do [NOME] e consequente determinação pelo magistrado e (b) a expedição de ofícios aos registros públicos do domicílio do executado e ao Departamento Nacional ou Estadual de Trânsito - DENATRAN ou DETRAN.
+2. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+1. A 1a. Seção desta Corte, ao apreciar o REsp. 1.377.507/SP (Rel. Min. OG FERNANDES, DJe 2.12.2014), julgado sob o rito do art. 543-C do CPC/1973, concluiu que a indisponibilidade de bens e direitos autorizada pelo art. 185-A do CTN depende da observância dos seguintes requisitos: (i) citação do devedor tributário; (ii) inexistência de pagamento ou apresentação de bens à penhora no prazo legal; e (iii) a não localização de bens penhoráveis após esgotamento das diligências realizadas pela Fazenda, caracterizado quando houver nos autos (a) pedido de acionamento do [NOME] e consequente determinação pelo magistrado e (b) a expedição de ofícios aos registros públicos do domicílio do executado e ao Departamento Nacional ou Estadual de Trânsito - DENATRAN ou DETRAN.
+2. O Tribunal de origem concluiu que o bloqueio de ativos antes da citação, estando em confronto com o entendimento desta Corte.
+3. Ante o exposto, nega-se provimento ao Agravo Interno da Fazenda Nacional.
+4. É como voto.
