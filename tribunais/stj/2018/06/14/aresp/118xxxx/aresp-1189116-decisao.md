@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. TUTELA DE URGÊNCIA. AÇÃO DE RESCISÃO DE COMPROMISSO DE COMPRA E VENDA. PRECARIEDADE DO PROVIMENTO. SÚMULA Nº 735 DO STF, POR ANALOGIA. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+ELITE TELECON COMÉRICO E REPRESENTAÇÃO LTDA-ME (ELITE) ajuizou agravo de instrumento contra decisão que indeferiu tutela de urgência antecedente para que NEXTEL TELECOMUNICAÇÃO LTDA (NEXTEL) se abstivesse de realizar estornos indevidos das comissões a que a autora tem direito na qualidade de contratada para fins de representação comercial.
+Alegou que tais descontos decorrem da cláusula del credere, a qual é vedada pela legislação de regência, e que gerou um débito que colocou a autora na situação de iminência de encerrar as atividades, sem poder honrar compromissos trabalhistas com os funcionários.
+O Tribunal de Justiça do Estado de São Paulo deu provimento ao recurso em acórdão com a seguinte ementa:
+TUTELA DE URGENCIA DE CARÁTER ANTECEDENTE. Representação comercial. Pretensão recursal voltada à suspensão dos estornos sobre as faturas de comissões de vendas da agravante, bem como à suspensão dos pagamentos das parcelas do termo de confissão de dívida oriunda dos estornos/ajustes realizados unilateralmente pela agravada.
+Admissibilidade. Hipótese em que estão reunidos os pressupostos necessários à concessão da tutela de urgência, porque evidenciadas a probabilidade do direito invocado pela parte ativa, bem como o sério risco de dano, inexistindo, ainda, o perigo da irreversibilidade dos efeitos da medida. Decisão reformada. Recurso provido (e-STJ, fl. 271).
+Inconformada, NEXTEL interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, por violação dos arts. 33, §1º e 43, da Lei 4.886/1965; 300, caput e §3º, do NCPC; e artigos 884 e 885, CC/2002. Aduziu equívoco do acórdão recorrido na interpretação dos dispositivos legais; que a cláusula contratual tida por abusiva constitui, na verdade, regular exercício da liberdade de contratar; que a decisão terá por consequência o enriquecimento ilícito da recorrida; e, por fim, que não estão presentes os requisitos da tutela de urgência (e-STJ, fls. 279/298).
+Em juízo de admissibilidade, a presidência da Seção de Direito Privado do Tribunal a quo inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta apresentada (e-STJ, fls. 279/298).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Conheço do agravo e passo à apreciação do recurso especial.
+O inconformismo não merece prosperar.
+Consoante jurisprudência desta Corte, é incabível o recurso especial que tem por objeto decisão de natureza precária, sem caráter definitivo, a exemplo das que examinam pedidos de liminar ou antecipação da tutela. Aplica-se, por analogia, a ratio decidendi dos precedentes que deram origem à Súmula nº 735 do STF.
+Tal entendimento excepcionalmente pode ser ressalvado quando há violação direta de normas de direito processual.
+No presente caso, porém, rever a fundamentação que embasou a decisão do Tribunal de origem pelo deferimento da tutela de urgência implicaria o revolvimento do contexto fático-probatório, e de cláusulas contratuais, expedientes vedados pelas Súmulas nº 7 e 5 do STJ.
+A propósito, vejam-se os precedentes:
+PROCESSUAL CIVIL. TUTELA ANTECIPADA. INDEFERIMENTO. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM. REAVALIAÇÃO. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 7 DO STJ E 735 DO STF.
+1. O Superior Tribunal de Justiça, em sintonia com o disposto na Súmula 735 do STF, firmou o entendimento de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (STJ, AgRg no AREsp n. 438.485/SP, Rel. Ministro Humberto Martins, DJe de 17/02/2014).
+(AgInt no AREsp 743.894/SP, Rel. Ministro GURGEL DE FARIA, Primeira Turma, julgado em 22/8/2017, DJe 4/10/2017)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ANTECIPAÇÃO DE TUTELA. ANÁLISE DO MÉRITO DA AÇÃO PRINCIPAL. IMPOSSIBILIDADE. DECISÃO MANTIDA. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A jurisprudência do STJ firmou-se no sentido de que apenas a violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Súmula nº 735 do STF.
+(AgInt no REsp 1.649.198/CE, da minha relatoria, Terceira Turma, julgado em 17/10/2017, DJe 30/10/2017)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REMOÇÃO DE CONTEÚDO OFENSIVO DA REDE MUNDIAL DE COMPUTADORES. REQUISITOS PARA O DEFERIMENTO DE TUTELA ANTECIPADA. RECURSO ESPECIAL INCABÍVEL. SÚMULA 735 STF. ORDEM JUDICIAL ESPECÍFICA. MARCO CIVIL DA INTERNET. LEI 12.965/14. REITERAÇÃO DE POSTAGENS DO MESMO CONTEÚDO. INFORMAÇÃO PELO OFENDIDO DA LOCALIZAÇÃO PRECISA.
+1. Esta Corte, em sintonia com o disposto na Súmula 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Precedentes.
+(AgInt no AREsp 980.165/BA, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 6/2/2018, DJe 9/2/2018)
+Tais razões demonstram a inviabilidade do apelo nobre.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários recursais uma vez que não são aplicáveis ao presente caso.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
