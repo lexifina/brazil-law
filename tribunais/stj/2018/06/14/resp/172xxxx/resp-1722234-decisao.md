@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. CONTRATO SOCIAL. CLÁUSULAS. REEXAME. IMPOSSIBILIDADE. SÚMULAS 5/STJ E 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJ/SC, assim ementado (fl. 143):
+APELAÇÃO. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO FISCAL C/C. REPETIÇÃO DE INDÉBITO E PEDIDO DE TUTELA ANTECIPADA. IMPROCEDÊNCIA. INSURGÊNCIA DA EMPRESA CORRETORA. PRETENDIDA SUSPENSÃO DA EXIGÊNCIA DO ISSQN-IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA ÀS ATIVIDADES DE INTERMEDIAÇÃO E CORRETAGEM PARA CONTRATAÇÃO DE SEGUROS. IMPOSSIBILIDADE. RAMO DE ATUAÇÃO EXPRESSAMENTE PREVISTO NAS LISTAS DE SERVIÇOS SUJEITOS À TRIBUTAÇÃO. LEI COMPLEMENTAR FEDERAL Nº 116/03 E LEI COMPLEMENTAR MUNICIPAL Nº 110/03. INCIDÊNCIA DEVIDA. SENTENÇA MANTIDA.
+ ..  Os serviços prestados por corretora de seguros, de planos de saúde e de planos de previdência privada sujeitam- se ao ISS, porquanto previstos no item 10.01 da lista anexa à LC 116/03  .. . Para fazer jus ao benefício previsto no artigo 9º, §§ 1º e 3º, do Decreto-lei n.º 406, de 31 de dezembro de 1968 - que foi recepcionado pela Constituição de 1988 - a prestação do serviço pela sociedade deve ter caráter pessoal e não empresarial (TJRS-Agravo nº [CPF], de Passo Fundo, Rela. Desa. [NOME]. J. em 20/08/15).
+APELO ARTICULADO JÁ SOB A VIGÊNCIA DO NCPC. HONORÁRIOS RECURSAIS. FIXAÇÃO DA VERBA PARA 2% SOBRE O VALOR ATUALIZADO DA CAUSA. ART. 85, §§ 2º E 11, DO MESMO CODEX. RECURSO CONHECIDO E DESPROVIDO.
+Em suas razões, o recorrente sustenta ofensa aos artigos 722 e 723 do CC/2002 e dissídio jurisprudencial, ao argumento de que não deve incidir ISSQN sobre os serviços de corretagem.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 192.
+É o relatório. Passo a decidir.
+De início, verifica-se que não houve juízo de valor por parte da Corte de origem a respeito dos dispositivos tidos por violados pela parte, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Ademais, evidencia-se que a tutela jurisdicional foi prestada pelo acórdão recorrido com fundamento na Lei Complementar Municipal nº 110/2003, razão por que o recurso especial não deve ser conhecido nesta Corte Superior por demandar interpretação de normativo estranho à legislação federal. Aplica-se ao caso a Súmula 280/STF.
+Noutro passo, constata-se ainda que a conclusão alcançada pela Corte de origem decorreu de ampla análise dos contextos fático e probatório dos autos, sobretudo do contrato social e suas cláusulas, conforme consta de fl. 147, de forma que o exame do pleito esbarra nos óbices contidos nas Súmulas 5/STJ e 7/STJ.
+Por fim, o alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos. Incidência da Súmula 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
