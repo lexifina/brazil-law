@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul (HC n. 1413654-69.2017.8.12.0000).
+Colhe-se dos autos que o recorrente foi preso em flagrante, juntamente com o corréu Joacir, por infração ao art. 33, caput, da Lei n. 11.343/2006, porque, segundo narra a denúncia, Policiais Civis, no intuito de cumprir mandado de prisão em desfavor do denunciado Joacir, foram até a residência dele, onde encontraram 9 (nove) porções de substância entorpecente análoga a cocaína, supostamente pertencente a Joacir, ocasião na qual surpreenderam o ora recorrente, no banheiro da residência, com 5 porções de substância análoga a cocaína, com peso de 3,5g (três gramas e cinco decigramas), logo após danificar seu aparelho celular (e-STJ fls. 28/30).
+A prisão em flagrante foi convertida em preventiva (e-STJ fls. 102/105).
+Irresignada, a defesa impetrou prévio habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado (e-STJ fls. 190/191):
+HABEAS CORPUS - TRÁFICO DE DROGAS - ARTIGO 33, CAPUT, DA LEI 11.343/2006 - PRISÃO PREVENTIVA - REQUISITOS LEGAIS DEMONSTRADOS - PENA PRIVATIVA DE LIBERDADE SUPERIOR A QUATRO ANOS - GARANTIA DA ORDEM PÚBLICA - GRAVIDADE DO DELITO - MATERIALIDADE E INDÍCIOS DE AUTORIA PRESENTES - ALEGAÇÃO DE SER MERO USUÁRIO - INADMISSÍVEL ANÁLISE PROBATÓRIA NA VIA ESTREITA DO HABEAS CORPUS - REITERAÇÃO DELITIVA - AMEAÇA À ORDEM PÚBLICA - FILHO MENOR - AUSÊNCIA DE COMPROVAÇÃO DA IMPRESCINDIBILIDADE DE CUIDADOS - CONDIÇÕES PESSOAIS FAVORÁVEIS - IRRELEVÂNCIA - APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS - INVIABILIDADE - RISCO CONCRETO DE REITERAÇÃO DELITIVA - CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO - ORDEM DENEGADA.
+I - Presentes os motivos autorizadores (fumus comissi delicti - relativo à materialidade e indícios de autoria - e o periculum libertatis - risco à ordem pública, à instrução criminal ou à aplicação da lei penal), bem como o requisito instrumental de admissibilidade (artigo 313, I , do Código de Processo Penal - delito abstratamente apenado a mais de 04 quatro anos de reclusão), e não sendo recomendável a aplicação das medidas cautelares do art. 319 do Código de Processo Penal, denega-se ordem de habeas corpus que visa revogar prisão cautelar fundamentada em elementos concretos, extraídos dos autos, quando a acusação é pela prática de tráfico de drogas (art. 33 da Lei 11.343/06), mesmo que as condições pessoais sejam favoráveis, pois estas, por si só, não garantem o direito de responder ao processo em liberdade quando presentes os requisitos que autorizam a segregação cautelar.
+II - A via estreita e célere do habeas corpus não permite aprofundamento da análise da alegação de que o paciente praticava apenas o crime de posse de drogas para uso próprio.
+III - Evidente o risco à ordem pública diante da reiteração delitiva, já que o paciente responde a outra ação penal por tráfico de entorpecentes.
+IV - Não restando comprovado nos autos a imprescindibilidade de cuidado ao filho menor, impõe-se a manutenção da medida constritiva.
+V - Ordem denegada.
+No presente recurso ordinário, a defesa alega que não estão presentes os requisitos autorizadores da prisão preventiva, e que não há fundamentos idôneos para justificar a sua decretação/manutenção.
+Sustenta, ademais, que "a revogação da prisão preventiva ou aplicação de outra medida cautelar diversa da prisão ao paciente é medida que se ajusta perfeitamente ao caso em tela, não havendo, por conseguinte, razões para a manutenção da reclusão do mesmo" (e-STJ fl. 211).
+Ressalta que "o recorrente é apenas usuário e não traficante e ter sido encontrada uma pequena quantidade de droga" (e-STJ fls. 214/215).
+Por isso, requer, inclusive liminarmente, a revogação da prisão preventiva, a aplicação de medidas cautelares diversas da prisão ou, ainda, a concessão da liberdade provisória (e-STJ fls. 203/220).
+O pedido liminar foi indeferido (e-STJ fls. 234/237).
+Foram prestadas as informações (e-STJ fls. 243/244).
+É, em síntese, o relatório.
+As informações prestadas pelo Juízo da 6ª Vara Criminal da Comarca de Campo Grande/MS noticiam que, em 22/3/2018, "foi prolatada sentença absolvendo o paciente. O MP não recorreu da sentença. Em 26.03.2018, o paciente foi posto em liberdade" (e-STJ fl. 244).
+Nessas circunstâncias, diante da alteração da realidade fática dos autos é de se reconhecer que o presente recurso ordinário, que objetivava justamente a revogação da prisão preventiva, perdeu seu objeto.
+Ante o exposto, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
