@@ -1,0 +1,13 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno manejado pela Cooperativa dos Cafeicultores da Região de Garça contra decisão que conheceu em parte do recurso especial e, nessa extensão, deu-lhe provimento, nos termos da fundamentação, para declarar a ilegitimidade da recorrente e anular o acórdão recorrido para que seja proferido outro em seu lugar, analisando as demais questões levantadas na apelação (e-STJ, fls. 298/301).
+A insurgente aduz, em suma, que, "em que pese o devido respeito à r. decisão, a Agravante não pode com ela concordar com a forma como redigida a parte dispositiva da decisão, tendo em vista que nela não se retratam os termos da fundamentação da decisão, razão da interposição do presente Agravo Interno" (e-STJ, fl. 309).
+Prossegue afirmando que "não se insurge em face da declarada ilegitimidade concernente à possibilidade de repetição ou compensação. O presente recurso visa unicamente delinear a parte dispositiva do julgado de acordo com sua fundamentação" (e-STJ, fl. 309).
+A parte agravada não apresentou impugnação (e-STJ, fl. 329).
+É o relatório.
+Diante das razões apresentadas no agravo interno (e-STJ, fls. 306/311) e considerando a existência de erro material na decisão ora atacada, em atenção ao princípio da fungibilidade recursal, recebo o agravo interno como embargos de declaração.
+Com efeito, os embargos declaratórios são cabíveis quando houver contradição nas decisões judiciais ou quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal, ou mesmo correção de erro material, na dicção do art. 1.022 do CPC/2015.
+Conforme consignado na decisão embargada, esta Corte possui o entendimento de que a cooperativa não possui legitimidade para pleitear a repetição ou a compensação da contribuição do Funrural, indevidamente recolhida, podendo somente discutir sua legalidade ou constitucionalidade, como é o caso dos autos.
+Assim, constatada a existência de erro material quanto a esse aspecto, impõe-se a alteração do dispositivo do decisum, que passa a ser o seguinte: "Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento, nos termos da fundamentação, para declarar a legitimidade da recorrente e anular o acórdão recorrido para que seja proferido outro em seu lugar, analisando as demais questões levantadas na apelação".
+Ante o exposto, acolho os embargos de declaração, com efeito modificativo, a fim de afastar a ilegitimidade da recorrente e determino o retorno dos autos à origem para prosseguimento da ação.
+Publique-se. Intimem-se.
