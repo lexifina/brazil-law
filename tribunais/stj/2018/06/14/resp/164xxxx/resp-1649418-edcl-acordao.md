@@ -1,0 +1,50 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO IMPROVIDO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO. INEXISTENTE.
+I - Trata-se de embargos de declaração opostos contra acórdão que desproveu agravo interno.
+II - Os aclaratórios somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV - Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso especial foi interposto por ESTADO DO PIAUÍ, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, assim ementado:
+ADMINISTRATIVO. CONSTITUCIONAL. PROCESSO CIVIL. MANDADO DE SEGURANÇA. CONCURSO. ILEGITIMIDADE PASSIVA INCORRÊNCIA. COMPETÊNCIA DO TRIBUNAL DE JUSTIÇA. CITAÇÃO DE CANDIDATOS COMO LITISCONSORTES PASSIVOS. DESNECESSIDADE. AUSÊNCIA DE DOCUMENTOS EXIGIDOS NO EDITAL SUPRIDA COMO NOVA OPORTUNIDADE PARA ACOSTAR DOCUMENTAÇÃO. AUSÊNCIA SANADA. INABILITAÇÃO QUE NÃO PERSISTE.
+1. Busca-se na ação mandamental a invalidação do ato que determinou a eliminação da impetrante, CESPE/UNB constitui-se como mero executor do concurso público, atuando por delegação do Tribunal de Justiça do Estado do Piauí. Nesse contexto, não há que falar em ilegitimidade passiva do Tribunal de Justiça. Argumento que afasta a tese de ilegitimidade passiva do Presidente do Tribunal de Justiça bem como a tese de incompetência absoluta do Tribunal de Justiça para processar e julgar o feito.
+2. Desnecessidade de citação dos demais candidatos como litisconsortes passivos necessários. Descaracterizado dano à esfera de direitos dos demais candidatos.
+3. Nova oportunidade no curso do certame para a apresentação dos mesmos documentos outrora solicitados. Possibilidade concedida pela organização do certame de sanar eventuais faltas e irregularidades. Documentos reapresentados. Falta da Certidão da Justiça Federal sanada.
+4. Desarrazoada inabilitação de candidata ante ausência de um único documento quando se possibilita nova apresentação dos documentos. Irregularidade sanada. Inabilitação não persiste.
+5. Segurança concedida.
+Na origem, trata-se de mandado de segurança impetrado por [NOME] contra ato supostamente coator atribuído ao Desembargador Fernando Carvalho Mendes, no exercício da função de Presidente da Comissão do 1º Concurso Público para Atividade Notarial e de Registro no Estado do Piauí, objetivando sua participação nas demais fases do certame, bem como a reserva de vaga, no caso de aprovação.
+No presente recurso especial, o recorrente aponta violação do art. 485, VI, do CPC/15, ao argumento de que o Presidente do Tribunal de Justiça do Estado do Piauí é parte ilegítima para figurar no polo passivo do mandado de segurança, uma vez que o ato questionado seria de responsabilidade exclusiva da banca organizadora, o CESPE/UNB, atual CEBRASPE.
+Sustenta, ainda, que, uma vez que a parte legítima para figurar no polo passivo seria o CESPE, atual CEBRASPE, o juízo competente para processar e julgar a demanda seria a Justiça Federal.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, II, do RI/STJ, nego provimento ao recurso especial".
+Interposto agravo interno foi julgado conforme a seguinte ementa do acórdão:
+ADMINISTRATIVO. CONCURSO PÚBLICO. MANDADO DE SEGURANÇA. LEGITIMIDADE PASSIVA. PODER DE DECISÃO. LEGITIMIDADE EXISTENTE.
+I - O mandado de segurança deve ser impetrado contra a autoridade pública que detém, na ordem hierárquica, poder de decisão e competência para praticar atos administrativos decisórios necessários para acatar o que for ordenado pelo Judiciário. Nesse sentido: AgRg no REsp 1344382/SE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/11/2012, DJe 05/12/2012; REsp 762.966/MT, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 27/09/2007, DJ 22/10/2007, p. 351.
+II - Na hipótese, é forçoso reconhecer que o Presidente da Comissão do 1º Concurso Público para Atividade Notarial e de Registro no Estado do Piauí detém o poder de decisão acerca da eliminação de candidato do certame, não podendo se falar em ilegitimidade passiva.
+III - Agravo interno improvido.
+Opostos embargos de declaração aponta a parte embargante vícios no acórdão.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+É vedado a esta Corte, na via especial, apreciar eventual ofensa à matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes: EDcl nos EDcl no AgRg no AREsp 575.787/DF, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2017, DJe 19/12/2017; AgInt nos EDcl nos EDcl no REsp 1.677.316/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2017, DJe 14/12/2017; EDcl no AgInt no REsp 1.294.078/DF, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 28/11/2017, DJe 5/12/2017.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017).
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017).
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre o qual o juiz de ofício ou a requerimento devia-se pronunciar, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
