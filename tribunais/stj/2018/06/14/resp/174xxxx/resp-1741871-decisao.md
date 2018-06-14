@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que deu parcial provimento à apelação da defesa.
+Nas razões recursais, com fulcro no art. 105, III, a, da Constituição Federal, alega o recorrente violação dos arts. 12, caput, da Lei 10.826/03, 386, III, do CPP e 33, §§ 2º e 3º, c, do CP.
+Aduz que a munição foi apreendida isoladamente, sem que estivesse em poder de arma de fogo equivalente. Inexistia qualquer artefato apto a deflagrar os cartuchos nas proximidades, não tendo o recorrente pronto acesso a qualquer arma de fogo (fl. 220).
+Afirma, ainda, que não sendo o recorrente reincidente, além de a pena definitiva não ultrapassar quatro anos, não existe qualquer motivação idônea para o recrudescimento da sanção e, por conseqüência, o recorrente faz jus ao regime inicial aberto para o início do seu cumprimento (fl. 227).
+Requer a absolvição quanto ao crime do art. 12 da Lei 10.826/03, bem como a fixação do regime aberto em relação ao crime de receptação.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+Decido.
+O recorrente foi condenado como incurso nas sanções dos arts. 180 do Código Penal e 12 da Lei 10.826/03, às penas de 2 anos e 1 mês de reclusão e de 1 ano de detenção, em regime inicial semiaberto.
+Interposta apelação, foi parcialmente provida para reduzir a pena a 1 ano de reclusão pelo delito de receptação, substituída por restritiva de direitos, mantendo-se, contudo, a condenação em 1 ano de detenção pelo delito de posse de munição, também substituída por pena restritiva de direitos.
+Desvinculada de outras circunstâncias que denotem lesividade, a posse ilegal de munição desprovida de artefato idôneo a produzir disparos, tampouco poder de intimidação, pode não ser considerada injusto penal.
+Não obstante se tratar de delito de perigo abstrato, a Sexta Turma desta Corte firmou recente orientação de que a apreensão de ínfima quantidade de munição, aliada à ausência de artefato capaz de disparar o projétil, atrai a atipicidade material da conduta, vez que, embora formalmente típica, não implica ofensa ao bem jurídico tutelado.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ESTATUTO DO DESARMAMENTO. VIOLAÇÃO DOS ARTS. 12, CAPUT, DA LEI N. 10.826/2003; E 395, III, DO CPP. POSSE IRREGULAR DE MUNIÇÃO DE USO PERMITIDO. AUSÊNCIA DE POTENCIALIDADE LESIVA ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. QUANTIDADE APREENDIDA. 3 CARTUCHOS DE CALIBRE 22. AUSÊNCIA DE ARMA DE FOGO. BEM JURÍDICO. INCOLUMIDADE PÚBLICA PRESERVADA. PERIGO NÃO CONSTATADO. ABSOLUTA INEFICÁCIA DO MEIO. MANUTENÇÃO DA REJEIÇÃO DA DENÚNCIA.
+1. A apreensão de ínfima quantidade de munição, aliada à ausência de artefato apto ao disparo, implica o reconhecimento, no caso concreto, da incapacidade de se gerar de perigo à incolumidade pública, o que impõe a preservação do quanto decidido pelas instâncias ordinárias.
+2. A Sexta Turma desta Corte Superior, em recente julgado, orientou-se no sentido da atipicidade da conduta perpetrada, diante da ausência de afetação do referido bem jurídico, tratando-se de crime impossível pela ineficácia absoluta do meio (REsp n. 1.699.710/MS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 13/11/2017).
+3. A Segunda Turma do Supremo Tribunal Federal posicionou-se no sentido de desconsiderar a potencialidade lesiva na hipótese em que pouca munição é apreendida desacompanhada de arma de fogo (RHC n. 143.449/MS, Ministro Ricardo Lewandowski, Segunda Turma, DJe 9/10/2017).
+4. Agravo regimental improvido (AgInt no REsp 1704234 / RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 08/02/2018, DJe 19/02/2018, grifei).
+RECURSO ESPECIAL. DIREITO PENAL. ESTATUTO DO DESARMAMENTO. POSSE IRREGULAR DE MUNIÇÃO DE USO PERMITIDO. CRIME DE PERIGO ABSTRATO. EXCEPCIONALIDADE DO CASO CONCRETO. ABSOLUTA AUSÊNCIA DE SIGNIFICADO LESIVO.
+1. Os delitos previstos no Estatuto do Desarmamento são crimes formais, de mera conduta e de perigo abstrato e se consumam independentemente da ocorrência de efetivo prejuízo para a sociedade, sendo o dano presumido pelo tipo penal. Assim, como regra geral, é inaplicável o princípio da insignificância aos crimes de posse e porte de arma de fogo ou munição, notadamente porque não se cuidam de delitos desprovidos de periculosidade social em face mesmo da natureza dos bens jurídicos tutelados e do princípio da proteção eficiente.
+2. Não obstante, inexiste perigo de lesão ou probabilidade de dano aos bens jurídicos tutelados pela norma na conduta de alguém que é ourives e vive de sua profissão comercializando jóias, sem qualquer notícia de envolvimento com práticas criminosas, em que foram apreendidas apenas três munições dentro da gaveta de uma mesa no interior do seu estabelecimento comercial, desacompanhadas de arma de fogo.
+3. Recurso ministerial improvido (REsp 1699710 / MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 07/11/2017, DJe 13/11/2017, grifei).
+No caso em tela, o recorrido foi condenado por manter em sua posse 3 cartuchos de calibre 38. Desse modo, é imperiosa a absolvição pela infração prevista no art. 12 da Lei 10.826/03, por atipicidade material da conduta.
+Quanto à fixação do regime semiaberto ao crime de receptação, limitou-se o Tribunal de origem a afirmar que o recorrente responde a dois processos, não trazendo nenhum elemento concreto capaz de justificar o recrudescimento do regime prisional.
+Nesse contexto, conclui-se que o estabelecimento do regime fechado, in casu, contraria o disposto nas Súmulas 440/STJ, 718 e 719/STF, in verbis:
+"Súmula 440: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+Súmula 718/STF: "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada".
+Súmula 719/STF: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para, reformando o acórdão recorrido, absolver o recorrente da infração prevista no art. 12 da Lei 10.826/03 e fixar o regime aberto para o cumprimento de pena do delito de receptação.
+Publique-se.
+Intimem-se.
