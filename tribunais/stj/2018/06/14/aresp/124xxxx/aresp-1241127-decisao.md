@@ -1,0 +1,78 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO (10,01 KG DE COCAÍNA). ART. 33 DA LEI N. 11.343/2006. DOSIMETRIA DA PENA. ART. 59 DO CP. EXASPERAÇÃO DA PENA-BASE. DISCRICIONARIEDADE VINCULADA DO MAGISTRADO. AUSÊNCIA DE LIMITES LEGAIS MÁXIMOS E MÍNIMOS. QUANTIDADE DE DROGAS. ART. 42 DA LEI N. 11.343/2006. AUSÊNCIA DE DEMONSTRAÇÃO DA VEROSSIMILHANÇA DOS CASOS CONFRONTADOS. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. ART. 255 E PARÁGRAFOS DO RISTJ. TERCEIRA FASE DA DOSIMETRIA. AUSÊNCIA DE CRITÉRIOS. ADOÇÃO DOS PARÂMETROS DO ART. 59 DO CP. § 4º DO ART. 33 DA LEI N. 11.343/2006. FORMA DE ACONDICIONAMENTO. CIRCUNSTÂNCIA CONCRETA. NECESSIDADE DE REEXAMINAR PROVAS. SÚMULA 7/STJ. AUSÊNCIA DE DEMONSTRAÇÃO DA VEROSSIMILHANÇA DOS CASOS CONFRONTADOS. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. ART. 255 E PARÁGRAFOS DO RISTJ.
+Agravo conhecido para não conhecer de recurso especial.
+DECISÃO
+Trata-se de agravo de [NOME] contra decisão de inadmissão de recurso especial, este interposto contar acórdão proferido no processo n. 0013042-14.2016.4.03.6119 (2016.61.19.013042-5) pela Quinta Turma do Tribunal Regional Federal da 3ª Região que deu parcial provimento ao recurso para reduzir a pena-base e reconhecer a incidência de causa de diminuição, fixando a reprimenda em 6 anos e 27 dias de reclusão, em regime semiaberto, e 606 dias-multa, à razão mínima, pela prática de conduta descrita no art. 33, § 4º, da Lei n. 11.343/2006, conforme termos da seguinte ementa (fls. 279/280):
+PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO INTERNACIONAL DE DROGAS. ARTIGO 33 C/C ARTIGO 40, I, DA LEI DE DROGAS. PLEITO PARA RECORRER EM LIBERDADE. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIA INCONTESTES. PENA-BASE REDUZIDA. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO ARTIGO 33, § 4o, DA LEI N. 11.343/06. INTERNACIONALIDADE CONFIGURADA. PENA DE MULTA MANTIDA. PENAS RESTRITIVAS. INSUFICIÊNCIA. APELO PARCIALMENTE PROVIDO.
+1. O réu permaneceu custodiado durante todo o processo, sendo, ao final, condenado, não tendo havido mudança no quadro fático descrito na sentença a ensejar a alteração da situação prisional, nos termos do artigo 387, §1º, do Código de Processo Penal. Havendo elementos concretos que determinam a necessidade da prisão processual, não há que se falar, por ora, na suficiência das medidas cautelares alternativas.
+2. Materialidade e autoria incontroversas.
+3. Condenação mantida.
+4. Pena-base reduzida. Majoração no patamar de 1/2.
+5. Reconhecida a confissão espontânea.
+6. Réu primário e não ostenta maus antecedentes. Não há provas nos autos de que integre organização criminosa voltada para o tráfico ilícito de entorpecentes. Aplicação da causa de diminuição do artigo 33, § 4o da Lei nº 11.343/06, mas apenas na fração de 1/6.
+7. Mantida a majorante do artigo 40, I, da Lei de Drogas na fração de 1/6.
+8. Fixado o regime inicial semiaberto.
+9. Insuficiência da substituição da reprimenda por penas restritivas de direitos.
+10. Impossibilidade de afastamento da pena de multa.
+11. Recurso da defesa parcialmente provido.
+O recorrente interpôs recurso especial, no qual alega, em síntese, que o acórdão recorrido teria infringido o art. 59 do Código Penal e o art. 42 da Lei n. 11.343/2006, porquanto a natureza da substância ilícita não revelaria potencialidade maior do que outros entorpecentes. A quantidade de drogas não seria excessiva, sendo ínfima em comparação com as toneladas de drogas comumente apreendidas no país. Esse aumento seria desproporcional em relação àqueles impostos aos autores de tráfico cuja quantidade atinge centenas de quilos. A natureza e quantidade da substância transportada escapariam ao controle das mulas, que apenas receberiam a quantidade predeterminada pelos aliciadores. Mesmo se considerando a preponderância do art. 42 da Lei n. 11.343/2006 sobre o art. 59 do Código Penal.
+Sustenta estar o aresto em divergência jurisprudencial em relação ao decidido pelo Superior Tribunal de Justiça no HC n. 388.097, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/5/2017, no qual a apreensão de 101,07 kg de cocaína teria importado em aumento na pena-base de 1/4.
+Defende que o percentual de diminuição de pena prevista no art. 33, 4º, da Lei n. 11.343/2006, uma vez que preencheria todos os requisitos legais. Se a mencionada causa de diminuição pressuporia a não integração de organização criminosa, não poderia haver punição pelo nível de expertise ou pela estruturação da organização criminosa que o cooptou. Além disso, a quantidade da droga já teria sido valorada na primeira fase da dosimetria, tendo a pena-base ficado acima do mínimo legal. Esse elemento não poderia ser valorado novamente na terceira fase de aplicação da pena.
+Nesse ponto, afirma haver divergência quanto ao decidido no AREsp n. 977.368/SP, oportunidade na qual teria se atestado a necessidade de justificativa concreta e idônea evidenciando a real impossibilidade de aplicação da fração máxima de 2/3 (fls. 285/301).
+Contrarrazões às fls. 338/348.
+O apelo foi obstado na origem por demandar reexame de provas e por estar o acórdão recorrido em consonância com a jurisprudência do Superior Tribunal de Justiça (fls. 350/360).
+O recorrente aviou, então, o presente agravo, no qual aduz, em suma, que o recurso especial interposto visa o debate de matéria jurídica, não objetivando, sob nenhum ponto, o reexame do conteúdo probatório trazido aos autos. As nulidades poderiam ser aferidas por simples e breve leitura dos autos, razão pela qual não há infringência. Também não haveria falar em contrariedade ao posicionamento do Superior Tribunal de Justiça, visto que as decisões utilizadas para embasar o recurso especial demonstrariam a não incidência da Súmula 83/STJ. Reitera, após, as razões do recurso especial (fls. 362/379).
+Contrarrazões ao agravo em recurso especial às fls. 382/389.
+O Ministério Público Federal opina pelo desprovimento do recurso, dada a necessidade de reexaminar provas (fls. 399/400).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Passando ao recurso especial, inicialmente quanto à violação do art. 59 do Código Penal, o Superior Tribunal de Justiça entende que o julgador não está adstrito a critérios puramente matemáticos, havendo certa discricionariedade na dosimetria da pena, vinculada aos elementos concretos constantes dos autos.
+A esse respeito: HC n. 240.007/SP, de minha relatoria, Sexta Turma, DJe 11/6/2015.
+Ademais, o quantum de aumento decorrente da negativação das circunstâncias não está estipulado no Código Penal, de forma que devem ser observados os princípios da proporcionalidade, da razoabilidade, da necessidade e da suficiência à reprovação e à prevenção do crime, informadores do processo de aplicação da pena (Cf. HC n. 416.254/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 11/10/2017).
+Sobre o tema, o Tribunal se pronunciou pelos seguintes termos (fl. 276):
+ ..
+Na primeira fase de fixação da pena, além das circunstâncias judiciais do artigo 59 do Código Penal, deve ser considerado preponderantemente, nos termos do art. 42 da Lei 11.343/2006, o grau de reprovabilidade da conduta, aferido pela nocividade e quantidade de tóxico que se buscou transportar, o que indicará se a pena-base deverá ser fixada no mínimo legal, ou acima desse patamar.
+In casu, considerando a qualidade e que a quantidade de droga foi deveras significativa (10.010 g de cocaína), não comporta provimento o pleito da defesa de fixação da pena-base no patamar mínimo.
+Mas, a fração da exasperação deve ser reduzida à fração de 1/2, do que resulta pena-base de 7 (sete) anos e 6 (seis) meses de reclusão, e pagamento de 750 (setecentos e cinqüenta) dias-multa.
+ ..
+Do excerto, verifica-se que a instância local exasperou a pena-base em 2 anos e 6 meses de reclusão em razão da grande de drogas apreendida, a saber, 10,01 Kg de cocaína.
+Esse quantum atende aos reclamos do princípio da proporcionalidade, consubstanciando-se em medida adequada, necessária e proporcional em sentido estrito, não havendo como concluir de forma diversa sem o reexame de provas, medida vedada pela Súmula 7/STJ.
+Quanto ao dissídio, o recorrente trouxe como paradigma ementa do HC n. 388.097, julgados Superior Tribunal de Justiça, sem, no entanto, delinear as circunstâncias que assemelham e distinguem os casos.
+A despeito de ter transcrito à fl. 293, a título de cotejo analítico, não houve demonstração efetiva do dissídio jurisprudencial, tendo em vista a mera transcrição de pontos tratados como relevantes pelo recorrente; não houve a demonstração do caso concreto de modo a ser possível aferir a verossimilhança dos casos confrontados.
+Da transcrição da ementa se extrai, inclusive, que o paradigma tratou de caso de concurso material com porte ilegal de arma. Não se sabe, no entanto, qual o meio de transporte ou acondicionamento, ou ainda o papel desempenhado pelo réu na empreitada criminosa.
+Não seria necessária a transcrição integral dos acórdãos, mas o destaque das circunstâncias fáticas se faz imprescindível para delimitar o dissídio jurisprudencial.
+Não se mostra possível extrair nenhuma circunstância dos casos concretos lá tratados.
+Assim, fica impossibilitada a aferição da verossimilhança entre os casos confrontados, porquanto não demonstraram o dissídio jurisprudencial nos moldes do art. 255 e parágrafos do RISTJ.
+Em relação à fixação do patamar de diminuição pela incidência do § 4º do art. 33 da Lei n. 11.343/2006, o Superior Tribunal de Justiça já assentou que em razão da ausência da parâmetros legais para a escolha de redução da pena prevista na minorante deve o julgador considerar também na terceira fase da dosimetria da pena os critérios informadores do art. 59 do Código Penal.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. FRAÇÃO DO REDUTOR. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Tanto a Quinta quanto a Sexta Turma deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+2. A Corte de origem, ao estabelecer o patamar de redução da pena, entendeu devida a incidência da fração de 1/6, em razão da "quantidade e diversidade das drogas" (fl. 732), de modo que, havendo sido concretamente fundamentada a aplicação da minorante em comento no patamar de 1/6, não há constrangimento ilegal nesse ponto.
+3. Agravo regimental não provido.
+(AgRg no HC n. 420.499/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/2/2018)
+O patamar de fixação da terceira fase da dosimetria da pena foi exposto pelos seguintes termos (fls. 276/277 - grifo nosso):
+ ..
+Pretende a defesa a incidência da causa de diminuição do artigo 33, § 4o, da Lei de Drogas, em sua fração máxima.
+Os requisitos desse benefício são os seguintes:
+"Art. 33:
+(..)
+§ 4o Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa." - Grifei.
+Percebe-se que se trata de requisitos cumulativos. No caso em tela, o réu é primário e não ostenta maus antecedentes. Tampouco há aparência de que integre organização criminosa, tendo servido apenas ao transporte eventual de entorpecente, de sorte que é cabível a incidência da minorante.
+Apenas a título de argumentação, conforme entendimento do Supremo Tribunal Federal (Habeas Corpus nº 101.265/SP), a mera traficância transnacional não basta para configurar integração efetiva em organização criminosa. É necessária a presença de indícios que indiquem muito mais do que uma simples cooperação ou cooptação de agentes.
+O percentual em que a minorante será aplicada deve considerar as circunstâncias nas quais o delito foi perpetrado.
+Deve-se ponderar que o réu assentiu em praticar tráfico internacional de entorpecentes que havia sido planejado por organização criminosa, conforme se extrai da estruturação do delito (compra de passagens internacionais, suporte financeiro, indivíduo designado para fornecer instruções ao réu, preparação da ocultação da droga, etc.).
+De se mencionar, por oportuno, enquanto circunstância subjacente à prática delitiva, o elevado grau de sofisticação no acondicionamento do entorpecente, que foi encontrado no interior da mala do réu, envolto em um edredom e numa chapa de metal que ocultava 10 (dez) tijolos ensacados em um plástico transparente. Além disso, houve a aquisição de passagem aérea em primeira classe, de modo a dificultar a fiscalização.
+Assim, considerados esses elementos, deve ser aplicada a causa de diminuição de pena prevista no artigo 33, § 4o, da Lei nº 11.343/06, mas tão somente no patamar de 1/6 (um sexto), perfazendo a pena de 5 (cinco) anos, 2 (dois) meses e 15 (quinze) dias de reclusão, e pagamento de 520 (quinhentos e vinte) dias-multa.
+Finalmente, tem-se que a majorante prevista no artigo 40, inciso I, da Lei n.º 11.343/06, aplica-se ao tráfico com o exterior, seja quando o tóxico venha para o Brasil, seja quando esteja em vias de ser exportado.
+In casu, o acusado foi preso em flagrante no Aeroporto Internacional de Guarulhos quando intentava viajar para o exterior transportando droga.
+Assim, é patente a transnacionalidade do delito, razão pela qual mantenho a incidência da causa de aumento da pena do artigo 40, I, da Lei de Drogas, à razão de 1/6, do que resulta pena definitiva de 6 (seis) anos e 27 (vinte e sete) dias de reclusão, e pagamento de 606 (seiscentos e seis) dias-multa.
+Mantenho o valor do dia-multa fixado na r. sentença, qual seja, 1/30 (um trigésimo) do salário mínimo vigente na data dos fatos.
+ ..
+Conforme se observa, a instância local fixou o patamar de redução de 1/6 em razão das circunstâncias do caso concreto, em específico, a forma de acondicionamento. Tal juízo baseia-se eminentemente em provas, e a revisão de tal compreensão esbarra no óbice da Súmula 7/STJ (Cf. AgRg no AREsp n. 1.263.243/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/5/2018).
+Nesse ponto, o recorrente também indicou a ocorrência de dissídio, dessa vez apontando como paradigma AREsp n. 977.368-SP, julgado pelo Superior Tribunal de Justiça, também sem delinear as circunstâncias que assemelham e distinguem os casos.
+A despeito de ter transcrito às fls. 300/301, a título de cotejo analítico, não houve demonstração do dissídio jurisprudencial, tendo em vista a mera transcrição de pontos tratados como relevantes pelo recorrente; não houve a demonstração do caso concreto de modo a ser possível aferir a verossimilhança dos casos confrontados.
+Não seria necessária a transcrição integral dos acórdãos, mas o destaque das circunstâncias fáticas se faz imprescindível para delimitar o dissídio jurisprudencial.
+Não se mostra possível extrair nenhuma circunstância dos casos concretos lá tratados.
+Assim, fica impossibilitada a aferição da verossimilhança entre os casos confrontados, porquanto não demonstraram o dissídio jurisprudencial nos moldes do art. 255 e parágrafos do RISTJ.
+Ante o exposto, com fulcro nos arts. 932 do Código de Processo Civil e arts. 34, XVIII, e 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
