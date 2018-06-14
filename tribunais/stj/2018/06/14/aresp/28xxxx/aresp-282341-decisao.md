@@ -1,0 +1,35 @@
+DECISÃO
+ Trata-se de agravo interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL PREVI contra decisão que inadmitiu recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, impugnando acórdão assim ementado (fl. 263, e-STJ):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. LIQUIDAÇÃO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. CÁLCULO PERICIAL QUE ADEQUADAMENTE OBSERVOU OS PARÂMETROS FIXADOS NO TÍTULO JUDICIAL. VALOR APURADO PELA PERÍCIA CONFIRMADO EM SEDE RECURSAL. HONORÁRIOS PERICIAIS. ÔNUS ATRIBUÍDO À PARTE AGRAVADA. QUESTÃO JÁ DECIDIDA NO STJ.
+Agravo de instrumento parcialmente provido.
+ Os embargos de declaração opostos na origem foram acolhidos parcialmente tão-somente para sanar o erro material apontado, ficando a ementa do julgado assim resumida (fls. 283-293, e-STJ):
+EMBARGOS DE DECLARAÇÃO. PREVIDÊNCIA PRIVADA. FUNDAÇÃO BANRISUL. ERRO MATERIAL SANADO. INEXISTÊNCIA QUANTO AO MAIS DE QUAISQUER DAS HIPÓTESES PREVISTAS NO ART. 535 DO CPC.
+REDISCUSSÃO DA MATÉRIA. Os embargos de declaração não se prestam a reabrir discussão das questões já apreciadas pelo Colegiado.
+PREQUESTIONAMENTO. A pretensão de prequestionamento de dispositivos legais, em sede de embargos de declaração, mostra-se inadmissível, porquanto este remédio processual não se presta para lastrear recurso a Tribunal Superior.
+Embargos de declaração acolhidos parcialmente.
+Nas razões do especial, a agravante apontou violação do art. 535 do Código de Processo Civil de 1973.
+Sustentou, em resumo, negativa de prestação jurisdicional, em virtude das omissões do acórdão recorrido acerca da existência de excesso de execução.
+O recurso foi inadmitido na origem, nos termos da decisão de fls. 317, (e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n.13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Anoto que a questão federal foi decidida de modo suficiente, motivo pelo qual rejeito a alegação de ofensa ao art. 535 do Código de Processo Civil de 1973.
+O acórdão recorrido enfrentou coerentemente as questões postas a julgamento quanto aos cálculos homologados pelo laudo pericial no que tange aos expurgos inflacionários sobre a reserva de poupança do ora recorrido, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não merece reparo algum, conforme excerto a seguir transcrito (fls. 266-267, e-STJ):
+Lançado o exame pericial, foi pautado o saldo credor do autor da ação original, na quantia de R$ 214.735,16 (em 19/04/2010).
+Observo que, nos autos do processo de conhecimento, foi realizada também prova pericial pela mesma profissional que ora laborou a liquidação do julgado (fls. 285/316) - onde a ré, surpreendentemente formulou os quesitos de 1 a 3 sem qualquer natureza técnica.., sendo que a sentença que estabeleceu os índices de expurgos inflacionários, expressamente determinou que a liquidação do julgado seria feita pelo mesma profissional, mediante simples cálculo (fl. 360). Em sede recursal exclui da condenação a rubrica de juros remuneratórios, determinando que a devolução obedecesse simplesmente os valores corrigidos, observando-se os expurgos inflacionários adotados na sentença (fl. 400 e verso). O Recurso especial foi negado (fl. 565, verso), negando-se provimento ao agravo no superior Tribunal de Justiça (fls. 637, verso).
+Portanto, tollitur quaestio. O debate proposto pela executada é descabido, desde a apresentação de quesitos (reproduzindo inclusive o de nº 1, acerca da habilitação profissional da expert), claramente ampliando a matéria e escapando da finalidade do trabalho pericial: tornar líquida a condenação. A discussão sobre juros atuariais sequer faz parte do título judicial, limita a tutela ao pagamento dos expurgos inflacionários. E a controvérsia sobre a planilha da PREVI é desnecessária na medida em que o laudo já considera as contribuições como os expurgos inflacionários, isto é, apenas o reflexo deles em cada uma delas, ao contrário do que havia feito na prova pericial do processo de conhecimento, em que transcreveu as planilhas da Previ com "índices sem os expurgos" (fl. 303).
+No que importa, o cálculo de liquidação observa adequadamente o título judicial, inclusive no tocante à compensação determinada pela redução da Renda Certa Mensal paga pela ré.
+Por tais motivos, FIXO a obrigação em R$ 214.735,16, com base no art. 475-D, parágrafo único, do Código de Processo Civil, a ser atualizado pelo IGP-M e com juros moratórios a contar da data do laudo pericial (19/04/2010), para o prosseguimento do cumprimento da sentença.
+Acrescento que não mais há falar acerca da devolução das contribuições de período anterior a março de 1980, tendo em vista que tal ponto já se encontra atingido pelo instituto da coisa julgada. Igualmente, descabia a discussão acerca da incidência práticas atuariais, porquanto o título judicial objeto de liquidação nenhuma referência fez a respeito, determinando a apuração do quantum por simples cálculo (fl. 49).
+Quanto à apuração dos valores, adequadamente foram observados os parâmetros fixados pela sentença e acórdão da apelação, inclusive no que diz respeito aos valores resgatados pelo agravado, sendo considerada a dedução do imposto de renda no valor indicado.
+No que diz respeito à metodologia de cálculo, nenhum reparo há a ser realizado no cálculo pericial, pois considerados os parâmetros e sequência de operações que entendo corretos para apuração do quantum devido.
+Com relação aos honorários, realmente devem ser suportados pelo autor, questão já decidida pelo REsp 1.155.921/RS.
+Posto isso, dou parcial provimento ao agravo de instrumento, tão-somente para determinar que os honorários periciais sejam suportados pela parte agravada.
+Com efeito, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Nesse sentido:
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/1973) - MEDIDA CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não há falar em violação aos artigos 458 e 535 do CPC/1973. Na hipótese, houve o julgamento das questões de maneira fundamentada, com clareza e exatidão no julgado, apenas não tendo sido adotadas as teses do insurgente. Consoante entendimento desta Corte, o julgador não precisa responder, nem se ater a todos os argumentos levantados pelas partes, se já tiver motivos suficientes para fundamentar sua decisão.
+(..)
+3. Agravo interno desprovido.
+(AgInt. no AREsp. 790.880/DF, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28.3.2017, DJe 4.4.2017).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
