@@ -1,0 +1,24 @@
+DECISÃO
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, interposto contra Acórdão do Tribunal Regional Federal da 4a. Região, assim ementado:
+PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA POR TEMPO DE SERVIÇO. CÁLCULO DO BENEFÍCIO. REQUISITOS NÃO PREENCHIDOS ANTES DO ADVENTO DA LEI Nº 7.787/89.
+Hipótese em que o segurado, quando da entrada em vigor da Lei nº 7.787/89, não possuía todos os requisitos para o gozo do benefício de aposentadoria por tempo de serviço.
+2. Em seu Apelo Especial, sustenta o recorrente erro material no acórdão, alegando que há erro na contagem de tempo de contribuição, restando cerca de 5 anos que não foram computados. Aponta que a carta de concessão anota que o Segurado tem 39 anos, 11 meses e 10 dias de tempo de contribuição.
+3. É o relatório. Decido.
+4. O que se observa da leitura dos autos é que o autor apontou tal erro material quando da interposição dos Embargos de Declaração, contudo, a Corte de origem não se manifestou acerca da alegação, limitando-se a dar por prequestionados os artigos apontados por violados.
+5. É certo que esta Corte admite a atribuição de efeitos infringentes a Embargos de Declaração, apenas quando o reconhecimento da existência de eventual omissão, contradição ou obscuridade acarretar, invariavelmente, a modificação do julgado, ou quando existente erro material.
+6. Confiram-se, a propósito, os seguintes julgados:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ERRO MATERIAL. EXISTÊNCIA. EMBARGOS ACOLHIDOS PARA ANULAR O ACÓRDÃO QUE RECONHECEU A INTEMPESTIVIDADE DO REGIMENTAL E NEGAR PROVIMENTO AO RECURSO POR OUTROS FUNDAMENTOS.
+1. Esta egrégia Corte Superior já proclamou que os embargos de declaração constituem a via adequada para sanar omissões, contradições, obscuridades ou erros materiais do decisório embargado, admitida a atribuição de efeitos infringentes apenas quando esses vícios sejam de tal monta que a sua correção necessariamente infirme as premissas do julgado, como no caso dos autos.
+2. Do reexame do acórdão embargado, verifica-se que a intempestividade do recurso interposto foi analisada sem observância à Lei n. 11.419/2006, de modo que, de fato, o recurso apresentado estava tempestivo.
+(..).
+7. Embargos de declaração acolhidos, com efeitos infringentes, para anular o acórdão embargado que reconheceu a intempestividade do regimental e negar provimento ao recurso por outros fundamentos (EDcl no AgRg nos EDcl no AREsp. 715.711/DF, Rel. Min. MARCO AURÉLIO BELLIZZE, DJe 24.5.2018).
+
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. VÍCIO. EXISTÊNCIA DE ERRO MATERIAL. EMBARGOS ACOLHIDOS. EFEITOS MODIFICATIVOS. POSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73 CONFIGURADA. ANULAÇÃO DO ACÓRDÃO ESTADUAL QUE JULGOU OS EMBARGOS DE DECLARAÇÃO. RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. EMBARGOS ACOLHIDOS.
+1. Aplicabilidade do NCPC a este recurso ante os termos no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Esta egrégia Corte Superior já proclamou que os embargos de declaração constituem a via adequada para sanar omissões, contradições, obscuridades ou erros materiais do decisório embargado, admitida a atribuição de efeitos infringentes apenas quando esses vícios sejam de tal monta que a sua correção necessariamente infirme as premissas do julgado (EDcl no AgRg no EREsp nº 747.702/PR, Rel. Ministro MASSAMI UYEDA, Corte Especial , DJe de 20/9/2012). É o caso.
+3. Os embargos declaratórios serão cabíveis quando houver obscuridade, omissão, contradição, ou mesmo correção de erro material, na dicção do art. 535 do CPC/73. In casu, demonstrada omissão quanto a analise de todos os argumentos relativos à falta de interesse de agir do autor, há de se acolher os aclaratórios a fim de integrar o julgado embargado.
+4. Embargos de declaração acolhidos, com efeitos infringentes, para conhecer do agravo e dar provimento ao recurso especial (EDcl no AgRg no AREsp. 587.788/PR, Rel. Min. MOURA RIBEIRO, DJe 13.10.2017).
+7. Assim, caberia à Corte de origem verificar se de fato a contagem de tempo de serviço apresenta incongruência, o que poderia alterar a premissa de concessão do benefício.
+8. Ante o exposto, conheço do Agravo para dar provimento ao Recurso Especial, determinando-se o retorno dos autos à origem para que analise fundamentadamente o erro material apontado.
+9. Publique-se.
+10. Intimações necessárias.
