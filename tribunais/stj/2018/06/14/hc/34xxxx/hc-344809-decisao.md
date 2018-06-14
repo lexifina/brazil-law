@@ -1,0 +1,9 @@
+DECISÃO
+JULIANO SOUZA ALMEIDA estaria sofrendo constrangimento ilegal em decorrência de despacho proferido pelo Desembargador do Tribunal de Justiça do Estado do Espírito Santo, que, nos autos do Agravo em Execução Penal n. 0010731-29.2015.8.08.0035, determinou o retorno dos autos "à 8ª Vara Criminal de Vila Velha, ES, a fim de que a Defensoria Pública seja intimada para trazer aos autos os documentos necessários à apreciação deste recurso" (fl. 42).
+Alega a impetrante que "o rito do Agravo em Execução não obriga à parte agravante a apresentar a instrução do recurso, mas sim, indicar os documentos necessários" (fl. 6). Por isso, requer neste habeas corpus "seja liminarmente determinado por esse Tribunal à autoridade coatora a formação do traslado, contendo as cópias indicadas na interposição do agravo em execução em epígrafe  ..  Ao final, seja concedida a ordem de Habeas Corpus, confirmando a liminar" (fl. 16).
+Indeferida a liminar e prestadas as informações, foram os autos ao Ministério Público Federal, que se manifestou pelo não conhecimento do habeas corpus.
+Decido.
+Não obstante esta Corte Superior de Justiça possua entendimento consolidado de que "cabe à parte agravante indicar as peças a serem trasladadas para a instrução do agravo em execução, cumprindo ao escrivão a devida extração para a formação do instrumento" (HC n. 355.143/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 13/06/2016), observo que o habeas corpus está prejudicado.
+Com efeito, em consulta ao sítio eletrônico do Tribunal de origem, constato que os documentos solicitados às fls. 40-42 foram apresentados e, em 29/6/2016, o agravo em execução penal n. 0010731-29.2015.8.08.0035 foi conhecido e não provido. O acórdão transitou em julgado para a defesa em 23/8/2016.
+Assim, houve a perda superveniente de objeto, razão pela qual, nos termos do art. 34, XX, do RISTJ, julgo predicado este habeas corpus.
+Publique-se e intimem-se.
