@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região. Na ocasião, foi confirmada a decisão que manteve a improcedência do pedido de execução das parcelas devidas pelo benefício concedido na via judicial. O referido aresto foi assim ementado (e-STJ fl. 94):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO. DECISÃO MONOCRÁTICA. EXECUÇÃO. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.
+1. O artigo 557 do Código de Processo Civil consagra a possibilidade de o recurso ser julgado pelo respectivo Relator.
+2. Segundo entendimento firmado nesta Corte, a decisão do Relator não deve ser alterada quando fundamentada e nela não se vislumbrar ilegalidade ou abuso de poder que resulte em dano irreparável ou de difícil reparação para a parte.
+3. A decisão agravada abordou todas as questões suscitada e orientou-se pelo entendimento jurisprudencial dominante. Pretende a agravante, em sede de agravo, rediscutir argumentos já enfrentados pela decisão recorrida.
+4. Agravo desprovido. Decisão mantida.
+Nas suas razões, o recorrente alega que a manutenção de sua aposentadoria, deferida posteriormente na via administrativa, não tem o condão de extinguir o seu direito à percepção das parcelas retroativas do benefício concedido judicialmente. Defende, portanto, ter havido interpretação diversa da que é dada por esta Corte aos arts. 18, § 2º, 96, III, e 124, II, da Lei n. 8.213/1991, por não se tratar de acumulação de aposentadorias.
+Sem contrarrazões (e-STJ fl. 132).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Dito isso, observa-se que a compreensão da Corte Regional divergiu do entendimento adotado no âmbito do Superior Tribunal de Justiça, segundo o qual é legítimo o direito de executar os valores relativos a benefício concedido judicialmente, observado o período entre o termo inicial fixado em juízo para a concessão do benefício e a data de entrada do requerimento administrativo.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO DE VALORES DECORRENTES DE BENEFÍCIO RECONHECIDO EM JUÍZO, NA EXISTÊNCIA DE DEFERIMENTO DE BENEFÍCIO MAIS VANTAJOSO RECONHECIDO PELO INSS. POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O tema recursal gira em torno do prosseguimento do processo de execução, para executar valores oriundos do benefício previdenciário reconhecido em juízo, posteriormente renunciado em razão do deferimento concomitante de benefício previdenciário mais vantajoso por parte da Administração.
+2. Reconhecido o direito de opção pelo benefício mais vantajoso concedido administrativamente, no curso da ação judicial em que se reconheceu benefício menos vantajoso, sendo desnecessária a devolução de valores decorrentes do benefício renunciado, afigura-se legítimo o direito de execução dos valores compreendidos entre o termo inicial fixado em juízo para concessão do benefício e a data de entrada do requerimento administrativo.
+3. Agravo regimental não provido.
+(AgRg no REsp 1481248/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 11/11/2014, DJe 18/11/2014)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. REPERCUSSÃO GERAL. SOBRESTAMENTO DO FEITO. DESNECESSIDADE. EXECUÇÃO DE VALORES DECORRENTES DE BENEFÍCIO RECONHECIDO EM JUÍZO NA EXISTÊNCIA DE DEFERIMENTO DE BENEFÍCIO MAIS VANTAJOSO RECONHECIDO PELA ADMINISTRAÇÃO. POSSIBILIDADE. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF.
+1. O reconhecimento da repercussão geral pela Suprema Corte não enseja o sobrestamento do julgamento dos recursos especiais que tramitam no Superior Tribunal de Justiça.
+2. Reconhecido o direito de opção pelo benefício mais vantajoso concedido administrativamente, no curso da ação judicial em que se reconheceu benefício menos vantajoso, sendo desnecessária a devolução de valores decorrentes do benefício renunciado, afigura-se legítimo o direito de execução dos valores compreendidos entre o termo inicial fixado em juízo para concessão do benefício e a data de entrada do requerimento administrativo. Precedentes.
+3. Não cabe ao Superior Tribunal de Justiça, em recurso especial, analisar suposta violação de dispositivos constitucionais, mesmo com a finalidade de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Agravo regimental improvido.
+(AgRg no REsp 1522530/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 20/08/2015, DJe 01/09/2015)
+AGRAVO REGIMENTAL. PROCESSUAL CIVIL. TÍTULO EXECUTIVO JUDICIAL NÃO TRANSITADO EM JULGADO. INOVAÇÃO RECURSAL. ANÁLISE NESTA FASE PROCESSUAL. IMPOSSIBILIDADE.
+1. É inviável a discussão, em sede de agravo regimental, de matéria não abordada no recurso especial ou nas contrarrazões, por se tratar de inovação recursal.
+PREVIDENCIÁRIO. EXECUÇÃO DAS PARCELAS REFERENTE AO BENEFÍCIO CONCEDIDO JUDICIALMENTE, ATÉ A DATA DA APOSENTADORIA POR INVALIDEZ DEFERIDO NA ESFERA ADMINISTRATIVA. POSSIBILIDADE. DECISÃO MONOCRÁTICA MANTIDA. RECURSO IMPROVIDO 2. Ante a possibilidade de opção ao benefício previdenciário mais vantajoso, assim como a desnecessidade de devolução da quantia já recebida, afigura-se legítima a execução dos valores compreendidos entre a data de entrada do pedido de aposentadoria, cujo direito foi reconhecido judicialmente, e a data de início do segundo benefício, concedido na via administrativa.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1162799/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/10/2013, DJe 24/10/2013).
+No mesmo sentido são as seguintes decisões unipessoais: REsp n. 1.740.016/RS, Rel. Min. Napoleão Nunes Maia Filho, DJe de 05/06/2018; EDcl no REsp n. 1.272.196/PR, Rel. Min. Ribeiro Dantas, DJe de 16/05/2018; REsp n. 1.741.555/PR, de minha relatoria, DJe de 01/06/2018; e REsp n. 1.742.995/SC, Rel. Min. Sérgio Kukina, DJe de 29/05/2018.
+Ademais, a pretensão de executar os valores reconhecidos na via judicial não se confunde com acumulação de benefícios vedada no art. 124 da lei de regência, mormente pela circunstância de que o ajuizamento da ação ordinária se deu em virtude do indeferimento de anterior pedido administrativo.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para determinar o prosseguimento da execução.
+Publique-se e intimem-se.
