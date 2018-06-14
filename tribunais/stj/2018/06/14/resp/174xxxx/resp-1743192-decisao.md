@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por NATALIA MARQUES PESSET com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. ATRASO NA ENTREGA DE IMÓVEL ADQUIRIDO NA PLANTA. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SENTENÇA DE PROCEDÊNCIA QUE CONDENOU AS RÉS AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO MONTANTE DE R$ 7.000,00 (SETE MIL REAIS) E POR LUCROS CESSANTES NO EQUIVALENTE A 0,8% DO VALOR DO BEM CONSTANTE DA ESCRITURA, POR MÊS DE ATRASO, A CONTAR DE OUTUBO DE 2012 ATÉ A DATA DA EXPEDIÇÃO DO HABITE-SE. APELO DA RÉ REQUERENDO A REFORMA DA SENTENÇA, A FIM DE QUE SEJAM JULGADOS IMPROCEDENTES OS PEDIDOS AUTORAIS OU REDUZIDA A INDENIZAÇÃO POR DANOS EXTRAPATRIMONIAIS. LEGITIMIDADE DA 2ª RÉ, DIANTE DA SOLIDARIEDADE EXISTENTE ENTRE TODOS OS INTEGRANTES DA CADEIA DE CONSUMO. ARTIGO 25, §1º, DO CDC. A OCORRÊNCIA DE DEMORA NA CONCESSÃO DO HABITE-SE CONFIGURA FORTUITO INTERNO, NÃO AFASTANDO A RESPONSABILIDADE DO FORNECEDOR. TEORIA DO RISCO DO EMPREENDIMENTO. SÚMULA 94 DO TJRJ. DANO MORAL CONFIGURADO, TENDO EM VISTA A FRUSTRAÇÃO DAS LEGÍTIMAS EXPECTATIVAS DA AUTORA, ALÉM DOS TRANSTORNOS CAUSADOS PELO NÃO CUMPRIMENTO DO PRAZO POR PARTE DAS RÉS. INDENIZAÇÃO FIXADA EM R$ 7.000,00 (SETE MIL REAIS) QUE SÉ MANTÉM, POR ESTAR EM CONSONÂNCIA COM OS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE, OBSERVADAS AS PECULIARIDADES DO CASO CONCRETO. INDEVIDO O PAGAMENTO DE INDENIZAÇÃO POR LUCROS CESSANTES EM RAZÃO DA IMPOSSIBILIDADE DE LOCAÇÃO DO BEM. PROGRAMA SOCIAL DE HABITAÇÃO POPULAR MINHA CASA MINHA VIDA. PARCIAL PROVIMENTO AO APELO DA RÉ PARA JULGAR IMPROCEDENTE O PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS (LUCROS CESSANTES) E, POR CONSEQUÊNCIA, RECONHECER A SUCUMBÊNCIA RECÍPROCA" (e-STJ fls. 409/410).
+No recurso especial, além de dissídio jurisprudencial, a recorrente alega violação do artigo 6º-A, § 5º, III, da Lei nº 11.977/2009.
+Sustenta, em síntese, que o imóvel em questão, por se situar fora da faixa I do Programa Minha Casa Minha Vida pode ser alienado ou locado, sendo portanto, devida a indenização por lucros cessantes.
+Após apresentadas as contrarrazões (e-STJ fls. 511/517) o recurso foi admitido na origem.
+ É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Verifica-se, de início, que a tese vinculada ao artigo 6º-A, § 5º, III, da Lei nº 11.977/2009 não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não houve indicação de contrariedade ao art. 1.022 do Código de Processo Civil de 2015.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+A propósito:
+"PROCESSUAL CIVIL. PRECLUSÃO. CONFISSÃO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. HONORÁRIOS ADVOCATÍCIOS. MATÉRIA FÁTICA E PROBATÓRIA. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+(..)
+AUSÊNCIA DE PREQUESTIONAMENTO 4. Esclareça-se, quanto à alegação de que ocorreu a preclusão e de que houve a confissão, que essas questões não foram prequestionadas na origem. Ausente, portanto, o prequestionamento da questão federal controvertida, que não foi suprido em Embargos de Declaração.
+5. Em conformidade com a orientação remansosa do STJ, caberia à parte, nas razões do seu Recurso Especial, alegar violação do artigo 1022 do CPC/2015, a fim de que o STJ pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+6. Esclareça-se, que não houve qualquer alegação do recorrente, no Recurso Especial, quanto à violação ao artigo 1022 do CPC/1973. Assim, aplica-se a Súmula 211/STJ. Nesse sentido: AgRg no AREsp 636.121/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 06/04/2015.
+SÚMULA 7/STJ 7. Ademais, reconhecer a ofensa à preclusão e que houve confissão, de forma a alterar o acórdão, exige reexame do conjunto fático-probatório, vedado na via estreita do Recurso Especial, por força da Súmula 7/STJ. A propósito: REsp 1.642.697/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 6/3/2017.
+8. Por fim, quanto à alegação de que cabe a fixação de honorários advocatícios, esclareça-se que modificar a conclusão a que chegou a Corte a quo, de modo a acolher a tese da recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+9. Recurso Especial não conhecido."
+(REsp 1655057/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/04/2017, DJe 25/04/2017 - grifou-se).
+O mesmo óbice impede a análise do recurso pela alínea "c" do permissivo constitucional.
+Ante o exposto, nego provimento ao recurso especial.
+Deixo de majorar os honorários, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, em virtude do reconhecimento da sucumbência recíproca na origem, sem efetivo arbitramento da verba, bem como pela inauguração da esfera extraordinária por ambas as partes que não obtiveram êxito nos respectivos recursos especiais.
+Publique-se.
+Intimem-se.
