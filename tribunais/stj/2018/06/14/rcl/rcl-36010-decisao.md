@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. ACÓRDÃO DO TRIBUNAL RECLAMADO QUE NÃO OFENDE OBJETIVAMENTE DECISÃO EMANADA DO STJ. DESCABIMENTO.
+1. Para que a reclamação constitucional seja admitida, é imprescindível que se caracterize, de modo objetivo, usurpação de competência deste Tribunal ou ofensa direta à decisão aqui proferida, circunstâncias não evidenciadas nos autos.
+2. Petição inicial indeferida. Processo extinto sem resolução de mérito.
+DECISÃO
+Cuida-se de reclamação ajuizada por ELIEL DA SILVA, com pedido liminar, objetivando cassação de acórdão proferido pela 33ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo.
+Ação: de indenização de danos materiais e compensação de danos morais, ajuizada por DIRCEU PIRES DE CAMARGO em face do reclamante, na qual pleiteia o ressarcimento dos prejuízos sofridos em razão de o reclamante ter descumprido cláusula de contrato de cessão de direitos e obrigações firmado com o autor e não ter transferido para seu nome o financiamento para a aquisição de trator. No prazo para a contestação, o reclamante denunciou a lide à seguradora, em razão de furto do citado veículo.
+Sentença: julgou procedentes os pedidos da inicial, condenando o reclamante à indenizar os danos materiais e compensar os danos morais (fls. 224-229 e-STJ).
+Embargos de declaração: opostos pelo reclamante, foram acolhidos para extinguir com resolução do mérito a denunciação da lide, pela ocorrência de prescrição (fl. 234, e-STJ).
+Acórdão: deu parcial provimento à apelação interposta pelo reclamante apenas para reduzir o valor da compensação dos danos morais (fls. 281-291, e-STJ).
+Embargos de declaração: opostos pela seguradora litisdenunciada, foram rejeitados.
+Reclamação: alega a ocorrência de usurpação de competência desta Corte pelo Tribunal de origem, que teria interpretado restritivamente o enunciado da Súmula 229/STJ, alterando seus termos, o que só poderia ser realizado legitimamente pelo próprio STJ.
+É O RELATO DO NECESSÁRIO. DECIDO.
+À luz do art. 105, inc. I, alínea "f", da CF/88 e do art. 187 do RISTJ, a jurisprudência do STJ firmou-se no sentido de que a reclamação, em razão de sua natureza excepcional, destina-se à preservação da competência e garantia da autoridade de seus julgados, apenas quando objetivamente violados, não podendo servir como sucedâneo recursal para discutir o teor da decisão hostilizada. Nesse sentido: Rcl 7.124/DF, 1ª Seção, DJe de 30/10/2012; Rcl 2.908/SC, 2ª Seção, DJe de 01/02/2012; e Rcl 2.518/RJ, 3ª Seção, DJe de 21/03/2011).
+Na hipótese dos autos, não sobressai, de modo objetivo, usurpação de competência deste Tribunal ou ofensa direta às decisões aqui proferidas, mas mero inconformismo da reclamante com o teor da decisão proferida pelo Juízo reclamado, sujeita a recursos específicos.
+Com efeito, da simples leitura da petição inicial e dos documentos que a acompanham, verifica-se que a reclamante se limita a questionar a correção do acórdão que apreciou sua apelação, asseverando que a Corte de origem teria desrespeitado o conteúdo da Súmula 229/STJ.
+Como ressaltou a Corte Especial por ocasião do julgamento do AgRg na Rcl 29.329/MS (Rel. Min. Laurita Vaz, DJe de 03/08/2016), a reclamação é cabível para assegurar-se que ordens diretas emanadas do STJ não sejam descumpridas nas instâncias ordinárias, de forma que não se admite o manejo desta ação com o simples intuito de reexame de questões já decididas no Tribunal local.
+Saliente-se que este entendimento, já pacificado no âmbito do STJ, não sofreu alteração em razão do advento do CPC/2015, uma vez que o novo Código, no que concerne à competência desta Corte, não trouxe outras hipóteses de cabimento da reclamação, apenas reiterando, no art. 988, incisos I e II, aquelas já previstas na Constituição Federal e no RISTJ.
+Dessa maneira, considerando que, na hipótese dos autos, o reclamante não indica qualquer comando positivo desta Corte Superior, proferido em processo em que tenha figurado como parte, cuja eficácia deva ser assegurada, não prospera a presente reclamação, sobretudo diante da evidente tentativa de rediscutir o conteúdo do acórdão reclamado.
+Assim, a presente reclamação revela-se manifestamente incabível, porque não reúne os requisitos necessários ao seu regular processamento.
+Forte nessas razões, INDEFIRO liminarmente a petição inicial e, em consequência, JULGO EXTINTA a presente reclamação, sem exame do mérito, com fundamento nos arts. 330, III, 485, I e VI, ambos do CPC/15, e art. 34, XVIII, alínea "a" do RISTJ.
+Publique-se. Intimem-se.
