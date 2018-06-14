@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], contra decisão que não admitiu recurso especial, este com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 142):
+PREVIDENCIÁRIO. AGRAVO LEGAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. IMPOSSIBILIDADE DE RECONHECIMENTO DE ATIVIDADE ESPECIAL. MOTORISTA SEM ESPECIFICAÇÃO DO VEÍCULO CONDUZIDO. PODERES DO RELATOR. ILEGALIDADE OU ABUSO DE PODER NÃO CARACTERIZADOS.
+- É dado ao relator, na busca pelo processo célere e racional, decidir monocraticamente o recurso interposto, quer negando-lhe seguimento, desde que em descompasso com súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior, quer lhe dando provimento, na hipótese de decisão contrária à súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior.
+- O denominado agravo legal tem o propósito de submeter ao órgão colegiado o controle da extensão dos poderes do relator e, bem assim, a legalidade da decisão monocrática proferida, não se prestando, afora essas circunstâncias, à rediscussão, em si, de matéria já decidida.
+- Decisão que não padece de qualquer ilegalidade ou abuso de poder, estando seus fundamentos em consonância com a jurisprudência pertinente à matéria devolvida a este E. Tribunal.
+- Agravo improvido.
+Opostos embargos declaratórios, foram rejeitados (fls. 157/161).
+Em seu especial, a parte recorrente alega ofensa aos arts. 52 e 57, da Lei 8.213/91; e 2º do Decreto 53.831/64; 60, do Decreto 83.080/79.
+Sustenta, em síntese, que faz jus ao reconhecimento de tempo especial, diante da suficiência probatória dos documentos acostados aos autos, nos seguintes termos: "No caso em debate, o Recorrente juntou aos autos a fotocopia de sua Carteira de Trabalho e Previdência Social - CTPS, onde confirma de forma clara e objetiva que ele laborava exercendo a função de MOTORISTA DE ÔNIBUS OU CAMINHÃO, atividade esta que pertence a CATEGORIA PROFISSIONAL e enquadrada como especial no CÓDIGO 2.4.4 do Quadro A do Artigo 2o do Decreto nº 53.831/64 e CÓDIGO 2.4.2 do Anexo II do Decreto nº 83.080/79, até a entrada em vigência da Lei Federal n. 9.032/95 em 28/04/1995, independentemente de apresentação de quaisquer formulários, bastando para tanto a comprovação do exercício da atividade." (fl. 173).
+É o relatório.
+O recurso não prospera.
+Isto porque, com relação à celeuma retratada nos autos, se faz oportuna a observação do seguinte trecho do acórdão recorrido, em que o Tribunal de origem assim consignou (fl. 133):
+Declarações firmadas por supostos ex-empregadores não contemporâneas, ou mesmo subscritas por testemunhas, noticiando a prestação do trabalho durante o período cuja comprovação aqui se pretende, não se prestam aos fins colimados, tendo em conta que equivalem a meros depoimentos reduzidos a termo, sem o crivo do contraditório, conforme entendimento já pacificado no âmbito desta Corte.
+Da mesma forma, a certidão de existência da empresa empregador a não se revela hábil à comprovação do tempo pretendido, por não mencionar, quer o período, quer a atividade desempenhada pelo segurado.
+Ainda é importante notar o que a Corte a quo consignou no acórdão proferido em embargos de declaração (fl. 158):
+Com efeito, o julgado foi explícito ao apontar a impossibilidade de reconhecimento da especialidade da atividade de motorista no período anterior a 28/04/1995, em razão do caráter genérico da qualificação profissional do autor na documentação acostada aos autos, a qual não especifica sequer o tipo de veículo conduzido.
+Logo, a alteração das conclusões adotadas pela Corte de origem, no sentido de que a prova material acostada aos autos é insuficiente à comprovação do direito alegado, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
