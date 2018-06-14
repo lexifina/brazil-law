@@ -1,0 +1,18 @@
+Ementa: Direito Processual Penal. Inquérito Policial. Foro Especial por prerrogativa de função. Restrição. Entendimento do Supremo Tribunal Federal em Questão de Ordem na Ação Penal 937-RJ. Hipótese restritiva. Exigências temporal e de pertinência funcional não verificadas. Declínio da competência.
+1. O foro especial por prerrogativa de função, de que cuida o art. 53, § 1º, da CF (Deputados Federais e Senadores), contempla os delitos praticados no cargo e em razão dele.
+2. Situação concreta que não se amolda às hipóteses de competência definidas pelo Supremo Tribunal Federal.
+3. Competência declinada para a Justiça do Estado de Alagoas.
+    Vistos etc.
+    1. Trata-se de inquérito policial com denúncia apresentada, por suposta prática de crimes de Peculato, previsto no art. 312 do Código Penal ambos os delitos na forma do art. 69 do mesmo estatuto, pelos Deputados Federais José Cícero Soares de Almeida (por 08 vezes) e Paulo Fernando dos Santos (por 14 vezes), quando estavam no exercício dos cargos de deputados estaduais do Estado de Alagoas entre os anos de 2003 e 2006.
+    2. A presente investigação trata de um esquema de desvio de dinheiro público da Assembleia Legislativa de Alagoas, envolvendo diversas pessoas, incluindo grande número de deputados estaduais, no escândalo conhecido como Operação Taturana.
+    3. A Procuradora-Geral da República apresentou a denúncia (fls. 10062-76), além do pedido de reconhecimento de prescrição dos demais fatos considerados criminosos indicados nos relatórios criminais que apontou (fls. 10077-8).
+    4. O denunciado José Cícero Soares Almeida apresentou resposta às fls. 10154-66, já a resposta de Paulo Fernando dos Santos está às fls. 10170-5.
+    É o relatório. Decido.
+    5. Com o julgamento da Questão de Ordem na AP 937, de relatoria do Min. Luís Roberto Barroso, ocorrido em sessão plenária do dia 03.5.2018, o Supremo Tribunal Federal concluiu que a sua competência originária criminal, em relação aos parlamentares federais, é limitada aos delitos praticados durante o mandato parlamentar e que, concomitantemente, possuam pertinência funcional com o cargo ocupado. Nesse sentido a conclusão do acórdão:
+    “Decisão: O Tribunal, por maioria e nos termos do voto do Relator, resolveu questão de ordem no sentido de fixar as seguintes teses: (i) O foro por prerrogativa de função aplica-se apenas aos crimes cometidos durante o exercício do cargo e relacionados às funções desempenhadas; e (ii) Após o final da instrução processual, com a publicação do despacho de intimação para apresentação de alegações finais, a competência para processar e julgar ações penais não será mais afetada em razão de o agente público vir a ocupar outro cargo ou deixar o cargo que ocupava, qualquer que seja o motivo, com o entendimento de que esta nova linha interpretativa deve se aplicar imediatamente aos processos em curso, com a ressalva de todos os atos praticados e decisões proferidas pelo STF e pelos demais juízos com base na jurisprudência anterior, conforme precedente firmado na Questão de Ordem no Inquérito 687 (Rel. Min. Sydney Sanches, j. 25.08.1999)(...).”
+    6. No caso aqui examinado, as condutas imputadas aos denunciados foram praticadas quando ainda não detinham foro especial por prerrogativa de função perante o Supremo Tribunal Federal, impondo-se a alteração da competência com a remessa dos autos para o Juízo competente (art. 109 CPP e art. 21, § 1º, RISTF).
+    7. Nesses termos, reconheço a incompetência superveniente desta Corte e determino a remessa dos autos para distribuição a uma das Varas Criminais da Comarca de Maceió/AL.
+    Publique-se. Intimem-se.
+    Brasília, 14 de junho de 2018.
+    Ministra Rosa Weber.
+    Relatora
