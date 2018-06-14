@@ -1,0 +1,68 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. OFENSA A DISPOSITIVO CONSTITUCIONAL. INCABÍVEL NESTA CORTE. ALEGAÇÕES DE ATO ILÍCITO PRATICADO PELA INSTITUIÇÃO FINANCEIRA. FRAUDE NO CONTRATO. INEXISTENTE. REVER ENTENDIMENTO. IMPOSSIBILIDADE. NECESSÁRIO REANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 05 E 07 DESTA CORTE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos e etc.
+Trata-se de agravo em recurso especial interposto por [NOME] em face de decisão que inadmitiu recurso especial, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da Constituição Federal, manejado contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+E M E N T A - APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - AUTOR QUE NÃO RECONHECE O CONTRATO DE EMPRÉSTIMO QUE MOTIVOU DESCONTO DE PARCELAS NO BENEFÍCIO PREVIDENCIÁRIO - COMPROVAÇÃO DA CELEBRAÇÃO DO CONTRATO DE EMPRÉSTIMO E DO SAQUE DO VALOR PELO PRÓPRIO AUTOR - REGULARIDADE DO DÉBITO - LITIGÂNCIA DE MÁ-FÉ RECURSO IMPROVIDO. SENTENÇA MANTIDA, COM APLICAÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ.
+1. Se a instituição financeira comprova a regularidade da contratação do empréstimo, bem como o saque dos valores pelo autor, não há falar-se em ato ilícito ou inexistência de débito.
+2. A alteração da verdade dos fatos com o objetivo de enriquecer-se ilicitamente configura conduta expressamente condenada pelo Código de Processo Civil nos incisos II e III do art. 81, dando azo à condenação da parte ao pagamento de multa por litigância de má-fé.
+3. Recurso conhecido e improvido. Sentença mantida (e-STJ fl. 267).
+Nas razões do recurso especial a parte alega ofensa aos artigos 1º inciso III, 5º inciso XXXII, 170 inciso V da Constituição Federal, aos artigos 14, § 1º, 39, 46 do Código de Defesa do Consumidor e artigos 927 e 944 do Código Civil. Suscita, ainda, ocorrência de dissídio jurisprudencial.
+Sustenta, em síntese, que"Como se pode observar é notória a responsabilidade OBJETIVA do Banco Recorrido, uma vez que, incorreu em falha, implantado o empréstimo que nunca foi solicitado, mesmo que conste assinatura em contrato, que, diga-se, fraudulento" (e-STJ fl. 279).
+Aduz, ainda, "Portanto, não restam dúvidas que o contrato em discussão ocasionou abalo emocional e enorme preocupação a parte Autora, pessoa com idade avançada, naturalmente com saúde mais frágil, que se viu desamparada diante da situação de descontos em seu benefício previdenciário" (e-STJ fl. 281).
+Sem contrarrazões, conforme certidão de fl. 287 e-STJ, sobreveio juízo de admissibilidade que negou seguimento ao recurso especial, o que ensejou a interposição do presente agravo.
+Nas razões do agravo, às fls. 295 - 298 e-STJ, a parte agravante impugnou os fundamentos da decisão agravada
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+De início, esclareça - se que nos termos do artigo 102 inciso III do permissivo constitucional a competência para apreciar ofensas a dispositivos constitucionais é do Supremo Tribunal Federal, razão pela qual não merece guarida a alegada ofensa aos arts. 1º inciso III, 5º inciso XXXII, 170 inciso V da Constituição Federal, sob pena de usurpação de competência do Supremo Tribunal Federal.
+Confira:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. RESTITUIÇÃO DE PRAZO. ALEGADA OFENSA AO PRINCÍPIO DO CONTRADITÓRIO E DA AMPLA DEFESA. ANÁLISE DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. VIOLAÇÃO AO ARTIGO 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. SÚMULA 7.
+INADMISSIBILIDADE. 1. A interposição de recurso especial não é cabível quando ocorre indicação de violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88. 2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 797.970/SE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 07/11/2017, DJe 13/11/2017 - grifei)
+No tocante às alegações de ato ilícito praticado pela instituição financeira que teria ocasionado danos ao recorrente e a existência de fraude no contrato apresentado pela recorrida, observa-se que o Tribunal de origem, considerando o contexto fático-probatório dos autos, concluiu que não houve ato ilícito praticado pela instituição financeira, na qual logrou êxito em comprovar a validade do contrato de empréstimo consignado entre as partes. A controvérsia foi decidida nos seguintes termos, verbis:
+Venho reiteradamente decidindo que em se tratando de pessoa idosa e analfabeta, ou de baixíssima instrução, é imperioso, para a validade do ato, que ela estivesse acompanhada de procurador com poderes outorgados em escritura pública, na forma do § 1º 3 do art. 221 da Lei de Registros Públicos, para que o ato pudesse ser válido.
+Isso porque é bastante conhecida a frequência com que idosos, especialmente analfabetos ou de baixíssima instrução, são ludibriados por estelionatários, que os levam a "contratar" empréstimos sem jamais receberem o dinheiro.
+Sendo assim, considero ser obrigação do banco apresentar a escritura pública ou comprovar que o dinheiro liberado efetivamente contemplou a autora da ação, demonstrando, daí, que ela tinha plena percepção do ato, tanto que dele se beneficiou. Isso bastaria para reconhecer a admissibilidade dos descontos em folha, sob pena de se compactuar com enriquecimento indevido.
+Observo, entretanto, que no caso dos autos o douto juiz a quo julgou improcedente o pedido inicial sob o fundamento que o banco logrou êxito em comprovar que o autor não só celebrou validamente o contrato de empréstimo consignado, como recebeu os valores acordados. Confira-se:
+Compulsando os autos, verifica-se que os argumentos apresentados pela parte autora, de que desconhece a existência e validade do referido contrato, pois nunca procurou o requerido para contratação de empréstimo consignado, não merecem prosperar.
+Isso porque, o requerido logrou êxito em comprovar que a parte autora, de fato, realizou o contrato de empréstimo consignado discutido na inicial, no valor de R$ 4.503,45 (contrato nº 21-196377/12310 - início em 10/2012, para pagamento em 60 parcelas mensais de R$ 138,11), o qual se encontra materializado às f. 70-81. Além disso, o referido contrato também foi instruído com cópias dos documentos pessoais da requerente f.82, inclusive [NOME].
+Portanto, não restam dúvidas de que estão ausentes quaisquer hipóteses de vício ou fraude contratual ao caso latente. A semelhança das assinaturas apostas nos contratos de empréstimos celebrado e àquelas firmadas na procuração de f. 17, e nos documentos pessoais da parte autora às f. 82-84, contribuem robustamente para a conclusão acima, ou seja, de que a parte autora, ao contrário do que menciona na inicial, realmente celebrou o contrato de empréstimo juntamente ao banco.
+Ademais, a parte autora não demonstrou a existência de qualquer vício no contrato firmado entre as partes, vez que não produziu qualquer prova que pudesse indicar a falsificação de sua assinatura no referido contrato, sendo importante destacar que rubrica ali lançada apresentada nítida semelhança com aquelas que constam na procuração, declaração de hipossuficiência e no documento pessoal.
+Aliás, a parte autora sequer pugnou pela realização de prova pericial para averiguar a veracidade dos documentos apresentados, requerendo o julgamento antecipado da lide, bem como não há noticia de que referidos documentos tenham sido furtados ou extraviados, não havendo, portanto, qualquer elemento nos autos capaz de afastar a validade do contrato apresentado"
+O contrato encontra-se às fls. 74-75 e veio acompanhado dos documentos pessoais do autor, acostados à fl. 82 dos autos, fazendo possível a comparação das assinaturas lançadas em ambos os documentos e a aferição da semelhança patente entre elas.
+Como asseverado pelo banco em contestação, do valor contratado R$ 2.906,31 foram destinados ao pagamento de empréstimo anterior realizado pelo apelante junto ao Banco Votorantim e o restante foi pago ao autor por meio de ordem de pagamento, cujos recibos encontram-se às fls. 90, 113, 115 e 117, devidamente assinados por eles.
+Verifica-se, assim, que o autor não apenas efetuou, de fato, o contrato com o banco apelado como recebeu os valores contratados, o que caracteriza de forma clara a inequívoca a má-fé do apelante em pretender a anulação do contrato, a devolução dos valores pagos e a condenação do banco ao pagamento de indenização por danos morais.
+Trata-se de conduta rechaçada pelo Código de Processo Civil, que a estampa no art. 80, II e III:
+Art. 80. Considera-se litigante de má-fé aquele que:
+I - deduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso;
+II - alterar a verdade dos fatos;
+III - usar do processo para conseguir objetivo ilegal;
+IV - opuser resistência injustificada ao andamento do processo;
+V - proceder de modo temerário em qualquer incidente ou ato do processo;
+VI - provocar incidente manifestamente infundado;
+VII - interpuser recurso com intuito manifestamente protelatório.
+O autor altera deliberadamente a verdade dos fatos com o objetivo de enriquecer-se ilegalmente, o que merece reprimenda por parte do Poder Judiciário.
+Comprovado, assim, de forma clara e inequívoca, que o autor contrato o empréstimo consignado e beneficiou-se dos valores ali estampados, outra solução não há que não o improvimento da pretensão autoral, mantendo-se integralmente a sentença atacada, com a aplicação de multa por litigância de má-fé.
+3.
+Ante o exposto, conheço o recurso de apelação interposto por [NOME] e lhe nego provimento, mantendo inalterada a sentença atacada.
+Na forma dos §§ 1º e 11 do art. 85 do NCPC, condeno o apelante ao pagamento de honorários advocatícios recursais, os quais fixo em 5% (cinco por cento) sobre o valor da causa, cuja cobrança fica suspensa em razão de litigar sob o pálio da justiça gratuita, na exata dicção do disposto no artigo 98, § 3º, do CPC.
+Condeno o apelante, ainda, ao pagamento de multa por litigância de má-fé, que fixo em R$ 500,00, nos termos do §2º do art. 81 do NCPC (e-STJ fls. 269-271)
+Desse modo, concluir de maneira diversa às premissas assentadas pelo Tribunal de origem exigiria a interpretação das cláusulas contratuais, bem como o reexame das provas e das circunstâncias fáticas delineadas nas instâncias ordinárias, o que se mostra inviável na via especial, a teor do que preconizam as Súmulas 05/STJ e 07/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. BANCO. DANO MORAL E MATERIAL. INEXISTÊNCIA. AUSÊNCIA DE NEXO CAUSAL. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem, com base nos fatos ocorridos, entendeu que o dano resultante do inadimplemento não decorreu de conduta do gerente, pois o procedimento de dar boas referências a respeito de cliente não pode ser entendido como garantia do negócio jurídico realizado. Inexistente, portanto, nexo de causalidade entre a conduta do preposto do banco e os danos experimentados pelo autor da demanda e, por consequência, a responsabilidade imputável ao banco.
+2. A inversão do que ficou decidido pelo acórdão recorrido no tocante à ausência de ato ilícito capaz de ensejar a responsabilidade por parte do banco e o pagamento de indenização, tal como postulada nas razões do apelo especial, demandaria nova análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AgRg no AREsp 576.119/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/05/2015, DJe 11/06/2015 - grifei)
+AGRAVO REGIMENTAL. CADASTRO DE PROTEÇÃO AO CRÉDITO. INSCRIÇÃO. NOTIFICAÇÃO PRÉVIA. ENVIO NÃO COMPROVADO. DANO MORAL. LEGITIMIDADE. EMPRESA ADMINISTRADORA DO BANCO DE DADOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- A responsabilidade decorrente da ausência de comunicação prévia ao consumidor, medida imprescindível à regularidade da inscrição, é da empresa administradora do banco de dados, a quem cabe providenciar a cientificação do devedor.
+2.- A convicção a que chegou o Acórdão recorrido, que consignou que o nome da Agravada constava dos documentos acostados aos autos para comprovar o envio da comunicação prévia e entendeu pela inexistência de ato ilícito e de dano moral indenizável, decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do Especial à luz da Súmula 7 desta Corte.
+3.- A Agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+ Agravo improvido.
+(AgRg no AREsp 341.286/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 06/08/2013, DJe 27/08/2013 - grifei)
+Destarte, o desprovimento do recurso é medida que se impõe.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial e, com base no art. 85, § 11, do CPC, majoro os honorários advocatícios recusais para 17% sobre o valor da causa, ressalvada a concessão do benefício da gratuidade da justiça.
+Intimem-se.
