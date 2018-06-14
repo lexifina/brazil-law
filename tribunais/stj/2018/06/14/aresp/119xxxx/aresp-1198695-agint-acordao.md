@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESOLUÇÃO CONTRATUAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. NATUREZA DA PRETENSÃO. CARACTERIZAÇÃO DE VÍCIO DE CONSENTIMENTO. INCIDÊNCIA DO PRAZO DECADENCIAL. 3. AGRAVO INTERNO IMPROVIDO.
+1. Não há que se falar em negativa de prestação jurisdicional na hipótese de, apesar de rejeitados os embargos de declaração, o acórdão recorrido enfrentar, através de fundamentação suficientemente sólida, a matéria necessária para o deslinde da causa.
+2. O acórdão recorrido está em consonância com a orientação firmada por esta Corte, no sentido de que "a natureza jurídica da ação não se determina pela denominação atribuída pelo autor, no momento da propositura da demanda, mas sim pelo objeto perseguido efetivamente, com análise sistemática do pedido e da causa de pedir deduzidos na inicial, nascendo justamente dessa análise a definição do prazo de prescrição ou decadência. Precedentes." (REsp 1.551.430/ES, Rel. Ministra Maria Isabel Gallotti, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/09/2017, DJe 16/11/2017).
+3. Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por [NOME] contra decisão monocrática desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 339):
+AGRAVO EM RECURSO ESPECIAL. RESOLUÇÃO CONTRATUAL. NATUREZA DA PRETENSÃO. 1. OMISSÃO NÃO CONFIGURADA. 2. ALEGAÇÃO DE INADIMPLEMENTO CONTRATUAL. CARACTERIZAÇÃO DE VÍCIO DE CONSENTIMENTO. INCIDÊNCIA DO PRAZO DECADENCIAL. PRECEDENTE. 3. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões, o agravante alega que o Tribunal local não enfrentou a matéria relativa ao direito de rescisão do consumidor. Sustenta, ainda, que, independentemente de haver vício de consentimento, a matéria tratada nos autos cinge-se à rescisão, pugnando pela aplicação do prazo prescricional de 10 (dez) anos.
+Assim, postula a reforma da decisão para que seja processado e provido seu recurso especial.
+Intimada, a parte agravada não apresentou contrarrazões (e-STJ, fl. 361).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Na hipótese dos autos, observa-se que, apesar de rejeitados os embargos de declaração, a matéria em exame foi suficientemente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente, consoante trecho a seguir transcrito (e-STJ, fls. 258-259):
+Mais especificamente, e no que toca ao recurso como intentado, melhor examinando o conjunto encartado aos autos, verifica-se que a R. Sentença combatida analisou corretamente a questão, daí porque, de rigor se mostre a rejeição do Apelo, sendo caso de se transcrever, ainda que de forma parcial, os adequados e bem lançados fundamentos da R. Sentença indevidamente atacada, que ficam agora ratificados na íntegra por esta Turma Julgadora, conforme se verifica:
+"A questão comporta julgamento antecipado, porque versa sobre matéria exclusivamente de direito.
+Deve-se reconhecer a decadência do direito do autor.
+Cumpre destacar que a decadência constitui matéria de ordem pública e, portanto, deve ser reconhecida pelas instâncias ordinárias, de ofício e a qualquer tempo (STJ Resp nº 1.082.600-PR, Rel.; Min. CASTRO MEIRA, Segunda Turma/ AgRg no REsp 1122154/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma).
+O autor fundamenta seus pedidos em suposto vício de consentimento, alegando que a requerida teria se aproveitado de sua vulnerabilidade para poder firmar o negócio jurídico.
+Ocorre, todavia, que o artigo 178, II, do Código Civil dispõe que: "É de quatro anos o prazo de decadência para pleitear-se a anulação do negócio jurídico, contado: (..) II no de erro, dolo, fraude contra credores, estado de perigo ou lesão, do dia em que se realizou o negócio jurídico;" No caso em tela, como o contrato entabulado entre as partes foi celebrado em 11 de dezembro de 2008, ou seja, há mais de quatro anos da propositura da presente demanda; decaiu o direito do autor para pleitear a anulação do negócio jurídico.
+Posto isso, reconheço a ocorrência da decadência, e, em consequência, julgo extinta esta Ação declaratória de nulidade de apontamento e de resolução contratual c/c pedido de restituição, indenização por danos morais e tutela antecipada proposta por [NOME] em face do KM Autos Ltda EPP, no termos do disposto no art. 269, IV do CPC".
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não viola o artigo 535 do Código de Processo Civil nem importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta" (AgRg no AREsp n. 610.500/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/4/2015, DJe 10/4/2015).
+Nesse sentido, ainda, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. ALEGADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. AGRAVO INTERNO IMPROVIDO.
+ ..
+III.Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. Na forma da jurisprudência desta Corte, "não há violação do art. 535, II, do CPC/73 quando a Corte de origem utiliza-se de fundamentação suficiente para dirimir o litígio, ainda que não tenha feito expressa menção a todos os dispositivos legais suscitados pelas partes" (STJ, REsp 1.512.361/BA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 22/09/2017). No mesmo sentido: STJ, AgRg no REsp 1.256.578/PE, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada do TRF/3ª Região), SEGUNDA TURMA, DJe de 27/04/2016; REsp 1.501.216/SC, Rel. Ministro OLINDO MENEZES (Desembargador Federal Convocado do TRF 1ª/Região), PRIMEIRA TURMA, DJe de 22/02/2016.
+V. Agravo interno improvido.
+(AgInt no AREsp 1.188.415/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/04/2018, DJe 12/04/2018)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NA AÇÃO RESCISÓRIA. EXTINÇÃO SEM JULGAMENTO DE MÉRITO. DECADÊNCIA. CONTRADIÇÃO E OMISSÕES NÃO VERIFICADAS. DEFEITO MATERIAL CORRIGIDO. RESULTADO DO JULGAMENTO MANTIDO.
+ ..
+3. Ausência de omissões no acórdão que extinguiu a rescisória por decadência. Embora não se tenha feito menção expressa a determinados dispositivos legais, o voto do aresto e os votos vogais que se seguiram enfrentaram as circunstâncias fático-processuais indispensáveis à solução do litígio, incluindo aí os ônus sucumbenciais e todas as certidões elaboradas no âmbito desta Corte e juntadas aos autos, viabilizando o necessário prequestionamento para efeito de futuro recurso que exija tal requisito.
+4. Os segundos aclaratórios, diante da preclusão consumativa, não podem indicar defeitos materiais não invocados nos primeiros embargos.
+5. Embargos de declaração acolhidos em parte, para sanar defeito material, mantido o resultado do julgamento.
+(EDcl nos EDcl nos EDcl na AR 4.374/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 25/11/2015, DJe 11/12/2015)
+Por outro lado, conforme consignado na decisão agravada, observa-se que os argumentos deduzidos na petição inicial, relativos ao alegado inadimplemento contratual, não se referem à execução do contrato, mas a circunstâncias relacionadas à sua formação - falta de informação prévia quanto ao crédito cedido e discrepância referente ao valor financiado, etc. -, que implicariam anulação do negócio por vício de consentimento, não mera desistência.
+No mesmo sentido concluíram as instâncias de origem, observando que "o autor fundamenta seus pedidos em suposto vício de consentimento, alegando que a requerida teria se aproveitado de sua vulnerabilidade para poder firmar o negócio jurídico" (e-STJ, fl. 259).
+Portanto, ao entenderem que se trata de ação anulatória de contrato por vício de consentimento - desconsiderando, assim, a denominação atribuída com vistas afastar o implemento da decadência previsto no art. 178, II, do Código Civil - as instâncias ordinárias não divergem da jurisprudência desta Corte Superior, que pontifica que a definição do prazo aplicável decorre da análise sistemática do pedido e da causa de pedir.
+A propósito:
+RECURSO ESPECIAL. HOMOLOGAÇÃO EM ARROLAMENTO SUMÁRIO. AÇÃO DE NULIDADE DE PARTILHA. DECADÊNCIA. NÃO OCORRÊNCIA. PETIÇÃO DE ARROLAMENTO SUMÁRIO. ADVOGADO SEM PODERES ESPECÍFICOS. TRANSMISSÃO DE BENS DE PESSOA VIVA E EXCLUSÃO DA HERANÇA. NULIDADE RECONHECIDA. AUSÊNCIA DE CONSENTIMENTO EM RELAÇÃO À PARTILHA DOS BENS E À VERACIDADE DO DOCUMENTO PARTICULAR. SÚM 7/STJ. RENÚNCIA À HERANÇA. ATO SOLENE. INSTRUMENTO PÚBLICO OU TERMO JUDICIAL. (CC, ART. 1806).
+1. A natureza jurídica da ação não se determina pela denominação atribuída pelo autor, no momento da propositura da demanda, mas sim pelo objeto perseguido efetivamente, com análise sistemática do pedido e da causa de pedir deduzidos na inicial, nascendo justamente dessa análise a definição do prazo de prescrição ou decadência. Precedentes.
+2. Na espécie, a pretensão autoral refere-se à declaração de nulidade de partilha efetivada sem que o herdeiro sequer soubesse que estava dispondo de seus bens, não tendo vontade nem consciência do negócio jurídico perpetrado por seu mandatário, devendo ser afastada a incidência do prazo ânuo previsto nos arts 2.027, parágrafo único, do CC e 1.029, parágrafo único, do CPC/1973.
+ ..
+8. Recurso especial não provido.
+(REsp 1551430/ES, Rel. Ministra MARIA ISABEL GALLOTTI, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/09/2017, DJe 16/11/2017)
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
