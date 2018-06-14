@@ -1,0 +1,18 @@
+DECISÃO
+ JUAN CARLOS RIVERA DIAZ e JOSE LUIS RIVERA DIAZ requerem a reconsideração da decisão de fls. 1.610-1.611, na qual indeferi liminarmente o habeas corpus, por considerá-lo reiteração do HC n. 443.560/GO.
+Sustentam os requerentes que este habeas corpus refere-se a fatos novos, quais sejam: os acórdãos proferidos nos HHCC n. 1006088-42.2018.4.01.0000, n. 1009601-18.2018.4.01.0000 e n. 1014233-87.2018.4.01.0000, nos quais o Tribunal Regional Federal da 1ª Região denegou a ordem.
+Junta aos autos os acórdãos proferidos nos aludidos mandamus e pleiteia seja dado seguimento ao presente writ.
+Decido.
+O destino deste remédio heróico é mesmo o seu indeferimento in limine, ainda que, desta vez, por outros fundamentos.
+Preliminarmente, releva salientar que, de fato, como asseverado pelos recorrentes, no HC n. 443.560/GO, impugnaram a decisão que indeferiu o pleito liminar formulado no HC n. 1006088-42.2018.4.01.0000, impetrado na origem. Agora, se insurgem contra o acórdão nele proferido. Ademais, no presente recurso, indicam outros dois acórdãos, também provenientes de mandamus julgados pelo Tribunal a quo como atos coatores.
+Os ora agravantes, neste writ, indicam diversas nulidades na ação penal, excesso de prazo para o encerramento da instrução criminal e ilegalidade da prisão por ausência de fundamentação idônea para tanto.
+Primeiramente, mister esclarecer de que se trata cada habeas corpus apontado como ato coator na petição de agravo:
+a) HC n. 1014233-87.2018.4.01.0000 - não há nada referente a este habeas corpus nas 198 páginas de documentos juntados pelos agravantes a estes autos (fls. 1.707-1.708);
+b) HC n. 1007169-26.2018.4.01.000 (fls. 1.738-1.750) - impetrado em favor de JOSE LUIS RIVERA DIAZ, no qual a insurgência se limitou à prisão preventiva, por alegada ausência de fundamentação idônea para a sua decretação/manutenção; e
+c) HC n. 1006088-42.2018.4.01.000 (fls. 1.824-1.836) - impetrado em favor de JUAN CARLOS RIVERA DIAZ, no qual a insurgência se limitou à prisão preventiva, por alegada ausência de fundamentação idônea para a sua decretação/manutenção.
+Destaco que todos os mandamus mencionados nos itens b e c supra se referem à Ação Penal n. 0039041-86.2017.4.01.3500.
+Neste ponto, mister salientar que, em consulta à página eletrônica do Tribunal a quo, colheu-se a informação de que nos autos da Ação Penal n. 0004653-26.2018.4.01.3500, em 5/6/2018, foi proferida sentença condenatória em desfavor dos acusados, na qual lhes foi negado o direito de recorrer em liberdade. Como tal decisum é posterior a esta impetração e não foi submetido ao crivo do Tribunal a quo, sua apreciação implicaria indevida supressão de instância, razão pela qual é defeso a esta Corte o exame da matéria. Assim, evidencia-se a prejudicialidade do feito quanto ao ponto.
+No que se refere às nulidades arguidas, o mandamus foi deficientemente instruído, pois a defesa não anexou aos autos nenhum documento referente ao HC n. 1014233-87.2018.4.01.0000, não sendo possível nem sequer averiguar se o Tribunal regional as apreciou, circunstância que impossibilita o exame da suposta ilegalidade.
+Ação constitucional de natureza mandamental, o habeas corpus exige prova pré-constituída das alegações e não comporta dilação probatória. É cogente ao impetrante apresentar elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração.
+À vista do exposto, reconsidero a decisão agravada, mas, por outros fundamentos, indefiro liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se e intimem-se.
