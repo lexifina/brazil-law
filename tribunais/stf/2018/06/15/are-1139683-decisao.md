@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, XXXV e LV, e 60, § 4º, III, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    A decisão do Tribunal de origem que negou seguimento ao recurso extraordinário consignou, in verbis:
+    “[...] Consoante se verifica às fls. 203/204, o recurso cabível contra decisão negativa de seguimento a recurso extraordinário, em juízo de admissibilidade, é o agravo previsto no art. 1.042 do CPC/2015, correspondente ao artigo 544 do CPC/73, cuja competência para julgamento é do Supremo Tribunal Federal.
+    Não tendo o recorrente se valido do meio próprio para tanto, exauriu-se a competência deste Tribunal, já que ocorrerá o trânsito em julgado do despacho denegatório de seguimento ao recurso extraordinário.
+    Diante do exposto, nega-se o seguimento ao recurso.”
+    Destaco que, na esteira da jurisprudência cristalizada do Supremo Tribunal Federal, a interposição de recurso manifestamente inadmissível ou incabível – na espécie, o manejo de agravo interno contra decisão que inadmitiu o recurso extraordinário –,  não interrompe nem suspende o prazo para a interposição do recurso cabível, a configurar a intempestividade do extraordinário. Precedentes desta Suprema Corte sobre a matéria:
+    “AGRAVO REGIMENTAL. DECISÃO DE INADMISSIBILIDADE DE RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DE EMBARGOS DECLARATÓRIOS INCABÍVEIS. NÃO INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DE AGRAVO. INTEMPESTIVIDADE. O agravo interposto da decisão que inadmitiu o recurso extraordinário é intempestivo, porquanto prevalece nesta Corte o entendimento de que os embargos de declaração opostos da decisão que, na origem, nega seguimento a recurso extraordinário, por serem manifestamente incabíveis, não suspendem ou interrompem o prazo para a interposição de recurso. Agravo regimental a que se nega provimento.” (ARE 728395 AgR, Relator(a):  Min. JOAQUIM BARBOSA (Presidente), Tribunal Pleno, julgado em 26/06/2013, PROCESSO ELETRÔNICO DJe-161 DIVULG 16-08-2013 PUBLIC 19-08-2013)
+    “Agravos regimentais no recurso extraordinário com agravo. Interposição de recurso manifestamente incabível, o qual não interrompe o prazo para a interposição de outros recursos. Intempestividade reconhecida. Apelo extremo que veicula matéria constitucional, na dicção da douta maioria, vencido, nesse ponto, o relator. 1. A interposição de recurso manifestamente incabível não interrompe o prazo para a interposição do recurso correto, o qual, se proposto a destempo, em razão desse fato, deve ser considerado intempestivo. 2. Recurso extraordinário fundamentado em matéria constitucional, a merecer apreciação por parte desta Corte. Provimento do apelo para a apreciação das questões constitucionais nele veiculadas. 3. Não provido o agravo regimental da AFABESP. Provido o agravo regimental do Banco Santander S.A.” (ARE 675945 AgR, Relator(a):  Min. DIAS TOFFOLI, Primeira Turma, julgado em 19/02/2013, ACÓRDÃO ELETRÔNICO DJe-082 DIVULG 02-05-2013 PUBLIC 03-05-2013)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de junho de 2018.
+Ministra Rosa Weber
+Relatora
