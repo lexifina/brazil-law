@@ -1,0 +1,33 @@
+DECISÃO
+PAULO ANDRÉ DE SOUZA ILÁRIO, paciente neste habeas corpus, estaria sofrendo constrangimento ilegal em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, nos autos da Habeas Corpus n. [CPF] (0351763-98.2016.8.21.7000).
+Depreende-se dos autos que o paciente foi condenado à pena de 9 anos, 9 meses e 10 dias de reclusão, em regime inicial fechado, além de 593 dias-multa, pela prática dos crimes descritos nos arts. 33 da Lei n. 11.343/2006 e 16, parágrafo único, IV, da Lei n. 10.826/2003 (fls. 9-22). Inconformada, a defesa interpôs recurso de apelação, que não foi recebido pelo Juízo de primeiro grau, em virtude de sua intempestividade (fl. 52).
+Nas razões deste writ, o impetrante alega que "está devidamente comprovado que o Paciente não foi pessoalmente intimado da sentença prolatada nos autos, razão pela qual sua inconformidade deve ser acatada, determinando-se a reabertura do prazo para apresentação do Recurso de Apelação conforme requerido anteriormente e indeferido pelo Juízo a quo" (fl. 4).
+Requer a concessão da ordem para que seja "desconstituída a decisão, ante a existência de nulidades absolutas e insanáveis, que maculam o direito do Réu o aqui paciente, determinado que o Juízo a quo receba o Recurso de Apelação e determine o envio dos Autos para regular processamento e julgamento junto ao Tribunal de Justiça do Estado do Rio Grande do Sul, sob pena de ter o Paciente seu direito de liberdade imediatamente privado" (fl. 8).
+O Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 64-66).
+Decido.
+De início, observo que, tal como destacado no parecer ministerial, a matéria suscitada neste writ - tempestividade do recurso de apelação - não foi apreciada pelo Tribunal a quo, de modo que seu exame diretamente por esta Corte Superior acarretaria indevida supressão de instância.
+No entanto, constato a ocorrência de flagrante ilegalidade, que reclama a concessão, ex officio, da ordem.
+Saliento, por oportuno, que o Superior Tribunal de Justiça, na esteira do posicionamento do Supremo Tribunal Federal, não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, agravo em execução, recurso especial), tampouco à revisão criminal, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus, situação configurada na hipótese.
+O impetrante questiona, neste writ e no feito originário, o reconhecimento da intempestividade da apelação defensiva. A Corte estadual, contudo, deixou de conhecer do habeas corpus lá impetrado, por inadmitir o writ como substitutivo do recurso adequado, não abordando os temas trazidos na inicial desta impetração, de modo que nada disse sobre a ocorrência de eventual ilegalidade. De fato, o Tribunal a quo limitou-se a destacar o não cabimento do habeas corpus interposto como substitutivo do recurso em sentido estrito. Confira-se (fl. 60):
+Através do presente writ, a defesa tenciona a reabertura de prazo para que o paciente ingresse com apelação criminal contra sentença condenatória prolatada em desfavor do mesmo.
+Inadequação da via eleita para discussão da matéria.
+A apelação não foi recebida na origem, por ser intempestiva e, no caso, o recurso cabível, a ser manejado pela defesa, era o recurso em sentido estrito - artigo 581, XV, do CPP.
+Com efeito, inapropriada, na via eleita, a discussão ventilada pela defesa do paciente, cabendo lembrar, ainda, o contido no artigo 392 - II, do CPP.
+Diante do exposto, não conheço da ordem impetrada.
+É o voto.
+Em vista disso, a leitura do acórdão impugnado me leva a constatar a existência de flagrante ilegalidade, uma vez que, consoante entendimento consolidado neste Superior Tribunal, não há óbice à utilização de habeas corpus quando, havendo lesão ou ameaça de lesão à liberdade de locomoção do paciente, tratar-se de matéria de direito e quando não houver a necessidade de dilação probatória, exatamente como ocorre na espécie dos autos.
+Ilustrativamente:
+ ..
+2. Hipótese em que o Tribunal de origem não conheceu da impetração originária - versando sobre a legalidade na imposição do regime inicial fechado -, por suposta inapropriação da via eleita. Não tendo havido o exaurimento da matéria pelas instâncias de origem, inviável a apreciação por esta Corte Superior de Justiça, sob pena de supressão de instância.
+3. Tratando-se de matéria exclusivamente de direito, não demandando revolvimento fático-probatório, inexiste óbice à análise do pedido formulado no habeas corpus originário, ainda que de ofício, nos termos do art. 654, § 2º, do CPP. Precedentes.
+4. Writ não conhecido. Ordem concedida, de ofício, para determinar, o retorno da impetração ao Tribunal de 2º Grau para que este examine o mérito do Habeas Corpus originário, decidindo como entender de direito, mormente quanto à possibilidade de concessão da ordem, de ofício.
+(HC n. 349.445/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 22/04/2016, grifei)
+ ..
+2. Hipótese em que a tese deduzida neste mandamus não foi debatida na instância originária, uma vez que o Tribunal a quo não conheceu da impetração sob o fundamento de que o remédio constitucional não poderia ser utilizado como substitutivo de recurso próprio. Impossibilidade de exame, sob pena de incorrer em supressão de instância.
+3. Nada obstante a existência de recurso específico, mostra-se cabível a impetração de habeas corpus sempre que a alegada ilegalidade estiver influenciando na liberdade de locomoção do indivíduo, o que ocorre nos autos (AgRg no HC 298.290/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/10/2014, e HC 294.717/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 14/10/2014).
+4. Ordem não conhecida. Habeas corpus concedido, de ofício, para determinar que o Tribunal de origem examine o mérito da impetração (HC n. 2217860-74.2015.8.26.0000), como entender de direito.
+(HC n. 346.963/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 27/05/2016, destaquei)
+Assim, tenho como perfeitamente cabível a análise, em habeas corpus, da questão suscitada perante a Corte estadual e aqui reiterada, qual seja, a discussão acerca da tempestividade do recurso de apelação interposto pela defesa.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, conceder habeas corpus, de ofício, para determinar o retorno dos autos ao Tribunal de origem, a fim de que se pronuncie acerca da ocorrência de eventual ilegalidade do ato apontado como coator.
+Comunique-se esta decisão, com urgência, às instâncias ordinárias.
+Publique-se e intimem-se.
