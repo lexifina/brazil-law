@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE RECURSAL. SUSPENSÃO DE EXPEDIENTE FORENSE. FALTA DE COMPROVAÇÃO POR MEIO DE DOCUMENTO IDÔNEO NO PRIMEIRO MOMENTO EM QUE A PARTE TEVE PARA SE MANIFESTAR NOS AUTOS. PRECLUSÃO. DECISÃO AGRAVADA MANTIDA. AGRAVO DESPROVIDO.
+1. Consoante a jurisprudência firmada sob a égide do CPC/1973, é possível a comprovação posterior da tempestividade do recurso, devendo a parte apresentar documento idôneo, capaz de evidenciar a prorrogação do prazo do recurso que se pretende seja conhecido por esta Corte Superior, na primeira oportunidade em que tiver para falar nos autos, sob pena de preclusão.
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por Recife Park Administração de Estac. e Garagens Ltda. - ME contra decisão proferida pela Presidência desta Corte Superior que não conheceu do agravo em recurso especial, porquanto intempestivo, bem como em razão da deserção do recurso, dada a ilegibilidade do comprovante de pagamento das custas e, portanto, impossibilidade de verificação de regularidade do preparo (e-STJ, fls. 402-403).
+Opostos embargos de declaração, foram acolhidos em parte, sem efeitos infringentes, apenas para afastar a ausência de preparo, ficando mantida a negativa de seguimento do apelo extremo (e- STJ, fls. 470-471).
+Nas razões recursais, a agravante alega ser possível a comprovação posterior da tempestividade do recurso e faz a juntada, para tanto, dos comunicados oficiais do Tribunal de origem indicando os feriados e recessos dos anos de 2015 e 2016.
+Pugna pela reconsideração do decisum agravado para que seja reconhecida a tempestividade do apelo extremo, com o prosseguimento do seu julgamento.
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+A jurisprudência desta Corte, de fato, admite a possibilidade de comprovação posterior da ocorrência de feriado local, nos casos em que o recurso especial é interposto sob a vigência do CPC/1973, a qual se daria, em regra, no ato de interposição de agravo regimental (hoje, agravo interno) contra a decisão que considerou intempestivo o recurso especial.
+Tal construção jurisprudencial se subsidiou na ideia de que a comprovação do feriado local poderia ser feita logo no primeiro momento no qual o recorrente tivesse para se manifestar sobre o conteúdo da decisão que reconheceu a intempestividade. Vale dizer que a primeira oportunidade, em regra, dá-se no ato da interposição do recurso cabível, isto é, no ato de propositura do agravo regimental (agravo interno).
+Entretanto, no caso, o agravo proposto pela recorrente foi precedido de embargos de declaração, os quais objetivaram, de maneira específica, sanear eventuais vícios existentes, tanto no que tange à constatação de sua deserção quanto à relacionada a sua intempestividade. Esta última, porém, com o argumento de que seria "desnecessário saber precisamente qual foi o período de suspensão dos prazos em virtude do recesso natalino no TJPE durante o final de 2015 e começo de 2016, uma vez que considerando apenas os feriados de natal e ano novo, o recurso encontra-se tempestivo" (e-STJ, fl. 410).
+Verifica-se, portanto, que, logo na primeira oportunidade que a recorrente teve para demonstrar a ocorrência de feriado local, independentemente do recurso interposto, deixou de fazê-lo. Não há como pretender protelar a possibilidade dessa comprovação indefinidamente. Logo, depois da decisão que reconheceu a intempestividade, era imperativo que fosse feita a comprovação do feriado local nos embargos de declaração, o que não ocorreu, operando-se sobre ela a preclusão.
+Tal situação, de per si, já é suficiente para a manutenção da decisão agravada acerca da intempestividade recursal. Com efeito, a decisão que inadmitiu o apelo extremo foi publicada em 18/10/2015 (e-STJ, fl. 373) e a interposição do agravo em recurso especial somente ocorreu em 5/1/2016 (e-STJ, fl. 377), ou seja, fora do prazo de 10 (dias) dias previsto no art. 544 do CPC/1973.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO PRÓPRIO RECURSO ESPECIAL EM RAZÃO DA SUA INTEMPESTIVIDADE - IRRESIGNAÇÃO DA RÉ.
+1. A Corte Especial do STJ, ainda na vigênica do CPC/1973, ao julgar o AgRg no AREsp 137.141/SE, firmou o entendimento de que a comprovação da tempestividade do recurso, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em agravo interno/regimental.
+2. Conforme entendimento do STJ, para demonstrar a tempestividade do recurso a parte deve comprovar, por meio de documento oficial idôneo ou certidão expendida pelo Tribunal de origem, a ocorrência de suspensão ou interrupção dos prazos processuais que impliquem a prorrogação do termo final para a interposição.
+3. A comprovação da tempestividade deve ser feita na primeira oportunidade que a parte tiver para manifestar-se, sob pena de preclusão.
+4. Agravo interno de fls. 212/219 (e-STJ) desprovido. Agravo interno de fls. 220/233 (e-STJ) não conhecido, por violação do princípio da unirrecorribilidade e por força da preclusão consumativa. (AgInt no AREsp 1.179.929/GO, Relator o Ministro Marco Buzzi, DJe de 2/5/2018).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
