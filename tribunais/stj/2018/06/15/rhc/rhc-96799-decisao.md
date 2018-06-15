@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME], MAXIMIANO TUCAÇA ISHIDA e JORGE DE ÁVILA, contra acórdão do Tribunal de Justiça do Estado do Paraná no julgamento do HC n. 0000482-97.2018.8.16.0000/0.
+Extrai-se dos autos que os recorrentes foram denunciados por terem supostamente praticado, entre 29/5/2001 e 4/2/2002, o delito previsto no art. 3º, inciso II, da Lei n. 8.137/90 (corrupção passiva contra a ordem tributária).
+Recebida a denúncia em 24/10/2012, a defesa arguiu nulidade por ausência de abertura do prazo para resposta à acusação, reconhecida pelo Juízo de primeiro grau por ocasião da prolatação de sentença, oportunidade na qual foi determinada a realização de nova análise quanto ao recebimento da acusação (fls. 36/37).
+Recebida a ratificação da denúncia, os recorrentes requereram a extinção da punibilidade por prescrição. O Juízo de primeiro grau afastou a questão e designou data para a audiência de instrução e julgamento (fls. 36/37).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem em acórdão assim ementado:
+HABEAS CORPUS CRIME - CRIME CONTRA A ORDEM TRIBUTÁRIA (ARTIGO 3º, INCISO II, DA LEI Nº 8.137/90) - PLEITO PARA DETERMINAR A EXTINÇÃO DA PUNIBILIDADE EM RAZÃO DE SUPOSTA OCORRÊNCIA DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA - NÃO ACOLHIMENTO - NÃO OCORRÊNCIA DO LAPSO TEMPORAL SUFICIENTE PARA CONFIGURAÇÃO DA PRESCRIÇÃO - DECISÃO QUE DETERMINOU A NULIDADE DOS ATOS A PARTIR DA DECISÃO QUE RECEBEU A DENÚNCIA E NÃO DA REFERIDA DECISÃO - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO - ORDEM DENEGADA (fl. 58).
+No presente recurso, sustenta ter havido o decurso integral do prazo prescricional porquanto julga inexistente sentença que tenha recebido validamente a denúncia.
+Afirma que, ao reconhecer a nulidade arguida, a decisão de primeiro grau anulou integralmente a decisão que recebeu a exordial acusatória, não havendo, portanto, interrupção do marco prescricional.
+Assevera ser incabível a interpretação do Tribunal de origem ao declarar que o decisum anulou "somente os atos praticados a partir da referida decisão" (fl. 86). Aduz que a legislação processual não permite o recebimento da denúncia por uma decisão e a determinação da citação por decisão subsequente.
+Pugna, assim, pelo reconhecimento da prescrição da pretensão punitiva.
+A liminar foi indeferida por decisão de fls. 129/131.
+O Ministério Público Federal opinou pelo desprovimento do recurso. (fls. 136/137).
+É o relatório.
+Decido.
+Com relação à alegação de que a sentença de primeiro grau declarou a nulidade integral da decisão que recebeu a exordial acusatória, inviável analisar a pretensão trazida pela defesa nas razões do presente recurso visto que não foi juntado aos autos a aludida decisão, impossibilitando a este Julgador o cotejo entre as razões suscitadas e o decidido pelo Tribunal de origem.
+Consoante orientação jurisprudencial desta Corte Superior cumpre à defesa a instrução dos autos com cópias das peças necessárias ao deslinde da controvérsia e demais documentos suficientes à elucidação dos fatos. Confira-se, por oportuno, o seguinte precedente:
+RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. CRIME DE RESPONSABILIDADE DE PREFEITO. CONVERSÃO DA REPRIMENDA RESTRITIVA DE DIREITOS EM PRIVATIVA DE LIBERDADE. ALEGAÇÃO DE NÃO ENFRENTAMENTO DAS TESES SUSCITADAS PELO TRIBUNAL A QUO. INSTRUÇÃO DEFICIENTE. INVIABILIDADE. MENÇÃO NA DECISÃO DE PRIMEIRO GRAU DE DEFICIÊNCIA NA REPRESENTAÇÃO DA PARTE. EXISTÊNCIA DE JUNTADA DA PROCURAÇÃO NOS AUTOS. ALEGAÇÃO DE MOTIVAÇÃO INIDÔNEA DA DECISÃO QUE DETERMINOU A CONVERSÃO DA PENA RESTRITIVA DE DIREITOS EM PRIVATIVA DE LIBERDADE. FALTA INJUSTIFICADA À AUDIÊNCIA ADMONITÓRIA. AUSÊNCIA DE VIOLAÇÃO AO DISPOSTO NO ART. 181, § 1º, B, DA LEP. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+1. A deficiência na instrução do processo inviabiliza a análise do pleito suscitado, uma vez que impossível realizar o cotejo entre as razões suscitadas e o decidido pelo Tribunal de origem.
+2. É dever da defesa instruir os autos com cópias das peças necessárias ao deslinde da questão e demais documentos suficientes à elucidação dos fatos.
+3. Evidente a juntada de petição de substabelecimento aos autos, seguida de manifestação do Juízo sobre pedido formulado, assente a capacidade postulatória do patrono da parte.
+4. A Lei de Execuções Penais é clara em seu art. 181, § 1º, b, ao permitir que a pena restritiva de direitos seja convertida em privativa de liberdade quando o condenado não comparecer, injustificadamente, à entidade ou programa em que deva prestar serviço.
+5. A falta injustificada enseja razão suficiente à conversão ao regime de cumprimento de pena inicialmente imposto na sentença condenatória, porquanto demonstra desídia do apenado com a pena imposta. Precedentes.
+6. Recurso em habeas corpus improvido.
+(RHC 71.093/PB, rel. Ministro SEBASTIÃO REIS JUNIOR, SEXTA TURMA, DJe 25.10.2016).
+De qualquer sorte, na esteira do consignado no acórdão recorrido, ex vi do contido no art. 517 do Código de Processo Penal, não há na lei proibição ao magistrado de analisar o recebimento da denúncia em uma decisão e, posteriormente, em outro despacho, determinar a citação dos acusados para a apresentarem resposta à acusação.
+Na singularidade do caso concreto, é possível decisão que decreta a nulidade dos atos processuais posteriores à decisão que recebeu a denúncia, mantendo, contudo, hígido o seu recebimento. Inalterado o referido ato de recebimento, conforme asseverado no parecer ministerial da lavra do douto Subprocurador-Geral da República [NOME], às fls. 136-137, "que não padecia de nenhum vício, não de pode deixar de considerá-lo válido para fins de interrupção da prescrição, conforme preceitua o art. 117, inciso I, do Código Penal".
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
