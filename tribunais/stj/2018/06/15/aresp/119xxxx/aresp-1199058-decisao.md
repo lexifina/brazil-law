@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que negou seguimento ao recurso especial com fundamento na impossibilidade de análise de matéria constitucional e na Súmula 7/STJ.
+Nas razões do especial, com fulcro no art. 105, III, a, da Constituição Federal, alega a defesa violação dos arts. 33, § 2º, c, 59, caput, e 44, todos do Código Penal.
+Sustenta não ser possível a utilização de condenações posteriores já transitadas em julgado para a exasperação da pena basilar, notadamente no patamar realizado pelo juízo originário. Alega também que o recorrente faz jus ao estabelecimento do regime aberto, e ainda à substituição da pena corpórea por restritiva de direitos.
+Requer, assim, o redimensionamento da pena-base, o estabelecimento do regime inicial aberto e a substituição da pena corporal pela restritiva de direitos.
+Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo não provimento do recurso especial.
+É o relatório.
+Decido.
+Consta dos autos que o agravante foi condenado à pena de 3 anos de reclusão, a ser cumprida inicialmente em regime fechado, e ao pagamento de 15 dias-multa, como incurso no art. 155, § 4º, IV, do Código Penal.
+Quanto à exasperação da pena-base em razão da presença de maus antecedentes e a fração de aumento, o acórdão assim decidiu (fl. 477):
+A pena-base de Cláudio foram, adequadamente, exasperadas em 1/2 (metade), em razão do acusado ostentar diversas condenações transitadas em julgado, consideradas como circunstância judicial desfavorável (fls. 117, 118, 130, 131, 133, 134 e 138).
+A sentença, por sua vez, assim fundamentou o aumento dos antecedentes (fl. 392):
+Na primeira fase (CP, art. 59, caput), em relação a CLÁUDIO, devem ser relevados os péssimos antecedentes de fls. 81 e ss. (inclusive com oito condenações definitivas, cinco delas específica, bem como uma por homicídio qualificado, que se constatam as fls. 117/8, 130/1, 133/4, 137/8), sobretudo porque demonstrativos de uma personalidade voltada para o crime e desdenhosa da lei e da Justiça; (..); diante de tudo isso, os réus merecem pena-base exasperada em 1/2 (para CLÁUDIO) e 1/4 (para HERIVALDO), mas com o valor do dia-multa calculado sobre o mínimo legal, ante suas modestas situações econômicas (CP, arts. 49 e 60), dado emergente dos autos.
+A jurisprudência desta Corte Superior é firme no sentido da possibilidade de utilização de condenações transitadas em julgado para a exasperação da pena-base à título de maus antecedentes, conduta social ou personalidade, desde que, no caso de valoração negativa de mais de uma circunstância judicial, sejam utilizadas condenações diversas para a valoração de cada circunstância sob pena de bis in idem, o que não ocorreu no caso em tela.
+Inexiste, ademais, aumento desproporcional da pena-base, tendo em vista a exasperação em metade, diante da existência de 8 condenações transitadas em julgado, culminando na fixação da pena final em 3 anos de reclusão e 15 dias-multa, diante da inexistência de outras causas modificativas.
+Nesses termos, confiram-se os seguintes precedentes:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. ART. 306 DO CTB.HABEAS CORPUS. ROUBO. DOSIMETRIA. PENA-BASE. CONSEQUÊNCIAS DO CRIME. ABALO PSICOLÓGICO DA VÍTIMA. ELEMENTO ÍNSITO. NECESSIDADE DE ESPECIFICAÇÃO DE FORMA CONCRETA. AFASTAMENTO DA CIRCUNSTÂNCIA JUDICIAL. PERSONALIDADE. CONDENAÇÕES PRETÉRITAS. PERÍODO DEPURADOR. FUNDAMENTO IDÔNEO. REINCIDÊNCIA. RECONHECIMENTO PELA INSTÂNCIA ORDINÁRIA POR MEIO DA DOCUMENTAÇÃO ACOSTADA AOS AUTOS. IMPOSSIBILIDADE DE REVERSÃO. DILAÇÃO PROBATÓRIA INDEVIDA NA VIA ESTREITA DO WRIT. ORDEM PARCIALMENTE CONCEDIDA.
+ ..
+2. A condenação por crime anterior, com trânsito em julgado, justifica a valoração negativa da circunstância judicial dos antecedentes, da conduta social ou da personalidade do agente, lastreando a exasperação da pena-base.
+3. Condenações anteriores transitadas em julgado, alcançadas pelo período depurador de 5 anos, consoante o art. 64, I, do CP, embora afastem os efeitos da reincidência, não impedem, em princípio, a configuração de maus antecedentes, permitindo o incremento da sanção inicial, inexistindo constrangimento ilegal no ponto.
+4. Considerando que as instâncias ordinárias reconheceram a reincidência do paciente com base nos documentos acostados aos autos, a reversão do referido entendimento demandaria dilação probatória, o que não se admite na via estreita do habeas corpus.
+5. Ordem parcialmente concedida para reduzir as penas impostas aos pacientes a 6 anos, 10 meses e 4 dias de reclusão e 16 dias-multa ([NOME]) e 7 anos de reclusão e 16 dias-multa ([NOME]).
+(HC 427906 / SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/03/2018, DJe 14/03/2018, grifei).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. COAÇÃO NO CURSO DO PROCESSO. ART. 344 DO CP. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. MAUS ANTECEDENTES, PRESENÇA DE TRÊS CONDENAÇÕES DEFINITIVAS DISTINTAS. POSSIBILIDADE. QUANTUM DE AUMENTO NA PRIMEIRA FASE. OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE.
+1. A jurisprudência desta Corte Superior admite a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes, da conduta social e da personalidade do agente, ficando apenas vedado o bis in idem.
+2. Considerando a existência de três condenações transitadas em julgado não valoradas na segunda etapa da dosimetria a título de reincidência, não se vislumbra ilegalidade na exasperação da pena-base pelos maus antecedentes da ré.
+3. Ocorre que o aumento determinado pela instância ordinária a título de maus antecedentes, ainda que levado em consideração tratar-se de três condenações, mostra-se desproporcional. Note-se que, muito embora a lei não estabeleça o patamar mínimo e o máximo para incidência de cada circunstância judicial, sedimentou-se nesta Corte Superior de Justiça a orientação de que o acréscimo superior a 1/6 (um sexto) para cada circunstância judicial desfavorável deve ser devidamente justificado.
+4. Assim, havendo três condenações para caracterização dos maus antecedentes, está autorizada a fixação da pena-base em patamar acima do mínimo, mostrando-se adequado e suficiente para reprovação e prevenção do delito o acréscimo em 1/2 (metade) na pena-base pelo reconhecimento dos maus antecedentes (três condenações transitadas).
+5. Agravo regimental não provido.
+(AgRg no AREsp 1116974 / MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/08/2017, DJe 01/09/2017, grifei).
+No tocante ao regime inicial de cumprimento e à substituição da pena corporal, o Tribunal de origem exarou o seguinte entendimento (fl. 478/479):
+Quanto a Cláudio, a fixação do regime fechado como inicial para o cumprimento da sanção corporal apresenta-se como compatível com as condições pessoais do apelante, que ostenta diversas condenações anteriores transitadas em julgado.
+Pelos mesmos motivos e razões, Cláudio faz jus a qualquer espécie de benefício.
+De fato, havendo antecedentes criminais, não faz jus o recorrente à substituição da pena corporal, a despeito da sanção inferior a 4 anos, porque não cumpridos os requisitos do art. 44 do Código Penal. A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. ESTELIONATO. REGIME MAIS GRAVOSO. PENA-BASE ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES. § 3º DO ART. 33 DO CÓDIGO PENAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. FALTA DE PREENCHIMENTO DE REQUISITO SUBJETIVO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+IV - O artigo 44 do Código Penal estabelece que: "As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando: I - aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo; II - o réu não for reincidente em crime doloso; III - a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente."
+V - Na hipótese, considerando que a paciente detém circunstância judicial desfavorável (maus antecedentes), as razões exaradas pelas instâncias ordinárias se encontram devidamente fundamentadas e idôneas, inexistindo constrangimento ilegal a ser sanado nesta via. Precedentes.
+Habeas corpus não conhecido.
+(HC 439877 / SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/04/2018, DJe 20/04/2018, grifei).
+Por fim, ainda que haja fundamento para a fixação de regime inicial mais gravoso, vislumbra-se desproporcional o estabelecimento do regime fechado tendo em vista o quantum de pena imposta, sendo de rigor o abrandamento do regime para o semiaberto. Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. FURTO QUALIFICADO. REGIME PRISIONAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MANUTENÇÃO DO REGIME SEMIABERTO.
+ ..
+2. Consoante dispõe o art. 33, §§ 1º, 2º e 3º, do Código Penal, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do CP).
+3. No caso dos autos, em que pese ao quantum de pena estabelecido (2 anos de reclusão), as instâncias de origem consideraram as consequências do delito como circunstância judicial desfavorável ao paciente, tanto que a pena-base foi fixada acima do mínimo legal, revelando-se, assim, adequada a manutenção do regime semiaberto para o início do cumprimento da reprimenda, nos termos dos arts. 33, § 3º, e 59 do Código Penal e conforme a jurisprudência desta Casa.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC 423989 / SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 06/03/2018, DJe 12/04/2018, grifei).
+Ante o exposto, conheço do agravo e dou parcial provimento ao recurso especial para fixar o regime inicial semiaberto.
+Publique-se.
+Intimem-se.
