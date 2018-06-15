@@ -1,0 +1,30 @@
+EMBARGOS DE DECLARAÇÃO EM DECISÃO MONOCRÁTICA. DIREITO ADMINISTRATIVO E DIREITO PROCESSUAL CIVIL. PUBLICIDADE OFENSIVA. CARACTERIZAÇÃO DE DANO MORAL. PREMISSAS DE ORIGEM. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. AFRONTA OBLÍQUA. OMISSÃO. INOCORRÊNCIA. CARÁTER MERAMENTE INFRINGENTE. APELO EXTREMO E DECLARATÓRIOS MANEJADOS SOB A VIGÊNCIA DO CPC/2015. EMBARGOS REJEITADOS.
+    1. O artigo 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    2. Não se prestam os embargos de declaração, não obstante sua vocação democrática e a finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas na decisão embargada.
+    3. Ausência de contradição, omissão e obscuridade justificadoras da oposição de embargos declaratórios, a teor do art. 1022 do CPC/2015, a evidenciar o caráter meramente infringente da insurgência.
+    4. Embargos de declaração rejeitados.
+    Vistos etc.
+    Trata-se de embargos de declaração opostos de decisão monocrática, da minha lavra, pela qual negado seguimento a agravo em recurso extraordinário, ao fundamento do caráter oblíquo da matéria que versa sobre pedido de indenização aos profissionais de enfermagem devido a mensagens publicitárias veiculadas pela embargante.
+    A parte embargante aduz omisso o julgado, ao articular direta a ofensa a preceitos constitucionais. Defende não analisadas as teses recursais atinentes “à incompatibilidade da decisão recorrida com a égide constitucional vigente que tutela os valores da liberdade de trabalho (art. 5°, XIII, da CF/88), e à possibilidade de indenização coletiva do direito à honra e à imagem das pessoas, afrontando regra do art. 5°, V e X, da CF/88. Requer a concessão de efeitos infringentes para apreciar o mérito do apelo extremo, com seu provimento.
+    Intimada a parte adversa, o prazo transcorreu in albis.
+    Destaco cuidar-se de recurso extraordinário aparelhado na afronta aos arts. 5º, V, X e XIII, e 220, §§ 1º e 2º, da Constituição Federal, interposto contra acórdão do TRF-4, de cujo teor extraio:
+    "ADMINISTRATIVO. PROCESSUAL CIVIL. VEICULAÇÃO DE PUBLICIDADE OFENSIVA. CARACTERIZAÇÃO DE DANO MORAL. LEGITIMIDADE ATIVA DO COREN/RS. POSSIBILIDADE DE RECEBIMENTO DE INDENIZAÇÃO POR DANO MORAL POR PESSOA JURÍDICA. Parcial provimento do recurso do COREN/RS e improvimento do recurso adesivo"
+    É o relatório.
+    Decido.
+    Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios, opostos já na vigência do Novo Código de Processo Civil (Lei nº 13.105/2015).
+    O artigo 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    Com base, pois, nesse permissivo legal, procedo à apreciação singular destes declaratórios, independentemente do caráter infringente que ostentam.
+    Inexistente vício a ensejar estes embargos declaratórios.
+    Com efeito, sobrelevo devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, consideradas, a teor do art. 489, IV, do CPC/2015, bem como da jurisprudência desta Corte, aquelas assertivas recursais capazes de, em tese, infirmar a conclusão adotada pelo julgador. Precedentes: AR 2374 AgR-ED, Tribunal Pleno, Relator Min. Teori Zavascki, DJe 15.9.2016 e ARE 919777 AgR-ED, Tribunal Pleno, Relator Min. Ricardo Lewandowski (Presidente), DJe 21.9.2016.
+    Observo inexistente a sustentada omissão na decisão embargada, haja vista didaticamente explanado o entendimento de que a apreciação do pleito recursal – suposta infringência aos dispositivos constitucionais suscitados ante obrigação de indenizar decorrente da veiculação de publicidade reputada ofensiva – demanda a inelutável reelaboração do quadro fático delineado, providência inviável nesta estreita via recursal, verbis:
+    “O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”
+    Como se observa, devidamente salientado que, mantidas as premissas de origem, porquanto inalteráveis nesta via estreita, o consectário é que não se denota afronta aos dispositivos constitucionais elencados.
+    Enfatizo não se ressentir do vício da omissão, contradição ou obscuridade, ao feitio legal, o decisum no qual se assenta, de forma clara, a inviabilidade do apelo extremo, haja vista não preenchido o requisito do art. 102, III, da Constituição Federal, em razão de ofensa oblíqua à Constituição da República.
+    Dessa forma, torno a enfatizar ausente qualquer vício apto a aclaratórios na decisão embargada, despiciendo cuidar de todas as asserções abarcadas pela parte embargante, haja vista que o apelo extremo não logrou ultrapassar a barreira do conhecimento.
+    Sublinho, por derradeiro, que não se prestam, os embargos de declaração, em qualquer hipótese, não obstante a vocação democrática que lhes é pertinente e presente sua finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas.
+    Majoração em 10% (dez por cento) dos honorários advocatícios anteriormente fixados à parte embargante, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça.
+    Rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 15 de junho de 2018.
+Ministra Rosa Weber
+Relatora
