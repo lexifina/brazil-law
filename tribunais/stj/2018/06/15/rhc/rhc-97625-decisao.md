@@ -1,0 +1,7 @@
+DECISÃO
+[NOME], ora recorrente, alega sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 2009416-31.2018.8.26.0000.
+Nesta Corte, o impetrante sustenta a ocorrência de indevido cerceamento de defesa, diante da negativa do Juízo singular em expedir ofício aos moradores de residências em frente às quais o paciente teria transitado na data da suposta prática delitiva. Ressalta que a obtenção de tais imagens evidenciaria que ele "estava em local diverso dos crimes" (fl. 339).
+Requer, assim, seja determinada a expedição dos respectivos ofícios, bem como a soltura do paciente, dado o excesso de prazo no encerramento do feito.
+Todavia, em consulta ao sítio eletrônico do Tribunal a quo, verifiquei que, em 4/4/2018, foi proferida sentença condenatória. Dessa forma, realizado o juízo de cognição exauriente, no bojo da persecução penal deflagrada, tem-se a certeza da prática do delito de roubo circunstanciado pelo paciente, a evidenciar a prejudicialidade deste mandamus, em que se afirma a ausência de indícios de autoria. Além disso, a prolação da sentença também afasta a alegação de excesso de prazo para o encerramento do feito, nos termos da Súmula n. 52 desta Corte Superior de Justiça.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado o recurso, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
