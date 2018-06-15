@@ -1,0 +1,14 @@
+DECISÃO
+
+LUCAS LIMA OURO alega sofrer coação ilegal em decorrência de decisão denegatória de liminar, proferida por Desembargador do Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 0029938-11.2018.8.19.0000).
+Narra a impetração que, em 25/5/2018, o paciente "teve sua prisão em flagrante convertida em prisão preventiva" (fl. 3) sem embasamento "em fatos concretos, sendo utilizada  motivação  de forma genérica, ferindo o art. 93, IX, da Constituição".
+O advogado assinala que "o paciente não anuiu com a conduta translocada de seu colega de trabalho, não fazendo qualquer menção de grave ameaça a vítima, e se mostrou indignado com a conduta  .. , levando os policiais até a residência do mesmo" (fl. 4).
+Requer, por isso, a superação da Súmula n. 691 do STF e concessão liminar de sua soltura.
+Decido.
+Permite-se a superação da Súmula n. 691 do STF em casos excepcionalíssimos, insólitos, em que a teratologia do ato apontado como coator é tão evidente que desperta o tirocínio do aplicador do direito, sem nenhuma margem de dúvida ou divergência de opiniões, sob pena de prejuízo ao poder de julgar organizado e à hierarquia dos graus de jurisdição.
+A decretação da prisão cautelar deve ser excepcional e provisória. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+A teor do auto de prisão em flagrante, policiais foram avisados "por um motorista que dois homens tinham acabado de assaltar uma pessoa"; ato contínuo, os milicianos avistaram "dois autores que vinham correndo por uma rua", um deles fugiu, mas o outro, o ora paciente, foi abordado. O condutor narra que o ofendido se aproximou e "reconheceu LUCAS como um dos autores e reconheceu o celular recuperado como sendo de sua propriedade" (fl. 15). Nesse cenário, a um primeiro olhar, não é possível acolher a tese de que o paciente não participou do crime.
+Quanto ao periculum libertatis, não verifico, ictu oculi, a assinalada ausência de motivação judicial. O Magistrado embasou sua decisão em elementos concretos dos autos, pois afirmou que "houve grave ameaça e concurso de pessoas contra vítima adolescente, o que revela a alta periculosidade do agente e a necessidade da prisão como garantia da ordem pública" (fl. 20).
+Ao menos nessa fase inicial, não é possível reconhecer, com inequívoca certeza, a suficiência de outras cautelares previstas no art. 319 do CPP. Os autos não estão instruídos com a denúncia, o Juiz não prestou informações e o Ministério Público não opinou sobre o pedido. Nem sequer existem informações sobre os antecedentes do suspeito.
+Não está caracterizada patente teratologia jurídica a justificar a mitigação da Súmula n. 691 do STF.
+À vista do exposto, indefiro liminarmente este habeas corpus, com fulcro no art. 210 do RISTJ.
