@@ -1,0 +1,24 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Victor Hugo Anuvale Rodrigues em favor de Douglas Vinicius Pinheiro Costa, contra decisão monocrática da lavra do Ministro Sebastião Reis Junior, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 450.656/SP.
+    O paciente foi preso preventivamente pela suposta prática do crime de tráfico de drogas, tipificado no art. 33 da Lei 11.343/2006.
+    Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça de São Paulo/SP, que indeferiu a liminar.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Sebastião Reis Junior, indeferiu liminarmente o HC 450.656/SP.
+    No presente writ, o Impetrante pugna pelo afastamento da Súmula 691/STF. Alega inidônea a fundamentação do decreto prisional, porquanto lastreada na gravidade abstrata do delito, além de ausentes seus requisitos autorizadores. Ressalta que o paciente é portador de problemas de saúde, inimputável e interditado civilmente. Aduz excesso de prazo para formação de culpa. Argumenta a existência de circunstâncias favoráveis ao paciente, como primariedade, bons antecedentes, residência fixa e ocupação lícita. Requer, em medida liminar e no mérito, a revogação da prisão preventiva e, sucessivamente, a aplicação de medidas cautelares diversas da prisão.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “(...).
+    As Turmas integrantes da Terceira Seção desta Corte, na esteira do preceituado na Súmula n. 691/STF, têm entendimento pacificado de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar em ação de igual natureza, ajuizada nos Tribunais de segundo grau.
+    Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que, por ora, não se observa, porquanto, destacou o Magistrado que o corréu, respondendo em liberdade pela prática de tentativa de homicídio, foi preso aos 05.03.2018 em flagrante delito pela prática do tráfico de drogas e o denunciado Douglas cumpria pena em regime aberto pela prática do tráfico de drogas (fl. 39).
+    E, aqui, há a compreensão de que o histórico criminal do agente, a revelar fundado receio de reiteração na prática criminosa, autoriza, por si só, o decreto de prisão preventiva como forma de garantir a ordem pública, nos termos do art. 312 do Código de Processo Penal (HC n. 327.626/SP, da minha relatoria, Sexta Turma, DJe 25/11/2015).
+    Inviável, portanto, a pretendida supressão de instância. Convém aguardar o trâmite regular do habeas corpus impetrado da origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+    Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente a petição inicial”.
+    Registro a existência de óbice ao conhecimento do presente writ, ainda que não se trate, nesta Casa, de hipótese alcançada pela Súmula 691/STF, pertinente a indeferimento de liminar em habeas corpus, e não a indeferimento liminar do habeas, uma vez não esgotada a jurisdição do Superior Tribunal de Justiça, pois o ato impugnado é decisão monocrática extintiva do writ e não o resultado de julgamento colegiado. Deveria a Defesa, pretendendo a reforma da decisão monocrática, ter manejado agravo regimental para que a questão fosse apreciada pelo órgão colegiado (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    O ato apontado como coator observou, este sim, que a pretensão veiculada naquela Corte estaria desde logo a esbarrar na Súmula nº 691/STF ( Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar ), analogicamente aplicada porquanto voltada contra o indeferimento de liminar, pelo Relator, do Tribunal de Justiça, na impetração naquela Corte instaurada. Ainda que a compreensão expressa em tal verbete sumular seja abrandada em alguns julgamentos desta Suprema Corte em hipóteses excepcionais, de flagrante ilegalidade, teratologia ou abuso de poder, por não ser o caso dos autos, segundo o Superior Tribunal de Justiça, indeferido liminarmente o writ perante aquela Corte impetrado.
+    Ao indeferir o pedido de liminar, o Tribunal de Justiça não vislumbrou presentes os requisitos ensejadores da imediata soltura do paciente, reservando a definição da matéria ao pronunciamento do colegiado.
+    Dessa forma, dar trânsito ao writ significaria duplicar a instrução, que já está sendo realizada, e apreciá-lo no mérito implicaria suprimir instâncias.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de junho de 2018.
+Ministra Rosa Weber
+Relatora
