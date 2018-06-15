@@ -1,0 +1,46 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. ESTELIONATO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO INIDÔNEA. RECURSO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. O Juízo singular decretou a custódia preventiva do réu diante da frustração das tentativas de sua citação - expedição de um mandado e de um edital com essa finalidade -, sem indicar, com base em elementos concretos, que, efetivamente, o recorrente pretendia se furtar à aplicação da lei penal ou que, em liberdade, pudesse colocar em risco a ordem pública ou a própria instrução processual.
+3. Recurso provido para assegurar ao acusado o direito de responder à ação penal em liberdade, ressalvada a possibilidade de nova decretação da custódia cautelar se efetivamente demonstrada a sua necessidade, sem prejuízo de fixação de medida cautelar alternativa, nos termos do art. 319 do CPP.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, dar provimento ao recurso ordinário, com extensão ao corréu, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro e Sebastião Reis Júnior votaram com o Sr. Ministro Relator. Ausente, justificadamente, a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+[NOME] DE [NOME] [NOME], ora recorrente, alega sofrer constrangimento ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.18.006532-8/000.
+Nesta Corte, a defesa sustenta a ausência de motivação idônea para decretar a prisão preventiva do réu, pela suposta prática de crime de estelionato.
+Requer, liminarmente e no mérito, a revogação da custódia cautelar.
+Deferida a liminar (fls. 131-134), o Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 142-146).
+EMENTA
+RECURSO EM HABEAS CORPUS. ESTELIONATO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO INIDÔNEA. RECURSO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. O Juízo singular decretou a custódia preventiva do réu diante da frustração das tentativas de sua citação - expedição de um mandado e de um edital com essa finalidade -, sem indicar, com base em elementos concretos, que, efetivamente, o recorrente pretendia se furtar à aplicação da lei penal ou que, em liberdade, pudesse colocar em risco a ordem pública ou a própria instrução processual.
+3. Recurso provido para assegurar ao acusado o direito de responder à ação penal em liberdade, ressalvada a possibilidade de nova decretação da custódia cautelar se efetivamente demonstrada a sua necessidade, sem prejuízo de fixação de medida cautelar alternativa, nos termos do art. 319 do CPP.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Extrai-se dos autos que o Ministério Público ofertou denúncia contra o ora recorrente e outro investigado, pela suposta prática do crime previsto no art. 171, caput, do Código Penal, em 7/3/2015.
+Em 11/8/2017, o Juízo de primeiro grau decretou a custódia preventiva do recorrente sob a seguinte motivação (fl. 16):
+Nos termos do art. 366, do CPP c/c art. 396, parágrafo único do CPP, tendo em vista que o réu [NOME], citado por Edital, não ofereceu a resposta a que alude o art. 396 do CPP, [NOME], bem como o prazo prescricional.
+Outrossim, tendo em vista que a ausência do réu inviabiliza o prosseguimento do feito em prejuízo à efetividade da instrução criminal, obstaculizando a aplicação da lei penal, nos termos dos arts. 312 e 366 do CPP (aqui aplicados supletivamente), DECRETO A PRISÃO PREVENTIVA do acusado [NOME] DE [NOME] [NOME], determinando a expedição de mandado de prisão, com validade até 22/04/2028, devendo o réu ser apresentado a este juízo tão logo seja preso, para prosseguimento regular do feito.
+Fica resguardado ao RMP o direito de pleitear a produção antecipada de provas, devendo, para tanto, declinar a urgência das provas que, antecipadamente, haverão de ser realizadas.
+Irresignada, a defesa impetrou o writ originário. A Corte estadual denegou a ordem, por entender que "a fuga do Paciente, que não forneceu endereço nos autos para ser intimado, colocando-se, pois, em local incerto e não sabido (f. 12 e 14), autoriza a decretação da custódia cautelar, por conveniência da instrução criminal e para assegurar a aplicação da lei penal" (fl. 79).
+Ao prestar informações, o Juízo de primeiro grau esclareceu que (fl. 119, destaque no original):
+Em tentativa de citação do recorrente, para fins do art. 396 do CPP, o mesmo não foi encontrado (fls. 41vº e 79Vº - cópias em anexo).
+Citado o recorrente por Edital em 05/06/2017, tendo decorrido "in albis" o prazo para manifestação.
+Apresentada defesa pelo recorrente, por negativa geral, em 01/08/2017.
+Em decisão deste juízo, proferida em 11/08/2017, foi suspenso o processo, nos termos do art. 366 do CPP, decretando-se a prisão preventiva do recorrente (fls. 118 - cópia em anexo).
+Expedido Mandado de" Prisão em desfavor do
+recorrente em 04/12/2017, este que não foi cumprido até a presente data, encontrando-se o feito no aguardo do cumprimento do mesmo.
+Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+Apoiado nessa premissa, constato que não se mostram suficientes as razões invocadas pelo Juízo singular para embasar a decretação da prisão preventiva do ora recorrente, porquanto deixou de contextualizar, em dados concretos dos autos, o periculum libertatis.
+Na espécie, o Juízo singular decretou a custódia preventiva do réu diante da frustração das tentativas de sua citação - expedição de um mandado e de um edital com essa finalidade -, sem indicar, com base em elementos concretos, que, efetivamente, o recorrente pretendia se furtar à aplicação da lei penal ou que, em liberdade, pudesse colocar em risco a ordem pública ou a própria instrução processual.
+Ressalto, por oportuno, que a Sexta Turma desta Corte Superior reconheceu a ilegalidade da ordem de prisão preventiva fundada exclusivamente no fato de o acusado haver sido citado por edital e não haver comparecido aos autos e, por conseguinte, revogou a custódia cautelar de [NOME] (corréu do ora recorrente na Ação Penal n. 0145.15.016304-9, objeto deste recurso).
+Trata-se do acórdão proferido no RHC n. 87.435/MG (Rel. Ministro Rogerio Schietti, 6ª T., DJe 4/12/2017), assim ementado:
+RECURSO EM HABEAS CORPUS. ESTELIONATO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO INSUFICIENTE. RECURSO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme em assinalar que a determinação de segregar cautelarmente o réu deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da cautela (periculum libertatis), à luz do disposto no art. 312 do CPP.
+2. O Juízo de primeiro grau justificou a decretação da custódia preventiva com base na alegação de que foram frustradas as tentativas de citação do réu - expedição de um mandado de citação e de um edital com a mesma finalidade -, sem indicar, com base em elementos concretos, que, efetivamente, o recorrente pretendia se furtar à aplicação da lei penal ou que, em liberdade, pudesse colocar em risco a ordem pública ou a econômica.
+3. Recurso provido para assegurar ao réu o direito de responder à ação penal em liberdade, ressalvada a possibilidade de nova decretação da custódia cautelar se efetivamente demonstrada a sua necessidade, sem prejuízo de fixação de medida cautelar alternativa, nos termos do art. 319 do CPP.
+Assim, como a situação do ora recorrente é idêntica à do corréu [NOME], identifico a ocorrência de flagrante ilegalidade na espécie.
+À vista do exposto, dou provimento ao recurso para assegurar ao acusado o direito de responder à ação penal em liberdade, ressalvada a possibilidade de nova decretação da custódia cautelar se efetivamente demonstrada a sua necessidade, sem prejuízo da fixação de medida cautelar alternativa, nos termos do art. 319 do CPP.
