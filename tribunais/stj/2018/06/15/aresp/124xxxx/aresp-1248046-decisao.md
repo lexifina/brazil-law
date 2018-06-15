@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] DO NASCIMENTO, de decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial ofertado com apoio no art. 105, III, "a", da Constituição Federal.
+A defesa, nas razões do recurso especial, aponta contrariedade do art. 33, § 4.º, da Lei n. 11.343/2006 e do art. 33, § 2.º, b ou c, e § 3.º, do Código Penal.
+ Assevera que, no caso, não houve demonstração inequívoca de que o recorrente se dedica a atividade criminosa, razão pela qual faz jus à minorante do § 4.º do art. 33 da Lei n. 11.343/2006.
+Sustenta que o regime fechado foi estabelecido com base na gravidade em abstrato do delito.
+Requer, assim, que seja aplicada a causa de diminuição prevista no § 4º, do artigo 33, da Lei 11.343/2006, bem como seja fixado regime inicial diverso do fechado.
+Contrarrazões apresentadas às e-STJ, fls. 317-333.
+Inadmitido o recurso especial com base na Súmula 284/STF e na Súmula 7/STJ (e-STJ, fls. 336-337), os autos ascenderam a esta Corte.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo e, caso conhecido, pelo não conhecimento do recurso especial. (e-STJ, fls. 396-403).
+É o relatório.
+Decido.
+Preenchidos os pressupostos de admissibilidade, conheço dos agravos e passo ao exame dos recursos especiais.
+O acórdão recorrido encontra-se fundamentado nos seguintes termos:
+"Passemos então a dosimetria do delito de tráfico ilícito de entorpecentes.
+Em face das circunstâncias judiciais favoráveis, fixo para ambos os corréus, a pena-base no mínimo legal, ou seja, 05 anos de reclusão e pagamento de 500 dias-multa, no piso.
+Na fase seguinte, comprovou-se apenas a reincidência do corréu [NOME]  fls. 112, inexistindo nos autos qualquer certidão comprobatória da reincidência do corréu Fabrício, conforme alegado pelo Ministério Público.
+Desta forma, aplico para o corréu [NOME] o aumento de 1/6 na sua reprimenda, o que perfaz: 05 anos e 10 meses de reclusão e pagamento de 583 dias-multa, no piso.
+Com relação a causa de diminuição prevista no §41, do artigo 33, da Lei 11.343/06, inaplicável para ambos os corréus pela ausência do cumprimento dos requisitos legais.
+Isto porque, o corréu [NOME] é comprovadamentc reincidente  fls. 112 e, quanto ao corréu [NOME], segundo informações de seu próprio comparsa  fls. 06, o mesmo já vendia entorpecentes para os consumidores do Vale do Anhangabaíl, portanto, se dedica a atividade criminosa, restando, desta forma, incabível a concessão da benesse. Não bastasse essa afirmativa, [NOME] já sofreu condenações anteriores e cumpriu pena, como bem demonstra a Folha de Antecedentes juntada aos autos.
+Em face do "quantum" de pena aplicada, também incabível a substituição legal. Outrossim, com efeito os arts. 33, § 4º e 44 "caput", ambos da Lei nº 11.343/06, impedem que os condenados pela prática dos crimes definidos nos arts. 33 "caput" e inciso I e arts 34 a 37, todos da referida lei de entorpecentes, sejam beneficiados com a substituição da pena privativa de liberdade pela restritiva de direitos.
+ ..
+Conclui-se, portanto, que o crime continua grave e hediondo, sendo que tal substituição não se mostra suficiente para reprovação e prevenção do crime, portanto, inaplicável sua concessão.
+No mesmo diapasão, a fixação de regime inicial de cumprimento de pena. A imposição de regime fechado para início do cumprimento da pena é o reflexo esperado por conta do tratamento mais rigoroso dado pela Constituição da República ao crime de tráfico ilícito de drogas que, inclusive, é equiparado à categoria de crime hediondo pela legislação infraconstitucional.
+O tratamento mais severo configura eficiente medida político-criminal, harmonizando a legislação brasileira aos Tratados Internacionais de que o país é signatário, referentes ao combate contra a traficância ilícita, sobretudo diante do alto índice de drogas produzidas no país e a localização estratégica do Brasil como rota para a entrada c saída de entorpecentes para distribuição nacional e internacional.
+Ademais, o elevado poder de disseminação das substâncias perniciosas, demandam a imposição de regime mais severo, fixando-se, portanto, o regime inicial fechado para cumprimento de pena.
+Isto posto, pelo meu voto, dá-se parcial provimento ao recurso interposto pelo Ministério Público, tão somente para condenar o correu [NOME] ao cumprimento da pena de 05 (cinco) anos e 10 (dez) meses de reclusão , em regime inicial fechado e pagamento de 583 dias-multa, no piso, bem como [NOME] ao cumprimento da pena de 05 (cinco) anos de reclusão, em regime inicial fechado e pagamento de 500 dias-multa, no piso, ambos como incurso no artigo 33, "caput", da Lei 11.343/06, mantendo-se, no mais, a r. Sentença recorrida." (e-STJ, fls. 246-249)
+No que se refere à incidência do redutor pelo tráfico privilegiado, não assiste razão à defesa.
+A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas poderão ter a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades delituosas ou integrarem organização criminosa.
+Em relação à validade das condenações definitivas consideradas como maus antecedentes, o Superior Tribunal de Justiça tem entendimento de que o tempo transcorrido após o cumprimento ou a extinção da pena não impede a análise desfavorável de tais circunstâncias, tendo em vista a adoção pelo Código Penal do sistema da perpetuidade, ao contrário do que se verifica na reincidência (CP, art. 64, I), pois o legislador não limitou temporalmente a configuração dos maus antecedentes ao período depurador quinquenal (AgRg no AREsp 1.123.655/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 5/9/2017, DJe 13/9/2017; AgRg no AREsp 1.068.053/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/8/2017, DJe 23/8/2017).
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. CONDENAÇÃO ANTERIOR ATINGIDA PELO PERÍODO DEPURADOR. ART. 64, I, DO CÓDIGO PENAL. POSSIBILIDADE DE UTILIZAÇÃO COMO MAUS ANTECEDENTES. SÚMULA 83/STJ.
+1. A orientação jurisprudencial do Superior Tribunal de Justiça é firme acerca da possibilidade da valoração negativa, como maus antecedentes, das condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, I, do Código Penal.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 1011953/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/02/2017, DJe 16/02/2017)
+In casu, conforme se vê da Certidão de Execução Criminal (e-STJ, fls. 82-83), o recorrente ostenta maus antecedentes, portanto, é incabível a aplicação do redutor por ausência de preenchimento dos requisitos legais.
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. COMPROVAÇÃO POSTERIOR DA TEMPESTIVIDADE DO RECURSO. SUSPENSÃO DOS PRAZOS NO TRIBUNAL DE ORIGEM. POSSIBILIDADE. TRÁFICO DE DROGAS. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES E NATUREZA DAS DROGAS. DESPROPORCIONALIDADE NÃO CONFIGURADA. MINORANTE DO ART. 33, § 4º, DA LEI DE DROGAS. MAUS ANTECEDENTES. BIS IN IDEM. NÃO OCORRÊNCIA. REGIME PRISIONAL MAIS GRAVOSO. FUNDAMENTAÇÃO CONCRETA. POSSIBILIDADE. AGRAVO REGIMENTAL PROVIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+ ..
+2. A Lei n. 11.343/2006 veda a aplicação da minorante do tráfico privilegiado ao réu possuidor de maus antecedentes, não caracterizando bis in idem a sua valoração concomitante, na primeira fase da dosimetria, para exasperar a pena-base.
+3. Estabelecida pena superior a 4 anos de reclusão e inferior a 8, admite-se a imposição do regime inicial fechado, em virtude da existência de circunstância judicial desfavorável e da variedade de droga apreendida, nos termos do art. 33, § 3º, do CP.
+4. Agravo regimental provido para conhecer do recurso especial e negar-lhe provimento."
+(AgRg no REsp 1605505/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/10/2016, DJe 7/11/2016).
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AFASTAMENTO DA CAUSA DE DIMINUIÇÃO. AUSÊNCIA DOS REQUISITOS LEGAIS. MAUS ANTECEDENTES. DEDICAÇÃO. VIA ESPECIAL IMPRÓPRIA PARA ANÁLISE DE OFENSA A DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os requisitos legais para o deferimento da causa especial de diminuição de pena do art. 33, § 4º, da Lei de Drogas são: agente reconhecidamente primário, com bons antecedentes e que não se dedique a atividades criminosas ou integre organização criminosa.
+2. Conquanto não se desconheça que o Supremo Tribunal Federal ainda há de se manifestar quanto ao interregno de tempo para sopesar uma condenação anterior como maus antecedentes (RE 593.818/SC), deve-se prestigiar a jurisprudência pacífica do Superior Tribunal de Justiça no sentido de que não há constrangimento ilegal na consideração de condenações extintas há mais de cinco anos para fins de maus antecedentes, de modo a afastar a aplicação da minorante do artigo 33 do § 4º da Lei nº 11.343/06, que requisita que o agente seja primário, tenha bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+3. Na hipótese, verifica-se que a dedicação do recorrido às atividades criminosas se infere da existência de condenações passadas em seu desfavor.
+4. No que concerne à alegada violação do artigo 5º, X, da Constituição Federal, tem-se que tal pleito não merece subsistir, uma vez que a via especial é imprópria para o conhecimento de ofensa a dispositivos constitucionais. 5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1061184/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/08/2017, DJe 28/08/2017)
+Quanto ao regime prisional, cumpre destacar que a obrigatoriedade do regime inicial fechado aos sentenciados por crimes hediondos e os a eles equiparados não mais subsiste, diante da declaração de inconstitucionalidade, incidenter tantum, do § 1º do art. 2º da Lei n. 8.072/1990, pelo Supremo Tribunal Federal, no julgamento do HC 111.840/ES.
+Na definição do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal e, na hipótese de condenado pelo crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006, segundo o qual serão consideradas com a preponderância a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal.
+No caso, embora a pena tenha sido estabelecida em patamar inferior a oito anos de reclusão, o regime fechado (previsto como o imediatamente mais grave, segundo o quantum da sanção aplicada) é o adequado à prevenção e à reparação do delito, diante da aferição desfavorável da circunstância judicial relativa aos maus antecedentes.
+Nesse sentido:
+" ..  4. O regime fechado para cumprimento inicial da pena foi devidamente fundamentado, consoante dispõe o art. 33, e parágrafos, do Código Penal, não havendo, portanto, qualquer desproporcionalidade na imposição do meio inicialmente mais gravoso para o desconto da reprimenda, pois, nada obstante ser a pena inferior a 4 (quatro) anos de reclusão, os maus antecedentes dos acusados implicaram majoração da pena-base, tendo, ainda, sido reconhecida a reincidência. Não aplicação da Súmula n. 269 deste Superior Tribunal de Justiça.
+5. Agravo regimental não provido."
+(AgRg no REsp 1.524.459/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 24/05/2018, DJe 30/05/2018).
+" ..  4. Diante da pena definitiva superior a 4 anos e dos maus antecedentes, cabível o regime fechado e inviável a substituição da pena privativa de liberdade por restritiva de direitos.
+ ..
+(AgRg no AREsp 771.600/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/04/2017, DJe 05/05/2017).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b" do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
