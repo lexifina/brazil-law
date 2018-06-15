@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por STENO ROBERTO DE SOUZA - preso em flagrante no dia 4/10/2017 e denunciado pela suposta prática do crime previsto no artigo 157, §2º, incisos I e II, do Código Penal - contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.18.014797-7/000).
+Homologado o flagrante e decretada a prisão em preventiva (e-STJ fls. 41/42), a defesa entrou com pedido de revogação da prisão, o qual foi indeferido (e-STJ fl. 78).
+Contra essa decisão, impetrou habeas corpus na Corte estadual e, naquela oportunidade, alegou estarem ausentes os requisitos para a decretação da constrição cautelar, bem como entendeu haver transcorrido o prazo legal para a conclusão do feito.
+O Tribunal, contudo, conheceu em parte a impetração e denegou a ordem, na parte conhecida. Confira-se ementa (e-STJ fl. 95 - grifei):
+EMENTA: HABEAS CORPUS - ROUBO MAJORADO E CORRUPÇÃO DE MENORES - NEGATIVA DE AUTORIA - PRISÃO PREVENTIVA - REVOGAÇÃO - REITERAÇÃO DE PEDIDOS ANTERIORMENTE JULGADOS - EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA - FEITO COMPLEXO - INSTRUÇÃO PRÓXIMA DO FIM. 1. Não deve ser analisado Habeas Corpus que seja mera reiteração de pedido anterior já julgado (Súmula 53 - TJMG). 2. Os prazos no Processo Penal "não são fatais, improrrogáveis, admitindo-se exceções de acordo com as peculiaridades do caso e atendendo ao princípio da razoabilidade. E, estando a instrução criminal próxima de seu fim, não há que se falar em excesso de prazo.
+Na presente oportunidade, o impetrante reafirma o excesso de prazo na formação da culpa, informando que a audiência de instrução e julgamento encontra-se marcada para o dia 16/5/2018.
+Sustenta ainda, que nessa data de 16/5/2018, completará mais de 200 (duzentos) dias da constrição cautelar do recorrente, sem que haja sido formada a culpa.
+Diante disso, pede em liminar e no mérito, a revogação da prisão preventiva, com a expedição do competente alvará de soltura, em favor do recorrente.
+A liminar foi indeferida (e-STJ fls. 128/131) e o Ministério Público Federal, previamente ouvido, manifestou-se pelo desprovimento do recurso ordinário, em parecer assim resumido (e-STJ fl. 133):
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. INSTRUÇÃO CRIMINAL EM ANDAMENTO. RAZOABILIDADE E PROPORCIONALIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. NÃO PROVIMENTO DO RECURSO ORDINÁRIO.
+- Não se vislumbra o alegado excesso de prazo na instrução probatória. Em que pese o Recorrente esteja preso desde 03/10/2017 (prisão em flagrante), verifica-se em consulta ao andamento processual (www.tjmg.jus.br) que os autos se encontram com vista à defesa do réu desde 29/05/2017, após realização da audiência de instrução ocorrida em 16/05/2017.
+- Não se constata qualquer violação ao principio da duração razoável do processo no andamento processual da ação penal em comento, não podendo o excesso de prazo resultar de um critério meramente aritmético, mas sim da aferição do lapso temporal à luz dos princípios da razoabilidade e proporcionalidade e de acordo com as peculiaridades do caso concreto.
+- Parecer pelo não provimento do recurso ordinário em habeas corpus.
+É o relatório, decido.
+Consoante informações colhidas do site do Tribunal de Justiça do Estado de Minas Gerais, no dia 16/5/2018 foi realizada a audiência de instrução e julgamento, sendo que as partes já apresentaram as alegações finais, estando, portanto, encerrada a instrução processual, o que atrai a aplicação do enunciado n. 52 desta Corte: "ENCERRADA A INSTRUÇÃO CRIMINAL, FICA SUPERADA A ALEGAÇÃO DE CONSTRANGIMENTO POR EXCESSO DE PRAZO".
+Nesse sentido:
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. COAÇÃO NO CURSO DO PROCESSO. EXCESSO DE PRAZO. SÚMULA N.º 52 DO STJ. PREJUDICADO. PRISÃO PREVENTIVA. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. AMEAÇA À VÍTIMA. FUNDAMENTAÇÃO IDÔNEA. RECURSO DESPROVIDO.
+1. Encerrada a instrução do processo, tendo o juízo de primeira instância aberto às partes o prazo sucessivo para apresentação de alegações finais, encontra-se superado o alegado excesso de prazo, nos termos do enunciado sumular n.º 52 desta Corte.
+2. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar, especialmente em elementos extraídos da conduta perpetrada pelo acusado.
+3. In casu, a custódia cautelar foi decretada especialmente pela conveniência da instrução criminal pois, conforme consignou o Juízo de primeiro grau, o recorrente teria ameaçado a vítima sobrevivente e testemunhas.
+4. Recurso a que se nega provimento. (RHC 87.191/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/10/2017, DJe 27/10/2017)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. AÇÃO PENAL. TRIBUNAL DO JÚRI. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PRIMEIRA FASE DO PROCESSO. INSTRUÇÃO CRIMINAL ENCERRADA. APRESENTAÇÃO DE ALEGAÇÕES FINAIS PELAS PARTES. SÚMULA 52 DESTE STJ. SENTENÇA DE PRONÚNCIA EM VIAS DE SER PROFERIDA. EVENTUAL DELONGA SUPERADA.
+1. Com o encerramento da instrução criminal relativa à primeira etapa do processo afeto o Júri, já que os autos encontram-se na fase de apresentação das alegações finais pelas partes, resta superado o aventado constrangimento ilegal por excesso de prazo na formação da culpa, estando a sentença de pronúncia em vias de ser proferida. Súmula 52/STJ.
+(..)
+8. Recurso improvido. (RHC 37.688/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 05/06/2014, DJe 18/06/2014)
+Ante o exposto, com base no art. 34, inciso XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao presente recurso ordinário em habeas corpus.
+Publique-se.
