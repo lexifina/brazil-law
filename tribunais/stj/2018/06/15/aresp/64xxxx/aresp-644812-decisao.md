@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo da decisão que inadmitiu recurso especial interposto contra acórdão assim ementado:
+Ação declaratória - Conexão - Incontroversa a existência de conexão entre a ação cautelar de produção antecipada de provas e a ação declaratória de inexigibilidade de título - Ações que se originaram do mesmo contrato de prestação de serviços - Conexão entre as ações que legitima a reunião dos processos, nos termos do art. 105 do CPC - Apensamento da ação cautelar que, ademais, não causa lesividade para o agravante.
+Prova - Perícia - Caso em que compete ao juiz, como destinatário da prova, avaliar sobre a necessidade ou não de sua realização - Art. 130 do CPC - Inexistência de óbice a que o magistrado de origem, verificando que há necessidade de melhor elucidação dos fatos, formule outros quesitos, ainda que semelhantes aos fixados na ação cautelar - Agravada que, além disso, na ação cautelar de produção antecipada de provas, não articulou quesitos, vindo a fazê-lo na ação declaratória - Fato que, por si só, justifica a complementação da perícia - Prevalência do direito à plena produção de provas - Agravo desprovido.
+O agravante sustenta a impossibilidade de realização da perícia na ação declaratória, porque perícia idêntica já havia sido realizada no processo cautelar conexo.
+Quanto à alegação de violação do art. 265, IV, "b", do Código de Processo Civil/1973, o recurso encontra obstáculo no verbete sumular n. 284/STF, porque a norma citada pelo agravante determina a suspensão do processo enquanto se aguarda a verificação de determinado fato ou produção de certa prova requisitada a outro juízo. No caso dos autos, os processos são conexos e estão reunidos, sendo decididos pelo mesmo juízo singular - que, aliás, está promovendo a produção da prova necessária ao seu convencimento. Assim, a conclusão buscada pela embargante não decorre logicamente da legislação invocada como ofendida, o que dificulta a compreensão da controvérsia oferecida a debate no recurso especial.
+No mais, sem razão o recorrente. Para se concluir que a prova cuja produção fora requerida é ou não indispensável à solução da controvérsia, seria necessário proceder à análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, a teor do enunciado nº 7 da Súmula do Superior Tribunal de Justiça. Ademais, a livre apreciação da prova e o livre convencimento motivado do juiz são princípios basilares do sistema processual civil brasileiro. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. NULIDADE DO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 535 DO CPC. NÃO-OCORRÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. ART. 330 DO CPC. MATÉRIA EMINENTEMENTE DE DIREITO. EVENTUAL NECESSIDADE DE DILAÇÃO PROBATÓRIA. AVALIAÇÃO DE COMPETÊNCIA EXCLUSIVA DO TRIBUNAL DE ORIGEM. SÚMULA N. 7 DO STJ. ISSQN. SERVIÇOS BANCÁRIOS. LISTAS ANEXAS AO DL N. 406/68 E À LC N. 116/03. EXAURIMENTO DO ROL. POSSIBILIDADE DE PORMENORIZAÇÃO DE CADA ITEM (INTERPRETAÇÃO EXTENSIVA). PRINCÍPIO DA ISONOMIA. HIPÓTESE DE INCIDÊNCIA.
+(..)
+2. A análise da necessidade ou não de produção de prova, qualquer que seja o momento processual ou o motivo que leve a tanto, é atribuição da instância ordinária. Eventual reforma dessa decisão importa reexame do conjunto fático-probatório, o que é vedado para os magistrados do STJ pela Súmula n. 7 deste Tribunal. Precedentes.
+(..)
+5. Recurso especial não-provido.
+(REsp nº 958.173/RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe de 29.10.2008)
+AGRAVO REGIMENTAL - AÇÃO REVISIONAL DE CONTRATO DE ABERTURA DE CRÉDITO EM CONTA-CORRENTE - PRODUÇÃO DE PROVA PERICIAL - NECESSIDADE - LIVRE CONVENCIMENTO DO JULGADOR - ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO - IMPOSSIBILIDADE DE REEXAME - INTELIGÊNCIA DA SÚMULA N. 7/STJ - RECURSO IMPROVIDO.
+1. No sistema processual em vigor, o Juiz é o destinatário das provas, cabendo-lhe indeferir as que entender desnecessárias e determinar a produção daquelas que julgar essenciais ao deslinde da controvérsia.
+2. Alterar a conclusão das Instâncias ordinárias no sentido da imprescindibilidade de prova pericial é medida que encontra óbice na Súmula n. 7 desta Corte Superior.
+3. Agravo regimental improvido.
+(AgRg no Ag nº 1.009.348/SP, Terceira Turma, Rel. Min. Massami Uyeda, DJe de 1º/8/2008)
+PROCESSUAL CIVIL. MEDIDA CAUTELAR. FUMUS BONI IURIS. AUSÊNCIA. AGRAVO REGIMENTAL. RECURSO ESPECIAL. MATÉRIA PROBATÓRIA. NECESSIDADE DE REALIZAÇÃO DE PERÍCIA. SÚMULA N. 7-STJ. INICIAL. INDEFERIMENTO MANTIDO.
+I. Não atendido o requisito pertinente ao fumus boni iuris no tocante à tese defendida no recurso especial, ao qual se busca emprestar efeito suspensivo, improcede a pretensão cautelar.
+II. Matéria de fundo, ademais, definida na instância revisora no sentido da necessidade da produção de prova pericial, cujo exame da conveniência, nesta Corte, enfrenta o óbice da Súmula n. 7.
+III. Agravo improvido. Indeferimento da inicial mantido.
+(AgRg na MC nº 8.865/RJ, Quarta Turma, Rel. Min. Aldir Passarinho Junior, DJ de 1º/2/2005)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
