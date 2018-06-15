@@ -1,0 +1,23 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. PENHORA. SUBSTITUIÇÃO. RECUSA DA FAZENDA PÚBLICA FUNDADA NA DESOBEDIÊNCIA DA ORDEM DE PREFERÊNCIA DO ART. 11 DA LEI 6.830/1980. POSSIBILIDADE, CONTUDO, DE FLEXIBILIZAÇÃO DA ORDEM LEGAL, DIANTE DA DEMONSTRAÇÃO DE SITUAÇÃO EXCECIONAL, COMO NO CASO DOS AUTOS. MODIFICAÇÃO DO JULGADO QUE NECESSITARIA DA REVISÃO DE PROVAS, EXPEDIENTE DEFESO EM RECURSO ESPECIAL. AGRAVO DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por MUNICÍPIO DE SÃO PAULO com fundamento nas alíneas a do art. 105, III da CF, contra acórdão proferido pelo egrégio TJSP, assim ementado:
+AGRAVO DE INSTRUMENTO. Execução fiscal. Rejeição da substituição de bloqueio eletrônico, por imóvel, ante a recusa do Município. Pretendida liberação da constrição. Possibilidade. Dada a situação excepcional consubstanciada na possibilidade de reconhecimento de imunidade, possível não seguir, à risca, a ordem do artigo 11 da Lei 6.830/80. Decisão reformada. Agravo provido (fls. 446).
+2. Nas razões do seu Apelo Nobre inadmitido, a recorrente aponta violação aos arts. 612 e 655-A do CPC e 11 e 15, I da LEF. Defende, em suma, ser legítima a penhora de ativos financeiros em nome da executada, bem como a recusa de sua substituição por imóvel, não podendo ser arguida a questão da imunidade em exceção de pré-executividade.
+3. Apresentadas contrarrazões (fls. 462/487), o recurso foi inadmitido na origem (fls. 489).
+4. É o relatório. Decido.
+5. O inconformismo não merece acolhimento.
+6. Primeiramente, cumpre assinalar que, consoante já decidiu esta Corte, a arguição de imunidade pode ser suscitada em exceção de pré-executividade, quando comprovada de plano, como é o caso dos autos. Confira-se:
+AGRAVO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. IMUNIDADE TRIBUTÁRIA. RECONHECIMENTO DE OFÍCIO. POSSIBILIDADE. DILAÇÃO PROBATÓRIA DESNECESSÁRIA.
+- Conforme jurisprudência assente nesta Corte, possível a arguição de imunidade tributária incidente em exceção de pré-executividade nas hipóteses em que ela é comprovada de plano, sem necessidade de dilação probatória.
+- Ainda que já realizada a penhora, pode o executado suscitar matérias passíveis de serem conhecidas de ofício pelo juiz por meio da exceção de pré-executividade (Precedentes do STJ).
+Agravo regimental improvido (AgRg no AREsp 12.591/RJ, Rel. Min. CESAR ASFOR ROCHA, DJe 14.3.2012).
+7. No que concerne à ordem de preferência da garantia da execução fiscal, também já tem se posicionado esta Corte pela possibilidade de flexibilização da ordem legal quando se estiver diante da comprovação idônea, pelo devedor, da necessidade de seu afastamento. No caso, o Tribunal de origem afirmou expressamente se tratar de situação excepcional apta a acolher o pedido de substituição feito pelo recorrido, de sorte que para se entender de forma diversa, somente um novo e acurado exame dos elementos fático-probatório da causa seria possível. Contudo, o reexame de provas é defeso na via excepcional escolhida. Confira-se, a propósito, o seguinte aresto:
+PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO DO ART. 535 DO CPC/73. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. PENHORA DE BENS. ORDEM LEGAL. FLEXIBILIZAÇÃO. COMPROVAÇÃO IDÔNEA PELO DEVEDOR. PRINCÍPIO DA MENOR ONEROSIDADE. ALTERAÇÃO DO ENTENDIMENTO DA CORTE DE ORIGEM. ÓBICE DA SÚMULA 7/STJ.
+1. A parte sustenta que o art. 535, II, do CPC/1973 foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito. Óbice da Súmula 284/STF.
+2. É pacífico o entendimento de que, em princípio, cabe ao executado observar a ordem legal dos bens penhoráveis. A flexibilização dessa regra depende de comprovação idônea pelo devedor, à luz do princípio da menor onerosidade.
+3. Hipótese em que o Tribunal a quo afirmou que "a parte executada, à qual incumbe, em princípio, nos termos do art. 9º, III, da Lei 6.830/1980, nomear bens à penhora, observada a ordem legal, logrou demonstrar a imperiosa necessidade de afastar a ordem de precedência em questão" (fl. 186).
+4. A reforma dessa conclusão esbarra indiscutivelmente no óbice da Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no REsp. 1.605.156/PR, Rel. Min. HERMAN BENJAMIN, DJe 29.11.2016).
+8. Diante do exposto, nega-se provimento ao Agravo.
+9. Publique-se.
+10. Intimações necessárias.
