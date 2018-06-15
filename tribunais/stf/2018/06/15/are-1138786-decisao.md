@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “APELAÇÃO. MEDICAMENTOS. NÃO DEMONSTRAÇÃO DA IMPRESCINDIBILIDADE DO FÁRMACO. ESTUDOS CIENTÍFICOS PELA NÃO INDICAÇÃO.
+    1. União, Estados e Municípios detêm legitimidade para figurar no polo passivo de ação onde postulado o fornecimento público de medicamentos.
+    2. Somente fará jus ao fornecimento do medicamento pelo Poder Público a parte que demonstra a respectiva imprescindibilidade, que consiste na conjugação da necessidade e adequação do fármaco e da ausência de alternativa terapêutica.
+    3. Havendo parecer de órgãos técnicos que atestam pela não indicação do mesmo, informando ausência de vantagem terapêutica em relação aos tratamentos disponibilizados pelo SUS, tem-se que não há evidência nos autos da presença dos requisitos autorizados da tutela pretendida.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte sustenta a ocorrência de violação aos arts. 5º, XXXV, LIV e LV; 196; e 198 da CF.
+    A decisão agravada negou seguimento ao recurso por entender que incide, no caso, a Súmula 279/STF.
+    O recurso extraordinário não deve ser admitido, tendo em vista que o acórdão recorrido está alinhado ao entendimento do Supremo Tribunal Federal (STF).
+    O STF assentou que, apesar do caráter meramente programático atribuído ao art. 196 da Constituição Federal, o Estado não pode se eximir do dever de propiciar os meios necessários ao gozo do direito à saúde dos cidadãos. Nessa linha, veja-se trecho da ementa da decisão monocrática proferida pelo Ministro Celso de Mello, no RE 271.286:
+    “O direito à saúde - além de qualificar-se como direito fundamental que assiste a todas as pessoas representa conseqüência constitucional indissociável do direito à vida. O Poder Público, qualquer que seja a esfera institucional de sua atuação no plano da organização federativa brasileira, não pode mostrar-se indiferente ao problema da saúde da população, sob pena de incidir, ainda que por omissão , em censurável comportamento inconstitucional.
+    O direito público subjetivo à saúde traduz bem jurídico constitucionalmente tutelado, por cuja integridade deve velar, de maneira responsável , o Poder Público (federal, estadual ou municipal), a quem incumbe formular e implementar - políticas sociais e econômicas que visem a garantir a plena consecução dos objetivos proclamados no art. 196 da Constituição da República.”
+    Segundo ficou consignado no Tribunal de origem, há parecer de órgãos técnicos que atestam pela não indicação do medicamento questionado, informando a ausência de vantagem terapêutica em relação aos tratamentos disponibilizados pelo SUS. Veja-se o seguinte trecho do acórdão recorrido:
+    “Havendo parecer de órgão técnico consultivo que não recomenda a medicação postulada para tratamento da doença que acomete a parte autora, colocando em dívida a indicação constante no laudo pericial judicial (evento 37 – PERÍCIA1), não se pode concluir acerca da alegada necessidade e indispensabilidade do medicamento, porquanto não há evidência nos autos da presença dos requisitos autorizadores do direito pretendido.”
+    Para dissentir da conclusão adotada pelo Tribunal de origem, quanto à eficácia do tratamento, seria necessário o revolvimento do material fático-probatório dos autos, providência inviável neste momento processual (Súmula 279/STF).
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita a parte agravante, nos termos do art. 98, § 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 15 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
