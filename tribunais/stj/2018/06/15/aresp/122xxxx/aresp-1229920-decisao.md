@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por [NOME] contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Ementa: Prestação de serviços advocatícios. Ação de arbitramento de honorários. Valor fixado na sentença de acordo com os trabalhos efetivamente desenvolvidos pela autora e na conformidade dos ditames da legislação de regência. Modificação requerida por ambas as partes" não acolhida. Sentença mantida. Apelações improvidas."
+Opostos sucessivos embargos de declaração, os primeiros foram acolhidos, com efeitos modificativos, para condenar o embargado, ora recorrente, ao pagamento de custas, despesas processuais e honorários advocatícios no importe equivalente a 10% (dez por cento) sobre o valor atualizado da condenação (e-STJ, fls. 347/350), e os segundos foram parcialmente acolhidos sem efeitos modificativos (e-STJ, fls. 365/368).
+Nas razões do recurso especial, a parte agravante alega violação do art. 489, II, e § 1º, e divergência jurisprudencial, sustentando, em síntese, ausência de motivação ou fundamentação quanto à condenação do recorrente ao pagamento da integralidade dos ônus sucumbenciais. Aduz violação ao princípio da causalidade, sustentando que o recorrido deve arcar com os ônus da sucumbência porque, além de ter sido o único responsável pelo ajuizamento da demanda, decaiu de quase a totalidade de seu pleito
+Apresentadas contrarrazões às fls. 381/389 (e-STJ).
+É o relatório. Decido.
+O Tribunal de origem, no que se refere aos ônus da sucumbência, consignou o seguinte:
+""De outro lado, realmente o acórdão não se pronunciou a respeito das verbas de sucumbência, as quais, por cuidar-se de ação de arbitramento, ainda que não acolhida a integralidade da pretensão inicial, autoriza a condenação do embargado e, sua integralidade, diversamente do entendimento do MM. Juízo." (e-STJ, fl.350)
+Como se vê, o magistrado fundamentou expressamente o motivo da condenação do recorrente á integralidade dos ônus sucumbenciais. Impende ressaltar que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994).
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. CARÊNCIA DE FUNDAMENTAÇÃO NÃO CARACTERIZADA. RECURSO NÃO PROVIDO.
+1. De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, não há violação do art. 535 do CPC/1973 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem, examinando as questões cruciais ao resultado do julgamento.
+2. "Se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1001737/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/02/2017, DJe 21/02/2017)
+Observa-se que a parte recorrente aponta violação ao princípio da causalidade, alegando ser indevida sua condenação à integralidade dos ônus porque o recorrido decaiu de quase a totalidade de seu pleito. Contudo, não indica qual ou quais dispositivos entendeu violados neste ponto, tornando patente a falta de fundamentação do apelo especial.
+Do mesmo modo, constata-se que a parte recorrente, nas razões do apelo especial, alega divergência jurisprudencial sem, contudo, indicar qualquer dispositivo legal que tenha sido objeto de interpretação divergente pelos tribunais.
+Ambas as situações atraem, portanto, a incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal. A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALÍNEAS "A" E "C" DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF.
+1. Em relação à alínea "a", a alegação genérica, sem a particularização dos dispositivos legais eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento deste STJ, atraindo a incidência, ao caso, da Súmula 284/STF.
+2. Quanto à alínea "c", a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante a inviabilizar a abertura da instância especial, também atraindo a incidência da Súmula n.º 284 do STF.
+3. Agravo regimental a que se nega provimento, com aplicação de multa."
+ (AgRg no AREsp 675.968/DF, Relator o Ministro Luis Felipe Salomão, Quarta Turma, DJe de 17/4/2015.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11%.
+Publique-se.
