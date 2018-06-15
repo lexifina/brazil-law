@@ -1,0 +1,9 @@
+DECISÃO
+[NOME] interpõe agravo regimental contra a decisão de fls. 2.816-2822.
+O agravante reitera a possibilidade de processar habeas corpus contra decisão denegatória de liminar, haja vista a inequívoca ilegalidade da sua prisão preventiva, decretada durante a Operação Câmbio Desligo. Requer a superação da Súmula n. 691 do STF e a concessão do pleito de urgência, para que aguarde em liberdade o julgamento do HC n. 0004645-46.2018.4.02.0000.
+É forçoso reconhecer a perda superveniente do interesse de agir, com fulcro no art. 34, XI, do RISTJ.
+Por decisão liminar de Ministro do Supremo Tribunal, a Súmula n. 691 do STF foi mitigada e o agravante obteve a liminar per saltum, ora pleiteada. O paciente aguardará em liberdade a análise de mérito de ato de Juiz, a ser feita, em primeiro lugar, pelo órgão de segundo grau. O atual cenário denota a insubsistência do periculum in mora, a ensejar a interferência precoce na competência do TRF da 2ª Região.
+A liminar concedida por Ministro do Supremo Tribunal Federal não prejudica a análise do mérito do writ em processamento no Tribunal Regional Federal da 2ª Região. Todavia, impede a utilização simultânea de outro habeas corpus para subverter as regras de competência constitucional, somente ante a mera possibilidade de futura e incerta revogação da decisão precária em vigor.
+Mesmo na conjectura de a mais alta Corte do país, em julgamento colegiado, cassar o decisum do relator e concluir que o paciente deve aguardar preso o julgamento do HC n. 0004645-46.2018.4.02.0000, não poderá este Superior Tribunal, de hierarquia inferior, pronunciar-se de modo contrário, em idêntico grau de cognoscibilidade, próprio dos pleitos de urgência (e não de mérito).
+À vista do exposto, julgo prejudicados este agravo regimental e o habeas corpus que buscava a superação da Súmula n. 691 do STF, haja vista a superveniente perda do seu objeto.
+Publique-se e intimem-se.
