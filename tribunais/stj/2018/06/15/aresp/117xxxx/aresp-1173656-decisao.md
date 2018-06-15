@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado do Paraná, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição Federal, em oposição a acórdão assim ementado:
+"APELAÇÃO CRIMINAL. EXERCÍCIO ILEGAL DA MEDICINA E COMERCIALIZAÇÃO DE PRODUTOS TERAPÊUTICOS E MEDICINAIS. CONDENAÇÃO NO ART. 273, § 1º-B, INCISOS I E V DO CP. MATERIALIDADE E AUTORIA COMPROVADAS. CONFISSÃO JUDICIAL CORROBORADA PELA PROVA TESTEMUNHAL. CONDENAÇÃO. PLEITO DE ABSOLVIÇÃO POR ATIPICIDADE DE CONDUTA E INSUFICIÊNCIA DE PROVAS. PRETENSA INCONSTITUCIONALIDADE DO DISPOSITIVO LEGAL - PELO QUAL FOI CONDENADO. INCOMPETÊNCIA DO ÓRGÃO FRACIONÁRIO PARA DIRIMIR A QUESTÃO. NECESSIDADE DE ARGUIÇÃO DE INCIDENTE DE INCONSTITUCIONALIDADE PERANTE O ÓRGÃO ESPECIAL DESTE TRIBUNAL DE JUSTIÇA. ART. 206 DO RITJPR. RECURSO CONHECIDO, COM ENCAMINHAMENTO AO ÓRGÃO COMPETENTE." (e-STJ, fl. 604).
+Os embargos de declaração opostos foram rejeitados 749
+A defesa aponta negativa de vigência aos arts. 619 e 620 do Código de Processo Penal.
+Alega que o Tribunal a quo, apesar da oposição dos embargos de declaração, não se pronunciou acerca de sua alegação no sentido de que "a decisão proferida no Incidente de Inconstitucionalidade nº 582.853-3/01, não poderia ser aplicada ao presente caso, pois, naquele feito, não se enfrentou a inconstitucionalidade ou não da sanção, em razão de que não teria sido apresentado a norma constitucional de embate" (e-STJ, fls. 178-185).
+Requer seja declarado nulo o v. acórdão, a fim de que novo acórdão seja exarado, suprimindo a omissão apontada.
+Foram apresentadas as contrarrazões (e-STJ, fls. 781-789).
+O recurso foi inadmitido em razão da aplicação do óbice da Súmula 281/STF (e-STJ, fls. 815-816). Daí este agravo (e-STJ, fls. 820-829).
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso (e-STJ, fls. 1.000-1.022).
+É o relatório.
+Decido.
+Conforme se extrai dos autos, o acusado foi condenado pelo Juízo de Direito da Décima Vara Criminal da Comarca de Curitiba/PR à pena privativa de liberdade de 10 (dez) anos de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 273, § 1º-B, incisos I e V, do Código Penal.
+Contra essa sentença, o réu interpôs recurso de apelação para o Tribunal de Justiça do Estado do Paraná pleiteando, inicialmente, a declaração de inconstitucionalidade do do art. 273, §1º-B, do CP, com vistas à redução da reprimenda que lhe foi imposta. No mérito, requereu sua absolvição.
+A Segunda Câmara Criminal do Tribunal de Justiça do Estado do Paraná, por unanimidade, conheceu do recurso, para, nos termos do art. 206 do seu Regimento Interno, submeter ao seu colendo Órgão Especial, a apreciação da inconstitucionalidade do art. 273, § 1º-B, incisos I e V, do Código Penal, nos termos do voto, do Relator. 612
+O referido incidente de constitucionalidade foi julgado prejudicado e o processo devolvido à 2ª Câmara Criminal, para prosseguir no julgamento, em razão do julgamento, pelo E. Órgão Especial daquele Tribunal de Justiça, do Incidente de Inconstitucionalidade nº 582853-3/01, "onde se entendeu que a sanção cominada pelo §1º-B, incisos I e V, do artigo 273 do Código Penal, guarda compatibilidade vertical com a Constituição Federal" (e-STJ, fl. 749).
+A defesa opôs embargos de declaração, alegando que a decisão proferida no Incidente de Inconstitucionalidade nº 582.853-3/01, não poderia ser aplicada no caso.
+Os embargos foram rejeitados, sob o fundamento de que a matéria foi devidamente analisada, o que ensejou a interposição do presente recurso especial, em 09 de abril de 2012, no qual aponta a existência de omissão no julgado.
+Feitas essas considerações, verifica-se, em consulta ao endereço eletrônico do Tribunal de Justiça do Estado do Paraná, que em 17 de março de 2016, a Segunda Câmara Criminal, dando continuidade ao julgamento da Apelação Criminal nº 0653693-4, negou-lhe provimento e concedeu habeas corpus de ofício ao réu, para lhe aplicar, "por analogia a pena do art. 33 da Lei de Drogas, fixando a pena definitiva em 01 ano e 08 meses de reclusão em regime aberto, 167 dias-multa, substituindo a pena privativa de liberdade por restritiva de direitos".
+Nesse contexto, não há mais interesse recursal, o que ocasiona a perda do objeto deste recurso.
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do STJ, julgo prejudicado este agravo em recurso especial.
+Publique-se. Intimem-se.
