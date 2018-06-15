@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA QUANTO A REGRAS TÉCNICAS DE ADMISSIBILIDADE. EXAME. IMPOSSIBILIDADE.
+1. Revela-se inviável rever, em embargos de divergência, a aplicação de regras técnicas de conhecimento do recurso especial, o que ocorre quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal.
+2. Embargos de divergência indeferidos liminarmente.
+DECISÃO
+Cuida-se de embargos de divergência opostos por UNILSAN PATRIMONIAL LTDA, contra acórdão proferido pela 4ª Turma do STJ.
+Ação: rescisória, ajuizada por WHIRLPOOL S/A em face da embargante, na qual pretende a rescisão de sentença proferida em embargos à execução (processo nº 130197-3/2001), a qual resultou na extinção da execução amparada em escritura publica de confissão de dívida.
+Acórdão: julgou improcedente o pedido, nos termos da seguinte ementa (e-STJ fl. 484):
+AÇÃO RESCISÓRIA. INEXISTÊNCIA DE VIOLAÇÃO LITERAL DE DISPOSITIVO DE LEI PELA SENTENÇA QUE SE VISA RESCINDIR. A AFRONTA DE QUE TRATA A NORMA PROCESSUAL INSCRITA NO ART. 485, V, DO CPC DEVE SER DIRETA A LEI, NÃO SENDO, PORTANTO, PROCEDENTE O PEDIDO, QUANDO A CAUSA PETENDI TROUXER EMBASAMENTO FORMADO A PARTIR DE MERAS INTERPRETAÇÕES EXTENSIVAS OU RESTRITIVAS AO TEXTO LEGAL APONTADO COMO LITERALMENTE VIOLADO PELA DECISÃO RESCIDENDA.
+Embargos de declaração: opostos pela embargada, foram rejeitados.
+Recurso especial: foi interposto pela embargada, com fundamento nas alíneas "a" e "c" do permissivo constitucional. Alegou violação do art. 20, § 4º, do CPC/73, bem como dissídio jurisprudencial, ao argumento de que os honorários de sucumbência, relativos aos embargos à execução, deveriam ter sido fixados por equidade, em valor razoável.
+Prévio juízo de admissibilidade: o TJ/BA inadmitiu o recurso especial, o que ensejou a interposição de agravo em recurso especial.
+Acórdão: manteve a decisão unipessoal do Relator que conheceu do agravo para dar provimento ao recurso especial, a fim de rescindir em parte a sentença dos embargos à execução e fixar os honorários de sucumbência em R$ 960.000,00. O acórdão foi assim ementado (e-STJ fls. 426/427):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL. AÇÃO RESCISÓRIA. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI (CF, ART. 105, III, a; CPC/73, ART. 485, V, E ART. 20, §§ 3º E 4º). EXCESSO NA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NA SENTENÇA RESCINDENDA. OCORRÊNCIA. RESCISÃO PARCIAL. ANÁLISE DA DECISÃO RESCINDENDA. POSSIBILIDADE. NOVA FIXAÇÃO DA VERBA HONORÁRIA. UTILIZAÇÃO DE CRITÉRIO EQUITATIVO. AGRAVO NÃO PROVIDO.
+1. "Quando existir violação de literal disposição de lei e o julgador, mesmo assim, não acolher a pretensão deduzida na ação rescisória fundada no art. 485, V, do Código de Processo Civil, o acórdão estará contrariando aquele mesmo dispositivo ou a ele negando vigência, com o que dará ensejo à interposição de recurso especial com base na alínea "a" do permissivo constitucional" (REsp 476.665/SP, Rel. Ministro Antônio de Pádua Ribeiro, Corte Especial).
+2. É incabível ação rescisória para se discutir exclusivamente a índole irrisória ou a exorbitância de verba honorária, sendo, entretanto, possível para se discutir o regramento objetivo da fixação da verba honorária. Precedentes.
+3. Em regra, na jurisprudência desta Corte, com fundamento no art. 20, § 4º, do CPC/73, adota-se o entendimento de que, "na ausência de parâmetros estanques para a determinação do valor dos honorários advocatícios, este Tribunal Superior tem considerado que se afigura irrisória a verba honorária fixada em percentual inferior a 1% do valor econômico envolvido na ação" (REsp 1.472.941/SC, Relator Ministro Moura Ribeiro, Terceira Turma).
+4. In casu, mostra-se adequada e justa a redução e fixação da verba honorária sucumbencial, levando-se em consideração o valor envolvido na causa, o zelo e responsabilidade dos patronos da parte vencedora, como comprova o êxito obtido em extinguir uma execução de valor considerável.
+5. Agravo interno desprovido.
+Embargos de declaração: opostos pela ora embargante, foram rejeitados.
+Embargos de divergência: apontam dissonância entre o entendimento do acórdão embargado e a orientação adotada pela 2ª Turma no EDcl no AgRg no AREsp 92.604/MG, EDcl no AgRg no AREsp 524.451/GO, AgInt no REsp 1.587.696/RS e REsp 1.338.063/AL. Sustenta-se que o recurso especial interposto pela embargada não pode ser conhecido em razão da Súmula 284/STF, haja vista que não foi apontado como violado o art. 485, V, do CPC/73, bem como em razão da Súmula 7/STJ, no que tange à revisão dos honorários advocatícios. Argumenta-se, ainda, acerca da inclusão do patrono da embargante no polo passivo da rescisória.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: Aplicação do CPC/2015
+- Da divergência jurisprudencial
+Conforme a reiterada jurisprudência desta Corte, por incidência analógica da Súmula 315/STJ, revela-se inviável rever, em embargos de divergência, a aplicação de regras técnicas de conhecimento do recurso especial, o que ocorre quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Nesse sentido: AgInt nos EREsp 1.226.477/RS, Corte Especial, DJe 26/10/2016; AgInt nos EAREsp 398.790/RJ, Corte Especial, DJe de 14/10/2016.
+Na hipótese dos autos, nenhum dos acórdãos apontados como paradigmas tratou da controvérsia de mérito trazida no recurso especial interposto pela parte embargada, limitando-se, todos eles, a aplicação dos óbices veiculados pelas Súmulas 284/STF e 7/STJ.
+Dessarte, presente unicamente a discussão a respeito de técnicas de conhecimento do recurso especial, não é cabível o manejo de embargos de divergência.
+Forte nessas razões, INDEFIRO LIMINARMENTE os embargos de divergência, com amparo no art. 266-C do RISTJ.
+Publique-se. Intimem-se.
