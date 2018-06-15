@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"ACIDENTÁRIA - APELAÇÃO INTERPOSTA PELO INSS - AUSÊNCIA DE RECOLHIMENTO DO PORTE DE REMESSA E RETORNO - IMPOSIÇÃO DA LEI ESTADUAL 11.608/03 - DESERÇÃO.
+"A ausência de comprovação do recolhimento do porte de remessa e retorno previsto pela Lei 11.608/03 obsta o processamento de apelação interposta pelo INSS nas lides acidentárias".
+Apelação julgada deserta." (fl. 445)
+Opostos aclaratórios, foram rejeitados, nos termos do acórdão de fls. 464/469.
+Em juízo de retratação, proferido em observância à sistemática dos recursos repetitivos, o Tribunal de origem manteve o entendimento anteriormente adotado (fls. 513/517), seguindo-se juízo positivo de admissibilidade do recurso especial (fls. 525/526).
+As razões do recurso alegam violação aos arts. 511 DO do Código de Processo Civil de 1973 e 110 do Código Tributário Nacional , sob o fundamento de que, "uma vez que o porte de remessa e de retorno, cones serviço forense relativo aos recursos, insere-se no conceito de preparo recursal, e estando o INSS isento da taxa judiciária do preparo recursal, em consequência também está isento do porte de remessa e de retorno" (fl. 479).
+Contrarrazões apresentadas (fls. 504/506).
+É o relatório.
+Decido.
+A Corte Especial deste Superior Tribunal de Justiça, no julgamento do Tema n.º 16, vinculado ao Recurso Especial Repetitivo n.º 1.101.727/PR, firmou entendimento no sentido de que descabe exigir do INSS o depósito prévio do preparo para fins de interposição de recurso em ação que tramita perante a Justiça Estadual, podendo a autarquia efetuar o pagamento do preparo ao final da demanda, se vencida, nos termos da seguinte ementa:
+"RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. DIREITO PROCESSUAL CIVIL. AUTARQUIA PREVIDENCIÁRIA. PREPARO. RECOLHIMENTO PRÉVIO. DESNECESSIDADE. DESERÇÃO. INOCORRÊNCIA.
+1. Sendo o Instituto Nacional do Seguro Social - INSS autarquia federal equiparada em prerrogativas e privilégios à Fazenda Pública, nos termos do artigo 8º da Lei nº 8.620/93, não lhe é exigível o depósito prévio do preparo para fins de interposição de recurso, podendo efetuá-lo ao final da demanda, se vencido (Código de Processo Civil, artigo 27).
+2. Recurso especial provido. Acórdão sujeito ao procedimento do artigo 543-C do Código de Processo Civil." (REsp 1101727/PR, Rel. Ministro HAMILTON CARVALHIDO, CORTE ESPECIAL, julgado em 02/08/2010, DJe 23/08/2010.)
+E em se tratando especificamente do recolhimento do porte de remessa e retorno no Estado de São Paulo a orientação não é diferente, segundo se extrai dos seguintes julgados desta Corte:
+"PROCESSUAL CIVIL. INSS. ISENÇÃO DO PORTE DE REMESSA E DE RETORNO.
+I - O Supremo Tribunal Federal, ao julgar o RE 594.116/SP, submetido ao rito da repercussão geral (Tema 135), fixou a tese de que "aplica-se o § 1º do art. 511 do Código de Processo Civil para dispensa de porte de remessa e retorno ao exonerar o seu respectivo recolhimento por parte do INSS". (RE 594.116/SP, Plenário, Rel. Min. Edson Fachin, publicado no DJE de 05/04/2016).
+II - Recurso Especial provido."
+(REsp 1710109/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/05/2018, DJe 14/05/2018)
+"PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. INSS. ISENÇÃO DO PORTE DE REMESSA E DE RETORNO.
+1. Hipótese em que o Tribunal local manifestou-se de forma clara no sentido de que o INSS não goza de isenção do pagamento de custas e emolumentos, nas ações acidentárias e de benefícios, propostas na Justiça Estadual.
+2. Não se configura a ofensa ao art. 535 do CPC/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado .
+3. O Supremo Tribunal Federal, ao julgar o RE 594.116/SP, submetido ao rito da repercussão geral (Tema 135), fixou a tese de que "aplica-se o § 1º do art. 511 do Código de Processo Civil para dispensa de porte de remessa e retorno ao exonerar o seu respectivo recolhimento por parte do INSS". (RE 594.116/SP, Plenário, Rel. Min. Edson Fachin, publicado no DJE de 5/4/2016).
+4. Recurso Especial parcialmente provido."
+(REsp 1723271/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/04/2018, DJe 25/05/2018)
+Nessa linha, o acórdão recorrido está em confronto com o entendimento firmado no âmbito desta Corte.
+Ante o exposto, DOU PROVIMENTO ao recurso especial a fim de que, afastada a deserção, os autos sejam encaminhados ao Tribunal de origem para julgamento do recurso interposto pelo INSS.
+Publique-se. Intimem-se.
