@@ -1,0 +1,34 @@
+DECISÃO
+REGINALDO COSTA DE OLIVEIRA e [NOME] interpõem agravo regimental contra decisão proferida pela Exma. Senhora Ministra LAURITA VAZ, Presidente desta Corte, que não conheceu do agravo em recurso especial (Súmula n. 182/STJ).
+Os agravantes alegam que demonstraram a violação do art. 14, II, do Código Penal, sendo que "a interpretação dada à lei federal tem divergido em diferentes tribunais, de modo que imprescindível a decisão final e pacificação da matéria por este tribunal superior" (fl. 607).
+Pugna pela reforma da decisão agravada a fim de que o recurso especial seja conhecido e provido.
+É o relatório. Decido.
+Diante das alegações postas, reconsidero a decisão e passo ao exame do recurso especial.
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que os recorrentes foram denunciados pela prática do delito tipificado no art. 155, § 4º, IV, c.c. 71 do Código Penal - CP (furto qualificado em continuidade delitiva, por 9 vezes), e condenados, cada um, às penas de 1 (um) ano de reclusão, em regime inicial aberto, além de pagamento de 10 dias-multa, substituída por restritivas de direitos, conforme a sentença de fls. 398-407.
+A defesa interpôs apelação, pleiteando a diminuição da pena pela aplicação do art. 14, II, do CP.
+O Tribunal de origem negou provimento ao recurso, conforme a seguinte ementa:
+APELAÇÃO CRIMINAL. FURTO SIMPLES. 1) RECONHECIMENTO DA MODALIDADE TENTADA. IMPOSSIBILIDADE. No tocante à consumação do crime de furto, a jurisprudência pátria consagrou a denominada teoria da apprehensio ou amotio, que se orienta pela inversão da posse, entendendo-se consumado o delito quando a coisa móvel é retirada da esfera de uso e disponibilidade da vítima, adentrando, ainda que por curto espaço de tempo, na esfera de detenção do agente, independentemente da posse tranquila ou desvigiada, restando, portanto, incomportável o reconhecimento da conduta em apreço na modalidade tentada. 2) PREQUESTIONAMENTO DA MATÉRIA ARGUIDA.
+Tendo sido respeitados pelo dirigente procedimental todos os preceitos e princípios constitucionais e infraconstitucionais, admite-se o prequestionamento tão somente para efeito de assegurar eventual e futura interposição de recurso em instância superior. RECURSO CONHECIDO E DESPROVIDO (fl. 548).
+Na sequência, a defesa interpôs recurso especial, no qual alega violação dos arts. 14, II, do Código Penal e 155 do Código de Processo Penal.
+Sustenta, em síntese, que "A consumação do delito previsto no art. 155 do Código Penal só se dá quando o objeto do furto entra na posse tranquila do agente, o que no presente caso não ocorreu, pois FERNANDO e REGINALDO nunca a tiveram" (fl. 562).
+A r. decisão agravada não admitiu o recurso especial haja vista a incidência da Súmula n. 7 desta Corte.
+Contraminuta às fls. 592. O Ministério Público Federal opina pelo desprovimento do agravo (fls. 625-626).
+É o relatório. Decido.
+Conheço do agravo em recurso especial, visto que atacado o fundamento da decisão agravada.
+O recurso não merece provimento.
+No tocante à desclassificação do crime para forma tentada, o v. acórdão proferido pelo Tribunal de origem considerou que houve a inversão da posse dos bens subtraídos. A respeito do tema, a doutrina aponta quatro teorias para explicar o momento consumativo dos crimes de roubo e furto: a) da contrectatio, b) da apprehensio ou amotio, c) da ablatio, e d) da illatio.
+Os Tribunais superiores adotaram a teoria da apprehensio, também denominada de amotio, segundo a qual o crime de roubo, assim como o de furto, consuma-se no momento em que o agente se torna possuidor da coisa alheia móvel, pouco importando se por longo ou breve espaço temporal, sendo prescindível a posse mansa, pacífica, tranquila e/ou desvigiada.
+Nesse sentido, os seguintes precedentes desta Corte:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. ROUBO. MOMENTO CONSUMATIVO. TEORIA DA AMOTIO. INVERSÃO DA POSSE. CONSUMAÇÃO. DESNECESSIDADE DA POSSE MANSA E PACÍFICA. ENTENDIMENTO DA TERCEIRA SEÇÃO. RECURSO ESPECIAL REPETITIVO 1.499.050/RJ.
+1. De acordo com a jurisprudência consolidada deste Superior Tribunal de Justiça, reafirmada no recente julgamento do Recurso Especial Repetitivo 1.499.050/RJ pela Terceira Seção, deve ser adotada a teoria da aprehensio ou amotio no que se refere à consumação do delito de roubo, que ocorre no momento em que o agente se torna possuidor da res furtiva, ainda que a posse não seja de forma mansa e pacífica, não sendo necessário que o objeto subtraído saia da esfera de vigilância da vítima.
+2. Agravo regimental provido. Embargos de divergência opostos pelo Ministério Público Federal prejudicados. (AgRg no REsp 1.201.491/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 12/4/2016).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. AMOTIO. DESNECESSIDADE DE POSSE MANSA E PACÍFICA. CONSUMAÇÃO. JURISPRUDÊNCIA CONSOLIDADA. ART. 543-C DO CPC. SÚMULA 83 DO STJ.
+1. A Terceira Seção deste Tribunal Superior, em julgamento de recurso submetido à sistemática do art. 543-C do Código de Processo Penal, firmou a tese de que o crime de roubo se consuma no momento em que o agente se torna possuidor da coisa subtraída, mediante violência ou grave ameaça, ainda que haja imediata perseguição e prisão, sendo prescindível que o objeto subtraído saia da esfera de vigilância da vítima.
+2. Não se vislumbra nos autos circunstância apta a autorizar que se afaste a jurisprudência consolidada nesta Corte diante da alegação de ter a polícia sido acionada durante a conduta criminosa, o que teria encurtado o iter, vindo a perseguir os agentes e prendê-los, logo em seguida, na posse dos bens das vítimas.
+3. Agravo regimental não provido. (AgRg no AREsp 734.427/GO, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe de 21/3/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. 1. RECONHECIMENTO DA FORMA TENTADA. POSSE TRANQUILA DO OBJETO. IRRELEVÂNCIA. TEORIA DA AMOTIO. SIMPLES INVERSÃO DA POSSE. SÚMULA 83/STJ. JURISPRUDÊNCIA PACÍFICA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Prevalece no Superior Tribunal de Justiça a orientação de que o crime de roubo se consuma no momento em que o agente se torna possuidor da res furtiva, mediante violência ou grave ameaça, ainda que haja imediata perseguição e prisão, sendo prescindível que o objeto subtraído saia da esfera de vigilância da vítima.
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 503.847/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe de 1/8/2014).
+Diante do exposto, reconsidero a decisão agravada e, com fundamento no art. 932, inc. IV, alínea "a", do Código de Processo Civil c/c o art. 3º do Código de Processo Penal, nego provimento ao recurso.
+Publique-se. Intimem-se.
