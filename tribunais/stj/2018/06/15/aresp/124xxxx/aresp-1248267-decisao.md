@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial, fundado no art. 105, inciso III, alíneas "a" e "c" do permissivo constitucional, interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. CÉDULAS DE CRÉDITO RURAL. SOBRESTAMENTO DO FEITO. PARCIAL PROVIMENTO.
+1. A Corte entendeu que, no julgamento das ADIs n.º 4.357 e 4.425 em 14/03/2013, a declaração de inconstitucionalidade por arrastamento do artigo 5º da Lei n.º 11.960/2009 - que deu nova redação ao art. 1º-F da Lei n.º 9.494/1997 -, teve alcance limitado, merecendo serem dirimidos alguns aspectos de sua aplicação.
+2. Hipótese na qual deve ocorrer o sobrestamento parcial do feito, apenas em relação àquilo que exceda a aplicação da TR, até o pronunciamento do Supremo Tribunal Federal, em atenção ao princípio da economia processual.
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 525, 854, §3º, II, e 1.015 do NCPC e requer a suspensão do feito até o julgamento dos Embargos de Divergência no Recurso Especial nº 1.319.232/DF.
+É o relatório. Passo a decidir.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado nº 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Quanto à questão de fundo, cuida-se, na origem, de cumprimento individual provisório da sentença proferida na ACP nº 94.0008514-1, tendo por objeto o pagamento de diferenças de correção monetária entre o IPC e o BTN no mês de março de 1990, na atualização dos financiamentos por Cédulas de Crédito Rural.
+O Juízo de primeiro grau suspendeu o feito, tendo em vista decisão proferida por este Sodalício no EREsp nº 1.319.232/DF (recurso interposto nos autos da mencionada ACP nº 94.0008514-1), em tutela provisória, de Relatoria do eminente Ministro Francisco Falcão, que atribuiu efeito suspensivo aos embargos de divergência da União, nos seguintes termos:
+"Trata-se de pedido formulado em tutela provisória, a fim de que se conceda efeito suspensivo aos embargos de divergência.
+Na origem, o Ministério Público Federal propôs ação civil pública na qual pleiteou a devolução das diferenças pagas pelos mutuários de Cédulas de Crédito Rural, lastreadas em recursos da caderneta de poupança, em virtude da implementação do chamado Plano Collor I, no mês de março de 1990 (MP n. 168/90 de 15.03.1990, convertida na Lei nº 8.024/90 de 12.04.1990).
+(..)
+Em julgamento realizado em 16.12.2014, o Superior Tribunal de Justiça, por sua Terceira Turma, deu provimento ao Recurso Especial n. 1.319.232/DF, determinando que o índice de correção monetária aplicável nas Cédulas de Crédito Rural, em março de 1990, deve ser a BTN-F (41,28%), estabelecendo a devolução entre esse índice e o aplicado pelo Banco do Brasil à época (IPC de 84,32% ou o índice ponderado de 74,60% - determinado pela Lei nº 8.088/90). Eis a ementa do acórdão:
+RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CRÉDITO RURAL. REAJUSTE DO SALDO DEVEDOR. INDEXAÇÃO AOS ÍNDICES DE POUPANÇA. MARÇO DE 1990. BTNF (41,28%). PRECEDENTES DAS DUAS TURMAS INTEGRANTES DA SEGUNDA SEÇÃO DO STJ. EFICÁCIA "ERGA OMNES". INTELIGÊNCIA DOS ARTIGOS 16 DA LEI DE AÇÃO CIVIL PÚBLICA COMBINADO COM 93, II, E 103, III DO CDC. PRECEDENTES DO STJ.
+1. O índice de correção monetária aplicável às cédulas de crédito rural, no mês de março de 1990, nos quais prevista a indexação aos índices da caderneta de poupança, foi o BTN no percentual de 41,28%. Precedentes específicos do STJ.
+2. Ajuizada a ação civil pública pelo Ministério Público, com assistência de entidades de classe de âmbito nacional, perante a Seção Judiciária do Distrito Federal e sendo o órgão prolator da decisão final de procedência o Superior Tribunal de Justiça, a eficácia da coisa julgada tem abrangência nacional. Inteligência dos artigos 16 da LACP, 93, II, e 103, III, do CDC.
+3. RECURSOS ESPECIAIS PROVIDOS
+Opostos embargos de declaração, foram acolhidos sem efeitos modificativos (fl. 1.360). Opostos novos embargos de declaração, foram rejeitados (fl. 1.548).
+Interpostos recurso extraordinário pelo Banco Central do Brasil e embargos de divergência pela União e pelo Banco do Brasil S.A., ambos admitidos por decisão da Exma. Ministra Laurita Vaz.
+A seguir, proferiu-se decisão, determinando o sobrestamento do julgamento dos embargos de divergência até o julgamento do RE 870.947/SE, submetido à repercussão geral no Supremo Tribunal Federal.
+Apresentou-se, então, o pedido de tutela provisória para concessão de efeito suspensivo aos embargos de divergência, sustentando, a parte requerente, o seguinte:
+(..)
+Nos embargos de divergência interpostos pela União (fls. 1640-1688), discute-se a legalidade da correção monetária e juros de mora incidentes sobre as condenações impostas à Fazenda Pública, segundo os índices oficiais de remuneração básica da caderneta de poupança (Taxa referencial - TR), conforme determina o art. 1-F da Lei 9.494/97, com a redação dada pela Lei n. 11.960/09. Essa matéria está sendo analisada pelo Supremo Tribunal Federal no RE-RG 870.947/SE, em repercussão geral.
+De acordo com o art. 995, parágrafo único, do Código de Processo Civil de 2015, em caso de recurso que em regra não é dotado de efeito suspensivo, a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave ou de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Como se pode notar, para a excepcional concessão do efeito suspensivo, há se exigir a presença cumulada dos dois requisitos legais, ou seja, a possibilidade de risco de dano grave ou de difícil ou impossível reparação e a probabilidade de provimento do recurso.
+Na hipótese dos autos, encontram-se presentes os requisitos necessários para a concessão do pretendido efeito suspensivo.
+(..)
+Desse modo, estando presentes ambos os requisitos, defiro a concessão da tutela de urgência para atribuir efeito suspensivo aos embargos de divergência interpostos pela União, até o seu julgamento.
+Publique-se. Intime-se"
+Interposto agravo de instrumento pelo exequente, ora recorrido, o Tribunal Regional Federal da 4ª Região deu-lhe provimento parcial para determinar o prosseguimento parcial do cumprimento provisório de sentença, "aplicando-se, por ora, o disposto no art. 5º da Lei nº 11.960/2009, podendo eventuais diferenças ser pleiteadas no futuro, após a definição do índice a ser aplicado". É o que se verifica, in verbis:
+"Ao analisar o pedido de antecipação da tutela recursal, proferi a seguinte decisão:
+"Assiste parcial razão ao agravante.
+Eis o conteúdo da decisão agravada:
+1. O Superior Tribunal de Justiça, em recente decisão (DJ-e do STJ, publicado no dia 26/04/2017), acolheu pedido formulado em tutela provisória para conceder efeito suspensivo a embargos de divergência opostos no Recurso Especial nº 1.319.232 - mesmo processo do qual se origina a sentença coletiva que embasa o presente cumprimento individual provisório de sentença.
+Nesse contexto, uma vez atribuído efeito suspensivo ao recurso interposto no REsp que dá base à presente execução, considerando ainda o disposto no artigo 1.005 do CPC, resta afastado o requisito posto no caput do artigo 520 do CPC para tramitação da execução provisória, de exequibilidade do título judicial.
+Assim sendo, pelas razões acima expostas, determino a suspensão da tramitação do presente processo até o julgamento dos Embargos de Divergência interpostos no REsp nº 1.319.232/DF.
+Intimem-se.
+2. Após, lance-se a fase de suspensão e acautele-se em localizador específico.
+Oportunamente, reative-se a movimentação processual, retornando-me conclusos.
+De fato, o Supremo Tribunal Federal, no âmbito no Recurso Extraordinário n.º 870.947, reconheceu a existência de repercussão geral acerca do regime de atualização monetária e juros moratórios incidentes sobre condenações judiciais impostas à Fazenda Pública (art. 1º-F da Lei n.º 9.494/97, com a redação dada pela Lei n.º 11.960/09).
+A Corte entendeu que, no julgamento das ADIs n.º 4.357 e 4.425 em 14/03/2013, a declaração de inconstitucionalidade por arrastamento do artigo 5º da Lei n.º 11.960/2009 - que deu nova redação ao art. 1º-F da Lei n.º 9.494/1997 -, teve alcance limitado, merecendo serem dirimidos alguns aspectos de sua aplicação.
+Nesse contexto, tenho que o pronunciamento da Corte Suprema poderá afetar o cumprimento de sentença do qual se origina o presente recurso.
+Em razão, disso, mostra-se oportuno o sobrestamento parcial do feito, apenas em relação àquilo que exceda a aplicação da TR, até o pronunciamento do Supremo Tribunal Federal, em atenção ao princípio da economia processual.
+Nessa direção:
+(..)
+Logo, a execução deve prosseguir, aplicando-se, por ora, o disposto no art. 5º da Lei nº 11.960/2009, podendo eventuais diferenças ser pleiteadas no futuro, após a definição do índice a ser aplicado."
+Não configurados elementos hábeis para modificar o entendimento expendido, mantenho-o por seus próprios fundamentos.
+Ante o exposto, voto por dar parcial provimento ao agravo de instrumento." (e-STJ, fls. 745/747)
+A Quarta Turma deste Superior Tribunal de Justiça, contudo, em 17 de maio p.p., no julgamento do Recurso Especial nº 1.732.132/RS, de relatoria do eminente Ministro Luís Felipe Salomão, decidiu, por unanimidade, pela necessidade de suspensão total dos cumprimentos individuais de sentença provisórios decorrentes da ACP nº 94.0008514-1 (acórdão ainda pendente de publicação), em face do efeito suspensivo deferido em tutela provisória, no âmbito do EREsp 1.319.232/DF, aos embargos de divergência da União.
+Faz-se, assim, necessária, a reforma do acórdão recorrido, para harmonizá-lo com o entendimento desta Corte Superior.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, determinando a integral suspensão do cumprimento provisório de sentença em curso, até o julgamento dos embargos de divergência ou a eventual cassação do efeito suspensivo que lhe foi atribuído (EREsp 1.319.232/DF).
+Publique-se.
