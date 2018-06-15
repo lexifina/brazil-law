@@ -1,0 +1,5 @@
+DECISÃO
+A Suscitante deixou transcorrer in albis, o prazo estabelecido na decisão que determinou sua intimação para que dissesse se remanesce interesse no julgamento do presente conflito de competência, atualizando as informações acerca da convolação da recuperação judicial em falência.
+Desse modo, a par do evidente desinteresse processual, verifica-se que o conflito de competência encontra-se prejudicado diante da superveniente convolação da recuperação judicial em falência, decretada em 24/7/2017, porquanto a competência do Juízo da Recuperação Judicial desaparece para dar lugar à competência do Juízo universal da falência, por óbvio, regrada por diferente normatividade e objetivo diverso. Evidência disso é o fato de que a discussão acerca da essencialidade dos bens objeto no presente para a continuidade da atividade da empresa se mostra absolutamente inócua.
+Ante o exposto, julgo prejudicado o julgamento do conflito de competência, bem como dos eventuais recursos interpostos.
+Publique-se.
