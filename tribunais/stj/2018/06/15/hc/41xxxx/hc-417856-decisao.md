@@ -1,0 +1,25 @@
+DECISÃO
+SAMUEL ALVES PEDRO, paciente neste habeas corpus, alega sofrer constrangimento ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, na Apelação Criminal n. 0001295-47.2013.8.24.0075.
+Consta dos autos que o paciente foi condenado à pena de 7 anos e 20 dias de reclusão, em regime fechado, pela prática do crime previsto no art. 157, § 2º, II, do Código Penal.
+A Corte de origem, por sua vez, negou provimento ao recurso da defesa, e deu provimento ao recurso ministerial para elevar a reprimenda para 7 anos, 9 meses e 25 dias de reclusão.
+Neste mandamus, a impetrante pleiteia o afastamento da valoração negativa das consequências do crime, ao argumento de que o elevado prejuízo suportado pela vítima não é fundamento válido para exasperar a pena, por ser inerente ao tipo penal.
+Requer, liminarmente e no mérito, seja readequada a pena-base do paciente.
+Indeferida a liminar (fls. 367-368) e dispensadas as informações, veio parecer do Ministério Público Federal, que opinou pela denegação da ordem (fls. 373-377).
+Decido.
+No que tange à pretendida redução da pena-base imposta aos pacientes, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto, devendo, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do artigo 59 do Código Penal, as quais não deve se furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, o Juiz sentenciante elevou a pena-base do paciente em 1/6, considerando os maus antecedentes e as consequências do crime.
+No que importa à análise do writ, acerca das consequências, asseverou que "o prejuízo financeiro sofrido que, na hipótese, alcança a quantia aproximada de R$ 22.000,00 (vinte e dois mil reais), pode ser considerado extraordinário" (fl. 269).
+A Corte estadual confirmou os termos da sentença e acrescentou que "além dos valores acima, a ação delituosa obteve também cheques em montante superior a R$ 200.000,00  ..  ainda que posteriormente tais valores possam ter sido negociados com os clientes da empresa vítima  ..  inegável que o retardo no seu recebimento e o desgaste na busca das quantias expressas nas cártulas, refogem, e muito as circunstâncias e consequências do crime" (fl. 352).
+Sobre o tema, a jurisprudência desta Corte Superior entende que o prejuízo exacerbado sofrido pela vítima é motivo idôneo para exasperar a pena-base a título de consequências do crime de roubo, como ocorrido na espécie.
+Nesse sentido:
+ ..
+4. Em relação às consequências do crime, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal vetor mostra-se escorreito se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal. Com efeito, o simples fato de os bens roubados não terem sido integralmente devolvidos à vítima não justifica o incremento da pena-base a título de consequências do crime. Porém, o prejuízo suportado pela ofendida, somado às demais circunstâncias concretas do delito, demonstra não ser razoável o pleito de redução da básica ao mínimo legal, em atendimento aos princípios da proporcionalidade e da individualização da pena.
+ ..
+8. Writ não conhecido.
+(HC n. 422.588/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 19/12/2017)
+Apenas a título de complementação, ressalto que o Supremo Tribunal Federal possui a mesma orientação, de que "a consideração, nas circunstâncias judiciais, da expressão financeira do prejuízo causado à vítima não constitui elemento ínsito ao tipo, podendo ser validamente observada na fixação da pena-base imposta ao infrator. É o que, aliás, impõe o art. 59 do Código Penal, ao determinar que o juiz, na fixação da reprimenda, faça a valoração, entre outros elementos, das consequências da infração, o que, a toda evidência, subsume o maior ou menor prejuízo que um crime de roubo venha a causar à vítima" (RHC n. 117.108/DF, Rel. Ministro Dias Toffoli, 1ª T., DJe 21/10/2013).
+Portanto, diferentemente do alegado, os fundamentos apresentados pelas instâncias ordinárias são suficientes e idôneos a embasar o aumento da pena-base, porquanto consideraram, a partir da análise do caso concreto, que as consequências do crime praticado extrapolaram as normais do tipo penal.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
