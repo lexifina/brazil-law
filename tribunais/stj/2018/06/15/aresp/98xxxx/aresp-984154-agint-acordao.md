@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. CONDENAÇÃO AO PAGAMENTO DE LUCROS CESSANTES. NECESSIDADE. SÚMULA 83/STJ. AGRAVO IMPROVIDO.
+1. O atraso na entrega do imóvel objeto de contrato de promessa de compra e venda acarreta a condenação da promitente vendedora ao pagamento de lucros cessantes, a título de aluguéis, que deixariam de serem pagos ou que poderia o imóvel ter rendido. Precedentes. Acórdão a quo em harmonia com a jurisprudência desta Corte Superior, atraindo a incidência da Súmula 83/STJ.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por Monsenhor Empreendimentos Imobiliários Ltda. e outras contra decisão monocrática desta relatoria que conheceu do agravo para negar provimento ao recurso especial assim ementada (e-STJ, fl. 580):
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA DE OBRA. DANOS MATERIAIS. LUCROS CESSANTES CONFIGURADOS. CASO FORTUITO E/OU FORÇA MAIOR. EXCESSO DE CHUVAS E ESCASSEZ DE MÃO DE OBRA. ALEGAÇÃO DE AUSÊNCIA DE CLÁUSULA PENAL. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. ÓBICES DAS SÚMULAS N. 5 E 7 DO STJ. MERA INDICAÇÃO DE DISPOSITIVOS LEGAIS SEM A DEVIDA FUNDAMENTAÇÃO (ART. 944 DO CC/2002). ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DE LEI. SÚMULA N. 284 DO STF. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões, as agravantes pretendem a reforma da decisão agravada, sustentando, em síntese, que não se pode admitir a condenação a título de lucros cessantes com base em mera presunção, sem que haja comprovação da prova de sua efetiva ocorrência.
+A impugnação não foi apresentada - fl. 597 (e-STJ).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+O recurso não comporta provimento.
+Impende registrar que, das razões recursais, verifica-se que as agravantes se insurgem tão somente contra a condenação por lucros cessantes.
+Com efeito, o dano material se consubstancia com o efetivo prejuízo sofrido pela parte, podendo ser positivo, sob a forma de dano emergente - aquilo que efetivamente perdeu, ocasionando diminuição de seu patrimônio -, ou negativo, sob o prisma dos lucros cessantes - aquilo que deixou de ganhar.
+Dito isso, em relação aos danos materiais, o entendimento consolidado do STJ é de que, em caso de atraso na entrega do imóvel, a construtora deverá indenizar o promitente comprador em razão dos lucros cessantes, independente de sua comprovação.
+A propósito:
+CIVIL. AÇÃO DE REVISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. CONSTRUTORA. ATRASO NA ENTREGA DE UNIDADE IMOBILIÁRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. LUCROS CESSANTES. PRESUNÇÃO. DANO MORAL NÃO CONFIGURADO.
+1. Ação de revisão contratual cumulada com indenização por dano material e compensação por dano moral ajuizada em 03.07.2012. Agravo em Recurso especial concluso ao gabinete em 21.09.2016. Julgamento: CPC/73.
+2. Cinge-se a controvérsia a definir se o atraso da recorrida em entregar unidade imobiliária gerou danos materiais e morais aos recorridos.
+3. A ausência de decisão acerca dos argumentos invocados pelos recorrentes e dos dispositivos legais indicados como violados, impede o conhecimento do recurso especial.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. O não cumprimento do contrato pelo promitente-vendedor, causa, além do dano emergente, figurado nos valores das parcelas pagas pelo promitente-comprador, lucros cessantes a título de alugueres, que deixariam de pagar ou que poderia o imóvel ter rendido, se tivesse sido entregue na data contratada, pois esta seria a situação econômica em que se encontrariam se a unidade imobiliária tivesse sido entregue na data contratada. Trata-se de situação que, vinda da experiência comum, não necessita de prova (art. 335 do CPC/73). Precedentes.
+7. A jurisprudência do STJ vem evoluindo, de maneira acertada, para permitir que se observe o fato concreto e suas circunstâncias, afastando o caráter absoluto da presunção de existência de danos morais indenizáveis.
+8. A compensação por dano moral por atraso em entrega de unidade imobiliária só será possível em excepcionais circunstâncias que sejam comprovadas de plano nos autos, o que não restou configurado.
+9. Recurso especial de INTERLAKES EMPREENDIMENTO IMOBILIÁRIO LTDA. parcialmente conhecido, e nessa parte, provido. 10. Recurso especial adesivo de MARCELO PEDRO e LILIANE SIMÕES CARNEIRO PEDRO não conhecido. (REsp 1.641.037/SP, Relatora a Ministra NANCY ANDRIGHI, Terceira Turma, DJe de 19/12/2016 - sem grifo no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. ATRASO NA ENTREGA DO IMÓVEL OBJETO DA PROMESSA DE COMPRA E VENDA. DANO EMERGENTE E [NOME]. PRECEDENTES DO STJ. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL DE INTERPRETAÇÃO DIVERGENTE. SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão do Tribunal encontra-se em harmonia com a jurisprudência consolidada neste Sodalício, no sentido de que a inexecução do contrato de promessa de compra e venda, consubstanciada na ausência de entrega do imóvel na data acordada, acarreta, além de dano emergente, figurado nos valores das parcelas pagas pelo promitente-comprador e lucros cessantes. Precedentes.
+2. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido nesse ponto, o que denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3. O mero inconformismo não oferece os subsídios constitucionalmente exigidos para o julgamento do recurso especial, pois a falta de demonstração de possível violação de normativo infraconstitucional (argumentação deficiente) esvazia o sentido da controvérsia a ser dirimida nos termos impostos pelo art. 105, III, "a", da Constituição Federal (conferindo incompreensibilidade à questão), o que torna apropriada a aplicação, dada sua inteligência, da Súmula 284/STF.
+4. Agravo interno não provido. (AgInt no AREsp 973.004/AM, Relator o Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe de 23/11/2016 - sem grifo no original)
+No caso, o Tribunal de origem, ao manter a sentença de primeiro grau que julgou procedente a ação indenizatória, asseverou que (e-STJ, fls. 463-464):
+Com relação aos danos materiais, buscam as requeridas afastar a condenação, porém, não lhes assiste razão. O fundamento do direito ao ressarcimento de tais prejuízos é o descumprimento da cláusula contratual que estabelecia o prazo de entrega da obra, portanto, basta a efetiva constatação do descumprimento do dever assumido por uma das partes para surgir o dever de reparação.
+As apelantes ultrapassaram em muito o limite do tolerável, o imóvel deveria ter sido entregue até janeiro de 2011, já contando o prazo de tolerância de 180 dias.
+Nesse passo, sobrelevam-se os danos emergentes relativos aos aluguéis pelo período subsequente à data em que deveriam os adquirentes ter ingressado no imóvel, como acertadamente consignou o Douto Magistrado singular: "Destarte, por medida de justiça, a fim de compensar e reparar os danos materiais experimentados pelos autores, devem as requeridas ser condenadas ao pagamento, mês a mês, a partir do inicio de janeiro de 2011, do valor de uma locação de imóvel do mesmo padrão do vendido aos autores até a data da efetiva entrega do bem prometido, ficando certo que tais valores deverão ser apurados em sede de liquidação por arbitramento." sic
+Nesse contexto, verifica-se que a Corte a quo adotou posicionamento em consonância com a jurisprudência desta Casa, atraindo a incidência das Súmulas 5, 7 e 83/STJ.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
