@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo manteve decisão do Juízo no sentido da extinção, sem resolução de mérito, do processo, ante a ausência de interesse processual da Defensoria Pública Estadual para formalizar ação civil pública em defesa de interesses individuais heterogêneos. Eis a síntese do acórdão:
+    AÇÃO CIVIL PÚBLICA. INTERESSES INDIVIDUAIS PUROS (OU HETEROGÊNEOS). Não se viabiliza juridicamente o processo coletivo para versar interesses individuais de caráter heterogêneo. Não provimento do recurso.
+    No extraordinário cujo trânsito busca alcançar, a recorrente aponta violado os artigos 1º, inciso III, 5º, inciso XXXV, 6º e 182 da Constituição Federal, bem assim o artigo 8º, nº 1, do Decreto nº 678/1992 – Pacto de San José da Costa Rica. Articula com o direito à moradia urbana digna. Argui ofensa à garantia constitucional de acesso à Justiça. Consoante afirma, a ação civil pública versa interesses individuais heterogêneos – e não homogêneos, conforme assentado pelo Tribunal de origem –, presente irregularidades fundiárias praticadas pelos recorridos na Comunidade Jardim Oratório, no Município de Mauá/SP. Diz da legitimidade da Defensoria Pública e da adequação da via eleita. Menciona precedentes do Supremo.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do ato questionado os seguintes trechos:
+    […]
+    4. Embora difuso o elenco de motivos desfiados na larga petição inicial da vertente demanda (fls. 2/55) – que empolga, à evidência, pretensão de o Poder judiciário assumir, em caráter substituinte, a direção de políticas públicas, calha que a situação de fato dos vários possíveis interessados não frui da nota de homogeneidade que tornaria juridicamente viável a acolhida do recurso e o processamento da ação coletiva objeto.
+    O problema processual que implicou a extinção, pois, não está em que a “causa petendi” não se resuma, no caso, a vícios de consentimento suscetíveis de amparar pleitos de anulação de acordos celebrados com os requeridos, mas em os interesses individuais em pauta não serem homogêneos, exigentes de provas singulares para cada situação.
+    6. Acenou-se, é certo, à incompletude da regularização fundiária local (fl. 6), à falta de informações dos interessados (fl. 7) - envolvendo possíveis erros na vergastada opção pelo recebimento de valores indenizatórios inferiores ao necessário para ulterior reassentamento - , a ameaças e pressões para o abandono da posse do imóvel (fl. 10), e à ausência de efetiva escolha quanto ao reassentamento em nova habitação (fl. 11), de par com referência a danos urbanísticos (fls. 38 et sqq.).
+    Não menos certo, contudo, é que os pedidos concretos alistados pela Defensoria ora apelante (fls. 53-4) abrangem interesses individuais heterogêneos […]
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao pronunciamento atacado – no que proclamado o caráter individual e não homogêneo dos interesses pleiteados na demanda. Busca-se a reanálise dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso, o que é vedado em sede extraordinária.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 15 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
