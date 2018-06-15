@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Amazonas, assim ementado:
+    “MANDADO DE SEGURANÇA. CONSTITUCIONAL E ADMINISTRATIVO. PEDIDO DE LIMINAR. CONCURSO PÚBLICO. EDITAL Nº 001/2009-CBMAM. CANDIDATOS APROVADOS DENTRO DO NÚMERO DE VAGAS. DIREITO LÍQUIDO E CERTO À NOMEAÇÃO. CONVOCAÇÃO PARA O CURSO DE FORMAÇÃO. SEGURANÇA CONCEDIDA PARCIALMENTE.
+    - Os argumentos apresentados pelo impetrado não são convincentes, pois não demonstram que a declaração de inconstitucionalidade da Lei nº 3.437/2009, que trata da criação do Subcomando de Pronto Atendimento e Resgate, reflete na realização do concurso público, notadamente, por não existir qualquer disposição no Edital nº 001/2009 – CBMAM, que vincule a realização do certame à referida Lei.
+    - Assim, subsiste o entendimento sedimentado pelos Tribunais Superiores, no sentido de que o candidato aprovado em concurso público dentro do número de vagas possui direito líquido e certo à nomeação, caracterizando, assim, a presença dos requisitos que autorizam o deferimento da liminar no mandado de segurança.
+    SEGURANÇA CONCEDIDA PARCIALMENTE E EM DISSONÂNCIA COM O PARECER MINISTERIAL”.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 102, caput, III, da Constituição. Sustenta que “o Concurso Público em questão foi realizado sob égide de uma lei que posteriormente saiu de nosso ordenamento jurídico e isso não pode ser ignorado pelo Judiciário. A nomeação dos candidatos aprovados seria um obrigação se a função pública a ser desempenhada pelos titulares dos cargos ainda existisse”.
+    O Ministério Público Federal, em parecer do Subprocurador-Geral da República Paulo Gustavo Gonet Branco, opinou pelo desprovimento do agravo. Esta a ementa do referido parecer:
+    “Recurso Extraordinário com Agravo. Concurso Público. Aprovação dentro do número de vagas. Direito à nomeação. Precedentes do STF. Situações excepcionais não identificadas pelo Tribunal de Justiça. Parecer pelo desprovimento do agravo”.
+    O recurso não deve ser provido. De início, registro que o entendimento do Tribunal de origem está alinhado com a jurisprudência do Supremo Tribunal Federal, que, após reconhecer a existência de repercussão geral da matéria no RE 598.099-RG, julgado sob a relatoria do Ministro Gilmar Mendes, entendeu que o candidato aprovado entre as vagas previstas no edital de concurso público tem direito líquido e certo à nomeação ao cargo público.
+    Ademais, para se chegar a conclusão diversa do acórdão recorrido no sentido de não estar caracterizada situação excepcional, capaz de impedir a nomeação dos aprovados, seria imprescindível uma nova apreciação dos fatos e do material probatório constantes dos autos, assim como a análise das cláusulas editalícias que regem o concurso ora em debate, o que não tem lugar neste momento processual. A hipótese atrai a incidência das Súmulas 279 e 454/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 15 de junho de 2018.
+Ministro LUÍS ROBERTO BARROSO
+Relator
