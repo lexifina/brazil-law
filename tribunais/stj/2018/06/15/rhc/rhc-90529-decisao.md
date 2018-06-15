@@ -1,0 +1,27 @@
+DECISÃO
+ARISTIDES DE ABREU estaria sofrendo coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no Habeas Corpus n. 1.636.340-5.
+Consta dos autos que ao recorrente, denunciado pela suposta prática do delito tipificado no art. 306 do CTB, foi oferecido o benefício da suspensão condicional do processo, com a condição especial de perda do valor pago a título de fiança.
+Impetrado prévio writ a fim de que a aludida condição especial fosse afastada dos termos do acordo firmado, o Tribunal a quo denegou a ordem.
+Neste recurso, sustenta o insurgente ser inadmissível "que a perda da fiança se constitua como condição ao exercício de um direito público subjetivo do réu por três motivos: hipótese não prevista no Código de Processo Penal; não figura no rol do artigo 89 da Lei nº 9.099/95; equivale a prestação pecuniária (fl. 70).
+Aduz que " a  perda do valor da fiança como condição constante na oferta de suspensão condicional do processo equivale a pena restritiva de direitos, restando explícito subterfúgio para a antecipação da pena, sem que haja provas mínimas - vez que sequer foi iniciada a fase instrutória - e sem que o réu tenha exercido a ampla defesa e contraditório" (fl. 71).
+Assevera que "nem o magistrado de primeiro grau, nem o Tribunal de Justiça do Estado do Paraná se preocuparam em especificar o porquê consideravam que a perda do valor recolhido a título de fiança (no caso em apreço, o valor de R$ 450,00), teria qualquer relação com o delito do art. 306 do CTB ou mesmo à pessoa do acusado" (fl. 75).
+Argumenta que o valor da prestação pecuniária não seria compatível com a que poderia ser imposta em caso de condenação, "conduzindo o acusado quando da aceitação da suspensão condicional do processo (benefício que deveria ser mais favorável ao réu) à situação mais gravosa do que eventual sentença condenatória, em flagrante demonstração de sua desproporcionalidade" (fl. 76).
+Requer o provimento da insurgência a fim de que seja determinada a exclusão da perda do valor da fiança do rol de condições para o exercício do direito subjetivo à suspensão condicional do processo.
+O Ministério Público Federal, em parecer de fls. 105-108, opinou pelo não provimento do recurso.
+Decido.
+O aresto combatido não padece de ilegalidade.
+Sobre o tema posto em discussão, verifico que a alegação defensiva diverge da jurisprudência consolidada pela Terceira Seção desta Corte Superior de Justiça, que, em 25/11/2015, por ocasião do julgamento do REsp n. 1.498.034/RS, processado sob o rito do art. 543-C do Código de Processo Civil de 1973 (recurso representativo da controvérsia), fixou a tese de que "Não há óbice a que se estabeleçam, no prudente uso da faculdade judicial disposta no art. 89, § 2º, da Lei n. 9.099/1995, obrigações equivalentes, do ponto de vista prático, a sanções penais (tais como a prestação de serviços comunitários ou a prestação pecuniária), mas que, para os fins do sursis processual, se apresentam tão somente como condições para sua incidência" (DJe 1º/12/2015).
+Na ocasião, ressaltou-se o seguinte, no que interessa:
+O § 2º do art. 89 da Lei n. 9.099/1995 não veda a imposição de outras condições, desde que adequadas ao fato e à situação pessoal do acusado, in verbis:
+Art. 89. Nos crimes em que a pena mínima cominada for igual ou inferior a um ano, abrangidas ou não por esta Lei, o Ministério Público, ao oferecer a denúncia, poderá propor a suspensão do processo, por dois a quatro anos, desde que o acusado não esteja sendo processado ou não tenha sido condenado por outro crime, presentes os demais requisitos que autorizariam a suspensão condicional da pena (art. 77 do Código Penal).
+§ 1º  ..
+I - reparação do dano, salvo impossibilidade de fazê-lo;
+II - proibição de frequentar determinados lugares;
+III - proibição de ausentar-se da comarca onde reside, sem autorização do Juiz;
+IV - comparecimento pessoal e obrigatório a juízo, mensalmente, para informar e justificar suas atividades.
+§ 2º O Juiz poderá especificar outras condições a que fica subordinada a suspensão, desde que adequadas ao fato e à situação pessoal do acusado.
+Assim, não há óbice a que seja estabelecida, como uma das condições para a suspensão condicional do processo, a prestação pecuniária ou, como in casu, a perda do valor da fiança, tendo em vista que é apenas uma alternativa colocada à disposição do acusado pelo Ministério Público e fixada pelo Magistrado, consoante o disposto no § 2º do art. 89 da Lei dos Juizados Especiais, como visto acima.
+Ademais, a suspensão condicional do processo constitui instituto de política criminal, benéfico ao acusado, que visa a evitar a sua sujeição a um processo penal e cuja aceitação depende exclusivamente da sua livre vontade, sendo certo que, caso discorde dos seus termos, poderá recusá-la, situação em que o processo retoma o seu curso normal, dando-se início à instrução probatória e ao respectivo julgamento, observado o devido processo legal.
+Por fim, no que concerne à alegada ausência de justificativa para a perda da fiança, noto que a tese não foi examinada pelo Tribunal a quo, de forma que sua análise diretamente por esta Corte Superior importaria em indevida supressão de instância.
+À vista do exposto, nos termos do art. 34, XX, c/c o art. 246, ambos do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se e intimem-se.
