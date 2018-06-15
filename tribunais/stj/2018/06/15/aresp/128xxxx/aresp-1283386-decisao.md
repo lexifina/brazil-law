@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por DIEGO DIAS DE PAULA contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado do Paraná.
+Sustenta a defesa, nas razões do recurso especial, violação do artigo 386, IV, V e VII, do Código de Processo Penal.
+Aduz, em síntese, que "a nova prova feita duas vezes sob o crivo do contraditório - em sede de justificação judicial perante a 14ª Vara Criminal de Curitiba e conversão do feito em diligência perante o Egrégio Tribunal de Justiça do Paraná - convergem na autoria do delito para outra pessoa (Leonardo - vulgo "mancha"), conforme já mencionado desde os idos de 2011 pela testemunha Eclair" (e-STJ, fl. 1476).
+Defende a ausência de provas suficientes para a condenação do agravante pela prática do delito de latrocínio, razão pela qual requer sua absolvição.
+Apresentadas as contrarrazões (e-STJ, fls. 1482-1485).
+O recurso foi inadmitido com fundamento no óbice da Súmula 7/STJ (e-STJ, fls. 1490-1492).
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 1533-1534).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal de origem manteve a condenação do recorrente pelo cometimento do delito de latrocínio, com os seguintes fundamentos:
+"Após a análise de todo o conjunto probatório, observa-se que a prova nova produzida não é definitiva para concluir a inocência do requerente.
+O acervo probatório deve ser analisado como um todo, vez que, no presente caso, a nova prova trazida quer nos fazer crer que a autoria deve recair sobre pessoa falecida, que por óbvio não tem nada a perder. Assim, como se trata de crime de latrocínio, não há como analisar essas novas informações de forma isolada.
+Diversamente do sustentado, o envolvimento do requerente no crime pelo qual foi condenado restou sobejamente demonstrado nas provas colacionadas aos autos.
+O que se verifica é que as três testemunhas presenciais no clamor dos acontecimentos, reconheceram Diego como sendo o autor do delito em comento. Portanto, o depoimento da mãe e irmã do falecido, de Danilo, Eclair e a declaração de dúvida exarada por Paulo, não constitui força probante para absolver o autor da ação.
+A principal indagação a ser feita é: caso Leandro não tivesse morrido, o requerente continuaria pagando por um crime que não cometeu  Não me parece crível que um inocente condenado a 20 (vinte) anos de reclusão em regime fechado se mantenha calado diante de tamanha injustiça. Por mais que a justificativa apresentada seja a de que o Leandro proferia ameaças contra os que "sabiam da verdadeira história" (no caso Andrieli, a mãe do revisionando e Danilo), tal afirmativa por si só me parece frágil e não ficou comprovada durante a presente ação revisional.
+Sequer restou claro nos autos que "tipo" de ameaças eram essas, vez que Andrieli verberou tão somente que Leandro apenas a olhava e que teria ido até a casa da sua sogra proferir ameaças verbais. Caso Diego não tivesse cometido o delito, razoável seria que à época seus familiares tivessem colacionado todas as testemunhas possíveis para embasar sua absolvição ainda mais porque, em 03/08/2011, Eclair foi ouvida perante o juízo processante e comentou que teria sido o "Mancha" o verdadeiro autor do delito e, mesmo assim, não sofreu nenhuma ameaça do "tão temido Mancha", fato este que poderia ter servido de estímulo para que a família pudesse tentar de algum jeito reaver a situação de Diego.
+Desta feita, a mera acusação de uma pessoa falecida sem sequer esta ter sido citada uma única vez durante a investigação policial e, ainda, diante de alegações sem qualquer substrato probatório, não é suficiente a descaracterizar a decisão condenatória do requerente, devidamente fundamentada em provas produzidas sob o crivo do contraditório e da ampla defesa.
+Por isso, voto por julgar improcedente a revisão criminal." (e-STJ, fls. 1456-1458).
+O acórdão combatido concluiu, em sede de revisão criminal, que a prova nova produzida não seria suficiente para inocentar o agravante, uma vez que "a mera acusação de uma pessoa falecida sem sequer esta ter sido citada uma única vez durante a investigação policial e, ainda, diante de alegações sem qualquer substrato probatório, não é suficiente a descaracterizar a decisão condenatória do requerente, devidamente fundamentada em provas produzidas sob o crivo do contraditório e da ampla defesa" (e-STJ, fl. 1458).
+Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela absolvição do recorrente, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
