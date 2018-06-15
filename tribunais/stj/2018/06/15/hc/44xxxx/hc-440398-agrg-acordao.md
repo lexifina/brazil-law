@@ -1,0 +1,59 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORDEM CONCEDIDA DE OFÍCIO PARA REDIMENSIONAR A PENA DO ORA AGRAVADO PARA 5 ANOS E 4 MESES DE RECLUSÃO. DOSIMETRIA. TERCEIRA FASE. EXASPERAÇÃO DA PENA EM PATAMAR SUPERIOR AO MÍNIMO LEGAL SEM FUNDAMENTAÇÃO CONCRETA. SÚMULA N. 443 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. REDUÇÃO AO MÍNIMO LEGAL (1/3). POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça consagrou o entendimento de que o recrudescimento da pena na terceira fase da dosimetria alusiva ao delito de roubo circunstanciado em fração mais elevada que 1/3 (um terço) demanda fundamentação concreta, não se afigurando idônea a simples menção ao número de majorantes, como no caso dos autos. Nesse diapasão, o Enunciado Sumular n. 443 desta Corte.
+2. A jurisprudência desta Corte tem entendido que "o emprego de arma de fogo, por si só, não permite a imposição de fração de aumento superior a 1/3" (HC 433.118/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 09/04/2018).
+Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão singular por mim proferida, de fls. 343/349, que concedeu a ordem ao habeas corpus impetrado em benefício do ora agravado, para redimensionar a pena do paciente para 5 anos e 4 meses de reclusão, e 13 dias-multa.
+No presente agravo regimental, alega o agravante que, a Corte estadual apresentou fundamentação concreta ao majorar a pena na terceira fase em 3/8, não sendo, pois, caso de aplicação da Súmula n. 443 desta Corte.
+Sustenta que esta Corte deve "superar um entendimento jurisprudencial que está impedindo o que de mais precioso há no judiciário: a aplicação da lei segundo as circunstâncias do caso concreto" (fl. 366).
+Pretende, assim, seja reconsiderada a decisão agravada "ou para que, não o fazendo, remeta o presente agravo à egrégia Quinta Turma, para que ela anule ou reforme a decisão agravada, mediante provimento deste agravo interno, ou regimental" (fls. 357/366).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelo agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+Conforme afirmado no decisum agravado, esta Corte Superior não admite habeas corpus substitutivo de recurso próprio, porém ressalta a possibilidade de concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Com efeito, consta dos autos que o Tribunal a quo retificou o decreto condenatório para majorar a pena na terceira fase em 3/8, em razão das majorantes de concurso de agentes e uso de arma, consoante os seguintes excertos:
+ ..
+O Ministério Público questiona a terceira fase da aplicação da pena.
+Pretende o aumento da fração empregada pela existência de duas circunstanciadoras ao patamar de 3/8, pois a gravidade dos fatos ultrapassa aquela inerente ao tipo penal.
+Com razão.
+Com efeito, segundo orientação jurisprudencial sedimentada no STJ, "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Súmula 443).
+Na hipótese, o efetivo emprego de arma de fogo (embora o acusado afirme tratar-se de uma réplica, a defesa não comprovou sua alegação), além de ter influído significativamente para o sucesso do crime, diante da maior temeridade gerada com a conduta, expôs a vítima a perigo maior, tendo em vista a possibilidade de ocorrer um disparo acidental.
+Quanto ao concurso de agentes, a união de esforços, com a organização e a premeditação do crime, com um segundo agente aguardando o outro já a bordo da moto, facilitaram o seu êxito e revelaram a real periculosidade do acusado.
+Desse modo, há razões concretas a justificar o aumento da pena na proporção pretendida pela acusação (3/8).
+ ..
+Diante disso, passa-se à modificação da pena.
+Na primeira e na segunda etapas, mantém-se a sanção no patamar de 4 (quatro) anos e 10 (dez) dias-multa. Na terceira fase, aplica-se a fração de 3/8, pela presença de duas circunstanciadoras, tornando a pena definitiva em 5 (cinco) anos e 6 (seis) meses de reclusão e 14 (quatorze) dias-multa, mantidas as demais determinações da sentença.  ..  (fls. 252/253).
+Todavia, o entendimento desta Corte Superior é no sentido de que o recrudescimento da pena na terceira fase da dosimetria alusiva ao delito de roubo circunstanciado em fração mais elevada que 1/3 (um terço) demanda fundamentação concreta, não se afigurando idônea a simples menção ao número de majorantes, conforme dispõe o Enunciado n. 443 deste Superior Tribunal de Justiça.
+Na hipótese, o Tribunal a quo não trouxe nenhuma fundamentação concreta que justificasse a majoração em 3/8, limitando-se a citar as majorantes presentes no delito. Dessa forma, mostra-se necessário o redimensionamento da pena, com a redução da fração na terceira fase da reprimenda em 1/3 (um terço), conforme a jurisprudência desta Quinta Turma:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO MAJORADO. EMPREGO DE ARMA BRANCA. CONCURSO DE AGENTES. DOSIMETRIA. AUMENTO DA PENA. INCIDÊNCIA DE DUAS MAJORANTES. FUNDAMENTAÇÃO INSUFICIENTE. SÚMULA 443/STJ. REGIME INICIALMENTE FECHADO. GRAVIDADE ABSTRATA DO DELITO. FUNDAMENTO INIDÔNEO. SÚMULA 440/STJ. FIXAÇÃO DO REGIME INICIAL SEMIABERTO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+III - A Terceira Seção desta Corte firmou o entendimento no sentido de que, para a incidência da causa especial de aumento prevista no inciso I do § 2º do artigo 157 do Código Penal, mostra-se prescindível a apreensão e realização de perícia na arma utilizada na prática do crime de roubo, desde que seja comprovada a sua utilização na prática delituosa por outros meios de prova. No caso dos autos, o v. acórdão reprochado apoiou-se na prova oral produzida para concluir pela utilização da arma branca no crime de roubo (precedentes).
+IV - O eg. Tribunal de origem, apoiado nos elementos de prova produzidos nos autos, concluiu que "as causas de aumento restaram devidamente demonstradas, pois o material probatório coligido aponta que o crime foi cometido pela Ré com mais um comparsa  .. " (fl. 46). Rever esse entendimento demandaria, impreterivelmente, revolvimento de matéria fático-probatória, inviável na via eleita (precedentes).
+V - No presente caso, verifica-se que a pena foi exasperada em 3/8 (três oitavos) considerando apenas a quantidade de majorantes. Assim, forçoso reconhecer a ocorrência de flagrante ilegalidade, uma vez que o aumento foi aplicado sem que houvesse a devida fundamentação, violando o enunciado da Súmula n. 443/STJ, segundo o qual "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para sua exasperação a mera indicação do número de majorantes" (precedentes).
+ ..
+Habeas corpus não conhecido. Ordem concedida de ofício para, confirmando a liminar, com fundamento nas Súmulas n. 443 e 440/STJ, reduzir a pena da paciente para 5 (cinco) anos e 4 (quatro) meses de reclusão e fixar o regime prisional semiaberto para o início do cumprimento da pena (HC 343.248/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 11/4/2016).
+HABEAS CORPUS. WRIT SUBSTITUTIVO. ROUBO CIRCUNSTANCIADO. PENA-BASE. INQUÉRITOS E AÇÕES PENAIS EM ANDAMENTO. SÚMULA 444 DO STJ. CIRCUNSTÂNCIA ATENUANTE. MENORIDADE. QUANTUM DE REDUÇÃO. DESPROPORCIONALIDADE. TERCEIRA FASE DA DOSIMETRIA. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. SÚMULA N. 443 DO STF. REGIME INICIAL FECHADO. ILEGALIDADE. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+5. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes. Súmula n. 443 do STJ.
+6. As instâncias ordinárias, não obstante hajam particularizado o fato de o delito ter sido praticado com emprego de arma de fogo e em concurso de agentes, não apontaram nenhum elemento dos autos (modus operandi, por exemplo) que, efetivamente, evidenciasse real necessidade de exasperação da pena na terceira fase da dosimetria, no patamar estabelecido. Ressalva do relator.
+ ..
+10. Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a pena-base ao mínimo legal, reconhecer a ilegalidade na redução da pena em relação à menoridade relativa do réu, adotar o patamar de 1/3 para o aumento da reprimenda procedido na terceira etapa da dosimetria, resultando a pena definitiva do paciente em 5 anos e 4 meses de reclusão e 13 dias-multa, a ser cumprida no regime inicial semiaberto (HC 228.310/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 11/3/2016).
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. ROUBO DUPLAMENTE CIRCUNSTANCIADO. INSURGÊNCIA DEFENSIVA CONTRA A TERCEIRA FASE DA DOSIMETRIA DA PENA. PEDIDO DE APLICAÇÃO DA SÚMULA 443/STJ. RECONHECIMENTO. FUNDAMENTAÇÃO INIDÔNEA NA UTILIZAÇÃO DA FRAÇÃO DE 3/8. CRITÉRIO QUANTITATIVO. IMPOSSIBILIDADE. REDUÇÃO PARA 1/3. REGIME FECHADO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA PARA A FIXAÇÃO DE REGIME INICIAL MAIS GRAVOSO. ENUNCIADOS N. 440 DA SÚMULA DO STJ E N. 718 E 719 DA SÚMULA DO STF. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+- Consoante a Súmula n. 443 deste Superior Tribunal de Justiça, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes ".
+- Na hipótese, o aumento da pena em fração superior a 1/3 ocorreu em razão da quantidade de majorantes, sem a indicação de fundamentação concreta, a evidenciar a necessidade de aplicação da fração mínima.
+ ..
+- Habeas corpus não conhecido. Concessão da ordem, de ofício, para redimensionar a pena do paciente para 5 anos e 4 meses de reclusão e fixar o regime inicial semiaberto (HC 338.514/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/2/2016).
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO.
+ ..
+ROUBO CIRCUNSTANCIADO (ARTIGO 157, § 2º, INCISOS I E II, DO CÓDIGO PENAL). DOSIMETRIA. CAUSAS DE AUMENTO DE PENA. DUAS MAJORANTES. ACRÉSCIMO DA REPRIMENDA EM 3/8 SEM MOTIVAÇÃO CONCRETA. ILEGALIDADE DEMONSTRADA. CONCESSÃO DA ORDEM DE OFÍCIO.
+1. É possível o aumento da pena em patamar superior ao mínimo de 1/3 quando há a presença de duas causas de aumento previstas no § 2º do artigo 157 do Código Penal, desde que as circunstâncias do caso assim autorizem.
+2. Há constrangimento ilegal quando a reprimenda é majorada apenas em razão da quantidade de majorantes, sem qualquer fundamentação concreta (Enunciado 443 da Súmula deste Sodalício).
+ ..  Habeas corpus não conhecido. Ordem concedida de ofício a fim de reduzir a pena para 05 (cinco) anos e 04 (quatro) meses de reclusão, e pagamento de 13 (treze) dias-multa (HC 341.340/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 15/2/2016).
+Por fim, ressalto que a jurisprudência desta Corte tem entendido que "o emprego de arma de fogo, por si só, não permite a imposição de fração de aumento superior a 1/3, nos termos da jurisprudência deste Tribunal" (HC 433.118/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 9/4/2018).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
