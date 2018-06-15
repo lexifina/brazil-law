@@ -1,0 +1,23 @@
+DECISÃO
+TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. PRECATÓRIOS JUDICIAIS. CESSÃO. COMPENSAÇÃO. PESSOA JURÍDICA DIVERSA. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO DE FLS. 496/498. TORNADA SEM EFEITO. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Embargos de Declaração opostos pelo ESTADO DO RIO GRANDE DO SUL contra decisão assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. COMPENSAÇÃO DE PRECATÓRIOS COM DÉBITOS LÍQUIDOS E CERTOS, INSCRITOS OU NÃO EM DÍVIDA ATIVA E CONSTITUÍDOS CONTRA O CREDOR ORIGINAL PELA FAZENDA PÚBLICA DEVEDORA. REPERCUSSÃO GERAL RECONHECIDA PELO STF (TEMA 558 - RE 678.360/RS). RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM PARA OBSERVÂNCIA DO DISPOSTO NO ART. 1.040 DO CPC/2015).
+2. Afirma a parte embargante que a matéria invocada em repetitivo não é a mesma tratada nestes autos, pois a empresa não seria credora do Estado, mas do IPERGS. Assim, ainda que se pudesse admitir que a sociedade empresária embargada fosse credora do Estado, jamais poderia ser considerada credora original, pois apenas recebeu em cessão precatórios titularizados por pessoas diversas, essas sim credoras originais da Fazenda Pública Estadual (fls. 505).
+3. É o breve relatório.
+4. Torno sem efeito a decisão de fls. 496/498 e passo a analisar o Agravo em Recurso Especial.
+5. Pretende a parte agravante, em suma, a possibilidade de compensação de débitos tributários com créditos de precatório vencidos e não pagos.
+6. Verifica-se que o acórdão recorrido, entendeu não ser possível a compensação de dívida de ICMS com crédito tributário a ser pretensamente compensado com débitos de precatórios devidos pelo IPERGS, obtidos mediante cessão de direitos creditórios, observada a natureza diversa das parcelas, bem como a diversidade de credor e devedor, não se tratando de créditos oriundos do mesmo sujeito passivo.
+7. A orientação adotada pelo STJ é no mesmo sentido do aresto impugnado, qual seja, a suspensão da exigibilidade do crédito tributário não encontra amparo em precatórios apontados com o propósito de compensação, mormente quando este possui natureza diversa e se trata de créditos titularizados por pessoa jurídica diferente da que compõe a relação jurídico-tributária que se pretende extinguir pela compensação. Nesse sentido, citem-se precedentes:
+TRIBUTÁRIO. PRECATÓRIOS JUDICIAIS. CESSÃO. COMPENSAÇÃO. PESSOA JURÍDICA DIVERSA. IMPOSSIBILIDADE. PRECEDENTES. ACÓRDÃO PARADIGMA PROLATADO EM SEDE DE RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA.IMPOSSIBILIDADE. ARTS. 546, I, CPC E 266, RISTJ.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de considerar impossibilitada a compensação de créditos tributários de ICMS com precatórios devidos por pessoa jurídica de direito público de natureza distinta, a exemplo do IPERGS, autarquia que é dotada de autonomia administrativa e financeira à parte.
+2. A compensação em matéria tributária não se opera automaticamente, exige-se para sua implementação a autorização em lei e a observância das demais disposições da legislação tributária quanto às condições e limites por ela admitidos (art. 170 do CTN).
+3. Acórdão prolatado em sede de recurso ordinário em mandado de segurança não se presta como julgado paradigma à demonstração do dissídio pretoriano, a que se referem os arts. 546, I, do CPC e 266 do RISTJ.
+Agravo regimental improvido (AgRg no AREsp. 115.109/RS, Rel. Min. HUMBERTO MARTINS, DJe 25.5.2012).
+
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CONTRIBUIÇÃO SOCIAL. NOMEAÇÃO À PENHORA DE PRECATÓRIO DO IPERGS. RECUSA DEVIDAMENTE JUSTIFICADA PELO EXEQUENTE. CRÉDITOS DE TITULARIDADES DISTINTAS. AGRAVO REGIMENTAL DO EXECUTADO DESPROVIDO.
+1. A possibilidade de o executado oferecer precatório para garantia da dívida em execução fiscal, quando ambas as partes são reciprocamente credoras e devedoras justifica-se pelo interesse de facilitar a extinção das correspondentes obrigações jurídicas, de maneira mais cômoda e rápida.
+2. Todavia, no caso concreto, os créditos são de titularidades distintas: a execução fiscal é para cobrança de Contribuições Sociais e o precatório é de autarquia do Estado do Rio Grande do Sul (IPERGS), obtido por meio de cessão de crédito, tendo afirmado o acórdão impugnado a impossibilidade de se verificar se os mesmos valores não foram cedidos simultaneamente a vários cessionários, o que comprometeria a liquidez e certeza do oferecimento.
+3. Agravo Regimental do executado desprovido (AgRg no Ag 1.338.391/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 18.6.2012).
+8. Com tais considerações, torna-se sem efeito a decisão de fls.496/498, e nega-se provimento ao Agravo em Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
