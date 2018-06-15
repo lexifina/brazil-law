@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 128):
+"AGRAVO DE INSTRUMENTO. Ação de Indenização por Danos Materiais e Morais. Fase de cumprimento da sentença. Demandada que, intimada para o pagamento do débito exequendo nos termos do artigo 475-J do CPC de 1973, impugna a execução, arguindo nulidade da citação na fase de conhecimento, a pretexto de que o mandado correspondente teria sido encaminhado para sua Sucursal de Araçatuba, desativada desde 2006. ACOLHIMENTO da arguição pelo r. Juízo de origem, com a anulação dos atos processuais a partir da fl. 50 para possibilitar a contestação da demandada, com a retomada da fase de conhecimento. INCONFORMISMO do autor deduzido no Recurso. ACOLHIMENTO. Citação da Seguradora ré no endereço da Sucursal de Araçatuba indicado no Contrato de Seguro firmado em 2011, conforme a Apólice correspondente. Demandada que não comprovou a comunicação da desativação nem da mudança do endereço da Sucursal. Decisão reformada.
+RECURSO PROVIDO."
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 238 e 239, do Código de Processo Civil de 1973, sustentando, em síntese, que: "o endereço para o qual foi remetido o mandado de citação, e, em consequência, as pessoas que receberam referida citação, não possuíam e não possuem poderes para tal, conforme previsto nos artigos acima transcritos. Nula, pois, sem sombra de dúvidas, a citação feita neste processo. E, a nulidade é absoluta posto que este ato seja pressuposto essencial para a validade do processo" (e-STJ, fl. 159);
+É o relatório. Decido.
+O Tribunal de origem, no que pertine à alegação de que a citação foi nula, porque efetivada em endereço equivocado, expressamente consignou o seguinte (e-STJ, fl. 130):
+ "Já se viu, a contratação de seguro firmada entre as partes data de 2011, havendo indicação clara do endereço de Araçatuba, conforme se vê da Apólice securitária correspondente (fl. 37).
+ Portanto, não acode a agravada, a singela alegação de que a Sucursal de Araçatuba está desativada desde 2006, para justificar a arguição de vício de nulidade dos atos processuais desde a citação na fase de conhecimento.
+ Demais, não há qualquer comprovação da alegada desativação, tampouco da alteração de endereço nem ainda a comprovação de comunicação a propósito para o segurado, ora agravante.
+  ..
+ Como quer que seja, quando da contratação, o segurado, ora agravante, tomou conhecimento do endereço da Seguradora, ora agravada e, quando do ajuizamento da Ação, adotou esse mesmo endereço para a citação da agravada nos Autos principais.
+ Assim, resta a conclusão de que a citação da Segurada não padece do cogitado vício  .. "
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido, como ora perseguido, demandaria o reexame do material fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial."
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
