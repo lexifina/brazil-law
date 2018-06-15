@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento na falta de prequestionamento.
+Nas razões do recurso especial, aponta violação do art. 59, caput, e II, art. 157, § 2º, I, II e V, ambos do CP e art. 2º, § 2º, da Lei 12.850/2013.
+Sustenta falta de fundamentação idônea na exasperação da pena-base pelas circunstâncias judiciais da culpabilidade, conduta social, personalidade e consequências do crime.
+Requer, assim, o provimento do recurso especial, a fim de que sejam redimensionadas as penas.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+É o relatório.
+Decido.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do recurso especial.
+O recorrente foi condenado à pena de 17 anos e 6 meses de reclusão, mais o pagamento de 130 dias-multa, no regime fechado, como incurso no art. 157, § 2º, I, II e V, do CP e art. 2º, § 2º, da Lei 12.850/13.
+Interposto recurso de apelação, o Tribunal de Justiça negou provimento ao apelo defensivo, assim consignando, no que diz respeito à dosimetria das penas:
+Lado outro, a dosimetria da pena não foi questionada no recurso defensivo e também não vislumbro razões para sua modificação, a qual foi dosada com prudência e razoabilidade, de forma fundamentada, em observância das diretrizes legais dos arts. 59 e 68 do Código Penal e em atenção aos escopos de reprovação e prevenção pelas gravíssimas condutas proscritas perpetradas, não se olvidando ainda do fato de D. ser reincidente específico no crime de roubo (vide certidão de fls. 327/328), além de registrar outros apontamentos delitivos (fl. 1427).
+Opostos embargos declaratórios, foram rejeitados pela Corte estadual.
+Acerca da dosimetria, consta dos aclaratórios a seguinte fundamentação (fls. 1443/1444):
+Outrossim, não se pode olvidar que o embargante nem sequer impugnou as penas fixadas na sentença em seu recurso de apelação. Agora busca inovar em sede de embargos, via estreita que não comporta tal inovação argumentativa.
+Ademais, mesmo sem qualquer questionamento recursal defensivo acerca da dosimetria das reprimendas, a Turma Julgadora analisou as sanções estipuladas pelo magistrado sentenciante para concebê-las como proporcionais e condizentes com as circunstâncias gravíssimas do caso concreto, referenciadas na fundamentação da decisio.
+Portanto, o novel inconformismo defensivo com as penas constitui, em verdade, pretensão de reapreciação valorativa, incabível por esta via. Observemos as ponderações do acórdão, neste tópico:
+Lado outro, a dosimetria da pena não foi questionada no recurso defensivo e também não vislumbro razões para sua modificação, a qual foi dosada com prudência e razoabilidade, de forma fundamentada, em observância das diretrizes legais dos arts. 59 e 68 do Código Penal e em atenção aos escopos de reprovação e prevenção pelas gravíssimas condutas proscritas perpetradas, não se olvidando ainda do fato de D. ser reincidente especifico no crime de roubo (vide certidão de fls. 327/328), além de registrar outros apontamentos delitivos. (fl. 1307v).
+Ademais, nossas Cortes Superiores já sedimentaram o entendimento no sentido de que "o órgão judicial, para expressar sua convicção, não está obrigado a tecer comentários a respeito de todas as argumentações trazidas pelas partes, mormente quando pronuncia-se sobre o cerne da questão" (STJ - Acórdão AGA 244434 / PR - Relator: Min. PAULO MEDINA - Data da Decisão: 28/08/2001- DJ DATA:08/10/2001 PG:00197).
+No tocante à insurgência quanto à dosimetria, verifico que a aludida tese defensiva não foi efetivamente debatida pelo Tribunal local.
+Como se vê, apenas nos embargos de declaração é que foi alegada a ausência de fundamentação válida da exasperação da pena-base. Ocorre que o momento adequado para se discutir o tema aqui levantado era na interposição do apelo, sendo inviável a inovação dos argumentos e do pedido em embargos de declaração.
+Frise-se, outrossim, que não se trata de situação em que as matérias surgiram originalmente por ocasião do julgamento do recurso em segundo grau, forçando a Corte Estadual a sanar eventual vício ocorrido naquele julgamento, por meio dos aclaratórios.
+Com lastro nestes mesmos fundamentos, não há como conhecer da tese aventada no recurso especial, por incidência, à espécie, da Súmula 211 do STJ ante a falta do indispensável prequestionamento.
+De fato, o recurso especial, com previsão constitucional, pressupõe, como exigência inafastável, o exame da matéria objeto de controvérsia pelo acórdão atacado.
+É bem verdade que não se exige a menção expressa aos dispositivos infraconstitucionais supostamente violados, sendo necessário, todavia, que a questão tenha sido discutida e decidida fundamentadamente, o que não ocorreu. O Tribunal de origem não conheceu dos aclaratórios que traziam matéria inédita, não versada em razões de apelação.
+ Ademais, mesmo que se trate de questão de ordem pública, é imprescindível que a matéria tenha sido decidida no v. acórdão impugnado, para que se configure o prequestionamento (Resp 1.020.855/RS, Rel. Min. Felix Fischer, DJ 2/2/09).
+Desse modo, não examinada a matéria objeto do especial pela instância a quo, mesmo com a oposição de embargos de declaração, inafastável a aplicação do enunciado sumular em referência. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. NOVAS TESES TRAZIDAS NOS EMBARGOS DE DECLARAÇÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Este Tribunal Superior possui entendimento pacificado no sentido de que a alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade (REsp 1.439.866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/04/2014, DJe 6/5/2014).
+2. Os embargos de declaração interpostos após a formação do acórdão, com o escopo de prequestionar tema não veiculado anteriormente no processo, não caracterizam prequestionamento, mas pós-questionamento. Incidência da Súmula nº 211 do STJ. (AgRg no Ag n. 705.169/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 21/09/2009).
+3. Agravo regimental improvido.
+(AgRg no AREsp 982.366/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 01/03/2018, DJe 12/03/2018).
+Confira-se, ainda, o seguinte julgado do STF:
+EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL PENAL. DEFICIÊNCIA NO TRASLADO. INCIDÊNCIA DA SÚMULA N. 288 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. SÚMULA N. 282 DO SUPREMO TRIBUNAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. O cumprimento do requisito do prequestionamento dá-se quando oportunamente suscitada a matéria constitucional, o que ocorre em momento processual adequado, nos termos da legislação vigente. A inovação da matéria em embargos de declaração é juridicamente inaceitável para os fins de comprovação de prequestionamento. Precedentes.(AI 836511/MG AgR, Relator(a): Min. CÁRMEN LÚCIA, Primeira Turma, DJe-067 DIVULG 07-04-2011 PUBLIC 08-04-2011 EMENT VOL-02499-02 PP-00539).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
