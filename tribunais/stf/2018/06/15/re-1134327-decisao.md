@@ -1,0 +1,18 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado da Paraíba, está assim ementado:
+    “AÇÃO DE OBRIGAÇÃO DE FAZER. OBTENÇÃO DE PONTUAÇÃO MÍNIMA NO ENEM. MENOR DE DEZOITO ANOS. PRETENSÃO DE OBTENÇÃO DE CERTIFICADO DE CONCLUSÃO DO ENSINO MÉDIO. PROCEDÊNCIA DO PEDIDO. REMESSA NECESSÁRIA E APELAÇÃO. INOBSERVÂNCIA DO REQUISITO ETÁRIO PRECEITUADO PELO ART. 1º, II, DA PORTARIA INEP Nº 179/2014. RELATIVIZAÇÃO. REVOGAÇÃO DA PORTARIA Nº 144/2012. ACESSO AOS MAIS ELEVADOS NÍVEIS DE ENSINO SEGUNDO A CAPACIDADE DE CADA UM. ART. 208, V, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIO DA MÁXIMA EFETIVIDADE CONSTITUCIONAL. PRECEDENTES DESTE TRIBUNAL. DESPROVIMENTO DA REMESSA E DO APELO.
+    1. A jurisprudência consolidada deste Tribunal de Justiça é no sentido de que a exigência etária contida no art. 1º, II, da Portaria nº 179/2014 do INEP (que revogou a Portaria nº 144/2012), deve ser relativizada na hipótese em que o interessado em obter certificação de conclusão do ensino médio, embora menor, consegue atingir a pontuação mínima regulamentada por aquele dispositivo, raciocínio que prestigia a máxima efetividade do direito de acesso aos mais elevados níveis de ensino segundo a capacidade de cada um, preceituado pelo art. 208, V, da Constituição Federal.
+    2. Apelação e Remessa Necessária conhecidas e desprovidas.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, invocou, como fundamento do recurso extraordinário, a cláusula inscrita no art. 102, III, “b”, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo a ocorrência, na espécie, de hipótese configuradora de perda superveniente de objeto, porque já atingida, pela parte autora, idade superior a 18 (dezoito) anos, tendo em vista o lapso temporal já decorrido.
+    A ocorrência de tal fato assume relevo processual, eis que faz instaurar, na espécie, situação de prejudicialidade, apta a gerar a extinção deste processo em face da superveniente perda de seu objeto, não mais subsistindo, de outro lado, o interesse processual da parte ora recorrente.
+    Impende ressaltar, por oportuno, que, em situação assemelhada, a colenda Segunda Turma desta Suprema Corte, ao julgar o RE 757.746-AgR/MG, Rel. Min. RICARDO LEWANDOWSKI, fixou entendimento no mesmo sentido do que venho de expor:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PERDA SUPERVENIENTE DE OBJETO. RECURSO EXTRAORDINÁRIO PREJUDICADO. ART. 97 DA CONSTITUIÇÃO. AUSÊNCIA DE VIOLAÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+    I – Resta prejudicado o recurso extraordinário nas hipóteses em que a controvérsia cingir-se sobre a possibilidade de menor de 18 anos frequentar curso supletivo de nível médio, se alcançada a maioridade. Precedentes.
+    II – Não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Lei Maior
+    III – Agravo regimental improvido.”
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por este se achar prejudicado (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 15 de junho de 2018.
+Ministro CELSO DE MELLO
+Relator
