@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DECISÃO MANTIDA PELO SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO INTERNO DESPROVIDO.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, decide a Egrégia TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze (Presidente) e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Nancy Andrighi.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno interposto por CLAUDIA PAULINO PEIXOTO em face de decisão que não conheceu o agravo em recurso especial.
+Nas razões do agravo interno, a parte agravante alega que não é cabível a aplicação da Súmula 284/STF, pois "demonstrou violação direta aos artigos 323, 337, VI, §§ 1º, 2º e 3º, 485, V, §3º, do Código de Processo Civil" (e-STJ, fl. 447).
+Defende que "não há que se falar em óbice no enunciado nº 7 da Súmula do STJ, haja vista que é plenamente possível que essa Corte confira qualificação jurídica diversa aos fatos delimitados, inclusive por tratar-se a litispendência de matéria de ordem pública, podendo ser alegada a qualquer tempo no processo" (e-STJ, fl. 449).
+Pleiteia, por fim, a reconsideração da decisão.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes Colegas, a irresignação recursal não merece prosperar.
+Na espécie, a parte agravante não se desincumbiu do ônus da impugnação específica dos fundamentos da decisão de admissibilidade, motivo pelo qual o seu recurso não fora conhecido.
+O recurso especial foi inadmitido, às fls. 385/386, sob os seguintes fundamentos: (a) incidência, por analogia, da Súmula 284/STF, porquanto "ausente, na hipótese, a demonstração pela Recorrente da concreta violação aos artigos 323, 337, VI, §§ 1º e 2º, 485, V, §3º, do Código de Processo Civil; 12 da Lei 4591/1964 e 1334, I, §2º, 1336, I e 1345 do Código Civil pelo v. acórdão recorrido."; b) incidência da Súmula 07/STJ, haja vista que "a aferição da ofensa aos citados dispositivos legais pelo acórdão vergastado, na hipótese, enseja necessariamente a reapreciação de fatos e provas oportunamente realizada, tanto em juízo de 1º grau, quanto de 2º grau de jurisdição ordinária, o que é vedado em sede de recursos excepcionais".
+Ora, se o intuito era atacar o impeditivo sumular n. 07/STJ, caberia à parte "refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias" (AgRg no AREsp 119556/RS, Rel. Min. Marco Buzzi, Quarta Turma, DJe 04/09/2012), o que não fora feito nos autos.
+No entanto, quanto às supostas violações para as quais aplicou-se o referido óbice, observa-se que a agravante limitou-se a tecer alegações genéricas no sentido de que "não se discute matéria probatória, mas qualificação jurídica diversa da adotada pelo TJTJ (..) busca é demonstrar que há litispendência no processo, bem como a inexigibilidade das cotas condominiais", abstendo-se de especificar de que modo seria possível, no caso concreto, acolher a pretensão recursal sem análise do acervo probatório.
+Efetivamente, cabia à agravante demonstrar, oportunamente e de forma específica, o cabimento do recurso especial, o que, todavia, não ocorreu. Cumpre salientar, que alegações genéricas não são suficientes para impugnar a decisão de inadmissibilidade.
+Oportuno salientar que a parte agravante não evidenciou especificamente a inadequação dos óbices aplicados pelo Tribunal a quo para negar seguimento ao recurso especial, limitando-se a repisar as alegações apresentadas no recurso especial e a tecer argumentações genéricas no sentido de que "é plenamente possível que essa Corte confira qualificação jurídica diversa aos fatos delimitados, inclusive por tratar-se a litispendência de matéria de ordem pública, podendo ser alegada a qualquer tempo no processo." (e-STJ Fl. 408).
+Nesse sentido, confira os julgados a seguir:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ. AGRAVO NÃO PROVIDO.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para sua negativa, consoante expressa previsão contida no art. 932, III, do CPC de 2015 e art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente a mera repetição das razões do recurso extremo e alegações genéricas de não aplicabilidade do óbice invocado. Precedentes.
+2. Agravo interno não provido. (AgInt no AREsp 920726/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/09/2016, DJe 07/10/2016, grifou-se)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. DISCUSSÃO ACERCA DA APLICAÇÃO DE REGRA TÉCNICA RELATIVA AO CONHECIMENTO DO RECURSO ESPECIAL. IMPOSSIBILIDADE. 1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. (..)
+2. Os presentes embargos não reúnem as mínimas condições de serem processados, pois o acórdão embargado não adentrou no exame do mérito da controvérsia. (..) (AgInt nos EAREsp 689337/SP, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 14/09/2016, DJe 21/09/2016, grifou-se)
+Nesse sentido, a decisão agravada deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
