@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] ARAÚJO DA [NOME] e [NOME] [NOME] [NOME], com fulcro no art. 105, III, alínea "a", da Constituição Federal, de acórdão do Tribunal de Justiça do Estado do Amazonas.
+Alega a defesa violação do art. 386, VI e VII, do Código de Processo Penal, sob o argumento de que houve cerceamento de defesa na ausência de testemunho judicial requerido pelos denunciados.
+Assevera contrariedade dos arts. 59 e 68 do Código Penal aduzindo que houve uma descabida exacerbação no tocante à pena-base.
+Sustenta que a decisão combatida pecou ao apurar as circunstâncias judiciais para assim exasperar a pena-base, confirmando a sentença monocrática condenatória" (e-STJ, fl. 1.021)
+Requer, assim, a absolvição dos recorrentes ou a redução da pena-base, com a fixação de regime inicial mais brando.
+Contrarrazões apresentadas (e-STJ, fls. 1.027-1.039).
+O Ministério Público Federal manifestou-se pelo conhecimento parcial do recurso e, nesta parte, pelo não provimento (e-STJ, fls. 1.060-1.062).
+É o relatório.
+Decido.
+De início, constata-se a superveniente perda do objeto do presente recurso, em relação ao recorrente [NOME] ARAÚJO DA [NOME], tendo em vista a certidão de óbito acostada às fls. 1.066-1.068 (STJ).
+Quanto ao recurso de [NOME] [NOME] [NOME], no tocante à alegação de cerceamento de defesa, impende ressaltar que tal questão não foi objeto de debate no acórdão impugnado.
+Na falta de submissão do tema ao conhecimento da Corte de origem, o recurso, nesta parte, carece do devido prequestionamento, incidindo, na hipótese, por analogia, o óbice da Súmula 282/STF, segundo a qual "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Quanto ao pedido de redução da pena-base, assiste razão, em parte, à recorrente.
+O Tribunal de origem, no ponto, assim consignou:
+" ..
+Diversamente da versão apresentada pelo Réu, consta dos autos o depoimento da testemunha de acusação, Delegado Samir Garzedim Freire, a qual asseverou em Juízo que trata-se de verdadeira organização criminosa destinada à prática de tráfico de drogas e que colheram vários elementos referentes à associação para o tráfico envolvendo "Boca Rica" ([NOME]) e [NOME].
+Afirmou que, embora recolhido à unidade prisional, o acusado [NOME] fazia uso de comunicação por terminal telefônico móvel para comandar "o esquema de tráfico de drogas, sendo que o principal elo de ligação com o acusado fora do presídio era a ex-mulher dele, de nome [NOME], a segunda acusada" (fls. 867).
+Com efeito, afirmou que foi verificado que os réus realizavam distribuição de pagamentos de outros traficantes e efetuavam cobranças relacionadas ao tráfico de drogas, sendo certo que informações extra-muros eram repassadas por [NOME] ao acusado [NOME] de maneira a evitar a repreensão policial (fls. 868).
+ ..
+Por fim, quanto ao pedido subsidiário de retificação da pena para mínimo legal, entendo que igualmente não merece prosperar, visto que a exasperação resta em consonância com as circunstâncias judiciais negativas do art. 59 do Código Penal, bem como do art. 42 da lei antidrogas, devidamente fundamentada pelo juiz a quo." (e-STJ, fl. 989)
+Por sua vez, o magistrado sentenciante assim decidiu:
+" ..
+Diante desse quadro e por tudo que consta dos autos, julgo PROCEDENTE o pedido condenatório formulado na ação penal em epígrafe para CONDENAR [NOME] e [NOME], como incurso nas penas do artigo 35 da Lei 11.343/06, razão pela qual passo à dosimetria e aplicação da pena, nos termos do disposto no art. 68 do Código Penal.
+ ..
+b) Quanto à acusada [NOME]:
+Em análise à regra fixada pelo art. 59 do CP e 42 da Lei 11.343/06, verifico que esta agiu com culpabilidade acentuada, posto que cometeu a infração sabendo que o acusado [NOME] encontrava-se recolhido ao cárcere, auxiliando-o extra muros; segundo a prova dos autos a Ré não é detentora de maus antecedentes, segundo a ótica da Súmula 444 do E. STJ, não sendo possível colher dados acerca de sua conduta social; não sendo possível exarar também juízo de valor sobre a personalidade do agente; o motivo do delito é o próprio do tipo, sendo que as circunstâncias são mais gravosas, posto que cometidas as infrações no âmbito de organização criminosa destinada à prática do tráfico; as consequências entendo como graves, sendo desnecessário tecer comentários aos danos à saúde pública e, por via oblíqua, dos dissabores que seriam causados às famílias que padecem com os problemas gerados pelo uso da droga por um de seus membros, que em sua maioria são pessoas jovens, as quais dificilmente conseguem escapar da dependência física ou psíquica.
+Com base no estudo destes elementos, os quais foram analisados individualmente, atribuindo-se a cada um o seu devido peso, autorizam a fixação da pena-base em 7 (sete) anos de reclusão e 900 (novecentos) dias multa." (e-STJ, fl. 934 - grifo nosso).
+A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+Dentro do sistema trifásico adotado pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias judiciais previstas no art. 59 do CP. Tratando-se de condenado pelo delito de Tráfico de Drogas, o art. 42 da Lei n. 11.343/2006 estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga apreendida, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+Na hipótese, o Tribunal de origem manteve a análise desfavorável da culpabilidade (auxílio prestado extra-muros ao corréu recolhido ao cárcere), das circunstâncias (as infrações foram cometidas no âmbito de organização criminosa) e das consequências do delito ("danos a saúde pública") para exacerbar a pena-base em 4 anos acima do mínimo legal.
+Contudo, em que pese a existência de certo grau de discricionariedade do julgador no cálculo da pena, observa-se que a decisão impugnada carece de motivação válida quanto ao exame das consequências do delito, pois amparada tão somente em argumentos genéricos acerca dos efeitos nefastos do tráfico de drogas na sociedade.
+E, conforme a jurisprudência sedimentada desta Corte, considerações genéricas, inerentes ao próprio tipo penal ou mesmo desvinculadas do contexto fático dos autos, por não individualizar a conduta do agente, não servem para o agravamento da pena.
+Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONCUSSÃO. DOSIMETRIA DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL JUSTIFICADA. FIXAÇÃO DO REGIME FECHADO. POSSIBILIDADE.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação.
+ ..
+5. Agravo regimental não provido."
+(AgRg nos EDcl no REsp 1.535.170/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/4/2017, DJe 3/5/2017).
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. DOSIMETRIA DA PENA. REPRIMENDA BÁSICA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO INIDÔNEA. AFIRMAÇÕES GENÉRICAS E BASEADAS EM ELEMENTOS INERENTES AO TIPO PENAL. REDUÇÃO DA PENA-BASE PARA O MÍNIMO LEGAL. PRECEDENTES.
+1. Nos termos da consolidada jurisprudência desta Corte, "a exasperação da pena deve estar fundamentada em elementos concretos extraídos da conduta imputada ao acusado, os quais devem desbordar dos elementos próprios do tipo penal. Assim, meras alusões à gravidade em abstrato do delito, à potencial consciência da ilicitude, ao perigo da conduta, à busca do lucro fácil e outras generalizações sem lastro em circunstâncias concretas não podem ser utilizados para aumentar a pena-base" (HC 353.839/PB, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/6/2016, DJe 8/0/2016).
+2. Na espécie, o magistrado valorou negativamente a culpabilidade e os motivos do crime em razão do constrangimento e temor causado às vítimas, mediante violência e ameaça, estreitando-lhes a liberdade e expondo-as à fragilidade e submissão.
+3. Desse modo, além de genéricos, os fundamentos refletem elementos inerentes ao tipo penal descrito no art. 157 do Código Penal, motivo pelo qual a pena-base foi reduzida para o mínimo legal, nos termos do entendimento do Superior Tribunal de Justiça.
+4. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1.476.196/MA, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 21/2/2017, DJe 2/3/2017).
+"PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. LEI 6.368/76. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. SÚMULA 284/STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE E DIVERSIDADE DA DROGA. POSSIBILIDADE. MOTIVOS, CIRCUNSTÂNCIAS E CONSEQUÊNCIAS. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. RECURSO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, PROVIDO.
+ ..
+5. As consequências nefastas, vitimando toda sociedade, mormente o jovens da sua convivência, por serem ínsitas ao delito de tráfico de entorpecentes, não podem ser consideradas para o agravamento da pena-base.
+ ..
+8. Recurso parcialmente conhecido e, nesse extensão, provido para fixar a pena do recorrente em 2 anos, 10 meses e 5 dias, em regime semiaberto, e 96 dias-multa, com extensão ao corréu."
+(REsp 1.135.435/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/12/2015, DJe 02/02/2016).
+Neste contexto, impõe-se o afastamento da valoração negativa das consequências do delito, diante da ausência de fundamentação adequada.
+Passo, assim, a readequação da pena da recorrente [NOME] [NOME] [NOME].
+A pena-base parte de 5 anos de reclusão mais 750 dias-multa, pela aferição desfavorável da culpabilidade e das circunstâncias do delito. Na falta de outras causas modificativas, a pena fica definitiva nesse montante.
+O regime prisional permanece o fechado, em razão da análise negativa das circunstâncias judiciais, nos termos do art. 33, § 2º, "a", e § 3º, c/c o art. 59, ambos do Código Penal.
+Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO. REGIME INICIAL FECHADO. PENA-BASE ACIMA DO MÍNIMO LEGAL. INVIABILIDADE DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. INCIDÊNCIA DO VERBETE N. 83 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO DESPROVIDO. 1. O v. aresto recorrido está em harmonia com a jurisprudência desta Corte, firme no sentido de que a existência de circunstâncias judiciais desfavoráveis justifica a fixação de regime fechado, bem como impede a substituição da pena privativa de liberdade por restritivas de direitos. Incidente o verbete n. 83 da Súmula do STJ. Agravo regimental desprovido." (AgRg no AREsp 602.215/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 14/6/2016, DJe 22/6/2016).
+Ante o exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o recurso especial em relação ao recorrente [NOME] ARAÚJO DA [NOME] e, com fundamento no art. 34, XVIII, alíneas "a" e "c", do RISTJ, conheço parcialmente do recurso de [NOME] [NOME] [NOME] e, nessa extensão, dou-lhe parcial provimento para reduzir a pena-base pelo delito de associação para o tráfico para 5 anos de reclusão mais o pagamento de 750 dias-multa, mantido, contudo, o regime inicial fechado.
+Publique-se. Intimem-se.
