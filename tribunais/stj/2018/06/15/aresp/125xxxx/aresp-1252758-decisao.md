@@ -1,0 +1,11 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça de Santa Catarina que negou provimento ao apelo ministerial e deu parcial provimento ao apelo defensivo para alterar a fração aplicada pelo reconhecimento da tentativa, fixando a pena do recorrente em 9 (nove) meses e 10 (dez) dias de reclusão, em regime aberto, substituída a reprimenda corporal por restritiva de direitos, pelo cometimento do crime do art. 155, § 4º, I e IV c/c 14, II, do Código Penal.
+A defesa aponta a violação dos arts. 41 do Código de Processo Penal e 155, § 4º, I e IV, do Código Penal alegando, em síntese: a) a inépcia da inicial em razão de sua narrativa genérica com imputações vagas que não especificam a conduta típica e; b) inexistência de provas suficientes para a condenação.
+Contrarrazões às e-STJ fls. 1.009/1.014.
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso às e-STJ fls. 1,081/1.083.
+É o relatório. Decido.
+A irresignação não prospera.
+Nos termos da orientação desta Corte, não se admite a alegação de inépcia da denúncia após a prolação da sentença. Ademais,o acórdão estadual à e-STJ fl. 930 registrou que a inicial é clara ao narrar a conduta dos acusados, restando evidentes os fundamentos pelos quais o apelante foi denunciado. Afirma, também, que a denúncia atende satisfatoriamente os requisitos do art. 41 do Código de Processo Penal, conferindo à defesa a clara compreensão da imputação feita em desfavor do réu e possibilitando-lhe o pleno exercício do contraditório.
+No mais, registre-se que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar, ou desclassificar a imputação feita ao acusado. Incidência do enunciado 7 da Súmula do STJ (ut, AgRg no AREsp 1081469/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 13/06/2017).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
