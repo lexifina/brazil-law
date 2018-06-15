@@ -1,0 +1,50 @@
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM HABEAS CORPUS. VÍCIO. OMISSÃO. INOCORRÊNCIA. INSTRUÇÃO DEFICIENTE. MATÉRIA ANALISADA. EMBARGOS REJEITADOS.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - A tese apontada pelos Embargantes como omissa foi objeto de apreciação, tendo essa Quinta Turma decidido que "a Defesa não juntou cópia dos embargos infringentes e tampouco consignou informação essencial ao conhecimento do writ, consistente na ausência de correlação entre o objeto dos embargos infringentes e o dispositivo do acórdão que determinou o início da execução provisória da sentença após o exaurimento da segunda instância".
+III - A pretensão dos Embargante de alterar a manifestação desta Corte, de modo a adequá-la ao seu entendimento, não justifica a oposição de embargos declaratórios.
+Embargos rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de embargos de declaração opostos por [NOME] e outros, em face de v. acórdão prolatado pela Quinta Turma, assim ementado:
+"PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE NÃO CONHECEU O WRIT. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DECISÃO FUNDAMENTADA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE INFORMAÇÃO NECESSÁRIA À ANÁLISE DO MANDAMUS QUANDO DA SUA IMPETRAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+II - Está assentado nesta Corte Superior de Justiça o entendimento segundo o qual a ação mandamental de habeas corpus exige a apresentação de prova pré-constituída, recaindo sobre o impetrante o ônus de informar e instruir corretamente o mandamus, a fim de que seja possível identificar o alegado constrangimento ilegal.
+III - No presente caso, a Defesa não juntou cópia dos embargos infringentes e tampouco consignou informação essencial ao conhecimento do writ, consistente na ausência de correlação entre o objeto dos embargos infringentes e o dispositivo do acórdão que determinou o início da execução provisória da sentença após o exaurimento da segunda instância.
+IV - A juntada de documento considerado imprescindível ao exame da questão apenas por ocasião da interposição de agravo regimental configura fato novo e, portanto, não tem o condão de alterar os fundamentos da decisão agravada.
+Agravo regimental desprovido" (fls. 1765-1773).
+Insurgem-se os embargantes, apontando a existência de omissão no aresto objurgado, ao argumento de que instruíram o writ com cópia do recurso especial, entendendo ser suficiente a demonstrar o alcance dos embargos infringentes então opostos.
+Afirmam que tal medida se revelou capaz de comprovar que a Defesa não impugnou, em sede de embargos infringentes, a determinação da execução provisória da pena, constante do acórdão de origem.
+Asseveram que a juntada da cópia desse recurso "quando da interposição do Agravo Regimental se deu apenas para reforçar os argumentos defensivos" (fl. 1782), não constituindo fato novo, impeditivo de reanálise da decisão agravada.
+Requerem, ao final, o provimento da irresignação, "para seja declarado o acórdão e sanada a omissão apontada" (fl. 1782).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM HABEAS CORPUS. VÍCIO. OMISSÃO. INOCORRÊNCIA. INSTRUÇÃO DEFICIENTE. MATÉRIA ANALISADA. EMBARGOS REJEITADOS.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - A tese apontada pelos Embargantes como omissa foi objeto de apreciação, tendo essa Quinta Turma decidido que "a Defesa não juntou cópia dos embargos infringentes e tampouco consignou informação essencial ao conhecimento do writ, consistente na ausência de correlação entre o objeto dos embargos infringentes e o dispositivo do acórdão que determinou o início da execução provisória da sentença após o exaurimento da segunda instância".
+III - A pretensão dos Embargante de alterar a manifestação desta Corte, de modo a adequá-la ao seu entendimento, não justifica a oposição de embargos declaratórios.
+Embargos rejeitados.
+
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: Presentes os pressupostos de admissibilidade, conheço dos embargos.
+Destaque-se, inicialmente, conforme pacífica jurisprudência desta eg. Corte, que são cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Além disso, é cediço que os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada, repito, não padecer dos vícios que autorizariam a sua interposição.
+Compulsando os autos, não vislumbro, na hipótese, qualquer omissão existente no acórdão capaz de macular o feito de nulidade, eis que sobejamente enfrentadas todas as teses aventadas pelo embargante, nada mais se pretendendo com a irresignação do que reanálise do feito.
+Com efeito, a alegação de que a juntada de cópia do recurso especial teria o condão de demonstrar que a matéria acerca da execução provisória não estava afeta ao julgamento dos embargos infringentes não configura o vício da omissão, sobretudo porque de tal realidade não se olvidou o voto condutor, ao elencar os documentos que instruíram o habeas corpus. No ponto,
+"Conforme bem se denota dos argumentos que embasaram a decisão que não conheceu do writ, o Paciente noticiou ter interposto embargos infringentes contra o decisum prolatado pela 8a Turma do Tribunal Regional Federal da 4a Região, razão pela qual, de fato, não restou configurado o exaurimento de instância a possibilitar a execução provisória da pena. Ao contrário, a existência de recurso pendente de apreciação perante o eg. Tribunal de origem representa óbice à incursão no âmbito de cognição pretendido, sob pena de indevida supressão de instância.
+Noutro diapasão, quanto à matéria veiculada nos embargos infringentes, de uma leitura atenta do writ e dos documentos a ele colacionados, observa-se que a Defesa se limitou a afirmar que havia interposto embargos infringentes (fl. 16), deixando de consignar informação essencial ao conhecimento, vale dizer, que o objeto do referido recurso não teria qualquer relação com a execução provisória da pena, determinada no acórdão que apreciou a apelação criminal.
+Embora tenha instruído o habeas corpus com as apelações do Ministério Público (fls. 570-679), do Assistente de Acusação (fls. 680-686) e da Defesa (fls. 687-1111), o Recurso Especial (fls. 1113-1408) e o Recurso Extraordinário (fls. 1409-1674), olvidou-se de juntar cópia dos embargos infringentes, o fazendo apenas quando da interposição do agravo regimental.
+Verifica-se, portanto, que o fundamento do presente recurso, no sentido de que a pretensão veiculada nos embargos infringentes se circunscreve a exclusão de circunstância judicial e do dispositivo que condiciona a progressão do regime a reparação do dano, representa fato novo, não existente nos autos no momento da prolação da decisão de fls. 1701-1706, razão pela qual não tem o condão de ensejar o juízo de retratação, tal qual almejado pela Defesa" (fls. 1771-1772).
+Diversamente do alegado, depreende-se do excerto acima transcrito que o Colegiado adotou fundamento suficiente ao deslinde da matéria, de acordo com o caso concreto posto à sua apreciação.
+Verifica-se, portanto, a pretensão dos embargantes de alterar a manifestação desta Corte, de modo a adequá-la ao seu entendimento, o que não justifica a oposição de embargos declaratórios, sobretudo porque todas as questões por ele apresentadas foram objeto de apreciação.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO INEXISTENTE. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRETENSÃO DE REEXAME DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração somente se prestam a corrigir error in procedendo e possuem fundamentação vinculada, dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+Portanto, a mera irresignação com o resultado de julgamento, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+2. Inexiste omissão no acórdão embargado se a matéria suscitada pelo embargante foi devidamente apreciada por esta Corte Superior.
+3. Não compete ao Superior Tribunal de Justiça a apreciação de matérias constitucionais, sob pena de indevida usurpação de competência do Supremo Tribunal Federal.
+4. Embargos de declaração rejeitados." (EDcl no AgRg no AREsp 1023903/RN, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 01/08/2017, grifou-se).
+Nesse contexto, à míngua de qualquer mácula no v. acórdão embargado, rejeito os embargos de declaração.
+É o voto.
