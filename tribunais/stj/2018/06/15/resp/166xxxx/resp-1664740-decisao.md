@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. ACÓRDÃO COM FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TRF4 assim ementado (fl. 316):
+TRIBUTÁRIO. SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL PESSOA FÍSICA.
+CONSÓRCIO SIMPLIFICADO DE PRODUTORES RURAIS. LEGITIMIDADE PASSIVA E ATIVA. PRECLUSÃO CONSUMATIVA.
+1. É inexigível a contribuição social do salário-educação ao produtor rural pessoa física.
+2. Nos termos do artigo 25A da Lei nº 8.212, de 1991, o consórcio simplificado de produtores rurais se equipara ao empregador rural pessoa física.
+3. O montante executado abrange apenas os valores destinados ao FNDE, portanto, desnecessária a inclusão da União no pólo passivo.
+Embargos de declaração rejeitados às fls. 348-352.
+O recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC/2015; violação dos arts. 2-A e 2-B da Lei 9.494/97; 2 e 26 da Lei 11.457/07; 15 da Lei 9424/1996 e 502, 503 e 505 do CPC, sob os seguintes argumentos: a) omissão quanto à impossibilidade de expedição de requisitórios antes do trânsito em julgado da ação; b) ilegitimidade do recorrido para promover a ação coletiva; c) a responsabilidade pela restituição de valores indevidamente arrecadados sob o signo do salário-educação toca unicamente à União, a qual, por isso, deveria ter sido acionada, pelo exequente, a responder pela integralidade do indébito; d) se a repartição do encargo pelo aresto esgrimido foi pautada pelo critério da "destinação da contribuição", não poderia o FNDE ter sido responsabilizado pela devolução de 99% do indébito; e) se a sentença exequenda não definiu o quantum da responsabilidade atribuída a cada um dos litisconsortes passivos (FNDE e União), deveria o acórdão recorrido ter-se limitado à distribuição pro rata da responsabilidade pela devolução do indébito, e não atribuir, ao FNDE, o encargo pela restituição de 99% do montante recolhido a título de salário-educação.
+Juízo positivo de admissibilidade à fl. 404.
+É o relatório. Passo a decidir.
+Inicialmente, afasta-se a alegada violação do artigo 1.022 do CPC, porquanto o acórdão recorrido, examinou detidamente cada um dos argumentos suscitados, expressou-se, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia, apenas não adotando a tese defendida pela recorrente.
+Por seu turno, o recorrente, ao indicar ofensa aos artigos 2-A e 2-B da Lei 9.494/97 e direcionar a sua tese no sentido de que inexiste decisão transitada em julgada nos autos, o que entende impedir a execução do julgado e a ilegitimidade do recorrido para promover a ação coletiva, deixou de impugnar o fundamento do acórdão recorrido segundo o qual a matéria encontrava-se preclusa. Nesse sentido, transcrevo o seguinte trecho do acórdão recorrido (Fl. 308):
+Execução definitiva da parcela incontroversa e legitimidade da ANDATERRA para promover a execução
+A exigibilidade do título executado, a legitimidade da ANDATERRA para promover a execução e a regularidade da representação processual já foram apreciadas no bojo da Execução de Sentença n. 5004858-28.2015.4.04.7206 (Evento 3), ensejando, inclusive, a interposição de agravo de instrumento pelo FNDE, ora embargante.
+Assim, em observância à preclusão consumativa, não conheço destas matérias.
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+De outro lado, evidencia-se que os artigos 2 e 26 da Lei 11.457/07; 15 da Lei 9424/1996 e 502, 503 e 505 do CPC, e as teses a eles vinculadas ( rateamento entre entes federativos, Estados e Municípios, e exibição de documento e necessidade de intimação da Fazenda Nacional), não foram apreciados pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Frise-se, por oportuno, que os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação dos aludidos dispositivos legais e suas teses correlacionadas. Desse modo, o voto condutor na origem não se manifestou sobre as teses e os dispositivos legais respectivos, tampouco foram opostos embargos de declaração para essa finalidade específica.
+Ante o exposto, não conheço do recurso especial.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do art. 85 do CPC/2015 e eventual Gratuidade da Justiça (art. 98, §3º, CPC/2015).
+Publique-se. Intimem-se.
