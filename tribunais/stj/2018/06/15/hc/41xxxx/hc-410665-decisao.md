@@ -1,0 +1,26 @@
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA DA PENA. PENA-BASE. AUMENTO. FUNDAMENTAÇÃO IDÔNEA. SEGUNDA FASE. ATENUANTE DA CONFISSÃO E AGRAVANTE DA REINCIDÊNCIA. MULTIRREINCIDÊNCIA. COMPENSAÇÃO PARCIAL. TERCEIRA FASE. DUAS MAJORANTES. AUMENTO DE 3/8. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. REDUÇÃO PARA 1/3.
+Ordem parcialmente concedida a fim de fixar a pena em 8 anos de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 18 dias-multa.
+DECISÃO
+Trata-se de habeas corpus impetrado, de próprio punho, por [NOME], em que se aponta como órgão coator o Tribunal de Justiça de São Paulo (Apelação n. 0004605-30.2015.8.26.0368 - fls. 41/49).
+Narram os autos que o Tribunal de origem manteve a sentença proferida pelo Juízo de Direito da 2ª Vara da Comarca de Monte Alto - SP, que condenou o ora paciente à pena de 8 anos e 3 meses de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 19 dias-multa, como incurso no art. 157, § 2º, I e II, do Código Penal (fls. 18/40).
+Daí a presente impetração, na qual se pretende, em suma, a redução da reprimenda.
+Instada a se manifestar, a Defensoria Pública do Estado de São Paulo postula a compensação integral da atenuante da confissão com agravante da reincidência, bem como que, na terceira fase da dosimetria, a pena sofra uma majoração de 1/3, apenas, em razão da existência de duas causas de aumento.
+Sem pedido liminar, o Ministério Público Federal ofereceu parecer assim ementado (fl. 54):
+HABEAS CORPUS SUBSTITUTIVO. IMPETRAÇÃO EM CAUSA PRÓPRIA. ROUBO MAJORADO. DOSIMETRIA. NÃO CONHECIMENTO. CONCESSÃO DE OFÍCIO.
+1. Necessidade de racionalização do emprego do habeas corpus em substituição ao recurso cabível. Não conhecimento.
+2. Paciente/impetrante condenado às penas de 8 anos e 3 meses de reclusão, em regime inicial fechado, e pagamento de 19 dias-multa, pela prática do crime do art. 157, §2º, incisos I e II, do CP).
+3. Primeira e segunda fases da dosimetria da pena devidamente fixadas com amparo em concreta fundamentação. Contudo, a exasperação da terceira fase, pela presença de duas majorantes, foi embasada em critério matemático, comportando reparos. Súmula nº 443/STJ.
+4. Constrangimento ilegal configurado, concessão da ordem de ofício.
+5. Parecer pelo não conhecimento do writ, e concessão da ordem de ofício, para redimensionar a pena pelo crime de roubo, adotando-se o aumento mínimo legalmente previsto, na terceira fase da dosimetria da pena.
+É o relatório.
+Na primeira fase da dosimetria, as instâncias ordinárias fixaram a pena-base em 5 anos e 4 meses de reclusão, em razão dos maus antecedentes, bem como porque o "réu havia acabado de deixar o cárcere e, não satisfeito com a condenação anterior, voltou a delinquir" (fl. 46).
+Dessa forma, observo que não existe evidente constrangimento ilegal a ser sanado, já que a pena-base insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade, inexistentes o caso.
+Na segunda etapa, presentes a atenuante da confissão e a agravante da reincidência, a pena foi aumentada em apenas 1/8, em razão da multirreincidência. Dessa forma, observo que as instâncias ordinárias decidiram em harmonia com a jurisprudência desta Casa, firmada no sentido de que a agravante da reincidência deve ser compensada com a atenuante da confissão espontânea, porquanto ambas envolvem a personalidade do agente, sendo, por consequência, igualmente preponderantes. Tal entendimento sofre alteração quando reconhecida a situação de réu multirreincidente, hipóteses nas quais, como regra, não será devida a compensação integral entre a confissão e a reincidência. 2. Tratando-se de réu multirreincidente, cabível a compensação parcial da atenuante da confissão espontânea com a agravante da reincidência (AgRg no AREsp n. 713.657/DF, Ministro Nefi Cordeiro, Sexta Turma, DJe 23/04/2018).
+Assim, nenhum reparo deve ser feito, nesta etapa.
+Na terceira fase, entretanto, verifico que o Tribunal de origem manteve o aumento de 3/8 tão somente ante a coexistência de duas causas de aumento de pena (emprego de arma e concurso de pessoas) (fl.47), o que não configura fundamentação idônea, e contraria a jurisprudência desta Casa, sintetizada na Súmula 443/STJ, in verbis: O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+Dessa forma, as reprimendas deverão sofrer, nesta fase, um aumento de 1/3, apenas.
+Assim, partindo-se do quantum de 6 anos de reclusão e pagamento de 14 dias-multa, estabelecido até a segunda fase da dosimetria (fl. 35), aumenta-se a pena em 1/3, na terceira etapa, totalizando 8 anos de reclusão, além do pagamento de 18 dias-multa.
+Mantenho o regime fechado para o início do cumprimento da reprimenda, em virtude da reincidência do paciente.
+Ante o exposto, concedo parcialmente a ordem a fim de fixar a pena em 8 anos de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 18 dias-multa.
+Publique-se.
