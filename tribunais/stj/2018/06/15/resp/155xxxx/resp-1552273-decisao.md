@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de decisão proferida pelo Tribunal Regional Federal da 2ª Região.
+Consta dos autos que os recorridos foram absolvidos da prática dos delitos dos artigos 304 c/c 299, do Código Penal, (uso de documento falso e falsidade ideológica) com fundamento no artigo 397, III, do Código de Processo Penal.
+A acusação interpôs apelação buscando a condenação dos recorrentes. O Tribunal de origem negou provimento ao recurso por acórdão assim ementado (fl. 662):
+PENAL E PROCESSUAL PENAL. APELAÇÃO. INEXISTÊNCIA DE PROVA INEQUÍVOCA ACERCA DE FRAUDE PARA OCULTAR A EMPRESA IMPORTADORA. ENDOSSO NO CONHECIMENTO DE CARGA. CONTRAINDÍCIO SUFICIENTE PARA INFIRMAR O DOLO. ABSOLVIÇÃO QUE DEVE SER MANTIDA. DESPROVIMENTO DO RECURSO.
+I- Não obstante haja indícios de que os representantes das empresas VERONA DISTRI MARMI LTDA e BUAIZ IMPORTAÇÃO E EXPORTAÇÃO S/A tenham agido em conluio para ocultar a real adquirente da mercadoria constante na Dl nº 04/0554750-6, já que a fatura comercial estava em nome da BUIAZ e o conhecimento de carga apontava como consignatária a VERONA, os elementos dos autos apontam para a inexistência de dolo.
+II- O endosso no BL (Bill of Landing) culminou com a alteração da titularidade das mercadorias, que passou a ser, de fato, da BUAIZ, empresa que sempre constou como faturada. Atuar suficiente para se presumir que a mesma sociedade que consta formalmente como importadora é a proprietária de fato das mercadorias estrangeiras.
+III- Desprovimento do recurso.
+Na petição de recurso especial, o parquet alega negativa de vigência dos arts. 395, 396, 397 e 399, todos do Código de Processo Penal. Sustenta, em síntese, que, diante da existência de indícios da conduta delituosa, inviável reconhecer a certeza exigida para a incidência da hipótese excepcional do art. 397, III, do Código de Processo Penal. Ressalta que a análise definitiva acerca do dolo dos agentes deve ser reservada ao momento final da ação penal, depois de exaurida a atividade probatória.
+Contrarrazões às fls. 701/703; 705/706 e 766/770.
+Admitido o recurso (fl. 802), os autos vieram a esta Corte.
+Parecer ministerial pugnando pelo provimento do recurso (fls. 816/822).
+É o relatório. Decido.
+A irresignação merece prosperar.
+É assente nesta Corte Superior o entendimento de que, antes da devida instrução do feito, incabível a absolvição do réu em decorrência da ausência de dolo, uma vez que, para a deflagração da ação penal, o ordenamento jurídico exige tão somente a demonstração dos indícios de autoria e de materialidade, o que se verificou na hipótese dos autos, tomando por base o citado trecho do acórdão recorrido:
+Compulsando-se os autos, verifico que embora haja indícios de que os representantes das empresas VERONA e BUAIZ tenham agido em conluio para ocultar a real adquirente da mercadoria constante na Dl nº 04/0554750-6, já que a Fatura Comercial estava em nome da BUIAZ e o Conhecimento de Carga apontava como consignatária a VERONA, os elementos dos autos apontam para a inexistência de dolo (fl. 661)
+ No sentido:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRABANDO. CAÇA-NÍQUEIS. REJEIÇÃO DA DENÚNCIA. DOLO. AUSÊNCIA DE INSTRUÇÃO. PROSSEGUIMENTO DO FEITO. AGRAVO NÃO PROVIDO.
+1. "Antes da devida instrução do feito, incabível a absolvição de agente em decorrência da ausência de dolo, inclusive porque a comprovação do dolo é essencial ao provimento da pretensão acusatória, ficando a cargo do órgão que a promove, de acordo com o que preceitua o art. 156 do Código de Processo Penal, mas não à deflagração da ação penal, para a qual o ordenamento jurídico exige tão somente a demonstração dos indícios de autoria."
+(AgRg no REsp 1.312.489/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 4/8/2015, DJe 20/8/2015).
+2. Agravo regimental não provido (AgRg no REsp 1.290.408/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 25/4/2018)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. DIREITO PENAL E PROCESSO PENAL. CONTRABANDO. CAÇA-NÍQUEIS. SUSPENSÃO CONDICIONAL DO PROCESSO.ACEITAÇÃO. DECISÃO PREMATURA DO JUÍZO SINGULAR. ABSOLVIÇÃO. ART. 386, III, DO CPP. VERIFICAÇÃO DO DOLO. AUSÊNCIA DE INSTRUÇÃO PROCESSUAL. ANULAÇÃO. LEGALIDADE. PROSSEGUIMENTO DO SURSIS PROCESSUAL. DECISUM EXTRA PETITA. NÃO OCORRÊNCIA. DECISÃO A QUO QUE NÃO VIOLOU O ART. 619 DO CPP.
+1. Antes da devida instrução do feito, incabível a absolvição de agente em decorrência da ausência de dolo, inclusive porque a comprovação do dolo é essencial ao provimento da pretensão acusatória, ficando a cargo do órgão que a promove, de acordo com o que preceitua o art. 156 do Código de Processo Penal, mas não à deflagração da ação penal, para a qual o ordenamento jurídico exige tão somente a demonstração dos indícios de autoria.
+2. O Juízo singular deixou de proporcionar ao titular da ação penal e ao acusado o direito de instrução probatória, vale dizer, o devido processo, inovando ou criando rito processual não previsto na lei processual ou mesmo na lei especial que cuida da suspensão condicional do processo, qual seja, o art. 89 da Lei n. 9.099/1995.
+3. Não se evidencia a alegada violação do art. 619 do Código de Processo Penal, porquanto o fornecimento da prestação jurisdicional se ajustou à pretensão deduzida, conforme se depreende da análise do decisum a quo.
+4. O agravo regimental não merece prosperar, porquanto as razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada.
+5. Agravo regimental improvido( AgRg no REsp 1.312.489/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 20/8/2015)
+Portanto, indevida a prematura absolvição dos réus mantida pela Corte Regional.
+Ante o exposto, com fundamento no art. 932, inc. V, alínea "a", do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, dou provimento ao recurso especial para determinar o prosseguimento da ação penal nos termos da fundamentação.
+Publique-se. Intimem-se.
