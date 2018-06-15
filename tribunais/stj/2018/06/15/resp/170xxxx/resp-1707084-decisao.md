@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alíneas "a" e "c", da Constituição Federal, interposto em desfavor de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 155, caput c/c art. 14, II todos do Código Penal (furto tentado), à pena de 04 (quatro) meses de reclusão, em regime aberto, e ao pagamento de 03 (três) dias-multa, posteriormente, substituída pela pena pecuniária de 10 (dez) dias-multa.
+Irresignada a parte e interposto recurso, restou este desprovido por acórdão assim ementado:
+Tentativa de furto  Pretendida absolvição por insuficiência probatória, aplicação do princípio da insignificância ou pelo reconhecimento de crime impossível  Descabimento - Tese de bagatela inaplicável  Crime consumável - Elementos de prova que demonstram autoria e materialidade delitiva  Penas corretamente arbitradas  Recurso desprovido.
+Na petição de recurso especial, a defesa aponta violação ao disposto no art. 155 do Código Penal. Sustenta, em síntese, a aplicação do princípio da insignificância.
+Contrarrazões às fls. 173/182.
+Admitido o recurso (fl. 185), os autos vieram a esta Corte.
+Parecer ministerial pugnando pelo desprovimento do recurso (fl. 195).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+No caso, o valor da res furtiva (R$ 144,40), superior a 10 % (dez por cento) do salário mínimo vigente à época dos fatos (R$ 788,00), evidencia a efetiva lesão ao bem jurídico tutelado pela norma penal incriminadora, o que torna inaplicável o princípio da insignificância.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. VALOR DA RES FURTIVA SUPERIOR A 10% (DEZ POR CENTO) DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. AUSÊNCIA DA MÍNIMA OFENSIVIDADE DA CONDUTA. Não há dúvida de que a conduta em referência mostra-se incompatível com o princípio da insignificância, ante a expressividade do valor dos bens subtraídos - muito superior a 10% (dez por cento) do salário mínimo vigente à época dos fatos - não havendo que se falar em mínima ofensividade. Agravo regimental desprovido. (AgRg no AREsp 946.939/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 08/02/2018, DJe 21/02/2018 - Grifo Nosso).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. VALOR DA RES FURTIVA SUPERIOR A 10% DO SALÁRIO MÍNIMO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. BONS ANTECEDENTES. PRIMARIEDADE. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Condenações anteriores ainda não transitadas em julgado, não podem ser consideradas como maus antecedentes nem caracterizam reincidência. Súmula n. 444 do STJ. 2. A subtração de telefone celular avaliado em R$ 104,11 (16,24% do salário mínimo vigente à época) não se revela de escassa ofensividade penal e social, pois a lesão jurídica provocada não pode ser considerada insignificante, ainda que o agente seja primário e tenha bons antecedentes. 3. O simples fato de o bem haver sido restituído à vítima não constitui, por si só, razão suficiente para a aplicação do princípio da insignificância. 4. Agravo regimental não provido. (AgRg no HC 318.550/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/12/2015, DJe 11/12/2015 - Grifo Nosso).
+Ante o exposto, com fundamento na Súmula n. 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
