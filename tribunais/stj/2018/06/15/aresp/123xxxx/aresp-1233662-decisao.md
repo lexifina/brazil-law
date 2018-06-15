@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, em face de acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Turismo. Indenização por danos morais referentes a hospedagem em resort tido como cinco estrelas. R. sentença de procedência, com apelos das rés. Presente a legitimidade passiva da agência de turismo. Má prestação dos serviços indicada. Venda de produto/serviços, que não corresponderam ao efetivamente usufruído pela parte consumidora, gerando-lhe dissabor durante sua viagem. Danos morais configurados, e plausivelmente arbitrados. Nega-se provimento aos recursos das duas rés."
+Nas razões do recurso especial, a recorrente aponta violação aos arts. 333, I e II, do CPC/1973, 186, 187, 927, do Código Civil/2002, 14, § 3º, II, do Código de Defesa do Consumidor, sustentando, em síntese, isto: a) a ausência do dever de indenizar, em razão de não ter restado comprovado nos autos qualquer nexo de causalidade entre a conduta da recorrente e os danos supostamente suportados pela recorrida; e, b) a necessidade de redução do quantum indenizatório, porquanto excessivo.
+É o relatório. Passo a decidir.
+No que tange à responsabilidade civil da insurgente, concluiu a Corte a quo:
+"Aplica-se o CDC, com solidariedade entre todas as empresas envolvidas na viagem.
+Ao que se infere dos autos, a corré CVC (atua no ramo de turismo) contratou com a acionante pacote turístico para hospedagem no Tropical Manaus Ecoresort, fls. 52/59, prestado de forma inadequada ou viciada.
+(..)
+Importante destacar que embora a CVC não tenha sido a responsável direta pelos transtornos causados à consumidora, o fato é que vendeu o pacote turístico, beneficiando-se com tal intermediação.
+Dessa forma, sequer se poderia aventar em ilegitimidade da ré para figurar no polo passivo da demanda, até porque, como também ponderado na r. sentença, estamos falando de empresa que disponibiliza serviço de mediação entre companhias aéreas e de transporte, hotéis e consumidores, de modo que responde, assim como qualquer das envolvidas contratadas, por falhas na prestação do serviço, pois se beneficiam da cadeia produtiva e das atividades umas das outras mutuamente. A responsabilidade é objetiva no caso, ou seja, independente de culpa." (e-STJ, fls. 310/311)
+Ocorre que a recorrente não rebateu de forma específica e suficiente referida fundamentação, o que atrai, na hipótese, a incidência, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. SÚMULA Nº 7/STJ E NºS 283 E 284/STF. DEFICIÊNCIA NA COMPROVAÇÃO DA DIVERGÊNCIA.
+1. A ausência de impugnação dos fundamentos do aresto recorrido enseja o não conhecimento do recurso, incidindo, por analogia, o enunciado das Súmulas nºs 283 e 284 do Supremo Tribunal Federal.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula º 7 do Superior Tribunal de Justiça.
+3. A divergência jurisprudencial, nos ermos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não restou evidenciado na espécie.
+4. Agravo regimental não provido." (AgRg no AREsp 293.137/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/10/2014, DJe de 29/10/2014)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO RECURSO ESPECIAL DISSOCIADAS DOS FUNDAMENTOS O ACÓRDÃO HOSTILIZADO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.AGRAVO REGIMENTAL NÃO PROVIDO.
+1.. A falta de impugnação objetiva e direta aos fundamentos do acórdão recorrido, denota a deficiência da fundamentação recursal que apegou-se a considerações secundárias eque de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+2. A análise da retensão recursal, a fim de se examinar a validade da perícia realizada, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, o que é vedado em sede de recurso especial, nos termos o enunciado da Súmula 7 do STJ.
+3. Inviável o conhecimento do recurso ela alínea "c" do permissivo constitucional, se a análise do dissenso pretoriano depender do revolvimento de matéria fático probatória.
+4. Agravo regimental não provido, com aplicação de multa." (AgRg no AREsp 69.414/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/10/2014, DJe de 16/10/2014)
+Quanto ao montante fixado a título de indenização por danos morais, observa-se que a recorrente não indica qual ou quais dispositivos entende violados, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. QUEIMA DE CANA DE AÇÚCAR - REEXAME DE PROVA. SÚMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SUMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reforma do julgado quanto à ocorrência ou não do dano, que gerou a obrigação de indenizar, demanda inegável necessidade de incursão nas provas constantes dos autos, o que é vedado em sede de recurso especial. Incidência do óbice da Súmula 7 desta Corte.
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o enunciado da Súmula 284/STF.
+3. A admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano a violação do dispositivo legal pela decisão recorrida, a fim de demonstrar a vulneração existente, o que não ocorreu na hipótese da alegada violação ao art.
+38, § 4º, da Lei 12.651/12.
+4. Agravo regimental não provido." (AgRg no AREsp 721.287/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe de 27/08/2015)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios recursais da CVC BRASIL OPERADORA E AGENCIA DE VIAGENS S.A, nos termos do art. 85, § 11, do CPC/2015, em 1% sobre o valor da condenação.
+Publique-se.
