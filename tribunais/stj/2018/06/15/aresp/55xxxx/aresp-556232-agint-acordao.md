@@ -1,0 +1,26 @@
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. INEXISTÊNCIA DE DEPÓSITO DO MONTANTE INTEGRAL. IMPOSSIBILIDADE. REVERSÃO DO JULGADO QUE DEMANDA O REVOLVIMENTO DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. Segundo consta no acórdão recorrido, a questão relacionada à integralidade do depósito não foi objeto de discussão no Mandado de Segurança, o que não haveria óbice de análise na presente Ação Cautelar. Assim, a revisão de tal entendimento encontra óbice no disposto na Súmula 7/STJ, diante da necessidade de revolvimento de matéria fático-probatória.
+2. O acórdão impugnado também consignou que não houve o depósito do montante integral do débito apto a suspender a exigibilidade do crédito tributário. Portanto, para rever tal conclusão, necessária a análise do suporte fático-probatório dos autos, o que é vedado em Recurso Especial.
+3. Agravo Interno da Contribuinte a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto por PLATINUM COMÉRCIO ATACADISTA DE PRODUTOS INDUSTRIALIZADOS LTDA. contra decisão decisão monocrática de minha lavra, que negou provimento ao Agravo em Recurso Especial, nos termos desta ementa:
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. PEDIDO DE SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. INEXISTÊNCIA DE DEPÓSITO DO MONTANTE INTEGRAL. IMPOSSIBILIDADE. REVERSÃO DO JULGADO QUE ENSEJA O REVOLVIMENTO DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+2. A parte agravante sustenta, em síntese, que houve o prequestionamento do art. 473 do CPC/1973, devendo ser afastada a incidência da Súmula 211/STJ. De outro lado, alega que houve concessão de liminar em Mandado de Segurança determinando a suspensão da exigibilidade do crédito tributário, o que pressupõe a existência de depósito do valor integral do débito.
+3. Apresentada Impugnação ao Agravo às fls. 344/346.
+4. É o relatório.
+VOTO
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. INEXISTÊNCIA DE DEPÓSITO DO MONTANTE INTEGRAL. IMPOSSIBILIDADE. REVERSÃO DO JULGADO QUE DEMANDA O REVOLVIMENTO DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. Segundo consta no acórdão recorrido, a questão relacionada à integralidade do depósito, não foi objeto de discussão no Mandado de Segurança, o que não haveria óbice de análise na presente Ação Cautelar. Assim, a revisão de tal entendimento encontra óbice no disposto na Súmula 7/STJ, diante da necessidade de revolvimento de matéria fático-probatória.
+2. O acórdão impugnado também consignou que não houve o depósito do montante integral do débito apto a suspender a exigibilidade do crédito tributário. Portanto, para rever tal conclusão, necessária a análise do suporte fático-probatório dos autos, o que é vedado em Recurso Especial.
+3. Agravo Interno da Contribuinte a que se nega provimento.
+1. A insurgência não merece prosperar.
+2. Quanto à tese de violação do art. 473 do CPC/1973, referente à preclusão em relação à suficiência do depósito, registre-se que, em que pese a sucinta análise do tema por ocasião do julgamento dos Embargos de Declaração, a pretensão recursal não comporta êxito.
+3. Realmente, segundo consta no acórdão recorrido, a questão relacionada à integralidade do depósito, não foi objeto de discussão no Mandado de Segurança, o que não haveria óbice de análise na presente Ação Cautelar. Assim, a revisão de tal entendimento encontra óbice no disposto na Súmula 7/STJ, diante da necessidade de revolvimento de matéria fático-probatória.
+4. Por fim, o acórdão regional também consignou que não houve o depósito do montante integral do débito apto a suspender a exigibilidade do crédito tributário. A propósito, veja-se:
+14. Ora, se o valor originário do crédito é de R$ 35.441,72, na data em ocorreu o fato gerador, e a requerente efetuou o depósito de apenas R$ 32,.896,03, então é óbvio que- o depósito não foi suficiente para cobrir nem mesmo o valor do crédito originário. Por consequência, se o depósito não foi suficiente para cobrir o crédito originário, então também não. ocorreu o depósito sobre o valor da multa, da correção monetária e dos juros de mora.
+15. Observa-se, então, que a Requerente não efetuou o depósito do valor integral devido, de ICMS, de maneira que não cumpriu o disposto no art. 151, II, do Código Tributário Nacional (fls. 208/209).
+5. Portanto, para rever tal conclusão, necessária a análise do suporte fático-probatório dos autos, o que é vedado em Recurso Especial.
+6. Ante o exposto, nega-se provimento ao Agravo Interno da Contribuinte. É o voto.
