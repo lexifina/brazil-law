@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por BANCO DO BRASIL S/A contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO REGIMENTAL - RECONSIDERAÇÃO DENEGADA - PERÍCIA GRAFOTÉCNICA - SOLICITAÇÃO DA VISTORA, DAS FICHAS, DOS PREPOSTOS DA EMPRESA - JUNTADA DE DOCUMENTOS ELETRÔNICOS - IMPOSSIBILIDADE - QUESTÃO DE FUNDAMENTO TÉCNICO PARA O SUBSTRATO E COTEJO DE ASSINATURAS - PREQUESTIONAMENTO INOCORRENTE - RECURSO NÃO PROVIDO." (e-STJ, fl. 268)
+Nas razões do recurso especial, a parte recorrente alega violação dos seguintes dispositivos: 1) arts. 400, I, e 1.015, VI, do CPC/2015, sustentando, que a determinação de apresentação de documento original, sob pena de presunção de veracidade dos fatos e do parecer técnico encomendado pela parte autora após interposição de recurso exclusivamente pelo banco recorrente; e 2) arts. 1º, caput, e 3º, caput, da Lei n. 11.419/2008, alegando que nos processos judiciais eletrônicos a exibição de documentos se aperfeiçoa pelas digitalizações apresentadas, sendo suficiente a exibição de cópia digitalizada para a realização de perícia grafotécnica.
+Apresentadas contrarrazões às fls. 289/298 (e-STJ).
+É o relatório. Decido.
+No que tange à tese de que presunção de veracidade dos fatos e do parecer técnico encomendado pela parte autora, em razão da não apresentação do documento solicitado pela perita do juízo, constitui violação ao princípio da non reformatio in pejus, verifica-se, do exame dos autos, que não foi discutida no v. acórdão recorrido, tampouco foram opostos embargos de declaração a fim de sanar eventual irregularidade.
+Dessa forma, ante a falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. A propósito:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ANULATÓRIA. ACORDO HOMOLOGADO EM JUÍZO. VÍCIO NÃO DEMONSTRADO. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. A rediscussão dos termos do acordo homologado judicialmente seria possível se tal acordo fosse desconstituído, mediante a ação anulatória prevista no artigo 486 do Código de Processo Civil de 1973. Precedentes.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1132232/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/04/2018, DJe 03/05/2018 - grifo nosso)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL E RESOLUÇÃO. IMPOSSIBILIDADE DE APRECIAÇÃO EM SEDE DE RECURSO ESPECIAL. AFUNDAMENTO CONSTITUCIONAL NÃO IMPUGNADO. SÚMULA 126/STJ. COMISSÃO DE PERMANÊNCIA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. FALTA DE COTEJO ANALÍTICO. AGRAVO NÃO PROVIDO.
+1. Não compete ao Superior Tribunal de Justiça apreciar, em sede de recurso especial, violação à matéria constitucional ou de resolução, tendo em vista que estas não se compreendem no conceito de lei federal.
+2. Não obstante a fundamentação constitucional do aresto, não houve a devida impugnação da matéria por meio de recurso extraordinário, o que atrai o óbice da Súmula 126/STJ.
+3. É válida a cobrança da comissão de permanência no período de inadimplemento, desde que: prevista em contrato; calculada pela taxa média de mercado; e não seja acumulada com encargos remuneratórios, correção monetária, juros de mora ou multa contratual. Súmula 83/STJ.
+4. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal. Incidência das Súmulas 282/STF e 356/STF.
+5. Agravo interno não provido."
+(AgInt no AgInt no AREsp 862.036/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/03/2017, DJe 15/03/2017 - grifo nosso)
+Quanto à questão da apresentação do documento original, a Corte de origem expressamente consignou o seguinte:
+"Não se explica ou se justifica minimamente a resistência inabalável da instituição financeira de sonegar o documento, retardar sua apresentação ou tentar emprestar àquele virtual a mesma importância.
+A providência, cuja diligência encerra a exibição do documento, coube à perita, de acordo com a petição de fls. 868 dos originais e 221 do recurso.
+A perita do juízo requer expressamente a intimação do banco, a fim de que deposite junto ao cartório do juízo, os documentos originais reproduzidos às fls. 726 e 727, peças de exame por motivo pericial.
+Ambos os documentos de fls. 148/149, do respectivo agravo, sinalizam o cadastro feito junto ao banco para permitir e autorizar as respectivas reiterações, sendo pouco crível que o meio digital ofereça subsídio ao trabalho pericial, daí porque somente com o original terá condições de avaliar, com certeza e precisão, a existência ou não da falsidade.
+(..)
+A casa bancária insiste, resvalando na mesma tecla, de não dispor dos documentos firmados para apresentá-los, visando realização de perícia grafotécnica.
+Tenta-se limitar àqueles digitais da intranet, a teor de fls. 144/146, o que não evidencia qualquer razoabilidade ou lógica.
+No caso concreto, a digitalização do documento não confere a mesma precisão técnica para fins da realização de perícia comparativa das assinaturas.
+A Lei nº 11.419/06, como alega o banco-recorrente, não empresta pelo sistema universal digital validade e eficácia para tornar a digitalização chave de segurança atinente à perícia." (e-STJ, fl. 270/272)
+Como se vê, houve expressa fundamentação quanto à necessidade da apresentação do documento original para realização de perícia grafotécnica, uma vez que a digitalização do documento não confere a mesma precisão técnica para fins da realização de perícia comparativa das assinaturas.
+A este respeito, vigora no direito processual pátrio o sistema de persuasão racional, cabendo ao magistrado autorizar a produção desta ou daquela prova, se por outros meios não estiver convencido da verdade dos fatos, tendo em vista que cabe ao juiz a análise da conveniência e necessidade da sua produção. Nesse sentido, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 535 DO CPC/1973. AUSÊNCIA DE OMISSÕES E CONTRADIÇÕES NO ACÓRDÃO ESTADUAL. LAUDO PERICIAL. PERÍCIA COMPLEMENTAR. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. É de ser afastada a existência de vícios no acórdão, tendo em vista que a matéria impugnada foi enfrentada de forma objetiva e fundamentada no julgamento do recurso, naquilo que o Tribunal a quo entendeu pertinente à solução da controvérsia.
+2. Os vícios a que se refere o artigo 535, I e II, do CPC/1973 são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, sendo certo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador.
+3. A jurisprudência do STJ entende que a verificação da necessidade da produção de quaisquer provas, é faculdade adstrita ao magistrado, de acordo com o princípio do livre convencimento do julgador, e que a análise acerca do deferimento ou não de produção de provas enseja o revolvimento do conteúdo fático-probatório dos autos. Incidência da Súmula 7/STJ.
+4. Agravo interno não provido."
+(AgInt no AREsp 1125060/RN, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/04/2018, DJe 24/04/2018 - grifo nosso)
+"AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS EM SEGUNDA FASE. VALOR APURADO POR PERÍCIA. IMPUGNAÇÃO AO CRITÉRIO DE APURAÇÃO UTILIZADO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. LIVRE ADMISSIBILIDADE E CONVENCIMENTO DO JUIZ.
+1. A aferição, no âmbito do Superior Tribunal de Justiça, da perfeição e da forma em que as contas foram prestadas demanda o revolvimento do conjunto fático-probatório, inviável, ante o enunciado da Súmula 7 do STJ. Precedentes.
+2. O princípio da livre admissibilidade da prova e do livre convencimento do juiz permitem ao julgador determinar as provas que entende necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias, não configurando cerceamento de defesa o julgamento da causa nessas condições.
+3. Concluindo o acórdão recorrido, com base nos elementos de fato e prova dos autos, pela desnecessidade de realização de nova perícia requerida pelo recorrido, a revisão julgado, como pretendido, demandaria o revolvimento de matéria de prova, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento."
+(AgRg nos EDcl no REsp 1410730/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2015, DJe 01/02/2016 - grifo nosso)
+Nesse contexto, a análise da adequação ou não do documento digitalizado para a realização da perícia grafotécnica, configura claramente questão probatória, cuja análise, nesta instância extraordinária, encontra óbice no teor da Súmula 7/STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
