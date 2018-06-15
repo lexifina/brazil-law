@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de decisão proferida pelo Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o recorrente foi condenado à pena 5 anos e 20 dias de reclusão e 17 dias-multa, à razão de 1/30 do salário mínimo vigente à época dos fatos, pela prática do delito do artigo 1º, I, "a", e § 4º, II, da Lei n. 9.455/97 (tortura para confissão contra adolescente).
+A defesa interpôs apelação buscando a absolvição e, subsidiariamente, a redução da pena-base e o decote da agravante prevista no art. 61, II, a, do Código Penal e da causa de aumento do art. 1º, § 4º, da Lei de Tortura. O Tribunal de origem deu parcial provimento ao recurso apenas para decotar a pena pecuniária imposta pelo juízo sentenciante por acórdão assim ementado (fl. 636):
+PENAL - APELAÇÕES CRIMINAIS - TORTURA - AUTORIA E MATERIALIDADE COMPROVADAS - DECLARAÇÕES DA VÍTIMA CORROBORADAS POR PROVAS TESTEMUNHAIS E PERICIAL - REDUÇÃO DAS REPRIMENDAS - DESCABIMENTO - DECOTE DAS PENAS PECUNIÁRIAS - RECURSOS PARCIALMENTE PROVIDOS - EXTENSÃO DOS EFEITOS DO JULGADO AO CORREU NÃO-APELANTE.
+  Uma vez comprovadas a materialidade e a autoria delitivas, a manutenção da condenação é medida que se impõe.
+- Quando se constata que as penas foram fixadas de forma justificada, a sua manutenção é medida que se impõe.
+ Verifica-se a necessidade de se decotar as penas de multa equivocadamente impostas na sentença em relação a ambos os recorrentes, bem como ao corréu não apelante, uma vez que o preceito secundário do tipo penal em tela somente comina a aplicação dê pena privativa de liberdade.
+- Recursos parcialmente providos.
+Na petição de recurso especial, o recorrente alega negativa de vigência dos arts. 59 e 68 do Código Penal. Sustenta, em síntese, que a pena-base foi aumentada em razão da valoração negativa da circunstância judicial - vítima adolescente - fato considerado pelo juiz sentenciante na terceira fase da dosimetria da pena e, também, com base em elementos inerentes ao tipo penal, devendo ser fixada no mínimo legal.
+Contrarrazões às fls. 663-665.
+Admitido o recurso (fl. 667), os autos vieram a esta Corte.
+Parecer ministerial pugnando pelo provimento do recurso (fls. 686/691).
+É o relatório. Decido.
+A irresignação merece prosperar.
+No que tange à pena-base imposta, o juiz de piso, ao dosá-la, registrou o seguinte:
+ - em relação à culpabilidade, verifica-se que censurabilidade e a reprovabilidade da conduta do Acusado é elevadíssima, tendo em vista que os atos torturantes foram praticados contra uma adolescente de 14 (quatorze  anos
+(..)
+- as consequências do crime foram danosas, porque a vítima teve suas integridades física e psicológica fortemente abaladas.
+(..)
+Diante de tais fundamentos, considerando que as circunstâncias analisadas no arf. 59 do CP, foram em sua maioria desfavoráveis ao acusado, fixo a pena base um pouco acima do mínimo previsto no tipo penal imputado, ou seja: em 03 (três) anos de reclusão, além de 10 (dez) dias-multa, na razão de 1/30 do salário mínimo vigente , há época dos fafos o dia-multa.
+(..)
+Entretanto. presente o causa de aumento de peno prevista no art. 1;º. § 4º, fl, da Lei 9.455/97. tendo em vista que a vítima à época dos fatos, contava com apenas 14 (quatorze) anos. logo, adolescente. Diante disso, majoro a reprimenda até aqui aplicada em 1/6. (fls. 507/510)
+O Tribunal a quo manteve a dosimetria da pena imposta, nos seguintes termos:
+In casu, as circunstâncias consubstanciadas no art 59, do Código Penal, permitiam uma exasperação até mais ampla das penas-base.
+Ademais, especificamente quanto à fundamentação trazida nas razões recursais, não há que se falar em ocorrência de bis in idem. A agravante da motivação torpe, ao contrário do alegado, não foi utilizada também na primeira fase de aplicação das penas, pois a circunstância judicial "motivos" não foi sopesada de forma desfavorável aos apelantes. conforme se vê às ff 451 e 454.
+Já a causa de aumento de pena do delito praticado contra adolescente também não foi sopesada na primeira fase de aplicação das penas, pois ao valorar negativamente a "culpabilidade", a d juiza Sentenciante na verdade se referiu à elevada reprovabilidade da conduta dos acusados ao realizarem os atos torturantes
+Aliás, ressalte-se que os réus já foram indevidamente beneficiados na r sentença recorrida, em razão de equívoco matemático na fixação de suas reprimendas, data venial à d. Sentenciante. Isso porque na terceira fase de aplicação das penas, tomando-se as penas provisórias -, estabelecidas em 04 (quatro) anos e 06 (seis) meses de reclusão - e aumento-as em 1/6 (um sexto), em face da majorante reconhecida, o cálculo correto resultaria em 05 (cinco) anos e 03 (três) meses de reclusão, e não nos 05 (cinco) anos e 20 (vinte) dias de reclusão estabelecidos na sentença, redobrada venia (não sendo possível proceder a sua correção neste momento, para não se incorrer em reformatio in pejus). (fls. 644/645)
+Com efeito, a desvaloração de circunstância judicial que acarreta exasperação da pena-base deve estar fundada em elementos concretos, não inerentes ao tipo penal, o que não ocorreu no caso dos autos, porquanto foram consideradas como negativas circunstâncias ínsitas ao próprio tipo incriminador. No sentido:
+REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PENAL. CRIME DE TORTURA. ABSOLVIÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. Tendo a Corte de origem, após detida análise de todos os elementos colhidos no curso da ação penal, concluído que o caderno processual ostenta provas aptas para a condenação pelo crime de tortura, a desconstituição do julgado para fins de absolvição por insuficiência de provas exigiria o revolvimento do acervo fático-probatório dos autos, o que é vedado na via eleita, a teor do disposto na Súmula n. 7/STJ.
+DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. DELITO PRATICADO POR POLICIAIS MILITARES. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CAUSA DE AUMENTO DE PENA. BIS IN IDEM. IMPOSSIBILIDADE. REGIME PRISIONAL. ADEQUAÇÃO AO QUANTUM DA PENA. INSURGÊNCIA PARCIALMENTE PROVIDA.
+1. Na condenação, atento às peculiaridades do caso, deve o magistrado sentenciante guiar-se pelas circunstâncias judiciais relacionadas no "caput" do artigo 59 do Código Penal, inexistindo critério puramente objetivo ou matemático, uma vez que é admissível certa discricionariedade do órgão julgador.
+2. Todavia, para tanto, exige-se que sejam apontadas circunstâncias concretas do fato criminoso, pois é justamente a motivação da sentença que oferece garantia contra os excessos e eventuais erros na aplicação da resposta penal.
+3. Na espécie, a culpabilidade e as circunstâncias do crime foram consideradas desfavoráveis em razão da condição dos agentes (policiais militares) e local do crime (dentro da repartição pública). Contudo, esses elementos não podem ser utilizados para exasperar a pena-base, pois o fato de serem agentes públicos incidiu como causa especial de aumento de pena na terceira fase da dosimetria (art. 1º, § 4º, inciso I, da Lei n. 9.455/97), o que ensejou o vedado bis in idem.
+4. Afastada a dupla incidência desfavorável e redimensionada a sanção básica para o mínimo legal, o regime inicial aberto mostra-se adequado e proporcional na hipótese dos autos.
+5. Agravo Regimental parcialmente provido para redimensionar a pena privativa de liberdade e adequar o regime prisional inicial (AgRg no AREsp 592.337/MT, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 30/8/2017)
+Nesse contexto, impõe-se o redimensionamento da pena, o que passo a fazer desde já.
+Na primeira fase da dosimetria, fixo a pena-base no mínimo legal - 2 anos e 4 meses de reclusão.
+Na segunda etapa, fica mantido o aumento da pena-base em 1 ano e 6 meses, resultando em 3 anos e 10 meses de reclusão. Na terceira etapa, mantido o aumento de 1/6 em virtude da presença da majorante apontada pelo Tribunal de origem, totalizando, 4 anos, 5 meses e 20 dias de reclusão, no regime semiaberto.
+Ante o exposto, com fundamento no art. 932, inc. V, alínea "a", do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, dou provimento ao recurso especial para reduzir a pena do réu, nos termos da fundamentação supra.
+Publique-se. Intimem-se.
