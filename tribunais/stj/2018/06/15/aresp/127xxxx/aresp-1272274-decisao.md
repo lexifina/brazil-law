@@ -1,0 +1,19 @@
+DECISÃO
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. REGISTRO DE DESPACHANTE ADUANEIRO. REQUISITO LEGAIS ATENDIDOS. INVERSÃO DO JULGADO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO CONHECIDO E RECURSO ESPECIAL DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pela UNIÃO, com fundamento na alínea a do art. 105, III da Carta Magna, no qual se insurge contra acórdão proferido pelo Tribunal Regional Federal da 3a. Região, assim ementado:
+APELAÇÃO E REEXAME NECESSÁRIO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANULAÇÃO DE REGISTRO DE DESPACHANTE ADUANEIRO, ANTERIORMENTE CONCEDIDO. IMPOSSIBILIDADE NA ESPÉCIE, DIANTE DA DECADÊNCIA DE CINCO ANOS PARA O PODER PÚBLICO REVER SEU PRÓPRIO ATO (DO QUAL DECORREU BENEFÍCIO PARA ADMINISTRADO), ESPECIALMENTE PORQUE NÃO HÁ APONTAMENTO DE MÁ-FÉ DO BENEFICIÁRIO. CASO EM QUE O IMPETRANTE, ADEMAIS, APRESENTAVA CONDIÇÃO SUBJETIVA PARA ADQUIRIR A CONDIÇÃO DE DESPACHANTE ADUANEIRO. SENTENÇA RATIFICADA.
+1. Revogação de licença para despachante aduaneiro, feita pela administração pública fora do prazo do artigo 54 da Lei 9.784/99; reconhecimento da decadência do poder-dever de revisar os próprios atos da administração, porquanto o parecer administrativo que embasou o ato de anulação do registro não imputou qualquer má-fé ao interessado, ora impetrante.
+2. Haja vista o transcurso de quase 15 anos entre o ato de registro e o posterior ato de cancelamento, resta incontroverso que o último foi realizado quando já carente a Administração do poder-dever de anular o primeiro ato.
+3. Ainda que assim não fosse, conforme bem apontado pelo juízo de Primeiro Grau, o impetrante preenchia o requisito legal previsto no inciso IV, art. 45, do Decreto 646/92, e não foi demonstrada a má-fé.
+4. Apelação e remessa oficial não providos (fls. 264).
+2. Os Embargos de Declaração opostos foram rejeitados às fls. 291.
+3. Nas razões do Recurso Especial, a parte ora agravante alega violação ao art. 5o., § 3o. do Decreto-lei 2.472/1988, regulamentado pelo art. 45, IV e V do Decreto 646/1992, aduzindo que não restaram atendido os requisitos legais para registro da parte agravada como Despachante Aduaneiro (fls. 304).
+4. Sobreveio juízo negativo de admissibilidade (fls. 324/326), o que ensejou a interposição do presente Agravo (fls. 328/342).
+5. É o relato do essencial.
+6. Quanto ao atendimento aos requisitos legais para a inscrição da ora agravante como Despachante Aduaneiro, assim se manifestou o tribunal de origem:
+Ainda que assim não fosse, conforme apontado pelo juízo de Primeiro Grau, a impetrante preencheu o requisito legal previsto no inciso IV, art. 45, do Decreto 646/92, pois não restou demonstrada a má-fé para que o ato pudesse ser revisto validamente, após o decurso do prazo decadencial de cinco anos.
+Ademais, ao contrário do alegado pela União Federal a referida norma determina a possibilidade de inscrição como despachante aduaneiro do ajudante de despachante credenciado ou que esteja há pelo menos dois anos atuando junto a repartições aduaneiras da Região Fiscal. Ou seja, expressamente prevê duas hipóteses de concessão do registro: do ajudante credenciado; e daquele não credenciado, mas que comprove os dois anos de atividade, caso do impetrante (fls. 262/263).
+7. Como se verifica, o Tribunal de origem, com base no acervo fático-probatório da causa, concluiu que restaram atendidos os requisitos legais para registro da agravada como Despachante Aduaneiro, sendo que, entendimento diverso como pretendido, atrai o óbice da Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de provas não enseja Recurso Especial.
+8. Diante do exposto, com fundamento no art. 932, IV do CPC/2015, conhece-se do Agravo para negar provimento ao Recurso Especial da UNIÃO.
+9. Publique-se.
+10. Intimações necessárias.
