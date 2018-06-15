@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor [NOME], em face de acórdão do Tribunal de Justiça de Minas Gerais.
+Consta dos autos que o paciente foi pronunciado como incurso no art. 121, § 2º, II, c/c o art. 14, II, ambos do CP.
+Neste writ sustenta o impetrante, em suma, nulidade da sentença de pronúncia por excesso de linguagem, tendo em vista que a decisão emitiu juízo de valor sobre a tese da defesa, no momento em que afirmou que sua versão restou isolada, e, portanto, frágil (fl. 4).
+Requer, assim, a cassação da sentença de pronúncia e do acórdão confirmatório.
+Prestadas as informações, o Ministério Publico Federal ofertou parecer pelo não conhecimento do habeas corpus.
+É o relatório.
+DECIDO.
+Pretende a impetrante o reconhecimento de excesso de linguagem na sentença de pronúncia com relação à tese de legitima defesa.
+Na espécie, transcreve-se excerto da impugnada expressão excessiva (fl. 141):
+Não obstante a alegação do indigitado que tenha agido em legítima defesa própria, sua versão restou ilhada no processo, não se vislumbrando as hipóteses legais de tal excludente de ilicitude.
+O Tribunal, quanto ao ponto, assim consignou (fl. 201/202):
+Preliminarmente, argui a defesa a nulidade da decisão de pronúncia, alegando excesso de linguagem do decisum a quo, mormente em razão do d Juiz de Primeiro Grau ter emitido juízo de valor sobre a existência da excludente de ilicitude da legítima defesa No entanto, sem razão
+Compulsando a decisão em apreço, verifico que o julgador singular mostrou-se comedido no uso da linguagem, cingindo-se a apontar, com moderação, os elementos probatórios que justificaram a sua decisão não excedendo em nenhum momento na fundamentação
+Com efeito, o d Magistrado a quo asseverou no r decisum que a materialidade estaria comprovada e que estariam presentes nos autos os indícios de autoria contra o acusado, em estrita observância determinações do art 413 do CPP, in verbis:  ..
+Lado outro, o fato do magistrado ter mencionado que não se vislumbrava nos autos as hipóteses legais para caracterizar a excludente de ilicitude da legítima defesa não constitui excesso de linguagem, já que não obrou o julgador em indevido juízo de valor, tendo apenas concluído pela inexistência das hipóteses legais que permitem, de pronto, o reconhecimento da excludente de ilicitude (fl. 78).
+Realmente é árdua a missão do magistrado de motivar a sentença de pronúncia, posto que, se não o faz a contento, sua decisão pode ser taxada de nula, por violação ao comando constitucional de que todos os atos decisórios devem ser fundamentados (art.93, IX. da CF), e, se extrapola na motivação, pode incidir em excesso de linguagem, influenciando o convencimento dos jurados.
+Entrementes, nesta penosa tarefa, penso que o douto julgador agiu com parcimônia, não emitindo qualquer juízo de valor que pudesse prejudicar o julgamento pelos juízes leigos.
+O Superior Tribunal de Justiça possui o entendimento firme de que, para a configuração de excesso de linguagem, é indispensável que o Juízo ou Tribunal realize exame crítico ou valorativo a respeito da prova produzida na ação penal, emitindo algum juízo de certeza a respeito da responsabilidade do acusado, o que, no caso dos autos, não ocorreu, uma vez que a fim de justificar o não reconhecimento, de plano, de hipótese legal de excludente de ilicitude, o Magistrado pronunciante limitou-se a apontar que a tese de legítima defesa própria  ..  restou ilhada no processo.
+Assim, nos termos da jurisprudência desta Corte, confiram-se:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. HOMICÍDIO TENTADO. NULIDADE. ACÓRDÃO CONFIRMATÓRIO DA PRONÚNCIA. EXCESSO DE LINGUAGEM. INOCORRÊNCIA. AFASTAMENTO DAS TESES DEFENSIVAS COM BASE NOS ELEMENTOS INDICIÁRIOS. AUSÊNCIA DE MANIFESTAÇÃO DE JUÍZO DE CERTEZA. ART. 93, IX, DA CONSTITUIÇÃO FEDERAL E ART. 413 DO CÓDIGO DE PROCESSO PENAL. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A prolação da decisão de pronúncia exige forma lacônica e acentuadamente comedida, sob pena do órgão julgador incorrer no vício do excesso de linguagem, extrapolando os limites desse ato decisório de modo a poder influenciar os jurados que futuramente julgarão a causa. Referida regra aplica-se, de igual modo, ao acórdão proferido pelo Tribunal de origem no julgamento do recurso em sentido estrito, quando confirma a decisão de pronúncia.
+III - No presente caso, o eg. Tribunal de origem não incorreu em vício de excesso de linguagem, limitando-se a afastar, fundamentadamente e com base nos elementos indiciários, as teses apresentadas pela defesa, não emitindo juízo de certeza quanto às teses de legítima defesa, desclassificação do crime e afastamento da qualificadora do motivo torpe.
+IV - Desta forma, o acórdão confirmatório da decisão de pronúncia não ultrapassou os limites impostos a este tipo de provimento jurisdicional, de modo a configurar o vício da eloquência acusatória, e, simultaneamente, atendeu aos comandos insertos no art. 413 do Código de Processo Penal e no art. 93, IX, da Constituição Federal, apresentando-se suficientemente fundamentado.
+Habeas Corpus não conhecido.
+(HC 389.586/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/9/2017, DJe 11/10/2017.)
+PENAL. AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. SENTENÇA DE PRONÚNCIA. ALEGAÇÃO DE EXCESSO DE LINGUAGEM. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO IDÔNEA. EXISTÊNCIA DE DIVERGÊNCIA ENTRE OS DEPOIMENTOS TESTEMUNHAIS. COMPETÊNCIA CONSTITUCIONAL DO TRIBUNAL DO JURI. IN DUBIO PRO SOCIETATE. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça possui o entendimento firme de que, para a configuração de excesso de linguagem, é indispensável que o Juízo ou Tribunal realize exame crítico ou valorativo a respeito da prova produzida na ação penal, emitindo algum juízo de certeza a respeito da responsabilidade do acusado, o que, no caso dos autos, não ocorreu.
+2. Na espécie, o Juiz sumariante limitou-se a indicar as razões pelas quais o denunciado deve ser submetido a julgamento pelo Tribunal do Júri, com referência à tese de legítima defesa tão somente em razão do dever de resposta ao pedido de absolvição sumária feito pela defesa, fundamentando de forma concisa as razões de seu convencimento, nos termos do art. 413 do Código de Processo Penal.
+3. Agravo regimental improvido.
+(AgRg no AgRg no AREsp 1009269/MA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 5/10/2017, DJe 13/10/2017.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
