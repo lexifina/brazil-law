@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão em que se negou seguimento ao recurso extraordinário, tendo em vista a ausência de ofensa direta à Constituição Federal.
+    O agravo não merece acolhida, dado que o recorrente deixou de atacar o fundamento da decisão agravada, o que atrai a incidência da Súmula 287/STF.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte:
+     “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma – grifei).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma – grifei).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux; ARE 752.372-AgR/MG, de minha relatoria.
+    Ademais, conforme assinalado na decisão agravada, para divergir do acórdão recorrido, seria necessário o reexame das normas infraconstitucionais aplicáveis à espécie, sendo certo que eventual ofensa à Constituição Federal seria indireta, o que inviabiliza o recurso extraordinário. Nesse sentido, destaco o ARE 752.348-AgR/SP, de relatoria da Ministra Cármen Lúcia, cuja ementa segue reproduzida:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA. CONTROVÉRSIA SOBRE A FORMA DE CÁLCULO DO BENEFÍCIO. DISCUSSÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Com o mesmo entendimento, menciono as seguintes decisões, entre outras: RE 1.119.781/SC, Rel. Min. Luiz Fux; RE 1.113.409/SC, Rel. Min. Dias Toffoli; ARE 1.130.537/PR, Rel. Min. Edson Fachin; ARE 1.056.541/PE, Rel. Min. Gilmar Mendes; e ARE 934.003/SC, Rel. Min. Celso de Mello.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% os honorários advocatícios anteriormente fixados pelo juízo de origem, observados os limites do art. 85, § 2º e § 3º, do CPC.
+    Publique-se.
+    Brasília, 15 de junho de 2018.
+Ministro Ricardo Lewandowski
+Relator
