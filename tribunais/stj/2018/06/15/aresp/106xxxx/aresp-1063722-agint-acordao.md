@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. ASSISTÊNCIA FUNERAL. REEMBOLSO INTEGRAL DE GASTOS. LIMITAÇÃO SECURITÁRIA. NÃO COMPROVADA. IMPOSSIBILIDADE DE REVISÃO. SÚMULAS N. 5 E N. 7, STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, decide a Egrégia TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze (Presidente) e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Nancy Andrighi.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno interposto por CAPEMISA SEGURADORA DE VIDA E PREVIDÊNCIA S/A contra a decisão proferida às Fls. 373-376 e-STJ, que negou provimento ao agravo em recurso especial em razão da incidência dos óbices das súmula n. 5 e n. 7/STJ quanto à pretendida análise da alegada vulneração ao artigo 760 do Código Civil.
+Nas razões do agravo interno o agravante defende a inaplicabilidade dos referidos óbices sumulares à espécie, argumentando que o recurso especial pretende o reconhecimento da alegada contrariedade ao mencionado dispositivo de lei federal "contemplando apenas matéria exclusivamente de direito processual, com a simples interpretação do dispositivo de lei federal, não envolvendo qualquer interpretação de cláusula contratual" (e-STJ Fl. 381)
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes colegas, o agravo interno não deve ser provido.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão agravada, faz subsistir incólume o entendimento nela firmado.
+Quanto à pretensão recursal de reforma do acórdão recorrido proferido pelo TJRS, ao fundamento de violação ao artigo 760 do Código Civil, a decisão agravada assentou pela impossibilidade de seu acolhimento, por exigir desta Corte Superior a reanálise das cláusulas contratuais do contrato de seguro de vida em questão e dos demais elementos fático-probatórios dos autos, providência que encontra óbice nas súmulas n. 5 e n. 7/STJ.
+Em adversidade ao entendimento firmado pelo Tribunal a quo, nas razões aventadas no recurso especial, a seguradora agravante, sob o argumento de ser plenamente possível a inserção de cláusula de limitação da garantia em contratos de seguro, alegou contrariedade ao artigo 760 do Código Civil.
+Com efeito, a Corte local manteve a sentença de procedência do pedido autoral de reembolso integral dos valores expendidos com o funeral do segurado, decorrentes de contrato de seguro de vida com auxílio-funeral.
+O v. Acórdão outrora recorrido assim se manifestou em razão da ausência de comprovação idônea, por parte da seguradora, no sentido da existência da alegada limitação de cobertura de auxílio-funeral. Senão, vejamos:
+Inicialmente, reputo incontroverso nos autos a contratação, por parte do de cujus, de seguro de vida prevendo auxílio-funeral.
+Assim sendo, o cerne da controvérsia diz respeito ao valor efetivo da indenização.
+Nesse sentido, consigno que, da análise das apólices acostadas ao feito (p. 62/157-158), não é possível aferir a existência de algum limite para a cobertura de auxílio-funeral. Vale dizer, a documentação que traz o limite de R$ 1.500,00 (a exemplo da p. 65), não possui a necessária idoneidade probatória, mormente considerando-se que foi produzida unilateralmente pela ré, sem qualquer indicativo de anuência por parte do de cujus. (e-STJ Fls. 299-301)
+Diante disso, após ultrapassar o conhecimento do agravo em recurso especial outrora interposto, observou-se que a apreciação da alegação, nas razões do recurso especial, de violação ao artigo 760 do Código Civil demandaria desta Corte Superior a revisão dos elementos de fato e de prova dos autos e, notadamente, das cláusulas contratuais do seguro de vida em questão.
+Isso porque, para se concluir maneira diversa daquela a que chegou o TJRS quanto à inexistência de provas acerca do limite de cobertura securitária, seria imprescindível a análise das cláusulas do seguro de vida; dos documentos trazidos pela agravante que supostamente comprovariam a existência da limitação de cobertura, bem como do contexto fático dos autos.
+É que a conclusão adotada pela Corte local, soberana na análise do conjunto fático-probatório, se deu com base em todos esses elementos, não cabendo a esta Corte Superior a sua revisão.
+É o que dispõe os enunciados das súmulas n. 5 e n. 7, ambas do STJ, aplicados corretamente pela decisão agravada e que impediram a apreciação da alegação de vulneração ao artigo 760 do Código Civil em sede de recurso especial.
+Não assiste razão, portanto, a seguradora agravante ao refutar referidos óbices sob alegação de que "não se pretende com o Recurso Especial rediscutir cláusula contratual acerca da limitação de R$ 1.500,00 com despesas a título de funeral do participante, mas se pretende denotar a contradição ao já citado art. 760 do CC, que permite a limitação da garantia em contratos de seguros, como se deu no caso em comento, devendo ser observado tal limite quando do pagamento." (e-STJ Fl. 382)
+Nesse contexto, observa-se escorreito o decisum agravado que negou provimento ao agravo em recurso especial por incidência dos supramencionados óbices, quanto à apreciação da limitação de cobertura securitária atinente ao seguro-funeral do seguro de vida contratado.
+Destarte, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, porquanto mantida a validade dos argumentos que a sustentam, uma vez que não foram trazidos elementos aptos a desconstituí-la.
+Ante o exposto, NEGO provimento ao agravo interno.
