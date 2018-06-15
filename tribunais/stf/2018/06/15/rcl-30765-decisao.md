@@ -1,0 +1,20 @@
+RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA ÀS AUTORIDADES DA DECISÕES PROFERIDAS NOS HC 75.676/RJ e HC 83.125. DECISÃO PROLATADA EM PROCESSO DE ÍNDOLE SUBJETIVA NO QUAL O RECLAMANTE NÃO FIGUROU COMO PARTE. NÃO CABIMENTO.
+    Vistos etc.
+    Trata-se de reclamação constitucional, com pedido de liminar, fundada nos arts. 102, I , “l”, da Constituição Federal; e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, ajuizada por Igor Andrij Jakubovsky contra ato do Comandante do Policiamento do Interior Seis da Polícia Militar do Estado de São Paulo, que teria descumprido decisões desta Corte exaradas nos HC 75.676/RJ e HC 83.125/DF.
+    Narra a inicial que o Reclamante, na condição de policial militar, está sofrendo represálias dentro da organização militar, porquanto teria postado “alguns vídeos em sua rede social ... expondo sua opinião pessoal acerca de fatos ocorridos com outros colegas militares”.
+    Argumenta a Defesa, em síntese, que os atos impugnados tem estrita aderência com as decisões exaradas no HC 75.676/RJ e no HC 83.125/DF que tratam da liberdade de expressão no âmbito castrense. Requer, em medida liminar, a suspensão dos Conselhos de Disciplinas: CPI6-001/012/17, CPI6-002/012/17, 39BPMI-004/07/17 e 39BPMI - 003/017/17. No mérito, pugna pelo trancamento dos referidos procedimentos disciplinares.
+    É o relatório.
+    Decido.
+    A via estreita da reclamação constitucional (arts. 102, I, l, e 103-A, § 3º, da Constituição da República) pressupõe a ocorrência de usurpação de competência originária do Supremo Tribunal Federal, a desobediência a súmula vinculante ou o descumprimento de decisão desta Corte proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que pertinente, nesta última hipótese, à mesma relação jurídica e às mesmas partes.
+    Quanto às hipóteses de cabimento da reclamação, ressalto que a “eficácia diferenciada, naturalmente expansiva, das decisões do Supremo Tribunal Federal, não autoriza, porém, que qualquer ato contrário a seus precedentes, imputável a qualquer juízo, obtenha reparação direta por meio de reclamação à Corte” (Rcl 9.592/DF, Rel. Min. Cezar Peluso, DJe 27.4.2010).
+    Há que examinar, portanto, a presença de uma dessas hipóteses, e com rigor, sob pena de desvirtuamento do instituto.
+    Por oportuno, colho as ementas dos acórdãos paradigmas:
+    “Crime militar: publicação ou crítica indevida (C. Pen. Militar, art. 166): não o pode cometer o militar da reserva ou reformado.” (HC 75.676/RJ, Rel. Min. Sepúlveda Pertence)
+    “DENÚNCIA - PARÂMETROS. A teor do disposto nos artigos 41 do Código de Processo Penal e 77 do Código de Processo Penal Militar, a denúncia deve conter a exposição do fato criminoso com todas as circunstâncias verificadas. OFENSA ÀS FORÇAS ARMADAS - ARTIGO 219 DO CÓDIGO PENAL MILITAR - ELEMENTO SUBJETIVO. O tipo do artigo 219 do Código Penal Militar pressupõe que o agente saiba serem inverídicos os fatos propalados, devendo essa circunstância constar, expressamente, da peça primeira da ação penal, da denúncia. LIBERDADE DE EXPRESSÃO - A liberdade de expressão constitui-se em direito fundamental do cidadão, envolvendo o pensamento, a exposição de fatos atuais ou históricos e a crítica.”(HC 83.125/RJ, Rel. Min. Marco Aurélio)
+    Os precedentes tidos como violados - HC 75.676/RJ e HC 83.125/DF - não se amoldam aos efeitos previstos no § 2º do art. 102 da Constituição Federal de 1988, tampouco participou, o Reclamante, do mencionados habeas corpus. Incabível, portanto, a presente reclamação, visto que não se enquadra nas hipóteses dos arts. 102, I, l, e 103-A, § 3º, da Constituição da República.
+    Nessa linha, cito as seguintes decisões: Rcl 24.790, Rel. Min. Edson Fachin, DJe 26.8.2016, Rcl 24.901, Rel. Teori Zavascki, DJe 21.9.2016, Rcl 24.923, Rel. Min. Marco Aurélio, DJe 06.3.2017, Rcl 24.933, Rel. Min. Celso de Mello, DJe 19.8.2016 e Rcl 24.934, Rel. Min. Luiz Fux, DJe 26.10.2016.
+    Ante o exposto, nego seguimento à presente Reclamação (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de junho de 2018.
+Ministra Rosa Weber
+Relatora
