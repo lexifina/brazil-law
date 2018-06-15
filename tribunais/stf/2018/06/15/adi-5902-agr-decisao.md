@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO INTERNO – JUÍZO DE RECONSIDERAÇÃO.
+PROCESSO OBJETIVO – INTERVENÇÃO DE TERCEIRO – EXCEPCIONALIDADE DEMONSTRADA – ADMISSIBILIDADE.
+    1. Em 23 de abril de 2018, proferi a seguinte decisão:
+PROCESSO OBJETIVO – INTERVENÇÃO DE TERCEIRO – INADMISSIBILIDADE.
+    1. O assessor Dr. Eduardo Ubaldo Barbosa prestou as seguintes informações:
+    O Governador do Estado de Amazonas ajuizou ação direta de inconstitucionalidade, com pedido de liminar, questionando a compatibilidade, com a Constituição Federal, dos artigos 1º, cabeça e incisos I e II, 2º, cabeça e incisos I e II, 3º, § 2º, incisos I a V, 3º, parágrafos 7º e 8º, 4º e 5º da Lei Complementar nº 160, de 7 de agosto de 2017, bem assim das cláusulas 8ª, § 1º, incisos I e II, alíneas a, b e c, 9ª, parágrafos 1º e 3º, 10ª, incisos I a V, 12ª, 13ª e 15ª do Convênio-ICMS nº 190, publicado em 18 de dezembro de 2017.
+    Em 26 de fevereiro de 2018, Vossa Excelência acionou o disposto no artigo 12 da Lei nº 9.868/1999, solicitando informações, a manifestação da Advocacia-Geral da União e o parecer da Procuradoria-Geral da República.
+    A Federação das Indústrias do Estado de Goiás – FIEG, mediante peça subscrita por profissional da advocacia regularmente credenciado, requer o ingresso na qualidade de terceira interessada. Articula com a pertinência temática, alegando que os preceitos atacados afetam diretamente o interesse dos associados 36 sindicatos que atuam em diversos segmentos industriais em todo o Estado. Destaca a relevância do tema, considerados os impactos gerados na dinâmica da indústria brasileira. Realça a própria participação no processo de elaboração do diploma atacado.
+    2. A regra é não se admitir a participação de terceiros no processo objetivo alusivo a ação direta de inconstitucionalidade. A exceção corre à conta de parâmetros a indicarem a importância da matéria e a representatividade do interessado, quando, por decisão irrecorrível, é possível a manifestação de órgãos ou entidades artigo 7º da Lei nº 9.868, de 10 de novembro de 1999.
+    Atentem para a organicidade do Direito. O setor industrial está representado, nesta ação, pela Confederação Nacional da Indústria CNI. Permitir que outras entidades a congregarem a mesma categoria integrem a relação processual não trará o objetivo da intervenção, que é o esclarecimento da questão. Haveria, em última análise, sobreposição a ocasionar a complexidade da tramitação do processo.
+    3. Indefiro o pedido. Devolvam a petição e os documentos que a acompanham à requerente.
+    4. Publiquem.
+    O agravante diz viável, em processo objetivo, atuação conjunta, na condição de terceiras, de Confederação e Federação representantes dos interesses de determinada categoria econômica. Menciona precedentes do Supremo. Articulando com a matéria regulada pelas normas questionadas – pacificação da chamada “guerra fiscal” entre os Estados –, afirma a impossibilidade de a Confederação Nacional da Indústria defender os interesses de todos os associados, sediados nos mais diversos entes da Federação. Frisa a contribuição ao debate com a apresentação, pelas entidades estaduais, de dados relacionados às peculiaridades locais. Pede a reconsideração do ato recorrido.
+    2. Atendeu-se aos pressupostos de recorribilidade. A peça, subscrita por advogado regularmente credenciado, foi protocolada no prazo legal.
+    Observem a organicidade do Direito. A regra é não se permitir a intervenção, na qualidade de terceiras interessadas, de entidades a congregarem a mesma categoria econômica, sob pena de ocorrer sobreposição a ocasionar a complexidade da tramitação do processo.
+    Considerada a relevância das razões lançadas na peça recursal, surge quadro a afastar a premissa adotada no pronunciamento atacado. O objeto desta ação direta versa a compatibilidade, com a Constituição Federal, da Lei Complementar nº 160/2017 e do Convênio/CONFAZ/ICMS nº 190/2017, no que possibilitam a convalidação de benefícios concedidos por unidades da Federação sem a observância do disposto no artigo 155, § 2º, incisos VI e XII, alínea “g”, da Lei Maior, inserindo-se no âmbito da denominada “guerra fiscal”.
+    Está-se diante de controvérsia a alcançar, a partir de posições antagônicas, os interesses da categoria industrial dispersa nos diversos entes federados, revelando-se conveniente ouvir não apenas entidade nacional de composição heterogênea, mas, igualmente, representante dos industriais de determinado Estado – no caso, o de Goiás.
+    3. Reconsidero a decisão atacada para admitir a Federação das Indústrias do Estado de Goiás – FIEG como terceira interessada no processo, recebendo-o no estágio em que se encontra.
+    4. Publiquem.
+Brasília, 15 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
