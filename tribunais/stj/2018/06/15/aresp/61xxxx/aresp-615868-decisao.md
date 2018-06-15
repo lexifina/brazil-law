@@ -1,0 +1,26 @@
+DECISÃO
+ADMINISTRATIVO. MILITAR EXPULSO DA CORPORAÇÃO. MORTE FICTA. DIREITO DE PERCEPÇÃO DA PENSÃO. IMPOSSIBILIDADE. DECADÊNCIA DO DIREITO DA ADMINISTRAÇÃO EM REVER O ATO DE CONCESSÃO. ACÓRDÃO QUE DECIDIU COM BASE NAS PROVAS DOS AUTOS PELA NÃO OCORRÊNCIA DA DECADÊNCIA. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL DA PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por SIMONE QUINTINO MENDES DA VITÓRIA, com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+APELAÇÃO CÍVEL EM AÇÃO ORDINÁRIA. UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. INCIDENTE INOPORTUNO E INCONVENIENTE. PENSÃO MILITAR. POLICIAL EXCLUÍDO. INADMISSIBILIDADE.
+- O incidente de uniformização de jurisprudência constitui uma faculdade do magistrado julgador, estando a instauração do procedimento sujeita aos critérios de oportunidade e conveniência.
+- O beneficio da pensão militar é devido em caso de morte do contribuinte. Não há como conceber que os dependentes tenham direito ao recebimento da referida pensão com o militar ainda vivo, já que o que ocorreu foi a sua exclusão, e não o falecimento.
+- Recurso desprovido. Unânime (fls. 231).
+2. Em seu Apelo Especial sustenta a agravante violação dos arts. 36, § 3o. e 38, parágrafo único, da Lei 10.486/02, 4o. da Lei 10.556/2002 e 54 da Lei 9.784/1999, requerendo seja reconhecido seu direito a pensão militar legada por preencher todos os requisitos legais.
+3. É o breve relatório. Decido.
+4. Cinge-se a demanda a possibilidade de restabelecimento de pensão militar a filha de ex-militar, cancelada mais de 5 anos após a sua concessão, que contribuiu para a aludida pensão durante sua permanência nos quadros da Polícia Militar do Distrito Federal, mas que foi excluído da corporação.
+5. O acórdão recorrido consignou:
+Como se percebe, pela interpretação das Leis ns. 3.765/1960 e 10.486/2002, conclui-se que o benefício da pensão militar não é devido aos militares excluídos da corporação, mas sim em caso de morte do contribuinte. Assim o é porque a legislação a todo instante se réporta á condição de "herdeiro", quando não se refere diretamente ao falecimento do militar.
+Não se pode olvidar que, em conformidade com o princípio da legalidade, para que o militar expulso pudesse ser equiparado ao militar morto, séria necessária expressa previsão legal sobre o assunto, o que não é o caso. Ademais disso, reconhecer o direito dos beneficiários do servidor militar de perceber pensão seria conferir um prêmio ao policial que praticou uma falta e que, por isso, foi excluído da Corporação.
+Não há, portanto, como conceber que os dependentes tenham direito ao recebimento da referida pensão com o ex-militar ainda vivo, já que o que ocorreu foi a sua exclusão, e não o falecimento.
+6. Ao assim decidir não divergiu do entendimento desta Corte de que o art. 38 da Lei 10.486/2002 apenas possibilita que o militar excluído da corporação contribua para o pagamento do benefício de pensão a fim de que seus dependentes recebam pensionamento após sua morte, e não no caso de ter sido excluído da corporação (morte ficta) (AgRg no RMS. 38.819/DF, Rel. Min. HERMAN BENJAMIN, DJe 4.10.2013).
+7. Ainda, nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO DISTRITAL. MILITAR EXCLUÍDO DA CORPORAÇÃO. PENSÃO POR MORTE FICTA. IMPOSSIBILIDADE.
+1. A denominada "morte ficta", não encontra respaldo na jurisprudência desta Corte, firmada no sentido de que, com o advento da Lei n. 9.717/98, que fixou regras gerais para a organização e funcionamento dos regimes próprios de previdência dos servidores da União, Estados, Distrito Federal e Municípios, e dos militares dos Estados e do Distrito Federal, ficou vedada a concessão de benefício diverso dos previstos no Regime Geral de Previdência Social. Precedente: AgRg no AREsp 397.997/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 25/10/2013.
+2. Agravo regimental não provido (AgRg no REsp. 1.498.331/DF, Rel. Min. MAURO CAMPBELL MARQUES, DJe 23.6.2015).
+8. Quanto a alegação de violação do art. 54 da Lei 9.784/1999, o Tribunal a quo decidiu:
+Contudo, a apelante não juntou as decisões do Tribunal de Contas do Distrito Federal que fundamentaram o cancelamento da pensão militar perseguida (Decisões ns. 3.046/2007 e 4.091/2010), sendo que delas tomou ciência (fl. 72), não podendo se valer da data da correspondência, na qual foi informada acerca da possível supressão do benefício e abertura de prazo para apresentação de defesa com o objetivo de evitar o cancelamento da pensão militar (fl. 70) para alegar a fluência do prazo decadencial.
+Assim, infere-se ter havido a instauração de procedimento para o cancelamento dos benefícios, antes do decurso do prazo decadencial de 5 (cinco) anos.
+9. Alterar o entendimento do aresto vergastado de que não ficou comprovada a data do cancelamento do benefício, inferindo-se ter ocorrido antes do decurso decadencial de cinco anos, demanda reexame fático-probatório, obstado pela Súmula 7/STJ.
+10. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial da Particular.
+11. Publique-se.
+12. Intimações necessárias.
