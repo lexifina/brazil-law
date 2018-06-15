@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por COMPANHIA DO METROPOLITANO DE SÃO PAULO METRÔ, contra acórdão assim ementado (fl. 568):
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS.
+Transporte de pessoas. Queda no vão entre o vagão e a plataforma. Sentença de improcedência. Pretensão da autora de reforma. CABIMENTO: Falha na prestação do serviço de transporte. Responsabilidade objetiva do transportador, que não é elidida por culpa de terceiro.
+Danos moral configurado e que deve ser reparado.
+Contudo, o valor pleiteado pela apelante mostra-se excessivo diante das características do caso. Sentença reformada.
+RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 599/604).
+Em suas razões, a recorrente alega violação dos arts. 186, 407, 734 e 944 do Código Civil; e 14, § 3º, II, do Código de Defesa do Consumidor, bem como dissídio jurisprudencial. Aduz que, claramente, caracterizada a culpa exclusiva de terceiro, o que afasta nexo causal e, consequentemente, o dever de indenizar. Acrescenta que não se pode confundir "a responsabilidade objetiva com responsabilidade universal, de risco integral, o que é inaceitável" (fl. 615). Afirma, ainda, que "não há mora antes da fixação do valor a ser indenizado, o que só ocorre com o arbitramento da indenização por danos morais" (fl. 622) assim, também, para a correção monetária.
+Passo a decidir.
+Inicialmente, o Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela responsabilização da empresa ora recorrente e pela ocorrência do dano moral indenizável, assim se pronunciando (fls. 569/573):
+Ressalte-se que a afirmação do apelado de culpa exclusiva da vítima não tem fundamento. É notória a lotação dos vagões nos horários de pico, como o horário em que ocorreu o acidente com a apelante.
+Por outro lado, deveria o apelado tomar as cautelas necessárias para garantir a segurança dos passageiros durante o embarque e desembarque, principalmente no que se refere aos vãos existentes entre o vagão e a plataforma.
+O laudo médico de fls. 338/343 confirma as lesões sofridas pela apelante em razão da queda.
+Assim, o conjunto probatório demonstra o nexo de causalidade entre o fato e o resultado danoso.
+(..)
+O transporte é obrigação de resultado, respondendo a empresa fornecedora objetivamente e essa responsabilidade só é afastada se provada culpa exclusiva da vítima, força maior ou caso fortuito, que não é o caso dos autos. Ademais, a responsabilidade contratual do transportador por evento ocorrido no meio de transporte não é elidida por culpa de terceiro.
+O apelado não demonstrou a ocorrência de culpa exclusiva da vítima no acidente. Essa culpa poderia até ser ventilada se o horário do acidente tivesse sido em período de pouco movimento na hora do embarque e desembarque, o que não é o caso dos autos.
+Assim, ficou demonstrada nos autos a falha na prestação do serviço de transporte, que deve ser feito de forma segura e com qualidade, seja com maior fiscalização, seja com implantação de equipamentos de segurança ou até mais trens em determinados horários.
+(..)
+Evidente o abalo psicológico da apelante causado pelo acidente.
+A queda da apelante ocorrida enquanto se utilizava do transporte fornecido pelo réu extrapola o mero aborrecimento ou dissabor do cotidiano. Cabível a indenização pelos danos morais experimentados.
+(..) cabível a fixação da indenização por danos morais no valor de R$ 15.000,00 (quinze mil reais).
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte. Nesse sentido, a contrario sensu:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. CULPA EXCLUSIVA DE TERCEIRO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. RESPONSABILIDADE OBJETIVA. EXCLUSÃO DO NEXO CAUSAL. POSSIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, foi estabelecida, nas instâncias ordinárias, a premissa fática de que o acidente ocorrido com o trem de propriedade da agravada foi ocasionado em virtude de culpa exclusiva de terceiro. Alterar esse entendimento demandaria o reexame do conjunto probatório do feito, o que é vedado em recurso especial.
+4. Na linha da jurisprudência do STJ, a culpa exclusiva de terceiro afasta o nexo de causalidade entre a conduta da transportadora e o dano sofrido pela vítima quando o comportamento daquele for equiparado a fortuito externo, ou seja, for imprevisível e autônomo.
+Precedentes.
+5. Agravo regimental improvido.
+(AgRg no AREsp 560.803/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/09/2015, DJe 24/09/2015)
+Em relação aos juros de mora, melhor sorte socorre a recorrente.
+A conclusão acima reproduzida está em perfeita harmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, no sentido de que "em se tratando de indenização por danos morais decorrentes de obrigação contratual, os juros de mora são devidos a partir da citação. Precedentes" (AgRg no REsp 1406707/SC, de minha relatoria, DJe 19/8/2014). Seguindo a mesma orientação:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE DANOS MATERIAIS E MORAIS - ERRO MÉDICO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DOS RÉUS. 1. No tocante à incidência dos juros moratórios, o arbitramento de indenização por dano moral, resultante de obrigação contratual (caso dos autos, prestação de serviço hospitalar), enseja a incidência de juros moratórios desde a citação do réu, por força da norma cogente inserta no artigo 405 do Código Civil de 2002. 2. O Tribunal local decidiu, com base na análise do acervo probatório acostado aos autos, pela presença dos requisitos ensejadores da reparação civil, definindo o quantum indenizatório segundo critérios de razoabilidade e proporcionalidade, razão pela qual, para o acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial. 3. Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem. 4. Agravo regimental desprovido. (AgRg no AREsp 436.188/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/11/2014, DJe 14/11/2014)
+Quanto ao termo inicial para a contagem da correção monetária, não há interesse da parte em recorrer (art. 330, III, Código de Processo Civil/2015), tendo em vista a conclusão do acórdão recorrido, em consonância com a jurisprudência desta Corte, e com o requerido pelo recorrente, no sentido de que "a correção monetária do valor da indenização do dano moral incide desde a data do arbitramento" (enunciado 362 da Súmula do STJ).
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso especial.
+Intimem-se.
