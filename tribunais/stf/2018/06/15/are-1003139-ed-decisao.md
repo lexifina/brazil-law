@@ -1,0 +1,31 @@
+DECISÃO
+EMBARGOS DECLARATÓRIOS - INEXISTÊNCIA DE VÍCIO - DESPROVIMENTO.
+    1. Em 28 de novembro de 2017, proferi a seguinte decisão:
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. O Tribunal Regional Federal da 5ª Região confirmou o entendimento do Juízo quanto a não incidência do Imposto de Renda Pessoa Física - IRPF sobre provento de pensão. Afastou a fluência do prazo prescricional porquanto entendeu comprovada a incapacidade absoluta, aludindo à legislação de regência. No recurso extraordinário cujo processamento busca alcançar, o recorrente alega violado o artigo 146, inciso III, alínea “b”, da Constituição Federal. Afirma incorreção da decisão apontando a inobservância ao princípio da legalidade tributária. Sustenta a inexistência de norma tributária a impedir a fluência de prazo prescricional contra absolutamente incapazes. Argui a incidência do prazo prescricional quinquenal para a repetição do indébito.
+    2. O Colegiado de origem asseverou ser a recorrida absolutamente incapaz, não correndo contra ela prazo prescricional, observado o artigo 198, inciso I, do Código Civil. À toda evidência, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+    A embargante aponta omissão no julgado. Aduz ausência de apreciação do pedido de majoração dos honorários sucumbenciais apresentado nas contrarrazões ao extraordinário.
+    A parte embargada, instada a manifestar-se, não apresentou contrarrazões (certidão de 21 de fevereiro de 2018).
+    2. Na interposição destes embargos, observaram-se os pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente credenciado, foi protocolada no prazo legal. Conheço.
+    Não assiste razão à embargante. Conforme consignei na decisão proferida, há a necessidade da interpretação de normas estritamente legais apreciadas pelo Tribunal local. A definição da incidência do Imposto de Renda sobre a pensão percebida pela embargante foi delimitada no acórdão recorrido a partir da interpretação do artigo 198, inciso I, do Código Civil. Colho da síntese do acórdão recorrido o quadro delineado pelo Tribunal de origem:
+    TRIBUTÁRIO. IMPOSTO DE RENDA. PRELIMINAR DE AUSÊNCIA DE INTERESSE PROCESSUAL. REJEITADA. DOENÇA. PARALISIA CEREBRAL. ISENÇÃO - LEI 7.713/88, ART. 6º, XIV. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DO ART. 30 DA LEI 9.250/95. CONDIÇÃO SUFICIENTEMENTE COMPROVADA NOS AUTOS. LIVRE CONVENCIMENTO DO JUIZ.
+    1 - Ação que visa à suspensão da cobrança do imposto de renda sobre o benefício de pensão da autora, em face da norma do art. 6º, XIV da Lei 7.713/88 e, em conseqüência, sejam restituídos os valores indevidos, corrigidos monetariamente.
+    2 - Quanto à preliminar de ausência de interesse processual, importante salientar que a aplicação do principio da inafastabilidade do controle jurisdicional e do livre acesso à justiça implicam em prestação da tutela jurisdicional pelo Estado, sem a necessidade de prévio requerimento administrativo, em conformidade com o que preceitua o art. 5o, inciso XXXV da Constituição Federal. No caso dos autos, é nítido o interesse da autora, pois resta presente a pretensão resistida pela União (Fazenda Nacional), pois, ao contestar a ação, defendeu a legalidade da atuação da Receita Federal quando descontou o imposto de renda. Preliminar rejeitada.
+    3 - A Lei 7.713/88, em seu art. 6º e incisos, visa a amparar as pessoas acometidas de moléstias ali especificadas com a isenção do imposto de renda, evitando, assim, a redução de seus proventos e lhes propiciando mais condições para tratamento do mal de que padecem.
+    4 - A exigência de elaboração de laudo, por junta médica oficial, prevista no art. 30 da Lei 9.250/95 é regra que obriga apenas o administrador, não o juiz, que aprecia a prova de acordo com o princípio do livre convencimento.
+    5 - Precedentes do Superior Tribunal de Justiça (AgRg no AREsp 514.195/RS e REsp 800.543/PE).
+    6 - Preliminar rejeitada.
+    Apelação e remessa oficial improvidas
+    PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO CONFIGURADA. SENTENÇA DE PROCEDÊNCIA. PRESCRIÇÃO. EMBARGOS PROVIDOS.
+    1. Os embargos de declaração opostos pela autora merecem provimento, eis que no relatório do acórdão vergastado constou que o pedido formulado na ação em apreço foi julgado parcialmente procedente, quando, na verdade, houve o acolhimento integral da pretensão autoral, a da sentença que julgou os aclaratórios aviados em primeiro grau (Id nº 4058300.993835).
+    2. Da mesma maneira, deve ser dado provimento aos aclaratórios manejados pela Fazenda Nacional porque não houve, no acórdão hostilizado, o pronunciamento a respeito da arguição da prescrição.
+    3. Conforme bem consignou o juízo a quo, inobstante a previsão do CTN para a prescrição qüinqüenal do indébito, a autora comprovou satisfatoriamente que é absolutamente incapaz e que por força do art.198, inciso I do Código Civil contra ela não corre prazo prescricional. (PROCESSO: 08014870520124058300, DESEMBARGADOR FEDERAL MANOEL ERHARDT, Primeira Turma, JULGAMENTO: 13/11/2014; PROCESSO: 08023996520134058300, APELREEX/PE, DESEMBARGADOR FEDERAL PAULO ROBERTO DE OLIVEIRA LIMA, Segunda Turma, JULGAMENTO: 24/03/2015)
+    4. Embargos de declaração da Autora e da Fazenda Nacional conhecidos e providos
+    Assim, não se pode cogitar, na espécie, da existência de qualquer dos vícios suficientes a respaldar os embargos declaratórios. O pronunciamento traz os parâmetros observáveis, de modo a revelar a impropriedade dos declaratórios. O embargante desenvolve narrativa destoante do propósito de sanar obscuridade, contradição ou omissão.
+    3. Ante o quadro, ausente qualquer vício no julgado, desprovejo os declaratórios.
+    4. Publiquem.
+Brasília, 15 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
