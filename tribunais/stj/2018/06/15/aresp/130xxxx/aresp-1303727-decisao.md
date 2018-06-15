@@ -1,0 +1,35 @@
+DECISÃO
+1. Cuida-se de agravo interposto por SSUL LOGISTICA EIRELI contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÃO CÍVEL. TRANSPORTE. AÇÃO DE REGRESSO.
+Não havendo demonstração de que a ré foi contemplada com a cláusula de Dispensa de Direito de Regresso, tem a autora direito de regresso por se sub-rogar no direito de sua segurada.
+Embora a lei declare que o ato praticado em estado de necessidade seja lícito, não libera quem o pratica de reparar o prejuízo que causou.
+APELO DESPROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto no art. 373, I, do CPC/2015. Alega que a "causa do acidente não pode ser atribuída à suposta má conduta do preposto da empresa recorrente." Sustenta que o veículo transportador estava em perfeitas condições de uso e trafegabilidade. Argumenta que existe cláusula contratual prevendo a renúncia do direito de regresso.
+Decido.
+2. O Tribunal de origem, acerca da causa do acidente e sobre a cláusula que prevê renúncia do direito de regresso, assim se manifestou:
+Trata-se de ação de regresso em que a autora, sociedade anônima seguradora, busca ser ressarcida dos prejuízos decorrentes da indenização paga à sua segurada, Seara Alimentos Ltda., em razão da perda da carga transportada pela ré.
+Para executar o transporte da carga segurada, a ré fez uso do conjunto transportador de placas [PLACA] e [PLACA], conduzido pelo motorista [NOME]. Segundo a inicial, em 8/10/2014, por volta das 21h, quando o caminhão trafegava pela Rodovia BR 285, o motorista perdeu o controle do veículo, causando o seu tombamento, incidindo em culpa grave.
+Já a ré sustenta que o seu motorista foi surpreendido por um automóvel que vinha em sentido contrário, com luz alta e forçando uma ultrapassagem sobre outro veículo, invadindo com isso a pista de rodagem do caminhão, cujo motorista, para evitar uma colisão frontal, desviou para a direita, perdendo o controle do veículo, vindo a tombar às margens da rodovia. A ré afirma que não houve, portanto, culpa grave ou dolo por parte do seu motorista. Sustenta que, nessas condições, a autora não lhe pode exigir o ressarcimento, haja vista a existência de cláusula específica de Dispensa de Direito de Regresso (DDR).
+O contrato de seguro contém dita cláusula (fl. 38), assim redigida:
+"Fica entendido e acordado que, mediante pagamento de prêmio adicional especificado nesta proposta, esta seguradora abdica de agir regressivamente, exclusivamente no percurso terrestre, contra as empresas transportadoras rodoviárias relacionadas no item 12.1 desta proposta, e que operam com o Grupo Seara, para os riscos descritos nesta apólice, exclusivamente em relação às cargas de suas propriedades."
+O item 12.1 é assim redigido:
+"12.1 Transportadoras
+Conforme relação a ser encaminhada a esta seguradora."
+Assim, para que a autora fosse impedida de buscar o ressarcimento, em regresso, do valor despendido no cumprimento do contrato de seguro, seria necessário que a ré provasse estar contemplada pela apólice de seguro como beneficiária da cláusula DDR, o que é negado pela autora, na réplica (fl. 200).
+Contudo, a ré não juntou aos autos a prova de que estaria incluída na relação de transportadoras mencionada na cláusula 12.1. Se a ré alega estar incluída na relação é porque teve acesso ao documento. E não se poderia exigir da autora a produção de prova contra si.
+Não havendo demonstração de que a ré foi contemplada com a cláusula DDR, não é necessário perquirir se o seu motorista agiu com dolo ou culpa grave (o que afastaria a aplicação da cláusula DDR), pois a autora tem direito de regresso por se sub-rogar no direito de seu segurado.
+Quanto ao causador do acidente, a tese da ré é de que, diante da invasão da pista contrária por um terceiro veículo, o seu motorista, para evitar uma colisão frontal, desviou para a direita, perdendo o controle do veículo, vindo a tombar às margens da rodovia.
+Ocorre que o nosso sistema civilista adota a teoria da causa direta e imediata, conforme consubstanciado no art. 403 do Código Civil, segundo a qual os agentes respondem pelos danos que resultam direta e imediatamente de sua conduta, o que deve ser observado no caso dos autos.
+Assim, mesmo considerando a versão da ré para o sinistro, impossível o afastamento da sua responsabilidade, dado que, ao desviar para evitar um hipotético acidente maior, optou o condutor réu pelo risco de tombar o caminhão, o que de fato ocorreu, caracterizando-se como responsável direto pela perda da carga, devendo, portanto, a demandada responder pelos danos causados, ainda que em estado de necessidade.
+Nesse contexto, o acolhimento da pretensão recursal, em sentido contrário ao do acórdão, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, bem como a interpretação de cláusula contratual, providências vedadas em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do REsp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da Súmula 7-STJ".
+Vale, ainda, conferir:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CDC. VIOLAÇÃO DO DEVER DE INFORMAÇÃO. ANÁLISE. IMPOSSIBILIDADE. ÓBICE DAS SÚMULAS 5 E 7 DO STJ. PREJUDICADA VERIFICAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. STJ NÃO É MERA INSTÂNCIA REVISORA.
+1. Na hipótese dos autos, a Corte a quo afirmou que "o autor assinou o termo aditivo datado de 15 de fevereiro de 2009 (fls. 78), onde teve pleno conhecimento a respeito do pagamento residual de 25% que integralizaria os 100% do plano e seria quitado quando da contemplação por sorteio ou lance, conforme seu item 3".
+2. Dessa forma, a alteração do conteúdo decisório emanado da instância origem demandaria reincursão nos elementos fático-probatórios constantes do presente processo, bem como interpretação de cláusulas contratuais, o que não se admite nesta estreita via recursal, ante o óbice das Súmulas 5 e 7/STJ.
+3. Fica prejudicada a análise da divergência jurisprudencial, pois a tese defendida pelo insurgente esbarrou no óbice da Súmula 7/STJ quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. O recurso especial tem como escopo a defesa da higidez do direito objetivo e a unificação da jurisprudência em matéria infraconstitucional, não se admitindo que o STJ funcione como mera instância revisora, pois não é essa sua missão constitucional.
+5. Agravo Interno não provido.
+(AgInt no REsp 1677653/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/05/2018, DJe 23/05/2018)
+3. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
