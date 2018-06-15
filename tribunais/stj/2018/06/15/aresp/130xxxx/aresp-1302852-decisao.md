@@ -1,0 +1,17 @@
+DECISÃO
+1. Cuida-se de agravo interposto por MARIA DE LOURDES GRANDE SANTOS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+SEGURO. PLANO DE SAÚDE. AÇÃO INDENIZATÓRIA.
+PRETENDIDO CUSTEIO DE DESPESAS HAVIDAS A TÍTULO PARTICULAR PELA SEGURADA. AUTORA QUE TINHA CIÊNCIA DE QUE O PROFISSIONAL NÃO INTEGRAVA A REDE CREDENCIADA DA RÉ E AINDA ASSIM OPTOU PELA REALIZAÇÃO DO PROCEDIMENTO. OBSERVÂNCIA DA AUTONOMIA DA MANIFESTAÇÃO DE VONTADE DAS PARTES NO CONTRATO. DANO MORAL INEXISTENTE E BEM AFASTADO. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 489 do CPC/2015, 186, 927 do CC, 6º, VI e 14 do CDC. Sustenta que houve incontroversa situação causadora de angústia impulsionada pela negativa da ré em honrar com sua obrigação contratual. Busca, assim, o reconhecimento do dano moral indenizável.
+Decido.
+2. Não há falar em violação ao art. 489 do Código de Processo Civil de 2015, pois o eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, notadamente a comprovação da verossimilhança da alegação, com fundamentação clara e suficiente. Cabe destacar que não significa omissão quando o julgador adota outro fundamento que não aquele perquirido pela parte.
+3. Acerca do alegado dano moral indenizável, o Tribunal de origem assim se pronunciou:
+Como dimana da documentação juntada aos autos, a demandante, titular de um contrato de plano de saúde, mesmo ciente de que o convênio não custearia os honorários da equipe do profissional escolhido para a realização de sua cirurgia, optou por realizar o procedimento e arcar com tais honorários de forma particular (fls. 123).
+Note-se que a autora não trouxe nenhum documento que comprove a inexistência de profissional credenciado apto a realizar o procedimento anestésico. Por outro lado, a requerida trouxe termo de consentimento assinado pela demandante no qual ela declarou estar ciente de que a requerida disponibilizada médico cooperado capacitado para o procedimento, e que a mesma não arcaria com os honorários da equipe do médico de sua escolha.
+O fato de o médico credenciado ter indicado profissional distinto, não integrante da rede referenciada, por óbvio não implica na conclusão de que inexistiam profissionais, vinculados ao convênio, capazes de realizar a cirurgia. Desse modo, em tempo algum a autora demonstrou o fato constitutivo de seu direito, como lhe competia, nos exatos termos do artigo 373, I, do Código de Processo Civil.
+(..)
+A recusa à cobertura de honorários de médico anestesista não credenciado era lícita, de forma que, ainda que tal fato tenha causado dissabor à autora, não pode a ré ser responsabilizada por isso.
+Nesse contexto, o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do REsp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da Súmula 7-STJ".
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
