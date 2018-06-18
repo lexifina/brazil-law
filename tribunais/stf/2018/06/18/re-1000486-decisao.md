@@ -1,0 +1,24 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “APELAÇÃO CRIMINAL. DESACATO (ART. 331 DO CP). EXAME DE CONVENCIONALIDADE E DE CONSTITUCIONALIDADE. ATIPICIDADE DA CONDUTA. SENTENÇA CONDENATÓRIA REFORMADA.
+    1. Adesão do Brasil à Convenção Americana sobre Direitos Humanos que torna inafastável o exame de convencionalidade, como decorrência do dever geral de adaptação dos ordenamentos internos ao sistema interamericano de direitos humanos.
+    2. Consequência de tal exame é o reconhecimento, com suporte nos artigos 13 da Convenção Americana sobre Direitos Humanos, e 11 da Declaração de Princípios sobre a Liberdade de Expressão é o reconhecimento da ausência de validade e eficácia do art. 331 do CP, por atentatório à liberdade de expressão.
+    3. A liberdade de expressão, por consistir em garantia constitucional, somente pode encontrar restrição na própria Constituição e não na legislação infraconstitucional, por não prevista na Lei Maior tal possibilidade.
+    4. A não ser que expressamente trouxesse tal previsão. Os únicos limites impostos pela Constituição à liberdade de expressão, além da vedação ao anonimato, correspondem ao direito de resposta (art. 5º, V), e ao direito de indenização por dano material ou moral à intimidade, à vida privada, à honra e à imagem das pessoas atingidas (art. 5º, X). Afora tais hipóteses, todas estabelecidas pela própria Constituição, não se legitima qualquer restrição à liberdade de expressão, de modo que o disposto no art. 331 do CP, que contempla o delito desacato, não foi recepcionado pela nova ordem constitucional.
+    5. Assim, seja pelo controle de convencionalidade, seja pelo de constitucionalidade, se afigura como atípica a conduta descrita no art. 331 do CP.
+    RECURSO PROVIDO, POR MAIORIA” (doc. eletrônico 4).
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se violação do art. 5°, IV, V e X, § 2° e § 3°, da mesma Carta, sustentando-se, em suma, que a liberdade de expressão não é um direito absoluto (doc. eletrônico 6).
+    O Ministério Público Federal manifestou-se pelo desprovimento do recurso (doc. eletrônico 12).
+    Em 15/2/2018, determinei o sobrestamento do feito até o julgamento final da ADPF 496/DF (doc. eletrônico 13).
+    Ocorre que, recentemente, a Segunda Turma, no exame do HC 141.949/DF, de relatoria do Ministro Gilmar Mendes, apreciou a matéria versada nos autos. Dessa forma, afasto o sobrestamento anteriormente determinado e passo à análise deste extraordinário.
+    A pretensão recursal merece acolhida.
+    O entendimento da Turma Recursal diverge da jurisprudência desta Corte, no sentido de que o art. 331 do CP foi recepcionado pela Constituição Federal de 1988, sendo o crime de desacato também compatível com o disposto no art. 13 da Convenção Americana de Direitos Humanos (Pacto de São José da Costa Rica). Transcrevo, por oportuno, as ementas abaixo:
+    “Habeas corpus. 2. Crime de desacato a militar (art. 299 do Código Penal Militar). 3. Controle de constitucionalidade (arts. 1º; 5º, incisos IV, V e IX, e 220 da Constituição Federal) e de convencionalidade (art. 13 da Convenção Americana de Direitos Humanos (Pacto de São José da Costa Rica). 4. Alegada ofensa à liberdade de expressão e do pensamento que se rejeita. 5. Criminalização do desacato que se mostra compatível com o Estado Democrático de Direito. 6. Ordem denegada” (HC 141.949/DF, Rel. Min. Gilmar Mendes).
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Crime de desacato (CP, art. 331). Recepção pela Constituição Federal de 1988. Artigo 13 da CADH (Pacto de São José da Costa Rica). Compatibilidade. Agravo regimental não provido.
+    1. A Segunda Turma da Corte, no julgamento do HC nº 141.949/DF, Relator o Ministro Gilmar Mendes, DJe de 21/3/18, assentou a recepção do crime de desacato pela Constituição Federal de 1988 (CF, art. 5º, IV, da CF), bem como a compatibilidade da figura penal do desacato com o disposto no art. 13 da Convenção Americana de Direitos Humanos (Pacto de São José da Costa Rica).
+    2. Agravo regimental a que se nega provimento” (ARE 1.049.152-AgR/DF, Rel. Min. Dias Toffoli).
+    Nessa linha, são as seguintes decisões: ARE 1.127.673/DF, Rel. Min. Celso de Mello; RE 1.120.118/AM e RE 1.121.884/AM, Rel. Min. Dias Toffoli; ARE 1.056.927/RS e ARE 1.133.857/DF, Rel. Min. Luiz Fux; RHC 143.206/RS, Rel. Min. Alexandre de Moraes; HC 143.968/RJ e HC 149.580/SC, de minha relatoria.
+    Isso posto, dou provimento a este recurso para, afastada a declaração de não recepção do art. 331 do CP pela Lei Maior, restabelecer a sentença penal condenatória (doc. eletrônico 3), proferida pela 2ª Vara Criminal da Comarca de Passo Fundo/RS (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 18 de junho de 2018.
+Ministro Ricardo Lewandowski
+Relator
