@@ -1,0 +1,9 @@
+Vistos etc.
+    A matéria restou submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no RE 672.215-RG, verbis:
+    “EMENTA: TRIBUTÁRIO. INCIDÊNCIA DA COFINS, DA CONTRIBUIÇÃO AO PROGRAMA DE INTEGRAÇÃO SOCIAL E DA CONTRIBUIÇÃO SOBRE O LUCRO LÍQUIDO SOBRE O PRODUTO DE ATO COOPERADO OU COOPERATIVO. DISTINÇÃO ENTRE “ATO COOPERADO TÍPICO” E “ATO COOPERADO ATÍPICO”. CONCEITOS CONSTITUCIONAIS DE “ATO COOPERATIVO”, “RECEITA DE ATIVIDADE COOPERATIVA” E “COOPERADO”. COOPERATIVA DE SERVIÇOS MÉDICOS. VALORES PAGOS POR TERCEIROS À COOPERATIVA POR SERVIÇOS PRESTADOS PELOS COOPERADOS. LEIS 5.764/1971, 7.689/1988, 9.718/1998 E 10.833/2003. ARTS. 146, III, c, 194, par. ún., V, 195, caput, e I, a, b e c e § 7º e 239 DA CONSTITUIÇÃO. Tem repercussão geral a discussão sobre a incidência da Cofins, do PIS e da CSLL sobre o produto de ato cooperativo, por violação dos conceitos constitucionais de “ato cooperado”, “receita da atividade cooperativa” e “cooperado”. Discussão que se dá sem prejuízo do exame da constitucionalidade da revogação, por lei ordinária ou medida provisória, de isenção, concedida por lei complementar (RE 598.085-RG), bem como da “possibilidade da incidência da contribuição para o PIS sobre os atos cooperativos, tendo em vista o disposto na Medida Provisória nº 2.158-33, originariamente editada sob o nº 1.858-6, e nas Leis nºs 9.715 e 9.718, ambas de 1998” (RE 599.362-RG, rel. min. Dias Toffoli).” (RE 672215 RG, Relator(a): Min. JOAQUIM BARBOSA, julgado em 29/03/2012, ACÓRDÃO ELETRÔNICO DJe-083 DIVULG 27-04-2012 PUBLIC 30-04-2012 )
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos nos arts. 1.036 a 1.040 do CPC.
+    Devolvam-se os autos à Corte de origem.
+    Publique-se.
+    Brasília, 18 de junho de 2018.
+Ministra Rosa Weber
+Relatora
