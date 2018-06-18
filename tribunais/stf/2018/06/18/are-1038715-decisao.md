@@ -1,0 +1,19 @@
+DECISÃO
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Primeira Turma Recursal com sede na Subseção Judiciária de Juiz de Fora/MG, assim ementado:
+    “RECEBIMENTO DE CERTIFICADO SEM PAGAMENTO DE TAXA. UNIVERSIDADE PÚBLICA. APLICAÇÃO DO INCISO IV DO ARTIGO 206 DA CONSTITUIÇÃO, GRATUIDADE DO ENSINO EM ESTABELECIMENTOS OFICIAIS. SENTENÇA MANTIDA. RECURSO NEGADO.”
+    No apelo extraordinário alega-se afronta aos artigos 205, 206, inciso I, 208, inciso VII, e 212, § 3º, da Constituição Federal.
+    Decido.
+    No que se refere aos artigos 205 e 206, inciso I, da Constituição, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    No mais, esta Suprema Corte já assentou em diversas oportunidades que o princípio da autonomia universitária não se confunde com soberania, devendo as Universidades se submeterem às leis e demais atos normativos. A propósito:
+    “AGRAVO REGIMENTAL. INSTITUIÇÃO DE ENSINO SUPERIOR. COBRANÇA ABUSIVA. CÓDIGO DE DEFESA DO CONSUMIDOR. AUTONOMIA UNIVERSITÁRIA. ALEGAÇÃO DE OFENSA AOS ARTIGOS 207 E 209 DA CONSTITUIÇÃO FEDERAL. DISCUSSÃO INFRACONSTITUCIONAL. Nos termos da jurisprudência deste Tribunal, o princípio da autonomia universitária não significa soberania das universidades, devendo estas se submeter às leis e demais atos normativos. Controvérsia decidida à luz da legislação infraconstitucional. A alegada ofensa à Constituição, se existente, seria indireta ou reflexa, o que enseja o descabimento do recurso extraordinário. Agravo regimental a que se nega provimento” (AI nº 647.482/RJ-AgR, Primeira Turma, Relator o Ministro Joaquim Barbosa, DJe de 31/3/11).
+    Por fim, verifica-se que o Tribunal de origem acompanhou o entendimento deste Supremo Tribunal Federal sobre a impossibilidade da cobrança de taxa de expedição de diploma. A propósito:
+    “TAXA PARA EXPEDIÇÃO DE DIPLOMA - UNIVERSIDADE PÚBLICA - ARTIGO 206, INCISO IV, DA CONSTITUIÇÃO FEDERAL. O mesmo raciocínio utilizado na elaboração do Verbete Vinculante nº 12 deve ser observado nas hipóteses de cobrança de taxa para a expedição de diploma em Universidade Pública, considerada a gratuidade do ensino público em estabelecimentos oficiais” (RE nº 597.872/RO-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 26/8/14).
+    Nesse mesmo sentido, as seguintes decisões monocráticas: RE nº 1.036.076/SE, de minha relatoria, DJe de 27//3/18; RE nº 988.789/CE, Relator o Ministro Edson Fachin, DJe de 4/9/17; e RE nº 934.947/PI, Relatora a Ministra Cármen Lúcia, DJe de 3/3/16.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 18 de junho de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
