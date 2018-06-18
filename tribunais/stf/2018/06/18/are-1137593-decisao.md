@@ -1,0 +1,24 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 139, Vol. 3):
+    “MILITAR. REINTEGRAÇÃO PARA TRATAMENTO DE SAÚDE. CONTAMINAÇÃO POR CHUMBO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS.
+    1) A reintegração em nada aproveitaria ao autor, considerando que a terapêutica adequada para a contaminação por chumbo é a não-exposição do indivíduo a este elemento, até sua definitiva eliminação do organismo.
+    2) Subsiste o dever de indenizar as lesões no nariz e dente do autor, ocorridas em função dos efeitos colaterais da contaminação.
+    3) É devida indenização por dano moral, em face da exposição e contaminação por chumbo, agravada pela omissão da União no tocante ao fornecimento de EPI, bem como o local impróprio e insalubre onde laborava o autor.”
+    No apelo extremo, alega-se, com amparo no art. 102, III, a, da Constituição Federal, que o acórdão recorrido violou o art. 37, § 6º, da Carta Magna.
+    É o relatório. Decido.
+    O Tribunal de origem, ao apreciar a controvérsia e entender pela caracterização de responsabilidade civil por parte do Estado, assim se manifestou (fl. 138, Vol. 3):
+    “Em síntese, a manutenção da sentença é medida que se impõe, tendo em vista que:
+    1) a reintegração em nada aproveitaria ao autor, considerando que a terapêutica adequada para a contaminação por chumbo é a não-exposição do autor a este elemento, até sua definitiva eliminação do organismo;
+    2) subsiste o dever de indenizar as lesões no nariz e dente do autor, ocorridas em função dos efeitos colaterais da contaminação e
+    3) em relação ao dano moral, o caso concreto revela a necessidade da indenização, em face da exposição e contaminação por chumbo, agravada pela omissão da União no tocante ao fornecimento de EPI, bem como o local impróprio e insalubre onde laborava o autor.”
+    Verifica-se, portanto, que a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Nesse sentido, confiram-se precedentes de ambas as Turmas desta CORTE:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 19.10.2017. DIREITO ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. OMISSÃO. INDENIZAÇÃO. DANOS DECORRENTES DE AGRESSÃO OCORRIDA EM LOCAL DE TRABALHO. SÚMULA 279 DO STF. 1. É inadmissível o extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, exija-se o reexame das provas dos autos. Incidência da Súmula 279 do STF. 2. Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, §4º, do CPC. inaplicável o § 11 do art. 85 do CPC, face à inexistência de fixação de honorários anteriormente.” (ARE 1.037.498-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 7/5/2018)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. POLICIAL MILITAR. PROMOÇÃO. REVOGAÇÃO INDEVIDA. RESPONSABILIDADE OBJETIVA DO ESTADO. INDENIZAÇÃO POR DANOS MORAIS. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. 1. O nexo de causalidade apto a gerar indenização por dano moral em face da responsabilidade do Estado, quando controversa sua existência, demanda a análise do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279/STF que dispõe: ‘Para simples reexame de prova não cabe recurso extraordinário.’ 2. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 3. In casu, o acórdão recorrido assentou: ‘DIREITO PROCESSUAL CIVIL E CONSTITUCIONAL. REEXAME NECESSÁRIO E APELOS VOLUNTÁRIOS. PRELIMINARES. CARÊNCIA DA AÇÃO. INÉPCIA DA INICIAL. INADEQUAÇÃO PROCEDIMENTAL. REJEITADA POR UNANIMIDADE. MÉRITO. RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO POR ATOS ILEGAIS. DECRETO Nº 21.257/99. MANDADO DE SEGURANÇA Nº 48.335-2. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PROVIDO PARCIAL O REEXAME DE NECESSÁRIO. PREJUDICADOS APELOS. DECISÃO POR MAIORIA’. 4. Agravo regimental DESPROVIDO.” (ARE 767828 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 3/9/2014)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 18 de junho de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
