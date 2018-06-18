@@ -1,0 +1,20 @@
+DECISÃO:
+    1.  Trata-se de reclamação proposta por Celg Distribuição S.A. contra acórdão proferido pelo Órgão Especial do Tribunal Superior do Trabalho (TST), nos autos da Reclamação Trabalhista nº 0010851-31.2014.5.18.0051, sob alegação de usurpação da competência do Supremo Tribunal Federal (STF).
+    2.  Na origem, a parte ora reclamante interpôs recurso extraordinário, que teve seu seguimento negado, com fundamento na sistemática da repercussão geral, conforme verificado em consulta ao site do TST. Transcrevo trecho relevante da decisão de admissibilidade do recurso:
+    “O Supremo Tribunal Federal tem entendimento pacífico no sentido de que não cabe recurso extraordinário, por ausência de repercussão geral, em matéria de pressupostos de admissibilidade de recursos de competência de outro Tribunal.
+    Tal entendimento foi consagrado no RE 598.365, da relatoria do Min. Ayres Britto, no qual a Corte Suprema firmou a tese de que não há repercussão geral em relação ao “Tema 181” do ementário temático de Repercussão Geral do STF, hipótese dos autos.
+    Logo, não tendo havido na decisão recorrida exame do mérito da controvérsia deduzida no recurso extraordinário, dada a imposição de óbice de natureza exclusivamente processual ao processamento da revista, a única questão passível de discussão em sede de recurso extraordinário seria a relativa aos pressupostos de admissibilidade daquele recurso, sendo certo que o Supremo Tribunal Federal rejeita a possibilidade desse reexame, por ausência de repercussão geral da matéria.
+    Ante o exposto, nego seguimento ao recurso extraordinário.
+    3.  Contra essa decisão, a parte interpôs agravo de instrumento, com fundamento nos arts. 893, IV e 897, b, da CLT, c/c os arts. 1.016 e ss. do CPC/2015. O Órgão Especial do TST julgou o agravo de instrumento como agravo interno, negando-lhe provimento.
+    4.  É o relatório. Decido.
+    5.  Dispenso as informações, bem como o parecer ministerial, diante do caráter reiterado da matéria (art. 52, parágrafo único, do RI/STF). Deixo, ademais, de determinar a citação da parte beneficiária da decisão reclamada, em face da manifesta inviabilidade do pedido.
+    6.  A reclamação é inviável. Com efeito, o agravo interno é recurso próprio à impugnação de decisão que aplica entendimento firmado em regime de repercussão geral, nos termos do art. 1.030, § 2º, do CPC/2015. Por outro lado, nos casos em que o juízo de admissibilidade negativo não se basear em precedente julgado pelo STF nos regimes da repercussão geral ou de julgamento de recursos repetitivos, caberá agravo em recurso extraordinário (art. 1.042 do CPC/2015). Assim, configura erro grosseiro a interposição de agravo de instrumento contra decisão que aplica a sistemática da repercussão geral.
+    7.  Observe-se que esta sistemática de impugnação das decisões que aplicam precedente da repercussão geral já vigia no regime processual do CPC/1973, desde o julgamento pelo STF da Questão de Ordem no AI 760.358-QO, Rel. Min. Gilmar Mendes, em 19.11.2009, data a partir da qual não mais se admitia a aplicação do princípio da fungibilidade recursal. Portanto, o órgão de origem adotou procedimento que é mais favorável à parte reclamante e não usurpou a competência desta Corte.
+    8. Assim, o erro grosseiro da parte reclamante implicou a preclusão da questão.
+    9.  Advirto, por fim, que o uso de meios processuais manifestamente inadmissíveis gera efeitos danosos à prestação jurisdicional, tomando tempo e recursos escassos do STF, causando, ainda, prejuízos à parte contrária. Desse modo, a reiteração implicará a imposição de multa por litigância de má-fé, nos termos no art. 80 e seguintes do CPC/2015.
+    10.  Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    11.  Sem honorários, porquanto não citada a parte interessada.
+    Publique-se.
+          Brasília, 18 de junho de 2018.
+Ministro LUÍS ROBERTO BARROSO
+Relator
