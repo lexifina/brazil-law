@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ CONCEDIDA PELA ALESC HÁ MAIS DE TRINTA ANOS. PRELIMINAR. ILEGITIMIDADE PASSIVA DO PRESIDENTE DO IPREV AFASTADA. MÉRITO. REVERSÃO DO ATO APÓS A CONSTATAÇÃO DA INSUBISISTÊNCIA DOS MOTIVOS QUE LHE DERAM ENSEJO. IMPOSSIBILIDADE. EXEGESE DA LEI N. 4. 422/1970 (ESTATUTO DOS SERVIDORES) VIGENTE À ÉPOCA, EM ATENÇÃO AO PRINCÍPIO DO TEMPUS REGIT ACTUM. NECESSIDADE DE PROVA DA CAPACIDADE LABORAL ATUAL. PROCESSO INSTAURADO PELO IPREV QUE TEVE COMO PREMISSA A AVALIAÇÃO DAS CONDIÇÕES DE SAÚDE APENAS NO MOMENTO DA APOSENTAÇÃO. FALTA DE PROVA, PORTANTO, DA EXISTÊNCIA DE POSSIBILIDADE DE RETORNO DO SERVIDOR ÀS SUAS ATIVIDADES PROFISSIONAIS. AUSÊNCIA, ADEMAIS, DE INSTAURAÇÃO DO COMPETENTE PROCESSO NO ÂMBITO DA ALESC. ILEGALIDADE MANIFESTA DO ATO APONTADO COMO COATOR. CONCESSÃO DA SEGURANÇA.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente lega violação ao art. 5º, LXIX, da Constituição. Sustenta que “o Tribunal a quo contrariou o disposto no art. 5º, LXIX, da Constituição da República, razão pela qual merece ser reformada a r. Decisão proferida, a fim de que se reconheça a impossibilidade de conhecimento do mandado de segurança, em razão da necessidade de dilação probatório a respeito da existência, ou não, da doença psiquiátrica ou da sua incapacidade laborativa, o que é incabível em sede de mandado de segurança ante a ausência de certeza e liquidez do direito”.
+    O recurso não merece acolhida. Isso porque, para a análise da questão trazida pelo ora recorrente, seria necessário analisar as hipóteses de cabimento do mandado de segurança, o que inviabiliza o conhecimento do presente recurso extraordinário.
+    O Supremo Tribunal Federal, ao jugar o AI 800.074-RG, Rel. Min. Gilmar Mendes, decidiu pela inexistência de repercussão geral da questão, tendo em vista tratar-se de matéria restrita ao âmbito infraconstitucional. Veja-se a ementa do julgado:
+    “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral.”
+    Ademais, para dissentir do entendimento firmado pelo Tribunal de origem, são imprescindíveis a análise da legislação infraconstitucional aplicada ao caso e o reexame de provas, procedimentos vedados neste momento processual.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+                Brasília, 18 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
