@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado recurso na violação dos arts. 7º, XXIV, e 8º, III, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ART. 8º, III, DA LEI MAIOR. SINDICATO. LEGITIMIDADE. SUBSTITUTO PROCESSUAL. EXECUÇÃO DE SENTENÇA. DESNECESSIDADE DE AUTORIZAÇÃO. EXISTÊNCIA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DE JURISPRUDÊNCIA. I – Repercussão geral reconhecida e reafirmada a jurisprudência do Supremo Tribunal Federal no sentido da ampla legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos.” (RE 883642 RG, Relator(a): Min. MINISTRO PRESIDENTE, REPERCUSSÃO GERAL - MÉRITO DJe 26-06-2015 )
+    Por eu turno, a discussão acerca da definição da natureza jurídica dos direitos controvertidos, se individuais homogêneos ou individuais heterogêneos, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral. Nesse sentido:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. RECLAMATÓRIA TRABALHISTA AJUIZADA POR SINDICATO, NA QUALIDADE DE SUBSTITUTO PROCESSUAL. CONTROVÉRSIA ACERCA DA NATUREZA DOS DIREITOS DEMANDADOS, SE INDIVIDUAIS HOMOGÊNEOS OU HETEROGÊNEOS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à natureza, se individual homogênea ou heterogênea, dos direitos postulados por Sindicato em reclamação trabalhista, na qualidade de substituto processual, é de natureza infraconstitucional. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.” (ARE 907209 RG, Relator(a): Min. TEORI ZAVASCKI, Tribunal Pleno, DJe 06-11-2015 )
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de junho de 2018.
+Ministra Rosa Weber
+Relatora
