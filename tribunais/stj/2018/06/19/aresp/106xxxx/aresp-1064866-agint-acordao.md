@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DAS AUTORAS.
+1. No caso em exame, as instâncias ordinárias afirmaram que não há nos autos prova da ocorrência de dano moral passível de indenização, bem assim que os transtornos decorrentes do atraso do voo por poucas horas não passaram de meros dissabores, o que é insuficiente para ensejar a indenização pretendida. Para alterar tais conclusões seria necessário a incursão no acervo fático-probatório dos autos, providência vedada pela Súmula 7 do STJ.
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por [NOME] e JOYCE COSTACURTA PACHECO, contra decisão monocrática da lavra deste signatário (fls. 202-206, e-STJ), que negou provimento ao agravo das insurgentes.
+O apelo nobre, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 124, e-STJ):
+PRESTAÇÃO DE SERVIÇOS. TRANSPORTE AÉREO.INDENIZATÓRIA. ATRASO DE 73 MINUTOS SEM MAIORES CONSEQUÊNCIAS. TRANSTORNOS QUE NÃO ENSEJAM REPARAÇÃO POR DANO MORAL. PEDIDO IMPROCEDENTE. INVERSÃO DA SUCUMBÊNCIA. RECURSO PROVIDO.
+Nas razões do recurso especial (fls. 132-148, e-STJ), as insurgentes apontam, além do dissídio jurisprudencial, a violação dos arts. 186 e 927 do Código Civil; arts. 6º, inciso VI; 14 e 20, inciso II do Código de Defesa do Consumidor. Sustentam, em síntese, a necessidade de se reconhecer a responsabilidade objetiva das companhias aéreas, uma vez que o dano moral decorrente de atraso de voo opera-se in re ipsa, independentemente de comprovação.
+Pleiteiam, por fim, o provimento do recurso e a reforma do acórdão recorrido.
+Contrarrazões ao recurso especial às fls. 153-171, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 173-175, e-STJ), dando ensejo na interposição do agravo de fls. 177-180, e-STJ, no qual as agravantes pretendem a reforma da decisão impugnada.
+Contraminuta às fls. 182-185, e-STJ.
+Em decisão monocrática (fls. 202-206, e-STJ), negou-se provimento ao reclamo, ante a incidência do óbice inserto na Súmulas 7 do STJ.
+Daí o presente agravo interno (fls. 210-213, e-STJ), no qual as insurgentes refutam a incidência da Súmula 7/STJ e repisam as alegações contidas no apelo extremo, aduzindo que o dano moral opera-se in re ipsa.
+Sem impugnação (fls. 221, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DAS AUTORAS.
+1. No caso em exame, as instâncias ordinárias afirmaram que não há nos autos prova da ocorrência de dano moral passível de indenização, bem assim que os transtornos decorrentes do atraso do voo por poucas horas não passaram de meros dissabores, o que é insuficiente para ensejar a indenização pretendida. Para alterar tais conclusões seria necessário a incursão no acervo fático-probatório dos autos, providência vedada pela Súmula 7 do STJ.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pelas recorrentes são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. De início, quanto ao pretenso afastamento do óbice da Súmula 7/STJ, razão não assiste às agravantes.
+Consoante asseverado na decisão agravada, cinge-se a controvérsia recursal acerca da ocorrência do dano moral decorrente do atraso de voo internacional. Sustentam as recorrentes que o dano moral opera-se in re ipsa, ou seja, prescinde de comprovação, reputando-se configurado quando da ocorrência do atraso de voo.
+O entendimento desta Corte é no sentido de que o simples inadimplemento contratual não gera, em regra, danos morais, por caracterizar mero aborrecimento, dissabor, possível de surgir em qualquer relação negocial, sendo fato comum e previsível na vida social, embora não desejável nos negócios contratados.
+A Corte local, por sua vez, concluiu pela não ocorrência de dano moral na hipótese, a saber:
+ ..  A reparação do dano moral não está relacionada a qualquer problema, contrariedade ou aborrecimentos que se possa sofrer. A demora do voo pelo tempo de 73 minutos (ou mesmo de cinco horas), por si só, sem outras conseqüências extraordinárias capazes causar humilhação ou depreciação de sua honra e de afrontar sua dignidade humana, não implica em ofensa à personalidade.
+Não há prova de que as autoras sofreram dano moral indenizável. Os dissabores apontados na inicial, não são insuficientes para o reconhecimento do dano moral e do dever de indenizar. ..  (fls. 127, e-STJ)
+Dessa forma, para alterar tais conclusões seria necessário a incursão no acervo fático-probatório dos autos, prática vedada em sede de recurso especial a teor da Súmula 7/STJ.
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA NEGANDO SEGUIMENTO AO APELO EXTREMO - INSURGÊNCIA DOS AUTORES. 1. No caso em exame, tanto o juízo de piso, quanto o Tribunal de origem, afirmaram que não há nos autos prova alguma de os autores terem experimentado dano moral passível de indenização, cujos transtornos decorrentes do atraso do voo por algumas horas não passaram de meros dissabores, o que é insuficiente para ensejar a indenização pretendida. 2. As conclusões do aresto reclamado acerca da não configuração de dano moral indenizável encontram-se firmadas no acervo fático-probatório constante dos autos e a sua revisão esbarra no óbice da Súmula 7 do STJ. 3. Agravo regimental desprovido. (AgRg no REsp 1546645/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2016, DJe 01/02/2017).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRANSPORTE AÉREO NACIONAL. ATRASO DE VOO. DANO MORAL NÃO CONFIGURADO. REEXAME DA CONCLUSÃO DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO. 1. Esta Corte possui entendimento de não ser qualquer inadimplemento contratual ensejador de dano moral, somente se configurando este por atraso em voo, em regra, se o consumidor foi submetido à situação constrangedora ou humilhante. 2. No caso, como se vê das premissas traçadas pelo acórdão impugnado, não ficaram comprovados os transtornos de ordem moral à recorrente, a fim de caracterizar o dever de indenizar. 3. Desse modo, a inversão de entendimento, para fins de se acolher a tese lançada pela agravante, importa, inexoravelmente, no revolvimento do acervo fático-probatório dos autos, o que é vedado pelo enunciado n. 7 da Súmula desta Corte Superior. 4. Agravo regimental improvido. (AgRg no AREsp 764.125/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/12/2015, DJe 03/02/2016).
+Por fim, destaca-se que esta Corte entende não ser possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissenso é apoiado em fatos e não na interpretação da lei, visto que a incidência da Súmula 7 do STJ também se aplica aos recursos especiais interpostos pela alínea "c" do permissivo constitucional.
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
