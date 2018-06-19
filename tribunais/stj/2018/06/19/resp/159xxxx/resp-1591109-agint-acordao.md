@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ATIVIDADES NOTARIAIS E DE REGISTRO. TABELIÃO INTERINO. NOMEAÇÃO A TÍTULO PRECÁRIO. REVOGAÇÃO. PROCESSO ADMINISTRATIVO. DESNECESSIDADE.
+1. A jurisprudência desta Corte orienta-se no sentido de que, por se tratar de nomeação precária, a Administração Pública pode dispensar o ocupante da função de tabelião interino a qualquer tempo, independentemente da instauração de processo administrativo, conforme juízo de conveniência e oportunidade. Precedentes.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 536):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ATIVIDADES NOTARIAIS E DE REGISTRO. TABELIÃO INTERINO. NOMEAÇÃO A TÍTULO PRECÁRIO. REVOGAÇÃO. PROCESSO ADMINISTRATIVO. DESNECESSIDADE. RECURSO ESPECIAL PROVIDO.
+O agravante sustenta que a desconstituição da investidura precária não se deu em caráter ad nutum, mas foi motivada em diversos fatos considerados irregulares pela autoridade coatora, razão pela qual lhe devia ter sido oportunizado o contraditório e ampla defesa.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ATIVIDADES NOTARIAIS E DE REGISTRO. TABELIÃO INTERINO. NOMEAÇÃO A TÍTULO PRECÁRIO. REVOGAÇÃO. PROCESSO ADMINISTRATIVO. DESNECESSIDADE.
+1. A jurisprudência desta Corte orienta-se no sentido de que, por se tratar de nomeação precária, a Administração Pública pode dispensar o ocupante da função de tabelião interino a qualquer tempo, independentemente da instauração de processo administrativo, conforme juízo de conveniência e oportunidade. Precedentes.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Conforme se depreende dos autos, o ora agravante impetrou, na origem, mandado de segurança objetivando, em síntese, a desconstituição do ato do Corregedor Geral da Justiça do Estado do Espírito Santo que o destituíra da titularidade interina do Cartório de Registro Civil e Tabelionado do distrito de Duas Barras, Município de Iconha/ES.
+Ao apreciar a controvérsia, o Tribunal de origem concedeu a segurança para declarar a nulidade do ato coator pois não observadas, no caso, as garantias do devido processo legal.
+Referido entendimento, no entanto, encontra-se em descompasso com a jurisprudência desta Corte no sentido de que, por se tratar de nomeação precária, a Administração Pública pode dispensar o ocupante da função de tabelião interino a qualquer tempo, independentemente da instauração de processo administrativo, conforme juízo de conveniência e oportunidade.
+A propósito, confira-se (com grifos nossos):
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CARTÓRIO DE REGISTRO DE IMÓVEIS. MUNICÍPIO DE CARIACICA. INSTALAÇÃO POR RESOLUÇÃO DO PRESIDENTE DO TRIBUNAL DE JUSTIÇA. REVOGAÇÃO POR RESOLUÇÃO DO TRIBUNAL PLENO. POSSIBILIDADE. SÚMULA 473 DO STF. TABELIÃO INTERINO. FUNÇÃO PRECÁRIA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. A dispensa do ocupante de função de tabelião interino não exige a abertura de processo administrativo, podendo se dar conforme a conveniência e a oportunidade do administrador público. Nesse sentido: AgRg na MC 19.361/PR, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 02/08/2012; RMS 26.261/AP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 22/02/2012; RMS 25.555/MG, Rel. Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), Sexta Turma, DJe 09/11/2011; RMS 17552/MG, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJ 05/12/2005.
+2. O exercício da função de tabelião interino não autoriza o reconhecimento de qualquer direito de manutenção nesse cargo até a abertura do respectivo concurso público, pois o Poder Judiciário não poderia, ingressando no mérito da conveniência e oportunidade do administrador público, proibir eventual revogação da sua designação.
+3. Nos termos do entendimento jurisprudencial contido na Súmula n. 473 do STF, o Tribunal Pleno pode proceder à revogação do ato administrativo exarado pelo Presidente do Tribunal de Justiça.
+4. Recurso ordinário não provido (RMS 35.448/ES, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 5/4/2013).
+ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATIVIDADES NOTARIAIS E DE REGISTRO. TABELIÃO INTERINO. NOMEAÇÃO A TÍTULO PRECÁRIO. REVOGAÇÃO. PROCESSO ADMINISTRATIVO DESNECESSIDADE. FALTA DE INTERESSE DO PODER PÚBLICO. ATO DISCRICIONÁRIO.
+1. Consoante a jurisprudência consolidada no STJ, em se tratando de ocupação precária de cargo por designação, pode a Administração destacar o serventuário do cargo a qualquer tempo, conforme lhe convenha.
+2. Cumpre acrescentar que nem sequer é necessária a instauração de processo administrativo disciplinar para apuração de fatos e aplicação da medida, pois a designação é feita unicamente no interesse do Poder Público, sob critérios de conveniência e oportunidade. Assim, não há falar em violação de direito líquido e certo.
+3. Agravo Regimental não provido (AgRg no RMS 37.034/MT, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 3/9/2012).
+RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA. DESIGNAÇÃO DE SUBSTITUTO INTERINO. ATO DISCRICIONÁRIO. PRECEDENTES. RECURSO ORDINÁRIO A QUE SE NEGA PROVIMENTO (RMS 30.908/SC, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 30/9/2011).
+ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATIVIDADES NOTARIAIS E DE REGISTRO. TABELIÃO SUBSTITUTO. AFASTAMENTO EM RAZÃO DE CONDENAÇÃO CRIMINAL TRANSITADA EM JULGADO. PROCESSO ADMINISTRATIVO SEM CONTRADITÓRIO E AMPLA DEFESA. DESNECESSIDADE. MERA EXTINÇÃO DO VÍNCULO FORMADO A TÍTULO PRECÁRIO EM RAZÃO DA SUPERVENIENTE FALTA DE INTERESSE DO PODER PÚBLICO. AFASTAMENTO NÃO-PUNITIVO.
+1. No caso, o afastamento do recorrente do cargo de substituto legal de tabelião não tem o caráter punitivo, mas deriva primordialmente da perda de confiança que fundamentou sua nomeação como tabelião interino.
+2. Segundo condenação criminal transitada em julgada, o impetrante-recorrente, durante o exercício do referido cargo, cometeu apropriação indébita de valores recebidos a título de ITBI.
+3. Constatada essa realidade, foi reaberto contra ele processo administrativo anteriormente protocolado e arquivado, que transcorreu sem sua participação, resultando no ato ora atacado. Pareceu ao impetrante-recorrente que se tratava de punição derivada de processo administrativo irregular (com aparente violação ao art. 39, inc. V, da Lei 8.935/94). Mas não é isso.
+4. Na condição de tabelião interino, o recorrente exercia função a título precário e unicamente no interesse do Poder Público. No entanto, em razão da decisão criminal já mencionada, perfeitamente desconstituível o ato de seu nomeação ao cargo que ocupava, ainda que sem processo administrativo (ou com processo administrativo defeituoso - sem exercício do contraditório e da ampla defesa), porque não se tem verdadeiramente uma conseqüência administrativa punitiva para os crimes cometidos, mas simples perda de interesse por parte do Poder Público, resultado de um juízo de conveniência e oportunidade.
+5. É que, conforme reiterada jurisprudência desta Corte Superior, nesses casos, não há direito líqüido e certo à estabilidade e nem à aplicação do regime previsto nos arts. 35, inc. II, e 39, inc. V, da Lei n. 8.935/94 - aplicável somente às hipóteses de efetiva delegação (com obediência aos ditames constitucionais). Precedentes.
+6. Recurso ordinário em mandado de segurança não-provido (RMS 26.165/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 25/3/2009).
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
