@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário fundado na letra a do permissivo constitucional.
+    No extraordinário alega-se afronta ao artigo 150, IV, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, assinalo ser assente na Corte o entendimento de que a cláusula de vedação de confisco aplica-se às multas. Nesse sentido:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. MULTA. VEDAÇÃO DO EFEITO DE CONFISCO. APLICABILIDADE. OFENSA AO ART. 97 DA CONSTITUIÇÃO. NÃO OCORRÊNCIA. PRECEDENTES. 1. Nos termos da jurisprudência da Corte, o princípio da vedação ao efeito de confisco aplica-se às multas. 2. A jurisprudência desta Corte é firme no sentido de que não se aplica a restrição do art. 97 da Constituição Federal quando o acórdão recorrido apenas interpreta legislação infraconstitucional, sem declarar sua inconstitucionalidade. Precedente. 3. Agravo regimental a que se nega provimento” (ARE nº 851.059 AgR, Primeira Turma, Rel. Min. Roberto Barroso DJe 16/3/16)
+    No mais, verifico que o Tribunal de origem decidiu que a multa aplicada no percentual de 150% (cento e cinquenta por cento) do imposto tem efeito confiscatório, reduzindo-a para 50% (cinquenta por cento) do valor do imposto, em obediência aos princípios da proporcionalidade e da razoabilidade.
+    Dessa forma, para acolher a pretensão recursal e divergir do Tribunal a quo acerca da violação do princípio da proporcionalidade, bem como do caráter confiscatório da multa, seria necessário o reexame da causa à luz da legislação local e do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência do enunciado das Súmulas nº 280 e 279/STF.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. INEXISTÊNCIA DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. CONSTITUCIONAL E TRIBUTÁRIO. MULTA FIXADA NO PERCENTUAL DE 75% DO VALOR DO TRIBUTO DEVIDO. ANÁLISE DO CARÁTER CONFISCATÓRIO. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 606.013/PE-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 11/4/14- grifei).
+    “DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. PRINCÍPIO DO NÃO CONFISCO. PROPORCIONALIDADE DA MULTA. IMPOSSIBILIDADE DE REAPRECIAÇÃO DE FATOS E PROVAS. SÚMULA 279/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 19.12.2006. O Tribunal a quo, na hipótese em tela, lastreou-se no contexto probatório para firmar seu convencimento acerca da legalidade da multa de 75% imposta à recorrente, assinalando tratar-se de multa punitiva e não confiscatória que atendeu finalidade educativa e de repressão a condutas infratoras. Portanto, aferir a ocorrência de eventual violação ao preceito constitucional invocado no apelo extremo, decorrente de efeito confiscatório da multa, somente seria possível mediante exame do conjunto fático-probatório, o que é vedado em sede extraordinária e enseja a aplicação do enunciado da Súmula 279 da Corte. Agravo regimental conhecido e não provido” (RE nº 547.559/SC-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 11/12/13 - grifei).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda, a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 19 de junho de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
