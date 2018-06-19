@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Agravo, interposto pela FAZENDA NACIONAL, em 24/02/2017, contra decisão do Tribunal Regional Federal da 1ª Região, que inadmitiu o Recurso Especial, de acórdão assim ementado:
+"CONSTITUCIONAL, PREVIDENCIÁRIO E PROCESSUAL CIVIL - MEDIDA CAUTELAR - SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO PREVIDENCIÁRIO - EXPEDIÇÃO DE CND - ENTIDADE BENEFICENTE - PROCEDÊNCIA DO PEDIDO NO PROCESSO PRINCIPAL - RETORNO DOS AUTOS DO STJ.
+1. A 4S, examinando o processo nº 2000.34.00.011591-0/DF (processo principal), deu provimento aos embargos infringentes, reconhecendo à autora o direito de retroação dos benefícios da remissão tributária do art. 4º da Lei 9.429/1996 e da imunidade do art. 195, § 7º, da Constituição Federal.
+2. Acolhida a pretensão da autora nos autos principais, por ora (pendente de julgamento o RE interposto pela FN), resta autorizada a suspensão da exigibilidade das contribuições previdenciária impugnadas bem como a expedição da CND.
+3. Apelação da FN e remessa oficial, tida por interposta, não providas.
+4. Peças liberadas pelo Relator, em Brasília, 6 de agosto de 2012, para publicação do acórdão" (fl. 804e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"PROCESSUAL CIVIL - MEDIDA CAUTELAR - SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO PREVIDENCIÁRIO A ENTIDADE BENEFICENTE (ART. 195, § 7º, CF/88) - PROCESSO PRINCIPAL PENDENTE DE JULGAMENTO - EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO: IMPOSSIBILIDADE - EMBARGOS DE DECLARÇÃO NÃO PROVIDOS.
+1. O só julgamento do processo principal por esta Corte (pendente de julgamento o RE interposto pela FN) não ensejaria a extinção da medida cautelar (art. 267 do CPC), fundamentalmente, se ela objetiva, enquanto tramitar a ação principal, suspender a exigibilidade da contribuição patronal para a seguridade social e impedir a inscrição no CADIN, finalidades processuais que a medida cautelar, como instrumento processual garantidor da eficácia do processo principal, ainda pode atender.
+2. Enquanto pendente de julgamento a ação principal em que se discute a legitimidade ou não dos benefícios da imunidade tributária instituída pelo art. 195, § 7º, da CF a entidades beneficentes, não há qualquer empecilho em assegurar à autora a suspensão da exigibilidade da contribuição patronal para a seguridade social, evitando qualquer procedimento executório em relação aos respectivos valores até que proferida decisão final nos autos principais.
+3. Embargos de declaração da FN não providos.
+4. Peças liberadas pelo Relator, Brasília, 15 de julho de 2013, para publicação do acórdão" (fl. 827e).
+Sustenta a parte agravante, nas razões do Recurso Especial, fundamentado na alínea a do permissivo constitucional, violação aos arts. 458 e 535 do CPC/73, alegando que persiste omissão não sanada no julgamento dos Embargos de Declaração, bem como ao art. 808, III, do mesmo estatuto, defendendo que "a ação cautelar deve ser extinta quando julgada a ação principal, mesmo não havendo trânsito em julgado" (fl. 838e).
+Foram apresentadas contrarrazões (fls. 850/858e).
+Negado seguimento ao Recurso Especial (fls. 860/861e), foi interposto o presente Agravo (fls. 864/871e).
+Foi apresentada contraminuta (fls. 878/890e).
+A irresignação não merece acolhimento.
+Em relação aos arts. 458 e 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1.360.762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+Quanto à questão de fundo, o Tribunal a quo, ao solucionar a controvérsia, consignou o seguinte:
+"Em cumprimento ao EREsp nº 86.350/DF, que, data vênia, não se atentou ao fato de que o Des. Federal [NOME] (Relator), que dava provimento à apelação e à remessa oficial para, reformando a sentença, julgar improcedente o pedido, foi vencido no julgamento da apelação e da remessa oficial, examina-se a cautelar.
+A 4S, examinando o processo nº 2000.34.00.011591-0/DF (processo principal), deu provimento aos embargos infringentes, acolhendo o pedido da autora, nesses termos:
+TRIBUTÁRIO. ENTIDADE BENEFICENTE. ART. 195, § 7º, DA CONSTITUIÇÃO FEDERAL. IMUNIDADE. NECESSIDADE DE LEI COMPLEMENTAR. APLICABILIDADE DOS ARTS. 9º E 14 DO CTN. CERTIFICADO DE UTILIDADE PÚBLICA. EFEITO EX TUNC.
+1. A previsão contida no art. 195, § 7º, da CF, traduz-se em verdadeira imunidade, não isenção(STF - RMS 22192/DF, relator Ministro Celso de Mello, DJ de 19/12/1996).
+2. O art. 195, § 7º, da CF, deve ser interpretado de acordo com o art. 146, II, da CF.
+3. Não havendo lei complementar específica que estabeleça as exigências a serem atendidas pelas entidades beneficentes de assistência social para gozar da imunidade estabelecida, estende-se a aplicabilidade dos arts. 9º e 14 do Código Tributário Nacional, recepcionado pela Constituição com status de lei complementar.
+4. O STF considerou inaplicáveis os acréscimos da Lei 9.732/1998 ao art. 55 da Lei 8.212/1991 ao deferir medida cautelar na ADI-MC 2.028.
+5. Segundo precedentes do STF e do STJ, o certificado que reconhece a entidade como filantrópica, de utilidade pública tem efeito ex tunc, por se tratar de ato declaratório. (RE 115.510/RJ, rel. Min. Carlos Madeira, DJ de 11/11/1988). Precedentes do STJ: AgRg no REsp 758.010/RS, rel. Min. Eliana Calmon, DJ de 12/12/05; AG 432.286/RS, rel. Min. Franciulli Netto, DJ de 07/08/2003).
+6. Embargos infringentes a que se dá provimento.
+(EIAC 2000.34.00.011591-0/DF, Rel. Desembargadora Federal Maria Do Carmo Cardoso, Quarta Seção,e-DJF1 p.36 de 03/08/2009)
+Acolhida a pretensão da autora nos autos principais, por ora (pendente de julgamento o RE interposto pela FN), resta autorizada a suspensão da exigibilidade das contribuições previdenciária impugnadas bem como a expedição da CND" (fl. 801e).
+Observa-se que o fundamento do acórdão recorrido - o cumprimento da ordem emanada do julgamento do EREsp 86.350/DF - não foi impugnado pela parte recorrente nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283 do STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para negar provimento ao Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios, anteriormente fixados em 10% (dez por cento) sobre o valor da causa (fl. 508e), para 11% (onze por cento) sobre o mesmo valor, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
