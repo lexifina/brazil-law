@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de agravo manejado pelo MINISTÉRIO PÚBLICO FEDERAL, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 288/289):
+PREVIDENCIÁRIO. PROCESSO CIVIL. BENEFÍCIO ASSISTENCIAL. CARÁTER SUBSIDIÁRIO. PESSOA COM DEFICIÊNCIA. LEI Nº 12.470/2011. MISERABILIDADE CONFIGURADA. CONTRIBUINTE INDIVIDUAL. ABATIMENTO. TERMO INICIAL. CORREÇÃO MONETÁRIA. JUROS DE MORA. HONORÁRIOS DE ADVOGADO. APELAÇÃO E REMESSA OFICIAL, tida por interposta, PARCIALMENTE PROVIDAS. RECURSO ADESIVO DESPROVIDO.
+- Considerando que a r. sentença foi publicada na vigência do CPC/1973, não se aplicam as novas regras previstas no artigo 496 e §§ do Novo CPC. Assim, não obstante ter sido proferida a sentença após a vigência da alteração do artigo 475, § 2º, do CPC/1973 pela Lei n. 10.352/2001, que afasta a exigência do duplo grau de jurisdição quando a condenação for inferior a 60 (sessenta) salários-mínimos, dá-se a remessa oficial por interposta, por não haver valor certo a ser considerado, na forma da súmula nº 490 do STJ.
+- Discute-se o preenchimento dos requisitos necessários à concessão do benefício de prestação continuada previsto no artigo 20 da Lei n. 8.742/93, regulamentado, atualmente, pelos Decretos n. 6.214/2007 e 7.617/2011.
+- A LOAS deu eficácia ao inciso V do artigo 203 da Constituição Federal, ao estabelecer, em seu artigo 20, as condições para a concessão do benefício da assistência social, a saber: ser o postulante portador de deficiência ou idoso e, em ambas as hipóteses, comprovar não possuir meios de prover a própria manutenção nem de tê-la provida por sua família.
+- O Supremo Tribunal Federal recentemente reviu seu posicionamento ao reconhecer que o requisito do artigo 20, § 3º, da Lei n. 8.742/93 não pode ser considerado taxativo (STF, RE n. 580963, Tribunal Pleno, rel. Min. Gilmar Mendes, DJe n. 225, 14/11/2013).
+- Cumpre salientar que o benefício de prestação continuada foi previsto para, na impossibilidade de atender a um público maior, para socorrer os desamparados (artigo 6º, caput, da CF), ou seja, àquelas pessoas que sequer teriam possibilidade de equacionar um orçamento doméstico, pelo fato de não terem renda ou de ser essa insignificante.
+- Resta consignar que a Assistência Social, tal como regulada na Constituição Federal e na Lei nº 8.742/93, tem caráter subsidiário em relação às demais técnicas de proteção social (previdência social, previdência privada, caridade, família, poupança etc), dada a gratuidade de suas prestações.
+- O benefício previsto no artigo 203, V, da Constituição Federal tem o valor de 1 (um) salário mínimo, ou seja, a mesma quantia paga a milhões de brasileiros que se aposentaram no Regime Geral de Previdência Social mediante o pagamento de contribuições, durante vários anos. De modo que a assistência social deve ser fornecida com critério, pois do contrário se gerarão privilégios e desigualdades, em oposição à própria natureza dos direitos sociais que é a de propiciar igualdade, isonomia de condições a todos.
+- No caso vertente, a parte autora, nascida em 03/3/1977, requereu o benefício de amparo social por ser deficiente. O laudo médico confirma que a autora é total e definitivamente incapaz para o trabalho, por ser portadora de lúpus eritematoso sistêmico (C1D M
+32), desde janeiro de 2010 (f. 114/116).
+- A vista das razões contidas no voto, conclui-se que apenas e tão somente em 31/8/2011, quando entrou em vigor a Lei nº 12.470, passou a autora a cumprir o requisito da pessoa com deficiência, previsto em lei. Assim, o benefício não poderia ser concedido em DIB em abril de 2010, pois à época a autora a ele não fazia jus.
+- Quanto à hipossaficiência econômica, o estudo social revela que a parte autora reside com dois filhos menores, em casa da CDHU, percebendo renda mensal de aproximadamente R$ 200,00 (duzentos reais). Resta patenteada a miserabilidade, pois a renda é inferior a 1/4 (um quarto) do salário mínimo.
+- Entretanto, no período de 01/7/2010 a 30/9/2014, a autora verteu contribuições como titular de empresa ao INSS (vide CNIS). Em tal período, entendo inconcebível a concessão do benefício, abstração feita de haver ela exercido efetivamente a atividade laborativa ou não. E que o próprio fato de ter capacidade contributiva já a afasta da assistência social, à evidência. A DIB, assim, deve ser fixada em 01/10/2014.
+- Quanto à correção monetária, esta deve ser aplicada nos termos da Lei n. 6.899/81 e da legislação superveniente, bem como do Manual de Orientação de Procedimentos para os cálculos na Justiça Federal, observado o disposto na Lei n. 11.960/2009, consoante Repercussão Geral no RE n. 870.947, em 16/4/2015, Rel. Min. Luiz Fux.
+- (..).
+- (..).
+- Recurso adesivo improvido. Remessa oficial, tida por interposta, e apelação parcialmente providas.
+Nas razões do especial, aponta o recorrente violação aos arts. 20 da Lei 8.742/93 e 43, § 1º, "a", da Lei 8.213/91, sustentando que "formulou requerimento junto ao INSS em 12/04/2010 (fls. 22 e 40), que foi indevidamente indeferido ante a não comprovação da incapacidade para a vida independente e para o trabalho, há que se fixar o termo inicial a essa data" (fl. 312).
+Afirma que "É inequívoco que a Autora preencheu os requisitos legais para a obtenção do benefício assistencial tendo direito à fixação do termo inicial à data do requerimento administrativo, do qual fez prova documental" (fls. 314/315).
+Defende que "mesmo que constem contribuições da Autora ao INSS no período de julho/2011 a setembro/2014 (fls. 250/251), não se pode desconsiderar as provas produzidas nos autos e presumir que a Autora não tinha direito ao benefício assistenciaI nesse período" (fl. 315).
+Sem contrarrazões.
+Parecer do Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+A irresignação merece acolhimento.
+É bem verdade que a jurisprudência desta Corte, se consolidou no sentido de que, caso o segurado tenha implementado os requisitos legais na data em que formulou requerimento administrativo, deve ser esse o termo inicial para o benefício previdenciário, independentemente de a comprovação ter ocorrido apenas em momento posterior, ou mesmo na seara judicial.
+Nesse sentido, destacam-se:
+PREVIDENCIÁRIO. BENEFICIO ASSISTENCIAL. TERMO A QUO PARA CONCESSÃO. REQUERIMENTO ADMINISTRATIVO. PRECEDENTES.
+Esta Corte já firmou entendimento no sentido de que o benefício deve ser concedido a partir do requerimento administrativo e, na sua ausência, na data da citação. A fixação do termo a quo a partir da juntada do laudo em juízo estimula o enriquecimento ilícito do Instituto, visto que o benefício é devido justamente em razão de incapacidade anterior à própria ação judicial. Precedentes.
+Agravo regimental improvido.
+(AgRg no AREsp 298.910/PB, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/04/2013, DJe 02/05/2013, GN)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. TERMO INICIAL DO BENEFÍCIO. REQUERIMENTO ADMINISTRATIVO (PRECEDENTES). JUROS DE MORA E CORREÇÃO MONETÁRIA. FIXAÇÃO.
+1. Conforme precedentes do Superior Tribunal de Justiça, o termo inicial do benefício previdenciário é a data do requerimento administrativo.
+2. Nas ações previdenciárias, os juros de mora devem ser fixados à razão de 1% ao mês, a partir da citação válida (Súmula 204/STJ). Após a entrada em vigor da Lei n. 11.960/2009, devem ser observados os critérios de atualização nela disciplinados, conforme orientação reafirmada pela Corte Especial do Superior Tribunal de Justiça quando do julgamento do REsp n. 1.205.946/SP, ocorrido em 19/10/2011 (Ministro Benedito Gonçalves, DJe 2/2/2012), submetido ao procedimento dos recursos repetitivos, estabelecido pela Lei n. 11.418/2006.
+3. (..).
+(AgRg no REsp 1.106.411/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 21/02/2013, DJe 01/03/2013, GN)
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. RECONHECIMENTO DE LABOR RURAL. REVISÃO DA RENDA MENSAL INICIAL. TERMO INICIAL. REQUERIMENTO ADMINISTRATIVO DE CONCESSÃO DO BENEFÍCIO. INSUBSISTENTE AS ALEGAÇÕES DE INCIDÊNCIA DE SÚMULA 7/STJ E DE FALTA DE PREQUESTIONAMENTO.
+1. Cinge-se a controvérsia em saber o marco inicial para o pagamento das diferenças decorrentes da revisão do benefício de aposentadoria por tempo de contribuição com o acréscimo resultante do reconhecimento do tempo de serviço rural nos termos em que fora comprovado em juízo. A questão, no ponto, prescinde do exame de provas, porquanto verificar a correta interpretação da norma infraconstitucional aplicável ao caso envolve apenas matéria de direito. Assim, não subsiste a alegação de que o recurso especial não deveria ter sido conhecido em razão do óbice contido na Súmula nº 7/STJ.
+2. Não prospera a alegação de falta de prequestionamento, porquanto, para a configuração do questionamento prévio, não é necessário que haja menção expressa do dispositivo infraconstitucional tido por violado, bastando que no acórdão recorrido a questão tenha sido discutida e decidida fundamentadamente.
+3. Comprovado o exercício de atividade rural, tem o segurado direito à revisão de seu benefício de aposentadoria por tempo de contribuição, desde o requerimento administrativo, pouco importando se, naquela ocasião, o feito foi instruído adequadamente, ou mesmo se continha, ou não, pedido de reconhecimento do tempo de serviço rural. No entanto, é relevante o fato de àquela época, já ter incorporado ao seu patrimônio jurídico o direito ao cômputo a maior do tempo de serviço, nos temos em que fora comprovado posteriormente em juízo.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.128.983/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 26/06/2012, DJe 07/08/2012, GN)
+Entretanto, no caso, o Tribunal de origem, ao analisar o feito assim se manifestou, verbis (fls. 284/286):
+CASO DOS AUTOS
+No caso vertente, a parte autora, nascida em 03/3/1977, requereu o benefício de amparo social por ser deficiente.
+O laudo médico confirma que a autora é total e definitivamente incapaz para o trabalho, por ser portadora de lúpus eritematoso sistêmico (CID M 32), desde janeiro de 2010 (f. 114/116).
+Apesar de não a incapacitar para os atos da vida civil, a doença da autora não é passível de cura.
+Vejamos.
+O conceito de pessoa portadora de deficiência, para fins do benefício de amparo social, foi tipificado no artigo 20, § 2o, da Lei nº 8.742/93, que em sua redação original assim dispunha:
+2o - Para efeito de concessão deste beneficio, a pessoa portadora de deficiência é aquela incapacitada para a vida independente e para o trabalho."
+Como se vê, pressupunha-se que o deficiente era aquele que: a) tinha necessidade de trabalhar, mas não podia, por conta da deficiência; b) estava também incapacitado para a vida independente. Ou seja, o benefício era devido a quem deveria trabalhar, mas não poderia e, além disso, não tinha capacidade para uma vida independente sem a ajuda de terceiros.
+Lícito é concluir que, tal qual os benefícios previdenciários, o benefício de amparo social, enquanto em vigor a redação original do artigo 20 § 2o, da Lei nº 8.742/93, era substitutivo do salário. Isto é, era reservado aos que tinham a possibilidade jurídica de trabalhar, mas não tinham a possibilidade física ou mental para tanto.
+Mas a redação original do artigo 20, § 2o, da LOAS foi alterada pelo Congresso Nacional, exatamente porque sua dicção gerava um sem número de controvérsias interpretativas na jurisprudência.
+A Lei nº 12.435/2011 deu nova redação ao § 2o do artigo 20 da LOAS, que esculpe o perfil da pessoa com deficiência para fins assistenciais, da seguinte forma:
+"§ 2o Para efeito de concessão deste beneficio, considera-se: (Redação dada pela Lei n" 12.435, de 2011)
+I - pessoa com deficiência: aquela que tem impedimentos de longo prazo de natureza física, intelectual ou sensorial, os quais, em interação com diversas barreiras, podem obstruir sua participação plena e efetiva na sociedade com as demais pessoas;
+II - impedimentos de longo prazo: aqueles que incapacitam a pessoa com deficiência para a vida independente e para o trabalho pelo prazo mínimo de 2 (dois) anos."
+(..).
+Nota-se que, com o advento desta novel lei, dispensou-se a menção à incapacidade para o trabalho ou à incapacidade para a vida independente, como requisito à concessão do benefício assistencial.
+Destarte, tal circunstância (a entrada em vigor de nova lei) deve ser levada em conta neste julgamento, ex vi o artigo 462 do CPC/73 e 493 do NCPC.
+Finalmente, a Lei nº 13.146/2015, que "institui a Lei Brasileira de Inclusão da Pessoa com Deficiência", com início de vigência em 02/01/2016, novamente alterou a redação do artigo 20, § 2o, da LOAS, in verbis:
+"§ 2o Para efeito de concessão do beneficio de prestação continuada, considera-se pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas."
+Reafirma-se, assim, que o foco, doravante, para fins de identificação da pessoa com deficiência, passa a ser a existência de impedimentos de longo prazo, apenas e tão somente, tornando-se despicienda a referência à necessidade de trabalho.
+In casu, não há dúvida que tal condição implica limitação ao desempenho de atividades ou restrição na participação social, de modo que resta satisfeito o requisito do artigo 20, § 2º, da Lei nº 8.7423/93, à luz da atual legislação.
+Porém, à vista de tais considerações, concluo que apenas e tão somente em 31/8/2011, quando entrou em vigor a Lei nº 12.470, passou a autora a cumprir o requisito da pessoa com deficiência, previsto em lei.
+Assim, o benefício não poderia ser concedido em DIB em abril de 2010, pois à época a autora a ele não fazia jus.
+(..).
+Entretanto, no período de 01/7/2010 a 30/9/2014, a autora verteu contribuições como titular de empresa ao INSS (vide CNIS). Em tal período, entendo inconcebível a concessão do benefício, abstração feita de haver ela exercido efetivamente a atividade laborativa ou não.
+E que o próprio fato de ter capacidade contributiva já a afasta da assistência social, à evidência.
+(..).
+A DIB, assim, deve ser fixada em 01/10/2014.
+O recorrente, por seu turno, não rebateu, de modo específico, o fundamento segundo o qual serviu para afastar o termo inicial do benefício assistencial a data do requerimento administrativo, qual seja, à vista de tais considerações, concluo que apenas e tão somente em 31/8/2011, quando entrou em vigor a Lei nº 12.470, passou a autora a cumprir o requisito da pessoa com deficiência, previsto em lei. Assim, o benefício não poderia ser concedido em DIB em abril de 2010, pois à época a autora a ele não fazia jus.
+Por outro lado, para afastar a conclusão adotada pela Corte de origem no sentido de que não restou comprovado os requisitos ao benefício assistencial na data do requerimento administrativo, seria indispensável novo exame do acervo fático-probatório dos autos, providência veda pela Súmula 7/STJ.
+Do exposto, nego provimento ao presente agravo.
+Publique-se.
