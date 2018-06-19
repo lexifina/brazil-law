@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que a sentença proferida pelo magistrado de piso julgou parcialmente procedente a ação proposta por beneficiário de aposentadoria contra a Carteira de Previdência dos Economistas de São Paulo e o Instituto de Previdência do Estado de São Paulo - IPESP, condenando os réus "a pagar ao autor o beneficio de aposentadoria a que faz jus, prestações vencidas e vincendas, corrigidas monetariamente mês a mês, a partir do momento em que se tornaram devidas, e acrescidas de juros de mora de 0,5% ao mês", carreando integralmente aos vencidos as verbas da sucumbência, por "sucumbentes em maior proporção" (e-STJ, fl. 33).
+Irresignada a parte e interposto recurso, restou este desprovido por acórdão assim ementado (e-STJ, fl. 39):
+PREVIDÊNCIA SOCIAL - IPESP - Carteira da Previdência dos Economistas de São Paulo - proventos da aposentadoria não pagos - responsabilidade da autarquia pelos pagamentos atrasados e futuros - limitação, porem, às possibilidades financeiras da própria carteira - art. 17, da Lei nº 7.384/62 e 13, do Decreto nº 43544/64 - direito adquirido do autor que se resume à percepção do beneficio, dentro das possibilidades financeiras existentes - recursos não providos, com observação
+Na petição de recurso especial, a parte recorrente alega a ocorrência de violação ao art. 467, do Código de Processo Civil.
+Assevera que "o Recorrente promoveu a presente ação pretendendo a condenação dos Réus, ou seja, CARTEIRA DE PREVIDÊNCIA DOS ECONOMISTAS E INSTITUTO DE PREVIDÊNCIA DO ESTADO DE SÃO PAULO, ao pagamento de todas as prestações vencidas e não pagas, observada a equivalência em salários mínimos a que tem direito o Recorrente, corrigidos monetariamente a partir dos respectivos vencimentos e acrescidas de juros legais, bem como, a determinação do pagamento mês a mês do beneficio adquirido pelo Recorrente, e, ainda sejam as Rés condenadas ao pagamento dos honorários advocatícios e custas processuais." (e-STJ, fl. 106)
+Afirma que a questão trazida no acórdão objurgado está acobertada pelo manto da coisa julgada sendo devido o pagamento de valor devido a título de previdência, sustentando que "a fundamentação do venerando acórdão merece GRITANTE REFORMA, pois reconhece que houve coisa julgada, entretanto, não observou que houve coisa julgada, sim, mas esta a favor do Recorrido e não como entendeu, deixando de dar prestação jurisdicional (e-STJ, fl. 109)".
+Alega, por fim, que deve ser declarada a solidariedade da parte recorrida para arcar com o montante devido à parte recorrente.
+Ausente contrarrazões.
+Inadmitido o recurso em fls. 46/49, a parte ora recorrente interpôs agravo a esta Corte Especial, que foi provido, determinando a subida do recurso especial em fl. 86.
+Parecer ministerial proferido nos termos da seguinte ementa (e-STJ, fl. 180):
+RECURSO ESPECIAL. DIREITO ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR PÚBLICO. APOSENTADORIA. CUMPRIMENTO DE TÍTULO EXECUTIVO JUDICIAL. VIOLAÇÃO À COISA JULGADA. REVOLVIMENTO DA MATÉRIA FÁTICO- PROBATÓRIA DOS AUTOS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+- Parecer pelo não conhecimento do recurso especial.
+É o relatório. Decido.
+Não merece provimento a pretensão recursal.
+A parte recorrente sustenta, em suma, violação à coisa julgada acertada pelo magistrado de piso que supostamente teria declarado a solidariedade da parte recorrida para arcar com o valor que lhe seria devido.
+No entanto, destaca-se que não foi tal matéria debatida de forma específica na origem e não houve a oportuna provocação do exame da quaestio por meio de embargos de declaração, sendo patente a falta de prequestionamento.
+Assim, "os precedentes deste c. STJ são fartos quanto à inadmissibilidade do recurso especial que encampe tese inédita de defesa das posições jurídicas da parte, a qual não tenha sido objeto de debate no Tribunal de origem por ausência de devolução do tema no momento oportuno e pela via adequada, conforme a dicção das Súmulas n. 282 e 356 do STF." (AgRg no AREsp 1266952/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 08/06/2018)
+Destarte, não merece provimento a pretensão recursal.
+Ante o exposto, com fundamento no art. 932, inc. IV, alínea "a", do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
