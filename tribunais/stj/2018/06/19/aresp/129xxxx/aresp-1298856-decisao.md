@@ -1,0 +1,56 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS DE TERCEIRO. BEM DE FAMÍLIA. ALEGAÇÃO DE IMPENHORABILIDADE. ART. 1º DA LEI Nº 8.009/90. VERIFICAÇÃO. DISSÍDIO PRETORIANO. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+[NOME] RIBEIRO [NOME] [NOME] ([NOME]) opôs embargos de terceiro contra [NOME] [NOME] DA [NOME] JÚNIOR ([NOME]), alegando, que é casada com [NOME] desde 30.06.1997 e adquiriu, na constância da relação matrimonial, um imóvel, sendo o único dessa natureza e caracterizado como bem de família.
+Pugnou pela impenhorabilidade do imóvel e a discrepância entre o valor da dívida e do bem. Requereu a suspensão da execução e a procedência dos embargos para determinar o levantamento da penhora incidente sobre o bem (e-STJ, fls.1/8).
+ Os embargos de terceiros foram julgados improcedentes, declarando extinto o processo com resolução do mérito, nos termos do art.487, I, do NCPC.
+Condenou-se a embargante ao pagamento das custas judiciais e e em honorários advocatícios, estes fixados em 10% sobre o valor atualizado da causa (e-STJ, fls. 174/178).
+[NOME] interpôs apelação e o Tribunal de origem negou-lhe provimento, majorando os honorários advocatícios de sucumbência para 15%.
+O acórdão restou assim ementado:
+APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - PENHORA DE IMÓVEL DE PROPRIEDADE DO CÔNJUGE - ALEGAÇÃO DA EXISTÊNCIA DE BEM DE FAMÍLIA - PROVAS QUE DEMONSTRAM QUE A ENTIDADE FAMILIAR NÃO RESIDE NO IMÓVEL - BEM DE FAMÍLIA NÃO CONFIGURADO - RECURSO CONHECIDO E DESPROVIDO.
+1. Para que seja considerado bem de família, o imóvel deve servir de moradia à entidade familiar, ou ainda, segundo a jurisprudência ampliativa inaugurada pelo Superior Tribunal de Justiça, que se trate de imóvel alugado cuja renda seja utilizada para a garantia da moradia familiar em outro local. Tais requisitos, entretanto, não foram comprovados pela embargante. 2. Recurso conhecido e desprovido (e-STJ, fl.244).
+Os embargos de declaração opostos por [NOME] foram rejeitados (e-STJ, fls. 249/266 e 319/322).
+Inconformada, [NOME] interpôs recurso especial com base no art. 105, III, c, da Constituição Federal, sustentando a violação do art.1º, da lei nº 8.009/90, alegando que o imóvel, objeto de penhora, não teria sido dado em garantia, e que foi demonstrado que ele seria o único bem de família. Asseverou que os acórdãos paradigmas trazidos divergem do acórdão do Tribunal de origem quanto à impenhorabilidade absoluta do único imóvel bem de família (e-STJ, fls.324/362).
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial (e-STJ, fls.423/425 e 474/494).
+Contraminuta não apresentada (e-STJ, fls.554).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+No caso dos autos, o Tribunal de origem afirmou no acórdão objurgado que os requisitos para declarar o imóvel, objeto de penhora, como bem de família, não foram comprovados, conforme se lê dos seguintes trechos:
+Trata-se de Embargos de Terceiro ajuizado por [NOME] em desfavor de [NOME]. A embargante pretende a desconstituição de penhora efetuada sobre imóvel de propriedade de seu marido, [NOME], argumentando tratar-se de bem de família.
+A sentença julgou improcedente o pedido inicial, ao fundamento de que não estão presentes os requisitos legais para caracterização do bem de família.
+Contra tal decisão a embargante maneja recurso de apelação aduzindo que as provas produzidas demonstram que o bem penhorado é o único imóvel de sua propriedade, e o local em que reside. Argumenta que o imóvel da Rua Dom Aquino, n. 1.828, é de propriedade do Grupo Empresarial Nipon, cujos sócios proprietários são a autora/apelante e seu esposo, estando alugado unicamente para fins comerciais.
+O recurso deve ser desprovido.
+Dispõe a Lei 8.009/90 que:
+"Art. Io. O imóvel residencial próprio do casal, ou da entidade familiar, é impenhorável e não responderá por qualquer tipo de dívida civil, comercial, fiscal, previdenciária ou de outra natureza, contraída pelos cônjuges ou pelos pais ou filhos que sejam seus proprietários e nele residam, salvo nas hipóteses previstas nesta lei.
+Art. 5o. Para os efeitos de impenhorabilidade, de que trata esta lei, considera-se residência um único imóvel utilizado pelo casal ou pela entidade familiar para moradia permanente.".
+Por conseguinte, para que seja considerado bem de família, o imóvel deve servir de moradia à entidade familiar, ou ainda, segundo a jurisprudência ampliativa inaugurada pelo Superior Tribunal de Justiça, que se trate de imóvel alugado cuja renda seja utilizada para a garantia da moradia familiar em outro local. Tais requisitos, entretanto, não foram comprovados pela embargante. De fato, tanto na petição inicial quanto nos documentos assinados pela embargante, tal como procuração de seu patrono e declaração de hipossuficiência (f. 09 e 12), a requerente informa que reside na Rua Dom Aquino n. 1828, endereço distinto do imóvel a que pretende ver reconhecida a impenhorabilidade, localizado na Rua Dom Pedro I, n. 876.
+Não basta, portanto, a juntada de certidões negativas de registro, que pretende provar a propriedade sobre um único bem imóvel, se não restar demonstrado que o bem constrito serve de residência para a autora, ou de fonte exclusiva de renda que lhe garanta a subsistência. Por outro lado, a simples juntada de conta de telefone da embargante no local do imóvel penhorado não é apta a demostrar a fixação de residência, mormente quando contrariada pelos demais documentos mencionados.
+Na mesma esteira, verifica-se que a embargante informou que o imóvel localizado na Rua Dom Aquino estaria relacionado ao exercício de seu comércio, mas da declaração contida no "Requerimento de Empresário" assinada pela autora (f. 166) consta que a empresa estaria fixada na Rua Maracajú, n. 594. Neste mesmo documento a requerente ainda declarou residir em outro imóvel, situado na Rua dos Alamos, n. 179.
+As provas produzidas nos autos, portanto, indicam que a embargante não reside no imóvel penhorado, fato que indica que tal bem não passa de fonte de renda a mais para o casal, de modo que o ônus da prova de que se trata de bem de família, nesse caso, é seu. E desse ônus, a meu juízo, a autora não se desincumbiu (e-STJ, fls. 245/247).
+Dessa forma, rever a conclusão à que chegou o Tribunal a quo, ou seja, se [NOME] comprovou ou não os requisitos para que fosse declarasse o imóvel, objeto de penhora, como bem de família, demandaria a reavaliação de fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da mencionada Súmula nº 7 desta Corte, segundo a qual: A pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido, confiram-se precedentes:
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENHORA DE IMÓVEL. ALEGAÇÃO DO DEVEDOR DE QUE O BEM SERIA IMPENHORÁVEL. CARACTERIZAÇÃO DO IMÓVEL COMO BEM DE FAMÍLIA E COMO PEQUENA PROPRIEDADE RURAL TRABALHADA PELA FAMÍLIA. PRETENSÃO DE QUE SEJA FORMADA NOVA CONVICÇÃO ACERCA DOS FATOS DA CAUSA A PARTIR DO REEXAME DAS PROVAS. IMPOSSIBILIDADE. ALEGAÇÃO DE QUE A PRETENSÃO RECURSAL SE LIMITA À REVALORAÇÃO DA PROVA, À REQUALIFICAÇÃO JURÍDICA DOS FATOS ASSENTADOS NO ACÓRDÃO RECORRIDO OU À VIOLAÇÃO DE REGRAS DE DIREITO PROBATÓRIO. NÃO CARACTERIZAÇÃO. ENUNCIADO N. 7 DA SÚMULA DO STJ. AUSÊNCIA DE ARGUMENTOS APTOS A INFIRMAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O entendimento expresso no enunciado n. 7 da Súmula do STJ apenas pode ser afastado nas hipóteses em que o recurso especial veicula questões eminentemente jurídicas, sem impugnar o quadro fático delineado pelas instâncias ordinárias no acórdão recorrido.
+2. Somente se poderá dizer que a pretensão recursal se limita à revaloração da prova quando o inconformismo veicular alegações de contrariedade ou negativa de vigência às normas legais federais atinentes ao direito probatório. Precedente.
+3. Se o agravante não traz argumentos aptos a infirmar os fundamentos da decisão agravada, deve-se negar provimento ao agravo regimental. Precedente.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 638.339/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 18/6/2015, DJe 26/6/2015)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CIVIL. DIREITO REAL DE GARANTIA. HIPOTECA. VALIDADE. AVERBAÇÃO NO CARTÓRIO DE REGISTRO DE IMÓVEIS. NÃO OCORRÊNCIA. BEM DE FAMÍLIA. IMPENHORABILIDADE. HIPÓTESE NÃO CONFIGURADA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ.
+1. É penhorável o bem de família de propriedade de sócio dado em garantia de contrato celebrado por pessoa jurídica se o imóvel foi oferecido como garantia real em benefício da entidade familiar, hipótese que se subsume à exceção prevista no art. 3º, V, da Lei n.
+8.009/90.
+2. É inviável, na via do recurso especial, o reconhecimento da não incidência da exceção prevista no art. 3º, V, da Lei n. 8.009/90 e, por conseguinte, da impenhorabilidade do bem se, para tanto, for necessário o reexame de provas. Incidência da Súmula n. 7 do STJ.
+3. Decisão mantida por seus fundamentos.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1.449.423/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, julgado em 5/3/2015, DJe 31/3/2015)
+Ressalte-se que a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+A propósito, confira-se o precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INFECÇÃO HOSPITALAR. INTERVENÇÃO DO MINISTÉRIO PÚBLICO. DESNECESSIDADE NO FEITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.  ..
+5. Inviável o conhecimento do recurso pela alínea "c" do permissivo constitucional se a análise do dissenso pretoriano depender do revolvimento de matéria fático probatória.
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp nº 557.517/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 5/9/14 - sem destaque no original)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de [NOME], nos termos do art. 85, §§ 2º e 11, do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
