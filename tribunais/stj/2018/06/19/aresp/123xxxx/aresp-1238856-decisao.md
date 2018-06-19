@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por NOVA SUÍÇA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de Goiás assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE NULIDADE DE SENTENÇA ARBITRAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. CONTRATO DE ADESÃO. CONVENÇÃO DE ARBITRAGEM. NATUREZA COMPULSÓRIA. PRECEDENTES DO STJ. RECURSO ADESIVO. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. MATÉRIA PREJUDICADA. INVERSÃO DO ÔNUS. SENTENÇA CASSADA. JULGAMENTO DE PROCEDÊNCIA DA AÇÃO. PERMISSÃO DO CPC/2015.
+1. Efetivamente, mostrando-se induvidosa a existência de relação de consumo e da natureza jurídica de contrato de adesão, a validade da cláusula compromissória só terá eficácia "se o aderente tomar a iniciativa de instituir a arbitragem ou concordar, expressamente, com a sua instituição, desde que por escrito em documento anexo ou em negrito, com a assinatura ou visto especialmente para esta cláusula", nos termos do art. 4º, §2º da Lei de Arbitragem (Lei n. 9.307/96).
+2. Configura-se a prejudicialidade do recurso adesivo interposto para, tão somente, requerer a majoração dos honorários sucumbenciais os quais foram invertidos em favor da apelante considerando que o Juízo ad quem desconstituiu a sentença e, nos termos do permissivo legal expresso no art. 1013, §3º, inc. I do CPC/2015, julgou procedente o pedido de nulidade da sentença arbitral. APELAÇÃO CÍVEL CONHECIDA E PROVIDA. SENTENÇA CASSADA. PROCEDÊNCIA DA AÇÃO DE NULIDADE DA SENTENÇA ARBITRAL" (fls. 349/350, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(1) artigos 11, 371, 489, II, e 1.022, I e II, do Código de Processo Civil de 2015 - porque teria havido negativa de prestação jurisdicional no julgamento dos aclaratórios;
+(2) arts. 7º, 21, § 3º, e 26 da Lei nº 9.307/1996 - sustentando a validade da sentença arbitral em virtude da celebração de termo de compromisso arbitral, no qual a recorrida ratifica a cláusula compromissória anteriormente instituída e
+(3) art. 4º, § 2º, da Lei nº 9.307/1996 - alegando que a cláusula de arbitragem foi inserida no contrato de adesão em destaque, com letras em negrito e com campo específico de assinatura.
+Após a apresentação das contrarrazões (fls. 514/519, e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No tocante à violação dos arts. 11, 371, 489 e 1.022 do CPC/2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, o seguinte precedente:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO DO ATO DE APOSENTADORIA. PRESCRIÇÃO DO FUNDO DE DIREITO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/15. NÃO CARACTERIZADA. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. MATÉRIA INSUSCETÍVEL DE EXAME NA VIA ESPECIAL. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022 do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..)
+5. Agravo interno a que se nega provimento" (AgInt no REsp 1.654.518/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/6/2017, DJe 22/6/2017- grifou-se).
+Quanto aos arts. 7º, 21, § 3º, e 26 da Lei nº 9.307/1996,verifica-se que a matéria não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+No que tange ao art. 4º, § 2º, da Lei nº 9.307/1996, a Corte local entendeu pela nulidade da sentença arbitral diante dos vícios constantes na cláusula compromissória, merecendo destaque os seguintes fundamentos:
+"(..)
+Nessa linha de raciocínio, observa-se que, embora o contrato de compromisso de compra e venda indique, em sua cláusula décima sexta (fl. 44), que qualquer controvérsia acerca do pacto deverá ser discutida na 2a Corte de Conciliação e Arbitragem de Goiânia, nos contratos de adesão, como é o caso, a cláusula compromissória somente tem eficácia se a iniciativa da arbitragem partir da aderente, ou se houver concordância expressa com a sua instituição, com a assinatura, ou visto, especialmente para essa cláusula.
+(..)" (fls. 341/342, e-STJ).
+Com feito, rever tais conclusões, a partir da tese de que a cláusula de arbitragem atendeu aos requisitos legais, demandaria a análise de circunstâncias fático-probatórias dos autos e de cláusula contratuais, o que é inviável no recurso especial pelos óbices das Súmulas nºs 5 e 7/STJ.
+Além disso, nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em R$ 1.000,00 (mil reais), os quais devem ser majorados para R$ 1.500,00 (mil e quinhentos reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
