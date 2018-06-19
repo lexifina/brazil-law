@@ -1,0 +1,41 @@
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. PROPRIEDADE INDUSTRIAL. REGISTRO DO DESENHO INDUSTRIAL. IMPOSSIBILIDADE. AUSÊNCIA DE NOVIDADE DO PRODUTO. RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. ANÁLISE ACERCA DE EVENTUAL OCORRÊNCIA DE VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. REEXAME DE PROVAS. SÚMULA Nº 7, DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL
+DECISÃO
+MEDAL METALÚRGICA DALLA LANA LTDA promoveu contra INDÚSTRIAS MARRUCCI LTDA E INSTITUTO NACIONAL DE PROPRIEDADE INDUSTRIAL - INPI, ação de nulidade de registro de patente de desenho industrial.
+O pedido foi julgado procedente (e-STJ, fls. 868/877).
+Embargos de declaração opostos em face da sentença por INDÚSTRIAS MARRUCCI foram rejeitados (e-STJ, fls. 898/900).
+Interposta apelação por INDÚSTRIAS MARRUCCI, o Tribunal de origem negou-lhe provimento, em acórdão assim ementado:
+PROPRIEDADE INDUSTRIAL - APELAÇÃO CÍVEL - REGISTRO DO DESENHO INDUSTRIAL DA APELANTE - IMPOSSIBILIDADE - NÃO PREENCHIMENTO DOS REQUISITOS PREVISTOS NA LEI 9.279/96.
+1- O cerne da questão consiste em decidir se o desenho industrial DI 6604069-8 preencheu o requisito da novidade previsto no art. 96 da Lei 9.279/96, ante os documentos trazidos pela autora/apelada, consubstanciados na divulgação do catálogo eletrônico contendo o objeto do referido desenho industrial através do site da ré/apelante em 06/5/2005 (www.marrucci.com.br), além das seguintes notas fiscais: 000522 (27/11/1995), 060860 (18/12/2003), 064049 (24/5/2004) e 064220 (01/6/2004);
+2- Tendo sido elaborado laudo pericial, o perito judicial consagrou o seguinte posicionamento final: "Com base na Lei 9.279/96, de 14.05.1996, LPI - Lei da Propriedade Industrial, bem como nas respostas aos quesitos formulados pelas partes, concluímos que o registro de desenho industrial DI 6604069-8 deve ser anulado, pois o mesmo contraria os artigos 95, 96, 97 e 100, II da LPI";
+3- Restou caracterizada a efetiva comercialização da bomba BHM200 objeto do DI 6604069-8, desde 27/11/1995 (nota fiscal 000522 - fl. 92), além da divulgação ocorrida através do catálogo eletrônico da apelante em 06/5/2005 (fls. 81/88), ou seja, ambos em data anterior ao depósito do referido desenho industrial ocorrido em 30/10/2006 (fl. 36), razão pela qual deve ser decretada a nulidade do DI 6604069-8;
+4- Remessa necessária e apelação conhecidas e desprovidas (e-STJ, fls. 946/947).
+Inconformada, INDÚSTRIAS MARRUCCI interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, sustentando a ocorrência de violação dos arts. 96 da Lei nº 9.279/96 e art. 5º, XXIX da Constituição Federal, alegando, em síntese, que não houve comprovação de que tenha havido comercialização e/ou divulgação do objeto do registro anulado em data anterior ao depósito, não se podendo determinar a ausência de novidade do produto.
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta apresentada apenas pelo INPI (e-STJ, fls. 989/990).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Inicialmente cumpre esclarecer que não é possível a análise de eventual ofensa a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal.
+A propósito, veja-se o precedente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. MATÉRIA CONSTITUCIONAL. ANÁLISE. IMPOSSIBILIDADE. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA Nº 284/STF. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E O ENTENDIMENTO DESTA CORTE.
+1.  ..
+2. Nos termos do art. 105, III, da Constituição Federal, não compete a esta Corte o exame de suposta violação de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+3. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de especificar de que forma o dispositivo legal teria sido objeto de violação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+4. Rever a conclusão do aresto impugnado, a fim de reconhecer que a intenção do autor é discutir direito real de propriedade, encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+5. Estando o acórdão recorrido em consonância com o entendimento do Superior Tribunal de Justiça, correta a decisão que aplica o disposto na Súmula nº 568 desta Corte.
+6. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1125628/ES, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 12/12/2017, DJe 02/02/2018 - sem destaque no original)
+Ao Corte de origem, após análise dos autos, concluiu pela ausência de novidade do produto, devendo ser anulado o registro. Confira-se o aresto recorrido:
+O cerne da questão consiste em decidir se o desenho industrial DI 6604069-8 preencheu o requisito da novidade previsto no art. 96 da Lei 9.279/96, ante os documentos trazidos pela autora/apelada, consubstanciados na divulgação do catálogo eletrônico contendo o objeto do referido desenho industrial através do site da ré/apelante em 06/5/2005 (www.marrucci.com.br - fls. 81/88), além das seguintes notas fiscais: 000522 (27/11/1995 - fl. 92), 060860 (18/12/2003 - fl. 93), 064049 (24/5/2004 - fl. 94) e 064220 (01/6/2004 - fl. 95).
+No que se refere ao requisito da novidade, o art. 96 da Lei 9.279/96 estabelece que "O desenho industrial é considerado novo quando não compreendido no estado da técnica." O estado da técnica por sua vez "é constituído por tudo aquilo tornado acessível ao público antes da data de depósito do pedido, no Brasil ou no exterior, por uso ou qualquer outro meio, ressalvado o disposto no § 3º deste artigo e no art. 99" (§1º do art. 96 da LPI).
+No caso em tela, tendo sido elaborado laudo pericial, o perito judicial consagrou o seguinte posicionamento final (fl. 792): "Com base na Lei 9.279/96, de 14.05.1996, LPI - Lei da Propriedade Industrial, bem como nas respostas aos quesitos formulados pelas partes, concluímos que o registro de desenho industrial DI 6604069-8 deve ser anulado, pois o mesmo contraria os artigos 95, 96, 97 e 100, II da LPI"
+ .. .
+Portanto, restou caracterizada a efetiva comercialização da bomba BHM200, objeto do DI 6604069-8, desde 27/11/1995 (nota fiscal 000522 - fl. 92), além da divulgação ocorrida através do catálogo eletrônico da apelante em 06/5/2005 (fls. 81/88), ou seja, ambos em data anterior ao depósito do referido desenho industrial ocorrido em 30/10/2006 (fl. 36).
+Desta forma, não procedem os argumentos da apelante diante do conjunto probatório, notadamente o lado pericial que evidenciou que o desenho industrial DI 6604069-8 da INDÚSTRIAS MARRUCCI LTDA. foi concedido em violação à Lei 9.279/96, razão pela qual deve ser decretada a sua nulidade (e-STJ, fls. 939/943).
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários advocatícios, pois já fixados no limite legal.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
