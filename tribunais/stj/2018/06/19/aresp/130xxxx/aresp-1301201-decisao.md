@@ -1,0 +1,20 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ELIO DE MORAES contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+CIVIL E PROCESSO CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. RETIRADA, PELO REQUERIDO, DE BENS DO SALÃO DE BELEZA ADMINISTRADO PELA AUTORA. ALEGAÇÃO DE ILEGITIMIDADE ATIVA POR FALTA DE DEMONSTRAÇÃO DA PROPRIEDADE DOS BENS. INOCORRÊNCIA. NOTAS FISCAIS QUE, ALÉM DE ESTAREM NA POSSE DA AUTORA, FORAM EMITIDAS EM NOME DE PESSOA DE SUA FAMÍLIA. DANOS MORAIS. INOCORRÊNCIA. NÃO DEMONSTRAÇÃO DOS FATOS QUE PODERIAM ENSEJAR O DEVER DE INDENIZAR.
+1. Verifica-se dos documentos acostados aos autos pela autora que as notas fiscais e recibos de compra dos bens estavam em sua posse, e, embora emitidos em nome de terceira pessoa, trata- se, obviamente, de pessoa da família da requerente, que inclusive não pudera realizar a locação em seu próprio nome por possuir restrição de crédito. Além disso, a testemunha arrolada pelo próprio requerido confirmou que este efetuou a retirada dos bens.
+2. Nada há, nos autos, que comprove de forma cabal o alegado pela autora em relação aos supostos danos morais experimentados. A testemunha do requerido, conforme bem salientado pela r. sentença, fui suficientemente elucidativa no tocante à retirada, pelo requerido, dos bens do imóvel locado, mas não em relação ao suposto dano moral.
+3. Recursos improvidos.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 267, inciso I e IV, 295, incisos II e III e 461, do CPC de 1973.
+Defende haver inépcia da inicial, ilegitimidade ativa e falta de interesse de agir, pois a ora recorrida pede a devolução de equipamentos que não provou ser de sua propriedade. E continua:
+Portanto, a recorrida não possui propriedade e nem legitimidade para requerer a obrigação de fazer de devolução de equipamentos que não prova serem seus, o que claramente caracteriza a falta do interesse de agir.
+É o relatório. DECIDO.
+2. Ao apreciar a controvérsia, o Tribunal local assim consignou:
+2. Preliminarmente, o réu reitera o agravo retido interposto, em que pleiteava a extinção da ação por inépcia da inicial, ilegitimidade ativa e falta de interesse de agir, por violação aos arts. 3º e 267, § 3º, do CPC/73.
+O reclamo, neste tocante, não procede. Os documentos acostados à inicial são suficientes para sustentar a petição inaugural, não havendo que se falar em inépcia, ilegitimidade ativa ou falta de interesse de agir.
+No mérito, alega o apelante que em nenhum momento o depoimento da testemunha por si arrolada demonstrou os fatos alegados pela requerente, o que impediria o édito condenatório, por não ter a requerente demonstrado a propriedade dos bens elencados às fls. 06, 67 e 68.
+Não lhe assiste razão.
+Verifica-se dos documentos acostados aos autos pela autora (fls. 34/63) que as notas fiscais e recibos de compra dos bens estavam em sua posse, e, embora emitidos em nome de terceira pessoa, trata-se, obviamente, de pessoa da família da requerente, que inclusive não pudera realizar a locação em seu próprio nome fazendo-a em nome do réu Amarildo por possuir restrição de crédito. Além disso, a testemunha arrolada pelo próprio requerido confirmou que este efetuou a retirada dos bens.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de verificar as alegações do agravante, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
