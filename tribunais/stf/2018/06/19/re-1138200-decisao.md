@@ -1,0 +1,21 @@
+DECISÃO: O presente recurso extraordinário foi interposto por Aurora Alvaro da Silva Moraes e outro(a/s) contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “APOSENTADOS E PENSIONISTAS DA EXTINTA FEPASA – Pretensão ao recebimento dos adicionais por tempo de serviço (Quinquênios) – Impossibilidade – Vantagem dirigida somente aos servidores estatutários – Indevida vantagem aos celetistas – Absorção, ademais, dos antigos adicionais temporais pelo ’salário compreensivo’ – Sentença de improcedência – Recurso não provido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Constituição do Estado de São Paulo, Lei estadual nº 9.343/96 e Decreto estadual nº 35.530/59), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de São Paulo, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local:
+    “Em sendo assim, não é possível a criação de um regime híbrido, conferindo-lhe as vantagens do regime estatutário com o contratual pela CLT, pelo que não lhes é aplicável o artigo 129 da Constituição do Estado de São Paulo.
+    …..................................................................................................
+    (…) com a extinção da FEPASA em 18.02.1988, a Fazenda do Estado assumiu, por força do artigo 4º da Lei Estadual 9.343, de 22 de fevereiro de 1996, a responsabilidade de complementação dos proventos de aposentadoria e pensões devidos aos ferroviários e beneficiários:
+    …..................................................................................................
+    É certo igualmente que os ferroviários estavam sujeitos ao regime especial de trabalho estabelecido no Decreto 35.530/59, que lhes assegurava o direito ao recebimento de adicional por tempo de serviço, nos termos dos artigos 70, I, 76 e 78.
+    Mas, após a constituição da FEPASA, foi proposto novo contrato de trabalho aos ferroviários no qual ocorreu a absorção dos antigos adicionais temporais pelo ‘salário compreensivo’.”
+    Impõe-se registrar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 835.783-AgR/SP, Rel. Min. AYRES BRITTO – ARE 727.840/SP, Rel. Min. TEORI ZAVASCKI – ARE 1.068.415/SP, Rel. Min. LUIZ FUX – ARE 1.107.648/SP, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no  § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 19 de junho de 2018.
+Ministro CELSO DE MELLO
+Relator
