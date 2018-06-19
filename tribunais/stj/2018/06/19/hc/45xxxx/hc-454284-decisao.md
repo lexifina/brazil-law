@@ -1,0 +1,21 @@
+DECISÃO
+LOILSON CACHOPO, paciente neste habeas corpus substitutivo de recurso especial, alega sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 2070930-82.2018.8.26.0000.
+Depreende-se dos autos que o Juízo da execução penal indeferiu o pedido de progressão ao regime semiaberto, oportunidade em que determinou, ainda, a realização de exame criminológico. Irresignada, a defesa impetrou prévio mandamus, cuja ordem o Tribunal de Justiça denegou.
+Nesta Corte a defesa alega a ocorrência de constrangimento ilegal, sob o fundamento de que, "no caso sub judice, a exigência sugerida pelo MM. Juiz de 1ª Instância mostra-se totalmente arbitrária e desnecessária, ante a pacifica jurisprudência do STJ" (fl. 16).
+Requer, assim, a concessão da ordem para "afastar a exigência do exame criminológico e determinar que o 1º Juízo das Execuções Penais de Bauru/SP, independentemente da perícia, prossiga no exame dos requisitos para a progressão de regime" (fl. 17).
+Decido.
+A respeito da matéria suscitada, esta Corte Superior possui o entendimento de que "com as alterações trazidas pela Lei n. 10.792/2003, o exame criminológico deixa de ser requisito obrigatório para a progressão de regime, podendo, todavia, ser determinado de maneira fundamentada pelo Juízo da execução penal, de acordo com as peculiaridades do caso" (HC n. 122.486/MT, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/4/2011).
+Vale dizer, embora não mais se exija, de plano, a realização de exame criminológico, o Juízo da execução penal ou mesmo o Tribunal de Justiça estadual podem, de forma devidamente fundamentada e diante das peculiaridades do caso concreto, determinar a realização do referido exame para a formação do seu convencimento acerca do implemento do requisito subjetivo.
+Nesse sentido, foi editada a Súmula n. 439 do STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+No caso vertente, o Juízo singular, ao analisar o pleito defensivo, salientou que "o sentenciado possui condenação por crimes reiterados de roubo qualificado, tendo sido condenado em razão de sua periculosidade à expressiva pena reclusiva (sessenta e dois anos e dezessete dias)" (fl. 59, destaquei).
+Portal razão, apontou que "a periculosidade e a insensibilidade moral demonstradas pelo sentenciado na prática dos referidos crimes, exige análise rigorosa de todos os detalhes para aferição do requisito subjetivo" (fl. 59).
+Portanto, verifica-se que o Juízo da execução penal não indicou qualquer fundamento hábil a demonstrar que o atestado de bom comportamento carcerário não é suficiente para aferir o preenchimento do requisito de ordem subjetiva. Limitou-se a ressaltar tão-somente que o sentenciado cometeu crimes graves e possui longa pena a cumprir, o que, sem maiores detalhamentos, não justifica a determinação da produção da prova pericial, uma vez que não reflete a avaliação do efetivo cumprimento da pena pelo condenado.
+Confira-se:
+ ..
+A gravidade abstrata do delito praticado e a longevidade da pena a cumprir não servem, por si sós, como fundamento para a realização do exame criminológico, tendo em vista que a exigência da perícia técnica deve ser fundamentada com base em algum elemento concreto, constante da execução da pena, que ateste o demérito do apenado.
+ ..
+Habeas corpus não conhecido. Ordem concedida de ofício, para restabelecer a decisão monocrática que concedeu ao paciente a progressão ao regime semiaberto (HC n. 326.430/SP, Rel. Ministro Ericson Maranho (Desembargador convocado do TJ/SP), 6ª T., DJe 31/3/2016, destaquei).
+Dessa forma, o que se verifica é que foi determinada a elaboração de laudo pericial sem a devida fundamentação, com fulcro apenas em considerações abstratas acerca dos delitos cometidos pelo reeducando, a impor-lhe patente constrangimento ilegal.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem postulada, a fim de afastar a exigência de realização do exame criminológico e determinar que o Juízo de primeiro grau analise o pleito de progressão de regime.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
