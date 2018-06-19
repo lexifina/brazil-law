@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por GUAINCO MINERAÇÃO E COMÉRCIO LTDA. E OUTRAS em face de acórdão da Quarta Turma, relatado pelo Excelentíssimo Senhor Ministro Luis Felipe Salomão, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ARTS. 489 E 1.022 DO CPC. AUSÊNCIA DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. FALTA DE COTEJO ANALÍTICO. DISSÍDIO NÃO CONFIGURADO. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação dos arts. 489 e 1.022 do Código de Processo Civil pois o Tribunal de origem dirimiu as questões pertinentes ao litígio - tal como lhe foram postas e submetidas -, apresentando todos os fundamentos jurídicos pertinentes, à formação do juízo cognitivo proferido na espécie.
+2. O Tribunal de origem consigna a ausência de nulidade decorrente da falta de liquidação da sentença. Destaca que o título executivo foi devidamente constituído, sendo que os cálculos foram apresentados e, neste momento processual, não há mais possibilidade de discussão sobre o débito regularmente apurado. A reforma do aresto, nestes aspectos, demanda inegável necessidade de reexame de matéria probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+3. Para a análise da admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, torna-se imprescindível a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, a fim de demonstrar a divergência jurisprudencial existente, o que não ocorreu no caso em apreço.
+4. Agravo interno não provido.
+Defendem as recorrentes a existência de dissídio jurisprudencial quanto à possibilidade da nulidade, como vício fundamental do título executivo, ser suscitada a qualquer tempo, independentemente do ajuizamento de embargos do devedor, apontando como paradigmas o REsp n. 124.364/PE, Terceira Turma, e o REsp n. 928.631/DF, Primeira Turma.
+É o relatório.
+Em que pesem os argumentos das partes agravantes, não merece guarida a pretensão recursal.
+Extrai-se dos autos que o acórdão embargado, oriundo da Quarta Turma, não examinou o mérito da tese defendida na presente insurgência, pela incidência da Súmula n. 7/STJ, conforme os trechos abaixo, extraídos do voto condutor do julgado:
+3. De outra senda, o Tribunal de origem consigna a inexistência de nulidade decorrente da ausência de liquidação da sentença. Ocorre que o título executivo foi devidamente constituído, sendo que os cálculos foram apresentados e, neste momento processual, não há mais possibilidade de discussão sobre o débito regularmente apurado.
+A propósito, colho o seguinte excerto do acórdão recorrido:
+"(..) De proêmio, afastam-se a alegada nulidade por ausência de liquidação de sentença. Como se denota dos autos principais, os cálculos foram apresentados e, neste momento processual, inviável nova discussão sobre o débito regularmente apurado.
+Quanto à constrição determinada, trata-se de penhora em face das cotas que o Executado possui nas empresas do grupo econômico formado por diversas pessoas jurídicas." (fl. 330) - g.n.
+3.1 De outro lado, ao apreciar os embargos de declaração opostos ao acórdão de agravo de instrumento, o Tribunal de Justiça Paulista ressaltou que eventual divergência acerca do quantum executado deve ser feito através das vias adequadas e não na atual fase de cumprimento de sentença que se encontra a ação ordinária :
+"(..) Ademais, reitera-se a inexistência de nulidade da execução. Eventual discussão acerca do quantum devido deverá ser realizada pelas vias próprias para tanto." (fl. 361).
+3.2 A reforma do aresto, nestes aspectos, demanda inegável necessidade de reexame de matéria probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+Tem aplicação, pois, no presente caso, a Súmula n. 315/STJ, por analogia, ante o descabimento do recurso uniformizador previsto no artigo 1.043 do CPC/2015 contra acórdão proferido em agravo em recurso especial no qual não se examinou o mérito do apelo nobre.
+Nessa linha de entendimento, os seguintes precedentes da Corte Especial:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. ACÓRDÃO EMBARGADO PROFERIDO EM SEDE DE AGRAVO EM RECURSO ESPECIAL. MÉRITO DO APELO NOBRE NÃO EXAMINADO. INCIDÊNCIA DA SÚMULA N. 315/STJ, POR ANALOGIA. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. AGRAVO IMPROVIDO.
+1. Os embargos de divergência têm por finalidade precípua dirimir dissídio existente entre julgados proferidos nesta Corte Superior, não servindo para revisar o acerto ou desacerto das técnicas utilizadas para o processamento do recurso especial, apresentando-se descabida, ainda, sua utilização para discussão acerca de regra técnica de conhecimento do apelo nobre. Precedentes.
+2. Segundo a pacífica jurisprudência desta Corte Superior, é inadmissível a interposição do recurso uniformizador contra acórdão proferido em agravo em recurso especial no qual não se examinou o mérito do apelo nobre por óbices de admissibilidade, por incidência analógica da Súmula n. 315/STJ, como na hipótese dos autos, onde foram aplicadas, em relação às teses defendidas pela então recorrente  especialmente quanto ao suposto cerceamento de defesa  , as Súmulas n. 5 e n. 7 deste Superior Tribunal de Justiça.
+3. Inaplicabilidade da multa do § 4º do artigo 1.021 do CPC/2015, porque, embora a ora agravante tenha interposto vários recursos neste feito, descabe a incidência automática do referido dispositivo legal quando exercitado o regular direito de recorrer.
+4. Agravo interno improvido.
+(AgInt nos EAREsp 473.252/SC, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 07/02/2018, DJe 20/02/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE ANÁLISE MERITÓRIA DO APELO ESPECIAL. INCIDÊNCIA DA SÚMULA 315/STJ. EMBARGOS DE DIVERGÊNCIA REJEITADOS LIMINARMENTE. HONORÁRIOS MAJORADOS QUE RESTARAM LIMITADOS AO TETO LEGAL. ART. 85, DO CPC. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+I - Consoante o art. 1.043 do CPC/2015, os Embargos de Divergência somente são admissíveis quando os acórdãos embargado e paradigma forem de mérito, ou quando um deles, embora não conhecendo do recurso, tenha apreciado a controvérsia.
+II - In casu, o acórdão embargado não apreciou a controvérsia, no mérito, eis que proferido em sede de agravo interno manejado em agravo em recurso especial, do qual não se adentrou a análise meritória, assentando-se o julgado na ausência de impugnação específica quanto a Súmula 83/STJ.
+III - Incidência, no particular, do teor da Súmula n. 315 do STJ, segundo a qual "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+IV - Tendo os honorários advocatícios majorados sido limitados ao teto legal, inexiste descumprimento ao comando do art. 85, § 2º, do CPC.
+Agravo interno não provido.
+(AgInt nos EAREsp 940.302/PE, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 01/02/2018, DJe 09/02/2018)
+Ante o exposto, com fulcro no artigo 266-C do Regimento Interno do STJ, alterado pela Emenda Regimental n. 22/2016, INDEFERE-SE LIMINARMENTE OS EMBARGOS DE DIVERGÊNCIA.
+Publique-se.
+Intimem-se.
