@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado (fl. 236) :
+PREVIDENCIÁRIO E CONSTITUCIONAL. APOSENTADORIA POR IDADE. RURÍCOLA. TEMPO DE SERVIÇO RURAL. DESCARACTERIZAÇÃO. CNIS. TRABALHO URBANO. VÍNCULO ESTATUTÁRIO. IMPROCEDÊNCIA DO PEDIDO. SENTENÇA REFORMADA.
+1. A documentação juntada aos autos demonstra que o esposo da autora trabalhou na Prefeitura de Montes Claros de 1996 a 2008, ininterruptamente, o que a desqualifica como segurado especial e, consequentemente, a autora. Afastamento, pois, da presunção que decorre da indicação da condição de rurícola na certidão de casamento.
+2. Considerado o caráter social que permeia o Direito Previdenciário, a coisa julgada opera efeitos secundum eventum litis ou secundum eventum probationis, permitindo a renovação do pedido, ante novas circunstâncias ou novas provas. Precedentes.
+3. Apelação provida para julgar improcedente a pretensão inicial.
+Naquela decisão, tendo como pano de fundo pedido de aposentadoria por idade, foi decidido que a parte autora não tem direito à aposentadoria, porém fica isenta da devolução dos valores já recebidos.
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial (fls. 258-263) , o recorrente aponta violação do art. 876 do Código Civil.
+Sustenta, em síntese, que se no próprio bojo do acórdão recorrido há expressa menção ou reconhecimento da legalidade da revisão dos benefícios recebidos pelo Autor, não poderia a decisão recorrida trilhar no sentido da desnecessidade de reposição das verbas ao argumento de que recebidas em boa-fé, pois a suposta boa-fé não afasta - e nem poderia - a responsabilidade daqueles que receberam os questionados valores.
+Aponta, ainda, divergência do acórdão recorrido com outro proferido pelo TRF da 2ª Região.
+Não foram apresentadas contrarrazões .
+É o relatório. Decido.
+O recurso merece trânsito.
+Um dos requisitos para concessão de antecipação de tutela é a reversibilidade da decisão. Não é possível a concessão da medida se for impossível o restabelecimento da situação anterior no caso da reforma da decisão.
+A tutela antecipada tem característica de provimento provisório e precário, logo sua revogação acarreta a restituição dos valores recebidos em decorrência dela.
+A jurisprudência recente desta Corte de Justiça é no sentido de que os valores de benefícios previdenciários recebidos por força de tutela antecipada posteriormente revogada devem ser devolvidos, haja vista a reversibilidade da medida antecipatória, a ausência de boa-fé objetiva do beneficiário e a vedação do enriquecimento sem causa.
+Nesse sentido, o seguinte precedente proferido sob o rito do art. 543-C do CPC/73, in verbis:
+PREVIDÊNCIA SOCIAL. BENEFÍCIO PREVIDENCIÁRIO. ANTECIPAÇÃO DE TUTELA. REVERSIBILIDADE DA DECISÃO.
+O grande número de ações, e a demora que disso resultou para a prestação jurisdicional, levou o legislador a antecipar a tutela judicial naqueles casos em que, desde logo, houvesse, a partir dos fatos conhecidos, uma grande verossimilhança no direito alegado pelo autor. O pressuposto básico do instituto é a reversibilidade da decisão judicial. Havendo perigo de irreversibilidade, não há tutela antecipada (CPC, art. 273, § 2º). Por isso, quando o juiz antecipa a tutela, está anunciando que seu decisum não é irreversível. Mal sucedida a demanda, o autor da ação responde pelo recebeu indevidamente. O argumento de que ele confiou no juiz ignora o fato de que a parte, no processo, está representada por advogado, o qual sabe que a antecipação de tutela tem natureza precária.
+Para essa solução, há ainda o reforço do direito material. Um dos princípios gerais do direito é o de que não pode haver enriquecimento sem causa. Sendo um princípio geral, ele se aplica ao direito público, e com maior razão neste caso porque o lesado é o patrimônio público. O art. 115, II, da Lei nº 8.213, de 1991, é expresso no sentido de que os benefícios previdenciários pagos indevidamente estão sujeitos à repetição. Uma decisão do Superior Tribunal de Justiça que viesse a desconsiderá-lo estaria, por via transversa, deixando de aplicar norma legal que, a contrario sensu, o Supremo Tribunal Federal declarou constitucional. Com efeito, o art. 115, II, da Lei nº 8.213, de 1991, exige o que o art. 130, parágrafo único na redação originária (declarado inconstitucional pelo Supremo Tribunal Federal - ADI 675) dispensava.
+Orientação a ser seguida nos termos do art. 543-C do Código de Processo Civil: a reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos.
+Recurso especial conhecido e provido.
+(REsp 1401560/MT, Rel. Ministro SÉRGIO KUKINA, Rel. p/ Acórdão Ministro ARI PARGENDLER, PRIMEIRA SEÇÃO, julgado em 12/02/2014, DJe 13/10/2015)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RI/STJ, dou provimento ao recurso especial para reconhecer que há a obrigatoriedade de devolução de valores recebidos em razão de beneficio previdenciário recebido por força tutela antecipada, quando posteriormente a decisão provisória é revogada.
+Publique-se. Intimem-se.
