@@ -1,0 +1,29 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Declaração opostos por [NOME] contra decisão não conheceu do Agravo em Recurso Especial, fundamentada na aplicação a Súmula n. 182/STJ, nos seguintes termos (fls. 1553/1554e):
+No presente caso, o Recurso Especial não foi admitido sob os fundamentos: i) aplicação do enunciado da S. 284/STF, porquanto dissociadas as razões recursais em relação à ação penal ajuizada contra os réus, consistente no empréstimo das provas produzidas; ii) adoção da S. 83/STJ para afirmar que foi adotado o entendimento do STJ no tocante à desnecessidade de prejuízo ao erário para a condenação por ato previsto no art. 11 da Lei de Improbidade Administrativa; e iii) ausência de observância às normas legais para a comprovação de dissídio jurisprudencial (fls. 1490/1492e).
+Entretanto, as razões do Agravo atacam apenas o óbice referente à S. 284/STF, não impugnando, de forma específica, os fundamentos adotados na decisão agravada relacionados à aplicação da S. 83/STJ e à ausência de observância às normas legais para a demonstração de dissídio jurisprudencial, limitando-se a afirmar, no tocante ao prejuízo ao erário, que "(..) a questão que envolve a ausência de prejuízo ao erário não foi posta no Recurso Especial como imprescindível para uma eventual punição, mais como um dos elementos a serem avaliados, com base no princípio da proporcionalidade (..)" (fls. 1.507e), e em relação à não obediência legal para comprovar dissenso jurisprudencial, "(..) a citação dos julgados não teve como foco levantar divergência de decisões entre Tribunais, mas teve o intuito de questionar a conclusão do tribunal de Justiça de Santa Catarina ao ponderar que a conduta dos agravantes configurou ato de improbidade administrativa, pela ausência, no processo, da caracterização do elemento subjetivo" (fl. 1508e).
+Sustentam, em síntese, que a decisão padece de contradição (art. 1.022, I, do CPC), porquanto os embargantes recorreram para sanar a ilegalidade de serem condenados pelo artigo 11 da LIA sem prova de dolo. O Ministério Público recorreu e seu recurso foi negado seguimento com os fundamentos da Juíza de piso que afastou o dolo das condutas imputadas pelo acusador, tendo absolvido, inclusive, os embargantes (fl. 1587e).
+Impugnação às fls. 1596/1601.
+Os embargos foram opostos tempestivamente.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015 para os presentes Embargos de Declaração, embora o Agravo em Recurso Especial e o Recurso Especial estivessem sujeitos ao Código de Processo Civil de 1973.
+Sustentam os Embargantes que há contradição a ser sanada, nos termos do art. 1.022, I, do Código de Processo Civil.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+Constatada apenas a discordância dos Embargantes com o deslinde da controvérsia, não restou demonstrada efetiva contradição a ensejar a integração do julgado, porquanto a fundamentação adotada no venerando acórdão é clara e suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição dos presentes embargos.
+Ainda, de acordo com a jurisprudência desta Corte, a contradição sanável mediante embargos de declaração é aquela interna ao julgado embargado, que se dá entre a fundamentação e o dispositivo, de modo a evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador. Portanto, o recurso integrativo não se presta a corrigir eventual desconformidade entre a decisão embargada e a prova dos autos, ato normativo, ou acórdão proferido pelo tribunal de origem ou em outro processo.
+Na hipótese, não restou demonstrada efetiva contradição a exigir a integração do julgado, porquanto a fundamentação adotada é clara e suficiente para respaldar a conclusão alcançada.
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO E CONTRADIÇÃO. NÃO CARACTERIZAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+(..)
+4. Ademais, nos termos da jurisprudência do Superior Tribunal de Justiça, a contradição sanável por meio dos embargos de declaração é aquela interna ao julgado embargado - por exemplo, a incompatibilidade entre a fundamentação e o dispositivo da própria decisão. No caso em exame, o dispositivo do acórdão embargado está em perfeita consonância com a fundamentação que lhe antecede, não havendo contradição interna a ser sanada.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 308.455/PB, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 03/09/2013, DJe 10/09/2013).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 535, INCS. I E II, DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA.
+(..)
+3. A contradição que autoriza os embargos de declaração é a interna do acórdão, e não aquela em que o fundamento do voto colidiria com a jurisprudência em caso análogo - error in judicando.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 438.306/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 24/04/2014, DJe 20/05/2014).
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Ante o exposto, REJEITO os Embargos de Declaração.
+Publique-se e intimem-se.
