@@ -1,0 +1,27 @@
+DECISÃO
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PARCELAMENTO DO DÉBITO FISCAL. CAUSA INTERRUPTIVA DA PRESCRIÇÃO. AGRAVO CONHECIDO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto com fundamento no art. 105, III, a da Constituição da República e voltado contra o acórdão proferido pelo egrégio Tribunal Regional Federal da 5a. Região, assim ementado:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. CONFISSÃO ESPONTÂNEA. PRESCRIÇÃO. PARCELAMENTO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. APELAÇÃO NÃO PROVIDA.
+1. Irresignação recursal contra sentença que julgou improcedentes os embargos à execução fiscal para afastar a ocorrência da prescrição.
+2. Dispõe o art. 174 do CTN que o prazo para a Fazenda Nacional efetuar a cobrança de seus créditos, prescreve em cinco anos, contados da data da sua constituição definitiva.
+3. A constuição dos créditos, referente a CDA nº [CPF]-35, se deu por Termo de Confissão Espontânea em que houve notificação pessoal em 08/12/1993, com vencimentos em 05/08/1991 a 15/12/1995, e a ação só fora ajuizada em 04/12/2012.
+4. Os documentos que instruiram os autos demonstram que o executado, ora apelado, parcelou os débitos em 1994; novamente parcelou os débitos em março de 1996; aderiu a REFIS em 30.03.2000, com rescisão em 01.01.2002; aderiu ao PAEX em 15.09.2006, com rescisão em 15.12.2009.
+5. Prescrição afastada por não ter transcorrido prazo superior a cinco anos entre a rescisão do último parcelamento (15/12/2009) e o despacho ordenando a citação na execução (18/01/2013).
+6. Apelação não provida (fls. 656).
+2. Nas razões do Apelo Nobre, a parte Recorrente alega que ao declarar que a prescrição não atingiu os créditos tributários em questão, sob a alegação de ocorrência de parcelamentos, violou diretamente o disposto no artigo 174 do Código Tributário Nacional, que taxativamente dispõe sobre o termo para a contagem do prazo a quo prescricional de cinco anos (fls. 671).
+3. É o breve relatório. Decido.
+4. Sobre o tema, esta Corte de Justiça entende que a adesão a parcelamento tributário é causa de suspensão da exigibilidade do crédito e interrompe o prazo prescricional, por constituir reconhecimento inequívoco do débito, nos termos do art. 174, IV, do CTN (REsp 1.728.845/SP, Rel. Min. HERMAN BENJAMIN, DJe 28.5.2018). A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. EXECUÇÃO FISCAL. CRÉDITO TRIBUTÁRIO. PARCELAMENTO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. INADIMPLEMENTO. REINÍCIO DA CONTAGEM. APLICAÇÃO DA SÚMULA N. 83/STJ.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual uma vez interrompido o prazo prescricional em razão da confissão do débito e pedido de seu parcelamento por força da suspensão da exigibilidade do crédito tributário, o prazo volta a fluir a partir da data do inadimplemento do parcelamento.
+IV - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.
+V - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VI - Agravo Interno improvido (AgInt no REsp 1.573.429/RS, Rel. Min. REGINA HELENA COSTA, DJe 21.9.2016).
+5. Na hipótese, o Tribunal de origem, seguindo a orientação acima, afastou a alegada prescrição do crédito tributário, merecendo destaque o seguinte trecho do acórdão recorrido:
+Ao se analisar os documentos que instruiram os autos, verifica-se que o executado, ora apelado, parcelou os débitos em 1994 (id. 1848747, fl. 342); novamente parcelou os débitos em março de 1996 (id. 1848750, fl. 352); aderiu a REFIS em 30.03.2000, com rescisão em 01.01.2002 (id. 1848750, fl. 358); aderiu ao PAEX em 15.09.2006, com rescisão em 15.12.2009 (id. 1848755, fl. 363).
+Dessa forma, não transcorreu prazo superior a cinco anos entre a rescisão do último parcelamento (15/12/2009) e o despacho ordenando a citação (18/01/2013).
+Por fim, não há que se falar em ajuizamento da execução fiscal quando o débito encontrava-se parcelado, tendo em conta que o requerimento formulado em 24/10/2012, não se efetivou por ausência de cumprimento dos requisitos exigidos pela lei. Apenas em 25/01/2014 houve a formalização de novo parcelamento.
+6. Ademais, o acolhimento das alegações deduzidas no Apelo Nobre ensejaria a incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+7. Diante do exposto, conheço do Agravo para negar seguimento ao Recurso Especial.
+8. Publique-se. Intimações necessárias.
