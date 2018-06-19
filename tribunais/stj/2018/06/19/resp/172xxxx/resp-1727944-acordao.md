@@ -1,0 +1,55 @@
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MASSA FALIDA DO BANCO SANTOS. CÉDULAS DE CRÉDITO BANCÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INTERVENÇÃO DE TERCEIROS. ASSISTÊNCIA. DESCABIMENTO. MERO INTERESSE ECONÔMICO. ART. 103, PARÁGRAFO ÚNICO, DA LFRE. INAPLICABILIDADE.
+1. Execução ajuizada em 7/10/2013. Recurso especial interposto em 6/8/2014 e concluso à Relatora em 17/3/2017.
+2. O propósito recursal é definir se a presente ação executiva admite o ingresso do recorrido como assistente simples da exequente.
+3. Devidamente analisadas e discutidas as questões controvertidas, e suficientemente fundamentado o acórdão recorrido, não há como reconhecer a ocorrência de violação ao art. 535 do CPC/73.
+4. Descabe a intervenção de terceiros na modalidade de assistência em processo de execução. Precedentes.
+5. Ademais, a existência, no particular, de interesse meramente econômico do recorrido inviabiliza seu ingresso na relação processual.
+5. A expressão "falido", para os fins da norma do parágrafo único do art. 103 da Lei de Recuperação Judicial e Falência, não alcança terceiro que sequer ostentava a posição de acionista da instituição financeira em processo falimentar.
+6. Recurso especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, dar provimento ao recurso especial nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de recurso especial interposto por PMG TRADING PARTICIPAÇÕES EIRELI, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: execução de título extrajudicial, ajuizada pela MASSA FALIDA DO BANCO SANTOS em face da recorrente, para a cobrança de R$ 80.971.170,12 (oitenta milhões novecentos e setenta e um mil cento e setenta reais e doze centavos), valor representativo do saldo remanescente de Cédulas de Crédito Bancário (CCBs) devido por esta.
+Decisão do juízo de primeiro grau: deferiu o pedido de ingresso na ação formulado por [NOME], na condição de assistente litisconsorcial.
+Acórdão recorrido: deu parcial provimento ao agravo de instrumento interposto pela recorrente, para reconhecer o direito do recorrido de figurar na ação apenas como assistente simples da exequente.
+Embargos de declaração: interpostos pela recorrente, foram rejeitados.
+Recurso especial: invoca a existência de dissídio jurisprudencial e alega violação: (i) do art. 535, I, do CPC/73, ante o não saneamento de contradição no acórdão recorrido; (ii) do art. 50 do CPC/73, por admitir ingresso de terceiro com mero interesse econômico no resultado da demanda; e (iii) do art. 103, parágrafo único, da Lei 11.101/05, por enquadrar o recorrido [NOME] na posição de falido.
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+O propósito recursal é definir se a presente ação executiva admite o ingresso do recorrido como assistente simples da exequente.
+1. ANTECEDENTES FÁTICOS E PROCESSUAIS
+Depreende-se dos autos que a MASSA FALIDA DO BANCO SANTOS ingressou com ação executiva para a cobrança de dívida representada por quatro Cédulas de Crédito Bancário emitidas em 30/9/2004 pela recorrente em favor da instituição financeira, perfazendo crédito no valor total e histórico de R$ 28.000.000,00 (vinte e oito milhões de reais) (e-STJ Fls. 78/86).
+No curso do processo, o recorrido [NOME], por meio da petição de fls. 53/62 (e-STJ), postulou seu ingresso na ação na condição de assistente da massa falida, ao argumento de que, por ter figurado como quotista majoritário da sociedade controladora e principal acionista do BANCO SANTOS (PROCID PARTICIPAÇÕES E NEGÓCIOS LTDA.), possuía interesse jurídico na resolução da demanda, pleito que foi deferido pelo juízo de primeiro grau (e-STJ Fl.22).
+Por seu turno, o TJ/SP, quando da apreciação do agravo de instrumento cujo acórdão ensejou a interposição do presente recurso especial, entendeu que o ingresso na ação deveria ser, de fato, franqueado ao recorrido, mas tão somente na posição de assistente simples, e não litisconsorcial.
+A irresignação da recorrente fundamenta-se nas seguintes teses: (i) o recorrido não possui interesse jurídico em obter provimento jurisdicional favorável à massa falida; e (ii) o recorrido, por ser pessoa física, não pode ser considerado falido para os fins do art. 103, parágrafo único, da Lei 11.101/05.
+2. DA ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73
+Da análise do acórdão recorrido, verifica-se que a prestação jurisdicional dada corresponde àquela efetivamente objetivada pelas partes, sem vício a ser sanado. O Tribunal de origem pronunciou-se de maneira a abordar todos os aspectos fundamentais da controvérsia, dentro dos limites que lhe são impostos por lei, não havendo que se falar em ofensa ao art. 535 do CPC/73.
+3. DA ALEGAÇÃO DE VIOLAÇÃO DO ART. 50 DO CPC/73
+A norma do art. 50 do CPC/73 disciplina o ingresso de terceiros no processo na condição de assistente, exigindo deles, no que interessa à espécie, que demonstrem possuir "interesse jurídico em que a sentença seja favorável" a uma das partes em litígio. Eis seu teor:
+Art. 50. Pendendo uma causa entre duas ou mais pessoas, o terceiro, que tiver interesse jurídico em que a sentença seja favorável a uma delas, poderá intervir no processo para assisti-la.
+Parágrafo único. A assistência tem lugar em qualquer dos tipos de procedimento e em todos os graus da jurisdição; mas o assistente recebe o processo no estado em que se encontra.
+Segundo lição de MARINONI e MITIDIERO, o interesse jurídico que autoriza a intervenção do assistente está presente "quando a decisão pode alcançar de maneira negativa a esfera jurídica do terceiro que entretém uma relação jurídica conexa àquela afirmada em juízo" (Código de Processo Civil  livro eletrônico : comentado artigo por artigo. 1ª ed. SP: Revista dos Tribunas, 2013, sem destaque no original).
+De fato, a assistência simples (adesiva) é facultada àquele que "seja titular de uma relação jurídica sujeita a sofrer efeitos reflexos da sentença" (REsp 724.507/PR, 1ª Turma, DJ 5/10/2006).
+Tratando-se de processo de execução de título extrajudicial, como na hipótese, esta Corte já manifestou entendimento no sentido de que a intervenção de terceiros, na forma de assistência, é inviável em processo de execução.
+Isso porque a ação executiva, ao contrário do exigido pelo caput do dispositivo legal ora em análise, "não tende à obtenção de sentença", "destinando-se apenas à realização de atos concretos para realização coativa do título" que lhe serve de lastro (REsp 329.059/SP, 6ª Turma, DJ 04/03/2002).
+Tal entendimento, vale consignar, foi igualmente adotado por esta 3ª Turma quando do julgamento do AgRg no REsp 911.557/MG (Rel. Min. Paulo de Tarso Sanseverino, DJe 29/06/2011).
+Todavia, ainda que se pudesse cogitar do cabimento da assistência em processo de execução, o que se constata no particular é que o recorrido não detém interesse jurídico apto a justificar sua intervenção.
+Com efeito, o que se depreende da hipótese é que as alegações deduzidas na petição de fls. 53/62 (e-STJ) contém tão somente elementos que traduzem interesses meramente econômicos do postulante, consubstanciados no fato de que, caso os ativos detidos pela massa falida superem suas dívidas e todos os credores sejam satisfeitos, "em eventual futura liquidação da sociedade, o peticionário ainda poderá ter direitos a receber visto que é detentor de parte da sociedade falida e seus ativos" (e-STJ Fl.58).
+4. DA ALEGAÇÃO DE VIOLAÇÃO DO ART. 103, PARÁGRAFO ÚNICO, DA LEI 11.101/05
+Estabelece o dispositivo apontado como violado (sem destaque no original):
+Art. 103. Desde a decretação da falência ou do sequestro, o devedor perde o direito de administrar os seus bens ou deles dispor.
+Parágrafo único. O falido poderá, contudo, fiscalizar a administração da falência, requerer as providências necessárias para a conservação de seus direitos ou dos bens arrecadados e intervir nos processos em que a massa falida seja parte ou interessada, requerendo o que for de direito e interpondo os recursos cabíveis.
+Muito embora o Tribunal de origem tenha fundamentado seu entendimento nessa norma, é preciso esclarecer o alcance da expressão "falido" constante da parte inicial do parágrafo ora transcrito.
+Como é cediço, apenas o empresário individual e as sociedades empresárias estão sujeitas ao regime falimentar, consoante expresso no art. 1º da LFRE.
+Todavia, conforme bem apontado por [NOME] (sem destaque no original),
+ a  lei atual faz confusão inadmissível relativamente ao termo "falido", às vezes referindo-se à sociedade empresária falida (o que é correto), às vezes aludindo ao que era sócio ou administrador da sociedade empresária antes da falência (o que não é correto). Tome-se, apenas como exemplo, o inc. III deste art. 104, que diz ser obrigação do falido não se ausentar do lugar onde se processa a falência, o que por óbvio remete à pessoa que era o representante da sociedade empresária e não o falido, que é a sociedade empresária que teve sua falência decretada. (Lei de Recuperação de Empresas e Falência: Lei 11.101/2005 comentada artigo por artigo. Revista dos Tribunais, 2018, 4ª ed. em e-book.)
+Desse modo, ainda que, tecnicamente, somente o empresário individual ou a sociedade empresária possam ser considerados "falidos", não se pode perder de vista que, em algumas hipóteses, a LFRE adota o mesmo termo para designar seu representante legal.
+Essas situações excepcionais ficam evidenciadas quando o texto legal faz remissão específica a alguma circunstância que, por imperativo lógico, apenas pode ser dirigida a pessoas físicas, como no exemplo utilizado pelo autor do texto precitado.
+Sucede que, ao contrário da hipótese do art. 104, III, da LFRE, o parágrafo único de seu art. 103 não contém qualquer circunstância especial que imponha a necessidade de flexibilização de seu conteúdo normativo, de modo que, no particular, a faculdade de intervir como assistente da parte exequente estaria reservada tão somente à pessoa jurídica falida, e não ao recorrido.
+Ademais, constata-se do teor da própria petição que instrumentalizou o pedido de ingresso do recorrido na presente ação (e-STJ Fl. 54, primeiro parágrafo) que ele sequer ostentava a posição de acionista do banco falido, figurando tão somente como quotista de sociedade detentora de participação acionária da instituição financeira (PROCID PARTICIPAÇÕES E NEGÓCIOS LTDA.).
+Assim, ainda que se entendesse pela possibilidade de intervenção do sócio ou representante legal do banco falido como assistente da exequente, a pretensão do recorrido não comportaria acolhida.
+Forte nessas razões, DOU PROVIMENTO ao recurso especial, para indeferir o pedido de ingresso na presente ação executiva formulado pelo recorrido [NOME].
