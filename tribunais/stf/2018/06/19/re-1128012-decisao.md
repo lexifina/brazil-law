@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “RECURSO DEVOLVIDO À CÂMARA PELA 2ª VICE-PRESIDÊNCIA DESTA CORTE PAA VIABILIZAR JUÍZO DE RETRATAÇÃO EM FACE DO RE N. 606.358/SP (TEMA N. 257/STF) E DO RE N. 609.381/GO (TEMA N. 480/STF). INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO CONTRA O ACÓRDÃO ANTERIOR.
+    PENSÃO POR MORTE. INSTITUIDOR DO BENEFÍCIO MEMBRO DA MAGISTRATURA ESTADUAL. ÓBITO OCORRIDO ANTES DA ENTRADA EM VIGOR DA EC N. 41/2003. BASE DE CÁLCULO. TOTALIDADE DOS PROVENTOS, COMO SE VIVO FOSSE, SEM AS LIMITAÇÕES IMPOSTAS PELA EC N. 41/2003. ENTENDIMENTO PREVALECENTE À ÉPOCA DO JULGAMENTO DO PROCESSO. SUPERVENIENTE ALTERAÇÃO NA JURISPRUDÊNCIA QUE NÃO CONSTITUI FUNDAMENTO APTO À RESCISÃO DO ACÓRDÃO. PROTEÇÃO DA COISA JULGADA. IMPROCEDÊNCIA DOS PEDIDOS DEDUZIDOS NA RESCISÓRIA. DECISÃO SOB JUÍZO DE RETRATAÇÃO MANTIDA.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente aponta violação ao art. 37, XI, da Constituição, bem como aos arts. 7º e 9º da EC nº 41/2003 e ao art. 17 do ADCT. Afirma que o Tribunal de origem violou o texto constitucional ao afastar o teto remuneratório para pensões concedidas antes da EC nº 41/2003.
+    O recurso extraordinário não merece provimento. O Tribunal de origem, no acórdão mantido em juízo de retratação, assentou:
+    “[...] é certo que a requerida obteve a garantia de que o benefício da pensão por morte é devido em sua integralidade, por meio da decisão proferida na Apelação Cível em Mandado de Segurança n. 2006.003592-2, e que promoveu a execução dos valores bloqueados pelo Iprev.
+    Percebe-se, então, que caberia ao ente previdenciário opor sua irresignação contra aquele julgado, uma vez que lá é que restou confirmada a outorga da pensão por morte de forma integral. Na ação de cobrança, a requerida apenas postulou o pagamento de valores que lhe foram garantidos por meio de outra decisão judicial.
+    Portanto, só esse fato afigura-se suficiente para demonstrar a improcedência do pedido exordial.”
+     Esses são fundamentos autônomos e suficientes para a manutenção do julgado, que não foram atacados no recurso extraordinário. Nessas condições, aplica-se a Súmula 283/STF.
+    Ainda que superado o óbice apontado, ressalta-se que a jurisprudência do Supremo Tribunal Federal (STF) é firme no sentido de que controvérsia sobre cabimento de ação rescisória se enquadra no âmbito infraconstitucional, o que não permite a abertura da via recursal extraordinária. Precedentes: AI 598.496, Rel. Min. Ayres Britto; ARE 682.529-AgR, Rel. Min. Marco Aurélio; ARE 695.427-AgR, Relª. Minª. Rosa Weber; ARE 700.610-AgR, Rel. Min. Luiz Fux; e RE 772.197-AgR, Rel. Min. Dias Toffoli.
+    O Plenário do STF, ao apreciar o RE 590.809-RG, sob a sistemática da repercussão geral, decidiu contrariamente ao processamento de ação rescisória para o fim de uniformizar jurisprudência. Veja-se a ementa do julgado:
+    “AÇÃO RESCISÓRIA VERSUS UNIFORMIZAÇÃO DA JURISPRUDÊNCIA. O Direito possui princípios, institutos, expressões e vocábulos com sentido próprio, não cabendo colar a sinonímia às expressões ‘ação rescisória’ e ‘uniformização da jurisprudência’.
+    AÇÃO RESCISÓRIA – VERBETE Nº 343 DA SÚMULA DO SUPREMO. O Verbete nº 343 da Súmula do Supremo deve de ser observado em situação jurídica na qual, inexistente controle concentrado de constitucionalidade, haja entendimentos diversos sobre o alcance da norma, mormente quando o Supremo tenha sinalizado, num primeiro passo, óptica coincidente com a revelada na decisão rescindenda.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 19 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
