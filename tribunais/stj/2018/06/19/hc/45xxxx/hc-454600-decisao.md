@@ -1,0 +1,25 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO. PROGRESSÃO DE REGIME. INDEFERIMENTO DO BENEFÍCIO COM BASE NA GRAVIDADE ABSTRATA DOS CRIMES PRATICADOS E NA LONGEVIDADE DA PENA. MOTIVAÇÃO INIDÔNEA. MANIFESTA ILEGALIDADE.
+Ordem concedida liminarmente nos termos do dispositivo.
+DECISÃO
+No PEC n. 0432687-50.2006.8.19.0001, o Juízo de Direito da Vara de Execuções Criminais Penais da comarca da Capital deferiu o pedido de promoção ao regime aberto feito por [NOME].
+Contra essa decisão, o Ministério Público estadual interpôs o Agravo de Execução Penal n. 0087280-11.2017.8.19.0002, ao qual o Tribunal de Justiça do Rio de Janeiro deu provimento, cassando a decisão de piso, consoante a seguinte ementa (fl. 85):
+AGRAVO DE EXECUÇÃO PENAL. RECURSO MINISTERIAL. PLEITO DE REFORMA DA DECISÃO QUE DEFERIU A PROGRESSÃO PARA O REGIME ABERTO. Apenado condenado às penas de 37 anos e 02 meses de reclusão pela prática de homicídios qualificados, lesão corporal, dentre outros.
+Cálculo de pena que aponta a longínqua data de 23/11/2028 para o término da reprimenda, indicando que o apenado alcançará o prazo para o livramento condicional somente em 06/11/2022.
+Quantidade de pena a ser cumprida deve ser avaliada também de acordo com a gravidade dos crimes, não estando suficientemente provado que o apenado está adaptado completamente à vida em sociedade. Outrossim, diversamente do que afirma a defesa, consta que o agravado, que é ocupante de cargo médico vinculado ao Ministério da Saúde e não teve sua lotação definida, tendo em vista que não foi demonstrado interesse dos Hospitais e Institutos em recebê-lo no seu quadro de pessoal, além de ter sido informado que foi solicitado ao Instituto Psiquiátrico Forense Dr. [NOME], pareceres médicos da época em que o servidor esteve internado, a fim de verificar sua real necessidade de retomar às atividades laborativas, sem êxito. Decisão que se afigura prematura. PROVIMENTO DO AGRAVO.
+Daí o presente writ, em que se busca, inclusive em caráter liminar, a concessão do citado benefício ao paciente, eis que é primário e atende aos requisitos de ordem subjetiva, sempre apresentou um excelente comportamento carcerário, respeitando as normas da Administração prisional, funcionários e companheiros de infortúnio (fl. 54).
+É o relatório.
+Da análise dos autos, verifico a existência de nítido constrangimento ilegal a ser sanado, o que autoriza a concessão da ordem in limine.
+O Tribunal de Justiça, provendo o agravo de execução ministerial, pontuou (fls. 14/15):
+ ..  verifica-se que o apenado foi condenado às penas de 37 anos e 02 meses de reclusão, sendo certo que conforme consulta no PROJUD, o cálculo de pena aponta a longínqua data de 23.11.2028 para o término da reprimenda, indicando que o mesmo alcançará o prazo para o livramento condicional somente em 06/11/2022, fato que não poder ser desconsiderado, salientando que se trata de condenação por crime hediondo.
+Como salientado pela Procuradoria, trata-se de apenado que exercia a profissão de médico radiologista e ceifou a vida de três colegas de profissão, deixando uma quarta vítima paraplégica.
+Assim, ao contrário do entendimento do douto Magistrado de 1º grau, a quantidade de pena a ser cumprida deve ser avaliada também de acordo com a gravidade dos crimes, não estando suficientemente provado que o apenado está adaptado completamente à vida em sociedade.
+Outrossim, diversamente do que afirma a defesa, consta que o agravado, que é ocupante de cargo médico vinculado ao Ministério da Saúde e não teve sua lotação definida, tendo em vista que não foi demonstrado interesse dos Hospitais e Institutos em recebê-lo no seu quadro de pessoal, além de ter sido informado que foi solicitado ao Instituto Psiquiátrico Forense Dr. [NOME], pareceres médicos da época em que o servidor esteve internado, a fim de verificar sua real necessidade de retomar às atividades laborativas, sem êxito (fls. 36, e-doc.00002).
+Observa-se, portanto, que inexiste proposta imediata de trabalho, sendo temerário permitir que o apenado saia durante o dia, sem nenhuma atividade ou ocupação a ser exercida.
+Dessa forma entendo ser prematura a concessão do benefício por ora, ante a longa pena que ainda falta a cumprir.
+À conta de tais considerações, dirijo meu voto no sentido de DAR PROVIMENTO ao recurso, para cassar a r. decisão recorrida.
+Como se vê, a Corte estadual proveu o recurso ministerial com base tão somente na gravidade dos crimes e na longevidade da pena.
+Ocorre que, segundo a nossa jurisprudência, tal fundamentação não é suficiente para indeferir a almejada progressão de regime. A longa pena a cumprir e a gravidade abstrata dos crimes praticados não constituem motivos idôneos para obstar a concessão do benefício.
+Confiram-se, a propósito, os seguintes julgados: HC n. 400.987/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 18/9/2017; e HC n. 414.772/SP, Ministro Felix Fischer, Quinta Turma, DJe 21/11/2017.
+À vista do exposto, concedo liminarmente a ordem para, cassando o acórdão do Tribunal de Justiça, restabelecer a decisão do Juízo de Direito da Vara de Execuções Penais da comarca da Capital.
+Publique-se.
