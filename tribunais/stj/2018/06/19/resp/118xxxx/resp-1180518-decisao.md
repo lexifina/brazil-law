@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ, com amparo no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo respectivo Tribunal de Justiça assim ementado:
+"AGRAVO REGIMENTAL. - DECISÃO QUE RECONDUZ PREFEITO AO CARGO. - ATOS INVESTIGATIVOS JÁ SUFICIENTEMENTE PROVIDENCIADOS. - INOCORRÊNCIA DE PREJUÍZO A ADMINISTRAÇÃO OU ORDEM PROCESSUAL. - IMPOSSIBILIDADE DE AFASTAMENTO POR TEMPO INDETERMINADO. - NATUREZA CAUTELAR E PROVISÓRIA DA MEDIDA A SER OBSERVADA. - INSUBSISTÊNCIA DOS MOTIVOS QUE A AMPARAVAM. INTERPRETAÇÃO RESTRITIVA DA NORMA, MEDIANTE COERÊNCIA NA SUA APLICAÇÃO. - RECURSO NÃO PROVIDO. I. Se durante a instrução do processo-crime, já não subsistirem os motivos que autorizaram e demonstravam a necessidade de afastamento do prefeito de seu cargo, e considerando a natureza cautelar dessa medida extremada, nenhum óbice existe para a recondução do alcaide à Chefia do Executivo. Isto porque, há que se preservar, em todo ordenamento jurídico, o espírito democrático, mesmo para a aplicação da Lei de Improbidade Administrativa, pelos tribunais, pois a manutenção do afastamento do prefeito de seu cargo, antes da condenação, é de ser reputada medida extremada, tomada apenas com lastro a denotar sua necessidade. II. Portanto, sendo o afastamento do exercício do cargo medida extrema, que deve ser aplicada somente quando se fizer absolutamente necessária, visando que não se prejudique a instrução processual, este, só há de ser mantido em situação excepcional, pois se não demonstradas estas condições, sua reforma é a medida que se impõe." (TJPR - 2  C. Criminal - ARC 0424229-5/02 - Foro Regional de Rio Branco do Sul da Região Metropolitana de Curitiba - Rei.: Des. Lidio [NOME] Rotoli de Macedo - Unânime - J. 26.06.2008)" (e-STJ, fls. 3.360-3.361).
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a acusação sustenta violação dos arts. 381, III, 619 e 620, todos do Código de Processo Penal.
+Nesse sentido, aduz que a Corte local omitiu-se em examinar: (a) a existência de contabilidade paralela na Prefeitura; (b) o aliciamento e a intimidação de testemunhas; (c) a supressão e a ocultação de provas; e (d) o desvio de dinheiro público em favor do Prefeito. Assim, requer a nulidade do acórdão que restituiu o Prefeito de Itaperuçu ao seu cargo.
+Subsidiariamente, alega ofensa ao art. 2º, II, do Decreto-Lei n. 201/67. Defende que, ao manter a decisão monocrática do Relator, que reconduzia o réu [NOME] ao Cargo de Prefeito, o acórdão recorrido contrariou a teleologia do dispositivo em questão.
+Assim, busca a anulação do acórdão ou sua reforma.
+Contrarrazões apresentadas (e-STJ, fls. 3.529-3.552).
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ, fls. 3.587-3.595).
+É o relatório.
+Decido.
+O recurso especial está prejudicado.
+Em simples pesquisa ao site da Prefeitura de Itaperuçu, percebe-se que o recorrido não mais governa a Cidade (http://itaperucu.pr.gov.br/governo/). Portanto, discutir a adequação da medida cautelar de afastamento do cargo revela-se inócua.
+Ante o exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
