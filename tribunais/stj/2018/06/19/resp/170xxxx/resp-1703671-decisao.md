@@ -1,0 +1,94 @@
+DECISÃO
+Vistos.
+Trata-se de Recursos Especiais interpostos por JOCELI MACHADO DE QUADROS e pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra acórdão prolatado pela 3ª Câmara de Direito Público do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 190e):
+AÇÃO ACIDENTARIA, CONCESSÃO DE AUXÍLIO-DOENÇA ACIDENTÁRIO. SÍNDROME DO IMPACTO NO OMBRO ESQUERDO E DIREITO INCAPACIDADE TOTAL E TEMPORÁRIA VERIFICADA POR PERÍCIA JUDICIAL. REQUISITOS PARA CONCESSÃO DO BENEFÍCIO VERIFICADOS. TERMO INICIAL: JUNTADA DO LAUDO PERICIAL. APELO PARCIALMENTE PROVIDO. REEXAME NECESSÁRIO DESPROVIDO.
+Opostos embargos de declaração pela Segurada, foram parcialmente acolhidos, com a seguinte ementa (fls. 204/208e):
+EMBARGOS DE DECLARAÇÃO. VEREDICTO QUE AJUSTOU O TERMO INICIAL DO BENEFÍCIO. EM REEXAME NECESSÁRIO. MATÉRIA TOTALMENTE SOLUCIONADA NO ACÓRDÃO ATACADO. PRETENSÃO DE REDISCUSSÃO E PREQUESTIONAMENTO. INVIABILIDADE. AJUSTE DE ERRO MATERIAL DA PARTE DISPOSITIVA DO ACÓRDÃO. PROVIMENTO PARCIAL DO REEXAME NECESSÁRIO E NÃO DA APELAÇÃO. ACOLHIMENTO PARCIAL DOS EMBARGOS.
+No Recurso Especial de fls. 214/233e, a Segurada, com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+I - Arts. 42, 45 e 59 da Lei n. 8.213/91 - "(..) portadora de diversas patologias que a impedem de trabalhar, seja em queatividade for. Há circunstâncias pessoais e sociais, que não podem ser ignoradas e que, se devidamente levadas em conta, autorizam a concessão do BENEFÍCIO DE APOSENTADORIA POR INVALIDEZ."; e
+II - Art. 43 da Lei n. 8.213/91 - "Verifica-se pelos documentos acostados a inicial, que o Recorrente quando da cessação do beneficio de auxilio- doença em 12/04/2012 já era portador das patologias que ensejaram o reconhecimento da incapacidade laborativa pelo Sr. [NOME]. Portanto, quando da cessação administrativa/indeferimento do beneficio a incapacidade ainda persistia."
+No segundo Recurso Especial, o INSS (fls. 263/277e), com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 115 da Lei n. 8.213/91, alegando-se, em síntese, que devem ser compensados ou restituídos os valores recebidos em razão da cumulação do vínculo laboral e o gozo do auxílio doença.
+Sem contrarrazões (fls. 285e), os recurso foram admitidos (fls. 286/288e - 289/290e).
+Feito breve relato, decido.
+Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, a e c, e 255, I e III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, bem como a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Quanto a alegação de que as circunstancias pessoais autorizam a concessão do benefício de aposentadoria por invalidez, verifico que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a tese suscitada.
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. BENS PÚBLICOS. TERRENO DE MARINHA. ILEGALIDADE DO PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DESTA CORTE SUPERIOR. REGISTRO IMOBILIÁRIO. CARACTERIZAÇÃO DO BEM COMO TERRENO DE MARINHA. MANDADO DE SEGURANÇA. VIA ADEQUADA. QUESTÃO MERAMENTE DE DIREITO. OPONIBILIDADE EM FACE DA UNIÃO. CARACTERIZAÇÃO DO BEM COMO PROPRIEDADE PARTICULAR. IMPOSSIBILIDADE. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CR/88, ART. 20, INC. VII).
+(..)
+2. A controvérsia acerca da ilegalidade do procedimento demarcatório na espécie, pela desobediência do rito específico previsto no Decreto-lei n. 9.760/46 - vale dizer: ausência de notificação pessoal dos recorrentes - não foi objeto de análise pela instância ordinária, mesmo após a oposição de embargos de declaração, razão pela qual aplica-se, no ponto, a Súmula n. 211 desta Corte Superior.
+(..)
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido. Julgamento submetido à sistemática do art. 543-C do CPC e à Resolução n. 8/2008.
+(REsp 1183546/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 29/09/2010, destaque meu).
+Ademais, o Tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou ser a incapacidade do requerente apenas temporária, nos seguintes termos (fls.192e):
+(..)
+Colhe-se do laudo pericial de fls. 103-108:
+Quesitos da Autora
+1- A parte autora é portadora de alguma doença
+R: Sindrome do impacto no ombro direito e esquerdo.
+5- Essas lesões são irreversíveis
+R: Não Existe tratamento conservador e cirúrgico.
+14- Trabalhos braçais que demandem movimentos repetitivos, podem desencadear o aparecimento de problemas nos membros superiores/coluna, aqueles que acometem a parte autora
+R No caso da autora membros superiores sim.
+17- Qual a data provável do inicio da incapacidade laborativa
+R: Data do início dos trabalhos periciais.
+19- Conclusão
+A- Há invalidez, isto é, incapacidade laborativa total e permanente
+R: Não.
+C- Ou existe apenas incapacidade parcial, com possibilidade de reabilitação, mediante tratamento médico específico
+R: Sim.
+Dúvida, pois, a respeito da existência de redução total e parcial da capacidade laborai da obreira para sua função habitual não há, de modo que cabível o auxilio-doença acidentário (art. 59 da Lei n. 8.213/1991), no percentual de 91% do salário de benefício. Reconhecido pelo perito a possibilidade de reversão do quadro (quesitos 5 e 19, a e c), impossível a concessão de aposentadoria por invalidez por falta de seus requisitos.
+(..) (Destaque meu).
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, do preenchimento dos requisitos para conversão do auxílio-doença em aposentadoria por invalidez demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. ACÓRDÃO DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA NÃO COMPROVAÇÃO DA INCAPACIDADE LABORATIVA TOTAL E PERMANENTE DA PARTE AUTORA. REVISÃO DA CONCLUSÃO ADOTADA NA ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. No caso, o Tribunal de origem analisou as provas dos autos, notadamente a perícia médica, e concluiu pela inexistência dos requisitos para a concessão da aposentadoria por invalidez, destacando que "a parte autora, em virtude das patologias diagnosticadas, está incapacitada de forma parcial e permanente", mantendo, assim, a sentença que lhe concedera o auxílio-doença, por não comprovada a incapacidade total e permanente para o exercício de atividade que lhe garanta a subsistência.
+II. Diante desse quadro, a inversão do julgado, para se concluir pela eventual existência da incapacidade laborativa total e permanente do ora agravante, demandaria incursão na seara fático-probatória dos autos, inviável, na via eleita, a teor da Súmula 7 do STJ.
+III. Agravo Regimental improvido.
+(AgRg no AREsp 584.409/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 04/12/2014, DJe 11/12/2014).
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA RURAL POR IDADE OU POR INVALIDEZ. TRABALHO URBANO DO CÔNJUGE. TEMA SUBMETIDO À SISTEMÁTICA DO ART. 543-C DO CPC NO JULGAMENTO DO RESP 1.304.479/SP. PROVA EXCLUSIVAMENTE TESTEMUNHAL. SÚMULA 149/STJ. INCAPACIDADE PARA O LABOR NÃO COMPROVADA. REVISÃO. SÚMULA 7/STJ.
+1. Hipótese em que a agravante pretende a concessão de aposentadoria rural por idade ou por invalidez.
+2. O STJ, no julgamento do REsp 1.304.479/SP, submetido à disciplina do 543-C do CPC, fixou entendimento de que não é admissível a extensão da qualificação de rurícola de cônjuge que tenha laborado em atividades urbanas. No mesmo sentido o REsp 1.310.096/SP, Rel.
+Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 10/3/2014 em que se decidiu: "De acordo com a jurisprudência desta egrégia Corte Superior de Justiça, a despeito de a certidão de casamento qualificar o cônjuge da parte autora como lavrador, tal documento não é suficiente para comprovar início de prova material, quando averiguado - como no presente caso - que o cônjuge exerce atividade urbana em momento ulterior. Incidência da Súmula 149 do STJ". Assim, ausente a comprovação da qualidade de segurada na hipótese.
+3. A Corte de origem julgou improcedente o pedido de aposentadoria rural por invalidez, pois também não comprovada a incapacidade para o labor. No caso, rever o julgado encontra óbice na Súmula 7/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp 588.688/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 20/11/2014, DJe 28/11/2014, destaque meu).
+No que tange ao termo inicial do benefício, verifico que o acórdão recorrido adotou entendimento contrário ao pacificado nesta Corte segundo o qual, na ausência de prévio requerimento administrativo, o benefício deve ser concedido a partir da citação e não da juntada do laudo pericial aos autos, conforme demonstram os julgados assim ementados:
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. APOSENTADORIA POR INVALIDEZ. TERMO INICIAL PARA A IMPLEMENTAÇÃO DO BENEFÍCIO CONCEDIDO NA VIA JUDICIAL. AUSÊNCIA DE PEDIDO ADMINISTRATIVO. ART. 219, CAPUT, DO CPC. CITAÇÃO VÁLIDA DA AUTARQUIA PREVIDENCIÁRIA.
+1. Com a finalidade para a qual é destinado o recurso especial submetido a julgamento pelo rito do artigo 543-C do CPC, define-se: A citação válida informa o litígio, constitui em mora a autarquia previdenciária federal e deve ser considerada como termo inicial para a implantação da aposentadoria por invalidez concedida na via judicial quando ausente a prévia postulação administrativa.
+2. Recurso especial do INSS não provido.
+(REsp 1369165/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 26/02/2014, DJe 07/03/2014, destaque meu).
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. TERMO INICIAL DO BENEFÍCIO. AUSÊNCIA DE REQUERIMENTO ADMINISTRATIVO. CITAÇÃO VÁLIDA. MATÉRIA JÁ DECIDIDA SOB O RITO DO ART. 543-C DO CPC.
+1. O tema relativo ao termo inicial de benefício proveniente de incapacidade laborativa já foi exaustivamente debatido nesta Corte, a qual, após oscilações, passou a rechaçar a fixação da Data de Início do Benefício - DIB a partir do laudo pericial, porquanto a prova técnica prestar-se-ia unicamente para nortear o convencimento do juízo quanto à pertinência do novo benefício, mas não para atestar o efetivo momento em que a moléstia incapacitante se instalou.
+2. Atualmente a questão já foi decidida nesta Corte sob o rito dos recursos repetitivos (art. 543-C do CPC), restando pacificada a jurisprudência no sentido que "A citação válida informa o litígio, constitui em mora a autarquia previdenciária federal e deve ser considerada como termo inicial para a implantação da aposentadoria por invalidez concedida na via judicial quando ausente a prévia postulação". (REsp 1.369.165/SP, Rel. Ministro BENEDITO GONÇALVES, Primeira Seção, DJe 7/3/2014).
+3. Recurso especial parcialmente provido.
+(REsp 1311665/SC, Rel. Ministro ARI PARGENDLER, Rel. p/ Acórdão Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 02/09/2014, DJe 17/10/2014, destaques meus).
+PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. TERMO INICIAL. ART. 86, § 2º, DA LEI N. 8.213/91.
+1. Nos termos da jurisprudência do STJ, o benefício previdenciário de cunho acidental ou o decorrente de invalidez deve ser concedido a partir do requerimento administrativo e, na sua ausência, a partir da citação. A fixação do termo a quo a partir da juntada do laudo em juízo estimula o enriquecimento ilícito do INSS, visto que o benefício é devido justamente em razão de incapacidade anterior à própria ação judicial.
+2. No caso dos autos houve o pedido administrativo de concessão do benefício. Todavia, o laudo pericial atestou que a incapacidade do autor só ocorreu anos após a interposição do requerimento administrativo.
+3. Determinar como início da concessão do benefício a data do requerimento administrativo seria conceder benefício sem o preenchimento de um dos requisitos essenciais para tal, qual seja, a incapacidade.
+4. In casu, o benefício deve ser concedido a partir da constatação da incapacidade atestada no laudo pericial como estabelecido na sentença de primeiro grau.
+Recurso especial provido.
+(REsp 1411921/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/10/2013, DJe 25/10/2013, destaque meu).
+Na mesma linha, destaco os seguintes julgados desta Corte: AgRg no AREsp 475.906/SP, 2ª T., Rel. Min. Og Fernandes, DJe de 24.04.2014; AgRg no REsp 1.377.333/SP, 1ª T., Rel. Min. Napoleão Nunes Maia Filho, DJe de 03.04.2014; AgRg no REsp 1.417.924/SC, 2ª T., Rel. Min. Mauro Campbell Marques, DJe de 16.12.2013; AgRg no AREsp 255.793/SP, 1ª T., Rel. Min. Arnaldo Esteves Lima, DJe de 16.04.2013.
+No caso, não havendo manifestação do Tribunal de origem a respeito da existência de anterior concessão de auxílio-doença ou de prévio requerimento administrativo, não há como fixar o termo inicial do auxílio-doença a partir do dia seguinte à cessação do benefício, a teor do disposto na Súmula n. 07/STJ.
+Assim, de rigor, o provimento parcial do recurso especial da Segurada para determinar a fixação do termo inicial do benefício de auxílio-doença na data da citação do INSS.
+Nos termos do art. 932, IV, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, b, e 255, II, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+O tribunal de origem analisando o exercício concomitante de atividade laborativa com período de incapacidade, assim se manifestou (fls. 189/193e):
+A respeito dos períodos que a autora realizou atividade remunerada, com razão a irresignada. Reconhecido que sua capacidade laborai está prejudicada desde o laudo pericial, o trabalho após esse período decorreu o da necessidade de sua própria sobrevivência, não devendo ser descontado da condenação. Conclusão em contrário resultaria em recompensar a falta de eficiência do INSS e prejudicaria injustamente a parte hipossuficiente.
+Com efeito, esta 1ª Turma recentemente firmou entendimento segundo o qual é possível o recebimento de benefício por incapacidade concomitantemente com a remuneração pelo exercício de atividade laborativa.
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL. RECURSO ESPECIAL. AUXÍLIO-DOENÇA CONCEDIDO JUDICIALMENTE. PAGAMENTO DE PARCELAS PRETÉRITAS DO BENEFÍCIO COINCIDENTES COM PERÍODO EM QUE HOUVE EXERCÍCIO DE ATIVIDADE REMUNERADA, MESMO ESTANDO O SEGURADO INCAPACITADO. CABIMENTO. ENTENDIMENTO EM HARMONIA COM A SÚMULA 72 DA TNU. RECURSO ESPECIAL DO INSS A QUE SE NEGA PROVIMENTO.
+1. O segurado que, mesmo considerado incapaz em termos previdenciários, retorna ao trabalho para manter seu sustento enquanto aguarda a definição sobre a concessão do benefício por incapacidade, não pode ser penalizado com o não recebimento do benefício neste período.
+2. Não se pode admitir que o exercício de atividade remunerada, por si só, possa elidir o direito à percepção do benefício por incapacidade, isto porque o indeferimento do benefício pela Autarquia Previdenciária coloca o segurado em risco social, em estado de necessidade, compelido a superar suas dificuldades físicas para buscar meios de manutenção e sobrevivência.
+3. Deve-se olhar a situação com enfoque na efetiva proteção social que a demanda exige, não havendo que se falar em concomitância de exercício de atividade remunerada com a percepção de benefício por incapacidade, e sim na reparação da injusta situação a que foi submetido o segurado. Retirar da entidade previdenciária o dever de conceder o benefício a quem realmente faz jus seria como premiar a Administração Pública pelo indeferimento administrativo do benefício, com o enriquecimento
+sem causa.
+4. Recurso Especial do INSS a que se nega provimento.
+(REsp 1443776/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 24/04/2018, DJe 10/05/2018).
+Isto posto, com fundamento nos arts. 932, III e V, do Código de Processo Civil de 2015 e 34, XVIII, a e c, e 255, I e III, do RISTJ, CONHEÇO EM PARTE do Recurso Especial da Segurada e DOU-LHE PROVIMENTO, para, tão somente, fixar o termo inicial do benefício na data da citação do INSS, e, com fundamento nos arts. 932, IV, do Código de Processo Civil de 2015 e 34, XVIII, b, e 255, II, ambos do RISTJ, NEGO PROVIMENTO ao Recurso Especial do INSS
+Publique-se e intimem-se.
