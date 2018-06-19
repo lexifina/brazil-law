@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME], fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 113):
+APELAÇÃO CÍVEL - AÇÃO DE REVISÃO DE CLÁUSULAS CONTRATUAIS - JULGAMENTO CITRA PETITA - TEORIA DA CAUSA MADURA IMPOSSIBILIDADE DE LIMITAÇÃO DE JUROS À TAXA DE 12% AO ANO - POSSIBILIDADE DE CAPITALIZAÇÃO MENSAL DE JUROS.
+1- Não há lei, no sistema bancário, limitadora da taxa de juros à percentagem de 12% ao ano. E, pela Súmula vinculante nº 07, do Supremo Tribunal Federal, editada quando ainda vigente o § 3º, do artigo 192, da Constituição Federal, há necessidade, para tanto, de lei complementar. Evidentemente que tal estipulação não pode ultrapassar a taxa praticada pelo mercado.
+2- Possível a capitalização mensal dos juros, nos contratos bancários, desde que pactuada e também por existir legislação específica autorizando-a, a partir da publicação da Medida Provisória nº 1.963-17/2000, reeditada sob o nº 2.170.36/2001.
+3- Não há que se falar em ilegalidade, ou não, da cobrança de taxas e de comissão de permanência, eis que cumulada com outros encargos, diante da vedação à inovação recursal.
+4 - Nos casos em que a questão versar exclusivamente sobre matéria de direito e estiver em condições de imediato julgamento ou, ainda, valendo-se de interpretação extensiva do mencionado parágrafo, se simplesmente a lide estiver em condições de imediato julgamento, aplicando-se a denominada Teoria da Causa Madura.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 161-168).
+Nas razões do especial (e-STJ, fls. 172-188), o insurgente alega contrariedade ao disposto nos artigos: 131, 165, 458, inciso II; 515, § 1º, e 535, inciso II, todos do CPC/1973; 128, inciso I, da Lei Complementar nº 80/1994; e 5º, § 5º, da Lei nº 1.060/1950, além de divergência com o verbete sumular nº 233/STJ.
+Alega, preliminarmente, a configuração de negativa de prestação jurisdicional. No mérito, sustenta a nulidade do processo, a partir da especificação de provas, por falta de intimação pessoal do Defensor Público; a ocorrência de julgamento citra petita e a dissonância do acórdão combatido com a Súmula nº 233 do colendo STJ.
+Contrarrazões apresentadas (e-STJ fls. 191-200).
+Admitido o processamento do recurso na origem, ascenderam os autos a esta Corte Superior.
+É o relatório.
+Decido.
+O recurso não comporta acolhimento.
+1. De início, destaca-se que o acórdão recorrido foi publicado antes da entrada em vigor da Lei nº 13.105/15, pelo que o recurso em análise está sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme o Enunciado Administrativo 2/16 desta Corte.
+2. Em relação à negativa de prestação jurisdicional, verifica-se que a parte ora recorrente se limitou a defender genericamente a ocorrência de violação dos citados dispositivos do Código de Ritos, sem especificar concretamente sobre quais questões teria a Corte de origem incorrido nos vícios de omissão, contradição ou obscuridade, bem como olvidou-se de apontar precisamente de que modo os alegados vícios poderiam influenciar no julgamento do acórdão impugnado, de maneira que se revela inadmissível o recurso especial no ponto, ante a deficiência em sua fundamentação, conforme jurisprudência consolidada na Súmula 284 do Supremo Tribunal Federal, aplicada analogicamente pelo STJ.
+A propósito, os precedentes cujas ementas seguem abaixo transcritas:
+TRIBUTÁRIO. GRADAÇÃO PREVISTA NO ART. 13 CAPUT E PARÁGRAFO ÚNICO DA LEI N. 11.096/2005. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73. DEFICIÊNCIA DA FUNDAMENTAÇÃO. PRETENSÃO DE REEXAME DE PROVAS. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. ALEGÇAÇÃO DE VIOLAÇÃO DO ART. 111 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO.
+I - Em relação à alegada violação do art. 535, II, do CPC/1973, verifica-se que a recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca do art. 111 do CTN, o fazendo de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação, pelo Tribunal de origem, dos dispositivos legais indicados pela recorrente. Incidência da Súmula n. 284/STF.
+II - No mérito, verifica-se que a irresignação do recorrente acerca do não cumprimento da gradação prevista no art. 13 caput e parágrafo único da Lei n. 11.096/2005, vai de encontro às convicções do julgador a quo, que com lastro no conjunto probatório constante dos autos decidiu que foi obedecida a gradação prevista na referida legislação.
+III - Nesse diapasão, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7 do STJ.
+IV - No tocante ao art. 111 do CTN, se observa evidente a falta de prequestionamento do referido dispositivo, restando clara, ainda, a vinculação do regramento à pertinência da alegação factual apresentada pelo recorrente e afastada da forma encimada. Incidência dos enunciados sumulares n. 7/STJ e 284 STF.
+V - Agravo interno improvido.
+(AgInt no AREsp 1018354/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 24/10/2017, DJe 30/10/2017 - grifo nosso)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PIS E COFINS. ADMINISTRAÇÃO DE CARTEIRA DE VALORES MOBILIÁRIOS. AUSÊNCIA DE PROVA DE RECOLHIMENTO DE IRPJ COM BASE NO LUCRO PRESUMIDO. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. REVOLVIMENTO DAS PROVAS DOS AUTOS. SÚMULA 7/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC/73, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. O Tribunal de origem, soberano na apreciação das circunstâncias fáticas, assentou que a recorrente não comprovou que recolhe o IRPJ com base no lucro presumido.
+3. (..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp 1238540/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/10/2017, DJe 20/10/2017 - grifo nosso)
+3. O recorrente aponta, ainda, afronta às disposições contidas nos artigos 128, inciso I, da Lei Complementar nº 80/1994; e 5º, § 5º, da Lei nº 1.060/1950.
+Verifica-se, no entanto, que o conteúdo normativo dos dispositivos legais tidos por violados não foi objeto de exame pela instância ordinária, mesmo após o julgamento dos embargos de declaração opostos pelos ora recorrentes, razão pela qual incide, na espécie, a Súmula nº 211 desta Corte, de seguinte teor: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Registre-se, por oportuno, que, segundo pacífica jurisprudência do STJ, na instância especial, ainda que se trate de matéria de ordem pública, a análise da questão controvertida não dispensa o prequestionamento.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO. PREVIDÊNCIA PRIVADA. 1. PRESCRIÇÃO. MATÉRIA DE ORDEM PÚBLICA. NECESSIDADE DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. 2. ALTERAÇÃO UNILATERAL DO CONTRATO. RESTITUIÇÃO DE VALORES PAGOS PARA O PLANO DE PREVIDÊNCIA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. 3. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 4. AGRAVO IMPROVIDO.
+1. A questão referente à prescrição quinquenal, além de não ter sido objeto das razões de embargos de declaração, não foi debatida pelo Tribunal de Justiça, tampouco arguiram ofensa ao art. 1.022 do CPC/2015. Dessa forma, não tendo sido enfrentada pelo acórdão recorrido a referida tese, o conhecimento do recurso especial fica obstado, dada a ausência de prequestionamento, incidindo, por conseguinte, as Súmulas n. 282 do STF e 211 do STJ. Segundo pacífica jurisprudência do STJ, na instância especial, ainda que se trate de matéria de ordem pública, a análise da questão controvertida não dispensa o prequestionamento.
+2. Para se chegar a conclusão contrária ao entendimento do acórdão recorrido sobre a restituição dos valores pagos pela parte agravante ante a ruptura do contrato motivada pelas agravantes, seria imprescindível o reexame de fatos e provas, bem como a interpretação de cláusulas contratuais, o que é vedado no âmbito do recurso especial, ante o disposto nas Súmulas 5 e 7 do STJ.
+3. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea c do permissivo constitucional, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1247832/PI, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/05/2018, DJe 24/05/2018 - grifos nossos)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. HOMICÍDIO DOLOSO. NULIDADE. JULGAMENTO DO RECURSO EM SENTIDO ESTRITO. AUSÊNCIA DE INTIMAÇÃO PESSOAL DO DEFENSOR PÚBLICO. AUSÊNCIA DE PREQUESTIONAMENTO. ILEGALIDADE FLAGRANTE. NULIDADE ABSOLUTA. RECONHECIMENTO DE OFÍCIO. DESCLASSIFICAÇÃO PARA A MODALIDADE CULPOSA. MATÉRIA PREJUDICADA.
+1. A ausência de intimação pessoal do defensor dativo, mesmo sendo matéria de ordem pública, não afasta a necessidade de prequestionamento.
+2. Contudo, o Superior Tribunal de Justiça firmou o entendimento de que o Defensor Público, ou quem lhe faça as vezes, deve ser intimado pessoalmente de todos os atos do processo, sob pena de nulidade absoluta do ato, por violação à ampla defesa, conforme se extrai dos arts. 5º, § 5º, da Lei n. 1.060/1950, e 128, I, da Lei Complementar n. 80/1994 (HC n. 309.685/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/3/2016).
+3. Diante da constatação de ilegalidade flagrante que culminará na anulação do julgamento do recurso em sentido estrito, encontra-se prejudicado o pleito para reconhecimento da culpa consciente.
+4. Agravo regimental conhecido parcialmente e, nessa extensão, improvido. Habeas corpus concedido de ofício, para anular o julgamento proferido pela Corte de origem.
+(AgInt no REsp 1270317/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/05/2016, DJe 18/05/2016 - grifos nossos)
+4. Consigne-se, igualmente, que o recurso especial não pode ser conhecido quanto à apontada violação à Súmula nº 233/STJ, pois os verbetes e enunciados dos Tribunais não se equiparam às leis federais para a finalidade disposta no artigo 105, inciso III, da Constituição Federal, de forma que não basta, para a admissão do recurso, a ofensa apontada.
+5. Outrossim, aduz o recorrente afronta ao disposto no artigo 515, § 1º, do CPC/1973 pela Corte estadual, por ter proferido julgamento citra petita em relação ao "pedido de análise da abusividade do patamar de fixação de taxas de longo prazo" (fl. 184, e-STJ).
+Constata-se, contudo, da leitura do acórdão recorrido, que o Tribunal de origem expressamente se pronunciou acerca do referido encargo (fl. 119 e 167-168, e-STJ):
+COBRANÇA DE JUROS CAPITALIZADOS, MENSALMENTE OU TAXA DE JUROS DE LONGO PRAZO.
+É possível a capitalização dos juros, mesmo que mensalmente, neste caso, eis que pactuada e autorizada por se tratar de operação realizada por instituição financeira integrante do Sistema Financeiro Nacional.
+A autorização da inclusão da capitalização mensal dos juros ocorreu a partir da publicação da Medida Provisória nº 1.963-17/2000, reeditada sob o nº 2.170.36/2001.
+Portanto, não há que se falar em ilegalidade de tal avença.
+Logo, inviável o acolhimento da pretensão quanto ao ponto.
+6. Do exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
