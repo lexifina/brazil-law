@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AO ART. 22, § 4º, DA LEI 8.906/94. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DE MODO ADEQUADO NAS RAZÕES RECURSAIS. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. REMESSA AO JUÍZO DA FALÊNCIA.
+1. Estando a exequente do crédito principal (do qual seriam destacados os honorários contratuais) em situação falimentar, a Lei 11.101/2005 impõe o direcionamento de todos os créditos pertencentes ao devedor em processo de falência àquele juízo universal.
+2. Não se está aqui fazendo qualquer juízo sobre a preferência ou não dos honorários contratuais em relação aos demais créditos perante a massa falida ou sobre a natureza da verba, justamente porque compete ao juízo falimentar tal deliberação, e não ao juízo federal.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa ao art. 22, § 4º, da Lei 8.906/94, alegando, em síntese, que:
+Ou seja: a porção do direito creditício da empresa Recorrente contra o INCRA e à União Federal correspondente aos honorários advocatícios deixou o patrimônio daquela para ingressar definitivamente no patrimônio dos procuradores da Recorrente de modo que, por expressa disposição legal, passou a ter direito a sua parte do crédito a ser recebido, diretamente destacado dos valores a serem recebidos pela Recorrente.
+(..) Portanto, o entendimento firmado no v. acórdão atacado de que não deve ser destacada a verba honorária configura clara violação ao ato jurídico perfeito (art. 5º, XXXVI, da CF), à coisa julgada (art. 467, do CPC) e em especial ao art. 22, § 4º, da Lei nº 8.906/94, além da Súmula Vinculante nº 47.
+O recurso foi admitido pela decisão de fl. 234.
+É o relatório. Passo a decidir.
+Inicialmente, registre-se que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Constou do acórdão recorrido que:
+Estando a exequente do crédito principal (do qual seriam destacados os honorários contratuais) em situação falimentar, a Lei 11.101/2005 impõe o direcionamento de todos os créditos pertencentes ao devedor em processo de falência àquele juízo universal. Destarte, não existe a possibilidade de recebimento dos honorários contratuais neste processo, já que eles são destacados diretamente do crédito principal.
+Não se está aqui fazendo qualquer juízo sobre a preferência ou não dos honorários contratuais em relação aos demais créditos perante a massa falida (artigos 23 e 24 da Lei nº 8.906/94), ou sobre a natureza da verba (art. 85, §14, do CPC/2015 e Súmula Vinculante nº 47), justamente porque compete ao juízo falimentar tal deliberação, e não ao juízo federal.
+Contudo, tal fundamentação não foi impugnada de modo adequado no presente recurso. Ressalte-se que tal entendimento funda-se na competência do juízo da falência para deliberar sobre a possibilidade de retenção da parcela relativa aos honorários de advogado. No entanto, não há indicação de eventual afronta a preceito de lei federal concernente à competência do juízo da falência.
+Aplica-se, por analogia, o disposto nas Súmulas 283 ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.") e 284 ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), ambas do STF.
+Diante do exposto, com base no art. 932, III, do CPC/2015 c/c o art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
