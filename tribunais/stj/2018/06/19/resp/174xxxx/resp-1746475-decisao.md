@@ -1,0 +1,53 @@
+EMENTA
+PROCESSUAL CIVIL E RESPONSABILIDADE CIVIL. INSCRIÇÃO INDEVIDA EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. TERMO INICIAL. JUROS DE MORA. SÚMULA N. 54/STJ. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. APLICAÇÃO DA SÚMULA 284/STF. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL QUE TENHA SOFRIDO INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. DANO MORAL. VERBA REPARATÓRIA QUE NÃO ESCAPA AO PRINCÍPIO DA RAZOABILIDADE E NÃO DESTOA DOS PARÂMETROS DESTA CORTE. MANUTENÇÃO DA QUANTIA ARBITRADA. DECISÃO MANTIDA.
+1. A parte recorrente não indicou os dispositivos legais eventualmente violados pelo acórdão recorrido, não observando, portanto, a técnica própria de interposição do recurso especial, o que implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior. Aplicação da Súmula n. 284/STF. Precedentes.
+2. Ademais, a recorrente não apontou o dispositivo legal cuja interpretação tenha sido divergente, a fim de viabilizar o conhecimento da insurgência a respeito da tese de mérito. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente. Incidência, mais uma vez, do verbete n. 284 da Súmula do STF.
+3. Não se admite recurso especial por negativa de vigência ou violação de súmula, pois esta não se equipara a dispositivo de lei federal para fins de interposição do recurso.
+4. Nos termos da jurisprudência consolidada neste Superior Tribunal de Justiça, a revisão de indenização por danos morais só é possível em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade, o que não ocorreu na espécie.
+5. Recurso especial a que se nega provimento.
+DECISÃO
+1. Cuida-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+NEGÓCIOS JURÍDICOS BANCÁRIOS. DANO MORAL. INSCRIÇÃO INDEVIDA EM CADASTROS DE INADIMPLENTES. QUANTUM INDENIZATÓRIO. MAJORAÇÃO.
+Consideradas a repercussão do dano e as condições econômicas dos litigantes, impõe-se o arbitramento de indenização por danos morais em montante que indenize satisfatoriamente a parte lesada, sem, contudo, provocar seu locupletamento indevido ou causar onerosidade excessiva à ofensora. Majoração do valor arbitrado na sentença.
+Juros de mora devem incidir desde a citação, por se tratar de relação contratual.
+APELO PROVIDO EM PARTE.
+Opostos embargos de declaração, não foram conhecidos.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto no art. 6º, inciso VI, do CDC e Súmula n. 54/STJ.
+Alega, em síntese, que os danos morais foram fixados de forma irrisória (R$ 5.000,00 - cinco mil reais), pedindo sua majoração.
+Por outro lado, defende que os juros e a correção devem incidir a partir do evento danoso, por se tratar de responsabilidade extracontratual.
+Contrarrazões ao recurso especial juntadas às fls. 397/408.
+Crivo positivo de admissibilidade na origem (fls. 419/424).
+É o relatório. DECIDO.
+2. Quanto ao termo inicial de incidência dos juros moratórios e correção, verifica-se que a parte recorrente não indicou os dispositivos legais eventualmente violados pelo acórdão recorrido, não observando, portanto, a técnica própria de interposição do recurso especial.
+No caso, a ausência de especificação do dispositivo legal porventura violado caracteriza argumentação deficiente a impossibilitar a compreensão exata da controvérsia, atraindo, de forma inconteste, o teor da Súmula 284/STF.
+Tal óbice também se aplica ao dissídio pretoriano alegado, visto que a parte recorrente limitou-se a indicar precedentes paradigmas sem, contudo, indicar qual dispositivo legal teria recebido interpretação divergente.
+A ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial.
+3. Por outro lado, no tocante à suposta ofensa à Súmula n. 54 do STJ, esta Corte Superior entende que é incabível a análise de recurso especial, por quaisquer das alíneas do permissivo constitucional, que tenha por fundamento violação de enunciado ou súmula de Tribunal Superior, por não se enquadrar no conceito de lei previsto no art. 105, III, a, da Constituição Federal.
+Nesse sentido, destaca-se o seguinte precedente:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CONTRATO BANCÁRIO. VIOLAÇÃO A SÚMULA E DISSÍDIO COM VERBETE SUMULAR.
+1. O conceito de súmula não se confunde com o de "lei federal", razão pela qual é de ser negado seguimento a recurso especial, pela alínea "a" do permissivo constitucional, quando alegado malferimento a verbete sumular.
+2. Na esteira dos precedentes deste Tribunal, não configura o dissídio jurisprudencial o confronto com súmula, cabendo ao recorrente realizar o cotejo analítico e demonstrar a divergência, utilizando-se, para tanto, dos julgados que deram origem ao enunciado sumular
+3. Decisão agravada mantida pelos seus próprios fundamentos.
+4. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp nº 882.392/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 23/3/2011)
+4. Por fim, quanto ao pedido de majoração do valor fixado a título de danos morais (R$ 5.000,00 - cinco mil reais), faz-se necessário transcrever o que ficou consignado no acórdão do Tribunal a quo sobre o tema:
+A questão devolvida à apreciação desta Corte está limitada ao valor da indenização.
+A indenização deve ser em valor tal que garanta à parte credora uma reparação (se possível) pela lesão experimentada, bem como implique, àquele que efetuou a conduta reprovável, impacto suficiente para dissuadi-lo na repetição de procedimento símile.
+Nesta linha, entendo que a condição econômica das partes, a repercussão do fato, assim como a conduta do agente devem ser perquiridos para a justa dosimetria do valor indenizatório, no intuito de evitar o enriquecimento injustificado da autora e aplicação de pena exacerbada à demandada. Noutro sentido não me parecem as ponderações exaradas por [NOME], ao tratar do arbitramento do dano moral:
+ .. .
+Tecidas essas ponderações, entendo que o valor de indenização arbitrado em sentença (R$ 2.000,00 - fl. 142) deve ser majorado para R$ 5.000,00, tendo em vista a finalidade dúplice da indenização, bem como o porte econômico do ofensor. Esse valor, por um lado, não se mostra baixo, assegurando o caráter repressivo -pedagógico próprio da indenização por danos morais; por outro, não se apresenta elevado a ponto de caracterizar um enriquecimento sem causa da parte autora.
+Conforme reiterada jurisprudência desta Corte, o valor dos danos morais só poderá ser revisto, na via especial, nos casos em que o montante fixado afronta os princípios da razoabilidade e da proporcionalidade, sob pena de incidência do óbice da Súmula 7 do STJ, uma vez que a lide foi julgada com base no substrato fático-probatório dos autos (reprovabilidade da conduta de acordo com as circunstâncias do caso). Dessa forma, somente quantias que se revelam ínfimas ou exorbitantes, isto é, desarrazoadas diante dos valores comumente estabelecidos em situações análogas, ensejam aptidão para o exame e revisão por este Tribunal. No caso em análise, não se observam motivos a justificar a majoração do quantum compensatório.
+Ratifica esse entendimento os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - INSCRIÇÃO INDEVIDA EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO SOB O FUNDAMENTO DE INCIDÊNCIA DO ÓBICE DA SÚMULA 7 DO STJ.
+1. Correta a aplicação da Súmula 7 do STJ, pois a alteração da conclusão adotada pelo acórdão recorrido a respeito da existência de ato ilícito e nexo causal, bem como a ausência de culpa exclusiva da vítima, demandaria novo exame do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial.
+2. Verba indenizatória fixada em R$ 8.000,00 (oito mil reais) ante a inscrição indevida em órgão restritivos de crédito. A revisão do quantum indenizatório apenas é possível, em sede de recurso especial, quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade, o que não ocorre na hipótese vertente. Não há como concluir pelo excesso na fixação da indenização da forma como foi conduzida sem adentrar em aspectos fáticos e probatórios dispostos nos autos, insuscetíveis de revisão na via estreita do especial, por expressa disposição da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 905.309/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/10/2016, DJe 07/11/2016)
+AGRAVO REGIMENTAL - AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - INSCRIÇÃO DESABONADORA DO NOME DO AGRAVANTE SEM A DEVIDA NOTIFICAÇÃO PRÉVIA - QUANTUM INDENIZATÓRIO FIXADO COM RAZOABILIDADE - DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO.
+1.- A intervenção do STJ, Corte de caráter nacional, destinada a firmar interpretação geral do Direito Federal para todo o País e não para a revisão de questões de interesse individual, no caso de questionamento do valor fixado para o dano moral, somente é admissível quando o valor fixado pelo Tribunal de origem, cumprindo o duplo grau de jurisdição, se mostre teratológico, por irrisório ou abusivo.
+2.- Inocorrência de teratologia no caso concreto, em que, em razão da inscrição do nome do Agravante em órgão de proteção ao crédito, sem a devida notificação prévia, foi fixado em 16.11.2012 a indenização no valor de R$ 1.000,00 (mil reais), a título de dano moral.
+3.- Agravo Regimental improvido.
+(AgRg no AREsp 482.138/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 24/04/2014, DJe 13/05/2014)
+Ademais, a jurisprudência desta Corte está sedimentada no sentido de ser incabível a revisão do montante indenizatório estabelecido a título de danos morais com base em dissídio jurisprudencial, porquanto, ainda que haja grande semelhança nas características externas e objetivas, haverá distinção no aspecto subjetivo dos julgados confrontados (v.g. AgRg no AREsp 816.086/PR, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 17/3/2016, DJe 29/3/2016; e AgRg no AREsp 231.854/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/11/2016, DJe 16/11/2016).
+5. Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
