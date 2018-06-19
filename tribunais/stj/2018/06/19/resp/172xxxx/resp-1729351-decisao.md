@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+Revisão contratual. Plano de assistência médico-hospitalar coletivo-empresarial. Aplicação de índice de reajuste em decorrência de mudança de faixa etária.
+Apelado é aderente da apólice em que o sindicato é o titular e que negocia diretamente o acordo com a operadora do plano de saúde. Reajuste por mudança de faixa etária tem amparo legal, não configurando discriminação em relação ao idoso. Pessoas com idade mais avançada necessitam de maiores cuidados médicos, ocasionando aumento nas despesas. Equilíbrio econômico/financeiro do contrato deve prevalecer.
+Pretensa restituição de valores pagos a maior sem suporte. Recorrido arcara regularmente com todas as parcelas, sem oferecer ressalva ou observação, e teve toda a cobertura médico-hospitalar no período correspondente. Ausência de onerosidade excessiva ou abusividade, não obstante a relação de consumo existente. Improcedência da ação se apresenta adequada.
+Apelo provido.
+Alega-se violação dos artigos 15, § 3º, da Lei 10.741/03 e 39 e 51 do Código de Defesa do Consumidor, associada a dissídio jurisprudencial, ao argumento de que é abusivo o reajuste da mensalidade de plano de saúde por mudança de faixa etária.
+Assim delimitada a controvérsia, passo a decidir.
+Já decidiu esta Corte Superior que o reajuste da mensalidade de plano de saúde coletivo, caso dos autos, por mudança de faixa etária não é, por si só, abusivo, cabendo o exame do caso concreto para se aferir se há abusividade.
+Assim:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PLANO DE SAÚDE. REAJUSTE DE MENSALIDADE POR MUDANÇA DE FAIXA ETÁRIA. ADMISSIBILIDADE. AFERIÇÃO DE EVENTUAL ABUSIVIDADE DEVE SER FEITA PELA CORTE DE ORIGEM. AGRAVO INTERNO NÃO PROVIDO.
+1. A Segunda Seção do Superior Tribunal de Justiça, quando do julgamento do REsp nº 1.280.211/SP, firmou o entendimento de ser, em princípio, idôneo o reajuste de mensalidade de plano de saúde, em razão da mudança de faixa etária do participante, pois com o incremento da idade há o aumento de risco de a pessoa vir a necessitar de serviços de assistência médica. Entretanto, a fim de evitar abusividades, devem ser observados alguns parâmetros, como: a) expressa previsão contratual; b) respeito aos limites e demais requisitos estabelecidos na Lei Federal nº 9.656/98; c) não serem aplicados índices de reajuste desarrazoados ou aleatórios, que onerem excessivamente o consumidor, em manifesto confronto com a equidade e a cláusula geral da boa-fé objetiva e da especial proteção do idoso, dado que aumentos elevados, sobretudo para essa última categoria, poderia, de forma discriminatória, impossibilitar a sua permanência no plano; d) serem respeitadas as normas expedidas pelos órgãos governamentais (Resolução CONSU nº 6/98 ou Resolução Normativa nº 63/2003 da ANS).
+2. Agravo interno não provido.
+(AgInt no AREsp 1191139/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/2/2018, DJe 6/3/2018)
+No caso dos autos, o Tribunal local concluiu que "o recorrido já ostenta a condição de idoso, pois se trata de pessoa com idade avançada, necessitando, consequentemente, de maiores cuidados médicos.
+Os reajustamentos se atentam ao índice de sinistralidade das pessoas idosas, que é superior ao de outras faixas etárias, não se vislumbrando nenhuma abusividade ou onerosidade excessiva.
+Assim, não há que se falar em afronta à dignidade da pessoa humana do idoso, já que é público e notório que pessoas com idade mais avançada necessitam de maiores cuidados médicos, o que ocasiona ampliação das despesas" (e-STJ, fl. 279).
+Inegável, pois, que ao reexame da causa recaem os óbices de que tratam os enunciados n. 5 e 7 da Súmula desta Casa.
+Diante do exposto, nego provimento ao recurso especial. Tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro, sobre o seu próprio valor, em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil.
+Intimem-se.
