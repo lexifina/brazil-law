@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] em face do acórdão do Tribunal de Justiça do Rio Grande do Sul que deu provimento ao agravo em execução interposto pelo Ministério Público.
+Consta do autos que, em 14/3/2014, o Juízo da execução deferiu ao paciente o pedido de prisão domiciliar com monitoramento eletrônico, tendo em vista a falta de vagas no regime semiaberto. O Tribunal de origem proveu o agravo em execução ministerial (n.[CPF]), determinando o retorno do paciente ao regime intermediário, em julgamento ocorrido em 26/11/2015.
+Posteriormente, foi concedia progressão ao regime aberto, tendo o Juízo da execução deferido a prisão domiciliar, com monitoramento eletrônico, em 7/7/2017 (fls. 237/238).
+Irresignado, o Ministério Público interpôs agravo em execução (n.[CPF]), o qual foi provido pelo Tribunal a quo, sob o fundamento de que a decisão que deferira a prisão domiciliar seria nula, porque ofendeu a coisa julgada.
+Alega a impetrante que atualmente não há "casa de albergado" na Comarca de Porto Alegre e, diante da ilegal situação de convivência, no mesmo estabelecimento, de apenados dos regimes semiaberto e aberto, ao invés de se adaptar à LEP, edificando adequadas casas prisionais para os diversos regimes de cumprimento de pena, optou o poder executivo gaúcho em apenas alterar a denominação para "Instituto Penal", o que, por óbvio, não resolve a ilegalidade em vigência (fl. 3).
+Afirma que a Lei de Execuções penais prevê uma situação que não está sendo atendida pelo Estado, e, assim, não pode o condenado sofrer as conseqüências do inadimplemento oficial, sendo encarcerado em casa prisional incompatível com o regime de cumprimento do apenamento que lhe foi imposto: aberto (fl. 12).
+Requer a concessão da ordem a fim de que seja garantido ao paciente, preso do regime aberto no Instituto Penal Patronato Lima Drumond, que aguarde, em prisão domiciliar, o surgimento de vaga em estabelecimento adequado e compatível com o referido regime (fl. 13).
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela concessão da ordem de habeas corpus.
+É o relatório.
+DECIDO.
+Cinge a controvérsia sobre a concessão de prisão domiciliar ao apenado que cumpre pena no regime aberto.
+O Tribunal de origem deu provimento ao agravo em execução, revogando a decisão que deferiu a prisão domiciliar, nos seguintes termos (fl. 216/219).
+O Ministério Público interpôs agravo em execução contra decisão proferida pelo Juízo da Vara de Execuções Criminais da Comarca de Porto Alegre que, em 05.09.2016, deferiu ao apenado [NOME] sua inclusão no sistema de monitoramento eletrônico, nos seguintes termos (fls. 58/58v.):
+"Vistos.
+Diante do atendimento na Casa Prisional, referindo o interesse do apenado no monitoramento eletrônico, bem como o lapso para progressão de regime em 09/06/2017, concedo ao apenado a saída especial, determinando que seja liberado da casa prisional em que se encontra, salvo se por outro motivo estiver recolhido, para que, em até 48 horas, se apresente no Departamento de Monitoramento Eletrônico da Região Metropolitana, localizado no instituto Penal Padre Pio Buck (Av.Roccio, n- 900, Vila João Pessoa, Porto Alegre/RS -ao lado do Presídio Central), para que nele(a) seja colocado o equipamento.Saliento que o preso deverá cumprir as seguintes condições:
+a) Não poderá se afastar de sua residência no período compreendido entre 20h e 06h;
+ ..
+Como se extrai dos autos, o apenado, cumprindo pena em regime semiaberto, em data anterior, teve concedido o benefício da prisão domiciliar, mediante monitoramento eletrônico, o qual foi cassado em 08.04.2016, em razão de julgamento de agravo em execução por este Tribunal de Justiça, sob o número [CPF], julgado em 26.11.2015,nos seguintes termos:
+ ..
+Na espécie, a decisão anterior proferida sobre a matéria e a decisão que proveu o agravo em execução interposto daquela já consideraram a situação do apenado e as condições prisionais no local: "Nem o agravado, nem as circunstâncias do precário sistema carcerário, enquadram-se em quaisquer das hipóteses elencadas por lei, restando inviabilizado o deferimento da benesse em questão, devendo ser reformada a decisão deferitória do benefício." (fl. 51v.).
+Logo, a decisão ora atacada, prolatada em 05.09.2016, ou seja, poucos meses após o julgamento do referido agravo em execução,reapreciou a matéria já julgada, com base nas mesmas circunstâncias fáticas, que não tiveram alteração no período.
+Assim, já indeferida ao apenado a prisão domiciliar em decisão transitada em julgado, proferida em agravo em execução anterior, mantidas as mesmas circunstâncias fáticas, nula a nova decisão judicial que reapreciou a matéria e deferiu o benefício, ofendendo a coisa julgada.
+Tratando-se de nulidade absoluta, deve ser reconhecida de ofício, restando prejudicados os fundamentos do agravo.
+Verifica-se dos autos, que o Tribunal de origem considerou a nulidade da decisão que concedeu ao paciente a progressão ao regime aberto, com monitoramento eletrônico, por entender que se tratava das mesmas circunstâncias fáticas já analisadas pelo Tribunal no julgamento do primeiro agravo em execução, ocorrido em 26/11/2015.
+Ocorre que, a primeira decisão do Juízo da execução tratou da progressão do paciente ao regime semiaberto, enquanto a segunda deferiu a progressão ao regime aberto, em ambas foi concedida a prisão domiciliar, por ausência de vagas no regime adequado.
+Como se vê, não se trata de nulidade da decisão do Juízo da execução por violação a coisa julgada, pois as decisões de primeiro grau trataram de circunstâncias fáticas diversas, em regime prisional distinto.
+Assim, de pronto, verifica-se que a matéria ventilada no presente writ não pode ser analisada por este Superior Tribunal de Justiça, tendo em vista que a questão de mérito não foi apreciada pelo Tribunal de origem, fato que obsta a análise da impetração por este Sodalício, sob pena de indevida supressão de instância.
+Por outro lado, verifica-se o constrangimento ilegal diante da não apreciação da questão pelo Tribunal de origem, tendo em vista que o acórdão a que se refere o Corte Estadual tratou da concessão de prisão domiciliar, quando o paciente estava cumprindo pena no regime semiaberto, enquanto a decisão considerada nula deferiu a prisão domiciliar ao reeducando que está cumprindo pena no regime aberto.
+Ante o exposto, não conheço do habeas corpus, mas concedo de ofício a ordem para determinar que o Tribunal de origem aprecie o mérito do writ originário, como entender de direito.
+Comunique-se.
+Publique-se.
+Intimem-se.
