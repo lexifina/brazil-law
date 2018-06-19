@@ -1,0 +1,7 @@
+DECISÃO
+1. Cuida-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" da Constituição Federal, no qual se alegou violação dos arts. 54, caput e incisos II e IV, da Lei Federal nº 13.097/15.
+Alega que tal dispositivo legal é taxativo em permitir a averbação, mediante decisão judicial, da existência de outro tipo de ação cujos resultados ou responsabilidade patrimonial possam reduzir seu proprietário à insolvência.
+Defende não se justificar a exigência de demonstração pela recorrente de que a locatária não tem bens capazes de garantir o juízo futuramente, pois é imprescindível que o credor tenha averbado em matriculas de imóveis dos devedores a distribuição da ação, sob pena de ver frustrada a execução da tutela jurisdicional. Argumenta que o objeto da lei foi garantir a segurança jurídica dos registros imobiliários, ao destacar a importância da concentração na matrícula imobiliária de todos os atos que impliquem vulneração ou possibilidade de fraude.
+DECIDO.
+2. Em face das circunstâncias que envolvem a controvérsia, com base no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, e para melhor exame do objeto do recurso, dou provimento ao presente agravo de instrumento para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
