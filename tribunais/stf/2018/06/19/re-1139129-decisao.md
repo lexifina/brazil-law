@@ -1,0 +1,36 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. CUMPRIMENTO DA CONDENAÇÃO. RAZOABILIDADE DA SANÇÃO IMPOSTA. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. LEI 8.429/1992. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “I – Agravo de instrumento. Ação Civil pública por improbidade administrativa. Decisão que indeferiu pedido de expedição de ofício a Câmara Municipal de Rio Claro para aplicar a pena de perda da função pública a vereador. Impossibilidade. Acertada a decisão.
+    II – A condenação referia-se a mandato anterior, exercido de 2001 a 2004, quando os atos praticados deram ensejo à propositura da ação. Em segundo grau, afastou-se a suspensão dos direitos políticos, dispondo que a população rio-clarense deveria julgá-lo nas próximas eleições e no ano de 2012 foi novamente eleito Vereador. A perda da função pública imposta não se aplica a mandato eletivo futuro.
+    III – Recurso improvido.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 37, § 4º, da Constituição Federal.
+    O Tribunal a quo proferiu juízo positivo de admissibilidade do recurso.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Com efeito, a revisão das sanções aplicadas em ações de improbidade administrativa implica a análise da legislação infraconstitucional aplicável à espécie (Lei 8.429/1992), bem como o reexame do conjunto fático-probatório dos autos, o que se revela inviável em sede de recurso extraordinário, a teor da Súmula 279 do Supremo Tribunal Federal, que dispõe, in verbis: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático–probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe à discussão eminentemente de direito, face ao óbice erigido pela Súmula 279 do STF.
+    Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do referido verbete sumular, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática.
+    Por oportuno, vale destacar preciosa lição de Roberto Rosas sobre a Súmula 279 do STF:
+    “Chiovenda nos dá os limites da distinção entre questão de fato e questão de direito. A questão de fato consiste em verificar se existem as circunstâncias com base nas quais deve o juiz, de acordo com a lei, considerar existentes determinados fatos concretos.
+    A questão de direito consiste na focalização, primeiro, se a norma, a que o autor se refere, existe, como norma abstrata (Instituições de Direito Processual, 2ª ed., v. I/175).
+    Não é estranha a qualificação jurídica dos fatos dados como provados (RT 275/884 e 226/583). Já se refere a matéria de fato quando a decisão assenta no processo de livre convencimento do julgador (RE 64.051, Rel. Min. Djaci Falcão, RTJ 47/276); não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821). No processo penal, a verificação entre a qualificação de motivo fútil ou estado de embriaguez para a apenação importa matéria de fato, insuscetível de reexame no recurso extraordinário (RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666).
+    A Súmula 279 é peremptória: ‘Para simples reexame de prova não cabe recurso extraordinário’. Não se vislumbraria a existência da questão federal motivadora do recurso extraordinário. O juiz dá a valoração mais conveniente aos elementos probatórios, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes. Não se confunda com o critério legal da valorização da prova (RTJ 37/480, 56/65)(Pestana de Aguiar, Comentários ao Código de Processo Civil, 2ª ed., v. VI/40, Ed. RT; Castro Nunes, Teoria e Prática do Poder Judiciário, 1943, p. 383). V. Súmula STJ-7.“ (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 137-138)
+    Nesse sentido:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. LEI Nº 8.429/1992. PENA DE SUSPENSÃO DOS DIREITOS POLÍTICOS. CONSTITUCIONALIDADE. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO TRIBUNAL FEDERAL. PROPORCIONALIDADE E RAZOABILIDADE DA SANÇÃO. VALORAÇÃO DEPENDENTE DA REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE NO ACÓRDÃO REGIONAL. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. ALEGAÇÃO DE OFENSA AO ART. 5º, LIV, DA CONSTITUIÇÃO DA REPÚBLICA. CONTRADITÓRIO E AMPLA DEFESA. DEVIDO PROCESSO LEGAL. NATUREZA INFRACONSTITUCIONAL DA CONTROVÉRSIA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/1973.
+    1. O entendimento da Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no Supremo Tribunal Federal, no sentido da constitucionalidade das sanções impostas pela Lei nº 8.429/1992.
+    2. A verificação, no caso concreto, da proporcionalidade entre a reprimenda aplicada e a conduta que a ensejou demandaria a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário.
+    3. Obstada a análise da suposta afronta ao inciso LIV do art. 5º da Carta Magna, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta.
+    4. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    5. Agravo regimental conhecido e não provido.” (AI 705.294-AgR-segundo, Rel. Min. Rosa Weber, Primeira Turma, DJe de 7/11/2017, grifos meus)
+    “1. Embargos de declaração contra decisão que conhece do agravo para negar seguimento a recursos extraordinários. Conversão em agravo regimental. Possibilidade. Princípio da Fungibilidade. Precedentes.
+    2. Improbidade Administrativa. Servidores públicos e agentes políticos. Abastecimento de veículos particulares às custas do Município.
+    3. Sanções. Individualização da pena. Matéria infraconstitucional. Revolvimento do conjunto fático-probatório.
+    4. Alegação de inconstitucionalidade da Lei 8.429/92. Óbice da Súmula 284 do STF.
+    5. Agravo regimental a que se nega provimento.” (ARE 753.460-ED, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 10/4/2014, grifos meus)
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 19 de junho de 2018.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
