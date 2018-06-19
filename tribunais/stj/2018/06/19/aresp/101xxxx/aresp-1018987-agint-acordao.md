@@ -1,0 +1,61 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESERÇÃO. DIFERIMENTO DAS CUSTAS. PREVISÃO LEGISLATIVA ESTADUAL QUE NÃO ABARCA TAXAS FEDERAIS. ISENÇÃO HETERÔNOMA. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. EFEITOS EX NUNC. INTIMAÇÃO PARA COMPLEMENTAÇÃO DO PREPARO. IMPOSSIBILIDADE.
+1. A concessão do benefício de recolhimento de custas ao final do processo ampara-se, tão somente, na previsão constante da Lei Estadual nº 11.608/2003, de modo que a prerrogativa não pode ser estendida aos valores referentes à interposição de recurso especial, uma vez que as custas devidas ao Superior Tribunal de Justiça têm natureza jurídica de taxa federal, instituída pela Lei nº 11.636/2007.
+2. Como já decidido por esta Corte, "entender que a legislação local pudesse isentar uma taxa instituída por lei federal seria aceitar a possibilidade de instituir uma isenção heterônoma, ainda mais do ente estadual para o federal, o que é expressamente vedado pela Constituição da República" (AgInt no AREsp 966.324/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 16/02/2017).
+3. Vigora no Superior Tribunal de Justiça o entendimento de que a eventual concessão da benesse opera efeitos ex nunc, não podendo retroagir à data de interposição do recurso especial. Assim, eventual deferimento do pedido somente passaria a vigorar a partir do momento em que expressamente concedida por este juízo.
+4. Não há que se falar em concessão de prazo para a regularização das custas não recolhidas oportunamente, porquanto a medida não abarca os casos em que absolutamente ausente o pagamento do preparo recursal, tal como se verifica na hipótese vertente.
+5. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por maioria, vencido o Sr. Ministro Napoleão Nunes Maia Filho, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por [NOME] desafiando decisão da Presidência desta Corte que não conheceu do recurso, pelos seguintes fundamentos (fl. 2.625):
+ ..
+Mediante análise dos autos, verifica-se que o recurso especial não foi instruído com a guia de custas devidas ao Superior Tribunal de Justiça e o respectivo comprovante de pagamento.
+Não se desconhece o diferimento de custas realizado pelo tribunal de origem, no entanto, as custas devidas ao STJ têm natureza jurídica de taxa federal, instituída pela Lei nº.
+11.636/2007.
+Entender que a legislação local pudesse isentar uma taxa instituída por lei federal seria aceitar a possibilidade de instituir uma isenção heterônoma, ainda mais do ente estadual para o federal, o que é expressamente vedado pela Constituição da República.
+Assim, incide na espécie o disposto na Súmula n.º 187 deste Tribunal, o que leva à deserção do recurso.
+ ..
+Em suas razões recursais, a agravante sustenta que, diante do deferimento para recolher as custas ao final, entendeu estar supridas todas as despesas com relação aos recursos interpostos nas instâncias superiores.
+Caso não acolhido o entendimento, requer, sucessivamente, que: (I) seja concedido o benefício da assistência judiciária gratuita, nos termos a declaração de necessidade já inclusa nos autos à fl. 2.381; (II) seja autorizado o deferimento para que o pagamento das custas ao STJ sejam realizadas ao final ou, ainda, (III) seja deferido prazo para o pagamento das respectivas custas.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhida.
+Tal como constatou a decisão agravada, a concessão do benefício de recolhimento de custas ao final do processo ampara-se, tão somente, na previsão constante da Lei Estadual nº 11.608/2003, de modo que a prerrogativa não pode ser estendida aos valores referentes à interposição de recurso especial, uma vez que as custas devidas ao Superior Tribunal de Justiça têm natureza jurídica de taxa federal, instituída pela Lei nº 11.636/2007.
+Sendo assim, entender que a legislação local poderia isentar uma taxa instituída por lei federal seria aceitar a possibilidade de instituir uma isenção heterônoma, circunstância expressamente vedada pela Constituição da República.
+De fato, a concessão do diferimento implica, apenas, uma isenção momentânea do custeio da lide, circunscrita às despesas correspondentes ao processamento da demanda em âmbito local.
+No mesmo sentido, destaco o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. PREPARO. DIFERIMENTO DE CUSTAS JUDICIAIS. LEI N. 11.636/2007. ISENÇÃO HETERÔNOMA. IMPOSSIBILIDADE. DESERÇÃO. SÚMULA N. 187/STJ. INCIDÊNCIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - O entendimento deste Superior Tribunal de Justiça é cediço de que entender que a legislação local pudesse isentar uma taxa instituída por lei federal seria aceitar a possibilidade de instituir uma isenção heterônoma, ainda mais do ente estadual para o federal, o que é expressamente vedado pela Constituição da República.
+III - A jurisprudência desta Corte é firme no sentido "de ser essencial à comprovação do preparo a juntada da Guia de Recolhimento da União (GRU), com o respectivo comprovante de pagamento, no ato da interposição do especial, sob pena de deserção".
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido.
+(AgInt no AREsp 966.324/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 07/02/2017, DJe 16/02/2017)
+Nesse contexto, pode-se concluir que o benefício do pagamento de custas ao final da demanda em nada se confunde com a efetiva concessão da justiça gratuita, esta amparada na Lei Federal nº 1.060/1950, de modo que não se faz possível a aplicação, no presente caso, do precedente firmado nos autos do EAREsp 86.915/SP, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 26/02/2015, DJe 04/03/2015.
+Ademais, tampouco merece prosperar o pedido de concessão, nesta fase processual, da assistência judiciária gratuita. Isso porque vigora no Superior Tribunal de Justiça o entendimento de que a eventual concessão da benesse opera efeitos ex nunc, não podendo retroagir à data de interposição do recurso especial. Assim, eventual deferimento do pedido somente passaria a vigorar a partir do momento em que expressamente concedida por este juízo.
+Desse modo, a ausência de comprovação do recolhimento do preparo no ato da interposição do recurso especial implica sua deserção, nos termos da Súmula 187 desta Corte.
+Esclareça-se, ainda, que, diante da ausência de previsão legislativa específica, igualmente inviável o pedido de diferimento do pagamento da taxa judiciária devida perante este Superior Tribunal de Justiça.
+Por fim, cumpre registrar que não há que se falar em concessão de prazo para a regularização das custas não recolhidas oportunamente, porquanto a medida não abarca os casos em que absolutamente ausente o pagamento do preparo recursal, tal como se verifica na hipótese vertente. Nesse sentido, vejam-se os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO. INCIDÊNCIA DO ENUNCIADO N. 187/STJ. INTIMAÇÃO PARA COMPLEMENTAÇÃO DO PREPARO, COM FULCRO NO ART. 511, § 2º, DO CPC. INCABÍVEL NOS CASOS DE AUSÊNCIA DE PREPARO.
+1. A falta da guia de recolhimento referente ao preparo, no ato da interposição do recurso especial, implica sua deserção. Aplicável, in casu, a Súmula n. 187/STJ.
+2. Tratando-se de ausência de preparo e não de sua insuficiência, descabe a intimação prevista no § 2º. do art. 511 do Código de Processo Civil.
+3. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no AREsp 682.960/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 02/02/2016, DJe 11/02/2016)
+PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. FASE DE CUMPRIMENTO. PREPARO DO RECURSO ESPECIAL. DESERÇÃO. SÚMULA 187/STJ.
+1. Segundo o art. 511, caput, do CPC, compete ao recorrente comprovar o respectivo preparo no ato de interposição do recurso, mediante a apresentação do comprovante de pagamento, o que não ocorreu no caso dos autos.
+2. Apesar dos agravantes alegarem que litigam sob o pálio da justiça gratuita, que teria sido deferida na petição inicial da ação de cobrança, não consta nos presentes autos nenhuma decisão que comprove a concessão do benefício. Dessa forma, incide o óbice da Súmula 187/STJ.
+3. A jurisprudência do STJ entende que a intimação para a complementação do preparo só é admitida quando recolhido o valor de forma insuficiente. No presente caso, não se trata de insuficiência de preparo, e sim de ausência de comprovação do recolhimento das custas judiciais. Agravo regimental improvido.
+(AgRg no AREsp 760.738/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/12/2015, DJe 02/02/2016)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
+VOTO-VENCIDO
+(MINISTRO NAPOLEÃO NUNES MAIA FILHO)
+1. Senhora Presidente, quero apenas manifestar minha discordância respeitosa quanto ao entendimento de que, mesmo nos casos em que estiver absolutamente ausente o pagamento do preparo recursal, deve ser franqueado, à parte insurgente, o prazo para recolhimento das custas.
+2. Esse é o meu ponto de vista, particularmente em ação de improbidade, ação sancionadora. Penso que nem sempre as partes estão suficientemente esclarecidas acerca das exigências quanto às taxas e despesas recursais, especialmente porque há constantes mudanças.
+3. Trata-se aqui de dúvida legítima, a meu ver, uma vez que o Recurso Especial é dirigido à Corte Superior, mas apresentado pelo Tribunal de origem, o que poderia dar margem a dúvidas razoáveis acerca da legislação aplicável. No caso presente, a parte acreditou legitimamente que poderia valer-se da Lei Estadual Paulista 11.608/2003 para recolher as custas ao término do processo.
+4. Vossa Excelência diz em seu voto, Ministro SÉRGIO KUKINA: a concessão do benefício de recolhimento de custas ao final do processo ampara-se tão somente na previsão constante na Lei Estadual 11.608/2003, de modo que a prerrogativa não pode ser estendida aos valores referentes à interposição de recurso especial, uma vez que as custas devidas ao Superior Tribunal de Justiça (..) jurídicas, taxa federal instituída pela Lei 11.636/2007. Quer dizer, a Lei Estadual entende que as custas podem ser recolhidas ao final do processo. É evidente que não estava abrangendo as custas do STJ, mas é possível que a parte tenha entendido que sim. É essa a minha ponderação, porque a Lei Estadual estabelece um prazo que a parte entende ser ao final de todo o processo, e não apenas quando concluído na instância estadual.
+5. Numa questão como essa, que penso ser excepcional - eu desconhecia essa Lei Estadual de São Paulo -, essa Lei pode ter levado a parte a se equivocar, decidindo por pagar as custas ao final do processo. Sei que essa Lei Estadual não cita as custas devidas ao STJ, apenas que se pode pagar ao final da ação.
+6. Outrossim, não creio que tenha havido da parte recorrente uma atitude inescusável para não pagar, inclusive porque foi condenada e recorreu. Não creio que tenha sido uma artimanha ou algo predeterminado para o recorrente não pagar as custas. Penso que é escusável o engano, o equívoco, o erro. Não vejo má-fé nessa atitude, uma vez que ele era o recorrente, quem poderia vir a sofrer os reveses pela deserção. Ele se fiou na Lei Estadual, que entendeu ter esse significado.
+7. Peço vênia a Vossas Excelências e voto pela reconsideração, para relevar essa deserção e abrir o prazo para a parte recorrente pagar as custas.
+8. Senhora Presidente, dou provimento ao Agravo Interno. É assim que voto.
