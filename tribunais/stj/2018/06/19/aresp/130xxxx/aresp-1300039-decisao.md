@@ -1,0 +1,41 @@
+DECISÃO
+1. Cuida-se de agravo interposto por PETRÓLEO BRASILEIRO S A PETROBRAS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim ementado, no que interessa:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CARÊNCIA DE AÇÃO. REJEIÇÃO. TEORIA DA ASSERÇÃO. PETIÇÃO APTA. PEDIDO JURIDICAMENTE POSSÍVEL. LEGITIMIDADE ATIVA. MATÉRIA DE PROVA. INVERSÃO DO ÔNUS PROBATÓRIO. REPARAÇÃO DE DANOS. PESCADOR ARTESANAL. PETROBRÁS S/A. DANOS À ATIVIDADE PESQUEIRA. POSSIBILIDADE.
+(..)
+3. É cabível a inversão do ônus probatório quando se tratar de demanda indenizatória fundada em dano ambiental. Precedentes STJ.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 373, I, do CPC/2015 e 6º, VIII, do CDC. Sustenta que não estão presentes os requisitos autorizadores para a inversão do ônus da prova, que, no caso, é destinar a comprovar que as atividades descritas na inicial não impactaram o ecossistema marinho do local. Afirma que inexiste a mínima verossimilhança dos fatos alegados. Além disso, ressalta ser impossível a prova de fato negativo.
+Decido.
+2. Sobre a inversão do ônus da prova, o Tribunal de origem assim se pronunciou:
+Ademais, a complexidade fática inerente a uma demanda de cunho ambiental, alidada à hipossuficiência técnica e econômica do agravado, enquanto pescador artesanal, reforçam a pertinência da inversão do ônus da prova quanto aos supostos danos causados à fauna marinha da região e os reflexos na atividade pesqueira.
+É visivelmente mais fácil à Petrobrás, uma das maiores empresas do país, demonstrar que as operações descritas pelo agravado não causaram danos à pesca local no período em questão, do que exigir que um pescador, pessoa física de baixa renda, comprove a existência de prejuízos decorrentes das atividades exercidas pela estatal. (fl. 365).
+Esse entendimento está em harmonia com os precedentes desta Corte sobre o tema, a exemplo dos seguintes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.
+CONSTRUÇÃO DE HIDRELÉTRICA. RIO MADEIRA. PESCADORES. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC/73. ALEGAÇÃO DE CONEXÃO E ILEGITIMIDADE ATIVA QUE DEMANDA REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA.
+IMPOSSIBILIDADE. SÚMULA 7/STJ. INVERSÃO DO ÔNUS DA PROVA EM AÇÃO POR INDENIZAÇÃO POR DANO AMBIENTAL. LITIGÂNCIA DE MÁ-FÉ NÃO COMPROVADA.
+AGRAVO IMPROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535, II, do CPC.
+2. A alegada conexão entre a presente demanda e ação civil pública, bem como a ilegitimidade dos autores, foram refutados pelo eg.
+Tribunal estadual sob o fundamento de que cada um dos feitos deverá ser analisado em uma situação fática particular e de que a condição de cada um dos autores depende da instrução processual, que deve ser feita nos autos originários após o devido contraditório. No caso, a alteração de tais conclusões depende da análise do conjunto fático-probatório, atraindo a incidência da Súmula 7/STJ.
+3. A inversão do ônus da prova no que se refere ao dano ambiental está de acordo com a jurisprudência desta Corte, que já se manifestou no sentido de que, "tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, cabível a inversão do ônus da prova" (AgRg no AREsp 533.786/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 22/9/2015, DJe de 29/9/2015).
+4. Para que haja condenação por litigância de má-fé, é necessária a comprovação do dolo da parte. No caso, a Corte estadual expressamente consignou que tal requisito não foi comprovado, de modo que, para alterar essa conclusão, seria necessário o reexame do conjunto fático-probatório. Incidência da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 846.996/RO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/10/2016, DJe 19/10/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E DIREITO AMBIENTAL. USINA HIDRELÉTRICA. CONSTRUÇÃO. PRODUÇÃO PESQUEIRA. REDUÇÃO. RESPONSABILIDADE OBJETIVA. DANO INCONTESTE. NEXO CAUSAL. PRINCÍPIO DA PRECAUÇÃO. INVERSÃO DO ÔNUS DA PROVA.
+CABIMENTO. PRECEDENTES. INOVAÇÃO EM RECURSO ESPECIAL. NÃO OCORRÊNCIA.
+1. A Lei nº 6.938/1981 adotou a sistemática da responsabilidade objetiva, que foi integralmente recepcionada pela ordem jurídica atual, de sorte que é irrelevante, na espécie, a discussão da conduta do agente (culpa ou dolo) para atribuição do dever de reparação do dano causado, que, no caso, é inconteste.
+2. O princípio da precaução, aplicável à hipótese, pressupõe a inversão do ônus probatório, transferindo para a concessionária o encargo de provar que sua conduta não ensejou riscos para o meio ambiente e, por consequência, para os pescadores da região.
+3. Não há inovação em recurso especial se, ainda que sucintamente, a matéria foi debatida no tribunal de origem.
+4. Agravo regimental não provido.
+(AgRg no AREsp 183.202/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/11/2015, DJe 13/11/2015)
+Ademais, cumpre consignar que é inviável rever a conclusão do Tribunal de origem acerca da hipossuficiência do autor, pois exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o assunto:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - NA ORIGEM, TRATA-SE DE AGRAVO DE INSTRUMENTO NO BOJO DE AÇÃO DE INDENIZAÇÃO POR DANOS DECORRENTES DE CONTAMINAÇÃO PROVENIENTE DO DESCARTE DE MATERIAL DE LIMPEZA DE TANQUES DA PETROBRÁS NO MUNICÍPIO DE SÃO SEBASTIÃO (SP) - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL A FIM DE AFASTAR A OBRIGAÇÃO PELO ADIANTAMENTO DOS HONORÁRIOS PERICIAIS DECORRENTE DA INVERSÃO DO ÔNUS PROBATÓRIO.
+IRRESIGNAÇÃO DA EMPRESA PETROLÍFERA.
+1. Responsabilidade civil por lesão individual causada, supostamente, por contaminação do solo (descarte impróprio de material poluente). Alegada inexistência de conduta ilícita imputável à sociedade petrolífera ré. A responsabilidade civil por dano ambiental (público ou privado) é objetiva, fundada na teoria do risco integral, à luz do disposto no artigo 14, § 1º, da Lei nº 6.938/81. Assim, "sendo o nexo de causalidade o fator aglutinante que permite que o risco se integre na unidade do ato", revela-se "descabida a invocação, pela empresa responsável pelo dano ambiental, de excludentes de responsabilidade civil para afastar a sua obrigação de indenizar" (REsp 1354536/SE, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/03/2014, DJe 05/05/2014, sob o rito dos recursos repetitivos) 2. Inversão do ônus da prova no âmbito de ação de indenização por dano ambiental. Acórdão estadual que, corroborando a decisão saneadora, considerou cabida a inversão do ônus probatório, ante a constatação da verossimilhança do direito alegado (tendo em vista a responsabilidade objetiva decorrente do risco da atividade econômica empreendida e a notoriedade do acidente ambiental), bem assim a hipossuficiência técnica e financeira da vítima/autor. Incidência da súmula 7/STJ.
+3. Responsabilidade pelo adiantamento dos honorários do perito. Não é lícito obrigar a parte contra quem o ônus da prova foi invertido a custear os honorários do perito, porque lhe assiste a faculdade de não produzir a prova pericial e arcar com as conseqüências processuais da omissão. Precedentes.
+4. O recurso apresentado às fls. 656-662 não é admissível em razão da violação ao princípio da unirrecorribilidade, a ensejar a aplicação do óbice da preclusão consumativa.
+5. Agravo regimental desprovido e petitório de fls. 656-662 não conhecido.
+(AgRg no AgRg no AREsp 153.797/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 05/06/2014, DJe 16/06/2014 - gn)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
