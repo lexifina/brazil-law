@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por [NOME], fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 1047-1062 e-STJ, proferido pelo Tribunal de Justiça do Paraná, assim ementado:
+AGRAVO DE INSTRUMENTO  IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA  EXCESSO DE EXECUÇÃO  OCORRÊNCIA  VIOLAÇÃO DA COISA JULGADA  INOCORRÊNCIA  INTERPRETAÇÃO DO ACÓRDÃO QUE DEVE SER LIMITADA AO VALOR DE COBERTURA PARA O VEÍCULO SINISTRADO  APÓLICE QUE NÃO PODE SER COBRADA EM SUA INTEGRALIDADE EM FACE AO SINISTRO DE UM ÚNICO VEÍCULO  APÓLICE QUE CONTÉM COBERTURAS INDIVIDUAIS PARA CADA CAMINHÃO  IMPOSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA  AUSÊNCIA DE VIOLAÇÃO DA COISA JULGADA  HONORÁRIOS AUTOS DE AGRAVO DE INSTRUMENTO N.º 741948-5 8ª CCÍVEL ADVOCATÍCIOS  PAGAMENTO QUE NÃO PODE SER INCLUÍDO NO VALOR DA APÓLICE  VALOR DA APÓLICE QUE DEVE SER REVERTIDO INTEGRALMENTE AO BENEFICIÁRIO  MULTA  ARTIGO 475-J  DEPOSITO PARCIAL QUE NÃO AFASTA A MULTA DE 10% SOBRE O VALOR REMANESCENTE  MULTA QUE SÓ SE APLICA SOBRE A DIFERENÇA ENTRE O VALOR DEPOSITADO E O DEVIDO  PENSÃO  DIREITO DE ACRESCER QUE DEVE SER RESGUARDADO  PROVIMENTO PARCIAL.
+Foram opostos primeiros embargos de declaração pelas companhias de seguros recorridas (fls. 1073-1080 e-STJ), acolhidos com efeitos infringentes para alterar a base do valor dos honorários advocatícios, devidos pela seguradora, de modo a manter a decisão de primeira instância que previa como base o limite da apólice do veículo sinistrado (fls. 1089-1110 e-STJ).
+Os embargos de declaração opostos pelos ora recorrentes (fls. 1065-1070 e-STJ) foram parcialmente acolhidos para reconhecer a solidariedade no pagamento dos honorários advocatícios, conforme o acórdão de fls. 1265-1274 e-STJ.
+Novos aclaratórios foram opostos pelos insurgentes (fls. 1113-1126 e-STJ) e igualmente acolhidos (fls. 1305-1327 e-STJ).
+Terceiros embargos de declaração foram opostos pelos recorrentes (fls. 1277-1281 e-STJ) e acolhidos para sanar omissão quanto ao termo inicial dos juros de mora e a correção monetária (fls. 1288-1291 e-STJ).
+A companhia seguradora opôs, então, embargos de declaração (fls. 1294-1298 e 1340-1344 e-STJ), ambos rejeitados (fls. 1329-1335 e 1421-1428 e-STJ)
+Nas razões de recurso especial, alegaram as insurgentes que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) art. 467, 468, 471 e 474 do CPC/1973. Aduziram, ainda, estar configurado o dissídio jurisprudencial em seu favor.
+Sustentaram, em resumo, ofensa à coisa julgada, uma vez que o acórdão recorrido teria alterado os termos da sentença em fase de cumprimento. Defenderam não ser cabível a limitação da condenação da seguradora ao valor do caminhão envolvido no acidente.
+Contrarrazões a fls. 1562-1579 e-STJ.
+Em juízo prévio de admissibilidade, a corte de origem admitiu o apelo nobre, remetendo os autos a este Superior Tribunal de Justiça.
+É o relatório. Decide-se.
+O recurso encontra-se prejudicado.
+1. O presente recurso especial encontra-se prejudicado. Após acurada análise dos autos, verificou-se a hipótese de provimento do agravo em recurso especial manejado pelas ora recorridas, para, de plano, dar-se provimento ao apelo extremo, acolhendo a preliminar de nulidade do terceiro acórdão e subsequentes, haja vista a ausência de intimação da parte para manifestação, considerando a possibilidade de atribuição de efeitos infringentes.
+Desse modo, devendo os autos retornar à origem para intimação e novo julgamento, em homenagem à segurança jurídica, resta prejudicado o presente recurso especial.
+2. Do exposto, julga-se prejudicado o presente recurso especial.
+Publique-se. Intimem-se.
