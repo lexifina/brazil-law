@@ -1,0 +1,66 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. ABONO DE APOSENTADORIA. PREVISÃO NO REGULAMENTO DO PLANO DE BENEFÍCIOS DA FUNDAÇÃO. REQUISITOS PREENCHIDOS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A hipótese dos autos não trata de extensão aos inativos de abono único pago aos funcionários ativos por força de acordo ou convenção coletiva (Recurso Especial Repetitivo nº 1.425.326/RS), mas de recebimento de parcela prevista no regulamento do plano de previdência complementar que jamais teria sido paga pela fundação. 2. Segundo o acórdão recorrido, o autor obteve sua aposentadoria na vigência do plano originário e preencheu os requisitos exigidos no regulamento do plano de benefícios da fundação para percepção do abono de aposentadoria.
+3. A reforma do julgado demandaria a interpretação de cláusula contratual e o reexame da prova dos autos, providências vedadas no âmbito estreito do recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Trata-se de agravo interno interposto por FUNDAÇÃO BRTPREV contra decisão que acolheu os embargos de declaração opostos por [NOME], para sanar omissão relativa à premissa fática da controvérsia, explicitando que a matéria controvertida diz respeito ao pagamento de abono de aposentadoria cujas condições de implementação foram reconhecidas pelas instâncias ordinárias. Em decorrência, ficou mantida a decisão que negou seguimento ao recurso especial de FUNDAÇÃO BRTPREV.
+Em suas razões, a agravante sustenta a aplicabilidade, à espécie, do Recurso Especial nº 1.425.326/RS, processado como repetitivo, nos termos do art. 543-C do CPC/73, no qual restou fulminada a pretensão à concessão de abono no benefício complementar de associados da entidade de previdência complementar/privada, pelo entendimento de que é vedado o repasse de abono e vantagens de qualquer natureza para os benefícios em manutenção, sobretudo a partir da vigência da Lei Complementar nº 108/2001, independentemente das disposições estatutárias e regulamentares.
+Alega a impossibilidade de se estender, ao agravado, o abono de aposentadoria, o qual atinge somente os participantes/assistidos que iniciaram seu benefício na Fundação até a data de 01/12/1992. Ressalta que o autor aposentou-se em 30/06/1995, não estando enquadrado no prazo estipulado, logo tal verba é prevista em favor exclusivamente dos assistidos do plano no qual o agravado não é mais participante.
+O agravado apresentou impugnação (e-STJ, fls. 568/571).
+É o relatório.
+VOTO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Em que pesem as bem lançadas razões recursais, não merece êxito o inconformismo, devendo ser mantida a decisão agravada.
+A decisão agravada reconheceu que a presente demanda não versa sobre extensão aos inativos de abono único pago aos funcionários ativos por força de acordo ou convenção coletiva, mas do pagamento de benefício devido aos aposentados, previsto no regulamento do plano de benefícios da fundação.
+Com efeito, o objetivo da demanda, segundo se depreende da petição inicial: "é revisar o valor do benefício previdenciário complementar cujo pagamento é obrigação da Fundação BRTPREV, fazendo integrar o abono de aposentadoria previsto no artigo 25, inciso II, do Regulamento do Plano de Benefícios Fundador vigente na adesão do autor ao plano e na data de aposentadoria deste" (e-STJ, fls. 4/5).
+A FUNDAÇÃO BRTPREV alega que o caso dos autos está sujeito à aplicação do Recurso Especial nº 1.425.326/RS, julgado sob a sistemática do art. 543-C do CPC/73.
+Todavia, o referido recurso repetitivo não se aplica ao caso em debate, por versar sobre temática diversa.
+Naquele julgado, a Segunda Seção examinou outra matéria. Conforme se lê no voto condutor do recurso, "a questão controvertida consiste em saber se, com a vigência da Lei Complementar n. 108/2001, é possível a extensão ao benefício de previdência complementar de abono concedido pelo patrocinador a participantes em atividade, independentemente do equilíbrio atuarial do plano de custeio".
+Na hipótese, o autor da ação, ora agravado, não busca o recebimento de abono pago aos funcionários ativos por força de acordo ou convenção coletiva, mas o recebimento de parcela prevista no próprio regulamento do plano de previdência complementar que jamais teria sido paga pela Fundação.
+A propósito, o Tribunal de Justiça do Estado do Rio Grande do Sul entendeu que o autor implementou as condições para a concessão do abono de aposentadoria, nos termos da seguinte fundamentação:
+"Adianto que nenhum reparo merece a r. decisão singular que muito bem abordou a questão e deu adequada solução à lide.
+Para evitar desnecessária tautologia, peço venia para reproduzi-la parcialmente, cujo fundamento adoto como razões de decidir:
+"(..)
+O demandante postula a incorporação do "abono de aposentadoria" que estava previsto no Regulamento do Plano de Benefícios (FUNDADOR) quando se vinculou ao plano complementar de previdência e também quando se aposentou.
+Efetivamente a previsão consta do art. 25, II do Regulamento anunciado pelo autor, o que é reafirmado pela disposição do art. 27, ambos constantes da fl. 33.
+Neste ponto e que é um dos fundamentos de defesa da ré, há a afirmativa de que o art. 28 do Regulamento impede a viabilidade do pedido pelo motivo de contar com previsão expressa de que o pagamento do abono de aposentadoria continuaria sendo pago apenas aos assistidos que tivessem o início do benefício em 01/12/92.
+Essa disposição, em realidade, consta do Art. 29 do Regulamento Complementar do Plano de Benefícios Fundador. Este regulamento complementar foi aprovado e passou a vigorar em 25/10/1999 - fls. 155 e 165.
+Como se pode verificar, o regulamento que se ampara a ré não é o mesmo da época da vinculação e aposentadoria do autor. O regulamento originário está às fls. 31/37 no qual não consta referida previsão.
+É fato consumado, pois, que o demandante se vinculou ao plano de previdência e obteve sua aposentadoria na vigência do plano originário - fls. 31/37. Sua aposentadoria é de 15 de março de 1995 - fato não controvertido. Está comprovado nos autos que obteve junto ao órgão oficial de previdência - INPS, à época - o ABONO PERMANÊNCIA EM SERVIÇO, o que ocorreu em 20/04/90 - fl. 12.
+Era exigência estabelecida no regulamento originário que, para a concessão do ABONO DE APOSENTADORIA (pela Fundação), deveria o assistido obter junto ao órgão oficial de previdência (INPS) o ABONO DE PERMANÊNCIA.
+De se destacar o que efetivamente previa tal dispositivo:
+Art. 25 - A suplementação da aposentadoria por tempo de serviço consistirá numa renda mensal vitalícia constituída das seguintes parcelas:
+I - (..)
+II - abono de aposentadoria equivalente ao abono de permanência em serviço que seria concedido nos termos da previdência oficial, se o interessado o requerer logo após haver completado 30 (trinta) anos de vinculação à previdência oficial.
+E prossegue o douto magistrado singular:
+"O documento de fl. 12 revela que o autor obteve o abono junto ao INPS quando contava com 30 anos 01 mês e 07 dias de tempo de serviço. Já havia completado, portanto, o período necessário ao requerimento de sua aposentadoria. Não o fez, entretanto, permanecendo a laborar por mais cinco anos aproximadamente, aposentando-se em 13/03/1995.
+As deliberações realizadas por ocasião da Assembléia Geral dos Participantes da Fundação CRT ocorrida em setembro de 1994 - fl. 17/18 - efetivamente poderiam configurar fator de impedimento à concessão do abono ora em discussão. Aliás, ao que se verifica dos autos, foi justamente esta a razão do indeferimento do pedido administrativo do autor - fl. 16.
+O pressuposto fático está em que, nessa Assembléia Geral, estava em pauta o equacionamento do déficit técnico da Fundação CRT, oportunidade que foram tomadas diversas deliberações, entre elas a que se fundou a requerida para negar o pedido administrativo a qual consta da letra.e e que dispõe do seguinte teor: "exclusão do pagamento do abono de aposentadoria para participantes ativos fundadores continuando para os incorporados na inatividade."
+As deliberações da Assembléia Geral são soberanas e atinge a todos os integrantes da Fundação à época, ressalvado, evidentemente, ofensa a algum direito subjetivo.
+Quando da realização da assembléia o autor não tinha, ainda, se aposentado. Evidentemente que até esse momento também não tinha o requerente condições de solicitar o abono perante a Fundação. Contudo, há mais de quatro anos já dispunha de tempo suficiente para requerer sua aposentadoria perante o INPS e, posteriormente, a complementação perante à Fundação.
+O tempo em que o autor permaneceu na atividade após ter completado 30 anos de prestação de serviço, autoriza se conclua que este retardamento na solicitação da sua aposentadoria foi voluntária.
+Este parece ser o ponto definitivo do que ora se examina.
+O demandante atendia às condições objetivas para obter a sua aposentadoria oficial e complementar desde 1990 quando já lhe era atestada a averbação, pelo INPS, de mais de 30 anos de serviço.
+As decisões tomadas em Assembléia, ainda que possam restringir benefícios, não podem atingir aquelas situações já consolidadas e aquelas que, formalmente, ainda não tivessem se consolidado mas que já atendiam todas as exigências estatutárias para a concessão do benefício, antes da deliberação.
+(..)"." (e-STJ, fls. 372/375, grifou-se)
+Como visto, no caso concreto, o Tribunal de origem, examinando as disposições estatutárias e a prova dos autos, concluiu que foram implementadas as condições para a concessão do abono de aposentadoria ao autor. Por óbvio, o fato de ter trabalhado por mais tempo que o necessário, após já implementadas todas as condições para a aposentadoria, não pode servir de pretexto para a subtração de direitos que o agravado perceberia caso tivesse se aposentado tão logo implementara as condições para tal.
+No mais, rever o entendimento adotado na instância ordinária demandaria necessariamente a interpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, providências vedadas no âmbito estreito do recurso especial, a teor do disposto nos enunciados das Súmulas 5 e 7 do STJ.
+No mesmo sentido, confiram-se:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. ABONO DE APOSENTADORIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SUMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+2. No caso concreto, o Tribunal de origem, examinando a prova dos autos, concluiu: (a) pela inexistência do alegado cerceamento de defesa, pois a prova pericial requerida era desnecessária para o julgamento da lide, e (b) foram implementadas as condições para a concessão do abono de aposentadoria aos recorridos. Alterar esse entendimento demandaria o reexame da prova dos autos, inviável em recurso especial.
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 78.918/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 06/06/2013, DJe 24/06/2013, grifou-se)
+"AGRAVO REGIMENTAL. PLANO DE PREVIDÊNCIA PRIVADA. SERGUS. ABONO DE APOSENTADORIA. BENEFÍCIO. RECONHECIMENTO. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. PROVA PERICIAL. PRESCRIÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. PROVA PERICIAL. HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DA 7/STJ. MERA REPETIÇÃO DOS ARGUMENTOS DO RECURSO ESPECIAL NAS RAZÕES RECURSAIS DO AGRAVO REGIMENTAL.
+1. Para desconstituir o entendimento exposto pelo Tribunal local acerca do reconhecimento do benefício, seria imprescindível o reexame de prova e reinterpretação de cláusula contratual, o que é defeso nesta instância especial (Súmulas 5 e 7/STJ).
+2. A deficiência da fundamentação da insurgência recursal sobre a prescrição, impede a abertura desta instância excepcional, a teor do enunciado 284 da Súmula do Supremo Tribunal Federal, aplicável por analogia.
+3. Ao firmar a conclusão acerca dos honorários advocatícios e da necessidade da prova pericial, o Tribunal recorrido tomou em consideração os elementos fáticos carreados aos autos. Incidência da Súmula 07/STJ.
+4. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo regimental, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos.
+5. Agravo regimental não provido."
+(AgRg no AREsp 68.571/SE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/03/2013, DJe 12/03/2013, grifou-se)
+Diante de tais pressupostos, nega-se provimento ao agravo interno.
+É como voto.
