@@ -1,0 +1,37 @@
+DECISÃO
+Relatório.
+Cuida-se de embargos de declaração, com fundamento no art. 1.022, II, do CPC, manejados pela União, para quem a decisão às fls. 307 a 310 (que decidiu pela improcedência da presente reclamação) é omissa quanto aos honorários sucumbenciais que devem ser impostos ao autor, previstos no art. 85 do CPC.
+Nas contrarrazões, fls. 322 a 324, o embargado argumenta não existir previsão legal para a condenação em honorários advocatícios sucumbenciais quando se trata de reclamação prevista no art. 988 do CPC, por se tratar de "instituto que viabiliza o exercício do direito constitucional de petição da parte" (fl. 322) e que a reclamação foi "interposta em face de decisão prolatada em sede de mandado de segurança, regido pela Lei n. 12.016/2009" (fl. 323), cujo art. 25 afasta a condenação em honorários, segundo precedentes desta Corte e do STJ, pelo que requer a rejeição do recurso integrativo.
+Decisão.
+O advento do Código de Processo Civil hoje vigente deu novos contornos à disciplina dos honorários sucumbenciais, como se extrai da redação do art. 85 do novel diploma.
+Por essa razão, os precedentes judiciais invocados pelo embargado, todos fundados no CPC anterior, não têm hoje aplicação. A orientação que agora adota esta Corte Superior, para as reclamações ajuizadas na vigência do CPC/2015, é no sentido de que, uma vez aperfeiçoada a relação processual na reclamação, são cabíveis os aludidos honorários. Confiram-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. OMISSÃO INEXISTENTE. HONORÁRIOS DE SUCUMBÊNCIA. INVIABILIDADE. INEXISTÊNCIA DE ANGULARIZAÇÃO DA RELAÇÃO PROCESSUAL NO CASO CONCRETO.
+ ..
+3. Não obstante a existência de recentes julgados de ambas as turmas do Supremo Tribunal Federal (AgRg na Rcl 24.417/SP, 1ª T., Rel. Min. Roberto Barroso, DJe de 24/4/2017 e AgRg na Rcl 24.464/RS, 2ª T., Rel p/ acórdão Min. Dias Toffolli, DJe de 08/02/2018) e de alguns Ministros do Superior Tribunal de Justiça (v.g., Rcl 34.704/PI, Min. Mauro Campbell Marques, DJe de 13/11/2017) reconhecendo, quando verificada a angularização da relação processual, o cabimento da fixação de honorários advocatícios em reclamações processadas sob o rito previsto no CPC/15, inviável a aplicação de tal orientação à hipótese dos autos.
+4. No caso, não houve a angularização da relação processual, já que, à vista da decisão que liminarmente negou seguimento à reclamação, inexistiu ordem para a citação da parte beneficiária, nos termos do art. 989, III, do CPC/15.
+5. A participação do advogado da parte beneficiária restringiu-se tão somente à apresentação de impugnação (e-STJ, fls. 157/163) ao agravo interno interposto pela ora embargada contra o referido decisum denegatório, circunstância que não enseja a condenação na verba honorária, na forma do art. 85 do CPC/15.
+6. Embargos de declaração rejeitados.
+(EDcl no AgInt na Rcl 33.971/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, DJe 28/05/2018)
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+ ..
+2. Em que pese o Supremo Tribunal Federal, na Rcl 24.417, ter passado a admitir a condenação da parte vencida em honorários advocatícios a partir de 18 de março de 2016, quando o Código de Processo Civil de 2015 entrou em vigor, esta reclamação foi ajuizada em 13/11/2015, sendo inviável, portanto, a incidência do novo entendimento. Inexistência de omissão.
+3. Embargos de declaração rejeitados.
+(EDcl na Rcl 28.523/PE, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, DJe 27/11/2017)
+Essa também é a orientação da Suprema Corte, como se nota dos precedentes já mencionados, aos quais se pode acrescentar, dentre outros, os seguintes acórdãos:
+EMENTA EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECLAMAÇÃO. ALEGADA OMISSÃO QUANTO À FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. RECLAMAÇÃO AJUIZADA ANTES DA ENTRADA EM VIGOR DO CPC/2015. NÃO CABIMENTO. AUSÊNCIA DE OMISSÃO. 1. Ao julgamento da Rcl 24.417, a 1ª Turma desta Suprema Corte, por maioria, entendeu pela viabilidade de fixação de honorários advocatícios em reclamações ajuizadas após a entrada em vigor do CPC/15, tendo em vista a instituição do contraditório prévio à decisão final pelo art. 989, III, do referido diploma processual. 2. Tratando-se de reclamação proposta sob a égide da Lei 8.038/1990, ausente hipótese ensejadora dos embargos de declaração, uma vez apreciada a reclamação de forma clara e coerente, em consonância com a jurisprudência desta Corte Suprema. 3. Embargos de declaração rejeitados.
+(Rcl 23299 AgR-ED, Rel. Min. ROSA WEBER, PRIMEIRA TURMA, DJe 24/08/2017)
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECLAMAÇÃO. REPERCUSSÃO GERAL. NOVO CÓDIGO DE PROCESSO CIVIL.
+1. Não configura usurpação da competência do STF a correta aplicação da sistemática da repercussão geral.
+2. É cabível a condenação em honorários nas reclamações ajuizadas a partir da vigência do novo Código de Processo Civil e nos recursos nelas interpostos.
+3. Agravo regimental desprovido, com fixação de honorários.
+(Rcl 18996 AgR, Rel. p/ Acórdão: Min. ROBERTO BARROSO, PRIMEIRA TURMA, DJe 17/04/2017)
+Dos precedentes da Suprema Corte indicados nos julgados deste STJ, tenho por oportuna a transcrição de algumas ementas:
+AGRAVO INTERNO EM RECLAMAÇÃO. DIREITO ADMINISTRATIVO E DO TRABALHO. REMUNERAÇÃO. SÚMULAS VINCULANTES 37 E 42. HONORÁRIOS ADVOCATÍCIOS EM RECLAMAÇÃO. NOVO REGIME PROCESSUAL. CABIMENTO. 1. Não viola as Súmulas Vinculantes 37 e 42 decisão que, com base no Decreto nº 41.554/97 e Lei nº 8.898/94, ambos do Estado de São Paulo, garante a empregada pública cedida da Fundação Municipal de Ensino Superior de Marília para a Faculdade de Medicina de Marília - FAMENA o percebimento de remuneração conforme índices estabelecidos pelo Conselho de Reitores das Universidades Estaduais de São Paulo - CRUESP. Precedentes. 2. O CPC/2015 promoveu modificação essencial no procedimento da reclamação, ao instituir o contraditório prévio à decisão final (art. 989, III). Neste novo cenário, a observância do princípio da causalidade viabiliza a condenação da sucumbente na reclamação ao pagamento dos respectivos honorários, devendo o respectivo cumprimento da condenação ser realizado nos autos do processo de origem, quando se tratar de impugnação de decisão judicial. 3. Agravo interno a que se nega provimento.
+(Rcl 24417 AgR, Rel. Min. ROBERTO BARROSO, PRIMEIRA TURMA, DJe 24/04/2017)
+Agravo interno em reclamação. Direito Processual Civil. Instauração do contraditório. Honorários de sucumbência. Cabimento. Agravo interno provido.
+ ..
+3. Cabimento da condenação em honorários advocatícios quando verificada a angularização da relação processual na ação reclamatória.
+4. Agravo interno provido para fixar os honorários de sucumbência em 10% (dez por cento) sobre o valor do benefício econômico perseguido nos autos em referência (art. 85, § 2º, do CPC), cuja execução deverá ser realizada no juízo de origem.
+(Rcl 24464 AgR, Relator p/ Acórdão Min. DIAS TOFFOLI, SEGUNDA TURMA, DJe 08/02/2018).
+Por todo o exposto, acolho os presentes embargos para sanar a omissão apontada e, com amparo no art. 85, caput e §§ 2.º e 3.º do CPC, fixar os honorários no percentual mínimo de 10% (dez por cento) do valor atualizado da causa.
+Publique-se.
