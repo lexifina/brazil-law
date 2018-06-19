@@ -1,0 +1,65 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO AOS ARTS. 165, 458, II, E 535 NÃO VERIFICADA. ILEGITIMIDADE PASSIVA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO DE INSTRUMENTO. EXECUÇÃO. PENHORA DE VALORES EM INSTITUIÇÃO FINANCEIRA VIA BACENJUD. IMPOSSIBILIDADE. ART. 649, IV, DO CPC. PRECEDENTES DA PRIMEIRA E SEGUNDA SEÇÃO DESTA CORTE SUPERIOR.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil de 1973. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente. Não se verifica, também, no caso, a alegada vulneração dos artigos 165 e 458, II, do Código de Processo Civil de 1973, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas. O teor do acórdão recorrido resulta de exercício lógico, ficando mantida a pertinência entre os fundamentos e a conclusão.
+2. As razões do recurso especial não impugnam o fundamento para afastar a alegação de ilegitimidade passiva, de sorte que a deficiência da fundamentação atrai, por analogia, o óbice contido na Súmula 284/STF.
+3. A Primeira Seção desta Corte, no julgamento do Recurso Especial n. 1.184.765/PA, submetido ao rito do art. 543-C do CPC (Recursos repetitivos), assentou o entendimento de que "a penhora eletrônica dos valores depositados nas contas bancárias não pode descurar-se da norma inserta no artigo 649, IV, do CPC (com a redação dada pela Lei 11.382/2006), segundo a qual são absolutamente impenhoráveis "os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios; as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal"".
+4. A Segunda Seção, ao apreciar o Recurso Especial n. 1.230.060/PR, concluiu que a remuneração protegida pela regra da impenhorabilidade é a última percebida - a do último mês vencido - e, mesmo assim, sem poder ultrapassar o teto constitucional referente à remuneração de Ministro do Supremo Tribunal Federal, sendo que, após esse período, eventuais sobras perdem tal proteção. Consignou-se, ademais, que é possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até 40 (quarenta) salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em contas-correntes ou em fundos de investimento, ou guardados em papel-moeda.
+5. Ademais, a penhora sobre proventos e salários recebidos pelo devedor, tendo em vista a absoluta impenhorabilidade prevista no art. 649, inciso IV, do CPC de 1973, em princípio, só pode ceder vez para a satisfação de crédito alimentício (§ 2º).
+6. Não sendo a hipótese de execução para a satisfação de crédito alimentar, há de ser reconhecida, na espécie, a impossibilidade de penhora sobre os valores depositados na conta corrente da ora recorrente, porquanto proveniente de proventos.
+7. Recurso especial parcialmente conhecido e provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por MARIA DA [NOME] [NOME], com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão majoritário proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+VV. AGRAVO DE INSTRUMENTO - EXECUÇÃO - PENHORA ON LINE - CONTA SALÁRIO - Não se nega que a agravada deve ter um patrimônio mínimo existencial garantido, mas, por outro lado, não é menos certo que a agravante também tem direito a ver seu crédito satisfeito. Por esta razão, não se pode criar um patrimônio blindado, só pela circunstância de se tratar de verba de natureza alimentar, porquanto a agravante jamais lograria satisfazer seu crédito.
+EMENTA: IMPENHORABILIDADE ABSOLUTA DOS VENCIMENTOS E PROVENTOS DE APOSENTADORIA. O bloqueio de ativos financeiros em nome do executado, por meio do Sistema BacenJud, não deve descuidar do disposto no art. 649, IV, do CPC, com a redação dada pela Lei 11.382/2006, segundo o qual são absolutamente impenhoráveis "os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios; as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal".
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos artigos 165,458, II, 535, 568 e 649, IV, do Código de Processo Civil de 1973.
+Sustenta, em síntese: (a) nulidade do acórdão recorrido, pois, não obstante a oposição de embargos de declaração, os vícios apontados não foram sanados; (b) impossibilidade de bloqueio dos valores relativos aos seus proventos; (c) ilegitimidade passiva, sob o argumento de que a agravante, ora recorrente, era pessoa estranha à relação processual.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 127.
+Crivo positivo de admissibilidade na origem (fls. 129-130).
+É o relatório.
+DECIDO.
+2. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil de 1973. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+Não se verifica, também, no caso, a alegada vulneração dos artigos 165 e 458, II, do Código de Processo Civil de 1973, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas. O teor do acórdão recorrido resulta de exercício lógico, ficando mantida a pertinência entre os fundamentos e a conclusão.
+3. No que respeita à alegada ilegitimidade passiva, a Corte de origem assentou que, uma vez detectada a constrição de valores em nome da ora recorrente depositada em conta conjunta com o marido, o juízo monocrático determinou o desbloqueio da quantia relativa a proventos em favor da ora recorrente, de modo que a discussão se restringia ao saldo remanescente. É o que se extrai do seguinte excerto:
+ ..
+PRELIMINAR
+ Ilegitimidade ativa da parte agravante.
+Alega a agravante haver conta conjunta com o marido, razão pela qual possui ilegitimidade ativa para sofrer os efeitos da ação executória.
+Analisando a decisão atacada, mediante este recurso de agravo de instrumento, o MM. Juiz, José Carlos de Matos, determinou o desbloqueio do valor de R$ 788,00, creditado e bloqueado em conta do Banco Itaú, sendo expedido alvará em nome da agravante, [NOME], CPF [CPF], retendo o saldo remanescente de R$ 154,56 (cento e cinqüenta e quatro reais e cinqüenta e seis centavos), cujo desbloqueio deste valor é objeto do agravo.
+Assim, não se vislumbra nos autos penhora dos proventos da agravante e sim saldo remanescente que foi bloqueado, motivo do pedido liminar em análise.
+Dessa forma, não assiste razão à agravante na preliminar argüida.
+ ..
+(fl. 64)
+Ocorre que as razões do recurso especial não impugnam esse fundamento, de sorte que a deficiência da fundamentação atrai, por analogia, o óbice contido na Súmula 284/STF.
+4. Melhor sorte socorre a recorrente quanto à apontada ofensa ao disposto no art. 649, IV, do CPC de 1973.
+Isso porque a Primeira Seção desta Corte, no julgamento do Recurso Especial n. 1.184.765/PA, submetido ao rito do art. 543-C do CPC, assentou o entendimento de que "a penhora eletrônica dos valores depositados nas contas bancárias não pode descurar-se da norma inserta no artigo 649, IV, do CPC (com a redação dada pela Lei 11.382/2006), segundo a qual são absolutamente impenhoráveis "os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios; as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal"".
+Por seu turno, a Segunda Seção, ao apreciar o Recurso Especial n. 1.230.060/PR, concluiu que a remuneração protegida pela regra da impenhorabilidade é a última percebida - a do último mês vencido - e, mesmo assim, sem poder ultrapassar o teto constitucional referente à remuneração de Ministro do Supremo Tribunal Federal, sendo que, após esse período, eventuais sobras perdem tal proteção. Consignou-se, ademais, que é possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em contas-correntes ou em fundos de investimento, ou guardados em papel-moeda. Este julgado está assim ementado:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPENHORABILIDADE. ARTIGO 649, IV e X, DO CPC. FUNDO DE INVESTIMENTO. POUPANÇA. LIMITAÇÃO. QUARENTA SALÁRIOS MÍNIMOS. PARCIAL PROVIMENTO.
+1. A remuneração a que se refere o inciso IV do art. 649 do CPC é a última percebida, no limite do teto constitucional de remuneração (CF, art. 37, XI e XII), perdendo esta natureza a sobra respectiva, após o recebimento do salário ou vencimento seguinte. Precedente.
+2. O valor obtido a título de indenização trabalhista, após longo período depositado em fundo de investimento, perde a característica de verba salarial impenhorável (inciso IV do art. 649). Reveste-se, todavia, de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta-corrente;
+aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, e ressalvado eventual abuso, má-fé, ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias da situação concreta em julgamento (inciso X do art. 649).
+3. Recurso especial parcialmente provido.
+(REsp 1230060/PR, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/08/2014, DJe 29/08/2014)
+No mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PENHORA DE SALÁRIO. ALCANCE. APLICAÇÃO FINANCEIRA. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS.
+1. A Segunda Seção pacificou o entendimento de que a remuneração protegida pela regra da impenhorabilidade é a última percebida - a do último mês vencido - e, mesmo assim, sem poder ultrapassar o teto constitucional referente à remuneração de Ministro do Supremo Tribunal Federal. Após esse período, eventuais sobras perdem tal proteção.
+2. É possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda.
+3. Admite-se, para alcançar o patamar de quarenta salários mínimos, que o valor incida em mais de uma aplicação financeira, desde que respeitado tal limite.
+4. Embargos de divergência conhecidos e providos.
+(EREsp 1330567/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 10/12/2014, DJe 19/12/2014)
+Outrossim, cumpre ressaltar que a penhora sobre proventos e salários recebidos pelo devedor, tendo em vista a absoluta impenhorabilidade prevista no art. 649, inciso IV, do CPC, em princípio, só pode ceder vez para a satisfação de crédito alimentício (§ 2º).
+5. Não sendo a hipótese de execução para a satisfação de crédito alimentar, há de ser reconhecida, na espécie, a impossibilidade de bloqueio de valores efetivado na conta bancária, porquanto restou incontroverso entre os membros do colegiado que se tratava de verba de caráter alimentar.
+Com efeito, o relator - vencido - consignou:
+ ..
+Na espécie, verifica-se que os valores que o agravante teve penhorados, são impenhoráveis nos termos do art. 649, IV, do Código de Processo Civil, porquanto possuem caráter alimentar e buscam preservar o mínimo patrimonial para a subsistência do mesmo, a fim de satisfazer suas necessidades com habitação, alimentação, saúde, transporte e lazer, bem como uma condição financeira digna para sua vida.
+ ..
+(fl. 65)
+E o voto condutor do aresto assentou:
+ ..
+In casu, não se nega que a agravada deve ter um patrimônio mínimo existencial garantido, conforme alhures salientando, mas, por outro lado, não é menos certo que a agravante também tem direito a ver seu crédito satisfeito.
+Por esta razão, não se pode criar um patrimônio blindado, só pela circunstância de se tratar de verba de natureza alimentar, porquanto a agravante jamais lograria satisfazer seu crédito.
+ ..
+(fl. 68)
+Desse modo, por estar em dissonância com a jurisprudência desta Corte Superior, o acórdão recorrido merece reparos.
+6. Ante o exposto, conheço em parte e dou provimento ao recurso especial para determinar o desbloqueio efetivado pelo juízo monocrático no valor de R$ 154,56, na forma postulada no agravo de instrumento.
+Publique-se. Intimem-se.
