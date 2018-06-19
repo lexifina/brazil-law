@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] - ESPÓLIO, representado por [NOME], contra decisão que não admitiu recurso especial impugnando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 326):
+Plano de Saúde. Falecimento do titular do plano coletivo empresarial. Dependente que pretende manter-se como beneficiária sob as mesmas condições, após o término do período de remissão.
+Apólice firmada com a Bradesco, contudo, que expirou no decorrer da ação, tendo a ex-empregadora contratado outra apólice com a seguradora Amil. Perda superveniente de objeto.
+Não se desconhece a aplicação do art. 30, § 3º da Lei 9.656/98 e Súmula nº 13 da ANS, contudo, o direito da autora de manutenção no plano de saúde vincula-se à apólice contratada pela ex-empregadora. No caso, não mais subsistindo o plano anteriormente contratado com a Bradesco, não há como se exigir daquela seguradora a manutenção da requerente.
+Pretensão que deve ser dirigida à nova seguradora contratada. Ação que deve ser julgada extinta, sem resolução do mérito, pela perda superveniente de objeto. Recursos providos.
+Nas razões do apelo especial, a recorrente aponta violação dos arts. 6º, caput e § 2º, do Decreto-Lei n. 4.657/42; e 35-E, § 2º, da Lei n. 9.656/98, visto que o "Tribunal "a quo" não reconheceu o direito adquirido da recorrente de permanecer no plano administrado pela recorrida Unimed. Houve violação do direito da recorrente de participar de um plano individual (artigo 35-E § 2º da Lei 9.656/98), no lugar da sua participação em um plano coletivo" (e-STJ, fl. 337).
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que esse não merece provimento.
+No tocante à apontada violação dos arts. 6º, caput e § 2º, do Decreto-Lei n. 4.657/42; e 35-E, § 2º, da Lei n. 9.656/98, cumpre observar que tais dispositivos legais não foram objeto de exame pela instância ordinária, muito menos a parte opôs embargos de declaração na origem para suprir eventual omissão sobre esses aspectos, o que torna inviável sua análise, pois ausente o requisito indispensável do prequestionamento, do qual não estão isentas sequer as questões de ordem pública. Incidem, na hipótese, os óbices das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+1. Em relação ao artigo 396 do Código Civil, incidem os enunciados das Súmulas 282 e 356 do Supremo Tribunal Federal, ante a ausência de prequestionamento, porquanto a matéria contida em tal dispositivo não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+2. A despeito de o insurgente afirmar não ter manejado o reclamo com base na alínea "c" do permissivo constitucional, em uma simples leitura da folha de apresentação do recurso especial depreende-se que o apelo foi interposto com fundamento "nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição da República". Assim, não tendo a parte logrado comprovar o referido dissenso jurisprudencial, adequada a monocrática que não conheceu do recurso no ponto.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.112.475/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19.10.2017, DJe 25.10.2017).
+Em face do exposto, nego provimento ao agravo.
+Por fim, tendo o acórdão recorrido sido publicado já na vigência do atual Código de Processo Civil, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo art. 85, § 11, do novo diploma processual.
+Intimem-se.
