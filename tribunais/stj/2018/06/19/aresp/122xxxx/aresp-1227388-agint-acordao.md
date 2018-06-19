@@ -1,0 +1,23 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. ASTREINTES. REDUÇÃO DO VALOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na via especial não é cabível, em regra, a revisão do valor fixado pelas instâncias ordinárias a título de multa diária por descumprimento da obrigação de fazer, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ. Contudo, a jurisprudência desta Corte admite, em caráter excepcional, que o quantum arbitrado a título de astreintes seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não é a hipótese dos autos.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A hipótese é de agravo interno interposto pelo Estado de Pernambuco contra decisão que negou provimento ao agravo em recurso especial, em razão da: (I) ausência de omissão no julgado recorrido; e (II) incidência da Súmula 7/STJ quanto ao valor das astreintes, que não se mostraram exorbitantes.
+Nas razões do agravo interno, sustenta a parte que não incide a Súmula 7/STJ, pois as astreintes foram fixadas em valor exorbitante.
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pesem os argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Destaque-se que a parte insurge-se apenas quanto ao valor das astreintes, restando preclusa a alegação de omissão no julgado de origem.
+Na via especial não é cabível, em regra, a revisão do valor fixado pelas instâncias ordinárias a título de multa diária por descumprimento da obrigação de fazer, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ. Contudo, a jurisprudência desta Corte admite, em caráter excepcional, que o quantum arbitrado seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade. Sobre o tema, leiam-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. ALEGAÇÃO NÃO LEVANTADA NAS RAZÕES DO RECURSO ESPECIAL. INOVAÇÃO EM AGRAVO
+REGIMENTAL. IMPOSSIBILIDADE. FORNECIMENTO DE MEDICAMENTO. IMPOSIÇÃO DE MULTA DIÁRIA POR DESCUMPRIMENTO DE OBRIGAÇÃO. REVISÃO DO VALOR ARBITRADO (R$ 2.000,00). REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.  ..  2. A revisão do valor fixado a título de multa em decorrência do descumprimento de decisão judicial, encontra óbice na Súmula 07/STJ, uma vez que fora estipulado em razão das peculiaridades do caso concreto, a exemplo, da capacidade econômica do ofensor e do ofendido, e ao caráter pedagógico da indenização. 3. Somente é possível rever o valor a ser indenizado quando exorbitante ou irrisória a importância arbitrada, em violação dos princípios da razoabilidade e da proporcionalidade, o que não se observa no presente caso. 4. Agravo Regimental do Estado de Pernambuco desprovido.
+(AgRg no AREsp 446.099/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 24/4/2014, DJe 8/5/2014)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTO. MULTA DIÁRIA. ASTREINTES. PRETENSÃO DE REDUÇÃO DA MULTA. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. 1. A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de multa diária (astreintes) pelo descumprimento de decisão judicial, pois tal providência exigiria incursão na seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ. 2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 449.804/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 11/3/2014, DJe 19/3/2014)
+No caso dos autos, a parte agravante não demonstrou que o valor arbitrado, no valor de R$ 1.000,00 (mil reais) por dia se revelaria exorbitante. Desse modo, deve ser mantido o quantum estabelecido a título de astreintes, tendo em vista que ancorado no contexto fático delineado nos autos, não se mostrando exorbitante.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
