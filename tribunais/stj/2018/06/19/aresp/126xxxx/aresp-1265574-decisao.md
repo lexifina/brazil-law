@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo interposto por [NOME] contra a decisão de fls. 266-268 (e-STJ), prolatada pelo Tribunal de Justiça do Estado do Paraná, que não admitiu o recurso especial apresentado às fls. 213-239 (e-STJ).
+Na origem, o ora insurgente ajuizou ação de indenização por dano moral contra o BANCO SANTANDER (BRASIL) S.A., ao argumento de que é servidor público municipal e recebe seu salário mediante depósito em conta-corrente mantida pelo réu, tendo este, a fim de amortizar o saldo negativo, retido ilegalmente seus proventos, o que lhe causou transtornos, situação que perdurou até a obtenção de provimento jurisdicional no sentido de determinar à instituição bancária a abstenção de efetuar descontos na conta do insurgente.
+O Juízo de primeiro grau julgou procedente o pedido inicial para condenar o réu ao pagamento de R$ 5.000,00 (cinco mil reais) a título de indenização por dano moral (fls. 159-165, e-STJ), ensejando a interposição de apelação pelo Banco réu e de recurso adesivo pelo autor.
+O Tribunal estadual deu provimento ao apelo da Casa Bancária, reformando a sentença, para julgar improcedente o pedido autoral, bem como julgou prejudicado o recurso adesivo. Eis o teor da ementa do referido julgado (fl. 236, e-STJ):
+Reparação de dano moral causado por retenção de proventos. Apelação. Desconto de empréstimo e amortização de saldo devedor na conta corrente em que é recebido o salário. Autorização contratual. Tutela inibitória concedida em juízo para obstar a retenção. Relação bancária continuada e estendida no tempo. Ato ilícito inexistente. Danos morais descabidos. Recurso adesivo prejudicado.
+O desconto de empréstimo ou amortização do saldo devedor na conta corrente em que a autora percebe seus rendimentos, devidamente autorizado à época por cláusula contratual, não caracteriza ato ilícito do banco.
+Apelação provida. Recurso adesivo prejudicado.
+No recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, o insurgente apontou, além de divergência jurisprudencial, violação dos artigos 1º, inciso II, e 7º, inciso X, da Constituição Federal; 649, inciso IV, do CPC/1973; e 186, 187 e 927 do CC.
+Aduziu que a retenção de salários em conta-corrente, para pagamento de empréstimos ou encargos bancários, por ser ilícita, considerando a sua natureza alimentar, dá margem à indenização por dano moral.
+Não foram apresentadas contrarrazões.
+O Tribunal de origem inadmitiu o recurso especial, daí o presente agravo buscando destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+A Irresignação merece prosperar.
+1. O recurso especial não se presta ao exame de suposta violação a dispositivos constitucionais, por se tratar de matéria reservada à análise do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+2. A atual jurisprudência desta Corte é no sentido de ser ilegal a apropriação de valores referentes a salários ou outra verba alimentar de correntista, depositado em conta-corrente, para a satisfação de saldo negativo, cabendo à instituição bancária a satisfação do crédito por meio de cobrança judicial.
+Tal entendimento ficou cristalizado na Súmula 603 do STJ: "É vedado ao banco mutuante reter, em qualquer extensão, os salários, vencimentos e/ou proventos de correntista para adimplir o mútuo (comum) contraído, ainda que haja cláusula contratual autorizativa, excluído o empréstimo garantido por margem salarial consignável, com desconto em folha de pagamento, que possui regramento legal específico e admite a retenção de percentual".
+No mesmo sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. BANCÁRIO. CONTA-CORRENTE. DEPÓSITO PROVENIENTE DE SALÁRIO. RETENÇÃO PARA SATISFAÇÃO DE DÉBITO COM A INSTITUIÇÃO FINANCEIRA. DESCABIMENTO. PRECEDENTES.
+1. Não é cabível a quitação de dívidas contraídas com a instituição financeira por meio da retenção de salários ou proventos depositados em conta-corrente, ainda que haja cláusula contratual autorizando a retenção.
+2.Decisão agravada mantida pelos seus próprios fundamentos.
+3. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp n. 1.201.030/RS, Relator o Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 6/12/2012 - DJe 11/12/2012.)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO ESPECIAL. CONTRATO BANCÁRIO. DÉBITOS. SALÁRIO/VENCIMENTOS. RETENÇÃO. INADMISSIBILIDADE. DANO MORAL. MONTANTE. SÚMULA N. 7-STJ. JUROS DE MORA. FLUÊNCIA. FIXAÇÃO DO VALOR. PARCIAL PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça não admite que a instituição financeira credora retenha valores decorrentes de salário ou vencimentos do devedor depositados em sua conta para se creditar de débitos contratuais. Precedentes.
+2. Os juros de mora fluem a partir de quando fixado o valor da indenização por dano moral. Limitando-se a parte, todavia, em pretender que o sejam a partir da citação, defere-se o pedido na sua extensão, a fim de se evitar julgamento ultra petita.
+3. Embargos de declaração recebidos como agravo regimental, parcialmente provido.
+(EDcl no REsp n. 988.178/PB, Relatora a Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/8/2011, DJe 31/8/2011.)
+Ademais, este Tribunal Superior sedimentou o entendimento de que a indevida retenção de verba salarial do correntista para saldar débito existente em conta-corrente mantida na instituição financeira é passível de reparação por danos morais.
+A propósito:
+AGRAVO REGIMENTAL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. CONTRATO DE CONTA CORRENTE. DESCONTO AUTOMÁTICO DE DÉBITOS PELA INSTITUIÇÃO FINANCEIRA. IMPOSSIBILIDADE. DANO MORAL. EXISTÊNCIA.
+1. Afasta-se a alegada violação do art. 535 do CPC quando o acórdão recorrido, integrado pelo julgado proferido nos embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+2. Ainda que expressamente pactuado pelo cliente que quaisquer valores depositados em sua conta corrente possam ser utilizados para o pagamento do débito contraído, a retenção integral de seu salário pela instituição financeira para esse fim resulta em ilícito passível de indenização por dano moral.
+3. Agravo regimental provido para conhecer do agravo para conhecer do recurso especial e dar-lhe parcial provimento."
+(AgRg no AREsp n. 175.375/RJ, Relator o Ministro João Otávio de Noronha, Terceira Turma, julgado em 6/8/2013, DJe 22/8/2013)
+Na hipótese, a Corte de origem entendeu que a retenção dos vencimentos não foi indevida, porquanto autorizada pelo recorrente e realizada em conta-corrente.
+Confiram-se os fundamentos do acórdão recorrido (e-STJ, fls. 238-241):
+Como se extrai da inicial, é incontroverso que o autor contratou empréstimos e limite de crédito na conta corrente (cheque especial), utilizando-se dos valores disponibilizados pelo banco réu em sua conta corrente. O recorrente adesivo alcançou êxito em ação judicial de tutela inibitória em que o banco apelante foi proibido de utilizar o saldo da conta corrente proveniente de verba salarial para quitação das dívidas decorrentes de tais contratos bancários.
+Se, por um lado, a proteção ao salário impede que o banco se aproprie de toda a remuneração do correntista e o deixe sem condições de prover o sustento próprio, por outro, subsiste o direito de crédito da instituição financeira que, por algum meio, deverá ser atendido. E os descontos, no caso, decorriam da execução regular do que havia sido pactuado.
+Além disso, é inerente à própria natureza dos contratos de abertura de crédito em conta corrente que o banco proceda a devida compensação de débitos e créditos, pois o dinheiro creditado em conta corrente, ainda que proveniente de salário, é ativo financeiro da correntista que pode ser utilizado para pagamento das obrigações assumidas.
+No caso, a relação bancária entre as partes se estendeu no tempo, sendo incontroverso ter o correntista contratado operações de crédito e se beneficiado do dinheiro emprestado.
+Assim, como os descontos na conta corrente foram autorizados, tendo a instituição financeira agido no exercício regular de direito conferido contratualmente, não está configurado ato ilícito capaz de gerar dano moral indenizável.
+Em tais condições, a pretensão indenizatória vai totalmente na contramão da boa-fé, pois o autor não nega, em momento algum, que tenha utilizado valores obtidos da instituição financeira, obrigando-se a pagar por eles, nem que tenha deixado de utilizar os serviços bancários.
+Isto porque, antes da concessão da tutela inibitória não houve cobrança de valores indevidos, tendo os descontos sido realizados para amortizar a própria dívida contraída pelo autor, o que constitui exercício regular do direito do banco, e não ato ilícito. E após a concessão da tutela inibitória não há qualquer prova de que o banco tenha retido valores, assim como o
+1 autor sequer alegou que a instituição financeira tenha continuado a reter seu salário.
+Logo, inexistindo ato ilícito, não se verifica haver danos morais indenizáveis.
+(..)
+Portanto, inexistindo ato ilícito que configure dano moral indenizável, uma vez que os descontos realizados antes da concessão da tutela inibitória decorriam de contratos, impõe-se a reforma da sentença, com o provimento do recurso.
+Como conseqüência, fica prejudicado o recurso adesivo em que era requerida a majoração do valor da indenização e dos honorários advocatícios e a alteração do termo de incidência de juros de mora.
+Nessas condições, voto em dar provimento ao apelo do banco para julgar improcedente a lide, com a condenação do apelado a arcar com o ônus da sucumbência, fixada a verba honorária em 15% sobre o valor atualizado da causa, em atenção ao disposto no art. 85, §§ 2º, e 11º, do CPC/2015, observada sua condição de beneficiário da assistência judiciária gratuita, e em julgar prejudicado o recurso adesivo.
+Dessa forma, constata-se que o acórdão estadual está em confronto com a atual orientação desta Corte, segundo a qual a retenção de verba salarial com o escopo de saldar débitos existentes em conta-corrente mantida pela própria instituição financeira credora é conduta ilícita passível de reparação moral, razão pela qual necessária a reforma do acórdão recorrido para julgar procedente o pedido autoral. Restando pendentes de análise pela Corte estadual as questões suscitadas no recurso adesivo à apelação, interposto pelo ora agravante, o qual fora considerado prejudicado em razão do provimento do apelo do Banco, impõe-se o retorno dos autos ao Tribunal de origem para que prossiga no julgamento, sob pena de violação ao Duplo Grau de Jurisdição.
+3. Do exposto, conheço do agravo para dar provimento ao recurso especial, a fim de reformar o acórdão recorrido nos termos da fundamentação exposta quanto ao pedido indenizatório e determinar o retorno dos autos ao Tribunal de origem para que prossiga no julgamento do recurso adesivo do autor/agravante, como entender de direito.
+Publique-se. Intimem-se.
