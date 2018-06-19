@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por [NOME] em face de acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, pelo qual foi concedida a ordem na impetração originária para determinar o trancamento do Procedimento Criminal n. 0017513-66.2016.8.10.2016, em trâmite perante a 5ª Vara Criminal da Comarca de São Luís/MA, oriundo de queixa-crime formulada pelo ora recorrente.
+Extrai-se da queixa-crime acostada às fls. 40/51 que RMC Comércio e Serviços Ltda ofereceu representação junto à Corregedoria do Ministério Público do Estado do Maranhão em face do ora recorrente questionando a atuação deste em inquérito civil. Com o arquivamento do procedimento correcional, o ora recorrente apresentou queixa-crime em face de [NOME], um dos sócios da referida pessoa jurídica, e de [NOME], advogada que subscreveu a representação.
+Intimado o querelante para se manifestar nos autos da impetração originária, a Corte local, conforme já apontado, concedeu a ordem para determinar o trancamento da ação penal, consoante fundamentos sintetizados na seguinte ementa (fls. 190/191):
+PENAL. PROCESSO PENAL. HABEAS CORPUS. POSSIBILIDADE EXCEPCIONAL DE TRANCAMENTO DE QUEIXA-CRIME. CALÚNIA E DIFAMAÇÃO. INDIVISIBILIDADE DA AÇÃO PENAL PRIVADA. RENÚNCIA TÁCITA. EXTINÇÃO DA PUNIBILIDADE. CRIMES SUPOSTAMENTE PRATICADOS POR ADVOGADO EM PETIÇÃO ADMINISTRATIVA. IMUNIDADE PROFISSIONAL QUANTO À DIFAMAÇÃO. CALÚNIA. ABSOLVIÇÃO. INEXISTÊNCIA DE SUPORTE PROBATÓRIO MÍNIMO. ATIPICIDADE DA CONDUTA DESCRITA NA PEÇA ACUSATÓRIA. DOLO ESPECÍFICO NÃO CONFIGURADO. PARTE. AUSÊNCIA DE RESPONSABILIDADE. JUSTA CAUSA INEXISTENTE - ORDEM CONCEDIDA.
+1. O trancamento de ação penal através de Habeas Corpus é medida excepcional, merecendo ser utilizado quando houver evidente comprovação da atipicidade da conduta, a incidência de causa de extinção da punibilidade, ou a ausência de indícios de autoria ou prova sobre a materialidade do delito.
+2. Considerando que o pedido de providências, no qual constam as supostas expressões caluniosas e difamatórias, fora formulado por uma empresa que possui 03 (três) sócios, o querelante não poderia ter escolhido contra qual sócio ofertar queixa-crime, e sim ter acionado todos eles. Afronta ao princípio da indivisibilidade.
+3. Tendo o querelante tacitamente renunciado ao direito de querela contra os demais sócios da empresa, é forçoso concluir pela extensão da renúncia em favor dos pacientes, com a consequente extinção da punibilidade e o trancamento da ação.
+4. O advogado tem imunidade profissional, não constituindo injúria e difamação puníveis qualquer manifestação de sua parte, no exercício de sua atividade, em juízo ou fora dele. Tal imunidade não abrange o crime de calúnia.
+5. Para a caracterização do crime de calúnia, deve estar devidamente comprovada a especial intenção do agente de ofender, magoar, macular a honra alheia, bem como que a imputação de fato definido como crime seja falsa e que o agente tenha conhecimento da falsidade.
+6. Inexistiu na conduta da paciente/advogada elemento capaz de configurar o crime de calúnia, posto que a mesma limitou-se a narrar os fatos e apontar as supostas irregularidades na distribuição e no impedimento dos membros do Parquet.
+7. A parte não responde por eventuais excessos de linguagem cometidos pelo advogado, posto que inexiste em nosso ordenamento a responsabilidade penal objetiva.
+8. Ordem concedida para determinar o trancamento da queixa-crime formulada em desfavor dos pacientes. Unanimemente.
+Nas razões recursais, o recorrente sustenta, em síntese, que o acórdão combatido é nulo, ante a ausência de sua intimação para realizar sustentação oral na sessão de julgamento. Aduz que não renunciou de forma tácita ou elegeu quais sócios iriam responder a queixa crime (fl. 251). Ademais, a imunidade do advogado restringe-se a expressões e palavras utilizadas para a defesa do seu cliente, não protegendo as frases agressivas e pejorativas proferidas pela Recorrida (fl. 255).
+Desse modo, requer o provimento do recurso para declarar a nulidade do acórdão, com a determinação de novo julgamento, para que o recorrente possa realizar sustentação oral e, no mérito, objetiva a reforma do acórdão combatido para que seja determinado o prosseguimento da ação penal originária.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso ordinário e, caso recebido o apelo como recurso especial, pela sua negativa de seguimento.
+É o relatório.
+DECIDO.
+Na linha do quanto consignado no parecer ministerial e consoante precedentes desta Corte Superior, a interposição de recurso ordinário em face de acórdão que tenha concedido a ordem de habeas corpus constitui erro grosseiro, porquanto o art. 105, II, a, da Constituição Federal estabelece, de forma taxativa, que a competência desta Corte para julgar a referida classe processual se dá quando a decisão impugnada houver denegado a ordem na Corte de origem, o que não ocorreu na hipótese dos autos.
+A propósito, mutatis mutandis:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. (1) INTERPOSIÇÃO DE RECURSO ORDINÁRIO EM HABEAS CORPUS AO INVÉS DE RECURSO ESPECIAL CONTRA ACÓRDÃO PROFERIDO EM SEDE DE RECURSO EM SENTIDO ESTRITO. ERRO GROSSEIRO. FUNGIBILIDADE. NÃO APLICAÇÃO. (2) DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. (3) REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A interposição de recurso ordinário em habeas corpus ao invés de recurso especial, contra acórdão proferido em sede de recurso em sentido estrito, configura erro grosseiro, apto a impedir a aplicação da fungibilidade. Precedentes.
+2. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma.
+3. Agravo regimental a que se nega provimento.
+(AgRg no RHC 37.923/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 20/11/2014, DJe 12/12/2014)
+PROCESSUAL PENAL. HABEAS CORPUS. DENEGAÇÃO. RECURSO ESPECIAL AO INVÉS DE RECURSO ORDINÁRIO. ERRO GROSSEIRO. NÃO CONHECIMENTO.
+1. Não se conhece de recurso especial interposto no lugar de recurso ordinário, em virtude do erro grosseiro constatado, pelo seu evidente descabimento para atacar acórdão denegatório de habeas corpus. Fungibilidade inaplicável.
+2. Na espécie, dada a inexistência de flagrante constrangimento ilegal, não há como conhecer da súplica como habeas corpus substitutivo de recurso ordinário. Precedentes.
+3. Recurso não conhecido.
+(RHC 26.440/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 20/03/2012, DJe 11/04/2012)
+PROCESSUAL PENAL E CONSTITUCIONAL. ACÓRDÃO DENEGATÓRIO DE WRIT ORIGINÁRIO. INTERPOSIÇÃO DE RECURSO ESPECIAL. RECURSO ESPECIAL. ERRO GROSSEIRO. NÃO CONHECIMENTO. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO EM FLAGRANTE DELITO. PEDIDO DE LIBERDADE PROVISÓRIA NEGADO, DE FORMA SINGELA, COM FULCRO APENAS NO ART. 2.º, INC. II, DA LEI N.º 8.072/90. CARÊNCIA DE FUNDAMENTAÇÃO. PRECEDENTES DO STJ. CONCESSÃO DE OFÍCIO.
+1. Considera-se erro grosseiro e inescusável a interposição de recurso especial no lugar de recurso ordinário constitucionalmente previsto, razão pela qual, não há como conhecer do inconformismo. Precedentes.
+ ..
+4. Recurso não conhecido, porém, concedido, de ofício, a ordem para que seja concedida a liberdade provisória à paciente, com a conseqüente expedição do alvará de soltura, se por outro motivo não estiver presa, mediante condições a serem estabelecidas pelo juízo processante, sem prejuízo de eventual decretação de custódia cautelar, devidamente fundamentada. postulada.
+(RHC 15.803/SC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 28/04/2004, DJ 07/06/2004, p. 243)
+Ante o exposto, não conheço do recurso ordinário.
+Publique-se.
+Intimem-se.
