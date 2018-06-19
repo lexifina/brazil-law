@@ -1,0 +1,55 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. ATO DE IMPROBIDADE. PRETENSÃO DE ALTERAÇÃO DAS SANÇÕES IMPOSTAS. DECISÃO NO SENTIDO DO NÃO CONHECIMENTO DO RECURSO ESPECIAL DIANTE DA NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. AGRAVO INTERNO INTERPOSTO FORA DO PRAZO DE 15 DIAS. PRAZO EM DOBRO. RECURSO INTEMPESTIVO.
+I - Sustenta-se, em síntese, que os demandados, ao exercerem cargos públicos no Complexo Penitenciário de São Pedro de Alcântara, desviaram quantias relativas aos depósitos realizados pelos familiares dos apenados, incorrendo, portanto, em prática de improbidade com consequentes prejuízos ao erário público.
+II - O magistrado a quo julgou improcedente o pedido de ação civil pública proposta pelo Ministério Público do Estado de Santa Catarina relativamente a um dos réus (fls. 3.782-3.791) e julgou parcialmente procedente a ação proposta pelo Parquet estadual, a fim de condenar os outros réus: a) à perda da função pública, bem como a suspensão dos direitos políticos pelo período de três anos; b) à proibição de contratar com o Poder Público ou receber benefícios ou incentivos fiscais ou creditícios pelo prazo de três anos; e, c) ao pagamento de multa civil no importe de dez vezes a remuneração recebida à época dos fatos.
+III - A decisão foi mantida pelo Tribunal de Justiça do Estado de Santa Catarina (fls. 3.867-3.871). Pretende o Ministério Público Estadual a condenação dos acusados no ressarcimento ao erário.
+IV - Na decisão recorrida, não se conheceu do recurso especial do Ministério Público Estadual, considerando que a apreciação da questão da dosimetria de sanções impostas em ação de improbidade administrativa implica revolvimento fático-probatório, hipótese inadmitida pelo verbete sumular n. 7 do Superior Tribunal de Justiça.
+V - Considerou-se, ainda, não se estar diante de situação de manifesta desproporcionalidade da sanção, situação essa que, caso presente, autorizaria a reanálise excepcional da dosimetria da pena.
+VI - Houve a intimação pessoal do órgão do Ministério Público Estadual de Santa Catarina no dia 28 de abril de 2017 (fl. 3.952). A contagem do prazo para a interposição do recurso iniciou-se no dia útil seguinte após a intimação (2 de maio de 2017) e encerrou-se em 12 de junho de 2017. A decisão transitou em julgado em 13 de junho de 2017 (fl. 3.956).
+VII - O recurso de agravo interno somente foi interposto no dia 16 de junho de 2017, sendo portanto, intempestivo.
+VIII - Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conheceu do agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu ação civil pública por improbidade administrativa proposta pelo Ministério Público do Estado de Santa Catarina em desfavor de [NOME], [NOME] e [NOME].
+Sustenta-se, em síntese, que os demandados, ao exercerem cargos públicos no Complexo Penitenciário de São Pedro de Alcântara, desviaram quantias relativas aos depósitos realizados pelos familiares dos apenados, incorrendo, portanto, em prática de improbidade com consequentes prejuízos ao erário público.
+À causa foi arbitrado o valor de R$ 185.818,68 (cento e oitenta e cinco mil, oitocentos e dezoito reais e sessenta e oito centavos).
+O magistrado a quo julgou improcedente o pedido de ação civil pública proposta pelo Ministério Público do Estado de Santa Catarina contra [NOME] (fls. 3.782-3.791).
+Na parte concernente a [NOME] e [NOME], a decisão deu parcial provimento à ação proposta pelo Parquet estadual, a fim de condená-los: a) à perda da função pública, bem como a suspensão dos direitos políticos pelo período de três anos; b) à proibição de contratar com o Poder Público ou receber benefícios ou incentivos fiscais ou creditícios pelo prazo de três anos; e, c) ao pagamento de multa civil no importe de dez vezes a remuneração recebida à época dos fatos.
+A decisão foi mantida pelo Tribunal de Justiça do Estado de Santa Catarina (fls. 3.867-3.871), nos termos assim ementados:
+AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. APROPRIAÇÃO DE PECÚLIO DOS APENADOS DO COMPLEXO PENITENCIÁRIO. RESPONSABILIZAÇÃO DAQUELES DIRETAMENTE ENVOLVIDOS NA MOVIMENTAÇÃO DOS ATIVOS. AUSÊNCIA DE RECURSO VOLUNTÁRIO POR PARTE DOS RÉUS CONDENADOS. REEXAME NECESSÁRIO NÃO CONHECIDO. AMPLIAÇÃO DA CONDENAÇÃO PARA RESSARCIMENTO INTEGRAL AO ERÁRIO PÚBLICO E DANO MORAL DIFUSO: PEDIDOS INACOLHIDOS. DECISÃO DE PRIMEIRO GRAU QUE SINGULARIZOU A RESPONSABILIZAÇÃO E CONDUTA IMPROBA DOS RÉUS, NO DESLEIXO E OMISSÕES NO ACOMPANHAMENTO FINANCEIRO DE FORMA A PERMITIR DESVIOS. RECURSO DO MINISTERIO PÚBLICO A QUE SE NEGA PROVIMENTO.
+Foram apresentados embargos declaratórios pelo Parquet estadual (fls. 3.877-3.886), os quais foram rejeitados (fls. 3.894-3.896).
+Em seguida, o recorrente, Ministério Público do Estado de Santa Catarina, interpôs o presente recurso especial (fls. 3.907-3.917), com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, bem como nos arts. 994, VI, e 1.029, caput, do Código de Processo Civil de 2015.
+Sustentando violação aos arts. 5º e 12, III, da Lei n. 8.429/92, afirma, a título de negativa de vigência de lei federal, que, mesmo constatado prejuízo ao erário causado pelos recorridos, a decisão proferida pelo Tribunal a quo afastou a vigência dos dispositivos da Lei de Improbidade Administrativa, deixando de condenar os citados agentes públicos ao ressarcimento integral do dano causado.
+Em juízo de admissibilidade, o Tribunal de Justiça do Estado de Santa Catarina admitiu o recurso (fls. 3.921-3.923).
+O Ministério Público Federal opinou pelo provimento do recurso excepcional (fls. 3.939-3.943), em parecer assim ementado:
+RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. ATO DE IMPROBIDADE. VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE. SÚMULA 7/STJ. NÃO INCIDÊNCIA. DESNECESSIDADE DE DOLO ESPECÍFICO. RECURSO CONHECIDO E PROVIDO. I. O recurso merece ser conhecido porque a matéria tida por violada foi enfrentada pelo tribunal a quo. II. O recurso especial trata de questão eminentemente de direito e sobre fatos incontroversos nos autos, inexistindo o reexame probatório capaz de obstar seu conhecimento. Não incidência da Súmula 7/STJ. III. A ofensa aos princípios da administração pública, por si só, caracteriza o ato de improbidade administrativa previsto no artigo 11 da Lei nº 8.429/92, sendo desnecessária a comprovação de dolo ou culpa do agente. IV. O ressarcimento integral do dano não pode ser considerado propriamente uma sanção, senão um desdobramento natural e necessário de todo ato comissivo ou omissivo, doloso ou culposo, que resulte em lesão aos cofres públicos. V. Parecer pelo conhecimento e provimento do recurso especial.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento nos arts. 34, XVIII, a, e 255, § 4º, I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente recurso especial".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso não merece ser conhecido.
+Na decisão recorrida, não se conheceu do recurso especial do Ministério Público Estadual, considerando que a apreciação da questão da dosimetria de sanções impostas em ação de improbidade administrativa implica revolvimento fático-probatório, hipótese inadmitida pelo verbete sumular n. 7 do Superior Tribunal de Justiça.
+Considerou-se, ainda, não se estar diante de situação de manifesta desproporcionalidade da sanção, situação essa que, caso presente, autorizaria a reanálise excepcional da dosimetria da pena.
+Houve a intimação pessoal do órgão do Ministério Público Estadual de Santa Catarina no dia 28 de abril de 2017 (fl. 3.952). A contagem do prazo para a interposição do recurso iniciou-se no dia útil seguinte após a intimação (2 de maio de 2017) e encerrou-se em 12 de junho de 2017. A decisão transitou em julgado em 13 de junho de 2017 (fl. 3.956).
+O recurso de agravo interno somente foi interposto no dia 16 de junho de 2017, sendo, portanto, intempestivo.
+A interposição de agravo interno após o prazo legal de quinze dias úteis implica o não conhecimento do recurso, por intempestividade, nos termos do art. 1.021, c/c os arts. 219, 1.003, § 5º, e 1.070 do Código de Processo Civil de 2015.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO APRESENTADO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. ART. 1.021, C/C 219, 1.003, § 5º, E 1.070 DO CPC/2015. NÃO CONHECIMENTO.
+1. A interposição de agravo interno após o prazo legal de quinze dias úteis implica o não conhecimento do recurso, por intempestividade, nos termos do art. 1.021, c/c os arts. 219, 1.003, § 5º, e 1.070 do Código de Processo Civil de 2015.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 500.715/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 7/11/2017, DJe 14/11/2017).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RECURSO PROTOCOLIZADO DE FORMA FÍSICA. RESOLUÇÃO 10/STJ. INOBSERVÂNCIA. APRESENTAÇÃO DA PETIÇÃO ELETRÔNICO FORA DO PRAZO DE QUINZE DIAS ÚTEIS PREVISTO NO ARTIGO 1.003, § 5º C/C 219 DO CPC/2015. INTEMPESTIVIDADE. AGRAVO INTERNO NÃO CONHECIDO. 1. A Resolução 10 do STJ, que regulamenta o processo judicial eletrônico no âmbito do Superior Tribunal de Justiça, determina que as petições iniciais e incidentais referentes a recurso especial devem ser protocolizadas de forma exclusivamente eletrônica.
+2. Desse modo, a tempestividade do recurso interposto perante esta Corte é aferida pelo protocolo da petição eletrônica, e não pela data da entrega da petição física.
+3. In casu, verifica-se que o presente agravo interno é intempestivo, porquanto, ainda que a petição física tenha sido protocolizada em tempo hábil, a petição eletrônica só foi apresentada após o prazo recursal de 15 (quinze) dias previsto no artigo 1.003, § 5º c/c 219 do Código de Processo Civil de 2015.
+4. Agravo interno não conhecido.
+(AgInt no AREsp 1.079.967/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 5/9/2017, DJe 15/9/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. NÃO CONHECIMENTO.
+1. É intempestivo o recurso interposto quando já superado o prazo de 15 (quinze) dias previsto no art. 1.003, § 5º, do CPC/2015.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 927.101/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 16/5/2017, DJe 19/5/2017).
+Ante o exposto, não conheço do agravo interno.
+É o voto.
