@@ -1,0 +1,55 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. São idôneas as razões adotadas para convolar a prisão em flagrante do acusado em custódia preventiva, diante da gravidade concreta da conduta, evidenciada pela apreensão de cerca de 363 g de maconha, petrechos destinados ao comércio de entorpecentes (balança de precisão, tesouras e facas com resquício de droga) e R$ 865,00 em espécie.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do CPP).
+4. Recurso não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao recurso ordinário, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI [NOME]:
+[NOME], paciente neste habeas corpus, alega sofrer constrangimento ilegal em virtude de acórdão do Tribunal de Justiça do Estado de São Paulo no HC n. 2038654-95.2018.8.26.0000.
+Nesta Corte, a defesa sustenta a ausência de motivação idônea para converter a prisão em flagrante do réu, pela suposta prática do delito do art. 33, caput, da Lei n. 11.343/2006, em custódia preventiva. Assere que o acusado foi abordado pela autoridade policial "com somente 1 (um) único cigarro de maconha, após isso, os citados policiais vasculharam o telefone celular do paciente, sem autorização, resolveram conduzir o paciente em sua residência e mais uma vez, sem autorização judicial e ou do paciente, adentraram na sua residência e lá dentro encontraram a quantidade de 300 gramas de maconha, além da balança e outros utensílios" (fl. 13, destaques no original).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição por medida cautelar diversa.
+Indeferida a liminar (fls. 89-90) e prestadas as informações (fls. 94-156), o Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 160-168).
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. São idôneas as razões adotadas para convolar a prisão em flagrante do acusado em custódia preventiva, diante da gravidade concreta da conduta, evidenciada pela apreensão de cerca de 363 g de maconha, petrechos destinados ao comércio de entorpecentes (balança de precisão, tesouras e facas com resquício de droga) e R$ 865,00 em espécie.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do CPP).
+4. Recurso não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI [NOME] (Relator):
+I. Contextualização
+Extrai-se dos autos que o ora recorrente foi preso em flagrante em 5/2/2018, pela suposta prática do crime de tráfico de drogas. Em audiência de custódia realizada no dia 6/2/2018, o flagrante foi convertido em prisão preventiva, sob a seguinte motivação (fl. 47, grifei):
+Os indícios de autoria decorrem das circunstâncias descritas no auto de prisão em flagrante, que apontam para o envolvimento do custodiado na atividade de comercialização dessas substâncias entorpecentes. A prisão cautelar ainda se revela necessária à garantia da ordem pública, tratando-se, ao menos por ora, do meio adequado a impedir a reiteração criminosa (art. 282, § 6º do CPP). As medidas cautelares diversas da prisão (art. 319, CPP) revelam-se insuficientes. As provas nos autos demonstram, ao menos em cede de conhecimento preliminar, que o custodiado fazia do tráfico um meio de vida. Aliado à droga com ele encontrada, havia uma significativa quantidade de dinheiro para a qual não há qualquer justificativa de sua origem, considerando que o custodiado declarou estar desempregado e não possuir qualquer tipo de renda lícita.
+O Ministério Público ofertou denúncia em 8/3/2018 e imputou ao acusado a prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. Os fatos foram assim narrados (fls. 109-112, destaquei):
+Consta do incluso inquérito policial que no dia 5 de fevereiro de 2018, por volta de 8h40min, na Avenida  .. , no bairro Solo Sagrado, na cidade e comarca de São José do Rio Preto, SP, RAFAEL [NOME] [NOME], qualificado às fls. 7 e 25/29, trazia consigo, guardava e tinha em depósito, para a finalidade de venda, entrega e fornecimento a terceiros, sem autorização e em desacordo com determinação legal ou regulamentar, 1 (um) cigarro de maconha e 1 (um) tijolo de maconha, pesando 362,5 g (trezentos e sessenta e dois gramas e cinco decigramas), conforme auto de exibição e apreensão de fl. 11, fotografias de fls. 12/14 e laudo de constatação de fls. 23/24-A.
+Apreendeu-se ainda na posse de Rafael um aparelho de telefone celular e uma tesoura e, na sua residência, duas facas, uma balança de precisão, todos com resquícios de maconha, além de R$ 865,00 em dinheiro.
+Segundo apurado, os policiais militares [NOME] e [NOME] faziam patrulhamento pela Avenida José Munia quando avistaram [NOME] e [NOME] defronte ao estabelecimento "McDonald"s", sendo que ambos, ao notarem a presença dos policiais, aparentaram nervosismo, o que motivou a abordagem.
+Em revista, com Rafael foram localizadas, escondidas dentro da pochete que carregava, um cigarro de maconha, uma pequena tesoura com resquícios de droga e seu celular. Já com [NOME] foi localizada uma porção pequena de maconha.
+Os policiais dirigiram-se à residência de Rafael e sua genitora lhes franqueou a entrada. Em buscas, no quarto de Rafael, foram localizados no interior de uma bota, em cima do guarda-roupa, um tijolo de maconha e, no interior do guarda-roupa, uma pequena faca, uma faca maior e uma balança de precisão, todos com resquício de droga e, ainda, fragmentos de maconha próximos à balança, além de uma garrafa com R$ 850,00 em notas de R$ 100,00 e R$ 50,00 dentro e, em um pote plástico, R$ 15,00 reais em moedas.
+Rafael confessou aos policiais que iria comercializar a droga, enquanto [NOME] afirmou que era usuário de drogas.
+A defesa postulou a revogação da prisão preventiva do réu, o que foi indeferido pelo Juízo singular. A audiência de instrução e julgamento foi designada para o dia 5/9/2018 (fl. 151).
+A defesa impetrou prévio habeas corpus perante a Corte local, que denegou a ordem.
+Feito esse registro, examino as teses defensivas.
+II. Prisão preventiva - motivação idônea
+Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+Na hipótese, observo que se mostram idôneas as razões adotadas para convolar a prisão em flagrante do réu em custódia preventiva, diante da gravidade concreta da conduta, evidenciada pela apreensão de cerca de 363 g de maconha, petrechos destinados ao comércio de entorpecentes (balança de precisão, tesouras e facas com resquício de droga) e R$ 865,00 em espécie.
+A respeito do tema, a jurisprudência desta Corte Superior é firme ao asseverar que, nos casos em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são suficientes para demonstrar a gravidade concreta do delito e, por isso mesmo, constituem fundamento idôneo para a constrição cautelar.
+Ilustrativamente:
+ ..
+1. Apresentada fundamentação concreta para a decretação da prisão preventiva, evidenciada na expressiva quantidade da droga apreendida, qual seja, 498,43g de maconha, distribuídos em 73 (setenta e três) porções, além de petrechos utilizados para a atividade do tráfico, não se há falar em ilegalidade do decreto de prisão preventiva.
+2. Habeas corpus denegado.
+(HC n. 411.286/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 23/10/2017, destaquei)
+Ademais, quanto à tese defensiva de que, no momento da abordagem policial, o réu trazia consigo apenas um cigarro de maconha - os outros materiais haveriam sido encontrados em sua residência sem autorização judicial ou do acusado para o ingresso da autoridade policial -, verifico que o tema não foi apreciado no acórdão impugnado, de modo que sua análise por esta Corte Superior acarretaria indevida supressão de instância. Ressalto, ainda, que, para o exame da questão, é imprescindível ampla dilação probatória, incompatível com a via estreita do habeas corpus, uma vez que a leitura dos documentos que instruem este writ permite concluir que as peculiaridades sustentadas pela defesa não foram reconhecidas pelo Juízo singular nem narradas pelo órgão acusatório.
+Concluo, portanto, haver motivos suficientes para justificar a prisão preventiva do réu.
+III. Substituição por cautelares diversas - insuficiência e inadequação
+Evidenciada a acentuada reprovabilidade da conduta perpetrada pelo acusado, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do CPP).
+Nesse sentido:
+ ..
+6. Indevida a aplicação de medidas cautelares diversas da prisão quando a segregação encontra-se justificada na gravidade do delito cometido e na necessidade de se evitar a reiteração delitiva.
+7. Recurso ordinário conhecido e improvido.
+(RHC n. 62.316/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 24/8/2016)
+IV. Dispositivo
+À vista do exposto, nego provimento ao recurso.
