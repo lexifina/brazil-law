@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 3ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo, assim ementado:
+    “AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. USO INDEVIDO DE IMAGEM EM FILMAGEM.
+    I- Nulidade da sentença. Pretensão de rediscussão do mérito da demanda em sede de embargos de declaração. Descabimento, à vista da natureza infringente da postulação. Cerceamento de defesa. Suficiência dos elementos de convicção existentes nos autos ao equacionamento da demanda. Desnecessidade, na espécie, da produção das provas pretendidas pela apelante. Afastamento da alegação de nulidade da sentença.
+    II- Vídeo contendo a imagem da apelante tilintando um sino por ocasião da compra de um veículo. Ausência de qualquer participação, direta ou indireta, da fabricante do veículo (JAC MOTORS) na produção da filmagem. Improcedência, quanto à ré JAC MOTORS, confirmada. Filmagem, outrossim, que não alcançou a honra ou a reputação da apelante, inexistindo, ainda, qualquer intuito lucrativo ou comercial na veiculação. Aplicação do artigo 20 do Código Civil e Súmula 403 do STJ. Ausência, ainda, de qualquer desassossego anormal vivenciada pela apelante em razão da veiculação da sua imagem.
+    SENTENÇA DE IMPROCEDÊNCIA PRESERVADA. APELO DESPROVIDO.”
+    Opostos embargos declaratórios, foram desprovidos.
+    No recurso extraordinário sustenta-se violação dos artigos 5º, incisos V e X, e 93, inciso IX, da Constituição Federal.
+    Decido.
+    Não procede a alegada violação do artigo 93, inciso IX, da Constituição, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    Ademais, ressalte-se que as instâncias de origem reconheceram a improcedência do pedido indenizatório em questão amparadas nas provas dos autos e na legislação infraconstitucional pertinente (Código Civil), de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF. Nesse sentido:
+    “AGRAVO REGIMENTAL. INDENIZAÇÃO POR DANOS MORAIS. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DE PROVAS. SÚMULA 279 DESTE TRIBUNAL. INEXISTÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL. A questão em debate foi decidida com base no Código de Defesa do Consumidor. Assim, eventual ofensa à Constituição seria indireta ou reflexa, o que enseja o descabimento do recurso extraordinário. Agravo regimental a que se nega provimento” (AI nº 645.863/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 20/3/09).
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 279 DO STF. I - A apreciação do recurso extraordinário demanda o exame de matéria de fato, o que atrai a incidência da Súmulas 279 do STF. II - Agravo regimental improvido” (AI nº 634.072/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 22/6/07).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda, a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 19 de junho de 2018.
+Ministro Dias Toffoli
+Relator
+      Documento assinado digitalmente
