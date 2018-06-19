@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por OI S.A., contra acórdão assim ementado (fl. 408):
+PARTICIPAÇÃO FINANCEIRA. Complementação da dobra acionária. Insurgência de ambas as partes. Ilegitimidade passiva. Telefonia fixa e celular. Prescrição. Preliminares rejeitadas. Código de Defesa do Consumidor. Incidência. Portarias ministeriais e responsabilidade da União. Alegações inacolhidas. Critério de cálculo da indenização. Maior cotação em bolsa. Correção monetária. Data da subscrição deficitária. Honorários advocatícios. Manutenção. Prequestionamento. Apelo da empresa desprovido. Recurso do autor provido parcialmente.
+Após a determinação do retorno à origem "para apreciação da questão jurídica destacada (Tema 658)" (fl. 465), a Corte de origem manteve o decidido, nos seguintes termos (fl. 469):
+PARTICIPAÇÃO FINANCEIRA. Inconformismo de ambas as partes. Reexame determinado pela Terceira Vice-Presidência. Critério de cálculo da indenização. Maior cotação em bolsa. Manutenção.
+Em suas razões, a recorrente alega violação dos arts. 3º e 20, § 3º, do Código de Processo Civil/1973; 206, § 3º, IV e V, do Código Civil; e 2º do Código de Defesa do Consumidor, bem como dissídio jurisprudencial. Argui ilegitimidade passiva; prescrição da pretensão; e inaplicabilidade do Código de Defesa do Consumidor.
+Passo a decidir.
+Primeiramente, no que tange à arguição de afronta ao art. 20, § 3º, do Código de Processo Civil/1973, a recorrente não esclarece, objetiva e especificamente, os motivos de reforma do julgado proferido pela Corte de origem, o que faz incidir o enunciado 284 da Súmula do STF.
+Quanto à prescrição, a conclusão adotada na origem está em perfeita harmonia com a jurisprudência adotada neste Superior Tribunal de Justiça. Consolidou-se o entendimento de que a condição de acionista somente é adquirida com a subscrição das ações, sendo impróprio, portanto, adotar os prazos estabelecidos na Lei 6.404/76. Assim, não se aplica o prazo de três anos estabelecido na Lei das Sociedades Anônimas, mas o prazo de prescrição das ações de natureza pessoal, a saber, vinte anos, a teor do artigo 177 do Código Civil de 1916, até a entrada em vigor do novo Código, em 11.1.2003, passando a ser, a partir daí, de dez anos, nos termos do artigo 205 desse estatuto.
+Nesse sentido, o acórdão da Segunda Seção no REsp 1.033.241, Relator o Ministro Aldir Passarinho Junior, submetido ao rito do art. 543-C do CPC, de cuja ementa transcrevo a seguinte passagem:
+COMERCIAL E PROCESSUAL CIVIL. TELECOM. CRT. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO DE AÇÕES. DIFERENÇA. PRESCRIÇÃO. DIREITO PESSOAL. DIVIDENDOS. ARTS. 177 DO CC/1916, 205 E 2.028 DO CC/2002. VALOR PATRIMONIAL DA AÇÃO. APURAÇÃO. CRITÉRIO. BALANCETE DO MÊS DA INTEGRALIZAÇÃO. RECURSO ESPECIAL REPETITIVO. LEI N. 11.672/2008. RESOLUÇÃO/STJ N. 8, DE 07.08.2008. APLICAÇÃO.
+I. Nas demandas em que se discute o direito à complementação de ações em face do descumprimento de contrato de participação financeira firmado com sociedade anônima, a pretensão é de natureza pessoal e prescreve nos prazos previstos no artigo 177 do Código Civil revogado e artigos 205 e 2.028 do Novo Código Civil.
+(..)
+III. Julgamento afetado à 2ª Seção com base no procedimento da Lei n. 11.672/2008 e Resolução n. 8/2008 (Lei de Recursos Repetitivos).
+IV. Recurso especial conhecido em parte e provido.
+REsp nº 1.033.241/RS relator Min. Aldir Passarinho Junior, DJ 5/11/2008)
+Em relação à ilegitimidade, a Terceira Turma desta Corte, em recente julgamento do REsp nº 1191480/SC, proferido sob a relatoria do Ministro Paulo de Tarso Sanseverino, DJ 14/10/2011, assentou que:
+(..) quando da incorporação da Telesc pela Brasil Telecom S/A, aquela, na qualidade de incorporada, teve extinta a sua personalidade jurídica, e esta, na qualidade de incorporadora, absorveu todos os seus direitos e obrigações (..). Instaurando-se litígios acerca de questões de débito e crédito da extinta Telesc, resta indene de dúvidas que por eles responde a Brasil Telecom S/A.
+Eis a ementa do julgado:
+RECURSO ESPECIAL. PROCESSO CIVIL. INCORPORAÇÃO. EXTINÇÃO DA PERSONALIDADE JURÍDICA DA INCORPORADA. DIREITOS E OBRIGAÇÕES TRANSMITIDOS À INCORPORADORA. BRASIL TELECOM S/A. SUBSTITUTA, POR INCORPORAÇÃO, DA TELESC. LEGITIMIDADE PASSIVA RECONHECIDA. EMBARGOS DE DECLARAÇÃO. MULTA POR CARÁTER PROTELATÓRIO. AFASTAMENTO. FINS DE PREQUESTIONAMENTO. RECURSO ESPECIAL PARCIALMENTE PROVIDO NO PONTO.
+1. A sucessão, por incorporação, de empresas, implica a extinção da personalidade jurídica da incorporada e a transmissão de seus direitos e obrigações à incorporadora.
+2. Legitimidade passiva da Brasil Telecom S/A para responder pelos atos anteriormente praticados pela Telesc, ante sua sucessão, ocorrida por incorporação.
+3.Situação análoga à apreciada pela Segunda Seção desta Corte no julgamento de recurso repetitivo atinente à sucessão da Companhia Riograndense de Telecomunicações (CRT) pela Brasil Telecom (REsp. 1.034.255/RS, Rel. Ministro Luis Felipe Salomão, 2ª Seção, j. 28/04/2010, DJe 11/05/2010).
+3. Inexistência de caráter protelatório nos embargos de declaração opostos na origem, quando visa a parte o prequestionamento das questões debatidas, para acesso às instâncias superiores. Enunciado n. 98/STJ.
+4. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+Ressalte-se, ademais, que esta Corte tem entendimento pacífico de que o vínculo societário existente entre as partes não descaracteriza a relação de consumo sendo-lhe aplicável, portanto, as regras do Código de Defesa do Consumidor. Nesse sentido:
+RECURSO ESPECIAL. AÇÃO COLETIVA CONSUMERISTA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. PRETENSÃO À RETRIBUIÇÃO ACIONÁRIA. RELAÇÃO DE CONSUMO CONFIGURADA. DEMANDA JURIDICAMENTE POSSÍVEL. APLICAÇÃO DO CDC.
+(..)
+- Esta Corte entende que o Código de Defesa do Consumidor incide na relação jurídica posta a exame, porquanto, não basta que o consumidor esteja rotulado de sócio e formalmente anexado a uma Sociedade Anônima para que seja afastado o vínculo de consumo.
+- Além da presença de interesse coletivo existe, na hipótese, a prestação de serviços consistente na administração de recursos de terceiros, a evidenciar a relação de consumo encoberta pela relação societária. Recurso Especial conhecido e provido. (REsp 600.784/RS, Relatora MINISTRA NANCY ANDRIGHI, Terceira Turma, DJ 16.6.05)
+Acrescente-se que a revisão do julgado, a fim de verificar se presentes, ou não, os requisitos necessários à inversão da prova, fica obstada pela incidência do enunciado 7 da Súmula do STJ, eis que dependente de reexame de matéria fática da lide.
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a orientação desta Corte, não há o que se reformar, esbarrando o presente recurso no óbice da Súmula 83/STJ.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso especial.
+Intimem-se.
