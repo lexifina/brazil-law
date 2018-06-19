@@ -1,0 +1,31 @@
+EMENTA
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO DE PENALIDADES. SUSPENSÃO DOS DIREITOS POLÍTICOS. GRAVIDADE DOS FATOS. POSSIBILIDADE DE DECOTAMENTO. PROPORCIONALIDADE ENTRE O ATO PRATICADO E AS SANÇÕES IMPOSTAS.
+1. É possível a revisão das penalidades aplicadas em ações de improbidade administrativa em hipóteses excepcionais, nas quais, da leitura do acórdão recorrido, exsurgir a desproporcionalidade entre o ato praticado e as sanções aplicadas.
+2. "A jurisprudência desta Corte tem mitigado a imposição da sanção de direitos políticos nas condenações por ato de improbidade, por ser a mais drástica das penalidades estabelecidas no art. 12 da Lei n. 8.429/92, devendo ser considerada a gravidade do caso, e não a das funções do acusado" (REsp 1228749/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 29/04/2014).
+3. Caso concreto em que o agravado foi condenado pela prática de ato de improbidade administrativa consubstanciado na autorização de uso de dinheiro público com a finalidade custear despesas de viagem de servidora municipal, bem como despesas próprias de transporte aéreo relacionas a atividades privadas.
+4. Hipótese em que a aplicação da pena de suspensão dos direitos políticos não atenderia os vetores da proporcionalidade e da razoabilidade, especialmente quando considerado que o ato ímprobo sequer guarda relação com qualquer espécie de atividade político partidária.
+5. Dentre as penas antes aplicadas, remanesceram o ressarcimento ao erário dos valores indevidamente utilizados e o pagamento de multa civil correspondente a 3 (três) vezes o valor das passagens emitidas e 2 (duas) vezes o preço das emitidas em benefício da servidora.
+6. Agravo interno a que se nega provimento
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Ministério Público do Estado de Mato Grosso desafiando decisão pela qual dei parcial provimento ao recurso especial interposto pela parte ora agravada, tão somente para adequação das sanções impostas.
+Em suas razões, a parte agravante sustenta que a suspensão dos direitos políticos do agravado, no patamar mínimo de 5 (cinco) anos, nos termos do art. 12, II, da Lei 8.429/1992, afigura-se proporcional à prática do ato ímprobo apontado.
+Sem impugnação (fls. 599/600).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhida.
+Tal como constatou a decisão agravada, é possível a revisão das penalidades aplicadas em ações de improbidade administrativa em hipóteses excepcionais, nas quais, da leitura do acórdão recorrido, exsurgir a desproporcionalidade entre o ato praticado e as sanções aplicadas.
+Ademais, "a jurisprudência desta Corte tem mitigado a imposição da sanção de direitos políticos nas condenações por ato de improbidade, por ser a mais drástica das penalidades estabelecidas no art. 12 da Lei n. 8.429/92, devendo ser considerada a gravidade do caso, e não a das funções do acusado" (REsp 1228749/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 29/04/2014). Nesse sentido:
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. EXAME DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. COMPETÊNCIA DA CORTE EXCELSA. DOSIMETRIA DAS SANÇÕES APLICADAS POR ATO DE IMPROBIDADE ADMINISTRATIVA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. A aplicação das penalidades previstas no art. 12 da Lei n. 8.429/1992 exige que o magistrado considere, no caso concreto, "a extensão do dano causado, assim como o proveito patrimonial obtido pelo agente", (conforme previsão expressa contida no parágrafo único do referido artigo). Assim, é preciso analisar a razoabilidade e a proporcionalidade em relação à gravidade do ato ímprobo e à cominação das penalidades, as quais podem ocorrer de maneira cumulativa ou não. (Precedente: AgRg no REsp 1242939/SP, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 24/05/2011, DJe
+30/05/2011.)
+2. A sanção de suspensão dos direitos políticos é a mais drástica das penalidades estabelecidas no art. 12 da Lei n. 8.429/92, devendo ser aplicada tão somente em casos graves. (Precedente: AgRg no AREsp 11.146/RS, Rel. Min. Humberto Martins, Segunda Turma, julgado em 16/08/2011, DJe 22/08/2011).
+3. "A condenação foi devidamente motivada e se encontra dentro dos limites do art. 12 da Lei 8.429/1992, estando dosada segundo a avaliação razoável do Tribunal de origem. Portanto, não merece reforma em Recurso Especial, ante o óbice da Súmula 7/STJ." (Precedente: REsp 1173845/MG, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 08/06/2010, DJe 27/04/2011.) Agravo regimental improvido.
+(AgRg no REsp 1223798/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 19/4/2012)
+Tem-se, portanto, que, nos termos do entendimento firmado no âmbito desta Corte de Justiça, a pena de suspensão de direitos políticos constitui medida de exceção, só se justificando em hipóteses restritas.
+Pois bem, na hipótese em exame, o agravado foi condenado pela prática de ato de improbidade administrativa consubstanciado na autorização de uso de dinheiro público com a finalidade custear despesas de viagem de servidora municipal, bem como despesas próprias de transporte aéreo relacionas a atividades privadas.
+De se ver, portanto, que a aplicação da pena de suspensão dos direitos políticos não atenderia os vetores da proporcionalidade e da razoabilidade, especialmente quando considerado que o ato ímprobo sequer guarda relação com qualquer espécie de atividade político partidária, motivo pelo qual se fez de rigor o decotamento das sanções aplicadas pela Corte local.
+Saliente-se, por oportuno, que, dentre as penas antes aplicadas, remanesceram o ressarcimento ao erário dos valores indevidamente utilizados e o pagamento de multa civil correspondente a 3 (três) vezes o valor das passagens emitidas e 2 (duas) vezes o preço das emitidas em benefício da servidora.
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
