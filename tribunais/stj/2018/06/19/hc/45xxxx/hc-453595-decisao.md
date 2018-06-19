@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] em face de decisão monocrática do Tribunal de origem, que não conheceu o writ na origem.
+O impetrante busca a revogação da prisão preventiva, com a alegação de que não estão presentes indícios suficientes de autoria e materialidade, bem como que não foram indicados os requisitos ensejadores da prisão temporária e da prisão preventiva. Requer, subsidiariamente, a aplicação de medidas alternativas à prisão.
+O paciente foi preso preventivamente pela prática do crime tipificado no art. 157, § 2º, I, II e V, do Código Penal.
+É o relatório.
+DECIDO.
+A decisão do relator não conheceu do writ pelos seguintes fundamentos (fls. 21/22):
+ .. .É o relatório. Decido.
+Verifico que o presente "writ" foi insuficientemente instruído, não trazendo o mínimo de peças essenciais à análise dos fundamentos alegados pelos impetrantes.
+Apenas para ilustrar, alega o impetrante, em suma, a insubsistência dos motivos que determinaram a decretação da prisão preventiva do paciente, mas não juntou aos autos a cópia dessa decisão.
+Cabe ressaltar que somente consta dos autos a decisão que indeferiu o pedido de revogação da prisão do paciente, a qual apenas refere que sua prisão preventiva foi decretada em 19/3/2018, nos autos 4360-2920184013800, para garantia da ordem pública, ante a existência de indícios "suficientes e contundentes da participação do investigado no delito em apuração", reportando ainda que "o paciente ostenta extensa anotação de registros criminais e várias decretações de prisões por crimes ligados à esfera patrimonial, que levam "a uma forte e segura presunção de que ele faz do crime seu meio de vida." (fls. 18/20, Id 2136267).
+Ao que tudo indica, a prisão preventiva do paciente foi decretada para garantia da ordem pública, visando inibir a reiteração delitiva, tendo em vista seus antecedentes criminais. Todavia, sem a cópia da decisão que decretou a prisão preventiva, não há como se certificar todas essas circunstâncias.
+Este relator, tendo em conta a importância do direito em discussão (liberdade), não obstante detectada a deficiente instrução do feito logo inicialmente, solicitou informações à autoridade impetrada, especificamente o envio da decisão que decretou a prisão preventiva do paciente. Todavia, a cópia da referida decisão não acompanhou as informações prestadas, restando, de modo definitivo, inviabilizada a análise do presente feito.
+É certo que a via estreita do "habeas corpus" exige que a parte interessada, no caso o impetrante, traga desde o início os elementos de prova indispensáveis à compreensão da matéria e à apreciação do pedido veiculado.
+Nesse sentido, confiram-se os julgados dos Tribunais Superiores e desta Corte:
+ ..
+No caso, não tendo sido juntada aos autos sequer a cópia da decisão que decretou a prisão preventiva da paciente, o não conhecimento da impetração é medida que se impõe.
+Tudo considerado, não conheço do presente "habeas corpus. .. .
+No caso, verifica-se que o habeas corpus insurge-se contra decisão monocrática de Desembargador do Tribunal de origem, ou seja, da decisão de não conhecimento não houve interposição do competente agravo regimental para submissão da decisão singular ao colegiado competente, de modo a exaurir a instância antecedente, impedindo a análise por esta Corte Superior, sob pena de indevida supressão de instância.
+Nesse sentido é o entendimento do Supremo Tribunal Federal. Senão, vejamos: HC 118643, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, julgado em 10/06/2014, PROCESSO ELETRÔNICO DJe-118 DIVULG 18-06-2014 PUBLIC 20-06-2014; HC 120655, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 10/06/2014, PROCESSO ELETRÔNICO DJe-148 DIVULG 31-07-2014 PUBLIC 01-08-2014.
+Na mesma linha é o entendimento desta Corte: AgRg no HC 411.727/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 06/03/2018, DJe 13/03/2018; AgInt no HC 379.806/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/12/2016, DJe 02/02/2017.
+Ademais, não se verifica a ocorrência de constrangimento ilegal no não conhecimento do mandamus, tendo em vista que a cópia do decreto de preventiva é documento indispensável para o deslindo da controvérsia.
+A propósito, é pacífico o entendimento desta Corte Superior que o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (AgRg no HC n. 289076/SP - 5ª T. - unânime - Rel. Min. Regina Helena Costa - DJe 19/5/2014; AgRg no HC n. 291366/PE - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 29/5/2014; HC n. 269077/PE - 6ª T. - Rel. Min. Sebastião Reis Júnior - DJe 2/6/2014).
+Cumpre observar, de todo modo, que a decisão trazida aos autos, que indeferiu o pedido de revogação da custódia cautelar, apresenta fundamentação concreta, evidenciada na reiteração delitiva do acusado, tendo em vista a extensa anotação de registros criminais e as várias prisões preventivas contra o investigado (fl. 13), não havendo flagrante ilegalidade no caso.
+Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
