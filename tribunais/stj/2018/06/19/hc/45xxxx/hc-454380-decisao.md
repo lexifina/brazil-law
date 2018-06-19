@@ -1,0 +1,29 @@
+DECISÃO
+JOSE VITOR GONÇALVES, paciente neste habeas corpus substitutivo de recurso ordinário, alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de decisão proferida por desembargador do Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 2117998-28.2018.8.26.0000.
+Depreende-se dos autos que o Desembargador relator indeferiu o pleito liminar deduzido no habeas corpus lá impetrado, em que se pleiteia "que o Paciente possa aguardar em regime aberto a vaga ao regime semiaberto ou seja colocado em liberdade condicional" (fl. 13).
+Consoante a defesa, o paciente foi:
+ ..  condenado pela prática do delito previsto no artigo 33, "caput", da Lei 11.343/06, na forma do artigo 29, do Código Penal, à pena de 01 ano e 08 meses de reclusão, em regime inicial fechado, encontra-se preso desde 30/04/2017 e atingiu o lapso para a progressão ao regime semiaberto em 08/08/2017 e em 26/01/2018 para o livramento condicional. Por r. decisão datada de 15/05/2018, foi concedida a progressão ao regime intermediário, contudo, até a presente data permanece o Paciente custodiado em regime fechado  ..  (fl. 13, destaquei).
+Requer, assim, possa o paciente aguardar em liberdade o julgamento final deste writ.
+Decido.
+Inicialmente, destaca-se que as matérias aventadas neste habeas corpus não foi objeto de análise pelo Tribunal a quo, o que impediria sua admissão, sob pena da indevida supressão de instância.
+Nesse contexto, cumpre esclarecer os termos do enunciado da Súmula n. 691 do Supremo Tribunal Federal, segundo a qual "não compete ao Supremo Tribunal Federal conhecer de "habeas corpus" impetrado contra decisão do relator que, em "habeas corpus" requerido a Tribunal Superior, indefere a liminar".
+O referido impeditivo é ultrapassado tão somente em casos excepcionais, nos quais a ilegalidade é tão flagrante de modo a não escapar à pronta percepção do julgador, o que ocorre nos autos.
+Primeiramente, no que tange à alegação de permanência do paciente em estabelecimento prisional diverso do regime semiaberto, ao qual foi progredido em 15/5/2018, é imperioso destacar que o decisum atacado limitou-se a apontar que "A medida liminar em Habeas Corpus somente é cabível quando o constrangimento ilegal for manifesto, detectado de imediato através do exame sumário da inicial e dos documentos que a instruem, o que não ocorre no presente caso" (fl. 13).
+Além disso, o boletim informativo carcerário, trazido aos autos pelos impetrantes, foi expedido em 15/2/2018, de forma que é anterior, portanto, à próprio decisão em que foi progredido o apenado. Assim, não há nos autos, prova pré-constituída acerca do alegado constrangimento ilegal de que seria vítima o paciente, visto que não se infere dos autos que ele permaneça indevidamente em estabelecimento destinado a regime mais gravoso do que ao que faz jus.
+Nesse sentido
+ ..
+2. O rito do habeas corpus demanda a demonstração da flagrante ilegalidade por meio de prova pré-constituída, ônus que não se desincumbiu a defesa.
+ ..
+6. Recurso em habeas corpus improvido (RHC n. 95.971/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 11/6/2018).
+Todavia, verifico que o Juízo singular, ao negar o pleito de concessão de livramento condicional, asseverou que "o sentenciado deverá passar primeiro pelo regime intermediário, como prova de que irá absorver a terapia penal, para, posteriormente, fazer jus a imediato livramento" (fl. 16, grifei).
+Acerca do óbice elencado na decisão guerreada, é imperioso consignar que "a jurisprudência deste Tribunal consolidou entendimento no sentido de que não há obrigatoriedade de o apenado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal" (HC n. 411.951/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 26/9/2017, sublinhei).
+No mesmo sentido:
+ ..
+4. O Superior Tribunal de Justiça possui entendimento de que não há obrigatoriedade de o sentenciado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de tal previsão no art. 83 do Código Penal.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar as decisões das instâncias ordinárias e determinar que o Juiz da execução aprecie o pleito do benefício do livramento condicional, nos estritos termos da lei (HC n. 384.838/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 7/4/2017, destaquei).
+ ..
+3. Há ilegalidade patente a ensejar a concessão de ordem de ofício, pois a obrigatoriedade de progressão de regime antes da concessão de livramento condicional não constitui fundamento idôneo para indeferir-se o benefício pleiteado, se o apenado preenche os requisitos objetivo e subjetivo para a benesse, como sói ser o caso dos autos. Da mesma forma, inviável a negativa com base na gravidade em abstrato do delito cometido. Precedentes.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de restabelecer a decisão de primeiro grau que concedeu ao paciente o direito ao benefício do livramento condicional (HC n. 360.252/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 6/12/2016, sublinhei).
+Assim, verifico a possibilidade de, com fulcro no art. 654, § 2º, do CPP, conceder ordem de ofício para sanar a flagrante ilegalidade, pois, segundo o dispositivo legal, "Os juízes e os tribunais têm competência para expedir de ofício ordem de habeas corpus, quando no curso de processo verificarem que alguém sofre ou está na iminência de sofrer coação ilegal".
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus, mas concedo, ex officio, a ordem para determinar que o Juízo da execução penal examine o pleito de concessão do livramento condicional com fulcro tão-somente nos requisitos estabelecidos no art. 83 do Código Penal.
+Publique-se e intimem-se.
