@@ -1,0 +1,44 @@
+DECISÃO
+ Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO. AÇÃO COMINATÓRIA E INDENIZATÓRIA. PLANO DE SAÚDE. Morte do titular. Exclusão da dependente. Inadmissibilidade. O negócio jurídico celebrado entre as partes se submete ao Código de Defesa do Consumidor, consoante o disposto na Súmula 469 do STJ e 100 do TJSP. O falecimento do titular não implica em extinção automática do vínculo contratual em relação aos dependentes. Aplicabilidade, ademais, do artigo 13, parágrafo único, inciso II, da Lei 9.656/98, aos planos de saúde coletivos. Precedentes jurisprudenciais.
+Abusividade caracterizada. Contrato restabelecido, nos moldes anteriores ao óbito do marido da apelante. DANO MORAL. Inexistência de lesão a direito personalíssimo.
+SUCUMBÊNCIA. Decaimento de ambas as partes. Fixação da sucumbência recíproca. RECURSO PARCIALMENTE PROVIDO." (e-STJ,fl. 256)
+Em suas razões recursais, a recorrente aponta violação do art. 6º do CDC, sustentando, em síntese, ser devida reparação moral em razão da injusta exclusão da recorrida do plano de saúde mediante conduta abusiva da recorrida, que agiu com má-fé e enganou a consumidora a fim de que contratasse novo plano de valor superior.
+Apresentadas contrarrazões às fls. 275/285 (e-STJ).
+É o relatório. Passo a decidir.
+O Tribunal de origem afirmou expressamente que não houve fraude ou inadimplemento da recorrida, consignando que o cancelamento do plano se deu em razão de cláusula contratual nula e que a contratação de novo plano se deu porque a consumidora foi induzida a erro, razão pela qual deve ser reintegrada no plano.
+Asseverou não ter sido demonstrada a ocorrência de danos extrapatrimoniais, uma vez que o descumprimento contratual por curto espaço de tempo, ainda que calcado em desrespeito aos direitos do consumidor, não é suficiente, por si só, para caracterizar dano moral. Leia-se, a propósito, o seguinte trecho do voto condutor do mencionado julgamento, in verbis:
+"In casu, não se cogitou acerca de fraude ou inadimplemento da apelante. O cancelamento do plano, como se infere, fora realizado tão somente pelo fato de ter falecido o titular do contrato, com base em item contratual absolutamente nulo. Sendo assim, forçoso reconhecer a abusividade da conduta da apelada.
+Aliás, mister ressaltar que, embora a apelante tenha aderido a contratação de novo plano, tal opção se deu através de documento equivocadamente intitulado como "carta de declaração de permanência no plano" (fls. 20), o qual, obviamente, induziu a erro a consumidora, motivo pelo qual não pode prevalecer.
+Em suma, a apelante realmente tem direito de ser reintegrada no plano de saúde coletivo fornecido pela apelada aos associados da "Paineiras Country Club", ao menos enquanto perdurar a sua condição de sócia da referida entidade associativa, situação esta que restou demonstrada na hipótese dos autos (fls. 227).
+Por outro lado, no que tange ao pleito indenizatório, sabe-se que o dano moral indenizável deve decorrer de fatos que sejam revestidos de seriedade e relevância, não se configurando com os diminutos incômodos, desgostos e contrariedades.
+Sem ser necessário realizar uma abordagem a respeito da licitude da conduta da apelada, a verdade é que o exame do contexto dos autos leva à conclusão da improcedência deste pedido, porquanto ausente qualquer demonstração da ocorrência de dano.
+Registre-se que o dano extrapatrimonial caracteriza-se por uma situação de humilhação, sofrimento, padecimento, o que não se verificou no presente caso. O mero transtorno e indignação, decorrentes do cancelamento indevido do contrato, não são suficientes para gerar dano moral. Ao menos, diante dos elementos colacionados, não é possível concluir pela sua ocorrência.
+Com o devido respeito, a descrição dos fatos narrados na inicial não é suficiente para justificar o reconhecimento de efetiva ocorrência de dor, sofrimento, lesão aos sentimentos íntimos juridicamente protegidos. Sem dúvida, evidencia uma inegável situação de menosprezo aos direitos consumeristas, mas que não é o bastante para identificar o dano moral indenizável.
+Desse modo, malgrado o dissabor sofrido, não se pode afirmar que eventual descumprimento do contrato, por um curto espaço de tempo, mostrou-se suficiente para caracterizar o abalo psíquico, a aflição espiritual e a humilhação, a ensejar a existência do dano moral.
+Em outras palavras, não restou configurada a lesão a direito personalíssimo, elemento imprescindível para a caracterização do ato ilícito (art. 186, Código Civil)." (e-STJ fls. 262/264 - grifo nosso)
+Consoante a jurisprudência desta Corte Superior, o simples descumprimento contratual não é apto, por si só, a causar danos morais indenizáveis. Nesse sentido, os seguintes precedentes:
+"PROCESSUAL CIVIL E CONSUMIDOR. RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. RESILIÇÃO UNILATERAL. POSSIBILIDADE. MIGRAÇÃO PARA NOVO PLANO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DANO MORAL. NÃO OCORRÊNCIA.
+1. Ação ajuizada em 21/08/2013. Recurso especial interposto em 01/12/2015 e atribuído a este gabinete em 25/08/2016.
+2. Discute-se se a simples notificação de futuro cancelamento de plano de saúde, sem a ocorrência de efetiva ausência de cobertura, pode ensejar danos morais.
+3. Ausência de discussão no acórdão recorrido do conteúdo dos dispositivos informados como violados pela recorrente.
+4. Danos morais: ofensa à personalidade. Precedentes. Necessidade de reavaliação da sensibilidade ético-social comum na configuração do dano moral. Inadimplemento contratual não causa, por si, danos morais. Precedentes.
+5. Recurso especial parcialmente conhecido e, nessa parte, provido."
+(REsp 1654068/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/03/2017, DJe 22/03/2017 - grifo nosso)
+"AGRAVO INTERNO. RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. DANO MORAL. NÃO OCORRÊNCIA. VERIFICAÇÃO. INVIABILIDADE. REEXAME CONTRATUAL E FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ. DESCUMPRIMENTO CONTRATUAL. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar conteúdo contratual (Súmula 5/STJ), bem como matéria fático-probatória (Súmula n. 7/STJ).
+2. O mero descumprimento contratual não acarreta dano moral indenizável.
+3. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+4. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (Enunciado 182 da Súmula do STJ).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1562193/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/06/2016, DJe 17/06/2016)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE [NOME]. RESPONSABILIDADE CIVIL. DANO MORAL NÃO CONFIGURADO. MERO DESCUMPRIMENTO CONTRATUAL DECORRENTE DE CONTROVÉRSIA A RESPEITO DE COBERTURA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte entende que, quando a situação experimentada não tem o condão de expor a parte a dor, vexame, sofrimento ou constrangimento perante terceiros, não há falar em dano moral, uma vez que se trata de circunstância a ensejar mero aborrecimento ou dissabor, mormente quando mero descumprimento contratual, embora tenha acarretado aborrecimentos, não gerou maiores danos ao recorrente.
+2. No caso, não ficou demonstrada nenhuma hipótese de excepcionalidade. O Tribunal de origem, mediante análise do contexto fático-probatório dos autos, entendeu não estarem presentes elementos que caracterizem a indenização por danos morais, pois a recusa decorreu de controvérsia a respeito da extensão da cobertura contratada.
+3. Desse modo, a reversão do julgado afigura-se inviável para esta eg. Corte de Justiça, tendo em vista a necessidade de reexame do contexto fático-probatório dos autos, providência, todavia, incabível, a atrair a incidência das Súmulas 5 e 7/STJ.
+4. Agravo regimental não provido."
+(AgRg no AREsp 799.330/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2016, DJe 22/02/2016)
+Nesse contexto, tendo o Tribunal de origem entendido tratar-se de simples descumprimento contratual, a alteração de tal entendimento, nos moldes em que requeridos pela recorrente, demandaria o reexame do contexto fático-probatório dos autos, o que é vedado nesta instância especial, a teor do que dispõe a Súmula 7/STJ.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11%.
+Publique-se.
