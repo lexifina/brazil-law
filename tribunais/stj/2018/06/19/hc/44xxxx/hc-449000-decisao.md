@@ -1,0 +1,25 @@
+DECISÃO
+Ao relatório do despacho proferido pela Ministra Laurita Vaz, no exercício da Presidência desta Corte, que solicitou informações ao Tribunal de Justiça do Estado de São Paulo, acrescento que elas foram juntadas às fls. 23-47 e, logo após, determinou-se a distribuição do writ (fl. 50).
+A partir da leitura das informações prestadas pela autoridade apontada como coatora, constata-se que a defesa ajuizou pedido de habeas corpus contra a decisão que indeferiu o pedido de reconhecimento da continuidade delitiva entre os processos criminais em execução. O relator do writ originário, entretanto, indeferiu-o liminarmente, em decisão assim sintetizada (fl. 25):
+HABEAS CORPUS. Impetrante que pleiteia o reconhecimento da continuidade delitiva, com vista à unificação de penas. Writ que não se presta a suprir a interposição do recurso legalmente previsto, acelerar sua apreciação, ou discutir o mérito da sentença condenatóría. Outrossim, matéria não apreciada pelo Juízo das Execuções Criminais. Inadmissível supressão de instância.
+ORDEM CONHECIDA E INDEFERIDA LIMINARMENTE.
+É o relatório.
+Não há como prosperar o inconformismo.
+De proêmio, verifica-se que não há deliberação colegiada da Corte a quo, o que inviabiliza a apreciação, por este Sodalício, do teor da decisão unipessoal proferida pelo ilustre Desembargador relator, em 21.5.2018 (fls. 25-28).
+Com efeito, a jurisprudência desta Corte restringe as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado como sucedâneo dos recursos ordinário ou especial quando não preenchidos os requisitos de admissibilidade do recurso substituído.
+Assim, é fundamental o prévio exaurimento da jurisdição na anterior instância antes de se comparecer aos Tribunais Superiores, já que não existe propriamente uma opção de ingressar, ou não, com o competente agravo regimental, a fim de se ensejar o pronunciamento colegiado do Tribunal local.
+Sobre o não cabimento do writ substitutivo de recurso para esta Corte contra decisão monocrática de Desembargador, confiram-se os seguintes precedentes das duas turmas que integram a Terceira Seção:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL A QUO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. NÃO ESGOTAMENTO DA INSTÂNCIA ANTECEDENTE. RECURSO IMPROVIDO.
+1. A provocação da jurisdição de Corte Superior exige o prévio exaurimento da instância antecedente, de modo que correta a decisão que indeferiu liminarmente o habeas corpus que ataca decisão monocrática de relator não impugnada por recurso cabível.
+2. Caberia à defesa a interposição de agravo regimental, de modo a submeter a decisão singular à apreciação pelo órgão colegiado competente e não inaugurar, per saltum, a via recursal no Tribunal Superior.
+3. Ademais, não há se falar em superação da Súmula 691/STF, tendo em vista que o indeferimento liminar do writ não ocorreu com fundamento no citado enunciado sumular.
+4. Agravo regimental improvido.
+(AgRg no HC 417.354/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/11/2017, DJe 24/11/2017)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. AUSÊNCIA DE REALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR RELATOR QUE NEGOU SEGUIMENTO LIMINAR AO WRIT. SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE DE ANÁLISE DO MÉRITO DA IMPETRAÇÃO NESSA CORTE. NULIDADE NÃO ANALISADA PELO TRIBUNAL A QUO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo a atual orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. A questão referente à nulidade decorrente da ausência de realização de audiência de custódia não foi submetida à análise do órgão colegiado do Tribunal de origem, considerando que não houve a interposição do devido agravo regimental contra a decisão monocrática do relator que negou seguimento liminar ao writ sem análise do mérito. Assim, não compete a esta Corte Superior, o debate da tese levantada pela defesa, sob pena de se incorrer em indevida supressão de instância.
+3. Não tendo sido individualizada a situação prisional de cada réu, mostra-se inviável a verificação coletiva da questão relativa à não realização da audiência de custódia, uma vez que não é possível saber para quais acusados o tema ficou superado em virtude da decretação de prisão preventiva. Habeas corpus não conhecido.
+(HC 385.063/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 07/11/2017, DJe 14/11/2017)
+Ante o exposto, com fundamento no art. 34, XVIII, "a", e XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
