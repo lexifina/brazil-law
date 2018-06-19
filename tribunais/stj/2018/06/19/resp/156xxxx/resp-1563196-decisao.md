@@ -1,0 +1,49 @@
+EMENTA
+DIREITO BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL. ALIENAÇÃO FIDUCIÁRIA. CONTRATOS BANCÁRIOS. CAPITALIZAÇÃO MENSAL. PERMITIDA COBRANÇA, DESDE QUE EXPRESSAMENTE PACTUADA (O QUE COMPREENDE A PACTUAÇÃO DE TAXAS DE JUROS ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL). COMISSÃO DE PERMANÊNCIA. PERÍODO DE INADIMPLÊNCIA. CUMULAÇÃO COM OS DEMAIS ENCARGOS MORATÓRIOS. PROIBIÇÃO. SÚMULAS 30, 294 E 296/STJ. COMPENSAÇÃO DE VALORES E REPETIÇÃO DO INDÉBITO. CABIMENTO. DESNECESSIDADE DE PROVA DO ERRO NO PAGAMENTO. VEDAÇÃO AO ENRIQUECIMENTO ILÍCITO.
+1. "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (2ª Seção, REsp 973.827/RS, Rel. p/ acórdão Ministra Maria Isabel Gallotti, DJe de 24.9.2012).
+2. Verificada a presença de outros encargos moratórios, afasta-se a comissão de permanência. Súmulas 30, 294 e 296/STJ.
+3. A compensação de valores e a repetição de indébito são cabíveis sempre que verificado o pagamento indevido, em repúdio ao enriquecimento ilícito de quem o receber, independentemente da comprovação do erro. Precedentes
+4. Recurso parcialmente provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por CRISTIANE SANTOS ROZA, com fundamento no artigo 105, inciso III, alínea "a" da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÕES CÍVEIS. AÇÃO REVISIONAL. ALIENAÇÃO FIDUCIÁRIA.
+CONTROLE DE CONSTITUCIONALIDADE DIFUSO. MP 2.170-36. Impossibilidade. Tramitação da ADI 2.316 que discute a matéria em sede de controle concentrado.
+JUROS REMUNERATÓRIOS ABUSIVOS. Revisão dos juros de acordo com a taxa de mercado aplicada pelo BACEN no período.
+CAPITALIZAÇÃO MANTIDA. Possível a capitalização dos juros pactuada em periodicidade inferior à anual, nos termos da Medida Provisória nº 1.963-14, de 30/03/2000, de acordo com a atual orientação do STJ, oriunda do Resp n. 973.827/RS
+MORA. Paeradigma - Resp nº 1.061.530/RS - No caso concreto, considerado ilegal encargos normalidade, fica afastada a mora.
+COMISSÃO DE PERMANÊNCIA E ENCARGOS MORATÓRIOS MANTIDOS. PERÍODO DA INADIMPLÊNCIA. Comissão de permanência prevista na forma de juros remuneratórios. Legalidade da aplicação dos juros remuneratórios limitados à taxa de mercado, somados aos demais encargos moratórios previstos no Súmulas nºs 296 e 472 do STJ
+TAC, TEC E DEMIAS TARIFAS PARA O MESMO FATO GERADOR. Ausência de previsão expressa quanto às taxas em questão. Não conhecido o recurso neste tópico.
+COMPENSAÇÃO E REPETIÇÃO DO INDÉBITO. PERMITIDOS. Em sendo constatado pagamento a maior, deve ocorrer a compensação de valores e repetição, simples, do indébito.
+TUTELA ANTECIPADA DEFERIDA. Manutenção do recorrente na posse do bem. Proibição da inscrição de seu nome nos órgãos arquivistas. Medidas condicionadas aos depósitos das parcelas de acordo com os parâmetros estipulados pelo julgado.
+COMPENSAÇÃO HONORÁRIA. Possível a compensação, com base no artigo 21 do CPC e Súmula 306 do STJ diante da sucumbência recíproca das partes.
+APELAÇÃO DA AUTORA PARCIALMENTE CONHECIDA E, NESTA PARTE, PARCIALMENTE PROVIDA.
+APELAÇÃO DO RÉU PARCIALMENTE PROVIDA, VENCIDO EM PARTE O REVISOR.
+Nas razões do recurso especial (fls. 233/241), o recorrente se insurge contra a capitalização mensal de juros, a comissão de permanência e a repetição de indébito.
+É o relatório.
+Decido.
+2. No tocante à capitalização mensal de juros, consigne-se que, no julgamento do REsp nº 973.827/RS, submetido à sistemática dos recursos repetitivos, restou decidido que nos contratos firmados após 31/3/2000, data da publicação da Medida Provisória nº 1.963-17, admite-se a capitalização dos juros em periodicidade inferior a um ano, desde que pactuada de forma clara e expressa, assim considerada quando prevista a taxa de juros anual em percentual doze vezes maior do que a mensal, consoante se colhe da ementa de referido julgado:
+CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura) em intervalo inferior a um ano e permitida pela Medida Provisória 2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC: - "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada." - "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada.
+(..)
+6. Recurso especial conhecido em parte e, nessa extensão, provido."
+(REsp 973.827/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 8/8/2012, DJe 24/9/2012)
+Na hipótese dos autos, consignando o aresto atacado que há cláusula contratual estipulando a capitalização dos juros, revela-se legal a sua incidência.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. CAPITALIZAÇÃO MENSAL. PERMITIDA COBRANÇA, DESDE QUE EXPRESSAMENTE PACTUADA (O QUE COMPREENDE A PACTUAÇÃO DE TAXAS DE JUROS ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL). AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp 787.586/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/09/2013, DJe 13/09/2013)
+_____
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO BANCÁRIO. MATÉRIA CONSTITUCIONAL. REVISÃO NO STJ. IMPOSSIBILIDADE. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS.
+1. O recurso especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF.
+2. "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (2ª Seção, REsp 973.827/RS, Rel. p/ acórdão Ministra Maria Isabel Gallotti, DJe de 24.9.2012).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp
+ 349.807/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/09/2013, DJe 16/09/2013)
+______
+3. Consoante entendimento assente na 2ª Seção desta Corte Superior, admite-se a comissão de permanência durante o período de inadimplemento contratual, à taxa média dos juros de mercado, limitada ao percentual fixado no contrato (Súmula nº 294/STJ), desde que não cumulada com a correção monetária (Súmula nº 30/STJ), com os juros remuneratórios (Súmula nº 296/STJ) e moratórios, nem com a multa contratual.
+Dentre inúmeros, observe-se os seguintes julgados: AgRg no REsp 1057319/MS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 19.08.2008, DJ de 03.09.2008; AgRg no REsp 929.544/RS, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 19.06.2008, DJ de 01.07.2008; REsp 906.054/RS, Rel. Ministro Aldir Passarinho Junior, Quarta Turma, julgado em 07.02.2008, DJ de 10.03.2008; e AgRg no REsp 986.508/RS, Rel. Ministro Ari Pargendler, Terceira Turma, julgado em 20.05.2008, DJ de 05.08.2008.
+Nesta esteira, há de ser afastada a incidência da comissão de permanência, tendo em vista ter sido constatada no caso concreto a presença dos demais encargos moratórios para o período de inadimplência e, com isso, conformando-se ambas as partes. Portanto, a decisão, quanto ao ponto, resta acobertada pelo trânsito em julgado, na medida em que foram admitidos tais encargos moratórios pelas instâncias ordinárias sem interposição de recurso a esse respeito.
+4. A jurisprudência deste Sodalício Superior é assente no sentido de que a compensação de valores e a repetição de indébito são cabíveis sempre que verificado o pagamento indevido, em repúdio ao enriquecimento ilícito de quem o receber, independentemente da comprovação do erro. Precedentes: AgRg no REsp 1026215/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 13.05.2008, DJ de 28.05.2008; AgRg no REsp 1013058/RS, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 25.03.2008, DJ de 11.04.2008; AgRg no Ag 953.299/RS, Rel. Ministro Humberto Gomes de Barros, Terceira Turma, julgado em 12.02.2008, DJ de 03.03.2008.
+Destarte, nada a prover neste ponto, tendo em vista que o acórdão recorrido está conforme requerido pela parte.
+5. Diante do exposto, dou parcial provimento ao recurso especial, a fim de afastar a comissão de permanência, tendo em vista a presença de outros encargos moratórios, estabelecendo custas e honorários advocatícios sucumbenciais, arbitrados em R$ 1.000,00 (mil reais), integralmente arcados pelo autor.
