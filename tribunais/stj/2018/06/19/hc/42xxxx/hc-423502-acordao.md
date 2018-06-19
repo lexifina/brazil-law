@@ -1,0 +1,97 @@
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ORGANIZAÇÃO CRIMINOSA. PRISÃO CAUTELAR. EXCESSO DE PRAZO. INOCORRÊNCIA. FUNDAMENTAÇÃO. PERICULOSIDADE. REITERAÇÃO DELITIVA. ORDEM PÚBLICA. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. ALEGAÇÃO DE FRAGILIDADE PROBATÓRIA. ANÁLISE INVIÁVEL NESTA SEDE. ORDEM DENEGADA.
+1. A questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto.
+2. In casu, muito embora o paciente esteja preso há aproximadamente um ano (desde o dia 23.6.2017), trata-se de processo que apresenta certa complexidade, tendo em vista a pluralidade de réus (vinte e seis), bem como o suposto envolvimento do paciente com intrincada organização criminosa (PGC - Primeiro Grupo Catarinense). Ademais, há AIJ designada para data próxima (dia 27/07/2018). Tal contexto justifica o andamento do feito, que é compatível com as particularidades da causa, não se tributando, pois, aos órgãos estatais indevida letargia.
+3. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da periculosidade do paciente, supostamente envolvido com a facção criminosa PGC. O juízo de primeiro grau destacou, ainda, que o paciente conta com diversos registros de antecedentes criminais e é reincidente, "inclusive cumprindo pena pela prática de homicídio".
+4. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+5. Para concluir, como se pretende, que não há prova do envolvimento do paciente com a organização criminosa, seria necessário amplo reexame do conjunto fático-probatório do processo que corre em primeira instância, o que se afigura inviável nesta estreita via mandamental.
+6. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça: A Sexta Turma, por unanimidade, denegou a ordem, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relatora):
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JULIO CESAR [NOME] DE [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (HC n.º 4016473-57.2017.8.24.0000).
+O paciente foi preso em flagrante em 23.6.2017 sob a imputação de integrar organização criminosa. A custódia foi convertida em preventiva, nestes termos (fl. 93):
+O auto de prisão em flagrante obedeceu às formalidades constitucionais e processuais. No que tange à flagrância, observa-se que o indiciado, no momento da prisão, encontrava-se na situação descrita no art. 302, inciso I e II, do CPP, do que se extrai a legalidade do procedimento. Pelo exposto, HOMOLOGO a prisão em flagrante.
+Passo a analisar a necessidade de conversão da prisão em flagrante em preventiva ou a possibilidade de concessão de liberdade provisória: a prisão dos conduzidos deve ser convertida em preventiva.
+Há periculosidade concreta na conduta, uma vez que há a vinculação dos conduzidos à facção criminosa.
+Assim, a liberdade vincula ao retorno das atividades da respectiva facção, sendo, portanto, indevida a substituição por medidas outras que não a prisão cautelar.
+O conduzido [NOME] é reincidente, inclusive cumprindo pena pela prática de homicídio, além de outras condenações pretéritas. Sobre [NOME], em que pese ser tecnicamente primária, verifica-se seu envolvimento com a facção na medida em que a prisão ocorreu em sua casa - e não na de [NOME] -, sendo que as anotações e petrechos estavam sob a guarda dela, vinculando-a diretamente aos fatos investigados.
+Portanto, em que pese a existência de filhos menores de ambos os conduzidos, verifica-se que prepondera a salvaguarda da ordem pública, mesmo porque os filhos dos conduzidos encontram-se em segurança e assistidos, em decorrência de cuidados de familiares.
+Por certo, se em liberdade, os conduzidos voltaram a delinquir, enquanto integrantes de facção criminosa.
+Face ao exposto, CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA de [NOME] e [NOME].
+O Tribunal de origem denegou o prévio mandamus, em acórdão assim resumido (fls. 190/197):
+HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS COM EMPREGO DE ARMA DE FOGO E PARTICIPAÇÃO DE ADOLESCENTES (ART. 35, C/C ART. 40, INCISOS IV E VI DA LEI N. 11.343/2006) E ORGANIZAÇÃO CRIMINOSA COM PARTICIPAÇÃO DE ADOLESCENTE E CONEXÃO COM OUTRAS ORGANIZAÇÕES CRIMINOSAS (ART. 2º, §2º E §4º, INCISOS I E IV, DA LEI N. 12.850/2013).
+NEGATIVA DA AUTORIA. INCURSÃO NO CONTEXTO PROBATÓRIO INVIÁVEL NA VIA ESTREITA DO WRIT. NÃO CONHECIMENTO NO PONTO.
+EXCESSO DE PRAZO PARA O OFERECIMENTO DA DENÚNCIA. ALEGAÇÃO SUPERADA.
+AUSÊNCIA DOS REQUISITOS DO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL. DECRETO PRISIONAL FUNDAMENTADO NA GARANTIA DA ORDEM PÚBLICA EM FACE DA GRAVIDADE CONCRETA DO FATO. MOTIVAÇÃO SUFICIENTE, INCLUSIVE, PARA AFASTAR A APLICAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS. AFRONTA À PRESUNÇÃO DE INOCÊNCIA NÃO VERIFICADA.CONSTRANGIMENTO ILEGAL INEXISTENTE.
+ORDEM CONHECIDA EM PARTE E DENEGADA.
+Informa o impetrante que o paciente foi preso após cumprimento de mandado de busca e apreensão na casa de sua namorada. Contudo, ele não reside no local, estava apenas pernoitando lá. Afirma que reside com sua mãe em local distante e que possui trabalho.
+Aduz que a namorada assumiu a propriedade dos objetos supostamente ilícitos encontrados na residência, externando expressamente que o paciente não tem qualquer envolvimento com o delito.
+Assere que o Ministério Público foi intimado em 28.6.2017 e, em vez de oferecer denúncia, requereu o apensamento do flagrante no inquérito. Passaram-se, então, 18 dias da prisão sem qualquer denúncia, que somente veio a ser oferecida em 10.8.2017.
+Argumenta que o paciente estava "no local errado e na hora errada, não tendo relação com as investigações". Acrescenta que "nada é apontado contra o paciente" nos depoimentos, sequer seu nome é mencionado. Ele sequer foi indiciado no relatório final da autoridade policial.
+Invoca a garantia da razoável duração do processo, diante do "retardamento por mais de 35 dias da denúncia, sem verificação da manutenção do paciente". Esclarece que a instrução sequer foi iniciada.
+Impugna os fundamentos da prisão, que estaria motivada "restritamente pela presença de indícios de autoria". Entende que a custódia "reveste-se aparentemente de caráter eminentemente antecipatória do cumprimento da pena".
+Defende que as medidas cautelares diversas da prisão são suficientes para a garantia do juízo, destacando a realidade do sistema prisional.
+Requer, pois, a liberdade do paciente.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se às fls. 291/300.
+Em consulta ao sítio eletrônico do Tribunal de origem, constatou-se que o há AIJ designada para o dia 27/07/2018.
+É o relatório.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ORGANIZAÇÃO CRIMINOSA. PRISÃO CAUTELAR. EXCESSO DE PRAZO. INOCORRÊNCIA. FUNDAMENTAÇÃO. PERICULOSIDADE. REITERAÇÃO DELITIVA. ORDEM PÚBLICA. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. ALEGAÇÃO DE FRAGILIDADE PROBATÓRIA. ANÁLISE INVIÁVEL NESTA SEDE. ORDEM DENEGADA.
+1. A questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto.
+2. In casu, muito embora o paciente esteja preso há aproximadamente um ano (desde o dia 23.6.2017), trata-se de processo que apresenta certa complexidade, tendo em vista a pluralidade de réus (vinte e seis), bem como o suposto envolvimento do paciente com intrincada organização criminosa (PGC - Primeiro Grupo Catarinense). Ademais, há AIJ designada para data próxima (dia 27/07/2018). Tal contexto justifica o andamento do feito, que é compatível com as particularidades da causa, não se tributando, pois, aos órgãos estatais indevida letargia.
+3. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da periculosidade do paciente, supostamente envolvido com a facção criminosa PGC. O juízo de primeiro grau destacou, ainda, que o paciente conta com diversos registros de antecedentes criminais e é reincidente, "inclusive cumprindo pena pela prática de homicídio".
+4. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+5. Para concluir, como se pretende, que não há prova do envolvimento do paciente com a organização criminosa, seria necessário amplo reexame do conjunto fático-probatório do processo que corre em primeira instância, o que se afigura inviável nesta estreita via mandamental.
+6. Ordem denegada.
+VOTO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relatora):
+Cinge-se a controvérsia em determinar se o encarceramento cautelar do paciente, que se estende até o presente momento, macularia o princípio da razoável duração do processo e se estaria adequadamente fundamentado nos termos previstos no art. 312 do Código de Processo Penal.
+É certo que a questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto.
+Não se desconhece que a doutrina é enfática em proclamar que a cristalização do direito à celeridade processual é o primeiro passo no sentido de se estabelecer um prazo fixo para a segregação cautelar, como já ocorre na prisão temporária:
+"(..) as pessoas têm o direito de saber, de antemão e com precisão, qual é o tempo máximo que poderá durar um processo penal. Essa afirmação, com certeza, causará espanto e até um profundo rechaço por algum setor atrelado ainda ao paleo positivismo e, principalmente, cego pelo autismo jurídico. Basta um mínimo de capacidade de abstração, para ver que isso está presente - o tempo todo - no direito e fora dele. É inerente às regras do jogo. Por que não se pode saber, previamente, quanto tempo poderá durar, no máximo, um processo  Porque a arrogância jurídica não quer esse limite, não quer reconhecer esse direito do cidadão e não quer enfrentar esse problema. Além disso, dar ao réu o direito de saber previamente o prazo máximo de duração do processo ou de uma prisão cautelar, é uma questão de reconhecimento de uma dimensão democrática da qual não podemos abrir mão." (LOPES JR., Aury; BADARÓ, Gustavo Henrique. Direito ao processo penal no prazo razoável. Rio de Janeiro, Lumen Juris, 2006, pp. 108-109)
+É evidente que esse cômputo não é estabelecido de maneira puramente aritmética, visto que um dado processo difere-se do outro, mas é necessário ter-se um marco limite para o encarceramento provisório. Retomando a lição da doutrina: "Estabelecida existência de uma coação estatal, devemos recordar que ela deve estar precisamente estabelecida em lei. É a garantia básica da nulla coactio sine lege, princípio basilar de um Estado Democrático de Direito, que incorpora a necessidade de que a coação seja expressamente prevista em lei, previamente e com contornos claramente definidos. Nisso está compreendido, obviamente, o aspecto temporal" (Op. cit., p. 108).
+Além disso, a despeito das razões expendidas, não se pode perder de vista que a chamada reforma do Judiciário, vazada na Emenda Constitucional n.º 45/2004, erigiu à categoria de direito fundamental "a razoável duração do processo" (art. 5.º, inciso LXXVIII).
+A delimitação de prazo para o encerramento da instrução processual deve ser vista cum grano salis, visto que o citado lapso temporal não é peremptório, admitindo dilação ante determinadas situações.
+In casu, muito embora o paciente esteja preso há aproximadamente um ano (desde o dia 23.6.2017), trata-se de processo que apresenta certa complexidade, tendo em vista a pluralidade de réus (vinte e seis), bem como o suposto envolvimento do paciente com intrincada organização criminosa (PGC - Primeiro Grupo Catarinense). Vale ressaltar que há AIJ designada para data próxima (dia 27/07/2018).
+Tal contexto justifica o andamento do feito, que é compatível com as particularidades da causa, não se tributando, pois, aos órgãos estatais indevida letargia. Confira-se, a propósito:
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. ORDEM DENEGADA.
+1. A jurisprudência desta Corte Superior é firme em assinalar que a determinação de segregar o réu deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da cautela (periculum libertatis), à luz do disposto no art. 312 do CPP.
+2. O Juízo singular, ao converter a prisão em flagrante em custódia preventiva, evidenciou a necessidade de preservação da ordem pública, ao ressaltar que as circunstâncias da conduta delitiva demonstravam a existência de "relevante estrutura criminosa" (fl. 81), porquanto o crime foi perpetrado em concurso de agentes, com emprego de arma de fogo e restrição à liberdade da vítima, somados ao fato de que os acusados dispunham de caminhões para transportar o produto do roubo.
+3. Por idênticas razões, as demais medidas cautelares não se prestariam a evitar a prática de novas infrações penais.
+4. É entendimento consolidado nos tribunais que os prazos indicados na legislação processual penal para a conclusão dos atos processuais não são peremptórios; assim, eventual demora no término da instrução criminal deve ser aferida levando-se em conta as peculiaridades do caso concreto.
+5. Fica afastada, ao menos por ora, a alegação de excesso de prazo, diante das particularidades do caso concreto - pluralidade de réus e necessidade de expedição de diversas cartas precatórias para oitiva de testemunhas.
+6. Ordem denegada.
+(HC 422.634/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+No que se refere aos elementos de cautelaridade para justificar a medida constritiva, o writ também não prospera.
+Conforme reiterada jurisprudência desta Corte Superior de Justiça, toda custódia cautelar imposta antes do trânsito em julgado de sentença penal condenatória exige concreta fundamentação, nos termos do disposto no art. 312 do Código de Processo Penal.
+In casu, eis o teor do decreto prisional (fl. 93):
+O auto de prisão em flagrante obedeceu às formalidades constitucionais e processuais. No que tange à flagrância, observa-se que o indiciado, no momento da prisão, encontrava-se na situação descrita no art. 302, inciso I e II, do CPP, do que se extrai a legalidade do procedimento. Pelo exposto, HOMOLOGO a prisão em flagrante.
+Passo a analisar a necessidade de conversão da prisão em flagrante em preventiva ou a possibilidade de concessão de liberdade provisória: a prisão dos conduzidos deve ser convertida em preventiva.
+Há periculosidade concreta na conduta, uma vez que há a vinculação dos conduzidos à facção criminosa.
+Assim, a liberdade vincula ao retorno das atividades da respectiva facção, sendo, portanto, indevida a substituição por medidas outras que não a prisão cautelar.
+O conduzido [NOME] é reincidente, inclusive cumprindo pena pela prática de homicídio, além de outras condenações pretéritas. Sobre [NOME], em que pese ser tecnicamente primária, verifica-se seu envolvimento com a facção na medida em que a prisão ocorreu em sua casa - e não na de [NOME] -, sendo que as anotações e petrechos estavam sob a guarda dela, vinculando-a diretamente aos fatos investigados.
+Portanto, em que pese a existência de filhos menores de ambos os conduzidos, verifica-se que prepondera a salvaguarda da ordem pública, mesmo porque os filhos dos conduzidos encontram-se em segurança e assistidos, em decorrência de cuidados de familiares.
+Por certo, se em liberdade, os conduzidos voltaram a delinquir, enquanto integrantes de facção criminosa.
+Face ao exposto, CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA de [NOME] e [NOME].
+Verifica-se, pois, que a custódia cautelar foi decretada para o resguardo da ordem pública, em razão da periculosidade do paciente, supostamente envolvido com a facção criminosa PGC (Primeiro Grupo Catarinense). O juízo de primeiro grau destacou, ainda, que o paciente conta com diversos registros de antecedentes criminais e é reincidente, "inclusive cumprindo pena pela prática de homicídio".
+A jurisprudência desta Corte Superior firmou-se no sentido de que "não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar, especialmente em elementos extraídos da conduta perpetrada pelo acusado" (HC 383.623/RS, de minha Relatoria, SEXTA TURMA, julgado em 16/02/2017, DJe 24/02/2017).
+Confira-se, ainda, o seguinte julgado:
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. PERICULOSIDADE CONCRETA DO AGENTE. FUNDADO RISCO DE REITERAÇÃO DELITIVA. PARECER ACOLHIDO.
+1. Se a prisão preventiva foi imposta ou mantida com base em explícita e concreta fundamentação a justificar a necessidade da rigorosa providência, não há falar em constrangimento ilegal.
+2. No caso, o histórico criminal do paciente (que pode ser extraído inclusive de inquéritos e de ações penais em curso) revela fundado receio de reiteração na prática criminosa e autoriza, por si só, o decreto de prisão preventiva como forma de garantir a ordem pública, nos termos do art. 312 do Código de Processo Penal.
+3. Eventuais condições subjetivas favoráveis ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes os requisitos autorizadores da referida segregação.
+4. Ordem denegada.
+(HC 369.341/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 06/10/2016, DJe 25/10/2016)
+Assim, dada as particularidades acima citadas, indicativas da necessidade do encarceramento, penso ser inviável a liberação do paciente, visto que existente fundamentação idônea da cautelaridade.
+Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública. No mesmo sentido, confira-se:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. APREENSÃO DE EXPRESSIVA QUANTIDADE DE ENTORPECENTE, UMA BALANÇA DE PRECISÃO E UMA ARMA MUNICIADA, CALIBRE 32. NECESSIDADE DA PRISÃO PARA GARANTIA DA ORDEM PÚBLICA. SEGREGAÇÃO JUSTIFICADA. RECURSO IMPROVIDO.
+(..)
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+5. Recurso improvido.
+(RHC 77.987/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/02/2017, DJe 10/02/2017)
+Para concluir, como se pretende, que não há prova do envolvimento do paciente com a organização criminosa, seria necessário amplo reexame do conjunto fático-probatório do processo que corre em primeira instância, o que se afigura inviável nesta estreita via mandamental.
+Ante o exposto, denego a ordem.
+É como voto.
