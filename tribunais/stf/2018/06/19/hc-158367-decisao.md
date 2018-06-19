@@ -1,0 +1,23 @@
+Decisão
+    Trata-se de Habeas Corpus, com pedido de medida liminar, impetrado contra decisão proferida pela Ministra MARIA THEREZA DE ASSIS MOURA, do Superior Tribunal de Justiça, que indeferiu o pedido formulado no HC 446.009/RS.
+    Consta dos autos, em síntese, que o paciente foi condenado à pena de 2 (dois) anos e 4 (quatro) meses de reclusão, em regime semiaberto, pela prática do crime descrito no artigo 297, caput, do Código Penal.
+    O Tribunal de Justiça local deu parcial provimento ao recurso interposto pela defesa, a fim de reduzir a reprimenda para 2 (dois) anos e 2 (dois) meses de reclusão, mantido o regime semiaberto.
+    Buscando a revisão da dosimetria, a defesa, então, impetrou habeas corpus no Superior Tribunal de Justiça, que denegou a ordem, nos termos seguintes:
+    […]
+    Busca-se com a presente impetração o redimensionamento da pena imposta, afastando a circunstância judicial de maus antecedentes, fixando a pena-base no mínimo legal.
+    Esta Corte possui entendimento pacífico no sentido de que não é ilegal e tampouco configura bis in idem a utilização de condenações definitivas, anteriores e distintas, para consideração desfavorável dos antecedentes e aplicação da agravante da reincidência.
+    […]
+    Na espécie, verifica-se que a instância de origem apontou condenações diversas para valorar negativamente os antecedentes do paciente e aplicar a agravante da reincidência como reconhece a própria defesa.
+    Nesta ação, a defesa alega que houve indevido incremento da pena, tendo em vista a existência de aumento em razão dos maus antecedentes e, posteriormente, por força da reincidência. Enfatiza que ambos os registros utilizados possuem as mesmas características, de modo que, por estarem dentro dos limites impostos pelo artigo 64, inciso I, do Código Penal, devem ser ambos considerados como reincidência. Requer, assim, a concessão da ordem, para determinar o redimensionamento da pena imposta, afastando a circunstância judicial decorrente de ‘maus antecedentes’, fixando-se a pena-base no mínimo legal.
+    É o relatório. Decido.
+    No presente caso, incide óbice ao conhecimento da ordem impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça, determinando a extinção do habeas corpus ajuizado naquela Corte (HC 122.718/SP, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 3/9/2014; HC 121.684-AgR/SP, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 16/5/2014; HC 138.687-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 1º/3/2017; HC 116.875/AC, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 17/10/2013; HC 117.346/SP, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 22/10/2013; HC 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014; HC 119.821/TO, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 29/4/2014; HC 122.381-AgR/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 9/10/2014; RHC 114.737/RN, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 18/4/2013 ; RHC 114.961/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 8/8/2013).
+    De fato, o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014).
+    Como bem apontado pelo Ministro LUIZ FUX, com base em diversos outros precedentes desta Primeira Turma, em regra, a flexibilização dessa norma implicaria afastamento do texto da Constituição, pois a competência deste SUPREMO TRIBUNAL, sendo matéria de direito estrito, não pode ser interpretada de forma ampliada para alcançar autoridades, no caso, membros de Tribunais Superiores, cujos atos não estão submetidos à apreciação do SUPREMO TRIBUNAL FEDERAL (HC 139.262, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 23/3/2017).
+    Esta Primeira Turma vem autorizando, somente em circunstâncias específicas, o exame de habeas corpus quando não encerrada a análise na instância competente, óbice superável apenas em hipótese de teratologia (HC 138.414/RJ, Primeira Turma, DJe de 20/4/2017) ou em casos excepcionais (HC 137.078/SP, Primeira Turma, DJe de 24/4/2017), como bem destacado pela Ministra ROSA WEBER.
+    No particular, entretanto, não se apresentam as hipóteses de teratologia ou excepcionalidade.
+    Diante do exposto, INDEFIRO A ORDEM DE HABEAS CORPUS.
+    Publique-se.
+    Brasília, 19 de junho de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
