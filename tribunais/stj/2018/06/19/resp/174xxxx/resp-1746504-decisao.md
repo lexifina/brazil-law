@@ -1,0 +1,70 @@
+EMENTA
+CIVIL E PROCESSO CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE PRESTAÇÕES. (1) CONSÓRCIO DE BEM IMÓVEL. DESISTÊNCIA. DEVOLUÇÃO DOS VALORES PAGOS PELO PARTICIPANTE. PRAZO. TRINTA DIAS APÓS O ENCERRAMENTO DO GRUPO. ENTENDIMENTO FIRMANDO NO BOJO DO RESP Nº 1.119.300/RS. (2) ALEGADO DISSÍDIO JURISPRUDENCIAL. FALTA DE INDICAÇÃO DE DISPOSITIVO LEGAL A QUE TERIA SIDO ATRIBUÍDA INTERPRETAÇÃO DIVERGENTE E AUSÊNCIA DE COTEJO DOS ACÓRDÃOS MENCIONADOS COM O ARESTO RECORRIDO. NEGATIVA DE CARACTERIZAÇÃO DO DISSENSO PRETORIANO. (3) ALTERAÇÃO DO PATAMAR DOS HONORÁRIOS ADVOCATÍCIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA Nº 284 DO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+DECISÃO
+RODOLFO FERREIRA SAMPAIO (RODOLFO) ajuizou ação de rescisão contratual cumulada com restituição de parcelas em desfavor de PORTO SEGURO ADMINISTRADORA DE CONSÓRCIOS LTDA. (ADMINISTRADORA), que foi julgada parcialmente procedente (e-STJ, fls. 152/155).
+Irresignado, RODOLFO interpôs apelação, que foi improvida pelo Tribunal de origem em acórdão assim ementado:
+Consórcio - Desistência - Contrato firmado na vigência da Lei 11.795/2008 - Restituição imediata das parcelas pagas pelo consorciado - Impossibilidade - Cabimento somente quando da contemplação do bem em assembleia ou nos 60 dias que se seguirem ao encerramento do grupo - Taxa de administração - Impossibilidade de devolução - Recurso improvido. (e-STJ, fls. 196).
+
+Irresignado, RODOLFO interpôs recurso especial com fundamento na alínea a do permissivo constitucional, apontando (1) violação do art. 51, IV, do CDC, por reputar que o pleito de restituição de valores pagos em plano de consórcio em razão da desistência do participante deveria ser atendido imediatamente após a formulação do requerimento pelo consumidor. (2) Também indicou dissídio jurisprudencial, tendo por paradigmas precedentes de vários Tribunais de Justiça quanto aos descontos referentes à taxa de administração, que não deveria ser deduzida do montante a ser devolvido ao consorciado. (3) Insurgiu-se também em relação ao patamar dos honorários advocatícios arbitrados em seu benefício.
+Em juízo de admissibilidade, a Presidência da Seção de Direito Privado do Tribunal estadual admitiu o referido apelo nobre (e-STJ, fls. 223/225).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(2) Da taxa de administração
+O dissídio jurisprudencial viabilizador do recurso não foi demonstrado no particular (art. 105, III, c, da CF).
+Com efeito, além de indicar o dispositivo legal e transcrever os julgados apontados como paradigmas, é necessário realizar o cotejo analítico, com a demonstração da identidade das situações fáticas e da interpretação diversa dada ao mesmo dispositivo.
+No caso em exame, o recorrente se limitou a declinar os argumentos que supostamente dariam respaldo à sua pretensão e mencionar genericamente acórdãos porventura divergentes, sem efetuar o indispensável cotejo com o aresto paradigma e nem apontar o dispositivo legal acerca do qual haveria dissenso pretoriano.
+Assim, o dissenso pretoriano não pode ser conhecido, porquanto não atende aos requisitos dos arts. 541, caput, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. PARTILHA SOBRE IMÓVEL DE PROPRIEDADE DO PAI DE EX-CONVIVENTE. FALTA DE PREQUESTIONAMENTO. SÚMULAS 252 E 356 DO STF. AUSÊNCIA DE COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL APONTADO. SÚMULA 13/STJ. AGRAVO IMPROVIDO.
+1. Se o conteúdo normativo contido nos dispositivos apresentados como violados não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incidem, na espécie, os rigores das Súmulas n.
+282 e 356 do STF.
+2. O dissídio jurisprudencial não pode ser conhecido, porque não foi realizado o necessário cotejo analítico entre os julgados trazidos a confronto. A mera transcrição de ementas ou de passagens dos arestos indicados como paradigma não atende aos requisitos dos arts. 541, caput, do CPC e 255, §§ 1º e 2º, do RISTJ.
+3. A divergência jurisprudencial não pode ser conhecida quando os paradigmas apresentados forem oriundos do mesmo Tribunal que proferiu o acórdão recorrido, uma vez que aplicável o disposto na Súmula n. 13 desta Corte, segundo a qual "a divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1082508/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, j. 22/08/2017, DJe 04/09/2017)
+(3) Do patamar dos honorários advocatícios
+O recorrente limitou-se a requerer a alteração do patamar dos honorários advocatícios arbitrados em seu favor sem declinar os argumentos jurídicos que eventualmente embasassem sua tese no particular.
+Ressalta-se que a simples menção à matéria, feita de maneira esparsa e sem demonstração de ofensa aos dispositivos legais, não supre a exigência de fundamentação adequada do recurso especial, incidindo, por analogia, o óbice da Súmula 284/STF, que dispõe: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+A propósito, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AOS ARTS. 170, §1º, DA LEI Nº 6.404/76, 467 E 471 DO CPC DE 1973. SÚMULA 284 DO STF.
+SÚMULA 371 DO STJ. VALOR PATRIMONIAL DA AÇÃO. INVIABILIDADE DE VIOLAÇÃO DE SÚMULA DE TRIBUNAL SUPERIOR E FALTA DE PREQUESTIONAMENTO. VALOR CORRETO DA COTAÇÃO DA AÇÃO. SÚMULA 7 DO STJ. RENDIMENTOS DOS DIVIDENDOS. SÚMULA 284 DO STF.
+1. Em relação à alegada ofensa aos arts. 170, §1º, da Lei nº 6.404/76, 467 e 471 do CPC/73, não se vislumbra a aduzida violação por falta de articulação de argumentos jurídicos a embasar tal assertiva, caracterizando deficiência de fundamentação. Incidência da Súmula 284 do STF.
+2. "Incabível a análise de recurso especial, por quaisquer das alíneas do permissivo constitucional, que tenha por fundamento violação de enunciado ou súmula de Tribunal Superior". (AgRg no AREsp 462.700/MG, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/05/2014, DJe 05/06/2014).
+3. A matéria referente ao critério do balancete mensal para a apuração do valor patrimonial da ação não foi apreciada pelo Tribunal de origem, carecendo do indispensável prequestionamento.
+4. O acolhimento da pretensão recursal acerca do correto valor da cotação da ação demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+5. No tocante ao tema dos rendimentos dos dividendos, a ausência de indicação de dispositivo de lei federal tido por violado caracteriza a deficiência de fundamentação a inviabilizar a abertura da instância especial. Aplicação da Súmula 284/STF.
+6. Agravo interno não provido.
+(AgInt no AREsp 802.042/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 29/8/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO. ADOÇÃO DOS FUNDAMENTOS DA SENTENÇA. POSSIBILIDADE. DANOS MATERIAIS E MORAIS. REEXAME DE PROVAS.SÚMULA Nº 7/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.
+1. Esta Corte já se posicionou no sentido de não ser desprovido de fundamento o julgado que ratifica as razões de decidir adotadas na sentença, transcritas no corpo do acórdão.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Rever as conclusões do acórdão recorrido acerca da ocorrência dos danos materiais e morais demandaria o reexame de matéria fático- probatória, o que é vedado em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+4. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar de modo preciso como teria ocorrido a violação legal. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+5. Agravo regimental não provido.
+(AgRg no AREsp 473.327/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 20/6/2016)
+(1) Da devolução de valores
+O Tribunal de origem negou provimento à apelação de RODOLFO para manter a sentença que determinou que a devolução dos valores vertidos ao grupo pelo consorciado desistente deveria ocorrer no prazo de 60 (sessenta) dias do encerramento do grupo ou por ocasião da contemplação do bem em assembléia.
+Assim o fazendo, o acórdão recorrido encontra-se em conformidade com a jurisprudência desta Corte, que se orienta no sentido de que o pleito de restituição de valores pagos em plano de consórcio em razão da desistência do participante deve ser atendido no prazo de trinta dias após o encerramento do grupo, na esteira dos seguintes precedentes:
+RECLAMAÇÃO. PROCESSAMENTO. RESOLUÇÃO 12/2009-STJ. DISTRIBUIÇÃO ANTERIOR À RESOLUÇÃO 3/2016-STJ. CONSÓRCIO. DESISTÊNCIA OU EXCLUSÃO. RESTITUIÇÃO DE PARCELAS. ENCERRAMENTO DO GRUPO. RECURSO REPETITIVO. CONTRATOS CELEBRADOS APÓS 6.2.2009, NA VIGÊNCIA DA LEI 11.795/2008. GRUPO DE CONSÓRCIO INICIADO NA VIGÊNCIA DA LEGISLAÇÃO ANTERIOR.
+1. A reclamação distribuída e pendente de apreciação antes da publicação da Resolução-STJ 3/2016, que delegou competência aos Tribunais de Justiça para processar e julgar as reclamações destinadas a dirimir divergência entre acórdão proferido por Turma Recursal estadual ou do Distrito Federal e a jurisprudência do STJ, deve ser processada e julgada por este Tribunal, na forma disciplina da pela Resolução-STJ 12/2009.
+2. Os fundamentos que basearam a orientação consolidada pela Segunda Seção no julgamento do RESP. 1.119.300/RS, submetido ao rito dos recursos repetitivos (CPC/1973, art. 543-C), no sentido de que "é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano", aplicam-se aos contratos celebrados na vigência da Lei 11.795/2008.
+3. Hipótese, ademais, em que o interessado aderiu, em dezembro 2009, a grupo de consórcio iniciado antes da entrada em vigor da Lei 11.795/2008.
+4. Reclamação procedente.
+(Rcl 16.390/BA, Rel. Ministra MARIA ISABEL GALLOTTI, Segunda Seção, j. 28/06/2017, DJe 13/09/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONSÓRCIO. DESISTÊNCIA. RESTITUIÇÃO DE PARCELAS. AÇÃO AJUIZADA APÓS O ENCERRAMENTO DO PLANO. JUROS DE MORA. TERMO INICIAL. TRIGÉSIMO DIA SEGUINTE AO ENCERRAMENTO DO GRUPO. DECISÃO MANTIDA.
+1. "Nos termos da jurisprudência da Segunda Seção, firmada no bojo de recurso especial representativo da controvérsia (artigo 543-C do CPC), a administradora do consórcio tem até trinta dias, a contar do prazo previsto contratualmente para o encerramento do grupo, para devolver os valores vertidos pelo consorciado desistente ou excluído (REsp 1.119.300/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 14.04.2010, DJe 27.08.2010). Nessa perspectiva, o transcurso do aludido lapso temporal, sem a ocorrência da restituição efetivamente devida, implica a incidência de juros moratórios a partir do trigésimo primeiro dia do encerramento do grupo consorcial. Orientação aplicável inclusive aos casos em que o ajuizamento da demanda ocorre após a liquidação do consórcio." (REsp n. 1.111.270/PR, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 25/11/2015, DJe 16/02/2016.) 2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 455.189/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 11/10/2016, DJe 17/10/2016, sem destaque no original)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CONSÓRCIO. DESISTÊNCIA. RESTITUIÇÃO DE PARCELAS. JUROS DE MORA. TERMO INICIAL.
+1. A restituição das parcelas pagas por desistente de consórcio deve ocorrer em até 30 dias do prazo previsto em contrato para o encerramento do grupo a que estiver vinculado o participante, devendo incidir a partir daí juros de mora, na hipótese de o pagamento não ser efetivado.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.361.636/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 16/2/2016, DJe 19/2/2016).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONSÓRCIO. RESTITUIÇÃO DE PARCELAS PAGAS. DESISTÊNCIA. JUROS DE MORA A PARTIR DO 31º DIA DO ENCERRAMENTO DO GRUPO. SÚMULA N. 83/STJ.
+1. A jurisprudência do STJ é assente no sentido de que o consorciado excluído ou desistente tem direito à restituição das prestações pagas à administradora devidamente corrigidas, mas não de forma imediata, e sim somente após o prazo de 31 (trinta e um) dias do encerramento do grupo de consórcio, com juros de mora a partir dessa mesma data.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 512.430/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 13/10/2015, DJe 16/10/2015).
+Nessas condições, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados pela Corte de origem em desfavor de RODOLFO, limitados a 20%, nos termos do art. 85, § 11 do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º)
+Publique-se. Intimem-se.
