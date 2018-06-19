@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUDAR INCORPORAÇÕES IMOBILIÁRIAS S.A., com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"COMPROMISSO DE COMPRA E VENDA - OBRIGAÇÃO DE FAZER - PRÉDIO DE APARTAMENTOS - MULTA CRIADA PELO PACTO QUE DEVE SER PRESTIGIADA - MORA EVIDENTE DA CONSTRUTORA - CLÁUSULA DE TOLERÂNCIA HAVIDA POR VÁLIDA - ALEGAÇÃO DE FORÇA MAIOR AFASTADA - DANO MORAL INEXISTENTE POR MERO PROBLEMA EM CONTRATO - RETARDAMENTO DA ENTREGA A SER SANCIONADO PELA RESPONSABILIZAÇÃO DA CONSTRUTORA PELAS PENALIDADES CONTRATUAIS - DECISÃO REFORMADA EM PARTE - APELO DO RÉU PARCIALMENTE PROVIDO." (fls. 244/249, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 258/261, e-STJ).
+No recurso especial (fls. 264/282, e-STJ), a recorrente indica violação dos seguintes dispositivos legais com as respectivas teses:
+i) artigo 1.022, do Código de Processo Civil/2015 - afirma que o Tribunal de origem teria incorrido em negativa jurisprudencial ao deixar de analisar expressamente os dispositivos legais indicados como violados;
+ii) artigo 489 do Código de Processo Civil/2015 - afirma que as decisões do agravo de instrumento e dos embargos de declaração teriam incorrido em ausência de fundamentação, pois estariam baseadas apenas em alegações genéricas e meramente hipotéticas;
+iii) artigos 476 e 491 do Código Civil - alega que em razão do recorrido não ter adimplido totalmente o valor do imóvel e por não ter sido expedido o "habite-se", não poderia exigir sua imissão na posse;
+iv) artigo 409 do Código Civil - defende que ao contrário do que foi afirmado no acórdão recorrido, não seria possível a criação ou reversão de cláusula penal, pois tal previsão dependeria de prévio acordo e anuência das partes.
+Contrarrazões não apresentadas (fl. 295, e-STJ).
+É o relatório.
+DECIDO.
+O inconformismo não comporta acolhimento.
+Inicialmente, no tocante à alegada negativa de prestação jurisdicional, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, denotando, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via processual inadequada. Ademais, se o propósito principal dos embargos de declaração era o prequestionamento dos dispositivos legais tidos como violados, não há falar em omissão quando tal requisito recursal não se apresentará como óbice no caso concreto.
+No mesmo sentido, no que diz respeito à violação do artigo 489 do CPC/2015, constata-se que a Corte de origem motivou e fundamentou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Quanto ao mérito, a recorrente afirma que o recorrido não adimpliu o valor total do contrato, contudo, na fundamentação do acórdão recorrido consta que "em nenhum momento aponta no que consistiria a tal dívida - e mesmo a R. sentença já averigua isso, que nada e nada se apurou quanto à prova dessa tal dívida, se existente; veja-se que a posição da Requerida é de comodismo sem par - alega e nada prova, e sse fora outro aspecto de fácil produção, que nem foi tangenciado, e nem ao menos iniciado" (fl. 248, e-STJ).
+Nesse contexto, observa-se que o fundamento suficiente por si só para manutenção do acórdão recorrido, entretanto, não foi objeto de impugnação nas razões recursais, atraindo a incidência da Súmula nº 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles", aplicada por analogia.
+Em relação ao argumento de não ter sido expedido o "habite-se" em decorrência da invasão ocorrida no condomínio, a Corte estadual concluiu que "com alguns rebatimentos fotográficos que não vinculam a obra a esses pretensos fatos - e note-se que a Construtora, especializada na atividade, há que acautelar-se, e nem verificada a hipótese de caso fortuito." (fl. 248, e-STJ).
+Dessa forma, eventualmente rever tal conclusão demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7/STJ: "a pretensão de simples reexame de prova não enseja recurso especial".
+Por fim, quanto à alegação da inexistência de cláusula penal, ao contrário do que alega a insurgente, o Corte estadual decidiu que "tem integral respaldo contratual, conforme cláusula, e não foi criada pela Judiciário, pelo que a limitação a dez por cento é jurídica, e perfeitamente ajustada entre as partes." (fl. 248, e-STJ).
+Nesse contexto, aferir a existência, ou não, de cláusula penal implicaria o reexame de cláusulas contratuais, o que é vedado na via do recurso especial, nos termos da Súmula nº 5/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
