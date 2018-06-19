@@ -1,0 +1,12 @@
+DECISÃO
+1. Nos termos do § 1º do artigo 543 do CPC de 1973 e do § 1º do artigo 1.031 do CPC de 2015, concluído o julgamento do recurso especial, os autos serão remetidos ao Supremo Tribunal Federal para apreciação do recurso extraordinário, se este não estiver prejudicado.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO NO RECURSO ESPECIAL. ARTS. 512 E 543, § 1º, CPC. PREJUDICIALIDADE DO RECURSO EXTRAORDINÁRIO. MATÉRIA CONSTITUCIONAL. RECURSO ESPECIAL. SEDE IMPRÓPRIA. RECURSO DESPROVIDO.
+I. Nos termos do art. 543, § 1º, se com o julgamento do recurso especial o recurso extraordinário simultaneamente interposto restar prejudicado, não deve ser remetido ao Supremo Tribunal Federal.
+II. Segundo a jurisprudência da Suprema Corte, "tendo a recorrente conseguido, com o desfecho do recurso especial, junto ao Superior Tribunal de Justiça, o mesmo resultado objetivado no recurso extraordinário, resta este prejudicado, por falta de objeto".
+III. Em razão da dicotomia dos recursos excepcionais dirigidos ao Supremo Tribunal Federal e ao Superior Tribunal de Justiça, adotada pela Constituição de 1988, torna-se defeso a esta Corte, no âmbito do recurso especial, examinar eventual violação de dispositivo constitucional, missão reservada ao guardião da Lei Maior.
+IV. Impossível a análise da norma constitucional em sede especial, ainda que vise a prequestionamento. (AgRg no REsp 234.453/RS, Rel. Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, julgado em 18.04.2000, DJ 05.06.2000)
+Na hipótese, a perda de objeto do recurso extraordinário de fls. 1.335/1.348 (e, consequentemente, do agravo de fls. 1.484/1.494) revela-se manifesta, pois provido o recurso especial manejado pela mesma parte, que, fundamentalmente, pretendia o processamento da ação rescisória.
+Com efeito, a discussão no recurso extraordinário resumia-se à alegação de negativa de prestação jurisdicional, a qual foi, evidentemente, superada com a determinação de prosseguimento do julgamento da rescisória perante esta Corte Superior.
+2. Ante o exposto, julgo prejudicado o exame do agravo em recurso extraordinário de fls. 1.484/1.494 e determino sejam os autos, novamente, encaminhados à Segunda Seção para que se cumpra a determinação exarada às fls. 1.785/1.786, ou seja, proceda-se à reautuação dos autos como ação rescisória, a ser, aleatoriamente, distribuída entre os Ministros integrantes do referido órgão julgador.
+Publique-se, intimem-se e cumpra-se.
