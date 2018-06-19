@@ -1,0 +1,17 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+RECURSO EM SENTIDO ESTRITO - FURTO QUALIFICADO MEDIANTE CONCURSO DE PESSOAS - PRISÃO EM FLAGRANTE - OUTORGA DE LIBERDADE PROVISÓRIA MEDIANTE APLICAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS - PRETENSÃO MINISTERIAL DE REVOGAÇÃO DA DECISÃO - ALEGADA AUSÊNCIA DE IDENTIFICAÇÃO DOS RECORRIDOS - RECEBIMENTO DA DENÚNCIA - RECORRIDOS QUALIFICADOS - DÚVIDA INEXISTENTE - PREJUÍZO À APLICAÇÃO DA LEI PENAL E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL - COMPARECIMENTO AOS ATOS PROCESSUAIS ASSEGURADO POR MEDIDAS CAUTELARES - CRIME DE MENOR POTENCIAL OFENSIVO - SOLTURA SEM REGISTRO DE COMETIMENTO DE NOVOS DELITOS - PERTINÊNCIA DA LIBERDADE VINCULADA - RECURSO DESPROVIDO.
+"Sendo sanada possível dúvida acerca da identidade civil do agente com o oferecimento e recebimento da denúncia, a soltura do paciente é medida que se impõe, em face de não subsistir tal motivo, eleito, também, como indicador da necessidade da custódia processual." (TJMT, HC nº 57006/2014).
+Se aplicadas medidas cautelares alternativas para assegurar o comparecimento dos recorridos aos atos processuais, não se evidencia prejuízo à conveniência da instrução criminal e aplicação da lei penal.
+Afigura-se pertinente a manutenção da liberdade vinculada aos recorridos ao se considerar a menor potencialidade do delito e a ausência de registro de cometimento de novos delitos após a soltura. (e-STJ fls. 64/65)
+Sustenta o recorrente a violação do art. 313, parágrafo único, do Código de Processo Penal, alegando, em síntese, que havendo dúvidas quanto à identidade dos recorridos, necessária a conversão da prisão em flagrante em prisão cautelar para a garantia da instrução criminal.
+Contrarrazões às e-STJ fls. 96/101.
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso às e-STJ fls. 140/143.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o Tribunal de Justiça de Mato Grosso negou provimento ao recurso em sentido estrito interposto pelo Ministério Público local e manteve a decisão que concedeu liberdade provisória aos recorridos, com imposição de medidas cautelares alternativas, pelo suposto cometimento do crime do art. 155, § 4º, IV, do Código Penal.
+O recorrente alega que havendo dúvidas quanto à identidade dos recorridos, necessária a conversão da prisão em flagrante em prisão cautelar para a garantia da instrução criminal.
+Ocorre que, ao contrário do alegado pelo recorrente, consta do acórdão recorrido à e-STJ fl. 68 que os recorridos foram "devidamente qualificados pelo órgão do Ministério Público", já tendo sido, inclusive, recebida a denúncia em face de determinada pessoa, a justificar a necessidade de custódia.
+Constata-se que as razões recursais, em confronto com as afirmações do acórdão recorrido, prendem-se a uma perspectiva de reexame de matéria de fato, providência inviável na via do recurso especial, a teor do disposto na Súmula n. 7 deste STJ. A propósito: AgRg no AREsp 1092236/SP, desta Relatoria, DJe 01/08/2017.
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
