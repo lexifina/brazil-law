@@ -1,0 +1,7 @@
+LEI Nº 8.021, DE 18 DE JUNHO DE 2018.
+
+INSTITUI, NO ÂMBITO DO ESTADO DE ALAGOAS, O DIA ESTADUAL DO CERIMONIALISTA.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS
+
+Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
