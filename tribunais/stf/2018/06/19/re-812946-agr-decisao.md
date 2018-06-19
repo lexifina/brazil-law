@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo interno interposto contra decisão monocrática de minha relatoria, assim fundamentada:
+    “O recurso extraordinário não pode ser provido, uma vez que as razões aduzidas pelo recorrente conflitam com a jurisprudência do Supremo Tribunal Federal.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso”.
+    A parte agravante sustenta que: (i) a decisão agravada deve ser considerada nula, porquanto carente de qualquer fundamentação; (ii) a jurisprudência desta Corte já se posicionou pela validade da Lei nº 9.718/1998; (iii) o Certificado de Regularidade Previdenciária é necessário para a realização segura de transferências voluntárias de recursos pela União.
+    O Plenário do Supremo Tribunal Federal, ao apreciar o RE 1.007.271, Rel. Min. Edson Fachin, reconheceu a repercussão geral da matéria em exame. Confira-se a ementa:
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. DIREITO FINANCEIRO. DIREITO PREVIDENCIÁRIO. COMPETÊNCIA LEGISLATIVA. UNIÃO. NORMAS GERAIS. DESCUMPRIMENTO DE NORMA PELOS DEMAIS ENTES FEDERADOS. CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA – CRP. LEI 9.717/1998. DECRETO 3.788/2001. PORTARIA MPS 204/2008 E ALTERAÇÕES. 1. A controvérsia em tela consiste na constitucionalidade dos arts. 7º e 9º da Lei 9.717/1998 e do Decreto 3.788/2001, que institui o Certificado de Regularidade Previdenciária, no aspecto em que estabelecem medidas restritivas ao ente federado que não cumpra as regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos. 2. A questão referente ao alcance da competência legislativa da União para dispor sobre normas gerais em matéria previdenciária, ainda que de natureza sancionatória, no que diz respeito ao descumprimento das normas da Lei 9.717/1998 pelos demais entes federados, possui repercussão geral. 3. Preliminar de repercussão geral reconhecida”. (RE 1.007.271-RG, Rel. Min. Edson Fachin – Tema 968 da sistemática da repercussão geral)
+    Naquele recurso será analisada a questão referente ao alcance da competência legislativa da União para dispor sobre normas gerais em matéria previdenciária, ainda que de natureza sancionatória.
+    Diante do exposto, reconsidero a decisão monocrática anteriormente proferida e, com base no art. 1.036, do CPC/2015, e no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos à origem a fim de que seja aplicada a sistemática da repercussão geral. Julgo prejudicado o agravo interno.
+    Publique-se.
+          Brasília, 19 de junho de 2018.
+Ministro Luís Roberto Barroso
+Relator
