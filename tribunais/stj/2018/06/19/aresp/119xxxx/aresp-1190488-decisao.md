@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pela FAZENDA DO ESTADO DE SÃO PAULO, em 11/08/2016, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial, manejado com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão assim ementado:
+"EMBARGOS À EXECUÇÃO - EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA - Gratificação por Trabalho Educacional (GTE) - Lei Complementar nº 874/00.
+Substituto processual que atuou em proveito dos substituídos, dando início à execução dos atrasados.
+Não observância da regra contida no artigo 94 do Código de Defesa do Consumidor, aplicável por força do artigo 21 da Lei nº 7.347/85.
+Prescrição afastada.
+Recurso não provido" (fl. 181e).
+Sustenta a parte agravante, nas razões do Recurso Especial, ofensa ao art. 535 do CPC/73, porquanto, não obstante a oposição dos Embargos Declaratórios, o Tribunal de origem deixou de se manifestar acerca das omissões apontadas.
+Assevera contrariedade aos arts. 1º do Decreto 20.910/32, 94 do Código de Defesa do Consumidor e 21 da Lei 7.347/85, sob os seguintes fundamentos:
+"In casu, a pretensão para o recebimento dos atrasados da GTE passou a poder ser exercida a partir do momento em que a obrigação de fazer (apostilamento) foi cumprida.
+Como o apostilamento ocorreu em 02/ABRIL/2007, a prescrição ocorreu em 02/ABRIL/2012, sendo que o ajuizamento da ação se deu apenas em 19/ABRIL/2012, ou seja, cinco anos depois do trânsito em julgado.
+Ressalta-se que não se aplica o art. 94 do CDC c/c art. 21 da Lei 7.347/85, uma vez que a parte exequente teve ciência da decisão proferida no Mandado de Segurança Coletiva.
+Dessa forma, o prazo prescricional é de cinco anos, devendo ser contado a partir do cumprimento da obrigação de fazer.
+(..)
+Ressalta-se, por fim, que no caso, não basta a sentença condenatória, pois a parte só teve condições de elaborar seus cálculos a partir do cumprimento da obrigação de fazer. No mais, a ciência é inequívoca, pois desde 2007 a parte passou a receber administrativamente as diferenças apostiladas, não podendo negar que nesta ocasião já sabia do efetivo cumprimento da obrigação de fazer.
+Poderia, desde então, executar as diferenças não pagas no período posterior.
+No entanto, deixou trasncorrer (sic) in albis o prazo prescricional" (fls. 209/211e)
+Requer, ao final, o conhecimento e provimento do Recurso Especial.
+Foram apresentadas contrarrazões (fls. 213/227e).
+Negado seguimento ao Recurso Especial (fl. 228e), foi interposto o presente Agravo (fls. 230/236e).
+Foi apresentada contraminuta (fls. 239/242e).
+A irresignação merece parcial acolhimento.
+Em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1.360.762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+No mais, o acórdão recorrido está calcado nas seguintes razões de decidir:
+"O título executivo judicial em que se funda a presente ação de execução individual decorre de habilitação promovida no mandado de segurança coletivo nº 1184/00, no qual se reconheceu o direito dos autores à percepção da gratificação denominada "gratificação por trabalho educacional" GTE, acrescidas de correção monetária e juros de 6% ao ano.
+Assim, o débito exequendo originou-se de decisão judicial favorável aos exequentes, proferida em sede de Mandado de Segurança Coletivo que transitou em julgado em 7 de abril de 2007. O Centro do Professorado Paulista, em defesa de seus associados, deu início à execução dos atrasados, requerendo a expedição de ofício à Autoridade impetrada, determinando-se o imediato cumprimento da ordem, para apostilar e pagar imediatamente a Gratificação por Trabalho Educacional aos aposentados associados da entidade.
+Com se vê, o Sindicato iniciou a execução do julgado. Assim, ainda que representados pela entidade, os exequentes buscam o recebimento de seus créditos desde então. Por isso o fato de a presente execução individual ter sido ajuizada em 19 de abril de 2012 não implica prescrição nem mesmo das parcelas.
+Aliás, a matéria foi exaustivamente analisada por este E. Tribunal de Justiça e, com a devida vênia, transcreve-se trecho de voto proferido no julgamento da apelação cível nº 0010974-20.2012.8.26.0053, relatada pelo eminente Des. Antônio Carlos Malheiros:
+"Não ocorreu a prescrição decretada na decisão monocrática. Considerando-se que não é possível a execução de verbas em atraso em sede de mandado de segurança, notadamente as parcelas anteriores à data da impetração, cabível o ajuizamento desta ação, a fim de obterem os autores, em decorrência do direito ao recebimento da GTE na ação mandamental coletiva, as parcelas em atraso, a contar dos respectivos apostilamentos.
+Na hipótese não se pode falar em ocorrência de prescrição, incidindo na espécie o comando inserto no artigo 94 do Código de Defesa do Consumidor, que determina:
+"Proposta a ação, será publicado edital no órgão oficial, a fim de que os interessados possam intervir no processo como litisconsortes, sem prejuízo de ampla divulgação pelos meios de comunicação social por parte dos órgãos de defesa do consumidor".
+A regra mencionada aplica-se à hipótese por força do artigo 21 da Lei n. 7.347/85, que determina:
+"Aplicam-se à defesa dos direitos e interesses difusos, coletivos e individuais, no que for cabível, os dispositivos do Titulo III da lei que instituiu o Código de Defesa do Consumidor".
+E, não há notícia de que tal publicidade foi efetivada no presente caso.
+Como bem salientado na Apelação Cível 0011440-77.2013.8.26.0053, em acórdão da lavra do desembargador [NOME], onde foi decidida questão idêntica à dos autos:
+"Ora, no caso em epígrafe, não se tem notícia de que a decisão proferida nos autos do mandado de segurança nº 1092/00 tenha sido objeto de publicidade, a qual é imprescindível, a fim de que os interessados possam ingressar em juízo e postular eventuais direitos individuais decorrentes, como na espécie, resguardando-se, assim, os primados da ampla defesa e devido processo legal consagrados na Carta da República. Nesse diapasão, peço vênia para transcrever trecho de voto do ilustre DESEMBARGADOR PAULO DIMAS MASCARETTI, que em caso análogo assim se manifestou:
+"De qualquer modo, como bem realçado pelos embargados, não foi observada a regra contida no artigo 94 do Código de Defesa do Consumidor, aplicável in casu por força do artigo 21 da Lei nº 7.347/85, pela qual "proposta a ação, será publicado edital no órgão oficial, a fim de que os interessados possam intervir no processo como litisconsortes, sem prejuízo de ampla divulgação pelos meios de comunicação social por parte dos órgãos de defesa do consumidor", regra essa, por sinal, também extensiva ao processo de execução.
+E essa publicidade mostra-se realmente indispensável para fins de conhecimento dos interessados em geral, os quais, em liquidação, demonstrando que fazem jus aos "gatilhos salariais", podem postular o pagamento pertinente.
+Destarte, ainda que se desconsiderasse o outro fundamento expendido, inocorrendo a notificação dos interessados acerca da sentença proferida em ação coletiva, não há como ter início o prazo prescricional em relação a eles, sob pena de violação aos princípios constitucionais da ampla defesa e do devido processo legal (v. art. 5º, LIV e LV, da CF)." (Apelação Cível nº 0103911-88.2008 8ª Câmara de Direito Público TJ/SP j. em 1º.02.2012)".
+4.3. Assim sendo, portanto, é de rigor o prosseguimento da ação executiva, inexistindo, com todo o respeito ao entendimento do douto sentenciante, a ocorrência de prescrição, lembrando-se, ademais, vale ponderar em remate, que o ajuizamento da ação coletiva, inclusive, interrompeu a contagem de prazo prescricional.
+5. Ante o exposto, por meu voto, dou provimento ao recurso para determinar o prosseguimento do feito.
+No mesmo sentido o voto lançado nos autos de apelação cível nº 0127466-71.2007.8.26.0053, relatada pelo E. Des. Marrey Uint:
+"Importante ressaltar que não foi observada in casu a regra contida no artigo 94 do Código de Defesa do Consumidor, aplicável por força do artigo 21 da Lei nº 7.347/85.
+(..)
+Nessa esteira, é que o artigo 94 do Código de Defesa do Consumidor determina que será publicado edital no órgão oficial, sem prejuízo de ampla divulgação nos meios de comunicação, da proposição da ação, para que os interessados possam se habilitar como litisconsortes.
+E assim complementa o renomado doutrinador:
+(..)
+Não ocorrendo a notificação dos interessados acerca da sentença proferida em ação coletiva, não há se falar em fluência do prazo prescricional em relação a eles, sob pena de afronta aos princípios constitucionais da ampla defesa e do devido processo legal (v. art. 5º, LIV e LV, da CF).
+Também não há necessidade de liquidação por artigos para executar os valores devidos em consequência da aplicação dos chamados "gatilhos". A condição de parte legítima para a execução está comprovada pela declaração de filiação juntada a f. 166/218 e os valores apresentados na petição inicial foram obtidos com simples cálculo aritmético".
+Desta forma, pelo meu voto, nego provimento ao recurso da Fazenda do Estado" (fls. 182/187e).
+Como se vê, o entendimento adotado pelo Tribunal de origem está em desacordo com a jurisprudência desta Corte Superior de Justiça, fixada quando do julgamento do REsp 1.388.000/PR, sob o rito dos recursos especiais repetitivos (Tema 877/STJ), no seguinte sentido: "(..) o prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva, sendo desnecessária a providência de que trata o art. 94 da Lei n. 8.078/90" (STJ, REsp 1.388.000/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 26/08/2015, DJe de 12/04/2016).
+A propósito, ainda, os seguintes precedentes:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. GRATIFICAÇÃO POR TRABALHO EDUCACIONAL (GTE). MANDADO DE SEGURANÇA COLETIVO. EXECUÇÃO INDIVIDUAL. PRESCRIÇÃO. MARCO TEMPORAL. CONTAGEM A PARTIR DO TRÂNSITO EM JULGADO DA AÇÃO COLETIVA.
+1. Cuida-se na origem de execução de sentença proferida nos autos de Mandado de Segurança Coletivo, no qual se reconheceu o direito dos autores à percepção da Gratificação por Trabalho Educacional/GTE.
+2. No julgamento do REsp 1.388.000/PR, representativo de controvérsia, a Primeira Seção do STJ sedimentou o entendimento de que o prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva, sendo desnecessária a providência de que trata o art. 94 da Lei 8.078/1990.
+3. Recurso Especial provido" (STJ, REsp 1.709.004/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/12/2017, DJe de 19/12/2017).
+"PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO (INDIVIDUAL) DE TÍTULO JUDICIAL. MANDADO DE SEGURANÇA COLETIVO. PRESCRIÇÃO. PRAZO. TERMO A QUO.
+1. Consoante pacífica jurisprudência desta Corte Superior, o prazo para propositura de execução contra a Fazenda Pública, nos termos do art. 1º do Decreto n. 20.910/1932 e da Súmula 150 do Supremo Tribunal Federal, é de cinco anos, contados do trânsito em julgado do processo de conhecimento, momento em que o título executivo se torna líquido e certo, incidindo o princípio da actio nata.
+Precedentes.
+2. No julgamento do REsp 1.388.000/PR, representativo de controvérsia, a Primeira Seção superou as divergências sobre o tema, ao definir que o prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva, sendo desnecessária a providência de que trata o art. 94 da Lei n. 8.078/1990.
+3. As Turmas da Seção de Direito Público do STJ decidiram que a prescrição da execução, assim como a prescrição da própria ação de repetição do indébito tributário, é de cinco anos, não havendo falar em prazo de dez anos (cinco mais cinco) (AgRg nos EDcl no AREsp 637.311/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/04/2015, DJe de 17/04/2015).
+4. A pretensão executiva foi atingida pela prescrição, pois a execução da sentença foi iniciada em 31/08/2010, isto é, após cinco anos do trânsito em julgado do writ, em 28/02/2005.
+5. Agravo interno desprovido" (STJ, AgInt nos EDcl no AREsp 644.705/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 06/12/2016, DJe de 07/02/2017).
+Em face do exposto, com fundamento do art. 253, parágrafo único, inciso II, alínea c, do RISTJ, conheço do Agravo para dar parcial provimento ao Recurso Especial, a fim de afastar a incidência, na hipótese, do art. 94 da Lei 8.078/90 e determinar a devolução dos autos ao Tribunal de origem para que julgue a lide como entender de direito.
+I.
