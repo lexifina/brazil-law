@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de Recurso Ordinário em Mandado de Segurança, interposto por [NOME], com pedido de antecipação dos efeitos da tutela, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"MANDADO DE SEGURANÇA - PREJUDICIAL DE MÉRITO - DECADÊNCIA - INOCORRÊNCIA - ILEGITIMIDADE PASSIVA - CONFIGURAÇÃO - CONCURSO PÚBLICO - APROVAÇÃO DENTRO DO NÚMERO DE VAGAS PREVISTAS NO EDITAL - DIREITO SUBJETIVO À NOMEAÇÃO - JUÍZO DE CONVENIÊNCIA E OPORTUNIDADE DA ADMINISTRAÇÃO ATÉ A SUPERVENIÊNCIA DO TERMO FINAL DE VALIDADE DO CONCURSO - SEGURANÇA QUE SE DENEGA "IN CASU".
+- A contagem do prazo decadencial para impetração de mandado de segurança dirigido contra ato omissivo da autoridade coatora, consubstanciado na ausência de nomeação de candidato aprovado em concurso público, tem início com o término da validade do concurso, de forma que estando este ainda em curso não há se falar em decadência.
+- Nos termos do art. 90, III, da Constituição do Estado de Minas Gerais, compete ao Governador do Estado o provimento dos cargos do Poder Executivo, razão pela qual não possuem o Comandante da Polícia Militar e o Coronel Diretor de Educação Escolar e Assistência Social da Polícia Militar de Minas Gerais pertinência subjetiva para figurar no pólo passivo do "writ".
+- Durante o prazo de validade do concurso a Administração possui discricionariedade quanto ao momento da nomeação do candidato aprovado dentro do número de vagas, inexistindo, nesse período, direito líquido e certo daquele à nomeação, tirante apenas as hipóteses de preterição, não comprovadas no caso focado" (fl. 137e).
+Ao que se tem dos autos, trata-se de Mandado de Segurança, com pedido de liminar, impetrado pela parte ora recorrente, objetivando sua imediata nomeação, porquanto aprovado dentro do número de vagas prevista no edital. Assevera, ainda, que as vagas existentes estão sendo preenchidas por contratação temporária.
+O tema merece especial atenção.
+Diante de todo o exposto, reservo-me o direito de apreciar o pedido de liminar após apresentação do parecer, pelo Ministério Público Federal.
+Assim, dê-se vista ao MPF, para parecer, com a urgência que o caso requer. Após, retornem-se conclusos os autos.
+I.
