@@ -1,0 +1,54 @@
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO RENOVATÓRIA. OFENSA AO ART. 1.022 DO CPC/15. CONTRADIÇÃO. NÃO OCORRÊNCIA. PREVENÇÃO. MATÉRIA NÃO DEVOLVIDA AO TRIBUNAL DE ORIGEM. PÓS-QUESTIONAMENTO. SÚMULAS Nº 211/STJ E Nº 282/STF. COISA JULGADA. FUNDAMENTO INATACADO SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO. SÚMULA Nº 283/STF. RECURSO ESPECIAL NÃO PROVIDO.
+1. Não há afronta ao art. 1.022 do CPC/15 quando o Tribunal de origem manifesta-se suficientemente sobre a questão controvertida, apenas adotando fundamento diverso daquele perquirido pela parte.
+2. A alegação, em sede de recurso interno, acerca de matéria não devolvida ao Tribunal de origem no momento oportuno configura pós-questionamento, inadmissível no ordenamento jurídico pátrio. Súmulas nº 211/STJ e nº 282/STF.
+3. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+4. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por VICENTE EUSTÁQUIO DA FONSECA RAMOS DE PAULA com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+AGRAVO DE INSTRUMENTO - RENOVATÓRIA DE LOCAÇÃO - O PROPRIETÁRIO DEVE FIGURAR NO PÓLO PASSIVO - ILEGITIMIDADE PASSIVA DO EX-CONJUGE. No caso de ação de renovação de aluguel deve figurar no pólo passivo da demanda o proprietário do imóvel. O fato de subscrever o contrato em nome do proprietário ou receber os valores dos aluguéis, não legitima o procurador a figurar no pólo passivo da lide.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, aponta o recorrente ofensa aos seguintes dispositivos:
+a) art. 1.022, I, do CPC/15, ante a existência de contradição relativamente ao julgado proferido no outro agravo de instrumento interposto nos mesmos autos originários;
+b) arts. 467 e 471 do CPC/73 e arts. 502 e 505 do CPC/15, em face da legitimidade passiva de [NOME] ter sido reconhecida por decisão transitada em julgado no agravo de instrumento 1.0024.14.112334-9/002; e
+c) arts. 104 e 253, I e III, do CPC/73 e arts. 55, § 3º, 56 e 286, I e III, do CPC/15, porquanto deve ser reconhecida a prevenção com o agravo de instrumento 1.0024.14.112334-9/002.
+É o relatório.
+DECIDO.
+2. Nos termos da jurisprudência desta Corte Superior, a contradição que viabiliza a interposição de embargos de declaração é aquela interna à própria decisão, pois sempre buscada decisões congruentes, coerentes e lógicas, diante de premissas e respectivas conclusões.
+Veja-se:
+EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRADIÇÃO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Somente são devidos embargos de declaração para a correção de contradição interna do julgado, ou seja, aquela verificada entre a fundamentação e a conclusão da decisão.
+2. Não se caracteriza contradição, para os fins do art. 1.022 do CPC/2015, quando o acórdão proferido pelo órgão competente, julgando recurso adequadamente interposto pela parte interessada, reforma decisão monocrática anteriormente prolatada pelo Relator.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1028884/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 19/04/2018, DJe 25/04/2018)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ROUBO. CONTRADIÇÃO. INEXISTÊNCIA. NÍTIDO CARÁTER INFRINGENTE. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. EXECUÇÃO PROVISÓRIA DEFERIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos da jurisprudência desta Corte, a contradição que autoriza o manejo dos embargos de declaração é a interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e aquela que almejava o jurisdicionado (Resp n. 1.250.367/RJ, Rel. Ministra Eliana Calmon, 2ª T., DJe 22/8/2013).
+2. A inovação recursal quando da oposição dos embargos de declaração, ante sua incompatibilidade com as finalidades dos aclaratórios, revela-se inviável. (EDcl no AgRg no REsp 1382060/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/11/2017, DJe 04/12/2017) 3. O Pleno do Supremo Tribunal Federal, apreciando medida cautelar nas Ações Declaratórias de Constitucionalidade 43 e 44 (DJE 11/10/2016), por maioria, reafirmou o entendimento da possibilidade de execução provisória da pena, na ausência de recurso com efeito suspensivo, confirmada, ainda, em repercussão geral (ARE 964246 RG, Rel. Min. TEORI ZAVASCKI, DJe 25/11/2016).
+4. Embargos de declaração rejeitados. Deferida a execução provisória da pena, delegando-se ao Tribunal local a execução dos atos necessários ao cumprimento da determinação.
+(EDcl no AgRg nos EAREsp 900.993/BA, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 11/04/2018, DJe 16/04/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO IMPROVIDO. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO. INEXISTENTES.
+I - Trata-se de embargos de declaração opostos contra acórdão que julgou agravo interno.
+II - Os aclaratórios somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+III - A contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: EDcl no AgInt no RMS 51.806/ES, Rel.
+Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp 1.532.943/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/5/2017, DJe 2/6/2017.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV - Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp 1067047/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 05/04/2018, DJe 10/04/2018)
+Assim, alegando a parte contradição entre o acórdão recorrido e decisão proferida em outros autos, ainda que relativa à mesma ação ainda em curso, não há os requisitos autorizadores para a oposição dos aclaratórios.
+3. A matéria referente arts. 104 e 253, I e III, do CPC/73 e arts. 55, § 3º, 56 e 286, I e III, do CPC/15, relativa à prevenção, não foi oportunamente devolvida à Corte de origem, configurando-se o chamado pós-questionamento, não admitido no ordenamento jurídico pátrio. Veja-se:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC. OMISSÃO. NÃO OCORRÊNCIA. ARGUMENTOS NÃO VEICULADOS NO RECURSO DE APELAÇÃO. PÓS-QUESTIONAMENTO.
+1. Na hipótese em exame, não se configura a alegada negativa de prestação jurisdicional, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada. Registre-se que não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. A mera insatisfação com o conteúdo da decisão embargada não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas que foram trazidos à tutela jurisdicional no momento processual oportuno.
+3. A oposição de Embargos de Declaração após a formação do acórdão, com o escopo de que seja analisado tema não arguido anteriormente no processo, não configura prequestionamento, mas pós-questionamento, razão pela qual a ausência de manifestação do Tribunal sobre a questão não caracteriza negativa de prestação jurisdicional.
+4. Agravo Interno não provido.
+(AgInt no AREsp 885.963/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/09/2016, DJe 11/10/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/73. AUSÊNCIA DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. PÓS-QUESTIONAMENTO DA MATÉRIA VENTILADA. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação do art. 535 do Código de Processo Civil/73 pois o Tribunal de origem dirimiu as questões pertinentes ao litígio - tal como lhe foram postas e submetidas -, apresentando todos os fundamentos jurídicos pertinentes, à formação do juízo cognitivo proferido na espécie.
+2. A pretensão de ver analisados argumentos não veiculados anteriormente, mas trazidos somente com a oposição de embargos de declaração, não configura prequestionamento, e sim pós-questionamento. Por essa razão, a ausência de manifestação do Tribunal sobre a questão não implica violação ao disposto no art. 535 do Código de Processo Civil. Incidência da Súmula 211/STJ.
+3. O Tribunal de origem consigna que a recorrida conseguiu demonstrar o fato constitutivo de seu direito de receber o pagamento do valor de R$ 50.000,00 (cinquenta mil reais) referente ao capital social que deveria ter sido integralizado. Além disso, registra que a integralização do capital social é matéria afeita à empresa e qualquer valor ingressante na sociedade deveria ter sido depositado na conta bancária da pessoa jurídica, não em conta pessoal do sócio desta. A reforma do aresto, nestes aspectos, demanda inegável necessidade de reexame de matéria probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 846.423/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/09/2016, DJe 19/09/2016)
+Assim, tenho por incidente à espécie as Súmulas nº 282/STF e nº 211/STJ.
+4. Por fim, quanto à suposta afronta à coisa julgada - arts. 467 e 471 do CPC/73 e arts. 502 e 505 do CPC/15, decidiu o acórdão, apesar de o Tribunal de origem ter pontuado acerca da norma indicada como afrontada, o v. acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e o recorrente não cuidou de impugnar todos eles, como seria de rigor. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, qual seja: a questão apreciada neste agravo de instrumento refere-se exclusivamente ao contrato relativo às vagas de garagem 01 a 05 e 10 a 14 - fl. 116, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+5. Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
