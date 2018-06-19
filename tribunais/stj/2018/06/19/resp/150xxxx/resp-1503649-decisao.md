@@ -1,0 +1,35 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE RESCISÃO CONTRATUAL. INADIMPLEMENTO. DISPOSITIVOS TIDOS POR VIOLADOS. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS NSº 282 E 356 DO STF. REFORMA DO JULGADO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Consta dos autos que ASSEL EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (ASSEL) propôs ação de rescisão contrato particular de compromisso de venda e compra cumulada com reintegração de posse contra ALEXANDRE DA SILVA FERNANDES E KÁTIA APARECIDA FERNANDES (ALEXANDRE E OUTRA).
+O juízo de piso julgou parcialmente procedente a ação nos seguintes termos:
+Pelo exposto e o mais que dos autos consta, JULGO PARCIALMENTE PROCEDENTE a ação para declarar rescindido o contrato celebrado entre as partes e, via de conseqüência, reintegrar a autora na posse do imóvel. Deverá a autora restituir aos réus os valores pagos, devidamente atualizados, assegurando-se o direito de retenção de percentual de 30% a titulo de despesas administrativas e por conta do tempo de ocupação do imóvel pelos requeridos. Autorizo, de outro lado, a retenção do imóvel por benfeitorias realizadas até regular indenização, consignando que estas deverão ser apuradas oportunamente. Tendo a autora decaído de parte do pedido, a sucumbência é reciproca (e-STJ, fl. 290).
+O tribunal de origem deu parcial provimento ao recurso de apelação interposto por ASSEL em acórdão assim ementado:
+Apelação. Pedidos e documentos apresentados em contrarrazões. Não conhecimento. Ação de rescisão contratual. Inadimplemento. Fixação de taxa de ocupação do bem pelo período de inadimplemento. Necessidade. Súmula 1 do Egrégio Tribunal de Justiça. Incidência do Princípio da vedação ao Enriquecimento Sem Causa. Apelantes que estão na posse do bem, sem contraprestação alguma, há mais de três anos. Arbitramento em 0,5% ao mês do valor de mercado do imóvel. Benfeitorias. Ausência de comprovação. Afastamento do direito à indenização e à retenção. Reintegração imediata na posse. Tributo Municipal. Apelante não é credora originária e não demonstrou pagamento no período. Recurso parcialmente provido (e-STJ, fl. 475).
+Inconformados, ALEXANDRE E OUTRA interpõem, então recurso especial, com fundamento na alínea a do permissivo constitucional, no qual alega ofensa aos arts. 34, 37, 39 e 46 da Lei nº 6.676/79; 885 e 1.219 do CPC/73; 51, IV, § 1º, I e III do CDC e 97, II, do CTN, sob o argumento de que: (a) é ilegal a retenção pela recorrida de 0,5% ao mês a título de fruição sobre o valor de mercado do imóvel; (b) o loteamento não está devidamente registrado; (c) faz jus à indenização pelas benfeitorias construídas de boa-fé; e, (d) a majoração da base do cálculo do IPTU depende da publicação da planta genérica de valores.
+As contrarrazões do apelo nobre foram apresentadas (e-STJ, fls. 514/529).
+O recurso especial foi admitido na origem (e-STJ, fls. 531/532).
+É o relatório.
+DECIDO.
+Não merece prosperar a presente irresignação.
+De plano, vale pontuar que as disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Os temas referentes aos arts. 34, 37, 39 e 46 da Lei nº 6.676/79; 885 e 1.219 do CPC/73; 51, IV, § 1º, I e III do CDC e 97, II, do CTN não foram apreciados pelo acórdão recorrido, e tampouco foram opostos embargos de declaração, estando ausente o indispensável debate prévio.
+Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional.
+Inafastável assim, por analogia, a incidência das Súmulas nº 282 e 356 do STF: É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada; O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+De qualquer forma, o Tribunal de origem afastou o direito de retenção e indenização por benfeitorias, porque sua existência não foi demonstrada, bem como fixou a taxa de ocupação do bem pelo período de inadimplemento, sob os seguintes fundamentos:
+Há, sem dúvida, ocupação indevida do bem, ocupação esta que impõe aos réus inadimplentes o pagamento de indenização pelo período em que deixaram de pagar as prestações devidas no contrato celebrado. Frise-se que a r. sentença considerou os réus inadimplentes e não justificado o não pagamento por conta da alegada irregularidade do loteamento, o que não foi objeto de recurso.
+Então, partindo-se do pressuposto de que os réus deram causa à rescisão, sem dúvida que devem pagar pelo período em que permaneceram no imóvel sem a devida contraprestação.
+ ..
+Na contestação, os apelados não informaram, não descreveram, não identificaram quais benfeitorias teriam realizado, limitando-se a afirmar que a pretensão da apelante não poderia vingar.
+ ..
+Sabe-se que as locações não estão tão valorizadas e que, atualmente, o valor por vezes não chega a 0,5% sobre o valor do imóvel. No entanto, este tem sido o parâmetro adotado, a fim de evitar-se maior prolongamento do feito em fase de liquidação de sentença, aceitando-se como uma média de mercado.
+Assim, no que diz respeito a esta pretensão da apelante, fica ela acolhida para fixar o pagamento pelo tempo de ocupação do imóvel, mensal, em 0,5% sobre o valor total do imóvel, devendo ser considerado o valor de mercado do imóvel no período da ocupação, o que poderá ser aferido na fase de liquidação de sentença.
+ ..
+Na documentação encartada há fotografia de todo o loteamento e de algumas construções, sem discriminação em relação a pertencerem aos apelados.
+O "laudo de vistoria" juntado refere-se a uma pessoa chamada "[NOME]", que não é parte na lide (fls. 68/78).
+Enfim, não há prova alguma da existência de benfeitorias, tampouco de aprovações administrativas quanto a elas e, assim, a retenção por benfeitoria conferida em sentença não pode prevalecer, cabendo à apelante reintegrar-se, desde já, na posse do imóvel" (e-STJ, fls. 477/479).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 do STJ.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), NÃO CONHEÇO do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
