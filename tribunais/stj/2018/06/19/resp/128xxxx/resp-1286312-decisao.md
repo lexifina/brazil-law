@@ -1,0 +1,68 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, contra acórdão prolatado, por unanimidade, pela 6ª Turma do Tribunal Regional Federal da 3ª Região, assim ementado (fls. 201/202e):
+MANDADO DE SEGURANÇA - TRIBUTÁRIO - IMPOSTO DE RENDA - COMPLEMENTAÇÃO DE APOSENTADORIA - BENEFICIÁRIOS RESIDENTES NO EXTERIOR - ALÍQUOTA DE 15% - ART. 685, I, DECRETO Nº 3.000/99 - AGRAVO RETIDO NÃO CONHECIDO - ART. 523, § 1º, CPC.
+Agravo retido não conhecido, visto que não foi requerido expressamente, nas razões de apelação, o seu julgamento pelo tribunal, conforme determina o § 1º do art. 523 do CPC.
+0 artigo 33 da Lei nº 9.250/95 determina a incidência do imposto de renda sobre os benefícios recebidos de entidade de previdência privada, bem como sobre a importância correspondente ao resgate das contribuições.
+Por sua vez, o Decreto nº 3.000/99 estabelece, em seu artigo 685, inciso I, alínea "c", que as pensões alimentícias e os pecúlios recebidos por pessoas físicas residentes no exterior serão tributados à alíquota de 15% (quinze por cento).
+A complementação de aposentadoria possui natureza previdenciária, formando um pecúlio individualizado para cada participante do fundo de previdência privada, através das contribuições dos empregados e da aplicação de capital da patrocinadora do fundo, e que poderá ser resgatado por meio de parcelas mensais denominadas complementação de aposentadoria.
+Segundo o disposto no art. 68 da Lei Complementar nº 109, de 29 de maio de 2001, as contribuições do empregador a planos de benefícios das entidades de previdência complementar não integram o contrato de trabalho dos participantes.
+6 - Inaplicabilidade do artigo 7º da Lei nº 9.779/99 ao caso, que prevê a alíquota de 25% (vinte e cinco por cento) do imposto de renda para os rendimentos provenientes do trabalho e os de prestação de serviços pagos às pessoas físicas residentes no exterior.
+5 - Apelação e remessa oficial desprovidas.
+Com amparo no art. 105, III, a, da Constituição da República, a Recorrente aponta ofensa a dispositivos legais, alegando, em síntese, que:
+Art. 33 da lei n. 9.250/95 - "esse dispositivo cuida, exclusivamente, da disciplina relativa à incidência do Imposto de Renda na Fonte e na declaração de ajuste anual, prevendo expressamente a incidência sobre os benefícios recebidos de entidade de previdência privada (entre os quais se enquadra o complemento de aposentadoria)".
+Art. 7º da Lei n. 9.779/99 - "Os rendimentos do trabalho, com ou sem vínculo empregatício, e os da prestação de serviços, pagos, creditados, entregues, empregados ou remetidos a residentes ou domiciliados no exterior, sujeitam-se a incidência do imposto de renda na fonte há alíquota de vinte e cinco por cento" (fl. 208e).
+Art. 43 do CTN e 685, II, a do Decreto n. 3000/99 - na redação do artigo 685, do Regulamento do Imposto de Renda, aprovado pelo Decreto n. 3.000/99, foi retirada da alínea "c" do inciso I, a referência aos proventos de aposentadoria, de modo que sobre estes deixou de ser exigido na fonte, o Imposto de Renda à alíquota de 15%. para fins de aplicação da norma tributária (para o que não é relevante o artigo 68 da LC 109/2001) os valores recebidos a titulo de proventos de aposentadoria caracterizam rendimento do trabalho, pois basta que tenha sido decorrentes do trabalho, com ou sem vínculo empregatício tal como previsto no artigo 72 da Lei n. 9779/99, acima transcrito.
+Afirma que o art. 43 do Decreto n. 3.000/99, dispõe que os valores recebidos a título de pensões e de benefícios oriundos de previdência privadas consistem em rendimentos provenientes do trabalho assalariado ou assemelhados, sendo indevida qualquer outra interpretação que lhes retire tal natureza.  ..  não há como infirmar que os valores decorrentes de aposentadoria e sua complementação possuem inerente vínculo com o trabalho já exercido, porquanto a inexistência de relação de trabalho implicaria necessariamente inexistência de direito a percepção de valores a título de aposentadoria ou de complementação de aposentadoria.
+Com contrarrazões, o recurso foi admitido.
+O Ministério Público Federal opinou, pelo não provimento do recurso.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+No que se refere aos art. 43, XIV, 685, II, a, do Decreto n. 3000/99 , observo que a insurgência carece de prequestionamento, uma vez que não foi analisado pelo tribunal de origem.
+Com efeito, o prequestionamento significa o prévio debate da questão no tribunal a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+No caso, o tribunal de origem não analisou, ainda que implicitamente, a aplicação dos suscitados dispositivos.
+É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse sentido:
+ADMINISTRATIVO, PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENSINO SUPERIOR. PRETENSÃO DE DEVOLUÇÃO DAS TAXAS DE DIPLOMA. PRAZO PRESCRICIONAL. FATO DO SERVIÇO. ARTIGO 2º DA LEI N. 9.870/1999. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF.
+1. No caso, não há se falar em violação do art. 26, inciso II, do Código de Defesa do Consumidor, porquanto inaplicável o prazo decadencial a que alude este artigo, uma vez que não se trata de responsabilidade do fornecedor por vícios aparentes ou de fácil constatação existentes em produto ou serviço, mas de danos causados por fato do serviço, consubstanciado pela cobrança indevida da taxa de diploma, razão pela qual incide o prazo qüinqüenal previsto no art. 27 do CDC.
+2. O artigo 2º da Lei n. 9.870/1999 não foi apreciado pelo Tribunal de origem, carecendo o recurso especial do requisito do prequestionamento, nos termos da Súmula n. 282 do STF.
+3. Agravo regimental não provido.
+(AgRg no REsp 1327122/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/04/2014, DJe 15/04/2014, destaque meu).
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ENQUADRAMENTO. LICENÇA-PRÊMIO NÃO GOZADA. CÔMPUTO COMO TEMPO EFETIVO DE EXERCÍCIO. LEI 11.091/05. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A orientação do STJ é de que, se a licença-prêmio não gozada foi computada como tempo efetivo de serviço, para fins de aposentadoria, conforme autorização legal, não pode ser desconsiderada para fins do enquadramento previsto na Lei 11.091/05.
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ.
+4. A tese jurídica debatida no Recurso Especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1374369/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/06/2013, DJe 26/06/2013, destaque meu).
+Por outro lado, o tribunal de origem assentou que "os pecúlios recebidos por pessoas físicas residentes no exterior serão tributados à alíquota de 15% (quinze por cento), de modo que entendem os impetrantes estarem os proventos de aposentadoria complementar inseridos nesse conceito e, portanto, sujeitos à alíquota de 15%". Isso porque " ..  a complementação de aposentadoria possui natureza previdenciária, formando um pecúlio individualizado para cada participante do fundo de previdência privada, através das contribuições dos empregados e da aplicação de capital da patrocinadora do fundo, e que poderá ser resgatado por meio de parcelas mensais denominadas complementação de aposentadoria" (fl. 199e).
+A Recorrente defende a tese segundo a qual a complementação de aposentadoria possui natureza salarial, e por isso, está sujeita à tributação pelo imposto de renda à alíquota de 25%, apoiada em suposta violação aos seguintes dispositivos legais:
+Art. 33 da lei n. 9.250/95
+Sujeitam-se à incidência do imposto de renda na fonte e na declaração de ajuste anual os benefícios recebidos de entidade de previdência privada, bem como as importâncias correspondentes ao resgate de contribuições."
+
+Art. 7º da Lei n. 9.779/99
+Os rendimentos do trabalho, com ou sem vínculo empregatício, e os da prestação de serviços, pagos, creditados, entregues, empregados ou remetidos a residentes ou domiciliados no exterior, sujeitam-se a incidência do imposto de renda na fonte há alíquota de vinte e cinco por cento
+Art. 685. Os rendimentos, ganhos de capital e demais proventos pagos, creditados, entregues, empregados ou remetidos, por fonte situada no País, a pessoa física ou jurídica residente no exterior, estão sujeitos à incidência na fonte (Decreto-Lei nº 5.844, de 1943, art. 100, Lei nº 3.470, de 1958, art. 77, Lei nº 9.249, de 1995, art. 23, e Lei nº 9.779, de 1999, arts. 7º e 8º):
+I - à alíquota de quinze por cento, quando não tiverem tributação específica neste Capítulo, inclusive:
+ ..
+c) as pensões e proventos de aposentadoria, inclusive os pecúlios pagos por entidades sem fim lucrativo;
+Observo que os argumentos da Recorrente são inidôneos a infirmar o fundamento adotado pela Corte de origem, porquanto ausente comando suficiente nos dispositivos apontados para alterar a mencionada conclusão, haja vista que disciplinam relação jurídica diversa da dos autos.
+Considerando que a pretensão da Recorrente não é extraída dos artigos de lei federal apontados, revela-se incabível conhecer-se do recurso especial, incidindo, por analogia, a orientação contida na Súmula n. 284, do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUTORIZAÇÃO DE PESQUISA E LAVRA DE MINÉRIOS. PEDIDO PROTOCOLADO NO ÚLTIMO DIA DA LICENÇA ANTERIOR. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS CONSTANTES DOS AUTOS, SER DESARRAZOADO O INDEFERIMENTO DO REQUERIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ARTIGO 18, INCISO I, DO CÓDIGO DE MINERAÇÃO. DISPOSITIVO LEGAL QUE NÃO CONTEM COMANDO CAPAZ DE SUSTENTAR A TESE RECURSAL E INFIRMAR O JUÍZO FORMULADO PELO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF.
+ ..
+2. Não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contem comando capaz de sustentar a tese recursal e infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, da orientação posta na Súmula 284/STF.
+3. Agravo regimental não provido.
+(AgRg no AREsp 385.170/GO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE. NÃO CONHECIMENTO DO ESPECIAL. SÚMULAS 282, 284, 356/STF E 7/STJ.
+ ..
+3. O fato de constar na Lei de Licitações a previsão de empreitada integral não infirma, de plano, os dizeres do acórdão no sentido de que não há empecilho à inclusão do fornecimento de imóvel. O conteúdo dos dispositivos mencionados no Especial não têm comando suficiente para alterar o acórdão. Incidência da Súmula 284/STF.
+4. Em relação ao índice de reajuste utilizado e à caracterização do ato ímprobo, o acórdão se amparou nas conclusões de laudo pericial e afastou o prejuízo ao Erário. Aplica-se a Súmula 7/STJ à espécie.
+Ressalto que o art. 11 da LIA nem sequer foi prequestionado, o que também sugere o óbice das Súmulas 282 e 356/STF.
+5. Agravo Regimental não provido.
+(AgRg no AREsp 229.402/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/03/2013, DJe 08/05/2013).
+Outrossim, em relação ao art. 43 do Decreto n. 3000, o qual é apenas citado genericamente, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido, o que impede o conhecimento do recurso especial.
+Desse modo, em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284, do Colendo Supremo Tribunal Federal, in verbis: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
