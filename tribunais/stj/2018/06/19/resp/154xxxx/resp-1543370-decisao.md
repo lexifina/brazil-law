@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial, interposto por [NOME] e OUTROS, com amparo na alínea "c" do permissivo constitucional, no intuito de reformar o acórdão proferido, em sede de agravo de instrumento, pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 58/96, e-STJ):
+AGRAVO DE INSTRUMENTO. SEGURO HABITACIONAL. VÍCIO DE CONSTRUÇÃO. COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. INTERESSE DA UNIÃO E DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA. JUSTIÇA FEDERAL. MEDIDA PROVISÓRIA 513/2010.
+É da Justiça Federal a competência para apreciação das ações relativas aos vícios de construção, decorrentes dos imóveis adquiridos pelo Sistema Financeiro de Habitação, com cobertura securitária, pois, nos termos da medida Provisória nº 513/2010, os respectivos contratos passaram a ter cobertura do Fundo de Compensação de Variações Salariais, o qual é gerido pela Caixa Econômica Federal. Interesse da União e da CEF configurado.
+Uma vez que a MP 513/2010 regula os contratos firmados através do SFH, a espécie normativa tem aplicação imediata a todos os contratos, mesmo àqueles firmados antes de sua edição.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Nas razões do recurso especial (fls. 101/117, e-STJ), os recorrentes apontam dissídio jurisprudencial, sustentando, para tanto, a incompetência da Justiça Federal para processar e julgar a presente lide securitária.
+Sem contrarrazões.
+Após o exercício do juízo de conformidade (fls. 190/235, e-STJ), a Vice-Presidência do TJRS admitiu o recurso especial (fls. 240/254, e-STJ), ascendendo os autos a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Inicialmente, como é sabido, no julgamento do EDcl nos EDcl no REsp n.º 1.091.393/SC, restou firmado pelo Superior Tribunal de Justiça o posicionamento de que o ingresso da CEF na lide será possível a partir do momento em que a instituição financeira provar documentalmente o seu interesse jurídico, mediante a formulação de pedido formal e expresso no andamento da ação indenizatória.
+No caso dos autos, como registrou o acórdão recorrido, o interesse da CAIXA ECONÔMICA FEDERAL restou demonstrado porquanto, devidamente intimada, a instituição financeira peticionou e manifestou expressamente a sua vontade em integrar o litígio, tendo sido, inclusive, este o fundamento utilizado pela Corte Estadual para aplicar, na hipótese, o enunciado da Súmula 150 do STJ e, por conseguinte, determinar a remessa dos autos à Justiça Federal.
+É, aliás, o que se extrai do seguinte excerto a seguir transcrito (fl. 199, e-STJ):
+Ademais, cumpre destacar que a questão sobre a competência para análise e julgamento do presente feito está definitivamente superada, independentemente da legislação infraconstitucional aplicável à matéria, ante a manifestação da Caixa Econômica Federal no sentido de que possui interesse jurídico no presente feito, postulando sua inclusão como litisconsórcio passivo necessário, bem como ressaltando a competência estabelecida no art. 109, inciso I, da CF, com o encaminhamento dos autos à Justiça Federal.
+Nesse diapasão:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - SEGURO HABITACIONAL - MANIFESTAÇÃO DE INTERESSE JURÍDICO DA CAIXA ECONÔMICA FEDERAL - COMPETÊNCIA DA JUSTIÇA FEDERAL - APLICAÇÃO DA SÚMULA Nº 150 DO STJ - PRECEDENTES DO STJ.
+1. Apresenta manifestação de interesse da Caixa Econômica Federal no deslinde do feito, em obediência ao enunciado contido na Súmula 150 do STJ, compete à justiça federal decidir sobre a existência do interesse jurídico que justifique a presença, no processo, da união, suas autarquias ou empresas públicas. Precedentes desta Corte Superior.
+2. Agravo interno desprovido. (AgInt no AgRg no AREsp 18.192/SC, de minha relatoria, QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VÍCIOS CONSTRUTIVOS. INTERESSE DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. APÓLICE PÚBLICA. SÚMULA 150/STJ. COMPROMETIMENTO DO FCVS. SÚMULA 7 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1. A Segunda Seção do Superior Tribunal de Justiça, ao julgar os recursos sujeitos aos efeitos do artigo 543-C do CPC (repetitivos), REsp 1.091.363/SC, DJe de 25/05/2009, consolidou o entendimento no sentido de não existir interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário nas causas cujo objeto seja a pretensão resistida à cobertura securitária dos danos oriundos dos vícios de construção do imóvel financiado mediante contrato de mútuo submetido ao Sistema Financeiro da Habitação, quando não afetar o FCVS (Fundo de Compensação de Variações Salariais), sendo, portanto, da Justiça Estadual a competência para processar e julgar o feito.
+2. Por outro lado, "compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas" (Súmula 150/STJ).
+3. Na espécie, o aresto recorrido consignou que, com exceção de três autores, os contratos discutidos referem-se a apólices públicas, cabendo à Justiça Federal manifestar-se acerca do interesse, ou não, da Caixa Econômica Federal, o que está em harmonia com a referida súmula.
+4. Ademais, o acolhimento da pretensão recursal de que seja reconhecida a falta de comprometimento do FCVS demandaria o reexame das provas produzidas nos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+5. Agravo interno não provido. (AgInt no REsp 1.463.553/SC, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 09/12/2016)
+Aplica-se, portanto, ainda, o óbice da Súmula 83 do STJ, pois o acórdão recorrido se encontra em conformidade com a orientação desta Corte Superior.
+2. Ante o exposto, nego provimento ao recurso especial, com amparo no artigo 932 do NCPC c/c súmula 568/STJ.
+Publique-se. Intimem-se.
