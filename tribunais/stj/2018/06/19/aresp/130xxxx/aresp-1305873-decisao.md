@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo manejado pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão do Tribunal de Justiça daquele Estado que inadmitiu o recurso especial ante os seguintes fundamentos: (I) no que se refere à utilização da taxa SELIC na atualização dos débitos tributários, nega-se seguimento ao recurso em cumprimento ao disposto no art. 1030, I, "b", do CPC/2015; (II) o fundamento utilizado para interposição do recurso especial somente poderia ter sua procedência verificada mediante o reexame de direito local.
+A agravante alega que "não se discute, na realidade, a Taxa Selic, mas a constitucionalidade da lei estadual  .. . Discute-se que não ocorreu vício na disciplina da matéria pela Lei Estadual nº 13.918/2009" (fl. 241).
+É o relatório.
+De início, cumpre registrar que a Presidência da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo, em juízo de admissibilidade do recurso interposto, negou seguimento ao apelo especial, quanto à questão referente à utilização da taxa SELIC na atualização dos débitos tributários, considerando o julgamento definitivo do mérito do recurso especial repetitivo nº 879.844/MG (Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 11/11/2009, DJe 25/11/2009) em cumprimento ao disposto no art. 1030, I, b, do CPC/2015, motivo pelo qual não será apreciada tal questão.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial, a apontada aplicação do óbice previsto na Súmula 280/STF.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Ante o exposto, não conheço do agravo.
+Publique-se.
