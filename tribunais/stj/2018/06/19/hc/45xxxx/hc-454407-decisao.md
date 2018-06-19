@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SIDNEI [NOME] DA [NOME], [NOME], CLAUDENIR DA [NOME], JAIME DOS SANTOS e [NOME], apontando-se como autoridade coatora o Tribunal Regional Federal da 4ª Região (HC n.º 990.10.124848-4).
+Segundo os autos, após representação da autoridade policial, foi decretada a prisão preventiva dos pacientes pela prática, em tese dos delitos previstos nos arts. 330, 148 e 159, todos do Código Penal, nos seguintes termos (fls. 599/602):
+(..)
+Ademais, imprescindível destacar que essa situação de conflito pela posse da madeira de reflorestamento que está plantada nas propriedades rurais vizinhas à área das aldeias da TI I BI RAMA LA-KLANO já vem de longa data e se agrava a cada dia.
+Neste Juízo Federal já totalizam 19 ações geradas por esses conflitos, quais sejam:
+(..)
+Conforme bem referido pelo Ministério Público Federal esta não é a primeira vez que os indígenas descumprem a determinação judicial em questão. Nesse sentido, tem-se os documentos juntados no Evento 1 (INQ1, p. 9-13) e no Evento 6 (ANEX02, ANEX03 e ANEX04), os quais denotam a conduta reiterada dos indígenas, que já chegaram, inclusive, a colocar fogo na residência da família Orsi no ano de 2013.
+Assim, verifica-se de maneira concreta a utilidade e adequação na utilização da prisão cautelar para atender à necessidade de se garantir a ordem pública, evitando-se consequências ainda mais graves para os moradores daquela localidade (art. 312, CPP).
+O Superior Tribunal de Justiça tem admitido esse critério como hábil para justificar a prisão preventiva. Confira-se o seguinte julgado:
+(..)
+Pleiteada a revogação do ergástulo, fora rejeitada, ressaltando-se (fls. 694/696):
+Como bem afirmou o Ministério Público Federal, encontram-se presentes os pressupostos autorizadores da prisão preventiva, quais sejam, o fumus comissi delicti (prova da existência do crime  indícios suficientes de autoria), bem como o periculum libertatis (arts. 312 e 282, ambos do CPP).
+São inegáveis os crimes de desobediência e de privação da liberdade do casal Orsi. Como demonstrado no despacho do evento 8, já são 19 ações nesta 1ã VF Mafra em razão de invasões indígenas nas terras dos proprietários que se encontram ao redor da comunidade indígena. Inclusive, as terras de propriedade da família Orsi encontram-se invadidas e depredadas, como demonstrado no Interdito Proibitório 5002062- 11.2013.4.04.7214, com ordem liminar de não invasão descumprida, não tendo sido a primeira vez. Também a privação de liberdade é irrefutável, pois no interdito proibitório citado houve ordem judicial para a Polícia Federal resgatá-los, o que realmente ocorreu. Portanto, a privação da liberdade existiu e só foi solucionada com a presença da Polícia Federal, prova de que o casal Orsi não era apenas e tão somente convidados da comunidade indígena e de terceiros não indígenas.
+Ao contrário do que afirma a defesa, a autoria das ações encontra-se bem demonstrada, em princípio, pelas testemunhas que depuseram no inquérito policial Nº 5000710-42.2018.4.04.7214.
+Por fim, equivocada está a defesa quando alega que o pressuposto da garantia da ordem pública não foi objetivamente demonstrado. Ao longo do conflito por terras e madeira, já foram distribuídas nesta 1- Vara Federal de Mafra 19 ações, sendo que todas em razão de invasões indígenas. Nesta última invasão, além da desobediência de liminar, houve também depredação de patrimônio, bem como seqüestro do casal proprietário. Portanto, em razão do histórico de desavenças entre as partes, das reiteradas invasões e desobediências de ordens judiciais pelo grupo acautelado, de informações de que muitos da comunidade indígena são contrários aos atos criminosos por eles praticados, bem como da dificuldade histórica de intervenção do aparato policial na localidade, necessária se faz a prisão preventiva dos acusados.
+Portanto, foram efetivamente demonstrados a existência dos atos criminosos, a autoria, bem como a necessidade objetiva da prisão preventiva. A revogação deste tipo de prisão é regida pela cláusula rebus sic stantibus, portanto, quando houver alteração da situação ou se a medida não for mais necessária. Tenho que a situação fática não se alterou e também não há a demonstração de sua desnecessidade. Ao contrário, ao se colocar em liberdade o grupo haverá imenso risco de conflito tanto interno, quanto com a família Orsi o que causará um grande transtorno social e um imenso obstáculo também à conveniência da instrução criminal e para a aplicação da lei penal, em face de tal grupo amedontrar pessoas da própria comunidade indígena e não obedecer nem mesmo à autoridade da aldeia, como demonstrado no inquérito.
+(..)
+Inconformada, a defesa impetrou prévio writ perante a Corte de origem, cujo pleito preambular restou indeferido, em decisão assim fundamentada:
+Examinando os autos, verifico que, a par dos indícios de autoria e de materialidade delitivas, a autoridade impetrada lastreou seu entendimento em dados concretos.
+Quanto aos fundamentos da prisão preventiva, tenho que efetivamente hão de ser acauteladas a ordem pública, a conveniência da instrução criminal e a aplicação da lei penal, por meio da segregação dos pacientes.
+As circunstâncias do caso concreto - ante o histórico de desavenças entre as partes, as reiteradas invasões e desobediências de ordens judiciais pelos pacientes, bem como a dificuldade histórica de intervenção do aparato policial na localidade - e a gravidade dos delitos perpetrados denotam a necessidade da custódia cautelar.
+Ademais, o Magistrado de origem destacou que o conflito pela posse da madeira de reflorestamento, que está plantada nas propriedades rurais vizinhas à área das aldeias da TI IBIRAMA LA-KLANO, vem de longa data e piora a cada dia, tendo sido distribuídas naquele Juízo 19 (dezenove) ações, sendo que todas em razão de invasões indígenas. Ressaltou, ainda, que nesta última invasão, além da desobediência de liminar, houve também depredação de patrimônio, bem como sequestro do casal proprietário.
+Nesse contexto, revela-se inócua a aplicação de medidas cautelares diversas da custódia.
+Outrossim, saliento que o somatório das penas máximas previstas para as condutas, em tese, praticadas preenche o requisito do art. 313, inciso I, do CPP.
+Em suma, presentes indícios de autoria e materialidade e buscando-se com a custódia cautelar a garantia da ordem pública, da conveniência da instrução criminal e da aplicação da lei penal, não verifico, em sede de cognição sumária, flagrante coação ilegal apta a ensejar de plano o deferimento da medida liminar, revelando-se a medida, por ora, proporcional.
+Isso posto, INDEFIRO a liminar postulada.
+No presente mandamus, busca a defesa a superação da súmula 691 a fim de que seja reconhecida a ausência de fundamentação idônea a amparar a prisão preventiva.
+Destaca a vulnerabilidade do grupo indígena e diz que a situação delineada nos autos se refere a disputa por terras que lhes pertencem.
+Contesta materialidade e autoria delitivas.
+Ao final, pedem, liminarmente e no mérito, a revogação da prisão preventiva.
+É o relatório.
+Decido.
+Insurge-se o impetrante contra a decisão do Desembargador do Tribunal a quo, que indeferiu a liminar no habeas corpus originário.
+Vê-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior de Justiça, pois a matéria não foi examinada no Tribunal de origem, que ainda não julgou o mérito do writ originário, sob pena de indevida supressão de instância.
+Com efeito, a jurisprudência deste Tribunal firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade.
+Confiram-se, a propósito, os seguintes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO E NUMERAÇÃO SUPRIMIDA. PRISÃO PREVENTIVA FUNDAMENTADA. INDEFERIMENTO LIMINAR DO WRIT. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL - STF. AUSÊNCIA DE ILEGALIDADE PATENTE. AGRAVO REGIMENTAL DESPROVIDO.
+- Nos termos expostos na decisão agravada, não se constata nos autos constrangimento ilegal patente, apto a justificar a superação do enunciado n. 691 da Súmula do STF.
+Agravo regimental desprovido."
+(AgRg no HC 307.392/SP, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 11/11/2014, DJe 17/12/2014)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR DA IMPETRAÇÃO. ART. 210 DO REGIMENTO INTERNO DESTA CORTE. INFRAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU O PEDIDO DE LIMINAR. SÚMULA 691/STF. EXCEPCIONALIDADE NÃO EVIDENCIADA. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. Nos termos do art. 210 do Regimento Interno desta Corte Superior, o Relator poderá indeferir, liminarmente, pedido manifestamente incabível, ou quando for manifesta a incompetência do Tribunal para examinar o pleito, o que afasta a infração ao Princípio da Colegialidade.
+2. Não se verifica hipótese excepcional, que se caracteriza pela flagrante ilegalidade, verificável de plano, idônea a possibilitar a superação do óbice contido no enunciado da Súmula 691 do Supremo Tribunal Federal.
+3. A decisão agravada não merece reparos, porquanto proferida em consonância com a jurisprudência desta Corte Superior.
+4. Agravo Regimental improvido."
+(AgRg no HC 306.427/SP, Rel. Ministro WALTER DE ALMEIDA GUILHERME (DESEMBARGADOR CONVOCADO DO TJ/SP), QUINTA TURMA, julgado em 06/11/2014, DJe 11/11/2014)
+"HABEAS CORPUS. INDEFERIMENTO DA LIMINAR NO PRÉVIO WRIT. SÚMULA 691. EXISTÊNCIA DE ILEGALIDADE PATENTE. SENTENÇA. PRISÃO PREVENTIVA DECRETADA. FALTA DE INDICAÇÃO DE ELEMENTOS CONCRETOS SUFICIENTES A JUSTIFICAR A MEDIDA. ORDEM CONCEDIDA. CONFIRMADA A LIMINAR DEFERIDA.
+1. A aceitação de habeas corpus impetrado contra decisão que indeferiu a liminar em prévio writ se submete aos parâmetros da Súmula 691 do STF, somente afastada no caso de excepcional situação, o que se verifica na hipótese dos autos.
+2. A prisão processual deve ser configurada no caso de situações extremas, em meio a dados sopesados da experiência concreta, porquanto o instrumento posto a cargo da jurisdição reclama, antes de tudo, o respeito à liberdade. In casu, prisão provisória que não se justifica ante a fundamentação inidônea.
+3. Ordem concedida, ratificada a liminar, superando a Súmula nº 691 do STF, a fim de que o paciente possa aguardar em liberdade o trânsito em julgado da ação penal, se por outro motivo não estiver preso, sem prejuízo de que o Juízo a quo, de maneira fundamentada, examine se é caso de aplicar uma das medidas cautelares implementadas pela Lei n.º 12.403/11, ressalvada, inclusive, a possibilidade de decretação de nova prisão, caso demonstrada sua necessidade."
+(HC 284.999/SP, de minha relatoria, SEXTA TURMA, julgado em 23/09/2014, DJe 09/10/2014)
+No mesmo sentido, o enunciado sumular n.º 691 do Supremo Tribunal Federal, litteris:
+"Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Na hipótese, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto a decisão em xeque não se mostra teratológica, mas tão somente contrária aos interesses da defesa. Há de se respeitar a sequência dos atos processuais, notadamente a competência de cada tribunal, não podendo esta Corte se substituir ao colegiado de origem para conceder uma liminar que lá foi devidamente negada, com exposição de fundamentos bastantes.
+Sendo assim, o pedido revela-se manifestamente incabível, não havendo como dar prosseguimento ao writ, a teor do disposto no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, in verbis:
+"Art. 210. Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente."
+Ante o exposto, indefiro liminarmente o presente habeas corpus, com espeque no artigo 210 do Regimento Interno do Superior Tribunal de Justiça.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Sem recurso, arquivem-se os autos.
