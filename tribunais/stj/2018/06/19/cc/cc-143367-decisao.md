@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado, com fundamento no art. 105, I, "d", da Constituição Federal, entre o JUÍZO FEDERAL DA 1ª VARA DE LIMEIRA DA SJ/SP, o suscitante, e o JUÍZO FEDERAL DA 2ª VARA DE UBERABA DA SJ/MG, o suscitado.
+Na origem, constata-se "pedido de restituição do veículo Toyota, placa NKP 9118, formulado por [NOME], apreendido durante o cumprimento de mandado de prisão preventiva de [NOME], condenado à pena de 48 anos, 2 meses e 22 dias de reclusão, pelos crimes dos arts. 35 c.c 40 I e VII e 33 c.c. 40 VII da Lei nº 11.343/06 e do art. 12 da Lei nº 10.826/03".
+A Justiça Federal de Minas Gerais declinou da competência para analisar o pedido, nos seguintes termos:
+"(..) Conforme informado pelo Ministério Público Federal, o veículo objeto de pedido de devolução encontra-se apreendido no interesse do IPL nº 439/2013, em apuração da Delegacia de Polícia Federal de Piracicaba/SP" (e-STJ, fl. 46).
+Por sua vez, o Juízo Federal Paulista suscitou o presente conflito ao seguinte entendimento:
+"(..)
+Ocorre que, compulsando oa autos, inclusive com ançalise mais detida do CD de fl. 52 (cópia do IPL 439/2013), não encontrei nenhuma ordemde busca e apreensão ou auto lavrado pela Polícia Federal no inquérito em referência. O único auto de apreensão que existe é o de fl. 25,o qual claramente informa que o veículo Toyota Corolla XEi 2.0 flex, Placa NPL 9118, foi apreendido em decorrência do cumprimento do mandado de prisão preventiva expedido nos autos do processo criminal nº 4197-19.2013.4.01.3802 "(e-STJ, fl. 73).
+Nessa instância, o Ministério Público Federal manifestou-se pelo conhecimento do conflito e pela declaração de competência do Juízo suscitado (e-STJ, fls. 285-287).
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, I, "d", da Constituição Federal, razão pela qual passo ao seu exame.
+Cabe, em regra, ao Juízo que procedeu a apreensão do bem resolver questões pertinentes a sua eventual restituição.
+Destaco:
+"PENAL. CONFLITO DE COMPETÊNCIA. BENS APREENDIDOS. INEXISTÊNCIA DE VÍNCULO ENTRE OS FATOS QUE DETERMINARAM A APREENSÃO E AQUELES QUE ESTÃO SENDO APURADOS EM INQUÉRITO INSTAURADO PELA POLÍCIA FEDERAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL QUE DETERMINOU A BUSCA E APREENSÃO.
+01. Salvo situações excepcionais, a competência para processar e julgar pedido de restituição de bens apreendidos, ainda que se trate de dinheiro, é do Juízo que determinou a apreensão.
+Prevalece a regra não havendo relação entre os fatos que determinaram a apreensão do bem (dinheiro) e a instauração de inquérito policial para apuração de crime contra o sistema financeiro nacional.
+02. Conflito conhecido para declarar a competência do Juízo de Direito da Vara de Delitos de Drogas e Acidentes de Trânsito de Rio Branco/AC, ora suscitante." (CC 119.922/AC, Rel. Ministro NEWTON TRISOTTO (DESEMBARGADOR CONVOCADO DO TJ/SC), TERCEIRA SEÇÃO, DJe 09/10/2014, grifou-se)
+In casu, peço vênia para transcrever o trecho do bem lançado parecer do MPF que adoto como razões de decidir: "Extrai-se dos autos que o veículo em referência fora apreendido na posse de [NOME], durante o cumprimento de mandado de prisão preventiva expedido pelo Juízo Federal da 2ª Vara de Uberaba, ora suscitado, porém cumprido na cidade de Piracicaba-SP. Nesse sentido, consta no próprio auto de apreensão do veículo, ela decorreu do "cumprimento ao mandato de prisão preventiva expedido pelo Juiz da 2ª Vara Federal de Uberaba/MG, autos nº 4197-19.2013.4.01.3802, em poder de [NOME]". Ademais, consoante acentuado pelo juízo suscitante, após analisar o inquérito policial mencionado pelo juízo suscitado, "o veículo em questão foi apenas mencionado em diálogos interceptados nos autos do pedido de interceptação telefônica nº 0007688-38.2013.403.6143  em trâmite no juízo suscitante . Nesse procedimento criminal não houve determinação de busca e apreensão do automóvel. A propósito, [NOME] sequer chegou a ser denunciado nos processos criminais decorrentes do procedimento acima indicado, tampouco foi tomada alguma medida cautelar em relação a ele"" (e-STJ, fls. 286-287).
+Ante o exposto, conheço do conflito para declarar a competência do Juízo Federal da 2ª Vara de Uberaba da SJ/MG, o suscitado.
+Comunique-se. Publique-se.
+Cientifique-se ao Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
