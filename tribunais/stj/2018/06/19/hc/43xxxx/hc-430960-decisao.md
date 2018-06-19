@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de [NOME], no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTICA DO DISTRITO FEDERAL E DOS TERRITORIOS.
+Consta dos autos que o ora paciente foi condenado à pena de 56 (cinquenta e seis) anos e 02 (dois) meses de reclusão, em regime fechado, pela prática de diversas infrações penais.
+Nos autos da execução penal, a defesa requereu o deferimento do indulto de pena disciplinado no Decreto 5.925/04, a fim de beneficiar as execuções 8ª e 9ª, tendo o magistrado singular indeferido o pedido, por constatar não implementado o requisito objetivo.
+Inconformada, a defesa interpôs agravo em execução, o qual restou desprovido pelo Tribunal-Coator.
+No presente mandamus, a impetrante alega a existência de constrangimento ilegal, afirmando ter o paciente cumprido com todas as exigência estabelecidas pelo Decreto Prisional.
+Afirma que o período compreendido entre 11/02/2014 e 25/12/2014, referente à prisão cautelar do processo originário da execução 7ª, deve ser considerado no cálculo do lapso temporal exigido para concessão do benefício pleiteado.
+Sustenta que, uma vez realizada a unificação das penas, o tratamento conferido aos institutos da execução deve considerar a unicidade das reprimendas e não tratá-las de forma isolada.
+Argumenta inexistir impedimento para considerar o período de prisão cautelar referente a outro processo no cálculo do requisito objetivo necessário à concessão da comutação de pena inerente a delito diverso.
+Desse modo, requer a concessão da ordem, a fim de sanar a ilegalidade apontada, concedendo ao paciente o indulto de pena pleiteado.
+Informações às fls. 86/112.
+Parecer ministerial às fls. 114/121.
+É o relatório.
+A princípio, o pedido deduzido na inicial não comporta conhecimento na via eleita, já que formulado em flagrante desrespeito ao sistema recursal vigente no âmbito do Direito Processual Penal pátrio, tendo em vista a impetração se destinar a atacar acórdão contra o qual seria cabível a interposição de recurso específico para tal fim, nos termos do artigo 105, inciso II, alínea "a", da Constituição Federal.
+Nesses termos, o entendimento pacífico no âmbito deste Sodalício:
+HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. CONDENAÇÃO. SUBSTITUIÇÃO A RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. REGIME PRISIONAL MAIS GRAVOSO. POSSIBILIDADE, EM TESE. ANÁLISE DE CADA CASO. FUNDAMENTAÇÃO CONCRETA. CIRCUNSTÂNCIAS DO DELITO. AUSÊNCIA DE ILEGALIDADE. NÃO CONHECIMENTO. MATÉRIA AFETADA À SEÇÃO.
+1. Tratando-se de habeas corpus substitutivo de recurso próprio, inviável o seu conhecimento, cabendo a análise de flagrante ilegalidade.  ..
+3. Hipótese em que não há flagrante ilegalidade, haja vista que a Corte estadual invocou concretamente as circunstâncias do delito para justificar o regime prisional fechado, em consonância com a jurisprudência deste Superior Tribunal de Justiça e do Supremo Tribunal Federal. Foi indicada a concreta gravidade do crime (tentativa de matar mulher grávida de 4 meses, valendo-se das relações domésticas, mediante meio cruel e motivo fútil, inclusive na presença do filho de 4 anos da vítima e mediante "roleta russa").
+4. Writ não conhecido. (HC 362.535/MG, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 14/12/2016, DJe 08/03/2017)
+ Entretanto, o constrangimento apontado na inicial será analisado, a fim de se verificar a existência de flagrante ilegalidade que justifique a atuação de ofício por este Superior Tribunal de Justiça.
+No caso em exame, o ora paciente alega estar sofrendo coação ilegal com o indeferimento do pedido de indulto de pena previsto no Decreto 5.925/04, alegando ter cumprido com todos os requisitos estabelecidos pela norma.
+Sustenta inexistir impedimento para se considerar o período de prisão cautelar referente a outro processo no cálculo do requisito objetivo exigido para concessão da comutação de pena a delito diverso.
+Todavia, em que pesem os argumentos apresentados, a insurgência não merece prosperar.
+Não se desconhece a existência de previsão na jurisprudência desta Corte Superior acerca da possibilidade de detração do período de prisão cautelar para fins adimplemento do requisito objetivo exigido pelos Decretos Presidenciais.
+Confira-se precedente oriundo desta Quinta Turma:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. NOVA ORIENTAÇÃO JURISPRUDENCIAL. INDULTO. DECRETO N. 8.172/2013. REQUISITO OBJETIVO TEMPORAL. CÔMPUTO DA DETRAÇÃO COMO PERÍODO DE PENA CUMPRIDA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+I - Não mais se admite, perfilhando o entendimento do col. Pretório Excelso e da Terceira Seção deste Superior Tribunal de Justiça, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não-conhecimento da impetração.
+Contudo, no caso de se verificar configurada flagrante ilegalidade apta a gerar constrangimento ilegal, recomenda a jurisprudência a concessão da ordem de ofício.
+II - Segundo a jurisprudência desta Corte, para a análise do pedido de indulto, o magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República (precedentes).
+III - Para o cálculo do tempo de pena cumprido, requisito objetivo do indulto do art. 1º, inciso XIII, do Decreto n. 8.172/2013, impõe-se o cômputo do período de prisão cautelar do paciente, detraído da condenação. Parecer do Ministério Público Federal pela concessão da ordem.
+Habeas corpus não conhecido.
+Ordem concedida, de ofício, para cassar o v. acórdão ora objurgado e restabelecer a r. decisão de 1º grau que concedeu ao paciente o indulto do art. 1º, inciso XIII, do Decreto n. 8.172/2013.
+(HC 340.119/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/04/2016, DJe 05/05/2016)
+Todavia, nos termos da jurisprudência vigente nesta Corte Superior, a aplicação do instituto da detração penal em processos distintos requer o preenchimento de alguns requisitos, exigidos concomitantemente, dentre os quais: a) que o tempo de prisão a ser detraído se refira à segregação processual; b) que a sanção a ser detraída decorra de delito cometido em data anterior à referida custódia cautelar e c) que o processo no qual o requerente ficou preso cautelarmente tenha resultado em absolvição ou declaração de extinção da punibilidade do crime.
+A propósito, confira-se:
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. DENÚNCIA. TRÁFICO DE DROGAS. CONDENAÇÃO. PORTE DE DROGAS PARA USO PRÓPRIO. TEMPO DE PRISÃO PROVISÓRIA UTILIZADO PARA DECRETAR A EXTINÇÃO DA PUNIBILIDADE. DELITO QUE NÃO PREVÊ PENA PRIVATIVA DE LIBERDADE. DESPROPORCIONALIDADE. CONSTRANGI- MENTO ILEGAL VERIFICADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - A jurisprudência pacífica desta Corte superior admite a detração do tempo de prisão processual ordenada em outro processo em que o sentenciado foi absolvido ou foi declarada a extinção da punibilidade, desde que em relação a crimes cometidos anteriormente à custódia cautelar cujo lapso temporal se pretende descontar.
+IV - Feitas tais considerações, fica evidente que o indeferimento do pedido de detração configura flagrante constrangimento ilegal, uma vez que o tempo de prisão provisória foi utilizado como tempo de pena cumprida na sentença que extinguiu a punibilidade em razão do delito descrito no art. 28 da Lei n. 11.343/06, em franca desproporcionalidade.
+Habeas corpus não conhecido. Ordem concedida de ofício, para que seja possibilitada a detração do período em que o paciente ficou preso preventivamente nos autos da ação penal que desclassificou a conduta de tráfico para porte de droga para consumo pessoal, desde que em relação a crimes cometidos anteriormente.
+(HC 391.101/DF, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/10/2017, DJe 30/10/2017)
+HABEAS CORPUS SUBSTITUTIVO. INADMISSIBILIDADE. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME E EXTINÇÃO DA PRIMEIRA CONDENAÇÃO. TESES NÃO APRECIADAS NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DETRAÇÃO. CRIMES COMETIDOS APÓS A PRISÃO PROCESSUAL EM OUTRO PROCESSO. IMPOSSIBILIDADE. PRISÃO DOMICILIAR. NECESSIDADE DE CIRURGIA NÃO COMPROVADA. INDULTO E COMUTAÇÃO. CONCESSÃO DO SURSIS. PRESTAÇÃO DE SERVIÇOS À COMUNIDADE NO PRIMEIRO ANO DE PROVA. CUMPRIMENTO DE PARTE DA PENA ENCLAUSURADA. AUSÊNCIA DE COMPROVAÇÃO. REQUISITO DO ART. 1º, XI, DO DECRETO N. 7.420/2010 NÃO PREENCHIDO. AUSÊNCIA DE ILEGALIDADE MANIFESTA.
+ ..
+4. De acordo com os arts. 42 do Código Penal e 111 da Lei de Execução Penal, só é possível haver a detração do tempo de prisão cautelar ordenada em outro processo em que absolvido o sentenciado ou declarada extinta a punibilidade quando a data da prática do delito de que trata a execução seja anterior ao período pleiteado.
+5. O entendimento desta Corte Superior de Justiça é no sentido de que, excepcionalmente, é possível conceder ao preso provisório o benefício da prisão domiciliar, desde que se demonstre que o preso é portador de doença grave cujo tratamento seja incompatível com a assistência médica dentro do estabelecimento prisional.
+6. Para que seja concedido o indulto ou a comutação, nos termos do art. 1º, XI, do Decreto n. 7.420/2010, nos casos em que foi concedido o benefício do sursis ou substituída a pena privativa por restritiva de direitos, faz-se necessário que o condenado tenha cumprido parte da pena preso, ainda que por conversão.
+7. Writ não conhecido.
+(HC 270.808/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/05/2014, DJe 16/06/2014)
+Na espécie, conforme detalhado no acórdão impugnado, o processo no qual o paciente ficou preso cautelarmente  ação penal n.º 2005.01.1.106479-2  diz respeito a período anterior à publicação da norma, bem como resultou na condenação do paciente à pena de 05 (cinco) anos e 04 (quatro) meses de reclusão (fl. 27), impedindo, portanto, a detração do tempo de cumprimento da detenção provisória, ante o não preenchimento do requisito exigido pela jurisprudência, qual seja, a absolvição ou o reconhecimento da extinção da pretensão punitiva.
+Logo, in casu, constatado a ausência de cumprimento do lapso temporal exigido pela norma, não há como ser deferido ao paciente o benefício pleiteado.
+Ante o exposto, com fundamento no artigo 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não se conhece do habeas corpus.
+Publique-se. Intime-se.
+Após ciência do Ministério Público Federal, arquivem-se os autos.
