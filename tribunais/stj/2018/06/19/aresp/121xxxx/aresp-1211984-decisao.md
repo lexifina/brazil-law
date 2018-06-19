@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo desafiando decisão a origem que não admitiu recurso especial interposto contra acórdão, proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. EMBARGOS À EXECUÇÃO. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. PREVI. AÇÃO REVISIONAL ANTERIORMENTE AJUIZADA. LITISPENDÊNCIA. EXTINÇÃO DO FEITO MANTIDA.
+Considerando que os presentes embargos à execução apontam excesso de execução em razão de alegada existência de encargos abusivos, que são objeto de ação revisional anteriormente proposta, verificada a litispendência na hipótese, razão pela qual impositiva a manutenção da sentença de extinção do feito, sem julgamento do mérito.
+APELO DESPROVIDO. UNÂNIME. (fl. 349)
+Em suas razões recursais, a parte recorrente alega dissídio jurisprudencial e ofensa aos arts. 337, 1º, 2º e 3º e 525 do CPC/2015; 313, V, "a", 783 e 803, I, do CPC/2015, sob o argumento de inexistência de litispendência; necessidade de suspensão do feito pela nulidade do processo executivo; existência de excesso de execução.
+Não tendo sido admitido o recurso na origem foi interposto o presente agravo.
+É o relatório. Passo a decidir.
+Cumpre salientar que o recurso foi interposto já na vigência do CPC/2015, de maneira que incide, na espécie, o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Quanto à listispendência, excesso de execução e nulidade da execução o colendo Tribunal de origem asseverou que as questões ora alegadas são as mesmas já expostas em demanda anteriormente ajuizada pela parte recorrente.
+Eis o teor do acórdão recorrido:
+"Inicialmente, consigno que eventual excesso de execução, decorrente do não abatimento dos valores consignado em juízo nos autos da ação revisional que propôs, não traduz iliquidez do título, hábil a tornar nula a execução. (..) No que tange à litispendência, verifica-se que os presentes embargos à execução reprisam as teses aventadas na ação revisional proposta no ano de 2005, que está pendente de julgamento pelo Superior Tribunal de Justiça, à medida que apontam excesso de execução em razão da existência de encargos abusivos, quais sejam, tabela Price, capitalização, multa compensatória de 10%, e pretendem a repetição dos valores indevidamente pagos, pontos estes já analisados na referida ação revisional, cujo dispositivo assim redigido: "Em face do exposto, JULGO PARCIALMENTE PROCEDENTE o pedido, nos termos do artigo 269, inciso I, do CPC, a fim de:
+a) Arredar a aplicação da Tabela Price e, por consequência, a capitalizarão mensal, e recalcular os valores com a incidência de juros simples;
+b) Excluir o Coeficiente de Equalizacão de Taxas (CET) das prestações mensais do saldo devedor;c) Determinar o reajuste da parcelas, conforme os exatos termos da cláusula 11 ;
+d) Manter a TR como fator de correção monetária;
+e) Manter a multa compensatória de 10%;
+f) Descaracterizar a mora e autorizar a compensação de eventuais valores pagos indevidamente, mantendo as demais disposições contratuais. ".
+Diante disso, considerando ambas as ações possuem identidade de partes e causa de pedir e que objetivam o reconhecimento do excesso de execução em razão de alegados encargos abusivos, não merece reparos a sentença que julgou extinto o feito, sem julgamento do mérito, em razão da caracterização da litispendência". (n.g.)
+Como visto, o col. Tribunal à luz do contexto fático-probatório dos autos, manteve a sentença de extinção do feito por litispendência asseverando que os presentes embargos à execução reprisam as teses aventadas na ação revisional proposta no ano de 2005, que está pendente de julgamento pelo Superior Tribunal de Justiça.
+De fato, constatado que ambas as ações possuem identidade de partes e mesma causa de pedir que objetiva o reconhecimento do excesso de execução, correto o reconhecimento da litispendência, tal como asseverado pelas instâncias ordinárias.
+Nesse contexto, a alteração das premissas fáticas adotadas na origem, no sentido de acolhimento das alegações de não ocorrência de litispendência e da existência de excesso de execução, ensejaria, necessariamente, o reexame dos aspectos concretos da causa, o que é vedado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte. Nesse sentido: AgRg no AREsp 500.636/RJ, Rel. Ministra ASSUSETE MAGALHÃEs, Segunda Turma, DJe 09/03/2016).
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
