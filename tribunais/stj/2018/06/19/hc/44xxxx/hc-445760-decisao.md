@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado pela Defensoria Pública estadual em benefício de [NOME], em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, no HC n.2214796-85.2017.8.26.0000.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 3 (três) ano e 4 (quatro) meses de reclusão, em regime fechado, mais pagamento de 334 (trezentos e trinta e quatro) dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/06, c/c art. 29, caput, do Código Penal (fls. 25-33).
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal de origem, que, por unanimidade, denegou a ordem, em v. acórdão assim ementado:
+"Habeas corpus. TRÁFICO ILÍCITO DE DROGAS. Remédio heroico que veicula inconformismo em face da sentença de Primeiro Grau, quanto ao regime prisional e à substituição da pena privativa de liberdade por restritivas de direitos. Inadmissibilidade. Matéria que enseja impugnação via recurso de apelação, já interposta. Sentença condenatória que fundamenta as posições nela adotadas, não incorrendo em teratologia, nem importando em evidente constrangimento ilegal. Da mesma forma, a negativa do apelo em liberdade foi fundamentada. Ordem denegada" (fl. 70).
+Dai o presente writ, onde a impetrante alega, em síntese, a ocorrência de "ato ilegal que ceifa a liberdade do paciente - manutenção da preventiva, imposição de regime inicial fechado, com a desconsideração do período de prisão preventiva para a imposição do regime inicial de cumprimento de pena mais brando - que o impetrante se insurge, requerendo digne-se Vossas Excelências apreciarem a fundamentação abaixo transcrita, determinando-se a imediata alteração do regime inicial de cumprimento de pena" (fl. 5).
+Requer, assim, a concessão da ordem para que seja fixado ao regime inicial aberto para resgate da pena, com fulcro no art. 387, §2º, do Código de Processo Penal, c/c art. 33, §2º, "c" e §3º, do Código Penal.
+O pedido liminar foi indeferido às fls. 82-83.
+Informações prestadas às fls. 90-91.
+O Ministério Público Federal, às fls. 124-125, manifestou-se pelo não conhecimento do writ, em parecer assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. CONCESSÃO DE INDULTO. EXTINÇÃO DA PUNIBILIDADE. PERDA DO OBJETO" (fl. 124).
+É o relatório.
+Decido.
+O presente writ está prejudicado em razão da perda de seu objeto.
+Segundo informações prestadas pelo eg. Tribunal de origem às fls. 90-91: " ..  nos referidos assentamentos eletrônicos, consta o registro da Execução Criminal nº 0001119-92.2018.8.26.0154 (tendo como origem a ação penal em comento), em trâmite na Unidade Regional de Departamento Estadual de Execução Criminal - Deecrim 8ª RAJ - Comarca de São José do Rio Preto, na qual, por r. decisão prolatada pela Juíza aos 20 de abril transato, foi concedido indulto para o paciente, com fundamento no art. 1º, IV, do Decreto nº 9.246/17, sendo julgada extinta a punibilidade, nos termos do art. 107, II, do Código Penal, e determinada a expedição de alvará de soltura. Diante do r. decisum, o Ministério Público interpôs o Agravo em Execução Penal nº 0001449-89.2018.8.26.0154, o qual foi recebido nesta Casa em 27 de abril último, estando em fase de distribuição".
+Desta forma, tendo sido concedido indulto para o paciente e julgado extinta a sua punibilidade, com consequente expedição de alvará de soltura, resta prejudicado o pedido constante do presente mandamus de fixação do regime aberto, pela perda superveniente do seu objeto.
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ, julgo prejudicado o habeas corpus.
+P. e I.
