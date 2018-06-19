@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se recurso especial interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO NORDESTE DO BRASIL - CAPEF, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado:
+"AGRAVO REGIMENTAL EM APELAÇÃO. PREVIDÊNCIA PRIVADA. CAPEF. COMPETÊNCIA - JUSTIÇA ESTADUAL. SUPRESSÃO DE PARCELA DE PENSÃO - HORAS EXTRAORDINÁRIAS - IMPOSSIBILIDADE - ATO JURÍDICO PERFEITO E DIREITO ADQUIRIDO. JURISPRUDÊNCIA CONSOLIDADA - MONOCRÁTICA MANTIDA.
+1. Tratam os autos de ação ordinária formulada por ex- funcionário do BANCO DO NORDESTE DO BRASIL, o qual participava da CAPEF CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO NORDESTE, entidade fechada de previdência privada, vertendo mensalmente contribuição com o escopo de, quando da aposentadoria, auferir o benefício vitalício de uma renda complementar, nos termos mencionados no estatuto daquela entidade.
+2. A Justiça Comum é competente para processar e julgar controvérsia relativa à complementação de aposentadoria paga por entidade de previdência privada.
+3. Implementadas as condições contidas no regulamento da CAPEF, passou o apelado à inatividade, iniciando a percepção do benefício para o qual contribuíra regularmente.
+4. Consoante já pacificou a jurisprudência desta Eg. Corte de Justiça, não pairam dúvidas de que a retirada unilateral de parcela vencimental do recorrido é, deveras, inconstitucional, pois, além de se traduzir em frontal violação aos princípios insculpidos no art. 5.º, XXXVI, da CF/88, que consagram o direito adquirido e o ato jurídico perfeito, constitui medida desarrazoada, mormente porque tolhido parte dos proventos de seus pensionistas com supedâneo em um desequilíbrio atuarial ao qual sequer deram causa.
+5. Decisão Monocrática proferida na esteira da jurisprudência dominante nesta Corte e no STJ.
+6. Agravo Regimental desprovido" (fls. 239-240 e-STJ).
+Opostos embargos de declaração, foram rejeitados (fls. 261-267 e-STJ).
+No recurso especial, a parte recorrente, além de indicar divergência jurisprudencial, aponta violação dos seguintes dispositivos:
+(i) arts. 58 da Lei nº 6.435/1977 e dos arts. 2º, 6º 7º, 9º, 18 e 21 da Lei nº Complementar nº 105/2001 sob o argumento de que não há direito adquirido em relação ao valor do benefício de complementação de aposentadoria, sem que as reservas necessárias ao seu custeio tenham sido efetivamente constituídas;
+(ii) arts. 334, I e IV, e 372 do Código de Processo Civil de 1973, porquanto foi desconsiderado o parecer atuarial existente nos autos, sob a alegação de que se trata de documento produzido unilateralmente.
+Não foram apresentadas contrarrazões (fl. 315 e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Observe-se os seguintes trechos do acórdão impugnado, relevantes para a solução da controvérsia:
+"(..)
+No mérito, depreende-se que, implementadas as condições contidas no regulamento da CAPEF, passou o apelado à inatividade, iniciando a percepção do benefício para o qual contribuíra regularmente.
+Ocorre que, sob a alegativa de problemas atuariais, que poderiam levar à bancarrota a entidade apelada, esta optou pela exclusão de parcela do benefício, correspondente à prorrogação do expediente, isso após um estudo levado a efeito pela própria instituição apurar que referida verba fora incluída no cálculo com insuficiência da correspondente reserva.
+Denota-se que, da análise do contexto probatório trazido aos autos, a CAPEF não conseguiu demonstrar os argumentos que a levaram à medida extrema de reduzir os benefícios percebidos pela recorrida. Um estudo, por mais científico que seja, deve observar, para efeito de prova, o necessário contraditório; de outro modo, só pode ser tido como documento unilateral, caso não venha a ser jurisdicionalizado.
+Esse aspecto da contenda, no entanto, não traduz o cerne da questão, que vem a ser o ato jurídico perfeito, traduzido na aposentação atendidos os requisitos exigidos à época; e o conseqüente direito adquirido.
+Cumpre observar, de todo modo, que o direito adquirido e o ato jurídico perfeito, juntamente com a coisa julgada encontram proteção em dois níveis: em nível infraconstitucional, na LICC, art. 6º, e em nível constitucional, art. 5º, XXXVI, C.F.
+(..)
+Por outro lado, o fato de as empresas de previdência privada complementar se acharem sob a fiscalização do poder público não confere a este a legitimação para interferir nos regramentos contratuais livremente estabelecidos, em estrita conformidade com a legislação vigente ao tempo da celebração do acordo contratual, campo reservado à esfera de atuação da autonomia da vontade, como corolário imediato do princípio constitucional da liberdade.
+Há de se reconhecer que a teoria administrativa do fato do príncipe, da imprevisão contratual e das circunstâncias supervenientes somente goza de aplicação na seara dos contratos públicos, não dos acordos privados. O controle do poder público sobre a matéria de fundo do recurso diz respeito à entidade privada e sua forma de atuação, não podendo invadir a esfera privada da autonomia nem podendo significar gravames e penalidades a pessoas físicas que com aquela contratem.
+Mediante o exposto, reitero o entendimento lançado na decisão monocrática antes proferida, rejeitando, por conseguinte, o agravo regimental interposto" (fl. 237-238 e-STJ - grifou-se).
+O Supremo Tribunal Federal, no julgamento do RE n.º 594.296/MG em sede repercussão geral, assentou que, "conquanto a Administração Pública possa - e deva - revogar os seus próprios atos praticados sob a eiva da nulidade ou ilegalidade, caso desses tenha decorrido efeitos concretos, é necessário prévio processo administrativo, a fim de assegurar o respeito aos princípios do contraditório e ampla defesa" (REsp 476.387/RS, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 18/02/2014, DJe 12/03/2014).
+Este princípio estende-se também à entidade de previdência privada que não pode alterar unilateralmente o benefício sem oportunizar ao beneficiário o direito de defesa. Neste sentido, o Tribunal de origem manteve o benefício por considerar que houve violação aos princípios constitucionais do contraditório e ampla defesa, do direito adquirido e do ato jurídico perfeito, juntamente com a coisa julgada (art. 6º da LINDB, e art. 5º, XXXVI, LIV e LV, da Constituição Federal.
+Assim, observa-se que a pretensão deduzida não merece acolhimento, pois diante da desobediência aos preceitos constitucionais do devido processo legal e do contraditório, não há como analisar a aplicação do teor do art. 58, parágrafo único, da Lei Federal n. 6.435/77.
+Por fim, quanto à perícia atuarial, devem ser levados em consideração os princípios da livre admissibilidade da prova e do livre convencimento do juiz, que permitem ao julgador determinar a produção das provas que entender necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias.
+Portanto, a conclusão do Tribunal de origem acerca do comprometimento da perícia atuarial, em razão da sua unilateralidade, decorreu da convicção extraída da análise dos fatos e das provas do processo. Rever tais fundamentos importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal ante o teor da Súmula nº 7/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
