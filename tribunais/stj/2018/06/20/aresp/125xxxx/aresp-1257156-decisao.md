@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENHORA SOBRE O FATURAMENTO DA EMPRESA. POSSIBILIDADE. ALTERAÇÃO. SÚMULA N. 7 DO STJ. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por COTRIJUI - COOPERATIVA AGROPECUÁRIA E INDUSTRIAL contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 744):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO.
+Pedido de penhora sobre o faturamento de empresa. Possibilidade, ainda que se trate de cooperativa.
+Ausência de vulneração ao teor do artigo 850 do CPC, pois a devedora não comprova ou indica a existência de outros bens passíveis de constrição.
+Penhora em 10% faturamento líquido que, no caso, não se revela excessiva.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 744-747), a recorrente apontou violação dos arts. 805 e 1.021, § 4º, do Código de Processo Civil de 2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que a penhora que sobre o faturamento, e não sobre o resultado positivo, inviabiliza a atividade.
+Foram apresentadas contrarrazões (e-STJ, fls. 796-808).
+Juízo de admissibilidade negativo (e-STJ, fls. 811-816).
+Brevemente relatado, decido.
+O Tribunal estadual, ao analisar o conteúdo fático-probatório dos autos, concluiu que a penhora de 10% sobre o faturamento da recorrente não inviabiliza sua atividade empresarial, que não foram indicados meios menos gravosos para a satisfação do crédito, e que a empresa não apresenta lucro (resultados positivos) já há algum tempo.
+A decisão foi fundamentada nos seguintes termos (e-STJ, fls. 746-747):
+Sucede que tal argumentação não procede, pois em momento algum a devedora, ora agravante, sinalou intenção real de pagamento do débito, tampouco indica que há outros bens livres e desembaraçados para satisfazer a dívida.
+Nesse rumo, não há vulneração ao teor do artigo 805 do CPC ou ao princípio da menor onerosidade.
+(..)
+Embora a agravante esteja em processo de recuperação, já ostenta esta condição há algum tempo e, até agora, nada em concreto quanto à reestruturação é possível aquilatar, já que até mesmo o passivo da empresa vem aumentando, conforme é possível de ver dos próprios balanços apresentados na petição de agravo.
+De outro lado, a determinação de penhora consistente em 10% do faturamento líquido da empresa está dentro do percentual admitido pela Corte Superior, não havendo, ademais, comprovação de que tal inviabiliza o exercício econômico por parte da pessoa jurídica.
+Releva ponderar, noutro norte, que o requerimento para que a penhora se dê sobre o "faturamento líquido" da pessoa jurídica é pretensão cujo acolhimento não se faz viável, pois a recorrente apresenta expressivo balanço contábil negativo, não havendo, assim, por ora, lucro.
+Nesse contexto, reverter a conclusão do Tribunal local para acolher a pretensão recursal quanto à penhora sobre o faturamento da empresa demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO CÓDIGO DE PROCESSO CIVIL DE 1973. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA SOBRE O FATURAMENTO LÍQUIDO DA EMPRESA. POSSIBILIDADE. REQUISITOS. PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Nos termos do Enunciado Administrativo n. 2 do STJ, "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça". 2. Na esteira da jurisprudência do Superior Tribunal de Justiça, não há vedação legal que impeça, em caráter excepcional, a imposição de penhora sobre o faturamento da sociedade empresária, quando observados, cumulativamente, os seguintes requisitos: I) inexistência de bens passíveis de garantir a execução ou que sejam de difícil alienação; II) nomeação de administrador (CPC, art.
+655-A, § 3º); e III) fixação de percentual que não inviabilize a atividade empresarial.
+3. O STJ tem mantido penhoras do faturamento líquido, com vistas a, por um lado, em não existindo patrimônio outro suficiente, disponibilizar forma menos onerosa para o devedor e, por outro lado, garantir de forma idônea e eficaz a satisfação do crédito, atendendo, assim, ao princípio da efetividade da execução. 4. In casu, o exame acerca da existência de outros bens passíveis de serem penhorados, inclusive já ofertados nos autos, ou mesmo de que a determinação de penhora de 20% do faturamento da empresa executada traduz-se em medida desarrazoada, demandaria a revisão de matéria fática, o que é defeso em sede de recurso especial, nos termos da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 111.531/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 22/03/2018, DJe 27/03/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA SOBRE FATURAMENTO DA EMPRESA. POSSIBILIDADE. PRINCÍPIO DA MENOR ONEROSIDADE. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA. 1. Inexiste afronta ao art. 535 do CPC/1973 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. 2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ. 3. No caso concreto, a análise das razões apresentadas pela recorrente, de que a penhora sobre o faturamento bruto da empresa colocaria em risco a atividade empresarial, demandaria o revolvimento de fatos e provas, vedado em recurso especial. 4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.050.671/SP. Relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 23/8/2017).
+A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
