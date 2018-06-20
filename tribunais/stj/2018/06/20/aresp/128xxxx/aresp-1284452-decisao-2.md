@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DANO MORAL. VALOR FIXADO PELA CORTE DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO CEARÁ contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 07 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 369):
+CONSTITUCIONAL. CIVIL. ADMINISTRATIVO. PROCESSUAL CIVIL.
+JULGAMENTO ANTECIPADO DA LIDE. ALEGAÇÃO DE CERCEAMENTO DO DIREITO DE DEFESA. AUSÊNCIA DE PROVA QUANTO AO PREJUÍZO SOFRIDO. NÃO CARACTERIZAÇÃO DE NULIDADE DA SENTENÇA PROFERIDA. PRECEDENTES DO STJ. PRELIMINAR AFASTADA. RESPONSABILIDADE CIVIL DO ESTADO. CONSTRANGIMENTO PRATICADO POR ATUAÇÃO ILEGAL E ABUSIVA DE AUDITOR FISCAL. OCORRÊNCIA DE PRISÃO ILEGAL. DANO MORAL CONFIGURADO. INDENIZAÇÃO ARBITRADA NA SENTENÇA NO VALOR DE R$ 150.000,00 (CENTO E CINQUENTA MIL REAIS). VALOR NÃO CONDIZENTE COM A JURISPRUDÊNCIA DO STJ EM CASOS ANÁLOGOS. REDUÇÃO PARA O MONTANTE DE R$ 50.000,00 (CINQUENTA MIL REAIS) REMESSA NECESSÁRIA E APELAÇÃO DO RÉU CONHECIDAS E PARCIALMENTE PROVIDAS. SENTENÇA REFORMADA NO CAPÍTULO REFERENTE AO VALOR DA INDENIZAÇÃO POR DANOS MORAIS.
+No recurso especial o recorrente alega violação do artigo 944 do CC/2002, sob o argumento de que o valor arbitrado a título de danos morais é exorbitante, implicando em enriquecimento sem causa pela parte contrária.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presente o óbice apontado na decisão agravada.
+É o relatório. Decido.
+Verifica-se que a Corte de origem, após ampla análise do conjunto fático-probatório, reduziu o montante fixado pela sentença a título de dano moral, fixando o valor de R$ 50.000,00, por entender que era o adequado e proporcional à compensação do dano moral sofrido, verbis (fls. 382/383):
+Pois bem, na espécie, resta induvidoso que os autores/apelados foram submetidos a inúmeros constragimentos por decorrência da atuação despropositada dos servidores estatais. Tiveram, com efeito, sua honra, moral e dignididade vilipendida em razão dos abusos cometidos pelos agentes estatais.
+Entretanto, em que pese a inegável gravidade do abalo moral sofrido, julgo necessário reduzir o patamar da indenização para valor congruente com os parâmetros quantitivos já demonstrados acima.
+Sob tal perspectiva, e tendo em vista o mal-estar psicológico sofrido pelos apelados, uma vez que acusados injustamente de violação à ordem jurídico- econômica (pg. 127/129), o que culminou na apreensão indevida de mercadoria de sua propriedade; haja vista, ademais que o autor/recorrido, Sr. [NOME] foi submetido ao vexame público, pois preso em flagrante diante da vizinhança, fregueses e de sua própria família; não olvidando, porém, que a detenção, no caso, foi de curta duração, pois o mesmo foi liberado na sequência, face ao pagamento de fiança arbitrada pela autoridade policial responsável; diviso necessária a reforma da sentença recorrida, para o fim de estipular a indenização por danos morais no montante de R$ 50.000,00 (CINQUENTA MIL REAIS) valor que se mostra coerente com os danos sofridos, de acordo com a jurisprudência dos tribunais brasileiros em hipóteses semelhantes a observada nos autos.
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
