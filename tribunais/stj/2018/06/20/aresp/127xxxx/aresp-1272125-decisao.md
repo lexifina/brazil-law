@@ -1,0 +1,37 @@
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. CORRUPÇÃO PASSIVA. PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por WILLIAN THIAGO GARCIA FRANCO contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 332):
+"Art. 333, parágrafo único, CP - Absolvição - Inviável - Autoria e materialidade comprovadas - Absolvição do delito do artigo 313-A do CP - Matéria analisada em primeiro grau - Exclusão da causa de aumento Impossibilidade - Fatos descritos corretamente na exordial - Pena e regime inicial de cumprimento mantidos Recurso desprovido."
+Nas razões do recurso especial, a defesa alega violação aos artigos 333, § único e 313-A, ambos do Código Penal, ao argumento de que o delito de corrupção passiva deve ser absorvido pelo crime de inserção de dados falsos no sistema de informações, em razão da incidência do princípio da consunção.
+Apresentadas as contrarrazões (fls. 366-379), sobreveio juízo negativo de admissibilidade com fundamento na Súmula 7/STJ (fls. 382-383).
+Nas razões do agravo postula pelo processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão (fls. 390-392).
+O Ministério Público Federal apresentou parecer pelo conhecimento do agravo e pelo desprovimento do recurso especial (fls. 424-426).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Depreende-se dos autos que o recorrente foi condenado à pena de 3 anos de reclusão, em regime aberto, como incurso nas sanções do art. 333, parágrafo único, do Código Penal.
+Em segunda instância, o eg. Tribunal a quo negou provimento ao apelo defensivo, mantendo incólume a r. sentença condenatória.
+Em suas razões, o recorrente aduz que (fl. 360):
+"Ou seja, no caso vertente o crime de corrupção passiva deveria ter sido absorvido pelo crime de inserção de dados falsos no sistema de informações, em atenção ao princípio da consunção.
+Não obstante o entendimento do Nobre Relator Desembargador, em nenhum momento ficou comprovado que o recorrente ofereceu vantagem ilícita a funcionário público para determina-lo a praticar ato de ofício, pelo contrário, o farto conjunto probatório produzido revela que o recorrente sequer conhecia qualquer funcionário do Ciretran local."
+No entanto, o v. acórdão recorrido deixou consignado que, verbis (fls. 339-340):
+"Assim, a prática do crime de corrupção ativa restou inequívoca, sendo robusto e harmônico o conjunto probatório, não restando dúvidas acerca da materialidade e da autoria do crime.
+A condenação era de rigor. Bem fundamentada a sentença, não havendo qualquer reparo a ser feito.
+O delito previsto no artigo 313-A do Código Penal foi acertadamente afastado pela magistrada sentenciante, pois "o fato mais amplo e grave (corrupção ativa) deve consumir e absorver o fato menos amplo e grave (inserção de dados falsos nos sistemas informatizados da Administração Pública), o qual atua como meio normal de preparação ou execução daquele, cometido com a mesma finalidade prática atinente àquele crime". Portanto, o acusado foi absolvido deste delito, restando prejudicado o pleito defensivo quanto a isso.
+Também não há cabimento no requerimento de aplicação do princípio da consunção pelo crime de inserção de dados falsos nos sistemas informatizados da Administração Pública, haja vista que o dolo e a conduta do acusado se subsumem ao descrito no delito de corrupção ativa e não ao previsto no artigo 313-A do CP. Ademais, esta infração foi o meio pelo qual se concretizou o desejado pelo apelante ao praticar a conduta do artigo 333 da lei penal, ou seja, a obtenção da Carteira de Habilitação sem se submeter aos testes exigidos. Assim, o crime de corrupção ativa deve absorver o outro, exatamente como fez a MM. Juíza a quo."
+Verifica-se, portanto, que, no caso, para acatar a tese sustentada pelo recorrente quanto à absorção do delito de corrupção ativa pelo crime de inserção de dados falsos nos sistemas informatizados da Administração Pública, seria necessário o revolvimento do material fático-probatório, o que não se admite na via eleita, na linha do que dispõe a Súmula 7 desta eg. Corte.
+Mutatis mutandis:
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. FRAUDE À LICITAÇÃO. ELEVAÇÃO ARBITRÁRIA DE PREÇOS PARA LICITAÇÃO. MALVERSAÇÃO DE VERBAS DE SAÚDE.  ..  REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE DE VERIFICAÇÃO NA VIA ELEITA. RECURSO ORDINÁRIO DESPROVIDO.
+ ..
+V - Na hipótese, não há falar em aplicação do princípio da consunção entre o crime de resistência e o de desobediência, mormente neste momento processual, já que a avaliação da sua incidência demandaria profunda valoração probatória, devendo ser sopesada por ocasião da prolação da sentença.
+Recurso ordinário desprovido" (RHC n. 59.287/RS, Quinta Turma, de minha relatoria, DJe de 25/11/2015).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 593, III, "D", DO CPP. DECISÃO CONTRÁRIA À PROVA DOS AUTOS. VIOLAÇÃO AOS ARTS. 59 E 68, AMBOS DO CP. DOSIMETRIA. MALFERIMENTO AO ART. 14 DA LEI Nº 10.826/03. PRINCÍPIO DA CONSUNÇÃO. REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático probatório a fim de analisar se, por ocasião do julgamento perante o Tribunal Popular, a opção dos jurados encontra ou não ressonância no conjunto probatório dos autos, bem como a pena-base a ser fixada ao réu. Incidência da Súmula 7/STJ.
+2. É firme neste Tribunal o entendimento de que "para se aferir se o crime de homicídio absorve ou não o delito de porte ilegal de arma de fogo  ..  é necessário o reexame do conteúdo fático- probatório dos autos, o que é vedado em recurso especial. Incidência do verbete n. 7 da Súmula do STJ". (AgRg nos EDcl no AREsp 119.468/PR, Rel. Min. MARILZA MAYNARD (DESEMBARGADORA CONVOCADA DO TJ/SE), SEXTA TURMA, DJe 05/12/2013) 3. Agravo regimental a que se nega provimento" (AgRg no AREsp n. 612.900/TO, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 13/4/2015).
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO. AFASTAMENTO DAS QUALIFICADORAS. MOTIVO TORPE E MEIO CRUEL. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. CONSUNÇÃO.SÚMULA N. 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. O exame da pretensão recursal, para se concluir pelo afastamento das qualificadoras previstas nos incisos I e III do § 2º do art. 121 do Código Penal, implica a necessidade de revolvimento do suporte fático-probatório delineado nos autos. Incidência da Súmula n. 7 do STJ.
+2. A análise acerca da incidência do princípio da consunção demanda o reexame das provas amealhadas aos autos, o que é vedado em recurso especial, consoante o enunciado da Súmula n. 7 do STJ.
+3. Agravo regimental não provido." (AgRg no AREsp n. 296.159/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 29/10/2015).
+ Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+P. e I.
