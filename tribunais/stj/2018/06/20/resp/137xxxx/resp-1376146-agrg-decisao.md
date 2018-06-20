@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de agravo regimental manejado contra decisão que negou seguimento a recurso especial com a seguinte fundamentação (fls. 557/558):
+De início, o recurso especial não pode ser conhecido, ante o óbice da Súmula 281/STF, porquanto, como decidido em hipótese idêntica à presente, "caberia ao recorrente esgotar a instância ordinária, com a interposição de agravo previsto no artigo 557, § 1º, do CPC, contra a decisão monocrática que negou seguimento aos embargos de declaração" (REsp 1.368.810/AL, Rel. Ministro Castro Meira, DJe 09/08/2013).
+Ainda que assim não fosse, verifica-se não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, a jurisprudência desta Corte firmou a compreensão de que "o prévio recolhimento da multa prevista no art. 538, parágrafo único, do CPC é pressuposto recursal objetivo de admissibilidade. Portanto, a ausência de comprovante de depósito da multa implica o não conhecimento do recurso interposto posteriormente à condenação" (AgRg no AREsp 206.054/PB, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 16/04/2015, DJe 23/04/2015).
+A parte agravante pretende o afastamento do óbice contido na Súmula 281/STF e repisa as razões do recurso especial quanto à contrariedade do artigo 535 do CPC. Afirma que a exigência de depósito prévio da multa prevista no artigo 538 do CPC "somente teria lugar na hipótese de reiteração dos embargos, ocasião em que a multa seria elevada a 10%, e apenas a partir desse momento, condicionada a interposição de novo recurso ao depósito do valor respectivo" (fl. 564).
+É o relatório.
+Ante as razões deduzidas pela parte agravante, reconsideração a decisão de fls. 557/558.
+Após, voltem-me os autos conclusos para novo exame do apelo especial.
+Publique-se.
