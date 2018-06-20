@@ -1,0 +1,26 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VÍCIO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
+1. Inexistente qualquer ambiguidade, obscuridade, omissão ou contradição a ser sanada, uma vez que o acórdão embargado explicitou as razões que levaram ao desprovimento do regimental.
+2. Não se prestam os embargos de declaração para rediscutir matéria já devidamente enfrentada e decidida pelo acórdão embargado, tampouco para acrescer nova tese à irresignação.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI(Relator): Trata-se de embargos de declaração opostos por SANDRA CRISTINA DE MENEZES contra acórdão proferido pela Quinta Turma desta Corte que negou provimento ao agravo regimental para manter a decisão que desproveu o recurso especial interposto.
+Aponta a embargante a existência de omissão e contradição no julgado acerca da ilicitude da prova, reiterando a tese de que a instituição bancária, embora possa acessar as contas de seus clientes e funcionários, não pode utilizá-las ou divulgá-las em investigações criminais.
+Alega que o banco está submetido ao princípio da reserva de jurisdição.
+Requer o provimento dos embargos para se declarar a ilicitude da prova obtida.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI(Relator): A irresignação não comporta acolhimento.
+O artigo 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência desta Corte os admitido, também, com o fito de sanar eventual erro material na decisão embargada.
+In casu, não há qualquer omissão ou contradição no julgado.
+A questão foi suscitada nas razões de recurso especial, repetida em sede de aclaratórios e depois reiterada no agravo regimental, tendo esta Corte se pronunciado acerca da apontada nulidade da prova supostamente obtida sem autorização judicial, assentando que, consoante decidido pela instância de origem, a hipótese não é de quebra de sigilo bancário, mas de procedimento de auditoria realizado pela instituição bancária diante da constatação de movimentação indevida em contas inativas.
+No acórdão ora combatido foi ressaltado, mais uma vez, que o tema restou devidamente rebatido pelo Tribunal a quo no julgamento do recurso de apelação, que ressaltou, acertadamente, que se configura procedimento lícito a averiguação de movimentações estranhas ocorridas nas contas mantidas pelo banco, não se tratando, a hipótese, de devassa indevida na conta corrente da ré, mas procedimento de auditoria em razão de movimentações espúrias verificadas pela instituição bancária, com utilização indevida de contas correntes que deveriam estar inativas.
+Foi salientado ser ínsita à atividade da instituição financeira o conhecimento da movimentação bancária de seus correntistas, inclusive funcionários, configurando-se impossível a materialização do ilícito de quebra de sigilo em relação ao próprio banco.
+Foi devidamente descartada a hipótese de quebra de sigilo bancário, em se tratando de atividade inerente à instituição financeira, tendo sido citado precedente desta Corte de Relatoria do Exmo. Ministro Nefi Cordeiro, SEXTA Turma, nos autos do AREsp n. 1.035.285/ES, publicada em 30/10/2017, na qual se discutia a hipótese de quebra de sigilo bancário e segundo a qual, "a determinação do Banco Central para que fiscalize, no curso de uma auditoria interna da COOPETEFES, as contas correntes específicas de RAIMUNDO BENEDITO DE SOUSA E DA FUNDAÇÃO AUGUSTO RUSCHI, não configura nenhum ilícito, estando amparado pelo seu poder de fiscalização, não se constituindo, tampouco, violação do dever de sigilo a comunicação, às autoridades competentes, da prática de crimes, aliás amparada pelo art. 9º da LC 105/2001".
+Desse modo, não há falar em defeito no julgado, tendo este Superior Tribunal de Justiça justificado satisfatoriamente as razões pelas quais negou provimento ao recurso especial.
+Pretende, em verdade, a embargante, a rediscussão da matéria, com o fito de obter efeitos infringentes, reformando-se o julgado, entretanto tal hipótese somente é possível em casos excepcionais, quando reconhecida a existência de algum dos defeitos elencados no dispositivo legal mencionado, impondo-se a alteração do julgado como consequência da correção do vício ou do reconhecimento de erro material, inocorrentes na espécie.
+Ora, mostra-se de todo descabida a pretensão de rejulgamento da causa na via estreita dos embargos declaratórios, salientando-se que esta Quinta Turma prestou devidamente a tutela jurisdicional postulada, tendo decidido a questão posta à luz da orientação sedimentada neste STJ.
+Ante o exposto, rejeitam-se os embargos declaratórios.
+É o voto.
