@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de ALEX [NOME], no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o ora paciente foi condenado à pena de 01 (um) anos de reclusão, em regime aberto, e ao pagamento de 180 (cento e oitenta) dias-multa, pela prática do crime tipificado no art. 180, caput, do CP.
+Diante das circunstâncias do caso concreto, o magistrado singular determinou a substituição da pena privativa de liberdade por restritiva de direito, consistente em prestação de serviços à comunidade.
+Ocorre que, conforme noticiado nos autos, o paciente não deu início ao cumprimento da pena, tendo, por este motivo, ocorrido a revogação da penalidade alternativa e sua reconversão em privativa de liberdade, cujo prazo prescricional foi fixado em 04 (quatro) anos, contados do trânsito em julgado para ambas as partes.
+Inconformada, a defesa interpôs agravo em execução, o qual restou desprovido pelo Tribunal-Coator.
+No presente mandamus, a impetração alega constrangimento ilegal, ao argumento de que a contagem do prazo prescricional ocorre a partir do trânsito em julgado para a acusação, conforme o disposto no art. 112, inciso I, do CP.
+Afirma que a interpretação do referido dispositivo não pode ser efetuada in malam partem.
+Sustenta que o princípio da reserva legal que rege o Estatuto Repressivo impede a interpretação do disposto no art. 112, inciso I, do Código Penal em prejuízo ao acusado.
+Desse modo, requer a concessão da ordem, a fim de sanar a ilegalidade apontada, declarando como termo inicial para a contagem do prazo prescricional a data do trânsito em julgado para a acusação.
+Liminar indeferida às fls. 38/39.
+Informações às fls. 46/51 e fls. 53/69.
+Parecer ministerial às fls. 71/87.
+É o relatório.
+A princípio, o pedido deduzido na inicial não comporta conhecimento na via eleita, já que formulado em flagrante desrespeito ao sistema recursal vigente no âmbito do Direito Processual Penal pátrio, tendo em vista a impetração se destinar a atacar acórdão contra o qual seria cabível a interposição de recurso específico para tal fim, nos termos do artigo 105, inciso II, alínea "a", da Constituição Federal.
+Nesses termos, o entendimento pacífico no âmbito deste Sodalício:
+HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. CONDENAÇÃO. SUBSTITUIÇÃO A RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. REGIME PRISIONAL MAIS GRAVOSO. POSSIBILIDADE, EM TESE. ANÁLISE DE CADA CASO. FUNDAMENTAÇÃO CONCRETA. CIRCUNSTÂNCIAS DO DELITO. AUSÊNCIA DE ILEGALIDADE. NÃO CONHECIMENTO. MATÉRIA AFETADA À SEÇÃO.
+1.Tratando-se de habeas corpus substitutivo de recurso próprio, inviável o seu conhecimento, cabendo a análise de flagrante ilegalidade.  ..
+3. Hipótese em que não há flagrante ilegalidade, haja vista que a Corte estadual invocou concretamente as circunstâncias do delito para justificar o regime prisional fechado, em consonância com a jurisprudência deste Superior Tribunal de Justiça e do Supremo Tribunal Federal. Foi indicada a concreta gravidade do crime (tentativa de matar mulher grávida de 4 meses, valendo-se das relações domésticas, mediante meio cruel e motivo fútil, inclusive na presença do filho de 4 anos da vítima e mediante "roleta russa").
+4. Writ não conhecido. (HC 362.535/MG, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 14/12/2016, DJe 08/03/2017)
+Entretanto, o constrangimento apontado na inicial será analisado, a fim de se verificar a existência de flagrante ilegalidade que justifique a atuação de ofício por este Superior Tribunal de Justiça.
+No caso dos autos, o ora paciente alega estar sofrendo coação ilegal com o reconhecimento do início da contagem do prazo da pretensão executória a partir do trânsito em julgado para ambas as partes.
+Afirma que o teor do art. 112, inciso I, do Código Penal não pode ser interpretada em desfavor do réu.
+Todavia, analisando os argumentos apresentados, constata-se merecer acolhida a insurgência.
+Acerca da contagem do prazo da prescrição da pretensão executória, assim dispõe o art. 112, do Código Penal:
+Art. 112 - No caso do art. 110 deste Código, a prescrição começa a correr:
+I - do dia em que transita em julgado a sentença condenatória, para a acusação, ou a que revoga a suspensão condicional da pena ou o livramento condicional;
+ ..
+Destarte, pacificou-se nesta Corte Superior de Justiça o entendimento de que a literalidade do artigo 112, inciso I, do Código Penal  que fixa como termo inicial da contagem do prazo prescricional da pretensão executória o trânsito em julgado da sentença condenatória para a acusação  não pode ser interpretada da forma que importe em agravamento da situação do condenado.
+Nesse sentido, confiram-se os seguintes precedentes:
+PENAL E PROCESSO PENAL. HABEAS CORPUS. 1. IMPETRAÇÃO SUBSTITUTIVA DO RECURSO PRÓPRIO. NÃO CABIMENTO. 2. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO A QUO. ART. 112, I, DO CP. LAPSO ALCANÇADO. EXTINÇÃO DA PUNIBILIDADE. 3. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. Não se desconhece recente decisão da Primeira Turma do STF, no sentido de que não é possível prescrever aquilo que não pode ser executado, à luz da jurisprudência que prevaleceu no STF de 2009 a 2016, segundo a qual só era possível a execução da decisão condenatória depois do trânsito em julgado, o que impediria o curso da prescrição (RE 696.533/SC, Rel. Min. Roberto Barroso, julgamento em 6/2/2018). Nada obstante, cuidando-se de decisão proferida por órgão fracionário daquela Corte, em controle difuso, mantenho o entendimento pacífico do Superior Tribunal de Justiça, no sentido de que o "prazo prescricional da pretensão executória é contado do dia em que transitou em julgado a sentença condenatória para a acusação (art. 112, I, do CP)" (AgRg no HC 323.036/SC, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 01/03/2016, DJe 17/03/2016).
+3. Habeas corpus não conhecido. Ordem concedida de ofício, para declarar extinta a punibilidade do paciente na Ação Penal n.
+0002509-52.2010.8.26.0292.
+(HC 425.656/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/03/2018, DJe 02/04/2018)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. APLICABILIDADE DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO. EXECUÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ART. 112, I, DO CP. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. Compete ao recorrente, nas razões do agravo regimental, infirmar especificamente todos os fundamentos expostos na decisão agravada. Incidência do enunciado 182 da Súmula do Superior Tribunal de Justiça.
+2. "Nos termos do art. 112, I, do Código Penal, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado". (AgRg no RHC 74.996/PB, Rel. Min. NEFI CORDEIRO, SEXTA TURMA, DJe 19/09/2017) 3.
+Agravo regimental não conhecido. Habeas Corpus concedido de ofício.
+(AgInt no AREsp 1156766/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/11/2017, DJe 28/11/2017)
+Corroborando com este entendimento, confiram-se precedentes oriundos do Supremo Tribunal Federal:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. ARTIGOS 110 E 112 DO CÓDIGO PENAL. MARCO INICIAL. TRÂNSITO EM JULGADO PARA ACUSAÇÃO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTE TRIBUNAL.
+1. A prescrição regula-se pela pena aplicada depois de proferida a sentença condenatória, sendo que, cuidando-se de execução da pena, o lapso prescricional flui do dia em que transitado em julgado para a acusação, conforme previsto no artigo 112 combinado com o artigo 110 do Código Penal. Precedentes: HC 113.715, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 28/5/2013, HC 110.133, Rel. Min. Luiz Fux, Primeira Turma, DJe 19/4/2012, ARE 758.903, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 24/9/2013. 2. In casu, o acórdão recorrido assentou:  AGRAVO EM EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. MARCO INICIAL DO PRAZO. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO.  3. Agravo regimental DESPROVIDO. (ARE 764385 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 13/05/2014, PROCESSO ELETRÔNICO DJe-102 DIVULG 28-05-2014 PUBLIC 29-05-2014)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL: TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (RE 771598 AgR, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, julgado em 04/02/2014, PROCESSO ELETRÔNICO DJe-031 DIVULG 13-02-2014 PUBLIC 14-02-2014)
+In casu, tendo Corte originária expedido mandado de prisão no qual constava como termo a quo para contagem do prazo da prescrição da pretensão executória a data do trânsito em julgado para ambas as partes, dissentiu do entendimento vigente nos Tribunais Superiores, estando, portanto, eivada de ilegalidade passível de ser sanada por meio do julgamento do presente mandamus.
+Ante o exposto, com fundamento no artigo 34, inciso XX, do Regimento Interno deste Superior Tribunal de Justiça, não se conhece do presente habeas corpus, concedendo-se, contudo, a ordem de ofício, para, nos termos do artigo 654, § 2º, do Código de Processo Penal, reformar o acórdão objurgado, determinando que a data de início da contagem do prazo da prescrição executória seja o dia do trânsito em julgado para a acusação.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal a quo e ao Juízo da Execução Criminal.
+Cientifique-se ao Ministério Público Federal.
+Publique-se.
+Intimem-se.
