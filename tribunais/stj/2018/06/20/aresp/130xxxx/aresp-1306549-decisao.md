@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO 2/STJ. AGRAVO EM RECURSO ESPECIAL. TRÂNSITO. APLICAÇÃO DE MULTA. NULIDADE. SOCIEDADE DE ECONOMIA MISTA. DEVOLUÇÃO DOS AUTOS À ORIGEM. SOBRESTAMENTO.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial da TRANSERP EMPRESA DE TRÂNSITO E TRANSPORTE URBANO DE RIBEIRÃO PRETO S.A, fundado nas alíneas "a" e "c" do permissivo constitucional, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AÇÃO ORDINÁRIA - A TRANSERP, pessoa jurídica de direito privado, criada pela Lei nº 3.734/80 do Município de Ribeirão Preto, que não foi constituída para exercer o poder de polícia de trânsito, está impossibilitada de praticar atos que são privativos dos agentes da autoridade de trânsito, a exemplo da aplicação de penalidades (artigo 256, II, da Lei Federal nº 9.503/97) - Antecedentes do STJ - Recurso improvido.
+Opostos embargos de declaração, estes foram rejeitados.
+Nas razões do recurso especial, a parte sustenta, em síntese, que multas de trânsito lavradas por empresa privada, sociedade de economia mista, devem ser consideradas válidas frente à possibilidade de delegação do poder de polícia.
+Houve apresentação de contrarrazões.
+Sobreveio juízo negativo de admissibilidade fundado na ausência de comprovação de ocorrência de dissídio jurisprudencial e na inexistência de desrespeito à legislação federal, em que pese a decisão se mostre contrária à pretensão da recorrente.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+O tema central da presente lide - possibilidade de aplicação de multa de trânsito por sociedade de economia mista - tem repercussão geral, reconhecida pelo Supremo Tribunal Federal, no ARE 662.186 RG/MG (posteriormente convertido no RE 633.782) - Tema 532, cuja ementa transcreve-se abaixo:
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. APLICAÇÃO DE MULTA DE TRÂNSITO POR SOCIEDADE DE ECONOMIA MISTA. PODER DE POLÍCIA. DELEGAÇÃO DOS ATOS DE FISCALIZAÇÃO E SANÇÃO A PESSOA JURÍDICA DE DIREITO PRIVADO.
+(ARE 662.186 RG, Relator(a): Min. Luiz Fux, julgado em 22/3/2012, Acórdão Eletrônico DJe-180 Divulg 12/9/2012 Public 13/9/2012).
+A Primeira Turma, na assentada de 8/6/2017, ao julgar o AgInt no AgInt no REsp 1.603.061/SC, firmou a orientação de que "podendo a ulterior decisão do STF, em repercussão geral já reconhecida, afetar o julgamento da matéria veiculada no recurso especial, faz-se conveniente que o STJ, em homenagem aos princípios processuais da economia e da efetividade, determine o sobrestamento do especial e devolva os autos ao Tribunal de origem para que ali, em se fazendo necessário, seja oportunamente realizado o ajuste do acórdão local ao que vier a ser decidido na Excelsa Corte ".
+Dessa feita, não só pelos motivos apontados pelo referido órgão julgador - economia processual e possibilidade de prolação pelo STJ de provimentos jurisdicionais em desconformidade com o que vier a ser definitivamente decidido pela Corte Suprema -, mas pela inolvidável necessidade de se garantir uniformidade ao sistema, adoto o mesmo posicionamento e determino a devolução dos autos à origem para que apreciação do recurso especial fique sobrestada até o exaurimento da competência do Tribunal de origem, que ocorrerá com o juízo de retratação ou de conformação a ser realizado pela instância ordinária após o julgamento do recurso extraordinário.
+Do exposto, nos termos da fundamentação, determino a devolução dos autos ao Tribunal a quo.
+Publique-se. Intimem-se.
