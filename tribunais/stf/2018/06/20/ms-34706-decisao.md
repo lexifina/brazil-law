@@ -1,0 +1,17 @@
+MANDADO DE SEGURANÇA. DIREITO CONSTITUCIONAL E ELEITORAL. ATO DO PRESIDENTE DA CÂMARA DOS DEPUTADOS. RENÚNCIA E AFASTAMENTO DO MANDATO DE DEPUTADO FEDERAL. ASSUNÇÃO DE CARGO NO PODER EXECUTIVO. CONVOCAÇÃO DE SUPLENTES. LINHA SUCESSÓRIA. ORDEM DE SUPLÊNCIA DEFINIDA NO ATO DE DIPLOMAÇÃO PELA JUSTIÇA ELEITORAL. INCOMPETÊNCIA DO PRESIDENTE DA CÂMARA PARA ALTERAR A ORDEM DE SUPLÊNCIA. IMPROCEDÊNCIA DO PEDIDO RECONHECIDO NO MS 34.777/DF. AUSÊNCIA DE MANIFESTAÇÃO DO IMPETRANTE QUANTO AO INTERESSE NO PROSSEGUIMENTO DA AÇÃO. AUSÊNCIA DE INTERESSE DE AGIR. MANDADO DE SEGURANÇA EXTINTO SEM RESOLUÇÃO DE MÉRITO.
+    Decisão: Cuida-se de mandado de segurança, com pedido de medida liminar, impetrado pelo Partido da República – PR/RJ, representado por órgão de direção local do partido, contra ato do Presidente da Câmara dos Deputados, que teria nomeado e empossado, como deputados federais, suplentes que não estariam mais filiados aos partidos políticos da Coligação pela qual se elegeram – Coligação PR-PROS.
+    O impetrante busca a posse de Jorge de Oliveira como Deputado Federal, pois seria, dentre os possíveis suplentes, o mais votado da Coligação PR-PROS/RJ.
+    Ocorre que o próprio Jorge de Oliveira figurou como impetrante no MS 34.777, ajuizado em face do mesmo ato apontado como coator, pretendendo igual direito e sob as mesmas alegações, em relação ao qual neguei seguimento sob o entendimento de que:
+    “(...) a autoridade coatora está necessariamente vinculada à ordem de suplência da diplomação dos candidatos realizada pela Justiça Eleitoral. Eventual impugnação de mandato eletivo dos litisconsortes passivos seria competência do referido ramo do Poder Judiciário, e não desta Suprema Corte, muito menos do Presidente da Câmara dos Deputados”.
+    Esse entendimento foi confirmado pela Plenário ao desprover o agravo interno interposto, tendo a decisão transitado em julgado no dia 05.04.2018.
+    Nesse contexto, em 21/5/2018, determinei a intimação do Partido da República – PR/RJ para que: (i) informe seu interesse no prosseguimento do feito – tendo em vista o julgamento de writ com o mesmo pedido e causa de pedir –, sob pena de extinção do processo (CPC, art. 485), (ii) e, caso entenda necessário o prosseguimento do feito, se manifeste quanto às alegações de ilegitimidade ativa apresentadas pelos litisconsortes (CPC, art. 351). (eDoc 67).
+    Todavia, transcorreu, in albis, o prazo para cumprimento da referida diligência, conforme certidão emitida pela Seção de Processos Diversos deste Supremo Tribunal Federal (eDoc. 70).
+    É o Relatório. DECIDO.
+    Diante da ausência de manifestação da parte impetrante sobre a diligência determinada, ficou caracterizada a ausência de interesse processual, o que acarreta a extinção do feito sem resolução de mérito.
+    Com efeito, (i) uma vez negado seguimento ao Mandado de Segurança 34.777/DF, impetrado pelo beneficiário da ordem buscada em ambos os feitos, ajuizados em face do mesmo ato apontado como coator, pretendendo igual direito e sob as mesmas alegações, (ii) bem como considerando a falta de manifestação do impetrante, é de se reconhecer a ausência de interesse processual que justifique o prosseguimento da presente ação.
+    Ex positis, JULGO EXTINTO o mandado de segurança, sem resolução do mérito, nos termos do art. 485, VI e § 3º, do CPC/2015, c/c o art. 6º, § 5º, da Lei 12.016/2009, restando prejudicado o exame do pedido de medida liminar.
+    Publique-se. Int..
+    Brasília, 20 de junho de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
