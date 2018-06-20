@@ -1,0 +1,12 @@
+DECISÃO
+CARLOS ALEXANDRE PEREIRA, paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n. 0009937-57.2012.8.26.0408).
+Consta dos autos que o paciente - preso em flagrante porque mantinha em depósito 15,39 g de maconha e 5,17 g de crack - teve a conduta desclassificada para o delito previsto no art. 28 da Lei n. 11.343/2006. O Tribunal de origem, entretanto, deu provimento ao recurso do Ministério Público a fim de condenar o réu à pena de 3 anos e 4 meses de reclusão, em regime fechado, mais multa, pela prática do crime de tráfico de drogas.
+Busca-se, por meio deste writ, a fixação do regime inicial aberto de cumprimento de pena.
+Deferida a liminar e prestadas as informações, o Ministério Público Federal opinou pela concessão da ordem.
+Decido.
+O Tribunal de origem entendeu devida a imposição do modo inicial fechado, em razão do "quantum das reprimendas aplicadas, somado às circunstâncias atinentes à quantidade e variedade de drogas apreendidas, a ensejar que sua disseminação na sociedade se daria em apreciável escala, e ainda dada a natureza do crime, equiparado aos hediondos" (fl. 26).
+Embora a Corte estadual haja sido mencionado fundamentos concretos e específicos do caso dos autos - natureza e quantidade de drogas apreendidas - , entendo, na verdade, que a apreensão de certa quantidade de drogas, em contexto como o dos autos, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, de maneira que considero estar evidente o apontado constrangimento ilegal de que estaria sendo vítima.
+Assim, uma vez que o paciente era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes, teve a pena-base estabelecida no mínimo legal, foi condenado a reprimenda inferior a 4 anos de reclusão, agraciado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 - a qual visa, justamente, a beneficiar o "traficante ocasional" - e foi apreendido com quantidade de drogas não tão expressiva, está evidenciada a plausibilidade jurídica do direito tido como violado.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, a fim de fixar o regime aberto para o início de cumprimento de pena (Processo n. 0009937-57.2012.8.26.0408).
+Comunique-se, com urgência, o inteiro teor dessa decisão ao Tribunal de Justiça estadual e ao Juízo de primeiro grau, para as providências cabíveis.
+Publique-se e intimem-se.
