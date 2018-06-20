@@ -1,0 +1,18 @@
+Decisão:  Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Santa Catarina, que negou provimento à apelação defensiva (eDOC.4, e-STJ fl. 805).
+    Os embargos de declaração foram rejeitados.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, LV, LIV, LIII, XXXVII e XLVI; e 93, IX, ambos da CF. Alega-se, em síntese, que: i) a denúncia não narrou adequadamente os fatos, desrespeitando os requisitos do art. 41 do CPP, o que ofendeu o art. 5º, LV, da CF; ii) o rito previsto no art. 400 do CPP não foi observado, o que ofendeu o art. 5º, LIV e LV, da CF; iii) as interceptações telefônicas não foram transcritas, conforme determinam os §§ 1º e 2º do art. 6º da Lei 9.296/96, o que ofendeu o art. 5º, LV, da CF; iv) a negativa de atenuar a pena do recorrente RODRIGO FERRARI pela confissão qualificada violou os arts. 5º, XLVI; e 93, IX, ambos da CF; v) em relação aos crimes dos arts. 12 e 16, parágrafo único, IV, da Lei 10.826/03, a manutenção da condenação pela posse de munições e de arma de fogo, sem que a munição estivesse efetivamente na arma, viola o art. 5º, §2º, da CF, porque não há proporcionalidade, nem ofensividade.
+    A Segunda Vice-Presidência do TJSC inadmitiu o recurso sob os seguintes fundamentos: i) ausência de prequestionamento; ii) ofensa meramente reflexa à CF; iii) Súmula 279 do STF.
+    O Recurso Especial simultaneamente interposto foi parcialmente provido para atenuar a pena pela confissão espontânea do recorrente RODRIGO (eDOC.6, e-STJ fl. 1042).
+    O Recurso Extraordinário interposto em face do julgamento no Superior Tribunal de Justiça (eDOC.6, e-STJ fl. 1137) foi declarado prejudicado por aplicação das teses fixadas em Repercussão Geral (Temas 181, 339 e 660).
+    É o relatório. Decido.
+    1. Inicialmente, observo que a decisão de inadmissibilidade do Recurso Extraordinário interposto no STJ encontra-se preclusa.
+    2. Considerando a extensão de provimento do Recurso Especial, declaro parcialmente prejudicado este Recurso Extraordinário em relação à apontada ofensa aos arts. 5º, XLVI; e 93, IX, ambos da CF, no que toca à atenuante da confissão.
+    3. No mais, consigno que no julgamento do ARE 748.371 (Relatoria do Ministro Gilmar Mendes, Pleno, DJe 01.08.2013, Tema 660), esta Corte assentou que o tema sobre violação dos princípios do contraditório, da ampla defesa e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, não possui repercussão geral.
+    4. Ademais, os recorrentes não apontam a repercussão geral das questões relativas à proporcionalidade e à ofensividade, apenas referindo-se genericamente aos outros temas debatidos.
+    A preliminar de repercussão geral é pressuposto de admissibilidade do recurso extraordinário (art. 543-A, § 2º, do CPC de 1973, vigente à época de interposição do recurso). Trata-se de requisito formal exigido quando a intimação do acórdão recorrido for posterior a 03.05.2007, data da publicação da Emenda Regimental 21 do STF, o que ocorre no presente caso (AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 06.09.2007).
+    Ante o exposto, julgo parcialmente prejudicado o recurso em relação à ofensa aos arts. 5º, XLVI; e 93, IX, ambos da CF, e, no mais, nego seguimento ao recurso, com fulcro no art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 20 de junho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
