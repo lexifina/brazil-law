@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. DEFICIENTE FÍSICO. INAPTIDÃO EM CONCURSO PÚBLICO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. COMANDO GENÉRICO. SÚMULA 284/STF. REQUISITOS DA RESPONSABILIZAÇÃO CIVIL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+ Trata-se de agravo em recurso especial interposto por MARIA ROSA DELMASSO RODRIGUES, em face de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso especial manejado contra acórdão sintetizado nos seguintes termos:
+SERVIDOR MUNICIPAL Ubatuba - Concurso público - Professor de educação básica - PEB I - Candidata - Deficiência visual total e permanente - Aprovação - Exame médico - Inaptidão - Desclassificação - Possibilidade - Danos morais -Impossibilidade: - Em concurso público, é lícita a desclassificação de candidato deficiente visual quando verificada a incompatibilidade da deficiência com as atribuições do cargo almejado, o que afasta o dever de indenizar por danos morais.
+Nas razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional, a recorrente sustenta violação aos seguinte dispositivos legais: a) arts. 43 e 44 do Decreto 3.298/1999 e o art. 20 da Lei 8.112/1990, aduzindo que a recorrida praticou ato ilegal, tendo em vista que não ocorreu a avaliação entre a deficiência e a necessidade do cargo, nem tampouco a observância de estágio probatório para observação de possível aptidão para a função; b) art. 2º da Lei 7.853/1989, apontando que é vedado qualquer discrímen no tocante à admissão de trabalhador portador de deficiência; e c) arts. 186 e 927 do CC/2002, argumentando que estão presente os requisitos necessários à caracterização da responsabilização civil.
+Contrarrazões apresentada às fls. 471/484 e-STJ.
+Sobreveio juízo negativo de admissibilidade pelo Tribunal de origem.
+Insurge-se a parte agravante contra essa decisão, afirmando que ao contrário do que supõe a decisão de inadmissibilidade, o recurso especial reúne condições de processamento.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Presentes os pressupostos de admissibilidade do agravo, passo a analise do apelo nobre.
+A pretensão não merece prosperar.
+Com efeito, no que tange à suposta violação dos arts. arts. 43 e 44 do Decreto 3.298/1999; 20 da Lei 8.112/1990; e 2º da Lei 7.853/1989:
+Observa-se que no caso examinado, não houve apreciação pelo Tribunal de origem acerca da indicada violação. Logo, fica impossibilitado o julgamento do recurso quanto ao ponto, por ausência de prequestionamento, nos termos das Súmulas 282/STF e 356/STF, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"; "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+ Registre-se que a parte recorrente não opôs embargos de declaração com o fim de obter um pronunciamento pelo Tribunal a quo a respeito da questão
+Efetivamente, para a configuração do questionamento prévio, não é necessário que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. VEDAÇÃO. AGRAVO INTERNO NÃO PROVIDO. TARIFA PROGRESSIVA. FALTA DE PREQUESTIONAMENTO. DANO MORAL. NÃO OCORRÊNCIA E VALOR INDENIZATÓRIO. SÚMULA 7/STJ.
+1. É vedada a inovação recursal, seja em sede de agravo regimental, seja em embargos de declaração, ante a preclusão consumativa. Precedente: AgRg no AREsp 247.288/PE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 24/5/2013, AgRg no AREsp 304.572/AL, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2013.
+2. Não é possível o conhecimento de recurso em relação à questão que não foi tratada no acórdão recorrido ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF).
+3. A análise da tese recursal relativa à ausência de dano moral e ao quantum indenizatório esbarra na impossibilidade de incursão na seara probatória na via especial, conforme disposto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1456933/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 04/04/2017, DJe 11/04/2017)
+Ademais, cumpre destacar que não merece conhecimento a tese de insurgência do recorrente, relacionada ao dano moral, isso porque, a fim de defender a pretensão, o recorrente apontou como violados dispositivos legais genéricos que versam sobre os direitos dos portadores de deficiência. Observa-se, portanto, que os artigos invocados não possuem relação com a mencionada tese de insurgência. Aplica-se, portanto, o óbice da Súmula 284/STF.
+Quanto a indicação de suposta ofensa aos arts. 186 e 927 do CC/2002, verifica-se que a Corte de origem assim se manifestou a respeito da matéria:
+2. Conforme já decidido por esta Câmara nos autos do processo 0002463-51.2008.8.26.0642 (envolvendo as mesmas partes e causa de pedir, porém pedidos diversos), que motivou a remessa do presente processo por prevenção a este colegiado (fls. 421/426), o edital já continha a restrição ora repudiada pela candidata, em seus itens 10 e 11 do capítulo terceiro (fls. 28/29).
+As vagas disponibilizadas no concurso público em questão não são destinadas a professor especializado no atendimento de crianças com necessidades especiais.
+A deficiência visual apresentada pela autora - mesmo com os diversos recursos e tecnologias disponíveis - é evidentemente incompatível com o desempenho de muitas das atribuições do PEB I, como a correção de atividades escritas e o acompanhamento individual dos alunos.
+Não se pode olvidar que o primeiro ciclo da educação básica -1º ao 5º ano - atende ordinariamente crianças de 6 a 10 anos de idade que, em razão do desenvolvimento incompleto, demandam atenção especial e constante, impossível de ser conferida por um professor carente de visão sem a ajuda de um auxiliar, com o qual não poderá a autora contar.
+Assim, patente a incompatibilidade da deficiência com o exercício do cargo almejado, desnecessária a submissão da autora a estágio probatório.
+3. Dessa forma, inexistindo ato ilícito da Administração, igualmente inexiste o dever de indenizar.
+Note-se que, embora não tenha o edital se referido expressamente à deficiência visual, previu que: "HL (.) 6. O candidato deverá indicar o tipo de deficiência de que é portador, especificando-a no formulário de inscrição via Internet, bem como a provável causa da deficiência, inclusive para assegurar previsão de adaptação de sua prova" (fl. 28).
+Não bastasse, ficou estabelecido que a verificação da compatibilidade da deficiência com o exercício das atribuições do cargo seria realizada quando da nomeação (item 10 do capítulo III - fl. 28).
+Assim, não houve indução da autora em erro ou criação de falsas esperanças.
+Além disso, o relatório médico da perícia não utilizou termos ou expressões depreciativas ou humilhantes, tendo-se limitado a constatar a incompatibilidade da função almejada pela autora e a deficiência de que padece, concluindo, inclusive, ter aptidão para o magistério em classe especial para deficientes visuais (fl. 45).
+Com efeito, observa-se que o exame probatório empreendido pela Corte a quo resultou na compreensão de que não estão presentes os requisitos ensejadores para o estabelecimento de responsabilização civil.
+Trata-se de conclusão decorrente de análise dos documentos juntados aos autos, motivo pelo qual a reversão do entendimento demandaria o reexame de fatos. Logo, não é possível acolher a pretensão recursal porque seria necessário reexaminar conjunto fático-probatório dos autos, o que não é possível em sede de recurso especial, em face do óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE PROVAS. SÚMULA 7 DO STJ. INCIDÊNCIA.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial cuja análise das razões impõe reexame da matéria fática da lide, nos termos da vedação imposta pelo enunciado nº 7 da Súmula do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 934.754/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/08/2015, DJe 10/08/2015)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
