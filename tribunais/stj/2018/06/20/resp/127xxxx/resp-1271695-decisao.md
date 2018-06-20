@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela UNIÃO, na vigência do CPC/73, com base na alínea a do permissivo constitucional, manejado contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. PRESCRIÇÃO. NULIDADE. INOCORRÊNCIA. JUROS MORATÓRIOS SOBRE OS VALORES PAGOS NA VIA ADMINISTRATIVA. HONORÁRIOS ADVOCATÍCIOS.
+A execução prescreve no mesmo prazo de prescrição da ação (Súmula 150 do STF). Precedentes 2ª Seção do Tribunal.
+Prescrição inexistente na hipótese dos autos.
+Requerida a extinção da execução em face do acordo administrativo, a validade do ato e a extensão de seus efeitos integram o objeto da demanda, sujeitos à manifestação jurisdicional.
+Sobre as parcelas pagas na via administrativa devem incidir juros e correção monetária, a fim de que no cálculo final o valor seja abatido do devido, ou se aplica outro critério, que consiste em efetuar o abatimento das mesmas parcelas pelo seu valor nominal, na própria competência em que realizado o pagamento, incidindo somente sobre o saldo remanescente tais acréscimos legais até a data em que realizado o cálculo judicial.
+Sistemáticas que levam ao mesmo resultado, sem qualquer prejuízo monetário, porque a denominada técnica matemática financeira chamada "juros negativos" visa à compensação contábil de valores, não caracterizando incidência real de juros sobre valores pagos administrativamente, segundo precedentes da Turma.
+Honorários advocatícios mantidos em 10% sobre o valor embargado, devendo, no entanto, serem compensados em face da sucumbência recíproca.
+Prequestionamento quanto a legislação invocada estabelecido pelas razões de decidir.
+Apelações improvidas" (fl. 283e).
+O acórdão em questão foi objeto de Embargos de Declaração, os quais foram providos apenas para fins de prequestionamento (fls. 334/339e).
+Nas razões do Recurso Especial, aduz a parte recorrente ofensa aos arts. 7º, § 2º, da Medida Provisória 2.169-43/2001; 333, I, do CPC/73; 82 do Código Civil; e 6º da LINDB, ao argumento de que:
+"(..) nos termos da legislação em vigor, é possível demonstrar a existência de acordo administrativo para fins de recebimento de diferenças a título de 28,86% mediante a apresentação de extratos do SIAPE, como ocorreu no caso.
+Logo, demonstrada está a existência de transigência administrativa entre a União e o recorrido, prova essa que atendeu ao disposto na legislação acima transcrita. Como consequência disso, o reconhecimento da validade dessa transação extrajudicial é medida que se impõe para, assim, ser extinta a execução.
+Nesse sentido, como premissa inicial é de se referir que a execução embargada foi ajuizada em 2006. O termo de acordo do exequente, no entanto, foi firmado muito antes do ajuizamento da execução!!
+Por isso já se vê que a pretensão executória da parte adversa é incabível.
+Ora, um dos requisitos para a propositura de qualquer demanda, seja ela cognitiva ou executiva, é a pretensão resistida, consoante clássica lição doutrinária. Impossível vislumbrar qualquer resistência à pretensão do exequente quando a executada está cumprindo religiosamente o acordo celebrado (extrajudicialmente) na via administrativa, e isso muito antes do ajuizamento da demanda individual.
+Ausente a resistência, não há sequer falar em lide, quiçá em interesse de agir.
+Com efeito, o acordo administrativo celebrado entre as partes, hipótese de transação, consubstancia-se um ato bilateral, no qual cada parte renuncia a parcela de seus direitos. Uma vez perfectibilizado (verificados os requisitos do art. 82 do Código Civil de 1916), não é dado a qualquer dos acordantes dele dispor unilateralmente, até porque, face ao disposto no art. 62, da LICC, configurado está o ato jurídico perfeito, dispositivos esses que restaram violados pelo acórdão recorrido ao desconsiderar a transação realizada.
+Em homenagem ao princípio do paralelismo das formas, não é lícito ao exequente resolver unilateralmente o acordo, até porque, como se depreende dos documentos acostados aos autos, a executada continuou adimplindo o acordo.
+(..)
+Ora Excelências, as partes que transacionaram são capazes e o fizerem com total ciência de seus termos. Não pode a parte adversa agora, após o total cumprimento pela União de sua parte, buscar desfazê-lo" (fls. 345/347e).
+Requer, ao final, o provimento do recurso, para que "seja reformado o acórdão recorrido, reconhecida a validade da transação extrajudicial firmada pela parte recorrida e extinta a execução, invertendo-se, por conseqüência, os ônus de sucumbência" (fl. 349e).
+Com contrarrazões (fls. 354/379e), o Recurso Especial foi admitido (fls. 427/428e).
+O presente recurso não merece prosperar.
+Inicialmente, no que se refere ao art. 82 do Código Civil, infere-se, das razões do Recurso Especial, que a recorrente deixou de estabelecer, com a precisão necessária, os fundamentos suficientes para vincular sua irresignação, pela alínea a do permissivo constitucional, com o dispositivo apontado como violado.
+Dessa forma, ante a deficiência na fundamentação, uma vez que o dispositivo legal tido por violado não ampara a tese defendida pela recorrente ou não contém normativo suficiente para infirmar o acórdão recorrido, o conhecimento do Recurso Especial encontra óbice, por analogia, na Súmula 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+"PROCESSUAL CIVIL. CONSTRUÇÃO DE REDE DE ELETRIFICAÇÃO RURAL PELO PARTICULAR. INCORPORAÇÃO AO PATRIMÔNIO DA CONCESSIONÁRIA. AÇÃO DE RESSARCIMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. APLICAÇÃO DA SÚMULA 283/STF.
+1. A jurisprudência do STJ firmou-se no sentido de que é deficiente o Recurso Especial quando o dispositivo legal tido por violado não ampara a tese defendida pelo recorrente ou não contém normativo suficiente para infirmar o acórdão recorrido. Incide, por analogia, o óbice da Súmula 284/STF.
+2. Não foi impugnado nas razões do Recurso Especial o fundamento capaz de manter, por si, o acórdão recorrido, qual seja, "É cediço que todo o procedimento de eletrificação rural é feito mediante a participação financeira do consumidor final, que ao aderir ao contrato de prestação de serviços, arca com os custos decorrentes da montagem e instalação das linhas de distribuição, passando, após, tais bens a serem incorporados ao ativo fixo da concessionária, por meio de instrumentos chamados "Termos de Doação", consoante se infere do Decreto nº 41.019/57, regulamentador dos serviços de energia elétrica" (fl. 311, e-STJ). Incidência, por analogia, do óbice da Súmula 283/STF.
+3. Agravo Regimental não provido" (STJ, AgRg no REsp 1.539.607/MT Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/11/2015).
+No que concerne aos demais artigos tidos por violados, a Corte de origem, ao analisar a controvérsia, asseverou que "a validade do ato e a extensão de seus efeitos integram o objeto da demanda, sujeitos à manifestação jurisdicional" (fl. 279e).
+Entretanto, tal fundamento não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
