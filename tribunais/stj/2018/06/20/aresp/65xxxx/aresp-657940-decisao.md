@@ -1,0 +1,10 @@
+DECISÃO
+PREVIDENCIÁRIO E PROCESSO CIVIL. RESTABELECIMENTO DE APOSENTADORIA. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. IMPOSSIBILIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO DO INSS A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pelo INSS, com fundamento na alínea a do art. 105, III da Constituição Federal, contra Acórdão do Tribunal de origem em demanda objetivando o restabelecimento de aposentadoria.
+2. Em seu Apelo Especial inadmitido, sustenta o INSS violação dos arts. 333, I e 535 do CPC, bem como 69 da Lei 8.213/91, aos seguintes fundamentos: (a) o acórdão recorrido, a despeito da oposição de Embargos de Declaração, permaneceu omisso; e (b) caberia ao autor a comprovação do tempo de serviço alegado (fls. 279).
+3. É o relatório. Decido.
+4. No tocante ao art. 535 do CPC, inexiste a violação apontada. O Tribunal a quo apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+5. Quanto ao mais, verifica-se que o Tribunal a quo, soberano na análise fático-probatória da causa, julgou parcialmente procedente o pedido inicial de restabelecimento de aposentadoria, reconhecendo que não há falar em regular processo administrativo revisional que conduziu à suspensão do benefício, impondo-se o restabelecimento do benefício tal como concedido (fls. 253).
+6. Assim, constata-se que a argumentação do segurado se baseia em matéria probatória e que o acórdão recorrido decidiu com base nos elementos fáticos constantes dos autos, conforme se pode observar de uma simples leitura da ementa do acórdão recorrido. O revolvimento dessa matéria em sede de recorribilidade extraordinária demandaria a análise de fatos e provas, o que atrai o óbice da Súmula 7 desta egrégia Corte.
+7. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do INSS.
+8. Publique-se. Intimações necessárias.
