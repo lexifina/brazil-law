@@ -1,0 +1,51 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. ABUSIVIDADE DAS TARIFAS COBRADAS PELA INSTITUIÇÃO FINANCEIRA. OFENSA A RESOLUÇÃO. NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL PORVENTURA VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. REVISÃO DAS CONCLUSÕES ESTADUAIS. INVIABILIDADE. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por BANCO SANTANDER (BRASIL) S.A. contra a decisão de fls. 399-400 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 353, e-STJ):
+Alienação fiduciária de imóvel. Mora incontroversa. Notificação realizada por Oficial do Registro de Imóveis. Prosseguimento da venda extrajudicial do bem, nos termos da Lei nº 9.514/97. Ilegalidades nos procedimentos dos leilões não comprovadas. Ausência de interessados que impõem a extinção da obrigação e a outorga de quitação pelo credor, nos termos do art. 27, §§5º e 6º, da Lei nº 9.514/97. Adimplemento substancial não configurado. Abusividade da tarifa de serviços administrativos e avaliação da garantia reconhecida. Recurso parcialmente provido para determinar a restituição simples da tarifa, com correção monetária desde cada desembolso e juros de mora a partir da citação.
+Nas razões do recurso especial (fls. 374-388, e-STJ), o recorrente alegou que o acórdão impugnado incorreu em violação dos seguintes normativos:
+a) Resoluções 3.516, 3.517, 3.518, 3.519 do Conselho Monetário Nacional;
+b) Leis 8.036/1990; 8.078/1990 e 9.514/1997;
+c) art. 877 do Código Civil de 2002.
+Sustentou, em suma: (i) serem legítimas as cobranças das tarifas efetuadas, tendo em vista haver pactuação expressa de suas cobranças no contrato entabulado entre as partes bem como a efetiva prestação dos serviços a ela correspondentes; e (ii) ausência dos requisitos para a repetição do indébito pois não houve pagamento indevido nem a comprovação de eventual prejuízo.
+A Corte de origem deixou de admitir o recurso especial pelos seguintes fundamentos: a) menção genérica sem especificação dos artigos de lei tidos por violados (Súmula 284/STF); b) não houve demonstração das vulnerações legais suscitadas; e c) aplicação da Súmula 7/STJ.
+Irresignado (fls. 440-443, e-STJ), argumenta o agravante que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Contraminuta às fls. 446-451 (e-STJ).
+Brevemente relatado, decido.
+De início, verifico que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preliminarmente, no tocante à alegada violação às Resoluções do CMN/BACEN, é inviável seu exame, na via do recurso especial, por não se enquadrar o referido normativo no conceito de lei federal previsto no art. 105, a, da Constituição Federal.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. PREVIDÊNCIA PRIVADA. ALEGADA VIOLAÇÃO A DISPOSITIVOS NÃO PREQUESTIONADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS NºS 282 E 284, AMBAS DO STF. INTERPRETAÇÃO DE NORMA PROCEDIMENTAL DA CORTE DE ORIGEM. NÃO CABIMENTO. PUBLICAÇÃO DE DECISÃO. IDENTIFICAÇÃO. NOMES DAS PARTES. ART. 263, § 1º, CPC/73.
+REGULARIDADE. PRECEDENTES. REVISÃO. SÚMULA Nº 7 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO.
+1. Vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(..)
+4. A jurisprudência desta Corte firmou o entendimento de que o recurso especial não constitui via adequada para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, por não estarem tais atos normativos compreendidos na expressão de lei federal, consoante a alínea a do inciso III do 105 da CF.
+5. Nos termos do art. 236, § 1º, do CPC/73, para a validade da publicação, é imprescindível constarem os nomes das partes e de seus advogados. Precedentes.
+6. Cotejar a afirmação recursal de que na publicação não constaram os nomes das partes, com o delineado em sentido contrário pela instância de origem, é procedimento vedado na via especial, a teor da Súmula nº 7 do STJ.
+7. A entidade não apresentou argumento novo capaz de modificar a conclusão adotada, que se apoiou em entendimento aqui consolidado para conhecer do agravo e negar provimento ao recurso especial por ela manejado.
+8. Em razão da improcedência do presente recurso, e da anterior advertência em relação à incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+9. Agravo interno não provido, com imposição de multa (AgInt no AREsp 1016837/SC, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 28/03/2017, DJe 11/04/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 525 DO CPC. NÃO OCORRÊNCIA. DESCUMPRIMENTO DA EXIGÊNCIA DA JUNTADA DAS PEÇAS OBRIGATÓRIAS. RECURSO NÃO PROVIDO.
+ ..
+2. O recurso especial não constitui a via adequada para a análise de eventual ofensa a resoluções, portarias, instruções normativas ou regulamentos de pessoa jurídica, por não estarem tais atos normativos compreendidos na expressão "lei federal", constante da alínea "a" do inciso III do artigo 105 da Constituição Federal de 1988.
+ ..
+4. Agravo regimental não provido (AgRg no AREsp 698.767/TO, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 6/10/2015, DJe 15/10/2015)
+No tocante às alegações de violação das Leis 8.036/1990; 8.078/1990 e 9.514/1997, cumpre destacar que o recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera nos termos do que foi impugnado. Assim, a ausência de indicação expressa dos artigos tidos por vulnerados não permite verificar se a legislação federal infraconstitucional foi, ou não, malferida.
+Dessa forma, é de rigor a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal:
+ É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAL E MATERIAL. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC. REDUÇÃO DAS INDENIZAÇÕES. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. A insurgência contra o valor arbitrado a título de indenização por danos moral e material esbarra na vedação prevista na referida súmula. Apenas em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a quantia fixada, é possível a revisão do quantum por esta Corte, situação não verificada no caso dos autos.
+4. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a indicação do dispositivo legal objeto de interpretação divergente, a demonstração da divergência mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos moldes exigidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC.
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 263.628/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/03/2014, DJe 04/04/2014).
+Na hipótese ora em análise, o Tribunal de origem, ao dirimir a controvérsia, concluiu pela abusividade da cobrança das tarifas de serviços administrativos e de avaliação do bem, nos seguintes termos (e-STJ, fls. 359 e 363):
+(..)
+Por fim, deve ser reconhecida a abusividade da tarifa de serviços administrativos e avaliação do bem por colidir com o disposto no art. 46, parte final, e art. 51, inc. IV e XII, do CDC. Estas tarifas caracterizam indevido repasse ao consumidor do custo de serviços administrativos inerentes à atividade de agente financeiro.
+(..)
+Ante o exposto, dá-se parcial provimento ao recurso para declarar a abusividade da tarifa de serviços administrativos e avaliação da garantia, determinando-se sua restituição com correção monetária desde cada desembolso e juros de mora a partir da citação, ficando mantida a sucumbência (Sem grifos no original).
+Dessa forma, a inversão do que foi decidido pelo Colegiado estadual demandaria, necessariamente, o reexame do acervo fático-probatório contido nos autos, providência que desafia o enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
