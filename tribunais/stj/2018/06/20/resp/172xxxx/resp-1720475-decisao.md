@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - PRELIMINAR DE NÃO CONHECIMENTO - AUSÊNCIA DE PEÇAS OBRIGATÓRIAS - PROCESSO DIGITAL - EXIGÊNCIA DISPENSADA - ARTIGO 1017, I, DO CPC/15 - EMPRÉSTIMO CONSIGNADO - LIMITAÇÃO DOS DESCONTOS EM FOLHA DE PAGAMENTO EM 40% (EMPRÉSTIMO CONSIGNADO) -10% (CARTÃO DE CRÉDITO) e 20%(ADIANTAMENTO SALARIAL) SOBRE OS RENDIMENTOS BRUTO - LIMITAÇÃO POSSIBILIDADE - DECRETO ESTADUAL Nº 12.796/2009 - PRESENÇA DOS REQUISITOS ENSEJADORES PARA CONCESSÃO DA TUTELA ANTECIPADA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+A exigência contida no inciso I do artigo 1017, está dispensada quando os autos forem eletrônicos, conforme reza o §5º, do artigo em voga.
+Conforme disposição do Decreto Estadual nº 12.796/2009, aplicável aos servidores públicos civis e militares da administração direta, autarquias, fundações e empresas públicas do Poder Executivo de Mato Grosso do Sul, os descontos em folha de pagamento decorrente de empréstimos consignados, cartão de crédito e adiantamento salarial, ficam limitados ao percentual de 40%, 10% e 20% da renda bruta, respectivamente.
+Presentes os requisitos autorizadores, a concessão da tutela antecipada pretendida pelo recorrente é medida que se impõe.
+Recurso conhecido e provido em parte.
+No presente recurso especial, o recorrente aponta violação do art. 1º, § 1º, da Lei nº 10.820/2003; bem como dissídio jurisprudencial.
+Sustenta, em síntese, que as limitações realizadas diretamente na folha de pagamento do trabalhador, mesmo sendo ele servidor estadual, como é o caso da Recorrente, não podem exceder o limite de 30% (trinta por cento), limite este estipulado pela Lei Federal nº 10.820/2003.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, o Decreto Estadual n. 12.796/2009, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse diapasão, confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSTALAÇÃO DE ESTAÇÃO DE RÁDIO-BASE DE TELEFONIA. AUSÊNCIA DE AUTORIZAÇÃO MUNICIPAL. LEI MUNICIPAL 13.756/04 E DECRETO MUNICIPAL 44.944/04. MATÉRIA DE DIREITO LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 26/08/2016, que, por sua vez, julgara recurso interposto contra decisão publicada na vigência do CPC/73.
+II. Segundo consta do acórdão recorrido, a "Prefeitura Municipal de São Paulo propôs ação demolitória, em face da Tim Celular S/A, perante o Juízo da 7ª Vara da Fazenda Pública da Comarca da Capital, objetivando a remoção da estação de rádio base instalada irregularmente, em razão de o equipamento estar em funcionamento sem prévio licenciamento urbanístico". O Tribunal de origem manteve a sentença de procedência.
+III. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em leis locais (Lei municipal 13.756/04 e Decreto municipal 44.944/04). Assim, torna-se inviável, em Recurso Especial, o exame da matéria nele inserida, diante da incidência, por analogia, da Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário". Nesse sentido: STJ, AgRg no AREsp 709.574/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/09/2015; REsp 1.455.034/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/04/2015.
+IV. Agravo interno improvido.
+(AgInt no AREsp 970.011/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/5/2017, DJe 24/5/2017).
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. MUNICÍPIO DE SÃO PAULO. REAJUSTES REMUNERATÓRIOS. LEIS MUNICIPAIS. INCIDÊNCIA. MATÉRIA LOCAL. SÚMULA 280/STF.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.217.076/SP, representativo de controvérsia repetitiva, firmou o entendimento de que "A discussão, na fase de liquidação, a respeito dos supervenientes reajustes concedidos pela legislação municipal (Lei 12.397/97) e seus reflexos no cálculo do percentual devido e no cumprimento da condenação imposta envolve exclusivamente interpretação e aplicação de direito local, insuscetível de reexame por recurso especial. Aplicação, por analogia, da Súmula 280 do STF" (Rel. Min. Teori Albino Zavascki, DJe 14/10/11).
+2. Agravo Regimental não provido.
+(AgRg no AgRg nos EDcl no AREsp 4.111/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/10/2014, DJe 12/11/2014).
+Por outro lado, a verificação de validade de lei local, em face de lei federal denota natureza constitucional da controvérsia. Tal apreciação, na instância excepcional, não compete ao STJ, mas ao STF, por meio de Recurso Extraordinário (art. 102, III, d, da CF/1988).
+Neste sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PENSÃO POR MORTE. BENEFICIÁRIOS PREVISTOS NA LEI ESTADUAL 180/1978. POSSÍVEL AFRONTA À LEI 9.717/1998. CONTROVÉRSIA SOBRE A VALIDADE DA LEI LOCAL EM FACE DE LEI FEDERAL. DISCUSSÃO DE CARÁTER CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL.
+1. Hipótese em que o Tribunal local consignou: "o que veda a Lei 9.717 é a concessão de benefícios distintos dos concedidos pelo RGPS; o benefício da pensão por morte está previsto no regime geral. Os arts. 152 e 153 da Lei 180/78 apenas identificam os beneficiários da pensão por morte, por isso não há incompatibilidade entre a lei federal e a estadual" (fl. 194, e-STJ).
+2. A insurgente aduz que a estipulação de beneficiários de pensão por morte previstos na lei estadual viola o disposto no art. 5º da Lei 9.717/1998. No entanto, a verificação de validade de lei local em face de lei federal denota natureza constitucional da controvérsia. Tal apreciação, na instância excepcional, não compete ao STJ, mas ao STF, por meio de Recurso Extraordinário (art. 102, III, alínea "d", da CF/1988).
+3. Recurso Especial não conhecido.
+(REsp 1656484/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2017, DJe 02/05/2017)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
