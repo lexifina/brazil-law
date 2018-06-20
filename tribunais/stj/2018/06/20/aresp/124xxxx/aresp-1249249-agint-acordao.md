@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. ISSQN. LOCAÇÃO DE BEM MÓVEL. REPETIÇÃO DE INDÉBITO. INCIDÊNCIA DO ART. 166 DO CTN. ANÁLISE DA NÃO REPERCUSSÃO FINANCEIRA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. PRESCRIÇÃO DECENAL. AÇÃO AJUIZADA ANTES DA VIGÊNCIA DA LC Nº 118/2005. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte já se manifestou no sentido de que, tendo o Tribunal de origem concluído que não ficou comprovado que foi o autor quem efetivamente suportou o ônus do tributo, não é possível ao STJ rever tal entendimento em sede de recurso especial, uma vez que implica nova análise de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+2. O posicionamento do STF ensejou novo pronunciamento da Primeira Seção do Superior Tribunal de Justiça, na sistemática do art. 543-C, a qual decidiu que, "para as ações ajuizadas a partir de 9.6.2005, aplica-se o art. 3º da Lei Complementar n. 118/2005, contando-se o prazo prescricional dos tributos sujeitos a lançamento por homologação em cinco anos a partir do pagamento antecipado de que trata o art. 150, §1º, do CTN" (REsp 1269570/MG, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 04/06/2012).
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto pelo Município de Santo André - SP contra decisão assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. INADMISSIBILIDADE EM RAZÃO DO ART. 1.030, I, "B", DO CPC/2015. CABIMENTO DE AGRAVO INTERNO. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. ISSQN. LOCAÇÃO DE BEM MÓVEL. REPETIÇÃO DE INDÉBITO. INCIDÊNCIA DO ART. 166 DO CTN. ANÁLISE DA NÃO REPERCUSSÃO FINANCEIRA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. PRESCRIÇÃO DECENAL. AÇÃO AJUIZADA ANTES DA VIGÊNCIA DA LC Nº 118/2005. AGRAVO EM RECURSO ESPECIAL PARCIALMENTE CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PARCIAL PROVIMENTO.
+Em suas razões, o ora agravante sustenta, em síntese, que não tendo a agravada se desincumbido do seu ônus de provar o atendimento ao artigo 166 do CTN e à Súmula 546 do STF, não há como prevalecer o seu pedido de restituição.
+Ao final, requer a reforma da decisão ou a remessa do presente agravo à apreciação do órgão colegiado.
+Em impugnação, defende-se a manutenção da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. ISSQN. LOCAÇÃO DE BEM MÓVEL. REPETIÇÃO DE INDÉBITO. INCIDÊNCIA DO ART. 166 DO CTN. ANÁLISE DA NÃO REPERCUSSÃO FINANCEIRA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. PRESCRIÇÃO DECENAL. AÇÃO AJUIZADA ANTES DA VIGÊNCIA DA LC Nº 118/2005. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte já se manifestou no sentido de que, tendo o Tribunal de origem concluído que não ficou comprovado que foi o autor quem efetivamente suportou o ônus do tributo, não é possível ao STJ rever tal entendimento em sede de recurso especial, uma vez que implica nova análise de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+2. O posicionamento do STF ensejou novo pronunciamento da Primeira Seção do Superior Tribunal de Justiça, na sistemática do art. 543-C, a qual decidiu que, "para as ações ajuizadas a partir de 9.6.2005, aplica-se o art. 3º da Lei Complementar n. 118/2005, contando-se o prazo prescricional dos tributos sujeitos a lançamento por homologação em cinco anos a partir do pagamento antecipado de que trata o art. 150, §1º, do CTN" (REsp 1269570/MG, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 04/06/2012).
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, registrou-se na decisão monocrática que a jurisprudência desta Corte já se manifestou no sentido de que, tendo o Tribunal de origem concluído que não ficou comprovado que foi o autor quem efetivamente suportou o ônus do tributo, não sendo possível ao STJ rever tal entendimento em sede de recurso especial, uma vez que implica nova análise de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+Desse modo, conforme bem destacado no acórdão a quo, no que tange à prescrição, não há reflexo direto nesta ação, em face do acolhimento parcial ao recurso da Municipalidade.
+Todavia, cabe registrar que no que tange à prescrição, o Supremo Tribunal Federal, no regime do art. 543-B do Código de Processo Civil - CPC, decidiu que é "válida a aplicação do novo prazo de 5 anos tão-somente às ações ajuizadas após o decurso da vacatio legis de 120 dias, ou seja, a partir de 9 de junho de 2005" (RE 566621, Relatora Min. Ellen Gracie, Tribunal Pleno, Repercussão Geral - mérito, DJe-195).
+O posicionamento do STF ensejou novo pronunciamento da Primeira Seção do Superior Tribunal de Justiça, na sistemática do art. 543-C, a qual decidiu que, "para as ações ajuizadas a partir de 9.6.2005, aplica-se o art. 3º da Lei Complementar n. 118/2005, contando-se o prazo prescricional dos tributos sujeitos a lançamento por homologação em cinco anos a partir do pagamento antecipado de que trata o art. 150, §1º, do CTN" (REsp 1269570/MG, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 04/06/2012).
+A contrario senso, o entendimento da prescrição "decenal" se aplica às ações ajuizadas antes de 9 de junho de 2005.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. TRIBUTO LANÇADO POR HOMOLOGAÇÃO. PRAZO DE PRESCRIÇÃO QUINQUENAL A CONTAR DE CADA PAGAMENTO INDEVIDO. APLICAÇÃO RETROATIVA INDEVIDA. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. APLICAÇÃO DO NOVO PRAZO ÀS AÇÕES AJUIZADAS A PARTIR DE 9.6.2005.
+1. O egrégio STF concluiu o julgamento de mérito do RE 566.621/RS em repercussão geral, em 4.8.2011, afastando parcialmente a jurisprudência do STJ fixada no REsp 1.002.932/SP (repetitivo).
+2. O STF ratificou a orientação do STJ, no sentido de ser indevida a retroatividade do prazo de prescrição quinquenal, nos termos da LC 118/2005, para o pedido de repetição do indébito relativo a tributo lançado por homologação. Entretanto, em relação ao termo e ao critério para incidência da novel legislação, entendeu "válida a aplicação do novo prazo de 5 anos tão somente às ações ajuizadas após o decurso da vacatio legis de 120 dias, ou seja, a partir de 9.6.2005", afastando o óbice à incidência sobre pagamentos realizados antes do início de vigência da LC 118/2005, como o STJ vinha decidindo.
+3. A Primeira Seção, na assentada do dia 23 de maio de 2012, ao julgar o REsp 1.269.570/MG, Rel. Ministro Mauro Campbell, sob o rito dos recursos repetitivos (art. 543-C do CPC), acabou por adequar a jurisprudência do STJ ao recente posicionamento do STF.
+4. No presente caso, a demanda foi ajuizada em 18.8.2006, razão pela qual o prazo prescricional quinquenal deve ser contado de cada pagamento indevido, conforme a LC 118/2005.
+5. Juízo de retratação, nos termos do art. 543-B, § 3º, do Código de Processo Civil. 6. Agravo Regimental provido.
+(AgRg no REsp 1.086.424/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 27/06/2012)
+Consolidado no âmbito desta Corte que, no caso do PIS, tributo sujeito a lançamento por homologação, independentemente da data do reconhecimento de sua inconstitucionalidade pelo STF, a prescrição da pretensão relativa à sua restituição somente ocorre após expirado o prazo de cinco anos, contados do fato gerador, acrescido de mais cinco anos, a partir da homologação tácita. Precedente: REsp 1.110.578/SP, Rel. Min. Luiz Fux, Primeira Seção, DJe 21.5.2010, julgado pela sistemática do art. 543-C do CPC e da Res. STJ n. 8/08.
+Assim, quanto à prescrição, o acórdão a quo dissonou da jurisprudência esta Corte, que pacificou-se no sentido de que aplica-se a prescrição "decenal" quando a ação foi ajuizada antes do início da vigência da LC nº 118/05.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
