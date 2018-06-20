@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] e outros, em face da decisão às fls. 552/555, que negou provimento ao agravo em recurso especial, em razão da incidência da Súmula 7/STJ acerca da tese de existência de direito líquido e certo a fundar a impetração do mandado de segurança.
+A parte embargante sustenta, em resumo, que seu direito líquido e certo " é taxativamente previsto no negócio jurídico celebrado entre as partes, que deixou "resguardado o direito de adequação do imóvel em caso de modificação da lei ambiental"" (fl. 560), salientando que a pretensão da parte agravante "reside na simples determinação de readequação do TAC à lei vigente", o que não dependeria de dilação probatória.
+O Estado de São Paulo e o Ministério Público do Estado de São Paulo, nas impugnações respectivas de fl. 569 e fls. 575/580, requerem a rejeição dos embargos.
+É o relatório.
+Não prospera a irresignação da parte embargante. De acordo com o estatuído no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão, ou erro material do acórdão atacado. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Como asseverado, o agravo em recurso especial não foi conhecido ante a incidência da Súmula 7/STJ, pois o Tribunal de origem, carreado na prova dos autos, teria entendido pela ausência de comprovação do direito líquido e certo da parte ora embargante, ainda que se procedesse ao ajuste do TAC à legislação em vigor.
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões do acórdão embargado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer vício previsto no art. 1.022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se.
