@@ -3,7 +3,7 @@ I - implantação de processo permanente e compartilhado de planejamento e de to
 II - estabelecimento de meios compartilhados de organização administrativa das funções públicas de interesse comum;
 III - estabelecimento de sistema integrado de alocação de recursos e de prestação de contas;
 IV - execução compartilhada das funções públicas de interesse comum, mediante rateio de custos previamente pactuado no âmbito da estrutura de governança interfederativa;
-V - participação de representantes da sociedade civil nos processos de planejamento e de tomada de decisão, no acompanhamento da prestação de serviços e na realização de obras afetas às funções públicas de interesse comum;
+V - participação de representantes da sociedade civil nos processos de planejamento e de tomada de decisão;
 VI - compatibilização dos planos plurianuais, leis de diretrizes orçamentárias e orçamentos anuais dos entes envolvidos na governança interfederativa;
 VII - compensação por serviços ambientais ou outros serviços prestados pelo Município à unidade territorial urbana, na forma da lei e dos acordos firmados no âmbito da estrutura de governança interfederativa.
 Parágrafo único. Na aplicação das diretrizes estabelecidas neste artigo, devem ser consideradas as especificidades dos Municípios integrantes da unidade territorial urbana quanto à população, à renda, ao território e às características ambientais.

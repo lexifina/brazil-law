@@ -6,3 +6,4 @@ IV - mitigação dos custos ambientais, sociais e econômicos dos deslocamentos 
 V - incentivo ao desenvolvimento científico-tecnológico e ao uso de energias renováveis e menos poluentes;
 VI - priorização de projetos de transporte público coletivo estruturadores do território e indutores do desenvolvimento urbano integrado; e
 VII - integração entre as cidades gêmeas localizadas na faixa de fronteira com outros países sobre a linha divisória internacional.
+VIII - garantia de sustentabilidade econômica das redes de transporte público coletivo de passageiros, de modo a preservar a continuidade, a universalidade e a modicidade tarifária do serviço.
