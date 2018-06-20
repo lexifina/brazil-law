@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e OUTRO contra decisão que não admitiu recurso especial interposto com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 270, e-STJ):
+COMPROMISSO DE COMPRA E VENDA. Revisão contratual com pedido de tutela antecipada. Sentença de improcedência. Discussão sobre critérios de reajuste das parcelas do preço e do saldo devedor. Incidência do Código de Defesa do Consumidor que em nada altera a conclusão da sentença. Aplicação de reajustes em obediência ao contrato. Legalidade da tabela Price. Inexistência de capitalização. Aplicação do art. 252 do Regimento Interno deste Egrégio Tribunal de Justiça.
+Recurso não provido.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Em relação ao juízo de admissibilidade realizado pelo Tribunal de origem, destaco que esta Corte possui entendimento no sentido de que "é admitida a incursão no mérito do recurso especial pelo Tribunal a quo para a verificação da admissibilidade do apelo nobre" (AgRg no Ag 1.034.534/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, DJe 3.2.2009).
+Não admitido o especial na origem, por ausência de demonstração da violação dos dispositivos de lei arrolados no recurso, ante a incidência das Súmulas 5 e 7 do STJ e em razão do dissídio jurisprudencial não ter sido realizado nos moldes legais, limitaram-se os agravantes a sustentar a usurpação de competência do STJ pelo Tribunal de origem e a inaplicabilidade das Súmulas 5 e 7 do STJ.
+Assim, sem a impugnação específica e suficiente para infirmar os fundamentos da decisão agravada, por analogia se aplica o princípio do enunciado n. 182 da Súmula do STJ, reproduzido no art. 932, III, do CPC/2015.
+Em face do exposto, não conheço do agravo.
+Intimem-se.
