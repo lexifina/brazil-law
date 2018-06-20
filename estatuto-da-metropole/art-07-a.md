@@ -1,0 +1,3 @@
+Art. 7º-A. No exercício da governança das funções públicas de interesse comum, o Estado e os Municípios da unidade territorial deverão observar as seguintes diretrizes gerais:
+I - compartilhamento da tomada de decisões com vistas à implantação de processo relativo ao planejamento, à elaboração de projetos, à sua estruturação econômico-financeira, à operação e à gestão do serviço ou da atividade; e
+II - compartilhamento de responsabilidades na gestão de ações e projetos relacionados às funções públicas de interesse comum, os quais deverão ser executados mediante a articulação de órgãos e entidades dos entes federados.

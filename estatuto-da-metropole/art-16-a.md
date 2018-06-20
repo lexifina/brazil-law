@@ -1,0 +1,1 @@
+Art. 16-A. A União apoiará as iniciativas dos Estados e dos Municípios voltadas à governança interfederativa e promoverá a instituição de um sistema nacional de informações urbanas e metropolitanas, observadas as diretrizes do plano plurianual, as metas e as prioridades fixadas pela leis orçamentárias anuais.
