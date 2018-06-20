@@ -1,0 +1,27 @@
+DECISÃO
+LUAN SOARES REZENDE alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, nos autos dos Embargos Infringentes n. 1.0433.16.017884-7/001.
+Consta dos autos que o paciente foi condenado como incurso nas sanções previstas no art. 155, § 4º, II, do Código Penal, à pena de 2 anos e 6 meses de reclusão, no regime semiaberto, mais multa. A Corte estadual deu parcial provimento à apelação da defesa, a fim de reduzir a pena para 2 anos de reclusão. Todavia, manteve a qualificadora da escalada, o que foi confirmado com o julgamento dos embargos infringentes.
+Neste habeas corpus, a defesa sustenta a ilegalidade da qualificadora da escalada pela falta de perícia.
+Requer, ao final, o decote da referida qualificadora.
+Não houve pedido liminar.
+Prestadas as informações (fls. 281-304 e 307-310), veio parecer do Ministério Público Federal, que opinou pela concessão da ordem (fls. 312-317).
+Decido.
+Sobre a comprovação da qualificadora da escalada, o Juiz de primeiro grau asseverou que "é imprescindível que o agente entre no local por via anormal, não destinada, normalmente, ao trânsito de pessoas, através de um esforço incomum, não sendo necessário laudo pericial para sua configuração, podendo ser comprovada por qualquer meio de prova" (fl. 171).
+A Corte de origem confirmou os termos da sentença e ressaltou que, "embora ausente nos autos laudo pericial, atento às provas produzidas, sobretudo a própria confissão do réu, mantenho o reconhecimento da qualificadora da escalada" (fl. 267).
+No julgamento do REsp n. 1.320.298/MG, a Sexta Turma do STJ examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste. Na oportunidade, empreendi análise mais aprofundada do tema, com proposta de modificação de entendimento predominante na Corte.
+Levado o referido recurso a julgamento, meu voto não foi acolhido pela Sexta Turma, ficando como relator para o acórdão o Ministro Nefi Cordeiro, que consignou o entendimento da maioria de que "o reconhecimento da qualificadora da escalada, prevista no art. 155, § 4º, II, do Código Penal, exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo" (REsp n. 1.320.298/MG, Rel. Ministro Rogerio Schietti, Rel. p/ acórdão Ministro Nefi Cordeiro, 6ª T., DJe 23/2/2016).
+Portanto, com a ressalva de meu entendimento pessoal, aderi ao posicionamento predominante, para reconhecer, como regra, a imprescindibilidade da realização de exame pericial para constatação da escalada.
+Como na hipótese dos autos é incontroverso que não foi realizado exame pericial para atestar a escalada - comprovada, segundo as instâncias ordinárias, pela prova oral - e a Corte estadual não demonstrou nenhuma excepcionalidade que justificasse a não realização do referido exame no local, deve ser afastada a incidência da qualificadora.
+Exemplificativamente:
+ ..
+1. No julgamento do REsp n. 1.320.298/MG, a Sexta Turma desta Corte Superior examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste. Na oportunidade - na qual fiquei vencido -, firmou-se o entendimento de que o exame pericial é imprescindível para a configuração da qualificadora da escalada.
+2. O acórdão proferido no julgamento do recurso de apelação registra o entendimento de que a escalada (genericamente) não deixa vestígios.
+3. Todavia, a Corte estadual não indica elementos do caso concreto que evidenciem, na hipótese, inexistirem vestígios materiais, o que teria inviabilizado a realização do exame pericial e, por conseguinte, permitiria que a qualificadora em exame fosse demonstrada por outras provas.
+ ..
+6. Agravo regimental não provido. Execução imediata determinada.
+(AgRg no REsp n. 1.631.056/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe 26/4/2017)
+No mesmo sentido, o Ministério Público Federal salientou que "nem o édito condenatório e tampouco os acórdãos impugnados indicaram os fundamentos pelos quais o exame pericial deixou de ser realizado, limitando-se a apontar a existência de via anormal para entrar ao local, bem como a existência de confissão" (fl. 315).
+Procedo, então, à nova dosimetria da pena.
+Partindo dos critérios adotados pelas instâncias antecedentes, verifico que a pena-base foi fixada no mínimo legal (fl. 241). Afastada a incidência da qualificadora da escalada, fixo a pena-base em 1 ano de reclusão e 10 dias-multa, o que a torna definitivamente estabelecida, ante a compensação da confissão espontânea com a reincidência na segunda etapa da dosimetria e a ausência de causas de diminuição e de aumento de pena.
+À vista do exposto, concedo a ordem, a fim de afastar a incidência da qualificadora da escalada e, por conseguinte, readequar a pena imposta ao réu, tornando-a definitiva em 1 ano de reclusão e 10 dias-multa, mantido, nos demais termos, o acórdão recorrido.
+Publique-se e intimem-se.
