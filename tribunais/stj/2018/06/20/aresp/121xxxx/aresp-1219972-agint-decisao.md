@@ -1,0 +1,26 @@
+DECISÃO
+Em virtude das razões expostas na petição de fls. 178-182, e-STJ, reconsidero a decisão de fls. 173-174, e-STJ, proferida pela Presidência desta Corte Superior. Passo à nova análise do agravo interposto por COMERCIAL DE GÊNEROS ALIMENTÍCIOS PAULISTA DE MONTE MOR LTDA contra decisão que negou seguimento ao recurso especial, com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado:
+PROCESSO CIVIL - CERCEAMENTO DE DEFESA - INOCORRÊNCIA - Incumbe ao julgador o exame das provas necessárias e pertinentes ao julgamento na forma do art. 370 do CPC - Desnecessidade de produção de outras provas, pelas circunstâncias que se extraem dos autos - Preliminar rejeitada.
+EXECUÇÃO - DUPLICATAS - REQUISITOS LEGAIS PRESENTES - INEXISTÊNCIA DE NULIDADE - Extrai-se que a execução traz os documentos exigidos pela Lei de Duplicatas (notas fiscais, comprovantes de recebimento e instrumentos de protesto), observando-se a desnecessidade de apresentação do original do título - Precedentes do STJ e desta Corte - Títulos de obrigação certa, líquida e exigível - Preliminar de nulidade rejeitada - Hipótese, ademais, em que a embargante não trouxe nenhum início de prova para demonstrar qualquer vício no negócio ou nulidade do negócio jurídico subjacente, nem mesmo sendo esclarecida qualquer providência quanto aos protestos dos títulos em seu nome - Recurso desprovido, com honorários recursais majorados para 15% do valor da causa, observando-se, no mais, a assistência judiciária gratuita deferida nos autos.
+Nas razões do especial, aponta o recorrente negativa de vigência do artigo 1.013 do novo Código de Processo Civil, alegando que ocorreu julgamento antecipado sem que houvesse a produção de prova quanto à apresentação do livro de emissão de duplicatas da parte agravada.
+Aduz que a majoração dos honorários sucumbenciais em favor da parte adversa foi indevido por ser o agravante beneficiário da justiça gratuita.
+Sustenta que diante da necessária dilação probatória, a causa não se encontrava madura para o julgamento de mérito, o que não foi observado pelo Tribunal de origem.
+Assim delimitada a controvérsia, passo a decidir.
+De início, apesar de manejado sob o argumento da negativa de vigência a artigos de lei, nas razões do recurso especial, não houve indicação de quais dispositivos legais teriam sido violados pelo acórdão local quanto ao cerceamento de defesa e majoração dos honorários advocatícios, ressaltando-se que na instância ordinária não se aplica o brocardo jura novit curia, de modo que incide o verbete n. 284, do STF. De igual teor:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284/STF. DANOS MORAIS. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+2. (..)
+3. (..)
+4. Agravo interno a que nega provimento.
+(AgInt no AREsp 1126226/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 30/10/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DEFICIÊNCIA DAS RAZÕES RECURSAIS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS QUE TERIAM SIDO VIOLADOS OU RECEBIDO INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. INCIDÊNCIA. QUESTÃO DE ORDEM PÚBLICA. PRESCRIÇÃO. ANÁLISE QUE PRESSUPÕE A SUPERAÇÃO DO JUÍZO PRÉVIO DE ADMISSIBILIDADE RECURSAL. IMPOSSIBILIDADE DE CONHECIMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt no AREsp 1040787/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 21/5/2018)
+Quanto aos limites do efeito devolutivo da apelação, a referida tese não foi debatida na decisão recorrida, não servindo de fundamento à conclusão adotada pelo Tribunal de origem, estando ausente o requisito indispensável do prequestionamento, exigido, inclusive, para as matérias de ordem pública. Incidem, na hipótese, as Súmulas nº 282 e 356 do STF. Neste sentido, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APONTADA OMISSÃO DO ACÓRDÃO EMBARGADO. VERIFICADA FALTA DE APRECIAÇÃO DA ALEGAÇÃO RELATIVA AO EFEITO TRANSLATIVO DO RECURSO ESPECIAL. COISA JULGADA. QUESTÃO DE ORDEM PÚBLICA. NECESSIDADE DE PREQUESTIONAMENTO.
+1. A jurisprudência desta Corte é firme no sentido de que, na instância especial, é vedado o exame ex officio de questão não debatida na origem, ainda que se trate de matéria de ordem pública.
+2. Não tendo sido discutida nas instâncias ordinárias a questão da prescrição, é inviável sua apreciação nesta instância. Incidem no caso as Súmulas 282 e 356/STF.
+3. Embargos de declaração parcialmente acolhidos.
+(EDcl no AgRg no REsp 948.003/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 3/12/2013)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
