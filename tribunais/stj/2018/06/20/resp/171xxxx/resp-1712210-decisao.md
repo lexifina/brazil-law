@@ -1,0 +1,42 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra acórdão prolatado, por unanimidade, pela 17ª Câmara do Tribunal de Justiça do Estado de São Paulo no julgamento de apelação, assim ementado (fls. 578e):
+Comprovada a redução auditiva de origem ocupacional, de rigor a concessão do auxílio acidente, no caso, a partir da citação.
+Opostos embargos de declaração, foram rejeitados (fls. 595/600e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 535 do Código de Processo Civil - omissão quanto a incidência de juros após a conta de liquidação; e
+Art. 23 da Lei n. 8.213/91 - nos casos de doença profissional ou do trabalho, como é o caso dos autos, o termo inicial do benefício deve ser fixado a contar da data da juntada do laudo pericial em juízo.
+Com contrarrazões (fls. 612/614e), o recurso foi inadmitido (fl. 617e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 641e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Não se pode conhecer a apontada violação ao art. 535 do Código de Processo Civil, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AFASTAMENTO. AUSÊNCIA DE INÉRCIA DO CREDOR. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO NÃO COMPROVADO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+(..)
+(AgRg no REsp 1450797/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/06/2014, DJe 11/06/2014)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. SÚMULA 284/STF. SERVIDOR PÚBLICO. PROFISSIONAL DA ÁREA DA SAÚDE. IMPOSSIBILIDADE DE ACUMULAÇÃO DE CARGOS. ACÓRDÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INCOMPATIBILIDADE DE HORÁRIOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ELEITA. SÚMULA 7/STJ. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC, a agravante não evidencia qualquer vício no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no AREsp 422.907/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 18/12/2013; AgRg no AREsp 75.356/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 21/10/2013.
+(AgRg no AREsp 318.883/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/06/2014, DJe 01/07/2014, destaque meu).
+No mais, no caso, verifico que o acórdão recorrido adotou entendimento pacificado nesta Corte segundo o qual, na ausência de prévio requerimento administrativo, o benefício deve ser concedido a partir da citação e não da juntada do laudo pericial aos autos, conforme demonstram os julgados assim ementados:
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. APOSENTADORIA POR INVALIDEZ. TERMO INICIAL PARA A IMPLEMENTAÇÃO DO BENEFÍCIO CONCEDIDO NA VIA JUDICIAL. AUSÊNCIA DE PEDIDO ADMINISTRATIVO. ART. 219, CAPUT, DO CPC. CITAÇÃO VÁLIDA DA AUTARQUIA PREVIDENCIÁRIA.
+1. Com a finalidade para a qual é destinado o recurso especial submetido a julgamento pelo rito do artigo 543-C do CPC, define-se: A citação válida informa o litígio, constitui em mora a autarquia previdenciária federal e deve ser considerada como termo inicial para a implantação da aposentadoria por invalidez concedida na via judicial quando ausente a prévia postulação administrativa.
+2. Recurso especial do INSS não provido.
+(REsp 1369165/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 26/02/2014, DJe 07/03/2014, destaque meu).
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. TERMO INICIAL DO BENEFÍCIO. AUSÊNCIA DE REQUERIMENTO ADMINISTRATIVO. CITAÇÃO VÁLIDA. MATÉRIA JÁ DECIDIDA SOB O RITO DO ART. 543-C DO CPC.
+1. O tema relativo ao termo inicial de benefício proveniente de incapacidade laborativa já foi exaustivamente debatido nesta Corte, a qual, após oscilações, passou a rechaçar a fixação da Data de Início do Benefício - DIB a partir do laudo pericial, porquanto a prova técnica prestar-se-ia unicamente para nortear o convencimento do juízo quanto à pertinência do novo benefício, mas não para atestar o efetivo momento em que a moléstia incapacitante se instalou.
+2. Atualmente a questão já foi decidida nesta Corte sob o rito dos recursos repetitivos (art. 543-C do CPC), restando pacificada a jurisprudência no sentido que "A citação válida informa o litígio, constitui em mora a autarquia previdenciária federal e deve ser considerada como termo inicial para a implantação da aposentadoria por invalidez concedida na via judicial quando ausente a prévia postulação". (REsp 1.369.165/SP, Rel. Ministro BENEDITO GONÇALVES, Primeira Seção, DJe 7/3/2014).
+3. Recurso especial parcialmente provido.
+(REsp 1311665/SC, Rel. Ministro ARI PARGENDLER, Rel. p/ Acórdão Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 02/09/2014, DJe 17/10/2014, destaques meus).
+PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. TERMO INICIAL. ART. 86, § 2º, DA LEI N. 8.213/91.
+1. Nos termos da jurisprudência do STJ, o benefício previdenciário de cunho acidental ou o decorrente de invalidez deve ser concedido a partir do requerimento administrativo e, na sua ausência, a partir da citação. A fixação do termo a quo a partir da juntada do laudo em juízo estimula o enriquecimento ilícito do INSS, visto que o benefício é devido justamente em razão de incapacidade anterior à própria ação judicial.
+2. No caso dos autos houve o pedido administrativo de concessão do benefício. Todavia, o laudo pericial atestou que a incapacidade do autor só ocorreu anos após a interposição do requerimento administrativo.
+3. Determinar como início da concessão do benefício a data do requerimento administrativo seria conceder benefício sem o preenchimento de um dos requisitos essenciais para tal, qual seja, a incapacidade.
+4. In casu, o benefício deve ser concedido a partir da constatação da incapacidade atestada no laudo pericial como estabelecido na sentença de primeiro grau.
+Recurso especial provido.
+(REsp 1411921/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/10/2013, DJe 25/10/2013, destaque meu).
+Na mesma linha, destaco os seguintes julgados desta Corte: AgRg no AREsp 475.906/SP, 2ª T., Rel. Min. Og Fernandes, DJe de 24.04.2014; AgRg no REsp 1.377.333/SP, 1ª T., Rel. Min. Napoleão Nunes Maia Filho, DJe de 03.04.2014; AgRg no REsp 1.417.924/SC, 2ª T., Rel. Min. Mauro Campbell Marques, DJe de 16.12.2013; AgRg no AREsp 255.793/SP, 1ª T., Rel. Min. Arnaldo Esteves Lima, DJe de 16.04.2013.
+In casu, tendo o acórdão recorrido adotado entendimento pacificado nesta Corte, o Recurso Especial não merece prosperar pela incidência da Súmula 83/STJ.
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
