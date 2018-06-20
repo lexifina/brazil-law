@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 9, p. 61):
+    “AÇÃO RESCISÓRIA – POLICIAL MILITAR – Pretensão de rescisão de acórdão exarado em Apelação e de reintegração às fileiras da Corporação – Descabimento – Manifesta violação de normas jurídicas não configurada – Não reconhecimento de Prova Nova – Decisão devidamente fundamentada – Improcedência.
+    Devidamente analisadas e rebatidas as teses do autor em sede de apelação, inviável a utilização da Ação Rescisória como recurso da decisão rescindenda. Via estreita que não se presta para a correção de injustiça da sentença nem para reexame de prova.”
+    No recurso extraordinário, com fundamento no artigo 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 5º, LIV e LV; e 93, IX, da Constituição Federal.
+    Nas razões recursais sustenta-se, em suma, que “o Recorrente nunca utilizou dos meios do Estado para se beneficiar ou beneficiar quem quer que seja, tampouco para prática de atos ilícitos, o que afasta sem dúvida a incidência do nº 26, do parágrafo único, do art. 13, da Lei Complementar Estadual nº 893/01.” (eDOC 10, p. 75).
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Inicialmente, observo que inexiste a alegada violação ao art. 93, IX, da Constituição Federal. Com efeito, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses do recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ademais, no que diz respeito à ofensa ao art. 5º, LIV e LV, da Constituição, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013, Tema 660, o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, do ato jurídico perfeito e da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Carta da República, como no caso dos autos.
+    Por fim, no julgamento do AI 751.478, de relatoria do Ministro Dias Toffoli, DJe 20.08.2010 (Tema 248), o Supremo Tribunal Federal entendeu não haver repercussão geral quando o exame dos pressupostos da ação rescisória – cuja decisão é impugnada por meio de recurso extraordinário – depender de análise de matéria infraconstitucional, como ocorre no caso dos autos.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 20 de junho de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
