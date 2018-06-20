@@ -1,0 +1,36 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTAS OMISSÕES ALEGADAS NO ESPECIAL NÃO ESPECIFICADAS. SÚM. 284/STF. TERMO INICIAL DA DECADÊNCIA ADMINISTRATIVA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚM. 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS ALEGADAMENTE VIOLADOS. SÚM. 211/STJ.
+1. De fato, é imperativa a incidência da Súm. 284/STF sobre a alegada violação do art. 1.022 do CPC/2015, uma vez que o agravante quedou-se inerte quanto a demonstração das razões pelas quais teria esse sido violado pelo Tribunal a quo.
+2. O agravante deixou de impugnar, em seu recurso especial, o fundamento do Tribunal de origem de que o termo inicial da decadência teria sido em dezembro de 2009. Impõe-se, por consectário, a incidência da Súm. 283/STF.
+3. O decisum agravado foi correto ao elucidar a incidência da Súm. 211/STJ sobre a alegada violação do art. 6º, §§ 1º e 2º, da LINDB, do art. 5º da Lei n. 9.717/1998 e do art. 16 da Lei n. 8.213/1991, uma vez que o Tribunal de origem não discorreu acerca dos referidos dispositivos e das teses por eles abarcadas.
+4. Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno no recurso especial interposto por ALINE DE CASSIA ESTRELA em face de decisão assim ementada (e-STJ fl. 333):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO DE DISPOSITIVO LEGAL. SÚM. N. 284/STF. AUTOTUTELA ADMINISTRATIVA. TERMO INICIAL DO PRAZO DECADENCIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚM. N. 283/STF. DISPOSITIVO LEGAL NÃO PREQUESTIONADO. SÚM. N. 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões recursais, a agravante sustenta o equívoco da decisão agravada, na medida em que não incidiria, sobre o recurso, os óbices das Súmulas 284/STF, 283/STF e 211/STJ.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado, para o conseguinte conhecimento e provimento do agravo interno.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTAS OMISSÕES ALEGADAS NO ESPECIAL NÃO ESPECIFICADAS. SÚM. 284/STF. TERMO INICIAL DA DECADÊNCIA ADMINISTRATIVA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚM. 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS ALEGADAMENTE VIOLADOS. SÚM. 211/STJ.
+1. De fato, é imperativa a incidência da Súm. 284/STF sobre a alegada violação do art. 1.022 do CPC/2015, uma vez que o agravante quedou-se inerte quanto a demonstração das razões pelas quais teria esse sido violado pelo Tribunal a quo.
+2. O agravante deixou de impugnar, em seu recurso especial, o fundamento do Tribunal de origem de que o termo inicial da decadência teria sido em dezembro de 2009. Impõe-se, por consectário, a incidência da Súm. 283/STF.
+3. O decisum agravado foi correto ao elucidar a incidência da Súm. 211/STJ sobre a alegada violação do art. 6º, §§ 1º e 2º, da LINDB, do art. 5º da Lei n. 9.717/1998 e do art. 16 da Lei n. 8.213/1991, uma vez que o Tribunal de origem não discorreu acerca dos referidos dispositivos e das teses por eles abarcadas.
+4. Agravo interno desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+De fato, sobre a alegada violação do art. 1.022, do CPC/2015, incide o óbice da Súm. 284/STF. Isso porque, o agravante quedou-se inerte quanto a demonstração das razões pelas quais teria esse sido violado pelo Tribunal a quo. O que se observa, a partir da leitura do recurso especial, é que o recorrente nem sequer indicou qual seriam as supostas contradições ou obscuridades, e nem tampouco comprovou que haveria omissão quanto à tese fundamental à conclusão do julgado. Destarte, é inexorável a incidência da Súm. 284/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Outrossim, é irrefragável a incidência da 283/STF sobre a apontada violação do art. 1º do Dec.-Lei n. 20.910/1932. A partir da leitura do apelo especial, é evidente que o recorrente deixou de impugnar todos os fundamentos do acórdão recorrido, em especial a conclusão de que o termo inicial da decadência "somente começou a contar a partir de 07 de dezembro de 2009, quando ao completar a beneficiária vinte e um anos de idade a pensão passou a ser ilegal" (e-STJ fl. 244), suficiente por si só à manutenção do julgado. Competia ao agravante refutar a alegação de que o termo inicial teria sido em 2009 - deixando claro, por exemplo, como a data em que o benefício passou a ser ilegal não deve ser considerada o termo inicial. Impõe-se, por consectário, a incidência da Súm. 283 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Por fim, o decisum agravado foi correto ao elucidar a incidência da Súm. 211/STJ sobre a alegada violação do art. 6º, §§ 1º e 2º, da LINDB, do art. 5º da Lei n. 9.717/1998 e do art. 16 da Lei n. 8.213/1991. Isso porque não houve apreciação pelo Tribunal de origem sobre o dispositivo e sobre a tese por ele abarcada, o que impossibilita o julgamento do recurso no ponto, por ausência de prequestionamento, incidindo, no caso, o óbice da Súm. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Efetivamente, para a configuração do questionamento prévio não é necessário que o Tribunal de origem mencione expressamente o dispositivo infraconstitucional tido como violado. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não-preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso especial. Tal medida se justifica pelo simples fato de que não poderia o Tribunal de origem ter contrariado lei quanto a matéria que sequer tratou.
+Assim, não merece reparo a decisão agravada.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
