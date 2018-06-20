@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito negativo por iniciativa do Juízo da Vara do Trabalho de Três Corações, Estado de Minas Gerais, em face do Juízo de Direito da 2ª Vara Cível da mesma cidade, relativamente à ação de justificação proposta por [NOME] em desfavor dos Correios - Empresa Brasileira de Correios e Telégrafos - DR/RJ, e do Banco Bradesco - Banco Brasileiro de Descontos.
+Na inicial, o autor relata que presta serviços noturnos em emprego como vigilante, particularidade que não teria sido informada pelos réus, seus empregadores, os quais pretende que confirmem essa condição para surtir reflexos futuros na aposentadoria a ser requerida junto ao INSS - Instituto Nacional do Seguro Social.
+O Juízo estadual, ao qual primeiro distribuído o feito, declinou da competência para a Justiça do Trabalho porque o pedido é decorrência de relação de trabalho (fls. 91/92).
+O Juízo do Trabalho suscitou o presente conflito ao argumento de que a "ação de produção antecipada de provas" deve tramitar no foro em que for processada a ação para a qual será produzida (fls. 98/99).
+Instado a se manifestar, o Ministério Público Federal opinou pelo conhecimento do conflito, declarando-se a competência da Justiça estadual (fls. 110/113).
+Assim delimitada a controvérsia, verifica-se que deve ser declarada a competência da autoridade judicial suscitada.
+Com efeito, cuidando-se de ação de justificação que vise à obtenção de benefícios previdenciários, ainda que situada no polo passivo empresa pública federal, deve ser processada e julgada perante a Justiça comum estadual quando a comarca não for sede de Vara Federal, nos estritos termos da Súmula 32/STJ, que prescreve:
+Compete à Justiça Federal processar justificações judiciais destinadas a instruir pedidos perante entidades que nela têm exclusividade de foro, ressalvada a aplicação do art. 15, II da Lei 5010/66.
+Como exemplo de precedentes nesse sentido, transcrevo os seguintes:
+CONSTITUCIONAL. PREVIDENCIÁRIO. AÇÃO DE JUSTIFICAÇÃO JUDICIAL. COMPETÊNCIA. FORO DO DOMICÍLIO DO JUSTIFICANTE. JUSTIÇA ESTADUAL. APLICAÇÃO DA RESSALVA DA SÚMULA Nº 32 DO STJ.
+- Compete à Justiça Estadual processar e julgar ação de justificação judicial para fins de habilitação de benefício previdenciário na hipótese em que o domicílio da justifícante não for sede de Vara do Juízo Federal. (Súmula nº 32, do STJ).
+- Conflito conhecido. Competência do Juízo Estadual, o suscitado.
+(Terceira Seção, CC 25.529/RJ, Rel. Ministro VICENTE LEAL, DJU de 16.8.1999)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL, FEDERAL E TRABALHISTA. JUSTIFICAÇÃO JUDICIAL. COMPROVAÇÃO DE TEMPO DE SERVIÇO. INEXISTÊNCIA DE LIDE GRAVITANTE EM TORNO DO CONTRATO DE TRABALHO. AUSÊNCIA DAS ENTIDADES DESCRITAS NO ART. 109, I, DA CARTA MAGNA NOS PÓLOS SUBJETIVOS DA DEMANDA. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. A competência para processar e julgar ação de justificação ajuizada por servidora do Cartório de Registro Civil da 2.ª Circunscrição da Comarca de Nova Iguaçu - RJ, regida por regime celetista, no afã de comprovar o seu tempo de serviço, é da Justiça Estadual. Incidência, a contrario sensu, da Súmula n.º 32 deste STJ, no sentido de que: Compete à Justiça Federal processar e julgar justificações judiciais destinadas a instruir pedidos perante entidades que nela têm exclusividade de foro, ressalvada a aplicação do art. 15, II, da Lei n.º 5.010, de 1966 (Precedente: AgRg no CC 31.965 - RJ, Relator Ministro ALDIR PASSARINHO JÚNIOR, Segunda Seção, DJ de 04 de abril de 2002).
+2. In casu, (i) a pretensão deduzida pela autora do feito principal não se refere ao reconhecimento de vínculo empregatício, até porque já o obteve; mas, antes, efetivamente provar o seu tempo de serviço, a fim de futuramente requerer a sua aposentadoria, e (ii) o objeto mediato do pedido não é voltado contra o Instituto Nacional do Seguro Social - INSS, que não ocupa qualquer dos pólos subjetivos da demanda (art. 109, I, da Carta Magna).
+3. Conflito conhecido para declarar a competência do JUÍZO DE DIREITO DA COMARCA DE NOVA IGUAÇU - RJ.
+(Primeira Seção, CC 74.867/RJ, Rel. Ministro LUIZ FUX, DJe de 29.9.2008)
+Como não se argumenta que em Três Corações está instalada Vara Federal, e da ação foi possível extrair o propósito de utilização com finalidade previdenciária, competente o Juízo de Direito suscitado.
+Em face do exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara Cível de Três Corações, MG.
+Comunique-se. Intimem-se.
