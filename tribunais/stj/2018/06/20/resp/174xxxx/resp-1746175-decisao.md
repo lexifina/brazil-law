@@ -1,0 +1,45 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, contra acórdão prolatado, por unanimidade, pela 3ª Turma do Tribunal Regional Federal da 3ª Região, assim ementado (fl. 126e):
+PROCESSUAL CIVIL. AGRAVO INOMINADO. ART. 557, § 1º, DO CPC. FUNDAMENTOS DA DECISÃO AGRAVADA INAFASTADOS. MANUTENÇÃO DA DECISÃO.
+1. Para o manejo do agravo inominado previsto no artigo 557, § 1º do Código de Processo Civil, é preciso o enfrentamento da fundamentação da decisão agravada, conforme precedentes.
+2. A decisão foi proferida em conformidade com a legislação cabível à espécie, fundada em jurisprudência dominante do C. Superior Tribunal de Justiça e desta E. Corte acerca da matéria.
+3. Limitou-se a agravante a manifestar seu inconformismo com a decisão proferida, não trazendo, entretanto, elementos aptos a sua reforma.
+4. Agravo inominado não provido.
+Opostos embargos de declaração, foram rejeitados (fl. 147/152e).
+Com amparo no art. 105, III, a, da Constituição da República, a Recorrente aponta ofensa a dispositivos legais, alegando, em síntese, que:
+Art. 535 do Código de Processo Civil - o tribunal de origem omitiu-se ao rejeitar os embargos opostos, não se pronunciando sobre as questões federais suscitadas;
+Art. 8º, III, da Lei n. 6.830/80, 612 do CPC e 185-A do CTN - - o v. acórdão recorrido negou a citação por edital do executado não localizado, em que pese a realização de diversas diligências a fim de localizar o devedor, violando os dispositivos leais apontados.
+Sem contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Não se pode conhecer a apontada violação ao art. 535 do Código de Processo Civil, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, a sua importância para o deslinde da controvérsia, bem como o porquê não estaria devidamente fundamentado, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AFASTAMENTO. AUSÊNCIA DE INÉRCIA DO CREDOR. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO NÃO COMPROVADO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+(..)
+(AgRg no REsp 1450797/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/06/2014, DJe 11/06/2014)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. SÚMULA 284/STF. SERVIDOR PÚBLICO. PROFISSIONAL DA ÁREA DA SAÚDE. IMPOSSIBILIDADE DE ACUMULAÇÃO DE CARGOS. ACÓRDÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INCOMPATIBILIDADE DE HORÁRIOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ELEITA. SÚMULA 7/STJ. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC, a agravante não evidencia qualquer vício no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no AREsp 422.907/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 18/12/2013; AgRg no AREsp 75.356/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 21/10/2013.
+(AgRg no AREsp 318.883/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/06/2014, DJe 01/07/2014, destaque meu).
+Quanto à questão de fundo, o tribunal de origem embasou-se na ausência de impugnação aos fundamentos da decisão agravada, nos seguintes termos (fl. 125e):
+Verifica-se, do acima exposto, que a ora agravante, em seu recurso, limitou-se a reproduzir os argumentos trazidos na petição de agravo de instrumento, não aduzindo qualquer acréscimo apto a modificar o entendimento esposado na decisão.
+Ora, é cediço que para o manejo do agravo previsto no artigo 557, § 1º, do CPC, é preciso o enfrentamento da fundamentação da decisão agravada, ou seja, deveria a recorrente demonstrar, no caso, que esta não foi proferida em conformidade com jurisprudência dominante dos tribunais superiores (TRF3, AC 2008.61.14.003291-5, Relatora Desembargadora Federal Ramza Tartuce, Quinta Turma, julgado em 03/08/2009; STJ, AgRg no REsp 1109792/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/06/2009;
+STF, AgR no AI 754086, Relator Ministro Celso de Mello, Segunda Turma, julgado em 25/08/2009).
+Entretanto, tal fundamentação não foi impugnada nas razões recursais, limitando-se a Recorrente a argumentar acerca do mérito recursal.
+Desse modo, verifica-se que as razões recursais apresentadas encontram-se dissociadas daquilo que restou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal, as quais dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia"; e "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO MOVIDA CONTRA ESTADO. CHAMAMENTO DA UNIÃO AO PROCESSO. PRODUÇÃO DE PROVA PERICIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RAZÕES DOS EMBARGOS DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO EMBARGADO. SÚMULAS 283 E 284 DO STF. SUSPENSÃO EM RAZÃO DE RESP ADMITIDO COMO REPRESENTATIVO DE CONTROVÉRSIA. DESCABIMENTO. TEMA ESPECÍFICO.
+(..)
+3. A alegação de omissão do acórdão embargado por ter a ora embargante impugnando os fundamentos da decisão do Tribunal a quo atrai a incidência, por analogia, das Súmulas 283 e 284 do STF, uma vez que não houve menção na decisão monocrática nem no acórdão em agravo regimental sobre tal ponto, de modo que restam dissociadas as razões dos embargos de declaração com relação ao constante nos autos.
+4. Quanto à suspensão do recurso especial, tendo em vista a admissão do REsp n. 1.144.382/AL como representativo de controvérsia, tem-se que este recurso trata da solidariedade passiva da União, dos Estados e dos Municípios tão somente, e não, como no caso em exame, sobre eventual chamamento ao processo de um dos entes.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no Ag 1309607/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/08/2012, DJe 22/08/2012)
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CONCURSO DE PREFERÊNCIA. VIOLAÇÃO AO ART. 535 NÃO CONFIGURADA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF.
+1. Constata-se que não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. Na leitura do acórdão recorrido, verifica-se que o Tribunal local não olvidou o fato de possivelmente existir concurso de preferência. Apenas foi consignado que a competência para análise de tal instituto seria do Juízo da Execução. Logo, não merece respaldo a tese da agravante de que foi "inobservada a existência de concursus fiscalis entre a Fazenda Nacional e Fazenda Estadual" (fl. 861, e-STJ). Nesse sentido, verifica-se que as razões recursais mostram-se dissociadas da motivação perfilhada no acórdão recorrido e que não houve impugnação de fundamento autônomo do aresto impugnado. Incidem, portanto, os óbices das súmulas 283 e 284/STF.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 254.814/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/02/2013, DJe 15/02/2013, destaque meu).
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
