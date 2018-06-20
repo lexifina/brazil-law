@@ -1,0 +1,13 @@
+DECISÃO
+DANIEL PEREIRA BENZI, paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de decisão proferida pelo Desembargador relator do Tribunal de Justiça do Estado de São Paulo, que indeferiu a liminar no HC n. 2111611-94.2018.8.26.0000.
+Consta dos autos que, em 19/9/2017, o paciente foi preso em flagrante pela suposta prática dos delitos previstos nos arts. 12 e 16, caput, da Lei n. 10.826/2006. A custódia foi convertida em preventiva. Busca a defesa a revogação da custódia preventiva por excesso de prazo.
+Decido.
+A orientação resumida na Súmula n. 691 do Supremo Tribunal Federal, aplicável, por analogia, nesta Corte Superior, é ultrapassada tão somente em casos excepcionais, nos quais a ilegalidade seja tão flagrante que não escape à pronta percepção do julgador. Nesse sentido, à guisa de exemplo, o HC n. 349.466/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 15/4/2016.
+Afinal, as matérias aventadas no habeas corpus ainda não foram objeto de análise pelo Tribunal a quo, e a sua admissão, de plano, por esta Corte implicaria em indevida supressão de instância.
+Sob esse prisma, não identifico manifesto constrangimento ilegal a ensejar o processamento do writ.
+Em princípio, não se pode olvidar que os prazos indicados na legislação processual penal para a conclusão dos atos processuais não são peremptórios, de maneira que eventual demora no término da instrução criminal deve ser aferida dentro dos critérios da razoabilidade, levando-se em conta as peculiaridades do caso concreto.
+Consta dos autos que o paciente foi denunciado pela suposta prática dos crimes previstos nos arts. 12 e 16, caput, da Lei n. 10.826/2006. A denúncia foi oferecida em 2/10/2017 e recebida em 11/10/2017. Conforme informações prestadas pelo Juiz de origem ao Tribunal local, o réu indicou advogado que não foi localizado, sendo necessária a nomeação de defensor dativo em 22/3/2018. Em seguida, em 4/4/2018, foi apresentada defesa prévia, com alegação de inépcia da denúncia. Ainda de acordo com o Magistrado, os autos se encontram no Ministério Público para manifestação.
+Com as informações, concluiu a Corte estadual que "a exordial, ao menos em um juízo preliminar, não revela nenhuma nulidade gritante ou manifesto constrangimento ilegal a ensejar o deferimento da tutela de urgência" (fl. 24).
+Diante desse quadro - e sem me perder dos argumentos utilizados pelo impetrante para alcançar a liberdade do paciente -, entendo inexistir teratologia no ato acoimado coator, a justificar a precoce interferência do Superior Tribunal de Justiça no caso.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
