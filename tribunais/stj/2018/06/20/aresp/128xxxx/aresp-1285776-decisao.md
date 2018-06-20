@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl.142, e-STJ):
+CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. TAXAS CONDOMINIAIS. PROCEDÊNCIA DA PRETENSÃO. INCLUSÃO DE DÉBITOS VENCIDOS ATÉ O EFETIVO CUMPRIMENTO DA OBRIGAÇÃO. CABIMENTO.
+1. Nos termos do artigo 290 do Código de Processo Civil, tratando-se de condenação relativa a prestações periódicas, considerar-se-ão incluídas no pedido, independentemente de declaração expressa do autor, as parcelas vencidas no curso da demanda até o efetivo cumprimento da obrigação.
+2. Recurso de Apelação conhecido e provido.
+A decisão agravada negou seguimento ao recurso, por entender que incide na espécie o óbice da Súmula 83/STJ, no sentido de que as verbas condominiais decorrem de relações jurídicas continuativas e, por isso, devem ser incluídas na condenação as obrigações devidas no curso do processo até o pagamento.
+A parte agravante não impugnou especificamente o fundamento da decisão agravada, limitando-se a afirmar que o juízo de admissibilidade usurpou competência desta Corte ao examinar o mérito do recurso especial.
+Com efeito, "Na hipótese em que se pretende impugnar a incidência da Súmula nº 83 do STJ, deveria a parte agravante demonstrar que os precedentes indicados na decisão agravada não se aplicavam ao caso, ou então trazer precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ou, que a divergência é atual, o que deixou de fazer" (AgInt no AREsp 885.406/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 3/4/2018).
+Não basta ao agravante desdizer os fundamentos adotados na decisão que inadmitiu o seu recurso especial, cabendo-lhe infirmar, especificamente, tais fundamentos, sob pena de vê-los mantidos. A propósito:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. AGRAVO QUE NÃO ATACA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ARTIGO 544, § 4º, I, 2ª PARTE, DO CPC/1973. SÚMULA Nº 182/STJ.
+ ..
+3. A impugnação deve ser específica e suficientemente demonstrada, não bastando à parte, para assentar a viabilidade do apelo, desdizer as palavras de julgamento.
+4. Nesse sentido: "A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica, dos fundamentos da decisão agravada" (AgInt no AREsp 855.681/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 15/04/2016).
+5. De igual modo: "À luz da jurisprudência desta Corte e do princípio da dialeticidade, deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia" (AgRg no AREsp 705.564/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 25/08/2015).
+6. Agravo interno não provido.
+(AgInt no AREsp 999.389/BA, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/12/2016, DJe 15/12/2016).
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento por ausência de cumprimento do requisito exigido no art. 932, III, do Código de Processo Civil/2015.
+Assim, sem a impugnação específica e suficiente para infirmar o fundamento da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Por fim, tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil.
+Em face do exposto, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo.
+Intimem-se.
