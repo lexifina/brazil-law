@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE SÃO PAULO, com arrimo na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que deu provimento ao agravo de instrumento para conferir efeito suspensivo à apelação interposta pela parte ora recorrida.
+O recorrente aponta violação do art. 520, V, e 558, do CPC/1973. Alega, em síntese, que não está presente o requisito necessário (fumus boni iuris) para a concessão de efeito suspensivo ao recurso de apelação, tendo em vista a situação irregular em que se encontra a empresa recorrida.
+Contrarrazões apresentadas.
+Passo a decidir.
+Inicialmente, cumpre registrar que, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+Isso considerado, extrai-se do acórdão recorrido o seguinte excerto (e-STJ fls. 447/448):
+No caso, pela leitura atenta de todo o processado, verifica-se que o estabelecimento agravante foi interditado no curso de procedimento administrativo que tem por objeto a regularização do imóvel, mostrando-se precipitada a aplicação dessa sanção de interdição.
+Note-se, pelo documento de fls. 351, juntado pela própria Municipalidade de São Paulo, que ao menos um dos pedidos de regularização da edificação encontra-se em análise.
+Prudente, assim, atribuir-se efeito suspensivo ao recebimento do recurso de apelação no tocante à ação cautelar, restabelecendo a liminar, para arredar a interdição do estabelecimento agravante e, pois, o encerramento das suas atividades.
+Diante desse contexto, ressoa inequívoco que dissentir da conclusão a que chegou a Corte de origem implica inevitável revolver de aspectos fático-probatórios, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido, trago o precedente a seguir:
+ADMINISTRATIVO, AMBIENTAL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. APELAÇÃO. EFEITO SUSPENSIVO. RISCO DE DANO IRREPARÁVEL. REVISÃO. SÚMULA 7/STJ.
+1. A alteração das conclusões adotadas pela Corte de origem, no sentido de inexistente a demonstração de risco de dano irreparável a justificar o recebimento do recurso de apelação no efeito suspensivo, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 529.000/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/11/2015, DJe 16/11/2015)
+PROCESSO CIVIL. TRIBUTÁRIO. MEDIDA CAUTELAR. EMBARGOS À EXECUÇÃO JULGADOS IMPROCEDENTES. RECEBIMENTO DA APELAÇÃO COM EFEITO SUSPENSIVO. REQUISITOS PARA O DEFERIMENTO DA TUTELA DE URGÊNCIA NÃO DEMONSTRADOS.
+1. A probabilidade de êxito do recurso especial deve ser verificada na medida cautelar, ainda que de modo superficial. Assim, não comprovado de plano a fumaça do bom direito apta a viabilizar o deferimento da medida de urgência, é de rigor o seu indeferimento.
+2. Em síntese, o autor defende que o recurso de apelação interposto perante o Tribunal de origem deve ser recebido em seu efeito suspensivo.
+3. O Código de Processo Civil estabelece que, em regra, a apelação interposta contra sentença que julga improcedente o pedido nos embargos à execução deve ser recebido apenas no efeito devolutivo (art. 520). Essa é a orientação jurisprudencial: REsp 1.349.034/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 15.2.2013; AgRg no AREsp 328.984/BA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 3/12/2013; AgRg no Ag 1.174.095/RS, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 18/5/2010, DJe 25/5/2010; REsp 1.231.817/PR, Rel. Ministro Castro Meira, Segunda Turma, DJe 10/3/2011.
+4. Por outro lado, em casos excepcionais, é possível atribuir efeito suspensivo ao recurso de apelação, quando puder resultar lesão grave e de difícil reparação, nos termos do art. 558, parágrafo único, do CPC. Todavia, no caso dos autos, com base no conjunto fático, o Tribunal de origem, no que diz respeito a suposto dano irreparável, consignou expressamente que a excepcionalidade não foi comprovada.
+5. Assim, a aferição dos requisitos que autorizam a concessão de efeito suspensivo a recurso de apelação, demanda o reexame do contexto fático-probatório dos autos. Precedentes: AgRg na MC 18.386/RS, Rel. Min. Arnaldo Esteves Lima, Primeira Turma, julgado em 6/12/2011, DJe 19/12/2011; AgRg no Ag 1.338.001/SP, Rel. Min. Humberto Martins, Segunda Turma, julgado em 26/10/2010, DJe 9/11/2010.
+Medida cautelar improcedente.
+(MC 22.548/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 20/05/2014, DJe 23/05/2014)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
