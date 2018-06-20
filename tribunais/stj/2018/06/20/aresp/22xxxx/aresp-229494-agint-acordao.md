@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRARIEDADE A DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO. INOCORRÊNCIA.
+1. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional.
+2. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir na espécie o óbice da Súmula 282 do STF.
+3. Ausente o cotejo analítico, não estão atendidos os pressupostos específicos para a configuração do dissenso jurisprudencial, nos termos dos arts. 541, parágrafo único, do Código de Processo Civil, e 255, §§ 1º e 2º, do RISTJ.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça , por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por SINDICATO DOS TRABALHADORES DO SERVIÇO PÚBLICO FEDERAL NO ESTADO DO CEARÁ - SINTSEP/CE contra decisão de minha lavra, proferida às e-STJ fls. 556/558, em que conheci do agravo para não conhecer do recurso especial em virtude do não cabimento, no tocante à matéria constitucional, da incidência da Súmula 282 do STF, bem como da ausência de cotejo analítico.
+Aduz a parte agravante não ter suscitado controvérsia constitucional no apelo obstado, o prequestionamento da matéria, ainda que implícito, e ter atendido as exigências legais e regimentais necessárias à comprovação do dissenso pretoriano.
+Requer, assim, a reconsideração ou reforma da decisão atacada para que seja provido o recurso especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Primeiramente, registre-se que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Na presente hipótese, este recurso ataca decisão proferida no julgamento de recurso especial interposto ainda sob a égide do CPC/1973.
+Feitas essas considerações, observa-se que o presente agravo não merece prosperar.
+Com efeito, consoante explicitado no decisum ora recorrido, no pertinente à suposta contrariedade ao art. 5º, XXXVI e LV, da Constituição Federal (suposta violação da coisa julgada e do devido processo legal), cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+No que toca às alegações respeitantes ao art. 46 da Lei n. 8.112/1990, dispositivo supostamente objeto de divergência jurisprudencial, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ademais, é inviável a apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional) quando o recorrente não demonstra o alegado dissídio por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado e c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação. Nesse sentido: AgRg no REsp 1.558.877/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/02/2016; AgRg no AREsp 752.892/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 04/11/2015.
+No presente caso, a parte recorrente não juntou o inteiro teor dos julgados paradigmáticos, deixou de realizar o cotejo analítico e não citou repositório oficial, não atendendo, portanto, aos pressupostos específicos necessários para a configuração do dissenso jurisprudencial, preconizados pelos arts. 541, parágrafo único, do Código de Processo Civil, e 255, §§ 1º e 2º, do RISTJ.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao presente agravo interno.
+É como voto.
