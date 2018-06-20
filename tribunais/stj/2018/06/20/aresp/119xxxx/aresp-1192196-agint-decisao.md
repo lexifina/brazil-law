@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo interno interposto por TML TRANSPORTES LTDA em face da decisão da lavra deste signatário, acostada à fls. 508-511, e-STJ, em que se negou provimento ao agravo em recurso especial, ante o reconhecimento de que o recurso especial se encontrava deficientemente fundamentado, haja vista a ausência de indicação dos dispositivos da legislação federal que teriam sido violados no acórdão recorrido, atraindo, assim, a incidência da Súmula 284 do STF.
+Nas razões recursais (fls. 522-532, e-STJ), a agravante sustenta, em síntese, ter apontado especificamente os dispositivos afrontados pelo acórdão recorrido, em razão da ausência de condenação do agravado por litigância de má-fé.
+Não houve impugnação.
+É o relatório.
+Ante as razões expendidas no agravo interno, reconsidero a decisão monocrática de fls. 508-511, e-STJ e, ato contínuo, passo a novo exame do agravo em recurso especial.
+Cuida-se de agravo interposto por TML TRANSPORTES LTDA contra decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, por sua vez, visa reformar acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 314-315, e-STJ):
+AGRAVO DE INSTRUMENTO. DISCUSSÃO SOBRE A POSSIBILIDADE DE SE SUSPENDER, TOTAL OU PARCIALMENTE, A VIGÊNCIA DE CLÁUSULA QUE CONFERE AO CREDOR A PROPRIEDADE FIDUCIÁRIA DE CRÉDITOS DE TITULARIDADE DO DEVEDOR, ATÉ O LIMITE DO SALDO DEVEDOR DE CONTRATO DE MÚTUO.
+1. Por inteligência do artigo 273 do CPC, a antecipação dos efeitos práticos da tutela jurisdicional perseguida no processo de conhecimento não exige a demonstração cabal da presença de direito tutelável, mas apenas que seja feita verossímil a alegação de que ele existe e precisa ser protegido antecipadamente.
+2. É verossímil a tese de que se mostra abusiva a cláusula que priva o mutuário da totalidade dos valores que tem a receber junto a seus credores, até o limite do saldo devedor do contrato de mútuo de alto valor celebrado com a instituição financeira; afinal, não há sentido em se obter um empréstimo de R$ 3.400.000,00, ainda que a juros extremamente baixos, se, em contrapartida, o devedor tiver de abdicar de quantia igual, passível de entrar em datas próximas em seu capital de giro, para a garantia da operação; mal comparando, seria o mesmo que exigir de uma pessoa física que depositasse certa quantia em caderneta de poupança (a qual, de tempos para cá, é sabidamente remunerada com taxas insuficientes até mesmo à preservação do capital) para, em contrapartida, receber empréstimo de quantia igual, para pagamento com juros à taxa média de mercado. Mais consentâneo com a função social do contrato de mútuo é limitar a cessão de créditos ao valor da prestação vencível no mês.
+3. Recurso conhecido e parcialmente provido.
+Os embargos de declaração opostos pela recorrente foram acolhidos, sem efeitos infringentes, pelo acórdão de fls. 348-352 (e-STJ), sintetizado na seguinte ementa:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. PEDIDO FORMULADO PELO AGRAVADO, EM CONTRARRAZÕES, DE APLICAÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ AO AGRAVANTE. OMISSÃO VERIFICADA. INEXISTÊNCIA, PORÉM, DE CONDUTA ENSEJADORA DE PUNIÇÃO. EMBARGOS DE DECLARAÇÃO PROVIDOS, SEM EFEITOS INFRINGENTES.
+Nas razões do recurso especial (fls. 357-377, e-STJ), a insurgente aponta violação dos arts. 113, 187 e 422, do CC.
+Aduz, em síntese, a necessidade de reconhecimento da má-fé contratual pelo recorrido e a consequente condenação em todos os seus efeitos. Alegou haver afronta ao princípio da boa-fé objetiva e da função social do contrato na conduta ilegal e arbitrária da instituição bancária recorrida de exigir o cumprimento de outras garantias, além das convencionais, que lhe privaram injustificadamente de parcela de seu faturamento, a despeito de estar adimplente.
+Foram apresentadas contrarrazões, fls. 425-438 (e-STJ).
+Em juízo de admissibilidade (fls. 451-453, e-STJ), negou-se seguimento ao recurso especial.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Quanto à aplicação da multa e indenização por litigância de má-fé, assim concluiu o Tribunal de origem, por ocasião do julgamento dos embargos de declaração (fls. 349-350, e-STJ):
+Assiste razão ao Embargante no tocante à ausência de deliberação, no decisum, acerca do requerimento de aplicação de multa por litigância de má-fé formulado em sede de contrarrazões.
+Todavia, o reconhecimento da omissão havida não autoriza atribuir aos declaratórios os efeitos infringentes almejados, primeiro porque parte do pleito recursal foi considerado procedente, segundo porque não restou configurada qualquer prática prevista no artigo 80 do NCPC, a qual, a propósito, pressupõe a prova do dolo da parte.
+Com efeito, aquilo que a Embargante rotula de "inverídicas alegações do Agravante quanto a liberdade contratual" não pode, em absoluto, ser considerado abuso de direito de petição, representando apenas o desejo da instituição financeira - sujeito a contestação, não se olvide - de fazer prevalecer a literalidade do contrato, em homenagem ao princípio do pacta sunt servanda. Este, aliás, é o cerne da controvérsia, que, oportunamente, terá de ser dirimido por sentença.
+No ponto, a Corte estadual deixou de aplicar a sanção pleiteada por entender que as alegações e insurgências do recorrido/agravado levadas à apreciação do Tribunal nos autos do agravo de instrumento se revelaram pertinentes, bem como em razão de não haver prova do dolo da parte a ensejar a pretendida cominação.
+Verifica-se que a modificação do entendimento lançado no acórdão recorrido como pleiteado pela recorrente, quanto à inexistência de litigância de má-fé, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇO DE PLANTIO DE GRAMA. DÍVIDA DEVIDAMENTE COMPROVADA. RECONVENÇÃO IMPROCEDENTE. AUSÊNCIA DE COMPROVAÇÃO PELA RÉ DA EXISTÊNCIA DE VALORES A SEREM ABATIDOS. DOCUMENTOS SEM RESPALDO EM NOTAS FISCAIS. LITIGÂNCIA DE MÁ-FÉ. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+ ..  3. Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido como pleiteado pela recorrente, seja quanto à inexistência de dívida, seja quanto à inexistência de litigância de má-fé, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 491.440/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/09/2016, DJe 03/10/2016)  grifou-se
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. Violação aos artigos 165, 458 e 535 do CPC/73 não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+2. A alteração do entendimento firmado no acórdão recorrido, acerca da ocorrência da preclusão consumativa, porquanto já suscitadas e apreciadas as teses trazidas pela parte, demandaria o reexame dos fatos e das provas dos autos, atraindo a incidência da Súmula 7 do STJ, não se tratando de hipótese de revaloração probatória.
+Precedentes.
+3. A modificação das conclusões a que chegou o Tribunal a quo, quanto à existência de litigância de má-fé, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor da Súmula 7 desta Corte.
+4. Agravo interno desprovido.
+(AgInt no AREsp 293.944/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 05/12/2017, DJe 16/02/2018)  grifou-se
+2. Do exposto, dou provimento ao agravo interno a fim de reconsiderar a deliberação monocrática de 508-511, e-STJ, tornando-a sem efeito, para, de plano, negar provimento ao agravo por outro fundamento.
+Publique-se. Intimem-se.
