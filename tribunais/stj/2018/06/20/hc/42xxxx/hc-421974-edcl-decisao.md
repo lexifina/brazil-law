@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se embargos de declaração opostos por [NOME] e [NOME] contra decisão desta Relatoria que concedeu a ordem, de ofício, para redimensionar a sanção corporal dos embargantes.
+Apontam os embargantes contradição na decisão acerca do regime fixado para o cumprimento inicial da reprimenda penal e da substituição da pena privativa de liberdade por restritivas de direitos.
+Requer, ao final, seja suprida a contradição apontada.
+É o relatório.
+A irresignação não comporta acolhimento.
+Consoante devidamente explicitado na decisão embargada, no momento da fixação do regime inicial de cumprimento da sanção corporal, deve o julgador observar o previsto no art. 33, §§ 2º e 3º, do Código Penal, além de, na hipótese dos autos, o art. 42 da Lei n. 11.343/2006.
+In casu, a teor do disposto no art. 33, § 2º, alínea "b", do Código Penal, considerando-se o quantum da reprimenda imposta (3 anos e 4 meses), a primariedade dos recorrentes, a fixação da pena-base no mínimo legal, bem como a concessão da benesse prevista no § 4º do art. 33 da Lei de Drogas, o regime inicial semiaberto é o que se revela mais adequado, sobretudo porque a quantidade de droga apreendida (637 g de cocaína) não justifica o estabelecimento de modo prisional mais brando.
+Além disso, não obstante a primariedade da recorrente e o quantum da pena imposta (3 anos e 4 meses), não é devida a substituição da pena por restrição de direitos, uma vez que os elementos específicos narrados no aresto objurgado denotam a maior reprovabilidade da conduta, justificando a inviábilidade da substituição da sanção corporal por restritiva de direitos, posto que as circunstâncias concretas não indicam que essa medida seja suficiente, devendo ser mantida a privação de liberdade por não estarem preenchidos os requisitos subjetivos previstos no art. 44 do CP.
+Desse modo, não há falar em defeito no julgado, tendo este Superior Tribunal de Justiça justificado satisfatoriamente as razões pelas quais foi fixado o regime no modo semiaberto e negada a substituição da pena corporal por restritiva de direitos.
+Pretende, em verdade, a embargante, a rediscussão da matéria, com o fito de obter efeitos infringentes, reformando-se o julgado, entretanto tal hipótese somente é possível em casos excepcionais, quando reconhecida a existência de algum dos defeitos elencados no dispositivo legal mencionado, impondo-se a alteração do julgado como consequência da correção do vício ou do reconhecimento de erro material, inocorrentes na espécie.
+Ora, mostra-se de todo descabida a pretensão de rejulgamento da causa na via estreita dos embargos declaratórios, salientando-se que a tutela jurisdicional postulada foi devidamente prestada, conhecendo e analisando as teses deduzidas nas razões do apelo nobre, tendo decidido a questão posta à luz da orientação sedimentada neste STJ.
+Ante o exposto, rejeitam-se os embargos declaratórios.
+Publique-se. Intimem-se.
