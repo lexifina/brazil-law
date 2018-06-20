@@ -1,0 +1,31 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Declaração opostos pelo SINDICATO DOS TRABALHADORES EM EDUCAÇÃO DA UNIVERSIDADE FEDERAL DO RIO DE JANEIRO contra decisão que conheceu do Recurso Especial e negou-lhe provimento, fundamentada na ausência de violação ao art. 1.022 do Código de Processo Civil, bem como na incidência da Súmula n. 568/STJ
+Sustenta, em síntese, o Embargante que:
+a) o tribunal de origem não se manifestou acerca da violação dos dispositivos referentes à verba honorária; "a tese de compensação, de valores que abarcam período diverso da obrigação de pagar, ainda, por mais absurdo que se admita seu reconhecimento, não pode alcançar a verba honorária que tem por base o montante da condenação. Sendo a verba honorária acessória, constitui esta também a base de apuração da efetiva condenação. Pois é inequívoco a sua natureza alimentar, o que vedaria portanto, a compensação dos mesmos com os valores supostamente pagos aos substituídos" (fl. 545e);
+b) a decisão embargada padece de omissão, porquanto "o decisum carece de pronunciamento quanto ao atual entendimento firmado por este Superior Tribunal de Justiça no AgRg no REsp 1.142.587/PR, sobre o julgamento do Recurso Especial 1.235.513/AL (Temas 475 e 476), pelo rito previsto no art. 543-C do Código de Processo Civil de 1973, relativo à compensação do índice de 28,86% com reajustes concedidos por leis posteriores, é aplicado integralmente às causas que tratam o índice de 3,17%" (fl. 546e); "o presente caso traz a imposição de uma limitação temporal com fundamento em matéria que poderia (e deveria) ter sido levantada na fase de conhecimento do feito. Como isso não foi feito, ou seja, a UFRJ não levantou a questão no momento processual oportuno, é impossível estabelecer tal limite em sede de embargos à execução, sob pena de grave violação à coisa julgada" (fl. 548e).
+Transcorreu in albis o prazo para impugnação (certidão de fl. 557e).
+Os embargos foram opostos tempestivamente.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Verifico que, no caso, há equívoco quanto às premissas adotadas na decisão embargada, o que pode ser corrigido mediante a oposição de embargos de declaração, a fim de obter-se a adequada prestação jurisdicional.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO DE INSTRUMENTO. PREMISSA EQUIVOCADA. ERRO DE FATO. ACOLHIMENTO SEM ATRIBUIÇÃO DE EFEITOS INFRINGENTES.
+1. Em se cuidando de embargos de divergência que partiram de premissa equivocada ao considerar que a sentença de liquidação fora mantida pelo Tribunal de Justiça, merecem acolhimento os embargos para sanar erro de fato efetivamente existente no acórdão embargado, sem, entretanto, atribuir-lhes efeitos infringentes, à falta de relevância para o julgamento.
+2. "Doutrina e jurisprudência têm admitido o uso de embargos de declaração com efeito infringente, em caráter excepcional, para a correção de premissa equivocada, com base em erro de fato, sobre a qual tenha se fundado o acórdão embargado, quando tal for decisivo para o resultado do julgamento." (EDclREsp nº 255.597/SP, Relator Ministro Castro Filho, in DJ 16/12/2002).
+3. Embargos de declaração acolhidos, sem atribuição de efeitos infringentes.
+(EDcl nos EDcl nos EAg 931.594/RS, Rel. Ministro HAMILTON CARVALHIDO, CORTE ESPECIAL, julgado em 03/02/2010, DJe 25/02/2010, destaque meu).
+RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA IMPETRADO CONTRA ACÓRDÃO QUE JULGOU INTEMPESTIVOS EMBARGOS DE DECLARAÇÃO. VERIFICADO ERRO NA CERTIDÃO DE PUBLICAÇÃO DO ACÓRDÃO EMBARGADO. CABIMENTO DE NOVOS EMBARGOS. INADMISSIBILIDADE DO WRIT.
+"Os embargos declaratórios são admissíveis para a correção de premissa equivocada de que haja partido a decisão embargada, atribuindo-se-lhes efeito modificativo quando tal premissa seja influente no resultado do julgamento" (Edcl no RE n. 207.928/SP, rel. Min. Sepúlveda Pertence, DJU de 15.5.1998).
+Não incorreu o acórdão recorrido em erro material, uma vez que concluiu pela intempestividade dos embargos de declaração nos estritos termos da certidão acostada nos autos. O erro da certidão configura erro de fato, já que se baseou o Tribunal de origem em premissa equivocada, cuja correção não se pode efetuar de ofício.
+Com a oposição de embargos, via própria para impugnar a decisão, estaria perfeitamente atendido o direito do impetrante, sem que houvesse qualquer dano. Na verdade, a possibilidade de ocorrência de dano irreparável somente surgiu com a inércia do próprio impetrante.
+Sequer se poderia aplicar, analogicamente, o princípio da fungibilidade recursal, uma vez que o mandamus somente foi impetrado quando, há muito, estava esgotado o prazo para a interposição de qualquer recurso.
+Recurso ordinário a que se nega provimento.
+(RMS 11.218/RS, Rel. Ministro FRANCIULLI NETTO, SEGUNDA TURMA, julgado em 16/04/2002, DJ 01/07/2002, p. 269, destaque meu).
+CONSTITUCIONAL. PROCEDIMENTO ADMINISTRATIVO. PRINCÍPIO DO DEVIDO PROCESSO LEGAL. INEXISTÊNCIA DE VIOLAÇÃO. EMBARGOS DECLARATÓRIOS COM EFEITOS INFRINGENTES. POSSIBILIDADE.
+1. Se, no transcorrer de procedimento administrativo cujo desfecho ocasionou rescisão de contrato de prestação de serviços, foi conferida oportunidade ao contratante particular para o exercício de sua defesa, há de ser afastada eventual ofensa ao postulado do devido processo legal.
+2. "É admitido o uso de embargos de declaração com efeitos infringentes, em caráter excepcional, para a correção de premissa equivocada, com base em erro de fato, sobre a qual tenha se fundado o acórdão embargado, quando tal for decisivo para o resultado do julgamento" (Terceira Turma, EDcl no REsp n. 599.653, relatora Ministra Nancy Andrighi, DJ de 22/8/2005).
+3. Recurso ordinário não-provido.
+(RMS 11.856/ES, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA TURMA, julgado em 06/09/2005, DJ 17/10/2005, p. 232, destaque meu).
+Ante o exposto, ACOLHO OS EMBARGOS DE DECLARAÇÃO para tornar sem efeito a decisão de fls. 531/541 e DETERMINO o retorno dos autos à conclusão, para oportuno julgamento do Recurso Especial.
+Publique-se e intime-se.
