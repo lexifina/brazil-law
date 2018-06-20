@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FUNDAÇÃO NACIONAL DE SAÚDE - FUNASA, com fulcro nas alíneas "a" do permissivo constitucional contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (e-STJ fl. 396):
+Ementa: Administrativo. Inscrição no CAUC. Liberação de verbas destinadas a programas de ação social. Obras de pavimentação que se incluem nesse conceito. Legitimação da União para a causa. Apelações e remessa oficial desprovidas.
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões, a recorrente aponta violação dos arts. 535, II, do CPC/1973; 25, § 3º, da LC n. 101/2000; 93 do DL n. 200/1967; 6º, 7º e 26 da Lei n. 10.522/2002; 8º da Lei n. 8443/1992.
+Alega, preliminarmente, que o acórdão recorrido deve ser anulado, pois não sanou vício indicado nos embargos de declaração, qual seja, a suspensão da inscrição do município no SIAFI/CAUC.
+Afirma que o gestor atual não tomou todas as providências necessárias para a regularização da situação do município perante os cadastros de inadimplentes.
+Sustenta, em síntese, que (e-STJ fl. 443) "a existência de irregularidades na prestação de contas dos recursos já recebidos através de convênio celebrado pelo Município recorrido com a FUNASA, constitui obstáculo, previsto legalmente, às transferências voluntárias de recursos".
+Contrarrazões apresentadas.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Isso considerado, observo que o Superior Tribunal de Justiça firmou o entendimento de que não há violação do art. 535 do CPC/1973, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1.340.652/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 13/11/2015).
+Acerca do tema, conferir, ainda: REsp 1.388.789/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 04/03/2016, e AgRg no REsp 1.545.862/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 18/11/2015.
+No caso, o Tribunal a quo decidiu de forma suficientemente fundamentada sobre o tema apontado como olvidado (e-STJ fl. 394).
+Por outro lado, verifico que o acórdão impugnado encontra-se em perfeita harmonia com a jurisprudência de ambas as Turmas que integram a Primeira Seção desta Corte, no sentido de que a municipalidade não pode ser inscrita no cadastro de inadimplentes do SIAFI por motivo de má-gestão financeira anterior se o gestor que sucedeu o administrador faltoso tomou providências objetivando o ressarcimento ao Erário e a responsabilização dos envolvidos.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. INSCRIÇÃO DE MUNICÍPIO NO CADASTRO DO SIAFI POR ATOS DA GESTÃO ANTERIOR. IMPOSSIBILIDADE.
+I - O Superior Tribunal de Justiça entende que, em se tratando de inadimplência cometida por gestão municipal anterior, em que o atual prefeito tomou providências para regularizar a situação, não deve o nome do Município ser inscrito no cadastro de inadimplentes.
+II - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+III - Agravo Regimental improvido.
+(AgRg no AREsp n. 214.518/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 28/09/2015)
+PROCESSUAL CIVIL. INSCRIÇÃO DE MUNICÍPIO NO CADASTRO DO SIAFI POR ATOS DA GESTÃO ANTERIOR. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. Não se conhece de Recurso Especial quanto a matéria não especificamente enfrentada pelo Tribunal de origem, dada a ausência de prequestionamento. Incidência, por analogia, da Súmula 282/STF.
+2. O STJ possui entendimento de que Instrução Normativa não se enquadra no conceito de lei federal, o que inviabiliza sua discussão na via excepcional.
+3. O Superior Tribunal de Justiça tem jurisprudência no sentido de que, comprovada a adoção de providências contra ex-prefeito para reparar os danos eventualmente cometidos, preserva-se o Município do constrangimento de ser incluído no rol dos inadimplentes.
+4. Agravo Regimental não provido.
+(AgRg no REsp n. 1.555.687/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 04/02/2016).
+Na espécie, a recorrente sustenta que não há comprovação de que o atual prefeito do Município recorrido tenha tomado todas as providências necessárias para regularizar a situação a fim de possibilitar a suspensão da inscrição do ente público.
+Ocorre que, o Tribunal a quo, soberano na análise das circunstâncias fáticas, assentou que (e-STJ fl. 395) "é possível aferir que o Município agravante adotou as providências legais aptas a suspender o seu nome dos cadastros de inadimplentes, com o fito de ressarcir os cofres públicos, em conformidade com o art. 5o, parágrafos 2o e 3o da IN 01/97 - STN e com a Súmula nº 46 da AGU".
+Desse modo, verifica-se o que a Corte de origem decidiu a questão com base na realidade que delineou à luz do suporte fático-probatório, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. INSCRIÇÃO DE MUNICÍPIO NO SIAFI-CAUC. SUSPENSÃO. IRREGULARIDADES NA PRESTAÇÃO DE CONTAS. RESPONSABILIZAÇÃO DO GESTOR ANTERIOR. ADOÇÃO DE PROVIDÊNCIAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem consignou que foram tomadas as providências tendentes ao ressarcimento do Município e à responsabilização do ex-gestor, de modo que a alteração das conclusões adotadas pela Corte regional demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 787.120/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 11/12/2015).
+Outrossim, o município recorrido ajuizou a ação visando sustar a sua inscrição nos cadastros SIAFI/CAUC para que pudesse celebrar convênio e receber repasses voluntários da ora recorrente.
+Sobre a possibilidade de suspensão da inscrição do município inadimplente no SIAFI e CAUC, nos termos da Lei nº 10.522/2002 e LC nº 101/2000, para fins de repasses destinados à execução de ações sociais e/ou ações em faixa de fronteira, "a interpretação da expressão "ações sociais" não pode ser ampla ao ponto de incluir hipóteses não apontadas pelo legislador, haja vista que, se assim procedesse qualquer atuação governamental em favor da coletividade seria possível de enquadramento nesse conceito" (AgRg no REsp 1.439.326/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/02/2015, DJe 02/03/2015).
+No caso, o acórdão recorrido consignou o seguinte (e-STJ fls. 393/394):
+No caso do Município em questão, o que se vê é a busca de uma melhoria da qualidade de vida dos cidadãos, mediante a pavimentação, ao menos, de algumas ruas desta cidade, consoante se extrai do Relatório do TCU, em anexo.
+Os objetos dos Convênios (pavimentação de ruas, drenagem, reformas de escolas, creches, postos de saúde) contêm caráter social relevante. Com efeito, direta ou indiretamente afetam a interesses constitucionalmente protegidos como saúde, vida digna, trabalho e moradia, mormente em situações de mínimo existencial. Não se desconhece a resistência jurisprudencial em enquadrar a pavimentação de ruas como "ação social". Contudo, é de frisar a relevância sanitária dessa medida, já que - por exemplo - em época de chuva o acúmulo de água pode contribuir para doenças como a dengue.
+Diante da tamanha relevância social da ação pública em questão, não se pode opor uma mera exigência de atualização cadastral, mediante apresentação de certidões negativas atualizadas ou prestações de contas de convênios anteriores, como condição incontornável à assinatura e execução dos ditos Convênios.
+Ora, dissentir daquela conclusão, de modo a se descaracterizar a natureza de ações sociais objeto do convênio, implica inevitável revolver de aspectos fático-probatórios, providência igualmente inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+A propósito:
+ADMINISTRATIVO. REPASSE DE VERBAS A MUNICÍPIO. EXISTÊNCIA DE RESTRIÇÃO CADASTRAL NO SIAFI E CAUC. REALIZAÇÃO DE OBRAS DE INFRAESTRUTURA. CARÁTER SOCIAL. PAVIMENTAÇÃO. QUESTÃO ATRELADA AO REEXAME DE CONVÊNIO E AO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7/STJ.
+1. Na hipótese dos autos, nota-se que o acolhimento da pretensão recursal demanda o reexame do convênio realizado pelo município e do contexto fático-probatório, mormente para se avaliar o caráter assistencial das obras de infraestrutura. Dessarte, incide, in casu, o óbice das Súmulas 5 e 7/STJ. Precedentes.
+2. Ademais, percebe-se que o entendimento do Tribunal de origem está em consonância com a atual orientação desta Corte Superior no sentido de que o direito à infraestrutura urbana e aos serviços públicos, os quais abarcam o direito à pavimentação de vias públicas, compõe o rol de direitos que dão significado à garantia do direito a cidades sustentáveis, conforme previsão do art. 2º da Lei 10.257/2001 - Estatuto das Cidades. Nada obstante, a pavimentação de vias públicas não pode ser enquadrada no conceito de ação social previsto no art. 26 da Lei 10.522/2002. Precedentes.
+3. Agravo Regimental não provido.
+(AgRg no REsp 1490020/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/03/2015, DJe 31/03/2015)
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
