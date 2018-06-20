@@ -1,0 +1,39 @@
+DECISÃO
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial do MUNICÍPIO DE ARACAJU, interposto com fulcro na alínea a do art. 105, III da Constituição Federal, contra Acórdão do TJ/SE, assim ementado:
+Apelação Cível - Ação de Execução contra a Fazenda Pública - Intimação dos exequentes para se manifestarem acerca da impugnação - Inércia - Manifestação facultativa que não se confunde com os atos e diligências de que trata o art. 485, inciso III, do NCPC - Prosseguimento do feito que não se encontrava obstado - Determinação judicial de intimação pessoal dos exequentes para se manifestarem sobre a impugnação, no prazo de 48 horas, sob pena de extinção do feito - Irrazoável - Mandados de intimação que não atingiram o objetivo almejado - Alteração de endereço que não se evidenciou - Não configuração de abandono - Anulação da Sentença - Retorno dos autos - Recurso conhecido e provido - Votação Unânime (fls. 154).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 206/208).
+3. Em seu Apelo Especial, a parte recorrente aponta ofensa ao art. 1.022, II do CPC/2015, na medida em que teria deixado a Corte de origem de se pronunciar a respeito de pontos que considera relevantes ao deslinde da controvérsia. Nesse aspecto, destaca que sua insistência se justifica porque é preciso reconhecer que é inconcebível que a parte tenha sido intimada inúmeras vezes para se manifestar nos autos e ainda assim mantém-se inerte. Tal conduta prejudica sobremaneira a condução da defesa pela municipalidade, além do fato de que a inovação processual em sede de apelação demonstrar grave vilação ao contraditório e à ampla defesa (fls. 215).
+4. Com contrarrazões (fls. 219/227), o recurso foi inadmitido na origem (fls. 231/232).
+5. É o relatório. Decido.
+6. A irresignação não merece prosperar.
+7. De início, constata-se que a parte recorrente, a despeito de apontar ofensa ao art 1.022 do CPC/2015, não demonstrou com clareza e coerência em que consiste a aduzida afronta, limitando-se a alegar de forma genérica a existência de supostas omissões no aresto recorrido, sem a indicação específica dos pontos sobre os quais o julgador deveria ter se manifestado, o que inviabiliza a compreensão da controvérsia. Incide, portanto, o óbice previsto na Súmula 284/STF.
+8. De outro lado, verifica-se que o aresto impugnado deu integral solução à lide, julgando de maneira fundamentada e nos limites necessários ao seu deslinde. Veja-se, a propósito, o quanto exposto em sua fundamentação:
+Tratam os autos de Ação de Execução contra a Fazenda Pública, na qual o juízo singular extinguiu o feito sem resolução do mérito, com fulcro no art. 274, parágrafo único c/c art. 485, inciso III, ambos do NCPC.
+Compulsando os autos, vê-se que, após a apresentação de impugnação pelo executado, o Juízo de 1º grau despachou os autos (13/06/2016), no sentido de intimar os exequentes para se manifestarem, tendo os mesmos permanecido inertes, conforme se infere da certidão exarada em 01/07/2016.
+Posteriormente, em 22/07/2016, o magistrado de origem despachou os autos determinando a intimação pessoal dos exequentes para, em 48 (quarenta e oito) horas, manifestarem-se sobre a impugnação, sob pena de extinção do feito.
+Expedidos os competentes mandados de intimação, os mesmos foram cumpridos, mas não atingiram os seus objetivos. Um deles teve como certidão a afirmação de que a parte encontra-se hospitalizada no momento, e o outro teve certidão no sentido de que a parte não fora encontrada nas diligências efetuadas.
+Ato subsequente, o feito fora extinto, sem julgamento do mérito, nos termos acima transcritos.
+De fato, entendo que o presente recurso merece ser provido. Explico:
+A extinção do processo sem resolução do mérito, em razão do abandono (art. 485, inciso III do CPC/15), deve ocorrer quando o autor não promover atos e diligências que lhe competiam, o que não foi o caso dos autos, posto que a manifestação do exequente acerca da impugnação do executado é ato facultativo da parte.
+O CPC/15, inclusive, não estabelece como obrigatória a manifestação da parte exequente após a impugnação da parte executada, mostrando-se absolutamente prescindível ao andamento processual.
+A inércia dos exequentes, na presente hipótese, não tem o condão de obstar o seguimento do feito, o qual poderia tramitar naturalmente, ante a opção da parte exequente em silenciar.
+Destarte, a manifestação da parte exequente sobre a impugnação mostra-se, de fato, dispensável ao andamento processual.
+Ademais, a intimação pessoal dos exequentes não restou efetivada, mas por motivos que não se confundem com a ausência de endereço atualizado nos autos, conforme prevê o art. 274, parágrafo único, do CPC/15.
+Da leitura das certidões exaradas quando do cumprimento dos respectivos mandados de intimação, vê-se que não tiveram o objetivo atingido porque um dos exequentes encontrava-se hospitalizado, e o outro não fora encontrado nas diligências efetuadas.
+Assim, repita-se, não se pode afirmar que se trata da hipótese prevista no art. 274, parágrafo único, do NCPC, qual seja, ausência de endereço atualizado da parte.
+Por tudo que restou externado, entendo não configurado o abandono, razão pela qual, entendo que os autos devem retornar ao Juízo de origem para o seu regular andamento (fls. 155/156).
+9. Acrescente-se, ademais, que o escopo dos Embargos de Declaração não é a rediscussão de matéria já enfrentada e integralmente decidida, como no caso, mas, tão somente, promover a integração do decisum omisso, obscuro ou contraditório. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO. ART. 535 DO CPC. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. TRIBUTÁRIO E PROCESSUAL CIVIL. ICMS. AÇÃO DE COBRANÇA PROPOSTA EM RELAÇÃO ÀS SOCIEDADES DE ECONOMIA MISTA CONCESSIONÁRIAS DE SERVIÇO PÚBLICO. PRESCRIÇÃO. ART. 177 DO CCB/1916 E ART. 205 DO CCB/2002.
+1. Hipótese em que foi negado provimento ao recurso, uma vez que, relativamente à prescrição, o Tribunal de origem decidiu de acordo com o entendimento pacificado do STJ, no sentido de que o prazo prescricional das ações de cobrança propostas em relação às sociedades de economia mista concessionárias de serviço público é o ordinário de 20 anos, previsto no art. 177 do CCB/1916, que foi reduzido para 10 anos pelo art. 205 do CCB/2002.
+2. Os Embargos de Declaração constituem recurso de contornos rígidos, destinado a promover a integração do decisum omisso, obscuro ou contraditório. Não se prestam a rediscutir o mérito.
+3. A controvérsia foi integralmente solucionada, com motivação suficiente e em consonância com o entendimento do STJ sobre a matéria, não se configurando omissão, contradição ou obscuridade no aresto embargado.
+4. Embargos de Declaração rejeitados (EDcl no AgRg no AgRg nos EDcl no REsp. 1.437.453/GO, Rel. Min. HERMAN BENJAMIN, DJe 2.9.2016).
+
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EFEITOS INFRINGENTES. EXAME DE OFENSA À CONSTITUIÇÃO FEDERAL. NÃO CABIMENTO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração consubstanciam instrumento processual apto a suprir omissão do julgado ou dele excluir qualquer obscuridade ou contradição, nos termos do art. 535 do Código de Processo Civil. Não se prestam para inovar ou rediscutir a lide.
+2. Não cabe ao Superior Tribunal de Justiça, em recurso especial, manifestar-se sobre eventual violação a dispositivos e princípios constitucionais, nem mesmo para fins de prequestionamento, sob pena de usurpar a competência conferida, constitucionalmente, ao Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados (EDcl no AgRg no REsp 1.136.704/PR, Rel. Min. ARNALDO ESTEVES LIMA, DJe 26.5.2011).
+10. Ante o exposto, nega-se provimento ao Agravo.
+11. Publique-se.
+12. Intimações necessárias.
