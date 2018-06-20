@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que negou seguimento ao recurso especial, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. EMBARGOS À EXECUÇÃO.
+Comprovada a adulteração no cheque, deve ser extinta a execução, porquanto o reconhecimento de vício afasta os requisitos de certeza, liquidez e exigibilidade. Ademais, ao pretender a execução de cártula adulterada, tem-se como evidente a litigância de má-fé. Jurisprudência da Corte. Manutenção da sentença que se impõe.
+NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem, adotando-se a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. DIREITO PRIVADO NÃO ESPECIFICADO. EMBARGOS Ã EXECUÇÃO. REDISCUSSÃO.
+Apontados os pontos nos quais se embasou a decisão, torna-se desnecessário para o Julgador novamente responder a todos os questionamentos formulados, visto que os embargos de declaração devem se basear apenas nas hipóteses do art. 1.022, do novo Código de Processo Civil. Jurisprudência da Corte.
+DESACOLHERAM OS EMBARGOS. UNÂNIME.
+Nas razões do especial, aponta o recorrente existência de dissídio jurisprudencial, além da violação dos artigos 332 do novo Código de Processo Civil e 25 da Lei 7.357/85, alegando que por ser endossatário do cheque, não há como admitir a oponibilidade de exceções pessoais à cártula que circulou.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+O Tribunal de origem assim resolveu a controvérsia (fl. 307, e-STJ):
+No caso, a prova dos autos, notadamente o laudo pericial de fls. 178-192, foi clara no sentido de reconhecer que a cártula teve o seu valor adulterado, pois, embora emitida pelo valor de R$ 816,00, foi modificada para a quantia de R$ 25.816,00.
+Nesta linha, diante de tal adulteração, tem-se como caracterizada a ocorrência de vício na cártula, o que a torna inexigível, impossibilitando a sua execução, desimportando. inclusive o valor por extenso, porquanto a perícia reconheceu que este foi preenchido após a emissão.
+Ademais, não bastasse isso, impositiva também a manutenção da multa por litigância de má-fé fixada em desfavor do exequente, uma vez que alterou a verdade dos fatos e tentou se utilizar do processo para atingir objetivo ilegal, porquanto ajuizou a ação quando o cheque inclusive já havia sido devolvido pela instituição financeira.
+Quanto ao tema, necessário sinalar que desimporta o enquadramento da alínea de devolução, se por "roubo, furto ou extravio" ou "cheque fraudado", pois o cerne da questão que evidencia a má-fé é a tentativa de cobrar judicialmente uma cártula que sabidamente estava eivada de vício, não tendo relevância para a caracterização da conduta o momento do endosso, por exemplo.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+No mais, verifica-se que a fundamentação do Colegiado estadual está em consonância com a jurisprudência desta Corte Superior, que possui entendimento no sentido de que o emitente do cheque pode opor ao portador as exceções pessoais que teria contra o primitivo credor, quando se comprovar que aquele (portador) agiu de má-fé ao receber o título. Vejam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE TÍTULO. TERCEIRO AGINDO DE MÁ-FÉ. ENDOSSANTE E ENDOSSATÁRIO. PESSOAS JURÍDICAS COLIGADAS. AUSÊNCIA DE NEGÓCIO SUBJACENTE ENTRE AS PARTES. CONVICÇÕES DO ACÓRDÃO FIRMADAS NO SUBSTRATO FÁTICO DOS AUTOS. SÚMULA Nº 7 DO STJ. ALEGAÇÃO DE SALDO POSITIVO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. APLICAÇÃO DA SÚMULA Nº 284 DO STF. FUNDAMENTO NÃO IMPUGNADO. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. As alegações da recorrente acerca da exigibilidade da cártula protestada foram afastadas pelo acórdão recorrido com base nas provas colacionadas aos autos, as quais foram consideradas por ele, seu destinatário, aptas e suficientes à formação de suas convicções.
+Portanto, para modificar as suas conclusões, inquestionável a necessidade de reexame das provas já analisadas, o que, na via restrita do recurso especial, é proibido pela Súmula nº 7 do STJ.
+3. A insurgência recursal relativa à alegação de que a recorrente faria jus à diferença entre o valor do cheque contraordenado e a multa descontada do título, não foi conhecida pela decisão agravada com base na Súmula nº 284 do STF. No entanto, a petição de agravo interno apenas reprisa a argumentação deduzida no apelo nobre e não infirma os fundamentos da decisão agravada, o que atrai, no ponto, a incidência da Súmula nº 182 do STJ e do art. 1.021, § 1º, do CPC/2015.
+4. Agravo interno parcialmente conhecido e, nessa parte, não provido.
+(AgInt no AREsp 794.990/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 5/5/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. EXECUÇÃO DE DÍVIDA PAGA. ARTIGO 940 DO CÓDIGO CIVIL. REPETIÇÃO EM DOBRO. MÁ-FÉ DO CREDOR COMPROVADA. SÚMULA 7/STJ. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça delineia que a devolução em dobro prevista no art. 940 do Código Civil somente é cabível quando caracterizada a má-fé do credor ao demandar o devedor por dívida já paga, total ou parcialmente, sem ressalvar valores recebidos.
+2. In casu, a eg. Corte estadual afirmou que a existência de má-fé do credor ficou comprovada nos autos, tendo em vista o ajuizamento de ação de execução para cobrar parcelas de aluguel incontroversamente já quitadas por meio de depósito de cheques na conta do locatário. Rever tal contexto fático delineado pelas instâncias ordinárias esbarraria no óbice da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 725.967/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 13/10/2015)
+Incidência da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil/2015, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
