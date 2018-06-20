@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, 09/12/2009, em com fundamento no art. 105, III, a, da CF/88, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+"AGRAVO INTERNO - APELAÇÃO EM EMBARGOS À EXECUÇÃO DE SENTENÇA - FGTS - APRESENTAÇÃO DE NOVAS CONTAS PELO EMBARGANTE - PRECLUSÃO.
+Não procede a alegação de preclusão do direito da embargada de apresentar seus cálculos, tampouco de ofensa ao princípio da imparcialidade do Juízo.
+Nem mesmo em casos de revelia o julgador fica submisso à presunção de veracidade das alegações do autor, sendo-lhe facultado decidir de maneira diversa, formando sua convicção com base em outros elementos que entender pertinentes.
+Desnecessária a apresentação de novas contas nos embargos à execução, uma vez que toda a argumentação da embargada é no sentido de sustentar aquelas que já foram apresentara por ocasião da liquidação da sentença exequenda.
+Agravo Interno a que se nega provimento" (fl. 77e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"PROCESSUAL CIVIL. IRREGULARIDADE FORMAL NÃO APONTADA. INEXISTÊNCIA DE OMISSÃO, DÚVIDA OU CONTRADIÇÃO NO ACÓRDÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1 - Os embargos declaratórios não se destinam a veicular mero inconformismo com o julgado, revolvendo questões já adequadamente apreciadas.
+2 - Não tendo sido demonstrado o vício supostamente existente no acórdão, que não apresenta obscuridade, omissão ou contradição a sanar, revelam-se improcedentes os embargos.
+3 - No tocante ao pretendido prequestionamento, o entendimento do STJ é no sentido de seu cabimento na hipótese de haver necessidade de o tema objeto do recurso ser examinado pela decisão atacada, o que foi observado por ocasião do julgamento, razão pela qual tal pretensão também não é acolhida.
+4 - Embargos de declaração conhecidos e rejeitados" (fl. 90e).
+A recorrente alega ofensa aos arts. 535, II, e 604 do CPC, sob os argumentos de que: a) não obstante a oposição dos Embargos Declaratórios, o Tribunal de origem deixou de se manifestar acerca da omissão apontada, referente à aplicação do art. 604 do CPC, vigente à época dos Embargos à Execução; b) "a sentença homologou cálculo apresentado pelo contador judicial, não adotando nem os cálculos oferecidos pela Autarquia, nem aqueles oferecidos pela parte credora. Uma vez oferecidos os cálculos pelo credor, precluiu seu direito de apresentação de nova conta, pois se assim se admitisse, estaria havendo alteração do pedido e prejuízo ao direito de defesa do réu, mesmo porque segundo o procedimento introduzido à época quanto à apresentação dos cálculo (sic) era aquele estabelecido pelo art. 604 do diploma processual civil antes mencionado, que determinava competir ao credor, e não mais ao contador judicial, a iniciativa de instruir o pedido com a memória discriminada e atualizada do cálculo. Ademais, partindo-se do entendimento de que cabe ao credor apresentar a conta do que entende devido, aí estão delineados os precisos limites da execução, não sendo de se admitir, portanto, possa o contador judicial promover modificação em relação ao pedido original" (fl. 100e).
+Não foram apresentadas contrarrazões (fl. 105e).
+Sem razão a parte recorrente.
+Em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1.360.762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+O Tribunal de origem, para decidir a controvérsia dos autos, deixou consignado, no que interessa:
+"Muito embora a embargada não tenha apresentado novas contas em sua impugnação, a verdade é que esta revelar-se-ia absolutamente desnecessária uma vez que toda sua argumentação foi em defesa da manutenção das contas por ela já apresentadas por ocasião da liquidação da sentença exequenda.
+Ainda que assim não fosse, importa notar que nem mesmo em casos de revelia o julgador fica submisso à presunção de veracidade das alegações do autor, sendo-lhe facultado decidir de maneira diversa, formando sua convicção com base em outros elementos que entender pertinentes.
+(..)
+Assim, não procede a alegação de preclusão do direito da embargada apresentar novos cálculos, tampouco de ofensa ao princípio da imparcialidade do Juízo.
+Ante o exposto, voto por NEGAR PROVIMENTO AO AGRAVO INTERNO" (fls. 74/75e).
+Entretanto, o fundamento referente à faculdade do juiz da execução em decidir de acordo com a sua convicção, suficiente para amparar a tese regional, não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
