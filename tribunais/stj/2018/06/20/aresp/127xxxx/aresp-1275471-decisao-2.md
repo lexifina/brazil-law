@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra a decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado:
+"AGRAVO DE INSTRUMENTO - EXECUÇÃO DE HONORÁRIOS - AÇÃO REVISIONAL DE CONTRATO JÁ QUITADO. EQUÍVOCO QUANTO À INTERPRETAÇÃO DE DECISÃO DE TRIBUNAL SUPERIOR - INEXISTÊNCIA DE INVERSÃO DE ÔNUS SUCUMBENCIAL - INTERPRETAÇÃO NO SENTIDO DE MINORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS, EM VIRTUDE DE SUCUMBÊNCIA MÍNIMA. HONORÁRIOS DE ADVOGADO CONTRATUAIS - REQUERIMENTO DE LIBERAÇÃO E LEVANTAMENTO PELO PRÓPRIO ADVOGADO - INEXISTÊNCIA DE JUNTADA DO CONTRATO DE HONORÁRIOS - IMPOSSIBILIDADE. RECURSO PARCIALMENTE PROVIDO" (fl. 113 e-STJ).
+Nas razões do especial, o agravante alega, além de divergência jurisprudencial, violação dos arts. 85, §§ 2º e 8º, 489, § 1º, I, e § 2º, e 1.022, II, do CPC/2015. Requer, em síntese, a majoração dos honorários advocatícios sucumbenciais.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil/2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No tocante à violação dos arts. 489 e 1.022, II, do CPC/2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA COMBINADA COM INDENIZATÓRIA. 1. INEXISTÊNCIA DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. PRODUÇÃO DE PROVAS. PRECLUSÃO. SÚMULA N. 83/STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. 3. PEDIDO DE NOVA CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE.VERBA QUE JÁ FOI CONTEMPLADA NA DECISÃO MONOCRÁTICA. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489, § 1º, e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. É sabido que "esta Corte já firmou entendimento que preclui o direito à prova se a parte, intimada para especificar as que pretendia produzir, não se manifesta oportunamente, e a preclusão ocorre mesmo que haja pedido de produção de provas na inicial ou na contestação, mas a parte silencia na fase de especificação." (AgRg no AREsp 645.985/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 16/06/2016, DJe 22/06/2016). Incidência da Súmula n. 83/STJ, por ambas as alíneas do permissivo constitucional.
+3. Fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.
+4. Agravo interno desprovido."
+(AgInt no AREsp 1.127.166/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/02/2018, DJe 23/02/2018)
+Na hipótese em tela, o Tribunal de origem consignou:
+"No caso em comento, os embargantes pugnam para que o valor seja elevado para patamares muito além do fixado, tomando-se por base um suposto "valor real do débito", que, conforme afirmado pelos próprios embargantes, "simplesmente inexistente".
+Entrementes, entendo que o magistrado, ao arbitrar os honorários, não pode apenas aplicar a regra fria do §2º do artigo 85 do NCPC, sem atentar-se à razoabilidade, à proporcionalidade e à equidade. É válido ressaltar que a aplicação de um artigo de uma lei não pode encontrar óbice em outro artigo. Em outras palavras, na fixação da quantum advocatício, o parâmetro constante do §2º do artigo 85 do NCPC não pode colidir com os já mencionados artigos 8º e 85, §8º do mesmo diploma legal.
+O juiz, em seu mister, deve sopesar as situações concretas e aplicar o melhor direito, não podendo ficar adstrito a regras que, se usadas sem fundamentos principiológicos, podem se tornar injustas, como é o caso dos autos.
+Com efeito, afigura-se desproporcional, irrazoável e iníquo o causídico da parte executada receber, a título de verba honorária, o percentual de 10% a 20% sobre o valor real do débito (R$ 340.000,00), em caso de parcial acolhimento de impugnação ao cumprimento de sentença, de modo que, se assim fosse, afrontaria sobremaneira o entendimento consolidado no REsp 1134186/RS acima transcrito.
+Portanto, resta forçoso concluir que, in casu, se prevalecesse o entendimento dos embargantes, haveria enriquecimento sem causa do advogado
+(..)
+Destarte, levando-se em consideração o trabalho desenvolvido no feito e por se tratar de caso de parcial acolhimento de impugnação ao cumprimento de sentença , entendo que o quantum inicialmente fixado a título de honorários advocatícios (R$ 6.000,00) deve ser mantido" (fls. 195/196, e-STJ).
+Assim como posta a matéria, a verificação da procedência dos argumentos expendidos no recurso exigiria o reexame de matéria fática, o que é vedado pela Súmula nº 7/STJ, consoante iterativa jurisprudência desta Corte.
+Por fim, nos termos dos artigos 541, parágrafo único, do Código de Processo Civil e 255, § 1º e § 2º, do Regimento Interno do Superior Tribunal de Justiça, inviável o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, quando não demonstrada, como no caso em apreço, a similitude fática entre as hipóteses confrontadas, inviabilizando a análise da divergência de interpretação da lei federal invocada.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Mantenho a sucumbência como fixada no acórdão estadual.
+Publique-se. Intimem-se.
