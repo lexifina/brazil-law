@@ -1,0 +1,23 @@
+DECISÃO
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO PELA OBTENÇÃO DO BENEFÍCIO DE PENSÃO POR MORTE. ALEGADA VIOLAÇÃO DOS ARTS. 554 E 557 DO CPC/1973. INOCORRÊNCIA. DECISÃO MONOCRÁTICA REAPRECIADA POR ÓRGÃO COLEGIADO. (II) CERCEAMENTO DE DEFESA. NÃO CONFIGURADO. AGRAVO DOS PAIS DO FALECIDO DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por [NOME], com fundamento na alínea a do art. 105, III da Constituição Federal, que objetiva a reforma do acórdão do TRF da 3a. Região, que julgou improcedente o pleito pelo reconhecimento do direito ao benefício previdenciário da pensão por morte.
+2. Nas razões do Apelo Especial inadmitido, o recorrente aponta violação aos arts. 554 e 557 do CPC/1973, em suma, ao argumento de que houve cerceamento de defesa e negativa de prestação jurisdicional.
+3. É o relatório. Decido.
+4. O inconformismo do agravante não prospera.
+5. É certo que a viabilidade do julgamento por decisão monocrática do relator se legitima quando se tratar de recurso intempestivo, incabível, deserto ou contrário à jurisprudência dominante do respectivo Tribunal ou de Tribunal Superior, nos termos do art. 557 do CPC. Todavia, eventual nulidade da decisão monocrática fica superada com a reapreciação do recurso pelo órgão colegiado, na via de agravo regimental, o que é o caso do autos, uma vez que a Apelação interposta foi julgada, em sede de Agravo Regimental, em decisão colegiada pelo referido Tribunal a quo.
+6. Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO - DISSÍDIO JURISPRUDENCIAL - - INOBSERVÂNCIA DAS EXIGÊNCIAS LEGAIS E REGIMENTAIS - INEXISTÊNCIA DE VIOLAÇÃO DO ART. 557 DO CPC - JURISPRUDÊNCIA PACÍFICA - POSSIBILIDADE DE JULGAMENTO MONOCRÁTICO DA APELAÇÃO - VIOLAÇÃO DO ART. 535 DO CPC NÃO CARACTERIZADA - DEMONSTRAÇÕES FINANCEIRAS - DETERMINAÇÃO DO LUCRO PARA APURAÇÃO DA CSL - DEDUÇÃO DA DIFERENÇA DA CORREÇÃO MONETÁRIA ENTRE O BTNF E O IPC/90.
+1. A ausência de cotejo analítico, bem como de similitude das circunstâncias fáticas e do direito aplicado nos acórdãos recorrido e paradigmas, impede o conhecimento do recurso especial pela hipótese da alínea "c" do permissivo constitucional.
+2. Não ocorre ofensa ao art. 535, II, do CPC, se o Tribunal de origem decide, fundamentadamente, as questões essenciais ao julgamento da lide.
+3. É legítimo o julgamento monocrático da apelação com base no art. 557 do CPC se pacífica a jurisprudência. Ademais, reapreciadas as questões em sede de agravo regimental, resta superada a alegada violação do dispositivo em comento.
+4. A correção monetária das demonstrações financeiras do ano-base 1990 não poderá ser utilizada para determinar o lucro real a fim de estabelecer a base de cálculo Contribuição Social sobre o Lucro - CSL, com exceção do previsto no artigo 41, § 2º, do Decreto 332/91. Precedentes.
+5. Recurso especial conhecido em parte e, nessa parte, não provido (REsp. 1.115.102/SP, Rel. Min. ELIANA CALMON, DJe 20.11.2009).
+
+PROCESSUAL CIVIL. ART. 557 DO CPC. JULGAMENTO POR DECISÃO MONOCRÁTICA DE RELATOR. POSSIBILIDADE. NULIDADE SUPERADA PELO JULGAMENTO DO AGRAVO INTERNO. EXECUÇÃO FISCAL. DÉBITO INFERIOR A R$ 10.000,00. ARQUIVAMENTO SEM BAIXA NA DISTRIBUIÇÃO. LEI 10.522/2002.
+1. É pacífico o entendimento desta Corte no sentido de que a eventual questão de nulidade da decisão monocrática do Relator fica superada com a reapreciação do recurso pelo órgão colegiado, na via de agravo regimental.
+2. Serão arquivados, sem baixa na distribuição, os autos das execuções fiscais de débitos inscritos como Dívida Ativa da União pela Procuradoria-Geral da Fazenda Nacional ou por ela cobrados, de valor consolidado igual ou inferior a R$ 10.000,00, nos termos do art. 20 da Lei nº 10.522, de 19.07.2002, com redação dada pela Lei nº 11.033/04.
+3. Recurso especial parcialmente provido (REsp 940.882/SP, Rel. Min. TEORI ALBINO ZAVASCKI, DJe 21.8.2008).
+7. Quanto ao alegado cerceamento de defesa, cumpre anotar que em âmbito judicial vige o princípio do livre convencimento motivado do Juiz e não o sistema de tarifação legal de provas. Assim, se o magistrado entendeu não haver necessidade de dilação probatória para o julgamento da lide, o que não foi o caso, não há que se falar em cerceamento de defesa na impugnação do pedido.
+8. Na análise de todos os pleitos realizados pelo ora recorrente, o Tribunal a quo, soberano na análise fático-probatória da causa, mantendo o entendimento da sentença, julgou como improcedente o pedido da inicial.
+9. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial DOS PARTICULARES.
+10. Publique-se. Intimações necessárias.
