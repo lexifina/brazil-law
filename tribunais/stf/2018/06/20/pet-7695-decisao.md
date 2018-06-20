@@ -1,0 +1,11 @@
+Vistos etc.
+    1. Por meio da Petição nº 41260/2018 (evento 8), Câmara Municipal da Estância Turística de Olímpia/SP pede seja reconsiderada a decisão unipessoal por mim proferida em 18.6.2018, por meio da qual, forte no art. 1.029, § 5º, III, do CPC, declinei da competência para examinar o pedido de tutela provisória (evento 7).
+    2. Insiste na tese de que as peculiaridades do caso agasalham a excepcional abertura da jurisdição desta Suprema Corte para análise do pedido de concessão de efeito suspensivo. Articula com a configuração de demora excessiva do Tribunal de Justiça do Estado de São Paulo em realizar o exame da admissibilidade do apelo extremo interposto na ação direta de inconstitucionalidade nº 2182974-78.2017.8.26.0000. Argumenta, em abono de sua pretensão, que o referido recurso extraordinário, interposto em 04.5.2018, até o momento não teve a sua admissibilidade apreciada na origem.
+    Examino.
+    1. Este pedido de reconsideração, além de não encontrar guarida na regra do art. 1.029, § 5º, III, do CPC, está baseado em premissa que não corresponde à realidade, no que diz com a sustentada demora do Tribunal de Justiça do Estado de São Paulo no exame da admissibilidade do apelo extremo. Ao contrário do alegado pela requerente, verifico que, desde o aperfeiçoamento da interposição do recurso extraordinário, nos autos da mencionada ação direta de inconstitucionalidade, não houve o decurso de lapso temporal suscetível de evidenciar demora irrazoável na atuação da Corte estadual paulista.
+    2. Somente se tem por aperfeiçoado o ato de interposição do recurso extraordinário com o saneamento do vício apontado pelo Tribunal de Justiça do Estado de São Paulo, ou seja, com a apresentação de apelo extremo assinado pelo Presidente da Câmara dos Vereadores da Estância Turística de Olímpia/SP, fato que apenas veio a ocorrer em 15 de junho de 2018 (evento 3, fl. 62). De então a esta parte, obviamente não se configura demora excessiva, como sugere a parte requerente, na tentativa de provocar a superação da regra insculpida no art. 1.029, § 5º, III, do Código de Processo Civil.
+    3. Ante o exposto, indefiro o pedido de reconsideração e mantenho, por seus próprios fundamentos, a decisão unipessoal proferida em 18.6.2018.
+    Publique-se.
+    Brasília, 20 de junho de 2018.
+Ministra Rosa Weber
+Relatora
