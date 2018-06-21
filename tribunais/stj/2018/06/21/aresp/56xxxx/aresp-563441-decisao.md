@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de agravo em que COLÉGIO DROMOS LTDA desafia decisão do Ilustre Desembargador Presidente do eg. Tribunal de Justiça do Estado do Distrito Federal e dos Territórios que não admitiu recurso especial.
+Passo a decidir.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+O agravo em exame não reúne todas as condições de admissibilidade, porquanto intempestivo.
+Verifica-se que a decisão que negou seguimento ao recurso especial foi publicada em 13/03/2014, quinta-feira. Iniciado o decêndio legal no primeiro dia útil subsequente, 14/03/2014, sexta-feira (e-STJ, fl. 207), o prazo exauriu-se em 24/03/2014, segunda-feira, em razão da prorrogação do prazo, conforme dispõe o art. 184, § 1º, I do CPC/73. Contudo, o presente recurso foi interposto apenas em 25 de março de 2014 (e-STJ, fl. 219).
+Ressalta-se que o prazo de 10 dias previstos no Código de Processo Civil de 1973 deve ser observado, tendo o início da sua contagem no dia seguinte ao da publicação da decisão de negativa de recurso especial. Ademais, "nos termos da jurisprudência desta Corte, eventual suspensão do prazo recursal decorrente de ausência de expediente ou de recesso forense, feriados locais, entre outros, nos tribunais de justiça estaduais deve ser comprovado por documento idôneo " (Ag Rg nos EDcl no AREsp 564.998/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 25/08/2015, DJe 02/09/2015.
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
