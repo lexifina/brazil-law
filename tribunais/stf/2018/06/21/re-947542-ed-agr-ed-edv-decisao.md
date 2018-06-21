@@ -1,0 +1,17 @@
+DECISÃO
+EMBARGOS DE DIVERGÊNCIA – PRESSUPOSTO ESPECÍFICO DE RECORRIBILIDADE – SIMILITUDE FÁTICA E JURÍDICA – AUSÊNCIA – SEGUIMENTO – NEGATIVA.
+    1. Este recurso volta-se a impugnar acórdão da Primeira Turma, mediante o qual negado provimento a agravo interno, formalizado com a seguinte ementa:
+    DECADÊNCIA – PRAZO – BENEFÍCIO PREVIDENCIÁRIO – REVISÃO. É constitucional a fixação de prazo decadencial por meio de medida provisória. Precedente: recurso extraordinário nº 626.489/SE, relatado no Pleno pelo ministro Luís Roberto Barroso, acórdão publicado no Diário da Justiça de 23 de setembro de 2014.
+    HONORÁRIOS ADVOCATÍCIOS – FIXAÇÃO. Havendo interposição de recurso sob a regência do Código de Processo Civil de 2015, cabível é a fixação de honorários de sucumbência recursal previstos no artigo 85, § 11, do diploma legal.
+    Nas razões dos divergentes, a União articula com a configuração de dissenso jurisprudencial a autorizar a interposição de embargos, sustentando a desconformidade da decisão com a óptica do Supremo quanto à inadmissibilidade do extraordinário formalizado pela autarquia previdenciária. Articulando o caráter infraconstitucional da matéria em jogo, afirma que o recurso interposto pela autarquia não deveria ter sido sequer conhecido, por veicular irresignação com relação ao termo inicial do prazo decadencial para revisão de benefício previdenciário.
+    2. Não há razão para a sequência do recurso.
+    O artigo 330 do Regimento Interno do Supremo revela o cabimento de embargos de divergência contra decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do Direito federal, devendo a parte comprovar a discrepância jurisprudencial na forma do disposto no artigo 322 nele contido, a saber, via certidão ou cópia autenticada ou mediante citação do repositório de jurisprudência, oficial ou autorizado, com a transcrição dos trechos que configurem o dissídio, mencionadas as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+    O embargante interpôs os divergentes indicando, como paradigma, acórdão por meio do qual a Segunda Turma do Supremo negou provimento ao agravo regimental no recurso extraordinário com agravo nº 910.691, relator ministro Dias Toffoli, mantendo decisão que negara seguimento ao recurso do Instituto Nacional do Seguro Social – INSS, ausente enquadramento no permissivo legal. Eis a síntese do pronunciamento:
+    Agravo regimental no recurso extraordinário com agravo. Direito Previdenciário. Revisão de benefício. Decadência. RE nº 626.489/SE-RG. Repercussão geral reconhecida. Inaplicabilidade. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    Presente o quadro revelado, surge impróprio o manejo dos divergentes objetivando o exame de matéria relacionada à admissibilidade recursal, a teor do artigo 1.043 do Código de Processo Civil de 2015.
+    A par desse aspecto, a ausência de similitude fática e jurídica entre o acórdão embargado e o paradigma de divergência invocado – no qual expressamente afastada, ante a impertinência temática, a incidência da tese firmada no recurso extraordinário nº 626.489, submetido ao rito da repercussão geral, razão de decidir do pronunciamento embargado – obsta o seguimento do recurso de embargos de divergência.
+    3. Ante o quadro, tenho-os como inadmissíveis e não os recebo.
+    4. Publiquem.
+Brasília, 21 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
