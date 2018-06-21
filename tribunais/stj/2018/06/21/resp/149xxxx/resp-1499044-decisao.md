@@ -1,0 +1,40 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CIVIL. DISPOSITIVOS TIDOS POR VIOLADOS. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS NSº 282 E 356 DO STF. REFORMA DO JULGADO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Consta dos autos que LIBER CONSERVAÇÃO E SERVIÇOS GERAIS LTDA (LIBER) propôs ação de indenização por danos morais e materiais contra DELTA ELEVADORES LTDA (DELTA).
+O juízo de piso julgou procedente a ação procedente nos seguintes termos:
+Diante do exposto, JULGO PROCEDENTE, o pedido formulado na petição inicial, para condenar o réu a restituir ao autor, as quantias pagas, no valor de RS 28.100,00 (vinte e oito mil e cem reais), devendo a referida quantia ser corrigida monetariamente pela tabela do ENCOGE, a partir da data de cada desembolso, e com acréscimo de juros de mora no percentual de 1% (um por cento) ao mês, a contar da data da citação.
+CONDENO AINDA o réu a pagar ao autor a título de verba reparadora/compensatória por dano de natureza moral, a importância correspondente a RS 15.000,00 (quinze mil reais), que fixo tomando por parâmetro, para a precisa dosagem do quantum necessário à reparação pleiteada, a natureza e extensão do prejuízo, o grau de culpa do ofensor, a situação econômica das partes, o binômio razoabilidade/proporcionalidade e, por último a sua repercussão, valor que deve ser corrigido monetariamente e acrescido de juros de 1% ao mês a parir da sentença.
+Tendo a parte autora decaído em parte mínima do pedido, condeno a parte ré no pagamento das custas processuais e honorários advocatícios que fixo em 20% sobre o valor da condenação (e-STJ, fl. 129).
+O Desembargador Relator negou seguimento ao apelo interposto por DELTA, por decisão monocrática (e-STJ, fls. 180/183), mantido pelo Tribunal de origem que negou provimento ao agravo interno em acórdão assim ementado:
+Recurso de agravo na apelação Cível - Ação de indenização - Falta de prestação de serviço já pago - Preliminar de inépcia da inicial - Rejeitada - Preliminar de denunciação da lide - Rejeitada - Prova da celebração do contrato - Comprovado fato constitutivo do direito do autor - Possibilidade de celebração de negócio jurídico pelo preposto - Assinatura do sócio no verso do cheque - Prova da ciência do contrato pelo agravante - Recurso não provido
+1. A não juntada do instrumento contratual não torna inepta a petição inicial, até mesmo porque as provas juntadas aos autos comprovam a existência de contrato, reforçando a conclusão lógica da exordial. Preliminar rejeitada.
+2. Preliminar de ilegitimidade passiva não conhecida, por se confundir com o mérito da ação.
+3. Não é cabível a denunciação à lide contra o suposto falsário, pois a própria empresa nega o vínculo contratual com aquele, não podendo a agravante se beneficiar da própria torpeza. Preliminar rejeitada.
+4. A parte autora comprovou o fato constitutivo do seu direito, juntando cópias da proposta recibos e cheques, enquanto a parte ré, ora apelada, se resumiu a elencar fatos, não tendo juntado nenhuma prova acerca da ação de falsário.
+5. É desarrazoado admitir a exclusividade do sócio da empresa para celebrar contratos, podendo fazê-lo o preposto da empresa.
+6. No verso de um cheque juntado pelo autor, encontra-se assinatura do sócio da empresa ré. Tal fato faz-se presumir inquestionavelmente que o sócio estava ciente das parcelas relativas ao contrato descumprido.
+7. Recurso não provido (e-STJ, fl. 213).
+Inconformada, DELTA interpõe, então recurso especial, com fundamento na alínea a do permissivo constitucional, no qual alega violação dos arts. 47 e 1.022 do CC/02; e 131, 267, VI, 283 e 295, I, do CPC/73, sob o argumento de que: (a) não foram indicados os motivos satisfatórios que formaram o convencimento do magistrado; (b) a inicial é inepta porque os fatos ali articulados não conduzem a uma conclusão lógica, devendo o processo ser extinto sem julgamento do mérito; (c) ausência de sua responsabilidade na transação realizada entre a LIBER e o Sr. [NOME]; e, (d) o inadimplemento de regra contratual não gera direito a indenização por danos morais
+As contrarrazões do apelo nobre não foram apresentadas (e-STJ, fl. 250).
+O recurso especial não foi admitido na origem (e-STJ, fl. 252), tendo seguimento por força de agravo provido (e-STJ, fl. 286).
+É o relatório.
+DECIDO.
+Não merece prosperar a presente irresignação.
+De plano, vale pontuar que as disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Os temas referentes aos arts. 47 e 1.022 do CC/02; e 131, 267, VI, 283 e 295, I, do CPC/73 não foram apreciados pelo acórdão recorrido, e tampouco foram opostos embargos de declaração, estando ausente o indispensável debate prévio.
+Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional.
+Inafastável assim, por analogia, a incidência das Súmulas nº 282 e 356 do STF: É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada; O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+De qualquer forma, o Tribunal de origem concluiu pela responsabilidade de DELTA pela indenização em danos materiais e morais em favor da LIBER, bem como por estarem comprovados o fato constitutivo do direito do autor, a celebração do contrato e a ciência do contrato por DELTA, sob os seguintes fundamentos:
+Feitas tais considerações, verifica-se não ter a Delta provado o fato extintivo do direito do autor.
+Por outro lado, a parte autora juntou exaustivamente os documentos comprovando o fato constitutivo do seu direito. Juntou cópias da proposta (fl. 12/13), recibos (fls. 16 e 20) e cheques (fls. 99/104).
+Ainda segundo a Delta, a celebração de contratos e a assinatura de recibos seria de exclusiva incumbência do sócio [NOME]. Segundo este raciocínio, a prática de tais atos seria inválida.
+Trata-se de argumento improcedente. A própria natureza da economia e das relações de consumo acarreta a inviabilidade de se praticar atos de administração a uma única pessoa. Além disto, como bem ressaltado pelo juiz duo, seria desarrazoado exigir o contrato social da empresa em cada tratativa de contrato.
+Da mesma forma, a teoria da aparência deve ser considerada: aquele que se apresenta como preposto da empresa tem a presunção de possuir poderes para praticar atos de administração, mormente os contratos de consumo.
+Ademais, na cópia do cheque de fl. 102, encontra-se assinatura do sócio, idêntica à do contrato social de fl. 80. Tal fato faz-se presumir inquestionavelmente que o sócio estava ciente das parcelas relativas ao contrato descumprido.
+Portanto, não apenas a Delta deixou de provar a não participação no contrato, mas também a própria empresa autora juntou documento demonstrando a participação da ré no negócio jurídico (e-STJ, fls. 211/212).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 do STJ.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), NÃO CONHEÇO do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
