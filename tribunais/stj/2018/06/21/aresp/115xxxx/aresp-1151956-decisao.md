@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo ESTADO DO RIO DE JANEIRO contra decisão que inadmitiu o recurso especial, fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo Tribunal de Justiça do estado do Rio de Janeiro, assim ementado (fl. 282):
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO PARA ADMISSÃO AO CURSO DE FORMAÇÃO DE SOLDADO DA POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. CANDIDATO ELIMINADO NA ETAPA DE EXAME SOCIAL POR ALEGADO RELACIONAMENTO COM PESSOAS ENVOLVIDAS COM O TRÁFICO ILÍCITO DE ENTORPECENTES. CONTRADIÇÃO. AUSÊNCIA DE PROVA DO EFETIVO ENVOLVIMENTO DO AUTOR. INFORMAÇÕES OBTIDAS COM O PÚBLICO EXTERNO QUE NÃO SÃO PROTEGIDAS PELO SIGILO. PROVIMENTO DO RECURSO.
+Na origem, cuida-se de ação em que o autor objetiva que o ato administrativo que provocou sua reprovação no concurso público seja anulado, bem como que seja autorizada sua participação nas demais fases do certame, com valor da causa fixado em R$ 41.000,00 (quarenta e um mil reais). Na sentença, julgou-se procedente o pedido (fls. 203-206).
+No Tribunal de Justiça do Estado do Rio de Janeiro, a sentença foi reformada (fls. 254-262).
+Opostos embargos declaratórios, foram providos com efeitos modificativos, de modo a dar provimento aos pedidos do autor (fls. 282-288).
+Interposto recurso especial, alega a parte recorrente violação do artigo 1.022 do CPC/2015.
+Negado seguimento ao recurso especial, foi interposto agravo em recurso especial (fls. 337-343).
+É o relatório. Decido.
+Incide sobre o recurso especial o Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma no novo CPC".
+No tocante à alegada violação do artigo 1.022 do CPC/2015, assiste razão ao recorrente, uma vez que no acórdão objeto de impugnação via embargos de declaração, não vislumbra-se contradição ou qualquer outro vício ensejador de sua nulidade.
+Os embargos de declaração somente são cabíveis nas estritas hipóteses constantes no artigo 1.022 do CPC, não havendo falar em rejulgamento pela via aclaratória, quando não se verifica qualquer omissão ou contradição no acórdão embargado.
+Veja-se que o acórdão de apelação entendeu por suficientes as informação obtidas junto ao público externo e, nesse sentido, decidiu por correto o ato de reprovação praticado pela Administração. Logo, não houve contradição interna no decisum recorrido, no qual o Tribunal de origem manteve sua fundamentação e decisão de forma logicamente interligada, conforme é possível averiguar pelos seguintes trechos (fl. 261):
+
+Note-se que a tese central da demanda é no sentido de que o recorrente não poderia ser atingido por atos ilícitos praticados por terceiros, todavia, a diligência que apurou a conduta do recorrente não restou invalidada, porquanto o exame social e documental, nos termos do item 14 do edital, visava verificar "in loco" o comportamento do candidato, de um modo geral, não se admitindo pessoas cujo comportamento fosse incompatível com a honorabilidade do policial militar, não havendo qualquer vício que possa macular o ato administrativo questionado.
+O relacionamento do candidato com os indivíduos envolvidos com o tráfico de entorpecentes foi apurado junto ao público externo, cabendo aqui registrar que tal fato serviu para aquilatar a conduta antissocial do autor/apelado, a qual assume relevo em se tratando de cargo que assegura responsabilidade na área de segurança pública.
+A modificação do resultado do julgamento, pela via dos embargos de declaração, somente se justifica em situações excepcionais, por mera consequência lógica, ao se apreciar eventual contradição, omissão ou obscuridade no acórdão embargado. Ausentes tais hipóteses, não cabe utilizar a via aclaratória como supedâneo de segundo recurso de apelação, não previsto na ordem jurídica.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL PARA APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRECEDENTES. REVISÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+(..)
+2. O acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição. Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+(..)
+(REsp 1683612/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/09/2017, DJe 10/10/2017)
+Ante o exposto, nos termos do art. 253, parágrafo único, II, c, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo, a fim de dar provimento ao recurso especial para anular o acórdão proferido em recurso de embargos de declaração e restabelecer o acórdão às fls. 254/262.
+Publique-se. Intime-se.
