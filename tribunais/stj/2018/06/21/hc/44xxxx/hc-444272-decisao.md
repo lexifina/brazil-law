@@ -1,0 +1,17 @@
+DECISÃO
+MARVIN WILLIAN LEITE DE ALMEIDA, paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0011490-05.2015.8.26.0451).
+Depreende-se dos autos que o paciente foi condenado à pena de 4 anos de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 157, caput, do Código Penal.
+A impetrante sustenta a ocorrência de constrangimento ilegal, sob o argumento de que o paciente faz jus ao cumprimento da pena em regime inicial menos gravoso, pois as instâncias ordinárias fixaram o regime semiaberto com base na gravidade abstrata do delito. Salienta qua o paciente é primário e teve a pena-base fixada no mínimo legal.
+Requer, liminarmente e no mérito, seja fixado o regime aberto para o início do cumprimento da reprimenda.
+A liminar foi indeferida e, diante da suficiente instrução dos autos, foi dispensada a solicitação de informações à autoridade apontada como coatora.
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração, mas pela concessão de habeas corpus, de ofício, "para que seja modificado o regime inicial de cumprimento da pena" (fl. 112).
+Decido.
+O Tribunal de origem, embora haja reduzido a reprimenda do paciente para 4 anos de reclusão, manteve a fixação do regime inicial semiaberto, pelos seguintes abaixo expostos (fls. 58-59):
+Em relação ao regime inicial de cumprimento de pena, adequada a fixação do regime intermediário, em face das circunstâncias fáticas da conduta rapina em estabelecimento comercial, com simulação de porte de arma de fogo.
+No entanto, o fato de o delito haver sido perpetrado em estabelecimento comercial não evidencia, de per si, especial gravidade do crime ou real periculosidade do agente, tanto que tal circunstância nem sequer foi sopesada para fins de exasperação da pena-base, que, aliás, ficou estabelecida no mínimo legal. Da mesma forma, considero que o fato de ter havido simulação de porte de arma de fogo integra a própria elementar "grave ameaça" e, portanto, não extrapola a própria reprovabilidade inerente ao crime de roubo, abstratamente considerado, motivo pelo qual também não constitui fundamento idôneo a ensejar a fixação de regime prisional mais gravoso do que o cabível em razão da reprimenda aplicada.
+Assim, uma vez que o paciente era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes, teve a pena-base fixada no mínimo legal e foi condenado à sanção de 4 anos de reclusão, considero ser o regime aberto o mais adequado para a prevenção e a repressão do crime praticado, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal.
+Essa, aliás, também foi a compreensão do Ministério Público Federal, que, em seu parecer de fls. 107-112, assim se manifestou, no que interessa (fl. 109):
+ ..  verifica-se que o regime inicial fixado na sentença condenatória e mantido no acórdão ora guerreado - mesmo com a redução do quantum de pena inicialmente aplicado - não está lastreado em motivação idônea, eis que o fundamento invocado (roubo praticado mediante simulação de arma de fogo) não é suficiente, por si só, para agravar o regime inicial da pena, haja vista tal elemento ser intrínseco ao tipo penal violado.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem para fixar ao paciente o regime inicial aberto de cumprimento de pena, nos autos da condenação objeto do Processo n. 0011490-05.2015.8.26.0451.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
