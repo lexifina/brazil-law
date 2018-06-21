@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por FOTOGRAVURA ZEYANA LTDA, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. EXTINÇÃO POR QUESTÃO MERAMENTE PROCESSUAL. ART. 85, §8º. CPC/2015. APLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. A fixação dos honorários advocatícios deve obedecer ao regime jurídico vigente na data da publicação da sentença.
+2. Considerando que o § 8º do artigo 85 do NCPC remete aos parâmetros de seu parágrafo § 2º, tenho que, para a adequada a mensuração dos honorários advocatícios, no presente caso, o proveito econômico deve observar a circunstância de que a execução foi extinta por questão meramente processual. O direito de crédito da Fazenda Nacional não foi discutido em seu aspecto substancial. Portanto, o proveito econômico, não pode partir da análise simplista de corresponder à integralidade do valor exequendo.
+4. Considerados o proveito econômico da extinção da execução por questão formal, a simplicidade da instrução e a rápida tramitação do feito, a apelação merece parcial provimento.
+5. Honorários fixados em consonância com os parâmetros do artigo 85, §8º, do CPC/2015.
+Foram fixados honorários advocatícios no valor de R$ 5.000,00.
+Rejeitados os embargos declaratórios opostos.
+No presente recurso especial, o recorrente aponta violação ao art. 1.022 do CPC/2015, alegando, em resumo, que o proveito econômico decorrente da extinção da execução não foi examinado pelo Tribunal a quo, além da inadequação da aplicação do art. 85, §8º do CPC/2015. Sobre o assunto explicita o recorrente, verbis:
+Ao longo do processo a Recorrente referiu, por diversas vezes, que os débitos objeto da presente execução fiscal são decorrentes de compensações não homologadas com créditos de IPI. Contudo, o proveito econômico obtido na ação anulatória não tem relação com a presente execução fiscal pelo simples fato que os débitos objeto da presente execução fiscal não estão diretamente vinculados com a ação anulatória.
+8. No próprio recurso de embargos de declaração a ora Recorrente busca a manifestação do Tribunal acerca da questão, essencialmente com base nos seguintes argumentos:
+"6. Diante disso, configura-se obscuro o acórdão embargado ao referir que o proveito econômico já foi obtido nos autos da ação anulatória n.º 5003447-29.2010.404.7107, uma vez que os débitos objeto da referida ação não estão diretamente vinculados com a presente execução fiscal. Inclusive a própria sentença proferida nos autos da ação anulatória determinou a suspensão da presente execução fiscal até o trânsito da ação anulatória e não sua extinção como fez com a execução fiscal que tinha por objeto os débitos de IPI.
+7. Assim, resta caracterizada a obscuridade no julgado, uma vez que não há como o proveito econômico decorrente da extinção da presente execução fiscal ter sido obtido nos autos da ação anulatória que tinha por objeto débitos diversos."
+Indica, ainda, violação ao art. 85, §§ 3º e 4º do CPC/2015, sustentando, em síntese, que não havendo condenação principal e não sendo possível mensurar o proveito econômico, a verba honorária deve ser fixada sobre o valor atualizado da causa, sempre em atenção aos percentuais do parágrafo 3º acima mencionado.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Assiste razão ao recorrente, no que toca à alegada violação ao art. 1.022 do CPC/2015.
+De fato, o recorrente apresentou questão jurídica relevante, qual seja, a aplicação dos artigos apontados no recurso especial, tendo em vista aludida obscuridade em relação à análise da existência/inexistência de proveito econômico e equivocada aplicação do parágrafo 8º do art. 85 do CPC/2015.
+Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou as questões.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 1.022 do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Publico Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido. (AgRg no REsp n. 1.221.403/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Dje de 23/8/2016).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE E ECONOMIA PROCESSUAL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+1. Os princípios da fungibilidade recursal e da economia processual autorizam o recebimento de embargos de declaração como agravo regimental.
+2. Caracteriza-se ofensa ao art. 535 do CPC quando a Corte de origem deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+3. Agravo regimental não provido. (EDcl no AgRg no REsp n. 1.561.073/AL, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 18/4/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo para que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
