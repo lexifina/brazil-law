@@ -1,0 +1,3 @@
+DECISÃO
+Tendo em vista que o Juízo da 3ª Vara de Execução de Títulos Extrajudiciais de Brasília/DF, julgou, em 08/03/2018, extinta a demanda sem resolução de mérito, conforme informação obtida mediante consulta ao sítio eletrônico do Tribunal de Justiça do Distrito Federal e Territórios, nos autos do processo principal (Processo: 0035178-50.2014.8.07.0001), determino que se intime o agravante, HEINZ KUDIESS, a fim de que, no prazo de 05 (cinco) dias, informe sobre a manutenção de seu interesse no julgamento do presente agravo em recurso especial, sob pena de extinção do procedimento recursal por falta de interesse processual.
+Publique-se.
