@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUNÍCIPIO DE PATOS, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim ementado:
+EMENTA: REMESSA OFICIAL E APELAÇÃO CÍVEL - PRELIMINAR DE INCOMPETÊNCIA DA JUSTIÇA ESTADUAL PELO MUNICÍPIO - REJEIÇÃO. MÉRITO - AÇÃO DE OBRIGAÇÃO DE FAZER - RATEIO DAS SOBRAS DO FUNDEB - AUSÊNCIA DE LEI MUNICIPAL DISCIPLINANDO A FORMA DE REALIZAÇÃO DO REPASSE - INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA DO TRIBUNAL PLENO. POSSIBILIDADE SOMENTE NO CASO DE EXISTÊNCIA DE LEI LOCAL. INEXISTÊNCIA DE LEI LOCAL PREVENDO O RATEIO. IMPOSSIBILIDADE DE CONCESSÃO. REFORMA DA SENTENÇA PARA IMPROCEDÊNCIA. PROVIMENTO DA REMESSA E DO APELO.
+- Súmula que resultou do Incidente de Uniformização de Jurisprudência nº 2000682-73.2013.815.0000, decidido pelo Tribunal Pleno deste egrégio Tribunal: "O rateio das sobras dos recursos do FUNDEB fica condicionado a existência de Lei Municipal, regulamentando a matéria".
+Naquela decisão, tendo como pano de fundo recebimento de cota-parte do rateio e do resíduo do FUNDEB referente ao ajuste financeiro ocorrido em abril de 2001, alusivo ao valor aluno/ano de 2010, foi decidido que, por ausência de norma regulamentadora local sobre a matéria, não procede a pretensão almejada conforme entendimento pacificado em Uniformização de Jurisprudência do Tribunal Pleno do Tribunal de Justiça do Estado da Paraíba.
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial, o recorrente aponta violação do art. 5º, XXXVI e 37, e inciso X, bem como do art. 6º do Decreto-lei nº 4.657.
+Sustenta, a recorrida, em síntese, que o acórdão recorrido, ao manter a sentença de procedência do pedido é divergente com o ordenamento jurídico.
+É o relatório. Decido.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+Nos termos do art. 499, caput, do CPC/19935 "o recurso pode ser interposto pela parte vencida, pelo terceiro prejudicado e pelo Ministério Público".
+No Tribunal de origem foram conhecidas a apelação e a remessa necessária do Município de Patos a fim de, ao dar provimento aos recursos, reformar a sentença e julgar improcedente o pedido autoral. O que significa dizer que carece o Município de Patos de interesse recursal para a interposição do presente recurso especial de acórdão proferido a seu favor, diante da ausência de sucumbência do recorrente.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
