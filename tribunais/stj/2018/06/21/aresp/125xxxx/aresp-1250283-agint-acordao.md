@@ -1,0 +1,56 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. INTERNAÇÃO HOSPITALAR. COPARTICIPAÇÃO EM DESPESAS MÉDICAS. ABUSIVIDADE. NÃO OCORRÊNCIA. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O STJ pacificou entendimento no sentido de que não é abusiva a cláusula de coparticipação expressamente contratada e informada ao consumidor, para a hipótese de internação superior a 30 (trinta) dias decorrente de transtornos psiquiátricos, pois destinada à manutenção do equilíbrio entre as prestações e contraprestações que envolvem a verdadeira gestão de custos do contrato de plano de saúde. Incidência da Súmula 83 do STJ.
+2. O Tribunal de origem, com base nas provas dos autos e nas cláusulas contratuais, entendeu que a contrapartida pecuniária em questão está devidamente prevista em contrato. Assim, a revisão de tal entendimento esbarra nos óbices das Súmulas nºs 5 e 7 do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto por ANGELA MARIA [NOME] PIRES em face de decisão deste Relator de fls. 289-292, que negou provimento ao seu agravo em recurso especial, em razão da incidência da Súmula 7/STJ, devido à impossibilidade de reexame do conjunto fático-probatório dos autos.
+Nas razões recursais, sustenta a parte agravante: "A decisão recorrida entendeu como visto que a existência da cláusula contratual limitativa da cobertura não configura abusividade. Sendo assim, a controvérsia do caso em análise diz respeito à abusividade da cláusula de contrato de plano de saúde que limita o período de internação psiquiátrica ao adotar a cobrança de coparticipação após o trigésimo dia..Cumpre destacar que, analisando-se o contrato firmado entre as partes, evidente que a cláusula limitadora da cobertura integral de internação psiquiátrica é abusiva, vez que restringe em demasia o direito do consumidor. Referida cláusula não é compatível com a própria natureza do contrato de plano de saúde, firmado pelo consumidor mediante a expectativa de amplo atendimento das suas necessidades futuras. Nesse sentido, a imposição de limites frustra a perspectiva que legitimamente se projeta quando da celebração do pacto com a operadora de plano de saúde.".
+Requer o conhecimento e provimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. INTERNAÇÃO HOSPITALAR. COPARTICIPAÇÃO EM DESPESAS MÉDICAS. ABUSIVIDADE. NÃO OCORRÊNCIA. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O STJ pacificou entendimento no sentido de que não é abusiva a cláusula de coparticipação expressamente contratada e informada ao consumidor, para a hipótese de internação superior a 30 (trinta) dias decorrente de transtornos psiquiátricos, pois destinada à manutenção do equilíbrio entre as prestações e contraprestações que envolvem a verdadeira gestão de custos do contrato de plano de saúde. Incidência da Súmula 83 do STJ.
+2. O Tribunal de origem, com base nas provas dos autos e nas cláusulas contratuais, entendeu que a contrapartida pecuniária em questão está devidamente prevista em contrato. Assim, a revisão de tal entendimento esbarra nos óbices das Súmulas nºs 5 e 7 do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Conforme asseverei na decisão monocrática de minha Relatoria (fls. 289-292), o STJ pacificou o entendimento no sentido de que não é abusiva a cláusula de coparticipação expressamente contratada e informada ao consumidor, para a hipótese de internação superior a 30 (trinta) dias decorrente de transtornos psiquiátricos, pois destinada à manutenção do equilíbrio entre as prestações e contraprestações que envolvem a verdadeira gestão de custos do contrato de plano de saúde. Incidência da Súmula 83 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CLÁUSULA LIMITATIVA DE TEMPO PARA INTERNAÇÃO EM INSTITUIÇÃO PSIQUIÁTRICA. PERCENTUAL DE 50%. LEGALIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ possui entendimento no sentido de não se considerar abusiva a cláusula de coparticipação, desde que em percentual que não torne inócuo o próprio objeto da contratação, entendendo razoável o percentual de 50% (cinquenta por cento), como no caso dos autos. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1158023/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/03/2018, DJe 27/03/2018)
+AGRAVO INTERNO NO AGRAVO (ART. 1042 DO NCPC) - AÇÃO DE OBRIGAÇÃO DE FAZER - PLANO DE SAÚDE - INTERNAÇÃO PSIQUIÁTRICA EMERGENCIAL - NEGATIVA DE ATENDIMENTO - EXIGÊNCIA INDEVIDA DE CARÊNCIA - CLÁUSULA DE COPARTICIPAÇÃO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA, DE PLANO, DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL AFASTANDO, APENAS, A NULIDADE DA CLÁUSULA QUE PREVÊ COPARTICIPAÇÃO APÓS O TRIGÉSIMO DIA DE INTERNAÇÃO. INSURGÊNCIA DO AUTOR. 1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que não é abusiva a cláusula de coparticipação contratada e informada ao consumidor, para a hipótese de internação psiquiátrica superior a 30 (trinta) dias, pois destinada à manutenção do equilíbrio entre as prestações e contraprestações referentes à gestão dos custos dos contratos de planos de saúde. Precedentes de ambas as Turmas de Direito Privado.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1017280/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/10/2017, DJe 10/11/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL (CPC/1973). PLANO DE SAÚDE. INTERNAÇÃO PSIQUIÁTRICA. COPARTICIPAÇÃO APÓS O PERÍODO DE FRANQUIA. CABIMENTO. ART. 16, INCISO VIII, DA LEI 9.656/1998. JULGADOS DESTA CORTE SUPERIOR.
+1. Validade da cláusula de contrato de plano de saúde que estabelece a coparticipação do usuário após o término do período de franquia.
+2. Autorização legal para a coparticipação no art. 16, inciso VIII, da Lei 9.656/1998.
+3. Julgados desta Corte Superior.
+4. AGRAVO DESPROVIDO.
+(AgInt no REsp 1631415/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 21/09/2017, DJe 29/09/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE.TRANSTORNOS PSIQUIÁTRICOS. INTERNAÇÃO SUPERIOR A TRINTA DIAS.SISTEMA DE COPARTICIPAÇÃO. VALIDADE.
+1. Terceira Turma do Superior Tribunal de Justiça, no julgamento do Recurso Especial nº 1.511.640-DF, decidiu que a coparticipação prevista para as internações psiquiátricas superiores a 30 (trinta) dias é hipótese sensivelmente distinta daquela em que há cláusulas de restrição absoluta de cobertura de internações que extrapolam o prazo contratado. Precedente.
+2. Não é abusiva a cláusula de coparticipação expressamente contratada e informada ao consumidor, para a hipótese de internação superior a 30 (trinta) dias decorrente de transtornos psiquiátricos, pois destinada à manutenção do equilíbrio entre as prestações e contraprestações que envolvem a verdadeira gestão de custos do contrato de plano de saúde.
+3. Agravo interno não provido.
+(AgInt no AREsp 774.936/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/09/2016, DJe 21/09/2016)
+Ademais, o Tribunal de origem, com base nas provas dos autos e nas cláusulas contratuais, entendeu que a contrapartida pecuniária em questão está devidamente prevista em contrato. Assim, a revisão de tal entendimento esbarra nos óbices das Súmulas nºs 5 e 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PLANO DE SAÚDE. CLÁUSULA DE COPARTICIPAÇÃO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual (Súmulas n. 5 e 7 do STJ).
+2. No caso concreto, o Tribunal de origem examinou o contrato e demais provas dos autos para concluir que as cláusulas que definem a coparticipação não são abusivas, pois estão redigidas de forma clara, além do que o percentual fixado não impede o usuário de ter acesso ao tratamento necessário. Em tais condições, o exame da pretensão recursal, no sentido de se verificar que a previsão contratual impediria a utilização do serviço, demandaria nova análise dos elementos fáticos, inviável em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgRg no REsp 1552436/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/02/2017, DJe 09/03/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO COMINATÓRIA COM PEDIDO DE TUTELA ANTECIPADA. PLANO DE SAÚDE. REEMBOLSO DE DESPESAS. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015.
+Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. À luz dos artigos 128 e 460 do CPC/73, atuais, 141 e 492 do NCPC/15, o vício de julgamento extra petita não se vislumbra na hipótese do juízo a quo, adstrito às circunstâncias fáticas (causa de pedir remota) e ao pedido constante nos autos, proceder à subsunção normativa com amparo em fundamentos jurídicos diversos dos esposados pelo autor e refutados pelo réu.
+3. O STJ pacificou entendimento no sentido de que não é abusiva a cláusula de coparticipação expressamente contratada e informada ao consumidor, para a hipótese de internação superior a 30 (trinta) dias decorrente de transtornos psiquiátricos, pois destinada à manutenção do equilíbrio entre as prestações e contraprestações que envolvem a verdadeira gestão de custos do contrato de plano de saúde. Precedentes.
+4. O Tribunal de origem, com base nas provas dos autos e no contrato, entendeu que o reembolso das despesas médicas realizadas fora da rede credenciada era devido. Assim, a revisão de tal entendimento esbarra nos óbices das Súmulas nºs 5 e 7 do Superior Tribunal de Justiça.
+5. Agravo interno não provido.
+(AgInt no AREsp 1191919/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/02/2018, DJe 28/02/2018)
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
