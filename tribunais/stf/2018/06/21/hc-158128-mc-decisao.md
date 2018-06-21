@@ -1,0 +1,22 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Vara Plantão da Comarca de Bauru/SP, no processo nº 0000450-14.2017.8.26.0594, converteu em preventiva a prisão em flagrante da paciente, ocorrida em 27 de abril de 2017, considerado o suposto cometimento da infração prevista no artigo 121, § 2º, inciso II (homicídio qualificado por motivo fútil), do Código Penal. Teve presente o contexto do crime, consubstanciado na morte da vítima em virtude de dois ferimentos de faca. Afastou o instituto da legítima defesa. Reportou-se ao depoimento de testemunha, a qual afirmou que a vítima se encontrava deitada – e não agredindo a paciente. Frisou a necessidade da custódia para garantir a ordem pública, aludindo à gravidade em concreto do delito e à periculosidade.
+    O Juízo da Segunda Vara Judicial da Comarca de Agudos/SP, ao pronunciá-la por homicídio qualificado ante recurso que dificultou a defesa da vítima, manteve a preventiva, sublinhando persistirem os motivos que a ensejaram.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 452.399/SP. O Relator indeferiu a liminar.
+    O impetrante sustenta ilegal a continuidade da constrição cautelar. Articula com o excesso de prazo da medida, dizendo perdurar por mais de 1 ano. Sublinha estar o ato que a implicou desprovido de fundamentação, reputando não preenchidos os requisitos pertinentes. Afirma viável a substituição por prisão domiciliar, dizendo tratar-se de mãe de 5 filhos, todos menores de 12 anos.
+    Requer, no campo precário e efêmero, o afastamento da preventiva até o exame definitivo da impetração. Sucessivamente, busca a imposição de medida cautelar alternativa. No mérito, pretende a confirmação da providência.
+    Em consulta ao sítio do Tribunal estadual, no dia 12 de junho de 2018, constatou-se ter sido designada audiência de julgamento pelo Plenário do Júri para 13 de julho próximo.
+    A fase é de apreciação da liminar.
+    2. A prisão em flagrante pelo crime de homicídio, a golpes de faca, revela estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a custódia se impunha, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente a decisão atacada. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Ocorre que a paciente está presa, sem culpa formada, desde o dia 27 de abril de 2017, ou seja, há 1 ano, 1 mês e 24 dias. Surge o excesso de prazo tendo em vista a constrição provisória e o estágio do processo-crime, porquanto pendente julgamento perante o Tribunal do Júri. A preventiva deve balizar-se no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do ato mediante o qual implementada, em cumprimento antecipado da sanção, ignorando-se garantia constitucional.
+    A prolação de sentença de pronúncia não afasta a natureza preventiva da prisão. O artigo 283, cabeça, do Código de Processo Penal, ao versar os títulos prisionais provisórios, contempla o flagrante, a temporária e a preventiva, revelando que as custódias decorrentes de pronúncia e sentença penal condenatória ainda não alcançada pela preclusão maior dispõem de natureza cautelar.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso a paciente não se encontre recolhida por motivo diverso da prisão preventiva retratada no processo nº 0000450-14.2017.8.26.0594, da Vara Plantão da Comarca de Bauru/SP. Advirtam-na da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda da cidadã integrada à sociedade.
+    5. O curso desta impetração não prejudica a de nº 452.399/SP, formalizada no Superior Tribunal de Justiça. Remetam cópia da decisão, com as homenagens merecidas, ao relator, ministro Reynaldo Soares da Fonseca.
+    6. Colham o parecer da Procuradoria-Geral da República.
+    7. Publiquem.
+Brasília, 21 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
