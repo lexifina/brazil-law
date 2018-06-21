@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial por incidência da Súmula 7/STJ.
+Nas razões do especial, alega a defesa, em síntese, que não constam nos autos elementos que comprovem que o recorrido tinha intenção homicida. Conforme o magistrado de piso, o Recorrente não tinha o escopo de matar a vítima. Logo, a reforma do acórdão recorrido é medida que se impõe.
+Aduz, ainda, que não há que se falar que o Recorrente praticou o crime por motivo fútil, pois, conforme ficou demonstrado nos autos, não há provas suficientes para manutenção de referida qualificadora.
+Requer a desclassificação da conduta do recorrente para lesão corporal e, ainda, o decote da qualificadora do motivo fútil.
+Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+É o relatório.
+Decido.
+O recorrente foi pronunciado pela prática do delito previsto no art. 121, § 2º, II, c/c art. 14, II, ambos do Código Penal.
+O Tribunal de origem manteve a decisão de pronúncia, bem como a qualificadora do motivo fútil, pelos seguintes fundamentos:
+Não obstante o cuidado que se deve ter na avaliação das provas na fase de pronúncia, não vejo como subtrair do Conselho de Sentença a atribuição de julgamento que lhe é imposta pela Constituição Federal, porque não vislumbro robustez suficiente na tese recursal.
+Não vejo o caráter irrefutável alegado pela defesa quanto à alegada ausência da intenção de matar, porquanto, embora o Réu afirme que não tinha a intenção de matar, as provas colhidas indicam que ele desferiu golpes de facão na vítima, golpes que atingiram regiões potencialmente letais, conforme, aliás, informa o Laudo de Exame de Corpo de Delito, que afirma que as lesões provocadas na vítima resultaram perigo de vida.
+Assim, não vejo como assentar, de forma inconteste, que o ora Recorrente, ao avançar contra a vítima e desferir golpes de facão na região abdominal, em seus seios e na cabeça, agiu sem intenção de matar, análise esta que, portanto, deve ficar a cargo do Conselho de Sentença.
+Há, claramente, uma dúvida acerca da presença da intenção de matar na conduta do Réu, não se tratando, a meu sentir, de prova irrefutável apta a retirar do Tribunal do Júri a competência que lhe é atribuída na própria Constituição (art. 5º, XXXVIII), devendo ser homenageado o princípio do in dúbio pro societate acima já abordado, pelo que a pronúncia, a meu sentir, deve ser mantida, de modo que rejeito a primeira tese recursal.
+(..)
+Quanto à segunda tese recursal, referente ao pedido de exclusão da qualificadora do motivo fútil, entendo que aqui também a razão não socorre o Recorrente.
+Conforme se extrai de relatos contidos nos autos, há indícios de eventual motivação no sumiço de quantia equivalente a R$ 7,00 (sete reais). Segundo se infere do conjunto probatório, o Réu teria acusado a vítima de lhe subtrair o valor de sete reais e, diante da negativa, avançou com um facão e lhe desferiu os golpes.
+Vejo, pois, que as supostas circunstâncias podem ensejar o reconhecimento da futilidade do motivo, cuja análise, pois, deve ser conferida ao Conselho de Sentença.
+(..)
+Vale ponderar que as qualificadoras somente devem ser excluídas da pronúncia quando flagrantemente improcedentes, o que não é o caso dos autos, em que há elementos a indicar possível pertinência da futilidade do motivo narrado na denúncia, como anotado nas linhas pretéritas.
+Por tais razões, entendo presentes a prova da materialidade e indícios da autoria, o que basta para fins de pronúncia, que encerra mero juízo de admissibilidade, devendo o caso ser dirimido pelo Conselho de Sentença.
+Da mesma forma, verifico a presença de indícios da pertinência da inclusão da qualificadora reconhecida na pronúncia, pelo que não vejo motivo para excluí-la.
+Ante o exposto, na linha do parecer ministerial, CONHEÇO DO PRESENTE RECURSO EM SENTIDO ESTRITO, MAS NEGO-LHE PROVIMENTO, mantendo intacta a decisão de pronúncia atacada, por seus próprios fundamentos, acrescidos dos aqui esposados.
+Com efeito, o pleito de desclassificação da conduta do recorrente para a de lesão corporal esbarra no óbice da Súmula 7/STJ, porquanto demandaria incursão nos elementos fático-probatórios, o que é vedado na estreita via do recurso especial, a teor da Súmula 7/STJ. Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TENTADO. PRONÚNCIA. IDENTIDADE FÍSICA DO JUIZ. PRINCÍPIO RELATIVO. NULIDADE. INOCORRÊNCIA. AUSÊNCIA DE PREJUÍZO. LEGÍTIMA DEFESA. AUSÊNCIA DE DOLO. DESCLASSIFICAÇÃO PARA LESÃO CORPORAL LEVE. TESES QUE DEMANDAM O REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ.
+1. É entendimento assente nesta Corte de Justiça que a declaração de nulidade da sentença por inobservância do princípio da identidade física do juiz fica condicionada à existência de prejuízo concreto à defesa, visto que tal princípio não tem caráter absoluto, podendo ser relativizado nas hipóteses do art. 132 do CPC de 1973.
+2. Rever o posicionamento do Tribunal de origem quanto às teses da legítima defesa, ausência de dolo e desclassificação para lesão corporal leve, demandaria a inevitável incursão no acervo probatório dos autos, providência que se sabe inviável em razão do óbice da Súmula n. 7 do STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 1146390 / DF, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/10/2017, DJe 18/10/2017, grifei).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. DESCLASSIFICAÇÃO PARA DELITO DIVERSO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. REVALORAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO. FATOS EXPLICITAMENTE ADMITIDOS E DELINEADOS NO V. ACÓRDÃO PROFERIDO PELO EG. TRIBUNAL A QUO. POSSIBILIDADE. RESTABELECIMENTO DA DECISÃO DE PRONÚNCIA. DOLO EVENTUAL E CULPA CONSCIENTE. COMPETÊNCIA DO TRIBUNAL DO JÚRI. AGRAVO DESPROVIDO.
+ ..
+IV - "A desclassificação da infração penal de homicídio tentado qualificado para lesão corporal leve só seria admissível se nenhuma dúvida houvesse quanto à inexistência de dolo. Havendo grau de certeza razoável, isso é fator o bastante para que seja remetida ao Conselho de Sentença a matéria, sob pena de desrespeito à competência ditada pela Constituição Federal" (AgRg no AgRg no REsp n. 1.313.940/SP, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura, DJe de 30/4/2013, grifei). (Precedentes do STF e do STJ).
+V - Na espécie vertente, extrai-se das circunstâncias delineadas no v. acórdão elementos que autorizam a submissão do agravante a Júri Popular, tais como a ingestão de bebida alcoólica e a ausência de habilitação.
+Agravo Regimental desprovido.
+(AgRg no REsp 1610298 / GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/03/2017, DJe 29/03/2017, grifei).
+Ademais, esta Corte apenas admite a exclusão de qualificadoras da sentença de pronúncia quando manifestamente improcedentes, circunstância não demonstrada na hipótese. Segundo consta no acórdão, o Réu teria acusado a vítima de lhe subtrair o valor de sete reais e, diante da negativa, avançou com um facão e lhe desferiu os golpes, de modo que a reversão das premissas fáticas nele assentadas demandaria necessária incursão do conjunto fático-probatório, o que atrai o óbice da Súmula 7/STJ.
+Confiram-se os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. INDÍCIOS DE AUTORIA E MATERIALIDADE. JUÍZO DE ADMISSIBILIDADE DA ACUSAÇÃO. IN DUBIO PRO SOCIETATE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. PRETENSÃO DE IMPRONÚNCIA. DESCABIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. EXCLUSÃO DE QUALIFICADORAS. INVIABILIDADE. PRESERVAÇÃO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. PRECEDENTES. PRETENSÃO RECURSAL. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. O julgamento monocrático do agravo em recurso especial, com esteio em óbices processuais e na jurisprudência dominante do Superior Tribunal de Justiça, tem respaldo nas disposições do Código de Processo Civil e do Regimento Interno desta Corte Superior. Precedentes.
+2. As pretensões recursais, de que não haveria indícios mínimos da autoria delitiva e das qualificadoras do motivo torpe e do emprego de meio que resultou em perigo comum para embasar a pronúncia, demandariam imprescindível reexame dos elementos fático-probatórios dos autos, o que é defeso no âmbito do recurso especial, em virtude do disposto na Súmula 7 desta Corte.
+3. Agravo regimental improvido (AgRg no AREsp 1203624 / DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2018, DJe 09/04/2018, grifei).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. QUALIFICADORAS. EXCLUSÃO. IMPOSSIBILIDADE. COMPETÊNCIA DO TRIBUNAL DO JÚRI. REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA N. 7 DO STJ.
+1. A decisão de pronúncia só pode excluir qualificadora quando manifestamente improcedente, de modo que qualquer dúvida razoável sobre sua incidência deve ser dirimida pelo Conselho de Sentença. Precedentes.
+2. Para se concluir de forma diversa do entendimento do Tribunal de origem, isto é, de que as qualificadoras são manifestamente improcedentes, seria inevitável o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial, em razão do óbice da Súmula n. 7/STJ.
+3. Agravo regimental desprovido (AgRg no AREsp 1219771 / BA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/03/2018, DJe 04/04/2018, grifei).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
