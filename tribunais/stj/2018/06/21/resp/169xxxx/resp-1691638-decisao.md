@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo SUPERMERCADO BARATÃO DE ALIMENTOS LTDA, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+MANDADO DE SEGURANÇA. CONTRIBUIÇÃO AO FGTS INCIDENTE SOBRE AVISO PRÉVIO INDENIZADO, AUXÍLIO -DOENÇA OU AUXÍLIO-ACIDENTE NOS PRIMEIROS 15 DIAS DE AFASTAMENTO, TERÇO CONSTITUCIONAL DE FÉRIAS, FÉRIAS INDENIZADAS, VALE-TRANSPORTE PAGO EM PECÚNIA E FALTAS JUSTIFICADAS/ABONADAS.
+I - As verbas pagas pelo empregador ao empregado nos primeiros quinze dias do afastamento do trabalho em razão de doença ou acidente, o aviso prévio indenizado e as férias indenizadas não constituem base de cálculo das contribuições, posto que não possuem natureza remuneratória mas; indenizatória. O adicional de 1/3 constitucional de férias também não deve servir de base de cálculo para as contribuições por constituir verba que detém natureza indenizatória. Precedentes do STJ e desta Corte.
+II - O valor concedido pelo empregador a título de vale-transporte não se sujeita à contribuição previdenciária, mesmo nas hipóteses de pagamento em pecúnia. Precedentes do STJ.
+III - É devida a contribuição sobre faltas justificadas/abonadas, o entendimento da jurisprudência concluindo pela natureza salarial dessa verba.
+IV - Ante a ausência de previsão legal, uma vez que não se aplicam as contribuições ao FGTS a legislação tributária, nos termos da Súmula 353 do STJ, deve ser afastado o direito à compensação.
+V - Agravo retido não conhecido: Recurso da impetrante parcialmente provido. Recurso da União desprovido. Remessa oficial parcialmente provida.
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial, o recorrente alega, em resumo, que a contribuição destinada ao FGTS tem caráter não remuneratório, em relação às parcelas elencadas no § 9º do art. 28 da Lei 8.212/1991, razão pela teria ocorrido a violação ao art. 22 da Lei 8.212/1991 e 457 da CLT.
+Sustenta, ainda, divergência jurisprudencial.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+As Turmas que compõem a Primeira Seção do STJ têm jurisprudência firmada no sentido de que a contribuição ao FGTS incide sobre as férias gozadas, o terço constitucional de férias, a remuneração dos 15 primeiros dias do afastamento por doença ou acidente, salário maternidade e sobre o aviso prévio indenizado.
+A propósito, confiram-se os seguintes precedentes:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. FGTS. BASE DE CÁLCULO. TERÇO DE FÉRIAS. SALÁRIO-MATERNIDADE. QUINZE DIAS QUE ANTECEDEM O AUXÍLIO-DOENÇA. ADICIONAIS DE HORAS EXTRAS, INSALUBRIDADE, PERICULOSIDADE, NOTURNO E DE TRANSFERÊNCIA. AVISO-PRÉVIO INDENIZADO. INCIDÊNCIA.
+(..)
+2. "Pacificou-se o posicionamento de que apenas verbas expressamente delineadas em lei podem ser excluídas do alcance de incidência do FGTS. Desse modo, o FGTS recai sobre o salário-maternidade, férias gozadas, aviso-prévio indenizado, o terço constitucional de férias gozadas, os quinzes primeiros dias de auxílio-doença/acidente e sobre os adicionais horas extras, insalubridade, periculosidade, noturno, pois não há previsão legal específica acerca da sua exclusão, não podendo o intérprete ampliar as hipóteses legais de não incidência" (AgRg no REsp 1.518.699/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/2/2016 - grifos acrescidos).
+3. Agravo interno a que se nega provimento (AgInt no REsp 1.596.573/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 4/10/2016, DJe de 11/10/2016).
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONTRIBUIÇÃO PARA O FGTS. EXCLUSÃO DE VERBAS TRABALHISTAS. ROL TAXATIVO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+(..)
+III - De acordo com o disposto no art. 15, caput, e parágrafo 6º, da Lei n. 8.036/90, apenas as parcelas taxativamente arrolados no art. 28, § 9º, da Lei n. 8.212/91, estão excluídas da base de cálculo da contribuição para o FGTS.
+IV - Tendo em vista que o legislador não excluiu da base de cálculo as parcelas relativas aos valores pagos a título de aviso prévio indenizado, primeiros 15 (quinze) dias de afastamento por auxílio doença ou acidente, terço constitucional de férias gozadas, férias gozadas ou indenizadas, salário-maternidade, adicionais de horas extras, de insalubridade, de periculosidade, de transferência e noturno, impõe-se reconhecer a validade da incidência da contribuição para o FGTS sobre essas verbas.
+(..)
+VI - Agravo Interno improvido (AgInt no AgInt no REsp 1.476.201/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 13/9/2016, DJe de 20/9/2016).
+PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO. ART. 535, II, DO CPC. BASE DE CÁLCULO DA CONTRIBUIÇÃO AO FGTS. INCIDÊNCIA SOBRE O SALÁRIO-MATERNIDADE, FÉRIAS GOZADAS, AVISO PRÉVIO INDENIZADO, TERÇO CONSTITUCIONAL DE FÉRIAS GOZADAS, VALORES PAGOS NOS QUINZES PRIMEIROS DIAS DE AUXÍLIO-DOENÇA/ACIDENTE E SOBRE OS ADICIONAIS HORAS EXTRAS, INSALUBRIDADE, PERICULOSIDADE E NOTURNO.
+(..)
+4. A importância paga pelo empregador durante os primeiros quinze dias que antecedem o afastamento por motivo de doença incide na base de cálculo do FGTS por decorrência da previsão no art. 15, § 5º, da Lei 8.036 e no art. 28, II do Decreto 99.684. Precedentes: AgRg no REsp 1.572.239/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 18.4.2016 e AgRg no REsp 1.572.171/PR, Rel. Ministro Humberto Martins, Segunda Turma, DJe 2.3.2016.
+5. Pacificou-se o posicionamento de que apenas verbas expressamente delineadas em lei podem ser excluídas do alcance de incidência do FGTS. Desse modo, o FGTS recai sobre o salário-maternidade, férias gozadas, aviso prévio indenizado, o terço constitucional de férias gozadas, os quinzes primeiros dias de auxílio-doença/acidente e sobre os adicionais horas extras, insalubridade, periculosidade, noturno, pois não há previsão legal específica acerca da sua exclusão, não podendo o intérprete ampliar as hipóteses legais de não incidência.
+6. Recurso Especial não provido (REsp 1.604.933/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/6/2016, DJe de 5/9/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
