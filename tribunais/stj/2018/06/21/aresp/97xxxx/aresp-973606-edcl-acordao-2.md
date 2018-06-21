@@ -1,0 +1,71 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTEMPESTIVO. INTERPOSIÇÃO ALÉM DO PRAZO LEGAL. ART. 1.023 C/C ART. 219 DO CPC/2015. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+I. O acórdão, objeto destes Embargos de Declaração, foi disponibilizado em 25/04/2018 (quarta-feira), no Diário de Justiça eletrônico, considerando-se publicado em 26/04/2018 (quinta-feira), e o presente recurso foi interposto em 07/05/2018, quando já escoado o prazo legal, conforme certificado nos autos.
+II. Descumprido, portanto, o prazo de cinco dias úteis, para a oposição dos Embargos de Declaração, previsto no art. 1.023 c/c art. 219 do Código de Processo Civil vigente, inviável a análise dos argumentos recursais, uma vez que não preenchido um dos requisitos extrínsecos de sua admissibilidade.
+III. Embargos de Declaração não conhecidos.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer dos embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Herman Benjamin (Presidente), Og Fernandes e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Embargos de Declaração, opostos por [NOME], em 07/05/2018, a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, de minha relatoria, em sede de Agravo interno, publicado em 26/04/2018, que se encontra assim ementado:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 544, § 4º, I, DO CPC/73 (ART. 932, III, DO CPC/2015) E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 14/03/2017, que julgou recurso interposto contra decisão que inadmitira Recurso Especial, publicada na vigência do CPC/73.
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 544, § 4º, I, do CPC/73). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; EDcl no AREsp 687.741/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 27/05/2015; AgRg no AREsp 450.558/MA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 24/02/2014.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 544, § 4º, I, do CPC/73 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. De igual modo, o novo CPC dispõe que "incumbe ao relator (..) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida" (art. 932, III, do CPC/2015).
+V. Agravo interno improvido" (fls. 3.749/3.750e).
+Inconformada, sustenta a parte embargante que:
+"II.1. AUSÊNCIA DE MANIFESTAÇÃO À GRAVE DEFICIÊNCIA DA FUNDAMENTAÇÃO DA DECISÃO DO TJSP QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL
+A r. decisão monocrática da Relatora não conheceu o Agravo em Recurso Especial manejado pelo ora Embargante por entender que o recorrente não teria impugnado a decisão do E. TJ/SP quanto à incidência da Súmula no 7/STJ no caso em tela, o que com todo o respeito não procede esta afirmativa.
+Após a interposição de Agravo Interno explicitando que a questão foi, sim, alvo de discussão no Recurso Especial manejado, esta C. Turma decidiu que o Agravo não deveria ser conhecido, pois a impugnação a este respeito teria sido excessivamente genérica e não específica, o que não podemos concordar em hipótese alguma.
+Com todo respeito e acatamento de sempre e a devida vênia ao entendimento preconizado por esta Turma julgadora, cabe observar que o v. Acórdão deixou de considerar que a própria decisão do E. TJ/SP, recorrida, era absolutamente genérica e nem sequer apontava em que medida o Recurso Especial manejado pelo Sr. JOÃO [NOME] COSTA, teria supostamente violado a Súmula n o 7/STJ.
+Com efeito, a decisão do TJ/SP, limitou-se a sustentar que "busca o recorrente o reexame dos elementos fáticos que serviram de base à decisão recorrida, o que importaria em nova incursão no campo fático, objetivo divorciado do âmbito do recurso especial de acordo com a Súmula 7 da Corte Superior" (fl. 1988).
+É de esclarecer que a fundamentação da decisão de inadmissão do recurso especial, absolutamente genérica, não fez qualquer referência aos elementos do caso discutido e sequer explicitou quais questões foram trazidas à baila pelo recorrente e de que forma elas exigiriam nova incursão no campo fático.
+Pois a bem da verdade, a decisão do E. TJ/SP foi articulada de forma tão abstrata e imprecisa que poderia ser aplicada a qualquer outro caso.
+Nesse mesmo diapasão, o Tribunal de origem proferiu s.m.j., decisão absolutamente nula, sem a necessária fundamentação, em evidente violação ao art. 93, inc. IX da CF, na medida em que nem sequer permite que a parte tenha condições de impugná-la.
+(..)
+Negar seguimento a Recurso Especial que procura a reversão de uma grave condenação em caso de improbidade administrativa, evidenciado a ocorrência de violação à lei federal, bem como ocorrência de dissídio jurisprudencial com base no argumento, genérico, de que a análise do caso depende da reapreciação dos fatos, sem explicitar por quê,equivale, sim, a não fundamentar.
+Ressalte-se ainda que a fundamentação é mais relevante para o sucumbente do que para o vencedor, cabendo ao órgão julgador focar suas atenções nos motivos pelos quais a decisão é boa o suficiente para interferir na esfera jurídica de quem será prejudicado.
+No caso em tela, em sede de Agravo em Recurso Especial, o ora Embargante expressamente impugnou essa questão, nos seguintes termos:
+(..)
+II.2. SILÊNCIO QUANTO À APLICAÇÃO DA SISTEMÁTICA DE ADMISSIBILIDADE DO CPC/73 AO CASO EM ANÁLISE E A NECESSÁRIA APRECIAÇÃO DE MATÉRIAS DE ORDEM PÚBLICA PELO C. STJ
+Respeitado o entendimento desta C. Turma, cumpre esclarecer que o v. acórdão deixou de considerar que se aplica, ao caso em análise, a sistemática de admissibilidade dos recursos excepcionais prevista no CPC/73 e, por conseguinte, parte de premissa equivocada qual seja, a de que o juízo de admissibilidade deveria ser realizado apenas e tão somente pelo tribunal de origem.
+Da análise do autos, verifica-se que o Embargante foi intimado do acórdão recorrido do TJSP em 09/12/2014, quando ainda se encontrava vigente o CPC/73. E, nos termos dos Enunciados Administrativos do STJ no 2 e 3, os requisitos de admissibilidade a serem observados são os do CPC/73, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no CPC/15.
+Ora, na sistemática do CPC de 1973, o recurso especial se subordina ao duplo juízo de admissibilidade, ou seja, o juízo de admissibilidade tem dois momentos: no juízo a quo , quando o Presidente do Tribunal admite ou não o recurso; e no juízo ad quem, quando, no seu julgamento no Tribunal Superior, verifica-se preliminarmente se o recuso é cabível.
+Dessa forma, apresentadas as contra-razões, os autos são enviados ao Presidente ou Vice-Presidente do respectivo Tribunal para que, em decisão fundamentada, proceda ao juízo de admissibilidade (art. 542, § 1º do CPC/73). Caso o Presidente do tribunal decida por não admitir esses recursos, cabe o agravo, que levará o processo ao STJ, ao qual incumbiria, de ofício, apreciar as questões de ordem pública - como, no caso em tela, a nulidade da decisão proferida pela Presidência do TJ/SP por manifesta ausência de motivação" (fls. 3.923/3.927e).
+Por fim, requer "sejam os presentes Embargos de Declaração conhecidos e acolhidos, para o fim de sanar as omissões detectadas no v. acórdão proferido por esta E. C. 2a Turma" (fl. 3.928e).
+Impugnação da parte embargada, a fls. 3.947/3.951e, pela rejeição dos Declaratórios.
+É o relatório.
+
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): De início, é de se registrar que, na sessão realizada em 09/03/2016, em homenagem ao princípio tempus regit actum - inerente aos comandos processuais -, o Plenário do STJ sedimentou o entendimento de que a lei a reger o recurso cabível e a forma de sua interposição é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência exata dos fundamentos do provimento jurisdicional que pretende combater.
+Tal entendimento restou assim firmado:
+"Enunciado Administrativo nº 2: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+"Enunciado administrativo nº 3: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Outra, a propósito, não é a jurisprudência desta Corte:
+"No que toca à modificação de procedimento para a interposição do agravo contra decisão que inadmite recurso especial, que, antes das novas disposições advindas com a Lei n. 12.322, de 2010, exigia a formação do instrumento, somente com a entrada em vigor da referida legislação é que o recurso de agravo passou a ser interposto nos próprios autos do recurso especial. Nesse sentido, com observância às regras de direito intemporal do processo civil, a nova sistemática não pode incidir nos agravos interpostos antes da sua entrada em vigor, caso dos autos" (STJ, AgRg no Ag 1.348.915/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 28/06/2013).
+""As normas que dispõem sobre os juros moratórios possuem natureza eminentemente processual, aplicando-se aos processos em andamento, à luz do princípio tempus regit actum." (EREsp 1207197/RS, Rel. Ministro CASTRO MEIRA, CORTE ESPECIAL, julgado em 18/05/2011, DJe 02/08/2011 - grifei.)" (STJ, EDcl no REsp 1.255.682/PR, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (Desembargadora Convocada do TJ/PE), SEXTA TURMA, DJe de 1º/07/2013).
+Assim sendo, o presente recurso não merece ser conhecido, incidindo, no caso, as regras do CPC/2015, eis que o acórdão embargado foi publicado em 26/04/2017.
+Com efeito, dispõe o art. 1.023 do CPC vigente:
+"Art. 1.023. Os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo".
+Por sua vez, orienta o art. 219 do mesmo Diploma Processual:
+"Art. 219. Na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis.
+Parágrafo único. O disposto neste artigo aplica-se somente aos prazos processuais".
+No caso, verifica-se, de plano, a intempestividade dos Embargos Declaratórios. Isso porque o acórdão, objeto destes Embargos de Declaração, foi disponibilizado em 25/04/2017, quarta-feira, no Diário de Justiça eletrônico, considerando-se publicado em 26/04/2018, quinta-feira (fl. 3.826e).
+O presente recurso, no entanto, somente foi interposto, intempestivamente, em 07/05/2018 (fl. 3.919e). De fato, como o prazo para oposição de Embargos de Declaração é de 05 (cinco) dias, contados em dias úteis e a partir da publicação da decisão, nos termos dos arts. 219 e 224, § 3º, do CPC/2015, o embargante teria até o dia 04/05/2018 (sexta-feira) para opor o recurso, conforme certidão de fl. 3.929e.
+Descumprido, portanto, o prazo de cinco dias úteis, previsto no art. 1.023 do CPC/2015, para a oposição dos Embargos de Declaração, inviável a análise dos argumentos recursais, uma vez que não preenchido um dos requisitos extrínsecos de sua admissibilidade.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INTEMPESTIVIDADE. NÃO CONHECIMENTO.
+1. Não se conhece do recurso interposto após o encerramento do prazo estabelecido pelo art. 1.023, caput, do CPC/2015.
+2. Embargos de declaração não conhecidos" (STJ, EDcl no AgInt no AREsp 879.701/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 19/09/2016).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACLARATÓRIOS INTEMPESTIVOS. NÃO CONHECIMENTO.
+1. Os presentes embargos declaratórios não merecem ser conhecidos, pois opostos fora do prazo de 5 dias previsto no art. 1.023, caput, c/c o art. 219, caput, do NCPC.
+2. Embargos de declaração não conhecidos" (STJ, EDcl no AgRg no AREsp 542.780/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 23/08/2016).
+"PROCESSUAL CIVIL. REQUERIMENTO RECEBIDO COMO EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. NÃO CONHECIMENTO.
+1. Trata-se de Petição (fls. 487-492, e-STJ) em que se alega ocorrência de erro material no acórdão proferido às fls. 477-481, e-STJ. Requerimento do particular recebido como Embargos de Declaração, ante o seu conteúdo.
+2. O prazo para a oposição de Embargos de Declaração é de 5 (cinco) dias úteis, consoante dispõe o art. 1.023 do CPC/2015, ressalvadas as hipóteses de ampliação do prazo recursal.
+3. No caso concreto, a oposição dos Embargos ocorreu após o transcurso do prazo legal; portanto, são intempestivos.
+4. Embargos de Declaração não conhecidos" (STJ, PET nos EDcl nos EDcl no AgRg no AREsp 598.827/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/10/2016).
+Ante o exposto, não conheço dos Embargos de Declaração.
+É como voto.
