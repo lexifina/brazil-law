@@ -1,0 +1,6 @@
+DECISÃO
+OBERDAN DOS SANTOS MARTINS, recorrente neste recurso ordinário em habeas corpus, estaria sofrendo coação ilegal em seu direito a locomoção, em face de acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul no HC n. [CPF].
+Em consulta ao sítio eletrônico da Corte de origem, verifica-se que, após a interposição do presente recurso, foi novamente decretada prisão preventiva em desfavor do ora recorrente, bem como foi prolatada sentença condenatória em seu desfavor, decisões por meio das quais o Juízo singular empreendeu nova avaliação sobre os fundamentos suscitados para a imposição da segregação cautelar (art. 387, § 1º do CPP).
+Como tais razões não foram submetidas ao crivo deste Tribunal Superior, sua apreciação implicaria indevida supressão de instância, razão pela qual é defeso a esta Corte o exame da matéria. Assim, evidencia-se a prejudicialidade deste recurso, em que se pugna pela revogação da prisão preventiva.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, torno sem efeito a liminar outrora deferida e julgo prejudicado este recurso em habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
