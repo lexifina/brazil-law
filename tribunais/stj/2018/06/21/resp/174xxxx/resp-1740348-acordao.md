@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DO CPC/2015 INEXISTENTE. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS A CF/1988. MATÉRIA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. COMPETÊNCIA RESERVADA AO STF.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto que a Corte de origem apreciou todos os pontos relevantes ao deslinde da controvérsia de modo integral e adequado, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. O Tribunal a quo resolveu a questão da revisão do benefício previdenciário com fundamentação eminentemente constitucional, razão pela qual não é possível sua revisão na via eleita.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu em parte do recurso e, nessa parte, negou-lhe provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, objetivando a reforma do acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+PREVIDENCIÁRIO. APELAÇÃO. TETOS LIMITADORES. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS A CF/88. MENOR E MAIOR VALOR-TETO - MVT E MVT. EMENDAS CONSTITUCIONAIS 20/98 E 41/2003 (RE Nº 564.354).
+1. A ausência de limitação temporal ao direito de revisão do benefício previdenciário em face dos tetos, viável e pertinente aquela, não obstante tenha sido esse concedido antes ou após a CF/88. Precedentes do STF e deste Regional (fl. 405, e-STJ).
+Opostos Embargos de Declaração (fls. 413-418, e-STJ), estes foram rejeitados (fls. 426-430, e-STJ).
+Nas razões do Recurso Especial (fls. 439-446, e-STJ), a parte recorrente sustenta violação dos arts. 1.022 do CPC/2015; 40 do Decreto 82.080/1979; 21, 23 e 25 do Decreto 89.312/1984. Alega negativa de prestação jurisdicional, bem como defende a impossibilidade de "concessão da readequação do benefício concedido antes da Constituição Federal de 1988 aos tetos estabelecidos nas Emendas Constitucionais n. 20/1998 e Emenda Constitucional n. 41/2003" (fl. 445, e-STJ).
+Apresentadas as contrarrazões (fls. 467-471, e-STJ), o recurso foi admitido na origem (fl. 477, e-STJ).
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 23 de maio de 2018.
+Inicialmente, no que diz respeito à suposta ofensa ao art. 1.022 do CPC/2015, observa-se que o Tribunal de origem, ao contrário do alegado, manifestou-se fundamentadamente a respeito de todas as questões postas à sua apreciação e, ao final, decidiu contrariamente aos interesses da parte, que buscou, com os Embargos de Declaração, a reapreciação do mérito da causa. Logo, em virtude da não ocorrência de omissão, contradição, obscuridade ou erro material, não se constata afronta à regra ora invocada.
+No mais, da leitura dos autos verifico que a matéria foi dirimida sob enfoque eminentemente constitucional. Descabe, pois, a esta Corte examinar a questão, porquanto reverter o julgado significa usurpar competência do STF.
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. FGTS. LC 110/2001. FINALIDADE. DILAÇÃO PROBATÓRIA. NECESSIDADE. SÚMULA 7/STJ. ACÓRDÃO EMBASADO EM PREMISSAS CONSTITUCIONAIS. REVISÃO. COMPETÊNCIA DO STF.
+1. O Tribunal a quo entendeu não ser necessária a realização de dilação probatória, uma vez que, "diferentemente do sustentado pela parte embargante, a finalidade para a qual foram instituídas as contribuições sociais da LC nº 110, de 2001, foi a de trazer novas receitas ao FGTS, evitando seu desequilíbrio econômico-financeiro.
+É incontroverso que os recursos estão sendo incorporados ao FGTS, na forma do art. 3º, §1º, parte final, da LC nº 110, de 2001, razão por que a contribuição está cumprindo com a finalidade para a qual foi criada" (fl. 378, e-STJ). A agravante, por sua vez, sustenta que "para demonstrar o exaurimento da finalidade da contribuição na forma do art. 4º da LC 110/2001, a recorrente apresentou em anexo à inicial - dentre outros documentos - cópia das demonstrações financeiras e relatórios de gestão do FGTS, que contemplam informações oficiais fornecidas pelo próprio gestor do FGTS, e estão disponíveis amplamente na rede mundial de computadores" (fl. 394, e-STJ). Verifica-se que conclusão diversa da alcançada pelo julgado, no sentido de acolher a pretensão da recorrente, exige reexame das provas e dos fatos, o que, a rigor, é vedado pela Súmula 7/STJ.
+2. Da leitura dos autos verifico que, muito embora tenham sido citados dispositivos infraconstitucionais, a matéria foi dirimida sob enfoque eminentemente constitucional. Descabe, pois, a esta Corte examinar a questão, porquanto reverter o julgado significa usurpar competência do STF.
+3. Agravo Regimental não provido (AgRg no REsp 1.399.846/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/03/2014, grifei).
+Havendo prévia fixação de honorários de advogado pelas instâncias de origem, é possível sua majoração em desfavor da parte recorrente, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Diante do exposto, conheço parcialmente do Recurso Especial e, nessa parte, nego-lhe provimento. Honorários advocatícios majorados no importe de 10% (dez por cento) do valor já arbitrado.
+É como voto.
