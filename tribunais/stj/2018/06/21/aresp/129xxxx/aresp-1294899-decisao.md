@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de agravos interpostos contra decisão que inadmitiu recursos especiais fundamentados no art. 105, inciso III, da Constituição Federal.
+- Agravo interposto por BOA VISTA EMPREENDIMENTO IMOBILIARIO SPE LTDA:
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial interposto por BOA VISTA EMPREENDIMENTO IMOBILIARIO SPE LTDA com base nestes fundamentos: i) não foi demonstrada a violação dos dispositivos arrolados; ii) necessidade de interpretação de cláusulas contratuais e reexame de contexto fático-probatório (Súmulas 5/STJ e 7/STJ); iii) análise da divergência jurisprudencial prejudicada (Súmulas 5/STJ e 7/STJ), uma vez que a análise da possível identidade com o caso concreto implicaria reexame da prova produzida e de cláusulas contratuais.
+Entretanto, a parte agravante, limitando-se a reiterar as razões apresentadas quando da interposição do recurso especial, a par de sustentar a invasão da competência constitucional do STJ, não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: i) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ); ii) análise da divergência jurisprudencial prejudicada (Súmulas 5/STJ e 7/STJ).
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+- Agravo interposto por CRISTIANE DE SOUZA MARCELINO PEDROSO:
+Quanto ao recurso especial interposto pela CRISTIANE DE SOUZA MARCELINO PEDROSO, verifica-se que a decisão agravada o inadmitiu com base nos seguintes fundamentos: i) não foi demonstrada a violação dos dispositivos arrolados; ii) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); iii) falta de comprovação do dissídio jurisprudencial.
+A parte agravante, entretanto, limitando-se a reiterar as razões apresentadas quando da interposição do recurso especial, não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ).
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO dos agravos interpostos por BOA VISTA EMPREENDIMENTO IMOBILIARIO SPE LTDA e por CRISTIANE DE SOUZA MARCELINO PEDROSO, com fundamento no art. 932, III, do CPC/15.
+Publique-se. Intimem-se.
