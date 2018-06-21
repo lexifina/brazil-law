@@ -1,0 +1,37 @@
+DECISÃO
+Na origem, trata-se de embargos de terceiro opostos por [NOME] [NOME] S.A. em desfavor da Fazenda Nacional, objetivando a retirada da ordem de reserva dos direitos de bem imóvel indicado pela parte exequente nos autos de execução fiscal.
+Na primeira instância, os pedidos formulados na inicial foram julgados improcedentes. No TRF da 5ª Região, a sentença foi reformada em acórdão assim ementado:
+EMENTA: PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CONSTRIÇÃO DOS DIREITOS DECORRENTES DA ALIENAÇÃO FIDUCIÁRIA.
+I. Apelação interposta contra sentença proferida nos autos de Embargos de Terceiro movidos pelo [NOME] [NOME] S/A em desfavor da União (PFN), objetivando a retirada da ordem de reserva dos direitos de [NOME] sobre o imóvel indicado pela exequente às fls. 238/242-v da Execução Fiscal n.º 0000643-81.2014.4.05.8312.
+II. Aduz o embargante que possui a propriedade resolúvel do imóvel indicado à penhora pela UNIÃO (fls. 03/09).
+III. O julgador monocrático decidiu pela improcedência do pedido formulado na inicial, sob o fundamento de que não determinou. fosse realizada a penhora de bem do [NOME] [NOME], mas a constrição dos direitos de [NOME].
+[NOME]. apelou, pugnando pela reforma da sentença ao argumento de inexistir, nos autos, comprovação de que os valores efetivamente pagos do crédito fiduciário seriam capazes de constituir garantia suficiente ao juízo executório.
+V. Mostra-se desprovida de utilidade a referida penhora/constrição, pois o devedor/fiduciante geralmente não prossegue com o pagamento das prestações. Assim, diante da grande probabilidade de o devedor fiduciário continuar não quitando o respectivo financiamento, resta esvaziada a própria finalidade da medida constritiva.
+VI. É mais, corre-se o risco de criar-se uma falsa expectativa para o credor fiduciário de receber seu crédito, até induzindo-o à inércia quanto à busca por outros bens tendentes a satisfazer seu direito, quando muito provavelmente não houver lastro para a concretização do pagamento.
+VII. "Ainda que juridicamente possível, o veículo gravado em alienação fiduciária não deve ser penhorado, dada a ineficácia da constrição. Com efeito, não é crível que o devedor fiduciário continue a quitar seu financiamento e, ademais, finda prejudicando o credor que, na expectativa de percepção de créditos que não serão realizáveis, pode permanecer inerte," sem envidar a persecução de outros bens. Precedente da Segunda Turma deste Regional. (Precedente: TRF5. AC 08011665320154058400. Rel. Desembargador Federal Paulo [NOME]. DJ de 26.08.2015).
+VIII. Apelação provida.
+A Fazenda Nacional interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, por ofensa ao art. 11, inciso VIII, da Lei n. 6.830/80.
+A parte alega em síntese que todos os direitos do devedor estão sujeitos à penhora, inclusive aqueles decorrentes de contrato de alienação fiduciária. Argumenta que a execução é realizada no interesse do credor, a quem cabe o juízo de conveniência da penhora do bem localizado/nomeado, e que, mesmo não havendo o pagamento das parcelas relativas ao contrato de alienação, ainda há direitos que são conferidos ao devedor fiduciário.
+Não foram apresentadas contrarrazões ao recurso especial.
+É o relatório. Decido.
+De acordo com a jurisprudência do STJ, entende-se que "o bem alienado fiduciariamente, por não integrar o patrimônio do devedor, não pode ser objeto de penhora. Nada impede, contudo, que os direitos do devedor fiduciante oriundos do contrato sejam constritos" (REsp 1646249/RO, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 3/4/2018, DJe 24/5/2018).
+Ainda nesse sentido são os julgados:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DIREITOS DO FIDUCIANTE SOBRE BEM SUBMETIDO A CONTRATO DE ALIENAÇÃO FIDUCIÁRIA. PENHORA. POSSIBILIDADE.
+1. A pretensão da Fazenda não consiste na penhora do bem objeto de alienação fiduciária, mas sim dos direitos que o devedor fiduciante possui sobre a coisa.
+2. Referida pretensão encontra guarida na jurisprudência deste Tribunal Superior que, ao permitir a penhora dos direitos do devedor fiduciante oriundos do contrato de alienação, não traz como requisito a anuência do credor fiduciário. Precedentes: AgInt no AREsp 644.018/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 10/06/2016 ST; AgRg no REsp 1.459.609/RS, de minha relatoria, Segunda Turma, DJe 4/12/2014; STJ, REsp 1.051.642/RS, Rel. Ministra Denise Arruda, Primeira Turma, DJe 2/2/2010; STJ, REsp 910.207/MG, Rel. Ministro Castro Meira, Segunda Turma, DJ 25/10/2007.
+3. Esclarece-se, por oportuno, que a penhora, na espécie, não tem o condão de afastar o exercício dos direitos do credor fiduciário resultantes do contrato de alienação fiduciária, pois, do contrário, estaríamos a permitir a ingerência na relação contratual sem lei que o estabeleça. Até porque os direitos do devedor fiduciante, objeto da penhora, subsistirão na medida e na proporção que cumprir com suas obrigações oriundas do contrato de alienação fiduciária.
+4. Recurso especial provido.
+(REsp 1697645/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/04/2018, DJe 25/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. ALUGUÉIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. PENHORA. DIREITOS. CONTRATO DE ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. POSSIBILIDADE. PRECEDENTES.
+1. Incidem os enunciados 282 e 356 da Súmula do STF quanto aos temas insertos nos textos da legislação federal apontados, pois são estranhos ao julgado recorrido, a eles faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+2. Como a propriedade do bem é do credor fiduciário, não se pode admitir que a penhora em decorrência de crédito de terceiro recaia sobre ele, mas podem ser constritos os direitos decorrentes do contrato de alienação fiduciária.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 644.018/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 02/06/2016, DJe 10/06/2016)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 557 DO CPC. NÃO OCORRÊNCIA. PENHORA SOBRE OS DIREITOS E AÇÕES DE BEM ALIENADO FIDUCIARIAMENTE. POSSIBILIDADE.
+1. Afasta-se contrariedade ao art. 557, caput, do CPC quando o recurso julgado por decisão monocrática for posteriormente confirmado pelo órgão colegiado em agravo regimental. Inexistência de nulidade.
+2. "O devedor fiduciante possui expectativa do direito à futura reversão do bem alienado, em caso de pagamento da totalidade da dívida, ou à parte do valor já quitado, em caso de mora e excussão por parte do credor, que é passível de penhora, nos termos do art. 11, VIII, da Lei das Execuções Fiscais (Lei nº 6.830/80), que permite a constrição de "direitos e ações". (REsp 795.635/PB, de minha relatoria, DJU de 07.08.06)." (REsp 910.207/MG, 2ª Turma, Rel. Min. Castro Meira, DJe de 25.10.2007).
+3. Recurso especial parcialmente provido.
+(REsp 1051642/RS, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, julgado em 15/12/2009, DJe 02/02/2010)
+No caso dos autos, o Tribunal de origem, em desconformidade com a jurisprudência do STJ, entendeu não ser possível a constrição dos direitos decorrentes da alienação fiduciária, razão pela qual merece reforma.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para restabelecer a sentença.
+Publique-se. Intimem-se.
