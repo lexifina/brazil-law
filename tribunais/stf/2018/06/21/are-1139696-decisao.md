@@ -1,0 +1,27 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, II e LV, 37, caput, e 93, IX, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Plenário desta Suprema Corte já se manifestou no sentido da inexistência de repercussão geral da controvérsia relativa à admissibilidade de ação rescisória no âmbito de outros tribunais, bem como no tocante à alegação de cerceamento de defesa, considerada a análise prévia da legislação infraconstitucional, verbis:
+    “DIREITO DO TRABALHO. PRESSUPOSTOS DE ADMISSIBILIDADE DE AÇÃO RESCISÓRIA. MATÉRIA RESTRITA AO PLANO INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.” (AI 751.478-RG, Rel. Min. Dias Toffoli, Pleno, DJe 20.8.2010)
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. POLICIAL MILITAR. INCORPORAÇÃO DE VANTAGEM. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. REPERCUSSÃO GERAL REJEITADA. AI 751.478-RG. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+    2. O Plenário Virtual no julgamento do AI 751.478-RG, Rel. Min. Dias Toffoli, reconheceu a inexistência de repercussão geral sobre os pressupostos de admissibilidade de ação rescisória em face do caráter infraconstitucional de debate.
+    3. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    4. Ausente condenação anterior em honorários, inaplicável o art. 85, § 11, do CPC/2015.
+    5. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa.” (ARE 992.128-AgR, de minha lavra, 1ª Turma, DJe 04.5.2017)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE AÇÃO RESCISÓRIA. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA.
+    I – Recurso extraordinário com alegação que esbarra no óbice da ausência de prequestionamento, nos termos das Súmulas 282 e 356 do STF.
+    II – Esta Corte rejeitou a repercussão geral na hipótese em que se discutem os pressupostos de admissibilidade de ação rescisória, por depender de prévia análise da adequada aplicação das normas infraconstitucionais (AI 751.478-RG/SP, Rel. Min. Dias Toffoli).
+    III – Nos termos do art. 85, § 11, do CPC, deixo de majorar os honorários recursais, uma vez que não foram fixados pelo juízo de origem.
+    IV – Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC.” (ARE 968.269-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 23.02.2017)
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.” (ARE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 01.8.2013)
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, Dje 13.8.2010)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de junho de 2018.
+Ministra Rosa Weber
+Relatora
