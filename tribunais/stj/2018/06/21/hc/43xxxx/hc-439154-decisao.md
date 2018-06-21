@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 3 anos e 6 meses de reclusão, a ser cumprida inicialmente, em regime semiaberto, e ao pagamento de 22 dias-multa, como incurso nos arts. 155, § 4º, I e IV, e 180, caput, na forma do art. 69, todos do Código Penal.
+Contra o édito condenatório insurgiram-se as partes. No entanto, o Tribunal de origem negou provimento ao recurso defensivo e proveu o apelo da acusação "para majorar a pena do réu para 4 anos e 20 dias de reclusão, além do pagamento de 25 dias-multa, bem como para fixar o regime prisional na modalidade fechada" (e-STJ fl. 41).
+O acórdão recebeu a seguinte ementa (e-STJ fls. 26/27):
+APELAÇÃO CRIMINAL. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO E COMPARSARIA E RECEPTAÇÃO SIMPLES. I - Preliminar de nulidade por cerceamento de defesa em razão da juntada do laudo da qualificadora do arrombamento do furto após o interrogatório do réu. Ausência de prejuízo. De fato, tal circunstância era conhecida da Defesa desde o momento do oferecimento da denúncia e dela o acusado teve a oportunidade de se defender, podendo inclusive impugná-la, conduta que não adotou em sede de alegações finais. II - Mérito. Autoria e materialidade comprovadas. Condenação mantida.
+Réu confesso quanto ao furto. Palavras dos policiais e apreensão dos bens subtraídos em poder do acusado e seu comparsa. Qualificadoras comprovadas pela prova oral e pericial.
+Receptação. Provas suficientes quanto a autoria delitiva. Bem de origem ilícita na posse do recorrente. Dolo comprovado. A prova de que o réu recebeu e conduziu o veículo objeto com conhecimento da origem ilícita da coisa, extrai-se da própria conduta do agente e dos fatos circunstanciais que envolveram a infração.
+Desclassificação para o crime de receptação culposa. Impossibilidade. III - Penas alteradas.
+Pluralidade de qualificadoras. Utilização de uma para qualificar o delito e da outra como circunstância judicial desfavorável.
+Preponderância da reincidência sobre a confissão, pois o réu é condenado definitivo pela prática de crime violento. Regime prisional alterado para o fechado, tendo em vista a quantidade de pena fixada e a reincidência do agente. APELO DO RÉU DESPROVIDO E PROVIDO O RECURSO MINISTERIAL.
+No presente writ, alega a Defensoria Pública a ocorrência de constrangimento ilegal, uma vez que, embora o paciente tenha confessado o crime de furto qualificado, o Tribunal de origem não admitiu a compensação da referida atenuante com a agravante da reincidência, sob o entendimento de que esta seria prevalecente em relação à confissão (e-STJ fls. 2/5).
+Requer "a concessão do presente ordem de habeas corpus, a fim de que, liminarmente, seja determinada a suspensão dos efeitos da decisão prolatada em acórdão e, no mérito, seja determinada a redução da pena do paciente, em razão da confissão espontânea (artigo 66, III, "d", do CP)" - e-STJ fl. 6.
+O pleito urgente foi indeferido (e-STJ fls. 45/47).
+As informações foram prestadas (e-STJ fls. 53/82).
+O Ministério Público Federal opinou pela concessão da ordem (e-STJ fls. 84/90).
+É, em síntese, o relatório.
+Consoante relatado, a presente impetração versa sobre a compensação entre a atenuante da confissão e a agravante da reincidência, quanto ao delito de furto qualificado.
+Na hipótese dos autos, o Tribunal de origem não reconheceu a compensação da atenuante da confissão com a agravante da reincidência, fundamentando, para tanto, que (e-STJ fl. 39):
+Na segunda etapa, tem razão o Ministério Público, eis que a agravante da reincidência, no caso, prepondera sobre a atenuante da confissão.
+Aqui, faço uma observação necessária. A compensação da atenuante da confissão espontânea com a agravante da reincidência foi objeto de discussão de Recurso Repetitivo (Tema 585), cuja tese firmada foi a de que: "É possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência"
+Porém, neste caso específico, a tese referida não se amolda. O acusado é reincidente pela prática de crime violento anterior (fls. 362/365 roubo qualificado pelo emprego de arma). Ou seja, se ponderarmos o peso da atenuante da confissão com a agravante da reincidência, a última deve ser preponderante sobre a primeira.
+Ressalte-se que o entendimento desta Corte era, de fato, de que a reincidência, como circunstância preponderante, deveria prevalecer sobre a atenuante da confissão espontânea, nos termos do art. 67 do Código Penal, não sendo admissível a compensação.
+Ocorre que a Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.341.370/MS (DJe 17/4/2013), submetido ao rito do art. 543-C do Código de Processo Civil, pacificou o entendimento de que é possível, na segunda fase do cálculo da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal. Assim, não há como fazer preponderar a circunstância da reincidência sobre a confissão, urgindo a compensação entre ambas. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REINCIDÊNCIA E CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É pacífico nesta Corte Superior o entendimento de que, observadas as peculiaridades do caso concreto, deve a atenuante da confissão espontânea ser compensada com a reincidência (EREsp n.
+1.154.752/RS).
+2. No caso, o recorrido ostenta apenas uma condenação transitada em julgado, avaliada a título de incidência da agravante da reincidência, motivo pelo qual é possível proceder à compensação entre a confissão espontânea e a reincidência.
+3. Agravo regimental não provido.
+(AgRg no REsp 1540729/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/10/2015, DJe 29/10/2015)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. LATROCÍNIO. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA. COMPENSAÇÃO. POSSIBILIDADE.
+1. A suposta violação de dispositivo constitucional não é passível de apreciação pelo Superior Tribunal de Justiça, nesta sede recursal, ainda que para fins de prequestionamento, uma vez que se trata de matéria reservada à competência da Suprema Corte. Precedente.
+2. A existência de precedentes do Supremo Tribunal Federal acerca da impossibilidade de haver a compensação entre a reincidência e a confissão espontânea não constitui razão suficiente, só por si, para alterar a compreensão manifestada, uniformemente, por esta Corte.
+3. A Terceira Seção do Superior Tribunal de Justiça, quando do julgamento do REsp n. 1.341.370/MS (DJe 17/4/2013), submetido ao rito do art. 543-C do Código de Processo Civil, pacificou o entendimento de que é possível, na segunda fase do cálculo da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal.
+4. Apesar da existência de duas condenações transitadas em julgado, verifica-se que uma delas foi valorada na primeira fase da dosimetria, a título de antecedentes, e a outra foi considerada na segunda fase, a título de reincidência. Por conseguinte, não se trata de multirreincidência.
+5. Agravo regimental improvido.
+(AgRg no REsp 1489326/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/08/2015, DJe 15/09/2015)
+Tal o contexto, mostra-se evidente o constrangimento ilegal.
+Passo, assim, à readequação da dosimetria das penas do delito do furto qualificado, mantendo os parâmetros adotados pela Corte de origem.
+Na primeira fase, mantém-se a fixação da pena-base 1/6 acima do mínimo legal - 2 anos e 4 meses de reclusão e 11 dias-multa. Na segunda fase, a reprimenda permanece naquele patamar, em razão da compensação da agravante da reincidência com a atenuante da confissão. Por fim, em razão do concurso material com o crime de receptação (1 ano e 4 meses de reclusão, mais 13 dias multa), a reprimenda total resta consolidada em 3 anos e 8 meses de reclusão e 24 dias-multa.
+À vista de tais pressupostos, concedo a ordem para compensar a agravante da reincidência com a atenuante da confissão espontânea quanto ao delito de furto qualificado e, assim, reduzir a pena definitiva aplicada ao paciente para 3 anos e 8 meses de reclusão, mais 24 dias-multa, nos termos acima referidos.
+Publique-se. Intimem-se.
