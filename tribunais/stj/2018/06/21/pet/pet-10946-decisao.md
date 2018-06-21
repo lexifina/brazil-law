@@ -1,0 +1,40 @@
+DECISÃO
+Vistos.
+Trata-se de Ação Cominatória de Obrigação de Fazer e Não-fazer com pedido de liminar, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, visando a fixação de contingente mínimo de servidores públicos, durante o movimento grevista, para atendimento aos segurados e realização de atividades internas.
+A Confederação Nacional dos Trabalhadores em Seguro Social - CNTSS/CUT, informou às fls. 620/645e a celebração de Termo de Acordo com a autarquia federal requerente, pugnando, nesse contexto, pela extinção do feito sem resolução do mérito.
+Intimado, o INSS manifestou sua concordância com a extinção da ação, nos termos requeridos pela CNTSS/CUT (fl. 654e).
+Por sua vez, a Federação Nacional dos Sindicatos de Trabalhadores em Saúde, Trabalho e Previdência Social - FENASPS, após intimação, peticionou pela manifestação do INSS acerca "do contido na cláusula décima terceira do Termo de Acordo nº 02/2015, que pôs fim à grave no âmbito da Autarquia, para que desista expressamente da exigibilidade da multa fixada por este MM. Juízo" (fl. 662e).
+Novamente intimado, o INSS declarou a desistência da astreinte, "em vista da exigibilidade da multa pecuniária arbitrada judicialmente encontrar-se vinculada ao reconhecimento da existência do direito material pleiteado, o que não ocorreu no presente caso, em face da desistência da ação por perda superveniente de seu objeto" (fl. 671e).
+Feito breve relato, decido.
+Nos termos do art. 34, XI, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a julgar prejudicado pedido ou recurso que haja perdido objeto.
+Por sua vez, dispõe o art. 267, inciso VI, do Código de Processo Civil, que o processo será extinto, sem resolução de mérito, quando não concorrer quaisquer das condições da ação, como a possibilidade jurídica, a legitimidade das partes e o interesse processual.
+Outrossim, o § 3º do art. 267 e o art. 462 da lei adjetiva preveem, respectivamente, que:
+Art. 267. (..)
+§ 3º.  O juiz conhecerá de ofício, em qualquer tempo e grau de jurisdição, enquanto não proferida a sentença de mérito, da matéria constante dos ns. IV, V e Vl; (..).
+Art. 462. Se depois da propositura da ação, algum fato constitutivo, modificativo ou extintivo do direito influir no julgamento da lide, caberá ao juiz, tomá-lo em consideração, de ofício ou a requerimento da parte, no momento de proferir a sentença.
+Com efeito, verifico que, tendo em vista a celebração de acordo entre o Poder Público e os servidores paredistas, e, ainda, pela desistência expressa do Requerente relativamente às astreinte arbitradas, a utilidade da presente ação não mais se sustenta, pela carência superveniente de interesse processual, restando, por conseguinte, prejudicada.
+Nesse sentido, colaciono precedente desta Corte:
+MANDADO DE SEGURANÇA. PERDA DO OBJETO. EXTINÇÃO DO MANDAMUS.
+1. Eleição para o Conselho Federal de Fisioterapia e que pressupõe a eleição para os Conselhos Regionais, posto indireta aquela primeira. Existência de ações entre os conselhos regionais impeditivas da eleição final.
+2. Ação civil pública com deferimento de liminar determinando a realização das eleições no Conselho Federal suspensa por força do recebimento de exceção de incompetência.
+3. Decidida a exceção e operada a desistência dos feitos, esvazia-se por completo o presente mandamus.
+4. Isto porque a cognição no conflito de competência limita-se in casu a verificar qual o juízo competente, determinando no iter do incidente, aquele que deveria praticar atos urgentes.
+Destarte, a concessão de tutela antecipada de mérito no confronto entre liminares, tornou prevento aquele que decidiu em primeiro lugar, salvo competência improrrogável. Consequentemente, decidida a competência de determinado juízo e cumprindo o Ministro o aot do mesmo não comete ilegalidade passível de mandamus. Deveras a cognição do writ adstringe-se à verificação da prática de ato ilegal da autoridade. Decidida pela autoridade indicada como competente a possibilidade de realização das eleições o aproveitamento dos autos preparatórios e sustado o certame apenas pelo recebimento da exceção de incompetência, julgada esta em primeiro grau, cessam a suspensão do feito onde determinada a realização da eleição, retirando qualquer eiva de abuso do ato ministerial. Legitimada a intervenção do Ministro na eleição posto notoriamente postergada por inúmeras ações obstativas e que merecem o veto do artigo 129 do CPC, consectário de seu poder de determinar a sua realização, é a sua culminação com a posse dos eleitos.
+Eventuais irritualidades nas ações originárias deveriam ser argüidas nos próprios feitos, se ainda possível, posto extintos pela desistência, escapando por completo do objeto quer do conflito, quer do writ. Impedida a realização das eleições por ato judicial conjurado (exceção suspensiva da incompetência) ressoa legítima a eleição e sem objeto o mandamus, assim como o conflito de competência entre ações extintas.
+Assentado que não cabe conflito entre ação julgada e ação extinta, nada resta ao julgamento do conflito senão entendê-lo prejudicado, assim como o mandamus pela continuação da marcha processual após o julgamento da exceção de incompetência. Deveras, e apenas ad argumentandum, não é a propositura da ação que cria a prevenção entre juizes com a mesma competência territorial ou com a competência territorial distinta, senão os artigos 106 e 219 do CPC.
+A perpetuatio jurisdictionis visa a não alteração do foro da ação pela mudança dos critérios originários de fixação da competência, não se incluindo o fenômeno da conexão que arrasta as ações, conforme a data da tutela deferida, por força do art. 273 do CPC, e não do despacho que ordena a citação de eficácia mais tênue do que aquele do artigo 106 ou a citação da parte.
+Outrossim, sob o ângulo principiológico, a prorrogação indefinida de mandatos infirma os cânones do Estado Democrático de Direito que é exemplo para as unidades federadas e a fortiori para as células menores como as agremiações, os sindicatos e os conselhos regionais e federais.
+In casu, as diversas ações dos conselhos regionais impediam a conclusão das eleições indiretas do conselho federal, o que só foi possível por força da desistência das ações, da intervenção do Ministério Público via ação civil pública, do Ministério do trabalho e pela intervenção judicial substitutiva da vontade das partes, tal como ocorre, vg, na hipótese de suprimento contratual da vontade.
+5. Por esses fundamentos, considero o Mandado de segurança prejudicado.
+(MS 9.680/DF, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 27/10/2004, DJ 28/03/2005, p. 177).
+PROCESSUAL CIVIL - MANDADO DE SEGURANÇA - LIMINAR PARA ANÁLISE DE DOCUMENTAÇÃO DE IMPORTAÇÃO - ALEGAÇÃO DE GREVE NA ADUANA - PERDA DE OBJETO DO RECURSO ESPECIAL - ARTS. 482, 504 E 511 DO DECRETO 4.543/2002 - PREQUESTIONAMENTO - INEXISTÊNCIA - SÚMULA 211/STJ.
+1. Impetração de mandado de segurança para que fosse analisada documentação de importação para posterior desembaraço aduaneiro em face do risco de perecimento das mercadorias por greve da Aduana, com pedido alternativo de desembaraço independente de análise da documentação.
+2. Greve que não chegou a ocorrer. Inexistência de ato coator e ilegal.
+3. Cumprimento da pretensão de análise da documentação pela Aduana, sem o desembaraço de uma das declarações de importação que continha vícios, os quais, consoante afirma a própria recorrente, foram sanados.
+4. Perda de objeto do recurso especial pela superveniência da falta de interesse de agir.
+5. Os arts. 482, 504 e 511 do Decreto 4.543/2002 não foram prequestionados na origem. Incidência da Súmula 211/STJ.
+6. Recurso especial não conhecido.
+(REsp 834.431/PE, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 04/06/2009, DJe 23/06/2009).
+Isto posto, com fundamento no art. 34, XI, do Regimento Interno desta Corte, julgo PREJUDICADO o presente pedido, e, por consequência, o Agravo Regimental de fls. 285/411e, bem como os Embargos de Declaração de fls. 612/616e.
+Após as providências cabíveis, arquivem-se os autos.
+Publique-se e intimem-se.
