@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. FUNDAMENTAÇÃO ABSTRATA. ILEGALIDADE. OCORRÊNCIA. SUPERAÇÃO DA SÚMULA 691/STF. POSSIBILIDADE. HABEAS CORPUS CONCEDIDO.
+1. Ainda que o decreto prisional tenha feito referência à quantidade de droga apreendida, o fez apenas como indicativo de materialidade delitiva, sendo que, ao tratar dos requisitos e necessidade da custódia cautelar, não trouxe qualquer motivação concreta para a prisão, fazendo referência às circunstâncias já elementares do delito, valendo-se de fundamentação abstrata e com genérica regulação da prisão preventiva, além de presunções e conjecturas, evidenciando a ausência de fundamentos para o decreto prisional.
+2. Habeas corpus concedido, para soltura do paciente [NOME], o que não impede a fixação de medida cautelar diversa da prisão, pelo juízo de primeiro grau, por decisão fundamentada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, conceder a ordem de habeas corpus, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que indeferiu a liminar no writ de origem.
+O impetrante requer a revogação da prisão preventiva, sob a alegação de ausência dos seus requisitos autorizadores e de desproporcionalidade da custódia cautelar, ou a aplicação de medidas alternativas, previstas no art. 319 do Código de Processo Penal.
+O paciente foi preso em flagrante pela prática do crime tipificado nos arts. 33, caput, da Lei 11.343/2006.
+A liminar foi deferida.
+As informações foram prestadas.
+O Tribunal de origem denegou a ordem do habeas corpus originário (HC n. 2023647-63.2018.8.26.0000), conforme documentos juntados às fls. 116/127.
+O Parecer do Ministério Público Federal foi pela prejudicialidade do mandamus, haja vista o julgamento do mérito do HC impetrado perante o TJSP.
+Na origem, ação penal n. 0000056-21.2018.8.26.0578/SP foi expedida carta precatória para notificação do réu, em 15/05/2018, conforme contato telefônico realizado com o juízo de origem em 4/6/2018.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+O impetrante busca a revogação da prisão preventiva, sob a alegação de ausência dos requisitos autorizadores e de desproporcionalidade da custódia cautelar, ou a aplicação de medidas alternativas, previstas no art. 319 do Código de Processo Penal.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos exigidos pelo art. 312 do CPP.
+Posto isso, o Tribunal a quo indeferiu a liminar, e, no mérito, denegou a ordem de habeas corpus em 15/3/2018 por acórdão que possui a seguinte ementa (fl. 120):
+HABEAS CORPUS - ALEGAÇÃO DE QUE O PACIENTE SOFRE CONSTRANGIMENTO ILEGAL, POSTO QUE POSSUI OS REQUISITOS NECESSÁRIOS PARA A RECEPÇÃO DA LIBERDADE PROVISÓRIA. SEGUNDO ARGUMENTO DE QUE A R. DECISÃO JUDICIAL FOI PROLATADA COM CARÊNCIA DE FUNDAMENTAÇÃO. TERCEIRO DE QUE A GRAVIDADE DO DELITO NÃO É SUFICIENTE PARA SUSTENTAR O DECRETO PRISIONAL CAUTELAR. QUARTO DE QUE, EM CASO DE EVENTUAL CONDENAÇÃO, PODERÁ LHE SER FIXADO REGIME PRISIONAL INICIAL DIVERSO DO FECHADO.
+AÇÃO PENAL INSTAURADA PARA APURAÇÃO DA PRÁTICA DO CRIME PREVISTO NO ART. 33, CAPUT, DA LEI Nº 11.343/06.
+CASO EM QUE, CONFORME A LEGISLAÇÃO CONSTITUCIONAL E A INFRACONSTITUCIONAL VIGENTES, BEM COMO REMANSOSA JURISPRUDÊNCIA, A IMPUTAÇÃO FEITA INVIABILIZA A CONCESSÃO DO BENEFÍCIO REQUERIDO.
+DESPACHO JUDICIAL QUE SE MOSTRA DEVIDAMENTE EMBASADO EM REQUISITOS DO ART. 312, DO CPP.
+QUARTO ARGUMENTO INVOCADO QUE CONSTITUI QUESTÃO INCERTA E FUTURA, QUE ENSEJA ABORDAGEM MERITÓRIA, E QUE, PORTANTO, REFOGE AO ESTREITO CAMPO DE ATUAÇÃO DO WRIT.
+Ordem conhecida apenas em parte, e, nessa parte, denegada, com determinação.
+Já o decreto de preventiva restou assim fundamentado (fls. 19/20):
+ .. . Quanto à autoria, há indícios suficientes a serem considerados nesta fase processual, tendo em vista que, de acordo com a narrativa dos policiais militares responsáveis pela ocorrência, o indiciado dispensou a droga que fora apreendida, ou seja, 28 porções, de crack. A própria narrativa do indiciado sugere que o mesmo se encontrava na cidade, ligado a atividade a traficância, já que declarou residir em Bauru, mas que havia passado um dia na cidade de Santa Cruz do Rio Pardo, para participar de um baile funk em Ourinhos, além disso, os policiais militares narraram notícia da participação de [NOME] em eventos que estão sendo apurados na cidade de Marília e também no Braz, São Paulo - capital, (fls. 12 e 17), o que também reforça a necessidade de prisão cautelar para a devida apuração do noticiado. A decretação da prisão preventiva, no caso concreto, tem por fundamento a garantia da ordem pública, tendo em vista que a liberdade do acusado gera perigo concreto às pessoas de bem e à sociedade em geral. É público e notório que a cada dia mais e mais pessoas são atraídas para o tráfico em razão da ilusão de dinheiro fácil, o que realmente ocorre nos muitos casos em que a atuação repressiva do Estado não se dá de forma imediata e rígida. A propósito: .. .
+ .. . Assim, acolho o parecer do ilustre representante do Ministério Público a fim de converter a prisão em flagrante em PRISÃO PREVENTIVA do averiguado [NOME], o que faço com fulcro no artigo 310, II, 311 e 312, todos do Código de Processo Penal. Expeça-se o respectivo mandado de prisão preventiva. Encaminhem-se os autos ao Distribuidor no primeiro dia útil. Aguarde-se a vinda dos autos principais. Intimem-se. .. .
+Como já adiantado no exame da liminar, ainda que o decreto prisional tenha feito referência à quantidade de droga apreendida, o fez apenas como indicativo de materialidade delitiva, sendo que, ao tratar dos requisitos e necessidade da custódia cautelar, não trouxe qualquer motivação concreta para a prisão, fazendo referência às circunstâncias já elementares do delito, valendo-se de fundamentação abstrata e com genérica regulação da prisão preventiva, além de presunções e conjecturas, evidenciando a ausência de fundamentos para o decreto prisional.
+Não se tendo no tema, com a clara motivação genérica, divergência nesta Sexta Turma do Tribunal, reconheço a ilegalidade arguida e mitigo o verbete n. 691 da Súmula do STF.
+Ante o exposto, voto por conceder o habeas corpus, para a soltura do paciente [NOME], o que não impede a fixação de medida cautelar diversa da prisão, pelo juízo de primeiro grau, por decisão fundamentada.
