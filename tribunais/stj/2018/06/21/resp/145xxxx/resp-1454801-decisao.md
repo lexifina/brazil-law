@@ -1,0 +1,20 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA SOBRE O FATURAMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. ANÁLISE REFERENTE À CAPACIDADE TÉCNICA DO DEPOSITÁRIO ADMINISTRADOR. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto por SMAR EQUIPAMENTOS INDUSTRIAIS LTDA., com fundamento na alínea a do art. 105, III da Constituição Federal, em que objetiva a reforma do acórdão do Tribunal Regional Federal da 3a. Região, assim ementado:
+PROCESSUAL CIVIL. AGRAVO LEGAL. CPC, ART. 557, § 10. EXECUÇÃO FISCAL. PENHORA SOBRE O FATURAMENTO. DEPOSITÁRIO ADMINISTRADOR. DISCORDÂNCIA DAS PARTES. INDICAÇÃO A CRITÉRIO DO JUIZ. ADMISSIBILIDADE.
+1. A utilização do agravo previsto no art. 557, § l, do CPC, deve enfrentar a fundamentação da decisão agravada, ou seja, deve demonstrar que não é caso de recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior. Por isso que é inviável, quando o agravante deixa de atacar especificamente os fundamentos da decisão agravada. Precedentes do STJ.
+2. Embora a execução deva proceder-se pelo modo menos oneroso ao devedor (CPC, art. 620), daí não deriva a supremacia do seu interesse em detrimento do credor, dado que a finalidade da execução é, como se sabe, efetuar o pagamento do crédito devido (CPC, art. 794, I).
+3. No que se refere à nomeação de depositário administrador para efetivar a penhora sobre faturamento da empresa, é possível a indicação do próprio devedor. Mas para tanto deve consentir o credor, dado que a constrição resolve-se em seu beneficio, como recomenda o art. 719 do Código de Processo Civil, incidente por força do parágrafo único do art. 678 do mesmo Código.
+4. Havendo consenso entre as partes, é perfeitamente viável a indicação do próprio devedor para a função de depositário, atribuindo-se a ele mesmo os deveres de elaborar plano de administração e esquema de pagamento. Havendo discordância, porém, a indicação é feita a critério do juiz, em conformidade com os arts. 148 a 150 do Código de Processo Civil.
+5. Convém registrar a anotação de [NOME], no sentido de que semelhante nomeação deve recair em pessoa estranha aos quadros societários, o que alarga a liberdade judicial para indicar o depositário ([NOME], [NOME], Código de Processo Civil e legislação processual em vigor, 40a. ed., São Paulo, Saraiva, 2008, p. 868, nota 2 ao art. 677).
+6. No caso dos autos, a nomeação do depositário judicial atendeu a requerimento do credor, respaldado por outros credores interessados que também demandam contra a devedora e obtiveram, nos juízos respectivos, a nomeação do mesmo depositário, o que sugere que este poderá efetivar a penhora, inclusive com a elaboração de plano de administração, esquema de pagamentos sujeitos à apreciação judicial, etc.
+7. Agravo legal não provido (fls. 130/131).
+2. Em seu Apelo Especial, a parte recorrente aponta violação dos arts. 3o. da Lei 4.769/1965 e 620 do CPC/1973. Sustenta, em síntese, a substituição do administrador diante da incerteza da real capacidade profissional e técnica para gerenciar uma empresa do porte da recorrente.
+3. Com contrarrazões (fls. 149/152), o recurso foi admitido na origem (fls. 154/155).
+4. É o relatório.
+5. A irresignação não merece prosperar.
+6. De início, verifica-se que a tese de violação do art. 3o. da Lei 4.769/1965 não foi debatida pelo Tribunal de origem, e a parte recorrente não opôs Embargos de Declaração com o fim de obter um pronunciamento pelo órgão julgador a respeito da questão. Incide, pois, o disposto na Súmula 282/STF, por ausência de prequestionamento.
+7. Ademais, a análise referente à capacidade técnica do depositário nomeado pelo juízo enseja o revolvimento de matéria fático-probatória, o que é vedado em Recurso Especial, ante o óbice da Súmula 7/STJ.
+8. Ante o exposto, nega-se provimento ao Recurso Especial da Contribuinte.
+9. Publique-se.
+10. Intimações necessárias.
