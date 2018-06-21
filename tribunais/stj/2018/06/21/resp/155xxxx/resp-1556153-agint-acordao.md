@@ -1,0 +1,32 @@
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. TESE LEVANTADA NAS RAZÕES DO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Inviável a apreciação do agravo interno que deixa de atacar especificamente os fundamentos do decisum que negou seguimento ao recurso especial, incidindo na espécie a Súmula 182/STJ.
+2. O Tribunal de origem não se manifestou sobre a tese trazida nas razões recursais, consubstanciada na alegação de que se fazia necessária a juntada do termo de transação aos autos para que o acordo firmado entre as partes tivesse validade, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+3. Para o prequestionamento da matéria, não basta suscitar a questão nas razões dos recursos (apelação, agravo regimental e/ou embargos de declaração), mas que o Tribunal de origem tenha efetivamente decidido o tema controvertido.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, conhecer parcialmente do agravo interno e, nessa parte, negar-lhe provimento, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por [NOME], em face de decisão de fls. 146/149, que não conheceu do recurso especial, sob os seguintes fundamentos: aplicação da Súmula 282/STF; e quanto à alegada violação ao art. 535 do CPC/73 incide a Súmula 284/STF, na medida em que não foram opostos embargos declaratórios na origem.
+O agravante, em suas razões, sustenta que "houve suscitação de apreciação de infringência ao supra referido dispositivo de lei POR MEIO DO AGRAVO LEGAL, não se fazendo necessária, portanto, a oposição de embargos declaratórios para esse fim, repetindo-se, desnecessariamente, um pedindo já formulado de suprimento de omissão" (fl. 152). Aduz que houve a apreciação da questão pela instância de origem.
+Enfatiza que "Aí está o ponto em que se debruçou o Recurso Especial e que a decisão de segundo grau atropelou por completo: ERA NECESSÁRIO NOS AUTOS O TERMO DE TRANSAÇÃO JUDICIAL para que o acordo firmado entre agravante e INSS tivesse validade, O QUE NÃO ACONTECEU, O QUE NÃO OCORREU, O QUE NÃO HOUVE!" (fl. 153).
+A Autarquia não apresentou impugnação ao agravo interno, conforme certidão de fl. 159.
+É o relatório.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão agravada.
+Com efeito, o Tribunal a quo, ao concluir pela inexistência de saldo complementar em favor do segurado, tendo em vista a transação extrajudicial e o cumprimento da obrigação pelo INSS, assim se manifestou, verbis (fls. 81/84):
+Em sede de execução do julgado, instada ao cumprimento da obrigação, a autarquia previdenciária opôs os presentes embargos informando que o apelante aderiu ao acordo previsto na Lei nº 10.999/04, acostando extrato discriminativo dos valores adimplidos administrativamente (fl. 07).
+Ao depois, o Juízo de 1º grau julgou extinta a execução tendo em vista a transação extrajudicial e o cumprimento da obrigação pela executada.
+O Poder Executivo editou a Medida Provisória n.º 201, de 23 de julho de 2004, convertida na Lei nº 10.999, de 15 de dezembro de 2004, autorizando a revisão dos benefícios previdenciários concedidos, com data de início no período compreendido entre março de 1994 e fevereiro de 1997.
+(..).
+Não há qualquer fundamento concreto que autorize a desconsideração da transação extrajudicial firmada nos termos da Lei nº 10.999/04, mormente em se considerando que os valores foram pagos em virtude de adesão ao acordo proposto, sendo pagas as parcelas devidas, conforme extrato discriminativo acostado aos autos.
+Ademais, ao aderir ao acordo o autor aquiesceu com o que fora proposto e renunciou ao direito sobre o qual se fundava a ação subjacente, inclusive consectários.
+Deveras, a transação extrajudicial operada atinge o próprio título judicial, de forma a torná-lo inexigível, nos moldes do artigo 741, inciso II, do Código de Processo Civil.
+Ademais, o artigo 7o, inciso V, da Lei nº 10.999/04 dispõe expressamente que a assinatura do Termo de Acordo ou de Transação Judicial importará em renúncia ao direito sobre o qual se funda a ação subjacente, honorários e consectários inclusive, caindo por terra a pretensão recursal.
+(..).
+Desta feita, não há saldo complementar a favor do embargado, tampouco é devida a verba honorária à míngua da prevalência do título judicial.
+Dessa forma, observa-se que a Corte de origem não se pronunciou sobre a controvérsia trazida no presente recurso, consubstanciada na alegação de que se fazia necessária a juntada do termo de transação aos autos para que o acordo firmado entre as partes tivesse validade, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Convém ressaltar que a falta de prequestionamento da matéria impede o conhecimento do recurso interposto tanto pela alínea "a", quanto pela alínea "c"; e que a mera apresentação de teses ou da controvérsia nas razões de recurso não tem o condão de prequestionar a matéria, pois para tanto exige-se que a questão "tenha sido efetivamente decidida pelo Tribunal de origem, sob pena de supressão de instância. Não basta que tenha sido levantada nas razões recursais ou que conste do relatório das decisões. É mister que tenha havido efetivo pronunciamento da Corte local acerca do tema controvertido" (AgRg no REsp 753.835/RS, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 26/10/2006, DJ 19/03/2007, p. 329).
+Por fim, cumpre esclarecer que a aplicação da Súmula 284/STF ocorreu porque se alegou ofensa ao art. 535 do CPC/73 sem que tivesse ocorrido a aposição de embargos de declaração contra o acórdão prolatado na origem, observa-se, contudo, que esse ponto não objeto de impugnação. Incide, portanto, a Súmula 182/STJ.
+Em face do exposto, conheço parcialmente do agravo interno e, nessa extensão, nego-lhe provimento.
+É o voto.
