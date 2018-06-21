@@ -1,0 +1,49 @@
+DECISÃO
+JOADSON COSTA DA SILVA agrava de decisão que inadmitiu o recurso especial de fls. 180-188, fundado no art. 105, III, "a", da Constituição Federal e interposto contra acórdão do Tribunal de Justiça da Bahia (Apelação Criminal n. 0500104-71.2016.8.05.0126).
+Consta dos autos que o agravante foi condenado, em primeiro grau de jurisdição, às penas de 5 anos e 4 meses de reclusão e 91 dias-multa, em regime inicial semiaberto, como incurso no art. 157, § 2º, I e II, do Código Penal.
+O Tribunal de origem, por unanimidade, negou provimento ao recurso de apelação interposto pela defesa (fls. 165-175).
+Nas razões do recurso especial, aponta a defesa ofensa aos arts. 386, IV, do Código de Processo Penal e 157, § 2º, I e II, do Código Penal.
+Aduz que inexiste "prova segura de ser o Recorrente o autor do delito, ou seja, não há convicções de que o Recorrente concorreu para o ato delitivo, é inocente até que se prove o contrário, impondo-se a absolvição" (fl. 186).
+Acrescenta que, "em razão de não ser localizada e identificada a arma para a prática do crime, tampouco periciada, não há indícios que evidenciem a existência da causa de aumento do inciso I, do § 2º, do artigo 157 do Código Penal" (fl. 186).
+Argumenta, por fim, que "não há, nos próprios depoimentos da suposta vítima e testemunha, a informação de que havia um segundo elemento atuando juntamente com o Recorrente  .. , devendo ser afastada e refutada a causa de aumento do inciso II do § 2º do artigo 157 do Código Penal" (fl. 186).
+Requer, por conseguinte, o provimento do recurso, para o fim de absolver o agravante ou, subsidiariamente, afastar as majorantes.
+O apelo especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal a quo (fls. 204-205), ante a incidência da Súmula n. 7 do STJ, o que ensejou a interposição deste agravo (fls. 210-215).
+A parte agravante alega, contudo, que "a 2ª Vice-Presidente não distinguiu o reexame de prova, da revaloração, quando em verdade um dos fundamentos do Recurso Especial é o exame pelo STJ da ofensa ao direito do Agravante quanto a aplicabilidade dos dispositivos federais" (fl. 214).
+O Ministério Público Federal opinou, às fls. 235-239, pelo não conhecimento do recurso especial.
+Decido.
+I. Admissibilidade do agravo
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, preenchendo, dessa forma, os requisitos de admissibilidade, razão pela qual comporta conhecimento.
+II. Contextualização
+Extrai-se dos autos que o recorrente foi condenado, em sentença confirmada pelo acórdão recorrido, às penas de 5 anos e 4 meses de reclusão e 91 dias-multa, em regime inicial semiaberto, como incurso no art. 157, § 2º, I e II, do Código Penal, em razão dos seguintes fatos (fls. 2-3), narrados na denúncia:
+Infere-se dos autos que, no dia 26 de novembro de 2015, no Bairro Primavera, nesta cidade, o denunciado utilizando-se de uma arma de fogo, subtraiu, para si, um aparelho celular, de marca Sansung, modelo Gran Prime, pertencente à vitima [NOME].
+Segundo consta, na data dos fatos, a vítima estava sentada em frente ao estabelecimento denominado "MEC BURGUER", aguardando a entrega de seu pedido, quando, de inopino, chegou o denunciado em uma bicicleta, que, empunhando um revólver, anunciou o assalto e exigiu-lhe que entregasse o celular.
+Sem esboçar nenhuma reação, a vítima entregou a res, atendendo a determinação de seu algoz, que, em seguida, evadiu-se do local.
+No recurso especial, a defesa alega que inexistem provas suficientes para a condenação e que as majorantes de emprego de arma e de concurso de agentes devem ser decotadas.
+III. Insuficiência de provas para a condenação - Súmula n. 7 do STJ
+O Tribunal de origem, ao ratificar a sentença condenatória, salientou o que segue (fl. 171):
+ A  materialidade delitiva e a autoria estão sobejamente demonstradas no conjunto probatório, pelos depoimentos da testemunha presencial e pelas declarações da vítima, seguras em reconhecer o réu, ratificando em juízo os testemunhos acusatórios colhidos perante a autoridade policial, obtidos sob o crime do contraditório, acerca da participação do Apelante, que mediante violência e grave ameaça, com uso de arma de fogo, subtraiu o aparelho celular da vítima [NOME], a qual inclusive ratificou, em juízo, que reconheceu o apelante, sem sombra de dúvidas, como o autor do fato.
+Nesse cenário, o acolhimento da tese defensiva de que a autoria delitiva foi atribuída ao recorrente "por erro das vítimas" (fl. 185) exigiria o reexame de fatos e provas, o que é vedado pela Súmula n. 7 do Superior Tribunal de Justiça.
+A propósito:
+ ..
+1. No caso dos autos, o Tribunal a quo, a partir da análise do contexto probatório existente nos autos, indicou, de forma fundamentada, as provas produzidas sob o crivo do contraditório que ampararam a condenação do agravante às penas do crime de roubo circunstanciado, ressaltando a importância das palavras da vítima, que de maneira harmônica reconheceu o réu e descreveu com clareza as circunstâncias em que o roubo circunstanciado foi perpetrado.
+2. Diante de tal cenário, para se acolher a pretensão recursal, no sentido de desclassificar a conduta ou absolver o insurgente por insuficiência de provas, desconstituindo, com isso, as premissas fixadas no acórdão recorrido, seria necessário o reexame do conjunto fático-probatório dos autos, inviável na via eleita, ante o óbice da Sumula n.º 7/STJ.  ..  (AgRg no Ag no REsp n. 1561836/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 25/04/2018).
+IV. Concurso de agentes - Súmula n. 282 do STF
+Para caracterização do prequestionamento, era imprescindível que a questão, deduzida no recurso especial, sobre a ausência de "informação de que havia um segundo elemento atuando juntamente com o Recorrente" (fl. 186) fosse debatida pelo Tribunal de origem, à luz da legislação federal indicada, o que não ocorreu na espécie, não tendo sido o tema sequer objeto do recurso de apelação apresentado pela defesa no Tribunal recorrido. Aplica-se, por analogia, o enunciado da Súmula n. 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse sentido:
+ ..  1. É assente na Corte o entendimento no sentido de que é condição sine qua non ao conhecimento do especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como malferidos na formulação recursal, emitindo-se, sobre cada um deles, juízo de valor, interpretando-se-lhes o sentido e a compreensão, em atenção ao disposto no artigo 105, inciso III, da Constituição Federal, que exige o prequestionamento por meio da apreciação da questão federal pelo Tribunal a quo, de modo a se evitar a supressão de instância. Súmulas 282/STF e 356/STF.  ..  5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 1.041.346/SC, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 24/5/2017).
+V. Desnecessidade de apreensão da arma de fogo - Súmula n. 83 do STJ
+Sobre o emprego de arma de fogo, o Tribunal de origem assim consignou (fl. 173):
+Ressalvo que no tocante à causa especial de aumento consubstanciada no emprego de arma de fogo, impossível o afastamento de tal exasperadora, uma vez que uníssonas as declarações prestadas quanto à utilização do instrumento ofensivo pelo Acusado, visando a intimidação que, só com o mesmo, logrou alcançar, tendo-se como irrelevante o fato de não ter sido possível a apreensão e perícia da arma.
+À propósito, apenas a título de conjectura, acrescente-se que, ainda que a arma fosse de brinquedo, tal circunstância seria desconhecida pela Vítima, que assim ficou sem condições de envidar qualquer reação. Muito ao contrário do almejado, as palavras do
+Ofendido, em Juízo, em tudo e por tudo, merecem acolhida.
+Outrossim, a qualifícadora do crime de roubo restou configurada, especialmente pelo depoimento prestado pela vítima, que esclareceu em detalhes a prática criminosa.
+Reitero que, nas hipóteses em que a arma não foi apreendida e periciada e, via de consequência, não foi comprovado o seu efetivo poder vulnerante, a Terceira Seção deste Superior Tribunal, no julgamento dos EREsp n. 961.863/RS, de relatoria do Ministro Celso Limongi (Desembargador convocado do TJ/SP), com relator para acórdão o Ministro Gilson Dipp, DJe 6/4/2011, assentou o entendimento de que, para a incidência da causa especial de aumento, mostram-se prescindíveis a apreensão e a realização de perícia na arma utilizada no crime de roubo, desde que seja comprovada a sua utilização por outros meios de prova.
+Vale dizer, mesmo nas hipóteses em que não houver a apreensão e a perícia da arma para a prova do seu efetivo potencial de lesividade, é devida a incidência da majorante quando existirem elementos que comprovem a utilização da arma de fogo na prática do delito, exatamente como ocorre na espécie.
+Aplica-se, por conseguinte, o enunciado da Súmula n. 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+VI. Execução provisória da pena
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+VII. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Ainda, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena imposta. A determinação deve ser desconsiderada caso o agravante já cumpra a reprimenda.
+Publique-se e intimem-se.
