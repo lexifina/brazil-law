@@ -1,0 +1,23 @@
+DECISÃO
+JONATAN BRAGA DOS SANTOS agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Maranhão, que negou provimento à Apelação Criminal n. 051888/2016.
+Depreende-se dos autos que, em primeira instância, o agravante foi condenado à pena de 6 anos de reclusão, em regime inicial semiaberto, pela prática dos delitos previstos nos arts. 16 da Lei n. 10.826/2003 e 304 do Código Penal. A sentença foi mantida, na íntegra, pelo Tribunal a quo, ao negar provimento à apelação criminal interposta pela defesa.
+Nas razões do recurso especial, alega a defesa, além de dissídio jurisprudencial, violação dos arts. 65, caput e III, "d", e 67 do Código Penal, ao argumento de que deve ser compensada a atenuante da confissão com a agravante da reincidência.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal local (fls. 350-354), o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 388-392, pelo desprovimento do agravo.
+Decido.
+O agravo é tempestivo e infirmou o fundamento da decisão agravada, motivos pelos quais passo à análise do recurso especial.
+Verifico que o Juiz de primeiro grau salientou que, quanto ao crime de posse de arma de fogo, o réu confessou o crime (fl. 202), mas deixou de aplicar a atenuante da confissão espontânea porquanto a pena foi fixada no mínimo legal.
+O Tribunal a quo, por sua vez, manteve o reconhecimento da confissão quanto ao delito do art. 16 da Lei n. 10.826/2003, mas deixou de compensá-la com a reincidência nos seguintes termos (fl. 308, destaquei):
+O magistrado fixou a pena-base, para os dois crimes, no patamar mínimo, reconhecendo a confissão, em relação ao crime de porte ilegal de arma de fogo, mas não aplicando redução de pena, conforme súmula nº 231, do STJ.
+Em relação ao crime previsto no art. 304, do CP, ao contrário do que sustenta o Apelante, não houve confissão, conforme se vê do seu depoimento prestado constante do DVD-fls.133.
+Na espécie, conforme entendimento do STF, a agravante da reincidência prepondera sobre a atenuante da confissão espontânea, razão pela qual é inviável a compensação entre circunstâncias agravantes e atenuantes (HC 105543/MS. 1ª T. Min. ROBERTO BARROSO, Julgamento: 29/04/2014, Dje 27-05-2014; HC 96061, 2ª T. Min. Teori Zavascki, julgado em 19/03/2013).
+No tocante à compensação da confissão com a reincidência, esta Corte Superior estabeleceu, no Recurso Especial Repetitivo n. 1.341.370/MT, que é "possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência" (REsp n. 1.341.370/MT, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 17/4/2013).
+No caso, ficou consignado na sentença que "o acusado possui condenação anterior transitada em julgado" (fl. 202), razão pela qual não há óbice à compensação integral entre a confissão utilizada para corroborar o acervo probatório e a agravante da reincidência porque o julgador não citou a existência de múltiplas condenações.
+Partindo dos critérios adotados pelas instâncias ordinárias, verifico que a pena-base do recorrente, quanto ao crime do art. 16 da Lei n. 10.826/2003, foi fixada, no mínimo legal, em 3 anos de reclusão.
+Na segunda etapa, reconhecida a ilegalidade, compenso integralmente a confissão e a reincidência, o que mantém a pena no mesmo quantum: 3 anos de reclusão.
+Na terceira fase, em razão da inexistência de causas de diminuição ou de aumento, fica a pena fixada, definitivamente, em 3 anos de reclusão.
+Por fim, diante do concurso material, as penas são cumuladas e totalizam 5 anos e 6 meses de reclusão.
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "c", parte final, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de reduzir a pena do acusado para 5 anos e 6 meses de reclusão.
+Por fim, determino o envio de cópia dos autos ao Juízo de singular, para que encaminhe a guia de recolhimento provisório ao Juízo da VEC, dando efetivo início da execução da pena imposta ao agravante. A determinação deve ser desconsiderada caso o réu cumpra, atualmente, a pena.
+Publique-se e intimem-se.
