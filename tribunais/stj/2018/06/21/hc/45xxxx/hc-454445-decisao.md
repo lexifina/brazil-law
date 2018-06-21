@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que o Juízo das Execuções Criminais revogou o benefício do monitoramento eletrônico concedido ao sentenciado, por descumprimento das condições do regime semiaberrto harmonizado, deixando a bateria descarregar por diversas vezes e por muitas horas.
+Inconformada, a defesa interpôs agravo em execução perante o TJPR, que negou provimento ao recurso, em decisum assim ementado (e-STJ fl. 7):
+AGRAVO EM EXECUÇÃO. PROGRESSÃO DE REGIME COM MONITORAMENTO ELETRÔNICO. VIOLAÇÕES REITERADAS DOS DEVERES A QUE ESTAVA O APENADO SUJEITO DURANTE A VIGÊNCIA DA BENESSE. REVOGAÇÃO. ALEGADA OFENSA AO PRINCÍPIO DA AMPLA DEFESA E DO CONTRADITÓRIO. AUSÊNCIA DE INTIMAÇÃO DA DEFESA. NULIDADE INEXISTENTE. DECISÃO QUE SE PAUTOU NA REVOGAÇÃO DO BENEFÍCIO, MANTENDO, CONTUDO, O REGIME SEMIABERTO ANTERIORMENTE CONCEDIDO. NECESSÁRIA OBSERVÂNCIA DO ARTIGO 196 DA LEI 7.210/84. APENADO DEVIDAMENTE INTIMADO PARA APRESENTAR JUSTIFICATIVA. SUFICIÊNCIA. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Na presente impetração, a Defensoria Pública alega que ""a douta Câmara inferiu a desnecessidade de manifestação da defesa, vez que a revogação do benefício não ensejou à regressão do regime posto no artigo supramencionado. Assim, haveria apenas a revogação contida no artigo 146-D, o que não implicaria em tal obrigação da manifestação pela defesa técnica. Ocorre que a afronta à liberdade do apenado, fundamento para o dever de proporcionar a ampla defesa, deve ser compreendida de maneira ampla"" (e-STJ fl. 2).
+Afirma que, ""é evidente que não houve, nesse processo de execução, a possibilidade de ampla defesa. É necessário frisar que não assegurar a defesa técnica é um motivo que implica a nulidade absoluta do processo. Por outro lado, é notório que a nulidade só possui substância quando implicada em efetivo prejuízo ao condenado. Por óbvio, já se poderia compreender a retirada do benefício em tela como tal prejuízo. Como se não bastasse, é preciso mencionar a espécie, a própria situação jurídica do apenado foi alterada, com o deslocamento da data-base para progressão de regime - logo, por atingir direito penal substantivo, a nulidade por ausência de intimaçâo é absoluta, confígurando-se, diga-se de passagem, violação direta a dispositivo constitucional"" (e-STJ fl. 4).
+Requer, nesse diapasão, liminarmente e no mérito, a concessão da ordem para anular o decisum impugnado.
+É o relatório. Decido.
+A liminar em habeas corpus, bem como em recurso em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto na impetração.
+No caso dos autos, ao menos em juízo de cognição sumária, não verifico manifesta ilegalidade apta a justificar o deferimento da medida de urgência.
+Dessa forma, não obstante os argumentos apresentados, mostra-se imprescindível um exame mais aprofundado dos elementos de convicção carreados aos autos.
+Ademais, a medida antecipatória postulada confunde-se com o próprio mérito da impetração, o qual deverá ser analisado em momento oportuno, por ocasião do julgamento definitivo do habeas corpus pelo colegiado.
+Ante o exposto, indefiro a liminar.
+Devidamente instruídos os autos, dispenso as informações de praxe.
+Dê-se vista dos autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
