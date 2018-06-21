@@ -1,0 +1,38 @@
+DECISÃO
+[NOME] SILVA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios (Apelação Criminal n. 2016.05.1.008669-0).
+Depreende-se dos autos que o agravante foi condenado pela prática do crime tipificado no art. 157, § 2º, I e II, do Código Penal, à pena de 5 anos e 4 meses de reclusão, em regime fechado, mais multa. A Corte de origem deu parcial provimento ao apelo defensivo, apenas para reduzir a pena de multa.
+Nas razões do recurso especial, a defesa alega a violação dos arst. 226, II e IV e 386, VII, ambos do Código de Processo Penal, ao argumento de que não foi observado o procedimento legal para o reconhecimento do acusado, razão pela qual deve ser declarado nulo e, consequentemente, reconhecida a ausência de provas para a condenação do réu.
+Requer o provimento do recurso para que seja absolvido o réu.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal local (fls. 160-162), o que ensejou a interposição deste agravo (fls. 165-173).
+O Ministério Público Federal manifestou-se, às fls. 188-192, pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+Quanto ao recurso especial, observo que suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade do recurso especial (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), razões pelas quais avanço na análise de mérito da controvérsia.
+No tocante à violação do art. 226 do Código de Processo Penal pelo descumprimento das formalidades legais para o reconhecimento pessoal, o Tribunal de origem afastou a tese defensiva, pelos seguintes fundamentos (fls. 133-134, destaquei):
+A materialidade do crime foi evidenciada pelos seguintes documentos Portaria de instauração do IP (fls 2D/03); comunicação de ocorrência policial nº 2.090/2016-31 aDP (fl 04); termo de declaração da vítima (fl 07) auto de reconhecimento por fotografia (fl. 08) e pela prova oral colhida.
+A autoria, de igual modo, restou comprovada nos autos pelo acervo produzido, notadamente pela prova oral.
+O apelante não foi ouvido na fase policial Em Juízo (mídia de fl 70), negou os fatos. Disse que não praticou o crime porque não se recorda deste fato.
+Na fase judicial (mídia de fl. 70), também foram ouvidos a vítima [NOME] e o agente de polícia [NOME]. Todos apresentaram versões firmes e convergentes entre si, o que fortalece a tese acusatória.
+ ..
+Ora, ao contrário do que alega a defesa técnica, a prova colhida na fase judicial é segura e não deixa margem a dúvidas. Na delegacia, a vítima [NOME] reconheceu cabalmente o apelante, por meio fotográfico, como um dos autores do crime (fl. 08).
+ ..
+Cumpre salientar que a ausência das formalidades do art. 226 e do art 228 do Código de Processo Penal quanto ao reconhecimento de pessoas não invalida o procedimento realizado de forma diversa, nem afasta a credibilidade da palavra da vítima, especialmente quando apoiado em outros elementos de convicção.
+As formalidades do art. 226 e do art 228 do Código de Processo Penal são facultativas e podem ser dispensadas se houver prisão em flagrante ou se a vítima reconhecer o acusado por outro meio idôneo, por exemplo, na fase policial, por meio fotográfico, como na hipótese em exame.
+Demais disso, a condenação não se baseia única e exclusivamente no reconhecimento fotográfico do acusado. Há depoimento judicial seguro da vítima que descreveu detalhadamente a dinâmica dos fatos.  ..
+Com efeito, a jurisprudência deste Tribunal Superior entende que "a inobservância das formalidades legais para o reconhecimento pessoal do acusado não enseja nulidade, por não se tratar de exigência, apenas recomendação, sendo válido o ato quando realizado de forma diversa da prevista em lei, notadamente quando amparado em outros elementos de prova" (AgRg no AREsp n. 837.171/MA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 20/4/2016). No mesmo sentido: HC n. 339.832/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 10/3/2016; AgRg no AREsp n. 610.535/MG, Rel. Ministro Felix Fischer, 5ª T., DJe 4/3/2016; AgRg no AREsp n. 642.866/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 1º/2/2016; AgRg no AREsp n. 691.066/PR, Rel. Ministro Ericson Maranho (Desembargador convocado do TJ/SP), 6ª T., DJe 14/12/2015.
+Dessa forma, verifico que o Tribunal de origem, ao entender que a norma prevista no art. 226 do CPP não é obrigatória e seu descumprimento não acarreta nulidade, decidiu em consonância com o entendimento dominante deste Superior Tribunal sobre o tema.
+Cumpre esclarecer, no tocante ao questionado reconhecimento fotográfico, que a jurisprudência desta Corte Superior entende não haver "ilegalidade na consideração de provas produzidas na fase de inquérito desde que ratificadas em juízo ou corroboradas por outras provas produzidas na fase judicial sob o crivo do contraditório" (REsp n. 1367765/SC, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 3/11/2014).
+No caso, diferentemente do alegado, ficou registrado no acórdão que a vítima, em seu depoimento judicial, afirmou que "reconheceu, por meio fotográfico e com absoluta certeza, como um dos dois autores do crime" (fl. 134).
+Assim, não prospera a tese da defesa acerca da nulidade do reconhecimento pessoal do agente e, consequentemente, da ausência de provas para a sua condenação.
+Sobre a fragilidade probatória, constato que as instâncias anteriores condenaram o réu por entenderem devidamente comprovadas a autoria e a materialidade do roubo que lhe foi imputado, com base nos fatos e nas provas colhidos tanto no âmbito inquisitorial quanto em juízo, especialmente nos depoimentos da vítima e da testemunha, bem como no reconhecimento do acusado.
+Afastar tal conclusão, tal como pretende o recorrente no especial, demandaria o reexame do acervo fático-probatório do feito, procedimento vedado em recurso especial, por força do Enunciado Sumular de n. 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+ ..
+2. Rever o entendimento externado pelas instâncias ordinárias, para afastar as elementares do crime de roubo, implicaria necessário reexame de provas, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula n. 7 desta Corte.
+ ..
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no AREsp n. 628.684/SC, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 2/2/2016)
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Em tempo, determino o envio de cópia dos autos ao Juízo de primeiro grau, para que expeça o mandado de prisão e encaminhe a guia de recolhimento provisório ao Juízo da VEC, dando efetivo início à execução das penas impostas ao agravante. A determinação deve ser desconsiderada caso os réus cumpram, atualmente, a reprimenda.
+Publique-se e intimem-se.
