@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de DIEGO NUNES DA SILVA, contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul no (Habeas Corpus n. 0069433-57.2018.8.21.7000).
+Infere-se dos autos que o paciente foi preso em flagrante em 17/11/2015 em razão da suposta prática do delito do art. 33, caput, da Lei n. 11.343/06 (tráfico ilícito de entorpecentes). Referida custódia foi convertida em prisão preventiva. O paciente foi condenado à pena de 7 anos de reclusão, em regime fechado. A defesa apelou da sentença condenatória, requerendo absolvição ou o redimensionamento da reprimenda, bem como indicando nulidades no processo. O recurso foi desprovido nos termos da seguinte ementa:
+"TRÁFICO DE ENTORPECENTES. PROVA. PALAVRA DO POLICIAL. VALOR CONDENAÇÃO MANTIDA.
+Os depoimentos dos policiais envolvidos nas diligências que culminaram com a acusação da prática de crime por parte do apelante devem ser analisados como os de qualquer outra pessoa. Não se imagina que, sendo o policial uma pessoa idônea e sem qualquer animosidade especifica contra os agentes, vá a juízo mentir, acusando falsamente inocentes. Aqui em prova convincente, os policiais militares informaram que constatando que o apelante estava vendendo droga a usuário, o detiveram. Com ele encontraram boa quantidade de pedras de crack, mostrando que efetivamente estava traficando entorpecentes. DECISÃO. Apelo defensivo desprovido. Unânime."
+Opostos embargos, estes foram rejeitados. Interposto recurso especial e tendo sido provido, os autos retornaram ao Tribunal de Justiça para que análise dos pontos omissos, razão pela qual a defesa ainda postulou a revogação da prisão, o que foi indeferido.
+A defesa impetrou habeas corpus perante o Tribunal de Justiça. O TJ/RS não conheceu da ordem.
+Agora a defesa apresenta o presente writ, afirmando que o paciente sofre constrangimento ilegal por excesso de prazo na formação da culpa. Ressalta que o processo ainda vai retornar ao segundo grau para novo julgamento da apelação e que permanece a constrição cautelar do paciente. Requer, em liminar e no mérito, que seja revogada a prisão do paciente, com eventual aplicação de medidas cautelares alternativas, com a adequada expedição do alvará de soltura.
+É o relatório. Decido.
+A impetração está prejudicada.
+Isso porque superada a alegação trazida no neste mandamus que ataca os fundamentos na decretação da prisão preventiva.
+Na hipótese, o Tribunal de Justiça em obediência à decisão desta Corte (REsp 1.687.263/RS) julgou novamente à apelação mantendo a condenação do ora paciente conforme acórdão ementado nos seguintes termos:
+"CUMPRIMENTO DE DECISÃO DO STJ. EXAME DE PRELIMINARES. REJEITADAS
+Rejeitam-se as preliminares arguidas no recurso defensivo. A alegada nulidade do laudo pericial foi examinada, e bem, pela julgadora, nada existindo a acrescentar. Quanto à alegada afronta ao contraditório, vê-se que as partes tiveram conhecimento da resposta do Delegado de Policia (sobre o oficio judicial) e a Defesa se manifestou a respeito. Por fim, a sentença analisou todas as teses invocadas de Defesa, fundamentando adequadamente a decisão condenatória."
+Em seqüência, em 13 de junho último foram julgados os embargos declaração opostos contra referido julgado consoante informações colhidas, via telefone.
+Nesse contexto, na esteira do parecer ministerial da lavra do douto Subprocurador Geral da República [NOME], "uma vez confirmada em segundo grau de jurisdição, inicia-se a execução provisória da pena, não havendo mais que se falar em excesso de prazo" (fl. 541). Diante da alteração do cenário fático-processual, inegável a perda superveniente do objeto da impetração.
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intime-se.
