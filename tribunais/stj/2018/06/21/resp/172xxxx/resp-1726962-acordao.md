@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESSARCIMENTO AO SUS. PRESCRIÇÃO QUINQUENAL. APLICAÇÃO DO DECRETO 20.910/1932.
+1. O acórdão recorrido dissentiu do entendimento consolidado no STJ, segundo o qual, nas demandas envolvendo pedido de ressarcimento ao Sistema Único de Saúde pelas operadoras de planos ou segurados de saúde, incide o prazo prescricional quinquenal, previsto no Decreto 20.910/1932, e não o disposto no Código Civil, em observância ao princípio da isonomia.
+2. A relação jurídica que há entre o Agência Nacional de Saúde - ANS e as operadoras de planos de saúde é regida pelo Direito Administrativo, por isso inaplicável o prazo prescricional previsto no Código Civil.
+3. Recurso Especial provido para determinar o retorno dos autos ao Tribunal a quo a fim de que a prescrição seja analisada à luz do art. 1º do Decreto 20.910/1932.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal Regional Federal 2ª Região assim ementando:
+PROCESSUAL CIVIL E ADMINISTRATIVO - AGRAVO DE INSTRUMENTO - RESSARCIMENTO AO SUS - NATUREZA INDENIZATÓRIA DOS VALORES QUESTIONADOS - APLICABILIDADE DO ARTIGO 206. § 3o. INCISO IV. DO CC - PRECEDENTES - AGRAVO DE INSTRUMENTO A QUE SE DÁ PROVIMENTO.
+1 - Necessário definir-se, para se aferir o prazo prescricional, a natureza jurídica do crédito em questão devendo-se considerar, neste caso, a feição de natureza privada do Estado, na condição de "pretenso credor da relação de direito civil." tal como intitulado pelo Procurador Regional da República em sua Manifestação nos presentes autos.
+2 - A obrigação, embora regulada por lei específica, possui como único fundamento o enriquecimento sem causa das operadoras de planos de saúde em detrimento dos cofres públicos, ostentando, pois, caráter nitidamente privado, sujeitando-se, em conseqüência, aos ditames do Código Civil.
+3 - Se o crédito da ANS é de natureza eminentemente indenizatória. não cabe invocar a prescrição qüinqüenal prevista no Decreto nº 20.910/32 e, portanto, a solução do caso passa, forçosamente, pelo disposto no artigo 206, § 3o. inciso IV. do Código Civil, o qual prevê o lapso de três anos para a prescrição da pretensão de ressarcimento de enriquecimento sem causa.
+4 - Precedentes: TRF2, APELAÇÃO EM MANDADO DE SEGURANÇA - 53771, proc. nº 2002.51.01.018489-8, Sétima Turma Especializada, Rei. Des. Fed. [NOME]. DJU 03/09/2009; AGAREsp 201102806910, STJ, Primeira Turma. Relator Ministro NAPOLEÃO NUNES MAIA FILHO, j. 15/08/2013, DJEde 10/09/2013.
+5 - DADO PROVIMENTO ao recurso para reconhecer a prescrição dos valores referentes à CDA 000000003006-67.
+Os Embargos de Declaração opostos foram desprovidos.
+Em seu apelo especial, a recorrente alega que o acórdão recorrido deu interpretação equivocada ao art. 206, § 3º, IV, do CC e violou o art. 1º do Decreto 20.910/1932. Defende, em suma, que "aplica-se o prazo de cinco anos para constituição do crédito de ressarcimento ao SUS. nos termos da Lei nº 9.873/99, combinada com a prescrição qüinqüenal do Decreto nº 20.910/32. para a cobrança" (fl. 191, e-STJ).
+Sem contrarrazões.
+Instado a se manifestar, o Ministério Público Federal, às fls. 258-264, e-STJ, opinou pelo "parcial provimento do recurso especial, para o retorno dos autos à origem e a prescrição seja analisada à luz do art. 1º do Decreto nº 20.910/32".
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 23 de maio de 2018.
+A irresignação merece acolhida.
+No caso, verifico que o acórdão recorrido dissentiu do entendimento consolidado no STJ, segundo o qual, nas demandas envolvendo pedido de ressarcimento ao Sistema Único de Saúde pelas operadoras de planos ou segurados de saúde, incide o prazo prescricional quinquenal, previsto no Decreto 20.910/1932, e não o disposto no Código Civil, em observância ao princípio da isonomia.
+Cito precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESSARCIMENTO AO SUS. PRESCRIÇÃO QUINQUENAL. DECRETO 20.910/1932. SÚMULA 83/STJ. APLICAÇÃO DA TABELA TUNEP. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ.
+1. Quanto à prescrição da pretensão de cobrança do ressarcimento ao SUS, verifica-se que o acórdão recorrido está em harmonia com o entendimento do STJ de que a prescrição para a cobrança da dívida ativa de natureza não tributária é quinquenal, com base no Decreto 20.910/1932.
+2. Verifica-se que o Tribunal de origem decidiu a causa em consonância com a orientação do STJ, pelo que incide, na espécie, a Súmula 83/STJ, enunciado sumular aplicável, inclusive, quando fundado o Recurso Especial na alínea "a" do inciso III do art. 105 da Constituição Federal.
+3. A análise sobre a aplicação da tabela TUNEP e a verificação se os seus valores correspondem ao efetivamente praticado pelas operadoras de plano de saúde, exigiriam a apreciação dos elementos de provas constantes nos autos, cuja revisão é inviável no âmbito do Recurso Especial, ante o óbice da Súmula 7 do STJ. 4. Além disso, verificar a ocorrência ou não enriquecimento ilícito demandaria também reexame de matéria fático-probatória, vedado em Recurso Especial.
+5. Recurso Especial não conhecido.
+(REsp 1698860/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/11/2017, DJe 19/12/2017) (Grifei).
+ADMINISTRATIVO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. RESSARCIMENTO DEVIDO AO SISTEMA ÚNICO DE SAÚDE - SUS PELA OPERADORA DE PLANO DE SAÚDE. PAGAMENTO ADMINISTRATIVO NÃO REALIZADO. INSCRIÇÃO EM DÍVIDA ATIVA. PRETENSÃO EXECUTÓRIA QUE OBSERVA O PRAZO QUINQUENAL DO DECRETO N. 20.910/1932. PARCELAMENTO ADMINISTRATIVO DA DÍVIDA: FATO INTERRUPTIVO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Embora o STJ tenha pacificado o entendimento de que a Lei n. 9.873/1999 só se aplica aos prazos de prescrição referentes à pretensão decorrente do exercício da ação punitiva da Administração Pública (v.g.: REsp 1.115.078/RS, Rel. Min. Castro Meira, DJe 06/04/2010), há muito é pacífico no âmbito do STJ o entendimento de que a pretensão executória da créditos não tributários observa o prazo quinquenal do Decreto n. 20.910/1932 (v.g.: REsp 1284645/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 10/02/2012; REsp 1133696/PE, Rel. Ministro Luiz Fux, Primeira Seção, DJe 17/12/2010; AgRg no REsp 941.671/RS, Rel. Ministra Denise Arruda, Primeira Turma, DJe 02/02/2010).
+2. A relação jurídica que há entre o Agência Nacional de Saúde - ANS e as operadoras de planos de saúde é regida pelo Direito Administrativo, por isso inaplicável o prazo prescricional previsto no Código Civil.
+3. Deve-se acrescentar, ainda, que o parcelamento de crédito não tributário perante a Administração Pública é fato interruptivo do prazo prescricional, porquanto importa reconhecimento inequívoco da dívida pelo devedor. Assim, mesmo que inaplicável a Lei n. 9.873/1999, tem-se que o acórdão recorrido decidiu com acerto ao entender pela interrupção do prazo prescricional, o qual, ainda, foi suspenso com a inscrição em dívida ativa, nos termos do § 3º do art. 1º da Lei n. 6.830/1980.
+4. Recurso especial improvido. (REsp 1.435.077/RS, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe 26/8/2014).
+Portanto, dessume-se que o acórdão recorrido está em dissonância com o atual entendimento deste Tribunal Superior, razão pela qual merece reforma.
+Diante do exposto, dou provimento ao Recurso Especial, para determinar o retorno dos autos ao Tribunal de origem a fim de que a prescrição seja analisada à luz do art. 1º do Decreto 20.910/1932.
+É como voto.
