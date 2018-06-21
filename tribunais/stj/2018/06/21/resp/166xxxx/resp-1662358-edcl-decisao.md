@@ -1,0 +1,21 @@
+DECISÃO
+Na origem, trata-se de embargos à execução opostos pelo Instituto Nacional de Colonização e Reforma Agrária - INCRA em face de [NOME] e Outro. Na sentença julgou-se parcialmente procedentes os pedidos. No Tribunal Regional Federal da 4ª Região, a sentença foi mantida, conforme a seguinte ementa do acórdão:
+EXECUÇÃO DE SENTENÇA. GRATIFICAÇÃO DE DESEMPENHO. EXTENSÃO AOS SERVIDORES INATIVOS. PROPORCIONALIDADE. DESCABIMENTO. LIMITAÇÃO.
+1. A proporcionalidade dos proventos de aposentadoria não reflete no pagamento das gratificações em discussão, uma vez que a Constituição Federal e a lei instituidora da vantagem não autorizam distinção alguma entre os servidores aposentados com proventos integrais e proporcionais.
+2. O título executivo determinou que o termo final para o pagamento da gratificação em tela com base em 100 pontos para os inativos é a implementação do sistema de avaliação. Especificamente em relação ao 1º ciclo de avaliações, a Portaria INCRA/DA nº 145 de 30/04/2012 determinou que os efeitos financeiros do primeiro ciclo de avaliação retroagissem a 30/06/2011. Por conseguinte, em respeito ao disposto no título executivo, tenho que o pagamento da gratificação com base em 100 pontos para os inativos deve se limitar a 30/06/2011.
+3. Improcede a pretensão da ASSINCRA, também, quanto à isenção dos honorários advocatícios nos embargos à execução, eis que a isenção prevista no art. 18 da Lei nº 7.347/85 se restringe às ações civis públicas.
+Opostos embargos de declaração, foram acolhidos, conforme a seguinte ementa:
+EMBARGOS DECLARATÓRIOS. ARTIGO 1.022 DO NCPC. OMISSÃO. LIMITAÇÃO DA EXECUÇÃO. GDARA.
+O Plenário do STF, no julgamento do RE 662.406, firmou tese, dotada de repercussão geral, de que "o termo inicial do pagamento diferenciado das gratificações de desempenho entre servidores ativos e inativos é o da data da homologação do resultado das avaliações após a conclusão do primeiro ciclo de avaliações, não podendo a administração retroagir os efeitos financeiros à data anterior." Por conseguinte, o termo final do cálculo para o pagamento da GDARA para os aposentados com paridade aos servidores da ativa deve ser a data de homologação dos resultados do 1º ciclo da avaliações de desempenho na atribuição da referida gratificação.
+Recurso especial admitido na origem. Com contrarrazões às fls. 746-751.
+Recebidos os autos pelo Superior Tribunal de Justiça, foi proferida decisão a qual negou-se provimento ao recurso especial interposto.
+Em embargos de declaração pelo INCRA, aponta a parte embargante omissão na majoração dos honorários advocatícios.
+Intimada, a parte embargada requer a rejeição dos embargos.
+É o relatório. Decido.
+Os embargos merecem acolhimento.
+Segundo decidido pelo Plenário desta Corte na sessão realizada em 9/3/2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Sendo assim, aplica-se o Código de Processo Civil de 2015.
+De igual modo, o enunciado administrativo n. 7/STJ dispõe que, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Por sua vez, nos termos do § 11 do art. 85 do Código de Processo Civil de 2015: "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento."
+Na sentença, fixaram-se os honorários advocatícios em favor do INCRA em 10% (dez por cento) sobre o valor da diferença entre o valor executado (R$145.267,65) e o valor ora homologado (R$55.838,34) (fl. 142). No acórdão, a sentença foi mantida (fls. 672).
+Ante o exposto, considerando o trabalho adicional realizado, com a apresentação de contrarrazões ao recurso especial, e os critérios previstos nos §§ 2º a 6º do art. 85 do Código de Processo Civil de 2015, acolho os embargos de declaração, para integrar a decisão embargada, fazendo constar a majoração dos honorários advocatícios em 2% (dois por cento).
+Publique-se. Intime-se.
