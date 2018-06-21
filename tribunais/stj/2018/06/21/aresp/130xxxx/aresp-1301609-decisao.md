@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. FORNECIMENTO DE MEDICAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. PRECEDENTES. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Estado do Paraná, contra decisão proferida pelo Tribunal Regional Federal da 4º Região, que inadmitiu recurso especial manejado contra acórdão assim ementado (fl. 335 e-STJ):
+ADMINISTRATIVO. MEDICAMENTO. LEGITIMIDADE PASSIVA. LITISCONSÓRCIO FACULTATIVO. SOLIDARIEDADE. RECONHECIMENTO. NECESSIDADE DO FÁRMACO. COMPROVAÇÃO. CONTRACAUTELAS.
+1. A União, os Estados-Membros e os Municípios têm legitimidade passiva e responsabilidade solidária nas causas que versam sobre fornecimento de medicamentos.
+2. A solidariedade não induz litisconsórcio passivo necessário, mas facultativo, cabendo à parte autora a escolha daquele contra quem deseja litigar, sem obrigatoriedade de inclusão dos demais. Se a parte escolhe litigar somente contra um ou dois dos entes federados, não há a obrigatoriedade de inclusão dos demais.
+3. Para fazer jus ao recebimento de medicamentos fornecidos por entes políticos, deve a parte autora comprovar a sua atual necessidade e ser aquele medicamento requerido insubstituível por outro similar/genérico no caso concreto.
+4. Nos casos de prestação de saúde, seja de dispensação de medicamento ou concessão de suplemento alimentar, entendo que a adoção de medidas de contracautela são salutares a fim de garantir o exato cumprimento da decisão judicial e devem ser aplicadas até mesmo de ofício.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem nos seguintes termos (fl. 388 e-STJ):
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INOCORRÊNCIA. PREQUESTIONAMENTO.
+São cabíveis embargos de declaração quando houver no acórdão obscuridade, contradição ou for omisso em relação a algum ponto sobre o qual o Tribunal devia ter se pronunciado e não o fez (CPC/15, art. 1.022), ou ainda, por construção jurisprudencial, para fins de prequestionamento, como indicam as súmulas 282 e 356 do e. STF e a 98 do e. STJ.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, a recorrente aponta violação aos seguintes dispositivos: a) art. 265 do Código Civil, aduzindo que não há responsabilidade solidária do Estado-membro na entrega dos medicamentos requeridos; e b) arts. 2º, 6º, 7º, 9º, 15, 16, 17, 18, 19, 19-M a 19-U, 31 e 33 da Lei 8080/90, eis não há previsão orçamentária para o fornecimento dos medicamentos pleiteados.
+Contrarrazões às fls. 465/471 e-STJ.
+A inadmissão do recurso especial se fez à consideração de que o acórdão recorrido adotou entendimento em consonância com a orientação firmada pelo STJ, a atrair o enunciado da Súmula 83/STJ.
+Nas razões do agravo, o agravante afasta o óbice apresentados na decisão.
+Contraminuta às fls. 496/504 e-STJ.
+O Ministério Público Federal, em parecer às fls. 526/531 e-STJ, opinou pelo desprovimento do agravo em recurso especial.
+É o relatório. Decido.
+Inicialmente, é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Dessume-se dos autos que a decisão que negou seguimento ao recurso especial se baseou no entendimento de que o acórdão recorrido está em sintonia com a jurisprudência do STJ (Súmula 83/STJ).
+Contudo, do exame do agravo interposto, observa-se que o agravante furtou-se de impugnar especificamente o mencionado fundamento, limitando-se a argumentação de que "os precedentes utilizados pelo despacho denegatório do recurso especial, são diferentes do caso dos autos, restando afastada a aplicação da Súmula n. 83 ao recurso especial interposto " (e-STJ fl. 489).
+Desta feita, competia ao agravante demonstrar que o entendimento adotado pelo acórdão recorrido está em descompasso com o entendimento do STJ, colacionando, para tanto, precedentes jurisprudenciais, preferencialmente mais atuais, em sentido favorável à tese recursal, ou que os precedentes invocados na decisão de inadmissibilidade não se aplicariam ao caso, o que não aconteceu in casu.
+Assim, o agravo em recurso especial carece de fundamentação, atraindo as consequências previstas no art. 932, III, do CPC/2015 (correspondente ao art. 544, § 4.º, inciso I, do CPC/1973), segundo o qual não se conhecerá do agravo que não tenha atacado especificamente os fundamentos da decisão de inadmissibilidade.
+A jurisprudência do STJ é assente no sentido de que impugnação à fundamentação contida na decisão agravada deve ser específica e suficientemente fundamentada e atacar os pontos do decisum.
+Nesse sentido (destaque nosso):
+PROCESSUAL CIVIL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+I - A decisão recorrida foi publicada em data posterior a 17 de março de 2016, sendo plenamente aplicável, segundo o Enuncia Enunciado Administrativo n. 3 do Plenário do STJ, o art. 1.042 do Código de Processo Civil de 2015, que estabelece não ser cabível a interposição de agravo contra a decisão que não admite o recurso especial, quando a matéria, nele discutida, tiver sido decidida pelo Tribunal de origem em conformidade com precedente firmado por esta Corte sob o rito do art. 1.036 do CPC/2015 (art. 543-C do CPC/73).
+II - Desse modo, não se afigura possível a apresentação de qualquer outro recurso a esta Corte Superior contra tal decisão, porque incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador da sistemática dos recursos representativos de controvérsia, instituída pela Lei n. 11.672/2008.
+III - Negou-se seguimento ao recurso especial com base nos óbices de: Súmula 83. Agravo nos próprios autos que não impugna os fundamentos da decisão recorrida.
+IV - São insuficientes para considerar como impugnação aos fundamentos da decisão que nega seguimento ao recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+V - No caso em que foi aplicado o enunciado n. 83 do STJ, incumbe à parte, no agravo em recurso especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+VI - Agravo interno improvido.
+(AgInt no AREsp 1114189/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 10/04/2018, DJe 13/04/2018)
+PROCESSUAL CIVIL. PREPARO. RECOLHIMENTO EXIGIDO NA LEI LOCAL. DESERÇÃO. SÚMULA 83 DO STJ. IMPUGNAÇÃO DEFICIENTE. HONORÁRIOS. MAJORAÇÃO. DESCABIMENTO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A decisão agravada entendeu estar o acórdão estadual em consonância com a jurisprudência atual do Superior Tribunal de Justiça, fazendo incidir a Súmula 83 desta Corte, segundo a qual é possível o recolhimento do preparo para interpor o agravo previsto no art. 557, § 1º, do CPC/1973, dada sua reconhecida natureza recursal.
+3. A rejeição monocrática do recurso especial com base no referido verbete exige da parte, no agravo interno, o ônus de indicar precedentes contemporâneos ou supervenientes aos referidos no decisum agravado com o fito de demonstrar ser diversa a orientação jurisprudencial do STJ, o que não aconteceu na espécie, mantendo-se deficiente a impugnação.
+4. A Corte Especial do STJ entendeu que a interposição de agravo interno não inaugura instância recursal, razão pela qual se mostra indevida a majoração dos honorários advocatícios prevista no art.
+85, § 11, do CPC/2015 (AgInt nos EAREsp 726.917/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 06/12/2017, DJe 06/02/2018).
+5. Agravo interno não conhecido.
+(AgInt no AREsp 694.853/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 13/03/2018, DJe 18/04/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
