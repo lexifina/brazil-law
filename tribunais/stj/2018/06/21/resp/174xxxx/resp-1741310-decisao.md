@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO - ROUBO TENTADO - PRELIMINAR - ALEGAÇÃO DE NULIDADE POR INCOMPETÊNCIA DO JUÍZO - INOCORRÊNCIA - COMPETÊNCIA TERRITORIAL É RELATIVA - DEFESA NÃO OPÔS EXCEÇÃO DE INCOMPETÊNCIA NO MOMENTO OPORTUNO - PRORROGAÇÃO - MÉRITO - AUTORIA E MATERIALIDADE DEMONSTRADAS - PENAS ADEQUADAS - REGIME SEMIABERTO COMPATÍVEL - PRELIMINAR REJEITADA E RECURSO IMPROVIDO.
+Sustenta o recorrente violação do art. 33, §§ 2º, c, e 3º do Código Penal, ao argumento de ser inidôneo o fundamento para a fixação de regime prisional mais rigoroso do que o permitido, em razão do montante de pena imposto, tendo em vista que eventuais condenações posteriores sem certidões cartorárias não tem o condão de prejudicar o recorrente.
+Requer, assim, a reforma do acórdão recorrido, para que se fixe o regime prisional aberto.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+Decido.
+O Tribunal a quo negou provimento ao apelo da defesa, para manter a sentença que condenara o recorrente a 2 anos e 8 meses de reclusão, em regime inicial semiaberto, pela prática do crime previsto no art. 157, caput, c/c art. 14, II, do Código Penal, manifestando-se nos seguintes termos (fls. 374/
+No que concerne à dosimetria das penas, não merece qualquer reparo.
+As penas-base foram fixadas nos mínimos legais.
+A posterior redução de 1/3 (um terço), em razão da tentativa, apresenta-se como compatível com o avançado iter criminis percorrido.
+O regime prisional estabelecido para cumprimento das penas privativas de liberdade, o semiaberto, deve prevalecer, pois compatível com as circunstâncias objetivas e subjetivas do presente caso, considerada, em especial, a existência de condenações intercorrentes (fls. 204/206).
+Face ao exposto, meu voto rejeita a matéria preliminar e, quanto ao mérito, nega provimento ao recurso.
+Conforme se verifica no acórdão recorrido, o recorrente foi condenado à pena de 2 anos e 8 meses de reclusão, em regime semiaberto, mais gravoso do que o previsto para o montante de pena fixada, e embora consigne ser esse o compatível com as circunstâncias objetivas e subjetivas do presente caso, o recorrente é primário e as circunstâncias judiciais lhes foram favoráveis. No mais, tem-se a motivação em fatos posteriores aos dos presentes autos, o que não se admite, em afronta, pois, ao disposto nas Súmulas 440/STJ, 718 e 719/STF, in verbis:
+Súmula 440: Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Súmula 718/STF: A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+Súmula 719/STF: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Nesse sentido, os seguintes precedentes:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO. INADEQUAÇÃO. DOSIMETRIA. REINCIDÊNCIA. AUSÊNCIA DE CONDENAÇÃO TRANSITADA EM JULGADO À ÉPOCA DOS FATOS SOB APURAÇÃO. REGIME PRISIONAL FECHADO. CARÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. SÚMULAS DO STF 718/719 E STJ 440. FLAGRANTE ILEGALIDADE EVIDENCIADA. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+5. No tocante ao meio prisional de cumprimento da pena, de acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719 do STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+6. Malgrado a fixação da pena-base no mínimo legal e a primariedade do réu não conduzam, necessariamente, à fixação do regime prisional menos severo, os fundamentos genéricos utilizados no decreto condenatório não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal).
+7. Tratando-se de réu primário, ao qual foi imposta pena superior a 4 (quatro) anos e inferior a 8 (oito) anos de reclusão e cujas circunstâncias judiciais foram favoravelmente valoradas, sem que nada de concreto tenha sido consignado de modo a justificar o recrudescimento do meio prisional, por força do disposto no art. 33, §§ 2º, alínea "b", e 3º, do Código Penal, deve a reprimenda ser cumprida, desde logo, em regime semiaberto.
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a pena a 4 (quatro) anos e 8 (oito) meses, mais pagamento de 11 (onze) dias-multa, e estabelecer o regime prisional semiaberto, salvo se, por outro motivo, o paciente estiver descontando pena em meio mais severo.
+(HC 309.678/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 03/08/2017, DJe 14/08/2017)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. VIOLAÇÃO DOS ARTS. 33, § 2º E § 3º, E 59, AMBOS DO CP. CONSTATADA PRIMARIEDADE. PENA-BASE FIXADA NO MÍNIMO LEGAL. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA DO DELITO. SÚMULAS 718 E 719/STF. SÚMULA 440/STJ. PENA DEFINITIVA ESTIPULADA EM 6 ANOS E 3 MESES DE RECLUSÃO. APLICAÇÃO DO ART. 33. § 2º, B, DO CP.
+1. A questão veiculada no recurso especial diz respeito à verificação da ofensa aos arts. 33, § 2º e § 3º, e 59, ambos do Código Penal, notadamente porque desconsiderada a individualização da pena, ao ser fixado regime mais gravoso a condenado primário e sem circunstâncias judiciais negativadas.
+2. A Corte de origem entendeu pela determinação do regime fechado, utilizando, tão somente, de fundamento genérico, sem apresentar elementos do caso em concreto que viabilizassem o início da reprimenda carcerária no regime fechado, em contrariedade às Súmulas 718 e 719/STF e Súmula 440/STJ.
+3. A configuração do roubo circunstanciado, no caso, pelo emprego de arma de fogo, não se revela, por si só, como condição suficiente para agravar o regime inicial da pena, haja vista tal elemento ser intrínseco ao tipo penal violado.
+4. A grave ameaça ou violência, o emprego de arma de fogo e o concurso de agentes são elementos inerentes ao tipo penal e à causa de aumento, não servindo para impor modo de resgate mais gravoso do que aquele previsto no artigo 33, § 2º, do CP, haja vista tais circunstâncias já terem sido sopesadas pelo legislador quando da definição das penas em abstrato (AgRg no REsp n. 1.563.247/SP, Ministro Jorge Mussi, Quinta Turma, DJe 11/3/2016).
+5. Fixada a pena-base no mínimo legal (4 anos - art. 157, caput, do CP) e não ostentando o agravado antecedentes criminais, é descabida a fixação de regime mais gravoso sem a existência de fundamentação idônea.
+6. Agravo regimental improvido.
+(AgRg no REsp 1666458/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/09/2017, DJe 09/10/2017)
+Ante o exposto, dou provimento ao recurso especial para fixar o regime inicial aberto.
+Intimem-se.
+Publique-se.
