@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CORREÇÃO MONETÁRIA – JUROS DA MORA – FAZENDA PÚBLICA – CONDENAÇÃO – REPERCUSSÃO GERAL JULGADA – ACÓRDÃO PUBLICADO – NEGATIVA DE SEGUIMENTO.
+    1. Afasto a suspensão anteriormente determinada.
+    2. O Tribunal de origem, reformando parcialmente o entendimento do Juízo, determinou a concessão do benefício de aposentadoria especial, considerados os períodos descritos no pronunciamento. No extraordinário, o Instituto Nacional do Seguro Social alega transgressão aos artigos 100, § 12, e 102, § 2º, da Constituição Federal, bem como artigo 1º – F da Lei nº 9.494/1997. Insurge-se quanto ao índice de atualização monetária aplicado.
+    3. Colho do acórdão recorrido:
+    A correção monetária, segundo o entendimento consolidado na 3ª Seção deste TRF4, incidirá a contar do vencimento de cada prestação e será calculada pelos índices oficiais e jurisprudencialmente aceitos, quais sejam:
+    - ORTN (10/64 a 02/86, Lei nº 4.257/64);
+    - OTN (03/86 a 01/89, Decreto-Lei nº 2.284/86);
+    - BTN (02/89 a 02/91, Lei nº 7.777/89);
+    - INPC (03/91 a 12/92, Lei nº 8.213/91);
+    - IRSM (01/93 a 02/94, Lei nº 8.542/92); - URV (03 a 06/94, Lei nº 8.880/94);
+    - IPC-r (07/94 a 06/95, Lei nº 8.880/94); - INPC (07/95 a 04/96, MP nº 1.053/95);
+    - IGP-DI (05/96 a 03/2006, art. 10 da Lei n.º 9.711/98, combinado com o art. 20, §§5º e 6.º, da Lei n.º 8.880/94);
+    - INPC (a partir de 04/2006, conforme o art. 31 da Lei n.º 10.741/2003, combinado com a Lei n.º 11.430/2006, precedida da MP n.º 316, de 11/08/2006, que acrescentou o art. 41-A à Lei n.º 8.213/91, e REsp n.º 1.103.122/PR).
+    Entendia a 3ª Seção deste Tribunal que a contar de 30/06/2009, data em que passou a viger a Lei nº 11.960/2009, de 29/06/2009, publicada em 30/06/2009 (a qual alterou o art. 1º-F da Lei nº 9.494/1997), deveria haver, para fins de atualização monetária, a incidência, uma única vez, até o efetivo pagamento, dos índices oficiais de remuneração básica aplicados à caderneta de poupança.
+    Não são aplicáveis, todavia, no que toca à correção monetária, os critérios previstos na Lei nº 11.960/2009, que modificou a redação do art. 1º-F da Lei nº 9.494/1997, por conta de decisão proferida pelo Plenário do Supremo Tribunal Federal, no julgamento das ADIs 4.357 e 4.425, que apreciou a constitucionalidade do artigo 100 da CF, com a redação que lhe foi dada pela EC 62/2009. Essa decisão proferida pela Corte Constitucional, além de declarar a inconstitucionalidade da expressão 'na data de expedição do precatório', do §2º; dos §§ 9º e 10º; e das expressões 'índice oficial de remuneração básica da caderneta de poupança' e 'independente de sua natureza', do §12, todos do art. 100 da Constituição Federal de 1988, com a redação da Emenda Constitucional nº 62/2009, por arrastamento, também declarou inconstitucional o art. 1º-F da Lei nº 9.494/1997, com a redação dada pelo art. 5º da Lei nº 11.960, de 29/07/2009 (atualização monetária pelo índice de remuneração da poupança).
+    Impõe-se, pois, a observância do que decidido com efeito erga omnes e eficácia vinculante pelo STF nas ADIs 4.357 e 4.425, restabelecendo-se a sistemática anterior à Lei nº 11.960/2009, ou seja, apuração de correção monetária pelo INPC.
+    […]
+    Até 30/06/2009, os juros de mora, apurados a contar da data da citação, devem ser fixados à taxa de 1% ao mês, com base no art. 3º do Decreto-Lei n. 2.322/1987, aplicável analogicamente aos benefícios pagos com atraso, tendo em vista o seu caráter eminentemente alimentar, consoante firme entendimento consagrado na jurisprudência do STJ e na Súmula 75 desta Corte.
+    A partir de 30/06/2009, por força da Lei n.º 11.960, de 29/06/2009 (publicada em 30/06/2009), que alterou o art. 1.º-F da Lei n.º 9.494/1997, para fins de apuração dos juros de mora haverá a incidência, uma única vez, até o efetivo pagamento, do índice oficial aplicado à caderneta de poupança. Registre-se que a Lei 11.960/2009, segundo o entendimento do STJ, tem natureza instrumental, devendo ser aplicada aos processos em tramitação (EREsp 1.207.197/RS. Relator Min. Castro Meira. Julgado em 18/05/2011).
+    O Pleno, no recurso extraordinário nº 870.947/SE, relator ministro Luiz Fux, acórdão publicado no Diário da Justiça de 20 de novembro de 2017, assentou, sob o ângulo da repercussão geral, a inconstitucionalidade parcial do artigo 1º-F da Lei nº 9.494/1997, com redação dada pela Lei nº 11.960/2009. Concluiu que o índice de correção monetária aplicável às condenações impostas à Fazenda Pública será o decorrente da variação de preços da economia, evitando-se enriquecimento sem causa do Estado-devedor. No tocante aos juros da mora, proclamou, se de natureza tributária a condenação, a pertinência do mesmo parâmetro utilizado pelo Estado relativamente à dívida ativa. Declarou a valia constitucional do referido dispositivo na parte concernente aos juros da mora, quando envolvida relação diversa da tributária.
+    No caso, faz-se em jogo controvérsia estranha ao campo tributário. O pronunciamento está em parcial dissonância com a óptica revelada no paradigma, submetido ao regime da repercussão maior.
+    4. Em que pese haver discrepância entre o acórdão recorrido e a jurisprudência do Supremo, descabe o provimento do recurso tendo em vista a impossibilidade de reforma prejudicial ao recorrente. Nego seguimento ao extraordinário.
+    5. Publiquem.
+Brasília, 21 de junho de 2018.
+Ministro MARCO AURÉLIO
+Relator
