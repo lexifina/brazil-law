@@ -1,0 +1,14 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pela OI S.A. - EM RECUPERAÇÃO JUDICIAL, contra decisão denegatória de seu recurso especial fundado no artigo 105, inciso III, alínea a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de Santa Catarina.
+Nas razões do nobre apelo, a ora Agravante discute: a) ausência de prestação juridicional; b) violação a coisa jugada já que o titulo determinou a utilização do VPA referente ao mês da integralização com base nos artigos 502, 503 e 508 do CPC/15
+É o relatório. Decido.
+Violação do art. 535 do Código de Processo Civil de 1973:
+A suposta afronta ao art. 535, inciso II, do Código de Processo Civil não subsiste, uma vez que o acórdão hostilizado solucionou a quaestio juris de maneira clara e coerente, apresentando todas as razões que firmaram o seu convencimento.
+Dessa forma, ainda que a Recorrente entenda equivocadas ou insubsistentes as razões de decidir que alicerçam o acórdão atacado, isso não implica, necessariamente, que essas sejam desprovidas de fundamentação. Há significativa distinção entre a decisão que peca pela inexistência de alicerces jurídicos e aquela que traz resultado desfavorável à pretensão do litigante.
+Violação a coisa julgada:
+Quanto à alegação no sentido de que houve ofensa a coisa julgada conforme o artigo 502, 503 e 508 do CPC/15, entendo que o recurso especial possui óbices intransponíveis ao seu conhecimento. Isto porque os dispositivos articulados pela recorrente, em relação ao ponto, não guardam relação com a temática referente ao valor patrimonial das ação e sua complementação mediante contrato de participação financeira e a utilização do valor patrimonial da ação apurado com base no balancete do mês da respectiva integralização. Com efeito, os artigos citados nas alegações do recurso especial versam sobre a violação da coisa julgada material, que torna imutável e indiscutível uma decisão que não cabe mais nenhum recurso, não tratando especificamente da questão do valor patrimonial da ações, como anotado no aresto recorrido.
+Como se vê, o recorrente fundou seu apelo especial em norma incapaz de infirmar o juízo formulado pelo acórdão recorrido, exatamente porque a hipótese dos autos não se insere no campo de abrangência dos referidos dispositivos arrolados. Desse modo, por apresentar razões dissociadas ante a total discrepância entre as razões recursais e o decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial, incide, pois, o óbice contido na Súmula 284 do eg. Supremo Tribunal Federal.
+Ante o exposto, CONHEÇO do agravo para CONHECER em parte do recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO.
+Quanto à majoração dos honorários em razão do disposto no art. 85, § 11, do Código de Processo Civil, mostra-se incabível uma vez que não houve o arbitramento de verba honorária pelas instâncias ordinárias.
+Publique-se. Intimem-se.
