@@ -1,0 +1,35 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO QUE DETERMINA O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA AGUARDAR JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA REPETITIVA, PARA OPORTUNA APLICAÇÃO DOS ARTIGOS 1.040 E 1.041 DO CPC/2015. AUSÊNCIA DE PREJUÍZO. IRRECORRIBILIDADE. PRECEDENTES. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, §4º, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+1. Segundo o entendimento pacificado desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação (artigos 1.040 e 1.041 do CPC/2015), não possui carga decisória, por isso se trata de provimento irrecorrível. . Precedentes. Recurso manifestamente inadmissível.
+2. Agravo interno não conhecido, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, não conhecer do agravo interno, com aplicação de multa, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO):
+Cuida-se de agravo interno interposto por APPLE COMPUTER BRASIL LTDA, inconformada com a decisão que determinou a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC/1973 e 1.040 e seguintes do CPC/2015, após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia, negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Em suas razões, a agravante aponta que "o Recurso Especial interposto não versa sobre a natureza do rol do art. 1.015 do CPC/15 e à possibilidade de sua interpretação extensiva, mas, ao contrário, trata da interpretação literal e combinada dos artigos 487, inciso II e 1.015, inciso II, do CPC" (fl. 1106).
+Impugnação às fls. 1117-1122.
+É o relatório.
+VOTO
+O SENHOR MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO)(RELATOR):
+Segundo o entendimento pacificado desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação (artigos 1.040 e 1.041 do CPC/2015), não possui carga decisória, por isso se trata de provimento irrecorrível. Nesse sentido:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. TEMA VEICULADO EM RECURSO ESPECIAL COM REPERCUSSÃO GERAL RECONHECIDA PELO STF. DEVOLUÇÃO DO FEITO AO TRIBUNAL A QUO PARA FINS DE JUÍZO DE CONFORMAÇÃO. ATO DE SOBRESTAMENTO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. PRECEDENTE DA PRIMEIRA SEÇÃO.
+(..)
+2. Em se cuidando de recurso excepcional versando sobre tema afetado em repercussão geral, tanto o STF quanto o STJ vêm determinando o retorno dos processos aos Tribunais de origem, para que neles se aguarde o julgamento do recurso extraordinário representativo da controvérsia para posterior realização de juízo de adequação/conformação (arts. 1.040 e 1.041 do CPC/2015).
+3. Na linha da jurisprudência desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015), não possui carga decisória, por isso se trata de provimento irrecorrível. Precedentes: STJ - AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro Og Fernandes, Primeira Seção, DJe 20/9/2017); STF - RE 630.719 AgR-segundo-AgR-AgR, Relator Min. Alexandre de Moraes, Primeira Turma, julgado em 17/11/2017, DJe-270 DIVULG 27-11-2017 PUBLIC 28-11-2017. Certo, porém, que ficam a salvo dessa diretriz situações reveladoras de erro ou equívoco patentes, o que não se verifica no caso ora decidido.
+5. Agravo interno não conhecido."
+(AgInt no REsp 1669263/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/04/2018, DJe 04/05/2018)
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL DE COMPLEMENTAÇÃO DE APOSENTADORIA - DECISÃO MONOCRÁTICA QUE DETERMINOU O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. IRRESIGNAÇÃO DA RÉ.
+1. É incabível agravo interno contra a decisão que determina a devolução dos autos ao Tribunal de origem por tratar de matéria pendente de julgamento sobre o rito dos recursos repetitivos, tendo em vista que o referido sobrestamento não gerar prejuízo às partes.
+2. Observância do procedimento versado no artigo 256-L do RISTJ, introduzido pela recente emenda regimental nº 24, de 28/09/16.
+3. Agravo interno não conhecido.
+(AgInt no REsp 1549779/SE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/03/2018, DJe 03/04/2018 - grifou-se)
+"PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE DETERMINA O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM, PARA AGUARDAR JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA REPETITIVA, PARA OPORTUNA APLICAÇÃO DOS ARTIGOS 1.040 E 1.041 DO CPC/2015. AUSÊNCIA DE PREJUÍZO. IRRECORRIBILIDADE. PRECEDENTES. RECURSO MANIFESTAMENTE INADMISSÍVEL. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DA MULTA DO ART. 1.021, § 4º, DO CPC/2015."
+(AgInt nos EDcl no AREsp 631.318/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14/02/2017, DJe 17/02/2017 - grifou-se)
+Por sua vez, considerando a iterativa jurisprudência pela irrecorribilidade da decisão que determina a devolução dos autos em razão da matéria nele tratada estar pendente de julgamento de recurso especial repetitivo, o presente agravo interno é manifestamente inadmissível e, por esse motivo, enseja a aplicação da multa prevista no art. 1.021, §§ 4º e 5º, do CPC/2015, que assim dispõe, in verbis:
+"Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+(..)
+§ 4º Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa.
+§ 5º A interposição de qualquer outro recurso está condicionada ao depósito prévio do valor da multa prevista no § 4º, à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final."
+Ante o exposto, não conheço do agravo interno, aplicando à parte agravante a multa do art. 1.021, § 4º, do CPC/2015, no importe de 1% (um por cento) sobre o valor atualizado da causa, ressalvando que a interposição de qualquer outro recurso está condicionada ao depósito prévio da respectiva quantia, na forma do §5º do supra transcrito dispositivo legal.
+É como voto.
