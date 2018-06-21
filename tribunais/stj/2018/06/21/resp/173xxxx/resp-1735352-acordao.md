@@ -1,0 +1,52 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. DEFENSORIA PÚBLICA ESTADUAL. ATUAÇÃO CONTRA MUNICÍPIO. CABIMENTO DE CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.199.715/RJ, representativo de controvérsia, de Relatoria do Ministro Arnaldo Esteves Lima, julgado em 16/2/2011 pela Corte Especial, com publicação no DJe de 12/4/2011, firmou o entendimento de que não são devidos honorários advocatícios à Defensoria Pública quando ela atua contra pessoa jurídica de direito público que integra a mesma Fazenda Pública.
+2. Na ocasião, foram fixadas as seguintes teses: "Tema n. 128/STJ: Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença. Tema n. 129/STJ: Reconhece-se à Defensoria Pública o direito ao recebimento dos honorários advocatícios se a atuação se dá em face de ente federativo diverso do qual é parte integrante".
+3. No caso dos autos, a demanda foi proposta pela Defensoria Pública do Estado do Mato Grosso contra o Município de Tangará da Serra/MT, o que não configura confusão.
+4. Recurso Especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso assim ementado (fl. 300, e-STJ):
+AGRAVO REGIMENTAL - AÇÃO DE OBRIGAÇÃO DE FAZER - REEXAME NECESSÁRIO - DECISÃO MONOCRÁTICA CONDENAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA DEFENSORIA PÚBLICA - VERBA HONORÁRIA INDEVIDA COM ADVENTO DA EC 80/2014 - EQUIPARAÇÃO ÀS PRERROGATIVAS DA MAGISTRATURA E DO MINISTÉRIO PÚBLICO - PRECEDENTES DESTE TRIBUNAL DE JUSTIÇA - RECURSO DESPROVIDO.
+1. A Emenda Constitucional nº 80, de 04 de junho de 2014, equipara a Defensoria Pública à Magistratura e ao Ministério Público, portanto, indevido o pagamento de honorários sucumbenciais em seu favor, conforme precedentes deste E. Tribunal de Justiça.
+2. A decisão monocrática impugnada neste regimental pautou-se em entendimento assente deste Sodalício.
+3. Recurso não provido.
+Não foram opostos Embargos de Declaração.
+A recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 20, § 4º, do CPC/1973 e 4º, XXI, da EC 80/1994. Alega, em suma, que são devidos honorários advocatícios à Defensoria Pública quando a atuação se dá em face de ente federativo diverso do qual é parte integrante, como no caso em apreço. Não há falar em mudança de entendimento ou nova reflexão decorrente da entrada em vigor da EC 80/2014.
+Sem contrarrazões.
+O recurso foi inadmitido na origem. Para melhor análise da controvérsia, foi dado provimento ao Agravo para determinar sua conversão em Recurso Especial (fl. 410, e-STJ).
+O MPF opinou pelo provimento do recurso em parecer assim ementado (fls. 416-419, e-STJ):
+DIREITO PROCESSUAL CIVIL. HONORÁRIOS DE SUCUMBÊNCIA. DEFENSORIA PÚBLICA. RECURSO ESPECIAL SUBMETIDO À SISTEMÁTICA PREVISTA NO ART. 543-C DO CPC/1973. POSSIBILIDADE.
+- No julgamento do REsp 1.108.013/RJ, submetido ao rito do artigo 543-C do CPC, firmou-se entendimento no sentido de que não são devidos honorários advocatícios à Defensoria Pública quando esta atua contra a pessoa jurídica de Direito Público da qual é parte integrante.
+- Parecer pelo provimento ao recurso especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 16.5.2018.
+A irresignação merece prosperar.
+A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.199.715/RJ, representativo de controvérsia, de Relatoria do Ministro Arnaldo Esteves Lima, julgado em 16/2/2011 pela Corte Especial, com publicação no DJe de 12/4/2011, firmou o entendimento de que não são devidos honorários advocatícios à Defensoria Pública quando ela atua contra pessoa jurídica de direito público que integra a mesma Fazenda Pública.
+A propósito, confira-se a ementa do referido julgado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA REPETITIVA. RIOPREVIDÊNCIA. HONORÁRIOS ADVOCATÍCIOS. PAGAMENTO EM FAVOR DA DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO. NÃO CABIMENTO. RECURSO CONHECIDO E PROVIDO.
+1. "Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença" (Súmula 421/STJ).
+2. Também não são devidos honorários advocatícios à Defensoria Pública quando ela atua contra pessoa jurídica de direito público que integra a mesma Fazenda Pública.
+3. Recurso especial conhecido e provido, para excluir da condenação imposta ao recorrente o pagamento de honorários advocatícios. (REsp 1.199.715/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe 12/04/2011).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVOS REGIMENTAIS NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. OFENSA AO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA 284/STF. ARTS. 19-M, 19-O, 19-P, 19-Q E 19-R DA LEI N. 8.080/1990. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FORNECIMENTO DE MEDICAMENTO/TRATAMENTO SAÚDE. FUNDAMENTO CONSTITUCIONAL. PRINCÍPIO INTEGRALIDADE ATENDIMENTO. INOVAÇÃO RECURSAL. HONORÁRIOS ADVOCATÍCIOS. DEFENSORIA PÚBLICA DA UNIÃO. PESSOA JURÍDICA DE DIREITO PÚBLICO INTEGRANTE DA MESMA FAZENDA PÚBLICA. CONDENAÇÃO. IMPOSSIBILIDADE. ENTENDIMENTO FIRMADO NO RESP N. 1.199.715/RJ SOB O RITO DO ART. 543-C DO CPC.
+1. Não se conhece da suposta afronta ao artigo 535 do CPC, quando a parte recorrente se limita a afirmar, genericamente, sua violação, sem, contudo, demonstrar especificamente que temas não foram abordados pelo aresto vergastado, incidindo, por conseguinte, o enunciado 284 da Súmula do STF.
+2. Os artigos 19-M, 19-O, 19-P, 19-Q e 19-R da Lei n. 8.080/1990, a despeito da oposição de embargos de declaração, não foram apreciados pela Corte local, carecendo o recurso especial do requisito do prequestionamento (Súmula 211/STJ).
+3. As controvérsias relativas à legitimidade passiva da recorrente e da responsabilidade solidária pelo fornecimento do medicamento foram dirimidas com fundamento constitucional, especificamente com base nos arts. 23, inciso II, e 196 da CF/88, de modo que o recurso especial é inviável quanto ao ponto, sob pena de usurpar-se a competência reservada pela Constituição ao Supremo Tribunal Federal.
+4. A tese relativa ao princípio da integralidade do atendimento não foi oportunamente deduzida nas razões do recurso especial, mas, apenas, neste agravo regimental, configurando, portanto, indevida inovação recursal, insuscetível de conhecimento.
+5. A Corte Especial do STJ, no julgamento do REsp n. 1.199.715/RJ, submetido ao rito do art. 543-C do CPC, de relatoria do Min. Arnaldo Esteves Lima, DJe 12.04.2011, firmou o entendimento no sentido de não serem devidos honorários advocatícios à Defensoria Pública quando ela atua contra pessoa jurídica de direito público que integra a mesma Fazenda Pública.
+6. Agravos regimentais não providos. (AgRg no REsp 1.537.992/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 1º/09/2015).
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DEFENSORIA PÚBLICA DA UNIÃO. PRETENSÃO AJUIZADA CONTRA PESSOA JURÍDICA DE DIREITO PÚBLICO DA ADMINISTRAÇÃO INDIRETA FEDERAL. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO INCABÍVEL.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.199.715/RJ, submetido ao rito do art. 543-C do CPC, da relatoria do Ministro Arnaldo Esteves Lima, julgado em 16/2/11, firmou entendimento no sentido de que não serem devidos honorários advocatícios à Defensoria Pública quando ela atua contra pessoa jurídica de direito público que integra a mesma Fazenda Pública.
+2. A Defensoria Pública da União, a Universidade Federal de Pelotas e o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP são mantidos com recursos da União, daí porque, em observância da Súmula 421/STJ, não são devidos honorários advocatícios.
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 1.403.545/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 27/08/2014).
+Na ocasião, foram fixadas as seguintes teses: "Tema n. 128/STJ: Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença. Tema n. 129/STJ: Reconhece-se à Defensoria Pública o direito ao recebimento dos honorários advocatícios se a atuação se dá em face de ente federativo diverso do qual é parte integrante". Seguindo o mesmo entendimento, destaco estes precedentes:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO COMINATÓRIA OBJETIVANDO A TRANSFERÊNCIA DO AUTOR PARA HOSPITAL EM TRATAMENTO ORTOPÉDICO. DEFENSORIA PÚBLICA ESTADUAL. ATUAÇÃO CONTRA MUNICÍPIO. CABIMENTO DE CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. SÚMULA 421/STJ. ENTENDIMENTO FIRMADO PELO REGIME DO RECURSO REPRESENTATIVO DE CONTROVÉRSIA: RESP. 1.199.715/RJ, REL. MIN. ARNALDO ESTEVES LIMA, DJE 12.4.2011. AGRAVO INTERNO DO MUNICÍPIO DE CUIABÁ/MT A QUE SE NEGA PROVIMENTO.
+1. A 1a. Seção desta Corte Superior de Justiça, em Recurso Especial submetido à sistemática prevista no art. 543-C do CPC/73, firmou o entendimento de que não são devidos honorários advocatícios à Defensoria Pública quando esta atua contra pessoa jurídica de direito público que integra a mesma Fazenda Pública.
+2. No caso dos autos, a Defensoria Pública é órgão do Estado do Mato Grosso e está a litigar contra a Municipalidade de Cuibá/MT, o que não configura confusão.
+3. Agravo Interno do Município do Cuiabá/MT a que se nega provimento. (AgInt no REsp 1605745/MT, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 27/06/2017).
+No caso dos autos, a demanda foi proposta pela Defensoria Pública do Estado do Mato Grosso contra o Município de Tangará da Serra/MT, o que não configura confusão.
+Diante do exposto, dou provimento ao Recurso Especial.
+É como voto.
