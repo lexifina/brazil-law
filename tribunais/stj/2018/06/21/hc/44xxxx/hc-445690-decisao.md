@@ -1,0 +1,40 @@
+EMENTA
+HABEAS CORPUS. ART. 157, § 2º, II, DO CP. REGIME INICIAL FECHADO. GRAVIDADE ABSTRATA DO DELITO. SÚMULAS 440 DO STJ E 718 E 719 DO STF. EVIDENTE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO. LIMINAR CONFIRMADA.
+Ordem concedida.
+DECISÃO
+Ao que foi dito na decisão de fls. 36/38, acrescento estas palavras do Subprocurador-Geral da República [NOME] (fls. 71/74 - grifo nosso):
+ ..
+É entendimento pacificado nessa Corte Superior que, para a imposição de regime prisional mais gravoso do que a pena comporta, é necessária fundamentação específica, com base em elementos concretos extraídos dos autos, consoante disposto nas Súmulas 440 do STJ, 718 e 719 do STF.
+No caso dos autos, o juiz de primeiro grau fixou a pena-base no mínimo legal. Em razão do concurso de pessoas, a pena foi aumentada em 1/3, alcançando o total definitivo de 5 anos e 4 meses de reclusão. O regime inicial semiaberto foi fixado com fundamento no art. 33, § 2º, alínea b, do CP (fl. 14). O TJ/SP, ao reformar a sentença para impor o regime fechado, consignou os seguintes fundamentos (fl. 21):
+" .. "
+A pena-base foi adequadamente estabelecida no piso.
+Com efeito, conforme bem ponderou o Magistrado sentenciante, as circunstâncias judiciais do artigo 59, do Código Penal, não excederam as normais do tipo, pelo que inexistem elementos que possibilitem a fixação da básica acima do mínimo legal.
+Ausentes agravantes ou atenuantes.
+Na derradeira fase, majorou-se a pena de 1/3, acertadamente, por força da causa de aumento do concurso de agentes.
+Com razão a insurgência ministerial quanto ao regime prisional fixado para cumprimento da pena imposta, pois privilegiar autor de crime de roubo circunstanciado, concedendo-lhe regime carcerário que não o fechado, é desatender as finalidades da pena, que abrangem o juízo de reprovação sobre a conduta e a prevenção de crime.
+Nesse sentido:
+Ademais, por ser um crime de grande periculosidade e temibilidade irretorquível, de todo incompatível com o regime semi-aberto, impondo-se o regime fechado como única forma de assegurar, senão total, ao menos aquele mínimo indispensável de segurança às pessoas honestas e cumpridoras de seus deveres, cada dia mais sujeita e mais expostas à ação de perigosos delinquentes. (RJDTACRIM 16:145, RJDTACRIM 21:92).
+Destarte, por se tratar de infração repugnante que desassossega a ordem e a paz social, e causa traumas profundos, fixo o regime inicial fechado para o cumprimento da pena imposta ao apelado.
+ .. "
+Como visto, as circunstâncias judiciais do art. 59 são totalmente favoráveis, tanto que a pena-base foi fixada no mínimo legal, não se justificando a imposição de regime mais gravoso com base apenas na gravidade abstrata do crime.
+Ressalte-se que a opinião do julgador sobre a gravidade do delito não configura motivo idôneo para fixação de regime mais severo, como dispõe a Súmula 718 do Supremo Tribunal Federal:
+Súmula nº 718. A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+Nesse mesmo sentido é o entendimento desse e. STJ:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO MAJORADO TENTADO. REGIME DE CUMPRIMENTO DE PENA. RÉU PRIMÁRIO. PENA-BASE FIXADA NO MÍNIMO LEGAL. SÚMULA 440/STJ. REGIME ABERTO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento dos Embargos de Divergência n. 961.863/RS, firmou o entendimento de que é despicienda a apreensão e a perícia da arma de fogo para a incidência da majorante, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização nos crimes de roubo e extorsão, como na hipótese, em que há farta comprovação testemunhal atestando o seu emprego.
+3. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito"; e com a Súmula 719/STF, "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+4. Os fundamentos genéricos utilizados no decreto condenatório não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), contrariando a Súmula 440 deste Superior Tribunal. Nesse diapasão, tratando-se de réu primário, cujas circunstâncias judiciais foram favoravelmente valoradas, por força do disposto no art. 33, §§ 2º, alínea "b", e 3º, do Código Penal, deve a reprimenda ser cumprida, desde logo, em regime aberto.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime prisional aberto para o desconto da sanção corporal, salvo se, por outro motivo, o paciente estiver descontando pena em regime mais severo. (g.n.) (HC 411.423/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 07/12/2017, DJe 14/12/2017)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO MAJORADO TENTADO. REGIME DE CUMPRIMENTO DE PENA. RÉU PRIMÁRIO. PENA-BASE FIXADA NO MÍNIMO LEGAL. SÚMULA 440/STJ. REGIME ABERTO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento dos Embargos de Divergência n. 961.863/RS, firmou o entendimento de que é despicienda a apreensão e a perícia da arma de fogo para a incidência da majorante, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização nos crimes de roubo e extorsão, como na hipótese, em que há farta comprovação testemunhal atestando o seu emprego.
+3. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito"; e com a Súmula 719/STF, "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+4. Os fundamentos genéricos utilizados no decreto condenatório não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), contrariando a Súmula 440 deste Superior Tribunal. Nesse diapasão, tratando-se de réu primário, cujas circunstâncias judiciais foram favoravelmente valoradas, por força do disposto no art. 33, §§ 2º, alínea "b", e 3º, do Código Penal, deve a reprimenda ser cumprida, desde logo, em regime aberto. (Sublinhamos).
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime prisional aberto para o desconto da sanção corporal, salvo se, por outro motivo, o paciente estiver descontando pena em regime mais severo.
+(HC 411.423/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 07/12/2017, DJe 14/12/2017)
+Ante o exposto, o MINISTÉRIO PÚBLICO FEDERAL opina pela concessão, de ofício, da ordem, para que seja fixado o regime inicial semiaberto.
+Assim, considerando a reprimenda definitiva imposta, a fixação da pena-base no mínimo legal, a primariedade do acusado e a ausência de fundamentação apta à imposição do modo de cumprimento da pena mais rigoroso, é de se aplicar o regime semiaberto, nos termos do art. 33, § 2º, b, do Código Penal.
+Ante o exposto, acolhendo o parecer ministerial, concedo a ordem para, confirmando a medida liminar, fixar o regime inicial semiaberto a [NOME].
+Comunique-se.
+Publique-se.
