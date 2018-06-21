@@ -1,0 +1,73 @@
+EMENTA
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. EXCESSO DE PRAZO. SUPERVENIÊNCIA DE SENTENÇA. PREJUDICIALIDADE. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+1. Fica prejudicada a alegação de constrangimento ilegal por excesso de prazo, diante da superveniência de sentença.
+2. A sentença penal condenatória superveniente, que não permite ao réu recorrer em liberdade, somente prejudica o exame do habeas corpus quando contiver fundamentos diversos daqueles utilizados na decisão que decretou a prisão preventiva, o que não ocorreu no caso dos autos.
+3. Presentes prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+4. Na espécie, a prisão preventiva do recorrente está suficientemente fundamentada, tendo em vista a quantidade de entorpecentes apreendida - 4 quilogramas de cocaína e 2,26 gramas de maconha. Tal circunstância justifica seu encarceramento cautelar, para garantia da ordem pública, diante do entendimento consolidado nesta Corte, no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva.
+5. Ademais, o decreto de prisão preventiva está fundamentado no fato de o recorrente estar respondendo a outro processo por crime da mesma natureza, o que também justifica sua segregação cautelar para garantia da ordem pública, como forma de evitar a reiteração delitiva.
+6. Recurso ordinário em habeas corpus desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso.
+Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de recurso ordinário em habeas corpus interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Amazonas.
+Colhe-se dos autos que o recorrente teve a prisão em flagrante convertida em preventiva, pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Neste recurso, sustenta que: a) "o MM Juiz de 1º grau não apresentou quaisquer elementos ou circunstâncias de perigo a ordem social ou de afetação ao regular seguimento do feito" (e-STJ, fl. 186); b) "já está preso além do tempo que a lei processual determina, vez que já se passaram mais de 447 dias de tramitação processual, sem que a instrução seja concluída" (e-STJ, fl. 189).
+Pleiteia a revogação de sua prisão preventiva.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. EXCESSO DE PRAZO. SUPERVENIÊNCIA DE SENTENÇA. PREJUDICIALIDADE. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+1. Fica prejudicada a alegação de constrangimento ilegal por excesso de prazo, diante da superveniência de sentença.
+2. A sentença penal condenatória superveniente, que não permite ao réu recorrer em liberdade, somente prejudica o exame do habeas corpus quando contiver fundamentos diversos daqueles utilizados na decisão que decretou a prisão preventiva, o que não ocorreu no caso dos autos.
+3. Presentes prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+4. Na espécie, a prisão preventiva do recorrente está suficientemente fundamentada, tendo em vista a quantidade de entorpecentes apreendida - 4 quilogramas de cocaína e 2,26 gramas de maconha. Tal circunstância justifica seu encarceramento cautelar, para garantia da ordem pública, diante do entendimento consolidado nesta Corte, no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva.
+5. Ademais, o decreto de prisão preventiva está fundamentado no fato de o recorrente estar respondendo a outro processo por crime da mesma natureza, o que também justifica sua segregação cautelar para garantia da ordem pública, como forma de evitar a reiteração delitiva.
+6. Recurso ordinário em habeas corpus desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Inicialmente, consoante informações prestadas pelo Juízo de origem, o recorrente foi sentenciado, em 24/07/2017, oportunidade na qual foi mantida a segregação cautelar.
+Assim, sobrevindo a sentença condenatória, fica prejudicada a alegação de constrangimento ilegal por excesso de prazo.
+Cumpre destacar, ainda, que, de acordo com a jurisprudência desta Quinta Turma, a sentença penal condenatória superveniente, que não permite ao réu recorrer em liberdade, somente prejudica o exame do habeas corpus quando contiver fundamentos diversos daqueles utilizados na decisão que decretou a prisão preventiva (RHC 56.073/MG, Rel. Min. REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/8/2015, DJe de 25/8/2015; HC 307.754/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/4/2015, DJe de 21/5/2015).
+In casu, a sentença superveniente não inovou nas razões utilizadas para justificar a manutenção da custódia provisória, permanecendo inalterados os fundamentos da decisão objeto deste habeas corpus.
+Passo, assim, à análise da impetração.
+Presentes prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+No caso dos autos, a segregação cautelar do recorrente foi decretada pelos seguintes fundamentos:
+"Por força do art. 5o, inciso LXV da Constituição Federal, c/c o art. 310, I do CPP, analiso a possibilidade de relaxamento de prisão em flagrante ilegal, quando depreendo das peças do Auto de Prisão em Flagrante que o procedimento adotado na restrição da liberdade do flagranteado foi revestido de todas as formalidades legais, motivo que me faz HOMOLOGAR a prisão em flagrante.
+Contudo, por expressa determinação da Lei 12.403/2011, que deu nova redação ao artigo 310 do Código de Processo Penal, não basta somente esta homologação do auto de prisão em flagrante, é necessário analisar a necessidade de conversão da prisão em flagrante em prisão preventiva ou a possibilidade de aplicação de medidas cautelares diversas da prisão, ou ainda a concessão de liberdade provisória.
+Dentre estas, entendo aqui trilhar pela conversão da prisão em flagrante em prisão preventiva, na medida em que encontro presentes os pressupostos para a constrição cautelar.
+O requisito do fumus comissi delicti está presente nas peças do auto de prisão em flagrante, as quais comprovam a existência do crime ante a prova da materialidade comprovada pela Laudo Preliminar de Droga, que atestou ser COCAÍNA e MACONHA as substâncias encontradas, tudo em consonância com demais termos celebrados perante a autoridade policial, especialmente os depoimentos do condutor e testemunhas, dos quais também se extrai os indícios suficientes de autoria.
+Agora, faz-se presente também o periculum libertatis por pelo menos dois dos fundamentos autorizadores previstos no art. 312,caput, do CPP, quais sejam, a garantia da ordem pública e a conveniência da instrução criminal. No presente caso é curial acautelar o meio social ante o perigo que decorre do estado de liberdade do indiciado, em possivelmente vir a cometer outros crimes, bem como garantir que se chegue à verdade dos fatos. Fundamentando-se na ausência de certidão negativa de antecedentes no âmbito da Justiça Federal, comprovantes de residência fixa e de ocupação laboral ou educacional do acusado.
+Portanto, pela espécie da droga apresentada e as circunstâncias fáticas em que deram a prisão, seria por demais temerário utilizar de medidas cautelares diversas da mesma, tendo em vista a presença dos pressupostos anteriormente delineados, quais são suficientes para autorizar uma prisão preventiva." (e-STJ, fls. 52-53)
+Extrai-se, ainda, da sentença:
+"Sobre o direito de apelar em liberdade, necessário se faz algumas considerações. O acusado respondeu integralmente ao processo preso preventivamente, bem como foi lhe impingida pena em patamar suficiente a ensejar o recolhimento. O fato é que o condenado representa perigo para a coletividade se solto ficar, visto se tratar de acusado que vem se dedicando a atividades criminosas, sobretudo diante dos registros criminais de fls. 44,tornando-se ameaça para a ordem pública. Assim, mantenho a prisão preventiva do acusado com fins de assegurar a ordem pública e a aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal, não assegurando a ele o direito de apelar em liberdade."
+Como se vê, a prisão preventiva do recorrente está suficientemente fundamentada, tendo em vista a quantidade de entorpecentes apreendida - 4.000 (quatro mil) gramas de cocaína e 2,26g (dois gramas e vinte e seis centigramas) de maconha (e-STJ, fl. 231). Tal circunstância justifica seu encarceramento cautelar, para garantia da ordem pública, diante do entendimento consolidado neste Superior Tribunal, no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva.
+Sobre o tema, os seguintes precedentes:
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. INOCORRÊNCIA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. EXPRESSIVA QUANTIDADE DE DROGAS, DIVERSIDADE E ELEVADO GRAU DE NOCIVIDADE DAS SUBSTÂNCIAS APREENDIDAS. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. RECURSO ORDINÁRIO EM HABEAS CORPUS DESPROVIDO.
+ ..
+II - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do ora recorrente acarretaria risco à ordem pública, notadamente se considerada a expressiva quantidade e a nocividade das substâncias entorpecentes apreendidas em poder do recorrente (57 pedras de crack, pesando aproximadamente 12.90g e 39 pinos de cocaína, pesando aproximadamente 25.68g), aliado a fortes indícios de envolvimento do recorrente com a prática habitual do tráfico de entorpecentes, o que denota a periculosidade social do agente, bem como indica um maior desvalor da conduta perpetrada (precedentes).
+III - As condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, entre outras, não têm o condão de, por si sós, garantirem ao recorrente a revogação da prisão preventiva, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, como é o caso da presente hipótese.
+Recurso ordinário desprovido."
+(RHC 59.141/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/09/2015, DJe 09/10/2015.)
+"HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO RASPADA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. QUANTIDADE, NATUREZA E VARIEDADE DAS DROGAS APREENDIDAS. MANIFESTA ILEGALIDADE NÃO CONFIGURADA. PARECER ACOLHIDO.
+1. Tanto a quantidade como a variedade e a natureza das drogas apreendidas servem de justificativa para a prisão cautelar para a garantia da ordem pública, por revelar a gravidade concreta da ação.
+2. Ordem denegada."
+(HC 324.676/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 30/06/2015, DJe de 04/08/2015.)
+Ademais, o decreto de prisão preventiva está fundamentado no fato de o recorrente estar respondendo a outro processo por crime da mesma natureza, o que também justifica sua segregação cautelar para garantia da ordem pública, como forma de evitar a reiteração delitiva.
+A propósito:
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. NOVA ORIENTAÇÃO JURISPRUDENCIAL. ARTIGO 33, CAPUT, DA LEI N. 11.343/2006 E ARTIGO 155, C/C ART. 14, INCISO II, AMBOS DO CÓDIGO PENAL. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. REITERAÇÃO DELITIVA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+IV - No caso, a prisão preventiva do paciente encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade da segregação cautelar para garantia da ordem pública, notadamente se considerado o fato de o paciente já responder a outros processos, circunstância que demonstra, na espécie, o fundado receio de reiteração delitiva. (Precedentes do STF e do STJ).
+ ..
+Habeas corpus não conhecido."
+(HC 311.101/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/02/2015, DJe 23/02/2015.)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. COMPETÊNCIA DAS CORTES SUPERIORES. MATÉRIA DE DIREITO ESTRITO. MODIFICAÇÃO DE ENTENDIMENTO DESTE TRIBUNAL, EM CONSONÂNCIA COM A SUPREMA CORTE. FURTO QUALIFICADO. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE DEMONSTRADA PELO MODUS OPERANDI. PERICULOSIDADE CONCRETA DO ACUSADO. RECEIO CONCRETO DE REITERAÇÃO CRIMINOSA. GARANTIA DE APLICAÇÃO DA LEI PENAL. FUGA DO RÉU DO DISTRITO DA CULPA. FUNDAMENTAÇÃO IDÔNEA QUE RECOMENDA A MEDIDA CONSTRITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, NO CASO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DE HABEAS CORPUS NÃO CONHECIDA.
+ ..
+4. Inquéritos policiais e processos em andamento, embora não tenham o condão de exasperar a pena-base no momento da dosimetria da pena (Súmula n. 444/STJ), são elementos aptos a demonstrar, cautelarmente, eventual receio concreto de reiteração delitiva, fundamento suficiente para a decretação/manutenção da prisão antecipada.
+ ..
+7. Ordem de habeas corpus não conhecida."
+(HC 293.389/PR, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 12/08/2014, DJe 22/08/2014.)
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+É como voto.
