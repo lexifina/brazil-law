@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito negativo de competência no qual figura como suscitante o Juízo de Direito da 23ª Zona Eleitoral de [NOME]/SE, tendo como suscitado o Juízo de Direito da 2ª Vara Cível e Criminal de [NOME]/SE.
+Infere-se dos autos que [NOME] ajuizou queixa-crime em face de [NOME], aduzindo que a querelada, presidente do Partido Popular Socialista, teria, por meio da rede social facebook, caluniado, difamado e injuriado o querelante, em razão da pré-candidatura deste a Prefeito da cidade.
+O Juízo estadual declinou a competência, aduzindo que "os fatos narrados na queixa-crime foram praticados nas redes sociais com cunho de promover uma propaganda eleitoral negativa do Querelante, o que configura condutas de competência da Justiça Eleitoral" (e-STJ fl. 22)
+O Juízo eleitoral, entendendo não ser o feito de sua competência, suscitou o presente conflito, ao argumento de que "a suposta ofensa foi veiculada, na rede social facebook, no dia 01 de julho de 2017, consequentemente fora do período de propaganda eleitoral" (e-STJ fl. 61).
+Instado, o Ministério Público Federal opinou pela declaração da competência do Juízo de Direito da 2ª Vara Cível e Criminal de [NOME]/SE.
+É o relatório.
+O conflito merece ser conhecido, uma vez que os Juízos que suscitam a incompetência estão vinculados a Tribunais diversos, sujeitando-se, portanto, à jurisdição desta Corte, a teor do disposto no art. 105, inciso I, alínea "d", da Constituição Federal.
+Observa-se que o cerne da questão limita-se a definir se os delitos contra a honra da vítima, ainda que praticados fora do período de campanha eleitoral, podem ser considerados crimes eleitorais.
+Sobre o tema, é importante esclarecer que o caráter eleitoral dos crimes contra a honra pode ser evidenciado não apenas pelo período em que praticado o delito, isto é, na etapa de propaganda eleitoral, mas também pela finalidade pretendida pelo agente, de poder influir no comportamento do eleitorado.
+A propósito, veja-se a doutrina de Leonardo Schmitt de Bem e [NOME] a respeito do crime de calúnia previsto no Código Eleitoral:
+"A diferença entre este crime e o tipificado no Código Penal, é que o presente artigo aduz que o comportamento injusto culpável ocorra "na propaganda eleitoral, ou para fins de propaganda". O conceito de propaganda eleitoral (..) é entendido como a propaganda que acontece no período da eleição (entre o dia seis de julho e a eleição propriamente dita).
+Ao utilizar a expressão "ou para fins de propaganda" o preceito quer salientar que a calúnia não acontece especificamente no momento da propaganda eleitoral, mas também objetiva a divulgação de ideias de modo a conquistar o voto do eleitor.". (Direito Penal Eleitoral, 2 ed., São Paulo: Conceito Editorial, 2011, p. 190).
+Da análise dos autos, verifica-se que, embora os delitos contra a honra da vítima não tenham sido praticados no período de propaganda eleitoral, está claramente delineada na inicial a finalidade de desestimular o eleitor a votar no querelante.
+Por oportuno, confira trecho do texto publicado pela querelada na página da rede social facebook, anexado à inicial (e-STJ fl. 14):
+"(..) Temo pelo futuro da nossa gente, que corre o risco de ser governada por um "CANGACEIRO" impiedoso e sua CABROEIRA de "JAGUNÇOS" sanguinários (..) Os adeptos da candidatura do "CORONEL CRUEL" são pessoas de caráter e índole duvidosos (..) O povo precisa se libertar do PASSADO e olhar para o FUTURO. Entre o "CORONEL CRUEL" e o ADVOGADO o eleitor há de ELEGER O SEGUNDO (..)"
+Em regra, o próprio instrumento ou meio de que se valha o ofensor, por si só, é conclusivo para a identificação da finalidade, ou do dolo específico especial que tipifica como eleitoral o crime contra a honra. Assim, quando assacadas as ofensas em veículos de publicidade - a finalidade eleitoral apresenta-se manifesta.
+Nesse sentido, considerando que as infrações contra a honra da vítima foram praticadas com fins de propaganda eleitoral negativa, tem-se que a competência para o julgamento de tais delitos deve ser deslocada para a Justiça Eleitoral, ainda que praticados fora do período eleitoral.
+Ilustrativamente:
+CONFLITO NEGATIVO DE COMPETÊNCIA. INJÚRIA. JUSTIÇA ELEITORAL E JUSTIÇA COMUM DO ESTADO. SUPOSTAS OFENSAS DESVINCULADAS, DIRETA OU INDIRETAMENTE, DE PROPAGANDA ELEITORAL. COMPETÊNCIA DA JUSTIÇA COMUM DO ESTADO.
+1. O crime previsto no art. 326 do Código Eleitoral possui nítida simetria com o crime de injúria previsto no art. 140 do Código Penal, mas com este não se confunde, distinguindo-se, sobretudo, pelo acréscimo de elementares objetivas à figura típica, que acabou por resultar em relevante restrição à sua aplicação, refletindo, também por isso, na maior especialização do objeto jurídico tutelado.
+2. Na injúria comum, tutela-se a honra subjetiva, sob o viés da dignidade ou decoro individual e, na injúria eleitoral, protegem-se esses atributos ante o interesse social, que se extrai do direito subjetivo dos eleitores à lisura da competição eleitoral.
+3. A injúria eleitoral somente se perfectibiliza quando eventual ofensa ao decoro ou à dignidade ocorrer em propaganda eleitoral ou com fins de propaganda.
+ ..
+(CC 134.005/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 11/06/2014, DJe 16/06/2014) (grifos nossos)
+Ante o exposto, conhece-se do conflito de competência para declarar a competência do Juízo de Direito da 23ª Zona Eleitoral de [NOME]/SE, o suscitante.
+Publique-se. Intime-se.
