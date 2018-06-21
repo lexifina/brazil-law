@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que denegou a ordem no julgamento do HC n. 1.0000.18.007587-1/000, nos termos da seguinte ementa:
+"HABEAS CORPUS" - HOMICÍDIO QUALIFICADO TENTADO E AMEAÇA - LIBERDADE PROVISÓRIA - AUSÊNCIA DOS MOTIVOS AUTORIZADORES DA CUSTÓDIA PREVENTIVA - INOCORRÊNCIA - GARANTIA DA ORDEM PÚBLICA - CONSTRANGIMENTO ILEGAL - INOCORRÊNCIA.
+I. Em uma visão equilibrada constitucionalmente e consentânea com a funcionalização das normas processuais penais, é cabível, excepcionalmente, a custódia provisória para a garantia da ordem pública, havendo cautelaridade, não vinculada ao processo em si, mas à ordem social.
+II. O modus operandi do crime demonstra em um juízo valorativo baseado em elementos concretos e não puramente abstratos, que há dados objetivos para se concluir que o paciente, solto, simboliza um risco à ordem pública, pela propensão para a repetição de novas infrações deste jaez.
+O recorrente foi preso em flagrante no dia 6/12/2017, e convertida a custódia em preventiva (e-STJ fls. 39/40) pela suposta prática do crime tipificado no art. 121, § 2.º, incisos II c.c art. 17, II, e art. 147, todos do Código Penal.
+Inconformada com o decreto prisional, a defesa impetrou o writ originário, cuja ordem, como antes relatado, foi denegada, nos termos do acórdão de e-STJ fls. 93/100. Esta é a decisão recorrida.
+Nas razões recursais (e-STJ fls. 104/118), o recorrente sustenta haver constrangimento ilegal na sua segregação cautelar porque o decreto prisional não apresentou fundamentação idônea (gravidade abstrata do delito), tampouco qualquer dado concreto que justificasse a necessidade da medida extrema. Aduz que estão ausentes da espécie os requisitos autorizadores da medida extrema, previstos no art. 312 do Código de Processo Penal.
+Nega a autoria dos delitos, afirmando que estava sendo ameaçado há mais de um ano pelos seus vizinhos e que se defendia do injusto mal que pretendiam lhe causar. Informa, ainda, que o delegado da polícia civil que chegou ao local estava à paisana e não se apresentou como autoridade, apenas sacou a arma e foi por isso que ele buscou a arma do seu avó, para se defender.
+Pondera acerca das suas condições pessoais favoráveis, uma vez que é primário, portador de bons antecedentes, com residência fixa. Aduz que somente compareceu à Delegacia para registrar boletim de ocorrência acerca da ameaça que estava sofrendo por parte das vítimas (o que comprova a preexistência de conflitos entre as partes).
+O recorrente sustenta haver excesso de prazo para a conclusão do inquérito policial, ao argumento de que está preso há mais de 93 (noventa e três) dias, sem oferecimento da denúncia.
+Pondera, por fim, ser adequado e proporcional ao caso concreto a imposição de medidas cautelares diversas da prisão.
+O recorrente pede a revogação da sua prisão preventiva, com a expedição de alvará de soltura ou, subsidiariamente, a imposição de medidas cautelares diversas da prisão.
+Contrarrazões à e-STJ fl. 135.
+Não houve pedido liminar e o Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 145/151), cujo parecer foi assim ementado:
+RECURSO EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO NA FORMA TENTADA E AMEAÇA (ART. 121, § 2º, II, C/C ART. 14, II E ART. 147, DO CÓDIGO PENAL). PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO QUE MANTEVE A PRISÃO CAUTELAR. NÃO DEMONSTRAÇÃO. INDÍCIOS DE AUTORIA E MATERIALIDADE DO FATO COMPROVADOS. GRAVIDADE CONCRETA DO CRIME. GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. FUNDAMENTAÇÃO IDÔNEA. ALEGADO EXCESSO DE PRAZO. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA NO CASO. PARECER PELO NÃO PROVIMENTO DO RECURSO.
+Convertido o julgamento em diligência, informações atualizadas foram prestadas às e-STJ fls. 163/195.
+É o relatório. Decido.
+Consoante informações prestadas pela apontada autoridade coatora (e-STJ fls. 164/165), o Juízo processante, reconhecendo a existência de excesso de prazo, relaxou a prisão preventiva do recorrente.
+Nesse contexto, fica sem objeto o pedido contido na inicial que se insurgia contra a custódia cautelar do recorrente.
+Ante o exposto, com base no art. 34, incisos XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso.
+Publique. Intime-se.
