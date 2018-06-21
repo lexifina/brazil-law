@@ -1,0 +1,27 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO. HONORÁRIOS DE SUCUMBÊNCIA. CÁLCULO SOBRE O VALOR ATUALIZADO DA CAUSA. ÍNDICE DE CORREÇÃO MONETÁRIA. JUROS DE MORA. OMISSÃO. INEXISTÊNCIA.
+1. Não configura omissão do julgado a ausência de definição do índice de correção monetária para atualização do valor da causa e do termo inicial de incidência de juros de mora se tais matérias não foram devolvidas no recurso de embargos de divergência.
+2. Embargos de declaração rejeitados.
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] à decisão que conheceu dos embargos de divergência e lhes deu provimento nos termos da seguinte ementa:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AGRAVO DE INSTRUMENTO E AGRAVO REGIMENTAL DESPROVIDOS. QUESTÃO CONTROVERTIDA EXAMINADA NO ACÓRDÃO EMBARGADO. CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA INTERPOSTOS SOB A ÉGIDE DO NOVO CPC. AFASTAMENTO DA SÚMULA N. 315 DO STJ. PARADIGMA DA MESMA TURMA. NÃO CABIMENTO. NÃO OCORRÊNCIA DE ALTERAÇÃO SUBSTANCIAL DO COLEGIADO. HONORÁRIOS ADVOCATÍCIOS. ART. 20, § 4º, DO CPC/1973. EQUIDADE. VALOR DA CAUSA OU BENEFÍCIO ECONÔMICO DA DEMANDA. CRITÉRIO A SER OBSERVADO EM CONJUNTO COM OS DEMAIS PARÂMETROS LEGAIS. INEXISTÊNCIA DE CORRESPONDÊNCIA DA VERBA COM A RESPONSABILIDADE ASSUMIDA PELO ADVOGADO. RECONHECIMENTO DO CARÁTER IRRISÓRIO. CRITÉRIO OBJETIVO. AFASTAMENTO DA SÚMULA N. 7 DO STJ.
+1. O Código de Processo Civil de 2015, no inciso III do art. 1.043, positivou o entendimento adotado pelo STJ de admitir os embargos de divergência interpostos no domínio do agravo de instrumento/agravo em recurso especial desprovidos, quando a fundamentação do julgado passar pelo exame do mérito do apelo trancado na origem, mitigando, assim, a incidência da Súmula n. 315 do STJ.
+2. A circunstância de o dispositivo prever como embargável apenas "acórdão prolatado em recurso especial" deve ser creditada ao fato de que o novo CPC havia extinto o duplo juízo de admissibilidade do recurso especial, o qual foi restabelecido, antes mesmo da entrada em vigor da novel legislação processual, pela Lei n. 13.256/2016, sem que, todavia, tenha-se readequado a dicção do art. 1.043.
+3. Somente é possível a divergência com paradigma da mesma Turma de que oriundo o acórdão embargado se o colegiado sofreu alteração em mais da metade de seus membros (§ 3º do art. 1.043 do CPC/2015).
+4. A autorização para julgamento por equidade dos honorários de sucumbência tem por objetivo o alcance de um valor com base na realidade econômica e social em que se insere a demanda.
+5. Na formação do juízo de equidade, devem ser observados, conjuntamente, todos os parâmetros fixados na lei, não podendo haver desprezo de nenhum deles.
+6. A importância da demanda é um dos parâmetros legais e tem por escopo a valorização da responsabilidade assumida pelo advogado ao aceitar o patrocínio da causa, de modo que sua interpretação há de ser feita em benefício do causídico e não às avessas, ou seja, para minimizar a oneração da parte adversa, ainda que seja ela a Fazenda Pública.
+7. A inobservância desse parâmetro na definição da verba honorária configura uma questão de direito, suscetível de exame no âmbito do recurso especial.
+8. Considerando que inexiste preponderância entre os parâmetros estabelecidos nas alíneas do § 3º do art. 20 do CPC/1973, o subdimensionamento da importância da demanda para além do razoável não poderia ser justificado em razão dos demais parâmetros, o que permite a adoção de um critério objetivo para aferir o respeito a esse parâmetro específico, que, em regra, vem traduzido pelo valor da causa ou do benefício econômico perseguido na ação.
+9. A fixação de honorários advocatícios de sucumbência em patamar inferior ao equivalente a 1% do valor atualizado da causa ou do benefício econômico perseguido na demanda revela, primo oculi, a inobservância do parâmetro legal referente à importância da demanda.
+10. Dá-se provimento ao recurso no caso concreto para majorar a verba honorária de R$ 500,00 para o equivalente a 1% sobre o valor atualizado da causa (R$127.232,26).
+11. Embargos de divergência conhecidos e providos.
+O embargante sustenta que o julgado padece de omissão por não ter explicitado a forma de atualização monetária do valor da causa, bem como o termo inicial de incidência dos juros de mora. Aduz haver controvérsia sobre o índice de correção monetária a ser utilizado e pugna pela adoção do IPCA-E.
+Devidamente intimada, a parte embargada deixou transcorrer in albis o prazo para impugnação, conforme certidão de fl. 446 (e-STJ).
+É o relatório. Decido.
+A decisão embargada deu provimento aos embargos de divergência para fazer prevalecer o entendimento consolidado nos arestos paradigma, que consideram irrisórios os honorários de sucumbênca fixados em patamar inferior a 1% do valor da causa.
+Assim, majorou os honorários, antes arbitrados em R$ 500,00, para o equivalente a 1% do valor atualizado da causa.
+Não há falar em omissão do julgado por ausência de manifestação a respeito do índice de correção monetária a ser adotado para atualização do valor da causa e ainda sobre a incidência de juros moratórios, visto que tais temas não foram devolvidos no recurso examinado.
+Eventual controvérsia a respeito dessas questões deverá ser sanada pelo juízo da execução, não cabendo a esta instância dirigir-lhe os atos, em antecipação.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
