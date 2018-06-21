@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por JOANNA [NOME] E [NOME] em face de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado (e-STJ fl. 162):
+APELAÇÃO CÍVEL. Embargos de Terceiro. Pretensão à desconstituição de penhora em imóvel em que o casal reside. Inadmissibilidade. O cônjuge responde solidariamente pelas dívidas contraídas em benefício da entidade familiar. Aplicação do artigo 1.644 do Código Civil. Precedentes. Sentença mantida. Recurso não provido.
+Nas razões do recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, os recorrentes apontam violação ao artigo 263, XIII, do Código Civil de 1916 e Súmula 251, do STJ, bem como divergência jurisprudencial.
+Em síntese, aduz que no presente caso deve ser aplicado a teoria do tempus regit actum, pois, na época do suposto evento danoso que originou a penhora do imóvel, objeto destes autos, o débito executado é oriundo de cobrança de multa por inadimplemento contratual da empresa [NOME], Filhos & Cia Ltda, e não da recorrente, bem como, esta e sua família não obtiveram qualquer benefício com o referido inadimplemento contratual.
+A inadmissão do recurso especial se fez à consideração de que: i) o dispositivo indicado como violado não foi apreciado pelo acórdão recorrido, incidindo as Súmulas 282 e 356 do STF; ii) rever a posição da Turma Julgadora importaria em ofensa à Súmula 7/STJ; iii) quanto à divergência jurisprudencial, os recorrentes não atenderam ao requisito previsto no parágrafo único do art. 541 do CPC/1973 (correspondente ao § 1º do art. 1029 do CPC/2015) e § 1º, do art. 255 do RISTJ.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Da leitura da decisão de inadmissibilidade observa-se que o Tribunal de origem concluiu que não houve o devido prequestionamento do artigo citado como violado, bem como rever o entendimento a que se chegou demandaria reexame de provas, inviável nos termos da Súmula 7/STJ, bem como não foi demonstrada a divergência jurisprudencial com o necessário cotejo analítico entre os julgados confrontados.
+Contudo, do exame do agravo interposto, observa-se que os agravantes furtaram-se de impugnar, especificamente, os segundo e terceiro fundamentos de inadmissibilidade - Súmula 7/STJ e ausência de cotejo analítico a comprovar a divergência jurisprudencial, limitando-se apenas repisar as razões expendidas em seu apelo especial.
+A afirmação de que "não há qualquer intenção de ofensa à Súmula 07, do STJ, isto porque, o trânsito do Recurso Especial não torna necessária a reavaliação de qualquer elemento fático exposto nos presentes autos", revela combate não específico e inapto a reformar a decisão agravada, porque compete à parte agravante demonstrar de que forma a violação ao artigo suscitada nas razões recursais não depende de reanálise do conjunto fático-probatório dos autos.
+Assim, o agravo em recurso especial carece de fundamentação, e não se conhecerá do agravo que não tenha atacado especificamente os fundamentos da decisão de inadmissibilidade.
+A jurisprudência do STJ é assente no sentido de que impugnação à fundamentação contida na decisão agravada deve ser específica e suficientemente fundamentada e atacar todos os pontos do decisum.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. ALEGAÇÃO TARDIA. INOVAÇÃO DA PRETENSÃO RECURSAL. INADMISSIBILIDADE. AGRAVO NÃO CONHECIDO.
+1. O agravo interno não impugnou o fundamento da decisão agravada, pois não refutou, de forma fundamentada, o óbice da incidência da Súmula nº 83 do STJ que levou ao não conhecimento do agravo anteriormente manejado contra o não seguimento do especial articulado. Incidência da Súmula nº 182 do STJ.
+2. Não se pode conhecer da alegada validade do Termo de Transação e Migração porque é vedada a inovação da pretensão recursal.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 142.898/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/06/2016, DJe 01/07/2016)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE EXECUÇÃO - AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE INDEFERIU A IMPENHORABILIDADE DO IMÓVEL DOS RECORRENTES - RECONHECIMENTO DA DESERÇÃO PELA CORTE LOCAL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DOS EXECUTADOS.
+1. Carecem de interesse recursal os recorrentes que possuem a pretensão de verem reconhecido o prequestionamento da matéria, na hipótese da decisão monocrática ter expressamente acolhido a tese e enfrentado o mérito do recurso especial.
+2. Cabe ao agravantes, nas razões do agravo regimental, trazerem argumentos suficientes para contestar a decisão agravada. A ausência de impugnação específica aos fundamentos da decisão que nega seguimento ao agravo em recurso especial atrai a incidência do óbice contido na Súmula 182 desta Corte. Precedentes.
+3. Agravo regimental não conhecido.
+(AgRg nos EDcl no AgRg no AREsp 429.832/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/06/2016, DJe 22/06/2016)
+Afinal, é dever do agravante demonstrar o desacerto do magistrado ao fundamentar a decisão impugnada, atacando especificamente e em sua totalidade o seu conteúdo, o que não ocorreu na espécie, uma vez que as razões apresentadas contra a decisão de inadmissibilidade do recurso especial não impugnou especificamente todos os fundamentos.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
